@@ -1,9 +1,73 @@
 import json
+import requests
 import random
 from typing import List, Optional
 from flask import Flask, Response
+import configparser
+import os
 
 SAMPLE_SENTENCE_COUNT = 3
+
+
+class Config:
+    def __init__(self, config_file_path: str):
+        self.config_file_path = config_file_path
+        if not os.path.exists(self.config_file_path):
+            raise Exception(f"Config file not found at {self.config_file_path}")
+        self.config = configparser.ConfigParser()
+        self.config.read(self.config_file_path)
+
+        self.api_key = self.config['api_client']['api_key']
+        self.base_url = self.config['api_client']['base_url']
+        self.path = self.config['api_client']['path']
+        self.model = self.config['api_client']['model']
+        self.max_response_tokens = int(self.config['api_client']['max_response_tokens'])
+        self.temperature = float(self.config['api_client']['temperature'])
+        self.max_prompt_chars = int(self.config['api_client']['max_prompt_chars'])
+
+        self.whitelist_enabled = self.config['server']['whitelist_enabled'].lower() == 'true'
+        self.whitelist = [item.strip() for item in self.config['server']['whitelist'].split(',') if self.whitelist_enabled]
+
+        self.min_seconds_between_requests_per_user = float(self.config['server']['min_seconds_between_requests_per_user'])
+        self.min_seconds_between_requests_per_user = self.min_seconds_between_requests_per_user if self.min_seconds_between_requests_per_user > 0 else 0
+
+        self.host = self.config['server']['host']
+        self.port = int(self.config['server']['port'])
+
+
+class OpenAIAPIClient:
+    def __init__(self, base_url: str, path: str, api_key: str, model: str, max_response_tokens: int, temperature: float):
+        self.base_url = base_url
+        self.path = path
+        self.api_key = api_key
+        self.model = model
+        self.max_response_tokens = max_response_tokens
+        self.temperature = temperature
+
+
+
+    def send_prompt(self, prompt: str) -> str:
+        headers = {
+            'Authorization': 'Bearer ' + self.api_key,
+            'Content-Type': 'application/json',
+        }
+
+        body = {
+            "model": self.model,
+            "messages": [{"role": "user", "content": prompt}],
+            "max_tokens": self.max_response_tokens,
+            "temperature": self.temperature
+        }
+
+        response = self.post(body=body, headers=headers, path=self.path)
+        response_json = json.loads(response)
+        text = response_json["choices"][0]["message"]["content"].strip()
+        return text
+
+    def post(self, body: dict, headers: dict, path: str):
+        response = requests.post(self.base_url + path, headers=headers, data=json.dumps(body))
+        return response.text
+
 
 class Kanji:
     def __init__(self, character: str, data: dict):
