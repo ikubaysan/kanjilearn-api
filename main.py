@@ -43,32 +43,38 @@ class KanjiCollection:
         elif jlpt_new == 5:
             self.n5.append(kanji)
 
-    def get_random_kanji(self, jlpt_level: int) -> Optional[Kanji]:
-        if jlpt_level == 1:
-            return random.choice(self.n1) if self.n1 else None
-        elif jlpt_level == 2:
-            return random.choice(self.n2) if self.n2 else None
-        elif jlpt_level == 3:
-            return random.choice(self.n3) if self.n3 else None
-        elif jlpt_level == 4:
-            return random.choice(self.n4) if self.n4 else None
-        elif jlpt_level == 5:
-            return random.choice(self.n5) if self.n5 else None
-        else:
-            return None
+    def get_random_kanji(self, jlpt_levels: List[int]) -> Optional[Kanji]:
+        kanji_pool = []
+        for level in jlpt_levels:
+            kanji_pool.extend(getattr(self, f'n{level}', []))
+        return random.choice(kanji_pool) if kanji_pool else None
 
 class KanjiAPI:
     def __init__(self, collection: KanjiCollection):
         self.collection = collection
         self.app = Flask(__name__)
-        self.app.add_url_rule('/<int:jlpt_level>', 'get_kanji', self.get_kanji, methods=['GET'])
+        self.app.add_url_rule('/random_kanji/', 'get_kanji', self.get_kanji, methods=['GET'], defaults={'levels': ''})
+        self.app.add_url_rule('/random_kanji/<levels>', 'get_kanji', self.get_kanji, methods=['GET'])
 
-    def get_kanji(self, jlpt_level: int) -> Response:
-        kanji = self.collection.get_random_kanji(jlpt_level)
+
+    def get_kanji(self, levels: str = '') -> Response:
+        if levels:
+            try:
+                # Filter out empty strings after splitting
+                jlpt_levels = [int(level) for level in levels.split(',') if level.strip()]
+            except ValueError:
+                return Response("Invalid JLPT level format.", status=400)
+        else:
+            # If no level is specified, use all levels
+            jlpt_levels = [1, 2, 3, 4, 5]
+
+        kanji = self.collection.get_random_kanji(jlpt_levels)
         if kanji:
             return Response(self.format_kanji_info(kanji), mimetype='text/plain')
         else:
-            return Response("No kanji found for the specified JLPT level.", status=404)
+            return Response("No kanji found for the specified JLPT levels.", status=404)
+
+
 
     @staticmethod
     def format_kanji_info(kanji: Kanji) -> str:
@@ -85,6 +91,7 @@ class KanjiAPI:
             # Include other fields if needed
         ]
         return '\n'.join(info)
+
 
 if __name__ == "__main__":
     # Load the JSON data
