@@ -1,193 +1,15 @@
 import json
-import requests
-import random
-from typing import List, Optional
-from flask import Flask, Response
-import configparser
+from modules.Kanji import Kanji
+from modules.KanjiCollection import KanjiCollection
+from modules.KanjiAPIServer import KanjiAPIServer
+from modules.OpenAIAPIClient import OpenAIAPIClient
 import os
+from modules.Config import Config
+
 
 SAMPLE_SENTENCE_COUNT = 3
 
-
-class Config:
-    def __init__(self, config_file_path: str):
-        self.config_file_path = config_file_path
-        if not os.path.exists(self.config_file_path):
-            raise Exception(f"Config file not found at {self.config_file_path}")
-        self.config = configparser.ConfigParser()
-        self.config.read(self.config_file_path)
-
-        self.api_key = self.config['api_client']['api_key']
-        self.base_url = self.config['api_client']['base_url']
-        self.path = self.config['api_client']['path']
-        self.model = self.config['api_client']['model']
-        self.max_response_tokens = int(self.config['api_client']['max_response_tokens'])
-        self.temperature = float(self.config['api_client']['temperature'])
-        self.max_prompt_chars = int(self.config['api_client']['max_prompt_chars'])
-
-        self.whitelist_enabled = self.config['server']['whitelist_enabled'].lower() == 'true'
-        self.whitelist = [item.strip() for item in self.config['server']['whitelist'].split(',') if self.whitelist_enabled]
-
-        self.min_seconds_between_requests_per_user = float(self.config['server']['min_seconds_between_requests_per_user'])
-        self.min_seconds_between_requests_per_user = self.min_seconds_between_requests_per_user if self.min_seconds_between_requests_per_user > 0 else 0
-
-        self.host = self.config['server']['host']
-        self.port = int(self.config['server']['port'])
-
-
-class OpenAIAPIClient:
-    def __init__(self, base_url: str, path: str, api_key: str, model: str, max_response_tokens: int, temperature: float):
-        self.base_url = base_url
-        self.path = path
-        self.api_key = api_key
-        self.model = model
-        self.max_response_tokens = max_response_tokens
-        self.temperature = temperature
-
-
-
-    def send_prompt(self, prompt: str) -> str:
-        headers = {
-            'Authorization': 'Bearer ' + self.api_key,
-            'Content-Type': 'application/json',
-        }
-
-        body = {
-            "model": self.model,
-            "messages": [{"role": "user", "content": prompt}],
-            "max_tokens": self.max_response_tokens,
-            "temperature": self.temperature
-        }
-
-        response = self.post(body=body, headers=headers, path=self.path)
-        response_json = json.loads(response)
-        text = response_json["choices"][0]["message"]["content"].strip()
-        return text
-
-    def post(self, body: dict, headers: dict, path: str):
-        response = requests.post(self.base_url + path, headers=headers, data=json.dumps(body))
-        return response.text
-
-
-class Kanji:
-    def __init__(self, character: str, data: dict):
-        self.character = character
-        self.strokes = data['strokes']
-        self.grade = data['grade']
-        self.freq = data['freq']
-        self.jlpt_old = data['jlpt_old']
-        self.jlpt_new = data['jlpt_new']
-        self.meanings = data['meanings']
-        self.readings_on = data['readings_on']
-        self.readings_kun = data['readings_kun']
-        self.wk_level = data['wk_level']
-        self.wk_meanings = data['wk_meanings']
-        self.wk_readings_on = data['wk_readings_on']
-        self.wk_readings_kun = data['wk_readings_kun']
-        self.wk_radicals = data['wk_radicals']
-
-class KanjiCollection:
-    def __init__(self):
-        self.n1 = []
-        self.n2 = []
-        self.n3 = []
-        self.n4 = []
-        self.n5 = []
-
-    def add_kanji(self, kanji: Kanji):
-        jlpt_new = kanji.jlpt_new
-        if jlpt_new is None:
-            return
-        if jlpt_new == 1:
-            self.n1.append(kanji)
-        elif jlpt_new == 2:
-            self.n2.append(kanji)
-        elif jlpt_new == 3:
-            self.n3.append(kanji)
-        elif jlpt_new == 4:
-            self.n4.append(kanji)
-        elif jlpt_new == 5:
-            self.n5.append(kanji)
-
-    def get_random_kanji(self, jlpt_levels: List[int]) -> Optional[Kanji]:
-        kanji_pool = []
-        for level in jlpt_levels:
-            kanji_pool.extend(getattr(self, f'n{level}', []))
-        return random.choice(kanji_pool) if kanji_pool else None
-
-class KanjiAPI:
-    def __init__(self, collection: KanjiCollection):
-        self.collection = collection
-        self.app = Flask(__name__)
-        self.app.add_url_rule('/random_kanji/', 'get_kanji', self.get_kanji, methods=['GET'], defaults={'levels': ''})
-        self.app.add_url_rule('/random_kanji/<levels>', 'get_kanji', self.get_kanji, methods=['GET'])
-        self.app.add_url_rule('/quiz/', 'quiz_kanji', self.quiz_kanji, methods=['GET'], defaults={'levels': ''})
-        self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.quiz_kanji, methods=['GET'])
-
-    def get_kanji(self, levels: str = '') -> Response:
-        if levels:
-            try:
-                # Filter out empty strings after splitting
-                jlpt_levels = [int(level) for level in levels.split(',') if level.strip()]
-            except ValueError:
-                return Response("Invalid JLPT level format.", status=400)
-        else:
-            # If no level is specified, use all levels
-            jlpt_levels = [1, 2, 3, 4, 5]
-
-        kanji = self.collection.get_random_kanji(jlpt_levels)
-        if kanji:
-            response = f"{kanji.character}@{self.format_kanji_info(kanji, include_meanings=True, sample_sentence_count=SAMPLE_SENTENCE_COUNT)}"
-            return Response(response, mimetype='text/plain')
-        else:
-            return Response("No kanji found for the specified JLPT levels.", status=404)
-
-    def quiz_kanji(self, levels: str = '') -> Response:
-        if levels:
-            try:
-                jlpt_levels = [int(level) for level in levels.split(',') if level.strip()]
-            except ValueError:
-                return Response("Invalid JLPT level format.", status=400)
-        else:
-            jlpt_levels = [1, 2, 3, 4, 5]
-
-        quiz_kanji = [self.collection.get_random_kanji(jlpt_levels) for _ in range(5)]
-        if not all(quiz_kanji):
-            return Response("Insufficient kanji data for the quiz.", status=404)
-
-        first_kanji_info = self.format_kanji_info(quiz_kanji[0], include_meanings=False)
-        meanings = [kanji.meanings for kanji in quiz_kanji]
-        random.shuffle(meanings)
-        correct_answer_index = meanings.index(quiz_kanji[0].meanings)
-
-        response = f"{quiz_kanji[0].character}@{first_kanji_info}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
-        return Response(response, mimetype='text/plain')
-
-
-    def get_sample_sentences(self, kanji: Kanji, count: int = 1) -> List[str]:
-        sentences = []
-        for i in range(count):
-            # TODO: use AI to generate sample sentences
-            sentence = f"This is sample sentence #{i + 1} for {kanji.character}."
-            sentences.append(sentence)
-        return sentences
-
-    def format_kanji_info(self, kanji: Kanji, include_meanings: bool = True, sample_sentence_count: int = 0) -> str:
-        info = [
-            f"画数: {kanji.strokes}",
-            f"学年: {kanji.grade}",
-            f"JLPT: {kanji.jlpt_new}",
-            f"音読み: {', '.join(kanji.readings_on)}",
-            f"訓読み: {', '.join(kanji.readings_kun)}",
-        ]
-        if include_meanings:
-            info.append(f"意味: {', '.join(kanji.meanings)}")
-
-        if sample_sentence_count > 0:
-            sentences = self.get_sample_sentences(kanji, sample_sentence_count)
-            info.append(f"例文: {', '.join(sentences)}")
-
-        return '\n'.join(info)
+base_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 if __name__ == "__main__":
@@ -203,6 +25,12 @@ if __name__ == "__main__":
         kanji = Kanji(character, data)
         collection.add_kanji(kanji)
 
+
+    config = Config(os.path.join(base_dir, 'config.ini'))
+    openai_api_client = OpenAIAPIClient(base_url=config.base_url, path=config.path, api_key=config.api_key, model=config.model, max_response_tokens=config.max_response_tokens, temperature=config.temperature)
+
     # Initialize and run the API
-    kanji_api = KanjiAPI(collection)
+    kanji_api = KanjiAPIServer(collection=collection,
+                               openai_api_client=openai_api_client,
+                               sample_sentence_count=SAMPLE_SENTENCE_COUNT)
     kanji_api.app.run(host='0.0.0.0', port=5733)
