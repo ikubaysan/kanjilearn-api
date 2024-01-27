@@ -1,7 +1,7 @@
 from typing import List, Optional
 
 class Kanji:
-    def __init__(self, character: str, data: dict, sample_sentence_count: int = 0):
+    def __init__(self, character: str, data: dict):
         self.character = character
         self.strokes = data['strokes']
         self.grade = data['grade']

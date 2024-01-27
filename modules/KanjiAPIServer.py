@@ -67,21 +67,17 @@ class KanjiAPIServer:
         if prompt is None:
             return lines
 
-
         try:
             response = self.openai_api_client.send_prompt(prompt=prompt)
+            response_list_of_dicts = json.loads(response)
+            #response_list_of_dicts = [{'sentence': '日本は美しい国です。', 'sentence_furigana': 'にほんは(び)しい(くに)です。', 'meaning': 'Japan is a beautiful country.'}, {'sentence': '私はその国の文化に興味があります。', 'sentence_furigana': 'わたしはその(くに)の(ぶんか)に(きょうみ)があります。', 'meaning': 'I am interested in the culture of that country.'}, {'sentence': '彼は外国に行くのが好きです。', 'sentence_furigana': 'かれは(がいこく)に(い)くのが(す)きです。', 'meaning': 'He likes to go to foreign countries.'}]
+            for entry in response_list_of_dicts:
+                sentence = entry['sentence']
+                furigana = entry['sentence_furigana']
+                meaning = entry['meaning']
+                lines.append(f"{sentence}\n{furigana}\n{meaning}\n")
         except Exception as e:
             print(f"Failed to send prompt to OpenAI API and parse response content: {e}.")
-            return lines
-
-        response_list_of_dicts = json.loads(response)
-        #response_list_of_dicts = [{'sentence': '日本は美しい国です。', 'sentence_furigana': 'にほんは(び)しい(くに)です。', 'meaning': 'Japan is a beautiful country.'}, {'sentence': '私はその国の文化に興味があります。', 'sentence_furigana': 'わたしはその(くに)の(ぶんか)に(きょうみ)があります。', 'meaning': 'I am interested in the culture of that country.'}, {'sentence': '彼は外国に行くのが好きです。', 'sentence_furigana': 'かれは(がいこく)に(い)くのが(す)きです。', 'meaning': 'He likes to go to foreign countries.'}]
-
-        for entry in response_list_of_dicts:
-            sentence = entry['sentence']
-            furigana = entry['sentence_furigana']
-            meaning = entry['meaning']
-            lines.append(f"{sentence}\n{furigana}\n{meaning}\n")
 
         return lines
 
