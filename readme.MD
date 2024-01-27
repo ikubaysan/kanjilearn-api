@@ -4,12 +4,18 @@
 
 ## Server Setup:
 1. Install Python 3
-2. Install the requirements with `pip install -r requirements.txt`
-3. Make a copy of `config_example.ini` and rename it to `config.ini`
-4. Open `config.ini` in a text editor and enter your OpenAI API key to the api_key section. 
+2. Create a virtual environment:
+   - On Windows: Run `python -m venv venv` in your project directory
+   - On Linux: Run `python3 -m venv venv` in your project directory
+3. Activate the virtual environment:
+   - On Windows: Run `venv\Scripts\activate`
+   - On Linux: Run `source venv/bin/activate`
+4. Install the requirements with `pip install -r requirements.txt`
+5. Make a copy of `config_example.ini` and rename it to `config.ini`
+6. Open `config.ini` in a text editor and enter your OpenAI API key to the api_key section. 
 Change any other options as you see fit. Set `host` to `localhost` if testing locally.
 If you want the server to be accessible to the internet, and assuming you've forwarded the port you want to use, set `host` to `0.0.0.0`
-5. Run `python main.py` to start the server. The server will be hosted on the host and port you specified in `config.ini`
+7. Run `python main.py` to start the server. The server will be hosted on the host and port you specified in `config.ini`
 
 With the default configuration, you can test the server with Postman by making a GET HTTP request to your server at:
 http://localhost:5733/random_kanji/
