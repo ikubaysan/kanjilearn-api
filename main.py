@@ -33,4 +33,4 @@ if __name__ == "__main__":
     kanji_api = KanjiAPIServer(collection=collection,
                                openai_api_client=openai_api_client,
                                sample_sentence_count=SAMPLE_SENTENCE_COUNT)
-    kanji_api.app.run(host='0.0.0.0', port=5733)
+    kanji_api.app.run(host='0.0.0.0', port=config.port)
