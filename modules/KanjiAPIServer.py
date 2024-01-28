@@ -53,7 +53,7 @@ class KanjiAPIServer:
         random.shuffle(meanings)
         correct_answer_index = meanings.index(quiz_kanji[0].meanings)
 
-        response = f"{quiz_kanji[0].character}@{first_kanji_info}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
+        response = f"{first_kanji_info}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
         return Response(response, mimetype='text/plain')
 
 
