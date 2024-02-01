@@ -44,11 +44,12 @@ class KanjiAPIServer:
         else:
             jlpt_levels = [1, 2, 3, 4, 5]
 
+        # Get 5 random kanji
         quiz_kanji = [self.collection.get_random_kanji(jlpt_levels) for _ in range(5)]
         if not all(quiz_kanji):
             return Response("Insufficient kanji data for the quiz.", status=404)
 
-        first_kanji_info = self.format_kanji_info(quiz_kanji[0], include_meanings=False)
+        first_kanji_info = self.format_kanji_info(quiz_kanji[0], include_meanings=False, sample_sentence_count=self.sample_sentence_count)
         meanings = [kanji.meanings for kanji in quiz_kanji]
         random.shuffle(meanings)
         correct_answer_index = meanings.index(quiz_kanji[0].meanings)
@@ -57,7 +58,7 @@ class KanjiAPIServer:
         return Response(response, mimetype='text/plain')
 
 
-    def get_sample_sentences(self, kanji: Kanji) -> List[str]:
+    def get_sample_sentences(self, kanji: Kanji, include_meanings: bool) -> List[str]:
         lines = []
 
         if self.openai_api_client is None:
@@ -74,8 +75,11 @@ class KanjiAPIServer:
             for entry in response_list_of_dicts:
                 sentence = entry['sentence']
                 furigana = entry['sentence_furigana']
-                meaning = entry['meaning']
-                lines.append(f"{sentence}\n{furigana}\n{meaning}\n")
+                if include_meanings:
+                    meaning = entry['meaning']
+                    lines.append(f"{sentence}\n{furigana}\n{meaning}\n")
+                else:
+                    lines.append(f"{sentence}\n{furigana}\n")
         except Exception as e:
             print(f"Failed to send prompt to OpenAI API and parse response content: {e}.")
 
@@ -93,7 +97,7 @@ class KanjiAPIServer:
             info.append(f"意味: {', '.join(kanji.meanings)}")
 
         if sample_sentence_count > 0:
-            sentences = self.get_sample_sentences(kanji)
+            sentences = self.get_sample_sentences(kanji, include_meanings=include_meanings)
             sentence_str = '\n'.join(sentences)
             #info.append(f"例文:\n{sentence_str}")
             info.append(f"\n{sentence_str}")
