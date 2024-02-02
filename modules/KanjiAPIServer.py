@@ -6,6 +6,17 @@ from modules.KanjiCollection import KanjiCollection
 from modules.OpenAIAPIClient import OpenAIAPIClient
 import json
 
+
+
+class SampleSentence:
+    def __init__(self, sentence: str, furigana: str, meaning: str):
+        self.sentence = sentence
+        self.furigana = furigana
+        self.meaning = meaning
+        self.lines_with_meaning = f"{self.sentence}\n{self.furigana}\n{self.meaning}\n"
+        self.lines_without_meaning = f"{self.sentence}\n{self.furigana}\n"
+
+
 class KanjiAPIServer:
     def __init__(self, collection: KanjiCollection, openai_api_client: OpenAIAPIClient = None, sample_sentence_count: int = 3):
         self.collection = collection
@@ -29,8 +40,10 @@ class KanjiAPIServer:
             jlpt_levels = [1, 2, 3, 4, 5]
 
         kanji = self.collection.get_random_kanji(jlpt_levels)
+        sample_sentences = self.get_sample_sentences(kanji)
+
         if kanji:
-            response = f"{self.format_kanji_info(kanji, include_meanings=True, sample_sentence_count=self.sample_sentence_count)}"
+            response = self.format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
             return Response(response, mimetype='text/plain')
         else:
             return Response("No kanji found for the specified JLPT levels.", status=404)
@@ -49,24 +62,33 @@ class KanjiAPIServer:
         if not all(quiz_kanji):
             return Response("Insufficient kanji data for the quiz.", status=404)
 
-        first_kanji_info = self.format_kanji_info(quiz_kanji[0], include_meanings=False, sample_sentence_count=self.sample_sentence_count)
+        kanji = quiz_kanji[0]
+        sample_sentences = self.get_sample_sentences(kanji)
+
+        kanji_info_without_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
+                                                  kanji=kanji,
+                                                  include_meanings=False)
+        kanji_info_with_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
+                                                  kanji=kanji,
+                                                  include_meanings=True)
+
         meanings = [kanji.meanings for kanji in quiz_kanji]
         random.shuffle(meanings)
-        correct_answer_index = meanings.index(quiz_kanji[0].meanings)
+        correct_answer_index = meanings.index(kanji.meanings)
 
-        response = f"{first_kanji_info}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
+        response = f"{kanji_info_without_meanings}@{kanji_info_with_meanings}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
         return Response(response, mimetype='text/plain')
 
 
-    def get_sample_sentences(self, kanji: Kanji, include_meanings: bool) -> List[str]:
-        lines = []
+    def get_sample_sentences(self, kanji: Kanji) -> List[SampleSentence]:
+        sample_sentences = []
 
         if self.openai_api_client is None:
-            return lines
+            return sample_sentences
 
         prompt = kanji.get_example_sentences_prompt(self.sample_sentence_count)
         if prompt is None:
-            return lines
+            return sample_sentences
 
         try:
             response = self.openai_api_client.send_prompt(prompt=prompt)
@@ -75,17 +97,17 @@ class KanjiAPIServer:
             for entry in response_list_of_dicts:
                 sentence = entry['sentence']
                 furigana = entry['sentence_furigana']
-                if include_meanings:
-                    meaning = entry['meaning']
-                    lines.append(f"{sentence}\n{furigana}\n{meaning}\n")
-                else:
-                    lines.append(f"{sentence}\n{furigana}\n")
+                meaning = entry['meaning']
+                sample_sentence = SampleSentence(sentence, furigana, meaning)
+                sample_sentences.append(sample_sentence)
+
         except Exception as e:
             print(f"Failed to send prompt to OpenAI API and parse response content: {e}.")
 
-        return lines
+        return sample_sentences
 
-    def format_kanji_info(self, kanji: Kanji, include_meanings: bool = True, sample_sentence_count: int = 0) -> str:
+
+    def format_kanji_info(self, sample_sentences: List[SampleSentence], kanji: Kanji, include_meanings: bool = True) -> str:
         info = [
             #f"画数: {kanji.strokes}",
             #f"学年: {kanji.grade}",
@@ -96,10 +118,13 @@ class KanjiAPIServer:
         if include_meanings:
             info.append(f"意味: {', '.join(kanji.meanings)}")
 
-        if sample_sentence_count > 0:
-            sentences = self.get_sample_sentences(kanji, include_meanings=include_meanings)
+        if len(sample_sentences) > 0:
+            if include_meanings:
+                sentences = [sample_sentence.lines_with_meaning for sample_sentence in sample_sentences]
+            else:
+                sentences = [sample_sentence.lines_without_meaning for sample_sentence in sample_sentences]
+
             sentence_str = '\n'.join(sentences)
-            #info.append(f"例文:\n{sentence_str}")
             info.append(f"\n{sentence_str}")
 
         return '\n'.join(info)
