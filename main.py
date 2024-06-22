@@ -2,7 +2,7 @@ import json
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
 from modules.KanjiAPIServer import KanjiAPIServer
-from modules.OpenAIAPIClient import OpenAIAPIClient
+from modules.GoogleAIAPIClient import GoogleAIAPIClient
 import os
 from modules.Config import Config
 
@@ -25,12 +25,12 @@ if __name__ == "__main__":
         kanji = Kanji(character, data)
         collection.add_kanji(kanji)
 
-
     config = Config(os.path.join(base_dir, 'config.ini'))
-    openai_api_client = OpenAIAPIClient(base_url=config.base_url, path=config.path, api_key=config.api_key, model=config.model, max_response_tokens=config.max_response_tokens, temperature=config.temperature)
+    google_ai_api_client = GoogleAIAPIClient(api_key=config.google_api_key,
+                                          model_name=config.google_model)
 
     # Initialize and run the API
     kanji_api = KanjiAPIServer(collection=collection,
-                               openai_api_client=openai_api_client,
+                               google_ai_api_client=google_ai_api_client,
                                sample_sentence_count=SAMPLE_SENTENCE_COUNT)
     kanji_api.app.run(host='0.0.0.0', port=config.port)

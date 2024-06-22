@@ -9,13 +9,16 @@ class Config:
         self.config = configparser.ConfigParser()
         self.config.read(self.config_file_path)
 
-        self.api_key = self.config['api_client']['api_key']
-        self.base_url = self.config['api_client']['base_url']
-        self.path = self.config['api_client']['path']
-        self.model = self.config['api_client']['model']
-        self.max_response_tokens = int(self.config['api_client']['max_response_tokens'])
-        self.temperature = float(self.config['api_client']['temperature'])
-        self.max_prompt_chars = int(self.config['api_client']['max_prompt_chars'])
+        self.openai_api_key = self.config['openai_api_client']['api_key']
+        self.openai_base_url = self.config['openai_api_client']['base_url']
+        self.openai_path = self.config['openai_api_client']['path']
+        self.openai_model = self.config['openai_api_client']['model']
+        self.openai_max_response_tokens = int(self.config['openai_api_client']['max_response_tokens'])
+        self.openai_temperature = float(self.config['openai_api_client']['temperature'])
+        self.openai_max_prompt_chars = int(self.config['openai_api_client']['max_prompt_chars'])
+
+        self.google_api_key = self.config['google_api_client']['api_key']
+        self.google_model = self.config['google_api_client']['model']
 
         self.whitelist_enabled = self.config['server']['whitelist_enabled'].lower() == 'true'
         self.whitelist = [item.strip() for item in self.config['server']['whitelist'].split(',') if self.whitelist_enabled]

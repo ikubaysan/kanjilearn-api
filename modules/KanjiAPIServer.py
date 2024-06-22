@@ -3,7 +3,7 @@ from typing import List, Optional
 from flask import Flask, Response
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
-from modules.OpenAIAPIClient import OpenAIAPIClient
+from modules.GoogleAIAPIClient import GoogleAIAPIClient
 import json
 
 
@@ -18,7 +18,7 @@ class SampleSentence:
 
 
 class KanjiAPIServer:
-    def __init__(self, collection: KanjiCollection, openai_api_client: OpenAIAPIClient = None, sample_sentence_count: int = 3):
+    def __init__(self, collection: KanjiCollection, google_ai_api_client: GoogleAIAPIClient = None, sample_sentence_count: int = 3):
         self.collection = collection
         self.app = Flask(__name__)
         self.app.add_url_rule('/random_kanji/', 'get_kanji', self.get_kanji, methods=['GET'], defaults={'levels': ''})
@@ -26,7 +26,7 @@ class KanjiAPIServer:
         self.app.add_url_rule('/quiz/', 'quiz_kanji', self.quiz_kanji, methods=['GET'], defaults={'levels': ''})
         self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.quiz_kanji, methods=['GET'])
         self.sample_sentence_count = sample_sentence_count
-        self.openai_api_client = openai_api_client
+        self.google_ai_api_client = google_ai_api_client
 
     def get_kanji(self, levels: str = '') -> Response:
         if levels:
@@ -57,20 +57,30 @@ class KanjiAPIServer:
         else:
             jlpt_levels = [1, 2, 3, 4, 5]
 
-        # Get 5 random kanji
-        quiz_kanji = [self.collection.get_random_kanji(jlpt_levels) for _ in range(5)]
-        if not all(quiz_kanji):
-            return Response("Insufficient kanji data for the quiz.", status=404)
+        kanji_pool = []
+        for level in jlpt_levels:
+            kanji_pool.extend(getattr(self.collection, f'n{level}', []))
+
+        if len(kanji_pool) < 5:
+            return Response("Insufficient kanji data for the quiz. Need at least 5 kanji.", status=404)
+
+        try:
+            # Get 5 unique random kanji
+            quiz_kanji = random.sample(kanji_pool, 5)
+        except ValueError as e:
+            # This block may not be necessary since we're already checking the pool size,
+            # but it's good practice to handle potential exceptions from random.sample.
+            return Response(str(e), status=404)
 
         kanji = quiz_kanji[0]
         sample_sentences = self.get_sample_sentences(kanji)
 
         kanji_info_without_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
-                                                  kanji=kanji,
-                                                  include_meanings=False)
+                                                             kanji=kanji,
+                                                             include_meanings=False)
         kanji_info_with_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
-                                                  kanji=kanji,
-                                                  include_meanings=True)
+                                                          kanji=kanji,
+                                                          include_meanings=True)
 
         meanings = [kanji.meanings for kanji in quiz_kanji]
         random.shuffle(meanings)
@@ -79,11 +89,10 @@ class KanjiAPIServer:
         response = f"{kanji_info_without_meanings}@{kanji_info_with_meanings}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
         return Response(response, mimetype='text/plain')
 
-
     def get_sample_sentences(self, kanji: Kanji) -> List[SampleSentence]:
         sample_sentences = []
 
-        if self.openai_api_client is None:
+        if self.google_ai_api_client is None:
             return sample_sentences
 
         prompt = kanji.get_example_sentences_prompt(self.sample_sentence_count)
@@ -91,7 +100,7 @@ class KanjiAPIServer:
             return sample_sentences
 
         try:
-            response = self.openai_api_client.send_prompt(prompt=prompt)
+            response = self.google_ai_api_client.send_prompt(prompt=prompt)
             response_list_of_dicts = json.loads(response)
             #response_list_of_dicts = [{'sentence': '日本は美しい国です。', 'sentence_furigana': 'にほんは(び)しい(くに)です。', 'meaning': 'Japan is a beautiful country.'}, {'sentence': '私はその国の文化に興味があります。', 'sentence_furigana': 'わたしはその(くに)の(ぶんか)に(きょうみ)があります。', 'meaning': 'I am interested in the culture of that country.'}, {'sentence': '彼は外国に行くのが好きです。', 'sentence_furigana': 'かれは(がいこく)に(い)くのが(す)きです。', 'meaning': 'He likes to go to foreign countries.'}]
             for entry in response_list_of_dicts:
@@ -102,7 +111,7 @@ class KanjiAPIServer:
                 sample_sentences.append(sample_sentence)
 
         except Exception as e:
-            print(f"Failed to send prompt to OpenAI API and parse response content: {e}.")
+            print(f"Failed to send prompt to Google AI API and parse response content: {e}.")
 
         return sample_sentences
 
