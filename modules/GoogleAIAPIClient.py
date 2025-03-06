@@ -37,7 +37,8 @@ class GoogleAIAPIClient:
 
         if json_response:
             self.model = genai.GenerativeModel(model_name=model_name,
-                                               generation_config={"response_mime_type": "application/json"})
+                                               #generation_config={"response_mime_type": "application/json"}
+                                               generation_config=genai.GenerationConfig(response_mime_type="application/json"))
         else:
             self.model = genai.GenerativeModel(model_name=model_name)
         logger.info(f"Google AI API client initialized with model {model_name}")
@@ -47,6 +48,7 @@ class GoogleAIAPIClient:
         # logger.info(f"Sending prompt to Google AI API with model {self.model_name}: '{prompt[:50]}...'")
         response = self.model.generate_content(prompt, safety_settings=self.safe)
         response_text = response.text
+
 
         return response_text
 
@@ -58,7 +60,8 @@ if __name__ == "__main__":
     config = Config('../config.ini')
 
     google_ai_api_client = GoogleAIAPIClient(api_key=config.google_api_key,
-                                          model_name=config.google_model)
+                                          model_name=config.google_model,
+                                             json_response=True)
 
     response = google_ai_api_client.send_prompt(prompt="What is the capital of France?")
     logger.info(f"Got response: {response}")

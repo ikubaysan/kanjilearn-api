@@ -27,7 +27,8 @@ if __name__ == "__main__":
 
     config = Config(os.path.join(base_dir, 'config.ini'))
     google_ai_api_client = GoogleAIAPIClient(api_key=config.google_api_key,
-                                          model_name=config.google_model)
+                                          model_name=config.google_model,
+                                             json_response=True)
 
     # Initialize and run the API
     kanji_api = KanjiAPIServer(collection=collection,
