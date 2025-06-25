@@ -1,6 +1,6 @@
 
 
-# KanjiLearn - An OpenAI-Powered Kanji Learning REST API for Resonite
+# KanjiLearn - Kanji Learning REST API for Resonite
 
 ## Server Setup:
 1. Install Python 3
@@ -20,10 +20,10 @@ If you want the server to be accessible to the internet, and assuming you've for
 With the default configuration, you can test the server with Postman by making a GET HTTP request to your server at:
 http://localhost:5733/random_kanji/
 
-## Client Setup in NeosVR:
+## Client Setup in Resonite:
 1. This public folder contains the client:
 `resrec:///U-DingoYabuki/R-9793cb26-f9ac-4eea-b52d-1bafdff8e502`
-Copy this URI and paste it into Neos, and the public folder will spawn. 
+Copy this URI and paste it into Resonite, and the public folder will spawn. 
 The client item is in the folder, named `KanjiLearnClient`. 
 2. Spawn the item and navigate to the root of it with your Inspector tool.
 3. You will see 2 `DynamicValueVariable<string>` components with VariableNames `Settings/URL` and `and Settings/ClientUserID`. Modify those components' values to match your server's URL and your Neos UserID.
