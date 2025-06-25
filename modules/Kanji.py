@@ -26,10 +26,10 @@ class Kanji:
 
         prompt += f"""
         Please generate a json array of dictionaries with keys "sentence", "sentence_furigana", and "meaning". 
-        Make up to {count} dictionaries; each is a sample sentence containing the kanji '{self.character}'. 
+        Make {count} dictionaries; each is a sample sentence containing the kanji '{self.character}'. 
         For "sentence", write a sentence in Japanese. 
         For "sentence_furigana", write the sentence again, but right after each kanji write its kana in 【】 - for example, '彼は外国に行くのが好きです。' becomes '彼【かれ】は外国【がいこく】に行【い】くのが好【す】きです。'. Don't skip any kanji.
-        For "meaning", translate the sentence. 
+        For "meaning", translate the sentence to English. 
         Include only the json array in the response, no or other words and no comments; I'll be taking your raw response and parsing it in code.
         """
 
