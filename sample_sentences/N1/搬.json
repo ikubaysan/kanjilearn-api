@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "資材を工場内に搬入する。",
+    "sentence_furigana": "資材【しざい】を工場内【こうじょうない】に搬入【はんにゅう】する。",
+    "meaning": "To bring in materials into the factory."
+  },
+  {
+    "sentence": "重い荷物を運搬するための台車が必要だ。",
+    "sentence_furigana": "重【おも】い荷物【にもつ】を運搬【うんぱん】するための台車【だいしゃ】が必要【ひつよう】だ。",
+    "meaning": "A cart is needed to transport heavy luggage."
+  },
+  {
+    "sentence": "貨物列車が荷物を運搬している。",
+    "sentence_furigana": "貨物列車【かもつれっしゃ】が荷物【にもつ】を運搬【うんぱん】している。",
+    "meaning": "The freight train is transporting goods."
+  },
+  {
+    "sentence": "彼は重い箱を一人で運搬した。",
+    "sentence_furigana": "彼【かれ】は重【おも】い箱【はこ】を一人【ひとり】で運搬【うんぱん】した。",
+    "meaning": "He transported the heavy box by himself."
+  },
+  {
+    "sentence": "新しい搬送システムを導入した。",
+    "sentence_furigana": "新【あたら】しい搬送【はんそう】システムを導入【どうにゅう】した。",
+    "meaning": "We introduced a new transport system."
+  },
+  {
+    "sentence": "このベルトコンベアは材料を自動で搬送する。",
+    "sentence_furigana": "このベルトコンベアは材料【ざいりょう】を自動【じどう】で搬送【はんそう】する。",
+    "meaning": "This belt conveyor automatically transports materials."
+  },
+  {
+    "sentence": "病院から患者を搬送する。",
+    "sentence_furigana": "病院【びょういん】から患者【かんじゃ】を搬送【はんそう】する。",
+    "meaning": "To transport patients from the hospital."
+  },
+  {
+    "sentence": "避難民の搬送が始まった。",
+    "sentence_furigana": "避難民【ひなんみん】の搬送【はんそう】が始【はじ】まった。",
+    "meaning": "The evacuation of refugees has begun."
+  },
+  {
+    "sentence": "この機械は部品を円滑に搬送する。",
+    "sentence_furigana": "この機械【きかい】は部品【ぶひん】を円滑【えんかつ】に搬送【はんそう】する。",
+    "meaning": "This machine smoothly transports parts."
+  },
+  {
+    "sentence": "引越しのために家具を搬出する。",
+    "sentence_furigana": "引越【ひっこ】しのために家具【かぐ】を搬出【はんしゅつ】する。",
+    "meaning": "To carry out furniture for moving."
+  },
+  {
+    "sentence": "現場から資材を搬出してください。",
+    "sentence_furigana": "現場【げんば】から資材【しざい】を搬出【はんしゅつ】してください。",
+    "meaning": "Please carry out the materials from the site."
+  },
+  {
+    "sentence": "作業員が重い機材を搬出した。",
+    "sentence_furigana": "作業員【さぎょういん】が重【おも】い機材【きざい】を搬出【はんしゅつ】した。",
+    "meaning": "The worker carried out the heavy equipment."
+  },
+  {
+    "sentence": "展示品を会場から搬出する。",
+    "sentence_furigana": "展示品【てんじひん】を会場【かいじょう】から搬出【はんしゅつ】する。",
+    "meaning": "To move exhibition items out of the venue."
+  },
+  {
+    "sentence": "古い機器を搬出する必要がある。",
+    "sentence_furigana": "古【ふる】い機器【きき】を搬出【はんしゅつ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to remove the old equipment."
+  },
+  {
+    "sentence": "この装置は商品を自動で搬出する。",
+    "sentence_furigana": "この装置【そうち】は商品【しょうひん】を自動【じどう】で搬出【はんしゅつ】する。",
+    "meaning": "This device automatically carries out products."
+  },
+  {
+    "sentence": "大量の物品を陸上で運搬した。",
+    "sentence_furigana": "大量【たいりょう】の物品【ぶっぴん】を陸上【りくじょう】で運搬【うんぱん】した。",
+    "meaning": "A large quantity of goods was transported overland."
+  },
+  {
+    "sentence": "彼は多くの荷物を一人で運搬した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの荷物【にもつ】を一人【ひとり】で運搬【うんぱん】した。",
+    "meaning": "He transported many items by himself."
+  },
+  {
+    "sentence": "危険物を慎重に運搬する必要がある。",
+    "sentence_furigana": "危険物【きけんぶつ】を慎重【しんちょう】に運搬【うんぱん】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to transport hazardous materials carefully."
+  },
+  {
+    "sentence": "トラックで製品を運搬する。",
+    "sentence_furigana": "トラックで製品【せいひん】を運搬【うんぱん】する。",
+    "meaning": "To transport products by truck."
+  },
+  {
+    "sentence": "その部品はロボットアームで搬送される。",
+    "sentence_furigana": "その部品【ぶひん】はロボットアームで搬送【はんそう】される。",
+    "meaning": "That part is transported by a robot arm."
+  },
+  {
+    "sentence": "物流倉庫では品物が頻繁に搬送される。",
+    "sentence_furigana": "物流倉庫【ぶつりゅうそうこ】では品物【しなもの】が頻繁【ひんぱん】に搬送【はんそう】される。",
+    "meaning": "In the logistics warehouse, items are frequently transported."
+  },
+  {
+    "sentence": "患者を救急車で搬送した。",
+    "sentence_furigana": "患者【かんじゃ】を救急車【きゅうきゅうしゃ】で搬送【はんそう】した。",
+    "meaning": "The patient was transported by ambulance."
+  },
+  {
+    "sentence": "このコンベアは貨物を搬送するために使われます。",
+    "sentence_furigana": "このコンベアは貨物【かもつ】を搬送【はんそう】するために使【つか】われます。",
+    "meaning": "This conveyor is used to transport cargo."
+  },
+  {
+    "sentence": "彼は重い機材を運搬するのを手伝った。",
+    "sentence_furigana": "彼【かれ】は重【おも】い機材【きざい】を運搬【うんぱん】するのを手伝【てつだ】った。",
+    "meaning": "He helped transport the heavy equipment."
+  },
+  {
+    "sentence": "このベルトは部品を工場内に搬送します。",
+    "sentence_furigana": "このベルトは部品【ぶひん】を工場内【こうじょうない】に搬送【はんそう】します。",
+    "meaning": "This belt transports parts within the factory."
+  },
+  {
+    "sentence": "大量の郵便物を運搬する作業は大変だ。",
+    "sentence_furigana": "大量【たいりょう】の郵便物【ゆうびんぶつ】を運搬【うんぱん】する作業【さぎょう】は大変【たいへん】だ。",
+    "meaning": "The work of transporting a large volume of mail is difficult."
+  },
+  {
+    "sentence": "新しい搬送ラインの設置を進めている。",
+    "sentence_furigana": "新【あたら】しい搬送【はんそう】ラインの設置【せっち】を進【すす】めている。",
+    "meaning": "We are proceeding with the installation of a new transport line."
+  },
+  {
+    "sentence": "イベント会場への機材搬入が完了した。",
+    "sentence_furigana": "イベント会場【かいじょう】への機材搬入【きざいはんにゅう】が完了【かんりょう】した。",
+    "meaning": "The delivery of equipment to the event venue has been completed."
+  },
+  {
+    "sentence": "彼は長距離の運搬作業員として働いている。",
+    "sentence_furigana": "彼【かれ】は長距離【ちょうきょり】の運搬作業員【うんぱんさぎょういん】として働【はたら】いている。",
+    "meaning": "He works as a long-distance transport worker."
+  },
+  {
+    "sentence": "このシステムは貨物を効率的に運搬する。",
+    "sentence_furigana": "このシステムは貨物【かもつ】を効率的【こうりつてき】に運搬【うんぱん】する。",
+    "meaning": "This system efficiently transports cargo."
+  },
+  {
+    "sentence": "古い資料を倉庫から搬出してください。",
+    "sentence_furigana": "古【ふる】い資料【しりょう】を倉庫【そうこ】から搬出【はんしゅつ】してください。",
+    "meaning": "Please remove the old documents from the warehouse."
+  },
+  {
+    "sentence": "トラックに荷物を搬入する作業員。",
+    "sentence_furigana": "トラックに荷物【にもつ】を搬入【はんにゅう】する作業員【さぎょういん】。",
+    "meaning": "Workers loading luggage onto a truck."
+  },
+  {
+    "sentence": "この装置は重量物を運搬するために設計された。",
+    "sentence_furigana": "この装置【そうち】は重量物【じゅうりょうぶつ】を運搬【うんぱん】するために設計【せっけい】された。",
+    "meaning": "This device was designed to transport heavy objects."
+  },
+  {
+    "sentence": "彼は新しい運搬計画を立てた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい運搬計画【うんぱんけいかく】を立【た】てた。",
+    "meaning": "He made a new transport plan."
+  },
+  {
+    "sentence": "廃材を敷地外へ搬出する。",
+    "sentence_furigana": "廃材【はいざい】を敷地外【しきちがい】へ搬出【はんしゅつ】する。",
+    "meaning": "To remove waste materials outside the premises."
+  },
+  {
+    "sentence": "ロボットが部品を搬送する。",
+    "sentence_furigana": "ロボットが部品【ぶひん】を搬送【はんそう】する。",
+    "meaning": "The robot transports parts."
+  },
+  {
+    "sentence": "この船は大量の貨物を運搬できる。",
+    "sentence_furigana": "この船【ふね】は大量【たいりょう】の貨物【かもつ】を運搬【うんぱん】できる。",
+    "meaning": "This ship can transport a large amount of cargo."
+  },
+  {
+    "sentence": "資材の搬入作業が始まったばかりだ。",
+    "sentence_furigana": "資材【しざい】の搬入【はんにゅう】作業【さぎょう】が始【はじ】まったばかりだ。",
+    "meaning": "The work of bringing in materials has just begun."
+  },
+  {
+    "sentence": "彼は貨物をトラックに搬入した。",
+    "sentence_furigana": "彼【かれ】は貨物【かもつ】をトラックに搬入【はんにゅう】した。",
+    "meaning": "He loaded the cargo onto the truck."
+  },
+  {
+    "sentence": "この機械は製品をラインに搬送する。",
+    "sentence_furigana": "この機械【きかい】は製品【せいひん】をラインに搬送【はんそう】する。",
+    "meaning": "This machine transports products to the line."
+  },
+  {
+    "sentence": "事故で負傷した人々を搬送した。",
+    "sentence_furigana": "事故【じこ】で負傷【ふしょう】した人々【ひとびと】を搬送【はんそう】した。",
+    "meaning": "The injured people from the accident were transported."
+  },
+  {
+    "sentence": "荷物の搬送経路を確認する。",
+    "sentence_furigana": "荷物【にもつ】の搬送経路【はんそうけいろ】を確認【かくにん】する。",
+    "meaning": "To confirm the transport route for the luggage."
+  },
+  {
+    "sentence": "長年使った機械を搬出した。",
+    "sentence_furigana": "長年【ながねん】使【つか】った機械【きかい】を搬出【はんしゅつ】した。",
+    "meaning": "We removed the machine that had been used for many years."
+  },
+  {
+    "sentence": "彼は重い荷物をトラックから搬出した。",
+    "sentence_furigana": "彼【かれ】は重【おも】い荷物【にもつ】をトラックから搬出【はんしゅつ】した。",
+    "meaning": "He took the heavy luggage out of the truck."
+  },
+  {
+    "sentence": "イベントの準備のため、機材を搬入している。",
+    "sentence_furigana": "イベントの準備【じゅんび】のため、機材【きざい】を搬入【はんにゅう】している。",
+    "meaning": "Equipment is being delivered for event preparation."
+  },
+  {
+    "sentence": "この施設では、物品を効率的に運搬するシステムが導入されている。",
+    "sentence_furigana": "この施設【しせつ】では、物品【ぶっぴん】を効率的【こうりつてき】に運搬【うんぱん】するシステムが導入【どうにゅう】されている。",
+    "meaning": "In this facility, a system for efficiently transporting goods has been introduced."
+  },
+  {
+    "sentence": "彼は作業員として資材を運搬する仕事をしている。",
+    "sentence_furigana": "彼【かれ】は作業員【さぎょういん】として資材【しざい】を運搬【うんぱん】する仕事【しごと】をしている。",
+    "meaning": "He works as a worker, transporting materials."
+  },
+  {
+    "sentence": "この搬送ベルトは非常に頑丈だ。",
+    "sentence_furigana": "この搬送【はんそう】ベルトは非常【ひじょう】に頑丈【がんじょう】だ。",
+    "meaning": "This conveyor belt is very sturdy."
+  },
+  {
+    "sentence": "工場で使う材料をトラックで搬入する。",
+    "sentence_furigana": "工場【こうじょう】で使【つか】う材料【ざいりょう】をトラックで搬入【はんにゅう】する。",
+    "meaning": "To deliver materials used in the factory by truck."
+  },
+  {
+    "sentence": "重い石材を運搬するのは大変な作業だ。",
+    "sentence_furigana": "重【おも】い石材【せきざい】を運搬【うんぱん】するのは大変【たいへん】な作業【さぎょう】だ。",
+    "meaning": "Transporting heavy stone materials is a difficult task."
+  },
+  {
+    "sentence": "避難民を安全な場所へ搬送した。",
+    "sentence_furigana": "避難民【ひなんみん】を安全【あんぜん】な場所【ばしょ】へ搬送【はんそう】した。",
+    "meaning": "The refugees were transported to a safe place."
+  },
+  {
+    "sentence": "この装置は部品を正確に搬送する。",
+    "sentence_furigana": "この装置【そうち】は部品【ぶひん】を正確【せいかく】に搬送【はんそう】する。",
+    "meaning": "This device accurately transports parts."
+  },
+  {
+    "sentence": "彼は大量の貨物を船で運搬した。",
+    "sentence_furigana": "彼【かれ】は大量【たいりょう】の貨物【かもつ】を船【ふね】で運搬【うんぱん】した。",
+    "meaning": "He transported a large quantity of cargo by ship."
+  },
+  {
+    "sentence": "資材を建設現場に搬入する。",
+    "sentence_furigana": "資材【しざい】を建設現場【けんせつげんば】に搬入【はんにゅう】する。",
+    "meaning": "To deliver materials to the construction site."
+  },
+  {
+    "sentence": "彼は新しい搬送システムを開発した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい搬送【はんそう】システムを開発【かいはつ】した。",
+    "meaning": "He developed a new transport system."
+  },
+  {
+    "sentence": "このロボットは部品を搬送する。",
+    "sentence_furigana": "このロボットは部品【ぶひん】を搬送【はんそう】する。",
+    "meaning": "This robot transports parts."
+  },
+  {
+    "sentence": "その製品はベルトコンベアで搬送される。",
+    "sentence_furigana": "その製品【せいひん】はベルトコンベアで搬送【はんそう】される。",
+    "meaning": "That product is transported by belt conveyor."
+  },
+  {
+    "sentence": "彼は重要な書類を運搬した。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な書類【しょるい】を運搬【うんぱん】した。",
+    "meaning": "He transported important documents."
+  },
+  {
+    "sentence": "この搬送ベルトは毎分100個の部品を運べます。",
+    "sentence_furigana": "この搬送【はんそう】ベルトは毎分【まいふん】100個【こ】の部品【ぶひん】を運【はこ】べます。",
+    "meaning": "This conveyor belt can carry 100 parts per minute."
+  },
+  {
+    "sentence": "彼は大型の荷物を一人で搬送した。",
+    "sentence_furigana": "彼【かれ】は大型【おおがた】の荷物【にもつ】を一人【ひとり】で搬送【はんそう】した。",
+    "meaning": "He transported a large item by himself."
+  },
+  {
+    "sentence": "廃材の搬出作業を迅速に行う。",
+    "sentence_furigana": "廃材【はいざい】の搬出【はんしゅつ】作業【さぎょう】を迅速【じんそく】に行【おこな】う。",
+    "meaning": "To promptly carry out the removal of waste materials."
+  },
+  {
+    "sentence": "この工場では多くの資材が搬入される。",
+    "sentence_furigana": "この工場【こうじょう】では多【おお】くの資材【しざい】が搬入【はんにゅう】される。",
+    "meaning": "A lot of materials are brought into this factory."
+  },
+  {
+    "sentence": "彼は遠くまで物品を運搬する能力がある。",
+    "sentence_furigana": "彼【かれ】は遠【とお】くまで物品【ぶっぴん】を運搬【うんぱん】する能力【のうりょく】がある。",
+    "meaning": "He has the ability to transport goods over long distances."
+  },
+  {
+    "sentence": "この搬送システムは非常に効率的です。",
+    "sentence_furigana": "この搬送【はんそう】システムは非常【ひじょう】に効率的【こうりつてき】です。",
+    "meaning": "This transport system is very efficient."
+  },
+  {
+    "sentence": "彼はチームで機材を搬送した。",
+    "sentence_furigana": "彼【かれ】はチームで機材【きざい】を搬送【はんそう】した。",
+    "meaning": "He transported the equipment with the team."
+  },
+  {
+    "sentence": "古い家具を部屋から搬出する。",
+    "sentence_furigana": "古【ふる】い家具【かぐ】を部屋【へや】から搬出【はんしゅつ】する。",
+    "meaning": "To carry out old furniture from the room."
+  },
+  {
+    "sentence": "私たちはこの荷物を工場まで運搬しなければならない。",
+    "sentence_furigana": "私【わたし】たちはこの荷物【にもつ】を工場【こうじょう】まで運搬【うんぱん】しなければならない。",
+    "meaning": "We have to transport this luggage to the factory."
+  },
+  {
+    "sentence": "このロボットは材料を自動で搬送する。",
+    "sentence_furigana": "このロボットは材料【ざいりょう】を自動【じどう】で搬送【はんそう】する。",
+    "meaning": "This robot automatically transports materials."
+  },
+  {
+    "sentence": "彼は重い荷物を運ぶために運搬用具を使用した。",
+    "sentence_furigana": "彼【かれ】は重【おも】い荷物【にもつ】を運【はこ】ぶために運搬用具【うんぱんようぐ】を使【つか】った。",
+    "meaning": "He used transport equipment to carry heavy luggage."
+  },
+  {
+    "sentence": "資材をトラックへ搬出する。",
+    "sentence_furigana": "資材【しざい】をトラックへ搬出【はんしゅつ】する。",
+    "meaning": "To carry out materials to the truck."
+  },
+  {
+    "sentence": "この搬送機は多くの商品を運搬できます。",
+    "sentence_furigana": "この搬送機【はんそうき】は多【おお】くの商品【しょうひん】を運搬【うんぱん】できます。",
+    "meaning": "This transport machine can carry many products."
+  },
+  {
+    "sentence": "大量の食料を被災地に運搬する。",
+    "sentence_furigana": "大量【たいりょう】の食料【しょくりょう】を被災地【ひさいち】に運搬【うんぱん】する。",
+    "meaning": "To transport a large amount of food to the disaster area."
+  },
+  {
+    "sentence": "彼らはその装置を慎重に搬送した。",
+    "sentence_furigana": "彼【かれ】ら は その装置【そうち】 を 慎重【しんちょう】 に 搬送【はんそう】 した。",
+    "meaning": "They transported the device carefully."
+  },
+  {
+    "sentence": "このコンベアは材料を運搬するのに役立つ。",
+    "sentence_furigana": "このコンベアは材料【ざいりょう】を運搬【うんぱん】するのに役立【やくた】つ。",
+    "meaning": "This conveyor is useful for transporting materials."
+  },
+  {
+    "sentence": "彼は運搬中の事故を防ぐための対策を講じた。",
+    "sentence_furigana": "彼【かれ】は運搬中【うんぱんちゅう】の事故【じこ】を防【ふせ】ぐための対策【たいさく】を講【こう】じた。",
+    "meaning": "He took measures to prevent accidents during transport."
+  },
+  {
+    "sentence": "この貨物は空輸で運搬される。",
+    "sentence_furigana": "この貨物【かもつ】は空輸【くうゆ】で運搬【うんぱん】される。",
+    "meaning": "This cargo is transported by air."
+  },
+  {
+    "sentence": "彼らは重い機材を搬入しました。",
+    "sentence_furigana": "彼【かれ】ら は 重【おも】い 機材【きざい】 を 搬入【はんにゅう】 しました。",
+    "meaning": "They delivered the heavy equipment."
+  },
+  {
+    "sentence": "この自動搬送車は倉庫内を移動する。",
+    "sentence_furigana": "この自動搬送車【じどうはんそうしゃ】は倉庫内【そうこない】を移動【いどう】する。",
+    "meaning": "This automated guided vehicle moves within the warehouse."
+  },
+  {
+    "sentence": "彼は部品を工場から工場へと運搬した。",
+    "sentence_furigana": "彼【かれ】は部品【ぶひん】を工場【こうじょう】から工場【こうじょう】へと運搬【うんぱん】した。",
+    "meaning": "He transported parts from one factory to another."
+  },
+  {
+    "sentence": "この搬送システムは高い信頼性を持っている。",
+    "sentence_furigana": "この搬送【はんそう】システムは高【たか】い信頼性【しんらいせい】を持【も】っている。",
+    "meaning": "This transport system has high reliability."
+  },
+  {
+    "sentence": "彼は重い荷物を一人で運搬した。",
+    "sentence_furigana": "彼【かれ】は重【おも】い荷物【にもつ】を一人【ひとり】で運搬【うんぱん】した。",
+    "meaning": "He transported the heavy luggage by himself."
+  },
+  {
+    "sentence": "このラインは部品を自動で搬送する。",
+    "sentence_furigana": "このラインは部品【ぶひん】を自動【じどう】で搬送【はんそう】する。",
+    "meaning": "This line automatically transports parts."
+  },
+  {
+    "sentence": "彼は大量の資材を現場に搬入した。",
+    "sentence_furigana": "彼【かれ】は大量【たいりょう】の資材【しざい】を現場【げんば】に搬入【はんにゅう】した。",
+    "meaning": "He delivered a large quantity of materials to the site."
+  },
+  {
+    "sentence": "このベルトコンベアは貨物を搬送する。",
+    "sentence_furigana": "このベルトコンベアは貨物【かもつ】を搬送【はんそう】する。",
+    "meaning": "This belt conveyor transports cargo."
+  },
+  {
+    "sentence": "彼は重い機材を運搬する作業を手伝った。",
+    "sentence_furigana": "彼【かれ】は重【おも】い機材【きざい】を運搬【うんぱん】する作業【さぎょう】を手伝【てつだ】った。",
+    "meaning": "He helped with the work of transporting heavy equipment."
+  },
+  {
+    "sentence": "資材搬入のため、トラックが待機している。",
+    "sentence_furigana": "資材搬入【しざいはんにゅう】のため、トラックが待機【たいき】している。",
+    "meaning": "Trucks are waiting for material delivery."
+  },
+  {
+    "sentence": "この搬送システムは効率的な物流を実現する。",
+    "sentence_furigana": "この搬送【はんそう】システムは効率的【こうりつてき】な物流【ぶつりゅう】を実現【じつげん】する。",
+    "meaning": "This transport system realizes efficient logistics."
+  },
+  {
+    "sentence": "彼は大量の品物を運搬する業者を探している。",
+    "sentence_furigana": "彼【かれ】は大量【たいりょう】の品物【しなもの】を運搬【うんぱん】する業者【ぎょうしゃ】を探【さが】している。",
+    "meaning": "He is looking for a company that transports large quantities of goods."
+  },
+  {
+    "sentence": "古い機械を工場から搬出する。",
+    "sentence_furigana": "古【ふる】い機械【きかい】を工場【こうじょう】から搬出【はんしゅつ】する。",
+    "meaning": "To remove old machinery from the factory."
+  },
+  {
+    "sentence": "この自動搬送装置は倉庫内で使われています。",
+    "sentence_furigana": "この自動搬送装置【じどうはんそうそうち】は倉庫内【そうこない】で使【つか】われています。",
+    "meaning": "This automated transport device is used within the warehouse."
+  },
+  {
+    "sentence": "彼は重い家具をトラックに搬入するのを手伝った。",
+    "sentence_furigana": "彼【かれ】は重【おも】い家具【かぐ】をトラックに搬入【はんにゅう】するのを手伝【てつだ】った。",
+    "meaning": "He helped load heavy furniture onto the truck."
+  },
+  {
+    "sentence": "このベルトは部品を正確に搬送する。",
+    "sentence_furigana": "このベルトは部品【ぶひん】を正確【せいかく】に搬送【はんそう】する。",
+    "meaning": "This belt accurately transports parts."
+  },
+  {
+    "sentence": "彼は大きな機材を運搬する必要があった。",
+    "sentence_furigana": "彼【かれ】は大【おお】きな機材【きざい】を運搬【うんぱん】する必要【ひつよう】があった。",
+    "meaning": "He needed to transport large equipment."
+  },
+  {
+    "sentence": "この搬送システムは最新の技術を使用している。",
+    "sentence_furigana": "この搬送【はんそう】システムは最新【さいしん】の技術【ぎじゅつ】を使【つか】っている。",
+    "meaning": "This transport system uses the latest technology."
+  },
+  {
+    "sentence": "彼は長距離トラックの運搬ドライバーだ。",
+    "sentence_furigana": "彼【かれ】は長距離【ちょうきょり】トラックの運搬【うんぱん】ドライバーだ。",
+    "meaning": "He is a long-haul truck transport driver."
+  },
+  {
+    "sentence": "資材の搬出作業が困難を極めた。",
+    "sentence_furigana": "資材【しざい】の搬出【はんしゅつ】作業【さぎょう】が困難【こんなん】を極【きわ】めた。",
+    "meaning": "The work of carrying out materials was extremely difficult."
+  },
+  {
+    "sentence": "彼は倉庫から商品を搬出するのを手伝った。",
+    "sentence_furigana": "彼【かれ】は倉庫【そうこ】から商品【しょうひん】を搬出【はんしゅつ】するのを手伝【てつだ】った。",
+    "meaning": "He helped to remove goods from the warehouse."
+  },
+  {
+    "sentence": "新しい搬送車が導入された。",
+    "sentence_furigana": "新【あたら】しい搬送車【はんそうしゃ】が導入【どうにゅう】された。",
+    "meaning": "A new transport vehicle has been introduced."
+  },
+  {
+    "sentence": "彼は工場内の部品搬送を担当している。",
+    "sentence_furigana": "彼【かれ】は工場内【こうじょうない】の部品搬送【ぶひんはんそう】を担当【たんとう】している。",
+    "meaning": "He is in charge of parts transport within the factory."
+  },
+  {
+    "sentence": "このベルトは重い荷物を運搬するのに十分な強度がある。",
+    "sentence_furigana": "このベルトは重【おも】い荷物【にもつ】を運搬【うんぱん】するのに十分【じゅうぶん】な強度【きょうど】がある。",
+    "meaning": "This belt has sufficient strength to carry heavy luggage."
+  },
+  {
+    "sentence": "彼は危険物を安全に運搬する方法を学んだ。",
+    "sentence_furigana": "彼【かれ】は危険物【きけんぶつ】を安全【あんぜん】に運搬【うんぱん】する方法【ほうほう】を学【まな】んだ。",
+    "meaning": "He learned how to transport hazardous materials safely."
+  },
+  {
+    "sentence": "資材をトラックから下ろす作業は運搬作業の一部です。",
+    "sentence_furigana": "資材【しざい】をトラックから下【お】ろす作業【さぎょう】は運搬作業【うんぱんさぎょう】の一部【いちぶ】です。",
+    "meaning": "The work of unloading materials from the truck is part of the transport operation."
+  },
+  {
+    "sentence": "彼は大量の貨物を海上で運搬した。",
+    "sentence_furigana": "彼【かれ】は大量【たいりょう】の貨物【かもつ】を海上【かいじょう】で運搬【うんぱん】した。",
+    "meaning": "He transported a large quantity of cargo by sea."
+  },
+  {
+    "sentence": "この搬送システムはエネルギー効率が高い。",
+    "sentence_furigana": "この搬送【はんそう】システムはエネルギー効率【こうりつ】が高【たか】い。",
+    "meaning": "This transport system is energy efficient."
+  }
+]

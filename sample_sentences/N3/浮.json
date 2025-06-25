@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "水面に葉が浮いている。",
+    "sentence_furigana": "水面【すいめん】に葉【は】が浮【う】いている。",
+    "meaning": "A leaf is floating on the water surface."
+  },
+  {
+    "sentence": "彼は喜びで浮かれていた。",
+    "sentence_furigana": "彼【かれ】は喜【よろこ】びで浮【う】かれていた。",
+    "meaning": "He was elated with joy."
+  },
+  {
+    "sentence": "水面に物体が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に物体【ぶったい】が浮【う】いていた。",
+    "meaning": "An object was floating on the water surface."
+  },
+  {
+    "sentence": "彼女の顔に笑みが浮かんでいた。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】に笑【え】みが浮【う】かんでいた。",
+    "meaning": "A smile was on her face."
+  },
+  {
+    "sentence": "彼は嬉しさで体が浮いていた。",
+    "sentence_furigana": "彼【かれ】は嬉【うれ】しさで体【からだ】が浮【う】いていた。",
+    "meaning": "He felt light with happiness."
+  },
+  {
+    "sentence": "雲が空に浮いているように見える。",
+    "sentence_furigana": "雲【くも】が空【そら】に浮【う】いているように見【み】える。",
+    "meaning": "The clouds look like they are floating in the sky."
+  },
+  {
+    "sentence": "夢から覚めて、現実が浮かんできた。",
+    "sentence_furigana": "夢【ゆめ】から覚【さ】めて、現実【げんじつ】が浮【う】かんできた。",
+    "meaning": "Waking from the dream, reality came to mind."
+  },
+  {
+    "sentence": "彼は少し浮かれているようだ。",
+    "sentence_furigana": "彼【かれ】は少【すこ】し浮【う】かれているようだ。",
+    "meaning": "He seems a bit elated."
+  },
+  {
+    "sentence": "ボートが水面に浮いていた。",
+    "sentence_furigana": "ボートが水面【すいめん】に浮【う】いていた。",
+    "meaning": "The boat was floating on the water surface."
+  },
+  {
+    "sentence": "彼の言葉が頭に浮かんだ。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】が頭【あたま】に浮【う】かんだ。",
+    "meaning": "His words came to mind."
+  },
+  {
+    "sentence": "水に浮かぶ月を眺めた。",
+    "sentence_furigana": "水【みず】に浮【う】かぶ月【つき】を眺【なが】めた。",
+    "meaning": "I gazed at the moon floating on the water."
+  },
+  {
+    "sentence": "彼の話に興奮して浮かれていた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】に興奮【こうふん】して浮【う】かれていた。",
+    "meaning": "He was excited and elated by his story."
+  },
+  {
+    "sentence": "その考えが私の心に浮かんだ。",
+    "sentence_furigana": "その考【かんが】えが私【わたし】の心【こころ】に浮【う】かんだ。",
+    "meaning": "That idea came to my mind."
+  },
+  {
+    "sentence": "空中に物体が浮いている。",
+    "sentence_furigana": "空中【くうちゅう】に物体【ぶったい】が浮【う】いている。",
+    "meaning": "An object is floating in the air."
+  },
+  {
+    "sentence": "彼の表情が浮かない。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】が浮【う】かない。",
+    "meaning": "His expression is not cheerful."
+  },
+  {
+    "sentence": "希望の光が浮かんだ。",
+    "sentence_furigana": "希望【きぼう】の光【ひかり】が浮【う】かんだ。",
+    "meaning": "A ray of hope appeared."
+  },
+  {
+    "sentence": "水面に小舟が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に小舟【こぶね】が浮【う】いていた。",
+    "meaning": "A small boat was floating on the water surface."
+  },
+  {
+    "sentence": "彼は計画がうまくいって浮かれていた。",
+    "sentence_furigana": "彼【かれ】は計画【けいかく】がうまくいって浮【う】かれていた。",
+    "meaning": "He was elated because the plan went well."
+  },
+  {
+    "sentence": "彼女の目に涙が浮かんでいた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】に涙【なみだ】が浮【う】かんでいた。",
+    "meaning": "Tears welled up in her eyes."
+  },
+  {
+    "sentence": "空を飛ぶ鳥が遠くに見えた。",
+    "sentence_furigana": "空【そら】を飛【と】ぶ鳥【とり】が遠【とお】くに浮【う】いて見【み】えた。",
+    "meaning": "Birds flying in the sky appeared in the distance."
+  },
+  {
+    "sentence": "その記憶が鮮明に浮かび上がった。",
+    "sentence_furigana": "その記憶【きおく】が鮮明【せんめい】に浮【う】かび上【あ】がった。",
+    "meaning": "That memory surfaced clearly."
+  },
+  {
+    "sentence": "彼は優勝して浮かれている。",
+    "sentence_furigana": "彼【かれ】は優勝【ゆうしょう】して浮【う】かれている。",
+    "meaning": "He is elated by winning the championship."
+  },
+  {
+    "sentence": "水面に氷が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に氷【こおり】が浮【う】いていた。",
+    "meaning": "Ice was floating on the water surface."
+  },
+  {
+    "sentence": "そのアイデアが彼の頭に浮かんだ。",
+    "sentence_furigana": "そのアイデアが彼【かれ】の頭【あたま】に浮【う】かんだ。",
+    "meaning": "That idea came to his mind."
+  },
+  {
+    "sentence": "彼の顔には喜びが浮いていた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には喜【よろこ】びが浮【う】いていた。",
+    "meaning": "Joy was evident on his face."
+  },
+  {
+    "sentence": "子供たちは水に浮くおもちゃで遊んでいた。",
+    "sentence_furigana": "子供【こども】たちは水【みず】に浮【う】くおもちゃで遊【あそ】んでいた。",
+    "meaning": "The children were playing with toys that float on water."
+  },
+  {
+    "sentence": "その光景が目に浮かんだ。",
+    "sentence_furigana": "その光景【こうけい】が目【め】に浮【う】かんだ。",
+    "meaning": "That scene came to mind."
+  },
+  {
+    "sentence": "彼女は歓喜に浮かれていた。",
+    "sentence_furigana": "彼女【かのじょ】は歓喜【かんき】に浮【う】かれていた。",
+    "meaning": "She was overjoyed."
+  },
+  {
+    "sentence": "水面に花びらが浮いていた。",
+    "sentence_furigana": "水面【すいめん】に花弁【はなびら】が浮【う】いていた。",
+    "meaning": "Petals were floating on the water surface."
+  },
+  {
+    "sentence": "彼の心に不安が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の心【こころ】に不安【ふあん】が浮【う】かんだ。",
+    "meaning": "Anxiety arose in his mind."
+  },
+  {
+    "sentence": "風船が空に浮いていく。",
+    "sentence_furigana": "風船【ふうせん】が空【そら】に浮【う】いていく。",
+    "meaning": "The balloon is floating up into the sky."
+  },
+  {
+    "sentence": "水面に油が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に油【あぶら】が浮【う】いていた。",
+    "meaning": "Oil was floating on the water surface."
+  },
+  {
+    "sentence": "そのニュースを聞いて、彼は浮かれていた。",
+    "sentence_furigana": "そのニュースを聞【き】いて、彼【かれ】は浮【う】かれていた。",
+    "meaning": "Hearing the news, he was elated."
+  },
+  {
+    "sentence": "彼の提案が会議で浮上した。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】が会議【かいぎ】で浮【う】しようした。",
+    "meaning": "His proposal came up at the meeting."
+  },
+  {
+    "sentence": "沈んでいた気持ちが少し浮上した。",
+    "sentence_furigana": "沈【しず】んでいた気持【きも】ちが少【すこ】し浮【う】しようした。",
+    "meaning": "My dejected feelings lifted a little."
+  },
+  {
+    "sentence": "魚が水面に浮いてきた。",
+    "sentence_furigana": "魚【さかな】が水面【すいめん】に浮【う】いてきた。",
+    "meaning": "Fish came to the surface of the water."
+  },
+  {
+    "sentence": "そのアイデアは思いつきで浮かんだものだ。",
+    "sentence_furigana": "そのアイデアは思【おも】いつきで浮【う】かんだものだ。",
+    "meaning": "That idea occurred to me spontaneously."
+  },
+  {
+    "sentence": "彼は昇進して浮かれている。",
+    "sentence_furigana": "彼【かれ】は昇進【しょうしん】して浮【う】かれている。",
+    "meaning": "He is elated about his promotion."
+  },
+  {
+    "sentence": "水面に船が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に船【ふね】が浮【う】いていた。",
+    "meaning": "A ship was floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に愁いが浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に愁【う】い が浮【う】かんだ。",
+    "meaning": "Sadness appeared on his face."
+  },
+  {
+    "sentence": "空中に埃が浮いている。",
+    "sentence_furigana": "空中【くうちゅう】に埃【ほこり】が浮【う】いている。",
+    "meaning": "Dust is floating in the air."
+  },
+  {
+    "sentence": "この問題を解決するために、新しい案が浮かんだ。",
+    "sentence_furigana": "この問題【もんだい】を解決【かいけつ】するために、新【あたら】しい案【あん】が浮【う】かんだ。",
+    "meaning": "A new idea came up to solve this problem."
+  },
+  {
+    "sentence": "彼は試験に合格して浮かれていた。",
+    "sentence_furigana": "彼【かれ】は試験【しけん】に合格【ごうかく】して浮【う】かれていた。",
+    "meaning": "He was elated by passing the exam."
+  },
+  {
+    "sentence": "水面に油膜が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に油膜【ゆうまく】が浮【う】いていた。",
+    "meaning": "An oil slick was floating on the water surface."
+  },
+  {
+    "sentence": "過去の思い出が頭に浮かんだ。",
+    "sentence_furigana": "過去【かこ】の思【おも】い出【で】が頭【あたま】に浮【う】かんだ。",
+    "meaning": "Memories of the past came to mind."
+  },
+  {
+    "sentence": "彼の声がかすかに聞こえた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】がかすかに浮【う】いて聞【き】こえた。",
+    "meaning": "His voice was faintly audible."
+  },
+  {
+    "sentence": "浮き輪を使って水に浮いていた。",
+    "sentence_furigana": "浮【う】き輪【わ】を使【つか】って水【みず】に浮【う】いていた。",
+    "meaning": "I was floating on the water using a swim ring."
+  },
+  {
+    "sentence": "彼は夢見心地で浮かれていた。",
+    "sentence_furigana": "彼【かれ】は夢見心地【ゆめごごち】で浮【う】かれていた。",
+    "meaning": "He was in a dreamlike state of elation."
+  },
+  {
+    "sentence": "水面に雪が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に雪【ゆき】が浮【う】いていた。",
+    "meaning": "Snow was floating on the water surface."
+  },
+  {
+    "sentence": "その問題点が表面に浮き出てきた。",
+    "sentence_furigana": "その問題点【もんだいてん】が表面【ひょうめん】に浮【う】き出【で】てきた。",
+    "meaning": "That problem surfaced."
+  },
+  {
+    "sentence": "彼女の顔に微笑みが浮かんだ。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】に微笑【びしょう】が浮【う】かんだ。",
+    "meaning": "A smile appeared on her face."
+  },
+  {
+    "sentence": "彼は良い知らせを聞いて浮かれていた。",
+    "sentence_furigana": "彼【かれ】は良【よ】い知【し】らせを聞【き】いて浮【う】かれていた。",
+    "meaning": "He was elated to hear the good news."
+  },
+  {
+    "sentence": "水面に小石が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に小石【こいし】が浮【う】いていた。",
+    "meaning": "Pebbles were floating on the water surface."
+  },
+  {
+    "sentence": "彼の心に希望の光が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の心【こころ】に希望【きぼう】の光【ひかり】が浮【う】かんだ。",
+    "meaning": "A ray of hope came to his mind."
+  },
+  {
+    "sentence": "その考えが彼の頭の中で浮いていた。",
+    "sentence_furigana": "その考【かんが】えが彼【かれ】の頭【あたま】の中【なか】で浮【う】いていた。",
+    "meaning": "That idea was lingering in his mind."
+  },
+  {
+    "sentence": "彼は勝利の味に酔いしれていた。",
+    "sentence_furigana": "彼【かれ】は勝利【しょうり】の味【あじ】に酔【よ】いしれて浮【う】かれていた。",
+    "meaning": "He was intoxicated by the taste of victory."
+  },
+  {
+    "sentence": "水面に枯葉が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に枯葉【かれは】が浮【う】いていた。",
+    "meaning": "Withered leaves were floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に複雑な感情が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に複雑【ふくざつ】な感情【かんじょう】が浮【う】かんだ。",
+    "meaning": "Complex emotions appeared on his face."
+  },
+  {
+    "sentence": "空中に綿毛が浮いていた。",
+    "sentence_furigana": "空中【くうちゅう】に綿毛【わたげ】が浮【う】いていた。",
+    "meaning": "Fluff was floating in the air."
+  },
+  {
+    "sentence": "そのアイデアはひらめきで浮かんだものだ。",
+    "sentence_furigana": "そのアイデアはひらめきで浮【う】かんだものだ。",
+    "meaning": "That idea came to me as an inspiration."
+  },
+  {
+    "sentence": "彼は久々の休暇で浮かれていた。",
+    "sentence_furigana": "彼【かれ】は久々【ひさびさ】の休暇【きゅうか】で浮【う】かれていた。",
+    "meaning": "He was elated by his long-awaited vacation."
+  },
+  {
+    "sentence": "水面に泡が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に泡【あわ】が浮【う】いていた。",
+    "meaning": "Bubbles were floating on the water surface."
+  },
+  {
+    "sentence": "彼の提案がプロジェクトで浮上した。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】がプロジェクトで浮【う】しようした。",
+    "meaning": "His proposal emerged in the project."
+  },
+  {
+    "sentence": "水面に木の枝が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に木【き】の枝【えだ】が浮【う】いていた。",
+    "meaning": "Tree branches were floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に安堵の表情が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に安堵【あんど】の表情【ひょうじょう】が浮【う】かんだ。",
+    "meaning": "A look of relief appeared on his face."
+  },
+  {
+    "sentence": "浮輪は水に浮くように設計されている。",
+    "sentence_furigana": "浮【う】き輪【わ】は水【みず】に浮【う】くように設計【せっけい】されている。",
+    "meaning": "Swim rings are designed to float on water."
+  },
+  {
+    "sentence": "彼は賞賛されて浮かれていた。",
+    "sentence_furigana": "彼【かれ】は賞賛【しょうさん】されて浮【う】かれていた。",
+    "meaning": "He was elated by the praise."
+  },
+  {
+    "sentence": "そのアイデアが会議で話題に浮上した。",
+    "sentence_furigana": "そのアイデアが会議【かいぎ】で話題【わだい】に浮【う】しようした。",
+    "meaning": "That idea came up for discussion at the meeting."
+  },
+  {
+    "sentence": "水面に藻が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に藻【も】が浮【う】いていた。",
+    "meaning": "Algae were floating on the water surface."
+  },
+  {
+    "sentence": "彼の心に疑問が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の心【こころ】に疑問【ぎもん】が浮【う】かんだ。",
+    "meaning": "A question arose in his mind."
+  },
+  {
+    "sentence": "軽飛行機が空を浮いていた。",
+    "sentence_furigana": "軽飛行機【けいひこうき】が空【そら】を浮【う】いていた。",
+    "meaning": "A light aircraft was floating in the sky."
+  },
+  {
+    "sentence": "その知らせに彼は得意になって浮かれていた。",
+    "sentence_furigana": "その知【し】らせに彼【かれ】は得意【とくい】になって浮【う】かれていた。",
+    "meaning": "He was proud and elated by the news."
+  },
+  {
+    "sentence": "水面に油が浮いて層をなしていた。",
+    "sentence_furigana": "水面【すいめん】に油【あぶら】が浮【う】いて層【そう】をなしていた。",
+    "meaning": "Oil floated on the water surface, forming a layer."
+  },
+  {
+    "sentence": "彼の顔に期待感が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に期待感【きたいかん】が浮【う】かんだ。",
+    "meaning": "A sense of anticipation appeared on his face."
+  },
+  {
+    "sentence": "その困難な状況が彼に重くのしかかった。",
+    "sentence_furigana": "その困難【こんなん】な状況【じょうきょう】が彼【かれ】に重【おも】くのしかかって浮【う】かない。",
+    "meaning": "The difficult situation weighed heavily on him, making him dispirited."
+  },
+  {
+    "sentence": "水面にプラスチック片が浮いていた。",
+    "sentence_furigana": "水面【すいめん】にプラスチック片【へん】が浮【う】いていた。",
+    "meaning": "Pieces of plastic were floating on the water surface."
+  },
+  {
+    "sentence": "彼の目に懐かしさが浮かんだ。",
+    "sentence_furigana": "彼【かれ】の目【め】に懐旧【なつかしさ】が浮【う】かんだ。",
+    "meaning": "Nostalgia appeared in his eyes."
+  },
+  {
+    "sentence": "新しい計画が水面下で浮上している。",
+    "sentence_furigana": "新【あら】しい計画【けいかく】が水面下【すいめんか】で浮【う】しようしている。",
+    "meaning": "A new plan is emerging beneath the surface."
+  },
+  {
+    "sentence": "彼の顔に満足感が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に満足感【まんぞくかん】が浮【う】かんだ。",
+    "meaning": "A sense of satisfaction appeared on his face."
+  },
+  {
+    "sentence": "水面に氷の破片が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に氷【こおり】の破片【はへん】が浮【う】いていた。",
+    "meaning": "Fragments of ice were floating on the water surface."
+  },
+  {
+    "sentence": "そのアイデアは突然彼の頭に浮かんだ。",
+    "sentence_furigana": "そのアイデアは突然【とつぜん】彼【かれ】の頭【あたま】に浮【う】かんだ。",
+    "meaning": "That idea suddenly came to his mind."
+  },
+  {
+    "sentence": "彼は試合に勝って浮かれていた。",
+    "sentence_furigana": "彼【かれ】は試合【しあい】に勝【か】って浮【う】かれていた。",
+    "meaning": "He was elated by winning the match."
+  },
+  {
+    "sentence": "水面にゴミが浮いていた。",
+    "sentence_furigana": "水面【すいめん】にゴミが浮【う】いていた。",
+    "meaning": "Trash was floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に驚きが浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に驚【おどろ】きが浮【う】かんだ。",
+    "meaning": "Surprise appeared on his face."
+  },
+  {
+    "sentence": "その問題が再び表面に浮上した。",
+    "sentence_furigana": "その問題【もんだい】が再【ふたた】び表面【ひょうめん】に浮【う】しようした。",
+    "meaning": "That problem resurfaced again."
+  },
+  {
+    "sentence": "彼の心に罪悪感が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の心【こころ】に罪悪感【ざいあくかん】が浮【う】かんだ。",
+    "meaning": "A sense of guilt arose in his mind."
+  },
+  {
+    "sentence": "水面に油汚れが浮いていた。",
+    "sentence_furigana": "水面【すいめん】に油汚【あぶらよ】れが浮【う】いていた。",
+    "meaning": "Oil stains were floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に決意が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に決意【けつい】が浮【う】かんだ。",
+    "meaning": "Determination appeared on his face."
+  },
+  {
+    "sentence": "その出来事が彼の記憶に鮮明に浮かんだ。",
+    "sentence_furigana": "その出来事【できごと】が彼【かれ】の記憶【きおく】に鮮明【せんめい】に浮【う】かんだ。",
+    "meaning": "That event vividly came to his memory."
+  },
+  {
+    "sentence": "彼は優勝を確信して浮かれていた。",
+    "sentence_furigana": "彼【かれ】は優勝【ゆうしょう】を確信【かくしん】して浮【う】かれていた。",
+    "meaning": "He was elated, confident of victory."
+  },
+  {
+    "sentence": "水面に小魚が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に小魚【こざかな】が浮【う】いていた。",
+    "meaning": "Small fish were floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に不安の色が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に不安【ふあん】の色【いろ】が浮【う】かんだ。",
+    "meaning": "A color of anxiety appeared on his face."
+  },
+  {
+    "sentence": "新しいアイデアが次々と浮かんだ。",
+    "sentence_furigana": "新【あら】しいアイデアが次々【つぎつぎ】に浮【う】かんだ。",
+    "meaning": "New ideas came one after another."
+  },
+  {
+    "sentence": "彼は久々の再会に浮かれていた。",
+    "sentence_furigana": "彼【かれ】は久々【ひさびさ】の再会【さいかい】に浮【う】かれていた。",
+    "meaning": "He was elated by the reunion after a long time."
+  },
+  {
+    "sentence": "水面に油分が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に油分【ゆぶん】が浮【う】いていた。",
+    "meaning": "Oiliness was floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に喜びの色が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に喜【よろこ】びの色【いろ】が浮【う】かんだ。",
+    "meaning": "A color of joy appeared on his face."
+  },
+  {
+    "sentence": "その問題点が議会で浮上した。",
+    "sentence_furigana": "その問題点【もんだいてん】が議会【ぎかい】で浮【う】しようした。",
+    "meaning": "That problem emerged in the parliament."
+  },
+  {
+    "sentence": "彼の心に一つの考えが浮かんだ。",
+    "sentence_furigana": "彼【かれ】の心【こころ】に一つの考【かんが】えが浮【う】かんだ。",
+    "meaning": "An idea came to his mind."
+  },
+  {
+    "sentence": "水面に異物が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に異物【いぶつ】が浮【う】いていた。",
+    "meaning": "Foreign matter was floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に期待が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に期待【きたい】が浮【う】かんだ。",
+    "meaning": "Expectation appeared on his face."
+  },
+  {
+    "sentence": "軽やかに水面に浮いていた。",
+    "sentence_furigana": "軽【かろ】やかに水面【すいめん】に浮【う】いていた。",
+    "meaning": "It was floating lightly on the water surface."
+  },
+  {
+    "sentence": "彼の心に決意が浮かんだ。",
+    "sentence_furigana": "彼【かれ】の心【こころ】に決意【けつい】が浮【う】かんだ。",
+    "meaning": "Determination arose in his mind."
+  },
+  {
+    "sentence": "水面に泡立った液体が浮いていた。",
+    "sentence_furigana": "水面【すいめん】に泡立【あわだ】った液体【えきたい】が浮【う】いていた。",
+    "meaning": "Foamy liquid was floating on the water surface."
+  },
+  {
+    "sentence": "彼の顔に不安が浮かんでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に不安【ふあん】が浮【う】かんでいた。",
+    "meaning": "Anxiety was on his face."
+  },
+  {
+    "sentence": "その計画が白紙に戻るという情報が浮上した。",
+    "sentence_furigana": "その計画【けいかく】が白紙【はくし】に戻【もど】るという情報【じょうほう】が浮【う】しようした。",
+    "meaning": "Information emerged that the plan would be scrapped."
+  },
+  {
+    "sentence": "水面に油分が層をなして浮いていた。",
+    "sentence_furigana": "水面【すいめん】に油分【ゆぶん】が層【そう】をなして浮【う】いていた。",
+    "meaning": "Oiliness was floating on the water surface, forming layers."
+  }
+]

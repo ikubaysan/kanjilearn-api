@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "このスープは色々な野菜が混ざっている。",
+    "sentence_furigana": "このスープは色【いろ】々な野菜【やさい】が混【ま】ざっている。",
+    "meaning": "This soup is mixed with various vegetables."
+  },
+  {
+    "sentence": "二つの色が混ざって紫色になった。",
+    "sentence_furigana": "二【ふた】つの色【いろ】が混【ま】ざって紫【むらさき】色【いろ】になった。",
+    "meaning": "The two colors mixed and became purple."
+  },
+  {
+    "sentence": "人々がひしめき合って、ごった返していた。",
+    "sentence_furigana": "人々【ひとびと】がひしめき合【あ】って、ごった返【かえ】していた。",
+    "meaning": "People were packed together and in a state of confusion."
+  },
+  {
+    "sentence": "彼は会議に遅れてきたので、話が混ざってしまった。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に遅【おく】れてきたので、話【はな】しが混【ま】ざってしまった。",
+    "meaning": "He was late for the meeting, so the conversation got mixed up."
+  },
+  {
+    "sentence": "この絵の具を混ぜて、新しい色を作ろう。",
+    "sentence_furigana": "この絵【え】の具【ぐ】を混【ま】ぜて、新【あたら】しい色【いろ】を作【つく】ろう。",
+    "meaning": "Let's mix these paints to create a new color."
+  },
+  {
+    "sentence": "彼は二つの言葉を混ぜて話す癖がある。",
+    "sentence_furigana": "彼【かれ】は二【ふた】つの言葉【ことば】を混【ま】ぜて話【はな】す癖【くせ】がある。",
+    "meaning": "He has a habit of mixing two languages when he speaks."
+  },
+  {
+    "sentence": "この資料は色々な情報が混ざっているため、整理が必要だ。",
+    "sentence_furigana": "この資料【しりょう】は色【いろ】々な情報【じょうほう】が混【ま】ざっているため、整理【せいり】が必要【ひつよう】だ。",
+    "meaning": "This material is mixed with various information, so it needs to be organized."
+  },
+  {
+    "sentence": "そのパーティーでは様々な国籍の人々が混じっていた。",
+    "sentence_furigana": "そのパーティーでは様々【さまざま】な国籍【こくせき】の人々【ひとびと】が混【ま】じっていた。",
+    "meaning": "People of various nationalities were mixed at that party."
+  },
+  {
+    "sentence": "古いものと新しいものが混在する街並み。",
+    "sentence_furigana": "古【ふる】いものと新【あたら】しいものが混【こん】在【ざい】する街並【まちな】み。",
+    "meaning": "A cityscape where old and new things coexist."
+  },
+  {
+    "sentence": "その話には真実と嘘が混じっている。",
+    "sentence_furigana": "その話【はな】しには真実【しんじつ】と嘘【うそ】が混【ま】じっている。",
+    "meaning": "That story contains a mix of truth and lies."
+  },
+  {
+    "sentence": "多くの人が押し合いへし合いして、非常に混雑していた。",
+    "sentence_furigana": "多【おお】くの人【ひと】が押【お】し合【あ】いへし合【あ】いして、非常【ひじょう】に混【こん】雑【ざつ】していた。",
+    "meaning": "Many people were jostling each other, and it was extremely crowded."
+  },
+  {
+    "sentence": "この飲み物は果汁と炭酸が混ざって出来ている。",
+    "sentence_furigana": "この飲【の】み物【もの】は果汁【かじゅう】と炭酸【たんさん】が混【ま】ざって出来【でき】ている。",
+    "meaning": "This drink is made by mixing fruit juice and carbonated water."
+  },
+  {
+    "sentence": "彼は感情がこじれて、混乱していた。",
+    "sentence_furigana": "彼【かれ】は感情【かんじょう】がこじれて、混【こん】乱【らん】していた。",
+    "meaning": "His emotions became tangled, and he was confused."
+  },
+  {
+    "sentence": "複数の文化が混ざり合って、独自の文化が生まれた。",
+    "sentence_furigana": "複数【ふくすう】の文化【ぶんか】が混【ま】ざり合【あ】って、独特【どくとく】の文化【ぶんか】が生まれた【うま】れた。",
+    "meaning": "Multiple cultures blended together to create a unique culture."
+  },
+  {
+    "sentence": "言葉の意味が混同してしまい、理解できなかった。",
+    "sentence_furigana": "言葉【ことば】の意味【いみ】が混【こん】同【どう】してしまい、理解【りかい】できなかった。",
+    "meaning": "The meanings of the words got confused, and I couldn't understand."
+  },
+  {
+    "sentence": "彼は過去と現在が混ざったような話をした。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】と現在【げんざい】が混【ま】ざったような話【はな】しをした。",
+    "meaning": "He told a story that seemed to mix the past and the present."
+  },
+  {
+    "sentence": "その曲はジャズとロックが混ざったようなサウンドだ。",
+    "sentence_furigana": "その曲【きょく】はジャズとロックが混【ま】ざったようなサウンドだ。",
+    "meaning": "That song has a sound that seems to blend jazz and rock."
+  },
+  {
+    "sentence": "彼は多くの知識を詰め込んでいるので、頭の中が混乱している。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】を詰【つ】め込【こ】んでいるので、頭【あたま】の中【なか】が混【こん】乱【らん】している。",
+    "meaning": "He has crammed in a lot of knowledge, so his mind is confused."
+  },
+  {
+    "sentence": "二つの河流が合流して、一つの大きな川になった。",
+    "sentence_furigana": "二【ふた】つの河流【かりゅう】が合流【ごうりゅう】して、一個【いっこ】の大【おお】きな川【かわ】になった。",
+    "meaning": "Two rivers merged to become one large river."
+  },
+  {
+    "sentence": "この料理は甘さと辛さが絶妙に混ざっている。",
+    "sentence_furigana": "この料理【りょうり】は甘【あま】さと辛【から】さが絶妙【ぜつみょう】に混【ま】ざっている。",
+    "meaning": "The sweetness and spiciness of this dish are exquisitely blended."
+  },
+  {
+    "sentence": "彼は夢と現実が混ざったような話しかしない。",
+    "sentence_furigana": "彼【かれ】は夢【ゆめ】と現実【げんじつ】が混【ま】ざった話【はな】ししかしない。",
+    "meaning": "He only talks about things that seem to mix dreams and reality."
+  },
+  {
+    "sentence": "その地域は東西の文化が混じり合っている。",
+    "sentence_furigana": "その地域【ちいき】は東西【とうざい】の文化【ぶんか】が混【ま】じり合【あ】っている。",
+    "meaning": "In that region, Eastern and Western cultures are blended."
+  },
+  {
+    "sentence": "色々な意見が混ざって、結論が出なかった。",
+    "sentence_furigana": "色【いろ】々な意見【いけん】が混【ま】ざって、結論【けつろん】が出【で】なかった。",
+    "meaning": "Various opinions were mixed, and no conclusion was reached."
+  },
+  {
+    "sentence": "この小説はフィクションとノンフィクションが混ざっている。",
+    "sentence_furigana": "この小説【しょうせつ】はフィクションとノンフィクションが混【ま】ざっている。",
+    "meaning": "This novel mixes fiction and non-fiction."
+  },
+  {
+    "sentence": "彼は子供たちの騒ぎに巻き込まれてしまった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちの大騒ぎ【おおさわぎ】に巻【ま】き込【こ】まれてしまった。",
+    "meaning": "He got caught up in the children's commotion."
+  },
+  {
+    "sentence": "空気中に埃が混じっていた。",
+    "sentence_furigana": "空気【くうき】中【ちゅう】に埃【ほこり】が混【ま】じっていた。",
+    "meaning": "Dust was mixed in the air."
+  },
+  {
+    "sentence": "二つの音が混ざって聞こえた。",
+    "sentence_furigana": "二【ふた】つの音【おと】が混【ま】ざって聞【き】こえた。",
+    "meaning": "Two sounds were heard mixed together."
+  },
+  {
+    "sentence": "彼は昔の記憶と今の現実が混ざって、混乱しているようだ。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の記憶【きおく】と今【いま】の現実【げんじつ】が混【ま】ざって、混乱【こんらん】しているようだ。",
+    "meaning": "His past memories and present reality seem to be mixed up, and he appears confused."
+  },
+  {
+    "sentence": "この絵の具は色がたくさん混ざっている。",
+    "sentence_furigana": "この絵【え】の具【ぐ】は色【いろ】がたくさん混【ま】ざっている。",
+    "meaning": "This paint has many colors mixed in it."
+  },
+  {
+    "sentence": "彼は自分の意見と他人の意見を混同しがちだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】と他人【たにん】の意見【いけん】を混【こん】同【どう】しがちだ。",
+    "meaning": "He tends to confuse his own opinions with those of others."
+  },
+  {
+    "sentence": "市場には色々な種類の果物が混ざって売られていた。",
+    "sentence_furigana": "市場【いちば】には色【いろ】々な種類【しゅるい】の果物【くだもの】が混【ま】ざって売【う】られていた。",
+    "meaning": "Various types of fruits were mixed and sold at the market."
+  },
+  {
+    "sentence": "このソースは様々な香辛料が混ざっている。",
+    "sentence_furigana": "このソースは様々【さまざま】な香辛料【こうしんりょう】が混【ま】ざっている。",
+    "meaning": "This sauce is mixed with various spices."
+  },
+  {
+    "sentence": "彼は新しいアイデアと古いやり方を混ぜてしまった。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいアイデアと古【ふる】いやり方【かた】を混【ま】ぜてしまった。",
+    "meaning": "He mixed new ideas with old methods."
+  },
+  {
+    "sentence": "この川の水は泥が混じって濁っていた。",
+    "sentence_furigana": "この川【かわ】の水【みず】は泥【どろ】が混【ま】じって濁【にご】っていた。",
+    "meaning": "The water in this river was muddy and turbid."
+  },
+  {
+    "sentence": "彼女の声は喜びに満ちていたが、少し悲しみも混じっていた。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】は喜【よろこ】びに満【み】ちていたが、少【すこ】し悲【かな】しみも混【ま】じっていた。",
+    "meaning": "Her voice was full of joy, but also a little sad."
+  },
+  {
+    "sentence": "この地域は多種多様な人々が混住している。",
+    "sentence_furigana": "この地域【ちいき】は多種多様【たしゅたよう】な人々【ひとびと】が混【こん】住【じゅう】している。",
+    "meaning": "Various kinds of people live together in this region."
+  },
+  {
+    "sentence": "彼の話は冗談と本気が混ざっていたので、どちらとも取れた。",
+    "sentence_furigana": "彼【かれ】の話【はな】しは冗談【じょうだん】と本気【ほんき】が混【ま】ざっていたので、どちらとも取【と】れた。",
+    "meaning": "His words mixed jokes and seriousness, so they could be taken either way."
+  },
+  {
+    "sentence": "この薬は複数の成分が混ざっている。",
+    "sentence_furigana": "この薬【くすり】は複数【ふくすう】の成分【せいぶん】が混【ま】ざっている。",
+    "meaning": "This medicine contains multiple ingredients."
+  },
+  {
+    "sentence": "彼は自分の感情をうまく表現できず、混乱していた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】をうまく表現【ひょうげん】できず、混乱【こんらん】していた。",
+    "meaning": "He couldn't express his emotions well and was confused."
+  },
+  {
+    "sentence": "色々な考え方が混ざり合うことで、新しい発想が生まれる。",
+    "sentence_furigana": "色【いろ】々な考【かんが】え方【かた】が混【ま】ざり合【あ】うことで、新【あたら】しい発想【はっそう】が生ま【う】れる。",
+    "meaning": "New ideas are born when various ways of thinking blend together."
+  },
+  {
+    "sentence": "その歴史的建造物には様々な時代の様式が混じっている。",
+    "sentence_furigana": "その歴史的建造物【れきしてきけんぞうぶつ】には様々【さまざま】な時代【じだい】の様式【ようしき】が混【ま】じっている。",
+    "meaning": "That historical building mixes styles from various eras."
+  },
+  {
+    "sentence": "彼は過去の経験と現在の状況を混同して話している。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】と現在【げんざい】の状況【じょうきょう】を混【こん】同【どう】して話【はな】している。",
+    "meaning": "He is talking about his past experiences and present situation in a confused manner."
+  },
+  {
+    "sentence": "この料理は、甘みと酸味が絶妙に混ざり合っている。",
+    "sentence_furigana": "この料理【りょうり】は、甘【あま】みと酸味【さんみ】が絶妙【ぜつみょう】に混【ま】ざり合【あ】っている。",
+    "meaning": "The sweetness and sourness of this dish are exquisitely blended."
+  },
+  {
+    "sentence": "彼は情報を整理できず、頭の中が混乱していた。",
+    "sentence_furigana": "彼【かれ】は情報【じょうほう】を整理【せいり】できず、頭【あたま】の中【なか】が混【こん】乱【らん】していた。",
+    "meaning": "He couldn't organize the information and was confused."
+  },
+  {
+    "sentence": "この生地は、小麦粉と米粉が混ぜられている。",
+    "sentence_furigana": "この生地【きじ】は、小麦粉【こむぎこ】と米粉【こめこ】が混【ま】ぜられている。",
+    "meaning": "This dough is made by mixing wheat flour and rice flour."
+  },
+  {
+    "sentence": "彼は真実と虚偽を混ぜて話す傾向がある。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】と虚偽【きょぎ】を混【ま】ぜて話【はな】す傾向【けいこう】がある。",
+    "meaning": "He has a tendency to mix truth and falsehood when he speaks."
+  },
+  {
+    "sentence": "この歌は様々なジャンルの音楽が混ざっている。",
+    "sentence_furigana": "この歌【うた】は様々【さまざま】なジャンルの音楽【おんがく】が混【ま】ざっている。",
+    "meaning": "This song mixes various music genres."
+  },
+  {
+    "sentence": "彼は焦りと希望が入り混じった複雑な表情をしていた。",
+    "sentence_furigana": "彼【かれ】は焦【あせ】りと希望【きぼう】が入【い】り混【ま】じった複雑【ふくざつ】な表情【ひょうじょう】をしていた。",
+    "meaning": "He had a complex expression, a mixture of anxiety and hope."
+  },
+  {
+    "sentence": "この街は古い建物と新しい建物が混在している。",
+    "sentence_furigana": "この街【まち】は古【ふる】い建物【たてもの】と新【あたら】しい建物【たてもの】が混【こん】在【ざい】している。",
+    "meaning": "This town has a mix of old and new buildings."
+  },
+  {
+    "sentence": "彼は混乱した状況の中で冷静さを保とうとした。",
+    "sentence_furigana": "彼【かれ】は混乱【こんらん】した状況【じょうきょう】の中【なか】で冷静【れいせい】さ保【たも】とうとした。",
+    "meaning": "He tried to maintain his composure in the confusing situation."
+  },
+  {
+    "sentence": "二つの異なる文化が混ざり合って、新しい文化を形成した。",
+    "sentence_furigana": "二【ふた】つの異【こと】なる文化【ぶんか】が混【ま】ざり合【あ】って、新【あたら】しい文化【ぶんか】を形成【けいせい】した。",
+    "meaning": "Two different cultures blended to form a new culture."
+  },
+  {
+    "sentence": "彼は報告書に誤字を混入させてしまった。",
+    "sentence_furigana": "彼【かれ】は報告書【ほうこくしょ】に誤字【ごじ】を混【こん】入【にゅう】させてしまった。",
+    "meaning": "He accidentally included a typo in the report."
+  },
+  {
+    "sentence": "このジュースは数種類の果物が混ぜられている。",
+    "sentence_furigana": "このジュースは数種類【すうしゅるい】の果物【くだもの】が混【ま】ぜられている。",
+    "meaning": "This juice is made by mixing several types of fruits."
+  },
+  {
+    "sentence": "市場では、新鮮な魚と冷凍の魚が混ざって売られていた。",
+    "sentence_furigana": "市場【いちば】では、新鮮【しんせん】な魚【さかな】と冷凍【れいとう】の魚【さかな】が混【ま】ざって売【う】られていた。",
+    "meaning": "Fresh fish and frozen fish were mixed and sold at the market."
+  },
+  {
+    "sentence": "彼は過去の栄光と現在の苦悩を抱えている。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】と現在【げんざい】の苦悩【くのう】を抱【いだ】えている。",
+    "meaning": "He carries the glory of the past and the suffering of the present."
+  },
+  {
+    "sentence": "子供たちは賑やかに話し、騒がしく混ざっていた。",
+    "sentence_furigana": "子供【こども】たちは賑【にぎ】やかに話【はな】し、騒【さわ】がしく混【ま】ざっていた。",
+    "meaning": "The children were talking noisily and mixed in a lively manner."
+  },
+  {
+    "sentence": "このワインは複数のブドウ品種がブレンドされている。",
+    "sentence_furigana": "このワインは複数【ふくすう】のブドウ品種【ぶどうひんしゅ】がブレンドされている。",
+    "meaning": "This wine is a blend of multiple grape varieties."
+  },
+  {
+    "sentence": "彼は経験不足からくる混乱に陥っていた。",
+    "sentence_furigana": "彼【かれ】は経験不足【けいけんぶそく】からくる混乱【こんらん】に陥【おちい】っていた。",
+    "meaning": "He was caught in confusion due to lack of experience."
+  },
+  {
+    "sentence": "この地域の言語は、古語と現代語が混ざっている。",
+    "sentence_furigana": "この地域【ちいき】の言語【げんご】は、古語【こご】と現代語【げんだいご】が混【ま】ざっている。",
+    "meaning": "The language in this region mixes old and modern words."
+  },
+  {
+    "sentence": "彼は過去の失敗と現在の成功が入り混じった感情を抱いていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】と現在【げんざい】の成功【せいこう】が入【い】り混【ま】じった感情【かんじょう】を抱【いだ】いていた。",
+    "meaning": "He harbored mixed emotions of past failures and present success."
+  },
+  {
+    "sentence": "この絵は、様々な色合いが混ざり合って美しい。",
+    "sentence_furigana": "この絵【え】は、様々【さまざま】な色合【いろあ】い が混【ま】ざり合【あ】って美【うつく】しい。",
+    "meaning": "This painting is beautiful with its mix of various hues."
+  },
+  {
+    "sentence": "彼は情報が多すぎて混乱している。",
+    "sentence_furigana": "彼【かれ】は情報【じょうほう】が多【おお】すぎて混乱【こんらん】している。",
+    "meaning": "He is confused because there is too much information."
+  },
+  {
+    "sentence": "この布は綿とポリエステルが混紡されている。",
+    "sentence_furigana": "この布【ぬの】は綿【めん】とポリエステルが混【こん】紡【ぼう】されている。",
+    "meaning": "This fabric is a blend of cotton and polyester."
+  },
+  {
+    "sentence": "彼は喜怒哀楽が入り混じった表情を見せた。",
+    "sentence_furigana": "彼【かれ】は喜怒哀楽【きどあいらく】が入【い】り混【ま】じった表情【ひょうじょう】を見【み】せた。",
+    "meaning": "He showed an expression mixed with joy, anger, sorrow, and pleasure."
+  },
+  {
+    "sentence": "二つの異なる文化が共存し、互いに影響を与え合っている。",
+    "sentence_furigana": "二【ふた】つの異【こと】なる文化【ぶんか】が共存【きょうそん】し、互【たが】いに影響【えいきょう】を与【あた】え合【あ】っている。",
+    "meaning": "Two different cultures coexist and influence each other."
+  },
+  {
+    "sentence": "この料理は甘み、酸味、辛味が混ざり合っている。",
+    "sentence_furigana": "この料理【りょうり】は甘【あま】み、酸味【さんみ】、辛味【からみ】が混【ま】ざり合【あ】っている。",
+    "meaning": "This dish mixes sweetness, sourness, and spiciness."
+  },
+  {
+    "sentence": "彼は混乱した状況でも冷静に判断を下した。",
+    "sentence_furigana": "彼【かれ】は混乱【こんらん】した状況【じょうきょう】でも冷静【れいせい】に判断【はんだん】を下【くだ】した。",
+    "meaning": "He made a calm judgment even in the confusing situation."
+  },
+  {
+    "sentence": "この混合物は科学実験で使われる。",
+    "sentence_furigana": "この混合物【こんごうぶつ】は科学実験【かがくじっけん】で使【つか】われる。",
+    "meaning": "This mixture is used in scientific experiments."
+  },
+  {
+    "sentence": "彼は感情の波に翻弄されていた。",
+    "sentence_furigana": "彼【かれ】は感情【かんじょう】の波【なみ】に翻弄【ほんろう】されていた。",
+    "meaning": "He was tossed about by waves of emotion."
+  },
+  {
+    "sentence": "この地域には多くの言語が混ざって話されている。",
+    "sentence_furigana": "この地域【ちいき】には多【おお】くの言語【げんご】が混【ま】ざって話【はな】されている。",
+    "meaning": "Many languages are spoken mixed together in this region."
+  },
+  {
+    "sentence": "彼は過去の記憶と現在の出来事が混同してしまい、混乱していた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の記憶【きおく】と現在【げんざい】の出来事【できごと】が混【こん】同【どう】してしまい、混乱【こんらん】していた。",
+    "meaning": "He confused his past memories with current events and was confused."
+  },
+  {
+    "sentence": "この塗料は、複数の色が混ざって独特の色を作り出している。",
+    "sentence_furigana": "この塗料【とりょう】は、複数【ふくすう】の色【いろ】が混【ま】ざって独特【どくとく】の色【いろ】を作り出【つくりだ】している。",
+    "meaning": "This paint mixes multiple colors to create a unique hue."
+  },
+  {
+    "sentence": "彼は子供の頃の記憶がごちゃ混ぜになっていた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】の記憶【きおく】がごちゃ混ぜ【まぜ】になっていた。",
+    "meaning": "His childhood memories were all mixed up."
+  },
+  {
+    "sentence": "この川は上流から様々なものが混じって流れてくる。",
+    "sentence_furigana": "この川【かわ】は上流【じょうりゅう】から様々【さまざま】なものが混【ま】じって流【なが】れてくる。",
+    "meaning": "Various things flow mixed into this river from upstream."
+  },
+  {
+    "sentence": "彼は自分の意見と他人の意見を区別できずにいた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】と他人【たにん】の意見【いけん】を区別【くべつ】できずにいた。",
+    "meaning": "He couldn't distinguish between his own opinions and those of others."
+  },
+  {
+    "sentence": "この音楽は、様々な時代の要素が混ざり合っている。",
+    "sentence_furigana": "この音楽【おんがく】は、様々【さまざま】な時代【じだい】の要素【ようそ】が混【ま】ざり合【あ】っている。",
+    "meaning": "This music mixes elements from various eras."
+  },
+  {
+    "sentence": "彼は混乱した状況で、正しい判断を下すことができなかった。",
+    "sentence_furigana": "彼【かれ】は混乱【こんらん】した状況【じょうきょう】で、正【ただ】しい判断【はんだん】を下【くだ】すことができなかった。",
+    "meaning": "He was unable to make a correct judgment in the confusing situation."
+  },
+  {
+    "sentence": "この絵の具は、数種類の原色が混ぜられている。",
+    "sentence_furigana": "この絵【え】の具【ぐ】は、数種類【すうしゅるい】の原色【げんしょく】が混【ま】ぜられている。",
+    "meaning": "These paints are made by mixing several primary colors."
+  },
+  {
+    "sentence": "彼は過去の出来事と現在の出来事を混同して覚えていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】と現在【げんざい】の出来事【できごと】を混【こん】同【どう】して覚【おぼ】えていた。",
+    "meaning": "He remembered past events and current events in a confused way."
+  },
+  {
+    "sentence": "この地域には、古くからの伝統と新しい文化が混在している。",
+    "sentence_furigana": "この地域【ちいき】には、古【ふる】くからの伝統【でんとう】と新【あたら】しい文化【ぶんか】が混【こん】在【ざい】している。",
+    "meaning": "In this region, old traditions and new cultures coexist."
+  },
+  {
+    "sentence": "彼は多くの情報に圧倒され、混乱していた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの情報【じょうほう】に圧倒【あっとう】され、混乱【こんらん】していた。",
+    "meaning": "He was overwhelmed by the amount of information and was confused."
+  },
+  {
+    "sentence": "この歌は、東洋と西洋の音楽が混ざり合ったサウンドを持っている。",
+    "sentence_furigana": "この歌【うた】は、東洋【とうよう】と西洋【せいよう】の音楽【おんがく】が混【ま】ざり合【あ】ったサウンドを持【も】っている。",
+    "meaning": "This song has a sound that blends Eastern and Western music."
+  },
+  {
+    "sentence": "彼は自分の考えと他人の考えを混ぜてしまっていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えと他人【たにん】の考【かんが】えを混【ま】ぜてしまっていた。",
+    "meaning": "He had mixed up his own thoughts with those of others."
+  },
+  {
+    "sentence": "この料理は、甘さと辛さが絶妙に調和している。",
+    "sentence_furigana": "この料理【りょうり】は、甘【あま】さと辛【から】さが絶妙【ぜつみょう】に調和【ちょうわ】している。",
+    "meaning": "The sweetness and spiciness of this dish are exquisitely harmonized."
+  },
+  {
+    "sentence": "彼は混乱した状況でも、希望を捨てなかった。",
+    "sentence_furigana": "彼【かれ】は混乱【こんらん】した状況【じょうきょう】でも、希望【きぼう】を捨【す】てなかった。",
+    "meaning": "He did not give up hope even in the confusing situation."
+  },
+  {
+    "sentence": "この混合塗料は、独特な色合いを生み出す。",
+    "sentence_furigana": "この混合塗料【こんごうとりょう】は、独特【どくとく】な色合【いろあ】いを生【う】み出【だ】す。",
+    "meaning": "This mixed paint produces a unique hue."
+  },
+  {
+    "sentence": "彼は過去の経験と現在の知識を織り交ぜて話を進めた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】と現在【げんざい】の知識【ちしき】を織【お】り交【ま】ぜて話【はな】しを進【すす】めた。",
+    "meaning": "He proceeded with his story by weaving together past experiences and present knowledge."
+  },
+  {
+    "sentence": "この街の雰囲気は、古いものと新しいものが混在している。",
+    "sentence_furigana": "この街【まち】の雰囲気【ふんいき】は、古【ふる】いものと新【あたら】しいものが混【こん】在【ざい】している。",
+    "meaning": "The atmosphere of this town is a mix of old and new."
+  },
+  {
+    "sentence": "彼は様々な意見が飛び交う中で、自分の考えを述べた。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な意見【いけん】が飛【と】び交【か】う中【なか】で、自分【じぶん】の考【かんが】えを述【の】べた。",
+    "meaning": "He stated his own opinion amidst a flurry of various opinions."
+  },
+  {
+    "sentence": "この川の水は上流から多くの土砂が混じっていた。",
+    "sentence_furigana": "この川【かわ】の水【みず】は上流【じょうりゅう】から多【おお】くの土砂【どしゃ】が混【ま】じっていた。",
+    "meaning": "A lot of sediment was mixed in the water of this river from upstream."
+  },
+  {
+    "sentence": "彼は自分の感情をうまくコントロールできずに、混乱していた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】をうまくコントロールできずに、混乱【こんらん】していた。",
+    "meaning": "He couldn't control his emotions well and was confused."
+  },
+  {
+    "sentence": "この生地は、複数の種類の繊維が混ざって作られている。",
+    "sentence_furigana": "この生地【きじ】は、複数【ふくすう】の種類【しゅるい】の繊維【せんい】が混【ま】ざって作【つく】られている。",
+    "meaning": "This fabric is made by mixing several types of fibers."
+  },
+  {
+    "sentence": "彼は真実と虚偽を混ぜ合わせた話で人を惑わせた。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】と虚偽【きょぎ】を混【ま】ぜ合【あ】わせた話【はな】しで人【ひと】を惑【まど】わせた。",
+    "meaning": "He deceived people with a story that mixed truth and falsehood."
+  },
+  {
+    "sentence": "このブレンドコーヒーは、複数の豆が混ぜられている。",
+    "sentence_furigana": "このブレンドコーヒーは、複数【ふくすう】の豆【まめ】が混【ま】ぜられている。",
+    "meaning": "This blended coffee is made from a mixture of several beans."
+  },
+  {
+    "sentence": "彼は混乱した状況でも、冷静に状況を分析した。",
+    "sentence_furigana": "彼【かれ】は混乱【こんらん】した状況【じょうきょう】でも、冷静【れいせい】に状況【じょうきょう】を分析【ぶんせき】した。",
+    "meaning": "He calmly analyzed the situation even in the confusing circumstances."
+  },
+  {
+    "sentence": "この地域では、多様な文化が共存し、豊かな社会を形成している。",
+    "sentence_furigana": "この地域【ちいき】では、多様【たよう】な文化【ぶんか】が共存【きょうそん】し、豊【ゆた】かな社会【しゃかい】を形成【けいせい】している。",
+    "meaning": "In this region, diverse cultures coexist, forming a rich society."
+  },
+  {
+    "sentence": "彼は過去の成功体験と現在の困難を混同して考えていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の成功体験【せいこうたいけん】と現在【げんざい】の困難【こんなん】を混【こん】同【どう】して考【かんが】えていた。",
+    "meaning": "He confused his past successful experiences with his current difficulties."
+  },
+  {
+    "sentence": "この絵は、暖色と寒色が混ざり合った独特な色彩を持っている。",
+    "sentence_furigana": "この絵【え】は、暖色【だんしょく】と寒色【かんしょく】が混【ま】ざり合【あ】った独特【どくとく】な色彩【しきさい】を持【も】っている。",
+    "meaning": "This painting has a unique coloration that blends warm and cool colors."
+  }
+]

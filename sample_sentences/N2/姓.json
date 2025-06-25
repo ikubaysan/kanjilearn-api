@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "彼の姓は田中です。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は田中【たなか】です。",
+    "meaning": "His surname is Tanaka."
+  },
+  {
+    "sentence": "姓を名乗ってください。",
+    "sentence_furigana": "姓【せい】を名乗【なの】ってください。",
+    "meaning": "Please state your surname."
+  },
+  {
+    "sentence": "彼女の姓は佐藤と言います。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は佐藤【さとう】と言【い】います。",
+    "meaning": "Her surname is Sato."
+  },
+  {
+    "sentence": "このリストには多くの姓が含まれています。",
+    "sentence_furigana": "このリストには多【おお】くの姓【せい】が含ま【ふくま】れています。",
+    "meaning": "This list includes many surnames."
+  },
+  {
+    "sentence": "姓が変わると、登録情報も変更する必要があります。",
+    "sentence_furigana": "姓【せい】が変わ【か】ると、登録情報【とうろくじょうほう】も変更【へんこう】する必要【ひつよう】があります。",
+    "meaning": "When a surname changes, registration information also needs to be changed."
+  },
+  {
+    "sentence": "彼の姓は一度も変わったことがない。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は一度【いちど】も変【か】わったことがない。",
+    "meaning": "His surname has never changed."
+  },
+  {
+    "sentence": "日本の姓は多様です。",
+    "sentence_furigana": "日本【にほん】の姓【せい】は多様【たよう】です。",
+    "meaning": "Japanese surnames are diverse."
+  },
+  {
+    "sentence": "姓が同じでも、血縁関係があるとは限りません。",
+    "sentence_furigana": "姓【せい】が同【おな】じでも、血縁関係【けつえんかんけい】があるとは限【かぎ】りません。",
+    "meaning": "Even if surnames are the same, it doesn't necessarily mean there is a blood relationship."
+  },
+  {
+    "sentence": "旧姓を教えていただけますか。",
+    "sentence_furigana": "旧姓【きゅうせい】を教【おし】えていただけますか。",
+    "meaning": "Could you please tell me your maiden name?"
+  },
+  {
+    "sentence": "この書類には姓と名の両方を記入してください。",
+    "sentence_furigana": "この書類【しょるい】には姓【せい】と名【な】の両方【りょうほう】を記入【きにゅう】してください。",
+    "meaning": "Please write both your surname and given name on this document."
+  },
+  {
+    "sentence": "彼は珍しい姓の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は珍【めずら】しい姓【せい】の持【も】ち主【ぬし】だ。",
+    "meaning": "He possesses a rare surname."
+  },
+  {
+    "sentence": "結婚後、妻は夫の姓に変更した。",
+    "sentence_furigana": "結婚後【けっこんご】、妻【つま】は夫【おっと】の姓【せい】に変更【へんこう】した。",
+    "meaning": "After marriage, the wife changed to her husband's surname."
+  },
+  {
+    "sentence": "この国の姓のシステムは複雑だ。",
+    "sentence_furigana": "この国【くに】の姓【せい】のシステムは複雑【ふくざつ】だ。",
+    "meaning": "The surname system in this country is complicated."
+  },
+  {
+    "sentence": "子供に伝統的な姓を付けた。",
+    "sentence_furigana": "子供【こども】に伝統的【でんとうてき】な姓【せい】を付【つ】けた。",
+    "meaning": "They gave the child a traditional surname."
+  },
+  {
+    "sentence": "姓の由来を調べている。",
+    "sentence_furigana": "姓【せい】の由来【ゆらい】を調【しら】べている。",
+    "meaning": "I am researching the origin of the surname."
+  },
+  {
+    "sentence": "パスポートには旧姓も記載されている。",
+    "sentence_furigana": "パスポートには旧姓【きゅうせい】も記載【きさい】されている。",
+    "meaning": "The passport also indicates the former surname."
+  },
+  {
+    "sentence": "彼女は自分の姓を誇りに思っている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の姓【せい】を誇【ほこ】りに思【おも】っている。",
+    "meaning": "She is proud of her surname."
+  },
+  {
+    "sentence": "この地域には特定の姓が多い。",
+    "sentence_furigana": "この地域【ちいき】には特定【とくてい】の姓【せい】が多【おお】い。",
+    "meaning": "There are many specific surnames in this region."
+  },
+  {
+    "sentence": "姓を間違って登録してしまった。",
+    "sentence_furigana": "姓【せい】を間違【まちが】って登録【とうろく】してしまった。",
+    "meaning": "I registered the surname incorrectly."
+  },
+  {
+    "sentence": "姓氏録には様々な姓が記録されている。",
+    "sentence_furigana": "姓氏録【せいしろく】には様々【さまざま】な姓【せい】が記録【きろく】されている。",
+    "meaning": "Various surnames are recorded in the register of surnames."
+  },
+  {
+    "sentence": "彼は自分の姓に誇りを持っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の姓【せい】に誇【ほこ】りを持【も】っている。",
+    "meaning": "He takes pride in his surname."
+  },
+  {
+    "sentence": "その姓は歴史的な人物と関連があるらしい。",
+    "sentence_furigana": "その姓【せい】は歴史的【れきしてき】な人物【じんぶつ】と関連【かんれん】があるらしい。",
+    "meaning": "That surname seems to be related to a historical figure."
+  },
+  {
+    "sentence": "戸籍上の姓を確認してください。",
+    "sentence_furigana": "戸籍上【こせきじょう】の姓【せい】を確認【かくにん】してください。",
+    "meaning": "Please confirm the surname on the family register."
+  },
+  {
+    "sentence": "彼女の姓は珍しい響きを持っている。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は珍【めずら】しい響【ひび】きを持【も】っている。",
+    "meaning": "Her surname has a rare sound."
+  },
+  {
+    "sentence": "同じ姓を持つ人々が集まるイベントが開催された。",
+    "sentence_furigana": "同【おな】じ姓【せい】を持【も】つ人々【ひとびと】が集【あつ】まるイベントが開催【かいさい】された。",
+    "meaning": "An event where people with the same surname gather was held."
+  },
+  {
+    "sentence": "姓の変更は法的な手続きが必要です。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は法的【ほうてき】な手続き【てつづき】が必要【ひつよう】です。",
+    "meaning": "Changing a surname requires legal procedures."
+  },
+  {
+    "sentence": "彼の姓を聞いたことがない。",
+    "sentence_furigana": "彼【かれ】の姓【せい】を聞【き】いたことがない。",
+    "meaning": "I have never heard his surname."
+  },
+  {
+    "sentence": "この小説には様々な姓が登場する。",
+    "sentence_furigana": "この小説【しょうせつ】には様々【さまざま】な姓【せい】が登場【とうじょう】する。",
+    "meaning": "Various surnames appear in this novel."
+  },
+  {
+    "sentence": "姓と名の間にスペースを入れるかどうか迷っています。",
+    "sentence_furigana": "姓【せい】と名【な】の間【あいだ】にスペースを入【い】れるかどうか迷【まよ】っています。",
+    "meaning": "I'm wondering whether to put a space between the surname and given name."
+  },
+  {
+    "sentence": "彼女の姓は長い歴史を持っている。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は長【なが】い歴史【れきし】を持【も】っている。",
+    "meaning": "Her surname has a long history."
+  },
+  {
+    "sentence": "古い文献にその姓が見つかった。",
+    "sentence_furigana": "古【ふる】い文献【ぶんけん】にその姓【せい】が見【み】つかった。",
+    "meaning": "That surname was found in old documents."
+  },
+  {
+    "sentence": "姓が変わったことで、親戚が混乱している。",
+    "sentence_furigana": "姓【せい】が変わ【か】ったことで、親戚【しんせき】が混乱【こんらん】している。",
+    "meaning": "Relatives are confused because the surname changed."
+  },
+  {
+    "sentence": "彼の姓は彼の祖父から受け継がれたものだ。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は彼【かれ】の祖父【そふ】から受【う】け継【つ】がれたものだ。",
+    "meaning": "His surname was inherited from his grandfather."
+  },
+  {
+    "sentence": "姓氏の発祥について研究しています。",
+    "sentence_furigana": "姓氏【せいし】の発祥【はっしょう】について研究【けんきゅう】しています。",
+    "meaning": "I am researching the origin of surnames."
+  },
+  {
+    "sentence": "この家族は代々同じ姓を名乗っている。",
+    "sentence_furigana": "この家族【かぞく】は代々【だいだい】同【おな】じ姓【せい】を名乗【なの】っている。",
+    "meaning": "This family has used the same surname for generations."
+  },
+  {
+    "sentence": "姓は文化的なアイデンティティの一部です。",
+    "sentence_furigana": "姓【せい】は文化的【ぶんかてき】なアイデンティティの一【ひと】つです。",
+    "meaning": "A surname is part of cultural identity."
+  },
+  {
+    "sentence": "彼女は結婚しても姓を変えないつもりだ。",
+    "sentence_furigana": "彼女【かのじょ】は結婚【けっこん】しても姓【せい】を変【か】えないつもりだ。",
+    "meaning": "She intends not to change her surname even after marriage."
+  },
+  {
+    "sentence": "この姓は非常に古いものであると考えられている。",
+    "sentence_furigana": "この姓【せい】は非常【ひじょう】に古【ふる】いものであると考え【かんが】られている。",
+    "meaning": "This surname is thought to be very old."
+  },
+  {
+    "sentence": "姓に関する新しい法律が施行された。",
+    "sentence_furigana": "姓【せい】に関する新【あたら】しい法律【ほうりつ】が施行【しこう】された。",
+    "meaning": "A new law regarding surnames has been enacted."
+  },
+  {
+    "sentence": "彼の姓は彼の父方と母方で異なる。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は彼【かれ】の父方【ちちかた】と母方【ははがた】で異【こと】なる。",
+    "meaning": "His surname differs on his paternal and maternal sides."
+  },
+  {
+    "sentence": "姓を間違えてしまったことを謝罪します。",
+    "sentence_furigana": "姓【せい】を間違【まちが】えてしまったこと謝罪【しゃざい】します。",
+    "meaning": "I apologize for getting the surname wrong."
+  },
+  {
+    "sentence": "この姓を持つ人は、特定の地域に集中している。",
+    "sentence_furigana": "この姓【せい】を持【も】つ人【ひと】は、特定【とくてい】の地域【ちいき】に集中【しゅうちゅう】している。",
+    "meaning": "People with this surname are concentrated in a particular region."
+  },
+  {
+    "sentence": "姓の登録が完了しました。",
+    "sentence_furigana": "姓【せい】の登録【とうろく】が完了【かんりょう】しました。",
+    "meaning": "Surname registration is complete."
+  },
+  {
+    "sentence": "彼女の姓は詩的で美しい。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は詩的【してき】で美【うつく】しい。",
+    "meaning": "Her surname is poetic and beautiful."
+  },
+  {
+    "sentence": "姓を教えてくれるように頼んだ。",
+    "sentence_furigana": "姓【せい】を教【おし】えてくれるように頼【たの】んだ。",
+    "meaning": "I asked them to tell me their surname."
+  },
+  {
+    "sentence": "その姓は海外でも使われている。",
+    "sentence_furigana": "その姓【せい】は海外【かいがい】でも使【つか】われている。",
+    "meaning": "That surname is also used overseas."
+  },
+  {
+    "sentence": "姓が変わったため、本人確認ができませんでした。",
+    "sentence_furigana": "姓【せい】が変わ【か】ったため、本人確認【ほんにんかくにん】ができませんでした。",
+    "meaning": "Identity verification failed because the surname changed."
+  },
+  {
+    "sentence": "彼の姓には特別な意味があるらしい。",
+    "sentence_furigana": "彼【かれ】の姓【せい】には特別【とくべつ】な意味【いみ】があるらしい。",
+    "meaning": "His surname seems to have a special meaning."
+  },
+  {
+    "sentence": "姓の変更手続きについて相談したい。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】手続き【てつづき】について相談【そうだん】したい。",
+    "meaning": "I want to consult about the surname change procedure."
+  },
+  {
+    "sentence": "この姓は古い貴族に由来する。",
+    "sentence_furigana": "この姓【せい】は古【ふる】い貴族【きぞく】に由来【ゆらい】する。",
+    "meaning": "This surname originates from an ancient noble family."
+  },
+  {
+    "sentence": "姓を間違って書いたことに気づいた。",
+    "sentence_furigana": "姓【せい】を間違【まちが】って書【か】いたことに気【き】づいた。",
+    "meaning": "I realized I had written the surname incorrectly."
+  },
+  {
+    "sentence": "彼の姓は彼の地域ではあまり聞かない。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は彼【かれ】の地域【ちいき】ではあまり聞【き】かない。",
+    "meaning": "I don't hear his surname much in his region."
+  },
+  {
+    "sentence": "姓氏の調査は興味深い。",
+    "sentence_furigana": "姓氏【せいし】の調査【ちょうさ】は興味深【きょうみぶか】い。",
+    "meaning": "Surname research is interesting."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の祖先が住んでいた場所を示唆している。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の祖先【そせん】が住【す】んでいた場所【ばしょ】を示唆【しさ】している。",
+    "meaning": "Her surname suggests the place where her ancestors lived."
+  },
+  {
+    "sentence": "姓が変わったせいで、書類に不備が生じた。",
+    "sentence_furigana": "姓【せい】が変わ【か】ったせいで、書類【しょるい】に不備【ふび】が生【しょう】じた。",
+    "meaning": "There was an error in the documents due to the surname change."
+  },
+  {
+    "sentence": "この姓は歴史的な出来事と結びついている。",
+    "sentence_furigana": "この姓【せい】は歴史的【れきしてき】な出来事【できごと】と結【むす】びついている。",
+    "meaning": "This surname is associated with a historical event."
+  },
+  {
+    "sentence": "彼女の姓は新しい名前で登録された。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は新【あたら】しい名前【なまえ】で登録【とうろく】された。",
+    "meaning": "Her surname was registered with a new name."
+  },
+  {
+    "sentence": "姓は個人を識別するための一つの手段です。",
+    "sentence_furigana": "姓【せい】は個人【こじん】を識別【しきべつ】するための一【ひと】つの手段【しゅだん】です。",
+    "meaning": "A surname is one means of identifying an individual."
+  },
+  {
+    "sentence": "彼は新しい姓で生活を始めることにした。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい姓【せい】で生活【せいかつ】を始【はじ】めることにした。",
+    "meaning": "He decided to start his life with a new surname."
+  },
+  {
+    "sentence": "姓に関する遺伝的な研究が進んでいる。",
+    "sentence_furigana": "姓【せい】に関する遺伝的【いでんてき】な研究【けんきゅう】が進【すす】んでいる。",
+    "meaning": "Genetic research related to surnames is advancing."
+  },
+  {
+    "sentence": "この姓は特定の地域で非常に一般的です。",
+    "sentence_furigana": "この姓【せい】は特定【とくてい】の地域【ちいき】で非常【ひじょう】に一般的【いっぱんてき】です。",
+    "meaning": "This surname is very common in a specific region."
+  },
+  {
+    "sentence": "姓を伝えることは、家族の歴史を維持することにつながる。",
+    "sentence_furigana": "姓【せい】を伝【つた】えることは、家族【かぞく】の歴史【れきし】を維持【いじ】することにつながる。",
+    "meaning": "Passing down a surname is linked to maintaining family history."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の国の姓とは異なる形式を持っている。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の国【くに】の姓【せい】とは異【こと】なる形式【けいしき】を持【も】っている。",
+    "meaning": "Her surname has a different format from the surnames in her country."
+  },
+  {
+    "sentence": "姓の変更は、人生の大きな転換点となることがある。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、人生【じんせい】の বড়【おお】きな転換点【てんかんてん】となることがある。",
+    "meaning": "A change of surname can be a major turning point in life."
+  },
+  {
+    "sentence": "彼は姓の由来を尋ねられた。",
+    "sentence_furigana": "彼【かれ】は姓【せい】の由来【ゆらい】を尋【たず】ねられた。",
+    "meaning": "He was asked about the origin of his surname."
+  },
+  {
+    "sentence": "この姓は歴史の中で何度も出現している。",
+    "sentence_furigana": "この姓【せい】は歴史【れきし】の中【なか】で何度【なんど】も出現【しゅつげん】している。",
+    "meaning": "This surname has appeared many times throughout history."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の祖先が属していた部族の名前から来ているようだ。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の祖先【そせん】が属【ぞく】していた部族【ぶぞく】の名前【なまえ】から来【き】ているようだ。",
+    "meaning": "Her surname seems to come from the name of the tribe her ancestors belonged to."
+  },
+  {
+    "sentence": "姓の変更は、法的に認められる必要がある。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、法的【ほうてき】に認【みと】められる必要【ひつよう】がある。",
+    "meaning": "A surname change needs to be legally recognized."
+  },
+  {
+    "sentence": "彼の姓は、彼が住んでいる国の一般的な姓ではない。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、彼【かれ】が住【す】んでいる国【くに】の一般的【いっぱんてき】な姓【せい】ではない。",
+    "meaning": "His surname is not a common surname in the country where he lives."
+  },
+  {
+    "sentence": "姓は家族の絆を示す重要な要素です。",
+    "sentence_furigana": "姓【せい】は家族【かぞく】の絆【きずな】を示【しめ】す重要【じゅうよう】な要素【ようそ】です。",
+    "meaning": "A surname is an important element that signifies family ties."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の出身地を反映している。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の出身地【しゅっしんち】を反映【はんえい】している。",
+    "meaning": "Her surname reflects her place of origin."
+  },
+  {
+    "sentence": "姓の変更には特別な理由が必要だった。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】には特別【とくべつ】な理由【りゆう】が必要【ひつよう】だった。",
+    "meaning": "A special reason was necessary for the surname change."
+  },
+  {
+    "sentence": "彼の姓は、彼の父方の家系に由来する。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、彼【かれ】の父方【ちちかた】の家系【かけい】に由来【ゆらい】する。",
+    "meaning": "His surname originates from his paternal lineage."
+  },
+  {
+    "sentence": "この姓は、長い間変わらず受け継がれてきた。",
+    "sentence_furigana": "この姓【せい】は、長【なが】い間【あいだ】変【か】わらず受【う】け継【つ】がれてきた。",
+    "meaning": "This surname has been passed down unchanged for a long time."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の文化的な背景を示唆している。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の文化的【ぶんかてき】な背景【はいけい】を示唆【しさ】している。",
+    "meaning": "Her surname suggests her cultural background."
+  },
+  {
+    "sentence": "姓を登録する際に間違いがあったようだ。",
+    "sentence_furigana": "姓【せい】を登録【とうろく】する際【さい】に間違【まちが】いがあったようだ。",
+    "meaning": "It seems there was a mistake when registering the surname."
+  },
+  {
+    "sentence": "彼の姓は、その国の歴史において重要な役割を果たした人物に由来する。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、その国【くに】の歴史【れきし】において重要【じゅうよう】な役割【やくわり】を果た【はた】した人物【じんぶつ】に由来【ゆらい】する。",
+    "meaning": "His surname originates from a person who played an important role in the country's history."
+  },
+  {
+    "sentence": "姓は、単なる名前以上の意味を持っている。",
+    "sentence_furigana": "姓【せい】は、単【たん】なる名前【なまえ】以上【いじょう】の意味【いみ】を持【も】っている。",
+    "meaning": "A surname has meaning beyond just a name."
+  },
+  {
+    "sentence": "彼女の姓は、彼女が育った地域の伝統を反映している。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】が育【そだ】った地域【ちいき】の伝統【でんとう】を反映【はんえい】している。",
+    "meaning": "Her surname reflects the traditions of the region where she grew up."
+  },
+  {
+    "sentence": "姓の選択は、家族の価値観を反映することがあります。",
+    "sentence_furigana": "姓【せい】の選択【せんたく】は、家族【かぞく】の価値観【かちかん】を反映【はんえい】することがあります。",
+    "meaning": "The choice of surname can reflect family values."
+  },
+  {
+    "sentence": "彼の姓は、国際的にも通用する名前である。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、国際的【こくさいてき】にも通用【つうよう】する名前【なまえ】である。",
+    "meaning": "His surname is a name that is recognized internationally."
+  },
+  {
+    "sentence": "姓は、その人のルーツを知る手がかりになることがある。",
+    "sentence_furigana": "姓【せい】は、その人【ひと】のルーツを知【し】る手掛【てが】かりになることがある。",
+    "meaning": "A surname can be a clue to knowing a person's roots."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の国の著名な姓の一つである。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の国【くに】の著名【ちょめい】な姓【せい】の一【ひと】つである。",
+    "meaning": "Her surname is one of the prominent surnames in her country."
+  },
+  {
+    "sentence": "姓の変更は、法的手続きを伴うことが多い。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、法的【ほうてき】な手続き【てつづき】を伴【ともな】うことが多い。",
+    "meaning": "Changing a surname often involves legal procedures."
+  },
+  {
+    "sentence": "彼の姓は、彼の国の歴史の中で特別な位置を占めている。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、彼【かれ】の国【くに】の歴史【れきし】の中【なか】で特別【とくべつ】な位置【いち】を占【し】めている。",
+    "meaning": "His surname holds a special place in his country's history."
+  },
+  {
+    "sentence": "姓は、世代から世代へと受け継がれる家族の遺産です。",
+    "sentence_furigana": "姓【せい】は、世代【せだい】から世代【せだい】へと受【う】け継【つ】がれる家族【かぞく】の遺産【いさん】です。",
+    "meaning": "A surname is a family legacy passed down from generation to generation."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の先祖が築いた功績を物語っている。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の先祖【せんぞ】が築【きず】いた功績【こうせき】を物語【ものがた】っている。",
+    "meaning": "Her surname tells of the achievements her ancestors made."
+  },
+  {
+    "sentence": "姓を間違って書いたことを訂正する必要がある。",
+    "sentence_furigana": "姓【せい】を間違【まちが】って書【か】いたこと訂正【ていせい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to correct the mistake of writing the surname incorrectly."
+  },
+  {
+    "sentence": "彼の姓は、この地域の創設者に関連している。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、この地域【ちいき】の創設者【そうせつしゃ】に関連【かんれん】している。",
+    "meaning": "His surname is related to the founder of this region."
+  },
+  {
+    "sentence": "姓は、個人のアイデンティティを形成する上で重要な役割を果たします。",
+    "sentence_furigana": "姓【せい】は、個人【こじん】のアイデンティティを形成【けいせい】する上【うえ】で重要【じゅうよう】な役割【やくわり】を果た【はた】します。",
+    "meaning": "A surname plays an important role in shaping an individual's identity."
+  },
+  {
+    "sentence": "彼女の姓は、彼女が属する文化グループを特定するのに役立つ。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】が属【ぞく】する文化グループを特定【とくてい】するのに役立【やくだ】つ。",
+    "meaning": "Her surname helps identify the cultural group she belongs to."
+  },
+  {
+    "sentence": "姓の変更は、法的な書類に影響を与える可能性がある。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、法的【ほうてき】な書類【しょるい】に影響【えいきょう】を与【あた】える可能性【かのうせい】がある。",
+    "meaning": "Changing a surname can affect legal documents."
+  },
+  {
+    "sentence": "彼の姓は、彼の家族の長年の伝統の一部です。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、彼【かれ】の家族【かぞく】の長年【ながねん】の伝統【でんとう】の一部【いちぶ】です。",
+    "meaning": "His surname is part of his family's long-standing tradition."
+  },
+  {
+    "sentence": "姓は、個人の家族とのつながりを示す。",
+    "sentence_furigana": "姓【せい】は、個人【こじん】の家族【かぞく】とのつながりを示【しめ】す。",
+    "meaning": "A surname indicates an individual's connection to their family."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の国の歴史的な出来事と結びついている。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の国【くに】の歴史的【れきしてき】な出来事【できごと】と結【むす】びついている。",
+    "meaning": "Her surname is linked to historical events in her country."
+  },
+  {
+    "sentence": "姓の変更は、人生における大きな決断の一つです。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、人生【じんせい】における大【おお】きな決断【けつだん】の一【ひと】つです。",
+    "meaning": "Changing a surname is one of the major decisions in life."
+  },
+  {
+    "sentence": "彼の姓は、彼の祖先が始めた事業に関連している。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、彼【かれ】の祖先【せんぞ】が始【はじ】めた事業【じぎょう】に関連【かんれん】している。",
+    "meaning": "His surname is related to the business his ancestors started."
+  },
+  {
+    "sentence": "姓は、文化や社会における家族の地位を示すことがある。",
+    "sentence_furigana": "姓【せい】は、文化【ぶんか】や社会【しゃかい】における家族【かぞく】の地位【ちい】を示【しめ】すことがある。",
+    "meaning": "A surname can indicate a family's status in culture and society."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の民族的なルーツを示唆している。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の民族的【みんぞくてき】なルーツを示唆【しさ】している。",
+    "meaning": "Her surname suggests her ethnic roots."
+  },
+  {
+    "sentence": "姓の変更は、その人の人生に大きな影響を与えることがある。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、その人【ひと】の人生【じんせい】に大【おお】きな影響【えいきょう】を与【あた】えることがある。",
+    "meaning": "Changing a surname can have a significant impact on a person's life."
+  },
+  {
+    "sentence": "彼の姓は、彼の先祖が受けた勲章に由来しているのかもしれない。",
+    "sentence_furigana": "彼【かれ】の姓【せい】は、彼【かれ】の先祖【せんぞ】が受【う】けた勲章【くんしょう】に由来【ゆらい】しているのかもしれない。",
+    "meaning": "His surname might originate from a medal his ancestors received."
+  },
+  {
+    "sentence": "姓は、家族の歴史と伝統の証です。",
+    "sentence_furigana": "姓【せい】は、家族【かぞく】の歴史【れきし】と伝統【でんとう】の証【あかし】です。",
+    "meaning": "A surname is proof of family history and tradition."
+  },
+  {
+    "sentence": "彼女の姓は、彼女の国の多くの人々が共有している。",
+    "sentence_furigana": "彼女【かのじょ】の姓【せい】は、彼女【かのじょ】の国【くに】の多【おお】くの人々【ひとびと】が共有【きょうゆう】している。",
+    "meaning": "Her surname is shared by many people in her country."
+  },
+  {
+    "sentence": "姓の変更は、法的な手続きを経て行われる。",
+    "sentence_furigana": "姓【せい】の変更【へんこう】は、法的【ほうてき】な手続き【てつづき】を経て行【へておこな】われる。",
+    "meaning": "A surname change is carried out through legal procedures."
+  }
+]

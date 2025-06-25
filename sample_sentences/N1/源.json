@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "この川は富士山が源です。",
+    "sentence_furigana": "この川【かわ】は富士山【ふじさん】が源【みなもと】です。",
+    "meaning": "This river originates from Mt. Fuji."
+  },
+  {
+    "sentence": "事件の源をたどる。",
+    "sentence_furigana": "事件【じけん】の源【げん】をたどる。",
+    "meaning": "Trace the source of the incident."
+  },
+  {
+    "sentence": "あらゆる知識の源泉を探求する。",
+    "sentence_furigana": "あらゆる知識【ちしき】の源泉【げんせん】を探求【たんきゅう】する。",
+    "meaning": "Seek the source of all knowledge."
+  },
+  {
+    "sentence": "情報は多方面から収集された。",
+    "sentence_furigana": "情報【じょうほう】は多方面【たほうめん】から収集【しゅうしゅう】された。",
+    "meaning": "Information was gathered from many sources."
+  },
+  {
+    "sentence": "彼は貧しい生活が源で苦労した。",
+    "sentence_furigana": "彼【かれ】は貧【まず】しい生活【せいかつ】が源【げん】で苦労【くろう】した。",
+    "meaning": "He struggled due to his impoverished life."
+  },
+  {
+    "sentence": "この問題の根本源はどこにあるのか。",
+    "sentence_furigana": "この問題【もんだい】の根本源【こんぽんげん】はどこにあるのか。",
+    "meaning": "Where is the root cause of this problem?"
+  },
+  {
+    "sentence": "発想の源は日常にある。",
+    "sentence_furigana": "発想【はっそう】の源【みなもと】は日常【にちじょう】にある。",
+    "meaning": "The source of ideas lies in everyday life."
+  },
+  {
+    "sentence": "経済成長の源動力となる。",
+    "sentence_furigana": "経済成長【けいざいせいちょう】の源動力【げんどうりょく】となる。",
+    "meaning": "It becomes the driving force of economic growth."
+  },
+  {
+    "sentence": "彼の成功の源は努力にある。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】の源【みなもと】は努力【どりょく】にある。",
+    "meaning": "The source of his success is his effort."
+  },
+  {
+    "sentence": "歴史の源流をたずねる旅。",
+    "sentence_furigana": "歴史【れきし】の源流【げんりゅう】をたずねる旅【たび】。",
+    "meaning": "A journey to trace the origins of history."
+  },
+  {
+    "sentence": "資源の源を確保する。",
+    "sentence_furigana": "資源【しげん】の源【みなもと】を確保【かくほ】する。",
+    "meaning": "Secure sources of resources."
+  },
+  {
+    "sentence": "これは人類の進化の源となった。",
+    "sentence_furigana": "これは人類【じんるい】の進化【しんか】の源【みなもと】となった。",
+    "meaning": "This became the origin of human evolution."
+  },
+  {
+    "sentence": "生命の源を探る。",
+    "sentence_furigana": "生命【せいめい】の源【みなもと】を探【さぐ】る。",
+    "meaning": "Explore the source of life."
+  },
+  {
+    "sentence": "情報源の確認が必要です。",
+    "sentence_furigana": "情報源【じょうほうげん】の確認【かくにん】が必要です【ひつよう】。",
+    "meaning": "It is necessary to confirm the source of information."
+  },
+  {
+    "sentence": "真実の源泉はどこにあるのか。",
+    "sentence_furigana": "真実【しんじつ】の源泉【げんせん】はどこにあるのか。",
+    "meaning": "Where is the source of truth?"
+  },
+  {
+    "sentence": "平和の源を育む。",
+    "sentence_furigana": "平和【へいわ】の源【みなもと】を育【はぐく】む。",
+    "meaning": "Nurture the source of peace."
+  },
+  {
+    "sentence": "彼の行動の源を理解しようとした。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】の源【みなもと】を理解【りかい】しようとした。",
+    "meaning": "I tried to understand the source of his actions."
+  },
+  {
+    "sentence": "宇宙の起源、その源を探る。",
+    "sentence_furigana": "宇宙【うちゅう】の起源【きげん】、その源【みなもと】を探【さぐ】る。",
+    "meaning": "Explore the origin of the universe, its source."
+  },
+  {
+    "sentence": "水は生命の源である。",
+    "sentence_furigana": "水【みず】は生命【せいめい】の源【みなもと】である。",
+    "meaning": "Water is the source of life."
+  },
+  {
+    "sentence": "原因究明の源流となる。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】の源流【げんりゅう】となる。",
+    "meaning": "It becomes the origin of cause investigation."
+  },
+  {
+    "sentence": "水源地は遠く離れている。",
+    "sentence_furigana": "水源地【すいげんち】は遠【とお】く離【はな】れている。",
+    "meaning": "The water source is far away."
+  },
+  {
+    "sentence": "困難の源を取り除く。",
+    "sentence_furigana": "困難【こんなん】の源【みなもと】を取【と】り除【のぞ】く。",
+    "meaning": "Remove the source of the difficulty."
+  },
+  {
+    "sentence": "その文化の源は古代にある。",
+    "sentence_furigana": "その文化【ぶんか】の源【みなもと】は古代【こだい】にある。",
+    "meaning": "The origin of that culture lies in ancient times."
+  },
+  {
+    "sentence": "教育は国の発展の源泉だ。",
+    "sentence_furigana": "教育【きょういく】は国【くに】の発展【はってん】の源泉【げんせん】だ。",
+    "meaning": "Education is the source of a country's development."
+  },
+  {
+    "sentence": "この技術の源はどこから来たのか。",
+    "sentence_furigana": "この技術【ぎじゅつ】の源【みなもと】はどこから来【き】たのか。",
+    "meaning": "Where did the source of this technology come from?"
+  },
+  {
+    "sentence": "幸福の源泉を見つける。",
+    "sentence_furigana": "幸福【こうふく】の源泉【げんせん】を見【み】つける。",
+    "meaning": "Find the source of happiness."
+  },
+  {
+    "sentence": "彼は音楽の源泉を探求している。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】の源泉【げんせん】を探求【たんきゅう】している。",
+    "meaning": "He is exploring the source of music."
+  },
+  {
+    "sentence": "この地域の水源を守る。",
+    "sentence_furigana": "この地域【ちいき】の水源【すいげん】を守【まも】る。",
+    "meaning": "Protect the water sources of this region."
+  },
+  {
+    "sentence": "彼の成功の源泉は才能と努力だ。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】の源泉【げんせん】は才能【さいのう】と努力【どりょく】だ。",
+    "meaning": "The source of his success is talent and effort."
+  },
+  {
+    "sentence": "問題の根源を探る。",
+    "sentence_furigana": "問題【もんだい】の根源【こんげん】を探【さぐ】る。",
+    "meaning": "Explore the root cause of the problem."
+  },
+  {
+    "sentence": "源氏物語は日本の古典文学の代表作だ。",
+    "sentence_furigana": "源氏物語【げんじものがたり】は日本【にほん】の古典文学【こてんぶんがく】の代表作【だいひょうさく】だ。",
+    "meaning": "The Tale of Genji is a representative work of Japanese classical literature."
+  },
+  {
+    "sentence": "水の源泉は山奥にある。",
+    "sentence_furigana": "水【みず】の源泉【げんせん】は山奥【やまおく】にある。",
+    "meaning": "The source of the water is deep in the mountains."
+  },
+  {
+    "sentence": "新しいアイデアの源を求めて旅に出た。",
+    "sentence_furigana": "新【あたら】しいアイデアの源【みなもと】を求【もと】めて旅【たび】に出【で】た。",
+    "meaning": "I went on a journey seeking new sources of ideas."
+  },
+  {
+    "sentence": "すべての苦しみは無知から生じる。",
+    "sentence_furigana": "全【すべ】ての苦悩【くのう】は無知【むち】から生【しょう】じる。",
+    "meaning": "All suffering originates from ignorance."
+  },
+  {
+    "sentence": "この川の水源を守りたい。",
+    "sentence_furigana": "この川【かわ】の水源【すいげん】を守【まも】りたい。",
+    "meaning": "I want to protect the water sources of this river."
+  },
+  {
+    "sentence": "彼の発言の源を疑う。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】の源【みなもと】を疑【うたが】う。",
+    "meaning": "Doubt the source of his statement."
+  },
+  {
+    "sentence": "情報の源泉を探ることは重要だ。",
+    "sentence_furigana": "情報【じょうほう】の源泉【げんせん】を探【さぐ】ることは重要【じゅうよう】だ。",
+    "meaning": "It is important to explore the source of information."
+  },
+  {
+    "sentence": "源氏姓氏族の成立。",
+    "sentence_furigana": "源氏姓氏族【げんじせいしぞく】の成立【せいりつ】。",
+    "meaning": "The establishment of the Genji clan."
+  },
+  {
+    "sentence": "源泉かけ流しの温泉。",
+    "sentence_furigana": "源泉掛流【げんせんかけなが】しの温泉【おんせん】。",
+    "meaning": "A hot spring with continuously flowing natural spring water."
+  },
+  {
+    "sentence": "火山の源泉を探査する。",
+    "sentence_furigana": "火山【かざん】の源泉【げんせん】を探査【たんさ】する。",
+    "meaning": "Explore the sources of the volcano."
+  },
+  {
+    "sentence": "その誤解の源はどこにあるのか。",
+    "sentence_furigana": "その誤解【ごかい】の源【みなもと】はどこにあるのか。",
+    "meaning": "Where is the source of that misunderstanding?"
+  },
+  {
+    "sentence": "平和への源を目指す。",
+    "sentence_furigana": "平和【へいわ】への源【みなもと】を目指【めざ】す。",
+    "meaning": "Aim for the source of peace."
+  },
+  {
+    "sentence": "この河流の源泉はどこか。",
+    "sentence_furigana": "この河流【かりゅう】の源泉【げんせん】はどこか。",
+    "meaning": "Where is the source of this river?"
+  },
+  {
+    "sentence": "彼は学問の源泉を求めて旅をした。",
+    "sentence_furigana": "彼【かれ】は学問【がくもん】の源泉【げんせん】を求【もと】めて旅【たび】をした。",
+    "meaning": "He traveled in search of the source of learning."
+  },
+  {
+    "sentence": "文明の源流を辿る。",
+    "sentence_furigana": "文明【ぶんめい】の源流【げんりゅう】を辿【たど】る。",
+    "meaning": "Trace the origins of civilization."
+  },
+  {
+    "sentence": "多くの問題はそこから発生した。",
+    "sentence_furigana": "多【おお】くの問題【もんだい】はそこから発生【はっせい】した。",
+    "meaning": "Many problems arose from there."
+  },
+  {
+    "sentence": "源泉徴収とは何か。",
+    "sentence_furigana": "源泉徴収【げんせんちょうしゅう】とは何【なん】か。",
+    "meaning": "What is withholding tax?"
+  },
+  {
+    "sentence": "エネルギー源の確保が急務である。",
+    "sentence_furigana": "エネルギー源【エネルギーげん】の確保【かくほ】が急務【きゅうむ】である。",
+    "meaning": "Securing energy sources is an urgent task."
+  },
+  {
+    "sentence": "彼は芸術の源泉に触れた。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】の源泉【みなもと】に触【ふ】れた。",
+    "meaning": "He touched the source of art."
+  },
+  {
+    "sentence": "この川の源流を探検する。",
+    "sentence_furigana": "この川【かわ】の源流【げんりゅう】を探検【たんけん】する。",
+    "meaning": "Explore the headwaters of this river."
+  },
+  {
+    "sentence": "その物語の源泉は古い伝説にある。",
+    "sentence_furigana": "その物語【ものがたり】の源泉【げんせん】は古【ふる】い伝説【でんせつ】にある。",
+    "meaning": "The source of that story lies in an old legend."
+  },
+  {
+    "sentence": "貧困の源を断つ。",
+    "sentence_furigana": "貧困【ひんこん】の源【みなもと】を断【た】つ。",
+    "meaning": "Sever the source of poverty."
+  },
+  {
+    "sentence": "あらゆる悪の根源。",
+    "sentence_furigana": "あらゆる悪【あく】の根源【こんげん】。",
+    "meaning": "The root of all evil."
+  },
+  {
+    "sentence": "希望の源を見出す。",
+    "sentence_furigana": "希望【きぼう】の源【みなもと】を見出【みいだ】す。",
+    "meaning": "Find a source of hope."
+  },
+  {
+    "sentence": "この国の源泉徴収率は高い。",
+    "sentence_furigana": "この国【くに】の源泉徴収率【げんせんちょうしゅうりつ】は高【たか】い。",
+    "meaning": "The withholding tax rate in this country is high."
+  },
+  {
+    "sentence": "彼は人生の源を問う。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の源【みなもと】を問【と】う。",
+    "meaning": "He questions the source of life."
+  },
+  {
+    "sentence": "文化の源流を学んでいる。",
+    "sentence_furigana": "文化【ぶんか】の源流【げんりゅう】を学【まな】んでいる。",
+    "meaning": "I am learning about the origins of culture."
+  },
+  {
+    "sentence": "その感情の源を探った。",
+    "sentence_furigana": "その感情【かんじょう】の源【みなもと】を探【さぐ】った。",
+    "meaning": "I explored the source of that emotion."
+  },
+  {
+    "sentence": "水の源を保護する。",
+    "sentence_furigana": "水【みず】の源【みなもと】を保護【ほご】する。",
+    "meaning": "Protect the water sources."
+  },
+  {
+    "sentence": "この騒動の源を突き止める。",
+    "sentence_furigana": "この騒動【そうどう】の源【みなもと】を突【つ】き止【と】める。",
+    "meaning": "Find out the source of this disturbance."
+  },
+  {
+    "sentence": "新しいエネルギー源の開発。",
+    "sentence_furigana": "新【あたら】しいエネルギー源【エネルギーげん】の開発【かいはつ】。",
+    "meaning": "Development of new energy sources."
+  },
+  {
+    "sentence": "彼は知識の源泉を求めて世界を旅した。",
+    "sentence_furigana": "彼【かれ】は知識【ちしき】の源泉【げんせん】を求【もと】めて世界【せかい】を旅【たび】した。",
+    "meaning": "He traveled the world in search of the source of knowledge."
+  },
+  {
+    "sentence": "問題の根本的な源を探る。",
+    "sentence_furigana": "問題【もんだい】の根本的【こんぽんてき】な源【みなもと】を探【さぐ】る。",
+    "meaning": "Explore the fundamental source of the problem."
+  },
+  {
+    "sentence": "源氏の末裔。",
+    "sentence_furigana": "源氏【げんじ】の末裔【まつえい】。",
+    "meaning": "Descendants of the Genji."
+  },
+  {
+    "sentence": "この洞察の源はどこにあるのか。",
+    "sentence_furigana": "この洞察【どうさつ】の源【みなもと】はどこにあるのか。",
+    "meaning": "Where does this insight come from?"
+  },
+  {
+    "sentence": "源泉徴収義務者は誰か。",
+    "sentence_furigana": "源泉徴収義務者【げんせんちょうしゅうぎむしゃ】は誰【だれ】か。",
+    "meaning": "Who is the withholding agent?"
+  },
+  {
+    "sentence": "この地域の水源を守る活動。",
+    "sentence_furigana": "この地域【ちいき】の水源【すいげん】を守【まも】る活動【かつどう】。",
+    "meaning": "Activities to protect the water sources of this region."
+  },
+  {
+    "sentence": "彼は成功の源泉を研究した。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】の源泉【げんせん】を研究【けんきゅう】した。",
+    "meaning": "He researched the source of success."
+  },
+  {
+    "sentence": "源氏物語の現代語訳。",
+    "sentence_furigana": "源氏物語【げんじものがたり】の現代語訳【げんだいごやく】。",
+    "meaning": "Modern Japanese translation of The Tale of Genji."
+  },
+  {
+    "sentence": "その発見の源泉は偶然だった。",
+    "sentence_furigana": "その発見【はっけん】の源泉【げんせん】は偶然【ぐうぜん】だった。",
+    "meaning": "The source of that discovery was accidental."
+  },
+  {
+    "sentence": "力の源泉を鍛える。",
+    "sentence_furigana": "力【ちから】の源泉【みなもと】を鍛【きた】える。",
+    "meaning": "Train the source of strength."
+  },
+  {
+    "sentence": "源氏山から富士山が見える。",
+    "sentence_furigana": "源氏山【げんじやま】から富士山【ふじさん】が見【み】える。",
+    "meaning": "Mt. Fuji can be seen from Genji Mountain."
+  },
+  {
+    "sentence": "このプロジェクトの源泉は革新的なアイデアだ。",
+    "sentence_furigana": "このプロジェクトの源泉【げんせん】は革新的【かくしんてき】なアイデアだ。",
+    "meaning": "The source of this project is innovative ideas."
+  },
+  {
+    "sentence": "水の源を守るための取り組み。",
+    "sentence_furigana": "水【みず】の源【みなもと】を守【まも】るための取【と】り組【く】み。",
+    "meaning": "Efforts to protect water sources."
+  },
+  {
+    "sentence": "彼の言葉の源を追跡する。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の源【みなもと】を追跡【ついせき】する。",
+    "meaning": "Trace the source of his words."
+  },
+  {
+    "sentence": "文化の源泉を理解する。",
+    "sentence_furigana": "文化【ぶんか】の源泉【げんせん】を理解【りかい】する。",
+    "meaning": "Understand the source of culture."
+  },
+  {
+    "sentence": "その情報の源は何ですか。",
+    "sentence_furigana": "その情報【じょうほう】の源【みなもと】はなんですか。",
+    "meaning": "What is the source of that information?"
+  },
+  {
+    "sentence": "彼は平和の源を模索している。",
+    "sentence_furigana": "彼【かれ】は平和【へいわ】の源【みなもと】を模索【もさく】している。",
+    "meaning": "He is seeking the source of peace."
+  },
+  {
+    "sentence": "水源涵養林の重要性。",
+    "sentence_furigana": "水源涵養林【すいげんかんようりん】の重要性【じゅうようせい】。",
+    "meaning": "The importance of water source protection forests."
+  },
+  {
+    "sentence": "源泉かけ流しが売りの宿。",
+    "sentence_furigana": "源泉掛流【げんせんかけなが】しが売【う】りの宿【やど】。",
+    "meaning": "An inn specializing in natural hot spring water."
+  },
+  {
+    "sentence": "彼は人間の行動の源を研究している。",
+    "sentence_furigana": "彼【かれ】は人間【にんげん】の行動【こうどう】の源【みなもと】を研究【けんきゅう】している。",
+    "meaning": "He is researching the source of human behavior."
+  },
+  {
+    "sentence": "この問題の源流はどこにあるのか。",
+    "sentence_furigana": "この問題【もんだい】の源流【げんりゅう】はどこにあるのか。",
+    "meaning": "Where are the origins of this problem?"
+  },
+  {
+    "sentence": "生命の源を求めて旅をする。",
+    "sentence_furigana": "生命【せいめい】の源【みなもと】を求【もと】めて旅【たび】をする。",
+    "meaning": "Travel in search of the source of life."
+  },
+  {
+    "sentence": "その悲劇の源を突き止める。",
+    "sentence_furigana": "その悲劇【ひげき】の源【みなもと】を突【つ】き止【と】める。",
+    "meaning": "Find out the source of that tragedy."
+  },
+  {
+    "sentence": "源泉徴収の対象となる所得。",
+    "sentence_furigana": "源泉徴収【げんせんちょうしゅう】の対象【たいしょう】となる所得【しょとく】。",
+    "meaning": "Income subject to withholding tax."
+  },
+  {
+    "sentence": "彼は成功への源泉を見出した。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への源泉【みなもと】を見出【みいだ】した。",
+    "meaning": "He found the source of success."
+  },
+  {
+    "sentence": "自然の源泉からエネルギーを得る。",
+    "sentence_furigana": "自然【しぜん】の源泉【みなもと】からエネルギーを得【え】る。",
+    "meaning": "Obtain energy from natural sources."
+  },
+  {
+    "sentence": "この河川の源流域を調査する。",
+    "sentence_furigana": "この河川【かせん】の源流域【げんりゅういき】を調査【ちょうさ】する。",
+    "meaning": "Investigate the headwater areas of this river."
+  },
+  {
+    "sentence": "源氏の棟梁は源頼朝である。",
+    "sentence_furigana": "源氏【げんじ】の棟梁【とうりょう】は源頼朝【みなもとよりとも】である。",
+    "meaning": "The head of the Genji clan was Minamoto no Yoritomo."
+  },
+  {
+    "sentence": "知識の源泉を広げる。",
+    "sentence_furigana": "知識【ちしき】の源泉【げんせん】を広【ひろ】げる。",
+    "meaning": "Expand the sources of knowledge."
+  },
+  {
+    "sentence": "この出来事の源をたどる旅。",
+    "sentence_furigana": "この出来事【できごと】の源【みなもと】をたどる旅【たび】。",
+    "meaning": "A journey to trace the source of this event."
+  },
+  {
+    "sentence": "彼の行動の根源は理解不能だ。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】の根源【こんげん】は理解不能【りかいふのう】だ。",
+    "meaning": "The root of his actions is incomprehensible."
+  },
+  {
+    "sentence": "水源地を守るための条例。",
+    "sentence_furigana": "水源地【すいげんち】を守【まも】るための条例【じょうれい】。",
+    "meaning": "Ordinances for protecting water sources."
+  },
+  {
+    "sentence": "源泉徴収制度の導入。",
+    "sentence_furigana": "源泉徴収制度【げんせんちょうしゅうせいど】の導入【どうにゅう】。",
+    "meaning": "Introduction of the withholding tax system."
+  },
+  {
+    "sentence": "この文化の源泉を探求する。",
+    "sentence_furigana": "この文化【ぶんか】の源泉【げんせん】を探求【たんきゅう】する。",
+    "meaning": "Explore the source of this culture."
+  },
+  {
+    "sentence": "水源の枯渇が心配されている。",
+    "sentence_furigana": "水源【すいげん】の枯渇【こかつ】が心配【しんぱい】されている。",
+    "meaning": "The depletion of water sources is a concern."
+  },
+  {
+    "sentence": "彼は芸術の源泉を求めて旅に出た。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】の源泉【みなもと】を求【もと】めて旅【たび】に出【で】た。",
+    "meaning": "He set out on a journey seeking the source of art."
+  },
+  {
+    "sentence": "この山の源泉は有名だ。",
+    "sentence_furigana": "この山【やま】の源泉【げんせん】は有名【ゆうめい】だ。",
+    "meaning": "The spring in this mountain is famous."
+  },
+  {
+    "sentence": "源氏物語は世界中で読まれている。",
+    "sentence_furigana": "源氏物語【げんじものがたり】は世界中【せかいじゅう】で読【よ】まれている。",
+    "meaning": "The Tale of Genji is read all over the world."
+  },
+  {
+    "sentence": "そのアイデアの源はどこからか。",
+    "sentence_furigana": "そのアイデアの源【みなもと】はどこからか。",
+    "meaning": "Where does that idea come from?"
+  },
+  {
+    "sentence": "水の源泉を探しに行く。",
+    "sentence_furigana": "水【みず】の源泉【げんせん】を探【さが】しに行【い】く。",
+    "meaning": "Go to find the source of the water."
+  }
+]

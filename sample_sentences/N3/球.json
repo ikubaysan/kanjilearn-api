@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "彼はボールを投げました。",
+    "sentence_furigana": "彼【かれ】はボールを投【な】げました。",
+    "meaning": "He threw the ball."
+  },
+  {
+    "sentence": "地球は太陽の周りを回っています。",
+    "sentence_furigana": "地球【ちきゅう】は太陽【たいよう】の周【まわ】りを回【まわ】っています。",
+    "meaning": "The Earth revolves around the Sun."
+  },
+  {
+    "sentence": "サッカーの試合はとても盛り上がっていました。",
+    "sentence_furigana": "サッカーの試合【しあい】はとても盛【も】り上【あ】がっていました。",
+    "meaning": "The soccer match was very exciting."
+  },
+  {
+    "sentence": "彼女は野球の選手です。",
+    "sentence_furigana": "彼女【かのじょ】は野球【やきゅう】の選手【せんしゅ】です。",
+    "meaning": "She is a baseball player."
+  },
+  {
+    "sentence": "バスケットボールは人気のあるスポーツです。",
+    "sentence_furigana": "バスケットボールは人気【にんき】のあるスポーツです。",
+    "meaning": "Basketball is a popular sport."
+  },
+  {
+    "sentence": "テニスのボールは小さくて黄色いです。",
+    "sentence_furigana": "テニスのボールは小【ちい】さくて黄色【きいろ】いです。",
+    "meaning": "The tennis ball is small and yellow."
+  },
+  {
+    "sentence": "雪玉を投げ合いました。",
+    "sentence_furigana": "雪玉【ゆきだま】を投【な】げ合【あ】いました。",
+    "meaning": "We threw snowballs at each other."
+  },
+  {
+    "sentence": "この形は球形です。",
+    "sentence_furigana": "この形【かたち】は球形【きゅうけい】です。",
+    "meaning": "This shape is spherical."
+  },
+  {
+    "sentence": "彼は丸い玉を拾いました。",
+    "sentence_furigana": "彼【かれ】は丸【まる】い玉【たま】を拾【ひろ】いました。",
+    "meaning": "He picked up a round ball."
+  },
+  {
+    "sentence": "月は地球の衛星です。",
+    "sentence_furigana": "月【つき】は地球【ちきゅう】の衛星【えいせい】です。",
+    "meaning": "The moon is a satellite of the Earth."
+  },
+  {
+    "sentence": "子供たちはブランコで遊んでいます。",
+    "sentence_furigana": "子供【こども】たちはブランコで遊【あそ】んでいます。",
+    "meaning": "The children are playing on the swings."
+  },
+  {
+    "sentence": "彼は新しい車を買いました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい車【くるま】を買【か】いました。",
+    "meaning": "He bought a new car."
+  },
+  {
+    "sentence": "彼女は美しい宝石を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい宝石【ほうせき】を持【も】っています。",
+    "meaning": "She has beautiful jewels."
+  },
+  {
+    "sentence": "この市場は世界中から観光客を集めます。",
+    "sentence_furigana": "この市場【いちば】は世界中【せかいじゅう】から観光客【かんこうきゃく】を集【あつ】めます。",
+    "meaning": "This market attracts tourists from all over the world."
+  },
+  {
+    "sentence": "彼は地球温暖化について話しました。",
+    "sentence_furigana": "彼【かれ】は地球温暖化【ちきゅうおんだんか】について話【はな】しました。",
+    "meaning": "He talked about global warming."
+  },
+  {
+    "sentence": "この部屋はとても広いです。",
+    "sentence_furigana": "この部屋【へや】はとても広【ひろ】いです。",
+    "meaning": "This room is very spacious."
+  },
+  {
+    "sentence": "彼は目標を達成しました。",
+    "sentence_furigana": "彼【かれ】は目標【もくひょう】を達成【たっせい】しました。",
+    "meaning": "He achieved his goal."
+  },
+  {
+    "sentence": "私は丸い眼鏡をかけています。",
+    "sentence_furigana": "私【わたし】は丸【まる】い眼鏡【めがね】をかけています。",
+    "meaning": "I wear round glasses."
+  },
+  {
+    "sentence": "このボールはとても重いです。",
+    "sentence_furigana": "このボールはとても重【おも】いです。",
+    "meaning": "This ball is very heavy."
+  },
+  {
+    "sentence": "彼は野球のユニフォームを着ています。",
+    "sentence_furigana": "彼【かれ】は野球【やきゅう】のユニフォームを着【き】ています。",
+    "meaning": "He is wearing a baseball uniform."
+  },
+  {
+    "sentence": "子供たちはシャボン玉で遊んでいます。",
+    "sentence_furigana": "子供【こども】たちはシャボン玉【たま】で遊【あそ】んでいます。",
+    "meaning": "The children are playing with soap bubbles."
+  },
+  {
+    "sentence": "彼は地球儀を見ています。",
+    "sentence_furigana": "彼【かれ】は地球儀【ちきゅうぎ】を見【み】ています。",
+    "meaning": "He is looking at the globe."
+  },
+  {
+    "sentence": "この惑星は地球に似ています。",
+    "sentence_furigana": "この惑星【わくせい】は地球【ちきゅう】に似【に】ています。",
+    "meaning": "This planet resembles Earth."
+  },
+  {
+    "sentence": "彼女は丸い顔をしています。",
+    "sentence_furigana": "彼女【かのじょ】は丸【まる】い顔【かお】をしています。",
+    "meaning": "She has a round face."
+  },
+  {
+    "sentence": "私たちはサッカーの練習をします。",
+    "sentence_furigana": "私【わたし】たちはサッカーの練習【れんしゅう】をします。",
+    "meaning": "We practice soccer."
+  },
+  {
+    "sentence": "彼はボールを蹴りました。",
+    "sentence_furigana": "彼【かれ】はボールを蹴【け】りました。",
+    "meaning": "He kicked the ball."
+  },
+  {
+    "sentence": "この球根から花が咲きます。",
+    "sentence_furigana": "この球根【きゅうこん】から花【はな】が咲【さ】きます。",
+    "meaning": "Flowers will bloom from this bulb."
+  },
+  {
+    "sentence": "彼女は地球の平和を願っています。",
+    "sentence_furigana": "彼女【かのじょ】は地球【ちきゅう】の平和【へいわ】を願【ねが】っています。",
+    "meaning": "She wishes for world peace."
+  },
+  {
+    "sentence": "この市場には多くの商品があります。",
+    "sentence_furigana": "この市場【いちば】には多【おお】くの商品【しょうひん】があります。",
+    "meaning": "There are many products in this market."
+  },
+  {
+    "sentence": "彼は人生の目標に向かって努力しています。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の目標【もくひょう】に向【む】かって努力【どりょく】しています。",
+    "meaning": "He is striving towards his life goal."
+  },
+  {
+    "sentence": "この球体はとても滑らかです。",
+    "sentence_furigana": "この球体【きゅうたい】はとても滑【なめ】らかです。",
+    "meaning": "This sphere is very smooth."
+  },
+  {
+    "sentence": "彼女は新しい球技を始めました。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい球技【きゅうぎ】を始【はじ】めました。",
+    "meaning": "She started a new ball game."
+  },
+  {
+    "sentence": "私たちは地球環境を守るべきです。",
+    "sentence_furigana": "私【わたし】たちは地球環境【ちきゅうかんきょう】を守【まも】るべきです。",
+    "meaning": "We should protect the global environment."
+  },
+  {
+    "sentence": "このボールは簡単に壊れません。",
+    "sentence_furigana": "このボールは簡単【かんたん】に壊【こわ】れません。",
+    "meaning": "This ball does not break easily."
+  },
+  {
+    "sentence": "彼はゴールを決めてチームを勝利に導きました。",
+    "sentence_furigana": "彼【かれ】はゴールを決【き】めてチームを勝利【しょうり】に導【みちび】きました。",
+    "meaning": "He scored a goal and led the team to victory."
+  },
+  {
+    "sentence": "彼女は球場で働いています。",
+    "sentence_furigana": "彼女【かのじょ】は球場【きゅうじょう】で働【はたら】いています。",
+    "meaning": "She works at a stadium."
+  },
+  {
+    "sentence": "この玉ねぎはとても大きいです。",
+    "sentence_furigana": "この玉ねぎ【たまねぎ】はとても大【おお】きいです。",
+    "meaning": "This onion is very big."
+  },
+  {
+    "sentence": "彼は地球一周の旅行を計画しています。",
+    "sentence_furigana": "彼【かれ】は地球一周【ちきゅういっしゅう】の旅行【りょこう】を計画【けいかく】しています。",
+    "meaning": "He is planning a trip around the world."
+  },
+  {
+    "sentence": "私は丸いチョコレートを食べました。",
+    "sentence_furigana": "私【わたし】は丸【まる】いチョコレートを食【た】べました。",
+    "meaning": "I ate a round chocolate."
+  },
+  {
+    "sentence": "このボールは子供たちに人気です。",
+    "sentence_furigana": "このボールは子供【こども】たちに人気【にんき】です。",
+    "meaning": "This ball is popular with children."
+  },
+  {
+    "sentence": "彼は卓球をしています。",
+    "sentence_furigana": "彼【かれ】は卓球【たっきゅう】をしています。",
+    "meaning": "He is playing table tennis."
+  },
+  {
+    "sentence": "彼女は野球の試合を見に行きました。",
+    "sentence_furigana": "彼女【かのじょ】は野球【やきゅう】の試合【しあい】を見【み】に行【い】きました。",
+    "meaning": "She went to see a baseball game."
+  },
+  {
+    "sentence": "地球温暖化は深刻な問題です。",
+    "sentence_furigana": "地球温暖化【ちきゅうおんだんか】は深刻【しんこく】な問題【もんだい】です。",
+    "meaning": "Global warming is a serious problem."
+  },
+  {
+    "sentence": "彼は丸いお菓子を作りました。",
+    "sentence_furigana": "彼【かれ】は丸【まる】いお菓子【かし】を作【つく】りました。",
+    "meaning": "He made round sweets."
+  },
+  {
+    "sentence": "この球場は新しい設備があります。",
+    "sentence_furigana": "この球場【きゅうじょう】は新【あたら】しい設備【せつび】があります。",
+    "meaning": "This stadium has new facilities."
+  },
+  {
+    "sentence": "彼女はボールを正確に投げました。",
+    "sentence_furigana": "彼女【かのじょ】はボールを正確【せいかく】に投【な】げました。",
+    "meaning": "She threw the ball accurately."
+  },
+  {
+    "sentence": "彼はサッカーの試合でゴールを決めました。",
+    "sentence_furigana": "彼【かれ】はサッカーの試合【しあい】でゴールを決め【き】ました。",
+    "meaning": "He scored a goal in the soccer match."
+  },
+  {
+    "sentence": "地球は青くて美しい星です。",
+    "sentence_furigana": "地球【ちきゅう】は青【あお】くて美【うつく】しい星【ほし】です。",
+    "meaning": "The Earth is a blue and beautiful planet."
+  },
+  {
+    "sentence": "この丸薬は病気を治します。",
+    "sentence_furigana": "この丸薬【がんやく】は病気【びょうき】を治【なお】します。",
+    "meaning": "This pill cures the illness."
+  },
+  {
+    "sentence": "彼女は子供の頃、野球選手になりたかった。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の頃【ころ】、野球選手【やきゅうせんしゅ】になりたかった。",
+    "meaning": "She wanted to be a baseball player when she was a child."
+  },
+  {
+    "sentence": "彼はボール遊びが好きです。",
+    "sentence_furigana": "彼【かれ】はボール遊【あそ】びが好【す】きです。",
+    "meaning": "He likes playing with balls."
+  },
+  {
+    "sentence": "この地球儀はとても古いものです。",
+    "sentence_furigana": "この地球儀【ちきゅうぎ】はとても古【ふる】いものです。",
+    "meaning": "This globe is very old."
+  },
+  {
+    "sentence": "彼女は新しいボールを買いました。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいボールを買【か】いました。",
+    "meaning": "She bought a new ball."
+  },
+  {
+    "sentence": "彼は地球の未来について憂慮しています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の未来【みらい】について憂慮【ゆうりょ】しています。",
+    "meaning": "He is concerned about the future of the Earth."
+  },
+  {
+    "sentence": "この球技は世界中で楽しまれています。",
+    "sentence_furigana": "この球技【きゅうぎ】は世界中【せかいじゅう】で楽【たの】しまれています。",
+    "meaning": "This ball game is enjoyed worldwide."
+  },
+  {
+    "sentence": "彼女は丸い形の帽子をかぶっています。",
+    "sentence_furigana": "彼女【かのじょ】は丸【まる】い形【かたち】の帽子【ぼうし】をかぶっています。",
+    "meaning": "She is wearing a round hat."
+  },
+  {
+    "sentence": "彼は野球のファンです。",
+    "sentence_furigana": "彼【かれ】は野球【やきゅう】のファンです。",
+    "meaning": "He is a baseball fan."
+  },
+  {
+    "sentence": "この地球儀は教育用です。",
+    "sentence_furigana": "この地球儀【ちきゅうぎ】は教育用【きょういくよう】です。",
+    "meaning": "This globe is for educational purposes."
+  },
+  {
+    "sentence": "彼女はボールを力強く投げました。",
+    "sentence_furigana": "彼女【かのじょ】はボールを力強【ちからづよ】く投【な】げました。",
+    "meaning": "She threw the ball with force."
+  },
+  {
+    "sentence": "彼は地球の美しさに感動しました。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の美【うつく】しさに感動【かんどう】しました。",
+    "meaning": "He was moved by the beauty of the Earth."
+  },
+  {
+    "sentence": "この丸い石は珍しいです。",
+    "sentence_furigana": "この丸【まる】い石【いし】は珍【めずら】しいです。",
+    "meaning": "This round stone is rare."
+  },
+  {
+    "sentence": "彼女は球速を測る機械を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は球速【きゅうそく】を測【はか】る機械【きかい】を持【も】っています。",
+    "meaning": "She has a machine to measure ball speed."
+  },
+  {
+    "sentence": "彼は地球のために何かをしたいと思っています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】のために何【なに】かをしたいと思【おも】っています。",
+    "meaning": "He wants to do something for the Earth."
+  },
+  {
+    "sentence": "このボールは非常に弾力があります。",
+    "sentence_furigana": "このボールは非常【ひじょう】に弾力【だんりょく】があります。",
+    "meaning": "This ball is very bouncy."
+  },
+  {
+    "sentence": "彼女はバレーボールをしています。",
+    "sentence_furigana": "彼女【かのじょ】はバレーボールをしています。",
+    "meaning": "She is playing volleyball."
+  },
+  {
+    "sentence": "彼は地球の歴史について学びました。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の歴史【れきし】について学【まな】びました。",
+    "meaning": "He learned about the history of the Earth."
+  },
+  {
+    "sentence": "この玉はとてもきれいです。",
+    "sentence_furigana": "この玉【たま】はとてもきれいです。",
+    "meaning": "This bead is very beautiful."
+  },
+  {
+    "sentence": "彼女は目標に向かって進んでいます。",
+    "sentence_furigana": "彼女【かのじょ】は目標【もくひょう】に向【む】かって進【すす】んでいます。",
+    "meaning": "She is moving towards her goal."
+  },
+  {
+    "sentence": "彼は地球上のすべての生命を大切にしています。",
+    "sentence_furigana": "彼【かれ】は地球上【ちきゅうじょう】のすべて の生命【せいめい】を大切【たいせつ】にしています。",
+    "meaning": "He cherishes all life on Earth."
+  },
+  {
+    "sentence": "このボールはとても耐久性があります。",
+    "sentence_furigana": "このボールはとても耐久性【たいきゅうせい】があります。",
+    "meaning": "This ball is very durable."
+  },
+  {
+    "sentence": "彼女は野球のグローブを持っています。",
+    "sentence_furigana": "彼女【かのじょ】は野球【やきゅう】のグローブを持【も】っています。",
+    "meaning": "She has a baseball glove."
+  },
+  {
+    "sentence": "彼は地球の人口増加について懸念しています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の人口増加【じんこうぞうか】について懸念【けねん】しています。",
+    "meaning": "He is concerned about the Earth's population growth."
+  },
+  {
+    "sentence": "この玉ねぎはとても甘いです。",
+    "sentence_furigana": "この玉ねぎ【たまねぎ】はとても甘【あま】いです。",
+    "meaning": "This onion is very sweet."
+  },
+  {
+    "sentence": "彼女は新しい目標を設定しました。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい目標【もくひょう】を設定【せってい】しました。",
+    "meaning": "She set a new goal."
+  },
+  {
+    "sentence": "彼は地球の自然環境を守るための活動に参加しています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の自然環境【しぜんかんきょう】を守【まも】るための活動【かつどう】に参加【さんか】しています。",
+    "meaning": "He participates in activities to protect the Earth's natural environment."
+  },
+  {
+    "sentence": "このボールはとても軽いです。",
+    "sentence_furigana": "このボールはとても軽【かる】いです。",
+    "meaning": "This ball is very light."
+  },
+  {
+    "sentence": "彼女は野球の試合で活躍しました。",
+    "sentence_furigana": "彼女【かのじょ】は野球【やきゅう】の試合【しあい】で活躍【かつやく】しました。",
+    "meaning": "She performed well in the baseball game."
+  },
+  {
+    "sentence": "彼は地球の未来に希望を持っています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の未来【みらい】に希望【きぼう】を持【も】っています。",
+    "meaning": "He has hope for the future of the Earth."
+  },
+  {
+    "sentence": "この玉は手作りです。",
+    "sentence_furigana": "この玉【たま】は手作【てづく】りです。",
+    "meaning": "This bead is handmade."
+  },
+  {
+    "sentence": "彼女は新しい球技に挑戦しました。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい球技【きゅうぎ】に挑戦【ちょうせん】しました。",
+    "meaning": "She tried a new ball game."
+  },
+  {
+    "sentence": "彼は地球の隅々まで旅をしたいと思っています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の隅々【すみずみ】まで旅【たび】をしたいと思【おも】っています。",
+    "meaning": "He wants to travel to every corner of the Earth."
+  },
+  {
+    "sentence": "このボールはとても柔らかいです。",
+    "sentence_furigana": "このボールはとても柔【やわ】らかいです。",
+    "meaning": "This ball is very soft."
+  },
+  {
+    "sentence": "彼女は子供たちに野球を教えています。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちに野球【やきゅう】を教【おし】えています。",
+    "meaning": "She teaches baseball to children."
+  },
+  {
+    "sentence": "彼は地球を守るための国際的な会議に参加しました。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】を守【まも】るための国際的【こくさいてき】な会議【かいぎ】に参加【さんか】しました。",
+    "meaning": "He participated in an international conference to protect the Earth."
+  },
+  {
+    "sentence": "この玉石はとてもきれいです。",
+    "sentence_furigana": "この玉石【ぎょくせき】はとてもきれいですが。",
+    "meaning": "This jade is very beautiful."
+  },
+  {
+    "sentence": "彼女は目標を高く設定しました。",
+    "sentence_furigana": "彼女【かのじょ】は目標【もくひょう】を高く設定【せってい】しました。",
+    "meaning": "She set her goals high."
+  },
+  {
+    "sentence": "彼は地球の資源を大切に使うべきです。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の資源【しげん】を大切【たいせつ】に使うべきです。",
+    "meaning": "He should use the Earth's resources wisely."
+  },
+  {
+    "sentence": "このボールはとても丈夫です。",
+    "sentence_furigana": "このボールはとても丈夫【じょうぶ】です。",
+    "meaning": "This ball is very sturdy."
+  },
+  {
+    "sentence": "彼女は野球の大会に出場しました。",
+    "sentence_furigana": "彼女【かのじょ】は野球【やきゅう】の大会【たいかい】に出場【しゅつじょう】しました。",
+    "meaning": "She participated in a baseball tournament."
+  },
+  {
+    "sentence": "彼は地球の環境問題に関心を持っています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の環境問題【かんきょうもんだい】に関心【かんしん】を持【も】っています。",
+    "meaning": "He is interested in environmental issues on Earth."
+  },
+  {
+    "sentence": "この玉ねぎはとても辛いです。",
+    "sentence_furigana": "この玉ねぎ【たまねぎ】はとても辛【から】いです。",
+    "meaning": "This onion is very spicy."
+  },
+  {
+    "sentence": "彼女は目標を達成するために一生懸命努力しています。",
+    "sentence_furigana": "彼女【かのじょ】は目標【もくひょう】を達成【たっせい】するために一生懸命【いっしょうけんめい】努力【どりょく】しています。",
+    "meaning": "She is working hard to achieve her goal."
+  },
+  {
+    "sentence": "彼は地球を救うために活動しています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】を救【すく】うために活動【かつどう】しています。",
+    "meaning": "He is working to save the Earth."
+  },
+  {
+    "sentence": "このボールはとても滑りやすいです。",
+    "sentence_furigana": "このボールはとても滑【す】りやすいです。",
+    "meaning": "This ball is very slippery."
+  },
+  {
+    "sentence": "彼女はバスケットボールの試合を見に行きました。",
+    "sentence_furigana": "彼女【かのじょ】はバスケットボールの試合【しあい】を見【み】に行【い】きました。",
+    "meaning": "She went to see a basketball game."
+  },
+  {
+    "sentence": "彼は地球の美しい自然を守りたいと願っています。",
+    "sentence_furigana": "彼【かれ】は地球【ちきゅう】の美【うつく】しい自然【しぜん】を守【まも】りたいと願【ねが】っています。",
+    "meaning": "He wishes to protect the Earth's beautiful nature."
+  },
+  {
+    "sentence": "この玉は美しい模様をしています。",
+    "sentence_furigana": "この玉【たま】は美【うつく】しい模様【もよう】をしています。",
+    "meaning": "This bead has a beautiful pattern."
+  },
+  {
+    "sentence": "彼女は新しい球団でプレーしています。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい球団【きゅうだん】でプレーしています。",
+    "meaning": "She plays for a new baseball team."
+  }
+]

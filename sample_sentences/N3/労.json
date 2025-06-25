@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "労働組合は労働者の権利を守るために活動しています。",
+    "sentence_furigana": "労働【ろうどう】組合【くみあい】は労働者【ろうどうしゃ】の権利【けんり】を守【まも】るために活動【かつどう】しています。",
+    "meaning": "Labor unions are active in protecting the rights of workers."
+  },
+  {
+    "sentence": "彼の長年の労苦が実を結び、ついに成功を収めた。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の労苦【ろうく】が実【み】を結【むす】び、ついに成功【せいこう】を収【おさ】めた。",
+    "meaning": "His many years of toil finally bore fruit, and he finally achieved success."
+  },
+  {
+    "sentence": "お疲れ様でした。本日は大変お世話になりました。",
+    "sentence_furigana": "お疲【つか】れ様【さま】でした。本日【ほんじつ】は大変【たいへん】お世話【せわ】になりました。",
+    "meaning": "Thank you for your hard work. Thank you for your help today."
+  },
+  {
+    "sentence": "ご苦労様です。この仕事は大変だったでしょう。",
+    "sentence_furigana": "ご苦労【くろう】様【さま】です。この仕事【しごと】は大変【たいへん】だったでしょう。",
+    "meaning": "Thank you for your hard work. This job must have been tough."
+  },
+  {
+    "sentence": "その功績に対する労いとして、特別賞が授与された。",
+    "sentence_furigana": "その功績【こうせき】に対【たい】する労【ねぎら】いとして、特別賞【とくべつしょう】が授与【じゅよ】された。",
+    "meaning": "A special award was given as a reward for his achievements."
+  },
+  {
+    "sentence": "労働基準法は、労働者の保護を目的として制定された法律です。",
+    "sentence_furigana": "労働【ろうどう】基準法【きじゅんほう】は、労働者【ろうどうしゃ】の保護【ほご】を目的【もくてき】として制定【せいてい】された法律【ほうりつ】です。",
+    "meaning": "The Labor Standards Act is a law enacted for the protection of workers."
+  },
+  {
+    "sentence": "長時間の労働は健康を害する可能性がある。",
+    "sentence_furigana": "長時間【ちょうじかん】の労働【ろうどう】は健康【けんこう】を害【がい】する可能性【かのうせい】がある。",
+    "meaning": "Long working hours can be detrimental to health."
+  },
+  {
+    "sentence": "労力を惜しまずに、彼はプロジェクトを完成させた。",
+    "sentence_furigana": "労力【ろうりょく】を惜【お】しまずに、彼【かれ】はプロジェクトを完成【かんせい】させた。",
+    "meaning": "He completed the project without sparing any effort."
+  },
+  {
+    "sentence": "この作業には多くの労力が必要となるだろう。",
+    "sentence_furigana": "この作業【さぎょう】には多【おお】くの労力【ろうりょく】が必要【ひつよう】となるだろう。",
+    "meaning": "This task will likely require a lot of effort."
+  },
+  {
+    "sentence": "労働者は、安全な労働環境を要求する権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、安全【あんぜん】な労働環境【ろうどうかんきょう】を要求【ようきゅう】する権利【けんり】がある。",
+    "meaning": "Workers have the right to demand a safe working environment."
+  },
+  {
+    "sentence": "彼の努力を労うために、皆で祝賀会を開いた。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】を労【ねぎら】うために、皆【みな】で祝賀会【しゅくがかい】を開【ひら】いた。",
+    "meaning": "We held a celebration party to appreciate his efforts."
+  },
+  {
+    "sentence": "過労死は社会的な問題として認識されている。",
+    "sentence_furigana": "過労死【かろうし】は社会的問題【しゃかいてきもんだい】として認識【にんしき】されている。",
+    "meaning": "Death from overwork is recognized as a social problem."
+  },
+  {
+    "sentence": "労働条件の改善を求めて、ストライキが行われた。",
+    "sentence_furigana": "労働条件【ろうどうじょうけん】の改善【かいぜん】を求【もと】めて、ストライキが行【おこな】われた。",
+    "meaning": "A strike was held demanding improvements in working conditions."
+  },
+  {
+    "sentence": "この芸術作品は、作者の並々ならぬ労作の賜物だ。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は、作者【さくしゃ】の並々【なみなみ】ならぬ労作【ろうさく】の賜物【たまもの】だ。",
+    "meaning": "This work of art is the fruit of the artist's extraordinary labor."
+  },
+  {
+    "sentence": "彼の労をねぎらい、感謝の言葉を述べた。",
+    "sentence_furigana": "彼【かれ】の労【ねぎら】いをねぎらい、感謝【かんしゃ】の言葉【ことば】を述【の】べた。",
+    "meaning": "We acknowledged his efforts and expressed our gratitude."
+  },
+  {
+    "sentence": "高齢者の労働参加を促進するための政策が検討されている。",
+    "sentence_furigana": "高齢者【こうれいしゃ】の労働参加【ろうどうさんか】を促進【そくしん】するための政策【せいさく】が検討【けんとう】されている。",
+    "meaning": "Policies are being considered to promote labor participation of the elderly."
+  },
+  {
+    "sentence": "労働輸出とは、海外で働くことによって得られる収入のことです。",
+    "sentence_furigana": "労働輸出【ろうどうゆしゅつ】とは、海外【かいがい】で働【はたら】くことによって得【え】られる収入【しゅうにゅう】のことです。",
+    "meaning": "Labor export refers to income earned by working abroad."
+  },
+  {
+    "sentence": "そのプロジェクトには多くの労力と時間が費やされた。",
+    "sentence_furigana": "そのプロジェクトには多【おお】くの労力【ろうりょく】と時間【じかん】が費【つい】やされた。",
+    "meaning": "A lot of effort and time were spent on that project."
+  },
+  {
+    "sentence": "彼は日々の労働に疲れ果てていた。",
+    "sentence_furigana": "彼【かれ】は日々【ひび】の労働【ろうどう】に疲【つか】れ果【は】てていた。",
+    "meaning": "He was exhausted from his daily labor."
+  },
+  {
+    "sentence": "労働者の安全を守ることは、企業の重要な責任です。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の安全【あんぜん】を守【まも】ることは、企業【きぎょう】の重要【じゅうよう】な責任【せきにん】です。",
+    "meaning": "Protecting the safety of workers is an important responsibility of companies."
+  },
+  {
+    "sentence": "労をねぎらうために、皆で食事に行った。",
+    "sentence_furigana": "労【ねぎら】いをねぎらうために、皆【みな】で食事【しょくじ】に行【い】った。",
+    "meaning": "We all went out for a meal to appreciate his efforts."
+  },
+  {
+    "sentence": "この困難な状況を乗り越えるには、皆の協力と労力が必要だ。",
+    "sentence_furigana": "この困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えるには、皆【みな】の協力【きょうりょく】と労力【ろうりょく】が必要【ひつよう】だ。",
+    "meaning": "To overcome this difficult situation, everyone's cooperation and effort are needed."
+  },
+  {
+    "sentence": "労働者は適正な賃金を得る権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は適正【てきせい】な賃金【ちんぎん】を得【え】る権利【けんり】がある。",
+    "meaning": "Workers have the right to receive fair wages."
+  },
+  {
+    "sentence": "彼の長年の労苦が評価され、昇進が決まった。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の労苦【ろうく】が評価【ひょうか】され、昇進【しょうしん】が決【き】まった。",
+    "meaning": "His long years of hard work were recognized, and he was promoted."
+  },
+  {
+    "sentence": "労働力不足は、経済成長の大きな課題となっている。",
+    "sentence_furigana": "労働力不足【ろうどうりょくふそく】は、経済成長【けいざいせいちょう】の非常【ひじょう】な課題【かだい】となっている。",
+    "meaning": "Labor shortage is a major challenge for economic growth."
+  },
+  {
+    "sentence": "このプロジェクトの成功は、チーム全員の労力の結晶です。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】は、チーム全員【ぜんいん】の労力【ろうりょく】の結晶【けっしょう】です。",
+    "meaning": "The success of this project is the result of the efforts of the entire team."
+  },
+  {
+    "sentence": "彼女は家事労働に追われ、自分の時間を持つことができなかった。",
+    "sentence_furigana": "彼女【かのじょ】は家事労働【かじろうどう】に追【お】われ、自分【じぶん】の時間【じかん】を持【も】つことができなかった。",
+    "meaning": "She was overwhelmed by housework and couldn't have time for herself."
+  },
+  {
+    "sentence": "労働者の健康管理は、企業の社会的責任です。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の健康管理【けんこうかんり】は、企業【きぎょう】の社会的責任【しゃかいてきせきにん】です。",
+    "meaning": "Health management for workers is a company's social responsibility."
+  },
+  {
+    "sentence": "彼の献身的な働きぶりを労うために、皆で拍手を送った。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な働【はたら】きぶりを労【ねぎら】うために、皆【みな】で拍手【はくしゅ】を送【おく】った。",
+    "meaning": "We all applauded to appreciate his dedicated work."
+  },
+  {
+    "sentence": "不当な労働条件に対して、労働者は抗議した。",
+    "sentence_furigana": "不当【ふとう】な労働条件【ろうどうじょうけん】に対【たい】して、労働者【ろうどうしゃ】は抗議【こうぎ】した。",
+    "meaning": "Workers protested against unfair working conditions."
+  },
+  {
+    "sentence": "その発明は、多くの労苦の末にようやく実用化された。",
+    "sentence_furigana": "その発明【はつめい】は、多【おお】くの労苦【ろうく】の末【すえ】にようやく実用化【じつようか】された。",
+    "meaning": "That invention was finally put into practical use after much toil."
+  },
+  {
+    "sentence": "彼女は育児と仕事の両立に、日々奮闘している。",
+    "sentence_furigana": "彼女【かのじょ】は育児【いくじ】と仕事【しごと】の両立【りょうりつ】に、日々【ひび】奮闘【ふんとう】している。",
+    "meaning": "She is struggling daily to balance childcare and work."
+  },
+  {
+    "sentence": "労働組合は、組合員の利益を守るために交渉する。",
+    "sentence_furigana": "労働組合【ろうどうくみあい】は、組合員【くみあいん】の利益【りえき】を守【まも】るために交渉【こうしょう】する。",
+    "meaning": "Labor unions negotiate to protect the interests of their members."
+  },
+  {
+    "sentence": "彼の長年の労苦は、決して無駄ではなかった。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の労苦【ろうく】は、決【けっ】して無駄【むだ】ではなかった。",
+    "meaning": "His many years of hard work were not in vain."
+  },
+  {
+    "sentence": "私たちは、働いてくれた人々に感謝の意を表すために労いの言葉をかけた。",
+    "sentence_furigana": "私【わたし】たちは、働【はたら】いてくれた人々【ひとびと】に感謝【かんしゃ】の意【い】を表【あらわ】すために労【ねぎら】いの言葉【ことば】をかけた。",
+    "meaning": "We offered words of appreciation to thank those who worked for us."
+  },
+  {
+    "sentence": "労働者は、人間らしい生活を送るための権利を主張する。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、人間らしい【にんげんらしい】生活【せいかつ】を送【おく】るための権利【けんり】を主張【しゅちょう】する。",
+    "meaning": "Workers assert their right to live a human life."
+  },
+  {
+    "sentence": "この建築物は、多くの職人の労作によって完成された。",
+    "sentence_furigana": "この建築物【けんちくぶつ】は、多【おお】くの職人【しょくにん】の労作【ろうさく】によって完成【かんせい】された。",
+    "meaning": "This building was completed through the labor of many craftsmen."
+  },
+  {
+    "sentence": "過労による健康被害を防ぐための対策が必要だ。",
+    "sentence_furigana": "過労【かろう】による健康被害【けんこうひがい】を防【ふせ】ぐための対策【たいさく】が必要【ひつよう】だ。",
+    "meaning": "Measures are needed to prevent health damage due to overwork."
+  },
+  {
+    "sentence": "彼は長年の労働で腰を痛めてしまった。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の労働【ろうどう】で腰【こし】を痛【いた】めてしまった。",
+    "meaning": "He injured his back from many years of labor."
+  },
+  {
+    "sentence": "労働環境の改善は、企業の持続的な成長に不可欠です。",
+    "sentence_furigana": "労働環境【ろうどうかんきょう】の改善【かいぜん】は、企業【きぎょう】の持続的【じぞくてき】な成長【せいちょう】に不可欠【ふかけつ】です。",
+    "meaning": "Improving the working environment is essential for a company's sustainable growth."
+  },
+  {
+    "sentence": "疲労回復のために、十分な休息が必要だ。",
+    "sentence_furigana": "疲労回復【ひろうかいふく】のために、十分【じゅうぶん】な休息【きゅうそく】が必要【ひつよう】だ。",
+    "meaning": "Sufficient rest is necessary for recovery from fatigue."
+  },
+  {
+    "sentence": "労働者は、安全衛生に関する教育を受ける権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、安全衛生【あんぜんえいせい】に関【かん】する教育【きょういく】を受【う】ける権利【けんり】がある。",
+    "meaning": "Workers have the right to receive education on safety and health."
+  },
+  {
+    "sentence": "彼の労をねぎらう気持ちを込めて、プレゼントを贈った。",
+    "sentence_furigana": "彼【かれ】の労【ねぎら】いをねぎらう気持【きも】ちを込【こ】めて、プレゼントを贈【おく】った。",
+    "meaning": "We gave him a present with the intention of appreciating his efforts."
+  },
+  {
+    "sentence": "この事業を成功させるためには、多大な労力が必要となるだろう。",
+    "sentence_furigana": "この事業【じぎょう】を成功【せいこう】させるためには、多大【ただい】な労力【ろうりょく】が必要【ひつよう】となるだろう。",
+    "meaning": "A great deal of effort will be required to make this project a success."
+  },
+  {
+    "sentence": "労働市場は常に変化しており、新しいスキルが求められている。",
+    "sentence_furigana": "労働市場【ろうどうしじょう】は常【つね】に変化【へんか】しており、新【あたら】しいスキルが求【もと】められている。",
+    "meaning": "The labor market is constantly changing, and new skills are in demand."
+  },
+  {
+    "sentence": "長時間の立ち仕事で足が疲れてしまった。",
+    "sentence_furigana": "長時間【ちょうじかん】の立【た】ち仕事【しごと】で足【あし】が疲【つか】れてしまった。",
+    "meaning": "My feet got tired from standing for long hours."
+  },
+  {
+    "sentence": "彼は感謝の印として、労いの言葉をかけた。",
+    "sentence_furigana": "彼【かれ】は感謝【かんしゃ】の印【しるし】として、労【ねぎら】いの言葉【ことば】をかけた。",
+    "meaning": "He offered words of appreciation as a token of his gratitude."
+  },
+  {
+    "sentence": "労働法規を遵守することは、企業の義務です。",
+    "sentence_furigana": "労働法規【ろうどうほうき】を遵守【じゅんしゅ】することは、企業【きぎょう】の義務【ぎむ】です。",
+    "meaning": "Compliance with labor laws is a company's obligation."
+  },
+  {
+    "sentence": "彼の功績を称え、労いの食事会を開いた。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】を称【たた】え、労【ねぎら】いの食事会【しょくじかい】を開【ひら】いた。",
+    "meaning": "We held a celebratory meal to honor his achievements and show appreciation."
+  },
+  {
+    "sentence": "肉体労働は、精神労働よりも疲労しやすい傾向がある。",
+    "sentence_furigana": "肉体労働【にきたいろうどう】は、精神労働【せいしんろうどう】よりも疲労【ひろう】しやすい傾向【けいこう】がある。",
+    "meaning": "Manual labor tends to be more tiring than mental labor."
+  },
+  {
+    "sentence": "労働者の団結権は、憲法で保障されている。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の団結権【だんけつけん】は、憲法【けんぽう】で保障【ほしょう】されている。",
+    "meaning": "The right of workers to organize is guaranteed by the constitution."
+  },
+  {
+    "sentence": "この成果は、チームメンバー一人ひとりの労力の賜物です。",
+    "sentence_furigana": "この成果【せいか】は、チームメンバー一人ひとり【ひとりひとり】の労力【ろうりょく】の賜物【たまもの】です。",
+    "meaning": "This achievement is the result of the efforts of each team member."
+  },
+  {
+    "sentence": "彼はその仕事に多くの時間と労力を費やした。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に多【おお】くの時間【じかん】と労力【ろうりょく】を費【つい】やした。",
+    "meaning": "He spent a lot of time and effort on that job."
+  },
+  {
+    "sentence": "過労は様々な健康問題を引き起こす可能性がある。",
+    "sentence_furigana": "過労【かろう】は様々【さまざま】な健康問題【けんこうもんだい】を引き起【ひきおこ】す可能性【かのうせい】がある。",
+    "meaning": "Overwork can cause various health problems."
+  },
+  {
+    "sentence": "労働者は、公正な報酬を受ける権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、公正【こうせい】な報酬【ほうしゅう】を受【う】ける権利【けんり】がある。",
+    "meaning": "Workers have the right to receive fair remuneration."
+  },
+  {
+    "sentence": "この困難なプロジェクトを乗り越えるために、皆の協力と労力が必要だ。",
+    "sentence_furigana": "この困難【こんなん】なプロジェクトを乗【の】り越【こ】えるために、皆【みな】の協力【きょうりょく】と労力【ろうりょく】が必要【ひつよう】だ。",
+    "meaning": "Everyone's cooperation and effort are needed to overcome this difficult project."
+  },
+  {
+    "sentence": "彼女は疲労回復のために、温泉でゆっくり過ごした。",
+    "sentence_furigana": "彼女【かのじょ】は疲労回復【ひろうかいふく】のために、温泉【おんせん】でゆっくり過【す】ごした。",
+    "meaning": "She spent time relaxing at a hot spring to recover from fatigue."
+  },
+  {
+    "sentence": "労働者は、団体交渉権を行使して待遇の改善を求めた。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、団体交渉権【だんたいこうしょうけん】を行使【こうし】して待遇【たいぐう】の改善【かいぜん】を求【もと】めた。",
+    "meaning": "Workers exercised their right to collective bargaining to demand improved treatment."
+  },
+  {
+    "sentence": "彼の長年の労苦が実を結び、ついに夢を実現した。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の労苦【ろうく】が実【み】を結【むす】び、ついに夢【ゆめ】を実現【じつげん】した。",
+    "meaning": "His many years of toil finally bore fruit, and he finally realized his dream."
+  },
+  {
+    "sentence": "私たちは、彼らの労に報いるために感謝祭を開催した。",
+    "sentence_furigana": "私【わたし】たちは、彼ら【かれら】の労【ねぎら】いに報【むく】いるために感謝祭【かんしゃさい】を開催【かいさい】した。",
+    "meaning": "We held a thanksgiving event to reward their efforts."
+  },
+  {
+    "sentence": "労働者の権利を守る法律は、社会の安定に不可欠である。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の権利【けんり】を守【まも】る法律【ほうりつ】は、社会【しゃかい】の安定【あんてい】に不可欠【ふかけつ】である。",
+    "meaning": "Laws protecting workers' rights are essential for social stability."
+  },
+  {
+    "sentence": "この研究は、多くの労力と時間をかけて行われた。",
+    "sentence_furigana": "この研究【けんきゅう】は、多【おお】くの労力【ろうりょく】と時間【じかん】をかけて行【おこな】われた。",
+    "meaning": "This research was conducted with a lot of effort and time."
+  },
+  {
+    "sentence": "彼は過労で倒れてしまった。",
+    "sentence_furigana": "彼【かれ】は過労【かろう】で倒【たお】れてしまった。",
+    "meaning": "He collapsed from overwork."
+  },
+  {
+    "sentence": "労働者は、人間らしい生活を営むための十分な所得を得る権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、人間らしい【にんげんらしい】生活【せいかつ】を営【いとな】むための十分【じゅうぶん】な所得【しょとく】を得【え】る権利【けんり】がある。",
+    "meaning": "Workers have the right to earn sufficient income to lead a decent life."
+  },
+  {
+    "sentence": "彼の労作は高く評価され、数々の賞を受賞した。",
+    "sentence_furigana": "彼【かれ】の労作【ろうさく】は高【たか】く評価【ひょうか】され、数々【かずかず】の賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "His work was highly praised, and he received numerous awards."
+  },
+  {
+    "sentence": "労働者は、安全で健康的な労働環境で働く権利を有する。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、安全【あんぜん】で健康的【けんこうてき】な労働環境【ろうどうかんきょう】で働【はたら】く権利【けんり】を有する【ゆうする】。",
+    "meaning": "Workers have the right to work in a safe and healthy working environment."
+  },
+  {
+    "sentence": "皆で彼の労をねぎらう会を開きましょう。",
+    "sentence_furigana": "皆【みな】で彼【かれ】の労【ねぎら】いをねぎらう会【かい】を開【ひら】きましょう。",
+    "meaning": "Let's hold a gathering to appreciate his efforts together."
+  },
+  {
+    "sentence": "このプロジェクトの成功には、多くの関係者の労力が不可欠でした。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】には、多【おお】くの関係者【かんけいしゃ】の労力【ろうりょく】が不可欠【ふかけつ】でした。",
+    "meaning": "The efforts of many stakeholders were indispensable for the success of this project."
+  },
+  {
+    "sentence": "労働者は、労働組合を結成し、使用者と交渉する権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、労働組合【ろうどうくみあい】を結成【けっせい】し、使用者【しようしゃ】と交渉【こうしょう】する権利【けんり】がある。",
+    "meaning": "Workers have the right to form labor unions and negotiate with employers."
+  },
+  {
+    "sentence": "長期間の労働で彼は極度に疲労していた。",
+    "sentence_furigana": "長期間【ちょうきかん】の労働【ろうどう】で彼【かれ】は極度【きょくど】に疲労【ひろう】していた。",
+    "meaning": "He was extremely fatigued from long-term labor."
+  },
+  {
+    "sentence": "彼の献身的な働きに、皆が労いの言葉をかけた。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な働【はたら】きに、皆【みな】が労【ねぎら】いの言葉【ことば】をかけた。",
+    "meaning": "Everyone offered words of appreciation for his dedicated work."
+  },
+  {
+    "sentence": "労働者は、最低賃金以上の賃金を受け取る権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、最低賃金【さいていちんぎん】以上【いじょう】の賃金【ちんぎん】を受【う】け取【と】る権利【けんり】がある。",
+    "meaning": "Workers have the right to receive wages above the minimum wage."
+  },
+  {
+    "sentence": "この芸術作品は、作者の長年の労作の集大成である。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は、作者【さくしゃ】の長年【ながねん】の労作【ろうさく】の集大成【しゅうたいせい】である。",
+    "meaning": "This work of art is the culmination of the artist's many years of labor."
+  },
+  {
+    "sentence": "彼は過労のため、健康を損なってしまった。",
+    "sentence_furigana": "彼【かれ】は過労【かろう】のため、健康【けんこう】を損【そこな】なってしまった。",
+    "meaning": "He lost his health due to overwork."
+  },
+  {
+    "sentence": "労働者は、労働時間の上限に関する規制を求めている。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、労働時間【ろうどうじかん】の上限【じょうげん】に関【かん】する規制【きせい】を求【もと】めている。",
+    "meaning": "Workers are seeking regulations on the upper limit of working hours."
+  },
+  {
+    "sentence": "彼女の苦労が報われ、ついに目標を達成することができた。",
+    "sentence_furigana": "彼女【かのじょ】の苦労【くろう】が報【むく】われ、ついに目標【もくひょう】を達成【たっせい】することができた。",
+    "meaning": "Her hard work paid off, and she was finally able to achieve her goal."
+  },
+  {
+    "sentence": "労働者の権利を守ることは、社会全体の責務である。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の権利【けんり】を守【まも】ることは、社会全体【しゃかいぜんたい】の責務【せきむ】である。",
+    "meaning": "Protecting the rights of workers is the responsibility of society as a whole."
+  },
+  {
+    "sentence": "このプロジェクトを成功させるために、チーム全員が力を合わせて労力を提供した。",
+    "sentence_furigana": "このプロジェクトを成功【せいこう】させるために、チーム全員【ぜんいん】が力【ちから】を合【あ】わせて労力【ろうりょく】を提供【ていきょう】した。",
+    "meaning": "The entire team combined their efforts and provided labor to make this project a success."
+  },
+  {
+    "sentence": "労働者は、安全な作業環境を確保するために必要な訓練を受ける権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、安全【あんぜん】な作業環境【さぎょうかんきょう】を確保【かくほ】するために必要【ひつよう】な訓練【くんれん】を受【う】ける権利【けんり】がある。",
+    "meaning": "Workers have the right to receive the necessary training to ensure a safe working environment."
+  },
+  {
+    "sentence": "彼は長年の努力と労苦が認められ、表彰された。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の努力【どりょく】と労苦【ろうく】が認【みと】められ、表彰【ひょうしょう】された。",
+    "meaning": "He was recognized and awarded for his many years of effort and hard work."
+  },
+  {
+    "sentence": "労働力の適切な配分は、経済効率を高める上で重要である。",
+    "sentence_furigana": "労働力【ろうどうりょく】の適切【てきせつ】な配分【はいぶん】は、経済効率【けいざいこうりつ】を高【たか】める上【うえ】で重要【じゅうよう】である。",
+    "meaning": "Appropriate allocation of labor is important for improving economic efficiency."
+  },
+  {
+    "sentence": "彼女は疲労困憊しているにもかかわらず、仕事を続けた。",
+    "sentence_furigana": "彼女【かのじょ】は疲労困憊【ひろうこんぱい】しているにもかかわらず、仕事【しごと】を続【つづ】けた。",
+    "meaning": "Despite being exhausted, she continued to work."
+  },
+  {
+    "sentence": "労働者は、不当な解雇から保護される権利を有する。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、不当【ふとう】な解雇【かいこ】から保護【ほご】される権利【けんり】を有する【ゆうする】。",
+    "meaning": "Workers have the right to be protected from unfair dismissal."
+  },
+  {
+    "sentence": "この偉業は、彼らの弛まぬ労力によって成し遂げられた。",
+    "sentence_furigana": "この偉業【いぎょう】は、彼ら【かれら】の弛【たゆ】まぬ労力【ろうりょく】によって成【な】し遂【と】げられた。",
+    "meaning": "This great achievement was accomplished through their unremitting efforts."
+  },
+  {
+    "sentence": "労働者の安全と健康を守るための法整備が進められている。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の安全【あんぜん】と健康【けんこう】を守【まも】るための法整備【ほうせいび】が進【すす】められている。",
+    "meaning": "Legislation is being promoted to protect the safety and health of workers."
+  },
+  {
+    "sentence": "彼は感謝の意を表すために、皆に労いの言葉をかけた。",
+    "sentence_furigana": "彼【かれ】は感謝【かんしゃ】の意【い】を表【あらわ】すために、皆【みな】に労【ねぎら】いの言葉【ことば】をかけた。",
+    "meaning": "He offered words of appreciation to everyone to express his gratitude."
+  },
+  {
+    "sentence": "労働者は、十分な休息を取る権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、十分【じゅうぶん】な休息【きゅうそく】を取【と】る権利【けんり】がある。",
+    "meaning": "Workers have the right to take sufficient rest."
+  },
+  {
+    "sentence": "この研究は、多くの労力を費やした結果、重要な発見に至った。",
+    "sentence_furigana": "この研究【けんきゅう】は、多【おお】くの労力【ろうりょく】を費【つい】やした結果【けっか】、重要【じゅうよう】な発見【はっけん】に至【いた】った。",
+    "meaning": "This research, after expending much effort, led to an important discovery."
+  },
+  {
+    "sentence": "彼は疲労困憊していたが、決して諦めなかった。",
+    "sentence_furigana": "彼【かれ】は疲労困憊【ひろうこんぱい】していたが、決【けっ】して諦【あきら】めなかった。",
+    "meaning": "Although he was exhausted, he never gave up."
+  },
+  {
+    "sentence": "労働者は、健康保険に加入する権利を有する。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、健康保険【けんこうほけん】に加入【かにゅう】する権利【けんり】を有する【ゆうする】。",
+    "meaning": "Workers have the right to join health insurance."
+  },
+  {
+    "sentence": "彼の長年の労苦が報われ、ついに彼は目標を達成した。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の労苦【ろうく】が報【むく】われ、ついに彼【かれ】は目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "His many years of hard work paid off, and he finally achieved his goal."
+  },
+  {
+    "sentence": "私たちは、彼の労に感謝し、労いの言葉を贈った。",
+    "sentence_furigana": "私【わたし】たちは、彼【かれ】の労【ねぎら】いに感謝【かんしゃ】し、労【ねぎら】いの言葉【ことば】を贈【おく】った。",
+    "meaning": "We thanked him for his efforts and offered him words of appreciation."
+  },
+  {
+    "sentence": "労働者の団結は、権利を守るための強力な手段となる。",
+    "sentence_furigana": "労働者【ろうどうしゃ】の団結【だんけつ】は、権利【けんり】を守【まも】るための強力【きょうりょく】な手段【しゅだん】となる。",
+    "meaning": "The solidarity of workers becomes a powerful means to protect their rights."
+  },
+  {
+    "sentence": "このプロジェクトを成功させるためには、多くの労力と時間が必要だ。",
+    "sentence_furigana": "このプロジェクトを成功【せいこう】させるためには、多【おお】くの労力【ろうりょく】と時間【じかん】が必要【ひつよう】だ。",
+    "meaning": "A lot of effort and time are needed to make this project a success."
+  },
+  {
+    "sentence": "彼は過労による病気で休職することになった。",
+    "sentence_furigana": "彼【かれ】は過労【かろう】による病気【びょうき】で休職【きゅうしょく】することになった。",
+    "meaning": "He had to take a leave of absence due to illness caused by overwork."
+  },
+  {
+    "sentence": "労働者は、健康を害さない範囲で働く権利がある。",
+    "sentence_furigana": "労働者【ろうどうしゃ】は、健康【けんこう】を害【がい】さない範囲【はんい】で働【はたら】く権利【けんり】がある。",
+    "meaning": "Workers have the right to work within limits that do not harm their health."
+  },
+  {
+    "sentence": "彼の長年の労苦は、ついに報われた。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の労苦【ろうく】は、ついに報【むく】われた。",
+    "meaning": "His many years of hard work were finally rewarded."
+  },
+  {
+    "sentence": "私たちは、彼の労をねぎらい、感謝の気持ちを伝えたい。",
+    "sentence_furigana": "私【わたし】たちは、彼【かれ】の労【ねぎら】いをねぎらい、感謝【かんしゃ】の気持【きも】ちを伝【つた】えたい。",
+    "meaning": "We want to acknowledge his efforts and express our gratitude."
+  },
+  {
+    "sentence": "労働者のための福利厚生制度の充実が求められている。",
+    "sentence_furigana": "労働者【ろうどうしゃ】のための福利厚生制度【ふくりこうせいせいど】の充実【じゅうじつ】が求【もと】められている。",
+    "meaning": "There is a demand for the enhancement of welfare systems for workers."
+  },
+  {
+    "sentence": "この難事業を完成させるには、並々ならぬ労力が必要だった。",
+    "sentence_furigana": "この難事業【なんじぎょう】を完成【かんせい】させるには、並々【なみなみ】ならぬ労力【ろうりょく】が必要【ひつよう】だった。",
+    "meaning": "Conquering this difficult task required extraordinary effort."
+  }
+]

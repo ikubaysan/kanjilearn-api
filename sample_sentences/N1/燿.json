@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "星が夜空で燿いていた。",
+    "sentence_furigana": "星【ほし】が夜空【よぞら】で燿【よう】いていた。",
+    "meaning": "The stars were shining in the night sky."
+  },
+  {
+    "sentence": "炎は力強く燿いた。",
+    "sentence_furigana": "炎【ほのお】は力強【ちからづよ】く燿【よう】いた。",
+    "meaning": "The flames shone powerfully."
+  },
+  {
+    "sentence": "太陽の光は明るく燿く。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】は明【あか】るく燿【かがや】く。",
+    "meaning": "The sunlight shines brightly."
+  },
+  {
+    "sentence": "彼女の笑顔は希望を燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は希望【きぼう】を燿【よう】いていた。",
+    "meaning": "Her smile shone with hope."
+  },
+  {
+    "sentence": "宝石が月光に燿いていた。",
+    "sentence_furigana": "宝石【ほうせき】が月光【げっこう】に燿【よう】いていた。",
+    "meaning": "The jewels shone in the moonlight."
+  },
+  {
+    "sentence": "彼の目は野心で燿いていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は野心【やしん】で燿【よう】いていた。",
+    "meaning": "His eyes shone with ambition."
+  },
+  {
+    "sentence": "灯台の光が海を燿いた。",
+    "sentence_furigana": "灯台【とうだい】の光【ひかり】が海【うみ】を燿【よう】いた。",
+    "meaning": "The lighthouse's beam illuminated the sea."
+  },
+  {
+    "sentence": "そのダイヤモンドは眩しく燿いていた。",
+    "sentence_furigana": "そのダイヤモンドは眩【まばゆ】しく燿【よう】いていた。",
+    "meaning": "That diamond was dazzlingly bright."
+  },
+  {
+    "sentence": "夜明け前の空は淡く燿いていた。",
+    "sentence_furigana": "夜明【よあ】け前【まえ】の空【そら】は淡【あわ】く燿【よう】いていた。",
+    "meaning": "The sky before dawn was faintly luminous."
+  },
+  {
+    "sentence": "才能が彼の言葉から燿いていた。",
+    "sentence_furigana": "才能【さいのう】が彼【かれ】の言葉【ことば】から燿【よう】いていた。",
+    "meaning": "Talent shone from his words."
+  },
+  {
+    "sentence": "水晶は清らかに燿いていた。",
+    "sentence_furigana": "水晶【すいしょう】は清【きよ】らかに燿【よう】いていた。",
+    "meaning": "The crystal shone with purity."
+  },
+  {
+    "sentence": "彼女の歌声は会場を燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は会場【かいじょう】を燿【よう】いた。",
+    "meaning": "Her singing voice illuminated the venue."
+  },
+  {
+    "sentence": "古い神殿は神秘的に燿いていた。",
+    "sentence_furigana": "古【ふる】い神殿【しんでん】は神秘的【しんぴてき】に燿【よう】いていた。",
+    "meaning": "The ancient temple shone mystically."
+  },
+  {
+    "sentence": "子供たちの未来は明るく燿くべきだ。",
+    "sentence_furigana": "子供【こども】たち【】の未来【みらい】は明【あか】るく燿【かがや】くべきだ。",
+    "meaning": "The future of children should shine brightly."
+  },
+  {
+    "sentence": "祭りの灯りが夜を燿いていた。",
+    "sentence_furigana": "祭【まつ】りの灯【あか】りが夜【よる】を燿【よう】いていた。",
+    "meaning": "The festival lights illuminated the night."
+  },
+  {
+    "sentence": "彼の情熱は誰よりも強く燿いていた。",
+    "sentence_furigana": "彼【かれ】の情熱【じょうねつ】は誰【だれ】よりも強【つよ】く燿【よう】いていた。",
+    "meaning": "His passion shone stronger than anyone else's."
+  },
+  {
+    "sentence": "月光が湖面で優しく燿いていた。",
+    "sentence_furigana": "月光【げっこう】が湖面【こめん】で優【やさ】しく燿【よう】いていた。",
+    "meaning": "The moonlight shone gently on the lake's surface."
+  },
+  {
+    "sentence": "そのパフォーマンスは観客を燿いた。",
+    "sentence_furigana": "そのパフォーマンスは観客【かんきゃく】を燿【よう】いた。",
+    "meaning": "That performance captivated the audience."
+  },
+  {
+    "sentence": "彼のスピーチは希望に満ちて燿いていた。",
+    "sentence_furigana": "彼【かれ】のスピーチは希望【きぼう】に満【み】ちて燿【よう】いていた。",
+    "meaning": "His speech shone with hope."
+  },
+  {
+    "sentence": "炎は暗闇の中で唯一の燿きだった。",
+    "sentence_furigana": "炎【ほのお】は暗闇【くらやみ】の中【なか】で唯一【ゆいいつ】の燿【かがや】きだった。",
+    "meaning": "The flame was the only light in the darkness."
+  },
+  {
+    "sentence": "街の灯りが夜景を燿いていた。",
+    "sentence_furigana": "街【まち】の灯【あか】りが夜景【やけい】を燿【よう】いていた。",
+    "meaning": "The city lights illuminated the night view."
+  },
+  {
+    "sentence": "彼女の才能は遅咲きながらも確かに燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は遅咲【おそざ】きながらも確【たし】かに燿【よう】いていた。",
+    "meaning": "Her talent, though late-blooming, shone steadily."
+  },
+  {
+    "sentence": "水晶の輝きが部屋を燿いた。",
+    "sentence_furigana": "水晶【すいしょう】の輝【かがや】きが部屋【へや】を燿【よう】いた。",
+    "meaning": "The crystal's brilliance illuminated the room."
+  },
+  {
+    "sentence": "彼の目は新しいアイデアで燿いていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は新【あたら】しいアイデアで燿【よう】いていた。",
+    "meaning": "His eyes shone with new ideas."
+  },
+  {
+    "sentence": "月の光が静かに海を燿いていた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が静【しず】かに海【うみ】を燿【よう】いていた。",
+    "meaning": "The moonlight shone gently on the sea."
+  },
+  {
+    "sentence": "彼の知性は議論の中で燿いていた。",
+    "sentence_furigana": "彼【かれ】の知性【ちせい】は議論【ぎろん】の中【なか】で燿【よう】いていた。",
+    "meaning": "His intelligence shone through the discussion."
+  },
+  {
+    "sentence": "花火が夜空を鮮やかに燿いた。",
+    "sentence_furigana": "花火【はなび】が夜空【よぞら】を鮮【あざ】やかに燿【よう】いた。",
+    "meaning": "Fireworks brightly illuminated the night sky."
+  },
+  {
+    "sentence": "その古いランプは今でも古風な輝きを燿いていた。",
+    "sentence_furigana": "その古【ふる】いランプは今【いま】でも古風【こふう】な輝【かがや】きを燿【よう】いていた。",
+    "meaning": "That old lamp still had an antique glow."
+  },
+  {
+    "sentence": "彼女の美しさは内面から燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の美【うつく】しさ【】は内面【ないめん】から燿【よう】いていた。",
+    "meaning": "Her beauty shone from within."
+  },
+  {
+    "sentence": "炎が舞い上がり、闇を燿いた。",
+    "sentence_furigana": "炎【ほのお】が舞【ま】い上【あ】がり、闇【やみ】を燿【よう】いた。",
+    "meaning": "Flames danced upwards, illuminating the darkness."
+  },
+  {
+    "sentence": "彼の言葉は人々の心を燿いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は人々【ひとびと】の心【こころ】を燿【よう】いた。",
+    "meaning": "His words enlightened people's hearts."
+  },
+  {
+    "sentence": "星々は天の川で美しく燿いていた。",
+    "sentence_furigana": "星々【ほしぼし】は天【てん】の川【かわ】で美【うつく】しく燿【よう】いていた。",
+    "meaning": "The stars shone beautifully in the Milky Way."
+  },
+  {
+    "sentence": "その洞窟は神秘的な光で燿いていた。",
+    "sentence_furigana": "その洞窟【どうくつ】は神秘的【しんぴてき】な光【ひかり】で燿【よう】いていた。",
+    "meaning": "The cave glowed with a mysterious light."
+  },
+  {
+    "sentence": "彼のリーダーシップはチームを燿いた。",
+    "sentence_furigana": "彼【かれ】のリーダーシップはチームを燿【よう】いた。",
+    "meaning": "His leadership inspired the team."
+  },
+  {
+    "sentence": "雪の結晶が太陽の光を浴びて燿いていた。",
+    "sentence_furigana": "雪【ゆき】の結晶【けっしょう】が太陽【たいよう】の光【ひかり】を浴【あ】びて燿【よう】いていた。",
+    "meaning": "Snow crystals shone, bathed in sunlight."
+  },
+  {
+    "sentence": "彼女の才能は舞台上で燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は舞台【ぶたい】上【うえ】で燿【よう】いた。",
+    "meaning": "Her talent shone on stage."
+  },
+  {
+    "sentence": "古い書物から知識が燿き出ていた。",
+    "sentence_furigana": "古【ふる】い書物【しょもつ】から知識【ちしき】が燿【かがや】き出【で】ていた。",
+    "meaning": "Knowledge emanated from the old books."
+  },
+  {
+    "sentence": "火花が夜の空に点々と燿いていた。",
+    "sentence_furigana": "火花【ひばな】が夜【よる】の空【そら】に点々【てんてん】と燿【よう】いていた。",
+    "meaning": "Sparks twinkled in the night sky."
+  },
+  {
+    "sentence": "彼の熱意はプロジェクト全体を燿いていた。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】はプロジェクト全体【ぜんたい】を燿【よう】いていた。",
+    "meaning": "His enthusiasm brightened the entire project."
+  },
+  {
+    "sentence": "水晶の玉がかすかに燿いていた。",
+    "sentence_furigana": "水晶【すいしょう】の玉【たま】がかすかに燿【よう】いていた。",
+    "meaning": "The crystal ball glowed faintly."
+  },
+  {
+    "sentence": "彼女の声は喜びで燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】は喜【よろこ】びで燿【よう】いていた。",
+    "meaning": "Her voice shone with joy."
+  },
+  {
+    "sentence": "星明かりが森を優しく燿いていた。",
+    "sentence_furigana": "星明【ほしあ】かりが森【もり】を優【やさ】しく燿【よう】いていた。",
+    "meaning": "Starlight softly illuminated the forest."
+  },
+  {
+    "sentence": "彼のユーモアは空気を和やかに燿いた。",
+    "sentence_furigana": "彼【かれ】のユーモアは空気【くうき】を和【なご】やかに燿【よう】いた。",
+    "meaning": "His humor lightened the atmosphere."
+  },
+  {
+    "sentence": "炎は暖かく、希望を燿いていた。",
+    "sentence_furigana": "炎【ほのお】は暖【あたた】かく、希望【きぼう】を燿【よう】いていた。",
+    "meaning": "The flames were warm and shone with hope."
+  },
+  {
+    "sentence": "その宝石は独特の光を燿いていた。",
+    "sentence_furigana": "その宝石【ほうせき】は独特【どくとく】の光【ひかり】を燿【よう】いていた。",
+    "meaning": "That gem had a unique glow."
+  },
+  {
+    "sentence": "彼の笑顔は周りの人を明るく燿いた。",
+    "sentence_furigana": "彼【かれ】の笑顔【えがお】は周【まわ】りの人【ひと】を明【あか】るく燿【よう】いた。",
+    "meaning": "His smile brightened the people around him."
+  },
+  {
+    "sentence": "月の光が水面にキラキラと燿いていた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が水面【すいめん】にキラキラと燿【よう】いていた。",
+    "meaning": "The moonlight sparkled on the water's surface."
+  },
+  {
+    "sentence": "彼の言葉には真実が燿いていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には真実【しんじつ】が燿【よう】いていた。",
+    "meaning": "Truth shone in his words."
+  },
+  {
+    "sentence": "ろうそくの灯りが部屋を優しく燿いていた。",
+    "sentence_furigana": "ろうそくの灯【あか】りが部屋【へや】を優【やさ】しく燿【よう】いていた。",
+    "meaning": "The candle's light softly illuminated the room."
+  },
+  {
+    "sentence": "彼女の才能は多くの賞賛で燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は多【おお】くの賞賛【しょうさん】で燿【よう】いていた。",
+    "meaning": "Her talent shone with much praise."
+  },
+  {
+    "sentence": "古代のシンボルは奇妙な光を燿いていた。",
+    "sentence_furigana": "古代【こだい】のシンボルは奇妙【きみょう】な光【ひかり】を燿【よう】いていた。",
+    "meaning": "The ancient symbol emanated a strange light."
+  },
+  {
+    "sentence": "彼の決意は困難の中で燿いていた。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】は困難【こんなん】の中【なか】で燿【よう】いていた。",
+    "meaning": "His determination shone amidst the difficulties."
+  },
+  {
+    "sentence": "朝露がきらめき、葉の上で燿いていた。",
+    "sentence_furigana": "朝露【あさつゆ】がきらめき、葉【は】の上【うえ】で燿【よう】いていた。",
+    "meaning": "Morning dew sparkled and shone on the leaves."
+  },
+  {
+    "sentence": "彼女の音楽は聴衆の心を燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の音楽【おんがく】は聴衆【ちょうしゅう】の心【こころ】を燿【よう】いた。",
+    "meaning": "Her music captivated the audience's hearts."
+  },
+  {
+    "sentence": "ダイヤモンドの輝きが彼女の指で燿いていた。",
+    "sentence_furigana": "ダイヤモンドの輝【かがや】きが彼女【かのじょ】の指【ゆび】で燿【よう】いていた。",
+    "meaning": "The diamond's sparkle shone on her finger."
+  },
+  {
+    "sentence": "彼の親切は周りを暖かく燿いた。",
+    "sentence_furigana": "彼【かれ】の親切【しんせつ】は周【まわ】りを暖【あたた】かく燿【よう】いた。",
+    "meaning": "His kindness warmly illuminated the surroundings."
+  },
+  {
+    "sentence": "星屑が夜空に散りばめられ、燿いていた。",
+    "sentence_furigana": "星屑【ほしくず】が夜空【よぞら】に散【ち】りばめられ、燿【よう】いていた。",
+    "meaning": "Stardust was scattered across the night sky, shining."
+  },
+  {
+    "sentence": "彼女の希望は困難な時でも燿き続けた。",
+    "sentence_furigana": "彼女【かのじょ】の希望【きぼう】は困難【こんなん】な時【とき】でも燿【かがや】き続【つづ】けた。",
+    "meaning": "Her hope continued to shine even in difficult times."
+  },
+  {
+    "sentence": "炎は炉の中で激しく燿いていた。",
+    "sentence_furigana": "炎【ほのお】は炉【ろ】の中【なか】で激【はげ】しく燿【よう】いていた。",
+    "meaning": "The flames burned fiercely in the furnace."
+  },
+  {
+    "sentence": "彼の知識は学術会議で燿いていた。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は学術会議【がくじゅつかいぎ】で燿【よう】いていた。",
+    "meaning": "His knowledge shone at the academic conference."
+  },
+  {
+    "sentence": "月の光が森の小道を優しく燿いた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が森【もり】の小道【こみち】を優【やさ】しく燿【よう】いた。",
+    "meaning": "The moonlight gently illuminated the forest path."
+  },
+  {
+    "sentence": "彼女の創造性はプロジェクトを燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の創造性【そうぞうせい】はプロジェクトを燿【よう】いた。",
+    "meaning": "Her creativity brightened the project."
+  },
+  {
+    "sentence": "古い教会のステンドグラスは美しく燿いていた。",
+    "sentence_furigana": "古【ふる】い教会【きょうかい】のステンドグラスは美【うつく】しく燿【よう】いていた。",
+    "meaning": "The old church's stained glass shone beautifully."
+  },
+  {
+    "sentence": "彼の笑顔は子供たちを喜びで燿かせた。",
+    "sentence_furigana": "彼【かれ】の笑顔【えがお】は子供【こども】たち【】を喜【よろこ】びで燿【かがや】かせた。",
+    "meaning": "His smile made the children shine with joy."
+  },
+  {
+    "sentence": "宝石の粉が光を受けて燿いていた。",
+    "sentence_furigana": "宝石【ほうせき】の粉【こな】が光【ひかり】を受【う】けて燿【よう】いていた。",
+    "meaning": "The gemstone powder shone, catching the light."
+  },
+  {
+    "sentence": "彼女の決断力は困難な状況を燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の決断力【けつだんりょく】は困難【こんなん】な状況【じょうきょう】を燿【よう】いた。",
+    "meaning": "Her decisiveness illuminated the difficult situation."
+  },
+  {
+    "sentence": "街のネオンが夜を明るく燿いていた。",
+    "sentence_furigana": "街【まち】のネオンが夜【よる】を明【あか】るく燿【よう】いていた。",
+    "meaning": "The city's neon lights brightly illuminated the night."
+  },
+  {
+    "sentence": "彼の歌声は魂から燿いていた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は魂【たましい】から燿【よう】いていた。",
+    "meaning": "His singing voice shone from his soul."
+  },
+  {
+    "sentence": "雪明かりが静かな夜を燿いていた。",
+    "sentence_furigana": "雪明【ゆきあ】かりが静【しず】かな夜【よる】を燿【よう】いていた。",
+    "meaning": "The snow light illuminated the quiet night."
+  },
+  {
+    "sentence": "彼女の努力は結果として燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】は結果【けっか】として燿【よう】いた。",
+    "meaning": "Her efforts shone as a result."
+  },
+  {
+    "sentence": "炎が踊り、暖かさを燿いていた。",
+    "sentence_furigana": "炎【ほのお】が踊【おど】り、暖【あたた】かさを燿【よう】いていた。",
+    "meaning": "The flames danced and radiated warmth."
+  },
+  {
+    "sentence": "彼の知識欲は学びに燿いていた。",
+    "sentence_furigana": "彼【かれ】の知識欲【ちしきよく】は学【まな】びに燿【よう】いていた。",
+    "meaning": "His thirst for knowledge shone in his learning."
+  },
+  {
+    "sentence": "月の光が水面で金色に燿いていた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が水面【すいめん】で金色【きんいろ】に燿【よう】いていた。",
+    "meaning": "The moonlight shone golden on the water's surface."
+  },
+  {
+    "sentence": "彼女のカリスマは会議を明るく燿いた。",
+    "sentence_furigana": "彼女【かのじょ】のカリスマは会議【かいぎ】を明【あか】るく燿【よう】いた。",
+    "meaning": "Her charisma brightened the meeting."
+  },
+  {
+    "sentence": "水晶のような輝きが暗闇を燿いていた。",
+    "sentence_furigana": "水晶【すいしょう】のような輝【かがや】きが暗闇【くらやみ】を燿【よう】いていた。",
+    "meaning": "A crystal-like brilliance illuminated the darkness."
+  },
+  {
+    "sentence": "彼の声援は選手たちの士気を燿いた。",
+    "sentence_furigana": "彼【かれ】の声援【せいえん】は選手【せんしゅ】たち【】の士気【しき】を燿【よう】いた。",
+    "meaning": "His cheers inspired the athletes' morale."
+  },
+  {
+    "sentence": "祭りの提灯が夜道を優しく燿いていた。",
+    "sentence_furigana": "祭【まつ】りの提灯【ちょうちん】が夜道【よみち】を優【やさ】しく燿【よう】いていた。",
+    "meaning": "The festival lanterns softly illuminated the night road."
+  },
+  {
+    "sentence": "彼女の知恵は皆を導き、燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の知恵【ちえ】は皆【みな】を導【みちび】き、燿【よう】いていた。",
+    "meaning": "Her wisdom guided everyone and shone."
+  },
+  {
+    "sentence": "ダイヤモンドの輝きは太陽に負けず劣らず燿いていた。",
+    "sentence_furigana": "ダイヤモンドの輝【かがや】きは太陽【たいよう】に負【ま】けず劣【おと】らず燿【よう】いていた。",
+    "meaning": "The diamond's sparkle rivaled the sun's brilliance."
+  },
+  {
+    "sentence": "彼の熱意は新しい挑戦を燿いた。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は新【あたら】しい挑戦【ちょうせん】を燿【よう】いた。",
+    "meaning": "His enthusiasm illuminated new challenges."
+  },
+  {
+    "sentence": "火花が飛び散り、闇夜に一瞬だけ燿いた。",
+    "sentence_furigana": "火花【ひばな】が飛【と】び散【ち】り、闇夜【やみよ】に一瞬【いっしゅん】だけ燿【よう】いた。",
+    "meaning": "Sparks flew and momentarily shone in the dark night."
+  },
+  {
+    "sentence": "彼女の芸術は見る者の心を燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の芸術【げいじゅつ】は見【み】る者【もの】の心【こころ】を燿【よう】いた。",
+    "meaning": "Her art captivated the hearts of its viewers."
+  },
+  {
+    "sentence": "星屑の光が夜空を優しく燿いていた。",
+    "sentence_furigana": "星屑【ほしくず】の光【ひかり】が夜空【よぞら】を優【やさ】しく燿【よう】いていた。",
+    "meaning": "The stardust softly illuminated the night sky."
+  },
+  {
+    "sentence": "彼の経験は若い世代に燿きを与えた。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は若【わか】い世代【せだい】に燿【かがや】きを与【あた】えた。",
+    "meaning": "His experience gave brilliance to the younger generation."
+  },
+  {
+    "sentence": "炎は燃え盛り、その場の全てを燿いていた。",
+    "sentence_furigana": "炎【ほのお】は燃【も】え盛【さか】り、その場【ば】の全て【すべて】を燿【よう】いていた。",
+    "meaning": "The flames blazed, illuminating everything around."
+  },
+  {
+    "sentence": "彼の声は励ましに満ちて燿いていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は励【はげ】ましに満【み】ちて燿【よう】いていた。",
+    "meaning": "His voice was full of encouragement and shone."
+  },
+  {
+    "sentence": "月の光が海面で銀色に燿いていた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が海面【かいめん】で銀色【ぎんいろ】に燿【よう】いていた。",
+    "meaning": "The moonlight shone silvery on the sea surface."
+  },
+  {
+    "sentence": "彼女の献身は多くの人々を感動させ、燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の献身【けんしん】は多【おお】くの人々【ひとびと】を感動【かんどう】させ、燿【よう】いた。",
+    "meaning": "Her dedication moved and inspired many people."
+  },
+  {
+    "sentence": "水晶の球体が淡く燿いていた。",
+    "sentence_furigana": "水晶【すいしょう】の球体【きゅうたい】が淡【あわ】く燿【よう】いていた。",
+    "meaning": "The crystal sphere glowed faintly."
+  },
+  {
+    "sentence": "彼の指導はチームに成功への道を燿いた。",
+    "sentence_furigana": "彼【かれ】の指導【しどう】はチームに成功【せいこう】への道【みち】を燿【よう】いた。",
+    "meaning": "His guidance illuminated the path to success for the team."
+  },
+  {
+    "sentence": "夜空の星々が宝石のように燿いていた。",
+    "sentence_furigana": "夜空【よぞら】の星々【ほしぼし】が宝石【ほうせき】のように燿【よう】いていた。",
+    "meaning": "The stars in the night sky shone like jewels."
+  },
+  {
+    "sentence": "彼女の笑顔は周りを明るく燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は周【まわ】りを明【あか】るく燿【よう】いていた。",
+    "meaning": "Her smile brightly illuminated the surroundings."
+  },
+  {
+    "sentence": "炎は希望の象徴として力強く燿いた。",
+    "sentence_furigana": "炎【ほのお】は希望【きぼう】の象徴【しょうちょう】として力強【ちからづよ】く燿【よう】いた。",
+    "meaning": "The flame burned strongly as a symbol of hope."
+  },
+  {
+    "sentence": "彼の言葉には深い洞察力が燿いていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には深【ふか】い洞察力【どうさつりょく】が燿【よう】いていた。",
+    "meaning": "Deep insight shone from his words."
+  },
+  {
+    "sentence": "月光が雪を白く燿いていた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が雪【ゆき】を白【しろ】く燿【よう】いていた。",
+    "meaning": "The moonlight shone white on the snow."
+  },
+  {
+    "sentence": "彼女の優しさは温かい光のように燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の優【やさ】しさは暖【あたた】かい光【ひかり】のように燿【よう】いていた。",
+    "meaning": "Her kindness shone like a warm light."
+  },
+  {
+    "sentence": "その時代の遺物が古びた輝きを燿いていた。",
+    "sentence_furigana": "その時代【じだい】の遺物【いぶつ】が古【ふる】びた輝【かがや】きを燿【よう】いていた。",
+    "meaning": "The relics of that era had an old glow."
+  },
+  {
+    "sentence": "彼の才能は才能ある者たちの間で燿いていた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は才能【さいのう】ある者【もの】たち【】の間【あいだ】で燿【よう】いていた。",
+    "meaning": "His talent shone among other talented individuals."
+  },
+  {
+    "sentence": "火花が職人の技から迸り、燿いていた。",
+    "sentence_furigana": "火花【ひばな】が職人【しょくにん】の技【わざ】から迸【ほとばし】り、燿【よう】いていた。",
+    "meaning": "Sparks flew from the craftsman's skill and shone."
+  },
+  {
+    "sentence": "彼女の音楽は聴く人の心に希望を燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の音楽【おんがく】は聞【き】く人【ひと】の心【こころ】に希望【きぼう】を燿【よう】いた。",
+    "meaning": "Her music brought hope to the listeners' hearts."
+  },
+  {
+    "sentence": "星屑が宇宙を静かに燿いていた。",
+    "sentence_furigana": "星屑【ほしくず】が宇宙【うちゅう】を静【しず】かに燿【よう】いていた。",
+    "meaning": "Stardust quietly illuminated the universe."
+  },
+  {
+    "sentence": "彼の決断は多くの問題を解決する道を燿いた。",
+    "sentence_furigana": "彼【かれ】の決断【けつだん】は多【おお】くの問題【もんだい】を解決【かいけつ】する道【みち】を燿【よう】いた。",
+    "meaning": "His decision illuminated the way to solve many problems."
+  },
+  {
+    "sentence": "彼女の瞳は好奇心でキラキラと燿いていた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は好奇心【こうきしん】でキラキラと燿【よう】いていた。",
+    "meaning": "Her eyes sparkled with curiosity."
+  },
+  {
+    "sentence": "水晶の光が洞窟の壁を淡く燿いていた。",
+    "sentence_furigana": "水晶【すいしょう】の光【ひかり】が洞窟【どうくつ】の壁【かべ】を淡【あわ】く燿【よう】いていた。",
+    "meaning": "Crystal light faintly illuminated the cave walls."
+  },
+  {
+    "sentence": "彼の言葉は真理の光を燿いていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真理【しんり】の光【ひかり】を燿【よう】いていた。",
+    "meaning": "His words shone with the light of truth."
+  },
+  {
+    "sentence": "炎は祭りの夜を鮮やかに燿いた。",
+    "sentence_furigana": "炎【ほのお】は祭【まつ】りの夜【よる】を鮮【あざ】やかに燿【よう】いた。",
+    "meaning": "The flames vividly illuminated the festival night."
+  },
+  {
+    "sentence": "彼女の才能は才能のない人々に希望を燿いた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は才能【さいのう】のない人々【ひとびと】に希望【きぼう】を燿【よう】いた。",
+    "meaning": "Her talent gave hope to those without it."
+  },
+  {
+    "sentence": "星の光が広大な宇宙を静かに燿いていた。",
+    "sentence_furigana": "星【ほし】の光【ひかり】が広大【こうだい】な宇宙【うちゅう】を静【しず】かに燿【よう】いていた。",
+    "meaning": "The starlight quietly illuminated the vast universe."
+  },
+  {
+    "sentence": "彼の哲学は多くの学生の知性を燿いた。",
+    "sentence_furigana": "彼【かれ】の哲学【てつがく】は多【おお】くの学生【がくせい】の知性【ちせい】を燿【よう】いた。",
+    "meaning": "His philosophy enlightened the intellect of many students."
+  }
+]

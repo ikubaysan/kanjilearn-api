@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "この県は美しい自然に恵まれています。",
+    "sentence_furigana": "この県【けん】は美しい【うつくしい】自然【しぜん】に恵【めぐ】まれています。",
+    "meaning": "This prefecture is blessed with beautiful nature."
+  },
+  {
+    "sentence": "彼は東京から大阪へ県をまたいで引っ越しました。",
+    "sentence_furigana": "彼【かれ】は東京【とうきょう】から大阪【おおさか】へ県【けん】をまたいで引っ越【ひっこ】しました。",
+    "meaning": "He moved from Tokyo to Osaka, crossing prefectures."
+  },
+  {
+    "sentence": "県庁所在地はどこですか？",
+    "sentence_furigana": "県庁所在地【けんちょうしょざいち】はどこですか？",
+    "meaning": "Where is the prefectural capital?"
+  },
+  {
+    "sentence": "新しい県議会議員が当選しました。",
+    "sentence_furigana": "新【あたら】しい県議会議員【けんぎかいぎいん】が当選【とうせん】しました。",
+    "meaning": "A new prefectural assembly member was elected."
+  },
+  {
+    "sentence": "この地域は私の生まれ育った県です。",
+    "sentence_furigana": "この地域【ちいき】は私【わたし】の生【う】まれ育【そだ】った県【けん】です。",
+    "meaning": "This region is the prefecture where I was born and raised."
+  },
+  {
+    "sentence": "県民の日を祝して、多くのイベントが開催されました。",
+    "sentence_furigana": "県民【けんみん】の日【ひ】を祝【いわ】して、多【おお】くのイベントが開催【かいさい】されました。",
+    "meaning": "Many events were held to celebrate Prefecture Citizen's Day."
+  },
+  {
+    "sentence": "県外からの観光客が多く訪れています。",
+    "sentence_furigana": "県外【けんがい】からの観光客【かんこうきゃく】が多【おお】く訪【おとず】れています。",
+    "meaning": "Many tourists from outside the prefecture are visiting."
+  },
+  {
+    "sentence": "県境を越えると、気候が少し変わります。",
+    "sentence_furigana": "県境【けんざかい】を越【こ】えると、気候【きこう】が少【すこ】し変【か】わります。",
+    "meaning": "When you cross the prefectural border, the climate changes slightly."
+  },
+  {
+    "sentence": "この県は農業が盛んです。",
+    "sentence_furigana": "この県【けん】は農業【のうぎょう】が盛【さか】んです。",
+    "meaning": "Agriculture is thriving in this prefecture."
+  },
+  {
+    "sentence": "県は新しい産業を誘致しようとしています。",
+    "sentence_furigana": "県【けん】は新【あたら】しい産業【さんぎょう】を誘致【ゆうち】しようとしています。",
+    "meaning": "The prefecture is trying to attract new industries."
+  },
+  {
+    "sentence": "県立図書館は駅から徒歩5分です。",
+    "sentence_furigana": "県立図書館【けんりつとしょかん】は駅【えき】から徒歩【とほ】5分【ふん】です。",
+    "meaning": "The prefectural library is a 5-minute walk from the station."
+  },
+  {
+    "sentence": "県はインフラ整備に力を入れています。",
+    "sentence_furigana": "県【けん】はインフラ整備【せいび】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on infrastructure development."
+  },
+  {
+    "sentence": "この件について、県に問い合わせました。",
+    "sentence_furigana": "この件【けん】について、県【けん】に問【と】い合【あ】わせました。",
+    "meaning": "I inquired with the prefecture about this matter."
+  },
+  {
+    "sentence": "彼は県知事の講演を聞きに行きました。",
+    "sentence_furigana": "彼【かれ】は県知事【けんちじ】の講演【こうえん】を聞【き】きに行【い】きました。",
+    "meaning": "He went to listen to the governor's lecture."
+  },
+  {
+    "sentence": "県議会は年に数回開かれます。",
+    "sentence_furigana": "県議会【けんぎかい】は年【ねん】に数回【すうかい】開【ひら】かれます。",
+    "meaning": "The prefectural assembly meets several times a year."
+  },
+  {
+    "sentence": "新しい県のキャラクターが人気を集めています。",
+    "sentence_furigana": "新【あたら】しい県【けん】のキャラクターが人気【にんき】を集【あつ】めています。",
+    "meaning": "The new prefectural character is gaining popularity."
+  },
+  {
+    "sentence": "県外の大学に進学する予定です。",
+    "sentence_furigana": "県外【けんがい】の大学【だいがく】に進学【しんがく】する予定【よてい】です。",
+    "meaning": "I plan to go to a university outside the prefecture."
+  },
+  {
+    "sentence": "県は災害対策に万全を期しています。",
+    "sentence_furigana": "県【けん】は災害対策【さいがいたいさく】に万全【ばんぜん】を期【き】しています。",
+    "meaning": "The prefecture is making thorough preparations for disaster countermeasures."
+  },
+  {
+    "sentence": "県民の安全を守ることが県の最優先事項です。",
+    "sentence_furigana": "県民【けんみん】の安全【あんぜん】を守【まも】ることが県【けん】の最優先事項【さいゆうせんじこう】です。",
+    "meaning": "Protecting the safety of prefectural residents is the prefecture's top priority."
+  },
+  {
+    "sentence": "県は独自の観光資源をアピールしています。",
+    "sentence_furigana": "県【けん】は独自【どくじ】の観光資源【かんこうしげん】をアピールしています。",
+    "meaning": "The prefecture is promoting its unique tourism resources."
+  },
+  {
+    "sentence": "この件は県議会の承認が必要です。",
+    "sentence_furigana": "この件【けん】は県議会【けんぎかい】の承認【しょうにん】が必要【ひつよう】です。",
+    "meaning": "This matter requires the approval of the prefectural assembly."
+  },
+  {
+    "sentence": "県立高校の文化祭が開催されます。",
+    "sentence_furigana": "県立高校【けんりつこうこう】の文化祭【ぶんかさい】が開催【かいさい】されます。",
+    "meaning": "The prefectural high school's cultural festival will be held."
+  },
+  {
+    "sentence": "県は子育て支援に力を入れています。",
+    "sentence_furigana": "県【けん】は子育【こそだ】て支援【しえん】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on childcare support."
+  },
+  {
+    "sentence": "県は地域経済の活性化を目指しています。",
+    "sentence_furigana": "県【けん】は地域経済【ちいきけいざい】の活性化【かっせいか】を目指【めざ】しています。",
+    "meaning": "The prefecture aims to revitalize the local economy."
+  },
+  {
+    "sentence": "県が主催するイベントに参加しました。",
+    "sentence_furigana": "県【けん】が主催【しゅさい】するイベントに参加【さんか】しました。",
+    "meaning": "I participated in an event sponsored by the prefecture."
+  },
+  {
+    "sentence": "県民の意見を広く聞く会が開かれました。",
+    "sentence_furigana": "県民【けんみん】の意見【いけん】を広【ひろ】く聞【き】く会【かい】が開【ひら】かれました。",
+    "meaning": "A meeting was held to widely hear the opinions of the prefectural residents."
+  },
+  {
+    "sentence": "県立美術館で特別展が開催中です。",
+    "sentence_furigana": "県立美術館【けんりつびじゅつかん】で特別展【とくべつてん】が開催中【かいさいちゅう】です。",
+    "meaning": "A special exhibition is being held at the prefectural art museum."
+  },
+  {
+    "sentence": "この県には温泉地がたくさんあります。",
+    "sentence_furigana": "この県【けん】には温泉地【おんせんち】がたくさんあります。",
+    "meaning": "There are many hot spring resorts in this prefecture."
+  },
+  {
+    "sentence": "県は新しい学校の建設を計画しています。",
+    "sentence_furigana": "県【けん】は新【あたら】しい学校【がっこう】の建設【けんせつ】を計画【けいかく】しています。",
+    "meaning": "The prefecture is planning the construction of a new school."
+  },
+  {
+    "sentence": "県内の多くの企業がこのプロジェクトに参加しています。",
+    "sentence_furigana": "県内【けんない】の多【おお】くの企業【きぎょう】がこのプロジェクトに参加【さんか】しています。",
+    "meaning": "Many companies within the prefecture are participating in this project."
+  },
+  {
+    "sentence": "県は環境保全に力を入れています。",
+    "sentence_furigana": "県【けん】は環境保全【かんきょうほぜん】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on environmental conservation."
+  },
+  {
+    "sentence": "県を代表する有名な観光スポットです。",
+    "sentence_furigana": "県【けん】を代表【だいひょう】する有名【ゆうめい】な観光スポットです。",
+    "meaning": "This is a famous tourist spot representing the prefecture."
+  },
+  {
+    "sentence": "県庁の見学ツアーに参加したいです。",
+    "sentence_furigana": "県庁【けんちょう】の見学ツアーに参加【さんか】したいです。",
+    "meaning": "I want to participate in a tour of the prefectural office."
+  },
+  {
+    "sentence": "県は若者の定住促進に取り組んでいます。",
+    "sentence_furigana": "県【けん】は若者【わかもの】の定住促進【ていじゅうそくしん】に取り組【とりく】んでいます。",
+    "meaning": "The prefecture is working on promoting the settlement of young people."
+  },
+  {
+    "sentence": "県民投票の結果が発表されました。",
+    "sentence_furigana": "県民投票【けんみんとうひょう】の結果【けっか】が発表【はっぴょう】されました。",
+    "meaning": "The results of the prefectural referendum were announced."
+  },
+  {
+    "sentence": "県は歴史的な建造物を保存しています。",
+    "sentence_furigana": "県【けん】は歴史的【れきしてき】な建造物【けんぞうぶつ】を保存【ほぞん】しています。",
+    "meaning": "The prefecture preserves historical buildings."
+  },
+  {
+    "sentence": "この件については、県の担当者に確認してください。",
+    "sentence_furigana": "この件【けん】については、県【けん】の担当者【たんとうしゃ】に確認【かくにん】してください。",
+    "meaning": "Regarding this matter, please confirm with the person in charge at the prefecture."
+  },
+  {
+    "sentence": "県議会の議員が視察に訪れました。",
+    "sentence_furigana": "県議会【けんぎかい】の議員【ぎいん】が視察【しさつ】に訪【おとず】れました。",
+    "meaning": "Members of the prefectural assembly visited for an inspection."
+  },
+  {
+    "sentence": "県立博物館で郷土の歴史を学びました。",
+    "sentence_furigana": "県立博物館【けんりつはくぶつかん】で郷土【きょうど】の歴史【れきし】を学【まな】びました。",
+    "meaning": "I learned about the history of the region at the prefectural museum."
+  },
+  {
+    "sentence": "県は国際交流を推進しています。",
+    "sentence_furigana": "県【けん】は国際交流【こくさいこうりゅう】を推進【すいしん】しています。",
+    "meaning": "The prefecture promotes international exchange."
+  },
+  {
+    "sentence": "県外ナンバーの車が多く見られます。",
+    "sentence_furigana": "県外【けんがい】ナンバーの車【くるま】が多【おお】く見【み】られます。",
+    "meaning": "Many cars with license plates from outside the prefecture are seen."
+  },
+  {
+    "sentence": "県は新しい観光ルートの開発を進めています。",
+    "sentence_furigana": "県【けん】は新【あたら】しい観光ルートの開発【かいはつ】を進【すす】めています。",
+    "meaning": "The prefecture is proceeding with the development of new tourist routes."
+  },
+  {
+    "sentence": "県民の生活向上に貢献する事業を行います。",
+    "sentence_furigana": "県民【けんみん】の生活向上【せいかつこうじょう】に貢献【こうけん】する事業【じぎょう】を行います。",
+    "meaning": "We will carry out projects that contribute to the improvement of prefectural residents' lives."
+  },
+  {
+    "sentence": "県は地域医療の充実を図っています。",
+    "sentence_furigana": "県【けん】は地域医療【ちい Иきいりょう】の充実【じゅうじつ】を図【はか】っています。",
+    "meaning": "The prefecture is working to enhance local healthcare."
+  },
+  {
+    "sentence": "この件に関する情報は県庁で入手できます。",
+    "sentence_furigana": "この件【けん】に関する情報【じょうほう】は県庁【けんちょう】で入手【にゅうしゅ】できます。",
+    "meaning": "Information regarding this matter can be obtained at the prefectural office."
+  },
+  {
+    "sentence": "県は文化財保護に力を入れています。",
+    "sentence_furigana": "県【けん】は文化財保護【ぶんかざいほご】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on the protection of cultural properties."
+  },
+  {
+    "sentence": "県立高校の卒業式が行われました。",
+    "sentence_furigana": "県立高校【けんりつこうこう】の卒業式【そつぎょうしき】が行【おこな】われました。",
+    "meaning": "The graduation ceremony of the prefectural high school was held."
+  },
+  {
+    "sentence": "県は新たな魅力ある地域づくりを目指しています。",
+    "sentence_furigana": "県【けん】は新【あら】たな魅力【みりょく】ある地域【ちいき】づくりを目指【めざ】しています。",
+    "meaning": "The prefecture aims to create new attractive regions."
+  },
+  {
+    "sentence": "県議会は重要な政策について議論しました。",
+    "sentence_furigana": "県議会【けんぎかい】は重要【じゅうよう】な政策【せいさく】について議論【ぎろん】しました。",
+    "meaning": "The prefectural assembly discussed important policies."
+  },
+  {
+    "sentence": "県外からの移住者を歓迎しています。",
+    "sentence_furigana": "県外【けんがい】からの移住者【いじゅうしゃ】を歓迎【かんげい】しています。",
+    "meaning": "We welcome people who move in from outside the prefecture."
+  },
+  {
+    "sentence": "県は観光振興計画を策定しました。",
+    "sentence_furigana": "県【けん】は観光振興計画【かんこうしんこうけいかく】を策定【さくてい】しました。",
+    "meaning": "The prefecture formulated a tourism promotion plan."
+  },
+  {
+    "sentence": "県民の福祉向上を目指した事業を展開しています。",
+    "sentence_furigana": "県民【けんみん】の福祉向上【ふくしこうじょう】を目指【めざ】した事業【じぎょう】を展開【てんかい】しています。",
+    "meaning": "We are developing projects aimed at improving the welfare of prefectural residents."
+  },
+  {
+    "sentence": "県は再生可能エネルギーの導入を推進しています。",
+    "sentence_furigana": "県【けん】は再生可能エネルギー【さいせいかのう】の導入【どうにゅう】を推進【すいしん】しています。",
+    "meaning": "The prefecture is promoting the introduction of renewable energy."
+  },
+  {
+    "sentence": "県立公園でピクニックを楽しみました。",
+    "sentence_furigana": "県立公園【けんりつこうえん】でピクニックを楽【たの】しみま��した。",
+    "meaning": "I enjoyed a picnic at the prefectural park."
+  },
+  {
+    "sentence": "県は新たな産業集積地を整備する計画です。",
+    "sentence_furigana": "県【けん】は新【あら】たな産業集積地【さんぎょうしゅうせきち】を整備【せいび】する計画【けいかく】です。",
+    "meaning": "The prefecture plans to develop a new industrial cluster."
+  },
+  {
+    "sentence": "県境の山々が美しくそびえています。",
+    "sentence_furigana": "県境【けんざかい】の山々【やまやま】が美【うつく】しくそびえています。",
+    "meaning": "The mountains on the prefectural border rise beautifully."
+  },
+  {
+    "sentence": "県は文化・芸術の振興に力を入れています。",
+    "sentence_furigana": "県【けん】は文化・芸術【ぶんか・げいじゅつ】の振興【しんこう】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on the promotion of culture and arts."
+  },
+  {
+    "sentence": "県民センターで講習会が開かれます。",
+    "sentence_furigana": "県民センター【けんみん】で講習会【こうしゅうかい】が開【ひら】かれます。",
+    "meaning": "A workshop will be held at the Prefectural Citizen's Center."
+  },
+  {
+    "sentence": "県は地域資源を活用した特産品開発を支援しています。",
+    "sentence_furigana": "県【けん】は地域資源【ちいきしげん】を活用【かつよう】した特産品開発【とくさんひんかいはつ】を支援【しえん】しています。",
+    "meaning": "The prefecture supports the development of local specialties utilizing regional resources."
+  },
+  {
+    "sentence": "県立高校の入試日程が発表されました。",
+    "sentence_furigana": "県立高校【けんりつこうこう】の入試日程【にゅうしにってい】が発表【はっぴょう】されました。",
+    "meaning": "The entrance examination schedule for prefectural high schools was announced."
+  },
+  {
+    "sentence": "県は交通網の整備に力を入れています。",
+    "sentence_furigana": "県【けん】は交通網【こうつうもう】の整備【せいび】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on the development of transportation networks."
+  },
+  {
+    "sentence": "県を代表する祭りについて教えてください。",
+    "sentence_furigana": "県【けん】を代表【だいひょう】する祭【まつ】りについて教【おし】えてください。",
+    "meaning": "Please tell me about the festival that represents the prefecture."
+  },
+  {
+    "sentence": "この件は県知事の裁量に委ねられています。",
+    "sentence_furigana": "この件【けん】は県知事【けんちじ】の裁量【さいりょう】に委【ゆだ】ねられています。",
+    "meaning": "This matter is left to the discretion of the prefectural governor."
+  },
+  {
+    "sentence": "県は新たな雇用機会を創出することを目指しています。",
+    "sentence_furigana": "県【けん】は新【あら】たな雇用機会【こようきかい】を創出【そうしゅつ】することを目指【めざ】しています。",
+    "meaning": "The prefecture aims to create new employment opportunities."
+  },
+  {
+    "sentence": "県立大学の学園祭が開催されます。",
+    "sentence_furigana": "県立大学【けんりつだいがく】の学園祭【がくえんさい】が開催【かいさい】されます。",
+    "meaning": "The prefectural university's school festival will be held."
+  },
+  {
+    "sentence": "県は伝統工芸品の保存と活用を進めています。",
+    "sentence_furigana": "県【けん】は伝統工芸品【でんとうこうげいひん】の保存【ほぞん】と活用【かつよう】を進【すす】めています。",
+    "meaning": "The prefecture is promoting the preservation and utilization of traditional crafts."
+  },
+  {
+    "sentence": "県民の健康増進に貢献する活動を行っています。",
+    "sentence_furigana": "県民【けんみん】の健康増進【けんこうぞうしん】に貢献【こうけん】する活動【かつどう】を行【おこな】っています。",
+    "meaning": "We are carrying out activities that contribute to the improvement of prefectural residents' health."
+  },
+  {
+    "sentence": "県境の町にも多くの見どころがあります。",
+    "sentence_furigana": "県境【けんざかい】の町【まち】にも多【おお】くの見どころがあります。",
+    "meaning": "There are many points of interest in the towns on the prefectural border as well."
+  },
+  {
+    "sentence": "県は産業観光の推進に力を入れています。",
+    "sentence_furigana": "県【けん】は産業観光【さんぎょうかんこう】の推進【すいしん】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on promoting industrial tourism."
+  },
+  {
+    "sentence": "県は子どもの権利を守るための条例を制定しました。",
+    "sentence_furigana": "県【けん】は子【こ】どもの権利【けんり】を守【まも】るための条例【じょうれい】を制定【せいテイ】しました。",
+    "meaning": "The prefecture enacted an ordinance to protect children's rights."
+  },
+  {
+    "sentence": "県立公園の桜が満開です。",
+    "sentence_furigana": "県立公園【けんりつこうえん】の桜【さくら】が満開【まんかい】です。",
+    "meaning": "The cherry blossoms in the prefectural park are in full bloom."
+  },
+  {
+    "sentence": "県はユニバーサルデザインの導入を推進しています。",
+    "sentence_furigana": "県【けん】はユニバーサルデザインの導入【どうにゅう】を推進【すいしん】しています。",
+    "meaning": "The prefecture is promoting the introduction of universal design."
+  },
+  {
+    "sentence": "県民からの意見を反映した政策を進めます。",
+    "sentence_furigana": "県民【けんみん】からの意見【いけん】を反映【はんえい】した政策【せいさく】を進【すす】めます。",
+    "meaning": "We will advance policies that reflect the opinions of prefectural residents."
+  },
+  {
+    "sentence": "県はICT教育の推進に力を入れています。",
+    "sentence_furigana": "県【けん】はICT教育【いくてぃーしーきょういく】の推進【すいしん】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on promoting ICT education."
+  },
+  {
+    "sentence": "この件は県議会の承認なしには進められません。",
+    "sentence_furigana": "この件【けん】は県議会【けんぎかい】の承認【しょうにん】なしには進【すす】められません。",
+    "meaning": "This matter cannot proceed without the approval of the prefectural assembly."
+  },
+  {
+    "sentence": "県立高校の生徒たちがボランティア活動を行いました。",
+    "sentence_furigana": "県立高校【けんりつこうこう】の生徒【せいと】たちがボランティア活動【かつどう】を行【おこな】いました。",
+    "meaning": "Students from the prefectural high school participated in volunteer activities."
+  },
+  {
+    "sentence": "県は地域の活性化のために様々な事業を行っています。",
+    "sentence_furigana": "県【けん】は地域【ちいき】の活性化【かっせいか】のために様々【さまざま】な事業【じぎょう】を行【おこな】っています。",
+    "meaning": "The prefecture is undertaking various projects for regional revitalization."
+  },
+  {
+    "sentence": "県は企業誘致に力を入れています。",
+    "sentence_furigana": "県【けん】は企業誘致【きぎょうゆうち】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on attracting businesses."
+  },
+  {
+    "sentence": "県境の峠を越えて向こうの町へ行きました。",
+    "sentence_furigana": "県境【けんざかい】の峠【とうげ】を越【こ】えて向【む】こうの町【まち】へ行【い】きました。",
+    "meaning": "I crossed the mountain pass on the prefectural border and went to the town on the other side."
+  },
+  {
+    "sentence": "県は子どもの貧困対策に取り組んでいます。",
+    "sentence_furigana": "県【けん】は子【こ】どもの貧困対策【ひんこんたいさく】に取り組【とりく】んでいます。",
+    "meaning": "The prefecture is working on measures to address child poverty."
+  },
+  {
+    "sentence": "県民一人ひとりの意見を大切にしています。",
+    "sentence_furigana": "県民【けんみん】一人ひとり【ひとりひとり】の意見【いけん】を大切【たいせつ】にしています。",
+    "meaning": "We value the opinions of each prefectural resident."
+  },
+  {
+    "sentence": "県立図書館で郷土資料の展示が行われています。",
+    "sentence_furigana": "県立図書館【けんりつとしょかん】で郷土資料【きょうどしりょう】の展示【てんじ】が行【おこな】われています。",
+    "meaning": "An exhibition of local historical materials is being held at the prefectural library."
+  },
+  {
+    "sentence": "県は国際的なイベントの開催を支援しています。",
+    "sentence_furigana": "県【けん】は国際的【こくさいてき】なイベントの開催【かいさい】を支援【しえん】しています。",
+    "meaning": "The prefecture supports the holding of international events."
+  },
+  {
+    "sentence": "県は高齢者の生活支援に力を入れています。",
+    "sentence_furigana": "県【けん】は高齢者【こうれいしゃ】の生活支援【せいかつしえん】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on supporting the lives of the elderly."
+  },
+  {
+    "sentence": "県境付近の農産物が有名です。",
+    "sentence_furigana": "県境【けんざかい】付近【ふきん】の農産物【のうさんぶつ】が有名【ゆうめい】です。",
+    "meaning": "Agricultural products near the prefectural border are famous."
+  },
+  {
+    "sentence": "県は環境問題への意識向上を図っています。",
+    "sentence_furigana": "県【けん】は環境問題【かんきょうもんだい】への意識向上【いしきこうじょう】を図【はか】っています。",
+    "meaning": "The prefecture is working to raise awareness of environmental issues."
+  },
+  {
+    "sentence": "県は中小企業の振興に力を入れています。",
+    "sentence_furigana": "県【けん】は中小企業【ちゅうしょうきぎょう】の振興【しんこう】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on the promotion of small and medium-sized enterprises."
+  },
+  {
+    "sentence": "県立高校の運動会が盛大に行われました。",
+    "sentence_furigana": "県立高校【けんりつこうこう】の運動会【うんどうかい】が盛大【せいだい】に行【おこな】われました。",
+    "meaning": "The prefectural high school's sports day was held on a grand scale."
+  },
+  {
+    "sentence": "県は魅力ある観光地の開発を進めています。",
+    "sentence_furigana": "県【けん】は魅力【みりょく】ある観光地【かんこうち】の開発【かいはつ】を進【すす】めています。",
+    "meaning": "The prefecture is proceeding with the development of attractive tourist destinations."
+  },
+  {
+    "sentence": "県民の安全を守るため、パトロールを強化しています。",
+    "sentence_furigana": "県民【けんみん】の安全【あんぜん】を守【まも】るため、パトロールを強化【きょうか】しています。",
+    "meaning": "To protect the safety of prefectural residents, patrols are being intensified."
+  },
+  {
+    "sentence": "県は地域防災力の向上に取り組んでいます。",
+    "sentence_furigana": "県【けん】は地域防災力【ちいきぼうさいりょく】の向上【こうじょう】に取り組【とりく】んでいます。",
+    "meaning": "The prefecture is working to improve regional disaster preparedness."
+  },
+  {
+    "sentence": "県立博物館の展示品はどれも興味深いです。",
+    "sentence_furigana": "県立博物館【けんりつはくぶつかん】の展示品【てんじひん】はどれも興味深【きょうみぶか】いです。",
+    "meaning": "All the exhibits at the prefectural museum are interesting."
+  },
+  {
+    "sentence": "県はスポーツ振興に力を入れています。",
+    "sentence_furigana": "県【けん】はスポーツ振興【しんこう】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on sports promotion."
+  },
+  {
+    "sentence": "県は地域間の交流を促進しています。",
+    "sentence_furigana": "県【けん】は地域間【ちいきかん】の交流【こうりゅう】を促進【そくしん】しています。",
+    "meaning": "The prefecture promotes exchange between regions."
+  },
+  {
+    "sentence": "県は新たな観光資源の発掘に努めています。",
+    "sentence_furigana": "県【けん】は新【あら】たな観光資源【かんこうしげん】の発掘【はっくつ】に努【つと】めています。",
+    "meaning": "The prefecture is striving to discover new tourism resources."
+  },
+  {
+    "sentence": "県民の生活を豊かにする政策を進めていきます。",
+    "sentence_furigana": "県民【けんみん】の生活【せいかつ】を豊【ゆた】かにする政策【せいさく】を進【すす】めていきます。",
+    "meaning": "We will advance policies that enrich the lives of prefectural residents."
+  },
+  {
+    "sentence": "県は高齢者の社会参加を促進しています。",
+    "sentence_furigana": "県【けん】は高齢者【こうれいしゃ】の社会参加【しゃかいさんか】を促進【そくしん】しています。",
+    "meaning": "The prefecture promotes social participation of the elderly."
+  },
+  {
+    "sentence": "県立高校の進路相談会が開催されました。",
+    "sentence_furigana": "県立高校【けんりつこうこう】の進路相談会【しんろそうだんかい】が開催【かいさい】されました。",
+    "meaning": "A career counseling session for prefectural high school students was held."
+  },
+  {
+    "sentence": "県は地域ブランドの育成に力を入れています。",
+    "sentence_furigana": "県【けん】は地域ブランド【ちいき】の育成【いくせい】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on fostering regional brands."
+  },
+  {
+    "sentence": "県境の村には古くからの伝承が残っています。",
+    "sentence_furigana": "県境【けんざかい】の村【むら】には古【ふる】くからの伝承【でんしょう】が残【のこ】っています。",
+    "meaning": "Ancient traditions remain in the village on the prefectural border."
+  },
+  {
+    "sentence": "県は新たな特産品の開発を支援する補助金制度を設けています。",
+    "sentence_furigana": "県【けん】は新【あら】たな特産品【とくさんひん】の開発【かいはつ】を支援【しえん】する補助金制度【ほじょきんせいど】を設【もう】けています。",
+    "meaning": "The prefecture has established a subsidy system to support the development of new local specialties."
+  },
+  {
+    "sentence": "県は地域活性化のためのイベントを企画しています。",
+    "sentence_furigana": "県【けん】は地域活性化【ちいきかっせいか】のためのイベントを企画【きかく】しています。",
+    "meaning": "The prefecture is planning an event for regional revitalization."
+  },
+  {
+    "sentence": "県立公園では、四季折々の自然を楽しむことができます。",
+    "sentence_furigana": "県立公園【けんりつこうえん】では、四季折々【しきおりおり】の自然【しぜん】を楽【たの】しむことができます。",
+    "meaning": "You can enjoy the seasonal nature at the prefectural park."
+  },
+  {
+    "sentence": "県は多文化共生社会の実現を目指しています。",
+    "sentence_furigana": "県【けん】は多文化共生社会【たぶんかきょうせいしゃかい】の実現【じつげん】を目指【めざ】しています。",
+    "meaning": "The prefecture aims to realize a multicultural society."
+  },
+  {
+    "sentence": "県は地域産業の振興に力を入れています。",
+    "sentence_furigana": "県【けん】は地域産業【ちいきさんぎょう】の振興【しんこう】に力【ちから】を入【い】れています。",
+    "meaning": "The prefecture is focusing on the promotion of local industries."
+  },
+  {
+    "sentence": "県民一人ひとりの声を聞き、政策に反映させます。",
+    "sentence_furigana": "県民【けんみん】一人ひとり【ひとりひとり】の声【こえ】を聞【き】き、政策【せいさく】に反映【はんえい】させます。",
+    "meaning": "We listen to the voices of each prefectural resident and reflect them in policy."
+  },
+  {
+    "sentence": "県は魅力ある景観の保全に努めています。",
+    "sentence_furigana": "県【けん】は魅力【みりょく】ある景観【けいかん】の保全【ほぜん】に努【つと】めています。",
+    "meaning": "The prefecture is working to preserve attractive landscapes."
+  },
+  {
+    "sentence": "県立高校では、地域貢献活動に力を入れています。",
+    "sentence_furigana": "県立高校【けんりつこうこう】では、地域貢献活動【ちいきこうけんかつどう】に力【ちから】を入【い】れています。",
+    "meaning": "Prefectural high schools are focusing on community contribution activities."
+  },
+  {
+    "sentence": "県は国際的な視野を持った人材育成を目指しています。",
+    "sentence_furigana": "県【けん】は国際的【こくさいてき】な視野【しや】を持【も】った人材育成【じんざいいくせい】を目指【めざ】しています。",
+    "meaning": "The prefecture aims to foster human resources with an international perspective."
+  }
+]

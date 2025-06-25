@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼は多額の債務を抱えている。",
+    "sentence_furigana": "彼【かれ】は多額【たがく】の債務【さいむ】を抱【かか】えている。",
+    "meaning": "He is burdened with a large amount of debt."
+  },
+  {
+    "sentence": "国は国債を発行して資金を調達する。",
+    "sentence_furigana": "国【くに】は国債【こくさい】を発行【はっこう】して資金【しきん】を調達【ちょうたつ】する。",
+    "meaning": "The country raises funds by issuing government bonds."
+  },
+  {
+    "sentence": "この債券は利回りが高い。",
+    "sentence_furigana": "この債券【さいけん】は利回【りまわ】りが高【たか】い。",
+    "meaning": "This bond has a high yield."
+  },
+  {
+    "sentence": "彼女は借金を返済するために一生懸命働いている。",
+    "sentence_furigana": "彼女【かのじょ】は借金【しゃっきん】を返済【へんさい】するために一生懸命【いっしょうけんめい】働【はたら】いている。",
+    "meaning": "She is working hard to repay her debt."
+  },
+  {
+    "sentence": "債務不履行のリスクを考慮する必要がある。",
+    "sentence_furigana": "債務不履行【さいむふりこう】のリスクを考慮【こうりょ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to consider the risk of default."
+  },
+  {
+    "sentence": "個人が抱える債務は年々増加している。",
+    "sentence_furigana": "個人【こじん】が抱【かか】える債務【さいむ】は年々【ねんねん】増加【ぞうか】している。",
+    "meaning": "Personal debt is increasing year by year."
+  },
+  {
+    "sentence": "政府は財政赤字を削減するために国債発行を抑制している。",
+    "sentence_furigana": "政府【せいふ】は財政赤字【ざいせきあかじ】を削減【さくげん】するために国債発行【こくさいはっこう】を抑制【よくせい】している。",
+    "meaning": "The government is curbing bond issuance to reduce the fiscal deficit."
+  },
+  {
+    "sentence": "彼は友人に借金を頼んだ。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】に借金【しゃっきん】を頼【たの】んだ。",
+    "meaning": "He asked his friend for a loan."
+  },
+  {
+    "sentence": "この会社は債権者に返済を約束した。",
+    "sentence_furigana": "この会社【かいしゃ】は債権者【さいけんしゃ】に返済【へんさい】を約束【やくそく】した。",
+    "meaning": "This company promised repayment to its creditors."
+  },
+  {
+    "sentence": "借金による債務超過は危険な状態だ。",
+    "sentence_furigana": "借金【しゃっきん】による債務超過【さいむちょうか】は危険【きけん】な状態【じょうたい】だ。",
+    "meaning": "Excess debt due to borrowing is a dangerous situation."
+  },
+  {
+    "sentence": "彼は債務整理のために弁護士に相談した。",
+    "sentence_furigana": "彼【かれ】は債務整理【さいむせいり】のために弁護士【べんごし】に相談【そうだん】した。",
+    "meaning": "He consulted a lawyer for debt consolidation."
+  },
+  {
+    "sentence": "企業の債務管理は重要だ。",
+    "sentence_furigana": "企業【きぎょう】の債務管理【さいむかんり】は重要【じゅうよう】だ。",
+    "meaning": "Corporate debt management is important."
+  },
+  {
+    "sentence": "彼は債券投資で大きな利益を得た。",
+    "sentence_furigana": "彼【かれ】は債券投資【さいけんとうし】で大【おお】きな利益【りえき】を得【え】た。",
+    "meaning": "He made a large profit from bond investment."
+  },
+  {
+    "sentence": "多重債務に陥らないように注意する必要がある。",
+    "sentence_furigana": "多重債務【たじゅうさいむ】に陥【おちい】らないように注意【ちゅうい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to be careful not to fall into multiple debts."
+  },
+  {
+    "sentence": "この国は巨額の債務を抱えている。",
+    "sentence_furigana": "この国【くに】は巨額【きょがく】の債務【さいむ】を抱【かか】えている。",
+    "meaning": "This country is burdened with enormous debt."
+  },
+  {
+    "sentence": "彼は住宅ローンという大きな債務がある。",
+    "sentence_furigana": "彼【かれ】は住宅ローンという大【おお】きな債務【さいむ】がある。",
+    "meaning": "He has a large debt called a mortgage."
+  },
+  {
+    "sentence": "債務者からの返済を待っている。",
+    "sentence_furigana": "債務者【さいむしゃ】からの返済【へんさい】を待【ま】っている。",
+    "meaning": "We are waiting for repayment from the debtor."
+  },
+  {
+    "sentence": "その会社は債務不履行の危機に瀕している。",
+    "sentence_furigana": "その会社【かいしゃ】は債務不履行【さいむふりこう】の危機【きき】に瀕【ひん】している。",
+    "meaning": "That company is facing a crisis of default."
+  },
+  {
+    "sentence": "借金返済は彼の最大の債務だ。",
+    "sentence_furigana": "借金返済【しゃっきんへんさい】は彼【かれ】の最大【さいだい】の債務【さいむ】だ。",
+    "meaning": "Debt repayment is his biggest liability."
+  },
+  {
+    "sentence": "彼は友人に多額の借金を申し込んだ。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】に多額【たがく】の借金【しゃっきん】を申【もう】し込【こ】んだ。",
+    "meaning": "He applied for a large loan from his friend."
+  },
+  {
+    "sentence": "この債券は満期を迎えた。",
+    "sentence_furigana": "この債券【さいけん】は満期【まんき】を迎【むか】えた。",
+    "meaning": "This bond has reached its maturity."
+  },
+  {
+    "sentence": "彼は借金の返済計画を立てた。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の返済計画【へんさいけいかく】を立【た】てた。",
+    "meaning": "He made a debt repayment plan."
+  },
+  {
+    "sentence": "債務者が破産を申請した。",
+    "sentence_furigana": "債務者【さいむしゃ】が破産【はさん】を申請【しんせい】した。",
+    "meaning": "The debtor filed for bankruptcy."
+  },
+  {
+    "sentence": "その国の債務残高は増加の一途をたどっている。",
+    "sentence_furigana": "その国【くに】の債務残高【さいむざんだか】は増加【ぞうか】の一途【いっと】をたどっている。",
+    "meaning": "That country's debt balance continues to increase."
+  },
+  {
+    "sentence": "彼は債権者と交渉した。",
+    "sentence_furigana": "彼【かれ】は債権者【さいけんしゃ】と交渉【こうしょう】した。",
+    "meaning": "He negotiated with the creditors."
+  },
+  {
+    "sentence": "個人債務の増加が懸念されている。",
+    "sentence_furigana": "個人債務【こじんさいむ】の増加【ぞうか】が懸念【けねん】されている。",
+    "meaning": "The increase in personal debt is a concern."
+  },
+  {
+    "sentence": "この投資は債券市場の動向に影響される。",
+    "sentence_furigana": "この投資【とうし】は債券市場【さいけんしじょう】の動向【どうこう】に影響【えいきょう】される。",
+    "meaning": "This investment is influenced by trends in the bond market."
+  },
+  {
+    "sentence": "彼は債務整理ローンを利用した。",
+    "sentence_furigana": "彼【かれ】は債務整理ローンを利用【りよう】した。",
+    "meaning": "He used a debt consolidation loan."
+  },
+  {
+    "sentence": "その企業は債務超過のため経営難に陥っている。",
+    "sentence_furigana": "その企業【きぎょう】は債務超過【さいむちょうか】のため経営難【けいえいなん】に陥【おちい】っている。",
+    "meaning": "The company is in financial difficulty due to excess debt."
+  },
+  {
+    "sentence": "彼は債務保証人になった。",
+    "sentence_furigana": "彼【かれ】は債務保証人【さいむほしょうにん】になった。",
+    "meaning": "He became a guarantor for the debt."
+  },
+  {
+    "sentence": "この債券は元利均等返済方式を採用している。",
+    "sentence_furigana": "この債券【さいけん】は元利均等返済方式【がんりきんとうへんさいほうしき】を採用【さいよう】している。",
+    "meaning": "This bond uses an equal principal and interest repayment method."
+  },
+  {
+    "sentence": "彼は借金を返済するために資産を売却した。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】を返済【へんさい】するために資産【しさん】を売却【ばいきゃく】した。",
+    "meaning": "He sold his assets to repay the debt."
+  },
+  {
+    "sentence": "債務の連帯保証人を務めることになった。",
+    "sentence_furigana": "債務【さいむ】の連帯保証人【れんたいほしょうにん】を務【つと】めることになった。",
+    "meaning": "He ended up serving as a joint guarantor for the debt."
+  },
+  {
+    "sentence": "彼は友人から債務の返済を求められた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】から債務【さいむ】の返済【へんさい】を求【もと】められた。",
+    "meaning": "He was asked by his friend to repay the debt."
+  },
+  {
+    "sentence": "この債権は譲渡可能である。",
+    "sentence_furigana": "この債権【さいけん】は譲渡可能【じょうとかのう】である。",
+    "meaning": "This bond is transferable."
+  },
+  {
+    "sentence": "彼は借金の返済能力を失った。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の返済能力【へんさいのうりょく】を失【うしな】った。",
+    "meaning": "He lost his ability to repay his debt."
+  },
+  {
+    "sentence": "その会社は債務整理によって経営を再建した。",
+    "sentence_furigana": "その会社【かいしゃ】は債務整理【さいむせいり】によって経営【けいえい】を再建【さいけん】した。",
+    "meaning": "The company rebuilt its management through debt restructuring."
+  },
+  {
+    "sentence": "彼は債券市場の動向を注意深く見守っている。",
+    "sentence_furigana": "彼【かれ】は債券市場【さいけんしじょう】の動向【どうこう】を注意深【ちゅういぶか】く見守【みまも】っている。",
+    "meaning": "He is carefully watching the trends in the bond market."
+  },
+  {
+    "sentence": "この債務は相続された。",
+    "sentence_furigana": "この債務【さいむ】は相続【そうぞく】された。",
+    "meaning": "This debt was inherited."
+  },
+  {
+    "sentence": "彼は債務免除を申請した。",
+    "sentence_furigana": "彼【かれ】は債務免除【さいむめんじょ】を申請【しんせい】した。",
+    "meaning": "He applied for debt forgiveness."
+  },
+  {
+    "sentence": "債務不履行は信用情報に悪影響を与える。",
+    "sentence_furigana": "債務不履行【さいむふりこう】は信用情報【しんようじょうほう】に悪影響【あくえいきょう】を与【あた】える。",
+    "meaning": "Default negatively affects credit information."
+  },
+  {
+    "sentence": "彼は借金の額が増えたため困惑している。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の額【がく】が増【ふ】えたため困惑【こんわく】している。",
+    "meaning": "He is perplexed because the amount of his debt has increased."
+  },
+  {
+    "sentence": "この債券は固定金利型だ。",
+    "sentence_furigana": "この債券【さいけん】は固定金利型【こていきんりがた】だ。",
+    "meaning": "This bond is a fixed-rate type."
+  },
+  {
+    "sentence": "彼は複数の債権者から借金をしている。",
+    "sentence_furigana": "彼【かれ】は複数【ふくすう】の債権者【さいけんしゃ】から借金【しゃっきん】をしている。",
+    "meaning": "He owes money to multiple creditors."
+  },
+  {
+    "sentence": "債務の返済期日が近づいている。",
+    "sentence_furigana": "債務【さいむ】の返済期日【へんさいきじつ】が近【ちか】づいている。",
+    "meaning": "The repayment deadline for the debt is approaching."
+  },
+  {
+    "sentence": "彼は債務整理の相談を受けた。",
+    "sentence_furigana": "彼【かれ】は債務整理【さいむせいり】の相談【そうだん】を受【う】けた。",
+    "meaning": "He received consultation on debt restructuring."
+  },
+  {
+    "sentence": "この債務は分割で返済される。",
+    "sentence_furigana": "この債務【さいむ】は分割【ぶんかつ】で返済【へんさい】される。",
+    "meaning": "This debt will be repaid in installments."
+  },
+  {
+    "sentence": "彼は債券を購入することで資金を貸した。",
+    "sentence_furigana": "彼【かれ】は債券【さいけん】を購入【こうにゅう】することで資金【しきん】を貸【か】した。",
+    "meaning": "He lent money by purchasing bonds."
+  },
+  {
+    "sentence": "債務超過の状態では融資を受けにくい。",
+    "sentence_furigana": "債務超過【さいむちょうか】の状態【じょうたい】では融資【ゆうし】を受【う】けにくい。",
+    "meaning": "It is difficult to receive loans when in a state of excess debt."
+  },
+  {
+    "sentence": "彼は借金の利息を払うのに苦労している。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の利息【りそく】を払【はら】うのに苦労【くろう】している。",
+    "meaning": "He is struggling to pay the interest on his debt."
+  },
+  {
+    "sentence": "この債券は格付けが高い。",
+    "sentence_furigana": "この債券【さいけん】は格付【かく付】けが高【たか】い。",
+    "meaning": "This bond has a high credit rating."
+  },
+  {
+    "sentence": "彼は友人から借りた債務を返済した。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】から借【か】りた債務【さいむ】を返済【へんさい】した。",
+    "meaning": "He repaid the debt he borrowed from his friend."
+  },
+  {
+    "sentence": "債務管理会社がその債権を買い取った。",
+    "sentence_furigana": "債務管理会社【さいむかんりがいしゃ】がその債権【さいけん】を買【か】い取【と】った。",
+    "meaning": "A debt management company bought the bond."
+  },
+  {
+    "sentence": "彼は債務の繰り上げ返済を検討している。",
+    "sentence_furigana": "彼【かれ】は債務【さいむ】の繰上返済【くりあげへんさい】を検討【けんとう】している。",
+    "meaning": "He is considering early repayment of the debt."
+  },
+  {
+    "sentence": "この債務は将来世代に引き継がれる。",
+    "sentence_furigana": "この債務【さいむ】は将来世代【しょうらいせだい】に引【ひ】き継【つ】がれる。",
+    "meaning": "This debt will be passed on to future generations."
+  },
+  {
+    "sentence": "彼は債権者集会に出席した。",
+    "sentence_furigana": "彼【かれ】は債権者集会【さいけんしゃしゅうかい】に出席【しゅっせき】した。",
+    "meaning": "He attended a creditors' meeting."
+  },
+  {
+    "sentence": "借金は様々な種類の債務に分類される。",
+    "sentence_furigana": "借金【しゃっきん】は様々【さまざま】な種類【しゅるい】の債務【さいむ】に分類【ぶんるい】される。",
+    "meaning": "Debt is classified into various types of liabilities."
+  },
+  {
+    "sentence": "この債券は変動金利型である。",
+    "sentence_furigana": "この債券【さいけん】は変動金利型【へんどうきんりがた】である。",
+    "meaning": "This bond is a floating-rate type."
+  },
+  {
+    "sentence": "彼は債務保証の契約を結んだ。",
+    "sentence_furigana": "彼【かれ】は債務保証【さいむほしょう】の契約【けいやく】を結【むす】んだ。",
+    "meaning": "He signed a debt guarantee agreement."
+  },
+  {
+    "sentence": "債務者が破産した場合、債権者は損失を被る。",
+    "sentence_furigana": "債務者【さいむしゃ】が破産【はさん】した場合【ばあい】、債権者【さいけんしゃ】は損失【そんしつ】を被【こうむ】る。",
+    "meaning": "When a debtor goes bankrupt, creditors suffer losses."
+  },
+  {
+    "sentence": "彼は新たな債務を抱えることを避けている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな債務【さいむ】を抱【かか】えることを避【さ】けている。",
+    "meaning": "He is avoiding taking on new debt."
+  },
+  {
+    "sentence": "この債券の発行日は来月だ。",
+    "sentence_furigana": "この債券【さいけん】の発行日【はっこうび】は来月【らいげつ】だ。",
+    "meaning": "The issue date of this bond is next month."
+  },
+  {
+    "sentence": "彼は借金の返済のためにアルバイトをしている。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の返済【へんさい】のためにアルバイトをしている。",
+    "meaning": "He is working a part-time job to repay his debt."
+  },
+  {
+    "sentence": "債務整理の専門家に相談しました。",
+    "sentence_furigana": "債務整理【さいむせいり】の専門家【せんもんか】に相談【そうだん】しました。",
+    "meaning": "I consulted a debt restructuring specialist."
+  },
+  {
+    "sentence": "彼は過去の債務を清算した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の債務【さいむ】を清算【せいさん】した。",
+    "meaning": "He settled his past debts."
+  },
+  {
+    "sentence": "この債券は償還期間が長い。",
+    "sentence_furigana": "この債券【さいけん】は償還期間【しょうかんきかん】が長【なが】い。",
+    "meaning": "This bond has a long redemption period."
+  },
+  {
+    "sentence": "彼は個人再生手続きによる債務の減額を求めた。",
+    "sentence_furigana": "彼【かれ】は個人再生手続【こじんさいせい てつづ】きによる債務【さいむ】の減額【げんがく】を求【もと】めた。",
+    "meaning": "He sought a reduction of debt through personal rehabilitation proceedings."
+  },
+  {
+    "sentence": "彼は債務超過の企業への投資を避けた。",
+    "sentence_furigana": "彼【かれ】は債務超過【さいむちょうか】の企業【きぎょう】への投資【とうし】を避【さ】けた。",
+    "meaning": "He avoided investing in companies with excess debt."
+  },
+  {
+    "sentence": "債務者は弁済期日に支払いを履行した。",
+    "sentence_furigana": "債務者【さいむしゃ】は弁済期日【べんさいきじつ】に支払【しはら】いを履行【りこう】した。",
+    "meaning": "The debtor fulfilled the payment on the due date."
+  },
+  {
+    "sentence": "彼は友人に肩代わりしてもらった債務がある。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】に肩代【かた】：がわり】してもらった債務【さいむ】がある。",
+    "meaning": "He has a debt that his friend took over for him."
+  },
+  {
+    "sentence": "この債券の信用リスクは低い。",
+    "sentence_furigana": "この債券【さいけん】の信用リスクは低【ひく】い。",
+    "meaning": "The credit risk of this bond is low."
+  },
+  {
+    "sentence": "彼は借金の返済のためにボーナスを全額充当した。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の返済【へんさい】のためにボーナスを全額【ぜんがく】充当【じゅうとう】した。",
+    "meaning": "He allocated his entire bonus to repay his debt."
+  },
+  {
+    "sentence": "債務者は裁判所に破産を申し立てた。",
+    "sentence_furigana": "債務者【さいむしゃ】は裁判所【さいばんしょ】に破産【はさん】を申【もう】し立【た】てた。",
+    "meaning": "The debtor filed for bankruptcy with the court."
+  },
+  {
+    "sentence": "彼は債務管理の専門家に助言を求めた。",
+    "sentence_furigana": "彼【かれ】は債務管理【さいむかんり】の専門家【せんもんか】に助言【じょげん】を求【もと】めた。",
+    "meaning": "He sought advice from a debt management expert."
+  },
+  {
+    "sentence": "この債務は時効により消滅した。",
+    "sentence_furigana": "この債務【さいむ】は時効【じこう】により消滅【しょうめつ】した。",
+    "meaning": "This debt was extinguished by the statute of limitations."
+  },
+  {
+    "sentence": "彼は債券の格付けを確認した。",
+    "sentence_furigana": "彼【かれ】は債券【さいけん】の格付【かく付】けを確認【かくにん】した。",
+    "meaning": "He checked the credit rating of the bond."
+  },
+  {
+    "sentence": "この債務は連帯して保証されている。",
+    "sentence_furigana": "この債務【さいむ】は連帯【れんたい】して保証【ほしょう】されている。",
+    "meaning": "This debt is jointly guaranteed."
+  },
+  {
+    "sentence": "彼は借金の督促に悩まされている。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の督促【とくそく】に悩【なや】まされている。",
+    "meaning": "He is troubled by debt collection."
+  },
+  {
+    "sentence": "債務者は分割払いを希望した。",
+    "sentence_furigana": "債務者【さいむしゃ】は分割払【ぶんかつばら】いを希望【きぼう】した。",
+    "meaning": "The debtor requested installment payments."
+  },
+  {
+    "sentence": "彼は債券市場のニュースを追っている。",
+    "sentence_furigana": "彼【かれ】は債券市場【さいけんしじょう】のニュースを追【お】っている。",
+    "meaning": "He is following the news of the bond market."
+  },
+  {
+    "sentence": "この債務は両親が肩代わりしてくれた。",
+    "sentence_furigana": "この債務【さいむ】は両親【りょうしん】が肩代【かた】：がわり】してくれた。",
+    "meaning": "My parents took over this debt for me."
+  },
+  {
+    "sentence": "彼は債務整理の専門家を探している。",
+    "sentence_furigana": "彼【かれ】は債務整理【さいむせいり】の専門家【せんもんか】を探【さが】している。",
+    "meaning": "He is looking for a debt restructuring specialist."
+  },
+  {
+    "sentence": "この債券は信用度が低い。",
+    "sentence_furigana": "この債券【さいけん】は信用度【しんようど】が低【ひく】い。",
+    "meaning": "This bond has low creditworthiness."
+  },
+  {
+    "sentence": "彼は借金の返済に窮している。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】の返済【へんさい】に窮【きゅう】している。",
+    "meaning": "He is in dire straits regarding his debt repayment."
+  },
+  {
+    "sentence": "債務者は計画的な返済を目指している。",
+    "sentence_furigana": "債務者【さいむしゃ】は計画的【けいかくてき】な返済【へんさい】を目指【めざ】している。",
+    "meaning": "The debtor aims for systematic repayment."
+  },
+  {
+    "sentence": "この債務は公的に保証されている。",
+    "sentence_furigana": "この債務【さいむ】は公的【こうてき】に保証【ほしょう】されている。",
+    "meaning": "This debt is publicly guaranteed."
+  },
+  {
+    "sentence": "彼は債券投資のリスクについて学んだ。",
+    "sentence_furigana": "彼【かれ】は債券投資【さいけんとうし】のリスクについて学【まな】んだ。",
+    "meaning": "He learned about the risks of bond investment."
+  },
+  {
+    "sentence": "債務者は、残りの債務をすべて完済した。",
+    "sentence_furigana": "債務者【さいむしゃ】は、残【のこ】りの債務【さいむ】をすべて完済【かんさい】した。",
+    "meaning": "The debtor fully paid off the remaining debt."
+  },
+  {
+    "sentence": "彼は多額の借金を抱え、返済に苦慮している。",
+    "sentence_furigana": "彼【かれ】は多額【たがく】の借金【しゃっきん】を抱【かか】え、返済【へんさい】に苦慮【くりょ】している。",
+    "meaning": "He is burdened with a large debt and is struggling with repayment."
+  },
+  {
+    "sentence": "この債券は担保付きである。",
+    "sentence_furigana": "この債券【さいけん】は担保付【たんぽつ】きである。",
+    "meaning": "This bond is secured."
+  },
+  {
+    "sentence": "彼は債務整理によって借金を減額してもらった。",
+    "sentence_furigana": "彼【かれ】は債務整理【さいむせいり】によって借金【しゃっきん】を減額【げんがく】してもらった。",
+    "meaning": "He had his debt reduced through debt restructuring."
+  },
+  {
+    "sentence": "債務者は約束の期日までに債務を返済した。",
+    "sentence_furigana": "債務者【さいむしゃ】は約束【やくそく】の期日【きじつ】までに債務【さいむ】を返済【へんさい】した。",
+    "meaning": "The debtor repaid the debt by the promised date."
+  },
+  {
+    "sentence": "彼は債権者に対して誠実に対応した。",
+    "sentence_furigana": "彼【かれ】は債権者【さいけんしゃ】に対【たい】して誠実【せいじつ】に対応【たいおう】した。",
+    "meaning": "He dealt honestly with the creditors."
+  },
+  {
+    "sentence": "この債務は自己資金で返済される。",
+    "sentence_furigana": "この債務【さいむ】は自己資金【じこしきん】で返済【へんさい】される。",
+    "meaning": "This debt will be repaid with own funds."
+  },
+  {
+    "sentence": "彼は債券の償還を見守っている。",
+    "sentence_furigana": "彼【かれ】は債券【さいけん】の償還【しょうかん】を見守【みまも】っている。",
+    "meaning": "He is watching over the redemption of the bond."
+  },
+  {
+    "sentence": "債務者は分割払いの条件変更を求めた。",
+    "sentence_furigana": "債務者【さいむしゃ】は分割払【ぶんかつばら】いの条件変更【じょうけんへんこう】を求【もと】めた。",
+    "meaning": "The debtor requested a change in the installment payment terms."
+  },
+  {
+    "sentence": "この債務は保証人がいるため安心だ。",
+    "sentence_furigana": "この債務【さいむ】は保証人【ほしょうにん】がいるため安心【あんしん】だ。",
+    "meaning": "This debt is reassuring because there is a guarantor."
+  },
+  {
+    "sentence": "彼は債権者会議で状況を説明した。",
+    "sentence_furigana": "彼【かれ】は債権者会議【さいけんしゃかいぎ】で状況【じょうきょう】を説明【せつめい】した。",
+    "meaning": "He explained the situation at the creditors' meeting."
+  },
+  {
+    "sentence": "債務者は弁済期日までに全額を返済する予定だ。",
+    "sentence_furigana": "債務者【さいむしゃ】は弁済期日【べんさいきじつ】までに全額【ぜんがく】を返済【へんさい】する予定【よてい】だ。",
+    "meaning": "The debtor plans to repay the full amount by the due date."
+  },
+  {
+    "sentence": "彼は債券の満期償還を待っている。",
+    "sentence_furigana": "彼【かれ】は債券【さいけん】の満期償還【まんきしょうかん】を待【ま】っている。",
+    "meaning": "He is waiting for the maturity redemption of the bond."
+  },
+  {
+    "sentence": "この債務は第三者によって保証されている。",
+    "sentence_furigana": "この債務【さいむ】は第三者【だいさんしゃ】によって保証【ほしょう】されている。",
+    "meaning": "This debt is guaranteed by a third party."
+  },
+  {
+    "sentence": "彼は債務の分割払いに同意した。",
+    "sentence_furigana": "彼【かれ】は債務【さいむ】の分割払【ぶんかつばら】いに同意【どうい】した。",
+    "meaning": "He agreed to the installment payments for the debt."
+  },
+  {
+    "sentence": "債務者は当初の計画通りに返済を進めている。",
+    "sentence_furigana": "債務者【さいむしゃ】は当初【とうしょ】の計画通【けいかくどお】りに対【たい】して返済【へんさい】を進【すす】めている。",
+    "meaning": "The debtor is proceeding with repayment according to the original plan."
+  },
+  {
+    "sentence": "彼は債券の額面金額を確認した。",
+    "sentence_furigana": "彼【かれ】は債券【さいけん】の額面金額【がくめんきんがく】を確認【かくにん】した。",
+    "meaning": "He checked the face value of the bond."
+  },
+  {
+    "sentence": "この債務は連帯保証契約に基づいている。",
+    "sentence_furigana": "この債務【さいむ】は連帯保証契約【れんたいほしょうけいやく】に基づ【もと】いている。",
+    "meaning": "This debt is based on a joint guarantee agreement."
+  },
+  {
+    "sentence": "彼は債務整理の相談窓口を利用した。",
+    "sentence_furigana": "彼【かれ】は債務整理【さいむせいり】の相談窓口【そうだんまどぐち】を利用【りよう】した。",
+    "meaning": "He used the consultation service for debt restructuring."
+  }
+]

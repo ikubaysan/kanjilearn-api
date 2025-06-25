@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "航空機は空を高く飛ぶ。",
+    "sentence_furigana": "航空機【こうくうき】は空【そら】を高く【たかく】飛ぶ【とぶ】。",
+    "meaning": "Aircraft fly high in the sky."
+  },
+  {
+    "sentence": "船が港に到着した。",
+    "sentence_furigana": "船【ふね】が港【みなと】に到着【とうちゃく】した。",
+    "meaning": "The ship arrived at the port."
+  },
+  {
+    "sentence": "航海は危険を伴うことがある。",
+    "sentence_furigana": "航海【こうかい】は危険【きけん】を伴【ともな】うことがある。",
+    "meaning": "Voyages can sometimes involve danger."
+  },
+  {
+    "sentence": "彼は長い航路を旅した。",
+    "sentence_furigana": "彼【かれ】は長【なが】い航路【こうろ】を旅【たび】した。",
+    "meaning": "He traveled a long route."
+  },
+  {
+    "sentence": "この船は定期的に運行している。",
+    "sentence_furigana": "この船【ふね】は定期的【ていきてき】に運行【うんこう】している。",
+    "meaning": "This ship operates on a regular schedule."
+  },
+  {
+    "sentence": "航空会社のサービスは素晴らしい。",
+    "sentence_furigana": "航空会社【こうくうがいしゃ】のサービスは素晴【すば】らしい。",
+    "meaning": "The airline's service is excellent."
+  },
+  {
+    "sentence": "新しい航法を開発する必要がある。",
+    "sentence_furigana": "新【あたら】しい航法【こうほう】を開発【かいはつ】する必【ひつ】要【よう】がある。",
+    "meaning": "We need to develop new navigation methods."
+  },
+  {
+    "sentence": "週末にはクルーズ船に乗ってみたい。",
+    "sentence_furigana": "週末【しゅうまつ】にはクルーズ船【せん】に乗【の】ってみたい。",
+    "meaning": "I want to try riding a cruise ship on the weekend."
+  },
+  {
+    "sentence": "彼はパイロットとして航空業界に進んだ。",
+    "sentence_furigana": "彼【かれ】はパイロットとして航空業界【こうくうぎょうかい】に進【すす】んだ。",
+    "meaning": "He entered the aviation industry as a pilot."
+  },
+  {
+    "sentence": "その島への航路は複雑だ。",
+    "sentence_furigana": "その島【しま】への航路【こうろ】は複雑【ふくざつ】だ。",
+    "meaning": "The route to that island is complicated."
+  },
+  {
+    "sentence": "私たちは太平洋を横断する航海に出た。",
+    "sentence_furigana": "私【わたし】たちはおう太平洋【たいへいよう】を横断【おうだん】する航海【こうかい】に出【で】た。",
+    "meaning": "We set out on a voyage across the Pacific Ocean."
+  },
+  {
+    "sentence": "この地域は航空交通が発達している。",
+    "sentence_furigana": "この地域【ちいき】は航空交通【こうくうこうつう】が発達【はったつ】している。",
+    "meaning": "Air traffic is developed in this region."
+  },
+  {
+    "sentence": "彼は船で世界一周を果たした。",
+    "sentence_furigana": "彼【かれ】は船【ふね】で世界一周【せかいいっしゅう】を果た【はた】した。",
+    "meaning": "He achieved a circumnavigation of the globe by ship."
+  },
+  {
+    "sentence": "航空券の予約は早めにした方が良い。",
+    "sentence_furigana": "航空券【こうくうけん】の予約【よやく】は早【はや】めにしたほうが良【よ】い。",
+    "meaning": "It's better to book your flight ticket early."
+  },
+  {
+    "sentence": "新しい航空機の設計が発表された。",
+    "sentence_furigana": "新【あたら】しい航空機【こうくうき】の設計【せっけい】が発表【はっぴょう】された。",
+    "meaning": "The design of a new aircraft was announced."
+  },
+  {
+    "sentence": "彼らは船旅を楽しんだ。",
+    "sentence_furigana": "彼【かれ】らは船旅【ふなたび】を楽し【たの】んだ。",
+    "meaning": "They enjoyed the sea voyage."
+  },
+  {
+    "sentence": "この地域は航空管制が厳しい。",
+    "sentence_furigana": "この地域【ちいき】は航空管制【こうくうかんせい】が厳【きび】しい。",
+    "meaning": "Air traffic control is strict in this region."
+  },
+  {
+    "sentence": "船員たちは安全な航海を祈った。",
+    "sentence_furigana": "船員【せんいん】たちはい安全な【あんぜんな】航海【こうかい】を祈【いの】った。",
+    "meaning": "The sailors prayed for a safe voyage."
+  },
+  {
+    "sentence": "彼は飛行機で遠くへ旅立った。",
+    "sentence_furigana": "彼【かれ】は飛行機【ひこうき】で遠【とお】くへ旅立【たびだ】った。",
+    "meaning": "He set off for a distant place by plane."
+  },
+  {
+    "sentence": "航空便で荷物を送った。",
+    "sentence_furigana": "航空便【こうくうびん】で荷物【にもつ】を送【おく】った。",
+    "meaning": "I sent the luggage by airmail."
+  },
+  {
+    "sentence": "その航海は非常に困難だった。",
+    "sentence_furigana": "その航海【こうかい】は非常【ひじょう】に困難【こんなん】だった。",
+    "meaning": "That voyage was extremely difficult."
+  },
+  {
+    "sentence": "航空ショーは多くの人々を魅了した。",
+    "sentence_furigana": "航空ショー【こうくうショー】は多【おお】くの人々【ひとびと】を魅了【みりょう】した。",
+    "meaning": "The air show fascinated many people."
+  },
+  {
+    "sentence": "彼は新しい航海術を学んでいる。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい航海術【こうかいじゅつ】を学【まな】んでいる。",
+    "meaning": "He is learning new navigation techniques."
+  },
+  {
+    "sentence": "船は穏やかな海を航行していた。",
+    "sentence_furigana": "船【ふね】はおだやかな海【うみ】を航行【こうこう】していた。",
+    "meaning": "The ship was sailing on a calm sea."
+  },
+  {
+    "sentence": "彼は航空機の整備士として働いている。",
+    "sentence_furigana": "彼【かれ】は航空機【こうくうき】の整備士【せいびし】として働【はたら】いている。",
+    "meaning": "He works as an aircraft mechanic."
+  },
+  {
+    "sentence": "次の便の運行状況を確認してください。",
+    "sentence_furigana": "次【つぎ】の便【びん】の運行状況【うんこうじょうきょう】を確認【かくにん】してください。",
+    "meaning": "Please check the operating status of the next flight."
+  },
+  {
+    "sentence": "この航海には多くの装備が必要だ。",
+    "sentence_furigana": "この航海【こうかい】には多【おお】くの装備【そうび】が必要【ひつよう】だ。",
+    "meaning": "This voyage requires a lot of equipment."
+  },
+  {
+    "sentence": "航空運賃はだいぶ値上がりした。",
+    "sentence_furigana": "航空運賃【こうくううんちん】はだいぶ値上【ねあ】がりした。",
+    "meaning": "Airfares have increased considerably."
+  },
+  {
+    "sentence": "彼は古い航海日誌を見つけた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い航海日誌【こうかいにっし】を見【み】つけた。",
+    "meaning": "He found an old logbook."
+  },
+  {
+    "sentence": "そのヨットは速く航行した。",
+    "sentence_furigana": "そのヨットは速【はや】く航行【こうこう】した。",
+    "meaning": "The yacht sailed fast."
+  },
+  {
+    "sentence": "航空写真から地形を分析する。",
+    "sentence_furigana": "航空写真【こうくうしゃしん】から地形【ちけい】を分析【ぶんせき】する。",
+    "meaning": "Analyze the terrain from aerial photographs."
+  },
+  {
+    "sentence": "この海域は航行が難しい。",
+    "sentence_furigana": "この海域【かいいき】は航行【こうこう】が難【むずか】しい。",
+    "meaning": "Navigation is difficult in this sea area."
+  },
+  {
+    "sentence": "彼は航空宇宙工学を専攻している。",
+    "sentence_furigana": "彼【かれ】は航空宇宙工学【こうくうちゅうこうがく】を専攻【せんこう】している。",
+    "meaning": "He is majoring in aerospace engineering."
+  },
+  {
+    "sentence": "船は目的地に向かって航海を続けた。",
+    "sentence_furigana": "船【ふね】は目的地【もくてきち】に向【む】かって航海【こうかい】を続【つづ】けた。",
+    "meaning": "The ship continued its voyage towards its destination."
+  },
+  {
+    "sentence": "航空管制官は、着陸を指示した。",
+    "sentence_furigana": "航空管制官【こうくうかんせいかん】は、着陸【ちゃくりく】を指示【しじ】した。",
+    "meaning": "The air traffic controller instructed the landing."
+  },
+  {
+    "sentence": "彼は新しい航空機の模型を作った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい航空機【こうくうき】の模型【もけい】を作【つく】った。",
+    "meaning": "He built a model of a new aircraft."
+  },
+  {
+    "sentence": "船は風に乗って順調に航行した。",
+    "sentence_furigana": "船【ふね】は風【かぜ】に乗【の】って順調【じゅんちょう】に航行【こうこう】した。",
+    "meaning": "The ship sailed smoothly, carried by the wind."
+  },
+  {
+    "sentence": "航空会社は新たな路線を開設した。",
+    "sentence_furigana": "航空会社【こうくうがいしゃ】は新【あらた】な路線【ろせん】を開設【かいせつ】した。",
+    "meaning": "The airline opened a new route."
+  },
+  {
+    "sentence": "この航海は歴史的なものとなった。",
+    "sentence_furigana": "この航海【こうかい】は歴史的【れきしてき】なものとなった。",
+    "meaning": "This voyage became a historical event."
+  },
+  {
+    "sentence": "彼は航空力学を研究している。",
+    "sentence_furigana": "彼【かれ】は航空力学【こうくりきがく】を研究【けんきゅう】している。",
+    "meaning": "He is studying aerodynamics."
+  },
+  {
+    "sentence": "船は暗闇の中を航行し続けた。",
+    "sentence_furigana": "船【ふね】は暗闇【くらやみ】の中【なか】を航行【こうこう】し続【つづ】けた。",
+    "meaning": "The ship continued sailing through the darkness."
+  },
+  {
+    "sentence": "航空事故の原因が調査されている。",
+    "sentence_furigana": "航空事故【こうくうじこ】の原因【げんいん】が調査【ちょうさ】されている。",
+    "meaning": "The cause of the aviation accident is being investigated."
+  },
+  {
+    "sentence": "彼は遠洋航海に出る準備をしている。",
+    "sentence_furigana": "彼【かれ】は遠洋航海【えんようこうかい】に出【で】る準備【じゅんび】をしている。",
+    "meaning": "He is preparing for an ocean voyage."
+  },
+  {
+    "sentence": "航空券の価格は変動しやすい。",
+    "sentence_furigana": "航空券【こうくうけん】の価格【かかく】は変動【へんどう】しやすい。",
+    "meaning": "Air ticket prices tend to fluctuate."
+  },
+  {
+    "sentence": "その航海には多くの困難が伴った。",
+    "sentence_furigana": "その航海【こうかい】には多【おお】くの困難【こんなん】が伴【ともな】った。",
+    "meaning": "That voyage involved many difficulties."
+  },
+  {
+    "sentence": "彼は航空宇宙産業で働きたいと考えている。",
+    "sentence_furigana": "彼【かれ】は航空宇宙産業【こうくうちゅうさんぎょう】で働【はたら】きたいと考【かんが】えている。",
+    "meaning": "He wants to work in the aerospace industry."
+  },
+  {
+    "sentence": "船はゆっくりと港に近づいた。",
+    "sentence_furigana": "船【ふね】はゆっくりと港【みなと】に近【ちか】づいた。",
+    "meaning": "The ship slowly approached the port."
+  },
+  {
+    "sentence": "航空券のキャンセルポリシーを確認した。",
+    "sentence_furigana": "航空券【こうくうけん】のキャンセルポリシーを確認【かくにん】した。",
+    "meaning": "I checked the airline ticket cancellation policy."
+  },
+  {
+    "sentence": "彼は過去の航海について語った。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の航海【こうかい】について語【かた】った。",
+    "meaning": "He talked about his past voyages."
+  },
+  {
+    "sentence": "船は嵐の中を航行しなければならなかった。",
+    "sentence_furigana": "船【ふね】は嵐【あらし】の中【なか】を航行【こうこう】しなければならなかった。",
+    "meaning": "The ship had to sail through the storm."
+  },
+  {
+    "sentence": "航空機のメンテナンスは重要だ。",
+    "sentence_furigana": "航空機【こうくうき】のメンテナンスは重要【じゅうよう】だ。",
+    "meaning": "Aircraft maintenance is important."
+  },
+  {
+    "sentence": "彼は新しい航路を開拓した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい航路【こうろ】を開拓【かいたく】した。",
+    "meaning": "He pioneered a new route."
+  },
+  {
+    "sentence": "船の航行中は安全に注意してください。",
+    "sentence_furigana": "船【ふね】の航行中【こうこうちゅう】は安全【あんぜん】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful about safety while the ship is sailing."
+  },
+  {
+    "sentence": "航空写真家は美しい風景を捉えた。",
+    "sentence_furigana": "航空写真家【こうくうしゃしんか】は美【うつく】しい風景【ふうけい】を捉【とら】えた。",
+    "meaning": "The aerial photographer captured beautiful scenery."
+  },
+  {
+    "sentence": "彼は偉大な航海者として知られている。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な航海者【こうかいしゃ】として知【し】られている。",
+    "meaning": "He is known as a great navigator."
+  },
+  {
+    "sentence": "船は海流に乗って航海した。",
+    "sentence_furigana": "船【ふね】は海流【かいりゅう】に乗【の】って航海【こうかい】した。",
+    "meaning": "The ship sailed with the ocean current."
+  },
+  {
+    "sentence": "航空機の重量制限について説明します。",
+    "sentence_furigana": "航空機【こうくうき】の重量制限【じゅうりょうせいげん】について説明【せつめい】します。",
+    "meaning": "We will explain the weight limits for aircraft."
+  },
+  {
+    "sentence": "彼は新しい航空会社を設立した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい航空会社【こうくうがいしゃ】を設立【せつりつ】した。",
+    "meaning": "He established a new airline company."
+  },
+  {
+    "sentence": "その航海は成功裏に終わった。",
+    "sentence_furigana": "その航海【こうかい】は成功裏【せいこうり】に終【お】わった。",
+    "meaning": "That voyage ended successfully."
+  },
+  {
+    "sentence": "彼は太平洋を飛行機で横断した。",
+    "sentence_furigana": "彼【かれ】は太平洋【たいへいよう】を飛行機【ひこうき】で横断【おうだん】した。",
+    "meaning": "He crossed the Pacific Ocean by plane."
+  },
+  {
+    "sentence": "船は時速20ノットで航行していた。",
+    "sentence_furigana": "船【ふね】は時速【じそく】20ノットで航行【こうこう】していた。",
+    "meaning": "The ship was sailing at 20 knots."
+  },
+  {
+    "sentence": "航空券の座席指定は可能です。",
+    "sentence_furigana": "航空券【こうくうけん】の座席指定【ざせきしてい】は可能【かのう】です。",
+    "meaning": "Seat selection for flight tickets is possible."
+  },
+  {
+    "sentence": "彼は勇敢な航海をした。",
+    "sentence_furigana": "彼【かれ】は勇敢【ゆうかん】な航海【こうかい】をした。",
+    "meaning": "He made a courageous voyage."
+  },
+  {
+    "sentence": "航空機の運航管理は複雑だ。",
+    "sentence_furigana": "航空機【こうくうき】の運航管理【うんこうかんり】は複雑【ふくざつ】だ。",
+    "meaning": "Aircraft flight management is complex."
+  },
+  {
+    "sentence": "船は無事に港に到着した。",
+    "sentence_furigana": "船【ふね】は無事【ぶじ】に港【みなと】に到着【とうちゃく】した。",
+    "meaning": "The ship arrived safely at the port."
+  },
+  {
+    "sentence": "彼は航空史に名を残した。",
+    "sentence_furigana": "彼【かれ】は航空史【こうくうし】に名【な】を遺【のこ】した。",
+    "meaning": "He left his mark on aviation history."
+  },
+  {
+    "sentence": "この航海は非常に長い時間を要した。",
+    "sentence_furigana": "この航海【こうかい】は非常【ひじょう】に長【なが】い時間【じかん】を要【よう】した。",
+    "meaning": "This voyage took a very long time."
+  },
+  {
+    "sentence": "飛行機が離陸の準備をしています。",
+    "sentence_furigana": "飛行機【ひこうき】が離陸【りりく】の準備【じゅんび】をしています。",
+    "meaning": "The airplane is preparing for takeoff."
+  },
+  {
+    "sentence": "船長は航海の安全を確保した。",
+    "sentence_furigana": "船長【せんちょう】は航海【こうかい】の安全【あんぜん】を確保【かくほ】した。",
+    "meaning": "The captain ensured the safety of the voyage."
+  },
+  {
+    "sentence": "航空会社の合併が発表された。",
+    "sentence_furigana": "航空会社【こうくうがいしゃ】の合併【がっぺい】が発表【はっぴょう】された。",
+    "meaning": "The merger of airline companies was announced."
+  },
+  {
+    "sentence": "彼は長距離航海に挑戦した。",
+    "sentence_furigana": "彼【かれ】は長距離航海【ちょうきょりこうかい】に挑戦【ちょうせん】した。",
+    "meaning": "He challenged a long-distance voyage."
+  },
+  {
+    "sentence": "飛行機は雲の上を飛んでいた。",
+    "sentence_furigana": "飛行機【ひこうき】は雲【くも】の上【うえ】を飛【と】んでいた。",
+    "meaning": "The airplane was flying above the clouds."
+  },
+  {
+    "sentence": "この船の航行速度は速い。",
+    "sentence_furigana": "この船【ふね】の航行速度【こうこうそくど】は速【はや】い。",
+    "meaning": "The sailing speed of this ship is fast."
+  },
+  {
+    "sentence": "彼は航空便で誕生日プレゼントを送った。",
+    "sentence_furigana": "彼【かれ】は航空便【こうくうびん】で誕生日プレゼントを送【おく】った。",
+    "meaning": "He sent a birthday present by airmail."
+  },
+  {
+    "sentence": "その航海は多くの発見をもたらした。",
+    "sentence_furigana": "その航海【こうかい】は多【おお】くの発見【はっけん】をもたらした。",
+    "meaning": "That voyage brought many discoveries."
+  },
+  {
+    "sentence": "航空券の予約はオンラインでできます。",
+    "sentence_furigana": "航空券【こうくうけん】の予約【よやく】はオンラインでできます。",
+    "meaning": "You can book flight tickets online."
+  },
+  {
+    "sentence": "彼は最新の航空機について学んでいる。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の航空機【こうくうき】について学【まな】んでいる。",
+    "meaning": "He is learning about the latest aircraft."
+  },
+  {
+    "sentence": "船は霧の中を航行していた。",
+    "sentence_furigana": "船【ふね】は霧【きり】の中【なか】を航行【こうこう】していた。",
+    "meaning": "The ship was sailing in the fog."
+  },
+  {
+    "sentence": "航空機には非常口がありますか？",
+    "sentence_furigana": "航空機【こうくうき】には非常口【ひじょうぐち】がありますか？",
+    "meaning": "Does the aircraft have emergency exits?"
+  },
+  {
+    "sentence": "彼は新しい航海計画を立てた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい航海計画【こうかいけいかく】を立【た】てた。",
+    "meaning": "He made a new voyage plan."
+  },
+  {
+    "sentence": "船の運行状況はリアルタイムで確認できます。",
+    "sentence_furigana": "船【ふね】の運行状況【うんこうじょうきょう】はリアルタイムで確認【かくにん】できます。",
+    "meaning": "The ship's operating status can be checked in real-time."
+  },
+  {
+    "sentence": "航空運賃には燃油サーチャージが含まれている。",
+    "sentence_furigana": "航空運賃【こうくううんちん】には燃油サーチャージが含ま【ふくま】れている。",
+    "meaning": "Fuel surcharges are included in the airfare."
+  },
+  {
+    "sentence": "彼は昔の航海士に憧れている。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の航海士【こうかいし】に憧【あこが】れている。",
+    "meaning": "He admires old navigators."
+  },
+  {
+    "sentence": "船は港外で待機していた。",
+    "sentence_furigana": "船【ふね】は港外【こうがい】で待機【たいき】していた。",
+    "meaning": "The ship was waiting outside the port."
+  },
+  {
+    "sentence": "航空管制システムが更新された。",
+    "sentence_furigana": "航空管制システム【こうくうかんせいシステム】が更新【こうしん】された。",
+    "meaning": "The air traffic control system has been updated."
+  },
+  {
+    "sentence": "彼は次の航海に向けて準備を進めている。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】の航海【こうかい】に向【む】けて準備【じゅんび】を進【すす】めている。",
+    "meaning": "He is preparing for the next voyage."
+  },
+  {
+    "sentence": "飛行機は滑走路を走り出した。",
+    "sentence_furigana": "飛行機【ひこうき】は滑走路【かっそうろ】を走【はし】り出【だ】した。",
+    "meaning": "The airplane started running on the runway."
+  },
+  {
+    "sentence": "船の航行記録が保存されている。",
+    "sentence_furigana": "船【ふね】の航行記録【こうこうきろく】が保存【ほぞん】されている。",
+    "meaning": "The ship's sailing records are stored."
+  },
+  {
+    "sentence": "航空貨物輸送は国際貿易に不可欠だ。",
+    "sentence_furigana": "航空貨物輸送【こうくうかもつゆそう】は国際貿易【こくさいぼうえき】に不可欠【ふかけつ】だ。",
+    "meaning": "Air freight transport is essential for international trade."
+  },
+  {
+    "sentence": "彼は無事な航海を終えた。",
+    "sentence_furigana": "彼【かれ】は無事【ぶじ】な航海【こうかい】を終【お】えた。",
+    "meaning": "He completed a safe voyage."
+  },
+  {
+    "sentence": "航空管制官は、飛行機の進路を指示する。",
+    "sentence_furigana": "航空管制官【こうくうかんせいかん】は、飛行機【ひこうき】の進路【しんろ】を指示【しじ】する。",
+    "meaning": "Air traffic controllers direct the flight paths of airplanes."
+  },
+  {
+    "sentence": "船は南へ向かって航海した。",
+    "sentence_furigana": "船【ふね】は南【みなみ】へ向【む】かって航海【こうかい】した。",
+    "meaning": "The ship sailed south."
+  },
+  {
+    "sentence": "彼は航空機の操縦を学ぶ。",
+    "sentence_furigana": "彼【かれ】は航空機【こうくうき】の操縦【そうじゅう】を学【まな】ぶ。",
+    "meaning": "He learns to pilot aircraft."
+  },
+  {
+    "sentence": "航空券の変更は可能ですか？",
+    "sentence_furigana": "航空券【こうくうけん】の変更【へんこう】は可能【かのう】ですか？",
+    "meaning": "Is it possible to change the flight ticket?"
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "道の端に車を停めた。",
+    "sentence_furigana": "道【みち】の端【はし】に車【くるま】を停【と】めた。",
+    "meaning": "I parked the car at the side of the road."
+  },
+  {
+    "sentence": "その問題の端から片付けよう。",
+    "sentence_furigana": "その問題【もんだい】の端【はし】から片付【かたづ】けよう。",
+    "meaning": "Let's sort out that problem from the beginning."
+  },
+  {
+    "sentence": "彼の言葉の端々に皮肉が感じられた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の端々【はしばし】に皮肉【ひにく】が感【かん】じられた。",
+    "meaning": "I sensed sarcasm in his words at every turn."
+  },
+  {
+    "sentence": "端を揃えて畳んでください。",
+    "sentence_furigana": "端【はし】を揃【そろ】えて畳【たた】んでください。",
+    "meaning": "Please fold it neatly, aligning the edges."
+  },
+  {
+    "sentence": "崖の端まで行かない方がいい。",
+    "sentence_furigana": "崖【がけ】の端【はし】まで行【い】かない方【ほう】がいい。",
+    "meaning": "It's better not to go to the edge of the cliff."
+  },
+  {
+    "sentence": "会議は予定の端から開始されました。",
+    "sentence_furigana": "会議【かいぎ】は予定【よてい】の端【はし】から開始【かいし】されました。",
+    "meaning": "The meeting started from the scheduled time."
+  },
+  {
+    "sentence": "この布の端はほつれてしまっている。",
+    "sentence_furigana": "この布【ぬの】の端【ほつれ】はほつれてしまっている。",
+    "meaning": "The edge of this cloth is unraveling."
+  },
+  {
+    "sentence": "彼は物事の端から片付けるタイプだ。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】から片付【かたづ】けるタイプだ。",
+    "meaning": "He is the type of person who deals with things from the beginning."
+  },
+  {
+    "sentence": "机の端に足をぶつけてしまった。",
+    "sentence_furigana": "机【つくえ】の端【はし】に足【あし】をぶつけてしまった。",
+    "meaning": "I hit my leg on the edge of the desk."
+  },
+  {
+    "sentence": "物語の端緒は古い書物にある。",
+    "sentence_furigana": "物語【ものがたり】の端緒【たんちょ】は古【ふる】い書物【しょもつ】にある。",
+    "meaning": "The clue to the story lies in an old book."
+  },
+  {
+    "sentence": "山端に日が沈んでいく。",
+    "sentence_furigana": "山端【やまは】に日【ひ】が沈【しず】んでいく。",
+    "meaning": "The sun is setting over the mountain edge."
+  },
+  {
+    "sentence": "問題の端を掴むのが肝心だ。",
+    "sentence_furigana": "問題【もんだい】の端【はし】を掴【つか】むのが肝心【かんじん】だ。",
+    "meaning": "It's important to grasp the beginning of the problem."
+  },
+  {
+    "sentence": "河岸の端に立って景色を眺めた。",
+    "sentence_furigana": "河岸【かがん】の端【はし】に立【た】って景色【けしき】を眺【なが】めた。",
+    "meaning": "I stood on the riverbank edge and gazed at the scenery."
+  },
+  {
+    "sentence": "彼の話の端々から本音が見えた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】の端々【はしばし】から本音【ほんね】が見【み】えた。",
+    "meaning": "I could see his true feelings through his words."
+  },
+  {
+    "sentence": "この絨毯は端まで模様が入っている。",
+    "sentence_furigana": "この絨毯【じゅうたん】は端【はし】まで模様【もよう】が入【はい】っている。",
+    "meaning": "This carpet has a pattern all the way to the edge."
+  },
+  {
+    "sentence": "船の舳先の端に立ってみた。",
+    "sentence_furigana": "船【ふね】の舳先【へさき】の端【はし】に立【た】ってみた。",
+    "meaning": "I tried standing at the very front edge of the ship."
+  },
+  {
+    "sentence": "その契約書の端に署名してください。",
+    "sentence_furigana": "その契約書【けいやくしょ】の端【はし】に署名【しょめい】してください。",
+    "meaning": "Please sign at the end of the contract."
+  },
+  {
+    "sentence": "木の端に鳥が止まっていた。",
+    "sentence_furigana": "木【き】の端【はし】に鳥【とり】が止【と】まっていた。",
+    "meaning": "A bird was perched on the edge of the tree branch."
+  },
+  {
+    "sentence": "物事の端をきちんと押さえることが大切だ。",
+    "sentence_furigana": "物事【ものごと】の端【はし】をきちんとおさえることが大切【たいせつ】だ。",
+    "meaning": "It is important to properly handle the basics of things."
+  },
+  {
+    "sentence": "彼は議論の端に立った。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】の端【はし】に立【た】った。",
+    "meaning": "He took the lead in the discussion."
+  },
+  {
+    "sentence": "その絵の端に小さなサインがあった。",
+    "sentence_furigana": "その絵【え】の端【はし】に小【ちい】さなサインがあった。",
+    "meaning": "There was a small signature at the edge of the painting."
+  },
+  {
+    "sentence": "海岸の端まで散歩に行った。",
+    "sentence_furigana": "海岸【かいがん】の端【はし】まで散歩【さんぽ】に行【い】った。",
+    "meaning": "I went for a walk to the edge of the coast."
+  },
+  {
+    "sentence": "この件の端は古い訴訟にある。",
+    "sentence_furigana": "この件【けん】の端【はし】は古【ふる】い訴訟【そしょう】にある。",
+    "meaning": "The origin of this matter lies in an old lawsuit."
+  },
+  {
+    "sentence": "彼は話の端々にユーモアを交える。",
+    "sentence_furigana": "彼【かれ】は話【はなし】の端々【はしばし】にユーモアを交【ま】ぜる。",
+    "meaning": "He sprinkles humor into his conversation."
+  },
+  {
+    "sentence": "その布の端を切り取ってください。",
+    "sentence_furigana": "その布【ぬの】の端【はし】を切【き】り取ってください。",
+    "meaning": "Please cut off the edge of that cloth."
+  },
+  {
+    "sentence": "山の端に雲がかかっていた。",
+    "sentence_furigana": "山【やま】の端【は】に雲【くも】がかかっていた。",
+    "meaning": "Clouds were hanging over the mountain ridge."
+  },
+  {
+    "sentence": "彼は物事の端々を見逃さない。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端々【はしばし】を見逃【みのが】さない。",
+    "meaning": "He doesn't miss any detail of things."
+  },
+  {
+    "sentence": "このテーブルの端に座ってください。",
+    "sentence_furigana": "このテーブルの端【はし】に座【すわ】ってください。",
+    "meaning": "Please sit at the end of this table."
+  },
+  {
+    "sentence": "彼は常に時代の端に立っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に時代【じだい】の端【はし】に立【た】っている。",
+    "meaning": "He always stands at the forefront of the times."
+  },
+  {
+    "sentence": "会議の端で意見を述べた。",
+    "sentence_furigana": "会議【かいぎ】の端【はし】で意見【いけん】を述【の】べた。",
+    "meaning": "I offered my opinion at the edge of the meeting."
+  },
+  {
+    "sentence": "彼女は物語の端を話し始めた。",
+    "sentence_furigana": "彼女【かのじょ】は物語【ものがたり】の端【はし】を話【はな】し始【はじ】めた。",
+    "meaning": "She started to tell the beginning of the story."
+  },
+  {
+    "sentence": "その知らせの端に希望を見出した。",
+    "sentence_furigana": "その知【し】らせの端【はし】に希望【きぼう】を見出【みいだ】した。",
+    "meaning": "I found a glimmer of hope in that news."
+  },
+  {
+    "sentence": "崖の端から飛び降りた。",
+    "sentence_furigana": "崖【がけ】の端【はし】から飛【と】び降【お】りた。",
+    "meaning": "I jumped off the edge of the cliff."
+  },
+  {
+    "sentence": "この論文の端には重要な示唆がある。",
+    "sentence_furigana": "この論文【ろんぶん】の端【はし】には重要【じゅうよう】な示唆【しさ】がある。",
+    "meaning": "There are important implications at the edge of this paper."
+  },
+  {
+    "sentence": "彼は話を端折りすぎた。",
+    "sentence_furigana": "彼【かれ】は話【はな】を端折【はしょ】りすぎた。",
+    "meaning": "He summarized the story too much."
+  },
+  {
+    "sentence": "その場の端から参加しました。",
+    "sentence_furigana": "その場【ば】の端【はし】から参加【さんか】しました。",
+    "meaning": "I participated from the beginning of the event."
+  },
+  {
+    "sentence": "彼は物事の端々まで注意を払う。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端々【はしばし】まで注意【ちゅうい】を払【はら】う。",
+    "meaning": "He pays attention to every detail of things."
+  },
+  {
+    "sentence": "端から順に名前を呼んでください。",
+    "sentence_furigana": "端【はし】から順【じゅん】に名前【なまえ】を呼【よ】んでください。",
+    "meaning": "Please call out the names in order from the beginning."
+  },
+  {
+    "sentence": "その本の端に書き込みがあった。",
+    "sentence_furigana": "その本【ほん】の端【はし】に書込【かきこ】みがあった。",
+    "meaning": "There were annotations at the edge of that book."
+  },
+  {
+    "sentence": "彼は常に新しい技術の端を探求している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい技術【ぎじゅつ】の端【はし】を探求【たんきゅう】している。",
+    "meaning": "He is always exploring the frontiers of new technology."
+  },
+  {
+    "sentence": "この服の端は手縫いです。",
+    "sentence_furigana": "この服【ふく】の端【はし】は手縫【てぬ】いです。",
+    "meaning": "The edge of this clothing is hand-sewn."
+  },
+  {
+    "sentence": "物語の端が明かされた。",
+    "sentence_furigana": "物語【ものがたり】の端【はし】が明【あか】された。",
+    "meaning": "The beginning of the story was revealed."
+  },
+  {
+    "sentence": "彼は事の端を発見した。",
+    "sentence_furigana": "彼【かれ】は事【こと】の端【はし】を発見【はっけん】した。",
+    "meaning": "He discovered the origin of the matter."
+  },
+  {
+    "sentence": "壁の端に埃が溜まっていた。",
+    "sentence_furigana": "壁【かべ】の端【はし】に埃【ほこり】が溜【た】まっていた。",
+    "meaning": "Dust had accumulated at the edge of the wall."
+  },
+  {
+    "sentence": "彼の忠告の端を聞き漏らした。",
+    "sentence_furigana": "彼【かれ】の忠告【ちゅうこく】の端【はし】を聞【き】き漏【も】らした。",
+    "meaning": "I missed the point of his advice."
+  },
+  {
+    "sentence": "この土地の端まで家が建っている。",
+    "sentence_furigana": "この土地【とち】の端【はし】まで家【いえ】が建【た】っている。",
+    "meaning": "Houses are built up to the edge of this land."
+  },
+  {
+    "sentence": "彼は常に社会の端に立つ人物だ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に社会【しゃかい】の端【はし】に立【た】つ人物【じんぶつ】だ。",
+    "meaning": "He is a person who always stands at the fringes of society."
+  },
+  {
+    "sentence": "その書類の端に印鑑を押してください。",
+    "sentence_furigana": "その書類【しょるい】の端【はし】に印鑑【いんかん】を押【お】してください。",
+    "meaning": "Please stamp the seal at the end of that document."
+  },
+  {
+    "sentence": "彼は物事の端を捉えるのがうまい。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】を捉【とら】えるのがうまい。",
+    "meaning": "He is good at grasping the essence of things."
+  },
+  {
+    "sentence": "その島は海の端に浮かんでいた。",
+    "sentence_furigana": "その島【しま】は海【うみ】の端【はし】に浮【う】かんでいた。",
+    "meaning": "That island floated at the edge of the sea."
+  },
+  {
+    "sentence": "彼はその場の端まで気を配った。",
+    "sentence_furigana": "彼【かれ】はそこの端【はし】まで気【き】を配【くば】った。",
+    "meaning": "He paid attention to every corner of the place."
+  },
+  {
+    "sentence": "この山の端に隠れ家があるらしい。",
+    "sentence_furigana": "この山【やま】の端【はし】に隠【かく】れ家【が】があるらしい。",
+    "meaning": "There seems to be a hideout at the edge of this mountain."
+  },
+  {
+    "sentence": "彼は話の端を掻い摘む。",
+    "sentence_furigana": "彼【かれ】は話【はな】の端【はし】を掻【か】い摘【ま】む。",
+    "meaning": "He picks out parts of the story."
+  },
+  {
+    "sentence": "その絵画の端から色が滲み出ている。",
+    "sentence_furigana": "その絵画【かいが】の端【はし】から色【いろ】が滲【にじ】み出【で】ている。",
+    "meaning": "Color is bleeding from the edge of that painting."
+  },
+  {
+    "sentence": "彼は物事の端を見失わない。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】を見失【みうしな】わない。",
+    "meaning": "He never loses sight of the essentials."
+  },
+  {
+    "sentence": "川の端で子供たちが遊んでいた。",
+    "sentence_furigana": "川【かわ】の端【はし】で子供【こども】たちが遊【あそ】んでいた。",
+    "meaning": "Children were playing at the edge of the river."
+  },
+  {
+    "sentence": "会議の端で彼の発言が注目された。",
+    "sentence_furigana": "会議【かいぎ】の端【はし】で彼【かれ】の発言【はつげん】が注目【ちゅうもく】された。",
+    "meaning": "His remark attracted attention at the outset of the meeting."
+  },
+  {
+    "sentence": "その箱の端に傷がついていた。",
+    "sentence_furigana": "その箱【はこ】の端【はし】に傷【きず】がついていた。",
+    "meaning": "The edge of that box was scratched."
+  },
+  {
+    "sentence": "彼は常に時代の最先端の端にいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に時代【じだい】の最先端【さいせんたん】の端【はし】にいる。",
+    "meaning": "He is always at the cutting edge of the times."
+  },
+  {
+    "sentence": "この橋の端は危険だ。",
+    "sentence_furigana": "この橋【はし】の端【はし】は危険【きけん】だ。",
+    "meaning": "The edge of this bridge is dangerous."
+  },
+  {
+    "sentence": "彼は物事の端から順序立てて説明した。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】から順序立【じゅんじょだ】てて説明【せつめい】した。",
+    "meaning": "He explained things systematically from the beginning."
+  },
+  {
+    "sentence": "テーブルの端に肘をぶつけた。",
+    "sentence_furigana": "テーブルの端【はし】に肘【ひじ】をぶつけた。",
+    "meaning": "I hit my elbow on the edge of the table."
+  },
+  {
+    "sentence": "その知らせは事の端を示すものだった。",
+    "sentence_furigana": "その知【し】らせは事【こと】の端【はし】を示【しめ】すものだった。",
+    "meaning": "That news indicated the origin of the matter."
+  },
+  {
+    "sentence": "彼は常に学問の端に触れている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に学問【がくもん】の端【はし】に触【ふ】れている。",
+    "meaning": "He always touches upon the frontiers of scholarship."
+  },
+  {
+    "sentence": "この布の端はほつれやすい。",
+    "sentence_furigana": "この布【ぬの】の端【はし】はほつれやすい。",
+    "meaning": "The edge of this fabric frays easily."
+  },
+  {
+    "sentence": "彼は話の端々に人生経験を語った。",
+    "sentence_furigana": "彼【かれ】は話【はな】の端々【はしばし】に人生経験【じんせいけいけん】を語【かた】った。",
+    "meaning": "He spoke of his life experiences in passing."
+  },
+  {
+    "sentence": "その崖の端に立つ。",
+    "sentence_furigana": "その崖【がけ】の端【はし】に立【た】つ。",
+    "meaning": "To stand on the edge of that cliff."
+  },
+  {
+    "sentence": "この本棚の端から整理しよう。",
+    "sentence_furigana": "この本棚【ほんだな】の端【はし】から整理【せいり】しよう。",
+    "meaning": "Let's organize from the edge of this bookshelf."
+  },
+  {
+    "sentence": "彼は常に社会の端の方で生きている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に社会【しゃかい】の端【はし】の方【ほう】で生【い】きている。",
+    "meaning": "He always lives on the fringes of society."
+  },
+  {
+    "sentence": "この道路の端に歩道を作る。",
+    "sentence_furigana": "この道路【どうろ】の端【はし】に歩道【ほどう】を作【つく】る。",
+    "meaning": "We will build a sidewalk on the edge of this road."
+  },
+  {
+    "sentence": "彼は物事の端を正確に把握する。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】を正確【せいかく】に把握【はあく】する。",
+    "meaning": "He accurately grasps the essentials of things."
+  },
+  {
+    "sentence": "この川の端まで水が来ている。",
+    "sentence_furigana": "この川【かわ】の端【はし】まで水【みず】が来【き】ている。",
+    "meaning": "Water has come up to the edge of this river."
+  },
+  {
+    "sentence": "彼は常に変化の端を見ている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に変化【へんか】の端【はし】を見【み】ている。",
+    "meaning": "He is always watching the edge of change."
+  },
+  {
+    "sentence": "その布の端にレースを縫い付けた。",
+    "sentence_furigana": "その布【ぬの】の端【はし】にレースを縫【ぬ】い付【つ】けた。",
+    "meaning": "I sewed lace onto the edge of that cloth."
+  },
+  {
+    "sentence": "会議の端で重要な決定がなされた。",
+    "sentence_furigana": "会議【かいぎ】の端【はし】で重要【じゅうよう】な決定【けってい】がなされた。",
+    "meaning": "An important decision was made at the end of the meeting."
+  },
+  {
+    "sentence": "彼は常に未来の端を切り開いている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に未来【みらい】の端【はし】を切【き】り開【ひら】いている。",
+    "meaning": "He is always forging the frontier of the future."
+  },
+  {
+    "sentence": "このテーブルの端に本を置かないでください。",
+    "sentence_furigana": "このテーブルの端【はし】に本【ほん】を置【お】かないでください。",
+    "meaning": "Please do not place books on the edge of this table."
+  },
+  {
+    "sentence": "彼は物事の端から順に学んだ。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】から順【じゅん】に学【まな】んだ。",
+    "meaning": "He learned things in order from the beginning."
+  },
+  {
+    "sentence": "その橋の端まで歩いて行った。",
+    "sentence_furigana": "その橋【はし】の端【はし】まで歩【ある】いて行【い】った。",
+    "meaning": "I walked to the edge of that bridge."
+  },
+  {
+    "sentence": "彼は常に議論の端に立つ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に議論【ぎろん】の端【はし】に立【た】つ。",
+    "meaning": "He always takes the initiative in discussions."
+  },
+  {
+    "sentence": "この生地の端に汚れがあった。",
+    "sentence_furigana": "この生地【きじ】の端【はし】に汚【よご】れがあった。",
+    "meaning": "There was dirt on the edge of this fabric."
+  },
+  {
+    "sentence": "彼は話の端々に鋭い観察眼を示した。",
+    "sentence_furigana": "彼【かれ】は話【はな】の端々【はしばし】に鋭【するど】い観察眼【かんさつがん】を示【しめ】した。",
+    "meaning": "He showed sharp observation skills in his words."
+  },
+  {
+    "sentence": "その土地の端まで調査を行った。",
+    "sentence_furigana": "その土地【とち】の端【はし】まで調査【ちょうさ】を行【おこな】った。",
+    "meaning": "An investigation was conducted to the edge of that land."
+  },
+  {
+    "sentence": "彼は常に困難の端に立ち向かう。",
+    "sentence_furigana": "彼【かれ】は常【つね】に困難【こんなん】の端【はし】に立【た】ち向【む】かう。",
+    "meaning": "He always confronts the edge of difficulty."
+  },
+  {
+    "sentence": "このテーブルの端で作業しないでください。",
+    "sentence_furigana": "このテーブルの端【はし】で作業【さぎょう】しないでください。",
+    "meaning": "Please do not work at the edge of this table."
+  },
+  {
+    "sentence": "彼は事の端を正した。",
+    "sentence_furigana": "彼【かれ】は事【こと】の端【はし】を正【ただ】した。",
+    "meaning": "He corrected the beginning of the matter."
+  },
+  {
+    "sentence": "その壁の端から光が漏れていた。",
+    "sentence_furigana": "その壁【かべ】の端【はし】から光【ひかり】が漏【も】れていた。",
+    "meaning": "Light was leaking from the edge of that wall."
+  },
+  {
+    "sentence": "彼は常に知識の端を広げている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に知識【ちしき】の端【はし】を広【ひろ】げている。",
+    "meaning": "He is always expanding the frontiers of knowledge."
+  },
+  {
+    "sentence": "このリボンの端を切り揃えなさい。",
+    "sentence_furigana": "このリボンの端【はし】を切【き】り揃【そろ】えなさい。",
+    "meaning": "Cut and align the ends of this ribbon."
+  },
+  {
+    "sentence": "彼は話の端々から真意を汲み取った。",
+    "sentence_furigana": "彼【かれ】は話【はな】の端々【はしばし】から真意【しんい】を汲【く】み取【と】った。",
+    "meaning": "He understood the true meaning from his words."
+  },
+  {
+    "sentence": "その国境の端まで旅をした。",
+    "sentence_furigana": "その国境【こっきょう】の端【はし】まで旅【たび】をした。",
+    "meaning": "I traveled to the border's edge."
+  },
+  {
+    "sentence": "彼は常に時代の変わり目の端に立つ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に時代【じだい】の変【か】わり目【め】の端【はし】に立【た】つ。",
+    "meaning": "He always stands at the cusp of change."
+  },
+  {
+    "sentence": "その山の端に虹がかかった。",
+    "sentence_furigana": "その山【やま】の端【は】に虹【にじ】がかかった。",
+    "meaning": "A rainbow appeared over the mountain ridge."
+  },
+  {
+    "sentence": "彼は物事の端まで決して妥協しない。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の端【はし】まで決【けっ】して妥協【だきょう】しない。",
+    "meaning": "He never compromises on even the smallest details."
+  },
+  {
+    "sentence": "このページの端に注釈を書き込む。",
+    "sentence_furigana": "このページの端【はし】に注釈【ちゅうしゃく】を書込【かきこ】む。",
+    "meaning": "Write annotations at the edge of this page."
+  },
+  {
+    "sentence": "彼は常に新しい発見の端を探求する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい発見【はっけん】の端【はし】を探求【たんきゅう】する。",
+    "meaning": "He always explores the frontier of new discoveries."
+  },
+  {
+    "sentence": "その窓の端から外を眺めた。",
+    "sentence_furigana": "その窓【まど】の端【はし】から外【そと】を眺【なが】めた。",
+    "meaning": "I looked outside from the edge of that window."
+  },
+  {
+    "sentence": "彼は常に人生の端々を大切にする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に人生【じんせい】の端々【はしばし】を大切【たいせつ】にする。",
+    "meaning": "He always cherishes every moment of life."
+  },
+  {
+    "sentence": "この敷地の端まで測量する。",
+    "sentence_furigana": "この敷地【しきち】の端【はし】まで測量【そくりょう】する。",
+    "meaning": "Measure up to the edge of this site."
+  },
+  {
+    "sentence": "彼は常に改革の端を開拓する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に改革【かいかく】の端【はし】を開拓【かいたく】する。",
+    "meaning": "He always pioneers the forefront of reform."
+  },
+  {
+    "sentence": "その川の端に古い家が建っていた。",
+    "sentence_furigana": "その川【かわ】の端【はし】に古【ふる】い家【いえ】が建【た】っていた。",
+    "meaning": "An old house stood at the edge of that river."
+  }
+]

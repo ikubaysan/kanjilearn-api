@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "彼は遠く隔てられた島に住んでいた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】く隔【へだ】てられた島【しま】に住【す】んでいた。",
+    "meaning": "He lived on a distant, isolated island."
+  },
+  {
+    "sentence": "二人の関係は地理的な隔たりによって困難になった。",
+    "sentence_furigana": "二人【ふたり】の関係【かんけい】は地理的【ちりてき】な隔【へだ】たりによって困難【こんなん】になった。",
+    "meaning": "Their relationship became difficult due to geographical distance."
+  },
+  {
+    "sentence": "この壁は部屋を二つに隔てている。",
+    "sentence_furigana": "この壁【かべ】は部屋【へや】を二【ふた】つに隔【へだ】てている。",
+    "meaning": "This wall separates the room into two."
+  },
+  {
+    "sentence": "感染症を防ぐため、患者は隔離された。",
+    "sentence_furigana": "感染症【かんせんしょう】を防【ふせ】ぐため、患者【かんじゃ】は隔離【かくり】された。",
+    "meaning": "The patient was isolated to prevent the spread of infectious disease."
+  },
+  {
+    "sentence": "彼女は人々と隔たりを感じていた。",
+    "sentence_furigana": "彼女【かのじょ】は人【ひと】々と隔【へだ】たりを感じ【かんじ】ていた。",
+    "meaning": "She felt a distance from people."
+  },
+  {
+    "sentence": "意見の隔たりが会議を難しくした。",
+    "sentence_furigana": "意見【いけん】の隔【へだ】たりが会議【かいぎ】を難【むずか】しくした。",
+    "meaning": "The difference in opinions made the meeting difficult."
+  },
+  {
+    "sentence": "世代の隔たりはコミュニケーションの障壁となりうる。",
+    "sentence_furigana": "世代【せだい】の隔【へだ】たりはコミュニケーションの障壁【しょうへき】となりうる。",
+    "meaning": "The generation gap can be a barrier to communication."
+  },
+  {
+    "sentence": "彼は長年、故郷から隔てられていた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、故郷【こきょう】から隔【へだ】てられていた。",
+    "meaning": "He had been separated from his hometown for many years."
+  },
+  {
+    "sentence": "二つの都市の間には深い溝が隔てている。",
+    "sentence_furigana": "二【ふた】つの都市【とし】の間【あいだ】には深【ふか】い溝【みぞ】が隔【へだ】てている。",
+    "meaning": "A deep gulf separates the two cities."
+  },
+  {
+    "sentence": "彼らは定期的に隔週で会合を開く。",
+    "sentence_furigana": "彼ら【かれら】は定期的【ていきてき】に隔週【かくしゅう】で会合【かいごう】を開【ひら】く。",
+    "meaning": "They hold meetings every other week."
+  },
+  {
+    "sentence": "そのニュースは世界を隔てた人々の心をつなげた。",
+    "sentence_furigana": "そのニュースは世界【せかい】を隔【へだ】てた人【ひと】々【びと】の心【こころ】をつなげた。",
+    "meaning": "The news connected people separated by the world."
+  },
+  {
+    "sentence": "両国の間には歴史的な隔たりがある。",
+    "sentence_furigana": "両国【りょうこく】の間【あいだ】には歴史的【れきしてき】な隔【へだ】たりがある。",
+    "meaning": "There is a historical distance between the two countries."
+  },
+  {
+    "sentence": "このフェンスは庭を隣の敷地から隔てている。",
+    "sentence_furigana": "このフェンスは庭【にわ】を隣【となり】の敷地【しきち】から隔【へだ】てている。",
+    "meaning": "This fence separates the yard from the neighboring property."
+  },
+  {
+    "sentence": "彼は自分の感情を隔てようとした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】を隔【へだ】てようとした。",
+    "meaning": "He tried to distance himself from his emotions."
+  },
+  {
+    "sentence": "この薬は病気の進行を隔てるのに役立ちます。",
+    "sentence_furigana": "この薬【くすり】は病気【びょうき】の進行【しんこう】を隔【へだ】てるのに役立【やくた】ちます。",
+    "meaning": "This medicine helps to separate the progression of the disease."
+  },
+  {
+    "sentence": "物理的な隔たりがあっても、友情は続く。",
+    "sentence_furigana": "物理的【ぶつりてき】な隔【へだ】たりがあっても、友情【ゆうじょう】は続【つづ】く。",
+    "meaning": "Friendship endures despite physical distance."
+  },
+  {
+    "sentence": "隔週でボランティア活動に参加している。",
+    "sentence_furigana": "隔週【かくしゅう】でボランティア活動【かつどう】に参加【さんか】している。",
+    "meaning": "I participate in volunteer activities every other week."
+  },
+  {
+    "sentence": "文化の隔たりは誤解を生むことがある。",
+    "sentence_furigana": "文化【ぶんか】の隔【へだ】たりは誤解【ごかい】を生【う】むことがある。",
+    "meaning": "Cultural differences can lead to misunderstandings."
+  },
+  {
+    "sentence": "その山脈は二つの地域を隔てている。",
+    "sentence_furigana": "その山脈【さんみゃく】は二【ふた】つの地域【ちいき】を隔【へだ】てている。",
+    "meaning": "That mountain range separates the two regions."
+  },
+  {
+    "sentence": "彼は他人との間に見えない壁を隔てた。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】との間【あいだ】に見【み】えない壁【かべ】を隔【へだ】てた。",
+    "meaning": "He put up an invisible wall between himself and others."
+  },
+  {
+    "sentence": "この橋は川の両岸を隔てている。",
+    "sentence_furigana": "この橋【はし】は川【かわ】の両岸【りょうがん】を隔【へだ】てている。",
+    "meaning": "This bridge separates the two banks of the river."
+  },
+  {
+    "sentence": "隔月で健康診断を受けている。",
+    "sentence_furigana": "隔月【かくげつ】で健康診断【けんこうしんだん】を受【う】けている。",
+    "meaning": "I have a health check-up every other month."
+  },
+  {
+    "sentence": "長い年月が彼らの関係に隔たりを生んだ。",
+    "sentence_furigana": "長【なが】い年月【ねんげつ】が彼ら【かれら】の関係【かんけい】に隔【へだ】たりを生【う】んだ。",
+    "meaning": "Many years created a distance in their relationship."
+  },
+  {
+    "sentence": "隔週火曜日に会議が開催されます。",
+    "sentence_furigana": "隔週【かくしゅう】火曜【かよう】日【び】に会議【かいぎ】が開催【かいさい】されます。",
+    "meaning": "The meeting is held every other Tuesday."
+  },
+  {
+    "sentence": "彼らは互いの意見の隔たりを乗り越えようとした。",
+    "sentence_furigana": "彼ら【かれら】は互【たが】いの意見【いけん】の隔【へだ】たりを乗【の】り越【こ】えようとした。",
+    "meaning": "They tried to overcome the differences in their opinions."
+  },
+  {
+    "sentence": "隔たる年月を経ても、その記憶は鮮明だった。",
+    "sentence_furigana": "隔【へだ】たる年月【ねんげつ】を経【へ】ても、その記憶【きおく】は鮮明【せんめい】だった。",
+    "meaning": "Even after many years had passed, the memory was vivid."
+  },
+  {
+    "sentence": "この壁が私たちの部屋を隔てています。",
+    "sentence_furigana": "この壁【かべ】が私【わたし】たちの一部屋【へや】を隔【へだ】てています。",
+    "meaning": "This wall separates our rooms."
+  },
+  {
+    "sentence": "隔月で地域の清掃活動が行われる。",
+    "sentence_furigana": "隔月【かくげつ】で地域【ちいき】の清掃活動【せいそうかつどう】が行【おこな】われる。",
+    "meaning": "Community cleaning activities are held every other month."
+  },
+  {
+    "sentence": "彼は公私を隔てることを大切にしている。",
+    "sentence_furigana": "彼【かれ】は公私【こうし】を隔【へだ】てることを大切【たいせつ】にしている。",
+    "meaning": "He values keeping his public and private life separate."
+  },
+  {
+    "sentence": "隔たりを感じる時、人は孤独になる。",
+    "sentence_furigana": "隔【へだ】たりを感じ【かんじ】る時【とき】、人【ひと】は孤独【こどく】になる。",
+    "meaning": "When one feels a distance, one becomes lonely."
+  },
+  {
+    "sentence": "隔週で家族とオンラインで話している。",
+    "sentence_furigana": "隔週【かくしゅう】で家族【かぞく】とオンラインで話【はな】している。",
+    "meaning": "I talk with my family online every other week."
+  },
+  {
+    "sentence": "この仕切りは、空間を隔てるのに役立つ。",
+    "sentence_furigana": "この仕切【しき】りは、空間【くうかん】を隔【へだ】てるのに役立【やくた】つ。",
+    "meaning": "This partition helps to separate the space."
+  },
+  {
+    "sentence": "隔てることなく、人々と交流したい。",
+    "sentence_furigana": "隔【へだ】てることなく、人【ひと】々と交流【こうりゅう】したい。",
+    "meaning": "I want to interact with people without any separation."
+  },
+  {
+    "sentence": "世代間の隔たりを縮める努力が必要だ。",
+    "sentence_furigana": "世代間【せだいかん】の隔【へだ】たりを縮【ちぢ】める努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "Efforts are needed to bridge the generation gap."
+  },
+  {
+    "sentence": "隔週で友人と映画を見に行く。",
+    "sentence_furigana": "隔週【かくしゅう】で友人【ゆうじん】と映画【えいが】を見【み】に行【い】く。",
+    "meaning": "I go to see movies with friends every other week."
+  },
+  {
+    "sentence": "彼の家は私たちの家からかなり隔てられている。",
+    "sentence_furigana": "彼【かれ】の家【いえ】は私【わたし】たちの一家【いえ】からかなり隔【へだ】てられている。",
+    "meaning": "His house is quite distant from ours."
+  },
+  {
+    "sentence": "この壁は音を隔てるのに効果的だ。",
+    "sentence_furigana": "この壁【かべ】は音【おと】を隔【へだ】てるのに効果的【こうかてき】だ。",
+    "meaning": "This wall is effective at separating sound."
+  },
+  {
+    "sentence": "隔てることのない、開かれた心を持つべきだ。",
+    "sentence_furigana": "隔【へだ】てることのない、開【ひら】かれた心【こころ】を持【も】つべきだ。",
+    "meaning": "We should have an open heart, without any separation."
+  },
+  {
+    "sentence": "隔週で彼はジムに通っている。",
+    "sentence_furigana": "隔週【かくしゅう】で彼【かれ】はジムに通【とお】っている。",
+    "meaning": "He goes to the gym every other week."
+  },
+  {
+    "sentence": "隔たりは心の距離を増やす。",
+    "sentence_furigana": "隔【へだ】たりは心【こころ】の距離【きょり】を増【ふ】やす。",
+    "meaning": "Distance increases the distance in one's heart."
+  },
+  {
+    "sentence": "その事故は多くの人々を隔てた悲劇だった。",
+    "sentence_furigana": "その事故【じこ】は多【おお】くの人々【ひとびと】を隔【へだ】てた悲劇【ひげき】だった。",
+    "meaning": "That accident was a tragedy that separated many people."
+  },
+  {
+    "sentence": "隔月で友人と食事をする約束をしている。",
+    "sentence_furigana": "隔月【かくげつ】で友人【ゆうじん】と食事【しょくじ】をする約束【やくそく】をしている。",
+    "meaning": "I have plans to have dinner with friends every other month."
+  },
+  {
+    "sentence": "その法律は国民を二つのグループに隔てた。",
+    "sentence_furigana": "その法律【ほうりつ】は国民【こくみん】を二【ふた】つのグループに隔【へだ】てた。",
+    "meaning": "That law separated the citizens into two groups."
+  },
+  {
+    "sentence": "隔てる壁をなくし、みんなで協力しよう。",
+    "sentence_furigana": "隔【へだ】てる壁【かべ】をなくし、みんなで協力【きょうりょく】しよう。",
+    "meaning": "Let's remove the walls that separate us and cooperate together."
+  },
+  {
+    "sentence": "隔週でボランティア活動に参加する予定です。",
+    "sentence_furigana": "隔週【かくしゅう】でボランティア活動【かつどう】に参加【さんか】する予定【よてい】です。",
+    "meaning": "I plan to participate in volunteer activities every other week."
+  },
+  {
+    "sentence": "この状況は、私たちを隔てるものとなった。",
+    "sentence_furigana": "この状況【じょうきょう】は、私たち【わたし】を隔【へだ】てるものとなった。",
+    "meaning": "This situation became something that separated us."
+  },
+  {
+    "sentence": "隔たりがあるからこそ、連絡が大切になる。",
+    "sentence_furigana": "隔【へだ】たりがあるからこそ、連絡【れんらく】が大切【たいせつ】になる。",
+    "meaning": "It is precisely because there is distance that communication becomes important."
+  },
+  {
+    "sentence": "隔週で新しい本を読む習慣をつけている。",
+    "sentence_furigana": "隔週【かくしゅう】で新【あたら】しい本【ほん】を読【よ】む習慣【しゅうかん】をつけている。",
+    "meaning": "I have a habit of reading a new book every other week."
+  },
+  {
+    "sentence": "隔てられた土地でも、人々は協力して生きていた。",
+    "sentence_furigana": "隔【へだ】てられた土地【とち】でも、人々【ひとびと】は協力【きょうりょく】して生【い】きていた。",
+    "meaning": "Even in the separated land, people cooperated to live."
+  },
+  {
+    "sentence": "隔月で友人とチャットをしている。",
+    "sentence_furigana": "隔月【かくげつ】で友人【ゆうじん】とチャットをしている。",
+    "meaning": "I chat with friends every other month."
+  },
+  {
+    "sentence": "その壁は文化の隔たりを示している。",
+    "sentence_furigana": "その壁【かべ】は文化【ぶんか】の隔【へだ】たりを示【しめ】している。",
+    "meaning": "That wall represents the cultural divide."
+  },
+  {
+    "sentence": "隔てることなく話せる関係が理想だ。",
+    "sentence_furigana": "隔【へだ】てることなく話【はな】せる関係【かんけい】が理想【りそう】だ。",
+    "meaning": "A relationship where one can speak without reservation is ideal."
+  },
+  {
+    "sentence": "隔週で近所の公園を散歩する。",
+    "sentence_furigana": "隔週【かくしゅう】で近所【きんじょ】の公園【こうえん】を散歩【さんぽ】する。",
+    "meaning": "I take a walk in the neighborhood park every other week."
+  },
+  {
+    "sentence": "隔たりを乗り越えて、互いを理解しよう。",
+    "sentence_furigana": "隔【へだ】たりを乗【の】り越【こ】えて、互【たが】いを理解【りかい】しよう。",
+    "meaning": "Let's overcome the distance and understand each other."
+  },
+  {
+    "sentence": "隔てるものはない、私たちは一つだ。",
+    "sentence_furigana": "隔【へだ】てるものはない、私【わたし】たちは一【ひと】つだ。",
+    "meaning": "There is nothing that separates us; we are one."
+  },
+  {
+    "sentence": "隔週で新しいレシピを試している。",
+    "sentence_furigana": "隔週【かくしゅう】で新【あたら】しいレシピを試【こころ】している。",
+    "meaning": "I try new recipes every other week."
+  },
+  {
+    "sentence": "隔月で家族で集まって食事をする。",
+    "sentence_furigana": "隔月【かくげつ】で家族【かぞく】で集【あつ】まって食事【しょくじ】をする。",
+    "meaning": "The family gets together for meals every other month."
+  },
+  {
+    "sentence": "その溝は彼らの間に深い隔たりを作った。",
+    "sentence_furigana": "その溝【みぞ】は彼ら【かれら】の間【あいだ】に深【ふか】い隔【へだ】たりを作【つく】った。",
+    "meaning": "That gap created a deep distance between them."
+  },
+  {
+    "sentence": "隔たりはあっても、心は通じ合っている。",
+    "sentence_furigana": "隔【へだ】たりはあっても、心【こころ】は通【つう】じ合【あ】っている。",
+    "meaning": "Even with distance, our hearts are connected."
+  },
+  {
+    "sentence": "隔週で趣味の教室に通っている。",
+    "sentence_furigana": "隔週【かくしゅう】で趣味【しゅみ】の教室【きょうしつ】に通【とお】っている。",
+    "meaning": "I attend a hobby class every other week."
+  },
+  {
+    "sentence": "隔てるものをなくし、共に歩む。",
+    "sentence_furigana": "隔【へだ】てるものをなくし、共【とも】に歩【あゆ】む。",
+    "meaning": "Let's eliminate what separates us and walk together."
+  },
+  {
+    "sentence": "隔月で友人に手紙を書いている。",
+    "sentence_furigana": "隔月【かくげつ】で友人【ゆうじん】に手紙【てがみ】を書【か】いている。",
+    "meaning": "I write letters to my friends every other month."
+  },
+  {
+    "sentence": "その距離は物理的な隔たりに過ぎない。",
+    "sentence_furigana": "その距離【きょり】は物理的【ぶつりてき】な隔【へだ】たりに過【す】ぎない。",
+    "meaning": "That distance is merely a physical separation."
+  },
+  {
+    "sentence": "隔てることなく意見を交換できる場が必要だ。",
+    "sentence_furigana": "隔【へだ】てることなく意見【いけん】を交換【こうかん】できる場【ば】が必要【ひつよう】だ。",
+    "meaning": "We need a place where opinions can be exchanged without reservation."
+  },
+  {
+    "sentence": "隔週で図書館で本を借りている。",
+    "sentence_furigana": "隔週【かくしゅう】で図書館【としょかん】で本【ほん】を借【か】りている。",
+    "meaning": "I borrow books from the library every other week."
+  },
+  {
+    "sentence": "隔たりは関係を強めることもある。",
+    "sentence_furigana": "隔【へだ】たりは関係【かんけい】を強【つよ】めることもある。",
+    "meaning": "Distance can also strengthen a relationship."
+  },
+  {
+    "sentence": "隔月で新しい言語を学び始めた。",
+    "sentence_furigana": "隔月【かくげつ】で新【あたら】しい言語【げんご】を学【まな】び始【はじ】めた。",
+    "meaning": "I started learning a new language every other month."
+  },
+  {
+    "sentence": "隔てる壁があると、心も離れてしまう。",
+    "sentence_furigana": "隔【へだ】てる壁【かべ】があると、心【こころ】も離【はな】れてしまう。",
+    "meaning": "If there is a wall that separates, hearts also drift apart."
+  },
+  {
+    "sentence": "隔週でヨガクラスに参加している。",
+    "sentence_furigana": "隔週【かくしゅう】でヨガクラスに参加【さんか】している。",
+    "meaning": "I attend yoga classes every other week."
+  },
+  {
+    "sentence": "隔たりをなくし、共に進む。",
+    "sentence_furigana": "隔【へだ】たりをなくし、共【とも】に進【すす】む。",
+    "meaning": "Let's remove the distance and move forward together."
+  },
+  {
+    "sentence": "隔月で趣味の雑誌を購読している。",
+    "sentence_furigana": "隔月【かくげつ】で趣味【しゅみ】の雑誌【ざっし】を購読【こうどく】している。",
+    "meaning": "I subscribe to a hobby magazine every other month."
+  },
+  {
+    "sentence": "その国境は二つの文化を隔てている。",
+    "sentence_furigana": "その国境【こっきょう】は二【ふた】つの文化【ぶんか】を隔【へだ】てている。",
+    "meaning": "That border separates two cultures."
+  },
+  {
+    "sentence": "隔てることなく、自由に話しましょう。",
+    "sentence_furigana": "隔【へだ】てることなく、自由【じゆう】に話【はな】しましょう。",
+    "meaning": "Let's speak freely, without reservation."
+  },
+  {
+    "sentence": "隔週で健康のために運動している。",
+    "sentence_furigana": "隔週【かくしゅう】で健康【けんこう】のため運動【うんどう】している。",
+    "meaning": "I exercise for my health every other week."
+  },
+  {
+    "sentence": "隔たりはコミュニケーションの障害となる可能性がある。",
+    "sentence_furigana": "隔【へだ】たりはコミュニケーションの障害【しょうがい】となる可能性【かのうせい】がある。",
+    "meaning": "Distance can be an obstacle to communication."
+  },
+  {
+    "sentence": "隔月で友人とディナーに出かける。",
+    "sentence_furigana": "隔月【かくげつ】で友人【ゆうじん】とディナーに出【で】かける。",
+    "meaning": "I go out for dinner with friends every other month."
+  },
+  {
+    "sentence": "その川は村を二つに隔てていた。",
+    "sentence_furigana": "その川【かわ】は村【むら】を二【ふた】つに隔【へだ】てていた。",
+    "meaning": "That river separated the village into two."
+  },
+  {
+    "sentence": "隔てることなく、互いの経験を共有したい。",
+    "sentence_furigana": "隔【へだ】てることなく、互【たが】いの経験【けいけん】を共有【きょうゆう】したい。",
+    "meaning": "I want to share our experiences without reservation."
+  },
+  {
+    "sentence": "隔週で趣味のブログを更新している。",
+    "sentence_furigana": "隔週【かくしゅう】で趣味【しゅみ】のブログを更新【こうしん】している。",
+    "meaning": "I update my hobby blog every other week."
+  },
+  {
+    "sentence": "隔たりは愛を育むこともある。",
+    "sentence_furigana": "隔【へだ】たりは愛【あい】を育【はぐく】むこともある。",
+    "meaning": "Distance can also foster love."
+  },
+  {
+    "sentence": "隔月でボランティアの仕事をしている。",
+    "sentence_furigana": "隔月【かくげつ】でボランティアの仕事【しごと】をしている。",
+    "meaning": "I do volunteer work every other month."
+  },
+  {
+    "sentence": "その仕切りは部屋を区切り、空間を隔てている。",
+    "sentence_furigana": "その仕切【しき】りは部屋【へや】を区切【くぎ】り、空間【くうかん】を隔【へだ】てている。",
+    "meaning": "That partition divides the room, separating the space."
+  },
+  {
+    "sentence": "隔てることなく、お互いを尊重し合おう。",
+    "sentence_furigana": "隔【へだ】てることなく、お互【たが】いを尊重【そんちょう】し合【あ】おう。",
+    "meaning": "Let's respect each other without reservation."
+  },
+  {
+    "sentence": "隔週で新しい音楽を聴いている。",
+    "sentence_furigana": "隔週【かくしゅう】で新【あたら】しい音楽【おんがく】を聴【き】いている。",
+    "meaning": "I listen to new music every other week."
+  },
+  {
+    "sentence": "隔たりは絆を試す。",
+    "sentence_furigana": "隔【へだ】たりは絆【きずな】を試【ため】す。",
+    "meaning": "Distance tests bonds."
+  },
+  {
+    "sentence": "隔月で友人たちとゲームをする。",
+    "sentence_furigana": "隔月【かくげつ】で友人【ゆうじん】たちとゲームをする。",
+    "meaning": "I play games with friends every other month."
+  },
+  {
+    "sentence": "その壁は彼らを隔てる象徴となった。",
+    "sentence_furigana": "その壁【かべ】は彼ら【かれら】を隔【へだ】てる象徴【しょうちょう】となった。",
+    "meaning": "That wall became a symbol separating them."
+  },
+  {
+    "sentence": "隔てることなく、心を開いて話そう。",
+    "sentence_furigana": "隔【へだ】てることなく、心【こころ】を開【ひら】いて話【はな】そう。",
+    "meaning": "Let's open our hearts and talk without reservation."
+  },
+  {
+    "sentence": "隔週で美術館に行く。",
+    "sentence_furigana": "隔週【かくしゅう】で美術館【びじゅつかん】に行【い】く。",
+    "meaning": "I go to the art museum every other week."
+  },
+  {
+    "sentence": "隔たりは時に大切だ。",
+    "sentence_furigana": "隔【へだ】たりは時【とき】に大切【たいせつ】だ。",
+    "meaning": "Distance is sometimes important."
+  },
+  {
+    "sentence": "隔月で新しい映画を観ることにしている。",
+    "sentence_furigana": "隔月【かくげつ】で新【あたら】しい映画【えいが】を観【み】ることにしている。",
+    "meaning": "I have decided to watch a new movie every other month."
+  },
+  {
+    "sentence": "その隔たりは容易に埋められないだろう。",
+    "sentence_furigana": "その隔【へだ】たりは容易【たやす】に埋【う】められないだろう。",
+    "meaning": "That distance will likely not be easily bridged."
+  },
+  {
+    "sentence": "隔てることなく、互いを理解し合える。",
+    "sentence_furigana": "隔【へだ】てることなく、互【たが】いを理解【りかい】し合【あ】える。",
+    "meaning": "We can understand each other without reservation."
+  },
+  {
+    "sentence": "隔週で友人とカフェでお茶をする。",
+    "sentence_furigana": "隔週【かくしゅう】で友人【ゆうじん】とカフェでお茶【ちゃ】をする。",
+    "meaning": "I have tea with friends at a cafe every other week."
+  },
+  {
+    "sentence": "隔たりがあるからこそ、会う機会を大切にしたい。",
+    "sentence_furigana": "隔【へだ】たりがあるからこそ、会【あ】う機会【きかい】を大切【たいせつ】にしたい。",
+    "meaning": "It is precisely because there is distance that I want to cherish the opportunities to meet."
+  },
+  {
+    "sentence": "隔月で新しいレシピを試す。",
+    "sentence_furigana": "隔月【かくげつ】で新【あたら】しいレシピを試【こころ】す。",
+    "meaning": "I try new recipes every other month."
+  },
+  {
+    "sentence": "その壁は物理的な隔たりを表している。",
+    "sentence_furigana": "その壁【かべ】は物理的【ぶつりてき】な隔【へだ】たりを表【あらわ】している。",
+    "meaning": "That wall represents a physical separation."
+  },
+  {
+    "sentence": "隔てることなく、共に未来へ歩む。",
+    "sentence_furigana": "隔【へだ】てることなく、共【とも】に未来【みらい】へ歩【あゆ】む。",
+    "meaning": "Let's walk towards the future together without reservation."
+  }
+]

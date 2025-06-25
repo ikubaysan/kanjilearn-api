@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "幸い、雨は降りませんでした。",
+    "sentence_furigana": "幸【さいわ】い、雨【あめ】は降【ふ】りませんでした。",
+    "meaning": "Fortunately, it did not rain."
+  },
+  {
+    "sentence": "彼の幸運を祈ります。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】を祈【いの】ります。",
+    "meaning": "I wish him good luck."
+  },
+  {
+    "sentence": "この機会に感謝します。",
+    "sentence_furigana": "この機【き】会【かい】に感【かん】謝【しゃ】します。",
+    "meaning": "I am grateful for this opportunity."
+  },
+  {
+    "sentence": "幸せは身近にある。",
+    "sentence_furigana": "幸【しあわ】せは身近【みぢか】にある。",
+    "meaning": "Happiness is close by."
+  },
+  {
+    "sentence": "末永い幸福を願っています。",
+    "sentence_furigana": "末永【すえなが】い幸【こう】福【ふく】を願【ねが】っています。",
+    "meaning": "I wish you lasting happiness."
+  },
+  {
+    "sentence": "幸運にも彼は助かった。",
+    "sentence_furigana": "幸【こう】運【うん】にも彼【かれ】は助【たす】かった。",
+    "meaning": "Fortunately, he was saved."
+  },
+  {
+    "sentence": "彼女は幸せそうだ。",
+    "sentence_furigana": "彼女【かのじょ】は幸【しあわ】せそうだ。",
+    "meaning": "She looks happy."
+  },
+  {
+    "sentence": "人生の幸は人それぞれだ。",
+    "sentence_furigana": "人生【じんせい】の幸【さち】は人【ひと】それぞれだ。",
+    "meaning": "Happiness in life varies from person to person."
+  },
+  {
+    "sentence": "幸運はいつ訪れるかわからない。",
+    "sentence_furigana": "幸【こう】運【うん】はいつ訪【おとず】れるかわからない。",
+    "meaning": "You never know when good fortune will strike."
+  },
+  {
+    "sentence": "彼の成功は幸運の賜物だ。",
+    "sentence_furigana": "彼【かれ】の成【せい】功【こう】は幸【こう】運【うん】の賜物【たまもの】だ。",
+    "meaning": "His success is a stroke of luck."
+  },
+  {
+    "sentence": "幸せを求めて旅に出た。",
+    "sentence_furigana": "幸【しあわ】せを求【もと】めて旅【たび】に出【で】た。",
+    "meaning": "He set out on a journey seeking happiness."
+  },
+  {
+    "sentence": "幸いにも、怪我はありませんでした。",
+    "sentence_furigana": "幸【さいわ】いにも、怪我【けが】はありませんでした。",
+    "meaning": "Fortunately, there were no injuries."
+  },
+  {
+    "sentence": "この幸運を大切にしたい。",
+    "sentence_furigana": "この幸【こう】運【うん】を大【たい】切【せつ】にしたい。",
+    "meaning": "I want to cherish this good fortune."
+  },
+  {
+    "sentence": "彼の幸せな家庭を羨ましく思う。",
+    "sentence_furigana": "彼【かれ】の幸【しあわ】せな家【か】庭【てい】を羨【うらや】ましく思【おも】う。",
+    "meaning": "I envy his happy family."
+  },
+  {
+    "sentence": "幸運は努力する人に味方する。",
+    "sentence_furigana": "幸【こう】運【うん】は努【ど】力【りょく】する人【ひと】に味方【みかた】する。",
+    "meaning": "Fortune favors the brave."
+  },
+  {
+    "sentence": "子どもたちの笑顔が私たちの幸せです。",
+    "sentence_furigana": "子【こ】供【ども】たちの笑顔【えがお】が私【わたし】たちの幸【しあわ】せです。",
+    "meaning": "Our children's smiles are our happiness."
+  },
+  {
+    "sentence": "幸い、電車はまだ来ていなかった。",
+    "sentence_furigana": "幸【さいわ】い、電【でん】車【しゃ】はまだ来て【き】いなかった。",
+    "meaning": "Fortunately, the train had not arrived yet."
+  },
+  {
+    "sentence": "それは幸運な偶然だった。",
+    "sentence_furigana": "それhは幸【こう】運【うん】な偶【ぐう】然【ぜん】だった。",
+    "meaning": "It was a fortunate coincidence."
+  },
+  {
+    "sentence": "彼女は幸せの絶頂にいた。",
+    "sentence_furigana": "彼女【かのじょ】は幸【しあわ】せの絶【ぜっ】頂【ちょう】にいた。",
+    "meaning": "She was at the height of happiness."
+  },
+  {
+    "sentence": "この幸運に感謝し、日々を大切に生きよう。",
+    "sentence_furigana": "この幸【こう】運【うん】に感【かん】謝【しゃ】し、日々【ひび】を大【たい】切【せつ】に生【い】きよう。",
+    "meaning": "Let's cherish each day with gratitude for this good fortune."
+  },
+  {
+    "sentence": "彼の幸運な人生を物語る。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】を物語【ものがた】る。",
+    "meaning": "It tells of his fortunate life."
+  },
+  {
+    "sentence": "真の幸せは心の中にある。",
+    "sentence_furigana": "真【しん】の幸【しあわ】せは心【こころ】の中【なか】にある。",
+    "meaning": "True happiness lies within the heart."
+  },
+  {
+    "sentence": "幸い、遅刻せずに済んだ。",
+    "sentence_furigana": "幸【さいわ】い、遅【ち】刻【こく】せずに済【す】んだ。",
+    "meaning": "Fortunately, I managed not to be late."
+  },
+  {
+    "sentence": "幸運は突然やってくるものだ。",
+    "sentence_furigana": "幸【こう】運【うん】は突【とつ】然【ぜん】やってくるものだ。",
+    "meaning": "Good luck comes unexpectedly."
+  },
+  {
+    "sentence": "彼は幸運にも宝くじに当たった。",
+    "sentence_furigana": "彼【かれ】は幸【こう】運【うん】にも宝【たから】くじに当【あ】たった。",
+    "meaning": "He luckily won the lottery."
+  },
+  {
+    "sentence": "幸せな結婚生活を送っている。",
+    "sentence_furigana": "幸【しあわ】せな結【けっ】婚【こん】生【せい】活【かつ】を送【おく】っている。",
+    "meaning": "They are living a happy married life."
+  },
+  {
+    "sentence": "この幸運は努力の結果です。",
+    "sentence_furigana": "この幸【こう】運【うん】は努【ど】力【りょく】の結果【けっか】です。",
+    "meaning": "This good fortune is the result of hard work."
+  },
+  {
+    "sentence": "幸いにも、誰も怪我をしなかった。",
+    "sentence_furigana": "幸【さいわ】いにも、誰【だれ】も怪我【けが】をしなかった。",
+    "meaning": "Fortunately, nobody was injured."
+  },
+  {
+    "sentence": "人生における幸運の役割。",
+    "sentence_furigana": "人生【じんせい】における幸【こう】運【うん】の役【やく】割【わり】。",
+    "meaning": "The role of luck in life."
+  },
+  {
+    "sentence": "彼女の笑顔は周りを幸せにする。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は周【まわ】りを幸【しあわ】せにする。",
+    "meaning": "Her smile makes those around her happy."
+  },
+  {
+    "sentence": "幸運を掴むためには準備が必要だ。",
+    "sentence_furigana": "幸【こう】運【うん】を掴【つか】むためには準【じゅん】備【び】が必要【ひつよう】だ。",
+    "meaning": "Preparation is necessary to seize good fortune."
+  },
+  {
+    "sentence": "幸い、道は空いていた。",
+    "sentence_furigana": "幸【さいわ】い、道【みち】は空【す】いていた。",
+    "meaning": "Fortunately, the road was empty."
+  },
+  {
+    "sentence": "この幸運を皆で分かち合いたい。",
+    "sentence_furigana": "この幸【こう】運【うん】を皆【みな】で分【わ】かち合【あ】いたい。",
+    "meaning": "I want to share this good fortune with everyone."
+  },
+  {
+    "sentence": "彼は幸運にも良い指導者に出会えた。",
+    "sentence_furigana": "彼【かれ】は幸【こう】運【うん】にも良【よ】い指【し】導【どう】者【しゃ】に出会【であ】えた。",
+    "meaning": "He was fortunate enough to meet a good mentor."
+  },
+  {
+    "sentence": "幸せは自分で見つけるものだ。",
+    "sentence_furigana": "幸【しあわ】せは自【じ】分【ぶん】で見【み】つけるものだ。",
+    "meaning": "Happiness is something you find for yourself."
+  },
+  {
+    "sentence": "幸運は時に偶然の産物である。",
+    "sentence_furigana": "幸【こう】運【うん】は時【とき】に偶【ぐう】然【ぜん】の産【さん】物【ぶつ】である。",
+    "meaning": "Good fortune is sometimes a product of chance."
+  },
+  {
+    "sentence": "幸い、誰も危険な目に遭わなかった。",
+    "sentence_furigana": "幸【さいわ】い、誰【だれ】も危険【きけん】な目【め】に遭【あ】わなかった。",
+    "meaning": "Fortunately, no one was in danger."
+  },
+  {
+    "sentence": "彼の幸運は長くは続かなかった。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】は長【なが】くは続【つづ】かなかった。",
+    "meaning": "His good luck did not last long."
+  },
+  {
+    "sentence": "幸せを願う気持ちは皆同じだ。",
+    "sentence_furigana": "幸【しあわ】せを願【ねが】う気持【きも】ちhは皆【みな】同【おな】じだ。",
+    "meaning": "Everyone wishes for happiness."
+  },
+  {
+    "sentence": "幸運は努力の後に訪れる。",
+    "sentence_furigana": "幸【こう】運【うん】は努【ど】力【りょく】の後【あと】に訪【おとず】れる。",
+    "meaning": "Good fortune comes after hard work."
+  },
+  {
+    "sentence": "この幸運を無駄にしたくない。",
+    "sentence_furigana": "この幸【こう】運【うん】を無駄【むだ】にしたくない。",
+    "meaning": "I don't want to waste this good fortune."
+  },
+  {
+    "sentence": "幸い、重要な書類は無事だった。",
+    "sentence_furigana": "幸【さいわ】い、重要【じゅうよう】な書【しょ】類【るい】は無事【ぶじ】だった。",
+    "meaning": "Fortunately, the important documents were safe."
+  },
+  {
+    "sentence": "彼は多くの幸運に恵まれている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの幸【こう】運【うん】に恵【めぐ】まれている。",
+    "meaning": "He is blessed with much good fortune."
+  },
+  {
+    "sentence": "幸せの形は人それぞれに違う。",
+    "sentence_furigana": "幸【しあわ】せの形【かたち】hは人【ひと】それぞれに違【ちが】う。",
+    "meaning": "The form of happiness differs from person to person."
+  },
+  {
+    "sentence": "幸運は待っていても来ない。",
+    "sentence_furigana": "幸【こう】運【うん】は待【ま】っていても来【こ】ない。",
+    "meaning": "Good luck won't come if you just wait."
+  },
+  {
+    "sentence": "幸運にも彼は早期に病気に気づいた。",
+    "sentence_furigana": "幸【こう】運【うん】にも彼【かれ】は早期【そうき】に病気【びょうき】に気【き】づいた。",
+    "meaning": "Fortunately, he noticed the illness early on."
+  },
+  {
+    "sentence": "彼女は幸せの絶頂で微笑んだ。",
+    "sentence_furigana": "彼女【かのじょ】は幸【しあわ】せの絶【ぜっ】頂【ちょう】で微笑【ほほえ】んだ。",
+    "meaning": "She smiled at the peak of her happiness."
+  },
+  {
+    "sentence": "幸い、道案内をしてくれる人がいた。",
+    "sentence_furigana": "幸【さいわ】い、道【みち】案【あん】内【ない】をしてくれる人【ひと】がいた。",
+    "meaning": "Fortunately, there was someone to guide me."
+  },
+  {
+    "sentence": "幸運の女神は微笑んだ。",
+    "sentence_furigana": "幸【こう】運【うん】の女【め】神【がみ】は微笑【ほほえ】んだ。",
+    "meaning": "The goddess of fortune smiled upon him."
+  },
+  {
+    "sentence": "彼の幸運な人生は多くの人に夢を与えた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】hは多【おお】くの人【ひと】に夢【ゆめ】を与【あた】えた。",
+    "meaning": "His fortunate life gave many people dreams."
+  },
+  {
+    "sentence": "本当の幸せは目に見えないものだ。",
+    "sentence_furigana": "本【ほん】当【とう】の幸【しあわ】せは目【め】に見【み】えないものだ。",
+    "meaning": "True happiness is invisible."
+  },
+  {
+    "sentence": "幸運を祈るばかりです。",
+    "sentence_furigana": "幸【こう】運【うん】を祈【いの】るばかりです。",
+    "meaning": "I can only pray for your good luck."
+  },
+  {
+    "sentence": "幸い、雨はすぐに止んだ。",
+    "sentence_furigana": "幸【さいわ】い、雨【あめ】hはすぐに止【や】んだ。",
+    "meaning": "Fortunately, the rain stopped soon."
+  },
+  {
+    "sentence": "彼は幸運にも成功への道を切り開いた。",
+    "sentence_furigana": "彼【かれ】は幸【こう】運【うん】にも成【せい】功【こう】への道【みち】を切【き】り開【ひら】いた。",
+    "meaning": "He luckily paved the way to success."
+  },
+  {
+    "sentence": "この幸運は永遠に続かないかもしれない。",
+    "sentence_furigana": "この幸【こう】運【うん】hは永【えい】遠【えん】に続【つづ】かないかもしれない。",
+    "meaning": "This good fortune may not last forever."
+  },
+  {
+    "sentence": "幸せは小さなことの積み重ねだ。",
+    "sentence_furigana": "幸【しあわ】せは小【ちい】さなことの積【つ】み重【かさ】ねだ。",
+    "meaning": "Happiness is a accumulation of small things."
+  },
+  {
+    "sentence": "幸運を信じる者はそれを引き寄せる。",
+    "sentence_furigana": "幸【こう】運【うん】を信【しん】じる者【もの】hはそれを引【ひ】き寄【よ】せる。",
+    "meaning": "Those who believe in good luck attract it."
+  },
+  {
+    "sentence": "幸い、誰も傷つかずに済んだ。",
+    "sentence_furigana": "幸【さいわ】い、誰【だれ】も傷【きず】つかずに済【す】んだ。",
+    "meaning": "Fortunately, no one was hurt."
+  },
+  {
+    "sentence": "彼の幸運な人生は多くの人に希望を与えた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】hは多【おお】くの人【ひと】に希【き】望【ぼう】を与【あた】えた。",
+    "meaning": "His fortunate life gave hope to many people."
+  },
+  {
+    "sentence": "幸せを見つける旅は続く。",
+    "sentence_furigana": "幸【しあわ】せを見【み】つける旅【たび】は続【つづ】く。",
+    "meaning": "The journey to find happiness continues."
+  },
+  {
+    "sentence": "幸運は準備された心に宿る。",
+    "sentence_furigana": "幸【こう】運【うん】は準【じゅん】備【び】された心【こころ】に宿【やど】る。",
+    "meaning": "Good luck visits those who are prepared."
+  },
+  {
+    "sentence": "幸い、私たちは無事にたどり着いた。",
+    "sentence_furigana": "幸【さいわ】い、私【わたし】たちhは無事【ぶじ】にたどり着【つ】いた。",
+    "meaning": "Fortunately, we arrived safely."
+  },
+  {
+    "sentence": "彼の幸運は努力と才能の結晶だ。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】は努【ど】力【りょく】と才能【さいのう】の結【けっ】晶【しょう】だ。",
+    "meaning": "His good fortune is a product of hard work and talent."
+  },
+  {
+    "sentence": "幸せは与えられるものではなく、築くものである。",
+    "sentence_furigana": "幸【しあわ】せは与【あた】えられるものではなく、築【きず】くものである。",
+    "meaning": "Happiness is not given, but built."
+  },
+  {
+    "sentence": "幸運を掴むためには勇気が必要だ。",
+    "sentence_furigana": "幸【こう】運【うん】を掴【つか】むためには勇気【ゆうき】が必要【ひつよう】だ。",
+    "meaning": "Courage is needed to seize good fortune."
+  },
+  {
+    "sentence": "幸い、誰もその事故を目撃していなかった。",
+    "sentence_furigana": "幸【さいわ】い、誰【だれ】もその事【じ】故【こ】を目【もく】撃【げき】していなかった。",
+    "meaning": "Fortunately, no one witnessed the accident."
+  },
+  {
+    "sentence": "彼の幸運な人生は多くの人に影響を与えた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】hは多【おお】くの人【ひと】に影【えい】響【きょう】を与【あた】えた。",
+    "meaning": "His fortunate life influenced many people."
+  },
+  {
+    "sentence": "幸せはいつも隣にある。",
+    "sentence_furigana": "幸【しあわ】せはいつも隣【となり】にある。",
+    "meaning": "Happiness is always next to us."
+  },
+  {
+    "sentence": "幸運は努力している者に微笑む。",
+    "sentence_furigana": "幸【こう】運【うん】は努【ど】力【りょく】している者【もの】に微笑【ほほえ】む。",
+    "meaning": "Fortune smiles on those who work hard."
+  },
+  {
+    "sentence": "幸い、嵐はすぐに過ぎ去った。",
+    "sentence_furigana": "幸【さいわ】い、嵐【あらし】hはすぐに過【す】ぎ去【さ】った。",
+    "meaning": "Fortunately, the storm passed quickly."
+  },
+  {
+    "sentence": "彼の幸運な日々はいつまでも続くと信じていた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な日々【ひび】はいつまでも続【つづ】くと信【しん】じていた。",
+    "meaning": "He believed his fortunate days would last forever."
+  },
+  {
+    "sentence": "幸せの瞬間を大切にしましょう。",
+    "sentence_furigana": "幸【しあわ】せの瞬【しゅん】間【かん】を大【たい】切【せつ】にしましょう。",
+    "meaning": "Let's cherish moments of happiness."
+  },
+  {
+    "sentence": "幸運を祈ります、頑張ってください。",
+    "sentence_furigana": "幸【こう】運【うん】を祈【いの】ります、頑張【がんば】ってください。",
+    "meaning": "Good luck, and do your best."
+  },
+  {
+    "sentence": "幸い、我々は時間通りに到着できた。",
+    "sentence_furigana": "幸【さいわ】い、我々【われわれ】hは時【じ】間【かん】通【どお】りに到着【とうちゃく】できた。",
+    "meaning": "Fortunately, we were able to arrive on time."
+  },
+  {
+    "sentence": "彼の幸運な再会は劇的だった。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な再【さい】会【かい】hは劇【げき】的【てき】だった。",
+    "meaning": "His fortunate reunion was dramatic."
+  },
+  {
+    "sentence": "幸せは心の持ちようである。",
+    "sentence_furigana": "幸【しあわ】せhは心【こころ】の持【も】ちようである。",
+    "meaning": "Happiness is a state of mind."
+  },
+  {
+    "sentence": "幸運は待つものではなく、つかむものだ。",
+    "sentence_furigana": "幸【こう】運【うん】hは待【ま】つものではなく、つかむものだ。",
+    "meaning": "Good luck is not something to wait for, but to seize."
+  },
+  {
+    "sentence": "幸い、彼の発言は誤解されなかった。",
+    "sentence_furigana": "幸【さいわ】い、彼【かれ】の初【はつ】言【げん】hは誤【ご】解【かい】されなかった。",
+    "meaning": "Fortunately, his remarks were not misunderstood."
+  },
+  {
+    "sentence": "彼の幸運な人生は多くの人々の模範となった。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】hは多【おお】くの人々【ひとびと】の模【も】範【はん】となった。",
+    "meaning": "His fortunate life became a model for many people."
+  },
+  {
+    "sentence": "幸せを分かち合うことで喜びは倍増する。",
+    "sentence_furigana": "幸【しあわ】せを分【わ】かち合【あ】うことで喜【よろこ】びは倍増【ばいぞう】する。",
+    "meaning": "Sharing happiness doubles the joy."
+  },
+  {
+    "sentence": "幸運は人生の追い風となる。",
+    "sentence_furigana": "幸【こう】運【うん】hは人生【じんせい】の追【お】い風【かぜ】となる。",
+    "meaning": "Good fortune becomes a tailwind in life."
+  },
+  {
+    "sentence": "幸い、私たちの祈りは通じた。",
+    "sentence_furigana": "幸【さいわ】い、私【わたし】たちの祈【いの】りhは通【つう】じた。",
+    "meaning": "Fortunately, our prayers were answered."
+  },
+  {
+    "sentence": "彼の幸運な結末は多くの人に感動を与えた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な結【けっ】末【まつ】hは多【おお】くの人【ひと】に感【かん】動【どう】を与【あた】えた。",
+    "meaning": "His fortunate ending moved many people."
+  },
+  {
+    "sentence": "幸せとは何かを問い続ける。",
+    "sentence_furigana": "幸【しあわ】せとは何【なん】かhを問【と】い続【つづ】ける。",
+    "meaning": "We continue to ask what happiness is."
+  },
+  {
+    "sentence": "幸運は謙虚な心に宿ると言う。",
+    "sentence_furigana": "幸【こう】運【うん】hは謙虚【けんきょ】な心【こころ】に宿【やど】ると言【い】う。",
+    "meaning": "They say that good luck resides in a humble heart."
+  },
+  {
+    "sentence": "幸い、現場はすぐに鎮圧された。",
+    "sentence_furigana": "幸【さいわ】い、現【げん】場【じょう】hはすぐに鎮【ちん】圧【あつ】された。",
+    "meaning": "Fortunately, the situation was quickly brought under control."
+  },
+  {
+    "sentence": "彼の幸運な人生は、偶然の積み重ねだった。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】hは、偶【ぐう】然【ぜん】の積【つ】み重【かさ】ねだった。",
+    "meaning": "His fortunate life was a series of coincidences."
+  },
+  {
+    "sentence": "幸せを分かち合える友がいて幸いだ。",
+    "sentence_furigana": "幸【しあわ】せを分【わ】かち合【あ】える友【とも】がいhて幸【さいわ】いだ。",
+    "meaning": "I am fortunate to have friends with whom I can share happiness."
+  },
+  {
+    "sentence": "幸運はチャンスを活かす者に訪れる。",
+    "sentence_furigana": "幸【こう】運【うん】hはチャhンスを活【い】かす者【もの】に訪【おとず】れる。",
+    "meaning": "Good luck visits those who make the most of opportunities."
+  },
+  {
+    "sentence": "幸い、その薬は効果があった。",
+    "sentence_furigana": "幸【さいわ】い、その薬【くすり】hは効【こう】果【か】があった。",
+    "meaning": "Fortunately, the medicine was effective."
+  },
+  {
+    "sentence": "彼の幸運な逃亡劇は伝説となった。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な逃【とう】亡【ぼう】劇【げき】hは伝【でん】説【せつ】となった。",
+    "meaning": "His lucky escape became a legend."
+  },
+  {
+    "sentence": "幸せは感謝の心から生まれる。",
+    "sentence_furigana": "幸【しあわ】せhは感【かん】謝【しゃ】の心【こころ】から生【う】まれる。",
+    "meaning": "Happiness is born from a grateful heart."
+  },
+  {
+    "sentence": "幸運にも、私たちは目的地に着く前に休憩できた。",
+    "sentence_furigana": "幸【こう】運【うん】にも、私【わたし】たちhは目【もく】的【てき】地【ち】に着【つ】く前【まえ】に休【きゅう】憩【けい】できた。",
+    "meaning": "Fortunately, we were able to rest before reaching our destination."
+  },
+  {
+    "sentence": "彼の幸運は努力によってさらに輝いた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】hは努【ど】力【りょく】によってさらに輝【かがや】いた。",
+    "meaning": "His good fortune shone brighter through his efforts."
+  },
+  {
+    "sentence": "幸せを求める旅路は、自己発見の旅でもある。",
+    "sentence_furigana": "幸【しあわ】せを求【もと】める旅【たび】路【じ】hは、自【じ】己【こ】発【はっ】見【けん】の旅【たび】でもある。",
+    "meaning": "The journey to find happiness is also a journey of self-discovery."
+  },
+  {
+    "sentence": "幸運は決して偶然ではない。",
+    "sentence_furigana": "幸【こう】運【うん】hは決【けっ】して偶【ぐう】然【ぜん】ではない。",
+    "meaning": "Good fortune is never a coincidence."
+  },
+  {
+    "sentence": "幸い、遅れは最小限に抑えられた。",
+    "sentence_furigana": "幸【さいわ】い、遅【おく】れhは最【さい】小【しょう】限【げん】に抑【おさ】えられた。",
+    "meaning": "Fortunately, the delay was minimized."
+  },
+  {
+    "sentence": "彼の幸運な人生観は多くの人に影響を与えた。",
+    "sentence_furigana": "彼【かれ】の幸【こう】運【うん】な人生【じんせい】観【かん】hは多【おお】くの人【ひと】に影【えい】響【きょう】を与【あた】えた。",
+    "meaning": "His optimistic outlook on life influenced many people."
+  },
+  {
+    "sentence": "幸せは足元にある。",
+    "sentence_furigana": "幸【しあわ】せhは足【あし】元【もと】にある。",
+    "meaning": "Happiness is at your feet."
+  },
+  {
+    "sentence": "幸運はいつも準備された者に微笑む。",
+    "sentence_furigana": "幸【こう】運【うん】hはいつも準【じゅん】備【び】された者【もの】に微笑【ほほえ】む。",
+    "meaning": "Good luck always smiles on those who are prepared."
+  }
+]

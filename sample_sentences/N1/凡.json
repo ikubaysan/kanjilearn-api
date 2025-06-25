@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "これは凡庸な意見だ。",
+    "sentence_furigana": "これ【】は【】凡庸【ぼんよう】な【】意見【いけん】だ【】。",
+    "meaning": "This is a commonplace opinion."
+  },
+  {
+    "sentence": "彼は凡人ではない。",
+    "sentence_furigana": "彼【かれ】は【】凡人【ぼんじん】では【】ない【】。",
+    "meaning": "He is not an ordinary person."
+  },
+  {
+    "sentence": "凡てのことは順調に進んでいる。",
+    "sentence_furigana": "凡【およ】ての【】こと【】は【】順調【じゅんちょう】に【】進【すす】んでいる【】。",
+    "meaning": "Everything is proceeding smoothly."
+  },
+  {
+    "sentence": "その計画は凡に終わった。",
+    "sentence_furigana": "その【】計画【けいかく】は【】凡【ぼん】に【】終わった【おわった】。",
+    "meaning": "The plan ended in mediocrity."
+  },
+  {
+    "sentence": "凡そこのあたりの山は全て高い。",
+    "sentence_furigana": "凡【およ】そ【】この【】あたり【】の【】山【やま】は【】全て【すべて】高【たか】い【】。",
+    "meaning": "Approximately all the mountains in this area are high."
+  },
+  {
+    "sentence": "彼の才能は平凡だ。",
+    "sentence_furigana": "彼【かれ】の【】才能【さいのう】は【】平凡【へいぼん】だ【】。",
+    "meaning": "His talent is ordinary."
+  },
+  {
+    "sentence": "それは凡ての出来事を記録した。",
+    "sentence_furigana": "それ【】は【】凡【およ】ての【】出来事【できごと】を【】記録【きろく】した【】。",
+    "meaning": "It recorded all the events."
+  },
+  {
+    "sentence": "この絵は平凡な出来栄えだ。",
+    "sentence_furigana": "この【】絵【え】は【】平凡【へいぼん】な【】出来栄え【できばえ】だ【】。",
+    "meaning": "This painting is a mediocre achievement."
+  },
+  {
+    "sentence": "凡百の人間がその場所を訪れた。",
+    "sentence_furigana": "凡百【ぼんびゃく】の【】人間【にんげん】が【】その【】場所【ばしょ】を【】訪【おとず】れた【】。",
+    "meaning": "A multitude of people visited the place."
+  },
+  {
+    "sentence": "これは凡例です。",
+    "sentence_furigana": "これ【】は【】凡例【はんれい】です【】。",
+    "meaning": "This is an example."
+  },
+  {
+    "sentence": "彼は凡ての人々に親切だ。",
+    "sentence_furigana": "彼【かれ】は【】凡【およ】て【】の【】人々【ひとびと】に【】親切【しんせつ】だ【】。",
+    "meaning": "He is kind to all people."
+  },
+  {
+    "sentence": "平凡な生活を望む。",
+    "sentence_furigana": "平凡【へいぼん】な【】生活【せいかつ】を【】望【のぞ】む【】。",
+    "meaning": "I wish for an ordinary life."
+  },
+  {
+    "sentence": "凡その見込みはついた。",
+    "sentence_furigana": "凡【およ】そ【】の【】見込み【みこみ】は【】ついた【】。",
+    "meaning": "An approximate estimate was made."
+  },
+  {
+    "sentence": "彼は凡そ五十歳に見える。",
+    "sentence_furigana": "彼【かれ】は【】凡【およ】そ【】五十歳【ごじゅっさい】に【】見【み】える【】。",
+    "meaning": "He looks about fifty years old."
+  },
+  {
+    "sentence": "この曲は平凡だが心地よい。",
+    "sentence_furigana": "この【】曲【きょく】は【】平凡【へいぼん】だ【】が【】心地【ここち】よい【】。",
+    "meaning": "This song is ordinary but pleasant."
+  },
+  {
+    "sentence": "凡ての権利は彼にある。",
+    "sentence_furigana": "凡【およ】ての【】権利【けんり】は【】彼【かれ】に【】ある【】。",
+    "meaning": "All rights belong to him."
+  },
+  {
+    "sentence": "凡そ全ての子供がおもちゃを好む。",
+    "sentence_furigana": "凡【およ】そ【】全て【すべて】の【】子供【こども】が【】おもちゃ【】を【】好【す】む【】。",
+    "meaning": "Almost all children like toys."
+  },
+  {
+    "sentence": "それは凡俗な話だ。",
+    "sentence_furigana": "それ【】は【】凡俗【ぼんぞく】な【】話【はなし】だ【】。",
+    "meaning": "That is a common tale."
+  },
+  {
+    "sentence": "彼の演技は凡庸だった。",
+    "sentence_furigana": "彼【かれ】の【】演技【えんぎ】は【】凡庸【ぼんよう】だっ【】た【】。",
+    "meaning": "His acting was mediocre."
+  },
+  {
+    "sentence": "凡そこの分野では第一人者だ。",
+    "sentence_furigana": "凡【およ】そ【】この【】分野【ぶんや】では【】第一人者【だいいちにんしゃ】だ【】。",
+    "meaning": "He is the leading figure in this field, more or less."
+  },
+  {
+    "sentence": "凡てのことは一時的なものだ。",
+    "sentence_furigana": "凡【およ】ての【】こと【】は【】一時的【いちじてき】な【】もの【】だ【】。",
+    "meaning": "Everything is temporary."
+  },
+  {
+    "sentence": "これは凡ての者に共通する。",
+    "sentence_furigana": "これ【】は【】凡【およ】ての【】者【もの】に【】共通【きょうつう】する【】。",
+    "meaning": "This is common to all people."
+  },
+  {
+    "sentence": "平凡な人生を送りたい。",
+    "sentence_furigana": "平凡【へいぼん】な【】人生【じんせい】を【】送【おく】りたい【】。",
+    "meaning": "I want to live an ordinary life."
+  },
+  {
+    "sentence": "凡ての方角から風が吹いている。",
+    "sentence_furigana": "凡【およ】て【】の【】方角【ほうがく】から【】風【かぜ】が【】吹【ふ】いている【】。",
+    "meaning": "Wind is blowing from all directions."
+  },
+  {
+    "sentence": "彼の作品は平凡に見える。",
+    "sentence_furigana": "彼【かれ】の【】作品【さくひん】は【】平凡【へいぼん】に【】見【み】える【】。",
+    "meaning": "His work appears ordinary."
+  },
+  {
+    "sentence": "凡例に従って記入してください。",
+    "sentence_furigana": "凡例【はんれい】に【】従【したが】って【】記入【きにゅう】して【】ください【】。",
+    "meaning": "Please fill in according to the legend."
+  },
+  {
+    "sentence": "凡百のことでは動じない。",
+    "sentence_furigana": "凡百【ぼんびゃく】の【】こと【】では【】動【うご】じない【】。",
+    "meaning": "I am not swayed by trivial matters."
+  },
+  {
+    "sentence": "これは凡ての人が知っているはずだ。",
+    "sentence_furigana": "これ【】は【】凡【およ】ての【】人【ひと】が【】知【し】っている【】はず【】だ【】。",
+    "meaning": "Everyone should know this."
+  },
+  {
+    "sentence": "彼は才能は凡庸だが、努力家だ。",
+    "sentence_furigana": "彼【かれ】は【】才能【さいのう】は【】凡庸【ぼんよう】だ【】が【】、【】努力家【どりょくか】だ【】。",
+    "meaning": "His talent is mediocre, but he is a hard worker."
+  },
+  {
+    "sentence": "凡そ一週間かかるだろう。",
+    "sentence_furigana": "凡【およ】そ【】一週間【いっしゅうかん】かかる【】だろう【】。",
+    "meaning": "It will probably take about a week."
+  },
+  {
+    "sentence": "平凡な家庭に育った。",
+    "sentence_furigana": "平凡【へいぼん】な【】家庭【かてい】に【】育【そだ】った【】。",
+    "meaning": "I grew up in an ordinary family."
+  },
+  {
+    "sentence": "凡ての経験がここに活かされている。",
+    "sentence_furigana": "凡【およ】ての【】経験【けいけん】が【】ここ【】に【】活【い】かされている【】。",
+    "meaning": "All experiences are utilized here."
+  },
+  {
+    "sentence": "それは平凡な解決策に過ぎない。",
+    "sentence_furigana": "それ【】は【】平凡【へいぼん】な【】解決策【かいけつさく】に【】過【す】ぎない【】。",
+    "meaning": "It is nothing more than an ordinary solution."
+  },
+  {
+    "sentence": "凡百の者が集まった。",
+    "sentence_furigana": "凡百【ぼんびゃく】の【】者【もの】が【】集【あつ】まった【】。",
+    "meaning": "A great many people gathered."
+  },
+  {
+    "sentence": "彼の能力は凡庸の域を出ない。",
+    "sentence_furigana": "彼【かれ】の【】能力【のうりょく】は【】凡庸【ぼんよう】の【】域【いき】を【】出【で】ない【】。",
+    "meaning": "His abilities do not exceed mediocrity."
+  },
+  {
+    "sentence": "凡例に従い、記号を配置する。",
+    "sentence_furigana": "凡例【はんれい】に【】従【したが】い【】、【】記号【きごう】を【】配置【はいち】する【】。",
+    "meaning": "Arrange the symbols according to the legend."
+  },
+  {
+    "sentence": "凡そ全ての人がそう思うだろう。",
+    "sentence_furigana": "凡【およ】そ【】全て【すべて】の【】人【ひと】が【】そう【】思【おも】う【】だろう【】。",
+    "meaning": "Almost everyone would think so."
+  },
+  {
+    "sentence": "これは凡ての人が理解できる。",
+    "sentence_furigana": "これ【】は【】凡【およ】ての【】人【ひと】が【】理解【りかい】できる【】。",
+    "meaning": "This can be understood by everyone."
+  },
+  {
+    "sentence": "平凡な日常を愛おしく思う。",
+    "sentence_furigana": "平凡【へいぼん】な【】日常【にちじょう】を【】愛【いと】おしく【】思【おも】う【】。",
+    "meaning": "I cherish ordinary daily life."
+  },
+  {
+    "sentence": "凡ての計画は成功裏に終わった。",
+    "sentence_furigana": "凡【およ】ての【】計画【けいかく】は【】成功裏【せいこうり】に【】終わった【おわった】。",
+    "meaning": "All plans ended successfully."
+  },
+  {
+    "sentence": "彼は平凡な家庭の出身だ。",
+    "sentence_furigana": "彼【かれ】は【】平凡【へいぼん】な【】家庭【かてい】の【】出身【しゅっしん】だ【】。",
+    "meaning": "He comes from an ordinary family."
+  },
+  {
+    "sentence": "凡その目安は立てられた。",
+    "sentence_furigana": "凡【およ】そ【】の【】目安【めやす】は【】立【た】てられた【】。",
+    "meaning": "An approximate guideline was established."
+  },
+  {
+    "sentence": "凡百の候補者の中から選ばれた。",
+    "sentence_furigana": "凡百【ぼんびゃく】の【】候補者【こうほしゃ】の【】中【なか】から【】選【え】ばれた【】。",
+    "meaning": "He was chosen from among numerous candidates."
+  },
+  {
+    "sentence": "この意見は凡庸と言わざるを得ない。",
+    "sentence_furigana": "この【】意見【いけん】は【】凡庸【ぼんよう】と【】言わざる【】を【】得【え】ない【】。",
+    "meaning": "I have to say this opinion is mediocre."
+  },
+  {
+    "sentence": "凡ての人々が平和を願っている。",
+    "sentence_furigana": "凡【およ】て【】の【】人々【ひとびと】が【】平和【へいわ】を【】願【ねが】っている【】。",
+    "meaning": "All people wish for peace."
+  },
+  {
+    "sentence": "平凡な才能でも磨けば光る。",
+    "sentence_furigana": "平凡【へいぼん】な【】才能【さいのう】でも【】磨【みが】けば【】光【ひか】る【】。",
+    "meaning": "Even ordinary talent shines if polished."
+  },
+  {
+    "sentence": "凡そこの時期に開花する。",
+    "sentence_furigana": "凡【およ】そ【】この【】時期【じき】に【】開花【かいか】する【】。",
+    "meaning": "It blooms around this time."
+  },
+  {
+    "sentence": "それは凡ての始まりだった。",
+    "sentence_furigana": "それ【】は【】凡【およ】ての【】始【はじ】まり【】だっ【】た【】。",
+    "meaning": "It was the beginning of everything."
+  },
+  {
+    "sentence": "彼の態度は平凡に見えた。",
+    "sentence_furigana": "彼【かれ】の【】態度【たいど】は【】平凡【へいぼん】に【】見【み】えた【】。",
+    "meaning": "His attitude seemed ordinary."
+  },
+  {
+    "sentence": "凡例は巻末にあります。",
+    "sentence_furigana": "凡例【はんれい】は【】巻末【かんまつ】に【】あります【】。",
+    "meaning": "The legend is at the end of the volume."
+  },
+  {
+    "sentence": "凡百の違いは無視できる。",
+    "sentence_furigana": "凡百【ぼんびゃく】の【】違【ちが】い【】は【】無視【むし】できる【】。",
+    "meaning": "The minor differences can be ignored."
+  },
+  {
+    "sentence": "彼は凡てを一人で抱え込んだ。",
+    "sentence_furigana": "彼【かれ】は【】凡【およ】て【】を【】一人【ひとり】で【】抱【かか】え込【こ】んだ【】。",
+    "meaning": "He took on everything by himself."
+  },
+  {
+    "sentence": "平凡な男が偉大なことを成し遂げた。",
+    "sentence_furigana": "平凡【へいぼん】な【】男【おとこ】が【】偉大【いだい】な【】こと【】を【】成【な】し遂【と】げた【】。",
+    "meaning": "An ordinary man accomplished great things."
+  },
+  {
+    "sentence": "凡そ一ヶ月で完成するだろう。",
+    "sentence_furigana": "凡【およ】そ【】一ヶ月【いっかげつ】で【】完成【かんせい】する【】だろう【】。",
+    "meaning": "It will probably be completed in about a month."
+  },
+  {
+    "sentence": "この情報は凡ての人の役に立つ。",
+    "sentence_furigana": "この【】情報【じょうほう】は【】凡【およ】ての【】人【ひと】の【】役【やく】に【】立【た】つ【】。",
+    "meaning": "This information is useful for everyone."
+  },
+  {
+    "sentence": "彼の意見は凡庸さを免れない。",
+    "sentence_furigana": "彼【かれ】の【】意見【いけん】は【】凡庸【ぼんよう】さ【】を【】免【まぬか】れない【】。",
+    "meaning": "His opinion cannot escape mediocrity."
+  },
+  {
+    "sentence": "凡ての可能性を考慮に入れる。",
+    "sentence_furigana": "凡【およ】ての【】可能【かのう】性【せい】を【】考慮【こうりょ】に【】入【い】れる【】。",
+    "meaning": "Consider all possibilities."
+  },
+  {
+    "sentence": "彼は凡人を遥かに超えている。",
+    "sentence_furigana": "彼【かれ】は【】凡人【ぼんじん】を【】遥【はる】かに【】超【こ】えている【】。",
+    "meaning": "He far surpasses ordinary people."
+  },
+  {
+    "sentence": "平凡な日常が失われた。",
+    "sentence_furigana": "平凡【へいぼん】な【】日常【にちじょう】が【】失【うしな】われた【】。",
+    "meaning": "The ordinary daily life was lost."
+  },
+  {
+    "sentence": "凡そ二時間で到着します。",
+    "sentence_furigana": "凡【およ】そ【】二時間【にじかん】で【】到着【とうちゃく】します【】。",
+    "meaning": "We will arrive in about two hours."
+  },
+  {
+    "sentence": "この物語は凡人の生涯を描いている。",
+    "sentence_furigana": "この【】物語【ものがたり】は【】凡人【ぼんじん】の【】生涯【しょうがい】を【】描【えが】いている【】。",
+    "meaning": "This story depicts the life of an ordinary person."
+  },
+  {
+    "sentence": "彼の計画は平凡なものだった。",
+    "sentence_furigana": "彼【かれ】の【】計画【けいかく】は【】平凡【へいぼん】な【】もの【】だっ【】た【】。",
+    "meaning": "His plan was ordinary."
+  },
+  {
+    "sentence": "凡ての努力は無駄ではなかった。",
+    "sentence_furigana": "凡【およ】ての【】努力【どりょく】は【】無駄【むだ】では【】なかった【】。",
+    "meaning": "All efforts were not in vain."
+  },
+  {
+    "sentence": "凡例を参考にしてください。",
+    "sentence_furigana": "凡例【はんれい】を【】参考【さんこう】に【】して【】ください【】。",
+    "meaning": "Please refer to the legend."
+  },
+  {
+    "sentence": "彼の発言は凡ての人々の心を打った。",
+    "sentence_furigana": "彼【かれ】の【】発言【はつげん】は【】凡【およ】て【】の【】人々【ひとびと】の【】心【こころ】を【】打【う】った【】。",
+    "meaning": "His remarks struck a chord with everyone."
+  },
+  {
+    "sentence": "凡そこの地域の特産品だ。",
+    "sentence_furigana": "凡【およ】そ【】この【】地域【ちいき】の【】特産品【とくさんひん】だ【】。",
+    "meaning": "This is a specialty product of this region, roughly."
+  },
+  {
+    "sentence": "凡庸な作品でも心を込めて作られた。",
+    "sentence_furigana": "凡庸【ぼんよう】な【】作品【さくひん】でも【】心【こころ】を【】込【こ】めて【】作られた【つくられた】。",
+    "meaning": "Even mediocre works are made with heart."
+  },
+  {
+    "sentence": "この規則は凡ての者に適用される。",
+    "sentence_furigana": "この【】規則【きそく】は【】凡【およ】ての【】者【もの】に【】適用【てきよう】される【】。",
+    "meaning": "This rule applies to everyone."
+  },
+  {
+    "sentence": "平凡な家庭から偉人が生まれることもある。",
+    "sentence_furigana": "平凡【へいぼん】な【】家庭【かてい】から【】偉人【いじん】が【】生【う】まれる【】こと【】も【】ある【】。",
+    "meaning": "Great people can sometimes come from ordinary families."
+  },
+  {
+    "sentence": "凡そ千人が集会に参加した。",
+    "sentence_furigana": "凡【およ】そ【】千人【せんにん】が【】集会【しゅうかい】に【】参加【さんか】した【】。",
+    "meaning": "About a thousand people participated in the meeting."
+  },
+  {
+    "sentence": "凡ての道はローマに通ず。",
+    "sentence_furigana": "凡【およ】ての【】道【みち】は【】ローマ【】に【】通【つ】うず【】。",
+    "meaning": "All roads lead to Rome."
+  },
+  {
+    "sentence": "彼の演奏は凡庸と言わざるを得なかった。",
+    "sentence_furigana": "彼【かれ】の【】演奏【えんそう】は【】凡庸【ぼんよう】と【】言わざる【】を【】得【え】なかった【】。",
+    "meaning": "I had to call his performance mediocre."
+  },
+  {
+    "sentence": "この文章は凡例を必要とする。",
+    "sentence_furigana": "この【】文章【ぶんしょう】は【】凡例【はんれい】を【】必要【ひつよう】と【】する【】。",
+    "meaning": "This text requires a legend."
+  },
+  {
+    "sentence": "凡ての生命は尊い。",
+    "sentence_furigana": "凡【およ】ての【】生命【せいめい】は【】尊【とうと】い【】。",
+    "meaning": "All life is precious."
+  },
+  {
+    "sentence": "平凡な毎日を送っている。",
+    "sentence_furigana": "平凡【へいぼん】な【】毎日【まいにち】を【】送【おく】っている【】。",
+    "meaning": "I am living an ordinary daily life."
+  },
+  {
+    "sentence": "凡そこの辺りの物は全て私のだ。",
+    "sentence_furigana": "凡【およ】そ【】この【】辺【あた】りの【】物【もの】は【】全て【すべて】私【わたし】の【】だ【】。",
+    "meaning": "Everything around here is mine, roughly."
+  },
+  {
+    "sentence": "彼は凡百の人間とは違う。",
+    "sentence_furigana": "彼【かれ】は【】凡百【ぼんびゃく】の【】人間【にんげん】とは【】違【ちが】う【】。",
+    "meaning": "He is different from ordinary people."
+  },
+  {
+    "sentence": "その結果は凡そ予想通りだった。",
+    "sentence_furigana": "その【】結果【けっか】は【】凡【およ】そ【】予想【よそう】通【どお】り【】だっ【】た【】。",
+    "meaning": "The result was about as expected."
+  },
+  {
+    "sentence": "凡ての人間が平等であるべきだ。",
+    "sentence_furigana": "凡【およ】ての【】人間【にんげん】が【】平等【びょうどう】で【】ある【】べき【】だ【】。",
+    "meaning": "All humans should be equal."
+  },
+  {
+    "sentence": "彼の才能は平凡な部類に入る。",
+    "sentence_furigana": "彼【かれ】の【】才能【さいのう】は【】平凡【へいぼん】な【】部類【ぶるい】に【】入【はい】る【】。",
+    "meaning": "His talent falls into the ordinary category."
+  },
+  {
+    "sentence": "凡そ数ヶ月で完成します。",
+    "sentence_furigana": "凡【およ】そ【】数ヶ月【すうかげつ】で【】完成【かんせい】します【】。",
+    "meaning": "It will be completed in a few months, approximately."
+  },
+  {
+    "sentence": "それは平凡な日常の一コマだ。",
+    "sentence_furigana": "それ【】は【】平凡【へいぼん】な【】日常【にちじょう】の【】一【ひと】こま【】だ【】。",
+    "meaning": "That is a scene from ordinary daily life."
+  },
+  {
+    "sentence": "凡ての生命を大切にしましょう。",
+    "sentence_furigana": "凡【およ】ての【】生命【せいめい】を【】大切【たいせつ】に【】しましょ【】う【】。",
+    "meaning": "Let's cherish all life."
+  },
+  {
+    "sentence": "彼の話は凡そ面白い。",
+    "sentence_furigana": "彼【かれ】の【】話【はなし】は【】凡【およ】そ【】面白【おもしろ】い【】。",
+    "meaning": "His story is roughly interesting."
+  },
+  {
+    "sentence": "凡百のことにも飽きてしまった。",
+    "sentence_furigana": "凡百【ぼんびゃく】の【】こと【】にも【】飽【あ】きて【】しまっ【】た【】。",
+    "meaning": "I have become tired of trivial things."
+  },
+  {
+    "sentence": "彼は凡庸な評価を受けている。",
+    "sentence_furigana": "彼【かれ】は【】凡庸【ぼんよう】な【】評価【ひょうか】を【】受【う】けている【】。",
+    "meaning": "He is receiving mediocre reviews."
+  },
+  {
+    "sentence": "凡ての努力は報われる。",
+    "sentence_furigana": "凡【およ】ての【】努力【どりょく】は【】報【むく】われる【】。",
+    "meaning": "All efforts will be rewarded."
+  },
+  {
+    "sentence": "平凡な才能でも努力次第で伸びる。",
+    "sentence_furigana": "平凡【へいぼん】な【】才能【さいのう】でも【】努力次第【どりょくしだい】で【】伸【の】びる【】。",
+    "meaning": "Even ordinary talent can grow with effort."
+  },
+  {
+    "sentence": "凡そ３０分で終わるでしょう。",
+    "sentence_furigana": "凡【およ】そ【】３０分【さんじゅっぷん】で【】終わる【おわる】でしょう【】。",
+    "meaning": "It will probably end in about 30 minutes."
+  },
+  {
+    "sentence": "この絵は凡庸ながらも味がある。",
+    "sentence_furigana": "この【】絵【え】は【】凡庸【ぼんよう】ながら【】も【】味【あじ】がある【】。",
+    "meaning": "This painting, while ordinary, has character."
+  },
+  {
+    "sentence": "凡ての人がこのニュースを知っている。",
+    "sentence_furigana": "凡【およ】ての【】人【ひと】が【】この【】ニュース【】を【】知【し】っている【】。",
+    "meaning": "Everyone knows this news."
+  },
+  {
+    "sentence": "平凡な人生に満足している。",
+    "sentence_furigana": "平凡【へいぼん】な【】人生【じんせい】に【】満足【まんぞく】している【】。",
+    "meaning": "I am satisfied with my ordinary life."
+  },
+  {
+    "sentence": "凡例を参照して下さい。",
+    "sentence_furigana": "凡例【はんれい】を【】参照【さんしょう】して【】下さい【ください】。",
+    "meaning": "Please refer to the legend."
+  },
+  {
+    "sentence": "彼は凡人の域を超えている。",
+    "sentence_furigana": "彼【かれ】は【】凡人【ぼんじん】の【】域【いき】を【】超【こ】えている【】。",
+    "meaning": "He is beyond the ordinary person's realm."
+  },
+  {
+    "sentence": "凡ての始まりには終わりがある。",
+    "sentence_furigana": "凡【およ】ての【】始【はじ】まり【】に【】は【】終【お】わり【】が【】ある【】。",
+    "meaning": "Every beginning has an end."
+  },
+  {
+    "sentence": "この曲は凡庸に聞こえる。",
+    "sentence_furigana": "この【】曲【きょく】は【】凡庸【ぼんよう】に【】聞【き】こえる【】。",
+    "meaning": "This song sounds mediocre."
+  },
+  {
+    "sentence": "凡てのことがうまくいっている。",
+    "sentence_furigana": "凡【およ】ての【】こと【】が【】うまくいっている【】。",
+    "meaning": "Everything is going well."
+  },
+  {
+    "sentence": "平凡な生活を壊したくなかった。",
+    "sentence_furigana": "平凡【へいぼん】な【】生活【せいかつ】を【】壊【こわ】したくなかった【】。",
+    "meaning": "I didn't want to ruin my ordinary life."
+  },
+  {
+    "sentence": "凡そ半分が賛成した。",
+    "sentence_furigana": "凡【およ】そ【】半分【はんぶん】が【】賛成【さんせい】した【】。",
+    "meaning": "About half agreed."
+  },
+  {
+    "sentence": "凡ての人生は平等ではない。",
+    "sentence_furigana": "凡【およ】ての【】人生【じんせい】は【】平等【びょうどう】では【】ない【】。",
+    "meaning": "Not all lives are equal."
+  }
+]

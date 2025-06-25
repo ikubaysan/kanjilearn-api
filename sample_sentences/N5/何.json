@@ -1,0 +1,447 @@
+[
+  {
+    "sentence": "これは何ですか。",
+    "sentence_furigana": "これ【】はなん【】ですか【】。",
+    "meaning": "What is this?"
+  },
+  {
+    "sentence": "何時に起きますか。",
+    "sentence_furigana": "なんじ【】におきますか【】。",
+    "meaning": "What time do you wake up?"
+  },
+  {
+    "sentence": "何を食べたいですか。",
+    "sentence_furigana": "なに【】をたべたいですか【】。",
+    "meaning": "What do you want to eat?"
+  },
+  {
+    "sentence": "何を買いましたか。",
+    "sentence_furigana": "なに【】をかいましたか【】。",
+    "meaning": "What did you buy?"
+  },
+  {
+    "sentence": "彼は何を言いましたか。",
+    "sentence_furigana": "かれ【】はなに【】をいいましたか【】。",
+    "meaning": "What did he say?"
+  },
+  {
+    "sentence": "何をしていますか。",
+    "sentence_furigana": "なに【】をしていますか【】。",
+    "meaning": "What are you doing?"
+  },
+  {
+    "sentence": "何が欲しいですか。",
+    "sentence_furigana": "なに【】がほしいですか【】。",
+    "meaning": "What do you want?"
+  },
+  {
+    "sentence": "何をして遊びますか。",
+    "sentence_furigana": "なに【】をしてあそびますか【】。",
+    "meaning": "What will you do to play?"
+  },
+  {
+    "sentence": "何人来ますか。",
+    "sentence_furigana": "なんにん【】きますか【】。",
+    "meaning": "How many people will come?"
+  },
+  {
+    "sentence": "何年生ですか。",
+    "sentence_furigana": "なんねんせい【】ですか【】。",
+    "meaning": "What grade are you in?"
+  },
+  {
+    "sentence": "何曜日が好きですか。",
+    "sentence_furigana": "なんようび【】がすきですか【】。",
+    "meaning": "What day of the week do you like?"
+  },
+  {
+    "sentence": "何を着ていきますか。",
+    "sentence_furigana": "なに【】をきていきますか【】。",
+    "meaning": "What will you wear?"
+  },
+  {
+    "sentence": "何を聞きたいですか。",
+    "sentence_furigana": "なに【】をききたいですか【】。",
+    "meaning": "What do you want to hear?"
+  },
+  {
+    "sentence": "何を見てきましたか。",
+    "sentence_furigana": "なに【】をみてきましたか【】。",
+    "meaning": "What did you come to see?"
+  },
+  {
+    "sentence": "何が一番好きですか。",
+    "sentence_furigana": "なに【】がいちばんすきですか【】。",
+    "meaning": "What do you like the most?"
+  },
+  {
+    "sentence": "何が起きたのですか。",
+    "sentence_furigana": "なに【】がおきたのですか【】。",
+    "meaning": "What happened?"
+  },
+  {
+    "sentence": "何を持っていきますか。",
+    "sentence_furigana": "なに【】をもっていきますか【】。",
+    "meaning": "What will you bring?"
+  },
+  {
+    "sentence": "何で書きましたか。",
+    "sentence_furigana": "なに【】でかきましたか【】。",
+    "meaning": "What did you write with?"
+  },
+  {
+    "sentence": "何が好きかわからない。",
+    "sentence_furigana": "なに【】がすきかわからない【】。",
+    "meaning": "I don't know what I like."
+  },
+  {
+    "sentence": "何をするつもりですか。",
+    "sentence_furigana": "なに【】をするつもりですか【】。",
+    "meaning": "What do you intend to do?"
+  },
+  {
+    "sentence": "何を知りたいですか。",
+    "sentence_furigana": "なに【】をしりたいですか【】。",
+    "meaning": "What do you want to know?"
+  },
+  {
+    "sentence": "何が一番大切ですか。",
+    "sentence_furigana": "なに【】がいちばんたいせつですか【】。",
+    "meaning": "What is most important?"
+  },
+  {
+    "sentence": "何人家族ですか。",
+    "sentence_furigana": "なんにんかぞく【】ですか【】。",
+    "meaning": "How many people are in your family?"
+  },
+  {
+    "sentence": "何のために来たのですか。",
+    "sentence_furigana": "なに【】のためにきたのですか【】。",
+    "meaning": "What did you come for?"
+  },
+  {
+    "sentence": "何ができますか。",
+    "sentence_furigana": "なに【】ができますか【】。",
+    "meaning": "What can you do?"
+  },
+  {
+    "sentence": "何時に寝ますか。",
+    "sentence_furigana": "なんじ【】にねますか【】。",
+    "meaning": "What time do you go to bed?"
+  },
+  {
+    "sentence": "何を持っている？",
+    "sentence_furigana": "なに【】をもっている【】？",
+    "meaning": "What do you have?"
+  },
+  {
+    "sentence": "何時に到着しますか。",
+    "sentence_furigana": "なんじ【】にとうちゃくしますか【】。",
+    "meaning": "What time will you arrive?"
+  },
+  {
+    "sentence": "何について話しましょうか。",
+    "sentence_furigana": "なに【】についてなしましょうか【】。",
+    "meaning": "What shall we talk about?"
+  },
+  {
+    "sentence": "何が食べたい気分ですか。",
+    "sentence_furigana": "なに【】がたべたいきぶんですか【】。",
+    "meaning": "What do you feel like eating?"
+  },
+  {
+    "sentence": "何時に家を出ますか。",
+    "sentence_furigana": "なんじ【】にいえ【】でますか【】。",
+    "meaning": "What time do you leave home?"
+  },
+  {
+    "sentence": "何が一番おいしいですか。",
+    "sentence_furigana": "なに【】がいちばんおいしいですか【】。",
+    "meaning": "What is the most delicious?"
+  },
+  {
+    "sentence": "何時ですか。",
+    "sentence_furigana": "なんじ【】ですか【】。",
+    "meaning": "What time is it?"
+  },
+  {
+    "sentence": "何を見たか覚えていますか。",
+    "sentence_furigana": "なに【】をみたかおぼえていますか【】。",
+    "meaning": "Do you remember what you saw?"
+  },
+  {
+    "sentence": "何が好きですか。",
+    "sentence_furigana": "なに【】がすきですか【】。",
+    "meaning": "What do you like?"
+  },
+  {
+    "sentence": "何を買うつもりですか。",
+    "sentence_furigana": "なに【】をかうつもりですか【】。",
+    "meaning": "What do you plan to buy?"
+  },
+  {
+    "sentence": "何を勉強していますか。",
+    "sentence_furigana": "なに【】をべんきょうしていますか【】。",
+    "meaning": "What are you studying?"
+  },
+  {
+    "sentence": "何時まで開いていますか。",
+    "sentence_furigana": "なんじ【】まであいていますか【】。",
+    "meaning": "What time does it open until?"
+  },
+  {
+    "sentence": "何が起ころうとしているのですか。",
+    "sentence_furigana": "なに【】がおころうとしているのですか【】。",
+    "meaning": "What is about to happen?"
+  },
+  {
+    "sentence": "何を食べましたか。",
+    "sentence_furigana": "なに【】をたべましたか【】。",
+    "meaning": "What did you eat?"
+  },
+  {
+    "sentence": "何を書きましたか。",
+    "sentence_furigana": "なに【】をかきましたか【】。",
+    "meaning": "What did you write?"
+  },
+  {
+    "sentence": "何時出発しますか。",
+    "sentence_furigana": "なんじ【】しゅっぱつしますか【】。",
+    "meaning": "What time will you depart?"
+  },
+  {
+    "sentence": "何を買いましたか、それは何ですか。",
+    "sentence_furigana": "なに【】をかいましたか【】、それはなん【】ですか【】。",
+    "meaning": "What did you buy, and what is it?"
+  },
+  {
+    "sentence": "何語を話しますか。",
+    "sentence_furigana": "なに【】ご【】をはなしますか【】。",
+    "meaning": "What language do you speak?"
+  },
+  {
+    "sentence": "何が原因でこうなったのですか。",
+    "sentence_furigana": "なに【】がげんいんでこうなったのですか【】。",
+    "meaning": "What caused this to happen?"
+  },
+  {
+    "sentence": "何日ですか。",
+    "sentence_furigana": "なんにち【】ですか【】。",
+    "meaning": "What is the date?"
+  },
+  {
+    "sentence": "何を見て感動しましたか。",
+    "sentence_furigana": "なに【】をみてかんどうしましたか【】。",
+    "meaning": "What did you see that moved you?"
+  },
+  {
+    "sentence": "何が一番大切だと思いますか。",
+    "sentence_furigana": "なに【】がいちばんたいせつだとおもいますか【】。",
+    "meaning": "What do you think is most important?"
+  },
+  {
+    "sentence": "何時に着きましたか。",
+    "sentence_furigana": "なんじ【】につきましたか【】。",
+    "meaning": "What time did you arrive?"
+  },
+  {
+    "sentence": "何をするのが好きですか。",
+    "sentence_furigana": "なに【】をするのがすきですか【】。",
+    "meaning": "What do you like to do?"
+  },
+  {
+    "sentence": "何が起こったの？",
+    "sentence_furigana": "なに【】がおこったの【】？",
+    "meaning": "What happened?"
+  },
+  {
+    "sentence": "何曜日が一番好きですか。",
+    "sentence_furigana": "なんようび【】がいちばんすきですか【】。",
+    "meaning": "What day of the week do you like the most?"
+  },
+  {
+    "sentence": "何を聞きましたか。",
+    "sentence_furigana": "なに【】をききましたか【】。",
+    "meaning": "What did you hear?"
+  },
+  {
+    "sentence": "何が欲しいの？",
+    "sentence_furigana": "なに【】がほしいの【】？",
+    "meaning": "What do you want?"
+  },
+  {
+    "sentence": "何時に開店しますか。",
+    "sentence_furigana": "なんじ【】にかいてんしますか【】。",
+    "meaning": "What time does it open?"
+  },
+  {
+    "sentence": "何を持っているのか教えてください。",
+    "sentence_furigana": "なに【】をもっているのかおしえてください【】。",
+    "meaning": "Please tell me what you have."
+  },
+  {
+    "sentence": "何について考えていますか。",
+    "sentence_furigana": "なに【】についてかんがえていますか【】。",
+    "meaning": "What are you thinking about?"
+  },
+  {
+    "sentence": "何を買ったか教えてくれますか。",
+    "sentence_furigana": "なに【】をかったかおしえてくれますか【】。",
+    "meaning": "Can you tell me what you bought?"
+  },
+  {
+    "sentence": "何が起こるかわからない。",
+    "sentence_furigana": "なに【】がおこるかわからない【】。",
+    "meaning": "I don't know what will happen."
+  },
+  {
+    "sentence": "何時に会議を始めますか。",
+    "sentence_furigana": "なんじ【】にかぎをはじますか【】。",
+    "meaning": "What time will the meeting start?"
+  },
+  {
+    "sentence": "何が一番好きか教えてください。",
+    "sentence_furigana": "なに【】がいちばんすきかおしえてください【】。",
+    "meaning": "Please tell me what you like the most."
+  },
+  {
+    "sentence": "何でできているか知っていますか。",
+    "sentence_furigana": "なに【】でできているかしていますか【】。",
+    "meaning": "Do you know what it is made of?"
+  },
+  {
+    "sentence": "何年生から勉強を始めましたか。",
+    "sentence_furigana": "なんねんせい【】からべんきょうをはじめましたか【】。",
+    "meaning": "From what grade did you start studying?"
+  },
+  {
+    "sentence": "何があったのか、詳しく教えてください。",
+    "sentence_furigana": "なに【】があったのか、くわしくおしえてください【】。",
+    "meaning": "Please tell me in detail what happened."
+  },
+  {
+    "sentence": "何時に閉まりますか。",
+    "sentence_furigana": "なんじ【】にしまりますか【】。",
+    "meaning": "What time does it close?"
+  },
+  {
+    "sentence": "何が一番気に入りましたか。",
+    "sentence_furigana": "なに【】がいちばんきにいりましたか【】。",
+    "meaning": "What did you like the most?"
+  },
+  {
+    "sentence": "何をする予定ですか。",
+    "sentence_furigana": "なに【】をするよていですか【】。",
+    "meaning": "What are your plans?"
+  },
+  {
+    "sentence": "何が原因だと考えられますか。",
+    "sentence_furigana": "なに【】がげんいんだとかんがえられますか【】。",
+    "meaning": "What is considered to be the cause?"
+  },
+  {
+    "sentence": "何時に起きる必要がありますか。",
+    "sentence_furigana": "なんじ【】におきるひつようがありますか【】。",
+    "meaning": "What time do you need to wake up?"
+  },
+  {
+    "sentence": "何が起ころうとしていたのか、誰にもわからなかった。",
+    "sentence_furigana": "なに【】がおころうとしていたのか、だれにもわからなかった【】。",
+    "meaning": "No one knew what was about to happen."
+  },
+  {
+    "sentence": "何が一番問題だと思いますか。",
+    "sentence_furigana": "なに【】がいちばんもんだいだとおもいますか【】。",
+    "meaning": "What do you think is the biggest problem?"
+  },
+  {
+    "sentence": "何のためにそれをするのですか。",
+    "sentence_furigana": "なに【】のためにそれをするのですか【】。",
+    "meaning": "What is that for?"
+  },
+  {
+    "sentence": "何時に戻ってきますか。",
+    "sentence_furigana": "なんじ【】にもどってきますか【】。",
+    "meaning": "What time will you be back?"
+  },
+  {
+    "sentence": "何を食べましたか、それは何でしたか。",
+    "sentence_furigana": "なに【】をたべましたか【】、それはなん【】でしたか【】。",
+    "meaning": "What did you eat, and what was it?"
+  },
+  {
+    "sentence": "何時まで勉強しますか。",
+    "sentence_furigana": "なんじ【】までべんきょうしますか【】。",
+    "meaning": "What time will you study until?"
+  },
+  {
+    "sentence": "何について議論していますか。",
+    "sentence_furigana": "なに【】についてぎろんしていますか【】。",
+    "meaning": "What are you discussing?"
+  },
+  {
+    "sentence": "何が一番良いと思いますか。",
+    "sentence_furigana": "なに【】がいちばんよいとおもいますか【】。",
+    "meaning": "What do you think is the best?"
+  },
+  {
+    "sentence": "何時に会議を終了しますか。",
+    "sentence_furigana": "なんじ【】にかぎをしゅうりょうしますか【】。",
+    "meaning": "What time will the meeting end?"
+  },
+  {
+    "sentence": "何が起こるか、誰も予測できません。",
+    "sentence_furigana": "なに【】がおこるか、だれもよそくできません【】。",
+    "meaning": "No one can predict what will happen."
+  },
+  {
+    "sentence": "何が一番気に入らなかったですか。",
+    "sentence_furigana": "なに【】がいちばんきにいらなかったですか【】。",
+    "meaning": "What did you dislike the most?"
+  },
+  {
+    "sentence": "何時が都合が良いですか。",
+    "sentence_furigana": "なんじ【】がつごうがよいですか【】。",
+    "meaning": "What time is convenient for you?"
+  },
+  {
+    "sentence": "何が一番必要ですか。",
+    "sentence_furigana": "なに【】がいちばんひつようですか【】。",
+    "meaning": "What is most necessary?"
+  },
+  {
+    "sentence": "何を食べたい気分ですか。",
+    "sentence_furigana": "なに【】をたべたいきぶんですか【】。",
+    "meaning": "What do you feel like eating?"
+  },
+  {
+    "sentence": "何を見て感動したか教えてください。",
+    "sentence_furigana": "なに【】をみてかんどうしたかおしえてください【】。",
+    "meaning": "Please tell me what moved you."
+  },
+  {
+    "sentence": "何が一番心配ですか。",
+    "sentence_furigana": "なに【】がいちばんしんぱいですか【】。",
+    "meaning": "What worries you the most?"
+  },
+  {
+    "sentence": "何時に連絡しますか。",
+    "sentence_furigana": "なんじ【】にれんらくしますか【】。",
+    "meaning": "What time will you contact me?"
+  },
+  {
+    "sentence": "何が一番難しいと思いますか。",
+    "sentence_furigana": "なに【】がいちばんむずかしいとおもいますか【】。",
+    "meaning": "What do you think is the most difficult?"
+  },
+  {
+    "sentence": "何時までに返信しますか。",
+    "sentence_furigana": "なんじ【】までへんしんしますか【】。",
+    "meaning": "What time will you reply by?"
+  },
+  {
+    "sentence": "何が一番楽しみですか。",
+    "sentence_furigana": "なに【】がいちばんたのしみですか【】。",
+    "meaning": "What are you most looking forward to?"
+  }
+]

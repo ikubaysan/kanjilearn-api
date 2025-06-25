@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "星が夜空を耀いている。",
+    "sentence_furigana": "星【ほし】が夜空【よぞら】を耀【かがや】いている。",
+    "meaning": "The stars are shining in the night sky."
+  },
+  {
+    "sentence": "彼女の目は希望に耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は希望【きぼう】に耀【かがや】いていた。",
+    "meaning": "Her eyes were sparkling with hope."
+  },
+  {
+    "sentence": "ダイヤモンドが光を耀かせていた。",
+    "sentence_furigana": "ダイヤモンドが光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "The diamond was reflecting the light."
+  },
+  {
+    "sentence": "彼の功績は歴史に耀き続けるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に耀【かがや】き続【つづ】けるだろう。",
+    "meaning": "His achievements will continue to shine in history."
+  },
+  {
+    "sentence": "宝石が太陽の光を耀かせていた。",
+    "sentence_furigana": "宝石【ほうせき】が太陽【たいよう】の光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "The jewels were gleaming in the sunlight."
+  },
+  {
+    "sentence": "舞台上で彼女はひときわ耀いていた。",
+    "sentence_furigana": "舞台【ぶたい】の上【うえ】で彼女【かのじょ】はひときわ耀【かがや】いていた。",
+    "meaning": "She shone particularly brightly on stage."
+  },
+  {
+    "sentence": "その剣は月光を浴びて耀いていた。",
+    "sentence_furigana": "その剣【けん】は月光【げっこう】を浴【あ】びて耀【かがや】いていた。",
+    "meaning": "The sword gleamed under the moonlight."
+  },
+  {
+    "sentence": "子供たちの笑顔は無垢な光を耀かせていた。",
+    "sentence_furigana": "子供【こども】たちの笑顔【えがお】は無垢【むく】な光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "The children's smiles radiated pure light."
+  },
+  {
+    "sentence": "彼の才能は才能豊かな人々の中で特に耀いていた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は才能豊【さいのうゆた】かな人々【ひとびと】の中【なか】で特【とく】に耀【かがや】いていた。",
+    "meaning": "His talent shone particularly among the talented people."
+  },
+  {
+    "sentence": "古い教会は静かに耀いていた。",
+    "sentence_furigana": "古【ふる】い教会【きょうかい】は静【しず】かに耀【かがや】いていた。",
+    "meaning": "The old church gleamed quietly."
+  },
+  {
+    "sentence": "彼女の歌声は会場全体を明るく耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は会場全体【かいじょうぜんたい】を明【あか】るく耀【かがや】かせた。",
+    "meaning": "Her singing illuminated the entire venue."
+  },
+  {
+    "sentence": "嵐の後、虹が空で耀いた。",
+    "sentence_furigana": "嵐【あらし】の後【あと】、虹【にじ】が空【そら】で耀【かがや】いた。",
+    "meaning": "After the storm, a rainbow shone in the sky."
+  },
+  {
+    "sentence": "彼は困難の中でも決して耀きを失わなかった。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】の中【なか】でも決【けっ】して耀【かがや】きを失【うしな】わなかった。",
+    "meaning": "He never lost his sparkle even in adversity."
+  },
+  {
+    "sentence": "水面がきらめき、太陽の光を耀かせていた。",
+    "sentence_furigana": "水面【すいめん】がきらめき、太陽【たいよう】の光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "The water surface sparkled, reflecting the sunlight."
+  },
+  {
+    "sentence": "彼女の笑顔は太陽のように耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は太陽【たいよう】のように耀【かがや】いていた。",
+    "meaning": "Her smile shone like the sun."
+  },
+  {
+    "sentence": "銀河は夜空で遠く耀いていた。",
+    "sentence_furigana": "銀河【ぎんが】は夜空【よぞら】で遠【とお】く耀【かがや】いていた。",
+    "meaning": "The galaxy shone distantly in the night sky."
+  },
+  {
+    "sentence": "この宝石は独特の輝きで耀いている。",
+    "sentence_furigana": "この宝石【ほうせき】は独特【どくとく】の輝【かがや】きで耀【かがや】いている。",
+    "meaning": "This jewel shines with a unique brilliance."
+  },
+  {
+    "sentence": "彼の言葉は希望の光を耀かせていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は希望【きぼう】の光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "His words radiated the light of hope."
+  },
+  {
+    "sentence": "雪の結晶は氷の光で耀いていた。",
+    "sentence_furigana": "雪【ゆき】の結晶【けっしょう】は氷【こおり】の光【ひかり】で耀【かがや】いていた。",
+    "meaning": "The snowflakes glittered with icy light."
+  },
+  {
+    "sentence": "彼女の髪は絹のように耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の髪【かみ】は絹【きぬ】のように耀【かがや】いていた。",
+    "meaning": "Her hair shone like silk."
+  },
+  {
+    "sentence": "祭りの灯りは夜空を耀かせた。",
+    "sentence_furigana": "祭【まつ】りの灯【あか】りは夜空【よぞら】を耀【かがや】かせた。",
+    "meaning": "The festival lights illuminated the night sky."
+  },
+  {
+    "sentence": "この絵は鮮やかな色彩で耀いている。",
+    "sentence_furigana": "この絵【え】は鮮【あざ】やかな色彩【しきさい】で耀【かがや】いている。",
+    "meaning": "This painting glows with vivid colors."
+  },
+  {
+    "sentence": "彼の決意は炎のように耀いていた。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】は炎【ほのお】のように耀【かがや】いていた。",
+    "meaning": "His determination burned brightly like a flame."
+  },
+  {
+    "sentence": "金色の太陽が地平線から耀き始めた。",
+    "sentence_furigana": "金色【きんいろ】の太陽【たいよう】が地平線【ちへいせん】から耀【かがや】き始【はじ】めた。",
+    "meaning": "The golden sun began to gleam from the horizon."
+  },
+  {
+    "sentence": "彼女のドレスは夜会の照明で耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】のドレスは夜会【やかい】の照明【しょうめい】で耀【かがや】いていた。",
+    "meaning": "Her dress sparkled in the ballroom lighting."
+  },
+  {
+    "sentence": "その都市の灯りは遠くからでも耀いていた。",
+    "sentence_furigana": "その都市【とし】の灯【あか】りは遠【とお】くからでも耀【かがや】いていた。",
+    "meaning": "The city lights shone even from afar."
+  },
+  {
+    "sentence": "彼の笑顔は暗闇の中で希望を耀かせていた。",
+    "sentence_furigana": "彼【かれ】の笑顔【えがお】は暗闇【くらやみ】の中【なか】で希望【きぼう】を耀【かがや】かせていた。",
+    "meaning": "His smile shone hope in the darkness."
+  },
+  {
+    "sentence": "水滴がきらめき、宝石のように耀いていた。",
+    "sentence_furigana": "水滴【すいてき】がきらめき、宝石【ほうせき】のように耀【かがや】いていた。",
+    "meaning": "The water droplets sparkled, shining like jewels."
+  },
+  {
+    "sentence": "彼女の才能は多くの人々を耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は多【おお】くの人々【ひとびと】を耀【かがや】かせた。",
+    "meaning": "Her talent illuminated many people."
+  },
+  {
+    "sentence": "炎は暖かく、柔らかく耀いていた。",
+    "sentence_furigana": "炎【ほのお】は暖【あたた】かく、柔【やわ】らかく耀【かがや】いていた。",
+    "meaning": "The flames glowed warmly and softly."
+  },
+  {
+    "sentence": "この彫刻は光を受けて美しく耀いている。",
+    "sentence_furigana": "この彫刻【ちょうこく】は光【ひかり】を受【う】けて美【うつく】しく耀【かがや】いている。",
+    "meaning": "This sculpture shines beautifully when exposed to light."
+  },
+  {
+    "sentence": "彼女の瞳は好奇心で耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は好奇心【こうきしん】で耀【かがや】いていた。",
+    "meaning": "Her eyes sparkled with curiosity."
+  },
+  {
+    "sentence": "新しい目標に向かって、彼の心は耀いていた。",
+    "sentence_furigana": "新【あたら】しい目標【もくひょう】に向【む】かって、彼【かれ】の心【こころ】は耀【かがや】いていた。",
+    "meaning": "His heart shone towards a new goal."
+  },
+  {
+    "sentence": "星屑が宇宙に静かに耀いていた。",
+    "sentence_furigana": "星屑【ほしくず】が宇宙【うちゅう】に静【しず】かに耀【かがや】いていた。",
+    "meaning": "Stardust shimmered quietly in space."
+  },
+  {
+    "sentence": "彼女の歌声は天使の歌声のように耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は天使【てんし】の歌声【うたごえ】のように耀【かがや】いていた。",
+    "meaning": "Her singing voice shone like an angel's."
+  },
+  {
+    "sentence": "その鉱石は内側から淡く耀いていた。",
+    "sentence_furigana": "その鉱石【こうせき】は内側【うちがわ】から淡【あわ】く耀【かがや】いていた。",
+    "meaning": "The ore emitted a faint glow from within."
+  },
+  {
+    "sentence": "彼の努力は報われ、輝きを耀かせていた。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は報【むく】われ、輝【かがや】きを耀【かがや】かせていた。",
+    "meaning": "His efforts were rewarded, shining brightly."
+  },
+  {
+    "sentence": "月の光が湖面を優しく耀かせていた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が湖面【こめん】を優【やさ】しく耀【かがや】かせていた。",
+    "meaning": "The moonlight gently shimmered on the lake's surface."
+  },
+  {
+    "sentence": "彼女の知性は学問の世界で耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の知性【ちせい】は学問【がくもん】の世界【せかい】で耀【かがや】いていた。",
+    "meaning": "Her intelligence shone in the world of scholarship."
+  },
+  {
+    "sentence": "その宝石は王冠の上で最も耀いていた。",
+    "sentence_furigana": "その宝石【ほうせき】は王冠【おうかん】の上【うえ】で最も【もっと】も耀【かがや】いていた。",
+    "meaning": "The jewel shone the brightest on the crown."
+  },
+  {
+    "sentence": "子供たちの笑い声は会場を耀かせた。",
+    "sentence_furigana": "子供【こども】たちの笑【わら】い声【ごえ】は会場【かいじょう】を耀【かがや】かせた。",
+    "meaning": "The children's laughter illuminated the venue."
+  },
+  {
+    "sentence": "彼の演奏は観客の心を耀かせた。",
+    "sentence_furigana": "彼【かれ】の演奏【えんそう】は観客【かんきゃく】の心【こころ】を耀【かがや】かせた。",
+    "meaning": "His performance brightened the audience's hearts."
+  },
+  {
+    "sentence": "このデザインは独特の魅力で耀いている。",
+    "sentence_furigana": "このデザインは独特【どくとく】の魅力【みりょく】で耀【かがや】いている。",
+    "meaning": "This design shines with a unique charm."
+  },
+  {
+    "sentence": "彼女のダンスは軽やかに耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】のダンスは軽【かろ】やかに耀【かがや】いていた。",
+    "meaning": "Her dance sparkled lightly."
+  },
+  {
+    "sentence": "その古い書物は時代を超えて耀いている。",
+    "sentence_furigana": "その古【ふる】い書物【しょもつ】は時代【じだい】を超【こ】えて耀【かがや】いている。",
+    "meaning": "That old book shines through the ages."
+  },
+  {
+    "sentence": "彼の行動はリーダーシップで耀いていた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】はリーダーシップで耀【かがや】いていた。",
+    "meaning": "His actions shone with leadership."
+  },
+  {
+    "sentence": "この絵画は色彩豊かに耀いている。",
+    "sentence_furigana": "この絵画【かいが】は色彩豊【しきさいゆた】かに耀【かがや】いている。",
+    "meaning": "This painting shines with rich colors."
+  },
+  {
+    "sentence": "彼女の目は喜びで耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は喜【よろこ】びで耀【かがや】いていた。",
+    "meaning": "Her eyes sparkled with joy."
+  },
+  {
+    "sentence": "その炎は夜道を暖かく耀かせていた。",
+    "sentence_furigana": "その炎【ほのお】は夜道【よみち】を暖【あたた】かく耀【かがや】かせていた。",
+    "meaning": "The flame illuminated the night road warmly."
+  },
+  {
+    "sentence": "彼女の決断はチームに希望を耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の決断【けつだん】はチームに希望【きぼう】を耀【かがや】かせた。",
+    "meaning": "Her decision brought hope to the team."
+  },
+  {
+    "sentence": "この石は光を吸収して、内側から耀いていた。",
+    "sentence_furigana": "この石【いし】は光【ひかり】を吸収【きゅうしゅう】して、内側【うちがわ】から耀【かがや】いていた。",
+    "meaning": "This stone absorbed light and glowed from within."
+  },
+  {
+    "sentence": "彼の詩は感動的な言葉で耀いていた。",
+    "sentence_furigana": "彼【かれ】の詩【し】は感動的【かんどうてき】な言葉【ことば】で耀【かがや】いていた。",
+    "meaning": "His poetry shone with moving words."
+  },
+  {
+    "sentence": "彼女の笑顔は周囲を明るく耀かせる。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は周囲【しゅうい】を明【あか】るく耀【かがや】かせる。",
+    "meaning": "Her smile brightens the surroundings."
+  },
+  {
+    "sentence": "このガラスは太陽の光を浴びて耀いている。",
+    "sentence_furigana": "このガラスは太陽【たいよう】の光【ひかり】を浴【あ】びて耀【かがや】いている。",
+    "meaning": "This glass sparkles in the sunlight."
+  },
+  {
+    "sentence": "彼の功績は時代を超えて耀き続けるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は時代【じだい】を超【こ】えて耀【かがや】き続【つづ】けるだろう。",
+    "meaning": "His achievements will continue to shine through the ages."
+  },
+  {
+    "sentence": "彼女の知識は議論を耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の知識【ちしき】は議論【ぎろん】を耀【かがや】かせた。",
+    "meaning": "Her knowledge illuminated the discussion."
+  },
+  {
+    "sentence": "この生地は独特の光沢で耀いている。",
+    "sentence_furigana": "この生地【きじ】は独特【どくとく】の光沢【こうたく】で耀【かがや】いている。",
+    "meaning": "This fabric shines with a unique luster."
+  },
+  {
+    "sentence": "彼の物語は真実の光で耀いていた。",
+    "sentence_furigana": "彼【かれ】の物語【ものがた】りは真実【しんじつ】の光【ひかり】で耀【かがや】いていた。",
+    "meaning": "His story shone with the light of truth."
+  },
+  {
+    "sentence": "彼女の才能は多くの人々を魅了し、耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は多【おお】くの人々【ひとびと】を魅了【みりょう】し、耀【かがや】かせた。",
+    "meaning": "Her talent captivated and illuminated many people."
+  },
+  {
+    "sentence": "その砂漠の砂は星明かりで耀いていた。",
+    "sentence_furigana": "その砂漠【さばく】の砂【すな】は星明【ほしあ】かりで耀【かがや】いていた。",
+    "meaning": "The desert sand gleamed in the starlight."
+  },
+  {
+    "sentence": "彼の勇気は困難な状況で特に耀いていた。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】は困難【こんなん】な状況【じょうきょう】で特【とく】に耀【かがや】いていた。",
+    "meaning": "His courage shone particularly in difficult situations."
+  },
+  {
+    "sentence": "彼女の髪は太陽の光を浴びて黄金に耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の髪【かみ】は太陽【たいよう】の光【ひかり】を浴【あ】びて黄金【こがね】に耀【かがや】いていた。",
+    "meaning": "Her hair shone golden in the sunlight."
+  },
+  {
+    "sentence": "このダイヤモンドは無数の光を耀かせていた。",
+    "sentence_furigana": "このダイヤモンドは無数【むすう】の光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "This diamond reflected countless lights."
+  },
+  {
+    "sentence": "彼の音楽は聴く者の心を明るく耀かせた。",
+    "sentence_furigana": "彼【かれ】の音楽【おんがく】は聴【き】く者【もの】の心【こころ】を明【あか】るく耀【かがや】かせた。",
+    "meaning": "His music brightened the listeners' hearts."
+  },
+  {
+    "sentence": "彼女の存在は場全体を輝きで耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の存在【そんざい】は場全体【ばぜんたい】を輝【かがや】きで耀【かがや】かせた。",
+    "meaning": "Her presence illuminated the entire space with brilliance."
+  },
+  {
+    "sentence": "この模様は見る角度によって違った色を耀かせる。",
+    "sentence_furigana": "この模様【もよう】は見【み】る角度【かくど】によって違【ちが】った色【いろ】を耀【かがや】かせる。",
+    "meaning": "This pattern displays different colors depending on the viewing angle."
+  },
+  {
+    "sentence": "彼の言葉は真実の輝きで耀いていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】の輝【かがや】きで耀【かがや】いていた。",
+    "meaning": "His words shone with the brilliance of truth."
+  },
+  {
+    "sentence": "彼女の視線は好奇心に耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の視線【しせん】は好奇心【こうきしん】に耀【かがや】いていた。",
+    "meaning": "Her gaze sparkled with curiosity."
+  },
+  {
+    "sentence": "その剣は古代の力で耀いていた。",
+    "sentence_furigana": "その剣【けん】は古代【こだい】の力【ちから】で耀【かがや】いていた。",
+    "meaning": "The sword gleamed with ancient power."
+  },
+  {
+    "sentence": "彼の人生は多くの経験で耀いていた。",
+    "sentence_furigana": "彼【かれ】の人生【じんせい】は多【おお】くの経験【けいけん】で耀【かがや】いていた。",
+    "meaning": "His life shone with many experiences."
+  },
+  {
+    "sentence": "彼女の笑顔は希望の光を放ち、皆を耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は希望【きぼう】の光【ひかり】を放【はな】ち、皆【みな】を耀【かがや】かせた。",
+    "meaning": "Her smile emitted the light of hope, illuminating everyone."
+  },
+  {
+    "sentence": "このクリスタルは内部から淡い光を耀かせていた。",
+    "sentence_furigana": "このクリスタルは内部【ないぶ】から淡【あわ】い光【ひかり】を耀【かがや】かせていた。",
+    "meaning": "This crystal emitted a faint light from within."
+  },
+  {
+    "sentence": "彼の才能は才能の宝庫の中で輝きを耀かせていた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は才能【さいのう】の宝庫【ほうこ】の中【なか】で輝【かがや】きを耀【かがや】かせていた。",
+    "meaning": "His talent shone brilliantly among a treasure trove of talents."
+  },
+  {
+    "sentence": "彼女の歌声は会場を満たす光のように耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は会場【かいじょう】を満【み】たす光【ひかり】のように耀【かがや】いていた。",
+    "meaning": "Her singing voice shone like light filling the venue."
+  },
+  {
+    "sentence": "その彫刻は古代の神秘で耀いていた。",
+    "sentence_furigana": "その彫刻【ちょうこく】は古代【こだい】の神秘【しんぴ】で耀【かがや】いていた。",
+    "meaning": "The sculpture gleamed with ancient mystery."
+  },
+  {
+    "sentence": "彼の言葉は真実の力で耀いていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】の力【ちから】で耀【かがや】いていた。",
+    "meaning": "His words shone with the power of truth."
+  },
+  {
+    "sentence": "彼女の瞳は夢で耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は夢【ゆめ】で耀【かがや】いていた。",
+    "meaning": "Her eyes sparkled with dreams."
+  },
+  {
+    "sentence": "この生地は光の加減で色を変えて耀いていた。",
+    "sentence_furigana": "この生地【きじ】は光【ひかり】の加減【かげん】で色【いろ】を変【か】えて耀【かがや】いていた。",
+    "meaning": "This fabric shimmered, changing color with the light."
+  },
+  {
+    "sentence": "彼の情熱はプロジェクトを耀かせた。",
+    "sentence_furigana": "彼【かれ】の情熱【じょうねつ】はプロジェクトを耀【かがや】かせた。",
+    "meaning": "His passion illuminated the project."
+  },
+  {
+    "sentence": "彼女の笑顔は太陽のように皆を耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は太陽【たいよう】のように皆【みな】を耀【かがや】かせた。",
+    "meaning": "Her smile, like the sun, illuminated everyone."
+  },
+  {
+    "sentence": "この装飾品は細部まで美しく耀いていた。",
+    "sentence_furigana": "この装飾品【そうしょくひん】は細部【さいぶ】まで美【うつく】しく耀【かがや】いていた。",
+    "meaning": "This ornament shone beautifully down to the details."
+  },
+  {
+    "sentence": "彼の努力は決して色褪せず、常に耀いていた。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は決【けっ】して色褪【いろあ】せず、常【つね】に耀【かがや】いていた。",
+    "meaning": "His efforts never faded and always shone."
+  },
+  {
+    "sentence": "彼女の目は知性で耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は知性【ちせい】で耀【かがや】いていた。",
+    "meaning": "Her eyes sparkled with intelligence."
+  },
+  {
+    "sentence": "この石は魔法の光で耀いていた。",
+    "sentence_furigana": "この石【いし】は魔法【まほう】の光【ひかり】で耀【かがや】いていた。",
+    "meaning": "This stone glowed with magical light."
+  },
+  {
+    "sentence": "彼の物語は希望の光で耀き続けた。",
+    "sentence_furigana": "彼【かれ】の物語【ものがた】りは希望【きぼう】の光【ひかり】で耀【かがや】き続【つづ】けた。",
+    "meaning": "His story continued to shine with the light of hope."
+  },
+  {
+    "sentence": "彼女の歌声は聴く者の心を優しく耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は聴【き】く者【もの】の心【こころ】を優【やさ】しく耀【かがや】かせた。",
+    "meaning": "Her singing voice gently brightened the listeners' hearts."
+  },
+  {
+    "sentence": "そのダイヤモンドは非常に強く耀いていた。",
+    "sentence_furigana": "そのダイヤモンドは非常【ひじょう】に強【つよ】く耀【かがや】いていた。",
+    "meaning": "That diamond sparkled very brightly."
+  },
+  {
+    "sentence": "彼の言葉は真実を耀かせる。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】を耀【かがや】かせる。",
+    "meaning": "His words reveal the truth."
+  },
+  {
+    "sentence": "彼女の才能は舞台上で最も耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は舞台【ぶたい】の上【うえ】で最も【もっと】も耀【かがや】いていた。",
+    "meaning": "Her talent shone the brightest on stage."
+  },
+  {
+    "sentence": "この絵はを見る者の心を耀かせる。",
+    "sentence_furigana": "この絵【え】はを見る者【もの】の心【こころ】を耀【かがや】かせる。",
+    "meaning": "This painting brightens the viewer's heart."
+  },
+  {
+    "sentence": "彼の決意は困難の中でも耀いていた。",
+    "sentence_furigana": "彼【かれ】の決意【けついたい】は困難【こんなん】の中【なか】でも耀【かがや】いていた。",
+    "meaning": "His determination shone even in difficulty."
+  },
+  {
+    "sentence": "彼女の髪はシルクのように滑らかに耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の髪【かみ】はシルクのように滑【なめ】らかに耀【かがや】いていた。",
+    "meaning": "Her hair shone smoothly like silk."
+  },
+  {
+    "sentence": "この宝石は深海のように暗闇で耀いていた。",
+    "sentence_furigana": "この宝石【ほうせき】は深海【しんかい】のように暗闇【くらやみ】で耀【かがや】いていた。",
+    "meaning": "This jewel shone in the darkness like the deep sea."
+  },
+  {
+    "sentence": "彼の功績は永遠に耀き続けるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は永遠【えいえん】に耀【かがや】き続【つづ】けるだろう。",
+    "meaning": "His achievements will continue to shine eternally."
+  },
+  {
+    "sentence": "彼女の歌声は希望の光を耀かせる。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は希望【きぼう】の光【ひかり】を耀【かがや】かせる。",
+    "meaning": "Her singing voice radiates the light of hope."
+  },
+  {
+    "sentence": "この布地は夜空のように星々を耀かせていた。",
+    "sentence_furigana": "この布地【ぬのじ】は夜空【よぞら】のように星々【ほしぼし】を耀【かがや】かせていた。",
+    "meaning": "This fabric shimmered with stars like the night sky."
+  },
+  {
+    "sentence": "彼の知性は会議を明るく耀かせた。",
+    "sentence_furigana": "彼【かれ】の知性【ちせい】は会議【かいぎ】を明【あか】るく耀【かがや】かせた。",
+    "meaning": "His intellect brightened the meeting."
+  },
+  {
+    "sentence": "彼女の笑顔は天使のように皆を耀かせた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は天使【てんし】のように皆【みな】を耀【かがや】かせた。",
+    "meaning": "Her smile, like an angel's, illuminated everyone."
+  },
+  {
+    "sentence": "このガラスは光を受けて虹色に耀いていた。",
+    "sentence_furigana": "このガラスは光【ひかり】を受【う】けて虹色【にじいろ】に耀【かがや】いていた。",
+    "meaning": "This glass reflected a rainbow of colors in the light."
+  },
+  {
+    "sentence": "彼の才能は努力によってさらに耀いた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は努力【どりょく】によってさらに耀【かがや】いた。",
+    "meaning": "His talent shone even brighter through his efforts."
+  },
+  {
+    "sentence": "彼女の目は輝きで耀いていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は輝【かがや】きで耀【かがや】いていた。",
+    "meaning": "Her eyes sparkled with brilliance."
+  }
+]

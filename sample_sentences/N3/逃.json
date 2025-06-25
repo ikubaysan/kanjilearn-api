@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "犯人は警察から逃げようとした。",
+    "sentence_furigana": "犯人【はんにん】は警察【けいさつ】から逃【に】げようとした。",
+    "meaning": "The criminal tried to escape from the police."
+  },
+  {
+    "sentence": "彼は危険から逃れるために遠くへ引っ越した。",
+    "sentence_furigana": "彼【かれ】は危険【きけん】から逃【のが】れるために遠【とお】くへ引っ越【ひっこ】した。",
+    "meaning": "He moved far away to escape danger."
+  },
+  {
+    "sentence": "そのウサギは草むらに逃げ込んだ。",
+    "sentence_furigana": "そのウサギは草むら【くさむら】に逃【に】げ込んだ【こんだ】。",
+    "meaning": "The rabbit fled into the bushes."
+  },
+  {
+    "sentence": "彼は責任を逃がそうとしたが、できなかった。",
+    "sentence_furigana": "彼【かれ】は責任【せきにん】を逃【のが】そうとしたが、できなかった。",
+    "meaning": "He tried to shirk responsibility, but couldn't."
+  },
+  {
+    "sentence": "囚人は看守の目を盗んで逃げた。",
+    "sentence_furigana": "囚人【しゅうじん】は看守【かんしゅ】の目【め】を盗【ぬす】んで逃【に】げた。",
+    "meaning": "The prisoner evaded the guard's watch and escaped."
+  },
+  {
+    "sentence": "彼女は追跡から逃れる術を知っていた。",
+    "sentence_furigana": "彼女【かのじょ】は追跡【ついせき】から逃【のが】れる術【すべ】を知【し】っていた。",
+    "meaning": "She knew how to evade pursuit."
+  },
+  {
+    "sentence": "彼は新しい生活を求めて故郷を逃げ出した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい生活【せいかつ】を求【もと】めて故郷【こきょう】を逃【に】げ出した【だ】した。",
+    "meaning": "He fled his hometown in search of a new life."
+  },
+  {
+    "sentence": "その猫は家から逃げ出してしまった。",
+    "sentence_furigana": "その猫は家【いえ】から逃【に】げ出してしまった。",
+    "meaning": "The cat escaped from the house."
+  },
+  {
+    "sentence": "彼は罰を逃れることはできないだろう。",
+    "sentence_furigana": "彼【かれ】は罰【ばつ】を逃【のが】れることはできないだろう。",
+    "meaning": "He probably cannot evade punishment."
+  },
+  {
+    "sentence": "私たちは迫り来る危険から逃げる必要があった。",
+    "sentence_furigana": "私【わたし】たち【は】迫【せま】り来【く】る危険【きけん】から逃【に】げる必要【ひつよう】があった。",
+    "meaning": "We had to flee from the approaching danger."
+  },
+  {
+    "sentence": "子供たちは鬼ごっこで鬼から逃げ回っていた。",
+    "sentence_furigana": "子供【こども】たちは鬼【おに】ごっこで鬼【おに】から逃【に】げ回【まわ】っていた。",
+    "meaning": "The children were running away from the tagger in a game of tag."
+  },
+  {
+    "sentence": "彼は困難な状況から逃げようとした。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】から逃【に】げようとした。",
+    "meaning": "He tried to escape from the difficult situation."
+  },
+  {
+    "sentence": "彼女は結婚式の日に逃げた。",
+    "sentence_furigana": "彼女【かのじょ】は結婚式【けっこんしき】の日【ひ】に逃【に】げた。",
+    "meaning": "She fled on her wedding day."
+  },
+  {
+    "sentence": "その動物は捕獲から逃れることに成功した。",
+    "sentence_furigana": "その動物【どうぶつ】は捕獲【ほかく】から逃【のが】れることに成功【せいこう】した。",
+    "meaning": "The animal succeeded in evading capture."
+  },
+  {
+    "sentence": "彼は借金から逃げるために海外へ行った。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】から逃【に】げるために海外【かいがい】へ行【い】った。",
+    "meaning": "He went overseas to escape his debts."
+  },
+  {
+    "sentence": "この秘密は誰にも逃げられない。",
+    "sentence_furigana": "この秘密【ひみつ】は誰【だれ】にも逃【に】げられない。",
+    "meaning": "No one can escape this secret."
+  },
+  {
+    "sentence": "彼は自分の過去から逃れようとした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】から逃【のが】れようとした。",
+    "meaning": "He tried to escape his past."
+  },
+  {
+    "sentence": "火事から逃げるために窓から飛び降りた。",
+    "sentence_furigana": "火事【かじ】から逃【に】げるために窓【まど】から飛【と】び降【お】りた。",
+    "meaning": "He jumped out of the window to escape the fire."
+  },
+  {
+    "sentence": "彼は仕事のノルマを逃れようとした。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】のノルマを逃【のが】れようとした。",
+    "meaning": "He tried to shirk his work quota."
+  },
+  {
+    "sentence": "その情報は公には逃げなかった。",
+    "sentence_furigana": "その情報【じょうほう】は公【こう】には逃【に】げなかった。",
+    "meaning": "That information did not escape public notice."
+  },
+  {
+    "sentence": "兵士は敵から逃げずに戦った。",
+    "sentence_furigana": "兵士【へいし】は敵【てき】から逃【に】げずに戦【たたか】った。",
+    "meaning": "The soldier fought without fleeing from the enemy."
+  },
+  {
+    "sentence": "彼女は窮地を逃れるための妙案を思いついた。",
+    "sentence_furigana": "彼女【かのじょ】は窮地【きゅうち】を逃【のが】れるための妙案【みょうあん】を思【おも】い付【つ】いた。",
+    "meaning": "She devised a clever plan to escape the predicament."
+  },
+  {
+    "sentence": "囚人は警備の網から逃れることはできなかった。",
+    "sentence_furigana": "囚人【しゅうじん】は警備【けいび】の網【あみ】から逃【のが】れることはできなかった。",
+    "meaning": "The prisoner could not escape the security net."
+  },
+  {
+    "sentence": "彼は罪を逃れるために身元を隠した。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】を逃【のが】れるために身元【みもと】を隠【かく】した。",
+    "meaning": "He concealed his identity to evade punishment for the crime."
+  },
+  {
+    "sentence": "犬がリードから逃げ出した。",
+    "sentence_furigana": "犬【いぬ】がリードから逃【に】げ出した。",
+    "meaning": "The dog broke free from its leash."
+  },
+  {
+    "sentence": "彼女は悪夢から逃れたかった。",
+    "sentence_furigana": "彼女【かのじょ】は悪夢【あくむ】から逃【のが】れたかった。",
+    "meaning": "She wanted to escape from the nightmare."
+  },
+  {
+    "sentence": "彼は追っ手から逃げるために森に入った。",
+    "sentence_furigana": "彼【かれ】は追【お】っ手【て】から逃【に】げるために森【もり】に入【はい】った。",
+    "meaning": "He entered the forest to escape his pursuers."
+  },
+  {
+    "sentence": "そのウイルスは検出を逃れることができる。",
+    "sentence_furigana": "そのウイルスは検出【けんしゅつ】を逃【のが】れることができる。",
+    "meaning": "The virus can evade detection."
+  },
+  {
+    "sentence": "彼は義務から逃れようとしない。",
+    "sentence_furigana": "彼【かれ】は義務【ぎむ】から逃【のが】れようとしない。",
+    "meaning": "He does not try to shirk his duties."
+  },
+  {
+    "sentence": "脱獄囚は警察から逃げ回っている。",
+    "sentence_furigana": "脱獄囚【だつごくしゅう】は警察【けいさつ】から逃【に】げ回【まわ】っている。",
+    "meaning": "The escaped convict is fleeing from the police."
+  },
+  {
+    "sentence": "彼は自分の運命から逃れられないと感じていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の運命【うんめい】から逃【のが】れられないと感【かん】じていた。",
+    "meaning": "He felt he could not escape his fate."
+  },
+  {
+    "sentence": "子供は母親の腕から逃げようとした。",
+    "sentence_furigana": "子供【こども】は母親【ははおや】の腕【うで】から逃【に】げようとした。",
+    "meaning": "The child tried to wriggle out of its mother's arms."
+  },
+  {
+    "sentence": "彼は法の裁きから逃れることはできない。",
+    "sentence_furigana": "彼【かれ】は法【ほう】の裁【さば】きから逃【のが】れることはできない。",
+    "meaning": "He cannot evade the judgment of the law."
+  },
+  {
+    "sentence": "その鳥は捕獲網から逃げ出した。",
+    "sentence_furigana": "その鳥【とり】は捕獲網【ほかくあみ】から逃【に】げ出した。",
+    "meaning": "The bird escaped from the capture net."
+  },
+  {
+    "sentence": "彼女は厳しい現実から逃避したかった。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい現実【げんじつ】から逃【とう】避【ひ】したかった。",
+    "meaning": "She wanted to escape from harsh reality."
+  },
+  {
+    "sentence": "逃げる者は捕まえるな、という格言がある。",
+    "sentence_furigana": "逃【に】げる者【もの】は捕【と】らえな、という格言【かくげん】がある。",
+    "meaning": "There is a saying, 'Don't catch those who flee'."
+  },
+  {
+    "sentence": "彼は追跡を逃れるために、別のルートを使った。",
+    "sentence_furigana": "彼【かれ】は追跡【ついせき】を逃【のが】れるために、別【べつ】のルートを使【つか】った。",
+    "meaning": "He used a different route to evade pursuit."
+  },
+  {
+    "sentence": "この状況から逃げる方法は見つからない。",
+    "sentence_furigana": "この状況【じょうきょう】から逃【に】げる方法【ほうほう】は見【み】つからない。",
+    "meaning": "There is no way to escape this situation."
+  },
+  {
+    "sentence": "彼は危険な場所から逃げるように指示された。",
+    "sentence_furigana": "彼【かれ】は危険【きけん】な場所【ばしょ】から逃【に】げるように指示【しじ】された。",
+    "meaning": "He was instructed to flee from the dangerous area."
+  },
+  {
+    "sentence": "その詐欺師は法の手から逃れた。",
+    "sentence_furigana": "その詐欺師【さぎし】は法【ほう】の手【て】から逃【のが】れた。",
+    "meaning": "The swindler escaped from the hands of the law."
+  },
+  {
+    "sentence": "彼は社会の期待から逃れようとした。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の期待【きたい】から逃【のが】れようとした。",
+    "meaning": "He tried to evade society's expectations."
+  },
+  {
+    "sentence": "多くの人が困難から逃げることを選ぶ。",
+    "sentence_furigana": "多【おお】くの人【ひと】が困難【こんなん】から逃【に】げることを選【えら】ぶ。",
+    "meaning": "Many people choose to flee from difficulties."
+  },
+  {
+    "sentence": "彼女は秘密を逃すまいと必死だった。",
+    "sentence_furigana": "彼女【かのじょ】は秘密【ひみつ】を逃【のが】すまいと必死【ひっし】だった。",
+    "meaning": "She was desperate not to let the secret escape."
+  },
+  {
+    "sentence": "彼は追跡者から隠れて逃げ延びた。",
+    "sentence_furigana": "彼【かれ】は追跡者【ついせきしゃ】から隠【かく】れて逃【に】げ延【の】びた。",
+    "meaning": "He hid from his pursuers and escaped."
+  },
+  {
+    "sentence": "その鳥は檻から逃げ出した。",
+    "sentence_furigana": "その鳥【とり】は檻【おり】から逃【に】げ出した。",
+    "meaning": "The bird escaped from its cage."
+  },
+  {
+    "sentence": "彼は疲労から逃れるために休息を取った。",
+    "sentence_furigana": "彼【かれ】は疲労【ひろう】から逃【のが】れるために休息【きゅうそく】を取【と】った。",
+    "meaning": "He took a rest to escape fatigue."
+  },
+  {
+    "sentence": "彼は自分の過去の過ちから逃げることができない。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】の過誤【あやま】ちから逃【に】げることができない。",
+    "meaning": "He cannot escape his past mistakes."
+  },
+  {
+    "sentence": "脱走犯は警察官から必死に逃げた。",
+    "sentence_furigana": "脱走犯【だっそうはん】は警察官【けいさつかん】から必死【ひっし】に逃【に】げた。",
+    "meaning": "The fugitive fled desperately from the police officer."
+  },
+  {
+    "sentence": "彼女は人生の苦しみから逃れたいと思っていた。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の苦悩【くのう】から逃【のが】れたいと思【おも】っていた。",
+    "meaning": "She wished to escape from the suffering of life."
+  },
+  {
+    "sentence": "その捕虜は警備の目を盗んで逃げた。",
+    "sentence_furigana": "その捕虜【ほりょ】は警備【けいび】の目【め】を盗【ぬす】んで逃【に】げた。",
+    "meaning": "The prisoner of war evaded the guards' attention and escaped."
+  },
+  {
+    "sentence": "彼は責任を回避しようと試みた。",
+    "sentence_furigana": "彼【かれ】は責任【せきにん】を回避【かいひ】しようと試【こころ】みた。",
+    "meaning": "He attempted to evade responsibility."
+  },
+  {
+    "sentence": "その事件の情報は世間から逃れることはなかった。",
+    "sentence_furigana": "その事件【じけん】の情報【じょうほう】は世間【せけん】から逃【のが】れることはなかった。",
+    "meaning": "Information about the incident did not escape the public."
+  },
+  {
+    "sentence": "彼は仕事から逃げる口実を探していた。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】から逃【に】げる口実【こうじつ】を探【さが】していた。",
+    "meaning": "He was looking for an excuse to shirk work."
+  },
+  {
+    "sentence": "子供は両親から逃げるように部屋を出た。",
+    "sentence_furigana": "子供【こども】は両親【りょうしん】から逃【に】げるように部屋【へや】を出【で】た。",
+    "meaning": "The child left the room as if fleeing from his parents."
+  },
+  {
+    "sentence": "彼は秘密裏に逃亡を図った。",
+    "sentence_furigana": "彼【かれ】は秘密裏【ひみつり】に逃亡【とうぼう】を図【はか】った。",
+    "meaning": "He attempted to escape secretly."
+  },
+  {
+    "sentence": "その動物は捕獲者から巧みに逃れた。",
+    "sentence_furigana": "その動物【どうぶつ】は捕獲者【ほかくしゃ】から巧【たく】みに逃【のが】れた。",
+    "meaning": "The animal cleverly evaded its captor."
+  },
+  {
+    "sentence": "彼は厳しい現実から逃げるために、つねに空想の世界にいた。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい現実【げんじつ】から逃【に】げるために、つねに空想【くうそう】の世界【せかい】にいた。",
+    "meaning": "He was always in a world of fantasy to escape harsh reality."
+  },
+  {
+    "sentence": "彼女はその質問から逃げようとした。",
+    "sentence_furigana": "彼女【かのじょ】はその質問【しつもん】から逃【に】げようとした。",
+    "meaning": "She tried to evade that question."
+  },
+  {
+    "sentence": "逃げないで、私と一緒に来て。",
+    "sentence_furigana": "逃【に】げないで、私【わたし】と一緒【いっしょ】に来【き】て。",
+    "meaning": "Don't run away, come with me."
+  },
+  {
+    "sentence": "彼は兵役を逃れようとした。",
+    "sentence_furigana": "彼【かれ】は兵役【へいえき】を逃【のが】れようとした。",
+    "meaning": "He tried to evade military service."
+  },
+  {
+    "sentence": "火災報知器の音から逃れるように人々が避難した。",
+    "sentence_furigana": "火災報知器【かさいほうちき】の音【おと】から逃【のが】れるように人々【ひとびと】が避難【ひなん】した。",
+    "meaning": "People evacuated as if escaping from the sound of the fire alarm."
+  },
+  {
+    "sentence": "彼女は捕まるのを逃れるために、姿をくらました。",
+    "sentence_furigana": "彼女【かのじょ】は捕【つか】まるのを逃【のが】れるために、姿【すがた】をくらました。",
+    "meaning": "She disappeared to evade capture."
+  },
+  {
+    "sentence": "危険が迫っているので、すぐに逃げてください。",
+    "sentence_furigana": "危険【きけん】が迫【せま】っているので、すぐに逃【に】てください。",
+    "meaning": "Danger is approaching, so please escape immediately."
+  },
+  {
+    "sentence": "彼は失敗の責任を逃れようとした。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】の責任【せきにん】を逃【のが】れようとした。",
+    "meaning": "He tried to shirk responsibility for the failure."
+  },
+  {
+    "sentence": "彼女は過去の影から逃れることはできない。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の影【かげ】から逃【のが】れることはできない。",
+    "meaning": "She cannot escape the shadows of her past."
+  },
+  {
+    "sentence": "その動物は自然の厳しい環境から逃れる術はない。",
+    "sentence_furigana": "その動物【どうぶつ】は自然【しぜん】の厳【きび】しい環境【かんきょう】から逃【のが】れる術【すべ】はない。",
+    "meaning": "The animal has no way to escape the harsh environment of nature."
+  },
+  {
+    "sentence": "彼は束縛から逃れたいと願っていた。",
+    "sentence_furigana": "彼【かれ】は束縛【そくばく】から逃【のが】れたいと願【ねが】っていた。",
+    "meaning": "He wished to escape from restraint."
+  },
+  {
+    "sentence": "彼女は病気から逃れるために田舎に引っ込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】から逃【に】げるために田舎【いなか】に引っ込んだ。",
+    "meaning": "She retreated to the countryside to escape illness."
+  },
+  {
+    "sentence": "彼は追跡をかわして逃げ切った。",
+    "sentence_furigana": "彼【かれ】は追跡【ついせき】をかわして逃【に】げ切【き】った。",
+    "meaning": "He evaded pursuit and escaped."
+  },
+  {
+    "sentence": "その情報が漏洩するのを彼は阻止できなかった。",
+    "sentence_furigana": "その情報【じょうほう】が漏洩【ろうえい】するのを彼【かれ】は阻止【そし】できなかった。",
+    "meaning": "He could not prevent the information from escaping."
+  },
+  {
+    "sentence": "彼女は危険な状況から逃れるため、必死に走った。",
+    "sentence_furigana": "彼女【かのじょ】は危険【きけん】な状況【じょうきょう】から逃【のが】れるため、必死【ひっし】に走【はし】った。",
+    "meaning": "She ran desperately to escape the dangerous situation."
+  },
+  {
+    "sentence": "彼は虚偽から逃れるために真実を語った。",
+    "sentence_furigana": "彼【かれ】は虚偽【きょぎ】から逃【のが】れるために真実【しんじつ】を語【かた】った。",
+    "meaning": "He spoke the truth to escape falsehood."
+  },
+  {
+    "sentence": "その少年は先生の叱責から逃げようとした。",
+    "sentence_furigana": "その少年【しょうねん】は先生【せんせい】の叱責【しっせき】から逃【に】げようとした。",
+    "meaning": "The boy tried to evade the teacher's reprimand."
+  },
+  {
+    "sentence": "彼らは敵の包囲網から逃れる計画を立てた。",
+    "sentence_furigana": "彼【かれ】らは敵【てき】の包囲網【ほういもう】から逃【のが】れる計画【けいかく】を立【た】てた。",
+    "meaning": "They made a plan to escape the enemy's encirclement."
+  },
+  {
+    "sentence": "彼女は自分の行動の結果から逃れることはできない。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の行動【こうどう】の結果【けっか】から逃【のが】れることはできない。",
+    "meaning": "She cannot escape the consequences of her actions."
+  },
+  {
+    "sentence": "逃げるが勝ち、という言葉がある。",
+    "sentence_furigana": "逃【に】げるが勝【か】ち、という言葉【ことば】がある。",
+    "meaning": "There's a saying that 'fleeing is winning'."
+  },
+  {
+    "sentence": "彼は義務を逃れるために病気のふりをした。",
+    "sentence_furigana": "彼【かれ】は義務【ぎむ】を逃【のが】れるために病気【びょうき】のふりをした。",
+    "meaning": "He pretended to be sick to shirk his duty."
+  },
+  {
+    "sentence": "その秘密は彼女から決して逃れなかった。",
+    "sentence_furigana": "その秘密【ひみつ】は彼女【かのじょ】から決【けっ】して逃【のが】れなかった。",
+    "meaning": "That secret never escaped from her."
+  },
+  {
+    "sentence": "彼は激しい雨から逃れるために、古い小屋に駆け込んだ。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しい雨【あめ】から逃【に】げるために、古【ふる】い小屋【こや】に駆【か】け込んだ。",
+    "meaning": "He rushed into an old shed to escape the heavy rain."
+  },
+  {
+    "sentence": "彼女は貧困から逃れるために懸命に働いた。",
+    "sentence_furigana": "彼女【かのじょ】は貧困【ひんこん】から逃【のが】れるために懸命【けんめい】に働【はたら】いた。",
+    "meaning": "She worked hard to escape poverty."
+  },
+  {
+    "sentence": "その容疑者は逮捕を逃れようと抵抗した。",
+    "sentence_furigana": "その容疑者【ようぎしゃ】は逮捕【たいほ】を逃【のが】れようと抵抗【ていこう】した。",
+    "meaning": "The suspect resisted in an attempt to evade arrest."
+  },
+  {
+    "sentence": "彼は自分の運命から逃れる術はない。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の運命【うんめい】から逃【のが】れる術【すべ】はない。",
+    "meaning": "There is no way for him to escape his fate."
+  },
+  {
+    "sentence": "逃げ惑う人々が通りにあふれていた。",
+    "sentence_furigana": "逃【に】げ惑【まど】う人々【ひとびと】が通【どお】りに溢【あふ】れていた。",
+    "meaning": "People fleeing in confusion filled the streets."
+  },
+  {
+    "sentence": "彼女は過去のトラウマから逃れることができなかった。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】のトラウマから逃【のが】れることができなかった。",
+    "meaning": "She could not escape from the trauma of her past."
+  },
+  {
+    "sentence": "彼は法執行機関から逃げるための手段を講じた。",
+    "sentence_furigana": "彼【かれ】は法執行機関【ほうしっこうきかん】から逃【に】げるための手段【しゅだん】を講【こう】じた。",
+    "meaning": "He took measures to escape from law enforcement agencies."
+  },
+  {
+    "sentence": "その犬は飼い主から逃げ出し、遠くまで行ってしまった。",
+    "sentence_furigana": "その犬【いぬ】は飼主【かいぬし】から逃【に】げ出【だ】し、遠【とお】くまで行【い】ってしまった。",
+    "meaning": "The dog ran away from its owner and went far away."
+  },
+  {
+    "sentence": "彼女は待ち合わせの時間から逃れることができなかった。",
+    "sentence_furigana": "彼女【かのじょ】は待【ま】ち合【あ】わせの時間【じかん】から逃【のが】れることができなかった。",
+    "meaning": "She could not escape the appointment time."
+  },
+  {
+    "sentence": "彼は会社の借金を逃れるために失踪した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の借金【しゃっきん】から逃【に】げるために失踪【しっそう】した。",
+    "meaning": "He disappeared to escape his company's debts."
+  },
+  {
+    "sentence": "その犯人は警察の包囲網から逃れた。",
+    "sentence_furigana": "その犯人【はんにん】は警察【けいさつ】の包囲網【ほういもう】から逃【のが】れた。",
+    "meaning": "The culprit escaped from the police cordon."
+  },
+  {
+    "sentence": "彼女は人生の義務から逃れようとはしなかった。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の義務【ぎむ】から逃【のが】れようとはしなかった。",
+    "meaning": "She did not try to shirk her life's duties."
+  },
+  {
+    "sentence": "彼は追撃を振り切って逃げた。",
+    "sentence_furigana": "彼【かれ】は追撃【ついげき】を振【ふ】り切【き】って逃【に】げた。",
+    "meaning": "He shook off his pursuers and escaped."
+  },
+  {
+    "sentence": "その情報が世間に漏れるのを彼は防げなかった。",
+    "sentence_furigana": "その情報【じょうほう】が世間【せけん】に漏【も】れるのを彼【かれ】は防【ふせ】げなかった。",
+    "meaning": "He could not prevent that information from escaping to the public."
+  },
+  {
+    "sentence": "彼女は迫りくる危険から逃れるために、必死に叫んだ。",
+    "sentence_furigana": "彼女【かのじょ】は迫【せま】り来【く】る危険【きけん】から逃【のが】れるために、必死【ひっし】に叫【さけ】んだ。",
+    "meaning": "She screamed desperately to escape the approaching danger."
+  },
+  {
+    "sentence": "彼は自身の良心から逃れることはできない。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の良心【りょうしん】から逃【のが】れることはできない。",
+    "meaning": "He cannot escape his own conscience."
+  },
+  {
+    "sentence": "その囚人は看守の注意をそらして逃げた。",
+    "sentence_furigana": "その囚人【しゅうじん】は看守【かんしゅ】の注意【ちゅうい】をそらして逃【に】げた。",
+    "meaning": "The prisoner diverted the guard's attention and escaped."
+  },
+  {
+    "sentence": "彼女は困難な状況から逃れるための解決策を見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】な状況【じょうきょう】から逃【のが】れるための解決策【かいけつさく】を見【み】つけた。",
+    "meaning": "She found a solution to escape the difficult situation."
+  },
+  {
+    "sentence": "彼はすべての責任から逃れようとしたが、無駄だった。",
+    "sentence_furigana": "彼【かれ】は সমস্ত【すべて】の責任【せきにん】から逃【のが】れようとしたが、無駄【むだ】だった。",
+    "meaning": "He tried to shirk all responsibility, but it was in vain."
+  },
+  {
+    "sentence": "その鳥は狭い鳥かごから逃げ出した。",
+    "sentence_furigana": "その鳥【とり】は狭【せま】い鳥かごから逃【に】げ出した。",
+    "meaning": "The bird escaped from the narrow birdcage."
+  },
+  {
+    "sentence": "彼女は借金から逃れるために都市を去った。",
+    "sentence_furigana": "彼女【かのじょ】は借金【しゃっきん】から逃【のが】れるために都市【とし】を去【さ】った。",
+    "meaning": "She left the city to escape her debts."
+  },
+  {
+    "sentence": "彼は責任逃れをする人間を信用しない。",
+    "sentence_furigana": "彼【かれ】は責任逃【せきにんのが】れをする人間【にんげん】を信用【しんよう】しない。",
+    "meaning": "He does not trust people who shirk responsibility."
+  },
+  {
+    "sentence": "その男は警察から逃げるために、街の裏通りを駆け抜けた。",
+    "sentence_furigana": "その男【おとこ】は警察【けいさつ】から逃【に】げるために、街【まち】の裏通【うらどお】りを駆【か】け抜【ぬ】けた。",
+    "meaning": "The man ran through the backstreets of the city to escape the police."
+  },
+  {
+    "sentence": "彼女は悲惨な過去から逃れることはできない。",
+    "sentence_furigana": "彼女【かのじょ】は悲惨【ひさん】な過去【かこ】から逃【のが】れることはできない。",
+    "meaning": "She cannot escape her tragic past."
+  }
+]

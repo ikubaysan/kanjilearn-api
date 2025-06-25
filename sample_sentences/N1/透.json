@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "その窓はとてもよく透けて見える。",
+    "sentence_furigana": "その窓【まど】はとてもよく透【す】けて見【み】える。",
+    "meaning": "That window can be seen through very well."
+  },
+  {
+    "sentence": "水がフィルターを透して流れていく。",
+    "sentence_furigana": "水【みず】がフィルターを透【とお】して流【なが】れていく。",
+    "meaning": "Water flows through the filter."
+  },
+  {
+    "sentence": "光がガラスを透して部屋を明るく照らした。",
+    "sentence_furigana": "光【ひかり】がガラスを透【とお】して部屋【へや】を明【あ】るく照【て】らした。",
+    "meaning": "Light penetrated the glass and brightly illuminated the room."
+  },
+  {
+    "sentence": "彼の話は核心を透していた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は核心【かくしん】を透【とお】していた。",
+    "meaning": "His story penetrated to the core."
+  },
+  {
+    "sentence": "布越しに月の光が透けて見える。",
+    "sentence_furigana": "布【ぬの】越し【ご】に月【つき】の光【ひかり】が透【す】けて見【み】える。",
+    "meaning": "The moonlight can be seen through the cloth."
+  },
+  {
+    "sentence": "空気は無色透明で、ほとんど透けて見えない。",
+    "sentence_furigana": "空気【くうき】は無色透明【むしょくとうめい】で、ほとんど透【す】けて見【み】えない。",
+    "meaning": "The air is colorless and transparent, so it's almost invisible."
+  },
+  {
+    "sentence": "この壁は薄くて向こう側が透けて見える。",
+    "sentence_furigana": "この壁【かべ】は薄【うす】くて向【む】こう側【がわ】が透【す】けて見【み】える。",
+    "meaning": "This wall is thin, and you can see through to the other side."
+  },
+  {
+    "sentence": "彼は自分の意図を言葉の端々に透かしていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意図【いと】を言葉【ことば】の端々【はしばし】に透【す】かしていた。",
+    "meaning": "He hinted at his intentions in the words he used."
+  },
+  {
+    "sentence": "網の目から光が透けている。",
+    "sentence_furigana": "網【あみ】の目【め】から光【ひかり】が透【す】けている。",
+    "meaning": "Light shines through the mesh of the net."
+  },
+  {
+    "sentence": "このフィルムは光を通さない。",
+    "sentence_furigana": "このフィルムは光【ひかり】を通【とお】さない。",
+    "meaning": "This film does not let light pass through."
+  },
+  {
+    "sentence": "彼女の心はガラスのように透き通っていた。",
+    "sentence_furigana": "彼女【かのじょ】の心【こころ】はガラスのように透【す】き通【とお】っていた。",
+    "meaning": "Her heart was as transparent as glass."
+  },
+  {
+    "sentence": "この紙はインクが染み込んで透けてしまう。",
+    "sentence_furigana": "この紙【かみ】はインクが染【し】み込【こ】んで透【す】けてしまう。",
+    "meaning": "Ink seeps through this paper and makes it transparent."
+  },
+  {
+    "sentence": "彼は敵の計画を透徹して見抜いた。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の計画【けいかく】を透徹【とうてつ】して見抜【みぬ】いた。",
+    "meaning": "He saw through the enemy's plan."
+  },
+  {
+    "sentence": "このスープは澄んでいて、向こう側が透けて見える。",
+    "sentence_furigana": "このスープは澄【す】んでいて、向【む】こう側【がわ】が透【す】けて見【み】える。",
+    "meaning": "This soup is clear, and you can see through to the other side."
+  },
+  {
+    "sentence": "その生地は薄すぎて、透けてしまう。",
+    "sentence_furigana": "その生地【きじ】は薄【うす】すぎて、透【す】けてしまう。",
+    "meaning": "That fabric is too thin and see-through."
+  },
+  {
+    "sentence": "遠くの山が霞んで透けて見える。",
+    "sentence_furigana": "遠【とお】くの山【やま】が霞【かす】んで透【す】けて見【み】える。",
+    "meaning": "Distant mountains appear hazy and see-through."
+  },
+  {
+    "sentence": "彼の言葉は本心を透かして語っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は本心【ほんしん】を透【す】かして語【かた】っていた。",
+    "meaning": "His words revealed his true feelings."
+  },
+  {
+    "sentence": "この虫眼鏡は物を拡大して透き通って見える。",
+    "sentence_furigana": "この虫眼鏡【むしめがね】は物【もの】を拡大【かくだい】して透【す】き通【とお】って見【み】える。",
+    "meaning": "This magnifying glass enlarges things and makes them appear transparent."
+  },
+  {
+    "sentence": "レースのカーテン越しに柔らかな光が透けてくる。",
+    "sentence_furigana": "レースのカーテン越し【ご】しに柔【やわ】らかな光【ひかり】が透【す】けてくる。",
+    "meaning": "Soft light shines through the lace curtains."
+  },
+  {
+    "sentence": "雨が止み、山の稜線が透けて見え始めた。",
+    "sentence_furigana": "雨【あめ】が止【や】み、山【やま】の稜線【りょうせん】が透【す】けて見【み】え始【はじ】めた。",
+    "meaning": "The rain stopped, and the mountain ridges began to appear through."
+  },
+  {
+    "sentence": "この布は光を通す性質がある。",
+    "sentence_furigana": "この布【ぬの】は光【ひかり】を通【とお】す性質【せいしつ】がある。",
+    "meaning": "This cloth has the property of allowing light to pass through."
+  },
+  {
+    "sentence": "彼は嘘をついているのが透けて見える。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】をついているのが透【す】けて見【み】える。",
+    "meaning": "It's obvious he's lying."
+  },
+  {
+    "sentence": "水筒の中身が透けて見える。",
+    "sentence_furigana": "水筒【すいとう】の中身【なかみ】が透【す】けて見【み】える。",
+    "meaning": "The contents of the water bottle are visible through it."
+  },
+  {
+    "sentence": "彼は巧妙な手口で不正を透かそうとした。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】な手口【てぐち】で不正【ふせい】を透【とお】そうとした。",
+    "meaning": "He tried to get away with the fraud through clever means."
+  },
+  {
+    "sentence": "このフィルターは細かい粒子まで通さない。",
+    "sentence_furigana": "このフィルターは細【こま】かい粒子【りゅうし】まで通【とお】さない。",
+    "meaning": "This filter does not let even fine particles pass through."
+  },
+  {
+    "sentence": "彼女の歌声は魂の奥底まで響き渡り、心を透かした。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は魂【たましい】の奥底【おくそこ】まで響【ひび】き渡【わた】り、心【こころ】を透【とお】した。",
+    "meaning": "Her singing voice echoed to the depths of her soul, penetrating the heart."
+  },
+  {
+    "sentence": "このガラスはUVカットで、光は通すが紫外線は通さない。",
+    "sentence_furigana": "このガラスはUVカットで、光【ひかり】は通【とお】すが紫外線【しがいせん】は通【とお】さない。",
+    "meaning": "This glass is UV cut; it lets light pass through but not ultraviolet rays."
+  },
+  {
+    "sentence": "その生地は密度が高く、光を通さない。",
+    "sentence_furigana": "その生地【きじ】は密度【みつど】が高【たか】く、光【ひかり】を通【とお】さない。",
+    "meaning": "That fabric is dense and does not let light pass through."
+  },
+  {
+    "sentence": "彼は相手の気持ちを察して、言葉を透かしていた。",
+    "sentence_furigana": "彼【かれ】は相手【あいて】の気持【きも】ちを察【さっ】して、言葉【ことば】を透【す】かしていた。",
+    "meaning": "He guessed the other person's feelings and conveyed his words accordingly."
+  },
+  {
+    "sentence": "遠くの景色が霞の向こうに透けて見えている。",
+    "sentence_furigana": "遠【とお】くの景色【けしき】が霞【かすみ】の向【む】こうに透【す】けて見【み】えている。",
+    "meaning": "Distant scenery is visible through the mist."
+  },
+  {
+    "sentence": "この網は目が細かく、小さなゴミも通さない。",
+    "sentence_furigana": "この網【あみ】は目【め】が細【こま】かく、小【ちい】さなゴミも通【とお】さない。",
+    "meaning": "This net has fine mesh and does not let even small debris pass through."
+  },
+  {
+    "sentence": "水面に光が反射してキラキラと透けている。",
+    "sentence_furigana": "水面【すいめん】に光【ひかり】が反射【はんしゃ】してキラキラと透【す】けている。",
+    "meaning": "Light reflects off the water surface, shimmering transparently."
+  },
+  {
+    "sentence": "彼の言葉の裏には、深い悲しみが透けて見えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の裏【うら】には、深【ふか】い悲【かな】しみが透【す】けて見【み】えた。",
+    "meaning": "Beneath his words, a deep sadness was visible."
+  },
+  {
+    "sentence": "このフィルターは空気中の微細な粒子を通しません。",
+    "sentence_furigana": "このフィルターは空気中【くうきちゅう】の微細【びさい】な粒子【りゅうし】を通【とお】しません。",
+    "meaning": "This filter does not let fine particles in the air pass through."
+  },
+  {
+    "sentence": "ガラス越しに明るい太陽の光が透けている。",
+    "sentence_furigana": "ガラス越し【ご】しに明【あか】るい太陽【たいよう】の光【ひかり】が透【す】けている。",
+    "meaning": "Bright sunlight shines through the glass."
+  },
+  {
+    "sentence": "この薄紙はインクが滲んで透けてしまう。",
+    "sentence_furigana": "この薄紙【うすがみ】はインクが滲【にじ】んで透【す】けてしまう。",
+    "meaning": "Ink bleeds through this thin paper, making it transparent."
+  },
+  {
+    "sentence": "彼の視線は、まるで壁を透して見ているかのようだった。",
+    "sentence_furigana": "彼【かれ】の視線【しせん】は、まるで壁【かべ】を透【とお】して見【み】ているかのようだった。",
+    "meaning": "His gaze seemed to penetrate right through the wall."
+  },
+  {
+    "sentence": "このレンズは非常にクリアで、あらゆるものが透けて見える。",
+    "sentence_furigana": "このレンズは非常【ひじょう】にクリアで、あらゆるものが見【み】透【とお】して見【み】える。",
+    "meaning": "This lens is very clear, allowing you to see through everything."
+  },
+  {
+    "sentence": "彼女は笑顔の裏で、苦悩を透かしていた。",
+    "sentence_furigana": "彼女【かのじょ】は笑顔【えがお】の裏【うら】で、苦悩【くのう】を透【す】かしていた。",
+    "meaning": "Behind her smile, she was showing her suffering."
+  },
+  {
+    "sentence": "この布は、日光をほどよく通す。",
+    "sentence_furigana": "この布【ぬの】は、日光【にっこう】をほどよく通【とお】す。",
+    "meaning": "This cloth lets in a good amount of sunlight."
+  },
+  {
+    "sentence": "網戸の向こうに夕日が透けて見える。",
+    "sentence_furigana": "網戸【あみど】の向【む】こうに夕日【ゆうひ】が透【す】けて見【み】える。",
+    "meaning": "The evening sun is visible through the screen door."
+  },
+  {
+    "sentence": "彼の行動は、隠された目的を透かしていた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は、隠【かく】された目的【もくてき】を透【す】かしていた。",
+    "meaning": "His actions revealed his hidden motives."
+  },
+  {
+    "sentence": "この障子は紙が破れて向こうが透けている。",
+    "sentence_furigana": "この障子【しょうじ】は紙【かみ】が破【やぶ】れて向【む】こうが透【す】けている。",
+    "meaning": "The paper on this sliding door is torn, and you can see through it."
+  },
+  {
+    "sentence": "遠くの街の明かりが、霧の向こうに透けて見えた。",
+    "sentence_furigana": "遠【とお】くの街【まち】の明【あ】かりが、霧【きり】の向【む】こうに透【す】けて見【み】えた。",
+    "meaning": "The lights of the distant town were visible through the fog."
+  },
+  {
+    "sentence": "このフィルターは、あらゆる不純物を通さない。",
+    "sentence_furigana": "このフィルターは、あらゆる不純物【ふじゅんぶつ】を通【とお】さない。",
+    "meaning": "This filter does not let any impurities pass through."
+  },
+  {
+    "sentence": "彼の言葉は、正直な気持ちを透かしていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、正直【しょうじき】な気持【きも】ちを透【す】かしていた。",
+    "meaning": "His words revealed his honest feelings."
+  },
+  {
+    "sentence": "窓ガラスは曇っていて、外がぼんやりと透けて見える。",
+    "sentence_furigana": "窓ガラス【まどガラス】は曇【くも】っていて、外【そと】がぼんやりと透【す】けて見【み】える。",
+    "meaning": "The window glass is foggy, and the outside is dimly visible through it."
+  },
+  {
+    "sentence": "彼の目は真実を見透かすようだった。",
+    "sentence_furigana": "彼【かれ】の目【め】は真実【しんじつ】を見透【みす】かすようだった。",
+    "meaning": "His eyes seemed to see through to the truth."
+  },
+  {
+    "sentence": "このシャツは薄手で、下着が透けて見える。",
+    "sentence_furigana": "このシャツは薄手【うすで】で、下着【したぎ】が透【す】けて見【み】える。",
+    "meaning": "This shirt is thin, and underwear can be seen through it."
+  },
+  {
+    "sentence": "子供たちは無邪気で、その本心が透けて見える。",
+    "sentence_furigana": "子供【こども】たちは無邪気【むじゃき】で、その本心【ほんしん】が透【す】けて見【み】える。",
+    "meaning": "Children are innocent, and their true feelings are apparent."
+  },
+  {
+    "sentence": "この壁は石膏ボードでできており、向こう側が多少透けて見える。",
+    "sentence_furigana": "この壁【かべ】は石膏ボード【せっこうボード】でできており、向【む】こう側【がわ】が多少【たしょう】透【す】けて見【み】える。",
+    "meaning": "This wall is made of plasterboard, and you can see somewhat through to the other side."
+  },
+  {
+    "sentence": "彼の話には、多少の誇張が透けて見えた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】には、多少【たしょう】の誇張【こちょう】が透【す】けて見【み】えた。",
+    "meaning": "His story seemed to contain some exaggeration."
+  },
+  {
+    "sentence": "この網は金属製で丈夫だが、光は通す。",
+    "sentence_furigana": "この網【あみ】は金属製【きんぞくせい】で丈夫【じょうぶ】だが、光【ひかり】は通【とお】す。",
+    "meaning": "This net is made of metal and is strong, but it lets light pass through."
+  },
+  {
+    "sentence": "彼女の微笑みは、隠された悲しみを透かしていた。",
+    "sentence_furigana": "彼女【かのじょ】の微笑【ほほえ】みは、隠【かく】された悲【かな】しみを透【す】かしていた。",
+    "meaning": "Her smile revealed hidden sadness."
+  },
+  {
+    "sentence": "このカーテンは薄地で、外の景色がぼんやり透けて見える。",
+    "sentence_furigana": "このカーテンは薄地【うすじ】で、外【そと】の景色【けしき】がぼんやり透【す】けて見【み】える。",
+    "meaning": "This curtain is thin, and the scenery outside is dimly visible through it."
+  },
+  {
+    "sentence": "彼は巧妙に質問を避け、本質を透かして見せなかった。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】に質問【しつもん】を避【さ】け、本質【ほんしつ】を透【とお】して見【み】せなかった。",
+    "meaning": "He cleverly avoided the questions and did not reveal the essence."
+  },
+  {
+    "sentence": "このプラスチックは透明で、中のものがすべて透けて見える。",
+    "sentence_furigana": "このプラスチックは透明【とうめい】で、中【なか】のものが見【み】え透【とお】して見【み】える。",
+    "meaning": "This plastic is transparent, and you can see everything inside."
+  },
+  {
+    "sentence": "夜空の星々が雲間から透けて見えた。",
+    "sentence_furigana": "夜空【よぞら】の星々【ほしぼし】が雲間【くもま】から透【す】けて見【み】えた。",
+    "meaning": "The stars in the night sky were visible through the gaps in the clouds."
+  },
+  {
+    "sentence": "彼の隠された意図は、言葉の端々に透けて見えた。",
+    "sentence_furigana": "彼【かれ】の隠【かく】された意図【いと】は、言葉【ことば】の端々【はしばし】に透【す】けて見【み】えた。",
+    "meaning": "His hidden intentions were evident in the words he used."
+  },
+  {
+    "sentence": "このフィルターは非常に細かい粒子も通しません。",
+    "sentence_furigana": "このフィルターは非常【ひじょう】に細【こま】かい粒子【りゅうし】も通【とお】しません。",
+    "meaning": "This filter does not let even very fine particles pass through."
+  },
+  {
+    "sentence": "彼女の声は、優しさと芯の強さが透けていた。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】は、優【やさ】しさと芯【しん】の強【つよ】さが透【す】けていた。",
+    "meaning": "Her voice conveyed gentleness and inner strength."
+  },
+  {
+    "sentence": "この布は光を通さず、遮光性が高い。",
+    "sentence_furigana": "この布【ぬの】は光【ひかり】を通【とお】さず、遮光性【しゃこうせい】が高【たか】い。",
+    "meaning": "This fabric does not let light pass through and has high light-blocking properties."
+  },
+  {
+    "sentence": "彼の表情は読み取れず、感情は全く透けて見えなかった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は読【よ】み取【と】れず、感情【かんじょう】は全【まった】く透【す】けて見【み】えなかった。",
+    "meaning": "His expression was unreadable, and his emotions were completely hidden."
+  },
+  {
+    "sentence": "この液体は透明で、容器の中身がよく透けて見える。",
+    "sentence_furigana": "この液体【えきたい】は透明【とうめい】で、容器【ようき】の中身【なかみ】がよく透【す】けて見【み】える。",
+    "meaning": "This liquid is transparent, and the contents of the container are clearly visible through it."
+  },
+  {
+    "sentence": "厚い雲の間から、太陽の光がかすかに透けている。",
+    "sentence_furigana": "厚【あつ】い雲【くも】の間【あいだ】から、太陽【たいよう】の光【ひかり】がかすかに透【す】けている。",
+    "meaning": "Sunlight is faintly visible through the thick clouds."
+  },
+  {
+    "sentence": "彼の無言の行動は、深い決意を透かしていた。",
+    "sentence_furigana": "彼【かれ】の無言【むごん】の行動【こうどう】は、深【ふか】い決意【けつい】を透【す】かしていた。",
+    "meaning": "His silent actions conveyed a strong determination."
+  },
+  {
+    "sentence": "この水は澄み切っていて、底の石まで透けて見える。",
+    "sentence_furigana": "この水【みず】は澄【す】み切【き】っていて、底【そこ】の石【いし】まで透【す】けて見【み】える。",
+    "meaning": "This water is crystal clear, and you can see the stones at the bottom through it."
+  },
+  {
+    "sentence": "彼女は悲しみを隠そうとしたが、瞳の奥から透けて見えた。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しみを隠【かく】そうとしたが、瞳【ひとみ】の奥【おく】から透【す】けて見【み】えた。",
+    "meaning": "She tried to hide her sadness, but it was visible from her eyes."
+  },
+  {
+    "sentence": "このカーテンは光を通しすぎず、適度な明るさを保つ。",
+    "sentence_furigana": "このカーテンは光【ひかり】を通【とお】しすぎず、適度【てきど】な明【あ】かるさを保【たも】つ。",
+    "meaning": "This curtain does not let too much light pass through, maintaining a moderate brightness."
+  },
+  {
+    "sentence": "彼の嘘は明白で、全く透けて見える。",
+    "sentence_furigana": "彼【かれ】の嘘【うそ】は明白【めいはく】で、全【まった】く透【す】けて見【み】える。",
+    "meaning": "His lies were obvious and completely transparent."
+  },
+  {
+    "sentence": "このガラスは特殊加工されており、紫外線を通さない。",
+    "sentence_furigana": "このガラスは特殊加工【とくしゅかこう】されており、紫外線【しがいせん】を通【とお】さない。",
+    "meaning": "This glass has undergone special processing and does not allow ultraviolet rays to pass through."
+  },
+  {
+    "sentence": "遠くの灯台の光が、夜の海に透けて見えている。",
+    "sentence_furigana": "遠【とお】くの灯台【とうだい】の光【ひかり】が、夜【よる】の海【うみ】に透【す】けて見【み】えている。",
+    "meaning": "The light of the distant lighthouse is visible through the night sea."
+  },
+  {
+    "sentence": "彼の軽快な話しぶりは、楽観的な性格を透かしていた。",
+    "sentence_furigana": "彼【かれ】の軽快【けいかい】な話【はな】しぶりは、楽観的【らっかんてき】な性格【せいかく】を透【す】かしていた。",
+    "meaning": "His cheerful way of speaking revealed his optimistic personality."
+  },
+  {
+    "sentence": "このフィルターは、細かな汚れも残さず濾過する。",
+    "sentence_furigana": "このフィルターは、細【こま】かな汚【よご】れも残【のこ】さず濾過【ろか】する。",
+    "meaning": "This filter removes even fine dirt without leaving any residue."
+  },
+  {
+    "sentence": "彼女の瞳は、深い愛情を透かして輝いていた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は、深【ふか】い愛情【あいじょう】を透【す】かして輝【かがや】いていた。",
+    "meaning": "Her eyes shone with deep affection."
+  },
+  {
+    "sentence": "この網戸は、細かい虫も通さない構造になっている。",
+    "sentence_furigana": "この網戸【あみど】は、細【こま】かい虫【むし】も通【とお】さない構造【こうぞう】になっている。",
+    "meaning": "This screen door is designed to not let even small insects pass through."
+  },
+  {
+    "sentence": "薄明かりの中、古い木の幹の節々が透けて見えた。",
+    "sentence_furigana": "薄明【うすあ】かりの中【なか】で、古【ふる】い木【き】の幹【みき】の節々【ふしぶし】が透【す】けて見【み】えた。",
+    "meaning": "In the dim light, the knots in the old tree trunk were visible through."
+  },
+  {
+    "sentence": "彼の皮肉な言葉には、皮肉が透けて見えた。",
+    "sentence_furigana": "彼【かれ】の皮肉【ひにく】な言葉【ことば】には、皮肉【ひにく】が透【す】けて見【み】えた。",
+    "meaning": "His sarcastic words conveyed sarcasm."
+  },
+  {
+    "sentence": "このレンズは反射を抑え、対象物を鮮明に透かして見せる。",
+    "sentence_furigana": "このレンズは反射【はんしゃ】を抑【おさ】え、対象物【たいしょうぶつ】を鮮明【せんめい】に透【とお】して見【み】せる。",
+    "meaning": "This lens suppresses reflections and shows the object clearly through it."
+  },
+  {
+    "sentence": "彼女の控えめな態度には、強固な意志が透けて見えた。",
+    "sentence_furigana": "彼女【かのじょ】の控【ひか】えめな態度【たいど】には、強固【きょうこ】な意志【いし】が透【す】けて見【み】えた。",
+    "meaning": "Behind her modest attitude, a strong will was evident."
+  },
+  {
+    "sentence": "この濾過器は、目に見えないほどの微粒子も通さない。",
+    "sentence_furigana": "この濾過器【ろかき】は、目【め】に見【み】えないほどの微粒子【びりゅうし】も通【とお】さない。",
+    "meaning": "This filter does not let even microscopic particles pass through."
+  },
+  {
+    "sentence": "薄い雲の隙間から、月の光が淡く透けていた。",
+    "sentence_furigana": "薄【うす】い雲【くも】の隙間【すきま】から、月【つき】の光【ひかり】が淡【あわ】く透【す】けていた。",
+    "meaning": "Moonlight was faintly visible through the gaps in the thin clouds."
+  },
+  {
+    "sentence": "彼の言葉は、相手への配慮を透かして伝えられた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、相手【あいて】への配慮【はいりょ】を透【す】かして伝【つた】えられた。",
+    "meaning": "His words conveyed consideration for the other person."
+  },
+  {
+    "sentence": "この傘は透明なので、雨でも視界がよく透けて見える。",
+    "sentence_furigana": "この傘【かさ】は透明【とうめい】なので、雨【あめ】でも視界【しかい】がよく透【す】けて見【み】える。",
+    "meaning": "This umbrella is transparent, so visibility is good even in the rain."
+  },
+  {
+    "sentence": "彼の冗談には、少々のユーモアが透けて見えた。",
+    "sentence_furigana": "彼【かれ】の冗談【じょうだん】には、少々【しょうしょう】のユーモアが透【す】けて見【み】えた。",
+    "meaning": "A bit of humor was evident in his joke."
+  },
+  {
+    "sentence": "この布は密度が高く、水を通さない。",
+    "sentence_furigana": "この布【ぬの】は密度【みつど】が高【たか】く、水【みず】を通【とお】さない。",
+    "meaning": "This fabric is dense and does not let water pass through."
+  },
+  {
+    "sentence": "彼女の涙は隠しきれず、その悲しみが透けて見えた。",
+    "sentence_furigana": "彼女【かのじょ】の涙【なみだ】は隠【かく】しきれず、その悲【かな】しみが透【す】けて見【み】えた。",
+    "meaning": "Her tears couldn't be hidden, and her sadness was visible."
+  },
+  {
+    "sentence": "このフィルターは、あらゆる種類の細菌を通しません。",
+    "sentence_furigana": "このフィルターは、あらゆる種類【しゅるい】の細菌【さいきん】を通【とお】しません。",
+    "meaning": "This filter does not let any kind of bacteria pass through."
+  },
+  {
+    "sentence": "彼の声は震えており、隠された不安が透けていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は震【ふる】えており、隠【かく】された不安【ふあん】が透【す】けていた。",
+    "meaning": "His voice was trembling, revealing hidden anxiety."
+  },
+  {
+    "sentence": "この窓ガラスは完全に透明で、外の景色がはっきりと透けて見える。",
+    "sentence_furigana": "この窓ガラス【まどガラス】は完全【かんぜん】に透明【とうめい】で、外【そと】の景色【けしき】がはっきりと透【す】けて見【み】える。",
+    "meaning": "This window glass is completely transparent, and the scenery outside is clearly visible through it."
+  },
+  {
+    "sentence": "彼女の言葉には、時折、強い意志が透けて見えた。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】には、時折【ときおり】、強【つよ】い意志【いし】が透【す】けて見【み】えた。",
+    "meaning": "At times, a strong will was evident in her words."
+  },
+  {
+    "sentence": "このフィルターは、空気中の微粒子を効率よく除去する。",
+    "sentence_furigana": "このフィルターは、空気中【くうきちゅう】の微粒子【びりゅうし】を効率【こうりつ】よく除去【じょきょ】する。",
+    "meaning": "This filter efficiently removes fine particles from the air."
+  },
+  {
+    "sentence": "彼の冷静な態度の裏には、熱い情熱が透けて見えた。",
+    "sentence_furigana": "彼【かれ】の冷静【れいせい】な態度【たいど】の裏【うら】には、熱【あつ】い情熱【じょうねつ】が透【す】けて見【み】えた。",
+    "meaning": "Beneath his calm demeanor, a passionate ardor was visible."
+  },
+  {
+    "sentence": "このレンズは傷がなく、非常にクリアに見える。",
+    "sentence_furigana": "このレンズは傷【きず】がなく、非常【ひじょう】にクリアに見【み】透【とお】して見【み】える。",
+    "meaning": "This lens is scratch-free and looks very clear."
+  },
+  {
+    "sentence": "彼女の表情は硬かったが、その心の優しさは透けていた。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】は硬【かた】かったが、その心【こころ】の優【やさ】しさは透【す】けていた。",
+    "meaning": "Her expression was stiff, but the kindness in her heart was apparent."
+  },
+  {
+    "sentence": "この素材は光を通さず、プライバシーを保護する。",
+    "sentence_furigana": "この素材【そざい】は光【ひかり】を通【とお】さず、プライバシーを保護【ほご】する。",
+    "meaning": "This material does not let light pass through and protects privacy."
+  },
+  {
+    "sentence": "彼の言葉の端々から、相手を気遣う気持ちが透けて見えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の端々【はしばし】から、相手【あいて】を気遣【きづか】う気持【きも】ちが透【す】けて見【み】えた。",
+    "meaning": "From his words, his concern for the other person was evident."
+  },
+  {
+    "sentence": "この網は丈夫で、細かいゴミも通さない。",
+    "sentence_furigana": "この網【あみ】は丈夫【じょうぶ】で、細【こま】かいゴミも通【とお】さない。",
+    "meaning": "This net is durable and does not let even small debris pass through."
+  },
+  {
+    "sentence": "彼女の瞳は希望に満ちており、その輝きが透けて見えた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は希望【きぼう】に満【み】ちており、その輝【かがや】きが透【す】けて見【み】えた。",
+    "meaning": "Her eyes were full of hope, and their brilliance was apparent."
+  },
+  {
+    "sentence": "このフィルターは、水中の不純物を徹底的に除去する。",
+    "sentence_furigana": "このフィルターは、水中【すいちゅう】の不純物【ふじゅんぶつ】を徹底的【てっていてき】に除去【じょきょ】する。",
+    "meaning": "This filter thoroughly removes impurities from water."
+  }
+]

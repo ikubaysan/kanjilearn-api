@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "先生は学生に漢字の読み方を訓示した。",
+    "sentence_furigana": "先生【せんせい】は学生【がくせい】に漢字【かんじ】の読【よ】み方【かた】を訓示【くんじ】した。",
+    "meaning": "The teacher instructed the students on how to read kanji."
+  },
+  {
+    "sentence": "この本には多くの漢字の訓が含まれている。",
+    "sentence_furigana": "この本【ほん】には多【おお】くの漢字【かんじ】の訓【くん】が含ま【ふくま】れている。",
+    "meaning": "This book contains many readings of kanji."
+  },
+  {
+    "sentence": "彼は新しい言語を学ぶために、その国の言葉の訓を調べている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい言語【げんご】を学【まな】ぶために、その国【くに】の言葉【ことば】の訓【くん】を調【しら】べている。",
+    "meaning": "He is researching the language's readings to learn the new language."
+  },
+  {
+    "sentence": "会議では、新しい方針について説明と訓が与えられた。",
+    "sentence_furigana": "会議【かいぎ】では、新【あたら】しい方針【ほうしん】について説明【せつめい】と訓【くん】が与【あた】えられた。",
+    "meaning": "In the meeting, explanations and instructions were given regarding the new policy."
+  },
+  {
+    "sentence": "祖父は私に昔話を聞かせ、人生の訓を説いた。",
+    "sentence_furigana": "祖父【そふ】は私【わたし】に昔話【むかしばなし】を聞【き】かせ、人生【じんせい】の訓【くん】を説【と】いた。",
+    "meaning": "My grandfather told me old stories and preached life lessons."
+  },
+  {
+    "sentence": "その詩は美しい言葉で書かれており、深い訓を持っている。",
+    "sentence_furigana": "その詩【し】は美【うつく】しい言葉【ことば】で書【か】かれており、深【ふか】い訓【くん】を持【も】っている。",
+    "meaning": "That poem is written in beautiful words and holds a deep meaning."
+  },
+  {
+    "sentence": "彼は指示された通りに作業を進めた、正確な訓を理解していた。",
+    "sentence_furigana": "彼【かれ】は指示【しじ】された通【とお】りに作業【さぎょう】を進【すす】めた、正確【せいかく】な訓【くん】を理解【りかい】していた。",
+    "meaning": "He proceeded with the work as instructed, understanding the exact instructions."
+  },
+  {
+    "sentence": "この辞書は漢字の音読みと訓読みの両方を網羅している。",
+    "sentence_furigana": "この辞書【じしょ】は漢字【かんじ】の音読【おんよ】みと訓読【くんよ】みの両方【りょうほう】を網羅【もうら】している。",
+    "meaning": "This dictionary covers both the on-yomi and kun-yomi of kanji."
+  },
+  {
+    "sentence": "子供たちは先生の訓に従って静かにしていた。",
+    "sentence_furigana": "子供【こども】たちは先生【せんせい】の訓【くん】に従【したが】って静【しず】かにしていた。",
+    "meaning": "The children obeyed the teacher's instructions and remained quiet."
+  },
+  {
+    "sentence": "彼は新しい経験から多くを学び、それを人生の訓とした。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい経験【けいけん】から多【おお】くを学【まな】び、それを人生【じんせい】の訓【くん】とした。",
+    "meaning": "He learned a lot from his new experiences and made them life lessons."
+  },
+  {
+    "sentence": "この研修では、業務に関する詳細な訓が与えられます。",
+    "sentence_furigana": "この研修【けんしゅう】では、業務【ぎょうむ】に関【かん】する詳細【しょうさい】な訓【くん】が与【あた】えられます。",
+    "meaning": "In this training, detailed instructions regarding the business will be provided."
+  },
+  {
+    "sentence": "彼女は祖母の教えを心に刻み、それを人生の訓として生きた。",
+    "sentence_furigana": "彼女【かのじょ】は祖母【そぼ】の教【おし】えを心【こころ】に刻【きざ】み、それを人生【じんせい】の訓【くん】として生【い】きた。",
+    "meaning": "She engraved her grandmother's teachings in her heart and lived by them as life lessons."
+  },
+  {
+    "sentence": "この漢字の訓読みは「よむ」です。",
+    "sentence_furigana": "この漢字【かんじ】の訓読【くんよ】みは「よむ」です。",
+    "meaning": "The kun-yomi for this kanji is 'yomu'."
+  },
+  {
+    "sentence": "彼は上司からの訓を真摯に受け止めた。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】からの方【ほう】訓【くん】を真摯【しんし】に受【う】け止【と】めた。",
+    "meaning": "He sincerely accepted the instructions from his superior."
+  },
+  {
+    "sentence": "この文学作品は読者に深い訓を与えている。",
+    "sentence_furigana": "この文学作品【ぶんがくさくひん】は読者【どくしゃ】に深【ふか】い訓【くん】を与【あた】えている。",
+    "meaning": "This literary work gives readers profound enlightenment."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトの進め方について、詳細な訓を受けた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトの進【すす】め方【かた】について、詳細【しょうさい】な訓【くん】を受【う】けた。",
+    "meaning": "He received detailed instructions on how to proceed with the new project."
+  },
+  {
+    "sentence": "この古典には、現代にも通じる人間の心の訓が込められている。",
+    "sentence_furigana": "この古典【こてん】には、現代【げんだい】にも通【つう】じる人間【にんげん】の心【こころ】の訓【くん】が込【こ】められている。",
+    "meaning": "This classic contains lessons about the human heart that are still relevant today."
+  },
+  {
+    "sentence": "彼女は常に親の訓を忘れずに生きてきた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に親【おや】の訓【くん】を忘【わす】れずに生【い】きてきた。",
+    "meaning": "She has always lived without forgetting her parents' teachings."
+  },
+  {
+    "sentence": "マニュアルには、機械の操作方法に関する詳しい訓が記載されている。",
+    "sentence_furigana": "マニュアルには、機械【きかい】の操作方法【そうさほうほう】に関【かん】する詳【くわ】しい訓【くん】が記載【きさい】されている。",
+    "meaning": "The manual contains detailed instructions on how to operate the machine."
+  },
+  {
+    "sentence": "彼は過去の失敗から教訓を学び、二度と同じ過ちを繰り返さないように気をつけた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】から教訓【きょうくん】を学【まな】び、二度【にど】と同【おな】じ過【あやま】ちを繰【く】り返【かえ】さないように気【き】をつけた。",
+    "meaning": "He learned a lesson from his past mistakes and was careful not to repeat the same error."
+  },
+  {
+    "sentence": "この書物は、人生の様々な局面で役立つ訓を提供してくれる。",
+    "sentence_furigana": "この書物【しょもつ】は、人生【じんせい】の様々【さまざま】な局面【きょくめん】で役立【やくだ】つ訓【くん】を提供【ていきょう】してくれる。",
+    "meaning": "This book provides lessons that are useful in various aspects of life."
+  },
+  {
+    "sentence": "彼は新しい従業員に業務の基本を丁寧に訓示した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい従業員【じゅうぎょういん】に業務【ぎょうむ】の基本【きほん】を丁寧【ていねい】に訓示【くんじ】した。",
+    "meaning": "He carefully instructed the new employees on the basics of the business."
+  },
+  {
+    "sentence": "この物語は子供たちに友情の大切さを訓えている。",
+    "sentence_furigana": "この物語【ものがたり】は子供【こども】たちに友情【ゆうじょう】の大切【たいせつ】さを訓【おし】えている。",
+    "meaning": "This story teaches children the importance of friendship."
+  },
+  {
+    "sentence": "彼は経験豊かな先輩から仕事の訓を受け、成長した。",
+    "sentence_furigana": "彼【かれ】は経験豊【けいけんゆた】かな先輩【せんぱい】から仕事【しごと】の訓【くん】を受【う】け、成長【せいちょう】した。",
+    "meaning": "He received instructions from an experienced senior and grew."
+  },
+  {
+    "sentence": "この法律の条文には、社会生活を送る上での訓戒が含まれている。",
+    "sentence_furigana": "この法律【ほうりつ】の条文【じょうぶん】には、社会生活【しゃかいせいかつ】を送【おく】る上【うえ】での訓戒【くんかい】が含ま【ふくま】れている。",
+    "meaning": "The articles of this law contain admonitions for living social life."
+  },
+  {
+    "sentence": "彼は常に自己の行動を振り返り、そこから訓を得ようとした。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己【じこ】の行動【こうどう】を振【ふ】り返【かえ】り、そこから訓【くん】を得【え】ようとした。",
+    "meaning": "He always reflected on his own actions and tried to gain lessons from them."
+  },
+  {
+    "sentence": "この本は、リーダーシップに必要な様々な訓を解説している。",
+    "sentence_furigana": "この本【ほん】は、リーダーシップに必要な様々【さまざま】な訓【くん】を解説【かいせつ】している。",
+    "meaning": "This book explains various instructions necessary for leadership."
+  },
+  {
+    "sentence": "彼女は子供に礼儀作法を教えるために、昔の訓を参考にした。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に礼儀作法【れいぎさほう】を教【おし】えるために、昔【むかし】の訓【くん】を参考【さんこう】にした。",
+    "meaning": "She referred to old teachings to teach manners to her children."
+  },
+  {
+    "sentence": "この漢字の訓は「おしえる」と読みます。",
+    "sentence_furigana": "この漢字【かんじ】の訓【くん】は「おしえる」と読【よ】みます。",
+    "meaning": "The kun reading for this kanji is read as 'oshieru'."
+  },
+  {
+    "sentence": "彼は親から受け継いだ古い教えを、人生の訓として大切にしている。",
+    "sentence_furigana": "彼【かれ】は親【おや】から受【う】け継【つ】いだ古【ふる】い教【おし】えを、人生【じんせい】の訓【くん】として大切【たいせつ】にしている。",
+    "meaning": "He cherishes the old teachings inherited from his parents as life lessons."
+  },
+  {
+    "sentence": "指示された手順に従って、この機械の試運転の訓を行ってください。",
+    "sentence_furigana": "指示【しじ】された手順【てじゅん】に従【したが】って、この機械【きかい】の試運転【しうんてん】の訓【くん】を行【おこな】ってください。",
+    "meaning": "Please perform the trial run instructions for this machine according to the indicated procedure."
+  },
+  {
+    "sentence": "この小説は、人間の弱さと強さについての深い訓を読者に与える。",
+    "sentence_furigana": "この小説【しょうせつ】は、人間【にんげん】の弱【よわ】さと強【つよ】さについての深【ふか】い訓【くん】を読者【どくしゃ】に与【あた】える。",
+    "meaning": "This novel provides readers with profound lessons about human weakness and strength."
+  },
+  {
+    "sentence": "彼は経験豊富な師匠から、武道の奥義だけでなく人生の訓も学んだ。",
+    "sentence_furigana": "彼【かれ】は経験豊【けいけんゆた】かな師匠【ししょう】から、武道【ぶどう】の奥義【おうぎ】だけでなく人生【じんせい】の訓【くん】も学【まな】んだ。",
+    "meaning": "From his experienced master, he learned not only the secrets of martial arts but also life lessons."
+  },
+  {
+    "sentence": "この書物は、困難に立ち向かうための勇気を与える訓に満ちている。",
+    "sentence_furigana": "この書物【しょもつ】は、困難【こんなん】に立【た】ち向【む】かうための勇気【ゆうき】を与【あた】える訓【くん】に満【み】ちている。",
+    "meaning": "This book is filled with lessons that give courage to face difficulties."
+  },
+  {
+    "sentence": "彼女は幼い頃に聞いた祖母の言葉を、今でも人生の訓として大切にしている。",
+    "sentence_furigana": "彼女【かのじょ】は幼【おさな】い頃【ころ】に聞【き】いた祖母【そぼ】の言葉【ことば】を、今【いま】でも人生【じんせい】の訓【くん】として大切【たいせつ】にしている。",
+    "meaning": "She still cherishes the words her grandmother told her when she was young as life lessons."
+  },
+  {
+    "sentence": "彼は新しい職場で、先輩社員から多くの実務的な訓を受けた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい職場【しょくば】で、先輩社員【せんぱいしゃいん】から多【おお】くの実務的【じつむてき】な訓【くん】を受【う】けた。",
+    "meaning": "He received many practical instructions from senior employees at his new workplace."
+  },
+  {
+    "sentence": "この道徳的な物語は、読者に善悪の区別を教える訓となっている。",
+    "sentence_furigana": "この道徳的【どうとくてき】な物語【ものがたり】は、読者【どくしゃ】に善悪【ぜんあく】の区別【くべつ】を教【おし】える訓【くん】となっている。",
+    "meaning": "This moral story serves as a lesson for readers to distinguish between good and evil."
+  },
+  {
+    "sentence": "彼は会社の創業者から、事業を成功させるための経営訓を学んだ。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の創業者【そうぎょうしゃ】から、事業【じぎょう】を成功【せいこう】させるための経営訓【けいえいくん】を学【まな】んだ。",
+    "meaning": "He learned management lessons for business success from the company's founder."
+  },
+  {
+    "sentence": "この古文書には、当時の生活習慣に関する貴重な訓が含まれている。",
+    "sentence_furigana": "この古文書【こもんじょ】には、当時【とうじ】の生活習慣【せいかつしゅうかん】に関【かん】する貴重【きちょう】な訓【くん】が含ま【ふくま】れている。",
+    "meaning": "This ancient document contains valuable information about the lifestyle of that era."
+  },
+  {
+    "sentence": "彼女は経験から学んだ教訓を、後輩に伝えることを使命と考えている。",
+    "sentence_furigana": "彼女【かのじょ】は経験【けいけん】から学【まな】んだ教訓【きょうくん】を、後輩【こうはい】に伝【つた】えることを使命【しめい】と考えて【かんが】えている。",
+    "meaning": "She considers it her mission to pass on the lessons learned from her experience to her juniors."
+  },
+  {
+    "sentence": "彼は失敗を恐れず、挑戦し続けることの訓を実践している。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】を恐【おそ】れず、挑戦【ちょうせん】し続【つづ】けることの訓【くん】を実践【じっせん】している。",
+    "meaning": "He practices the lesson of continuing to challenge without fearing failure."
+  },
+  {
+    "sentence": "この絵画は、静寂の美しさを伝える独特の訓を持っている。",
+    "sentence_furigana": "この絵画【かいが】は、静寂【せいじゃく】の美【うつく】しさを伝【つた】える独特【どくとく】の訓【くん】を持っている。",
+    "meaning": "This painting has a unique appeal that conveys the beauty of tranquility."
+  },
+  {
+    "sentence": "彼は指導者からの厳しい訓にもかかわらず、目標達成のために努力を続けた。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの厳【きび】しい訓【くん】にもかかわらず、目標達成【もくひょうたっせい】のために努力【どりょく】を続【つづ】けた。",
+    "meaning": "Despite the harsh instructions from his mentor, he continued to strive to achieve his goal."
+  },
+  {
+    "sentence": "このことわざは、人生における忍耐の重要性を説く訓である。",
+    "sentence_furigana": "このことわざは、人生【じんせい】における忍耐【にんたい】の重要性【じゅうようせい】を説【と】く訓【くん】である。",
+    "meaning": "This proverb is a lesson that preaches the importance of patience in life."
+  },
+  {
+    "sentence": "彼女は新しいソフトウェアの使い方について、詳しい訓を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいソフトウェアの使い方【つか】い方【かた】について、詳【くわ】しい訓【くん】を受【う】け取【と】った。",
+    "meaning": "She received detailed instructions on how to use the new software."
+  },
+  {
+    "sentence": "この歴史書には、過去の偉人たちの生き様から学べる多くの訓がある。",
+    "sentence_furigana": "この歴史書【れきししょ】には、過去【かこ】の偉人【いじん】たちの生【い】き様【さま】から学【まな】べる多【おお】くの訓【くん】がある。",
+    "meaning": "This history book contains many lessons that can be learned from the lives of great people in the past."
+  },
+  {
+    "sentence": "彼は常に謙虚であることの訓を忘れず、人々に接している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に謙虚【けんきょ】であることの訓【くん】を忘【わす】れず、人々【ひとびと】に接【せっ】している。",
+    "meaning": "He always interacts with people without forgetting the lesson of being humble."
+  },
+  {
+    "sentence": "この宗教的な書物には、人々を導くための多くの訓が含まれている。",
+    "sentence_furigana": "この宗教的【しゅうきょうてき】な書物【しょもつ】には、人々【ひとびと】を導【みちび】くための多【おお】くの訓【くん】が含ま【ふくま】れている。",
+    "meaning": "This religious book contains many instructions to guide people."
+  },
+  {
+    "sentence": "彼は親の教えを人生の訓として胸に刻み、誠実に生きてきた。",
+    "sentence_furigana": "彼【かれ】は親【おや】の教【おし】えを人生【じんせい】の訓【くん】として胸【むね】に刻【きざ】み、誠実【せいじつ】に生【い】きてきた。",
+    "meaning": "He has lived sincerely, engraving his parents' teachings in his heart as life lessons."
+  },
+  {
+    "sentence": "この漫画は、友情と努力の大切さを伝える熱い訓を持っている。",
+    "sentence_furigana": "この漫画【まんが】は、友情【ゆうじょう】と努力【どりょく】の大切【たいせつ】さを伝【つた】える熱【あつ】い訓【くん】を持っている。",
+    "meaning": "This manga has a powerful message that conveys the importance of friendship and effort."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、常に自己改善のために活用している。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、常【つね】に自己改善【じこかいぜん】のために活用【かつよう】している。",
+    "meaning": "He always utilizes the lessons learned from his experience for self-improvement."
+  },
+  {
+    "sentence": "このガイドブックには、旅行者が安全に旅をするための重要な訓が書かれている。",
+    "sentence_furigana": "このガイドブックには、旅行者【りょこうしゃ】が安全【あんぜん】に旅【たび】をするための重要【じゅうよう】な訓【くん】が書【か】かれている。",
+    "meaning": "This guidebook contains important instructions for travelers to travel safely."
+  },
+  {
+    "sentence": "彼は教師から、物事を注意深く観察することの訓を受けた。",
+    "sentence_furigana": "彼【かれ】は教師【きょうし】から、物事【ものごと】を注意深【ちゅういぶか】く観察【かんさつ】することの訓【くん】を受【う】けた。",
+    "meaning": "He received instructions from his teacher on observing things carefully."
+  },
+  {
+    "sentence": "この古典文学は、人間の感情の機微を描き出す訓に富んでいる。",
+    "sentence_furigana": "この古典文学【こてんぶんがく】は、人間【にんげん】の感情【かんじょう】の機微【きび】を描【えが】き出【だ】す訓【くん】に富【と】んでいる。",
+    "meaning": "This classical literature is rich in lessons that depict the subtleties of human emotions."
+  },
+  {
+    "sentence": "彼女は両親の教えを人生の訓として胸に刻み、社会に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は両親【りょうしん】の教【おし】えを人生【じんせい】の訓【くん】として胸【むね】に刻【きざ】み、社会【しゃかい】に貢献【こうけん】した。",
+    "meaning": "She engraved her parents' teachings in her heart as life lessons and contributed to society."
+  },
+  {
+    "sentence": "この映画は、勇気と希望の大切さを訴える力強い訓を持っている。",
+    "sentence_furigana": "この映画【えいが】は、勇気【ゆうき】と希望【きぼう】の大切【たいせつ】さを訴【うった】える力強【ちからづよ】い訓【くん】を持っている。",
+    "meaning": "This movie has a powerful message that appeals to the importance of courage and hope."
+  },
+  {
+    "sentence": "彼は失敗から得た貴重な教訓を、次世代のために記録に残した。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】から得【え】た貴重【きちょう】な教訓【きょうくん】を、次世代【つぎせだい】のために記録【きろく】に残【のこ】した。",
+    "meaning": "He left a record of the valuable lessons learned from his failures for the next generation."
+  },
+  {
+    "sentence": "この取扱説明書には、製品を安全に使用するための詳細な訓が記載されている。",
+    "sentence_furigana": "この取扱説明書【とりあつかいせつめいしょ】には、製品【せいひん】を安全【あんぜん】に使用【しよう】するための詳細【しょうさい】な訓【くん】が記載【きさい】されている。",
+    "meaning": "This instruction manual contains detailed instructions for safely using the product."
+  },
+  {
+    "sentence": "彼は尊敬する先輩から、仕事における倫理観の訓を受けた。",
+    "sentence_furigana": "彼【かれ】は尊敬【そんけい】する先輩【せんぱい】から、仕事【しごと】における倫理観【りんりかん】の訓【くん】を受【う】けた。",
+    "meaning": "He received instructions on professional ethics from a respected senior."
+  },
+  {
+    "sentence": "この哲学書は、人生の意味を探求する上で示唆に富む訓を提供している。",
+    "sentence_furigana": "この哲学書【てつがくしょ】は、人生【じんせい】の意味【いみ】を探求【たんきゅう】する上【うえ】で示唆【しさ】に富【と】む訓【くん】を提供【ていきょう】している。",
+    "meaning": "This philosophical book offers thought-provoking lessons for exploring the meaning of life."
+  },
+  {
+    "sentence": "彼女は母親の教えを人生の訓として常に心に留めている。",
+    "sentence_furigana": "彼女【かのじょ】は母親【ははおや】の教【おし】えを人生【じんせい】の訓【くん】として常【つね】に心【こころ】に留【と】めている。",
+    "meaning": "She always keeps her mother's teachings in mind as life lessons."
+  },
+  {
+    "sentence": "この昔話は、正直さと勤勉さの価値を伝える普遍的な訓を持っている。",
+    "sentence_furigana": "この昔話【むかしばなし】は、正直【しょうじき】さと勤勉【きんべん】さの価値【かち】を伝【つた】える普遍的【ふへんてき】な訓【くん】を持っている。",
+    "meaning": "This folktale has a universal message conveying the value of honesty and diligence."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、 future の成功のために活かしている。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、 future の成功【せいこう】のために活【い】かしている。",
+    "meaning": "He is utilizing the lessons learned from his experience for future success."
+  },
+  {
+    "sentence": "この安全マニュアルには、作業員が安全に作業するための具体的な訓が記載されている。",
+    "sentence_furigana": "この安全マニュアルには、作業員【さぎょういん】が安全【あんぜん】に作業【さぎょう】するための具体的事【ぐたいてき】な訓【くん】が記載【きさい】されている。",
+    "meaning": "This safety manual contains specific instructions for workers to perform their tasks safely."
+  },
+  {
+    "sentence": "彼は指導者からの指示に従い、正確な訓を理解して作業を進めた。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの指示【しじ】に従【したが】い、正確【せいかく】な訓【くん】を理解【りかい】して作業【さぎょう】を進【すす】めた。",
+    "meaning": "He followed the instructions from his mentor and proceeded with the work, understanding the exact guidance."
+  },
+  {
+    "sentence": "この古典的な寓話は、教訓的で示唆に富む物語として語り継がれている。",
+    "sentence_furigana": "この古典的【こてんてき】な寓話【ぐうわ】は、教訓的【きょうくんてき】で示唆【しさ】に富【と】む物語【ものがたり】として語【かた】り継【つ】がれている。",
+    "meaning": "This classic fable is passed down as an instructive and insightful story."
+  },
+  {
+    "sentence": "彼女は親からの教えを人生の訓として、常に誠実さを心がけている。",
+    "sentence_furigana": "彼女【かのじょ】は親【おや】からの教【おし】えを人生【じんせい】の訓【くん】として常【つね】に誠実【せいじつ】さを心【こころ】がけている。",
+    "meaning": "She always strives for sincerity, keeping her parents' teachings in mind as life lessons."
+  },
+  {
+    "sentence": "この詩は、自然の美しさとその力強さについての深い訓を伝えている。",
+    "sentence_furigana": "この詩【し】は、自然【しぜん】の美【うつく】しさとその力強【ちからづよ】さについての深【ふか】い訓【くん】を伝【つた】えている。",
+    "meaning": "This poem conveys profound lessons about the beauty and power of nature."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、将来の意思決定に役立てている。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、将来【しょうらい】の意思決定【いしけってい】に役立【やくだ】てている。",
+    "meaning": "He is using the lessons learned from his experience for future decision-making."
+  },
+  {
+    "sentence": "この取扱説明書は、電化製品を安全に使用するための重要な訓を含んでいる。",
+    "sentence_furigana": "この取扱説明書【とりあつかいせつめいしょ】は、電化製品【でんかせいひん】を安全【あんぜん】に使用【しよう】するための重要【じゅうよう】な訓【くん】を含【ふく】んでいる。",
+    "meaning": "This instruction manual contains important lessons for safely using the electronic product."
+  },
+  {
+    "sentence": "彼は指導者からの訓を忠実に実行し、目標を達成した。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの訓【くん】を忠実【ちゅうじつ】に実行【じっこう】し、目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He faithfully carried out the instructions from his mentor and achieved his goal."
+  },
+  {
+    "sentence": "この古典的な物語は、人間の成長に必要な訓を教えてくれる。",
+    "sentence_furigana": "この古典的【こてんてき】な物語【ものがたり】は、人間【にんげん】の成長【せいちょう】に必要な訓【くん】を教【おし】えてくれる。",
+    "meaning": "This classic story teaches us the lessons necessary for human growth."
+  },
+  {
+    "sentence": "彼女は両親の教えを人生の訓として大切にし、常に感謝の気持ちを忘れない。",
+    "sentence_furigana": "彼女【かのじょ】は両親【りょうしん】の教【おし】えを人生【じんせい】の訓【くん】として大切【たいせつ】にし、常【つね】に感謝【かんしゃ】の気持【きも】ちを忘【わす】れない。",
+    "meaning": "She cherishes her parents' teachings as life lessons and never forgets to be grateful."
+  },
+  {
+    "sentence": "この映画は、友情の絆の強さを伝える感動的な訓を持っている。",
+    "sentence_furigana": "この映画【えいが】は、友情【ゆうじょう】の絆【きずな】の強【つよ】さを伝【つた】える感動的【かんどうてき】な訓【くん】を持っている。",
+    "meaning": "This movie has a moving message that conveys the strength of friendship bonds."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、今後の課題解決に役立てるつもりだ。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、今後【こんご】の課題解決【かだいかいけつ】に役立【やくだ】てるつもりだ。",
+    "meaning": "He intends to use the lessons learned from his experience to solve future problems."
+  },
+  {
+    "sentence": "この取扱説明書は、機器を安全かつ効果的に使用するための訓を提供している。",
+    "sentence_furigana": "この取扱説明書【とりあつかいせつめいしょ】は、機器【きき】を安全【あんぜん】かつ効果的【こうかてき】に使用【しよう】するための訓【くん】を提供【ていきょう】している。",
+    "meaning": "This instruction manual provides instructions for using the equipment safely and effectively."
+  },
+  {
+    "sentence": "彼は指導者からの的確な訓に従い、作業を効率的に進めた。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの的確【てきかく】な訓【くん】に従【したが】い、作業【さぎょう】を効率的【こうりつてき】に進【すす】めた。",
+    "meaning": "He followed the precise instructions from his mentor and proceeded with the work efficiently."
+  },
+  {
+    "sentence": "この文学作品は、人生の喜びと悲しみについての深い訓を読者に示唆している。",
+    "sentence_furigana": "この文学作品【ぶんがくさくひん】は、人生【じんせい】の喜【よろこ】びと悲【かな】しみについての深【ふか】い訓【くん】を読者【どくしゃ】に示唆【しさ】している。",
+    "meaning": "This literary work suggests profound lessons to readers about the joys and sorrows of life."
+  },
+  {
+    "sentence": "彼女は母親の教えを人生の訓として、常に前向きな姿勢を保っている。",
+    "sentence_furigana": "彼女【かのじょ】は母親【ははおや】の教【おし】えを人生【じんせい】の訓【くん】として常【つね】に前向【まえむ】きな姿勢【しせい】を保【たも】っている。",
+    "meaning": "She always maintains a positive attitude, keeping her mother's teachings as life lessons."
+  },
+  {
+    "sentence": "この物語は、困難に立ち向かう勇気と希望の大切さを伝える訓を持っている。",
+    "sentence_furigana": "この物語【ものがたり】は、困難【こんなん】に立【た】ち向【む】かう勇気【ゆうき】と希望【きぼう】の大切【たいせつ】さを伝【つた】える訓【くん】を持っている。",
+    "meaning": "This story has a message that conveys the importance of courage and hope in facing difficulties."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、 future の計画に役立てるために書き留めている。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、 future の計画【けいかく】に役立【やくだ】てるために書【か】き留【と】めている。",
+    "meaning": "He is writing down the lessons learned from his experience to use them in future planning."
+  },
+  {
+    "sentence": "この取扱説明書には、安全な使用のための不可欠な訓がすべて含まれている。",
+    "sentence_furigana": "この取扱説明書【とりあつかいせつめいしょ】には、安全【あんぜん】な使用【しよう】のための不可欠【ふかけつ】な訓【くん】がすべて含ま【ふくま】れている。",
+    "meaning": "This instruction manual contains all the essential instructions for safe use."
+  },
+  {
+    "sentence": "彼は指導者からの重要な訓を胸に刻み、業務に励んだ。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの重要【じゅうよう】な訓【くん】を胸【むね】に刻【きざ】み、業務【ぎょうむ】に励【はげ】んだ。",
+    "meaning": "He took the important instructions from his mentor to heart and worked diligently."
+  },
+  {
+    "sentence": "この古典的な詩は、人間の永遠の探求についての深い訓を秘めている。",
+    "sentence_furigana": "この古典的【こてんてき】な詩【し】は、人間【にんげん】の永遠【えいえん】の探求【たんきゅう】についての深【ふか】い訓【くん】を秘【ひ】めている。",
+    "meaning": "This classic poem holds profound lessons about humanity's eternal quest."
+  },
+  {
+    "sentence": "彼女は母親の教えを人生の訓として、常に周りの人々を大切にしている。",
+    "sentence_furigana": "彼女【かのじょ】は母親【ははおや】の教【おし】えを人生【じんせい】の訓【くん】として常【つね】に周【まわ】りの人々【ひとびと】を大切【たいせつ】にしている。",
+    "meaning": "She always cherishes the people around her, keeping her mother's teachings as life lessons."
+  },
+  {
+    "sentence": "この映画は、真の友情とは何かを問いかける示唆に富む訓を持っている。",
+    "sentence_furigana": "この映画【えいが】は、真【まこと】の友情【ゆうじょう】とは何【なに】かを問【と】いかける示唆【しさ】に富【と】む訓【くん】を持っている。",
+    "meaning": "This movie has a thought-provoking message that questions what true friendship is."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、今後の人生の指針として活用している。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、今後【こんご】の人生【じんせい】の指針【ししん】として活用【かつよう】している。",
+    "meaning": "He is utilizing the lessons learned from his experience as guidelines for his future life."
+  },
+  {
+    "sentence": "この取扱説明書は、安全な操作のための必須の訓を網羅している。",
+    "sentence_furigana": "この取扱説明書【とりあつかいせつめいしょ】は、安全【あんぜん】な操作【そうさ】のための必須【ひっす】の訓【くん】を網羅【もうら】している。",
+    "meaning": "This instruction manual covers all the essential instructions for safe operation."
+  },
+  {
+    "sentence": "彼は指導者からの熱心な訓を受け、技術を向上させた。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの熱心【ねっしん】な訓【くん】を受【う】け、技術【ぎじゅつ】を向上【こうじょう】させた。",
+    "meaning": "He received enthusiastic instruction from his mentor and improved his skills."
+  },
+  {
+    "sentence": "この古典的な寓話は、人生の教訓となる普遍的な真理を伝えている。",
+    "sentence_furigana": "この古典的【こてんてき】な寓話【ぐうわ】は、人生【じんせい】の教訓【きょうくん】となる普遍的【ふへんてき】な真理【しんり】を伝【つた】えている。",
+    "meaning": "This classic fable conveys universal truths that serve as life lessons."
+  },
+  {
+    "sentence": "彼女は母親の教えを人生の訓として、常に感謝の気持ちを持って生きている。",
+    "sentence_furigana": "彼女【かのじょ】は母親【ははおや】の教【おし】えを人生【じんせい】の訓【くん】として常【つね】に感謝【かんしゃ】の気持【きも】ちを持【も】って生【い】きている。",
+    "meaning": "She lives with constant gratitude, keeping her mother's teachings as life lessons."
+  },
+  {
+    "sentence": "この映画は、困難な状況でも希望を失わないことの重要性を説く訓を持っている。",
+    "sentence_furigana": "この映画【えいが】は、困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を失【うしな】わないことの重要性【じゅうようせい】を説【と】く訓【くん】を持っている。",
+    "meaning": "This movie has a message that preaches the importance of not losing hope even in difficult situations."
+  },
+  {
+    "sentence": "彼は経験から得た教訓を、 future の成功のために記録し、定期的に見返している。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】から得【え】た教訓【きょうくん】を、 future の成功【せいこう】のために記録【きろく】し、定期的【ていきてき】に見返【みかえ】している。",
+    "meaning": "He records the lessons learned from his experience for future success and reviews them regularly."
+  },
+  {
+    "sentence": "この取扱説明書は、機器を安全に操作するためのすべての必要な訓を含んでいる。",
+    "sentence_furigana": "この取扱説明書【とりあつかいせつめいしょ】は、機器【きき】を安全【あんぜん】に操作【そうさ】するためのすべて必要な訓【ひつようなくん】を含【ふく】んでいる。",
+    "meaning": "This instruction manual contains all the necessary instructions for safely operating the equipment."
+  },
+  {
+    "sentence": "彼は指導者からの温かい訓を受け、自信を持って新しい挑戦に臨んだ。",
+    "sentence_furigana": "彼【かれ】は指導者【しどうしゃ】からの温【あたた】かい訓【くん】を受【う】け、自信【じしん】を持【も】って新【あたら】しい挑戦【ちょうせん】に臨【のぞ】んだ。",
+    "meaning": "He received warm guidance from his mentor and faced the new challenge with confidence."
+  },
+  {
+    "sentence": "この古典的な物語は、人生における忍耐と努力の価値を教える訓を持っている。",
+    "sentence_furigana": "この古典的【こてんてき】な物語【ものがたり】は、人生【じんせい】における忍耐【にんたい】と努力【どりょく】の価値【かち】を教【おし】える訓【くん】を持っている。",
+    "meaning": "This classic story has a lesson that teaches the value of patience and effort in life."
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "六時です。",
+    "sentence_furigana": "六【ろく】時【じ】です。",
+    "meaning": "It is six o'clock."
+  },
+  {
+    "sentence": "六冊の本があります。",
+    "sentence_furigana": "六【ろく】冊【さつ】の|本【ほん】があります。",
+    "meaning": "There are six books."
+  },
+  {
+    "sentence": "六人の子供が遊んでいます。",
+    "sentence_furigana": "六【ろく】人【にん】の|子供【こども】が遊【あそ】んでいます。",
+    "meaning": "Six children are playing."
+  },
+  {
+    "sentence": "六月は暑いですね。",
+    "sentence_furigana": "六【ろく】月【がつ】は暑【あつ】いですね。",
+    "meaning": "June is hot, isn't it?"
+  },
+  {
+    "sentence": "この箱は六角形です。",
+    "sentence_furigana": "この|箱【はこ】は六【ろっ】角【かく】形【けい】です。",
+    "meaning": "This box is hexagonal."
+  },
+  {
+    "sentence": "私は六年生です。",
+    "sentence_furigana": "私【わたし】は六【ろく】年【ねん】生【せい】です。",
+    "meaning": "I am in the sixth grade."
+  },
+  {
+    "sentence": "この問題は六時間かかりました。",
+    "sentence_furigana": "この|問題【もんだい】は六【ろっ】時【じ】間【かん】かかりました。",
+    "meaning": "This problem took six hours."
+  },
+  {
+    "sentence": "彼は六十歳です。",
+    "sentence_furigana": "彼【かれ】は六【ろく】十【じゅう】歳【さい】です。",
+    "meaning": "He is sixty years old."
+  },
+  {
+    "sentence": "この料理は六百円です。",
+    "sentence_furigana": "この|料理【りょうり】は六【ろっ】百【ぴゃく】円【えん】です。",
+    "meaning": "This dish is six hundred yen."
+  },
+  {
+    "sentence": "来週の月曜日は六日です。",
+    "sentence_furigana": "来週【らいしゅう】の|月【げつ】曜【よう】日【び】は六【むい】日【か】です。",
+    "meaning": "Next Monday is the sixth."
+  },
+  {
+    "sentence": "六つの味覚があります。",
+    "sentence_furigana": "六【むっ】つのか|味覚【みかく】があります。",
+    "meaning": "There are six senses of taste."
+  },
+  {
+    "sentence": "このビルは六階建てです。",
+    "sentence_furigana": "この|ビルは六【ろっ】階【かい】建【だ】てです。",
+    "meaning": "This building is six stories high."
+  },
+  {
+    "sentence": "六人のチームで作業します。",
+    "sentence_furigana": "六【ろく】人【にん】の|チームで|作【さく】業【ぎょう】します。",
+    "meaning": "We will work as a team of six."
+  },
+  {
+    "sentence": "彼は六回優勝しました。",
+    "sentence_furigana": "彼【かれ】は六【ろっ】回【かい】優【ゆう】勝【しょう】しました。",
+    "meaning": "He won six championships."
+  },
+  {
+    "sentence": "この小説は六部作です。",
+    "sentence_furigana": "この|小【しょう】説【せつ】は六【ろっ】部【ぶ】作【さく】です。",
+    "meaning": "This novel is a six-part series."
+  },
+  {
+    "sentence": "六分で到着します。",
+    "sentence_furigana": "六【ろっ】分【ぷん】で|到【とう】着【ちゃく】します。",
+    "meaning": "We will arrive in six minutes."
+  },
+  {
+    "sentence": "彼は六つの言語を話します。",
+    "sentence_furigana": "彼【かれ】は六【ろっ】つのが|語【ご】を|話【はな】します。",
+    "meaning": "He speaks six languages."
+  },
+  {
+    "sentence": "六畳の部屋です。",
+    "sentence_furigana": "六【ろく】畳【じょう】の|部【へや】です。",
+    "meaning": "It is a six-tatami mat room."
+  },
+  {
+    "sentence": "この絵は六角形を描いています。",
+    "sentence_furigana": "この|絵【え】は六【ろっ】角【かく】形【けい】を|描【か】いています。",
+    "meaning": "This painting depicts a hexagon."
+  },
+  {
+    "sentence": "六時半に集合しましょう。",
+    "sentence_furigana": "六【ろく】時【じ】半【はん】に|集【しゅう】合【ごう】しましょう。",
+    "meaning": "Let's gather at half-past six."
+  },
+  {
+    "sentence": "六歳の子供が学校に行きます。",
+    "sentence_furigana": "六【ろく】歳【さい】の|子供【こども】が|学【がっ】校【こう】に行【い】きます。",
+    "meaning": "A six-year-old child goes to school."
+  },
+  {
+    "sentence": "この書類は六ページあります。",
+    "sentence_furigana": "この|書【しょ】類【るい】は六【ろっ】ペー|ジあります。",
+    "meaning": "This document has six pages."
+  },
+  {
+    "sentence": "彼は六年間日本に住んでいました。",
+    "sentence_furigana": "彼【かれ】は六【ろっ】年【ねん】間【かん】日本【にほん】に|住【す】んでいました。",
+    "meaning": "He lived in Japan for six years."
+  },
+  {
+    "sentence": "六つの島々があります。",
+    "sentence_furigana": "六【むっ】つのが|島【しま】々があります。",
+    "meaning": "There are six islands."
+  },
+  {
+    "sentence": "この商品は六種類あります。",
+    "sentence_furigana": "この|商【しょう】品【ひん】は六【ろっ】種【しゅ】類【るい】あります。",
+    "meaning": "This product comes in six types."
+  },
+  {
+    "sentence": "六週間後に旅行に行きます。",
+    "sentence_furigana": "六【ろっ】週【しゅう】間【かん】後【ご】に|旅【りょ】行【こう】に行【い】きます。",
+    "meaning": "I will go on a trip in six weeks."
+  },
+  {
+    "sentence": "彼は六時から会議に出席します。",
+    "sentence_furigana": "彼【かれ】は六【ろく】時【じ】から|会【かい】議【ぎ】に|出【しゅっ】席【せき】します。",
+    "meaning": "He will attend the meeting from six o'clock."
+  },
+  {
+    "sentence": "この本は六巻から成ります。",
+    "sentence_furigana": "この|本【ほん】は六【ろっ】巻【かん】から|成【な】ります。",
+    "meaning": "This book consists of six volumes."
+  },
+  {
+    "sentence": "六人で一緒に学びましょう。",
+    "sentence_furigana": "六【ろく】人【にん】で|一【いっ】緒【しょ】に|学【まな】びましょう。",
+    "meaning": "Let's learn together, six of us."
+  },
+  {
+    "sentence": "六月の祭りに行きました。",
+    "sentence_furigana": "六【ろく】月【がつ】の|祭【まつ】りに行【い】きました。",
+    "meaning": "I went to the festival in June."
+  },
+  {
+    "sentence": "六つの音符が聞こえます。",
+    "sentence_furigana": "六【むっ】つのおん|符【ぷ】が|聞【き】こえます。",
+    "meaning": "Six musical notes can be heard."
+  },
+  {
+    "sentence": "彼は六時前に起きる。",
+    "sentence_furigana": "彼【かれ】は六【ろく】時【じ】前【まえ】に|起【お】きる。",
+    "meaning": "He wakes up before six."
+  },
+  {
+    "sentence": "六つの色で絵を描きました。",
+    "sentence_furigana": "六【むっ】つのが|色【いろ】で|絵【え】を|描【か】きました。",
+    "meaning": "I drew a picture with six colors."
+  },
+  {
+    "sentence": "この地図は六インチ幅です。",
+    "sentence_furigana": "この|地【ち】図【ず】は六【ろっ】インチ|幅【はば】です。",
+    "meaning": "This map is six inches wide."
+  },
+  {
+    "sentence": "六人の選手が参加します。",
+    "sentence_furigana": "六【ろく】人【にん】のが|選【せん】手【しゅ】が|参【さん】加【か】します。",
+    "meaning": "Six athletes will participate."
+  },
+  {
+    "sentence": "六時間睡眠をとりました。",
+    "sentence_furigana": "六【ろっ】時【じ】間【かん】|睡【すい】眠【みん】を|とりました。",
+    "meaning": "I slept for six hours."
+  },
+  {
+    "sentence": "この部屋は六畳半です。",
+    "sentence_furigana": "この|部【へや】は六【ろく】畳【じょう】半【はん】です。",
+    "meaning": "This room is six and a half tatami mats."
+  },
+  {
+    "sentence": "六角形の穴が開いています。",
+    "sentence_furigana": "六【ろっ】角【かく】形【けい】の|穴【あな】が|開【あ】いています。",
+    "meaning": "There is a hexagonal hole."
+  },
+  {
+    "sentence": "六月三十日は夏至です。",
+    "sentence_furigana": "六【ろく】月【がつ】三【さん】十【じゅう】日【にち】は|夏【げ】至【し】です。",
+    "meaning": "June 30th is the summer solstice."
+  },
+  {
+    "sentence": "六つの部門があります。",
+    "sentence_furigana": "六【むっ】つのが|部【ぶ】門【もん】があります。",
+    "meaning": "There are six departments."
+  },
+  {
+    "sentence": "六時ちょうどに来てください。",
+    "sentence_furigana": "六【ろく】時【じ】ちょ【う】どに来【く】ださい。",
+    "meaning": "Please come exactly at six o'clock."
+  },
+  {
+    "sentence": "彼は六色のクレヨンを持っています。",
+    "sentence_furigana": "彼【かれ】は六【ろっ】色【しょく】の|クレヨンを|持【も】っています。",
+    "meaning": "He has six-colored crayons."
+  },
+  {
+    "sentence": "六人のグループで活動しています。",
+    "sentence_furigana": "六【ろく】人【にん】の|グループで|活【かつ】動【どう】しています。",
+    "meaning": "We are active in a group of six."
+  },
+  {
+    "sentence": "この本は六冊まとめて購入しました。",
+    "sentence_furigana": "この|本【ほん】は六【ろっ】冊【さつ】まとめて|購【こう】入【にゅう】しました。",
+    "meaning": "I bought these six books together."
+  },
+  {
+    "sentence": "六時間ごとに休憩を取ります。",
+    "sentence_furigana": "六【ろっ】時【じ】間【かん】ごとに行【ぎょ】休【ゅう】憩【けい】を|取【と】ります。",
+    "meaning": "I take a break every six hours."
+  },
+  {
+    "sentence": "六人家族です。",
+    "sentence_furigana": "六【ろく】人【にん】家【か】族【ぞく】です。",
+    "meaning": "It's a family of six."
+  },
+  {
+    "sentence": "六月は雨が多い。",
+    "sentence_furigana": "六【ろく】月【がつ】は|雨【あめ】が|多【おお】い。",
+    "meaning": "June has a lot of rain."
+  },
+  {
+    "sentence": "彼は六十年ぶりの帰郷です。",
+    "sentence_furigana": "彼【かれ】は六【ろっ】十【じゅう】年【ねん】ぶりの|帰【き】郷【きょう】です。",
+    "meaning": "It's his first return home in sixty years."
+  },
+  {
+    "sentence": "六枚のコインがあります。",
+    "sentence_furigana": "六【ろっ】枚【まい】のこインがあります。",
+    "meaning": "There are six coins."
+  },
+  {
+    "sentence": "この会議は六時に始まります。",
+    "sentence_furigana": "この|会【かい】議【ぎ】は六【ろく】時【じ】に|始【はじ】まります。",
+    "meaning": "This meeting starts at six o'clock."
+  },
+  {
+    "sentence": "六歳の孫がいます。",
+    "sentence_furigana": "六【ろく】歳【さい】の|孫【まご】がいます。",
+    "meaning": "I have a six-year-old grandchild."
+  },
+  {
+    "sentence": "六本の鉛筆を使いました。",
+    "sentence_furigana": "六【ろっ】本【ほん】の|鉛【えん】筆【ぴつ】を|使【つか】いました。",
+    "meaning": "I used six pencils."
+  },
+  {
+    "sentence": "六月は梅雨の季節です。",
+    "sentence_furigana": "六【ろく】月【がつ】は|梅【ばい】雨【う】の|季【き】節【せつ】です。",
+    "meaning": "June is the rainy season."
+  },
+  {
+    "sentence": "この町には六つの駅があります。",
+    "sentence_furigana": "この|町【まち】には六【むっ】つのが|駅【えき】があります。",
+    "meaning": "There are six stations in this town."
+  },
+  {
+    "sentence": "六時過ぎに帰宅した。",
+    "sentence_furigana": "六【ろく】時【じ】過【す】ぎに|帰【き】宅【たく】した。",
+    "meaning": "I returned home after six o'clock."
+  },
+  {
+    "sentence": "六個のリンゴを買いました。",
+    "sentence_furigana": "六【ろっ】個【こ】の|リンゴを|買【か】いました。",
+    "meaning": "I bought six apples."
+  },
+  {
+    "sentence": "六年間この仕事をしている。",
+    "sentence_furigana": "六【ろっ】年【ねん】間【かん】この|仕【し】事【ごと】をしている。",
+    "meaning": "I have been doing this job for six years."
+  },
+  {
+    "sentence": "六つの約束を守ります。",
+    "sentence_furigana": "六【むっ】つのが|約【やく】束【そく】を|守【まも】ります。",
+    "meaning": "I will keep six promises."
+  },
+  {
+    "sentence": "この製品は六色展開です。",
+    "sentence_furigana": "この|製【せい】品【ひん】は六【ろっ】色【しょく】展【てん】開【かい】です。",
+    "meaning": "This product is available in six colors."
+  },
+  {
+    "sentence": "六時前に到着予定です。",
+    "sentence_furigana": "六【ろく】時【じ】前【まえ】に|到【とう】着【ちゃく】予【よ】定【てい】です。",
+    "meaning": "We are scheduled to arrive before six."
+  },
+  {
+    "sentence": "六十代の男性です。",
+    "sentence_furigana": "六【ろく】十【じゅう】代【だい】の|男【だん】性【せい】です。",
+    "meaning": "He is a man in his sixties."
+  },
+  {
+    "sentence": "六分の一の確率です。",
+    "sentence_furigana": "六【ろっ】分【ぶん】の|一【いち】の|確【かく】率【りつ】です。",
+    "meaning": "The probability is one in six."
+  },
+  {
+    "sentence": "六人のうち四人が合格した。",
+    "sentence_furigana": "六【ろく】人【にん】のうち|四【よん】人【にん】が|合【ごう】格【かく】した。",
+    "meaning": "Four out of six people passed."
+  },
+  {
+    "sentence": "六月中に締め切ります。",
+    "sentence_furigana": "六【ろく】月【がつ】中【じゅう】に|締【し】め切【き】ります。",
+    "meaning": "It will be closed within June."
+  },
+  {
+    "sentence": "彼は六畳の部屋を借りている。",
+    "sentence_furigana": "彼【かれ】は六【ろく】畳【じょう】の|部【へや】を|借【か】りている。",
+    "meaning": "He is renting a six-tatami mat room."
+  },
+  {
+    "sentence": "六つの点で評価します。",
+    "sentence_furigana": "六【むっ】つのが|点【てん】で|評【ひょう】価【か】します。",
+    "meaning": "We will evaluate it on six points."
+  },
+  {
+    "sentence": "この料理は六つのスパイスを使っています。",
+    "sentence_furigana": "この|料【りょう】理【り】は六【むっ】つのが|スパイスを|使【つか】っています。",
+    "meaning": "This dish uses six spices."
+  },
+  {
+    "sentence": "六時集合、遅れないでください。",
+    "sentence_furigana": "六【ろく】時【じ】集【しゅう】合【ごう】、|遅【おく】れないでください。",
+    "meaning": "Gather at six, please don't be late."
+  },
+  {
+    "sentence": "六千円で買いました。",
+    "sentence_furigana": "六【ろっ】千【せん】円【えん】で|買【か】いました。",
+    "meaning": "I bought it for six thousand yen."
+  },
+  {
+    "sentence": "六回戦まで進みました。",
+    "sentence_furigana": "六【ろっ】回【かい】戦【せん】ま【で】進【すす】みました。",
+    "meaning": "We proceeded to the sixth round."
+  },
+  {
+    "sentence": "六日間の休みを取ります。",
+    "sentence_furigana": "六【むい】日【か】間【かん】の|休【やす】みをとります。",
+    "meaning": "I will take six days off."
+  },
+  {
+    "sentence": "この建物は六階建てのオフィスビルです。",
+    "sentence_furigana": "この|建【た】物【もの】は六【ろっ】階【かい】建【だ】てのおフィスビルです。",
+    "meaning": "This building is a six-story office building."
+  },
+  {
+    "sentence": "六ヶ月後にまた会いましょう。",
+    "sentence_furigana": "六【ろっ】ヶ【か】月【げつ】後【ご】にまた|会【あ】いましょう。",
+    "meaning": "Let's meet again in six months."
+  },
+  {
+    "sentence": "彼は六つ年上です。",
+    "sentence_furigana": "彼【かれ】は六【むっ】つ|年【ねん】上です。",
+    "meaning": "He is six years older."
+  },
+  {
+    "sentence": "このコースは六ホールです。",
+    "sentence_furigana": "この|コースは六【ろっ】ホールです。",
+    "meaning": "This course has six holes."
+  },
+  {
+    "sentence": "六時消灯です。",
+    "sentence_furigana": "六【ろく】時【じ】消【しょう】灯【とう】です。",
+    "meaning": "Lights out at six o'clock."
+  },
+  {
+    "sentence": "六千五百円になります。",
+    "sentence_furigana": "六【ろっ】千【せん】五【ご】百【ひゃく】円【えん】になります。",
+    "meaning": "It will be six thousand five hundred yen."
+  },
+  {
+    "sentence": "六つの言語で話せますか。",
+    "sentence_furigana": "六【むっ】つのが|語【ご】で|話【はな】せますか。",
+    "meaning": "Can you speak six languages?"
+  },
+  {
+    "sentence": "彼は六時十分に来た。",
+    "sentence_furigana": "彼【かれ】は六【ろく】時【じ】十【じゅっ】分【ぷん】に来【き】た。",
+    "meaning": "He came at ten past six."
+  },
+  {
+    "sentence": "六人のグループに分かれました。",
+    "sentence_furigana": "六【ろく】人【にん】の|グループに|分【わ】かれました。",
+    "meaning": "We were divided into groups of six."
+  },
+  {
+    "sentence": "六月は父の日があります。",
+    "sentence_furigana": "六【ろく】月【がつ】は|父【ちち】の|日【ひ】があります。",
+    "meaning": "June has Father's Day."
+  },
+  {
+    "sentence": "この時計は六時に止まった。",
+    "sentence_furigana": "この|時【とけ】計【い】は六【ろく】時【じ】に|止【と】まった。",
+    "meaning": "This clock stopped at six."
+  },
+  {
+    "sentence": "六つの文字を書きました。",
+    "sentence_furigana": "六【むっ】つのが|文【も】字【じ】を|書【か】きました。",
+    "meaning": "I wrote six characters."
+  },
+  {
+    "sentence": "彼は六時半に起きた。",
+    "sentence_furigana": "彼【かれ】は六【ろく】時【じ】半【はん】に|起【お】きた。",
+    "meaning": "He woke up at six-thirty."
+  },
+  {
+    "sentence": "六畳の部屋に住んでいます。",
+    "sentence_furigana": "六【ろく】畳【じょう】の|部【へや】に|住【す】んでいます。",
+    "meaning": "I live in a six-tatami mat room."
+  },
+  {
+    "sentence": "六人の友達が来ました。",
+    "sentence_furigana": "六【ろく】人【にん】の|友【とも】達【だち】が|来【き】ました。",
+    "meaning": "Six friends came."
+  },
+  {
+    "sentence": "六時ちょうどに終わりました。",
+    "sentence_furigana": "六【ろく】時【じ】ちょ【う】どに|終【お】わりました。",
+    "meaning": "It finished exactly at six o'clock."
+  },
+  {
+    "sentence": "六百万円貯金しました。",
+    "sentence_furigana": "六【ろっ】百【ぴゃく】万【まん】円【えん】|貯【ちょ】金【きん】しました。",
+    "meaning": "I saved six million yen."
+  },
+  {
+    "sentence": "六時のおやつを食べました。",
+    "sentence_furigana": "六【ろく】時【じ】のおやつを|食【た】べました。",
+    "meaning": "I ate my six o'clock snack."
+  },
+  {
+    "sentence": "彼は六つの言語を学ぶことを決めた。",
+    "sentence_furigana": "彼【かれ】は六【むっ】つのが|語【ご】を|学【まな】ぶことを|決【き】めた。",
+    "meaning": "He decided to learn six languages."
+  },
+  {
+    "sentence": "六畳の畳を敷きました。",
+    "sentence_furigana": "六【ろく】畳【じょう】の|畳【たたみ】を|敷【し】きました。",
+    "meaning": "I laid down six tatami mats."
+  },
+  {
+    "sentence": "この本は六章で構成されています。",
+    "sentence_furigana": "この|本【ほん】は六【ろっ】章【しょう】で|構【こう】成【せい】されています。",
+    "meaning": "This book is composed of six chapters."
+  },
+  {
+    "sentence": "六時のニュースを見ました。",
+    "sentence_furigana": "六【ろく】時【じ】の|ニュースを|見【み】ました。",
+    "meaning": "I watched the six o'clock news."
+  },
+  {
+    "sentence": "六人の乗客がいました。",
+    "sentence_furigana": "六【ろく】人【にん】の|乗【じょう】客【きゃく】がいました。",
+    "meaning": "There were six passengers."
+  },
+  {
+    "sentence": "このテープは六メートルです。",
+    "sentence_furigana": "この|テープは六【ろっ】メー|トルです。",
+    "meaning": "This tape is six meters long."
+  },
+  {
+    "sentence": "六時間歩き続けました。",
+    "sentence_furigana": "六【ろっ】時【じ】間【かん】|歩【ある】き|続【つづ】けました。",
+    "meaning": "I kept walking for six hours."
+  },
+  {
+    "sentence": "六月は蛍が見頃です。",
+    "sentence_furigana": "六【ろく】月【がつ】は|蛍【ほたる】が|見【み】頃【ごろ】です。",
+    "meaning": "June is a good time to see fireflies."
+  },
+  {
+    "sentence": "彼は六月に誕生日を迎えます。",
+    "sentence_furigana": "彼【かれ】は六【ろく】月【がつ】に|誕【たん】生【じょう】日【び】を|迎【むか】えます。",
+    "meaning": "His birthday is in June."
+  },
+  {
+    "sentence": "六つの目標を設定しました。",
+    "sentence_furigana": "六【むっ】つのが|目【もく】標【ひょう】を|設【せっ】定【てい】しました。",
+    "meaning": "We set six goals."
+  },
+  {
+    "sentence": "六時過ぎに電話しました。",
+    "sentence_furigana": "六【ろく】時【じ】過【す】ぎに|電【でん】話【わ】しました。",
+    "meaning": "I called after six o'clock."
+  },
+  {
+    "sentence": "このキットは六つの部品で構成されています。",
+    "sentence_furigana": "この|キットは六【ろっ】つのが|部【ぶ】品【ひん】で|構【こう】成【せい】されています。",
+    "meaning": "This kit consists of six parts."
+  },
+  {
+    "sentence": "六人のグループで食事をしました。",
+    "sentence_furigana": "六【ろく】人【にん】の|グループで|食【しょく】事【じ】をしました。",
+    "meaning": "We had a meal as a group of six."
+  },
+  {
+    "sentence": "六月は夏が始まります。",
+    "sentence_furigana": "六【ろく】月【がつ】は|夏【なつ】が|始【はじ】まります。",
+    "meaning": "Summer begins in June."
+  }
+]

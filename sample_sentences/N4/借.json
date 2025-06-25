@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "彼は友達から本を借りました。",
+    "sentence_furigana": "彼【かれ】は友達【ともだち】から本【ほん】を借【か】りました。",
+    "meaning": "He borrowed a book from his friend."
+  },
+  {
+    "sentence": "図書館で本を借りたいです。",
+    "sentence_furigana": "図書館【としょかん】で本【ほん】を借【か】りたいです。",
+    "meaning": "I want to borrow a book from the library."
+  },
+  {
+    "sentence": "この傘は誰かの借り物です。",
+    "sentence_furigana": "この傘【かさ】は誰【だれ】かの借【か】り物【もの】です。",
+    "meaning": "This umbrella is borrowed from someone."
+  },
+  {
+    "sentence": "お金を借りる時は慎重に。",
+    "sentence_furigana": "お金【かね】を借【か】る時【とき】は慎重【しんちょう】に。",
+    "meaning": "Be careful when borrowing money."
+  },
+  {
+    "sentence": "部屋を借りました。",
+    "sentence_furigana": "部屋【へや】を借【か】りました。",
+    "meaning": "I rented a room."
+  },
+  {
+    "sentence": "車を借りて旅行に行きました。",
+    "sentence_furigana": "車【くるま】を借【か】りて旅行【りょこう】に行【い】きました。",
+    "meaning": "I borrowed a car and went on a trip."
+  },
+  {
+    "sentence": "これは借金の一部です。",
+    "sentence_furigana": "これ__は借__金【しゃっきん】の一部【いちぶ】です。",
+    "meaning": "This is part of the debt."
+  },
+  {
+    "sentence": "友人に金を借りたい。",
+    "sentence_furigana": "友人【ゆうじん】に金【かね】を借__りたい。",
+    "meaning": "I want to borrow money from a friend."
+  },
+  {
+    "sentence": "彼の借金は多い。",
+    "sentence_furigana": "彼__の借__金【しゃっきん】は多__い。",
+    "meaning": "His debt is large."
+  },
+  {
+    "sentence": "自転車を借りる。",
+    "sentence_furigana": "自転車【じてんしゃ】を借__る。",
+    "meaning": "To rent a bicycle."
+  },
+  {
+    "sentence": "借地権について調べたい。",
+    "sentence_furigana": "借__地__権【しゃく__ち__けん】について調__べ__たい。",
+    "meaning": "I want to research leasehold rights."
+  },
+  {
+    "sentence": "これは借款の契約書です。",
+    "sentence_furigana": "これ__は借__款【しゃっかん】の契約__書__【けいやく__しょ__】です。",
+    "meaning": "This is a loan agreement."
+  },
+  {
+    "sentence": "金を借りに銀行へ行った。",
+    "sentence_furigana": "金__を借__りに銀行【ぎんこう】へ行__った。",
+    "meaning": "I went to the bank to borrow money."
+  },
+  {
+    "sentence": "借りた本は大切に扱う。",
+    "sentence_furigana": "借__りた__本【ほん】は大切【たいせつ】に扱__う。",
+    "meaning": "Handle borrowed books with care."
+  },
+  {
+    "sentence": "長期の借り入れ。",
+    "sentence_furigana": "長期【ちょうき】の借__り__入__れ__。",
+    "meaning": "Long-term borrowing."
+  },
+  {
+    "sentence": "彼は借家で暮らしている。",
+    "sentence_furigana": "彼__は借__家【しゃっ__か__】で暮__ら__して__い__る。",
+    "meaning": "He lives in a rented house."
+  },
+  {
+    "sentence": "その車は３日間借りました。",
+    "sentence_furigana": "その車__は__３__日間__【__日間__】__借__りました。",
+    "meaning": "I rented that car for three days."
+  },
+  {
+    "sentence": "借金返済計画を立てる。",
+    "sentence_furigana": "借__金__返__済__【__済__】計画【けい__かく__】を立__てる。",
+    "meaning": "Make a debt repayment plan."
+  },
+  {
+    "sentence": "友達のパソコンを借用する。",
+    "sentence_furigana": "友達__の__パソコンを借__用__【__よう__】する。",
+    "meaning": "Borrow a friend's computer."
+  },
+  {
+    "sentence": "借金は早く返すに限る。",
+    "sentence_furigana": "借__金__は早__く__返__す__に限__る。",
+    "meaning": "It's best to repay debts quickly."
+  },
+  {
+    "sentence": "彼の筆記用具を借りました。",
+    "sentence_furigana": "彼__の__筆__記__用__具__【__き__よう__ぐ__】を借__りました。",
+    "meaning": "I borrowed his writing utensils."
+  },
+  {
+    "sentence": "借金取りが来た。",
+    "sentence_furigana": "借__金__取__り__【__り__】が来__た。",
+    "meaning": "A debt collector came."
+  },
+  {
+    "sentence": "この部屋は賃借料が高い。",
+    "sentence_furigana": "この部屋__は__賃__借__料__【__ちん__しゃく__りょう__】が高い。",
+    "meaning": "The rent for this room is high."
+  },
+  {
+    "sentence": "大学の図書館で本を借りる。",
+    "sentence_furigana": "大学【だいがく】の図書館【としょ__かん__】で本__を__借__る。",
+    "meaning": "Borrow books from the university library."
+  },
+  {
+    "sentence": "彼は友人に金を借りている。",
+    "sentence_furigana": "彼__は__友人__【__ゆうじん__】に金__を__借__り__て__い__る。",
+    "meaning": "He is borrowing money from a friend."
+  },
+  {
+    "sentence": "借用の印鑑。",
+    "sentence_furigana": "借__用__【__よう__】の印__鑑__【__かん__】。",
+    "meaning": "Seal of borrowing."
+  },
+  {
+    "sentence": "借金で首が回らない。",
+    "sentence_furigana": "借__金__で首__が__回__ら__ない。",
+    "meaning": "I'm overwhelmed by debt."
+  },
+  {
+    "sentence": "借地を借りて畑を作る。",
+    "sentence_furigana": "借__地__【__ち__】を借__り__て畑__【__は__た__け__】を__作__る。",
+    "meaning": "Rent land to make a field."
+  },
+  {
+    "sentence": "借金が多いのはつらい。",
+    "sentence_furigana": "借__金__が多__い__のはつらい。",
+    "meaning": "Having a lot of debt is tough."
+  },
+  {
+    "sentence": "借金の一括返済。",
+    "sentence_furigana": "借__金__の__一__括__【__かっ__つ__】返__済__【__さい__】。",
+    "meaning": "Lump-sum repayment of debt."
+  },
+  {
+    "sentence": "借りた物は必ず返す。",
+    "sentence_furigana": "借__りた__物__【__もの__】は必__ず__返__す__。",
+    "meaning": "Always return what you borrow."
+  },
+  {
+    "sentence": "彼は借金で自己破産した。",
+    "sentence_furigana": "彼__は__借__金__で自己__破産__【__じこ__はさん__】した。",
+    "meaning": "He went bankrupt due to debt."
+  },
+  {
+    "sentence": "短期借入金を返済する。",
+    "sentence_furigana": "短期__借__入__金__【__たん__き____かり__い__れ____きん__】を返__済__【__さい__】する。",
+    "meaning": "Repay short-term borrowings."
+  },
+  {
+    "sentence": "この土地は借地です。",
+    "sentence_furigana": "この土地__【__と__ち__】は借__地__【__しゃく__ち__】です。",
+    "meaning": "This land is leased."
+  },
+  {
+    "sentence": "借金返済の目処が立たない。",
+    "sentence_furigana": "借__金__返__済__【__さい__】の目__処__【__め__ど__】が立__たない。",
+    "meaning": "There's no prospect of repaying the debt."
+  },
+  {
+    "sentence": "友人に借金をする。",
+    "sentence_furigana": "友人__【__ゆうじん__】に借__金__する。",
+    "meaning": "Borrow money from a friend."
+  },
+  {
+    "sentence": "借金が積み重なる。",
+    "sentence_furigana": "借__金__が積__み__重__なる。",
+    "meaning": "Debts pile up."
+  },
+  {
+    "sentence": "借金で苦しんでいる。",
+    "sentence_furigana": "借__金__で苦__し__んで__い__る。",
+    "meaning": "Suffering from debt."
+  },
+  {
+    "sentence": "借金返済のために働く。",
+    "sentence_furigana": "借__金__返__済__【__さい__】のため__に__働__く。",
+    "meaning": "Work to repay debt."
+  },
+  {
+    "sentence": "借金がかさむ。",
+    "sentence_furigana": "借__金__がかさむ。",
+    "meaning": "Debts accumulate."
+  },
+  {
+    "sentence": "借金返済の計画を立て直す。",
+    "sentence_furigana": "借__金__返__済__【__さい__】の計画【けい__かく__】を立__ち__直__す__。",
+    "meaning": "Re-plan debt repayment."
+  },
+  {
+    "sentence": "借金まみれの生活。",
+    "sentence_furigana": "借__金__まみれ__の__生活【せい__かつ__】。",
+    "meaning": "A life full of debt."
+  },
+  {
+    "sentence": "借金の催促が来た。",
+    "sentence_furigana": "借__金__の催__促__【__さい__そく__】が来__た。",
+    "meaning": "A demand for debt repayment came."
+  },
+  {
+    "sentence": "借金の取り立て。",
+    "sentence_furigana": "借__金__の取__り__立__て__。",
+    "meaning": "Debt collection."
+  },
+  {
+    "sentence": "借金はしないに越したことはない。",
+    "sentence_furigana": "借__金__は__しない__に__越__したこと__は__ない。",
+    "meaning": "It's best not to borrow money."
+  },
+  {
+    "sentence": "借金を踏み倒す。",
+    "sentence_furigana": "借__金__を__踏__み__倒__す__。",
+    "meaning": "To default on a debt."
+  },
+  {
+    "sentence": "借金が帳消しになる。",
+    "sentence_furigana": "借__金__が帳__消__し__に__なる。",
+    "meaning": "Debts are wiped out."
+  },
+  {
+    "sentence": "借金の証文。",
+    "sentence_furigana": "借__金__の証__文__【__しょう__もん__】。",
+    "meaning": "A promissory note for a debt."
+  },
+  {
+    "sentence": "借金で首が回らない状況だ。",
+    "sentence_furigana": "借__金__で首__が__回__ら__ない__状況__【__じょう__きょう__】だ。",
+    "meaning": "I'm in a situation where I can't manage due to debt."
+  },
+  {
+    "sentence": "借金の返済に追われる。",
+    "sentence_furigana": "借__金__の返__済__【__さい__】に__追__われる。",
+    "meaning": "Chased by debt repayment."
+  },
+  {
+    "sentence": "借金は国の経済を圧迫する。",
+    "sentence_furigana": "借__金__は__国__の__経済__【__けい__ざい__】を__圧__迫__【__あつ__ぱ__く__】する。",
+    "meaning": "Debt puts pressure on the national economy."
+  },
+  {
+    "sentence": "借金が多くて困っている。",
+    "sentence_furigana": "借__金__が多く__て__困__って__い__る。",
+    "meaning": "I'm having trouble with a lot of debt."
+  },
+  {
+    "sentence": "借金の帳尻を合わせる。",
+    "sentence_furigana": "借__金__の帳__尻__【__ちょう__じり__】を__合__わせる。",
+    "meaning": "To balance the books of debt."
+  },
+  {
+    "sentence": "借金を減らす努力。",
+    "sentence_furigana": "借__金__を__減__らす__努力__【__ど__りょく__】。",
+    "meaning": "Efforts to reduce debt."
+  },
+  {
+    "sentence": "借金を完済する。",
+    "sentence_furigana": "借__金__を__完__済__【__かん__さい__】する。",
+    "meaning": "To fully repay a debt."
+  },
+  {
+    "sentence": "借金せずに生活したい。",
+    "sentence_furigana": "借__金__せずに生活【せい__かつ__】したい。",
+    "meaning": "I want to live without debt."
+  },
+  {
+    "sentence": "借金に頼らない生き方。",
+    "sentence_furigana": "借__金__に__頼__らない__生__き__方__【__た__よ__ら__ない__い__き__か__た__】。",
+    "meaning": "A way of life that doesn't rely on debt."
+  },
+  {
+    "sentence": "借金を踏み倒された。",
+    "sentence_furigana": "借__金__を__踏__み__倒__された。",
+    "meaning": "My debt was defaulted on."
+  },
+  {
+    "sentence": "借金返済のめど。",
+    "sentence_furigana": "借__金__返__済__【__さい__】のめど。",
+    "meaning": "Prospect of debt repayment."
+  },
+  {
+    "sentence": "借金が氷山の一角だ。",
+    "sentence_furigana": "借__金__が氷__山__【__ひょう__ざん__】の__一__角__【__いっ__かく__】だ。",
+    "meaning": "The debt is just the tip of the iceberg."
+  },
+  {
+    "sentence": "借金で身動きが取れない。",
+    "sentence_furigana": "借__金__で身__動__き__が__取__れない。",
+    "meaning": "Unable to move due to debt."
+  },
+  {
+    "sentence": "借金の督促状。",
+    "sentence_furigana": "借__金__の督__促__状__【__とく__そく__じょう__】。",
+    "meaning": "A dunning letter for debt."
+  },
+  {
+    "sentence": "借金の元金を減らす。",
+    "sentence_furigana": "借__金__の元__金__【__もと__がね__】を__減__らす。",
+    "meaning": "Reduce the principal of the debt."
+  },
+  {
+    "sentence": "借金が膨らむ一方だ。",
+    "sentence_furigana": "借__金__が膨__ら__む__一方__【__いっ__ぽう__】だ。",
+    "meaning": "Debt is only increasing."
+  },
+  {
+    "sentence": "借金返済能力。",
+    "sentence_furigana": "借__金__返__済__【__さい__】能力__【__のう__りょく__】。",
+    "meaning": "Debt repayment ability."
+  },
+  {
+    "sentence": "借金問題の解決。",
+    "sentence_furigana": "借__金__問題__【__もんだい__】の解決__【__かい__けつ__】。",
+    "meaning": "Resolution of debt problems."
+  },
+  {
+    "sentence": "借金の繰り上げ返済。",
+    "sentence_furigana": "借__金__の繰__り__上__げ__返__済__【__へん__さい__】。",
+    "meaning": "Early repayment of debt."
+  },
+  {
+    "sentence": "借金の総額。",
+    "sentence_furigana": "借__金__の総__額__【__そう__がく__】。",
+    "meaning": "Total amount of debt."
+  },
+  {
+    "sentence": "借金の減免制度。",
+    "sentence_furigana": "借__金__の減__免__制度__【__げん__めん__せい__ど__】。",
+    "meaning": "Debt relief system."
+  },
+  {
+    "sentence": "借金の返済計画。",
+    "sentence_furigana": "借__金__の返__済__計画【けい__かく__】。",
+    "meaning": "Debt repayment plan."
+  },
+  {
+    "sentence": "借金の話はやめよう。",
+    "sentence_furigana": "借__金__の__話__【__はなし__】はやめよう。",
+    "meaning": "Let's stop talking about debt."
+  },
+  {
+    "sentence": "借金の担保。",
+    "sentence_furigana": "借__金__の__担保__【__たん__ぽ__】。",
+    "meaning": "Collateral for debt."
+  },
+  {
+    "sentence": "借金が原因で離婚した。",
+    "sentence_furigana": "借__金__が__原因__【__げん__いん__】で離婚__【__りこん__】した。",
+    "meaning": "Divorced due to debt."
+  },
+  {
+    "sentence": "借金の整理を始めた。",
+    "sentence_furigana": "借__金__の整理__【__せい__り__】を__始__めた。",
+    "meaning": "Started organizing debts."
+  },
+  {
+    "sentence": "借金を背負う。",
+    "sentence_furigana": "借__金__を__背__負__う。",
+    "meaning": "To bear debt."
+  },
+  {
+    "sentence": "借金が雪だるま式に増える。",
+    "sentence_furigana": "借__金__が雪__だるま__式__【__しき__】に__増__える。",
+    "meaning": "Debt increases like a snowball."
+  },
+  {
+    "sentence": "借金が返せない。",
+    "sentence_furigana": "借__金__が返__せない。",
+    "meaning": "Cannot repay debt."
+  },
+  {
+    "sentence": "借金の連帯保証人。",
+    "sentence_furigana": "借__金__の連__帯__保証__人__【__れん__たい__ほ__しょう__に__ん__】。",
+    "meaning": "Joint guarantor for debt."
+  },
+  {
+    "sentence": "借金の返済計画を立てる。",
+    "sentence_furigana": "借__金__の返__済__計画【けい__かく__】を立__てる。",
+    "meaning": "Make a debt repayment plan."
+  },
+  {
+    "sentence": "借金せずに生活を立て直す。",
+    "sentence_furigana": "借__金__せずに生活【せい__かつ__】を__立__ち__直__す__。",
+    "meaning": "Rebuild life without debt."
+  },
+  {
+    "sentence": "借金問題で悩んでいる。",
+    "sentence_furigana": "借__金__問題__【__もんだい__】で悩__んで__い__る。",
+    "meaning": "Worried about debt problems."
+  },
+  {
+    "sentence": "借金が原因で自殺した。",
+    "sentence_furigana": "借__金__が__原因__【__げん__いん__】で自殺__【__じさつ__】した。",
+    "meaning": "Committed suicide due to debt."
+  },
+  {
+    "sentence": "借金の返済能力がない。",
+    "sentence_furigana": "借__金__の返__済__能力__【__のう__りょく__】がない。",
+    "meaning": "Lacks the ability to repay debt."
+  },
+  {
+    "sentence": "借金がどんどん増える。",
+    "sentence_furigana": "借__金__がどんどん__増__える。",
+    "meaning": "Debt keeps increasing."
+  },
+  {
+    "sentence": "借金が生活を圧迫する。",
+    "sentence_furigana": "借__金__が生活【せい__かつ__】を__圧__迫__【__あつ__ぱ__く__】する。",
+    "meaning": "Debt pressures life."
+  },
+  {
+    "sentence": "借金で首が回らない。",
+    "sentence_furigana": "借__金__で首__が__回__ら__ない。",
+    "meaning": "Can't make ends meet due to debt."
+  },
+  {
+    "sentence": "借金の返済を滞納した。",
+    "sentence_furigana": "借__金__の返__済__を__滞__納__【__たい__のう__】した。",
+    "meaning": "Defaulted on debt repayment."
+  },
+  {
+    "sentence": "借金の帳尻が合わない。",
+    "sentence_furigana": "借__金__の帳__尻__【__ちょう__じり__】が__合__わない。",
+    "meaning": "The debt accounts don't balance."
+  },
+  {
+    "sentence": "借金が原因で家庭が崩壊した。",
+    "sentence_furigana": "借__金__が__原因__【__げん__いん__】で__家庭__【__か__てい__】が__崩__壊__【__ほう__かい__】した。",
+    "meaning": "The family collapsed due to debt."
+  },
+  {
+    "sentence": "借金が返済できない。",
+    "sentence_furigana": "借__金__が返__済__できない。",
+    "meaning": "Cannot repay the debt."
+  },
+  {
+    "sentence": "借金がどんどん増える一方だ。",
+    "sentence_furigana": "借__金__がどんどん__増__える__一方__【__いっ__ぽう__】だ。",
+    "meaning": "Debt is only increasing."
+  },
+  {
+    "sentence": "借金で心労が絶えない。",
+    "sentence_furigana": "借__金__で心__労__【__しん__ろう__】が__絶__えない。",
+    "meaning": "Endless mental stress due to debt."
+  },
+  {
+    "sentence": "借金の催促が厳しくなった。",
+    "sentence_furigana": "借__金__の催__促__【__さい__そく__】が__厳__しく__なった。",
+    "meaning": "Debt collection has become stricter."
+  },
+  {
+    "sentence": "借金の元利を計算する。",
+    "sentence_furigana": "借__金__の元__利__【__もと__ず__み__】を__計算__【__けい__さん__】する。",
+    "meaning": "Calculate the principal and interest of the debt."
+  },
+  {
+    "sentence": "借金の返済を滞納している。",
+    "sentence_furigana": "借__金__の返__済__を__滞__納__【__たい__のう__】して__い__る。",
+    "meaning": "Is in arrears with debt repayment."
+  },
+  {
+    "sentence": "借金の帳尻を合わせるのに苦労している。",
+    "sentence_furigana": "借__金__の帳__尻__【__ちょう__じり__】を__合__わせる__のに__苦__労__して__い__る。",
+    "meaning": "Struggling to balance the debt accounts."
+  },
+  {
+    "sentence": "借金の返済が滞る。",
+    "sentence_furigana": "借__金__の返__済__が__滞__る。",
+    "meaning": "Debt repayment is delayed."
+  },
+  {
+    "sentence": "借金の返済計画を見直す。",
+    "sentence_furigana": "借__金__の返__済__計画【けい__かく__】を__見__直__す__。",
+    "meaning": "Review the debt repayment plan."
+  },
+  {
+    "sentence": "借金で首が回らなくなった。",
+    "sentence_furigana": "借__金__で首__が__回__ら__なくなった。",
+    "meaning": "Became unable to manage due to debt."
+  },
+  {
+    "sentence": "借金が雪だるま式に膨れ上がった。",
+    "sentence_furigana": "借__金__が雪__だるま__式__【__しき__】に__膨__れ__上__がった。",
+    "meaning": "Debt ballooned like a snowball."
+  }
+]

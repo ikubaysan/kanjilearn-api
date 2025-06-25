@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "群衆が熱狂的に応援している。",
+    "sentence_furigana": "群衆【ぐんしゅう】が熱狂的【ねっきょうてき】に応援【おうえん】している。",
+    "meaning": "The crowd is cheering enthusiastically."
+  },
+  {
+    "sentence": "羊の群れが牧草地を歩いていた。",
+    "sentence_furigana": "羊【ひつじ】の群【む】れが牧草地【ぼくそうち】を歩【ある】いていた。",
+    "meaning": "A flock of sheep was walking across the pasture."
+  },
+  {
+    "sentence": "鳥の群れが空を横切った。",
+    "sentence_furigana": "鳥【とり】の群【む】れが空【そら】を横切【よこぎ】った。",
+    "meaning": "A flock of birds crossed the sky."
+  },
+  {
+    "sentence": "人々が広場に群がっていた。",
+    "sentence_furigana": "人々【ひとびと】が広場【ひろば】に群【む】がっていた。",
+    "meaning": "People were gathering in the plaza."
+  },
+  {
+    "sentence": "この地域には多くの学校があります。",
+    "sentence_furigana": "この地域【ちいき】には多【おお】くの学校【がっこう】があります。",
+    "meaning": "There are many schools in this area."
+  },
+  {
+    "sentence": "彼は群を抜く才能の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は群【む】を抜【ぬ】く才能【さいのう】の持【も】ち主【ぬし】だ。",
+    "meaning": "He possesses outstanding talent."
+  },
+  {
+    "sentence": "群青色が美しく空に広がる。",
+    "sentence_furigana": "群青色【ぐんじょういろ】が美【うつく】しく空【そら】に広【ひろ】がる。",
+    "meaning": "The ultramarine color spreads beautifully across the sky."
+  },
+  {
+    "sentence": "群馬県は自然豊かな場所です。",
+    "sentence_furigana": "群馬県【ぐんまけん】は自然豊【しぜんとよ】かな場所【ばしょ】です。",
+    "meaning": "Gunma Prefecture is a place rich in nature."
+  },
+  {
+    "sentence": "群発頭痛に悩まされています。",
+    "sentence_furigana": "群発頭痛【ぐんぱつずつう】に悩【なや】まされています。",
+    "meaning": "I am suffering from cluster headaches."
+  },
+  {
+    "sentence": "魚の群れが水面を泳いでいた。",
+    "sentence_furigana": "魚【さかな】の群【む】れが水面【すいめん】を泳【およ】いでいた。",
+    "meaning": "A school of fish was swimming on the surface of the water."
+  },
+  {
+    "sentence": "観光客の群れが寺院に押し寄せた。",
+    "sentence_furigana": "観光客【かんこうきゃく】の群【む】れが寺院【じいん】に押【お】し寄【よ】せた。",
+    "meaning": "A crowd of tourists swarmed the temple."
+  },
+  {
+    "sentence": "群れからはぐれた子羊がいた。",
+    "sentence_furigana": "群【む】れからはぐれた子羊【こひつじ】がいた。",
+    "meaning": "There was a lamb that had strayed from the flock."
+  },
+  {
+    "sentence": "群集心理は時に恐ろしい。",
+    "sentence_furigana": "群集心理【ぐんしゅうしんり】は時【とき】に恐【おそ】ろしい。",
+    "meaning": "Crowd psychology can be frightening at times."
+  },
+  {
+    "sentence": "ハエの群れが食べ物にたかっていた。",
+    "sentence_furigana": "ハエの群【む】れが食【た】べ物【もの】にたかっていた。",
+    "meaning": "A swarm of flies was gathering around the food."
+  },
+  {
+    "sentence": "星雲の群れが遠くに見える。",
+    "sentence_furigana": "星雲【せいうん】の群【む】れが遠【とお】くに見【み】える。",
+    "meaning": "A cluster of nebulae is visible in the distance."
+  },
+  {
+    "sentence": "犯罪者の群れを逮捕した。",
+    "sentence_furigana": "犯罪者【はんざいしゃ】の群【む】れを逮捕【たいほ】した。",
+    "meaning": "They arrested a group of criminals."
+  },
+  {
+    "sentence": "群れることを好まない彼は孤立していた。",
+    "sentence_furigana": "群【む】れることを好【この】まない彼【かれ】は孤立【こりつ】していた。",
+    "meaning": "He was isolated, not liking to group together."
+  },
+  {
+    "sentence": "この花は一輪でも群生しても美しい。",
+    "sentence_furigana": "この花【はな】は一輪【いちりん】でも群生【ぐんせい】しても美【うつく】しい。",
+    "meaning": "This flower is beautiful whether it's alone or growing in a cluster."
+  },
+  {
+    "sentence": "子供たちの群れが公園で遊んでいた。",
+    "sentence_furigana": "子供【こども】たちの群【む】れが公園【こうえん】で遊【あそ】んでいた。",
+    "meaning": "A group of children was playing in the park."
+  },
+  {
+    "sentence": "群雲が空を覆っていた。",
+    "sentence_furigana": "群雲【むらぐも】が空【そら】を覆【おお】っていた。",
+    "meaning": "Masses of clouds covered the sky."
+  },
+  {
+    "sentence": "群馬県は上毛かるたが有名です。",
+    "sentence_furigana": "群馬県【ぐんまけん】は上毛かるた【じょうもうかるた】が有名【ゆうめい】です。",
+    "meaning": "Gunma Prefecture is famous for Jomo Karuta."
+  },
+  {
+    "sentence": "群集がパニックに陥った。",
+    "sentence_furigana": "群集【ぐんしゅう】がパニックに陥【おちい】った。",
+    "meaning": "The crowd fell into a panic."
+  },
+  {
+    "sentence": "群衆はイベントの開始を待ちきれない様子だった。",
+    "sentence_furigana": "群衆【ぐんしゅう】はイベントの開始【かいし】を待【ま】ちきれない様子【ようす】だった。",
+    "meaning": "The crowd seemed unable to wait for the event to start."
+  },
+  {
+    "sentence": "バッタの群れが大発生した。",
+    "sentence_furigana": "バッタの群【む】れが大発生【だいハッセイ】した。",
+    "meaning": "A swarm of locusts caused a major outbreak."
+  },
+  {
+    "sentence": "その鳥は群れをなして飛んでいた。",
+    "sentence_furigana": "その鳥【とり】は群【む】れをなして飛【と】んでいた。",
+    "meaning": "The birds were flying in a flock."
+  },
+  {
+    "sentence": "群れて行動する傾向がある。",
+    "sentence_furigana": "群【む】れて行動【こうどう】する傾向【けいこう】がある。",
+    "meaning": "There is a tendency to act in groups."
+  },
+  {
+    "sentence": "群青の海が目に染みた。",
+    "sentence_furigana": "群青【ぐんじょう】の海【うみ】が目【め】に染【し】みた。",
+    "meaning": "The deep blue sea struck my eyes."
+  },
+  {
+    "sentence": "群生する植物の調査。",
+    "sentence_furigana": "群生【ぐんせい】する植物【しょくぶつ】の調査【ちょうさ】。",
+    "meaning": "A survey of gregarious plants."
+  },
+  {
+    "sentence": "群集車が事故を起こした。",
+    "sentence_furigana": "群集車【ぐんしゅうしゃ】が事故【じこ】を起【お】こした。",
+    "meaning": "A pile-up of cars caused an accident."
+  },
+  {
+    "sentence": "群を抜く実力者だ。",
+    "sentence_furigana": "群【む】を抜【ぬ】く実力者【じつりょくしゃ】だ。",
+    "meaning": "He is a person of outstanding ability."
+  },
+  {
+    "sentence": "群馬県のゆるキャラはぐんまちゃんです。",
+    "sentence_furigana": "群馬県【ぐんまけん】のゆるキャラはぐんまちゃんです。",
+    "meaning": "Gunma Prefecture's mascot character is Gunma-chan."
+  },
+  {
+    "sentence": "群盲象を撫でるの故事を思い出した。",
+    "sentence_furigana": "群盲象【ぐんもうぞう】を撫【な】でるの故事【こじ】を思【おも】い出【だ】した。",
+    "meaning": "I remembered the parable of the blind men and the elephant."
+  },
+  {
+    "sentence": "群衆の中に紛れ込んだ。",
+    "sentence_furigana": "群衆【ぐんしゅう】の中【なか】に紛【まぎ】れ込【こ】んだ。",
+    "meaning": "I blended into the crowd."
+  },
+  {
+    "sentence": "群れて行動する方が安全だと考えた。",
+    "sentence_furigana": "群【む】れて行動【こうどう】する方【ほう】が安全【あんぜん】だと考【かんが】えた。",
+    "meaning": "I thought it was safer to act in a group."
+  },
+  {
+    "sentence": "アリの群れが巣を作っていた。",
+    "sentence_furigana": "アリの群【む】れが巣【す】を作【つく】っていた。",
+    "meaning": "A colony of ants was building its nest."
+  },
+  {
+    "sentence": "群青色の空が広がっていた。",
+    "sentence_furigana": "群青色【ぐんじょういろ】の空【そら】が広【ひろ】がっていた。",
+    "meaning": "The deep blue sky was spreading out."
+  },
+  {
+    "sentence": "群馬県は温泉地としても有名です。",
+    "sentence_furigana": "群馬県【ぐんまけん】は温泉地【おんせんち】としても有名【ゆうめい】です。",
+    "meaning": "Gunma Prefecture is also famous as a hot spring resort."
+  },
+  {
+    "sentence": "群発地震の調査が進んでいる。",
+    "sentence_furigana": "群発地震【ぐんぱつじしん】の調査【ちょうさ】が進【すす】んでいる。",
+    "meaning": "Research on swarming earthquakes is progressing."
+  },
+  {
+    "sentence": "この歌手は多くのファンに支持されている。",
+    "sentence_furigana": "この歌手【かしゅ】は多【おお】くのファンに支持【しじ】されている。",
+    "meaning": "This singer is supported by many fans."
+  },
+  {
+    "sentence": "群れからはぐれた子犬を見つけた。",
+    "sentence_furigana": "群【む】れからはぐれた子犬【こいぬ】を見【み】つけた。",
+    "meaning": "I found a puppy that had strayed from its group."
+  },
+  {
+    "sentence": "群集が歓声を上げた。",
+    "sentence_furigana": "群集【ぐんしゅう】が歓声【かんせい】を上【あ】げた。",
+    "meaning": "The crowd cheered."
+  },
+  {
+    "sentence": "群れをなす習慣がある。",
+    "sentence_furigana": "群【む】れをなす習慣【しゅうかん】がある。",
+    "meaning": "They have a habit of forming groups."
+  },
+  {
+    "sentence": "群馬県出身の友人がいる。",
+    "sentence_furigana": "群馬県【ぐんまけん】出身【しゅっしん】の友人【ゆうじん】がいる。",
+    "meaning": "I have a friend from Gunma Prefecture."
+  },
+  {
+    "sentence": "群盲象を摸するとは、真実の一部分しか見えないことの例えだ。",
+    "sentence_furigana": "群盲象【ぐんもうぞう】を摸【も】するとは、真実【しんじつ】の一部分【いちぶぶん】しか見【み】えないことの例【たと】えだ。",
+    "meaning": "The saying 'blind men touching an elephant' is an example of seeing only a part of the truth."
+  },
+  {
+    "sentence": "群青色の絵の具で空を描いた。",
+    "sentence_furigana": "群青色【ぐんじょういろ】の絵の具【えのぐ】で空【そら】を描【か】いた。",
+    "meaning": "I painted the sky with ultramarine paint."
+  },
+  {
+    "sentence": "群衆整理員が観客を誘導している。",
+    "sentence_furigana": "群衆整理員【ぐんしゅうせいりいん】が観客【かんきゃく】を誘導【ゆうどう】している。",
+    "meaning": "Crowd control officers are guiding the spectators."
+  },
+  {
+    "sentence": "蝶の群れが花壇に集まっていた。",
+    "sentence_furigana": "蝶【ちょう】の群【む】れが花壇【かだん】に集【あつ】まっていた。",
+    "meaning": "A swarm of butterflies was gathered in the flower bed."
+  },
+  {
+    "sentence": "彼は群を抜くリーダーシップを発揮した。",
+    "sentence_furigana": "彼【かれ】は群【む】を抜【ぬ】くリーダーシップを発揮【はっき】した。",
+    "meaning": "He demonstrated outstanding leadership."
+  },
+  {
+    "sentence": "この山の群生する植物は珍しい。",
+    "sentence_furigana": "この山【やま】の群生【ぐんせい】する植物【しょくぶつ】は珍【めずら】しい。",
+    "meaning": "The gregarious plants on this mountain are rare."
+  },
+  {
+    "sentence": "群馬県の特産品はこんにゃくだ。",
+    "sentence_furigana": "群馬県【ぐんまけん】の特産品【とくさんひん】はこんにゃくだ。",
+    "meaning": "Konjac is a specialty product of Gunma Prefecture."
+  },
+  {
+    "sentence": "群衆が波のように押し寄せた。",
+    "sentence_furigana": "群衆【ぐんしゅう】が波【なみ】のように押【お】し寄【よ】せた。",
+    "meaning": "The crowd surged like a wave."
+  },
+  {
+    "sentence": "群青色の夜空が美しい。",
+    "sentence_furigana": "群青色【ぐんじょういろ】の夜空【よぞら】が美【うつく】しい。",
+    "meaning": "The deep blue night sky is beautiful."
+  },
+  {
+    "sentence": "群れで行動することで安全を確保する。",
+    "sentence_furigana": "群【む】れで行動【こうどう】することで安全【あんぜん】を確保【かくほ】する。",
+    "meaning": "They ensure safety by acting in groups."
+  },
+  {
+    "sentence": "群馬県のマスコットキャラクターは有名だ。",
+    "sentence_furigana": "群馬県【ぐんまけん】のマスコットキャラクターは有名【ゆうめい】だ。",
+    "meaning": "Gunma Prefecture's mascot character is famous."
+  },
+  {
+    "sentence": "アリの一群が食べ物を運んでいた。",
+    "sentence_furigana": "アリの一群【いちぐん】が食【た】べ物【もの】を運【はこ】んでいた。",
+    "meaning": "A group of ants was carrying food."
+  },
+  {
+    "sentence": "群れからはぐれた迷子。",
+    "sentence_furigana": "群【む】れからはぐれた迷子【まいご】。",
+    "meaning": "A lost child separated from the group."
+  },
+  {
+    "sentence": "群衆が興奮して叫んだ。",
+    "sentence_furigana": "群衆【ぐんしゅう】が興奮【こうふん】して叫【さけ】んだ。",
+    "meaning": "The crowd got excited and shouted."
+  },
+  {
+    "sentence": "群青色のシャツを着ている。",
+    "sentence_furigana": "群青色【ぐんじょういろ】のシャツを着【き】ている。",
+    "meaning": "I am wearing a deep blue shirt."
+  },
+  {
+    "sentence": "群馬県への旅行を計画している。",
+    "sentence_furigana": "群馬県【ぐんまけん】への旅行【りょこう】を計画【けいかく】している。",
+    "meaning": "I am planning a trip to Gunma Prefecture."
+  },
+  {
+    "sentence": "群生する植物の観察記録。",
+    "sentence_furigana": "群生【ぐんせい】する植物【しょくぶつ】の観察記録【かんさつきろく】。",
+    "meaning": "Observation records of gregarious plants."
+  },
+  {
+    "sentence": "群を抜く芸術家として尊敬されている。",
+    "sentence_furigana": "群【む】を抜【ぬ】く芸術家【げいじゅつか】として尊敬【そんけい】されている。",
+    "meaning": "He is respected as an outstanding artist."
+  },
+  {
+    "sentence": "群集がスタジアムを埋め尽くした。",
+    "sentence_furigana": "群集【ぐんしゅう】がスタジアムを埋【う】め尽【つ】くした。",
+    "meaning": "The crowd filled the stadium."
+  },
+  {
+    "sentence": "群馬県には多くの温泉がある。",
+    "sentence_furigana": "群馬県【ぐんまけん】には多【おお】くの温泉【おんせん】がある。",
+    "meaning": "There are many hot springs in Gunma Prefecture."
+  },
+  {
+    "sentence": "群れをなして泳ぐ魚たち。",
+    "sentence_furigana": "群【む】れをなして泳【およ】ぐ魚【さかな】たち。",
+    "meaning": "Fish swimming in schools."
+  },
+  {
+    "sentence": "群衆が歓喜の声を上げた。",
+    "sentence_furigana": "群衆【ぐんしゅう】が歓喜【かんき】の声【こえ】を上【あ】げた。",
+    "meaning": "The crowd let out cries of joy."
+  },
+  {
+    "sentence": "群馬県は農業が盛んです。",
+    "sentence_furigana": "群馬県【ぐんまけん】は農業【のうぎょう】が盛【さか】んです。",
+    "meaning": "Agriculture is prosperous in Gunma Prefecture."
+  },
+  {
+    "sentence": "群盲象を評する。",
+    "sentence_furigana": "群盲象【ぐんもうぞう】を評【ひょう】する。",
+    "meaning": "To describe the elephant by the blind men."
+  },
+  {
+    "sentence": "群青のインクで手紙を書く。",
+    "sentence_furigana": "群青【ぐんじょう】のインクで手紙【てがみ】を書【か】く。",
+    "meaning": "I write a letter with deep blue ink."
+  },
+  {
+    "sentence": "群生する竹林を見た。",
+    "sentence_furigana": "群生【ぐんせい】する竹林【ちくりん】を見【み】た。",
+    "meaning": "I saw a dense bamboo forest."
+  },
+  {
+    "sentence": "群衆の中から彼を見つけた。",
+    "sentence_furigana": "群衆【ぐんしゅう】の中【なか】から彼【かれ】を見【み】つけた。",
+    "meaning": "I found him in the crowd."
+  },
+  {
+    "sentence": "群馬県のゆるキャラ、ぐんまちゃん。",
+    "sentence_furigana": "群馬県【ぐんまけん】のゆるキャラ、ぐんまちゃん。",
+    "meaning": "Gunma Prefecture's mascot character, Gunma-chan."
+  },
+  {
+    "sentence": "群れをなして飛ぶ鳥。",
+    "sentence_furigana": "群【む】れをなして飛【と】ぶ鳥【とり】。",
+    "meaning": "Birds flying in flocks."
+  },
+  {
+    "sentence": "群集心理が加熱していく。",
+    "sentence_furigana": "群集心理【ぐんしゅうしんり】が加熱【かねつ】していく。",
+    "meaning": "Crowd psychology is heating up."
+  },
+  {
+    "sentence": "群馬県は自然景観が豊かだ。",
+    "sentence_furigana": "群馬県【ぐんまけん】は自然景観【しぜんけいかん】が豊【ゆた】かだ。",
+    "meaning": "Gunma Prefecture has abundant natural landscapes."
+  },
+  {
+    "sentence": "群発性の頭痛に悩まされている。",
+    "sentence_furigana": "群発性【ぐんぱつせい】の頭痛【ずつう】に悩【なや】まされている。",
+    "meaning": "I am suffering from episodic headaches."
+  },
+  {
+    "sentence": "群青のキャンバスに絵を描く。",
+    "sentence_furigana": "群青【ぐんじょう】のキャンバスに絵【え】を描【か】く。",
+    "meaning": "I paint on a deep blue canvas."
+  },
+  {
+    "sentence": "群衆が興奮で沸いた。",
+    "sentence_furigana": "群衆【ぐんしゅう】が興奮【こうふん】で沸【わ】いた。",
+    "meaning": "The crowd was excited."
+  },
+  {
+    "sentence": "群馬県の美味しい食べ物は何ですか。",
+    "sentence_furigana": "群馬県【ぐんまけん】の美味【おい】しい食【た】べ物【もの】は何【なん】ですか。",
+    "meaning": "What are the delicious foods of Gunma Prefecture?"
+  },
+  {
+    "sentence": "群を抜く美しさを持った女性。",
+    "sentence_furigana": "群【む】を抜【ぬ】く美【うつく】しさを持【も】った女性【じょせい】。",
+    "meaning": "A woman of outstanding beauty."
+  },
+  {
+    "sentence": "群衆が一つになって応援した。",
+    "sentence_furigana": "群衆【ぐんしゅう】が一つになって応援【おうえん】した。",
+    "meaning": "The crowd united in their support."
+  },
+  {
+    "sentence": "群集が歓声をあげる。",
+    "sentence_furigana": "群集【ぐんしゅう】が歓声【かんせい】をあげる。",
+    "meaning": "The crowd cheers."
+  },
+  {
+    "sentence": "群馬県は交通の便が良い。",
+    "sentence_furigana": "群馬県【ぐんまけん】は交通【こうつう】の便【べん】が良い【よい】。",
+    "meaning": "Gunma Prefecture is conveniently located for transportation."
+  },
+  {
+    "sentence": "群れをなして移動する。",
+    "sentence_furigana": "群【む】れをなして移動【いどう】する。",
+    "meaning": "They move in herds."
+  },
+  {
+    "sentence": "群馬県は多くの観光名所がある。",
+    "sentence_furigana": "群馬県【ぐんまけん】は多【おお】くの観光名所【かんこうめいしょ】がある。",
+    "meaning": "Gunma Prefecture has many tourist attractions."
+  },
+  {
+    "sentence": "群衆が熱狂的に喝采を送った。",
+    "sentence_furigana": "群衆【ぐんしゅう】が熱狂的【ねっきょうてき】に喝采【かっさい】を送【おく】った。",
+    "meaning": "The crowd gave enthusiastic applause."
+  },
+  {
+    "sentence": "群馬県産の野菜は美味しい。",
+    "sentence_furigana": "群馬県【ぐんまけん】産【さん】の野菜【やさい】は美味【おい】しい。",
+    "meaning": "Vegetables produced in Gunma Prefecture are delicious."
+  },
+  {
+    "sentence": "群を抜く才能の持ち主。",
+    "sentence_furigana": "群【む】を抜【ぬ】く才能【さいのう】の持【も】ち主【ぬし】。",
+    "meaning": "A person with outstanding talent."
+  },
+  {
+    "sentence": "群馬県民謡の保存会。",
+    "sentence_furigana": "群馬県民謡【ぐんまけんみんよう】の保存会【ほぞんかい】。",
+    "meaning": "Association for the preservation of Gunma Prefecture folk songs."
+  },
+  {
+    "sentence": "群衆の前に立つ。",
+    "sentence_furigana": "群衆【ぐんしゅう】の前【まえ】に立【た】つ。",
+    "meaning": "To stand before the crowd."
+  },
+  {
+    "sentence": "群馬県は工業も盛んです。",
+    "sentence_furigana": "群馬県【ぐんまけん】は工業【こうぎょう】も盛【さか】んです。",
+    "meaning": "Industry is also prosperous in Gunma Prefecture."
+  },
+  {
+    "sentence": "群青色は落ち着く色だ。",
+    "sentence_furigana": "群青色【ぐんじょういろ】は落【お】ち着【つ】く色【いろ】だ。",
+    "meaning": "Deep blue is a calming color."
+  },
+  {
+    "sentence": "群れからはぐれたオオカミ。",
+    "sentence_furigana": "群【む】れからはぐれたオオカミ。",
+    "meaning": "A wolf strayed from the pack."
+  },
+  {
+    "sentence": "群馬県のスキー場。",
+    "sentence_furigana": "群馬県【ぐんまけん】のスキー場【じょう】。",
+    "meaning": "Ski resorts in Gunma Prefecture."
+  },
+  {
+    "sentence": "群衆が嵐のように押し寄せた。",
+    "sentence_furigana": "群衆【ぐんしゅう】が嵐【あらし】のように押【お】し寄【よ】せた。",
+    "meaning": "The crowd surged like a storm."
+  },
+  {
+    "sentence": "群衆整理が必要だ。",
+    "sentence_furigana": "群衆整理【ぐんしゅうせいり】が必要【ひつよう】だ。",
+    "meaning": "Crowd management is necessary."
+  },
+  {
+    "sentence": "群馬県は製造業が盛んな地域です。",
+    "sentence_furigana": "群馬県【ぐんまけん】は製造業【せいぞうぎょう】が盛【さか】んな地域【ちいき】です。",
+    "meaning": "Gunma Prefecture is an area where manufacturing is prosperous."
+  },
+  {
+    "sentence": "群衆が集まって騒いでいる。",
+    "sentence_furigana": "群衆【ぐんしゅう】が集【あつ】まって騒【さわ】いでいる。",
+    "meaning": "A crowd has gathered and is making noise."
+  },
+  {
+    "sentence": "群馬県のマスコットキャラクターは有名だ。",
+    "sentence_furigana": "群馬県【ぐんまけん】のマスコットキャラクターは有名【ゆうめい】だ。",
+    "meaning": "Gunma Prefecture's mascot character is famous."
+  },
+  {
+    "sentence": "群衆は熱狂していた。",
+    "sentence_furigana": "群衆【ぐんしゅう】は熱狂【ねっきょう】していた。",
+    "meaning": "The crowd was frenzied."
+  },
+  {
+    "sentence": "群馬県は温泉が多くて有名です。",
+    "sentence_furigana": "群馬県【ぐんまけん】は温泉【おんせん】が多く【おお】くて有名【ゆうめい】です。",
+    "meaning": "Gunma Prefecture is famous for its many hot springs."
+  },
+  {
+    "sentence": "群衆の前でスピーチをした。",
+    "sentence_furigana": "群衆【ぐんしゅう】の前【まえ】でスピーチをした。",
+    "meaning": "I gave a speech in front of the crowd."
+  },
+  {
+    "sentence": "群を抜く才能。",
+    "sentence_furigana": "群【む】を抜【ぬ】く才能【さいのう】。",
+    "meaning": "Outstanding talent."
+  },
+  {
+    "sentence": "群馬県の特産品は何ですか。",
+    "sentence_furigana": "群馬県【ぐんまけん】の特産品【とくさんひん】は何【なん】ですか。",
+    "meaning": "What are the specialty products of Gunma Prefecture?"
+  },
+  {
+    "sentence": "群衆が静かに待っている。",
+    "sentence_furigana": "群衆【ぐんしゅう】が静【しず】かに待【ま】っている。",
+    "meaning": "The crowd is waiting quietly."
+  },
+  {
+    "sentence": "群馬県は富岡製糸場があることで有名です。",
+    "sentence_furigana": "群馬県【ぐんまけん】は富岡製糸場【とみおかせいしじょう】があることで有名【ゆうめい】です。",
+    "meaning": "Gunma Prefecture is famous for the Tomioka Silk Mill."
+  }
+]

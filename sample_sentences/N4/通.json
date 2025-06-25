@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "この道は交通量が多い。",
+    "sentence_furigana": "この道【みち】は交通量【こうつうりょう】が多【おお】い。",
+    "meaning": "The traffic volume on this road is high."
+  },
+  {
+    "sentence": "駅まで徒歩５分で通えます。",
+    "sentence_furigana": "駅【えき】まで徒歩【とほ】５分【ふん】で通【かよ】えます。",
+    "meaning": "It's a 5-minute walk to the station."
+  },
+  {
+    "sentence": "その手紙は無事に通関した。",
+    "sentence_furigana": "その手紙【てがみ】は無事【ぶじ】に通貨【つうか】した。",
+    "meaning": "The letter passed through customs without incident."
+  },
+  {
+    "sentence": "彼は学校に毎日通っている。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】に毎日【まいにち】通【かよ】っている。",
+    "meaning": "He commutes to school every day."
+  },
+  {
+    "sentence": "この通りは一方通行です。",
+    "sentence_furigana": "この通【とお】り は 一方通行【いっぽうつうこう】です。",
+    "meaning": "This street is one-way."
+  },
+  {
+    "sentence": "水道が通っているか確認してください。",
+    "sentence_furigana": "水道【すいどう】が通【とお】っているか確認【かくにん】してください。",
+    "meaning": "Please check if the water supply is on."
+  },
+  {
+    "sentence": "この件は上司に通りが必要です。",
+    "sentence_furigana": "この件【けん】は上司【じょうし】に通【とお】りが必要【ひつよう】です。",
+    "meaning": "This matter needs to be passed by the supervisor."
+  },
+  {
+    "sentence": "彼女はいつも明るく、誰とでも通じる。",
+    "sentence_furigana": "彼女【かのじょ】はいつも明【あか】るく、誰【だれ】とでも通【つう】じる。",
+    "meaning": "She is always cheerful and connects with everyone."
+  },
+  {
+    "sentence": "新しい法律が通過しました。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】が通過【つうか】しました。",
+    "meaning": "The new law has passed."
+  },
+  {
+    "sentence": "ここはよく通る道です。",
+    "sentence_furigana": "ここ は よく通【とお】る道【みち】です。",
+    "meaning": "This is a frequently used road."
+  },
+  {
+    "sentence": "彼は試験に合格して、大学に通っている。",
+    "sentence_furigana": "彼【かれ】は試験【しけん】に合格【ごうかく】して、大学【だいがく】に通【かよ】っている。",
+    "meaning": "He passed the exam and is attending university."
+  },
+  {
+    "sentence": "交通渋滞がひどい。",
+    "sentence_furigana": "交通【こうつう】渋滞【じゅうたい】がひどい。",
+    "meaning": "The traffic jam is terrible."
+  },
+  {
+    "sentence": "この切符はどこでも通用しますか？",
+    "sentence_furigana": "この切符【きっぷ】はどこでも通用【つうよう】しますか？",
+    "meaning": "Is this ticket valid everywhere?"
+  },
+  {
+    "sentence": "通信販売で買い物をした。",
+    "sentence_furigana": "通信販売【つうしんはんばい】で買【か】い物【もの】をした。",
+    "meaning": "I did some shopping through mail order."
+  },
+  {
+    "sentence": "彼はいつもその道を通り抜ける。",
+    "sentence_furigana": "彼【かれ】はいつもその道【みち】を通【とお】り抜【ぬ】ける。",
+    "meaning": "He always passes through that road."
+  },
+  {
+    "sentence": "この薬は胃に通りにくい。",
+    "sentence_furigana": "この薬【くすり】は胃【い】に通り【とお】りにくい。",
+    "meaning": "This medicine is difficult to digest."
+  },
+  {
+    "sentence": "彼は秘密の通路を通って逃げた。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】の通路【つうろ】を通【とお】って逃【に】げた。",
+    "meaning": "He escaped through a secret passage."
+  },
+  {
+    "sentence": "この情報は広く通達されています。",
+    "sentence_furigana": "この情報【じょうほう】は広【ひろ】く通達【つうたつ】されています。",
+    "meaning": "This information has been widely notified."
+  },
+  {
+    "sentence": "通勤ラッシュで電車が遅れた。",
+    "sentence_furigana": "通勤【つうきん】ラッシュで電車【でんしゃ】が遅【おく】れた。",
+    "meaning": "The train was delayed due to the morning rush hour."
+  },
+  {
+    "sentence": "彼は法律に詳しい。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】に詳【くわ】しい。",
+    "meaning": "He is knowledgeable about the law."
+  },
+  {
+    "sentence": "この信号は３通りに変わる。",
+    "sentence_furigana": "この信号【しんごう】は３通【どお】りに変【か】わる。",
+    "meaning": "This signal changes in three ways."
+  },
+  {
+    "sentence": "彼女はいつも明るく、誰とでも話が通じる。",
+    "sentence_furigana": "彼女【かのじょ】はいつも明【あか】るく、誰【だれ】とでも話【はな】しが通【つう】じる。",
+    "meaning": "She is always cheerful and can communicate with anyone."
+  },
+  {
+    "sentence": "この通りはいつも車が多い。",
+    "sentence_furigana": "この通【とお】り は いつも車【くるま】が多【おお】い。",
+    "meaning": "There are always many cars on this street."
+  },
+  {
+    "sentence": "彼は電信で連絡してきた。",
+    "sentence_furigana": "彼【かれ】は電信【でんしん】で連絡【れんらく】してきた。",
+    "meaning": "He contacted me by telegraph."
+  },
+  {
+    "sentence": "この商品は全国で通用する。",
+    "sentence_furigana": "この商品【しょうひん】は全国【ぜんこく】で通用【つうよう】する。",
+    "meaning": "This product is valid nationwide."
+  },
+  {
+    "sentence": "彼は大学を卒業して、会社に就職した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】を卒業【そつぎょう】して、会社【かいしゃ】に就職【しゅうしょく】した。",
+    "meaning": "He graduated from university and got a job at a company."
+  },
+  {
+    "sentence": "このドアは内側からしか通れません。",
+    "sentence_furigana": "このドアは内側【うちがわ】からしか通【とお】れません。",
+    "meaning": "You can only pass through this door from the inside."
+  },
+  {
+    "sentence": "彼の話はいつも分かりやすい。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも分【わ】かりやすい。",
+    "meaning": "His explanations are always easy to understand."
+  },
+  {
+    "sentence": "交通手段は何を使いますか？",
+    "sentence_furigana": "交通【こうつう】手段【しゅだん】は 何【なん】を 使【つか】いますか？",
+    "meaning": "What means of transportation do you use?"
+  },
+  {
+    "sentence": "彼は昔からこの道を通っている。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】からこの道【みち】を通【とお】っている。",
+    "meaning": "He has been using this road since long ago."
+  },
+  {
+    "sentence": "この書類は部を通りしないといけない。",
+    "sentence_furigana": "この書類【しょるい】は部【ぶ】を通【とお】りしないといけない。",
+    "meaning": "This document must be passed through the department."
+  },
+  {
+    "sentence": "彼女はいつも明るく、人の話が通じる。",
+    "sentence_furigana": "彼女【かのじょ】はいつも明【あか】るく、人【ひと】の話【はなし】が通【つう】じる。",
+    "meaning": "She is always cheerful and understands what people say."
+  },
+  {
+    "sentence": "交通ルールを守りましょう。",
+    "sentence_furigana": "交通【こうつう】ルールを守【まも】りましょう。",
+    "meaning": "Let's follow the traffic rules."
+  },
+  {
+    "sentence": "この通路は子供でも通れます。",
+    "sentence_furigana": "この通路【つうろ】は子供【こども】でも通【とお】れます。",
+    "meaning": "Even children can pass through this passage."
+  },
+  {
+    "sentence": "彼は試験に合格し、大学へ通学している。",
+    "sentence_furigana": "彼【かれ】は試験【しけん】に合格【ごうかく】し、大学【だいがく】へ通学【つうがく】している。",
+    "meaning": "He passed the exam and is commuting to university."
+  },
+  {
+    "sentence": "この手紙は宛先に通じなかった。",
+    "sentence_furigana": "この手紙【てがみ】は宛先【あてさき】に通【つう】じなかった。",
+    "meaning": "This letter did not reach the destination."
+  },
+  {
+    "sentence": "彼は会社まで自転車で通っている。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】まで自転車【じてんしゃ】で通【かよ】っている。",
+    "meaning": "He commutes to work by bicycle."
+  },
+  {
+    "sentence": "この道はよく通る。",
+    "sentence_furigana": "この道【みち】はよく通【とお】る。",
+    "meaning": "I often use this road."
+  },
+  {
+    "sentence": "彼は通信教育で学んでいる。",
+    "sentence_furigana": "彼【かれ】は通信教育【つうしんきょういく】で学【まな】んでいる。",
+    "meaning": "He is studying through correspondence education."
+  },
+  {
+    "sentence": "この通りは賑わっている。",
+    "sentence_furigana": "この通【とお】り は 賑【にぎ】わっている。",
+    "meaning": "This street is lively."
+  },
+  {
+    "sentence": "彼は書類を上司に通りさせた。",
+    "sentence_furigana": "彼【かれ】は書類【しょるい】を上司【じょうし】に通【とお】りさせた。",
+    "meaning": "He had the documents passed by his supervisor."
+  },
+  {
+    "sentence": "この道は交通が激しい。",
+    "sentence_furigana": "この道【みち】は交通【こうつう】が激【はげ】しい。",
+    "meaning": "Traffic is heavy on this road."
+  },
+  {
+    "sentence": "彼は国境を通り越して逃亡した。",
+    "sentence_furigana": "彼【かれ】は国境【こっきょう】を通【とお】り越【こ】して逃亡【とうぼう】した。",
+    "meaning": "He fled across the border."
+  },
+  {
+    "sentence": "彼女はいつも健康で、風邪一つ通さない。",
+    "sentence_furigana": "彼女【かのじょ】はいつも健康【けんこう】で、風邪【かぜ】一つ通【とお】さない。",
+    "meaning": "She is always healthy and never catches a cold."
+  },
+  {
+    "sentence": "この法律は議会を通過した。",
+    "sentence_furigana": "この法律【ほうりつ】は議会【ぎかい】を通過【つうか】した。",
+    "meaning": "This law passed through the parliament."
+  },
+  {
+    "sentence": "彼は毎日同じ道を通り通勤する。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】同【おな】じ道【みち】を通【とお】り通勤【つうきん】する。",
+    "meaning": "He commutes by the same road every day."
+  },
+  {
+    "sentence": "この水道は最近通った。",
+    "sentence_furigana": "この水道【すいどう】は最近【さいきん】通【とお】った。",
+    "meaning": "This water pipe was laid recently."
+  },
+  {
+    "sentence": "彼は話が早く、すぐに理解してくれる。",
+    "sentence_furigana": "彼【かれ】は話【はな】しが早【はや】く、すぐに理解【りかい】してくれる。",
+    "meaning": "He is quick to grasp things and understands immediately."
+  },
+  {
+    "sentence": "この通りは夜になると静かになる。",
+    "sentence_furigana": "この通【とお】り は 夜【よる】になると静【しず】かになる。",
+    "meaning": "This street becomes quiet at night."
+  },
+  {
+    "sentence": "彼は大学に通いながらアルバイトをしている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】に通【かよ】いながらアルバイトをしている。",
+    "meaning": "He is working part-time while attending university."
+  },
+  {
+    "sentence": "交通機関は充実している。",
+    "sentence_furigana": "交通機関【こうつうきかん】は充実【じゅうじつ】している。",
+    "meaning": "The transportation system is well-developed."
+  },
+  {
+    "sentence": "この書類は承認を通りません。",
+    "sentence_furigana": "この書類【しょるい】は承認【しょうにん】を通り【とお】りません。",
+    "meaning": "This document will not be approved."
+  },
+  {
+    "sentence": "彼は通信技術の専門家だ。",
+    "sentence_furigana": "彼【かれ】は通信技術【つうしんぎじゅつ】の専門家【せんもんか】だ。",
+    "meaning": "He is an expert in communication technology."
+  },
+  {
+    "sentence": "この通路は非常時に使用してください。",
+    "sentence_furigana": "この通路【つうろ】は非常時【ひじょうじ】に使用【しよう】してください。",
+    "meaning": "Please use this passage in case of emergency."
+  },
+  {
+    "sentence": "彼は新しい考え方を通り入れていない。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい考【かんが】え方【かた】を通【とお】し入【い】れていない。",
+    "meaning": "He hasn't embraced new ways of thinking."
+  },
+  {
+    "sentence": "この通りは昔からの商店街だ。",
+    "sentence_furigana": "この通【とお】り は 昔【むかし】から の 商店街【しょうてんがい】だ。",
+    "meaning": "This street is a traditional shopping district."
+  },
+  {
+    "sentence": "彼は友人の家まで歩いて通った。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の家【いえ】まで歩【ある】いて通【とお】った。",
+    "meaning": "He walked to his friend's house."
+  },
+  {
+    "sentence": "この文書は確認を通り、問題ありません。",
+    "sentence_furigana": "この文書【ぶんしょ】は確認【かくにん】を通り【とお】り、問題【もんだい】ありません。",
+    "meaning": "This document has been reviewed and there are no problems."
+  },
+  {
+    "sentence": "彼は電車で通学している。",
+    "sentence_furigana": "彼【かれ】は電車【でんしゃ】で通学【つうがく】している。",
+    "meaning": "He commutes to school by train."
+  },
+  {
+    "sentence": "交通費はいくらぐらいかかりますか？",
+    "sentence_furigana": "交通費【こうつうひ】はいくらぐらいかかりますか？",
+    "meaning": "How much does transportation cost?"
+  },
+  {
+    "sentence": "この新しい道はどこに通り抜けられますか？",
+    "sentence_furigana": "この新【あたら】しい道【みち】はどこに通り抜【とお】けられますか？",
+    "meaning": "Where does this new road lead?"
+  },
+  {
+    "sentence": "彼は毎日、運動のために通りを歩く。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】、運動【うんどう】のために通【とお】りを歩【ある】く。",
+    "meaning": "He walks along the street every day for exercise."
+  },
+  {
+    "sentence": "彼女は通信機器の会社で働いている。",
+    "sentence_furigana": "彼女【かのじょ】は通信機器【つうしんきき】の会社【かいしゃ】で働【はたら】いている。",
+    "meaning": "She works for a telecommunications equipment company."
+  },
+  {
+    "sentence": "この書類は全部で１０通ある。",
+    "sentence_furigana": "この書類【しょるい】は全部【ぜんぶ】で１０通【つう】ある。",
+    "meaning": "There are 10 documents in total."
+  },
+  {
+    "sentence": "彼は困難を通り越して目標を達成した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を通り【とお】り越【こ】して目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He overcame difficulties and achieved his goal."
+  },
+  {
+    "sentence": "交通網はさらに整備されるだろう。",
+    "sentence_furigana": "交通網【こうつうもう】はさらに整備【せいび】されるだろう。",
+    "meaning": "The transportation network will be further developed."
+  },
+  {
+    "sentence": "この道は一本道で通りやすい。",
+    "sentence_furigana": "この道【みち】は一本道【いっぽんみち】で通り【とお】りやすい。",
+    "meaning": "This is a straight road and easy to travel."
+  },
+  {
+    "sentence": "彼は医者の指示通りに薬を飲んだ。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】の指示【しじ】通【どお】りに薬【くすり】を飲【の】んだ。",
+    "meaning": "He took the medicine as instructed by the doctor."
+  },
+  {
+    "sentence": "この通路は閉鎖されています。",
+    "sentence_furigana": "この通路【つうろ】は閉鎖【へいさ】されています。",
+    "meaning": "This passage is closed."
+  },
+  {
+    "sentence": "彼は交通ルールを守って運転している。",
+    "sentence_furigana": "彼【かれ】は交通【こうつう】ルールを守【まも】って運転【うんてん】している。",
+    "meaning": "He drives while obeying traffic rules."
+  },
+  {
+    "sentence": "彼女は通信販売で服を買った。",
+    "sentence_furigana": "彼女【かのじょ】は通信販売【つうしんはんばい】で服【ふく】を買【か】った。",
+    "meaning": "She bought clothes through mail order."
+  },
+  {
+    "sentence": "この通りは人通りが多い。",
+    "sentence_furigana": "この通【とお】り は 人通【ひとどお】りが多い【おお】い。",
+    "meaning": "There are many people on this street."
+  },
+  {
+    "sentence": "彼は新しい発想を通り入れようとしている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい発想【はっそう】を通【とお】し入【い】れようとしている。",
+    "meaning": "He is trying to incorporate new ideas."
+  },
+  {
+    "sentence": "この道はいつも渋滞している。",
+    "sentence_furigana": "この道【みち】はいつも渋滞【じゅうたい】している。",
+    "meaning": "This road is always congested."
+  },
+  {
+    "sentence": "彼は電車で通勤している。",
+    "sentence_furigana": "彼【かれ】は電車【でんしゃ】で通勤【つうきん】している。",
+    "meaning": "He commutes by train."
+  },
+  {
+    "sentence": "この切符はどの路線でも有効ですか？",
+    "sentence_furigana": "この切符【きっぷ】はどの路線【ろせん】でも有効【ゆうこう】ですか？",
+    "meaning": "Is this ticket valid on all lines?"
+  },
+  {
+    "sentence": "彼は国境を通過するのに苦労した。",
+    "sentence_furigana": "彼【かれ】は国境【こっきょう】を通過【つうか】するのに苦労【くろう】した。",
+    "meaning": "He had trouble passing through the border."
+  },
+  {
+    "sentence": "この書類は部長を通り、本社へ送られる。",
+    "sentence_furigana": "この書類【しょるい】は部長【ぶちょう】を通り【とお】り、本社【ほんしゃ】へ送【おく】られる。",
+    "meaning": "This document will pass through the department manager and be sent to the head office."
+  },
+  {
+    "sentence": "彼はいつも通りに朝食をとった。",
+    "sentence_furigana": "彼【かれ】はいつも通【どお】りに朝食【ちょうしょく】をとった。",
+    "meaning": "He had breakfast as usual."
+  },
+  {
+    "sentence": "交通安全に注意してください。",
+    "sentence_furigana": "交通【こうつう】安全【あんぜん】に注意【ちゅうい】してください。",
+    "meaning": "Please pay attention to traffic safety."
+  },
+  {
+    "sentence": "彼女は大学を卒業して、社会人になった。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】を卒業【そつぎょう】して、社会人【しゃかいじん】になった。",
+    "meaning": "She graduated from university and became a working adult."
+  },
+  {
+    "sentence": "この通信は暗号化されている。",
+    "sentence_furigana": "この通信【つうしん】は暗号化【あんごうか】されている。",
+    "meaning": "This communication is encrypted."
+  },
+  {
+    "sentence": "彼はこの通りをよく知っている。",
+    "sentence_furigana": "彼【かれ】はこの通【とお】り を よく知【し】っている。",
+    "meaning": "He knows this street well."
+  },
+  {
+    "sentence": "この法律は国民の間に広く浸透している。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の間【あいだ】に広【ひろ】く浸透【しんとう】している。",
+    "meaning": "This law has widely permeated among the public."
+  },
+  {
+    "sentence": "彼はいつも同じ時間に通勤する。",
+    "sentence_furigana": "彼【かれ】はいつも同【おな】じ時間【じかん】に通勤【つうきん】する。",
+    "meaning": "He commutes at the same time every day."
+  },
+  {
+    "sentence": "この薬は効果が通りやすい。",
+    "sentence_furigana": "この薬【くすり】は効果【こうか】が通り【とお】りやすい。",
+    "meaning": "The effect of this medicine is easy to pass through."
+  },
+  {
+    "sentence": "彼は秘密の通路を通って脱出した。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】の通路【つうろ】を通【とお】って脱出【だっしゅつ】した。",
+    "meaning": "He escaped through a secret passage."
+  },
+  {
+    "sentence": "この通りはいつも人が多い。",
+    "sentence_furigana": "この通【とお】り は いつも人【ひと】が多【おお】い。",
+    "meaning": "This street is always crowded."
+  },
+  {
+    "sentence": "彼は交通整理をしている。",
+    "sentence_furigana": "彼【かれ】は交通【こうつう】整理【せいり】をしている。",
+    "meaning": "He is directing traffic."
+  },
+  {
+    "sentence": "この書類は上司の許可を通った。",
+    "sentence_furigana": "この書類【しょるい】は上司【じょうし】の許可【きょか】を通【とお】った。",
+    "meaning": "This document has been approved by the supervisor."
+  },
+  {
+    "sentence": "彼は大学の講義に通っている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】の講義【こうぎ】に通【かよ】っている。",
+    "meaning": "He attends university lectures."
+  },
+  {
+    "sentence": "この情報は広く通っている。",
+    "sentence_furigana": "この情報【じょうほう】は広【ひろ】く通【とお】っている。",
+    "meaning": "This information is widely known."
+  },
+  {
+    "sentence": "彼は新しい法律を通過させるために尽力した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい法律【ほうりつ】を通過【つうか】させるために尽力【じんりょく】した。",
+    "meaning": "He worked hard to pass the new law."
+  },
+  {
+    "sentence": "この通りは歴史的な場所だ。",
+    "sentence_furigana": "この通【とお】り は 歴史的【れきしてき】な場所【ばしょ】だ。",
+    "meaning": "This street is a historic place."
+  },
+  {
+    "sentence": "彼は通信販売で品物を購入した。",
+    "sentence_furigana": "彼【かれ】は通信販売【つうしんはんばい】で品物【しなもの】を購入【こうにゅう】した。",
+    "meaning": "He purchased items through mail order."
+  },
+  {
+    "sentence": "この手紙は無事に届いた。",
+    "sentence_furigana": "この手紙【てがみ】は無事【ぶじ】に届【とど】いた。",
+    "meaning": "This letter arrived safely."
+  },
+  {
+    "sentence": "彼は常に健康を通り越してはならない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に健康【けんこう】を通り【とお】り越【こ】してはならない。",
+    "meaning": "He must not neglect his health."
+  },
+  {
+    "sentence": "この通路は工事のため一時閉鎖されます。",
+    "sentence_furigana": "この通路【つうろ】は工事【こうじ】のため一時【いちじ】閉鎖【へいさ】されます。",
+    "meaning": "This passage will be temporarily closed due to construction."
+  },
+  {
+    "sentence": "彼は交通渋滞を避けるために早めに出発した。",
+    "sentence_furigana": "彼【かれ】は交通【こうつう】渋滞【じゅうたい】を避【さ】けるために早【はや】めに出発【しゅっぱつ】した。",
+    "meaning": "He left early to avoid traffic congestion."
+  },
+  {
+    "sentence": "この水道は地下を通っている。",
+    "sentence_furigana": "この水道【すいどう】は地下【ちか】を通【とお】っている。",
+    "meaning": "This water pipe runs underground."
+  },
+  {
+    "sentence": "彼は試験に通り、次の段階に進んだ。",
+    "sentence_furigana": "彼【かれ】は試験【しけん】に通り【とお】り、次【つぎ】の段階【だんかい】に進【すす】んだ。",
+    "meaning": "He passed the exam and proceeded to the next stage."
+  },
+  {
+    "sentence": "彼女はいつも通りに仕事をする。",
+    "sentence_furigana": "彼女【かのじょ】はいつも通【どお】りに仕事【しごと】をする。",
+    "meaning": "She works as usual."
+  },
+  {
+    "sentence": "この通りは商店が並んでいる。",
+    "sentence_furigana": "この通【とお】り は 商店【しょうてん】が並【なら】んでいる。",
+    "meaning": "Shops are lined up on this street."
+  },
+  {
+    "sentence": "彼は試験に合格した。",
+    "sentence_furigana": "彼【かれ】は試験【しけん】に合格【ごうかく】した。",
+    "meaning": "He passed the exam."
+  },
+  {
+    "sentence": "この交通システムは効率が良い。",
+    "sentence_furigana": "この交通【こうつう】システムは効率【こうりつ】が良い【よい】。",
+    "meaning": "This transportation system is efficient."
+  }
+]

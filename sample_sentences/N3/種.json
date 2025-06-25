@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "この木は珍しい種類の植物です。",
+    "sentence_furigana": "この木【き】は珍【めずら】しい種類【しゅるい】の植物【しょくぶつ】です。",
+    "meaning": "This tree is a rare species of plant."
+  },
+  {
+    "sentence": "彼は新しい種の研究をしています。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の研究【けんきゅう】をしています。",
+    "meaning": "He is researching a new species."
+  },
+  {
+    "sentence": "パンを作るために強力粉の種を使いました。",
+    "sentence_furigana": "パンを製【つく】るために強力粉【きょうりきこ】の種【たね】を使【つか】いました。",
+    "meaning": "I used strong flour starter to make bread."
+  },
+  {
+    "sentence": "この花は日当たりの良い場所を好みます。",
+    "sentence_furigana": "この花【はな】は日当【ひあ】たりの良【よ】い場所【ばしょ】を好【この】みます。",
+    "meaning": "This flower prefers a sunny spot."
+  },
+  {
+    "sentence": "彼らは新しい種の事業を立ち上げました。",
+    "sentence_furigana": "彼【かれ】らは新【あら】たな種【しゅ】の事業【じぎょう】を立【た】ち上【あ】げました。",
+    "meaning": "They launched a new kind of business."
+  },
+  {
+    "sentence": "この種は発芽率が高いです。",
+    "sentence_furigana": "この種【たね】は発芽率【はつがりつ】が高【たか】いです。",
+    "meaning": "This seed has a high germination rate."
+  },
+  {
+    "sentence": "この地域の種子は国立公園で保護されています。",
+    "sentence_furigana": "この地域【ちいき】の種子【しゅし】は国立公園【こくりつこうえん】で保護【ほご】されています。",
+    "meaning": "The seeds of this region are protected in the national park."
+  },
+  {
+    "sentence": "彼は多様な種の動物を保護する活動を支援しています。",
+    "sentence_furigana": "彼【かれ】は多様【たよう】な種【しゅ】の動物【どうぶつ】を保護【ほご】する活動【かつどう】を支援【しえん】しています。",
+    "meaning": "He supports activities that protect diverse species of animals."
+  },
+  {
+    "sentence": "この薬は特定の種類の癌に効果があります。",
+    "sentence_furigana": "この薬【くすり】は特定【とくてい】の種類【しゅるい】の癌【がん】に効果【こうか】があります。",
+    "meaning": "This medicine is effective against a specific type of cancer."
+  },
+  {
+    "sentence": "彼は様々な種類の音楽を聴きます。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の音楽【おんがく】を聴【き】きます。",
+    "meaning": "He listens to various kinds of music."
+  },
+  {
+    "sentence": "この品種の米は非常に甘いです。",
+    "sentence_furigana": "この品種【ひんしゅ】の米【こめ】は非常【ひじょう】に甘【あま】いです。",
+    "meaning": "This variety of rice is very sweet."
+  },
+  {
+    "sentence": "種をまくのに最適な時期は春です。",
+    "sentence_furigana": "種【たね】をまくのに最適【さいてき】な時期【じき】は春【はる】です。",
+    "meaning": "The best time to sow seeds is spring."
+  },
+  {
+    "sentence": "彼女は新しい品種のバラを育てています。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たな品種【ひんしゅ】のバラを育【そだ】てています。",
+    "meaning": "She is growing a new variety of roses."
+  },
+  {
+    "sentence": "この種は土壌の改良に役立ちます。",
+    "sentence_furigana": "この種【たね】は土壌【どじょう】の改良【かいりょう】に役立【やくた】ちます。",
+    "meaning": "This seed helps to improve the soil."
+  },
+  {
+    "sentence": "彼は子供の種を植え付けました。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の種【たね】を植【う】え付【つ】けました。",
+    "meaning": "He planted seeds for children."
+  },
+  {
+    "sentence": "この種のプロジェクトは成功する可能性が高いです。",
+    "sentence_furigana": "この種【しゅ】のプロジェクトは成功【せいこう】する可能性【かのうせい】が高【たか】いです。",
+    "meaning": "This kind of project has a high chance of success."
+  },
+  {
+    "sentence": "彼は種々の問題に直面しました。",
+    "sentence_furigana": "彼【かれ】は種々【しゅじゅ】の問題【もんだい】に直面【ちょくめん】しました。",
+    "meaning": "He faced various problems."
+  },
+  {
+    "sentence": "この種の小説はあまり読まれていません。",
+    "sentence_furigana": "この種【しゅ】の小説【しょうせつ】はあまり読【よ】まれていません。",
+    "meaning": "This type of novel is not read much."
+  },
+  {
+    "sentence": "彼は新しい種の発想を求めている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の発想【はっそう】を求【もと】めている。",
+    "meaning": "He is seeking a new kind of idea."
+  },
+  {
+    "sentence": "この種は甘い果実を実らせます。",
+    "sentence_furigana": "この種【たね】は甘【あま】い果実【かじつ】を実【みの】らせます。",
+    "meaning": "This seed bears sweet fruit."
+  },
+  {
+    "sentence": "彼らは絶滅危惧種の保護に尽力しています。",
+    "sentence_furigana": "彼【かれ】らは絶滅危惧種【ぜつめつきぐしゅ】の保護【ほご】に尽力【じんりょく】しています。",
+    "meaning": "They are working hard to protect endangered species."
+  },
+  {
+    "sentence": "この種の魚は非常に珍しいです。",
+    "sentence_furigana": "この種【しゅ】の魚【さかな】は非常【ひじょう】に珍【めずら】しいです。",
+    "meaning": "This species of fish is very rare."
+  },
+  {
+    "sentence": "彼は多くの種類の鳥を飼育しています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの種類【しゅるい】の鳥【とり】を飼育【しいく】しています。",
+    "meaning": "He raises many kinds of birds."
+  },
+  {
+    "sentence": "この種の発芽には水が必要です。",
+    "sentence_furigana": "この種【たね】の発芽【はつが】には水【みず】が必要【ひつよう】です。",
+    "meaning": "This seed requires water to germinate."
+  },
+  {
+    "sentence": "彼らは新しい品種の米を開発しました。",
+    "sentence_furigana": "彼【かれ】らは新【あら】たな品種【ひんしゅ】の米【こめ】を開発【かいはつ】しました。",
+    "meaning": "They developed a new variety of rice."
+  },
+  {
+    "sentence": "この種は病気に強いです。",
+    "sentence_furigana": "この種【たね】は病気【びょうき】に強【つよ】いです。",
+    "meaning": "This seed is resistant to disease."
+  },
+  {
+    "sentence": "彼はこの種の計画に反対しています。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の計画【けいかく】に反対【はんたい】しています。",
+    "meaning": "He opposes this kind of plan."
+  },
+  {
+    "sentence": "この種は乾燥に耐えられます。",
+    "sentence_furigana": "この種【たね】は乾燥【かんそう】に耐【た】えられます。",
+    "meaning": "This seed can withstand drought."
+  },
+  {
+    "sentence": "彼は様々な種類のスポーツを楽しみます。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】のスポーツを楽【たの】しみます。",
+    "meaning": "He enjoys various kinds of sports."
+  },
+  {
+    "sentence": "この種は非常に速く成長します。",
+    "sentence_furigana": "この種【たね】は非常【ひじょう】に速【はや】く成長【せいちょう】します。",
+    "meaning": "This seed grows very quickly."
+  },
+  {
+    "sentence": "彼は絶滅危惧種の保護に貢献しました。",
+    "sentence_furigana": "彼【かれ】は絶滅危惧種【ぜつめつきぐしゅ】の保護【ほご】に貢献【こうけん】しました。",
+    "meaning": "He contributed to the protection of endangered species."
+  },
+  {
+    "sentence": "この種は寒さに強いです。",
+    "sentence_furigana": "この種【たね】は寒【さむ】さに強【つよ】いです。",
+    "meaning": "This seed is resistant to cold."
+  },
+  {
+    "sentence": "彼はこの種の出来事に慣れています。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の出来事【できごと】に慣【な】れています。",
+    "meaning": "He is accustomed to this kind of event."
+  },
+  {
+    "sentence": "この種は収穫量が少ないです。",
+    "sentence_furigana": "この種【たね】は収穫量【しゅうかくりょう】が少【すく】ないです。",
+    "meaning": "This seed has a low yield."
+  },
+  {
+    "sentence": "彼は新しい種類の芸術を追求しています。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種類【しゅるい】の芸術【げいじゅつ】を追求【ついきゅう】しています。",
+    "meaning": "He pursues a new kind of art."
+  },
+  {
+    "sentence": "この種は土壌の栄養分を多く必要とします。",
+    "sentence_furigana": "この種【たね】は土壌【どじょう】の栄養分【えいようぶん】を多【おお】く必要【ひつよう】とします。",
+    "meaning": "This seed requires a lot of soil nutrients."
+  },
+  {
+    "sentence": "彼は様々な種類の野菜を栽培しています。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の野菜【やさい】を栽培【さいばい】しています。",
+    "meaning": "He cultivates various kinds of vegetables."
+  },
+  {
+    "sentence": "この種は病害虫に強いです。",
+    "sentence_furigana": "この種【たね】は病害虫【びょうがいちゅう】に強【つよ】いです。",
+    "meaning": "This seed is resistant to pests and diseases."
+  },
+  {
+    "sentence": "彼はこの種のビジネスを始めるつもりだ。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】のビジネスを始【はじ】めるつもりだ。",
+    "meaning": "He intends to start this kind of business."
+  },
+  {
+    "sentence": "この種は比較的育てやすいです。",
+    "sentence_furigana": "この種【たね】は比較的【ひかくてき】育【そだ】てやすいです。",
+    "meaning": "This seed is relatively easy to grow."
+  },
+  {
+    "sentence": "彼は新しい種の論文を執筆しました。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の論文【ろんぶん】を執筆【しっぴつ】しました。",
+    "meaning": "He wrote a new type of paper."
+  },
+  {
+    "sentence": "この種は豊かな風味を持っています。",
+    "sentence_furigana": "この種【たね】は豊【ゆた】かな風味【ふうみ】を持【も】っています。",
+    "meaning": "This seed has a rich flavor."
+  },
+  {
+    "sentence": "彼はこの種の活動に参加しました。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の活動【かつどう】に参加【さんか】しました。",
+    "meaning": "He participated in this kind of activity."
+  },
+  {
+    "sentence": "この種は薬効成分を多く含んでいます。",
+    "sentence_furigana": "この種【たね】は薬効成分【やっこうせいぶん】を多【おお】く含【ふく】んでいます。",
+    "meaning": "This seed contains a lot of medicinal ingredients."
+  },
+  {
+    "sentence": "彼は様々な種類の機械を修理できます。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の機械【きかい】を修理【しゅうり】できます。",
+    "meaning": "He can repair various kinds of machines."
+  },
+  {
+    "sentence": "この種は食用に適しています。",
+    "sentence_furigana": "この種【たね】は食用【しょくよう】に適【てき】しています。",
+    "meaning": "This seed is suitable for consumption."
+  },
+  {
+    "sentence": "彼は新しい種の細菌を発見した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の細菌【さいきん】を発見【はっけん】した。",
+    "meaning": "He discovered a new species of bacteria."
+  },
+  {
+    "sentence": "この種は油分を多く含んでいます。",
+    "sentence_furigana": "この種【たね】は油分【ゆぶん】を多【おお】く含【ふく】んでいます。",
+    "meaning": "This seed contains a lot of oil."
+  },
+  {
+    "sentence": "彼はこの種の困難に立ち向かう。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の困難【こんなん】に立【た】ち向【む】かう。",
+    "meaning": "He confronts this kind of difficulty."
+  },
+  {
+    "sentence": "この種は保存性が高いです。",
+    "sentence_furigana": "この種【たね】は保存性【ほぞんせい】が高【たか】いです。",
+    "meaning": "This seed has high storability."
+  },
+  {
+    "sentence": "彼は新しい種のソフトウェアを開発中です。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】のソフトウェアを開発中【かいはつちゅう】です。",
+    "meaning": "He is developing a new type of software."
+  },
+  {
+    "sentence": "この種は独特の香りを放ちます。",
+    "sentence_furigana": "この種【たね】は独特【どくとく】の香【かお】りを放【はな】ちます。",
+    "meaning": "This seed emits a unique aroma."
+  },
+  {
+    "sentence": "彼は様々な種類の疾患について学んでいます。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の疾患【しっかん】について学【まな】んでいます。",
+    "meaning": "He is learning about various kinds of diseases."
+  },
+  {
+    "sentence": "この種は高い栄養価を持っています。",
+    "sentence_furigana": "この種【たね】は高【たか】い栄養価【えいようか】を持【も】っています。",
+    "meaning": "This seed has high nutritional value."
+  },
+  {
+    "sentence": "彼はこの種の状況を予期していました。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の状況【じょうきょう】を予期【よき】していました。",
+    "meaning": "He had anticipated this kind of situation."
+  },
+  {
+    "sentence": "この種は発芽温度が比較的高いです。",
+    "sentence_furigana": "この種【たね】は発芽温度【はつがおんど】が比較的【ひかくてき】高【たか】いです。",
+    "meaning": "This seed requires a relatively high germination temperature."
+  },
+  {
+    "sentence": "彼は新しい種類のコーヒー豆を栽培しています。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種類【しゅるい】のコーヒー豆【まめ】を栽培【さいばい】しています。",
+    "meaning": "He is cultivating a new variety of coffee beans."
+  },
+  {
+    "sentence": "この種は病原菌に感染しにくいです。",
+    "sentence_furigana": "この種【たね】は病原菌【びょうげんきん】に感染【かんせん】しにくいです。",
+    "meaning": "This seed is resistant to infection by pathogens."
+  },
+  {
+    "sentence": "彼はこの種の技術に詳しいです。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の技術【ぎじゅつ】に詳【くわ】しいです。",
+    "meaning": "He is knowledgeable about this kind of technology."
+  },
+  {
+    "sentence": "この種は霜に弱いですが、比較的早く成長します。",
+    "sentence_furigana": "この種【たね】は霜【しも】に弱【よわ】いですが、比較的【ひかくてき】早【はや】く成長【せいちょう】します。",
+    "meaning": "This seed is susceptible to frost, but it grows relatively quickly."
+  },
+  {
+    "sentence": "彼は新しい種の昆虫を研究しています。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の昆虫【こんちゅう】を研究【けんきゅう】しています。",
+    "meaning": "He is researching a new species of insect."
+  },
+  {
+    "sentence": "この種は湿度の高い環境を好みます。",
+    "sentence_furigana": "この種【たね】は湿度【しつど】の高【たか】い環境【かんきょう】を好【この】みます。",
+    "meaning": "This seed prefers a humid environment."
+  },
+  {
+    "sentence": "彼はこの種の話題について話したがらない。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の話題【わだい】について話【はな】したがらない。",
+    "meaning": "He is reluctant to talk about this kind of topic."
+  },
+  {
+    "sentence": "この種は非常に芳香が高いです。",
+    "sentence_furigana": "この種【たね】は非常【ひじょう】に芳香【ほうこう】が高【たか】いです。",
+    "meaning": "This seed is highly aromatic."
+  },
+  {
+    "sentence": "彼は新しい種の化石を発見した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の化石【かせき】を発見【はっけん】した。",
+    "meaning": "He discovered a new species of fossil."
+  },
+  {
+    "sentence": "この種は粘り気が強いです。",
+    "sentence_furigana": "この種【たね】は粘【ねば】り気【け】が強【つよ】いです。",
+    "meaning": "This seed is very sticky."
+  },
+  {
+    "sentence": "彼はこの種の犯罪を撲滅することを目指しています。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の犯罪【はんざい】を撲滅【ぼくめつ】することを目指【めざ】しています。",
+    "meaning": "He aims to eradicate this kind of crime."
+  },
+  {
+    "sentence": "この種は非常に栄養価が低い。",
+    "sentence_furigana": "この種【たね】は非常【ひじょう】に栄養価【えいようか】が低【ひく】い。",
+    "meaning": "This seed is very low in nutritional value."
+  },
+  {
+    "sentence": "彼は様々な種類のデータ分析を行っています。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】のデータ分析【ぶんせき】を行【おこな】っています。",
+    "meaning": "He performs various kinds of data analysis."
+  },
+  {
+    "sentence": "この種は発芽に光を必要とします。",
+    "sentence_furigana": "この種【たね】は発芽【はつが】に光【ひかり】を必要【ひつよう】とします。",
+    "meaning": "This seed requires light to germinate."
+  },
+  {
+    "sentence": "彼は新しい種の鉱物を発見した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の鉱物【こうぶつ】を発見【はっけん】した。",
+    "meaning": "He discovered a new species of mineral."
+  },
+  {
+    "sentence": "この種は酸性土壌を好みます。",
+    "sentence_furigana": "この種【たね】は酸性土壌【さんせいどじょう】を好【この】みます。",
+    "meaning": "This seed prefers acidic soil."
+  },
+  {
+    "sentence": "彼はこの種の芸術作品に魅了されています。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の芸術作品【げいじゅつさくひん】に魅了【みりょう】されています。",
+    "meaning": "He is fascinated by this kind of artwork."
+  },
+  {
+    "sentence": "この種は多くのミネラルを含んでいます。",
+    "sentence_furigana": "この種【たね】は多【おお】くのミネラルをを含【ふく】んでいます。",
+    "meaning": "This seed contains many minerals."
+  },
+  {
+    "sentence": "彼は新しい種の植物を栽培する計画を立てている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の植物【しょくぶつ】を栽培【さいばい】する計画【けいかく】を立【た】てている。",
+    "meaning": "He is planning to cultivate a new species of plant."
+  },
+  {
+    "sentence": "この種は塩分に強いです。",
+    "sentence_furigana": "この種【たね】は塩分【えんぶん】に強【つよ】いです。",
+    "meaning": "This seed is salt-tolerant."
+  },
+  {
+    "sentence": "彼はこの種の文化に興味を持っています。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の文化【ぶんか】に興味【きょうみ】を持【も】っています。",
+    "meaning": "He is interested in this kind of culture."
+  },
+  {
+    "sentence": "この種は食用には適していません。",
+    "sentence_furigana": "この種【たね】は食用【しょくよう】には適【てき】していません。",
+    "meaning": "This seed is not suitable for consumption."
+  },
+  {
+    "sentence": "彼は様々な種類の情報源を利用しています。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の情報源【じょうほうげん】を利用【りよう】しています。",
+    "meaning": "He uses various kinds of information sources."
+  },
+  {
+    "sentence": "この種は病気に非常に強い。",
+    "sentence_furigana": "この種【たね】は病気【びょうき】に非常【ひじょう】に強【つよ】い。",
+    "meaning": "This seed is very resistant to disease."
+  },
+  {
+    "sentence": "彼はこの種の革新的なアイデアを求めている。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の革新的【かくしんてき】なアイデアを求【もと】めている。",
+    "meaning": "He is seeking this kind of innovative idea."
+  },
+  {
+    "sentence": "この種は粘り気が少ないです。",
+    "sentence_furigana": "この種【たね】は粘【ねば】り気【け】が少【すく】ないです。",
+    "meaning": "This seed is not very sticky."
+  },
+  {
+    "sentence": "彼は新しい種の鳥類を研究対象とした。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の鳥類【ちょうるい】を研究対象【けんきゅうたいしょう】とした。",
+    "meaning": "He made a new species of birds the subject of his research."
+  },
+  {
+    "sentence": "この種は土壌のpH値に敏感です。",
+    "sentence_furigana": "この種【たね】は土壌【どじょう】のpH値【ピーエイチち】に敏感【びんかん】です。",
+    "meaning": "This seed is sensitive to soil pH."
+  },
+  {
+    "sentence": "彼はこの種の出来事には慣れていない。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の出来事【できごと】には慣【な】れていない。",
+    "meaning": "He is not accustomed to this kind of event."
+  },
+  {
+    "sentence": "この種は収穫量が多い。",
+    "sentence_furigana": "この種【たね】は収穫量【しゅうかくりょう】が多【おお】い。",
+    "meaning": "This seed has a high yield."
+  },
+  {
+    "sentence": "彼は新しい種の魚の養殖に成功しました。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の魚【さかな】の養殖【ようしょく】に成功【せいこう】しました。",
+    "meaning": "He succeeded in farming a new species of fish."
+  },
+  {
+    "sentence": "この種は寒さに非常に弱いです。",
+    "sentence_furigana": "この種【たね】は寒【さむ】さに非常【ひじょう】に弱【よわ】いです。",
+    "meaning": "This seed is very susceptible to cold."
+  },
+  {
+    "sentence": "彼はこの種の政治活動に反対です。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の政治活動【せいじかつどう】に反対【はんたい】です。",
+    "meaning": "He is against this kind of political activity."
+  },
+  {
+    "sentence": "この種は乾燥に非常に強い。",
+    "sentence_furigana": "この種【たね】は乾燥【かんそう】に非常【ひじょう】に強【つよ】い。",
+    "meaning": "This seed is very drought-tolerant."
+  },
+  {
+    "sentence": "彼は新しい種類のソフトウェア開発を専門としています。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種類【しゅるい】のソフトウェア開発【かいはつ】を専門【せんもん】としています。",
+    "meaning": "He specializes in the development of new types of software."
+  },
+  {
+    "sentence": "この種は非常にユニークな風味を持っています。",
+    "sentence_furigana": "この種【たね】は非常【ひじょう】にユニークな風味【ふうみ】を持【も】っています。",
+    "meaning": "This seed has a very unique flavor."
+  },
+  {
+    "sentence": "彼はこの種の困難を乗り越えてきた。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の困難【こんなん】を乗【の】り越【こ】えてきた。",
+    "meaning": "He has overcome this kind of difficulty."
+  },
+  {
+    "sentence": "この種は保存性が比較的高いです。",
+    "sentence_furigana": "この種【たね】は保存性【ほぞんせい】が比較的【ひかくてき】高【たか】いです。",
+    "meaning": "This seed has relatively high storability."
+  },
+  {
+    "sentence": "彼は新しい種の鉱業技術を研究しています。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の鉱業技術【こうぎょうぎじゅつ】を研究【けんきゅう】しています。",
+    "meaning": "He is researching new kinds of mining technology."
+  },
+  {
+    "sentence": "この種は独特の香りがしない。",
+    "sentence_furigana": "この種【たね】は独特【どくとく】の香【かお】りがしない。",
+    "meaning": "This seed does not have a unique aroma."
+  },
+  {
+    "sentence": "彼は様々な種類のビジネスモデルを分析している。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】のビジネスモデルを分析【ぶんせき】している。",
+    "meaning": "He is analyzing various kinds of business models."
+  },
+  {
+    "sentence": "この種は病原菌に強い。",
+    "sentence_furigana": "この種【たね】は病原菌【びょうげんきん】に強【つよ】い。",
+    "meaning": "This seed is resistant to pathogens."
+  },
+  {
+    "sentence": "彼はこの種の革新的な製品を求めていた。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の革新的【かくしんてき】な製品【せいひん】を求【もと】めていた。",
+    "meaning": "He was looking for this kind of innovative product."
+  },
+  {
+    "sentence": "この種は粘り気が普通です。",
+    "sentence_furigana": "この種【たね】は粘【ねば】り気【け】が普通【ふつう】です。",
+    "meaning": "This seed has normal stickiness."
+  },
+  {
+    "sentence": "彼は新しい種の鳥類に関する論文を発表した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種【しゅ】の鳥類【ちょうるい】に関係【かんけい】する論文【ろんぶん】を発表【はっぴょう】した。",
+    "meaning": "He published a paper on a new species of birds."
+  },
+  {
+    "sentence": "この種は土壌のpH値に強い。",
+    "sentence_furigana": "この種【たね】は土壌【どじょう】のpH値【ピーエイチち】に強【つよ】い。",
+    "meaning": "This seed is tolerant of soil pH."
+  },
+  {
+    "sentence": "彼はこの種の出来事も経験済みだ。",
+    "sentence_furigana": "彼【かれ】はこの種【しゅ】の出来事【できごと】も経験済【けいけんず】みだ。",
+    "meaning": "He has experience with this kind of event too."
+  },
+  {
+    "sentence": "この種は収穫量が大きく変動する。",
+    "sentence_furigana": "この種【たね】は収穫量【しゅうかくりょう】が大【おお】きく変動【へんどう】する。",
+    "meaning": "This seed has a highly variable yield."
+  }
+]

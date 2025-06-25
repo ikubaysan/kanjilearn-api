@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "新しい紙に絵を描いた。",
+    "sentence_furigana": "新【あらた】しい紙【かみ】に絵【え】を描【か】いた。",
+    "meaning": "I drew a picture on new paper."
+  },
+  {
+    "sentence": "机の上にたくさんの紙がある。",
+    "sentence_furigana": "机【つくえ】の上【うえ】にたくさん//の紙【かみ】がある。",
+    "meaning": "There is a lot of paper on the desk."
+  },
+  {
+    "sentence": "この紙はとても丈夫だ。",
+    "sentence_furigana": "この紙【かみ】はとても丈夫【じょうぶ】だ。",
+    "meaning": "This paper is very strong."
+  },
+  {
+    "sentence": "紙を一枚ください。",
+    "sentence_furigana": "紙【かみ】を一枚【いちまい】ください。",
+    "meaning": "Please give me one sheet of paper."
+  },
+  {
+    "sentence": "手紙を書くのに紙が必要だ。",
+    "sentence_furigana": "手紙【てがみ】を書【か】くのに紙【かみ】が必要【ひつよう】だ。",
+    "meaning": "Paper is necessary for writing letters."
+  },
+  {
+    "sentence": "コピー用紙を買ってきた。",
+    "sentence_furigana": "コピー用紙【ようし】を買【か】ってきた。",
+    "meaning": "I bought copy paper."
+  },
+  {
+    "sentence": "彼は紙飛行機を作った。",
+    "sentence_furigana": "彼【かれ】は紙飛行機【かみひこうき】を作【つく】った。",
+    "meaning": "He made a paper airplane."
+  },
+  {
+    "sentence": "古い紙は燃えやすい。",
+    "sentence_furigana": "古//い紙【かみ】は燃【も】えやすい。",
+    "meaning": "Old paper burns easily."
+  },
+  {
+    "sentence": "包装紙で包んでください。",
+    "sentence_furigana": "包装紙【ほうそうし】で包【つつ】んでください。",
+    "meaning": "Please wrap it with wrapping paper."
+  },
+  {
+    "sentence": "これは再生紙ですか。",
+    "sentence_furigana": "これは再生紙【さいせいし】ですか。",
+    "meaning": "Is this recycled paper?"
+  },
+  {
+    "sentence": "紙芝居が始まりました。",
+    "sentence_furigana": "紙芝居【かみしばい】が始【はじ】まりました。",
+    "meaning": "The paper show has begun."
+  },
+  {
+    "sentence": "紙幣を数える。",
+    "sentence_furigana": "紙幣【しへい】を数【かぞ】える。",
+    "meaning": "To count banknotes."
+  },
+  {
+    "sentence": "この紙はインクがにじむ。",
+    "sentence_furigana": "この紙【かみ】はインクがにじむ。",
+    "meaning": "Ink bleeds on this paper."
+  },
+  {
+    "sentence": "壁に紙を貼る。",
+    "sentence_furigana": "壁【かべ】に紙【かみ】を貼【は】る。",
+    "meaning": "To stick paper on the wall."
+  },
+  {
+    "sentence": "紙袋に入れてください。",
+    "sentence_furigana": "紙袋【かみぶくろ】に入//れてください。",
+    "meaning": "Please put it in a paper bag."
+  },
+  {
+    "sentence": "不要な紙は処分する。",
+    "sentence_furigana": "不要//な紙【かみ】は処分【しょぶん】する。",
+    "meaning": "Dispose of unnecessary paper."
+  },
+  {
+    "sentence": "紙粘土で作品を作る。",
+    "sentence_furigana": "紙粘土【かみねんど】で作品【さくひん】を作//る。",
+    "meaning": "To create a work with paper clay."
+  },
+  {
+    "sentence": "新しいノートの紙質が良い。",
+    "sentence_furigana": "新//しいノートの紙質【ししつ】が良い【よい】。",
+    "meaning": "The paper quality of the new notebook is good."
+  },
+  {
+    "sentence": "紙の本と電子書籍。",
+    "sentence_furigana": "紙【かみ】の本【ほん】と電子書籍【でんししょせき】。",
+    "meaning": "Paper books and e-books."
+  },
+  {
+    "sentence": "彼は紙に署名した。",
+    "sentence_furigana": "彼【かれ】は紙【かみ】に署名【しょめい】した。",
+    "meaning": "He signed the paper."
+  },
+  {
+    "sentence": "紙は資源として大切だ。",
+    "sentence_furigana": "紙【かみ】は資源【しげん】として大切【たいせつ】だ。",
+    "meaning": "Paper is important as a resource."
+  },
+  {
+    "sentence": "古文書の紙は劣化している。",
+    "sentence_furigana": "古文書【こもんじょ】の紙【かみ】は劣化【れっか】している。",
+    "meaning": "The paper of old documents is deteriorated."
+  },
+  {
+    "sentence": "紙を細かく破る。",
+    "sentence_furigana": "紙【かみ】を細【こま】かく破//る。",
+    "meaning": "To tear paper into small pieces."
+  },
+  {
+    "sentence": "この紙は reciclできる。",
+    "sentence_furigana": "この紙【かみ】はリサイクルできる。",
+    "meaning": "This paper can be recycled."
+  },
+  {
+    "sentence": "壁に地図を貼るために紙を使った。",
+    "sentence_furigana": "壁【かべ】に地図【ちず】を貼//るために紙【かみ】を使//った。",
+    "meaning": "I used paper to stick the map on the wall."
+  },
+  {
+    "sentence": "紙幣の偽造に注意してください。",
+    "sentence_furigana": "紙幣【しへい】の偽造【ぎぞう】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of counterfeit banknotes."
+  },
+  {
+    "sentence": "折り紙で鶴を折る。",
+    "sentence_furigana": "折//り紙【おりがみ】で鶴【つる】を折//る。",
+    "meaning": "To fold a crane with origami paper."
+  },
+  {
+    "sentence": "紙媒体での記録を残す。",
+    "sentence_furigana": "紙媒体【かみばいたい】での記録【きろく】を残//す。",
+    "meaning": "To leave records in paper form."
+  },
+  {
+    "sentence": "この紙は印刷に適している。",
+    "sentence_furigana": "この紙【かみ】は印刷【いんさつ】に適//している。",
+    "meaning": "This paper is suitable for printing."
+  },
+  {
+    "sentence": "図書館で紙の本を借りた。",
+    "sentence_furigana": "図書館【としょかん】で紙【かみ】の本【ほん】を借//りた。",
+    "meaning": "I borrowed paper books from the library."
+  },
+  {
+    "sentence": "紙の資料を整理する。",
+    "sentence_furigana": "紙//の資料【しりょう】を整理【せいり】する。",
+    "meaning": "To organize paper materials."
+  },
+  {
+    "sentence": "紙おむつは便利だ。",
+    "sentence_furigana": "紙おむつは便利【べんり】だ。",
+    "meaning": "Disposable diapers are convenient."
+  },
+  {
+    "sentence": "彼は紙粘土で人形を作った。",
+    "sentence_furigana": "彼【かれ】は紙粘土【かみねんど】で人形【にんぎょう】を作//った。",
+    "meaning": "He made a doll with paper clay."
+  },
+  {
+    "sentence": "紙面に広告を掲載する。",
+    "sentence_furigana": "紙面【しめん】に広告【こうこく】を掲載【けいさい】する。",
+    "meaning": "To publish an advertisement in the newspaper."
+  },
+  {
+    "sentence": "古い紙幣は使えない。",
+    "sentence_furigana": "古//い紙幣【しへい】は使//えない。",
+    "meaning": "Old banknotes cannot be used."
+  },
+  {
+    "sentence": "紙コップは使い捨てです。",
+    "sentence_furigana": "紙コップは使//い捨//てです。",
+    "meaning": "Paper cups are disposable."
+  },
+  {
+    "sentence": "紙袋は環境に優しい。",
+    "sentence_furigana": "紙袋【かみぶくろ】は環境【かんきょう】に優//しい。",
+    "meaning": "Paper bags are environmentally friendly."
+  },
+  {
+    "sentence": "この紙は水に濡れると破れる。",
+    "sentence_furigana": "この紙【かみ】は水【みず】に濡//れると破//れる。",
+    "meaning": "This paper tears when wet."
+  },
+  {
+    "sentence": "紙の束を運ぶ。",
+    "sentence_furigana": "紙【かみ】の束//【たば】を運//ぶ。",
+    "meaning": "To carry a stack of paper."
+  },
+  {
+    "sentence": "紙に感謝の言葉を書く。",
+    "sentence_furigana": "紙【かみ】に感謝【かんしゃ】の言葉//【ことば】を書//く。",
+    "meaning": "To write words of gratitude on paper."
+  },
+  {
+    "sentence": "紙面を飾る美しい装丁。",
+    "sentence_furigana": "紙面【しめん】を飾//る美//しい装丁【そうてい】。",
+    "meaning": "Beautiful binding that adorns the pages."
+  },
+  {
+    "sentence": "この紙は折りやすい。",
+    "sentence_furigana": "この紙【かみ】は折//りやすい。",
+    "meaning": "This paper is easy to fold."
+  },
+  {
+    "sentence": "紙の博物館を訪れた。",
+    "sentence_furigana": "紙【かみ】の博物館【はくぶつかん】を訪//れた。",
+    "meaning": "I visited a paper museum."
+  },
+  {
+    "sentence": "紙幣交換所を見つける。",
+    "sentence_furigana": "紙幣【しへい】交換所【こうかんじょ】を見//つける。",
+    "meaning": "To find a currency exchange office."
+  },
+  {
+    "sentence": "紙の芸術作品に感動した。",
+    "sentence_furigana": "紙【かみ】の芸術作品【げいじゅつさくひん】に感動【かんどう】した。",
+    "meaning": "I was moved by the paper art."
+  },
+  {
+    "sentence": "古い書物の紙は貴重だ。",
+    "sentence_furigana": "古//い書物【しょもつ】の紙【かみ】は貴重【きちょう】だ。",
+    "meaning": "The paper of old books is precious."
+  },
+  {
+    "sentence": "紙袋に商品を入れる。",
+    "sentence_furigana": "紙袋【かみぶくろ】に商品【しょうひん】を入//れる。",
+    "meaning": "To put merchandise in a paper bag."
+  },
+  {
+    "sentence": "紙面に新製品を紹介する。",
+    "sentence_furigana": "紙面【しめん】に新製品【しんせいひん】を紹介【しょうかい】する。",
+    "meaning": "To introduce new products in the newspaper."
+  },
+  {
+    "sentence": "紙には様々な種類がある。",
+    "sentence_furigana": "紙【かみ】には様々//な種類【しゅるい】がある。",
+    "meaning": "There are various types of paper."
+  },
+  {
+    "sentence": "紙飛行機を飛ばす遊び。",
+    "sentence_furigana": "紙飛行機【かみひこうき】を飛ば//す遊//び。",
+    "meaning": "A game of flying paper airplanes."
+  },
+  {
+    "sentence": "紙の地図が役に立った。",
+    "sentence_furigana": "紙【かみ】の地図【ちず】が役//に立//った。",
+    "meaning": "The paper map was useful."
+  },
+  {
+    "sentence": "紙幣は通貨の一種です。",
+    "sentence_furigana": "紙幣【しへい】は通貨【つうか】の一種【いっしゅ】です。",
+    "meaning": "Banknotes are a type of currency."
+  },
+  {
+    "sentence": "紙で顔を覆う。",
+    "sentence_furigana": "紙【かみ】で顔【かお】を覆//う。",
+    "meaning": "To cover one's face with paper."
+  },
+  {
+    "sentence": "この紙は柔らかい。",
+    "sentence_furigana": "この紙【かみ】は柔らか//い。",
+    "meaning": "This paper is soft."
+  },
+  {
+    "sentence": "紙を折って形を作る。",
+    "sentence_furigana": "紙【かみ】を折//って形【かたち】を作//る。",
+    "meaning": "To make a shape by folding paper."
+  },
+  {
+    "sentence": "紙の切れ端を集める。",
+    "sentence_furigana": "紙【かみ】の切//れ端//【きれはし】を集//める。",
+    "meaning": "To collect scraps of paper."
+  },
+  {
+    "sentence": "古い紙幣の収集家。",
+    "sentence_furigana": "古//い紙幣【しへい】の収集家【しゅうしゅうか】。",
+    "meaning": "A collector of old banknotes."
+  },
+  {
+    "sentence": "紙吹雪が舞う。",
+    "sentence_furigana": "紙吹雪【かみふぶき】が舞//う。",
+    "meaning": "Confetti is falling."
+  },
+  {
+    "sentence": "紙の辞書を引く。",
+    "sentence_furigana": "紙【かみ】の辞書【じしょ】を引//く。",
+    "meaning": "To look up a word in a paper dictionary."
+  },
+  {
+    "sentence": "紙に色を塗る。",
+    "sentence_furigana": "紙【かみ】に色//【いろ】を塗//る。",
+    "meaning": "To color on paper."
+  },
+  {
+    "sentence": "紙はリサイクル可能な資源です。",
+    "sentence_furigana": "紙【かみ】はリサイクル可能//な資源【しげん】です。",
+    "meaning": "Paper is a recyclable resource."
+  },
+  {
+    "sentence": "紙飛行機の競技会。",
+    "sentence_furigana": "紙飛行機【かみひこうき】の競技会【きょうぎかい】。",
+    "meaning": "A paper airplane competition."
+  },
+  {
+    "sentence": "紙はさまざまな用途に使われる。",
+    "sentence_furigana": "紙【かみ】は様々//な用途【ようと】に使//われる。",
+    "meaning": "Paper is used for various purposes."
+  },
+  {
+    "sentence": "紙幣を大切に扱う。",
+    "sentence_furigana": "紙幣【しへい】を大切【たいせつ】に扱//う。",
+    "meaning": "To handle banknotes with care."
+  },
+  {
+    "sentence": "紙の資料をファイリングする。",
+    "sentence_furigana": "紙【かみ】の資料【しりょう】をファイリングする。",
+    "meaning": "To file paper documents."
+  },
+  {
+    "sentence": "紙袋は丈夫で便利だ。",
+    "sentence_furigana": "紙袋【かみぶくろ】は丈夫【じょうぶ】で便利【べんり】だ。",
+    "meaning": "Paper bags are durable and convenient."
+  },
+  {
+    "sentence": "紙面に記事が掲載された。",
+    "sentence_furigana": "紙面【しめん】に記事【きじ】が掲載【けいさい】された。",
+    "meaning": "An article was published in the newspaper."
+  },
+  {
+    "sentence": "紙の封筒に手紙を入れる。",
+    "sentence_furigana": "紙【かみ】の封筒【ふうとう】に手紙【てがみ】を入//れる。",
+    "meaning": "To put a letter in a paper envelope."
+  },
+  {
+    "sentence": "紙にアイデアを書き出す。",
+    "sentence_furigana": "紙【かみ】にアイデアを書//き出//す。",
+    "meaning": "To write down ideas on paper."
+  },
+  {
+    "sentence": "紙幣の価値が上昇した。",
+    "sentence_furigana": "紙幣【しへい】の価値【かち】が上昇【じょうしょう】した。",
+    "meaning": "The value of banknotes has increased."
+  },
+  {
+    "sentence": "この紙は書き心地が良い。",
+    "sentence_furigana": "この紙【かみ】は書//き心地//【かきごこち】が良い【よい】。",
+    "meaning": "This paper is pleasant to write on."
+  },
+  {
+    "sentence": "紙の模型を作る。",
+    "sentence_furigana": "紙【かみ】の模型【もけい】を作//る。",
+    "meaning": "To make a paper model."
+  },
+  {
+    "sentence": "紙は再生紙として利用できる。",
+    "sentence_furigana": "紙【かみ】は再生紙【さいせいし】として利用//可能//だ。",
+    "meaning": "Paper can be used as recycled paper."
+  },
+  {
+    "sentence": "紙の折り目を作る。",
+    "sentence_furigana": "紙【かみ】の折//り目//【おりめ】を作//る。",
+    "meaning": "To make a crease in the paper."
+  },
+  {
+    "sentence": "紙幣の流通量が増えた。",
+    "sentence_furigana": "紙幣【しへい】の流通量【りゅうつうりょう】が増//えた。",
+    "meaning": "The circulation of banknotes has increased."
+  },
+  {
+    "sentence": "紙のポスターを貼る。",
+    "sentence_furigana": "紙【かみ】のポスターを貼//る。",
+    "meaning": "To put up a paper poster."
+  },
+  {
+    "sentence": "紙を四つ折りにする。",
+    "sentence_furigana": "紙【かみ】を四//つ折//りにする。",
+    "meaning": "To fold the paper in four."
+  },
+  {
+    "sentence": "紙の束を束ねる。",
+    "sentence_furigana": "紙【かみ】の束//【たば】を束//ねる。",
+    "meaning": "To tie a bundle of paper."
+  },
+  {
+    "sentence": "紙幣は国の経済を支える。",
+    "sentence_furigana": "紙幣【しへい】は国//の経済【けいざい】を支//える。",
+    "meaning": "Banknotes support the national economy."
+  },
+  {
+    "sentence": "紙に感謝の気持ちを込めて書く。",
+    "sentence_furigana": "紙【かみ】に感謝【かんしゃ】の気持//ち//を込//めて書//く。",
+    "meaning": "To write heartfelt gratitude on paper."
+  },
+  {
+    "sentence": "紙のカードに名前を書く。",
+    "sentence_furigana": "紙【かみ】のカードに名前//【なまえ】を書//く。",
+    "meaning": "To write a name on a paper card."
+  },
+  {
+    "sentence": "紙の印刷物は情報源となる。",
+    "sentence_furigana": "紙【かみ】の印刷物//【いんさつぶつ】は情報源//【じょうほうげん】となる。",
+    "meaning": "Printed paper materials serve as information sources."
+  },
+  {
+    "sentence": "紙幣を両替する。",
+    "sentence_furigana": "紙幣【しへい】を両替//【りょうがえ】する。",
+    "meaning": "To exchange banknotes."
+  },
+  {
+    "sentence": "紙は生物分解性がある。",
+    "sentence_furigana": "紙【かみ】は生物分解性//【せいぶつぶんかいせい】がある。",
+    "meaning": "Paper is biodegradable."
+  },
+  {
+    "sentence": "紙の地図は便利だ。",
+    "sentence_furigana": "紙【かみ】の地図【ちず】は便利【べんり】だ。",
+    "meaning": "Paper maps are convenient."
+  },
+  {
+    "sentence": "紙は再生可能な資源である。",
+    "sentence_furigana": "紙【かみ】は再生可能//な資源【しげん】である。",
+    "meaning": "Paper is a renewable resource."
+  },
+  {
+    "sentence": "紙幣は世界中で使われている。",
+    "sentence_furigana": "紙幣【しへい】は世界中//【せかいじゅう】で使//われている。",
+    "meaning": "Banknotes are used all over the world."
+  },
+  {
+    "sentence": "紙のメモを冷蔵庫に貼る。",
+    "sentence_furigana": "紙【かみ】のメモを冷蔵庫//【れいぞうこ】に貼//る。",
+    "meaning": "To stick a paper memo on the refrigerator."
+  },
+  {
+    "sentence": "紙の表面に模様がある。",
+    "sentence_furigana": "紙【かみ】の表面//【ひょうめん】に模様//【もよう】がある。",
+    "meaning": "There is a pattern on the surface of the paper."
+  },
+  {
+    "sentence": "紙幣の価値は国によって異なる。",
+    "sentence_furigana": "紙幣【しへい】の価値【かち】は国//によって異//なる。",
+    "meaning": "The value of banknotes varies by country."
+  },
+  {
+    "sentence": "紙飛行機を設計する。",
+    "sentence_furigana": "紙飛行機【かみひこうき】を設計//【せっけい】する。",
+    "meaning": "To design a paper airplane."
+  },
+  {
+    "sentence": "紙は非常に軽く、扱いやすい。",
+    "sentence_furigana": "紙【かみ】は非常//に軽//く、扱//いやすい。",
+    "meaning": "Paper is very light and easy to handle."
+  },
+  {
+    "sentence": "紙に描かれた絵は美しい。",
+    "sentence_furigana": "紙【かみ】に描//かれた絵//【え】は美//しい。",
+    "meaning": "The painting drawn on paper is beautiful."
+  },
+  {
+    "sentence": "紙幣を数える音。",
+    "sentence_furigana": "紙幣【しへい】を数//える音//【おと】。",
+    "meaning": "The sound of counting banknotes."
+  },
+  {
+    "sentence": "紙の封筒は便利だ。",
+    "sentence_furigana": "紙【かみ】の封筒//【ふうとう】は便利【べんり】だ。",
+    "meaning": "Paper envelopes are convenient."
+  },
+  {
+    "sentence": "紙は書くための媒体である。",
+    "sentence_furigana": "紙【かみ】は書//くための媒体//【ばいたい】である。",
+    "meaning": "Paper is a medium for writing."
+  },
+  {
+    "sentence": "紙幣は多くの国で使用されている。",
+    "sentence_furigana": "紙幣【しへい】は多//くの国//で使用//【しよう】されている。",
+    "meaning": "Banknotes are used in many countries."
+  },
+  {
+    "sentence": "紙の資料をコピーする。",
+    "sentence_furigana": "紙【かみ】の資料【しりょう】をコピーする。",
+    "meaning": "To copy paper documents."
+  },
+  {
+    "sentence": "紙は環境に優しい素材です。",
+    "sentence_furigana": "紙【かみ】は環境【かんきょう】に優//しい素材//【そざい】です。",
+    "meaning": "Paper is an environmentally friendly material."
+  },
+  {
+    "sentence": "紙幣を新しいものに交換する。",
+    "sentence_furigana": "紙幣【しへい】を新//しいものに交換//【こうかん】する。",
+    "meaning": "To exchange banknotes for new ones."
+  },
+  {
+    "sentence": "紙にインクが滲まないように注意する。",
+    "sentence_furigana": "紙【かみ】にインクが滲//まないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to let ink bleed on the paper."
+  },
+  {
+    "sentence": "紙は燃えるゴミとして扱われる。",
+    "sentence_furigana": "紙【かみ】は燃//えるゴミとして扱//われる。",
+    "meaning": "Paper is treated as burnable trash."
+  }
+]

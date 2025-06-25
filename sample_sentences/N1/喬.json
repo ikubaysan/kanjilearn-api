@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は背が高く、ひときわ目立っていた。",
+    "sentence_furigana": "彼【かれ】は背【せ】が高【たか】く、ひときわ目立【めだ】っていた。",
+    "meaning": "He was tall and particularly noticeable."
+  },
+  {
+    "sentence": "その山の頂は雲に覆われ、遥か彼方に見えた。",
+    "sentence_furigana": "その山【やま】の頂【いただき】は雲【くも】に覆【おお】われ、遥【はる】か彼方【かなた】に見【み】えた。",
+    "meaning": "The summit of that mountain was covered in clouds and looked far away."
+  },
+  {
+    "sentence": "彼女は自身の才能を鼻にかけ、周りを見下していた。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】の才能【さいのう】を鼻【はな】にかけて、周【まわ】りを見下【みお】ろしていた。",
+    "meaning": "She boasted about her talent and looked down on others."
+  },
+  {
+    "sentence": "彼の演技は観客を魅了し、高い評価を得た。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】は観客【かんきゃく】を魅了【みりょう】し、高【たか】い評価【ひょうか】を得【え】た。",
+    "meaning": "His performance captivated the audience and received high praise."
+  },
+  {
+    "sentence": "その建築物は非常に高く、空に突き刺さるかのようだった。",
+    "sentence_furigana": "その建築物【けんちくぶつ】は非常【ひじょう】に高【たか】く、空【そら】に突【つ】き刺【さ】さるかのようだった。",
+    "meaning": "The building was very tall, seeming to pierce the sky."
+  },
+  {
+    "sentence": "彼は幼い頃から体が大きく、将来有望と見られていた。",
+    "sentence_furigana": "彼【かれ】は幼【おさな】い頃【ころ】から体【からだ】が大【おお】きく、将来有望【しょうらいゆうぼう】と見【み】られていた。",
+    "meaning": "He was large from a young age and was seen as promising for the future."
+  },
+  {
+    "sentence": "その塔からは街全体を一望できた。",
+    "sentence_furigana": "その塔【とう】からは街【まち】全体【ぜんたい】を**一望**【いちぼう】できた。",
+    "meaning": "From that tower, you could see the entire city at a glance."
+  },
+  {
+    "sentence": "彼は常に高みを目指し、努力を惜しまなかった。",
+    "sentence_furigana": "彼【かれ】は常【つね】に高【たか】みを目指【めざ】し、努力【どりょく】を惜【お】しまなかった。",
+    "meaning": "He always aimed for higher goals and spared no effort."
+  },
+  {
+    "sentence": "その男は自慢話ばかりで、鼻持ちならない。",
+    "sentence_furigana": "その男【おとこ】は自慢話【じまんばなし】ばかりで、鼻持【はなも】たない。",
+    "meaning": "That man only talks about himself, it's unbearable."
+  },
+  {
+    "sentence": "高層ビルが林立する都市の風景は圧巻だ。",
+    "sentence_furigana": "高層ビル【こうそうビル】が林立【りんりつ】する都市【とし】の風景【ふうけい】は圧巻【あっかん】だ。",
+    "meaning": "The cityscape with many skyscrapers is spectacular."
+  },
+  {
+    "sentence": "彼の語りは聴衆を惹きつけ、会場は静まり返った。",
+    "sentence_furigana": "彼【かれ】の語【かた】りは聴衆【ちょうしゅう】を惹【ひ】きつけ、会場【かいじょう】は静【しず】まり返【かえ】った。",
+    "meaning": "His storytelling captivated the audience, and the venue fell silent."
+  },
+  {
+    "sentence": "その鳥は非常に高く舞い上がり、点のように見えた。",
+    "sentence_furigana": "その鳥【とり】は非常【ひじょう】に高【たか】く舞【ま】い上【あ】がり、点【てん】のように見【み】えた。",
+    "meaning": "The bird soared very high, looking like a dot."
+  },
+  {
+    "sentence": "彼は常に上を目指す向上心を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に上【うえ】を目指【めざ】す向上心【こうじょうしん】を持【も】っている。",
+    "meaning": "He always has the ambition to aim higher."
+  },
+  {
+    "sentence": "その山の高さは想像を絶するものだった。",
+    "sentence_furigana": "その山【やま】の高【たか】さは想像【そうぞう】を絶【ぜっ】するものだった。",
+    "meaning": "The height of that mountain was beyond imagination."
+  },
+  {
+    "sentence": "彼は自分の業績を誇示する傾向がある。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の業績【ぎょうせき】を誇示【こじ】する傾向【けいこう】がある。",
+    "meaning": "He tends to flaunt his achievements."
+  },
+  {
+    "sentence": "高層階からの眺めは格別だった。",
+    "sentence_furigana": "高層階【こうそうかい】からの眺【なが】めは格別【かくべつ】だった。",
+    "meaning": "The view from the higher floors was exceptional."
+  },
+  {
+    "sentence": "その話は誇張されているのではないかと思う。",
+    "sentence_furigana": "その話【はなし】は誇張【こちょう】されているのではないかと思【おも】う。",
+    "meaning": "I think that story might be exaggerated."
+  },
+  {
+    "sentence": "彼は優秀な成績で卒業し、皆の称賛を浴びた。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】な成績【せいせき】で卒業【そつぎょう】し、皆【みな】の称賛【しょうさん】を浴【あ】びた。",
+    "meaning": "He graduated with excellent grades and received everyone's praise."
+  },
+  {
+    "sentence": "その彫刻は高くそびえ立ち、芸術的な存在感を放っていた。",
+    "sentence_furigana": "その彫刻【ちょうこく】は高【たか】くそびえ立【た】ち、芸術的【げいじゅつてき】な存在感【そんざいかん】を放【はな】っていた。",
+    "meaning": "The sculpture stood tall, exuding an artistic presence."
+  },
+  {
+    "sentence": "彼は自慢げにその宝石を見せてきた。",
+    "sentence_furigana": "彼【かれ】は自慢げ【じまんげ】にその宝石【ほうせき】を見【み】せてきた。",
+    "meaning": "He proudly showed me the jewel."
+  },
+  {
+    "sentence": "その城は高い崖の上に築かれていた。",
+    "sentence_furigana": "その城【しろ】は高【たか】い崖【がけ】の上【うえ】に築【きず】かれていた。",
+    "meaning": "The castle was built on a high cliff."
+  },
+  {
+    "sentence": "彼は高尚な趣味を持っていることで知られている。",
+    "sentence_furigana": "彼【かれ】は高尚【こうしょう】な趣味【しゅみ】を持【も】っていることで知【し】られている。",
+    "meaning": "He is known for having sophisticated hobbies."
+  },
+  {
+    "sentence": "その山脈は空高くそびえ、雄大な景色を作り出していた。",
+    "sentence_furigana": "その山脈【さんみゃく】は空【そら】高【たか】くそびえ、雄大【ゆうだい】な景色【けしき】を作【つく】り出【だ】していた。",
+    "meaning": "The mountain range soared high into the sky, creating a magnificent landscape."
+  },
+  {
+    "sentence": "彼は自分の力を過信し、無謀な挑戦をした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の力【ちから】を過信【かしん】し、無謀【むぼう】な挑戦【ちょうせん】をした。",
+    "meaning": "He overconfidence in his abilities and took on a reckless challenge."
+  },
+  {
+    "sentence": "その建物の高さは記録的だった。",
+    "sentence_furigana": "その建物【たてもの】の高【たか】さは記録的【きろくてき】だった。",
+    "meaning": "The height of that building was record-breaking."
+  },
+  {
+    "sentence": "彼は自分の成功を大いに誇っていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の成功【せいこう】を大【おお】いに誇【ほこ】っていた。",
+    "meaning": "He was very proud of his success."
+  },
+  {
+    "sentence": "その崖の上からの景色は、まさに絶景だった。",
+    "sentence_furigana": "その崖【がけ】の上【うえ】からの景色【けしき】は、まさに絶景【ぜっけい】だった。",
+    "meaning": "The view from the top of that cliff was truly a superb view."
+  },
+  {
+    "sentence": "彼は見事な腕前で観客を沸かせた。",
+    "sentence_furigana": "彼【かれ】は見事【みごと】な腕前【うでまえ】で観客【かんきゃく】を沸【わ】かせた。",
+    "meaning": "He thrilled the audience with his excellent skill."
+  },
+  {
+    "sentence": "その塔は非常に高く、遠くからでも見ることができた。",
+    "sentence_furigana": "その塔【とう】は非常【ひじょう】に高【たか】く、遠【とお】くからでも見【み】ることができた。",
+    "meaning": "The tower was very tall and could be seen even from a distance."
+  },
+  {
+    "sentence": "彼はいつも大きなことを言っているが、実行が伴わない。",
+    "sentence_furigana": "彼【かれ】はいつも大【おお】きなこと言【い】っているが、実行【じっこう】が伴【ともな】わない。",
+    "meaning": "He always says big things, but execution doesn't follow."
+  },
+  {
+    "sentence": "その山の高さは地元の人々にとって誇りだった。",
+    "sentence_furigana": "その山【やま】の高【たか】さは地元【じもと】の人々【ひとびと】にとって誇【ほこ】りだった。",
+    "meaning": "The height of that mountain was a source of pride for the local people."
+  },
+  {
+    "sentence": "彼は自分の発言を撤回することを拒否した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の発言【はつげん】を撤回【てっかい】することを拒否【きょひ】した。",
+    "meaning": "He refused to retract his statement."
+  },
+  {
+    "sentence": "そのビルは市内で最も高く、ランドマークとなっている。",
+    "sentence_furigana": "そのビルは市内【しない】で最も高【もっともたか】く、ランドマークとなっている。",
+    "meaning": "That building is the tallest in the city and serves as a landmark."
+  },
+  {
+    "sentence": "彼は自慢話に終始し、うんざりした。",
+    "sentence_furigana": "彼【かれ】は自慢話【じまんばなし】に終始【しゅうし】し、うんざりした。",
+    "meaning": "He kept talking about himself, and I got tired of it."
+  },
+  {
+    "sentence": "その山頂は雪に覆われ、遥かなる頂きに見えた。",
+    "sentence_furigana": "その山頂【さんちょう】は雪【ゆき】に覆【おお】われ、遥【はる】かなる頂【いただき】に見【み】えた。",
+    "meaning": "The summit of that mountain was covered in snow and looked like a distant peak."
+  },
+  {
+    "sentence": "彼は見栄を張って、高級車を購入した。",
+    "sentence_furigana": "彼【かれ】は見栄【みえ】を張【は】って、高級車【こうきゅうしゃ】を購入【こうにゅう】した。",
+    "meaning": "He bought a luxury car to show off."
+  },
+  {
+    "sentence": "その高台からの眺めは息をのむほど美しかった。",
+    "sentence_furigana": "その高台【たかだい】からの眺【なが】めは息【いき】を飲【の】むほど美【うつく】しかった。",
+    "meaning": "The view from that high ground was breathtakingly beautiful."
+  },
+  {
+    "sentence": "彼は常に向上心を持っており、自己啓発に励んでいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】っており、自己啓発【じこけいはつ】に励【はげ】んでいる。",
+    "meaning": "He always has ambition and strives for self-improvement."
+  },
+  {
+    "sentence": "その木は非常に高く、古くからそこに立っていた。",
+    "sentence_furigana": "その木【き】は非常【ひじょう】に高【たか】く、古【ふる】くからそこにあった。",
+    "meaning": "The tree was very tall and had been there for a long time."
+  },
+  {
+    "sentence": "彼は自分の能力を過大評価していた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】を過大評価【かだいひょうか】していた。",
+    "meaning": "He overestimated his own abilities."
+  },
+  {
+    "sentence": "その塔の高さは驚異的だった。",
+    "sentence_furigana": "その塔【とう】の高【たか】さは驚異的【きょういてき】だった。",
+    "meaning": "The height of the tower was astonishing."
+  },
+  {
+    "sentence": "彼は高慢な態度で、他の意見を聞こうとしなかった。",
+    "sentence_furigana": "彼【かれ】は高慢【こうまん】な態度【たいど】で、他【ほか】の意見【いけん】を聞【き】こうとしなかった。",
+    "meaning": "With his arrogant attitude, he wouldn't listen to other opinions."
+  },
+  {
+    "sentence": "その景色はまさに絵画のようで、高く評価に値する。",
+    "sentence_furigana": "その景色【けしき】はまさに絵画【かいが】のようで、高【たか】く評価【ひょうか】に値【あたい】する。",
+    "meaning": "That scenery was truly like a painting and deserved high praise."
+  },
+  {
+    "sentence": "彼はいつも偉そうな口を叩いている。",
+    "sentence_furigana": "彼【かれ】はいつも偉【えら】そうな口【くち】を叩【たた】いている。",
+    "meaning": "He is always talking big."
+  },
+  {
+    "sentence": "その山の高さは、登る者にとって大きな挑戦となるだろう。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、登【のぼ】る者【もの】にとって大【おお】きな挑戦【ちょうせん】となるだろう。",
+    "meaning": "The height of that mountain will be a great challenge for those who climb it."
+  },
+  {
+    "sentence": "彼は自分の才能をひけらかしていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の才能【さいのう】をひけらかしていた。",
+    "meaning": "He was showing off his talent."
+  },
+  {
+    "sentence": "高台に立つ城は、昔の威厳を保っていた。",
+    "sentence_furigana": "高台【たかだい】に立【た】つ城【しろ】は、昔【むかし】の威厳【いげん】を保【たも】っていた。",
+    "meaning": "The castle standing on the high ground retained its former dignity."
+  },
+  {
+    "sentence": "彼は常に高い目標を設定し、努力を続けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に高【たか】い目標【もくひょう】を設定【せってい】し、努力【どりょく】を続【つづ】けている。",
+    "meaning": "He always sets high goals and continues to work hard."
+  },
+  {
+    "sentence": "その塔の高さは圧倒的で、見上げるだけで首が痛くなった。",
+    "sentence_furigana": "その塔【とう】の高【たか】さは圧倒的【あっとうてき】で、見上【みあ】げるだけで首【くび】が痛【いた】くなった。",
+    "meaning": "The height of the tower was overwhelming, and my neck hurt just looking up."
+  },
+  {
+    "sentence": "彼は自慢ばかりするが、実際はそれほどでもない。",
+    "sentence_furigana": "彼【かれ】は自慢【じまん】ばかりするが、実際【じっさい】はそれほどでもない。",
+    "meaning": "He only boasts, but in reality, he's not that great."
+  },
+  {
+    "sentence": "その山は高く険しいが、多くの登山者を魅了する。",
+    "sentence_furigana": "その山【やま】は高【たか】く険【けわ】しいが、多【おお】くの登山者【とざんしゃ】を魅了【みりょう】する。",
+    "meaning": "That mountain is high and steep, but it fascinates many climbers."
+  },
+  {
+    "sentence": "彼は自分の経験をひけらかすのが好きだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の経験【けいけん】をひけらかすのが好【す】きだ。",
+    "meaning": "He likes to show off his experience."
+  },
+  {
+    "sentence": "その建物は周囲の建物を圧倒する高さを持っていた。",
+    "sentence_furigana": "その建物【たてもの】は周囲【しゅうい】の建物【たてもの】を圧倒【あっとう】する高【たか】さを持【も】っていた。",
+    "meaning": "The building had a height that overshadowed the surrounding structures."
+  },
+  {
+    "sentence": "彼は高慢な態度のために、多くの人に嫌われていた。",
+    "sentence_furigana": "彼【かれ】は高慢【こうまん】な態度【たいど】のために、多【おお】くの人【ひと】に嫌【きら】われていた。",
+    "meaning": "He was disliked by many people because of his arrogant attitude."
+  },
+  {
+    "sentence": "その山の高さは、古くから人々に畏敬の念を抱かせてきた。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、古【ふる】くから人々【ひとびと】に畏敬【いけい】の念【ねん】を抱【いだ】かせてきた。",
+    "meaning": "The height of that mountain has inspired awe in people since ancient times."
+  },
+  {
+    "sentence": "彼は自慢げに新しい車を見せびらかした。",
+    "sentence_furigana": "彼【かれ】は自慢げ【じまんげ】に新【あたら】しい車【くるま】を見【み】せびらかした。",
+    "meaning": "He proudly showed off his new car."
+  },
+  {
+    "sentence": "その高層ビル群は都市のスカイラインを形成している。",
+    "sentence_furigana": "その高層ビル群【こうそうビルぐん】は都市【とし】のスカイラインを形成【けいせい】している。",
+    "meaning": "Those skyscrapers form the city's skyline."
+  },
+  {
+    "sentence": "彼は向上心があり、常に新しいスキルを学ぼうとしている。",
+    "sentence_furigana": "彼【かれ】は向上心【こうじょうしん】があり、常【つね】に新【あたら】しいスキルを学【まな】ぼうとしている。",
+    "meaning": "He is ambitious and always trying to learn new skills."
+  },
+  {
+    "sentence": "その山岳地帯は、非常に高い峰々で知られている。",
+    "sentence_furigana": "その山岳地帯【さんがくちたい】は、非常【ひじょう】に高【たか】い峰々【みねみね】で知【し】られている。",
+    "meaning": "That mountainous region is known for its very high peaks."
+  },
+  {
+    "sentence": "彼は自分の業績に誇りを持っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の業績【ぎょうせき】に誇【ほこ】りを持【も】っている。",
+    "meaning": "He is proud of his achievements."
+  },
+  {
+    "sentence": "その滝は高く、壮大な自然の力を見せつけていた。",
+    "sentence_furigana": "その滝【たき】は高【たか】く、壮大【そうだい】な自然【しぜん】の力【ちから】を見【み】せつけていた。",
+    "meaning": "The waterfall was high, showcasing the immense power of nature."
+  },
+  {
+    "sentence": "彼は高揚した気分で、夜空に向かって叫んだ。",
+    "sentence_furigana": "彼【かれ】は高揚【こうよう】した気分【きぶん】で、夜空【よぞら】に向【む】かって叫【さけ】んだ。",
+    "meaning": "In a state of exhilaration, he shouted at the night sky."
+  },
+  {
+    "sentence": "その山頂からの眺めは、人生で最高の瞬間の一つだった。",
+    "sentence_furigana": "その山頂【さんちょう】からの眺【なが】めは、人生【じんせい】で最高【さいこう】の瞬間【しゅんかん】の一【ひと】つだった。",
+    "meaning": "The view from that summit was one of the best moments of my life."
+  },
+  {
+    "sentence": "彼は自慢げに自分のコレクションを見せてくれた。",
+    "sentence_furigana": "彼【かれ】は自慢げ【じまんげ】に自分【じぶん】のコレクションを見【み】せてくれた。",
+    "meaning": "He proudly showed me his collection."
+  },
+  {
+    "sentence": "その建物の高さは、まるで天空に向かって伸びているかのようだった。",
+    "sentence_furigana": "その建物【たてもの】の高【たか】さは、まるで天空【てんくう】に向【む】かって伸【の】びているかのようだった。",
+    "meaning": "The height of the building seemed to stretch towards the heavens."
+  },
+  {
+    "sentence": "彼は常に高い理想を掲げ、努力を惜しまなかった。",
+    "sentence_furigana": "彼【かれ】は常【つね】に高【たか】い理想【りそう】を掲【かか】げ、努力【どりょく】を惜【お】しまなかった。",
+    "meaning": "He always held high ideals and spared no effort."
+  },
+  {
+    "sentence": "その丘の上からは、遠くまで見渡すことができた。",
+    "sentence_furigana": "その丘【おか】の上【うえ】からは、遠【とお】くまで見渡【みわた】すことができた。",
+    "meaning": "From the top of that hill, we could see far into the distance."
+  },
+  {
+    "sentence": "彼は自分の意見を曲げず、頑なに主張した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を曲【ま】げず、頑【がん】なに主張【しゅちょう】した。",
+    "meaning": "He stubbornly insisted on his opinion without wavering."
+  },
+  {
+    "sentence": "その山の高さは登山者の間で有名だ。",
+    "sentence_furigana": "その山【やま】の高【たか】さは登山者【とざんしゃ】の間【あいだ】で有名【ゆうめい】だ。",
+    "meaning": "The height of that mountain is famous among climbers."
+  },
+  {
+    "sentence": "彼は自分の知識をひけらかすために質問した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の知識【ちしき】をひけらかすために質問【しつもん】した。",
+    "meaning": "He asked questions to show off his knowledge."
+  },
+  {
+    "sentence": "その塔は町のシンボルとして高くそびえ立っている。",
+    "sentence_furigana": "その塔【とう】は町【まち】のシンボルとして高【たか】くそびえ立【た】っている。",
+    "meaning": "The tower stands tall as a symbol of the town."
+  },
+  {
+    "sentence": "彼は高慢な態度で、決して謝罪しようとしなかった。",
+    "sentence_furigana": "彼【かれ】は高慢【こうまん】な態度【たいど】で、決【けっ】して謝罪【しゃざい】しようとしなかった。",
+    "meaning": "With his arrogant attitude, he never tried to apologize."
+  },
+  {
+    "sentence": "その山の高さは、訪れる者に畏敬の念を抱かせる。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、訪【おとず】れる者【もの】に畏敬【いけい】の念【ねん】を抱【いだ】かせる。",
+    "meaning": "The height of that mountain inspires awe in visitors."
+  },
+  {
+    "sentence": "彼は自分の強さを過信し、結果的に失敗した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の強【つよ】さを過信【かしん】し、結果的【けっかてき】に失敗【しっぱい】した。",
+    "meaning": "He overconfidence in his strength and consequently failed."
+  },
+  {
+    "sentence": "その高層ビルは都市の景観を大きく変えた。",
+    "sentence_furigana": "その高層ビル【こうそうビル】は都市【とし】の景観【けいかん】を大【おお】きく変【か】えた。",
+    "meaning": "That skyscraper greatly changed the city's landscape."
+  },
+  {
+    "sentence": "彼は見栄っ張りで、常に最新の流行を追いかけている。",
+    "sentence_furigana": "彼【かれ】は見栄張【みえば】りで、常【つね】に最新【さいしん】の流行【りゅうこう】を追【お】いかけている。",
+    "meaning": "He is boastful and always chasing the latest trends."
+  },
+  {
+    "sentence": "その展望台からは、遠くの山並みまで見渡せた。",
+    "sentence_furigana": "その展望台【てんぼうだい】からは、遠【とお】くの山並【やま</strong>な】みまで見渡【みわた】せた。",
+    "meaning": "From that observation deck, we could see all the way to the distant mountain ranges."
+  },
+  {
+    "sentence": "彼は常に高みを目指し、自己成長を続けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に高【たか】みを目指【めざ】し、自己成長【じこせいちょう】を続【つづ】けている。",
+    "meaning": "He always aims higher and continues to grow as a person."
+  },
+  {
+    "sentence": "その塔は非常に高く、設計上の偉業と言える。",
+    "sentence_furigana": "その塔【とう】は非常【ひじょう】に高【たか】く、設計上【せっけいじょう】の偉業【いぎょう】と言【い】える。",
+    "meaning": "The tower is very tall and can be called an engineering feat."
+  },
+  {
+    "sentence": "彼は自分の手柄を誇示したがった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の手柄【てがら】を誇示【こじ】したがった。",
+    "meaning": "He wanted to flaunt his accomplishment."
+  },
+  {
+    "sentence": "その崖の上からは、眼下に広がる海の景色が素晴らしかった。",
+    "sentence_furigana": "その崖【がけ】の上【うえ】からは、眼下【がんか】に広【ひろ】がる海【うみ】の景色【けしき】が素晴【すば】らしかった。",
+    "meaning": "From the top of that cliff, the view of the sea spread out below was wonderful."
+  },
+  {
+    "sentence": "彼は自慢話ばかりで、聞いているこちらが疲れてしまう。",
+    "sentence_furigana": "彼【かれ】は自慢話【じまんばなし】ばかりで、聞【き】いているこちらが疲【つか】れてしまう。",
+    "meaning": "He only talks about himself, and it's tiring for the listener."
+  },
+  {
+    "sentence": "その山の高さは、多くの人々の憧れの的となっている。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、多【おお】くの人々【ひとびと】の憧【あこが】れの的【まと】となっている。",
+    "meaning": "The height of that mountain is an object of admiration for many people."
+  },
+  {
+    "sentence": "彼は高尚な目的のために活動している。",
+    "sentence_furigana": "彼【かれ】は高尚【こうしょう】な目的【もくてき】のために活動【かつどう】している。",
+    "meaning": "He is working towards a noble cause."
+  },
+  {
+    "sentence": "その塔は街で最も高く、遠くからでもよく見える。",
+    "sentence_furigana": "その塔【とう】は町【まち】で最も高【もっともたか】く、遠【とお】くからでもよく見【み】える。",
+    "meaning": "The tower is the tallest in town and is visible from afar."
+  },
+  {
+    "sentence": "彼は自分の才能をひけらかすのをやめるべきだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の才能【さいのう】をひけらかすのをやめるべきだ。",
+    "meaning": "He should stop showing off his talent."
+  },
+  {
+    "sentence": "その山の高さは、多くの探検家を惹きつけてやまない。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、多【おお】くの探検家【たんけんか】を惹【ひ】きつけてやまない。",
+    "meaning": "The height of that mountain continues to attract many explorers."
+  },
+  {
+    "sentence": "彼は高い目標を掲げ、常に努力している。",
+    "sentence_furigana": "彼【かれ】は高【たか】い目標【もくひょう】を掲【かか】げ、常【つね】に努力【どりょく】している。",
+    "meaning": "He sets high goals and always works hard."
+  },
+  {
+    "sentence": "その展望台からの眺めは圧巻だった。",
+    "sentence_furigana": "その展望台【てんぼうだい】からの眺【なが】めは圧巻【あっかん】だった。",
+    "meaning": "The view from that observation deck was spectacular."
+  },
+  {
+    "sentence": "彼は自慢げに自分のコレクションを見せた。",
+    "sentence_furigana": "彼【かれ】は自慢げ【じまんげ】に自分【じぶん】のコレクションを見【み】せた。",
+    "meaning": "He proudly showed his collection."
+  },
+  {
+    "sentence": "その高い崖は、自然の驚異を物語っていた。",
+    "sentence_furigana": "その高【たか】い崖【がけ】は、自然【しぜん】の驚異【きょうい】を物語【ものがた】っていた。",
+    "meaning": "That high cliff told a story of nature's marvel."
+  },
+  {
+    "sentence": "彼は見栄を張って、わざと高い価格で品物を買った。",
+    "sentence_furigana": "彼【かれ】は見栄【みえ】を張【は】って、わざと高【たか】い価格【かかく】で品物【しなもの】を買【か】った。",
+    "meaning": "He bought the item at a high price intentionally to show off."
+  },
+  {
+    "sentence": "その山の高さは、見る者に畏敬の念を抱かせる。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、見【み】る者に【もの】に畏敬【いけい】の念【ねん】を抱【いだ】かせる。",
+    "meaning": "The height of that mountain inspires awe in those who see it."
+  },
+  {
+    "sentence": "彼は自分の能力を過大評価して、失敗した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】を過大評価【かだいひょうか】して、失敗【しっぱい】した。",
+    "meaning": "He overestimated his abilities and failed."
+  },
+  {
+    "sentence": "その塔は非常に高く、町のランドマークとなっている。",
+    "sentence_furigana": "その塔【とう】は非常【ひじょう】に高【たか】く、町【まち】のランドマークとなっている。",
+    "meaning": "The tower is very tall and has become the town's landmark."
+  },
+  {
+    "sentence": "彼は常に向上心を持ち、自己研鑽を怠らない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】ち、自己研鑽【じこけんさん】を怠【おこた】らない。",
+    "meaning": "He always has ambition and never neglects self-improvement."
+  },
+  {
+    "sentence": "その山の高さは、多くの登山者を魅了している。",
+    "sentence_furigana": "その山【やま】の高【たか】さは、多【おお】くの登山者【とざんしゃ】を魅了【みりょう】している。",
+    "meaning": "The height of that mountain attracts many climbers."
+  },
+  {
+    "sentence": "彼は自分の功績を誇示することを好む。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の功績【こうせき】を誇示【こじ】することを好【この】む。",
+    "meaning": "He likes to flaunt his achievements."
+  },
+  {
+    "sentence": "その高台からの眺めは格別で、忘れられない思い出となった。",
+    "sentence_furigana": "その高台【たかだい】からの眺【なが】めは格別【かくべつ】で、忘【わす】れられない思【おも】い出【で】となった。",
+    "meaning": "The view from that high ground was exceptional and became an unforgettable memory."
+  },
+  {
+    "sentence": "彼は高慢な態度で、周りの意見に耳を貸さなかった。",
+    "sentence_furigana": "彼【かれ】は高慢【こうまん】な態度【たいど】で、周【まわ】りの意見【いけん】に耳【みみ】を貸【か】さなかった。",
+    "meaning": "With his arrogant attitude, he didn't listen to the opinions of those around him."
+  },
+  {
+    "sentence": "その山頂からは、息をのむほど雄大な景色が広がっていた。",
+    "sentence_furigana": "その山頂【さんちょう】からは、息【いき】をのむほど雄大【ゆうだい】な景色【けしき】が広【ひろ】がっていた。",
+    "meaning": "From that summit, a breathtakingly magnificent landscape spread out."
+  }
+]

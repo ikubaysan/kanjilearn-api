@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "この事実は彼を犯人だと推測させる。",
+    "sentence_furigana": "この【この】事実【じじつ】は彼【かれ】を犯人【はんにん】だと推測【すいさく】させる。",
+    "meaning": "This fact leads to the inference that he is the culprit."
+  },
+  {
+    "sentence": "彼女の服装から、裕福な家庭の出身だと推測できる。",
+    "sentence_furigana": "彼女【かのじょ】の服装【ふくそう】から、裕福【ゆうふく】な家庭【かてい】の出身【しゅっしん】だと推測【すいさく】できる。",
+    "meaning": "From her clothing, one can infer that she comes from a wealthy family."
+  },
+  {
+    "sentence": "新しい理論を推測するのが科学者の仕事です。",
+    "sentence_furigana": "新【あたら】しい理論【りろん】を推測【すいさく】するのが科学者【かがくしゃ】の仕事【しごと】です。",
+    "meaning": "Inferring new theories is the job of scientists."
+  },
+  {
+    "sentence": "古い書物から当時の生活を推測する。",
+    "sentence_furigana": "古【ふる】い書物【しょもつ】から当時【とうじ】の生活【せいかつ】を推測【すいさく】する。",
+    "meaning": "We infer the lifestyle of those times from old books."
+  },
+  {
+    "sentence": "将来の経済動向を推測するのは難しい。",
+    "sentence_furigana": "将来【しょうらい】の経済動向【けいざいどうこう】を推測【すいさく】するのは難【むずか】しい。",
+    "meaning": "It is difficult to infer future economic trends."
+  },
+  {
+    "sentence": "その行動から、彼の意図を推測することができます。",
+    "sentence_furigana": "その行動【こうどう】から、彼【かれ】の意図【いと】を推測【すいさく】することができます。",
+    "meaning": "From that behavior, we can infer his intentions."
+  },
+  {
+    "sentence": "証拠に基づいて犯人を推測する。",
+    "sentence_furigana": "証拠【しょうこ】に基づいて【もとづいて】犯人【はんにん】を推測【すいさく】する。",
+    "meaning": "Infer the culprit based on the evidence."
+  },
+  {
+    "sentence": "彼はその結果を推測し、事前に準備をしていた。",
+    "sentence_furigana": "彼【かれ】はその結果【けっか】を推測【すいさく】し、事前【じぜん】に準備【じゅんび】をしていた。",
+    "meaning": "He inferred the result and prepared in advance."
+  },
+  {
+    "sentence": "現代人は古代人の生活を推測する。",
+    "sentence_furigana": "現代人【げんだいじん】は古代人【こだいじん】の生活【せいかつ】を推測【すいさく】する。",
+    "meaning": "Modern people infer the lives of ancient people."
+  },
+  {
+    "sentence": "この状況から最善の推測を導き出す。",
+    "sentence_furigana": "この状況【じょうきょう】から最善【さいぜん】の推測【すいさく】を導【みちび】き出【だ】す。",
+    "meaning": "Derive the best inference from this situation."
+  },
+  {
+    "sentence": "政治的な駆け引きを推測する。",
+    "sentence_furigana": "政治的【せいじてき】な駆引【かけひ】きを推測【すいさく】する。",
+    "meaning": "Infer the political maneuverings."
+  },
+  {
+    "sentence": "彼の表情から気分を推測する。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】から気分【きぶん】を推測【すいさく】する。",
+    "meaning": "Infer his mood from his expression."
+  },
+  {
+    "sentence": "失われた文明について推測する。",
+    "sentence_furigana": "失【う】われた文明【ぶんめい】について推測【すいさく】する。",
+    "meaning": "Speculate about lost civilizations."
+  },
+  {
+    "sentence": "科学者は未知の現象を推測する。",
+    "sentence_furigana": "科学者【かがくしゃ】は未知【みち】の現象【げんしょう】を推測【すいさく】する。",
+    "meaning": "Scientists infer unknown phenomena."
+  },
+  {
+    "sentence": "物語の結末を推測してみましょう。",
+    "sentence_furigana": "物語【ものがたり】の結末【けつまつ】を推測【すいさく】してみましょう。",
+    "meaning": "Let's guess the ending of the story."
+  },
+  {
+    "sentence": "その変化から将来を推測する。",
+    "sentence_furigana": "その変化【へんか】から将来【しょうらい】を推測【すいさく】する。",
+    "meaning": "Infer the future from that change."
+  },
+  {
+    "sentence": "彼の言葉の裏を推測する。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の裏【うら】を推測【すいさく】する。",
+    "meaning": "Infer the meaning behind his words."
+  },
+  {
+    "sentence": "観測データから新しい事実を推測する。",
+    "sentence_furigana": "観測【かんそく】データから新【あたら】しい事実【じじつ】を推測【すいさく】する。",
+    "meaning": "Infer new facts from the observational data."
+  },
+  {
+    "sentence": "その行動には何か理由があると推測できる。",
+    "sentence_furigana": "その行動【こうどう】には何【なに】か理由【りゆう】があると推測【すいさく】できる。",
+    "meaning": "One can infer there is some reason for that behavior."
+  },
+  {
+    "sentence": "過去の事例から未来を推測する。",
+    "sentence_furigana": "過去【かこ】の事例【じれい】から未来【みらい】を推測【すいさく】する。",
+    "meaning": "Infer the future from past examples."
+  },
+  {
+    "sentence": "この状況を推測し、最善の策を講じる。",
+    "sentence_furigana": "この状況【じょうきょう】を推測【すいさく】し、最善【さいぜん】の策【さく】を講【こう】じる。",
+    "meaning": "Infer this situation and take the best course of action."
+  },
+  {
+    "sentence": "彼の沈黙は同意だと推測した。",
+    "sentence_furigana": "彼【かれ】の沈黙【ちんもく】は同意【どうい】だと推測【すいさく】した。",
+    "meaning": "I inferred his silence as agreement."
+  },
+  {
+    "sentence": "その事件の真相を推測する。",
+    "sentence_furigana": "その事件【じけん】の真相【しんそう】を推測【すいさく】する。",
+    "meaning": "Infer the truth of that incident."
+  },
+  {
+    "sentence": "我々は彼の発言の真意を推測する必要がある。",
+    "sentence_furigana": "我々【われわれ】は彼【かれ】の発言【はつげん】の真意【しんい】を推測【すいさく】する必要【ひつよう】がある。",
+    "meaning": "We need to infer the true meaning of his statement."
+  },
+  {
+    "sentence": "考古学者は遺跡から古代人の生活を推測する。",
+    "sentence_furigana": "考古学者【こうこがくしゃ】は遺跡【いせき】から古代人【こだいじん】の生活【せいかつ】を推測【すいさく】する。",
+    "meaning": "Archaeologists infer the lives of ancient people from ruins."
+  },
+  {
+    "sentence": "この状況を推測し、適切な行動をとる。",
+    "sentence_furigana": "この状況【じょうきょう】を推測【すいさく】し、適切【てきせつ】な行動【こうどう】をとる。",
+    "meaning": "Infer this situation and take appropriate action."
+  },
+  {
+    "sentence": "彼の顔色から体調を推測する。",
+    "sentence_furigana": "彼【かれ】の顔色【かおいろ】から体調【たいちょう】を推測【すいさく】する。",
+    "meaning": "Infer his physical condition from his complexion."
+  },
+  {
+    "sentence": "科学は推測と検証の繰り返しである。",
+    "sentence_furigana": "科学【かがく】は推測【すいさく】と検証【けんしょう】の繰【く】り返【かえ】しである。",
+    "meaning": "Science is a repetition of conjecture and verification."
+  },
+  {
+    "sentence": "その証拠から犯行時刻を推測する。",
+    "sentence_furigana": "その証拠【しょうこ】から犯行時刻【はんこうじこく】を推測【すいさく】する。",
+    "meaning": "Infer the time of the crime from the evidence."
+  },
+  {
+    "sentence": "この手紙の内容から、彼女の気持ちを推測する。",
+    "sentence_furigana": "この手紙【てがみ】の内容【ないよう】から、彼女【かのじょ】の気持【きも】ちを推測【すいさく】する。",
+    "meaning": "Infer her feelings from the content of this letter."
+  },
+  {
+    "sentence": "彼の説明は私の推測とは違っていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は私【わたし】の推測【すいさく】とは違【ちが】っていた。",
+    "meaning": "His explanation was different from my conjecture."
+  },
+  {
+    "sentence": "天文学者は宇宙の成り立ちを推測する。",
+    "sentence_furigana": "天文学者【てんもんがくしゃ】は宇宙【うちゅう】の成【な】り立【た】ちを推測【すいさく】する。",
+    "meaning": "Astronomers infer the formation of the universe."
+  },
+  {
+    "sentence": "この数字の変動から、市場の動向を推測できる。",
+    "sentence_furigana": "この数字【すうじ】の変動【へんどう】から、市場【しじょう】の動向【どうこう】を推測【すいさく】できる。",
+    "meaning": "We can infer market trends from these numerical fluctuations."
+  },
+  {
+    "sentence": "彼の表情から、我々は彼の本当の気持ちを推測する。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】から、我々【われわれ】は彼【かれ】の本当【ほんとう】の気持【きも】ちを推測【すいさく】する。",
+    "meaning": "From his expression, we infer his true feelings."
+  },
+  {
+    "sentence": "この古代文字から当時の文化を推測する。",
+    "sentence_furigana": "この古代文字【こだいもじ】から当時【とうじ】の文化【ぶんか】を推測【すいさく】する。",
+    "meaning": "Infer the culture of those times from these ancient characters."
+  },
+  {
+    "sentence": "彼女の発言から、次の計画を推測する。",
+    "sentence_furigana": "彼女【かのじょ】の発言【はつげん】から、次【つぎ】の計画【けいかく】を推測【すいさく】する。",
+    "meaning": "Infer the next plan from her statement."
+  },
+  {
+    "sentence": "この状況から最良の選択肢を推測する。",
+    "sentence_furigana": "この状況【じょうきょう】から最良【さいりょう】の選択肢【せんたくし】を推測【すいさく】する。",
+    "meaning": "Infer the best option from this situation."
+  },
+  {
+    "sentence": "彼の沉默から真実を推測する。",
+    "sentence_furigana": "彼【かれ】の沉默【しんもく】から真実【しんじつ】を推測【すいさく】する。",
+    "meaning": "Infer the truth from his silence."
+  },
+  {
+    "sentence": "このデータに基づいて、未来の株価を推測します。",
+    "sentence_furigana": "このデータに基づいて【もとづいて】、未来【みらい】の株価【かぶか】を推測【すいさく】します。",
+    "meaning": "Based on this data, we infer future stock prices."
+  },
+  {
+    "sentence": "その謎めいた言葉から、隠された意味を推測する。",
+    "sentence_furigana": "その謎【なぞ】めいた言葉【ことば】から、隠【かく】された意味【いみ】を推測【すいさく】する。",
+    "meaning": "Infer the hidden meaning from those cryptic words."
+  },
+  {
+    "sentence": "彼の行動パターンから、次の一手を推測する。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】パターンから、次【つぎ】の一手【いって】を推測【すいさく】する。",
+    "meaning": "Infer his next move from his behavior patterns."
+  },
+  {
+    "sentence": "この変化の兆候から、将来のトレンドを推測する。",
+    "sentence_furigana": "この変化【へんか】の兆候【ちょうこう】から、将来【しょうらい】のトレンドを推測【すいさく】する。",
+    "meaning": "Infer future trends from these signs of change."
+  },
+  {
+    "sentence": "彼の反応から、その提案に対する考えを推測する。",
+    "sentence_furigana": "彼【かれ】の反応【はんのう】から、その提案【ていあん】に対する【たいする】考【かんが】えを推測【すいさく】する。",
+    "meaning": "Infer his thoughts on the proposal from his reaction."
+  },
+  {
+    "sentence": "この古代遺跡から、当時の技術水準を推測する。",
+    "sentence_furigana": "この古代遺跡【こたいいせき】から、当時【とうじ】の技術水準【ぎじゅつすいじゅん】を推測【すいさく】する。",
+    "meaning": "Infer the technological level of that time from these ancient ruins."
+  },
+  {
+    "sentence": "彼の穏やかな口調から、心の平静を推測する。",
+    "sentence_furigana": "彼【かれ】の穏【おだ】やかな口調【くちょう】から、心【こころ】の平静【へいせい】を推測【すいさく】する。",
+    "meaning": "Infer his peace of mind from his calm tone."
+  },
+  {
+    "sentence": "この数式から、その法則性を推測する。",
+    "sentence_furigana": "この数式【すうしき】から、その法則性【ほうそくせい】を推測【すいさく】する。",
+    "meaning": "Infer the regularity from this mathematical formula."
+  },
+  {
+    "sentence": "彼の突然の辞任は、何らかの事情があると推測される。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の辞任【じにん】は、何らか【なんらか】の事情【じじょう】があると推測【すいさく】される。",
+    "meaning": "His sudden resignation is presumed to be due to some circumstances."
+  },
+  {
+    "sentence": "この証拠から、犯人は一人ではないと推測される。",
+    "sentence_furigana": "この証拠【しょうこ】から、犯人【はんにん】は一人【ひとり】ではないと推測【すいさく】される。",
+    "meaning": "From this evidence, it is presumed that the culprit is not alone."
+  },
+  {
+    "sentence": "この現象は、まだ解明されていないと推測される。",
+    "sentence_furigana": "この現象【げんしょう】は、まだ解明【かいめい】されていないと推測【すいさく】される。",
+    "meaning": "It is presumed that this phenomenon has not yet been explained."
+  },
+  {
+    "sentence": "彼女の表情から、彼の言葉に納得していないと推測できる。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】から、彼【かれ】の言葉【ことば】に納得【なっとく】していないと推測【すいさく】できる。",
+    "meaning": "From her expression, it can be inferred that she is not convinced by his words."
+  },
+  {
+    "sentence": "この書物から、当時の社会状況を推測する。",
+    "sentence_furigana": "この書物【しょもつ】から、当時【とうじ】の社会状況【しゃかいじょうきょう】を推測【すいさく】する。",
+    "meaning": "Infer the social conditions of that time from this book."
+  },
+  {
+    "sentence": "彼の計画は成功するだろうと推測する。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は成功【せいこう】するだろうと推測【すいさく】する。",
+    "meaning": "I conjecture that his plan will succeed."
+  },
+  {
+    "sentence": "その出来事から、隠された動機を推測する。",
+    "sentence_furigana": "その出来事【できごと】から、隠【かく】された動機【どうき】を推測【すいさく】する。",
+    "meaning": "Infer the hidden motive from that event."
+  },
+  {
+    "sentence": "この状況を推し量り、最善の行動を決定する。",
+    "sentence_furigana": "この状況【じょうきょう】を推【お】し量【はか】り、最善【さいぜん】の行動【こうどう】を決定【けってい】する。",
+    "meaning": "Estimate this situation and decide the best course of action."
+  },
+  {
+    "sentence": "彼の微妙な表情の変化から、意図を推測する。",
+    "sentence_furigana": "彼【かれ】の微妙【びみょう】な表情【ひょうじょう】の変化【へんか】から、意図【いと】を推測【すいさく】する。",
+    "meaning": "Infer the intention from the subtle changes in his expression."
+  },
+  {
+    "sentence": "この古い地図から、失われた道を探る。",
+    "sentence_furigana": "この古【ふる】い地図【ちず】から、失【う】われた道【みち】を探【さが】る。",
+    "meaning": "Explore the lost paths from this old map."
+  },
+  {
+    "sentence": "彼の言葉の裏に隠された意味を推測する。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の裏【うら】に隠【かく】された意味【いみ】を推測【すいさく】する。",
+    "meaning": "Infer the hidden meaning behind his words."
+  },
+  {
+    "sentence": "この気象データから、明日の天気を推測する。",
+    "sentence_furigana": "この気象【きしょう】データから、明日【あす】の天気【てんき】を推測【すいさく】する。",
+    "meaning": "Infer tomorrow's weather from this meteorological data."
+  },
+  {
+    "sentence": "彼の静かな佇まいから、強い意志を推測する。",
+    "sentence_furigana": "彼【かれ】の静【しず】かな佇【たたず】まいから、強【つよ】い意志【いし】を推測【すいさく】する。",
+    "meaning": "Infer a strong will from his quiet demeanor."
+  },
+  {
+    "sentence": "この歴史的文書から、当時の社会制度を推測する。",
+    "sentence_furigana": "この歴史的【れきしてき】文書【ぶんしょ】から、当時【とうじ】の社会制度【しゃかいせいど】を推測【すいさく】する。",
+    "meaning": "Infer the social system of that time from these historical documents."
+  },
+  {
+    "sentence": "彼の経験から、成功の秘訣を推測する。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】から、成功【せいこう】の秘訣【ひけつ】を推測【すいさく】する。",
+    "meaning": "Infer the secret to success from his experience."
+  },
+  {
+    "sentence": "この化石から、絶滅した生物を推測する。",
+    "sentence_furigana": "この化石【かせき】から、絶滅【ぜつめつ】した生物【せいぶつ】を推測【すいさく】する。",
+    "meaning": "Infer extinct creatures from this fossil."
+  },
+  {
+    "sentence": "彼の言葉遣いから、教養の高さを推測する。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いから、教養【きょうよう】の高【たか】さを推測【すいさく】する。",
+    "meaning": "Infer his high level of education from his way of speaking."
+  },
+  {
+    "sentence": "この証言から、犯人の姿を推測する。",
+    "sentence_furigana": "この証言【しょうげん】から、犯人【はんにん】の姿【すがた】を推測【すいさく】する。",
+    "meaning": "Infer the appearance of the culprit from this testimony."
+  },
+  {
+    "sentence": "彼の態度から、我々は彼の決定を推測した。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】から、我々【われわれ】は彼【かれ】の決定【けってい】を推測【すいさく】した。",
+    "meaning": "From his attitude, we inferred his decision."
+  },
+  {
+    "sentence": "このグラフから、今後の傾向を推測する。",
+    "sentence_furigana": "このグラフから、今後【こんご】の傾向【けいこう】を推測【すいさく】する。",
+    "meaning": "Infer future trends from this graph."
+  },
+  {
+    "sentence": "彼の笑顔から、喜びを推測する。",
+    "sentence_furigana": "彼【かれ】の笑顔【えがお】から、喜【よろこ】びを推測【すいさく】する。",
+    "meaning": "Infer joy from his smile."
+  },
+  {
+    "sentence": "この現象の背後にある原因を推測する。",
+    "sentence_furigana": "この現象【げんしょう】の背後【はいご】にある原因【げんいん】を推測【すいさく】する。",
+    "meaning": "Infer the cause behind this phenomenon."
+  },
+  {
+    "sentence": "彼女の書く文章から、深い知識を推測する。",
+    "sentence_furigana": "彼女【かのじょ】の書【か】く文章【ぶんしょう】から、深【ふか】い知識【ちしき】を推測【すいさく】する。",
+    "meaning": "Infer deep knowledge from the essays she writes."
+  },
+  {
+    "sentence": "この古い地図を手がかりに、失われた都市を推測する。",
+    "sentence_furigana": "この古【ふる】い地図【ちず】を手掛【てが】かりに、失【う】われた都市【とし】を推測【すいさく】する。",
+    "meaning": "Using this old map as a clue, infer the lost city."
+  },
+  {
+    "sentence": "彼の言葉のニュアンスから、本当の意図を推測する。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】のニュアンスから、本当【ほんとう】の意図【いと】を推測【すいさく】する。",
+    "meaning": "Infer the true intention from the nuance of his words."
+  },
+  {
+    "sentence": "このデータ解析から、将来の市場規模を推測する。",
+    "sentence_furigana": "このデータ解析【かいせき】から、将来【しょうらい】の市場規模【しじょうきぼ】を推測【すいさく】する。",
+    "meaning": "Infer the future market size from this data analysis."
+  },
+  {
+    "sentence": "彼の静かな行動から、強い決意を推測する。",
+    "sentence_furigana": "彼【かれ】の静【しず】かな行動【こうどう】から、強【つよ】い決意【けつい】を推測【すいさく】する。",
+    "meaning": "Infer a strong determination from his quiet actions."
+  },
+  {
+    "sentence": "この歴史的証拠から、当時の人々の生活様式を推測する。",
+    "sentence_furigana": "この歴史的【れきしてき】証拠【しょうこ】から、当時【とうじ】の人々【ひとびと】の生活様式【せいかつようしき】を推測【すいさく】する。",
+    "meaning": "Infer the lifestyle of people at that time from this historical evidence."
+  },
+  {
+    "sentence": "彼の経験談から、成功の鍵を推測する。",
+    "sentence_furigana": "彼【かれ】の経験談【けいけんだん】から、成功【せいこう】の鍵【かぎ】を推測【すいさく】する。",
+    "meaning": "Infer the key to success from his account of his experiences."
+  },
+  {
+    "sentence": "この地層から、地球の歴史を推測する。",
+    "sentence_furigana": "この地層【ちそう】から、地球【ちきゅう】の歴史【れきし】を推測【すいさく】する。",
+    "meaning": "Infer the history of the Earth from this stratum."
+  },
+  {
+    "sentence": "彼の丁寧な言葉遣いから、育ちの良さを推測する。",
+    "sentence_furigana": "彼【かれ】の丁寧【ていねい】な言葉遣【ことばづか】いから、育【そだ】ちの良【よ】さを推測【すいさく】する。",
+    "meaning": "Infer his good upbringing from his polite way of speaking."
+  },
+  {
+    "sentence": "この証言から、犯人が使用した凶器を推測する。",
+    "sentence_furigana": "この証言【しょうげん】から、犯人【はんにん】が使用【しよう】した凶器【きょうき】を推測【すいさく】する。",
+    "meaning": "Infer the weapon used by the culprit from this testimony."
+  },
+  {
+    "sentence": "彼の行動の裏には、何か深い理由があると推測される。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】の裏【うら】には、何【なに】か深【ふか】い理由【りゆう】があると推測【すいさく】される。",
+    "meaning": "It is presumed that there is some deep reason behind his actions."
+  },
+  {
+    "sentence": "この古文書から、当時の政治体制を推測する。",
+    "sentence_furigana": "この古文書【こもんじょ】から、当時【とうじ】の政治体制【せいじたいせい】を推測【すいさく】する。",
+    "meaning": "Infer the political system of that time from this ancient document."
+  },
+  {
+    "sentence": "彼の表情から、隠された感情を推測する。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】から、隠【かく】された感情【かんじょう】を推測【すいさく】する。",
+    "meaning": "Infer hidden emotions from his expression."
+  },
+  {
+    "sentence": "この伝染病の蔓延から、衛生状態を推測する。",
+    "sentence_furigana": "この伝染病【でんせんびょう】の蔓延【まんえん】から、衛生状態【えいせいじょうたい】を推測【すいさく】する。",
+    "meaning": "Infer the sanitary conditions from the spread of this infectious disease."
+  },
+  {
+    "sentence": "彼の声のトーンから、その場の雰囲気を推測する。",
+    "sentence_furigana": "彼【かれ】の声【こえ】のトーンから、その場【ば】の雰囲気【ふんいき】を推測【すいさく】する。",
+    "meaning": "Infer the atmosphere of the place from his tone of voice."
+  },
+  {
+    "sentence": "この証拠品から、犯人の手口を推測する。",
+    "sentence_furigana": "この証拠品【しょうこひん】から、犯人【はんにん】の手口【てぐち】を推測【すいさく】する。",
+    "meaning": "Infer the culprit's method from this piece of evidence."
+  },
+  {
+    "sentence": "彼の突然の沈黙は、何かを隠していると推測される。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の沈黙【ちんもく】は、何【なに】か隠【かく】していると推測【すいさく】される。",
+    "meaning": "His sudden silence is presumed to indicate he is hiding something."
+  },
+  {
+    "sentence": "この文字記録から、当時の食文化を推測する。",
+    "sentence_furigana": "この文字記録【もじきろく】から、当時【とうじ】の食文化【しょくぶんか】を推測【すいさく】する。",
+    "meaning": "Infer the food culture of that time from this written record."
+  },
+  {
+    "sentence": "彼の静かな佇まいから、内に秘めた情熱を推測する。",
+    "sentence_furigana": "彼【かれ】の静【しず】かな佇【たたず】まいから、内【うち】に秘【ひ】めた情熱【じょうねつ】を推測【すいさく】する。",
+    "meaning": "Infer the passion hidden within him from his quiet demeanor."
+  },
+  {
+    "sentence": "この記録から、その出来事の真相を推測する。",
+    "sentence_furigana": "この記録【きろく】から、その出来事【できごと】の真相【しんそう】を推測【すいさく】する。",
+    "meaning": "Infer the truth of that event from this record."
+  },
+  {
+    "sentence": "彼の過去の功績を推して、現在の実力を測る。",
+    "sentence_furigana": "彼【かれ】の過去【かこ】の功績【こうせき】を推【お】して、現在【げんざい】の実力【じつりょく】を測【はか】る。",
+    "meaning": "Measure his current abilities by inferring his past achievements."
+  },
+  {
+    "sentence": "彼の穏やかな性格から、温厚な人柄を推測する。",
+    "sentence_furigana": "彼【かれ】の穏穏【おだや】かな性格【せいかく】から、温厚【おんこう】な人柄【ひとがら】を推測【すいさく】する。",
+    "meaning": "Infer his gentle character from his calm personality."
+  },
+  {
+    "sentence": "この証言の食い違いから、何らかの隠蔽があると推測される。",
+    "sentence_furigana": "この証言【しょうげん】の食違【くいちが】いから、何らか【なんらか】の隠蔽【いんぺい】があると推測【すいさく】される。",
+    "meaning": "From the discrepancy in this testimony, it is presumed that there is some cover-up."
+  },
+  {
+    "sentence": "彼の微かな表情の変化から、隠された意図を推測する。",
+    "sentence_furigana": "彼【かれ】の微【かす】かな表情【ひょうじょう】の変化【へんか】から、隠【かく】された意図【いと】を推測【すいさく】する。",
+    "meaning": "Infer the hidden intention from the slight change in his expression."
+  },
+  {
+    "sentence": "この書簡から、当時の政治的駆け引きを推測する。",
+    "sentence_furigana": "この書簡【しょかん】から、当時【とうじ】の政治的【せいじてき】駆引【かけひ】きを推測【すいさく】する。",
+    "meaning": "Infer the political maneuverings of that time from this letter."
+  },
+  {
+    "sentence": "彼の行動の遅れから、何らかの困難があると推測する。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】の遅【おく】れから、何らか【なんらか】の困難【こんなん】があると推測【すいさく】する。",
+    "meaning": "Infer that there is some difficulty from the delay in his actions."
+  },
+  {
+    "sentence": "この遺物から、古代文明の祭祀について推測する。",
+    "sentence_furigana": "この遺物【いぶつ】から、古代文明【こだいぶんめい】の祭祀【さいし】について推測【すいさく】する。",
+    "meaning": "Infer about the rituals of ancient civilizations from these relics."
+  },
+  {
+    "sentence": "彼の言葉遣いの乱暴さから、荒れた生い立ちを推測する。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いの乱暴【らんぼう】さから、荒【あ】れた生【お】い立【た】ちを推測【すいさく】する。",
+    "meaning": "Infer his rough upbringing from his rude way of speaking."
+  },
+  {
+    "sentence": "この証拠の状況から、犯人の侵入経路を推測する。",
+    "sentence_furigana": "この証拠【しょうこ】の状況【じょうきょう】から、犯人【はんにん】の侵入経路【しんにゅうけいろ】を推測【すいさく】する。",
+    "meaning": "Infer the culprit's entry route from the circumstances of this evidence."
+  },
+  {
+    "sentence": "彼の急な予定変更は、何か問題があると推測される。",
+    "sentence_furigana": "彼【かれ】の急【きゅう】な予定変更【よていへんこう】は、何【なに】か問題【もんだい】があると推測【すいさく】される。",
+    "meaning": "His sudden change of plans is presumed to indicate some problem."
+  },
+  {
+    "sentence": "この文献から、当時の経済活動を推測する。",
+    "sentence_furigana": "この文献【ぶんけん】から、当時【とうじ】の経済活動【けいざいかつどう】を推測【すいさく】する。",
+    "meaning": "Infer the economic activities of that time from this literature."
+  },
+  {
+    "sentence": "彼の落ち着いた態度から、経験豊富な人物だと推測する。",
+    "sentence_furigana": "彼【かれ】の落【お】ち着【つ】いた態度【たいど】から、経験豊富【けいけんほうふ】な人物【じんぶつ】だと推測【すいさく】する。",
+    "meaning": "Infer that he is an experienced person from his calm attitude."
+  },
+  {
+    "sentence": "この証言の信憑性から、事件の核心を推測する。",
+    "sentence_furigana": "この証言【しょうげん】の信憑性【しんぴょうせい】から、事件【じけん】の核心【かくしん】を推測【すいさく】する。",
+    "meaning": "Infer the core of the incident from the credibility of this testimony."
+  },
+  {
+    "sentence": "彼の顔に浮かんだかすかな笑みから、満足感を推測する。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に浮【う】かんだかすかな笑【え】みから、満足感【まんぞくかん】を推測【すいさく】する。",
+    "meaning": "Infer satisfaction from the faint smile on his face."
+  }
+]

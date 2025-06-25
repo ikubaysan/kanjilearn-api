@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼は会議を監修した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】を監修【かんしゅう】した。",
+    "meaning": "He supervised the conference."
+  },
+  {
+    "sentence": "裁判官は法廷を監理する。",
+    "sentence_furigana": "裁判官【さいばんかん】は法廷【ほうてい】を監理【かんり】する。",
+    "meaning": "The judge administers the court."
+  },
+  {
+    "sentence": "彼は監視官として働いている。",
+    "sentence_furigana": "彼【かれ】は監視官【かんしかん】として働【はたら】いている。",
+    "meaning": "He works as a supervisor."
+  },
+  {
+    "sentence": "監督は選手を監察する。",
+    "sentence_furigana": "監督【かんとく】は選手【せんしゅ】を監察【かんさつ】する。",
+    "meaning": "The director observes the players."
+  },
+  {
+    "sentence": "彼女は監獄の所長を務めている。",
+    "sentence_furigana": "彼女【かのじょ】は監獄【かんごく】の所長【しょちょう】を務【つと】めている。",
+    "meaning": "She serves as the warden of the prison."
+  },
+  {
+    "sentence": "政府は経済を監理している。",
+    "sentence_furigana": "政府【せいふ】は経済【けいざい】を監理【かんり】している。",
+    "meaning": "The government manages the economy."
+  },
+  {
+    "sentence": "彼は事件を監察するために呼ばれた。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】を監察【かんさつ】するために呼【よ】ばれた。",
+    "meaning": "He was called to investigate the incident."
+  },
+  {
+    "sentence": "監察官は報告書を提出した。",
+    "sentence_furigana": "監察官【かんさつかん】は報告書【ほうこくしょ】を提出【ていしゅつ】した。",
+    "meaning": "The inspector submitted the report."
+  },
+  {
+    "sentence": "彼は工場を監守している。",
+    "sentence_furigana": "彼【かれ】は工場【こうじょう】を監守【かんしゅ】している。",
+    "meaning": "He guards the factory."
+  },
+  {
+    "sentence": "監獄に入れられた男。",
+    "sentence_furigana": "監獄【かんごく】に入【い】れられた男【おとこ】。",
+    "meaning": "A man put in prison."
+  },
+  {
+    "sentence": "彼は政府の監査官です。",
+    "sentence_furigana": "彼【かれ】は政府【せいふ】の監査官【かんさかん】です。",
+    "meaning": "He is a government auditor."
+  },
+  {
+    "sentence": "監修者は作品の質を保証する。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は作品【さくひん】の質【しつ】を保証【ほしょう】する。",
+    "meaning": "The supervisor guarantees the quality of the work."
+  },
+  {
+    "sentence": "彼は新しい法律を監修した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい法律【ほうりつ】を監修【かんしゅう】した。",
+    "meaning": "He supervised the new law."
+  },
+  {
+    "sentence": "監理官が現場を確認した。",
+    "sentence_furigana": "監理官【かんりかん】が現場【げんば】を確認【かくにん】した。",
+    "meaning": "The administrator confirmed the scene."
+  },
+  {
+    "sentence": "監視者は注意深く見守っていた。",
+    "sentence_furigana": "監視者【かんししゃ】は注意深【ちゅういぶか】く見守【みまも】っていた。",
+    "meaning": "The watcher watched carefully."
+  },
+  {
+    "sentence": "彼は監察官の質問に答えた。",
+    "sentence_furigana": "彼【かれ】は監察官【かんさつかん】の質問【しつもん】に答【こた】えた。",
+    "meaning": "He answered the inspector's questions."
+  },
+  {
+    "sentence": "監修者は映画の制作を監督した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は映画【えいが】の制作【せいさく】を監督【かんとく】した。",
+    "meaning": "The supervisor directed the film's production."
+  },
+  {
+    "sentence": "政府は国民の安全を監護する。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の安全【あんぜん】を監護【かんご】する。",
+    "meaning": "The government protects the safety of its citizens."
+  },
+  {
+    "sentence": "彼は監視塔から見下ろしていた。",
+    "sentence_furigana": "彼【かれ】は監視塔【かんしとう】から見下【みお】ろしていた。",
+    "meaning": "He looked down from the watchtower."
+  },
+  {
+    "sentence": "監察医が死亡原因を調査した。",
+    "sentence_furigana": "監察医【かんさつい】が死亡原因【しぼうげんいん】を調査【ちょうさ】した。",
+    "meaning": "The medical examiner investigated the cause of death."
+  },
+  {
+    "sentence": "彼は監修として会議に参加した。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】として会議【かいぎ】に参加【さんか】した。",
+    "meaning": "He participated in the meeting as a supervisor."
+  },
+  {
+    "sentence": "監察官は証拠を収集した。",
+    "sentence_furigana": "監察官【かんさつかん】は証拠【しょうこ】を収集【しゅうしゅう】した。",
+    "meaning": "The inspector collected evidence."
+  },
+  {
+    "sentence": "彼は監獄の警備を強化した。",
+    "sentence_furigana": "彼【かれ】は監獄【かんごく】の警備【けいび】を強化【きょうか】した。",
+    "meaning": "He strengthened the prison's security."
+  },
+  {
+    "sentence": "監理官は規則を制定した。",
+    "sentence_furigana": "監理官【かんりかん】は規則【きそく】を制定【せいてい】した。",
+    "meaning": "The administrator established the rules."
+  },
+  {
+    "sentence": "彼は監視システムを導入した。",
+    "sentence_furigana": "彼【かれ】は監視【かんし】システムを導入【どうにゅう】した。",
+    "meaning": "He introduced a surveillance system."
+  },
+  {
+    "sentence": "監修者はプロジェクトを成功に導いた。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】はプロジェクトを成功【せいこう】に導【みちび】いた。",
+    "meaning": "The supervisor led the project to success."
+  },
+  {
+    "sentence": "彼は監察官の指示に従った。",
+    "sentence_furigana": "彼【かれ】は監察官【かんさつかん】の指示【しじ】に従【したが】った。",
+    "meaning": "He followed the inspector's instructions."
+  },
+  {
+    "sentence": "監理者は施設の安全を確保した。",
+    "sentence_furigana": "監理者【かんりしゃ】は施設【しせつ】の安全【あんぜん】を確保【かくほ】した。",
+    "meaning": "The manager ensured the facility's safety."
+  },
+  {
+    "sentence": "彼は監修として作品を評価した。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】として作品【さくひん】を評価【ひょうか】した。",
+    "meaning": "He evaluated the work as a supervisor."
+  },
+  {
+    "sentence": "監視者は犯罪を未然に防いだ。",
+    "sentence_furigana": "監視者【かんししゃ】は犯罪【はんざい】を未然【みぜん】に防【ふせ】いだ。",
+    "meaning": "The guard prevented the crime."
+  },
+  {
+    "sentence": "彼は監察官に協力を求めた。",
+    "sentence_furigana": "彼【かれ】は監察官【かんさつかん】に協力【きょうりょく】を求【もと】めた。",
+    "meaning": "He sought cooperation from the inspector."
+  },
+  {
+    "sentence": "監理官は規則を遵守させた。",
+    "sentence_furigana": "監理官【かんりかん】は規則【きそく】を遵守【じゅんしゅ】させた。",
+    "meaning": "The administrator made them comply with the rules."
+  },
+  {
+    "sentence": "彼は監修としてアドバイスを提供した。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】としてアドバイスを提供【ていきょう】した。",
+    "meaning": "He provided advice as a supervisor."
+  },
+  {
+    "sentence": "監視者は彼の行動を記録した。",
+    "sentence_furigana": "監視者【かんししゃ】は彼【かれ】の行動【こうどう】を記録【きろく】した。",
+    "meaning": "The watcher recorded his actions."
+  },
+  {
+    "sentence": "彼は監察官に事情を説明した。",
+    "sentence_furigana": "彼【かれ】は監察官【かんさつかん】に事情【じじょう】を説明【せつめい】した。",
+    "meaning": "He explained the situation to the inspector."
+  },
+  {
+    "sentence": "監理官は状況を把握した。",
+    "sentence_furigana": "監理官【かんりかん】は状況【じょうきょう】を把握【はあく】した。",
+    "meaning": "The administrator grasped the situation."
+  },
+  {
+    "sentence": "彼は新しい監獄を設計した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい監獄【かんごく】を設計【せっけい】した。",
+    "meaning": "He designed a new prison."
+  },
+  {
+    "sentence": "監修者はプロジェクトの進捗を管理した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】はプロジェクトの進捗【しんちょく】を管理【かんり】した。",
+    "meaning": "The supervisor managed the project's progress."
+  },
+  {
+    "sentence": "彼は監視対象者の行動を監視した。",
+    "sentence_furigana": "彼【かれ】は監視対象者【かんしたいしょうしゃ】の行動【こうどう】を監視【かんし】した。",
+    "meaning": "He monitored the actions of the person under surveillance."
+  },
+  {
+    "sentence": "監察官は報告を確認した。",
+    "sentence_furigana": "監察官【かんさつかん】は報告【ほうこく】を確認【かくにん】した。",
+    "meaning": "The inspector confirmed the report."
+  },
+  {
+    "sentence": "彼は監理規定を改正した。",
+    "sentence_furigana": "彼【かれ】は監理規定【かんりきてい】を改正【かいせい】した。",
+    "meaning": "He revised the management regulations."
+  },
+  {
+    "sentence": "監修者はチームを指導した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】はチームを指導【しどう】した。",
+    "meaning": "The supervisor guided the team."
+  },
+  {
+    "sentence": "彼は犯罪者を監禁した。",
+    "sentence_furigana": "彼【かれ】は犯罪者【はんざいしゃ】を監禁【かんきん】した。",
+    "meaning": "He imprisoned the criminal."
+  },
+  {
+    "sentence": "監察官は証言を記録した。",
+    "sentence_furigana": "監察官【かんさつかん】は証言【しょうげん】を記録【きろく】した。",
+    "meaning": "The inspector recorded the testimony."
+  },
+  {
+    "sentence": "彼は施設を監察した。",
+    "sentence_furigana": "彼【かれ】は施設【しせつ】を監察【かんさつ】した。",
+    "meaning": "He inspected the facility."
+  },
+  {
+    "sentence": "監理官は作業手順を確認した。",
+    "sentence_furigana": "監理官【かんりかん】は作業手順【さぎょうてじゅん】を確認【かくにん】した。",
+    "meaning": "The administrator confirmed the work procedures."
+  },
+  {
+    "sentence": "彼は政府の監察部門に所属している。",
+    "sentence_furigana": "彼【かれ】は政府【せいふ】の監察部門【かんさつぶもん】に所属【しょぞく】している。",
+    "meaning": "He belongs to the government's inspection department."
+  },
+  {
+    "sentence": "監修者は会議の議事を進行した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は会議【かいぎ】の議事【ぎじ】を進行【しんこう】した。",
+    "meaning": "The supervisor proceeded with the meeting's agenda."
+  },
+  {
+    "sentence": "彼はプロジェクトの進行を監修した。",
+    "sentence_furigana": "彼【かれ】はプロジェクトの進行【しんこう】を監修【かんしゅう】した。",
+    "meaning": "He supervised the progress of the project."
+  },
+  {
+    "sentence": "監察官は証拠品の安全を確保した。",
+    "sentence_furigana": "監察官【かんさつかん】は証拠品【しょうこひん】の安全【あんぜん】を確保【かくほ】した。",
+    "meaning": "The inspector ensured the safety of the evidence."
+  },
+  {
+    "sentence": "彼は監理組織のリーダーである。",
+    "sentence_furigana": "彼【かれ】は監理組織【かんりそしき】のリーダーである。",
+    "meaning": "He is the leader of the management organization."
+  },
+  {
+    "sentence": "監修者は学生の学習を指導した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は学生【がくせい】の学習【がくしゅう】を指導【しどう】した。",
+    "meaning": "The supervisor guided the students' learning."
+  },
+  {
+    "sentence": "彼は法廷を監理する役割を担っている。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】を監理【かんり】する役割【やくわり】を担【にな】っている。",
+    "meaning": "He plays a role in administering the court."
+  },
+  {
+    "sentence": "監察官は事件の真相を究明した。",
+    "sentence_furigana": "監察官【かんさつかん】は事件【じけん】の真相【しんそう】を究明【きゅうめい】した。",
+    "meaning": "The inspector investigated the truth of the case."
+  },
+  {
+    "sentence": "彼は監修として新しい戦略を提案した。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】として新【あたら】しい戦略【せんりゃく】を提案【ていあん】した。",
+    "meaning": "He proposed a new strategy as a supervisor."
+  },
+  {
+    "sentence": "監理官は報告の正確性を確認した。",
+    "sentence_furigana": "監理官【かんりかん】は報告【ほうこく】の正確性【せいかくせい】を確認【かくにん】した。",
+    "meaning": "The administrator confirmed the accuracy of the report."
+  },
+  {
+    "sentence": "彼は監視カメラの映像をチェックした。",
+    "sentence_furigana": "彼【かれ】は監視【かんし】カメラの映像【えいぞう】をチェックした。",
+    "meaning": "He checked the surveillance camera footage."
+  },
+  {
+    "sentence": "監修者は会議で発言を求めた。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は会議【かいぎ】で発言【はつげん】を求【もと】めた。",
+    "meaning": "The supervisor requested to speak at the meeting."
+  },
+  {
+    "sentence": "彼は刑務所を監理している。",
+    "sentence_furigana": "彼【かれ】は刑務所【けいむしょ】を監理【かんり】している。",
+    "meaning": "He manages the prison."
+  },
+  {
+    "sentence": "監察官は証人尋問を行った。",
+    "sentence_furigana": "監察官【かんさつかん】は証人尋問【しょうにんじんもん】を行【おこな】った。",
+    "meaning": "The inspector conducted witness questioning."
+  },
+  {
+    "sentence": "彼は監修者としてプロジェクトに参加した。",
+    "sentence_furigana": "彼【かれ】は監修者【かんしゅうしゃ】としてプロジェクトに参加【さんか】した。",
+    "meaning": "He participated in the project as a supervisor."
+  },
+  {
+    "sentence": "監理官は現場の安全対策を指示した。",
+    "sentence_furigana": "監理官【かんりかん】は現場【げんば】の安全対策【あんぜんたいさく】を指示【しじ】した。",
+    "meaning": "The administrator instructed on safety measures at the site."
+  },
+  {
+    "sentence": "彼は会社の監査を監修した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の監査【かんさ】を監修【かんしゅう】した。",
+    "meaning": "He supervised the company's audit."
+  },
+  {
+    "sentence": "監察官は不正の証拠を発見した。",
+    "sentence_furigana": "監察官【かんさつかん】は不正【ふせい】の証拠【しょうこ】を発見【はっけん】した。",
+    "meaning": "The inspector discovered evidence of fraud."
+  },
+  {
+    "sentence": "彼は監視対象を追跡した。",
+    "sentence_furigana": "彼【かれ】は監視対象【かんしたいしょう】を追跡【ついせき】した。",
+    "meaning": "He tracked the target of surveillance."
+  },
+  {
+    "sentence": "監修者は研修プログラムを監修した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は研修プログラムを監修【かんしゅう】した。",
+    "meaning": "The supervisor oversaw the training program."
+  },
+  {
+    "sentence": "彼は公務員として監察官になった。",
+    "sentence_furigana": "彼【かれ】は公務員【こうむいん】として監察官【かんさつかん】になった。",
+    "meaning": "He became an inspector as a civil servant."
+  },
+  {
+    "sentence": "監理官は作業の進捗状況を報告した。",
+    "sentence_furigana": "監理官【かんりかん】は作業【さぎょう】の進捗状況【しんちょくじょうきょう】を報告【ほうこく】した。",
+    "meaning": "The administrator reported the work progress."
+  },
+  {
+    "sentence": "彼はプロジェクト全体の監修を行った。",
+    "sentence_furigana": "彼【かれ】はプロジェクト全体【ぜんたい】の監修【かんしゅう】を行【おこな】った。",
+    "meaning": "He oversaw the entire project."
+  },
+  {
+    "sentence": "監察官は容疑者に質問した。",
+    "sentence_furigana": "監察官【かんさつかん】は容疑者【ようぎしゃ】に質問【しつもん】した。",
+    "meaning": "The inspector questioned the suspect."
+  },
+  {
+    "sentence": "彼は監修としてチームの意見を聞いた。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】としてチームの意見【いけん】を聞【き】いた。",
+    "meaning": "He listened to the team's opinions as a supervisor."
+  },
+  {
+    "sentence": "監理官は設備の点検を命じた。",
+    "sentence_furigana": "監理官【かんりかん】は設備【せつび】の点検【てんけん】を命【めい】じた。",
+    "meaning": "The administrator ordered an inspection of the equipment."
+  },
+  {
+    "sentence": "彼は新しい規則の監修を行った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい規則【きそく】の監修【かんしゅう】を行【おこな】った。",
+    "meaning": "He supervised the new regulations."
+  },
+  {
+    "sentence": "監察官は証拠物件を確保した。",
+    "sentence_furigana": "監察官【かんさつかん】は証拠物件【しょうこぶっけん】を確保【かくほ】した。",
+    "meaning": "The inspector secured the evidence."
+  },
+  {
+    "sentence": "彼は監獄に収容されている。",
+    "sentence_furigana": "彼【かれ】は監獄【かんごく】に収容【しゅうよう】されている。",
+    "meaning": "He is incarcerated in prison."
+  },
+  {
+    "sentence": "監修者は作品の品質を保証する責任がある。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は作品【さくひん】の品質【ひんしつ】を保証【ほしょう】する責任【せきにん】がある。",
+    "meaning": "The supervisor is responsible for guaranteeing the quality of the work."
+  },
+  {
+    "sentence": "彼は監察官の調査に協力した。",
+    "sentence_furigana": "彼【かれ】は監察官【かんさつかん】の調査【ちょうさ】に協力【きょうりょく】した。",
+    "meaning": "He cooperated with the inspector's investigation."
+  },
+  {
+    "sentence": "監理官は作業員の安全を確保した。",
+    "sentence_furigana": "監理官【かんりかん】は作業員【さぎょういん】の安全【あんぜん】を確保【かくほ】した。",
+    "meaning": "The administrator ensured the safety of the workers."
+  },
+  {
+    "sentence": "彼は施設の監理を委任された。",
+    "sentence_furigana": "彼【かれ】は施設【しせつ】の監理【かんり】を委任【いにん】された。",
+    "meaning": "He was entrusted with the management of the facility."
+  },
+  {
+    "sentence": "監察官は証拠の整合性をチェックした。",
+    "sentence_furigana": "監察官【かんさつかん】は証拠【しょうこ】の整合性【せいごうせい】をチェックした。",
+    "meaning": "The inspector checked the consistency of the evidence."
+  },
+  {
+    "sentence": "彼は監修として会議の進行を管理した。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】として会議【かいぎ】の進行【しんこう】を管理【かんり】した。",
+    "meaning": "He managed the progress of the meeting as a supervisor."
+  },
+  {
+    "sentence": "監理官は規則の遵守状況を確認した。",
+    "sentence_furigana": "監理官【かんりかん】は規則【きそく】の遵守状況【じゅんしゅじょうきょう】を確認【かくにん】した。",
+    "meaning": "The administrator confirmed the compliance with the rules."
+  },
+  {
+    "sentence": "彼は監察官室に勤務している。",
+    "sentence_furigana": "彼【かれ】は監察官室【かんさつかんしつ】に勤務【きんむ】している。",
+    "meaning": "He works in the inspector's office."
+  },
+  {
+    "sentence": "監修者は研究の質を保証した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は研究【けんきゅう】の質【しつ】を保証【ほしょう】した。",
+    "meaning": "The supervisor guaranteed the quality of the research."
+  },
+  {
+    "sentence": "彼は事件の記録を監察した。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の記録【きろく】を監察【かんさつ】した。",
+    "meaning": "He inspected the records of the incident."
+  },
+  {
+    "sentence": "監理官は施設利用の規則を定めた。",
+    "sentence_furigana": "監理官【かんりかん】は施設利用【しせつりよう】の規則【きそく】を定【さだ】めた。",
+    "meaning": "The administrator set rules for facility use."
+  },
+  {
+    "sentence": "彼は監修者としてフィードバックを提供した。",
+    "sentence_furigana": "彼【かれ】は監修者【かんしゅうしゃ】としてフィードバックを提供【ていきょう】した。",
+    "meaning": "He provided feedback as a supervisor."
+  },
+  {
+    "sentence": "監察官は不正行為の証拠を見つけた。",
+    "sentence_furigana": "監察官【かんさつかん】は不正行為【ふせいこうい】の証拠【しょうこ】を見【み】つけた。",
+    "meaning": "The inspector found evidence of misconduct."
+  },
+  {
+    "sentence": "彼は監理官の指示に従う必要がある。",
+    "sentence_furigana": "彼【かれ】は監理官【かんりかん】の指示【しじ】に従【したが】う必要【ひつよう】がある。",
+    "meaning": "He must follow the administrator's instructions."
+  },
+  {
+    "sentence": "監修者は作品の完成度を高めた。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は作品【さくひん】の完成度【かんせいど】を高【たか】めた。",
+    "meaning": "The supervisor improved the completeness of the work."
+  },
+  {
+    "sentence": "彼は法廷の秩序を監理した。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】の秩序【ちつじょ】を監理【かんり】した。",
+    "meaning": "He managed the order of the courtroom."
+  },
+  {
+    "sentence": "監察官は内部告発者の安全を保護した。",
+    "sentence_furigana": "監察官【かんさつかん】は内部告発者【ないぶこくはつしゃ】の安全【あんぜん】を保護【ほご】した。",
+    "meaning": "The inspector protected the safety of the whistleblower."
+  },
+  {
+    "sentence": "彼は監修としてチームメンバーを指導した。",
+    "sentence_furigana": "彼【かれ】は監修【かんしゅう】としてチームメンバーを指導【しどう】した。",
+    "meaning": "He coached the team members as a supervisor."
+  },
+  {
+    "sentence": "監理官は施設の定期的な点検を実施した。",
+    "sentence_furigana": "監理官【かんりかん】は施設【しせつ】の定期的【ていきてき】な点検【てんけん】を実施【じっし】した。",
+    "meaning": "The administrator conducted regular inspections of the facility."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトの監修を依頼された。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトの監修【かんしゅう】を依頼【いらい】された。",
+    "meaning": "He was asked to supervise the new project."
+  },
+  {
+    "sentence": "監察官は証拠品の取り扱いに関する規則を遵守させた。",
+    "sentence_furigana": "監察官【かんさつかん】は証拠品【しょうこひん】の取【と】り扱【あつか】いに関する規則【きそく】を遵守【じゅんしゅ】させた。",
+    "meaning": "The inspector made them comply with the rules regarding the handling of evidence."
+  },
+  {
+    "sentence": "彼は監察官の権限に基づいて行動した。",
+    "sentence_furigana": "彼【かれ】は監察官【かんさつかん】の権限【けんげん】に基づ【もと】いて行動【こうどう】した。",
+    "meaning": "He acted based on the inspector's authority."
+  },
+  {
+    "sentence": "監修者は研究結果の正確性を確認した。",
+    "sentence_furigana": "監修者【かんしゅうしゃ】は研究結果【けんきゅうけっか】の正確性【せいかくせい】を確認【かくにん】した。",
+    "meaning": "The supervisor confirmed the accuracy of the research results."
+  },
+  {
+    "sentence": "彼は事件の監察を指揮した。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の監察【かんさつ】を指揮【しき】した。",
+    "meaning": "He directed the investigation of the incident."
+  },
+  {
+    "sentence": "監理官は施設全体の安全管理を徹底した。",
+    "sentence_furigana": "監理官【かんりかん】は施設全体【しせつぜんたい】の安全管理【あんぜんかんり】を徹底【てってい】した。",
+    "meaning": "The administrator thoroughly implemented safety management for the entire facility."
+  },
+  {
+    "sentence": "彼は監修者としてプロジェクトの成功に貢献した。",
+    "sentence_furigana": "彼【かれ】は監修者【かんしゅうしゃ】としてプロジェクトの成功【せいこう】に貢献【こうけん】した。",
+    "meaning": "He contributed to the success of the project as a supervisor."
+  },
+  {
+    "sentence": "監察官は調査報告書を作成した。",
+    "sentence_furigana": "監察官【かんさつかん】は調査報告書【ちょうさほうこくしょ】を作成【さくせい】した。",
+    "meaning": "The inspector created an investigation report."
+  }
+]

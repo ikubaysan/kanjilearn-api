@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "彼は才能を高く評価された。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】を高く【たかく】評価【ひょうか】された。",
+    "meaning": "He was highly appreciated for his talent."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼は喜びを隠せなかった。",
+    "sentence_furigana": "その知らせ【しらせ】を聞【き】いて、彼【かれ】は喜【よろこ】びを隠【かく】せなかった。",
+    "meaning": "Upon hearing the news, he could not hide his joy."
+  },
+  {
+    "sentence": "長年の努力が実を結んだ。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が実【み】を結【むす】んだ。",
+    "meaning": "Years of effort bore fruit."
+  },
+  {
+    "sentence": "彼は不幸な運命に耐えなければならなかった。",
+    "sentence_furigana": "彼【かれ】は不幸【ふこう】な運命【うんめい】に耐【た】えなければならなかった。",
+    "meaning": "He had to endure an unfortunate fate."
+  },
+  {
+    "sentence": "電話が鳴ったので、彼が応答した。",
+    "sentence_furigana": "電話【でんわ】が鳴【な】ったので、彼【かれ】が応答【おうとう】した。",
+    "meaning": "The phone rang, so he answered."
+  },
+  {
+    "sentence": "彼は友人の助けを受けた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の助【たす】けを受【う】けた。",
+    "meaning": "He received help from his friend."
+  },
+  {
+    "sentence": "その病気は感染しやすい。",
+    "sentence_furigana": "その病気【びょうき】は感染【かんせん】しやすい。",
+    "meaning": "That disease is highly contagious."
+  },
+  {
+    "sentence": "彼らは平和を享受した。",
+    "sentence_furigana": "彼【かれ】ら は 平和【へいわ】を享受【きょうじゅ】した。",
+    "meaning": "They enjoyed peace."
+  },
+  {
+    "sentence": "彼の業績は後世に伝えられるだろう。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は後世【こうせい】に伝【つた】えられるだろう。",
+    "meaning": "His achievements will be passed down to future generations."
+  },
+  {
+    "sentence": "彼は期待に応えることができるだろうか。",
+    "sentence_furigana": "彼【かれ】は期待【きたい】に応【こた】えることができるだろうか。",
+    "meaning": "Will he be able to meet expectations?"
+  },
+  {
+    "sentence": "この機械は最新の技術を採用している。",
+    "sentence_furigana": "この機械【きかい】は最新【さいしん】の技術【ぎじゅつ】を採用【さいよう】している。",
+    "meaning": "This machine uses the latest technology."
+  },
+  {
+    "sentence": "彼は彼の経験から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の経験【けいけん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned a lot from his experience."
+  },
+  {
+    "sentence": "子供たちは夏休みを楽しみにしている。",
+    "sentence_furigana": "子供【こども】たち は 夏休【なつやす】み を 楽【たの】しみ に して いる。",
+    "meaning": "The children are looking forward to summer vacation."
+  },
+  {
+    "sentence": "彼女は厳しい訓練を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい訓練【くんれん】を受【う】けた。",
+    "meaning": "She underwent rigorous training."
+  },
+  {
+    "sentence": "その地域は長年にわたり平和を享受してきた。",
+    "sentence_furigana": "その地域【ちいき】は長年【ながねん】にわたり平和【へいわ】を享受【きょうじゅ】してきた。",
+    "meaning": "That region has enjoyed peace for many years."
+  },
+  {
+    "sentence": "彼からの返事を待っている。",
+    "sentence_furigana": "彼【かれ】からの返事【へんじ】を待【ま】っている。",
+    "meaning": "I am waiting for a reply from him."
+  },
+  {
+    "sentence": "彼は素晴らしい才能を持っている。",
+    "sentence_furigana": "彼【かれ】は素晴【すば】らしい才能【さいのう】を持っている。",
+    "meaning": "He possesses wonderful talent."
+  },
+  {
+    "sentence": "この賞は長年の貢献に対するものです。",
+    "sentence_furigana": "この賞【しょう】は長年【ながねん】の貢献【こうけん】に対する【たいする】ものです。",
+    "meaning": "This award is for many years of contribution."
+  },
+  {
+    "sentence": "彼は批判に耐えた。",
+    "sentence_furigana": "彼【かれ】は批判【ひはん】に耐【た】えた。",
+    "meaning": "He endured criticism."
+  },
+  {
+    "sentence": "その知らせはすぐに伝わった。",
+    "sentence_furigana": "その知らせ【しらせ】はすぐ に 伝【つた】わった。",
+    "meaning": "The news spread quickly."
+  },
+  {
+    "sentence": "彼女は教授の講義を楽しみにしていた。",
+    "sentence_furigana": "彼女【かのじょ】は教授【きょうじゅ】の講義【こうぎ】を楽【たの】しみ に して いた。",
+    "meaning": "She was looking forward to the professor's lecture."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に直面した。",
+    "sentence_furigana": "彼【かれ】は予期【よき】せぬ困難【こんなん】に直面【ちょくめん】した。",
+    "meaning": "He faced unexpected difficulties."
+  },
+  {
+    "sentence": "この制度は多くの恩恵をもたらすだろう。",
+    "sentence_furigana": "この制度【せいど】は多【おお】くの恩恵【おんけい】をもたらすだろう。",
+    "meaning": "This system will bring many benefits."
+  },
+  {
+    "sentence": "彼は国民から尊敬を受けた。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】から尊敬【そんけい】を受【う】けた。",
+    "meaning": "He received respect from the citizens."
+  },
+  {
+    "sentence": "電話が鳴っているが、誰も出ない。",
+    "sentence_furigana": "電話【でんわ】が鳴【な】っているが、誰【だれ】も出【で】ない。",
+    "meaning": "The phone is ringing, but no one is answering."
+  },
+  {
+    "sentence": "彼はこの仕事の成果を享受した。",
+    "sentence_furigana": "彼【かれ】は この 仕事【しごと】の成果【せいか】を享受【きょうじゅ】した。",
+    "meaning": "He enjoyed the results of this work."
+  },
+  {
+    "sentence": "彼の功績は歴史に刻まれる。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に刻【きざ】まれる。",
+    "meaning": "His achievements will be etched in history."
+  },
+  {
+    "sentence": "彼は親の期待に応えようと努力した。",
+    "sentence_furigana": "彼【かれ】は親【おや】の期待【きたい】に応【こた】えようと努力【どりょく】した。",
+    "meaning": "He tried hard to meet his parents' expectations."
+  },
+  {
+    "sentence": "新しい法律が施行された。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】が施行【せこう】された。",
+    "meaning": "A new law was enforced."
+  },
+  {
+    "sentence": "彼はその経験を通して成長した。",
+    "sentence_furigana": "彼【かれ】は その経験【けいけん】を通して【とおして】成長【せいちょう】した。",
+    "meaning": "He grew through that experience."
+  },
+  {
+    "sentence": "子供たちは休日を満喫している。",
+    "sentence_furigana": "子供【こども】たち は 休日【きゅうじつ】を満喫【まんきつ】している。",
+    "meaning": "The children are enjoying their holiday."
+  },
+  {
+    "sentence": "彼女は多くの賞賛を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの賞賛【しょうさん】を受【う】けた。",
+    "meaning": "She received much praise."
+  },
+  {
+    "sentence": "この地域は豊かな自然を享受できる。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然【しぜん】を享受【きょうじゅ】できる。",
+    "meaning": "This region can enjoy abundant nature."
+  },
+  {
+    "sentence": "彼からの連絡を待っています。",
+    "sentence_furigana": "彼【かれ】からの連絡【れんらく】を待【ま】っています。",
+    "meaning": "I am waiting for contact from him."
+  },
+  {
+    "sentence": "彼は音楽から多くのインスピレーションを得た。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】から多【おお】くのインスピレーションを得【え】た。",
+    "meaning": "He got a lot of inspiration from music."
+  },
+  {
+    "sentence": "彼の業績は高く評価されている。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は高く【たかく】評価【ひょうか】されている。",
+    "meaning": "His achievements are highly evaluated."
+  },
+  {
+    "sentence": "彼女は困難な状況に耐えた。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】な状況【じょうきょう】に耐【た】えた。",
+    "meaning": "She endured difficult circumstances."
+  },
+  {
+    "sentence": "その知らせは会議で共有された。",
+    "sentence_furigana": "その知らせ【しらせ】は会議【かいぎ】で共有【きょうゆう】された。",
+    "meaning": "The news was shared at the meeting."
+  },
+  {
+    "sentence": "彼は教授の指導を受けた。",
+    "sentence_furigana": "彼【かれ】は教授【きょうじゅ】の指導【しどう】を受【う】けた。",
+    "meaning": "He received guidance from the professor."
+  },
+  {
+    "sentence": "彼らは平和な時代を享受した。",
+    "sentence_furigana": "彼【かれ】ら は 平和【へいわ】な時代【じだい】を享受【きょうじゅ】した。",
+    "meaning": "They enjoyed a peaceful era."
+  },
+  {
+    "sentence": "この政策は多くの人々に恩恵を与えるだろう。",
+    "sentence_furigana": "この政策【せいさく】は多【おお】くの人々【ひとびと】に恩恵【おんけい】を与【あた】えるだろう。",
+    "meaning": "This policy will benefit many people."
+  },
+  {
+    "sentence": "彼は祖国の平和を享受できた。",
+    "sentence_furigana": "彼【かれ】は祖国【そこく】の平和【へいわ】を享受【きょうじゅ】できた。",
+    "meaning": "He could enjoy the peace of his homeland."
+  },
+  {
+    "sentence": "その知らせが彼の心を明るくした。",
+    "sentence_furigana": "その知らせ【しらせ】が彼【かれ】の心【こころ】を明【あか】るくした。",
+    "meaning": "The news brightened his heart."
+  },
+  {
+    "sentence": "彼はその経験から多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は その経験【けいけん】から多【おお】くのこと を 学【まな】んだ。",
+    "meaning": "He learned many things from that experience."
+  },
+  {
+    "sentence": "彼は厳しい試練に耐え抜いた。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい試練【しれん】に耐【た】え抜【ぬ】いた。",
+    "meaning": "He endured severe trials."
+  },
+  {
+    "sentence": "このシステムはユーザーからのフィードバックを受け付けています。",
+    "sentence_furigana": "このシステム は ユーザーからのフィードバック を 受【う】け付【つ】けています。",
+    "meaning": "This system accepts feedback from users."
+  },
+  {
+    "sentence": "彼はその素晴らしい景色を楽しんだ。",
+    "sentence_furigana": "彼【かれ】は その素晴【すば】らしい景色【けしき】を楽【たの】しんだ。",
+    "meaning": "He enjoyed the wonderful scenery."
+  },
+  {
+    "sentence": "その知らせは広く伝達された。",
+    "sentence_furigana": "その知らせ【しらせ】は広【ひろ】く伝達【でんたつ】された。",
+    "meaning": "The news was widely communicated."
+  },
+  {
+    "sentence": "彼は多くの祝福を受けた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの祝福【しゅくふく】を受【う】けた。",
+    "meaning": "He received many blessings."
+  },
+  {
+    "sentence": "彼らは勝利の喜びを分かち合った。",
+    "sentence_furigana": "彼【かれ】ら は勝利【しょうり】の喜【よろこ】びを分【わ】かち合【あ】った。",
+    "meaning": "They shared the joy of victory."
+  },
+  {
+    "sentence": "この機会を享受してください。",
+    "sentence_furigana": "この機会【きかい】を享受【きょうじゅ】して ください。",
+    "meaning": "Please enjoy this opportunity."
+  },
+  {
+    "sentence": "彼は苦難を乗り越えた。",
+    "sentence_furigana": "彼【かれ】は苦難【くんなん】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame hardship."
+  },
+  {
+    "sentence": "彼の長年の研究は実を結んだ。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の研究【けんきゅう】は実【み】を結【むす】んだ。",
+    "meaning": "His years of research bore fruit."
+  },
+  {
+    "sentence": "彼女は父親から遺産を受け継いだ。",
+    "sentence_furigana": "彼女【かのじょ】は父親【ちちおや】から遺産【いさん】を受【う】け継【つ】いだ。",
+    "meaning": "She inherited an estate from her father."
+  },
+  {
+    "sentence": "その知らせは皆に広まった。",
+    "sentence_furigana": "その知らせ【しらせ】は皆【みな】に広【ひろ】まった。",
+    "meaning": "The news spread to everyone."
+  },
+  {
+    "sentence": "彼は上司からの指示を受けた。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】からの指示【しじ】を受【う】けた。",
+    "meaning": "He received instructions from his boss."
+  },
+  {
+    "sentence": "彼らは静寂を楽しんだ。",
+    "sentence_furigana": "彼【かれ】ら は 静寂【せいじゃく】を楽【たの】しんだ。",
+    "meaning": "They enjoyed the silence."
+  },
+  {
+    "sentence": "この提案は多くの賛同を得た。",
+    "sentence_furigana": "この提案【ていあん】は多【おお】くの賛同【さんどう】を得【え】た。",
+    "meaning": "This proposal received much agreement."
+  },
+  {
+    "sentence": "彼は不幸な運命を受け入れた。",
+    "sentence_furigana": "彼【かれ】は不幸【ふこう】な運命【うんめい】を受【う】け入【い】れた。",
+    "meaning": "He accepted his unfortunate fate."
+  },
+  {
+    "sentence": "電話に応答してください。",
+    "sentence_furigana": "電話【でんわ】に応答【おうとう】して ください。",
+    "meaning": "Please answer the phone."
+  },
+  {
+    "sentence": "彼は祖国での生活を楽しんでいる。",
+    "sentence_furigana": "彼【かれ】は祖国【そこく】での生活【せいかつ】を楽【たの】しんでいる。",
+    "meaning": "He is enjoying life in his homeland."
+  },
+  {
+    "sentence": "彼の貢献は高く評価されるべきだ。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は高く【たかく】評価【ひょうか】されるべきだ。",
+    "meaning": "His contribution should be highly appreciated."
+  },
+  {
+    "sentence": "彼女は新しい環境に慣れるのに苦労した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい環境【かんきょう】に慣【な】れるのに苦労【くろう】した。",
+    "meaning": "She struggled to get used to the new environment."
+  },
+  {
+    "sentence": "その知らせは皆を安心させた。",
+    "sentence_furigana": "その知らせ【しらせ】は皆【みな】を安心【あんしん】させた。",
+    "meaning": "The news reassured everyone."
+  },
+  {
+    "sentence": "彼は友人の親切を受けた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の親切【しんせつ】を受【う】けた。",
+    "meaning": "He received kindness from his friend."
+  },
+  {
+    "sentence": "彼らは歴史的な瞬間を目撃した。",
+    "sentence_furigana": "彼【かれ】ら は歴史的【れきしてき】な瞬間【しゅんかん】を目撃【もくげき】した。",
+    "meaning": "They witnessed a historic moment."
+  },
+  {
+    "sentence": "彼はその機会を最大限に活用した。",
+    "sentence_furigana": "彼【かれ】は その機会【きかい】を最大限【さいだいげん】に活用【かつよう】した。",
+    "meaning": "He made the most of the opportunity."
+  },
+  {
+    "sentence": "彼女は芸術から多くを得た。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】から多【おお】くを得【え】た。",
+    "meaning": "She gained a lot from art."
+  },
+  {
+    "sentence": "彼は長年の夢を実現させた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】を実現【じつげん】させた。",
+    "meaning": "He realized his long-held dream."
+  },
+  {
+    "sentence": "その知らせは国中に広まった。",
+    "sentence_furigana": "その知らせ【しらせ】は国中【くにじゅう】に広【ひろ】まった。",
+    "meaning": "The news spread throughout the country."
+  },
+  {
+    "sentence": "彼は新しい技術を習得した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】を習得【しゅうとく】した。",
+    "meaning": "He acquired new skills."
+  },
+  {
+    "sentence": "彼らは穏やかな日々を楽しんだ。",
+    "sentence_furigana": "彼【かれ】ら は穏【おだ】やかな日々【ひび】を楽【たの】しんだ。",
+    "meaning": "They enjoyed peaceful days."
+  },
+  {
+    "sentence": "この経験は彼に多くのことを教えた。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】に多【おお】くのこと を 教【おし】えた。",
+    "meaning": "This experience taught him a lot."
+  },
+  {
+    "sentence": "彼は祖父から教訓を受けた。",
+    "sentence_furigana": "彼【かれ】は祖父【そふ】から教訓【きょうくん】を受【う】けた。",
+    "meaning": "He received a lesson from his grandfather."
+  },
+  {
+    "sentence": "彼は長年の懸念に応じた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の懸念【けねん】に応【おう】じた。",
+    "meaning": "He responded to long-standing concerns."
+  },
+  {
+    "sentence": "彼らはその贈り物を享受した。",
+    "sentence_furigana": "彼【かれ】ら は その贈【おく】り物【もの】を享受【きょうじゅ】した。",
+    "meaning": "They enjoyed the gift."
+  },
+  {
+    "sentence": "彼はその知らせを聞いて安心した。",
+    "sentence_furigana": "彼【かれ】は その知らせ【しらせ】を聞【き】いて安心【あんしん】した。",
+    "meaning": "He was relieved to hear the news."
+  },
+  {
+    "sentence": "この政策は多くの国民に支持されている。",
+    "sentence_furigana": "この政策【せいさく】は多【おお】くの国民【こくみん】に支持【しじ】されている。",
+    "meaning": "This policy is supported by many citizens."
+  },
+  {
+    "sentence": "彼は厳しい批評にさらされた。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい批評【ひひょう】にさらされた。",
+    "meaning": "He was subjected to harsh criticism."
+  },
+  {
+    "sentence": "彼らは平和な暮らしを享受している。",
+    "sentence_furigana": "彼【かれ】ら は平和【へいわ】な暮【く】らしを享受【きょうじゅ】している。",
+    "meaning": "They are enjoying a peaceful life."
+  },
+  {
+    "sentence": "彼は賞賛の声を受けた。",
+    "sentence_furigana": "彼【かれ】は賞賛【しょうさん】の声【こえ】を受【う】けた。",
+    "meaning": "He received words of praise."
+  },
+  {
+    "sentence": "その知らせは希望をもたらした。",
+    "sentence_furigana": "その知らせ【しらせ】は希望【きぼう】をもたらした。",
+    "meaning": "The news brought hope."
+  },
+  {
+    "sentence": "彼は長年の努力が報われた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の努力【どりょく】が報【むく】われた。",
+    "meaning": "His years of effort were rewarded."
+  },
+  {
+    "sentence": "彼らは芸術作品を楽しんだ。",
+    "sentence_furigana": "彼【かれ】ら は芸術作品【げいじゅつさくひん】を楽【たの】しんだ。",
+    "meaning": "They enjoyed the artwork."
+  },
+  {
+    "sentence": "この経験は彼にとって大きな収穫だった。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】にとって大【おお】きな収穫【しゅうかく】だった。",
+    "meaning": "This experience was a great gain for him."
+  },
+  {
+    "sentence": "彼は父から財産を受け継いだ。",
+    "sentence_furigana": "彼【かれ】は父【ちち】から財産【ざいさん】を受【う】け継【つ】いだ。",
+    "meaning": "He inherited property from his father."
+  },
+  {
+    "sentence": "彼らは平和な社会を享受できた。",
+    "sentence_furigana": "彼【かれ】ら は平和【へいわ】な社会【しゃかい】を享受【きょうじゅ】できた。",
+    "meaning": "They could enjoy a peaceful society."
+  },
+  {
+    "sentence": "その知らせは遠くまで伝わった。",
+    "sentence_furigana": "その知らせ【しらせ】は遠【とお】くまで伝【つた】わった。",
+    "meaning": "The news spread far and wide."
+  },
+  {
+    "sentence": "彼は多くの知識を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】を得【え】た。",
+    "meaning": "He gained much knowledge."
+  },
+  {
+    "sentence": "彼は親の遺産を享受した。",
+    "sentence_furigana": "彼【かれ】は親【おや】の遺産【いさん】を享受【きょうじゅ】した。",
+    "meaning": "He enjoyed his inheritance."
+  },
+  {
+    "sentence": "この規則は多くの恩恵をもたらす。",
+    "sentence_furigana": "この規則【きそく】は多【おお】くの恩恵【おんけい】をもたらす。",
+    "meaning": "This regulation brings many benefits."
+  },
+  {
+    "sentence": "彼は新しい経験を受け入れた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい経験【けいけん】を受【う】け入【い】れた。",
+    "meaning": "He accepted the new experience."
+  },
+  {
+    "sentence": "その知らせは彼の心に響いた。",
+    "sentence_furigana": "その知らせ【しらせ】は彼【かれ】の心【こころ】に響【ひび】いた。",
+    "meaning": "The news resonated with his heart."
+  },
+  {
+    "sentence": "彼は長年の苦労を乗り越え、成功を収めた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の苦労【くろう】を乗【の】り越【こ】え、成功【せいこう】を収【おさ】めた。",
+    "meaning": "He overcame years of hardship and achieved success."
+  },
+  {
+    "sentence": "彼らは人生の喜びを享受した。",
+    "sentence_furigana": "彼【かれ】ら は人生【じんせい】の喜【よろこ】びを享受【きょうじゅ】した。",
+    "meaning": "They enjoyed the joys of life."
+  },
+  {
+    "sentence": "彼はその知らせを聞いて興奮した。",
+    "sentence_furigana": "彼【かれ】は その知らせ【しらせ】を聞【き】いて興奮【こうふん】した。",
+    "meaning": "He was excited to hear the news."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "私は新しい家に引っ越しました。",
+    "sentence_furigana": "私【わたし】は新【あたら】しい家【いえ】に引【ひ】っ越【こ】しました。",
+    "meaning": "I moved to a new house."
+  },
+  {
+    "sentence": "我が家はとても暖かです。",
+    "sentence_furigana": "我々【わが】家【や】はとても暖【あたた】かです。",
+    "meaning": "Our home is very warm."
+  },
+  {
+    "sentence": "家族全員で旅行に行きました。",
+    "sentence_furigana": "家族【かぞく】全員【ぜんいん】で旅行【りょこう】に行【い】きました。",
+    "meaning": "The whole family went on a trip."
+  },
+  {
+    "sentence": "彼はその分野の専門家です。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in that field."
+  },
+  {
+    "sentence": "彼女は有名なピアニストです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】なピアニストです。",
+    "meaning": "She is a famous performer."
+  },
+  {
+    "sentence": "この家は築百年です。",
+    "sentence_furigana": "この家【いえ】は築【ちく】百年【ひゃくねん】です。",
+    "meaning": "This house is a hundred years old."
+  },
+  {
+    "sentence": "彼は作家として有名です。",
+    "sentence_furigana": "彼【かれ】は作家【さっか】として有名【ゆうめい】です。",
+    "meaning": "He is famous as a writer."
+  },
+  {
+    "sentence": "大家族が一緒に暮らしています。",
+    "sentence_furigana": "大家族【だいかぞく】が一緒【いっしょ】に暮【く】らしています。",
+    "meaning": "A large family lives together."
+  },
+  {
+    "sentence": "彼はプロのサッカー選手です。",
+    "sentence_furigana": "彼【かれ】はプロのサッカー選手【せんしゅ】です。",
+    "meaning": "He is a professional soccer player."
+  },
+  {
+    "sentence": "その家は海が見えます。",
+    "sentence_furigana": "その家【いえ】は海【うみ】が見【み】えます。",
+    "meaning": "That house has a view of the sea."
+  },
+  {
+    "sentence": "彼は仕事の専門家と呼ばれています。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】の専門家【せんもんか】と呼【よ】ばれています。",
+    "meaning": "He is called an expert at his job."
+  },
+  {
+    "sentence": "これは私の家宝です。",
+    "sentence_furigana": "これ【これ】は私【わたし】の家宝【かほう】です。",
+    "meaning": "This is my family heirloom."
+  },
+  {
+    "sentence": "彼は有名な歌舞伎役者です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な歌舞伎役者【かぶきやくしゃ】です。",
+    "meaning": "He is a famous Kabuki actor."
+  },
+  {
+    "sentence": "子供たちは家で遊んでいます。",
+    "sentence_furigana": "子供【こども】たち家【いえ】で遊【あそ】んでいます。",
+    "meaning": "The children are playing at home."
+  },
+  {
+    "sentence": "彼女は家族をとても大切にしています。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】をとても大切【たいせつ】にしています。",
+    "meaning": "She cherishes her family very much."
+  },
+  {
+    "sentence": "彼は歴史家として高く評価されています。",
+    "sentence_furigana": "彼【かれ】は歴史家【れきしか】として高【たか】く評価【ひょうか】されています。",
+    "meaning": "He is highly regarded as a historian."
+  },
+  {
+    "sentence": "この家はとても広いです。",
+    "sentence_furigana": "この家【いえ】はとても広【ひろ】いです。",
+    "meaning": "This house is very spacious."
+  },
+  {
+    "sentence": "彼はその分野のエキスパートです。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】のエキスパートです。",
+    "meaning": "He is an expert in that field."
+  },
+  {
+    "sentence": "私の家は駅の近くにあります。",
+    "sentence_furigana": "私【わたし】の家【いえ】は駅【えき】の近【ちか】くにあります。",
+    "meaning": "My house is near the station."
+  },
+  {
+    "sentence": "彼は家族のために一生懸命働いています。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】のため一生懸命【いっしょうけんめい】働【はたら】いています。",
+    "meaning": "He works hard for his family."
+  },
+  {
+    "sentence": "彼女は著名な科学者です。",
+    "sentence_furigana": "彼女【かのじょ】は著名【ちょめい】な科学者【かがくしゃ】です。",
+    "meaning": "She is a renowned scientist."
+  },
+  {
+    "sentence": "この家は静かで落ち着いています。",
+    "sentence_furigana": "この家【いえ】は静【しず】かで落【お】ち着【つ】いています。",
+    "meaning": "This house is quiet and peaceful."
+  },
+  {
+    "sentence": "彼は優れた演奏家です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた演奏家【えんそうか】です。",
+    "meaning": "He is an excellent performer."
+  },
+  {
+    "sentence": "家が一番落ち着きます。",
+    "sentence_furigana": "家【いえ】が一番【いちばん】落【お】ち着【つ】きます。",
+    "meaning": "Home is where I feel most relaxed."
+  },
+  {
+    "sentence": "彼の家族は皆、音楽が好きです。",
+    "sentence_furigana": "彼【かれ】の家族【かぞく】は皆【みな】、音楽【おんがく】が好【す】きです。",
+    "meaning": "His whole family loves music."
+  },
+  {
+    "sentence": "彼女は建築の専門家です。",
+    "sentence_furigana": "彼女【かのじょ】は建築【けんちく】の専門家【せんもんか】です。",
+    "meaning": "She is an expert in architecture."
+  },
+  {
+    "sentence": "その家には美しい庭があります。",
+    "sentence_furigana": "その家【いえ】には美【うつく】しい庭【にわ】があります。",
+    "meaning": "That house has a beautiful garden."
+  },
+  {
+    "sentence": "彼は著名な作家です。",
+    "sentence_furigana": "彼【かれ】は著名【ちょめい】な作家【さっか】です。",
+    "meaning": "He is a renowned writer."
+  },
+  {
+    "sentence": "大家さんは親切な人です。",
+    "sentence_furigana": "大家【たいか】さん は親切【しんせつ】な人【ひと】です。",
+    "meaning": "The landlord is a kind person."
+  },
+  {
+    "sentence": "彼女はバイオリンの天才的な演奏家です。",
+    "sentence_furigana": "彼女【かのじょ】はバイオリンの天才的【てんさいてき】な演奏家【えんそうか】です。",
+    "meaning": "She is a gifted violinist."
+  },
+  {
+    "sentence": "家路を急ぎます。",
+    "sentence_furigana": "家路【いえじ】を急【いそ】ぎます。",
+    "meaning": "I hurry home."
+  },
+  {
+    "sentence": "彼は家庭を大切にする人です。",
+    "sentence_furigana": "彼【かれ】は家庭【かてい】を大切【たいせつ】にする人【ひと】です。",
+    "meaning": "He is a person who values his family."
+  },
+  {
+    "sentence": "彼女は国際的な音楽家です。",
+    "sentence_furigana": "彼女【かのじょ】は国際的【こくさいてき】な音楽家【おんがくか】です。",
+    "meaning": "She is an international musician."
+  },
+  {
+    "sentence": "この家はとても快適です。",
+    "sentence_furigana": "この家【いえ】はとても快適【かいてき】です。",
+    "meaning": "This house is very comfortable."
+  },
+  {
+    "sentence": "彼は料理の達人です。",
+    "sentence_furigana": "彼【かれ】は料理【りょうり】の達人【たつじん】です。",
+    "meaning": "He is a master chef."
+  },
+  {
+    "sentence": "彼女は家族旅行を楽しみにしています。",
+    "sentence_furigana": "彼女【かのじょ】は家族旅行【かぞくりょこう】を楽【たの】しみにしています。",
+    "meaning": "She is looking forward to the family trip."
+  },
+  {
+    "sentence": "この家は私が子供の頃から住んでいます。",
+    "sentence_furigana": "この家【いえ】は私【わたし】が子供【こども】の頃【ころ】から住【す】んでいます。",
+    "meaning": "I have lived in this house since I was a child."
+  },
+  {
+    "sentence": "彼は歴史の専門家です。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in history."
+  },
+  {
+    "sentence": "彼女は素晴らしい歌声の持ち主です。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい歌声【うたごえ】の持【も】ち主【ぬし】です。",
+    "meaning": "She is a wonderful singer."
+  },
+  {
+    "sentence": "家賃は毎月支払う必要があります。",
+    "sentence_furigana": "家賃【やちん】は毎月【まいつき】支払【しはら】う必要【ひつよう】があります。",
+    "meaning": "Rent must be paid monthly."
+  },
+  {
+    "sentence": "彼はその分野の第一人者です。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】の第一人者【だいいちじんしゃ】です。",
+    "meaning": "He is a leading figure in that field."
+  },
+  {
+    "sentence": "私の家は町の中心部にあります。",
+    "sentence_furigana": "私【わたし】の家【いえ】は町【まち】の中心部【ちゅうしんぶ】にあります。",
+    "meaning": "My house is in the center of town."
+  },
+  {
+    "sentence": "彼女は家族の健康を第一に考えています。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の健康【けんこう】を第一【だいいち】に考【かんが】えています。",
+    "meaning": "She prioritizes her family's health."
+  },
+  {
+    "sentence": "彼は優れたチェリストです。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れたチェリストです。",
+    "meaning": "He is an excellent cellist."
+  },
+  {
+    "sentence": "この家は暖房が完備されています。",
+    "sentence_furigana": "この家【いえ】は暖房【だんぼう】が完備【かんび】されています。",
+    "meaning": "This house is fully equipped with heating."
+  },
+  {
+    "sentence": "彼女はプロのファッションデザイナーです。",
+    "sentence_furigana": "彼女【かのじょ】はプロのファッションデザイナーです。",
+    "meaning": "She is a professional fashion designer."
+  },
+  {
+    "sentence": "彼は家業を継ぐ予定です。",
+    "sentence_furigana": "彼【かれ】は家業【かぎょう】を継【つ】ぐ予定【よてい】です。",
+    "meaning": "He plans to take over the family business."
+  },
+  {
+    "sentence": "家族は私にとって宝物です。",
+    "sentence_furigana": "家族【かぞく】は私【わたし】にとって宝物【たからもの】です。",
+    "meaning": "My family is my treasure."
+  },
+  {
+    "sentence": "彼は国際的な舞台で活躍する演奏家です。",
+    "sentence_furigana": "彼【かれ】は国際的【こくさいてき】な舞台【ぶたい】で活躍【かつやく】する演奏家【えんそうか】です。",
+    "meaning": "He is a performer active on the international stage."
+  },
+  {
+    "sentence": "この家は自然に囲まれています。",
+    "sentence_furigana": "この家【いえ】は自然【しぜん】に囲【かこ】まれています。",
+    "meaning": "This house is surrounded by nature."
+  },
+  {
+    "sentence": "彼女は家族との時間を大切にしています。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】との時間【じかん】を大切【たいせつ】にしています。",
+    "meaning": "She cherishes her time with her family."
+  },
+  {
+    "sentence": "彼は法律の専門家です。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in law."
+  },
+  {
+    "sentence": "この家はとても日当たりが良いです。",
+    "sentence_furigana": "この家【いえ】はとても日当【ひあ】たりが良【よ】いです。",
+    "meaning": "This house gets a lot of sunlight."
+  },
+  {
+    "sentence": "彼女は世界的に有名な歌手です。",
+    "sentence_furigana": "彼女【かのじょ】は世界的【せかいてき】に有名【ゆうめい】な歌手【かしゅ】です。",
+    "meaning": "She is a world-famous singer."
+  },
+  {
+    "sentence": "彼は家でリラックスするのが好きです。",
+    "sentence_furigana": "彼【かれ】は家【いえ】でリラックスするのが好【す】きです。",
+    "meaning": "He likes to relax at home."
+  },
+  {
+    "sentence": "その家は歴史的な建造物です。",
+    "sentence_furigana": "その家【いえ】は歴史的【れきしてき】な建造物【けんぞうぶつ】です。",
+    "meaning": "That house is a historic building."
+  },
+  {
+    "sentence": "家族全員で新しい計画を立てています。",
+    "sentence_furigana": "家族【かぞく】全員【ぜんいん】で新【あたら】しい計画【けいかく】を立【た】てています。",
+    "meaning": "The whole family is making new plans."
+  },
+  {
+    "sentence": "彼女は有名な画家です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な画家【がか】です。",
+    "meaning": "She is a famous painter."
+  },
+  {
+    "sentence": "彼は経済学の専門家です。",
+    "sentence_furigana": "彼【かれ】は経済学【けいざいがく】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in economics."
+  },
+  {
+    "sentence": "家は心の安らぎの場所です。",
+    "sentence_furigana": "家【いえ】は心【こころ】の安楽【やす】ぎの場所【ばしょ】です。",
+    "meaning": "Home is a place of peace for the mind."
+  },
+  {
+    "sentence": "彼は家族の安全を最優先します。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】の安全【あんぜん】を最優先【さいゆうせん】します。",
+    "meaning": "He prioritizes his family's safety."
+  },
+  {
+    "sentence": "彼女は国際的な評価を受けている建築家です。",
+    "sentence_furigana": "彼女【かのじょ】は国際的【こくさいてき】な評価【ひょうか】を受【う】けている建築家【けんちくか】です。",
+    "meaning": "She is an architect with international recognition."
+  },
+  {
+    "sentence": "この家は庭付きです。",
+    "sentence_furigana": "この家【いえ】は庭付【にわつ】きです。",
+    "meaning": "This house comes with a garden."
+  },
+  {
+    "sentence": "彼は演劇界の専門家です。",
+    "sentence_furigana": "彼【かれ】は演劇界【えんげきかい】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in the theater world."
+  },
+  {
+    "sentence": "彼女は有名なダンサーです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】なダンサーです。",
+    "meaning": "She is a famous dancer."
+  },
+  {
+    "sentence": "家族みんなで夕食を作りました。",
+    "sentence_furigana": "家族【かぞく】みんなで夕食【ゆうしょく】を作【つく】りました。",
+    "meaning": "The whole family made dinner together."
+  },
+  {
+    "sentence": "彼は科学技術の専門家です。",
+    "sentence_furigana": "彼【かれ】は科学技術【かがくぎじゅつ】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in science and technology."
+  },
+  {
+    "sentence": "この家は日当たりが良いので明るいです。",
+    "sentence_furigana": "この家【いえ】は日当【ひあ】たりが良【よ】いので明【あか】るいです。",
+    "meaning": "This house is bright because it gets good sunlight."
+  },
+  {
+    "sentence": "彼女は家族のために尽くしています。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】のために尽【つ】くしています。",
+    "meaning": "She devotes herself to her family."
+  },
+  {
+    "sentence": "彼はプロのバイオリニストです。",
+    "sentence_furigana": "彼【かれ】はプロのバイオリニストです。",
+    "meaning": "He is a professional violinist."
+  },
+  {
+    "sentence": "その家はとても趣があります。",
+    "sentence_furigana": "その家【いえ】はとても趣【おもむき】があります。",
+    "meaning": "That house has a lot of character."
+  },
+  {
+    "sentence": "彼女は家族旅行の計画を立てています。",
+    "sentence_furigana": "彼女【かのじょ】は家族旅行【かぞくりょこう】の計画【けいかく】を立【た】てています。",
+    "meaning": "She is planning a family trip."
+  },
+  {
+    "sentence": "彼はスポーツの専門家です。",
+    "sentence_furigana": "彼【かれ】はスポーツの専門家【せんもんか】です。",
+    "meaning": "He is an expert in sports."
+  },
+  {
+    "sentence": "家族は人生で最も大切なものです。",
+    "sentence_furigana": "家族【かぞく】は人生【じんせい】で最も大切【もっともたいせつ】なものです。",
+    "meaning": "Family is the most important thing in life."
+  },
+  {
+    "sentence": "彼女は有名なヴァイオリニストです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】なヴァイオリニストです。",
+    "meaning": "She is a famous violinist."
+  },
+  {
+    "sentence": "この家はリフォームが必要です。",
+    "sentence_furigana": "この家【いえ】はリフォームが必要【ひつよう】です。",
+    "meaning": "This house needs renovation."
+  },
+  {
+    "sentence": "彼は一流のプロデューサーです。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】のプロデューサーです。",
+    "meaning": "He is a top-class producer."
+  },
+  {
+    "sentence": "私の家は静かな住宅街にあります。",
+    "sentence_furigana": "私【わたし】の家【いえ】は静【しず】かな住宅街【じゅうたくがい】にあります。",
+    "meaning": "My house is in a quiet residential area."
+  },
+  {
+    "sentence": "彼女は家族を深く愛しています。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】を深【ふか】く愛【あい】しています。",
+    "meaning": "She loves her family deeply."
+  },
+  {
+    "sentence": "彼は音楽界の専門家です。",
+    "sentence_furigana": "彼【かれ】は音楽界【おんがくかい】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in the music industry."
+  },
+  {
+    "sentence": "この家は快適な生活を送るのに最適です。",
+    "sentence_furigana": "この家【いえ】は快適【かいてき】な生活【せいかつ】を送【おく】るのに最適【さいてき】です。",
+    "meaning": "This house is ideal for a comfortable life."
+  },
+  {
+    "sentence": "彼女は世界的に有名なピアニストです。",
+    "sentence_furigana": "彼女【かのじょ】は世界的【せかいてき】に有名【ゆうめい】なピアニストです。",
+    "meaning": "She is a world-famous pianist."
+  },
+  {
+    "sentence": "彼はビジネスの専門家です。",
+    "sentence_furigana": "彼【かれ】はビジネスの専門家【せんもんか】です。",
+    "meaning": "He is a business expert."
+  },
+  {
+    "sentence": "家族との時間は何物にも代えがたい。",
+    "sentence_furigana": "家族【かぞく】との時間【じかん】は何物【なにもの】にも代【か】えがたい。",
+    "meaning": "Time with family is invaluable."
+  },
+  {
+    "sentence": "彼女は有名なヴァイオリニストです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】なヴァイオリニストです。",
+    "meaning": "She is a famous violinist."
+  },
+  {
+    "sentence": "家賃が値上がりしました。",
+    "sentence_furigana": "家賃【やちん】が値上【ねあ】がりしました。",
+    "meaning": "The rent has increased."
+  },
+  {
+    "sentence": "彼は料理の専門家です。",
+    "sentence_furigana": "彼【かれ】は料理【りょうり】の専門家【せんもんか】です。",
+    "meaning": "He is a culinary expert."
+  },
+  {
+    "sentence": "この家はとても広々としています。",
+    "sentence_furigana": "この家【いえ】はとても広々【ひろびろ】としています。",
+    "meaning": "This house is very spacious."
+  },
+  {
+    "sentence": "彼女は家族で旅行に行く計画を立てています。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】で旅行【りょこう】に行【い】く計画【けいかく】を立【た】てています。",
+    "meaning": "She is planning a family trip."
+  },
+  {
+    "sentence": "彼は著名な数学者です。",
+    "sentence_furigana": "彼【かれ】は著名【ちょめい】な数学者【すうがくしゃ】です。",
+    "meaning": "He is a renowned mathematician."
+  },
+  {
+    "sentence": "家を建てるのは大変な仕事です。",
+    "sentence_furigana": "家【いえ】を建【た】てるのは大変【たいへん】な仕事【しごと】です。",
+    "meaning": "Building a house is hard work."
+  },
+  {
+    "sentence": "彼女はプロのバレリーナです。",
+    "sentence_furigana": "彼女【かのじょ】はプロのバレリーナです。",
+    "meaning": "She is a professional ballerina."
+  },
+  {
+    "sentence": "彼は家族のために素晴らしい家を建てました。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】のために素晴【すば】らしい家【いえ】を建【た】てました。",
+    "meaning": "He built a wonderful house for his family."
+  },
+  {
+    "sentence": "その家は静かで落ち着いた雰囲気です。",
+    "sentence_furigana": "その家【いえ】は静【しず】かで落【お】ち着【つ】いた雰囲気【ふんいき】です。",
+    "meaning": "That house has a quiet and calm atmosphere."
+  },
+  {
+    "sentence": "彼女は著名な作家です。",
+    "sentence_furigana": "彼女【かのじょ】は著名【ちょめい】な作家【さっか】です。",
+    "meaning": "She is a renowned writer."
+  },
+  {
+    "sentence": "彼はIT分野の専門家です。",
+    "sentence_furigana": "彼【かれ】はIT分野【ぶんや】の専門家【せんもんか】です。",
+    "meaning": "He is an IT expert."
+  },
+  {
+    "sentence": "家事は大変ですが、家族で協力しています。",
+    "sentence_furigana": "家事【かじ】は大変【たいへん】ですが、家族【かぞく】で協力【きょうりょく】しています。",
+    "meaning": "Household chores are difficult, but the family cooperates."
+  },
+  {
+    "sentence": "彼女は世界的に有名な演奏家です。",
+    "sentence_furigana": "彼女【かのじょ】は世界的【せかいてき】に有名【ゆうめい】な演奏家【えんそうか】です。",
+    "meaning": "She is a world-famous performer."
+  },
+  {
+    "sentence": "彼は作曲家として有名です。",
+    "sentence_furigana": "彼【かれ】は作曲家【さっきょくか】として有名【ゆうめい】です。",
+    "meaning": "He is famous as a composer."
+  },
+  {
+    "sentence": "この家は歴史的価値があります。",
+    "sentence_furigana": "この家【いえ】は歴史的価値【れきしてきかち】があります。",
+    "meaning": "This house has historical value."
+  }
+]

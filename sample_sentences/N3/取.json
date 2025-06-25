@@ -1,0 +1,577 @@
+[
+  {
+    "sentence": "彼は新しい仕事を取った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい仕事【しごと】を取【と】った。",
+    "meaning": "He took a new job."
+  },
+  {
+    "sentence": "この本を取ってください。",
+    "sentence_furigana": "この本【ほん】を取【と】ってください。",
+    "meaning": "Please fetch this book."
+  },
+  {
+    "sentence": "会議の議事録を取る。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】を取【と】る。",
+    "meaning": "Take the minutes of the meeting."
+  },
+  {
+    "sentence": "彼は記録を更新するために全力を尽くした。",
+    "sentence_furigana": "彼【かれ】は記録【きろく】を更新【こうしん】するために全【ぜん】力【りょく】を尽【つ】くした。",
+    "meaning": "He did his best to break the record."
+  },
+  {
+    "sentence": "その情報を受け取る。",
+    "sentence_furigana": "その情報【じょうほう】を受【う】け取【と】る。",
+    "meaning": "Receive that information."
+  },
+  {
+    "sentence": "彼は賞を取った。",
+    "sentence_furigana": "彼【かれ】は賞【しょう】を取【と】った。",
+    "meaning": "He won a prize."
+  },
+  {
+    "sentence": "この件について、あなたの意見を聞かせてください。",
+    "sentence_furigana": "この件【けん】について、あなたのご意見【いけん】を聞【き】かせてください。",
+    "meaning": "Please let me hear your opinion on this matter."
+  },
+  {
+    "sentence": "彼は彼女の手を取った。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の手【て】を取【と】った。",
+    "meaning": "He took her hand."
+  },
+  {
+    "sentence": "この資料を取ってきてください。",
+    "sentence_furigana": "この資料【しりょう】を取【と】ってきてください。",
+    "meaning": "Please go and get this material."
+  },
+  {
+    "sentence": "彼は写真を撮った。",
+    "sentence_furigana": "彼【かれ】は写真【しゃしん】を撮【と】った。",
+    "meaning": "He took a photograph."
+  },
+  {
+    "sentence": "会議の資料を取る必要がある。",
+    "sentence_furigana": "会議【かいぎ】の資料【しりょう】を取【と】る必要【ひつよう】がある。",
+    "meaning": "It is necessary to get the meeting materials."
+  },
+  {
+    "sentence": "彼女は健康を害した。",
+    "sentence_furigana": "彼女【かのじょ】は健康【けんこう】を害【がい】した。",
+    "meaning": "She injured her health."
+  },
+  {
+    "sentence": "彼は名誉ある賞を受賞した。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "He received an honorable award."
+  },
+  {
+    "sentence": "私はその本を借りた。",
+    "sentence_furigana": "私【わたし】はそのの本【ほん】を借【か】りた。",
+    "meaning": "I borrowed that book."
+  },
+  {
+    "sentence": "彼はチャンスを掴んだ。",
+    "sentence_furigana": "彼【かれ】はチャンスを掴【つか】んだ。",
+    "meaning": "He seized the opportunity."
+  },
+  {
+    "sentence": "この荷物を受け取ってください。",
+    "sentence_furigana": "この荷物【にもつ】を受【う】け取【と】ってください。",
+    "meaning": "Please receive this luggage."
+  },
+  {
+    "sentence": "彼は新しい趣味を始めた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい趣味【しゅみ】を始【はじ】めた。",
+    "meaning": "He took up a new hobby."
+  },
+  {
+    "sentence": "彼女は疲労を取るために休んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は疲労【ひろう】を取【と】るために休【やす】んでいる。",
+    "meaning": "She is resting to relieve fatigue."
+  },
+  {
+    "sentence": "誰がこの箱を取ったのですか。",
+    "sentence_furigana": "誰【だれ】がこの箱【はこ】を取【と】ったのですか。",
+    "meaning": "Who took this box?"
+  },
+  {
+    "sentence": "彼は記録を塗り替えた。",
+    "sentence_furigana": "彼【かれ】は記録【きろく】を塗【ぬ】り替【か】えた。",
+    "meaning": "He rewrote the record."
+  },
+  {
+    "sentence": "この絵を取ってください。",
+    "sentence_furigana": "この絵【え】を取【と】ってください。",
+    "meaning": "Please take this picture."
+  },
+  {
+    "sentence": "彼女はチャンスを逃さなかった。",
+    "sentence_furigana": "彼女【かのじょ】はチャンスを逃【のが】さなかった。",
+    "meaning": "She did not miss the opportunity."
+  },
+  {
+    "sentence": "彼は彼女からペンを取った。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】からペンを取【と】った。",
+    "meaning": "He took the pen from her."
+  },
+  {
+    "sentence": "私は彼の助けを取った。",
+    "sentence_furigana": "私【わたし】は彼【かれ】の助【たす】けを取【と】った。",
+    "meaning": "I took his help."
+  },
+  {
+    "sentence": "彼は多くの人から尊敬を集めた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】から尊敬【そんけい】を集【あつ】めた。",
+    "meaning": "He gained the respect of many people."
+  },
+  {
+    "sentence": "この書類を受け取る必要がありますか。",
+    "sentence_furigana": "この書類【しょるい】を受【う】け取【と】る必要【ひつよう】がありますか。",
+    "meaning": "Do I need to receive these documents?"
+  },
+  {
+    "sentence": "彼は新しい職を取った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい職【しょく】を取【と】った。",
+    "meaning": "He took a new position."
+  },
+  {
+    "sentence": "この荷物は私が取ります。",
+    "sentence_furigana": "この荷物【にもつ】は私【わたし】が取【と】ります。",
+    "meaning": "I will take this luggage."
+  },
+  {
+    "sentence": "彼は長い間苦労した。",
+    "sentence_furigana": "彼【かれ】は長【なが】い間【あいだ】苦労【くろう】した。",
+    "meaning": "He struggled for a long time."
+  },
+  {
+    "sentence": "彼女は健康を第一に考えている。",
+    "sentence_furigana": "彼女【かのじょ】は健康【けんこう】を第一【だいいち】に考【かんが】えている。",
+    "meaning": "She prioritizes her health."
+  },
+  {
+    "sentence": "彼は多くの知識を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】を得【え】た。",
+    "meaning": "He gained a lot of knowledge."
+  },
+  {
+    "sentence": "このタオルを取ってください。",
+    "sentence_furigana": "このタオルを取【と】ってください。",
+    "meaning": "Please fetch this towel."
+  },
+  {
+    "sentence": "彼はチームのリーダーを取った。",
+    "sentence_furigana": "彼【かれ】はチームのリーダーを取【と】った。",
+    "meaning": "He took the team's leadership."
+  },
+  {
+    "sentence": "彼女は多くの苦痛を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの苦痛【くつう】を受【う】けた。",
+    "meaning": "She endured a lot of pain."
+  },
+  {
+    "sentence": "彼は新しいスキルを習得した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいスキルを習得【しゅうとく】した。",
+    "meaning": "He acquired new skills."
+  },
+  {
+    "sentence": "この注文を受け取る。",
+    "sentence_furigana": "この注文【ちゅうもん】を受【う】け取【と】る。",
+    "meaning": "Receive this order."
+  },
+  {
+    "sentence": "彼は彼女の助けを借りた。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の助【たす】けを借【か】りた。",
+    "meaning": "He borrowed her help."
+  },
+  {
+    "sentence": "このカードを取ることができますか。",
+    "sentence_furigana": "このカードを取【と】ることができますか。",
+    "meaning": "Can you take this card?"
+  },
+  {
+    "sentence": "彼は病気を取り戻した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】を戻【もど】した。",
+    "meaning": "He got over his illness."
+  },
+  {
+    "sentence": "彼女は多くの称賛を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの称賛【しょうさん】を受【う】けた。",
+    "meaning": "She received much praise."
+  },
+  {
+    "sentence": "この書類を提出する必要がある。",
+    "sentence_furigana": "この書類【しょるい】を提出【ていしゅつ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to submit this document."
+  },
+  {
+    "sentence": "彼は私の傘を取った。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の傘【かさ】を取【と】った。",
+    "meaning": "He took my umbrella."
+  },
+  {
+    "sentence": "彼女は多くの経験を積んだ。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの経験【けいけん】を積【つ】んだ。",
+    "meaning": "She gained a lot of experience."
+  },
+  {
+    "sentence": "このチャンスを掴むべきだ。",
+    "sentence_furigana": "このチャンスを掴【つか】むべきだ。",
+    "meaning": "You should seize this chance."
+  },
+  {
+    "sentence": "彼は秘密を守った。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を守【まも】った。",
+    "meaning": "He kept a secret."
+  },
+  {
+    "sentence": "彼女は責任を取ることを誓った。",
+    "sentence_furigana": "彼女【かのじょ】は責任【せきにん】を取【と】ることを誓【ちか】った。",
+    "meaning": "She vowed to take responsibility."
+  },
+  {
+    "sentence": "彼はこの役職を得た。",
+    "sentence_furigana": "彼【かれ】はこの役職【やくしょく】を得【え】た。",
+    "meaning": "He obtained this position."
+  },
+  {
+    "sentence": "彼女は病気から回復した。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】から回復【かいふく】した。",
+    "meaning": "She recovered from her illness."
+  },
+  {
+    "sentence": "この問題を取り上げる。",
+    "sentence_furigana": "この問題【もんだい】を取【と】り上【あ】げる。",
+    "meaning": "Take up this issue."
+  },
+  {
+    "sentence": "彼は彼の持ち物を全て取った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の持【も】ち物【もの】を全【すべ】て取【と】った。",
+    "meaning": "He took all his belongings."
+  },
+  {
+    "sentence": "彼女は多くの賞賛を獲得した。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの賞賛【しょうさん】を獲得【かくとく】した。",
+    "meaning": "She gained much praise."
+  },
+  {
+    "sentence": "彼は私の助言を取った。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の助言【じょげん】を取【と】った。",
+    "meaning": "He took my advice."
+  },
+  {
+    "sentence": "このタオルをこちらへ取ってきてください。",
+    "sentence_furigana": "このタオルをこちらへ取【と】ってきてください。",
+    "meaning": "Please go and get this towel for me."
+  },
+  {
+    "sentence": "彼は彼女の許可を得た。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の許可【きょか】を得【え】た。",
+    "meaning": "He obtained her permission."
+  },
+  {
+    "sentence": "彼女は多くの人々から支持を得た。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人々【ひとびと】から支持【しじ】を得【え】た。",
+    "meaning": "She gained the support of many people."
+  },
+  {
+    "sentence": "彼は記録を保持している。",
+    "sentence_furigana": "彼【かれ】は記録【きろく】を保持【ほじ】している。",
+    "meaning": "He holds the record."
+  },
+  {
+    "sentence": "この件は私が引き受けます。",
+    "sentence_furigana": "この件【けん】は私【わたし】が引【ひ】き受【う】けます。",
+    "meaning": "I will take on this matter."
+  },
+  {
+    "sentence": "彼は彼女の意見を聞いた。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の意見【いけん】を聞【き】いた。",
+    "meaning": "He heard her opinion."
+  },
+  {
+    "sentence": "彼女は多くの批判を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの批判【ひはん】を受【う】けた。",
+    "meaning": "She received much criticism."
+  },
+  {
+    "sentence": "このカメラを取って写真を撮ろう。",
+    "sentence_furigana": "このカメラを取【と】って写真【しゃしん】を撮【と】ろう。",
+    "meaning": "Let's take this camera and take a picture."
+  },
+  {
+    "sentence": "彼は彼の全財産を取られた。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の全財産【ぜんざいさん】を取【と】られた。",
+    "meaning": "He was deprived of all his property."
+  },
+  {
+    "sentence": "彼女は仕事の機会を得た。",
+    "sentence_furigana": "彼女【かのじょ】は仕事【しごと】の機会【きかい】を得【え】た。",
+    "meaning": "She got a job opportunity."
+  },
+  {
+    "sentence": "彼はその賞を取るために努力した。",
+    "sentence_furigana": "彼【かれ】はそно賞【しょう】を取【と】るために努力【どりょく】した。",
+    "meaning": "He strove to win the prize."
+  },
+  {
+    "sentence": "彼女は多くの怪我をした。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの怪我【けが】をした。",
+    "meaning": "She suffered many injuries."
+  },
+  {
+    "sentence": "この本を取って私に渡してください。",
+    "sentence_furigana": "この本【ほん】を取【と】って私【わたし】に渡【わた】してください。",
+    "meaning": "Please take this book and hand it to me."
+  },
+  {
+    "sentence": "彼は会社の代表を取った。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の代表【だいひょう】を取【と】った。",
+    "meaning": "He took charge of the company."
+  },
+  {
+    "sentence": "彼女は多くの犠牲を払った。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの犠牲【ぎせい】を払【はら】った。",
+    "meaning": "She made many sacrifices."
+  },
+  {
+    "sentence": "彼はこの仕事を引き受けることを決めた。",
+    "sentence_furigana": "彼【かれ】はこの仕事【しごと】を引【ひ】き受【う】けることを決【き】めた。",
+    "meaning": "He decided to take on this job."
+  },
+  {
+    "sentence": "彼女は多くの借金を抱えた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの借金【しゃっきん】を抱【かか】えた。",
+    "meaning": "She incurred a lot of debt."
+  },
+  {
+    "sentence": "この荷物を受け取ってもいいですか。",
+    "sentence_furigana": "この荷物【にもつ】を受【う】け取【と】ってもいいですか。",
+    "meaning": "May I receive this luggage?"
+  },
+  {
+    "sentence": "彼は彼女の信頼を得た。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の信頼【しんらい】を得【え】た。",
+    "meaning": "He gained her trust."
+  },
+  {
+    "sentence": "彼女は多くの問題を抱えている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの問題【もんだい】を抱【かか】えている。",
+    "meaning": "She has many problems."
+  },
+  {
+    "sentence": "彼はこの分野で名声を得た。",
+    "sentence_furigana": "彼【かれ】はこно分野【ぶんや】で名声【めいせい】を得【え】た。",
+    "meaning": "He gained fame in this field."
+  },
+  {
+    "sentence": "彼女は彼女の健康を維持している。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の健康【けんこう】を維持【いじ】している。",
+    "meaning": "She maintains her health."
+  },
+  {
+    "sentence": "彼は彼の時間を無駄にした。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の時間【じかん】を無駄【むだ】にした。",
+    "meaning": "He wasted his time."
+  },
+  {
+    "sentence": "彼女は多くの学びを得た。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの学【まな】びを得【え】た。",
+    "meaning": "She gained much learning."
+  },
+  {
+    "sentence": "この車を取る。",
+    "sentence_furigana": "この車【くるま】を取【と】る。",
+    "meaning": "Take this car."
+  },
+  {
+    "sentence": "彼は彼の力を最大限に引き出した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の力【ちから】を最大限【さいだいげん】に引【ひ】き出【だ】した。",
+    "meaning": "He brought out his full potential."
+  },
+  {
+    "sentence": "彼女は多くの新しい友達を作った。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの新【あたら】しい友達【ともだち】を作【つく】った。",
+    "meaning": "She made many new friends."
+  },
+  {
+    "sentence": "彼は私のバッグを取った。",
+    "sentence_furigana": "彼【かれ】は私【わたし】のバッグを取【と】った。",
+    "meaning": "He took my bag."
+  },
+  {
+    "sentence": "彼女は彼女の夢を追った。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の夢【ゆめ】を追【お】った。",
+    "meaning": "She pursued her dream."
+  },
+  {
+    "sentence": "彼はこの仕事で成功した。",
+    "sentence_furigana": "彼【かれ】はこно仕事【しごと】で成功【せいこう】した。",
+    "meaning": "He succeeded in this job."
+  },
+  {
+    "sentence": "彼女は多くの貴重な経験を積んだ。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの貴重【きちょう】な経験【けいけん】を積【つ】んだ。",
+    "meaning": "She gained much valuable experience."
+  },
+  {
+    "sentence": "このペンを取って。",
+    "sentence_furigana": "このペンを取【と】って。",
+    "meaning": "Take this pen."
+  },
+  {
+    "sentence": "彼は新しい会社を設立した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい会社【かいしゃ】を設立【せつりつ】した。",
+    "meaning": "He established a new company."
+  },
+  {
+    "sentence": "彼女は多くの人に影響を与えた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人【ひと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "She influenced many people."
+  },
+  {
+    "sentence": "彼はこの記録を保持している。",
+    "sentence_furigana": "彼【かれ】はこно記録【きろく】を保持【ほじ】している。",
+    "meaning": "He holds this record."
+  },
+  {
+    "sentence": "彼女は彼女の健康を改善した。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の健康【けんこう】を改善【かいぜん】した。",
+    "meaning": "She improved her health."
+  },
+  {
+    "sentence": "彼はこのチャンスを逃さなかった。",
+    "sentence_furigana": "彼【かれ】はこноチャンスを逃【のが】さなかった。",
+    "meaning": "He did not miss this chance."
+  },
+  {
+    "sentence": "彼女は彼女の目標を達成した。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "She achieved her goal."
+  },
+  {
+    "sentence": "彼は彼の手を取った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の手【て】を取【と】った。",
+    "meaning": "He took his hand."
+  },
+  {
+    "sentence": "彼女は多くの困難を乗り越えた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの困難【こんなん】を乗【の】り越【こ】えた。",
+    "meaning": "She overcame many difficulties."
+  },
+  {
+    "sentence": "彼は彼の全てを取った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の全【すべ】てを取【と】った。",
+    "meaning": "He took all of his."
+  },
+  {
+    "sentence": "彼女は彼女の力を発揮した。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の力【ちから】を発揮【はっき】した。",
+    "meaning": "She demonstrated her ability."
+  },
+  {
+    "sentence": "彼は彼の才能を取り出した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の才能【さいのう】を取【と】り出【だ】した。",
+    "meaning": "He brought out his talent."
+  },
+  {
+    "sentence": "彼女は彼女の人生を取った。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の人生【じんせい】を取【と】った。",
+    "meaning": "She took her life."
+  },
+  {
+    "sentence": "彼は彼の仕事に集中した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の仕事【しごと】に集中【しゅうちゅう】した。",
+    "meaning": "He focused on his work."
+  },
+  {
+    "sentence": "彼女は彼女の決断を下した。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の決断【けつだん】を下【くだ】した。",
+    "meaning": "She made her decision."
+  },
+  {
+    "sentence": "彼は彼の努力で成功した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の努力【どりょく】で成功【せいこう】した。",
+    "meaning": "He succeeded through his efforts."
+  },
+  {
+    "sentence": "彼女は彼女の意見を述べた。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の意見【いけん】を述【の】べた。",
+    "meaning": "She stated her opinion."
+  },
+  {
+    "sentence": "彼は彼の時間を有効に使った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の時間【じかん】を有効【ゆうこう】に使【つか】った。",
+    "meaning": "He used his time effectively."
+  },
+  {
+    "sentence": "彼女は彼女の場所を取った。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の場所【ばしょ】を取【と】った。",
+    "meaning": "She took her place."
+  },
+  {
+    "sentence": "彼は彼の義務を果たした。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の義務【ぎむ】を果【は】たした。",
+    "meaning": "He fulfilled his duty."
+  },
+  {
+    "sentence": "彼女は彼女の約束を守った。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の約束【やくそく】を守【まも】った。",
+    "meaning": "She kept her promise."
+  },
+  {
+    "sentence": "彼は彼の権利を主張した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の権利【けんり】を主張【しゅちょう】した。",
+    "meaning": "He asserted his rights."
+  },
+  {
+    "sentence": "彼女は彼女の計画を実行した。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の計画【けいかく】を実行【じっこう】した。",
+    "meaning": "She executed her plan."
+  },
+  {
+    "sentence": "彼は彼の言葉を信じた。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の言葉【ことば】を信【しん】じた。",
+    "meaning": "He believed his words."
+  },
+  {
+    "sentence": "彼女は彼女の道を切り開いた。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の道【みち】を切【き】り開【ひら】いた。",
+    "meaning": "She forged her own path."
+  },
+  {
+    "sentence": "彼は彼の経験から学んだ。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の経験【けいけん】から学【まな】んだ。",
+    "meaning": "He learned from his experience."
+  },
+  {
+    "sentence": "彼女は彼女の役割を果たした。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の役割【やくわり】を果た【は】たした。",
+    "meaning": "She played her part."
+  },
+  {
+    "sentence": "彼は彼の仕事を取った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の仕事【しごと】を取【と】った。",
+    "meaning": "He took his job."
+  },
+  {
+    "sentence": "彼女は彼女の人生を豊かにした。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の人生【じんせい】を豊【ゆた】かにした。",
+    "meaning": "She enriched her life."
+  },
+  {
+    "sentence": "彼は彼の記録を保持した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の記録【きろく】を保持【ほじ】した。",
+    "meaning": "He maintained his record."
+  },
+  {
+    "sentence": "彼女は彼女の地位を確保した。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の地位【ちい】を確保【かくほ】した。",
+    "meaning": "She secured her position."
+  },
+  {
+    "sentence": "彼は彼の言葉を取り戻した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の言葉【ことば】を取【と】り戻【もど】した。",
+    "meaning": "He took back his words."
+  }
+]

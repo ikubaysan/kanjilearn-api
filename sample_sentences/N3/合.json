@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "この服はあなたに合っていますね。",
+    "sentence_furigana": "この服【ふく】はあなたに合【あ】っていますね。",
+    "meaning": "These clothes suit you well."
+  },
+  {
+    "sentence": "会議の時間は午後２時に合わせましょう。",
+    "sentence_furigana": "会議【かいぎ】の時間【じかん】は午後【ごご】２時【じ】に合【あ】わせましょう。",
+    "meaning": "Let's set the meeting time for 2 PM."
+  },
+  {
+    "sentence": "二人はうまく協力し合った。",
+    "sentence_furigana": "二人【ふたり】はうまく協力【きょうりょく】し合【あ】った。",
+    "meaning": "The two cooperated well together."
+  },
+  {
+    "sentence": "彼は私の意見に合意した。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の意見【いけん】に合意【ごうい】した。",
+    "meaning": "He agreed with my opinion."
+  },
+  {
+    "sentence": "この鍵はどのドアにも合わない。",
+    "sentence_furigana": "この鍵【かぎ】はどのドアにも合【あ】わない。",
+    "meaning": "This key doesn't fit any door."
+  },
+  {
+    "sentence": "彼は学校に間に合うように急いだ。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】に間【ま】に合【あ】うように急【いそ】いだ。",
+    "meaning": "He hurried to make it to school on time."
+  },
+  {
+    "sentence": "これらの部品は互いにぴったり合う。",
+    "sentence_furigana": "これら【これら】の部品【ぶひん】は互【たが】いにぴったり合【あ】う。",
+    "meaning": "These parts fit together perfectly."
+  },
+  {
+    "sentence": "歌声が一つに合わさった。",
+    "sentence_furigana": "歌声【うたごえ】が一つに合【あ】わさった。",
+    "meaning": "The singing voices blended into one."
+  },
+  {
+    "sentence": "彼は約束の時間にいつも合う。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】の時間【じかん】にいつも合【あ】う。",
+    "meaning": "He always arrives on time for appointments."
+  },
+  {
+    "sentence": "この組み合わせは私に合う。",
+    "sentence_furigana": "この組【く】み合【あ】わせは私【わたし】に合【あ】う。",
+    "meaning": "This combination suits me."
+  },
+  {
+    "sentence": "合計金額はいくらですか？",
+    "sentence_furigana": "合計【ごうけい】金額【きんがく】はいくらですか？",
+    "meaning": "What is the total amount?"
+  },
+  {
+    "sentence": "彼は両手を合わせて拝んだ。",
+    "sentence_furigana": "彼【かれ】は両手【りょうて】を合【あ】わせて拝【おが】んだ。",
+    "meaning": "He clasped his hands together and prayed."
+  },
+  {
+    "sentence": "彼の話は私の経験と合致した。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は私【わたし】の経験【けいけん】と合致【がっち】した。",
+    "meaning": "His story matched my experience."
+  },
+  {
+    "sentence": "このデザインは時代に合っている。",
+    "sentence_furigana": "このデザイン【デザイン】は時代【じだい】に合【あ】っている。",
+    "meaning": "This design is in keeping with the times."
+  },
+  {
+    "sentence": "彼は自分の意見を合わせた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を合【あ】わせた。",
+    "meaning": "He adjusted his opinion."
+  },
+  {
+    "sentence": "二つの生地を合わせて縫った。",
+    "sentence_furigana": "二【ふた】つの生地【きじ】を合【あ】わせて縫【ぬ】った。",
+    "meaning": "I sewed the two pieces of fabric together."
+  },
+  {
+    "sentence": "彼の説明は矛盾なく合っていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は矛盾【むじゅん】なく合【あ】っていた。",
+    "meaning": "His explanation was consistent and accurate."
+  },
+  {
+    "sentence": "この薬は私の体に合うだろうか。",
+    "sentence_furigana": "この薬【くすり】は私【わたし】の体【からだ】に合【あ】うだろうか。",
+    "meaning": "Will this medicine suit my body?"
+  },
+  {
+    "sentence": "彼は協調性に富んでいる。",
+    "sentence_furigana": "彼【かれ】は協調性【きょうちょうせい】に富【と】んでいる。",
+    "meaning": "He is highly cooperative."
+  },
+  {
+    "sentence": "合唱団の歌声がホールに響いた。",
+    "sentence_furigana": "合唱【がっしょう】団【だん】の歌声【うたごえ】がホール【ホール】に響【ひび】いた。",
+    "meaning": "The choir's singing echoed through the hall."
+  },
+  {
+    "sentence": "この色は、あの壁の色とよく合う。",
+    "sentence_furigana": "この色【いろ】は、あの壁【かべ】の色【いろ】とよく合【あ】う。",
+    "meaning": "This color matches the color of that wall well."
+  },
+  {
+    "sentence": "彼は皆の意見を一つにまとめた。",
+    "sentence_furigana": "彼【かれ】は皆【みな】の意見【いけん】を一つにまとめた。",
+    "meaning": "He unified everyone's opinions."
+  },
+  {
+    "sentence": "この計画は我々の目標に合致している。",
+    "sentence_furigana": "この計画【けいかく】は我々【われわれ】の目標【もくひょう】に合致【がっち】している。",
+    "meaning": "This plan aligns with our goals."
+  },
+  {
+    "sentence": "合図に合わせて手を上げた。",
+    "sentence_furigana": "合図【あいず】に合【あ】わせて手【て】を上【あ】げた。",
+    "meaning": "I raised my hand in response to the signal."
+  },
+  {
+    "sentence": "合鍵をもう一つ作ってもらった。",
+    "sentence_furigana": "合鍵【あいかぎ】をもう一つ【ひとつ】作【つく】ってもらった。",
+    "meaning": "I had another spare key made."
+  },
+  {
+    "sentence": "この靴は私の足にぴったり合う。",
+    "sentence_furigana": "この靴【くつ】は私【わたし】の足【あし】にぴったり合【あ】う。",
+    "meaning": "These shoes fit my feet perfectly."
+  },
+  {
+    "sentence": "彼は上司の指示に従った。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】の指示【しじ】に従【したが】った。",
+    "meaning": "He followed his superior's instructions."
+  },
+  {
+    "sentence": "合体して一つの力を合わせた。",
+    "sentence_furigana": "合体【がったい】して一つ【ひとつ】の力【ちから】を合【あ】わせた。",
+    "meaning": "They combined to form one united force."
+  },
+  {
+    "sentence": "このレシピは私に合うようにアレンジした。",
+    "sentence_furigana": "このレシピ【レシピ】は私【わたし】に合【あ】うようにアレンジ【アレンジ】した。",
+    "meaning": "I adapted this recipe to suit me."
+  },
+  {
+    "sentence": "彼女は音楽の才能に恵まれている。",
+    "sentence_furigana": "彼女【かのじょ】は音楽【おんがく】の才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "She is blessed with musical talent."
+  },
+  {
+    "sentence": "合間を見て、少し休憩しよう。",
+    "sentence_furigana": "合間【あいま】を見【み】て、少【すこ】し休憩【きゅうけい】しよう。",
+    "meaning": "Let's take a short break when we have a moment."
+  },
+  {
+    "sentence": "彼は多くの人と合流した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】と合流【ごうりゅう】した。",
+    "meaning": "He joined up with many people."
+  },
+  {
+    "sentence": "この生地は洗濯しても縮まない。",
+    "sentence_furigana": "この生地【きじ】は洗濯【せんたく】しても縮【ちぢ】まない。",
+    "meaning": "This fabric does not shrink when washed."
+  },
+  {
+    "sentence": "合意に至るまでには時間がかかった。",
+    "sentence_furigana": "合意【ごうい】に至【いた】るまでには時間【じかん】がかかった。",
+    "meaning": "It took time to reach an agreement."
+  },
+  {
+    "sentence": "この商品は人気があり、すぐに売り切れた。",
+    "sentence_furigana": "この商品【しょうひん】は人気【にんき】があり、すぐ【すぐ】に売【う】り切【き】れた。",
+    "meaning": "This product was popular and sold out quickly."
+  },
+  {
+    "sentence": "合唱コンクールに向けて練習しています。",
+    "sentence_furigana": "合唱【がっしょう】コンクール【コンクール】に向【む】けて練習【れんしゅう】しています。",
+    "meaning": "We are practicing for the chorus competition."
+  },
+  {
+    "sentence": "彼の言葉遣いは非常に丁寧だ。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは非常【ひじょう】に丁寧【ていねい】だ。",
+    "meaning": "His way of speaking is very polite."
+  },
+  {
+    "sentence": "この組み合わせは味のバランスが良い。",
+    "sentence_furigana": "この組【く】み合【あ】わせは味【あじ】のバランス【バランス】が良【よ】い。",
+    "meaning": "This combination has a good balance of flavors."
+  },
+  {
+    "sentence": "彼は状況に合わせて自分の行動を変えた。",
+    "sentence_furigana": "彼【かれ】は状況【じょうきょう】に合わせて【あわせて】自分【じぶん】の行動【こうどう】を変【か】えた。",
+    "meaning": "He adapted his actions to the situation."
+  },
+  {
+    "sentence": "合唱は心を一つにする。",
+    "sentence_furigana": "合唱【がっしょう】は心【こころ】を一つにする。",
+    "meaning": "Choral singing unites hearts."
+  },
+  {
+    "sentence": "この道具は作業を効率化するのに合う。",
+    "sentence_furigana": "この道具【どうぐ】は作業【さぎょう】を効率化【こうりつか】するのに合【あ】う。",
+    "meaning": "This tool is suitable for improving work efficiency."
+  },
+  {
+    "sentence": "合間を見つけて勉強を続けた。",
+    "sentence_furigana": "合間【あいま】を見【み】つけて勉強【べんきょう】を続【つづ】けた。",
+    "meaning": "I continued studying whenever I found time."
+  },
+  {
+    "sentence": "彼らは共通の趣味で合意した。",
+    "sentence_furigana": "彼ら【かれら】は共通【きょうつう】の趣味【しゅみ】で合意【ごうい】した。",
+    "meaning": "They agreed on a common hobby."
+  },
+  {
+    "sentence": "このドレスは彼女の雰囲気に合っている。",
+    "sentence_furigana": "このドレス【ドレス】は彼女【かのじょ】の雰囲気【ふんいき】に合【あ】っている。",
+    "meaning": "This dress suits her atmosphere."
+  },
+  {
+    "sentence": "合計でいくらになりますか？",
+    "sentence_furigana": "合計【ごうけい】でいくらになりますか？",
+    "meaning": "How much will it be in total?"
+  },
+  {
+    "sentence": "彼は合気道の達人だ。",
+    "sentence_furigana": "彼【かれ】は合気道【あいぎどう】の達人【たつじん】だ。",
+    "meaning": "He is a master of Aikido."
+  },
+  {
+    "sentence": "二人の意見が一致した。",
+    "sentence_furigana": "二人【ふたり】の意見【いけん】が一致【いっち】した。",
+    "meaning": "The two people's opinions matched."
+  },
+  {
+    "sentence": "合間を見て、少し休んでください。",
+    "sentence_furigana": "合間【あいま】を見【み】て、少【すこ】し休【やす】んでください。",
+    "meaning": "Please rest a bit when you have a moment."
+  },
+  {
+    "sentence": "この薬は効果があるようだ。",
+    "sentence_furigana": "この薬【くすり】は効果【こうか】があるようだ。",
+    "meaning": "This medicine seems to be effective."
+  },
+  {
+    "sentence": "合図で一斉に走り出した。",
+    "sentence_furigana": "合図【あいず】で一斉【いっせい】に走【はし】り出【だ】した。",
+    "meaning": "They all started running at the signal."
+  },
+  {
+    "sentence": "彼は状況に応じて対応を変えた。",
+    "sentence_furigana": "彼【かれ】は状況【じょうきょう】に応じて【おうじて】対応【たいおう】を変【か】えた。",
+    "meaning": "He changed his response according to the situation."
+  },
+  {
+    "sentence": "合鍵は便利だが、管理には注意が必要だ。",
+    "sentence_furigana": "合鍵【あいかぎ】は便利【べんり】だが、管理【かんり】には注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Spare keys are convenient, but care is needed in their management."
+  },
+  {
+    "sentence": "この服のデザインは私にぴったり合う。",
+    "sentence_furigana": "この服【ふく】のデザイン【デザイン】は私【わたし】にぴったり合【あ】う。",
+    "meaning": "The design of this clothing suits me perfectly."
+  },
+  {
+    "sentence": "合算するとかなりの金額になる。",
+    "sentence_furigana": "合算【がっさん】するとかなりの金額【きんがく】になる。",
+    "meaning": "Adding them up results in a considerable amount."
+  },
+  {
+    "sentence": "彼らは協力して計画を成功させた。",
+    "sentence_furigana": "彼ら【かれら】は協力【きょうりょく】して計画【けいかく】を成功【せいこう】させた。",
+    "meaning": "They cooperated to make the plan a success."
+  },
+  {
+    "sentence": "この色は私の肌の色に合う。",
+    "sentence_furigana": "この色【いろ】は私【わたし】の肌【はだ】の色【いろ】に合【あ】う。",
+    "meaning": "This color suits my skin tone."
+  },
+  {
+    "sentence": "合唱部は全国大会に出場する。",
+    "sentence_furigana": "合唱【がっしょう】部【ぶ】は全国【ぜんこく】大会【たいかい】に出場【しゅつじょう】する。",
+    "meaning": "The chorus club will participate in the national competition."
+  },
+  {
+    "sentence": "彼は多くの人に受け入れられた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】に受【う】け入【い】れられた。",
+    "meaning": "He was accepted by many people."
+  },
+  {
+    "sentence": "合羽を着て雨の中を歩いた。",
+    "sentence_furigana": "合羽【かっぱ】を着【き】て雨【あめ】の中【なか】を歩【ある】いた。",
+    "meaning": "I walked in the rain wearing a raincoat."
+  },
+  {
+    "sentence": "合間にコーヒーを一杯飲んだ。",
+    "sentence_furigana": "合間【あいま】にコーヒー【コーヒー】を一杯【いっぱい】飲【の】んだ。",
+    "meaning": "I had a cup of coffee in between."
+  },
+  {
+    "sentence": "合唱祭で素晴らしい歌声を披露した。",
+    "sentence_furigana": "合唱【がっしょう】祭【さい】で素晴【すば】らしい歌声【うたごえ】を披露【ひろう】した。",
+    "meaning": "They presented wonderful singing voices at the chorus festival."
+  },
+  {
+    "sentence": "この計画は我々の状況に合っている。",
+    "sentence_furigana": "この計画【けいかく】は我々【われわれ】の状況【じょうきょう】に合【あ】っている。",
+    "meaning": "This plan is suitable for our situation."
+  },
+  {
+    "sentence": "合気道は相手の力を利用する武道だ。",
+    "sentence_furigana": "合気道【あいぎどう】は相手【あいて】の力【ちから】を利用【りよう】する武道【ぶどう】だ。",
+    "meaning": "Aikido is a martial art that uses the opponent's strength."
+  },
+  {
+    "sentence": "彼の発言は会議の趣旨に合わない。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は会議【かいぎ】の趣旨【しゅし】に合【あ】わない。",
+    "meaning": "His remarks do not fit the purpose of the meeting."
+  },
+  {
+    "sentence": "合図を聞いて、皆一斉に立ち上がった。",
+    "sentence_furigana": "合図【あいず】を聞【き】いて、皆【みな】一斉【いっせい】に立【た】ち上【あ】がった。",
+    "meaning": "Hearing the signal, everyone stood up at once."
+  },
+  {
+    "sentence": "合間に本を読んでいた。",
+    "sentence_furigana": "合間【あいま】に本【ほん】を読【よ】んでいた。",
+    "meaning": "I was reading a book in my spare time."
+  },
+  {
+    "sentence": "このシャツはジーンズに合う。",
+    "sentence_furigana": "このシャツ【シャツ】はジーンズ【ジーンズ】に合【あ】う。",
+    "meaning": "This shirt goes well with jeans."
+  },
+  {
+    "sentence": "合唱の練習は大変だが楽しい。",
+    "sentence_furigana": "合唱【がっしょう】の練習【れんしゅう】は大変【たいへん】だが楽【たの】しい。",
+    "meaning": "Practicing for chorus is hard but fun."
+  },
+  {
+    "sentence": "彼は状況に合わせて最適な方法を選んだ。",
+    "sentence_furigana": "彼【かれ】は状況【じょうきょう】に合わせて【あわせて】最適【さいてき】な方法【ほうほう】を選【えら】んだ。",
+    "meaning": "He chose the optimal method according to the situation."
+  },
+  {
+    "sentence": "合算して伝票を作成してください。",
+    "sentence_furigana": "合算【がっさん】して伝票【でんぴょう】を作成【さくせい】してください。",
+    "meaning": "Please create the invoice by summing them up."
+  },
+  {
+    "sentence": "この曲は私の好みに合う。",
+    "sentence_furigana": "この曲【きょく】は私【わたし】の好【この】みに合【あ】う。",
+    "meaning": "This song suits my taste."
+  },
+  {
+    "sentence": "合間を見て、掃除を済ませた。",
+    "sentence_furigana": "合間【あいま】を見【み】て、掃除【そうじ】を済【す】ませた。",
+    "meaning": "I finished cleaning when I had a moment."
+  },
+  {
+    "sentence": "彼は皆の意見を尊重した。",
+    "sentence_furigana": "彼【かれ】は皆【みな】の意見【いけん】を尊重【そんちょう】した。",
+    "meaning": "He respected everyone's opinion."
+  },
+  {
+    "sentence": "合計点で一位になった。",
+    "sentence_furigana": "合計【ごうけい】点【てん】で一位【いちい】になった。",
+    "meaning": "I became first place in total points."
+  },
+  {
+    "sentence": "この運動は健康維持に合う。",
+    "sentence_furigana": "この運動【うんどう】は健康維持【けんこういじ】に合【あ】う。",
+    "meaning": "This exercise is good for maintaining health."
+  },
+  {
+    "sentence": "彼は合間を見て家族に電話した。",
+    "sentence_furigana": "彼【かれ】は合間【あいま】を見【み】て家族【かぞく】に電話【でんわ】した。",
+    "meaning": "He called his family when he had a moment."
+  },
+  {
+    "sentence": "合唱の練習で声が枯れてしまった。",
+    "sentence_furigana": "合唱【がっしょう】の練習【れんしゅう】で声【こえ】が枯【か】れてしまった。",
+    "meaning": "My voice became hoarse from chorus practice."
+  },
+  {
+    "sentence": "この組み合わせは美味しい。",
+    "sentence_furigana": "この組【く】み合【あ】わせは美味【おい】しい。",
+    "meaning": "This combination is delicious."
+  },
+  {
+    "sentence": "合言葉を教えてください。",
+    "sentence_furigana": "合言葉【あいことば】を教【おし】えてください。",
+    "meaning": "Please tell me the password."
+  },
+  {
+    "sentence": "彼は新しい環境によく合う。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい環境【かんきょう】によく合【あ】う。",
+    "meaning": "He adapts well to new environments."
+  },
+  {
+    "sentence": "合計いくつになりますか？",
+    "sentence_furigana": "合計【ごうけい】いくつになりますか？",
+    "meaning": "What is the total number?"
+  },
+  {
+    "sentence": "合間を見つけて読書を楽しむ。",
+    "sentence_furigana": "合間【あいま】を見【み】つけて読書【どくしょ】を楽【たの】しむ。",
+    "meaning": "I enjoy reading in my spare time."
+  },
+  {
+    "sentence": "このスーツは彼によく似合う。",
+    "sentence_furigana": "このスーツ【スーツ】は彼【かれ】によく似【に】あう。",
+    "meaning": "This suit suits him well."
+  },
+  {
+    "sentence": "合意事項を確認しました。",
+    "sentence_furigana": "合意【ごうい】事項【じこう】を確認【かくにん】しました。",
+    "meaning": "We confirmed the agreed-upon matters."
+  },
+  {
+    "sentence": "合唱のハーモニーが美しい。",
+    "sentence_furigana": "合唱【がっしょう】のハーモニー【ハーモニー】が美【うつく】しい。",
+    "meaning": "The harmony of the chorus is beautiful."
+  },
+  {
+    "sentence": "彼は合鍵を渡した。",
+    "sentence_furigana": "彼【かれ】は合鍵【あいかぎ】を渡【わた】した。",
+    "meaning": "He handed over the spare key."
+  },
+  {
+    "sentence": "この組み合わせは栄養バランスが良い。",
+    "sentence_furigana": "この組【く】み合【あ】わせは栄養【えいよう】バランス【バランス】が良【よ】い。",
+    "meaning": "This combination has a good nutritional balance."
+  },
+  {
+    "sentence": "合間を見つけて運動する。",
+    "sentence_furigana": "合間【あいま】を見【み】つけて運動【うんどう】する。",
+    "meaning": "I exercise whenever I find time."
+  },
+  {
+    "sentence": "彼の意見は会議の結論と合致していた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は会議【かいぎ】の結論【けつろん】と合致【がっち】していた。",
+    "meaning": "His opinion was consistent with the conclusion of the meeting."
+  },
+  {
+    "sentence": "合羽がなければ、風邪をひいてしまうだろう。",
+    "sentence_furigana": "合羽【かっぱ】がなければ、風邪【かぜ】をひいてしまうだろう。",
+    "meaning": "Without a raincoat, I would probably catch a cold."
+  },
+  {
+    "sentence": "合唱部は毎年発表会を開いている。",
+    "sentence_furigana": "合唱【がっしょう】部【ぶ】は毎年【まいとし】発表会【はっぴょうかい】を開【ひら】いている。",
+    "meaning": "The chorus club holds an annual recital."
+  },
+  {
+    "sentence": "合鍵は紛失しないように注意してください。",
+    "sentence_furigana": "合鍵【あいかぎ】は紛失【ふんしつ】しないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to lose the spare key."
+  },
+  {
+    "sentence": "合間に好きな音楽を聴く。",
+    "sentence_furigana": "合間【あいま】に好【す】きな音楽【おんがく】を聴【き】く。",
+    "meaning": "I listen to my favorite music in my spare time."
+  },
+  {
+    "sentence": "合宿はチームの結束を強める。",
+    "sentence_furigana": "合宿【がっしゅく】はチーム【チーム】の結束【けっそく】を強【つよ】める。",
+    "meaning": "Training camps strengthen team unity."
+  },
+  {
+    "sentence": "彼の説明は私の疑問に合っていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は私【わたし】の疑問【ぎもん】に合【あ】っていた。",
+    "meaning": "His explanation addressed my doubts."
+  },
+  {
+    "sentence": "合唱パートを練習する。",
+    "sentence_furigana": "合唱【がっしょう】パート【パート】を練習【れんしゅう】する。",
+    "meaning": "Practice the chorus part."
+  },
+  {
+    "sentence": "この色は落ち着いた雰囲気に合う。",
+    "sentence_furigana": "この色【いろ】は落【お】ち着【つ】いた雰囲気【ふんいき】に合【あ】う。",
+    "meaning": "This color matches a calm atmosphere."
+  },
+  {
+    "sentence": "合間を見て、友人に連絡した。",
+    "sentence_furigana": "合間【あいま】を見【み】て、友人【ゆうじん】に連絡【れんらく】した。",
+    "meaning": "I contacted a friend when I had a moment."
+  }
+]

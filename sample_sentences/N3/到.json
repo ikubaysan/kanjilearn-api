@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "会議は午後３時に到着する予定です。",
+    "sentence_furigana": "会議【かいぎ】は午後【ごご】３時【じ】に到着【とうちゃく】する予定【よてい】です。",
+    "meaning": "The meeting is scheduled to arrive at 3 PM."
+  },
+  {
+    "sentence": "目的地に無事到着しました。",
+    "sentence_furigana": "目的地【もくてきち】に無事【ぶじ】到着【とうちゃく】しました。",
+    "meaning": "We safely arrived at our destination."
+  },
+  {
+    "sentence": "その知らせが届くまで、彼はひたすら待っていた。",
+    "sentence_furigana": "その知【し】らせが届【とど】くまで、彼【かれ】はひたすら待【ま】っていた。",
+    "meaning": "He waited patiently until the news arrived."
+  },
+  {
+    "sentence": "議論の結果、合意に至った。",
+    "sentence_furigana": "議論【ぎろん】の結果【けっか】、合意【ごうい】に至【いた】った。",
+    "meaning": "As a result of the discussion, we reached an agreement."
+  },
+  {
+    "sentence": "この計画は成功に至るだろう。",
+    "sentence_furigana": "この計画【けいかく】は成功【せいこう】に至【いた】るだろう。",
+    "meaning": "This plan will result in success."
+  },
+  {
+    "sentence": "目的を達成するために努力する。",
+    "sentence_furigana": "目的【もくてき】を達成【たっせい】するために努力【どりょく】する。",
+    "meaning": "I will strive to achieve my goal."
+  },
+  {
+    "sentence": "子供の成長はあっという間に進む。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】はあっという間【ま】に進【すす】む。",
+    "meaning": "A child's growth proceeds in the blink of an eye."
+  },
+  {
+    "sentence": "彼は新しい分野に挑戦し、ついに成功を収めた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい分野【ぶんや】に挑戦【ちょうせん】し、ついに成功【せいこう】を収【おさ】めた。",
+    "meaning": "He challenged a new field and finally achieved success."
+  },
+  {
+    "sentence": "長年の努力が実を結んだ。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が実【み】を結【むす】んだ。",
+    "meaning": "Years of hard work bore fruit."
+  },
+  {
+    "sentence": "この問題は解決に至るまで時間がかかった。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】に至【いた】るまで時間【じかん】がかかった。",
+    "meaning": "It took time for this problem to reach a resolution."
+  },
+  {
+    "sentence": "締め切りまであとわずかしかありません。",
+    "sentence_furigana": "締切【しめき】りまであとわずかしかありません。",
+    "meaning": "There is only a little time left until the deadline."
+  },
+  {
+    "sentence": "その知らせはすぐにこちらに届いた。",
+    "sentence_furigana": "その知【し】らせはすぐにこちらに届【とど】いた。",
+    "meaning": "The news reached here immediately."
+  },
+  {
+    "sentence": "彼はついに目標を達成した。",
+    "sentence_furigana": "彼【かれ】はついに目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He finally achieved his goal."
+  },
+  {
+    "sentence": "この道はどこに行き着くのだろうか。",
+    "sentence_furigana": "この道【みち】はどこに行【い】き着【つ】くのだろうか。",
+    "meaning": "Where does this road lead to?"
+  },
+  {
+    "sentence": "期日までに必ず提出してください。",
+    "sentence_furigana": "期日【きじつ】までに必【かなら】ず提出【ていしゅつ】してください。",
+    "meaning": "Please be sure to submit it by the due date."
+  },
+  {
+    "sentence": "彼の言葉は真実にたどり着いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】にたどり着【つ】いた。",
+    "meaning": "His words finally reached the truth."
+  },
+  {
+    "sentence": "試験の結果が判明した。",
+    "sentence_furigana": "試験【しけん】の結果【けっか】が判明【はんめい】した。",
+    "meaning": "The results of the exam were revealed."
+  },
+  {
+    "sentence": "彼女はついにプロの歌手になった。",
+    "sentence_furigana": "彼女【かのじょ】はついにプロの歌手【かしゅ】になった。",
+    "meaning": "She finally became a professional singer."
+  },
+  {
+    "sentence": "事故は予期せぬ事態に至った。",
+    "sentence_furigana": "事故【じこ】は予期【よき】せぬ事態【じたい】に至【いた】った。",
+    "meaning": "The accident led to an unexpected situation."
+  },
+  {
+    "sentence": "この列車は終着駅までノンストップです。",
+    "sentence_furigana": "この列車【れっしゃ】は終着駅【しゅうちゃくえき】までノンストップです。",
+    "meaning": "This train is non-stop to the final station."
+  },
+  {
+    "sentence": "数ヶ月の調査が実を結び、事件は解決した。",
+    "sentence_furigana": "数ヶ月【すうかげつ】の調査【ちょうさ】が実【み】を結【むす】び、事件【じけん】は解決【かいけつ】した。",
+    "meaning": "Months of investigation paid off, and the case was solved."
+  },
+  {
+    "sentence": "彼の理論は新たな発見に至った。",
+    "sentence_furigana": "彼【かれ】の理論【りろん】は新【あら】たな発見【はっけん】に至【いた】った。",
+    "meaning": "His theory led to a new discovery."
+  },
+  {
+    "sentence": "もうすぐ目的地に到着します。",
+    "sentence_furigana": "もうすぐ目的地【もくてきち】に到着【とうちゃく】します。",
+    "meaning": "We will arrive at our destination soon."
+  },
+  {
+    "sentence": "この情報が届くのを待っていた。",
+    "sentence_furigana": "この情報【じょうほう】が届【とど】くのを待【ま】っていた。",
+    "meaning": "I was waiting for this information to arrive."
+  },
+  {
+    "sentence": "彼はついにその境地に達した。",
+    "sentence_furigana": "彼【かれ】はついにその境地【きょうち】に達【たっ】した。",
+    "meaning": "He finally reached that state."
+  },
+  {
+    "sentence": "私たちの努力は、必ずや成功に至るでしょう。",
+    "sentence_furigana": "私【わたし】たちの努力【どりょく】は、必【かなら】ずや成功【せいこう】に至【いた】るでしょう。",
+    "meaning": "Our efforts will surely lead to success."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼は安堵した。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて、彼【かれ】は安堵【あんど】した。",
+    "meaning": "He was relieved to hear the news."
+  },
+  {
+    "sentence": "新しい技術の導入は、生産性の向上に繋がった。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】の導入【どうにゅう】は、生産性【せいさんせい】の向上【こうじょう】に繋【つな】がった。",
+    "meaning": "The introduction of new technology led to increased productivity."
+  },
+  {
+    "sentence": "今日の最終目的地は大阪です。",
+    "sentence_furigana": "今日【きょう】の最終目的地【さいしゅうもくてきち】は大阪【おおさか】です。",
+    "meaning": "Today's final destination is Osaka."
+  },
+  {
+    "sentence": "苦労の末、ついに成功を掴んだ。",
+    "sentence_furigana": "苦労【くろう】の末【すえ】、ついに成功【せいこう】を掴【つか】んだ。",
+    "meaning": "After hardship, he finally grasped success."
+  },
+  {
+    "sentence": "長い旅路の果てに、故郷に到着した。",
+    "sentence_furigana": "長【なが】い旅路【たびじ】の果【は】てに、故郷【こきょう】に到着【とうちゃく】した。",
+    "meaning": "At the end of a long journey, I arrived in my hometown."
+  },
+  {
+    "sentence": "この線路は終点まで行きます。",
+    "sentence_furigana": "この線路【せんろ】は終点【しゅうてん】まで行【い】きます。",
+    "meaning": "This track goes to the terminus."
+  },
+  {
+    "sentence": "彼の意見は会議の結論に達した。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は会議【かいぎ】の結論【けつろん】に達【たっ】した。",
+    "meaning": "His opinion reached the conclusion of the meeting."
+  },
+  {
+    "sentence": "未成年者は保護者の同意なしには到達できない。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】は保護者【ほごしゃ】の同意【どうい】なしには到達【とうたつ】できない。",
+    "meaning": "Minors cannot reach it without parental consent."
+  },
+  {
+    "sentence": "このメールは送信者に届きませんでした。",
+    "sentence_furigana": "このメールは送信者【そうしんしゃ】に届【とど】きませんでした。",
+    "meaning": "This email did not reach the sender."
+  },
+  {
+    "sentence": "彼は努力を重ね、ついに大記録を達成した。",
+    "sentence_furigana": "彼【かれ】は努力【どりょく】を重【かさ】ね、ついに大記録【だいきろく】を達成【たっせい】した。",
+    "meaning": "He accumulated effort and finally achieved a great record."
+  },
+  {
+    "sentence": "夜が明けるまで待ち続けた。",
+    "sentence_furigana": "夜【よる】が明【あ】けるまで待【ま】ち続【つづ】けた。",
+    "meaning": "I kept waiting until dawn."
+  },
+  {
+    "sentence": "その結果は残念なものだった。",
+    "sentence_furigana": "その結果【けっか】は残念【ざんねん】なものだった。",
+    "meaning": "The result was regrettable."
+  },
+  {
+    "sentence": "彼はその地位にまで昇り詰めた。",
+    "sentence_furigana": "彼【かれ】はその地位【ちい】にまで昇【のぼ】り詰【つ】めた。",
+    "meaning": "He rose to that position."
+  },
+  {
+    "sentence": "この件に関する最新の情報はまだ届いていません。",
+    "sentence_furigana": "この件【けん】に関【かん】する最新【さいしん】の情報【じょうほう】はまだ届【とど】いていません。",
+    "meaning": "The latest information regarding this matter has not yet arrived."
+  },
+  {
+    "sentence": "彼のスピーチは聴衆の心を打った。",
+    "sentence_furigana": "彼【かれ】のスピーチは聴衆【ちょうしゅう】の心【こころ】を打【う】った。",
+    "meaning": "His speech struck a chord with the audience."
+  },
+  {
+    "sentence": "この旅は多くの困難を伴ったが、最終的に目標を達成できた。",
+    "sentence_furigana": "この旅【たび】は多【おお】くの困難【こんなん】を伴【ともな】ったが、最終的【さいしゅうてき】に目標【もくひょう】を達成【たっせい】できた。",
+    "meaning": "This journey involved many difficulties, but ultimately I was able to achieve my goal."
+  },
+  {
+    "sentence": "情報は正確に届ける必要があります。",
+    "sentence_furigana": "情報【じょうほう】は正確【せいかく】に届【とど】ける必要【ひつよう】があります。",
+    "meaning": "Information must be delivered accurately."
+  },
+  {
+    "sentence": "ついにその時が来た。",
+    "sentence_furigana": "ついにその時【とき】が来【き】た。",
+    "meaning": "Finally, the time has come."
+  },
+  {
+    "sentence": "彼は最終的に成功への道を見出した。",
+    "sentence_furigana": "彼【かれ】は最終的【さいしゅうてき】に成功【せいこう】への道【みち】を見出【みいだ】した。",
+    "meaning": "He finally found the path to success."
+  },
+  {
+    "sentence": "この薬が効果を現すまで少し時間がかかります。",
+    "sentence_furigana": "この薬【くすり】が効果【こうか】を現【あらわ】すまで少【すこ】し時間【じかん】がかかります。",
+    "meaning": "It takes a little time for this medicine to show its effect."
+  },
+  {
+    "sentence": "夜遅くに訪問者が到着した。",
+    "sentence_furigana": "夜遅【よるおそ】くに訪問者【ほうもんしゃ】が到着【とうちゃく】した。",
+    "meaning": "A visitor arrived late at night."
+  },
+  {
+    "sentence": "その知らせはすぐ彼のもとに届いた。",
+    "sentence_furigana": "その知【し】らせはすぐ彼【かれ】のもとに届【とど】いた。",
+    "meaning": "The news quickly reached him."
+  },
+  {
+    "sentence": "彼は長年の夢を達成した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】を達成【たっせい】した。",
+    "meaning": "He achieved his long-cherished dream."
+  },
+  {
+    "sentence": "この研究は新たな段階に至った。",
+    "sentence_furigana": "この研究【けんきゅう】は新【あら】たな段階【だんかい】に至【いた】った。",
+    "meaning": "This research has reached a new stage."
+  },
+  {
+    "sentence": "彼らは目的地に無事到着した。",
+    "sentence_furigana": "彼【かれ】らはお目的地【もくてきち】に無事【ぶじ】到着【とうちゃく】した。",
+    "meaning": "They arrived safely at their destination."
+  },
+  {
+    "sentence": "この手紙があなたに届くことを願っています。",
+    "sentence_furigana": "この手紙【てがみ】があなたに届【とど】くことを願【ねが】っています。",
+    "meaning": "I hope this letter reaches you."
+  },
+  {
+    "sentence": "彼の努力はついに報われた。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】はついに報【むく】われた。",
+    "meaning": "His efforts were finally rewarded."
+  },
+  {
+    "sentence": "子供は成長するにつれて、親から離れていく。",
+    "sentence_furigana": "子供【こども】は成長【せいちょう】するにつれて、親【おや】から離【はな】れていく。",
+    "meaning": "As children grow, they move away from their parents."
+  },
+  {
+    "sentence": "この状況は非常に危険な結果に至る可能性があります。",
+    "sentence_furigana": "この状況【じょうきょう】は非常【ひじょう】に危険【きけん】な結果【けっか】に至【いた】る可能性【かのうせい】があります。",
+    "meaning": "This situation has the potential to lead to very dangerous results."
+  },
+  {
+    "sentence": "最終的に彼は真実を明らかにした。",
+    "sentence_furigana": "最終的【さいしゅうてき】に彼【かれ】は真実【しんじつ】を明【あき】らかにした。",
+    "meaning": "In the end, he revealed the truth."
+  },
+  {
+    "sentence": "その知らせが届くまで、心は落ち着かなかった。",
+    "sentence_furigana": "その知【し】らせが届【とど】くまで、心【こころ】は落【お】ち着【つ】かなかった。",
+    "meaning": "My mind was restless until the news arrived."
+  },
+  {
+    "sentence": "目標達成のために、日々努力を続けています。",
+    "sentence_furigana": "目標達成【もくひょうたっせい】のため、日々【ひび】努力【どりょく】を続【つづ】けています。",
+    "meaning": "I continue to strive daily to achieve my goals."
+  },
+  {
+    "sentence": "この物語は悲劇的な結末に至った。",
+    "sentence_furigana": "この物語【ものがたり】は悲劇的【ひげきてき】な結末【けつまつ】に至【いた】った。",
+    "meaning": "This story ended in a tragic conclusion."
+  },
+  {
+    "sentence": "彼はついに自分の限界を突破した。",
+    "sentence_furigana": "彼【かれ】はついに自分【じぶん】の限界【げんかい】を突破【とっぱ】した。",
+    "meaning": "He finally broke through his limits."
+  },
+  {
+    "sentence": "この電報が早く届くことを祈っています。",
+    "sentence_furigana": "この電報【でんほう】が早【はや】く届【とど】くことを祈【いの】っています。",
+    "meaning": "I pray that this telegram arrives soon."
+  },
+  {
+    "sentence": "彼女はついにその賞を獲得した。",
+    "sentence_furigana": "彼女【かのじょ】はついにその賞【しょう】を獲得【かくとく】した。",
+    "meaning": "She finally won the award."
+  },
+  {
+    "sentence": "この件は最終的な決定に至りました。",
+    "sentence_furigana": "この件【けん】は最終的【さいしゅうてき】な決定【けってい】に至【いた】りました。",
+    "meaning": "This matter has reached a final decision."
+  },
+  {
+    "sentence": "長時間のフライトの後、無事到着した。",
+    "sentence_furigana": "長時間【ちょうじかん】のフライトの後【あと】、無事【ぶじ】到着【とうちゃく】した。",
+    "meaning": "After a long flight, I arrived safely."
+  },
+  {
+    "sentence": "その報告書は明日までに届く予定です。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は明日【あす】までに届【とど】く予定【よてい】です。",
+    "meaning": "That report is due to arrive by tomorrow."
+  },
+  {
+    "sentence": "彼はついに探求の旅を終えた。",
+    "sentence_furigana": "彼【かれ】はついに探求【たんきゅう】の旅【たび】を終【お】えた。",
+    "meaning": "He finally finished his journey of exploration."
+  },
+  {
+    "sentence": "その行動は予期せぬ結果を招いた。",
+    "sentence_furigana": "その行動【こうどう】は予期【よき】せぬ結果【けっか】を招【まね】いた。",
+    "meaning": "That action brought about unexpected results."
+  },
+  {
+    "sentence": "目標に到達するためには、強い意志が必要だ。",
+    "sentence_furigana": "目標【もくひょう】に到達【とうたつ】するためには、強【つよ】い意志【いし】が必要【ひつよう】だ。",
+    "meaning": "To reach the goal, a strong will is necessary."
+  },
+  {
+    "sentence": "この列車は定刻通りに到着しました。",
+    "sentence_furigana": "この列車【れっしゃ】は定刻通【ていこくどお】り到着【とうちゃく】しました。",
+    "meaning": "This train arrived on schedule."
+  },
+  {
+    "sentence": "そのメッセージは無事に届いた。",
+    "sentence_furigana": "そのメッセージは無事【ぶじ】に届【とど】いた。",
+    "meaning": "The message arrived safely."
+  },
+  {
+    "sentence": "彼はついに王座に就いた。",
+    "sentence_furigana": "彼【かれ】はついに王座【おうざ】に就【つ】いた。",
+    "meaning": "He finally ascended the throne."
+  },
+  {
+    "sentence": "この議論は新たな段階に進んだ。",
+    "sentence_furigana": "この議論【ぎろん】は新【あら】たな段階【だんかい】に進【すす】んだ。",
+    "meaning": "This discussion has advanced to a new phase."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼はすぐに駆けつけた。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて、彼【かれ】はすぐにかけてつけた。",
+    "meaning": "Hearing the news, he rushed over immediately."
+  },
+  {
+    "sentence": "彼はついに偉業を成し遂げた。",
+    "sentence_furigana": "彼【かれ】はついに偉業【いぎょう】を成【な】し遂【と】げた。",
+    "meaning": "He finally accomplished a great deed."
+  },
+  {
+    "sentence": "この法律は国民生活の改善に繋がるだろう。",
+    "sentence_furigana": "この法律【ほうりつ】は国民生活【こくみんせいかつ】の改善【かいぜん】に繋【つな】がるだろう。",
+    "meaning": "This law will lead to improvements in the lives of the citizens."
+  },
+  {
+    "sentence": "目的地まであと少しです。",
+    "sentence_furigana": "目的地【もくてきち】まであと少【すこ】しです。",
+    "meaning": "It's just a little further to the destination."
+  },
+  {
+    "sentence": "彼らの長年の夢がついに実現した。",
+    "sentence_furigana": "彼【かれ】らの長年【ながねん】の夢【ゆめ】がついに実現【じつげん】した。",
+    "meaning": "Their long-cherished dream finally came true."
+  },
+  {
+    "sentence": "この結果は予想を遥かに超えた。",
+    "sentence_furigana": "この結果【けっか】は予想【よそう】を遥【はる】かに超【こ】えた。",
+    "meaning": "This result far exceeded expectations."
+  },
+  {
+    "sentence": "彼はついに自由を手に入れた。",
+    "sentence_furigana": "彼【かれ】はついに自由【じゆう】を手【て】に入【い】れた。",
+    "meaning": "He finally obtained freedom."
+  },
+  {
+    "sentence": "その知らせはすぐに本部に届いた。",
+    "sentence_furigana": "その知【し】らせはすぐ本部【ほんぶ】に届【とど】いた。",
+    "meaning": "The news quickly reached headquarters."
+  },
+  {
+    "sentence": "彼は努力の結果、昇進した。",
+    "sentence_furigana": "彼【かれ】は努力【どりょく】の結果【けっか】、昇進【しょうしん】した。",
+    "meaning": "He was promoted as a result of his efforts."
+  },
+  {
+    "sentence": "この困難な状況を乗り越える必要がある。",
+    "sentence_furigana": "この困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】える必要【ひつよう】がある。",
+    "meaning": "It is necessary to overcome this difficult situation."
+  },
+  {
+    "sentence": "彼はついに真実を突き止めた。",
+    "sentence_furigana": "彼【かれ】はついに真実【しんじつ】を突【つ】き止【と】めた。",
+    "meaning": "He finally ascertained the truth."
+  },
+  {
+    "sentence": "この会議は重要な結論に至るだろう。",
+    "sentence_furigana": "この会議【かいぎ】は重要【じゅうよう】な結論【けつろん】に至【いた】るだろう。",
+    "meaning": "This meeting will likely reach an important conclusion."
+  },
+  {
+    "sentence": "その情報は、私のもとに届きました。",
+    "sentence_furigana": "その情報【じょうほう】は、私【わたし】のもとに届【とど】きました。",
+    "meaning": "That information has reached me."
+  },
+  {
+    "sentence": "彼はついに理想郷にたどり着いた。",
+    "sentence_furigana": "彼【かれ】はついに理想郷【りそうきょう】にたどり着【つ】いた。",
+    "meaning": "He finally reached paradise."
+  },
+  {
+    "sentence": "その計画は大きな成功に至った。",
+    "sentence_furigana": "その計画【けいかく】は非常【ひじょう】な成功【せいこう】に至【いた】った。",
+    "meaning": "That plan led to great success."
+  },
+  {
+    "sentence": "彼はついに長年の研究を実らせた。",
+    "sentence_furigana": "彼【かれ】はついに長年【ながねん】の研究【けんきゅう】を実【み】らせた。",
+    "meaning": "He finally made his years of research fruitful."
+  },
+  {
+    "sentence": "この電車は終点まで行きます。",
+    "sentence_furigana": "この電車【でんしゃ】は終点【しゅうてん】まで行【い】きます。",
+    "meaning": "This train goes to the last stop."
+  },
+  {
+    "sentence": "長年の努力が実を結び、彼はついに成功を収めた。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が実【み】を結【むす】び、彼【かれ】はついに成功【せいこう】を収【おさ】めた。",
+    "meaning": "After years of effort, he finally achieved success."
+  },
+  {
+    "sentence": "その知らせはすぐに彼に届いた。",
+    "sentence_furigana": "その知【し】らせはすぐ彼【かれ】に届【とど】いた。",
+    "meaning": "The news reached him quickly."
+  },
+  {
+    "sentence": "彼は最終的にその目標を達成した。",
+    "sentence_furigana": "彼【かれ】は最終的【さいしゅうてき】にその目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He ultimately achieved that goal."
+  },
+  {
+    "sentence": "この旅はついに終わりを迎えた。",
+    "sentence_furigana": "この旅【たび】はついに終【お】わりを迎【むか】えた。",
+    "meaning": "This journey finally came to an end."
+  },
+  {
+    "sentence": "その結果、私たちは新たな道に進むことになった。",
+    "sentence_furigana": "その結果【けっか】、私【わたし】たちはいかなる新たな道【みち】に進【すす】むことになった。",
+    "meaning": "As a result, we decided to proceed on a new path."
+  },
+  {
+    "sentence": "彼の言葉はついに人々の心を動かした。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】はついに人々【ひとびと】の心【こころ】を動【うご】かした。",
+    "meaning": "His words finally moved people's hearts."
+  },
+  {
+    "sentence": "このプロジェクトは成功に到達するだろう。",
+    "sentence_furigana": "このプロジェクトは成功【せいこう】に到達【とうたつ】するだろう。",
+    "meaning": "This project will reach success."
+  },
+  {
+    "sentence": "彼はついに自分の弱さを克服した。",
+    "sentence_furigana": "彼【かれ】はついに自分【じぶん】の弱【よわ】さを克服【こくふく】した。",
+    "meaning": "He finally overcame his weakness."
+  },
+  {
+    "sentence": "その知らせは無事に届いた。",
+    "sentence_furigana": "その知【し】らせは無事【ぶじ】に届【とど】いた。",
+    "meaning": "The news arrived safely."
+  },
+  {
+    "sentence": "彼は最終的に名声を得た。",
+    "sentence_furigana": "彼【かれ】は最終的【さいしゅうてき】に名声【めいせい】を得【え】た。",
+    "meaning": "He eventually gained fame."
+  },
+  {
+    "sentence": "その知らせはすぐにこちらに届くはずです。",
+    "sentence_furigana": "その知【し】らせはすぐこちらに届【とど】くはずです。",
+    "meaning": "The news should arrive here soon."
+  },
+  {
+    "sentence": "彼はついに目標を達成し、満足した。",
+    "sentence_furigana": "彼【かれ】はついに目標【もくひょう】を達成【たっせい】し、満足【まんぞく】した。",
+    "meaning": "He finally achieved his goal and was satisfied."
+  },
+  {
+    "sentence": "この状況は早急な対応を必要とする。",
+    "sentence_furigana": "この状況【じょうきょう】は早急【そうきゅう】な対応【たいおう】を必要【ひつよう】とする。",
+    "meaning": "This situation requires prompt action."
+  },
+  {
+    "sentence": "彼は長年の努力の結果、ついに成功した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の努力【どりょく】の結果【けっか】、ついに成功【せいこう】した。",
+    "meaning": "As a result of his many years of effort, he finally succeeded."
+  }
+]

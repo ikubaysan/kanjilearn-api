@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "この薬は患部に浸して使います。",
+    "sentence_furigana": "この薬【くすり】は患部【かんぶ】に浸【ひた】して使【つか】います。",
+    "meaning": "This medicine is used by soaking it in the affected area."
+  },
+  {
+    "sentence": "紅茶をゆっくりと浸して飲むのが好きだ。",
+    "sentence_furigana": "紅茶【こうちゃ】をゆっくりと浸【ひた】して飲【の】むのが好【す】きだ。",
+    "meaning": "I like to steep black tea slowly and drink it."
+  },
+  {
+    "sentence": "彼は試験勉強で徹夜し、完全に疲労が浸していた。",
+    "sentence_furigana": "彼【かれ】は試験勉強【しけんべんきょう】で徹夜【てつや】し、完全【かんぜん】に疲労【ひろう】が浸【しん】していた。",
+    "meaning": "He pulled an all-nighter studying for the exam, and exhaustion had completely set in."
+  },
+  {
+    "sentence": "布を水に浸して絞った。",
+    "sentence_furigana": "布【ぬの】を水【みず】に浸【ひた】して絞【しぼ】った。",
+    "meaning": "I soaked the cloth in water and wrung it out."
+  },
+  {
+    "sentence": "彼女は温かいお湯に足を浸してリラックスした。",
+    "sentence_furigana": "彼女【かのじょ】は温【あたた】かいお湯【ゆ】に足【あし】を浸【ひた】してリラックスした。",
+    "meaning": "She relaxed by soaking her feet in warm water."
+  },
+  {
+    "sentence": "このパンはコーヒーに浸して食べると美味しい。",
+    "sentence_furigana": "このパンはコーヒーに浸【ひた】して食【た】べると美味【おい】しい。",
+    "meaning": "This bread is delicious when dipped in coffee."
+  },
+  {
+    "sentence": "地面に水が浸して、ぬかるんでいた。",
+    "sentence_furigana": "地面【じめん】に水【みず】が浸【しん】して、ぬかるんでいた。",
+    "meaning": "The ground was soaked with water and muddy."
+  },
+  {
+    "sentence": "彼は悲しみという感情に深く浸っていた。",
+    "sentence_furigana": "彼【かれ】は悲【かな】しみという感情【かんじょう】に深【ふか】く浸【ひた】っていた。",
+    "meaning": "He was deeply immersed in the emotion of sadness."
+  },
+  {
+    "sentence": "梅干しを塩水に浸してアク抜きをする。",
+    "sentence_furigana": "梅干【うめぼ】しを塩水【しおみず】に浸【ひた】してアク抜【ぬ】きをする。",
+    "meaning": "Soak the pickled plums in salt water to remove astringency."
+  },
+  {
+    "sentence": "この生地は液体に浸すと膨らむ。",
+    "sentence_furigana": "この生地【きじ】は液体【えきたい】に浸【ひた】すと膨【ふく】らむ。",
+    "meaning": "This dough swells when immersed in liquid."
+  },
+  {
+    "sentence": "庭の花壇に水が浸み込んでいた。",
+    "sentence_furigana": "庭【にわ】の花壇【かだん】に水【みず】が浸【しん】み込【こ】んでいた。",
+    "meaning": "Water had soaked into the flower bed in the garden."
+  },
+  {
+    "sentence": "彼は水中深く潜って、その世界に浸っていた。",
+    "sentence_furigana": "彼【かれ】は水中深【すいちゅうふか】く潜【も】ぐって、その世界【せかい】に浸【ひた】っていた。",
+    "meaning": "He dived deep underwater and was immersed in that world."
+  },
+  {
+    "sentence": "古い書物は湿気で墨が浸いていた。",
+    "sentence_furigana": "古【ふる】い書物【しょもつ】は湿気【しっけ】で墨【すみ】が浸【しん】していた。",
+    "meaning": "The ink had bled on the old books due to humidity."
+  },
+  {
+    "sentence": "朝露が草木に浸み込んでいた。",
+    "sentence_furigana": "朝露【あさつゆ】が草木【くさき】に浸【しん】み込【こ】んでいた。",
+    "meaning": "Morning dew had soaked into the plants."
+  },
+  {
+    "sentence": "カステラを牛乳に浸して食べるのが好き。",
+    "sentence_furigana": "カステラを牛乳【ぎゅうにゅう】に浸【ひた】して食【た】べるのが好【す】き。",
+    "meaning": "I like to eat Castella dipped in milk."
+  },
+  {
+    "sentence": "彼の目は悲しみで浸っていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は悲【かな】しみで浸【しん】していた。",
+    "meaning": "His eyes were steeped in sadness."
+  },
+  {
+    "sentence": "この料理はソースに浸して食べると絶品だ。",
+    "sentence_furigana": "この料理【りょうり】はソースに浸【ひた】して食【た】べると絶品【ぜっぴん】だ。",
+    "meaning": "This dish is exquisite when dipped in sauce."
+  },
+  {
+    "sentence": "彼はその芸術作品の世界観に浸っていた。",
+    "sentence_furigana": "彼【かれ】はそ【の】芸術作品【げいじゅつさくひん】の世界観【せかいかん】に浸【ひた】っていた。",
+    "meaning": "He was immersed in the worldview of the artwork."
+  },
+  {
+    "sentence": "洗濯物を洗剤液に浸して汚れを落とす。",
+    "sentence_furigana": "洗濯物【せんたくもの】を洗剤液【せんざいえき】に浸【ひた】して汚【よご】れを落【お】とす。",
+    "meaning": "Soak the laundry in detergent solution to remove dirt."
+  },
+  {
+    "sentence": "この布は染料に浸して色を付けた。",
+    "sentence_furigana": "この布【ぬの】は染料【せんりょう】に浸【ひた】して色【いろ】を付【つ】けた。",
+    "meaning": "This cloth was dyed by soaking it in dye."
+  },
+  {
+    "sentence": "雨水が土壌に深く浸透していた。",
+    "sentence_furigana": "雨水【あまみず】が土壌【どじょう】に深【ふか】く浸【しん】透【とお】していた。",
+    "meaning": "Rainwater had deeply permeated the soil."
+  },
+  {
+    "sentence": "彼は静寂の中で瞑想に浸っていた。",
+    "sentence_furigana": "彼【かれ】は静寂【せいじゃく】の中【なか】で瞑想【めいそう】に浸【ひた】っていた。",
+    "meaning": "He was immersed in meditation in the silence."
+  },
+  {
+    "sentence": "この小説は読者の心に深く浸透する。",
+    "sentence_furigana": "この小説【しょうせつ】は読者【どくしゃ】の心【こころ】に深【ふか】く浸【しん】透【とお】する。",
+    "meaning": "This novel deeply penetrates the reader's heart."
+  },
+  {
+    "sentence": "彼女は音楽の調べに浸っていた。",
+    "sentence_furigana": "彼女【かのじょ】は音楽【おんがく】の調【しら】べに浸【ひた】っていた。",
+    "meaning": "She was immersed in the melody of the music."
+  },
+  {
+    "sentence": "切り餅を熱湯に浸して柔らかくする。",
+    "sentence_furigana": "切【き】り餅【もち】を熱湯【ねっとう】に浸【ひた】して柔【やわ】らかくする。",
+    "meaning": "Soak the mochi pieces in hot water to soften them."
+  },
+  {
+    "sentence": "この海綿は水に浸すと重くなる。",
+    "sentence_furigana": "この海綿【かいめん】は水【みず】に浸【ひた】すと重【おも】くなる。",
+    "meaning": "This sponge becomes heavy when immersed in water."
+  },
+  {
+    "sentence": "彼は過去の思い出に浸っていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の思【おも】い出【で】に浸【ひた】っていた。",
+    "meaning": "He was dwelling on past memories."
+  },
+  {
+    "sentence": "茶葉を湯に浸して香りを楽しむ。",
+    "sentence_furigana": "茶葉【ちゃば】を湯【ゆ】に浸【ひた】して香【かお】りを楽【たの】しむ。",
+    "meaning": "Steep the tea leaves in hot water and enjoy the aroma."
+  },
+  {
+    "sentence": "この地面は雨でひどく浸水した。",
+    "sentence_furigana": "この地面【じめん】は雨【あめ】でひどく浸水【しんすい】した。",
+    "meaning": "This ground was badly flooded by the rain."
+  },
+  {
+    "sentence": "彼は悲劇の主人公に感情移入して浸っていた。",
+    "sentence_furigana": "彼【かれ】は悲劇【ひげき】の主人公【しゅじんこう】に感情移入【かんじょういにゅう】して浸【ひた】っていた。",
+    "meaning": "He empathized with the tragic hero and was immersed."
+  },
+  {
+    "sentence": "この革製品は水に浸すとシミになる。",
+    "sentence_furigana": "この革製品【かわせいひん】は水【みず】に浸【ひた】すとシミになる。",
+    "meaning": "This leather product will stain if immersed in water."
+  },
+  {
+    "sentence": "彼は物語の世界に深く浸っていた。",
+    "sentence_furigana": "彼【かれ】は物語【ものがたり】の世界【せかい】に深【ふか】く浸【ひた】っていた。",
+    "meaning": "He was deeply immersed in the world of the story."
+  },
+  {
+    "sentence": "タマネギを酢に浸して辛味を抜く。",
+    "sentence_furigana": "タマネギを酢【す】に浸【ひた】して辛味【からみ】を抜【ぬ】く。",
+    "meaning": "Soak the onions in vinegar to remove their pungency."
+  },
+  {
+    "sentence": "彼女は芸術の美しさのなかに浸っていた。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】の美【び】しさのなかに浸【ひた】っていた。",
+    "meaning": "She was immersed in the beauty of art."
+  },
+  {
+    "sentence": "この土は水を含んでひたひたになっていた。",
+    "sentence_furigana": "この土【つち】は水【みず】を含【ふく】んでひたひたになっていた。",
+    "meaning": "This soil was moist and saturated with water."
+  },
+  {
+    "sentence": "浸水した家屋の復旧作業が進められている。",
+    "sentence_furigana": "浸水【しんすい】した家屋【かおく】の復旧作業【ふっきゅうさぎょう】が進【すす】められている。",
+    "meaning": "Restoration work is proceeding on the flooded houses."
+  },
+  {
+    "sentence": "このパンはスープに浸して食べると美味しい。",
+    "sentence_furigana": "このパンはスープに浸【ひた】して食【た】べると美味【おい】しい。",
+    "meaning": "This bread is delicious when dipped in soup."
+  },
+  {
+    "sentence": "彼は陶酔の境地に浸っていた。",
+    "sentence_furigana": "彼【かれ】は陶酔【とうすい】の境地【きょうち】に浸【ひた】っていた。",
+    "meaning": "He was in a state of intoxication."
+  },
+  {
+    "sentence": "この切り身はタレに浸して味を染み込ませる。",
+    "sentence_furigana": "この切【き】り身【み】はタレに浸【ひた】して味【あじ】を染【し】み込【こ】ませる。",
+    "meaning": "Soak this slice in the sauce to let the flavor penetrate."
+  },
+  {
+    "sentence": "大雨により道路が浸水した。",
+    "sentence_furigana": "大雨【おおあめ】により道路【どうろ】が浸水【しんすい】した。",
+    "meaning": "The road was flooded due to heavy rain."
+  },
+  {
+    "sentence": "彼は自分の世界に浸っていて、話しかけても気づかない。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の世界【せかい】に浸【ひた】っていて、話【はな】しかけても気付【き】づかない。",
+    "meaning": "He is lost in his own world and doesn't notice when spoken to."
+  },
+  {
+    "sentence": "この肉は漬け汁に浸してマリネする。",
+    "sentence_furigana": "この肉【にく】は漬【つ】け汁【じる】に浸【ひた】してマリネする。",
+    "meaning": "Marinate this meat by soaking it in the marinade."
+  },
+  {
+    "sentence": "彼は芸術鑑賞に没頭し、時の経つのも忘れて浸っていた。",
+    "sentence_furigana": "彼【かれ】は芸術鑑賞【げいじゅつかんしょう】に没頭【ぼっとう】し、時【とき】の経【た】つのも忘【わす】れて浸【ひた】っていた。",
+    "meaning": "He was absorbed in appreciating the art, forgetting the passage of time."
+  },
+  {
+    "sentence": "このスポンジは水を吸ってひたひただ。",
+    "sentence_furigana": "このスポンジは水【みず】を吸【す】ってひたひただ。",
+    "meaning": "This sponge has absorbed water and is saturated."
+  },
+  {
+    "sentence": "浸水被害の大きさに驚いた。",
+    "sentence_furigana": "浸水【しんすい】被害【ひがい】の大【おお】きさに驚【おどろ】いた。",
+    "meaning": "I was surprised by the extent of the flood damage."
+  },
+  {
+    "sentence": "彼は文学の世界に浸り、人生観が変わった。",
+    "sentence_furigana": "彼【かれ】は文学【ぶんがく】の世界【せかい】に浸【ひた】り、人生観【じんせいかん】が変【か】わった。",
+    "meaning": "He immersed himself in the world of literature and his outlook on life changed."
+  },
+  {
+    "sentence": "この書類はインクで浸っていたので読みにくかった。",
+    "sentence_furigana": "この書類【しょるい】はインクで浸【しん】していたので読【よ】みにくかった。",
+    "meaning": "This document was smudged with ink, making it difficult to read."
+  },
+  {
+    "sentence": "彼は友人と長電話に浸っていた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】と長電話【ながでんわ】に浸【ひた】っていた。",
+    "meaning": "He was engrossed in a long phone call with a friend."
+  },
+  {
+    "sentence": "この抹茶は水に浸してよく溶かしてください。",
+    "sentence_furigana": "この抹茶【まっちゃ】は水【みず】に浸【ひた】してよく溶【と】かしてください。",
+    "meaning": "Please dissolve this matcha well by soaking it in water."
+  },
+  {
+    "sentence": "彼は瞑想によって心の平安に浸っていた。",
+    "sentence_furigana": "彼【かれ】は瞑想【めいそう】によって心【こころ】の平安【へいあん】に浸【ひた】っていた。",
+    "meaning": "He was steeped in peace of mind through meditation."
+  },
+  {
+    "sentence": "この石鹸は水に浸すと泡立ちが良い。",
+    "sentence_furigana": "この石鹸【せっけん】は水【みず】に浸【ひた】すと泡立【あわだ】ちが良い【よい】。",
+    "meaning": "This soap lathers well when wet."
+  },
+  {
+    "sentence": "彼は長年の夢が叶い、歓喜に浸っていた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】が叶【かな】い、歓喜【かんき】に浸【ひた】っていた。",
+    "meaning": "His long-held dream came true, and he was immersed in joy."
+  },
+  {
+    "sentence": "浸漬法でコーヒー豆を抽出する。",
+    "sentence_furigana": "浸漬法【しんせきほう】でコーヒー豆【まめ】を抽出【ちゅうしゅつ】する。",
+    "meaning": "Extract coffee beans using the immersion method."
+  },
+  {
+    "sentence": "彼は感動的な演奏に酔いしれ、深い感動に浸っていた。",
+    "sentence_furigana": "彼【かれ】は感動的【かんどうてき】な演奏【えんそう】に酔【よ】いしれ、深【ふか】い感動【かんどう】に浸【ひた】っていた。",
+    "meaning": "He was captivated by the moving performance and was steeped in deep emotion."
+  },
+  {
+    "sentence": "このクッキーは牛乳に浸して食べるのが定番だ。",
+    "sentence_furigana": "このクッキーは牛乳【ぎゅうにゅう】に浸【ひた】して食【た】べるのが定番【ていばん】だ。",
+    "meaning": "It's standard to eat these cookies dipped in milk."
+  },
+  {
+    "sentence": "彼は懐かしい思い出に浸っていた。",
+    "sentence_furigana": "彼【かれ】は懐【なつ】かしい思【おも】い出【で】に浸【ひた】っていた。",
+    "meaning": "He was reminiscing about nostalgic memories."
+  },
+  {
+    "sentence": "このタレは肉にじっくり浸すと味が染み込む。",
+    "sentence_furigana": "このタレは肉【にく】にじっくり浸【ひた】すと味【あじ】が染【し】み込【こ】む。",
+    "meaning": "If you soak the meat in this sauce for a while, the flavor will penetrate."
+  },
+  {
+    "sentence": "彼は人生の無常さに浸っていた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の無常【むじょう】さに浸【ひた】っていた。",
+    "meaning": "He was reflecting on the impermanence of life."
+  },
+  {
+    "sentence": "この粉は水に浸すと粘りが出る。",
+    "sentence_furigana": "この粉【こ】は水【みず】に浸【ひた】すと粘【ねば】りが出【で】る。",
+    "meaning": "This powder becomes sticky when immersed in water."
+  },
+  {
+    "sentence": "彼は読書に没頭し、その世界に浸っていた。",
+    "sentence_furigana": "彼【かれ】は読書【どくしょ】に没頭【ぼっとう】し、そ【の】世界【せかい】に浸【ひた】っていた。",
+    "meaning": "He was engrossed in reading and immersed in that world."
+  },
+  {
+    "sentence": "浸水エリアからの避難が完了した。",
+    "sentence_furigana": "浸水【しんすい】エリアから【の】避難【ひなん】が完了【かんりょう】した。",
+    "meaning": "Evacuation from the flooded area has been completed."
+  },
+  {
+    "sentence": "彼女は自然の美しさに心を浸していた。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の美【び】しさに心【こころ】を浸【ひた】していた。",
+    "meaning": "She immersed her heart in the beauty of nature."
+  },
+  {
+    "sentence": "このカビは湿気で浸されていた。",
+    "sentence_furigana": "このカビは湿気【しっけ】で浸【しん】されていた。",
+    "meaning": "This mold had been soaked with moisture."
+  },
+  {
+    "sentence": "彼は長年勤めた会社を退職し、感慨に浸っていた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】勤【つと】めた会社【かいしゃ】を退職【たいしょく】し、感慨【かんがい】に浸【ひた】っていた。",
+    "meaning": "He retired from the company he had worked for many years and was filled with emotion."
+  },
+  {
+    "sentence": "この食材は出汁に浸して旨味を引き出す。",
+    "sentence_furigana": "この食材【しょくざい】は出汁【だし】に浸【ひた】して旨味【うまみ】を引【ひ】き出【だ】す。",
+    "meaning": "Soak these ingredients in dashi broth to bring out the umami."
+  },
+  {
+    "sentence": "彼は静かな時間を過ごし、幸福感に浸っていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かな時間【じかん】を過【す】ごし、幸福感【こうふくかん】に浸【ひた】っていた。",
+    "meaning": "He spent quiet time and was steeped in happiness."
+  },
+  {
+    "sentence": "この茶碗は熱いお湯に浸して温める。",
+    "sentence_furigana": "この茶碗【ちゃわん】は熱【あつ】いお湯【ゆ】に浸【ひた】して温【あたた】める。",
+    "meaning": "Warm this teacup by immersing it in hot water."
+  },
+  {
+    "sentence": "彼は夢心地で、現実感を失っていた。",
+    "sentence_furigana": "彼【かれ】は夢心地【ゆめごこち】で、現実感【げんじつかん】を失【うしな】っていた。",
+    "meaning": "He was in a dreamlike state, losing touch with reality."
+  },
+  {
+    "sentence": "この魚は醤油に浸して焼き上げる。",
+    "sentence_furigana": "この魚【さかな】は醤油【しょうゆ】に浸【ひた】して焼【や】き上【あ】げる。",
+    "meaning": "Soak this fish in soy sauce and then grill it."
+  },
+  {
+    "sentence": "彼は読書に夢中になり、時間を忘れて浸っていた。",
+    "sentence_furigana": "彼【かれ】は読書【どくしょ】に夢中【むちゅう】になり、時間【じかん】を忘【わす】れて浸【ひた】っていた。",
+    "meaning": "He became engrossed in reading and was lost in it."
+  },
+  {
+    "sentence": "このパンはバターミルクに浸して焼くと美味しい。",
+    "sentence_furigana": "このパンはバターミルクに浸【ひた】して焼【や】くと美味【おい】しい。",
+    "meaning": "This bread is delicious when soaked in buttermilk and baked."
+  },
+  {
+    "sentence": "彼は故郷の景色を思い出し、懐旧の情に浸っていた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の景色【けしき】を思【おも】い出【だ】し、懐旧【かいきゅう】の情【じょう】に浸【ひた】っていた。",
+    "meaning": "He recalled the scenery of his hometown and was filled with nostalgic feelings."
+  },
+  {
+    "sentence": "この薬草は湯に浸して煎じて飲む。",
+    "sentence_furigana": "この薬草【やくそう】は湯【ゆ】に浸【ひた】して煎【せん】じて飲【の】む。",
+    "meaning": "Soak these medicinal herbs in hot water and then boil them to drink."
+  },
+  {
+    "sentence": "彼は美しい絵画に魅了され、その世界に浸っていた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい絵画【かいが】に魅了【みりょう】され、そ【の】世界【せかい】に浸【ひた】っていた。",
+    "meaning": "He was captivated by the beautiful painting and was immersed in its world."
+  },
+  {
+    "sentence": "この衣類は漂白剤に浸して色を抜いた。",
+    "sentence_furigana": "この衣類【いるい】は漂白剤【ひょうはくざい】に浸【ひた】して色【いろ】を抜【ぬ】いた。",
+    "meaning": "These clothes were bleached by soaking them in bleach."
+  },
+  {
+    "sentence": "彼は読書の楽しみに浸り、時間を忘れた。",
+    "sentence_furigana": "彼【かれ】は読書【どくしょ】の楽【たの】しみに浸【ひた】り、時間【じかん】を忘【わす】れた。",
+    "meaning": "He enjoyed reading so much that he forgot about time."
+  },
+  {
+    "sentence": "この漬物は塩水に浸して塩抜きする。",
+    "sentence_furigana": "この漬物【つけもの】は塩水【しおみず】に浸【ひた】して塩抜【しおぬ】きする。",
+    "meaning": "Soak these pickles in salt water to remove the salt."
+  },
+  {
+    "sentence": "彼は音楽鑑賞に没頭し、優雅な時間に浸っていた。",
+    "sentence_furigana": "彼【かれ】は音楽鑑賞【おんがくかんしょう】に没頭【ぼっとう】し、優雅【ゆうが】な時間【じかん】に浸【ひた】っていた。",
+    "meaning": "He was engrossed in listening to music and was immersed in an elegant time."
+  },
+  {
+    "sentence": "この油揚げは熱湯に浸して油抜きをする。",
+    "sentence_furigana": "この油揚【あぶらあ】げは熱湯【ねっとう】に浸【ひた】して油抜【あぶらぬ】きをする。",
+    "meaning": "Soak these deep-fried tofu pouches in hot water to remove excess oil."
+  },
+  {
+    "sentence": "彼は静寂な夜の空気で満たされ、安堵に浸っていた。",
+    "sentence_furigana": "彼【かれ】は静寂【せいじゃく】な夜【よる】の空気【くうき】で満【み】たされ、安堵【あんど】に浸【ひた】っていた。",
+    "meaning": "He was filled with the quiet night air and was steeped in relief."
+  },
+  {
+    "sentence": "この野菜は冷水に浸してシャキッとさせる。",
+    "sentence_furigana": "この野菜【やさい】は冷水【れいすい】に浸【ひた】してシャキッとさせる。",
+    "meaning": "Soak these vegetables in cold water to make them crisp."
+  },
+  {
+    "sentence": "彼は感動的な映画に心を奪われ、涙に浸っていた。",
+    "sentence_furigana": "彼【かれ】は感動的【かんどうてき】な映画【えいが】に心【こころ】を奪【うば】われ、涙【なみだ】に浸【ひた】っていた。",
+    "meaning": "He was captivated by the moving movie and was immersed in tears."
+  },
+  {
+    "sentence": "この餅はきな粉をまぶす前に、少し水に浸す。",
+    "sentence_furigana": "この餅【もち】はきな粉【こ】をまぶす前【まえ】に、少【すこ】し水【みず】に浸【ひた】す。",
+    "meaning": "Soak this mochi slightly in water before coating it with kinako (roasted soybean flour)."
+  },
+  {
+    "sentence": "彼は静かな湖畔で自然の恵みに浸っていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かな湖畔【こはん】で自然【しぜん】の恵【めぐ】みに浸【ひた】っていた。",
+    "meaning": "He was immersed in the blessings of nature by the quiet lake."
+  },
+  {
+    "sentence": "この海苔は水に浸すとパリッとしなくなる。",
+    "sentence_furigana": "この海苔【のり】は水【みず】に浸【ひた】すとパリッとしなくなる。",
+    "meaning": "This nori loses its crispness when immersed in water."
+  },
+  {
+    "sentence": "彼は過去の栄光に浸り、現状に満足していた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】に浸【ひた】り、現状【げんじょう】に満足【まんぞく】していた。",
+    "meaning": "He dwelled on past glories and was content with his current situation."
+  },
+  {
+    "sentence": "この豆は一晩水に浸して戻す。",
+    "sentence_furigana": "この豆【まめ】は一晩【ひとばん】水【みず】に浸【ひた】して戻【もど】す。",
+    "meaning": "Soak these beans in water overnight to rehydrate them."
+  },
+  {
+    "sentence": "彼は温かい温泉に体を浸して疲れを癒した。",
+    "sentence_furigana": "彼【かれ】は温【あたた】かい温泉【おんせん】に体【からだ】を浸【ひた】して疲【つか】れを癒【いや】した。",
+    "meaning": "He soaked his body in a hot spring and healed his fatigue."
+  },
+  {
+    "sentence": "この生地は熱湯に浸すと糊状になる。",
+    "sentence_furigana": "この生地【きじ】は熱湯【ねっとう】に浸【ひた】すと糊状【のりじょう】になる。",
+    "meaning": "This dough becomes paste-like when immersed in hot water."
+  },
+  {
+    "sentence": "彼は子供の頃の楽しい思い出に浸っていた。",
+    "sentence_furigana": "彼【かれ】は子供の頃【こどものころ】の楽【たの】しい思【おも】い出【で】に浸【ひた】っていた。",
+    "meaning": "He was reminiscing about the happy memories of his childhood."
+  },
+  {
+    "sentence": "このパン生地は十分な水分を浸して発酵させる。",
+    "sentence_furigana": "このパン生地【きじ】は十分【じゅうぶん】な水分【すいぶん】を浸【ひた】して発酵【はっこう】させる。",
+    "meaning": "Let this bread dough ferment by soaking it with sufficient moisture."
+  },
+  {
+    "sentence": "彼は音楽の調べに身を委ね、恍惚に浸っていた。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】の調【しら】べに身【み】を委【ゆだ】ね、恍惚【こうこつ】に浸【ひた】っていた。",
+    "meaning": "He surrendered himself to the melody of the music and was in ecstasy."
+  },
+  {
+    "sentence": "この乾麺は熱湯に浸して戻してから調理する。",
+    "sentence_furigana": "この乾麺【かんめん】は熱湯【ねっとう】に浸【ひた】して戻【もど】してから調理【ちょうり】する。",
+    "meaning": "Rehydrate these dried noodles by soaking them in hot water before cooking."
+  },
+  {
+    "sentence": "彼は過去の過ちを悔やみ、後悔に浸っていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを悔【く】やみ、後悔【こうかい】に浸【ひた】っていた。",
+    "meaning": "He regretted his past mistakes and was steeped in regret."
+  },
+  {
+    "sentence": "この昆布は水に浸して戻すと粘りが出る。",
+    "sentence_furigana": "この昆布【こんぶ】は水【みず】に浸【ひた】して戻【もど】すと粘【ねば】りが出【で】る。",
+    "meaning": "When rehydrated by soaking in water, this konbu becomes slimy."
+  },
+  {
+    "sentence": "彼は一杯のコーヒーに心を浸し、静かなひとときを過ごした。",
+    "sentence_furigana": "彼【かれ】は一杯【いっぱい】のコーヒーに心【こころ】を浸【ひた】し、静【しず】かなひとときを過【す】ごした。",
+    "meaning": "He immersed his mind in a cup of coffee and spent a quiet moment."
+  },
+  {
+    "sentence": "この肉は醤油とみりんに浸して照り焼きにする。",
+    "sentence_furigana": "この肉【にく】は醤油【しょうゆ】とみりんに浸【ひた】して照【て】り焼【や】きにする。",
+    "meaning": "Soak this meat in soy sauce and mirin to make teriyaki."
+  },
+  {
+    "sentence": "彼は静寂な空気に身を浸し、心を落ち着かせた。",
+    "sentence_furigana": "彼【かれ】は静寂【せいじゃく】な空気【くうき】に身【み】を浸【ひた】し、心【こころ】を落【お】ち着かせた。",
+    "meaning": "He immersed himself in the quiet air and calmed his mind."
+  },
+  {
+    "sentence": "このパンは熱湯に浸して柔らかくする。",
+    "sentence_furigana": "このパンは熱湯【ねっとう】に浸【ひた】して柔【やわ】らかくする。",
+    "meaning": "Soak this bread in hot water to soften it."
+  },
+  {
+    "sentence": "彼は読書に耽り、その知的な世界に浸っていた。",
+    "sentence_furigana": "彼【かれ】は読書【どくしょ】に耽【ふけ】り、そ【の】知的【ちてき】な世界【せかい】に浸【ひた】っていた。",
+    "meaning": "He indulged in reading and was immersed in that intellectual world."
+  },
+  {
+    "sentence": "この白菜は塩水に浸して甘みを引き出す。",
+    "sentence_furigana": "この白菜【はくさい】は塩水【しおみず】に浸【ひた】して甘【あま】みを引【ひ】き出【だ】す。",
+    "meaning": "Soak this napa cabbage in salt water to bring out its sweetness."
+  },
+  {
+    "sentence": "彼は故郷の思い出に浸り、郷愁の念にかられた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の思【おも】い出【で】に浸【ひた】り、郷愁【きょうしゅう】の念【ねん】にかられた。",
+    "meaning": "He dwelled on memories of his hometown and was overcome with nostalgia."
+  },
+  {
+    "sentence": "この豆腐は熱湯に浸して湯通しをする。",
+    "sentence_furigana": "この豆腐【とうふ】は熱湯【ねっとう】に浸【ひた】して湯通【ゆどお】しをする。",
+    "meaning": "Blanch this tofu by soaking it in hot water."
+  },
+  {
+    "sentence": "彼は美しい音楽に心を浸し、優雅な気分に酔った。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい音楽【おんがく】に心【こころ】を浸【ひた】し、優雅【ゆうが】な気分【きぶん】に酔【よ】った。",
+    "meaning": "He immersed his mind in beautiful music and was intoxicated with an elegant feeling."
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "彼は複雑な問題を巧みに弁護した。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な問題【もんだい】を巧【たく】みに弁護【べんご】した。",
+    "meaning": "He skillfully defended the complex issue."
+  },
+  {
+    "sentence": "その花は美しい弁を持っていた。",
+    "sentence_furigana": "その花【はな】は美【うつく】しい弁【べん】を持【も】っていた。",
+    "meaning": "That flower had beautiful petals."
+  },
+  {
+    "sentence": "彼女は丁寧な言葉遣いで弁解した。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】な言葉遣【ことばづか】いで弁解【べんかい】した。",
+    "meaning": "She made an excuse with polite phrasing."
+  },
+  {
+    "sentence": "地域によって方言が弁ぜんとして異なる。",
+    "sentence_furigana": "地域【ちいき】によって方言【ほうげん】が弁ぜん【べんぜん】として異【こと】なる。",
+    "meaning": "Dialects differ greatly depending on the region."
+  },
+  {
+    "sentence": "弁護士は依頼人のために全力を尽くした。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "The lawyer did their best for their client."
+  },
+  {
+    "sentence": "これは一種の弁論である。",
+    "sentence_furigana": "これは一種【いっしゅ】の弁論【べんろん】である。",
+    "meaning": "This is a type of argumentation."
+  },
+  {
+    "sentence": "彼は自分の意見をはっきりと弁じた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】をはっきりと弁じた【べんじた】。",
+    "meaning": "He clearly expressed his opinion."
+  },
+  {
+    "sentence": "水栓の弁を開けて水を流した。",
+    "sentence_furigana": "水栓【すいせん】の弁【べん】を開【あ】けて水【みず】を流【なが】した。",
+    "meaning": "I opened the valve of the faucet and let the water flow."
+  },
+  {
+    "sentence": "この人形は美しい髪の弁を結っている。",
+    "sentence_furigana": "この人形【にんぎょう】は美【うつく】しい髪【かみ】の弁【べん】を結【むす】っている。",
+    "meaning": "This doll has beautiful braided hair."
+  },
+  {
+    "sentence": "その裁判官は公平に物事を弁別した。",
+    "sentence_furigana": "その裁判官【さいばんかん】は公平【こうへい】に物事【ものごと】を弁別【べんべつ】した。",
+    "meaning": "The judge distinguished matters fairly."
+  },
+  {
+    "sentence": "彼は弁舌爽やかで人を惹きつける。",
+    "sentence_furigana": "彼【かれ】は弁舌爽【べんぜつさわ】やかで人【ひと】を惹【ひ】きつける。",
+    "meaning": "He is eloquent and attracts people."
+  },
+  {
+    "sentence": "この弁は非常に重要だ。",
+    "sentence_furigana": "この弁【べん】は非常【ひじょう】に重要【じゅうよう】だ。",
+    "meaning": "This argument is very important."
+  },
+  {
+    "sentence": "彼は議論を巧みに弁駁した。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】を巧【たく】みに弁駁【べんばく】した。",
+    "meaning": "He skillfully refuted the argument."
+  },
+  {
+    "sentence": "彼女は繊細な花弁を愛でた。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な花弁【かべん】を愛【めで】た。",
+    "meaning": "She admired the delicate flower petals."
+  },
+  {
+    "sentence": "この弁は我々の主張を裏付ける。",
+    "sentence_furigana": "この弁【べん】は我々【われわれ】の主張【しゅちょう】を裏付【うらづ】ける。",
+    "meaning": "This argument supports our claim."
+  },
+  {
+    "sentence": "彼は自らの過ちを弁明した。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの過誤【あやま】ちを弁明【べんめい】した。",
+    "meaning": "He explained his own mistake."
+  },
+  {
+    "sentence": "彼の弁明は到底受け入れられない。",
+    "sentence_furigana": "彼【かれ】の弁明【べんめい】は到底【とうてい】受【う】け入【い】れられない。",
+    "meaning": "His explanation is unacceptable."
+  },
+  {
+    "sentence": "この弁は非常に説得力がある。",
+    "sentence_furigana": "この弁【べん】は非常【ひじょう】に説得力【せっとくりょく】がある。",
+    "meaning": "This argument is very persuasive."
+  },
+  {
+    "sentence": "彼は問題を細かく弁別していく。",
+    "sentence_furigana": "彼【かれ】は問題【もんだい】を細【こま】かく弁別【べんべつ】していく。",
+    "meaning": "He distinguishes problems in detail."
+  },
+  {
+    "sentence": "彼女は複雑な編み方を弁えている。",
+    "sentence_furigana": "彼女【かのじょ】は複雑【ふくざつ】な編【あ】み方【かた】を弁えている【わきまえている】。",
+    "meaning": "She understands complex braiding techniques."
+  },
+  {
+    "sentence": "この機械は弁操作が難しい。",
+    "sentence_furigana": "この機械【きかい】は弁操作【べんそうさ】が難【むずか】しい。",
+    "meaning": "The valve operation of this machine is difficult."
+  },
+  {
+    "sentence": "彼は弁士として会場を沸かせた。",
+    "sentence_furigana": "彼【かれ】は弁士【べんし】として会場【かいじょう】を沸【わ】かせた。",
+    "meaning": "He livened up the venue as a speaker."
+  },
+  {
+    "sentence": "弁天様は音楽の神様だ。",
+    "sentence_furigana": "弁天様【べんてんさま】は音楽【おんがく】の神様【かみさま】だ。",
+    "meaning": "Benten is the god of music."
+  },
+  {
+    "sentence": "この弁は論理的だ。",
+    "sentence_furigana": "この弁【べん】は論理的【ろんりてき】だ。",
+    "meaning": "This argument is logical."
+  },
+  {
+    "sentence": "彼は見事な弁舌で聴衆を魅了した。",
+    "sentence_furigana": "彼【かれ】は見事【みごと】な弁舌【べんぜつ】で聴衆【ちょうしゅう】を魅了【みりょう】した。",
+    "meaning": "He captivated the audience with his splendid eloquence."
+  },
+  {
+    "sentence": "弁護士としての倫理が問われる。",
+    "sentence_furigana": "弁護士【べんごし】としての倫理【りんり】が問【と】われる。",
+    "meaning": "The ethics of a lawyer are questioned."
+  },
+  {
+    "sentence": "彼は異なる意見を弁護した。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる意見【いけん】を弁護【べんご】した。",
+    "meaning": "He defended different opinions."
+  },
+  {
+    "sentence": "この楽器の弁は修理が必要だ。",
+    "sentence_furigana": "この楽器【がっき】の弁【べん】は修理【しゅうり】が必要【ひつよう】だ。",
+    "meaning": "The valve of this instrument needs repair."
+  },
+  {
+    "sentence": "彼女は優雅な仕草で弁髪を直した。",
+    "sentence_furigana": "彼女【かのじょ】は優雅【ゆうが】な仕草【しぐさ】で弁髪【べんぱつ】を直【なお】した。",
+    "meaning": "She elegantly fixed her braided hair."
+  },
+  {
+    "sentence": "弁論大会で優勝した。",
+    "sentence_furigana": "弁論大会【べんろんたいかい】で優勝【ゆうしょう】した。",
+    "meaning": "I won the debate competition."
+  },
+  {
+    "sentence": "彼は複雑な問題を弁護士に相談した。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な問題【もんだい】を弁護士【べんごし】に相談【そうだん】した。",
+    "meaning": "He consulted a lawyer about the complex problem."
+  },
+  {
+    "sentence": "花弁が風に舞った。",
+    "sentence_furigana": "花弁【かべん】が風【かぜ】に舞【ま】った。",
+    "meaning": "The flower petals danced in the wind."
+  },
+  {
+    "sentence": "この弁は非常に鋭い。",
+    "sentence_furigana": "この弁【べん】は非常【ひじょう】に鋭【するど】い。",
+    "meaning": "This argument is very sharp."
+  },
+  {
+    "sentence": "彼は方言を弁じ分けて話す。",
+    "sentence_furigana": "彼【かれ】は方言【ほうげん】を弁じ分【べんじわ】けて話【はな】す。",
+    "meaning": "He speaks distinguishing between dialects."
+  },
+  {
+    "sentence": "弁護士は法廷で力強く弁論した。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で力強【ちからづよ】く弁論【べんろん】した。",
+    "meaning": "The lawyer argued forcefully in court."
+  },
+  {
+    "sentence": "彼女は弁が立つ。",
+    "sentence_furigana": "彼女【かのじょ】は弁【べん】が立【た】つ。",
+    "meaning": "She is eloquent."
+  },
+  {
+    "sentence": "弁慶は弁髪を結っていた。",
+    "sentence_furigana": "弁慶【べんけい】は弁髪【べんぱつ】を結【むす】っていた。",
+    "meaning": "Benkei wore his hair in a braid."
+  },
+  {
+    "sentence": "その弁は納得できる。",
+    "sentence_furigana": "その弁【べん】は納得【なっとく】できる。",
+    "meaning": "That argument is convincing."
+  },
+  {
+    "sentence": "彼は巧妙な弁舌で難局を乗り切った。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】な弁舌【べんぜつ】で難局【なんきょく】を乗【の】り切【き】った。",
+    "meaning": "He overcame the difficult situation with skillful eloquence."
+  },
+  {
+    "sentence": "弁護人の弁護は無罪を勝ち取った。",
+    "sentence_furigana": "弁護人【べんごにん】の弁護【べんご】は無罪【むざい】を勝【か】ち取【と】った。",
+    "meaning": "The defense lawyer's advocacy won an acquittal."
+  },
+  {
+    "sentence": "この弁論は興味深い。",
+    "sentence_furigana": "この弁論【べんろん】は興味深【きょうみぶか】い。",
+    "meaning": "This debate is interesting."
+  },
+  {
+    "sentence": "彼は弁護士として多くの事件を扱った。",
+    "sentence_furigana": "彼【かれ】は弁護士【べんごし】として多【おお】くの事件【じけん】を扱【あつか】った。",
+    "meaning": "He handled many cases as a lawyer."
+  },
+  {
+    "sentence": "この弁には何の根拠もない。",
+    "sentence_furigana": "この弁【べん】には何【なに】の根拠【こんきょ】もない。",
+    "meaning": "This argument has no basis."
+  },
+  {
+    "sentence": "彼は弁髪の武士を描いた。",
+    "sentence_furigana": "彼【かれ】は弁髪【べんぱつ】の武士【ぶし】を描【えが】いた。",
+    "meaning": "He depicted a samurai with braided hair."
+  },
+  {
+    "sentence": "弁論術を学ぶことは重要だ。",
+    "sentence_furigana": "弁論術【べんろんじゅつ】を学【まな】ぶことは重要【じゅうよう】だ。",
+    "meaning": "Learning rhetoric is important."
+  },
+  {
+    "sentence": "この弁は十分ではない。",
+    "sentence_furigana": "この弁【べん】は十分【じゅうぶん】ではない。",
+    "meaning": "This explanation is not sufficient."
+  },
+  {
+    "sentence": "彼は弁護士事務所で働いている。",
+    "sentence_furigana": "彼【かれ】は弁護士事務所【べんごしじむしょ】で働【はたら】いている。",
+    "meaning": "He works at a law firm."
+  },
+  {
+    "sentence": "弁慶の泣き所はどこか。",
+    "sentence_furigana": "弁慶【べんけい】の泣【な】き所【どころ】はどこか。",
+    "meaning": "Where is Benkei's weak spot?"
+  },
+  {
+    "sentence": "弁理士は特許に関する専門家だ。",
+    "sentence_furigana": "弁理士【べんりし】は特許【とっきょ】に関【かん】する専門家【せんもんか】だ。",
+    "meaning": "A patent attorney is an expert in patents."
+  },
+  {
+    "sentence": "彼は弁護士倫理綱領を遵守する。",
+    "sentence_furigana": "彼【かれ】は弁護士倫理綱領【べんごしりんりこうりょう】を遵守【じゅんしゅ】する。",
+    "meaning": "He adheres to the code of legal ethics."
+  },
+  {
+    "sentence": "この弁論は大変示唆に富んでいる。",
+    "sentence_furigana": "この弁論【べんろん】は大変【たいへん】示唆【しさ】に富【と】んでいる。",
+    "meaning": "This speech is very suggestive."
+  },
+  {
+    "sentence": "彼は流暢な弁舌で聴衆を惹きつけた。",
+    "sentence_furigana": "彼【かれ】は流暢【りゅうちょう】な弁舌【べんぜつ】で聴衆【ちょうしゅう】を惹【ひ】きつけた。",
+    "meaning": "He attracted the audience with his fluent speech."
+  },
+  {
+    "sentence": "弁護士は法廷で大胆な弁論を展開した。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で大胆【だいたん】な弁論【べんろん】を展開【てんかい】した。",
+    "meaning": "The lawyer presented a bold argument in court."
+  },
+  {
+    "sentence": "弁慶は強い。",
+    "sentence_furigana": "弁慶【べんけい】は強【つよ】い。",
+    "meaning": "Benkei is strong."
+  },
+  {
+    "sentence": "弁護士の資格を取得した。",
+    "sentence_furigana": "弁護士【べんごし】の資格【しかく】を取得【しゅとく】した。",
+    "meaning": "I obtained a license to practice law."
+  },
+  {
+    "sentence": "この弁護は正しい。",
+    "sentence_furigana": "この弁護【べんご】は正【ただ】しい。",
+    "meaning": "This defense is correct."
+  },
+  {
+    "sentence": "彼は事件の弁護を依頼された。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の弁護【べんご】を依頼【いらい】された。",
+    "meaning": "He was asked to defend the case."
+  },
+  {
+    "sentence": "彼女は弁論の才能がある。",
+    "sentence_furigana": "彼女【かのじょ】は弁論【べんろん】の才能【さいのう】がある。",
+    "meaning": "She has a talent for public speaking."
+  },
+  {
+    "sentence": "弁護士は被害者のために戦った。",
+    "sentence_furigana": "弁護士【べんごし】は被害者【ひがいしゃ】のために戦【たたか】った。",
+    "meaning": "The lawyer fought for the victim."
+  },
+  {
+    "sentence": "弁護士会に登録した。",
+    "sentence_furigana": "弁護士会【べんごしかい】に登録【とうろく】した。",
+    "meaning": "I registered with the bar association."
+  },
+  {
+    "sentence": "この弁は理にかなっている。",
+    "sentence_furigana": "この弁【べん】は理【り】にかなっている。",
+    "meaning": "This argument makes sense."
+  },
+  {
+    "sentence": "彼は弁護士として成功した。",
+    "sentence_furigana": "彼【かれ】は弁護士【べんごし】として成功【せいこう】した。",
+    "meaning": "He succeeded as a lawyer."
+  },
+  {
+    "sentence": "弁護士は被告を弁護する。",
+    "sentence_furigana": "弁護士【べんごし】は被告【ひこく】を弁護【べんご】する。",
+    "meaning": "The lawyer defends the defendant."
+  },
+  {
+    "sentence": "この弁護は無謀だ。",
+    "sentence_furigana": "この弁護【べんご】は無謀【むぼう】だ。",
+    "meaning": "This defense is reckless."
+  },
+  {
+    "sentence": "彼女は弁論で聴衆を説得した。",
+    "sentence_furigana": "彼女【かのじょ】は弁論【べんろん】で聴衆【ちょうしゅう】を説得【せっとく】した。",
+    "meaning": "She persuaded the audience with her speech."
+  },
+  {
+    "sentence": "この弁護士は腕が良い。",
+    "sentence_furigana": "この弁護士【べんごし】は腕【うで】が良【よ】い。",
+    "meaning": "This lawyer is skilled."
+  },
+  {
+    "sentence": "弁護士は冷静に事実を説明した。",
+    "sentence_furigana": "弁護士【べんごし】は冷静【れいせい】に事実【じじつ】を説明【せつめい】した。",
+    "meaning": "The lawyer calmly explained the facts."
+  },
+  {
+    "sentence": "彼は弁護士の資格試験に合格した。",
+    "sentence_furigana": "彼【かれ】は弁護士【べんごし】の資格試験【しかくしけん】に合格【ごうかく】した。",
+    "meaning": "He passed the bar examination."
+  },
+  {
+    "sentence": "弁護士は法廷で証拠を提示した。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で証拠【しょうこ】を提示【ていじ】した。",
+    "meaning": "The lawyer presented evidence in court."
+  },
+  {
+    "sentence": "弁護士は依頼人の無実を証明しようとした。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】の無実【むじつ】を証明【しょうめい】しようとした。",
+    "meaning": "The lawyer tried to prove the client's innocence."
+  },
+  {
+    "sentence": "弁護士は難しい事件を引き受けた。",
+    "sentence_furigana": "弁護士【べんごし】は難【むずか】しい事件【じけん】を引【ひ】き受【う】けた。",
+    "meaning": "The lawyer took on a difficult case."
+  },
+  {
+    "sentence": "弁護士は法の番人である。",
+    "sentence_furigana": "弁護士【べんごし】は法【ほう】の番人【ばんにん】である。",
+    "meaning": "Lawyers are guardians of the law."
+  },
+  {
+    "sentence": "弁護士は法律の専門家だ。",
+    "sentence_furigana": "弁護士【べんごし】は法律【ほうりつ】の専門家【せんもんか】だ。",
+    "meaning": "Lawyers are experts in law."
+  },
+  {
+    "sentence": "弁護士は検察官と対立した。",
+    "sentence_furigana": "弁護士【べんごし】は検察官【けんさつかん】と対立【たいりつ】した。",
+    "meaning": "The lawyer confronted the prosecutor."
+  },
+  {
+    "sentence": "弁護士は依頼人のために最善を尽くした。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために最善【さいぜん】を尽【つ】くした。",
+    "meaning": "The lawyer did their best for the client."
+  },
+  {
+    "sentence": "弁護士は法廷で力強く弁論を行った。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で力強【ちからづよ】く弁論【べんろん】を行【おこな】った。",
+    "meaning": "The lawyer delivered a strong argument in court."
+  },
+  {
+    "sentence": "弁護士は冷静に質問に答えた。",
+    "sentence_furigana": "弁護士【べんごし】は冷静【れいせい】に質問【しつもん】に答【こた】えた。",
+    "meaning": "The lawyer calmly answered the questions."
+  },
+  {
+    "sentence": "弁護士は陪審員に訴えかけた。",
+    "sentence_furigana": "弁護士【べんごし】は陪審員【ばいしんいん】に訴【うった】えかけた。",
+    "meaning": "The lawyer appealed to the jury."
+  },
+  {
+    "sentence": "弁護士は被告人のために証言を求めた。",
+    "sentence_furigana": "弁護士【べんごし】は被告人【ひこくにん】のために証言【しょうげん】を求【もと】めた。",
+    "meaning": "The lawyer sought testimony for the defendant."
+  },
+  {
+    "sentence": "弁護士は難しい法律問題を解決した。",
+    "sentence_furigana": "弁護士【べんごし】は難【むずか】しい法律問題【ほうりつもんだい】を解決【かいけつ】した。",
+    "meaning": "The lawyer solved a difficult legal issue."
+  },
+  {
+    "sentence": "弁護士は公正な裁判を求めた。",
+    "sentence_furigana": "弁護士【べんごし】は公正【こうせい】な裁判【さいばん】を求【もと】めた。",
+    "meaning": "The lawyer sought a fair trial."
+  },
+  {
+    "sentence": "弁護士は被告人の権利を守った。",
+    "sentence_furigana": "弁護士【べんごし】は被告人【ひこくにん】の権利【けんり】を守【まも】った。",
+    "meaning": "The lawyer protected the defendant's rights."
+  },
+  {
+    "sentence": "弁護士は事件の真相を明らかにした。",
+    "sentence_furigana": "弁護士【べんごし】は事件【じけん】の真相【しんそう】を明【あき】らかにした。",
+    "meaning": "The lawyer revealed the truth of the case."
+  },
+  {
+    "sentence": "弁護士は法廷で感動的な演説を行った。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で感動的【かんどうてき】な演説【えんぜつ】を行【おこな】った。",
+    "meaning": "The lawyer gave a moving speech in court."
+  },
+  {
+    "sentence": "弁護士は新しい法律を研究している。",
+    "sentence_furigana": "弁護士【べんごし】は新【あたら】しい法律【ほうりつ】を研究【けんきゅう】している。",
+    "meaning": "The lawyer is studying new laws."
+  },
+  {
+    "sentence": "弁護士は国際的な法律問題にも詳しい。",
+    "sentence_furigana": "弁護士【べんごし】は国際的【こくさいてき】な法律問題【ほうりつもんだい】にも詳【くわ】しい。",
+    "meaning": "The lawyer is also knowledgeable about international legal issues."
+  },
+  {
+    "sentence": "弁護士は貧しい人々のために無料の法律相談を行っている。",
+    "sentence_furigana": "弁護士【べんごし】は貧【まず】しい人々【ひとびと】のために無料【むりょう】の法律相談【ほうりつそうだん】を行【おこな】っている。",
+    "meaning": "The lawyer provides free legal advice for the poor."
+  },
+  {
+    "sentence": "弁護士は法廷で落ち着いて弁論した。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で落着【おちつ】いて弁論【べんろん】した。",
+    "meaning": "The lawyer argued calmly in court."
+  },
+  {
+    "sentence": "弁護士は依頼人のために粘り強く戦った。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために粘【ねば】り強【つよ】く戦【たたか】った。",
+    "meaning": "The lawyer fought persistently for the client."
+  },
+  {
+    "sentence": "弁護士は法律の知識を駆使して依頼人を助けた。",
+    "sentence_furigana": "弁護士【べんごし】は法律【ほうりつ】の知識【ちしき】を駆使【くし】して依頼人【いらいにん】を助【たす】けた。",
+    "meaning": "The lawyer used their legal knowledge to help the client."
+  },
+  {
+    "sentence": "弁護士は依頼人のために全力で弁護した。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために全力【ぜんりょく】で弁護【べんご】した。",
+    "meaning": "The lawyer defended their client with all their might."
+  },
+  {
+    "sentence": "弁護士は陪審員に有利な証拠を提出した。",
+    "sentence_furigana": "弁護士【べんごし】は陪審員【ばいしんいん】に有利【ゆうり】な証拠【しょうこ】を提出【ていしゅつ】した。",
+    "meaning": "The lawyer submitted favorable evidence to the jury."
+  },
+  {
+    "sentence": "弁護士は法廷で自身の弁論スキルを披露した。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で自身【じしん】の弁論スキル【べんろんスキル】を披露【ひろう】した。",
+    "meaning": "The lawyer showcased their argumentation skills in court."
+  },
+  {
+    "sentence": "弁護士は複雑な案件を簡潔に説明した。",
+    "sentence_furigana": "弁護士【べんごし】は複雑【ふくざつ】な案件【あんけん】を簡潔【かんけつ】に説明【せつめい】した。",
+    "meaning": "The lawyer explained the complex case concisely."
+  },
+  {
+    "sentence": "弁護士は被害者の痛みを理解した。",
+    "sentence_furigana": "弁護士【べんごし】は被害者【ひがいしゃ】の痛【いた】みを理解【りかい】した。",
+    "meaning": "The lawyer understood the victim's pain."
+  },
+  {
+    "sentence": "弁護士は依頼人のために有利な判決を勝ち取った。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために有利【ゆうり】な判決【はんけつ】を勝【か】ち取【と】った。",
+    "meaning": "The lawyer won a favorable judgment for the client."
+  },
+  {
+    "sentence": "弁護士は証拠に基づいて力強く弁論した。",
+    "sentence_furigana": "弁護士【べんごし】は証拠【しょうこ】に基づ【もとづ】いて力強【ちからづよ】く弁論【べんろん】した。",
+    "meaning": "The lawyer argued forcefully based on the evidence."
+  },
+  {
+    "sentence": "弁護士は依頼人の言葉を弁護した。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】の言葉【ことば】を弁護【べんご】した。",
+    "meaning": "The lawyer defended the client's words."
+  },
+  {
+    "sentence": "弁護士は反対尋問で矛盾を突いた。",
+    "sentence_furigana": "弁護士【べんごし】は反対尋問【はんたいじんもん】で矛盾【むじゅん】を突【つ】いた。",
+    "meaning": "The lawyer pointed out inconsistencies during cross-examination."
+  },
+  {
+    "sentence": "弁護士は法廷で依頼人の立場を弁護した。",
+    "sentence_furigana": "弁護士【べんごし】は法廷【ほうてい】で依頼人【いらいにん】の立場【たちば】を弁護【べんご】した。",
+    "meaning": "The lawyer defended the client's position in court."
+  },
+  {
+    "sentence": "弁護士は法律の知識を駆使し、依頼人を勝利に導いた。",
+    "sentence_furigana": "弁護士【べんごし】は法律【ほうりつ】の知識【ちしき】を駆使【くし】し、依頼人【いらいにん】を勝利【しょうり】に導【みちび】いた。",
+    "meaning": "The lawyer used their legal knowledge to lead the client to victory."
+  },
+  {
+    "sentence": "弁護士は検察側の主張に反論した。",
+    "sentence_furigana": "弁護士【べんごし】は検察側【けんさつがわ】の主張【しゅちょう】に反論【はんろん】した。",
+    "meaning": "The lawyer rebutted the prosecution's claims."
+  },
+  {
+    "sentence": "弁護士は依頼人のために証拠を収集した。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために証拠【しょうこ】を収集【しゅうしゅう】した。",
+    "meaning": "The lawyer collected evidence for the client."
+  },
+  {
+    "sentence": "弁護士は依頼人の無実を証明するための弁論を展開した。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】の無実【むじつ】を証明【しょうめい】するための弁論【べんろん】を展開【てんかい】した。",
+    "meaning": "The lawyer presented an argument to prove the client's innocence."
+  },
+  {
+    "sentence": "弁護士は依頼人の無実を強く主張した。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】の無実【むじつ】を強【つよ】く主張【しゅちょう】した。",
+    "meaning": "The lawyer strongly asserted the client's innocence."
+  },
+  {
+    "sentence": "弁護士は依頼人のために弁護活動を行った。",
+    "sentence_furigana": "弁護士【べんごし】は依頼人【いらいにん】のために弁護活動【べんごかつどう】を行【おこな】った。",
+    "meaning": "The lawyer engaged in defense activities for the client."
+  },
+  {
+    "sentence": "弁護士は法律の専門家として、依頼人を効果的に弁護した。",
+    "sentence_furigana": "弁護士【べんごし】は法律【ほうりつ】の専門家【せんもんか】として、依頼人【いらいにん】を効果的【こうかてき】に弁護【べんご】した。",
+    "meaning": "As a legal expert, the lawyer effectively defended the client."
+  }
+]

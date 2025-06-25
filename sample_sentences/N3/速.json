@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "速い車が道路を走り抜けた。",
+    "sentence_furigana": "速【はや】い車【くるま】が道路【どうろ】を走【はし】り抜【ぬ】けた。",
+    "meaning": "A fast car sped down the road."
+  },
+  {
+    "sentence": "彼は非常に速いスピードで走った。",
+    "sentence_furigana": "彼【かれ】は非常【ひじょう】に速【はや】いスピードで走【はし】った。",
+    "meaning": "He ran at a very high speed."
+  },
+  {
+    "sentence": "この時計は正確で、速い時間を刻む。",
+    "sentence_furigana": "この時計【とけい】は正確【せいかく】で、速【はや】い時間【じかん】を刻【きざ】む。",
+    "meaning": "This watch is accurate and tells time fast."
+  },
+  {
+    "sentence": "速やかに返信をお願いします。",
+    "sentence_furigana": "速【すみや】やかに返信【へんしん】をお願い【ねが】いします。",
+    "meaning": "Please reply promptly."
+  },
+  {
+    "sentence": "会議の進行は予想以上に速かった。",
+    "sentence_furigana": "会議【かいぎ】の進行【しんこう】は予想以上【よそういじょう】に速【はや】かった。",
+    "meaning": "The meeting progressed faster than expected."
+  },
+  {
+    "sentence": "速度を落としてください。",
+    "sentence_furigana": "速度【そくど】を落【お】としてください。",
+    "meaning": "Please slow down."
+  },
+  {
+    "sentence": "彼は驚くほどの速さでゴールテープを切った。",
+    "sentence_furigana": "彼【かれ】は驚【おどろ】くほどの実力【じつりょく】でゴールテープを切【き】った。",
+    "meaning": "He broke the tape at a surprising speed."
+  },
+  {
+    "sentence": "最新のテクノロジーは速いペースで進化している。",
+    "sentence_furigana": "最新【さいしん】のテクノロジーは速【はや】いペースで進化【しんか】している。",
+    "meaning": "The latest technology is evolving at a rapid pace."
+  },
+  {
+    "sentence": "速達で送ったので、すぐに届くはずです。",
+    "sentence_furigana": "速達【そくたつ】で送【おく】ったので、すぐに届【とど】くはずです。",
+    "meaning": "I sent it by express mail, so it should arrive soon."
+  },
+  {
+    "sentence": "この情報は速やかに共有されるべきだ。",
+    "sentence_furigana": "この情報【じょうほう】は速【すみや】かに共有【きょうゆう】されるべきだ。",
+    "meaning": "This information should be shared quickly."
+  },
+  {
+    "sentence": "彼は記録的な速さで楽曲を覚えた。",
+    "sentence_furigana": "彼【かれ】は記録的【きろくてき】な速【はや】さで楽曲【がっきょく】を覚【おぼ】えた。",
+    "meaning": "He memorized the song at a record-breaking speed."
+  },
+  {
+    "sentence": "応答速度が速いコンピュータは効率が良い。",
+    "sentence_furigana": "応答速度【おうとうそくど】が速【はや】いコンピュータは効率【こうりつ】が良い【よい】。",
+    "meaning": "A computer with a fast response speed is efficient."
+  },
+  {
+    "sentence": "速乾性の生地は便利だ。",
+    "sentence_furigana": "速乾性【そっかんせい】の生地【きじ】は便利【べんり】だ。",
+    "meaning": "Quick-drying fabric is convenient."
+  },
+  {
+    "sentence": "この列車は非常に速い。",
+    "sentence_furigana": "この列車【れっしゃ】は非常【ひじょう】に速【はや】い。",
+    "meaning": "This train is very fast."
+  },
+  {
+    "sentence": "速やかに対応いたします。",
+    "sentence_furigana": "速【すみや】かに対応【たいおう】いたします。",
+    "meaning": "We will respond promptly."
+  },
+  {
+    "sentence": "彼の走りは群を抜いて速かった。",
+    "sentence_furigana": "彼【かれ】の走【はし】りは群【むれ】を抜【ぬ】いて速【はや】かった。",
+    "meaning": "His running was exceptionally fast."
+  },
+  {
+    "sentence": "速読術を学ぶと、情報処理能力が向上する。",
+    "sentence_furigana": "速読術【そくどくじゅつ】を学【まな】ぶと、情報処理能力【じょうほうしょりのう】が向上【こうじょう】する。",
+    "meaning": "Learning speed reading improves information processing ability."
+  },
+  {
+    "sentence": "速やかに証拠を確保してください。",
+    "sentence_furigana": "速【すみや】かに証拠【しょうこ】を確保【かくほ】してください。",
+    "meaning": "Please secure the evidence promptly."
+  },
+  {
+    "sentence": "新幹線は日本の高速鉄道の象徴だ。",
+    "sentence_furigana": "新幹線【しんかんせん】は日本【にほん】の高速鉄道【こうそくてつどう】の象徴【しょうちょう】だ。",
+    "meaning": "The Shinkansen is a symbol of Japan's high-speed rail."
+  },
+  {
+    "sentence": "速攻で点を取った。",
+    "sentence_furigana": "速攻【そっこう】で点【てん】を取【と】った。",
+    "meaning": "He scored points with a quick attack."
+  },
+  {
+    "sentence": "彼は速やかに状況を把握した。",
+    "sentence_furigana": "彼【かれ】は速【すみや】かに状況【じょうきょう】を把握【はあく】した。",
+    "meaning": "He quickly grasped the situation."
+  },
+  {
+    "sentence": "速い流れの川で泳ぐのは危険だ。",
+    "sentence_furigana": "速【はや】い流【なが】れの川【かわ】で泳【およ】ぐのは危険【きけん】だ。",
+    "meaning": "It is dangerous to swim in a fast-flowing river."
+  },
+  {
+    "sentence": "速やかな対応が求められています。",
+    "sentence_furigana": "速【すみや】かな対応【たいおう】が求【もと】められています。",
+    "meaning": "Prompt action is required."
+  },
+  {
+    "sentence": "速達便で荷物を送った。",
+    "sentence_furigana": "速達便【そくたつびん】で荷物【にもつ】を送【おく】った。",
+    "meaning": "I sent the package by express mail."
+  },
+  {
+    "sentence": "彼は驚異的な速さで成長した。",
+    "sentence_furigana": "彼【かれ】は驚異的【きょういてき】な速【はや】さで成長【せいちょう】した。",
+    "meaning": "He grew at an astonishing rate."
+  },
+  {
+    "sentence": "速やかに情報を更新してください。",
+    "sentence_furigana": "速【すみや】かに情報【じょうほう】を更新【こうしん】してください。",
+    "meaning": "Please update the information promptly."
+  },
+  {
+    "sentence": "この病気は速い速度で広がる。",
+    "sentence_furigana": "この病気【びょうき】は速【はや】い速度【そくど】で広【ひろ】がる。",
+    "meaning": "This disease spreads at a rapid pace."
+  },
+  {
+    "sentence": "彼は速さでライバルに勝った。",
+    "sentence_furigana": "彼【かれ】は速【はや】さでライバルに勝【か】った。",
+    "meaning": "He beat his rival with speed."
+  },
+  {
+    "sentence": "迅速かつ正確な作業が求められます。",
+    "sentence_furigana": "迅速【じんそく】かつ正確【せいかく】な作業【さぎょう】が求【もと】められます。",
+    "meaning": "Swift and accurate work is required."
+  },
+  {
+    "sentence": "速く走るためには、筋力をつける必要がある。",
+    "sentence_furigana": "速【はや】く走【はし】るためには、筋力【きんりょく】をつける必要【ひつよう】がある。",
+    "meaning": "To run fast, you need to build muscle strength."
+  },
+  {
+    "sentence": "速やかにご回答ください。",
+    "sentence_furigana": "速【すみや】かにご回答【ごかいとう】ください。",
+    "meaning": "Please respond promptly."
+  },
+  {
+    "sentence": "彼はかつてない速さで前進した。",
+    "sentence_furigana": "彼【かれ】はかつてない速【はや】さで前進【ぜんしん】した。",
+    "meaning": "He advanced at an unprecedented speed."
+  },
+  {
+    "sentence": "速報によると、事件は解決したようだ。",
+    "sentence_furigana": "速報【そくほう】によると、事件【じけん】は解決【かいけつ】したようだ。",
+    "meaning": "According to the breaking news, the incident seems to have been resolved."
+  },
+  {
+    "sentence": "この薬は速やかに効果を発揮する。",
+    "sentence_furigana": "この薬【くすり】は速【すみや】かに効果【こうか】を発揮【はっき】する。",
+    "meaning": "This medicine works quickly."
+  },
+  {
+    "sentence": "速歩で健康増進を図る。",
+    "sentence_furigana": "速歩【そくほ】で健康増進【けんこうぞうしん】を図【はか】る。",
+    "meaning": "Promote health by walking briskly."
+  },
+  {
+    "sentence": "速やかに次の段階に進んでください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の段階【だんかい】に進【すす】んでください。",
+    "meaning": "Please proceed to the next stage promptly."
+  },
+  {
+    "sentence": "この機械は処理速度が非常に速い。",
+    "sentence_furigana": "この機械【きかい】は処理速度【しょりそくど】が非常【ひじょう】に速【はや】い。",
+    "meaning": "This machine has a very high processing speed."
+  },
+  {
+    "sentence": "速さに命をかける。",
+    "sentence_furigana": "速【はや】さに命【いのち】をかける。",
+    "meaning": "To risk one's life for speed."
+  },
+  {
+    "sentence": "彼は速読をマスターした。",
+    "sentence_furigana": "彼【かれ】は速読【そくどく】をマスターした。",
+    "meaning": "He mastered speed reading."
+  },
+  {
+    "sentence": "速やかにご指示ください。",
+    "sentence_furigana": "速【すみや】かにご指示【ごしじ】ください。",
+    "meaning": "Please give your instructions promptly."
+  },
+  {
+    "sentence": "速さに魅了される。",
+    "sentence_furigana": "速【はや】さに魅了【みりょう】される。",
+    "meaning": "To be fascinated by speed."
+  },
+  {
+    "sentence": "速やかに必要な措置を取ります。",
+    "sentence_furigana": "速【すみや】かに必要【ひつよう】な措置【そち】を取【と】ります。",
+    "meaning": "We will take the necessary measures promptly."
+  },
+  {
+    "sentence": "このプログラムは動作速度が速い。",
+    "sentence_furigana": "このプログラムは動作速度【どうさそくど】が速【はや】い。",
+    "meaning": "This program runs fast."
+  },
+  {
+    "sentence": "速攻型のビジネスモデル。",
+    "sentence_furigana": "速攻型【そっこうがた】のビジネスモデル。",
+    "meaning": "A quick-attack business model."
+  },
+  {
+    "sentence": "速やかな出動が求められた。",
+    "sentence_furigana": "速【すみや】かな出動【しゅつどう】が求【もと】められた。",
+    "meaning": "A swift deployment was requested."
+  },
+  {
+    "sentence": "速いピッチでボールを投げる。",
+    "sentence_furigana": "速【はや】いピッチでボールを投【な】げる。",
+    "meaning": "To throw a ball at a fast pitch."
+  },
+  {
+    "sentence": "この情報伝達は速い。",
+    "sentence_furigana": "この情報伝達【じょうほうでんたつ】は速【はや】い。",
+    "meaning": "This information transmission is fast."
+  },
+  {
+    "sentence": "速やかに現地へ向かいます。",
+    "sentence_furigana": "速【すみや】かに現地【げんち】へ向【む】かいます。",
+    "meaning": "We will head to the site promptly."
+  },
+  {
+    "sentence": "彼は速乾性のある衣服を着ていた。",
+    "sentence_furigana": "彼【かれ】は速乾性【そっかんせい】のある衣服【いふく】を着【き】ていた。",
+    "meaning": "He was wearing quick-drying clothes."
+  },
+  {
+    "sentence": "速報をチェックしてください。",
+    "sentence_furigana": "速報【そくほう】をチェックしてください。",
+    "meaning": "Please check the breaking news."
+  },
+  {
+    "sentence": "速やかに調査を開始します。",
+    "sentence_furigana": "速【すみや】かに調査【ちょうさ】を開始【かいし】します。",
+    "meaning": "We will commence the investigation promptly."
+  },
+  {
+    "sentence": "速読練習で文章を読むスピードを上げる。",
+    "sentence_furigana": "速読練習【そくどくれんしゅう】で文章【ぶんしょう】を読む【よ】むスピードを上【あ】げる。",
+    "meaning": "Increase reading speed with speed reading practice."
+  },
+  {
+    "sentence": "この薬は速やかに効きます。",
+    "sentence_furigana": "この薬【くすり】は速【すみや】かに効【き】きます。",
+    "meaning": "This medicine takes effect quickly."
+  },
+  {
+    "sentence": "速やかに現場検証を行います。",
+    "sentence_furigana": "速【すみや】かに現場検証【げんばけんしょう】を行【おこな】います。",
+    "meaning": "We will conduct an on-site inspection promptly."
+  },
+  {
+    "sentence": "速い動きは予測が難しい。",
+    "sentence_furigana": "速【はや】い動【うご】きは予測【よそく】が難【むずか】しい。",
+    "meaning": "Fast movements are difficult to predict."
+  },
+  {
+    "sentence": "速やかに対応することが重要です。",
+    "sentence_furigana": "速【すみや】かに対応【たいおう】することが重要【じゅうよう】です。",
+    "meaning": "It is important to respond promptly."
+  },
+  {
+    "sentence": "速読は集中力も鍛える。",
+    "sentence_furigana": "速読【そくどく】は集中力【しゅうちゅうりょく】も鍛【きた】える。",
+    "meaning": "Speed reading also trains concentration."
+  },
+  {
+    "sentence": "速やかに情報を提供します。",
+    "sentence_furigana": "速【すみや】かに情報【じょうほう】を提供【ていきょう】します。",
+    "meaning": "We will provide the information promptly."
+  },
+  {
+    "sentence": "速射砲は連射速度が速い。",
+    "sentence_furigana": "速射砲【そくしゃほう】は連射速度【れんしゃそくど】が速【はや】い。",
+    "meaning": "A rapid-fire gun has a high rate of fire."
+  },
+  {
+    "sentence": "速やかに全力を尽くします。",
+    "sentence_furigana": "速【すみや】かに全【ぜん】力【りょく】を尽【つ】くします。",
+    "meaning": "We will do our best promptly."
+  },
+  {
+    "sentence": "速やかに次の指示をお待ちください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の指示【しじ】をお待【ま】ちください。",
+    "meaning": "Please wait for the next instructions promptly."
+  },
+  {
+    "sentence": "速さを追求する。",
+    "sentence_furigana": "速【はや】さを追求【ついきゅう】する。",
+    "meaning": "To pursue speed."
+  },
+  {
+    "sentence": "速やかに情報共有してください。",
+    "sentence_furigana": "速【すみや】かに情報共有【じょうほうきょうゆう】してください。",
+    "meaning": "Please share the information promptly."
+  },
+  {
+    "sentence": "速乾性が高い素材。",
+    "sentence_furigana": "速乾性【そっかんせい】が高【たか】い素材【そざい】。",
+    "meaning": "A material with high quick-drying properties."
+  },
+  {
+    "sentence": "速やかに結論に至った。",
+    "sentence_furigana": "速【すみや】かに結論【けつろん】に至【いた】った。",
+    "meaning": "A conclusion was reached promptly."
+  },
+  {
+    "sentence": "速やかに状況を報告してください。",
+    "sentence_furigana": "速【すみや】かに状況【じょうきょう】を報告【ほうこく】してください。",
+    "meaning": "Please report the situation promptly."
+  },
+  {
+    "sentence": "速やかに対応しますのでご安心ください。",
+    "sentence_furigana": "速【すみや】かに対応【たいおう】しますのでご安心【ごあんしん】ください。",
+    "meaning": "Please rest assured that we will respond promptly."
+  },
+  {
+    "sentence": "速さは力なり。",
+    "sentence_furigana": "速【はや】さは力【ちから】なり。",
+    "meaning": "Speed is power."
+  },
+  {
+    "sentence": "速やかに次のアクションに移ってください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】のアクションに移【うつ】ってください。",
+    "meaning": "Please move to the next action promptly."
+  },
+  {
+    "sentence": "速読で知識を吸収する。",
+    "sentence_furigana": "速読【そくどく】で知識【ちしき】を吸収【きゅうしゅう】する。",
+    "meaning": "Absorb knowledge through speed reading."
+  },
+  {
+    "sentence": "速やかに確認いたします。",
+    "sentence_furigana": "速【すみや】かに確認【かくにん】いたします。",
+    "meaning": "We will confirm promptly."
+  },
+  {
+    "sentence": "速やかに対応していただき、感謝しています。",
+    "sentence_furigana": "速【すみや】かに対応【たいおう】していただき、感謝【かんしゃ】しています。",
+    "meaning": "I am grateful for your prompt response."
+  },
+  {
+    "sentence": "このゲームは速攻が有効だ。",
+    "sentence_furigana": "このゲームは速攻【そっこう】が有効【ゆうこう】だ。",
+    "meaning": "A quick attack is effective in this game."
+  },
+  {
+    "sentence": "速やかに連絡を取り合ってください。",
+    "sentence_furigana": "速【すみや】かに連絡【れんらく】を取【と】り合【あ】ってください。",
+    "meaning": "Please contact each other promptly."
+  },
+  {
+    "sentence": "速やかな情報提供をお願いします。",
+    "sentence_furigana": "速【すみや】かな情報提供【じょうほうていきょう】をお願いします。",
+    "meaning": "Please provide the information promptly."
+  },
+  {
+    "sentence": "速さに絶対的な自信がある。",
+    "sentence_furigana": "速【はや】さに絶対的【ぜったいてき】な自信【じしん】がある。",
+    "meaning": "I have absolute confidence in my speed."
+  },
+  {
+    "sentence": "速やかに解決策を見つけ出す。",
+    "sentence_furigana": "速【すみや】かに解決策【かいけつさく】を見【み】つけ出【だ】す。",
+    "meaning": "Find a solution promptly."
+  },
+  {
+    "sentence": "彼はスピード違反で捕まった。",
+    "sentence_furigana": "彼【かれ】はスピード違反【いはん】で捕【つか】まった。",
+    "meaning": "He was caught for speeding."
+  },
+  {
+    "sentence": "速やかに次の指示を実行してください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の指示【しじ】を実行【じっこう】してください。",
+    "meaning": "Please execute the next instructions promptly."
+  },
+  {
+    "sentence": "速読技術はビジネスシーンで役立つ。",
+    "sentence_furigana": "速読技術【そくどくぎじゅつ】はビジネスシーンで役立【やくた】つ。",
+    "meaning": "Speed reading skills are useful in business."
+  },
+  {
+    "sentence": "速やかに準備を進めてください。",
+    "sentence_furigana": "速【すみや】かに準備【じゅんび】を進【すす】めてください。",
+    "meaning": "Please proceed with the preparations promptly."
+  },
+  {
+    "sentence": "速さが勝負を分ける。",
+    "sentence_furigana": "速【はや】さが勝負【しょうぶ】を分【わ】ける。",
+    "meaning": "Speed decides the outcome."
+  },
+  {
+    "sentence": "速やかにご回答いただけると幸いです。",
+    "sentence_furigana": "速【すみや】かにご回答【ごかいとう】いただけると幸【さいわ】いです。",
+    "meaning": "We would appreciate it if you could respond promptly."
+  },
+  {
+    "sentence": "速やかに問題解決に努めます。",
+    "sentence_furigana": "速【すみや】かに問題解決【もんだいかいけつ】に努【つと】めます。",
+    "meaning": "We will strive to resolve the problem promptly."
+  },
+  {
+    "sentence": "速やかに次のステップに進んでください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】のステップに進【すす】んでください。",
+    "meaning": "Please proceed to the next step promptly."
+  },
+  {
+    "sentence": "速さに魅了されて走り続ける。",
+    "sentence_furigana": "速【はや】さに魅了【みりょう】されて走【はし】り続【つづ】ける。",
+    "meaning": "Charmed by speed, they continue to run."
+  },
+  {
+    "sentence": "速やかに状況の確認を行います。",
+    "sentence_furigana": "速【すみや】かに状況【じょうきょう】の確認【かくにん】を行【おこな】います。",
+    "meaning": "We will promptly confirm the situation."
+  },
+  {
+    "sentence": "速読の練習を始めた。",
+    "sentence_furigana": "速読【そくどく】の練習【れんしゅう】を始【はじ】めた。",
+    "meaning": "I started practicing speed reading."
+  },
+  {
+    "sentence": "速やかに必要な情報を収集してください。",
+    "sentence_furigana": "速【すみや】かに必要【ひつよう】な情報【じょうほう】を収集【しゅうしゅう】してください。",
+    "meaning": "Please collect the necessary information promptly."
+  },
+  {
+    "sentence": "速やかに次の指示をお待ちしております。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の指示【しじ】をお待【ま】ちしております。",
+    "meaning": "We await your next instructions promptly."
+  },
+  {
+    "sentence": "速さに挑戦する。",
+    "sentence_furigana": "速【はや】さに挑戦【ちょうせん】する。",
+    "meaning": "To challenge speed."
+  },
+  {
+    "sentence": "速やかにご意見をお聞かせください。",
+    "sentence_furigana": "速【すみや】かにご意見【ごいけん】をお聞【き】かせください。",
+    "meaning": "Please let us have your opinion promptly."
+  },
+  {
+    "sentence": "速やかに次の手順に進んでください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の手順【てじゅん】に進【すす】んでください。",
+    "meaning": "Please proceed to the next procedure promptly."
+  },
+  {
+    "sentence": "速く学習するためには、集中力が必要だ。",
+    "sentence_furigana": "速【はや】く学習【がくしゅう】するためには、集中力【しゅうちゅうりょく】が必要【ひつよう】だ。",
+    "meaning": "Concentration is necessary to learn quickly."
+  },
+  {
+    "sentence": "速やかに対応し、問題解決を図ります。",
+    "sentence_furigana": "速【すみや】かに対応【たいおう】し、問題解決【もんだいかいけつ】を図【はか】ります。",
+    "meaning": "We will respond promptly and strive to solve the problem."
+  },
+  {
+    "sentence": "速読によって読書量を増やす。",
+    "sentence_furigana": "速読【そくどく】によって読書量【どくしょりょう】を増【ふ】やす。",
+    "meaning": "Increase reading volume through speed reading."
+  },
+  {
+    "sentence": "速やかにご連絡ください。",
+    "sentence_furigana": "速【すみや】かにご連絡【ごれんらく】ください。",
+    "meaning": "Please contact us promptly."
+  },
+  {
+    "sentence": "速やかに次の会議の準備をしてください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の会議【かいぎ】の準備【じゅんび】をしてください。",
+    "meaning": "Please prepare for the next meeting promptly."
+  },
+  {
+    "sentence": "速さは時にリスクを伴う。",
+    "sentence_furigana": "速【はや】さは時【とき】にリスクを伴【ともな】う。",
+    "meaning": "Speed sometimes involves risk."
+  },
+  {
+    "sentence": "速やかに次のアクションに移る。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】のアクションに移【うつ】る。",
+    "meaning": "Move to the next action promptly."
+  },
+  {
+    "sentence": "速やかに情報の確認をいたします。",
+    "sentence_furigana": "速【すみや】かに情報【じょうほう】の確認【かくにん】をいたします。",
+    "meaning": "We will confirm the information promptly."
+  },
+  {
+    "sentence": "速やかに次の指示を仰いでください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の指示【しじ】を仰【あお】いでください。",
+    "meaning": "Please seek the next instructions promptly."
+  },
+  {
+    "sentence": "速く動くものは捉えにくい。",
+    "sentence_furigana": "速【はや】く動【うご】くものは捉【とら】えにくい。",
+    "meaning": "It is difficult to capture things that move quickly."
+  },
+  {
+    "sentence": "速やかに次の段階に進んでください。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の段階【だんかい】に進【すす】んでください。",
+    "meaning": "Please proceed to the next stage promptly."
+  },
+  {
+    "sentence": "速やかに次の指示を実行せよ。",
+    "sentence_furigana": "速【すみや】かに次【つぎ】の指示【しじ】を実行【じっこう】せよ。",
+    "meaning": "Execute the next instructions promptly."
+  }
+]

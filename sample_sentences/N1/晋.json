@@ -1,0 +1,557 @@
+[
+  {
+    "sentence": "成績が向上し、彼は喜びました。",
+    "sentence_furigana": "成績【せいせき】が向上【こうじょう】し、彼【かれ】は喜【よろこ】びました。",
+    "meaning": "His grades improved, and he was delighted."
+  },
+  {
+    "sentence": "そのプロジェクトは順調に進んでいます。",
+    "sentence_furigana": "そのプロジェクトは順調【じゅんちょう】に進【すす】んでいます。",
+    "meaning": "That project is progressing smoothly."
+  },
+  {
+    "sentence": "歴史は常に前進するものです。",
+    "sentence_furigana": "歴史【れきし】は常【つね】に前進【ぜんしん】するものです。",
+    "meaning": "History is always something that moves forward."
+  },
+  {
+    "sentence": "彼のキャリアは着実に進歩しています。",
+    "sentence_furigana": "彼【かれ】のキャリアは着実【ちゃくちゃく】に進歩【しんぽ】しています。",
+    "meaning": "His career is steadily advancing."
+  },
+  {
+    "sentence": "技術の進歩は私たちの生活を変えました。",
+    "sentence_furigana": "技術【ぎじゅつ】の進歩【しんぽ】は私【わたし】たちの生活【せいかつ】を変【か】えました。",
+    "meaning": "Technological progress has changed our lives."
+  },
+  {
+    "sentence": "新しい時代への進出を図る。",
+    "sentence_furigana": "新【あたら】しい時代【じだい】への進出【しんしゅつ】を図【はか】る。",
+    "meaning": "To aim for an advance into a new era."
+  },
+  {
+    "sentence": "彼は困難を乗り越えて前進した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を乗【の】り越【こ】えて前進【ぜんしん】した。",
+    "meaning": "He overcame the difficulties and moved forward."
+  },
+  {
+    "sentence": "この計画はさらに進展する見込みです。",
+    "sentence_furigana": "この計画【けいかく】はさらに進展【しんてん】する見込【みこ】みです。",
+    "meaning": "This plan is expected to progress further."
+  },
+  {
+    "sentence": "社会は常に進歩を求めています。",
+    "sentence_furigana": "社会【しゃかい】は常【つね】に進歩【しんぽ】を求【もと】めています。",
+    "meaning": "Society is always seeking progress."
+  },
+  {
+    "sentence": "未来へ向かって進む勇気を持つ。",
+    "sentence_furigana": "未来【みらい】へ向【む】かって進【すす】む勇気【ゆうき】を持【も】つ。",
+    "meaning": "To have the courage to advance towards the future."
+  },
+  {
+    "sentence": "彼の進言は貴重なものだった。",
+    "sentence_furigana": "彼【かれ】の進言【しんげん】は貴重【きちょう】なものだった。",
+    "meaning": "His advice was valuable."
+  },
+  {
+    "sentence": "経済の発展は急速に進んでいます。",
+    "sentence_furigana": "経済【けいざい】の発展【はってん】は急速【きゅうそく】に進【すす】んでいます。",
+    "meaning": "Economic development is progressing rapidly."
+  },
+  {
+    "sentence": "新しい知識を吸収して成長する。",
+    "sentence_furigana": "新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】して成長【せいちょう】する。",
+    "meaning": "To absorb new knowledge and grow."
+  },
+  {
+    "sentence": "彼は大きな進歩を遂げた。",
+    "sentence_furigana": "彼【かれ】は非常【ひじょう】に進歩【しんぽ】を遂【と】げた。",
+    "meaning": "He achieved great progress."
+  },
+  {
+    "sentence": "この道はさらに奥へと進む。",
+    "sentence_furigana": "この道【みち】はさらに奥【おく】へと進【すす】む。",
+    "meaning": "This road leads further into the depths."
+  },
+  {
+    "sentence": "組織の改革は段階的に進められた。",
+    "sentence_furigana": "組織【そしき】の改革【かいかく】は段階的【だんかいてき】に進【すす】められた。",
+    "meaning": "The organizational reform was carried out in stages."
+  },
+  {
+    "sentence": "科学技術は常に進歩し続けている。",
+    "sentence_furigana": "科学技術【かがくぎじゅつ】は常【つね】に進歩【しんぽ】し続【つづ】けている。",
+    "meaning": "Science and technology are constantly continuing to progress."
+  },
+  {
+    "sentence": "彼は自分の道を前進することにした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の道【みち】を前進【ぜんしん】することにした。",
+    "meaning": "He decided to move forward on his own path."
+  },
+  {
+    "sentence": "新しいアイデアが次々と進展していく。",
+    "sentence_furigana": "新【あたら】しいアイデアが次々【つぎつぎ】に進展【しんてん】していく。",
+    "meaning": "New ideas are progressing one after another."
+  },
+  {
+    "sentence": "その知らせは彼をさらに前進させた。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】をさらに前進【ぜんしん】させた。",
+    "meaning": "That news propelled him further forward."
+  },
+  {
+    "sentence": "研究は着実に進歩しています。",
+    "sentence_furigana": "研究【けんきゅう】は着実【ちゃくちゃく】に進歩【しんぽ】しています。",
+    "meaning": "The research is progressing steadily."
+  },
+  {
+    "sentence": "目標に向かって進み続ける。",
+    "sentence_furigana": "目標【もくひょう】に向【む】かって進【すす】み続【つづ】ける。",
+    "meaning": "To continue moving towards the goal."
+  },
+  {
+    "sentence": "彼はチームを勝利へと進ませた。",
+    "sentence_furigana": "彼【かれ】はチームを勝利【しょうり】へと進【すす】ませた。",
+    "meaning": "He led the team to victory."
+  },
+  {
+    "sentence": "この技術は世界を前進させるだろう。",
+    "sentence_furigana": "この技術【ぎじゅつ】は世界【せかい】を前進【ぜんしん】させるだろう。",
+    "meaning": "This technology will likely advance the world."
+  },
+  {
+    "sentence": "困難な状況でも進むことをやめない。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも進【すす】むことをやめない。",
+    "meaning": "Not stopping moving forward even in difficult situations."
+  },
+  {
+    "sentence": "彼の功績は歴史に刻まれるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に刻【きざ】まれるだろう。",
+    "meaning": "His achievements will be etched in history."
+  },
+  {
+    "sentence": "新たな挑戦に向けて進む。",
+    "sentence_furigana": "新【あたら】たな挑戦【ちょうせん】に向【む】けて進【すす】む。",
+    "meaning": "To advance towards a new challenge."
+  },
+  {
+    "sentence": "時代の流れと共に進歩する。",
+    "sentence_furigana": "時代【じだい】の流【なが】れと共【とも】に進歩【しんぽ】する。",
+    "meaning": "To progress along with the flow of the times."
+  },
+  {
+    "sentence": "彼女の進歩は目覚ましいものがある。",
+    "sentence_furigana": "彼女【かのじょ】の進歩【しんぽ】は目覚【めざ】ましいものがある。",
+    "meaning": "Her progress is remarkable."
+  },
+  {
+    "sentence": "将来の成功のために進歩を続ける。",
+    "sentence_furigana": "将来【しょうらい】の成功【せいこう】のために進歩【しんぽ】を続【つづ】ける。",
+    "meaning": "To continue progressing for future success."
+  },
+  {
+    "sentence": "困難を乗り越えて進んでいく。",
+    "sentence_furigana": "困難【こんなん】を乗【の】り越【こ】えて進【すす】んでいく。",
+    "meaning": "To overcome difficulties and move forward."
+  },
+  {
+    "sentence": "技術革新は社会を進歩させる。",
+    "sentence_furigana": "技術革新【ぎじゅつかくしん】は社会【しゃかい】を進歩【しんぽ】させる。",
+    "meaning": "Technological innovation advances society."
+  },
+  {
+    "sentence": "私たちは常に前進しなければならない。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に前進【ぜんしん】しなければならない。",
+    "meaning": "We must always move forward."
+  },
+  {
+    "sentence": "新しい発見が科学を進歩させる。",
+    "sentence_furigana": "新【あたら】しい発見【はっけん】が科学【かがく】を進歩【しんぽ】させる。",
+    "meaning": "New discoveries advance science."
+  },
+  {
+    "sentence": "彼は自身の限界を押し進めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を押【お】し進【すす】めた。",
+    "meaning": "He pushed his own limits."
+  },
+  {
+    "sentence": "その情報はプロジェクトの進展に役立った。",
+    "sentence_furigana": "その情報【じょうほう】はプロジェクトの進展【しんてん】に役立【やくだ】った。",
+    "meaning": "That information helped the project's progress."
+  },
+  {
+    "sentence": "時代は常に進歩している。",
+    "sentence_furigana": "時代【じだい】は常【つね】に進歩【しんぽ】している。",
+    "meaning": "Times are always progressing."
+  },
+  {
+    "sentence": "目標達成のために進む。",
+    "sentence_furigana": "目標達成【もくひょうたっせい】のために進【すす】む。",
+    "meaning": "To move forward to achieve the goal."
+  },
+  {
+    "sentence": "彼の提案は新しい方向へ進むきっかけとなった。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は新【あたら】しい方向【ほうこう】へ進【すす】むきっかけとなった。",
+    "meaning": "His proposal became a trigger for moving in a new direction."
+  },
+  {
+    "sentence": "私たちは共に前進していきましょう。",
+    "sentence_furigana": "私【わたし】たちは共【とも】に前進【ぜんしん】していきましょう。",
+    "meaning": "Let's move forward together."
+  },
+  {
+    "sentence": "この研究はさらなる進歩をもたらすだろう。",
+    "sentence_furigana": "この研究【けんきゅう】はさらなる進歩【しんぽ】をもたらすだろう。",
+    "meaning": "This research will bring further progress."
+  },
+  {
+    "sentence": "彼は人生の新たな段階に進んだ。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の新たな段階【だんかい】に進【すす】んだ。",
+    "meaning": "He entered a new stage of his life."
+  },
+  {
+    "sentence": "困難を乗り越えて前に進む。",
+    "sentence_furigana": "困難【こんなん】を乗【の】り越【こ】えて前【まえ】に進【すす】む。",
+    "meaning": "To overcome difficulties and move forward."
+  },
+  {
+    "sentence": "この技術は人類の進歩に貢献する。",
+    "sentence_furigana": "この技術【ぎじゅつ】は人類【じんるい】の進歩【しんぽ】に貢献【こうけん】する。",
+    "meaning": "This technology contributes to human progress."
+  },
+  {
+    "sentence": "彼らは着実に前進しています。",
+    "sentence_furigana": "彼【かれ】らは着実【ちゃくちゃく】に進歩【しんぽ】しています。",
+    "meaning": "They are steadily advancing."
+  },
+  {
+    "sentence": "新しい時代への進む道を開拓する。",
+    "sentence_furigana": "新【あたら】しい時代【じだい】への進【すす】む道【みち】を開拓【かいたく】する。",
+    "meaning": "To pioneer a path forward into a new era."
+  },
+  {
+    "sentence": "彼の進歩は驚くべきものだ。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は驚【おどろ】くべきものだ。",
+    "meaning": "His progress is astonishing."
+  },
+  {
+    "sentence": "私たちは常に向上を目指して進む。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に向上【こうじょう】を目指【めざ】して進【すす】む。",
+    "meaning": "We always aim for improvement and move forward."
+  },
+  {
+    "sentence": "この改革は社会をより良く進歩させるだろう。",
+    "sentence_furigana": "この改革【かいかく】は社会【しゃかい】をより良【よ】く進歩【しんぽ】させるだろう。",
+    "meaning": "This reform will likely advance society for the better."
+  },
+  {
+    "sentence": "困難な状況でも諦めずに進む。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも諦【あきら】めずに進【すす】む。",
+    "meaning": "To move forward without giving up, even in difficult situations."
+  },
+  {
+    "sentence": "彼の進歩は私たちの期待を超えている。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は私【わたし】たちの期待【きたい】を越【こ】えている。",
+    "meaning": "His progress exceeds our expectations."
+  },
+  {
+    "sentence": "将来の成功に向けて進歩を続ける。",
+    "sentence_furigana": "将来【しょうらい】の成功【せいこう】に向【む】けて進歩【しんぽ】を続【つづ】ける。",
+    "meaning": "To continue progressing towards future success."
+  },
+  {
+    "sentence": "この歴史的瞬間は世界を前進させる。",
+    "sentence_furigana": "この歴史的瞬間【れきしてきしゅんかん】は世界【せかい】を前進【ぜんしん】させる。",
+    "meaning": "This historic moment advances the world."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトで前進を図っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトで前進【ぜんしん】を図【はか】っている。",
+    "meaning": "He is seeking to advance with a new project."
+  },
+  {
+    "sentence": "技術の進歩は私たちの生活を豊かにする。",
+    "sentence_furigana": "技術【ぎじゅつ】の進歩【しんぽ】は私【わたし】たちの生活【せいかつ】を豊【ゆた】かにする。",
+    "meaning": "Technological progress enriches our lives."
+  },
+  {
+    "sentence": "私たちは困難を乗り越えて前進する。",
+    "sentence_furigana": "私【わたし】たちは困難【こんなん】を乗【の】り越【こ】えて前進【ぜんしん】する。",
+    "meaning": "We overcome difficulties and move forward."
+  },
+  {
+    "sentence": "彼の進歩はチーム全体に良い影響を与えた。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】はチーム全体【ぜんたい】に良【よ】い影響【えいきょう】を与【あた】えた。",
+    "meaning": "His progress had a positive impact on the entire team."
+  },
+  {
+    "sentence": "この計画は着実に進展している。",
+    "sentence_furigana": "この計画【けいかく】は着実【ちゃくちゃく】に進展【しんてん】している。",
+    "meaning": "This plan is progressing steadily."
+  },
+  {
+    "sentence": "常に前進する精神を持つことが大切だ。",
+    "sentence_furigana": "常【つね】に前進【ぜんしん】する精神【せいしん】を持【も】つことが大切【たいせつ】だ。",
+    "meaning": "It is important to have a spirit of always moving forward."
+  },
+  {
+    "sentence": "彼の進歩は目を見張るものがある。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は目【め】を見張【みは】るものがある。",
+    "meaning": "His progress is astonishing."
+  },
+  {
+    "sentence": "新しい技術が私たちの生活を前に進める。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】が私【わたし】たちの生活【せいかつ】を前【まえ】に進【すす】める。",
+    "meaning": "New technology moves our lives forward."
+  },
+  {
+    "sentence": "困難な状況でも進歩の歩みを止めない。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも進歩【しんぽ】の歩【あゆ】みを止【と】めない。",
+    "meaning": "Not stopping the march of progress even in difficult situations."
+  },
+  {
+    "sentence": "彼は自身の能力をさらに進歩させた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】をさらに進歩【しんぽ】させた。",
+    "meaning": "He further advanced his abilities."
+  },
+  {
+    "sentence": "未来へ向かって進むことを恐れない。",
+    "sentence_furigana": "未来【みらい】へ向【む】かって進【すす】むことを恐【おそ】れない。",
+    "meaning": "Not to be afraid of moving forward towards the future."
+  },
+  {
+    "sentence": "この進歩は私たちの努力の成果です。",
+    "sentence_furigana": "この進歩【しんぽ】は私【わたし】たちの努力【どりょく】の成果【せいか】です。",
+    "meaning": "This progress is the result of our efforts."
+  },
+  {
+    "sentence": "彼は困難を乗り越えて進展を遂げた。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を乗【の】り越【こ】えて進展【しんてん】を遂【と】げた。",
+    "meaning": "He overcame difficulties and achieved progress."
+  },
+  {
+    "sentence": "社会の進歩には多くの人の協力が必要だ。",
+    "sentence_furigana": "社会【しゃかい】の進歩【しんぽ】には多【おお】くの人【ひと】の協力【きょうりょく】が必要【ひつよう】だ。",
+    "meaning": "The progress of society requires the cooperation of many people."
+  },
+  {
+    "sentence": "彼の進歩は目覚ましいもので、誰もが驚いた。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は目覚【めざ】ましいもので、誰【だれ】もが驚【おどろ】いた。",
+    "meaning": "His progress was remarkable, surprising everyone."
+  },
+  {
+    "sentence": "私たちは常に向上心を持って進むべきだ。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に向上心【こうじょうしん】を持【も】って進【すす】むべきだ。",
+    "meaning": "We should always move forward with a desire for improvement."
+  },
+  {
+    "sentence": "この進歩は過去の経験の上に成り立っている。",
+    "sentence_furigana": "この進歩【しんぽ】は過去【かこ】の経験【けいけん】の上【うえ】に成【な】り立【た】っている。",
+    "meaning": "This progress is built upon past experience."
+  },
+  {
+    "sentence": "彼は自分の進むべき道を見つけた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の進【すす】むべき道【みち】を見【み】つけた。",
+    "meaning": "He found the path he should take."
+  },
+  {
+    "sentence": "技術の進歩は新しい可能性を切り開く。",
+    "sentence_furigana": "技術【ぎじゅつ】の進歩【しんぽ】は新【あたら】しい可能性【かのうせい】を切【き】り開【ひら】く。",
+    "meaning": "Technological progress opens up new possibilities."
+  },
+  {
+    "sentence": "私たちは共に目標に向かって進む。",
+    "sentence_furigana": "私【わたし】たちは共【とも】に目標【もくひょう】に向【む】かって進【すす】む。",
+    "meaning": "We move forward together towards the goal."
+  },
+  {
+    "sentence": "彼の進歩は、多くの困難を乗り越えた結果である。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、多【おお】くの困難【こんなん】を乗【の】り越【こ】えた結果【けっか】である。",
+    "meaning": "His progress is the result of overcoming many difficulties."
+  },
+  {
+    "sentence": "この研究は、科学の進歩に大きく貢献するだろう。",
+    "sentence_furigana": "この研究【けんきゅう】は、科学【かがく】の進歩【しんぽ】に大【おお】きく貢献【こうけん】するだろう。",
+    "meaning": "This research will greatly contribute to the advancement of science."
+  },
+  {
+    "sentence": "彼は自身の限界を押し進めて成功した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を押【お】し進【すす】めて成功【せいこう】した。",
+    "meaning": "He pushed his own limits and succeeded."
+  },
+  {
+    "sentence": "新しい時代は、常に前進を求めている。",
+    "sentence_furigana": "新【あたら】しい時代【じだい】は、常【つね】に前進【ぜんしん】を求【もと】めている。",
+    "meaning": "A new era constantly demands progress."
+  },
+  {
+    "sentence": "この進歩は、私たちの未来を明るくする。",
+    "sentence_furigana": "この進歩【しんぽ】は、私【わたし】たちの未来【みらい】を明【あ】るくする。",
+    "meaning": "This progress brightens our future."
+  },
+  {
+    "sentence": "彼は、困難な状況でも進歩の手を緩めなかった。",
+    "sentence_furigana": "彼【かれ】は、困難【こんなん】な状況【じょうきょう】でも進歩【しんぽ】の手【て】を緩【ゆる】めなかった。",
+    "meaning": "He did not slacken his pace of progress even in difficult situations."
+  },
+  {
+    "sentence": "技術の進歩は、社会に大きな変化をもたらします。",
+    "sentence_furigana": "技術【ぎじゅつ】の進歩【しんぽ】は、社会【しゃかい】に大【おお】きな変化【へんか】をもたらします。",
+    "meaning": "Technological progress brings about great changes in society."
+  },
+  {
+    "sentence": "私たちは共に前進し、目標を達成しましょう。",
+    "sentence_furigana": "私【わたし】たちは共【とも】に前進【ぜんしん】し、目標【もくひょう】を達成【たっせい】しましょう。",
+    "meaning": "Let's move forward together and achieve our goals."
+  },
+  {
+    "sentence": "彼の進歩は、努力の証と言えるだろう。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、努力【どりょく】の証【あかし】と言【い】えるだろう。",
+    "meaning": "His progress can be called proof of his effort."
+  },
+  {
+    "sentence": "この進歩は、人類の歴史における重要な一歩です。",
+    "sentence_furigana": "この進歩【しんぽ】は、人類【じんるい】の歴史【れきし】における重要【じゅうよう】な一歩【いっぽ】です。",
+    "meaning": "This progress is an important step in human history."
+  },
+  {
+    "sentence": "彼は困難を乗り越え、さらに進歩を遂げた。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を乗【の】り越【こ】え、さらに進歩【しんぽ】を遂【と】げた。",
+    "meaning": "He overcame difficulties and achieved further progress."
+  },
+  {
+    "sentence": "常に前進する姿勢が、成功への鍵となる。",
+    "sentence_furigana": "常【つね】に前進【ぜんしん】する姿勢【しせい】が、成功【せいこう】への鍵【かぎ】となる。",
+    "meaning": "An attitude of always moving forward is the key to success."
+  },
+  {
+    "sentence": "この技術の進歩は、私たちの生活を大きく変えるでしょう。",
+    "sentence_furigana": "この技術【ぎじゅつ】の進歩【しんぽ】は、私【わたし】たちの生活【せいかつ】を大【おお】きく変【か】えるでしょう。",
+    "meaning": "The progress of this technology will likely change our lives greatly."
+  },
+  {
+    "sentence": "彼は自身の限界を押し進め、新たな高みを目指した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を押【お】し進【すす】め、新た【あらた】な高【たか】みを目指【めざ】した。",
+    "meaning": "He pushed his own limits and aimed for new heights."
+  },
+  {
+    "sentence": "困難な状況でも、私たちは前進し続けます。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも、私【わたし】たちは前進【ぜんしん】し続【つづ】けます。",
+    "meaning": "Even in difficult situations, we continue to move forward."
+  },
+  {
+    "sentence": "彼の進歩は、関係者全員にとって大きな喜びでした。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、関係者全員【かんけいしゃぜんいん】にとって大【おお】きな喜【よろこ】びでした。",
+    "meaning": "His progress was a great joy for everyone involved."
+  },
+  {
+    "sentence": "この進歩は、未来社会への希望を与えます。",
+    "sentence_furigana": "この進歩【しんぽ】は、未来社会【みらいしゃかい】への希望【きぼう】を与【あた】えます。",
+    "meaning": "This progress gives hope for future society."
+  },
+  {
+    "sentence": "私たちは常に向上を目指して進むことを忘れてはならない。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に向上【こうじょう】を目指【めざ】して進【すす】むことを忘【わす】れてはならない。",
+    "meaning": "We must not forget to always aim for improvement and move forward."
+  },
+  {
+    "sentence": "彼の進歩は、彼の才能と努力の賜物です。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、彼【かれ】の才能【さいのう】と努力【どりょく】の賜物【たまもの】です。",
+    "meaning": "His progress is a gift of his talent and effort."
+  },
+  {
+    "sentence": "この進歩は、過去の教訓を活かしたものです。",
+    "sentence_furigana": "この進歩【しんぽ】は、過去【かこ】の教訓【きょうくん】を活【い】かしたものです。",
+    "meaning": "This progress utilizes lessons from the past."
+  },
+  {
+    "sentence": "彼は新しい分野に進出し、成功を収めました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい分野【ぶんや】に進出【しんしゅつ】し、成功【せいこう】を収【おさ】めました。",
+    "meaning": "He advanced into a new field and achieved success."
+  },
+  {
+    "sentence": "その発見は、科学の進歩に新たな道を開いた。",
+    "sentence_furigana": "その発見【はっけん】は、科学【かがく】の進歩【しんぽ】に新た【あらた】な道【みち】を開【ひら】いた。",
+    "meaning": "That discovery opened a new path for scientific progress."
+  },
+  {
+    "sentence": "困難な状況でも、希望を持って前進する。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも、希望【きぼう】を持【も】って前進【ぜんしん】する。",
+    "meaning": "To move forward with hope, even in difficult situations."
+  },
+  {
+    "sentence": "彼の進歩は、私たちの期待を大きく上回るものでした。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、私【わたし】たちの期待【きたい】を大【おお】きく上回【うわまわ】るものでした。",
+    "meaning": "His progress greatly exceeded our expectations."
+  },
+  {
+    "sentence": "この進歩は、未来への大きな一歩です。",
+    "sentence_furigana": "この進歩【しんぽ】は、未来【みらい】への大【おお】きな一歩【いっぽ】です。",
+    "meaning": "This progress is a big step towards the future."
+  },
+  {
+    "sentence": "私たちは常に向上心を持って前進し続ける。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に向上心【こうじょうしん】を持【も】って前進【ぜんしん】し続【つづ】ける。",
+    "meaning": "We continue to move forward with a desire for improvement."
+  },
+  {
+    "sentence": "彼の進歩は、彼の飽くなき探求心の表れです。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、彼【かれ】の飽【あ】くなき探求心【たんきゅうしん】の表【あらわ】れです。",
+    "meaning": "His progress is a manifestation of his insatiable spirit of inquiry."
+  },
+  {
+    "sentence": "この進歩は、過去の努力の上に築かれたものです。",
+    "sentence_furigana": "この進歩【しんぽ】は、過去【かこ】の努力【どりょく】の上【うえ】に築【きず】かれたものです。",
+    "meaning": "This progress is built upon past efforts."
+  },
+  {
+    "sentence": "彼は自身の限界を押し進め、新たな境地を開いた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を押【お】し進【すす】め、新た【あらた】な境地【きょうち】を開【ひら】いた。",
+    "meaning": "He pushed his own limits and opened up a new realm."
+  },
+  {
+    "sentence": "私たちは常に前進し、より良い未来を創造する。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に前進【ぜんしん】し、より良【よ】い未来【みらい】を創造【そうぞう】する。",
+    "meaning": "We always move forward and create a better future."
+  },
+  {
+    "sentence": "この進歩は、社会全体の発展に貢献するだろう。",
+    "sentence_furigana": "この進歩【しんぽ】は、社会全体【しゃかぜんたい】の発展【はってん】に貢献【こうけん】するだろう。",
+    "meaning": "This progress will likely contribute to the development of society as a whole."
+  },
+  {
+    "sentence": "彼の進歩は、彼の熱意と努力の結果です。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、彼【かれ】の熱意【ねつい】と努力【どりょく】の結果【けっか】です。",
+    "meaning": "His progress is the result of his enthusiasm and effort."
+  },
+  {
+    "sentence": "私たちは共に進歩し、共に成長していきましょう。",
+    "sentence_furigana": "私【わたし】たちは共【とも】に進歩【しんぽ】し、共【とも】に成長【せいちょう】していきましょう。",
+    "meaning": "Let's progress together and grow together."
+  },
+  {
+    "sentence": "この進歩は、人類の知恵の結晶と言えるでしょう。",
+    "sentence_furigana": "この進歩【しんぽ】は、人類【じんるい】の知恵【ちえ】の結晶【けっしょう】と言【い】えるでしょう。",
+    "meaning": "This progress can be called the crystallization of human wisdom."
+  },
+  {
+    "sentence": "彼は自身の限界を押し進めることで、新たな自分を発見した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を押【お】し進【すす】めることで、新た【あらた】な自分【じぶん】を発見【はっけん】した。",
+    "meaning": "By pushing his own limits, he discovered a new self."
+  },
+  {
+    "sentence": "私たちは常に前進し、より良い世界を築き上げる。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に前進【ぜんしん】し、より良【よ】い世界【せかい】を築【きず】き上【あ】げる。",
+    "meaning": "We always move forward and build a better world."
+  },
+  {
+    "sentence": "この進歩は、過去の偉大な業績の上に成り立っています。",
+    "sentence_furigana": "この進歩【しんぽ】は、過去【かこ】の偉大【いだい】な業績【ぎょうせき】の上【うえ】に成【な】り立【た】っています。",
+    "meaning": "This progress is built upon great achievements of the past."
+  },
+  {
+    "sentence": "彼の進歩は、彼の情熱と決意の証です。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は、彼【かれ】の情熱【じょうねつ】と決意【けつい】の証【あかし】です。",
+    "meaning": "His progress is proof of his passion and determination."
+  }
+]

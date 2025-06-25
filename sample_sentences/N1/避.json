@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼は事故を避けるために早起きした。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】を避【さ】けるために早起【はやお】きした。",
+    "meaning": "He woke up early to avoid the accident."
+  },
+  {
+    "sentence": "雨を避けるために傘をさした。",
+    "sentence_furigana": "雨【あめ】を避【さ】けるために傘【かさ】をさした。",
+    "meaning": "I held an umbrella to avoid the rain."
+  },
+  {
+    "sentence": "危険な場所には近づかないように避けた。",
+    "sentence_furigana": "危険【きけん】な場所【ばしょ】には近【ちか】づかないように避【さ】けた。",
+    "meaning": "I avoided going near dangerous places."
+  },
+  {
+    "sentence": "その話題を避けるために話題を変えた。",
+    "sentence_furigana": "その話題【わだい】を避【さ】けるために話題【わだい】を変【か】えた。",
+    "meaning": "I changed the topic to avoid that subject."
+  },
+  {
+    "sentence": "彼は彼女の誘いを避けることができなかった。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の誘【さそ】いを避【さ】けることができなかった。",
+    "meaning": "He could not avoid her invitation."
+  },
+  {
+    "sentence": "衝突を避けるため、車はゆっくりと進んだ。",
+    "sentence_furigana": "衝突【しょうとつ】を避【さ】けるため、車【くるま】はゆっくりと進【すす】んだ。",
+    "meaning": "The car proceeded slowly to avoid a collision."
+  },
+  {
+    "sentence": "彼は人々の注目を避けるように振る舞った。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の注目【ちゅうもく】を避【さ】けるように振【ふ】る舞【ま】った。",
+    "meaning": "He acted in a way to avoid people's attention."
+  },
+  {
+    "sentence": "病気の感染を避けるためにマスクを着用する。",
+    "sentence_furigana": "病気【びょうき】の感染【かんせん】を避【さ】けるためにマスクを着用【ちゃくよう】する。",
+    "meaning": "Wear a mask to avoid infection of illness."
+  },
+  {
+    "sentence": "彼は困難な状況を避ける傾向がある。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】を避【さ】ける傾向【けいこう】がある。",
+    "meaning": "He tends to avoid difficult situations."
+  },
+  {
+    "sentence": "その計画は多くの問題を避けることができるだろう。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの問題【もんだい】を避【さ】けることができるだろう。",
+    "meaning": "That plan should be able to avoid many problems."
+  },
+  {
+    "sentence": "彼女は批判を避けるために、自分の意見を言わなかった。",
+    "sentence_furigana": "彼女【かのじょ】は批判【ひはん】を避【さ】けるために、自分【じぶん】の意見【いけん】を言【い】わなかった。",
+    "meaning": "She didn't express her opinion to avoid criticism."
+  },
+  {
+    "sentence": "この道を通れば、渋滞を避けることができる。",
+    "sentence_furigana": "この道【みち】を通【とお】れば、渋滞【じゅうたい】を避ける【さ】けることができる。",
+    "meaning": "If you take this road, you can avoid the traffic jam."
+  },
+  {
+    "sentence": "不必要な争いは避けるべきだ。",
+    "sentence_furigana": "不必要【ふひつよう】な争【あらそ】いは避ける【さ】けるべきだ。",
+    "meaning": "Unnecessary conflict should be avoided."
+  },
+  {
+    "sentence": "突然の雨に遭い、彼は軒下を避けた。",
+    "sentence_furigana": "突然【とつぜん】の雨【あめ】に遭【あ】い、彼【かれ】は軒下【のきした】を避【さ】けた。",
+    "meaning": "Encountering a sudden rain, he sought shelter under the eaves."
+  },
+  {
+    "sentence": "その政治家はスキャンダルを避けるため、慎重に行動した。",
+    "sentence_furigana": "その政治家【せいじか】はスキャンダルを避ける【さ】るため、慎重【しんちょう】に行動【こうどう】した。",
+    "meaning": "The politician acted cautiously to avoid scandal."
+  },
+  {
+    "sentence": "彼は人に迷惑をかけないように、いつも配慮している。",
+    "sentence_furigana": "彼【かれ】は人【ひと】に迷惑【めいわく】をかけないように、いつも配慮【はいりょ】している。",
+    "meaning": "He is always considerate so as not to bother people."
+  },
+  {
+    "sentence": "危険を避けるために、山道を通ることにした。",
+    "sentence_furigana": "危険【きけん】を避ける【さ】るために、山道【やまみち】を通る【とお】ることにした。",
+    "meaning": "To avoid danger, I decided to take the mountain road."
+  },
+  {
+    "sentence": "誤解を避けるため、はっきりと説明しました。",
+    "sentence_furigana": "誤解【ごかい】を避ける【さ】るため、はっきり সুস্পষ্ট【はっ】きり সুস্পষ্ট【すうめい】説明【せつめい】しました。",
+    "meaning": "I explained clearly to avoid misunderstanding."
+  },
+  {
+    "sentence": "彼はいつも厄介なことから逃げるようにしている。",
+    "sentence_furigana": "彼【かれ】はいつも厄介【やっかい】なことか ら逃【に】げるようにしている。",
+    "meaning": "He always tries to shirk troublesome matters."
+  },
+  {
+    "sentence": "このルートなら、渋滞を避けられるはずだ。",
+    "sentence_furigana": "このルートなら、渋滞【じゅうたい】を避【さ】けられるはずだ。",
+    "meaning": "This route should allow us to avoid the traffic jam."
+  },
+  {
+    "sentence": "彼女は多くの人々から避けられているようだ。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人々【ひとびと】か ら避【さ】けられているようだ。",
+    "meaning": "She seems to be shunned by many people."
+  },
+  {
+    "sentence": "この薬は副作用を避けるために、食後に飲むように指示されている。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】を避ける【さ】るために、食後【しょくご】に飲【の】むように指示【しじ】されている。",
+    "meaning": "This medicine is prescribed to be taken after meals to avoid side effects."
+  },
+  {
+    "sentence": "彼は、無駄な議論を避けるために、事前に資料を配布した。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な議論【ぎろん】を避ける【さ】るために、事前【じぜん】に資料【しりょう】を配布【はいふ】した。",
+    "meaning": "He distributed the materials in advance to avoid unnecessary discussion."
+  },
+  {
+    "sentence": "その地域は地震が多いので、建物の耐震性を高め、被害を避ける必要がある。",
+    "sentence_furigana": "その地域【ちいき】は地震【じしん】が多【おお】いので、建物【たてもの】の耐震性【たいしんせい】を高【たか】め、被害【ひがい】を避ける【さ】る必要【ひつよう】がある。",
+    "meaning": "Since that region has many earthquakes, it is necessary to enhance building earthquake resistance and avoid damage."
+  },
+  {
+    "sentence": "彼は会うことを避けるために、休日は外出しない。",
+    "sentence_furigana": "彼【かれ】は会う【あ】うこと を避ける【さ】るために、休日【きゅうじつ】は外【が】い出【しゅつ】しない。",
+    "meaning": "He does not go out on holidays to avoid meeting people."
+  },
+  {
+    "sentence": "この法律は、国民生活への悪影響を避けることを目的としている。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】へ の悪影響【あくえいきょう】を避ける【さ】ることを目的【もくてき】としている。",
+    "meaning": "This law aims to avoid adverse effects on the lives of citizens."
+  },
+  {
+    "sentence": "彼は将来の後悔を避けるため、今できることはすべてやる。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】の後悔【こうかい】を避ける【さ】るため、今【いま】できることはすべてやる。",
+    "meaning": "He does everything he can now to avoid future regrets."
+  },
+  {
+    "sentence": "その騒音は、作業の集中を妨げるため避けたい。",
+    "sentence_furigana": "その騒音【そうおん】は、作業【さぎょう】の集中【しゅうちゅう】を妨【さまた】げるため避ける【さ】たい。",
+    "meaning": "I want to avoid that noise because it hinders concentration on work."
+  },
+  {
+    "sentence": "私たちは衝突を避けるために、互いの意見を尊重する。",
+    "sentence_furigana": "我々【われわれ】は衝突【しょうとつ】を避ける【さ】るために、互【たが】い の意見【いけん】を尊重【そんちょう】する。",
+    "meaning": "We respect each other's opinions to avoid conflict."
+  },
+  {
+    "sentence": "彼は厄介な責任を回避しようとした。",
+    "sentence_furigana": "彼【かれ】は厄介【やっかい】な責任【せきにん】を回避【かいひ】しようとした。",
+    "meaning": "He tried to shirk the troublesome responsibility."
+  },
+  {
+    "sentence": "この機会を逃すまいと、彼は全力を尽くした。",
+    "sentence_furigana": "この機会【きかい】を逃【に】がすまいと、彼【かれ】は全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "He did his best not to miss this opportunity."
+  },
+  {
+    "sentence": "彼女は病気を避けるため、健康的な生活を送っている。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】を避ける【さ】るため、健康的【けんこうてき】な生活【せいかつ】を送【おく】っている。",
+    "meaning": "She leads a healthy life to avoid illness."
+  },
+  {
+    "sentence": "私たちは周囲との不和を避けるように努めている。",
+    "sentence_furigana": "我々【われわれ】は周囲【しゅうい】と の不和【ふわ】を避ける【さ】るように努【つと】めている。",
+    "meaning": "We strive to avoid discord with those around us."
+  },
+  {
+    "sentence": "彼は困難な交渉を避けるために、事前に準備を進めていた。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な交渉【こうしょう】を避ける【さ】るために、事前【じぜん】に準備【じゅんび】を進【すす】めていた。",
+    "meaning": "He had been preparing in advance to avoid difficult negotiations."
+  },
+  {
+    "sentence": "その店は客を避けるように静かだった。",
+    "sentence_furigana": "その店【みせ】は客【きゃく】を避ける【さ】るように静【しず】かだった。",
+    "meaning": "The shop was quiet, as if avoiding customers."
+  },
+  {
+    "sentence": "彼は、将来の苦難を避けるため、貯蓄に励んでいる。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】の苦難【くんなん】を避ける【さ】るため、貯蓄【ちょちく】に励【はげ】んでいる。",
+    "meaning": "He is diligently saving money to avoid future hardship."
+  },
+  {
+    "sentence": "この道は工事中のため、通行を避けるように指示が出ている。",
+    "sentence_furigana": "この道【みち】は工事中【こうじちゅう】のため、通行【つうこう】を避ける【さ】るように指示【しじ】が出ている。",
+    "meaning": "Traffic is instructed to avoid this road due to construction."
+  },
+  {
+    "sentence": "私たちは争いを避けるために、穏便な解決策を探る。",
+    "sentence_furigana": "我々【われわれ】は争【あらそ】いを避ける【さ】るために、穏便【おんびん】な解決策【かいけつさく】を探【さが】る。",
+    "meaning": "We seek a mild solution to avoid conflict."
+  },
+  {
+    "sentence": "彼は多くの人々から避けられて孤独だった。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】か ら避【さ】けられて孤独【こどく】だった。",
+    "meaning": "He was shunned by many people and was lonely."
+  },
+  {
+    "sentence": "この計画は多くの失敗を避けることができるだろう。",
+    "sentence_furigana": "この計画【けいかく】は多【おお】く の失敗【しっぱい】を避ける【さ】ることができるだろう。",
+    "meaning": "This plan should be able to avoid many failures."
+  },
+  {
+    "sentence": "彼は人に会うことを避けるため、いつも人通りの少ない道を選んでいた。",
+    "sentence_furigana": "彼【かれ】は人【ひと】に会う【あ】うこと を避ける【さ】るため、いつも人通【ひとどお】りの少【すく】ない道【みち】を選【え】んでいた。",
+    "meaning": "He always chose less crowded paths to avoid meeting people."
+  },
+  {
+    "sentence": "そのウイルスは接触を避けることで感染を防ぐ。",
+    "sentence_furigana": "そのウイルスは接触【せっしょく】を避ける【さ】ることで感染【かんせん】を防【ふせ】ぐ。",
+    "meaning": "Prevent infection by avoiding contact with that virus."
+  },
+  {
+    "sentence": "彼は、無駄な時間を避けるために、計画を立ててから行動する。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な時間【じかん】を避ける【さ】るために、計画【けいかく】を立【た】ててから行動【こうどう】する。",
+    "meaning": "He plans before acting to avoid wasting time."
+  },
+  {
+    "sentence": "この避難場所は、敵の攻撃を避けるのに適している。",
+    "sentence_furigana": "この避難場所【ひなんばしょ】は、敵【てき】の攻撃【こうげき】を避ける【さ】るのに適【てき】している。",
+    "meaning": "This shelter is suitable for avoiding enemy attacks."
+  },
+  {
+    "sentence": "彼は、対立を避けるために、常に譲歩する姿勢を見せていた。",
+    "sentence_furigana": "彼【かれ】は、対立【たいりつ】を避ける【さ】るために、常【つね】に譲歩【じょうほ】する姿勢【しせい】を見【み】せていた。",
+    "meaning": "He always showed a compromising attitude to avoid confrontation."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼は悲劇的な運命を避けることができた。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて、彼【かれ】は悲劇的【ひげきてき】な運命【うんめい】を避ける【さ】ることができた。",
+    "meaning": "Upon hearing the news, he was able to avert a tragic fate."
+  },
+  {
+    "sentence": "彼女は批判を避けるために、控えめな服装をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は批判【ひはん】を避ける【さ】るために、控え【ひか】めな服装【ふくそう】をしていた。",
+    "meaning": "She wore modest clothing to avoid criticism."
+  },
+  {
+    "sentence": "その法律は、国民の権利を保護し、不利益を避けることを目的としています。",
+    "sentence_furigana": "その法律【ほうりつ】は、国民【こくみん】の権利【けんり】を保護【ほご】し、不利益【ふりえき】を避ける【さ】ることを目的【もくてき】としています。",
+    "meaning": "The law aims to protect citizens' rights and avoid disadvantages."
+  },
+  {
+    "sentence": "彼は、無駄な買い物を避けるため、リストを作成してから買い物に行く。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な買物【かいもの】を避ける【さ】るため、リストを作成【さくせい】してから買物【かいもの】に行【い】く。",
+    "meaning": "He makes a list before shopping to avoid unnecessary purchases."
+  },
+  {
+    "sentence": "このワクチンは、重症化のリスクを避けるのに役立ちます。",
+    "sentence_furigana": "このワクチンは、重症化【じゅうしょうか】のリスクを避ける【さ】るのに役立【やくた】ちます。",
+    "meaning": "This vaccine helps to avoid the risk of developing severe symptoms."
+  },
+  {
+    "sentence": "彼は、人々からの同情を避けるため、普段は明るく振る舞っている。",
+    "sentence_furigana": "彼【かれ】は、人々【ひとびと】か ら の同情【どうじょう】を避ける【さ】るため、普段【ふだん】は明【あか】るく振る舞【ふるま】っている。",
+    "meaning": "He usually acts cheerful to avoid people's sympathy."
+  },
+  {
+    "sentence": "その計画は、多くの論争を避けるために、さらに検討されるべきだ。",
+    "sentence_furigana": "その計画【けいかく】は、多【おお】く の論争【ろんそう】を避ける【さ】るために、さらに検討【けんとう】されるべきだ。",
+    "meaning": "The plan should be further examined to avoid much controversy."
+  },
+  {
+    "sentence": "彼女は、嫌な思い出を避けるように、その場所には近づかなかった。",
+    "sentence_furigana": "彼女【かのじょ】は、嫌【いや】な思【おも】い出【で】を避ける【さ】るように、その場所【ばしょ】には近【ちか】づかなかった。",
+    "meaning": "She did not go near that place, as if to avoid unpleasant memories."
+  },
+  {
+    "sentence": "彼は、無駄な労力を避けるため、効率的な方法を探求する。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な労力【ろうりょく】を避ける【さ】るため、効率的【こうりつてき】な方法【ほうほう】を探求【たんきゅう】する。",
+    "meaning": "He seeks efficient methods to avoid wasted effort."
+  },
+  {
+    "sentence": "この薬は副作用を防ぐため、用法・用量を守ってください。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】を防ぐ【ふせ】ぐため、用法【ようほう】・用量【ようりょう】を守【まも】ってください。",
+    "meaning": "Please follow the dosage instructions to avoid side effects."
+  },
+  {
+    "sentence": "彼は、周囲からの孤立を避けるために、積極的にコミュニケーションを図った。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】か ら の孤立【こりつ】を避ける【さ】るために、積極的【せっきょくてき】にコミュニケーションを図【はか】った。",
+    "meaning": "He actively communicated to avoid isolation from others."
+  },
+  {
+    "sentence": "その通知は、緊急事態を避けるための警告でした。",
+    "sentence_furigana": "その通知【つうち】は、緊急事態【きんきゅうじたい】を避ける【さ】るための警告【けいこく】でした。",
+    "meaning": "That notice was a warning to avert an emergency."
+  },
+  {
+    "sentence": "彼は、不要な争いを避けるため、意見が合わないときは黙っていた。",
+    "sentence_furigana": "彼【かれ】は、不要【ふよう】な争【あらそ】いを避ける【さ】るため、意見【いけん】が合【あ】わないとき は黙【だま】っていた。",
+    "meaning": "He remained silent when he disagreed to avoid unnecessary conflict."
+  },
+  {
+    "sentence": "このフィルターは、不純物を避けることで、水の品質を保ちます。",
+    "sentence_furigana": "このフィルターは、不純物【ふじゅんぶつ】を避ける【さ】ることで、水【みず】の品質【ひんしつ】を保【たも】ちます。",
+    "meaning": "This filter maintains water quality by avoiding impurities."
+  },
+  {
+    "sentence": "彼は、過度な期待を避けるため、自分の能力を低く見積もっていた。",
+    "sentence_furigana": "彼【かれ】は、過度【かど】な期待【きたい】を避ける【さ】るため、自分【じぶん】の能力【のうりょく】を低【ひく】く見積【みつ】もっていた。",
+    "meaning": "He underestimated his abilities to avoid excessive expectations."
+  },
+  {
+    "sentence": "この法律は、国民の安全を確保し、危害を避けることを目指しています。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民【こくみん】の安全【あんぜん】を確保【かくほ】し、危害【きがい】を避ける【さ】ることを目指【めざ】しています。",
+    "meaning": "This law aims to ensure the safety of citizens and avoid harm."
+  },
+  {
+    "sentence": "彼は、周囲の冷ややかな視線を避けるように下を向いた。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】か ら の冷【ひ】ややかな視線【しせん】を避ける【さ】るように下【した】を向【む】いた。",
+    "meaning": "He looked down as if to avoid the cold stares of those around him."
+  },
+  {
+    "sentence": "その計画は、実行段階での問題を避けるために、綿密に練られた。",
+    "sentence_furigana": "その計画【けいかく】は、実行段階【じっこうだんかい】での問題【もんだい】を避ける【さ】るために、綿密【めんみつ】に練【ね】られた。",
+    "meaning": "The plan was meticulously developed to avoid problems during the execution phase."
+  },
+  {
+    "sentence": "彼は、無駄な心配を避けるため、事前に可能な限り情報を集めた。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な心配【しんぱい】を避ける【さ】るため、事前【じぜん】に可能【かのう】な限【かぎ】り情報【じょうほう】を集【あつ】めた。",
+    "meaning": "He gathered as much information as possible in advance to avoid unnecessary worry."
+  },
+  {
+    "sentence": "この装置は、過負荷を避けるように設計されている。",
+    "sentence_furigana": "この装置【そうち】は、過負荷【かふか】を避ける【さ】るように設計【せっけい】されている。",
+    "meaning": "This device is designed to avoid overload."
+  },
+  {
+    "sentence": "彼は、不必要な同情を避けるため、いつも強気な態度でいる。",
+    "sentence_furigana": "彼【かれ】は、不要【ふよう】な同情【どうじょう】を避ける【さ】るため、いつも強気【つよき】な態度【たいど】でいる。",
+    "meaning": "He always acts tough to avoid unnecessary sympathy."
+  },
+  {
+    "sentence": "その決断は、将来の損失を避けるために不可欠だった。",
+    "sentence_furigana": "その決断【けつだん】は、将来【しょうらい】 の損失【そんしつ】を避ける【さ】るために不可欠【ふかけつ】だった。",
+    "meaning": "That decision was essential to avoid future losses."
+  },
+  {
+    "sentence": "彼は、不快な思いを避けるため、人々の噂話には耳を貸さなかった。",
+    "sentence_furigana": "彼【かれ】は、不快【ふかい】な思【おも】い を避ける【さ】るため、人々【ひとびと】の噂話【うわさばなし】には耳【みみ】を貸【か】さなかった。",
+    "meaning": "He did not listen to people's gossip to avoid feeling uncomfortable."
+  },
+  {
+    "sentence": "このシステムは、不正アクセスを避けるための高度なセキュリティを備えている。",
+    "sentence_furigana": "このシステムは、不正アクセス【ふせい】を避ける【さ】るための高度【こうど】なセキュリティを備【そな】えている。",
+    "meaning": "This system has advanced security to avoid unauthorized access."
+  },
+  {
+    "sentence": "彼は、親しい人々を巻き込むことを避けるために、秘密裏に調査を進めた。",
+    "sentence_furigana": "彼【かれ】は、親【ちか】しい人々【ひとびと】を巻【ま】き込【こ】むこと を避ける【さ】るために、秘密裏【ひみつり】に調査【ちょうさ】を進【すす】めた。",
+    "meaning": "He conducted the investigation secretly to avoid involving his close ones."
+  },
+  {
+    "sentence": "その法律は、差別を避けるための公平な社会を目指している。",
+    "sentence_furigana": "その法律【ほうりつ】は、差別【さべつ】を避ける【さ】るための公平【こうへい】な社会【しゃかい】を目指【めざ】している。",
+    "meaning": "The law aims for a fair society to avoid discrimination."
+  },
+  {
+    "sentence": "彼は、感情的な対立を避けるため、冷静に事実を述べた。",
+    "sentence_furigana": "彼【かれ】は、感情的【かんじょうてき】な対立【たいりつ】を避ける【さ】るため、冷静【れいせい】に事実【じじつ】を述【の】べた。",
+    "meaning": "He stated the facts calmly to avoid emotional conflict."
+  },
+  {
+    "sentence": "この地域では、竜巻の接近を避けるため、避難勧告が出された。",
+    "sentence_furigana": "この地域【ちいき】では、竜巻【たつまき】の接近【せっきん】を避ける【さ】るため、避難勧告【ひなんかんこく】が出【だ】された。",
+    "meaning": "In this area, an evacuation advisory was issued to avoid the approach of a tornado."
+  },
+  {
+    "sentence": "彼は、無駄な論争を避けるために、常に相手の立場を理解しようと努めた。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な論争【ろんそう】を避ける【さ】るために、常【つね】に相手【あいて】の立場【たちば】を理解【りかい】しようと努【つと】めた。",
+    "meaning": "He always tried to understand the other person's position to avoid unnecessary disputes."
+  },
+  {
+    "sentence": "その知らせは、彼をさらなる苦境から避けるための警告であった。",
+    "sentence_furigana": "その知【し】らせは、彼【かれ】をさらなる苦境【くきょう】か ら避ける【さ】るための警告【けいこく】であった。",
+    "meaning": "The news was a warning to help him avert further hardship."
+  },
+  {
+    "sentence": "彼は、自分の意見を押し付けることを避けるため、相手の意見を尊重した。",
+    "sentence_furigana": "彼【かれ】は、自分【じぶん】の意見【いけん】を押【お】し付【つ】けること を避ける【さ】るため、相手【あいて】の意見【いけん】を尊重【そんちょう】した。",
+    "meaning": "He respected the other person's opinion to avoid imposing his own."
+  },
+  {
+    "sentence": "この緊急車両は、交通渋滞を避けるため、専用レーンを使用します。",
+    "sentence_furigana": "この緊急車両【きんきゅうしゃりょう】は、交通渋滞【こうつうじゅうたい】を避ける【さ】るため、専用【せんよう】レーンを使【つか】います。",
+    "meaning": "This emergency vehicle uses a dedicated lane to avoid traffic congestion."
+  },
+  {
+    "sentence": "彼は、周囲の混乱を避けるため、冷静沈着に行動した。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】 の混乱【こんらん】を避ける【さ】るため、冷静沈着【れいせいじんちゃく】に行動【こうどう】した。",
+    "meaning": "He acted calmly and collectedly to avoid confusion around him."
+  },
+  {
+    "sentence": "その知らせは、最悪の事態を避けるための最後のチャンスだった。",
+    "sentence_furigana": "その知【し】らせは、最悪【さいあく】の事態【じたい】を避ける【さ】るための最後【さいご】のチャンスだった。",
+    "meaning": "That news was the last chance to avert the worst-case scenario."
+  },
+  {
+    "sentence": "彼は、無駄な投資を避けるため、事前に市場調査を徹底した。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な投資【とうし】を避ける【さ】るため、事前【じぜん】に市場調査【しじょうちょうさ】を徹底【てってい】した。",
+    "meaning": "He conducted thorough market research in advance to avoid wasted investment."
+  },
+  {
+    "sentence": "この政策は、経済的な混乱を避けることを目的としています。",
+    "sentence_furigana": "この政策【せいさく】は、経済的【けいざいてき】な混乱【こんらん】を避ける【さ】ることを目的【もくてき】としています。",
+    "meaning": "This policy aims to avoid economic disruption."
+  },
+  {
+    "sentence": "彼は、他人からの干渉を避けるため、一人で問題を解決しようとした。",
+    "sentence_furigana": "彼【かれ】は、他人【たにん】か ら の干渉【かんしょう】を避ける【さ】るため、一人【ひとり】で問題【もんだい】を解決【かいけつ】しようとした。",
+    "meaning": "He tried to solve the problem alone to avoid interference from others."
+  },
+  {
+    "sentence": "その警告は、危険な状況を避けるためのものでした。",
+    "sentence_furigana": "その警告【けいこく】は、危険【きけん】な状況【じょうきょう】を避ける【さ】るためのものでした。",
+    "meaning": "That warning was meant to help avert a dangerous situation."
+  },
+  {
+    "sentence": "彼は、周囲の好奇の目を避けるように、帽子を目深にかぶっていた。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】 の好奇【こうき】の目【め】を避ける【さ】るように、帽子【ぼうし】を目深【まぶか】にかぶっていた。",
+    "meaning": "He wore his hat pulled low, as if to avoid the curious eyes of those around him."
+  },
+  {
+    "sentence": "この訓練は、実戦における危険を避けるためのものです。",
+    "sentence_furigana": "この訓練【くんれん】は、実戦【じっせん】における危険【きけん】を避ける【さ】るためのものです。",
+    "meaning": "This training is designed to help avoid dangers in actual combat."
+  },
+  {
+    "sentence": "彼は、無駄なエネルギー消費を避けるため、スマートな生活を心がけている。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】なエネルギー消費【しょうひ】を避ける【さ】るため、スマートな生活【せいかつ】を心【こころ】がけている。",
+    "meaning": "He strives for a smart lifestyle to avoid wasting energy."
+  },
+  {
+    "sentence": "その変化は、潜在的なリスクを避けるための予防措置でした。",
+    "sentence_furigana": "その変化【へんか】は、潜在的【せんざいてき】なリスクを避ける【さ】るための予防措置【よぼうそち】でした。",
+    "meaning": "That change was a precautionary measure to avoid potential risks."
+  },
+  {
+    "sentence": "彼は、無意味な退屈を避けるため、常に新しいことに挑戦していた。",
+    "sentence_furigana": "彼【かれ】は、無意味【むいみ】な退屈【たいくつ】を避ける【さ】るため、常【つね】に新【あたら】しいこと に挑戦【ちょうせん】していた。",
+    "meaning": "He always challenged himself with new things to avoid pointless boredom."
+  },
+  {
+    "sentence": "この法律は、不正行為を避けるための厳格な規定を設けている。",
+    "sentence_furigana": "この法律【ほうりつ】は、不正行為【ふせいこうい】を避ける【さ】るための厳格【げんかく】な規定【きてい】を設【もう】けている。",
+    "meaning": "This law provides strict regulations to avoid fraudulent activities."
+  },
+  {
+    "sentence": "彼は、自身の失敗を避けるため、細心の注意を払って作業を進めた。",
+    "sentence_furigana": "彼【かれ】は、自分【じぶん】の失敗【しっぱい】を避ける【さ】るため、細心【さいしん】の注意【ちゅうい】を払【はら】って作業【さぎょう】を進【すす】めた。",
+    "meaning": "He proceeded with the work with utmost care to avoid his own failures."
+  },
+  {
+    "sentence": "その報告書は、将来の誤解を避けるために、詳細なデータを含んでいた。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は、将来【しょうらい】 の誤解【ごかい】を避ける【さ】るために、詳細【しょうさい】なデータを含【ふく】んでいた。",
+    "meaning": "The report included detailed data to avoid future misunderstandings."
+  },
+  {
+    "sentence": "彼は、周囲との軋轢を避けるため、常に穏やかな言葉遣いを心がけていた。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】と の軋轢【あつれき】を避ける【さ】るため、常【つね】に穏和【おんわ】な言葉遣【ことばづか】いを心【こころ】がけていた。",
+    "meaning": "He always tried to use gentle language to avoid friction with others."
+  },
+  {
+    "sentence": "このシステムは、データの破損を避けるためのバックアップ機能を備えています。",
+    "sentence_furigana": "このシステムは、データ の破損【はそん】を避ける【さ】るためのバックアップ機能【きのう】を備【そな】えています。",
+    "meaning": "This system has a backup function to avoid data corruption."
+  },
+  {
+    "sentence": "彼は、無駄な時間を過ごすことを避けるため、計画的に行動する。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な時間【じかん】を過【す】ごすこと を避ける【さ】るため、計画的【けいかくてき】に行動【こうどう】する。",
+    "meaning": "He acts according to plan to avoid wasting time."
+  },
+  {
+    "sentence": "そのニュースは、国民の不安を避けるための情報提供でした。",
+    "sentence_furigana": "そのニュースは、国民【こくみん】の不安【ふあん】を避ける【さ】るための情報提供【じょうほうていきょう】でした。",
+    "meaning": "That news was information provided to avoid public anxiety."
+  },
+  {
+    "sentence": "彼は、批判されることを避けるため、常に慎重な発言を心がけていた。",
+    "sentence_furigana": "彼【かれ】は、批判【ひはん】されること を避ける【さ】るため、常【つね】に慎重【しんちょう】な発言【はつげん】を心【こころ】がけていた。",
+    "meaning": "He always tried to speak cautiously to avoid being criticized."
+  },
+  {
+    "sentence": "この安全対策は、事故を避けるために重要です。",
+    "sentence_furigana": "この安全対策【あんぜんたいさく】は、事故【じこ】を避ける【さ】るために重要【じゅうよう】です。",
+    "meaning": "These safety measures are important to avoid accidents."
+  },
+  {
+    "sentence": "彼は、無駄な論争を避けるために、議論の中心にはあまり関わらなかった。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な論争【ろんそう】を避ける【さ】るために、議論【ぎろん】の中心【ちゅうしん】にはあまり関【かか】わらなかった。",
+    "meaning": "He didn't get too involved in the core of the discussion to avoid pointless arguments."
+  },
+  {
+    "sentence": "その警告は、予期せぬ事態を避けるためのものであった。",
+    "sentence_furigana": "その警告【けいこく】は、予期せぬ【よきせぬ】事態【じたい】を避ける【さ】るためのものであった。",
+    "meaning": "That warning was meant to help avert an unexpected situation."
+  },
+  {
+    "sentence": "彼は、周囲からの誤解を避けるため、正直に自分の気持ちを伝えた。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】か ら の誤解【ごかい】を避ける【さ】るため、正直【しょうじき】に自分【じぶん】の気持【きも】ちを伝【つた】えた。",
+    "meaning": "He honestly conveyed his feelings to avoid misunderstanding from others."
+  },
+  {
+    "sentence": "このマニュアルは、使用上の問題を避けるためのガイドラインを提供しています。",
+    "sentence_furigana": "このマニュアルは、使用上【しようじょう】の 問題【もんだい】を避ける【さ】るためのガイドラインを提供【ていきょう】しています。",
+    "meaning": "This manual provides guidelines to avoid usage problems."
+  },
+  {
+    "sentence": "彼は、将来の後悔を避けるため、常に最善を尽くすことを誓った。",
+    "sentence_furigana": "彼【かれ】は、将来【しょうらい】 の後悔【こうかい】を避ける【さ】るため、常【つね】に最善【さいぜん】を尽【つ】くすこと を誓【ちか】った。",
+    "meaning": "He vowed to always do his best to avoid future regrets."
+  },
+  {
+    "sentence": "その通知は、パニックを避けるための冷静な対応を促すものだった。",
+    "sentence_furigana": "その通知【つうち】は、パニックを避ける【さ】るための冷静【れいせい】な対応【たいおう】を促【うな】がすものだった。",
+    "meaning": "That notice urged a calm response to avert panic."
+  },
+  {
+    "sentence": "彼は、不要なトラブルを避けるため、近所の人々とは良い関係を保っていた。",
+    "sentence_furigana": "彼【かれ】は、不要【ふよう】なトラブルを避ける【さ】るため、近所【きんじょ】の人々【ひとびと】と は良【よ】い関係【かんけい】を保【たも】っていた。",
+    "meaning": "He maintained good relations with his neighbors to avoid unnecessary trouble."
+  },
+  {
+    "sentence": "この防火設備は、火災の被害を避けるために設置されています。",
+    "sentence_furigana": "この防火設備【ぼうかせつび】は、火災【かさい】 の被害【ひがい】を避ける【さ】るために設置【せっち】されています。",
+    "meaning": "This fire prevention equipment is installed to avoid fire damage."
+  },
+  {
+    "sentence": "彼は、無駄な努力を避けるため、常に最善の戦略を練っていた。",
+    "sentence_furigana": "彼【かれ】は、無駄【むだ】な努力【どりょく】を避ける【さ】るため、常【つね】に最善【さいぜん】の戦略【せんりゃく】を練っていた。",
+    "meaning": "He always devised the best strategy to avoid wasted effort."
+  }
+]

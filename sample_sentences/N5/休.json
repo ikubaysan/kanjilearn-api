@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "今日休みましょう。",
+    "sentence_furigana": "今日【きょう】休み【やす】ましょう。",
+    "meaning": "Let's rest today."
+  },
+  {
+    "sentence": "明日は休みです。",
+    "sentence_furigana": "明日【あした】は休み【やす】です。",
+    "meaning": "Tomorrow is a day off."
+  },
+  {
+    "sentence": "彼は会社を休んだ。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】を休【やす】んだ。",
+    "meaning": "He took the day off from work."
+  },
+  {
+    "sentence": "図書館は月曜日休みです。",
+    "sentence_furigana": "図書館【としょかん】は月曜日【げつようび】休み【やす】です。",
+    "meaning": "The library is closed on Mondays."
+  },
+  {
+    "sentence": "しばらく休んでください。",
+    "sentence_furigana": "しばらく休【やす】んでください。",
+    "meaning": "Please rest for a while."
+  },
+  {
+    "sentence": "休養が必要です。",
+    "sentence_furigana": "休【きゅう】ようが必要【ひつよう】です。",
+    "meaning": "Rest is necessary."
+  },
+  {
+    "sentence": "祝日なので休みです。",
+    "sentence_furigana": "祝日【しゅくじつ】なので休み【やす】です。",
+    "meaning": "It's a holiday, so it's a day off."
+  },
+  {
+    "sentence": "彼は病気で休みました。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】で休み【やす】ました。",
+    "meaning": "He was absent due to illness."
+  },
+  {
+    "sentence": "連休を利用して旅行した。",
+    "sentence_furigana": "連休【れんきゅう】を利用【りよう】して旅行【りょこう】した。",
+    "meaning": "I took advantage of the consecutive holidays to travel."
+  },
+  {
+    "sentence": "今日はゆっくり休みます。",
+    "sentence_furigana": "今日【きょう】はゆっくり休【やす】みます。",
+    "meaning": "I will rest well today."
+  },
+  {
+    "sentence": "彼は定年退職した。",
+    "sentence_furigana": "彼【かれ】は定年退職【ていねんたいしょく】した。",
+    "meaning": "He retired at the age of retirement."
+  },
+  {
+    "sentence": "退職後は趣味に没頭する。",
+    "sentence_furigana": "退職【たいしょく】後【ご】は趣味【しゅみ】に没頭【ぼっとう】する。",
+    "meaning": "After retirement, I will immerse myself in my hobbies."
+  },
+  {
+    "sentence": "会社の休暇制度について教えてください。",
+    "sentence_furigana": "会社【かいしゃ】の休暇【きゅうか】制度【せいど】について教【おし】えてください。",
+    "meaning": "Please tell me about the company's leave system."
+  },
+  {
+    "sentence": "休暇を取ってリフレッシュしたい。",
+    "sentence_furigana": "休暇【きゅうか】を取【と】ってリフレッシュしたい。",
+    "meaning": "I want to take a vacation and refresh myself."
+  },
+  {
+    "sentence": "休日に何をしますか。",
+    "sentence_furigana": "休日【きゅうじつ】に何【なに】をしますか。",
+    "meaning": "What do you do on your days off?"
+  },
+  {
+    "sentence": "睡眠不足で疲れている。",
+    "sentence_furigana": "睡眠不足【すいみんぶそく】で疲【つか】れている。",
+    "meaning": "I am tired due to lack of sleep."
+  },
+  {
+    "sentence": "十分な休息が必要です。",
+    "sentence_furigana": "十分【じゅうぶん】な休息【きゅうそく】が必要【ひつよう】です。",
+    "meaning": "Sufficient rest is necessary."
+  },
+  {
+    "sentence": "彼は早めに退社した。",
+    "sentence_furigana": "彼【かれ】は早【はや】めに退社【たいしゃ】した。",
+    "meaning": "He left the company early."
+  },
+  {
+    "sentence": "休館日を確認してください。",
+    "sentence_furigana": "休館日【きゅうかんび】を確認【かくにん】してください。",
+    "meaning": "Please check the closing day."
+  },
+  {
+    "sentence": "連休はどこかへ行きましたか。",
+    "sentence_furigana": "連休【れんきゅう】はどこかへ行【い】きましたか。",
+    "meaning": "Did you go somewhere during the consecutive holidays?"
+  },
+  {
+    "sentence": "今日は仕事を休みます。",
+    "sentence_furigana": "今日【きょう】は仕事【しごと】を休【やす】みます。",
+    "meaning": "I will take the day off from work today."
+  },
+  {
+    "sentence": "ゆっくり休んでくださいね。",
+    "sentence_furigana": "ゆっくり休【やす】んでくださいね。",
+    "meaning": "Please rest well."
+  },
+  {
+    "sentence": "彼は休暇申請を出した。",
+    "sentence_furigana": "彼【かれ】は休暇申請【きゅうかしんせい】を出【だ】した。",
+    "meaning": "He submitted a leave request."
+  },
+  {
+    "sentence": "夏休みはいつですか。",
+    "sentence_furigana": "夏休【なつやす】みはいつですか。",
+    "meaning": "When is the summer vacation?"
+  },
+  {
+    "sentence": "体調が悪いので休みます。",
+    "sentence_furigana": "体調【たいちょう】が悪【わる】いので休【やす】みます。",
+    "meaning": "I will take a day off because I am not feeling well."
+  },
+  {
+    "sentence": "休日に家で過ごす。",
+    "sentence_furigana": "休日【きゅうじつ】に家【いえ】で過【す】ごす。",
+    "meaning": "Spend the day off at home."
+  },
+  {
+    "sentence": "彼は休暇を満喫した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を満喫【まんきつ】した。",
+    "meaning": "He fully enjoyed his vacation."
+  },
+  {
+    "sentence": "休息を取って元気になった。",
+    "sentence_furigana": "休息【きゅうそく】を取【と】って元気【げんき】になった。",
+    "meaning": "I took a rest and became energetic."
+  },
+  {
+    "sentence": "休む間もなく働いた。",
+    "sentence_furigana": "休【やす】む間【ま】もなく働【はたら】いた。",
+    "meaning": "I worked without a break."
+  },
+  {
+    "sentence": "彼は休暇で海外へ行った。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】で海外【かいがい】へ行【い】った。",
+    "meaning": "He went abroad on vacation."
+  },
+  {
+    "sentence": "休日は友達と会うことが多い。",
+    "sentence_furigana": "休日【きゅうじつ】は友達【ともだち】と会【あ】うことが多【おお】い。",
+    "meaning": "I often meet friends on my days off."
+  },
+  {
+    "sentence": "彼は退職後も働いている。",
+    "sentence_furigana": "彼【かれ】は退職【たいしょく】後【ご】も働【はたら】いている。",
+    "meaning": "He is still working after retirement."
+  },
+  {
+    "sentence": "休憩時間にコーヒーを飲む。",
+    "sentence_furigana": "休憩時間【きゅうけいじかん】にコーヒーを飲【の】む。",
+    "meaning": "Drink coffee during the break time."
+  },
+  {
+    "sentence": "休みの日には趣味を楽しむ。",
+    "sentence_furigana": "休【やす】みの日【ひ】には趣味【しゅみ】を楽【たの】しむ。",
+    "meaning": "Enjoy hobbies on days off."
+  },
+  {
+    "sentence": "彼は休暇を延長した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を延長【えんちょう】した。",
+    "meaning": "He extended his leave."
+  },
+  {
+    "sentence": "休診日を確認してください。",
+    "sentence_furigana": "休診日【きゅうしんび】を確認【かくにん】してください。",
+    "meaning": "Please check the non-consultation day."
+  },
+  {
+    "sentence": "彼は定年まで働き続けた。",
+    "sentence_furigana": "彼【かれ】は定年【ていねん】まで働【はたら】き続【つづ】けた。",
+    "meaning": "He continued to work until retirement age."
+  },
+  {
+    "sentence": "休むことは大切です。",
+    "sentence_furigana": "休【やす】むことは大切【たいせつ】です。",
+    "meaning": "Resting is important."
+  },
+  {
+    "sentence": "彼は休暇を取り損ねた。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を取【と】り損【そこ】ねた。",
+    "meaning": "He missed taking his vacation."
+  },
+  {
+    "sentence": "休まずに勉強した。",
+    "sentence_furigana": "休【やす】まずに勉強【べんきょう】した。",
+    "meaning": "I studied without taking a break."
+  },
+  {
+    "sentence": "連休中は家でゆっくり過ごした。",
+    "sentence_furigana": "連休【れんきゅう】中【ちゅう】は家【いえ】でゆっくり過【す】ごした。",
+    "meaning": "I spent the consecutive holidays relaxing at home."
+  },
+  {
+    "sentence": "彼は休暇を返上した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を返上【へんじょう】した。",
+    "meaning": "He gave up his vacation."
+  },
+  {
+    "sentence": "この店は年中無休です。",
+    "sentence_furigana": "この店【みせ】は年中無休【ねんじゅうむきゅう】です。",
+    "meaning": "This shop is open all year round."
+  },
+  {
+    "sentence": "休止期間を設けました。",
+    "sentence_furigana": "休止期間【きゅう pagkoda】を設【もう】けました。",
+    "meaning": "We set a suspension period."
+  },
+  {
+    "sentence": "彼は休暇でリフレッシュした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】でリフレッシュした。",
+    "meaning": "He refreshed himself on vacation."
+  },
+  {
+    "sentence": "長期休暇を取りたい。",
+    "sentence_furigana": "長期休暇【ちょうききゅうか】を取【と】りたい。",
+    "meaning": "I want to take a long vacation."
+  },
+  {
+    "sentence": "休日の過ごし方を教えてください。",
+    "sentence_furigana": "休日【きゅうじつ】の過【す】ごし方【かた】を教【おし】えてください。",
+    "meaning": "Please tell me how to spend my days off."
+  },
+  {
+    "sentence": "彼は休暇を計画している。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を計画【けいかく】している。",
+    "meaning": "He is planning his vacation."
+  },
+  {
+    "sentence": "休養を取るために旅行に出かけた。",
+    "sentence_furigana": "休【きゅう】ようを取【と】るために旅行【りょこう】に出【で】かけた。",
+    "meaning": "I went on a trip to get some rest."
+  },
+  {
+    "sentence": "彼は休暇を満喫している。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を満喫【まんきつ】している。",
+    "meaning": "He is fully enjoying his vacation."
+  },
+  {
+    "sentence": "休業中のため、ご了承ください。",
+    "sentence_furigana": "休業中【きゅうぎょうちゅう】のため、ご了承【りょうしょう】ください。",
+    "meaning": "Please understand that we are temporarily closed."
+  },
+  {
+    "sentence": "彼は休暇を申請した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を申請【しんせい】した。",
+    "meaning": "He applied for leave."
+  },
+  {
+    "sentence": "休息は大切だ。",
+    "sentence_furigana": "休息【きゅうそく】は大切【たいせつ】だ。",
+    "meaning": "Rest is important."
+  },
+  {
+    "sentence": "休日のたびに図書館へ行く。",
+    "sentence_furigana": "休日【きゅうじつ】のたびに図書館【としょかん】へ行【い】く。",
+    "meaning": "I go to the library every day off."
+  },
+  {
+    "sentence": "彼は休暇でリラックスした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】でリラックスした。",
+    "meaning": "He relaxed on his vacation."
+  },
+  {
+    "sentence": "休日に家で読書を楽しむ。",
+    "sentence_furigana": "休日【きゅうじつ】に家【いえ】で読書【どくしょ】を楽【たの】しむ。",
+    "meaning": "Enjoy reading at home on days off."
+  },
+  {
+    "sentence": "彼は休暇申請を却下された。",
+    "sentence_furigana": "彼【かれ】は休暇申請【きゅうかしんせい】を却下【きゃっか】された。",
+    "meaning": "His leave request was denied."
+  },
+  {
+    "sentence": "休肝日を設ける。",
+    "sentence_furigana": "休肝日【きゅうかんび】を設【もう】ける。",
+    "meaning": "Set a liver rest day."
+  },
+  {
+    "sentence": "彼は休暇をキャンセルした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】をキャンセルした。",
+    "meaning": "He canceled his vacation."
+  },
+  {
+    "sentence": "休日に旅行をする。",
+    "sentence_furigana": "休日【きゅうじつ】に旅行【りょこう】をする。",
+    "meaning": "Travel on days off."
+  },
+  {
+    "sentence": "彼は休暇を利用して勉強した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を利用【りよう】して勉強【べんきょう】した。",
+    "meaning": "He used his vacation to study."
+  },
+  {
+    "sentence": "休業補償について知りたい。",
+    "sentence_furigana": "休業補償【きゅうぎょうほしょう】について知【し】りたい。",
+    "meaning": "I want to know about unemployment compensation."
+  },
+  {
+    "sentence": "彼は休暇を延長してもらった。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を延長【えんちょう】してもらった。",
+    "meaning": "He got his vacation extended."
+  },
+  {
+    "sentence": "休みの前に仕事を終わらせる。",
+    "sentence_furigana": "休【やす】みの前【まえ】に仕事【しごと】を終【お】わらせる。",
+    "meaning": "Finish the work before the break."
+  },
+  {
+    "sentence": "彼は休暇で英気を養った。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】で英気【えいき】を養【やしな】った。",
+    "meaning": "He regained his energy during his vacation."
+  },
+  {
+    "sentence": "休日の予定を立てる。",
+    "sentence_furigana": "休日【きゅうじつ】の予定【よてい】を立【た】てる。",
+    "meaning": "Make plans for the day off."
+  },
+  {
+    "sentence": "彼は休暇を無駄にした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を無駄【むだ】にした。",
+    "meaning": "He wasted his vacation."
+  },
+  {
+    "sentence": "休肝日を設けましょう。",
+    "sentence_furigana": "休肝日【きゅうかんび】を設【もう】けましょう。",
+    "meaning": "Let's set a day to rest our livers."
+  },
+  {
+    "sentence": "彼は休暇を消化しきれなかった。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を消化【しょうか】しきれなかった。",
+    "meaning": "He couldn't use up all his vacation days."
+  },
+  {
+    "sentence": "休日の過ごし方について話し合う。",
+    "sentence_furigana": "休日【きゅうじつ】の過【す】ごし方【かた】について話【はな】し合【あ】う。",
+    "meaning": "Discuss how to spend days off."
+  },
+  {
+    "sentence": "彼は休暇でリフレッシュした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】でリフレッシュした。",
+    "meaning": "He refreshed himself on vacation."
+  },
+  {
+    "sentence": "休日は読書をするのが好きです。",
+    "sentence_furigana": "休日【きゅうじつ】は読書【どくしょ】をするのが好【す】きです。",
+    "meaning": "I like reading on my days off."
+  },
+  {
+    "sentence": "彼は休暇を申請中だ。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を申請中【しんせいじゅう】だ。",
+    "meaning": "He is in the process of applying for leave."
+  },
+  {
+    "sentence": "休息を取って回復した。",
+    "sentence_furigana": "休息【きゅうそく】を取【と】って回復【かいふく】した。",
+    "meaning": "I took a rest and recovered."
+  },
+  {
+    "sentence": "休みの日に運動をする。",
+    "sentence_furigana": "休【やす】みの日に運動【うんどう】をする。",
+    "meaning": "Exercise on days off."
+  },
+  {
+    "sentence": "彼は休暇で旅行に行った。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】で旅行【りょこう】に行【い】った。",
+    "meaning": "He went on a trip during his vacation."
+  },
+  {
+    "sentence": "休日は家族と過ごす。",
+    "sentence_furigana": "休日【きゅうじつ】は家族【かぞく】と過【す】ごす。",
+    "meaning": "Spend days off with family."
+  },
+  {
+    "sentence": "彼は休暇を申請した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を申請【しんせい】した。",
+    "meaning": "He applied for leave."
+  },
+  {
+    "sentence": "休息は重要です。",
+    "sentence_furigana": "休息【きゅうそく】は重要【じゅうよう】です。",
+    "meaning": "Rest is important."
+  },
+  {
+    "sentence": "休日のたびに映画を見る。",
+    "sentence_furigana": "休日【きゅうじつ】のたびに映画【えいが】を見【み】る。",
+    "meaning": "Watch a movie every day off."
+  },
+  {
+    "sentence": "彼は休暇でリラックスした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】でリラックスした。",
+    "meaning": "He relaxed on his vacation."
+  },
+  {
+    "sentence": "休日に友達と会う約束をした。",
+    "sentence_furigana": "休日【きゅうじつ】に友達【ともだち】と会【あ】う約束【やくそく】をした。",
+    "meaning": "I made plans to meet friends on my day off."
+  },
+  {
+    "sentence": "彼は休暇を延長した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を延長【えんちょう】した。",
+    "meaning": "He extended his vacation."
+  },
+  {
+    "sentence": "休肝日を設けたい。",
+    "sentence_furigana": "休肝日【きゅうかんび】を設【もう】けたい。",
+    "meaning": "I want to set a day to rest my liver."
+  },
+  {
+    "sentence": "彼は休暇をキャンセルした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】をキャンセルした。",
+    "meaning": "He canceled his vacation."
+  },
+  {
+    "sentence": "休日に家でゆっくりする。",
+    "sentence_furigana": "休日【きゅうじつ】に家【いえ】でゆっくりする。",
+    "meaning": "Take it easy at home on days off."
+  },
+  {
+    "sentence": "彼は休暇を利用して海外に行った。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を利用【りよう】して海外【かいがい】に行【い】った。",
+    "meaning": "He went abroad using his vacation."
+  },
+  {
+    "sentence": "休業補償について聞きたい。",
+    "sentence_furigana": "休業補償【きゅうぎょうほしょう】について聞【き】きたい。",
+    "meaning": "I want to ask about unemployment compensation."
+  },
+  {
+    "sentence": "彼は休暇を延長してもらった。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を延長【えんちょう】してもらった。",
+    "meaning": "He got his vacation extended."
+  },
+  {
+    "sentence": "休みの日には寝ている。",
+    "sentence_furigana": "休【やす】みの日【ひ】には寝【ね】ている。",
+    "meaning": "I sleep on my days off."
+  },
+  {
+    "sentence": "彼は休暇でリフレッシュした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】でリフレッシュした。",
+    "meaning": "He refreshed himself on vacation."
+  },
+  {
+    "sentence": "休日の過ごし方を考え中です。",
+    "sentence_furigana": "休日【きゅうじつ】の過【す】ごし方【かた】を考【かんが】え中【ちゅう】です。",
+    "meaning": "I'm thinking about how to spend my day off."
+  },
+  {
+    "sentence": "彼は休暇を申請した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を申請【しんせい】した。",
+    "meaning": "He applied for leave."
+  },
+  {
+    "sentence": "休息は必要だ。",
+    "sentence_furigana": "休息【きゅうそく】は必要【ひつよう】だ。",
+    "meaning": "Rest is necessary."
+  },
+  {
+    "sentence": "休日は美術館に行く。",
+    "sentence_furigana": "休日【きゅうじつ】は美術館【びじゅつかん】に行【い】く。",
+    "meaning": "Go to the art museum on days off."
+  },
+  {
+    "sentence": "彼は休暇でゆっくりした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】でゆっくりした。",
+    "meaning": "He took it easy on his vacation."
+  },
+  {
+    "sentence": "休日に家で映画を見る。",
+    "sentence_furigana": "休日【きゅうじつ】に家【いえ】で映画【えいが】を見【み】る。",
+    "meaning": "Watch movies at home on days off."
+  },
+  {
+    "sentence": "彼は休暇を延長した。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】を延長【えんちょう】した。",
+    "meaning": "He extended his vacation."
+  },
+  {
+    "sentence": "休肝日を設けました。",
+    "sentence_furigana": "休肝日【きゅうかんび】を設【もう】けました。",
+    "meaning": "We set a day to rest our livers."
+  },
+  {
+    "sentence": "彼は休暇をキャンセルした。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】をキャンセルした。",
+    "meaning": "He canceled his vacation."
+  },
+  {
+    "sentence": "休日に友人と会う。",
+    "sentence_furigana": "休日【きゅうじつ】に友人【ゆうじん】と会【あ】う。",
+    "meaning": "Meet friends on days off."
+  }
+]

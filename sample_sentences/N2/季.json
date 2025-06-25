@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "四季の花が咲き乱れている。",
+    "sentence_furigana": "四季【しき】の花【はな】が咲【さ】き乱【みだ】れている。",
+    "meaning": "The flowers of the four seasons are in full bloom."
+  },
+  {
+    "sentence": "彼は季節の変化に敏感だ。",
+    "sentence_furigana": "彼【かれ】は季節【きせつ】の変化【へんか】に敏感【びんかん】だ。",
+    "meaning": "He is sensitive to seasonal changes."
+  },
+  {
+    "sentence": "この地域は四季がはっきりしている。",
+    "sentence_furigana": "この地域【ちいき】は四季【しき】がはっきりしている。",
+    "meaning": "This region has distinct four seasons."
+  },
+  {
+    "sentence": "季刊誌を定期的に購入している。",
+    "sentence_furigana": "季刊誌【きかんし】を定期的【ていきてき】に購入【こうにゅう】している。",
+    "meaning": "I regularly subscribe to a quarterly magazine."
+  },
+  {
+    "sentence": "日本の四季は美しい。",
+    "sentence_furigana": "日本【にほん】の四季【しき】は美【うつく】しい。",
+    "meaning": "Japan's four seasons are beautiful."
+  },
+  {
+    "sentence": "季節の移り変わりを感じる。",
+    "sentence_furigana": "季節【きせつ】の移【うつ】り変【か】わりを感【かん】じる。",
+    "meaning": "I feel the transition of the seasons."
+  },
+  {
+    "sentence": "スポーツのシーズンが始まる。",
+    "sentence_furigana": "スポーツのシーズンが始【はじ】まる。",
+    "meaning": "The sports season is about to begin."
+  },
+  {
+    "sentence": "農作物は季節によって変わる。",
+    "sentence_furigana": "農作物【のうさくぶつ】は季節【きせつ】によって変【か】わる。",
+    "meaning": "Crops change depending on the season."
+  },
+  {
+    "sentence": "秋は読書の季節。",
+    "sentence_furigana": "秋【あき】は読書【どくしょ】の季節【きせつ】。",
+    "meaning": "Autumn is the season for reading."
+  },
+  {
+    "sentence": "季節ごとの行事を楽しむ。",
+    "sentence_furigana": "季節【きせつ】ごとのお祭【まつ】りや行事【ぎょうじ】を楽【たの】しむ。",
+    "meaning": "Enjoy seasonal festivals and events."
+  },
+  {
+    "sentence": "冬の季節が到来した。",
+    "sentence_furigana": "冬【ふゆ】の季節【きせつ】が到来【とうらい】した。",
+    "meaning": "The winter season has arrived."
+  },
+  {
+    "sentence": "その鳥は特定の季節に渡り鳥としてやってくる。",
+    "sentence_furigana": "その鳥【とり】は特定【とくてい】の季節【きせつ】に渡鳥【わたりどり】としてやってくる。",
+    "meaning": "That bird comes as a migratory bird in a specific season."
+  },
+  {
+    "sentence": "四季咲きの花を見に行った。",
+    "sentence_furigana": "四季咲【しきざ】きの花【はな】を見【み】に行【い】った。",
+    "meaning": "I went to see flowers that bloom in all four seasons."
+  },
+  {
+    "sentence": "夏は暑い季節だ。",
+    "sentence_furigana": "夏【なつ】は暑【あつ】い季節【きせつ】だ。",
+    "meaning": "Summer is a hot season."
+  },
+  {
+    "sentence": "春の訪れとともに、新しい季節が始まる。",
+    "sentence_furigana": "春【はる】の訪【おとず】れとともに、新【あら】たな季節【きせつ】が始【はじ】まる。",
+    "meaning": "With the arrival of spring, a new season begins."
+  },
+  {
+    "sentence": "彼はその季節限定のメニューを試した。",
+    "sentence_furigana": "彼【かれ】はその季節限定【きせつげんてい】のメニューを試【こころ】みた。",
+    "meaning": "He tried the seasonal limited menu."
+  },
+  {
+    "sentence": "夏場の高温は体にこたえる。",
+    "sentence_furigana": "夏場【なつば】の高温【こうおん】は体【からだ】にこたえる。",
+    "meaning": "High temperatures in summer are hard on the body."
+  },
+  {
+    "sentence": "季節風の影響で天気が変わりやすい。",
+    "sentence_furigana": "季節風【きせつふう】の影響【えいきょう】で天気【てんき】が変【か】わりやすい。",
+    "meaning": "The weather tends to change easily due to the influence of seasonal winds."
+  },
+  {
+    "sentence": "年に四回の季刊誌を発行している。",
+    "sentence_furigana": "年【ねん】に四回【よんかい】の季刊誌【きかんし】を発行【はっこう】している。",
+    "meaning": "We publish a quarterly magazine four times a year."
+  },
+  {
+    "sentence": "四季の移ろいを詩に詠む。",
+    "sentence_furigana": "四季【しき】の移【うつ】ろいを詩【し】に詠【よ】む。",
+    "meaning": "To compose a poem about the changing of the four seasons."
+  },
+  {
+    "sentence": "この果物は季節外れだ。",
+    "sentence_furigana": "この果物【くだもの】は季節外【きせつはずれ】だ。",
+    "meaning": "This fruit is out of season."
+  },
+  {
+    "sentence": "季節の変わり目には体調を崩しやすい。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には体調【たいちょう】を崩【くず】しやすい。",
+    "meaning": "It is easy to fall ill during the change of seasons."
+  },
+  {
+    "sentence": "彼はスポーツのシーズン中はトレーニングに励む。",
+    "sentence_furigana": "彼【かれ】はスポーツのシーズン中【ちゅう】はトレーニングに励【はげ】む。",
+    "meaning": "He trains diligently during the sports season."
+  },
+  {
+    "sentence": "季節料理を堪能した。",
+    "sentence_furigana": "季節料理【きせつりょうり】を堪能【たんのう】した。",
+    "meaning": "I thoroughly enjoyed the seasonal cuisine."
+  },
+  {
+    "sentence": "冬の到来を感じさせる風景だ。",
+    "sentence_furigana": "冬【ふゆ】の到来【とうらい】を感【かん】じさせる風景【ふうけい】だ。",
+    "meaning": "It is a landscape that makes you feel the arrival of winter."
+  },
+  {
+    "sentence": "季節の便りが届いた。",
+    "sentence_furigana": "季節【きせつ】の便【たよ】りが届【とど】いた。",
+    "meaning": "A letter about the season arrived."
+  },
+  {
+    "sentence": "一年を通して四季を楽しめる場所がある。",
+    "sentence_furigana": "一年【いちねん】を通【とお】して四季【しき】を楽し【たの】しめる場所【ばしょ】がある。",
+    "meaning": "There are places where you can enjoy the four seasons throughout the year."
+  },
+  {
+    "sentence": "夏の暑さが厳しくなってきた。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さが厳【きび】しくなってきた。",
+    "meaning": "The summer heat has become severe."
+  },
+  {
+    "sentence": "その植物は春先に花を咲かせる。",
+    "sentence_furigana": "その植物【しょくぶつ】は春先【はるさき】に花【はな】を咲【さ】かせる。",
+    "meaning": "That plant blooms in early spring."
+  },
+  {
+    "sentence": "季節の変わり目は風邪を引きやすい。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】は風邪【かぜ】を引【ひ】きやすい。",
+    "meaning": "It is easy to catch a cold at the change of seasons."
+  },
+  {
+    "sentence": "彼は新しいシーズンのユニフォームを着ている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなシーズンのユニフォームを着【き】ている。",
+    "meaning": "He is wearing the new season's uniform."
+  },
+  {
+    "sentence": "季節の恵みに感謝する。",
+    "sentence_furigana": "季節【きせつ】の恵【めぐ】みに感謝【かんしゃ】する。",
+    "meaning": "Be grateful for the blessings of the season."
+  },
+  {
+    "sentence": "この町は四季折々の風景が楽しめる。",
+    "sentence_furigana": "この町【まち】は四季折々【しきおりおり】の風景【ふうけい】が楽【たの】しめる。",
+    "meaning": "You can enjoy the ever-changing scenery of the four seasons in this town."
+  },
+  {
+    "sentence": "春の訪れとともに、新しい生命が芽吹く。",
+    "sentence_furigana": "春【はる】の訪【おとず】れとともに、新【あら】たな生命【せいめい】が芽吹【めぶ】く。",
+    "meaning": "With the arrival of spring, new life sprouts."
+  },
+  {
+    "sentence": "季節の変わり目には、温かい飲み物が欲しくなる。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、温【あたた】かい飲【の】み物【もの】が欲【ほ】しくなる。",
+    "meaning": "At the change of seasons, I crave warm drinks."
+  },
+  {
+    "sentence": "その球団は今シーズンも優勝候補だ。",
+    "sentence_furigana": "その球団【きゅうだん】は今【こん】シーズンも優勝候補【ゆうしょうこうほ】だ。",
+    "meaning": "That baseball team is a favorite to win this season as well."
+  },
+  {
+    "sentence": "季節の変わりゆく様子を描いた絵。",
+    "sentence_furigana": "季節【きせつ】の変【か】わりゆく様子【ようす】を描【か】いた絵【え】。",
+    "meaning": "A painting depicting the changing of the seasons."
+  },
+  {
+    "sentence": "四季を通じて美しい自然が保たれている。",
+    "sentence_furigana": "四季【しき】を通【とお】して美【うつく】しい自然【しぜん】が保【たも】たれている。",
+    "meaning": "Beautiful nature is preserved throughout the four seasons."
+  },
+  {
+    "sentence": "梅雨は日本の独特な季節だ。",
+    "sentence_furigana": "梅雨【つゆ】は日本【にほん】の独特【どくとく】な季節【きせつ】だ。",
+    "meaning": "The rainy season is a unique season in Japan."
+  },
+  {
+    "sentence": "季節の風物詩を楽しみたい。",
+    "sentence_furigana": "季節【きせつ】の風物詩【ふうぶつし】を楽し【たの】しみたい。",
+    "meaning": "I want to enjoy the seasonal specialties."
+  },
+  {
+    "sentence": "彼は新しいシーズンの計画を立てている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなシーズンの計画【けいかく】を立【た】てている。",
+    "meaning": "He is making plans for the new season."
+  },
+  {
+    "sentence": "季節柄、体調管理には気をつけましょう。",
+    "sentence_furigana": "季節柄【きせつがら】、体調管理【たいちょうかんり】には気【き】をつけましょう。",
+    "meaning": "Let's take care of our health, considering the season."
+  },
+  {
+    "sentence": "四季の彩りが楽しめる庭園。",
+    "sentence_furigana": "四季【しき】の彩【いろど】りが楽【たの】しめる庭園【ていえん】。",
+    "meaning": "A garden where you can enjoy the colors of the four seasons."
+  },
+  {
+    "sentence": "夏の暑さを乗り越える。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さを乗【の】り越【こ】える。",
+    "meaning": "To get through the summer heat."
+  },
+  {
+    "sentence": "季節の変わり目には、気分転換が必要だ。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、気分転換【きぶんてんかん】が必要【ひつよう】だ。",
+    "meaning": "At the change of seasons, a change of pace is necessary."
+  },
+  {
+    "sentence": "今年の冬は例年より寒い。",
+    "sentence_furigana": "今年【ことし】の冬【ふゆ】は例年【れいねん】より寒【さむ】い。",
+    "meaning": "This winter is colder than usual."
+  },
+  {
+    "sentence": "季節の花々が咲き誇る。",
+    "sentence_furigana": "季節【きせつ】の花々【はなばな】が咲【さ】き誇【ほこ】る。",
+    "meaning": "Seasonal flowers are in full bloom."
+  },
+  {
+    "sentence": "彼はシーズンオフ中にトレーニングを積んでいる。",
+    "sentence_furigana": "彼【かれ】はシーズンオフ中【ちゅう】にトレーニングを積【つ】んでいる。",
+    "meaning": "He is training during the off-season."
+  },
+  {
+    "sentence": "四季の移ろいは自然の摂理だ。",
+    "sentence_furigana": "四季【しき】の移【うつ】ろいは自然【しぜん】の摂理【せつり】だ。",
+    "meaning": "The changing of the four seasons is the natural order."
+  },
+  {
+    "sentence": "春の訪れを待ち望む。",
+    "sentence_furigana": "春【はる】の訪【おとず】れを待【ま】ち望【のぞ】む。",
+    "meaning": "To look forward to the arrival of spring."
+  },
+  {
+    "sentence": "季節料理は旬の食材を使う。",
+    "sentence_furigana": "季節料理【きせつりょうり】は旬【しゅん】の食材【しょくざい】を使【つか】う。",
+    "meaning": "Seasonal cuisine uses ingredients that are in season."
+  },
+  {
+    "sentence": "夏の思い出は色褪せない。",
+    "sentence_furigana": "夏【なつ】の思【おも】い出【で】は色褪【いろあ】せない。",
+    "meaning": "Summer memories do not fade."
+  },
+  {
+    "sentence": "彼は新しいシーズンに期待を寄せている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなシーズンに期待【きたい】を寄【よ】せている。",
+    "meaning": "He has high expectations for the new season."
+  },
+  {
+    "sentence": "四季は周期的に繰り返される。",
+    "sentence_furigana": "四季【しき】は周期【しゅうき】てきに繰【く】り返【かえ】される。",
+    "meaning": "The four seasons repeat cyclically."
+  },
+  {
+    "sentence": "この地域では四季を通じて様々な農産物が生産される。",
+    "sentence_furigana": "この地域【ちいき】では四季【しき】を通【とお】して様々【さまざま】な農産物【のうさんぶつ】が生産【せいさん】される。",
+    "meaning": "Various agricultural products are produced in this region throughout the four seasons."
+  },
+  {
+    "sentence": "秋の深まりとともに、気温が下がってきた。",
+    "sentence_furigana": "秋【あき】の深【ふか】まりとともに、気温【きおん】が下【さ】がってきた。",
+    "meaning": "As autumn deepens, the temperature has been dropping."
+  },
+  {
+    "sentence": "彼はオフシーズンに体力作りをする。",
+    "sentence_furigana": "彼【かれ】はオフシーズンに体力作【たいりょくづく】りをする。",
+    "meaning": "He builds up his physical strength during the off-season."
+  },
+  {
+    "sentence": "季節ごとの移り変わりが美しい。",
+    "sentence_furigana": "季節【きせつ】ごとのおりおりの移【うつ】り変【か】わりが美【うつく】しい。",
+    "meaning": "The transitions of each season are beautiful."
+  },
+  {
+    "sentence": "夏の盛りに一度訪れたい。",
+    "sentence_furigana": "夏【なつ】の盛【さか】りに一度【いちど】訪【おとず】れたい。",
+    "meaning": "I want to visit once at the height of summer."
+  },
+  {
+    "sentence": "季節の変わり目には、体調に気を配る。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、体調【たいちょう】に気【き】を配【くば】る。",
+    "meaning": "Pay attention to your physical condition at the change of seasons."
+  },
+  {
+    "sentence": "そのスポーツイベントは春のシーズンに開催される。",
+    "sentence_furigana": "そのスポーツイベントは春【はる】のシーズンに開催【かいさい】される。",
+    "meaning": "That sports event is held in the spring season."
+  },
+  {
+    "sentence": "四季の恵みを享受する。",
+    "sentence_furigana": "四季【しき】の恵【めぐ】みを享受【きょうじゅ】する。",
+    "meaning": "To enjoy the blessings of the four seasons."
+  },
+  {
+    "sentence": "冬の寒さを乗り越え、春の訪れを待つ。",
+    "sentence_furigana": "冬【ふゆ】の寒【さむ】さを乗【の】り越【こ】え、春【はる】の訪【おとず】れを待【ま】つ。",
+    "meaning": "To overcome the winter cold and wait for the arrival of spring."
+  },
+  {
+    "sentence": "彼はプロ野球のシーズンに賭けている。",
+    "sentence_furigana": "彼【かれ】はプロ野球【やきゅう】のシーズンに賭【か】けている。",
+    "meaning": "He is betting on the professional baseball season."
+  },
+  {
+    "sentence": "季節ごとの食材を使った料理。",
+    "sentence_furigana": "季節【きせつ】ごとの食材【しょくざい】を使【つか】った料理【りょうり】。",
+    "meaning": "Dishes using seasonal ingredients."
+  },
+  {
+    "sentence": "春の芽出し、夏の緑、秋の紅葉、冬の雪景色と四季はそれぞれに趣がある。",
+    "sentence_furigana": "春【はる】の芽出【めだ】ち、夏【なつ】の緑【みどり】、秋【あき】の紅葉【こうよう】、冬【ふゆ】の雪景色【ゆきげしき】と四季【しき】はそれぞれに趣【おもむき】がある。",
+    "meaning": "Spring sprouts, summer greenery, autumn foliage, and winter snowscapes - each season has its own charm."
+  },
+  {
+    "sentence": "夏の盛りを過ぎた。",
+    "sentence_furigana": "夏【なつ】の盛【さか】りを過【す】ぎた。",
+    "meaning": "Summer is past its peak."
+  },
+  {
+    "sentence": "季節の変化は心を豊かにする。",
+    "sentence_furigana": "季節【きせつ】の変化【へんか】は心【こころ】を豊【ゆた】かにする。",
+    "meaning": "The changes of the seasons enrich the mind."
+  },
+  {
+    "sentence": "彼はオフシーズンの間にスキルアップを図る。",
+    "sentence_furigana": "彼【かれ】はオフシーズン whilst スキルアップを図【はか】る。",
+    "meaning": "He strives to improve his skills during the off-season."
+  },
+  {
+    "sentence": "四季折々の花が咲く。",
+    "sentence_furigana": "四季折々【しきおりおり】の花【はな】が咲【さ】く。",
+    "meaning": "Flowers bloom in every season."
+  },
+  {
+    "sentence": "春の訪れとともに、気分も新たに。",
+    "sentence_furigana": "春【はる】の訪【おとず】れとともに、気分【きぶん】も新【あら】たに。",
+    "meaning": "With the arrival of spring, a fresh feeling emerges."
+  },
+  {
+    "sentence": "夏の暑さに負けない体力が必要だ。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さに負【ま】けない体力【たいりょく】が必要【ひつよう】だ。",
+    "meaning": "Physical strength that does not succumb to the summer heat is necessary."
+  },
+  {
+    "sentence": "季節の変わり目には、注意が必要です。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Caution is required at the change of seasons."
+  },
+  {
+    "sentence": "彼は新しいシーズンのスタートを楽しみにしている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなシーズンのスタートを楽し【たの】しみにしている。",
+    "meaning": "He is looking forward to the start of the new season."
+  },
+  {
+    "sentence": "四季を通じてその土地の魅力を味わう。",
+    "sentence_furigana": "四季【しき】を通【とお】してその土地【とち】の魅了【みりょく】を味【あじ】わう。",
+    "meaning": "To savor the charm of the land throughout the four seasons."
+  },
+  {
+    "sentence": "夏の終わりは寂しい。",
+    "sentence_furigana": "夏【なつ】の終【お】わりは寂【さび】しい。",
+    "meaning": "The end of summer is sad."
+  },
+  {
+    "sentence": "彼はこの季節にしか採れない果物を探している。",
+    "sentence_furigana": "彼【かれ】はこの季節【きせつ】にしか採【と】れない果物【くだもの】を探【さが】している。",
+    "meaning": "He is looking for fruits that can only be harvested in this season."
+  },
+  {
+    "sentence": "季節の変わり目には、体調の変化を感じやすい。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、体調【たいちょう】の変化【へんか】を感【かん】じやすい。",
+    "meaning": "It is easy to feel changes in physical condition at the change of seasons."
+  },
+  {
+    "sentence": "彼は新しいシーズンのための準備を進めている。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなシーズンのためのは準備【じゅんび】を進【すす】めている。",
+    "meaning": "He is proceeding with preparations for the new season."
+  },
+  {
+    "sentence": "四季の風景をスケッチする。",
+    "sentence_furigana": "四季【しき】の風景【ふうけい】をスケッチする。",
+    "meaning": "To sketch the scenery of the four seasons."
+  },
+  {
+    "sentence": "夏の思い出を胸に刻む。",
+    "sentence_furigana": "夏【なつ】の思【おも】い出【で】を胸【むね】に刻【きざ】む。",
+    "meaning": "To engrave summer memories in one's heart."
+  },
+  {
+    "sentence": "季節の変わり目は、新しい始まりの予感。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】は、新【あら】たな始【はじ】まりの予感【よかん】。",
+    "meaning": "The change of seasons holds the premonition of a new beginning."
+  },
+  {
+    "sentence": "彼は今シーズンの成績に満足している。",
+    "sentence_furigana": "彼【かれ】は今【こん】シーズンの成績【せいせき】に満足【まんぞく】している。",
+    "meaning": "He is satisfied with this season's performance."
+  },
+  {
+    "sentence": "四季の移ろいは、人生のようでもある。",
+    "sentence_furigana": "四季【しき】の移【うつ】ろいは、人生【じんせい】のようでもある。",
+    "meaning": "The changing of the four seasons is also like life."
+  },
+  {
+    "sentence": "春の訪れとともに、新しい生活が始まる。",
+    "sentence_furigana": "春【はる】の訪【おとず】れとともに、新【あら】たな生活【せいかつ】が始【はじ】まる。",
+    "meaning": "With the arrival of spring, a new life begins."
+  },
+  {
+    "sentence": "夏の暑さが和らいできた。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さが和【やわ】らいできた。",
+    "meaning": "The summer heat has begun to subside."
+  },
+  {
+    "sentence": "季節の変わり目には、服装に注意が必要です。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、服装【ふくそう】に注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Attention to clothing is necessary at the change of seasons."
+  },
+  {
+    "sentence": "彼はこのシーズンが終わるのを待っている。",
+    "sentence_furigana": "彼【かれ】はこのシーズンが終【お】わるのを待【ま】っている。",
+    "meaning": "He is waiting for this season to end."
+  },
+  {
+    "sentence": "四季の恵みに感謝し、自然を大切にする。",
+    "sentence_furigana": "四季【しき】の恵【めぐ】みに感謝【かんしゃ】し、自然【しぜん】を大切【たいせつ】にする。",
+    "meaning": "Be grateful for the blessings of the four seasons and cherish nature."
+  },
+  {
+    "sentence": "夏の夜空は星が美しい。",
+    "sentence_furigana": "夏【なつ】の夜空【よぞら】は星【ほし】が美【うつく】しい。",
+    "meaning": "The summer night sky is beautiful with stars."
+  },
+  {
+    "sentence": "季節の変わり目は、心身ともに変化が現れやすい。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】は、心身【しんしん】ともに変化【へんか】が現【あら】われやすい。",
+    "meaning": "Changes in both mind and body are likely to occur at the change of seasons."
+  },
+  {
+    "sentence": "彼は次のシーズンに向けてトレーニングを再開する。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】のシーズンに向【む】けてトレーニングを再開【さいかい】する。",
+    "meaning": "He will resume training for the next season."
+  },
+  {
+    "sentence": "四季折々の行事を体験する。",
+    "sentence_furigana": "四季折々【しきおりおり】の行事【ぎょうじ】を体験【たいけん】する。",
+    "meaning": "To experience seasonal events."
+  },
+  {
+    "sentence": "春の訪れとともに、希望が湧いてくる。",
+    "sentence_furigana": "春【はる】の訪【おとず】れとともに、希望【きぼう】が湧【わ】いてくる。",
+    "meaning": "With the arrival of spring, hope wells up."
+  },
+  {
+    "sentence": "夏の疲れが出やすい時期だ。",
+    "sentence_furigana": "夏【なつ】の疲【つか】れが出【で】やすい時期【じき】だ。",
+    "meaning": "It is a time when summer fatigue is likely to appear."
+  },
+  {
+    "sentence": "季節の変わり目には、無理をしないようにしましょう。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、無理【むり】をしないようにしましょう。",
+    "meaning": "Let's avoid overexertion at the change of seasons."
+  },
+  {
+    "sentence": "彼は今シーズンの結果に満足していない。",
+    "sentence_furigana": "彼【かれ】は今【こん】シーズンの結果【けっか】に満足【まんぞく】していない。",
+    "meaning": "He is not satisfied with this season's results."
+  },
+  {
+    "sentence": "四季の移ろいを五感で感じる。",
+    "sentence_furigana": "四季【しき】の移【うつ】ろいを五感【ごかん】で感【かん】じる。",
+    "meaning": "To feel the changing of the four seasons with the five senses."
+  },
+  {
+    "sentence": "春の到来を祝う。",
+    "sentence_furigana": "春【はる】の到来【とうらい】を祝【いわ】う。",
+    "meaning": "To celebrate the arrival of spring."
+  },
+  {
+    "sentence": "夏の暑さ対策が重要だ。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さ対策【たいさく】が重要【じゅうよう】だ。",
+    "meaning": "Heat countermeasures for summer are important."
+  },
+  {
+    "sentence": "季節の変わり目には、食生活に気を配る。",
+    "sentence_furigana": "季節【きせつ】の変【か】わり目【め】には、食生活【しょくせいかつ】に気【き】を配【くば】る。",
+    "meaning": "Pay attention to your diet at the change of seasons."
+  },
+  {
+    "sentence": "彼は次のシーズンに向けて、新しい戦略を練っている。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】のシーズンに向【む】けて、新【あら】たな戦略【せんりゃく】を練【ね】っている。",
+    "meaning": "He is devising new strategies for the next season."
+  }
+]

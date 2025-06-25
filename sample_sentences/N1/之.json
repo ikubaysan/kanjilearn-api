@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼の本を読みました。",
+    "sentence_furigana": "彼【かれ】の本【ほん】を読【よ】みました。",
+    "meaning": "I read his book."
+  },
+  {
+    "sentence": "この川はとてもきれいです。",
+    "sentence_furigana": "この川【かわ】はとてもきれいです。",
+    "meaning": "This river is very beautiful."
+  },
+  {
+    "sentence": "日本の文化に興味があります。",
+    "sentence_furigana": "日本【にほん】の文化【ぶんか】に興味【きょうみ】があります。",
+    "meaning": "I am interested in Japanese culture."
+  },
+  {
+    "sentence": "それは私の考えです。",
+    "sentence_furigana": "それ__は私【わたし】__の__考【かんが】え__です。",
+    "meaning": "That is my idea."
+  },
+  {
+    "sentence": "この映画は感動的でした。",
+    "sentence_furigana": "この__映画【えいが】__は__感【かん】動【どう】的__でした。",
+    "meaning": "This movie was moving."
+  },
+  {
+    "sentence": "来週の予定を教えてください。",
+    "sentence_furigana": "来週【らいしゅう】__の__予__定【てい】__を__教【おし】__え__ください。",
+    "meaning": "Please tell me next week's schedule."
+  },
+  {
+    "sentence": "彼の話は面白いです。",
+    "sentence_furigana": "彼【かれ】__の__話【はなし】__は__面白【おもしろ】い__です。",
+    "meaning": "His story is interesting."
+  },
+  {
+    "sentence": "この問題の解決策を探しています。",
+    "sentence_furigana": "この__問題【もんだい】__の__解決【かいけつ】策【さく】__を__探【さが】__し__います。",
+    "meaning": "I am looking for a solution to this problem."
+  },
+  {
+    "sentence": "彼女の絵は素晴らしい。",
+    "sentence_furigana": "彼女【かのじょ】__の__絵【え】__は__素晴__らし__い。",
+    "meaning": "Her painting is wonderful."
+  },
+  {
+    "sentence": "山の頂上からの眺めは最高です。",
+    "sentence_furigana": "山【やま】__の__頂__上【じょう】__から__の__眺__め__は__最高【さいこう】です。",
+    "meaning": "The view from the mountain summit is the best."
+  },
+  {
+    "sentence": "この本の内容は難しいです。",
+    "sentence_furigana": "この__本【ほん】__の__内__容【よう】__は__難__しい__です。",
+    "meaning": "The content of this book is difficult."
+  },
+  {
+    "sentence": "彼のスピードは驚異的だ。",
+    "sentence_furigana": "彼【かれ】__の__速__度【ど】__は__驚__異__的__だ。",
+    "meaning": "His speed is phenomenal."
+  },
+  {
+    "sentence": "この技術の進歩は目覚ましい。",
+    "sentence_furigana": "この__技__術【じゅつ】__の__進__歩【ふ】__は__目__覚__まし__い。",
+    "meaning": "The progress of this technology is remarkable."
+  },
+  {
+    "sentence": "彼女の歌声は天使のようだった。",
+    "sentence_furigana": "彼女【かのじょ】__の__歌__声【ごえ】__は__天__使__の__よう__だっ__た。",
+    "meaning": "Her singing voice was like an angel's."
+  },
+  {
+    "sentence": "このプロジェクトの成功は間違いない。",
+    "sentence_furigana": "この__プロジェクト__の__成__功【こう】__は__間違【まちが】__い__ない。",
+    "meaning": "The success of this project is certain."
+  },
+  {
+    "sentence": "彼の決断は早かった。",
+    "sentence_furigana": "彼【かれ】__の__決__断__は__早__かった。",
+    "meaning": "His decision was quick."
+  },
+  {
+    "sentence": "この街の歴史は古い。",
+    "sentence_furigana": "この__街__の__歴__史【し】__は__古__い。",
+    "meaning": "The history of this town is old."
+  },
+  {
+    "sentence": "彼女の笑顔は太陽のようだ。",
+    "sentence_furigana": "彼女【かのじょ】__の__笑__顔【がお】__は__太陽【たいよう】__の__よう__だ。",
+    "meaning": "Her smile is like the sun."
+  },
+  {
+    "sentence": "この国の未来は明るい。",
+    "sentence_furigana": "この__国__の__未__来【らい】__は__明__る__い。",
+    "meaning": "The future of this country is bright."
+  },
+  {
+    "sentence": "彼の指示は明確だった。",
+    "sentence_furigana": "彼【かれ】__の__指__示【じ】__は__明__確__だっ__た。",
+    "meaning": "His instructions were clear."
+  },
+  {
+    "sentence": "この作品の作者は誰ですか？",
+    "sentence_furigana": "この__作__品__の__作__者【しゃ】__は__誰【だれ】__です__か？",
+    "meaning": "Who is the author of this work?"
+  },
+  {
+    "sentence": "彼女の助言は非常に役立ちました。",
+    "sentence_furigana": "彼女【かのじょ】__の__助__言【げん】__は__非常__に__役__立ち__ました。",
+    "meaning": "Her advice was very helpful."
+  },
+  {
+    "sentence": "この研究の成果は大きい。",
+    "sentence_furigana": "この__研究【けんきゅう】__の__成__果【か】__は__大__き__い。",
+    "meaning": "The results of this research are significant."
+  },
+  {
+    "sentence": "彼の情熱は伝わってくる。",
+    "sentence_furigana": "彼【かれ】__の__情__熱【ねつ】__は__伝__わっ__て__くる。",
+    "meaning": "His passion comes through."
+  },
+  {
+    "sentence": "この料理の味は絶品です。",
+    "sentence_furigana": "この__料理【りょうり】__の__味【あじ】__は__絶__品__です。",
+    "meaning": "The taste of this dish is exquisite."
+  },
+  {
+    "sentence": "彼女の経験は豊富だ。",
+    "sentence_furigana": "彼女【かのじょ】__の__経__験【けん】__は__豊__富__だ。",
+    "meaning": "Her experience is extensive."
+  },
+  {
+    "sentence": "このシステムの運用は簡単です。",
+    "sentence_furigana": "この__システム__の__運__用__は__簡単【かんたん】です。",
+    "meaning": "Operating this system is easy."
+  },
+  {
+    "sentence": "彼の発言は多くの人を勇気づけた。",
+    "sentence_furigana": "彼【かれ】__の__発__言【げん】__は__多__く__の__人__を__勇__気づ__け__た。",
+    "meaning": "His remarks encouraged many people."
+  },
+  {
+    "sentence": "この建物の設計はユニークだ。",
+    "sentence_furigana": "この__建__物__の__設__計__は__ユニーク__だ。",
+    "meaning": "The design of this building is unique."
+  },
+  {
+    "sentence": "彼女の才能は計り知れない。",
+    "sentence_furigana": "彼女【かのじょ】__の__才__能【う】__は__計__り__知__れ__ない。",
+    "meaning": "Her talent is immeasurable."
+  },
+  {
+    "sentence": "この地域の発展は目覚ましい。",
+    "sentence_furigana": "この__地域__の__発__展__は__目__覚__まし__い。",
+    "meaning": "The development of this region is remarkable."
+  },
+  {
+    "sentence": "彼のユーモアのセンスは抜群だ。",
+    "sentence_furigana": "彼【かれ】__の__ユーモア__の__センス__は__抜__群__だ。",
+    "meaning": "His sense of humor is outstanding."
+  },
+  {
+    "sentence": "この国の政治は安定している。",
+    "sentence_furigana": "この__国__の__政__治__は__安__定__し__て__いる。",
+    "meaning": "The politics of this country are stable."
+  },
+  {
+    "sentence": "彼女の優しさは誰からも愛される。",
+    "sentence_furigana": "彼女【かのじょ】__の__優__しさ__は__誰【だれ】__から__も__愛__さ__れ__る。",
+    "meaning": "Her kindness is loved by everyone."
+  },
+  {
+    "sentence": "この山の名前は分からない。",
+    "sentence_furigana": "この__山__の__名__前【まえ】__は__分__から__ない。",
+    "meaning": "I don't know the name of this mountain."
+  },
+  {
+    "sentence": "彼の行動は理解できない。",
+    "sentence_furigana": "彼【かれ】__の__行__動__は__理__解__で__き__ない。",
+    "meaning": "His actions are incomprehensible."
+  },
+  {
+    "sentence": "この植物の育て方を教えてください。",
+    "sentence_furigana": "この__植__物__の__育__て__方【かた】__を__教【おし】__え__ください。",
+    "meaning": "Please tell me how to grow this plant."
+  },
+  {
+    "sentence": "彼女の髪の長さは肩までだ。",
+    "sentence_furigana": "彼女【かのじょ】__の__髪__の__長__さ__は__肩__まで__だ。",
+    "meaning": "Her hair length reaches her shoulders."
+  },
+  {
+    "sentence": "この物語の結末は予想外だった。",
+    "sentence_furigana": "この__物__語__の__結__末【まつ】__は__予__想__外【がい】__だっ__た。",
+    "meaning": "The ending of this story was unexpected."
+  },
+  {
+    "sentence": "彼の決意は固い。",
+    "sentence_furigana": "彼【かれ】__の__決__意__は__固__い。",
+    "meaning": "His determination is firm."
+  },
+  {
+    "sentence": "この製品の品質は高い。",
+    "sentence_furigana": "この__製__品__の__品__質__は__高__い。",
+    "meaning": "The quality of this product is high."
+  },
+  {
+    "sentence": "彼女の歌唱力は素晴らしい。",
+    "sentence_furigana": "彼女【かのじょ】__の__歌__唱__力__は__素晴__らし__い。",
+    "meaning": "Her singing ability is wonderful."
+  },
+  {
+    "sentence": "この町の人口は増加傾向にある。",
+    "sentence_furigana": "この__町__の__人__口__は__増__加__傾__向__に__ある。",
+    "meaning": "The population of this town is tending to increase."
+  },
+  {
+    "sentence": "彼のリーダーシップはチームをまとめた。",
+    "sentence_furigana": "彼【かれ】__の__リーダーシップ__は__チーム__を__まと__め__た。",
+    "meaning": "His leadership united the team."
+  },
+  {
+    "sentence": "この絵の具の色は鮮やかだ。",
+    "sentence_furigana": "この__絵__の__具__の__色__は__鮮__や__か__だ。",
+    "meaning": "The color of this paint is vivid."
+  },
+  {
+    "sentence": "彼女の努力は報われた。",
+    "sentence_furigana": "彼女【かのじょ】__の__努__力__は__報__わ__れ__た。",
+    "meaning": "Her efforts were rewarded."
+  },
+  {
+    "sentence": "この問題へのアプローチは斬新だ。",
+    "sentence_furigana": "この__問題__へ__の__アプローチ__は__斬__新__だ。",
+    "meaning": "The approach to this problem is innovative."
+  },
+  {
+    "sentence": "彼の作品の多くは海外で評価されている。",
+    "sentence_furigana": "彼【かれ】__の__作__品__の__多__く__は__海__外【がい】__で__評__価__さ__れ__て__いる。",
+    "meaning": "Many of his works are evaluated overseas."
+  },
+  {
+    "sentence": "このソフトウェアの機能は豊富だ。",
+    "sentence_furigana": "この__ソフトウェア__の__機__能__は__豊__富__だ。",
+    "meaning": "The functions of this software are abundant."
+  },
+  {
+    "sentence": "彼女の優雅な立ち居振る舞いは目を引く。",
+    "sentence_furigana": "彼女【かのじょ】__の__優__雅__な__立__ち__居__振__る__舞__い__は__目__を__引__く。",
+    "meaning": "Her elegant demeanor catches the eye."
+  },
+  {
+    "sentence": "この植物の開花時期はいつですか？",
+    "sentence_furigana": "この__植__物__の__開__花__時__期__は__いつ__です__か？",
+    "meaning": "When is the blooming season for this plant?"
+  },
+  {
+    "sentence": "彼の分析力は非常に高い。",
+    "sentence_furigana": "彼【かれ】__の__分__析__力__は__非常__に__高__い。",
+    "meaning": "His analytical ability is very high."
+  },
+  {
+    "sentence": "この本のジャンルはファンタジーです。",
+    "sentence_furigana": "この__本__の__ジャンル__は__ファンタジー__です。",
+    "meaning": "The genre of this book is fantasy."
+  },
+  {
+    "sentence": "彼女の経験談は参考になる。",
+    "sentence_furigana": "彼女【かのじょ】__の__経__験__談__は__参考__に__なる。",
+    "meaning": "Her anecdotes are helpful."
+  },
+  {
+    "sentence": "この国の経済成長は著しい。",
+    "sentence_furigana": "この__国__の__経__済__成__長__は__著__し__い。",
+    "meaning": "The economic growth of this country is remarkable."
+  },
+  {
+    "sentence": "彼の言葉には重みがある。",
+    "sentence_furigana": "彼【かれ】__の__言__葉__に__は__重__み__が__ある。",
+    "meaning": "His words carry weight."
+  },
+  {
+    "sentence": "この音楽のリズムは心地よい。",
+    "sentence_furigana": "この__音楽__の__リ__ズム__は__心地__よ__い。",
+    "meaning": "The rhythm of this music is pleasant."
+  },
+  {
+    "sentence": "彼女の献身的な姿勢は皆の模範となった。",
+    "sentence_furigana": "彼女【かのじょ】__の__献__身__的__な__姿__勢__は__皆__の__模__範__と__なっ__た。",
+    "meaning": "Her dedicated attitude became a model for everyone."
+  },
+  {
+    "sentence": "この建物の構造は非常に堅牢だ。",
+    "sentence_furigana": "この__建__物__の__構__造__は__非常__に__堅__牢__だ。",
+    "meaning": "The structure of this building is very robust."
+  },
+  {
+    "sentence": "彼の緻密な計画は成功をもたらした。",
+    "sentence_furigana": "彼【かれ】__の__緻__密__な__計__画__は__成__功__を__もたら__し__た。",
+    "meaning": "His meticulous plan brought success."
+  },
+  {
+    "sentence": "この地域の文化財は貴重だ。",
+    "sentence_furigana": "この__地域__の__文__化__財__は__貴__重__だ。",
+    "meaning": "The cultural properties of this region are precious."
+  },
+  {
+    "sentence": "彼女の創造性は無限だ。",
+    "sentence_furigana": "彼女【かのじょ】__の__創__造__性__は__無__限__だ。",
+    "meaning": "Her creativity is limitless."
+  },
+  {
+    "sentence": "この機械の操作方法は簡単です。",
+    "sentence_furigana": "この__機__械__の__操__作__方__法__は__簡単【かんたん】です。",
+    "meaning": "The operation method of this machine is simple."
+  },
+  {
+    "sentence": "彼の見解は我々と異なる。",
+    "sentence_furigana": "彼【かれ】__の__見__解__は__我々__と__異__なる。",
+    "meaning": "His view differs from ours."
+  },
+  {
+    "sentence": "この商品のデザインは洗練されている。",
+    "sentence_furigana": "この__商__品__の__デザイン__は__洗__練__さ__れ__て__いる。",
+    "meaning": "The design of this product is sophisticated."
+  },
+  {
+    "sentence": "彼女の言葉遣いは丁寧だ。",
+    "sentence_furigana": "彼女【かのじょ】__の__言__葉__遣__い__は__丁__寧__だ。",
+    "meaning": "Her way of speaking is polite."
+  },
+  {
+    "sentence": "このプロジェクトの目的は明確です。",
+    "sentence_furigana": "この__プロジェクト__の__目__的__は__明__確__です。",
+    "meaning": "The objective of this project is clear."
+  },
+  {
+    "sentence": "彼の知識は非常に広範囲にわたる。",
+    "sentence_furigana": "彼【かれ】__の__知__識__は__非常__に__広__範__囲__に__わ__た__る。",
+    "meaning": "His knowledge spans a very wide range."
+  },
+  {
+    "sentence": "この島の自然は豊かだ。",
+    "sentence_furigana": "この__島__の__自__然__は__豊__か__だ。",
+    "meaning": "The nature of this island is abundant."
+  },
+  {
+    "sentence": "彼女の気配りは細部にまで及ぶ。",
+    "sentence_furigana": "彼女【かのじょ】__の__気__配__り__は__細__部__に__まで__及__ぶ。",
+    "meaning": "Her thoughtfulness extends to the smallest details."
+  },
+  {
+    "sentence": "この物語の主人公は勇敢だ。",
+    "sentence_furigana": "この__物__語__の__主__人__公__は__勇__敢__だ。",
+    "meaning": "The protagonist of this story is brave."
+  },
+  {
+    "sentence": "彼の迅速な対応に感謝します。",
+    "sentence_furigana": "彼【かれ】__の__迅__速__な__対__応__に__感__謝__し__ます。",
+    "meaning": "I appreciate his prompt response."
+  },
+  {
+    "sentence": "この地域の産業は多岐にわたる。",
+    "sentence_furigana": "この__地域__の__産__業__は__多__岐__に__わ__た__る。",
+    "meaning": "The industries of this region are diverse."
+  },
+  {
+    "sentence": "彼女の視点は常に新しい。",
+    "sentence_furigana": "彼女【かのじょ】__の__視__点__は__常__に__新__しい。",
+    "meaning": "Her perspective is always new."
+  },
+  {
+    "sentence": "この曲のメロディーは美しい。",
+    "sentence_furigana": "この__曲__の__メロディー__は__美__し__い。",
+    "meaning": "The melody of this song is beautiful."
+  },
+  {
+    "sentence": "彼の粘り強さは困難を乗り越えさせた。",
+    "sentence_furigana": "彼【かれ】__の__粘__り__強__さ__は__困__難__を__乗__り__越__え__さ__せ__た。",
+    "meaning": "His perseverance allowed him to overcome difficulties."
+  },
+  {
+    "sentence": "このシステムの安定性は高い。",
+    "sentence_furigana": "この__システム__の__安__定__性__は__高__い。",
+    "meaning": "The stability of this system is high."
+  },
+  {
+    "sentence": "彼女の繊細な感覚は芸術に通じる。",
+    "sentence_furigana": "彼女【かのじょ】__の__繊__細__な__感__覚__は__芸__術__に__通__じる。",
+    "meaning": "Her delicate sensibility connects to art."
+  },
+  {
+    "sentence": "この国の文化遺産は保護されている。",
+    "sentence_furigana": "この__国__の__文__化__遺__産__は__保__護__さ__れ__て__いる。",
+    "meaning": "The cultural heritage of this country is protected."
+  },
+  {
+    "sentence": "彼の分析は的確だった。",
+    "sentence_furigana": "彼【かれ】__の__分__析__は__的__確__だっ__た。",
+    "meaning": "His analysis was accurate."
+  },
+  {
+    "sentence": "この地域の食文化は独特だ。",
+    "sentence_furigana": "この__地域__の__食__文__化__は__独__特__だ。",
+    "meaning": "The food culture of this region is unique."
+  },
+  {
+    "sentence": "彼女の優しさは皆を癒やす。",
+    "sentence_furigana": "彼女【かのじょ】__の__優__しさ__は__皆__を__癒__や__す。",
+    "meaning": "Her kindness heals everyone."
+  },
+  {
+    "sentence": "この製品の使いやすさは評価が高い。",
+    "sentence_furigana": "この__製__品__の__使__い__や__す__さ__は__評__価__が__高__い。",
+    "meaning": "The ease of use of this product is highly rated."
+  },
+  {
+    "sentence": "彼の功績は歴史に刻まれた。",
+    "sentence_furigana": "彼【かれ】__の__功__績__は__歴__史__に__刻__ま__れ__た。",
+    "meaning": "His achievements were etched in history."
+  },
+  {
+    "sentence": "この絵の具の発色は美しい。",
+    "sentence_furigana": "この__絵__の__具__の__発__色__は__美__し__い。",
+    "meaning": "The color development of this paint is beautiful."
+  },
+  {
+    "sentence": "彼女の忍耐強さは称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】__の__忍__耐__強__さ__は__称__賛__に__値__する。",
+    "meaning": "Her patience is praiseworthy."
+  },
+  {
+    "sentence": "この機械の効率性は向上した。",
+    "sentence_furigana": "この__機__械__の__効__率__性__は__向__上__し__た。",
+    "meaning": "The efficiency of this machine has improved."
+  },
+  {
+    "sentence": "彼の発想は自由奔放だ。",
+    "sentence_furigana": "彼【かれ】__の__発__想__は__自__由__奔__放__だ。",
+    "meaning": "His ideas are free-spirited."
+  },
+  {
+    "sentence": "この島の特産品は非常に有名だ。",
+    "sentence_furigana": "この__島__の__特__産__品__は__非常__に__有__名__だ。",
+    "meaning": "The specialty products of this island are very famous."
+  },
+  {
+    "sentence": "彼女の分析能力は群を抜いている。",
+    "sentence_furigana": "彼女【かのじょ】__の__分__析__能__力__は__群__を__抜__い__て__いる。",
+    "meaning": "Her analytical skills are outstanding."
+  },
+  {
+    "sentence": "この地域の歴史的建造物は数多い。",
+    "sentence_furigana": "この__地域__の__歴__史__的__建__築__物__は__数__多__い。",
+    "meaning": "There are many historical buildings in this region."
+  },
+  {
+    "sentence": "彼の穏やかな性格は皆に慕われる。",
+    "sentence_furigana": "彼【かれ】__の__穏__や__か__な__性__格__は__皆__に__慕__わ__れ__る。",
+    "meaning": "His calm personality is admired by everyone."
+  },
+  {
+    "sentence": "この国の治安は良い。",
+    "sentence_furigana": "この__国__の__治安__は__良__い。",
+    "meaning": "The public safety of this country is good."
+  },
+  {
+    "sentence": "彼女の言葉には説得力がある。",
+    "sentence_furigana": "彼女【かのじょ】__の__言__葉__に__は__説__得__力__が__ある。",
+    "meaning": "Her words are persuasive."
+  },
+  {
+    "sentence": "この本のテーマは愛です。",
+    "sentence_furigana": "この__本__の__テーマ__は__愛__です。",
+    "meaning": "The theme of this book is love."
+  },
+  {
+    "sentence": "彼の行動力は目を見張るものがある。",
+    "sentence_furigana": "彼【かれ】__の__行__動__力__は__目__を__見__張__る__もの__が__ある。",
+    "meaning": "His proactiveness is remarkable."
+  },
+  {
+    "sentence": "このソフトウェアの信頼性は高い。",
+    "sentence_furigana": "この__ソフトウェア__の__信__頼__性__は__高__い。",
+    "meaning": "The reliability of this software is high."
+  },
+  {
+    "sentence": "彼女の芸術性は評価されている。",
+    "sentence_furigana": "彼女【かのじょ】__の__芸__術__性__は__評__価__さ__れ__て__いる。",
+    "meaning": "Her artistry is appreciated."
+  },
+  {
+    "sentence": "この国の行政サービスは充実している。",
+    "sentence_furigana": "この__国__の__行__政__サービス__は__充__実__し__て__いる。",
+    "meaning": "The administrative services of this country are substantial."
+  },
+  {
+    "sentence": "彼の独創性は高く評価されるべきだ。",
+    "sentence_furigana": "彼【かれ】__の__独__創__性__は__高__く__評__価__さ__れ__る__べき__だ。",
+    "meaning": "His originality should be highly valued."
+  },
+  {
+    "sentence": "この島の景観は美しい。",
+    "sentence_furigana": "この__島__の__景__観__は__美__し__い。",
+    "meaning": "The landscape of this island is beautiful."
+  },
+  {
+    "sentence": "彼女の明るい性格は周囲を元気にする。",
+    "sentence_furigana": "彼女【かのじょ】__の__明__る__い__性__格__は__周__囲__を__元気__に__する。",
+    "meaning": "Her cheerful personality energizes those around her."
+  }
+]

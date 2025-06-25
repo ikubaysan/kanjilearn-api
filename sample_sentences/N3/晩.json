@@ -1,0 +1,562 @@
+[
+  {
+    "sentence": "今日は早い晩餐にするつもりです。",
+    "sentence_furigana": "今日【きょう】は早【はや】い晩餐【ばんさん】にするつもりです。",
+    "meaning": "I plan to have an early dinner today."
+  },
+  {
+    "sentence": "昨晩のことは覚えていません。",
+    "sentence_furigana": "昨晩【さくばん】のこと<strong>は</strong>覚【おぼ】えていません。",
+    "meaning": "I don't remember what happened last night."
+  },
+  {
+    "sentence": "今晩は映画を見に行こう。",
+    "sentence_furigana": "今晩【こんばん】は映画【えいが】を見【み】に行【い】こう。",
+    "meaning": "Let's go see a movie tonight."
+  },
+  {
+    "sentence": "毎晩遅くまで勉強するのは大変だ。",
+    "sentence_furigana": "毎晩【まいばん】遅【おそ】くまで勉強【べんきょう】する<strong>は</strong>大変【たいへん】だ。",
+    "meaning": "It's hard to study late every night."
+  },
+  {
+    "sentence": "夕食の準備はもう終わりましたか。",
+    "sentence_furigana": "夕食【ゆうしょく】の準備【じゅんび】<strong>は</strong>もう終【お】わりましたか。",
+    "meaning": "Have you finished preparing dinner yet?"
+  },
+  {
+    "sentence": "明日の晩にパーティーがあります。",
+    "sentence_furigana": "明日【あした】の晩【ばん】<strong>は</strong>パーティーがあります。",
+    "meaning": "There is a party tomorrow night."
+  },
+  {
+    "sentence": "この本は夜通し読んだ。",
+    "sentence_furigana": "この本【ほん】<strong>は</strong>夜通【よどお】し読【よ】んだ。",
+    "meaning": "I read this book all night."
+  },
+  {
+    "sentence": "彼は毎晩散歩に出かける。",
+    "sentence_furigana": "彼<strong>は</strong>毎晩【まいばん】散歩【さんぽ】に出【で】かける。",
+    "meaning": "He goes for a walk every night."
+  },
+  {
+    "sentence": "昨晩はよく眠れませんでした。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>よく眠【ねむ】れませんでした。",
+    "meaning": "I couldn't sleep well last night."
+  },
+  {
+    "sentence": "遅い晩ごはんを食べる。",
+    "sentence_furigana": "遅【おそ】い晩ごはん<strong>は</strong>食【た】べる。",
+    "meaning": "I eat a late dinner."
+  },
+  {
+    "sentence": "今晩から冷え込むでしょう。",
+    "sentence_furigana": "今晩【こんばん】から冷【ひ】え込【こ】むでしょう。",
+    "meaning": "It will get cold from tonight."
+  },
+  {
+    "sentence": "彼女は毎晩のように練習している。",
+    "sentence_furigana": "彼女【かのじょ】<strong>は</strong>毎晩【まいばん】のように練習【れんしゅう】している。",
+    "meaning": "She practices almost every night."
+  },
+  {
+    "sentence": "昨晩は特に何もなかった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>特【とく】<strong>に</strong><strong>何</strong>【なに】<strong>も</strong>なかった。",
+    "meaning": "Nothing special happened last night."
+  },
+  {
+    "sentence": "夕食の前に少し休む。",
+    "sentence_furigana": "夕食【ゆうしょく】の前【まえ】<strong>に</strong>少【すこ】し休【やす】む。",
+    "meaning": "I'll rest a bit before dinner."
+  },
+  {
+    "sentence": "彼は遅い晩まで働いていた。",
+    "sentence_furigana": "彼<strong>は</strong>遅【おそ】い晩【ばん】まで働【はたら】いていた。",
+    "meaning": "He was working until late at night."
+  },
+  {
+    "sentence": "今晩のメニューは何ですか。",
+    "sentence_furigana": "今晩【こんばん】のメニュー<strong>は</strong>何【なん】ですか。",
+    "meaning": "What is the menu for tonight?"
+  },
+  {
+    "sentence": "毎晩この時間になると眠くなる。",
+    "sentence_furigana": "毎晩【まいばん】この時間【じかん】<strong>に</strong><strong>な</strong>ると眠【ねむ】くなる。",
+    "meaning": "I get sleepy at this time every night."
+  },
+  {
+    "sentence": "昨晩は星が綺麗に見えた。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>星【ほし】<strong>が</strong>綺麗【きれい】<strong>に</strong>見【み】えた。",
+    "meaning": "The stars were beautiful last night."
+  },
+  {
+    "sentence": "彼は夜型の人間だ。",
+    "sentence_furigana": "彼<strong>は</strong>夜型【よるがた】<strong>の</strong>人間【にんげん】だ。",
+    "meaning": "He is a night owl."
+  },
+  {
+    "sentence": "今晩は冷えるので暖かくしてください。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>冷【ひ】えるので暖【あたた】かくしてください。",
+    "meaning": "It will be cold tonight, so please dress warmly."
+  },
+  {
+    "sentence": "毎晩同じ時間に寝ています。",
+    "sentence_furigana": "毎晩【まいばん】同【おな】じ時間【じかん】<strong>に</strong>寝【ね】ています。",
+    "meaning": "I go to bed at the same time every night."
+  },
+  {
+    "sentence": "昨晩の出来事が頭から離れない。",
+    "sentence_furigana": "昨晩【さくばん】<strong>の</strong>出来事【できごと】<strong>が</strong>頭【あたま】から離【はな】れない。",
+    "meaning": "The events of last night won't leave my mind."
+  },
+  {
+    "sentence": "遅い晩食になりますが、お待ちください。",
+    "sentence_furigana": "遅【おそ】い晩食【ばんしょく】<strong>に</strong>なりますが、お待ちください。",
+    "meaning": "It will be a late dinner, so please wait."
+  },
+  {
+    "sentence": "今晩は誰かに会う約束がある。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>誰【だれ】か<strong>に</strong>会【あ】う約束【やくそく】<strong>が</strong>ある。",
+    "meaning": "I have plans to meet someone tonight."
+  },
+  {
+    "sentence": "毎晩、月が綺麗に見える。",
+    "sentence_furigana": "毎晩【まいばん】、月【つき】<strong>が</strong>綺麗【きれい】<strong>に</strong>見【み】える。",
+    "meaning": "The moon is beautiful every night."
+  },
+  {
+    "sentence": "昨晩は賑やかなパーティーがあった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>賑【にぎ】やか<strong>な</strong>パーティー<strong>が</strong>あった。",
+    "meaning": "There was a lively party last night."
+  },
+  {
+    "sentence": "彼は夜遅くまで仕事をしている。",
+    "sentence_furigana": "彼<strong>は</strong>夜遅【よるおそ】くまで仕事【しごと】をしている。",
+    "meaning": "He works late into the night."
+  },
+  {
+    "sentence": "今晩は星空が楽しみだ。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>星空【ほしぞら】<strong>が</strong>楽【たの】しみだ。",
+    "meaning": "I'm looking forward to the starry sky tonight."
+  },
+  {
+    "sentence": "毎晩家族と話す時間を作る。",
+    "sentence_furigana": "毎晩【まいばん】家族【かぞく】と話【はな】す時間【じかん】<strong>を</strong>作【つく】る。",
+    "meaning": "I make time to talk with my family every night."
+  },
+  {
+    "sentence": "昨晩の試合はとても面白かった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>の</strong>試合【しあい】<strong>は</strong>とても面白【おもしろ】かった。",
+    "meaning": "Last night's game was very interesting."
+  },
+  {
+    "sentence": "遅い晩でも大丈夫です。",
+    "sentence_furigana": "遅【おそ】い晩【ばん】<strong>でも</strong>大丈夫【だいじょうぶ】です。",
+    "meaning": "It's okay even if it's late at night."
+  },
+  {
+    "sentence": "今晩はテレビで新しいドラマが始まる。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>テレビで新【あたら】しいドラマ<strong>が</strong>始【はじ】まる。",
+    "meaning": "A new drama starts on TV tonight."
+  },
+  {
+    "sentence": "毎晩読書をする習慣がある。",
+    "sentence_furigana": "毎晩【まいばん】読書【どくしょ】<strong>を</strong>する習慣【しゅうかん】<strong>が</strong>ある。",
+    "meaning": "I have a habit of reading every night."
+  },
+  {
+    "sentence": "昨晩は急に寒くなった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>急【きゅう】<strong>に</strong>寒【さむ】くなった。",
+    "meaning": "It suddenly got cold last night."
+  },
+  {
+    "sentence": "彼は夜更かしをするタイプだ。",
+    "sentence_furigana": "彼<strong>は</strong>夜更【よふ】かし<strong>を</strong>するタイプだ。",
+    "meaning": "He is the type to stay up late at night."
+  },
+  {
+    "sentence": "今晩は特別なディナーを用意しました。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>特別【とくべつ】<strong>な</strong>ディナー<strong>を</strong>用意【ようい】しました。",
+    "meaning": "I prepared a special dinner for tonight."
+  },
+  {
+    "sentence": "毎晩、新しいことを学ぶようにしている。",
+    "sentence_furigana": "毎晩【まいばん】、新【あら】た<strong>な</strong>こと<strong>を</strong>学【まな】ぶようにしている。",
+    "meaning": "I try to learn something new every night."
+  },
+  {
+    "sentence": "昨晩は友人と食事をした。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友人【ゆうじん】<strong>と</strong>食事【しょくじ】<strong>を</strong>した。",
+    "meaning": "I had a meal with a friend last night."
+  },
+  {
+    "sentence": "遅い晩まで待たせてごめん。",
+    "sentence_furigana": "遅【おそ】い晩【ばん】まで待【ま】たせてごめん。",
+    "meaning": "Sorry for making you wait so late at night."
+  },
+  {
+    "sentence": "今晩は家族で外食する予定です。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>家族【かぞく】で外食【がいしょく】する予定【よてい】です。",
+    "meaning": "We plan to eat out as a family tonight."
+  },
+  {
+    "sentence": "毎晩、寝る前に音楽を聴く。",
+    "sentence_furigana": "毎晩【まいばん】、寝【ね】る前【まえ】<strong>に</strong>音楽【おんがく】<strong>を</strong>聴【き】く。",
+    "meaning": "I listen to music every night before sleeping."
+  },
+  {
+    "sentence": "昨晩は久しぶりに友人に会った。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>久し振【ひさしぶ】り<strong>に</strong>友人【ゆうじん】<strong>に</strong>会【あ】った。",
+    "meaning": "I met a friend last night after a long time."
+  },
+  {
+    "sentence": "彼は夜中に勉強を始めた。",
+    "sentence_furigana": "彼<strong>は</strong>夜中【よなか】<strong>に</strong>勉強【べんきょう】<strong>を</strong>始【はじ】めた。",
+    "meaning": "He started studying in the middle of the night."
+  },
+  {
+    "sentence": "今晩は冷えるから、暖かくして寝てください。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>冷【ひ】えるから、暖【あたた】かくして寝【ね】てください。",
+    "meaning": "It will be cold tonight, so please sleep warmly."
+  },
+  {
+    "sentence": "毎晩同じ時間に起きています。",
+    "sentence_furigana": "毎晩【まいばん】同【おな】じ時間【じかん】<strong>に</strong>起【お】きています。",
+    "meaning": "I wake up at the same time every night."
+  },
+  {
+    "sentence": "昨晩は雨が降っていた。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>雨【あめ】<strong>が</strong>降【ふ】っていた。",
+    "meaning": "It was raining last night."
+  },
+  {
+    "sentence": "彼は晩年、田舎で静かに暮らした。",
+    "sentence_furigana": "彼<strong>は</strong>晩年【ばんねん】、田舎【いなか】で静【しず】かに暮【く】らした。",
+    "meaning": "He lived peacefully in the countryside in his later years."
+  },
+  {
+    "sentence": "今晩は特別に早く寝ます。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>特別【とくべつ】<strong>に</strong>早【はや】く寝【ね】ます。",
+    "meaning": "I will go to bed particularly early tonight."
+  },
+  {
+    "sentence": "毎晩、子供たちに絵本を読んであげる。",
+    "sentence_furigana": "毎晩【まいばん】、子供【こども】たち<strong>に</strong>絵本【えほん】<strong>を</strong>読【よ】んであげる。",
+    "meaning": "I read picture books to the children every night."
+  },
+  {
+    "sentence": "昨晩は友人の誕生日パーティーに行った。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友人【ゆうじん】<strong>の</strong>誕生日【たんじょうび】パーティー<strong>に</strong>行【い】った。",
+    "meaning": "I went to a friend's birthday party last night."
+  },
+  {
+    "sentence": "夜遅くまで起きているのは体に悪い。",
+    "sentence_furigana": "夜遅【よるおそ】くまで起【お】きている<strong>の</strong><strong>は</strong>体【からだ】<strong>に</strong>悪【わる】い。",
+    "meaning": "Staying up late at night is bad for your health."
+  },
+  {
+    "sentence": "今晩は家族で鍋料理を楽しむ予定です。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>家族【かぞく】で鍋料理【なべりょうり】<strong>を</strong>楽【たの】しむ予定【よてい】です。",
+    "meaning": "We plan to enjoy hot pot as a family tonight."
+  },
+  {
+    "sentence": "毎晩、感謝の気持ちで一日を終える。",
+    "sentence_furigana": "毎晩【まいばん】、感謝【かんしゃ】<strong>の</strong>気持【きも】ちで一日【いちにち】<strong>を</strong>終【お】える。",
+    "meaning": "I end the day with gratitude every night."
+  },
+  {
+    "sentence": "昨晩はテレビでスポーツの試合を見た。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>テレビでスポーツ<strong>の</strong>試合【しあい】<strong>を</strong>見【み】た。",
+    "meaning": "I watched a sports game on TV last night."
+  },
+  {
+    "sentence": "彼は晩ごはんを作るのが得意だ。",
+    "sentence_furigana": "彼<strong>は</strong>晩ごはん<strong>を</strong>作【つく】る<strong>の</strong><strong>が</strong>得意【とくい】だ。",
+    "meaning": "He is good at making dinner."
+  },
+  {
+    "sentence": "今晩は外食するので、早く帰ります。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>外食【がいしょく】するので、早【はや】く帰【かえ】ります。",
+    "meaning": "I'm eating out tonight, so I'll go home early."
+  },
+  {
+    "sentence": "毎晩、就寝前にストレッチをしています。",
+    "sentence_furigana": "毎晩【まいばん】、就寝前【しゅうしんまえ】<strong>に</strong>ストレッチ<strong>を</strong>しています。",
+    "meaning": "I do stretches every night before going to bed."
+  },
+  {
+    "sentence": "昨晩は突然の来客があった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>突然【とつぜん】<strong>の</strong>来客【らいきゃく】<strong>が</strong>あった。",
+    "meaning": "We had a surprise visitor last night."
+  },
+  {
+    "sentence": "彼は晩酌を楽しむ習慣がある。",
+    "sentence_furigana": "彼<strong>は</strong>晩酌【ばんしゃく】<strong>を</strong>楽【たの】しむ習慣【しゅうかん】<strong>が</strong>ある。",
+    "meaning": "He has a habit of enjoying an evening drink."
+  },
+  {
+    "sentence": "今晩は早く寝て明日に備えます。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>早【はや】く寝【ね】て明日【あした】<strong>に</strong>備【そな】えます。",
+    "meaning": "I will go to bed early tonight to prepare for tomorrow."
+  },
+  {
+    "sentence": "毎晩、日記をつけることにしている。",
+    "sentence_furigana": "毎晩【まいばん】、日記【にっき】<strong>を</strong>つけることにしている。",
+    "meaning": "I make it a point to keep a diary every night."
+  },
+  {
+    "sentence": "昨晩は冷たい雨が降っていた。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>冷【つめ】たい雨【あめ】<strong>が</strong>降【ふ】っていた。",
+    "meaning": "Cold rain was falling last night."
+  },
+  {
+    "sentence": "彼は夜勤で働いている。",
+    "sentence_furigana": "彼<strong>は</strong>夜勤【やきん】で働【はたら】いている。",
+    "meaning": "He works the night shift."
+  },
+  {
+    "sentence": "今晩は少し肌寒いかもしれません。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>少【すこ】し肌寒【はださむ】いかもしれません。",
+    "meaning": "It might be a little chilly tonight."
+  },
+  {
+    "sentence": "毎晩、家族で食卓を囲む。",
+    "sentence_furigana": "毎晩【まいばん】、家族【かぞく】で食卓【しょくたく】<strong>を</strong>囲【かこ】む。",
+    "meaning": "The family gathers around the dining table every night."
+  },
+  {
+    "sentence": "昨晩は夢を見るほど熟睡した。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>夢【ゆめ】<strong>を</strong>見【み】るほど熟睡【じゅくすい】した。",
+    "meaning": "I slept so soundly that I had dreams last night."
+  },
+  {
+    "sentence": "彼は夜中に目が覚めてしまった。",
+    "sentence_furigana": "彼<strong>は</strong>夜中【よなか】<strong>に</strong>目【め】<strong>が</strong>覚【さ】めてしまった。",
+    "meaning": "He woke up in the middle of the night."
+  },
+  {
+    "sentence": "今晩は早めに夕食を済ませます。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>早【はや】め<strong>に</strong>夕食【ゆうしょく】<strong>を</strong>済【す】ませます。",
+    "meaning": "I will finish dinner early tonight."
+  },
+  {
+    "sentence": "毎晩、運動する習慣をつけたい。",
+    "sentence_furigana": "毎晩【まいばん】、運動【うんどう】<strong>を</strong>する習慣【しゅうかん】<strong>を</strong>つけたい。",
+    "meaning": "I want to make a habit of exercising every night."
+  },
+  {
+    "sentence": "昨晩は友達と長電話をした。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友達【ともだち】<strong>と</strong>長電話【ながでんわ】<strong>を</strong>した。",
+    "meaning": "I had a long phone call with a friend last night."
+  },
+  {
+    "sentence": "彼は晩御飯を食べてから勉強する。",
+    "sentence_furigana": "彼<strong>は</strong>晩御飯【ばんごはん】<strong>を</strong>食【た】べてから勉強【べんきょう】する。",
+    "meaning": "He studies after eating dinner."
+  },
+  {
+    "sentence": "今晩は満月が見られるだろう。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>満月【まんげつ】<strong>が</strong>見【み】られるだろう。",
+    "meaning": "We will probably be able to see a full moon tonight."
+  },
+  {
+    "sentence": "毎晩、寝る前に感謝を伝える。",
+    "sentence_furigana": "毎晩【まいばん】、寝【ね】る前【まえ】<strong>に</strong>感謝【かんしゃ】<strong>を</strong>伝【つた】える。",
+    "meaning": "I express gratitude every night before sleeping."
+  },
+  {
+    "sentence": "昨晩は少し体調が悪かった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>少【すこ】し体調【たいちょう】<strong>が</strong>悪【わる】かった。",
+    "meaning": "I felt a little unwell last night."
+  },
+  {
+    "sentence": "彼は夜間学校に通っている。",
+    "sentence_furigana": "彼<strong>は</strong>夜間学校【やかんがっこう】<strong>に</strong>通【かよ】っている。",
+    "meaning": "He attends night school."
+  },
+  {
+    "sentence": "今晩は冷えるので、温かい飲み物が欲しい。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>冷【ひ】えるので、暖【あたた】かい飲【の】み物【もの】<strong>が</strong>欲【ほ】しい。",
+    "meaning": "It will be cold tonight, so I want a warm drink."
+  },
+  {
+    "sentence": "毎晩、家族で食後のお茶を楽しむ。",
+    "sentence_furigana": "毎晩【まいばん】、家族【かぞく】で食後【しょくご】<strong>の</strong>お茶【ちゃ】<strong>を</strong>楽【たの】しむ。",
+    "meaning": "The family enjoys tea after dinner every night."
+  },
+  {
+    "sentence": "昨晩は友達と遅くまで話していた。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友達【ともだち】<strong>と</strong>遅【おそ】くまで話【はな】していた。",
+    "meaning": "I was talking with friends until late last night."
+  },
+  {
+    "sentence": "彼は晩御飯の準備を手伝ってくれた。",
+    "sentence_furigana": "彼<strong>は</strong>晩御飯【ばんごはん】<strong>の</strong>準備【じゅんび】<strong>を</strong>手伝【てつだ】ってくれた。",
+    "meaning": "He helped me prepare dinner."
+  },
+  {
+    "sentence": "今晩は星が綺麗に見えそうです。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>星【ほし】<strong>が</strong>綺麗【きれい】<strong>に</strong>見【み】えそうです。",
+    "meaning": "The stars will likely be visible and beautiful tonight."
+  },
+  {
+    "sentence": "毎晩、静かな時間を過ごしている。",
+    "sentence_furigana": "毎晩【まいばん】、静【しず】か<strong>な</strong>時間【じかん】<strong>を</strong>過【す】ごしている。",
+    "meaning": "I spend quiet time every night."
+  },
+  {
+    "sentence": "昨晩は少し疲れていたので早く寝た。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>少【すこ】し疲【つか】れていたので早【はや】く寝【ね】た。",
+    "meaning": "I was a little tired last night, so I went to bed early."
+  },
+  {
+    "sentence": "彼は夜更かしをして次の日眠そうだった。",
+    "sentence_furigana": "彼<strong>は</strong>夜更【よふ】かし<strong>を</strong>して次【つぎ】<strong>の</strong>日【ひ】眠【ねむ】そうだった。",
+    "meaning": "He stayed up late and looked sleepy the next day."
+  },
+  {
+    "sentence": "今晩は家族みんなで集まって食事をする。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>家族【かぞく】みんなで集【あつ】まって食事【しょくじ】<strong>を</strong>する。",
+    "meaning": "The whole family will gather and eat together tonight."
+  },
+  {
+    "sentence": "毎晩、新しいレシピを試している。",
+    "sentence_furigana": "毎晩【まいばん】、新【あら】た<strong>な</strong>レシピ<strong>を</strong>試【ため】している。",
+    "meaning": "I try new recipes every night."
+  },
+  {
+    "sentence": "昨晩は友人の家に泊まった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友人【ゆうじん】<strong>の</strong>家【いえ】<strong>に</strong>泊【と】まった。",
+    "meaning": "I stayed at a friend's house last night."
+  },
+  {
+    "sentence": "彼は晩ごはんを食べ終わった。",
+    "sentence_furigana": "彼<strong>は</strong>晩ごはん<strong>を</strong>食【た】べ終【お】わった。",
+    "meaning": "He finished eating dinner."
+  },
+  {
+    "sentence": "今晩は暖かい格好で出かけよう。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>暖【あたた】かい格好【かっこう】で出【で】かけよう。",
+    "meaning": "Let's go out dressed warmly tonight."
+  },
+  {
+    "sentence": "毎晩、就寝前に読書をする。",
+    "sentence_furigana": "毎晩【まいばん】、就寝前【しゅうしんまえ】<strong>に</strong>読書【どくしょ】<strong>を</strong>する。",
+    "meaning": "I read every night before going to bed."
+  },
+  {
+    "sentence": "昨晩はとても良い天気だった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>とても良【よ】い天気【てんき】だった。",
+    "meaning": "The weather was very good last night."
+  },
+  {
+    "sentence": "彼は夜更かしが過ぎて、体調を崩した。",
+    "sentence_furigana": "彼<strong>は</strong>夜更【よふ】かし<strong>が</strong>過【す】ぎて、体調【たいちょう】<strong>を</strong>崩【くず】した。",
+    "meaning": "He stayed up too late and got sick."
+  },
+  {
+    "sentence": "今晩は家族でテレビを見る予定です。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>家族【かぞく】でテレビ<strong>を</strong>見【み】る予定【よてい】です。",
+    "meaning": "We plan to watch TV as a family tonight."
+  },
+  {
+    "sentence": "毎晩、一日の反省をする。",
+    "sentence_furigana": "毎晩【まいばん】、一日【いちにち】<strong>の</strong>反省【はんせい】<strong>を</strong>する。",
+    "meaning": "I reflect on my day every night."
+  },
+  {
+    "sentence": "昨晩はあまり眠れなかった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>あまり眠【ねむ】れなかった。",
+    "meaning": "I couldn't sleep much last night."
+  },
+  {
+    "sentence": "彼は晩御飯にお寿司を食べた。",
+    "sentence_furigana": "彼<strong>は</strong>晩御飯【ばんごはん】<strong>に</strong>お寿司【すし】<strong>を</strong>食【た】べた。",
+    "meaning": "He ate sushi for dinner."
+  },
+  {
+    "sentence": "今晩は冷えるので、外出時はコートを着てください。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>冷【ひ】えるので、外出時【がいしゅつじ】<strong>は</strong>コート<strong>を</strong>着【き】てください。",
+    "meaning": "It will be cold tonight, so please wear a coat when you go out."
+  },
+  {
+    "sentence": "毎晩、静かに音楽を聴いている。",
+    "sentence_furigana": "毎晩【まいばん】、静【しず】かに音楽【おんがく】<strong>を</strong>聴【き】いている。",
+    "meaning": "I quietly listen to music every night."
+  },
+  {
+    "sentence": "昨晩は満月が夜空を照らしていた。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>満月【まんげつ】<strong>が</strong>夜空【よぞら】<strong>を</strong>照【て】らしていた。",
+    "meaning": "A full moon was illuminating the night sky last night."
+  },
+  {
+    "sentence": "彼は夜行性の動物のようだ。",
+    "sentence_furigana": "彼<strong>は</strong>夜行性【やこうせい】<strong>の</strong>動物【どうぶつ】<strong>の</strong>ようだ。",
+    "meaning": "He seems like a nocturnal animal."
+  },
+  {
+    "sentence": "今晩は冷たい雨になりそうだ。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>冷【つめ】たい雨【あめ】<strong>に</strong>なりそうだ。",
+    "meaning": "It looks like it will be cold rain tonight."
+  },
+  {
+    "sentence": "毎晩、家族で楽しい時間を過ごす。",
+    "sentence_furigana": "毎晩【まいばん】、家族【かぞく】で楽【たの】しい時間【じかん】<strong>を</strong>過【す】ごす。",
+    "meaning": "The family spends enjoyable time together every night."
+  },
+  {
+    "sentence": "昨晩は友人たちと集まって食事をした。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友人【ゆうじん】たち<strong>と</strong>集【あつ】まって食事【しょくじ】<strong>を</strong>した。",
+    "meaning": "I got together with friends and had a meal last night."
+  },
+  {
+    "sentence": "彼は晩御飯を準備するのを手伝ってほしい。",
+    "sentence_furigana": "彼<strong>は</strong>晩御飯【ばんごはん】<strong>を</strong>準備【じゅんび】する<strong>の</strong><strong>を</strong>手伝【てつだ】ってほしい。",
+    "meaning": "I want him to help prepare dinner."
+  },
+  {
+    "sentence": "今晩は早めに家に戻ります。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>早【はや】め<strong>に</strong>家【いえ】<strong>に</strong>戻【もど】ります。",
+    "meaning": "I will return home early tonight."
+  },
+  {
+    "sentence": "毎晩、寝る前に感謝の気持ちを思い出す。",
+    "sentence_furigana": "毎晩【まいばん】、寝【ね】る前【まえ】<strong>に</strong>感謝【かんしゃ】<strong>の</strong>気持【きも】ち<strong>を</strong>思【おも】い出【だ】す。",
+    "meaning": "I recall things to be grateful for every night before sleeping."
+  },
+  {
+    "sentence": "昨晩は友人の家で映画を見た。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>友人【ゆうじん】<strong>の</strong>家【いえ】で映画【えいが】<strong>を</strong>見【み】た。",
+    "meaning": "I watched a movie at a friend's house last night."
+  },
+  {
+    "sentence": "彼は夜通し勉強して試験に備えた。",
+    "sentence_furigana": "彼<strong>は</strong>夜通【よどお】し勉強【べんきょう】して試験【しけん】<strong>に</strong>備【そな】えた。",
+    "meaning": "He studied all night to prepare for the exam."
+  },
+  {
+    "sentence": "今晩は冷えそうなので、暖かくしてください。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>冷【ひ】えそうなので、暖【あたた】かくしてください。",
+    "meaning": "It seems like it will get cold tonight, so please keep warm."
+  },
+  {
+    "sentence": "毎晩、家族で食卓を囲み、一日の出来事を話す。",
+    "sentence_furigana": "毎晩【まいばん】、家族【かぞく】で食卓【しょくたく】<strong>を</strong>囲【かこ】み、一日【いちにち】<strong>の</strong>出来事【できごと】<strong>を</strong>話【はな】す。",
+    "meaning": "The family gathers around the dining table every night and talks about their day."
+  },
+  {
+    "sentence": "昨晩は星空がとても綺麗だった。",
+    "sentence_furigana": "昨晩【さくばん】<strong>は</strong>星空【ほしぞら】<strong>が</strong>とても綺麗【きれい】だった。",
+    "meaning": "The starry sky was very beautiful last night."
+  },
+  {
+    "sentence": "彼は晩御飯のメニューを考えている。",
+    "sentence_furigana": "彼<strong>は</strong>晩御飯【ばんごはん】<strong>の</strong>メニュー<strong>を</strong>考【かんが】えている。",
+    "meaning": "He is thinking about the dinner menu."
+  },
+  {
+    "sentence": "今晩は早めに夕食を済ませて、ゆっくり休みたい。",
+    "sentence_furigana": "今晩【こんばん】<strong>は</strong>早【はや】め<strong>に</strong>夕食【ゆうしょく】<strong>を</strong>済【す】ませて、ゆっくり休【やす】みたい。",
+    "meaning": "I want to finish dinner early tonight and rest well."
+  }
+]

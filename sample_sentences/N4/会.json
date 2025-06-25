@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "会議は午後2時に始まります。",
+    "sentence_furigana": "会議【かいぎ】は午後【ごご】2時【じ】に始【はじ】まります。",
+    "meaning": "The meeting will start at 2 PM."
+  },
+  {
+    "sentence": "新しいメンバーの歓迎会を開きました。",
+    "sentence_furigana": "新【あら】しいメンバーの歓迎会【かんげいかい】を開【ひら】きました。",
+    "meaning": "We held a welcome party for the new members."
+  },
+  {
+    "sentence": "友人に会うために駅前に行きました。",
+    "sentence_furigana": "友人【ゆうじん】に会【あ】うために駅前【えきまえ】に行【い】きました。",
+    "meaning": "I went to the station front to meet a friend."
+  },
+  {
+    "sentence": "彼女は美術大学に通っています。",
+    "sentence_furigana": "彼女【かのじょ】は美術大学【びじゅつだいがく】に通【かよ】っています。",
+    "meaning": "She attends an art university."
+  },
+  {
+    "sentence": "地域のお祭りに参加しました。",
+    "sentence_furigana": "地域【ちいき】のお祭【まつ】りに参加【さんか】しました。",
+    "meaning": "I participated in a local festival."
+  },
+  {
+    "sentence": "彼らは会社のパーティーで出会いました。",
+    "sentence_furigana": "彼【かれ】らは会社【かいしゃ】のパーティーで出会【であ】いました。",
+    "meaning": "They met at the company party."
+  },
+  {
+    "sentence": "集会所に多くの人が集まっています。",
+    "sentence_furigana": "集会所【しゅうかいじょ】に多【おお】くの人【ひと】が集【あつ】まっています。",
+    "meaning": "Many people are gathered at the community center."
+  },
+  {
+    "sentence": "今日は旧友にばったり会いました。",
+    "sentence_furigana": "今日【きょう】は旧友【きゅうゆう】にばったり会【あ】いました。",
+    "meaning": "I bumped into an old friend today."
+  },
+  {
+    "sentence": "その協会は慈善活動をしています。",
+    "sentence_furigana": "その協会【きょうかい】は慈善活動【じぜんかつどう】をしています。",
+    "meaning": "That association is involved in charitable activities."
+  },
+  {
+    "sentence": "面接は来週の月曜日です。",
+    "sentence_furigana": "面接【めんせつ】は来週【らいしゅう】の月曜日【げつようび】です。",
+    "meaning": "The interview is next Monday."
+  },
+  {
+    "sentence": "クラスメートと会食しました。",
+    "sentence_furigana": "クラスメートと会食【かいしょく】しました。",
+    "meaning": "I had a meal with my classmates."
+  },
+  {
+    "sentence": "会員登録が必要です。",
+    "sentence_furigana": "会員登録【かいいんとろく】が必【ひつ】ようです。",
+    "meaning": "Membership registration is required."
+  },
+  {
+    "sentence": "学会に参加するために東京へ行きました。",
+    "sentence_furigana": "学会【がっかい】に参加【さんか】するために東京【とうきょう】へ行【い】きました。",
+    "meaning": "I went to Tokyo to attend the academic conference."
+  },
+  {
+    "sentence": "大切な人と待ち合わせをしました。",
+    "sentence_furigana": "大切【たいせつ】な人【ひと】と待合合【まちあわせ】をしました。",
+    "meaning": "I had a meeting with an important person."
+  },
+  {
+    "sentence": "彼は多くの人々と交流しています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】と交流【こうりゅう】しています。",
+    "meaning": "He interacts with many people."
+  },
+  {
+    "sentence": "この会は会員制です。",
+    "sentence_furigana": "この会【かい】は会員制【かいいんせい】です。",
+    "meaning": "This club is by membership only."
+  },
+  {
+    "sentence": "友人と会って近況を話し合った。",
+    "sentence_furigana": "友人【ゆうじん】と会【あ】って近況【きんきょう】を話【はな】し合【あ】った。",
+    "meaning": "I met a friend and we talked about recent events."
+  },
+  {
+    "sentence": "子供たちが公園で楽しそうに遊んでいる。",
+    "sentence_furigana": "子供【こども】たちが公園【こうえん】で楽【たの】しそうに遊【あそ】んでいる。",
+    "meaning": "Children are playing happily in the park."
+  },
+  {
+    "sentence": "彼は大学で歴史を教えている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で歴史【れきし】を教【おし】えています。",
+    "meaning": "He teaches history at university."
+  },
+  {
+    "sentence": "今回の集まりは非常に有意義だった。",
+    "sentence_furigana": "今回【こんかい】の集【あつ】まりは非常【ひじょう】に有意義【ゆういぎ】だった。",
+    "meaning": "This gathering was very meaningful."
+  },
+  {
+    "sentence": "新しいプロジェクトのチームを結成しました。",
+    "sentence_furigana": "新【あら】しいプロジェクトのチームを結成【けっせい】しました。",
+    "meaning": "We formed a team for the new project."
+  },
+  {
+    "sentence": "彼女は国際会議で発表しました。",
+    "sentence_furigana": "彼女【かのじょ】は国際会議【こくさいかいぎ】で発表【はっぴょう】しました。",
+    "meaning": "She presented at an international conference."
+  },
+  {
+    "sentence": "地域のボランティア活動に参加しました。",
+    "sentence_furigana": "地域【ちいき】のボランティア活動【かつどう】に参加【さんか】しました。",
+    "meaning": "I participated in local volunteer activities."
+  },
+  {
+    "sentence": "彼は昔の仲間と再会した。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の仲間【なかま】と再会【さいかい】した。",
+    "meaning": "He reunited with old friends."
+  },
+  {
+    "sentence": "その会合は来週に変更されました。",
+    "sentence_furigana": "その会合【かいごう】は来週【らいしゅう】に変更【へんこう】されました。",
+    "meaning": "The meeting has been changed to next week."
+  },
+  {
+    "sentence": "私は大学の同窓会に出席しました。",
+    "sentence_furigana": "私【わたし】は大学【だいがく】の同窓会【どうそうかい】に出席【しゅっせき】しました。",
+    "meaning": "I attended my university's alumni reunion."
+  },
+  {
+    "sentence": "明日は友達と会う約束がある。",
+    "sentence_furigana": "明日【あす】は友達【ともだち】と会【あ】う約束【やくそく】がある。",
+    "meaning": "I have plans to meet a friend tomorrow."
+  },
+  {
+    "sentence": "彼は組合のリーダーとして活躍している。",
+    "sentence_furigana": "彼【かれ】は組合【くみあい】のリーダーとして活躍【かつやく】しています。",
+    "meaning": "He is active as a union leader."
+  },
+  {
+    "sentence": "この会議室は最大50名収容できます。",
+    "sentence_furigana": "この会議室【かいぎしつ】は最大【さいだい】50名【めい】収容【しゅうよう】できます。",
+    "meaning": "This conference room can accommodate up to 50 people."
+  },
+  {
+    "sentence": "子供たちと一緒に遊ぶのが好きです。",
+    "sentence_furigana": "子供【こども】たちと一緒【いっしょ】に遊【あそ】ぶのが好【す】きです。",
+    "meaning": "I like playing with children."
+  },
+  {
+    "sentence": "彼は学会で発表する機会を得た。",
+    "sentence_furigana": "彼【かれ】は学会【がっかい】で発表【はっぴょう】する機会【きかい】を得【え】た。",
+    "meaning": "He got an opportunity to present at the academic conference."
+  },
+  {
+    "sentence": "会員特典として割引があります。",
+    "sentence_furigana": "会員特典【かいいんとくてん】として割引【わりびき】があります。",
+    "meaning": "There is a discount as a member benefit."
+  },
+  {
+    "sentence": "古い友人に偶然会いました。",
+    "sentence_furigana": "古【ふる】い友人【ゆうじん】に偶然【ぐうぜん】会【あ】いました。",
+    "meaning": "I met an old friend by chance."
+  },
+  {
+    "sentence": "彼女は大学のサークルに参加している。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】のサークルに参加【さんか】している。",
+    "meaning": "She participates in a university club."
+  },
+  {
+    "sentence": "そのパーティーはとても盛り上がりました。",
+    "sentence_furigana": "そのパーティーはとても盛【も】り上【あ】がりました。",
+    "meaning": "That party was very lively."
+  },
+  {
+    "sentence": "彼らはここで待ち合わせをしていた。",
+    "sentence_furigana": "彼【かれ】らはここで待合合【まちあわせ】をしていた。",
+    "meaning": "They were meeting here."
+  },
+  {
+    "sentence": "会議の内容は後ほど共有します。",
+    "sentence_furigana": "会議【かいぎ】の内容【ないよう】は後【あと】ほど共有【きょうゆう】します。",
+    "meaning": "The content of the meeting will be shared later."
+  },
+  {
+    "sentence": "初めての就職活動で緊張しています。",
+    "sentence_furigana": "初【はじ】めての就職活動【しゅうしょくかつどう】で緊張【きんちょう】しています。",
+    "meaning": "I'm nervous about my first job hunting."
+  },
+  {
+    "sentence": "私たちは月に一度集まることにしている。",
+    "sentence_furigana": "私【わたし】たちは月【つき】に一度【いちど】集【あつ】まることにしています。",
+    "meaning": "We decided to meet once a month."
+  },
+  {
+    "sentence": "彼は国際的な会議で講演を行った。",
+    "sentence_furigana": "彼【かれ】は国際的【こくさいてき】な会議【かいぎ】で講演【こうえん】を行【おこな】った。",
+    "meaning": "He gave a lecture at an international conference."
+  },
+  {
+    "sentence": "新しい会員を募集しています。",
+    "sentence_furigana": "新【あら】しい会員【かいいん】を募集【ぼしゅう】しています。",
+    "meaning": "We are recruiting new members."
+  },
+  {
+    "sentence": "彼女は友達と会えて嬉しそうだった。",
+    "sentence_furigana": "彼女【かのじょ】は友達【ともだち】と会【あ】えて嬉【うれ】しそうだった。",
+    "meaning": "She looked happy to meet her friends."
+  },
+  {
+    "sentence": "この会社は多くの社員がいます。",
+    "sentence_furigana": "この会社【かいしゃ】は多【おお】くの社員【しゃいん】がいます。",
+    "meaning": "This company has many employees."
+  },
+  {
+    "sentence": "地域の子供たちのための集会を開きました。",
+    "sentence_furigana": "地域【ちいき】の子供【こども】たちのための集会【しゅうかい】を開【ひら】きました。",
+    "meaning": "We held a meeting for the local children."
+  },
+  {
+    "sentence": "大学時代の友人と再会した。",
+    "sentence_furigana": "大学時代【だいがくじだい】の友人【ゆうじん】と再会【さいかい】した。",
+    "meaning": "I reunited with my university friends."
+  },
+  {
+    "sentence": "彼女は面接に遅刻しそうになった。",
+    "sentence_furigana": "彼女【かのじょ】は面接【めんせつ】に遅刻【ちこく】しそうになった。",
+    "meaning": "She was almost late for the interview."
+  },
+  {
+    "sentence": "パーティーの準備は順調に進んでいます。",
+    "sentence_furigana": "パーティーの準備【じゅんび】は順調【じゅんちょう】に進【すす】んでいます。",
+    "meaning": "Party preparations are going smoothly."
+  },
+  {
+    "sentence": "彼は会員制のジムに通っている。",
+    "sentence_furigana": "彼【かれ】は会員制【かいいんせい】のジムに通【かよ】っている。",
+    "meaning": "He goes to a members-only gym."
+  },
+  {
+    "sentence": "来週、友人に会いに大阪へ行く予定です。",
+    "sentence_furigana": "来週【らいしゅう】、友人【ゆうじん】に会【あ】いに大阪【おおさか】へ行【い】く予定【よてい】です。",
+    "meaning": "I plan to go to Osaka next week to see a friend."
+  },
+  {
+    "sentence": "この団体は社会貢献活動に力を入れている。",
+    "sentence_furigana": "この団体【だんたい】は社会貢献活動【しゃかいこうけんかつどう】に力【ちから】を入【い】れている。",
+    "meaning": "This organization focuses on social contribution activities."
+  },
+  {
+    "sentence": "会議で重要な決定がなされました。",
+    "sentence_furigana": "会議【かいぎ】で重要【じゅうよう】な決定【けってい】がなされました。",
+    "meaning": "An important decision was made at the meeting."
+  },
+  {
+    "sentence": "彼女は大学で多くの人と出会った。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で多【おお】くの人【ひと】と出会【であ】った。",
+    "meaning": "She met many people at university."
+  },
+  {
+    "sentence": "地域の交流会に参加しました。",
+    "sentence_furigana": "地域【ちいき】の交流会【こうりゅうかい】に参加【さんか】しました。",
+    "meaning": "I participated in a community exchange meeting."
+  },
+  {
+    "sentence": "彼は面接官に自分の長所をアピールした。",
+    "sentence_furigana": "彼【かれ】は面接官【めんせつかん】に自分【じぶん】の長所【ちょうしょ】をアピールした。",
+    "meaning": "He appealed his strengths to the interviewer."
+  },
+  {
+    "sentence": "この会社は新入社員の歓迎会を開いた。",
+    "sentence_furigana": "この会社【かいしゃ】は新入社員【しんにゅうしゃいん】の歓迎会【かんげいかい】を開【ひら】いた。",
+    "meaning": "This company held a welcome party for new employees."
+  },
+  {
+    "sentence": "私たちは古い友人と再会を約束した。",
+    "sentence_furigana": "私【わたし】たちは古【ふる】い友人【ゆうじん】と再会【さいかい】を約束【やくそく】した。",
+    "meaning": "We promised to meet our old friends again."
+  },
+  {
+    "sentence": "その集会は多くの市民が参加した。",
+    "sentence_furigana": "その集会【しゅうかい】は多【おお】くの市民【しみん】が参加【さんか】した。",
+    "meaning": "Many citizens participated in the gathering."
+  },
+  {
+    "sentence": "彼女は大学で軽音楽部に所属している。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で軽音楽部【けいおんがくぶ】に所属【しょぞく】しています。",
+    "meaning": "She belongs to the light music club at university."
+  },
+  {
+    "sentence": "明日の会議には全員出席してください。",
+    "sentence_furigana": "明日【あす】の会議【かいぎ】には全員【ぜんいん】出席【しゅっせき】してください。",
+    "meaning": "Please attend tomorrow's meeting, everyone."
+  },
+  {
+    "sentence": "彼は組合活動に熱心に参加している。",
+    "sentence_furigana": "彼【かれ】は組合活動【くみあいかつどう】に熱心【ねっしん】に参加【さんか】しています。",
+    "meaning": "He actively participates in union activities."
+  },
+  {
+    "sentence": "その会合で新しい情報を得ました。",
+    "sentence_furigana": "その会合【かいごう】で新【あら】しい情報【じょうほう】を得【え】ました。",
+    "meaning": "I obtained new information at the meeting."
+  },
+  {
+    "sentence": "彼女は友人と会って近況を報告した。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】と会【あ】って近況【きんきょう】を報告【ほうこく】した。",
+    "meaning": "She met a friend and reported on her recent situation."
+  },
+  {
+    "sentence": "この大学には留学生がたくさんいます。",
+    "sentence_furigana": "この大学【だいがく】には留学生【りゅうがくせい】がたくさんいます。",
+    "meaning": "There are many international students at this university."
+  },
+  {
+    "sentence": "新しい会員を歓迎するパーティーを開きます。",
+    "sentence_furigana": "新【あら】しい会員【かいいん】を歓迎【かんげい】するパーティーを開【ひら】きます。",
+    "meaning": "We will hold a party to welcome new members."
+  },
+  {
+    "sentence": "彼は会社の代表として会議に出席した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の代表【だいひょう】として会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "He attended the meeting as a representative of the company."
+  },
+  {
+    "sentence": "彼女は古い友人と再会して感激した。",
+    "sentence_furigana": "彼女【かのじょ】は古【ふる】い友人【ゆうじん】と再会【さいかい】して感激【げんき】した。",
+    "meaning": "She was deeply moved to reunite with her old friends."
+  },
+  {
+    "sentence": "地域の文化祭に多くの人が集まった。",
+    "sentence_furigana": "地域【ちいき】の文化祭【ぶんかさい】に多【おお】くの人【ひと】が集【あつ】まった。",
+    "meaning": "Many people gathered for the local cultural festival."
+  },
+  {
+    "sentence": "面接では落ち着いて話すことが大切です。",
+    "sentence_furigana": "面接【めんせつ】では落【お】ち着【つ】いて話【はな】すことが大切【たいせつ】です。",
+    "meaning": "It is important to speak calmly during an interview."
+  },
+  {
+    "sentence": "彼は大学で出会った友人たちと今も交流がある。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で出会【であ】った友人【ゆうじん】たちと今【いま】も交流【こうりゅう】がある。",
+    "meaning": "He still keeps in touch with friends he met at university."
+  },
+  {
+    "sentence": "その協会は様々なイベントを企画しています。",
+    "sentence_furigana": "その協会【きょうかい】は様々【さまざま】なイベントを企画【きかく】しています。",
+    "meaning": "That association plans various events."
+  },
+  {
+    "sentence": "彼女は新しい職場での最初の会議に出席した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しい職場【しょくば】での最初【さいしょ】の会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "She attended her first meeting at her new workplace."
+  },
+  {
+    "sentence": "友人と久しぶりに会って話が弾んだ。",
+    "sentence_furigana": "友人【ゆうじん】と久し振【ひさしぶり】に会【あ】って話【はな】が弾【はず】んだ。",
+    "meaning": "I met a friend after a long time and we had a lively conversation."
+  },
+  {
+    "sentence": "この会は会員以外は参加できません。",
+    "sentence_furigana": "この会【かい】は会員以外【かいいんいがい】は参加【さんか】できません。",
+    "meaning": "Only members can participate in this meeting."
+  },
+  {
+    "sentence": "彼は大学で開かれた説明会に参加した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で開【ひら】かれた説明会【せつめいかい】に参加【さんか】した。",
+    "meaning": "He attended an information session held at the university."
+  },
+  {
+    "sentence": "彼女はパーティで新しい出会いを求めている。",
+    "sentence_furigana": "彼女【かのじょ】はパーティで新【あら】しい出会【であ】いを求【もと】めている。",
+    "meaning": "She is looking for new encounters at parties."
+  },
+  {
+    "sentence": "会議の議事録は後ほど配布されます。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】は後【あと】ほど配布【はいふ】されます。",
+    "meaning": "The minutes of the meeting will be distributed later."
+  },
+  {
+    "sentence": "彼は大学のOB会に参加した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】のOB会【オービーかい】に参加【さんか】した。",
+    "meaning": "He participated in a university alumni association meeting."
+  },
+  {
+    "sentence": "彼女は友人に会いにカフェに行った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に会【あ】いにカフェに行【い】った。",
+    "meaning": "She went to a cafe to meet a friend."
+  },
+  {
+    "sentence": "この団体は地域社会に貢献している。",
+    "sentence_furigana": "この団体【だんたい】は地域社会【ちいきしゃかい】に貢献【こうけん】しています。",
+    "meaning": "This organization contributes to the local community."
+  },
+  {
+    "sentence": "明日の会議は重要な議題があります。",
+    "sentence_furigana": "明日【あす】の会議【かいぎ】は重要【じゅうよう】な議題【ぎだい】があります。",
+    "meaning": "Tomorrow's meeting has important agenda items."
+  },
+  {
+    "sentence": "彼は大学で知り合った友人と会った。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で知【し】り合【あ】った友人【ゆうじん】と会【あ】った。",
+    "meaning": "He met friends he met at university."
+  },
+  {
+    "sentence": "彼女は地域のお祭りでボランティアをした。",
+    "sentence_furigana": "彼女【かのじょ】は地域【ちいき】のお祭【まつ】りでボランティアをした。",
+    "meaning": "She volunteered at a local festival."
+  },
+  {
+    "sentence": "この会合は業界の専門家が集まる。",
+    "sentence_furigana": "この会合【かいごう】は業界【ぎょうかい】の専門家【せんもんか】が集【あつ】まる。",
+    "meaning": "This meeting brings together industry experts."
+  },
+  {
+    "sentence": "彼は大学時代の友人と会食した。",
+    "sentence_furigana": "彼【かれ】は大学時代【だいがくじだい】の友人【ゆうじん】と会食【かいしょく】した。",
+    "meaning": "He had a meal with his university friends."
+  },
+  {
+    "sentence": "彼女は友人に会うために電車に乗った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に会【あ】うために電車【でんしゃ】に乗【の】った。",
+    "meaning": "She took a train to meet a friend."
+  },
+  {
+    "sentence": "この組合は労働者の権利を守っている。",
+    "sentence_furigana": "この組合【くみあい】は労働者【ろうどうしゃ】の権利【けんり】を守【まも】っています。",
+    "meaning": "This union protects workers' rights."
+  },
+  {
+    "sentence": "彼は新しい会社の設立に参加した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい会社【かいしゃ】の設立【せつりつ】に参加【さんか】した。",
+    "meaning": "He participated in the establishment of a new company."
+  },
+  {
+    "sentence": "彼女は大学の学園祭で模擬店を出した。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】の学園祭【がくえんさい】で模擬店【もぎてん】を出【だ】した。",
+    "meaning": "She ran a mock store at the university festival."
+  },
+  {
+    "sentence": "私たちは週末に家族と集まるのが好きです。",
+    "sentence_furigana": "私【わたし】たちは週末【しゅうまつ】に家族【かぞく】と集【あつ】まるのが好【す】きです。",
+    "meaning": "We like to gather with family on weekends."
+  },
+  {
+    "sentence": "この会は会員同士の親睦を深めるためのものです。",
+    "sentence_furigana": "この会【かい】は会員同士【かいnearbyどうし】の親睦【しんぼく】を深【ふか】めるためのものです。",
+    "meaning": "This meeting is for deepening fellowship among members."
+  },
+  {
+    "sentence": "彼は大学で様々な人と出会い、多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で様々【さまざま】な人【ひと】と出会【であ】い、多【おお】くのこと【こと】を学【まな】んだ。",
+    "meaning": "He met various people at university and learned many things."
+  },
+  {
+    "sentence": "彼女は子供たちのための地域交流会を企画した。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちのための地域交流会【ちいきこうりゅうかい】を企画【きかく】した。",
+    "meaning": "She organized a community event for children."
+  },
+  {
+    "sentence": "会議の前に資料を確認しておきます。",
+    "sentence_furigana": "会議【かいぎ】の前【まえ】に資料【しりょう】を確認【かくにん】しておきます。",
+    "meaning": "I will check the documents before the meeting."
+  },
+  {
+    "sentence": "彼はボランティア団体で活動している。",
+    "sentence_furigana": "彼【かれ】はボランティア団体【だんたい】で活動【かつどう】しています。",
+    "meaning": "He is active in a volunteer organization."
+  },
+  {
+    "sentence": "彼女は友人に会って近況を交換した。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に会【あ】って近況【きんきょう】を交換【こうかん】した。",
+    "meaning": "She met a friend and exchanged updates."
+  },
+  {
+    "sentence": "この会社は会員制のサービスを提供しています。",
+    "sentence_furigana": "この会社【かいしゃ】は会員制【かいいんせい】のサービスを提供【ていきょう】しています。",
+    "meaning": "This company offers membership-based services."
+  },
+  {
+    "sentence": "彼は大学時代の友人と会う約束をした。",
+    "sentence_furigana": "彼【かれ】は大学時代【だいがくじだい】の友人【ゆうじん】と会【あ】う約束【やくそく】をした。",
+    "meaning": "He made plans to meet his university friends."
+  },
+  {
+    "sentence": "彼女は新しい職場に早く慣れたい。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しい職場【しょくば】に早【はや】く慣【な】れたい。",
+    "meaning": "She wants to get used to her new workplace quickly."
+  },
+  {
+    "sentence": "この会合は参加者を限定しています。",
+    "sentence_furigana": "この会合【かいごう】は参加者【さんかしゃ】を限定【げんてい】しています。",
+    "meaning": "This meeting has limited participants."
+  },
+  {
+    "sentence": "彼は大学で開かれる就職説明会に参加する予定だ。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で開【ひら】かれる就職説明会【しゅうしょくせつめいかい】に参加【さんか】する予定【よてい】だ。",
+    "meaning": "He plans to attend the job fair held at the university."
+  },
+  {
+    "sentence": "彼女は友人に会うために遠くから来た。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に会【あ】うために遠【とお】くから来【き】た。",
+    "meaning": "She came from far away to meet a friend."
+  },
+  {
+    "sentence": "この会は会員の交流を目的としています。",
+    "sentence_furigana": "この会【かい】は会員【かいいん】の交流【こうりゅう】を目的【もくてき】としています。",
+    "meaning": "This meeting aims to foster interaction among members."
+  },
+  {
+    "sentence": "彼は大学で出会った人々と連絡を取り合っている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で出会【であ】った人々【ひとびと】と連絡【れんらく】を取【と】り合【あ】っている。",
+    "meaning": "He keeps in contact with people he met at university."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトのチームメンバーとして参加した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいプロジェクトのチームメンバーとして参加【さんか】した。",
+    "meaning": "She joined as a team member for the new project."
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "木が風に傾いた。",
+    "sentence_furigana": "木【き】が風【かぜ】に傾【かたむ】いた。",
+    "meaning": "The tree tilted in the wind."
+  },
+  {
+    "sentence": "彼は左に体を傾けた。",
+    "sentence_furigana": "彼【かれ】は左【ひだり】に体【からだ】を傾【かし】げた。",
+    "meaning": "He inclined his body to the left."
+  },
+  {
+    "sentence": "その考えに傾いている。",
+    "sentence_furigana": "その考【かんが】えに傾【かし】いている。",
+    "meaning": "I am leaning towards that idea."
+  },
+  {
+    "sentence": "彼の意見に傾倒した。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】に傾【けい】倒【とう】した。",
+    "meaning": "I was inclined to his opinion."
+  },
+  {
+    "sentence": "予算は増える傾向にある。",
+    "sentence_furigana": "予算【よさん】は増【ふ】える傾向【けいこう】にある。",
+    "meaning": "The budget has a tendency to increase."
+  },
+  {
+    "sentence": "物事は必ずしも一方に傾かない。",
+    "sentence_furigana": "物事【ものごと】は必ずしも一方【いっぽう】に傾【かたむ】かない。",
+    "meaning": "Things do not always lean to one side."
+  },
+  {
+    "sentence": "彼女は学問に傾いた。",
+    "sentence_furigana": "彼女【かのじょ】は学問【がくもん】に傾【かし】いた。",
+    "meaning": "She inclined to scholarship."
+  },
+  {
+    "sentence": "裁判官は公平であるべきだ。",
+    "sentence_furigana": "裁判官【さいばんかん】は公平【こうへい】であるべきだ。",
+    "meaning": "Judges should be impartial."
+  },
+  {
+    "sentence": "結果は予想に反して傾いた。",
+    "sentence_furigana": "結果【けっか】は予想【よそう】に反【はん】して傾【かたむ】いた。",
+    "meaning": "The results leaned contrary to expectations."
+  },
+  {
+    "sentence": "若い世代は新しい文化に傾いている。",
+    "sentence_furigana": "若【わか】い世代【せだい】は新【あたら】しい文化【ぶんか】に傾【かし】いている。",
+    "meaning": "The younger generation is leaning towards new culture."
+  },
+  {
+    "sentence": "その計画は失敗する傾きがある。",
+    "sentence_furigana": "その計画【けいかく】は失敗【しっぱい】する傾【かたむ】きがある。",
+    "meaning": "That plan has a tendency to fail."
+  },
+  {
+    "sentence": "彼女の話に耳を傾けた。",
+    "sentence_furigana": "彼女【かのじょ】の話【はなし】に耳【みみ】を傾【かたむ】けた。",
+    "meaning": "I listened intently to her story."
+  },
+  {
+    "sentence": "彼は慈善事業に傾倒している。",
+    "sentence_furigana": "彼【かれ】は慈善事業【じぜんじぎょう】に傾【けい】倒【とう】している。",
+    "meaning": "He is devoted to charitable work."
+  },
+  {
+    "sentence": "世論は政府に傾いた。",
+    "sentence_furigana": "世論【せろん】は政府【せいふ】に傾【かたむ】いた。",
+    "meaning": "Public opinion leaned towards the government."
+  },
+  {
+    "sentence": "この古い建物は少し傾いている。",
+    "sentence_furigana": "この古【ふる】い建物【たてもの】は少【すこ】し傾【かし】いている。",
+    "meaning": "This old building is leaning a little."
+  },
+  {
+    "sentence": "彼は保守的な考えに傾いている。",
+    "sentence_furigana": "彼【かれ】は保守的【ほしゅてき】な考【かんが】えに傾【かし】いている。",
+    "meaning": "He is inclined to conservative thinking."
+  },
+  {
+    "sentence": "議論は白熱する傾向にある。",
+    "sentence_furigana": "議論【ぎろん】は白熱【はくねつ】する傾向【けいこう】にある。",
+    "meaning": "The debate tends to become heated."
+  },
+  {
+    "sentence": "子供たちは遊びに夢中になった。",
+    "sentence_furigana": "子供【こども】たちは遊【あそ】びに夢中【むちゅう】になった。",
+    "meaning": "The children became engrossed in play."
+  },
+  {
+    "sentence": "その方針は進歩的な方向へ傾いた。",
+    "sentence_furigana": "その方針【ほうしん】は進歩的【しんぽてき】な方向【ほうこう】へ傾【かたむ】いた。",
+    "meaning": "The policy leaned in a progressive direction."
+  },
+  {
+    "sentence": "彼は芸術に傾倒した人生を送った。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】に傾【けい】倒【とう】した人生【じんせい】を送【おく】った。",
+    "meaning": "He lived a life devoted to art."
+  },
+  {
+    "sentence": "彼は新しい技術に興味を示した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】に興味【きょうみ】を示【しめ】した。",
+    "meaning": "He showed interest in new technology."
+  },
+  {
+    "sentence": "この橋は少し傾いているように見える。",
+    "sentence_furigana": "この橋【はし】は少【すこ】し傾【かし】いているように見【み】える。",
+    "meaning": "This bridge seems to be leaning slightly."
+  },
+  {
+    "sentence": "彼女の顔が私の方に傾いた。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】が私【わたし】の方【ほう】に傾【かたむ】いた。",
+    "meaning": "Her face tilted towards me."
+  },
+  {
+    "sentence": "その国は経済的な衰退の傾向にある。",
+    "sentence_furigana": "その国【くに】は経済的【けいざいてき】な衰退【すいたい】の傾向【けいこう】にある。",
+    "meaning": "That country is tending towards economic decline."
+  },
+  {
+    "sentence": "彼は常に公平な視点に立とうと努める。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公平【こうへい】な視点【してん】に立【た】とうと努【つと】める。",
+    "meaning": "He always tries to take an impartial view."
+  },
+  {
+    "sentence": "その提案は多くの支持を集める傾向にある。",
+    "sentence_furigana": "その提案【ていあん】は多【おお】くの支持【しじ】を集【あつ】める傾向【けいこう】にある。",
+    "meaning": "That proposal tends to gather much support."
+  },
+  {
+    "sentence": "彼は読書に没頭した。",
+    "sentence_furigana": "彼【かれ】は読書【どくしょ】に没頭【ぼっとう】した。",
+    "meaning": "He was absorbed in reading."
+  },
+  {
+    "sentence": "この古い家は傾いて建てられた。",
+    "sentence_furigana": "この古【ふる】い家【いえ】は傾【かし】いで建【た】てられた。",
+    "meaning": "This old house was built leaning."
+  },
+  {
+    "sentence": "彼の発言は特定の政党に傾いていた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は特定【とくてい】の政党【せいとう】に傾【かたむ】いていた。",
+    "meaning": "His statement was biased towards a specific political party."
+  },
+  {
+    "sentence": "彼は幼い頃から芸術に傾倒していた。",
+    "sentence_furigana": "彼【かれ】は幼【おさな】い頃【ころ】から芸術【げいじゅつ】に傾【けい】倒【とう】していた。",
+    "meaning": "He had been devoted to art since childhood."
+  },
+  {
+    "sentence": "彼女は長老の話に耳を傾けた。",
+    "sentence_furigana": "彼女【かのじょ】の長老【ちょうろう】の話【はなし】に耳【みみ】を傾【かたむ】けた。",
+    "meaning": "She listened to the elder's story."
+  },
+  {
+    "sentence": "この建築物は傾いているように見える。",
+    "sentence_furigana": "この建築物【けんちくぶつ】は傾【かし】いているように見【み】える。",
+    "meaning": "This structure appears to be leaning."
+  },
+  {
+    "sentence": "市場は下落する傾向にある。",
+    "sentence_furigana": "市場【しじょう】は下落【げらく】する傾向【けいこう】にある。",
+    "meaning": "The market tends to decline."
+  },
+  {
+    "sentence": "彼は冒険に心を傾けた。",
+    "sentence_furigana": "彼【かれ】は冒険【ぼうけん】に心【こころ】を傾【かたむ】けた。",
+    "meaning": "He turned his heart towards adventure."
+  },
+  {
+    "sentence": "その国は内戦で傾いた。",
+    "sentence_furigana": "その国【くに】は内戦【ないせん】で傾【かたむ】いた。",
+    "meaning": "The country was ruined by civil war."
+  },
+  {
+    "sentence": "彼女は常に正義を重んじる。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に正義【せいぎ】を重ん【おもん】じる。",
+    "meaning": "She always emphasizes justice."
+  },
+  {
+    "sentence": "彼の判断は時々偏っている。",
+    "sentence_furigana": "彼【かれ】の判断【はんだん】は時々【ときどき】偏【かたむ】いている。",
+    "meaning": "His judgment is sometimes biased."
+  },
+  {
+    "sentence": "そびえ立つ塔が西に傾いている。",
+    "sentence_furigana": "そびえ立【た】つ塔【とう】が西【にし】に傾【かし】いている。",
+    "meaning": "The towering spire leans to the west."
+  },
+  {
+    "sentence": "彼は新しい哲学に傾倒した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい哲学【てつがく】に傾【けい】倒【とう】した。",
+    "meaning": "He devoted himself to a new philosophy."
+  },
+  {
+    "sentence": "この問題は複雑化する傾向にある。",
+    "sentence_furigana": "この問題【もんだい】は複雑化【ふくざつか】する傾向【けいこう】にある。",
+    "meaning": "This problem tends to become complicated."
+  },
+  {
+    "sentence": "彼は古い慣習に固執した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い慣習【かんしゅう】に固執【こしゅう】した。",
+    "meaning": "He clung to old customs."
+  },
+  {
+    "sentence": "彼女は子供たちの声に耳を傾けた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの声【こえ】に耳【みみ】を傾【かたむ】けた。",
+    "meaning": "She listened to the voices of the children."
+  },
+  {
+    "sentence": "その建物は明らかに傾いている。",
+    "sentence_furigana": "その建物【たてもの】は明【あき】らかに傾【かし】いている。",
+    "meaning": "That building is clearly leaning."
+  },
+  {
+    "sentence": "彼の忠告に耳を傾けるべきだ。",
+    "sentence_furigana": "彼【かれ】の忠告【ちゅうこく】に耳【みみ】を傾【かたむ】けるべきだ。",
+    "meaning": "You should listen to his advice."
+  },
+  {
+    "sentence": "この政策は経済成長を促す傾向がある。",
+    "sentence_furigana": "この政策【せいさく】は経済成長【けいざいせいちょう】を促【うなが】す傾向【けいこう】がある。",
+    "meaning": "This policy tends to promote economic growth."
+  },
+  {
+    "sentence": "彼の話はいつも興味深い。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも興味深【きょうみぶか】い。",
+    "meaning": "His stories are always interesting."
+  },
+  {
+    "sentence": "彼は権力に心を傾けた。",
+    "sentence_furigana": "彼【かれ】は権力【けんりょく】に心【こころ】を傾【かたむ】けた。",
+    "meaning": "He turned his attention to power."
+  },
+  {
+    "sentence": "政治的な偏見を持つべきではない。",
+    "sentence_furigana": "政治的【せいじてき】な偏見【へんけん】を持【も】つべきではない。",
+    "meaning": "One should not hold political biases."
+  },
+  {
+    "sentence": "彼女の提案に傾いてしまった。",
+    "sentence_furigana": "彼女【かのじょ】の提案【ていあん】に傾【かし】いてしまった。",
+    "meaning": "I ended up leaning towards her proposal."
+  },
+  {
+    "sentence": "その都市は古い歴史に傾倒している。",
+    "sentence_furigana": "その都市【とし】は古【ふる】い歴史【れきし】に傾【けい】倒【とう】している。",
+    "meaning": "That city is devoted to its old history."
+  },
+  {
+    "sentence": "彼の意見は慎重なものだった。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は慎重【しんちょう】なものだった。",
+    "meaning": "His opinion was cautious."
+  },
+  {
+    "sentence": "嵐で船が大きく傾いた。",
+    "sentence_furigana": "嵐【あらし】で船【ふね】が大【おお】きく傾【かたむ】いた。",
+    "meaning": "The ship tilted heavily in the storm."
+  },
+  {
+    "sentence": "彼は常に客観的な視点に立とうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に客観的【きゃっかんてき】な視点【してん】に立【た】とうとする。",
+    "meaning": "He always tries to maintain an objective perspective."
+  },
+  {
+    "sentence": "この流行は一時的なものかもしれない。",
+    "sentence_furigana": "この流行【りゅうこう】は一時的【いちじてき】なものかもしれない。",
+    "meaning": "This trend might be temporary."
+  },
+  {
+    "sentence": "彼女の忠告に耳を傾けてよかった。",
+    "sentence_furigana": "彼女【かのじょ】の忠告【ちゅうこく】に耳【みみ】を傾【かたむ】けてよかった。",
+    "meaning": "It was good that I listened to her advice."
+  },
+  {
+    "sentence": "その計画は破綻する傾向にあった。",
+    "sentence_furigana": "その計画【けいかく】は破綻【はたん】する傾向【けいこう】にあった。",
+    "meaning": "That plan was tending towards failure."
+  },
+  {
+    "sentence": "彼は学問に身を投じた。",
+    "sentence_furigana": "彼【かれ】は学問【がくもん】に身【み】を投【と】じた。",
+    "meaning": "He dedicated himself to scholarship."
+  },
+  {
+    "sentence": "その教えに心を傾けなさい。",
+    "sentence_furigana": "その教【おし】えに心【こころ】を傾【かたむ】けなさい。",
+    "meaning": "Turn your heart towards that teaching."
+  },
+  {
+    "sentence": "彼は常に公平性を保とうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公平性【こうへいせい】を保【たも】とうとする。",
+    "meaning": "He always tries to maintain fairness."
+  },
+  {
+    "sentence": "この塔は古さで傾いている。",
+    "sentence_furigana": "この塔【とう】は古【ふる】さで傾【かし】いている。",
+    "meaning": "This tower is leaning due to age."
+  },
+  {
+    "sentence": "彼の話には一理ある。",
+    "sentence_furigana": "彼【かれ】の話【はなし】には一理【いちり】ある。",
+    "meaning": "There is some truth in his words."
+  },
+  {
+    "sentence": "彼は常に平和を願った。",
+    "sentence_furigana": "彼【かれ】は常【つね】に平和【へいわ】を願【ねが】った。",
+    "meaning": "He always wished for peace."
+  },
+  {
+    "sentence": "その傾向は否定できない。",
+    "sentence_furigana": "その傾向【けいこう】は否定【ひてい】できない。",
+    "meaning": "That trend cannot be denied."
+  },
+  {
+    "sentence": "彼女は慈善活動に多くの時間を費やした。",
+    "sentence_furigana": "彼女【かのじょ】は慈善活動【じぜんかつどう】に多【おお】くの時間【じかん】を費【つい】やした。",
+    "meaning": "She spent much time on charitable activities."
+  },
+  {
+    "sentence": "彼は常に真実を追求する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に真実【しんじつ】を追求【ついきゅう】する。",
+    "meaning": "He always pursues the truth."
+  },
+  {
+    "sentence": "その裁判は公正に進められた。",
+    "sentence_furigana": "その裁判【さいばん】は公正【こうせい】に進【すす】められた。",
+    "meaning": "The trial proceeded fairly."
+  },
+  {
+    "sentence": "彼の意見は私の考えと一致した。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は私【わたし】の考【かんが】えと一致【いっち】した。",
+    "meaning": "His opinion matched my thoughts."
+  },
+  {
+    "sentence": "古い時計がゆっくり傾いた。",
+    "sentence_furigana": "古【ふる】い時計【とけい】がゆっくり傾【かし】いた。",
+    "meaning": "The old clock tilted slowly."
+  },
+  {
+    "sentence": "彼は冒険的な人生を望んだ。",
+    "sentence_furigana": "彼【かれ】は冒険的【ぼうけんてき】な人生【じんせい】を望【のぞ】んだ。",
+    "meaning": "He desired an adventurous life."
+  },
+  {
+    "sentence": "その島は海に沈みつつある。",
+    "sentence_furigana": "その島【しま】は海【うみ】に沈【しず】みつつある。",
+    "meaning": "That island is sinking into the sea."
+  },
+  {
+    "sentence": "彼女は子供の成長に希望を抱いた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の成長【せいちょう】に希望【きぼう】を抱【いだ】いた。",
+    "meaning": "She harbored hope for her child's growth."
+  },
+  {
+    "sentence": "彼は新しい考えに柔軟だった。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい考【かんが】えに柔軟【じゅうなん】だった。",
+    "meaning": "He was flexible towards new ideas."
+  },
+  {
+    "sentence": "その事業は失敗した。",
+    "sentence_furigana": "その事業【じぎょう】は失敗【しっぱい】した。",
+    "meaning": "The business failed."
+  },
+  {
+    "sentence": "彼は常に真実を語るべきだ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に真実【しんじつ】を語【かた】るべきだ。",
+    "meaning": "He should always speak the truth."
+  },
+  {
+    "sentence": "彼女の意見は公平だった。",
+    "sentence_furigana": "彼女【かのじょ】の意見【いけん】は公平【こうへい】だった。",
+    "meaning": "Her opinion was fair."
+  },
+  {
+    "sentence": "彼は科学技術に傾倒した。",
+    "sentence_furigana": "彼【かれ】は科学技術【かがくぎじゅつ】に傾【けい】倒【とう】した。",
+    "meaning": "He devoted himself to science and technology."
+  },
+  {
+    "sentence": "この坂道はかなり傾いている。",
+    "sentence_furigana": "この坂道【さかみち】はかなり傾【かし】いている。",
+    "meaning": "This slope is quite steep."
+  },
+  {
+    "sentence": "彼の話に皆が耳を傾けた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】に皆【みな】が耳【みみ】を傾【かたむ】けた。",
+    "meaning": "Everyone listened to his story."
+  },
+  {
+    "sentence": "彼女は慈善事業に多くを捧げた。",
+    "sentence_furigana": "彼女【かのじょ】は慈善事業【じぜんじぎょう】に多【おお】くを捧【ささ】げた。",
+    "meaning": "She dedicated much to charitable causes."
+  },
+  {
+    "sentence": "彼の発言は聞く価値がある。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は聞【き】く価値【かち】がある。",
+    "meaning": "His statement is worth listening to."
+  },
+  {
+    "sentence": "その傾向はしばらく続くでしょう。",
+    "sentence_furigana": "その傾向【けいこう】はしばらく続【つづ】くでしょう。",
+    "meaning": "That trend will likely continue for a while."
+  },
+  {
+    "sentence": "彼は新しいアイデアに心を傾けた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいアイデアに心【こころ】を傾【かたむ】けた。",
+    "meaning": "He turned his thoughts to new ideas."
+  },
+  {
+    "sentence": "この建物は地震で傾いた。",
+    "sentence_furigana": "この建物【たてもの】は地震【じしん】で傾【かし】いた。",
+    "meaning": "This building tilted due to the earthquake."
+  },
+  {
+    "sentence": "彼女は常に子供たちの幸福を願った。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に子供【こども】たちの幸福【こうふく】を願【ねが】った。",
+    "meaning": "She always wished for the children's happiness."
+  },
+  {
+    "sentence": "彼の進言に耳を傾けるべきだ。",
+    "sentence_furigana": "彼【かれ】の進言【しんげん】に耳【みみ】を傾【かたむ】けるべきだ。",
+    "meaning": "You should listen to his suggestion."
+  },
+  {
+    "sentence": "その会社は経営不振に陥った。",
+    "sentence_furigana": "その会社【かいしゃ】は経営不振【けいえいふしん】に陥【おちい】った。",
+    "meaning": "That company fell into poor management."
+  },
+  {
+    "sentence": "彼は常に調和を重んじた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に調和【ちょうわ】を重ん【おもん】じた。",
+    "meaning": "He always valued harmony."
+  },
+  {
+    "sentence": "この傾斜は危険だ。",
+    "sentence_furigana": "この傾斜【けいしゃ】は危険【きけん】だ。",
+    "meaning": "This incline is dangerous."
+  },
+  {
+    "sentence": "彼女の言葉に耳を傾けてください。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】に耳【みみ】を傾【かたむ】けてください。",
+    "meaning": "Please listen to her words."
+  },
+  {
+    "sentence": "彼は常に正義感を抱いていた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に正義感【せいぎかん】を抱【いだ】いていた。",
+    "meaning": "He always held a sense of justice."
+  },
+  {
+    "sentence": "その考えは一面的な見方だ。",
+    "sentence_furigana": "その考【かんが】えは一面的【いちめんてき】な見方【みかた】だ。",
+    "meaning": "That idea is a one-sided view."
+  },
+  {
+    "sentence": "彼は経験に富む者の意見に傾聴した。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】に富【と】む者【もの】の意見【いけん】に傾聴【けいちょう】した。",
+    "meaning": "He listened attentively to the opinions of experienced people."
+  },
+  {
+    "sentence": "その国は近年経済的に傾いている。",
+    "sentence_furigana": "その国【くに】は近年【きんねん】経済的【けいざいてき】に傾【かたむ】いている。",
+    "meaning": "That country has been economically declining in recent years."
+  },
+  {
+    "sentence": "彼は 항상 진실을 말했습니다.",
+    "sentence_furigana": "彼【かれ】は항상 진실【しんじつ】을 말했습니다.",
+    "meaning": "He always spoke the truth."
+  },
+  {
+    "sentence": "彼女の提案に傾倒した。",
+    "sentence_furigana": "彼女【かのじょ】の提案【ていあん】に傾【けい】倒【とう】した。",
+    "meaning": "I devoted myself to her proposal."
+  },
+  {
+    "sentence": "この計画は成功する見込みがある。",
+    "sentence_furigana": "この計画【けいかく】は成功【せいこう】する見込【みこ】みがある。",
+    "meaning": "This plan has a prospect of success."
+  }
+]

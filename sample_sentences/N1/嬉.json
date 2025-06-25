@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "子供たちは新しいおもちゃをもらって嬉しそうだった。",
+    "sentence_furigana": "子供【こども】たちは新【あたら】しいおもちゃをもらって嬉【うれ】しそうだった。",
+    "meaning": "The children looked happy to receive the new toys."
+  },
+  {
+    "sentence": "合格のお知らせを聞いて、嬉しさでいっぱいになった。",
+    "sentence_furigana": "合格【ごうかく】のお知らせを聞【き】いて、嬉【うれ】しさでいっぱいになった。",
+    "meaning": "Upon hearing the news of my passing, I was filled with joy."
+  },
+  {
+    "sentence": "彼女の笑顔は私をとても嬉しくさせた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は私【わたし】をとても嬉【うれ】しくさせた。",
+    "meaning": "Her smile made me very happy."
+  },
+  {
+    "sentence": "久しぶりに会えた友人に、嬉し涙を流した。",
+    "sentence_furigana": "久しぶりに会【あ】えた友人【ゆうじん】に、嬉【うれ】し涙【なみだ】を流【なが】した。",
+    "meaning": "I shed tears of joy upon meeting a friend I hadn't seen in a long time."
+  },
+  {
+    "sentence": "今日の試合に勝って、チームは皆、嬉しそうだった。",
+    "sentence_furigana": "今日【きょう】の試合【しあい】に勝【か】って、チームは皆【みな】、嬉【うれ】しそうだった。",
+    "meaning": "The whole team looked happy after winning today's match."
+  },
+  {
+    "sentence": "誕生日プレゼントに感激し、彼は嬉しそうに微笑んだ。",
+    "sentence_furigana": "誕生日【たんじょうび】プレゼントに感激【かんげき】し、彼【かれ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "Touched by the birthday present, he smiled happily."
+  },
+  {
+    "sentence": "素晴らしい知らせに、彼女は嬉しそうに声を上げた。",
+    "sentence_furigana": "素晴【すば】らしい知【し】らせに、彼女【かのじょ】は嬉【うれ】しそうに声【こえ】を上【あ】げた。",
+    "meaning": "She cried out with joy at the wonderful news."
+  },
+  {
+    "sentence": "長年の夢が叶って、彼は大変嬉しそうだった。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】って、彼【かれ】は大変【たいへん】嬉【うれ】しそうだった。",
+    "meaning": "He looked very happy as his long-cherished dream came true."
+  },
+  {
+    "sentence": "試験に合格したという連絡を受けて、嬉しさがこみ上げてきた。",
+    "sentence_furigana": "試験【しけん】に合格【ごうかく】したという連絡【れんらく】を受【う】けて、嬉【うれ】しさがこみ上【あ】がってきた。",
+    "meaning": "Receiving the news of passing the exam, happiness welled up inside me."
+  },
+  {
+    "sentence": "予想外の贈り物に、彼女は嬉しそうに目を見開いた。",
+    "sentence_furigana": "予想外【よそうがい】の贈【おく】り物【もの】に、彼女【かのじょ】は嬉【うれ】しそうに目【め】を見開【みひら】いた。",
+    "meaning": "She opened her eyes wide with joy at the unexpected gift."
+  },
+  {
+    "sentence": "皆からの祝福の言葉に、私はとても嬉しかった。",
+    "sentence_furigana": "皆【みな】からの祝福【しゅくふく】の言葉【ことば】に、私【わたし】はとても嬉【うれ】しかった。",
+    "meaning": "I was very happy with everyone's words of blessing."
+  },
+  {
+    "sentence": "旅行の計画がまとまり、子供たちは嬉しそうに跳ね回った。",
+    "sentence_furigana": "旅行【りょこう】の計画【けいかく】がまとまり、子供【こども】たちは嬉【うれ】しそうに跳【は】ね回【まわ】った。",
+    "meaning": "The children jumped around happily as the travel plans came together."
+  },
+  {
+    "sentence": "卒業式で、先生の温かい言葉に嬉し涙を流した。",
+    "sentence_furigana": "卒業式【そつぎょうしき】で、先生【せんせい】の温【あたた】かい言葉【ことば】に嬉【うれ】し涙【なみだ】を流【なが】した。",
+    "meaning": "At the graduation ceremony, I shed tears of joy at my teacher's warm words."
+  },
+  {
+    "sentence": "彼の突然の訪問に、彼女は嬉しそうに微笑んだ。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の訪問【ほうもん】に、彼女【かのじょ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "She smiled happily at his sudden visit."
+  },
+  {
+    "sentence": "新しいプロジェクトの成功を祝い、皆で嬉しそうに乾杯した。",
+    "sentence_furigana": "新【あたら】しいプロジェクトの成功【せいこう】を祝【いわ】い、皆【みな】で嬉【うれ】しそうに乾杯【かんぱい】した。",
+    "meaning": "Everyone cheered happily to celebrate the success of the new project."
+  },
+  {
+    "sentence": "愛する人の無事の帰還に、家族は皆、嬉し涙を流した。",
+    "sentence_furigana": "愛【あい】する人【ひと】の無事【ぶじ】の帰還【きかん】に、家族【かぞく】は皆【みな】、嬉【うれ】し涙【なみだ】を流【なが】した。",
+    "meaning": "The family all shed tears of joy at the safe return of their loved one."
+  },
+  {
+    "sentence": "彼女の努力が認められ、彼はとても嬉しそうだった。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】が認【みと】められ、彼【かれ】はとても嬉【うれ】しそうだった。",
+    "meaning": "He looked very pleased that her efforts were recognized."
+  },
+  {
+    "sentence": "予想以上の成果に、皆、嬉しそうに歓声を上げた。",
+    "sentence_furigana": "予想以上【よそういじょう】の成果【せいか】に、皆【みな】、嬉【うれ】しそうに歓声【かんせい】を上【あ】げた。",
+    "meaning": "Everyone cheered happily at the results exceeding expectations."
+  },
+  {
+    "sentence": "遠く離れた友からの手紙に、彼女は嬉しそうに微笑んだ。",
+    "sentence_furigana": "遠【とお】く離【はな】れた友人【ゆうじん】からの手紙【てがみ】に、彼女【かのじょ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "She smiled happily at the letter from a friend far away."
+  },
+  {
+    "sentence": "長年の研究が実を結び、科学者は嬉しそうだった。",
+    "sentence_furigana": "長年【ながねん】の研究【けんきゅう】が実【み】を結【むす】び、科学者【かがくしゃ】は嬉【うれ】しそうだった。",
+    "meaning": "The scientist looked happy as his years of research bore fruit."
+  },
+  {
+    "sentence": "宝くじに当選し、彼は嬉しさのあまり飛び上がった。",
+    "sentence_furigana": "宝【たか】くじに当選【とうせん】し、彼【かれ】は嬉【うれ】しさのあまり飛【と】び上【あ】がった。",
+    "meaning": "He jumped for joy after winning the lottery."
+  },
+  {
+    "sentence": "再会を喜び、二人は嬉しそうに抱き合った。",
+    "sentence_furigana": "再会【さいかい】を喜【よろこ】び、二人【ふたり】は嬉【うれ】しそうに抱【だ】き合【あ】った。",
+    "meaning": "Rejoicing in their reunion, the two embraced happily."
+  },
+  {
+    "sentence": "頑張った努力が報われ、彼は嬉しそうに顔を上げた。",
+    "sentence_furigana": "頑張【がんば】った努力【どりょく】が報【むく】われ、彼【かれ】は嬉【うれ】しそうに顔【かお】を上【あ】げた。",
+    "meaning": "He looked up happily as his hard work paid off."
+  },
+  {
+    "sentence": "子供たちの無邪気な笑顔に、彼女は嬉しくなった。",
+    "sentence_furigana": "子供【こども】たちの無邪気【むじゃき】な笑顔【えがお】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the innocent smiles of the children."
+  },
+  {
+    "sentence": "受賞の知らせを受け、彼は嬉しそうに笑みをこぼした。",
+    "sentence_furigana": "受賞【じゅしょう】の知【し】らせを受【う】け、彼【かれ】は嬉【うれ】しそうに笑【え】みをこぼした。",
+    "meaning": "He smiled happily upon receiving the news of his award."
+  },
+  {
+    "sentence": "家族の健康を祈り、神様に感謝し、彼は嬉しかった。",
+    "sentence_furigana": "家族【かぞく】の健康【けんこう】を祈【いの】り、神様【かみさま】に感謝【かんしゃ】し、彼【かれ】は嬉【うれ】しかった。",
+    "meaning": "He was happy, praying for his family's health and thanking God."
+  },
+  {
+    "sentence": "久しぶりに友人と再会し、彼は大変嬉しそうだった。",
+    "sentence_furigana": "久しぶりに友人【ゆうじん】と再会【さいかい】し、彼【かれ】は大変【たいへん】嬉【うれ】しそうだった。",
+    "meaning": "He looked very happy to reunite with his friend after a long time."
+  },
+  {
+    "sentence": "素晴らしいサプライズに、彼女は嬉しさのあまり言葉を失った。",
+    "sentence_furigana": "素晴【すば】らしいサプライズに、彼女【かのじょ】は嬉【うれ】しさのあまり言葉【ことば】を失【うしな】った。",
+    "meaning": "She was so happy about the wonderful surprise that she was speechless."
+  },
+  {
+    "sentence": "長年の目標を達成し、彼は嬉し涙を流した。",
+    "sentence_furigana": "長年【ながねん】の目標【もくひょう】を達成【たっせい】し、彼【かれ】は嬉【うれ】し涙【なみだ】を流【なが】した。",
+    "meaning": "He shed tears of joy upon achieving his long-held goal."
+  },
+  {
+    "sentence": "彼女の親切な行為に、彼は心を打たれ、嬉しくなった。",
+    "sentence_furigana": "彼女【かのじょ】の親切【しんせつ】な行為【こうい】に、彼【かれ】は心【こころ】を打【う】たれ、嬉【うれ】しくなった。",
+    "meaning": "He was moved and happy by her kind actions."
+  },
+  {
+    "sentence": "試験の結果が良く、彼女は嬉しそうに笑った。",
+    "sentence_furigana": "試験【しけん】の結果【けっか】が良【よ】く、彼女【かのじょ】は嬉【うれ】しそうに笑【わら】った。",
+    "meaning": "She smiled happily as her test results were good."
+  },
+  {
+    "sentence": "サプライズパーティーに、彼女は嬉しさで胸がいっぱいになった。",
+    "sentence_furigana": "サプライズパーティーに、彼女【かのじょ】は嬉【うれ】しさで胸【むね】がいっぱいになった。",
+    "meaning": "Her heart was filled with joy at the surprise party."
+  },
+  {
+    "sentence": "新しいペットを迎え、子供たちは嬉しそうに跳ね回った。",
+    "sentence_furigana": "新【あたら】しいペットを迎【むか】え、子供【こども】たちは嬉【うれ】しそうに跳【は】ね回【まわ】った。",
+    "meaning": "The children hopped around happily, having welcomed their new pet."
+  },
+  {
+    "sentence": "努力が実り、彼は嬉しそうに頷いた。",
+    "sentence_furigana": "努力【どりょく】が実【み】り、彼【かれ】は嬉【うれ】しそうに頷【うなず】いた。",
+    "meaning": "His efforts bore fruit, and he nodded happily."
+  },
+  {
+    "sentence": "友人の成功を自分のことのように喜び、彼女は嬉しそうだった。",
+    "sentence_furigana": "友人【ゆうじん】の成功【せいこう】を自分【じぶん】のことのように喜【よろこ】び、彼女【かのじょ】は嬉【うれ】しそうだった。",
+    "meaning": "She looked happy, rejoicing in her friend's success as if it were her own."
+  },
+  {
+    "sentence": "恩師からの激励の言葉に、彼は嬉しさで一杯になった。",
+    "sentence_furigana": "恩師【おんし】からの激励【げきれい】の言葉【ことば】に、彼【かれ】は嬉【うれ】しさで一杯【いっぱい】になった。",
+    "meaning": "He was filled with happiness by the encouraging words from his respected teacher."
+  },
+  {
+    "sentence": "彼の温かい心遣いに、私はとても嬉しかった。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かい心遣【こころづか】いに、私【わたし】はとても嬉【うれ】しかった。",
+    "meaning": "I was very happy with his warm thoughtfulness."
+  },
+  {
+    "sentence": "期待以上の結果に、彼女は嬉しそうに微笑んだ。",
+    "sentence_furigana": "期待以上【きたいいじょう】の結果【けっか】に、彼女【かのじょ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "She smiled happily at the results exceeding expectations."
+  },
+  {
+    "sentence": "子供の頃から好きだった歌手に会えて、彼は嬉しさで震えた。",
+    "sentence_furigana": "子供の頃【こどものころ】から好【す】きだった歌手【かしゅ】に会【あ】えて、彼【かれ】は嬉【うれ】しさで震【ふる】えた。",
+    "meaning": "He trembled with happiness upon meeting the singer he had loved since childhood."
+  },
+  {
+    "sentence": "再会を喜び、二人は嬉しそうに手を握り合った。",
+    "sentence_furigana": "再会【さいかい】を喜【よろこ】び、二人【ふたり】は嬉【うれ】しそうに手【て】を握【にぎ】り合【あ】った。",
+    "meaning": "Rejoicing in their reunion, the two happily clasped hands."
+  },
+  {
+    "sentence": "彼女の無邪気な笑顔に、彼は嬉しくなった。",
+    "sentence_furigana": "彼女【かのじょ】の無邪気【むじゃき】な笑顔【えがお】に、彼【かれ】は嬉【うれ】しくなった。",
+    "meaning": "He felt happy at her innocent smile."
+  },
+  {
+    "sentence": "念願のマイホームを手に入れ、彼女は嬉しそうに笑みをこぼした。",
+    "sentence_furigana": "念願【ねんがん】のマイホームを手【て】に入【い】れ、彼女【かのじょ】は嬉【うれ】しそうに笑【え】みをこぼした。",
+    "meaning": "She smiled happily upon acquiring her long-desired new home."
+  },
+  {
+    "sentence": "昇進の知らせを聞き、彼は嬉しさのあまり飛び上がった。",
+    "sentence_furigana": "昇進【しょうしん】の知【し】らせを聞【き】き、彼【かれ】は嬉【うれ】しさのあまり飛【と】び上【あ】がった。",
+    "meaning": "He jumped for joy upon hearing the news of his promotion."
+  },
+  {
+    "sentence": "彼の予想外のプレゼントに、彼女は嬉しそうに目を見開いた。",
+    "sentence_furigana": "彼【かれ】の予想外【よそうがい】のプレゼントに、彼女【かのじょ】は嬉【うれ】しそうに目【め】を見開【みひら】いた。",
+    "meaning": "She opened her eyes wide with joy at his unexpected gift."
+  },
+  {
+    "sentence": "子供たちの元気な声を聞き、母親は嬉しくなった。",
+    "sentence_furigana": "子供【こども】たちの元気【げんき】な声【こえ】を聞【き】き、母親【ははおや】は嬉【うれ】しくなった。",
+    "meaning": "The mother felt happy upon hearing the children's energetic voices."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼は嬉しそうに感謝の言葉を述べた。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼【かれ】は嬉【うれ】しそうに感謝【かんしゃ】の言葉【ことば】を述【の】べた。",
+    "meaning": "He gratefully spoke with happiness as his long-held dream came true."
+  },
+  {
+    "sentence": "彼女の無事な帰宅に、家族は皆、嬉し涙を流した。",
+    "sentence_furigana": "彼女【かのじょ】の無事【ぶじ】な帰宅【きたく】に、家族【かぞく】は皆【みな】、嬉【うれ】し涙【なみだ】を流【なが】した。",
+    "meaning": "The entire family shed tears of joy at her safe return home."
+  },
+  {
+    "sentence": "予想以上の結果に、彼は嬉しさのあまり歓声を上げた。",
+    "sentence_furigana": "予想以上【よそういじょう】の結果【けっか】に、彼【かれ】は嬉【うれ】しさのあまり歓声【かんせい】を上【あ】げた。",
+    "meaning": "He cheered with joy at the results exceeding expectations."
+  },
+  {
+    "sentence": "遠く離れた家族からのメッセージに、彼女は嬉しくなった。",
+    "sentence_furigana": "遠【とお】く離【はな】れた家族【かぞく】からのメッセージに、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the message from her family far away."
+  },
+  {
+    "sentence": "彼の努力が認められ、皆が嬉しそうに拍手を送った。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が認【みと】められ、皆【みな】が嬉【うれ】しそうに拍手【はくしゅ】を送【おく】った。",
+    "meaning": "Everyone applauded happily as his efforts were recognized."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼女は嬉しそうに微笑んだ。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼女【かのじょ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "She smiled happily as her long-held dream came true."
+  },
+  {
+    "sentence": "彼女の笑顔は、彼をとても嬉しくさせた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は、彼【かれ】をとても嬉【うれ】しくさせた。",
+    "meaning": "Her smile made him very happy."
+  },
+  {
+    "sentence": "合格の知らせに、彼女は嬉しさのあまり跳ね上がった。",
+    "sentence_furigana": "合格【ごうかく】の知【し】らせに、彼女【かのじょ】は嬉【うれ】しさのあまり跳【は】ね上【あ】がった。",
+    "meaning": "She jumped for joy at the news of her passing."
+  },
+  {
+    "sentence": "友人の結婚式で、彼女は嬉し涙を流した。",
+    "sentence_furigana": "友人【ゆうじん】の結婚式【けっこんしき】で、彼女【かのじょ】は嬉【うれ】し涙【なみだ】を流【なが】した。",
+    "meaning": "She shed tears of joy at her friend's wedding ceremony."
+  },
+  {
+    "sentence": "彼の優しい言葉に、彼女は嬉しくなった。",
+    "sentence_furigana": "彼【かれ】の優【やさ】しい言葉【ことば】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at his kind words."
+  },
+  {
+    "sentence": "サプライズプレゼントに、彼女は嬉しさで胸がいっぱいになった。",
+    "sentence_furigana": "サプライズプレゼントに、彼女【かのじょ】は嬉【うれ】しさで胸【むね】がいっぱいになった。",
+    "meaning": "Her heart was filled with joy at the surprise present."
+  },
+  {
+    "sentence": "長年の努力が報われ、彼は嬉しそうに頷いた。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が報【むく】われ、彼【かれ】は嬉【うれ】しそうに頷【うなず】いた。",
+    "meaning": "He nodded happily as his years of effort paid off."
+  },
+  {
+    "sentence": "彼の成功を自分のことのように喜び、彼女は嬉しそうだった。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を自分【じぶん】のことのように喜【よろこ】び、彼女【かのじょ】は嬉【うれ】しそうだった。",
+    "meaning": "She looked happy, rejoicing in his success as if it were her own."
+  },
+  {
+    "sentence": "子供たちの無邪気な遊びに、彼女は嬉しくなった。",
+    "sentence_furigana": "子供【こども】たちの無邪気【むじゃき】な遊【あそ】びに、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the children's innocent play."
+  },
+  {
+    "sentence": "恩師からの励ましの言葉に、彼は嬉しさで一杯になった。",
+    "sentence_furigana": "恩師【おんし】からの励【はげ】ましの言葉【ことば】に、彼【かれ】は嬉【うれ】しさで一杯【いっぱい】になった。",
+    "meaning": "He was filled with happiness by the words of encouragement from his respected teacher."
+  },
+  {
+    "sentence": "彼女の温かい心遣いに、私は嬉しかった。",
+    "sentence_furigana": "彼女【かのじょ】の温【あたた】かい心遣【こころづか】いに、私【わたし】は嬉【うれ】しかった。",
+    "meaning": "I was happy with her warm thoughtfulness."
+  },
+  {
+    "sentence": "期待以上の結果に、彼女は嬉しそうに笑った。",
+    "sentence_furigana": "期待以上【きたいいじょう】の結果【けっか】に、彼女【かのじょ】は嬉【うれ】しそうに笑【わら】った。",
+    "meaning": "She smiled happily at the results exceeding expectations."
+  },
+  {
+    "sentence": "子供の頃から憧れていた女優に会えて、彼女は嬉しさで震えた。",
+    "sentence_furigana": "子供の頃【こどものころ】から憧【あこが】れていた女優【じょゆう】に会【あ】えて、彼女【かのじょ】は嬉【うれ】しさで震【ふる】えた。",
+    "meaning": "She trembled with happiness upon meeting the actress she had admired since childhood."
+  },
+  {
+    "sentence": "友人の結婚を祝って、彼女は嬉しそうに微笑んだ。",
+    "sentence_furigana": "友人【ゆうじん】の結婚【けっこん】を祝【いわ】って、彼女【かのじょ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "She smiled happily while celebrating her friend's marriage."
+  },
+  {
+    "sentence": "彼の無邪気な笑顔に、彼女は嬉しくなった。",
+    "sentence_furigana": "彼【かれ】の無邪気【むじゃき】な笑顔【えがお】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at his innocent smile."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼は嬉しそうに両手を広げた。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼【かれ】は嬉【うれ】しそうに両手【りょうて】を広【ひろ】げた。",
+    "meaning": "He spread his arms wide happily as his long-held dream came true."
+  },
+  {
+    "sentence": "彼女の無事な到着に、家族は皆、嬉しさで駆け寄った。",
+    "sentence_furigana": "彼女【かのじょ】の無事【ぶじ】な到着【とうちゃく】に、家族【かぞく】は皆【みな】、嬉【うれ】しさで駆【か】け寄【よ】った。",
+    "meaning": "The whole family rushed over happily upon her safe arrival."
+  },
+  {
+    "sentence": "予想以上の成果に、彼女は嬉しさのあまり飛び上がった。",
+    "sentence_furigana": "予想以上【よそういじょう】の成果【せいか】に、彼女【かのじょ】は嬉【うれ】しさのあまり飛【と】び上【あ】がった。",
+    "meaning": "She jumped for joy at the results exceeding expectations."
+  },
+  {
+    "sentence": "遠く離れた親からの連絡に、彼女は嬉しくなった。",
+    "sentence_furigana": "遠【とお】く離【はな】れた親【おや】からの連絡【れんらく】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the contact from her parents far away."
+  },
+  {
+    "sentence": "彼の努力が認められ、彼女は嬉しそうに微笑んだ。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が認【みと】められ、彼女【かのじょ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "She smiled happily as his efforts were recognized."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼女は嬉しさで一杯になった。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼女【かのじょ】は嬉【うれ】しさで一杯【いっぱい】になった。",
+    "meaning": "She was filled with happiness as her long-held dream came true."
+  },
+  {
+    "sentence": "彼女の優しい笑顔は、彼をとても嬉しくさせた。",
+    "sentence_furigana": "彼女【かのじょ】の優【やさ】しい笑顔【えがお】は、彼【かれ】をとても嬉【うれ】しくさせた。",
+    "meaning": "Her gentle smile made him very happy."
+  },
+  {
+    "sentence": "合格の知らせに、彼は嬉しさのあまり叫び声を上げた。",
+    "sentence_furigana": "合格【ごうかく】の知【し】らせに、彼【かれ】は嬉【うれ】しさのあまり叫【さけ】び声【ごえ】を上【あ】げた。",
+    "meaning": "He cried out with joy upon hearing the news of his passing."
+  },
+  {
+    "sentence": "友人の成功を自分のことのように喜び、彼は嬉しそうだった。",
+    "sentence_furigana": "友人【ゆうじん】の成功【せいこう】を自分【じぶん】のことのように喜【よろこ】び、彼【かれ】は嬉【うれ】しそうだった。",
+    "meaning": "He looked happy, rejoicing in his friend's success as if it were his own."
+  },
+  {
+    "sentence": "子供たちの無邪気な歌声に、彼女は嬉しくなった。",
+    "sentence_furigana": "子供【こども】たちの無邪気【むじゃき】な歌声【うたごえ】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the children's innocent singing voices."
+  },
+  {
+    "sentence": "恩師からの激励の言葉に、彼女は嬉しさで一杯になった。",
+    "sentence_furigana": "恩師【おんし】からの激励【げきれい】の言葉【ことば】に、彼女【かのじょ】は嬉【うれ】しさで一杯【いっぱい】になった。",
+    "meaning": "She was filled with happiness by the encouraging words from her respected teacher."
+  },
+  {
+    "sentence": "彼の温かい心遣いに、私は嬉しくなった。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かい心遣【こころづか】いに、私【わたし】は嬉【うれ】しくなった。",
+    "meaning": "I felt happy with his warm thoughtfulness."
+  },
+  {
+    "sentence": "期待以上の結果に、彼は嬉しさのあまり笑みをこぼした。",
+    "sentence_furigana": "期待以上【きたいいじょう】の結果【けっか】に、彼【かれ】は嬉【うれ】しさのあまり笑【え】みをこぼした。",
+    "meaning": "He smiled happily at the results exceeding expectations."
+  },
+  {
+    "sentence": "子供の頃から憧れていた作曲家に会えて、彼は嬉しさで震えた。",
+    "sentence_furigana": "子供の頃【こどものころ】から憧【あこが】れていた作曲家【さっきょくか】に会【あ】えて、彼【かれ】は嬉【うれ】しさで震【ふる】えた。",
+    "meaning": "He trembled with happiness upon meeting the composer he had admired since childhood."
+  },
+  {
+    "sentence": "友人の結婚を祝って、彼は嬉しそうに手を握った。",
+    "sentence_furigana": "友人【ゆうじん】の結婚【けっこん】を祝【いわ】って、彼【かれ】は嬉【うれ】しそうに手【て】を握【にぎ】った。",
+    "meaning": "He happily grasped hands while celebrating his friend's marriage."
+  },
+  {
+    "sentence": "彼女の無邪気な行動に、彼は嬉しくなった。",
+    "sentence_furigana": "彼女【かのじょ】の無邪気【むじゃき】な行動【こうどう】に、彼【かれ】は嬉【うれ】しくなった。",
+    "meaning": "He felt happy at her innocent behavior."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼女は嬉しそうに歓声を上げた。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼女【かのじょ】は嬉【うれ】しそうに歓声【かんせい】を上【あ】げた。",
+    "meaning": "She cried out happily as her long-held dream came true."
+  },
+  {
+    "sentence": "彼の無事な帰宅に、家族は皆、嬉しさで駆け寄った。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】な帰宅【きたく】に、家族【かぞく】は皆【みな】、嬉【うれ】しさで駆【か】け寄【よ】った。",
+    "meaning": "The whole family rushed over happily upon his safe return home."
+  },
+  {
+    "sentence": "予想以上の結果に、彼は嬉しさのあまり飛び上がった。",
+    "sentence_furigana": "予想以上【よそういじょう】の結果【けっか】に、彼【かれ】は嬉【うれ】しさのあまり飛【と】び上【あ】がった。",
+    "meaning": "He jumped for joy at the results exceeding expectations."
+  },
+  {
+    "sentence": "遠く離れた友人からの電話に、彼女は嬉しくなった。",
+    "sentence_furigana": "遠【とお】く離【はな】れた友人【ゆうじん】からの電話【でんわ】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the phone call from her friend far away."
+  },
+  {
+    "sentence": "彼の努力が認められ、彼女は嬉しそうに顔を上げた。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が認【みと】められ、彼女【かのじょ】は嬉【うれ】しそうに顔【かお】を上【あ】げた。",
+    "meaning": "She looked up happily as his efforts were recognized."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼は嬉しそうに微笑んだ。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼【かれ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "He smiled happily as his long-held dream came true."
+  },
+  {
+    "sentence": "彼女の励ましに、彼は嬉しくなった。",
+    "sentence_furigana": "彼女【かのじょ】の励【はげ】ましに、彼【かれ】は嬉【うれ】しくなった。",
+    "meaning": "He felt happy at her encouragement."
+  },
+  {
+    "sentence": "合格の知らせに、彼女は嬉しさのあまり泣き出した。",
+    "sentence_furigana": "合格【ごうかく】の知【し】らせに、彼女【かのじょ】は嬉【うれ】しさのあまり泣【な】き出【だ】した。",
+    "meaning": "She burst into tears of joy upon hearing the news of her passing."
+  },
+  {
+    "sentence": "友人の成功を祝って、彼女は嬉しそうに杯を上げた。",
+    "sentence_furigana": "友人【ゆうじん】の成功【せいこう】を祝【いわ】って、彼女【かのじょ】は嬉【うれ】しそうに杯【さかずき】を上【あ】げた。",
+    "meaning": "She happily raised her glass to celebrate her friend's success."
+  },
+  {
+    "sentence": "子供たちの無邪気な歌に、彼女は嬉しくなった。",
+    "sentence_furigana": "子供【こども】たちの無邪気【むじゃき】な歌【うた】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the children's innocent song."
+  },
+  {
+    "sentence": "恩師からの祝福の言葉に、彼は嬉しさで一杯になった。",
+    "sentence_furigana": "恩師【おんし】からの祝福【しゅくふく】の言葉【ことば】に、彼【かれ】は嬉【うれ】しさで一杯【いっぱい】になった。",
+    "meaning": "He was filled with happiness by the words of blessing from his respected teacher."
+  },
+  {
+    "sentence": "彼の優しい気遣いに、私は嬉しくなった。",
+    "sentence_furigana": "彼【かれ】の優【やさ】しい気遣【きづか】いに、私【わたし】は嬉【うれ】しくなった。",
+    "meaning": "I felt happy with his gentle consideration."
+  },
+  {
+    "sentence": "期待以上の成果に、彼女は嬉しさのあまり歓声を上げた。",
+    "sentence_furigana": "期待以上【きたいいじょう】の成果【せいか】に、彼女【かのじょ】は嬉【うれ】しさのあまり歓声【かんせい】を上【あ】げた。",
+    "meaning": "She cried out happily at the results exceeding expectations."
+  },
+  {
+    "sentence": "子供の頃から尊敬していた作家に会えて、彼女は嬉しさで震えた。",
+    "sentence_furigana": "子供の頃【こどものころ】から尊敬【そんけい】していた作家【さっか】に会【あ】えて、彼女【かのじょ】は嬉【うれ】しさで震【ふる】えた。",
+    "meaning": "She trembled with happiness upon meeting the author she had respected since childhood."
+  },
+  {
+    "sentence": "友人の結婚を祝って、彼は嬉しそうに笑みをこぼした。",
+    "sentence_furigana": "友人【ゆうじん】の結婚【けっこん】を祝【いわ】って、彼【かれ】は嬉【うれ】しそうに笑【え】みをこぼした。",
+    "meaning": "He smiled happily while celebrating his friend's marriage."
+  },
+  {
+    "sentence": "彼女の無邪気な行動に、彼は嬉しそうに微笑んだ。",
+    "sentence_furigana": "彼女【かのじょ】の無邪気【むじゃき】な行動【こうどう】に、彼【かれ】は嬉【うれ】しそうに微笑【ほほえ】んだ。",
+    "meaning": "He smiled happily at her innocent behavior."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼女は嬉しそうに両手を広げた。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼女【かのじょ】は嬉【うれ】しそうに両手【りょうて】を広【ひろ】げた。",
+    "meaning": "She spread her arms wide happily as her long-held dream came true."
+  },
+  {
+    "sentence": "彼の無事な帰宅に、家族は皆、嬉しさで微笑んだ。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】な帰宅【きたく】に、家族【かぞく】は皆【みな】、嬉【うれ】しさで微笑【ほほえ】んだ。",
+    "meaning": "The whole family smiled happily upon his safe return home."
+  },
+  {
+    "sentence": "予想以上の成果に、彼女は嬉しさのあまり飛び上がった。",
+    "sentence_furigana": "予想以上【よそういじょう】の成果【せいか】に、彼女【かのじょ】は嬉【うれ】しさのあまり飛【と】び上【あ】がった。",
+    "meaning": "She jumped for joy at the results exceeding expectations."
+  },
+  {
+    "sentence": "遠く離れた親からの手紙に、彼女は嬉しくなった。",
+    "sentence_furigana": "遠【とお】く離【はな】れた親【おや】からの手紙【てがみ】に、彼女【かのじょ】は嬉【うれ】しくなった。",
+    "meaning": "She felt happy at the letter from her parents far away."
+  },
+  {
+    "sentence": "彼の努力が認められ、彼女は嬉しそうに跳ね回った。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が認【みと】められ、彼女【かのじょ】は嬉【うれ】しそうに跳【は】ね回【まわ】った。",
+    "meaning": "She jumped around happily as his efforts were recognized."
+  },
+  {
+    "sentence": "長年の夢が叶い、彼は嬉しさのあまり跳ね上がった。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、彼【かれ】は嬉【うれ】しさのあまり跳【は】ね上【あ】がった。",
+    "meaning": "He jumped for joy as his long-held dream came true."
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "sentence": "材料はすべて揃っています。",
+    "sentence_furigana": "材料【ざいりょう】はすべて揃【そろ】っています。",
+    "meaning": "All the materials are ready."
+  },
+  {
+    "sentence": "この木材はとても丈夫だ。",
+    "sentence_furigana": "この木材【もくざい】はとても丈夫【じょうぶ】だ。",
+    "meaning": "This lumber is very strong."
+  },
+  {
+    "sentence": "彼は才能のある人材だ。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】のある人材【じんざい】だ。",
+    "meaning": "He is a talented person."
+  },
+  {
+    "sentence": "この料理には特別な材料が必要だ。",
+    "sentence_furigana": "この料理【りょうり】には特別【とくべつ】な材料【ざいりょう】が必要【ひつよう】だ。",
+    "meaning": "This dish requires special ingredients."
+  },
+  {
+    "sentence": "建築用の木材を運びました。",
+    "sentence_furigana": "建築用【けんちくよう】の木材【もくざい】を運【はこ】びました。",
+    "meaning": "We transported lumber for construction."
+  },
+  {
+    "sentence": "新しいプロジェクトの人材を募集しています。",
+    "sentence_furigana": "新【あたら】しいプロジェクトの人材【じんざい】を募集【ぼしゅう】しています。",
+    "meaning": "We are recruiting personnel for the new project."
+  },
+  {
+    "sentence": "彼は会社の貴重な財産です。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の貴重【きちょう】な財産【ざいさん】です。",
+    "meaning": "He is a valuable asset to the company."
+  },
+  {
+    "sentence": "この家具は良質な木材で作られている。",
+    "sentence_furigana": "この家具【かぐ】は良質【りょうしつ】な木材【もくざい】で作【つく】られている。",
+    "meaning": "This furniture is made of high-quality wood."
+  },
+  {
+    "sentence": "必要な材料をリストアップしてください。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】をリストアップしてください。",
+    "meaning": "Please list the necessary materials."
+  },
+  {
+    "sentence": "彼は将来有望な人材だと評価された。",
+    "sentence_furigana": "彼【かれ】は将来有望【しょうらいゆうぼう】な人材【じんざい】だと評価【ひょうか】された。",
+    "meaning": "He was recognized as a promising talent for the future."
+  },
+  {
+    "sentence": "この建物は木材がふんだんに使われている。",
+    "sentence_furigana": "この建物【たてもの】は木材【もくざい】がふんだんに使【つか】われている。",
+    "meaning": "This building uses a lot of timber."
+  },
+  {
+    "sentence": "調味料も重要な材料の一つです。",
+    "sentence_furigana": "調味料【ちょうみりょう】も重要【じゅうよう】な材料【ざいりょう】の一【ひと】つです。",
+    "meaning": "Seasonings are also important ingredients."
+  },
+  {
+    "sentence": "彼は優秀な人材としてチームに貢献した。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】な人材【じんざい】としてチームに貢献【こうけん】した。",
+    "meaning": "He contributed to the team as an excellent member."
+  },
+  {
+    "sentence": "この木材は加工しやすい。",
+    "sentence_furigana": "この木材【もくざい】は加工【かこう】しやすい。",
+    "meaning": "This wood is easy to process."
+  },
+  {
+    "sentence": "新しい企画のために新しい人材が必要だ。",
+    "sentence_furigana": "新【あたら】しい企画【きかく】のために新【あたら】しい人材【じんざい】が必要【ひつよう】だ。",
+    "meaning": "New personnel are needed for the new plan."
+  },
+  {
+    "sentence": "この商品は様々な材料から作られています。",
+    "sentence_furigana": "この商品【しょうひん】は様々【さまざま】な材料【ざいりょう】から作【つく】られています。",
+    "meaning": "This product is made from various materials."
+  },
+  {
+    "sentence": "彼はその仕事に適した人材だと考えられている。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に適【てき】した人材【じんざい】だと考【かんが】えられている。",
+    "meaning": "He is considered suitable personnel for that job."
+  },
+  {
+    "sentence": "木材の価格が上昇している。",
+    "sentence_furigana": "木材【もくざい】の価格【かかく】が上昇【じょうしょう】している。",
+    "meaning": "The price of lumber is rising."
+  },
+  {
+    "sentence": "この料理の主な材料は何ですか？",
+    "sentence_furigana": "この料理【りょうり】の主要【しゅよう】な材料【ざいりょう】は何【なん】ですか？",
+    "meaning": "What are the main ingredients of this dish?"
+  },
+  {
+    "sentence": "彼は会社にとってかけがえのない人材だ。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】にとってかけがえのない人材【じんざい】だ。",
+    "meaning": "He is an irreplaceable asset to the company."
+  },
+  {
+    "sentence": "建築現場では多くの木材が使われる。",
+    "sentence_furigana": "建築現場【けんちくげんば】では多【おお】くの木材【もくざい】が使【つか】われる。",
+    "meaning": "A lot of timber is used at construction sites."
+  },
+  {
+    "sentence": "この製品はリサイクル可能な材料で作られています。",
+    "sentence_furigana": "この製品【せいひん】はリサイクル可能【かのう】な材料【ざいりょう】で作【つく】られています。",
+    "meaning": "This product is made from recyclable materials."
+  },
+  {
+    "sentence": "彼は優秀な人材を育成することに情熱を燃やしている。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】な人材【じんざい】を育成【いくせい】することに情熱【じょうねつ】を燃【も】やしている。",
+    "meaning": "He is passionate about developing talented individuals."
+  },
+  {
+    "sentence": "この木材は耐久性に優れている。",
+    "sentence_furigana": "この木材【もくざい】は耐久性【たいきゅうせい】に優【すぐ】れている。",
+    "meaning": "This wood has excellent durability."
+  },
+  {
+    "sentence": "材料費を削減する必要があります。",
+    "sentence_furigana": "材料費【ざいりょうひ】を削減【さくげん】する必要【ひつよう】があります。",
+    "meaning": "We need to reduce material costs."
+  },
+  {
+    "sentence": "彼はチームの重要な人材として認められている。",
+    "sentence_furigana": "彼【かれ】はチームの重要【じゅうよう】な人材【じんざい】として認【みと】められている。",
+    "meaning": "He is recognized as an important member of the team."
+  },
+  {
+    "sentence": "この木材は美しい木目を持っている。",
+    "sentence_furigana": "この木材【もくざい】は美【うつく】しい木目【もくめ】を持【も】っている。",
+    "meaning": "This wood has beautiful grain."
+  },
+  {
+    "sentence": "その計画には優秀な人材が集まった。",
+    "sentence_furigana": "その計画【けいかく】には優秀【ゆうしゅう】な人材【じんざい】が集【あつ】まった。",
+    "meaning": "Talented people gathered for that plan."
+  },
+  {
+    "sentence": "これは高品質な材料で作られた製品です。",
+    "sentence_furigana": "これは高品質【こうひんしつ】な材料【ざいりょう】で作【つく】られた製品【せいひん】です。",
+    "meaning": "This is a product made from high-quality materials."
+  },
+  {
+    "sentence": "彼は多くの経験を持つベテラン材だ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を持【も】つベテラン材【ざい】だ。",
+    "meaning": "He is a veteran with a lot of experience."
+  },
+  {
+    "sentence": "この木材は建築基準を満たしている。",
+    "sentence_furigana": "この木材【もくざい】は建築基準【けんちくきじゅん】を満【み】たしている。",
+    "meaning": "This lumber meets the building standards."
+  },
+  {
+    "sentence": "人材育成は会社の将来にとって重要です。",
+    "sentence_furigana": "人材育成【じんざいいくせい】は会社【かいしゃ】の将来【しょうらい】にとって重要【じゅうよう】です。",
+    "meaning": "Personnel development is important for the company's future."
+  },
+  {
+    "sentence": "この調理器具は安全な材料で作られている。",
+    "sentence_furigana": "この調理器具【ちょうりきぐ】は安全【あんぜん】な材料【ざいりょう】で作【つく】られている。",
+    "meaning": "This cooking utensil is made of safe materials."
+  },
+  {
+    "sentence": "彼は様々な才能を持つ多才な人材だ。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な才能【さいのう】を持【も】つ多才【たさい】な人材【じんざい】だ。",
+    "meaning": "He is a versatile person with various talents."
+  },
+  {
+    "sentence": "木材の乾燥には時間がかかる。",
+    "sentence_furigana": "木材【もくざい】の乾燥【かんそう】には時間【じかん】がかかる。",
+    "meaning": "Drying lumber takes time."
+  },
+  {
+    "sentence": "このプロジェクトに必要な人材をリストアップしてください。",
+    "sentence_furigana": "このプロジェクトに必要な人材【じんざい】をリストアップしてください。",
+    "meaning": "Please list the personnel required for this project."
+  },
+  {
+    "sentence": "製品の材料表示を確認してください。",
+    "sentence_furigana": "製品【せいひん】の材料表示【ざいりょうひょうじ】を確認【かくにん】してください。",
+    "meaning": "Please check the product's material labeling."
+  },
+  {
+    "sentence": "彼はチームをまとめる人材として期待されている。",
+    "sentence_furigana": "彼【かれ】はチームをまとめる人材【じんざい】として期待【きたい】されている。",
+    "meaning": "He is expected to be a person who can unite the team."
+  },
+  {
+    "sentence": "この木材は加工が容易である。",
+    "sentence_furigana": "この木材【もくざい】は加工【かこう】が容易【ようい】である。",
+    "meaning": "This timber is easy to work with."
+  },
+  {
+    "sentence": "必要な材料を調達する必要があります。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】を調達【ちょうたつ】する必要【ひつよう】があります。",
+    "meaning": "We need to procure the necessary materials."
+  },
+  {
+    "sentence": "彼女は将来有望な人材としてスカウトされた。",
+    "sentence_furigana": "彼女【かのじょ】は将来有望【しょうらいゆうぼう】な人材【じんざい】としてスカウトされた。",
+    "meaning": "She was scouted as a promising talent for the future."
+  },
+  {
+    "sentence": "この木材は防腐処理が施されている。",
+    "sentence_furigana": "この木材【もくざい】は防腐処理【ぼうふしょり】が施【ほどこ】されている。",
+    "meaning": "This lumber has been treated for rot prevention."
+  },
+  {
+    "sentence": "この料理の材料はすべて新鮮です。",
+    "sentence_furigana": "この料理【りょうり】の材料【ざいりょう】はすべて新鮮【しんせん】です。",
+    "meaning": "All the ingredients for this dish are fresh."
+  },
+  {
+    "sentence": "彼は組織の潤滑油となる人材だ。",
+    "sentence_furigana": "彼【かれ】は組織【そしき】の潤滑油【じゅんかつゆ】となる人材【じんざい】だ。",
+    "meaning": "He is the kind of person who acts as a lubricant for the organization."
+  },
+  {
+    "sentence": "この木材はリサイクルされたものです。",
+    "sentence_furigana": "この木材【もくざい】はリサイクルされたものです。",
+    "meaning": "This wood is recycled."
+  },
+  {
+    "sentence": "優秀な人材を確保することは企業の成長に不可欠です。",
+    "sentence_furigana": "優秀【ゆうしゅう】な人材【じんざい】を確保【かくほ】することは企業【きぎょう】の成長【せいちょう】に不可欠【ふかけつ】です。",
+    "meaning": "Securing talented personnel is essential for corporate growth."
+  },
+  {
+    "sentence": "この製品には天然材料が多く使われている。",
+    "sentence_furigana": "この製品【せいひん】には天然材料【てんねんざいりょう】が多【おお】く使【つか】われている。",
+    "meaning": "This product uses many natural materials."
+  },
+  {
+    "sentence": "彼はどんな困難にも対応できる人材だ。",
+    "sentence_furigana": "彼【かれ】はどんな困難【こんなん】にも対応【たいおう】できる人材【じんざい】だ。",
+    "meaning": "He is a capable person who can handle any difficulty."
+  },
+  {
+    "sentence": "この木材は建築資材として広く利用されている。",
+    "sentence_furigana": "この木材【もくざい】は建築資材【けんちくしざい】として広【ひろ】く利用【りよう】されている。",
+    "meaning": "This lumber is widely used as building material."
+  },
+  {
+    "sentence": "材料の原産地を確認しました。",
+    "sentence_furigana": "材料【ざいりょう】の原産地【げんさんち】を確認【かくにん】しました。",
+    "meaning": "I checked the origin of the materials."
+  },
+  {
+    "sentence": "彼は会社の発展に貢献する人材です。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の発展【はってん】に貢献【こうけん】する人材【じんざい】です。",
+    "meaning": "He is a person who contributes to the company's development."
+  },
+  {
+    "sentence": "この木材は特別な処理が施されている。",
+    "sentence_furigana": "この木材【もくざい】は特別【とくべつ】な処理【しょり】が施【ほどこ】されている。",
+    "meaning": "This timber has undergone special treatment."
+  },
+  {
+    "sentence": "必要な材料の仕入れ状況を確認してください。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】の仕入状況【しいれじょうきょう】を確認【かくにん】してください。",
+    "meaning": "Please check the procurement status of the necessary materials."
+  },
+  {
+    "sentence": "彼はチームのキーパーソンとなる人材だ。",
+    "sentence_furigana": "彼【かれ】はチームのキーパーソンとなる人材【じんざい】だ。",
+    "meaning": "He is the key person for the team."
+  },
+  {
+    "sentence": "この木材は輸入されたものです。",
+    "sentence_furigana": "この木材【もくざい】は輸入【ゆにゅう】されたものです。",
+    "meaning": "This wood is imported."
+  },
+  {
+    "sentence": "彼は多様なスキルを持つ人材として評価されている。",
+    "sentence_furigana": "彼【かれ】は多様【たよう】なスキルを持【も】つ人材【じんざい】として評価【ひょうか】されている。",
+    "meaning": "He is evaluated as a person with diverse skills."
+  },
+  {
+    "sentence": "この製品の主要材料はガラスです。",
+    "sentence_furigana": "この製品【せいひん】の主要材料【しゅようざいりょう】はガラスです。",
+    "meaning": "The main material of this product is glass."
+  },
+  {
+    "sentence": "彼はプロジェクトを成功に導く人材だ。",
+    "sentence_furigana": "彼【かれ】はプロジェクトを成功【せいこう】に導【みちび】く人材【じんざい】だ。",
+    "meaning": "He is a person who leads projects to success."
+  },
+  {
+    "sentence": "この木材は環境に優しい素材だ。",
+    "sentence_furigana": "この木材【もくざい】は環境【かんきょう】に優【やさ】しい素材【そざい】だ。",
+    "meaning": "This wood is an environmentally friendly material."
+  },
+  {
+    "sentence": "材料の調達コストが増加している。",
+    "sentence_furigana": "材料【ざいりょう】の調達コストが増加【ぞうか】している。",
+    "meaning": "The procurement cost of materials is increasing."
+  },
+  {
+    "sentence": "彼女はチームに活力を与える人材だ。",
+    "sentence_furigana": "彼女【かのじょ】はチームに活力【かつりょく】を与【あた】える人材【じんざい】だ。",
+    "meaning": "She is a person who energizes the team."
+  },
+  {
+    "sentence": "この木材は地域の特産品です。",
+    "sentence_furigana": "この木材【もくざい】は地域【ちいき】の特産品【とくさんひん】です。",
+    "meaning": "This lumber is a local specialty."
+  },
+  {
+    "sentence": "彼は問題解決能力の高い人材だ。",
+    "sentence_furigana": "彼【かれ】は問題解決能力【もんだいかいけつのうりょく】の高【たか】い人材【じんざい】だ。",
+    "meaning": "He is a person with high problem-solving ability."
+  },
+  {
+    "sentence": "この製品の材料はすべて天然由来です。",
+    "sentence_furigana": "この製品【せいひん】の材料【ざいりょう】はすべて天然由来【てんねんゆらい】です。",
+    "meaning": "All materials for this product are naturally derived."
+  },
+  {
+    "sentence": "木材の適切な管理が重要です。",
+    "sentence_furigana": "木材【もくざい】の適切【てきせつ】な管理【かんり】が重要【じゅうよう】です。",
+    "meaning": "Proper management of lumber is important."
+  },
+  {
+    "sentence": "彼は次世代を担う人材として期待されている。",
+    "sentence_furigana": "彼【かれ】は次世代【じせだい】を担【にな】う人材【じんざい】として期待【きたい】されている。",
+    "meaning": "He is expected to be a person who will carry the next generation."
+  },
+  {
+    "sentence": "この料理の隠し味となる材料は何ですか？",
+    "sentence_furigana": "この料理【りょうり】の隠【かく】し味【あじ】となる材料【ざいりょう】は何【なん】ですか？",
+    "meaning": "What is the secret ingredient for this dish?"
+  },
+  {
+    "sentence": "彼は学習意欲の高い人材だ。",
+    "sentence_furigana": "彼【かれ】は学習意欲【がくしゅういよく】の高【たか】い人材【じんざい】だ。",
+    "meaning": "He is a person with a strong desire to learn."
+  },
+  {
+    "sentence": "この木材はアレルギー反応を引き起こしません。",
+    "sentence_furigana": "この木材【もくざい】はアレルギー反応【はんのう】を引き起【ひきおこ】しません。",
+    "meaning": "This wood does not cause allergic reactions."
+  },
+  {
+    "sentence": "新しい事業に必要な人材を育成します。",
+    "sentence_furigana": "新【あたら】しい事業【じぎょう】に必要な人材【じんざい】を育成【いくせい】します。",
+    "meaning": "We will train the personnel needed for the new business."
+  },
+  {
+    "sentence": "この製品の製造材料は厳選されています。",
+    "sentence_furigana": "この製品【せいひん】の製造材料【せいぞうざいりょう】は厳選【げんせん】されています。",
+    "meaning": "The manufacturing materials for this product have been carefully selected."
+  },
+  {
+    "sentence": "彼は国際的な視野を持つ人材だ。",
+    "sentence_furigana": "彼【かれ】は国際的【こくさいてき】な視野【しや】を持【も】つ人材【じんざい】だ。",
+    "meaning": "He is a person with an international perspective."
+  },
+  {
+    "sentence": "この木材は火に強い性質を持っている。",
+    "sentence_furigana": "この木材【もくざい】は火【ひ】に強【つよ】い性質【せいしつ】を持【も】っている。",
+    "meaning": "This timber is fire-resistant."
+  },
+  {
+    "sentence": "材料の品質管理を徹底してください。",
+    "sentence_furigana": "材料【ざいりょう】の品質管理【ひんしつかんり】を徹底【てってい】してください。",
+    "meaning": "Please ensure thorough quality control of materials."
+  },
+  {
+    "sentence": "彼は常に新しい知識を吸収する人材だ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】する人材【じんざい】だ。",
+    "meaning": "He is a person who constantly absorbs new knowledge."
+  },
+  {
+    "sentence": "この木材は湿気に強い。",
+    "sentence_furigana": "この木材【もくざい】は湿気【しっけ】に強【つよ】い。",
+    "meaning": "This wood is resistant to moisture."
+  },
+  {
+    "sentence": "この料理は複数の材料を組み合わせて作られています。",
+    "sentence_furigana": "この料理【りょうり】は複数【ふくすう】の材料【ざいりょう】を組【く】み合【あ】わせて作【つく】られています。",
+    "meaning": "This dish is made by combining multiple ingredients."
+  },
+  {
+    "sentence": "彼はチームのリーダーシップを発揮できる人材だ。",
+    "sentence_furigana": "彼【かれ】はチームのリーダーシップを発揮【はっき】できる人材【じんざい】だ。",
+    "meaning": "He is a person who can demonstrate leadership within the team."
+  },
+  {
+    "sentence": "この木材は加工しやすい特性がある。",
+    "sentence_furigana": "この木材【もくざい】は加工【かこう】しやすい特性【とくせい】がある。",
+    "meaning": "This timber has the characteristic of being easy to process."
+  },
+  {
+    "sentence": "必要な材料の在庫を確認する必要があります。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】の在庫【ざいこ】を確認【かくにん】する必要【ひつよう】があります。",
+    "meaning": "We need to check the stock of necessary materials."
+  },
+  {
+    "sentence": "彼は新しい技術を積極的に学ぶ人材だ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】を積極的【せっきょくてき】に学【まな】ぶ人材【じんざい】だ。",
+    "meaning": "He is a person who actively learns new technologies."
+  },
+  {
+    "sentence": "この木材は塗装が容易です。",
+    "sentence_furigana": "この木材【もくざい】は塗装【とそう】が容易【ようい】です。",
+    "meaning": "This wood is easy to paint."
+  },
+  {
+    "sentence": "この製品の材料は環境負荷が少ない。",
+    "sentence_furigana": "この製品【せいひん】の材料【ざいりょう】は環境負荷【かんきょうふか】が少【すく】ない。",
+    "meaning": "The materials for this product have a low environmental impact."
+  },
+  {
+    "sentence": "彼はチームの調和を保つ人材だ。",
+    "sentence_furigana": "彼【かれ】はチームの調和【ちょうわ】を保【たも】つ人材【じんざい】だ。",
+    "meaning": "He is a person who maintains harmony within the team."
+  },
+  {
+    "sentence": "この木材は屋外での使用に適しています。",
+    "sentence_furigana": "この木材【もくざい】は屋外【おくがい】での使用【しよう】に適【てき】しています。",
+    "meaning": "This lumber is suitable for outdoor use."
+  },
+  {
+    "sentence": "必要な材料を効率的に調達する方法を考えましょう。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】を効率的【こうりつてき】に調達【ちょうたつ】する方法【ほうほう】を考【かんが】えましょう。",
+    "meaning": "Let's consider ways to efficiently procure the necessary materials."
+  },
+  {
+    "sentence": "彼は自己管理能力の高い人材だ。",
+    "sentence_furigana": "彼【かれ】は自己管理能力【じこかんりのうりょく】の高【たか】い人材【じんざい】だ。",
+    "meaning": "He is a person with high self-management skills."
+  },
+  {
+    "sentence": "この木材は加工後も形状を維持する。",
+    "sentence_furigana": "この木材【もくざい】は加工後【かこうご】も形状【けいじょう】を維持【いじ】する。",
+    "meaning": "This wood maintains its shape even after processing."
+  },
+  {
+    "sentence": "彼は状況判断に優れた人材だ。",
+    "sentence_furigana": "彼【かれ】は状況判断【じょうきょうはんだん】に優【すぐ】れた人材【じんざい】だ。",
+    "meaning": "He is a person with excellent judgment of situations."
+  },
+  {
+    "sentence": "この製品の材料は国際基準を満たしている。",
+    "sentence_furigana": "この製品【せいひん】の材料【ざいりょう】は国際基準【こくさいきじゅん】を満【み】たしている。",
+    "meaning": "The materials for this product meet international standards."
+  },
+  {
+    "sentence": "彼は粘り強く目標を達成する人材だ。",
+    "sentence_furigana": "彼【かれ】は粘【ねば】り強【つよ】く目標【もくひょう】を達成【たいせい】する人材【じんざい】だ。",
+    "meaning": "He is a person who tenaciously achieves goals."
+  },
+  {
+    "sentence": "この木材は経年変化による味わいがある。",
+    "sentence_furigana": "この木材【もくざい】は経年変化【けいねんへんか】による味わいがある。",
+    "meaning": "This wood has character due to aging."
+  },
+  {
+    "sentence": "必要な材料の品質が安定していることが重要だ。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】の品質【ひんしつ】が安定【あんてい】していることが重要【じゅうよう】だ。",
+    "meaning": "It is important that the quality of the necessary materials is stable."
+  },
+  {
+    "sentence": "彼はチームに新しい視点をもたらす人材だ。",
+    "sentence_furigana": "彼【かれ】はチームに新【あたら】しい視点【してん】をもたらす人材【じんざい】だ。",
+    "meaning": "He is a person who brings new perspectives to the team."
+  },
+  {
+    "sentence": "この木材は加工時に発生する粉塵が少ない。",
+    "sentence_furigana": "この木材【もくざい】は加工時【かこうじ】に発生【はっせい】する粉塵【ふんじん】が少【すく】ない。",
+    "meaning": "This wood generates little dust during processing."
+  },
+  {
+    "sentence": "彼は責任感の強い人材として信頼されている。",
+    "sentence_furigana": "彼【かれ】は責任感【せきにんかん】の強【つよ】い人材【じんざい】として信頼【しんらい】されている。",
+    "meaning": "He is trusted as a person with a strong sense of responsibility."
+  },
+  {
+    "sentence": "この製品の材料はすべて国内産です。",
+    "sentence_furigana": "この製品【せいひん】の材料【ざいりょう】はすべて国内産【こくないさん】です。",
+    "meaning": "All materials for this product are domestically produced."
+  },
+  {
+    "sentence": "彼は困難な状況でも冷静に対処できる人材だ。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】でも冷静【れいせい】に対処【たいしょ】できる人材【じんざい】だ。",
+    "meaning": "He is a person who can calmly handle difficult situations."
+  },
+  {
+    "sentence": "この木材は独特の香りがある。",
+    "sentence_furigana": "この木材【もくざい】は独特【どくとく】の香【かお】りがある。",
+    "meaning": "This wood has a unique fragrance."
+  },
+  {
+    "sentence": "必要な材料のサプライヤーとの関係を強化する。",
+    "sentence_furigana": "必要【ひつよう】な材料【ざいりょう】のサプライヤーとの関係【かんけい】を強化【きょうか】する。",
+    "meaning": "Strengthen relationships with suppliers of necessary materials."
+  },
+  {
+    "sentence": "彼はチームの士気を高める人材だ。",
+    "sentence_furigana": "彼【かれ】はチームの士気【しき】を高【たか】める人材【じんざい】だ。",
+    "meaning": "He is a person who boosts team morale."
+  },
+  {
+    "sentence": "この木材は接着性が良い。",
+    "sentence_furigana": "この木材【もくざい】は接着性【せっちゃくせい】が良い【よい】。",
+    "meaning": "This wood has good adhesion properties."
+  },
+  {
+    "sentence": "彼は協調性に富んだ人材として評価されている。",
+    "sentence_furigana": "彼【かれ】は協調性【きょうちょうせい】に富【と】んだ人材【じんざい】として評価【ひょうか】されている。",
+    "meaning": "He is evaluated as a person rich in cooperativeness."
+  },
+  {
+    "sentence": "この製品は生分解性の材料を使用しています。",
+    "sentence_furigana": "この製品【せいひん】は生分解性【せいぶんかいせい】の材料【ざいりょう】を使用【しよう】しています。",
+    "meaning": "This product uses biodegradable materials."
+  },
+  {
+    "sentence": "彼は新しいアイデアを創造する人材だ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいアイデアを創造【そうぞう】する人材【じんざい】だ。",
+    "meaning": "He is a person who creates new ideas."
+  },
+  {
+    "sentence": "この木材は断熱性に優れている。",
+    "sentence_furigana": "この木材【もくざい】は断熱性【だんねつせい】に優【すぐ】れている。",
+    "meaning": "This timber has excellent insulation properties."
+  },
+  {
+    "sentence": "材料の仕入れ先を多様化する必要があります。",
+    "sentence_furigana": "材料【ざいりょう】の仕入先【しいれさき】を多様化【たようか】する必要【ひつよう】があります。",
+    "meaning": "We need to diversify our material suppliers."
+  },
+  {
+    "sentence": "彼はチームのコミュニケーションを円滑にする人材だ。",
+    "sentence_furigana": "彼【かれ】はチームのコミュニケーションを円滑【えんかつ】にする人材【じんざい】だ。",
+    "meaning": "He is a person who facilitates communication within the team."
+  },
+  {
+    "sentence": "この木材は防水加工が施されている。",
+    "sentence_furigana": "この木材【もくざい】は防水加工【ぼうすいかこう】が施【ほどこ】されている。",
+    "meaning": "This wood has been waterproofed."
+  },
+  {
+    "sentence": "彼はリスクを管理できる人材だ。",
+    "sentence_furigana": "彼【かれ】はリスクを管理【かんり】できる人材【じんざい】だ。",
+    "meaning": "He is a person who can manage risks."
+  },
+  {
+    "sentence": "この製品の材料はすべて持続可能な資源です。",
+    "sentence_furigana": "この製品【せいひん】の材料【ざいりょう】はすべて持続可能【じぞくかのう】な資源【しげん】です。",
+    "meaning": "All materials for this product are from sustainable resources."
+  },
+  {
+    "sentence": "彼はチームの目標達成に貢献する人材だ。",
+    "sentence_furigana": "彼【かれ】はチームの目標達成【もくひょうたいせい】に貢献【こうけん】する人材【じんざい】だ。",
+    "meaning": "He is a person who contributes to achieving team goals."
+  }
+]

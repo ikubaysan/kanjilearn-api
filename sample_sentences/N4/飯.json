@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "毎朝、美味しいご飯を食べるのが日課です。",
+    "sentence_furigana": "毎朝【まいあさ】、美味【おい】しいご飯【はん】を食【た】べるのが日課【にっか】です。",
+    "meaning": "Every morning, eating a delicious meal is my daily routine."
+  },
+  {
+    "sentence": "今日の晩ご飯は何ですか。",
+    "sentence_furigana": "今日【きょう】の晩ご飯【ばんごはん】は何【なに】ですか。",
+    "meaning": "What is for dinner tonight?"
+  },
+  {
+    "sentence": "彼は炊き立てのご飯が好きだ。",
+    "sentence_furigana": "彼【かれ】は炊【た】き立【た】てのご飯【はん】が好【す】きだ。",
+    "meaning": "He likes freshly cooked rice."
+  },
+  {
+    "sentence": "子供はお腹が空いたので、早くご飯を食べたいと言っている。",
+    "sentence_furigana": "子供【こども】はお腹【なか】が空【す】いたので、早【はや】くご飯【はん】を食【た】べたいと言【い】っている。",
+    "meaning": "The child is hungry and says they want to eat their meal quickly."
+  },
+  {
+    "sentence": "旅行先で食べた郷土料理はとても美味しかった。",
+    "sentence_furigana": "旅行先【りょこうさき】で食【た】べた郷土料理【きょうどりょうり】はとても美味【おい】しかった。",
+    "meaning": "The local cuisine I ate on my trip was very delicious."
+  },
+  {
+    "sentence": "母が作ったお弁当はいつも愛情がこもっている。",
+    "sentence_furigana": "母【はは】が作【つく】ったお弁当【べんとう】はいつも愛情【あいじょう】がこもっている。",
+    "meaning": "The bento box made by my mother is always filled with love."
+  },
+  {
+    "sentence": "残さずきれいに食べなさい。",
+    "sentence_furigana": "残【のこ】さずきれいに対【た】べなさい。",
+    "meaning": "Eat it all up cleanly without leaving any behind."
+  },
+  {
+    "sentence": "健康のためにはバランスの取れた食事が大切です。",
+    "sentence_furigana": "健康【けんこう】のためにはバランスの取【と】れた食事【しょくじ】が大切【たいせつ】です。",
+    "meaning": "A balanced diet is important for health."
+  },
+  {
+    "sentence": "お腹がいっぱいなので、もうご飯は食べられません。",
+    "sentence_furigana": "お腹【なか】がいっぱいなので、もうご飯【はん】は食【た】べられません。",
+    "meaning": "I'm full, so I can't eat any more food."
+  },
+  {
+    "sentence": "炊飯器が壊れてしまったので、今日はご飯が炊けない。",
+    "sentence_furigana": "炊飯器【すいはんき】が壊【こわ】れてしまったので、今日【きょう】はご飯【はん】が炊【た】けない。",
+    "meaning": "The rice cooker broke, so I can't cook rice today."
+  },
+  {
+    "sentence": "彼の得意料理は中華丼だ。",
+    "sentence_furigana": "彼【かれ】の得意料理【とくいりょうり】は中華丼【ちゅうかどん】だ。",
+    "meaning": "His specialty dish is Chuka Donburi."
+  },
+  {
+    "sentence": "食事の時間になりました。",
+    "sentence_furigana": "食事【しょくじ】の時間【じかん】になりました。",
+    "meaning": "It's time for the meal."
+  },
+  {
+    "sentence": "明日は学校で給食が出ます。",
+    "sentence_furigana": "明日【あした】は学校【がっこう】で給食【きゅうしょく】が出【で】ます。",
+    "meaning": "There will be school lunch tomorrow."
+  },
+  {
+    "sentence": "このレストランは量が多めなので、少食の人には注意が必要です。",
+    "sentence_furigana": "このレストランは量【りょう】が多【おお】めなので、少食【しょうしょく】の人【ひと】には注意【ちゅうい】が必【ひつ】要【よう】です。",
+    "meaning": "This restaurant serves large portions, so caution is advised for those with small appetites."
+  },
+  {
+    "sentence": "毎日の食事に気をつけています。",
+    "sentence_furigana": "毎日【まいにち】の食事【しょくじ】に気【き】をつけています。",
+    "meaning": "I am careful about my daily meals."
+  },
+  {
+    "sentence": "彼の食欲は本当に旺盛だ。",
+    "sentence_furigana": "彼【かれ】の食欲【しょくよく】は本当【ほんとう】に旺盛【おうせい】だ。",
+    "meaning": "His appetite is truly voracious."
+  },
+  {
+    "sentence": "朝食を抜くと、その後お腹が空いてしまう。",
+    "sentence_furigana": "朝食【ちょうしょく】を抜【ぬ】くと、その後【ご】お腹【なか】が空【す】いてしまう。",
+    "meaning": "If I skip breakfast, I get hungry afterwards."
+  },
+  {
+    "sentence": "このお米は炊きあがるとふっくらします。",
+    "sentence_furigana": "このお米【こめ】は炊【た】きあがるとふっくらします。",
+    "meaning": "This rice becomes fluffy when cooked."
+  },
+  {
+    "sentence": "栄養バランスを考えて、今日の夕食は魚にしよう。",
+    "sentence_furigana": "栄養【えいよう】バランスを考【かんが】えて、今日【きょう】の夕食【ゆうしょく】は魚【さかな】にしよう。",
+    "meaning": "Considering nutritional balance, let's have fish for dinner tonight."
+  },
+  {
+    "sentence": "彼女は少食だが、よく噛んで食べている。",
+    "sentence_furigana": "彼女【かのじょ】は少食【しょうしょく】だが、よく噛【か】んで食【た】べている。",
+    "meaning": "She has a small appetite, but she chews her food well."
+  },
+  {
+    "sentence": "食べ過ぎには注意してください。",
+    "sentence_furigana": "食【た】べ過【す】ぎには注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to overeat."
+  },
+  {
+    "sentence": "この料理は家庭的な味がする。",
+    "sentence_furigana": "この料理【りょうり】は家庭的【かていてき】な味【あじ】がする。",
+    "meaning": "This dish has a home-cooked taste."
+  },
+  {
+    "sentence": "子供たちのために、栄養満点の食事を用意しました。",
+    "sentence_furigana": "子供【こども】たちのために、栄養満点【えいようまんてん】の食事【しょくじ】を用意【ようい】しました。",
+    "meaning": "I prepared a nutritionally rich meal for the children."
+  },
+  {
+    "sentence": "彼は忙しいので、よくコンビニ弁当で済ませている。",
+    "sentence_furigana": "彼【かれ】は忙【いそが】しいので、よくコンビニ弁当【べんとう】で済【す】ませている。",
+    "meaning": "He is busy, so he often settles for convenience store bento boxes."
+  },
+  {
+    "sentence": "今日は外食にしよう。",
+    "sentence_furigana": "今日【きょう】は外食【がいしょく】にしよう。",
+    "meaning": "Let's eat out today."
+  },
+  {
+    "sentence": "一人暮らしは自炊が基本だ。",
+    "sentence_furigana": "一人暮【ひとりぐ】らしは自炊【じすい】が基本【きほん】だ。",
+    "meaning": "Living alone, self-catering is fundamental."
+  },
+  {
+    "sentence": "彼はいつもがつがつご飯を食べる。",
+    "sentence_furigana": "彼【かれ】はいつもがつがつご飯【はん】を食【た】べる。",
+    "meaning": "He always eats his meals ravenously."
+  },
+  {
+    "sentence": "このお米は冷めても美味しい。",
+    "sentence_furigana": "このお米【こめ】は冷【さ】めても美味【おい】しい。",
+    "meaning": "This rice is delicious even when cold."
+  },
+  {
+    "sentence": "彼女は食事のマナーがとても良い。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】のマナーがとても良【よ】い。",
+    "meaning": "Her table manners are very good."
+  },
+  {
+    "sentence": "お腹が空いて死にそうだ。",
+    "sentence_furigana": "お腹【なか】が空【す】いて死【し】にそうだ。",
+    "meaning": "I'm starving to death."
+  },
+  {
+    "sentence": "新しい炊飯器を買ったので、早速使ってみた。",
+    "sentence_furigana": "新【あたら】しい炊飯器【すいはんき】を買【か】ったので、早速【さっそく】使【つか】ってみた。",
+    "meaning": "I bought a new rice cooker, so I tried using it right away."
+  },
+  {
+    "sentence": "健康診断の結果、食生活を見直す必要があると言われた。",
+    "sentence_furigana": "健康診断【けんこうしんだん】の結果【けっか】、食生活【しょくせいかつ】を見直【みなお】す必要【ひつよう】があると言【い】われた。",
+    "meaning": "As a result of my health check-up, I was told I need to review my eating habits."
+  },
+  {
+    "sentence": "このお弁当は彩りも良く、食欲をそそる。",
+    "sentence_furigana": "このお弁当【べんとう】は彩【いろど】りも良【よ】く、食欲【しょくよく】をそそる。",
+    "meaning": "This bento box is colorful and appetizing."
+  },
+  {
+    "sentence": "彼の食の好みは独特だ。",
+    "sentence_furigana": "彼【かれ】の食【た】べの好【この】みは独特【どくとく】だ。",
+    "meaning": "His food preferences are unique."
+  },
+  {
+    "sentence": "腹八分目にすれば健康に良い。",
+    "sentence_furigana": "腹八分目【はらはちぶぶんめ】にすれば健康【けんこう】に良【よ】い。",
+    "meaning": "Eating until you are 80% full is good for your health."
+  },
+  {
+    "sentence": "今日の食事は豪華だ。",
+    "sentence_furigana": "今日【きょう】の食事【しょくじ】は豪華【ごうか】だ。",
+    "meaning": "Today's meal is luxurious."
+  },
+  {
+    "sentence": "彼女は食べることが大好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は食【た】べることが大好【だいす】きだ。",
+    "meaning": "She loves to eat."
+  },
+  {
+    "sentence": "朝ご飯はしっかり食べましょう。",
+    "sentence_furigana": "朝ご飯【あさごはん】はしっかり食【た】べましょう。",
+    "meaning": "Let's eat a solid breakfast."
+  },
+  {
+    "sentence": "これは私の大好物です。",
+    "sentence_furigana": "これは私【わたし】の大好物【だいこうぶつ】です。",
+    "meaning": "This is my favorite food."
+  },
+  {
+    "sentence": "お腹を空かせた子供たちが集まってきた。",
+    "sentence_furigana": "お腹【なか】を空【す】かせた子供たち【こどもたち】が集【あつ】まってきた。",
+    "meaning": "Hungry children gathered."
+  },
+  {
+    "sentence": "この店は定食が人気だ。",
+    "sentence_furigana": "この店【みせ】は定食【ていしょく】が人気【にんき】だ。",
+    "meaning": "This restaurant is popular for its set meals."
+  },
+  {
+    "sentence": "食事の前に手を洗いましょう。",
+    "sentence_furigana": "食事【しょくじ】の前【まえ】に手【て】を洗【あら】いましょう。",
+    "meaning": "Let's wash our hands before eating."
+  },
+  {
+    "sentence": "彼の食費はかなりかさむ。",
+    "sentence_furigana": "彼【かれ】の食費【しょくひ】はかなりかさむ。",
+    "meaning": "His food expenses are quite substantial."
+  },
+  {
+    "sentence": "新しい炊飯器で炊いたご飯は格別だ。",
+    "sentence_furigana": "新【あたら】しい炊飯器【すいはんき】で炊【た】いたご飯【はん】は格別【かくべつ】だ。",
+    "meaning": "The rice cooked in the new rice cooker is exceptional."
+  },
+  {
+    "sentence": "彼女は食が細いので、少しずつ食べる。",
+    "sentence_furigana": "彼女【かのじょ】は食【しょく】が細【ほそ】いので、少少【すこ】しずつ食【た】べる。",
+    "meaning": "She has a small appetite, so she eats little by little."
+  },
+  {
+    "sentence": "食事は楽しむものだ。",
+    "sentence_furigana": "食事【しょくじ】は楽【たの】しむものだ。",
+    "meaning": "Eating is something to be enjoyed."
+  },
+  {
+    "sentence": "今日の夕食は手作りハンバーグです。",
+    "sentence_furigana": "今日【きょう】の夕食【ゆうしょく】は手作【てづく】りハンバーグです。",
+    "meaning": "Today's dinner is homemade hamburgers."
+  },
+  {
+    "sentence": "彼は早食いだ。",
+    "sentence_furigana": "彼【かれ】は早食【はやじ】きだ。",
+    "meaning": "He eats quickly."
+  },
+  {
+    "sentence": "このお米は粘り気があり、美味しい。",
+    "sentence_furigana": "このお米【こめ】は粘【ねば】り気【き】があり、美味【おい】しい。",
+    "meaning": "This rice is sticky and delicious."
+  },
+  {
+    "sentence": "彼女は食の細さを心配している。",
+    "sentence_furigana": "彼女【かのじょ】は食【しょく】の細【ほそ】さを心配【しんぱい】している。",
+    "meaning": "She is worried about her small appetite."
+  },
+  {
+    "sentence": "毎日の食事に感謝しています。",
+    "sentence_furigana": "毎日【まいにち】の食事【しょくじ】に感謝【かんしゃ】しています。",
+    "meaning": "I am grateful for my daily meals."
+  },
+  {
+    "sentence": "彼は食通で知られている。",
+    "sentence_furigana": "彼【かれ】は食通【しょくつう】で知【し】られている。",
+    "meaning": "He is known as a gourmet."
+  },
+  {
+    "sentence": "健康のためには、一日三食きちんと食べるのが良い。",
+    "sentence_furigana": "健康【けんこう】のためには、一日【いちにち】三食【さんしょく】きちんと食【た】べるのが良【よ】い。",
+    "meaning": "For health, it is good to eat three meals a day properly."
+  },
+  {
+    "sentence": "このご飯は炊き方が絶妙だ。",
+    "sentence_furigana": "このご飯【はん】は炊【た】き方【かた】が絶妙【ぜつみょう】だ。",
+    "meaning": "The way this rice is cooked is exquisite."
+  },
+  {
+    "sentence": "彼女は食欲がないと言っている。",
+    "sentence_furigana": "彼女【かのじょ】は食欲【しょくよく】がないと言【い】っている。",
+    "meaning": "She says she has no appetite."
+  },
+  {
+    "sentence": "今日のランチはパスタにしました。",
+    "sentence_furigana": "今日【きょう】のランチはパスタにしました。",
+    "meaning": "I had pasta for lunch today."
+  },
+  {
+    "sentence": "彼は食べ盛りの年齢だ。",
+    "sentence_furigana": "彼【かれ】は食【た】べ盛【さか】りの年齢【ねんれい】だ。",
+    "meaning": "He is at the age where he eats a lot."
+  },
+  {
+    "sentence": "お米を研ぐのを忘れないでください。",
+    "sentence_furigana": "お米【こめ】を研【と】ぐのを忘【わす】れないでください。",
+    "meaning": "Please don't forget to wash the rice."
+  },
+  {
+    "sentence": "彼女は食事を残すことができない。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】を残【のこ】すことができない。",
+    "meaning": "She cannot leave her meal unfinished."
+  },
+  {
+    "sentence": "この定食はお腹いっぱいになります。",
+    "sentence_furigana": "この定食【ていしょく】はお腹【なか】いっぱいになります。",
+    "meaning": "This set meal will fill you up."
+  },
+  {
+    "sentence": "彼の食べっぷりは見ていて気持ちが良い。",
+    "sentence_furigana": "彼【かれ】の食【た】べっぷりは見【み】ていて気持【きも】ちが良い【よい】。",
+    "meaning": "It's pleasant to watch him eat."
+  },
+  {
+    "sentence": "今日の夕食は豪華なコース料理だ。",
+    "sentence_furigana": "今日【きょう】の夕食【ゆうしょく】は豪華【ごうか】なコース料理【りょうり】だ。",
+    "meaning": "Tonight's dinner is a luxurious course meal."
+  },
+  {
+    "sentence": "彼女は食事のマナーを重視する。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】のマナーを重視【じゅうし】する。",
+    "meaning": "She values table manners."
+  },
+  {
+    "sentence": "この炊飯器はタイマー機能が付いている。",
+    "sentence_furigana": "この炊飯器【すいはんき】はタイマー機能【きのう】が付【つ】いている。",
+    "meaning": "This rice cooker has a timer function."
+  },
+  {
+    "sentence": "彼は食欲旺盛で何でもよく食べる。",
+    "sentence_furigana": "彼【かれ】は食欲旺盛【しょくよくおうせい】で何【なに】でもよく食【た】べる。",
+    "meaning": "He has a great appetite and eats anything."
+  },
+  {
+    "sentence": "彼女は食べ過ぎて後悔している。",
+    "sentence_furigana": "彼女【かのじょ】は食【た】べ過【す】ぎて後悔【こうかい】している。",
+    "meaning": "She regrets overeating."
+  },
+  {
+    "sentence": "今日の夕飯はカレーライスにしよう。",
+    "sentence_furigana": "今日【きょう】の夕飯【ゆうはん】はカレーライスにしよう。",
+    "meaning": "Let's have curry rice for dinner tonight."
+  },
+  {
+    "sentence": "彼は食事が終わるとすぐに片付けを始める。",
+    "sentence_furigana": "彼【かれ】は食事【しょくじ】が終【お】わるとすぐにかた付【づ】けを始【はじ】める。",
+    "meaning": "He starts cleaning up as soon as he finishes his meal."
+  },
+  {
+    "sentence": "このお米は炊飯に適している。",
+    "sentence_furigana": "このお米【こめ】は炊飯【すいはん】に適【てき】している。",
+    "meaning": "This rice is suitable for cooking."
+  },
+  {
+    "sentence": "彼女は食事の準備を手伝ってくれた。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】の準備【じゅんび】を手伝【てつだ】ってくれた。",
+    "meaning": "She helped me prepare the meal."
+  },
+  {
+    "sentence": "彼は食べ物にはうるさい方だ。",
+    "sentence_furigana": "彼【かれ】は食【た】べ物【もの】にはうるさい方【ほう】だ。",
+    "meaning": "He is quite picky about food."
+  },
+  {
+    "sentence": "今日の昼食は学食にした。",
+    "sentence_furigana": "今日【きょう】の昼食【ちゅうしょく】は学食【がくしょく】にした。",
+    "meaning": "I had school cafeteria food for lunch today."
+  },
+  {
+    "sentence": "彼女は食べ物の好き嫌いが激しい。",
+    "sentence_furigana": "彼女【かのじょ】は食【た】べ物【もの】の好【す】き嫌【きら】いが激【はげ】しい。",
+    "meaning": "She is very particular about what she eats."
+  },
+  {
+    "sentence": "彼はお腹がいっぱいで動けない。",
+    "sentence_furigana": "彼【かれ】はお腹【なか】がいっぱいで動【うご】けない。",
+    "meaning": "He can't move because he's too full."
+  },
+  {
+    "sentence": "この定食はボリューム満点だ。",
+    "sentence_furigana": "この定食【ていしょく】はボリューム満点【まんてん】だ。",
+    "meaning": "This set meal is very filling."
+  },
+  {
+    "sentence": "彼女は食パンを一枚食べた。",
+    "sentence_furigana": "彼女【かのじょ】は食パン【しょくパン】を一枚【いちまい】食【た】べた。",
+    "meaning": "She ate one slice of toast."
+  },
+  {
+    "sentence": "彼は食べるのが速い。",
+    "sentence_furigana": "彼【かれ】は食【た】べるのが速【はや】い。",
+    "meaning": "He eats fast."
+  },
+  {
+    "sentence": "彼女は食費を節約している。",
+    "sentence_furigana": "彼女【かのじょ】は食費【しょくひ】を節約【せつやく】している。",
+    "meaning": "She is saving money on food expenses."
+  },
+  {
+    "sentence": "このご飯は炊き方が上手だ。",
+    "sentence_furigana": "このご飯【はん】は炊【た】き方【かた】が上手【じょうず】だ。",
+    "meaning": "The way this rice is cooked is skillful."
+  },
+  {
+    "sentence": "彼は食べ物で健康を管理している。",
+    "sentence_furigana": "彼【かれ】は食【た】べ物【もの】で健康【けんこう】を管理【かんり】している。",
+    "meaning": "He manages his health through food."
+  },
+  {
+    "sentence": "彼女は食事を残さず全部食べた。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】を残【のこ】さず全部【ぜんぶ】食【た】べた。",
+    "meaning": "She ate all her meal without leaving anything."
+  },
+  {
+    "sentence": "このお米は炊くのが簡単だ。",
+    "sentence_furigana": "このお米【こめ】は炊【た】くのが簡単【かんたん】だ。",
+    "meaning": "This rice is easy to cook."
+  },
+  {
+    "sentence": "彼は食事中にテレビを見ている。",
+    "sentence_furigana": "彼【かれ】は食事【しょくじ】中【ちゅう】にテレビを見【み】ている。",
+    "meaning": "He is watching TV while eating."
+  },
+  {
+    "sentence": "彼女は食後のデザートを楽しみにしている。",
+    "sentence_furigana": "彼女【かのじょ】は食後【しょくご】のデザートを楽し【たの】しみにしている。",
+    "meaning": "She is looking forward to dessert after her meal."
+  },
+  {
+    "sentence": "この定食はお得だ。",
+    "sentence_furigana": "この定食【ていしょく】はお得【おとく】だ。",
+    "meaning": "This set meal is a good value."
+  },
+  {
+    "sentence": "彼は食べ物にはこだわりがある。",
+    "sentence_furigana": "彼【かれ】は食【た】べ物【もの】にはこだわりがある。",
+    "meaning": "He is particular about his food."
+  },
+  {
+    "sentence": "彼女は食事を終えた。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】を終【お】えた。",
+    "meaning": "She finished her meal."
+  },
+  {
+    "sentence": "このご飯は炊飯器で炊いたものです。",
+    "sentence_furigana": "このご飯【はん】は炊飯器【すいはんき】で炊【た】いたものです。",
+    "meaning": "This rice was cooked in a rice cooker."
+  },
+  {
+    "sentence": "彼は食が進まないようだ。",
+    "sentence_furigana": "彼【かれ】は食【しょく】が進【すす】まないようだ。",
+    "meaning": "He doesn't seem to be eating much."
+  },
+  {
+    "sentence": "彼女は食事の準備を始めた。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】の準備【じゅんび】を始【はじ】めた。",
+    "meaning": "She started preparing the meal."
+  },
+  {
+    "sentence": "この定食はメインが一つ選べます。",
+    "sentence_furigana": "この定食【ていしょく】はメインが一つ選【え】べます。",
+    "meaning": "You can choose one main dish for this set meal."
+  },
+  {
+    "sentence": "彼は食べかすを残している。",
+    "sentence_furigana": "彼【かれ】は食【た】べかすを残り【のこ】している。",
+    "meaning": "He is leaving crumbs."
+  },
+  {
+    "sentence": "彼女は食事が楽しいと言っている。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】が楽【たの】しいと言【い】っている。",
+    "meaning": "She says eating is fun."
+  },
+  {
+    "sentence": "このご飯は炊きたてが一番美味しい。",
+    "sentence_furigana": "このご飯【はん】は炊【た】きたてが一番美味【いちばんおい】しい。",
+    "meaning": "This rice is best when freshly cooked."
+  },
+  {
+    "sentence": "彼は食事の時間に遅れないようにしている。",
+    "sentence_furigana": "彼【かれ】は食事【しょくじ】の時間【じかん】に遅【おく】れないようにしている。",
+    "meaning": "He makes sure not to be late for his meals."
+  },
+  {
+    "sentence": "彼女は食べ物を大切にしている。",
+    "sentence_furigana": "彼女【かのじょ】は食【た】べ物【もの】を大切【たいせつ】にしている。",
+    "meaning": "She cherishes her food."
+  },
+  {
+    "sentence": "この定食はご飯がおかわり自由だ。",
+    "sentence_furigana": "この定食【ていしょく】はご飯【はん】がおかわり自由【じゆう】だ。",
+    "meaning": "You can get refills of rice for this set meal."
+  },
+  {
+    "sentence": "彼は食べ物の名前をたくさん知っている。",
+    "sentence_furigana": "彼【かれ】は食【た】べ物【もの】の名前【なまえ】をたくさん知【し】っている。",
+    "meaning": "He knows many food names."
+  },
+  {
+    "sentence": "彼女は食事をしながら読書をする。",
+    "sentence_furigana": "彼女【かのじょ】は食事【しょくじ】をしながら読書【どくしょ】をする。",
+    "meaning": "She reads while eating."
+  }
+]

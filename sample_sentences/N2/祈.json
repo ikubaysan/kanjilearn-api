@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "平和を祈ります。",
+    "sentence_furigana": "平和【へいわ】を祈【いの】ります。",
+    "meaning": "I pray for peace."
+  },
+  {
+    "sentence": "彼の成功を祈っています。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を祈【いの】っています。",
+    "meaning": "I am praying for his success."
+  },
+  {
+    "sentence": "健康を祈る。",
+    "sentence_furigana": "健康【けんこう】を祈【いの】る。",
+    "meaning": "Pray for good health."
+  },
+  {
+    "sentence": "皆で幸せを祈った。",
+    "sentence_furigana": "皆【みな】で幸【しあわ】せを祈【いの】った。",
+    "meaning": "Everyone prayed for happiness."
+  },
+  {
+    "sentence": "未来への希望を祈る。",
+    "sentence_furigana": "未来【みらい】への希望【きぼう】を祈【いの】る。",
+    "meaning": "Pray for hope for the future."
+  },
+  {
+    "sentence": "事故がないように祈った。",
+    "sentence_furigana": "事故【じこ】がないように祈【いの】った。",
+    "meaning": "I prayed that there would be no accidents."
+  },
+  {
+    "sentence": "神に祈りを捧げる。",
+    "sentence_furigana": "神【かみ】に祈【いの】りを捧【ささ】げる。",
+    "meaning": "Offer prayers to God."
+  },
+  {
+    "sentence": "彼女の回復を祈る。",
+    "sentence_furigana": "彼女【かのじょ】の回復【かいふく】を祈【いの】る。",
+    "meaning": "Pray for her recovery."
+  },
+  {
+    "sentence": "この状況が良い方向に向かうことを祈っています。",
+    "sentence_furigana": "この状況【じょうきょう】が良い方向【よいほうこう】に向【む】かうことを祈【いの】っています。",
+    "meaning": "I am praying that this situation will move in a good direction."
+  },
+  {
+    "sentence": "子供たちの将来を祈る。",
+    "sentence_furigana": "子供【こども】たちの将来【しょうらい】を祈【いの】る。",
+    "meaning": "Pray for the children's future."
+  },
+  {
+    "sentence": "静かに祈りを捧げた。",
+    "sentence_furigana": "静【しず】かに祈【いの】りを捧【ささ】げた。",
+    "meaning": "I prayed quietly."
+  },
+  {
+    "sentence": "世界の平和を心から祈る。",
+    "sentence_furigana": "世界【せかい】の平和【へいわ】を心【こころ】から祈【いの】る。",
+    "meaning": "I sincerely pray for world peace."
+  },
+  {
+    "sentence": "彼の無事を祈っています。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】を祈【いの】っています。",
+    "meaning": "I am praying for his safety."
+  },
+  {
+    "sentence": "雨が止むように祈る。",
+    "sentence_furigana": "雨【あめ】が止【や】むように祈【いの】る。",
+    "meaning": "Pray for the rain to stop."
+  },
+  {
+    "sentence": "願いを込めて祈る。",
+    "sentence_furigana": "願【ねが】いを込【こ】めて祈【いの】る。",
+    "meaning": "Pray with a wish."
+  },
+  {
+    "sentence": "困難な状況でも希望を祈る。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を祈【いの】る。",
+    "meaning": "Pray for hope even in difficult situations."
+  },
+  {
+    "sentence": "家族の幸せを祈ります。",
+    "sentence_furigana": "家族【かぞく】の幸【しあわ】せを祈【いの】ります。",
+    "meaning": "I pray for my family's happiness."
+  },
+  {
+    "sentence": "この試験に合格するように祈ってください。",
+    "sentence_furigana": "この試験【しけん】に合格【ごうかく】するように祈【いの】ってください。",
+    "meaning": "Please pray that I pass this exam."
+  },
+  {
+    "sentence": "自然災害がないことを祈る。",
+    "sentence_furigana": "自然災害【しぜんさいがい】がないことを祈【いの】る。",
+    "meaning": "Pray that there are no natural disasters."
+  },
+  {
+    "sentence": "心の中でそっと祈った。",
+    "sentence_furigana": "心【こころ】の中【なか】でそっと祈【いの】った。",
+    "meaning": "I quietly prayed in my heart."
+  },
+  {
+    "sentence": "旅の安全を祈る。",
+    "sentence_furigana": "旅【たび】の安全【あんぜん】を祈【いの】る。",
+    "meaning": "Pray for the safety of the journey."
+  },
+  {
+    "sentence": "彼女の結婚を祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の結婚【けっこん】を祈【いの】っています。",
+    "meaning": "I am praying for her marriage."
+  },
+  {
+    "sentence": "平穏な日々を祈る。",
+    "sentence_furigana": "平穏【へいおん】な日々【ひび】を祈【いの】る。",
+    "meaning": "Pray for peaceful days."
+  },
+  {
+    "sentence": "新しい年が良い年であるように祈る。",
+    "sentence_furigana": "新【あたら】しい年【とし】が良い年【よいとし】であるように祈【いの】る。",
+    "meaning": "Pray that the new year will be a good year."
+  },
+  {
+    "sentence": "彼の回復を祈って、手紙を書いた。",
+    "sentence_furigana": "彼【かれ】の回復【かいふく】を祈【いの】って、手紙【てがみ】を書【か】いた。",
+    "meaning": "I wrote a letter praying for his recovery."
+  },
+  {
+    "sentence": "皆の幸せを祈る。",
+    "sentence_furigana": "皆【みんな】の幸【しあわ】せを祈【いの】る。",
+    "meaning": "Pray for everyone's happiness."
+  },
+  {
+    "sentence": "この困難を乗り越えられるよう祈っています。",
+    "sentence_furigana": "この困難【こんなん】を乗【の】り越【こ】えられるよう祈【いの】っています。",
+    "meaning": "I am praying that we can overcome this difficulty."
+  },
+  {
+    "sentence": "神に幸福を祈る。",
+    "sentence_furigana": "神【かみ】に幸福【こうふく】を祈【いの】る。",
+    "meaning": "Pray to God for happiness."
+  },
+  {
+    "sentence": "明日の天気を祈る。",
+    "sentence_furigana": "明日【あす】の天気【てんき】を祈【いの】る。",
+    "meaning": "Pray for tomorrow's weather."
+  },
+  {
+    "sentence": "彼女の夢が叶うことを祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の夢【ゆめ】が叶【かな】うことを祈【いの】っています。",
+    "meaning": "I am praying for her dream to come true."
+  },
+  {
+    "sentence": "静かな夜に祈りを捧げた。",
+    "sentence_furigana": "静【しず】かな夜【よる】に祈【いの】りを捧【ささ】げた。",
+    "meaning": "I offered a prayer on a quiet night."
+  },
+  {
+    "sentence": "困難な時期でも希望を祈り続けた。",
+    "sentence_furigana": "困難【こんなん】な時期【じき】でも希望【きぼう】を祈【いの】り続【つづ】けた。",
+    "meaning": "I continued to pray for hope even during difficult times."
+  },
+  {
+    "sentence": "愛する人の健康を祈る。",
+    "sentence_furigana": "愛【あい】する人【ひと】の健康【けんこう】を祈【いの】る。",
+    "meaning": "Pray for the health of a loved one."
+  },
+  {
+    "sentence": "彼の昇進を祈っています。",
+    "sentence_furigana": "彼【かれ】の昇進【しょうしん】を祈【いの】っています。",
+    "meaning": "I am praying for his promotion."
+  },
+  {
+    "sentence": "このプロジェクトの成功を祈る。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】を祈【いの】る。",
+    "meaning": "Pray for the success of this project."
+  },
+  {
+    "sentence": "多くの人々が平和を祈った。",
+    "sentence_furigana": "多【おお】くの人々【ひとびと】が平和【へいわ】を祈【いの】った。",
+    "meaning": "Many people prayed for peace."
+  },
+  {
+    "sentence": "家族が皆無事でいることを祈る。",
+    "sentence_furigana": "家族【かぞく】が皆無事【みなぶじ】でいることを祈【いの】る。",
+    "meaning": "Pray that all family members are safe."
+  },
+  {
+    "sentence": "彼女の努力が報われるよう祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】が報【むく】いられるよう祈【いの】っています。",
+    "meaning": "I am praying that her efforts will be rewarded."
+  },
+  {
+    "sentence": "幸運を祈る。",
+    "sentence_furigana": "幸運【こううん】を祈【いの】る。",
+    "meaning": "Wish for good luck."
+  },
+  {
+    "sentence": "健康で長生きすることを祈ります。",
+    "sentence_furigana": "健康【けんこう】で長生【ながい】きすることを祈【いの】ります。",
+    "meaning": "I pray for good health and a long life."
+  },
+  {
+    "sentence": "この試練を乗り越えられるように祈ってください。",
+    "sentence_furigana": "この試練【しれん】を乗【の】り越【こ】えられるように祈【いの】ってください。",
+    "meaning": "Please pray that I can overcome this ordeal."
+  },
+  {
+    "sentence": "彼女が新しい生活に慣れることを祈っています。",
+    "sentence_furigana": "彼女【かのじょ】が新【あら】しい生活【せいかつ】に慣【な】れることを祈【いの】っています。",
+    "meaning": "I am praying that she gets used to her new life."
+  },
+  {
+    "sentence": "平和な世界になることを祈る。",
+    "sentence_furigana": "平和【へいわ】な世界【せかい】になることを祈【いの】る。",
+    "meaning": "Pray for a peaceful world."
+  },
+  {
+    "sentence": "彼の早期回復を祈っています。",
+    "sentence_furigana": "彼【かれ】の早期回復【そうきかいふく】を祈【いの】っています。",
+    "meaning": "I am praying for his speedy recovery."
+  },
+  {
+    "sentence": "今日の仕事が無事に終わるように祈る。",
+    "sentence_furigana": "今日【きょう】の仕事【しごと】が無事【ぶじ】に終【お】わるように祈【いの】る。",
+    "meaning": "Pray that today's work finishes safely."
+  },
+  {
+    "sentence": "彼の人生が幸多きものとなるよう祈っています。",
+    "sentence_furigana": "彼【かれ】の人生【じんせい】が幸多【さちおお】きものとなるよう祈【いの】っています。",
+    "meaning": "I am praying that his life will be full of good fortune."
+  },
+  {
+    "sentence": "すべての人が幸せになることを祈る。",
+    "sentence_furigana": "全【すべ】ての人【ひと】が幸【しあわ】せになることを祈【いの】る。",
+    "meaning": "Pray that all people become happy."
+  },
+  {
+    "sentence": "彼女の新しい挑戦を祈る。",
+    "sentence_furigana": "彼女【かのじょ】の新しい挑戦【あたらしいちょうせん】を祈【いの】る。",
+    "meaning": "Pray for her new challenge."
+  },
+  {
+    "sentence": "この苦しみが早く終わることを祈っています。",
+    "sentence_furigana": "この苦【くる】しみが必要早く終【ひつようはやくお】わることを祈【いの】っています。",
+    "meaning": "I am praying that this suffering ends quickly."
+  },
+  {
+    "sentence": "真の友情を祈る。",
+    "sentence_furigana": "真【しん】の友情【ゆうじょう】を祈【いの】る。",
+    "meaning": "Pray for true friendship."
+  },
+  {
+    "sentence": "彼のアイデアが成功することを祈っています。",
+    "sentence_furigana": "彼【かれ】のアイデアが成功【せいこう】することを祈【いの】っています。",
+    "meaning": "I am praying that his idea succeeds."
+  },
+  {
+    "sentence": "明日の試合で勝てるよう祈ってください。",
+    "sentence_furigana": "明日【あす】の試合【しあい】で勝【か】てるよう祈【いの】ってください。",
+    "meaning": "Please pray that I can win tomorrow's match."
+  },
+  {
+    "sentence": "国の平和を祈る。",
+    "sentence_furigana": "国【くに】の平和【へいわ】を祈【いの】る。",
+    "meaning": "Pray for the peace of the country."
+  },
+  {
+    "sentence": "彼女の健康を祈って、お守りを買った。",
+    "sentence_furigana": "彼女【かのじょ】の健康【けんこう】を祈【いの】って、お守【まも】りを買【か】った。",
+    "meaning": "I bought an amulet praying for her health."
+  },
+  {
+    "sentence": "この困難な状況が改善されることを祈っています。",
+    "sentence_furigana": "この困難【こんなん】な状況【じょうきょう】が改善【かいぜん】されることを祈【いの】っています。",
+    "meaning": "I am praying that this difficult situation improves."
+  },
+  {
+    "sentence": "自然との調和を祈る。",
+    "sentence_furigana": "自然【しぜん】との調和【ちょうわ】を祈【いの】る。",
+    "meaning": "Pray for harmony with nature."
+  },
+  {
+    "sentence": "彼の長寿を祈ります。",
+    "sentence_furigana": "彼【かれ】の長寿【ちょうじゅ】を祈【いの】ります。",
+    "meaning": "I pray for his longevity."
+  },
+  {
+    "sentence": "希望を持って祈り続ける。",
+    "sentence_furigana": "希望【きぼう】を持【も】って祈【いの】り続【つづ】ける。",
+    "meaning": "Continue to pray with hope."
+  },
+  {
+    "sentence": "彼女が幸せな家庭を築けるよう祈っています。",
+    "sentence_furigana": "彼女【かのじょ】が幸【しあわ】せな家庭【かてい】を築【きず】けるよう祈【いの】っています。",
+    "meaning": "I am praying that she can build a happy family."
+  },
+  {
+    "sentence": "すべての生きとし生けるものが幸せであることを祈る。",
+    "sentence_furigana": "全【すべ】ての生【い】きとし生【い】けるものが幸【しあわ】せであることを祈【いの】る。",
+    "meaning": "Pray that all living beings are happy."
+  },
+  {
+    "sentence": "彼の無事を祈って、毎日お祈りしています。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】を祈【いの】って、毎日【まいにち】お祈【いの】りしています。",
+    "meaning": "I pray for his safety every day."
+  },
+  {
+    "sentence": "この問題が平和的に解決されることを祈る。",
+    "sentence_furigana": "この問題【もんだい】が平和的【へいわてき】に解決【かいけつ】されることを祈【いの】る。",
+    "meaning": "Pray for the peaceful resolution of this problem."
+  },
+  {
+    "sentence": "彼女の成功を心から祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の成功【せいこう】を心【こころ】から祈【いの】っています。",
+    "meaning": "I am praying for her success from the bottom of my heart."
+  },
+  {
+    "sentence": "困難な状況でも希望を失わずに祈る。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を失【うしな】わずに祈【いの】る。",
+    "meaning": "Pray without losing hope even in difficult situations."
+  },
+  {
+    "sentence": "彼の新しい挑戦が成功することを祈っています。",
+    "sentence_furigana": "彼【かれ】の新しい挑戦【あたらしいちょうせん】が成功【せいこう】することを祈【いの】っています。",
+    "meaning": "I am praying that his new challenge will be successful."
+  },
+  {
+    "sentence": "すべての人々が平和に暮らせる世界を祈る。",
+    "sentence_furigana": "すべての人々【ひとびと】が平和【へいわ】に暮【く】らせる世界【せかい】を祈【いの】る。",
+    "meaning": "Pray for a world where all people can live in peace."
+  },
+  {
+    "sentence": "彼女の健康と幸せを祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の健康【けんこう】と幸【しあわ】せを祈【いの】っています。",
+    "meaning": "I am praying for her health and happiness."
+  },
+  {
+    "sentence": "困難な時期を乗り越えるための祈り。",
+    "sentence_furigana": "困難【こんなん】な時期【じき】を乗【の】り越【こ】えるための祈【いの】り。",
+    "meaning": "Prayers to overcome difficult times."
+  },
+  {
+    "sentence": "彼の将来が明るいことを祈っています。",
+    "sentence_furigana": "彼【かれ】の将来【しょうらい】が明【あ】かるいことを祈【いの】っています。",
+    "meaning": "I am praying that his future will be bright."
+  },
+  {
+    "sentence": "新しい始まりに幸運を祈る。",
+    "sentence_furigana": "新【あたら】しい始【はじ】まりに幸運【こううん】を祈【いの】る。",
+    "meaning": "Pray for good luck on a new beginning."
+  },
+  {
+    "sentence": "彼女の夢が叶うように祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の夢【ゆめ】が叶【かな】うように祈【いの】っています。",
+    "meaning": "I am praying for her dream to come true."
+  },
+  {
+    "sentence": "平穏な日々が続くよう祈る。",
+    "sentence_furigana": "平穏【へいおん】な日々【ひび】が続【つづ】くよう祈【いの】る。",
+    "meaning": "Pray for peaceful days to continue."
+  },
+  {
+    "sentence": "彼の成功を心から願って祈っています。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を心【こころ】から願【ねが】って祈【いの】っています。",
+    "meaning": "I am sincerely praying for his success."
+  },
+  {
+    "sentence": "困難を乗り越える力を祈る。",
+    "sentence_furigana": "困難【こんなん】を乗【の】り越【こ】える力【ちから】を祈【いの】る。",
+    "meaning": "Pray for the strength to overcome difficulties."
+  },
+  {
+    "sentence": "彼女の幸せを心から祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の幸【しあわ】せを心【こころ】から祈【いの】っています。",
+    "meaning": "I am praying for her happiness from the bottom of my heart."
+  },
+  {
+    "sentence": "明日はきっと良い日になるよう祈る。",
+    "sentence_furigana": "明日【あす】はきっと良い日【よいひ】になるよう祈【いの】る。",
+    "meaning": "I pray that tomorrow will surely be a good day."
+  },
+  {
+    "sentence": "彼の未来が希望に満ちていることを祈っています。",
+    "sentence_furigana": "彼【かれ】の未来【みらい】が希望【きぼう】に満【み】ちていることを祈【いの】っています。",
+    "meaning": "I am praying that his future is filled with hope."
+  },
+  {
+    "sentence": "世界の平和を祈り続ける。",
+    "sentence_furigana": "世界【せかい】の平和【へいわ】を祈【いの】り続【つづ】ける。",
+    "meaning": "Continue to pray for world peace."
+  },
+  {
+    "sentence": "彼女の健康を祈って、できる限りのことをした。",
+    "sentence_furigana": "彼女【かのじょ】の健康【けんこう】を祈【いの】って、できる限【かぎ】りのことをした。",
+    "meaning": "I did everything I could, praying for her health."
+  },
+  {
+    "sentence": "この困難な状況が早く収束することを祈っています。",
+    "sentence_furigana": "この困難【こんなん】な状況【じょうきょう】が早【はや】く収束【しゅうそく】することを祈【いの】っています。",
+    "meaning": "I am praying that this difficult situation resolves quickly."
+  },
+  {
+    "sentence": "彼の健康と安全を祈ります。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】と安全【あんぜん】を祈【いの】ります。",
+    "meaning": "I pray for his health and safety."
+  },
+  {
+    "sentence": "希望を込めて、心の中で祈った。",
+    "sentence_furigana": "希望【きぼう】を込【こ】めて、心【こころ】の中【なか】で祈【いの】った。",
+    "meaning": "I prayed in my heart, filled with hope."
+  },
+  {
+    "sentence": "彼女の新しい人生が良いものでありますように祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の新【あら】しい人生【じんせい】が良いものでありますように祈【いの】っています。",
+    "meaning": "I am praying that her new life will be a good one."
+  },
+  {
+    "sentence": "明日の会議が成功裏に終わるよう祈る。",
+    "sentence_furigana": "明日【あす】の会議【かいぎ】が成功裏【せいこうり】に終【お】わるよう祈【いの】る。",
+    "meaning": "Pray that tomorrow's meeting ends successfully."
+  },
+  {
+    "sentence": "彼の努力が実を結ぶことを祈っています。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が実【み】を結【むす】ぶことを祈【いの】っています。",
+    "meaning": "I am praying that his efforts bear fruit."
+  },
+  {
+    "sentence": "すべての命が大切であることを祈る。",
+    "sentence_furigana": "すべての人命【いのち】が大切【たいせつ】であることを祈【いの】る。",
+    "meaning": "Pray that all lives are precious."
+  },
+  {
+    "sentence": "彼女のこれからの人生が輝かしいものでありますように祈っています。",
+    "sentence_furigana": "彼女【かのじょ】のこれから人生【じんせい】が輝【かがや】かしいものでありますように祈【いの】っています。",
+    "meaning": "I am praying that her future life will be brilliant."
+  },
+  {
+    "sentence": "平和な世界を心から祈る。",
+    "sentence_furigana": "平和【へいわ】な世界【せかい】を心【こころ】から祈【いの】る。",
+    "meaning": "I sincerely pray for a peaceful world."
+  },
+  {
+    "sentence": "彼の健康を祈って、毎日手を合わせる。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を祈【いの】って、毎日【まいにち】手【て】を合【あ】わせる。",
+    "meaning": "I put my hands together every day, praying for his health."
+  },
+  {
+    "sentence": "困難な時期を乗り越えられるよう、皆で祈っています。",
+    "sentence_furigana": "困難【こんなん】な時期【じき】を乗【の】り越【こ】えられるよう、皆【みな】で祈【いの】っています。",
+    "meaning": "We are all praying that we can overcome this difficult time."
+  },
+  {
+    "sentence": "彼女の新しい門出を祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の新しい門出【あたらしいかどで】を祈【いの】っています。",
+    "meaning": "I am praying for her new beginning."
+  },
+  {
+    "sentence": "明日の天気が晴れるよう祈る。",
+    "sentence_furigana": "明日【あす】の天気【てんき】が晴【は】れるよう祈【いの】る。",
+    "meaning": "Pray for clear weather tomorrow."
+  },
+  {
+    "sentence": "彼の成功を祈って、応援しています。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を祈【いの】って、応援【おうえん】しています。",
+    "meaning": "I am cheering for him, praying for his success."
+  },
+  {
+    "sentence": "すべての子供たちが笑顔でいられるように祈る。",
+    "sentence_furigana": "すべての子【こ】どもたち笑顔【えがお】でいられるように祈【いの】る。",
+    "meaning": "Pray that all children can smile."
+  },
+  {
+    "sentence": "彼女の健康と幸せを心から祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の健康【けんこう】と幸【しあわ】せを心【こころ】から祈【いの】っています。",
+    "meaning": "I am praying for her health and happiness from the bottom of my heart."
+  },
+  {
+    "sentence": "困難な時期でも希望を捨てずに祈り続けることが大切だ。",
+    "sentence_furigana": "困難【こんなん】な時期【じき】でも希望【きぼう】を捨【す】てずに祈【いの】り続【つづ】けることが大切【たいせつ】だ。",
+    "meaning": "It is important to continue praying without losing hope even in difficult times."
+  },
+  {
+    "sentence": "彼の未来が明るい希望に満ちていることを祈っています。",
+    "sentence_furigana": "彼【かれ】の未来【みらい】が明【あ】るい希望【きぼう】に満【み】ちていることを祈【いの】っています。",
+    "meaning": "I am praying that his future is filled with bright hope."
+  },
+  {
+    "sentence": "平和な世界と人々の幸福を祈る。",
+    "sentence_furigana": "平和【へいわ】な世界【せかい】と人々【ひとびと】の幸福【こうふく】を祈【いの】る。",
+    "meaning": "Pray for a peaceful world and the happiness of people."
+  },
+  {
+    "sentence": "彼女の新しい挑戦が成功裏に終わることを祈っています。",
+    "sentence_furigana": "彼女【かのじょ】の新しい挑戦【あたらしいちょうせん】が成功裏【せいこうり】に終【お】わることを祈【いの】っています。",
+    "meaning": "I am praying that her new challenge ends successfully."
+  },
+  {
+    "sentence": "明日はきっと良い結果が出ると祈る。",
+    "sentence_furigana": "明日【あす】はきっと良い結果【よいけっか】が出【で】ると祈【いの】る。",
+    "meaning": "I pray that good results will come out tomorrow."
+  },
+  {
+    "sentence": "彼の努力が報われるよう、心から祈っています。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が報【むく】いられるよう、心【こころ】から祈【いの】っています。",
+    "meaning": "I am praying from the bottom of my heart that his efforts will be rewarded."
+  },
+  {
+    "sentence": "すべての生命が調和して生きることを祈る。",
+    "sentence_furigana": "すべて生命【いのち】が調和【ちょうわ】して生【い】きることを祈【いの】る。",
+    "meaning": "Pray that all life lives in harmony."
+  },
+  {
+    "sentence": "彼女のこれからの人生が幸せで満ち溢れるよう祈っています。",
+    "sentence_furigana": "彼女【かのじょ】のこれから人生【じんせい】が幸【しあわ】せで満【み】ち溢【あふ】れるよう祈【いの】っています。",
+    "meaning": "I am praying that her future life will be overflowing with happiness."
+  }
+]

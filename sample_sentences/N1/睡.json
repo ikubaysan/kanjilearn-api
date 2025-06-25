@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "昨夜はあまり眠れなかったので、今日は睡い。",
+    "sentence_furigana": "昨夜【さくや】はあまり眠【ねむ】れなかったので、今日【きょう】は睡【ねむ】い。",
+    "meaning": "I couldn't sleep well last night, so I'm drowsy today."
+  },
+  {
+    "sentence": "長い会議で、私は半分眠ってしまっていた。",
+    "sentence_furigana": "長【なが】い会議【かいぎ】で、私【わたし】は半分【はんぶん】眠【ねむ】ってしまっていた。",
+    "meaning": "I was half asleep during the long meeting."
+  },
+  {
+    "sentence": "彼は熟睡していた。",
+    "sentence_furigana": "彼【かれ】は熟睡【じゅくすい】していた。",
+    "meaning": "He was fast asleep."
+  },
+  {
+    "sentence": "昼食後、少し睡気を催した。",
+    "sentence_furigana": "昼食後【ちゅうしょくご】、少【すこ】し睡気【ねむけ】を催【もよお】した。",
+    "meaning": "I felt a little drowsy after lunch."
+  },
+  {
+    "sentence": "その講義は退屈で、私はほとんど眠ってしまった。",
+    "sentence_furigana": "その講義【こうぎ】は退屈【たいくつ】で、私【わたし】はほとんど眠【ねむ】ってしまった。",
+    "meaning": "The lecture was so boring that I almost fell asleep."
+  },
+  {
+    "sentence": "彼は仕事中に睡魔に襲われた。",
+    "sentence_furigana": "彼【かれ】は仕事中【しごとちゅう】に睡魔【ずいま】に襲【おそ】われた。",
+    "meaning": "He was overcome by sleepiness while working."
+  },
+  {
+    "sentence": "最近、夜更かしが多く、睡眠不足気味だ。",
+    "sentence_furigana": "最近【さいきん】、夜更【よふ】かしが多く【おお】く、睡眠不足気味【すいみんぶそくぎみ】だ。",
+    "meaning": "Lately, I've been staying up late a lot and feel sleep-deprived."
+  },
+  {
+    "sentence": "彼はベッドに入るとすぐに眠ってしまった。",
+    "sentence_furigana": "彼【かれ】はベッドに入【はい】るとすぐに眠【ねむ】ってしまった。",
+    "meaning": "He fell asleep as soon as he got into bed."
+  },
+  {
+    "sentence": "もう少し寝ていたいが、起きなければならない。",
+    "sentence_furigana": "もう少し【すこ】し寝【ね】ていたいが、起【お】きなければならない。",
+    "meaning": "I want to sleep a little longer, but I have to get up."
+  },
+  {
+    "sentence": "彼女は疲れて、うつらうつらと眠っていた。",
+    "sentence_furigana": "彼女【かのじょ】は疲【つか】れて、うつらうつらと眠【ねむ】っていた。",
+    "meaning": "She was drowsing sleepily because she was tired."
+  },
+  {
+    "sentence": "新幹線の中で、彼はうとうとしていた。",
+    "sentence_furigana": "新幹線【しんかんせん】の中【なか】で、彼【かれ】はうとうとしていた。",
+    "meaning": "He was dozing off on the bullet train."
+  },
+  {
+    "sentence": "眠い目をこすりながら、彼は仕事に戻った。",
+    "sentence_furigana": "眠【ねむ】い目【め】をこすりながら、彼【かれ】は仕事【しごと】に戻【もど】った。",
+    "meaning": "Rubbing his sleepy eyes, he returned to work."
+  },
+  {
+    "sentence": "快適なベッドで、彼はすぐに眠りに落ちた。",
+    "sentence_furigana": "快適【かいてき】なベッドで、彼【かれ】はすぐに眠【ねむ】りに落【お】ちた。",
+    "meaning": "He quickly fell asleep in the comfortable bed."
+  },
+  {
+    "sentence": "雨音を聞きながら眠るのは心地よい。",
+    "sentence_furigana": "雨音【あまおと】を聞【き】きながら眠【ねむ】るのは心地【ここち】よい。",
+    "meaning": "It's pleasant to sleep while listening to the sound of rain."
+  },
+  {
+    "sentence": "彼は疲労で眠そうだった。",
+    "sentence_furigana": "彼【かれ】は疲労【ひろう】で眠【ねむ】そうだった。",
+    "meaning": "He looked sleepy from fatigue."
+  },
+  {
+    "sentence": "彼女は子供の頃、よく寝言を言っていたらしい。",
+    "sentence_furigana": "彼女【かのじょ】は子供の頃【こどものころ】、よく寝言【ねごと】を言【い】っていたらしい。",
+    "meaning": "Apparently, she used to talk in her sleep a lot when she was a child."
+  },
+  {
+    "sentence": "眠っている間に夢を見た。",
+    "sentence_furigana": "眠【ねむ】っている間【あいだ】に夢【ゆめ】を見【み】た。",
+    "meaning": "I had a dream while sleeping."
+  },
+  {
+    "sentence": "彼は深い眠りについていた。",
+    "sentence_furigana": "彼【かれ】は深【ふか】い眠【ねむ】りに就【つ】いていた。",
+    "meaning": "He was in a deep sleep."
+  },
+  {
+    "sentence": "この部屋は暖かくて眠くなる。",
+    "sentence_furigana": "この部屋【へや】は暖【あたた】かくて眠【ねむ】くなる。",
+    "meaning": "This room is warm and makes one drowsy."
+  },
+  {
+    "sentence": "会議中に居眠りするのは失礼だ。",
+    "sentence_furigana": "会議中【かいぎちゅう】に居眠【いねむ】りするのは失礼【しつれい】だ。",
+    "meaning": "It is rude to doze off during a meeting."
+  },
+  {
+    "sentence": "彼は眠気を覚ますためにコーヒーを飲んだ。",
+    "sentence_furigana": "彼【かれ】は眠気【ねむけ】を覚【さ】ますためにコーヒーを飲【の】んだ。",
+    "meaning": "He drank coffee to wake himself up."
+  },
+  {
+    "sentence": "子供たちは疲れて、まぶたが重そうだった。",
+    "sentence_furigana": "子供【こども】たちは疲【つか】れて、まぶたが重【おも】そうだった。",
+    "meaning": "The children looked drowsy, their eyelids heavy."
+  },
+  {
+    "sentence": "彼の穏やかな話し声は私を眠りに誘った。",
+    "sentence_furigana": "彼【かれ】の穏【おだ】やかな話【はな】し声【ごえ】は私【わたし】を眠【ねむ】りに誘【いざな】った。",
+    "meaning": "His calm voice invited me to sleep."
+  },
+  {
+    "sentence": "彼女は薬のせいで眠気に襲われた。",
+    "sentence_furigana": "彼女【かのじょ】は薬【くすり】のせいで眠気【ねむけ】に襲【おそ】われた。",
+    "meaning": "She was overcome by drowsiness due to the medicine."
+  },
+  {
+    "sentence": "今日は一日中眠かった。",
+    "sentence_furigana": "今日【きょう】は一日中【いちにちじゅう】眠【ねむ】かった。",
+    "meaning": "I was sleepy all day today."
+  },
+  {
+    "sentence": "彼は熟睡していて、なかなか起きなかった。",
+    "sentence_furigana": "彼【かれ】は熟睡【じゅくすい】していて、なかなか起きなかった。",
+    "meaning": "He was fast asleep and didn't wake up easily."
+  },
+  {
+    "sentence": "この本は面白くて、つい眠ってしまった。",
+    "sentence_furigana": "この本【ほん】は面白【おもしろ】くて、つい眠【ねむ】ってしまった。",
+    "meaning": "This book was so interesting that I accidentally fell asleep."
+  },
+  {
+    "sentence": "彼は疲れてソファで眠ってしまった。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れてソファで眠【ねむ】ってしまった。",
+    "meaning": "He fell asleep on the sofa from exhaustion."
+  },
+  {
+    "sentence": "彼女は眠そうな目で彼を見た。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな目【め】で彼【かれ】を見【み】た。",
+    "meaning": "She looked at him with sleepy eyes."
+  },
+  {
+    "sentence": "十分な睡眠を取ることが大切だ。",
+    "sentence_furigana": "十分【じゅうぶん】な睡眠【すいみん】を取【と】ることが大切【たいせつ】だ。",
+    "meaning": "It is important to get enough sleep."
+  },
+  {
+    "sentence": "彼はうとうとと舟を漕いでいた。",
+    "sentence_furigana": "彼【かれ】はうとうとと舟【ふね】を漕【こ】いでいた。",
+    "meaning": "He was dozing off."
+  },
+  {
+    "sentence": "寒くて目が覚めてしまい、その後眠れなかった。",
+    "sentence_furigana": "寒【さむ】くて目【め】が覚【さ】めてしまい、その後【そのご】眠【ねむ】れなかった。",
+    "meaning": "I woke up because it was cold, and couldn't sleep afterward."
+  },
+  {
+    "sentence": "彼女はぐっすり眠っていた。",
+    "sentence_furigana": "彼女【かのじょ】はぐっすり眠【ねむ】っていた。",
+    "meaning": "She was fast asleep."
+  },
+  {
+    "sentence": "疲れていると、どんな場所でも眠れる。",
+    "sentence_furigana": "疲【つか】れていると、どんな場所【ばしょ】でも眠【ねむ】れる。",
+    "meaning": "When you are tired, you can sleep anywhere."
+  },
+  {
+    "sentence": "彼は眠い声を抑えながら話した。",
+    "sentence_furigana": "彼【かれ】は眠【ねむ】い声【こえ】を抑【おさ】えながら話【はな】した。",
+    "meaning": "He spoke while suppressing his sleepy voice."
+  },
+  {
+    "sentence": "彼は目をこすりながら、眠気と戦っていた。",
+    "sentence_furigana": "彼【かれ】は目【め】をこすりながら、眠気【ねむけ】と戦【たたか】っていた。",
+    "meaning": "He was fighting off sleepiness while rubbing his eyes."
+  },
+  {
+    "sentence": "彼女は眠そうな表情をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな表情【ひょうじょう】をしていた。",
+    "meaning": "She had a drowsy expression."
+  },
+  {
+    "sentence": "この部屋の温度は眠りを誘う。",
+    "sentence_furigana": "この部屋【へや】の温度【おんど】は眠【ねむ】りを誘【さそ】う。",
+    "meaning": "The temperature in this room invites sleep."
+  },
+  {
+    "sentence": "彼は疲労困憊で、すぐに眠ってしまった。",
+    "sentence_furigana": "彼【かれ】は疲労困憊【ひろうこんぱい】で、すぐに眠【ねむ】ってしまった。",
+    "meaning": "He was exhausted and quickly fell asleep."
+  },
+  {
+    "sentence": "彼女は夢の中で飛んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は夢【ゆめ】の中【なか】で飛【と】んでいた。",
+    "meaning": "She was flying in her dream."
+  },
+  {
+    "sentence": "少しうとうとしている間に時間が過ぎた。",
+    "sentence_furigana": "少【すこ】しうとうとしている間【あいだ】に時間【じかん】が過【す】ぎた。",
+    "meaning": "Time passed while I was dozing a little."
+  },
+  {
+    "sentence": "彼は疲れて、つい居眠りをしてしまった。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れて、つい居眠【いねむ】りをしてしまった。",
+    "meaning": "He was tired and accidentally dozed off."
+  },
+  {
+    "sentence": "彼女は静かな音楽を聴きながら眠りについた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かな音楽【おんがく】を聴【き】きながら眠【ねむ】りについた。",
+    "meaning": "She fell asleep while listening to quiet music."
+  },
+  {
+    "sentence": "彼は徹夜明けで、非常に眠そうだった。",
+    "sentence_furigana": "彼【かれ】は徹夜明【てつやあ】けで、非常【ひじょう】に眠【ねむ】そうだった。",
+    "meaning": "He looked very sleepy after staying up all night."
+  },
+  {
+    "sentence": "子供が眠るのを待ってから、母は部屋を出た。",
+    "sentence_furigana": "子供【こども】が眠【ねむ】るのを待【ま】ってから、母【はは】は部屋【へや】を出【で】た。",
+    "meaning": "The mother left the room after waiting for the child to fall asleep."
+  },
+  {
+    "sentence": "この薬は眠気を誘う副作用がある。",
+    "sentence_furigana": "この薬【くすり】は眠気【ねむけ】を誘【さそ】う副作用【ふくさよう】がある。",
+    "meaning": "This medicine has a side effect of causing drowsiness."
+  },
+  {
+    "sentence": "彼女は眠そうな表情で私に近づいてきた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな表情【ひょうじょう】で私【わたし】に近【ちか】づいてきた。",
+    "meaning": "She approached me with a drowsy expression."
+  },
+  {
+    "sentence": "彼は睡眠不足で顔色が悪い。",
+    "sentence_furigana": "彼【かれ】は睡眠不足【すいみんぶそく】で顔色【かおいろ】が悪【わる】い。",
+    "meaning": "He looks pale due to lack of sleep."
+  },
+  {
+    "sentence": "その話はあまりにも退屈で、眠りそうになった。",
+    "sentence_furigana": "その話【はな】しはあまりにも退屈【たいくつ】で、眠【ねむ】りそうになった。",
+    "meaning": "The story was so boring that I almost fell asleep."
+  },
+  {
+    "sentence": "彼女は旅の疲れで、すっかり眠っていた。",
+    "sentence_furigana": "彼女【かのじょ】は旅【たび】の疲【つか】れで、すっかり眠【ねむ】っていた。",
+    "meaning": "She was fast asleep from travel fatigue."
+  },
+  {
+    "sentence": "眠る前に本を読む習慣がある。",
+    "sentence_furigana": "眠【ねむ】る前【まえ】に本【ほん】を読【よ】む習慣【しゅうかん】がある。",
+    "meaning": "I have a habit of reading a book before sleeping."
+  },
+  {
+    "sentence": "彼は無理やり目を覚ましていたが、すぐに眠そうになった。",
+    "sentence_furigana": "彼【かれ】は無理【むり】やり目【め】を覚【さ】ましていたが、すぐに眠【ねむ】そうになった。",
+    "meaning": "He forced himself to stay awake, but soon looked sleepy."
+  },
+  {
+    "sentence": "彼女は長いフライトで機内食を食べた後、眠りに落ちた。",
+    "sentence_furigana": "彼女【かのじょ】は長【なが】いフライトで機内食【きないしょく】を食【た】べた後【あと】、眠【ねむ】りに落【お】ちた。",
+    "meaning": "She fell asleep after eating the in-flight meal on the long flight."
+  },
+  {
+    "sentence": "今日の天気は穏やかで、眠気を誘う。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は穏和【おだ】やかで、眠気【ねむけ】を誘【さそ】う。",
+    "meaning": "The weather today is calm and makes one drowsy."
+  },
+  {
+    "sentence": "彼は仕事のストレスでよく眠れていない。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】のストレスでよく眠【ねむ】れていない。",
+    "meaning": "He is not sleeping well due to work stress."
+  },
+  {
+    "sentence": "彼女は子供のように無邪気に眠っていた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】のように無邪気【むじゃき】に眠【ねむ】っていた。",
+    "meaning": "She was sleeping innocently like a child."
+  },
+  {
+    "sentence": "彼は終始眠そうな目で会議に参加していた。",
+    "sentence_furigana": "彼【かれ】は終始【しゅうし】眠【ねむ】そうな目【め】で会議【かいぎ】に参加【さんか】していた。",
+    "meaning": "He participated in the meeting with sleepy eyes throughout."
+  },
+  {
+    "sentence": "彼女は疲労のため、文字通り眠っていた。",
+    "sentence_furigana": "彼女【かのじょ】は疲労【ひろう】のため、文字通【もじどお】り眠【ねむ】っていた。",
+    "meaning": "She was literally asleep due to exhaustion."
+  },
+  {
+    "sentence": "彼は静かに眠る友人のそばに座っていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに眠【ねむ】る友人【ゆうじん】のそばに座【すわ】っていた。",
+    "meaning": "He sat by his sleeping friend."
+  },
+  {
+    "sentence": "この環境では、深く眠ることができない。",
+    "sentence_furigana": "この環境【かんきょう】では、深【ふか】く眠【ねむ】ることができない。",
+    "meaning": "I cannot sleep soundly in this environment."
+  },
+  {
+    "sentence": "彼女は子供の頃からの癖で、眠ると歯ぎしりをする。",
+    "sentence_furigana": "彼女【かのじょ】は子供の頃【こどものころ】からの癖【くせ】で、眠【ねむ】ると歯ぎしりをする。",
+    "meaning": "She grinds her teeth when she sleeps, a habit from childhood."
+  },
+  {
+    "sentence": "彼は眠気を振り払おうと顔を洗った。",
+    "sentence_furigana": "彼【かれ】は眠気【ねむけ】を振【ふ】り払【はら】おうと顔【かお】を洗【あら】った。",
+    "meaning": "He washed his face to shake off his sleepiness."
+  },
+  {
+    "sentence": "彼女は疲れていたが、眠れなかった。",
+    "sentence_furigana": "彼女【かのじょ】は疲【つか】れていたが、眠【ねむ】れなかった。",
+    "meaning": "She was tired, but couldn't sleep."
+  },
+  {
+    "sentence": "彼は眠っている間もずっと母親のことを考えていた。",
+    "sentence_furigana": "彼【かれ】は眠【ねむ】っている間【あいだ】もずっと母親【ははおや】のことを考【かんが】えていた。",
+    "meaning": "He was thinking about his mother even while he was sleeping."
+  },
+  {
+    "sentence": "彼女は眠そうな目で本を読んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな目【め】で本【ほん】を読【よ】んでいた。",
+    "meaning": "She was reading a book with sleepy eyes."
+  },
+  {
+    "sentence": "このソファは快適で、すぐに眠ってしまいそうだ。",
+    "sentence_furigana": "このソファは快適【かいてき】で、すぐに眠【ねむ】ってしまいそうだ。",
+    "meaning": "This sofa is so comfortable, I feel like I'll fall asleep soon."
+  },
+  {
+    "sentence": "彼は会議中に眠らないように必死に耐えていた。",
+    "sentence_furigana": "彼【かれ】は会議中【かいぎちゅう】に眠【ねむ】らないように必死【ひっし】に耐【た】えていた。",
+    "meaning": "He was desperately trying not to fall asleep during the meeting."
+  },
+  {
+    "sentence": "彼女は眠そうな顔で「おはよう」と言った。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな顔【かお】で「おはよう」と言【い】った。",
+    "meaning": "She said 'good morning' with a sleepy face."
+  },
+  {
+    "sentence": "彼は長時間運転で疲れて、途中で眠ってしまった。",
+    "sentence_furigana": "彼【かれ】は長時間運転【ちょうじかんうんてん】で疲【つか】れて、途中【とちゅう】で眠【ねむ】ってしまった。",
+    "meaning": "He got tired from driving for a long time and fell asleep on the way."
+  },
+  {
+    "sentence": "彼女は温かいシャワーを浴びて、心地よく眠りについた。",
+    "sentence_furigana": "彼女【かのじょ】は温【あたた】かいシャワーを浴【あ】びて、心地【ここち】よく眠【ねむ】りについた。",
+    "meaning": "She took a warm shower and fell asleep comfortably."
+  },
+  {
+    "sentence": "彼は疲れているので、早く眠りたいと言った。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れているので、早【はや】く眠【ねむ】りたいと言【い】った。",
+    "meaning": "He said he wants to sleep early because he is tired."
+  },
+  {
+    "sentence": "彼女は子供が寝静まるのを待っていた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】が寝静【ねしず】まるのを待【ま】っていた。",
+    "meaning": "She was waiting for the children to fall asleep."
+  },
+  {
+    "sentence": "彼は眠気を誘うような穏やかな声で話した。",
+    "sentence_furigana": "彼【かれ】は眠気【ねむけ】を誘【さそ】うような穏和【おだ】やかな声【こえ】で話【はな】した。",
+    "meaning": "He spoke in a calm voice that seemed to induce drowsiness."
+  },
+  {
+    "sentence": "彼女は寝る前に軽い読書をするのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は寝【ね】る前【まえ】に軽【かる】い読書【どくしょ】をするのが好【す】きだ。",
+    "meaning": "She likes to do some light reading before sleeping."
+  },
+  {
+    "sentence": "彼は会議中に眠らないようにコーヒーを飲んだ。",
+    "sentence_furigana": "彼【かれ】は会議中【かいぎちゅう】に眠【ねむ】らないようにコーヒーを飲【の】んだ。",
+    "meaning": "He drank coffee so as not to fall asleep during the meeting."
+  },
+  {
+    "sentence": "彼女はとても疲れていて、すぐに眠ってしまった。",
+    "sentence_furigana": "彼女【かのじょ】はとても疲【つか】れていて、すぐに眠【ねむ】ってしまった。",
+    "meaning": "She was very tired and fell asleep immediately."
+  },
+  {
+    "sentence": "彼は長い一日を終えて、心地よく眠りについた。",
+    "sentence_furigana": "彼【かれ】は長【なが】い一日【いちにち】を終【お】えて、心地【ここち】よく眠【ねむ】りについた。",
+    "meaning": "He had a long day and fell into a comfortable sleep."
+  },
+  {
+    "sentence": "彼女は旅の疲れで、車の中で眠ってしまった。",
+    "sentence_furigana": "彼女【かのじょ】は旅【たび】の疲【つか】れで、車【くるま】の中【なか】で眠【ねむ】ってしまった。",
+    "meaning": "She fell asleep in the car due to travel fatigue."
+  },
+  {
+    "sentence": "彼は眠い目をこすりながら、必死に仕事をした。",
+    "sentence_furigana": "彼【かれ】は眠【ねむ】い目【め】をこすりながら、必死【ひっし】に仕事【しごと】をした。",
+    "meaning": "He worked desperately while rubbing his sleepy eyes."
+  },
+  {
+    "sentence": "彼女は子供がぐっすり眠るのを見て安心した。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】がぐっすり眠【ねむ】るのを見【み】て安心【あんしん】した。",
+    "meaning": "She felt relieved seeing her child sleeping soundly."
+  },
+  {
+    "sentence": "彼は疲れて、会議中にうとうとしてしまった。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れて、会議中【かいぎちゅう】にうとうとしてしまった。",
+    "meaning": "He was tired and dozed off during the meeting."
+  },
+  {
+    "sentence": "彼女は眠れない夜を過ごした。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】れない夜【よる】を過【す】ごした。",
+    "meaning": "She spent a sleepless night."
+  },
+  {
+    "sentence": "彼は薬の副作用で眠気に苦しんでいた。",
+    "sentence_furigana": "彼【かれ】は薬【くすり】の副作用【ふくさよう】で眠気【ねむけ】に苦【くる】しんでいた。",
+    "meaning": "He suffered from drowsiness due to the medicine's side effects."
+  },
+  {
+    "sentence": "彼女は長い間眠っていた。",
+    "sentence_furigana": "彼女【かのじょ】は長【なが】い間【あいだ】眠【ねむ】っていた。",
+    "meaning": "She had been sleeping for a long time."
+  },
+  {
+    "sentence": "彼は疲労でうつらうつらしていた。",
+    "sentence_furigana": "彼【かれ】は疲労【ひろう】でうつらうつらしていた。",
+    "meaning": "He was drowsing from fatigue."
+  },
+  {
+    "sentence": "彼女は眠そうな目で、まだ起きていた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな目【め】で、まだ起【お】きていた。",
+    "meaning": "She was still awake with sleepy eyes."
+  },
+  {
+    "sentence": "彼は深い眠りから無理やり起こされた。",
+    "sentence_furigana": "彼【かれ】は深【ふか】い眠【ねむ】りから無理【むり】やり起【お】こされた。",
+    "meaning": "He was forcibly woken from a deep sleep."
+  },
+  {
+    "sentence": "彼女は心地よい眠りについた。",
+    "sentence_furigana": "彼女【かのじょ】は心地【ここち】よい眠【ねむ】りについた。",
+    "meaning": "She fell into a pleasant sleep."
+  },
+  {
+    "sentence": "彼は寝不足で、一日中眠気を感じていた。",
+    "sentence_furigana": "彼【かれ】は寝不足【ねぶそく】で、一日中【いちにちじゅう】眠気【ねむけ】を感じ【かんじ】ていた。",
+    "meaning": "He felt sleepy all day due to lack of sleep."
+  },
+  {
+    "sentence": "彼女は眠そうにしながらも、話を続けた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうにしながらも、話【はな】しを続【つづ】けた。",
+    "meaning": "She continued talking while looking sleepy."
+  },
+  {
+    "sentence": "彼は昼食後、いつも眠くなる。",
+    "sentence_furigana": "彼【かれ】は昼食後【ちゅうしょくご】、いつも眠【ねむ】くなる。",
+    "meaning": "He always gets sleepy after lunch."
+  },
+  {
+    "sentence": "彼女は夜遅くまで起きていたので、朝は眠かった。",
+    "sentence_furigana": "彼女【かのじょ】は夜遅【よるおそ】くまで起【お】きていたので、朝【あさ】は眠【ねむ】かった。",
+    "meaning": "She stayed up late at night, so she was sleepy in the morning."
+  },
+  {
+    "sentence": "彼は眠りにつくのに苦労していた。",
+    "sentence_furigana": "彼【かれ】は眠【ねむ】りにつくのに苦労【くろう】していた。",
+    "meaning": "He was having trouble falling asleep."
+  },
+  {
+    "sentence": "彼女は部屋の明かりを消して、眠りについた。",
+    "sentence_furigana": "彼女【かのじょ】は部屋【へや】の明【あ】かりを消【け】して、眠【ねむ】りについた。",
+    "meaning": "She turned off the light in the room and fell asleep."
+  },
+  {
+    "sentence": "彼は仕事で疲れて、ソファでうたた寝をした。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】で疲【つか】れて、ソファでうたた寝【ねむ】をした。",
+    "meaning": "He was tired from work and took a nap on the sofa."
+  },
+  {
+    "sentence": "彼女は眠い目をこすりながら、勉強を続けた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】い目【め】をこすりながら、勉強【べんきょう】を続【つづ】けた。",
+    "meaning": "She continued studying while rubbing her sleepy eyes."
+  },
+  {
+    "sentence": "彼は長時間のフライトでぐっすり眠ることができた。",
+    "sentence_furigana": "彼【かれ】は長時間【ちょうじかん】フライトでぐっすり眠【ねむ】ることができた。",
+    "meaning": "He was able to sleep soundly on the long flight."
+  },
+  {
+    "sentence": "彼女は眠そうな目で、窓の外を眺めていた。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】そうな目【め】で、窓【まど】の外【そと】を眺【なが】めていた。",
+    "meaning": "She was gazing out the window with sleepy eyes."
+  },
+  {
+    "sentence": "彼は疲労で、車を運転中に眠ってしまった。",
+    "sentence_furigana": "彼【かれ】は疲労【ひろう】で、車【くるま】を運転中【うんてんちゅう】に眠【ねむ】ってしまった。",
+    "meaning": "He fell asleep while driving due to fatigue."
+  },
+  {
+    "sentence": "彼女は静かな環境でよく眠れる。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かな環境【かんきょう】でよく眠【ねむ】れる。",
+    "meaning": "She can sleep well in a quiet environment."
+  },
+  {
+    "sentence": "彼は疲れているせいか、少し眠そうだった。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れているせいか、少【すこ】し眠【ねむ】そうだった。",
+    "meaning": "Perhaps because he is tired, he looked a little sleepy."
+  },
+  {
+    "sentence": "彼女は子供が眠るまで絵本を読んであげた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】が眠【ねむ】るまで絵本【えほん】を読【よ】んであげた。",
+    "meaning": "She read a picture book to the child until they fell asleep."
+  },
+  {
+    "sentence": "彼は疲労のため、歩きながらでも眠ってしまいそうだった。",
+    "sentence_furigana": "彼【かれ】は疲労【ひろう】のため、歩【ある】きながらでも眠【ねむ】ってしまいそうだった。",
+    "meaning": "He looked like he could fall asleep even while walking due to fatigue."
+  },
+  {
+    "sentence": "彼女は満足して眠りについた。",
+    "sentence_furigana": "彼女【かのじょ】は満足【まんぞく】して眠【ねむ】りについた。",
+    "meaning": "She fell asleep contentedly."
+  },
+  {
+    "sentence": "彼は眠くて、まぶたが重かった。",
+    "sentence_furigana": "彼【かれ】は眠【ねむ】くて、まぶたが重【おも】かった。",
+    "meaning": "He was sleepy and his eyelids were heavy."
+  },
+  {
+    "sentence": "彼女は眠っている間に微笑んだ。",
+    "sentence_furigana": "彼女【かのじょ】は眠【ねむ】っている間【あいだ】に微笑【ほほえ】んだ。",
+    "meaning": "She smiled in her sleep."
+  }
+]

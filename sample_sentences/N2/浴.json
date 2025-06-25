@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "温泉でゆっくりと浴びたい。",
+    "sentence_furigana": "温泉【おんせん】でゆっくりと浴【あ】びたい。",
+    "meaning": "I want to relax and bathe in the hot springs."
+  },
+  {
+    "sentence": "太陽の光を浴びてリラックスした。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】を浴【あ】びてリラックスした。",
+    "meaning": "I relaxed, basking in the sunlight."
+  },
+  {
+    "sentence": "彼はシャワーを浴びた。",
+    "sentence_furigana": "彼【かれ】はシャワーを浴【あ】びた。",
+    "meaning": "He took a shower."
+  },
+  {
+    "sentence": "子供たちは雨の中ではしゃいでいた。",
+    "sentence_furigana": "子供【こども】たちは雨【あめ】の中【なか】ではしゃいでいた。",
+    "meaning": "The children were frolicking in the rain."
+  },
+  {
+    "sentence": "熱いお湯を浴びて疲れが取れた。",
+    "sentence_furigana": "熱【あつ】いお湯【ゆ】を浴【あ】びて疲【つか】れが取【と】れた。",
+    "meaning": "Taking a hot bath relieved my fatigue."
+  },
+  {
+    "sentence": "彼女は賞賛の的となった。",
+    "sentence_furigana": "彼女【かのじょ】は賞賛【しょうさん】の的【まと】となった。",
+    "meaning": "She was favored with praise."
+  },
+  {
+    "sentence": "夏の暑さを浴びる。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さを浴【あ】びる。",
+    "meaning": "To endure the summer heat."
+  },
+  {
+    "sentence": "浴衣を着て祭りに行った。",
+    "sentence_furigana": "浴衣【ゆかた】を着【き】て祭【まつ】りに行【い】った。",
+    "meaning": "I wore a yukata and went to the festival."
+  },
+  {
+    "sentence": "入浴はリフレッシュに効果的だ。",
+    "sentence_furigana": "入浴【にゅうよく】はリフレッシュに効果的【こうかてき】だ。",
+    "meaning": "Bathing is effective for refreshing oneself."
+  },
+  {
+    "sentence": "浴槽が大きくて快適だった。",
+    "sentence_furigana": "浴槽【よくそう】が大きくて快適【かいてき】だった。",
+    "meaning": "The bathtub was large and comfortable."
+  },
+  {
+    "sentence": "朝日を浴びて一日を始める。",
+    "sentence_furigana": "朝日【あさひ】を浴【あ】びて一日【いちにち】を始【はじ】める。",
+    "meaning": "Start the day basking in the morning sun."
+  },
+  {
+    "sentence": "冷たい水を浴びて目を覚ました。",
+    "sentence_furigana": "冷【つめ】たい水【みず】を浴【あ】びて目【め】を覚【さ】ました。",
+    "meaning": "I splashed cold water on my face to wake up."
+  },
+  {
+    "sentence": "彼はそのニュースに浴びせかけられた。",
+    "sentence_furigana": "彼【かれ】はそのニュースに浴【あ】びせかけられた。",
+    "meaning": "He was bombarded with the news."
+  },
+  {
+    "sentence": "シャワーを浴びてくる。",
+    "sentence_furigana": "シャワーを浴【あ】びてくる。",
+    "meaning": "I'm going to take a shower."
+  },
+  {
+    "sentence": "夜に湯船に浸かる。",
+    "sentence_furigana": "夜【よる】に湯船【ゆぶね】に浸【つ】かる。",
+    "meaning": "Soak in the bath at night."
+  },
+  {
+    "sentence": "彼の話は賞賛を浴びた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は賞賛【しょうさん】を浴【あ】びた。",
+    "meaning": "His speech was met with admiration."
+  },
+  {
+    "sentence": "太陽の光を浴びるのが好きです。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】を浴【あ】びるのが好【す】きです。",
+    "meaning": "I like to bask in the sunlight."
+  },
+  {
+    "sentence": "長風呂は体に良い。",
+    "sentence_furigana": "長風呂【ながぶろ】は体【からだ】に良【よ】い。",
+    "meaning": "A long bath is good for the body."
+  },
+  {
+    "sentence": "水を浴びてリフレッシュする。",
+    "sentence_furigana": "水【みず】を浴【あ】びてリフレッシュする。",
+    "meaning": "Refresh yourself by taking a shower/bath."
+  },
+  {
+    "sentence": "彼は多くの批判を浴びた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの批判【ひはん】を浴【あ】びた。",
+    "meaning": "He was subjected to a lot of criticism."
+  },
+  {
+    "sentence": "雨粒を浴びる。",
+    "sentence_furigana": "雨粒【あまつぶ】を浴【あ】びる。",
+    "meaning": "To be showered with raindrops."
+  },
+  {
+    "sentence": "温泉に入って体を温める。",
+    "sentence_furigana": "温泉【おんせん】に入【はい】って体【からだ】を温【あたた】める。",
+    "meaning": "Warm your body by bathing in a hot spring."
+  },
+  {
+    "sentence": "彼女はスポットライトを浴びた。",
+    "sentence_furigana": "彼女【かのじょ】はスポットライトを浴【あ】びた。",
+    "meaning": "She bathed in the spotlight."
+  },
+  {
+    "sentence": "浴びるほど水を飲んだ。",
+    "sentence_furigana": "浴【あ】びるほど水【みず】を飲【の】んだ。",
+    "meaning": "I drank water as if I was bathing in it."
+  },
+  {
+    "sentence": "日差しを浴びる。",
+    "sentence_furigana": "日差【ひざ】しを浴【あ】びる。",
+    "meaning": "To bask in the sunshine."
+  },
+  {
+    "sentence": "シャワーを浴びてさっぱりした。",
+    "sentence_furigana": "シャワーを浴【あ】びてさっぱりした。",
+    "meaning": "I felt refreshed after taking a shower."
+  },
+  {
+    "sentence": "彼は祝福の言葉を浴びた。",
+    "sentence_furigana": "彼【かれ】は祝福【しゅくふく】の言葉【ことば】を浴【あ】びた。",
+    "meaning": "He was showered with words of blessing."
+  },
+  {
+    "sentence": "浴場の利用時間を教えてください。",
+    "sentence_furigana": "浴場【よくじょう】の利用時間【りようじかん】を教【おし】えてください。",
+    "meaning": "Please tell me the operating hours of the bathhouse."
+  },
+  {
+    "sentence": "雨の中を浴びながら歩いた。",
+    "sentence_furigana": "雨【あめ】の中【なか】を浴【あ】びながら歩【ある】いた。",
+    "meaning": "I walked through the rain, getting drenched."
+  },
+  {
+    "sentence": "この部屋は明るい日差しを浴びる。",
+    "sentence_furigana": "この部屋【へや】は明【あか】るい日差【ひざ】しを浴【あ】びる。",
+    "meaning": "This room gets bright sunlight."
+  },
+  {
+    "sentence": "彼は熱狂的な声援を浴びた。",
+    "sentence_furigana": "彼【かれ】は熱狂的【ねっきょうてき】な声援【せいえん】を浴【あ】びた。",
+    "meaning": "He was met with enthusiastic cheers."
+  },
+  {
+    "sentence": "入浴剤を入れてバスタイムを楽しむ。",
+    "sentence_furigana": "入浴剤【にゅうよくざい】を入【い】れてバスタイムを楽し【たの】しむ。",
+    "meaning": "Enjoy bath time by adding bath salts."
+  },
+  {
+    "sentence": "滝の水を浴びて気分転換した。",
+    "sentence_furigana": "滝【たき】の水【みず】を浴【あ】びて気分転換【きぶんてんかん】した。",
+    "meaning": "I changed my mood by bathing in the waterfall's water."
+  },
+  {
+    "sentence": "彼は称賛のシャワーを浴びた。",
+    "sentence_furigana": "彼【かれ】は称賛【しょうさん】のシャワーを浴【あ】びた。",
+    "meaning": "He was showered with praise."
+  },
+  {
+    "sentence": "湯浴みをしてリラックスする。",
+    "sentence_furigana": "湯浴【ゆあ】みをしてリラックスする。",
+    "meaning": "Relax by taking a bath."
+  },
+  {
+    "sentence": "浴槽にお湯を張る。",
+    "sentence_furigana": "浴槽【よくそう】にお湯【ゆ】を張【は】る。",
+    "meaning": "Fill the bathtub with hot water."
+  },
+  {
+    "sentence": "彼は賞賛の的となった。",
+    "sentence_furigana": "彼【かれ】は賞賛【しょうさん】の的【まと】となった。",
+    "meaning": "He became the object of admiration."
+  },
+  {
+    "sentence": "夏の暑さを浴びる。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さを浴【あ】びる。",
+    "meaning": "To endure the summer heat."
+  },
+  {
+    "sentence": "浴衣をきて祭りに行く。",
+    "sentence_furigana": "浴衣【ゆかた】をきて祭【まつ】りに行【い】く。",
+    "meaning": "Wear a yukata and go to the festival."
+  },
+  {
+    "sentence": "入浴は健康に良い。",
+    "sentence_furigana": "入浴【にゅうよく】は健康【けんこう】に良【よ】い。",
+    "meaning": "Bathing is good for health."
+  },
+  {
+    "sentence": "浴槽の掃除をする。",
+    "sentence_furigana": "浴槽【よくそう】の掃除【そうじ】をする。",
+    "meaning": "Clean the bathtub."
+  },
+  {
+    "sentence": "朝日を浴びて気分が良い。",
+    "sentence_furigana": "朝日【あさひ】を浴【あ】びて気分【きぶん】が良【よ】い。",
+    "meaning": "I feel good basking in the morning sun."
+  },
+  {
+    "sentence": "冷たいシャワーを浴びた。",
+    "sentence_furigana": "冷【つめ】たいシャワーを浴【あ】びた。",
+    "meaning": "I took a cold shower."
+  },
+  {
+    "sentence": "彼は質問を浴びせられた。",
+    "sentence_furigana": "彼【かれ】は質問【しつもん】を浴【あ】びせられた。",
+    "meaning": "He was bombarded with questions."
+  },
+  {
+    "sentence": "シャワーを浴びてきます。",
+    "sentence_furigana": "シャワーを浴【あ】びてきます。",
+    "meaning": "I will go take a shower."
+  },
+  {
+    "sentence": "湯船にゆっくり浸かる。",
+    "sentence_furigana": "湯船【ゆぶね】にゆっくり浸【つ】かる。",
+    "meaning": "Soak slowly in the bathtub."
+  },
+  {
+    "sentence": "彼の提案は歓迎された。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は歓迎【かんげい】された。",
+    "meaning": "His proposal was favored with a welcome."
+  },
+  {
+    "sentence": "日差しを浴びながら散歩する。",
+    "sentence_furigana": "日差【ひざ】しを浴【あ】びながら散歩【さんぽ】する。",
+    "meaning": "Take a walk while basking in the sun."
+  },
+  {
+    "sentence": "長湯は体に良くない。",
+    "sentence_furigana": "長湯【ながゆ】は体【からだ】に良【よ】くない。",
+    "meaning": "Staying in the bath too long is not good for the body."
+  },
+  {
+    "sentence": "水を浴びてリフレッシュ。",
+    "sentence_furigana": "水【みず】を浴【あ】びてリフレッシュ。",
+    "meaning": "Refresh yourself by taking a shower/bath."
+  },
+  {
+    "sentence": "彼は厳しい意見を浴びた。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい意見【いけん】を浴【あ】びた。",
+    "meaning": "He received harsh opinions."
+  },
+  {
+    "sentence": "雨粒を浴びながら走った。",
+    "sentence_furigana": "雨粒【あまつぶ】を浴【あ】びながら走【はし】った。",
+    "meaning": "I ran, getting showered by raindrops."
+  },
+  {
+    "sentence": "温泉に入って体の芯から温まる。",
+    "sentence_furigana": "温泉【おんせん】に入【はい】って体【からだ】の芯【しん】から温【あたた】まる。",
+    "meaning": "Warm your body from the core by bathing in a hot spring."
+  },
+  {
+    "sentence": "彼女は喝采を浴びた。",
+    "sentence_furigana": "彼女【かのじょ】は喝采【かっさい】を浴【あ】びた。",
+    "meaning": "She was showered with applause."
+  },
+  {
+    "sentence": "浴びるほど飲める。",
+    "sentence_furigana": "浴【あ】びるほど飲【の】める。",
+    "meaning": "Can drink a lot."
+  },
+  {
+    "sentence": "陽光を浴びて心地よい。",
+    "sentence_furigana": "陽光【ようこう】を浴【あ】びて心地【ここち】よい。",
+    "meaning": "It feels good basking in the sunlight."
+  },
+  {
+    "sentence": "シャワーを浴びてスッキリした。",
+    "sentence_furigana": "シャワーを浴【あ】びてスッキリした。",
+    "meaning": "I felt refreshed after taking a shower."
+  },
+  {
+    "sentence": "彼は称賛と尊敬を浴びた。",
+    "sentence_furigana": "彼【かれ】は称賛【しょうさん】と尊敬【そんけい】を浴【あ】びた。",
+    "meaning": "He was showered with praise and respect."
+  },
+  {
+    "sentence": "浴場は清潔に保たれている。",
+    "sentence_furigana": "浴場【よくじょう】は清潔【せいけつ】に保【たも】たれている。",
+    "meaning": "The bathhouse is kept clean."
+  },
+  {
+    "sentence": "雨の中を歩いて全身ずぶ濡れになった。",
+    "sentence_furigana": "雨【あめ】の中【なか】を歩【ある】いて全身【ぜんしん】ずぶ濡【ぬ】れになった。",
+    "meaning": "I walked in the rain and got drenched all over."
+  },
+  {
+    "sentence": "この部屋は午後になると西日がよく当たる。",
+    "sentence_furigana": "この部屋【へや】は午後【ごご】になると西日【にしび】がよく当【あ】たる。",
+    "meaning": "This room gets a lot of evening sun in the afternoon."
+  },
+  {
+    "sentence": "彼は観客の声援を浴びた。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】の声援【せいｅん】を浴【あ】びた。",
+    "meaning": "He received cheers from the audience."
+  },
+  {
+    "sentence": "入浴は一日の疲れを癒す。",
+    "sentence_furigana": "入浴【にゅうよく】は一日【いちにち】の疲【つか】れを癒【い】やす。",
+    "meaning": "Bathing heals the fatigue of the day."
+  },
+  {
+    "sentence": "滝のしぶきを浴びる。",
+    "sentence_furigana": "滝【たき】のしぶきを浴【あ】びる。",
+    "meaning": "To be showered by the spray of a waterfall."
+  },
+  {
+    "sentence": "彼は賞賛の嵐にさらされた。",
+    "sentence_furigana": "彼【かれ】は賞賛【しょうさん】の嵐【あらし】にさらされた。",
+    "meaning": "He was subjected to a storm of praise."
+  },
+  {
+    "sentence": "体を洗う。",
+    "sentence_furigana": "体【からだ】を洗【あら】う。",
+    "meaning": "Wash one's body."
+  },
+  {
+    "sentence": "日光浴をする。",
+    "sentence_furigana": "日光浴【にっこうよく】をする。",
+    "meaning": "To sunbathe."
+  },
+  {
+    "sentence": "彼女は祝福を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は祝福【しゅくふく】を受【う】けた。",
+    "meaning": "She was favored with blessings."
+  },
+  {
+    "sentence": "浴槽にゆっくり浸かりたい。",
+    "sentence_furigana": "浴槽【よくそう】にゆっくり浸【つ】かりたい。",
+    "meaning": "I want to soak slowly in the bathtub."
+  },
+  {
+    "sentence": "雨を浴びて風邪をひいた。",
+    "sentence_furigana": "雨【あめ】を浴【あ】びて風邪【かぜ】をひいた。",
+    "meaning": "I caught a cold after getting rained on."
+  },
+  {
+    "sentence": "浴衣を着て花火大会に行った。",
+    "sentence_furigana": "浴衣【ゆかた】を着【き】て花火大会【はなびたいかい】に行【い】った。",
+    "meaning": "I wore a yukata and went to the fireworks festival."
+  },
+  {
+    "sentence": "温泉の湯を浴びる。",
+    "sentence_furigana": "温泉【おんせん】の湯【ゆ】を浴【あ】びる。",
+    "meaning": "To bathe in hot spring water."
+  },
+  {
+    "sentence": "彼は喝采を浴びて喜んだ。",
+    "sentence_furigana": "彼【かれ】は喝采【かっさい】を浴【あ】びて喜【よろこ】んだ。",
+    "meaning": "He rejoiced, bathed in applause."
+  },
+  {
+    "sentence": "入浴時間を守ってください。",
+    "sentence_furigana": "入浴時間【にゅうよくじかん】を守【まも】ってください。",
+    "meaning": "Please observe the bathing hours."
+  },
+  {
+    "sentence": "陽の光を浴びて元気が出る。",
+    "sentence_furigana": "陽【ひ】の光【ひかり】を浴【あ】びて元気【げんき】が出【で】る。",
+    "meaning": "I feel energetic basking in the sunlight."
+  },
+  {
+    "sentence": "シャワーを浴びる。",
+    "sentence_furigana": "シャワーを浴【あ】びる。",
+    "meaning": "To take a shower."
+  },
+  {
+    "sentence": "彼は非難を浴びた。",
+    "sentence_furigana": "彼【かれ】は非難【ひなん】を浴【あ】びた。",
+    "meaning": "He was subjected to criticism."
+  },
+  {
+    "sentence": "雨粒を体に浴びる。",
+    "sentence_furigana": "雨粒【あまつぶ】を体【からだ】に浴【あ】びる。",
+    "meaning": "To let raindrops fall on your body."
+  },
+  {
+    "sentence": "温泉でリラックスする。",
+    "sentence_furigana": "温泉【おんせん】でリラックスする。",
+    "meaning": "To relax in a hot spring."
+  },
+  {
+    "sentence": "彼女は憧れの的となった。",
+    "sentence_furigana": "彼女【かのじょ】は憧【あこが】れの的【まと】となった。",
+    "meaning": "She became the object of admiration."
+  },
+  {
+    "sentence": "浴衣は夏の定番です。",
+    "sentence_furigana": "浴衣【ゆかた】は夏【なつ】の定番【ていばん】です。",
+    "meaning": "Yukata are a summer staple."
+  },
+  {
+    "sentence": "入浴は健康維持に役立つ。",
+    "sentence_furigana": "入浴【にゅうよく】は健康維持【けんこういじ】に役立【やくだ】つ。",
+    "meaning": "Bathing is useful for maintaining health."
+  },
+  {
+    "sentence": "浴槽にお湯をためる。",
+    "sentence_furigana": "浴槽【よくそう】にお湯【ゆ】をためる。",
+    "meaning": "Fill the bathtub with hot water."
+  },
+  {
+    "sentence": "朝日を浴びて一日をスタートさせる。",
+    "sentence_furigana": "朝日【あさひ】を浴【あ】びて一日【いちにち】をスタートさせる。",
+    "meaning": "Start the day basking in the morning sun."
+  },
+  {
+    "sentence": "冷水を浴びて目を覚ます。",
+    "sentence_furigana": "冷水【れいすい】を浴【あ】びて目【め】を覚【さ】ます。",
+    "meaning": "Wake up by splashing cold water on yourself."
+  },
+  {
+    "sentence": "彼は言葉のシャワーを浴びた。",
+    "sentence_furigana": "彼【かれ】は言葉【ことば】のシャワーを浴【あ】びた。",
+    "meaning": "He was showered with words."
+  },
+  {
+    "sentence": "シャワーを浴びてさっぱりしよう。",
+    "sentence_furigana": "シャワーを浴【あ】びてさっぱりしよう。",
+    "meaning": "Let's feel refreshed after taking a shower."
+  },
+  {
+    "sentence": "湯船にゆっくり浸かる時間がない。",
+    "sentence_furigana": "湯船【ゆぶね】にゆっくり浸【つ】かる時間【じかん】がない。",
+    "meaning": "There is no time to soak slowly in the bathtub."
+  },
+  {
+    "sentence": "彼の成功は多くの賞賛を浴びた。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】は多【おお】くの賞賛【しょうさん】を浴【あ】びた。",
+    "meaning": "His success was met with much admiration."
+  },
+  {
+    "sentence": "日差しを浴びながら読書をする。",
+    "sentence_furigana": "日差【ひざ】しを浴【あ】びながら読書【どくしょ】をする。",
+    "meaning": "Read a book while basking in the sun."
+  },
+  {
+    "sentence": "長湯は体に悪い。",
+    "sentence_furigana": "長湯【ながゆ】は体【からだ】に悪【わる】い。",
+    "meaning": "Staying in the bath too long is bad for the body."
+  },
+  {
+    "sentence": "水を浴びて汗を流す。",
+    "sentence_furigana": "水【みず】を浴【あ】びて汗【あせ】を流【なが】す。",
+    "meaning": "Wash off sweat by taking a shower/bath."
+  },
+  {
+    "sentence": "彼は激しい非難を浴びた。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しい非難【ひなん】を浴【あ】びた。",
+    "meaning": "He was subjected to severe criticism."
+  },
+  {
+    "sentence": "雨に浴びて風邪を引いた。",
+    "sentence_furigana": "雨【あめ】に浴【あ】びて風邪【かぜ】を引【ひ】いた。",
+    "meaning": "I caught a cold from getting rained on."
+  },
+  {
+    "sentence": "温泉に浸かる。",
+    "sentence_furigana": "温泉【おんせん】に浸【つ】かる。",
+    "meaning": "To soak in a hot spring."
+  },
+  {
+    "sentence": "彼女は賞賛の言葉に包まれた。",
+    "sentence_furigana": "彼女【かのじょ】は賞賛【しょうさん】の言葉【ことば】に包【つつ】まれた。",
+    "meaning": "She was enveloped in words of praise."
+  },
+  {
+    "sentence": "浴衣は涼しい。",
+    "sentence_furigana": "浴衣【ゆかた】は涼【すず】しい。",
+    "meaning": "Yukata are cool."
+  },
+  {
+    "sentence": "入浴はリラックス効果がある。",
+    "sentence_furigana": "入浴【にゅうよく】はリラックス効果【こうか】がある。",
+    "meaning": "Bathing has a relaxing effect."
+  },
+  {
+    "sentence": "浴槽が空っぽだった。",
+    "sentence_furigana": "浴槽【よくそう】が空【から】っぽだった。",
+    "meaning": "The bathtub was empty."
+  },
+  {
+    "sentence": "朝日を浴びて健康になる。",
+    "sentence_furigana": "朝日【あさひ】を浴【あ】びて健康【けんこう】になる。",
+    "meaning": "Become healthy by basking in the morning sun."
+  },
+  {
+    "sentence": "冷水を浴びて目を覚ましました。",
+    "sentence_furigana": "冷水【れいすい】を浴【あ】びて目【め】を覚【さ】ましました。",
+    "meaning": "I woke up by splashing cold water on myself."
+  },
+  {
+    "sentence": "彼は質問攻めにあった。",
+    "sentence_furigana": "彼【かれ】は質問攻【しつもんぜ】めにあった。",
+    "meaning": "He was bombarded with questions."
+  },
+  {
+    "sentence": "シャワーを浴びてさっぱりした気分だ。",
+    "sentence_furigana": "シャワーを浴【あ】びてさっぱりした気分【きぶん】だ。",
+    "meaning": "I feel refreshed after taking a shower."
+  },
+  {
+    "sentence": "湯船にゆっくり浸かるのが好きだ。",
+    "sentence_furigana": "湯船【ゆぶね】にゆっくり浸【つ】かるのが好【す】きだ。",
+    "meaning": "I like to soak slowly in the bathtub."
+  },
+  {
+    "sentence": "彼の業績は多くの称賛を集めた。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は多【おお】くの称賛【しょうさん】を集【あつ】めた。",
+    "meaning": "His achievements gathered much admiration."
+  },
+  {
+    "sentence": "日差しを浴びて心地よい眠りに落ちた。",
+    "sentence_furigana": "日差【ひざ】しを浴【あ】びて心地【ここち】よい眠【ねむ】りに落【お】ちた。",
+    "meaning": "I fell into a comfortable sleep, basking in the sun."
+  },
+  {
+    "sentence": "長湯は体に負担がかかる。",
+    "sentence_furigana": "長湯【ながゆ】は体【からだ】に負担【ふたん】がかかる。",
+    "meaning": "Staying in the bath too long puts a strain on the body."
+  },
+  {
+    "sentence": "水を浴びて気分をリフレッシュする。",
+    "sentence_furigana": "水【みず】を浴【あ】びて気分【きぶん】をリフレッシュする。",
+    "meaning": "Refresh your mood by taking a shower/bath."
+  },
+  {
+    "sentence": "彼は非難の的となった。",
+    "sentence_furigana": "彼【かれ】は非難【ひなん】の的【まと】となった。",
+    "meaning": "He became the target of criticism."
+  },
+  {
+    "sentence": "雨粒を浴びるように降ってきた。",
+    "sentence_furigana": "雨粒【あまつぶ】を浴【あ】びるように降【ふ】ってきた。",
+    "meaning": "It started raining as if showering us."
+  }
+]

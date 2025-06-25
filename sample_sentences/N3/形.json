@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "この箱の形は面白いですね。",
+    "sentence_furigana": "この箱【はこ】の形【かたち】は面白【おもしろ】いですね。",
+    "meaning": "The shape of this box is interesting."
+  },
+  {
+    "sentence": "彼は自分の意見をはっきりした形で表明した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】をはっきりした形【かたち】で表明【ひょうめい】した。",
+    "meaning": "He expressed his opinion clearly in a concrete form."
+  },
+  {
+    "sentence": "建築物の形が街の景観を左右する。",
+    "sentence_furigana": "建築物【けんちくぶつ】の形【かたち】が街【まち】の景観【けいかん】を左右【さゆう】する。",
+    "meaning": "The form of the buildings influences the town's scenery."
+  },
+  {
+    "sentence": "子供の成長は様々な形をとる。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】は様々【さまざま】な形【かたち】をとる。",
+    "meaning": "Children's growth takes various forms."
+  },
+  {
+    "sentence": "彼女の歌声は心地よい響きを持っていた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は心地【ここち】よい響【ひび】きを持【も】っていた。",
+    "meaning": "Her singing voice had a pleasant resonance."
+  },
+  {
+    "sentence": "この絵は抽象的な形をしている。",
+    "sentence_furigana": "この絵【え】は抽象的【ちゅうしょうてき】な形【かたち】をしている。",
+    "meaning": "This painting has an abstract form."
+  },
+  {
+    "sentence": "彼の研究は新しい分野を開拓した。",
+    "sentence_furigana": "彼【かれ】の㓈究【けんきゅう】は新【あたら】しい分野【ぶんや】を開拓【かいたく】した。",
+    "meaning": "His research pioneered a new field."
+  },
+  {
+    "sentence": "法律の形骸化が問題視されている。",
+    "sentence_furigana": "法律【ほうりつ】の形骸化【けいがいか】が問題視【もんだいし】されている。",
+    "meaning": "The hollowing out of laws is being seen as a problem."
+  },
+  {
+    "sentence": "新しいデザインの形を模索している。",
+    "sentence_furigana": "新【あたら】しいデザインの形【かたち】を模索【もさく】している。",
+    "meaning": "We are exploring new design forms."
+  },
+  {
+    "sentence": "その事件の真相が徐々に明らかになってきた。",
+    "sentence_furigana": "その事件【じけん】の真相【しんそう】が徐々【じょじょ】に明【あき】らかになってきた。",
+    "meaning": "The truth of the incident has gradually become clear."
+  },
+  {
+    "sentence": "この料理は見た目の形も美しい。",
+    "sentence_furigana": "この料理【りょうり】は見た目【みため】の形【かたち】も美【うつく】しい。",
+    "meaning": "This dish is also beautiful in its appearance."
+  },
+  {
+    "sentence": "彼は自分の考えを形にすることを望んでいる。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えを形【かたち】にすることを望【のぞ】んでいる。",
+    "meaning": "He wishes to give form to his ideas."
+  },
+  {
+    "sentence": "企業の社会的責任の形が変わってきた。",
+    "sentence_furigana": "企業【きぎょう】の社会的責任【しゃかいてきせきにん】の形【かたち】が変わ【か】ってきた。",
+    "meaning": "The form of corporate social responsibility has changed."
+  },
+  {
+    "sentence": "この石は自然の力で美しい形になった。",
+    "sentence_furigana": "この石【いし】は自然【しぜん】の力【ちから】で美【うつく】しい形【かたち】になった。",
+    "meaning": "This stone took on a beautiful shape due to the power of nature."
+  },
+  {
+    "sentence": "彼の言葉は人を勇気づける力を持っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は人【ひと】を勇気付【ゆうきづ】ける力【ちから】を持【も】っていた。",
+    "meaning": "His words had the power to encourage people."
+  },
+  {
+    "sentence": "この地域の伝統的な家屋の形は特徴的だ。",
+    "sentence_furigana": "この地域【ちいき】の伝統的【でんとうてき】な家屋【かおく】の形【かたち】は特徴的【とくちょうてき】だ。",
+    "meaning": "The form of traditional houses in this region is distinctive."
+  },
+  {
+    "sentence": "彼女は感情を言葉で表現するのが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】は感情【かんじょう】を言葉【ことば】で表現【ひょうげん】するのが得意【とくい】だ。",
+    "meaning": "She is good at expressing her emotions in words."
+  },
+  {
+    "sentence": "この工場では製品の形を一つ一つ丁寧に作っている。",
+    "sentence_furigana": "この工場【こうじょう】では製品【せいひん】の形【かたち】を一つ一つ丁寧【ていねい】に作【つく】っている。",
+    "meaning": "In this factory, the shape of each product is carefully made."
+  },
+  {
+    "sentence": "その作家は独自の文体を確立した。",
+    "sentence_furigana": "その作家【さっか】は独自【どくじ】の文体【ぶんたい】を確立【かくりつ】した。",
+    "meaning": "That writer established his own writing style."
+  },
+  {
+    "sentence": "経済の形は時代と共に変化する。",
+    "sentence_furigana": "経済【けいざい】の形【かたち】は時代【じだい】と共【とも】に変化【へんか】する。",
+    "meaning": "The form of the economy changes with the times."
+  },
+  {
+    "sentence": "子供の絵には、子供らしい自由な形がある。",
+    "sentence_furigana": "子供【こども】の絵【え】には、子供【こども】らしい自由【じゆう】な形【かたち】がある。",
+    "meaning": "Children's drawings have a free, childlike form."
+  },
+  {
+    "sentence": "彼の态度は私の予想とは異なる形をとった。",
+    "sentence_furigana": "彼【かれ】の態様【たいよう】は私【わたし】の予想【よそう】とは異【こと】なる形【かたち】をとった。",
+    "meaning": "His attitude took a different form than I expected."
+  },
+  {
+    "sentence": "この金属は熱を加えると自在に形を変える。",
+    "sentence_furigana": "この金属【きんぞく】は熱【ねつ】を加【くわ】えると自在【じざい】に形【かたち】を変【か】える。",
+    "meaning": "This metal freely changes its shape when heated."
+  },
+  {
+    "sentence": "彼女は新しいビジネスモデルの形を提案した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいビジネスモデルの形【かたち】を提案【ていあん】した。",
+    "meaning": "She proposed a new business model format."
+  },
+  {
+    "sentence": "この彫刻は、人間の感情を形にしている。",
+    "sentence_furigana": "この彫刻【ちょうこく】は、人間【にんげん】の感情【かんじょう】を形【かたち】にしている。",
+    "meaning": "This sculpture gives form to human emotions."
+  },
+  {
+    "sentence": "伝統的な武道の形を習得することは難しい。",
+    "sentence_furigana": "伝統的【でんとうてき】な武道【ぶどう】の形【かた】を習得【しゅうとく】することは難【むずか】しい。",
+    "meaning": "Mastering the forms of traditional martial arts is difficult."
+  },
+  {
+    "sentence": "新しい法律の形を検討する必要がある。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】の形【かたち】を検討【けんとう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to consider the new form of law."
+  },
+  {
+    "sentence": "彼の作品は、独特な芸術の形を追求している。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は、独特【どくとく】な芸術【げいじゅつ】の形【かたち】を追求【ついきゅう】している。",
+    "meaning": "His works pursue a unique form of art."
+  },
+  {
+    "sentence": "この生地は、様々な形に成形できる。",
+    "sentence_furigana": "この生地【きじ】は、様々【さまざま】な形【かたち】に成形【せいけい】できる。",
+    "meaning": "This dough can be molded into various shapes."
+  },
+  {
+    "sentence": "彼の演説は、聴衆の心を揺さぶる力を持っていた。",
+    "sentence_furigana": "彼【かれ】の演説【えんぜつ】は、聴衆【ちょうしゅう】の心【こころ】を揺【ゆ】さぶる力【ちから】を持【も】っていた。",
+    "meaning": "His speech had the power to move the audience."
+  },
+  {
+    "sentence": "デザインは、機能美という形を追求する。",
+    "sentence_furigana": "デザインは、機能美【きのうび】という形【かたち】を追求【ついきゅう】する。",
+    "meaning": "Design pursues the form called functional beauty."
+  },
+  {
+    "sentence": "彼女のアイデアは具体的な形になりつつある。",
+    "sentence_furigana": "彼女【かのじょ】のアイデアは具体的【ぐたいてき】な形【かたち】になりつつある。",
+    "meaning": "Her ideas are gradually taking concrete form."
+  },
+  {
+    "sentence": "この機械は複雑な形を作り出すことができる。",
+    "sentence_furigana": "この機械【きかい】は複雑【ふくざつ】な形【かたち】を作り出【つくりだ】すことができる。",
+    "meaning": "This machine can create complex shapes."
+  },
+  {
+    "sentence": "彼の書く文字の形は力強い。",
+    "sentence_furigana": "彼【かれ】の書【か】く文字【もじ】の形【かたち】は力強【ちからづよ】い。",
+    "meaning": "The shape of his handwriting is powerful."
+  },
+  {
+    "sentence": "この地域の文化は独自の発展の形を示している。",
+    "sentence_furigana": "この地域【ちいき】の文化【ぶんか】は独自【どくじ】の発展【はってん】の形【かたち】を示【しめ】している。",
+    "meaning": "The culture of this region shows a unique form of development."
+  },
+  {
+    "sentence": "彼女は新しいファッションの形を提案する。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいファッションの形【かたち】を提案【ていあん】する。",
+    "meaning": "She proposes a new form of fashion."
+  },
+  {
+    "sentence": "この建物は、伝統と現代の形が融合している。",
+    "sentence_furigana": "この建物【たてもの】は、伝統【でんとう】と現代【げんだい】の形【かたち】が融合【ゆうごう】している。",
+    "meaning": "This building fuses tradition and modern forms."
+  },
+  {
+    "sentence": "彼の言葉は、単なる飾り以上の意味を持っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、単【たん】なる飾【かざ】り以上【いじょう】の意味【いみ】を持【も】っていた。",
+    "meaning": "His words held more than mere ornamentation."
+  },
+  {
+    "sentence": "その彫刻家は、物質の形に魂を吹き込む。",
+    "sentence_furigana": "その彫刻家【ちょうこくか】は、物質【ぶっしつ】の形【かたち】に魂【たましい】を吹【ふ】き込【こ】む。",
+    "meaning": "The sculptor breathes soul into the form of matter."
+  },
+  {
+    "sentence": "この研究は、理論の新しい形を提示する。",
+    "sentence_furigana": "この㓈究【けんきゅう】は、理論【りろん】の новому形【かたち】を提示【ていじ】する。",
+    "meaning": "This research presents a new form of theory."
+  },
+  {
+    "sentence": "彼女のダンスは、感情を身体の形で表現する。",
+    "sentence_furigana": "彼女【かのじょ】のダンスは、感情【かんじょう】を身体【しんたい】の形【かたち】で表現【ひょうげん】する。",
+    "meaning": "Her dance expresses emotions through the form of her body."
+  },
+  {
+    "sentence": "この物語は、普遍的な人間の葛藤の形を描いている。",
+    "sentence_furigana": "この物語【ものがたり】は、普遍的【ふへんてき】な人間【にんげん】の葛藤【かっとう】の形【かたち】を描【えが】いている。",
+    "meaning": "This story depicts the form of universal human conflict."
+  },
+  {
+    "sentence": "彼の文章は、独特なリズムと形を持っている。",
+    "sentence_furigana": "彼【かれ】の文章【ぶんしょう】は、独特【どくとく】なリズムと形【かたち】を持【も】っている。",
+    "meaning": "His writing has a unique rhythm and form."
+  },
+  {
+    "sentence": "この地域では、伝統的な祭りのかたちが受け継がれている。",
+    "sentence_furigana": "この地域【ちいき】では、伝統的【でんとうてき】な祭【まつ】りのかたちが必要【ひつよう】とされている。",
+    "meaning": "In this region, the traditional forms of festivals are being passed down."
+  },
+  {
+    "sentence": "彼女は詩的な言葉で感情を形にした。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な言葉【ことば】で感情【かんじょう】を形【かたち】にした。",
+    "meaning": "She gave form to her emotions with poetic words."
+  },
+  {
+    "sentence": "この工芸品は、繊細な形と色彩が美しい。",
+    "sentence_furigana": "この工芸品【こうげいひん】は、繊細【せんさい】な形【かたち】と色彩【しきさい】が美【うつく】しい。",
+    "meaning": "This handicraft is beautiful for its delicate form and colors."
+  },
+  {
+    "sentence": "彼の提案は、斬新なアイデアの形をしていた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は、斬新【ざんしん】なアイデアの形【かたち】をしていた。",
+    "meaning": "His proposal took the form of an innovative idea."
+  },
+  {
+    "sentence": "この都市計画は、未来的な街の形を目指している。",
+    "sentence_furigana": "この都市計画【としけいかく】は、未来的【みらいてき】な街【まち】の形【かたち】を目指【めざ】している。",
+    "meaning": "This urban plan aims for a futuristic city form."
+  },
+  {
+    "sentence": "彼女は新しい芸術の形を創造した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい芸術【げいじゅつ】の形【かたち】を創造【そうぞう】した。",
+    "meaning": "She created a new form of art."
+  },
+  {
+    "sentence": "この植物の形は、環境に適応した結果である。",
+    "sentence_furigana": "この植物【しょくぶつ】の形【かたち】は、環境【かんきょう】に適応【てきおう】した結果【けっか】である。",
+    "meaning": "The shape of this plant is a result of adapting to its environment."
+  },
+  {
+    "sentence": "彼の哲学は、人生の意味を問う形をとっている。",
+    "sentence_furigana": "彼【かれ】の哲学【てつがく】は、人生【じんせい】の意味【いみ】を問【と】う形【かたち】をとっている。",
+    "meaning": "His philosophy takes the form of questioning the meaning of life."
+  },
+  {
+    "sentence": "この生地は、様々な形に加工できる。",
+    "sentence_furigana": "この生地【きじ】は、様々【さまざま】な形【かたち】に加工【かこう】できる。",
+    "meaning": "This fabric can be processed into various shapes."
+  },
+  {
+    "sentence": "彼女の言葉は、相手を励ますという形で伝わった。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は、相手【あいて】を励【はげ】ますという形【かたち】で伝【つた】わった。",
+    "meaning": "Her words conveyed encouragement to the other person."
+  },
+  {
+    "sentence": "この木彫りは、自然の木の形を生かしている。",
+    "sentence_furigana": "この木彫【きぼ】りは、自然【しぜん】の木【き】の形【かたち】を生【い】かしている。",
+    "meaning": "This wood carving makes use of the natural shape of the wood."
+  },
+  {
+    "sentence": "彼の行動は、勇気ある者の形をしていた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は、勇気【ゆうき】ある者【もの】の形【かたち】をしていた。",
+    "meaning": "His actions took the form of a courageous person."
+  },
+  {
+    "sentence": "この建築デザインは、革新的な形の探求である。",
+    "sentence_furigana": "この建築デザイン【けんちくデザイン】は、革新的【かくしんてき】な形【かたち】の探求【たんきゅう】である。",
+    "meaning": "This architectural design is an exploration of innovative forms."
+  },
+  {
+    "sentence": "彼女は感情を音楽の形で表現することを選んだ。",
+    "sentence_furigana": "彼女【かのじょ】は感情【かんじょう】を音楽【おんがく】の形【かたち】で表現【ひょうげん】することを選【えら】んだ。",
+    "meaning": "She chose to express her emotions in the form of music."
+  },
+  {
+    "sentence": "この料理は、見た目の美しさも重視している。",
+    "sentence_furigana": "この料理【りょうり】は、見た目【みため】の美しさも重視【じゅうし】している。",
+    "meaning": "This dish also emphasizes its visual appeal."
+  },
+  {
+    "sentence": "彼の計画は、新しいビジネスの形を提示する。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は、新【あたら】しいビジネスの形【かたち】を提示【ていじ】する。",
+    "meaning": "His plan presents a new form of business."
+  },
+  {
+    "sentence": "この書道作品は、線の力強い形が特徴だ。",
+    "sentence_furigana": "この書道作品【しょどうさくひん】は、線【せん】の力強【ちからづよ】い形【かたち】が特徴【とくちょう】だ。",
+    "meaning": "This calligraphy work is characterized by the powerful form of its lines."
+  },
+  {
+    "sentence": "彼女は古い形にとらわれず、新しい表現を求めた。",
+    "sentence_furigana": "彼女【かのじょ】は古【ふる】い形【かたち】にとらわれず、新【あたら】しい表現【ひょうげん】を求【もと】めた。",
+    "meaning": "She sought new expressions without being bound by old forms."
+  },
+  {
+    "sentence": "この地形は、長年の風化によって形作られた。",
+    "sentence_furigana": "この地形【ちけい】は、長年【ながねん】の風化【ふうか】によって形作【かたちづく】られた。",
+    "meaning": "This terrain was shaped by many years of weathering."
+  },
+  {
+    "sentence": "彼の言葉は、希望という形となって人々に伝わった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、希望【きぼう】という形【かたち】となって人々【ひとびと】に伝【つた】わった。",
+    "meaning": "His words reached people in the form of hope."
+  },
+  {
+    "sentence": "この伝統工芸は、受け継がれてきた形を大切にしている。",
+    "sentence_furigana": "この伝統工芸【でんとうこうげい】は、受継【うけつ】がれてきた形【かたち】を大切【たいせつ】にしている。",
+    "meaning": "This traditional craft values the forms that have been passed down."
+  },
+  {
+    "sentence": "彼女は新しいライフスタイルの形を提案している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいライフスタイルの形【かたち】を提案【ていあん】している。",
+    "meaning": "She is proposing a new form of lifestyle."
+  },
+  {
+    "sentence": "この映画は、人間の心の複雑な形を描いている。",
+    "sentence_furigana": "この映画【えいが】は、人間【にんげん】の心【こころ】の複雑【ふくざつ】な形【かたち】を描【えが】いている。",
+    "meaning": "This movie depicts the complex forms of the human heart."
+  },
+  {
+    "sentence": "彼の作品は、現代社会のあり方を問いかける形をとっている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は、現代社会【げんだいしゃかい】のあり方【ありかた】を問【と】いかける形【かたち】をとっている。",
+    "meaning": "His works take the form of questioning the state of modern society."
+  },
+  {
+    "sentence": "この教え方は、生徒の理解を深める形になっている。",
+    "sentence_furigana": "この教【おし】え方【かた】は、生徒【せいで】の理解【りかい】を深【ふか】める形【かたち】になっている。",
+    "meaning": "This teaching method is designed to deepen students' understanding."
+  },
+  {
+    "sentence": "彼女は音楽を通じて、自分の内面を形にして表現する。",
+    "sentence_furigana": "彼女【かのじょ】は音楽【おんがく】を通【つう】じて、自分【じぶん】の内面【ないめん】を形【かたち】にして表現【ひょうげん】する。",
+    "meaning": "She expresses her inner self through music."
+  },
+  {
+    "sentence": "この石膏モデルは、様々な形を作るのに使われる。",
+    "sentence_furigana": "この石膏モデル【せっこうモデル】は、様々【さまざま】な形【かたち】を作【つく】るのに使【つか】われる。",
+    "meaning": "This plaster model is used to create various shapes."
+  },
+  {
+    "sentence": "彼の言葉は、単なる挨拶以上の意味合いを持っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、単【たん】なる挨拶【あいさつ】以上【いじょう】の意味合【いみあ】いを持【も】っていた。",
+    "meaning": "His words carried more than just a greeting."
+  },
+  {
+    "sentence": "このデザインは、機能性と美しさの形を両立させている。",
+    "sentence_furigana": "このデザインは、機能性【きのうせい】と美しさの形【かたち】を両立【りょうりつ】させている。",
+    "meaning": "This design balances functionality and beauty."
+  },
+  {
+    "sentence": "彼女は文学を通して、人間の心の形を探求している。",
+    "sentence_furigana": "彼女【かのじょ】は文学【ぶんがく】を通【つう】じて、人間【にんげん】の心【こころ】の形【かたち】を探求【たんきゅう】している。",
+    "meaning": "She explores the forms of the human heart through literature."
+  },
+  {
+    "sentence": "この建物は、伝統的な建築様式を現代的に表現している。",
+    "sentence_furigana": "この建物【たてもの】は、伝統的【でんとうてき】な建築様式【けんちくようしき】を現代的【げんだいてき】に表現【ひょうげん】している。",
+    "meaning": "This building expresses traditional architectural styles in a modern way."
+  },
+  {
+    "sentence": "彼の絵画は、見る者に独特な感動を与える形を持っている。",
+    "sentence_furigana": "彼【かれ】の絵画【かいが】は、見【み】る者【もの】に独特【どくとく】な感動【かんどう】を与【あた】える形【かたち】を持【も】っている。",
+    "meaning": "His paintings have a form that gives viewers a unique impression."
+  },
+  {
+    "sentence": "この陶芸作品は、土の温かみを形にしている。",
+    "sentence_furigana": "この陶芸作品【とうげいさくひん】は、土【つち】の温【あたた】かみを形【かたち】にしている。",
+    "meaning": "This pottery gives form to the warmth of the earth."
+  },
+  {
+    "sentence": "彼女は新しいビジネスの形を模索し続けている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいビジネスの形【かたち】を模索【もさく】し続【つづ】けている。",
+    "meaning": "She continues to explore new forms of business."
+  },
+  {
+    "sentence": "この公園のデザインは、自然の形を意識している。",
+    "sentence_furigana": "この公園【こうえん】のデザインは、自然【しぜん】の形【かたち】を意識【いしき】している。",
+    "meaning": "The design of this park is conscious of natural forms."
+  },
+  {
+    "sentence": "彼の文章には、知的な響きという形があった。",
+    "sentence_furigana": "彼【かれ】の文章【ぶんしょう】には、知的【ちてき】な響【ひび】きという形【かたち】があった。",
+    "meaning": "His writing had a form of intellectual resonance."
+  },
+  {
+    "sentence": "この法律は、社会の変化に対応した形となっている。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会【しゃかい】の変化【へんか】に対応【たいおう】した形【かたち】となっている。",
+    "meaning": "This law has taken a form that corresponds to social changes."
+  },
+  {
+    "sentence": "彼女は詩的な感性で日常の風景を形にする。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な感性【かんせい】で日常【にちじょう】の風景【ふうけい】を形【かたち】にする。",
+    "meaning": "She captures everyday scenes with poetic sensibility."
+  },
+  {
+    "sentence": "この模型は、実物の形を忠実に再現している。",
+    "sentence_furigana": "この模型【もけい】は、実物【じつぶつ】の形【かたち】を忠実【ちゅうじつ】に再現【さいげん】している。",
+    "meaning": "This model faithfully reproduces the form of the real thing."
+  },
+  {
+    "sentence": "彼の言葉は、人々を惹きつける特別な形を持っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、人々【ひとびと】を惹【ひ】きつける特別【とくべつ】な形【かたち】を持【も】っていた。",
+    "meaning": "His words had a special form that attracted people."
+  },
+  {
+    "sentence": "この織物は、伝統的な柄の形が美しい。",
+    "sentence_furigana": "この織物【おりもの】は、伝統的【でんとうてき】な柄【がら】の形【かたち】が美【うつく】しい。",
+    "meaning": "This textile is beautiful for its traditional patterns."
+  },
+  {
+    "sentence": "彼女は教育の新しい形を追求する。",
+    "sentence_furigana": "彼女【かのじょ】は教育【きょういく】の новому形【かたち】を追求【ついきゅう】する。",
+    "meaning": "She pursues new forms of education."
+  },
+  {
+    "sentence": "この彫刻は、人間の内面的な葛藤の形を表している。",
+    "sentence_furigana": "この彫刻【ちょうこく】は、人間【にんげん】の内面的【ないめんてき】な葛藤【かっとう】の形【かたち】を表【あらわ】している。",
+    "meaning": "This sculpture represents the form of human internal conflict."
+  },
+  {
+    "sentence": "彼の声は、聞く者に安心感を与える形をしていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は、聞【き】く者【もの】に安心感【あんしんかん】を与【あた】える形【かたち】をしていた。",
+    "meaning": "His voice had a form that gave listeners a sense of security."
+  },
+  {
+    "sentence": "この都市の景観は、独自の発展の形を示している。",
+    "sentence_furigana": "この都市【とし】の景観【けいかん】は、独自【どくじ】の発展【はってん】の形【かたち】を示【しめ】している。",
+    "meaning": "The landscape of this city shows a unique form of development."
+  },
+  {
+    "sentence": "彼女は絵を描くことで、自分の感情を形にする。",
+    "sentence_furigana": "彼女【かのじょ】は絵を描【えをか】くことで、自分【じぶん】の感情【かんじょう】を形【かたち】にする。",
+    "meaning": "She gives form to her emotions by painting."
+  },
+  {
+    "sentence": "この機械は、非常に複雑な形を作り出すことができる。",
+    "sentence_furigana": "この機械【きかい】は、非常【ひじょう】に複雑【ふくざつ】な形【かたち】を作り出【つくりだ】すことができる。",
+    "meaning": "This machine can create extremely complex shapes."
+  },
+  {
+    "sentence": "彼の文章は、洗練された知性の形をしていた。",
+    "sentence_furigana": "彼【かれ】の文章【ぶんしょう】は、洗練【せんれん】された知性【ちせい】の形【かたち】をしていた。",
+    "meaning": "His writing had the form of refined intelligence."
+  },
+  {
+    "sentence": "この地域では、古来より伝わる建築の形が守られている。",
+    "sentence_furigana": "この地域【ちいき】では、古来【こらい】より伝【つた】わる建築【けんちく】の形【かたち】が守【まも】られている。",
+    "meaning": "In this region, the ancient architectural forms are preserved."
+  },
+  {
+    "sentence": "彼女は自然の造形美に魅了された。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の造形美【ぞうけいび】に魅了【みりょう】された。",
+    "meaning": "She was fascinated by the beauty of natural forms."
+  },
+  {
+    "sentence": "彼の作品は、現代社会の矛盾を形にしている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は、現代社会【げんだいしゃかい】の矛盾【むじゅん】を形【かたち】にしている。",
+    "meaning": "His works give form to the contradictions of modern society."
+  },
+  {
+    "sentence": "このコンピューターは、高度な計算能力を持っている。",
+    "sentence_furigana": "このコンピューターは、高度【こうど】な計算能力【けいさんのうりょく】を持【も】っている。",
+    "meaning": "This computer possesses advanced calculation capabilities."
+  },
+  {
+    "sentence": "彼女は新しい音楽の形を創造しようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい音楽【おんがく】の形【かたち】を創造【そうぞう】しようとしている。",
+    "meaning": "She is trying to create new forms of music."
+  },
+  {
+    "sentence": "この庭園は、自然の美しさを形にしたものである。",
+    "sentence_furigana": "この庭園【ていえん】は、自然【しぜん】の美しさ形【かたち】にしたものである。",
+    "meaning": "This garden is a manifestation of natural beauty."
+  },
+  {
+    "sentence": "彼の态度は、相手への敬意という形をとっていた。",
+    "sentence_furigana": "彼【かれ】の態様【たいよう】は、相手【あいて】への敬意【けいい】という形【かたち】をとっていた。",
+    "meaning": "His attitude took the form of respect for the other person."
+  },
+  {
+    "sentence": "この彫刻は、抽象的な概念の形を表現している。",
+    "sentence_furigana": "この彫刻【ちょうこく】は、抽象的【ちゅうしょうてき】な概念【がいねん】の形【かたち】を表現【ひょうげん】している。",
+    "meaning": "This sculpture expresses the form of abstract concepts."
+  },
+  {
+    "sentence": "彼女は詩的な感性で風景を形に映し出す。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な感性【かんせい】で風景【ふうけい】を形【かたち】に映【うつ】し出【だ】す。",
+    "meaning": "She captures landscapes in a poetic form."
+  },
+  {
+    "sentence": "彼の言葉は、聴く者にとって力強い励ましとなった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、聞【き】く者【もの】にとって力強【ちからづよ】い励【はげ】ましとなった。",
+    "meaning": "His words became strong encouragement for the listeners."
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "私の犬はとても賢いです。",
+    "sentence_furigana": "私【わたし】の犬【いぬ】はとても賢【かしこ】いです。",
+    "meaning": "My dog is very smart."
+  },
+  {
+    "sentence": "公園で犬を散歩させています。",
+    "sentence_furigana": "公園【こうえん】で犬【いぬ】を散歩【さんぽ】させています。",
+    "meaning": "I am walking my dog in the park."
+  },
+  {
+    "sentence": "この犬種は忠実で有名です。",
+    "sentence_furigana": "この犬種【けんしゅ】は忠実【ちゅうじつ】で有名【ゆうめい】です。",
+    "meaning": "This dog breed is famous for its loyalty."
+  },
+  {
+    "sentence": "彼は子犬を飼っています。",
+    "sentence_furigana": "彼【かれ】は子犬【こいぬ】を飼【か】っています。",
+    "meaning": "He has a puppy."
+  },
+  {
+    "sentence": "犬の鳴き声がうるさい。",
+    "sentence_furigana": "犬【いぬ】の鳴【な】き声【ごえ】がうるさい。",
+    "meaning": "The dog's barking is loud."
+  },
+  {
+    "sentence": "警察犬が犯人を追跡しました。",
+    "sentence_furigana": "警察犬【けいさつけん】が犯人【はんにん】を追跡【ついせき】しました。",
+    "meaning": "The police dog tracked the criminal."
+  },
+  {
+    "sentence": "その犬は首輪をしています。",
+    "sentence_furigana": "その犬【いぬ】は首輪【くびわ】をしています。",
+    "meaning": "That dog is wearing a collar."
+  },
+  {
+    "sentence": "犬を連れて旅行しました。",
+    "sentence_furigana": "犬【いぬ】を連【つ】れて旅行【りょこう】しました。",
+    "meaning": "I traveled with my dog."
+  },
+  {
+    "sentence": "盲導犬は盲目の人を助けます。",
+    "sentence_furigana": "盲導犬【もうどうけん】は盲目【もうもく】の人【ひと】を助【たす】けます。",
+    "meaning": "Guide dogs help blind people."
+  },
+  {
+    "sentence": "犬は人間の親友と言われています。",
+    "sentence_furigana": "犬【いぬ】は人間【にんげん】の親友【しんゆう】と言【い】われています。",
+    "meaning": "Dogs are said to be man's best friend."
+  },
+  {
+    "sentence": "子犬がじゃれ合っています。",
+    "sentence_furigana": "子犬【こいぬ】がじゃれ合【あ】っています。",
+    "meaning": "The puppies are playing with each other."
+  },
+  {
+    "sentence": "犬小屋を掃除しました。",
+    "sentence_furigana": "犬小屋【いぬごや】を掃除【そうじ】しました。",
+    "meaning": "I cleaned the doghouse."
+  },
+  {
+    "sentence": "保護犬を引き取りました。",
+    "sentence_furigana": "保護犬【ほごけん】を引【ひ】き取【と】りました。",
+    "meaning": "I adopted a rescue dog."
+  },
+  {
+    "sentence": "この犬はおとなしい性格です。",
+    "sentence_furigana": "この犬【いぬ】はおとなしい性格【せいかく】です。",
+    "meaning": "This dog has a calm personality."
+  },
+  {
+    "sentence": "犬の健康診断に行きました。",
+    "sentence_furigana": "犬【いぬ】の健康診断【けんこうしんだん】に行【い】きました。",
+    "meaning": "I went for the dog's health check-up."
+  },
+  {
+    "sentence": "犬がリードを引っ張ります。",
+    "sentence_furigana": "犬【いぬ】がリードを引【ひ】っ張ります。",
+    "meaning": "The dog is pulling the leash."
+  },
+  {
+    "sentence": "犬の訓練学校に通っています。",
+    "sentence_furigana": "犬【いぬ】の訓練学校【くんれんがっこう】に通【かよ】っています。",
+    "meaning": "I am attending dog training school."
+  },
+  {
+    "sentence": "彼女は犬アレルギーを持っています。",
+    "sentence_furigana": "彼女【かのじょ】は犬【いぬ】アレルギーを持【も】っています。",
+    "meaning": "She has a dog allergy."
+  },
+  {
+    "sentence": "犬の毛が服についている。",
+    "sentence_furigana": "犬【いぬ】の毛【け】が服【ふく】についている。",
+    "meaning": "Dog hair is on my clothes."
+  },
+  {
+    "sentence": "犬の足跡が雪の上にあります。",
+    "sentence_furigana": "犬【いぬ】の足跡【あしあと】が雪【ゆき】の上【うえ】にあります。",
+    "meaning": "There are dog footprints in the snow."
+  },
+  {
+    "sentence": "この犬はおもちゃで遊ぶのが好きです。",
+    "sentence_furigana": "この犬【いぬ】はおもちゃで遊【あそ】ぶのが好【す】きです。",
+    "meaning": "This dog likes to play with toys."
+  },
+  {
+    "sentence": "犬が吠えています。",
+    "sentence_furigana": "犬【いぬ】が吠【ほ】えています。",
+    "meaning": "The dog is barking."
+  },
+  {
+    "sentence": "犬のしつけは重要です。",
+    "sentence_furigana": "犬【いぬ】のしつけは重要【じゅうよう】です。",
+    "meaning": "Dog training is important."
+  },
+  {
+    "sentence": "犬の誕生日パーティーを開きました。",
+    "sentence_furigana": "犬【いぬ】の誕生日【たんじょうび】パーティーを開【ひら】きました。",
+    "meaning": "I held a birthday party for my dog."
+  },
+  {
+    "sentence": "犬が私の顔を舐めました。",
+    "sentence_furigana": "犬【いぬ】が私【わたし】の顔【かお】を舐【な】めました。",
+    "meaning": "The dog licked my face."
+  },
+  {
+    "sentence": "犬は水をたくさん飲みました。",
+    "sentence_furigana": "犬【いぬ】は水【みず】をたくさん飲【の】みました。",
+    "meaning": "The dog drank a lot of water."
+  },
+  {
+    "sentence": "彼女は新しい犬を迎える準備をしています。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい犬【いぬ】を迎【むか】える準備【じゅんび】をしています。",
+    "meaning": "She is preparing to welcome a new dog."
+  },
+  {
+    "sentence": "犬が地震を察知した。",
+    "sentence_furigana": "犬【いぬ】が地震【じしん】を察知【さっち】した。",
+    "meaning": "The dog sensed the earthquake."
+  },
+  {
+    "sentence": "この犬は非常に攻撃的です。",
+    "sentence_furigana": "この犬【いぬ】は非常【ひじょう】に攻撃的【こうげきてき】です。",
+    "meaning": "This dog is very aggressive."
+  },
+  {
+    "sentence": "犬の散歩は毎日の日課です。",
+    "sentence_furigana": "犬【いぬ】の散歩【さんぽ】は毎日【まいにち】の日課【にっか】です。",
+    "meaning": "Walking the dog is a daily routine."
+  },
+  {
+    "sentence": "犬のぬいぐるみを買いました。",
+    "sentence_furigana": "犬【いぬ】のぬいぐるみを買【か】いました。",
+    "meaning": "I bought a stuffed dog."
+  },
+  {
+    "sentence": "犬が宝くじに当たった夢を見た。",
+    "sentence_furigana": "犬【いぬ】が宝くじに当【あ】たった夢【ゆめ】を見【み】た。",
+    "meaning": "I dreamed that my dog won the lottery."
+  },
+  {
+    "sentence": "この犬はとても人懐っこい。",
+    "sentence_furigana": "この犬【いぬ】はとても人懐【ひとなつ】っこい。",
+    "meaning": "This dog is very friendly."
+  },
+  {
+    "sentence": "犬の口臭が気になります。",
+    "sentence_furigana": "犬【いぬ】の口臭【こうしゅう】が気【き】になります。",
+    "meaning": "I am concerned about my dog's bad breath."
+  },
+  {
+    "sentence": "犬が庭を駆け回っています。",
+    "sentence_furigana": "犬【いぬ】が庭【にわ】を駆【か】け回【まわ】っています。",
+    "meaning": "The dog is running around the yard."
+  },
+  {
+    "sentence": "犬の登録手続きを行いました。",
+    "sentence_furigana": "犬【いぬ】の登録手続【とうろくてつづ】きを行【おこな】いました。",
+    "meaning": "I completed the dog registration procedures."
+  },
+  {
+    "sentence": "この犬は危険な病気にかかっている。",
+    "sentence_furigana": "この犬【いぬ】は危険【きけん】な病気【びょうき】にかかっている。",
+    "meaning": "This dog has a dangerous illness."
+  },
+  {
+    "sentence": "犬がおやつを欲しそうに見ている。",
+    "sentence_furigana": "犬【いぬ】がおやつを欲【ほ】しそうに見【み】ている。",
+    "meaning": "The dog is looking at me wanting a treat."
+  },
+  {
+    "sentence": "犬を拾いました。",
+    "sentence_furigana": "犬【いぬ】を拾【ひろ】いました。",
+    "meaning": "I found a dog."
+  },
+  {
+    "sentence": "犬が苦手です。",
+    "sentence_furigana": "犬【いぬ】が苦手【にがて】です。",
+    "meaning": "I am not good with dogs."
+  },
+  {
+    "sentence": "犬のおもちゃを買いに行きます。",
+    "sentence_furigana": "犬【いぬ】のおもちゃを買【か】いに行【い】きます。",
+    "meaning": "I am going to buy dog toys."
+  },
+  {
+    "sentence": "子犬はとても甘えん坊です。",
+    "sentence_furigana": "子犬【こいぬ】はとても甘【あま】えん坊【ぼう】です。",
+    "meaning": "The puppy is very clingy."
+  },
+  {
+    "sentence": "犬連れでの食事はできません。",
+    "sentence_furigana": "犬連【いぬづ】れでの食事【しょくじ】はできません。",
+    "meaning": "We cannot dine with dogs."
+  },
+  {
+    "sentence": "犬の健康のために定期的な運動が必要です。",
+    "sentence_furigana": "犬【いぬ】の健康【けんこう】のためのに定期的【ていきてき】な運動【うんどう】が必要です【ひつよう】。",
+    "meaning": "Regular exercise is necessary for the dog's health."
+  },
+  {
+    "sentence": "犬が家の前で待っています。",
+    "sentence_furigana": "犬【いぬ】が家【いえ】の前【まえ】で待【ま】っています。",
+    "meaning": "The dog is waiting in front of the house."
+  },
+  {
+    "sentence": "彼は犬を抱きかかえていました。",
+    "sentence_furigana": "彼【かれ】は犬【いぬ】を抱【だ】きかかえていました。",
+    "meaning": "He was holding the dog."
+  },
+  {
+    "sentence": "犬の芸を披露しました。",
+    "sentence_furigana": "犬【いぬ】の芸【げい】を披露【ひろう】しました。",
+    "meaning": "He demonstrated the dog's tricks."
+  },
+  {
+    "sentence": "犬が地面を掘っています。",
+    "sentence_furigana": "犬【いぬ】が地面【じめん】を掘【ほ】っています。",
+    "meaning": "The dog is digging in the ground."
+  },
+  {
+    "sentence": "犬の写真を撮りました。",
+    "sentence_furigana": "犬【いぬ】の写真【しゃしん】を撮【と】りました。",
+    "meaning": "I took a picture of the dog."
+  },
+  {
+    "sentence": "犬が川で泳いでいます。",
+    "sentence_furigana": "犬【いぬ】が川【かわ】で泳【およ】いでいます。",
+    "meaning": "The dog is swimming in the river."
+  },
+  {
+    "sentence": "犬のおやつをあげました。",
+    "sentence_furigana": "犬【いぬ】のおやつをあげました。",
+    "meaning": "I gave the dog a treat."
+  },
+  {
+    "sentence": "犬の尻尾が振れています。",
+    "sentence_furigana": "犬【いぬ】の尻尾【しっぽ】が振【ふ】れています。",
+    "meaning": "The dog's tail is wagging."
+  },
+  {
+    "sentence": "犬が怪我をした。",
+    "sentence_furigana": "犬【いぬ】が怪我【けが】をした。",
+    "meaning": "The dog got injured."
+  },
+  {
+    "sentence": "犬の首輪に迷子札がついていた。",
+    "sentence_furigana": "犬【いぬ】の首輪【くびわ】に迷子札【まいごふだ】がついていた。",
+    "meaning": "The dog's collar had an ID tag."
+  },
+  {
+    "sentence": "犬は飼い主を待っている。",
+    "sentence_furigana": "犬【いぬ】は飼【か】い主【ぬし】を待【ま】っている。",
+    "meaning": "The dog is waiting for its owner."
+  },
+  {
+    "sentence": "犬が疲れたように見えます。",
+    "sentence_furigana": "犬【いぬ】が疲【つか】れたように見【み】えます。",
+    "meaning": "The dog looks tired."
+  },
+  {
+    "sentence": "犬の鳴き真似をする。",
+    "sentence_furigana": "犬【いぬ】の鳴【な】き真似【まね】をする。",
+    "meaning": "To imitate a dog's bark."
+  },
+  {
+    "sentence": "犬が人間の言葉を理解するはずがない。",
+    "sentence_furigana": "犬【いぬ】が人間【にんげん】の言葉【ことば】を理解【りかい】するはずがない。",
+    "meaning": "There's no way a dog understands human language."
+  },
+  {
+    "sentence": "この犬はアレルギーを起こしやすい。",
+    "sentence_furigana": "この犬【いぬ】はアレルギーを起【お】こしやすい。",
+    "meaning": "This dog is prone to allergies."
+  },
+  {
+    "sentence": "犬に餌をあげました。",
+    "sentence_furigana": "犬【いぬ】に餌【えさ】をあげました。",
+    "meaning": "I fed the dog."
+  },
+  {
+    "sentence": "犬の毛玉がひどい。",
+    "sentence_furigana": "犬【いぬ】の毛玉【けだま】がひどい。",
+    "meaning": "The dog's matted fur is terrible."
+  },
+  {
+    "sentence": "犬が家に入ってきました。",
+    "sentence_furigana": "犬【いぬ】が家【いえ】に入【はい】ってきました。",
+    "meaning": "A dog came into the house."
+  },
+  {
+    "sentence": "犬の保護施設でボランティアをしています。",
+    "sentence_furigana": "犬【いぬ】の保護施設【ほごしせつ】でボランティアをしています。",
+    "meaning": "I volunteer at a dog shelter."
+  },
+  {
+    "sentence": "犬の訓練は根気がいる。",
+    "sentence_furigana": "犬【いぬ】の訓練【くんれん】は根気【こんき】がいる。",
+    "meaning": "Dog training requires patience."
+  },
+  {
+    "sentence": "犬が穴を掘った。",
+    "sentence_furigana": "犬【いぬ】が穴【あな】を掘【ほ】った。",
+    "meaning": "The dog dug a hole."
+  },
+  {
+    "sentence": "この犬はとても賢い。",
+    "sentence_furigana": "この犬【いぬ】はとても賢【かしこ】い。",
+    "meaning": "This dog is very intelligent."
+  },
+  {
+    "sentence": "犬の様子がおかしい。",
+    "sentence_furigana": "犬【いぬ】の様子【ようす】がおかしい。",
+    "meaning": "There's something wrong with the dog."
+  },
+  {
+    "sentence": "犬のおもちゃを片付けます。",
+    "sentence_furigana": "犬【いぬ】のおもちゃを片付【かたづ】けます。",
+    "meaning": "I will tidy up the dog's toys."
+  },
+  {
+    "sentence": "犬が私の後をついてきます。",
+    "sentence_furigana": "犬【いぬ】が私【わたし】の後【あと】をついてきます。",
+    "meaning": "The dog is following me."
+  },
+  {
+    "sentence": "犬の毛が抜けている。",
+    "sentence_furigana": "犬【いぬ】の毛【け】が抜【ぬ】けている。",
+    "meaning": "The dog is shedding."
+  },
+  {
+    "sentence": "犬が嬉しそうに尻尾を振った。",
+    "sentence_furigana": "犬【いぬ】が嬉【うれ】しそうに尻尾【しっぽ】を振【ふ】った。",
+    "meaning": "The dog wagged its tail happily."
+  },
+  {
+    "sentence": "犬の首を撫でた。",
+    "sentence_furigana": "犬【いぬ】の首【くび】を撫【な】でた。",
+    "meaning": "I petted the dog's neck."
+  },
+  {
+    "sentence": "犬の調子が悪いです。",
+    "sentence_furigana": "犬【いぬ】の調子【ちょうし】が悪【わる】いです。",
+    "meaning": "The dog is not feeling well."
+  },
+  {
+    "sentence": "犬が疲れて眠っています。",
+    "sentence_furigana": "犬【いぬ】が疲【つか】れて眠【ねむ】っています。",
+    "meaning": "The dog is sleeping from exhaustion."
+  },
+  {
+    "sentence": "犬の散歩に行く時間です。",
+    "sentence_furigana": "犬【いぬ】の散歩【さんぽ】に行【い】く時間【じかん】です。",
+    "meaning": "It's time to walk the dog."
+  },
+  {
+    "sentence": "犬が新しい友達と遊んでいる。",
+    "sentence_furigana": "犬【いぬ】が新【あたら】しい友達【ともだち】と遊【あそ】んでいる。",
+    "meaning": "The dog is playing with a new friend."
+  },
+  {
+    "sentence": "犬は鼻が良い。",
+    "sentence_furigana": "犬【いぬ】は鼻【はな】が良い【よい】。",
+    "meaning": "Dogs have a good sense of smell."
+  },
+  {
+    "sentence": "犬が私の足元に座っています。",
+    "sentence_furigana": "犬【いぬ】が私【わたし】の足元【あしもと】に座【すわ】っています。",
+    "meaning": "The dog is sitting at my feet."
+  },
+  {
+    "sentence": "犬の医療費は高い。",
+    "sentence_furigana": "犬【いぬ】の医療費【いりょうひ】は高【たか】い。",
+    "meaning": "Dog's medical expenses are high."
+  },
+  {
+    "sentence": "犬に名前を付けました。",
+    "sentence_furigana": "犬【いぬ】に名前【なまえ】を付【つ】けました。",
+    "meaning": "I gave the dog a name."
+  },
+  {
+    "sentence": "犬が吠えている。",
+    "sentence_furigana": "犬【いぬ】が吠【ほ】えている。",
+    "meaning": "The dog is barking."
+  },
+  {
+    "sentence": "犬が嬉しそうに私の周りを回っている。",
+    "sentence_furigana": "犬【いぬ】が嬉【うれ】しそうに私【わたし】の周【まわ】りを回【まわ】っている。",
+    "meaning": "The dog is happily circling me."
+  },
+  {
+    "sentence": "犬は忠実な動物です。",
+    "sentence_furigana": "犬【いぬ】は忠実【ちゅうじつ】な動物【どうぶつ】です。",
+    "meaning": "Dogs are loyal animals."
+  },
+  {
+    "sentence": "犬のワクチン接種を忘れずに。",
+    "sentence_furigana": "犬【いぬ】のワクチン接種【せっしゅ】を忘【わ】れずに。",
+    "meaning": "Don't forget the dog's vaccinations."
+  },
+  {
+    "sentence": "犬が家の周りをパトロールしています。",
+    "sentence_furigana": "犬【いぬ】が家【いえ】の周【まわ】りをパトロールしています。",
+    "meaning": "The dog is patrolling around the house."
+  },
+  {
+    "sentence": "犬の訓練士になりたいです。",
+    "sentence_furigana": "犬【いぬ】の訓練士【くんれんし】になりたいです。",
+    "meaning": "I want to become a dog trainer."
+  },
+  {
+    "sentence": "犬が美味しそうにご飯を食べている。",
+    "sentence_furigana": "犬【いぬ】が美味【おい】しそうにご飯【はん】を食【た】べている。",
+    "meaning": "The dog is eating its food with gusto."
+  },
+  {
+    "sentence": "犬が新しい芸を覚えた。",
+    "sentence_furigana": "犬【いぬ】が新【あたら】しい芸【げい】を覚【お】ぼえた。",
+    "meaning": "The dog learned a new trick."
+  },
+  {
+    "sentence": "犬の散歩は私の楽しみです。",
+    "sentence_furigana": "犬【いぬ】の散歩【さんぽ】は私【わたし】の楽【たの】しみです。",
+    "meaning": "Walking my dog is my pleasure."
+  },
+  {
+    "sentence": "犬が寒そうです。",
+    "sentence_furigana": "犬【いぬ】が寒【さむ】そうです。",
+    "meaning": "The dog looks cold."
+  },
+  {
+    "sentence": "犬は子供たちに人気があります。",
+    "sentence_furigana": "犬【いぬ】は子供【こども】たちに人気【にんき】があります。",
+    "meaning": "Dogs are popular with children."
+  },
+  {
+    "sentence": "犬を撫でてあげました。",
+    "sentence_furigana": "犬【いぬ】を撫【な】でてあげました。",
+    "meaning": "I petted the dog."
+  },
+  {
+    "sentence": "犬の登録は義務です。",
+    "sentence_furigana": "犬【いぬ】の登録【とうろく】は義務【ぎむ】です。",
+    "meaning": "Dog registration is mandatory."
+  },
+  {
+    "sentence": "犬が私の話を聞いてくれる。",
+    "sentence_furigana": "犬【いぬ】が私【わたし】の話【はなし】を聞【き】いてくれる。",
+    "meaning": "The dog listens to me."
+  },
+  {
+    "sentence": "犬が家の中で迷子になった。",
+    "sentence_furigana": "犬【いぬ】が家【いえ】の中【なか】で迷子【まいご】になった。",
+    "meaning": "The dog got lost inside the house."
+  },
+  {
+    "sentence": "犬のグルーミングをしました。",
+    "sentence_furigana": "犬【いぬ】のグルーミングをしました。",
+    "meaning": "I groomed the dog."
+  }
+]

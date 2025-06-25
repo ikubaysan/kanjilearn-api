@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は手を振って別れを告げた。",
+    "sentence_furigana": "彼【かれ】は手【て】を振【ふ】って別【わか】れを告【つ】げた。",
+    "meaning": "He waved his hand to say goodbye."
+  },
+  {
+    "sentence": "彼女は髪を大きく振った。",
+    "sentence_furigana": "彼女【かのじょ】は髪【かみ】を大【おお】きく振【ふ】った。",
+    "meaning": "She shook her hair vigorously."
+  },
+  {
+    "sentence": "犬がしっぽを振っている。",
+    "sentence_furigana": "犬【いぬ】がしっぽを振【ふ】っている。",
+    "meaning": "The dog is wagging its tail."
+  },
+  {
+    "sentence": "木が風で大きく揺れている。",
+    "sentence_furigana": "木【き】が風【かぜ】で大【おお】きく揺【ゆ】れている。",
+    "meaning": "The trees are swaying greatly in the wind."
+  },
+  {
+    "sentence": "彼は腕を大きく振って歩いていた。",
+    "sentence_furigana": "彼【かれ】は腕【うで】を大【おお】きく振【ふ】って歩【ある】いていた。",
+    "meaning": "He was walking with his arms swinging widely."
+  },
+  {
+    "sentence": "その踊り子は音楽に合わせて体を振っていた。",
+    "sentence_furigana": "その踊【おど】り子【こ】は音楽【おんがく】に合【あ】わせて体【からだ】を振【ふ】っていた。",
+    "meaning": "The dancer was shaking her body to the music."
+  },
+  {
+    "sentence": "彼は激しく頭を振った。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しく頭【あたま】を振【ふ】った。",
+    "meaning": "He shook his head violently."
+  },
+  {
+    "sentence": "彼女は首を横に振った。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を横【よこ】に振【ふ】った。",
+    "meaning": "She shook her head sideways."
+  },
+  {
+    "sentence": "彼は興奮して手を振り上げた。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】して手【て】を振【ふ】り上【あ】げた。",
+    "meaning": "He raised his hands excitedly."
+  },
+  {
+    "sentence": "子供が旗を振って応援している。",
+    "sentence_furigana": "子供【こども】が旗【はた】を振【ふ】って応援【おうえん】している。",
+    "meaning": "The child is cheering by waving a flag."
+  },
+  {
+    "sentence": "彼女は振り付けを覚えている。",
+    "sentence_furigana": "彼女【かのじょ】は振【ふ】り付【つ】けを覚【おぼ】えている。",
+    "meaning": "She remembers the choreography."
+  },
+  {
+    "sentence": "彼はスイングでボールを打った。",
+    "sentence_furigana": "彼【かれ】はスイングでボールを打【う】った。",
+    "meaning": "He hit the ball with a swing."
+  },
+  {
+    "sentence": "彼女は手を振って挨拶した。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って挨拶【あいさつ】した。",
+    "meaning": "She waved her hand to greet him."
+  },
+  {
+    "sentence": "彼は扇子を振って涼んでいた。",
+    "sentence_furigana": "彼【かれ】は扇子【せんす】を振【ふ】って涼【すず】んでいた。",
+    "meaning": "He was fanning himself to cool down."
+  },
+  {
+    "sentence": "その機械は振動している。",
+    "sentence_furigana": "その機械【きかい】は振動【しんどう】している。",
+    "meaning": "The machine is vibrating."
+  },
+  {
+    "sentence": "彼は振込用紙を書いていた。",
+    "sentence_furigana": "彼【かれ】は振【ふ】り込【こ】み用紙【ようし】を書いていた。",
+    "meaning": "He was filling out the transfer form."
+  },
+  {
+    "sentence": "彼女は振袖を着ていた。",
+    "sentence_furigana": "彼女【かのじょ】は振袖【ふりそで】を着【き】ていた。",
+    "meaning": "She was wearing a furisode kimono."
+  },
+  {
+    "sentence": "彼は振子のように揺れていた。",
+    "sentence_furigana": "彼【かれ】は振子【ふりこ】のように揺【ゆ】れていた。",
+    "meaning": "He was swaying like a pendulum."
+  },
+  {
+    "sentence": "彼女は感情を表に出していた。",
+    "sentence_furigana": "彼女【かのじょ】は感情【かんじょう】を表【あらわ】に出【だ】していた。",
+    "meaning": "She was showing her emotions."
+  },
+  {
+    "sentence": "彼は株で大きく損をした。",
+    "sentence_furigana": "彼【かれ】は株【かぶ】で大【おお】きく損【そん】をした。",
+    "meaning": "He suffered a big loss in stocks."
+  },
+  {
+    "sentence": "彼女は首を振って断った。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って断【ことわ】った。",
+    "meaning": "She shook her head and refused."
+  },
+  {
+    "sentence": "彼は力を込めてバットを振った。",
+    "sentence_furigana": "彼【かれ】は力【ちから】を込【こ】めてバットを振【ふ】った。",
+    "meaning": "He swung the bat with all his might."
+  },
+  {
+    "sentence": "彼女は波に揺られている。",
+    "sentence_furigana": "彼女【かのじょ】は波【なみ】に揺【ゆ】られている。",
+    "meaning": "She is being rocked by the waves."
+  },
+  {
+    "sentence": "彼はタオルを振って乾かしていた。",
+    "sentence_furigana": "彼【かれ】はタオルを振【ふ】って乾【かわ】かしていた。",
+    "meaning": "He was shaking the towel to dry it."
+  },
+  {
+    "sentence": "彼女は手を振って別れを惜しんだ。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って別【わか】れを惜【お】しんだ。",
+    "meaning": "She waved her hand, reluctant to part."
+  },
+  {
+    "sentence": "彼はギターを振って演奏した。",
+    "sentence_furigana": "彼【かれ】はギターを振【ふ】って演奏【えんそう】した。",
+    "meaning": "He played the guitar, swinging it."
+  },
+  {
+    "sentence": "彼女は振り子の動きを真似た。",
+    "sentence_furigana": "彼女【かのじょ】は振子【ふりこ】の動【うご】きを真似【まね】た。",
+    "meaning": "She imitated the movement of a pendulum."
+  },
+  {
+    "sentence": "彼は振られてしまった。",
+    "sentence_furigana": "彼【かれ】は振【ふ】られてしまった。",
+    "meaning": "He was dumped."
+  },
+  {
+    "sentence": "彼女は手を振って、彼を呼んだ。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、彼【かれ】を呼【よ】んだ。",
+    "meaning": "She waved her hand and called him."
+  },
+  {
+    "sentence": "彼は振興策を打ち出した。",
+    "sentence_furigana": "彼【かれ】は振興策【しんこうさく】を打【う】ち出【だ】した。",
+    "meaning": "He launched promotional measures."
+  },
+  {
+    "sentence": "彼女は首を振って否定した。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って否定【ひてい】した。",
+    "meaning": "She shook her head to deny."
+  },
+  {
+    "sentence": "彼は鞭を振るった。",
+    "sentence_furigana": "彼【かれ】は鞭【むち】を振【ふ】るった。",
+    "meaning": "He swung the whip."
+  },
+  {
+    "sentence": "彼女は楽しそうに手を振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は楽【たの】しそうに手【て】を振【ふ】っていた。",
+    "meaning": "She was waving her hand happily."
+  },
+  {
+    "sentence": "彼は振付師の指示に従った。",
+    "sentence_furigana": "彼【かれ】は振付師【ふりつけし】の指示【しじ】に従【したが】った。",
+    "meaning": "He followed the choreographer's instructions."
+  },
+  {
+    "sentence": "彼女は振袖の袖をひらひらさせた。",
+    "sentence_furigana": "彼女【かのじょ】は振袖【ふりそで】の袖【そで】をひらひらさせた。",
+    "meaning": "She made the sleeves of her furisode flutter."
+  },
+  {
+    "sentence": "彼は振子の時計を見ていた。",
+    "sentence_furigana": "彼【かれ】は振子【ふりこ】の時計【とけい】を見ていた。",
+    "meaning": "He was looking at the pendulum clock."
+  },
+  {
+    "sentence": "彼女は指を振って彼に注意した。",
+    "sentence_furigana": "彼女【かのじょ】は指【ゆび】を振【ふ】って彼【かれ】に注意【ちゅうい】した。",
+    "meaning": "She wagged her finger at him to warn him."
+  },
+  {
+    "sentence": "彼は新しいスイングを試していた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいスイングを試【ため】していた。",
+    "meaning": "He was trying a new swing."
+  },
+  {
+    "sentence": "彼女は大きく手を振って応えた。",
+    "sentence_furigana": "彼女【かのじょ】は⼤【おお】きく手【て】を振【ふ】って応【こた】えた。",
+    "meaning": "She waved her hand widely in response."
+  },
+  {
+    "sentence": "彼は振興を図る計画を立てた。",
+    "sentence_furigana": "彼【かれ】は振興【しんこう】を図【はか】る計画【けいかく】を立【た】てた。",
+    "meaning": "He made a plan to promote development."
+  },
+  {
+    "sentence": "彼女は激しく体を揺らしていた。",
+    "sentence_furigana": "彼女【かのじょ】は激【はげ】しく体【からだ】を揺【ゆ】らしていた。",
+    "meaning": "She was shaking her body violently."
+  },
+  {
+    "sentence": "彼は振子のように進退を決めかねていた。",
+    "sentence_furigana": "彼【かれ】は振子【ふりこ】のように進退【しんたい】を決【き】めかねていた。",
+    "meaning": "He was undecided, swinging like a pendulum."
+  },
+  {
+    "sentence": "彼女は旗を大きく振った。",
+    "sentence_furigana": "彼女【かのじょ】は旗【はた】を⼤【おお】きく振【ふ】った。",
+    "meaning": "She waved the flag vigorously."
+  },
+  {
+    "sentence": "彼は興奮で髪を振り乱した。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】で髪【かみ】を振【ふ】り乱【みだ】した。",
+    "meaning": "He messed up his hair in excitement."
+  },
+  {
+    "sentence": "彼女は手を振って人混みをかき分けた。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って人混【ひとご】みを掻【か】き分【わ】けた。",
+    "meaning": "She waved her hands to push through the crowd."
+  },
+  {
+    "sentence": "彼はマイクを振ってリズムを取っていた。",
+    "sentence_furigana": "彼【かれ】はマイクを振【ふ】ってリズムを取【と】っていた。",
+    "meaning": "He swung the microphone to keep the rhythm."
+  },
+  {
+    "sentence": "彼女は振られるのを恐れていた。",
+    "sentence_furigana": "彼女【かのじょ】は振【ふ】られるのを恐【おそ】れていた。",
+    "meaning": "She was afraid of being dumped."
+  },
+  {
+    "sentence": "彼は振込み詐欺に注意するよう促した。",
+    "sentence_furigana": "彼【かれ】は振込詐欺【ふりこみさぎ】に注意【ちゅうい】するよう促【うな】がした。",
+    "meaning": "He urged people to be careful of transfer scams."
+  },
+  {
+    "sentence": "彼女は振り袖の帯を締めた。",
+    "sentence_furigana": "彼女【かのじょ】は振袖【ふりそで】の帯【おび】を締【し】めた。",
+    "meaning": "She fastened the obi of her furisode."
+  },
+  {
+    "sentence": "彼は腕を振って歩調を合わせた。",
+    "sentence_furigana": "彼【かれ】は腕【うで】を振【ふ】って歩調【ほちょう】を合【あ】わせた。",
+    "meaning": "He swung his arms to match the pace."
+  },
+  {
+    "sentence": "彼女は指先で空に絵を描くように振った。",
+    "sentence_furigana": "彼女【かのじょ】は指先【ゆびさき】で空【そら】に絵【え】を描【か】くように振【ふ】った。",
+    "meaning": "She waved her fingertips in the air as if drawing a picture."
+  },
+  {
+    "sentence": "彼は力強くバットを振ったが、空振りだった。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】くバットを振【ふ】ったが、空振【からぶ】りだった。",
+    "meaning": "He swung the bat powerfully, but missed."
+  },
+  {
+    "sentence": "彼女は手を振って彼を呼び止めた。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って彼【かれ】を呼【よ】び止【と】めた。",
+    "meaning": "She waved her hand to stop him."
+  },
+  {
+    "sentence": "彼は振興計画の成功を祈った。",
+    "sentence_furigana": "彼【かれ】は振興計画【しんこうけいかく】の成功【せいこう】を祈【いの】った。",
+    "meaning": "He prayed for the success of the development plan."
+  },
+  {
+    "sentence": "彼女は大きく手を振って別れを告げた。",
+    "sentence_furigana": "彼女【かのじょ】は⼤【おお】きく手【て】を振【ふ】って別【わか】れを告【つ】げた。",
+    "meaning": "She waved her hands broadly to say goodbye."
+  },
+  {
+    "sentence": "彼は振動で窓が揺れるのを感じた。",
+    "sentence_furigana": "彼【かれ】は振動【しんどう】で窓【まど】が揺【ゆ】れるのを感じ【かん】じた。",
+    "meaning": "He felt the windows shake from the vibration."
+  },
+  {
+    "sentence": "彼女は振り子の規則的な動きに魅了された。",
+    "sentence_furigana": "彼女【かのじょ】は振子【ふりこ】の規則的【きそく】な動【うご】きに魅了【みりょう】された。",
+    "meaning": "She was fascinated by the regular movement of the pendulum."
+  },
+  {
+    "sentence": "彼は首を振って不満を表した。",
+    "sentence_furigana": "彼【かれ】は首【くび】を振【ふ】って不満【ふまん】を表【あらわ】した。",
+    "meaning": "He shook his head to express his dissatisfaction."
+  },
+  {
+    "sentence": "彼女は手を振って、遠くの友人に合図を送った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、遠【とお】くの友人【ゆうじん】に合図【あいず】を送【おく】った。",
+    "meaning": "She waved her hand to signal a distant friend."
+  },
+  {
+    "sentence": "彼は剣を振るって敵に立ち向かった。",
+    "sentence_furigana": "彼【かれ】は剣【けん】を振【ふ】るって敵【てき】に立【た】ち向【む】かった。",
+    "meaning": "He faced the enemy, wielding his sword."
+  },
+  {
+    "sentence": "彼女は振子の時計の音を聞いていた。",
+    "sentence_furigana": "彼女【かのじょ】は振子【ふりこ】の時計【とけい】の音【おと】を聞【き】いていた。",
+    "meaning": "She was listening to the sound of the pendulum clock."
+  },
+  {
+    "sentence": "彼は振込用紙を投函した。",
+    "sentence_furigana": "彼【かれ】は振込用紙【ふりこみようし】を投函【とうかん】した。",
+    "meaning": "He mailed the transfer form."
+  },
+  {
+    "sentence": "彼女は振袖の裾を翻して歩いた。",
+    "sentence_furigana": "彼女【かのじょ】は振袖【ふりそで】の裾【すそ】を翻【ひるがえ】して歩【ある】いた。",
+    "meaning": "She walked, making the hem of her furisode flutter."
+  },
+  {
+    "sentence": "彼は手を振って応援を求めた。",
+    "sentence_furigana": "彼【かれ】は手【て】を振【ふ】って応援【おうえん】を求【もと】めた。",
+    "meaning": "He waved his hand, seeking support."
+  },
+  {
+    "sentence": "彼女は扇子を扇いで涼んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は扇子【せんす】を扇【あお】いで涼【すず】んでいた。",
+    "meaning": "She was fanning herself with a fan to cool down."
+  },
+  {
+    "sentence": "彼は首を激しく振って否定した。",
+    "sentence_furigana": "彼【かれ】は首【くび】を激【はげ】しく振【ふ】って否定【ひてい】した。",
+    "meaning": "He shook his head violently to deny it."
+  },
+  {
+    "sentence": "彼女は振付のポイントを教えた。",
+    "sentence_furigana": "彼女【かのじょ】は振付【ふりつけ】のポイントを教【おし】えた。",
+    "meaning": "She taught the key points of the choreography."
+  },
+  {
+    "sentence": "彼はボールを打つためにスイングした。",
+    "sentence_furigana": "彼【かれ】はボールを打【う】つためにスイングした。",
+    "meaning": "He swung to hit the ball."
+  },
+  {
+    "sentence": "彼女は手を振って、もう一度来るように合図した。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、もう一度【いちど】来【く】るように合図【あいず】した。",
+    "meaning": "She waved her hand and signaled him to come again."
+  },
+  {
+    "sentence": "彼は地震の振動に驚いた。",
+    "sentence_furigana": "彼【かれ】は地震【じしん】の振動【しんどう】に驚【おどろ】いた。",
+    "meaning": "He was surprised by the earthquake's vibrations."
+  },
+  {
+    "sentence": "彼女は振り子のように左右に揺れていた。",
+    "sentence_furigana": "彼女【かのじょ】は振子【ふりこ】のように左右【さゆう】に揺【ゆ】れていた。",
+    "meaning": "She was swaying left and right like a pendulum."
+  },
+  {
+    "sentence": "彼は手を振って歓声に応えた。",
+    "sentence_furigana": "彼【かれ】は手【て】を振【ふ】って歓声【かんせい】に応【こた】えた。",
+    "meaning": "He waved his hands in response to the cheers."
+  },
+  {
+    "sentence": "彼女は首を振って残念そうな表情をした。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って残念【ざんねん】そうな表情【ひょうじょう】をした。",
+    "meaning": "She shook her head and made a disappointed expression."
+  },
+  {
+    "sentence": "彼は興奮して手を振り回していた。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】して手【て】を振【ふ】り回【まわ】していた。",
+    "meaning": "He was waving his hands around excitedly."
+  },
+  {
+    "sentence": "彼女は振付に合わせて踊った。",
+    "sentence_furigana": "彼女【かのじょ】は振付【ふりつけ】に合【あ】わせて踊【おど】った。",
+    "meaning": "She danced to the choreography."
+  },
+  {
+    "sentence": "彼は帽子を振って挨拶をした。",
+    "sentence_furigana": "彼【かれ】は帽子【ぼうし】を振【ふ】って挨拶【あいさつ】をした。",
+    "meaning": "He waved his hat to greet them."
+  },
+  {
+    "sentence": "彼女は振子時計の正確な時間に感心した。",
+    "sentence_furigana": "彼女【かのじょ】は振子時計【ふりこどけい】の正確【せいかく】な時間【じかん】に感心【かんしん】した。",
+    "meaning": "She was impressed by the accurate time of the pendulum clock."
+  },
+  {
+    "sentence": "彼は大きくスイングしてボールを打った。",
+    "sentence_furigana": "彼【かれ】は⼤【おお】きくスイングしてボールを打【う】った。",
+    "meaning": "He swung widely to hit the ball."
+  },
+  {
+    "sentence": "彼女は手を振って、さようならを言った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、さようならを言【い】った。",
+    "meaning": "She waved her hand and said goodbye."
+  },
+  {
+    "sentence": "彼は振興会の会長に選ばれた。",
+    "sentence_furigana": "彼【かれ】は振興会【しんこうかい】の会長【かいちょう】に選【え】ばれた。",
+    "meaning": "He was elected chairman of the promotion association."
+  },
+  {
+    "sentence": "彼女は振子のように揺れるカーテンを見ていた。",
+    "sentence_furigana": "彼女【かのじょ】は振子【ふりこ】のように揺【ゆ】れるカーテンを見ていた。",
+    "meaning": "She was watching the curtains sway like a pendulum."
+  },
+  {
+    "sentence": "彼は興奮して体を振っていた。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】して体【からだ】を振【ふ】っていた。",
+    "meaning": "He was shaking his body with excitement."
+  },
+  {
+    "sentence": "彼女は腕を振って群衆の中を進んだ。",
+    "sentence_furigana": "彼女【かのじょ】は腕【うで】を振【ふ】って群衆【ぐんしゅう】の中【なか】を進【すす】んだ。",
+    "meaning": "She pushed through the crowd, swinging her arms."
+  },
+  {
+    "sentence": "彼は振袖姿の彼女に目を奪われた。",
+    "sentence_furigana": "彼【かれ】は振袖姿【ふりそですがた】の彼女【かのじょ】に目【め】を奪【うば】われた。",
+    "meaning": "He was captivated by her appearance in a furisode."
+  },
+  {
+    "sentence": "彼女は首を横に振って、残念だと伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を横【よこ】に振【ふ】って、残念【ざんねん】だと伝【つた】えた。",
+    "meaning": "She shook her head sideways to convey her regret."
+  },
+  {
+    "sentence": "彼は振子の時計が止まっていることに気づいた。",
+    "sentence_furigana": "彼【かれ】は振子【ふりこ】の時計【とけい】が止【と】まっていることに気【き】づいた。",
+    "meaning": "He noticed that the pendulum clock had stopped."
+  },
+  {
+    "sentence": "彼女は手を振って子供たちに手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って子供【こども】たちに手【て】を振【ふ】った。",
+    "meaning": "She waved her hand to the children."
+  },
+  {
+    "sentence": "彼は音楽に合わせて体を振っていた。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】に合【あ】わせて体【からだ】を振【ふ】っていた。",
+    "meaning": "He was shaking his body to the music."
+  },
+  {
+    "sentence": "彼女は手を振って、また来ることを約束した。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、また来【く】ることを約束【やくそく】した。",
+    "meaning": "She waved her hand and promised to come again."
+  },
+  {
+    "sentence": "彼は大きな声で叫びながら手を振っていた。",
+    "sentence_furigana": "彼【かれ】は⼤【おお】きな声【こえ】で叫【さけ】びながら手【て】を振【ふ】っていた。",
+    "meaning": "He was waving his hands while shouting loudly."
+  },
+  {
+    "sentence": "彼女は振付を間違えたことを謝った。",
+    "sentence_furigana": "彼女【かのじょ】は振付【ふりつけ】を間違【まちが】えたことを謝【あやま】った。",
+    "meaning": "She apologized for making a mistake in the choreography."
+  },
+  {
+    "sentence": "彼は振子時計の動きに魅了された。",
+    "sentence_furigana": "彼【かれ】は振子時計【ふりこどけい】の動【うご】きに魅了【みりょう】された。",
+    "meaning": "He was fascinated by the movement of the pendulum clock."
+  },
+  {
+    "sentence": "彼女は手を振って友達に呼びかけた。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って友達【ともだち】に呼【よ】びかけた。",
+    "meaning": "She waved her hand and called out to her friend."
+  },
+  {
+    "sentence": "彼はスイングアームを振った。",
+    "sentence_furigana": "彼【かれ】はスイングアームを振【ふ】った。",
+    "meaning": "He swung the swingarm."
+  },
+  {
+    "sentence": "彼女は応援団の旗を振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は応援団【おうえんだん】の旗【はた】を振【ふ】っていた。",
+    "meaning": "She was waving the cheer squad's flag."
+  },
+  {
+    "sentence": "彼は興奮して手を振り上げた。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】して手【て】を振【ふ】り上【あ】げた。",
+    "meaning": "He raised his hands excitedly."
+  },
+  {
+    "sentence": "彼女は首を振って、もう大丈夫だと伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って、もう大丈夫【だいじょうぶ】だと伝【つた】えた。",
+    "meaning": "She shook her head to convey that it was okay now."
+  },
+  {
+    "sentence": "彼は振込詐欺の被害に遭わないように注意喚起した。",
+    "sentence_furigana": "彼【かれ】は振込詐欺【ふりこみさぎ】の被害【ひがい】に遭【あ】わないように注意喚起【ちゅういかんき】した。",
+    "meaning": "He raised awareness to prevent people from becoming victims of transfer scams."
+  },
+  {
+    "sentence": "彼女は振子時計の重りを持ち上げた。",
+    "sentence_furigana": "彼女【かのじょ】は振子時計【ふりこどけい】の重【おも】りを持【も】ち上【あ】げた。",
+    "meaning": "She lifted the weight of the pendulum clock."
+  },
+  {
+    "sentence": "彼は手を振って別れを告げた。",
+    "sentence_furigana": "彼【かれ】は手【て】を振【ふ】って別【わか】れを告【つ】げた。",
+    "meaning": "He waved his hand to say goodbye."
+  },
+  {
+    "sentence": "彼女は振袖の帯を結んだ。",
+    "sentence_furigana": "彼女【かのじょ】は振袖【ふりそで】の帯【おび】を結【むす】んだ。",
+    "meaning": "She tied the obi of her furisode."
+  }
+]

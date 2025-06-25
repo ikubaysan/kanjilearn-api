@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "試験に合格した。",
+    "sentence_furigana": "試験【しけん】に合格【ごうかく】した。",
+    "meaning": "I passed the exam."
+  },
+  {
+    "sentence": "彼は私の申し出を受け入れた。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の申【もう】し出【で】を受【う】け入【い】れた。",
+    "meaning": "He accepted my proposal."
+  },
+  {
+    "sentence": "病気になったので、しばらく休む。",
+    "sentence_furigana": "病気【びょうき】になったので、しばらく休【やす】む。",
+    "meaning": "I got sick, so I will rest for a while."
+  },
+  {
+    "sentence": "電話に出てください。",
+    "sentence_furigana": "電話【でんわ】に出【で】てください。",
+    "meaning": "Please answer the phone."
+  },
+  {
+    "sentence": "荷物を受け取ってください。",
+    "sentence_furigana": "荷物【にもつ】を受【う】け取【と】ってください。",
+    "meaning": "Please receive the package."
+  },
+  {
+    "sentence": "彼はその知らせを聞いてショックを受けた。",
+    "sentence_furigana": "彼【かれ】はその知【し】らせを聞【き】いてショックを受【う】けた。",
+    "meaning": "He was shocked to hear the news."
+  },
+  {
+    "sentence": "この薬は副作用を受ける可能性がある。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】を受【う】ける可能性【かのうせい】がある。",
+    "meaning": "This medicine may have side effects."
+  },
+  {
+    "sentence": "彼の話を聞いて感動を受けた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】を聞【き】いて感動【かんどう】を受【う】けた。",
+    "meaning": "I was moved by his story."
+  },
+  {
+    "sentence": "彼女は多くの支援を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの支援【しえん】を受【う】けた。",
+    "meaning": "She received a lot of support."
+  },
+  {
+    "sentence": "この仕事は多くの責任を負う。",
+    "sentence_furigana": "この仕事【しごと】は多【おお】くの責任【せきにん】を負【お】う。",
+    "meaning": "This job carries a lot of responsibility."
+  },
+  {
+    "sentence": "彼は攻撃を受けた。",
+    "sentence_furigana": "彼【かれ】は攻撃【こうげき】を受【う】けた。",
+    "meaning": "He came under attack."
+  },
+  {
+    "sentence": "その知らせは予期せぬものだった。",
+    "sentence_furigana": "その知【し】らせは予期【よき】せぬものだった。",
+    "meaning": "The news was unexpected."
+  },
+  {
+    "sentence": "彼は賞を受賞した。",
+    "sentence_furigana": "彼【かれ】は賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "He received an award."
+  },
+  {
+    "sentence": "この本は多くの読者から好評を得た。",
+    "sentence_furigana": "この本【ほん】は多【おお】くの読者【どくしゃ】から好評【こうひょう】を得【え】た。",
+    "meaning": "This book received good reviews from many readers."
+  },
+  {
+    "sentence": "彼は激しい批判を受けた。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しい批判【ひはん】を受【う】けた。",
+    "meaning": "He received harsh criticism."
+  },
+  {
+    "sentence": "彼女は厳しい訓練を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい訓練【くんれん】を受【う】けた。",
+    "meaning": "She underwent rigorous training."
+  },
+  {
+    "sentence": "彼は大学に合格した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】に合格【ごうかく】した。",
+    "meaning": "He passed the university entrance exam."
+  },
+  {
+    "sentence": "私は多くの助言を受けた。",
+    "sentence_furigana": "私【わたし】は多【おお】くの助言【じょげん】を受【う】けた。",
+    "meaning": "I received a lot of advice."
+  },
+  {
+    "sentence": "その知らせに心が痛んだ。",
+    "sentence_furigana": "その知【し】らせに心【こころ】が痛【いた】んだ。",
+    "meaning": "My heart ached at the news."
+  },
+  {
+    "sentence": "彼はその事件の容疑者として捜査を受けた。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の容疑者【ようぎしゃ】として捜査【そうさ】を受【う】けた。",
+    "meaning": "He was investigated as a suspect in the case."
+  },
+  {
+    "sentence": "彼女は厳しい状況に耐えた。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい状況【じょうきょう】に耐【た】えた。",
+    "meaning": "She endured difficult circumstances."
+  },
+  {
+    "sentence": "私は彼からの返事を待っている。",
+    "sentence_furigana": "私【わたし】は彼【かれ】からの返事【へんじ】を待【ま】っている。",
+    "meaning": "I am waiting for a reply from him."
+  },
+  {
+    "sentence": "彼はその仕事を引き受けた。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】を引【ひ】き受【う】けた。",
+    "meaning": "He took on the job."
+  },
+  {
+    "sentence": "この計画は多くの賛同を得た。",
+    "sentence_furigana": "この計画【けいかく】は多【おお】くの賛同【さんどう】を得【え】た。",
+    "meaning": "This plan gained much support."
+  },
+  {
+    "sentence": "彼はその賞に値する。",
+    "sentence_furigana": "彼【かれ】はその賞【しょう】に値【あたい】する。",
+    "meaning": "He deserves the award."
+  },
+  {
+    "sentence": "彼女は多くの人々に愛されている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人々【ひとびと】に愛【あい】されている。",
+    "meaning": "She is loved by many people."
+  },
+  {
+    "sentence": "彼はこの知らせに大きな影響を受けた。",
+    "sentence_furigana": "彼【かれ】はこの知【し】らせに大【おお】きな影響【えいきょう】を受【う】けた。",
+    "meaning": "He was greatly affected by this news."
+  },
+  {
+    "sentence": "私は友人の頼みを聞いた。",
+    "sentence_furigana": "私【わたし】は友人【ゆうじん】の頼【たの】みを聞【き】いた。",
+    "meaning": "I granted my friend's request."
+  },
+  {
+    "sentence": "彼は多くの試練を乗り越えた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの試練【しれん】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame many trials."
+  },
+  {
+    "sentence": "この情報は正確なものとして受け入れられた。",
+    "sentence_furigana": "この情報【じょうほう】は正確【せいかく】なものとして受【う】け入【い】れられた。",
+    "meaning": "This information was accepted as accurate."
+  },
+  {
+    "sentence": "彼はその提案を受け入れなかった。",
+    "sentence_furigana": "彼【かれ】はその提案【ていあん】を受【う】け入【い】れなかった。",
+    "meaning": "He did not accept the proposal."
+  },
+  {
+    "sentence": "彼女は多くの困難を経験した。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの困難【こんなん】を経験【けいけん】した。",
+    "meaning": "She experienced many difficulties."
+  },
+  {
+    "sentence": "この法律は国民の支持を受けた。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の支持【しじ】を受【う】けた。",
+    "meaning": "This law received public support."
+  },
+  {
+    "sentence": "彼は怪我をした。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】をした。",
+    "meaning": "He got injured."
+  },
+  {
+    "sentence": "彼女は才能を受け継いだ。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】を受【う】け継【つ】いだ。",
+    "meaning": "She inherited the talent."
+  },
+  {
+    "sentence": "この報告は広く受け入れられた。",
+    "sentence_furigana": "この報告【ほうこく】は広【ひろ】く受【う】け入【い】れられた。",
+    "meaning": "This report was widely accepted."
+  },
+  {
+    "sentence": "彼は賞賛を受けた。",
+    "sentence_furigana": "彼【かれ】は賞賛【しょうさん】を受【う】けた。",
+    "meaning": "He received praise."
+  },
+  {
+    "sentence": "彼女は新しい役割を引き受けた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい役割【やくわり】を引【ひ】き受【う】けた。",
+    "meaning": "She took on a new role."
+  },
+  {
+    "sentence": "私はその知らせを聞いて安心した。",
+    "sentence_furigana": "私【わたし】は その知【し】らせを聞【き】いて安心【あんしん】した。",
+    "meaning": "I felt relieved to hear the news."
+  },
+  {
+    "sentence": "彼はその本を受け取った。",
+    "sentence_furigana": "彼【かれ】は その本【ほん】を受【う】け取【と】った。",
+    "meaning": "He received the book."
+  },
+  {
+    "sentence": "この計画は多くの投資を受けた。",
+    "sentence_furigana": "この計画【けいかく】は多【おお】くの投資【とうし】を受【う】けた。",
+    "meaning": "This project received a lot of investment."
+  },
+  {
+    "sentence": "彼女は健康上の問題を抱えている。",
+    "sentence_furigana": "彼女【かのじょ】は健康上【けんこうじょう】の問題【もんだい】を抱【かか】えている。",
+    "meaning": "She is experiencing health problems."
+  },
+  {
+    "sentence": "彼はその挑戦を受け入れた。",
+    "sentence_furigana": "彼【かれ】は その挑戦【ちょうせん】を受【う】け入【い】れた。",
+    "meaning": "He accepted the challenge."
+  },
+  {
+    "sentence": "私はその提案に同意した。",
+    "sentence_furigana": "私【わたし】は その提案【ていあん】に同意【どうい】した。",
+    "meaning": "I agreed to the proposal."
+  },
+  {
+    "sentence": "彼は多くの人々の期待に応えた。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの人々【ひとびと】の期待【きたい】に応【こた】えた。",
+    "meaning": "He met the expectations of many people."
+  },
+  {
+    "sentence": "彼女は多くの批判にさらされた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの批判【ひはん】にさらされた。",
+    "meaning": "She was exposed to much criticism."
+  },
+  {
+    "sentence": "彼はその知らせを聞いて落胆した。",
+    "sentence_furigana": "彼【かれ】は その知【し】らせを聞【き】いて落胆【らくたん】した。",
+    "meaning": "He was disappointed to hear the news."
+  },
+  {
+    "sentence": "この政策は国民からの反対を受けた。",
+    "sentence_furigana": "この政策【せいさく】は国民【こくみん】からの反対【はんたい】を受【う】けた。",
+    "meaning": "This policy met with opposition from the public."
+  },
+  {
+    "sentence": "彼女は多くの愛情を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの愛情【あいじょう】を受【う】けた。",
+    "meaning": "She received much love."
+  },
+  {
+    "sentence": "彼はその依頼を受けた。",
+    "sentence_furigana": "彼【かれ】は その依頼【いらい】を受【う】けた。",
+    "meaning": "He accepted the request."
+  },
+  {
+    "sentence": "この提案は多くの支持を得た。",
+    "sentence_furigana": "この提案【ていあん】は多【おお】くの支持【しじ】を得【え】た。",
+    "meaning": "This proposal gained much support."
+  },
+  {
+    "sentence": "彼女は父から才能を受け継いだ。",
+    "sentence_furigana": "彼女【かのじょ】は父【ちち】から才能【さいのう】を受【う】け継【つ】いだ。",
+    "meaning": "She inherited her talent from her father."
+  },
+  {
+    "sentence": "彼はその件について承諾した。",
+    "sentence_furigana": "彼【かれ】は その件【けん】について承諾【しょうだく】した。",
+    "meaning": "He agreed to the matter."
+  },
+  {
+    "sentence": "この本は多くの人に読まれている。",
+    "sentence_furigana": "この本【ほん】は 多【おお】くの人【ひと】に読【よ】まれている。",
+    "meaning": "This book is read by many people."
+  },
+  {
+    "sentence": "彼女は困難に打ち勝った。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】に打【う】ち勝【か】った。",
+    "meaning": "She overcame the difficulties."
+  },
+  {
+    "sentence": "彼はその挑戦を受け止めた。",
+    "sentence_furigana": "彼【かれ】は その挑戦【ちょうせん】を受【う】け止【と】めた。",
+    "meaning": "He faced the challenge."
+  },
+  {
+    "sentence": "この知らせは私に大きな喜びをもたらした。",
+    "sentence_furigana": "この知【し】らせは私【わたし】に大【おお】きな喜【よろこ】びをもたらした。",
+    "meaning": "This news brought me great joy."
+  },
+  {
+    "sentence": "彼は多くの賞賛に値する人物だ。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの賞賛【しょうさん】に値【あたい】する人物【じんぶつ】だ。",
+    "meaning": "He is a person worthy of much praise."
+  },
+  {
+    "sentence": "彼女は厳しい状況下でも希望を失わなかった。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい状況下【じょうきょうか】でも希望【きぼう】を失【うしな】わなかった。",
+    "meaning": "She did not lose hope even in dire circumstances."
+  },
+  {
+    "sentence": "彼はその秘密を受け入れることができなかった。",
+    "sentence_furigana": "彼【かれ】は その秘密【ひみつ】を受【う】け入【い】れることができなかった。",
+    "meaning": "He could not accept the secret."
+  },
+  {
+    "sentence": "この提案は多くの支持を得られるだろう。",
+    "sentence_furigana": "この提案【ていあん】は 多【おお】くの支持【しじ】を得【え】られるだろう。",
+    "meaning": "This proposal will likely gain much support."
+  },
+  {
+    "sentence": "彼女は多くの人々の信頼を得た。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの人々【ひとびと】の信頼【しんらい】を得【え】た。",
+    "meaning": "She gained the trust of many people."
+  },
+  {
+    "sentence": "彼はその責任を果たすことを約束した。",
+    "sentence_furigana": "彼【かれ】は その責任【せきにん】を果【は】たすことを約束【やくそく】した。",
+    "meaning": "He promised to fulfill the responsibility."
+  },
+  {
+    "sentence": "私は彼の言葉に感謝した。",
+    "sentence_furigana": "私【わたし】は 彼【かれ】の言葉【ことば】に感謝【かんしゃ】した。",
+    "meaning": "I was grateful for his words."
+  },
+  {
+    "sentence": "彼は多くのアドバイスを受けた。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くのアドバイスを受【う】けた。",
+    "meaning": "He received a lot of advice."
+  },
+  {
+    "sentence": "彼女はこの困難な状況を乗り越えるだろう。",
+    "sentence_furigana": "彼女【かのじょ】は この困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えるだろう。",
+    "meaning": "She will overcome this difficult situation."
+  },
+  {
+    "sentence": "彼はその知らせに心を痛めた。",
+    "sentence_furigana": "彼【かれ】は その知【し】らせに心【こころ】を痛【いた】めた。",
+    "meaning": "He was pained by the news."
+  },
+  {
+    "sentence": "この計画は多くの障害に直面している。",
+    "sentence_furigana": "この計画【けいかく】は 多【おお】くの障害【しょうがい】に直面【ちょくめん】している。",
+    "meaning": "This plan faces many obstacles."
+  },
+  {
+    "sentence": "彼女は多くの人々から尊敬されている。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの人々【ひとびと】から尊敬【そんけい】されている。",
+    "meaning": "She is respected by many people."
+  },
+  {
+    "sentence": "彼はその提案を受け入れなかった。",
+    "sentence_furigana": "彼【かれ】は その提案【ていあん】を受【う】け入【い】れなかった。",
+    "meaning": "He did not accept the suggestion."
+  },
+  {
+    "sentence": "私はこの状況を理解している。",
+    "sentence_furigana": "私【わたし】は この状況【じょうきょう】を理解【りかい】している。",
+    "meaning": "I understand this situation."
+  },
+  {
+    "sentence": "彼は多くの助けを受けた。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの助【たす】けを受【う】けた。",
+    "meaning": "He received much help."
+  },
+  {
+    "sentence": "彼女は厳しい練習に耐えた。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい練習【れんしゅう】に耐【た】えた。",
+    "meaning": "She endured rigorous practice."
+  },
+  {
+    "sentence": "彼はその通知を受け取った。",
+    "sentence_furigana": "彼【かれ】は その通知【つうち】を受【う】け取【と】った。",
+    "meaning": "He received the notification."
+  },
+  {
+    "sentence": "この法案は多くの議論を受けた。",
+    "sentence_furigana": "この法案【ほうあん】は 多【おお】くの議論【ぎろん】を受【う】けた。",
+    "meaning": "This bill underwent much debate."
+  },
+  {
+    "sentence": "彼女は彼の申し出を受け入れた。",
+    "sentence_furigana": "彼女【かのじょ】は 彼【かれ】の申【もう】し出【で】を受【う】け入【い】れた。",
+    "meaning": "She accepted his offer."
+  },
+  {
+    "sentence": "彼は多くの支援を求めた。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの支援【しえん】を求【もと】めた。",
+    "meaning": "He sought much support."
+  },
+  {
+    "sentence": "私はこの結果に満足した。",
+    "sentence_furigana": "私【わたし】は この結果【けっか】に満足【まんぞく】した。",
+    "meaning": "I was satisfied with this result."
+  },
+  {
+    "sentence": "彼は多くの質問を受けた。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの質問【しつもん】を受【う】けた。",
+    "meaning": "He received many questions."
+  },
+  {
+    "sentence": "彼女は彼の提案に同意した。",
+    "sentence_furigana": "彼女【かのじょ】は 彼【かれ】の提案【ていあん】に同意【どうい】した。",
+    "meaning": "She agreed with his proposal."
+  },
+  {
+    "sentence": "彼はその仕事を引き受けた。",
+    "sentence_furigana": "彼【かれ】は その仕事【しごと】を引【ひ】き受【う】けた。",
+    "meaning": "He undertook the work."
+  },
+  {
+    "sentence": "この方針は多くの人々に受け入れられた。",
+    "sentence_furigana": "この方針【ほうしん】は 多【おお】くの人々【ひとびと】に受【う】け入【い】れられた。",
+    "meaning": "This policy was accepted by many people."
+  },
+  {
+    "sentence": "彼女は多くの人を幸せにした。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの人【ひと】を幸【しあわ】せにした。",
+    "meaning": "She made many people happy."
+  },
+  {
+    "sentence": "彼はその知らせに動揺した。",
+    "sentence_furigana": "彼【かれ】は その知【し】らせに動揺【どうよう】した。",
+    "meaning": "He was shaken by the news."
+  },
+  {
+    "sentence": "私は彼の言葉を受け止めた。",
+    "sentence_furigana": "私【わたし】は 彼【かれ】の言葉【ことば】を受【う】け止【と】めた。",
+    "meaning": "I took his words to heart."
+  },
+  {
+    "sentence": "彼は多くの人々の尊敬を集めた。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの人々【ひとびと】の尊敬【そんけい】を集【あつ】めた。",
+    "meaning": "He gained the respect of many people."
+  },
+  {
+    "sentence": "彼女は厳しい批評を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい批評【ひひょう】を受【う】けた。",
+    "meaning": "She received harsh criticism."
+  },
+  {
+    "sentence": "この知らせを聞いて元気が出た。",
+    "sentence_furigana": "この知【し】らせを聞【き】いて元気【げんき】が出【で】た。",
+    "meaning": "I felt energized upon hearing this news."
+  },
+  {
+    "sentence": "彼はその計画を受け入れた。",
+    "sentence_furigana": "彼【かれ】は その計画【けいかく】を受【う】け入【い】れた。",
+    "meaning": "He accepted the plan."
+  },
+  {
+    "sentence": "彼女は多くの祝福を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの祝福【しゅくふく】を受【う】けた。",
+    "meaning": "She received many blessings."
+  },
+  {
+    "sentence": "彼はその仕事の成功を確信している。",
+    "sentence_furigana": "彼【かれ】は その仕事【しごと】の成功【せいこう】を確信【かくしん】している。",
+    "meaning": "He is confident in the success of the job."
+  },
+  {
+    "sentence": "この情報は正確である。",
+    "sentence_furigana": "この情報【じょうほう】は正確【せいかく】である。",
+    "meaning": "This information is accurate."
+  },
+  {
+    "sentence": "彼はその状況を冷静に受け止めた。",
+    "sentence_furigana": "彼【かれ】は その状況【じょうきょう】を冷静【れいせい】に受【う】け止【と】めた。",
+    "meaning": "He calmly accepted the situation."
+  },
+  {
+    "sentence": "彼女は多くの人々の愛情を受けて育った。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの人々【ひとびと】の愛情【あいじょう】を受【う】けて育【そだ】った。",
+    "meaning": "She grew up receiving much love from people."
+  },
+  {
+    "sentence": "彼はその件について承諾した。",
+    "sentence_furigana": "彼【かれ】は その件【けん】について承諾【しょうだく】した。",
+    "meaning": "He agreed to the matter."
+  },
+  {
+    "sentence": "このニュースは多くの人々に衝撃を与えた。",
+    "sentence_furigana": "このニュースは 多【おお】くの人々【ひとびと】に衝撃【しょうげき】を与【あた】えた。",
+    "meaning": "This news shocked many people."
+  },
+  {
+    "sentence": "彼は多くの賞賛に値する。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "He is worthy of much praise."
+  },
+  {
+    "sentence": "彼女は厳しい訓練を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は厳【きび】しい訓練【くんれん】を受【う】けた。",
+    "meaning": "She underwent strict training."
+  },
+  {
+    "sentence": "この知らせは彼に大きな影響を与えた。",
+    "sentence_furigana": "この知【し】らせは 彼【かれ】に大【おお】きな影響【えいきょう】を与【あた】えた。",
+    "meaning": "This news had a great impact on him."
+  },
+  {
+    "sentence": "彼はその挑戦を受け入れた。",
+    "sentence_furigana": "彼【かれ】は その挑戦【ちょうせん】を受【う】け入【い】れた。",
+    "meaning": "He accepted the challenge."
+  },
+  {
+    "sentence": "彼女はこの情報を正確に受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は この情報【じょうほう】を正確【せいかく】に受【う】け取【と】った。",
+    "meaning": "She received this information accurately."
+  },
+  {
+    "sentence": "彼は多くの人々から信頼を得た。",
+    "sentence_furigana": "彼【かれ】は 多【おお】くの人々【ひとびと】から信頼【しんらい】を得【え】た。",
+    "meaning": "He gained the trust of many people."
+  },
+  {
+    "sentence": "彼女は多くの人々の期待に応えた。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの人々【ひとびと】の期待【きたい】に応【こた】えた。",
+    "meaning": "She met the expectations of many people."
+  },
+  {
+    "sentence": "彼はその役割を引き受けた。",
+    "sentence_furigana": "彼【かれ】は その役割【やくわり】を引【ひ】き受【う】けた。",
+    "meaning": "He took on the role."
+  },
+  {
+    "sentence": "この提案は多くの賛同を得た。",
+    "sentence_furigana": "この提案【ていあん】は 多【おお】くの賛同【さんどう】を得【え】た。",
+    "meaning": "This proposal gained much approval."
+  },
+  {
+    "sentence": "彼女は多くの支援を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は 多【おお】くの支援【しえん】を受【う】けた。",
+    "meaning": "She received a lot of support."
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "太郎は元気な子供です。",
+    "sentence_furigana": "太郎【たろう】は元気【げんき】な子供【こども】です。",
+    "meaning": "Taro is a lively child."
+  },
+  {
+    "sentence": "次郎はサッカーが得意です。",
+    "sentence_furigana": "次郎【じろう】はサッカーが徳意【とくい】です。",
+    "meaning": "Jiro is good at soccer."
+  },
+  {
+    "sentence": "三郎は図書館で本を読んでいます。",
+    "sentence_furigana": "三郎【さぶろう】は図書館【としょかん】で本【ほん】を読【よ】んでいます。",
+    "meaning": "Saburo is reading a book at the library."
+  },
+  {
+    "sentence": "一郎は新しい自転車を買いました。",
+    "sentence_furigana": "一郎【いちろう】は新【あたら】しい自転車【じてんしゃ】を買【か】いました。",
+    "meaning": "Ichiro bought a new bicycle."
+  },
+  {
+    "sentence": "四郎は来週、東京へ行きます。",
+    "sentence_furigana": "四郎【しろう】は来週【らいしゅう】、東京【とうきょう】へ行【い】きます。",
+    "meaning": "Shiro will go to Tokyo next week."
+  },
+  {
+    "sentence": "五郎は音楽を聴くのが好きです。",
+    "sentence_furigana": "五郎【ごろう】は音楽【おんがく】を聴【き】くのが好【す】きです。",
+    "meaning": "Goro likes listening to music."
+  },
+  {
+    "sentence": "六郎はクラスで一番背が高いです。",
+    "sentence_furigana": "六郎【ろくろう】はクラスで一番【いちばん】背【せ】が高【たか】いです。",
+    "meaning": "Rokuro is the tallest in the class."
+  },
+  {
+    "sentence": "七郎は早く宿題を終えました。",
+    "sentence_furigana": "七郎【しちろう】は早【はや】く宿題【しゅくだい】を終【お】えました。",
+    "meaning": "Shichiro finished his homework quickly."
+  },
+  {
+    "sentence": "八郎は友達と一緒に公園に行きました。",
+    "sentence_furigana": "八郎【はちろう】は友達【ともだち】と一緒【いっしょ】に公園【こうえん】に行【い】きました。",
+    "meaning": "Hachiro went to the park with his friends."
+  },
+  {
+    "sentence": "九郎は新しい単語を覚えています。",
+    "sentence_furigana": "九郎【くろう】は新【あたら】しい単語【たんご】を覚【おぼ】えています。",
+    "meaning": "Kuro is memorizing new vocabulary."
+  },
+  {
+    "sentence": "十郎は将来、医者になりたいです。",
+    "sentence_furigana": "十郎【じゅうろう】は将来【しょうらい】、医者【いしゃ】になりたいです。",
+    "meaning": "Juro wants to become a doctor in the future."
+  },
+  {
+    "sentence": "太郎くんはとても礼儀正しいです。",
+    "sentence_furigana": "太郎【たろう】くんはとても礼儀正【れいぎただ】しいです。",
+    "meaning": "Taro-kun is very polite."
+  },
+  {
+    "sentence": "次郎さんの声はよく通ります。",
+    "sentence_furigana": "次郎【じろう】さんの声【こえ】はよく通【とお】ります。",
+    "meaning": "Jiro-san's voice carries well."
+  },
+  {
+    "sentence": "三郎先生は親切な方です。",
+    "sentence_furigana": "三郎【さぶろう】先生【せんせい】は親切【しんせつ】な方【かた】です。",
+    "meaning": "Saburo-sensei is a kind person."
+  },
+  {
+    "sentence": "一郎選手の活躍を期待しています。",
+    "sentence_furigana": "一郎【いちろう】選手【せんしゅ】の活躍【かつやく】を期待【きたい】しています。",
+    "meaning": "We expect great performance from player Ichiro."
+  },
+  {
+    "sentence": "四郎は美術部に所属しています。",
+    "sentence_furigana": "四郎【しろう】は美術部【びじゅつぶ】に所属【しょぞく】しています。",
+    "meaning": "Shiro belongs to the art club."
+  },
+  {
+    "sentence": "五郎は歴史に興味があります。",
+    "sentence_furigana": "五郎【ごろう】は歴史【れきし】に興味【きょうみ】があります。",
+    "meaning": "Goro is interested in history."
+  },
+  {
+    "sentence": "六郎は猫を飼っています。",
+    "sentence_furigana": "六郎【ろくろう】は猫【ねこ】を飼【か】っています。",
+    "meaning": "Rokuro has a cat."
+  },
+  {
+    "sentence": "七郎は新しいアイデアを提案しました。",
+    "sentence_furigana": "七郎【しちろう】は新【あたら】しいアイデアを提案【ていあん】しました。",
+    "meaning": "Shichiro proposed a new idea."
+  },
+  {
+    "sentence": "八郎は毎朝早く起きます。",
+    "sentence_furigana": "八郎【はちろう】は毎朝【まいあさ】早【はや】く起【お】きます。",
+    "meaning": "Hachiro wakes up early every morning."
+  },
+  {
+    "sentence": "九郎は数学の宿題を手伝ってくれました。",
+    "sentence_furigana": "九郎【くろう】は数学【すうがく】の宿題【しゅくだい】を手伝【てつだ】ってくれました。",
+    "meaning": "Kuro helped me with my math homework."
+  },
+  {
+    "sentence": "十郎は週末に家族と過ごします。",
+    "sentence_furigana": "十郎【じゅうろう】は週末【しゅうまつ】に家族【かぞく】と過【す】ごします。",
+    "meaning": "Juro spends weekends with his family."
+  },
+  {
+    "sentence": "太郎は絵を描くのが上手です。",
+    "sentence_furigana": "太郎【たろう】は絵【え】を描【か】くのが上手【じょうず】です。",
+    "meaning": "Taro is good at drawing pictures."
+  },
+  {
+    "sentence": "次郎は新しい本を読み始めました。",
+    "sentence_furigana": "次郎【じろう】は新【あたら】しい本【ほん】を読【よ】み始【はじ】めました。",
+    "meaning": "Jiro started reading a new book."
+  },
+  {
+    "sentence": "三郎は公園で子供たちと遊んでいます。",
+    "sentence_furigana": "三郎【さぶろう】は公園【こうえん】で子供【こども】たちと遊【あそ】んでいます。",
+    "meaning": "Saburo is playing with children in the park."
+  },
+  {
+    "sentence": "一郎はチームのリーダーです。",
+    "sentence_furigana": "一郎【いちろう】はチームのリーダーです。",
+    "meaning": "Ichiro is the team leader."
+  },
+  {
+    "sentence": "四郎は電車で通勤しています。",
+    "sentence_furigana": "四郎【しろう】は電車【でんしゃ】で通勤【つうきん】しています。",
+    "meaning": "Shiro commutes by train."
+  },
+  {
+    "sentence": "五郎は美味しい料理を作ります。",
+    "sentence_furigana": "五郎【ごろう】は美味【おい】しい料理【りょうり】を作【つく】ります。",
+    "meaning": "Goro cooks delicious food."
+  },
+  {
+    "sentence": "六郎は明日の会議の準備をしています。",
+    "sentence_furigana": "六郎【ろくろう】は明日【あす】の会議【かいぎ】の準備【じゅんび】をしています。",
+    "meaning": "Rokuro is preparing for tomorrow's meeting."
+  },
+  {
+    "sentence": "七郎は新しいスキルを学んでいます。",
+    "sentence_furigana": "七郎【しちろう】は新【あたら】しいスキルを学【まな】んでいます。",
+    "meaning": "Shichiro is learning new skills."
+  },
+  {
+    "sentence": "八郎は週末にハイキングに行きました。",
+    "sentence_furigana": "八郎【はちろう】は週末【しゅうまつ】にハイキングに行【い】きました。",
+    "meaning": "Hachiro went hiking on the weekend."
+  },
+  {
+    "sentence": "九郎は祖父から古い話を聞きました。",
+    "sentence_furigana": "九郎【くろう】は祖父【そふ】から古【ふる】い話【はなし】を聞【き】きました。",
+    "meaning": "Kuro heard an old story from his grandfather."
+  },
+  {
+    "sentence": "十郎は彼女にプレゼントを贈りました。",
+    "sentence_furigana": "十郎【じゅうろう】は彼女【かのじょ】にプレゼントを贈【おく】りました。",
+    "meaning": "Juro gave her a present."
+  },
+  {
+    "sentence": "太郎は英語を勉強しています。",
+    "sentence_furigana": "太郎【たろう】は英語【えいご】を勉強【べんきょう】しています。",
+    "meaning": "Taro is studying English."
+  },
+  {
+    "sentence": "次郎はスポーツ観戦が好きです。",
+    "sentence_furigana": "次郎【じろう】はスポーツ観戦【かんせん】が好【す】きです。",
+    "meaning": "Jiro likes watching sports."
+  },
+  {
+    "sentence": "三郎は新しいレストランに行きました。",
+    "sentence_furigana": "三郎【さぶろう】は新【あたら】しいレストランに行【い】きました。",
+    "meaning": "Saburo went to a new restaurant."
+  },
+  {
+    "sentence": "一郎は健康のために毎日運動します。",
+    "sentence_furigana": "一郎【いちろう】は健康【けんこう】のため毎日【まいにち】運動【うんどう】します。",
+    "meaning": "Ichiro exercises daily for his health."
+  },
+  {
+    "sentence": "四郎は友人の誕生日パーティーに行きました。",
+    "sentence_furigana": "四郎【しろう】は友人【ゆうじん】の誕生日【たんじょうび】パーティーに行【い】きました。",
+    "meaning": "Shiro went to his friend's birthday party."
+  },
+  {
+    "sentence": "五郎は趣味で絵を描いています。",
+    "sentence_furigana": "五郎【ごろう】は趣味【しゅみ】で絵【え】を描【か】いています。",
+    "meaning": "Goro paints as a hobby."
+  },
+  {
+    "sentence": "六郎は家族旅行の計画を立てています。",
+    "sentence_furigana": "六郎【ろくろう】は家族旅行【かぞくりょこう】の計画【けいかく】を立【た】てています。",
+    "meaning": "Rokuro is planning a family trip."
+  },
+  {
+    "sentence": "七郎は大学で経済学を専攻しています。",
+    "sentence_furigana": "七郎【しちろう】は大学【だいがく】で経済学【けいざいがく】を専攻【せんこう】しています。",
+    "meaning": "Shichiro is majoring in economics at university."
+  },
+  {
+    "sentence": "八郎は古い写真を整理していました。",
+    "sentence_furigana": "八郎【はちろう】は古【ふる】い写真【しゃしん】を整理【せいり】していました。",
+    "meaning": "Hachiro was organizing old photographs."
+  },
+  {
+    "sentence": "九郎は弟と一緒にゲームをしています。",
+    "sentence_furigana": "九郎【くろう】は弟【おとうと】と一緒【いっしょ】にゲームをしています。",
+    "meaning": "Kuro is playing games with his younger brother."
+  },
+  {
+    "sentence": "十郎は新しいプロジェクトに参加しました。",
+    "sentence_furigana": "十郎【じゅうろう】は新【あたら】しいプロジェクトに参加【さんか】しました。",
+    "meaning": "Juro participated in a new project."
+  },
+  {
+    "sentence": "太郎は公園で犬を散歩させています。",
+    "sentence_furigana": "太郎【たろう】は公園【こうえん】で犬【いぬ】を散歩【さんぽ】させています。",
+    "meaning": "Taro is walking his dog in the park."
+  },
+  {
+    "sentence": "次郎は友人の相談に乗っています。",
+    "sentence_furigana": "次郎【じろう】は友人【ゆうじん】の相談【そうだん】に乗【の】っています。",
+    "meaning": "Jiro is listening to his friend's troubles."
+  },
+  {
+    "sentence": "三郎は新しいスマートフォンを購入しました。",
+    "sentence_furigana": "三郎【さぶろう】は新【あたら】しいスマートフォンを購入【こうにゅう】しました。",
+    "meaning": "Saburo purchased a new smartphone."
+  },
+  {
+    "sentence": "一郎は海外旅行に興味があります。",
+    "sentence_furigana": "一郎【いちろう】は海外旅行【かいがいりょこう】に興味【きょうみ】があります。",
+    "meaning": "Ichiro is interested in traveling abroad."
+  },
+  {
+    "sentence": "四郎は週末にボランティア活動をしています。",
+    "sentence_furigana": "四郎【しろう】は週末【しゅうまつ】にボランティア活動【かつどう】をしています。",
+    "meaning": "Shiro does volunteer activities on weekends."
+  },
+  {
+    "sentence": "五郎はギターを弾くのが得意です。",
+    "sentence_furigana": "五郎【ごろう】はギターを弾【ひ】くのが徳意【とくい】です。",
+    "meaning": "Goro is good at playing the guitar."
+  },
+  {
+    "sentence": "六郎は新しい言語を学んでいます。",
+    "sentence_furigana": "六郎【ろくろう】は新【あたら】しい言語【げんご】を学【まな】んでいます。",
+    "meaning": "Rokuro is learning a new language."
+  },
+  {
+    "sentence": "七郎は健康的な生活を心がけています。",
+    "sentence_furigana": "七郎【しちろう】は健康的【けんこうてき】な生活【せいかつ】を心【こころ】がけています。",
+    "meaning": "Shichiro strives for a healthy lifestyle."
+  },
+  {
+    "sentence": "八郎は古い家を改築しました。",
+    "sentence_furigana": "八郎【はちろう】は古【ふる】い家【いえ】を改築【かいちく】しました。",
+    "meaning": "Hachiro renovated an old house."
+  },
+  {
+    "sentence": "九郎は弟に自転車の乗り方を教えました。",
+    "sentence_furigana": "九郎【くろう】は弟【おとうと】に自転車【じてんしゃ】の乗【の】り方【かた】を教【おし】えました。",
+    "meaning": "Kuro taught his younger brother how to ride a bicycle."
+  },
+  {
+    "sentence": "十郎は新しいアルバイトを見つけました。",
+    "sentence_furigana": "十郎【じゅうろう】は新【あたら】しいアルバイトを見【み】つけました。",
+    "meaning": "Juro found a new part-time job."
+  },
+  {
+    "sentence": "太郎は学校の図書館で勉強しています。",
+    "sentence_furigana": "太郎【たろう】は学校【がっこう】の図書館【としょかん】で勉強【べんきょう】しています。",
+    "meaning": "Taro is studying at the school library."
+  },
+  {
+    "sentence": "次郎は新しい趣味を見つけました。",
+    "sentence_furigana": "次郎【じろう】は新【あたら】しい趣味【しゅみ】を見【み】つけました。",
+    "meaning": "Jiro found a new hobby."
+  },
+  {
+    "sentence": "三郎は公園でピクニックをしました。",
+    "sentence_furigana": "三郎【さぶろう】は公園【こうえん】でピクニックをしました。",
+    "meaning": "Saburo had a picnic in the park."
+  },
+  {
+    "sentence": "一郎は国際会議で発表しました。",
+    "sentence_furigana": "一郎【いちろう】は国際会議【こくさいかいぎ】で発表【はっぴょう】しました。",
+    "meaning": "Ichiro presented at an international conference."
+  },
+  {
+    "sentence": "四郎は新しい服を買いました。",
+    "sentence_furigana": "四郎【しろう】は新【あたら】しい服【ふく】を買【か】いました。",
+    "meaning": "Shiro bought new clothes."
+  },
+  {
+    "sentence": "五郎は料理教室に通っています。",
+    "sentence_furigana": "五郎【ごろう】は料理教室【りょうりきょうしつ】に通【かよ】っています。",
+    "meaning": "Goro attends cooking classes."
+  },
+  {
+    "sentence": "六郎は新しい映画を見に行きました。",
+    "sentence_furigana": "六郎【ろくろう】は新【あたら】しい映画【えいが】を見【み】に行【い】きました。",
+    "meaning": "Rokuro went to see a new movie."
+  },
+  {
+    "sentence": "七郎は新しいアイデアを思いつきました。",
+    "sentence_furigana": "七郎【しちろう】は新【あたら】しいアイデアを思【おも】いつきました。",
+    "meaning": "Shichiro came up with a new idea."
+  },
+  {
+    "sentence": "八郎は新しい本を予約しました。",
+    "sentence_furigana": "八郎【はちろう】は新【あたら】しい本【ほん】を予約【よやく】しました。",
+    "meaning": "Hachiro reserved a new book."
+  },
+  {
+    "sentence": "九郎は友人と一緒に博物館に行きました。",
+    "sentence_furigana": "九郎【くろう】は友人【ゆうじん】と一緒【いっしょ】に博物館【はくぶつかん】に行【い】きました。",
+    "meaning": "Kuro went to the museum with his friend."
+  },
+  {
+    "sentence": "十郎は新しい仕事に挑戦します。",
+    "sentence_furigana": "十郎【じゅうろう】は新【あたら】しい仕事【しごと】に挑戦【ちょうせん】します。",
+    "meaning": "Juro will challenge a new job."
+  },
+  {
+    "sentence": "太郎は図書館で歴史の本を借りてきました。",
+    "sentence_furigana": "太郎【たろう】は図書館【としょかん】で歴史【れきし】の本【ほん】を借【か】りてきました。",
+    "meaning": "Taro borrowed a history book from the library."
+  },
+  {
+    "sentence": "次郎は週末に新しいレシピを試しました。",
+    "sentence_furigana": "次郎【じろう】は週末【しゅうまつ】に新【あたら】しいレシピを試【ため】しました。",
+    "meaning": "Jiro tried a new recipe on the weekend."
+  },
+  {
+    "sentence": "三郎は新しい言語の学習を始めました。",
+    "sentence_furigana": "三郎【さぶろう】は新【あたら】しい言語【げんご】の学習【がくしゅう】を始【はじ】めました。",
+    "meaning": "Saburo started learning a new language."
+  },
+  {
+    "sentence": "一郎は新しいプロジェクトのリーダーに選ばれました。",
+    "sentence_furigana": "一郎【いちろう】は新【あたら】しいプロジェクトのリーダーに選【えら】ばれました。",
+    "meaning": "Ichiro was chosen as the leader for the new project."
+  },
+  {
+    "sentence": "四郎は新しい趣味として写真を始めました。",
+    "sentence_furigana": "四郎【しろう】は新【あたら】しい趣味【しゅみ】として写真【しゃしん】を始【はじ】めました。",
+    "meaning": "Shiro started photography as a new hobby."
+  },
+  {
+    "sentence": "五郎は健康のために毎日ジョギングをしています。",
+    "sentence_furigana": "五郎【ごろう】は健康【けんこう】のため毎日【まいにち】ジョギングをしています。",
+    "meaning": "Goro jogs every day for his health."
+  },
+  {
+    "sentence": "六郎は新しい音楽を聴いています。",
+    "sentence_furigana": "六郎【ろくろう】は新【あたら】しい音楽【おんがく】を聴【き】いています。",
+    "meaning": "Rokuro is listening to new music."
+  },
+  {
+    "sentence": "七郎は新しいスキルを習得しました。",
+    "sentence_furigana": "七郎【しちろう】は新【あたら】しいスキルを習得【しゅうとく】しました。",
+    "meaning": "Shichiro acquired new skills."
+  },
+  {
+    "sentence": "八郎は古い手紙を大切に保管しています。",
+    "sentence_furigana": "八郎【はちろう】は古【ふる】い手紙【てがみ】を大切【たいせつ】に保管【ほかん】しています。",
+    "meaning": "Hachiro carefully keeps old letters."
+  },
+  {
+    "sentence": "九郎は弟に宿題を手伝ってあげました。",
+    "sentence_furigana": "九郎【くろう】は弟【おとうと】に宿題【しゅくだい】を手伝【てつだ】ってあげました。",
+    "meaning": "Kuro helped his younger brother with his homework."
+  },
+  {
+    "sentence": "十郎は新しい会社で働き始めました。",
+    "sentence_furigana": "十郎【じゅうろう】は新【あたら】しい会社【かいしゃ】で働【はたら】き始【はじ】めました。",
+    "meaning": "Juro started working at a new company."
+  },
+  {
+    "sentence": "太郎は図書館で調べものをしています。",
+    "sentence_furigana": "太郎【たろう】は図書館【としょかん】で調【しら】べものをしています。",
+    "meaning": "Taro is doing research at the library."
+  },
+  {
+    "sentence": "次郎は新しい単語の意味を調べました。",
+    "sentence_furigana": "次郎【じろう】は新【あたら】しい単語【たんご】の意味【いみ】を調【しら】べました。",
+    "meaning": "Jiro looked up the meaning of a new word."
+  },
+  {
+    "sentence": "三郎は新しいクラスメートと友達になりました。",
+    "sentence_furigana": "三郎【さぶろう】は新【あたら】しいクラスメートと友達【ともだち】になりました。",
+    "meaning": "Saburo became friends with a new classmate."
+  },
+  {
+    "sentence": "一郎は新しいアイデアを思いつきました。",
+    "sentence_furigana": "一郎【いちろう】は新【あたら】しいアイデアを思【おも】いつきました。",
+    "meaning": "Ichiro thought of a new idea."
+  },
+  {
+    "sentence": "四郎は新しい本を読みました。",
+    "sentence_furigana": "四郎【しろう】は新【あたら】しい本【ほん】を読【よ】みました。",
+    "meaning": "Shiro read a new book."
+  },
+  {
+    "sentence": "五郎は新しいゲームを買いました。",
+    "sentence_furigana": "五郎【ごろう】は新【あたら】しいゲームを買【か】いました。",
+    "meaning": "Goro bought a new game."
+  },
+  {
+    "sentence": "六郎は新しいパソコンを使っています。",
+    "sentence_furigana": "六郎【ろくろう】は新【あたら】しいパソコンを使【つか】っています。",
+    "meaning": "Rokuro is using a new personal computer."
+  },
+  {
+    "sentence": "七郎は新しい友達と公園で会いました。",
+    "sentence_furigana": "七郎【しちろう】は新【あたら】しい友達【ともだち】と公園【こうえん】で会【あ】いました。",
+    "meaning": "Shichiro met a new friend in the park."
+  },
+  {
+    "sentence": "八郎は新しいアイデアについて話しました。",
+    "sentence_furigana": "八郎【はちろう】は新【あたら】しいアイデアについて話【はな】しました。",
+    "meaning": "Hachiro talked about a new idea."
+  },
+  {
+    "sentence": "九郎は弟に新しいおもちゃをあげました。",
+    "sentence_furigana": "九郎【くろう】は弟【おとうと】に新【あたら】しいおもちゃをあげました。",
+    "meaning": "Kuro gave his younger brother a new toy."
+  },
+  {
+    "sentence": "十郎は新しい計画を立てています。",
+    "sentence_furigana": "十郎【じゅうろう】は新【あたら】しい計画【けいかく】を立【た】てています。",
+    "meaning": "Juro is making a new plan."
+  },
+  {
+    "sentence": "太郎は新しい靴を履いています。",
+    "sentence_furigana": "太郎【たろう】は新【あたら】しい靴【くつ】を履【は】いています。",
+    "meaning": "Taro is wearing new shoes."
+  },
+  {
+    "sentence": "次郎は新しいプロジェクトに参加しました。",
+    "sentence_furigana": "次郎【じろう】は新【あたら】しいプロジェクトに参加【さんか】しました。",
+    "meaning": "Jiro participated in a new project."
+  },
+  {
+    "sentence": "三郎は新しい料理を作りました。",
+    "sentence_furigana": "三郎【さぶろう】は新【あたら】しい料理【りょうり】を作【つく】りました。",
+    "meaning": "Saburo made a new dish."
+  },
+  {
+    "sentence": "一郎は新しい自転車に乗っています。",
+    "sentence_furigana": "一郎【いちろう】は新【あたら】しい自転車【じてんしゃ】に乗【の】っています。",
+    "meaning": "Ichiro is riding a new bicycle."
+  },
+  {
+    "sentence": "四郎は新しい車を買いました。",
+    "sentence_furigana": "四郎【しろう】は新【あたら】しい車【くるま】を買【か】いました。",
+    "meaning": "Shiro bought a new car."
+  },
+  {
+    "sentence": "五郎は新しい場所を訪れました。",
+    "sentence_furigana": "五郎【ごろう】は新【あたら】しい場所【ばしょ】を訪【おとず】れました。",
+    "meaning": "Goro visited a new place."
+  },
+  {
+    "sentence": "六郎は新しいアイデアを提案しました。",
+    "sentence_furigana": "六郎【ろくろう】は新【あたら】しいアイデアを提案【ていあん】しました。",
+    "meaning": "Rokuro proposed a new idea."
+  },
+  {
+    "sentence": "七郎は新しい仕事を見つけました。",
+    "sentence_furigana": "七郎【しちろう】は新【あたら】しい仕事【しごと】を見【み】つけました。",
+    "meaning": "Shichiro found a new job."
+  },
+  {
+    "sentence": "八郎は新しい友達と出会いました。",
+    "sentence_furigana": "八郎【はちろう】は新【あたら】しい友達【ともだち】と出会【であ】いました。",
+    "meaning": "Hachiro met a new friend."
+  },
+  {
+    "sentence": "九郎は新しい文房具を買いました。",
+    "sentence_furigana": "九郎【くろう】は新【あたら】しい文房具【ぶんぼうぐ】を買【か】いました。",
+    "meaning": "Kuro bought new stationery."
+  },
+  {
+    "sentence": "十郎は新しいアプリを使ってみました。",
+    "sentence_furigana": "十郎【じゅうろう】は新【あたら】しいアプリを使【つか】ってみました。",
+    "meaning": "Juro tried a new app."
+  },
+  {
+    "sentence": "太郎は新しい言語を学び始めました。",
+    "sentence_furigana": "太郎【たろう】は新【あたら】しい言語【げんご】を学【まな】び始【はじ】めました。",
+    "meaning": "Taro started learning a new language."
+  },
+  {
+    "sentence": "次郎は新しいペットを飼い始めました。",
+    "sentence_furigana": "次郎【じろう】は新【あたら】しいペットを飼【か】い始【はじ】めました。",
+    "meaning": "Jiro started keeping a new pet."
+  },
+  {
+    "sentence": "三郎は新しい学校で頑張っています。",
+    "sentence_furigana": "三郎【さぶろう】は新【あたら】しい学校【がっこう】で頑張【がんば】っています。",
+    "meaning": "Saburo is working hard at his new school."
+  },
+  {
+    "sentence": "一郎は新しいプロジェクトを成功させました。",
+    "sentence_furigana": "一郎【いちろう】は新【あたら】しいプロジェクトを成功【せいこう】させました。",
+    "meaning": "Ichiro succeeded in the new project."
+  },
+  {
+    "sentence": "四郎は新しい趣味を見つけて楽しんでいます。",
+    "sentence_furigana": "四郎【しろう】は新【あたら】しい趣味【しゅみ】を見【み】つけて楽【たの】しんでいます。",
+    "meaning": "Shiro found a new hobby and is enjoying it."
+  }
+]

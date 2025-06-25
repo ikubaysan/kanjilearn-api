@@ -1,0 +1,457 @@
+[
+  {
+    "sentence": "温かい汁を飲むと体が温まる。",
+    "sentence_furigana": "温【あたた】かい汁【しる】を飲【の】むと体【からだ】が温【あたた】まる。",
+    "meaning": "Drinking warm soup warms the body."
+  },
+  {
+    "sentence": "この果物の汁はとても甘い。",
+    "sentence_furigana": "この果物【くだもの】の汁【しる】はとても甘【あま】い。",
+    "meaning": "The juice of this fruit is very sweet."
+  },
+  {
+    "sentence": "野菜のだし汁がおいしい。",
+    "sentence_furigana": "野菜【やさい】のだし汁【じる】がおいしい。",
+    "meaning": "The vegetable broth is delicious."
+  },
+  {
+    "sentence": "木の汁が手に付いた。",
+    "sentence_furigana": "木【き】の汁【しる】が手【て】に付【つ】いた。",
+    "meaning": "Sap from the tree got on my hands."
+  },
+  {
+    "sentence": "肉汁がたっぷり出ている。",
+    "sentence_furigana": "肉汁【にくじる】がたっぷり出【で】ている。",
+    "meaning": "There is plenty of gravy coming out."
+  },
+  {
+    "sentence": "傷口から膿のような汁が出た。",
+    "sentence_furigana": "傷口【きずぐち】から膿【うみ】のような汁【しる】が出【で】た。",
+    "meaning": "A pus-like fluid came out of the wound."
+  },
+  {
+    "sentence": "きのこのスープは風味豊かだ。",
+    "sentence_furigana": "きのこのスープは風味豊【ふうみゆた】かだ。",
+    "meaning": "Mushroom soup is rich in flavor."
+  },
+  {
+    "sentence": "オレンジの絞り汁を飲んだ。",
+    "sentence_furigana": "オレンジの絞【しぼ】り汁【じる】を飲【の】んだ。",
+    "meaning": "I drank freshly squeezed orange juice."
+  },
+  {
+    "sentence": "豚骨のスープが有名なお店だ。",
+    "sentence_furigana": "豚骨【とんこつ】のスープが有名【ゆうめい】なお店【みせ】だ。",
+    "meaning": "It's a shop famous for its tonkotsu soup."
+  },
+  {
+    "sentence": "この植物は樹液（木の汁）が多い。",
+    "sentence_furigana": "この植物【しょくぶつ】は樹液【じゅえき】（木【き】の汁【しる】）が多【おお】い。",
+    "meaning": "This plant has a lot of sap."
+  },
+  {
+    "sentence": "ステーキにかけるソースは肉汁から作られた。",
+    "sentence_furigana": "ステーキにかけるソースは肉汁【にくじる】から作【つく】られた。",
+    "meaning": "The sauce for the steak was made from the meat juices."
+  },
+  {
+    "sentence": "化膿した傷から黄色い汁が出てきた。",
+    "sentence_furigana": "化膿【かのう】した傷【きず】から黄色【きいろ】い汁【しる】が出【で】てきた。",
+    "meaning": "Yellow pus came out of the infected wound."
+  },
+  {
+    "sentence": "朝食に野菜ジュースを飲む。",
+    "sentence_furigana": "朝食【ちょうしょく】に野菜ジュースを飲【の】む。",
+    "meaning": "I drink vegetable juice for breakfast."
+  },
+  {
+    "sentence": "トムは果物から直接汁を絞り出した。",
+    "sentence_furigana": "トムは果物【くだもの】から直接【ちょくせつ】汁【しる】を絞【しぼ】り出【だ】した。",
+    "meaning": "Tom squeezed the juice directly from the fruit."
+  },
+  {
+    "sentence": "この料理は、鶏がらスープがベースになっている。",
+    "sentence_furigana": "この料理【りょうり】は、鶏がらスープがベースになっている。",
+    "meaning": "This dish is based on chicken broth."
+  },
+  {
+    "sentence": "カエデの木の汁を集めてメープルシロップを作る。",
+    "sentence_furigana": "カエデの木【き】の汁【しる】を集【あつ】めてメープルシロップを作【つく】る。",
+    "meaning": "Maple syrup is made by collecting sap from maple trees."
+  },
+  {
+    "sentence": "ローストビーフの肉汁はソースに最適だ。",
+    "sentence_furigana": "ローストビーフの肉汁【にくじる】はソースに最適【さいてき】だ。",
+    "meaning": "The gravy from roast beef is perfect for sauce."
+  },
+  {
+    "sentence": "傷口から分泌物（汁）が出続けている。",
+    "sentence_furigana": "傷口【きずぐち】から分泌物【ぶんぴつぶつ】（汁【しる】）が出【で】続【つづ】けている。",
+    "meaning": "Discharge (fluid) continues to come from the wound."
+  },
+  {
+    "sentence": "トマトジュースは栄養満点だ。",
+    "sentence_furigana": "トマトジュースは栄養満点【えいようまんてん】だ。",
+    "meaning": "Tomato juice is packed with nutrients."
+  },
+  {
+    "sentence": "レモン汁を少々加える。",
+    "sentence_furigana": "レモン汁【じる】を少々【しょうしょう】加【くわ】える。",
+    "meaning": "Add a little lemon juice."
+  },
+  {
+    "sentence": "この鍋は、牛骨から取った出汁で作る。",
+    "sentence_furigana": "この鍋【なべ】は、牛骨【ぎゅうこつ】から取【と】った出汁【だし】で作【つく】る。",
+    "meaning": "This hot pot is made with broth taken from beef bones."
+  },
+  {
+    "sentence": "朝露が草の葉から滴っていた（汁）。",
+    "sentence_furigana": "朝露【あさつゆ】が草【くさ】の葉【は】から滴【したた】っていた（汁【しる】）。",
+    "meaning": "Morning dew was dripping from the blades of grass (sap)."
+  },
+  {
+    "sentence": "野菜から出た汁も美味しい。",
+    "sentence_furigana": "野菜【やさい】から出【で】た汁【しる】も美味【おい】しい。",
+    "meaning": "The juice that came out of the vegetables is also delicious."
+  },
+  {
+    "sentence": "フライパンに残った肉汁はソースの基本となる。",
+    "sentence_furigana": "フライパンに残【のこ】った肉汁【にくじる】はソースの基本【きほん】となる。",
+    "meaning": "The meat juices left in the frying pan become the base for the sauce."
+  },
+  {
+    "sentence": "傷口に膿（うみ）のような汁が溜まっている。",
+    "sentence_furigana": "傷口【きずぐち】に膿【うみ】のような汁【しる】が溜【た】まっている。",
+    "meaning": "Pus-like fluid is accumulating in the wound."
+  },
+  {
+    "sentence": "果汁100パーセントのジュースは体に良い。",
+    "sentence_furigana": "果汁【かじゅう】100パーセントのジュースは体【からだ】に良【よ】い。",
+    "meaning": "100% fruit juice is good for your health."
+  },
+  {
+    "sentence": "お吸い物には澄んだ汁が欠かせない。",
+    "sentence_furigana": "お吸【す】い物【もの】には澄【す】んだ汁【しる】が欠【か】かせない。",
+    "meaning": "Clear broth is essential for clear soup."
+  },
+  {
+    "sentence": "この魚は身が締まっていて汁気がない。",
+    "sentence_furigana": "この魚【さかな】は身【み】が締【し】まっていて汁気【しるけ】がない。",
+    "meaning": "This fish is firm and has no juice."
+  },
+  {
+    "sentence": "肉汁を飛ばさないように注意して焼いた。",
+    "sentence_furigana": "肉汁【にくじる】を飛ば【とば】さないように注意【ちゅうい】して焼【や】いた。",
+    "meaning": "I was careful not to let the meat juices escape while grilling."
+  },
+  {
+    "sentence": "傷口から透明な汁が出ていた。",
+    "sentence_furigana": "傷口【きずぐち】から透明【とうめい】な汁【しる】が出【で】ていた。",
+    "meaning": "A clear fluid was coming out of the wound."
+  },
+  {
+    "sentence": "この野菜は汁気が多い。",
+    "sentence_furigana": "この野菜【やさい】は汁気【しるけ】が多【おお】い。",
+    "meaning": "This vegetable is very juicy."
+  },
+  {
+    "sentence": "お味噌汁は日本の家庭料理の定番だ。",
+    "sentence_furigana": "お味噌汁【みそしる】は日本【にほん】の家庭料理【かていりょうり】の定番【ていばん】だ。",
+    "meaning": "Miso soup is a staple of Japanese home cooking."
+  },
+  {
+    "sentence": "ステーキから流れ出る肉汁は美味しい。",
+    "sentence_furigana": "ステーキから流【なが】れ出【で】る肉汁【にくじる】は美味【おい】しい。",
+    "meaning": "The gravy flowing from the steak is delicious."
+  },
+  {
+    "sentence": " plantaの汁が肌に触れてかぶれた。",
+    "sentence_furigana": " plantaの汁【しる】が肌【はだ】に触【ふ】れてかぶれた。",
+    "meaning": "The sap of the plant touched my skin and caused a rash."
+  },
+  {
+    "sentence": "傷口から出る汁が衣服に付いた。",
+    "sentence_furigana": "傷口【きずぐち】から出【で】る汁【しる】が衣服【いふく】に付【つ】いた。",
+    "meaning": "The fluid from the wound stained the clothes."
+  },
+  {
+    "sentence": "果物本来の甘さを味わうためにジュースにした。",
+    "sentence_furigana": "果物【くだもの】本来【ほんらい】の甘【あま】さを味わ【あじわ】うためにジュースにした。",
+    "meaning": "I made juice to savor the natural sweetness of the fruit."
+  },
+  {
+    "sentence": "おでんの出汁は味が染みていて美味しい。",
+    "sentence_furigana": "おでんの出汁【だし】は味【あじ】が染【し】みていて美味【おい】しい。",
+    "meaning": "The broth for Oden is flavorful and delicious."
+  },
+  {
+    "sentence": "木の皮を剥くと白い汁が出てきた。",
+    "sentence_furigana": "木【き】の皮【かわ】を剥【む】くと白【しろ】い汁【しる】が出【で】てきた。",
+    "meaning": "When I peeled the bark, white sap came out."
+  },
+  {
+    "sentence": "この料理は、野菜から出る汁だけで味付けが十分だ。",
+    "sentence_furigana": "この料理【りょうり】は、野菜【やさい】から出【で】る汁【しる】だけで味付【あじつ】けが十分【じゅうぶん】だ。",
+    "meaning": "This dish is seasoned enough with just the juices from the vegetables."
+  },
+  {
+    "sentence": "肉汁を逃がさないように、強火で短時間焼く。",
+    "sentence_furigana": "肉汁【にくじる】を逃【のが】さないように、強火【つよび】で短時間【たんじかん】焼【や】く。",
+    "meaning": "Grill over high heat for a short time to prevent the meat juices from escaping."
+  },
+  {
+    "sentence": "傷口から膿（汁）が漏れているようだ。",
+    "sentence_furigana": "傷口【きずぐち】から膿【うみ】（汁【しる】）が漏【も】れているようだ。",
+    "meaning": "It seems like pus (fluid) is leaking from the wound."
+  },
+  {
+    "sentence": "新鮮なフルーツジュースは体に良い。",
+    "sentence_furigana": "新鮮【しんせん】なフルーツジュースは体【からだ】に良【よ】い。",
+    "meaning": "Fresh fruit juice is good for the body."
+  },
+  {
+    "sentence": "湯気と共に湯気（汁）が立ち上る。",
+    "sentence_furigana": "湯気【ゆげ】と共【とも】に湯気【ゆげ】（汁【しる】）が立【た】ち上【のぼ】る。",
+    "meaning": "Steam (vapor) rises with the steam."
+  },
+  {
+    "sentence": "そのスープは鶏ガラよりも野菜の出汁が効いている。",
+    "sentence_furigana": "そのスープは鶏ガラよりも野菜【やさい】の出汁【だし】が効【き】いている。",
+    "meaning": "That soup relies more on vegetable broth than chicken broth."
+  },
+  {
+    "sentence": "木の内側の汁（樹液）は甘い味がする。",
+    "sentence_furigana": "木【き】の内側【うちがわ】の汁【しる】（樹液【じゅえき】）は甘【あま】い味【あじ】がする。",
+    "meaning": "The sap (juice) from inside the tree tastes sweet."
+  },
+  {
+    "sentence": "肉汁がジューシーで美味しい。",
+    "sentence_furigana": "肉汁【にくじる】がジューシーで美味【おい】しい。",
+    "meaning": "The meat juice is juicy and delicious."
+  },
+  {
+    "sentence": "傷口から出た汁を拭き取った。",
+    "sentence_furigana": "傷口【きずぐち】から出【で】た汁【しる】を拭【ぬぐ】い取【と】った。",
+    "meaning": "I wiped off the fluid that came out of the wound."
+  },
+  {
+    "sentence": "このジュースは添加物が入っていない。",
+    "sentence_furigana": "このジュースは添加物【てんかぶつ】が入【はい】っていない。",
+    "meaning": "This juice contains no additives."
+  },
+  {
+    "sentence": "鍋物のつゆは具材から旨味が出る。",
+    "sentence_furigana": "鍋物【なべもの】のつゆは具材【ぐざい】から旨味【うまみ】が出【で】る。",
+    "meaning": "The broth for hot pot dishes gains flavor from the ingredients."
+  },
+  {
+    "sentence": "煮詰めた肉汁は濃厚なソースになる。",
+    "sentence_furigana": "煮詰【につ】めた肉汁【にくじる】は濃厚【のうこう】なソースになる。",
+    "meaning": "Reduced meat juices make a rich sauce."
+  },
+  {
+    "sentence": "樹液（汁）を採取するために木に穴を開けた。",
+    "sentence_furigana": "樹液【じゅえき】（汁【しる】）を採取【さいしゅ】するために木【き】に穴【あな】を開【あ】けた。",
+    "meaning": "A hole was made in the tree to collect sap (juice)."
+  },
+  {
+    "sentence": "傷口から変な汁が出てくる。",
+    "sentence_furigana": "傷口【きずぐち】から変【へん】な汁【しる】が出【で】てくる。",
+    "meaning": "A strange fluid is coming out of the wound."
+  },
+  {
+    "sentence": "この野菜は汁を吸いやすい。",
+    "sentence_furigana": "この野菜【やさい】は汁【しる】を吸【す】いやすい。",
+    "meaning": "This vegetable absorbs liquid easily."
+  },
+  {
+    "sentence": "焼き魚の汁は塩辛い。",
+    "sentence_furigana": "焼【や】き魚【さかな】の汁【しる】は塩辛【しおから】い。",
+    "meaning": "The juices from the grilled fish are salty."
+  },
+  {
+    "sentence": "肉汁を閉じ込めるように肉を焼いた。",
+    "sentence_furigana": "肉汁【にくじる】を閉【と】じ込【こ】めるように肉【にく】を焼【や】いた。",
+    "meaning": "The meat was grilled to seal in the juices."
+  },
+  {
+    "sentence": "傷口の汁が乾いてかさぶたになった。",
+    "sentence_furigana": "傷口【きずぐち】の汁【しる】が乾【かわ】いてかさぶたになった。",
+    "meaning": "The fluid from the wound dried and formed a scab."
+  },
+  {
+    "sentence": "このスープは鶏がらスープをベースにしている。",
+    "sentence_furigana": "このスープは鶏がらスープをベースにしている。",
+    "meaning": "This soup is based on chicken broth."
+  },
+  {
+    "sentence": "果物から出る天然の汁は体に優しい。",
+    "sentence_furigana": "果物【くだもの】から出【で】る天然【てんねん】の汁【しる】は体【からだ】に優【やさ】しい。",
+    "meaning": "Natural fruit juices are gentle on the body."
+  },
+  {
+    "sentence": "汁気を切ってから炒める。",
+    "sentence_furigana": "汁気【しるけ】を切【き】ってから炒【いた】める。",
+    "meaning": "Stir-fry after draining off the liquid."
+  },
+  {
+    "sentence": "おでんのつゆは染み込んでいて美味しい。",
+    "sentence_furigana": "おでんのつゆは染【し】み込【こ】んでいて美味【おい】しい。",
+    "meaning": "The broth of oden is flavorful and delicious."
+  },
+  {
+    "sentence": "肉汁がたっぷり含まれたハンバーグはジューシーだ。",
+    "sentence_furigana": "肉汁【にくじる】がたっぷり含【ふく】まれたハンバーグはジューシーだ。",
+    "meaning": "Hamburgers rich in meat juices are juicy."
+  },
+  {
+    "sentence": "木の汁が服に付いたので洗濯した。",
+    "sentence_furigana": "木【き】の汁【しる】が服【ふく】に付【つ】いたので洗濯【せんたく】した。",
+    "meaning": "The tree sap got on my clothes, so I washed them."
+  },
+  {
+    "sentence": "傷口から血のような汁が出てくる。",
+    "sentence_furigana": "傷口【きずぐち】から血【ち】のような汁【しる】が出【で】てくる。",
+    "meaning": "Blood-like fluid is coming out of the wound."
+  },
+  {
+    "sentence": "この野菜は加熱すると汁がたくさん出る。",
+    "sentence_furigana": "この野菜【やさい】は加熱【かねつ】すると汁【しる】がたくさん出【で】る。",
+    "meaning": "This vegetable releases a lot of juice when heated."
+  },
+  {
+    "sentence": "焼き鳥のタレは鶏の出汁がベースになっている。",
+    "sentence_furigana": "焼【や】き鳥【とり】のタレは鶏【とり】の出汁【だし】がベースになっている。",
+    "meaning": "The sauce for yakitori is based on chicken broth."
+  },
+  {
+    "sentence": "肉汁を逃がさず、ジューシーに仕上げる。",
+    "sentence_furigana": "肉汁【にくじる】を逃【のが】さず、ジューシーに仕上【しあ】げる。",
+    "meaning": "Finish it juicy without letting the meat juices escape."
+  },
+  {
+    "sentence": "傷口から滲み出る汁をガーゼで拭いた。",
+    "sentence_furigana": "傷口【きずぐち】から滲【にじ】み出【で】る汁【しる】をガーゼで拭【ぬぐ】った。",
+    "meaning": "I wiped the fluid seeping from the wound with gauze."
+  },
+  {
+    "sentence": "果汁を絞るための専用の器具を使う。",
+    "sentence_furigana": "果汁【かじゅう】を絞【しぼ】るための専用【せんよう】の器具【きぐ】を使【つか】う。",
+    "meaning": "Use a special tool for squeezing fruit juice."
+  },
+  {
+    "sentence": "うどんの汁は鰹節と昆布から取った出汁を使っている。",
+    "sentence_furigana": "うどんの汁【つゆ】は鰹節【かつおぶし】と昆布【こんぶ】から取【と】った出汁【だし】を使【つか】っている。",
+    "meaning": "The udon broth uses dashi made from bonito flakes and kelp."
+  },
+  {
+    "sentence": "この魚は焼いても身が硬くならず、汁が残る。",
+    "sentence_furigana": "この魚【さかな】は焼【や】いても身【み】が硬【かた】くならず、汁【しる】が残【のこ】る。",
+    "meaning": "This fish doesn't get tough when grilled and remains juicy."
+  },
+  {
+    "sentence": "肉汁を美味しく食べるためのソースです。",
+    "sentence_furigana": "肉汁【にくじる】を美味【おい】しく食【た】べるためのソースです。",
+    "meaning": "This is a sauce for enjoying meat juices deliciously."
+  },
+  {
+    "sentence": "樹液（汁）は甘くて栄養がある。",
+    "sentence_furigana": "樹液【じゅえき】（汁【しる】）は甘【あま】くて栄養【えいよう】がある。",
+    "meaning": "Tree sap (juice) is sweet and nutritious."
+  },
+  {
+    "sentence": "傷口から出ていた汁が止まった。",
+    "sentence_furigana": "傷口【きずぐち】から出【で】ていた汁【しる】が止【と】まった。",
+    "meaning": "The fluid that was coming out of the wound has stopped."
+  },
+  {
+    "sentence": "このスープは鶏の出汁が効いている。",
+    "sentence_furigana": "このスープは鶏【とり】の出汁【だし】が効【き】いている。",
+    "meaning": "This soup has a strong chicken broth flavor."
+  },
+  {
+    "sentence": "果物から直接ジュースを絞る。",
+    "sentence_furigana": "果物【くだもの】から直接【ちょくせつ】ジュースを絞【しぼ】る。",
+    "meaning": "Squeeze juice directly from the fruit."
+  },
+  {
+    "sentence": "鍋物のつゆは旨味が出て美味しい。",
+    "sentence_furigana": "鍋物【なべもの】のつゆは旨味【うまみ】が出【で】て美味【おい】しい。",
+    "meaning": "The broth for hot pot dishes is delicious with the released umami."
+  },
+  {
+    "sentence": "肉汁を封じ込めるために、強火で表面を焼く。",
+    "sentence_furigana": "肉汁【にくじる】を封【ふう】じ込【こ】めるために、強火【つよび】で表面【ひょうめん】を焼【や】く。",
+    "meaning": "Sear the surface over high heat to seal in the meat juices."
+  },
+  {
+    "sentence": "木の汁が衣類に付くとシミになりやすい。",
+    "sentence_furigana": "木【き】の汁【しる】が衣類【いるい】に付【つ】くとシミになりやすい。",
+    "meaning": "Tree sap can easily stain clothes."
+  },
+  {
+    "sentence": "傷口から膿（汁）が出てきたので、医師に見せた。",
+    "sentence_furigana": "傷口【きずぐち】から膿【うみ】（汁【しる】）が出【で】てきたので、医師【いし】に見【み】せた。",
+    "meaning": "Pus (fluid) came out of the wound, so I showed it to the doctor."
+  },
+  {
+    "sentence": "このジュースは天然の甘みが強い。",
+    "sentence_furigana": "このジュースは天然【てんねん】の甘【あま】みが強【つよ】い。",
+    "meaning": "This juice has a strong natural sweetness."
+  },
+  {
+    "sentence": "すき焼きの割り下は、肉や野菜の汁と混ざって美味しくなる。",
+    "sentence_furigana": "すき焼【や】きの割【わ】り下【した】は、肉【にく】や野菜【やさい】の汁【しる】と混【ま】ざって美味【おい】しくなる。",
+    "meaning": "The sukiyaki sauce becomes delicious as it mixes with the juices of the meat and vegetables."
+  },
+  {
+    "sentence": "肉汁が溢れ出るほどジューシーなステーキだ。",
+    "sentence_furigana": "肉汁【にくじる】が溢【あふ】れ出【で】るほどジューシーなステーキだ。",
+    "meaning": "It's a steak so juicy that the meat juices overflow."
+  },
+  {
+    "sentence": "カエデの木の汁を集めてシロップを作る。",
+    "sentence_furigana": "カエデの木【き】の汁【しる】を集【あつ】めてシロップを作【つく】る。",
+    "meaning": "Sap is collected from maple trees to make syrup."
+  },
+  {
+    "sentence": "傷口から出る汁は感染のサインかもしれない。",
+    "sentence_furigana": "傷口【きずぐち】から出【で】る汁【しる】は感染【かんせん】のサインかもしれない。",
+    "meaning": "The fluid from the wound might be a sign of infection."
+  },
+  {
+    "sentence": "この果物は皮を剥いても汁が出にくい。",
+    "sentence_furigana": "この果物【くだもの】は皮【かわ】を剥【む】いても汁【しる】が出【で】にくい。",
+    "meaning": "This fruit doesn't release much juice even when peeled."
+  },
+  {
+    "sentence": "お味噌汁の味は出汁で決まる。",
+    "sentence_furigana": "お味噌汁【みそしる】の味【あじ】は出汁【だし】で決【き】まる。",
+    "meaning": "The taste of miso soup depends on the broth."
+  },
+  {
+    "sentence": "肉汁を逃がさないように、肉を休ませることが重要だ。",
+    "sentence_furigana": "肉汁【にくじる】を逃【のが】さないように、肉【にく】を休【やす】ませることが重要【じゅうよう】だ。",
+    "meaning": "It is important to rest the meat to prevent the juices from escaping."
+  },
+  {
+    "sentence": "この植物は根から汁（水分）を吸い上げる。",
+    "sentence_furigana": "この植物【しょくぶつ】は根【ね】から汁【しる】（水分【すいぶん】）を吸【す】い上【あ】げる。",
+    "meaning": "This plant draws sap (moisture) from its roots."
+  },
+  {
+    "sentence": "傷口から黄色い汁が出ているので、洗浄した。",
+    "sentence_furigana": "傷口【きずぐち】から黄色【きいろ】い汁【しる】が出【で】ているので、洗浄【せんじょう】した。",
+    "meaning": "Yellow pus was coming out of the wound, so I washed it."
+  },
+  {
+    "sentence": "このスープは野菜の旨味が凝縮されている。",
+    "sentence_furigana": "このスープは野菜【やさい】の旨味【うまみ】が凝縮【ぎょうしゅく】されている。",
+    "meaning": "The flavor of the vegetables is concentrated in this soup."
+  },
+  {
+    "sentence": "肉汁が飛び散らないように注意して調理した。",
+    "sentence_furigana": "肉汁【にくじる】が飛【と】び散【ち】らないように注意【ちゅうい】して調理【ちょうり】した。",
+    "meaning": "I cooked carefully to prevent meat juices from splattering."
+  }
+]

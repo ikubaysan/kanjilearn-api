@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "パンを焼きました。",
+    "sentence_furigana": "パン【ぱん】を【を】焼【や】きました【きました】。",
+    "meaning": "I baked bread."
+  },
+  {
+    "sentence": "火が壁を焼いた。",
+    "sentence_furigana": "火【ひ】が【が】壁【かべ】を【を】焼【や】いた【いた】。",
+    "meaning": "The fire burned the wall."
+  },
+  {
+    "sentence": "この肉はよく焼けている。",
+    "sentence_furigana": "この【この】肉【にく】は【は】よく【よく】焼【や】けて【けて】いる【いる】。",
+    "meaning": "This meat is well-grilled."
+  },
+  {
+    "sentence": "太陽が肌を焼く。",
+    "sentence_furigana": "太陽【たいよう】が【が】肌【はだ】を【を】焼【や】く【く】。",
+    "meaning": "The sun burns my skin."
+  },
+  {
+    "sentence": "お好み焼きが好きです。",
+    "sentence_furigana": "お【お】好【この】み【み】焼【や】き【き】が【が】好【す】き【き】です【です】。",
+    "meaning": "I like Okonomiyaki."
+  },
+  {
+    "sentence": "彼は焼き鳥を焼いている。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】鳥【とり】を【を】焼【や】いている【いている】。",
+    "meaning": "He is grilling yakitori."
+  },
+  {
+    "sentence": "学校の校庭が燃えている。",
+    "sentence_furigana": "学校【がっこう】の【の】校庭【こうてい】が【が】燃【も】え【え】て【て】いる【いる】。",
+    "meaning": "The schoolyard is burning."
+  },
+  {
+    "sentence": "魚を塩焼きにする。",
+    "sentence_furigana": "魚【さかな】を【を】塩【しお】焼【や】き【き】に【に】する【する】。",
+    "meaning": "I will salt-grill the fish."
+  },
+  {
+    "sentence": "彼は日焼けで赤くなった。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】で【で】赤【あか】く【く】なった【なった】。",
+    "meaning": "He turned red from sunburn."
+  },
+  {
+    "sentence": "この建物は焼き払われた。",
+    "sentence_furigana": "この【この】建物【たてもの】は【は】焼【や】き【き】払【はら】われた【われた】。",
+    "meaning": "This building was burned down."
+  },
+  {
+    "sentence": "焼き芋は美味しい。",
+    "sentence_furigana": "焼【や】き【き】芋【いも】は【は】美味【おい】しい【しい】。",
+    "meaning": "Roasted sweet potatoes are delicious."
+  },
+  {
+    "sentence": "彼は怪我で体が焼けた。",
+    "sentence_furigana": "彼【かれ】は【は】怪我【けが】で【で】体【からだ】が【が】焼【や】けた【けた】。",
+    "meaning": "His body was burned from the injury."
+  },
+  {
+    "sentence": "ステーキを焼こう。",
+    "sentence_furigana": "ステーキ【すてーき】を【を】焼【や】こう【こう】。",
+    "meaning": "Let's grill steak."
+  },
+  {
+    "sentence": "熱で窓が焼けてしまった。",
+    "sentence_furigana": "熱【ねつ】で【で】窓【まど】が【が】焼【や】けて【けて】しまった【しまった】。",
+    "meaning": "The window got burned due to the heat."
+  },
+  {
+    "sentence": "炭火焼きの匂いがする。",
+    "sentence_furigana": "炭火【すみび】焼【や】き【き】の【の】匂【にお】い【い】が【が】する【する】。",
+    "meaning": "It smells like charcoal-grilled food."
+  },
+  {
+    "sentence": "古い写真が日焼けで色褪せた。",
+    "sentence_furigana": "古【ふる】い【い】写真【しゃしん】が【が】日【ひ】焼【や】け【け】で【で】色【いろ】褪【あ】せた【せた】。",
+    "meaning": "The old photograph faded due to sun exposure."
+  },
+  {
+    "sentence": "彼は焼き肉をたくさん食べた。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】肉【にく】を【を】たくさん【たくさん】食【た】べた【べた】。",
+    "meaning": "He ate a lot of grilled meat."
+  },
+  {
+    "sentence": "火事で家が焼失した。",
+    "sentence_furigana": "火事【かじ】で【で】家【いえ】が【が】焼【や】失【しっ】した【した】。",
+    "meaning": "The house was burned down in a fire."
+  },
+  {
+    "sentence": "鉄板で野菜を焼いています。",
+    "sentence_furigana": "鉄板【てっぱん】で【で】野菜【やさい】を【を】焼【や】いています【いています】。",
+    "meaning": "I am grilling vegetables on a hot plate."
+  },
+  {
+    "sentence": "その土地は焼畑農業に使われている。",
+    "sentence_furigana": "その【その】土地【とち】は【は】焼【や】き【き】畑【はた】農業【のうぎょう】に【に】使【つか】われている【われている】。",
+    "meaning": "That land is used for slash-and-burn agriculture."
+  },
+  {
+    "sentence": "彼は肌が焼けやすい体質だ。",
+    "sentence_furigana": "彼【かれ】は【は】肌【はだ】が【が】焼【や】け【け】やすい【やすい】体質【たいしつ】だ【だ】。",
+    "meaning": "He has a constitution that burns easily in the sun."
+  },
+  {
+    "sentence": "山が焼けた跡が残っている。",
+    "sentence_furigana": "山【やま】が【が】焼【や】けた【けた】跡【あと】が【が】残【のこ】っている【っている】。",
+    "meaning": "Traces of the mountain fire remain."
+  },
+  {
+    "sentence": "このパンは焼き色が足りない。",
+    "sentence_furigana": "この【この】パン【ぱん】は【は】焼【や】き【き】色【いろ】が【が】足【た】りない【りない】。",
+    "meaning": "This bread is not browned enough."
+  },
+  {
+    "sentence": "彼は焼き菓子を作っている。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】菓子【がし】を【を】作【つく】っている【っている】。",
+    "meaning": "He is making baked sweets."
+  },
+  {
+    "sentence": "雨が火を消したが、まだ煙が燻っている。",
+    "sentence_furigana": "雨【あめ】が【が】火【ひ】を【を】消【け】したが【したが】、【、】まだ【まだ】煙【けむり】が【が】燻【くすぶ】っている【っている】。",
+    "meaning": "The rain extinguished the fire, but the smoke is still smoldering."
+  },
+  {
+    "sentence": "彼は焼き物作りに興味がある。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】物【もの】作【づく】りに【に】興味【きょうみ】が【が】ある【ある】。",
+    "meaning": "He is interested in making pottery."
+  },
+  {
+    "sentence": "火は家を丸ごと焼いた。",
+    "sentence_furigana": "火【ひ】は【は】家【いえ】を【を】丸【まる】ごと【ごと】焼【や】いた【いた】。",
+    "meaning": "The fire burned the whole house."
+  },
+  {
+    "sentence": "彼は日焼け止めクリームを塗った。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】止【ど】め【め】クリーム【くりーむ】を【を】塗【ぬ】った【った】。",
+    "meaning": "He applied sunscreen."
+  },
+  {
+    "sentence": "焼き魚はヘルシーだ。",
+    "sentence_furigana": "焼【や】き【き】魚【さかな】は【は】ヘルシー【へるしー】だ【だ】。",
+    "meaning": "Grilled fish is healthy."
+  },
+  {
+    "sentence": "夏は日焼けしやすい。",
+    "sentence_furigana": "夏【なつ】は【は】日【ひ】焼【や】け【け】しやすい【やすい】。",
+    "meaning": "It's easy to get sunburned in the summer."
+  },
+  {
+    "sentence": "彼は古い書物を焼いた。",
+    "sentence_furigana": "彼【かれ】は【は】古【ふる】い【い】書物【しょもつ】を【を】焼【や】いた【いた】。",
+    "meaning": "He burned old books."
+  },
+  {
+    "sentence": "これは焦げ目がついた焼き物です。",
+    "sentence_furigana": "これ【これ】は【は】焦【こ】げ【げ】目【め】が【が】ついた【ついた】焼【や】き【き】物【もの】です【です】。",
+    "meaning": "This is a burned piece of pottery."
+  },
+  {
+    "sentence": "彼は焼き付け塗装をした。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】付【つ】け【け】塗装【とそう】を【を】した【した】。",
+    "meaning": "He did a baking finish coating."
+  },
+  {
+    "sentence": "その書類は焼却処分された。",
+    "sentence_furigana": "その【その】書類【しょるい】は【は】焼【しょう】却【きゃく】処分【しょぶん】された【された】。",
+    "meaning": "Those documents were incinerated."
+  },
+  {
+    "sentence": "焼き網を片付けましょう。",
+    "sentence_furigana": "焼【や】き【き】網【あみ】を【を】片付【かたづ】け【け】ましょう【ましょう】。",
+    "meaning": "Let's clean the grilling rack."
+  },
+  {
+    "sentence": "彼は焼き玉ねぎが好きだ。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】玉【たま】ねぎ【ねぎ】が【が】好【す】き【き】だ【だ】。",
+    "meaning": "He likes grilled onions."
+  },
+  {
+    "sentence": "この料理は炭火で焼く。",
+    "sentence_furigana": "この【この】料理【りょうり】は【は】炭火【すみび】で【で】焼【や】く【く】。",
+    "meaning": "This dish is grilled over charcoal."
+  },
+  {
+    "sentence": "彼は日焼けによる皮膚がんを心配している。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】に【に】よる【よる】皮膚【ひふ】がん【がん】を【を】心配【しんぱい】している【している】。",
+    "meaning": "He is worried about skin cancer caused by sunburn."
+  },
+  {
+    "sentence": "焼き絵の具で描かれた絵。",
+    "sentence_furigana": "焼【や】き【き】絵【え】の【の】具【ぐ】で【で】描【か】かれた【かれた】絵【え】。",
+    "meaning": "A painting made with pyrography."
+  },
+  {
+    "sentence": "山火事で多くの木々が焼失した。",
+    "sentence_furigana": "山火事【やまかじ】で【で】多【おお】くの【の】木々【きぎ】が【が】焼【や】失【しっ】した【した】。",
+    "meaning": "Many trees were lost in the forest fire."
+  },
+  {
+    "sentence": "彼は焼きそばを作っている。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】そば【そば】を【を】作【つく】っている【っている】。",
+    "meaning": "He is making yakisoba."
+  },
+  {
+    "sentence": "太陽光で物が焼ける。",
+    "sentence_furigana": "太陽光【たいようこう】で【で】物【もの】が【が】焼【や】ける【ける】。",
+    "meaning": "Objects can be burned by sunlight."
+  },
+  {
+    "sentence": "焼き印を押す。",
+    "sentence_furigana": "焼【や】き【き】印【いん】を【を】押【お】す【す】。",
+    "meaning": "To apply a brand."
+  },
+  {
+    "sentence": "彼は日焼けの跡が残っている。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】の【の】跡【あと】が【が】残【のこ】っている【っている】。",
+    "meaning": "He has sunburn marks."
+  },
+  {
+    "sentence": "焼き海苔はパリパリしている。",
+    "sentence_furigana": "焼【や】き【き】海苔【のり】は【は】パリパリ【ぱりぱり】している【している】。",
+    "meaning": "Roasted seaweed is crispy."
+  },
+  {
+    "sentence": "火は建物を焼いた。",
+    "sentence_furigana": "火【ひ】は【は】建物【たてもの】を【を】焼【や】いた【いた】。",
+    "meaning": "The fire burned the building."
+  },
+  {
+    "sentence": "彼は焼き魚を注文した。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】魚【さかな】を【を】注文【ちゅうもん】した【した】。",
+    "meaning": "He ordered grilled fish."
+  },
+  {
+    "sentence": "太陽が強すぎて肌が焼けた。",
+    "sentence_furigana": "太陽【たいよう】が【が】強【つよ】すぎて【すぎて】肌【はだ】が【が】焼【や】けた【けた】。",
+    "meaning": "The sun was too strong and my skin burned."
+  },
+  {
+    "sentence": "焼き鳥屋で働く。",
+    "sentence_furigana": "焼【や】き【き】鳥【とり】屋【や】で【で】働【はたら】く【く】。",
+    "meaning": "To work at a yakitori restaurant."
+  },
+  {
+    "sentence": "焼夷弾が投下された。",
+    "sentence_furigana": "焼【しょう】夷【い】弾【だん】が【が】投下【とうか】された【された】。",
+    "meaning": "Incendiary bombs were dropped."
+  },
+  {
+    "sentence": "彼は焼き絵を趣味にしている。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】絵【え】を【を】趣味【しゅみ】に【に】している【している】。",
+    "meaning": "He has pyrography as a hobby."
+  },
+  {
+    "sentence": "この肉はよく焼いてください。",
+    "sentence_furigana": "この【この】肉【にく】は【は】よく【よく】焼【や】いて【いて】ください【ください】。",
+    "meaning": "Please grill this meat well."
+  },
+  {
+    "sentence": "彼女は肌がすぐに焼ける。",
+    "sentence_furigana": "彼女【かのじょ】は【は】肌【はだ】が【が】すぐ【すぐ】に【に】焼【や】ける【ける】。",
+    "meaning": "Her skin tans easily."
+  },
+  {
+    "sentence": "焼き網の上で肉を焼く。",
+    "sentence_furigana": "焼【や】き【き】網【あみ】の【の】上【うえ】で【で】肉【にく】を【を】焼【や】く【く】。",
+    "meaning": "Grill meat on a rack."
+  },
+  {
+    "sentence": "彼は火事で家を焼いた。",
+    "sentence_furigana": "彼【かれ】は【は】火事【かじ】で【で】家【いえ】を【を】焼【や】いた【いた】。",
+    "meaning": "He burned his house in a fire."
+  },
+  {
+    "sentence": "日焼けした肌にはローションを塗る。",
+    "sentence_furigana": "日【ひ】焼【や】け【け】した【した】肌【はだ】に【に】は【は】ローション【ろーしょん】を【を】塗【ぬ】る【る】。",
+    "meaning": "Apply lotion to sunburned skin."
+  },
+  {
+    "sentence": "焼き芋を売る店。",
+    "sentence_furigana": "焼【や】き【き】芋【いも】を【を】売【う】る【る】店【みせ】。",
+    "meaning": "A shop selling roasted sweet potatoes."
+  },
+  {
+    "sentence": "彼の手は火傷で焼けていた。",
+    "sentence_furigana": "彼【かれ】の【の】手【て】は【は】火傷【やけど】で【で】焼【や】けて【けて】いた【いた】。",
+    "meaning": "His hands were burned from a burn."
+  },
+  {
+    "sentence": "その工場は焼夷弾の攻撃を受けた。",
+    "sentence_furigana": "その【その】工場【こうじょう】は【は】焼【しょう】夷【い】弾【だん】の【の】攻撃【こうげき】を【を】受【う】けた【けた】。",
+    "meaning": "The factory was attacked with incendiary bombs."
+  },
+  {
+    "sentence": "彼は焼き魚定食を頼んだ。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】魚【さかな】定食【ていしょく】を【を】頼【たの】んだ【んだ】。",
+    "meaning": "He ordered a grilled fish set meal."
+  },
+  {
+    "sentence": "パンが焦げてしまった。",
+    "sentence_furigana": "パン【ぱん】が【が】焦【こ】げ【げ】て【て】しまった【しまった】。",
+    "meaning": "The bread got burnt."
+  },
+  {
+    "sentence": "彼は焼き印でマークをつけた。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】印【いん】で【で】マーク【まーく】を【を】つけた【つけた】。",
+    "meaning": "He made a mark with a branding iron."
+  },
+  {
+    "sentence": "この焼き物は繊細な作りだ。",
+    "sentence_furigana": "この【この】焼【や】き【き】物【もの】は【は】繊細【せんさい】な【な】作【つく】り【り】だ【だ】。",
+    "meaning": "This pottery has a delicate craftsmanship."
+  },
+  {
+    "sentence": "彼は日焼け止めを忘れた。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】止【ど】め【め】を【を】忘【わす】れた【れた】。",
+    "meaning": "He forgot his sunscreen."
+  },
+  {
+    "sentence": "焼き肉を焼くための網。",
+    "sentence_furigana": "焼【や】き【き】肉【にく】を【を】焼【や】く【く】た【た】め【め】の【の】網【あみ】。",
+    "meaning": "A net for grilling yakiniku."
+  },
+  {
+    "sentence": "太陽で体が焼けてしまった。",
+    "sentence_furigana": "太陽【たいよう】で【で】体【からだ】が【が】焼【や】けて【けて】しまった【しまった】。",
+    "meaning": "My body got burned by the sun."
+  },
+  {
+    "sentence": "彼は焼き板の壁が好きだ。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】板【いた】の【の】壁【かべ】が【が】好【す】き【き】だ【だ】。",
+    "meaning": "He likes walls made of charred wood."
+  },
+  {
+    "sentence": "この料理は炭火で焼いて仕上げる。",
+    "sentence_furigana": "この【この】料理【りょうり】は【は】炭火【すみび】で【で】焼【や】いて【いて】仕上【しあ】げ【げ】る【る】。",
+    "meaning": "This dish is grilled over charcoal and finished."
+  },
+  {
+    "sentence": "彼は焼き付けられることを恐れている。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】付【つ】け【け】られる【られる】こと【こと】を【を】恐【おそ】れている【っている】。",
+    "meaning": "He fears being branded."
+  },
+  {
+    "sentence": "熱で包装紙が焼けた。",
+    "sentence_furigana": "熱【ねつ】で【で】包装紙【ほうそうし】が【が】焼【や】けた【けた】。",
+    "meaning": "The wrapping paper got scorched from the heat."
+  },
+  {
+    "sentence": "彼は日焼け防止のために帽子をかぶった。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】防止【ぼうし】の【の】ため【ため】に【に】帽子【ぼうし】を【を】かぶった【かぶった】。",
+    "meaning": "He wore a hat to prevent sunburn."
+  },
+  {
+    "sentence": "焼きおにぎりは香ばしい。",
+    "sentence_furigana": "焼【や】き【き】お【お】に【に】ぎ【ぎ】り【り】は【は】香【こう】ば【ば】しい【しい】。",
+    "meaning": "Grilled rice balls are fragrant."
+  },
+  {
+    "sentence": "彼は焼き芋を頬張った。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】芋【いも】を【を】頬張【ほおば】った【った】。",
+    "meaning": "He stuffed his mouth with roasted sweet potato."
+  },
+  {
+    "sentence": "火は畑を焼いた。",
+    "sentence_furigana": "火【ひ】は【は】畑【はたけ】を【を】焼【や】いた【いた】。",
+    "meaning": "The fire burned the field."
+  },
+  {
+    "sentence": "彼は焼き鳥を串に刺している。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】鳥【とり】を【を】串【くし】に【に】刺【さ】している【している】。",
+    "meaning": "He is skewering yakitori."
+  },
+  {
+    "sentence": "焼きすぎると硬くなる。",
+    "sentence_furigana": "焼【や】き【き】すぎ【すぎ】る【る】と【と】硬【かた】くなる【くなる】。",
+    "meaning": "It becomes tough if overcooked."
+  },
+  {
+    "sentence": "彼は日焼けで皮がむけた。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】で【で】皮【かわ】が【が】む【む】けた【けた】。",
+    "meaning": "His skin peeled due to sunburn."
+  },
+  {
+    "sentence": "この家は焼き直しが必要だ。",
+    "sentence_furigana": "この【この】家【いえ】は【は】焼【や】き【き】直【なお】し【し】が【が】必要【ひつよう】だ【だ】。",
+    "meaning": "This house needs to be rebuilt."
+  },
+  {
+    "sentence": "彼は焼き物展に行った。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】物【もの】展【てん】に【に】行【い】った【った】。",
+    "meaning": "He went to a pottery exhibition."
+  },
+  {
+    "sentence": "太陽熱で地面が焼ける。",
+    "sentence_furigana": "太陽熱【たいようねつ】で【で】地面【じめん】が【が】焼【や】ける【ける】。",
+    "meaning": "The ground gets scorched by solar heat."
+  },
+  {
+    "sentence": "彼は焼き菓子を売る店を開いた。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】菓子【がし】を【を】売【う】る【る】店【みせ】を【を】開【ひら】いた【いた】。",
+    "meaning": "He opened a shop selling baked sweets."
+  },
+  {
+    "sentence": "この料理は香ばしく焼けている。",
+    "sentence_furigana": "この【この】料理【りょうり】は【は】香【こう】ば【ば】しく【しく】焼【や】けて【けて】いる【いる】。",
+    "meaning": "This dish is grilled to a fragrant finish."
+  },
+  {
+    "sentence": "彼は焼き芋屋台を見つけた。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】芋【いも】屋台【やたい】を【を】見【み】つけた【つけた】。",
+    "meaning": "He found a roasted sweet potato stand."
+  },
+  {
+    "sentence": "火事で多くの文化財が焼失した。",
+    "sentence_furigana": "火事【かじ】で【で】多【おお】くの【の】文化財【ぶんかざい】が【が】焼【や】失【しっ】した【した】。",
+    "meaning": "Many cultural assets were lost in the fire."
+  },
+  {
+    "sentence": "彼は焼き鳥を焼くのが得意だ。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】鳥【とり】を【を】焼【や】く【く】の【の】が【が】得意【とくい】だ【だ】。",
+    "meaning": "He is good at grilling yakitori."
+  },
+  {
+    "sentence": "焼き網を片付ける。",
+    "sentence_furigana": "焼【や】き【き】網【あみ】を【を】片付【かたづ】ける【ける】。",
+    "meaning": "To clean the grilling rack."
+  },
+  {
+    "sentence": "彼女は日焼けで肌がひりひりする。",
+    "sentence_furigana": "彼女【かのじょ】は【は】日【ひ】焼【や】け【け】で【で】肌【はだ】が【が】ひりひり【ひりひり】する【する】。",
+    "meaning": "Her skin stings from sunburn."
+  },
+  {
+    "sentence": "彼は焼き菓子をたくさん作った。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】菓子【がし】を【を】たくさん【たくさん】作【つく】った【った】。",
+    "meaning": "He made a lot of baked sweets."
+  },
+  {
+    "sentence": "焼きそばを食べる。",
+    "sentence_furigana": "焼【や】き【き】そば【そば】を【を】食【た】べる【べる】。",
+    "meaning": "To eat yakisoba."
+  },
+  {
+    "sentence": "その古い家は焼けてしまった。",
+    "sentence_furigana": "その【その】古【ふる】い【い】家【いえ】は【は】焼【や】けて【けて】しまった【しまった】。",
+    "meaning": "That old house burned down."
+  },
+  {
+    "sentence": "彼は日焼け止めを塗り直した。",
+    "sentence_furigana": "彼【かれ】は【は】日【ひ】焼【や】け【け】止【ど】め【め】を【を】塗【ぬ】り【り】直【なお】した【した】。",
+    "meaning": "He reapplied sunscreen."
+  },
+  {
+    "sentence": "焼き鳥のたれは甘辛い。",
+    "sentence_furigana": "焼【や】き【き】鳥【とり】の【の】たれ【たれ】は【は】甘辛【あまから】い【い】。",
+    "meaning": "The yakitori sauce is sweet and savory."
+  },
+  {
+    "sentence": "彼は焼き場に向かった。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】場【ば】に【に】向【む】かった【かった】。",
+    "meaning": "He headed to the crematorium."
+  },
+  {
+    "sentence": "この焼き方は絶妙だ。",
+    "sentence_furigana": "この【この】焼【や】き【き】方【かた】は【は】絶妙【ぜつみょう】だ【だ】。",
+    "meaning": "This way of grilling is exquisite."
+  },
+  {
+    "sentence": "彼は焼き鳥弁当を買った。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】鳥【とり】弁当【べんとう】を【を】買【か】った【った】。",
+    "meaning": "He bought a yakitori bento box."
+  },
+  {
+    "sentence": "日焼けは肌に悪い影響を与える。",
+    "sentence_furigana": "日【ひ】焼【や】け【け】は【は】肌【はだ】に【に】悪【わる】い【い】影響【えいきょう】を【を】与【あた】える【える】。",
+    "meaning": "Sunburn has a bad effect on the skin."
+  },
+  {
+    "sentence": "彼は焼き網の上に肉を置いた。",
+    "sentence_furigana": "彼【かれ】は【は】焼【や】き【き】網【あみ】の【の】上【うえ】に【に】肉【にく】を【を】置【お】いた【いた】。",
+    "meaning": "He placed the meat on the grilling rack."
+  },
+  {
+    "sentence": "その島は火山活動で焼かれた。",
+    "sentence_furigana": "その【その】島【しま】は【は】火山活動【かざんかつどう】で【で】焼【や】かれた【かれた】。",
+    "meaning": "That island was scorched by volcanic activity."
+  }
+]

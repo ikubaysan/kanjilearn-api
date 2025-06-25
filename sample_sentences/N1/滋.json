@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "滋養のある食べ物を摂ることは大切だ。",
+    "sentence_furigana": "滋養【じよう】のある食【た】べものを摂【と】ることは大切【たいせつ】だ。",
+    "meaning": "It is important to consume nourishing food."
+  },
+  {
+    "sentence": "この地域は豊かな自然に恵まれている。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然【しぜん】に恵【めぐ】まれている。",
+    "meaning": "This region is blessed with abundant nature."
+  },
+  {
+    "sentence": "彼は滋味深い文章を書く。",
+    "sentence_furigana": "彼【かれ】は滋味深【じみぶか】い文章【ぶんしょう】を書【か】く。",
+    "meaning": "He writes profound and flavorful prose."
+  },
+  {
+    "sentence": "その植物は日に日に滋していく。",
+    "sentence_furigana": "その植物【しょくぶつ】は日【ひ】に日に日【ひ】に滋【し】していく。",
+    "meaning": "That plant is growing luxuriantly day by day."
+  },
+  {
+    "sentence": "滋賀県には美しい湖がある。",
+    "sentence_furigana": "滋賀県【しがけん】には美【うつく】しい湖【みずうみ】がある。",
+    "meaning": "There is a beautiful lake in Shiga Prefecture."
+  },
+  {
+    "sentence": "彼は滋食を求めて旅に出た。",
+    "sentence_furigana": "彼【かれ】は滋食【じしょく】を求【もと】めて旅【たび】に出【で】た。",
+    "meaning": "He set out on a journey seeking nourishing food."
+  },
+  {
+    "sentence": "その作家は滋味豊かな作品を生み出した。",
+    "sentence_furigana": "その作家【さっか】は滋味豊【じみゆた】かな作品【さくひん】を生【う】み出【だ】した。",
+    "meaning": "That author produced works rich in flavor and depth."
+  },
+  {
+    "sentence": "都市開発により緑が滋していく。",
+    "sentence_furigana": "都市開発【としかいはつ】により緑【みどり】が滋【し】していく。",
+    "meaning": "Greenery is becoming more luxuriant due to urban development."
+  },
+  {
+    "sentence": "滋養強壮に良いと言われている食品。",
+    "sentence_furigana": "滋養強壮【じようきよう】に良【よ】いとされている食品【しょくひん】。",
+    "meaning": "Foods that are said to be good for nourishment and strengthening."
+  },
+  {
+    "sentence": "子供の成長には滋味のある食事が不可欠だ。",
+    "sentence_furigana": "子供【こども】の成長【せいちよう】には滋味【じみ】のある食事【しょくじ】が不可欠【ふかけつ】だ。",
+    "meaning": "A nourishing meal is essential for a child's growth."
+  },
+  {
+    "sentence": "雨水が大地を滋えている。",
+    "sentence_furigana": "雨水【あまみず】が大地【だいち】を滋【し】えている。",
+    "meaning": "Rainwater nourishes the earth."
+  },
+  {
+    "sentence": "彼は滋味深い話をたくさん知っている。",
+    "sentence_furigana": "彼【かれ】は滋味深【じみぶか】い話【はなし】をたくさん知【し】っている。",
+    "meaning": "He knows many stories with depth and flavor."
+  },
+  {
+    "sentence": "滋賀県の特産品は鮒寿司である。",
+    "sentence_furigana": "滋賀県【しがけん】の特産品【とくさんひん】は鮒寿司【ふなずし】である。",
+    "meaning": "The specialty product of Shiga Prefecture is funazushi."
+  },
+  {
+    "sentence": "健康的な生活は滋養を促す。",
+    "sentence_furigana": "健康【けんこう】的【てき】な生活【せいかつ】は滋養【じよう】を促【うなが】す。",
+    "meaning": "A healthy lifestyle promotes nourishment."
+  },
+  {
+    "sentence": "その庭園はより豊かに滋していった。",
+    "sentence_furigana": "その庭園【ていえん】はより豊【ゆた】かに滋【し】していった。",
+    "meaning": "The garden became more and more luxuriant."
+  },
+  {
+    "sentence": "滋味深い小説を読んだ。",
+    "sentence_furigana": "滋味深【じみぶか】い小説【しょうせつ】を読【よ】んだ。",
+    "meaning": "I read a novel with depth and flavor."
+  },
+  {
+    "sentence": "滋養のある食事で体力を回復させた。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】で体力【たいりょく】を回復【かいふく】させた。",
+    "meaning": "I recovered my strength with nourishing food."
+  },
+  {
+    "sentence": "滋賀県の琵琶湖は有名だ。",
+    "sentence_furigana": "滋賀県【しがけん】の琵琶湖【びわこ】は有名【ゆうめい】だ。",
+    "meaning": "Lake Biwa in Shiga Prefecture is famous."
+  },
+  {
+    "sentence": "植物が滋しく育つ環境を整える。",
+    "sentence_furigana": "植物【しょくぶつ】が滋【し】しく育【そだ】つ環境【かんきよう】を整【ととの】える。",
+    "meaning": "Create an environment where plants can grow luxuriantly."
+  },
+  {
+    "sentence": "滋味あふれる料理を味わった。",
+    "sentence_furigana": "滋味【じみ】あふれる料理【りようり】を味わ【あじわ】った。",
+    "meaning": "I savored the flavorful cuisine."
+  },
+  {
+    "sentence": "彼は滋養のある食品を選んで食べている。",
+    "sentence_furigana": "彼【かれ】は滋養【じよう】のある食品【しょくひん】を選【えら】んで食【た】べている。",
+    "meaning": "He chooses and eats nourishing foods."
+  },
+  {
+    "sentence": "滋賀県は日本酒の産地としても知られている。",
+    "sentence_furigana": "滋賀県【しがけん】は日本酒【にほんしゆ】の産地【さんち】としても知【し】られている。",
+    "meaning": "Shiga Prefecture is also known as a production area for sake."
+  },
+  {
+    "sentence": "この肥料は植物をより豊かに滋させる。",
+    "sentence_furigana": "この肥料【ひりよう】は植物【しょくぶつ】をより豊【ゆた】かに滋【し】させる。",
+    "meaning": "This fertilizer makes plants more luxuriant."
+  },
+  {
+    "sentence": "彼女の言葉は滋味深い響きを持っていた。",
+    "sentence_furigana": "彼女【かのじよ】の言葉【ことば】は滋味深【じみぶか】い響【ひび】きを持【も】っていた。",
+    "meaning": "Her words had a deep and resonant quality."
+  },
+  {
+    "sentence": "滋養のある食事は健康の源となる。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】は健康【けんこう】の源【みなもと】となる。",
+    "meaning": "Nourishing food is the source of health."
+  },
+  {
+    "sentence": "この小説は読むほどに滋味が増してくる。",
+    "sentence_furigana": "この小説【しょうせつ】は読【よ】むほどに滋味【じみ】が増【ま】してくる。",
+    "meaning": "The more I read this novel, the more profound it becomes."
+  },
+  {
+    "sentence": "滋賀県の山々は緑豊かだ。",
+    "sentence_furigana": "滋賀県【しがけん】の山々【やまやま】は緑豊【みどりゆた】かだ。",
+    "meaning": "The mountains of Shiga Prefecture are lush and green."
+  },
+  {
+    "sentence": "その地域は草木が滋しく生い茂っている。",
+    "sentence_furigana": "その地域【ちいき】は草木【くさき】が滋【し】しく生【おい】しげっている。",
+    "meaning": "The plants in that region are growing luxuriantly."
+  },
+  {
+    "sentence": "彼は滋味深い体験をしたと語った。",
+    "sentence_furigana": "彼【かれ】は滋味深【じみぶか】い体験【たいけん】をしたと語【かた】った。",
+    "meaning": "He spoke of having a profound experience."
+  },
+  {
+    "sentence": "滋養のある飲み物でリフレッシュした。",
+    "sentence_furigana": "滋養【じよう】のある飲【の】み物【もの】でリフレッシュした。",
+    "meaning": "I refreshed myself with a nourishing drink."
+  },
+  {
+    "sentence": "雨が降り注ぎ、大地を滋えている。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り注【そそ】ぎ、大地【だいち】を滋【し】えている。",
+    "meaning": "Rain poured down, nourishing the earth."
+  },
+  {
+    "sentence": "この音楽は聴くほどに滋味が出てくる。",
+    "sentence_furigana": "この音楽【おんがく】は聴【き】くほどに滋味【じみ】が出【で】てくる。",
+    "meaning": "The more I listen to this music, the more depth it reveals."
+  },
+  {
+    "sentence": "滋賀県の伝統工芸品は魅力的だ。",
+    "sentence_furigana": "滋賀県【しがけん】の伝統工芸品【でんとうこうげいひん】は魅力的【みりよく】だ。",
+    "meaning": "Traditional crafts of Shiga Prefecture are charming."
+  },
+  {
+    "sentence": "彼は滋養満点の朝食をとった。",
+    "sentence_furigana": "彼【かれ】は滋養満点【じようまんてん】の朝食【ちょうしょく】をとった。",
+    "meaning": "He had a breakfast full of nourishment."
+  },
+  {
+    "sentence": "その庭は年々滋していくようだ。",
+    "sentence_furigana": "その庭【にわ】は年々【ねんねん】滋【し】していくようだ。",
+    "meaning": "The garden seems to be getting more luxuriant year by year."
+  },
+  {
+    "sentence": "滋味深い人生経験を積んできた。",
+    "sentence_furigana": "滋味深【じみぶか】い人生経験【じんせいけいけん】を積【つ】んできた。",
+    "meaning": "I have accumulated profound life experiences."
+  },
+  {
+    "sentence": "滋賀県の米は美味しい。",
+    "sentence_furigana": "滋賀県【しがけん】の米【こめ】は美味【おい】しい。",
+    "meaning": "Rice from Shiga Prefecture is delicious."
+  },
+  {
+    "sentence": "滋養のあるスープは体を温める。",
+    "sentence_furigana": "滋養【じよう】のあるスープは体【からだ】を温【あたた】める。",
+    "meaning": "Nourishing soup warms the body."
+  },
+  {
+    "sentence": "彼の話は滋味深く、興味深かった。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は滋味深【じみぶか】く、興味深【きようみぶか】かった。",
+    "meaning": "His story was profound and interesting."
+  },
+  {
+    "sentence": "この土地は作物が豊かに滋する。",
+    "sentence_furigana": "この土地【とち】は作物【さくもつ】が豊【ゆた】かに滋【し】する。",
+    "meaning": "Crops grow abundantly in this land."
+  },
+  {
+    "sentence": "滋賀県の自然は人を癒す力がある。",
+    "sentence_furigana": "滋賀県【しがけん】の自然【しぜん】は人【ひと】を癒【いや】す力【ちから】がある。",
+    "meaning": "The nature of Shiga Prefecture has the power to heal people."
+  },
+  {
+    "sentence": "滋養のある食事は心身の健康に良い。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】は心身【しんしん】の健康【けんこう】に良【よ】い。",
+    "meaning": "Nourishing food is good for mental and physical health."
+  },
+  {
+    "sentence": "彼は滋味深い味わいを追求している。",
+    "sentence_furigana": "彼【かれ】は滋味深【じみぶか】い味わ【あじわ】いを追求【ついきゅう】している。",
+    "meaning": "He pursues a deep and subtle flavor."
+  },
+  {
+    "sentence": "この地域では植物がより豊かに滋していく。",
+    "sentence_furigana": "この地域【ちいき】では植物【しょくぶつ】がより豊【ゆた】かに滋【し】していく。",
+    "meaning": "Plants are becoming more luxuriant in this region."
+  },
+  {
+    "sentence": "滋賀県の新しい観光名所を訪ねた。",
+    "sentence_furigana": "滋賀県【しがけん】の新【あら】たな観光名所【かんこうめいしょ】を訪【たず】ねた。",
+    "meaning": "I visited a new tourist spot in Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食べ物は健康を維持するのに役立つ。",
+    "sentence_furigana": "滋養【じよう】のある食【た】べ物【もの】は健康【けんこう】を維持【いじ】するのに役立【やくた】つ。",
+    "meaning": "Nourishing food helps maintain health."
+  },
+  {
+    "sentence": "彼の言葉には滋味がある。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には滋味【じみ】がある。",
+    "meaning": "His words have a deep resonance."
+  },
+  {
+    "sentence": "滋賀県の田園風景は美しい。",
+    "sentence_furigana": "滋賀県【しがけん】の田園風景【でんえんふうけい】は美【うつく】しい。",
+    "meaning": "The rural scenery of Shiga Prefecture is beautiful."
+  },
+  {
+    "sentence": "植物が元気に滋する。",
+    "sentence_furigana": "植物【しょくぶつ】が元気【げんき】に滋【し】する。",
+    "meaning": "Plants grow vigorously."
+  },
+  {
+    "sentence": "滋養のある食事は回復を早める。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】は回復【かいふく】を早【はや】める。",
+    "meaning": "Nourishing food speeds up recovery."
+  },
+  {
+    "sentence": "この本の滋味は読めば読むほど増す。",
+    "sentence_furigana": "この本【ほん】の滋味【じみ】は読【よ】めば読【よ】むほど増【ま】す。",
+    "meaning": "The depth of this book increases with each reading."
+  },
+  {
+    "sentence": "滋賀県の特産品である近江牛を味わった。",
+    "sentence_furigana": "滋賀県【しがけん】の特産品【とくさんひん】である近江牛【おうみぎゆう】を味わ【あじわ】った。",
+    "meaning": "I savored Omi beef, a specialty product of Shiga Prefecture."
+  },
+  {
+    "sentence": "彼の絵は見るほどに滋味深くなる。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】るほどに滋味深【じみぶか】くなる。",
+    "meaning": "His paintings become more profound the more you look at them."
+  },
+  {
+    "sentence": "滋養のある食品を摂取することが重要だ。",
+    "sentence_furigana": "滋養【じよう】のある食品【しょくひん】を摂取【せっしゅ】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to consume nourishing foods."
+  },
+  {
+    "sentence": "滋賀県の気候は過ごしやすい。",
+    "sentence_furigana": "滋賀県【しがけん】の気候【きこう】は過【す】ごしやすい。",
+    "meaning": "The climate in Shiga Prefecture is pleasant."
+  },
+  {
+    "sentence": "その植物は日当たりの良い場所でよく滋する。",
+    "sentence_furigana": "その植物【しょくぶつ】は日当【ひあ】たりの良【よ】い場所【ばしょ】でよく滋【し】する。",
+    "meaning": "That plant grows well in a sunny spot."
+  },
+  {
+    "sentence": "滋味深い人生を送りたい。",
+    "sentence_furigana": "滋味深【じみぶか】い人生【じんせい】を送【おく】りたい。",
+    "meaning": "I want to live a life full of depth and meaning."
+  },
+  {
+    "sentence": "滋賀県の温泉でリラックスした。",
+    "sentence_furigana": "滋賀県【しがけん】の温泉【おんせん】でリラックスした。",
+    "meaning": "I relaxed at a hot spring in Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のあるお茶は体に良い。",
+    "sentence_furigana": "滋養【じよう】のあるお茶【ちゃ】は体【からだ】に良【よ】い。",
+    "meaning": "Nourishing tea is good for the body."
+  },
+  {
+    "sentence": "彼の詩は読むほどに滋味が増す。",
+    "sentence_furigana": "彼【かれ】の詩【し】は読【よ】むほどに滋味【じみ】が増【ま】す。",
+    "meaning": "His poetry becomes more profound with each reading."
+  },
+  {
+    "sentence": "この肥料を使うと作物がより豊かに滋する。",
+    "sentence_furigana": "この肥料【ひりよう】を使【つか】うと作物【さくもつ】がより豊【ゆた】かに滋【し】する。",
+    "meaning": "Using this fertilizer makes crops grow more abundantly."
+  },
+  {
+    "sentence": "滋賀県の伝統的な祭りを楽しんだ。",
+    "sentence_furigana": "滋賀県【しがけん】の伝統的【でんとうてき】な祭【まつ】りを楽し【たの】しんだ。",
+    "meaning": "I enjoyed the traditional festivals of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食品をバランス良く摂取しよう。",
+    "sentence_furigana": "滋養【じよう】のある食品【しょくひん】をバランス良【よ】く摂取【せっしゅ】しよう。",
+    "meaning": "Let's consume a balanced diet of nourishing foods."
+  },
+  {
+    "sentence": "滋味深い言葉に感動した。",
+    "sentence_furigana": "滋味深【じみぶか】い言葉【ことば】に感動【かんどう】した。",
+    "meaning": "I was moved by his profound words."
+  },
+  {
+    "sentence": "滋賀県の自然の中でリフレッシュした。",
+    "sentence_furigana": "滋賀県【しがけん】の自然【しぜん】の中【なか】でリフレッシュした。",
+    "meaning": "I refreshed myself in the nature of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のあるスープは疲労回復に効果的だ。",
+    "sentence_furigana": "滋養【じよう】のあるスープは疲労回復【ひろうかいふく】に効果的【こうかてき】だ。",
+    "meaning": "Nourishing soup is effective for fatigue recovery."
+  },
+  {
+    "sentence": "この物語は読み返すたびに滋味が増す。",
+    "sentence_furigana": "この物語【ものがたり】は読【よ】み返【かえ】すたびに滋味【じみ】が増【ま】す。",
+    "meaning": "This story gains depth each time I reread it."
+  },
+  {
+    "sentence": "滋賀県でサイクリングを楽しんだ。",
+    "sentence_furigana": "滋賀県【しがけん】でサイクリングを楽し【たの】んだ。",
+    "meaning": "I enjoyed cycling in Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食事は健康維持に不可欠だ。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】は健康維持【けんこういじ】に不可欠【ふかけつ】だ。",
+    "meaning": "Nourishing meals are essential for maintaining health."
+  },
+  {
+    "sentence": "彼の芸術作品は滋味深く、見る者を惹きつける。",
+    "sentence_furigana": "彼【かれ】の芸術作品【げいじゅつさくひん】は滋味深【じみぶか】く、見【み】る者【もの】を惹【ひ】きつける。",
+    "meaning": "His artworks are profound and captivating to viewers."
+  },
+  {
+    "sentence": "滋賀県の琵琶湖周辺は美しい景観が広がっている。",
+    "sentence_furigana": "滋賀県【しがけん】の琵琶湖【びわこ】周辺【しゅうへん】は美【うつく】しい景観【けいかん】が広【ひろ】がっている。",
+    "meaning": "Beautiful scenery spreads around Lake Biwa in Shiga Prefecture."
+  },
+  {
+    "sentence": "この薬は滋養を助ける効果がある。",
+    "sentence_furigana": "この薬【くすり】は滋養【じよう】を助【たす】ける効果【こうか】がある。",
+    "meaning": "This medicine has the effect of aiding nourishment."
+  },
+  {
+    "sentence": "滋味あふれる人生を送りたいと願っている。",
+    "sentence_furigana": "滋味【じみ】あふれる人生【じんせい】を送【おく】りたいと願【ねが】っている。",
+    "meaning": "I hope to live a life full of depth and meaning."
+  },
+  {
+    "sentence": "滋賀県のお茶は品質が高い。",
+    "sentence_furigana": "滋賀県【しがけん】のお茶【ちゃ】は品質【ひんしつ】が高【たか】い。",
+    "meaning": "Tea from Shiga Prefecture is of high quality."
+  },
+  {
+    "sentence": "滋養のある飲み物は体に活力を与える。",
+    "sentence_furigana": "滋養【じよう】のある飲【の】み物【もの】は体【からだ】に活力【かつりよく】を与【あた】える。",
+    "meaning": "Nourishing drinks give vitality to the body."
+  },
+  {
+    "sentence": "彼の話は人生の滋味を教えてくれる。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は人生【じんせい】の滋味【じみ】を教【おし】えてくれる。",
+    "meaning": "His stories teach me the richness of life."
+  },
+  {
+    "sentence": "滋賀県の伝統芸能に触れる機会があった。",
+    "sentence_furigana": "滋賀県【しがけん】の伝統芸能【でんとうげいのう】に触【ふ】れる機会【きかい】があった。",
+    "meaning": "I had the opportunity to experience traditional performing arts of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食事で健康を増進させる。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】で健康【けんこう】を増進【ぞうしん】させる。",
+    "meaning": "Promote health with nourishing meals."
+  },
+  {
+    "sentence": "滋味深い表現が心に響いた。",
+    "sentence_furigana": "滋味深【じみぶか】い表現【ひようげん】が心【こころ】に響【ひび】いた。",
+    "meaning": "The profound expression resonated with my heart."
+  },
+  {
+    "sentence": "滋賀県の自然を満喫した。",
+    "sentence_furigana": "滋賀県【しがけん】の自然【しぜん】を満喫【まんきつ】した。",
+    "meaning": "I fully enjoyed the nature of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食品を選ぶことは健康管理の基本だ。",
+    "sentence_furigana": "滋養【じよう】のある食品【しょくひん】を選【えら】ぶことは健康管理【けんこうかんり】の基本【きほん】だ。",
+    "meaning": "Choosing nourishing foods is fundamental to health management."
+  },
+  {
+    "sentence": "彼の言葉には人生の滋味が詰まっている。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には人生【じんせい】の滋味【じみ】が詰【つ】まっている。",
+    "meaning": "His words are filled with the richness of life."
+  },
+  {
+    "sentence": "滋賀県の文化に触れる旅。",
+    "sentence_furigana": "滋賀県【しがけん】の文化【ぶんか】に触【ふ】れる旅【たび】。",
+    "meaning": "A trip to experience the culture of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食事で体調を整えよう。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】で体調【たいちょう】を整【ととの】えよう。",
+    "meaning": "Let's adjust our physical condition with nourishing meals."
+  },
+  {
+    "sentence": "彼の絵は見るほどに滋味が増す。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】るほどに滋味【じみ】が増【ま】す。",
+    "meaning": "His paintings gain depth with each viewing."
+  },
+  {
+    "sentence": "滋賀県の美しい風景に心を奪われた。",
+    "sentence_furigana": "滋賀県【しがけん】の美【うつく】しい風景【ふうけい】に心【こころ】を奪【うば】われた。",
+    "meaning": "I was captivated by the beautiful scenery of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある飲み物でエネルギーを補給した。",
+    "sentence_furigana": "滋養【じよう】のある飲【の】み物【もの】でエネルギーを補給【ほきゅう】した。",
+    "meaning": "I replenished my energy with a nourishing drink."
+  },
+  {
+    "sentence": "この詩は読むほどに滋味を増す。",
+    "sentence_furigana": "この詩【し】は読【よ】むほどに滋味【じみ】を増【ま】す。",
+    "meaning": "This poem becomes more profound with each reading."
+  },
+  {
+    "sentence": "滋賀県の歴史的な建造物を訪れた。",
+    "sentence_furigana": "滋賀県【しがけん】の歴史的【れきしてき】な建造物【けんぞうぶつ】を訪【おとず】れた。",
+    "meaning": "I visited historical buildings in Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食事は成長期の子どもに必要だ。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】は成長期【せいちようき】の子【こ】どもに必要【ひつよう】だ。",
+    "meaning": "Nourishing meals are necessary for children in their growth period."
+  },
+  {
+    "sentence": "彼の言葉は人生の滋味を物語っている。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は人生【じんせい】の滋味【じみ】を物語【ものがた】っている。",
+    "meaning": "His words tell of the richness of life."
+  },
+  {
+    "sentence": "滋賀県の豊かな食文化を体験した。",
+    "sentence_furigana": "滋賀県【しがけん】の豊【ゆた】かな食文化【しょくぶんか】を体験【たいけん】した。",
+    "meaning": "I experienced the rich food culture of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のあるおやつは子供の成長を助ける。",
+    "sentence_furigana": "滋養【じよう】のあるおやつは子供【こども】の成長【せいちよう】を助【たす】ける。",
+    "meaning": "Nourishing snacks help children grow."
+  },
+  {
+    "sentence": "滋味深い表現は、読者の心に長く留まる。",
+    "sentence_furigana": "滋味深【じみぶか】い表現【ひようげん】は、読者【どくしゃ】の心【こころ】に長【なが】く留【とど】まる。",
+    "meaning": "Profound expressions linger in the reader's mind."
+  },
+  {
+    "sentence": "滋賀県の夏の風物詩、彦根の祇園祭。",
+    "sentence_furigana": "滋賀県【しがけん】の夏【なつ】の風物詩【ふうぶつし】、彦根【ひこね】の祇園祭【ぎおんまつり】。",
+    "meaning": "Hikone's Gion Festival, a summer tradition of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食事は日々の活力を生み出す。",
+    "sentence_furigana": "滋養【じよう】のある食事【しょくじ】は日々【ひび】の活力【かつりよく】を生【う】み出【だ】す。",
+    "meaning": "Nourishing meals create daily vitality."
+  },
+  {
+    "sentence": "彼の人生経験は滋味深いものだった。",
+    "sentence_furigana": "彼【かれ】の人生経験【じんせいけいけん】は滋味深【じみぶか】いものだった。",
+    "meaning": "His life experiences were profound."
+  },
+  {
+    "sentence": "滋賀県の美しい自然環境を守りたい。",
+    "sentence_furigana": "滋賀県【しがけん】の美【うつく】しい自然環境【しぜんかんきよう】を守【まも】りたい。",
+    "meaning": "I want to protect the beautiful natural environment of Shiga Prefecture."
+  },
+  {
+    "sentence": "滋養のある食べ物は健康的な生活を支える。",
+    "sentence_furigana": "滋養【じよう】のある食【た】べ物【もの】は健康的【けんこうてき】な生活【せいかつ】を支【ささ】える。",
+    "meaning": "Nourishing foods support a healthy lifestyle."
+  },
+  {
+    "sentence": "滋味深い話を聞かせてくれた。",
+    "sentence_furigana": "滋味深【じみぶか】い話【はなし】を聞【き】かせてくれた。",
+    "meaning": "He told me a profound story."
+  },
+  {
+    "sentence": "滋賀県の湖国を巡る旅。",
+    "sentence_furigana": "滋賀県【しがけん】の湖国【ここく】を巡【めぐ】る旅【たび】。",
+    "meaning": "A journey through the lake region of Shiga Prefecture."
+  }
+]

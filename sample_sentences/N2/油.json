@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "テーブルの上の油を拭き取ってください。",
+    "sentence_furigana": "テーブルの上【うえ】の油【あぶら】を拭【ふ】き取【と】ってください。",
+    "meaning": "Please wipe the oil off the table."
+  },
+  {
+    "sentence": "この料理にはたくさんの油が使われています。",
+    "sentence_furigana": "この料理【りょうり】にはたくさんの油【あぶら】が使【つか】われています。",
+    "meaning": "A lot of oil is used in this dish."
+  },
+  {
+    "sentence": "揚げ物にはサラダ油が適しています。",
+    "sentence_furigana": "揚【あ】げ物【もの】にはサラダ油【あぶら】が適【てき】しています。",
+    "meaning": "Salad oil is suitable for fried foods."
+  },
+  {
+    "sentence": "エンジンオイルの量が不足しています。",
+    "sentence_furigana": "エンジンオイルの量【りょう】が不足【ふそく】しています。",
+    "meaning": "The engine oil level is low."
+  },
+  {
+    "sentence": "油絵を描くのが好きです。",
+    "sentence_furigana": "油絵【あぶらえ】を描【か】くのが好【す】きです。",
+    "meaning": "I like painting with oil paints."
+  },
+  {
+    "sentence": "この機械は潤滑油が必要です。",
+    "sentence_furigana": "この機械【きかい】は潤滑油【じゅんかつゆ】が必【ひつ】要【よう】です。",
+    "meaning": "This machine needs lubricating oil."
+  },
+  {
+    "sentence": "食用油の価格が上昇しています。",
+    "sentence_furigana": "食用油【しょくようゆ】の価格【かかく】が上昇【じょうしょう】しています。",
+    "meaning": "The price of cooking oil is rising."
+  },
+  {
+    "sentence": "車のエンジンに油を注しました。",
+    "sentence_furigana": "車【くるま】のエンジンに油【あぶら】を注【そそ】しました。",
+    "meaning": "I poured oil into the car's engine."
+  },
+  {
+    "sentence": "油で揚げたポテトは美味しい。",
+    "sentence_furigana": "油【あぶら】で揚【あ】げたポテトは美味【おい】しい。",
+    "meaning": "Potatoes fried in oil are delicious."
+  },
+  {
+    "sentence": "油漏れがないか点検してください。",
+    "sentence_furigana": "油漏【あぶらも】れがないか点検【てんけん】してください。",
+    "meaning": "Please check for oil leaks."
+  },
+  {
+    "sentence": "菜種油は健康に良いと言われています。",
+    "sentence_furigana": "菜種油【なたねゆ】は健康【けんこう】に良【よ】いと言【い】われています。",
+    "meaning": "Rapeseed oil is said to be good for health."
+  },
+  {
+    "sentence": "油断大敵と昔の人は言いました。",
+    "sentence_furigana": "油断大敵【ゆだんたいてき】と昔【むかし】の人【ひと】は言【い】いました。",
+    "meaning": "As the old saying goes, carelessness is the enemy."
+  },
+  {
+    "sentence": "バターも一種の動物性油脂です。",
+    "sentence_furigana": "バターも一種【いっしゅ】の動物性油脂【どうぶつせいゆし】です。",
+    "meaning": "Butter is also a type of animal fat."
+  },
+  {
+    "sentence": "彼女は油絵の才能がある。",
+    "sentence_furigana": "彼女【かのじょ】は油絵【あぶらえ】の才能【さいのう】がある。",
+    "meaning": "She has a talent for oil painting."
+  },
+  {
+    "sentence": "油ちょうの温度を調整してください。",
+    "sentence_furigana": "油ちょうの温度【おんど】を調整【ちょうせい】してください。",
+    "meaning": "Please adjust the frying oil temperature."
+  },
+  {
+    "sentence": "車のブレーキフルードは油の一種です。",
+    "sentence_furigana": "車【くるま】のブレーキフルードは油【あぶら】の一種【いっしゅ】です。",
+    "meaning": "Car brake fluid is a type of oil."
+  },
+  {
+    "sentence": "油断していると、思わぬ失敗をするかもしれません。",
+    "sentence_furigana": "油断【ゆだん】していると、思【おも】わぬ失敗【しっぱい】をするかもしれません。",
+    "meaning": "If you let your guard down, you might make an unexpected mistake."
+  },
+  {
+    "sentence": "この油絵の具は乾きにくい。",
+    "sentence_furigana": "この油絵具【あぶらえのぐ】は乾【かわ】きにくい。",
+    "meaning": "This oil paint is slow to dry."
+  },
+  {
+    "sentence": "フライパンに油をひいて卵を焼きます。",
+    "sentence_furigana": "フライパンに油【あぶら】をひいて卵【たまご】を焼【や】きます。",
+    "meaning": "I put oil in the frying pan and fried an egg."
+  },
+  {
+    "sentence": "灯油はストーブの燃料になります。",
+    "sentence_furigana": "灯油【とうゆ】はストーブの燃料【ねんりょう】になります。",
+    "meaning": "Kerosene becomes fuel for the stove."
+  },
+  {
+    "sentence": "油圧で重いものを持ち上げることができます。",
+    "sentence_furigana": "油圧【ゆあつ】で重【おも】いものを持【も】ち上【あ】げることができます。",
+    "meaning": "Heavy objects can be lifted by hydraulic pressure."
+  },
+  {
+    "sentence": "この化粧品には鉱物油が含まれています。",
+    "sentence_furigana": "この化粧品【けしょうひん】には鉱物油【こうぶつゆ】が含【ふく】まれています。",
+    "meaning": "This cosmetic contains mineral oil."
+  },
+  {
+    "sentence": "油の染みた雑巾は火をつけやすい。",
+    "sentence_furigana": "油の染【し】みた雑巾【ぞうきん】は火【ひ】をつ⎟やすい。",
+    "meaning": "Rags soaked in oil are easily ignited."
+  },
+  {
+    "sentence": "油でベトベトした手を洗ってください。",
+    "sentence_furigana": "油【あぶら】でベトベトした手【て】を洗【あら】ってください。",
+    "meaning": "Please wash your greasy hands."
+  },
+  {
+    "sentence": "彼の絵は油絵の技法を使っています。",
+    "sentence_furigana": "彼【かれ】の絵【え】は油絵【あぶらえ】の技法【ぎほう】を使【つか】っています。",
+    "meaning": "His paintings use oil painting techniques."
+  },
+  {
+    "sentence": "油揚げは日本の伝統的な食材です。",
+    "sentence_furigana": "油揚【あぶらあ】げは日本【にほん】の伝統的【でんとうてき】な食材【しょくざい】です。",
+    "meaning": "Aburaage is a traditional Japanese food ingredient."
+  },
+  {
+    "sentence": "この油は酸化しやすいので注意が必要です。",
+    "sentence_furigana": "この油【あぶら】は酸化【さんか】しやすいので注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "This oil oxidizes easily, so caution is necessary."
+  },
+  {
+    "sentence": "自転車のチェーンに油を差してください。",
+    "sentence_furigana": "自転車【じてんしゃ】のチェーンに油【あぶら】を差【さ】してください。",
+    "meaning": "Please oil the bicycle chain."
+  },
+  {
+    "sentence": "油圧ショベルで土を掘削しています。",
+    "sentence_furigana": "油圧ショベルで土【つち】を掘削【くっさく】しています。",
+    "meaning": "Excavating soil with a hydraulic excavator."
+  },
+  {
+    "sentence": "油断せず、常に準備を怠らないようにしましょう。",
+    "sentence_furigana": "油断【ゆだん】せず、常【つね】に準備【じゅんび】を怠【おこた】らないようにしましょう。",
+    "meaning": "Let's not be careless and always be prepared."
+  },
+  {
+    "sentence": "この油絵の具は発色が鮮やかだ。",
+    "sentence_furigana": "この油絵具【あぶらえのぐ】は発色【はっしょく】が鮮【あざ】やかだ。",
+    "meaning": "These oil paints have vivid colors."
+  },
+  {
+    "sentence": "油っぽい食べ物は健康に良くない。",
+    "sentence_furigana": "油【あぶら】っぽい食【た】べ物【もの】は健康【けんこう】に良【よ】くない。",
+    "meaning": "Oily foods are not good for your health."
+  },
+  {
+    "sentence": "車の点検には油の種類も確認することが含まれます。",
+    "sentence_furigana": "車【くるま】の点検【てんけん】には油【あぶら】の種類【しゅるい】も確認【かくにん】することが含【ふく】まれます。",
+    "meaning": "Car inspection includes checking the type of oil."
+  },
+  {
+    "sentence": "油田から石油が採掘されています。",
+    "sentence_furigana": "油田【ゆでん】から石油【せきゆ】が採掘【さいくつ】されています。",
+    "meaning": "Oil is being extracted from oil fields."
+  },
+  {
+    "sentence": "彼女は油絵の講座を受けている。",
+    "sentence_furigana": "彼女【かのじょ】は油絵【あぶらえ】の講座【こうざ】を受【う】けている。",
+    "meaning": "She is taking an oil painting course."
+  },
+  {
+    "sentence": "油ちょう中は、油の温度に注意してください。",
+    "sentence_furigana": "油ちょう中【ちゅう】は、油【あぶら】の温度【おんど】に注意【ちゅうい】してください。",
+    "meaning": "During frying, please pay attention to the oil temperature."
+  },
+  {
+    "sentence": "この機械は油圧システムを使用しています。",
+    "sentence_furigana": "この機械【きかい】は油圧【ゆあつ】システムを使【つか】用【よう】しています。",
+    "meaning": "This machine uses a hydraulic system."
+  },
+  {
+    "sentence": "油断すると怪我をする可能性がある。",
+    "sentence_furigana": "油断【ゆだん】すると怪我【けが】をする可能性【かのうせい】がある。",
+    "meaning": "There is a possibility of getting injured if you are not careful."
+  },
+  {
+    "sentence": "油絵の具を混ぜ合わせて、好きな色を作ります。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】を混【ま】ぜ合【あ】わせて、好【す】きな色【いろ】を作【つく】ります。",
+    "meaning": "Mix the oil paints to create your favorite color."
+  },
+  {
+    "sentence": "この料理は少量の油で調理できます。",
+    "sentence_furigana": "この料理【りょうり】は少量【しょうりょう】の油【あぶら】で調理【ちょうり】できます。",
+    "meaning": "This dish can be cooked with a small amount of oil."
+  },
+  {
+    "sentence": "エンジンオイルは定期的に交換する必要があります。",
+    "sentence_furigana": "エンジンオイルは定期的【ていきてき】に交換【こうかん】する必要【ひつよう】があります。",
+    "meaning": "Engine oil needs to be replaced regularly."
+  },
+  {
+    "sentence": "油絵の具はキャンバスに直接塗ることができます。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】はキャンバスに直接【ちょくせつ】塗【ぬ】ることができます。",
+    "meaning": "Oil paints can be applied directly to the canvas."
+  },
+  {
+    "sentence": "油性ペンは水で落ちにくい。",
+    "sentence_furigana": "油性ペン【ゆせいペン】は水【みず】で落【お】ちにくい。",
+    "meaning": "Oil-based pens are difficult to remove with water."
+  },
+  {
+    "sentence": "油断なく作業を進めてください。",
+    "sentence_furigana": "油断【ゆだん】なく作業【さぎょう】を進【すす】めてください。",
+    "meaning": "Please proceed with the work without carelessness."
+  },
+  {
+    "sentence": "このランプは灯油で動きます。",
+    "sentence_furigana": "このランプは灯油【とうゆ】で動【うご】きます。",
+    "meaning": "This lamp runs on kerosene."
+  },
+  {
+    "sentence": "油圧システムは多くの産業で利用されています。",
+    "sentence_furigana": "油圧【ゆあつ】システムは多【おお】くの産業【さんぎょう】で利用【りよう】されています。",
+    "meaning": "Hydraulic systems are used in many industries."
+  },
+  {
+    "sentence": "油断は禁物だと、経験から学びました。",
+    "sentence_furigana": "油断【ゆだん】は禁物【きんもつ】だと、経験【けいけん】から学【まな】びました。",
+    "meaning": "I learned from experience that carelessness is forbidden."
+  },
+  {
+    "sentence": "彼女は油絵の具で静物画を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は油絵具【あぶらえのぐ】で静物画【せいぶつが】を描【か】いた。",
+    "meaning": "She painted a still life with oil paints."
+  },
+  {
+    "sentence": "この調理法は少ない油で済みます。",
+    "sentence_furigana": "この調理法【ちょうりほう】は少【すく】ない油【あぶら】で済【す】みます。",
+    "meaning": "This cooking method requires little oil."
+  },
+  {
+    "sentence": "自動車の定期点検では、エンジンオイルの交換も含まれます。",
+    "sentence_furigana": "自動車【じどうしゃ】の定期的【ていきてき】点検【てんけん】では、エンジンオイルの交換【こうかん】も含【ふく】まれます。",
+    "meaning": "Regular car inspections include changing the engine oil."
+  },
+  {
+    "sentence": "油絵の具は乾くのに時間がかかります。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】は乾【かわ】くのに時間【じかん】がかかります。",
+    "meaning": "Oil paints take time to dry."
+  },
+  {
+    "sentence": "油性塗料は耐久性に優れています。",
+    "sentence_furigana": "油性塗料【ゆせいのりょう】は耐久性【たいきゅうせい】に優【すぐ】れています。",
+    "meaning": "Oil-based paints are excellent in durability."
+  },
+  {
+    "sentence": "油断しないように、常に注意を払っています。",
+    "sentence_furigana": "油断【ゆだん】しないように、常【つね】に注意【ちゅうい】を払【はら】っています。",
+    "meaning": "I am always paying attention so as not to be careless."
+  },
+  {
+    "sentence": "ストーブに灯油を入れる。",
+    "sentence_furigana": "ストーブに灯油【とうゆ】を入【い】れる。",
+    "meaning": "Put kerosene in the stove."
+  },
+  {
+    "sentence": "油圧ジャッキを使って車を持ち上げました。",
+    "sentence_furigana": "油圧ジャッキを使【つか】って車【くるま】を持【も】ち上【あ】げました。",
+    "meaning": "I lifted the car using a hydraulic jack."
+  },
+  {
+    "sentence": "油断大敵という言葉を肝に銘じる。",
+    "sentence_furigana": "油断大敵【ゆだんたいてき】という言葉【ことば】を肝【きも】に銘【めい】じる。",
+    "meaning": "I will keep the words \"carelessness is the enemy\" in mind."
+  },
+  {
+    "sentence": "この油絵の具は独特の光沢があります。",
+    "sentence_furigana": "この油絵具【あぶらえのぐ】は独特【どくとく】の光沢【こうたく】があります。",
+    "meaning": "These oil paints have a unique sheen."
+  },
+  {
+    "sentence": "調理に使う油の種類は様々です。",
+    "sentence_furigana": "調理【ちょうり】に使【つか】う油【あぶら】の種類【しゅるい】は様々【さまざま】です。",
+    "meaning": "There are various types of oil used for cooking."
+  },
+  {
+    "sentence": "エンジンオイルの交換時期が来ました。",
+    "sentence_furigana": "エンジンオイルの交換時期【こうかんじき】が来【き】ました。",
+    "meaning": "It is time to change the engine oil."
+  },
+  {
+    "sentence": "彼女は油絵で風景画を描くのが得意です。",
+    "sentence_furigana": "彼女【かのじょ】は油絵【あぶらえ】で風景画【ふうけいが】を描【か】くのが得意【とくい】です。",
+    "meaning": "She is good at painting landscapes with oil paints."
+  },
+  {
+    "sentence": "油性マジックで書いた文字は消えにくい。",
+    "sentence_furigana": "油性マジックで書【か】いた文字【もじ】は消【き】えにくい。",
+    "meaning": "Writing with an oil-based marker is hard to erase."
+  },
+  {
+    "sentence": "仕事は油断せずに慎重に進めましょう。",
+    "sentence_furigana": "仕事【しごと】は油断【ゆだん】せず慎重【しんちょう】に進【すす】めましょう。",
+    "meaning": "Let's proceed with the work carefully, without being careless."
+  },
+  {
+    "sentence": "このランタンは灯油で点灯します。",
+    "sentence_furigana": "このランタンは灯油【とうゆ】で点灯【てんとう】します。",
+    "meaning": "This lantern is lit by kerosene."
+  },
+  {
+    "sentence": "油圧プレスは強力な力を発生させます。",
+    "sentence_furigana": "油圧プレスは強力【きょうりょく】な力【ちから】を発【はっ】生【せい】させます。",
+    "meaning": "Hydraulic presses generate powerful force."
+  },
+  {
+    "sentence": "油断は最大の敵である。",
+    "sentence_furigana": "油断【ゆだん】は最大【さいだい】の敵【てき】である。",
+    "meaning": "Carelessness is the greatest enemy."
+  },
+  {
+    "sentence": "彼女の油絵の作品は個性的だ。",
+    "sentence_furigana": "彼女【かのじょ】の油絵【あぶらえ】の作品【さくひん】は個性的【こせいてき】だ。",
+    "meaning": "Her oil painting works are unique."
+  },
+  {
+    "sentence": "油で炒めた野菜は風味が増します。",
+    "sentence_furigana": "油【あぶら】で炒【いた】めた野菜【やさい】は風味【ふうみ】が増【ま】します。",
+    "meaning": "Stir-fried vegetables in oil have increased flavor."
+  },
+  {
+    "sentence": "この機械には特別な油が必要です。",
+    "sentence_furigana": "この機械【きかい】には特別【とくべつ】な油【あぶら】が必要【ひつよう】です。",
+    "meaning": "This machine requires a special oil."
+  },
+  {
+    "sentence": "油絵を描くには、特別な準備が必要です。",
+    "sentence_furigana": "油絵【あぶらえ】を描【か】くには、特別【とくべつ】な準備【じゅんび】が必要【ひつよう】です。",
+    "meaning": "Painting with oils requires special preparation."
+  },
+  {
+    "sentence": "油性ボールペンは水濡れに強い。",
+    "sentence_furigana": "油性ボールペンは水濡【みずぬ】れに強【つよ】い。",
+    "meaning": "Oil-based ballpoint pens are resistant to water."
+  },
+  {
+    "sentence": "油断せずに、安全第一で作業を進めてください。",
+    "sentence_furigana": "油断【ゆだん】せずに、安全第一【あんぜんだいいち】で作業【さぎょう】を進【すす】めてください。",
+    "meaning": "Please proceed with the work with safety first, without being careless."
+  },
+  {
+    "sentence": "灯油ストーブは暖房器具として人気があります。",
+    "sentence_furigana": "灯油ストーブは暖房器具【だんぼうきぐ】として人気【にんき】があります。",
+    "meaning": "Kerosene stoves are popular as heating appliances."
+  },
+  {
+    "sentence": "油圧作動油は油圧システムに不可欠です。",
+    "sentence_furigana": "油圧作動油【ゆあつさどうゆ】は油圧【ゆあつ】システムに不可欠【ふかけつ】です。",
+    "meaning": "Hydraulic fluid is essential for hydraulic systems."
+  },
+  {
+    "sentence": "油断大敵、常に気を引き締める。",
+    "sentence_furigana": "油断大敵【ゆだんたいてき】、常【つね】に気【き】を引【ひ】き締【し】める。",
+    "meaning": "Carelessness is the enemy; always stay alert."
+  },
+  {
+    "sentence": "彼女は油絵のスタイルで多くの作品を制作した。",
+    "sentence_furigana": "彼女【かのじょ】は油絵【あぶらえ】のスタイルで多【おお】くの作品【さくひん】を制作【せいさく】した。",
+    "meaning": "She created many works in an oil painting style."
+  },
+  {
+    "sentence": "この料理には植物油を使用しています。",
+    "sentence_furigana": "この料理【りょうり】には植物油【しょくぶつゆ】を使【つか】用【よう】しています。",
+    "meaning": "Vegetable oil is used for this dish."
+  },
+  {
+    "sentence": "エンジンオイルの量は、定期的にチェックする必要があります。",
+    "sentence_furigana": "エンジンオイルの量【りょう】は、定期的【ていきてき】にチェックする必要【ひつよう】があります。",
+    "meaning": "The engine oil level needs to be checked regularly."
+  },
+  {
+    "sentence": "油絵具は乾燥後、耐水性になります。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】は乾燥後【かんそうご】、耐水性【たいすいせい】になります。",
+    "meaning": "Oil paints become water-resistant after drying."
+  },
+  {
+    "sentence": "油性インクは滲みにくいのが特徴です。",
+    "sentence_furigana": "油性インクは滲【にじ】みにくいのが特徴【とくちょう】です。",
+    "meaning": "Oil-based ink is characterized by its resistance to smudging."
+  },
+  {
+    "sentence": "油断しないで、慎重に行動してください。",
+    "sentence_furigana": "油断【ゆだん】しないで、慎重【しんちょう】に行動【こうどう】してください。",
+    "meaning": "Please act carefully, without being careless."
+  },
+  {
+    "sentence": "このヒーターは灯油で動く。",
+    "sentence_furigana": "このヒーターは灯油【とうゆ】で動【うご】く。",
+    "meaning": "This heater runs on kerosene."
+  },
+  {
+    "sentence": "油圧式のブレーキはスムーズな制動力を提供します。",
+    "sentence_furigana": "油圧式【ゆあつしき】のブレーキはスムーズな制動力【せいどうりょく】を提供【ていきょう】します。",
+    "meaning": "Hydraulic brakes provide smooth braking power."
+  },
+  {
+    "sentence": "油断すると足元をすくわれるぞ。",
+    "sentence_furigana": "油断【ゆだん】すると足元【あしもと】をすくわれるぞ。",
+    "meaning": "You'll be caught off guard if you're not careful."
+  },
+  {
+    "sentence": "彼女は油絵の技法を独学で習得した。",
+    "sentence_furigana": "彼女【かのじょ】は油絵【あぶらえ】の技法【ぎほう】を独学【どくがく】で習得【しゅうとく】した。",
+    "meaning": "She taught herself oil painting techniques."
+  },
+  {
+    "sentence": "油を多く使う料理はカロリーが高くなる傾向がある。",
+    "sentence_furigana": "油【あぶら】を多【おお】く使【つか】う料理【りょうり】はカロリーが高【たか】くなる傾向【けいこう】がある。",
+    "meaning": "Dishes that use a lot of oil tend to be higher in calories."
+  },
+  {
+    "sentence": "エンジンオイルはエンジンの潤滑に不可欠です。",
+    "sentence_furigana": "エンジンオイルはエンジンの潤滑【じゅんかつ】に不可欠【ふかけつ】です。",
+    "meaning": "Engine oil is essential for lubricating the engine."
+  },
+  {
+    "sentence": "油絵の具は重ね塗りが可能です。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】は重【かさ】ね塗【ぬ】りが可能【かのう】です。",
+    "meaning": "Oil paints can be applied in layers."
+  },
+  {
+    "sentence": "油性サインペンは様々な用途に使われます。",
+    "sentence_furigana": "油性サインペンは様々【さまざま】な用途【ようと】に使【つか】われます。",
+    "meaning": "Oil-based markers are used for various purposes."
+  },
+  {
+    "sentence": "油断せずに、最後まで気を抜かないでください。",
+    "sentence_furigana": "油断【ゆだん】せずに、最後【さいご】まで気【き】を抜【ぬ】かないでください。",
+    "meaning": "Please do not lose focus until the end, without being careless."
+  },
+  {
+    "sentence": "このストーブは灯油を燃料として使用します。",
+    "sentence_furigana": "このストーブは灯油【とうゆ】を燃料【ねんりょう】として使用【しよう】します。",
+    "meaning": "This stove uses kerosene as fuel."
+  },
+  {
+    "sentence": "油圧システムは、自動車や建設機械で広く使われています。",
+    "sentence_furigana": "油圧【ゆあつ】システムは、自動車【じどうしゃ】や建設機械【けんせつきかい】で広【ひろ】く使【つか】われています。",
+    "meaning": "Hydraulic systems are widely used in automobiles and construction machinery."
+  },
+  {
+    "sentence": "油断していると、思わぬ落とし穴にはまることがある。",
+    "sentence_furigana": "油断【ゆだん】していると、思【おも】わぬ落【お】とし穴【あな】にはまることがある。",
+    "meaning": "If you are not careful, you might fall into an unexpected pitfall."
+  },
+  {
+    "sentence": "彼女は油絵の具の独特の質感に魅力を感じている。",
+    "sentence_furigana": "彼女【かのじょ】は油絵具【あぶらえのぐ】の独特【どくとく】の質感【しつかん】に魅了【みりょう】を感【かん】じている。",
+    "meaning": "She is attracted to the unique texture of oil paints."
+  },
+  {
+    "sentence": "油で揚げる場合、油の温度管理が重要です。",
+    "sentence_furigana": "油【あぶら】で揚【あ】げる場合【ばあい】は、油【あぶら】の温度管理【おんどかんり】が重要【じゅうよう】です。",
+    "meaning": "When frying in oil, temperature control of the oil is important."
+  },
+  {
+    "sentence": "車のエンジンには適切な種類のオイルが必要です。",
+    "sentence_furigana": "車【くるま】のエンジンには適切【てきせつ】な種類【しゅるい】のオイルが必要【ひつよう】です。",
+    "meaning": "The car's engine requires the appropriate type of oil."
+  },
+  {
+    "sentence": "油絵は古典的な絵画技法の一つです。",
+    "sentence_furigana": "油絵【あぶらえ】は古典的【こてんてき】な絵画技法【かいがぎほう】の一【ひと】つです。",
+    "meaning": "Oil painting is one of the classical painting techniques."
+  },
+  {
+    "sentence": "油性クレヨンは独特のタッチを生み出すことができます。",
+    "sentence_furigana": "油性クレヨンは独特【どくとく】のタッチを生【う】み出【だ】すことができます。",
+    "meaning": "Oil pastels can create a unique touch."
+  },
+  {
+    "sentence": "油断なく最後までやり遂げてください。",
+    "sentence_furigana": "油断【ゆだん】なく最後【さいご】までやり遂【と】げてください。",
+    "meaning": "Please see it through to the end without being careless."
+  },
+  {
+    "sentence": "このコンロは灯油で燃焼させます。",
+    "sentence_furigana": "このコンロは灯油【とうゆ】で燃焼【ねんしょう】させます。",
+    "meaning": "This stove burns kerosene."
+  },
+  {
+    "sentence": "油圧リフトは重い荷物を安全に運ぶことができます。",
+    "sentence_furigana": "油圧リフトは重【おも】い荷物【にもつ】を安全【あんぜん】に運【はこ】ぶことができます。",
+    "meaning": "Hydraulic lifts can safely transport heavy loads."
+  },
+  {
+    "sentence": "油断すると怪我をすることがありますので、十分に注意してください。",
+    "sentence_furigana": "油断【ゆだん】すると怪我【けが】をすることがありますので、十分【じゅうぶん】に注意【ちゅうい】してください。",
+    "meaning": "Please be fully aware, as you may get injured if you are careless."
+  },
+  {
+    "sentence": "油絵の具を溶かすための専用の油が必要です。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】を溶【と】かすための専用【せんよう】の油【あぶら】が必要【ひつよう】です。",
+    "meaning": "Special oil is needed to dissolve oil paints."
+  },
+  {
+    "sentence": "この調理法は、少量の油でヘルシーに仕上げられます。",
+    "sentence_furigana": "この調理法【ちょうりほう】は、少量【しょうりょう】の油【あぶら】でヘルシーに仕上【しあ】げられます。",
+    "meaning": "This cooking method results in a healthy dish with a small amount of oil."
+  },
+  {
+    "sentence": "エンジンオイルの漏れがないか確認しました。",
+    "sentence_furigana": "エンジンオイルの漏【も】れがないか確認【かくにん】しました。",
+    "meaning": "I checked for engine oil leaks."
+  },
+  {
+    "sentence": "油絵の具は独特の表現力を持ちます。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】は独特【どくとく】の表現力【ひょうげんりょく】を持【も】ちます。",
+    "meaning": "Oil paints possess unique expressive power."
+  },
+  {
+    "sentence": "油性マーカーで書いたものは消しゴムでは消せません。",
+    "sentence_furigana": "油性マーカーで書【か】いたものはいけしゴムでは消【け】せません。",
+    "meaning": "Things written with oil-based markers cannot be erased with an eraser."
+  },
+  {
+    "sentence": "油断は禁物だ。常に警戒を怠らないように。",
+    "sentence_furigana": "油断【ゆだん】は禁物【きんもつ】だ。常【つね】に警戒【けいかい】を怠【おこた】らないように。",
+    "meaning": "Carelessness is forbidden. Always remain vigilant."
+  },
+  {
+    "sentence": "このランプは灯油を使用して点灯します。",
+    "sentence_furigana": "このランプは灯油【とうゆ】を使用【しよう】して点灯【てんとう】します。",
+    "meaning": "This lamp uses kerosene to light up."
+  },
+  {
+    "sentence": "油圧システムの整備は専門知識が必要です。",
+    "sentence_furigana": "油圧【ゆあつ】システムの整備【せいび】は専門知識【せんもんちしき】が必要【ひつよう】です。",
+    "meaning": "Maintenance of hydraulic systems requires specialized knowledge."
+  }
+]

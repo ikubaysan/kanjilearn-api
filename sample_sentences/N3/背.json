@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼は背が高い。",
+    "sentence_furigana": "彼【かれ】は背【せ】が高【たか】い。",
+    "meaning": "He is tall."
+  },
+  {
+    "sentence": "彼女は私の背後に立った。",
+    "sentence_furigana": "彼女【かのじょ】は私【わたし】の背後【はいご】に立【た】った。",
+    "meaning": "She stood behind me."
+  },
+  {
+    "sentence": "背負い投げは柔道の技だ。",
+    "sentence_furigana": "背負【せお】い投【な】げは柔道【じゅうどう】の技【わざ】だ。",
+    "meaning": "Seoinage is a judo technique."
+  },
+  {
+    "sentence": "壁に背を向けて座った。",
+    "sentence_furigana": "壁【かべ】に背【せ】を向【む】けて座【すわ】った。",
+    "meaning": "I sat with my back to the wall."
+  },
+  {
+    "sentence": "約束を背くことはできない。",
+    "sentence_furigana": "約束【やくそく】を背【そむ】くことはできない。",
+    "meaning": "I cannot go back on my promise."
+  },
+  {
+    "sentence": "その男は背中を丸めていた。",
+    "sentence_furigana": "その男【おとこ】は背中【せなか】を丸【まる】めていた。",
+    "meaning": "The man had a hunched back."
+  },
+  {
+    "sentence": "子供はどんどん背が伸びる。",
+    "sentence_furigana": "子供【こども】はどんどん背【せ】が伸【の】びる。",
+    "meaning": "Children grow taller rapidly."
+  },
+  {
+    "sentence": "背中に痛みを感じた。",
+    "sentence_furigana": "背中【せなか】に痛【いた】みを感じ【かんじ】た。",
+    "meaning": "I felt a pain in my back."
+  },
+  {
+    "sentence": "彼は上司の命令に背いた。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】の命令【めいれい】に背【そむ】いた。",
+    "meaning": "He disobeyed his superior's orders."
+  },
+  {
+    "sentence": "背広を着て出かけた。",
+    "sentence_furigana": "背広【せびろ】を着【き】て出【で】かけた。",
+    "meaning": "He went out wearing a suit."
+  },
+  {
+    "sentence": "その山は背が高い。",
+    "sentence_furigana": "その山【やま】は背【せ】が高【たか】い。",
+    "meaning": "That mountain is high."
+  },
+  {
+    "sentence": "彼は私の背中を押してくれた。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の背中【せなか】を押【お】してくれた。",
+    "meaning": "He pushed me on the back."
+  },
+  {
+    "sentence": "親の期待に背くわけにはいかない。",
+    "sentence_furigana": "親【おや】の期待【きたい】に背【そむ】くわけにはいかない。",
+    "meaning": "I cannot go against my parents' expectations."
+  },
+  {
+    "sentence": "彼は背の高いモデルだ。",
+    "sentence_furigana": "彼【かれ】は背【せ】の高【たか】いモデルだ。",
+    "meaning": "He is a tall model."
+  },
+  {
+    "sentence": "背中に羽が生えているようだ。",
+    "sentence_furigana": "背中【せなか】に羽【はね】が生【は】えているようだ。",
+    "meaning": "It feels like I have wings on my back."
+  },
+  {
+    "sentence": "彼は教師の教えに背いた。",
+    "sentence_furigana": "彼【かれ】は教師【きょうし】の教【おし】えに背【そむ】いた。",
+    "meaning": "He defied his teacher's teachings."
+  },
+  {
+    "sentence": "背負い投げは強力な技だ。",
+    "sentence_furigana": "背負【せお】い投【な】げは強力【きょうりょく】な技【わざ】だ。",
+    "meaning": "Seoinage is a powerful technique."
+  },
+  {
+    "sentence": "背後から忍び寄る。",
+    "sentence_furigana": "背後【はいご】から忍【しの】び寄【よ】る。",
+    "meaning": "To creep up from behind."
+  },
+  {
+    "sentence": "彼は子供の背丈を超えた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の背丈【せたけ】を超【こ】えた。",
+    "meaning": "He surpassed the child's height."
+  },
+  {
+    "sentence": "背広姿の紳士がいた。",
+    "sentence_furigana": "背広【せびろ】姿【すがた】の紳士【しんし】がいた。",
+    "meaning": "There was a gentleman in a suit."
+  },
+  {
+    "sentence": "背中にリュックを背負っている。",
+    "sentence_furigana": "背中【せなか】にリュックを背負【せお】っている。",
+    "meaning": "I'm carrying a backpack on my back."
+  },
+  {
+    "sentence": "彼の背中は物語っている。",
+    "sentence_furigana": "彼【かれ】の背中【せなか】は物語【ものがた】っている。",
+    "meaning": "His back tells a story."
+  },
+  {
+    "sentence": "法律に背く行為は許されない。",
+    "sentence_furigana": "法律【ほうりつ】に背【そむ】く行為【こうい】は許【ゆる】されない。",
+    "meaning": "Acts that violate the law are not permitted."
+  },
+  {
+    "sentence": "背が高いことは有利だ。",
+    "sentence_furigana": "背【せ】が高【たか】いことは有利【ゆうり】だ。",
+    "meaning": "Being tall is advantageous."
+  },
+  {
+    "sentence": "背後霊のような存在。",
+    "sentence_furigana": "背後【はいご】霊【れい】のような存在【そんざい】。",
+    "meaning": "A presence like a spirit behind you."
+  },
+  {
+    "sentence": "彼の背中は頼もしい。",
+    "sentence_furigana": "彼【かれ】の背中【せなか】は頼【たの】もしい。",
+    "meaning": "His back is reliable."
+  },
+  {
+    "sentence": "背負い投げの体勢に入る。",
+    "sentence_furigana": "背負【せお】い投【な】げの体勢【たいせい】に入【はい】る。",
+    "meaning": "To get into the seoinage stance."
+  },
+  {
+    "sentence": "背中合わせで眠った。",
+    "sentence_furigana": "背中【せなか】合【あ】わせで眠【ねむ】った。",
+    "meaning": "We slept back to back."
+  },
+  {
+    "sentence": "彼は親の言いつけに背いた。",
+    "sentence_furigana": "彼【かれ】は親【おや】の言【い】いつけに背【そむ】いた。",
+    "meaning": "He disobeyed his parents' instructions."
+  },
+  {
+    "sentence": "背水の陣を敷く。",
+    "sentence_furigana": "背水【はいすい】の陣【じん】を敷【し】く。",
+    "meaning": "To fight with one's back to the river (a desperate situation)."
+  },
+  {
+    "sentence": "背番号は何番ですか。",
+    "sentence_furigana": "背番号【せばんごう】は何番【なんばん】ですか。",
+    "meaning": "What is your jersey number?"
+  },
+  {
+    "sentence": "背中に汗が伝った。",
+    "sentence_furigana": "背中【せなか】に汗【あせ】が伝【つた】った。",
+    "meaning": "Sweat ran down my back."
+  },
+  {
+    "sentence": "彼は背が高いので目立つ。",
+    "sentence_furigana": "彼【かれ】は背【せ】が高【たか】いので目立【めだ】つ。",
+    "meaning": "He stands out because he is tall."
+  },
+  {
+    "sentence": "背後から声をかけられた。",
+    "sentence_furigana": "背後【はいご】から声【こえ】をかけられた。",
+    "meaning": "Someone called me from behind."
+  },
+  {
+    "sentence": "その仕事は背水の覚悟で臨む。",
+    "sentence_furigana": "その仕事【しごと】は背水【はいすい】の覚悟【かくご】で臨【のぞ】む。",
+    "meaning": "I will tackle that job with a do-or-die spirit."
+  },
+  {
+    "sentence": "背中に大きな荷物を背負っている。",
+    "sentence_furigana": "背中【せなか】に大【おお】きな荷物【にもつ】を背負【せお】っている。",
+    "meaning": "He is carrying a large load on his back."
+  },
+  {
+    "sentence": "背筋を伸ばして立ちなさい。",
+    "sentence_furigana": "背筋【せすじ】を伸【の】ばして立【た】ちなさい。",
+    "meaning": "Stand up straight."
+  },
+  {
+    "sentence": "彼は友人の忠告に背いた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の忠告【ちゅうこく】に背【そむ】いた。",
+    "meaning": "He defied his friend's advice."
+  },
+  {
+    "sentence": "背中を向けて歩き出した。",
+    "sentence_furigana": "背中【せなか】を向【む】けて歩【ある】き出【だ】した。",
+    "meaning": "He turned his back and started walking."
+  },
+  {
+    "sentence": "背丈を測る。",
+    "sentence_furigana": "背丈【せたけ】を測【はか】る。",
+    "meaning": "To measure one's height."
+  },
+  {
+    "sentence": "背後者を見失った。",
+    "sentence_furigana": "背後【はいご】者【しゃ】を見失【みうしな】った。",
+    "meaning": "I lost sight of the person behind me."
+  },
+  {
+    "sentence": "彼は背広姿で現れた。",
+    "sentence_furigana": "彼【かれ】は背広【せびろ】姿【すがた】で現【あらわ】れた。",
+    "meaning": "He appeared in a suit."
+  },
+  {
+    "sentence": "背中に傷がある。",
+    "sentence_furigana": "背中【せなか】に傷【きず】がある。",
+    "meaning": "There is a scar on his back."
+  },
+  {
+    "sentence": "背負う責任は重い。",
+    "sentence_furigana": "背負【せお】う責任【せきにん】は重【おも】い。",
+    "meaning": "The responsibility I bear is heavy."
+  },
+  {
+    "sentence": "彼は命令に背く。",
+    "sentence_furigana": "彼【かれ】は命令【めいれい】に背【そむ】く。",
+    "meaning": "He disobeys orders."
+  },
+  {
+    "sentence": "背が高いことは有利に働く。",
+    "sentence_furigana": "背【せ】が高【たか】いことは有利【ゆうり】に働【はたら】く。",
+    "meaning": "Being tall works to one's advantage."
+  },
+  {
+    "sentence": "背後からそっと近づく。",
+    "sentence_furigana": "背後【はいご】からそっと近【ちか】づく。",
+    "meaning": "To quietly approach from behind."
+  },
+  {
+    "sentence": "背中を見せて逃げた。",
+    "sentence_furigana": "背中【せなか】を見【み】せて逃【に】げた。",
+    "meaning": "He turned his back and fled."
+  },
+  {
+    "sentence": "彼は背中を丸めて歩いていた。",
+    "sentence_furigana": "彼【かれ】は背中【せなか】を丸【まる】めて歩【ある】いていた。",
+    "meaning": "He was walking with his back hunched."
+  },
+  {
+    "sentence": "背水の陣で臨む。",
+    "sentence_furigana": "背水【はいすい】の陣【じん】で臨【のぞ】む。",
+    "meaning": "To face a situation with no turning back."
+  },
+  {
+    "sentence": "彼女は背が高い方だ。",
+    "sentence_furigana": "彼女【かのじょ】は背【せ】が高【たか】い方【ほう】だ。",
+    "meaning": "She is on the tall side."
+  },
+  {
+    "sentence": "背中に湿布を貼った。",
+    "sentence_furigana": "背中【せなか】に湿布【しっぷ】を貼【は】った。",
+    "meaning": "I put a patch on my back."
+  },
+  {
+    "sentence": "背後からの攻撃に注意する。",
+    "sentence_furigana": "背後【はいご】からの攻撃【こうげき】に注意【ちゅうい】する。",
+    "meaning": "Be careful of attacks from behind."
+  },
+  {
+    "sentence": "背伸びをする。",
+    "sentence_furigana": "背伸【せの】びをする。",
+    "meaning": "To stretch one's legs."
+  },
+  {
+    "sentence": "彼は約束を背く人間ではない。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を背【そむ】く人間【にんげん】ではない。",
+    "meaning": "He is not the type of person to break promises."
+  },
+  {
+    "sentence": "背中に手を当てる。",
+    "sentence_furigana": "背中【せなか】に手【て】を当【あ】てる。",
+    "meaning": "To place a hand on someone's back."
+  },
+  {
+    "sentence": "その政策には背を向けられない。",
+    "sentence_furigana": "その政策【せいさく】には背【せ】を向【む】けられない。",
+    "meaning": "We cannot turn our backs on that policy."
+  },
+  {
+    "sentence": "彼女の背中は小さかった。",
+    "sentence_furigana": "彼女【かのじょ】の背中【せなか】は小【ちい】さかった。",
+    "meaning": "Her back was small."
+  },
+  {
+    "sentence": "背後から見守る。",
+    "sentence_furigana": "背後【はいご】から見守【みまも】る。",
+    "meaning": "To watch over from behind."
+  },
+  {
+    "sentence": "彼はその任務を背負った。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を背負【せお】った。",
+    "meaning": "He took on that mission."
+  },
+  {
+    "sentence": "背中に鳥がとまった。",
+    "sentence_furigana": "背中【せなか】に鳥【とり】がとまった。",
+    "meaning": "A bird landed on my back."
+  },
+  {
+    "sentence": "彼は規律に背く。",
+    "sentence_furigana": "彼【かれ】は規律【きりつ】に背【そむ】く。",
+    "meaning": "He rebels against discipline."
+  },
+  {
+    "sentence": "背が低いことを気にする。",
+    "sentence_furigana": "背【せ】が低【ひく】いことを気【き】にする。",
+    "meaning": "To be conscious of one's short stature."
+  },
+  {
+    "sentence": "背後を警戒する。",
+    "sentence_furigana": "背後【はいご】を警戒【けいかい】する。",
+    "meaning": "To be on guard against the rear."
+  },
+  {
+    "sentence": "背中に汗をかく。",
+    "sentence_furigana": "背中【せなか】に汗【あせ】をかく。",
+    "meaning": "To sweat on one's back."
+  },
+  {
+    "sentence": "彼は背広を着こなしている。",
+    "sentence_furigana": "彼【かれ】は背広【せびろ】を着【き】こなしている。",
+    "meaning": "He wears his suit well."
+  },
+  {
+    "sentence": "背水のまなざしで戦う。",
+    "sentence_furigana": "背水【はいすい】のまなざしで戦【たたか】う。",
+    "meaning": "To fight with a determined look."
+  },
+  {
+    "sentence": "彼女は背が高いので、目立つ。",
+    "sentence_furigana": "彼女【かのじょ】は背【せ】が高【たか】いので、目立【めだ】つ。",
+    "meaning": "She is tall, so she stands out."
+  },
+  {
+    "sentence": "背中にリュックをしょっている。",
+    "sentence_furigana": "背中【せなか】にリュックをしょっている。",
+    "meaning": "He is carrying a backpack on his back."
+  },
+  {
+    "sentence": "背後から忍び寄る影。",
+    "sentence_furigana": "背後【はいご】から忍【しの】び寄【よ】る影【かげ】。",
+    "meaning": "A shadow creeping up from behind."
+  },
+  {
+    "sentence": "背中は語る。",
+    "sentence_furigana": "背中【せなか】は語【かた】る。",
+    "meaning": "The back speaks."
+  },
+  {
+    "sentence": "彼は指示に背いた。",
+    "sentence_furigana": "彼【かれ】は指示【しじ】に背【そむ】いた。",
+    "meaning": "He disobeyed the instructions."
+  },
+  {
+    "sentence": "背が高いことは利点だ。",
+    "sentence_furigana": "背【せ】が高【たか】いことは利点【りてん】だ。",
+    "meaning": "Being tall is an advantage."
+  },
+  {
+    "sentence": "背後に気配を感じた。",
+    "sentence_furigana": "背後【はいご】に気配【けはい】を感じ【かんじ】た。",
+    "meaning": "I sensed a presence behind me."
+  },
+  {
+    "sentence": "背負うべき重荷。",
+    "sentence_furigana": "背負【せお】うべき重荷【おもに】。",
+    "meaning": "A burden to bear."
+  },
+  {
+    "sentence": "彼の背中は強そうだ。",
+    "sentence_furigana": "彼【かれ】の背中【せなか】は強【つよ】そうだ。",
+    "meaning": "His back looks strong."
+  },
+  {
+    "sentence": "背中にtattooを入れる。",
+    "sentence_furigana": "背中【せなか】にtattooを入【い】れる。",
+    "meaning": "To get a tattoo on one's back."
+  },
+  {
+    "sentence": "背後から忍び寄る敵。",
+    "sentence_furigana": "背後【はいご】から忍【しの】び寄【よ】る敵【てき】。",
+    "meaning": "An enemy sneaking up from behind."
+  },
+  {
+    "sentence": "彼はルールに背いた。",
+    "sentence_furigana": "彼【かれ】はルールに背【そむ】いた。",
+    "meaning": "He broke the rules."
+  },
+  {
+    "sentence": "背丈ほどの高さだ。",
+    "sentence_furigana": "背丈【せたけ】ほどの高【たか】さだ。",
+    "meaning": "It is about as tall as my height."
+  },
+  {
+    "sentence": "背中に羽が生えているような気分だ。",
+    "sentence_furigana": "背中【せなか】に羽【はね】が生【は】えているような気分【きぶん】だ。",
+    "meaning": "I feel like I have wings on my back."
+  },
+  {
+    "sentence": "背水の決意で臨む。",
+    "sentence_furigana": "背水【はいすい】の決意【けつい】で臨【のぞ】む。",
+    "meaning": "To face it with determination."
+  },
+  {
+    "sentence": "背後からそっと抱きつく。",
+    "sentence_furigana": "背後【はいご】からそっと抱【だ】きつく。",
+    "meaning": "To hug someone from behind."
+  },
+  {
+    "sentence": "彼女は背負うものが多い。",
+    "sentence_furigana": "彼女【かのじょ】は背負【せお】うものが多い【おお】い。",
+    "meaning": "She has many things to carry."
+  },
+  {
+    "sentence": "背中を丸めて歩く。",
+    "sentence_furigana": "背中【せなか】を丸【まる】めて歩【ある】く。",
+    "meaning": "To walk with a hunched back."
+  },
+  {
+    "sentence": "彼は法律に背いた。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】に背【そむ】いた。",
+    "meaning": "He broke the law."
+  },
+  {
+    "sentence": "背が高いことは有利に働くことが多い。",
+    "sentence_furigana": "背【せ】が高【たか】いことは有利【ゆうり】に働【はたら】くことが多い【おお】い。",
+    "meaning": "Being tall often works to one's advantage."
+  },
+  {
+    "sentence": "背後からの声に振り返る。",
+    "sentence_furigana": "背後【はいご】からの声【こえ】に振【ふ】り返【かえ】る。",
+    "meaning": "To turn around at a voice from behind."
+  },
+  {
+    "sentence": "彼の背中は広い。",
+    "sentence_furigana": "彼【かれ】の背中【せなか】は広【ひろ】い。",
+    "meaning": "His back is broad."
+  },
+  {
+    "sentence": "背中に大きな傷跡がある。",
+    "sentence_furigana": "背中【せなか】に大【おお】きな傷跡【きずあと】がある。",
+    "meaning": "There is a large scar on his back."
+  },
+  {
+    "sentence": "背負うものは大きい。",
+    "sentence_furigana": "背負【せお】うものは大【おお】きい。",
+    "meaning": "What I have to bear is great."
+  },
+  {
+    "sentence": "彼は忠告に背いた。",
+    "sentence_furigana": "彼【かれ】は忠告【ちゅうこく】に背【そむ】いた。",
+    "meaning": "He went against the advice."
+  },
+  {
+    "sentence": "背中合わせの椅子に座る。",
+    "sentence_furigana": "背中【せなか】合【あ】わせの椅子【いす】に座【すわ】る。",
+    "meaning": "To sit on chairs facing each other."
+  },
+  {
+    "sentence": "背後から忍び寄る影に怯える。",
+    "sentence_furigana": "背後【はいご】から忍【しの】び寄【よ】る影【かげ】に怯【おび】える。",
+    "meaning": "To be afraid of shadows creeping up from behind."
+  },
+  {
+    "sentence": "背中を丸めて眠る。",
+    "sentence_furigana": "背中【せなか】を丸【まる】めて眠【ねむ】る。",
+    "meaning": "To sleep curled up."
+  },
+  {
+    "sentence": "彼は期待に背いた。",
+    "sentence_furigana": "彼【かれ】は期待【きたい】に背【そむ】いた。",
+    "meaning": "He disappointed expectations."
+  },
+  {
+    "sentence": "背の高い木。",
+    "sentence_furigana": "背【せ】の高【たか】い木【き】。",
+    "meaning": "A tall tree."
+  },
+  {
+    "sentence": "背後からそっと手を伸ばす。",
+    "sentence_furigana": "背後【はいご】からそっと手【て】を伸【の】ばす。",
+    "meaning": "To quietly reach out from behind."
+  },
+  {
+    "sentence": "背中に汗が滲む。",
+    "sentence_furigana": "背中【せなか】に汗【あせ】が滲【にじ】む。",
+    "meaning": "Sweat seeps through my back."
+  },
+  {
+    "sentence": "彼は使命を背負う。",
+    "sentence_furigana": "彼【かれ】は使命【しめい】を背負【せお】う。",
+    "meaning": "He bears a mission."
+  },
+  {
+    "sentence": "背中の痛みがひどい。",
+    "sentence_furigana": "背中【せなか】の痛【いた】みがひどい。",
+    "meaning": "My back pain is severe."
+  },
+  {
+    "sentence": "彼は親の言いつけに背いたことを後悔した。",
+    "sentence_furigana": "彼【かれ】は親【おや】の言【い】いつけに背【そむ】いたことを後悔【こうかい】した。",
+    "meaning": "He regretted disobeying his parents' instructions."
+  }
+]

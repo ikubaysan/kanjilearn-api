@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "その女はとても親切です。",
+    "sentence_furigana": "その女【おんな】はとても親切【しんせつ】です。",
+    "meaning": "That woman is very kind."
+  },
+  {
+    "sentence": "彼女は医者です。",
+    "sentence_furigana": "彼女【かのじょ】は医者【いしゃ】です。",
+    "meaning": "She is a doctor."
+  },
+  {
+    "sentence": "女性の権利を守ることは重要です。",
+    "sentence_furigana": "女性【じょせい】の権利【けんり】を守【まも】ることは重要【じゅうよう】です。",
+    "meaning": "Protecting women's rights is important."
+  },
+  {
+    "sentence": "彼は女の子の絵を描きました。",
+    "sentence_furigana": "彼【かれ】は女の子【おんなのこ】の絵【え】を描【か】きました。",
+    "meaning": "He drew a picture of a girl."
+  },
+  {
+    "sentence": "女性ホルモンは体に影響を与えます。",
+    "sentence_furigana": "女性【じょせい】ホルモンは体【からだ】に影響【えいきょう】を与【あた】えます。",
+    "meaning": "Female hormones affect the body."
+  },
+  {
+    "sentence": "女の人はみんな美しいです。",
+    "sentence_furigana": "女【おんな】の人【ひと】はみんな美【うつく】しいです。",
+    "meaning": "All women are beautiful."
+  },
+  {
+    "sentence": "彼女は女優として有名です。",
+    "sentence_furigana": "彼女【かのじょ】は女優【じょゆう】として有名【ゆうめい】です。",
+    "meaning": "She is famous as an actress."
+  },
+  {
+    "sentence": "母は私にとって最高の女性です。",
+    "sentence_furigana": "母【はは】は私【わたし】にとって最高【さいこう】の女性【じょせい】です。",
+    "meaning": "My mother is the best woman to me."
+  },
+  {
+    "sentence": "この部屋は女性専用です。",
+    "sentence_furigana": "この部屋【へや】は女性専用【じょせいせんよう】です。",
+    "meaning": "This room is for women only."
+  },
+  {
+    "sentence": "彼女は新しい女性リーダーです。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい女性【じょせい】リーダーです。",
+    "meaning": "She is a new female leader."
+  },
+  {
+    "sentence": "その女性は有名な作家です。",
+    "sentence_furigana": "その女性【じょせい】は有名【ゆうめい】な作家【さっか】です。",
+    "meaning": "That woman is a famous writer."
+  },
+  {
+    "sentence": "女性のファッションは変化します。",
+    "sentence_furigana": "女性【じょせい】のファッションは変化【へんか】します。",
+    "meaning": "Women's fashion changes."
+  },
+  {
+    "sentence": "彼女はとても活発な女の子です。",
+    "sentence_furigana": "彼女【かのじょ】はとても活発【かっぱつ】な女の子【おんなのこ】です。",
+    "meaning": "She is a very lively girl."
+  },
+  {
+    "sentence": "この店は女性客に人気があります。",
+    "sentence_furigana": "この店【みせ】は女性客【じょせいきゃく】に人気【にんき】があります。",
+    "meaning": "This shop is popular with female customers."
+  },
+  {
+    "sentence": "彼女は美しい女性になりました。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい女性【じょせい】になりました。",
+    "meaning": "She became a beautiful woman."
+  },
+  {
+    "sentence": "女性の社会進出が進んでいます。",
+    "sentence_furigana": "女性【じょせい】の社会進出【しゃかいしんしゅつ】が進【すす】んでいます。",
+    "meaning": "The social advancement of women is progressing."
+  },
+  {
+    "sentence": "彼女は多くの女性から尊敬されています。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの女性【じょせい】から尊敬【そんけい】されています。",
+    "meaning": "She is respected by many women."
+  },
+  {
+    "sentence": "これは女性用の化粧品です。",
+    "sentence_furigana": "これ【これ】は女性用【じょせいよう】の化粧品【けしょうひん】です。",
+    "meaning": "These are cosmetics for women."
+  },
+  {
+    "sentence": "彼女は素晴らしい女性です。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい女性【じょせい】です。",
+    "meaning": "She is a wonderful woman."
+  },
+  {
+    "sentence": "女の人は強くあるべきです。",
+    "sentence_furigana": "女【おんな】の人【ひと】は強【つよ】くあるべきです。",
+    "meaning": "Women should be strong."
+  },
+  {
+    "sentence": "彼女は有名な女性科学者です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性科学者【じょせいかがくしゃ】です。",
+    "meaning": "She is a famous female scientist."
+  },
+  {
+    "sentence": "女性の健康は大切です。",
+    "sentence_furigana": "女性【じょせい】の健康【けんこう】は大切【たいせつ】です。",
+    "meaning": "Women's health is important."
+  },
+  {
+    "sentence": "彼女は素敵な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は素敵【すてき】な女性【じょせい】です。",
+    "meaning": "She is a lovely woman."
+  },
+  {
+    "sentence": "この国では女性も働けます。",
+    "sentence_furigana": "この国【くに】では女性【じょせい】も働【はたら】けます。",
+    "meaning": "Women can also work in this country."
+  },
+  {
+    "sentence": "彼女は才能のある女性です。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】のある女性【じょせい】です。",
+    "meaning": "She is a talented woman."
+  },
+  {
+    "sentence": "女性の社会参加を推進します。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】を推進【すいしん】します。",
+    "meaning": "We promote women's participation in society."
+  },
+  {
+    "sentence": "彼女は女性の指導者です。",
+    "sentence_furigana": "彼女【かのじょ】は女性【じょせい】の指導者【しどうしゃ】です。",
+    "meaning": "She is a female leader."
+  },
+  {
+    "sentence": "その女性は非常にエレガントです。",
+    "sentence_furigana": "その女性【じょせい】は非常【ひじょう】にエレガントです。",
+    "meaning": "That woman is very elegant."
+  },
+  {
+    "sentence": "彼女は美しい声を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい声【こえ】を持【も】っています。",
+    "meaning": "She has a beautiful voice."
+  },
+  {
+    "sentence": "この商品は女性向けにデザインされました。",
+    "sentence_furigana": "この商品【しょうひん】は女性向【じょせいむ】けにデザインされました。",
+    "meaning": "This product was designed for women."
+  },
+  {
+    "sentence": "彼女は情熱的な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は情熱【じょうねつ】的【てき】な女性【じょせい】です。",
+    "meaning": "She is a passionate woman."
+  },
+  {
+    "sentence": "女性の自立を支援します。",
+    "sentence_furigana": "女性【じょせい】の自立【じりつ】を支援【しえん】します。",
+    "meaning": "We support women's independence."
+  },
+  {
+    "sentence": "彼女は有名な女性作家です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性作家【じょせいさっか】です。",
+    "meaning": "She is a famous female writer."
+  },
+  {
+    "sentence": "多くの女性がそのイベントに参加しました。",
+    "sentence_furigana": "多【おお】くの女性【じょせい】がそのイベントに参加【さんか】しました。",
+    "meaning": "Many women participated in the event."
+  },
+  {
+    "sentence": "彼女はとても優しい女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても優【やさ】しい女性【じょせい】です。",
+    "meaning": "She is a very kind woman."
+  },
+  {
+    "sentence": "女性の健康管理が大切です。",
+    "sentence_furigana": "女性【じょせい】の健康管理【けんこうかんり】が大切【たいせつ】です。",
+    "meaning": "Women's health management is important."
+  },
+  {
+    "sentence": "彼女は素晴らしい女性リーダーです。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい女性リーダー【じょせいリーダー】です。",
+    "meaning": "She is a wonderful female leader."
+  },
+  {
+    "sentence": "この服は女性に人気があります。",
+    "sentence_furigana": "この服【ふく】は女性【じょせい】に人気【にんき】があります。",
+    "meaning": "These clothes are popular with women."
+  },
+  {
+    "sentence": "彼女は力強い女性です。",
+    "sentence_furigana": "彼女【かのじょ】は力強【ちからづよ】い女性【じょせい】です。",
+    "meaning": "She is a strong woman."
+  },
+  {
+    "sentence": "女性の活躍の場が広がっています。",
+    "sentence_furigana": "女性【じょせい】の活躍【かつやく】の場【ば】が広【ひろ】がっています。",
+    "meaning": "Opportunities for women's activities are expanding."
+  },
+  {
+    "sentence": "彼女はとても器用な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても器用【きよう】な女性【じょせい】です。",
+    "meaning": "She is a very skillful woman."
+  },
+  {
+    "sentence": "女性の教育は国の発展に不可欠です。",
+    "sentence_furigana": "女性【じょせい】の教育【きょういく】は国【くに】の発展【はってん】に不可欠【ふかけつ】です。",
+    "meaning": "Women's education is essential for national development."
+  },
+  {
+    "sentence": "彼女は有名な女性彫刻家です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性彫刻家【じょせいちょうこくか】です。",
+    "meaning": "She is a famous female sculptor."
+  },
+  {
+    "sentence": "女性の意見も尊重されるべきです。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】も尊重【そんけい】されるべきです。",
+    "meaning": "Women's opinions should also be respected."
+  },
+  {
+    "sentence": "彼女は非常に聡明な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に聡明【そうめい】な女性【じょせい】です。",
+    "meaning": "She is a very intelligent woman."
+  },
+  {
+    "sentence": "女性のファッション雑誌はたくさんあります。",
+    "sentence_furigana": "女性【じょせい】のファッション雑誌【ざっし】はたくさんあります。",
+    "meaning": "There are many women's fashion magazines."
+  },
+  {
+    "sentence": "彼女は伝説的な女性アスリートです。",
+    "sentence_furigana": "彼女【かのじょ】は伝説【でんせつ】的【てき】な女性アスリート【じょせいアスリート】です。",
+    "meaning": "She is a legendary female athlete."
+  },
+  {
+    "sentence": "女性の社会参加が求められています。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】が求【もと】められています。",
+    "meaning": "Women's participation in society is required."
+  },
+  {
+    "sentence": "彼女はとても勇敢な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても勇敢【ゆうかん】な女性【じょせい】です。",
+    "meaning": "She is a very brave woman."
+  },
+  {
+    "sentence": "女性の平均寿命は延びています。",
+    "sentence_furigana": "女性【じょせい】の平均寿命【へいきんじゅみょう】は伸【の】びています。",
+    "meaning": "The average life expectancy for women is increasing."
+  },
+  {
+    "sentence": "彼女は有名な女性指揮者です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性指揮者【じょせいしきしゃ】です。",
+    "meaning": "She is a famous female conductor."
+  },
+  {
+    "sentence": "女性の社会的な地位向上を目指します。",
+    "sentence_furigana": "女性【じょせい】の社会的【しゃかいてき】な地位向上【ちいこうじょう】を目指【めざ】します。",
+    "meaning": "We aim to improve the social status of women."
+  },
+  {
+    "sentence": "彼女は非常に忍耐強い女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に忍耐強【にんたいづよ】い女性【じょせい】です。",
+    "meaning": "She is a very patient woman."
+  },
+  {
+    "sentence": "女性の心を掴むのは難しい。",
+    "sentence_furigana": "女性【じょせい】の心【こころ】を掴【つか】むのは難【むずか】しい。",
+    "meaning": "It is difficult to win a woman's heart."
+  },
+  {
+    "sentence": "彼女は伝説的な女性ボーカリストです。",
+    "sentence_furigana": "彼女【かのじょ】は伝説【でんせつ】的【てき】な女性ボーカリスト【じょせいボーカリスト】です。",
+    "meaning": "She is a legendary female vocalist."
+  },
+  {
+    "sentence": "女性の参加をもっと増やしたい。",
+    "sentence_furigana": "女性【じょせい】の参加【さんか】をもっと増【ふ】やしたい。",
+    "meaning": "We want to increase women's participation more."
+  },
+  {
+    "sentence": "彼女はとても好奇心旺盛な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても好奇心旺盛【こうきしんおうせい】な女性【じょせい】です。",
+    "meaning": "She is a very curious woman."
+  },
+  {
+    "sentence": "女性の権利擁護は世界的な課題です。",
+    "sentence_furigana": "女性【じょせい】の権利擁護【けんりようご】は世界【せかい】的【てき】な課題【かだい】です。",
+    "meaning": "The advocacy of women's rights is a global issue."
+  },
+  {
+    "sentence": "彼女は有名な女性政治家です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性政治家【じょせいせいじか】です。",
+    "meaning": "She is a famous female politician."
+  },
+  {
+    "sentence": "女性のリーダーシップが求められています。",
+    "sentence_furigana": "女性【じょせい】のリーダーシップが求【もと】められています。",
+    "meaning": "Female leadership is in demand."
+  },
+  {
+    "sentence": "彼女はとても勤勉な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても勤勉【きんべん】な女性【じょせい】です。",
+    "meaning": "She is a very diligent woman."
+  },
+  {
+    "sentence": "女性の意見を反映させることは大切です。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】を反映【はんえい】させることは大切【たいせつ】です。",
+    "meaning": "It is important to reflect women's opinions."
+  },
+  {
+    "sentence": "彼女は優れた女性デザイナーです。",
+    "sentence_furigana": "彼女【かのじょ】は優【すぐ】れた女性デザイナー【じょせいデザイナー】です。",
+    "meaning": "She is an excellent female designer."
+  },
+  {
+    "sentence": "女性の社会参加を促進します。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】を促進【そくしん】します。",
+    "meaning": "We promote women's participation in society."
+  },
+  {
+    "sentence": "彼女は非常に冷静な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に冷静【れいせい】な女性【じょせい】です。",
+    "meaning": "She is a very calm woman."
+  },
+  {
+    "sentence": "女性の経済的自立を支援する。",
+    "sentence_furigana": "女性【じょせい】の経済的【けいざいてき】な自立【じりつ】を支援【しえん】する。",
+    "meaning": "To support women's economic independence."
+  },
+  {
+    "sentence": "彼女は有名な女性ピアニストです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性ピアニスト【じょせいピアニスト】です。",
+    "meaning": "She is a famous female pianist."
+  },
+  {
+    "sentence": "女性の意見が政策に反映されるべきだ。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】が政策【せいさく】に反映【はんえい】されるべきだ。",
+    "meaning": "Women's opinions should be reflected in policy."
+  },
+  {
+    "sentence": "彼女はとても献身的な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても献身【けんしん】的【てき】な女性【じょせい】です。",
+    "meaning": "She is a very dedicated woman."
+  },
+  {
+    "sentence": "女性の権利を守るための法律が必要です。",
+    "sentence_furigana": "女性【じょせい】の権利【けんり】を守【まも】るための法律【ほうりつ】が必要【ひつよう】です。",
+    "meaning": "Laws are needed to protect women's rights."
+  },
+  {
+    "sentence": "彼女は優れた女性起業家です。",
+    "sentence_furigana": "彼女【かのじょ】は優【すぐ】れた女性起業家【じょせいきぎょうか】です。",
+    "meaning": "She is an excellent female entrepreneur."
+  },
+  {
+    "sentence": "女性の参加を奨励する方針です。",
+    "sentence_furigana": "女性【じょせい】の参加【さんか】を奨励【しょうれい】する方針【ほうしん】です。",
+    "meaning": "The policy is to encourage women's participation."
+  },
+  {
+    "sentence": "彼女は非常に落ち着いた女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に落【お】ち着【つ】いた女性【じょせい】です。",
+    "meaning": "She is a very calm woman."
+  },
+  {
+    "sentence": "女性のエンパワメントが重要です。",
+    "sentence_furigana": "女性【じょせい】のエンパワメントが重要【じゅうよう】です。",
+    "meaning": "Women's empowerment is important."
+  },
+  {
+    "sentence": "彼女は有名な女性科学技術者です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性科学技術者【じょせいかがくぎじゅつしゃ】です。",
+    "meaning": "She is a famous female scientist and engineer."
+  },
+  {
+    "sentence": "女性の意見表明の機会を増やす。",
+    "sentence_furigana": "女性【じょせい】の意見表明【いけんひょうめい】の機会【きかい】を増【ふ】やす。",
+    "meaning": "Increase opportunities for women to express their opinions."
+  },
+  {
+    "sentence": "彼女はとても責任感の強い女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても責任感【せきにんかん】の強【つよ】い女性【じょせい】です。",
+    "meaning": "She is a woman with a strong sense of responsibility."
+  },
+  {
+    "sentence": "女性の社会参加を促進する政策を実施する。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】を促進【そくしん】する政策【せいさく】を実施【じっし】する。",
+    "meaning": "Implement policies to promote women's participation in society."
+  },
+  {
+    "sentence": "彼女は非常に柔軟な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に柔軟【じゅうなん】な女性【じょせい】です。",
+    "meaning": "She is a very flexible woman."
+  },
+  {
+    "sentence": "女性の社会進出は日本の成長に不可欠です。",
+    "sentence_furigana": "女性【じょせい】の社会進出【しゃかいしんしゅつ】は日本【にほん】の成長【せいちょう】に不可欠【ふかけつ】です。",
+    "meaning": "The social advancement of women is indispensable for Japan's growth."
+  },
+  {
+    "sentence": "彼女は才能あふれる女性アーティストです。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】あふれる女性アーティスト【じょせいアーティスト】です。",
+    "meaning": "She is a talented female artist."
+  },
+  {
+    "sentence": "女性の地位向上は社会全体の課題です。",
+    "sentence_furigana": "女性【じょせい】の地位向上【ちいこうじょう】は社会全体【しゃかいぜんたい】の課題【かだい】です。",
+    "meaning": "Improving the status of women is a challenge for society as a whole."
+  },
+  {
+    "sentence": "彼女はとても誠実な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても誠実【せいじつ】な女性【じょせい】です。",
+    "meaning": "She is a very sincere woman."
+  },
+  {
+    "sentence": "女性の意見を積極的に聞く。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】を積極的【せっきょくてき】に聞【き】く。",
+    "meaning": "Actively listen to women's opinions."
+  },
+  {
+    "sentence": "彼女は有名な女性ジャーナリストです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性ジャーナリスト【じょせいジャーナリスト】です。",
+    "meaning": "She is a famous female journalist."
+  },
+  {
+    "sentence": "女性の社会参加の機会を均等にする。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】の機会【きかい】を均等【きんとう】にする。",
+    "meaning": "To equalize opportunities for women's participation in society."
+  },
+  {
+    "sentence": "彼女は非常に創造的な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に創造的【そうぞうてき】な女性【じょせい】です。",
+    "meaning": "She is a very creative woman."
+  },
+  {
+    "sentence": "女性の活躍を応援しています。",
+    "sentence_furigana": "女性【じょせい】の活躍【かつやく】を応援【おうえん】しています。",
+    "meaning": "We support women's success."
+  },
+  {
+    "sentence": "彼女は有名な女性弁護士です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性弁護士【じょせいべんごし】です。",
+    "meaning": "She is a famous female lawyer."
+  },
+  {
+    "sentence": "女性の意見が反映された政策を実施する。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】が反映【はんえい】された政策【せいさく】を実施【じっし】する。",
+    "meaning": "Implement policies that reflect women's opinions."
+  },
+  {
+    "sentence": "彼女は非常に親しみやすい女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に親【した】しみやすい女性【じょせい】です。",
+    "meaning": "She is a very approachable woman."
+  },
+  {
+    "sentence": "女性の視点を取り入れることが重要です。",
+    "sentence_furigana": "女性【じょせい】の視点【してん】を取【と】り入【い】れることが重要【じゅうよう】です。",
+    "meaning": "It is important to incorporate women's perspectives."
+  },
+  {
+    "sentence": "彼女は有名な女性パイロットです。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性パイロット【じょせいパイロット】です。",
+    "meaning": "She is a famous female pilot."
+  },
+  {
+    "sentence": "女性の活躍を支援する社会を目指す。",
+    "sentence_furigana": "女性【じょせい】の活躍【かつやく】を支援【しえん】する社会【しゃかい】を目指【めざ】す。",
+    "meaning": "Aim for a society that supports women's success."
+  },
+  {
+    "sentence": "彼女は非常に真面目な女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に真面目【まじめ】な女性【じょせい】です。",
+    "meaning": "She is a very serious woman."
+  },
+  {
+    "sentence": "女性の意見を重視する方針を示す。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】を重視【じゅうし】する方針【ほうしん】を示【しめ】す。",
+    "meaning": "Indicate a policy of emphasizing women's opinions."
+  },
+  {
+    "sentence": "彼女は有名な女性研究者です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性研究者【じょせいけんきゅうしゃ】です。",
+    "meaning": "She is a famous female researcher."
+  },
+  {
+    "sentence": "女性の社会参加をさらに推進する。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】をさら【さら】に推進【すいしん】する。",
+    "meaning": "Further promote women's participation in society."
+  },
+  {
+    "sentence": "彼女はとても聡明な女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても聡明【そうめい】な女性【じょせい】です。",
+    "meaning": "She is a very intelligent woman."
+  },
+  {
+    "sentence": "女性の意見が尊重される環境を作る。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】が尊重【そんけい】される環境【かんきょう】を作【つく】る。",
+    "meaning": "Create an environment where women's opinions are respected."
+  },
+  {
+    "sentence": "彼女は有名な女性スポーツ選手です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性スポーツ選手【じょせいスポーツせんしゅ】です。",
+    "meaning": "She is a famous female athlete."
+  },
+  {
+    "sentence": "女性の社会進出を応援する制度を拡充する。",
+    "sentence_furigana": "女性【じょせい】の社会進出【しゃかいしんしゅつ】を応援【おうえん】する制度【せいど】を拡充【かくじゅう】する。",
+    "meaning": "Expand systems to support women's social advancement."
+  },
+  {
+    "sentence": "彼女はとても気配りのできる女性です。",
+    "sentence_furigana": "彼女【かのじょ】はとても気配【きくば】りのできる女性【じょせい】です。",
+    "meaning": "She is a very considerate woman."
+  },
+  {
+    "sentence": "女性の意見を政策決定に反映させる。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】を政策決定【せいさくけってい】に反映【はんえい】させる。",
+    "meaning": "Reflect women's opinions in policy decisions."
+  },
+  {
+    "sentence": "彼女は有名な女性起業家です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性起業家【じょせいきぎょうか】です。",
+    "meaning": "She is a famous female entrepreneur."
+  },
+  {
+    "sentence": "女性の社会参加を促進する取り組みを強化する。",
+    "sentence_furigana": "女性【じょせい】の社会参加【しゃかいさんか】を促進【そくしん】する取【と】り組【く】みを強化【きょうか】する。",
+    "meaning": "Strengthen initiatives to promote women's participation in society."
+  },
+  {
+    "sentence": "彼女は非常にエネルギッシュな女性です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】にエネルギッシュな女性【じょせい】です。",
+    "meaning": "She is a very energetic woman."
+  },
+  {
+    "sentence": "女性の意見が平等に扱われる社会を目指す。",
+    "sentence_furigana": "女性【じょせい】の意見【いけん】が平等【びょうどう】に扱【あつか】われる社会【しゃかい】を目指【めざ】す。",
+    "meaning": "Aim for a society where women's opinions are treated equally."
+  },
+  {
+    "sentence": "彼女は有名な女性投資家です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な女性投資家【じょせいとうしか】です。",
+    "meaning": "She is a famous female investor."
+  }
+]

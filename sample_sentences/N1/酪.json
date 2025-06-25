@@ -1,0 +1,477 @@
+[
+  {
+    "sentence": "このチーズは低脂肪乳から作られている。",
+    "sentence_furigana": "このチーズは低脂肪乳【ていしぼうにゅう】から作【つく】られている。",
+    "meaning": "This cheese is made from low-fat milk."
+  },
+  {
+    "sentence": "バターミルクはサワークリームの製造過程で生じる。",
+    "sentence_furigana": "バターミルクはサワークリームの製造過程【せいぞうかてい】で生【しょう】じる。",
+    "meaning": "Buttermilk is produced during the manufacturing process of sour cream."
+  },
+  {
+    "sentence": "ヨーグルトは発酵乳製品の一種である。",
+    "sentence_furigana": "ヨーグルトは発酵乳製品【はっこうにゅうせいひん】の一種【いっしゅ】である。",
+    "meaning": "Yogurt is a type of fermented dairy product."
+  },
+  {
+    "sentence": "脱脂粉乳は牛乳から水分を除去して作られる。",
+    "sentence_furigana": "脱脂粉乳【だっしふんにゅう】は牛乳【ぎゅうにゅう】から水分【すいぶん】を除去【じょきょ】して作【つく】られる。",
+    "meaning": "Skim milk powder is made by removing water from milk."
+  },
+  {
+    "sentence": "濃縮乳は牛乳を加熱して水分を蒸発させたものである。",
+    "sentence_furigana": "濃縮乳【のうしゅくにゅう】は牛乳【ぎゅうにゅう】を加熱【かねつ】して水分【すいぶん】を蒸発【じょうはつ】させたものである。",
+    "meaning": "Concentrated milk is made by heating milk and evaporating its water content."
+  },
+  {
+    "sentence": "クリームは牛乳の脂肪分を分離したものである。",
+    "sentence_furigana": "クリームは牛乳【ぎゅうにゅう】の脂肪分【しぼうぶん】を分離【ぶんり】したものである。",
+    "meaning": "Cream is the fat component separated from milk."
+  },
+  {
+    "sentence": "プロセスチーズは複数のチーズを混合して製造される。",
+    "sentence_furigana": "プロセスチーズは複数【ふくすう】のチーズを混合【こんごう】して製造【せいぞう】される。",
+    "meaning": "Processed cheese is manufactured by mixing several cheeses."
+  },
+  {
+    "sentence": "乳清はチーズ製造の副産物として得られる。",
+    "sentence_furigana": "乳清【にゅうせい】はチーズ製造【せいぞう】の副産物【ふくさんぶつ】として得【え】られる。",
+    "meaning": "Whey is obtained as a byproduct of cheese production."
+  },
+  {
+    "sentence": "バターは牛乳から作られる最も一般的な乳製品の一つです。",
+    "sentence_furigana": "バターは牛乳【ぎゅうにゅう】から作【つく】られる最【もっと】も一般的【いっぱんてき】な乳製品【にゅうせいひん】の一【ひと】つです。",
+    "meaning": "Butter is one of the most common dairy products made from milk."
+  },
+  {
+    "sentence": "カゼインは牛乳に含まれる主要なたんぱく質です。",
+    "sentence_furigana": "カゼインは牛乳【ぎゅうにゅう】に含ま【ふくま】れる主要【しゅよう】なたんぱく質【しつ】です。",
+    "meaning": "Casein is the main protein found in milk."
+  },
+  {
+    "sentence": "このレシピでは、新鮮なヨーグルトを使用します。",
+    "sentence_furigana": "このレシピでは、新鮮【しんせん】なヨーグルトを使用【しよう】します。",
+    "meaning": "This recipe uses fresh yogurt."
+  },
+  {
+    "sentence": "牛乳パックはリサイクル可能です。",
+    "sentence_furigana": "牛乳パック【ぎゅうにゅう】はリサイクル可能【かのう】です。",
+    "meaning": "Milk cartons are recyclable."
+  },
+  {
+    "sentence": "彼は朝食にチーズをたくさん食べた。",
+    "sentence_furigana": "彼【かれ】は朝食【ちょうしょく】にチーズをたくさん食【た】べた。",
+    "meaning": "He ate a lot of cheese for breakfast."
+  },
+  {
+    "sentence": "このスープは濃厚な牛乳で煮込まれている。",
+    "sentence_furigana": "このスープは濃厚【のうこう】な牛乳【ぎゅうにゅう】で煮込【にこ】まれている。",
+    "meaning": "This soup is simmered in rich milk."
+  },
+  {
+    "sentence": "乳製品アレルギーの子供は注意が必要です。",
+    "sentence_furigana": "乳製品【にゅうせいひん】アレルギーの子供【こども】は注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Children with dairy allergies need to be careful."
+  },
+  {
+    "sentence": "発酵乳製品は消化に良いと言われています。",
+    "sentence_furigana": "発酵乳製品【はっこうにゅうせいひん】は消化【しょうか】に良【よ】いと言【い】われています。",
+    "meaning": "Fermented dairy products are said to be good for digestion."
+  },
+  {
+    "sentence": "彼女は毎日ヨーグルトを食べる習慣がある。",
+    "sentence_furigana": "彼女【かのじょ】は毎日【まいにち】ヨーグルトを食【た】べる習慣【しゅうかん】がある。",
+    "meaning": "She has a habit of eating yogurt every day."
+  },
+  {
+    "sentence": "このアイスクリームは牛乳と砂糖で作られています。",
+    "sentence_furigana": "このアイスクリームは牛乳【ぎゅうにゅう】と砂糖【さとう】で作【つく】られています。",
+    "meaning": "This ice cream is made with milk and sugar."
+  },
+  {
+    "sentence": "乳牛の飼育には特別な管理が必要です。",
+    "sentence_furigana": "乳牛【にゅうぎゅう】の飼育【しいく】には特別【とくべつ】な管理【かんり】が必要【ひつよう】です。",
+    "meaning": "Raising dairy cows requires special management."
+  },
+  {
+    "sentence": "このレシピでは、生クリームを泡立てて使います。",
+    "sentence_furigana": "このレシピでは、生クリーム【なま】を泡立【あわ】てて使【つか】います。",
+    "meaning": "In this recipe, we use whipped heavy cream."
+  },
+  {
+    "sentence": "乳製品の摂取はカルシウムの重要な供給源です。",
+    "sentence_furigana": "乳製品【にゅうせいひん】の摂取【せっしゅ】はカルシウムの重要【じゅうよう】な供給源【きょうきゅうげん】です。",
+    "meaning": "Dairy consumption is an important source of calcium."
+  },
+  {
+    "sentence": "彼はチーズフォンデュが大好きだ。",
+    "sentence_furigana": "彼【かれ】はチーズフォンデュが大好き【だいす】きだ。",
+    "meaning": "He loves cheese fondue."
+  },
+  {
+    "sentence": "牛乳はビタミンDを強化するためにしばしば使用されます。",
+    "sentence_furigana": "牛乳【ぎゅうにゅう】はビタミンDを強化【きょうか】するためにしばしば使用【しよう】されます。",
+    "meaning": "Milk is often fortified with vitamin D."
+  },
+  {
+    "sentence": "このホテルは乳製品を使わない料理も提供しています。",
+    "sentence_furigana": "このホテルは乳製品【にゅうせいひん】を使【つか】わない料理【りょうり】も提供【ていきょう】しています。",
+    "meaning": "This hotel also offers dishes without dairy products."
+  },
+  {
+    "sentence": "彼女は自家製ヨーグルトを作るのが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】は自家製【じかせい】ヨーグルトを作【つく】るのが得意【とくい】だ。",
+    "meaning": "She is good at making homemade yogurt."
+  },
+  {
+    "sentence": "この子は乳糖不耐症なので、牛乳は飲めません。",
+    "sentence_furigana": "この子【こ】は乳糖不耐症【にゅうとうふたいしょう】なので、牛乳【ぎゅうにゅう】は飲【の】めません。",
+    "meaning": "This child cannot drink milk because they are lactose intolerant."
+  },
+  {
+    "sentence": "乳清たんぱく質はアスリートに人気があります。",
+    "sentence_furigana": "乳清たんぱく質【にゅうせいたんぱくしつ】はアスリートに人気【にんき】があります。",
+    "meaning": "Whey protein is popular among athletes."
+  },
+  {
+    "sentence": "低温殺菌された牛乳は風味が良い。",
+    "sentence_furigana": "低温殺菌【ていおんさっきん】された牛乳【ぎゅうにゅう】は風味【ふうみ】が良【よ】い。",
+    "meaning": "Pasteurized milk has a good flavor."
+  },
+  {
+    "sentence": "彼はチーズケーキを作るのが好きです。",
+    "sentence_furigana": "彼【かれ】はチーズケーキを作【つく】るのが好【す】きです。",
+    "meaning": "He likes to make cheesecake."
+  },
+  {
+    "sentence": "乳製品はカルシウムとタンパク質の良い供給源です。",
+    "sentence_furigana": "乳製品【にゅうせいひん】はカルシウムとタンパク質【しつ】の良【よ】い供給源【きょうきゅうげん】です。",
+    "meaning": "Dairy products are a good source of calcium and protein."
+  },
+  {
+    "sentence": "この料理には牛乳を使いません。",
+    "sentence_furigana": "この料理【りょうり】には牛乳【ぎゅうにゅう】を使【つか】いません。",
+    "meaning": "This dish does not use milk."
+  },
+  {
+    "sentence": "彼女は毎日スクランブルエッグにチーズを加える。",
+    "sentence_furigana": "彼女【かのじょ】は毎日【まいにち】スクランブルエッグにチーズを加【くわ】える。",
+    "meaning": "She adds cheese to her scrambled eggs every day."
+  },
+  {
+    "sentence": "乳製品工場では厳格な衛生管理が行われている。",
+    "sentence_furigana": "乳製品【にゅうせいひん】工場【こうじょう】では厳格【げんかく】な衛生管理【えいせいかんり】が行【おこな】われている。",
+    "meaning": "Strict hygiene management is carried out in the dairy factory."
+  },
+  {
+    "sentence": "このヨーグルトは非常にクリーミーだ。",
+    "sentence_furigana": "このヨーグルトは非常【ひじょう】にクリーミーだ。",
+    "meaning": "This yogurt is very creamy."
+  },
+  {
+    "sentence": "脱脂乳は低脂肪食品によく使われます。",
+    "sentence_furigana": "脱脂乳【だっしにゅう】は低脂肪食品【ていしぼうしょくひん】によく使【つか】われます。",
+    "meaning": "Skim milk is often used in low-fat foods."
+  },
+  {
+    "sentence": "彼はアイスクリームを食べるのが好きです。",
+    "sentence_furigana": "彼【かれ】はアイスクリームを食【た】べるのが好【す】きです。",
+    "meaning": "He likes eating ice cream."
+  },
+  {
+    "sentence": "乳製品の消費量は年々増加しています。",
+    "sentence_furigana": "乳製品【にゅうせいひん】の消費量【しょうひりょう】は年々【ねんねん】増加【ぞうか】しています。",
+    "meaning": "Dairy product consumption is increasing year by year."
+  },
+  {
+    "sentence": "このチーズは非常に熟成されている。",
+    "sentence_furigana": "このチーズは非常【ひじょう】に熟成【じゅくせい】されている。",
+    "meaning": "This cheese is very mature."
+  },
+  {
+    "sentence": "彼女は自家製のバターを作った。",
+    "sentence_furigana": "彼女【かのじょ】は自家製【じかせい】のバターを作【つく】った。",
+    "meaning": "She made homemade butter."
+  },
+  {
+    "sentence": "牛乳のタンパク質は筋肉の成長を助けます。",
+    "sentence_furigana": "牛乳【ぎゅうにゅう】のタンパク質【しつ】は筋肉【きんにく】の成長【せいちょう】を助【たす】けます。",
+    "meaning": "Milk protein helps muscle growth."
+  },
+  {
+    "sentence": "このパイはクリームたっぷりで美味しい。",
+    "sentence_furigana": "このパイはクリームたっぷりで美味【おい】しい。",
+    "meaning": "This pie is rich and delicious with plenty of cream."
+  },
+  {
+    "sentence": "乳製品アレルギーの人は、代替食品を選ぶ必要があります。",
+    "sentence_furigana": "乳製品【にゅうせいひん】アレルギーの人【ひと】は、代替食品【だいたいしょくひん】を選【えら】ぶ必要【ひつよう】があります。",
+    "meaning": "People with dairy allergies need to choose alternative foods."
+  },
+  {
+    "sentence": "彼女は毎朝ヨーグルトを食べる。",
+    "sentence_furigana": "彼女【かのじょ】は毎朝【まいあさ】ヨーグルトを食【た】べる。",
+    "meaning": "She eats yogurt every morning."
+  },
+  {
+    "sentence": "このスープは牛乳をベースに作られている。",
+    "sentence_furigana": "このスープは牛乳【ぎゅうにゅう】をベースに作【つく】られている。",
+    "meaning": "This soup is made with a milk base."
+  },
+  {
+    "sentence": "彼は新しい種類のチーズを試食した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい種類【しゅるい】のチーズを試食【ししょく】した。",
+    "meaning": "He sampled a new type of cheese."
+  },
+  {
+    "sentence": "このヨーグルトは脂肪分が少ない。",
+    "sentence_furigana": "このヨーグルトは脂肪分【しぼうぶん】が少【すく】ない。",
+    "meaning": "This yogurt is low in fat."
+  },
+  {
+    "sentence": "乳製品は骨の健康に不可欠です。",
+    "sentence_furigana": "乳製品【にゅうせいひん】は骨【ほね】の健康【けんこう】に不可欠【ふかけつ】です。",
+    "meaning": "Dairy products are essential for bone health."
+  },
+  {
+    "sentence": "彼女は自家製のカッテージチーズを作った。",
+    "sentence_furigana": "彼女【かのじょ】は自家製【じかせい】のカッテージチーズを作【つく】った。",
+    "meaning": "She made homemade cottage cheese."
+  },
+  {
+    "sentence": "この牛乳はオーガニック認証を受けている。",
+    "sentence_furigana": "この牛乳【ぎゅうにゅう】はオーガニック認証【にんしょう】を受【う】けている。",
+    "meaning": "This milk is certified organic."
+  },
+  {
+    "sentence": "彼はバターとマーガリンの違いを説明した。",
+    "sentence_furigana": "彼【かれ】はバターとマーガリンの違い【ちが】いを説明【せつめい】した。",
+    "meaning": "He explained the difference between butter and margarine."
+  },
+  {
+    "sentence": "このサラダにはクリーミーなドレッシングがかかっている。",
+    "sentence_furigana": "このサラダにはクリーミーなドレッシングがかかっている。",
+    "meaning": "This salad is topped with a creamy dressing."
+  },
+  {
+    "sentence": "乳製品を全く摂らない食生活もある。",
+    "sentence_furigana": "乳製品【にゅうせいひん】を全【まった】く摂【と】らない食生活【しょくせいかつ】もある。",
+    "meaning": "There are also diets that completely exclude dairy products."
+  },
+  {
+    "sentence": "彼女はチーズを細かく刻んだ。",
+    "sentence_furigana": "彼女【かのじょ】はチーズを細【こま】かく刻【きざ】んだ。",
+    "meaning": "She finely chopped the cheese."
+  },
+  {
+    "sentence": "牛乳パックを分別して捨ててください。",
+    "sentence_furigana": "牛乳パック【ぎゅうにゅう】を分別【ぶんべつ】して捨【す】ててください。",
+    "meaning": "Please sort and dispose of milk cartons."
+  },
+  {
+    "sentence": "このデザートは生クリームがたっぷり使われている。",
+    "sentence_furigana": "このデザートは生クリーム【なま】がたっぷり使【つか】われている。",
+    "meaning": "This dessert uses plenty of heavy cream."
+  },
+  {
+    "sentence": "彼はチーズケーキのレシピを探している。",
+    "sentence_furigana": "彼【かれ】はチーズケーキのレシピを探【さが】している。",
+    "meaning": "He is looking for a cheesecake recipe."
+  },
+  {
+    "sentence": "乳製品は多くの文化で重要な食品です。",
+    "sentence_furigana": "乳製品【にゅうせいひん】は多【おお】くの文化【ぶんか】で重要【じゅうよう】な食品【しょくひん】です。",
+    "meaning": "Dairy products are important foods in many cultures."
+  },
+  {
+    "sentence": "彼女はヨーグルトメーカーで自家製ヨーグルトを作っている。",
+    "sentence_furigana": "彼女【かのじょ】はヨーグルトメーカーで自家製【じかせい】ヨーグルトを作【つく】っている。",
+    "meaning": "She makes homemade yogurt with a yogurt maker."
+  },
+  {
+    "sentence": "このレシピでは、牛乳の代わりに豆乳を使用します。",
+    "sentence_furigana": "このレシピでは、牛乳【ぎゅうにゅう】の代【か】わりに豆乳【とうにゅう】を使用【しよう】します。",
+    "meaning": "In this recipe, soy milk is used instead of milk."
+  },
+  {
+    "sentence": "彼は新しい種類のヨーグルトを買ってみた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい種類【しゅるい】のヨーグルトを買【か】ってみた。",
+    "meaning": "He tried buying a new kind of yogurt."
+  },
+  {
+    "sentence": "このチーズは非常に柔らかい。",
+    "sentence_furigana": "このチーズは非常【ひじょう】に柔【やわ】らかい。",
+    "meaning": "This cheese is very soft."
+  },
+  {
+    "sentence": "乳製品の価格は変動することがあります。",
+    "sentence_furigana": "乳製品【にゅうせいひん】の価格【かかく】は変動【へんどう】することがあります。",
+    "meaning": "Dairy product prices can fluctuate."
+  },
+  {
+    "sentence": "彼女は朝食にチーズトーストを食べた。",
+    "sentence_furigana": "彼女【かのじょ】は朝食【ちょうしょく】にチーズトーストを食【た】べた。",
+    "meaning": "She ate cheese toast for breakfast."
+  },
+  {
+    "sentence": "このソースは牛乳を加えて作られた。",
+    "sentence_furigana": "このソースは牛乳【ぎゅうにゅう】を加【くわ】えて作【つく】られた。",
+    "meaning": "This sauce was made by adding milk."
+  },
+  {
+    "sentence": "彼はチーズの品質をチェックした。",
+    "sentence_furigana": "彼【かれ】はチーズの品質【ひんしつ】をチェックした。",
+    "meaning": "He checked the quality of the cheese."
+  },
+  {
+    "sentence": "このアイスクリームは乳脂肪分が多い。",
+    "sentence_furigana": "このアイスクリームは乳脂肪分【にゅうしぼうぶん】が多【おお】い。",
+    "meaning": "This ice cream has a high milk fat content."
+  },
+  {
+    "sentence": "彼女は乳製品なしのケーキを作った。",
+    "sentence_furigana": "彼女【かのじょ】は乳製品【にゅうせいひん】なしのケーキを作【つく】った。",
+    "meaning": "She made a cake without dairy products."
+  },
+  {
+    "sentence": "この店では様々な種類のチーズを取り扱っています。",
+    "sentence_furigana": "この店【みせ】では様々【さまざま】な種類【しゅるい】のチーズを取【と】り扱【あつか】っています。",
+    "meaning": "This shop handles various types of cheese."
+  },
+  {
+    "sentence": "彼は新しいヨーグルトドリンクを試飲した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいヨーグルトドリンクを試飲【しいん】した。",
+    "meaning": "He tasted a new yogurt drink."
+  },
+  {
+    "sentence": "このチーズは風味豊かで美味しいです。",
+    "sentence_furigana": "このチーズは風味豊【ふうみゆた】かで美味【おい】しいです。",
+    "meaning": "This cheese is flavorful and delicious."
+  },
+  {
+    "sentence": "彼女はバタークリームのケーキが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】はバタークリームのケーキが好き【す】きだ。",
+    "meaning": "She likes butter cream cake."
+  },
+  {
+    "sentence": "牛乳パックの再利用方法を調べている。",
+    "sentence_furigana": "牛乳パック【ぎゅうにゅう】の再利用方法【さいりようほうほう】を調【しら】べている。",
+    "meaning": "I am researching ways to reuse milk cartons."
+  },
+  {
+    "sentence": "この料理には濃厚な牛乳が使われています。",
+    "sentence_furigana": "この料理【りょうり】には濃厚【のうこう】な牛乳【ぎゅうにゅう】が使【つか】われています。",
+    "meaning": "Rich milk is used in this dish."
+  },
+  {
+    "sentence": "彼はチーズとワインのペアリングを楽しんだ。",
+    "sentence_furigana": "彼【かれ】はチーズとワインのペアリングを楽【たの】しんだ。",
+    "meaning": "He enjoyed the cheese and wine pairing."
+  },
+  {
+    "sentence": "このヨーグルトはプロバイオティクスが豊富です。",
+    "sentence_furigana": "このヨーグルトはプロバイオティクスが豊富【ほうふ】です。",
+    "meaning": "This yogurt is rich in probiotics."
+  },
+  {
+    "sentence": "彼女は乳製品アレルギーのために特別な牛乳を飲んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は乳製品【にゅうせいひん】アレルギーのために特別【とくべつ】な牛乳【ぎゅうにゅう】を飲【の】んでいる。",
+    "meaning": "She drinks special milk due to her dairy allergy."
+  },
+  {
+    "sentence": "このアイスクリームには新鮮な牛乳が使われています。",
+    "sentence_furigana": "このアイスクリームには新鮮【しんせん】な牛乳【ぎゅうにゅう】が使【つか】われています。",
+    "meaning": "Fresh milk is used in this ice cream."
+  },
+  {
+    "sentence": "彼は様々な種類のチーズを試食したい。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】のチーズを試食【ししょく】したい。",
+    "meaning": "He wants to sample various kinds of cheese."
+  },
+  {
+    "sentence": "このヨーグルトは自家製でとても美味しい。",
+    "sentence_furigana": "このヨーグルトは自家製【じかせい】でとても美味【おい】しい。",
+    "meaning": "This yogurt is homemade and very delicious."
+  },
+  {
+    "sentence": "彼女はパンにバターを塗った。",
+    "sentence_furigana": "彼女【かのじょ】はパンにバターを塗【ぬ】った。",
+    "meaning": "She spread butter on the bread."
+  },
+  {
+    "sentence": "このチーズは非常に香りが良い。",
+    "sentence_furigana": "このチーズは非常【ひじょう】に香【かお】りが良【よ】い。",
+    "meaning": "This cheese has a very good aroma."
+  },
+  {
+    "sentence": "乳製品はカルシウム源として重要です。",
+    "sentence_furigana": "乳製品【にゅうせいひん】はカルシウム源【げん】として重要【じゅうよう】です。",
+    "meaning": "Dairy products are important as a source of calcium."
+  },
+  {
+    "sentence": "彼は低脂肪牛乳を選んだ。",
+    "sentence_furigana": "彼【かれ】は低脂肪牛乳【ていしぼうぎゅうにゅう】を選【えら】んだ。",
+    "meaning": "He chose low-fat milk."
+  },
+  {
+    "sentence": "この料理にはクリームソースがよく合います。",
+    "sentence_furigana": "この料理【りょうり】にはクリームソースがよく合【あ】います。",
+    "meaning": "Cream sauce goes well with this dish."
+  },
+  {
+    "sentence": "彼女はチーズを細かくすりおろした。",
+    "sentence_furigana": "彼女【かのじょ】はチーズを細【こま】かくすりおろした。",
+    "meaning": "She grated the cheese finely."
+  },
+  {
+    "sentence": "この牛乳はカルシウムが強化されています。",
+    "sentence_furigana": "この牛乳【ぎゅうにゅう】はカルシウムが強化【きょうか】されています。",
+    "meaning": "This milk is fortified with calcium."
+  },
+  {
+    "sentence": "彼はヨーグルトパフェを食べた。",
+    "sentence_furigana": "彼【かれ】はヨーグルトパフェを食【た】べた。",
+    "meaning": "He ate a yogurt parfait."
+  },
+  {
+    "sentence": "このバターは無塩です。",
+    "sentence_furigana": "このバターは無塩【むえん】です。",
+    "meaning": "This butter is unsalted."
+  },
+  {
+    "sentence": "彼女はチーズをスライスした。",
+    "sentence_furigana": "彼女【かのじょ】はチーズをスライスした。",
+    "meaning": "She sliced the cheese."
+  },
+  {
+    "sentence": "このヨーグルトは脂肪分ゼロです。",
+    "sentence_furigana": "このヨーグルトは脂肪分【しぼうぶん】ゼロです。",
+    "meaning": "This yogurt is fat-free."
+  },
+  {
+    "sentence": "彼は牛乳アレルギーの子供のために豆乳を購入した。",
+    "sentence_furigana": "彼【かれ】は牛乳【ぎゅうにゅう】アレルギーの子供【こども】のために豆乳【とうにゅう】を購入【こうにゅう】した。",
+    "meaning": "He bought soy milk for the child with a milk allergy."
+  },
+  {
+    "sentence": "このチーズケーキは濃厚で美味しい。",
+    "sentence_furigana": "このチーズケーキは濃厚【のうこう】で美味【おい】しい。",
+    "meaning": "This cheesecake is rich and delicious."
+  },
+  {
+    "sentence": "彼女は低脂肪乳を使用している。",
+    "sentence_furigana": "彼女【かのじょ】は低脂肪乳【ていしぼうにゅう】を使用【しよう】している。",
+    "meaning": "She uses low-fat milk."
+  },
+  {
+    "sentence": "このスープはクリーミーで美味しい。",
+    "sentence_furigana": "このスープはクリーミーで美味【おい】しい。",
+    "meaning": "This soup is creamy and delicious."
+  },
+  {
+    "sentence": "彼はバターと卵を混ぜ合わせた。",
+    "sentence_furigana": "彼【かれ】はバターと卵【たまご】を混【ま】ぜ合【あ】わせた。",
+    "meaning": "He mixed butter and eggs."
+  }
+]

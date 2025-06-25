@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "その男の名は太郎です。",
+    "sentence_furigana": "その男【おとこ】の名【な】は太郎【たろう】です。",
+    "meaning": "The man's name is Taro."
+  },
+  {
+    "sentence": "有名な人の名を聞いた。",
+    "sentence_furigana": "有名【ゆうめい】な人【ひと】の名【な】を聞【き】いた。",
+    "meaning": "I heard the name of a famous person."
+  },
+  {
+    "sentence": "この店の名前は美味しいです。",
+    "sentence_furigana": "この店【みせ】の名前【なまえ】は美味【おい】しいです。",
+    "meaning": "The name of this shop is delicious."
+  },
+  {
+    "sentence": "彼の名は世界中に知られている。",
+    "sentence_furigana": "彼【かれ】の名【な】は世界中【せかいじゅう】に知【し】られている。",
+    "meaning": "His name is known all over the world."
+  },
+  {
+    "sentence": "名前を書いてください。",
+    "sentence_furigana": "名前【なまえ】を書【か】いてください。",
+    "meaning": "Please write your name."
+  },
+  {
+    "sentence": "この名前は美しい響きを持つ。",
+    "sentence_furigana": "この名前【なまえ】は美【うつく】しい響【ひび】きを持【も】つ。",
+    "meaning": "This name has a beautiful sound."
+  },
+  {
+    "sentence": "彼は有名な詩人の名に恥じない生き方をした。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な詩人【しじん】の名【な】に恥【は】じない生【い】き方【かた】をした。",
+    "meaning": "He lived a life that lived up to the name of a famous poet."
+  },
+  {
+    "sentence": "名前を呼ばれて、彼は前に進んだ。",
+    "sentence_furigana": "名前【なまえ】を呼【よ】ばれて、彼【かれ】は前【まえ】に進【すす】んだ。",
+    "meaning": "His name was called, and he stepped forward."
+  },
+  {
+    "sentence": "この有名な芸術家の作品には、その名の通り魂が宿っている。",
+    "sentence_furigana": "この有名【ゆうめい】な芸術家【げいじゅつか】の作品【さくひん】には、その名【な】の通【とお】り魂【たましい】が宿【やど】っている。",
+    "meaning": "The works of this famous artist are truly soulful, as their name suggests."
+  },
+  {
+    "sentence": "彼は名声を得るために努力した。",
+    "sentence_furigana": "彼【かれ】は名声【めいせい】を得【え】るために努力【どりょく】した。",
+    "meaning": "He worked hard to gain fame."
+  },
+  {
+    "sentence": "その選手は名誉ある賞を受賞した。",
+    "sentence_furigana": "その選手【せんしゅ】は名誉【めいよ】ある賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "That athlete received an honorable award."
+  },
+  {
+    "sentence": "彼の名前は私の心に深く刻まれている。",
+    "sentence_furigana": "彼【かれ】の名前【なまえ】は私【わたし】の心【こころ】に深【ふか】く刻【きざ】まれている。",
+    "meaning": "His name is deeply etched in my heart."
+  },
+  {
+    "sentence": "有名な作家が新しい本を出版した。",
+    "sentence_furigana": "有名【ゆうめい】な作家【さっか】が新【あたら】しい本【ほん】を出版【しゅっぱん】した。",
+    "meaning": "A famous author published a new book."
+  },
+  {
+    "sentence": "この都市は歴史的な名前で知られている。",
+    "sentence_furigana": "この都市【とし】は歴史的【れきしてき】な名前【なまえ】で知【し】られている。",
+    "meaning": "This city is known for its historical name."
+  },
+  {
+    "sentence": "彼はその分野で名の知れた人物だ。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】で名【な】の知【し】れた人物【じんぶつ】だ。",
+    "meaning": "He is a well-known figure in that field."
+  },
+  {
+    "sentence": "名前を覚えるのが苦手です。",
+    "sentence_furigana": "名前【なまえ】を覚【おぼ】えるのが苦手【にがて】です。",
+    "meaning": "I am not good at remembering names."
+  },
+  {
+    "sentence": "これは大変有名な化合物名です。",
+    "sentence_furigana": "これは大変有名【たいへんゆうめい】な化合物名【かごうぶつめい】です。",
+    "meaning": "This is a very famous compound name."
+  },
+  {
+    "sentence": "彼は有名なシェフになりたいと思っている。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】なシェフになりたいと思【おも】っている。",
+    "meaning": "He wants to become a famous chef."
+  },
+  {
+    "sentence": "その山の名前は壮大だ。",
+    "sentence_furigana": "その山【やま】の名前【なまえ】は壮大【そうだい】だ。",
+    "meaning": "The name of that mountain is magnificent."
+  },
+  {
+    "sentence": "彼の名は永遠に語り継がれるだろう。",
+    "sentence_furigana": "彼【かれ】の名【な】は永遠【えいえん】に語【かた】り継【つ】がれるだろう。",
+    "meaning": "His name will likely be passed down forever."
+  },
+  {
+    "sentence": "私は自分の名前が好きだ。",
+    "sentence_furigana": "私【わたし】は自分【じぶん】の名前【なまえ】が好【す】きだ。",
+    "meaning": "I like my name."
+  },
+  {
+    "sentence": "有名なお店で食事をした。",
+    "sentence_furigana": "有名【ゆうめい】なお店【みせ】で食事【しょくじ】をした。",
+    "meaning": "I had a meal at a famous restaurant."
+  },
+  {
+    "sentence": "この作品は作者の名を不朽のものにした。",
+    "sentence_furigana": "この作品【さくひん】は作者【さくしゃ】の名【な】を不朽【ふきゅう】のものにした。",
+    "meaning": "This work made the author's name immortal."
+  },
+  {
+    "sentence": "彼の名前は歴史教科書に載っている。",
+    "sentence_furigana": "彼【かれ】の名前【なまえ】は歴史教科書【れきしきょうかしょ】に載【の】っている。",
+    "meaning": "His name is in the history textbook."
+  },
+  {
+    "sentence": "有名な画家が新しい展覧会を開いた。",
+    "sentence_furigana": "有名【ゆうめい】な画家【が か】が新【あたら】しい展覧会【てんらんかい】を開【ひら】いた。",
+    "meaning": "A famous painter opened a new exhibition."
+  },
+  {
+    "sentence": "その曲の名前を教えてください。",
+    "sentence_furigana": "その曲【きょく】の名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of that song."
+  },
+  {
+    "sentence": "彼は名を馳せた有名な指揮者だった。",
+    "sentence_furigana": "彼【かれ】は名【な】を馳【は】せた有名【ゆうめい】な指揮者【しきしゃ】だった。",
+    "meaning": "He was a famous conductor who made a name for himself."
+  },
+  {
+    "sentence": "この名前はとても一般的だ。",
+    "sentence_furigana": "この名前【なまえ】はとても一般的【いっぱんてき】だ。",
+    "meaning": "This name is very common."
+  },
+  {
+    "sentence": "名工が作った刀は素晴らしい。",
+    "sentence_furigana": "名工【めいこう】が作【つく】った刀【かたな】は素晴【すば】らしい。",
+    "meaning": "The sword made by the master craftsman is wonderful."
+  },
+  {
+    "sentence": "彼は有名な科学者の名前を引用した。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な科学者【かがくしゃ】の名前【なまえ】を引用【いんよう】した。",
+    "meaning": "He quoted the name of a famous scientist."
+  },
+  {
+    "sentence": "この花の名前は何ですか？",
+    "sentence_furigana": "この花【はな】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of this flower?"
+  },
+  {
+    "sentence": "彼は名誉のために戦った。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】のために戦【たたか】った。",
+    "meaning": "He fought for honor."
+  },
+  {
+    "sentence": "有名なお菓子屋の名前を教えて。",
+    "sentence_furigana": "有名【ゆうめい】なお菓子屋【かしや】の名前【なまえ】を教【おし】えて。",
+    "meaning": "Tell me the name of the famous confectionery shop."
+  },
+  {
+    "sentence": "この有名な俳優の名前は？",
+    "sentence_furigana": "この有名【ゆうめい】な俳優【はいゆう】の名前【なまえ】は？",
+    "meaning": "What is the name of this famous actor?"
+  },
+  {
+    "sentence": "名のある武将の子孫である。",
+    "sentence_furigana": "名【な】のある武将【ぶしょう】の子孫【しそん】である。",
+    "meaning": "He is a descendant of a renowned general."
+  },
+  {
+    "sentence": "彼の名は後世に伝えられるだろう。",
+    "sentence_furigana": "彼【かれ】の名【な】は後世【こうせい】に伝【つた】えられるだろう。",
+    "meaning": "His name will be passed on to posterity."
+  },
+  {
+    "sentence": "この有名な建築家の名前を覚えていますか？",
+    "sentence_furigana": "この有名【ゆうめい】な建築家【けんちくか】の名前【なまえ】を覚【おぼ】えていますか？",
+    "meaning": "Do you remember the name of this famous architect?"
+  },
+  {
+    "sentence": "名高い大学を卒業した。",
+    "sentence_furigana": "名高【なだか】い大学【だいがく】を卒業【そつぎょう】した。",
+    "meaning": "I graduated from a prestigious university."
+  },
+  {
+    "sentence": "彼は有名な政治家の息子だ。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な政治家【せいじか】の息子【むすこ】だ。",
+    "meaning": "He is the son of a famous politician."
+  },
+  {
+    "sentence": "この有名な映画のタイトルは何ですか？",
+    "sentence_furigana": "この有名【ゆうめい】な映画【えいが】のタイトルは何【なん】ですか？",
+    "meaning": "What is the title of this famous movie?"
+  },
+  {
+    "sentence": "彼は名誉会長に就任した。",
+    "sentence_furigana": "彼【かれ】は名誉会長【めいよかいちょう】に就任【しゅうにん】した。",
+    "meaning": "He was appointed honorary chairman."
+  },
+  {
+    "sentence": "彼女の名は世界中に知られている。",
+    "sentence_furigana": "彼女【かのじょ】の名【な】は世界中【せかいじゅう】に知【し】られている。",
+    "meaning": "Her name is known worldwide."
+  },
+  {
+    "sentence": "この有名な歌の作者は誰ですか？",
+    "sentence_furigana": "この有名【ゆうめい】な歌【うた】の作者【さくしゃ】は誰【だれ】ですか？",
+    "meaning": "Who is the author of this famous song?"
+  },
+  {
+    "sentence": "彼は名簿に自分の名前を登録した。",
+    "sentence_furigana": "彼【かれ】は名簿【めいぼ】に自分【じぶん】の名前【なまえ】を登録【とうろく】した。",
+    "meaning": "He registered his name on the list."
+  },
+  {
+    "sentence": "その有名なブランドの名前を教えてください。",
+    "sentence_furigana": "その有名【ゆうめい】なブランドの名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of that famous brand."
+  },
+  {
+    "sentence": "彼は名誉ある地位を築き上げた。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある地位【ちい】を築【きず】き上【あ】げた。",
+    "meaning": "He built up an honorable position."
+  },
+  {
+    "sentence": "この有名な料理の名前は何ですか？",
+    "sentence_furigana": "この有名【ゆうめい】な料理【りょうり】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of this famous dish?"
+  },
+  {
+    "sentence": "彼の名は英雄として語り継がれる。",
+    "sentence_furigana": "彼【かれ】の名【な】は英雄【えいゆう】として語【かた】り継【つ】がれる。",
+    "meaning": "His name will be told as a hero."
+  },
+  {
+    "sentence": "有名な大学病院で働く医師になった。",
+    "sentence_furigana": "有名【ゆうめい】な大学病院【だいがくびょういん】で働【はたら】く医師【いし】になった。",
+    "meaning": "I became a doctor working at a famous university hospital."
+  },
+  {
+    "sentence": "その有名な小説の名前を教えてください。",
+    "sentence_furigana": "その有名【ゆうめい】な小説【しょうせつ】の名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of that famous novel."
+  },
+  {
+    "sentence": "彼は名誉回復のために尽力した。",
+    "sentence_furigana": "彼【かれ】は名誉回復【めいよかいふく】のために尽力【じんりょく】した。",
+    "meaning": "He made efforts to restore his honor."
+  },
+  {
+    "sentence": "この有名な企業の名前は何ですか？",
+    "sentence_furigana": "この有名【ゆうめい】な企業【きぎょう】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of this famous company?"
+  },
+  {
+    "sentence": "彼の名は伝説となっている。",
+    "sentence_furigana": "彼【かれ】の名【な】は伝説【でんせつ】となっている。",
+    "meaning": "His name has become a legend."
+  },
+  {
+    "sentence": "有名な建築家が設計した建物だ。",
+    "sentence_furigana": "有名【ゆうめい】な建築家【けんちくか】が設計【せっけい】した建物【たてもの】だ。",
+    "meaning": "It is a building designed by a famous architect."
+  },
+  {
+    "sentence": "その有名な宝石の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な宝石【ほうせき】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous jewel?"
+  },
+  {
+    "sentence": "彼は名誉ある使命を果たす。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある使命【しめい】を果【は】たす。",
+    "meaning": "He fulfills an honorable mission."
+  },
+  {
+    "sentence": "有名な作家の名前を本で見た。",
+    "sentence_furigana": "有名【ゆうめい】な作家【さっか】の名前【なまえ】を本【ほん】で見【み】た。",
+    "meaning": "I saw the name of a famous author in a book."
+  },
+  {
+    "sentence": "この有名な曲の名前を教えてください。",
+    "sentence_furigana": "この有名【ゆうめい】な曲【きょく】の名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of this famous song."
+  },
+  {
+    "sentence": "彼は名簿に名前を書き込んだ。",
+    "sentence_furigana": "彼【かれ】は名簿【めいぼ】に名前【なまえ】を書【か】き込【こ】んだ。",
+    "meaning": "He wrote his name in the register."
+  },
+  {
+    "sentence": "有名な歴史上の人物の名前を学びました。",
+    "sentence_furigana": "有名【ゆうめい】な歴史上【れきしじょう】の人物【じんぶつ】の名前【なまえ】を学【まな】びました。",
+    "meaning": "I learned the names of famous historical figures."
+  },
+  {
+    "sentence": "その有名な都市の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な都市【とし】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous city?"
+  },
+  {
+    "sentence": "彼は名誉のためにすべてを捧げた。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】のために全【すべ】てを捧【ささ】げた。",
+    "meaning": "He dedicated everything for honor."
+  },
+  {
+    "sentence": "有名な俳優が新しい映画に出演した。",
+    "sentence_furigana": "有名【ゆうめい】な俳優【はいゆう】が新【あたら】しい映画【えいが】に出演【しゅつえん】した。",
+    "meaning": "A famous actor appeared in a new movie."
+  },
+  {
+    "sentence": "この有名な料理の名前は何ですか？",
+    "sentence_furigana": "この有名【ゆうめい】な料理【りょうり】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of this famous dish?"
+  },
+  {
+    "sentence": "彼は名誉教授として招かれた。",
+    "sentence_furigana": "彼【かれ】は名誉教授【めいよきょうじゅ】として招【まね】かれた。",
+    "meaning": "He was invited as an honorary professor."
+  },
+  {
+    "sentence": "有名な科学者の名前はアルベルト・アインシュタインです。",
+    "sentence_furigana": "有名【ゆうめい】な科学者【かがくしゃ】の名前【なまえ】はアルベルト・アインシュタインです。",
+    "meaning": "The name of the famous scientist is Albert Einstein."
+  },
+  {
+    "sentence": "その有名な作曲家の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な作曲家【さっきょくか】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous composer?"
+  },
+  {
+    "sentence": "彼は名誉ある賞を受けた。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある賞【しょう】を受【う】けた。",
+    "meaning": "He received an honorable award."
+  },
+  {
+    "sentence": "有名な大学の名前は東京大学です。",
+    "sentence_furigana": "有名【ゆうめい】な大学【だいがく】の名前【なまえ】は東京大学【とうきょうだいがく】です。",
+    "meaning": "The name of the famous university is the University of Tokyo."
+  },
+  {
+    "sentence": "その有名な詩人の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な詩人【しじん】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous poet?"
+  },
+  {
+    "sentence": "彼は名を上げ、多くの人に知られるようになった。",
+    "sentence_furigana": "彼【かれ】は名【な】を上【あ】げ、多【おお】くの人【ひと】に知【し】られるようになった。",
+    "meaning": "He made a name for himself and became known to many people."
+  },
+  {
+    "sentence": "有名な画家が新しい絵を描いた。",
+    "sentence_furigana": "有名【ゆうめい】な画家【が か】が新【あたら】しい絵【え】を描【か】いた。",
+    "meaning": "A famous painter painted a new picture."
+  },
+  {
+    "sentence": "その有名なブランドのデザイナーの名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】なブランドのデザイナーの名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of the designer of that famous brand?"
+  },
+  {
+    "sentence": "彼は名誉ある戦いで勝利した。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある戦【たたか】いで勝利【しょうり】した。",
+    "meaning": "He won a glorious battle."
+  },
+  {
+    "sentence": "有名な大学の校名はケンブリッジ大学です。",
+    "sentence_furigana": "有名【ゆうめい】な大学【だいがく】の校名【こうめい】はケンブリッジ大学【だいがく】です。",
+    "meaning": "The name of the famous university is Cambridge University."
+  },
+  {
+    "sentence": "その有名な作家の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な作家【さっか】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous author?"
+  },
+  {
+    "sentence": "彼は名誉会員として迎えられた。",
+    "sentence_furigana": "彼【かれ】は名誉会員【めいよかいいん】として迎【むか】えられた。",
+    "meaning": "He was welcomed as an honorary member."
+  },
+  {
+    "sentence": "有名な日本の城の名前を教えてください。",
+    "sentence_furigana": "有名【ゆうめい】な日本【にほん】の城【しろ】の名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of a famous Japanese castle."
+  },
+  {
+    "sentence": "その有名な国の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な国【くに】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous country?"
+  },
+  {
+    "sentence": "彼は名誉のために命をかけた。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】のために命【いのち】をか けた。",
+    "meaning": "He risked his life for honor."
+  },
+  {
+    "sentence": "有名な科学者は新しい理論を発表した。",
+    "sentence_furigana": "有名【ゆうめい】な科学者【かがくしゃ】は新【あたら】しい理論【りろん】を発表【はっぴょう】した。",
+    "meaning": "A famous scientist announced a new theory."
+  },
+  {
+    "sentence": "その有名な場所の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な場所【ばしょ】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous place?"
+  },
+  {
+    "sentence": "彼は名誉毀損で訴えられた。",
+    "sentence_furigana": "彼【かれ】は名誉毀損【めいきそん】で訴【うった】えられた。",
+    "meaning": "He was sued for defamation."
+  },
+  {
+    "sentence": "有名な大学の名前をリストアップしてください。",
+    "sentence_furigana": "有名【ゆうめい】な大学【だいがく】の名前【なまえ】をリストアップしてください。",
+    "meaning": "Please list the names of famous universities."
+  },
+  {
+    "sentence": "その有名な植物の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な植物【しょくぶつ】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous plant?"
+  },
+  {
+    "sentence": "彼は名誉を回復するために努力している。",
+    "sentence_furigana": "彼【かれ】は名誉回復【めいよかいふく】のために努力【どりょく】している。",
+    "meaning": "He is working hard to restore his honor."
+  },
+  {
+    "sentence": "有名な作家の名前は夏目漱石です。",
+    "sentence_furigana": "有名【ゆうめい】な作家【さっか】の名前【なまえ】は夏目漱石【なつめそうせき】です。",
+    "meaning": "The name of the famous author is Soseki Natsume."
+  },
+  {
+    "sentence": "その有名な建物の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な建物【たてもの】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous building?"
+  },
+  {
+    "sentence": "彼は名誉ある退職をした。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある退職【たいしょく】をした。",
+    "meaning": "He had an honorable retirement."
+  },
+  {
+    "sentence": "有名な歴史上の人物の名前を教えてください。",
+    "sentence_furigana": "有名【ゆうめい】な歴史上【れきしじょう】の人物【じんぶつ】の名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of a famous historical figure."
+  },
+  {
+    "sentence": "その有名な楽器の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な楽器【がっき】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous musical instrument?"
+  },
+  {
+    "sentence": "彼は名誉ある死を遂げた。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある死【し】を遂【と】げた。",
+    "meaning": "He died a noble death."
+  },
+  {
+    "sentence": "有名な大学の名前を教えていただけますか？",
+    "sentence_furigana": "有名【ゆうめい】な大学【だいがく】の名前【なまえ】を教【おし】えていただけますか？",
+    "meaning": "Could you please tell me the name of a famous university?"
+  },
+  {
+    "sentence": "その有名な物語の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な物語【ものがたり】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous story?"
+  },
+  {
+    "sentence": "彼は名誉のために最後まで戦い抜いた。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】のために最【さい】ごまで戦【たたか】い抜【ぬ】いた。",
+    "meaning": "He fought to the end for honor."
+  },
+  {
+    "sentence": "有名な科学者の名前は誰ですか？",
+    "sentence_furigana": "有名【ゆうめい】な科学者【かがくしゃ】の名前【なまえ】は誰【だれ】ですか？",
+    "meaning": "Who is the famous scientist?"
+  },
+  {
+    "sentence": "その有名な湖の名前は何ですか？",
+    "sentence_furigana": "その有名【ゆうめい】な湖【みずうみ】の名前【なまえ】は何【なん】ですか？",
+    "meaning": "What is the name of that famous lake?"
+  },
+  {
+    "sentence": "彼は名誉ある称号を得た。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある称号【しょうごう】を得【え】た。",
+    "meaning": "He received an honorable title."
+  },
+  {
+    "sentence": "有名な作家の名前を教えてください。",
+    "sentence_furigana": "有名【ゆうめい】な作家【さっか】の名前【なまえ】を教【おし】えてください。",
+    "meaning": "Please tell me the name of the famous author."
+  }
+]

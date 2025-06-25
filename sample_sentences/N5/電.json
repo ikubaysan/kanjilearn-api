@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "電話で話しました。",
+    "sentence_furigana": "電話【でんわ】で話【はな】しました。",
+    "meaning": "I spoke on the phone."
+  },
+  {
+    "sentence": "電車に乗りました。",
+    "sentence_furigana": "電車【でんしゃ】に乗【の】りました。",
+    "meaning": "I rode the train."
+  },
+  {
+    "sentence": "電気を消してください。",
+    "sentence_furigana": "電気【でんき】を消【け】してください。",
+    "meaning": "Please turn off the electricity."
+  },
+  {
+    "sentence": "電気がありません。",
+    "sentence_furigana": "電気【でんき】がありません。",
+    "meaning": "There is no electricity."
+  },
+  {
+    "sentence": "電力会社に問い合わせました。",
+    "sentence_furigana": "電力【でんりょく】会社【がいしゃ】に問【と】い合【あ】わせました。",
+    "meaning": "I inquired with the power company."
+  },
+  {
+    "sentence": "電子レンジで温めます。",
+    "sentence_furigana": "電子【でんし】レンジで温【あたた】めます。",
+    "meaning": "I will warm it up in the microwave."
+  },
+  {
+    "sentence": "電報を送りました。",
+    "sentence_furigana": "電報【でんぽう】を送【おく】りました。",
+    "meaning": "I sent a telegram."
+  },
+  {
+    "sentence": "電波が届きません。",
+    "sentence_furigana": "電波【でんぱ】が届【とど】きません。",
+    "meaning": "The radio waves are not reaching."
+  },
+  {
+    "sentence": "送電線が延びています。",
+    "sentence_furigana": "送電【そうでん】線【せん】が伸【の】びています。",
+    "meaning": "The transmission lines are extending."
+  },
+  {
+    "sentence": "発電所で電気を作っています。",
+    "sentence_furigana": "発電【はつでん】所【じょ】で電気【でんき】を作【つく】っています。",
+    "meaning": "Electricity is being generated at the power plant."
+  },
+  {
+    "sentence": "電球が切れました。",
+    "sentence_furigana": "電球【でんきゅう】が切【き】れました。",
+    "meaning": "The light bulb burned out."
+  },
+  {
+    "sentence": "電池が切れそうなので交換します。",
+    "sentence_furigana": "電池【でんち】が切【き】れそうなので交換【こうかん】します。",
+    "meaning": "The battery is about to run out, so I will replace it."
+  },
+  {
+    "sentence": "電動歯ブラシを使っています。",
+    "sentence_furigana": "電動【でんどう】歯ブラシを使【つか】っています。",
+    "meaning": "I am using an electric toothbrush."
+  },
+  {
+    "sentence": "雷が鳴っています。",
+    "sentence_furigana": "雷【かみなり】が鳴【な】っています。",
+    "meaning": "Thunder is rumbling."
+  },
+  {
+    "sentence": "雷注意報が出ました。",
+    "sentence_furigana": "雷【かみなり】注意報【ちゅういほう】が出【で】ました。",
+    "meaning": "A thunder warning has been issued."
+  },
+  {
+    "sentence": "電光掲示板に情報が表示されています。",
+    "sentence_furigana": "電光【でんこう】掲示板【けいじばん】に情報【じょうほう】が表示【ひょうじ】されています。",
+    "meaning": "Information is displayed on the electronic bulletin board."
+  },
+  {
+    "sentence": "電磁波の影響が心配です。",
+    "sentence_furigana": "電磁波【でんじは】の影響【えいきょう】が心配【しんぱい】です。",
+    "meaning": "I am concerned about the effects of electromagnetic waves."
+  },
+  {
+    "sentence": "電報を受け取りました。",
+    "sentence_furigana": "電報【でんぽう】を受【う】け取【と】りました。",
+    "meaning": "I received a telegram."
+  },
+  {
+    "sentence": "電車は時間通りに来ました。",
+    "sentence_furigana": "電車【でんしゃ】は時間【じかん】通【どお】りに来【き】ました。",
+    "meaning": "The train arrived on time."
+  },
+  {
+    "sentence": "電話番号を教えてください。",
+    "sentence_furigana": "電話番号【でんわばんごう】を教【おし】えてください。",
+    "meaning": "Please tell me your phone number."
+  },
+  {
+    "sentence": "電気代が高くなりました。",
+    "sentence_furigana": "電気代【でんきだい】が高【たか】くなりました。",
+    "meaning": "The electricity bill has become high."
+  },
+  {
+    "sentence": "電子書籍を読みます。",
+    "sentence_furigana": "電子【でんし】書籍【しょせき】を読【よ】みます。",
+    "meaning": "I read e-books."
+  },
+  {
+    "sentence": "送電網が発達しています。",
+    "sentence_furigana": "送電【そうでん】網【もう】が発達【はったつ】しています。",
+    "meaning": "The power transmission network is developing."
+  },
+  {
+    "sentence": "電熱器を使っています。",
+    "sentence_furigana": "電熱器【でんねつき】を使【つか】っています。",
+    "meaning": "I am using an electric heater."
+  },
+  {
+    "sentence": "雷に打たれないように注意します。",
+    "sentence_furigana": "雷【かみなり】に打【う】たれないように注意【ちゅうい】します。",
+    "meaning": "I will be careful not to be struck by lightning."
+  },
+  {
+    "sentence": "電話が鳴っています。",
+    "sentence_furigana": "電話【でんわ】が鳴【な】っています。",
+    "meaning": "The phone is ringing."
+  },
+  {
+    "sentence": "電車を乗り換えました。",
+    "sentence_furigana": "電車【でんしゃ】を乗【の】り換【か】えました。",
+    "meaning": "I changed trains."
+  },
+  {
+    "sentence": "電気自動車が普及しています。",
+    "sentence_furigana": "電気【でんき】自動車【じどうしゃ】が普及【ふきゅう】しています。",
+    "meaning": "Electric cars are becoming widespread."
+  },
+  {
+    "sentence": "電力不足が懸念されています。",
+    "sentence_furigana": "電力【でんりょく】不足【ぶそく】が懸念【けねん】されています。",
+    "meaning": "A shortage of electricity is feared."
+  },
+  {
+    "sentence": "電子顕微鏡で観察しました。",
+    "sentence_furigana": "電子【でんし】顕微鏡【けんびきょう】で観察【かんさつ】しました。",
+    "meaning": "I observed it with an electron microscope."
+  },
+  {
+    "sentence": "電報で連絡します。",
+    "sentence_furigana": "電報【でんぽう】で連絡【れんらく】します。",
+    "meaning": "I will contact you by telegram."
+  },
+  {
+    "sentence": "電車遅延のため、遅刻しました。",
+    "sentence_furigana": "電車【でんしゃ】遅延【ちえん】のため、遅刻【ちこく】しました。",
+    "meaning": "I was late due to a train delay."
+  },
+  {
+    "sentence": "電話をかけ直します。",
+    "sentence_furigana": "電話【でんわ】をかけ直【なお】します。",
+    "meaning": "I will call back."
+  },
+  {
+    "sentence": "電灯をつけてください。",
+    "sentence_furigana": "電灯【でんとう】をつけてください。",
+    "meaning": "Please turn on the electric light."
+  },
+  {
+    "sentence": "電池交換が必要です。",
+    "sentence_furigana": "電池【でんち】交換【こうかん】が必要です【ひつよう】。",
+    "meaning": "Battery replacement is necessary."
+  },
+  {
+    "sentence": "電動アシスト自転車は楽です。",
+    "sentence_furigana": "電動【でんどう】アシスト自転車【じてんしゃ】は楽【らく】です。",
+    "meaning": "An electric assist bicycle is easy to ride."
+  },
+  {
+    "sentence": "雷の日は外出を控えます。",
+    "sentence_furigana": "雷【かみなり】の日【ひ】は外出【がいしゅつ】を控【ひか】えます。",
+    "meaning": "I refrain from going out on thunder days."
+  },
+  {
+    "sentence": "電光石火の速さで動きました。",
+    "sentence_furigana": "電光石火【でんこうせっか】の速【はや】さで動【うご】きました。",
+    "meaning": "He moved with lightning speed."
+  },
+  {
+    "sentence": "電波時計は正確です。",
+    "sentence_furigana": "電波時計【でんぱどけい】は正確【せいかく】です。",
+    "meaning": "Radio-controlled clocks are accurate."
+  },
+  {
+    "sentence": "電話番号を登録しました。",
+    "sentence_furigana": "電話番号【でんわばんごう】を登録【とうろく】しました。",
+    "meaning": "I registered the phone number."
+  },
+  {
+    "sentence": "電車賃が上がりました。",
+    "sentence_furigana": "電車賃【でんしゃちん】が上【あ】がりました。",
+    "meaning": "The train fare has increased."
+  },
+  {
+    "sentence": "電気工事を依頼しました。",
+    "sentence_furigana": "電気【でんき】工事【こうじ】を依頼【いらい】しました。",
+    "meaning": "I requested electrical work."
+  },
+  {
+    "sentence": "電子オルガンを演奏します。",
+    "sentence_furigana": "電子【でんし】オルガンを演奏【えんそう】します。",
+    "meaning": "I will play the electronic organ."
+  },
+  {
+    "sentence": "送電線工事のため、停電します。",
+    "sentence_furigana": "送電【そうでん】線【せん】工事【こうじ】のため、停電【ていでん】します。",
+    "meaning": "There will be a power outage due to transmission line work."
+  },
+  {
+    "sentence": "電熱線が発熱しています。",
+    "sentence_furigana": "電熱線【でんねつせん】が発熱【はつねつ】しています。",
+    "meaning": "The heating element is generating heat."
+  },
+  {
+    "sentence": "落雷の危険性があります。",
+    "sentence_furigana": "落雷【らくらい】の危険性【きけんせい】があります。",
+    "meaning": "There is a risk of lightning strikes."
+  },
+  {
+    "sentence": "電話が通じません。",
+    "sentence_furigana": "電話【でんわ】が通【つ】じません。",
+    "meaning": "The phone is not connecting."
+  },
+  {
+    "sentence": "電車に乗車します。",
+    "sentence_furigana": "電車【でんしゃ】に乗車【じょうしゃ】します。",
+    "meaning": "I will board the train."
+  },
+  {
+    "sentence": "電気を節約しましょう。",
+    "sentence_furigana": "電気【でんき】を節約【せつやく】しましょう。",
+    "meaning": "Let's save electricity."
+  },
+  {
+    "sentence": "電力需要が増加しています。",
+    "sentence_furigana": "電力【でんりょく】需要【じゅよう】が増加【ぞうか】しています。",
+    "meaning": "The demand for electricity is increasing."
+  },
+  {
+    "sentence": "電子メールを送信しました。",
+    "sentence_furigana": "電子【でんし】メールを送信【そうしん】しました。",
+    "meaning": "I sent an email."
+  },
+  {
+    "sentence": "電報の代わりにメールで連絡します。",
+    "sentence_furigana": "電報【でんぽう】の代【か】わりにメールで連絡【れんらく】します。",
+    "meaning": "I will contact you by email instead of telegram."
+  },
+  {
+    "sentence": "電車の中で寝てしまいました。",
+    "sentence_furigana": "電車【でんしゃ】の中【なか】で寝【ね】てしまいました。",
+    "meaning": "I fell asleep on the train."
+  },
+  {
+    "sentence": "電話で予約しました。",
+    "sentence_furigana": "電話【でんわ】で予約【よやく】しました。",
+    "meaning": "I made a reservation by phone."
+  },
+  {
+    "sentence": "電気メーターの検針をします。",
+    "sentence_furigana": "電気【でんき】メーターの検針【けんしん】をします。",
+    "meaning": "I will read the electric meter."
+  },
+  {
+    "sentence": "電池を買いに行きます。",
+    "sentence_furigana": "電池【でんち】を買【か】いに行【い】きます。",
+    "meaning": "I will go buy batteries."
+  },
+  {
+    "sentence": "電動アシスト付き自転車の試乗をしました。",
+    "sentence_furigana": "電動【でんどう】アシスト付【つ】き自転車【じてんしゃ】の試乗【しじょう】をしました。",
+    "meaning": "I test-rode an electric assist bicycle."
+  },
+  {
+    "sentence": "雷雨に注意してください。",
+    "sentence_furigana": "雷雨【らいう】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of thunderstorms."
+  },
+  {
+    "sentence": "電光掲示板が見にくいです。",
+    "sentence_furigana": "電光【でんこう】掲示板【けいじばん】が見【み】にくいです。",
+    "meaning": "The electronic bulletin board is hard to see."
+  },
+  {
+    "sentence": "電磁調理器は便利です。",
+    "sentence_furigana": "電磁【でんじ】調理器【ちょうりき】は便利【べんり】です。",
+    "meaning": "An IH cooker is convenient."
+  },
+  {
+    "sentence": "電話帳で番号を調べました。",
+    "sentence_furigana": "電話帳【でんわちょう】で番号【ばんごう】を調【しら】べました。",
+    "meaning": "I looked up the number in the phone book."
+  },
+  {
+    "sentence": "電車が満員でした。",
+    "sentence_furigana": "電車【でんしゃ】が満員【まんいん】でした。",
+    "meaning": "The train was crowded."
+  },
+  {
+    "sentence": "電気製品のセール中です。",
+    "sentence_furigana": "電気【でんき】製品【せいひん】のセール中【ちゅう】です。",
+    "meaning": "There is a sale on electrical appliances."
+  },
+  {
+    "sentence": "電子辞書を使います。",
+    "sentence_furigana": "電子【でんし】辞書【じしょ】を使【つか】います。",
+    "meaning": "I use an electronic dictionary."
+  },
+  {
+    "sentence": "送電ロスを削減します。",
+    "sentence_furigana": "送電【そうでん】ロスを削減【さくげん】します。",
+    "meaning": "We will reduce transmission losses."
+  },
+  {
+    "sentence": "電熱グローブで手を温めます。",
+    "sentence_furigana": "電熱【でんねつ】グローブで手【て】を温【あたた】めます。",
+    "meaning": "I warm my hands with electric gloves."
+  },
+  {
+    "sentence": "雷が近づいています。",
+    "sentence_furigana": "雷【かみなり】が近【ちか】づいています。",
+    "meaning": "Thunder is approaching."
+  },
+  {
+    "sentence": "電話で問い合わせてください。",
+    "sentence_furigana": "電話【でんわ】で問【と】い合【あ】わせてください。",
+    "meaning": "Please inquire by phone."
+  },
+  {
+    "sentence": "電車が急停車しました。",
+    "sentence_furigana": "電車【でんしゃ】が急停車【きゅうていしゃ】しました。",
+    "meaning": "The train made an emergency stop."
+  },
+  {
+    "sentence": "電気料金の支払い方法。",
+    "sentence_furigana": "電気【でんき】料金【りょうきん】の支払【しはら】い方法【ほうほう】。",
+    "meaning": "How to pay the electricity bill."
+  },
+  {
+    "sentence": "電池切れのスマートフォン。",
+    "sentence_furigana": "電池【でんち】切【ぎ】れのスマートフォン。",
+    "meaning": "A smartphone with a dead battery."
+  },
+  {
+    "sentence": "電動アシストは強力です。",
+    "sentence_furigana": "電動【でんどう】アシストは強力【きょうりょく】です。",
+    "meaning": "The electric assist is powerful."
+  },
+  {
+    "sentence": "雷の注意喚起を行いました。",
+    "sentence_furigana": "雷【かみなり】の注意喚起【ちゅういかんき】を行【おこな】いました。",
+    "meaning": "We issued a warning about lightning."
+  },
+  {
+    "sentence": "電光掲示板の表示が変わりました。",
+    "sentence_furigana": "電光【でんこう】掲示板【けいじばん】の表示【ひょうじ】が変【か】わりました。",
+    "meaning": "The display on the electronic bulletin board has changed."
+  },
+  {
+    "sentence": "電磁波対策が必要です。",
+    "sentence_furigana": "電磁波【でんじは】対策【たいさく】が必要です【ひつよう】。",
+    "meaning": "Countermeasures against electromagnetic waves are necessary."
+  },
+  {
+    "sentence": "電話帳を更新しました。",
+    "sentence_furigana": "電話帳【でんわちょう】を更新【こうしん】しました。",
+    "meaning": "I updated the phone book."
+  },
+  {
+    "sentence": "電車で移動します。",
+    "sentence_furigana": "電車【でんしゃ】で移動【いどう】します。",
+    "meaning": "I will travel by train."
+  },
+  {
+    "sentence": "電気をつけます。",
+    "sentence_furigana": "電気【でんき】をつけます。",
+    "meaning": "I will turn on the lights."
+  },
+  {
+    "sentence": "電力供給が安定しています。",
+    "sentence_furigana": "電力【でんりょく】供給【きょうきゅう】が安定【あんてい】しています。",
+    "meaning": "The power supply is stable."
+  },
+  {
+    "sentence": "電子レンジで調理します。",
+    "sentence_furigana": "電子【でんし】レンジで調理【ちょうり】します。",
+    "meaning": "I will cook in the microwave."
+  },
+  {
+    "sentence": "電報は時代遅れになりました。",
+    "sentence_furigana": "電報【でんぽう】は時代遅【じだいお】くれになりました。",
+    "meaning": "Telegrams have become obsolete."
+  },
+  {
+    "sentence": "電車内での飲食はご遠慮ください。",
+    "sentence_furigana": "電車【でんしゃ】内【ない】での飲食【いんしょく】はご遠慮【えんりょ】ください。",
+    "meaning": "Please refrain from eating and drinking on the train."
+  },
+  {
+    "sentence": "電話番号が変わりました。",
+    "sentence_furigana": "電話番号【でんわばんごう】が変【か】わりました。",
+    "meaning": "The phone number has changed."
+  },
+  {
+    "sentence": "電気料金の通知が届きました。",
+    "sentence_furigana": "電気【でんき】料金【りょうきん】の通知【つうち】が届【とど】きました。",
+    "meaning": "I received the electricity bill notification."
+  },
+  {
+    "sentence": "電池が消耗していました。",
+    "sentence_furigana": "電池【でんち】が消耗【しょうもう】していました。",
+    "meaning": "The battery was depleted."
+  },
+  {
+    "sentence": "電動工具は便利です。",
+    "sentence_furigana": "電動【でんどう】工具【こうぐ】は便利【べんり】です。",
+    "meaning": "Power tools are convenient."
+  },
+  {
+    "sentence": "雷が鳴り止みました。",
+    "sentence_furigana": "雷【かみなり】が鳴【な】り止【や】みました。",
+    "meaning": "The thunder has stopped."
+  },
+  {
+    "sentence": "電光掲示板は大きく見やすいです。",
+    "sentence_furigana": "電光【でんこう】掲示板【けいじばん】は的大【おお】きく見【み】やすいです。",
+    "meaning": "The electronic bulletin board is large and easy to see."
+  },
+  {
+    "sentence": "電磁波を遮断する素材。",
+    "sentence_furigana": "電磁波【でんじは】を遮断【しゃだん】する素材【そざい】。",
+    "meaning": "Material that blocks electromagnetic waves."
+  },
+  {
+    "sentence": "電話での問い合わせは混み合っています。",
+    "sentence_furigana": "電話【でんわ】での問【と】い合【あ】わせは混【こ】み合【あ】っています。",
+    "meaning": "Phone inquiries are busy."
+  },
+  {
+    "sentence": "電車は満員電車を避けています。",
+    "sentence_furigana": "電車【でんしゃ】は満員電車【まんいんでんしゃ】を避【さ】けています。",
+    "meaning": "I avoid rush hour trains."
+  },
+  {
+    "sentence": "電気は生活に不可欠です。",
+    "sentence_furigana": "電気【でんき】は生活【せいかつ】に不可欠【ふかけつ】です。",
+    "meaning": "Electricity is essential for life."
+  },
+  {
+    "sentence": "電力会社の節電協力のお願い。",
+    "sentence_furigana": "電力【でんりょく】会社【がいしゃ】の節電【せつでん】協力【きょうりょく】のお願【ねが】い。",
+    "meaning": "Request for cooperation in saving electricity from the power company."
+  },
+  {
+    "sentence": "電子レンジの使い方は簡単です。",
+    "sentence_furigana": "電子【でんし】レンジの使【つか】い方【かた】は簡単【かんたん】です。",
+    "meaning": "The microwave is easy to use."
+  },
+  {
+    "sentence": "電報の代わりにEメールを使います。",
+    "sentence_furigana": "電報【でんぽう】の代【か】わりにEメールを使【つか】います。",
+    "meaning": "I use email instead of telegrams."
+  },
+  {
+    "sentence": "電車賃の改定について。",
+    "sentence_furigana": "電車賃【でんしゃちん】の改定【かいてい】について。",
+    "meaning": "Regarding the revision of train fares."
+  },
+  {
+    "sentence": "電話での会話を録音しました。",
+    "sentence_furigana": "電話【でんわ】での会話【かいわ】を録音【ろくおん】しました。",
+    "meaning": "I recorded the phone conversation."
+  },
+  {
+    "sentence": "電気スタンドを新調しました。",
+    "sentence_furigana": "電気【でんき】スタンドを新調【しんちょう】しました。",
+    "meaning": "I bought a new desk lamp."
+  },
+  {
+    "sentence": "電池はどこで買えますか。",
+    "sentence_furigana": "電池【でんち】はどこで買【か】えますか。",
+    "meaning": "Where can I buy batteries?"
+  },
+  {
+    "sentence": "電動アシスト付き自転車は坂道でも楽です。",
+    "sentence_furigana": "電動【でんどう】アシスト付【つ】き自転車【じてんしゃ】は坂道【さかみち】でも楽【らく】です。",
+    "meaning": "An electric assist bicycle is easy to ride even on slopes."
+  },
+  {
+    "sentence": "雷が近づいているので、戸締りをしてください。",
+    "sentence_furigana": "雷【かみなり】が近【ちか】づいているので、戸締【とじ】まりをしてください。",
+    "meaning": "Lightning is approaching, so please lock your doors and windows."
+  },
+  {
+    "sentence": "電光掲示板で情報を確認します。",
+    "sentence_furigana": "電光【でんこう】掲示板【けいじばん】で情報【じょうほう】を確認【かくにん】します。",
+    "meaning": "I will check the information on the electronic bulletin board."
+  }
+]

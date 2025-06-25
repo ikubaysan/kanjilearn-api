@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "人々は式典のために整然と並んだ。",
+    "sentence_furigana": "人々【ひとびと】は式典【しきてん】のために整然【せいぜん】と並【なら】んだ。",
+    "meaning": "The people lined up neatly for the ceremony."
+  },
+  {
+    "sentence": "彼の作品は有名作家の作品と並ぶほどだ。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は有名作家【ゆうめいさっか】の作品【さくひん】と並【なら】ぶほどだ。",
+    "meaning": "His work is comparable to that of famous writers."
+  },
+  {
+    "sentence": "店には様々な商品が並んでいた。",
+    "sentence_furigana": "店【みせ】には様々【さまざま】な商品【しょうひん】が並【なら】んでいた。",
+    "meaning": "Various products were lined up in the store."
+  },
+  {
+    "sentence": "彼は才能においても彼女と並ぶ者はいない。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】においても彼女【かのじょ】と並【なら】ぶ者【もの】はいない。",
+    "meaning": "In terms of talent, no one rivals her."
+  },
+  {
+    "sentence": "机を並べて勉強した。",
+    "sentence_furigana": "机【つくえ】を並【なら】べて勉強【べんきょう】した。",
+    "meaning": "We studied with our desks placed side by side."
+  },
+  {
+    "sentence": "横一列に並んでください。",
+    "sentence_furigana": "横一列【よこいちれつ】に並【なら】んでください。",
+    "meaning": "Please line up in a single horizontal row."
+  },
+  {
+    "sentence": "歴史上の偉人たちと並ぶ評価を得た。",
+    "sentence_furigana": "歴史上【れきしじょう】の偉人【いじん】たちと並【なら】ぶ評価【ひょうか】を得【え】た。",
+    "meaning": "He received recognition comparable to great figures in history."
+  },
+  {
+    "sentence": "子供たちは先生の後に続いて並んだ。",
+    "sentence_furigana": "子供【こども】たちは先生【せんせい】の後【あと】に続【つづ】いて並【なら】んだ。",
+    "meaning": "The children followed the teacher and lined up."
+  },
+  {
+    "sentence": "彼は多くの著名人と並んで写真に写った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの著名人【ちょめいじん】と並【なら】んで写真【しゃしん】に写【うつ】った。",
+    "meaning": "He was photographed alongside many celebrities."
+  },
+  {
+    "sentence": "駅前には多くの人が列をなして並んでいた。",
+    "sentence_furigana": "駅前【えきまえ】には多【おお】くの人【ひと】が列【れつ】をなして並【なら】んでいた。",
+    "meaning": "Many people were lined up in a queue in front of the station."
+  },
+  {
+    "sentence": "彼の業績は歴代のトップ選手と並ぶものです。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は歴代【れきだい】のトップ選手【せんしゅ】と並【なら】ぶものです。",
+    "meaning": "His achievements are on par with top athletes of all time."
+  },
+  {
+    "sentence": "この部屋にはベッドが二つ並んでいる。",
+    "sentence_furigana": "この部屋【へや】にはベッドが二つ並【なら】んでいる。",
+    "meaning": "There are two beds side by side in this room."
+  },
+  {
+    "sentence": "彼女は歌手としても、女優としても並ぶものがない。",
+    "sentence_furigana": "彼女【かのじょ】は歌手【かしゅ】としても、女優【じょゆう】としても並【なら】ぶものがない。",
+    "meaning": "She is unmatched as both a singer and an actress."
+  },
+  {
+    "sentence": "資料をきれいに並べてください。",
+    "sentence_furigana": "資料【しりょう】をきれいに並【なら】べてください。",
+    "meaning": "Please arrange the documents neatly."
+  },
+  {
+    "sentence": "彼の功績は偉人と並び称されるべきだ。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は偉人【いじん】と並【なら】び称【たた】えられるべきだ。",
+    "meaning": "His achievements should be praised alongside great people."
+  },
+  {
+    "sentence": "会場には多くの来賓が整然と並んでいた。",
+    "sentence_furigana": "会場【かいじょう】には多【おお】くの来賓【らいひん】が整然【せいぜん】と並【なら】んでいた。",
+    "meaning": "Many guests were lined up orderly in the venue."
+  },
+  {
+    "sentence": "この技術は世界最先端のものと並ぶ。",
+    "sentence_furigana": "この技術【ぎじゅつ】は世界最先端【せかいさいせんたん】のものと並【なら】ぶ。",
+    "meaning": "This technology is on par with the world's cutting edge."
+  },
+  {
+    "sentence": "彼は親友と肩を並べて歩いた。",
+    "sentence_furigana": "彼【かれ】は親友【しんゆう】と肩【かた】を並【なら】べて歩【ある】いた。",
+    "meaning": "He walked shoulder to shoulder with his best friend."
+  },
+  {
+    "sentence": "すべての参加者は指定された場所に並んだ。",
+    "sentence_furigana": "全【すべ】ての参加者【さんかしゃ】は指定【してい】された場所【ばしょ】に並【なら】んだ。",
+    "meaning": "All participants lined up in the designated spots."
+  },
+  {
+    "sentence": "彼の書く文章は大家のそれと並び称される。",
+    "sentence_furigana": "彼【かれ】の書【か】く文章【ぶんしょう】は大家【たいか】のそれと並【なら】び称【たた】される。",
+    "meaning": "His writing is praised in the same league as masters."
+  },
+  {
+    "sentence": "お店の商品が整然と並べられている。",
+    "sentence_furigana": "店【みせ】の商品【しょうひん】が整然【せいぜん】と並【なら】べられている。",
+    "meaning": "The store's products are arranged neatly."
+  },
+  {
+    "sentence": "彼は能力的に同僚と並ぶ者はいない。",
+    "sentence_furigana": "彼【かれ】は能力【のうりょく】的【てき】に同僚【どうりょう】と並【なら】ぶ者【もの】はいない。",
+    "meaning": "He has no equal among his colleagues in terms of ability."
+  },
+  {
+    "sentence": "二列に並んでください。",
+    "sentence_furigana": "二列【にれつ】に並【なら】んでください。",
+    "meaning": "Please line up in two rows."
+  },
+  {
+    "sentence": "彼の芸術は過去の巨匠たちと並び称される価値がある。",
+    "sentence_furigana": "彼【かれ】の芸術【げいじゅつ】は過去【かこ】の巨匠【きょしょう】たちと並【なら】び称【たた】される価値【かち】がある。",
+    "meaning": "His art is worthy of being praised alongside past masters."
+  },
+  {
+    "sentence": "この二つの城は歴史的に並び称される。",
+    "sentence_furigana": "この二つ【ふたつ】の城【しろ】は歴史的【れきしてき】に並【なら】び称【たた】される。",
+    "meaning": "These two castles are historically comparable."
+  },
+  {
+    "sentence": "彼は記録においても他の追随を許さない。",
+    "sentence_furigana": "彼【かれ】は記録【きろく】においても他【た】の追随【ついずい】を許【ゆる】さない。",
+    "meaning": "He is unparalleled in records."
+  },
+  {
+    "sentence": "並木道が美しく色づいていた。",
+    "sentence_furigana": "並木道【なみきみち】が美【うつく】しく色【いろ】づいていた。",
+    "meaning": "The tree-lined avenue was beautifully colored."
+  },
+  {
+    "sentence": "図書館の本は主題別に並べられている。",
+    "sentence_furigana": "図書館【としょかん】の本【ほん】は主題別【しゅだいべつ】に並【なら】べられている。",
+    "meaning": "The books in the library are arranged by subject."
+  },
+  {
+    "sentence": "彼らは同じレベルで競い合っている。",
+    "sentence_furigana": "彼ら【かれら】は同【おな】じレベルで競【きそ】い合【あ】っている。",
+    "meaning": "They compete on the same level."
+  },
+  {
+    "sentence": "全ての選手がスタートラインに並んだ。",
+    "sentence_furigana": "全【すべ】ての選手【せんしゅ】がスタートラインに並【なら】んだ。",
+    "meaning": "All the athletes lined up at the starting line."
+  },
+  {
+    "sentence": "この国の経済成長は他の先進国と並ぶものがある。",
+    "sentence_furigana": "この国【くに】の経済成長【けいざいせいちょう】は他【た】の先進国【せんしんこく】と並【なら】ぶものがある。",
+    "meaning": "This country's economic growth is comparable to other developed nations."
+  },
+  {
+    "sentence": "彼は偉大な指導者たちと並んで語られるべき人物だ。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な指導者【しどうしゃ】たちと並【なら】んで語【かた】られるべき人物【じんぶつ】だ。",
+    "meaning": "He is a figure who should be spoken of alongside great leaders."
+  },
+  {
+    "sentence": "商品を陳列棚にきれいに並べた。",
+    "sentence_furigana": "商品【しょうひん】を陳列棚【ちんれつだな】にきれいに並【なら】べた。",
+    "meaning": "I neatly arranged the products on the display shelf."
+  },
+  {
+    "sentence": "彼は友人と肩を並べて歩むことを決めた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】と肩【かた】を並【なら】べて歩【あゆ】むことを決【き】めた。",
+    "meaning": "He decided to walk alongside his friends."
+  },
+  {
+    "sentence": "その二つの都市は文化的にほぼ同等です。",
+    "sentence_furigana": "その二つ【ふたつ】の都市【とし】は文化【ぶんか】的【てき】にほぼ同等【どうとう】です。",
+    "meaning": "Those two cities are culturally almost equal."
+  },
+  {
+    "sentence": "選手たちが整列して待機している。",
+    "sentence_furigana": "選手【せんしゅ】たちが整列【せいれつ】して待機【たいき】している。",
+    "meaning": "The athletes are lined up and waiting."
+  },
+  {
+    "sentence": "彼の名は歴史に刻まれるべきだ。",
+    "sentence_furigana": "彼【かれ】の名【な】は歴史【れきし】に刻【きざ】まれるべきだ。",
+    "meaning": "His name should be etched in history."
+  },
+  {
+    "sentence": "ショーケースには宝石が美しく並んでいた。",
+    "sentence_furigana": "ショーケースには宝石【ほうせき】が美【うつく】しく並【なら】んでいた。",
+    "meaning": "Jewels were beautifully displayed in the showcase."
+  },
+  {
+    "sentence": "彼は偉大な先人たちと肩を並べる業績を上げた。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な先人【せんじん】たちと肩【かた】を並【なら】べる業績【ぎょうせき】を上【あ】げた。",
+    "meaning": "He achieved results comparable to great predecessors."
+  },
+  {
+    "sentence": "子供たちが順番に並んだ。",
+    "sentence_furigana": "子供【こども】たちが順番【じゅんばん】に並【なら】んだ。",
+    "meaning": "The children lined up in order."
+  },
+  {
+    "sentence": "この二人は学問において並ぶ者がない。",
+    "sentence_furigana": "この二人【ふたり】は学問【がくもん】において並【なら】ぶ者【もの】がない。",
+    "meaning": "These two are unrivaled in their scholarship."
+  },
+  {
+    "sentence": "彼は多くの人々と共に歩み始めた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】と共【とも】に歩【あゆ】み始【はじ】めた。",
+    "meaning": "He began to walk together with many people."
+  },
+  {
+    "sentence": "本棚には本がきちんと並んでいた。",
+    "sentence_furigana": "本棚【ほんだな】には本【ほん】がきちんと並【なら】んでいた。",
+    "meaning": "The books were neatly lined up on the bookshelf."
+  },
+  {
+    "sentence": "彼は文豪たちと並び称される作家です。",
+    "sentence_furigana": "彼【かれ】は文豪【ぶんごう】たちと並【なら】び称【たた】される作家【さっか】です。",
+    "meaning": "He is a writer who is spoken of in the same breath as literary giants."
+  },
+  {
+    "sentence": "人々は順番待ちの列に並び始めた。",
+    "sentence_furigana": "人々【ひとびと】は順番待【じゅんばんま】ちの列【れつ】に並【なら】び始【はじ】めた。",
+    "meaning": "People began to line up in the waiting queue."
+  },
+  {
+    "sentence": "この二つの国の歴史は深く関連している。",
+    "sentence_furigana": "この二つ【ふたつ】の国【くに】の歴史【れきし】は深【ふか】く関連【かんれん】している。",
+    "meaning": "The histories of these two countries are deeply related."
+  },
+  {
+    "sentence": "彼の技術は熟練した職人と肩を並べる。",
+    "sentence_furigana": "彼【かれ】の技術【ぎじゅつ】は熟練【じゅくれん】した職人【しょくにん】と肩【かた】を並【なら】べる。",
+    "meaning": "His skills are on par with skilled craftsmen."
+  },
+  {
+    "sentence": "全ての資料をテーブルの上に並べてください。",
+    "sentence_furigana": "全【すべ】ての資料【しりょう】をテーブルの上【うえ】に並【なら】べてください。",
+    "meaning": "Please arrange all the documents on the table."
+  },
+  {
+    "sentence": "彼は他の追随を許さない記録を樹立した。",
+    "sentence_furigana": "彼【かれ】は他【た】の追随【ついずい】を許【ゆる】さない記録【きろく】を樹立【じゅりつ】した。",
+    "meaning": "He established a record that is unparalleled."
+  },
+  {
+    "sentence": "彼の功績は歴史的な偉業と並べられるべきだ。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史的【れきしてき】な偉業【いぎょう】と並【なら】べられるべきだ。",
+    "meaning": "His achievements should be ranked alongside historic feats."
+  },
+  {
+    "sentence": "子供たちが校庭に整然と並んだ。",
+    "sentence_furigana": "子供【こども】たちが校庭【こうてい】に整然【せいぜん】と並【なら】んだ。",
+    "meaning": "The children lined up neatly in the schoolyard."
+  },
+  {
+    "sentence": "この二人の関係は友情を超えている。",
+    "sentence_furigana": "この二人【ふたり】の関係【かんけい】は友情【ゆうじょう】を超【こ】えている。",
+    "meaning": "The relationship between these two goes beyond friendship."
+  },
+  {
+    "sentence": "彼は偉大な詩人たちと肩を並べて評価されるべきだ。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な詩人【しじん】たちと肩【かた】を並【なら】べて評価【ひょうか】されるべきだ。",
+    "meaning": "He should be evaluated alongside great poets."
+  },
+  {
+    "sentence": "展示品が順番に並べられている。",
+    "sentence_furigana": "展示品【てんじひん】が順番【じゅんばん】に並【なら】べられている。",
+    "meaning": "The exhibits are arranged in order."
+  },
+  {
+    "sentence": "彼は芸術分野で他の追随を許さない存在だ。",
+    "sentence_furigana": "彼【かれ】は芸術分野【げいじゅつぶんや】で他【た】の追随【ついずい】を許【ゆる】さない存在【そんざい】だ。",
+    "meaning": "He is an unrivaled figure in the art world."
+  },
+  {
+    "sentence": "彼はチームのスター選手と並ぶ存在感がある。",
+    "sentence_furigana": "彼【かれ】はチームのスター選手【せんしゅ】と並【なら】ぶ存在感【そんざいかん】がある。",
+    "meaning": "He has a presence comparable to the team's star players."
+  },
+  {
+    "sentence": "二つの国が平和的に協力している。",
+    "sentence_furigana": "二つ【ふたつ】の国【くに】が平和的【へいわてき】に協力【きょうりょく】している。",
+    "meaning": "The two countries are cooperating peacefully."
+  },
+  {
+    "sentence": "彼は世界的な冒険家と並び称される冒険家だ。",
+    "sentence_furigana": "彼【かれ】は世界的【せかいてき】な冒険家【ぼうけんか】と並【なら】び称【たた】される冒険家【ぼうけんか】だ。",
+    "meaning": "He is an adventurer comparable to world-renowned adventurers."
+  },
+  {
+    "sentence": "生徒たちは先生の指示に従って並んだ。",
+    "sentence_furigana": "生徒【せいと】たちは先生【せんせい】の指示【しじ】に従【したが】って並【なら】んだ。",
+    "meaning": "The students lined up according to the teacher's instructions."
+  },
+  {
+    "sentence": "彼は現代文学において巨匠たちと肩を並べる。",
+    "sentence_furigana": "彼【かれ】は現代文学【げんだいぶんがく】において巨匠【きょしょう】たちと肩【かた】を並【なら】べる。",
+    "meaning": "He ranks alongside the masters of contemporary literature."
+  },
+  {
+    "sentence": "この市場には多くの種類の野菜が並んでいた。",
+    "sentence_furigana": "この市場【しじょう】には多【おお】くの種類【しゅるい】の野菜【やさい】が並【なら】んでいた。",
+    "meaning": "Many types of vegetables were lined up in this market."
+  },
+  {
+    "sentence": "彼は並外れた才能の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は並外【なみはず】れた才能【さいのう】の持主【もちぬし】だ。",
+    "meaning": "He possesses extraordinary talent."
+  },
+  {
+    "sentence": "彼らは並んで座った。",
+    "sentence_furigana": "彼ら【かれら】は並【なら】んで座【すわ】った。",
+    "meaning": "They sat side by side."
+  },
+  {
+    "sentence": "その二人の選手の実力はほぼ同じだ。",
+    "sentence_furigana": "その二人【ふたり】の選手【せんしゅ】の実力【じつりょく】はほぼ同【おな】じだ。",
+    "meaning": "The abilities of those two athletes are almost the same."
+  },
+  {
+    "sentence": "彼は偉大な功績を残した。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な功績【こうせき】を残【のこ】した。",
+    "meaning": "He left behind great achievements."
+  },
+  {
+    "sentence": "皆、前に並んでください。",
+    "sentence_furigana": "皆【みな】、前【まえ】に並【なら】んでください。",
+    "meaning": "Everyone, please line up in front."
+  },
+  {
+    "sentence": "この二つの意見は両立しない。",
+    "sentence_furigana": "この二つ【ふたつ】の意見【いけん】は両立【りょうりつ】しない。",
+    "meaning": "These two opinions are incompatible."
+  },
+  {
+    "sentence": "彼は世界中の学者と肩を並べる。",
+    "sentence_furigana": "彼【かれ】は世界中【せかいじゅう】の学者【がくしゃ】と肩【かた】を並【なら】べる。",
+    "meaning": "He is on par with scholars from around the world."
+  },
+  {
+    "sentence": "本が棚に整然と並べられている。",
+    "sentence_furigana": "本【ほん】が棚【たな】に整然【せいぜん】と並【なら】べられている。",
+    "meaning": "The books are neatly arranged on the shelf."
+  },
+  {
+    "sentence": "彼はその分野の第一人者と並ぶ評価を受けている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】の第一人者【だいいちじんしゃ】と並【なら】ぶ評価【ひょうか】を受【う】けている。",
+    "meaning": "He is rated alongside the leading figures in that field."
+  },
+  {
+    "sentence": "子供たちは先生の周りに集まって並んだ。",
+    "sentence_furigana": "子供【こども】たちは先生【せんせい】の周【まわ】りに集【あつ】まって並【なら】んだ。",
+    "meaning": "The children gathered and lined up around the teacher."
+  },
+  {
+    "sentence": "彼の業績は歴代最高の記録に並んだ。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は歴代最高【れきだいさいこう】の記録【きろく】に並【なら】んだ。",
+    "meaning": "His achievements matched the all-time best records."
+  },
+  {
+    "sentence": "彼は多くの偉人たちと共に歴史に名を連ねている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの偉人【いじん】たちと共【とも】に歴史【れきし】に名【な】を連【つら】ねている。",
+    "meaning": "He is listed in history alongside many great figures."
+  },
+  {
+    "sentence": "この二つの国の経済力は拮抗している。",
+    "sentence_furigana": "この二つ【ふたつ】の国【くに】の経済力【けいざいりょく】は拮抗【きっこう】している。",
+    "meaning": "The economic power of these two countries is competitive."
+  },
+  {
+    "sentence": "彼は文豪たちと並び立つ存在だ。",
+    "sentence_furigana": "彼【かれ】は文豪【ぶんごう】たちと並【なら】び立【た】つ存在【そんざい】だ。",
+    "meaning": "He is a figure who stands alongside literary masters."
+  },
+  {
+    "sentence": "彼の絵は有名な画家と肩を並べるレベルだ。",
+    "sentence_furigana": "彼【かれ】の絵【え】は有名【ゆうめい】な画家【がか】と肩【かた】を並【なら】べるレベルだ。",
+    "meaning": "His paintings are at a level comparable to those of famous artists."
+  },
+  {
+    "sentence": "商品は棚に規則正しく並べられていた。",
+    "sentence_furigana": "商品【しょうひん】は棚【たな】に規則正【きそくただ】しく並【なら】べられていた。",
+    "meaning": "The products were arranged in good order on the shelf."
+  },
+  {
+    "sentence": "彼の功績は歴史に名を刻むべきだ。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に名【な】を刻【きざ】むべきだ。",
+    "meaning": "His achievements should be inscribed in history."
+  },
+  {
+    "sentence": "彼は傑出したนักกีฬาである。",
+    "sentence_furigana": "彼【かれ】は傑出【けっしゅつ】したนักกีฬาである。",
+    "meaning": "He is an outstanding athlete."
+  },
+  {
+    "sentence": "この二つの町は規模において同等です。",
+    "sentence_furigana": "この二つ【ふたつ】の町【まち】は規模【きぼ】において同等【どうとう】です。",
+    "meaning": "These two towns are equal in size."
+  },
+  {
+    "sentence": "彼は並々ならぬ努力を続けた。",
+    "sentence_furigana": "彼【かれ】は並々【なみなみ】ならぬ努力【どりょく】を続【つづ】けた。",
+    "meaning": "He continued with extraordinary effort."
+  },
+  {
+    "sentence": "二人の子供が横に並んで座っていた。",
+    "sentence_furigana": "二人【ふたり】の子供【こども】が横【よこ】に並【なら】んで座【すわ】っていた。",
+    "meaning": "Two children were sitting side by side."
+  },
+  {
+    "sentence": "彼は世界的な指導者たちと肩を並べる。",
+    "sentence_furigana": "彼【かれ】は世界的【せかいてき】な指導者【しどうしゃ】たちと肩【かた】を並【なら】べる。",
+    "meaning": "He rivals global leaders."
+  },
+  {
+    "sentence": "展示品は来場者の目を楽しませるように並べられた。",
+    "sentence_furigana": "展示品【てんじひん】は来場者【らいじょうしゃ】の目【め】を楽し【たの】ませるように並【なら】べられた。",
+    "meaning": "The exhibits were arranged to please the eyes of the visitors."
+  },
+  {
+    "sentence": "彼の功績はエジプトのピラミッドと並び称されることがある。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】はエジプトのピラミッドと並【なら】び称【たた】されることがある。",
+    "meaning": "His achievements are sometimes spoken of in the same way as the pyramids of Egypt."
+  },
+  {
+    "sentence": "彼は才能において他の追随を許さない。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】において他【た】の追随【ついずい】を許【ゆる】さない。",
+    "meaning": "He is unmatched in talent."
+  },
+  {
+    "sentence": "人々が列を作って順番に並んでいく。",
+    "sentence_furigana": "人々【ひとびと】が列【れつ】を作【つく】って順番【じゅんばん】に並【なら】んでいく。",
+    "meaning": "People are forming a line and queuing up."
+  },
+  {
+    "sentence": "この二つの物語は themes が似ている。",
+    "sentence_furigana": "この二つ【ふたつ】の物語【ものがたり】は themes が似【に】ている。",
+    "meaning": "These two stories share similar themes."
+  },
+  {
+    "sentence": "彼は महानนักแสดง들과 어깨를 나란히 한다.",
+    "sentence_furigana": "彼【かれ】は महानนักแสดง들【たいが】と肩【かた】を並【なら】べる。",
+    "meaning": "He stands shoulder to shoulder with great actors."
+  },
+  {
+    "sentence": "彼はその分野の大家と肩を並べる。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】の大家【たいか】と肩【かた】を並【なら】べる。",
+    "meaning": "He ranks alongside the masters in that field."
+  },
+  {
+    "sentence": "彼は傑出したリーダーと並び称される。",
+    "sentence_furigana": "彼【かれ】は傑出【けっしゅつ】したリーダーと並【なら】び称【たた】される。",
+    "meaning": "He is praised in the same league as outstanding leaders."
+  },
+  {
+    "sentence": "選手たちはスタート地点に並んだ。",
+    "sentence_furigana": "選手【せんしゅ】たちはスタート地点【ちてん】に並【なら】んだ。",
+    "meaning": "The athletes lined up at the starting point."
+  },
+  {
+    "sentence": "彼の功績は歴史に永久に刻まれるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に永久【えいきゅう】に刻【きざ】まれるだろう。",
+    "meaning": "His achievements will likely be permanently recorded in history."
+  },
+  {
+    "sentence": "彼は数々の賞を受賞し、他の受賞者と並び称されている。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の賞【しょう】を受賞【じゅしょう】し、他【た】の受賞者【じゅしょうしゃ】と並【なら】び称【たた】されている。",
+    "meaning": "He has won numerous awards and is praised alongside other recipients."
+  },
+  {
+    "sentence": "この二つの作品は芸術的価値において同等だ。",
+    "sentence_furigana": "この二つ【ふたつ】の作品【さくひん】は芸術的価値【げいじゅつてきかち】において同等【どうとう】だ。",
+    "meaning": "These two works are equal in artistic value."
+  },
+  {
+    "sentence": "彼は並々ならぬ覚悟でこの計画に臨んだ。",
+    "sentence_furigana": "彼【かれ】は並々【なみなみ】ならぬ覚悟【かくご】でこの計画【けいかく】に臨【のぞ】んだ。",
+    "meaning": "He approached this plan with extraordinary resolve."
+  },
+  {
+    "sentence": "彼は偉大な芸術家たちと肩を並べる。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な芸術家【げいじゅつか】たちと肩【かた】を並【なら】べる。",
+    "meaning": "He is on par with great artists."
+  },
+  {
+    "sentence": "彼らは横一列に並んで記念写真を撮った。",
+    "sentence_furigana": "彼ら【かれら】は横一列【よこいちれつ】に並【なら】んで記念写真【きねんしゃしん】を撮【と】った。",
+    "meaning": "They lined up in a single horizontal row and took a commemorative photo."
+  },
+  {
+    "sentence": "彼はその時代の偉人と並んで語られるべき人物である。",
+    "sentence_furigana": "彼【かれ】はその時代【じだい】の偉人【いじん】と並【なら】んで語【かた】られるべき人物【じんぶつ】である。",
+    "meaning": "He is a figure who should be spoken of alongside the great men of that era."
+  },
+  {
+    "sentence": "商品は棚に美しく並べられていた。",
+    "sentence_furigana": "商品【しょうひん】は棚【たな】に美【うつく】しく並【なら】べられていた。",
+    "meaning": "The products were beautifully arranged on the shelf."
+  },
+  {
+    "sentence": "彼の功績は偉大な歴史上の人物と肩を並べる。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は偉大【いだい】な歴史上【れきしじょう】の人物【じんぶつ】と肩【かた】を並【なら】べる。",
+    "meaning": "His achievements rival those of great historical figures."
+  },
+  {
+    "sentence": "彼は傑出した才能を持つ。",
+    "sentence_furigana": "彼【かれ】は傑出【けっしゅつ】した才能【さいのう】を持【も】つ。",
+    "meaning": "He has outstanding talent."
+  },
+  {
+    "sentence": "彼らは二列に並んで待っていた。",
+    "sentence_furigana": "彼ら【かれら】は二列【にれつ】に並【なら】んで待【ま】っていた。",
+    "meaning": "They were waiting, lined up in two rows."
+  }
+]

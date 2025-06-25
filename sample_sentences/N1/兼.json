@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼は社長兼務で忙しい。",
+    "sentence_furigana": "彼【かれ】は社長【しゃちょう】兼務【けんむ】で忙【いそが】しい。",
+    "meaning": "He is busy with concurrent duties as president."
+  },
+  {
+    "sentence": "この部屋は寝室兼書斎として使われている。",
+    "sentence_furigana": "この部屋【へや】は寝室兼書斎【しんしつけんしょさい】として使【つか】われている。",
+    "meaning": "This room is used as both a bedroom and a study."
+  },
+  {
+    "sentence": "彼は教師兼作家として有名だ。",
+    "sentence_furigana": "彼【かれ】は教師兼作家【きょうしけんさっか】として有名【ゆうめい】だ。",
+    "meaning": "He is famous as both a teacher and a writer."
+  },
+  {
+    "sentence": "会議と発表を兼ねて行う。",
+    "sentence_furigana": "会議【かいぎ】と発表【はっぴょう】を兼【か】ねて行【おこな】う。",
+    "meaning": "To hold a meeting and a presentation concurrently."
+  },
+  {
+    "sentence": "彼女は医者兼弁護士である。",
+    "sentence_furigana": "彼女【かのじょ】は医者兼弁護士【いしゃけんべんごし】である。",
+    "meaning": "She is both a doctor and a lawyer."
+  },
+  {
+    "sentence": "この道具は剪定兼草刈りに使える。",
+    "sentence_furigana": "この道具【どうぐ】は剪定兼草刈【せんていけんくさかり】に使える【つかえる】。",
+    "meaning": "This tool can be used for both pruning and grass cutting."
+  },
+  {
+    "sentence": "彼は監督兼選手として活躍した。",
+    "sentence_furigana": "彼【かれ】は監督兼選手【かんとくけんせんしゅ】として活躍【かつやく】した。",
+    "meaning": "He was active as both a manager and a player."
+  },
+  {
+    "sentence": "この建物は店舗兼住宅です。",
+    "sentence_furigana": "この建物【たてもの】は店舗兼住宅【てんぽけんじゅうたく】です。",
+    "meaning": "This building is a shop and a residence."
+  },
+  {
+    "sentence": "彼らの役割は監督兼コーチだ。",
+    "sentence_furigana": "彼ら【かれら】の役割【やくわり】は監督兼コーチ【かんとくけんコーチ】だ。",
+    "meaning": "Their role is manager and coach."
+  },
+  {
+    "sentence": "父は会社役員兼政治家だった。",
+    "sentence_furigana": "父【ちち】は会社役員兼政治家【かいしゃやくいんけんせいじか】だった。",
+    "meaning": "My father was both a company executive and a politician."
+  },
+  {
+    "sentence": "彼女は主婦兼デザイナーをしている。",
+    "sentence_furigana": "彼女【かのじょ】は主婦兼デザイナー【しゅふけんでざいなー】をしている。",
+    "meaning": "She works as both a housewife and a designer."
+  },
+  {
+    "sentence": "この椅子は机兼ベッドになっている。",
+    "sentence_furigana": "この椅子【いす】は机兼ベッド【つくえけんベッド】になっている。",
+    "meaning": "This chair doubles as a desk and a bed."
+  },
+  {
+    "sentence": "彼は大使兼特使として派遣された。",
+    "sentence_furigana": "彼【かれ】は大使兼特使【たいしけんとくし】として派遣【はけん】された。",
+    "meaning": "He was dispatched as both ambassador and special envoy."
+  },
+  {
+    "sentence": "この施設は学習兼交流の場を提供します。",
+    "sentence_furigana": "この施設【しせつ】は学習兼交流【がくしゅうけんこうりゅう】の場【ば】を提供【ていきょう】します。",
+    "meaning": "This facility provides a place for both learning and exchange."
+  },
+  {
+    "sentence": "彼は父親兼母親の役割をこなした。",
+    "sentence_furigana": "彼【かれ】は父親兼母親【ちちおやけんはおや】の役割【やくわり】をこなした。",
+    "meaning": "He played the role of both father and mother."
+  },
+  {
+    "sentence": "この企画は貯蓄兼投資を目的としています。",
+    "sentence_furigana": "この企画【きかく】は貯蓄兼投資【ちょちくけんとうし】を目的【もくてき】としています。",
+    "meaning": "This project aims for both savings and investment."
+  },
+  {
+    "sentence": "彼女はモデル兼女優として活躍している。",
+    "sentence_furigana": "彼女【かのじょ】はモデル兼女優【モデルけんじょゆう】として活躍【かつやく】している。",
+    "meaning": "She is active as both a model and an actress."
+  },
+  {
+    "sentence": "このコートはテニス兼バドミントン用です。",
+    "sentence_furigana": "このコートはテニス兼バドミントン用【テニスけんバドミントンよう】です。",
+    "meaning": "This court is for both tennis and badminton."
+  },
+  {
+    "sentence": "彼は教師兼脚本家として知られている。",
+    "sentence_furigana": "彼【かれ】は教師兼脚本家【きょうしけんきゃくほんか】として知【し】られている。",
+    "meaning": "He is known as both a teacher and a screenwriter."
+  },
+  {
+    "sentence": "この部屋は客間兼書斎として使用する。",
+    "sentence_furigana": "この部屋【へや】は客間兼書斎【きゃくまけんしょさい】として使用【しよう】する。",
+    "meaning": "This room will be used as both a guest room and a study."
+  },
+  {
+    "sentence": "彼は開発兼営業を担当している。",
+    "sentence_furigana": "彼【かれ】は開発兼営業【かいはつけんえいぎょう】を担当【たんとう】している。",
+    "meaning": "He is in charge of both development and sales."
+  },
+  {
+    "sentence": "彼女は歌手兼作曲家だ。",
+    "sentence_furigana": "彼女【かのじょ】は歌手兼作曲家【かしゅけんさっきょくか】だ。",
+    "meaning": "She is both a singer and a composer."
+  },
+  {
+    "sentence": "この土地は農地兼宅地として利用可能だ。",
+    "sentence_furigana": "この土地【とち】は農地兼宅地【のうちけんたくち】として利用可能【りようかのう】だ。",
+    "meaning": "This land can be used as both farmland and residential land."
+  },
+  {
+    "sentence": "彼は監督兼オーナーとしてチームを率いる。",
+    "sentence_furigana": "彼【かれ】は監督兼オーナー【かんとくけんオーナー】としてチームを率【ひき】いる。",
+    "meaning": "He leads the team as both manager and owner."
+  },
+  {
+    "sentence": "彼女はパイロット兼インストラクターです。",
+    "sentence_furigana": "彼女【かのじょ】はパイロット兼インストラクター【パイロットけんインストラクター】です。",
+    "meaning": "She is both a pilot and an instructor."
+  },
+  {
+    "sentence": "この建物はオフィス兼住居として設計された。",
+    "sentence_furigana": "この建物【たてもの】はオフィス兼住居【オフィスけんじゅうきょ】として設計【せっけい】された。",
+    "meaning": "This building was designed as both an office and a residence."
+  },
+  {
+    "sentence": "彼は翻訳兼通訳の仕事をしている。",
+    "sentence_furigana": "彼【かれ】は翻訳兼通訳【ほんやくけんつうやく】の仕事【しごと】をしている。",
+    "meaning": "He does both translation and interpretation work."
+  },
+  {
+    "sentence": "彼女はキャスター兼レポーターとして活躍した。",
+    "sentence_furigana": "彼女【かのじょ】はキャスター兼レポーター【キャスターけんレポーター】として活躍【かつやく】した。",
+    "meaning": "She was active as both a caster and a reporter."
+  },
+  {
+    "sentence": "この商品は土産兼贈答用に適しています。",
+    "sentence_furigana": "この商品【しょうひん】は土産兼贈答用【みやげけんぞうとうよう】に最適【さいてき】しています。",
+    "meaning": "This product is suitable for both souvenirs and gifts."
+  },
+  {
+    "sentence": "彼はプロデューサー兼監督として映画を製作した。",
+    "sentence_furigana": "彼【かれ】はプロデューサー兼監督【プロデューサーけんかんとく】として映画【えいが】を製作【せいさく】した。",
+    "meaning": "He produced the film as both producer and director."
+  },
+  {
+    "sentence": "彼女は看護師兼ボランティアとして活動している。",
+    "sentence_furigana": "彼女【かのじょ】は看護師兼ボランティア【かんごしけんボランティア】として活動【かつどう】している。",
+    "meaning": "She is active as both a nurse and a volunteer."
+  },
+  {
+    "sentence": "このスペースは会議兼イベント会場として利用できます。",
+    "sentence_furigana": "このスペースは会議兼イベント会場【かいぎけんイベントかいじょう】として利用【りよう】できます。",
+    "meaning": "This space can be used for both meetings and events."
+  },
+  {
+    "sentence": "彼は外交官兼経済学者だった。",
+    "sentence_furigana": "彼【かれ】は外交官兼経済学者【がいこうかんけんけいざいがくしゃ】だった。",
+    "meaning": "He was both a diplomat and an economist."
+  },
+  {
+    "sentence": "彼女はオペレーター兼オペレーター養成の講師を務める。",
+    "sentence_furigana": "彼女【かのじょ】はオペレーター兼オペレーター養成【オペレーターけんオペレーターようせい】の講師【こうし】を務【つと】める。",
+    "meaning": "She serves as both an operator and an instructor for operator training."
+  },
+  {
+    "sentence": "この計画は研究兼開発を目的とする。",
+    "sentence_furigana": "この計画【けいかく】は研究兼開発【けんきゅうけんかいはつ】を目的【もくてき】とする。",
+    "meaning": "This plan aims for both research and development."
+  },
+  {
+    "sentence": "彼は芸術家兼批評家として評価されている。",
+    "sentence_furigana": "彼【かれ】は芸術家兼批評家【げいじゅつかけんひひょうか】として評価【ひょうか】されている。",
+    "meaning": "He is regarded as both an artist and a critic."
+  },
+  {
+    "sentence": "彼女は大学教授兼作家として執筆活動を続けている。",
+    "sentence_furigana": "彼女【かのじょ】は大学教授兼作家【だいがくきょうじゅけんさっか】として執筆活動【しっぴつかつどう】を続【つづ】けている。",
+    "meaning": "She continues her writing activities as both a university professor and a writer."
+  },
+  {
+    "sentence": "この場所は展示兼販売スペースとなっています。",
+    "sentence_furigana": "この場所【ばしょ】は展示兼販売スペース【てんじけんてんぱいスペース】となっています。",
+    "meaning": "This place is for both exhibition and sales."
+  },
+  {
+    "sentence": "彼は俳優兼監督として成功した。",
+    "sentence_furigana": "彼【かれ】は俳優兼監督【はいゆうけんかんとく】として成功【せいこう】した。",
+    "meaning": "He succeeded as both an actor and a director."
+  },
+  {
+    "sentence": "彼女は弁護士兼政治家としても活動している。",
+    "sentence_furigana": "彼女【かのじょ】は弁護士兼政治家【べんごしけんせいじか】としても活動【かつどう】している。",
+    "meaning": "She is also active as both a lawyer and a politician."
+  },
+  {
+    "sentence": "この本は入門兼実践の書です。",
+    "sentence_furigana": "この本【ほん】は入門兼実践【にゅうもんけんじっせん】の書【しょ】です。",
+    "meaning": "This book is for both beginners and practitioners."
+  },
+  {
+    "sentence": "彼は監督兼コーチとしてチームを指導した。",
+    "sentence_furigana": "彼【かれ】は監督兼コーチ【かんとくけんコーチ】としてチームを指導【しどう】した。",
+    "meaning": "He coached the team as both manager and coach."
+  },
+  {
+    "sentence": "彼女はジャーナリスト兼エッセイストとして有名だ。",
+    "sentence_furigana": "彼女【かのじょ】はジャーナリスト兼エッセイスト【ジャーナリストけんエッセイスト】として有名【ゆうめい】だ。",
+    "meaning": "She is famous as both a journalist and an essayist."
+  },
+  {
+    "sentence": "この広場はイベント兼休憩所として使われる。",
+    "sentence_furigana": "この広場【ひろば】はイベント兼休憩所【イベントけんきゅうけいじょ】として使【つか】われる。",
+    "meaning": "This plaza is used for both events and as a resting place."
+  },
+  {
+    "sentence": "彼は技術者兼コンサルタントとして働いている。",
+    "sentence_furigana": "彼【かれ】は技術者兼コンサルタント【ぎじゅつしゃけんコンサルタント】として働【はたら】いている。",
+    "meaning": "He works as both an engineer and a consultant."
+  },
+  {
+    "sentence": "彼女は翻訳家兼作家として活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は翻訳家兼作家【ほんやくかけんさっか】として活躍【かつやく】している。",
+    "meaning": "She is active as both a translator and a writer."
+  },
+  {
+    "sentence": "この商品は観賞兼実用目的です。",
+    "sentence_furigana": "この商品【しょうひん】は観賞兼実用目的【かんしょうけんじつようもくてき】です。",
+    "meaning": "This product is for both viewing and practical use."
+  },
+  {
+    "sentence": "彼は作曲家兼編曲家として活動している。",
+    "sentence_furigana": "彼【かれ】は作曲家兼編曲家【さっきょくかけんへんきょくか】として活動【かつどう】している。",
+    "meaning": "He is active as both a composer and an arranger."
+  },
+  {
+    "sentence": "彼女はデザイナー兼スタイリストです。",
+    "sentence_furigana": "彼女【かのじょ】はデザイナー兼スタイリスト【デザイナーけんスタイリスト】です。",
+    "meaning": "She is both a designer and a stylist."
+  },
+  {
+    "sentence": "この施設は会議兼研修の場を提供します。",
+    "sentence_furigana": "この施設【しせつ】は会議兼研修【かいぎけんけんしゅう】の場【ば】を提供【ていきょう】します。",
+    "meaning": "This facility provides a place for both meetings and training."
+  },
+  {
+    "sentence": "彼はアナウンサー兼俳優としても活動している。",
+    "sentence_furigana": "彼【かれ】はアナウンサー兼俳優【アナウンサーけんはいゆう】としても活動【かつどう】している。",
+    "meaning": "He is also active as both an announcer and an actor."
+  },
+  {
+    "sentence": "彼女はキュレーター兼コンサルタントとして美術展を企画した。",
+    "sentence_furigana": "彼女【かのじょ】はキュレーター兼コンサルタント【キュレーターけんコンサルタント】として美術展【びじゅつてん】を企画【きかく】した。",
+    "meaning": "She planned the art exhibition as both a curator and a consultant."
+  },
+  {
+    "sentence": "このバッグは旅行兼普段使いに便利です。",
+    "sentence_furigana": "このバッグは旅行兼普段使【りょこうけんふだんづか】いに便利【べんり】です。",
+    "meaning": "This bag is convenient for both travel and everyday use."
+  },
+  {
+    "sentence": "彼は教授兼研究者として大学に勤務している。",
+    "sentence_furigana": "彼【かれ】は教授兼研究者【きょうじゅけんけんきゅうしゃ】として大学【だいがく】に勤務【きんむ】している。",
+    "meaning": "He works at the university as both a professor and a researcher."
+  },
+  {
+    "sentence": "彼女はコラムニスト兼編集者として活躍した。",
+    "sentence_furigana": "彼女【かのじょ】はコラムニスト兼編集者【コラムニストけんへんしゅうしゃ】として活躍【かつやく】した。",
+    "meaning": "She was active as both a columnist and an editor."
+  },
+  {
+    "sentence": "このテーブルはダイニング兼作業用です。",
+    "sentence_furigana": "このテーブルはダイニング兼作業用【ダイニングけんさぎょうよう】です。",
+    "meaning": "This table is for both dining and work."
+  },
+  {
+    "sentence": "彼は監督兼ゼネラルマネージャーとしてチームを支えた。",
+    "sentence_furigana": "彼【かれ】は監督兼ゼネラルマネージャー【かんとくけんゼネラルマネージャー】としてチームを支【ささ】えた。",
+    "meaning": "He supported the team as both manager and general manager."
+  },
+  {
+    "sentence": "彼女は声優兼歌手として人気がある。",
+    "sentence_furigana": "彼女【かのじょ】は声優兼歌手【せいゆうけんかしゅ】として人気【にんき】がある。",
+    "meaning": "She is popular as both a voice actress and a singer."
+  },
+  {
+    "sentence": "このアパートはオフィス兼住居として使用可能です。",
+    "sentence_furigana": "このアパートはオフィス兼住居【オフィスけんじゅうきょ】として使用可能【しようかのう】です。",
+    "meaning": "This apartment can be used as both an office and a residence."
+  },
+  {
+    "sentence": "彼はコメンテーター兼アナリストとして出演した。",
+    "sentence_furigana": "彼【かれ】はコメンテーター兼アナリスト【コメンテーターけんアナリスト】として出演【しゅつえん】した。",
+    "meaning": "He appeared as both a commentator and an analyst."
+  },
+  {
+    "sentence": "彼女は司会兼進行役を務めた。",
+    "sentence_furigana": "彼女【かのじょ】は司会兼進行役【しかいけんしんこうやく】を務【つと】めた。",
+    "meaning": "She served as both the host and the facilitator."
+  },
+  {
+    "sentence": "この部屋は寝室兼書斎として利用されている。",
+    "sentence_furigana": "この部屋【へや】は寝室兼書斎【しんしつけんしょさい】として利用【りよう】されている。",
+    "meaning": "This room is being used as both a bedroom and a study."
+  },
+  {
+    "sentence": "彼は弁護士兼作家として活動している。",
+    "sentence_furigana": "彼【かれ】は弁護士兼作家【べんごしけんさっか】として活動【かつどう】している。",
+    "meaning": "He is active as both a lawyer and a writer."
+  },
+  {
+    "sentence": "彼女は音楽家兼指揮者だ。",
+    "sentence_furigana": "彼女【かのじょ】は音楽家兼指揮者【おんがくかけんしきしゃ】だ。",
+    "meaning": "She is both a musician and a conductor."
+  },
+  {
+    "sentence": "このプロジェクトは調査兼評価を目的としています。",
+    "sentence_furigana": "このプロジェクトは調査兼評価【ちょうさけんひょうか】を目的【もくてき】としています。",
+    "meaning": "This project aims for both investigation and evaluation."
+  },
+  {
+    "sentence": "彼は外交官兼通訳として活躍した。",
+    "sentence_furigana": "彼【かれ】は外交官兼通訳【がいこうかんけんつうやく】として活躍【かつやく】した。",
+    "meaning": "He was active as both a diplomat and an interpreter."
+  },
+  {
+    "sentence": "彼女は教授兼学部長として大学を運営した。",
+    "sentence_furigana": "彼女【かのじょ】は教授兼学部長【きょうじゅけんがくぶちょう】として大学【だいがく】を運営【うんえい】した。",
+    "meaning": "She managed the university as both a professor and a dean."
+  },
+  {
+    "sentence": "この車は通勤兼レジャー用です。",
+    "sentence_furigana": "この車【くるま】は通勤兼レジャー用【つうきんけんレジャーよう】です。",
+    "meaning": "This car is for both commuting and leisure."
+  },
+  {
+    "sentence": "彼は編集者兼出版者として本を刊行した。",
+    "sentence_furigana": "彼【かれ】は編集者兼出版者【へんしゅうしゃけんしゅっぱんしゃ】として本【ほん】を刊行【かんこう】した。",
+    "meaning": "He published the book as both editor and publisher."
+  },
+  {
+    "sentence": "彼女は女優兼脚本家として高い評価を得た。",
+    "sentence_furigana": "彼女【かのじょ】は女優兼脚本家【じょゆうけんきゃくほんか】として高【たか】い評価【ひょうか】を得【え】た。",
+    "meaning": "She earned high praise as both an actress and a screenwriter."
+  },
+  {
+    "sentence": "この部屋は来客兼作業場として利用できる。",
+    "sentence_furigana": "この部屋【へや】は来客兼作業場【らいきゃくけんさぎょうば】として利用【りよう】できる。",
+    "meaning": "This room can be used as both a reception area and a workspace."
+  },
+  {
+    "sentence": "彼は弁護士兼政治家として活躍した。",
+    "sentence_furigana": "彼【かれ】は弁護士兼政治家【べんごしけんせいじか】として活躍【かつやく】した。",
+    "meaning": "He was active as both a lawyer and a politician."
+  },
+  {
+    "sentence": "彼女は作曲家兼演奏家として才能を発揮した。",
+    "sentence_furigana": "彼女【かのじょ】は作曲家兼演奏家【さっきょくかけんえんそうか】として才能【さいのう】を発揮【はっき】した。",
+    "meaning": "She demonstrated her talent as both a composer and a performer."
+  },
+  {
+    "sentence": "この施設は会議兼展示の目的で使用されます。",
+    "sentence_furigana": "この施設【しせつ】は会議兼展示【かいぎけんてんじ】の目的【もくてき】で使用【しよう】されます。",
+    "meaning": "This facility will be used for both meetings and exhibitions."
+  },
+  {
+    "sentence": "彼は大学教授兼理事長として大学運営に貢献した。",
+    "sentence_furigana": "彼【かれ】は大学教授兼理事長【だいがくきょうじゅけんりじちょう】として大学運営【だいがくうんえい】に貢献【こうけん】した。",
+    "meaning": "He contributed to university management as both a professor and chairman."
+  },
+  {
+    "sentence": "彼女は看護師兼カウンセラーとして働いている。",
+    "sentence_furigana": "彼女【かのじょ】は看護師兼カウンセラー【かんごしけんカウンセラー】として働【はたら】いている。",
+    "meaning": "She works as both a nurse and a counselor."
+  },
+  {
+    "sentence": "この公園は散策兼運動の場所として利用できる。",
+    "sentence_furigana": "この公園【こうえん】は散策兼運動【さんさくけんうんどう】の場所【ばしょ】として利用【りよう】できる。",
+    "meaning": "This park can be used for both strolling and exercising."
+  },
+  {
+    "sentence": "彼は俳優兼監督として有名になった。",
+    "sentence_furigana": "彼【かれ】は俳優兼監督【はいゆうけんかんとく】として有名【ゆうめい】になった。",
+    "meaning": "He became famous as both an actor and a director."
+  },
+  {
+    "sentence": "彼女はデザイナー兼イラストレーターとして活動している。",
+    "sentence_furigana": "彼女【かのじょ】はデザイナー兼イラストレーター【デザイナーけんイラストレーター】として活動【かつどう】している。",
+    "meaning": "She is active as both a designer and an illustrator."
+  },
+  {
+    "sentence": "このノートパソコンは仕事兼プライベート用です。",
+    "sentence_furigana": "このノートパソコンは仕事兼プライベート用【しごとけんプライベートよう】です。",
+    "meaning": "This laptop is for both work and private use."
+  },
+  {
+    "sentence": "彼はプロデューサー兼脚本家として活躍した。",
+    "sentence_furigana": "彼【かれ】はプロデューサー兼脚本家【プロデューサーけんきゃくほんか】として活躍【かつやく】した。",
+    "meaning": "He was active as both a producer and a screenwriter."
+  },
+  {
+    "sentence": "彼女はジャーナリスト兼作家として本を出版した。",
+    "sentence_furigana": "彼女【かのじょ】はジャーナリスト兼作家【ジャーナリストけんさっか】として本【ほん】を出版【しゅっぱん】した。",
+    "meaning": "She published a book as both a journalist and a writer."
+  },
+  {
+    "sentence": "このテーブルは作業兼食事用です。",
+    "sentence_furigana": "このテーブルは作業兼食事用【さぎょうけんしょくじよう】です。",
+    "meaning": "This table is for both work and meals."
+  },
+  {
+    "sentence": "彼は政治家兼弁護士として法律の改正に尽力した。",
+    "sentence_furigana": "彼【かれ】は政治家兼弁護士【せいじかけんべんごし】として法律【ほうりつ】の改正【かいせい】に尽力【じんりょく】した。",
+    "meaning": "He worked hard for legal reform as both a politician and a lawyer."
+  },
+  {
+    "sentence": "彼女はオペレーター兼プログラマーとして働いています。",
+    "sentence_furigana": "彼女【かのじょ】はオペレーター兼プログラマー【オペレーターけんプログラマー】として働【はたら】いています。",
+    "meaning": "She works as both an operator and a programmer."
+  },
+  {
+    "sentence": "この空間は商談兼打ち合わせの場として最適です。",
+    "sentence_furigana": "この空間【くうかん】は商談兼打ち合【しょうだんけんうちあ】わせの場【ば】として最適【さいてき】です。",
+    "meaning": "This space is ideal for both business meetings and discussions."
+  },
+  {
+    "sentence": "彼は教師兼コーチとして生徒を指導した。",
+    "sentence_furigana": "彼【かれ】は教師兼コーチ【きょうしけんコーチ】として生徒【せいと】を指導【しどう】した。",
+    "meaning": "He coached the students as both a teacher and a coach."
+  },
+  {
+    "sentence": "彼女はキャスター兼リポーターとしてイベントを取材した。",
+    "sentence_furigana": "彼女【かのじょ】はキャスター兼リポーター【キャスターけんリポーター】としてイベントを取材【しゅざい】した。",
+    "meaning": "She covered the event as both a caster and a reporter."
+  },
+  {
+    "sentence": "この商品は保存兼調理が可能です。",
+    "sentence_furigana": "この商品【しょうひん】は保存兼調理【ほぞんけんちょうり】が可能です【かのう】。",
+    "meaning": "This product can be stored and cooked."
+  },
+  {
+    "sentence": "彼は監督兼オーナーとしてチームを率いています。",
+    "sentence_furigana": "彼【かれ】は監督兼オーナー【かんとくけんオーナー】としてチームを率【ひき】いています。",
+    "meaning": "He leads the team as both manager and owner."
+  },
+  {
+    "sentence": "彼女は歌手兼ソングライターとして活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は歌手兼ソングライター【かしゅけんソングライター】として活躍【かつやく】している。",
+    "meaning": "She is active as both a singer and a songwriter."
+  },
+  {
+    "sentence": "このビルはオフィス兼店舗として貸し出されています。",
+    "sentence_furigana": "このビルはオフィス兼店舗【オフィスけんてんぽ】として貸【か】し出【だ】されています。",
+    "meaning": "This building is rented out as both an office and a shop."
+  },
+  {
+    "sentence": "彼は通訳兼翻訳家として国際会議で活躍した。",
+    "sentence_furigana": "彼【かれ】は通訳兼翻訳家【つうやくけんほんやくか】として国際会議【こくさいかいぎ】で活躍【かつやく】した。",
+    "meaning": "He was active at the international conference as both an interpreter and a translator."
+  },
+  {
+    "sentence": "彼女はエッセイスト兼評論家として執筆活動を行っている。",
+    "sentence_furigana": "彼女【かのじょ】はエッセイスト兼評論家【エッセイストけんひょうろんか】として執筆活動【しっぴつかつどう】を行【おこな】っている。",
+    "meaning": "She is engaged in writing activities as both an essayist and a critic."
+  },
+  {
+    "sentence": "この部屋は客間兼応接室として使用する。",
+    "sentence_furigana": "この部屋【へや】は客間兼応接室【きゃくまけんおうせつしつ】として使用【しよう】する。",
+    "meaning": "This room will be used as both a guest room and a reception room."
+  },
+  {
+    "sentence": "彼は俳優兼監督として自身の映画を製作した。",
+    "sentence_furigana": "彼【かれ】は俳優兼監督【はいゆうけんかんとく】として自身【じしん】の映画【えいが】を製作【せいさく】した。",
+    "meaning": "He produced his own film as both an actor and a director."
+  },
+  {
+    "sentence": "彼女は医者兼研究者として多くの論文を発表している。",
+    "sentence_furigana": "彼女【かのじょ】は医者兼研究者【いしゃけんけんきゅうしゃ】として多【おお】くの論文【ろんぶん】を発表【はっぴょう】している。",
+    "meaning": "She has published many papers as both a doctor and a researcher."
+  },
+  {
+    "sentence": "この商品は、装飾兼実用品として人気があります。",
+    "sentence_furigana": "この商品【しょうひん】は、装飾兼実用品【そうしょくけんじつようひん】として人気【にんき】があります。",
+    "meaning": "This product is popular as both decoration and a practical item."
+  },
+  {
+    "sentence": "彼は弁護士兼大学教授として活躍している。",
+    "sentence_furigana": "彼【かれ】は弁護士兼大学教授【べんごしかんだいがくきょうじゅ】として活躍【かつやく】している。",
+    "meaning": "He is active as both a lawyer and a university professor."
+  },
+  {
+    "sentence": "彼女は音楽プロデューサー兼作曲家として活動している。",
+    "sentence_furigana": "彼女【かのじょ】は音楽プロデューサー兼作曲家【おんがくプロデューサーけんさっきょくか】として活動【かつどう】している。",
+    "meaning": "She is active as both a music producer and a composer."
+  },
+  {
+    "sentence": "この土地は住居兼商業施設として利用可能です。",
+    "sentence_furigana": "この土地【とち】は住居兼商業施設【じゅうきょけんしょうぎょうしせつ】として利用可能【りようかのう】です。",
+    "meaning": "This land can be used as both a residence and a commercial facility."
+  },
+  {
+    "sentence": "彼は技術コンサルタント兼プロジェクトマネージャーだ。",
+    "sentence_furigana": "彼【かれ】は技術コンサルタント兼プロジェクトマネージャー【ぎじゅつコンサルタントけんプロジェクトマネージャー】だ。",
+    "meaning": "He is both a technical consultant and a project manager."
+  }
+]

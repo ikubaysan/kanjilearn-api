@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "地球は太陽の周りを回っている。",
+    "sentence_furigana": "地球【ちきゅう】は太陽【たいよう】の周【まわ】りを回【まわ】っている。",
+    "meaning": "The Earth revolves around the Sun."
+  },
+  {
+    "sentence": "この土地は非常に価値がある。",
+    "sentence_furigana": "この土地【とち】は非常【ひじょう】に価値【かち】がある。",
+    "meaning": "This land is extremely valuable."
+  },
+  {
+    "sentence": "地面にたくさんの花が咲いている。",
+    "sentence_furigana": "地面【じめん】にたくさん花【はな】が咲【さ】いている。",
+    "meaning": "Many flowers are blooming on the ground."
+  },
+  {
+    "sentence": "彼女は自分の場所を見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の場所【ばしょ】を見【み】つけた。",
+    "meaning": "She found her place."
+  },
+  {
+    "sentence": "この地域は自然が豊かだ。",
+    "sentence_furigana": "この地域【ちいき】は自然【しぜん】が豊【ゆた】かだ。",
+    "meaning": "This region is rich in nature."
+  },
+  {
+    "sentence": "彼は広い視野を持っている。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い視野【しや】を持【も】っている。",
+    "meaning": "He has a broad perspective."
+  },
+  {
+    "sentence": "会社の所在地は東京です。",
+    "sentence_furigana": "会社【かいしゃ】の所在地【しょざいち】は東京【とうきょう】です。",
+    "meaning": "The company's location is in Tokyo."
+  },
+  {
+    "sentence": "地図を広げて目的地を確認した。",
+    "sentence_furigana": "地図【ちず】を広【ひろ】げて目的地【もくてきち】を確認【かくにん】した。",
+    "meaning": "I unfolded the map and confirmed the destination."
+  },
+  {
+    "sentence": "その情報は広く知られている。",
+    "sentence_furigana": "その情報【じょうほう】は広【ひろ】く知【し】られている。",
+    "meaning": "That information is widely known."
+  },
+  {
+    "sentence": "彼女は土地の開発に関心がある。",
+    "sentence_furigana": "彼女【かのじょ】は土地【とち】の開発【かいはつ】に関心【かんしん】がある。",
+    "meaning": "She is interested in land development."
+  },
+  {
+    "sentence": "この場所は静かで落ち着く。",
+    "sentence_furigana": "この場所【ばしょ】は静【しず】かで落【お】ち着【つ】く。",
+    "meaning": "This place is quiet and calming."
+  },
+  {
+    "sentence": "地球温暖化は深刻な問題だ。",
+    "sentence_furigana": "地球【ちきゅう】温暖化【おんだんか】は深刻【しんこく】な問題【もんだい】だ。",
+    "meaning": "Global warming is a serious problem."
+  },
+  {
+    "sentence": "彼は自分の限界を知っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を知【し】っている。",
+    "meaning": "He knows his own limits."
+  },
+  {
+    "sentence": "その事件は各地で報道された。",
+    "sentence_furigana": "その事件【じけん】は各地【かくち】で報道【ほうどう】された。",
+    "meaning": "The incident was reported in various places."
+  },
+  {
+    "sentence": "これは私たちの住む大地だ。",
+    "sentence_furigana": "これ我々【われわれ】が住【す】む大地【だいち】だ。",
+    "meaning": "This is the land we live on."
+  },
+  {
+    "sentence": "彼女は地方出身だ。",
+    "sentence_furigana": "彼女【かのじょ】は地方【ちほう】出身【しゅっしん】だ。",
+    "meaning": "She is from the countryside."
+  },
+  {
+    "sentence": "地面を掘って何かを探した。",
+    "sentence_furigana": "地面【じめん】を掘【ほ】って何【なに】かを探【さが】した。",
+    "meaning": "I dug into the ground searching for something."
+  },
+  {
+    "sentence": "その場所は特別な意味を持っている。",
+    "sentence_furigana": "その場所【ばしょ】は特別【とくべつ】な意味【いみ】を持【も】っている。",
+    "meaning": "That place holds a special meaning."
+  },
+  {
+    "sentence": "広い地球の上で私たちは生きている。",
+    "sentence_furigana": "広【ひろ】い地球【ちきゅう】の上【うえ】で我々【われわれ】は生【い】きている。",
+    "meaning": "We are alive on this vast Earth."
+  },
+  {
+    "sentence": "彼は地域の発展に貢献した。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "He contributed to the development of the region."
+  },
+  {
+    "sentence": "その土地は水はけが良い。",
+    "sentence_furigana": "その土地【とち】は水【みず】はけが良い【よい】。",
+    "meaning": "The drainage of that land is good."
+  },
+  {
+    "sentence": "地面に足跡が残っていた。",
+    "sentence_furigana": "地面【じめん】に足跡【あしあと】が残【のこ】っていた。",
+    "meaning": "Footprints remained on the ground."
+  },
+  {
+    "sentence": "彼女は自分の意志を貫いた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の意志【いし】を貫【つらぬ】いた。",
+    "meaning": "She stuck to her own will."
+  },
+  {
+    "sentence": "この地域は歴史が深い。",
+    "sentence_furigana": "この地域【ちいき】は歴史【れきし】が深【ふか】い。",
+    "meaning": "This region has a deep history."
+  },
+  {
+    "sentence": "彼は広い世界を見たいと思っている。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い世界【せかい】を見【み】たいと思【おも】っている。",
+    "meaning": "He wants to see the wider world."
+  },
+  {
+    "sentence": "その会社の所在地を変更した。",
+    "sentence_furigana": "その会社【かいしゃ】の所在地【しょざいち】を変更【へんこう】した。",
+    "meaning": "I changed the company's location."
+  },
+  {
+    "sentence": "地図にない場所を探検する。",
+    "sentence_furigana": "地図【ちず】にない場所【ばしょ】を探検【たんけん】する。",
+    "meaning": "To explore places not on the map."
+  },
+  {
+    "sentence": "彼の言葉は広く伝わった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は広【ひろ】く伝【つた】わった。",
+    "meaning": "His words spread widely."
+  },
+  {
+    "sentence": "新しい土地を開墾する。",
+    "sentence_furigana": "新【あたら】しい土地【とち】を開墾【かいこん】する。",
+    "meaning": "To cultivate new land."
+  },
+  {
+    "sentence": "ここは静かな場所だ。",
+    "sentence_furigana": "ここは静【しず】かな場所【ばしょ】だ。",
+    "meaning": "This is a quiet place."
+  },
+  {
+    "sentence": "地球上に生命は存在する。",
+    "sentence_furigana": "地球上【ちきゅうじょう】に生命【せいめい】は存在【そんざい】する。",
+    "meaning": "Life exists on Earth."
+  },
+  {
+    "sentence": "彼は自分の限界を超えた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】を超【こ】えた。",
+    "meaning": "He exceeded his own limits."
+  },
+  {
+    "sentence": "その知らせは各地に届いた。",
+    "sentence_furigana": "その知【し】らせは各地【かくち】に届【とど】いた。",
+    "meaning": "The news reached various places."
+  },
+  {
+    "sentence": "大地に感謝し、作物を育てる。",
+    "sentence_furigana": "大地【だいち】に感謝【かんしゃ】し、作物【さくもつ】を育【そだ】てる。",
+    "meaning": "Grateful to the earth, we grow crops."
+  },
+  {
+    "sentence": "彼は地方都市で働いている。",
+    "sentence_furigana": "彼【かれ】は地方都市【ちほうとし】で働【はたら】いている。",
+    "meaning": "He works in a provincial city."
+  },
+  {
+    "sentence": "地面に砂が積もっていた。",
+    "sentence_furigana": "地面【じめん】に砂【すな】が積【つ】もっていた。",
+    "meaning": "Sand had accumulated on the ground."
+  },
+  {
+    "sentence": "その場所は特別な意味合いを持つ。",
+    "sentence_furigana": "その場所【ばしょ】は特別【とくべつ】な意味合【いみあ】いを持【も】つ。",
+    "meaning": "That place has a special significance."
+  },
+  {
+    "sentence": "地球は青く美しい星だ。",
+    "sentence_furigana": "地球【ちきゅう】は青【あお】く美【うつく】しい星【ほし】だ。",
+    "meaning": "The Earth is a blue and beautiful planet."
+  },
+  {
+    "sentence": "彼は広い視野で物事を判断する。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い視野【しや】で物事【ものごと】を判断【はんだん】する。",
+    "meaning": "He judges things with a broad perspective."
+  },
+  {
+    "sentence": "会社の所在地を調べた。",
+    "sentence_furigana": "会社【かいしゃ】の所在地【しょざいち】を調【しら】べた。",
+    "meaning": "I looked up the company's location."
+  },
+  {
+    "sentence": "地図を頼りに旅をした。",
+    "sentence_furigana": "地図【ちず】を頼【たよ】りに旅【たび】をした。",
+    "meaning": "I traveled relying on the map."
+  },
+  {
+    "sentence": "そのニュースは全国に報道された。",
+    "sentence_furigana": "そのニュースは全国【ぜんこく】に報道【ほうどう】された。",
+    "meaning": "The news was reported nationwide."
+  },
+  {
+    "sentence": "新しい土地を購入する計画がある。",
+    "sentence_furigana": "新【あたら】しい土地【とち】を購入【こうにゅう】する計画【けいかく】がある。",
+    "meaning": "There is a plan to purchase new land."
+  },
+  {
+    "sentence": "ここは人が少ない場所です。",
+    "sentence_furigana": "ここは人【ひと】が少【すく】ない場所【ばしょ】です。",
+    "meaning": "This is a place with few people."
+  },
+  {
+    "sentence": "地球の未来を考える。",
+    "sentence_furigana": "地球【ちきゅう】の未来【みらい】を考【かんが】える。",
+    "meaning": "To think about the future of the Earth."
+  },
+  {
+    "sentence": "彼は自分の限界に挑戦した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の限界【げんかい】に挑戦【ちょうせん】した。",
+    "meaning": "He challenged his own limits."
+  },
+  {
+    "sentence": "その事件は全国各地で話題になった。",
+    "sentence_furigana": "その事件【じけん】は全国各地【ぜんこくかくち】で話題【わだい】になった。",
+    "meaning": "The incident became a topic of discussion in various parts of the country."
+  },
+  {
+    "sentence": "大地に感謝の祈りを捧げた。",
+    "sentence_furigana": "大地【だいち】に感謝【かんしゃ】の祈【いの】りを捧【ささ】げた。",
+    "meaning": "I offered a prayer of gratitude to the earth."
+  },
+  {
+    "sentence": "彼は地方創生に力を入れている。",
+    "sentence_furigana": "彼【かれ】は地方創生【ちほうそうせい】に力【ちから】を入【い】れている。",
+    "meaning": "He is focusing on regional revitalization."
+  },
+  {
+    "sentence": "地面に水をまいた。",
+    "sentence_furigana": "地面【じめん】に水【みず】をまいた。",
+    "meaning": "I sprinkled water on the ground."
+  },
+  {
+    "sentence": "その場所には特別な思い入れがある。",
+    "sentence_furigana": "その場所【ばしょ】には特別【とくべつ】な思【おも】い入【い】れがある。",
+    "meaning": "I have special feelings for that place."
+  },
+  {
+    "sentence": "地球は奇跡の星だ。",
+    "sentence_furigana": "地球【ちきゅう】は奇跡【きせき】の星【ほし】だ。",
+    "meaning": "The Earth is a miraculous planet."
+  },
+  {
+    "sentence": "彼は広い世界への憧れを抱いていた。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い世界【せかい】への憧【あこが】れを抱【いだ】いていた。",
+    "meaning": "He harbored a yearning for the wider world."
+  },
+  {
+    "sentence": "会社の所在地を伝える必要がある。",
+    "sentence_furigana": "会社【かいしゃ】の所在地【しょざいち】を伝【つた】える必要【ひつよう】がある。",
+    "meaning": "It is necessary to inform the company's location."
+  },
+  {
+    "sentence": "地図にない冒険が始まる。",
+    "sentence_furigana": "地図【ちず】にない冒険【ぼうけん】が始【はじ】まる。",
+    "meaning": "An adventure not on the map begins."
+  },
+  {
+    "sentence": "その記録は広く知られていますか。",
+    "sentence_furigana": "その記録【きろく】は広【ひろ】く知【し】られていますか。",
+    "meaning": "Is that record widely known?"
+  },
+  {
+    "sentence": "その土地は肥沃で耕作に適している。",
+    "sentence_furigana": "その土地【とち】は肥沃【ひよく】で耕作【こうさく】に適【てき】している。",
+    "meaning": "That land is fertile and suitable for cultivation."
+  },
+  {
+    "sentence": "ここが私たちが探していた場所です。",
+    "sentence_furigana": "ここが我々【われわれ】が探【さが】していた場所【ばしょ】です。",
+    "meaning": "This is the place we were looking for."
+  },
+  {
+    "sentence": "地球上に多様な生態系が存在する。",
+    "sentence_furigana": "地球上【ちきゅうじょう】に多様【たよう】な生態系【せいたいけい】が存在【そんざい】する。",
+    "meaning": "Diverse ecosystems exist on Earth."
+  },
+  {
+    "sentence": "彼は自分のペースで進む。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のペースで進【すす】む。",
+    "meaning": "He proceeds at his own pace."
+  },
+  {
+    "sentence": "そのニュースは地方にも伝わった。",
+    "sentence_furigana": "そのニュースは地方【ちほう】にも伝【つた】わった。",
+    "meaning": "The news also reached the provinces."
+  },
+  {
+    "sentence": "大地に根を張る木々。",
+    "sentence_furigana": "大地【だいち】に根【ね】を張【は】る木々【きぎ】。",
+    "meaning": "Trees that take root in the earth."
+  },
+  {
+    "sentence": "彼は地域経済の活性化に貢献した。",
+    "sentence_furigana": "彼【かれ】は地域経済【ちいけいけいざい】の活性化【かっせいか】に貢献【こうけん】した。",
+    "meaning": "He contributed to the revitalization of the regional economy."
+  },
+  {
+    "sentence": "地面から小さな芽が出始めた。",
+    "sentence_furigana": "地面【じめん】から小【ちい】さな芽【め】が出【で】始【はじ】めた。",
+    "meaning": "Small sprouts began to emerge from the ground."
+  },
+  {
+    "sentence": "その場所は私たちにとって特別な意味を持つ。",
+    "sentence_furigana": "その場所【ばしょ】は我々【われわれ】にとって特別【とくべつ】な意味【いみ】を持【も】つ。",
+    "meaning": "That place has a special meaning for us."
+  },
+  {
+    "sentence": "地球の美しさに感動した。",
+    "sentence_furigana": "地球【ちきゅう】の美【うつく】しさに感動【かんどう】した。",
+    "meaning": "I was moved by the beauty of the Earth."
+  },
+  {
+    "sentence": "彼は広い視野で物事を捉えることが得意だ。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い視野【しや】で物事【ものごと】を捉【とら】えることが得意【とくい】だ。",
+    "meaning": "He is good at grasping things with a broad perspective."
+  },
+  {
+    "sentence": "会社の所在地が変わりました。",
+    "sentence_furigana": "会社【かいしゃ】の所在地【しょざいち】が変わ【か】わりました。",
+    "meaning": "The company's location has changed."
+  },
+  {
+    "sentence": "地図を見て道を探した。",
+    "sentence_furigana": "地図【ちず】を見【み】て道【みち】を探【さが】した。",
+    "meaning": "I looked at the map and searched for the way."
+  },
+  {
+    "sentence": "その教えは広く普及した。",
+    "sentence_furigana": "その教【おし】えは広【ひろ】く普及【ふきゅう】した。",
+    "meaning": "That teaching became widespread."
+  },
+  {
+    "sentence": "その土地は農作に適している。",
+    "sentence_furigana": "その土地【とち】は農作【のうさく】に適【てき】している。",
+    "meaning": "That land is suitable for farming."
+  },
+  {
+    "sentence": "ここは静かで落ち着ける場所です。",
+    "sentence_furigana": "ここは静【しず】かで落【お】ち着【つ】ける場所【ばしょ】です。",
+    "meaning": "This is a quiet and calming place."
+  },
+  {
+    "sentence": "地球環境を守るためにできることをしよう。",
+    "sentence_furigana": "地球環境【ちきゅうかんきょう】を守【まも】るためにできることをしよう。",
+    "meaning": "Let's do what we can to protect the Earth's environment."
+  },
+  {
+    "sentence": "彼は自分の力を信じている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の力【ちから】を信【しん】じている。",
+    "meaning": "He believes in his own strength."
+  },
+  {
+    "sentence": "その知らせは多くの地域に影響を与えた。",
+    "sentence_furigana": "その知【し】らせは多【おお】くの地域【ちいき】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "The news had an impact on many regions."
+  },
+  {
+    "sentence": "大地の上に立つ大きな木。",
+    "sentence_furigana": "大地【だいち】の上【うえ】に立【た】つ大【おお】きな木【き】。",
+    "meaning": "A large tree standing on the earth."
+  },
+  {
+    "sentence": "彼は地方の発展に貢献したいと考えている。",
+    "sentence_furigana": "彼【かれ】は地方【ちほう】の発展【はってん】に貢献【こうけん】したいと考【かんが】えている。",
+    "meaning": "He wants to contribute to the development of the region."
+  },
+  {
+    "sentence": "地面に大きな穴が開いていた。",
+    "sentence_furigana": "地面【じめん】に大【おお】きな穴【あな】が開【あ】いていた。",
+    "meaning": "A large hole had opened in the ground."
+  },
+  {
+    "sentence": "その場所は彼の心に特別な場所を占めている。",
+    "sentence_furigana": "その場所【ばしょ】は彼【かれ】の心【こころ】に特別【とくべつ】な場所【ばしょ】を占【し】めている。",
+    "meaning": "That place holds a special place in his heart."
+  },
+  {
+    "sentence": "地球の未来は私たちにかかっている。",
+    "sentence_furigana": "地球【ちきゅう】の未来【みらい】は我々【われわれ】にかかっている。",
+    "meaning": "The future of the Earth depends on us."
+  },
+  {
+    "sentence": "彼は広い視野で物事を考える必要がある。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い視野【しや】で物事【ものごと】を考【かんが】える必要【ひつよう】がある。",
+    "meaning": "He needs to think about things with a broad perspective."
+  },
+  {
+    "sentence": "会社の所在地を更新しました。",
+    "sentence_furigana": "会社【かいしゃ】の所在地【しょざいち】を更新【こうしん】しました。",
+    "meaning": "I have updated the company's location."
+  },
+  {
+    "sentence": "地図上で目的地を確認した。",
+    "sentence_furigana": "地図上【ちずじょう】で目的地【もくてきち】を確認【かくにん】した。",
+    "meaning": "I confirmed the destination on the map."
+  },
+  {
+    "sentence": "その情報は広く知られるべきだ。",
+    "sentence_furigana": "その情報【じょうほう】は広【ひろ】く知【し】られるべきだ。",
+    "meaning": "That information should be widely known."
+  },
+  {
+    "sentence": "その土地は開発が進んでいる。",
+    "sentence_furigana": "その土地【とち】は開発【かいはつ】が進【すす】んでいる。",
+    "meaning": "Development is progressing in that land."
+  },
+  {
+    "sentence": "ここはとても静かで落ち着いた場所だ。",
+    "sentence_furigana": "ここはとても静【しず】かで落【お】ち着【つ】いた場所【ばしょ】だ。",
+    "meaning": "This is a very quiet and calm place."
+  },
+  {
+    "sentence": "地球を守るための国際的な協力が必要だ。",
+    "sentence_furigana": "地球【ちきゅう】を守【まも】るための国際的【こくさいてき】な協力【きょうりょく】が必要【ひつよう】だ。",
+    "meaning": "International cooperation is necessary to protect the Earth."
+  },
+  {
+    "sentence": "彼は自分の能力の限界を知っていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】の限界【げんかい】を知【し】っていた。",
+    "meaning": "He knew the limits of his abilities."
+  },
+  {
+    "sentence": "その出来事は各地で議論を呼んだ。",
+    "sentence_furigana": "その出来事【できごと】は各地【かくち】で議論【ぎろん】を呼【よ】んだ。",
+    "meaning": "The event sparked discussion in various places."
+  },
+  {
+    "sentence": "大地からの恵みに感謝する。",
+    "sentence_furigana": "大地【だいち】からの恵【めぐ】みに感謝【かんしゃ】する。",
+    "meaning": "To be grateful for the blessings from the earth."
+  },
+  {
+    "sentence": "彼は地方の文化を守るために活動している。",
+    "sentence_furigana": "彼【かれ】は地方【ちほう】の文化【ぶんか】を守【まも】るために活動【かつどう】している。",
+    "meaning": "He is working to preserve local culture."
+  },
+  {
+    "sentence": "地面に古いコインが落ちていた。",
+    "sentence_furigana": "地面【じめん】に古【ふる】いコインが落【お】ちていた。",
+    "meaning": "An old coin was lying on the ground."
+  },
+  {
+    "sentence": "その場所は私にとって特別な意味を持つ場所となった。",
+    "sentence_furigana": "その場所【ばしょ】は私【わたし】にとって特別【とくべつ】な意味【いみ】を持【も】つ場所【ばしょ】となった。",
+    "meaning": "That place has become a special place for me."
+  },
+  {
+    "sentence": "地球は私たちの故郷です。",
+    "sentence_furigana": "地球【ちきゅう】は我々【われわれ】の故郷【こきょう】です。",
+    "meaning": "The Earth is our home."
+  },
+  {
+    "sentence": "彼は広い世界を見聞したいと願っている。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い世界【せかい】を見聞【けんぶん】したいと願【ねが】っている。",
+    "meaning": "He wishes to experience the wider world."
+  },
+  {
+    "sentence": "会社の所在地をウェブサイトに掲載した。",
+    "sentence_furigana": "会社【かいしゃ】の所在地【しょざいち】をウェブサイトに掲載【けいさい】した。",
+    "meaning": "The company's location was posted on the website."
+  },
+  {
+    "sentence": "地図がなければ迷ってしまうだろう。",
+    "sentence_furigana": "地図【ちず】がなければ迷【まよ】ってしまうだろう。",
+    "meaning": "Without a map, I would get lost."
+  },
+  {
+    "sentence": "その情報は広く共有された。",
+    "sentence_furigana": "その情報【じょうほう】は広【ひろ】く共有【きょうゆう】された。",
+    "meaning": "That information was widely shared."
+  },
+  {
+    "sentence": "その土地は商業開発に適している。",
+    "sentence_furigana": "その土地【とち】は商業開発【しょうぎょうかいはつ】に適【てき】している。",
+    "meaning": "That land is suitable for commercial development."
+  },
+  {
+    "sentence": "この場所は非常にユニークです。",
+    "sentence_furigana": "この場所【ばしょ】は非常【ひじょう】にユニークです。",
+    "meaning": "This place is very unique."
+  }
+]

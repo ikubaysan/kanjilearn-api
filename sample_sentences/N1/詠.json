@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "万葉集には多くの長歌が詠まれている。",
+    "sentence_furigana": "万葉集【まんようしゅう】には多【おお】くの長歌【ちょうか】が詠【よ】まれている。",
+    "meaning": "Many long poems are recited in the Manyoshu."
+  },
+  {
+    "sentence": "彼女は美しい詩を詠んだ。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい詩【し】を詠【よ】んだ。",
+    "meaning": "She composed a beautiful poem."
+  },
+  {
+    "sentence": "祭りの夜には、皆で歌を詠んだ。",
+    "sentence_furigana": "祭【まつ】りの夜【よる】には、皆【みな】で歌【うた】を詠【よ】んだ。",
+    "meaning": "On the night of the festival, everyone sang a song."
+  },
+  {
+    "sentence": "この歌は心に響くように詠まれている。",
+    "sentence_furigana": "この歌【うた】は心【こころ】に響【ひび】くように詠【よ】まれている。",
+    "meaning": "This song is composed to resonate with the heart."
+  },
+  {
+    "sentence": "古池や蛙飛びこむ水の音。",
+    "sentence_furigana": "古池【ふるいけ】や蛙【かわず】飛【と】びこむ水【みず】の音【おと】。",
+    "meaning": "An old pond; a frog jumps in, the sound of water."
+  },
+  {
+    "sentence": "彼の詠む俳句はいつも独創的だ。",
+    "sentence_furigana": "彼【かれ】の詠【よ】む俳句【はいく】はいつも独創的【どくそうてき】だ。",
+    "meaning": "The haiku he composes are always original."
+  },
+  {
+    "sentence": "春の訪れを祝う歌が詠まれた。",
+    "sentence_furigana": "春【はる】の訪【おとず】れを祝【いわ】う歌【うた】が詠【よ】まれた。",
+    "meaning": "A song celebrating the arrival of spring was composed."
+  },
+  {
+    "sentence": "学生たちは先生の指導の下、詩を詠んだ。",
+    "sentence_furigana": "学生【がくせい】たち【は】先生【せんせい】の指導【しどう】の下【もと】、詩【し】を詠【よ】んだ。",
+    "meaning": "Under the teacher's guidance, the students composed poetry."
+  },
+  {
+    "sentence": "歴史上の人物の生涯を詠った物語。",
+    "sentence_furigana": "歴史上【れきしじょう】の人物【じんぶつ】の生涯【しょうがい】を詠【よ】った物語【ものがたり】。",
+    "meaning": "A story that depicts the lives of historical figures."
+  },
+  {
+    "sentence": "この歌集には彼の感動的な詩が詠まれている。",
+    "sentence_furigana": "この歌集【かしゅう】には彼【かれ】の感動的【かんどうてき】な詩【し】が詠【よ】まれている。",
+    "meaning": "This poetry collection contains his moving poems."
+  },
+  {
+    "sentence": "短い言葉の中に深い思いを詠む。",
+    "sentence_furigana": "短【みじか】い言葉【ことば】の中【なか】に深【ふか】い思【おも】いを詠【よ】む。",
+    "meaning": "To express deep feelings in few words."
+  },
+  {
+    "sentence": "故郷を懐かしむ歌を詠みたい。",
+    "sentence_furigana": "故郷【こきょう】を懐【なつ】かしむ歌【うた】を詠【よ】みたい。",
+    "meaning": "I want to compose a song yearning for my hometown."
+  },
+  {
+    "sentence": "彼の歌声は聞く人の心を慰めるように詠まれている。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は聞【き】く人【ひと】の心【こころ】を慰【なぐさ】めるように詠【よ】まれている。",
+    "meaning": "His singing voice is performed in a way that comforts the listener's heart."
+  },
+  {
+    "sentence": "新しい時代の幕開けを告げる詩が詠まれるだろう。",
+    "sentence_furigana": "新【あら】たな時代【じだい】の幕開【まくあ】けを告【つ】げる詩【し】が詠【よ】まれるだろう。",
+    "meaning": "A poem announcing the dawn of a new era will likely be composed."
+  },
+  {
+    "sentence": "古の都の風景を詠んだ歌。",
+    "sentence_furigana": "古【いにしえ】の都【みやこ】の風景【ふうけい】を詠【よ】んだ歌【うた】。",
+    "meaning": "A song that depicts the scenery of the ancient capital."
+  },
+  {
+    "sentence": "彼は旅の途中で見た景色を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は旅【たび】の途中【とちゅう】で見た【み】た景色【けしき】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about the scenery he saw on his journey."
+  },
+  {
+    "sentence": "子供たちは楽しそうに歌を詠んでいた。",
+    "sentence_furigana": "子供【こども】たち【は】楽【たの】しそうに歌【うた】を詠【よ】んでいた。",
+    "meaning": "The children were happily singing songs."
+  },
+  {
+    "sentence": "この短歌は作者の深い悲しみを詠んでいる。",
+    "sentence_furigana": "この短歌【たんか】は作者【さくしゃ】の深【ふか】い悲【かな】しみを詠【よ】んでいる。",
+    "meaning": "This tanka expresses the author's deep sorrow."
+  },
+  {
+    "sentence": "偉大な詩人の言葉がここに詠まれている。",
+    "sentence_furigana": "偉大【いだい】な詩人【しじん】の言葉【ことば】がここ【に】詠【よ】まれている。",
+    "meaning": "The words of a great poet are recited here."
+  },
+  {
+    "sentence": "彼女の歌声は魂を揺さぶるように詠まれる。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は魂【たましい】を揺【ゆ】さぶるように詠【よ】まれる。",
+    "meaning": "Her singing voice is performed in a way that shakes the soul."
+  },
+  {
+    "sentence": "恋する気持ちを込めて詩を詠む。",
+    "sentence_furigana": "恋【こい】する気持【きも】ちを込【こ】めて詩【し】を詠【よ】む。",
+    "meaning": "To compose a poem with feelings of love."
+  },
+  {
+    "sentence": "この作品は人生の喜びを詠っている。",
+    "sentence_furigana": "この作品【さくひん】は人生【じんせい】の喜【よろこ】びを詠【よ】っている。",
+    "meaning": "This work depicts the joys of life."
+  },
+  {
+    "sentence": "平和への願いを込めた歌が詠まれた。",
+    "sentence_furigana": "平和【へいわ】への願【ねが】いを込【こ】めた歌【うた】が詠【よ】まれた。",
+    "meaning": "A song filled with a wish for peace was composed."
+  },
+  {
+    "sentence": "古い物語に登場する英雄を称える歌。",
+    "sentence_furigana": "古【ふる】い物語【ものがたり】に登場【とうじょう】する英雄【えいゆう】を称【たた】える歌【うた】。",
+    "meaning": "A song that praises the heroes appearing in old stories."
+  },
+  {
+    "sentence": "彼の詩は情景を鮮やかに詠む。",
+    "sentence_furigana": "彼【かれ】の詩【し】は情景【じょうけい】を鮮【あざ】やかに詠【よ】む。",
+    "meaning": "His poetry vividly depicts the scenes."
+  },
+  {
+    "sentence": "祭りの際に詠まれた歌は、人々の心を一つにした。",
+    "sentence_furigana": "祭【まつ】りの際【さい】に詠【よ】まれた歌【うた】は、人【ひと】々【の】心【こころ】を一つ【ひとつ】にした。",
+    "meaning": "The song composed during the festival united the hearts of the people."
+  },
+  {
+    "sentence": "この美しい言葉は、愛をテーマに詠まれた。",
+    "sentence_furigana": "この美【うつく】しい言葉【ことば】は、愛【あい】をテーマに詠【よ】まれた。",
+    "meaning": "These beautiful words were composed with love as the theme."
+  },
+  {
+    "sentence": "作者は自然の美しさを詠んだ。",
+    "sentence_furigana": "作者【さくしゃ】は自然【しぜん】の美【うつく】しさを詠【よ】んだ。",
+    "meaning": "The author composed about the beauty of nature."
+  },
+  {
+    "sentence": "彼の俳句は、季節の移ろいを巧みに詠んでいる。",
+    "sentence_furigana": "彼【かれ】の俳句【はいく】は、季節【きせつ】の移【うつ】ろいを巧【たく】みに詠【よ】んでいる。",
+    "meaning": "His haiku skillfully captures the transition of seasons."
+  },
+  {
+    "sentence": "新しい詩の創作に挑戦する。",
+    "sentence_furigana": "新【あら】たな詩【し】の創作【そうさく】に挑戦【ちょうせん】する。",
+    "meaning": "To challenge myself to create new poetry."
+  },
+  {
+    "sentence": "彼は感謝の気持ちを込めた歌を詠んだ。",
+    "sentence_furigana": "彼【かれ】は感謝【かんしゃ】の気持【きも】ちを込【こ】めた歌【うた】を詠【よ】んだ。",
+    "meaning": "He composed a song filled with gratitude."
+  },
+  {
+    "sentence": "この詩は読者の心に深く響くだろう。",
+    "sentence_furigana": "この詩【し】は読者【どくしゃ】の心【こころ】に深【ふか】く響【ひび】くだろう。",
+    "meaning": "This poem will deeply resonate with the reader's heart."
+  },
+  {
+    "sentence": "彼の歌は多くの人々に愛され、長く詠み継がれている。",
+    "sentence_furigana": "彼【かれ】の歌【うた】は多【おお】くの人々【ひとびと】に愛【あい】され、長【なが】く詠【よ】み継【つ】がれている。",
+    "meaning": "His songs are loved by many people and have been passed down through generations."
+  },
+  {
+    "sentence": "この歌は失われた恋を詠んでいる。",
+    "sentence_furigana": "この歌【うた】は失【うしな】われた恋【こい】を詠【よ】んでいる。",
+    "meaning": "This song is about lost love."
+  },
+  {
+    "sentence": "彼女は故郷への思いを短歌に詠んだ。",
+    "sentence_furigana": "彼女【かのじょ】は故郷【こきょう】への思【おも】いを短歌【たんか】に詠【よ】んだ。",
+    "meaning": "She expressed her feelings for her hometown in a tanka."
+  },
+  {
+    "sentence": "古代の英雄たちの活躍を詠む。",
+    "sentence_furigana": "古代【こだい】の英雄【えいゆう】たち【の】活躍【かつやく】を詠【よ】む。",
+    "meaning": "To compose about the exploits of ancient heroes."
+  },
+  {
+    "sentence": "この歌は友人の友情を称えるために詠まれた。",
+    "sentence_furigana": "この歌【うた】は友人【ゆうじん】の友情【ゆうじょう】を称【たた】えるために詠【よ】まれた。",
+    "meaning": "This song was composed to praise the friendship of a friend."
+  },
+  {
+    "sentence": "自然の雄大さを詠んだ詩。",
+    "sentence_furigana": "自然【しぜん】の雄大【ゆうだい】さ を詠【よ】んだ詩【し】。",
+    "meaning": "A poem that depicts the magnificence of nature."
+  },
+  {
+    "sentence": "彼はその場の感動を詩に詠むのが得意だ。",
+    "sentence_furigana": "彼【かれ】はその場【ば】の感動【かんどう】を詩【し】に詠【よ】むのが得意【とくい】だ。",
+    "meaning": "He is good at composing poetry about the emotions of the moment."
+  },
+  {
+    "sentence": "古い歌を現代風にアレンジして詠む。",
+    "sentence_furigana": "古【ふる】い歌【うた】を現代風【げんだいふう】にアレンジして詠【よ】む。",
+    "meaning": "To arrange and sing old songs in a modern style."
+  },
+  {
+    "sentence": "この俳句は、夏の終わりの寂しさを詠んでいる。",
+    "sentence_furigana": "この俳句【はいく】は、夏【なつ】の終【お】わりの寂【さび】しさを詠【よ】んでいる。",
+    "meaning": "This haiku captures the loneliness of the end of summer."
+  },
+  {
+    "sentence": "彼は旅先で出会った人々の温かさを歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は旅先【たびさき】で出会【であ】った人々【ひとびと】の温【あたた】かさを歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about the warmth of the people he met on his travels."
+  },
+  {
+    "sentence": "彼女の歌声はまるで天使が歌うかのようだ。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】はまるで天使【てんし】が歌【うた】うかのようだ。",
+    "meaning": "Her singing voice is as if an angel is singing."
+  },
+  {
+    "sentence": "この詩は青春の輝きを詠んでいる。",
+    "sentence_furigana": "この詩【し】は青春【せいしゅん】の輝【かがや】きを詠【よ】んでいる。",
+    "meaning": "This poem depicts the radiance of youth."
+  },
+  {
+    "sentence": "彼は情熱的な愛を込めて歌を詠んだ。",
+    "sentence_furigana": "彼【かれ】は情熱的【じょうねつてき】な愛【あい】を込【こ】めて歌【うた】を詠【よ】んだ。",
+    "meaning": "He composed a song with passionate love."
+  },
+  {
+    "sentence": "この短歌は作者の孤独感を詠んでいる。",
+    "sentence_furigana": "この短歌【たんか】は作者【さくしゃ】の孤独感【こどくかん】を詠【よ】んでいる。",
+    "meaning": "This tanka expresses the author's sense of loneliness."
+  },
+  {
+    "sentence": "彼は昔の友を偲んで歌を詠んだ。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の友【とも】を偲【しの】んで歌【うた】を詠【よ】んだ。",
+    "meaning": "He composed a song reminiscing about an old friend."
+  },
+  {
+    "sentence": "この詩集には様々な情景が詠まれている。",
+    "sentence_furigana": "この詩集【ししゅう】には様々【さまざま】な情景【じょうけい】が詠【よ】まれている。",
+    "meaning": "Various scenes are depicted in this poetry collection."
+  },
+  {
+    "sentence": "彼女は繊細な感情を歌に詠む名人だ。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な感情【かんじょう】を歌【うた】に詠【よ】む名人【めいじん】だ。",
+    "meaning": "She is a master at composing songs about delicate emotions."
+  },
+  {
+    "sentence": "この歌は、別れの悲しみを詠んでいる。",
+    "sentence_furigana": "この歌【うた】は、別【わか】れの悲【かな】しみを詠【よ】んでいる。",
+    "meaning": "This song depicts the sadness of parting."
+  },
+  {
+    "sentence": "彼は感謝の歌を詠み、先生に捧げた。",
+    "sentence_furigana": "彼【かれ】は感謝【かんしゃ】の歌【うた】を詠【よ】み、先生【せんせい】に捧【ささ】げた。",
+    "meaning": "He composed a song of gratitude and dedicated it to his teacher."
+  },
+  {
+    "sentence": "この詩は希望に満ちている。",
+    "sentence_furigana": "この詩【し】は希望【きぼう】に満【み】ちている。",
+    "meaning": "This poem is filled with hope."
+  },
+  {
+    "sentence": "彼は旅の思い出を歌に詠むことにした。",
+    "sentence_furigana": "彼【かれ】は旅【たび】の思【おも】い出【で】を歌【うた】に詠【よ】むことにした。",
+    "meaning": "He decided to compose a song about his travel memories."
+  },
+  {
+    "sentence": "彼女の歌声は聴衆の心を強く打った。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は聴衆【ちょうしゅう】の心【こころ】を強【つよ】く打【う】った。",
+    "meaning": "Her singing voice deeply moved the audience."
+  },
+  {
+    "sentence": "この短歌は作者の都会生活への憧れを詠んでいる。",
+    "sentence_furigana": "この短歌【たんか】は作者【さくしゃ】の都会生活【とかいせいかつ】への憧【あこが】れを詠【よ】んでいる。",
+    "meaning": "This tanka expresses the author's yearning for city life."
+  },
+  {
+    "sentence": "彼は故郷の自然の美しさを歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の自然【しぜん】の美【うつく】しさを歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about the beauty of his hometown's nature."
+  },
+  {
+    "sentence": "この詩は人生の無常観を詠んでいる。",
+    "sentence_furigana": "この詩【し】は人生【じんせい】の無常観【むじょうかん】を詠【よ】んでいる。",
+    "meaning": "This poem reflects on the impermanence of life."
+  },
+  {
+    "sentence": "彼女は情景を豊かに詠む。",
+    "sentence_furigana": "彼女【かのじょ】は情景【じょうけい】を豊【ゆた】かに詠【よ】む。",
+    "meaning": "She vividly depicts scenes."
+  },
+  {
+    "sentence": "この歌は友情の尊さを詠っている。",
+    "sentence_furigana": "この歌【うた】は友情【ゆうじょう】の尊【とうと】さを詠【よ】っている。",
+    "meaning": "This song celebrates the value of friendship."
+  },
+  {
+    "sentence": "彼は故郷の山々を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の山々【やまやま】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about the mountains of his hometown."
+  },
+  {
+    "sentence": "この詩は人間の心の機微を捉えている。",
+    "sentence_furigana": "この詩【し】は人間【にんげん】の心【こころ】の機微【きび】を捉【とら】えている。",
+    "meaning": "This poem captures the subtleties of the human heart."
+  },
+  {
+    "sentence": "彼女は短い言葉で深い情念を詠んだ。",
+    "sentence_furigana": "彼女【かのじょ】は短【みじか】い言葉【ことば】で深【ふか】い情念【じょうねん】を詠【よ】んだ。",
+    "meaning": "She expressed deep passion in few words."
+  },
+  {
+    "sentence": "この歌は愛する人への想いを詠んでいる。",
+    "sentence_furigana": "この歌【うた】は愛【あい】する人【ひと】への思【おも】いを詠【よ】んでいる。",
+    "meaning": "This song is about feelings for a loved one."
+  },
+  {
+    "sentence": "彼は歴史的な出来事を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な出来事【できごと】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about historical events."
+  },
+  {
+    "sentence": "この詩は自然への畏敬の念を詠んでいる。",
+    "sentence_furigana": "この詩【し】は自然【しぜん】への畏敬【いけい】の念【ねん】を詠【よ】んでいる。",
+    "meaning": "This poem expresses reverence for nature."
+  },
+  {
+    "sentence": "彼女は新しい歌の創作に励んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たな歌【うた】の創作【そうさく】に励【はげ】んでいる。",
+    "meaning": "She is diligently working on composing new songs."
+  },
+  {
+    "sentence": "この歌は別れの季節を歌っている。",
+    "sentence_furigana": "この歌【うた】は別【わか】れの季節【きせつ】を歌【うた】っている。",
+    "meaning": "This song is about the season of farewells."
+  },
+  {
+    "sentence": "彼は童謡を子供たちのために詠んだ。",
+    "sentence_furigana": "彼【かれ】は童謡【どうよう】を子供【こども】たち【の】ために詠【よ】んだ。",
+    "meaning": "He composed children's songs for the children."
+  },
+  {
+    "sentence": "この詩は人生の喜びと悲しみを詠んでいる。",
+    "sentence_furigana": "この詩【し】は人生【じんせい】の喜【よろこ】びと悲【かな】しみを詠【よ】んでいる。",
+    "meaning": "This poem depicts the joys and sorrows of life."
+  },
+  {
+    "sentence": "彼女は故郷への愛を込めて歌を詠んだ。",
+    "sentence_furigana": "彼女【かのじょ】は故郷【こきょう】への愛【あい】を込【こ】めて歌【うた】を詠【よ】んだ。",
+    "meaning": "She composed a song filled with love for her hometown."
+  },
+  {
+    "sentence": "この歌は希望のメッセージを伝えている。",
+    "sentence_furigana": "この歌【うた】は希望【きぼう】のメッセージを伝【つた】えている。",
+    "meaning": "This song conveys a message of hope."
+  },
+  {
+    "sentence": "彼は夏の情景を詠んだ詩を発表した。",
+    "sentence_furigana": "彼【かれ】は夏【なつ】の情景【じょうけい】を詠【よ】んだ詩【し】を発表【はっぴょう】した。",
+    "meaning": "He released a poem depicting summer scenes."
+  },
+  {
+    "sentence": "この短歌は作者の孤独な心情を詠んでいる。",
+    "sentence_furigana": "この短歌【たんか】は作者【さくしゃ】の孤独【こどく】な心情【しんじょう】を詠【よ】んでいる。",
+    "meaning": "This tanka expresses the author's lonely feelings."
+  },
+  {
+    "sentence": "彼女は美しい情景を歌に詠むのが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい情景【じょうけい】を歌【うた】に詠【よ】むのが得意【とくい】だ。",
+    "meaning": "She is skilled at composing songs about beautiful scenes."
+  },
+  {
+    "sentence": "この歌は季節の移り変わりを詠んでいる。",
+    "sentence_furigana": "この歌【うた】は季節【きせつ】の移【うつ】り変【か】わりを詠【よ】んでいる。",
+    "meaning": "This song depicts the changing of seasons."
+  },
+  {
+    "sentence": "彼は偉大な人物の生涯を詩に詠んだ。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な人物【じんぶつ】の生涯【しょうがい】を詩【し】に詠【よ】んだ。",
+    "meaning": "He composed a poem about the life of a great person."
+  },
+  {
+    "sentence": "この歌は人生の儚さを歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の儚【はかな】さを歌【うた】っている。",
+    "meaning": "This song is about the transience of life."
+  },
+  {
+    "sentence": "彼女は心に響く歌を詠む。",
+    "sentence_furigana": "彼女【かのじょ】は心【こころ】に響【ひび】く歌【うた】を詠【よ】む。",
+    "meaning": "She composes songs that resonate with the heart."
+  },
+  {
+    "sentence": "この詩は作者の深い思索を詠んでいる。",
+    "sentence_furigana": "この詩【し】は作者【さくしゃ】の深【ふか】い思索【しさく】を詠【よ】んでいる。",
+    "meaning": "This poem reflects the author's deep contemplation."
+  },
+  {
+    "sentence": "彼は故郷の風景を歌に詠み続けた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の風景【ふうけい】を歌【うた】に詠【よ】み続【つづ】けた。",
+    "meaning": "He continued to compose songs about the scenery of his hometown."
+  },
+  {
+    "sentence": "この歌は希望に向かって進む力をくれる。",
+    "sentence_furigana": "この歌【うた】は希望【きぼう】に向【む】かって進【すす】む力【ちから】をくれる。",
+    "meaning": "This song gives us the strength to move forward towards hope."
+  },
+  {
+    "sentence": "彼女は繊細な感性で詩を詠む。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な感性【かんせい】で詩【し】を詠【よ】む。",
+    "meaning": "She composes poetry with delicate sensibility."
+  },
+  {
+    "sentence": "この歌は過ぎ去った日々を懐かしんでいる。",
+    "sentence_furigana": "この歌【うた】は過【す】ぎ去【さ】った日々【ひび】を懐【なつ】かしんでいる。",
+    "meaning": "This song reminisces about days gone by."
+  },
+  {
+    "sentence": "彼は人生の喜怒哀楽を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の喜怒哀楽【きどあいらく】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about the joys and sorrows of life."
+  },
+  {
+    "sentence": "この詩は自然の力強さを詠んでいる。",
+    "sentence_furigana": "この詩【し】は自然【しぜん】の力強【ちからづよ】さを詠【よ】んでいる。",
+    "meaning": "This poem depicts the power of nature."
+  },
+  {
+    "sentence": "彼女は心に残る歌を詠むのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は心【こころ】に残【のこ】る歌【うた】を詠【よ】むのが好【す】きだ。",
+    "meaning": "She likes to compose memorable songs."
+  },
+  {
+    "sentence": "この歌は未来への希望を歌っている。",
+    "sentence_furigana": "この歌【うた】は未来【みらい】への希望【きぼう】を歌【うた】っている。",
+    "meaning": "This song is about hope for the future."
+  },
+  {
+    "sentence": "彼は故郷の思い出を詩に詠んだ。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の思【おも】い出【で】を詩【し】に詠【よ】んだ。",
+    "meaning": "He composed a poem about memories of his hometown."
+  },
+  {
+    "sentence": "この詩は人生の儚さと美しさを詠んでいる。",
+    "sentence_furigana": "この詩【し】は人生【じんせい】の儚【はかな】さと美【うつく】しさを詠【よ】んでいる。",
+    "meaning": "This poem depicts the transience and beauty of life."
+  },
+  {
+    "sentence": "彼女は自然の移ろいを繊細に詠む。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の移【うつ】ろいを繊細【せんさい】に詠【よ】む。",
+    "meaning": "She delicately captures the changes in nature."
+  },
+  {
+    "sentence": "この歌は友情の大切さを歌っている。",
+    "sentence_furigana": "この歌【うた】は友情【ゆうじょう】の大切【たいせつ】さを歌【うた】っている。",
+    "meaning": "This song emphasizes the importance of friendship."
+  },
+  {
+    "sentence": "彼は旅の途中で見た星空を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は旅【たび】の途中【とちゅう】で見た【み】た星空【ほしぞら】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about the starry sky he saw during his journey."
+  },
+  {
+    "sentence": "この詩は心の闇を深く詠んでいる。",
+    "sentence_furigana": "この詩【し】は心【こころ】の闇【やみ】を深【ふか】く詠【よ】んでいる。",
+    "meaning": "This poem deeply explores the darkness of the human heart."
+  },
+  {
+    "sentence": "彼女は感謝の気持ちを込めた詩を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は感謝【かんしゃ】の気持【きも】ちを込【こ】めた詩【し】を書【か】いた。",
+    "meaning": "She wrote a poem filled with gratitude."
+  },
+  {
+    "sentence": "この歌は新しい始まりを歌っている。",
+    "sentence_furigana": "この歌【うた】は新【あら】たな始【はじ】まりを歌【うた】っている。",
+    "meaning": "This song is about a new beginning."
+  },
+  {
+    "sentence": "彼は思い出の風景を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は思【おも】い出【で】の風景【ふうけい】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about a memorable landscape."
+  },
+  {
+    "sentence": "この詩は作者の孤独な心象風景を詠んでいる。",
+    "sentence_furigana": "この詩【し】は作者【さくしゃ】の孤独【こどく】な心象風景【しんしょうふうけい】を詠【よ】んでいる。",
+    "meaning": "This poem depicts the author's lonely inner landscape."
+  },
+  {
+    "sentence": "彼女は自然の雄大さを歌に詠む。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の雄大【ゆうだい】さ を歌【うた】に詠【よ】む。",
+    "meaning": "She composes songs about the magnificence of nature."
+  },
+  {
+    "sentence": "この歌は人生の喜びと哀しみを歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の喜【よろこ】びと哀【かな】しみを歌【うた】っている。",
+    "meaning": "This song sings of the joys and sorrows of life."
+  },
+  {
+    "sentence": "彼は永遠の愛を歌に詠んだ。",
+    "sentence_furigana": "彼【かれ】は永遠【えいえん】の愛【あい】を歌【うた】に詠【よ】んだ。",
+    "meaning": "He composed a song about eternal love."
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "これは子馬です。",
+    "sentence_furigana": "これ【】は子【こ】馬【うま】です。",
+    "meaning": "This is a pony."
+  },
+  {
+    "sentence": "馬に乗って駆け回った。",
+    "sentence_furigana": "馬【うま】に乗【の】って駆【か】け回【まわ】った。",
+    "meaning": "I rode a horse and ran around."
+  },
+  {
+    "sentence": "子馬が草原を駆け巡る。",
+    "sentence_furigana": "子【こ】馬【うま】が草原【そうげん】を駆【か】け巡【めぐ】る。",
+    "meaning": "A colt gallops across the meadow."
+  },
+  {
+    "sentence": "馬術競技会で立派な馬を見た。",
+    "sentence_furigana": "馬術【ばじゅつ】競技会【きょうぎかい】で立派【りっぱ】な馬【うま】を見【み】た。",
+    "meaning": "I saw a magnificent horse at the equestrian competition."
+  },
+  {
+    "sentence": "昔の人は馬を乗り物として利用した。",
+    "sentence_furigana": "昔【むかし】の人【ひと】は馬【うま】を乗【の】り物【もの】として利用【りよう】した。",
+    "meaning": "People in the past used horses as transportation."
+  },
+  {
+    "sentence": "馬のいななきが聞こえてきた。",
+    "sentence_furigana": "馬【うま】のいななきが聞【き】こえてきた。",
+    "meaning": "I heard the neighing of a horse."
+  },
+  {
+    "sentence": "馬の蹄の音が響く。",
+    "sentence_furigana": "馬【うま】の蹄【ひづめ】の音【おと】が響【ひび】く。",
+    "meaning": "The sound of horse hooves echoes."
+  },
+  {
+    "sentence": "駒を進める。",
+    "sentence_furigana": "駒【こま】を進【すす】める。",
+    "meaning": "Advance the pawn."
+  },
+  {
+    "sentence": "将棋の駒を並べる。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】を並【なら】べる。",
+    "meaning": "Arrange the shogi pieces."
+  },
+  {
+    "sentence": "チェスの駒の種類は多い。",
+    "sentence_furigana": "チェス【】の駒【こま】の種類【しゅるい】は多【おお】い。",
+    "meaning": "There are many types of chess pieces."
+  },
+  {
+    "sentence": "駒は一つ一つが大切だ。",
+    "sentence_furigana": "駒【こま】は一つ【ひとつ】一つ【ひとつ】が大切【たいせつ】だ。",
+    "meaning": "Each piece is important."
+  },
+  {
+    "sentence": "ゲームの駒がテーブルの上に散らばっている。",
+    "sentence_furigana": "ゲーム【】の駒【こま】がテーブル【】の＿＿＿の上【うえ】に散【ち】らばっている。",
+    "meaning": "The game pieces are scattered on the table."
+  },
+  {
+    "sentence": "将棋盤の上に駒が並んでいる。",
+    "sentence_furigana": "将棋盤【しょうぎばん】の上【うえ】に駒【こま】が並【なら】んでいる。",
+    "meaning": "The pieces are arranged on the shogi board."
+  },
+  {
+    "sentence": "これは特別な駒です。",
+    "sentence_furigana": "これ【】は特別【とくべつ】な駒【こま】です。",
+    "meaning": "This is a special piece."
+  },
+  {
+    "sentence": "駒の動かし方を覚える。",
+    "sentence_furigana": "駒【こま】の動【うご】かし方【かた】を覚【おぼ】える。",
+    "meaning": "Learn how to move the pieces."
+  },
+  {
+    "sentence": "馬に乗るのが趣味です。",
+    "sentence_furigana": "馬【うま】に乗【の】るのが趣味【しゅみ】です。",
+    "meaning": "My hobby is riding horses."
+  },
+  {
+    "sentence": "子馬が母馬の後ろをついていく。",
+    "sentence_furigana": "子【こ】馬【うま】が母馬【ぼば】の後【うし】ろをついていく。",
+    "meaning": "The colt follows its mother horse."
+  },
+  {
+    "sentence": "馬車がゆっくりと進んでいく。",
+    "sentence_furigana": "馬車【ばしゃ】がゆっくりと進【すす】んでいく。",
+    "meaning": "The carriage moves slowly."
+  },
+  {
+    "sentence": "馬は力強い動物です。",
+    "sentence_furigana": "馬【うま】は力強【ちからづよ】い動物【どうぶつ】です。",
+    "meaning": "Horses are powerful animals."
+  },
+  {
+    "sentence": "馬の世話をするのは大変だ。",
+    "sentence_furigana": "馬【うま】の世話【せわ】をするのは大変【たいへん】だ。",
+    "meaning": "Taking care of a horse is difficult."
+  },
+  {
+    "sentence": "駒を動かして相手を攻撃する。",
+    "sentence_furigana": "駒【こま】を動【うご】かして相手【あいて】を攻撃【こうげき】する。",
+    "meaning": "Move the piece to attack the opponent."
+  },
+  {
+    "sentence": "将棋の駒は全部で何種類あるのか？",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】は全部【ぜんぶ】で何種類【なんしゅるい】あるのか？",
+    "meaning": "How many types of shogi pieces are there in total?"
+  },
+  {
+    "sentence": "チェスの駒の種類と動き方。",
+    "sentence_furigana": "チェス【】の駒【こま】の種類【しゅるい】と動【うご】き方【かた】。",
+    "meaning": "Types of chess pieces and how they move."
+  },
+  {
+    "sentence": "この駒は特別な力を持っている。",
+    "sentence_furigana": "この駒【こま】は特別【とくべつ】な力【ちから】を持【も】っている。",
+    "meaning": "This piece has special power."
+  },
+  {
+    "sentence": "駒の配置を考える。",
+    "sentence_furigana": "駒【こま】の配置【はいち】を考【かんが】える。",
+    "meaning": "Consider the placement of the pieces."
+  },
+  {
+    "sentence": "馬の毛並みが美しい。",
+    "sentence_furigana": "馬【うま】の毛並【けな】みが見事【みごと】だ。",
+    "meaning": "The horse's coat is beautiful."
+  },
+  {
+    "sentence": "草原を馬が自由に歩いている。",
+    "sentence_furigana": "草原【そうげん】を馬【うま】が自由【じゆう】に歩【ある】いている。",
+    "meaning": "Horses are walking freely in the grassland."
+  },
+  {
+    "sentence": "子供の頃、馬に乗るのが夢だった。",
+    "sentence_furigana": "子供【こども】の頃【ころ】、馬【うま】に乗【の】るのが夢【ゆめ】だった。",
+    "meaning": "When I was a child, it was my dream to ride a horse."
+  },
+  {
+    "sentence": "大きな馬が荷物を運んでいる。",
+    "sentence_furigana": "大【おお】きな馬【うま】が荷物【にもつ】を運【はこ】んでいる。",
+    "meaning": "A large horse is carrying luggage."
+  },
+  {
+    "sentence": "馬の群れが勢いよく走っている。",
+    "sentence_furigana": "馬【うま】の群【む】れが勢【いきお】いよく走【はし】っている。",
+    "meaning": "A herd of horses is running powerfully."
+  },
+  {
+    "sentence": "駒を一つ失ってしまった。",
+    "sentence_furigana": "駒【こま】を一つ【ひとつ】失【うしな】ってしまった。",
+    "meaning": "I lost one of the pieces."
+  },
+  {
+    "sentence": "将棋の駒の名前を覚えるのが大変だ。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】の名前【なまえ】を覚【おぼ】えるのが大変【たいへん】だ。",
+    "meaning": "It is difficult to memorize the names of shogi pieces."
+  },
+  {
+    "sentence": "チェスの駒は国際的に標準化されている。",
+    "sentence_furigana": "チェス【】の駒【こま】は国際的【こくさいてき】に標準化【ひょうじゅんか】されている。",
+    "meaning": "Chess pieces are internationally standardized."
+  },
+  {
+    "sentence": "この駒は特別な意味を持つ。",
+    "sentence_furigana": "この駒【こま】は特別【とくべつ】な意味【いみ】を持【も】つ。",
+    "meaning": "This piece has a special meaning."
+  },
+  {
+    "sentence": "駒の動きを予測する。",
+    "sentence_furigana": "駒【こま】の動【うご】きを予測【よそく】する。",
+    "meaning": "Predict the movement of the pieces."
+  },
+  {
+    "sentence": "馬に乗る練習をする。",
+    "sentence_furigana": "馬【うま】に乗【の】る練習【れんしゅう】をする。",
+    "meaning": "Practice riding a horse."
+  },
+  {
+    "sentence": "子馬が母馬のそばでじゃれている。",
+    "sentence_furigana": "子【こ】馬【うま】が母馬【ぼば】のそばでじゃれている。",
+    "meaning": "The colt is playing near its mother horse."
+  },
+  {
+    "sentence": "馬が障害物を軽々と飛び越える。",
+    "sentence_furigana": "馬【うま】が障害物【しょうがいぶつ】を軽々【かるがる】と飛【と】び越【こ】える。",
+    "meaning": "The horse easily leaps over the obstacle."
+  },
+  {
+    "sentence": "美しい馬がパレードを飾る。",
+    "sentence_furigana": "美【うつく】しい馬【うま】がパレード【】を飾【かざ】る。",
+    "meaning": "Beautiful horses adorn the parade."
+  },
+  {
+    "sentence": "馬が蹄を鳴らして歩く。",
+    "sentence_furigana": "馬【うま】が蹄【ひづめ】を鳴【な】らして歩【ある】く。",
+    "meaning": "The horse walks, clattering its hooves."
+  },
+  {
+    "sentence": "駒が盤上でぶつかり合う音。",
+    "sentence_furigana": "駒【こま】が盤上【ばんじょう】でぶつかり合【あ】う音【おと】。",
+    "meaning": "The sound of pieces colliding on the board."
+  },
+  {
+    "sentence": "将棋の駒にはそれぞれ名前がついている。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】にはそれぞれ名前【なまえ】がついている。",
+    "meaning": "Each shogi piece has a name."
+  },
+  {
+    "sentence": "チェスの駒はチェスボード上で動かす。",
+    "sentence_furigana": "チェス【】の駒【こま】はチェスボード【】の上【うえ】で動【うご】かす。",
+    "meaning": "Chess pieces are moved on the chessboard."
+  },
+  {
+    "sentence": "この駒はゲームの鍵となるだろう。",
+    "sentence_furigana": "この駒【こま】はゲーム【】の鍵【かぎ】となるだろう。",
+    "meaning": "This piece will be the key to the game."
+  },
+  {
+    "sentence": "駒の動きが戦局を左右する。",
+    "sentence_furigana": "駒【こま】の動【うご】きが戦局【せんきょく】を左右【さゆう】する。",
+    "meaning": "The movement of the pieces influences the course of the battle."
+  },
+  {
+    "sentence": "馬は人間に忠実な動物だ。",
+    "sentence_furigana": "馬【うま】は人間【にんげん】に忠実【ちゅうじつ】な動物【どうぶつ】だ。",
+    "meaning": "Horses are loyal animals to humans."
+  },
+  {
+    "sentence": "馬のいななきが遠くまで響く。",
+    "sentence_furigana": "馬【うま】のいななきが遠【とお】くまで響【ひび】く。",
+    "meaning": "The horse's neighing echoes far away."
+  },
+  {
+    "sentence": "子馬が母馬乳を飲んでいる。",
+    "sentence_furigana": "子【こ】馬【うま】が母馬乳【ぼばにゅう】を飲【の】んでいる。",
+    "meaning": "The colt is drinking its mother's milk."
+  },
+  {
+    "sentence": "馬の嘶きは力強い。",
+    "sentence_furigana": "馬【うま】のいななきは力強【ちからづよ】い。",
+    "meaning": "The horse's whinny is powerful."
+  },
+  {
+    "sentence": "駒を慎重に動かす必要がある。",
+    "sentence_furigana": "駒【こま】を慎重【しんちょう】に動【うご】かす必要【ひつよう】がある。",
+    "meaning": "It is necessary to move the pieces carefully."
+  },
+  {
+    "sentence": "将棋の駒には成り駒がある。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】には成【な】り駒【ごま】がある。",
+    "meaning": "There are promoted pieces in shogi."
+  },
+  {
+    "sentence": "チェスの駒の種類はキング、クイーンなどがある。",
+    "sentence_furigana": "チェス【】の駒【こま】の種類【しゅるい】はキング【】、クイーン【】などがある。",
+    "meaning": "Types of chess pieces include king, queen, etc."
+  },
+  {
+    "sentence": "ゲームの駒はとても精巧に作られている。",
+    "sentence_furigana": "ゲーム【】の駒【こま】はとても精巧【せいこう】に作【つく】られている。",
+    "meaning": "The game pieces are made very elaborately."
+  },
+  {
+    "sentence": "駒の動きを読んで、次の手を考える。",
+    "sentence_furigana": "駒【こま】の動【うご】きを読【よ】んで、次【つぎ】の手【て】を考【かんが】える。",
+    "meaning": "Read the movement of the pieces and think about the next move."
+  },
+  {
+    "sentence": "馬の蹄鉄は職人が作る。",
+    "sentence_furigana": "馬【うま】の蹄鉄【ていてつ】は職人【しょくにん】が作【つく】る。",
+    "meaning": "Horseshoes are made by craftsmen."
+  },
+  {
+    "sentence": "馬の背に乗って旅をする。",
+    "sentence_furigana": "馬【うま】の背【せ】に乗【の】って旅【たび】をする。",
+    "meaning": "Travel by riding on a horse's back."
+  },
+  {
+    "sentence": "子馬が元気に走り回っている。",
+    "sentence_furigana": "子【こ】馬【うま】が元気【げんき】に走【はし】り回【まわ】っている。",
+    "meaning": "The colt is running around energetically."
+  },
+  {
+    "sentence": "馬が優雅に歩く姿は美しい。",
+    "sentence_furigana": "馬【うま】が優雅【ゆうが】に歩【ある】く姿【すがた】は美【うつく】しい。",
+    "meaning": "The sight of a horse walking gracefully is beautiful."
+  },
+  {
+    "sentence": "馬の嘶き声は響き渡る。",
+    "sentence_furigana": "馬【うま】のいななき声【ごえ】は響【ひび】き渡【わた】る。",
+    "meaning": "The horse's neighing sound resounds."
+  },
+  {
+    "sentence": "駒の動かし方を間違えると不利になる。",
+    "sentence_furigana": "駒【こま】の動【うご】かし方【かた】を間違【まちが】えると不利【ふり】になる。",
+    "meaning": "Making a mistake in how you move a piece can put you at a disadvantage."
+  },
+  {
+    "sentence": "将棋の駒は木でできている。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】は木【き】でできている。",
+    "meaning": "Shogi pieces are made of wood."
+  },
+  {
+    "sentence": "チェスの駒をテーブルの上に並べます。",
+    "sentence_furigana": "チェス【】の駒【こま】をテーブル【】の上【うえ】に並【なら】べます。",
+    "meaning": "Arrange the chess pieces on the table."
+  },
+  {
+    "sentence": "この駒は強力な攻撃力を持つ。",
+    "sentence_furigana": "この駒【こま】は強力【きょうりょく】な攻撃力【こうげきりょく】を持【も】つ。",
+    "meaning": "This piece has strong offensive power."
+  },
+  {
+    "sentence": "駒の配置が勝敗を分ける。",
+    "sentence_furigana": "駒【こま】の配置【はいち】が勝敗【しょうはい】を分【わ】ける。",
+    "meaning": "The placement of the pieces determines victory or defeat."
+  },
+  {
+    "sentence": "馬が嘶いて応える。",
+    "sentence_furigana": "馬【うま】がいなないて応【こた】える。",
+    "meaning": "The horse whinnies in response."
+  },
+  {
+    "sentence": "馬の背に乗って景色を楽しむ。",
+    "sentence_furigana": "馬【うま】の背【せ】に乗【の】って景色【けしき】を楽【たの】しむ。",
+    "meaning": "Enjoy the scenery while riding on a horse's back."
+  },
+  {
+    "sentence": "子馬が元気に駆け回っている。",
+    "sentence_furigana": "子【こ】馬【うま】が元気【げんき】に駆【か】け回【まわ】っている。",
+    "meaning": "The colt is running around energetically."
+  },
+  {
+    "sentence": "馬が疾走する姿は勇壮だ。",
+    "sentence_furigana": "馬【うま】が疾走【しっそう】する姿【すがた】は勇壮【ゆうそう】だ。",
+    "meaning": "The sight of a horse galloping is magnificent."
+  },
+  {
+    "sentence": "馬のたてがみが風になびく。",
+    "sentence_furigana": "馬【うま】のたてがみが風【かぜ】になびく。",
+    "meaning": "The horse's mane sways in the wind."
+  },
+  {
+    "sentence": "駒を動かす手が震える。",
+    "sentence_furigana": "駒【こま】を動【うご】かす手【て】が震【ふる】える。",
+    "meaning": "My hand trembles as I move the piece."
+  },
+  {
+    "sentence": "将棋の駒は精巧な彫刻が施されているものもある。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】は精巧【せいこう】な彫刻【ちょうこく】が施【ほどこ】されているものもある。",
+    "meaning": "Some shogi pieces have elaborate carvings."
+  },
+  {
+    "sentence": "チェスの駒は戦略の要となる。",
+    "sentence_furigana": "チェス【】の駒【こま】は戦略【せんりゃく】の要【かなめ】となる。",
+    "meaning": "Chess pieces are essential to strategy."
+  },
+  {
+    "sentence": "この駒はゲームの展開を大きく変える力がある。",
+    "sentence_furigana": "この駒【こま】はゲーム【】の展開【てんかい】を大【おお】きく変【か】える力【ちから】がある。",
+    "meaning": "This piece has the power to greatly change the course of the game."
+  },
+  {
+    "sentence": "駒の動きに注意深く従う。",
+    "sentence_furigana": "駒【こま】の動【うご】きに注意深【ちゅういぶか】く従【したが】う。",
+    "meaning": "Follow the movement of the pieces carefully."
+  },
+  {
+    "sentence": "馬は昔から人間の良き友であった。",
+    "sentence_furigana": "馬【うま】は昔【むかし】から人間【にんげん】の良【よ】き友【とも】であった。",
+    "meaning": "Horses have been good friends to humans since ancient times."
+  },
+  {
+    "sentence": "馬のいななきが野に響く。",
+    "sentence_furigana": "馬【うま】のいななきが野【の】に響【ひび】く。",
+    "meaning": "The horse's neighing echoes in the field."
+  },
+  {
+    "sentence": "子馬が母馬に寄り添っている。",
+    "sentence_furigana": "子【こ】馬【うま】が母馬【ぼば】に寄【よ】り添【そ】っている。",
+    "meaning": "The colt is snuggling up to its mother horse."
+  },
+  {
+    "sentence": "馬が駆ける音は力強い。",
+    "sentence_furigana": "馬【うま】が駆【か】ける音【おと】は力強【ちからづよ】い。",
+    "meaning": "The sound of horses running is powerful."
+  },
+  {
+    "sentence": "馬の鬣が風になびいて美しい。",
+    "sentence_furigana": "馬【うま】のたてがみが風【かぜ】になびいて美【うつく】しい。",
+    "meaning": "The horse's mane flowing in the wind is beautiful."
+  },
+  {
+    "sentence": "駒を置く場所を間違えた。",
+    "sentence_furigana": "駒【こま】を置【お】く場所【ばしょ】を間違【まちが】えた。",
+    "meaning": "I made a mistake in placing the piece."
+  },
+  {
+    "sentence": "将棋の駒には敵味方の区別がある。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】には敵味方【てきみかた】の区別【くべつ】がある。",
+    "meaning": "Shogi pieces are distinguished as enemy or friendly."
+  },
+  {
+    "sentence": "チェスの駒は黒と白に分かれている。",
+    "sentence_furigana": "チェス【】の駒【こま】は黒【くろ】と白【しろ】に分【わ】かれている。",
+    "meaning": "Chess pieces are divided into black and white."
+  },
+  {
+    "sentence": "この駒はゲームの勝敗を左右する重要な駒だ。",
+    "sentence_furigana": "この駒【こま】はゲーム【】の勝敗【しょうはい】を左右【さゆう】する重要【じゅうよう】な駒【こま】だ。",
+    "meaning": "This piece is an important piece that influences the outcome of the game."
+  },
+  {
+    "sentence": "駒の動きはゲームのルールで決まる。",
+    "sentence_furigana": "駒【こま】の動【うご】きはゲーム【】のルール【】で決【き】まる。",
+    "meaning": "The movement of the pieces is determined by the game's rules."
+  },
+  {
+    "sentence": "馬が力強く大地を蹴る。",
+    "sentence_furigana": "馬【うま】が力強【ちからづよ】く大地【だいち】を蹴【け】る。",
+    "meaning": "The horse powerfully kicks the ground."
+  },
+  {
+    "sentence": "馬の瞳は穏やかだ。",
+    "sentence_furigana": "馬【うま】の瞳【ひとみ】は穏【おだ】やかだ。",
+    "meaning": "The horse's eyes are gentle."
+  },
+  {
+    "sentence": "子馬が母馬に甘えている。",
+    "sentence_furigana": "子【こ】馬【うま】が母馬【ぼば】に甘【あま】えている。",
+    "meaning": "The colt is being affectionate towards its mother horse."
+  },
+  {
+    "sentence": "馬が雄叫びをあげる。",
+    "sentence_furigana": "馬【うま】が雄叫【おたけ】びをあげて。",
+    "meaning": "The horse lets out a powerful cry."
+  },
+  {
+    "sentence": "馬の鼻息が荒い。",
+    "sentence_furigana": "馬【うま】の鼻息【はなじ】が荒【あら】い。",
+    "meaning": "The horse is breathing heavily."
+  },
+  {
+    "sentence": "駒を前に進める。",
+    "sentence_furigana": "駒【こま】を前【まえ】に進【すす】める。",
+    "meaning": "Move the piece forward."
+  },
+  {
+    "sentence": "将棋の駒は一つ一つに個性がある。",
+    "sentence_furigana": "将棋【しょうぎ】の駒【こま】は一つ【ひとつ】一つ【ひとつ】に個性【こせい】がある。",
+    "meaning": "Each shogi piece has its own individuality."
+  },
+  {
+    "sentence": "チェスの駒は、それぞれの役割がある。",
+    "sentence_furigana": "チェス【】の駒【こま】は、それぞれ役割【やくわり】がある。",
+    "meaning": "Each chess piece has its own role."
+  },
+  {
+    "sentence": "この駒を交換する。",
+    "sentence_furigana": "この駒【こま】を交換【こうかん】する。",
+    "meaning": "Exchange this piece."
+  },
+  {
+    "sentence": "駒の配置を熟考する。",
+    "sentence_furigana": "駒【こま】の配置【はいち】を熟考【じゅっこう】する。",
+    "meaning": "Deeply consider the placement of the pieces."
+  },
+  {
+    "sentence": "馬が元気に駆け出す。",
+    "sentence_furigana": "馬【うま】が元気【げんき】に駆【か】け出【だ】す。",
+    "meaning": "The horse starts to run energetically."
+  },
+  {
+    "sentence": "馬の力は偉大だ。",
+    "sentence_furigana": "馬【うま】の力【ちから】は偉大【いだい】だ。",
+    "meaning": "The power of horses is great."
+  },
+  {
+    "sentence": "子馬が母馬を追いかける。",
+    "sentence_furigana": "子【こ】馬【うま】が母馬【ぼば】を追【お】いかける。",
+    "meaning": "The colt chases its mother horse."
+  },
+  {
+    "sentence": "馬の嘶きは優雅だ。",
+    "sentence_furigana": "馬【うま】のいななきは優雅【ゆうが】だ。",
+    "meaning": "The horse's whinny is elegant."
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "この装置は精密な測定を行うことができる。",
+    "sentence_furigana": "この装置【そうち】は精密【せいみつ】な測定【そくてい】を行【おこな】うことができます。",
+    "meaning": "This device can perform precise measurements."
+  },
+  {
+    "sentence": "将来の計画を測るために、まずは現状を把握する必要がある。",
+    "sentence_furigana": "将来【しょうらい】の計画【けいかく】を測【はか】るために、まずは現状【げんじょう】を把握【はあく】する必要【ひつよう】がある。",
+    "meaning": "To measure the future plan, we first need to grasp the current situation."
+  },
+  {
+    "sentence": "彼はその問題を解決するための新しい方法を測った。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】を解決【かいけつ】するための新【あら】しい方法【ほうほう】を測【はか】った。",
+    "meaning": "He devised a new method to solve the problem."
+  },
+  {
+    "sentence": "その建物の高さを測るには、レーザー測量器が使われた。",
+    "sentence_furigana": "その建物【たてもの】の高【たか】さを測【はか】るには、レーザー測量器【そくりょうき】が使【つか】われた。",
+    "meaning": "A laser rangefinder was used to measure the height of that building."
+  },
+  {
+    "sentence": "経済成長の見通しを測ることは、政府の重要な課題です。",
+    "sentence_furigana": "経済成長【けいざいせいちょう】の見通【みとお】しを測【はか】ることは、政府【せいふ】の重要【じゅうよう】な課題【かだい】です。",
+    "meaning": "Forecasting economic growth is an important task for the government."
+  },
+  {
+    "sentence": "彼はその計画の成功の可能性を測っていた。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】の成功【せいこう】の可能性【かのうせい】を測【はか】っていた。",
+    "meaning": "He was gauging the possibility of the plan's success."
+  },
+  {
+    "sentence": "海底の深さを測るための機器が開発された。",
+    "sentence_furigana": "海底【かいてい】の深【ふか】さを測【はか】るための機器【きき】が開発【かいはつ】された。",
+    "meaning": "A device was developed to measure the depth of the seabed."
+  },
+  {
+    "sentence": "彼の意図を測ることは難しい。",
+    "sentence_furigana": "彼【かれ】の意図【いと】を測【はか】ることは難【むずか】しい。",
+    "meaning": "It is difficult to gauge his intentions."
+  },
+  {
+    "sentence": "その会社の将来性を測る上で、市場調査は不可欠だ。",
+    "sentence_furigana": "その会社【かいしゃ】の将来性【しょうらいせい】を測【はか】る上【うえ】で、市場調査【しじょうちょうさ】は不可欠【ふかけつ】だ。",
+    "meaning": "Market research is essential in assessing the company's future potential."
+  },
+  {
+    "sentence": "私たちはこの川の水位を定期的に測っています。",
+    "sentence_furigana": "私【わたし】たちはこの川【かわ】の水位【すいい】を定期的【ていきてき】に測【はか】っています。",
+    "meaning": "We regularly measure the water level of this river."
+  },
+  {
+    "sentence": "彼は遠大な計画を測り、着々と準備を進めている。",
+    "sentence_furigana": "彼【かれ】は遠大【えんだい】な計画【けいかく】を測【はか】り、着々【ちゃくちゃく】と準備【じゅんび】を進【すす】めている。",
+    "meaning": "He is meticulously preparing based on a grand plan."
+  },
+  {
+    "sentence": "この新しいテクノロジーは、その効果を正確に測ることが課題だ。",
+    "sentence_furigana": "この新【あら】しいテクノロジーは、その効果【こうか】を正確【せいかく】に測【はか】ることが課題【かだい】だ。",
+    "meaning": "The challenge is to accurately measure the effects of this new technology."
+  },
+  {
+    "sentence": "彼は人々の反応を測りながら、スピーチを進めた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の反応【はんのう】を測【はか】りながら、スピーチを進【すす】めた。",
+    "meaning": "He proceeded with the speech while gauging people's reactions."
+  },
+  {
+    "sentence": "測量士は地図作成のために土地の面積を測った。",
+    "sentence_furigana": "測量士【そくりょうし】は地図作成【ちずさくせい】のために土地【とち】の面積【めんせき】を測【はか】った。",
+    "meaning": "The surveyor measured the area of the land for map creation."
+  },
+  {
+    "sentence": "そのプロジェクトの成功の見込みを測る必要がある。",
+    "sentence_furigana": "そのプロジェクトの成功【せいこう】の見込【みこ】みを図【はか】る必要【ひつよう】がある。",
+    "meaning": "We need to measure the prospects for the success of that project."
+  },
+  {
+    "sentence": "この薬の効果を測るための臨床試験が行われる予定です。",
+    "sentence_furigana": "この薬【くすり】の効果【こうか】を測【はか】るための臨床試験【りんしょうしけん】が行【おこな】われる予定【よてい】です。",
+    "meaning": "Clinical trials are scheduled to measure the effectiveness of this medicine."
+  },
+  {
+    "sentence": "彼は巧妙な計画を測り、敵を欺こうとした。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】な計画【けいかく】を測【はか】り、敵【てき】を欺【あざむ】こうとした。",
+    "meaning": "He devised a clever plan to deceive the enemy."
+  },
+  {
+    "sentence": "この装置は電圧を正確に測定することができます。",
+    "sentence_furigana": "この装置【そうち】は電圧【でんあつ】を正確【せいかく】に測定【そくてい】することができます。",
+    "meaning": "This device can accurately measure voltage."
+  },
+  {
+    "sentence": "火星の環境を測るために、探査機が送られた。",
+    "sentence_furigana": "火星【かせい】の環境【かんきょう】を測【はか】るために、探査機【たんさき】が送【おく】られた。",
+    "meaning": "A probe was sent to measure the Martian environment."
+  },
+  {
+    "sentence": "その科学者は実験結果を詳細に測り、分析した。",
+    "sentence_furigana": "その科学者【かがくしゃ】は実験結果【じっけんけっか】を詳細【しょうさい】に測【はか】り、分析【ぶんせき】した。",
+    "meaning": "The scientist meticulously measured and analyzed the experimental results."
+  },
+  {
+    "sentence": "彼はこの地域の降水量を測るための新しい方法を考案した。",
+    "sentence_furigana": "彼【かれ】はこの地域【ちいき】の降水量【こうすいりょう】を測【はか】るための新【あら】しい方法【ほうほう】を考案【こうあん】した。",
+    "meaning": "He devised a new method to measure the precipitation in this area."
+  },
+  {
+    "sentence": "その市場の動向を測ることは、投資判断に重要だ。",
+    "sentence_furigana": "その市場【しじょう】の動向【どうこう】を測【はか】ることは、投資判断【とうしかし】に重要【じゅうよう】だ。",
+    "meaning": "Gauging the trends in that market is important for investment decisions."
+  },
+  {
+    "sentence": "このグラフは、過去数年間の気温の変化を測ったものである。",
+    "sentence_furigana": "このグラフは、過去数年間【かこすうねんかん】の気温【きおん】の変化【へんか】を測【はか】ったものである。",
+    "meaning": "This graph measures the temperature changes over the past several years."
+  },
+  {
+    "sentence": "彼の決意の固さを測るには十分な情報がなかった。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】の固【かた】さを測【はか】るには十分【じゅうぶん】な情報【じょうほう】がなかった。",
+    "meaning": "There was not enough information to measure the firmness of his resolve."
+  },
+  {
+    "sentence": "測量チームは、新しい道路建設のために地形を測った。",
+    "sentence_furigana": "測量【そくりょう】チームは、新【あら】しい道路建設【どうろけんせつ】のために地形【ちけい】を測【はか】った。",
+    "meaning": "The surveying team measured the terrain for the construction of a new road."
+  },
+  {
+    "sentence": "この計画は成功するかどうか、その可能性を測らなければならない。",
+    "sentence_furigana": "この計画【けいかく】は成功【せいこう】するかどうか、その可能性【かのうせい】を測【はか】らなければならない。",
+    "meaning": "We must measure the possibility of whether this plan will succeed."
+  },
+  {
+    "sentence": "その科学者は、物質の密度を測るための実験を行った。",
+    "sentence_furigana": "その科学者【かがくしゃ】は、物質【ぶっしつ】の密度【みつど】を測【はか】るための実験【じっけん】を行【おこな】った。",
+    "meaning": "The scientist conducted an experiment to measure the density of the substance."
+  },
+  {
+    "sentence": "彼は人々の感情を測るように、相手の目を見つめた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の感情【かんじょう】を測【はか】るように、相手【あいて】の目【め】を見【み】つめた。",
+    "meaning": "He stared into the other person's eyes as if to gauge their feelings."
+  },
+  {
+    "sentence": "この地域は地震が多いので、その活動を常に測る必要がある。",
+    "sentence_furigana": "この地域【ちいき】は地震【じしん】が多【おお】いので、その活動【かつどう】を常【つね】に測【はか】る必要【ひつよう】がある。",
+    "meaning": "Since this area has many earthquakes, it is necessary to constantly measure their activity."
+  },
+  {
+    "sentence": "彼は大胆な計画を測り、不可能を可能にしようとした。",
+    "sentence_furigana": "彼【かれ】は大胆【だいたん】な計画【けいかく】を測【はか】り、不可能【ふかのう】を可能【かのう】にしようとした。",
+    "meaning": "He devised a bold plan and tried to make the impossible possible."
+  },
+  {
+    "sentence": "この新しい測定器は、非常に高い精度で測定できます。",
+    "sentence_furigana": "この新【あら】しい測定器【そくていき】は、非常【ひじょう】に高【たか】い精度【せいど】で測定【そくてい】できます。",
+    "meaning": "This new measuring instrument can measure with very high accuracy."
+  },
+  {
+    "sentence": "その作家は、人間の心の奥底を測るような物語を書いた。",
+    "sentence_furigana": "その作家【さっか】は、人間【にんげん】の心【こころ】の奥底【おくそこ】を測【はか】るような物語【ものがたり】を書【か】いた。",
+    "meaning": "The author wrote a story that seemed to plumb the depths of the human heart."
+  },
+  {
+    "sentence": "彼は物事の本質を見抜くために、常に深く測っていた。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の本質【ほんしつ】を見抜【みぬ】くために、常【つね】に深【ふか】く測【はか】っていた。",
+    "meaning": "He was always deeply measuring to discern the essence of things."
+  },
+  {
+    "sentence": "この地域の環境基準を測るための調査が開始されました。",
+    "sentence_furigana": "この地域【ちいき】の環境基準【かんきょうきじゅん】を測【はか】るための調査【ちょうさ】が開始【かいし】されました。",
+    "meaning": "An investigation to measure the environmental standards of this region has begun."
+  },
+  {
+    "sentence": "彼は敵の戦力を測り、慎重に作戦を立てた。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の戦力【せんりょく】を測【はか】り、慎重【しんちょう】に作戦【さくせん】を立【た】てた。",
+    "meaning": "He assessed the enemy's strength and carefully formulated a strategy."
+  },
+  {
+    "sentence": "この新しい測量技術は、従来の方法よりも効率的です。",
+    "sentence_furigana": "この新【あら】しい測量技術【そくりょうぎじゅつ】は、従来【じゅうらい】の方法【ほうほう】よりも効率的【こうりつてき】です。",
+    "meaning": "This new surveying technology is more efficient than conventional methods."
+  },
+  {
+    "sentence": "彼は成功への道を測り、着実に歩みを進めていた。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への道【みち】を測【はか】り、着実【ちゃくじつ】に歩【あゆ】みを進【すす】めていた。",
+    "meaning": "He was steadily advancing, charting his path to success."
+  },
+  {
+    "sentence": "この温度計は、非常に正確な温度測定が可能です。",
+    "sentence_furigana": "この温度計【おんどけい】は、非常【ひじょう】に正確【せいかく】な温度測定【おんどそくてい】が可能です【かのう】。",
+    "meaning": "This thermometer is capable of very accurate temperature measurements."
+  },
+  {
+    "sentence": "彼はその提案の実現可能性を測るための詳細な分析を行った。",
+    "sentence_furigana": "彼【かれ】はその提案【ていあん】の実現可能性【じつげんかのうせい】を測【はか】るための詳細【しょうさい】な分析【ぶんせき】を行【おこな】った。",
+    "meaning": "He conducted a detailed analysis to gauge the feasibility of that proposal."
+  },
+  {
+    "sentence": "この海域の水深を測るために、専門家が調査を行いました。",
+    "sentence_furigana": "この海域【かいいき】の水深【すいしん】を測【はか】るために、専門家【せんもんか】が調査【ちょうさ】を行【おこな】いました。",
+    "meaning": "Experts conducted a survey to measure the water depth in this sea area."
+  },
+  {
+    "sentence": "彼は状況を測り、最善の行動方針を決定した。",
+    "sentence_furigana": "彼【かれ】は状況【じょうきょう】を測【はか】り、最善【さいぜん】の行動方針【こうどうほうしん】を決定【けってい】した。",
+    "meaning": "He assessed the situation and decided on the best course of action."
+  },
+  {
+    "sentence": "この新しいソフトウェアは、市場の需要を正確に測定することを目指しています。",
+    "sentence_furigana": "この新【あら】しいソフトウェアは、市場【しじょう】の需要【じゅよう】を正確【せいかく】に測定【そくてい】することを目指【めざ】しています。",
+    "meaning": "This new software aims to accurately measure market demand."
+  },
+  {
+    "sentence": "彼は人類の進歩の度合いを測るための壮大な計画を立てた。",
+    "sentence_furigana": "彼【かれ】は人類【じんるい】の進歩【しんぽ】の度合【どあ】いを測【はか】るための壮大【そうだい】な計画【けいかく】を立【た】てた。",
+    "meaning": "He formulated a grand plan to measure the degree of human progress."
+  },
+  {
+    "sentence": "この精密な測定機器を使えば、どんなに小さな物体でもその大きさを測ることができます。",
+    "sentence_furigana": "この精密【せいみつ】な測定機器【そくていき】を使【つか】えば、どんなに小【ちい】さな物体【ぶったい】でもその大【おお】きさを測【はか】ることができます。",
+    "meaning": "With this precise measuring instrument, you can measure the size of even the smallest object."
+  },
+  {
+    "sentence": "彼は人々の信頼を測るために、正直な行動を心がけた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の信頼【しんらい】を測【はか】るために、正直【しょうじき】な行動【こうどう】を心【こころ】がけた。",
+    "meaning": "He strove to act honestly to gauge people's trust."
+  },
+  {
+    "sentence": "その国の経済成長率を測るための新しい指標が導入された。",
+    "sentence_furigana": "その国【くに】の経済成長率【けいざいせいちょうりつ】を測【はか】るための新【あら】しい指標【しひょう】が導入【どうにゅう】された。",
+    "meaning": "A new indicator was introduced to measure the economic growth rate of that country."
+  },
+  {
+    "sentence": "彼はその計画のリスクを慎重に測り、実行に移した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】のリスクを慎重【しんちょう】に測【はか】り、実行【じっこう】に移【うつ】した。",
+    "meaning": "He carefully assessed the risks of the plan and put it into execution."
+  },
+  {
+    "sentence": "この装置は、物質の化学組成を測定するために使用されます。",
+    "sentence_furigana": "この装置【そうち】は、物質【ぶっしつ】の化学組成【かがくそせい】を測定【そくてい】するために使用【しよう】されます。",
+    "meaning": "This device is used to measure the chemical composition of substances."
+  },
+  {
+    "sentence": "彼は長年の経験から、その人の本心を測ることができた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】から、その人【ひと】の本心【ほんしん】を測【はか】ることができた。",
+    "meaning": "From his many years of experience, he could gauge that person's true intentions."
+  },
+  {
+    "sentence": "このプロジェクトの成功のために、私たちは綿密な計画を測った。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】のために、私【わたし】たちは綿密【めんみつ】な計画【けいかく】を測【はか】った。",
+    "meaning": "For the success of this project, we devised a meticulous plan."
+  },
+  {
+    "sentence": "彼はその場の空気を測るように、周囲に気を配っていた。",
+    "sentence_furigana": "彼【かれ】はそこの空気【くうき】を測【はか】るように、周囲【しゅうい】に気【き】を配【くば】っていた。",
+    "meaning": "He was paying attention to his surroundings as if to gauge the mood of the room."
+  },
+  {
+    "sentence": "この新しい測量方法により、地形のデータ収集が迅速化されました。",
+    "sentence_furigana": "この新【あら】しい測量方法【そくりょうほうほう】により、地形【ちけい】のデータ収集【データしゅうしゅう】が迅速化【じんそくか】されました。",
+    "meaning": "This new surveying method has accelerated the collection of topographical data."
+  },
+  {
+    "sentence": "彼は社会の変化を測り、それに応じた戦略を立てた。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の変化【へんか】を測【はか】り、それに応【おう】じた戦略【せんりゃく】を立【た】てた。",
+    "meaning": "He gauged the changes in society and devised a strategy accordingly."
+  },
+  {
+    "sentence": "この装置は、空気中の微粒子を精密に測定する。",
+    "sentence_furigana": "この装置【そうち】は、空気中【くうきちゅう】の微粒子【びりゅうし】を精密【せいみつ】に測定【そくてい】する。",
+    "meaning": "This device precisely measures fine particles in the air."
+  },
+  {
+    "sentence": "彼は遠い未来の出来事を測るかのように、星空を見上げていた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い未来【みらい】の出来事【できごと】を測【はか】るかのように、星空【ほしぞら】を見上【みあ】げていた。",
+    "meaning": "He was gazing at the starry sky as if to measure events in the distant future."
+  },
+  {
+    "sentence": "この調査は、製品の品質を客観的に測ることを目的としています。",
+    "sentence_furigana": "この調査【ちょうさ】は、製品【せいひん】の品質【ひんしつ】を客観的【きゃっかんてき】に測【はか】ることを目的【もくてき】としています。",
+    "meaning": "This survey aims to objectively measure product quality."
+  },
+  {
+    "sentence": "彼はその会社の収益性を測るための財務諸表を詳細に分析した。",
+    "sentence_furigana": "彼【かれ】はその会社【かいしゃ】の収益性【しゅうえきせい】を測【はか】るための財務諸表【ざいむしょひょう】を詳細【しょうさい】に分析【ぶんせき】した。",
+    "meaning": "He analyzed the financial statements in detail to measure the company's profitability."
+  },
+  {
+    "sentence": "このトンネルの長さを測るための特別な測量機器が使用された。",
+    "sentence_furigana": "このトンネルの長【なが】さを測【はか】るための特別【とくべつ】な測量機器【そくりょうきき】が使用【しよう】された。",
+    "meaning": "Special surveying equipment was used to measure the length of this tunnel."
+  },
+  {
+    "sentence": "彼は人々の意見を測り、政策に反映させようとした。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の意見【いけん】を測【はか】り、政策【せいさく】に反映【はんえい】させようとした。",
+    "meaning": "He tried to gauge public opinion and reflect it in policy."
+  },
+  {
+    "sentence": "この新しい評価基準は、学習者の進歩をより正確に測ることができる。",
+    "sentence_furigana": "この新【あら】しい評価基準【ひょうかきじゅん】は、学習者【がくしゅうしゃ】の進歩【しんぽ】をより正確【せいかく】に測【はか】ることができます。",
+    "meaning": "This new evaluation criteria can more accurately measure learner progress."
+  },
+  {
+    "sentence": "彼はその未知の土地の広さを測るために、地図を作成した。",
+    "sentence_furigana": "彼【かれ】はその未知【みち】の土地【とち】の広【ひろ】さを測【はか】るために、地図【ちず】を作成【さくせい】した。",
+    "meaning": "He created a map to measure the area of that unknown land."
+  },
+  {
+    "sentence": "この機械は材料の硬さを測定するのに使われる。",
+    "sentence_furigana": "この機械【きかい】は材料【ざいりょう】の硬【かた】さを測定【そくてい】するのに使【つか】われる。",
+    "meaning": "This machine is used to measure the hardness of materials."
+  },
+  {
+    "sentence": "彼はその困難な状況を測り、冷静に対処した。",
+    "sentence_furigana": "彼【かれ】はその困難【こんなん】な状況【じょうきょう】を測【はか】り、冷静【れいせい】に対処【たいしょ】した。",
+    "meaning": "He assessed the difficult situation and dealt with it calmly."
+  },
+  {
+    "sentence": "この最新の測量技術は、より広範囲のデータを短時間で取得できます。",
+    "sentence_furigana": "この最新【さいしん】の測量技術【そくりょうぎじゅつ】は、より広範囲【こうはんい】のデータを短時間【たんじかん】で取得【しゅとく】できます。",
+    "meaning": "This latest surveying technology can acquire data over a wider range in a shorter time."
+  },
+  {
+    "sentence": "彼は人々の感情の機微を測るように、言葉を選んで話した。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の感情【かんじょう】の機微【きび】を測【はか】るように、言葉【ことば】を選【え】んで話【はな】した。",
+    "meaning": "He chose his words carefully as if to gauge the nuances of people's emotions."
+  },
+  {
+    "sentence": "この測量結果は、今後の都市計画の基礎となる。",
+    "sentence_furigana": "この測量結果【そくりょうけっか】は、今後【こんご】の都市計画【としけいかく】の基礎【きそ】となる。",
+    "meaning": "These survey results will form the basis for future urban planning."
+  },
+  {
+    "sentence": "彼はそのビジネスの将来性を測るため、市場の動向を分析した。",
+    "sentence_furigana": "彼【かれ】はそのビジネスの将来性【しょうらいせい】を測【はか】るため、市場【しじょう】の動向【どうこう】を分析【ぶんせき】した。",
+    "meaning": "He analyzed market trends to gauge the future potential of that business."
+  },
+  {
+    "sentence": "この道具は、物の長さを正確に測ることができます。",
+    "sentence_furigana": "この道具【どうぐ】は、物【もの】の長【なが】さを正確【せいかく】に測【はか】ることができます。",
+    "meaning": "This tool can accurately measure the length of things."
+  },
+  {
+    "sentence": "彼は人々の気持ちを測るために、いつも注意深く観察していた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の気持【きも】ちを測【はか】るために、いつも注意深【ちゅういぶか】く観察【かんさつ】していた。",
+    "meaning": "He was always observing carefully to gauge people's feelings."
+  },
+  {
+    "sentence": "この計画は、将来の発展の可能性を測る上で重要な意味を持つ。",
+    "sentence_furigana": "この計画【けいかく】は、将来【しょうらい】の発展【はってん】の可能性【かのうせい】を測【はか】る上【うえ】で重要【じゅうよう】な意味【いみ】を持【も】つ。",
+    "meaning": "This plan holds significant meaning in assessing the potential for future development."
+  },
+  {
+    "sentence": "彼はその目標達成のための道のりを測り、一歩ずつ進んだ。",
+    "sentence_furigana": "彼【かれ】はその目標達成【もくひょうたっせい】のためのがり、一歩一歩【いっぽいっぽ】進【すす】んだ。",
+    "meaning": "He measured the path to achieving that goal and progressed step by step."
+  },
+  {
+    "sentence": "この測量図は、土地の境界を正確に示しています。",
+    "sentence_furigana": "この測量図【そくりょうず】は、土地【とち】の境界【きょうかい】を正確【せいかく】に示【しめ】しています。",
+    "meaning": "This survey map accurately shows the property boundaries."
+  },
+  {
+    "sentence": "彼はその出来事の重大さを測り、迅速な対応を求めた。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】の重大【じゅうだい】さを測【はか】り、迅速【じんそく】な対応【たいおう】を求【もと】めた。",
+    "meaning": "He assessed the gravity of the event and called for a swift response."
+  },
+  {
+    "sentence": "この最新の気象観測装置は、様々な気象データを詳細に測定できます。",
+    "sentence_furigana": "この最新【さいしん】の気象観測装置【きしょうかんそくそうち】は、様々【さまざま】な気象データ【きしょうデータ】を詳細【しょうさい】に測定【そくてい】できます。",
+    "meaning": "This latest meteorological observation equipment can measure various weather data in detail."
+  },
+  {
+    "sentence": "彼は自分の能力を測り、挑戦する価値があるか判断した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】を測【はか】り、挑戦【ちょうせん】する価値【かち】があるか判断【はんだん】した。",
+    "meaning": "He measured his own abilities and decided if it was worth challenging."
+  },
+  {
+    "sentence": "この新しい分析手法は、データの信頼性をより正確に測ることができる。",
+    "sentence_furigana": "この新【あら】しい分析手法【ぶんせきしゅほう】は、データ信頼性【データしんらいせい】をより正確【せいかく】に測【はか】ることができます。",
+    "meaning": "This new analytical method can more accurately measure data reliability."
+  },
+  {
+    "sentence": "彼はその困難を測り、解決策を見つけるために努力した。",
+    "sentence_furigana": "彼【かれ】はそのため困難【こんなん】を測【はか】り、解決策【かいけつさく】を見【み】つけるために努力【どりょく】した。",
+    "meaning": "He assessed the difficulty and worked to find a solution."
+  },
+  {
+    "sentence": "この測量技術の進歩は、建設業界に大きな影響を与えている。",
+    "sentence_furigana": "この測量技術【そくりょうぎじゅつ】の進歩【しんぽ】は、建設業界【けんせつぎょうかい】に大【おお】きな影響【えいきょう】を与【あた】えている。",
+    "meaning": "The progress of this surveying technology is having a major impact on the construction industry."
+  },
+  {
+    "sentence": "彼は人々の潜在的なニーズを測るために、市場調査を実施した。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の潜在的【せんざいてき】なニーズを測【はか】るために、市場調査【しじょうちょうさ】を実施【じっし】した。",
+    "meaning": "He conducted market research to gauge people's latent needs."
+  },
+  {
+    "sentence": "この計画は、長期的な視点でその効果を測る必要がある。",
+    "sentence_furigana": "この計画【けいかく】は、長期的【ちょうきてき】な視点【してん】でその効果【こうか】を測【はか】る必要【ひつよう】がある。",
+    "meaning": "This plan needs to have its effects measured from a long-term perspective."
+  },
+  {
+    "sentence": "彼はその選手の技術レベルを正確に測ることができた。",
+    "sentence_furigana": "彼【かれ】はその選手【せんしゅ】の技術レベル【ぎじゅつレベル】を正確【せいかく】に測【はか】ることができた。",
+    "meaning": "He could accurately measure the skill level of that athlete."
+  },
+  {
+    "sentence": "この新しい測定技術により、従来の測定時間を大幅に短縮できます。",
+    "sentence_furigana": "この新【あら】しい測定技術【そくていぎじゅつ】により、従来【じゅうらい】の測定時間【そくていじかん】を大幅【おおはば】に短縮【たんしゅく】できます。",
+    "meaning": "This new measurement technology can significantly reduce conventional measurement time."
+  },
+  {
+    "sentence": "彼は人々の期待を測りながら、慎重にプロジェクトを進めた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の期待【きたい】を測【はか】りながら、慎重【しんちょう】にプロジェクトを進【すす】めた。",
+    "meaning": "He proceeded with the project carefully, while gauging people's expectations."
+  },
+  {
+    "sentence": "この測量データは、今後の開発計画に不可欠な情報源です。",
+    "sentence_furigana": "この測量データ【そくりょうデータ】は、今後【こんご】の開発計画【かいはつけいかく】に不可欠【ふかけつ】な情報源【じょうほうげん】です。",
+    "meaning": "This survey data is an indispensable source of information for future development plans."
+  },
+  {
+    "sentence": "彼はその企業の将来性を測るために、様々な指標を分析した。",
+    "sentence_furigana": "彼【かれ】はその企業【きぎょう】の将来性【しょうらいせい】を測【はか】るために、様々【さまざま】な指標【しひょう】を分析【ぶんせき】した。",
+    "meaning": "He analyzed various indicators to gauge the future potential of that company."
+  },
+  {
+    "sentence": "この精密測定器を使えば、誤差を最小限に抑えることができます。",
+    "sentence_furigana": "この精密測定器【せいみつそくていき】を使【つか】えば、誤差【ごさ】を最小限【さいしょうげん】に抑【おさ】えることができます。",
+    "meaning": "Using this precision measuring instrument can minimize errors."
+  },
+  {
+    "sentence": "彼は人々の真意を測るかのように、静かに相手の話を聞いていた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の真意【しんい】を測【はか】るかのように、静【しず】かに相手【あいて】の話【はな】しを聞【き】いていた。",
+    "meaning": "He listened quietly to the other person's story as if to gauge their true intentions."
+  },
+  {
+    "sentence": "この計画の成功の可能性を正確に測ることは、非常に難しい。",
+    "sentence_furigana": "この計画【けいかく】の成功【せいこう】の可能性【かのうせい】を正確【せいかく】に測【はか】ることは、非常【ひじょう】に難【むずか】しい。",
+    "meaning": "It is very difficult to accurately measure the probability of this plan's success."
+  },
+  {
+    "sentence": "彼はその偉大な業績の価値を測ることはできなかった。",
+    "sentence_furigana": "彼【かれ】はその偉大【いだい】な業績【ぎょうせき】の価値【かち】を測【はか】ることはできなかった。",
+    "meaning": "He could not measure the value of that great achievement."
+  },
+  {
+    "sentence": "この新しい計測技術は、より広範囲のデータを高精度で測定できます。",
+    "sentence_furigana": "この新【あら】しい計測技術【けいそくぎじゅつ】は、より広範囲【こうはんい】のデータを高精度【こうせいど】で測定【そくてい】できます。",
+    "meaning": "This new measurement technology can measure a wider range of data with high precision."
+  },
+  {
+    "sentence": "彼は人々の反応を測りながら、巧妙な交渉を進めた。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の反応【はんのう】を測【はか】りながら、巧妙【こうみょう】な交渉【こうしょう】を進【すす】めた。",
+    "meaning": "He proceeded with skillful negotiations while gauging people's reactions."
+  },
+  {
+    "sentence": "この測量図面は、建築現場で正確な作業を行うために不可欠です。",
+    "sentence_furigana": "この測量図面【そくりょうずめん】は、建築現場【けんちくげんば】で正確【せいかく】な作業【さぎょう】を行【おこな】うために不可欠【ふかけつ】です。",
+    "meaning": "This survey drawing is essential for performing accurate work at the construction site."
+  },
+  {
+    "sentence": "彼はそのプロジェクトの規模を測り、必要な人員を算出した。",
+    "sentence_furigana": "彼【かれ】はそのプロジェクトの規模【きぼ】を測【はか】り、必要【ひつよう】な人員【じんいん】を算出【さんしゅつ】した。",
+    "meaning": "He assessed the scale of the project and calculated the necessary personnel."
+  }
+]

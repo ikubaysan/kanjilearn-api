@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "これは私の考えとは違います。",
+    "sentence_furigana": "これ【】は私【わたし】の考【かんが】えとは違【ちが】います。",
+    "meaning": "This is different from my thinking."
+  },
+  {
+    "sentence": "意見の相違は避けられません。",
+    "sentence_furigana": "意見【いけん】の相違【そうい】は避【さ】けられません。",
+    "meaning": "Differences of opinion are unavoidable."
+  },
+  {
+    "sentence": "その情報は事実と違っていた。",
+    "sentence_furigana": "その情報【じょうほう】は事実【じじつ】と違【ちが】っていた。",
+    "meaning": "That information was different from the facts."
+  },
+  {
+    "sentence": "服装規定に違反しないように注意してください。",
+    "sentence_furigana": "服装規定【ふくそうきてい】に違反【いはん】しないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to violate the dress code."
+  },
+  {
+    "sentence": "言葉遣いが少し違っていた。",
+    "sentence_furigana": "言葉遣【ことばづか】いが少【すこ】し違【ちが】っていた。",
+    "meaning": "The wording was a little different."
+  },
+  {
+    "sentence": "彼とはもう長い間会っていないので、少し違って見えるかもしれない。",
+    "sentence_furigana": "彼【かれ】とはもう長【なが】い間【あいだ】会【あ】っていないので、少【すこ】し違【ちが】って見【み】えるかもしれない。",
+    "meaning": "I haven't seen him for a long time, so he might look a little different."
+  },
+  {
+    "sentence": "この二つの製品は、仕様がわずかに違います。",
+    "sentence_furigana": "この二【ふた】つの製品【せいひん】は、仕様【しよう】がわずかに違【ちが】います。",
+    "meaning": "These two products have slightly different specifications."
+  },
+  {
+    "sentence": "彼の説明と実際の状況とは大きく違っていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】と実際【じっさい】の状況【じょうきょう】とは大【おお】きく違【ちが】っていた。",
+    "meaning": "His explanation differed greatly from the actual situation."
+  },
+  {
+    "sentence": "その規則に違反すると罰金が科せられます。",
+    "sentence_furigana": "その規則【きそく】に違反【いはん】すると罰金【ばっきん】が科【か】せられます。",
+    "meaning": "Violating that rule will result in a fine."
+  },
+  {
+    "sentence": "我々の見解にはいくつかの違いがあります。",
+    "sentence_furigana": "我々【われわれ】の見解【けんかい】にはいくつかのです違い【ちが】いがあります。",
+    "meaning": "There are several differences in our views."
+  },
+  {
+    "sentence": "予定と違うことが起こったので、計画を変更する必要がある。",
+    "sentence_furigana": "予定【よてい】と違【ちが】うことが起【お】こったので、計画【けいかく】を変更【へんこう】する必要【ひつよう】がある。",
+    "meaning": "Something different from the plan happened, so we need to change the plan."
+  },
+  {
+    "sentence": "彼の言い方には、何かひっかかるものがあった。",
+    "sentence_furigana": "彼【かれ】の言【い】い方【かた】には、何【なに】かひっかかるものがあった。",
+    "meaning": "There was something in the way he said it that felt off."
+  },
+  {
+    "sentence": "文化の違いを理解することが大切だ。",
+    "sentence_furigana": "文化【ぶんか】の違い【ちが】いを理解【りかい】することが大切【たいせつ】だ。",
+    "meaning": "It is important to understand cultural differences."
+  },
+  {
+    "sentence": "彼は私の指示とは違った行動をとった。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の指示【しじ】とは違【ちが】った行動【こうどう】をとった。",
+    "meaning": "He acted differently from my instructions."
+  },
+  {
+    "sentence": "二つの道のりは、始まりは同じでも、終わりが違う。",
+    "sentence_furigana": "二【ふた】つの道【みち】のり は、始【はじ】まりは同【おな】じでも、終【お】わりが違【ちが】う。",
+    "meaning": "The two paths are the same at the beginning, but different at the end."
+  },
+  {
+    "sentence": "そのニュースは私が聞いていたものとは違っていた。",
+    "sentence_furigana": "そのニュースは私【わたし】が聞【き】いていたものとは違【ちが】っていた。",
+    "meaning": "That news was different from what I had heard."
+  },
+  {
+    "sentence": "彼の態度の違いに戸惑った。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】の違い【ちが】いに戸惑【とまど】った。",
+    "meaning": "I was confused by the difference in his attitude."
+  },
+  {
+    "sentence": "この地図は実際のものと少し違う。",
+    "sentence_furigana": "この地図【ちず】は実際【じっさい】のものと少【すこ】し違【ちが】う。",
+    "meaning": "This map is slightly different from the real one."
+  },
+  {
+    "sentence": "彼は一度も約束を違えたことがない。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】も約束【やくそく】を違【たが】えたことがない。",
+    "meaning": "He has never broken a promise."
+  },
+  {
+    "sentence": "色の違いはありますが、基本的には同じ製品です。",
+    "sentence_furigana": "色【いろ】の違い【ちが】いはありますが、基本【きほん】的【てき】には同【おな】じ製品【せいひん】です。",
+    "meaning": "There are color differences, but they are basically the same product."
+  },
+  {
+    "sentence": "彼らの音楽性は大きく異なっている。",
+    "sentence_furigana": "彼等【かれら】の音楽性【おんがくせい】は 大【おお】き く異【こと】なっている。",
+    "meaning": "Their musical styles are very different."
+  },
+  {
+    "sentence": "この文章は原文と内容が違います。",
+    "sentence_furigana": "この文章【ぶんしょう】は原文【げんぶん】と内容【ないよう】が違【ちが】います。",
+    "meaning": "This text differs in content from the original."
+  },
+  {
+    "sentence": "私は彼とは違った意見を持っている。",
+    "sentence_furigana": "私【わたし】は彼【かれ】とは違【ちが】った意見【いけん】を持っている。",
+    "meaning": "I have a different opinion from him."
+  },
+  {
+    "sentence": "その出来事は予想と違った結果をもたらした。",
+    "sentence_furigana": "その出来事【できごと】は予想【よそう】と違【ちが】った結果【けっか】をもたらした。",
+    "meaning": "That event brought about a different result than expected."
+  },
+  {
+    "sentence": "彼女の服装は周りの人たちと一線を画していた。",
+    "sentence_furigana": "彼女【かのじょ】の服装【ふくそう】は 周【まわ】りの人達【ひとたち】と一線【いっせん】を画【かく】していた。",
+    "meaning": "Her attire set her apart from the people around her."
+  },
+  {
+    "sentence": "この薬は他のものとは作用が違う。",
+    "sentence_furigana": "この薬【くすり】は他【た】のものとは作用【さよう】が違【ちが】う。",
+    "meaning": "This medicine has a different effect from others."
+  },
+  {
+    "sentence": "あなたの解釈は私のものとは異なります。",
+    "sentence_furigana": "あなた の解釈【かいしゃく】は私【わたし】のものとは異【こと】なります。",
+    "meaning": "Your interpretation differs from mine."
+  },
+  {
+    "sentence": "彼の言葉は彼の本当の気持ちとは違っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は彼【かれ】の本当【ほんとう】の気持【きも】ちとは違【ちが】っていた。",
+    "meaning": "His words were different from his true feelings."
+  },
+  {
+    "sentence": "その規則に違反したために、罰せられた。",
+    "sentence_furigana": "その規則【きそく】に違反【いはん】したために、罰【ばっ】せられた。",
+    "meaning": "I was punished for violating that rule."
+  },
+  {
+    "sentence": "二つのレポートの間には、ほとんど違いはなかった。",
+    "sentence_furigana": "二【ふた】つのレポートの間【あいだ】には、ほとんど違【ちが】いはなかった。",
+    "meaning": "There was almost no difference between the two reports."
+  },
+  {
+    "sentence": "彼の話は私が知っている事実と相違している。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は私【わたし】が知【し】っている事実【じじつ】と相違【そうい】している。",
+    "meaning": "His story contradicts the facts I know."
+  },
+  {
+    "sentence": "この小説の結末は原作とは違っている。",
+    "sentence_furigana": "この小説【しょうせつ】の結末【けつまつ】は原作【げんさく】とは違【ちが】っている。",
+    "meaning": "The ending of this novel is different from the original."
+  },
+  {
+    "sentence": "味の違いは、使う食材によるものだろう。",
+    "sentence_furigana": "味【あじ】の違い【ちが】いは、使【つか】う食材【しょくざい】によるものだろう。",
+    "meaning": "The difference in taste is probably due to the ingredients used."
+  },
+  {
+    "sentence": "私たちは意見が違うことがあるが、友人関係は変わらない。",
+    "sentence_furigana": "私達【わたしたち】は意見【いけん】が違【ちが】うことがあるが、友人関係【ゆうじんかんけい】は変【か】わらない。",
+    "meaning": "We sometimes disagree, but our friendship doesn't change."
+  },
+  {
+    "sentence": "彼の説明は曖昧で、意図が掴みづらかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は曖昧【あいまい】で、意図【いと】が掴【つか】みづらかった。",
+    "meaning": "His explanation was vague, making it difficult to grasp his intention."
+  },
+  {
+    "sentence": "その法案には多くの反対意見があった。",
+    "sentence_furigana": "その法案【ほうあん】には多【おお】くの反対意見【はんたいけん】があった。",
+    "meaning": "There were many opposing opinions on that bill."
+  },
+  {
+    "sentence": "この二つの色調は微妙に違います。",
+    "sentence_furigana": "この二【ふた】つの色調【しきちょう】は微妙【びみょう】に違【ちが】います。",
+    "meaning": "These two color tones are subtly different."
+  },
+  {
+    "sentence": "約束の時間を違えてしまった。",
+    "sentence_furigana": "約束【やくそく】の時間【じかん】を違【たが】えてしまった。",
+    "meaning": "I missed our scheduled time."
+  },
+  {
+    "sentence": "彼は会議で他の参加者とは違う意見を述べた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で他【た】の参加者【さんかしゃ】とは違【ちが】う意見【いけん】を述【の】べた。",
+    "meaning": "He presented a different opinion from other participants at the meeting."
+  },
+  {
+    "sentence": "この本は前に読んだものとは全く違う物語だった。",
+    "sentence_furigana": "この本【ほん】は前【まえ】に読【よ】んだものとは全【まった】く違【ちが】う物語【ものがたり】だった。",
+    "meaning": "This book was a completely different story from the one I read before."
+  },
+  {
+    "sentence": "彼の行動は倫理規定に違反している。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は倫理規定【りんりきてい】に違反【いはん】している。",
+    "meaning": "His actions violate ethical guidelines."
+  },
+  {
+    "sentence": "我々の目標には共通点もあるが、相違点も多い。",
+    "sentence_furigana": "我々【われわれ】の目標【もくひょう】には共通点【きょうつうてん】もあるが、相違点【そういてん】も多【おお】い。",
+    "meaning": "Our goals have common points, but also many differences."
+  },
+  {
+    "sentence": "見た目は似ているが、中身は大きく違う。",
+    "sentence_furigana": "見【み】た目【め】は似【に】ているが、中身【なかみ】は 大【おお】き く違【ちが】う。",
+    "meaning": "They look similar, but their contents are very different."
+  },
+  {
+    "sentence": "彼の話すことは、いつも微妙に食い違っている。",
+    "sentence_furigana": "彼【かれ】の話【はな】すことは、いつも微妙【びみょう】に食【く】い違【ちが】っている。",
+    "meaning": "What he says is always slightly inconsistent."
+  },
+  {
+    "sentence": "このデザインは他の製品とは一線を画している。",
+    "sentence_furigana": "このデザインは他【た】の製品【せいひん】とは一線【いっせん】を画【かく】している。",
+    "meaning": "This design stands out from other products."
+  },
+  {
+    "sentence": "彼の主張は事実と著しく異なっていた。",
+    "sentence_furigana": "彼【かれ】の主張【しゅちょう】は事実【じじつ】と著【いちじる】しく異【こと】なっていた。",
+    "meaning": "His claims were significantly different from the facts."
+  },
+  {
+    "sentence": "この二つの単語は似ているようで、意味が違う。",
+    "sentence_furigana": "この二【ふた】つの単語【たんご】は似【に】ているようで、意味【いみ】が違【ちが】う。",
+    "meaning": "These two words seem similar, but their meanings are different."
+  },
+  {
+    "sentence": "彼はお店の方針と違う行動をした。",
+    "sentence_furigana": "彼【かれ】はお店【みせ】の方針【ほうしん】と違【ちが】う行動【こうどう】をした。",
+    "meaning": "He acted contrary to the store's policy."
+  },
+  {
+    "sentence": "説明書の内容と実際の使用方法が違っていた。",
+    "sentence_furigana": "説明書【せつめいしょ】の内容【ないよう】と実際【じっさい】の使用方法【しようほうほう】が違【ちが】っていた。",
+    "meaning": "The contents of the manual were different from the actual usage."
+  },
+  {
+    "sentence": "このレポートは前回提出したものと異なっている。",
+    "sentence_furigana": "このレポートは前回【ぜんかい】提出【ていしゅつ】したものと異【こと】なっている。",
+    "meaning": "This report differs from the one submitted last time."
+  },
+  {
+    "sentence": "彼の意見は多数派とは一線を画していた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は多数派【たすうは】とは一線【いっせん】を画【かく】していた。",
+    "meaning": "His opinion was distinct from the majority."
+  },
+  {
+    "sentence": "彼は自分の過去の言動を違えることはない。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】の言動【げんどう】を違【たが】えることはない。",
+    "meaning": "He never goes back on his past words and actions."
+  },
+  {
+    "sentence": "この二つの国の文化には多くの違いがある。",
+    "sentence_furigana": "この二【ふた】つの国【くに】の文化【ぶんか】には多【おお】くの違い【ちが】いがある。",
+    "meaning": "There are many differences between the cultures of these two countries."
+  },
+  {
+    "sentence": "彼の態度の変化は、私の予想とは違った。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】の変化【へんか】は、私【わたし】の予想【よそう】と違【ちが】った。",
+    "meaning": "The change in his attitude was different from my expectations."
+  },
+  {
+    "sentence": "私は彼とは違う方法で問題を解決した。",
+    "sentence_furigana": "私【わたし】は彼【かれ】とは違【ちが】う方法【ほうほう】で問題【もんだい】を解決【かいけつ】した。",
+    "meaning": "I solved the problem in a different way than him."
+  },
+  {
+    "sentence": "そのニュースは、私が最初に聞いた話とは違っていた。",
+    "sentence_furigana": "そのニュースは、私【わたし】が最初【さいしょ】に聞【き】いた話【はなし】とは違【ちが】っていた。",
+    "meaning": "That news was different from the story I first heard."
+  },
+  {
+    "sentence": "この二つの商品の間には、仕様上の違いがあります。",
+    "sentence_furigana": "この二【ふた】つの商品【しょうひん】の間【あいだ】には、仕様上【しようじょう】の違い【ちが】いがあります。",
+    "meaning": "There are specification differences between these two products."
+  },
+  {
+    "sentence": "彼らのチームは過去の試合とは違った戦術を使った。",
+    "sentence_furigana": "彼等【かれら】のチームは過去【かこ】の試合【しあい】とは違【ちが】った戦術【せんじゅつ】を使【つか】った。",
+    "meaning": "Their team used different tactics than in past games."
+  },
+  {
+    "sentence": "その店の雰囲気は、私のイメージとは大きく違っていた。",
+    "sentence_furigana": "その店【みせ】の雰囲気【ふんいき】は、私【わたし】のイメージとは大【おお】き く違【ちが】っていた。",
+    "meaning": "The atmosphere of that shop was very different from my image."
+  },
+  {
+    "sentence": "彼の発言は、会議の議題と無関係だった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、会議【かいぎ】の議題【ぎだい】と無関係【むかんけい】だった。",
+    "meaning": "His statement was irrelevant to the meeting's agenda."
+  },
+  {
+    "sentence": "この本は、以前読んだバージョンとは内容が違います。",
+    "sentence_furigana": "この本【ほん】は、以前【いぜん】読【よ】んだバージョンとは内容【ないよう】が違【ちが】います。",
+    "meaning": "This book's content differs from the version I read before."
+  },
+  {
+    "sentence": "彼が言ったことは、私の記憶と食い違っている。",
+    "sentence_furigana": "彼【かれ】が言【い】ったことは、私【わたし】の記憶【きおく】と食【く】い違【ちが】っている。",
+    "meaning": "What he said conflicts with my memory."
+  },
+  {
+    "sentence": "その画家は伝統的な技法とは一線を画したスタイルを持っている。",
+    "sentence_furigana": "その画家【がか】は伝統的【でんとうてき】な技法【ぎほう】とは一線【いっせん】を画【かく】したスタイルを持っている。",
+    "meaning": "That painter has a style that sets them apart from traditional techniques."
+  },
+  {
+    "sentence": "彼は規則に違反したことを認めた。",
+    "sentence_furigana": "彼【かれ】は規則【きそく】に違反【いはん】したことを認【みと】めた。",
+    "meaning": "He admitted to violating the rules."
+  },
+  {
+    "sentence": "二つの都市の気候には大きな違いがある。",
+    "sentence_furigana": "二【ふた】つの都市【とし】の気候【きこう】には大【おお】きな違い【ちが】いがある。",
+    "meaning": "There is a big difference in the climate between the two cities."
+  },
+  {
+    "sentence": "この小説の結末は、読者の予想とは違った。",
+    "sentence_furigana": "この小説【しょうせつ】の結末【けつまつ】は、読者【どくしゃ】の予想【よそう】と違【ちが】った。",
+    "meaning": "The ending of this novel was different from the reader's expectations."
+  },
+  {
+    "sentence": "彼の説明と実際の状況との間には大きな隔たりがあった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】と実際【じっさい】の状況【じょうきょう】との間【あいだ】には大【おお】きな隔【へだ】たりがあった。",
+    "meaning": "There was a large gap between his explanation and the actual situation."
+  },
+  {
+    "sentence": "私は彼とは違う目的でここに来た。",
+    "sentence_furigana": "私【わたし】は彼【かれ】とは違【ちが】う目的【もくてき】でここに来【き】た。",
+    "meaning": "I came here for a different purpose than him."
+  },
+  {
+    "sentence": "その法律は、以前のものとは内容が大きく異なります。",
+    "sentence_furigana": "その法律【ほうりつ】は、以前【いぜん】のものとは内容【ないよう】が 大【おお】き く異【こと】なります。",
+    "meaning": "That law differs significantly in content from the previous one."
+  },
+  {
+    "sentence": "彼の証言は他の証拠と矛盾している。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は他【た】の証拠【しょうこ】と矛盾【むじゅん】している。",
+    "meaning": "His testimony contradicts other evidence."
+  },
+  {
+    "sentence": "この製品は従来のモデルとは一味違う。",
+    "sentence_furigana": "この製品【せいひん】は従来【じゅうらい】のモデルとは一味違【ひとあじちが】う。",
+    "meaning": "This product is a bit different from conventional models."
+  },
+  {
+    "sentence": "彼の提案は、我々の当初の計画とは全く違っていた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は、我々【われわれ】の当初【とうしょ】の計画【けいかく】とは全【まった】く違【ちが】っていた。",
+    "meaning": "His proposal was completely different from our original plan."
+  },
+  {
+    "sentence": "子供の意見は大人とは違う視点を持っている。",
+    "sentence_furigana": "子供【こども】の意見【いけん】は大人【おとな】とは違【ちが】う視点【してん】を持っている。",
+    "meaning": "Children have a different perspective than adults."
+  },
+  {
+    "sentence": "その服装は、パーティーのドレスコードに違反していました。",
+    "sentence_furigana": "その服装【ふくそう】は、パーティーのドレスコードに違反【いはん】していました。",
+    "meaning": "That attire violated the party's dress code."
+  },
+  {
+    "sentence": "この二つの物語の結末は大きく違います。",
+    "sentence_furigana": "この二【ふた】つの物語【ものがたり】の結末【けつまつ】は 大【おお】き く違【ちが】います。",
+    "meaning": "The endings of these two stories are very different."
+  },
+  {
+    "sentence": "彼の行動は、我々が期待していたものとは異なっていた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は、我々【われわれ】が期待【きたい】していたものとは異【こと】なっていた。",
+    "meaning": "His actions were different from what we expected."
+  },
+  {
+    "sentence": "私たちは意見が違うこともあるが、尊敬し合っている。",
+    "sentence_furigana": "私達【わたしたち】は意見【いけん】が違【ちが】うこともあるが、尊敬【そんけい】し合【あ】っている。",
+    "meaning": "We sometimes disagree, but we respect each other."
+  },
+  {
+    "sentence": "その選手は、以前とは違うプレースタイルを見せた。",
+    "sentence_furigana": "その選手【せんしゅ】は、以前【いぜん】とは違【ちが】うプレースタイルを見【み】せた。",
+    "meaning": "That athlete showed a different playing style than before."
+  },
+  {
+    "sentence": "この二つのモデルでは、性能に大きな違いがあります。",
+    "sentence_furigana": "この二【ふた】つのモデルでは、性能【せいｎｏｕ】に大【おお】きな違い【ちが】いがあります。",
+    "meaning": "There is a significant difference in performance between these two models."
+  },
+  {
+    "sentence": "彼の発言は、彼の本当の考えとは違っていた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、彼【かれ】の本当【ほんとう】の考【かんが】えとは違【ちが】っていた。",
+    "meaning": "His statement was different from his true thoughts."
+  },
+  {
+    "sentence": "このレポートは、前のバージョンといくつかの点で異なっている。",
+    "sentence_furigana": "このレポートは、前【まえ】のバージョンといくつかのです点【てん】で異【こと】なっている。",
+    "meaning": "This report differs from the previous version in several respects."
+  },
+  {
+    "sentence": "彼女は規則を破るようなことは決してしなかった。",
+    "sentence_furigana": "彼女【かのじょ】は規則【きそく】を破【やぶ】るようなことは決【けっ】してしなかった。",
+    "meaning": "She never did anything that broke the rules."
+  },
+  {
+    "sentence": "この二つの絵は、スタイルは似ているが、色彩が異なる。",
+    "sentence_furigana": "この二【ふた】つの絵【え】は、スタイルは似【に】ているが、色彩【しきさい】が異【こと】なる。",
+    "meaning": "These two paintings are similar in style, but differ in color."
+  },
+  {
+    "sentence": "彼の意見は、我々のグループの一般的な見解とは一線を画していた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は、我々【われわれ】の一般的【いっぱんてき】な見解【けんかい】とは一線【いっせん】を画【かく】していた。",
+    "meaning": "His opinion was distinct from the general views of our group."
+  },
+  {
+    "sentence": "この違いは、製造過程の違いによるものと思われる。",
+    "sentence_furigana": "この違【ちが】いは、製造過程【せいぞうかてい】の違い【ちが】いによるものと思【おも】われる。",
+    "meaning": "This difference is thought to be due to variations in the manufacturing process."
+  },
+  {
+    "sentence": "彼は約束を違えないように、何度も確認した。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を違【たが】えないように、何度【なんど】も確認【かくにん】した。",
+    "meaning": "He checked many times to ensure he wouldn't break his promise."
+  },
+  {
+    "sentence": "その映画は、原作小説とは大きく違っていた。",
+    "sentence_furigana": "その映画【えいが】は、原作小説【げんさくしょうせつ】とは大【おお】き く違【ちが】っていた。",
+    "meaning": "That movie was very different from the original novel."
+  },
+  {
+    "sentence": "私の考えとあなたの考えは少し違うようです。",
+    "sentence_furigana": "私【わたし】の考【かんが】えとあなた の考【かんが】えは少【すこ】し違【ちが】うようです。",
+    "meaning": "My thoughts seem to be a little different from yours."
+  },
+  {
+    "sentence": "彼の態度の違いに、私は少し驚いた。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】の違い【ちが】いに、私【わたし】は少【すこ】し驚【おどろ】いた。",
+    "meaning": "I was a little surprised by the difference in his attitude."
+  },
+  {
+    "sentence": "この件に関しては、彼とは意見が異なる。",
+    "sentence_furigana": "この件【けん】に関【かん】しては、彼【かれ】とは意見【いけん】が異【こと】なる。",
+    "meaning": "Regarding this matter, my opinion differs from his."
+  },
+  {
+    "sentence": "彼が言ったことは、事実とは違っていた。",
+    "sentence_furigana": "彼【かれ】が言【い】ったことは、事実【じじつ】とは違【ちが】っていた。",
+    "meaning": "What he said was different from the facts."
+  },
+  {
+    "sentence": "この二つの単語は音が似ているが、意味が違う。",
+    "sentence_furigana": "この二【ふた】つの単語【たんご】は音【おと】が似【に】ているが、意味【いみ】が違【ちが】う。",
+    "meaning": "These two words sound similar, but their meanings are different."
+  },
+  {
+    "sentence": "彼は規則に違反したことで、厳重に注意された。",
+    "sentence_furigana": "彼【かれ】は規則【きそく】に違反【いはん】したことで、厳重【げんじゅう】に注意【ちゅうい】された。",
+    "meaning": "He was severely cautioned for violating the rules."
+  },
+  {
+    "sentence": "そのチームのパフォーマンスは、前回とは全く違っていた。",
+    "sentence_furigana": "そのチームのパフォーマンスは、前回【ぜんかい】とは全【まった】く違【ちが】っていた。",
+    "meaning": "That team's performance was completely different from last time."
+  },
+  {
+    "sentence": "この地図は、私が持っている古いものとは違う。",
+    "sentence_furigana": "この地図【ちず】は、私【わたし】が持【も】っている古【ふる】いものとは違【ちが】う。",
+    "meaning": "This map is different from the old one I have."
+  },
+  {
+    "sentence": "彼らは期待とは違う結果を出した。",
+    "sentence_furigana": "彼等【かれら】は期待【きたい】とは違【ちが】う結果【けっか】を出【だ】した。",
+    "meaning": "They produced results different from what was expected."
+  },
+  {
+    "sentence": "この二つの意見の間には、大きな違いがある。",
+    "sentence_furigana": "この二【ふた】つの意見【いけん】の間【あいだ】には、大【おお】きな違い【ちが】いがある。",
+    "meaning": "There is a big difference between these two opinions."
+  },
+  {
+    "sentence": "彼の話はいつも微妙に事実と食い違っている。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも微妙【びみょう】に事実【じじつ】と食【く】い違【ちが】っている。",
+    "meaning": "What he says is always slightly inconsistent with the facts."
+  },
+  {
+    "sentence": "そのデザインは、従来の枠とは一線を画している。",
+    "sentence_furigana": "そのデザインは、従来【じゅうらい】の枠【わく】とは一線【いっせん】を画【かく】している。",
+    "meaning": "That design breaks from conventional frameworks."
+  },
+  {
+    "sentence": "彼が約束を違えることは、ほとんどない。",
+    "sentence_furigana": "彼【かれ】が約束【やくそく】を違【たが】えることは、ほとんどない。",
+    "meaning": "It is rare for him to break a promise."
+  },
+  {
+    "sentence": "この本のストーリーは、テレビドラマとは大きく違っていた。",
+    "sentence_furigana": "この本【ほん】のストーリーは、テレビドラマとは大【おお】き く違【ちが】っていた。",
+    "meaning": "The story of this book was very different from the TV drama."
+  },
+  {
+    "sentence": "彼の説明は、私の理解とは一致しなかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は、私【わたし】の理解【りかい】とは一致【いっち】しなかった。",
+    "meaning": "His explanation did not match my understanding."
+  },
+  {
+    "sentence": "この二つの製品には、機能面で違いがある。",
+    "sentence_furigana": "この二【ふた】つの製品【せいひん】には、機能面【きのうめん】で違い【ちが】いがある。",
+    "meaning": "There is a difference in functionality between these two products."
+  },
+  {
+    "sentence": "彼の態度の違いは、何か隠しているからではないか。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】の違い【ちが】いは、何【なに】か隠【かく】しているからではないか。",
+    "meaning": "Could the difference in his attitude be because he's hiding something?"
+  },
+  {
+    "sentence": "その規則に違反すると、罰金が科される可能性がある。",
+    "sentence_furigana": "その規則【きそく】に違反【いはん】すると、罰金【ばっきん】が科【か】される可能性【かのうせい】がある。",
+    "meaning": "Violating that rule may result in a fine."
+  },
+  {
+    "sentence": "この二つの情報は、互いに矛盾している。",
+    "sentence_furigana": "この二【ふた】つの情報【じょうほう】は、互【たが】いに矛盾【むじゅん】している。",
+    "meaning": "These two pieces of information contradict each other."
+  }
+]

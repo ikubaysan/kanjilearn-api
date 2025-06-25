@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "このお茶はとても美味しいです。",
+    "sentence_furigana": "このお茶【ちゃ】はとても美味【おい】しいです。",
+    "meaning": "This tea is very delicious."
+  },
+  {
+    "sentence": "緑茶を一杯お願いします。",
+    "sentence_furigana": "緑茶【りょくちゃ】を一杯【いっぱい】お願【ねが】いします。",
+    "meaning": "One cup of green tea, please."
+  },
+  {
+    "sentence": "茶道は日本の伝統文化です。",
+    "sentence_furigana": "茶道【さどう】は日本【にほん】の伝統文化【でんとうぶんか】です。",
+    "meaning": "The tea ceremony is a Japanese traditional culture."
+  },
+  {
+    "sentence": "朝食に紅茶を飲みました。",
+    "sentence_furigana": "朝食【ちょうしょく】に紅茶【こうちゃ】を飲【の】みました。",
+    "meaning": "I drank black tea for breakfast."
+  },
+  {
+    "sentence": "茶色のコートが似合っていますね。",
+    "sentence_furigana": "茶色【ちゃいろ】のコートが似合【にあ】っていますね。",
+    "meaning": "That brown coat suits you well."
+  },
+  {
+    "sentence": "彼女はお茶会の準備をしています。",
+    "sentence_furigana": "彼女【かのじょ】はお茶会【おちゃかい】の準備【じゅんび】をしています。",
+    "meaning": "She is preparing for the tea party."
+  },
+  {
+    "sentence": "このお茶碗は高価です。",
+    "sentence_furigana": "このお茶碗【ちゃわん】は高価【こうか】です。",
+    "meaning": "This tea bowl is expensive."
+  },
+  {
+    "sentence": "茶柱が立ったので、良いことがあるでしょう。",
+    "sentence_furigana": "茶柱【ちゃばしら】が立【た】ったので、良【よ】いことがあるでしょう。",
+    "meaning": "A tea stalk stood up, so something good will probably happen."
+  },
+  {
+    "sentence": "お茶請けにせんべいをどうぞ。",
+    "sentence_furigana": "お茶請【う】けにせんべいをどうぞ。",
+    "meaning": "Please have some rice crackers with your tea."
+  },
+  {
+    "sentence": "大学で茶道を学びました。",
+    "sentence_furigana": "大学【だいがく】で茶道【さどう】を学【まな】びました。",
+    "meaning": "I learned the tea ceremony at university."
+  },
+  {
+    "sentence": "午後の休憩にお茶を飲みましょう。",
+    "sentence_furigana": "午後【ごご】の休憩【きゅうけい】にお茶【ちゃ】を飲【の】みましょう。",
+    "meaning": "Let's have some tea during the afternoon break."
+  },
+  {
+    "sentence": "このハーブティーはリラックス効果があります。",
+    "sentence_furigana": "このハーブティーはリラックス効果【こうか】があります。",
+    "meaning": "This herbal tea has a relaxing effect."
+  },
+  {
+    "sentence": "茶色のインクで手紙を書きました。",
+    "sentence_furigana": "茶色【ちゃいろ】のインクで手紙【てがみ】を書【か】きました。",
+    "meaning": "I wrote a letter with brown ink."
+  },
+  {
+    "sentence": "お茶会で新しい友達ができました。",
+    "sentence_furigana": "お茶会【おちゃかい】で新【あら】しい友達【ともだち】ができました。",
+    "meaning": "I made new friends at the tea party."
+  },
+  {
+    "sentence": "茶封筒は丈夫で便利です。",
+    "sentence_furigana": "茶封筒【ちゃふうとう】は丈夫【じょうぶ】で便利【べんり】です。",
+    "meaning": "Brown envelopes are strong and convenient."
+  },
+  {
+    "sentence": "中国茶の種類はたくさんあります。",
+    "sentence_furigana": "中国茶【ちゅうごくちゃ】の種類【しゅるい】はたくさんあります。",
+    "meaning": "There are many types of Chinese tea."
+  },
+  {
+    "sentence": "お茶碗を丁寧に洗ってください。",
+    "sentence_furigana": "お茶碗【ちゃわん】を丁寧【ていねい】に洗【あら】ってください。",
+    "meaning": "Please wash the tea bowls carefully."
+  },
+  {
+    "sentence": "茶碗蒸しは日本の家庭料理です。",
+    "sentence_furigana": "茶碗蒸【ちゃわんむ】しは日本【にほん】の家庭料理【かていりょうり】です。",
+    "meaning": "Chawanmushi is a Japanese home-style dish."
+  },
+  {
+    "sentence": "その人形は茶色い髪をしています。",
+    "sentence_furigana": "その人形【にんぎょう】は茶色【ちゃいろ】い髪【かみ】をしています。",
+    "meaning": "That doll has brown hair."
+  },
+  {
+    "sentence": "茶畑がきれいに並んでいます。",
+    "sentence_furigana": "茶畑【ちゃばたけ】がきれいに並【なら】んでいます。",
+    "meaning": "The tea fields are neatly arranged."
+  },
+  {
+    "sentence": "お茶会に招待されました。",
+    "sentence_furigana": "お茶会【おちゃかい】に招待【しょうたい】されました。",
+    "meaning": "I was invited to a tea party."
+  },
+  {
+    "sentence": "日本茶インストラクターの資格を取る予定です。",
+    "sentence_furigana": "日本茶【にほんちゃ】インストラクターの資格【しかく】を取【と】る予定【よてい】です。",
+    "meaning": "I plan to get a qualification as a Japanese tea instructor."
+  },
+  {
+    "sentence": "この茶筒は密閉性が高いです。",
+    "sentence_furigana": "この茶筒【ちゃづつ】は密閉性【みっぺいせい】が高【たか】いです。",
+    "meaning": "This tea caddy has high airtightness."
+  },
+  {
+    "sentence": "お茶の香りが部屋に広がっています。",
+    "sentence_furigana": "お茶【ちゃ】の香【かお】りが部屋【へや】に広【ひろ】がっています。",
+    "meaning": "The aroma of tea is spreading through the room."
+  },
+  {
+    "sentence": "茶懐石は懐石料理の中でも特に質素なものです。",
+    "sentence_furigana": "茶懐石【ちゃかいせき】は懐石料理【かいせきりょうり】の中【なか】でも特【とく】に質素【しっそ】なものです。",
+    "meaning": "Chakaiseki is particularly simple among kaiseki dishes."
+  },
+  {
+    "sentence": "彼女はいつも落ち着いた茶色の服を着ています。",
+    "sentence_furigana": "彼女【かのじょ】はいつも落【お】ち着【つ】いた茶色【ちゃいろ】い服【ふく】を着【き】ています。",
+    "meaning": "She always wears calm brown clothes."
+  },
+  {
+    "sentence": "お茶を飲むとホッとします。",
+    "sentence_furigana": "お茶【ちゃ】を飲【の】むとホッとします。",
+    "meaning": "Drinking tea makes me feel relaxed."
+  },
+  {
+    "sentence": "茶色の熊が森の中を歩いていました。",
+    "sentence_furigana": "茶色【ちゃいろ】の熊【くま】が森【もり】の中【なか】を歩【ある】いていました。",
+    "meaning": "A brown bear was walking in the forest."
+  },
+  {
+    "sentence": "この茶器は骨董品です。",
+    "sentence_furigana": "この茶器【ちゃき】は骨董品【こっとうひん】です。",
+    "meaning": "These tea utensils are antiques."
+  },
+  {
+    "sentence": "お茶畑の近くにカフェがあります。",
+    "sentence_furigana": "お茶畑【ちゃばたけ】の近【ちか】くにカフェがあります。",
+    "meaning": "There is a cafe near the tea fields."
+  },
+  {
+    "sentence": "茶道教室の生徒を募集しています。",
+    "sentence_furigana": "茶道【さどう】教室【きょうしつ】の生徒【せいと】を募集【ぼしゅう】しています。",
+    "meaning": "We are recruiting students for the tea ceremony class."
+  },
+  {
+    "sentence": "この茶葉は高品質です。",
+    "sentence_furigana": "この茶葉【ちゃば】は高品質【こうひんしつ】です。",
+    "meaning": "These tea leaves are of high quality."
+  },
+  {
+    "sentence": "彼女は茶色の髪を後ろで一つにまとめています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】い髪【かみ】を後【うし】ろで一つにまとめています。",
+    "meaning": "She ties her brown hair back in a single ponytail."
+  },
+  {
+    "sentence": "お茶の効能について調べています。",
+    "sentence_furigana": "お茶【ちゃ】の効能【こうのう】について調【しら】べています。",
+    "meaning": "I am researching the benefits of tea."
+  },
+  {
+    "sentence": "茶碗にご飯粒が少し残っています。",
+    "sentence_furigana": "茶碗【ちゃわん】にご飯粒【はんつぶ】が少【すこ】し残【のこ】っています。",
+    "meaning": "There are a few grains of rice left in the rice bowl."
+  },
+  {
+    "sentence": "茶室は静かで落ち着いた空間です。",
+    "sentence_furigana": "茶室【ちゃしつ】は静【しず】かで落【お】ち着【つ】いた空間【くうかん】です。",
+    "meaning": "The tea room is a quiet and calm space."
+  },
+  {
+    "sentence": "この地域はお茶の産地として有名です。",
+    "sentence_furigana": "この地域【ちいき】はお茶【ちゃ】の産地【さんち】として有名【ゆうめい】です。",
+    "meaning": "This region is famous for its tea production."
+  },
+  {
+    "sentence": "茶色の毛並みが美しい馬です。",
+    "sentence_furigana": "茶色【ちゃいろ】の毛並【けな】みが見事【みごと】な馬【うま】です。",
+    "meaning": "It is a horse with beautiful brown fur."
+  },
+  {
+    "sentence": "お茶会で点てた抹茶は美味しかったです。",
+    "sentence_furigana": "お茶会【おちゃかい】で点【た】てた抹茶【まっちゃ】は美味【おい】しかったです。",
+    "meaning": "The matcha I prepared at the tea ceremony was delicious."
+  },
+  {
+    "sentence": "茶道の精神を学びたいです。",
+    "sentence_furigana": "茶道【さどう】の精神【せいしん】を学【まな】びたいです。",
+    "meaning": "I want to learn the spirit of the tea ceremony."
+  },
+  {
+    "sentence": "この文房具は茶色が多いです。",
+    "sentence_furigana": "この文房具【ぶんぼうぐ】は茶色【ちゃいろ】が多【おお】いです。",
+    "meaning": "These stationery items are mostly brown."
+  },
+  {
+    "sentence": "お茶を淹れるのが得意です。",
+    "sentence_furigana": "お茶【ちゃ】を淹【い】れるのが得意【とくい】です。",
+    "meaning": "I am good at brewing tea."
+  },
+  {
+    "sentence": "茶柱が立つなんて珍しいですね。",
+    "sentence_furigana": "茶柱【ちゃばしら】が立【た】つなんて珍【めずら】しいですね。",
+    "meaning": "It's rare for a tea stalk to stand up."
+  },
+  {
+    "sentence": "彼女は茶道の先生です。",
+    "sentence_furigana": "彼女【かのじょ】は茶道【さどう】の先生【せんせい】です。",
+    "meaning": "She is a tea ceremony teacher."
+  },
+  {
+    "sentence": "お茶を飲む習慣が身につきました。",
+    "sentence_furigana": "お茶【ちゃ】を飲【の】む習慣【しゅうかん】が身【み】につきました。",
+    "meaning": "I have developed the habit of drinking tea."
+  },
+  {
+    "sentence": "茶色のスカーフがおしゃれです。",
+    "sentence_furigana": "茶色【ちゃいろ】のスカーフがおしゃれです。",
+    "meaning": "The brown scarf is stylish."
+  },
+  {
+    "sentence": "この茶碗は手作りです。",
+    "sentence_furigana": "この茶碗【ちゃわん】は手作【てづく】りです。",
+    "meaning": "This tea bowl is handmade."
+  },
+  {
+    "sentence": "お茶会は午後三時に始まります。",
+    "sentence_furigana": "お茶会【おちゃかい】は午後【ごご】三時【さんじ】に始【はじ】まります。",
+    "meaning": "The tea party starts at 3 PM."
+  },
+  {
+    "sentence": "彼女は茶色の瞳をしています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】の瞳【ひとみ】をしています。",
+    "meaning": "She has brown eyes."
+  },
+  {
+    "sentence": "茶道の道具を揃えました。",
+    "sentence_furigana": "茶道【さどう】の道具【どうぐ】を揃【そろ】えました。",
+    "meaning": "I gathered the tea ceremony tools."
+  },
+  {
+    "sentence": "このお茶は独特の風味があります。",
+    "sentence_furigana": "このお茶【ちゃ】は独特【どくとく】の風味【ふうみ】があります。",
+    "meaning": "This tea has a unique flavor."
+  },
+  {
+    "sentence": "茶封筒は強度が高いのが特徴です。",
+    "sentence_furigana": "茶封筒【ちゃふうとう】は強度【きょうど】が高【たか】いのが特徴【とくちょう】です。",
+    "meaning": "Brown envelopes are characterized by their high strength."
+  },
+  {
+    "sentence": "お茶漬けは日本の手軽な料理です。",
+    "sentence_furigana": "お茶漬【ちゃづ】けは日本【にほん】の手軽【てがる】な料理【りょうり】です。",
+    "meaning": "Ochazuke is an easy Japanese dish."
+  },
+  {
+    "sentence": "茶色いシャツを着た男性がいました。",
+    "sentence_furigana": "茶色【ちゃいろ】いシャツを着【き】た男性【だんせい】がいました。",
+    "meaning": "There was a man wearing a brown shirt."
+  },
+  {
+    "sentence": "茶道を始めるにはどうすればいいですか。",
+    "sentence_furigana": "茶道【さどう】を始【はじ】めるにはどうすればいいですか。",
+    "meaning": "How can I start the tea ceremony?"
+  },
+  {
+    "sentence": "この茶器は中国製です。",
+    "sentence_furigana": "この茶器【ちゃき】は中国製【ちゅうごくせい】です。",
+    "meaning": "These tea utensils are made in China."
+  },
+  {
+    "sentence": "お茶会に招待されて光栄です。",
+    "sentence_furigana": "お茶会【おちゃかい】に招待【しょうたい】されて光栄【こうえい】です。",
+    "meaning": "I am honored to be invited to the tea party."
+  },
+  {
+    "sentence": "彼女は茶道に深い知識を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は茶道【さどう】に深【ふか】い知識【ちしき】を持【も】っています。",
+    "meaning": "She has deep knowledge of the tea ceremony."
+  },
+  {
+    "sentence": "このお茶は健康に良いとされています。",
+    "sentence_furigana": "このお茶【ちゃ】は健康【けんこう】に良【よ】いとされています。",
+    "meaning": "This tea is said to be good for health."
+  },
+  {
+    "sentence": "茶碗は丁寧に扱う必要があります。",
+    "sentence_furigana": "茶碗【ちゃわん】は丁寧【ていねい】に扱【あつか】う必要【ひつよう】があります。",
+    "meaning": "Tea bowls need to be handled with care."
+  },
+  {
+    "sentence": "茶色のトイレットペーパーはあまり見かけません。",
+    "sentence_furigana": "茶色【ちゃいろ】のトイレットペーパーはあまり見【み】かけません。",
+    "meaning": "I don't often see brown toilet paper."
+  },
+  {
+    "sentence": "お茶の間にラジオを聞いています。",
+    "sentence_furigana": "お茶の間【ちゃのま】にラジオを聞【き】いています。",
+    "meaning": "I am listening to the radio in the living room."
+  },
+  {
+    "sentence": "茶道は心を落ち着かせる儀式です。",
+    "sentence_furigana": "茶道【さどう】は心【こころ】を落【お】ち着【つ】かせる儀式【ぎしき】です。",
+    "meaning": "The tea ceremony is a ritual that calms the mind."
+  },
+  {
+    "sentence": "彼女は茶色い猫を飼っています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】い猫【ねこ】を飼【か】っています。",
+    "meaning": "She owns a brown cat."
+  },
+  {
+    "sentence": "この茶碗は抹茶を飲むのに最適です。",
+    "sentence_furigana": "この茶碗【ちゃわん】は抹茶【まっちゃ】を飲【の】むのに最適【さいてき】です。",
+    "meaning": "This tea bowl is perfect for drinking matcha."
+  },
+  {
+    "sentence": "茶摘みは春に行われます。",
+    "sentence_furigana": "茶摘【ちゃつ】みは春【はる】に行【おこな】われます。",
+    "meaning": "Tea picking takes place in spring."
+  },
+  {
+    "sentence": "お茶会では和菓子も提供されます。",
+    "sentence_furigana": "お茶会【おちゃかい】では和菓子【わがし】も提供【ていきょう】されます。",
+    "meaning": "Japanese sweets are also served at the tea ceremony."
+  },
+  {
+    "sentence": "茶道を通じて日本の美意識を学びました。",
+    "sentence_furigana": "茶道【さどう】を通【つう】じて日本【にほん】の美意識【びいしき】を学【まな】びました。",
+    "meaning": "I learned Japanese aesthetics through the tea ceremony."
+  },
+  {
+    "sentence": "彼女は茶色のペンで日記をつけています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】のペンで日記【にっき】をつけています。",
+    "meaning": "She keeps a diary with a brown pen."
+  },
+  {
+    "sentence": "このお茶はリラックス効果が高いです。",
+    "sentence_furigana": "このお茶【ちゃ】はリラックス効果【こうか】が高【たか】いです。",
+    "meaning": "This tea has a high relaxing effect."
+  },
+  {
+    "sentence": "茶碗を割ってしまった。",
+    "sentence_furigana": "茶碗【ちゃわん】を割【わ】ってしまった。",
+    "meaning": "I broke the tea bowl."
+  },
+  {
+    "sentence": "お茶会は和やかな雰囲気で行われました。",
+    "sentence_furigana": "お茶会【おちゃかい】は和【なご】やかな雰囲気【ふんいき】で行【おこな】われました。",
+    "meaning": "The tea party was held in a peaceful atmosphere."
+  },
+  {
+    "sentence": "茶色い鳥が木にとまっていました。",
+    "sentence_furigana": "茶色【ちゃいろ】い鳥【とり】が木【き】にとまっていました。",
+    "meaning": "A brown bird was perched on a tree."
+  },
+  {
+    "sentence": "この茶碗は抹茶に最適です。",
+    "sentence_furigana": "この茶碗【ちゃわん】は抹茶【まっちゃ】に最適【さいてき】です。",
+    "meaning": "This tea bowl is ideal for matcha."
+  },
+  {
+    "sentence": "茶道の作法を学びたいです。",
+    "sentence_furigana": "茶道【さどう】の作法【さほう】を学【まな】びたいです。",
+    "meaning": "I want to learn the etiquette of the tea ceremony."
+  },
+  {
+    "sentence": "彼女は茶色い革のバッグを持っています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】い革【かわ】のバッグを持【も】っています。",
+    "meaning": "She has a brown leather bag."
+  },
+  {
+    "sentence": "お茶を淹れる道具はどこにありますか。",
+    "sentence_furigana": "お茶【ちゃ】を淹【い】れる道具【どうぐ】はどこにありますか。",
+    "meaning": "Where are the tea brewing tools?"
+  },
+  {
+    "sentence": "茶道は単なるお茶を飲む行為ではありません。",
+    "sentence_furigana": "茶道【さどう】は単【たん】なるお茶【ちゃ】を飲【の】む行為【こうい】ではありません。",
+    "meaning": "The tea ceremony is not just about drinking tea."
+  },
+  {
+    "sentence": "茶色の家具は部屋を温かく見せます。",
+    "sentence_furigana": "茶色【ちゃいろ】の家具【かぐ】は部屋【へや】を温【あたた】かく見【み】せます。",
+    "meaning": "Brown furniture makes a room look warm."
+  },
+  {
+    "sentence": "この茶碗は冷たいです。",
+    "sentence_furigana": "この茶碗【ちゃわん】は冷【つめ】たいです。",
+    "meaning": "This tea bowl is cold."
+  },
+  {
+    "sentence": "お茶会で日本の文化に触れることができました。",
+    "sentence_furigana": "お茶会【おちゃかい】で日本【にほん】の文化【ぶんか】に触【ふ】れることができました。",
+    "meaning": "I was able to experience Japanese culture at the tea ceremony."
+  },
+  {
+    "sentence": "茶道では一期一会を大切にします。",
+    "sentence_furigana": "茶道【さどう】では一期一会【いちごいちえ】を大切【たいせつ】にします。",
+    "meaning": "In the tea ceremony, we cherish the concept of 'once in a lifetime meeting'."
+  },
+  {
+    "sentence": "彼女は茶色のショールを羽織っています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】のショールを羽織【はお】っています。",
+    "meaning": "She is wearing a brown shawl."
+  },
+  {
+    "sentence": "このお茶は香りが良いです。",
+    "sentence_furigana": "このお茶【ちゃ】は香【かお】りが良【よ】いです。",
+    "meaning": "This tea has a good aroma."
+  },
+  {
+    "sentence": "茶碗の絵柄が素敵です。",
+    "sentence_furigana": "茶碗【ちゃわん】の絵柄【えがら】が素敵【すてき】です。",
+    "meaning": "The pattern on the tea bowl is lovely."
+  },
+  {
+    "sentence": "お茶会は新しい発見がありました。",
+    "sentence_furigana": "お茶会【おちゃかい】は新【あら】たな発見【はっけん】がありました。",
+    "meaning": "I had new discoveries at the tea party."
+  },
+  {
+    "sentence": "茶道における「侘び寂び」の精神を学びたい。",
+    "sentence_furigana": "茶道【さどう】における「侘び寂び【わびさび】」の精神【せいしん】を学【まな】びたい。",
+    "meaning": "I want to learn the spirit of 'wabi-sabi' in the tea ceremony."
+  },
+  {
+    "sentence": "彼女は茶色い犬を散歩させています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】い犬【いぬ】を散歩【さんぽ】させています。",
+    "meaning": "She is walking a brown dog."
+  },
+  {
+    "sentence": "このお茶は苦味が強いです。",
+    "sentence_furigana": "このお茶【ちゃ】は苦味【にがみ】が強【つよ】いです。",
+    "meaning": "This tea has a strong bitterness."
+  },
+  {
+    "sentence": "茶碗にお湯を注ぎます。",
+    "sentence_furigana": "茶碗【ちゃわん】にお湯【ゆ】を注【そそ】ぎます。",
+    "meaning": "I pour hot water into the tea bowl."
+  },
+  {
+    "sentence": "お茶会で交流を深めました。",
+    "sentence_furigana": "お茶会【おちゃかい】で交流【こうりゅう】を深【ふか】めました。",
+    "meaning": "I deepened relationships at the tea party."
+  },
+  {
+    "sentence": "茶道は心の鍛錬にもなります。",
+    "sentence_furigana": "茶道【さどう】は心【こころ】の鍛錬【たんれん】にもなります。",
+    "meaning": "The tea ceremony also serves as mental training."
+  },
+  {
+    "sentence": "彼女は茶色いリボンで髪を結んでいます。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】いリボンで髪【かみ】を結【むす】んでいます。",
+    "meaning": "She ties her hair with a brown ribbon."
+  },
+  {
+    "sentence": "このお茶は爽やかな香りがします。",
+    "sentence_furigana": "このお茶【ちゃ】は爽【さわ】やかな香【かお】りがします。",
+    "meaning": "This tea has a refreshing aroma."
+  },
+  {
+    "sentence": "茶碗の底に茶殻が残っています。",
+    "sentence_furigana": "茶碗【ちゃわん】の底【そこ】に茶殻【ちゃがら】が残【のこ】っています。",
+    "meaning": "Tea leaves remain at the bottom of the tea bowl."
+  },
+  {
+    "sentence": "お茶会はとても和やかでした。",
+    "sentence_furigana": "お茶会【おちゃかい】はとても和【なご】やかでした。",
+    "meaning": "The tea party was very pleasant."
+  },
+  {
+    "sentence": "茶道ではおもてなしの心が大切です。",
+    "sentence_furigana": "茶道【さどう】ではおもてなしの心【こころ】が大切【たいせつ】です。",
+    "meaning": "The spirit of hospitality is important in the tea ceremony."
+  },
+  {
+    "sentence": "彼女は茶色い革靴を履いています。",
+    "sentence_furigana": "彼女【かのじょ】は茶色【ちゃいろ】い革靴【かわぐつ】を履【は】いています。",
+    "meaning": "She is wearing brown leather shoes."
+  },
+  {
+    "sentence": "このお茶は甘みが強いです。",
+    "sentence_furigana": "このお茶【ちゃ】は甘味【あまみ】が強【つよ】いです。",
+    "meaning": "This tea has a strong sweetness."
+  },
+  {
+    "sentence": "茶碗を両手で持ちます。",
+    "sentence_furigana": "茶碗【ちゃわん】を両手【りょうて】で持【も】ちます。",
+    "meaning": "I hold the tea bowl with both hands."
+  },
+  {
+    "sentence": "お茶会で新しい日本の習慣を学びました。",
+    "sentence_furigana": "お茶会【おちゃかい】で新【あら】しい日本【にほん】の習慣【しゅうかん】を学【まな】びました。",
+    "meaning": "I learned new Japanese customs at the tea party."
+  },
+  {
+    "sentence": "茶道は日本の伝統文化を伝えるためのものです。",
+    "sentence_furigana": "茶道【さどう】は日本【にほん】の伝統文化【でんとうぶんか】を伝【つた】えるためのものです。",
+    "meaning": "The tea ceremony is for conveying Japanese traditional culture."
+  }
+]

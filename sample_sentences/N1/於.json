@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は東京に於いて会議に出席した。",
+    "sentence_furigana": "彼【かれ】は東京【とうきょう】に於【お】いて会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "He attended a meeting in Tokyo."
+  },
+  {
+    "sentence": "将来に於いて、彼は成功するだろう。",
+    "sentence_furigana": "将来【しょうらい】に於【お】いて、彼【かれ】は成功【せいこう】するだろう。",
+    "meaning": "In the future, he will probably succeed."
+  },
+  {
+    "sentence": "その問題に於いて、我々は一致した意見を持っていた。",
+    "sentence_furigana": "その問題【もんだい】に於【お】いて、我々【われわれ】は一致【いっち】した意見【いけん】を持【も】っていた。",
+    "meaning": "On that issue, we had a consensus."
+  },
+  {
+    "sentence": "彼女は学問に於いては非常に優秀だ。",
+    "sentence_furigana": "彼女【かのじょ】は学問【がくもん】に於【お】いては非常【ひじょう】に優秀【ゆうしゅう】だ。",
+    "meaning": "She is very excellent in her studies."
+  },
+  {
+    "sentence": "この計画に於いて、多くの困難が予想される。",
+    "sentence_furigana": "この計画【けいかく】に於【お】いて、多【おお】くの困難【こんなん】が予想【よそう】される。",
+    "meaning": "Many difficulties are expected in this plan."
+  },
+  {
+    "sentence": "彼の発言に於いて、真実を見いだすことができる。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】に於【お】いて、真実【しんじつ】を見【み】いだすことができる。",
+    "meaning": "In his statement, we can find the truth."
+  },
+  {
+    "sentence": "事故は予期せぬ状況に於いて発生した。",
+    "sentence_furigana": "事故【じこ】は予期【よき】せぬ状況【じょうきょう】に於【お】いて発生【はっせい】した。",
+    "meaning": "The accident occurred in an unexpected situation."
+  },
+  {
+    "sentence": "この地域に於いて、祭りが行われた。",
+    "sentence_furigana": "この地域【ちいき】に於【お】いて、祭【まつ】りが行【おこな】われた。",
+    "meaning": "A festival was held in this region."
+  },
+  {
+    "sentence": "会議は午後3時に於いて開始された。",
+    "sentence_furigana": "会議【かいぎ】は午後【ごご】3時【じ】に於【お】いて開始【かいし】された。",
+    "meaning": "The meeting started at 3 PM."
+  },
+  {
+    "sentence": "状況に於いて、我々は最善を尽くした。",
+    "sentence_furigana": "状況【じょうきょう】に於【お】いて、我々【われわれ】は最善【さいぜん】を尽【つ】くした。",
+    "meaning": "In the circumstances, we did our best."
+  },
+  {
+    "sentence": "彼は行動に於いては非常に勇敢だった。",
+    "sentence_furigana": "彼【かれ】は行動【こうどう】に於【お】いては非常【ひじょう】に勇敢【ゆうかん】だった。",
+    "meaning": "He was very brave in his actions."
+  },
+  {
+    "sentence": "その事件に於いて、彼は重要な役割を果たした。",
+    "sentence_furigana": "その事件【じけん】に於【お】いて、彼【かれ】は重要【じゅうよう】な役割【やくわり】を果た【はた】した。",
+    "meaning": "In that incident, he played an important role."
+  },
+  {
+    "sentence": "現代社会に於いて、情報技術は不可欠だ。",
+    "sentence_furigana": "現代社会【げんだいしゃかい】に於【お】いて、情報技術【じょうほうぎじゅつ】は不可欠【ふかけつ】だ。",
+    "meaning": "In modern society, information technology is indispensable."
+  },
+  {
+    "sentence": "新しい発見に於いて、科学は進歩する。",
+    "sentence_furigana": "新【あたら】しい発見【はっけん】に於【お】いて、科学【かがく】は進歩【しんぽ】する。",
+    "meaning": "Science progresses with new discoveries."
+  },
+  {
+    "sentence": "彼女は芸術に於いて才能がある。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】に於【お】いて才能【さいのう】がある。",
+    "meaning": "She has talent in art."
+  },
+  {
+    "sentence": "その法案に於いて、反対意見が多く出された。",
+    "sentence_furigana": "その法案【ほうあん】に於【お】いて、反対意見【はんたいけん】が多【おお】く出【だ】された。",
+    "meaning": "Many opposing opinions were expressed on that bill."
+  },
+  {
+    "sentence": "彼は経験に於いては非常に豊富だ。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】に於【お】いては非常【ひじょう】に豊富【ほうふ】だ。",
+    "meaning": "He is very rich in experience."
+  },
+  {
+    "sentence": "この時代に於いて、平和は最も重要である。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、平和【へいわ】は最も【もっとも】重要【じゅうよう】である。",
+    "meaning": "In this era, peace is most important."
+  },
+  {
+    "sentence": "新しい方針に於いて、私たちは前進する。",
+    "sentence_furigana": "新【あたら】しい方針【ほうしん】に於【お】いて、我々【われわれ】は前進【ぜんしん】する。",
+    "meaning": "With the new policy, we will move forward."
+  },
+  {
+    "sentence": "その出来事に於いて、彼の真価が問われた。",
+    "sentence_furigana": "その出来事【できごと】に於【お】いて、彼【かれ】の真価【しんか】が問【と】われた。",
+    "meaning": "In that event, his true worth was tested."
+  },
+  {
+    "sentence": "彼の提案に於いて、我々は議論を重ねた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】に於【お】いて、我々【われわれ】は議論【ぎろん】を重【かさ】ねた。",
+    "meaning": "On his proposal, we had discussions."
+  },
+  {
+    "sentence": "この研究に於いて、新たな事実が明らかになった。",
+    "sentence_furigana": "この研究【けんきゅう】に於【お】いて、新【あら】たな事実【じじつ】が明【あき】らかになった。",
+    "meaning": "In this research, new facts became clear."
+  },
+  {
+    "sentence": "彼はその分野に於いては第一人者だ。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いては第一人者【だいいちじんじゃ】だ。",
+    "meaning": "He is a leading figure in that field."
+  },
+  {
+    "sentence": "この契約に於いて、双方の合意が必要である。",
+    "sentence_furigana": "この契約【けいやく】に於【お】いて、双方【そうほう】の合意【ごうい】が必要【ひつよう】である。",
+    "meaning": "In this contract, mutual agreement is necessary."
+  },
+  {
+    "sentence": "その会議に於いて、彼は特別な貢献をした。",
+    "sentence_furigana": "その会議【かいぎ】に於【お】いて、彼【かれ】は特別【とくべつ】な貢献【こうけん】をした。",
+    "meaning": "In that conference, he made a special contribution."
+  },
+  {
+    "sentence": "この状況に於いて、我々は冷静に対処する必要がある。",
+    "sentence_furigana": "この状況【じょうきょう】に於【お】いて、我々【われわれ】は冷静【れいせい】に対処【たいしょ】する必要【ひつよう】がある。",
+    "meaning": "In this situation, we need to deal with it calmly."
+  },
+  {
+    "sentence": "彼女の意見に於いて、多くの人々が同意した。",
+    "sentence_furigana": "彼女【かのじょ】の意見【いけん】に於【お】いて、多【おお】くの人々【ひとびと】が同意【どうい】した。",
+    "meaning": "Many people agreed with her opinion."
+  },
+  {
+    "sentence": "このプロジェクトに於いて、彼はリーダーシップを発揮した。",
+    "sentence_furigana": "このプロジェクトに於【お】いて、彼【かれ】はリーダーシップを発揮【はっき】した。",
+    "meaning": "In this project, he demonstrated leadership."
+  },
+  {
+    "sentence": "その法律に於いて、新たな条項が加えられた。",
+    "sentence_furigana": "その法律【ほうりつ】に於【お】いて、新【あら】たな条項【じょうこう】が加【くわ】えられた。",
+    "meaning": "In that law, new clauses were added."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、卓越した技能を示した。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、卓越【たくえつ】した技能【ぎのう】を示【しめ】した。",
+    "meaning": "He showed outstanding skills in that job."
+  },
+  {
+    "sentence": "この困難な状況に於いて、希望を失ってはいけない。",
+    "sentence_furigana": "この困難【こんなん】な状況【じょうきょう】に於【お】いて、希望【きぼう】を失【うしな】ってはいけない。",
+    "meaning": "In this difficult situation, we must not lose hope."
+  },
+  {
+    "sentence": "その変更に於いて、我々は合意に至った。",
+    "sentence_furigana": "その変更【へんこう】に於【お】いて、我々【われわれ】は合意【ごうい】に至【いた】った。",
+    "meaning": "On that change, we reached an agreement."
+  },
+  {
+    "sentence": "彼の言葉に於いて、慰めを見つけることができた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】に於【お】いて、慰【なぐさ】めを見【み】つけることができた。",
+    "meaning": "In his words, I could find comfort."
+  },
+  {
+    "sentence": "この地域に於いて、豊かな自然が保たれている。",
+    "sentence_furigana": "この地域【ちいき】に於【お】いて、豊【ゆた】かな自然【しぜん】が保【たも】たれている。",
+    "meaning": "Abundant nature is preserved in this region."
+  },
+  {
+    "sentence": "その会議に於いて、多くの重要な決定がなされた。",
+    "sentence_furigana": "その会議【かいぎ】に於【お】いて、多【おお】くの重要【じゅうよう】な決定【けってい】がなされた。",
+    "meaning": "Many important decisions were made in that meeting."
+  },
+  {
+    "sentence": "彼はその分野に於いて常に努力を続けている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて常【つね】に努力【どりょく】を続【つづ】けている。",
+    "meaning": "He is always striving in that field."
+  },
+  {
+    "sentence": "この新しい時代に於いて、私たちは変化に対応しなければならない。",
+    "sentence_furigana": "この新【あたら】しい時代【じだい】に於【お】いて、我々【われわれ】は変化【へんか】に対応【たいおう】しなければならない。",
+    "meaning": "In this new era, we must adapt to change."
+  },
+  {
+    "sentence": "その出来事は歴史に於いて重要な意味を持つ。",
+    "sentence_furigana": "その出来事【できごと】は歴史【れきし】に於【お】いて重要【じゅうよう】な意味【いみ】を持【も】つ。",
+    "meaning": "That event holds significant meaning in history."
+  },
+  {
+    "sentence": "彼は芸術に於いてその才能を開花させた。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】に於【お】いてその才能【さいのう】を開花【かいか】させた。",
+    "meaning": "He blossomed his talent in art."
+  },
+  {
+    "sentence": "この訴訟に於いて、証拠が決定的な役割を果たした。",
+    "sentence_furigana": "この訴訟【そしょう】に於【お】いて、証拠【しょうこ】が決定的【けっていてき】な役割【やくわり】を果た【はた】した。",
+    "meaning": "In this lawsuit, evidence played a decisive role."
+  },
+  {
+    "sentence": "彼女の言葉に於いて、私は勇気を得た。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】に於【お】いて、私【わたし】は勇気【ゆうき】を得【え】た。",
+    "meaning": "In her words, I found courage."
+  },
+  {
+    "sentence": "この計画に於いて、我々は多くの困難を克服した。",
+    "sentence_furigana": "この計画【けいかく】に於【お】いて、我々【われわれ】は多【おお】くの困難【こんなん】を克服【こくふく】した。",
+    "meaning": "In this plan, we overcame many difficulties."
+  },
+  {
+    "sentence": "彼は常にその分野に於いて、新しい知識を求めている。",
+    "sentence_furigana": "彼【かれ】は常【つね】にその分野【ぶんや】に於【お】いて、新【あら】しい知識【ちしき】を求【もと】めている。",
+    "meaning": "He is always seeking new knowledge in that field."
+  },
+  {
+    "sentence": "その状況に於いて、彼のとった行動は称賛に値する。",
+    "sentence_furigana": "その状況【じょうきょう】に於【お】いて、彼【かれ】のとった行動【こうどう】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "His actions in that situation deserve praise."
+  },
+  {
+    "sentence": "この文書に於いて、重要な情報が含まれている。",
+    "sentence_furigana": "この文書【ぶんしょ】に於【お】いて、重要【じゅうよう】な情報【じょうほう】が含ま【ふくま】れている。",
+    "meaning": "Important information is included in this document."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、並外れた集中力を見せた。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、並外【なみはず】れた集中力【しゅうちゅうりょく】を見【み】せた。",
+    "meaning": "He showed extraordinary concentration in that job."
+  },
+  {
+    "sentence": "この時代に於いて、グローバル化が進んでいる。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、グローバル化【か】が進【すす】んでいる。",
+    "meaning": "Globalization is advancing in this era."
+  },
+  {
+    "sentence": "その会議の議題に於いて、活発な議論が行われた。",
+    "sentence_furigana": "その会議【かいぎ】の議題【ぎだい】に於【お】いて、活発【かっぱつ】な議論【ぎろん】が行【おこな】われた。",
+    "meaning": "There was active discussion on the agenda of that meeting."
+  },
+  {
+    "sentence": "彼の発言は、状況に於いて非常に適切だった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、状況【じょうきょう】に於【お】いて非常【ひじょう】に適切【てきせつ】だった。",
+    "meaning": "His statement was very appropriate in the circumstances."
+  },
+  {
+    "sentence": "この小説に於いて、作者は人間の心理を深く描いている。",
+    "sentence_furigana": "この小説【しょうせつ】に於【お】いて、作者【さくしゃ】は人間【にんげん】の心理【しんり】を深【ふか】く描【か】いている。",
+    "meaning": "In this novel, the author deeply depicts human psychology."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に革新を求めている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に革新【かくしん】を求【もと】めている。",
+    "meaning": "He is always seeking innovation in that field."
+  },
+  {
+    "sentence": "その事件に於いて、多くの人々が犠牲になった。",
+    "sentence_furigana": "その事件【じけん】に於【お】いて、多【おお】くの人々【ひとびと】が犠牲【ぎせい】になった。",
+    "meaning": "Many people became victims in that incident."
+  },
+  {
+    "sentence": "この新しい法律に於いて、国民の権利が保障されている。",
+    "sentence_furigana": "この新【あたら】しい法律【ほうりつ】に於【お】いて、国民【こくみん】の権利【けんり】が保障【ほしょう】されている。",
+    "meaning": "In this new law, the rights of citizens are guaranteed."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、驚くべき成果を上げた。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、驚【おどろ】くべき成果【せいか】を上【あ】げた。",
+    "meaning": "He achieved surprising results in that job."
+  },
+  {
+    "sentence": "この時代に於いて、持続可能性が重視されている。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、持続可能性【じぞくかのうせい】が重視【じゅうし】されている。",
+    "meaning": "Sustainability is being emphasized in this era."
+  },
+  {
+    "sentence": "その決定に於いて、彼の意見は重要な要素となった。",
+    "sentence_furigana": "その決定【けってい】に於【お】いて、彼【かれ】の意見【いけん】は重要【じゅうよう】な要素【ようそ】となった。",
+    "meaning": "In that decision, his opinion became an important factor."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に最新の情報を収集している。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に最新【さいしん】の情報【じょうほう】を収集【しゅうしゅう】している。",
+    "meaning": "He is always collecting the latest information in that field."
+  },
+  {
+    "sentence": "この会議に於いて、我々は協力の重要性を再確認した。",
+    "sentence_furigana": "この会議【かいぎ】に於【お】いて、我々【われわれ】は協力【きょうりょく】の重要性【じゅうようせい】を再確認【さいかくにん】した。",
+    "meaning": "In this conference, we reconfirmed the importance of cooperation."
+  },
+  {
+    "sentence": "その報告に於いて、彼は詳細な分析を提供した。",
+    "sentence_furigana": "その報告【ほうこく】に於【お】いて、彼【かれ】は詳細【しょうさい】な分析【ぶんせき】を提供【ていきょう】した。",
+    "meaning": "In that report, he provided a detailed analysis."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、非常に献身的だった。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、非常【ひじょう】に献身【けんしん】的【てき】だった。",
+    "meaning": "He was very dedicated to that job."
+  },
+  {
+    "sentence": "この都市に於いて、多くの文化が融合している。",
+    "sentence_furigana": "この都市【とし】に於【お】いて、多【おお】くの文化【ぶんか】が融合【ゆうごう】している。",
+    "meaning": "Many cultures are integrated in this city."
+  },
+  {
+    "sentence": "その出来事は、彼の人生に於いて大きな転機となった。",
+    "sentence_furigana": "その出来事【できごと】は、彼【かれ】の人生【じんせい】に於【お】いて大【おお】きな転機【てんき】となった。",
+    "meaning": "That event became a major turning point in his life."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に新しい挑戦を続けている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に新【あら】たな挑戦【ちょうせん】を続【つづ】けている。",
+    "meaning": "He is always continuing new challenges in that field."
+  },
+  {
+    "sentence": "この法案に於いて、国民生活への影響が懸念されている。",
+    "sentence_furigana": "この法案【ほうあん】に於【お】いて、国民生活【こくみんせいかつ】への影響【えいきょう】が懸念【けねん】されている。",
+    "meaning": "The impact on national life is a concern in this bill."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、高いプロ意識を示した。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、高【たか】いプロ意識【いしき】を示【しめ】した。",
+    "meaning": "He showed a high level of professionalism in that job."
+  },
+  {
+    "sentence": "この時代に於いて、技術革新が社会を変えている。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、技術革新【ぎじゅつかくしん】が社会【しゃかい】を変【か】えている。",
+    "meaning": "Technological innovation is changing society in this era."
+  },
+  {
+    "sentence": "その論争に於いて、彼は明確な立場を表明した。",
+    "sentence_furigana": "その論争【ろんそう】に於【お】いて、彼【かれ】は明確【めいかく】な立場【りっちば】を表明【ひょうめい】した。",
+    "meaning": "In that controversy, he expressed a clear stance."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に高い目標を設定している。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に高【たか】い目標【もくひょう】を設定【せってい】している。",
+    "meaning": "He is always setting high goals in that field."
+  },
+  {
+    "sentence": "この計画に於いて、我々は多くの人々の協力を得た。",
+    "sentence_furigana": "この計画【けいかく】に於【お】いて、我々【われわれ】は多【おお】くの人々【ひとびと】の協力【きょうりょく】を得【え】た。",
+    "meaning": "In this plan, we gained the cooperation of many people."
+  },
+  {
+    "sentence": "その演説に於いて、彼は未来への希望を語った。",
+    "sentence_furigana": "その演説【えんぜつ】に於【お】いて、彼【かれ】は未来【みらい】への希望【きぼう】を語【かた】った。",
+    "meaning": "In that speech, he spoke of hope for the future."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、非常に粘り強かった。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、非常【ひじょう】に粘【ねば】り強【つよ】かった。",
+    "meaning": "He was very persistent in that job."
+  },
+  {
+    "sentence": "この環境に於いて、多くの生物が生息している。",
+    "sentence_furigana": "この環境【かんきょう】に於【お】いて、多【おお】くの生物【せいぶつ】が生息【せいそく】している。",
+    "meaning": "Many creatures inhabit this environment."
+  },
+  {
+    "sentence": "その経験に於いて、彼は多くの教訓を得た。",
+    "sentence_furigana": "その経験【けいけん】に於【お】いて、彼【かれ】は多【おお】くの教訓【きょうくん】を得【え】た。",
+    "meaning": "In that experience, he learned many lessons."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に新しいアイデアを生み出している。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に新【あら】たなアイデアを生【う】み出【だ】している。",
+    "meaning": "He is always generating new ideas in that field."
+  },
+  {
+    "sentence": "この状況に於いて、冷静さを保つことが重要です。",
+    "sentence_furigana": "この状況【じょうきょう】に於【お】いて、冷静【れいせい】さを持【たも】つことが重要【じゅうよう】です。",
+    "meaning": "It is important to remain calm in this situation."
+  },
+  {
+    "sentence": "その事件に於いて、彼は犯人として特定された。",
+    "sentence_furigana": "その事件【じけん】に於【お】いて、彼【かれ】は犯人【はんにん】として特定【とくてい】された。",
+    "meaning": "In that incident, he was identified as the perpetrator."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、常に細部まで注意を払う。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、常【つね】に細部【さいぶ】まで注意【ちゅうい】を払【はら】う。",
+    "meaning": "He always pays attention to detail in that job."
+  },
+  {
+    "sentence": "この時代に於いて、教育の重要性は増している。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、教育【きょういく】の重要性【じゅうようせい】は増【ま】している。",
+    "meaning": "The importance of education is increasing in this era."
+  },
+  {
+    "sentence": "その提案に於いて、我々は相互理解を深めることを目指した。",
+    "sentence_furigana": "その提案【ていあん】に於【お】いて、我々【われわれ】は相互理解【そうごりかい】を深【ふか】めることを目指【めざ】した。",
+    "meaning": "In that proposal, we aimed to deepen mutual understanding."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に独創的な発想をしている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に独創的【どくそうてき】な発想【はっそう】をしている。",
+    "meaning": "He always has creative ideas in that field."
+  },
+  {
+    "sentence": "この事件に於いて、証拠の提出が遅れた。",
+    "sentence_furigana": "この事件【じけん】に於【お】いて、証拠【しょうこ】の提出【ていしゅつ】が遅【おく】れた。",
+    "meaning": "The submission of evidence was delayed in this case."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、高い倫理観を持っている。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、高【たか】い倫理観【りんりかん】を持【も】っている。",
+    "meaning": "He has a high sense of ethics in that job."
+  },
+  {
+    "sentence": "この変化に於いて、私たちは適応力を高める必要がある。",
+    "sentence_furigana": "この変化【へんか】に於【お】いて、我々【われわれ】は適応力【てきおうりょく】を高【たか】める必要【ひつよう】がある。",
+    "meaning": "In this change, we need to enhance our adaptability."
+  },
+  {
+    "sentence": "その会議での発言に於いて、彼は重要なポイントを指摘した。",
+    "sentence_furigana": "その会議【かいぎ】での発言【はつげん】に於【お】いて、彼【かれ】は重要【じゅうよう】なポイントを指摘【してき】した。",
+    "meaning": "In his statement at that meeting, he pointed out important points."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に自身の限界を超えようとしている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に自身【じしん】の限界【げんかい】を超【こ】えようとしている。",
+    "meaning": "He is always trying to surpass his own limits in that field."
+  },
+  {
+    "sentence": "この状況に於いて、協力と理解が不可欠である。",
+    "sentence_furigana": "この状況【じょうきょう】に於【お】いて、協力【きょうりょく】と理解【りかい】が不可欠【ふかけつ】である。",
+    "meaning": "Cooperation and understanding are indispensable in this situation."
+  },
+  {
+    "sentence": "その発見に於いて、科学界に大きな衝撃が走った。",
+    "sentence_furigana": "その発見【はっけん】に於【お】いて、科学界【かがくかい】に大【おお】きな衝撃【しょうげき】が走【はし】った。",
+    "meaning": "The scientific community was greatly shocked by that discovery."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、常に責任感を強く持っている。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、常【つね】に責任感【せきにんかん】を強【つよ】く持【も】っている。",
+    "meaning": "He always has a strong sense of responsibility in that job."
+  },
+  {
+    "sentence": "この時代に於いて、人々の価値観は多様化している。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、人々【ひとびと】の価値観【かちかん】は多様化【たようか】している。",
+    "meaning": "People's values are diversifying in this era."
+  },
+  {
+    "sentence": "その会議の最終決定に於いて、彼の意見が尊重された。",
+    "sentence_furigana": "その会議【かいぎ】の最終決定【さいしゅうけってい】に於【お】いて、彼【かれ】の意見【いけん】が尊重【そんちょう】された。",
+    "meaning": "In the final decision of that meeting, his opinion was respected."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に先駆的な役割を果たしている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に先駆的【せんくてき】な役割【やくわり】を果た【はた】している。",
+    "meaning": "He is always playing a pioneering role in that field."
+  },
+  {
+    "sentence": "この困難な時期に於いて、団結することが重要です。",
+    "sentence_furigana": "この困難【こんなん】な時期【じき】に於【お】いて、団結【だんけつ】することが重要【じゅうよう】です。",
+    "meaning": "It is important to unite during this difficult time."
+  },
+  {
+    "sentence": "その経験は、彼の人生に於いて忘れられないものとなった。",
+    "sentence_furigana": "その経験【けいけん】は、彼【かれ】の人生【じんせい】に於【お】いて忘【わす】れられないものとなった。",
+    "meaning": "That experience became an unforgettable one in his life."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、常に高い成果を期待されている。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、常【つね】に高【たか】い成果【せいか】を期待【きたい】されている。",
+    "meaning": "He is always expected to achieve high results in that job."
+  },
+  {
+    "sentence": "この時代に於いて、私たちは常に学び続ける必要がある。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、我々【われわれ】は常【つね】に学【まな】び続【つづ】ける必要【ひつよう】がある。",
+    "meaning": "In this era, we need to keep learning continuously."
+  },
+  {
+    "sentence": "その法改正に於いて、多くの議論が交わされた。",
+    "sentence_furigana": "その法改正【ほうかいせい】に於【お】いて、多【おお】くの議論【ぎろん】が交【か】わされた。",
+    "meaning": "Much discussion took place regarding that legal revision."
+  },
+  {
+    "sentence": "彼はその分野に於いて、常に自身の限界に挑戦している。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】に於【お】いて、常【つね】に自身【じしん】の限界【げんかい】に挑戦【ちょうせん】している。",
+    "meaning": "He is always challenging his own limits in that field."
+  },
+  {
+    "sentence": "この新しいプロジェクトに於いて、彼の貢献は非常に大きかった。",
+    "sentence_furigana": "この新【あたら】しいプロジェクトに於【お】いて、彼【かれ】の貢献【こうけん】は非常【ひじょう】に大【おお】きかった。",
+    "meaning": "His contribution was very significant in this new project."
+  },
+  {
+    "sentence": "その会議での結論に於いて、我々は次のステップを決定した。",
+    "sentence_furigana": "その会議【かいぎ】での結論【けつろん】に於【お】いて、我々【われわれ】は次【つぎ】のステップを決定【けってい】した。",
+    "meaning": "In the conclusion of that meeting, we decided on the next steps."
+  },
+  {
+    "sentence": "彼はその仕事に於いて、常に最高のパフォーマンスを目指している。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に於【お】いて、常【つね】に最高【さいこう】のパフォーマンスを目指【めざ】している。",
+    "meaning": "He always aims for the best performance in his work."
+  },
+  {
+    "sentence": "この時代に於いて、国際的な協力が不可欠である。",
+    "sentence_furigana": "この時代【じだい】に於【お】いて、国際的【こくさいてき】な協力【きょうりょく】が不可欠【ふかけつ】である。",
+    "meaning": "International cooperation is indispensable in this era."
+  }
+]

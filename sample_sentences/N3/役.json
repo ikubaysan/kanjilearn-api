@@ -1,0 +1,572 @@
+[
+  {
+    "sentence": "彼は町の役場に行った。",
+    "sentence_furigana": "彼【かれ】は町【まち】の役所【やくしょ】に行【い】った。",
+    "meaning": "He went to the town hall."
+  },
+  {
+    "sentence": "役には兵士が必要だ。",
+    "sentence_furigana": "役【えき】には兵士【へいし】が必要【ひつよう】だ。",
+    "meaning": "The役 needs soldiers."
+  },
+  {
+    "sentence": "彼は重要な役を演じた。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な役【やく】を演【えん】じた。",
+    "meaning": "He played an important role."
+  },
+  {
+    "sentence": "その役目は私の責任です。",
+    "sentence_furigana": "その役目【やくめ】は私【わたし】の責任【せきにん】です。",
+    "meaning": "That duty is my responsibility."
+  },
+  {
+    "sentence": "役所の窓口で手続きをした。",
+    "sentence_furigana": "役所【やくしょ】の窓口【まどぐち】で手続【てつづ】きをした。",
+    "meaning": "I completed the procedures at the government office counter."
+  },
+  {
+    "sentence": "彼は軍役に服した。",
+    "sentence_furigana": "彼【かれ】は軍役【ぐんやく】に服【ふく】した。",
+    "meaning": "He served in the military."
+  },
+  {
+    "sentence": "その映画で彼は悪役を演じた。",
+    "sentence_furigana": "その映画【えいが】で彼【かれ】は悪役【あくやく】を演【えん】じた。",
+    "meaning": "He played the villain in that movie."
+  },
+  {
+    "sentence": "役員会が開催された。",
+    "sentence_furigana": "役員会【やくいんかい】が開催【かいさい】された。",
+    "meaning": "The board meeting was held."
+  },
+  {
+    "sentence": "この役職はやりがいがある。",
+    "sentence_furigana": "この役職【やくしょく】はやりがいがある。",
+    "meaning": "This position is rewarding."
+  },
+  {
+    "sentence": "役目を果たすことが大切だ。",
+    "sentence_furigana": "役目【やくめ】を果【は】たすことが大切【たいせつ】だ。",
+    "meaning": "It is important to fulfill one's role."
+  },
+  {
+    "sentence": "役人の不正が発覚した。",
+    "sentence_furigana": "役人【やくにん】の不正【ふせい】が発覚【はっかく】した。",
+    "meaning": "The corruption of officials was discovered."
+  },
+  {
+    "sentence": "彼は会社の役員になった。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の役員【やくいん】になった。",
+    "meaning": "He became a company executive."
+  },
+  {
+    "sentence": "役所の手続きは複雑だ。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きは複雑【ふくざつ】だ。",
+    "meaning": "Procedures at the government office are complicated."
+  },
+  {
+    "sentence": "役者の演技は素晴らしかった。",
+    "sentence_furigana": "役者【やくしゃ】の演技【えんぎ】は素晴【すば】らしかった。",
+    "meaning": "The actor's performance was wonderful."
+  },
+  {
+    "sentence": "役務を遂行する。",
+    "sentence_furigana": "役務【やくむ】を遂行【すいこう】する。",
+    "meaning": "To carry out duties."
+  },
+  {
+    "sentence": "彼は主な役どころを担った。",
+    "sentence_furigana": "彼【かれ】は主【おも】な役どころを担【にな】った。",
+    "meaning": "He took on the main role."
+  },
+  {
+    "sentence": "役場に問い合わせた。",
+    "sentence_furigana": "役場【やくば】に問【と】い合【あ】わせた。",
+    "meaning": "I inquired at the town hall."
+  },
+  {
+    "sentence": "役職手当が支給される。",
+    "sentence_furigana": "役職手当【やくしょくてあて】が支給【しきゅう】される。",
+    "meaning": "A position allowance will be paid."
+  },
+  {
+    "sentence": "役者は観客を魅了した。",
+    "sentence_furigana": "役者【やくしゃ】は観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "The actor captivated the audience."
+  },
+  {
+    "sentence": "彼はその任務を遂行した。",
+    "sentence_furigana": "彼【かれ】はそ任務【にんむ】を遂行【すいこう】した。",
+    "meaning": "He carried out the mission."
+  },
+  {
+    "sentence": "役立つ情報を提供します。",
+    "sentence_furigana": "役立【やくだ】つ情報【じょうほう】を提供【ていきょう】します。",
+    "meaning": "We will provide useful information."
+  },
+  {
+    "sentence": "役目を終えて帰宅した。",
+    "sentence_furigana": "役目【やくめ】を終【お】えて帰宅【きたく】した。",
+    "meaning": "Having finished his duty, he returned home."
+  },
+  {
+    "sentence": "役所は午前中に閉まる。",
+    "sentence_furigana": "役所【やくしょ】は午前中【ごぜんちゅう】に閉【しま】る。",
+    "meaning": "The government office closes in the morning."
+  },
+  {
+    "sentence": "彼は主役を演じることになった。",
+    "sentence_furigana": "彼【かれ】は主役【しゅやく】を演【えん】じることになった。",
+    "meaning": "He was cast as the main character."
+  },
+  {
+    "sentence": "役所の職員は親切だった。",
+    "sentence_furigana": "役所【やくしょ】の職員【しょくいん】は親切【しんせつ】だった。",
+    "meaning": "The government office staff were kind."
+  },
+  {
+    "sentence": "役職につくのは大変だ。",
+    "sentence_furigana": "役職【やくしょく】につくのは大変【たいへん】だ。",
+    "meaning": "It is difficult to take on a position."
+  },
+  {
+    "sentence": "彼は脇役を演じた。",
+    "sentence_furigana": "彼【かれ】は脇役【わきやく】を演【えん】じた。",
+    "meaning": "He played a supporting role."
+  },
+  {
+    "sentence": "役務遂行の遅延について。",
+    "sentence_furigana": "役務遂行【やくむすいこう】の遅延【ちえん】について。",
+    "meaning": "Regarding the delay in service execution."
+  },
+  {
+    "sentence": "役所から通知が来た。",
+    "sentence_furigana": "役所【やくしょ】から通知【つうち】が来【き】た。",
+    "meaning": "A notification came from the government office."
+  },
+  {
+    "sentence": "彼は新しい役職に就いた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい役職【やくしょく】に就【つ】いた。",
+    "meaning": "He took on a new position."
+  },
+  {
+    "sentence": "役員の報酬が決定された。",
+    "sentence_furigana": "役員【やくいん】の報酬【ほうしゅう】が決定【けってい】された。",
+    "meaning": "The directors' remuneration was decided."
+  },
+  {
+    "sentence": "役目とは何かを考えた。",
+    "sentence_furigana": "役目【やくめ】とは何【なに】かを考【かんが】えた。",
+    "meaning": "I thought about what duty is."
+  },
+  {
+    "sentence": "役所に登録する必要があります。",
+    "sentence_furigana": "役所【やくしょ】に登録【とうろく】する必要【ひつよう】があります。",
+    "meaning": "You need to register at the government office."
+  },
+  {
+    "sentence": "彼は医者の役を演じた。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】の役【やく】を演【えん】じた。",
+    "meaning": "He played the role of a doctor."
+  },
+  {
+    "sentence": "役所の手続きは完了しました。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きは完了【かんりょう】しました。",
+    "meaning": "The procedures at the government office are complete."
+  },
+  {
+    "sentence": "役員会は延期された。",
+    "sentence_furigana": "役員会【やくいんかい】は延期【えんき】された。",
+    "meaning": "The board meeting was postponed."
+  },
+  {
+    "sentence": "彼は役所の仕事を辞めた。",
+    "sentence_furigana": "彼【かれ】は役所【やくしょ】の仕事【しごと】を辞【や】めた。",
+    "meaning": "He quit his job at the government office."
+  },
+  {
+    "sentence": "この役は非常に難しい。",
+    "sentence_furigana": "この役【やく】は非常【ひじょう】に難【むずか】しい。",
+    "meaning": "This role is very difficult."
+  },
+  {
+    "sentence": "役務提供事業を行う。",
+    "sentence_furigana": "役務提供事業【やくむていきょうじぎょう】を行【おこな】う。",
+    "meaning": "To operate a service provision business."
+  },
+  {
+    "sentence": "役者を目指して上京した。",
+    "sentence_furigana": "役者【やくしゃ】を目指【めざ】して上京【じょうきょう】した。",
+    "meaning": "He moved to the capital to become an actor."
+  },
+  {
+    "sentence": "役所への届け出が必要だ。",
+    "sentence_furigana": "役所【やくしょ】への届【とど】け出【で】が必要【ひつよう】だ。",
+    "meaning": "A notification to the government office is necessary."
+  },
+  {
+    "sentence": "役職手当の見直しが行われた。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の見直【みなお】しが行【おこな】われた。",
+    "meaning": "The position allowance was reviewed."
+  },
+  {
+    "sentence": "彼は自分の役目を果たした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の役目【やくめ】を果【は】たした。",
+    "meaning": "He fulfilled his duty."
+  },
+  {
+    "sentence": "役所では様々な手続きが行われている。",
+    "sentence_furigana": "役所【やくしょ】では様々【さまざま】な手続【てつづ】きが行【おこな】われています。",
+    "meaning": "Various procedures are carried out at the government office."
+  },
+  {
+    "sentence": "この役目は誰が担当するのですか。",
+    "sentence_furigana": "この役目【やくめ】は誰【だれ】が担当【たんとう】するのですか。",
+    "meaning": "Who is in charge of this duty?"
+  },
+  {
+    "sentence": "役所の開庁時間は午前8時半から午後5時までです。",
+    "sentence_furigana": "役所【やくしょ】の開庁時間【かいちょうじかん】は午前【ごぜん】8時【じ】半【はん】から午後【ごご】5時【じ】までです。",
+    "meaning": "The government office's opening hours are from 8:30 AM to 5:00 PM."
+  },
+  {
+    "sentence": "彼は劇団の重要な役を演じている。",
+    "sentence_furigana": "彼【かれ】は劇団【げきだん】の重要【じゅうよう】な役【やく】を演【えん】じています。",
+    "meaning": "He is playing an important role in the theater company."
+  },
+  {
+    "sentence": "役所への申請は郵送でも可能です。",
+    "sentence_furigana": "役所【やくしょ】への申請【しんせい】は郵送【ゆうそう】でも可能【かのう】です。",
+    "meaning": "Application to the government office is also possible by mail."
+  },
+  {
+    "sentence": "役職手当の支給額が変更されました。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の支給額【しきゅうがく】が変更【へんこう】されました。",
+    "meaning": "The amount of the position allowance has been changed."
+  },
+  {
+    "sentence": "彼の役目は非常に責任が重い。",
+    "sentence_furigana": "彼【かれ】の役目【やくめ】は非常【ひじょう】に責任【せきにん】が重【おも】い。",
+    "meaning": "His duty carries a great deal of responsibility."
+  },
+  {
+    "sentence": "役所から送られてきた書類を確認した。",
+    "sentence_furigana": "役所【やくしょ】から送【おく】られてきた書類【しょるい】を確認【かくにん】した。",
+    "meaning": "I checked the documents sent from the government office."
+  },
+  {
+    "sentence": "彼は主役に抜擢された。",
+    "sentence_furigana": "彼【かれ】は主役【しゅやく】に抜擢【ばってき】された。",
+    "meaning": "He was chosen for the main role."
+  },
+  {
+    "sentence": "役所の手続きについて質問があります。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きについて質問【しつもん】があります。",
+    "meaning": "I have a question about the procedures at the government office."
+  },
+  {
+    "sentence": "役員会で新しい方針が決定された。",
+    "sentence_furigana": "役員会【やくいんかい】で新【あら】しい方針【ほうしん】が決定【けってい】された。",
+    "meaning": "A new policy was decided at the board meeting."
+  },
+  {
+    "sentence": "彼は新しい役職に意欲を見せている。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい役職【やくしょく】に意欲【いよく】を見【み】せている。",
+    "meaning": "He is showing enthusiasm for the new position."
+  },
+  {
+    "sentence": "役所の窓口は大変混雑していた。",
+    "sentence_furigana": "役所【やくしょ】の窓口【まどぐち】は大変【たいへん】混雑【こんざつ】していた。",
+    "meaning": "The government office counter was very crowded."
+  },
+  {
+    "sentence": "役職手当の支給条件について説明します。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の支給条件【しきゅうじょうけん】について説明【せつめい】します。",
+    "meaning": "I will explain the conditions for receiving the position allowance."
+  },
+  {
+    "sentence": "役目の重さを感じながら仕事をした。",
+    "sentence_furigana": "役目【やくめ】の重【おも】さを感【かん】じながら仕事【しごと】をした。",
+    "meaning": "He worked while feeling the weight of his responsibility."
+  },
+  {
+    "sentence": "役所の手続きはオンラインでも可能です。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きはオンラインでも可能【かのう】です。",
+    "meaning": "Procedures at the government office are also possible online."
+  },
+  {
+    "sentence": "彼はオーディションで主役を勝ち取った。",
+    "sentence_furigana": "彼【かれ】はオーディションで主役【しゅやく】を勝【か】ち取【と】った。",
+    "meaning": "He won the main role in the audition."
+  },
+  {
+    "sentence": "役所から届いた書類に署名した。",
+    "sentence_furigana": "役所【やくしょ】から届【とど】いた書類【しょるい】に署名【しょめい】した。",
+    "meaning": "I signed the documents received from the government office."
+  },
+  {
+    "sentence": "役員会の議事録を作成する。",
+    "sentence_furigana": "役員会【やくいんかい】の議事録【ぎじろく】を作成【さくせい】する。",
+    "meaning": "To create minutes of the board meeting."
+  },
+  {
+    "sentence": "彼は新しい役職に挑戦する。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい役職【やくしょく】に挑戦【ちょうせん】する。",
+    "meaning": "He will challenge the new position."
+  },
+  {
+    "sentence": "役所の手続きが煩雑で困っている。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きが煩雑【はんざつ】で困【こま】っている。",
+    "meaning": "I am having trouble with the complicated procedures at the government office."
+  },
+  {
+    "sentence": "役職手当の支給時期について確認します。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の支給時期【しきゅうじき】について確認【かくにん】します。",
+    "meaning": "I will confirm the timing of the position allowance payment."
+  },
+  {
+    "sentence": "役目を果たすために全力を尽くした。",
+    "sentence_furigana": "役目【やくめ】を果【は】たすために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "He did his best to fulfill his duty."
+  },
+  {
+    "sentence": "役所は午前9時に開庁します。",
+    "sentence_furigana": "役所【やくしょ】は午前【ごぜん】9時【じ】に開庁【かいちょう】します。",
+    "meaning": "The government office opens at 9 AM."
+  },
+  {
+    "sentence": "彼は物語の主要な役柄を担っている。",
+    "sentence_furigana": "彼【かれ】は物語【ものがたり】の主要【しゅよう】な役柄【やくがら】を担【にな】っている。",
+    "meaning": "He plays a major role in the story."
+  },
+  {
+    "sentence": "役所への問い合わせは電話でどうぞ。",
+    "sentence_furigana": "役所【やくしょ】への問【と】い合【あ】わせは電話【でんわ】でどうぞ。",
+    "meaning": "Please contact the government office by phone."
+  },
+  {
+    "sentence": "役員会の決定に従います。",
+    "sentence_furigana": "役員会【やくいんかい】の決定【けってい】に従【したが】います。",
+    "meaning": "I will follow the board's decision."
+  },
+  {
+    "sentence": "彼はその役目を喜んで引き受けた。",
+    "sentence_furigana": "彼【かれ】はその役目【やくめ】を喜【よろこ】んで引【ひ】き受【う】けた。",
+    "meaning": "He gladly accepted the role."
+  },
+  {
+    "sentence": "役所からの通知書を確認しました。",
+    "sentence_furigana": "役所【やくしょ】からの通知書【つうちしょ】を確認【かくにん】しました。",
+    "meaning": "I have confirmed the notification letter from the government office."
+  },
+  {
+    "sentence": "役職に就くための準備を進めている。",
+    "sentence_furigana": "役職【やくしょく】に就【つ】くための準備【じゅんび】を進【すす】めている。",
+    "meaning": "Preparations are underway to take on the position."
+  },
+  {
+    "sentence": "彼は舞台でさまざまな役を演じた。",
+    "sentence_furigana": "彼【かれ】は舞台【ぶたい】で様々【さまざま】な役【やく】を演【えん】じた。",
+    "meaning": "He played various roles on stage."
+  },
+  {
+    "sentence": "役務契約の内容を確認する。",
+    "sentence_furigana": "役務契約【やくむけいやく】の内容【ないよう】を確認【かくにん】する。",
+    "meaning": "To confirm the details of the service contract."
+  },
+  {
+    "sentence": "役所への申請書類を作成する必要がある。",
+    "sentence_furigana": "役所【やくしょ】への申請書類【しんせいしょるい】を作成【さくせい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to prepare application documents for the government office."
+  },
+  {
+    "sentence": "役員会は予定通り開催されました。",
+    "sentence_furigana": "役員会【やくいんかい】は予定通【よていどお】り開催【かいさい】されました。",
+    "meaning": "The board meeting was held as scheduled."
+  },
+  {
+    "sentence": "彼はその役柄にぴったりだった。",
+    "sentence_furigana": "彼【かれ】はその役柄【やくがら】にぴったりだった。",
+    "meaning": "He was perfect for the role."
+  },
+  {
+    "sentence": "役所の手続きが終わったので安心した。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きが終【お】わったので安心【あんしん】した。",
+    "meaning": "I was relieved because the procedures at the government office were completed."
+  },
+  {
+    "sentence": "役職手当の改定について通知があった。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の改定【かいてい】について通知【つうち】があった。",
+    "meaning": "There was a notification about the revision of the position allowance."
+  },
+  {
+    "sentence": "役目は責任感を持って果たすべきだ。",
+    "sentence_furigana": "役目【やくめ】は責任感【せきにんかん】を持【も】って果【は】たすべきだ。",
+    "meaning": "One should fulfill their duty with a sense of responsibility."
+  },
+  {
+    "sentence": "役所から送られてきたメールを確認してください。",
+    "sentence_furigana": "役所【やくしょ】から送【おく】られてきたメールを確認【かくにん】してください。",
+    "meaning": "Please check the email sent from the government office."
+  },
+  {
+    "sentence": "彼は舞台での重要な役を演じきった。",
+    "sentence_furigana": "彼【かれ】は舞台【ぶたい】での重要【じゅうよう】な役【やく】を演【えん】じきった。",
+    "meaning": "He successfully played an important role on stage."
+  },
+  {
+    "sentence": "役所への登録は無料です。",
+    "sentence_furigana": "役所【やくしょ】への登録【とうろく】は無料【むりょう】です。",
+    "meaning": "Registration at the government office is free."
+  },
+  {
+    "sentence": "役員会が延期になったため、改めて日程を調整します。",
+    "sentence_furigana": "役員会【やくいんかい】が延期【えんき】になったため、改【あらた】めて日程【にってい】を調整【ちょうせい】します。",
+    "meaning": "As the board meeting has been postponed, we will adjust the schedule again."
+  },
+  {
+    "sentence": "彼はその役を演じることに強い意欲を示した。",
+    "sentence_furigana": "彼【かれ】はその役【やく】を演【えん】じることに強【つよ】い意欲【いよく】を示【しめ】した。",
+    "meaning": "He showed strong enthusiasm for playing that role."
+  },
+  {
+    "sentence": "役所から届いた通知についてご質問があります。",
+    "sentence_furigana": "役所【やくしょ】から届【とど】いた通知【つうち】についてご質問【しつもん】があります。",
+    "meaning": "I have a question about the notification received from the government office."
+  },
+  {
+    "sentence": "彼は新しい役職に就任したばかりです。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい役職【やくしょく】に就任【しゅうにん】したばかりです。",
+    "meaning": "He has just taken up the new position."
+  },
+  {
+    "sentence": "役務遂行における責任範囲を明確にする。",
+    "sentence_furigana": "役務遂行【やくむすいこう】における責任範囲【せきにんはんい】を明確【めいかく】にする。",
+    "meaning": "To clarify the scope of responsibility in service execution."
+  },
+  {
+    "sentence": "役所の手続きには時間がかかることがあります。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きには時間【じかん】がかかることがあります。",
+    "meaning": "Procedures at the government office may take time."
+  },
+  {
+    "sentence": "彼はその役を演じるために努力を惜しまなかった。",
+    "sentence_furigana": "彼【かれ】はその役【やく】を演【えん】じるために努力【どりょく】を惜【お】しまなかった。",
+    "meaning": "He spared no effort to play that role."
+  },
+  {
+    "sentence": "役所からの指示に従って作業を進めた。",
+    "sentence_furigana": "役所【やくしょ】からの指示【しじ】に従【したが】って作業【さぎょう】を進【すす】めた。",
+    "meaning": "I proceeded with the work according to the instructions from the government office."
+  },
+  {
+    "sentence": "役員会の議決に従って行動する。",
+    "sentence_furigana": "役員会【やくいんかい】の議決【ぎけつ】に従【したが】って行動【こうどう】する。",
+    "meaning": "To act in accordance with the resolution of the board meeting."
+  },
+  {
+    "sentence": "彼は自分の役目をしっかりと果たした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の役目【やくめ】をしっかり果【は】たした。",
+    "meaning": "He fulfilled his duty properly."
+  },
+  {
+    "sentence": "役所への届出期間が延長された。",
+    "sentence_furigana": "役所【やくしょ】への届出期間【とどけできかん】が延長【えんちょう】された。",
+    "meaning": "The notification period to the government office has been extended."
+  },
+  {
+    "sentence": "彼は舞台で多くの役を演じてきた。",
+    "sentence_furigana": "彼【かれ】は舞台【ぶたい】で多【おお】くの役【やく】を演【えん】じてきた。",
+    "meaning": "He has played many roles on stage."
+  },
+  {
+    "sentence": "役所の手続きを完了させるために奔走した。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きを完了【かんりょう】させるために奔走【ほんそう】した。",
+    "meaning": "He rushed around to complete the procedures at the government office."
+  },
+  {
+    "sentence": "役職手当の支給に関する規程を確認する。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の支給に関する規程【しきゅうにかんするきてい】を確認【かくにん】する。",
+    "meaning": "To confirm the regulations regarding the payment of position allowance."
+  },
+  {
+    "sentence": "彼はその役にふさわしい人物だ。",
+    "sentence_furigana": "彼【かれ】はその役【やく】にふさわしい人物【じんぶつ】だ。",
+    "meaning": "He is a suitable person for that role."
+  },
+  {
+    "sentence": "役所から送付された資料を確認してください。",
+    "sentence_furigana": "役所【やくしょ】から送付【そうふ】された資料【しりょう】を確認【かくにん】してください。",
+    "meaning": "Please check the documents sent from the government office."
+  },
+  {
+    "sentence": "役員会で提案された内容は承認された。",
+    "sentence_furigana": "役員会【やくいんかい】で提案【ていあん】された内容【ないよう】は承認【しょうにん】された。",
+    "meaning": "The content proposed at the board meeting was approved."
+  },
+  {
+    "sentence": "彼は新しい役職に就くにあたり、関係者への挨拶を行った。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい役職【やくしょく】に就【つ】くに whilst、関係者【かんけいしゃ】への挨拶【あいさつ】を行【おこな】った。",
+    "meaning": "Upon taking up the new position, he greeted the relevant parties."
+  },
+  {
+    "sentence": "役目を果たすことは、自己実現につながる。",
+    "sentence_furigana": "役目【やくめ】を果【は】たすことは、自己実現【じこじつげん】につながる。",
+    "meaning": "Fulfilling one's role leads to self-realization."
+  },
+  {
+    "sentence": "役所への申請期限が迫っている。",
+    "sentence_furigana": "役所【やくしょ】への申請期限【しんせいきげん】が迫【せま】っている。",
+    "meaning": "The application deadline for the government office is approaching."
+  },
+  {
+    "sentence": "彼は劇中で重要な役柄を演じることになった。",
+    "sentence_furigana": "彼【かれ】は劇中【げきちゅう】で重要【じゅうよう】な役柄【やくがら】を演【えん】じることになった。",
+    "meaning": "He was cast in an important role in the play."
+  },
+  {
+    "sentence": "役所からの指示に従って作業を進めています。",
+    "sentence_furigana": "役所【やくしょ】からの指示【しじ】に従【したが】って作業【さぎょう】を進【すす】めています。",
+    "meaning": "We are proceeding with the work according to the instructions from the government office."
+  },
+  {
+    "sentence": "役職手当の支給要件について確認が必要です。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の支給要件【しきゅうようけん】について確認【かくにん】が必要です。",
+    "meaning": "Confirmation is required regarding the eligibility for the position allowance."
+  },
+  {
+    "sentence": "彼はその役を演じることに情熱を燃やしていた。",
+    "sentence_furigana": "彼【かれ】はその役【やく】を演【えん】じることに情熱【じょうねつ】を燃【も】やしていた。",
+    "meaning": "He was passionate about playing that role."
+  },
+  {
+    "sentence": "役所への届出を忘れないように注意してください。",
+    "sentence_furigana": "役所【やくしょ】への届出【とどけで】を忘【わ】れないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to forget to notify the government office."
+  },
+  {
+    "sentence": "役員会の結果が発表された。",
+    "sentence_furigana": "役員会【やくいんかい】の結果【けっか】が発表【はっぴょう】された。",
+    "meaning": "The results of the board meeting were announced."
+  },
+  {
+    "sentence": "彼は舞台で主役を演じることが夢だった。",
+    "sentence_furigana": "彼【かれ】は舞台【ぶたい】で主役【しゅやく】を演【えん】じることが夢【ゆめ】だった。",
+    "meaning": "It was his dream to play the main role on stage."
+  },
+  {
+    "sentence": "役所の手続きは代行してもらうことができますか。",
+    "sentence_furigana": "役所【やくしょ】の手続【てつづ】きは代行【だいこう】してもらうことができますか。",
+    "meaning": "Can someone else handle the procedures at the government office on my behalf?"
+  },
+  {
+    "sentence": "役職手当の支給率が変更される予定です。",
+    "sentence_furigana": "役職手当【やくしょくてあて】の支給率【しきゅうりつ】が変更【へんこう】される予定【よてい】です。",
+    "meaning": "The payment rate for the position allowance is scheduled to change."
+  },
+  {
+    "sentence": "彼は役所の新しい制度について説明を受けた。",
+    "sentence_furigana": "彼【かれ】は役所【やくしょ】の νέο σύστημαについて説明【せつめい】を受【う】けた。",
+    "meaning": "He received an explanation about the new system of the government office."
+  }
+]

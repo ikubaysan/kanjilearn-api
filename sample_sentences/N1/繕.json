@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼は古いセーターを繕った。",
+    "sentence_furigana": "彼【かれ】は古【ふる】いセーターを繕【つくろ】った。",
+    "meaning": "He mended the old sweater."
+  },
+  {
+    "sentence": "穴が開いた靴下を繕う必要がある。",
+    "sentence_furigana": "穴【あな】が開【あ】いた靴下【くつした】を繕【つくろ】う必要【ひつよう】がある。",
+    "meaning": "I need to darn the socks that have a hole in them."
+  },
+  {
+    "sentence": "彼女は裁縫が得意で、服をよく繕っている。",
+    "sentence_furigana": "彼女【かのじょ】は裁縫【さいほう】が得意【とくい】で、服【ふく】をよく繕【つくろ】っている。",
+    "meaning": "She is good at sewing and often mends clothes."
+  },
+  {
+    "sentence": "破れた箇所を丁寧に繕いました。",
+    "sentence_furigana": "破【やぶ】れた箇所【かしょ】を丁寧【ていねい】に繕【つくろ】いました。",
+    "meaning": "I carefully repaired the torn part."
+  },
+  {
+    "sentence": "このシャツは襟元がほつれてきたので、繕うことにした。",
+    "sentence_furigana": "このシャツは襟元【えりもと】がほつれてきたので、繕【つくろ】うことにした。",
+    "meaning": "The collar of this shirt has started to fray, so I decided to mend it."
+  },
+  {
+    "sentence": "古くなった布団を繕い直した。",
+    "sentence_furigana": "古【ふる】くなった布団【ふとん】を繕【つくろ】い直【なお】した。",
+    "meaning": "I mended the old futon."
+  },
+  {
+    "sentence": "この本はページが破れているので、繕ってほしい。",
+    "sentence_furigana": "この本【ほん】はページが破【やぶ】れているので、繕【つくろ】ってほしい。",
+    "meaning": "This book has torn pages, so I want them repaired."
+  },
+  {
+    "sentence": "庭の手入れをして、草を繕った。",
+    "sentence_furigana": "庭【にわ】の手入【てい】れをして、草【くさ】を繕【つくろ】った。",
+    "meaning": "I tidied up the garden and trimmed the grass."
+  },
+  {
+    "sentence": "部屋を片付けて、きちんと繕う。",
+    "sentence_furigana": "部屋【へや】を片付【かたづ】けて、きちんと繕【つくろ】う。",
+    "meaning": "I will tidy up the room and arrange it properly."
+  },
+  {
+    "sentence": "この書類の誤字を繕う必要がありますか？",
+    "sentence_furigana": "この書類【しょるい】の誤字【ごじ】を繕【つくろ】う必要【ひつよう】がありますか？",
+    "meaning": "Do I need to correct the typos in this document?"
+  },
+  {
+    "sentence": "彼は間違いを繕うのが得意だ。",
+    "sentence_furigana": "彼【かれ】は間違【まちが】いを繕【つくろ】うのが得意【とくい】だ。",
+    "meaning": "He is good at covering up mistakes."
+  },
+  {
+    "sentence": "ほころびを繕って、また着られるようにする。",
+    "sentence_furigana": "ほころびを繕【つくろ】って、また着【き】られるようにする。",
+    "meaning": "I will mend the unraveling threads so it can be worn again."
+  },
+  {
+    "sentence": "古い着物を繕い、新たな命を吹き込んだ。",
+    "sentence_furigana": "古【ふる】い着物【きもの】を繕【つくろ】い、新【あら】たな命【いのち】を吹【ふ】き込【こ】んだ。",
+    "meaning": "I mended the old kimono and gave it new life."
+  },
+  {
+    "sentence": "棚の板が壊れたので、自分で繕うことにした。",
+    "sentence_furigana": "棚【たな】の板【いた】が壊【こわ】れたので、自分【じぶん】で繕【つくろ】うことにした。",
+    "meaning": "The shelf board broke, so I decided to repair it myself."
+  },
+  {
+    "sentence": "小さな傷は繕うことで目立たなくなります。",
+    "sentence_furigana": "小【ちい】さな傷【きず】は繕【つくろ】うことで目立【めだ】たなくなります。",
+    "meaning": "Small scratches become less noticeable by repairing them."
+  },
+  {
+    "sentence": "壁の染みを繕って、部屋を綺麗にする。",
+    "sentence_furigana": "壁【かべ】の染【し】みを繕【つくろ】って、部屋【へや】を綺麗【きれい】にする。",
+    "meaning": "I will repair the stain on the wall and make the room clean."
+  },
+  {
+    "sentence": "彼の話のつじつまを繕うのに苦労していた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】のつじつまを繕【つくろ】うのに苦労【くろう】していた。",
+    "meaning": "He was struggling to make his story consistent."
+  },
+  {
+    "sentence": "このカーテンの破れは、繕えばまだ使える。",
+    "sentence_furigana": "このカーテンの破【やぶ】れは、繕【つくろ】えばまだ使【つか】える。",
+    "meaning": "If this curtain's tear is mended, it can still be used."
+  },
+  {
+    "sentence": "人形の服を繕ってあげた。",
+    "sentence_furigana": "人形【にんぎょう】の服【ふく】を繕【つくろ】ってあげた。",
+    "meaning": "I mended the doll's clothes."
+  },
+  {
+    "sentence": "この穴を繕うのは少し難しい。",
+    "sentence_furigana": "この穴【あな】を繕【つくろ】うのは少【すこ】し難【むずか】しい。",
+    "meaning": "It's a bit difficult to mend this hole."
+  },
+  {
+    "sentence": "古いソファの破れた部分を繕いました。",
+    "sentence_furigana": "古【ふる】いソファの破【やぶ】れた部分【ぶぶん】を繕【つくろ】いました。",
+    "meaning": "I repaired the torn part of the old sofa."
+  },
+  {
+    "sentence": "傷んだ箇所を繕い、品物をきれいに整えます。",
+    "sentence_furigana": "傷【いた】んだ箇所【かしょ】を繕【つくろ】い、品物【しなもの】をきれいに整【ととの】えます。",
+    "meaning": "I will mend the damaged parts and tidy up the item."
+  },
+  {
+    "sentence": "彼の報告書の間違いを繕うのに時間がかかった。",
+    "sentence_furigana": "彼【かれ】の報告書【ほうこくしょ】の間違【まちが】いを繕【つくろ】うのに時間【じかん】がかかった。",
+    "meaning": "It took time to cover up the errors in his report."
+  },
+  {
+    "sentence": "破れた箇所を繕う簡単な方法を教えてください。",
+    "sentence_furigana": "破【やぶ】れた箇所【かしょ】を繕【つくろ】う簡単【かんたん】な方法【ほうほう】を教【おし】えてください。",
+    "meaning": "Please tell me an easy way to mend the torn part."
+  },
+  {
+    "sentence": "このバッグの持ち手を繕う必要がある。",
+    "sentence_furigana": "このバッグの持【も】ち手【て】を繕【つくろ】う必要【ひつよう】がある。",
+    "meaning": "I need to mend the handle of this bag."
+  },
+  {
+    "sentence": "お気に入りのカーディガンの穴を繕う。",
+    "sentence_furigana": "お気【き】に入【い】り の カーディガン の 穴【あな】を繕【つくろ】う。",
+    "meaning": "I will darn the hole in my favorite cardigan."
+  },
+  {
+    "sentence": "カーテンのほつれを繕いました。",
+    "sentence_furigana": "カーテンのほつれを繕【つくろ】いました。",
+    "meaning": "I mended the fraying of the curtain."
+  },
+  {
+    "sentence": "彼の嘘を繕うのはもう無理だ。",
+    "sentence_furigana": "彼【かれ】の嘘【うそ】を繕【つくろ】うのはもう無理【むり】だ。",
+    "meaning": "It's impossible to cover up his lies anymore."
+  },
+  {
+    "sentence": "この穴を繕えば、まだ着られるだろう。",
+    "sentence_furigana": "この穴【あな】を繕【つくろ】えば、まだ着【き】られるだろう。",
+    "meaning": "If this hole is mended, it will probably still be wearable."
+  },
+  {
+    "sentence": "セーターの袖口を繕った。",
+    "sentence_furigana": "セーターの袖口【そでぐち】を繕【つくろ】った。",
+    "meaning": "I mended the cuff of the sweater."
+  },
+  {
+    "sentence": "彼女は祖母から教わった方法で古着を繕う。",
+    "sentence_furigana": "彼女【かのじょ】は祖母【そぼ】から教【おそ】わった方法【ほうほう】で古着【ふるぎ】を繕【つくろ】う。",
+    "meaning": "She mends old clothes using the method her grandmother taught her."
+  },
+  {
+    "sentence": "庭の手入れは時間があると繕うようにしている。",
+    "sentence_furigana": "庭【にわ】の手入【てい】れは時間【じかん】があると繕【つくろ】うようにしている。",
+    "meaning": "When I have time, I try to tidy up the garden."
+  },
+  {
+    "sentence": "この古い椅子を繕って再利用しよう。",
+    "sentence_furigana": "この古【ふる】い椅子【いす】を繕【つくろ】って再利用【さいりよう】しよう。",
+    "meaning": "Let's mend this old chair and reuse it."
+  },
+  {
+    "sentence": "破れたジーンズを繕って履き続ける。",
+    "sentence_furigana": "破【やぶ】れたジーンズを繕【つくろ】って履【は】き続【つづ】ける。",
+    "meaning": "I will mend the ripped jeans and continue wearing them."
+  },
+  {
+    "sentence": "彼は自分の失敗を繕うことに必死だった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の失敗【しっぱい】を繕【つくろ】うことに必死【ひっし】だった。",
+    "meaning": "He was desperate to cover up his own failure."
+  },
+  {
+    "sentence": "このスカートの裾を繕う必要がある。",
+    "sentence_furigana": "このスカートの裾【すそ】を繕【つくろ】う必要【ひつよう】がある。",
+    "meaning": "I need to mend the hem of this skirt."
+  },
+  {
+    "sentence": "布のほつれを繕うための道具。",
+    "sentence_furigana": "布【ぬの】のほつれを繕【つくろ】うための道具【どうぐ】。",
+    "meaning": "Tools for mending fraying fabric."
+  },
+  {
+    "sentence": "繕って大切に使い続ける。",
+    "sentence_furigana": "繕【つくろ】って大切【たいせつ】に使【つか】い続【つづ】ける。",
+    "meaning": "Mend it and continue to use it carefully."
+  },
+  {
+    "sentence": "壁の小さな穴を繕いました。",
+    "sentence_furigana": "壁【かべ】の小【ちい】さな穴【あな】を繕【つくろ】いました。",
+    "meaning": "I repaired a small hole in the wall."
+  },
+  {
+    "sentence": "破れたページの端を繕って補修する。",
+    "sentence_furigana": "破【やぶ】れたページ の 端【はし】を繕【つくろ】って補修【ほしゅう】する。",
+    "meaning": "Mend the edge of the torn page to repair it."
+  },
+  {
+    "sentence": "古い傘の骨を繕い直した。",
+    "sentence_furigana": "古【ふる】い傘【かさ】の骨【ほね】を繕【つくろ】い直【なお】した。",
+    "meaning": "I repaired the broken ribs of the old umbrella."
+  },
+  {
+    "sentence": "この糸でセーターの穴を繕う。",
+    "sentence_furigana": "この糸【いと】でセーターの穴【あな】を繕【つくろ】う。",
+    "meaning": "I will mend the hole in the sweater with this yarn."
+  },
+  {
+    "sentence": "彼の約束は信用できないので、その言葉を繕うのはやめなさい。",
+    "sentence_furigana": "彼【かれ】の約束【やくそく】は信用【しんよう】できないので、その言葉【ことば】を繕【つくろ】うのはやめなさい。",
+    "meaning": "His promises are not trustworthy, so stop trying to cover up what he said."
+  },
+  {
+    "sentence": "破れを繕って、まだ着られるようにした。",
+    "sentence_furigana": "破【やぶ】れを繕【つくろ】って、まだ着【き】られるようにした。",
+    "meaning": "I mended the tear so it could still be worn."
+  },
+  {
+    "sentence": "カーテンの紐を繕う。",
+    "sentence_furigana": "カーテンの紐【ひも】を繕【つくろ】う。",
+    "meaning": "I will mend the curtain's cord."
+  },
+  {
+    "sentence": "その状況を繕うのは難しい。",
+    "sentence_furigana": "その状況【じょうきょう】を繕【つくろ】うのは難【むずか】しい。",
+    "meaning": "It is difficult to salvage that situation."
+  },
+  {
+    "sentence": "このバッグの底の破れを繕ってほしい。",
+    "sentence_furigana": "このバッグの底【そこ】の破【やぶ】れを繕【つくろ】ってほしい。",
+    "meaning": "I want the bottom of this bag repaired."
+  },
+  {
+    "sentence": "庭の雑草を繕ってきれいにした。",
+    "sentence_furigana": "庭【にわ】の雑草【ざっそう】を繕【つくろ】って綺麗【きれい】にした。",
+    "meaning": "I weeded the garden and made it tidy."
+  },
+  {
+    "sentence": "古いコートの裏地を繕う。",
+    "sentence_furigana": "古【ふる】いコートの裏地【うらじ】を繕【つくろ】う。",
+    "meaning": "I will mend the lining of the old coat."
+  },
+  {
+    "sentence": "壁のひび割れを繕う作業。",
+    "sentence_furigana": "壁【かべ】のひび割【わ】れを繕【つくろ】う作業【さぎょう】。",
+    "meaning": "Work to repair cracks in the wall."
+  },
+  {
+    "sentence": "彼女は破れた箇所を器用に繕う。",
+    "sentence_furigana": "彼女【かのじょ】は破【やぶ】れた箇所【かしょ】を器用【きよう】に繕【つくろ】う。",
+    "meaning": "She skillfully mends torn places."
+  },
+  {
+    "sentence": "セーターの袖のほつれを繕う。",
+    "sentence_furigana": "セーターの袖【そで】のほつれを繕【つくろ】う。",
+    "meaning": "I will mend the fraying on the sweater's sleeve."
+  },
+  {
+    "sentence": "この傷は繕わないと目立つだろう。",
+    "sentence_furigana": "この傷【きず】は繕【つくろ】わないと目立【めだ】つだろう。",
+    "meaning": "This scratch will likely be noticeable if not repaired."
+  },
+  {
+    "sentence": "彼の言い訳を繕うつもりはない。",
+    "sentence_furigana": "彼【かれ】の言い訳【いいわけ】を繕【つくろ】うつもりはない。",
+    "meaning": "I have no intention of covering up his excuses."
+  },
+  {
+    "sentence": "古い本を繕って保存する。",
+    "sentence_furigana": "古【ふる】い本【ほん】を繕【つくろ】って保存【ほぞん】する。",
+    "meaning": "I will mend and preserve the old book."
+  },
+  {
+    "sentence": "この穴を繕うのに時間がかかる。",
+    "sentence_furigana": "この穴【あな】を繕【つくろ】うのに時間【じかん】がかかる。",
+    "meaning": "It takes time to mend this hole."
+  },
+  {
+    "sentence": "破れたページを繕って、また読めるようにした。",
+    "sentence_furigana": "破【やぶ】れたページを繕【つくろ】って、また読【よ】めるようにした。",
+    "meaning": "I mended the torn page so it can be read again."
+  },
+  {
+    "sentence": "お母さんが靴下を繕ってくれた。",
+    "sentence_furigana": "お母【かあ】さんが靴下【くつした】を繕【つくろ】ってくれた。",
+    "meaning": "Mom darned my socks for me."
+  },
+  {
+    "sentence": "このタペストリーの糸のほつれを繕う。",
+    "sentence_furigana": "このタペストリーの糸【いと】のほつれを繕【つくろ】う。",
+    "meaning": "I will mend the fraying threads of this tapestry."
+  },
+  {
+    "sentence": "壁のシミを繕って、部屋をきれいにしたい。",
+    "sentence_furigana": "壁【かべ】のシミを繕【つくろ】って、部屋【へや】を綺麗【きれい】にしたい。",
+    "meaning": "I want to repair the stain on the wall and make the room clean."
+  },
+  {
+    "sentence": "彼の評価を繕うために何かした。",
+    "sentence_furigana": "彼【かれ】の評価【ひょうか】を繕【つくろ】うために何【なに】かした。",
+    "meaning": "Something was done to repair his reputation."
+  },
+  {
+    "sentence": "カーテンの破れを繕ったので、もう一度使えます。",
+    "sentence_furigana": "カーテンの破【やぶ】れを繕【つくろ】ったので、もう一度【いちど】使【つか】えます。",
+    "meaning": "The curtain's tear has been mended, so it can be used again."
+  },
+  {
+    "sentence": "繕ってまで着たい服がある。",
+    "sentence_furigana": "繕【つくろ】ってまで着【き】たい服【ふく】がある。",
+    "meaning": "There are clothes I want to wear even if I have to mend them."
+  },
+  {
+    "sentence": "テーブルクロスの破れを繕った。",
+    "sentence_furigana": "テーブルクロスの破【やぶ】れを繕【つくろ】った。",
+    "meaning": "I mended the tear in the tablecloth."
+  },
+  {
+    "sentence": "彼は自分の都合の良いように事実を繕った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の都合【つごう】の良いように事実【じじつ】を繕【つくろ】った。",
+    "meaning": "He doctored the facts to suit his convenience."
+  },
+  {
+    "sentence": "このセーターは繕えばまだ着られる。",
+    "sentence_furigana": "このセーターは繕【つくろ】えばまだ着【き】られる。",
+    "meaning": "This sweater can still be worn if it's mended."
+  },
+  {
+    "sentence": "破れた箇所を繕うのが私の仕事です。",
+    "sentence_furigana": "破【やぶ】れた箇所【かしょ】を繕【つくろ】うのが私【わたし】の仕事【しごと】です。",
+    "meaning": "My job is to mend torn places."
+  },
+  {
+    "sentence": "この人形の服を繕ってあげましょう。",
+    "sentence_furigana": "この人形【にんぎょう】の服【ふく】を繕【つくろ】ってあげましょう。",
+    "meaning": "Let me mend the doll's clothes for you."
+  },
+  {
+    "sentence": "壁の小さな穴を繕うのは簡単だ。",
+    "sentence_furigana": "壁【かべ】の小【ちい】さな穴【あな】を繕【つくろ】うのは簡単【かんたん】だ。",
+    "meaning": "It's easy to repair a small hole in the wall."
+  },
+  {
+    "sentence": "彼の言葉の矛盾を繕う必要はない。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】の矛盾【むじゅん】を繕【つくろ】う必要【ひつよう】はない。",
+    "meaning": "There is no need to cover up the contradictions in his words."
+  },
+  {
+    "sentence": "古いコートのボタンを繕って付け直した。",
+    "sentence_furigana": "古【ふる】いコートのボタンを繕【つくろ】って付【つ】け直【なお】した。",
+    "meaning": "I mended and reattached the button on the old coat."
+  },
+  {
+    "sentence": "このパッチワークは生地を繕って作られた。",
+    "sentence_furigana": "このパッチワークは生地【きじ】を繕【つくろ】って作【つく】られた。",
+    "meaning": "This patchwork was made by mending fabric."
+  },
+  {
+    "sentence": "棚の板の欠けを繕う。",
+    "sentence_furigana": "棚【たな】の板【いた】の欠【か】けを繕【つくろ】う。",
+    "meaning": "I will mend the chipped part of the shelf board."
+  },
+  {
+    "sentence": "この布地のほつれを繕う必要があります。",
+    "sentence_furigana": "この布地【ぬのじ】のほつれを繕【つくろ】う必要【ひつよう】があります。",
+    "meaning": "This fabric needs to have its fraying mended."
+  },
+  {
+    "sentence": "古いアルバムの破れたページを繕いました。",
+    "sentence_furigana": "古【ふる】いアルバムの破【やぶ】れたページを繕【つくろ】いました。",
+    "meaning": "I repaired the torn pages of the old album."
+  },
+  {
+    "sentence": "庭の手入れをして、伸びすぎた枝を繕った。",
+    "sentence_furigana": "庭【にわ】の手入【てい】れをして、伸【の】びすぎた枝【えだ】を繕【つくろ】った。",
+    "meaning": "I tidied up the garden and trimmed the overgrown branches."
+  },
+  {
+    "sentence": "このカーペットの穴を繕えば、まだ使える。",
+    "sentence_furigana": "このカーペットの穴【あな】を繕【つくろ】えば、まだ使【つか】える。",
+    "meaning": "If this carpet's hole is mended, it can still be used."
+  },
+  {
+    "sentence": "彼の作った計画の不備を繕う。",
+    "sentence_furigana": "彼【かれ】の作【つく】った計画【けいかく】の不備【ふび】を繕【つくろ】う。",
+    "meaning": "I will patch up the flaws in the plan he made."
+  },
+  {
+    "sentence": "壁の穴を繕って、絵を飾る場所を作る。",
+    "sentence_furigana": "壁【かべ】の穴【あな】を繕【つくろ】って、絵【え】を飾【かざ】る場所【ばしょ】を作【つく】る。",
+    "meaning": "I will repair the hole in the wall and make a place to hang a picture."
+  },
+  {
+    "sentence": "このセーターの袖の糸を繕う。",
+    "sentence_furigana": "このセーターの袖【そで】の糸【いと】を繕【つくろ】う。",
+    "meaning": "I will mend the thread on the sleeve of this sweater."
+  },
+  {
+    "sentence": "彼女は小さなほつれをすぐに繕った。",
+    "sentence_furigana": "彼女【かのじょ】は小【ちい】さなほつれをすぐ繕【つくろ】った。",
+    "meaning": "She quickly mended the small fray."
+  },
+  {
+    "sentence": "この本の表紙の破れを繕ってください。",
+    "sentence_furigana": "この本【ほん】の表紙【ひょうし】の破【やぶ】れを繕【つくろ】ってください。",
+    "meaning": "Please mend the tear on the cover of this book."
+  },
+  {
+    "sentence": "繕って長く使うのが私の信条です。",
+    "sentence_furigana": "繕【つくろ】って長【なが】く使【つか】うのが私【わたし】の信条【しんじょう】です。",
+    "meaning": "My principle is to mend and use things for a long time."
+  },
+  {
+    "sentence": "この袋の底の縫い目を繕う。",
+    "sentence_furigana": "この袋【ふくろ】の底【そこ】の縫【ぬ】い目【め】を繕【つくろ】う。",
+    "meaning": "I will mend the seam at the bottom of this bag."
+  },
+  {
+    "sentence": "彼の嘘を繕うのに、さらに嘘を重ねている。",
+    "sentence_furigana": "彼【かれ】の嘘【うそ】を繕【つくろ】うのに、さらに嘘【うそ】を重【かさ】ねている。",
+    "meaning": "He is piling on more lies to cover up his lies."
+  },
+  {
+    "sentence": "破れた箇所を繕って、このバッグを使い続けたい。",
+    "sentence_furigana": "破【やぶ】れた箇所【かしょ】を繕【つくろ】って、このバッグを使【つか】い続【つづ】けたい。",
+    "meaning": "I want to mend the torn part and continue using this bag."
+  },
+  {
+    "sentence": "カーテンの重なり部分を繕う。",
+    "sentence_furigana": "カーテンの重【かさ】なり部分【ぶぶん】を繕【つくろ】う。",
+    "meaning": "I will mend the overlapping part of the curtain."
+  },
+  {
+    "sentence": "この古いシャツの襟を繕う必要がある。",
+    "sentence_furigana": "この古【ふる】いシャツの襟【えり】を繕【つくろ】う必要【ひつよう】がある。",
+    "meaning": "I need to mend the collar of this old shirt."
+  },
+  {
+    "sentence": "壁の小さな穴を繕う方法を調べた。",
+    "sentence_furigana": "壁【かべ】の小【ちい】さな穴【あな】を繕【つくろ】う方法【ほうほう】を調【しら】べた。",
+    "meaning": "I looked up how to repair a small hole in the wall."
+  },
+  {
+    "sentence": "彼女は破れた箇所を器用に繕い、新品のように見せた。",
+    "sentence_furigana": "彼女【かのじょ】は破【やぶ】れた箇所【かしょ】を器用【きよう】に繕【つくろ】い、新品【しんぴん】のように見【み】せた。",
+    "meaning": "She skillfully mended the torn parts, making it look like new."
+  },
+  {
+    "sentence": "セーターの袖口のほつれを繕った。",
+    "sentence_furigana": "セーターの袖口【そでぐち】のほつれを繕【つくろ】った。",
+    "meaning": "I mended the fraying at the sweater's cuff."
+  },
+  {
+    "sentence": "このドレスの破れは繕えば直るだろう。",
+    "sentence_furigana": "このドレスの破【やぶ】れは繕【つくろ】えば直【なお】るだろう。",
+    "meaning": "This dress's tear will likely be fixed if it's mended."
+  },
+  {
+    "sentence": "彼の嘘を繕うのをやめ、真実を話すべきだ。",
+    "sentence_furigana": "彼【かれ】の嘘【うそ】を繕【つくろ】うのをやめ、真実【しんじつ】を話【はな】すべきだ。",
+    "meaning": "He should stop covering up his lies and tell the truth."
+  },
+  {
+    "sentence": "古い毛布を繕って、子供のために使う。",
+    "sentence_furigana": "古【ふる】い毛布【もうふ】を繕【つくろ】って、子供【こども】のために使【つか】う。",
+    "meaning": "I will mend the old blanket and use it for the child."
+  },
+  {
+    "sentence": "この穴を繕うには、少し手間がかかる。",
+    "sentence_furigana": "この穴【あな】を繕【つくろ】うには、少【すこ】し手間【てま】がかかる。",
+    "meaning": "It takes a little effort to mend this hole."
+  },
+  {
+    "sentence": "破れたページを丁寧に繕って、本を大切に保存する。",
+    "sentence_furigana": "破【やぶ】れたページを丁寧【ていねい】に繕【つくろ】って、本【ほん】を大切【たいせつ】に保存【ほぞん】する。",
+    "meaning": "I will carefully mend the torn page and preserve the book."
+  },
+  {
+    "sentence": "お母さんにセーターの穴を繕ってもらった。",
+    "sentence_furigana": "お母【かあ】さんにセーターの穴【あな】を繕【つくろ】ってもらった。",
+    "meaning": "I had my mother darn the hole in my sweater."
+  },
+  {
+    "sentence": "タペストリーの模様を繕って、元の状態に戻す。",
+    "sentence_furigana": "タペストリーの模様【もよう】を繕【つくろ】って、元【もと】の状態【じょうたい】に戻【もど】す。",
+    "meaning": "I will mend the tapestry's pattern and restore it to its original condition."
+  },
+  {
+    "sentence": "壁のシミを繕うことは、家の美観を保つために重要だ。",
+    "sentence_furigana": "壁【かべ】のシミを繕【つくろ】うことは、家【いえ】の美観【びかん】を保【たも】つために重要【じゅうよう】だ。",
+    "meaning": "Repairing wall stains is important for maintaining the house's appearance."
+  },
+  {
+    "sentence": "彼の実績を繕うために、数字を操作した。",
+    "sentence_furigana": "彼【かれ】の実績【じっせき】を繕【つくろ】うために、数字【すうじ】を操作【そうさ】した。",
+    "meaning": "He manipulated the numbers to improve his track record."
+  },
+  {
+    "sentence": "カーテンの破れを繕ったら、見た目が良くなった。",
+    "sentence_furigana": "カーテンの破【やぶ】れを繕【つくろ】ったら、見【み】た目【め】が良【よ】くなった。",
+    "meaning": "After I mended the curtain's tear, it looked better."
+  },
+  {
+    "sentence": "繕ってまで着たいお気に入りの服だ。",
+    "sentence_furigana": "繕【つくろ】ってまで着【き】たいお気【き】に入【い】りの服【ふく】だ。",
+    "meaning": "This is my favorite piece of clothing that I'm willing to mend."
+  },
+  {
+    "sentence": "テーブルクロスのほつれを繕う。",
+    "sentence_furigana": "テーブルクロスのほつれを繕【つくろ】う。",
+    "meaning": "I will mend the fraying of the tablecloth."
+  },
+  {
+    "sentence": "彼は事実を繕うのではなく、正直に話すべきだ。",
+    "sentence_furigana": "彼【かれ】は事実【じじつ】を繕【つくろ】うのではなく、正直【しょうじき】に話【はな】すべきだ。",
+    "meaning": "He should speak honestly instead of trying to cover up the facts."
+  },
+  {
+    "sentence": "このセーターは繕えばまだまだ着られる。",
+    "sentence_furigana": "このセーターは繕【つくろ】えばまだまだ着【き】られる。",
+    "meaning": "This sweater can still be worn if it's mended."
+  },
+  {
+    "sentence": "破れた箇所を繕って、長く使いたい。",
+    "sentence_furigana": "破【やぶ】れた箇所【かしょ】を繕【つくろ】って、長【なが】く使【つか】いたい。",
+    "meaning": "I want to mend the torn part and use it for a long time."
+  }
+]

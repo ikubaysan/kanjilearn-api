@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "榛の木は秋になると実をつけます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は秋【あき】になると思【み】をつけます。",
+    "meaning": "The hazel tree bears fruit in autumn."
+  },
+  {
+    "sentence": "森には榛の木がたくさん生えています。",
+    "sentence_furigana": "森【もり】には榛【しばみ】の木【き】がたくさん生【は】えています。",
+    "meaning": "There are many hazel trees growing in the forest."
+  },
+  {
+    "sentence": "この森の木々はほとんどが榛です。",
+    "sentence_furigana": "この森【もり】の木々【きぎ】はほとんどが榛【しばみ】です。",
+    "meaning": "Most of the trees in this forest are hazel."
+  },
+  {
+    "sentence": "榛の実はお菓子によく使われます。",
+    "sentence_furigana": "榛【しばみ】の実【み】はお菓子【かし】によく使【つか】われます。",
+    "meaning": "Hazelnuts are often used in sweets."
+  },
+  {
+    "sentence": "榛の木は比較的育てやすいです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は比較的【ひてき】に育【そだ】てやすいです。",
+    "meaning": "Hazel trees are relatively easy to grow."
+  },
+  {
+    "sentence": "秋の味覚として榛の実に注目が集まっています。",
+    "sentence_furigana": "秋【あき】の味覚【みかく】として榛【しばみ】の実【み】に注目【ちゅうもく】が集【あつ】まっています。",
+    "meaning": "Hazelnuts are drawing attention as an autumn delicacy."
+  },
+  {
+    "sentence": "榛の木の枝は家具の材料にもなります。",
+    "sentence_furigana": "榛【しばみ】の木【き】の枝【えだ】は家具【かぐ】の材料【ざいりょう】にもなります。",
+    "meaning": "The branches of hazel trees are also used as material for furniture."
+  },
+  {
+    "sentence": "昔話には榛の実を食べる場面が出てきます。",
+    "sentence_furigana": "昔話【むかしばなし】には榛【しばみ】の実【み】を食【た】べる場面【ばめん】が出てきます。",
+    "meaning": "Hazelnuts are eaten in scenes from old tales."
+  },
+  {
+    "sentence": "榛の実を拾って帰りました。",
+    "sentence_furigana": "榛【しばみ】の実【み】を拾【ひろ】って帰【かえ】りました。",
+    "meaning": "I picked hazelnuts and went home."
+  },
+  {
+    "sentence": "榛の木は高さが伸びるとかなりの大きさに達します。",
+    "sentence_furigana": "榛【しばみ】の木【き】は高【たか】さが伸【の】びるとかなりの大【おお】きさに達【たっ】します。",
+    "meaning": "When hazel trees grow tall, they reach a considerable size."
+  },
+  {
+    "sentence": "榛の木が風に揺れています。",
+    "sentence_furigana": "榛【しばみ】の木【き】が風【かぜ】に揺【ゆ】れています。",
+    "meaning": "The hazel tree is swaying in the wind."
+  },
+  {
+    "sentence": "この地域の森は榛が中心です。",
+    "sentence_furigana": "この地域【ちいき】の森【もり】は榛【しばみ】が中心【ちゅうしん】です。",
+    "meaning": "The forests in this region are centered around hazel trees."
+  },
+  {
+    "sentence": "榛の実の収穫時期が近づいています。",
+    "sentence_furigana": "榛【しばみ】の実【み】の収穫時期【しゅうかくじき】が近【ちか】づいています。",
+    "meaning": "The harvest season for hazelnuts is approaching."
+  },
+  {
+    "sentence": "榛の木は耐寒性が強いです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は耐寒性【たいかんせい】が強【つよ】いです。",
+    "meaning": "Hazel trees have strong cold resistance."
+  },
+  {
+    "sentence": "公園には榛の木が植えられています。",
+    "sentence_furigana": "公園【こうえん】には榛【しばみ】の木【き】が植【う】えられています。",
+    "meaning": "Hazel trees are planted in the park."
+  },
+  {
+    "sentence": "榛の実は栄養価が高い食品です。",
+    "sentence_furigana": "榛【しばみ】の実【み】は栄養価【えいようか】が高【たか】い食品【しょくひん】です。",
+    "meaning": "Hazelnuts are a highly nutritious food."
+  },
+  {
+    "sentence": "榛の木の剪定を行いました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の剪定【せんてい】を行【おこな】いました。",
+    "meaning": "I pruned the hazel tree."
+  },
+  {
+    "sentence": "山道に榛の実が落ちていました。",
+    "sentence_furigana": "山道【やまみち】に榛【しばみ】の実【み】が落【お】ちていました。",
+    "meaning": "Hazelnuts were lying on the mountain path."
+  },
+  {
+    "sentence": "榛の木は生垣としても利用できます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は生垣【いけがき】としても利用【りよう】できます。",
+    "meaning": "Hazel trees can also be used as hedges."
+  },
+  {
+    "sentence": "榛の実を使ったジャムは美味しいです。",
+    "sentence_furigana": "榛【しばみ】の実【み】を使【つか】ったジャムは美味【おい】しいです。",
+    "meaning": "Jam made with hazelnuts is delicious."
+  },
+  {
+    "sentence": "榛の木には白い花が咲きます。",
+    "sentence_furigana": "榛【しばみ】の木【き】には白【しろ】い花【はな】が咲【さ】きます。",
+    "meaning": "White flowers bloom on the hazel tree."
+  },
+  {
+    "sentence": "榛の木はヨーロッパ原産です。",
+    "sentence_furigana": "榛【しばみ】の木【き】はヨーロッパ原産【げんさん】です。",
+    "meaning": "Hazel trees are native to Europe."
+  },
+  {
+    "sentence": "榛の木は強風に比較的強いです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は強風【きょうふう】に比較的【ひてき】強【つよ】いです。",
+    "meaning": "Hazel trees are relatively strong against strong winds."
+  },
+  {
+    "sentence": "榛の実を摘んで歩きました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の実【み】を摘【つ】んで歩【ある】きました。",
+    "meaning": "I walked around picking hazelnuts."
+  },
+  {
+    "sentence": "榛の木は湿った場所を好みます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は湿【しめ】った場所【ばしょ】を好【この】みます。",
+    "meaning": "Hazel trees prefer moist locations."
+  },
+  {
+    "sentence": "榛の木の根元には小さな草が生えています。",
+    "sentence_furigana": "榛【しばみ】の木【き】の根元【ねもと】には小【ちい】さな草【くさ】が生【は】えています。",
+    "meaning": "Small grasses are growing at the base of the hazel tree."
+  },
+  {
+    "sentence": "榛の実が入ったパンは香ばしいです。",
+    "sentence_furigana": "榛【しばみ】の木【き】の実【み】が入【はい】ったパンは香【か】ばしいです。",
+    "meaning": "Bread with hazelnuts is fragrant."
+  },
+  {
+    "sentence": "榛の木の樹皮は薬用にも使われます。",
+    "sentence_furigana": "榛【しばみ】の木【き】の樹皮【じゅひ】は薬用【やくよう】にも使【つか】われます。",
+    "meaning": "The bark of the hazel tree is also used medicinally."
+  },
+  {
+    "sentence": "榛の実をたくさん集めました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の実【み】をたくさん集【あつ】めました。",
+    "meaning": "I collected many hazelnuts."
+  },
+  {
+    "sentence": "榛の木は秋になると葉を黄色く染めます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は秋【あき】になると葉【は】を黄色【きいろ】く染【そ】めます。",
+    "meaning": "The hazel tree's leaves turn yellow in autumn."
+  },
+  {
+    "sentence": "榛の木の下で休憩しました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で休憩【きゅうけい】しました。",
+    "meaning": "I rested under the hazel tree."
+  },
+  {
+    "sentence": "榛の木は繁殖力が旺盛です。",
+    "sentence_furigana": "榛【しばみ】の木【き】は繁殖力【はんしょくりょく】が旺盛【おうせい】です。",
+    "meaning": "Hazel trees have vigorous reproductive power."
+  },
+  {
+    "sentence": "榛の実を使ったチョコレートがお気に入りです。",
+    "sentence_furigana": "榛【しばみ】の木【き】の実【み】を使【つか】ったチョコレートがお気【き】に入【い】りです。",
+    "meaning": "I like chocolate made with hazelnuts."
+  },
+  {
+    "sentence": "榛の木には鳥が巣を作っていました。",
+    "sentence_furigana": "榛【しばみ】の木【き】には鳥【とり】が巣【す】を作【つく】っていました。",
+    "meaning": "Birds were nesting in the hazel tree."
+  },
+  {
+    "sentence": "榛の木は日当たりの良い場所を好みます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は日当【ひあ】たりの良【よ】い場所【ばしょ】を好【この】みます。",
+    "meaning": "Hazel trees prefer sunny locations."
+  },
+  {
+    "sentence": "榛の実の殻は硬いです。",
+    "sentence_furigana": "榛【しばみ】の木【き】の実【み】の殻【から】は硬【かた】いです。",
+    "meaning": "The shell of the hazelnut is hard."
+  },
+  {
+    "sentence": "榛の木は高さがあまり高くならないので、管理しやすいです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は高【たか】さがあまり高【たか】くならないので、管理【かんり】しやすいです。",
+    "meaning": "Hazel trees don't grow very tall, so they are easy to manage."
+  },
+  {
+    "sentence": "森の散策中に榛の実を見つけました。",
+    "sentence_furigana": "森【もり】の散策中【さんさくちゅう】に榛【しばみ】の木【き】の実【み】を見【み】つけました。",
+    "meaning": "I found hazelnuts while strolling through the forest."
+  },
+  {
+    "sentence": "榛の木は加工しやすい性質を持っています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は加工【かこう】しやすい性質【せいしつ】を持【も】っています。",
+    "meaning": "Hazel trees have a property that makes them easy to process."
+  },
+  {
+    "sentence": "榛の木はあまり手をかけなくても育ちます。",
+    "sentence_furigana": "榛【しばみ】の木【き】はあまり手【て】をかけなくても育【そだ】ちます。",
+    "meaning": "Hazel trees grow without much care."
+  },
+  {
+    "sentence": "榛の実はそのまま食べても美味しいです。",
+    "sentence_furigana": "榛【しばみ】の木【み】はそのまま食【た】べても美味【おい】しいです。",
+    "meaning": "Hazelnuts are delicious even when eaten as they are."
+  },
+  {
+    "sentence": "榛の木は比較的病気に強い品種です。",
+    "sentence_furigana": "榛【しばみ】の木【き】は比較的【ひてき】病気【びょうき】に強【つよ】い品種【ひんしゅ】です。",
+    "meaning": "Hazel trees are a variety that is relatively resistant to disease."
+  },
+  {
+    "sentence": "榛の木の下でピクニックをしました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】でピクニックをしました。",
+    "meaning": "We had a picnic under the hazel tree."
+  },
+  {
+    "sentence": "榛の実はビタミンEが豊富です。",
+    "sentence_furigana": "榛【しばみ】の木【み】はビタミンEが豊富【ほうふ】です。",
+    "meaning": "Hazelnuts are rich in vitamin E."
+  },
+  {
+    "sentence": "榛の木は粘土質の土壌でも育ちます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は粘土質【ねんどしつ】の土壌【どじょう】でも育【そだ】ちます。",
+    "meaning": "Hazel trees can grow even in clayey soil."
+  },
+  {
+    "sentence": "榛の木から採れる油は食用にもなります。",
+    "sentence_furigana": "榛【しばみ】の木【き】から採【と】れる油【あぶら】は食用【しょくよう】にもなります。",
+    "meaning": "Oil extracted from hazel trees is also used for food."
+  },
+  {
+    "sentence": "榛の木の葉は秋に紅葉します。",
+    "sentence_furigana": "榛【しばみ】の木【き】の葉【は】は秋【あき】に紅葉【こうよう】します。",
+    "meaning": "The leaves of the hazel tree turn red in autumn."
+  },
+  {
+    "sentence": "榛の実はエネルギー源として優れています。",
+    "sentence_furigana": "榛【しばみ】の木【み】はエネルギー源【げん】として優【すぐ】れています。",
+    "meaning": "Hazelnuts are excellent as an energy source."
+  },
+  {
+    "sentence": "榛の木は剪定しないと枝が混み合います。",
+    "sentence_furigana": "榛【しばみ】の木【き】は剪定【せんてい】しないと枝【えだ】が混【こ】み合【あ】います。",
+    "meaning": "Hazel trees become overgrown with branches if not pruned."
+  },
+  {
+    "sentence": "榛の木の下にはどんぐりが落ちていました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】にはどんぐりが落【お】ちていました。",
+    "meaning": "Acorns were lying under the hazel tree."
+  },
+  {
+    "sentence": "榛の木で作られた杖は丈夫です。",
+    "sentence_furigana": "榛【しばみ】の木【き】で作【つく】られた杖【つえ】は丈夫【じょうぶ】です。",
+    "meaning": "A cane made from hazel wood is sturdy."
+  },
+  {
+    "sentence": "榛の実をローストして食べました。",
+    "sentence_furigana": "榛【しばみ】の木【み】をローストして食【た】べました。",
+    "meaning": "I roasted and ate the hazelnuts."
+  },
+  {
+    "sentence": "榛の木は成長が比較的早い方です。",
+    "sentence_furigana": "榛【しばみ】の木【き】は成長【せいちょう】が比較的【ひてき】早【はや】い方【ほう】です。",
+    "meaning": "Hazel trees grow relatively quickly."
+  },
+  {
+    "sentence": "榛の木は多くの動物の食料となります。",
+    "sentence_furigana": "榛【しばみ】の木【き】は多【おお】くの動物【どうぶつ】の食料【しょくりょう】となります。",
+    "meaning": "Hazel trees serve as food for many animals."
+  },
+  {
+    "sentence": "榛の木から採れる木材は加工性が良いです。",
+    "sentence_furigana": "榛【しばみ】の木【き】から採【と】れる木材【もくざい】は加工性【かこうせい】が良いです。",
+    "meaning": "Wood from hazel trees has good workability."
+  },
+  {
+    "sentence": "榛の実はそのままおやつとして食べられます。",
+    "sentence_furigana": "榛【しばみ】の木【み】はそのままおやつとして食【た】べられます。",
+    "meaning": "Hazelnuts can be eaten as snacks as they are."
+  },
+  {
+    "sentence": "榛の木は新しい品種の開発が進んでいます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は新【あたら】しい品種【ひんしゅ】の開発【かいはつ】が進【すす】んでいます。",
+    "meaning": "Development of new hazelnut varieties is progressing."
+  },
+  {
+    "sentence": "榛の木は日陰にもある程度耐えられます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は日陰【ひかげ】にもある程度【ていど】耐【た】えられます。",
+    "meaning": "Hazel trees can tolerate some shade."
+  },
+  {
+    "sentence": "榛の木の下で読書をしました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で読書【どくしょ】をしました。",
+    "meaning": "I read a book under the hazel tree."
+  },
+  {
+    "sentence": "榛の木で作られたフォークは軽くて丈夫です。",
+    "sentence_furigana": "榛【しばみ】の木【き】で作【つく】られたフォークは軽【かる】くて丈夫【じょうぶ】です。",
+    "meaning": "Forks made from hazel wood are light and durable."
+  },
+  {
+    "sentence": "榛の実を収穫して持ち帰りました。",
+    "sentence_furigana": "榛【しばみ】の木【み】を収穫【しゅうかく】して持【も】ち帰【かえ】りました。",
+    "meaning": "I harvested hazelnuts and took them home."
+  },
+  {
+    "sentence": "榛の木は盆栽としても人気があります。",
+    "sentence_furigana": "榛【しばみ】の木【き】は盆栽【ぼんさい】としても人気【にんき】があります。",
+    "meaning": "Hazel trees are also popular as bonsai."
+  },
+  {
+    "sentence": "榛の木は早春に芽吹きます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は早春【そうしゅん】に芽吹【めぶ】きます。",
+    "meaning": "Hazel trees bud in early spring."
+  },
+  {
+    "sentence": "榛の木には独特の香りがあります。",
+    "sentence_furigana": "榛【しばみ】の木【き】には独特【どくとく】の香【かお】りがあります。",
+    "meaning": "Hazel trees have a unique fragrance."
+  },
+  {
+    "sentence": "榛の実を使ったオイルは美容にも良いです。",
+    "sentence_furigana": "榛【しばみ】の木【み】を使【つか】ったオイルは美容【びよう】にも良【よ】いです。",
+    "meaning": "Oil made from hazelnuts is also good for beauty."
+  },
+  {
+    "sentence": "榛の木は様々な用途に使われます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は様々【さまざま】な用途【ようと】に使【つか】われます。",
+    "meaning": "Hazel trees are used for various purposes."
+  },
+  {
+    "sentence": "榛の木の下で昼食をとりました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で昼食【ちゅうしょく】をとりました。",
+    "meaning": "I had lunch under the hazel tree."
+  },
+  {
+    "sentence": "榛の木は庭木としても適しています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は庭木【にわき】としても適【てき】しています。",
+    "meaning": "Hazel trees are also suitable as garden trees."
+  },
+  {
+    "sentence": "榛の実を使ったサラダは風味豊かです。",
+    "sentence_furigana": "榛【しばみ】の木【み】を使【つか】ったサラダは風味豊【ふうみゆた】かです。",
+    "meaning": "Salads with hazelnuts are rich in flavor."
+  },
+  {
+    "sentence": "榛の木は土壌改良にも役立ちます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は土壌改良【どじょうかいりょう】にも役立【やくた】ちます。",
+    "meaning": "Hazel trees also help improve soil."
+  },
+  {
+    "sentence": "榛の木の下で子供たちが遊んでいます。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で子供【こども】たちが遊【あそ】んでいます。",
+    "meaning": "Children are playing under the hazel tree."
+  },
+  {
+    "sentence": "榛の木は耐久性に優れています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は耐久性【たいきゅうせい】に優【すぐ】れています。",
+    "meaning": "Hazel wood has excellent durability."
+  },
+  {
+    "sentence": "榛の実を乾燥させて保存しました。",
+    "sentence_furigana": "榛【しばみ】の木【み】を乾燥【かんそう】させて保存【ほぞん】しました。",
+    "meaning": "I dried and stored the hazelnuts."
+  },
+  {
+    "sentence": "榛の木は都市部でも育てることができます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は都市部【としぶ】でも育【そだ】てることができます。",
+    "meaning": "Hazel trees can be grown in urban areas."
+  },
+  {
+    "sentence": "榛の木は秋の景観を彩ります。",
+    "sentence_furigana": "榛【しばみ】の木【き】は秋【あき】の景観【けいかん】を彩【いろど】ります。",
+    "meaning": "Hazel trees color the autumn landscape."
+  },
+  {
+    "sentence": "榛の木は品種改良によって多くの種類があります。",
+    "sentence_furigana": "榛【しばみ】の木【き】は品種改良【ひんしゅかいりょう】によって多【おお】くの種類【しゅるい】があります。",
+    "meaning": "There are many varieties of hazel trees due to selective breeding."
+  },
+  {
+    "sentence": "榛の木の下で静かに過ごしました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で静【しず】かに過【す】ごしました。",
+    "meaning": "I spent a quiet time under the hazel tree."
+  },
+  {
+    "sentence": "榛の木は害虫にも比較的強いです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は害虫【がいちゅう】にも比較的【ひてき】強【つよ】いです。",
+    "meaning": "Hazel trees are relatively resistant to pests."
+  },
+  {
+    "sentence": "榛の木は収穫時期になると多くの実をつけます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は収穫時期【しゅうかくじき】になると多【おお】くの実【み】をつけます。",
+    "meaning": "Hazel trees bear many nuts when it's harvest time."
+  },
+  {
+    "sentence": "榛の木は比較的病害にかかりにくいです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は比較的【ひてき】病害【びょうがい】にかかりにくいです。",
+    "meaning": "Hazel trees are relatively resistant to diseases."
+  },
+  {
+    "sentence": "榛の木は剪定することで樹形を整えられます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は剪定【せんてい】することで樹形【じゅけい】を整【ととの】えられます。",
+    "meaning": "The shape of a hazel tree can be managed by pruning."
+  },
+  {
+    "sentence": "榛の木は水はけの良い土壌を好みます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は水捌【みずは】けの良い土壌【どじょう】を好【この】みます。",
+    "meaning": "Hazel trees prefer well-drained soil."
+  },
+  {
+    "sentence": "榛の木は新しい芽を出し始めています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は新【あたら】しい芽【め】を出【だ】し始【はじ】めています。",
+    "meaning": "The hazel tree is starting to sprout new buds."
+  },
+  {
+    "sentence": "榛の木は秋に果実をつけます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は秋【あき】に果実【かじつ】をつけます。",
+    "meaning": "The hazel tree bears fruit in autumn."
+  },
+  {
+    "sentence": "榛の実を食べると健康に良いと言われています。",
+    "sentence_furigana": "榛【しばみ】の木【み】を食【た】べると健康【けんこう】に良【よ】いと言【い】われています。",
+    "meaning": "It is said that eating hazelnuts is good for your health."
+  },
+  {
+    "sentence": "榛の木は冬でも葉を落としません。",
+    "sentence_furigana": "榛【しばみ】の木【き】は冬【ふゆ】でも葉【は】を落【お】としません。",
+    "meaning": "Hazel trees do not lose their leaves even in winter."
+  },
+  {
+    "sentence": "榛の木の下にはたくさんの葉が落ちています。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】にはたくさん葉【は】が落【お】ちています。",
+    "meaning": "Many leaves have fallen under the hazel tree."
+  },
+  {
+    "sentence": "榛の木は生育環境を選びません。",
+    "sentence_furigana": "榛【しばみ】の木【き】は生育環境【せいいくかんきょう】を選【えら】びません。",
+    "meaning": "Hazel trees are not particular about their growing environment."
+  },
+  {
+    "sentence": "榛の木は強靭な生命力を持っています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は強靭【きょうじん】な生命力【せいめいりょく】を持【も】っています。",
+    "meaning": "Hazel trees possess strong vitality."
+  },
+  {
+    "sentence": "榛の木は春に小さな白い花を咲かせます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は春【はる】に小【ちい】さな白【しろ】い花【はな】を咲【さ】かせます。",
+    "meaning": "Hazel trees bloom small white flowers in spring."
+  },
+  {
+    "sentence": "榛の木の下で静かに時間を過ごしました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で静【しず】かに時間【じかん】を過【す】ごしました。",
+    "meaning": "I spent time peacefully under the hazel tree."
+  },
+  {
+    "sentence": "榛の実を使ったクッキーはとても美味しいです。",
+    "sentence_furigana": "榛【しばみ】の木【み】を使【つか】ったクッキーはとても美味【おい】しいです。",
+    "meaning": "Cookies made with hazelnuts are very delicious."
+  },
+  {
+    "sentence": "榛の木は日当たりの良い場所でよく育ちます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は日当【ひあ】たりの良【よ】い場所【ばしょ】でよく育【そだ】ちます。",
+    "meaning": "Hazel trees grow well in sunny places."
+  },
+  {
+    "sentence": "榛の木は加工しやすい木材として利用されています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は加工しやすい木材【もくざい】として利用【りよう】されています。",
+    "meaning": "Hazel wood is used as an easily workable lumber."
+  },
+  {
+    "sentence": "榛の木は風に強く、倒れにくいです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は風【かぜ】に強【つよ】く、倒【たお】れにくいです。",
+    "meaning": "Hazel trees are strong against wind and not easily fall."
+  },
+  {
+    "sentence": "榛の木の下で涼みました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で涼【すず】みました。",
+    "meaning": "I cooled off under the hazel tree."
+  },
+  {
+    "sentence": "榛の実は栄養バランスが良い食品です。",
+    "sentence_furigana": "榛【しばみ】の木【み】は栄養バランスが良い食品【しょくひん】です。",
+    "meaning": "Hazelnuts are a food with a good nutritional balance."
+  },
+  {
+    "sentence": "榛の木は地中海沿岸で多く見られます。",
+    "sentence_furigana": "榛【しばみ】の木【き】は地中海沿岸【ちちゅうかいえんがん】で多【おお】く見【み】られます。",
+    "meaning": "Hazel trees are often seen along the Mediterranean coast."
+  },
+  {
+    "sentence": "榛の木は春に新しい葉を展開します。",
+    "sentence_furigana": "榛【しばみ】の木【き】は春【はる】に新【あたら】しい葉【は】を展開【てんかい】します。",
+    "meaning": "Hazel trees unfurl new leaves in spring."
+  },
+  {
+    "sentence": "榛の木は開花時期が早いです。",
+    "sentence_furigana": "榛【しばみ】の木【き】は開花時期【かいかしき】が早【はや】いです。",
+    "meaning": "Hazel trees have an early flowering period."
+  },
+  {
+    "sentence": "榛の木の下で読書をしながらお茶を飲みました。",
+    "sentence_furigana": "榛【しばみ】の木【き】の下【した】で読書【どくしょ】をしながらお茶【ちゃ】を飲【の】みました。",
+    "meaning": "I drank tea while reading under the hazel tree."
+  },
+  {
+    "sentence": "榛の木は様々な鳥たちのすみかになっています。",
+    "sentence_furigana": "榛【しばみ】の木【き】は様々【さまざま】な鳥々【とりたち】すみかになっています。",
+    "meaning": "Hazel trees have become homes for various birds."
+  },
+  {
+    "sentence": "榛の木は栽培が比較的容易です。",
+    "sentence_furigana": "榛【しばみ】の木【き】は栽培【さいばい】が比較的【ひてき】容易【ようい】です。",
+    "meaning": "Cultivation of hazel trees is relatively easy."
+  },
+  {
+    "sentence": "榛の木は春に新しい枝を伸ばします。",
+    "sentence_furigana": "榛【しばみ】の木【き】は春【はる】に新【あたら】しい枝【えだ】を伸【の】ばします。",
+    "meaning": "Hazel trees extend new branches in spring."
+  }
+]

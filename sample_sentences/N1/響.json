@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "彼の声が部屋に響いた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】が部屋【へや】に響【ひび】いた。",
+    "meaning": "His voice echoed in the room."
+  },
+  {
+    "sentence": "その音は遠くまで響き渡った。",
+    "sentence_furigana": "その音【おと】は遠【とお】くまで響【ひび】き渡【わた】った。",
+    "meaning": "The sound resonated far away."
+  },
+  {
+    "sentence": "鐘の音が静かに響いている。",
+    "sentence_furigana": "鐘【かね】の音【おと】は静【しず】かに響【ひび】いている。",
+    "meaning": "The sound of the bell is softly ringing."
+  },
+  {
+    "sentence": "爆発音が地響きを起こした。",
+    "sentence_furigana": "爆発音【ばくはつおん】が地響【じひび】きを起【お】こした。",
+    "meaning": "The explosion caused the ground to vibrate."
+  },
+  {
+    "sentence": "彼女の笑い声が響き渡る。",
+    "sentence_furigana": "彼女【かのじょ】の笑【わら】い声【ごえ】が響【ひび】き渡【わた】る。",
+    "meaning": "Her laughter rings out."
+  },
+  {
+    "sentence": "この部屋は音がよく響く。",
+    "sentence_furigana": "この部屋【へや】は音【おと】がよく響【ひび】く。",
+    "meaning": "Sound echoes well in this room."
+  },
+  {
+    "sentence": "汽笛の音が低く響いた。",
+    "sentence_furigana": "汽笛【きてき】の音【おと】が低【ひく】く響【ひび】いた。",
+    "meaning": "The sound of the whistle echoed low."
+  },
+  {
+    "sentence": "雷の音が遠くで響いた。",
+    "sentence_furigana": "雷【かみなり】の音【おと】が遠【とお】くで響【ひび】いた。",
+    "meaning": "The sound of thunder echoed in the distance."
+  },
+  {
+    "sentence": "そのニュースは全国に響いた。",
+    "sentence_furigana": "そのニュースは全国【ぜんこく】に響【ひび】いた。",
+    "meaning": "That news resonated throughout the country."
+  },
+  {
+    "sentence": "彼の言葉は心に響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は心【こころ】に響【ひび】いた。",
+    "meaning": "His words struck a chord with me."
+  },
+  {
+    "sentence": "太鼓の音が遠くから響いてくる。",
+    "sentence_furigana": "太鼓【たいこ】の音【おと】が遠【とお】くから響【ひび】いてくる。",
+    "meaning": "The sound of the drum is echoing from afar."
+  },
+  {
+    "sentence": "賛同の拍手がホールに響いた。",
+    "sentence_furigana": "賛同【さんどう】の拍手【はくしゅ】がホールに響【ひび】いた。",
+    "meaning": "Applause of agreement echoed in the hall."
+  },
+  {
+    "sentence": "夜空に花火の音が響き渡った。",
+    "sentence_furigana": "夜空【よぞら】に花火【はなび】の音【おと】が響【ひび】き渡【わた】った。",
+    "meaning": "The sound of fireworks resounded in the night sky."
+  },
+  {
+    "sentence": "その歌声は会場全体に響き渡った。",
+    "sentence_furigana": "その歌声【うたごえ】は会場【かいじょう】全体【ぜんたい】に響【ひび】き渡【わた】った。",
+    "meaning": "That singing voice echoed throughout the entire venue."
+  },
+  {
+    "sentence": "彼のスピーチは聴衆の心に深く響いた。",
+    "sentence_furigana": "彼【かれ】のスピーチは聴衆【ちょうしゅう】の心【こころ】に深【ふか】く響【ひび】いた。",
+    "meaning": "His speech deeply resonated with the audience."
+  },
+  {
+    "sentence": "静寂を破るようにサイレンが響いた。",
+    "sentence_furigana": "静寂【せいじゃく】を破【やぶ】るようにサイレンが響【ひび】いた。",
+    "meaning": "The siren sounded as if to break the silence."
+  },
+  {
+    "sentence": "遠くの教会から鐘の音が響いてきた。",
+    "sentence_furigana": "遠【とお】くの教会【きょうかい】から鐘【かね】の音【おと】が響【ひび】いてきた。",
+    "meaning": "The sound of the bell came echoing from a distant church."
+  },
+  {
+    "sentence": "このホールは音が響きやすい構造になっている。",
+    "sentence_furigana": "このホールは音が響【ひび】きやすい構造【こうぞう】になっている。",
+    "meaning": "This hall has a structure that easily echoes sound."
+  },
+  {
+    "sentence": "喜びの声がこだまのように響いた。",
+    "sentence_furigana": "喜【よろこ】びの声【こえ】がこだまのように響【ひび】いた。",
+    "meaning": "Voices of joy echoed like an echo."
+  },
+  {
+    "sentence": "彼の決意は、その場の空気に響いた。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】は、その場【ば】の空気【くうき】に響【ひび】いた。",
+    "meaning": "His determination resonated in the atmosphere of the place."
+  },
+  {
+    "sentence": "山々にこだまする歓声が響いた。",
+    "sentence_furigana": "山々【やまやま】にこだまする歓声【かんせい】が響【ひび】いた。",
+    "meaning": "Cheers echoing through the mountains resounded."
+  },
+  {
+    "sentence": "古い寺院に読経の声が響いた。",
+    "sentence_furigana": "古【ふる】い寺院【じいん】に読経【どきょう】の声【こえ】が響【ひび】いた。",
+    "meaning": "The sound of chanting echoed in the old temple."
+  },
+  {
+    "sentence": "その知らせは村中に響き渡った。",
+    "sentence_furigana": "その知【し】らせは村中【むらじゅう】に響【ひび】き渡【わた】った。",
+    "meaning": "The news spread throughout the village."
+  },
+  {
+    "sentence": "エンジン音が低く響いていた。",
+    "sentence_furigana": "エンジン音【おと】が低【ひく】く響【ひび】いていた。",
+    "meaning": "The engine sound was resonating low."
+  },
+  {
+    "sentence": "彼の情熱的なスピーチは聴衆の心を揺さぶった。",
+    "sentence_furigana": "彼【かれ】の情熱的【じょうねつてき】なスピーチは聴衆【ちょうしゅう】の心【こころ】を揺【ゆ】さぶった。",
+    "meaning": "His passionate speech shook the hearts of the audience."
+  },
+  {
+    "sentence": "体育館に生徒たちの元気な声が響いた。",
+    "sentence_furigana": "体育館【たいいくかん】に生徒【せいでい】たちのに元気【げんき】な声【こえ】が響【ひび】いた。",
+    "meaning": "The energetic voices of the students echoed in the gymnasium."
+  },
+  {
+    "sentence": "遠くで聞こえる水の音が心地よく響いた。",
+    "sentence_furigana": "遠【とお】くで聞【き】こえる水【みず】の音【おと】が心地【ここち】よく響【ひび】いた。",
+    "meaning": "The sound of water heard in the distance echoed pleasantly."
+  },
+  {
+    "sentence": "祝砲の音が空に響き渡った。",
+    "sentence_furigana": "祝砲【しゅくほう】の音【おと】が空【そら】に響【ひび】き渡【わた】った。",
+    "meaning": "The sound of celebratory gunfire echoed through the sky."
+  },
+  {
+    "sentence": "その悲鳴は夜の静寂に響いた。",
+    "sentence_furigana": "その悲鳴【ひめい】は夜【よる】の静寂【せいじゃく】に響【ひび】いた。",
+    "meaning": "That scream echoed in the silence of the night."
+  },
+  {
+    "sentence": "彼の歌声はまるで天使の歌声のように響いた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】はまるで天使【てんし】の歌声【うたごえ】のように響【ひび】いた。",
+    "meaning": "His singing voice resonated like an angel's song."
+  },
+  {
+    "sentence": "祭りの太鼓の音が夜空に響き渡る。",
+    "sentence_furigana": "祭【まつ】りの太鼓【たいこ】の音【おと】が夜空【よぞら】に響【ひび】き渡【わた】る。",
+    "meaning": "The sound of festival drums echoes through the night sky."
+  },
+  {
+    "sentence": "古い教会の鐘が静かに響いた。",
+    "sentence_furigana": "古【ふる】い教会【きょうかい】の鐘【かね】が静【しず】かに響【ひび】いた。",
+    "meaning": "The bells of the old church rang softly."
+  },
+  {
+    "sentence": "彼の言葉は参加者の心に強く響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は参加者【さんかしゃ】の心【こころ】に強【つよ】く響【ひび】いた。",
+    "meaning": "His words strongly resonated with the participants' hearts."
+  },
+  {
+    "sentence": "森の中に鳥のさえずりが響いていた。",
+    "sentence_furigana": "森【もり】の中【なか】に鳥【とり】のさえずりが響【ひび】いていた。",
+    "meaning": "The chirping of birds echoed in the forest."
+  },
+  {
+    "sentence": "力強い応援の声がスタジアムに響いた。",
+    "sentence_furigana": "力強【ちからづよ】い応援【おうえん】の声【こえ】がスタジアムに響【ひび】いた。",
+    "meaning": "Strong cheers of support echoed in the stadium."
+  },
+  {
+    "sentence": "その事件の記憶が今も心に響いている。",
+    "sentence_furigana": "その事件【じけん】の記憶【きおく】が今【いま】も心【こころ】に響【ひび】いている。",
+    "meaning": "The memory of that incident still resonates in my heart."
+  },
+  {
+    "sentence": "遠くの賛歌が静かに響き渡る。",
+    "sentence_furigana": "遠【とお】くの賛歌【さんか】が静【しず】かに響【ひび】き渡【わた】る。",
+    "meaning": "A distant hymn resonates softly."
+  },
+  {
+    "sentence": "子供たちの笑い声が公園に響いていた。",
+    "sentence_furigana": "子供【こども】たちのに笑【わら】い声【ごえ】が公園【こうえん】に響【ひび】いていた。",
+    "meaning": "Children's laughter echoed in the park."
+  },
+  {
+    "sentence": "音楽の音が部屋中に響き渡った。",
+    "sentence_furigana": "音楽【おんがく】の音【おと】が部屋中【へやじゅう】に響【ひび】き渡【わた】った。",
+    "meaning": "The sound of music echoed throughout the room."
+  },
+  {
+    "sentence": "彼の悲痛な叫びが夜の静寂に響いた。",
+    "sentence_furigana": "彼【かれ】の悲痛【ひつう】な叫【さけ】びが夜【よる】の静寂【せいじゃく】に響【ひび】いた。",
+    "meaning": "His painful cry echoed in the silence of the night."
+  },
+  {
+    "sentence": "このホールは音がよく響くように設計されている。",
+    "sentence_furigana": "このホールは音がよく響【ひび】くように設計【せっけい】されている。",
+    "meaning": "This hall is designed to make sound resonate well."
+  },
+  {
+    "sentence": "遠くの波の音が耳に響いた。",
+    "sentence_furigana": "遠【とお】くの波【なみ】の音【おと】が耳【みみ】に響【ひび】いた。",
+    "meaning": "The sound of distant waves echoed in my ears."
+  },
+  {
+    "sentence": "その知らせは多くの人々の心に響いた。",
+    "sentence_furigana": "その知【し】らせは多【おお】くの人々【ひとびと】のに心【こころ】に響【ひび】いた。",
+    "meaning": "That news resonated with many people's hearts."
+  },
+  {
+    "sentence": "雷鳴が山々に響き渡った。",
+    "sentence_furigana": "雷鳴【らいめい】が山々【やまやま】に響【ひび】き渡【わた】った。",
+    "meaning": "Thunder roared through the mountains."
+  },
+  {
+    "sentence": "彼の言葉は真実味を帯びて心に響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実味【しんじつみ】を帯【お】びて心【こころ】に響【ひび】いた。",
+    "meaning": "His words, imbued with truth, resonated in my heart."
+  },
+  {
+    "sentence": "祭りの法被を着た人々が歌い踊っていた。",
+    "sentence_furigana": "祭【まつ】りの法被【はっぴ】を着【き】た人々【ひとびと】が歌【うた】い踊【おど】っていた。",
+    "meaning": "People wearing festival happi coats were singing and dancing."
+  },
+  {
+    "sentence": "静かな夜に遠くの犬の鳴き声が響いた。",
+    "sentence_furigana": "静【しず】かな夜【よる】に遠【とお】くの犬【いぬ】の鳴【な】き声【ごえ】が響【ひび】いた。",
+    "meaning": "The distant bark of a dog echoed in the quiet night."
+  },
+  {
+    "sentence": "その決断は多くの人々に衝撃を与えた。",
+    "sentence_furigana": "その決断【けつだん】は多【おお】くの人々【ひとびと】に衝撃【しょうげき】を与【あた】えた。",
+    "meaning": "That decision shocked many people."
+  },
+  {
+    "sentence": "教会のオルガンの音が荘厳に響いた。",
+    "sentence_furigana": "教会【きょうかい】のオルガンのが音【おと】が荘厳【そうごん】に響【ひび】いた。",
+    "meaning": "The organ music of the church resonated solemnly."
+  },
+  {
+    "sentence": "彼の訴えは人々の心に深く響いた。",
+    "sentence_furigana": "彼【かれ】の訴【うった】えは人々【ひとびと】のに心【こころ】に深【ふか】く響【ひび】いた。",
+    "meaning": "His plea resonated deeply in people's hearts."
+  },
+  {
+    "sentence": "遠くで車のクラクションが響いた。",
+    "sentence_furigana": "遠【とお】くで車【くるま】のクラクションが響【ひび】いた。",
+    "meaning": "A car horn echoed in the distance."
+  },
+  {
+    "sentence": "この建物は音響効果が良い。",
+    "sentence_furigana": "この建物【たてもの】は音響効果【おんきょうこうか】が良い【よい】。",
+    "meaning": "This building has good acoustics."
+  },
+  {
+    "sentence": "彼の力強い声がホールに響いた。",
+    "sentence_furigana": "彼【かれ】の力強【ちからづよ】い声【こえ】がホールに響【ひび】いた。",
+    "meaning": "His powerful voice echoed in the hall."
+  },
+  {
+    "sentence": "そのニュースは全国に響き渡った。",
+    "sentence_furigana": "そのニュースは全国【ぜんこく】に響【ひび】き渡【わた】った。",
+    "meaning": "The news spread across the country."
+  },
+  {
+    "sentence": "遠くから聞こえる鳥の鳴き声が耳に心地よく響いた。",
+    "sentence_furigana": "遠【とお】くから聞【き】こえる鳥【とり】の鳴【な】き声【ごえ】が耳【みみ】に心地【ここち】よく響【ひび】いた。",
+    "meaning": "The chirping of birds heard from afar echoed pleasantly in my ears."
+  },
+  {
+    "sentence": "彼の熱弁は聴衆の心に響いた。",
+    "sentence_furigana": "彼【かれ】の熱弁【ねつべん】は聴衆【ちょうしゅう】の心【こころ】に響【ひび】いた。",
+    "meaning": "His passionate speech resonated with the audience."
+  },
+  {
+    "sentence": "太鼓の音が祭り場に響き渡った。",
+    "sentence_furigana": "太鼓【たいこ】の音【おと】が祭場【さいじょう】に響【ひび】き渡【わた】った。",
+    "meaning": "The sound of drums echoed throughout the festival grounds."
+  },
+  {
+    "sentence": "その声は静寂に響き、すべてを包み込んだ。",
+    "sentence_furigana": "その声【こえ】は静寂【せいじゃく】に響【ひび】き、すべてを包【つつ】み込【こ】んだ。",
+    "meaning": "That voice resonated in the silence, encompassing everything."
+  },
+  {
+    "sentence": "彼の歌声は観客の心を捉えた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は観客【かんきゃく】の心【こころ】を捉【とら】えた。",
+    "meaning": "His singing voice captured the audience's hearts."
+  },
+  {
+    "sentence": "聖堂に厳かな祈りの声が響いた。",
+    "sentence_furigana": "聖堂【せいどう】に厳【おごそ】かな祈【いの】りの声【こえ】が響【ひび】いた。",
+    "meaning": "Solemn prayers echoed in the cathedral."
+  },
+  {
+    "sentence": "その歴史的な瞬間は人々の記憶に深く響いた。",
+    "sentence_furigana": "その歴史的【れきしてき】な瞬間【しゅんかん】は人々【ひとびと】のに記憶【きおく】に深【ふか】く響【ひび】いた。",
+    "meaning": "That historic moment deeply resonated in people's memories."
+  },
+  {
+    "sentence": "山の谷間にこだまする歓声が響き渡った。",
+    "sentence_furigana": "山【やま】の谷間【たにま】にこだまする歓声【かんせい】が響【ひび】き渡【わた】った。",
+    "meaning": "Cheers echoing through the mountain valleys resounded."
+  },
+  {
+    "sentence": "彼の言葉は多くの若者に影響を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は多【おお】くの若者【わかもの】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "His words influenced many young people."
+  },
+  {
+    "sentence": "サイレンの音が街中に響き渡った。",
+    "sentence_furigana": "サイレンのが音【おと】が街中【まちじゅう】に響【ひび】き渡【わた】った。",
+    "meaning": "The siren's sound spread throughout the city."
+  },
+  {
+    "sentence": "遠くで汽笛の音が響いていた。",
+    "sentence_furigana": "遠【とお】くで汽笛【きてき】の音【おと】が響【ひび】いていた。",
+    "meaning": "The sound of a whistle was echoing in the distance."
+  },
+  {
+    "sentence": "彼女の歌声はホール全体に響き渡った。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】はホール全体【ぜんたい】に響【ひび】き渡【わた】った。",
+    "meaning": "Her singing voice echoed throughout the entire hall."
+  },
+  {
+    "sentence": "爆撃の音が地平線に響いた。",
+    "sentence_furigana": "爆撃【ばくげき】の音【おと】が地平線【ちへいせん】に響【ひび】いた。",
+    "meaning": "The sound of bombing echoed on the horizon."
+  },
+  {
+    "sentence": "彼の言葉は学生たちの心に響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は学生【がくせい】たちのに心【こころ】に響【ひび】いた。",
+    "meaning": "His words resonated with the students' hearts."
+  },
+  {
+    "sentence": "この場所は音が反響しやすい。",
+    "sentence_furigana": "この場所【ばしょ】は音が反響【はんきょう】しやすい。",
+    "meaning": "This place is prone to echoes."
+  },
+  {
+    "sentence": "祭りの賑やかな声が夜空に響き渡った。",
+    "sentence_furigana": "祭【まつ】りの賑【にぎ】やかな声【こえ】が夜空【よぞら】に響【ひび】き渡【わた】った。",
+    "meaning": "The lively sounds of the festival echoed through the night sky."
+  },
+  {
+    "sentence": "その悲しみは彼の歌声に響いていた。",
+    "sentence_furigana": "その悲【かな】しみは彼【かれ】の歌声【うたごえ】に響【ひび】いていた。",
+    "meaning": "That sadness resonated in his singing voice."
+  },
+  {
+    "sentence": "力強いドラムの音が会場を揺るがした。",
+    "sentence_furigana": "力強【ちからづよ】いドラムのが音【おと】が会場【かいじょう】を揺【ゆ】るがした。",
+    "meaning": "The powerful drum sound shook the venue."
+  },
+  {
+    "sentence": "彼のスピーチは皆の共感を呼んだ。",
+    "sentence_furigana": "彼【かれ】のスピーチは皆【みな】の共感【きょうかん】を呼【よ】んだ。",
+    "meaning": "His speech evoked empathy from everyone."
+  },
+  {
+    "sentence": "遠くの救急車のサイレンが響いた。",
+    "sentence_furigana": "遠【とお】くの救急車【きゅうきゅうしゃ】のサイレンが響【ひび】いた。",
+    "meaning": "The siren of an ambulance in the distance echoed."
+  },
+  {
+    "sentence": "その事件の衝撃は社会に響いた。",
+    "sentence_furigana": "その事件【じけん】の衝撃【しょうげき】は社会【しゃかい】に響【ひび】いた。",
+    "meaning": "The shock of that incident resonated with society."
+  },
+  {
+    "sentence": "彼の励ましの言葉は彼女の心に響いた。",
+    "sentence_furigana": "彼【かれ】の励【はげ】ましのに言葉【ことば】は彼女【かのじょ】の心【こころ】に響【ひび】いた。",
+    "meaning": "His encouraging words resonated with her heart."
+  },
+  {
+    "sentence": "夜中に響く狼の遠吠えが不気味だった。",
+    "sentence_furigana": "夜中【よなか】に響【ひび】く狼【おおかみ】の遠吠【とおぼ】えが不気味【ぶきみ】だった。",
+    "meaning": "The distant howl of a wolf echoing in the middle of the night was eerie."
+  },
+  {
+    "sentence": "その歴史は今も人々の記憶に響いている。",
+    "sentence_furigana": "その歴史【れきし】は今【いま】も人々【ひとびと】のに記憶【きおく】に響【ひび】いている。",
+    "meaning": "That history still resonates in people's memories."
+  },
+  {
+    "sentence": "彼の力強い歌声は会場を魅了した。",
+    "sentence_furigana": "彼【かれ】の力強【ちからづよ】い歌声【うたごえ】は会場【かいじょう】を魅了【みりょう】した。",
+    "meaning": "His powerful singing voice captivated the audience."
+  },
+  {
+    "sentence": "遠くの爆撃音が静寂を破った。",
+    "sentence_furigana": "遠【とお】くの爆撃音【ばくげきおん】が静寂【せいじゃく】を破【やぶ】った。",
+    "meaning": "Distant bombing sounds broke the silence."
+  },
+  {
+    "sentence": "その言葉は私の心に深く響いた。",
+    "sentence_furigana": "その言葉【ことば】は私【わたし】のに心【こころ】に深【ふか】く響【ひび】いた。",
+    "meaning": "Those words resonated deeply in my heart."
+  },
+  {
+    "sentence": "山の頂上から歓声が響き渡った。",
+    "sentence_furigana": "山【やま】の頂上【ちょうじょう】から歓声【かんせい】が響【ひび】き渡【わた】った。",
+    "meaning": "Cheers resounded from the mountaintop."
+  },
+  {
+    "sentence": "彼の演説は聴衆の感動を呼んだ。",
+    "sentence_furigana": "彼【かれ】の演説【えんぜつ】は聴衆【ちょうしゅう】の感動【かんどう】を呼【よ】んだ。",
+    "meaning": "His speech moved the audience."
+  },
+  {
+    "sentence": "その知らせは全国津々浦々に響き渡った。",
+    "sentence_furigana": "その知【し】らせは全国津々浦々【ぜんこくつづうらうら】に響【ひび】き渡【わた】った。",
+    "meaning": "The news spread to every corner of the country."
+  },
+  {
+    "sentence": "朝の鳥のさえずりが静かに響いていた。",
+    "sentence_furigana": "朝【あさ】のに鳥【とり】のさえずりが静【しず】かに響【ひび】いていた。",
+    "meaning": "The morning birdsong was echoing softly."
+  },
+  {
+    "sentence": "祝祭の音楽が街に響き渡った。",
+    "sentence_furigana": "祝祭【しゅくさい】のが音楽【おんがく】が街【まち】に響【ひび】き渡【わた】った。",
+    "meaning": "Festival music echoed through the city."
+  },
+  {
+    "sentence": "彼の歌声は多くの人の心を打ちました。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は多【おお】くの人のが心【こころ】を打【う】ちました。",
+    "meaning": "His singing voice touched the hearts of many people."
+  },
+  {
+    "sentence": "遠くの鐘の音が響き、時を告げていた。",
+    "sentence_furigana": "遠【おお】くの鐘【かね】の音【おと】が響【ひび】き、時【とき】を告【つ】げていた。",
+    "meaning": "The sound of a distant bell echoed, telling the time."
+  },
+  {
+    "sentence": "彼の言葉は人々の心に強く響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は人々【ひとびと】のに心【こころ】に強【つよ】く響【ひび】いた。",
+    "meaning": "His words strongly resonated with people's hearts."
+  },
+  {
+    "sentence": "その知らせは社会全体に響いた。",
+    "sentence_furigana": "その知【し】らせは社会【しゃかい】全体【ぜんたい】に響【ひび】いた。",
+    "meaning": "That news reverberated throughout society."
+  },
+  {
+    "sentence": "山の峰々にこだまする応援の声が響いた。",
+    "sentence_furigana": "山【やま】のに峰々【みねみね】にこだまする応援【おうえん】の声【こえ】が響【ひび】いた。",
+    "meaning": "Cheers echoing from the mountain peaks resounded."
+  },
+  {
+    "sentence": "彼の力強い言葉は聴衆の胸に響いた。",
+    "sentence_furigana": "彼【かれ】の力強【ちからづよ】い言葉【ことば】は聴衆【ちょうしゅう】のに胸【むね】に響【ひび】いた。",
+    "meaning": "His powerful words resonated in the audience's hearts."
+  },
+  {
+    "sentence": "静かな夜に遠くで聞こえるギターの音色が響いた。",
+    "sentence_furigana": "静【しず】かな夜【よる】に遠【とお】くで聞【き】こえるギターのが音色【ねいろ】が響【ひび】いた。",
+    "meaning": "The sound of a guitar heard in the distance echoed in the quiet night."
+  },
+  {
+    "sentence": "その事件の記憶は今でも多くの人の心に響いている。",
+    "sentence_furigana": "その事件【じけん】の記憶【きおく】は今【いま】でも多【おお】くの人のが心【こころ】に響【ひび】いている。",
+    "meaning": "The memory of that incident still resonates in the hearts of many people."
+  },
+  {
+    "sentence": "教会のオルガンが荘厳な響きを奏でた。",
+    "sentence_furigana": "教会【きょうかい】のがオルガンが荘厳【そうごん】な響【ひび】きを奏【かな】でた。",
+    "meaning": "The church organ played a solemn sound."
+  },
+  {
+    "sentence": "彼の熱心な訴えは人々の心を動かした。",
+    "sentence_furigana": "彼【かれ】の熱心【ねっしん】な訴【うった】えは人々【ひとびと】のを心【こころ】を動【うご】かした。",
+    "meaning": "His earnest appeal moved people's hearts."
+  },
+  {
+    "sentence": "遠くから響く太鼓の音が祭りの始まりを告げた。",
+    "sentence_furigana": "遠【とお】くから響【ひび】く太鼓【たいこ】の音【おと】が祭【まつ】りの始【はじ】まりを告【つ】げた。",
+    "meaning": "The sound of drums echoing from afar announced the start of the festival."
+  },
+  {
+    "sentence": "その知らせは世界中に響き渡った。",
+    "sentence_furigana": "その知【し】らせは世界中【せかいじゅう】に響【ひび】き渡【わた】った。",
+    "meaning": "The news spread throughout the world."
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "彼は営利目的で会社を設立した。",
+    "sentence_furigana": "彼【かれ】は営【えい】利【り】目【もく】的【てき】で会社【かいしゃ】を設立【せつりつ】した。",
+    "meaning": "He established the company for profit."
+  },
+  {
+    "sentence": "キャンプの設営は大変だったが、楽しかった。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】は大変【たいへん】だったが、楽【たの】しかった。",
+    "meaning": "Setting up the camp was hard, but fun."
+  },
+  {
+    "sentence": "新しい事業を営むために、資金を集めている。",
+    "sentence_furigana": "新【あたら】しい事業【じぎょう】を営【いとな】むために、資金【しきん】を集【あつ】めている。",
+    "meaning": "I am raising funds to conduct a new business."
+  },
+  {
+    "sentence": "この地域では農業が主な産業です。",
+    "sentence_furigana": "この地域【ちいき】では農業【のうぎょう】が主【おも】な産業【さんぎょう】です。",
+    "meaning": "Agriculture is the main industry in this region."
+  },
+  {
+    "sentence": "学校の文化祭を成功裏に営んだ。",
+    "sentence_furigana": "学校【がっこう】の文化祭【ぶんかさい】を成功裏【せいこうり】に営【いとな】んだ。",
+    "meaning": "We conducted the school festival successfully."
+  },
+  {
+    "sentence": "軍隊は野営地を設営した。",
+    "sentence_furigana": "軍隊【ぐんたい】は野営【やえい】地【ち】を設【せつ】営【えい】した。",
+    "meaning": "The army set up an encampment."
+  },
+  {
+    "sentence": "彼女は長年、個人商店を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、個人商店【こじんしょうてん】を営【いとな】んできた。",
+    "meaning": "She has been running a small private business for many years."
+  },
+  {
+    "sentence": "政府は新しい公共事業を計画している。",
+    "sentence_furigana": "政府【せいふ】は新【あたら】しい公共事業【こうきょうじぎょう】を計画【けいかく】している。",
+    "meaning": "The government is planning a new public works project."
+  },
+  {
+    "sentence": "彼は小さなカフェを営んでいる。",
+    "sentence_furigana": "彼【かれ】は小【ちい】さなカフェを営【いとな】んでいる。",
+    "meaning": "He runs a small cafe."
+  },
+  {
+    "sentence": "キャンプサイトの設営が終わった。",
+    "sentence_furigana": "キャンプサイトの設【せつ】営【えい】が終わ【お】った。",
+    "meaning": "The campsite setup is finished."
+  },
+  {
+    "sentence": "彼は営繕係として働いている。",
+    "sentence_furigana": "彼【かれ】は営【えい】繕【ぜん】係【がかり】として働【はたら】いている。",
+    "meaning": "He works as a maintenance man."
+  },
+  {
+    "sentence": "この店は家族経営で、アットホームな雰囲気だ。",
+    "sentence_furigana": "この店【みせ】は家族経営【かぞくけいえい】で、アットホームな雰囲気【ふんいき】だ。",
+    "meaning": "This store is family-run and has a cozy atmosphere."
+  },
+  {
+    "sentence": "夏休みには野営をする予定だ。",
+    "sentence_furigana": "夏休【なつやす】みには野営【やえい】をする予定【よてい】だ。",
+    "meaning": "We plan to camp during summer vacation."
+  },
+  {
+    "sentence": "新しいビジネスの営み方が重要だ。",
+    "sentence_furigana": "新【あたら】しいビジネスの営【いとな】み方【かた】が重要【じゅうよう】だ。",
+    "meaning": "The way of conducting new business is important."
+  },
+  {
+    "sentence": "彼は地域の発展のために事業を営んでいる。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】の発展【はってん】のために事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "He runs a business for the development of the region."
+  },
+  {
+    "sentence": "その会社は営利を追求している。",
+    "sentence_furigana": "その会社【かいしゃ】は営利【えいり】を追求【ついきゅう】している。",
+    "meaning": "That company pursues profit."
+  },
+  {
+    "sentence": "週末にキャンプを設営しました。",
+    "sentence_furigana": "週末【しゅうまつ】にキャンプを設【せつ】営【えい】しました。",
+    "meaning": "We set up camp on the weekend."
+  },
+  {
+    "sentence": "彼女は自らの手で事業を営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は自【みずか】らの手【て】で事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "She runs her business with her own hands."
+  },
+  {
+    "sentence": "キャンプの設営場所を探している。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】場所【ばしょ】を探【さが】している。",
+    "meaning": "I am looking for a place to set up camp."
+  },
+  {
+    "sentence": "この建物の営繕は市が行う。",
+    "sentence_furigana": "この建物【たてもの】の営【えい】繕【ぜん】は市【し】が行【おこな】う。",
+    "meaning": "The city will carry out the maintenance of this building."
+  },
+  {
+    "sentence": "彼は農業を営みながら、民宿も経営している。",
+    "sentence_furigana": "彼【かれ】は農業【のうぎょう】を営【いとな】みながら、民宿【みんしゅく】も経営【けいえい】している。",
+    "meaning": "While running a farm, he also manages a guesthouse."
+  },
+  {
+    "sentence": "兵士たちは陣地を設営した。",
+    "sentence_furigana": "兵士【へいし】たちはおちいぢを設【せつ】営【えい】した。",
+    "meaning": "The soldiers set up fortifications."
+  },
+  {
+    "sentence": "その会社の営利は前年を上回った。",
+    "sentence_furigana": "その会社【かいしゃ】の営利【えいり】は前年【ぜんねん】を上回【うわまわ】った。",
+    "meaning": "The company's profit exceeded that of the previous year."
+  },
+  {
+    "sentence": "彼女は地域に根差した事業を営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は地域【ちいき】に根差【ねざ】した事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "She runs a business rooted in the community."
+  },
+  {
+    "sentence": "キャンプの設営を手伝ってくれた。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】を手伝【てつだ】ってくれた。",
+    "meaning": "He helped me set up the camp."
+  },
+  {
+    "sentence": "彼は法律事務所を営んでいる。",
+    "sentence_furigana": "彼【かれ】は法律事務所【ほうりつじむしょ】を営【いとな】んでいる。",
+    "meaning": "He runs a law firm."
+  },
+  {
+    "sentence": "この地域では多くの商店が営まれている。",
+    "sentence_furigana": "この地域【ちいき】では多【おお】くの商店【しょうてん】が営【いとな】まれている。",
+    "meaning": "Many shops are operated in this area."
+  },
+  {
+    "sentence": "軍隊は敵陣に営みを築いた。",
+    "sentence_furigana": "軍隊【ぐんたい】は敵陣【てきじん】に営【いこ】いを築【きず】いた。",
+    "meaning": "The army built an encampment in enemy territory."
+  },
+  {
+    "sentence": "彼は長年、この店を営んできた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、この店【みせ】を営【いとな】んできた。",
+    "meaning": "He has run this shop for many years."
+  },
+  {
+    "sentence": "私たちはイベントの設営を手伝った。",
+    "sentence_furigana": "私【わたし】たちはいべんとの設【せつ】営【えい】を手伝【てつだ】った。",
+    "meaning": "We helped set up the event."
+  },
+  {
+    "sentence": "営利企業は株主の利益を最大化しようとする。",
+    "sentence_furigana": "営利企業【えいりきぎょう】は株主【かぬし】の利益【りえき】を最大化【さいだいか】しようとする。",
+    "meaning": "For-profit companies try to maximize shareholder profit."
+  },
+  {
+    "sentence": "彼は新しい事業の営みに情熱を注いでいる。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業【じぎょう】の営【いとな】みに情熱【じょうねつ】を注【そそ】いでいる。",
+    "meaning": "He is passionate about running his new business."
+  },
+  {
+    "sentence": "キャンプの設営は完了しました。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】は完了【かんりょう】しました。",
+    "meaning": "The camp setup has been completed."
+  },
+  {
+    "sentence": "この地域では、多くの人々が農業を営んでいる。",
+    "sentence_furigana": "この地域【ちいき】では、多【おお】くの人々【ひとびと】が農業【のうぎょう】を営【いとな】んでいる。",
+    "meaning": "In this region, many people are engaged in agriculture."
+  },
+  {
+    "sentence": "彼女は長年にわたり、個人経営の店を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】にわたり、個人経営【こじんけいえい】の店【みせ】を営【いとな】んできた。",
+    "meaning": "She has run her own privately-managed shop for many years."
+  },
+  {
+    "sentence": "軍隊は前進するために野営地を設営した。",
+    "sentence_furigana": "軍隊【ぐんたい】は前進【ぜんしん】するために野営【やえい】地【ち】を設【せつ】営【えい】した。",
+    "meaning": "The army set up an encampment to advance."
+  },
+  {
+    "sentence": "彼は営利目的で慈善事業を行っているわけではない。",
+    "sentence_furigana": "彼【かれ】は営利目的【えいりもくてき】で慈善事業【じぜんじぎょう】を行【おこな】っているわけではない。",
+    "meaning": "He is not running a charity for profit."
+  },
+  {
+    "sentence": "この店は祖父の代から営んでいる。",
+    "sentence_furigana": "この店【みせ】は祖父【そふ】の代【だい】から営【いとな】んでいる。",
+    "meaning": "This shop has been run since my grandfather's time."
+  },
+  {
+    "sentence": "彼らは新しい事業を営むために投資家を探している。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい事業【じぎょう】を営【いとな】むために投資家【とうしか】を探【さが】している。",
+    "meaning": "They are looking for investors to conduct a new business."
+  },
+  {
+    "sentence": "キャンプ場にテントを設営する。",
+    "sentence_furigana": "キャンプ場【じょう】にテントを設【せつ】営【えい】する。",
+    "meaning": "Set up tents at the campsite."
+  },
+  {
+    "sentence": "この会社は営繕サービスを提供しています。",
+    "sentence_furigana": "この会社【かいしゃ】は営【えい】繕【ぜん】サービスを提供【ていきょう】しています。",
+    "meaning": "This company provides maintenance services."
+  },
+  {
+    "sentence": "彼女は自身の事業を営むことを夢見ていた。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】の事業【じぎょう】を営【いとな】むことを夢見【ゆめみ】ていた。",
+    "meaning": "She dreamed of running her own business."
+  },
+  {
+    "sentence": "軍隊は作戦遂行のため、野営地を設営した。",
+    "sentence_furigana": "軍隊【ぐんたい】は作戦遂行【さくせんすいこう】のため、野営【やえい】地【ち】を設【せつ】営【えい】した。",
+    "meaning": "The army set up an encampment to carry out the operation."
+  },
+  {
+    "sentence": "彼は営利事業で成功を収めた。",
+    "sentence_furigana": "彼【かれ】は営利事業【えいりじぎょう】で成功【せいこう】を収【おさ】めた。",
+    "meaning": "He achieved success in his for-profit business."
+  },
+  {
+    "sentence": "この地域の住民は農業を営んでいる。",
+    "sentence_furigana": "この地域【ちいき】の住民【じゅうみん】は農業【のうぎょう】を営【いとな】んでいる。",
+    "meaning": "The residents of this area are engaged in agriculture."
+  },
+  {
+    "sentence": "彼女は小さな手芸店を営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は小【ちい】さな手芸店【しゅげいてん】を営【いとな】んでいる。",
+    "meaning": "She runs a small handicraft store."
+  },
+  {
+    "sentence": "週末のキャンプ設営を手伝ってください。",
+    "sentence_furigana": "週末【しゅうまつ】のキャンプ設【せつ】営【えい】を手伝【てつだ】ってください。",
+    "meaning": "Please help with setting up the camp this weekend."
+  },
+  {
+    "sentence": "彼は長年にわたり、この事業を営んできた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】にわたり、この事業【じぎょう】を営【いとな】んできた。",
+    "meaning": "He has been conducting this business for many years."
+  },
+  {
+    "sentence": "学校の敷地内にキャンプ場を設営する。",
+    "sentence_furigana": "学校【がっこう】の敷地内【しきちない】にキャンプ場【じょう】を設【せつ】営【えい】する。",
+    "meaning": "We will set up a campsite on the school grounds."
+  },
+  {
+    "sentence": "この建物は営繕が必要だ。",
+    "sentence_furigana": "この建物【たてもの】は営【えい】繕【ぜん】が必要【ひつよう】だ。",
+    "meaning": "This building needs maintenance."
+  },
+  {
+    "sentence": "彼は家族のために事業を営んでいる。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】のために事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "He runs a business for his family."
+  },
+  {
+    "sentence": "その企業は非営利団体として活動している。",
+    "sentence_furigana": "その企業【きぎょう】は非営利団体【ひえいりだんたい】として活動【かつどう】している。",
+    "meaning": "That organization operates as a non-profit organization."
+  },
+  {
+    "sentence": "兵士たちは移動のために野営地を設営した。",
+    "sentence_furigana": "兵士【へいし】たちは移動【いどう】のため、野営【やえい】地【ち】を設【せつ】営【えい】した。",
+    "meaning": "The soldiers set up an encampment for their movement."
+  },
+  {
+    "sentence": "彼女は自社の事業を営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は自社【じしゃ】の事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "She runs her own company's business."
+  },
+  {
+    "sentence": "新しい住宅地の造成は、長期的な視点で営む必要がある。",
+    "sentence_furigana": "新【あたら】しい住宅地【じゅうたくち】の造成【ぞうせい】は、長期【ちょうき】的【てき】な視点【してん】で営【いとな】む必要【ひつよう】がある。",
+    "meaning": "The development of new residential areas needs to be conducted with a long-term perspective."
+  },
+  {
+    "sentence": "キャンプの設営が終わったら、火をおこそう。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】が終わ【お】ったら、火【ひ】をおこそう。",
+    "meaning": "When the camp is set up, let's build a fire."
+  },
+  {
+    "sentence": "彼は長年、この地域で事業を営んできた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、この地域【ちいき】で事業【じぎょう】を営【いとな】んできた。",
+    "meaning": "He has been running a business in this area for many years."
+  },
+  {
+    "sentence": "その会社は営利追求を目的としている。",
+    "sentence_furigana": "その会社【かいしゃ】は営利追求【えいりついきゅう】を目的【もくてき】としている。",
+    "meaning": "That company aims for profit maximization."
+  },
+  {
+    "sentence": "彼女は家族経営のレストランを営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は家族経営【かぞくけいえい】のレストランを営【いとな】んでいる。",
+    "meaning": "She runs a family-run restaurant."
+  },
+  {
+    "sentence": "軍隊は野営地の設営を急いだ。",
+    "sentence_furigana": "軍隊【ぐんたい】は野営【やえい】地【ち】の設【せつ】営【えい】を急【いそ】いだ。",
+    "meaning": "The army hurried to set up the encampment."
+  },
+  {
+    "sentence": "彼らは地域社会の発展のために事業を営む。",
+    "sentence_furigana": "彼【かれ】らは地域社会【ちいきしゃかい】の発展【はってん】のために事業【じぎょう】を営【いとな】む。",
+    "meaning": "They run businesses for the development of the local community."
+  },
+  {
+    "sentence": "この店は私が子供の頃から営んでいる。",
+    "sentence_furigana": "この店【みせ】は私【わたし】が子供【こども】の頃【ころ】から営【いとな】んでいる。",
+    "meaning": "This shop has been run since I was a child."
+  },
+  {
+    "sentence": "設営されたキャンプ場は広々としていた。",
+    "sentence_furigana": "設【せつ】営【えい】されたキャンプ場【じょう】は広々【ひろびろ】としていた。",
+    "meaning": "The campsite that was set up was spacious."
+  },
+  {
+    "sentence": "彼女は長年、多くの人々に支えられて事業を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、多【おお】くの人々【ひとびと】に支【ささ】えられて事業【じぎょう】を営【いとな】んできた。",
+    "meaning": "She has been running her business with the support of many people for years."
+  },
+  {
+    "sentence": "彼は営利目的で活動している。",
+    "sentence_furigana": "彼【かれ】は営利目的【えいりもくてき】で活動【かつどう】している。",
+    "meaning": "He is active for profit."
+  },
+  {
+    "sentence": "軍隊は冬季の野営に備えて準備を進めた。",
+    "sentence_furigana": "軍隊【ぐんたい】は冬季【とうき】の野営【やえい】に備【そな】えて準備【じゅんび】を進【すす】めた。",
+    "meaning": "The army made preparations for winter camping."
+  },
+  {
+    "sentence": "彼らの事業の営みは地域経済に貢献している。",
+    "sentence_furigana": "彼ら【かれら】の事業【じぎょう】の営【いとな】みは地域経済【ちいきけいざい】に貢献【こうけん】している。",
+    "meaning": "Their business operations contribute to the local economy."
+  },
+  {
+    "sentence": "彼女は昔からこの商売を営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は昔【むかし】からこの商売【しょうばい】を営【いとな】んでいる。",
+    "meaning": "She has been in this business for a long time."
+  },
+  {
+    "sentence": "キャンプの設営は全て終わりました。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】は全部【ぜんぶ】終【お】わりました。",
+    "meaning": "All the camp setup is finished."
+  },
+  {
+    "sentence": "彼は地域のために事業を営んでいる。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】のために事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "He runs a business for the community."
+  },
+  {
+    "sentence": "この建物は営繕記録が残っている。",
+    "sentence_furigana": "この建物【たてもの】は営【えい】繕【ぜん】記録【きろく】が残【のこ】っている。",
+    "meaning": "This building has maintenance records."
+  },
+  {
+    "sentence": "彼女は長年、自分の店を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、自分【じぶん】の店【みせ】を営【いとな】んできた。",
+    "meaning": "She has run her own shop for many years."
+  },
+  {
+    "sentence": "軍隊は緊急の野営を強いられた。",
+    "sentence_furigana": "軍隊【ぐんたい】は緊急【きんきゅう】の野営【やえい】を強【し】いられた。",
+    "meaning": "The army was forced to make an emergency encampment."
+  },
+  {
+    "sentence": "彼らは地域経済の活性化のために事業を営んでいる。",
+    "sentence_furigana": "彼ら【かれら】は地域経済【ちいきけいざい】の活性化【かっせいか】のために事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "They conduct business to revitalize the local economy."
+  },
+  {
+    "sentence": "この牧場は家族経営だ。",
+    "sentence_furigana": "この牧場【ぼくじょう】は家族経営【かぞくけいえい】だ。",
+    "meaning": "This ranch is family-run."
+  },
+  {
+    "sentence": "彼はその事業を営むのに苦労している。",
+    "sentence_furigana": "彼【かれ】はその事業【じぎょう】を営【いとな】むのに苦労【くろう】している。",
+    "meaning": "He is struggling to run the business."
+  },
+  {
+    "sentence": "彼女は新しいビジネスを立ち上げ、営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいビジネスを立【た】ち上【あ】げ、営【いとな】んでいる。",
+    "meaning": "She started and is running a new business."
+  },
+  {
+    "sentence": "キャンプの設営に時間がかかった。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】に時間【じかん】がかかった。",
+    "meaning": "It took time to set up the camp."
+  },
+  {
+    "sentence": "営利団体は税金を免除される場合がある。",
+    "sentence_furigana": "営利団体【えいりだんたい】は税金【ぜいきん】を免除【めんじょ】される場合【ばあい】がある。",
+    "meaning": "For-profit organizations may be exempt from taxes."
+  },
+  {
+    "sentence": "彼は長年この地域の商店街で事業を営んできた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】この地域【ちいき】の商店街【しょうてんがい】で事業【じぎょう】を営【いとな】んできた。",
+    "meaning": "He has operated a business in the shopping street of this area for many years."
+  },
+  {
+    "sentence": "彼女は新しい事業を営むために多くの資金を調達した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい事業【じぎょう】を営【いとな】むために多【おお】くの資金【しきん】を調達【ちょうたつ】した。",
+    "meaning": "She raised a lot of funds to conduct her new business."
+  },
+  {
+    "sentence": "野営の準備が整った。",
+    "sentence_furigana": "野営【やえい】の準備【じゅんび】が整【ととの】った。",
+    "meaning": "Preparations for camping are complete."
+  },
+  {
+    "sentence": "このプロジェクトは営利目的ではありません。",
+    "sentence_furigana": "このプロジェクトは営利目的【えいりもくてき】ではありません。",
+    "meaning": "This project is not for profit."
+  },
+  {
+    "sentence": "彼は営繕の仕事を請け負っている。",
+    "sentence_furigana": "彼【かれ】は営【えい】繕【ぜん】の仕事【しごと】を請負【うけお】っている。",
+    "meaning": "He undertakes maintenance work."
+  },
+  {
+    "sentence": "彼女は長年、この土地で農業を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、この土地【とち】で農業【のうぎょう】を営【いとな】んできた。",
+    "meaning": "She has been farming this land for many years."
+  },
+  {
+    "sentence": "彼らは平和的な事業を営むことを目指している。",
+    "sentence_furigana": "彼ら【かれら】は平和的【へいわてき】な事業【じぎょう】を営【いとな】むことを目指【めざ】している。",
+    "meaning": "They aim to conduct peaceful business."
+  },
+  {
+    "sentence": "キャンプの設営場所はここで良いですか？",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】場所【ばしょ】はここ で良【よ】いですか？",
+    "meaning": "Is this a good place to set up camp?"
+  },
+  {
+    "sentence": "その会社は営利追求に固執している。",
+    "sentence_furigana": "その会社【かいしゃ】は営利追求【えいりついきゅう】に固執【こしゅう】している。",
+    "meaning": "That company is fixated on profit pursuit."
+  },
+  {
+    "sentence": "彼女は自分で事業を営むことに決めた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】で事業【じぎょう】を営【いとな】むことに決【き】めた。",
+    "meaning": "She decided to run her own business."
+  },
+  {
+    "sentence": "軍隊は厳寒の中での野営を強いられた。",
+    "sentence_furigana": "軍隊【ぐんたい】は厳寒【げんかん】の中【なか】での野営【やえい】を強【し】いられた。",
+    "meaning": "The army was forced to encamp in the severe cold."
+  },
+  {
+    "sentence": "彼らは地域社会に貢献する事業を営んでいる。",
+    "sentence_furigana": "彼ら【かれら】は地域社会【ちいきしゃかい】に貢献【こうけん】する事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "They run businesses that contribute to the local community."
+  },
+  {
+    "sentence": "彼女は家族の事業を継ぎ、営んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の事業【じぎょう】を継【つ】ぎ、営【いとな】んでいる。",
+    "meaning": "She inherited and is running her family's business."
+  },
+  {
+    "sentence": "キャンプの設営が終わったら休憩しましょう。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】が終わ【お】ったら休憩【きゅうけい】しましょう。",
+    "meaning": "Let's take a break after setting up the camp."
+  },
+  {
+    "sentence": "この農家は代々農業を営んできた。",
+    "sentence_furigana": "この農家【のうか】は代々【だいだい】農業【のうぎょう】を営【いとな】んできた。",
+    "meaning": "This farmer's family has been engaged in agriculture for generations."
+  },
+  {
+    "sentence": "彼は長年、飲食業を営んでいる。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、飲食業【いんしょくぎょう】を営【いとな】んでいる。",
+    "meaning": "He has been in the restaurant business for many years."
+  },
+  {
+    "sentence": "軍隊は撤退のために野営地を設営した。",
+    "sentence_furigana": "軍隊【ぐんたい】は撤退【てったい】のため、野営【やえい】地【ち】を設【せつ】営【えい】した。",
+    "meaning": "The army established an encampment for withdrawal."
+  },
+  {
+    "sentence": "彼女は新しい事業を営むための計画を立てた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい事業【じぎょう】を営【いとな】むための計画【けいかく】を立【た】てた。",
+    "meaning": "She made a plan to conduct a new business."
+  },
+  {
+    "sentence": "彼らは地域に根ざした事業を営んでいる。",
+    "sentence_furigana": "彼ら【かれら】は地域【ちいき】に根差【ねざ】した事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "They run businesses rooted in the local community."
+  },
+  {
+    "sentence": "キャンプの設営を手伝っていただけますか？",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】を手伝【てつだ】っていただけますか？",
+    "meaning": "Could you help me set up the camp?"
+  },
+  {
+    "sentence": "彼は長年、この商店を営み、地域に貢献してきた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、この商店【しょうてん】を営【いとな】み、地域【ちいき】に貢献【こうけん】してきた。",
+    "meaning": "He has run this shop for many years and contributed to the community."
+  },
+  {
+    "sentence": "その会社は営利を追求する一方で、社会貢献も行っている。",
+    "sentence_furigana": "その会社【かいしゃ】は営利【えいり】を追求【ついきゅう】する一方【いっぽう】で、社会貢献【しゃかいこうけん】も行【おこな】っている。",
+    "meaning": "While pursuing profit, the company also engages in social contribution."
+  },
+  {
+    "sentence": "彼女は長年、この場所で商売を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、この場所【ばしょ】で商売【しょうばい】を営【いとな】んできた。",
+    "meaning": "She has been doing business in this place for many years."
+  },
+  {
+    "sentence": "彼らは地元の食材を使った事業を営んでいる。",
+    "sentence_furigana": "彼ら【かれら】は地元【じもと】の食材【しょくざい】を使【つか】った事業【じぎょう】を営【いとな】んでいる。",
+    "meaning": "They run businesses using local ingredients."
+  },
+  {
+    "sentence": "キャンプの設営場所の選定が重要だ。",
+    "sentence_furigana": "キャンプの設【せつ】営【えい】場所【ばしょ】の選定【せんてい】が重要【じゅうよう】だ。",
+    "meaning": "Selecting the campsite location is important."
+  },
+  {
+    "sentence": "この工場は営利目的で操業している。",
+    "sentence_furigana": "この工場【こうじょう】は営利目的【えいりもくてき】で操業【そうぎょう】している。",
+    "meaning": "This factory operates for profit."
+  },
+  {
+    "sentence": "彼女は長年、地域の活性化のために事業を営んできた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、地域【ちいき】の活性化【かっせいか】のために事業【じぎょう】を営【いとな】んできた。",
+    "meaning": "She has been running a business for the revitalization of the community for many years."
+  },
+  {
+    "sentence": "彼らは持続可能な事業を営むことを目指している。",
+    "sentence_furigana": "彼ら【かれら】は持続可能【じぞくかのう】な事業【じぎょう】を営【いとな】むことを目指【めざ】している。",
+    "meaning": "They aim to conduct sustainable businesses."
+  },
+  {
+    "sentence": "軍隊は敵前での野営を避けた。",
+    "sentence_furigana": "軍隊【ぐんたい】は敵前【てきぜん】での野営【やえい】を避【さ】けた。",
+    "meaning": "The army avoided camping in front of the enemy."
+  },
+  {
+    "sentence": "彼女は長年、この地域で商売を営んできた実績がある。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、この地域【ちいき】で商売【しょうばい】を営【いとな】んできた実績【じっせき】がある。",
+    "meaning": "She has a track record of doing business in this area for many years."
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "この薬は傷を癒やす効果がある。",
+    "sentence_furigana": "この薬【くすり】は傷【きず】を癒【いや】やす効果【こうか】がある。",
+    "meaning": "This medicine has the effect of healing wounds."
+  },
+  {
+    "sentence": "彼の言葉は私の心を癒やしてくれた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】の心【こころ】を癒【いや】してくれた。",
+    "meaning": "His words healed my heart."
+  },
+  {
+    "sentence": "長い旅で喉が渇いたので、水を飲んで癒した。",
+    "sentence_furigana": "長【なが】い旅【たび】で喉【のど】が渇【かわ】いたので、水【みず】飲【の】んで癒【いや】した。",
+    "meaning": "My throat was dry from the long journey, so I drank water to quench my thirst."
+  },
+  {
+    "sentence": "森林浴は心身の疲れを癒す。",
+    "sentence_furigana": "森林浴【しんりんよく】は心身【しんしん】の疲【つか】れを癒【いや】す。",
+    "meaning": "Forest bathing heals the mind and body's fatigue."
+  },
+  {
+    "sentence": "彼女の笑顔は見る人の心を癒す力がある。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は見【み】る人【ひと】の心【こころ】を癒【いや】す力【ちから】がある。",
+    "meaning": "Her smile has the power to heal the hearts of those who see it."
+  },
+  {
+    "sentence": "この温泉は病を癒すと言われている。",
+    "sentence_furigana": "この温泉【おんせん】は病【やまい】を癒【い】やすと言【い】われている。",
+    "meaning": "This hot spring is said to cure illness."
+  },
+  {
+    "sentence": "彼のユーモアは場の雰囲気を和らげ、緊張を癒した。",
+    "sentence_furigana": "彼【かれ】のユーモアは場【ば】の雰囲気【ふんいき】を和【なご】らげ、緊張【きんちょう】を癒【いや】した。",
+    "meaning": "His humor softened the atmosphere and relieved the tension."
+  },
+  {
+    "sentence": "子供の頃の怪我は時と共に癒えていく。",
+    "sentence_furigana": "子供【こども】の頃【ころ】の怪我【けが】は時【とき】と共【とも】に癒【い】えていく。",
+    "meaning": "Childhood injuries heal with time."
+  },
+  {
+    "sentence": "彼女は天然の薬草で多くの病を癒してきた。",
+    "sentence_furigana": "彼女【かのじょ】は天然【てんねん】の薬草【やくそう】で多【おお】くの病【やまい】を癒【いや】してきた。",
+    "meaning": "She has healed many illnesses with natural herbs."
+  },
+  {
+    "sentence": "新しい趣味を見つけることで、心の傷を癒すことができる。",
+    "sentence_furigana": "新【あたら】しい趣味【しゅみ】を見【み】つけることで、心【こころ】の傷【きず】を癒【いや】すことができる。",
+    "meaning": "You can heal emotional wounds by finding a new hobby."
+  },
+  {
+    "sentence": "失恋の痛みは時間薬でしか癒せない。",
+    "sentence_furigana": "失恋【しつれん】の痛【いた】みは時間薬【じかんぐすり】でしか癒【いや】せない。",
+    "meaning": "The pain of a broken heart can only be healed by time."
+  },
+  {
+    "sentence": "この静かな場所は、私の心を癒してくれる。",
+    "sentence_furigana": "この静【しず】かな場所【ばしょ】は、私【わたし】の心【こころ】を癒【いや】してくれる。",
+    "meaning": "This quiet place heals my soul."
+  },
+  {
+    "sentence": "彼の温かい言葉が、心の傷を癒してくれた。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かい言葉【ことば】が、心【こころ】の傷【きず】を癒【いや】してくれた。",
+    "meaning": "His warm words healed my emotional wounds."
+  },
+  {
+    "sentence": "手術の傷跡も、次第に癒えていくものだ。",
+    "sentence_furigana": "手術【しゅじゅつ】の傷跡【きずあと】も、次第【しだい】に癒【い】えていくものだ。",
+    "meaning": "Surgical scars also heal gradually."
+  },
+  {
+    "sentence": "この植物には、怪我を癒す不思議な力があるらしい。",
+    "sentence_furigana": "この植物【しょくぶつ】には、怪我【けが】を癒【いや】す不思議【ふしぎ】な力【ちから】があるらしい。",
+    "meaning": "This plant seems to have a mysterious power to heal injuries."
+  },
+  {
+    "sentence": "彼女は自然の中で静かに心を癒していた。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の中【なか】で静【しず】かに心【こころ】を癒【いや】していた。",
+    "meaning": "She was quietly healing her mind in nature."
+  },
+  {
+    "sentence": "夏の暑さで喉がカラカラだったので、冷たい飲み物で癒した。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さで喉【のど】がカラカラだったので、冷【つめ】たい飲【の】み物【もの】で癒【いや】した。",
+    "meaning": "My throat was very dry from the summer heat, so I quenched it with a cold drink."
+  },
+  {
+    "sentence": "彼の歌声は聴く者の心を癒す。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は聞【き】く者【もの】の心【こころ】を癒【いや】す。",
+    "meaning": "His singing voice heals the listener's heart."
+  },
+  {
+    "sentence": "この地域の温泉は、万病を癒す効果があるという伝説がある。",
+    "sentence_furigana": "この地域【ちいき】の温泉【おんせん】は、万病【まんびょう】を癒【い】やす効果【こうか】があるという伝説【でんせつ】がある。",
+    "meaning": "There is a legend that the hot springs in this region have the effect of curing all diseases."
+  },
+  {
+    "sentence": "過去のトラウマを乗り越え、心を癒すことができた。",
+    "sentence_furigana": "過去【かこ】のトラウマを乗【の】り越【こ】え、心【こころ】を癒【いや】すことができた。",
+    "meaning": "I was able to overcome past trauma and heal my mind."
+  },
+  {
+    "sentence": "子供の怪我は親の心をも癒す。",
+    "sentence_furigana": "子供【こども】の怪我【けが】は親【おや】の心【こころ】をも癒【いや】す。",
+    "meaning": "A child's injury also heals a parent's heart."
+  },
+  {
+    "sentence": "彼は忙しい日常の中で、週末の読書で心を癒している。",
+    "sentence_furigana": "彼【かれ】は忙【いそが】しい日常【にちじょう】の中【なか】で、週末【しゅうまつ】の読書【どくしょ】で心【こころ】を癒【いや】している。",
+    "meaning": "He heals his mind by reading on weekends amidst his busy daily life."
+  },
+  {
+    "sentence": "このハーブティーは、疲れた体を癒してくれます。",
+    "sentence_furigana": "このハーブティーは、疲【つか】れた体【からだ】を癒【いや】してくれます。",
+    "meaning": "This herbal tea will heal your tired body."
+  },
+  {
+    "sentence": "事故で負った怪我は、長い時間をかけてようやく癒えた。",
+    "sentence_furigana": "事故【じこ】で負【お】った怪我【けが】は、長【なが】い時間【じかん】をかけてようやく癒【い】えた。",
+    "meaning": "The injury sustained in the accident finally healed over a long period of time."
+  },
+  {
+    "sentence": "彼女の温かい抱擁が、私の心の痛みを癒してくれた。",
+    "sentence_furigana": "彼女【かのじょ】の温【あたた】かい抱擁【ほうよう】が、私【わたし】の心【こころ】の痛【いた】みを癒【いや】してくれた。",
+    "meaning": "Her warm hug healed my heartache."
+  },
+  {
+    "sentence": "長年の苦しみが、ついに癒される時が来た。",
+    "sentence_furigana": "長年【ながねん】の苦【くる】しみがない、ついに癒【いや】される時【とき】が来【き】た。",
+    "meaning": "The time has finally come for the long-standing suffering to be healed."
+  },
+  {
+    "sentence": "この自然療法は、内側から体を癒す効果がある。",
+    "sentence_furigana": "この自然療法【しぜんりょうほう】は、内側【うちがわ】から体【からだ】を癒【いや】す効果【こうか】がある。",
+    "meaning": "This natural therapy has the effect of healing the body from within."
+  },
+  {
+    "sentence": "故郷の風景を見ることで、心の傷が癒されることがある。",
+    "sentence_furigana": "故郷【ふるさと】の風景【ふうけい】を見【み】ることで、心【こころ】の傷【きず】が癒【いや】されることがある。",
+    "meaning": "Seeing the scenery of one's hometown can sometimes heal emotional wounds."
+  },
+  {
+    "sentence": "彼の音楽は、多くの人々の心を癒してきた。",
+    "sentence_furigana": "彼【かれ】の音楽【おんがく】は、多【おお】くの人々【ひとびと】の心【こころ】を癒【いや】してきた。",
+    "meaning": "His music has healed the hearts of many people."
+  },
+  {
+    "sentence": "夏バテで食欲がなかったが、冷たい麺類で喉を癒した。",
+    "sentence_furigana": "夏バテで食欲【しょくよく】がなかったが、冷【つめ】たい麺類【めんるい】で喉【のど】を癒【いや】した。",
+    "meaning": "I had no appetite due to summer fatigue, but I quenched my thirst with cold noodles."
+  },
+  {
+    "sentence": "このアロマオイルは、リラックス効果があり、心を癒す。",
+    "sentence_furigana": "このアロマオイルは、リラックス効果【こうか】があり、心【こころ】を癒【いや】す。",
+    "meaning": "This aroma oil has a relaxing effect and heals the mind."
+  },
+  {
+    "sentence": "彼女はボランティア活動を通じて、社会の傷を癒そうとしている。",
+    "sentence_furigana": "彼女【かのじょ】はボランティア活動【かつどう】を通じて【つうじ】て、社会【しゃかい】の傷【きず】を癒【いや】そうとしている。",
+    "meaning": "She is trying to heal societal wounds through volunteer activities."
+  },
+  {
+    "sentence": "運動後のストレッチは、筋肉の疲れを癒すのに役立つ。",
+    "sentence_furigana": "運動後【うんどうご】のストレッチは、筋肉【きんにく】の疲【つか】れを癒【いや】すのに役立【やくだ】つ。",
+    "meaning": "Stretching after exercise helps to heal muscle fatigue."
+  },
+  {
+    "sentence": "この昔話には、人々の心を癒す教訓が含まれている。",
+    "sentence_furigana": "この昔話【むかしばなし】には、人々【ひとびと】の心【こころ】を癒【いや】す教訓【きょうくん】が含ま【ふくま】れている。",
+    "meaning": "This old tale contains a lesson that heals people's hearts."
+  },
+  {
+    "sentence": "乾燥した肌を、保湿クリームで癒す。",
+    "sentence_furigana": "乾燥【かんそう】した肌【はだ】を、保湿クリームで癒【いや】す。",
+    "meaning": "Heal dry skin with moisturizing cream."
+  },
+  {
+    "sentence": "彼の温かい人柄が、周囲の人々の心を癒していた。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かい人柄【ひとがら】が、周囲【しゅうい】の人々【ひとびと】の心【こころ】を癒【いや】していた。",
+    "meaning": "His warm personality healed the hearts of those around him."
+  },
+  {
+    "sentence": "この洞窟には、病を癒す力を持つとされる泉がある。",
+    "sentence_furigana": "この洞窟【どうくつ】には、病【やまい】を癒【い】やす力【ちから】を持【も】つとされる泉【いずみ】がある。",
+    "meaning": "In this cave, there is a spring said to have the power to cure illness."
+  },
+  {
+    "sentence": "長旅の疲れを、故郷の美味しい料理で癒した。",
+    "sentence_furigana": "長旅【ながたび】の疲【つか】れを、故郷【こきょう】の美味【おい】しい料理【りょうり】で癒【いや】した。",
+    "meaning": "I healed the fatigue of my long journey with delicious food from my hometown."
+  },
+  {
+    "sentence": "彼女の絵は、見る人の心を優しく癒す。",
+    "sentence_furigana": "彼女【かのじょ】の絵【え】は、見【み】る人【ひと】の心【こころ】を優【やさ】しく癒【いや】す。",
+    "meaning": "Her paintings gently heal the hearts of those who see them."
+  },
+  {
+    "sentence": "この海岸の静けさが、私の荒んだ心を癒してくれる。",
+    "sentence_furigana": "この海岸【かいがん】の静【しず】けさが、私【わたし】の荒【すさ】んだ心【こころ】を癒【いや】してくれる。",
+    "meaning": "The tranquility of this coast heals my rough spirit."
+  },
+  {
+    "sentence": "失ったものを嘆くだけでは、心の傷は癒えない。",
+    "sentence_furigana": "失【うしな】ったものを嘆【なげ】くだけでは、心【こころ】の傷【きず】は癒【いや】えない。",
+    "meaning": "Simply lamenting what you've lost won't heal your emotional wounds."
+  },
+  {
+    "sentence": "彼の朗らかな声は、聞いているだけで元気になり、心を癒してくれる。",
+    "sentence_furigana": "彼【かれ】の朗【ほが】らかな声【こえ】は、聞【き】いているだけで元気【げんき】になり、心【こころ】を癒【いや】してくれる。",
+    "meaning": "His cheerful voice makes you feel energetic just by listening and heals your mind."
+  },
+  {
+    "sentence": "古い傷跡が、気候の変化で疼き、癒える様子がない。",
+    "sentence_furigana": "古【ふる】い傷跡【きずあと】が、気候【きこう】の変化【へんか】で疼【うず】き、癒【い】える様子【ようす】がない。",
+    "meaning": "Old scars ache with changes in climate and show no signs of healing."
+  },
+  {
+    "sentence": "この寺の落ち着いた雰囲気は、訪れる人々の心を癒す。",
+    "sentence_furigana": "この寺【てら】の落【お】ち着【つ】いた雰囲気【ふんいき】は、訪【おとず】れる人々【ひとびと】の心【こころ】を癒【いや】す。",
+    "meaning": "The calm atmosphere of this temple heals the hearts of its visitors."
+  },
+  {
+    "sentence": "子供の健やかな成長を見ることは、親にとって最高の癒しである。",
+    "sentence_furigana": "子供【こども】の健【すこ】やかな成長【せいちょう】を見【み】ることは、親【おや】にとって最高【さいこう】の癒【いや】しである。",
+    "meaning": "Watching a child's healthy growth is the greatest comfort for a parent."
+  },
+  {
+    "sentence": "彼女は悲しみを乗り越え、心の傷を癒すための旅に出た。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しみを乗【の】り越【こ】え、心【こころ】の傷【きず】を癒【いや】すための旅【たび】に出【で】た。",
+    "meaning": "She overcame her sadness and went on a journey to heal her emotional wounds."
+  },
+  {
+    "sentence": "この山の空気は清々しく、旅の疲れを癒してくれた。",
+    "sentence_furigana": "この山【やま】の空気【くうき】は清々【すがすが】しく、旅【たび】の疲【つか】れを癒【いや】してくれた。",
+    "meaning": "The air in this mountain was refreshing and healed the fatigue of my journey."
+  },
+  {
+    "sentence": "彼の詩は、言葉の一つ一つが心の傷を癒すような温かさを持っている。",
+    "sentence_furigana": "彼【かれ】の詩【し】は、言葉【ことば】の一【ひと】つひとが心【こころ】の傷【きず】を癒【いや】すような温【あたた】かさを持【も】っている。",
+    "meaning": "Each word in his poetry has a warmth that seems to heal emotional wounds."
+  },
+  {
+    "sentence": "一杯の温かいお茶が、冷え切った体を癒してくれる。",
+    "sentence_furigana": "一杯【いっぱい】の温【あたた】かいお茶【ちゃ】が、冷【ひ】え切【き】った体【からだ】を癒【いや】してくれる。",
+    "meaning": "A cup of warm tea will heal my chilled body."
+  },
+  {
+    "sentence": "この寺院の静寂は、都会の喧騒で疲れた心を癒す。",
+    "sentence_furigana": "この寺院【じいん】の静寂【せいじゃく】は、都会【とかい】の喧騒【けんそう】で疲【つか】れた心【こころ】を癒【いや】す。",
+    "meaning": "The silence of this temple heals the mind tired from the hustle and bustle of the city."
+  },
+  {
+    "sentence": "長年の努力が実を結び、ついに彼の長年の苦しみが癒えた。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が実【み】を結【むす】び、ついに彼【かれ】の長年【ながねん】の苦【くる】しみが癒【い】えた。",
+    "meaning": "After years of effort bore fruit, his long-standing suffering finally healed."
+  },
+  {
+    "sentence": "彼女の優しい声は、不安でいっぱいだった私の心に安らぎを与え、癒してくれた。",
+    "sentence_furigana": "彼女【かのじょ】の優【やさ】しい声【こえ】は、不安【ふあん】でいっぱいだった私【わたし】の心【こころ】に安楽【あんらく】を与【あた】え、癒【いや】してくれた。",
+    "meaning": "Her gentle voice gave peace to my anxious heart and healed me."
+  },
+  {
+    "sentence": "この川のせせらぎを聞いていると、心が洗われるようで、不思議と癒される。",
+    "sentence_furigana": "この川【かわ】のせせらぎを聞【き】いていると、心【こころ】が洗【あら】われるようで、不思議【ふしぎ】と癒【いや】される。",
+    "meaning": "Listening to the babbling of this river washes my soul and mysteriously heals me."
+  },
+  {
+    "sentence": "日差しが強くて喉が渇いたので、スポーツドリンクで喉を癒した。",
+    "sentence_furigana": "日差【ひざ】しが強【つよ】くて喉【のど】が渇【かわ】いたので、スポーツドリンクで喉【のど】を癒【いや】した。",
+    "meaning": "The sunlight was strong and my throat was dry, so I quenched it with a sports drink."
+  },
+  {
+    "sentence": "この音楽療法は、患者の精神的な苦痛を癒すために用いられている。",
+    "sentence_furigana": "この音楽療法【おんがくりょうほう】は、患者【かんじゃ】の精神的【せいしんてき】な苦痛【くつう】を癒【いや】すために用【もち】いられている。",
+    "meaning": "This music therapy is used to heal the psychological distress of patients."
+  },
+  {
+    "sentence": "失恋の痛みを乗り越えるには、時間がかかっても、自分を癒す努力が必要だ。",
+    "sentence_furigana": "失恋【しつれん】の痛【いた】みを乗【の】り越【こ】えるには、時間【じかん】がかかっても、自分【じぶん】を癒【いや】す努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "To overcome the pain of a broken heart, it takes time, but you need to make an effort to heal yourself."
+  },
+  {
+    "sentence": "彼女は悲劇的な過去を乗り越え、内面から自分自身を癒していった。",
+    "sentence_furigana": "彼女【かのじょ】は悲劇的【ひげきてき】な過去【かこ】を乗【の】り越【こ】え、内面【ないめん】から自分自身【じぶんじしん】を癒【いや】していった。",
+    "meaning": "She overcame her tragic past and healed herself from within."
+  },
+  {
+    "sentence": "この高原の澄んだ空気は、旅の疲れを癒してくれる。",
+    "sentence_furigana": "この高原【こうげん】の澄【す】んだ空気【くうき】は、旅【たび】の疲【つか】れを癒【いや】してくれる。",
+    "meaning": "The clear air of this plateau heals the fatigue of the journey."
+  },
+  {
+    "sentence": "彼の言葉は魔法のように、私の傷ついた心を癒してくれた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は魔法【まほう】のように、私【わたし】の傷【きず】ついた心【こころ】を癒【いや】してくれた。",
+    "meaning": "His words were like magic, healing my wounded heart."
+  },
+  {
+    "sentence": "この湿布は、打撲による痛みを和らげ、早く癒す効果がある。",
+    "sentence_furigana": "この湿布【しっぷ】は、打撲【だぼく】による痛【いた】みを和【やわ】らげ、早【はや】く癒【いや】す効果【こうか】がある。",
+    "meaning": "This compress has the effect of relieving pain from bruising and promoting faster healing."
+  },
+  {
+    "sentence": "彼女は静かに瞑想し、心の乱れを癒していく。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに瞑想【めいそう】し、心【こころ】の乱【みだ】れを癒【いや】していく。",
+    "meaning": "She meditates quietly and heals her mental distress."
+  },
+  {
+    "sentence": "この絵画は、見る者に穏やかな気持ちを与え、心を癒す。",
+    "sentence_furigana": "この絵画【かいが】は、見【み】る者【もの】に穏【おだ】やかな気持【きも】ちを与【あた】え、心【こころ】を癒【いや】す。",
+    "meaning": "This painting gives viewers a sense of peace and heals their minds."
+  },
+  {
+    "sentence": "長年の闘病生活の後、彼はついに病を癒し、健康を取り戻した。",
+    "sentence_furigana": "長年【ながねん】の闘病生活【とうびょうせいかつ】の後【あと】、彼【かれ】はついに病【やまい】を癒【い】やし、健康【けんこう】を取り戻【と】りもどした。",
+    "meaning": "After years of battling illness, he finally healed and regained his health."
+  },
+  {
+    "sentence": "この滝の音を聞いていると、日頃のストレスが癒されるような気がする。",
+    "sentence_furigana": "この滝【たき】の音【おと】を聞【き】いていると、日頃【ひごろ】のストレスが癒【いや】されるような気【き】がする。",
+    "meaning": "Listening to the sound of this waterfall makes me feel like my daily stress is being healed."
+  },
+  {
+    "sentence": "子供の頃に怪我をした場所が、大人になっても時々疼き、うまく癒えていないのかもしれない。",
+    "sentence_furigana": "子供【こども】の頃【ころ】に怪我【けが】をした場所【ばしょ】が、大人【おとな】になっても時々【ときどき】疼【うず】き、うまく癒【い】えていないのかもしれない。",
+    "meaning": "The place where I got injured as a child still aches sometimes even as an adult, perhaps it hasn't healed properly."
+  },
+  {
+    "sentence": "彼女は詩を書くことで、自身の悲しみを癒し、前に進む力を得た。",
+    "sentence_furigana": "彼女【かのじょ】は詩【し】を書【か】くことで、自身【じしん】の悲【かな】しみを癒【いや】し、前【まえ】に進【すす】む力【ちから】を得【え】た。",
+    "meaning": "By writing poetry, she healed her own sorrow and gained the strength to move forward."
+  },
+  {
+    "sentence": "このハーブは、傷口を清潔に保ち、早く癒す効果がある。",
+    "sentence_furigana": "このハーブは、傷口【きずぐち】を清潔【せいけつ】に保【たも】ち、早【はや】く癒【いや】す効果【こうか】がある。",
+    "meaning": "This herb has the effect of keeping wounds clean and promoting faster healing."
+  },
+  {
+    "sentence": "彼の温かい笑顔は、周りの人々の心を明るく照らし、癒していた。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かい笑顔【えがお】は、周【まわ】りの人々の心【こころ】を明【あか】るく照【て】らし、癒【いや】していた。",
+    "meaning": "His warm smile brightly illuminated and healed the hearts of those around him."
+  },
+  {
+    "sentence": "この物語は、読者の心に深く響き、そっと癒してくれる。",
+    "sentence_furigana": "この物語【ものがたり】は、読者【どくしゃ】の心【こころ】に深【ふか】く響【ひび】き、そっと癒【いや】してくれる。",
+    "meaning": "This story deeply resonates with the reader's heart and gently heals them."
+  },
+  {
+    "sentence": "長期間の不調がようやく癒え、体調が回復してきた。",
+    "sentence_furigana": "長期間【ちょうきかん】の不調【ふちょう】がようやく癒【い】え、体調【たいちょう】が回復【かいふく】してきた。",
+    "meaning": "After a long period of poor health, I have finally healed and my physical condition has improved."
+  },
+  {
+    "sentence": "彼女は自然の中で時間を過ごすことで、心の傷を癒すことができた。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の中【なか】で時間【じかん】を過【す】ごすことで、心【こころ】の傷【きず】を癒【いや】すことができた。",
+    "meaning": "She was able to heal her emotional wounds by spending time in nature."
+  },
+  {
+    "sentence": "この温泉には、リウマチなどの病を癒す効果があると言われている。",
+    "sentence_furigana": "この温泉【おんせん】には、リウマチなどの病【やまい】を癒【い】やす効果【こうか】があると言【い】われている。",
+    "meaning": "This hot spring is said to have the effect of curing diseases such as rheumatism."
+  },
+  {
+    "sentence": "失意のどん底にあった彼を、友人の励ましが癒してくれた。",
+    "sentence_furigana": "失意【しつい】のどん底【ぞこ】にあった彼【かれ】を、友人【ゆうじん】の励【はげ】ましが癒【いや】してくれた。",
+    "meaning": "His friend's encouragement healed him when he was at the depths of despair."
+  },
+  {
+    "sentence": "この静かな湖畔で過ごす時間は、私の心を癒してくれた。",
+    "sentence_furigana": "この静【しず】かな湖畔【こはん】で過【す】ごす時間【じかん】は、私【わたし】の心【こころ】を癒【いや】してくれた。",
+    "meaning": "The time spent on the shores of this quiet lake healed my mind."
+  },
+  {
+    "sentence": "彼の優しいまなざしが、私の不安な気持ちをそっと癒してくれた。",
+    "sentence_furigana": "彼【かれ】の優【やさ】しいまなざしが、私【わたし】の不安【ふあん】な気持【きも】ちをそっと癒【いや】してくれた。",
+    "meaning": "His gentle gaze softly healed my anxious feelings."
+  },
+  {
+    "sentence": "このアロマテラピーは、心身のバランスを整え、深い癒しをもたらす。",
+    "sentence_furigana": "このアロマテラピーは、心身【しんしん】のバランスを整【ととの】え、深【ふか】い癒【いや】しをもたらす。",
+    "meaning": "This aromatherapy balances the mind and body and brings deep healing."
+  },
+  {
+    "sentence": "彼女は過去のつらい経験を乗り越え、自分自身を癒すことを学んだ。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】のつらい経験【けいけん】を乗【の】り越【こ】え、自分自身【じぶんじしん】を癒【いや】すことを学【まな】んだ。",
+    "meaning": "She overcame her painful past experiences and learned to heal herself."
+  },
+  {
+    "sentence": "この山の澄んだ空気と静けさが、私の疲れた心を癒してくれる。",
+    "sentence_furigana": "この山【やま】の澄【す】んだ空気【くうき】と静【しず】けさが、私【わたし】の疲【つか】れた心【こころ】を癒【いや】してくれる。",
+    "meaning": "The clear air and tranquility of this mountain heal my tired mind."
+  },
+  {
+    "sentence": "彼は一杯の冷たい水を飲んで、渇いた喉を癒した。",
+    "sentence_furigana": "彼【かれ】は一杯【いっぱい】の冷【つめ】たい水【みず】を飲【の】んで、渇【かわ】いた喉【のど】を癒【いや】した。",
+    "meaning": "He drank a glass of cold water to quench his dry throat."
+  },
+  {
+    "sentence": "この公園の緑豊かな木々は、見る人の心を癒す。",
+    "sentence_furigana": "この公園【こうえん】の緑豊【みどりゆた】かな木々【きぎ】は、見【み】る人【ひと】の心【こころ】を癒【いや】す。",
+    "meaning": "The lush greenery in this park heals the hearts of those who see it."
+  },
+  {
+    "sentence": "彼女の温かい励ましの言葉が、私の傷ついた心を癒してくれた。",
+    "sentence_furigana": "彼女【かのじょ】の温【あたた】かい励【はげ】ましの言葉【ことば】が、私【わたし】の傷【きず】ついた心【こころ】を癒【いや】してくれた。",
+    "meaning": "Her warm words of encouragement healed my wounded heart."
+  },
+  {
+    "sentence": "この伝統的な療法は、古くから病を癒すために用いられてきた。",
+    "sentence_furigana": "この伝統的【でんとうてき】な療法【りょうほう】は、古【いにし】えから病【やまい】を癒【い】やすために用【もち】いられてきた。",
+    "meaning": "This traditional therapy has been used since ancient times to cure illnesses."
+  },
+  {
+    "sentence": "失恋の痛みは時間とともに少しずつ癒えていくものだ。",
+    "sentence_furigana": "失恋【しつれん】の痛【いた】みは時間【じかん】と共【とも】に少【すこ】しずつ癒【い】えていくものだ。",
+    "meaning": "The pain of a broken heart gradually heals with time."
+  },
+  {
+    "sentence": "この静寂な空間は、日常の喧騒から離れて心を癒すのに最適だ。",
+    "sentence_furigana": "この静寂【せいじゃく】な空間【くうかん】は、日常【にちじょう】の喧騒【けんそう】から離【はな】れて心【こころ】を癒【いや】すのに最適【さいてき】だ。",
+    "meaning": "This tranquil space is ideal for healing the mind away from the hustle and bustle of daily life."
+  },
+  {
+    "sentence": "彼のユーモアのセンスは、場の緊張を和らげ、雰囲気を癒してくれる。",
+    "sentence_furigana": "彼【かれ】のユーモアのセンスは、場【ば】の緊張【きんちょう】を和【やわ】らげ、雰囲気【ふんいき】を癒【いや】してくれる。",
+    "meaning": "His sense of humor relieves the tension in the room and heals the atmosphere."
+  },
+  {
+    "sentence": "この高原の涼しい風が、夏の暑さで火照った体を癒してくれた。",
+    "sentence_furigana": "この高原【こうげん】の涼【すず】しい風【かぜ】が、夏【なつ】の暑【あつ】さで火照【ほて】った体【からだ】を癒【いや】してくれた。",
+    "meaning": "The cool breeze of this plateau healed my body, which was flushed from the summer heat."
+  },
+  {
+    "sentence": "彼女は過去の失敗から学び、それを糧にして自分を癒していった。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の失敗【しっぱい】から学【まな】び、それを糧【かて】にして自分【じぶん】を癒【いや】していった。",
+    "meaning": "She learned from her past failures and used them as fuel to heal herself."
+  },
+  {
+    "sentence": "この湖の水はとても冷たくて、炎天下で火照った体を癒すのに最適だった。",
+    "sentence_furigana": "この湖【みずうみ】の水【みず】はとても冷【つめ】たくて、炎天下【えんてんか】で火照【ほて】った体【からだ】を癒【いや】すのに最適【さいてき】だった。",
+    "meaning": "The water of this lake was very cold and perfect for healing my body, flushed from the scorching sun."
+  },
+  {
+    "sentence": "彼の歌声は優しく、聴く者の心をそっと癒してくれる。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は優【やさ】しく、聞【き】く者【もの】の心【こころ】をそっと癒【いや】してくれる。",
+    "meaning": "His singing voice is gentle and softly heals the listener's heart."
+  },
+  {
+    "sentence": "この温泉地には、様々な病を癒す力があると言われる泉が湧いている。",
+    "sentence_furigana": "この温泉地【おんせんち】には、様々【さまざま】な病【やまい】を癒【い】やす力【ちから】があると言【い】われる泉【いずみ】が湧【わ】いている。",
+    "meaning": "In this hot spring resort, springs are gushing that are said to have the power to cure various illnesses."
+  },
+  {
+    "sentence": "彼女は悲劇的な出来事を乗り越え、心の傷を癒す旅に出た。",
+    "sentence_furigana": "彼女【かのじょ】は悲劇的【ひげきてき】な出来事【できごと】を乗【の】り越【こ】え、心【こころ】の傷【きず】を癒【いや】す旅【たび】に出【で】た。",
+    "meaning": "She overcame a tragic event and went on a journey to heal her emotional wounds."
+  },
+  {
+    "sentence": "この山道の散策は、心身のリフレッシュに繋がり、疲れを癒してくれる。",
+    "sentence_furigana": "この山道【やまみち】の散策【さんさく】は、心身【しんしん】のリフレッシュに繋【つな】がり、疲【つか】れを癒【いや】してくれる。",
+    "meaning": "Strolling on this mountain path leads to refreshing the mind and body and healing fatigue."
+  },
+  {
+    "sentence": "彼の温かいまなざしは、私の心に寄り添い、そっと癒してくれた。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かいまなざしは、私【わたし】の心【こころ】に寄【よ】り添【そ】い、そっと癒【いや】してくれた。",
+    "meaning": "His warm gaze stayed with my heart and gently healed me."
+  },
+  {
+    "sentence": "この静かな森の中では、時間がゆっくりと流れ、心が癒されていく。",
+    "sentence_furigana": "この静【しず】かな森【もり】の中【なか】では、時間【じかん】がゆっくりと流【なが】れ、心【こころ】が癒【いや】されていく。",
+    "meaning": "In this quiet forest, time flows slowly and the mind is healed."
+  },
+  {
+    "sentence": "失ったものへの執着を手放すことで、心の傷は癒える。",
+    "sentence_furigana": "失【うしな】ったものへの執着【しゅうちゃく】を手放【てばな】すことで、心【こころ】の傷【きず】は癒【い】える。",
+    "meaning": "By letting go of attachment to what has been lost, emotional wounds can heal."
+  },
+  {
+    "sentence": "彼女は過去の苦しみを乗り越え、自分自身を癒す方法を見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の苦【くる】しみを乗【の】り越【こ】え、自分自身【じぶんじしん】を癒【いや】す方法【ほうほう】を見【み】つけた。",
+    "meaning": "She overcame her past suffering and found a way to heal herself."
+  },
+  {
+    "sentence": "この山の澄んだ空気と美しい景色が、旅の疲れを癒してくれた。",
+    "sentence_furigana": "この山【やま】の澄【す】んだ空気【くうき】と美【うつく】しい景色【けしき】が、旅【たび】の疲【つか】れを癒【いや】してくれた。",
+    "meaning": "The clear air and beautiful scenery of this mountain healed the fatigue of my journey."
+  },
+  {
+    "sentence": "彼の温かい言葉は、私の心を包み込み、癒しの光をもたらした。",
+    "sentence_furigana": "彼【かれ】の温【あたた】かい言葉【ことば】は、私【わたし】の心【こころ】を包【つつ】み込【こ】み、癒【いや】しの光【ひかり】をもたらした。",
+    "meaning": "His warm words enveloped my heart and brought a healing light."
+  },
+  {
+    "sentence": "この伝統的なマッサージは、筋肉の凝りをほぐし、体の疲れを癒す。",
+    "sentence_furigana": "この伝統的【でんとうてき】なマッサージは、筋肉【きんにく】の凝【こ】りをほぐし、体【からだ】の疲【つか】れを癒【いや】す。",
+    "meaning": "This traditional massage loosens stiff muscles and heals the body's fatigue."
+  },
+  {
+    "sentence": "彼女は自然の音に耳を澄ませ、心の乱れを癒していた。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の音【おと】に耳【みみ】を澄【す】ませ、心【こころ】の乱【みだ】れを癒【いや】していた。",
+    "meaning": "She listened to the sounds of nature and healed her mental distress."
+  },
+  {
+    "sentence": "この絵画の色彩は鮮やかで、見る者の心を明るくし、癒してくれる。",
+    "sentence_furigana": "この絵画【かいが】の色彩【しきさい】は鮮【あざ】やかで、見【み】る者【もの】の心【こころ】を明【あか】るくし、癒【いや】してくれる。",
+    "meaning": "The colors of this painting are vivid, brightening the viewer's mind and healing them."
+  },
+  {
+    "sentence": "長年の不眠症が、この薬でようやく癒えた。",
+    "sentence_furigana": "長年【ながねん】の不眠症【ふみんしょう】が、この薬【くすり】でようやく癒【い】えた。",
+    "meaning": "My insomnia of many years finally healed with this medicine."
+  },
+  {
+    "sentence": "彼女は孤独を乗り越え、自分自身を癒し、新たな人生を歩み始めた。",
+    "sentence_furigana": "彼女【かのじょ】は孤独【こどく】を乗【の】り越【こ】え、自分自身【じぶんじしん】を癒【いや】し、新【あら】たな人生【じんせい】を歩【あゆ】み始【はじ】めた。",
+    "meaning": "She overcame her loneliness, healed herself, and began a new life."
+  },
+  {
+    "sentence": "この山の澄んだ空気と静かな環境が、疲れた心身を癒してくれる。",
+    "sentence_furigana": "この山【やま】の澄【す】んだ空気【くうき】と静【しず】かな環境【かんきょう】が、疲【つか】れた心身【しんしん】を癒【いや】してくれる。",
+    "meaning": "The clear air and quiet environment of this mountain heal the tired mind and body."
+  },
+  {
+    "sentence": "彼の励ましは、落ち込んでいた私の心を癒す大きな力となった。",
+    "sentence_furigana": "彼【かれ】の励【はげ】ましは、落【お】ち込【こ】んでいた私【わたし】の心【こころ】を癒【いや】す大【おお】きな力【ちから】となった。",
+    "meaning": "His encouragement became a great force that healed my depressed mind."
+  },
+  {
+    "sentence": "この伝統的な温泉療法は、血行を促進し、体の痛みを癒す効果がある。",
+    "sentence_furigana": "この伝統的【でんとうてき】な温泉療法【おんせんりょうほう】は、血行【けっこう】を促進【そくしん】し、体【からだ】の痛【いた】みを癒【いや】す効果【こうか】がある。",
+    "meaning": "This traditional hot spring therapy promotes blood circulation and has the effect of healing bodily pain."
+  },
+  {
+    "sentence": "彼女は自然の美しさに触れることで、心の傷を癒し、穏やかな気持ちを取り戻した。",
+    "sentence_furigana": "彼女【かのじょ】は自然【しぜん】の美【うつく】しさに触【ふ】れることで、心【こころ】の傷【きず】を癒【いや】し、穏【おだ】やかな気持【きも】ちを取り戻【と】りもどした。",
+    "meaning": "By experiencing the beauty of nature, she healed her emotional wounds and regained a sense of peace."
+  }
+]

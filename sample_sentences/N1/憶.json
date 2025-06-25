@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "昔の出来事を鮮明に憶えている。",
+    "sentence_furigana": "昔【むかし】の出来事【できごと】を鮮明【せんめい】に憶【おぼ】えている。",
+    "meaning": "I vividly remember the past events."
+  },
+  {
+    "sentence": "彼の顔をかすかに憶えている。",
+    "sentence_furigana": "彼【かれ】の顔【かお】をかすかに憶【おぼ】えている。",
+    "meaning": "I vaguely remember his face."
+  },
+  {
+    "sentence": "その約束を憶えておいてください。",
+    "sentence_furigana": "その約束【やくそく】を憶【おぼ】えておいてください。",
+    "meaning": "Please remember that promise."
+  },
+  {
+    "sentence": "失われた記憶をたどることは難しい。",
+    "sentence_furigana": "失【う】われた記憶【きおく】をたどることは難【むずか】しい。",
+    "meaning": "It is difficult to trace lost memories."
+  },
+  {
+    "sentence": "この歌を聴くと、子供の頃を憶いだす。",
+    "sentence_furigana": "この歌【うた】を聴【き】くと、子供【こども】の頃【ころ】を憶【おぼ】いだす。",
+    "meaning": "Listening to this song reminds me of my childhood."
+  },
+  {
+    "sentence": "過去の過ちを憶えている限り、人は成長できない。",
+    "sentence_furigana": "過去【かこ】の過誤【あやまち】を憶【おぼ】えている限【かぎ】り、人【ひと】は成長【せいちょう】できない。",
+    "meaning": "As long as one remembers past mistakes, one cannot grow."
+  },
+  {
+    "sentence": "その事件の詳細はほとんど憶えていない。",
+    "sentence_furigana": "その事件【じけん】の詳細【しょうさい】はほとんど憶【おぼ】えていない。",
+    "meaning": "I don't remember most of the details of that incident."
+  },
+  {
+    "sentence": "人の名前を覚えるのが苦手だ。",
+    "sentence_furigana": "人【ひと】の名前【なまえ】を覚【おぼ】えるのが苦手【にがて】だ。",
+    "meaning": "I'm bad at remembering people's names."
+  },
+  {
+    "sentence": "初めて会った時のことを憶えていますか？",
+    "sentence_furigana": "初【はじ】めて会【あ】った時【とき】のことを憶【おぼ】えていますか？",
+    "meaning": "Do you remember when we first met?"
+  },
+  {
+    "sentence": "記憶は時間とともに薄れていく。",
+    "sentence_furigana": "記憶【きおく】は時間【じかん】とともに薄【うす】れていく。",
+    "meaning": "Memories fade over time."
+  },
+  {
+    "sentence": "彼は驚くほど物事を憶えるのが早い。",
+    "sentence_furigana": "彼【かれ】は驚【おどろ】くほど物事【ものごと】を憶【おぼ】えるのが早【はや】い。",
+    "meaning": "He learns things surprisingly fast."
+  },
+  {
+    "sentence": "その光景は私の心に深く憶えられている。",
+    "sentence_furigana": "その光景【こうけい】は私【わたし】の心【こころ】に深【ふか】く憶【おぼ】えられている。",
+    "meaning": "That scene is deeply etched in my mind."
+  },
+  {
+    "sentence": "忘れていたことをふと思い出した。",
+    "sentence_furigana": "忘【わす】れていたことをふと思い出【おも】いだした。",
+    "meaning": "I suddenly remembered something I had forgotten."
+  },
+  {
+    "sentence": "大切なことは必ず憶えておくべきだ。",
+    "sentence_furigana": "大切【たいせつ】なことは必【かなら】ず憶【おぼ】えておくべきだ。",
+    "meaning": "You should definitely remember what is important."
+  },
+  {
+    "sentence": "彼女は驚くべき記憶力の持ち主だ。",
+    "sentence_furigana": "彼女【かのじょ】は驚【おどろ】くべき記憶力【きおくりょく】の持【も】ち主【ぬし】だ。",
+    "meaning": "She has an amazing memory."
+  },
+  {
+    "sentence": "昔の友人の顔を憶えているだろうか。",
+    "sentence_furigana": "昔【むかし】の友人【ゆうじん】の顔【かお】を憶【おぼ】えているだろうか。",
+    "meaning": "I wonder if I remember the faces of my old friends."
+  },
+  {
+    "sentence": "この体験は私の人生で忘れられないものだ。",
+    "sentence_furigana": "この体験【たいけん】は私【わたし】の人生【じんせい】で忘【わす】れられないものだ。",
+    "meaning": "This experience is unforgettable in my life."
+  },
+  {
+    "sentence": "彼は複雑な計算でも簡単に憶えることができる。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な計算【けいさん】でも簡単【かんたん】に憶【おぼ】えることができる。",
+    "meaning": "He can easily remember even complex calculations."
+  },
+  {
+    "sentence": "幼い頃の記憶は曖昧なものが多い。",
+    "sentence_furigana": "幼【おさな】い頃【ころ】の記憶【きおく】は曖昧【あいまい】なものが多い【おお】い。",
+    "meaning": "Many memories from early childhood are vague."
+  },
+  {
+    "sentence": "その言葉の意味を正確に憶えている。",
+    "sentence_furigana": "その言葉【ことば】の意味【いみ】を正確【せいかく】に憶【おぼ】えている。",
+    "meaning": "I remember the exact meaning of that word."
+  },
+  {
+    "sentence": "私は彼のことを何も憶えていない。",
+    "sentence_furigana": "私【わたし】は彼【かれ】のことを何【なに】も憶【おぼ】えていない。",
+    "meaning": "I don't remember anything about him."
+  },
+  {
+    "sentence": "脳は情報をどのように憶えるのか。",
+    "sentence_furigana": "脳【のう】は情報【じょうほう】をどのように憶【おぼ】えるのか。",
+    "meaning": "How does the brain store information?"
+  },
+  {
+    "sentence": "彼女は詩を暗唱するのを得意としている。",
+    "sentence_furigana": "彼女【かのじょ】は詩【し】を暗唱【あんしょう】するのを得意【とくい】としている。",
+    "meaning": "She is good at reciting poetry."
+  },
+  {
+    "sentence": "この地図は私の頭の中に憶えられている。",
+    "sentence_furigana": "この地図【ちず】は私【わたし】の頭【あたま】の中【なか】に憶【おぼ】えられている。",
+    "meaning": "This map is stored in my head."
+  },
+  {
+    "sentence": "人生で最も大切な教訓を憶えている。",
+    "sentence_furigana": "人生【じんせい】で最も大切【もっともたいせつ】な教訓【きょうくん】を憶【おぼ】えている。",
+    "meaning": "I remember the most important lessons in life."
+  },
+  {
+    "sentence": "その出来事を話すたびに、彼は感情を抑えることができない。",
+    "sentence_furigana": "その出来事【できごと】を話【はな】すたびに、彼【かれ】は感情【かんじょう】を抑【おさ】えることができない。",
+    "meaning": "Every time he talks about that event, he cannot suppress his emotions."
+  },
+  {
+    "sentence": "古い写真を見ると、昔のことが思い出される。",
+    "sentence_furigana": "古【ふる】い写真【しゃしん】を見【み】ると、昔【むかし】のこと思【おも】い出【だ】される。",
+    "meaning": "Looking at old photos brings back memories of the past."
+  },
+  {
+    "sentence": "彼は顔は覚えているが、名前は思い出せない。",
+    "sentence_furigana": "彼【かれ】は顔【かお】は覚【おぼ】えているが、名前【なまえ】は思【おも】い出せない。",
+    "meaning": "I remember his face, but I can't recall his name."
+  },
+  {
+    "sentence": "忘れてはいけない大切な教訓がある。",
+    "sentence_furigana": "忘【わす】れてはいけない大切【たいせつ】な教訓【きょうくん】がある。",
+    "meaning": "There are important lessons that should not be forgotten."
+  },
+  {
+    "sentence": "その素晴らしい景色は今も目に焼き付いている。",
+    "sentence_furigana": "その素晴【すば】らしい景色【けしき】は今【いま】も目【め】に焼【や】き付【つ】いている。",
+    "meaning": "That wonderful scenery is still imprinted in my eyes."
+  },
+  {
+    "sentence": "彼は一度聞いただけでも単語を覚えてしまう。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】聞【き】いただけでも単語【たんご】を覚【おぼ】えてしまう。",
+    "meaning": "He memorizes words after hearing them only once."
+  },
+  {
+    "sentence": "子供の頃の楽しい思い出を大切にしたい。",
+    "sentence_furigana": "子供【こども】の頃【ころ】の楽【たの】しい思出【おもいで】を大切【たいせつ】にしたい。",
+    "meaning": "I want to cherish the happy memories of my childhood."
+  },
+  {
+    "sentence": "この経験から学んだことを決して忘れないだろう。",
+    "sentence_furigana": "この経験【けいけん】から学【まな】んだこと決【けっ】して忘【わす】れないだろう。",
+    "meaning": "I will never forget what I learned from this experience."
+  },
+  {
+    "sentence": "彼の言葉は私の心に深く刻まれた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】の心【こころ】に深【ふか】く刻【きざ】まれた。",
+    "meaning": "His words were deeply engraved in my heart."
+  },
+  {
+    "sentence": "記憶を頼りに、昔の家を探し出した。",
+    "sentence_furigana": "記憶【きおく】を頼【たよ】りに、昔【むかし】の家【いえ】を探【さが】し出【だ】した。",
+    "meaning": "Relying on memory, I found my old house."
+  },
+  {
+    "sentence": "彼女の顔は覚えていますが、名前は思い出せません。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】は覚【おぼ】えていますが見【み】る、名前【なまえ】は思【おも】い出せません。",
+    "meaning": "I remember her face, but I can't recall her name."
+  },
+  {
+    "sentence": "この曲を聴くと、あの頃のことが思い出される。",
+    "sentence_furigana": "この曲【きょく】を聴【き】くと、あの頃【ころ】のこと思【おも】い出【だ】される。",
+    "meaning": "Listening to this song reminds me of those times."
+  },
+  {
+    "sentence": "過去の経験は将来の指針となる。",
+    "sentence_furigana": "過去【かこ】の経験【けいけん】は将来【しょうらい】の指針【ししん】となる。",
+    "meaning": "Past experiences become guidelines for the future."
+  },
+  {
+    "sentence": "彼は幼い頃の出来事を鮮明に憶えている。",
+    "sentence_furigana": "彼【かれ】は幼【おさな】い頃【ころ】の出来事【できごと】を鮮明【せんめい】に憶【おぼ】えている。",
+    "meaning": "He vividly remembers events from his childhood."
+  },
+  {
+    "sentence": "その景色は私の記憶に深く刻まれています。",
+    "sentence_furigana": "その景色【けしき】は私【わたし】の記憶【きおく】に深【ふか】く刻【きざ】まれています。",
+    "meaning": "That scenery is deeply etched in my memory."
+  },
+  {
+    "sentence": "私は決してこの恩を忘れないでしょう。",
+    "sentence_furigana": "私【わたし】は決【けっ】してこの恩【おん】を忘【わす】れないでしょう。",
+    "meaning": "I will never forget this kindness."
+  },
+  {
+    "sentence": "その時の感動は、今でも鮮明に覚えている。",
+    "sentence_furigana": "その時【とき】の感動【かんどう】は、今【いま】でも鮮明【せんめい】に覚【おぼ】えている。",
+    "meaning": "I still vividly remember the emotion of that time."
+  },
+  {
+    "sentence": "人生の教訓を胸に刻んで生きていく。",
+    "sentence_furigana": "人生【じんせい】の教訓【きょうくん】を胸【むね】に刻【きざ】んで生【い】きていく。",
+    "meaning": "I will live on, engraving the lessons of life in my heart."
+  },
+  {
+    "sentence": "彼は一度見ただけで建物の名前を覚えてしまう。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】見【み】ただけ建【た】ての名前【なまえ】を覚【おぼ】えてしまう。",
+    "meaning": "He remembers the names of buildings after seeing them just once."
+  },
+  {
+    "sentence": "古いアルバムには、たくさんの思い出が詰まっている。",
+    "sentence_furigana": "古【ふる】いアルバムには、たくさんの思出【おもいで】が詰【つ】まっている。",
+    "meaning": "The old album is full of many memories."
+  },
+  {
+    "sentence": "その教えは私の心に深く根ざしている。",
+    "sentence_furigana": "その教【おし】えは私【わたし】の心【こころ】に深【ふか】く根【ね】ざしている。",
+    "meaning": "That teaching is deeply rooted in my heart."
+  },
+  {
+    "sentence": "失われた記憶を取り戻すための研究が進んでいる。",
+    "sentence_furigana": "失【う】われた記憶【きおく】を取り戻【と】すための研究【けんきゅう】が進【すす】んでいる。",
+    "meaning": "Research to recover lost memories is progressing."
+  },
+  {
+    "sentence": "彼女は音楽の旋律をすぐに覚えることができる。",
+    "sentence_furigana": "彼女【かのじょ】は音楽【おんがく】の旋律【せんりつ】をすぐ覚【おぼ】えることができる。",
+    "meaning": "She can quickly memorize musical melodies."
+  },
+  {
+    "sentence": "この経験を忘れることはないだろう。",
+    "sentence_furigana": "この経験【けいけん】を忘【わす】れることはないだろう。",
+    "meaning": "I will probably not forget this experience."
+  },
+  {
+    "sentence": "彼は昔の仲間たちの顔をすべて憶えている。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の仲間【なかま】たちの顔【かお】をすべて憶【おぼ】えている。",
+    "meaning": "He remembers all the faces of his old companions."
+  },
+  {
+    "sentence": "記憶の断片を繋ぎ合わせて、真相を解明する。",
+    "sentence_furigana": "記憶【きおく】の断片【だんぺん】を繋【つ】ぎ合【あ】わせて、真相【しんそう】を解明【かいめい】する。",
+    "meaning": "Connecting fragments of memory, we will uncover the truth."
+  },
+  {
+    "sentence": "彼は驚くほど多くの情報を記憶できる。",
+    "sentence_furigana": "彼【かれ】は驚【おどろ】くほど多【おお】くの情報【じょうほう】を記憶【きおく】できる。",
+    "meaning": "He can remember an astonishing amount of information."
+  },
+  {
+    "sentence": "その美しい風景は私の心に焼き付いている。",
+    "sentence_furigana": "その美【うつく】しい風景【ふうけい】は私【わたし】の心【こころ】に焼【や】き付【つ】いている。",
+    "meaning": "That beautiful scenery is imprinted in my mind."
+  },
+  {
+    "sentence": "彼女の笑顔を私はいつまでも憶えているだろう。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】を私【わたし】はいつまでも憶【おぼ】えているだろう。",
+    "meaning": "I will probably remember her smile forever."
+  },
+  {
+    "sentence": "大切な思い出は色褪せない。",
+    "sentence_furigana": "大切【たいせつ】な思出【おもいで】は色褪【いろあ】せない。",
+    "meaning": "Precious memories do not fade."
+  },
+  {
+    "sentence": "彼は一度読んだだけで本の内容を覚えることができる。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】読【よ】んだだけ本【ほん】の内容【ないよう】を覚【おぼ】えることができる。",
+    "meaning": "He can remember the content of a book after reading it just once."
+  },
+  {
+    "sentence": "この体験は私の人生において忘れられないものとなった。",
+    "sentence_furigana": "この体験【たいけん】は私【わたし】の人生【じんせい】において忘【わす】れられないものとなった。",
+    "meaning": "This experience became an unforgettable one in my life."
+  },
+  {
+    "sentence": "彼は昔の偉人の言葉をよく憶えている。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の偉人【いじん】の言葉【ことば】をよく憶【おぼ】えている。",
+    "meaning": "He remembers the words of great people from the past well."
+  },
+  {
+    "sentence": "失われた記憶の鍵は、意外なところにあった。",
+    "sentence_furigana": "失【う】われた記憶【きおく】の鍵【かぎ】は、意外【いがい】なところにあった。",
+    "meaning": "The key to the lost memory was in an unexpected place."
+  },
+  {
+    "sentence": "彼女は人の顔と名前を正確に覚えている。",
+    "sentence_furigana": "彼女【かのじょ】は人【ひと】の顔【かお】と名前【なまえ】を正確【せいかく】に覚【おぼ】えている。",
+    "meaning": "She remembers people's faces and names accurately."
+  },
+  {
+    "sentence": "その感動的なスピーチは聴衆の心に残った。",
+    "sentence_furigana": "その感動的【かんどうてき】なスピーチは聴衆【ちょうしゅう】の心【こころ】に残【のこ】った。",
+    "meaning": "That moving speech remained in the audience's hearts."
+  },
+  {
+    "sentence": "彼は多くの困難を乗り越えてきたことを憶えている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】を乗【の】り越【こ】えてきたこと憶【おぼ】えている。",
+    "meaning": "He remembers overcoming many difficulties."
+  },
+  {
+    "sentence": "この味は、子供の頃に食べた料理を思い出させる。",
+    "sentence_furigana": "この味【あじ】は、子供【こども】の頃【ころ】に食【た】べた料理【りょうり】を思【おも】い出【だ】させる。",
+    "meaning": "This taste reminds me of the food I ate in my childhood."
+  },
+  {
+    "sentence": "彼女は一度読んだだけで文章を覚えることができる。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】読【よ】んだだけ文章【ぶんしょう】を覚【おぼ】えることができる。",
+    "meaning": "She can memorize sentences after reading them just once."
+  },
+  {
+    "sentence": "忘れられない思い出が胸にいっぱいある。",
+    "sentence_furigana": "忘【わす】れられない思出【おもいで】が胸【むね】にいっぱいある。",
+    "meaning": "I have many unforgettable memories in my heart."
+  },
+  {
+    "sentence": "彼は古い地図を見て、旅のルートを憶え直した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い地図【ちず】を見【み】て、旅【たび】のルートを憶【おぼ】え直【なお】した。",
+    "meaning": "He looked at an old map and relearned the travel route."
+  },
+  {
+    "sentence": "その日の出来事は、私の記憶にしっかりと刻まれている。",
+    "sentence_furigana": "その日【ひ】の出来事【できごと】は、私【わたし】の記憶【きおく】にしっかり刻【きざ】まれている。",
+    "meaning": "The events of that day are firmly etched in my memory."
+  },
+  {
+    "sentence": "彼女は一度聴いただけでも曲を覚えてしまう。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】聴【き】いただけでも曲【きょく】を覚【おぼ】えてしまう。",
+    "meaning": "She memorizes songs after hearing them only once."
+  },
+  {
+    "sentence": "この写真は、あの素晴らしい時間を思い出させてくれる。",
+    "sentence_furigana": "この写真【しゃしん】は、あの素晴【すば】らしい時間【じかん】を思【おも】い出【だ】させてくれる。",
+    "meaning": "This photo reminds me of that wonderful time."
+  },
+  {
+    "sentence": "彼は過去の経験から多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】から多【おお】くのこと学【まな】んだ。",
+    "meaning": "He learned a lot from past experiences."
+  },
+  {
+    "sentence": "この歌を聴くと、昔の恋を思い出してしまう。",
+    "sentence_furigana": "この歌【うた】を聴【き】くと、昔【むかし】の恋【こい】を思【おも】い出【だ】してしまう。",
+    "meaning": "Listening to this song makes me remember my past love."
+  },
+  {
+    "sentence": "彼女は見たものをすべて記憶しているようだ。",
+    "sentence_furigana": "彼女【かのじょ】は見【み】たものすべて記憶【きおく】しているようだ。",
+    "meaning": "She seems to remember everything she sees."
+  },
+  {
+    "sentence": "その日の感動は、私の心に深く刻まれています。",
+    "sentence_furigana": "その日【ひ】の感動【かんどう】は、私【わたし】の心【こころ】に深【ふか】く刻【きざ】まれています。",
+    "meaning": "The emotion of that day is deeply etched in my mind."
+  },
+  {
+    "sentence": "彼は昔の友人たちの顔と名前をはっきりと憶えている。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の友人【ゆうじん】たちの顔【かお】と名前【なまえ】はっきりと憶【おぼ】えている。",
+    "meaning": "He clearly remembers the faces and names of his old friends."
+  },
+  {
+    "sentence": "この経験は、私の人生における大きな転換点となった。",
+    "sentence_furigana": "この経験【けいけん】は、私【わたし】の人生【じんせい】における大【おお】きな転換点【てんかんてん】となった。",
+    "meaning": "This experience became a major turning point in my life."
+  },
+  {
+    "sentence": "彼女は一度聞いただけでも単語の意味を理解する。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】聞【き】いただけ単語【たんご】の意味【いみ】を理解【りかい】する。",
+    "meaning": "She understands the meaning of words after hearing them just once."
+  },
+  {
+    "sentence": "その美しい光景は私の記憶に永遠に刻まれた。",
+    "sentence_furigana": "その美【うつく】しい光景【こうけい】は私【わたし】の記憶【きおく】に永遠【えいえん】に刻【きざ】まれた。",
+    "meaning": "That beautiful scene was eternally etched in my memory."
+  },
+  {
+    "sentence": "彼は過去の出来事を感情的に話した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】を感情的【かんじょうてき】に話【はな】した。",
+    "meaning": "He spoke emotionally about past events."
+  },
+  {
+    "sentence": "この思い出は、私の宝物です。",
+    "sentence_furigana": "この思出【おもいで】は、私【わたし】の宝物【たからもの】です。",
+    "meaning": "This memory is my treasure."
+  },
+  {
+    "sentence": "彼女は一度読んだだけで物語の内容を覚えてしまう。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】読【よ】んだだけ物語【ものがたり】の内容【ないよう】を覚【おぼ】えてしまう。",
+    "meaning": "She memorizes the content of stories after reading them just once."
+  },
+  {
+    "sentence": "その経験から学んだ教訓は決して忘れない。",
+    "sentence_furigana": "その経験【けいけん】から学【まな】んだ教訓【きょうくん】は決【けっ】して忘【わす】れない。",
+    "meaning": "I will never forget the lesson learned from that experience."
+  },
+  {
+    "sentence": "彼は驚くほど多くの言語を記憶している。",
+    "sentence_furigana": "彼【かれ】は驚【おどろ】くほど多【おお】くの言語【げんご】を記憶【きおく】している。",
+    "meaning": "He remembers an astonishing number of languages."
+  },
+  {
+    "sentence": "この曲を聴くと、あの夏の日のことを思い出す。",
+    "sentence_furigana": "この曲【きょく】を聴【き】くと、あの夏【なつ】の日【ひ】のこと思【おも】い出【だ】す。",
+    "meaning": "Listening to this song reminds me of that summer day."
+  },
+  {
+    "sentence": "彼女は一度しか会ったことがないのに、私の名前を覚えていた。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】しか会【あ】ったことがないのに、私【わたし】の名前【なまえ】を覚【おぼ】えていた。",
+    "meaning": "Even though I had only met her once, she remembered my name."
+  },
+  {
+    "sentence": "過去の偉大な業績を忘れてはならない。",
+    "sentence_furigana": "過去【かこ】の偉大【いだい】な業績【ぎょうせき】を忘【わす】れてはならない。",
+    "meaning": "We must not forget the great achievements of the past."
+  },
+  {
+    "sentence": "その経験が私の人生観を変えた。",
+    "sentence_furigana": "その経験【けいけん】が私【わたし】の人生観【じんせいかん】を変【か】えた。",
+    "meaning": "That experience changed my outlook on life."
+  },
+  {
+    "sentence": "彼は一度聴いただけでも音楽のコードを覚えることができる。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】聴【き】いただけ音楽【おんがく】のコードを覚【おぼ】えることができる。",
+    "meaning": "He can memorize musical chords after hearing them just once."
+  },
+  {
+    "sentence": "この美しい景色は、私の記憶に永遠に残り続けるだろう。",
+    "sentence_furigana": "この美【うつく】しい景色【けしき】は、私【わたし】の記憶【きおく】に永遠【えいえん】に残【のこ】り続【つづ】けるだろう。",
+    "meaning": "This beautiful scenery will likely remain in my memory forever."
+  },
+  {
+    "sentence": "彼女は一度話しただけで人の顔を覚える。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】話【はな】しただけ人【ひと】の顔【かお】を覚【おぼ】える。",
+    "meaning": "She remembers people's faces after talking to them just once."
+  },
+  {
+    "sentence": "その時の出来事を正確に憶えています。",
+    "sentence_furigana": "その時【とき】の出来事【できごと】を正確【せいかく】に憶【おぼ】えています。",
+    "meaning": "I remember the events of that time accurately."
+  },
+  {
+    "sentence": "彼は一度見ただけで地図を覚えてしまう。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】見【み】ただけ地図【ちず】を覚【おぼ】えてしまう。",
+    "meaning": "He memorizes maps after seeing them just once."
+  },
+  {
+    "sentence": "この歌は、失われた愛を思い出させる。",
+    "sentence_furigana": "この歌【うた】は、失【う】われた愛【あい】を思【おも】い出【だ】させる。",
+    "meaning": "This song reminds me of a lost love."
+  },
+  {
+    "sentence": "彼女は一度読んだだけで文章を完全に記憶する。",
+    "sentence_furigana": "彼女【かのじょ】は一度【いちど】読【よ】んだだけ文章【ぶんしょう】を完全【かんぜん】に記憶【きおく】する。",
+    "meaning": "She completely memorizes sentences after reading them just once."
+  }
+]

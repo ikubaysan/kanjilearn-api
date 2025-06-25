@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "虫が好きです。",
+    "sentence_furigana": "虫【むし】が好き【す】きです。",
+    "meaning": "I like insects."
+  },
+  {
+    "sentence": "蚊が飛んでいます。",
+    "sentence_furigana": "蚊【か】が飛【と】んでいます。",
+    "meaning": "Mosquitoes are flying."
+  },
+  {
+    "sentence": "アリが列を作って歩いている。",
+    "sentence_furigana": "アリが列【れつ】を作【つく】って歩【ある】いている。",
+    "meaning": "Ants are walking in a line."
+  },
+  {
+    "sentence": "蝶がひらひらと舞っている。",
+    "sentence_furigana": "蝶【ちょう】がひらひらと舞【ま】っている。",
+    "meaning": "Butterflies are fluttering."
+  },
+  {
+    "sentence": "セミの声が聞こえる。",
+    "sentence_furigana": "セミの声【こえ】が聞【き】こえる。",
+    "meaning": "I can hear the voices of cicadas."
+  },
+  {
+    "sentence": "クモが糸を張っている。",
+    "sentence_furigana": "クモが糸【いと】を張【は】っている。",
+    "meaning": "A spider is spinning its web."
+  },
+  {
+    "sentence": "カマキリは前から見ると怖い。",
+    "sentence_furigana": "カマキリは前【まえ】から見【み】ると怖【こわ】い。",
+    "meaning": "A praying mantis looks scary when seen from the front."
+  },
+  {
+    "sentence": "ホタルが暗闇で光っている。",
+    "sentence_furigana": "ホタルが暗闇【くらやみ】で光【ひか】っている。",
+    "meaning": "Fireflies are shining in the darkness."
+  },
+  {
+    "sentence": "ゴキブリは気持ち悪い。",
+    "sentence_furigana": "ゴキブリは気持【きも】ち悪【わる】い。",
+    "meaning": "Cockroaches are disgusting."
+  },
+  {
+    "sentence": "トンボが空を飛んでいる。",
+    "sentence_furigana": "トンボが空【そら】を飛【と】んでいる。",
+    "meaning": "Dragonflies are flying in the sky."
+  },
+  {
+    "sentence": "ミツバチが花から蜜を集めている。",
+    "sentence_furigana": "ミツバチが花【はな】から蜜【みつ】を集【あつ】めている。",
+    "meaning": "Bees are collecting nectar from flowers."
+  },
+  {
+    "sentence": "カタツムリがゆっくりと進む。",
+    "sentence_furigana": "カタツムリがゆっくりと進【すす】む。",
+    "meaning": "Snails move slowly."
+  },
+  {
+    "sentence": "チョウチョが咲いている花に止まった。",
+    "sentence_furigana": "チョウチョが咲【さ】いている花【はな】に止【と】まった。",
+    "meaning": "A butterfly landed on a blooming flower."
+  },
+  {
+    "sentence": "アリの巣を見つけた。",
+    "sentence_furigana": "アリの巣【す】を見【み】つけた。",
+    "meaning": "I found an ant nest."
+  },
+  {
+    "sentence": "ムカデに噛まれた。",
+    "sentence_furigana": "ムカデに噛【か】まれた。",
+    "meaning": "I was bitten by a centipede."
+  },
+  {
+    "sentence": "ダンゴムシが丸くなった。",
+    "sentence_furigana": "ダンゴムシが丸【まる】くなった。",
+    "meaning": "The pill bug rolled into a ball."
+  },
+  {
+    "sentence": "カブトムシは子供に人気がある。",
+    "sentence_furigana": "カブトムシは子供【こども】に人気【にんき】がある。",
+    "meaning": "Rhinoceros beetles are popular with children."
+  },
+  {
+    "sentence": "テントウムシは益虫だ。",
+    "sentence_furigana": "テントウムシは益虫【えきちゅう】だ。",
+    "meaning": "Ladybugs are beneficial insects."
+  },
+  {
+    "sentence": "イモムシが葉っぱを食べている。",
+    "sentence_furigana": "イモムシが葉【は】っぱを食【た】べている。",
+    "meaning": "A caterpillar is eating a leaf."
+  },
+  {
+    "sentence": "ハチに刺されないように注意する。",
+    "sentence_furigana": "ハチに刺【さ】されないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to get stung by a bee."
+  },
+  {
+    "sentence": "セミが鳴き止まない。",
+    "sentence_furigana": "セミが鳴【な】き止【や】まない。",
+    "meaning": "The cicadas are not stopping their singing."
+  },
+  {
+    "sentence": "この虫は毒があるかもしれない。",
+    "sentence_furigana": "この虫【むし】は毒【どく】があるかもしれない。",
+    "meaning": "This insect might be poisonous."
+  },
+  {
+    "sentence": "蚊に刺されてかゆい。",
+    "sentence_furigana": "蚊【か】に刺【さ】されてかゆい。",
+    "meaning": "I have an itchy mosquito bite."
+  },
+  {
+    "sentence": "虫眼鏡で小さな虫を見る。",
+    "sentence_furigana": "虫眼鏡【むしめがね】で小【ちい】さな虫【むし】を見【み】る。",
+    "meaning": "I look at small insects with a magnifying glass."
+  },
+  {
+    "sentence": "害虫駆除が必要だ。",
+    "sentence_furigana": "害虫【がいちゅう】駆除【くじょ】が必要【ひつよう】だ。",
+    "meaning": "Pest control is necessary."
+  },
+  {
+    "sentence": "虫の知らせがあった。",
+    "sentence_furigana": "虫【むし】の知【し】らせがあった。",
+    "meaning": "I had a premonition."
+  },
+  {
+    "sentence": "彼は虫が良い。",
+    "sentence_furigana": "彼【かれ】は虫【むし】が良い【よい】。",
+    "meaning": "He has a good temperament."
+  },
+  {
+    "sentence": "虫の居所が分からない。",
+    "sentence_furigana": "虫【むし】の居所【いどころ】が分【わ】からない。",
+    "meaning": "I don't know where he is."
+  },
+  {
+    "sentence": "虫が悪い。",
+    "sentence_furigana": "虫【むし】が悪【わる】い。",
+    "meaning": "I have a bad feeling."
+  },
+  {
+    "sentence": "彼は少し虫が良い。",
+    "sentence_furigana": "彼【かれ】は少【すこ】し虫【むし】が良い【よい】。",
+    "meaning": "He is a bit eccentric."
+  },
+  {
+    "sentence": "虫垂炎になった。",
+    "sentence_furigana": "虫垂炎【ちゅうすいえん】になった。",
+    "meaning": "I got appendicitis."
+  },
+  {
+    "sentence": "この虫は美しい。",
+    "sentence_furigana": "この虫【むし】は美【うつく】しい。",
+    "meaning": "This insect is beautiful."
+  },
+  {
+    "sentence": "アリが砂糖を運んでいる。",
+    "sentence_furigana": "アリが砂糖【さとう】を運【はこ】んでいる。",
+    "meaning": "Ants are carrying sugar."
+  },
+  {
+    "sentence": "チョウが花粉を運ぶ。",
+    "sentence_furigana": "チョウが花粉【かふん】を運【はこ】ぶ。",
+    "meaning": "Butterflies carry pollen."
+  },
+  {
+    "sentence": "セミの幼虫は地中で育つ。",
+    "sentence_furigana": "セミの幼虫【ようちゅう】は地中【ちちゅう】で育【そだ】つ。",
+    "meaning": "The larvae of cicadas grow underground."
+  },
+  {
+    "sentence": "カブトムシのオスは角が大きい。",
+    "sentence_furigana": "カブトムシのオスは角【つの】が大【おお】きい。",
+    "meaning": "The male rhinoceros beetle has large horns."
+  },
+  {
+    "sentence": "テントウムシはアブラムシを食べる。",
+    "sentence_furigana": "テントウムシはアブラムシを食【た】べる。",
+    "meaning": "Ladybugs eat aphids."
+  },
+  {
+    "sentence": "ゴキブリが出ないように掃除する。",
+    "sentence_furigana": "ゴキブリが出【で】ないように掃除【そうじ】する。",
+    "meaning": "I clean so that cockroaches don't appear."
+  },
+  {
+    "sentence": "トンボが水面をかすめている。",
+    "sentence_furigana": "トンボが水面【すいめん】をかすめている。",
+    "meaning": "Dragonflies are skimming the water surface."
+  },
+  {
+    "sentence": "ミツバチの巣から蜂蜜を取る。",
+    "sentence_furigana": "ミツバチの巣【す】から蜂蜜【はちみつ】を取【と】る。",
+    "meaning": "I take honey from a beehive."
+  },
+  {
+    "sentence": "カタツムリは雨の日に出る。",
+    "sentence_furigana": "カタツムリは雨【あめ】の日【ひ】に出【で】る。",
+    "meaning": "Snails come out on rainy days."
+  },
+  {
+    "sentence": "蝶は卵から生まれる。",
+    "sentence_furigana": "蝶【ちょう】は卵【たまご】から生【う】まれる。",
+    "meaning": "Butterflies are born from eggs."
+  },
+  {
+    "sentence": "アリは集団で生活する。",
+    "sentence_furigana": "アリは集団【しゅうだん】で生活【せいかつ】する。",
+    "meaning": "Ants live in colonies."
+  },
+  {
+    "sentence": "ムカデは夜行性だ。",
+    "sentence_furigana": "ムカデは夜行性【やこうせい】だ。",
+    "meaning": "Centipedes are nocturnal."
+  },
+  {
+    "sentence": "ダンゴムシは暗くて湿った場所を好む。",
+    "sentence_furigana": "ダンゴムシは暗【くら】くて湿【しめ】った場所【ばしょ】を好【この】む。",
+    "meaning": "Pill bugs prefer dark, damp places."
+  },
+  {
+    "sentence": "カマキリは獲物を捕らえる。",
+    "sentence_furigana": "カマキリは獲物【えもの】を捕【と】らえる。",
+    "meaning": "A praying mantis catches prey."
+  },
+  {
+    "sentence": "ホタルは繁殖期に光る。",
+    "sentence_furigana": "ホタルは繁殖期【はんしょくき】に光【ひか】る。",
+    "meaning": "Fireflies glow during mating season."
+  },
+  {
+    "sentence": "子供が虫取り網を持っている。",
+    "sentence_furigana": "子供【こども】が虫取【むしと】り網【あみ】を持【も】っている。",
+    "meaning": "A child is holding an insect net."
+  },
+  {
+    "sentence": "昆虫の生態を調べる。",
+    "sentence_furigana": "昆虫【こんちゅう】の生態【せいたい】を調【しら】べる。",
+    "meaning": "I will investigate the ecology of insects."
+  },
+  {
+    "sentence": "この畑は虫に荒らされている。",
+    "sentence_furigana": "この畑【はたけ】は虫【むし】に荒【あ】らされている。",
+    "meaning": "This field is being ravaged by insects."
+  },
+  {
+    "sentence": "虫酸が走る。",
+    "sentence_furigana": "虫酸【むしず】が走【はし】る。",
+    "meaning": "I feel nauseous."
+  },
+  {
+    "sentence": "彼は些細なことで虫の居所が悪くなる。",
+    "sentence_furigana": "彼【かれ】は些細【ささい】なことで虫【むし】の居所【いどころ】が悪【わる】くなる。",
+    "meaning": "He gets upset over trivial things."
+  },
+  {
+    "sentence": "虫歯が痛む。",
+    "sentence_furigana": "虫歯【むしば】が痛【いた】む。",
+    "meaning": "My toothache hurts."
+  },
+  {
+    "sentence": "カメムシは臭い。",
+    "sentence_furigana": "カメムシは臭【くさ】い。",
+    "meaning": "Stink bugs are smelly."
+  },
+  {
+    "sentence": "カナブンが飛んできた。",
+    "sentence_furigana": "カナブンが飛【と】んできた。",
+    "meaning": "A June beetle flew over."
+  },
+  {
+    "sentence": "子供がセミの抜け殻を集めている。",
+    "sentence_furigana": "子供【こども】がセミの抜【ぬ】け殻【がら】を集【あつ】めている。",
+    "meaning": "A child is collecting cicada exuviae."
+  },
+  {
+    "sentence": "アリが道路を横断している。",
+    "sentence_furigana": "アリが道路【どうろ】を横断【おうだん】している。",
+    "meaning": "Ants are crossing the road."
+  },
+  {
+    "sentence": "蝶の標本を作った。",
+    "sentence_furigana": "蝶【ちょう】の標本【ひょうほん】を作【つく】った。",
+    "meaning": "I made butterfly specimens."
+  },
+  {
+    "sentence": "トンボがたくさん飛んでいる。",
+    "sentence_furigana": "トンボがたくさん飛【と】んでいる。",
+    "meaning": "Many dragonflies are flying."
+  },
+  {
+    "sentence": "ミツバチが集団で働いている。",
+    "sentence_furigana": "ミツバチが集団【しゅうだん】で働【はたら】いている。",
+    "meaning": "Bees are working in a group."
+  },
+  {
+    "sentence": "カタツムリの殻は美しい。",
+    "sentence_furigana": "カタツムリの殻【から】は美【うつく】しい。",
+    "meaning": "The shell of a snail is beautiful."
+  },
+  {
+    "sentence": "この虫は見た目が怖い。",
+    "sentence_furigana": "この虫【むし】は見た目【みため】が怖【こわ】い。",
+    "meaning": "This insect looks scary."
+  },
+  {
+    "sentence": "虫垂炎の手術を受けた。",
+    "sentence_furigana": "虫垂炎【ちゅうすいえん】の手術【しゅじゅつ】を受【う】けた。",
+    "meaning": "I had surgery for appendicitis."
+  },
+  {
+    "sentence": "蚊が耳元で飛んでいる。",
+    "sentence_furigana": "蚊【か】が耳元【みみもと】で飛【と】んでいる。",
+    "meaning": "A mosquito is flying by my ear."
+  },
+  {
+    "sentence": "ハチが巣を作っている。",
+    "sentence_furigana": "ハチが巣【す】を作【つく】っている。",
+    "meaning": "A bee is building a nest."
+  },
+  {
+    "sentence": "虫歯を治療した。",
+    "sentence_furigana": "虫歯【むしば】を治療【ちりょう】した。",
+    "meaning": "I treated a cavity."
+  },
+  {
+    "sentence": "虫の声を聞きながら眠る。",
+    "sentence_furigana": "虫【むし】の声【こえ】を聞【き】きながら眠【ねむ】る。",
+    "meaning": "I fall asleep listening to the sounds of insects."
+  },
+  {
+    "sentence": "アリは勤勉な虫だ。",
+    "sentence_furigana": "アリは勤勉【きんべん】な虫【むし】だ。",
+    "meaning": "Ants are diligent insects."
+  },
+  {
+    "sentence": "セミが木の上で鳴いている。",
+    "sentence_furigana": "セミが木【き】の上【うえ】で鳴【な】いている。",
+    "meaning": "Cicadas are singing in the trees."
+  },
+  {
+    "sentence": "チョウが庭を舞っている。",
+    "sentence_furigana": "チョウが庭【にわ】を舞【ま】っている。",
+    "meaning": "Butterflies are dancing in the garden."
+  },
+  {
+    "sentence": "トンボが獲物を捕まえる。",
+    "sentence_furigana": "トンボが獲物【えもの】を捕【と】らえる。",
+    "meaning": "Dragonflies catch prey."
+  },
+  {
+    "sentence": "ミツバチの巣には女王蜂がいる。",
+    "sentence_furigana": "ミツバチの巣【す】には女王蜂【じょおうばち】がいる。",
+    "meaning": "There is a queen bee in the beehive."
+  },
+  {
+    "sentence": "ゴキブリは暗い場所を好む。",
+    "sentence_furigana": "ゴキブリは暗【くら】い場所【ばしょ】を好【この】む。",
+    "meaning": "Cockroaches prefer dark places."
+  },
+  {
+    "sentence": "カタツムリが葉を食べている。",
+    "sentence_furigana": "カタツムリが葉【は】を食【た】べている。",
+    "meaning": "A snail is eating a leaf."
+  },
+  {
+    "sentence": "カマキリは擬態が得意だ。",
+    "sentence_furigana": "カマキリは擬態【ぎたい】が得意【とくい】だ。",
+    "meaning": "Praying mantises are good at camouflage."
+  },
+  {
+    "sentence": "ホタルが川辺で光っている。",
+    "sentence_furigana": "ホタルが川辺【かわべ】で光【ひか】っている。",
+    "meaning": "Fireflies are shining by the river."
+  },
+  {
+    "sentence": "子供が虫取りをしている。",
+    "sentence_furigana": "子供【こども】が虫取【むしと】りをしている。",
+    "meaning": "Children are catching insects."
+  },
+  {
+    "sentence": "彼は最近少し虫がおかしい。",
+    "sentence_furigana": "彼【かれ】は最近【さいきん】少【すこ】し虫【むし】がおかしい。",
+    "meaning": "He has been acting a bit strange lately."
+  },
+  {
+    "sentence": "彼は人の虫の居所を探る。",
+    "sentence_furigana": "彼【かれ】は人【ひと】の虫【むし】の居所【いどころ】を探【さが】る。",
+    "meaning": "He tries to find out what people are thinking."
+  },
+  {
+    "sentence": "ムカデが家の中に入ってきた。",
+    "sentence_furigana": "ムカデが家【いえ】の中【なか】に入【はい】ってきた。",
+    "meaning": "A centipede came into the house."
+  },
+  {
+    "sentence": "ダンゴムシは踏むと死んでしまう。",
+    "sentence_furigana": "ダンゴムシは踏【ふ】むと死【し】んでしまう。",
+    "meaning": "Pill bugs die if you step on them."
+  },
+  {
+    "sentence": "カブトムシの幼虫を育てている。",
+    "sentence_furigana": "カブトムシの幼虫【ようちゅう】を育【そだ】てている。",
+    "meaning": "I am raising rhinoceros beetle larvae."
+  },
+  {
+    "sentence": "テントウムシの幼虫はアブラムシを食べる。",
+    "sentence_furigana": "テントウムシの幼虫【ようちゅう】はアブラムシを食【た】べる。",
+    "meaning": "Ladybug larvae eat aphids."
+  },
+  {
+    "sentence": "セミの鳴き声がうるさい。",
+    "sentence_furigana": "セミの鳴【な】き声【ごえ】がうるさい。",
+    "meaning": "The sound of cicadas is noisy."
+  },
+  {
+    "sentence": "蚊が夏にはたくさん発生する。",
+    "sentence_furigana": "蚊【か】が夏【なつ】にはたくさん発生【はっせい】する。",
+    "meaning": "Mosquitoes occur in large numbers in summer."
+  },
+  {
+    "sentence": "アリの行列が続いている。",
+    "sentence_furigana": "アリの行列【ぎょうれつ】が続【つづ】いている。",
+    "meaning": "A line of ants continues."
+  },
+  {
+    "sentence": "蝶が花から花へと移っている。",
+    "sentence_furigana": "蝶【ちょう】が花【はな】から花【はな】へと移【うつ】っている。",
+    "meaning": "Butterflies are moving from flower to flower."
+  },
+  {
+    "sentence": "トンボが池の上を飛んでいる。",
+    "sentence_furigana": "トンボが池【いけ】の上【うえ】を飛【と】んでいる。",
+    "meaning": "Dragonflies are flying over the pond."
+  },
+  {
+    "sentence": "ミツバチが忙しそうに働いている。",
+    "sentence_furigana": "ミツバチが忙【いそが】しそうに働【はたら】いている。",
+    "meaning": "Bees are working busily."
+  },
+  {
+    "sentence": "カタツムリは殻を背負っている。",
+    "sentence_furigana": "カタツムリは殻【から】を背負【せお】っている。",
+    "meaning": "Snails carry their shells on their backs."
+  },
+  {
+    "sentence": "カメムシが洗濯物についていた。",
+    "sentence_furigana": "カメムシが洗濯物【せんたくもの】についていた。",
+    "meaning": "A stink bug was on the laundry."
+  },
+  {
+    "sentence": "カナブンが窓に当たった。",
+    "sentence_furigana": "カナブンが窓【まど】に当【あ】たった。",
+    "meaning": "A June beetle hit the window."
+  },
+  {
+    "sentence": "子供が虫歯にならないように注意している。",
+    "sentence_furigana": "子供【こども】が虫歯【むしば】にならないように注意【ちゅうい】している。",
+    "meaning": "I am careful so that children do not get cavities."
+  },
+  {
+    "sentence": "彼の虫の良いところが好きだ。",
+    "sentence_furigana": "彼【かれ】の虫【むし】の良い【よい】ところが好き【すき】だ。",
+    "meaning": "I like his good-naturedness."
+  },
+  {
+    "sentence": "この虫は人間に害はない。",
+    "sentence_furigana": "この虫【むし】は人間【にんげん】に害【がい】はない。",
+    "meaning": "This insect is not harmful to humans."
+  },
+  {
+    "sentence": "アリが餌を運んでいる。",
+    "sentence_furigana": "アリが餌【えさ】を運【はこ】んでいる。",
+    "meaning": "Ants are carrying food."
+  },
+  {
+    "sentence": "チョウが蜜を吸っている。",
+    "sentence_furigana": "チョウが蜜【みつ】を吸【す】っている。",
+    "meaning": "Butterflies are sucking nectar."
+  },
+  {
+    "sentence": "トンボが羽を休めている。",
+    "sentence_furigana": "トンボが羽【はね】を休【やす】めている。",
+    "meaning": "A dragonfly is resting its wings."
+  },
+  {
+    "sentence": "ミツバチが花粉を集めている。",
+    "sentence_furigana": "ミツバチが花粉【かふん】を集【あつ】めている。",
+    "meaning": "Bees are collecting pollen."
+  },
+  {
+    "sentence": "ゴキブリに遭遇してしまった。",
+    "sentence_furigana": "ゴキブリに遭遇【そうぐう】してしまった。",
+    "meaning": "I encountered a cockroach."
+  },
+  {
+    "sentence": "カマキリの卵が木に付いていた。",
+    "sentence_furigana": "カマキリの卵【たまご】が木【き】に付【つ】いていた。",
+    "meaning": "A praying mantis egg was attached to the tree."
+  },
+  {
+    "sentence": "ホタルがたくさん光っている。",
+    "sentence_furigana": "ホタルがたくさん光【ひか】っている。",
+    "meaning": "Many fireflies are glowing."
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "sentence": "この部屋は静かで落ち着いた雰囲気がある。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで落【お】ち着【つ】いた雰囲気【ふんいき】がある。",
+    "meaning": "This room has a quiet and calming atmosphere."
+  },
+  {
+    "sentence": "彼は祭壇の前で静かに祈りを捧げた。",
+    "sentence_furigana": "彼【かれ】は祭壇【さいだん】の前【まえ】で静【しず】かに祈【いの】りを捧【ささ】げた。",
+    "meaning": "He quietly offered a prayer before the altar."
+  },
+  {
+    "sentence": "精進料理は肉や魚を使わないことで知られている。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は肉【にく】や魚【さかな】を使【つか】わないことで知【し】られている。",
+    "meaning": "Shojin ryori is known for not using meat or fish."
+  },
+  {
+    "sentence": "厳かな儀式が行われ、全員が心を一つにした。",
+    "sentence_furigana": "厳【おご】そかな儀式【ぎしき】が行【おこな】われ、全員【ぜんいん】が心【こころ】を一つ【ひとつ】にした。",
+    "meaning": "A solemn ceremony was held, uniting everyone's hearts."
+  },
+  {
+    "sentence": "彼女は心を清めるために断食をした。",
+    "sentence_furigana": "彼女【かのじょ】は心【こころ】を清【きよ】めるために断食【だんじき】をした。",
+    "meaning": "She fasted to purify her mind."
+  },
+  {
+    "sentence": "信者は静粛にその教えを聞いていた。",
+    "sentence_furigana": "信者【しんじゃ】は静粛【せいしゅく】にその教【おし】えを聞【き】いていた。",
+    "meaning": "The believers listened to the teachings in silence."
+  },
+  {
+    "sentence": "彼はしばらくの間、肉食を控えることにした。",
+    "sentence_furigana": "彼【かれ】はしばらくの間【あいだ】、肉食【にくしょく】を控【ひか】えることにした。",
+    "meaning": "He decided to abstain from meat for a while."
+  },
+  {
+    "sentence": "特別な部屋で、彼は瞑想にふけった。",
+    "sentence_furigana": "特別【とくべつ】な部屋【へや】で、彼【かれ】は瞑想【めいそう】にふけった。",
+    "meaning": "In a special room, he indulged in meditation."
+  },
+  {
+    "sentence": "新年を迎えるにあたり、身を清める習慣がある。",
+    "sentence_furigana": "新年【しんねん】を迎【むか】えるにあたり、身【み】を清【きよ】める習慣【しゅうかん】がある。",
+    "meaning": "There is a custom of purifying oneself upon welcoming the new year."
+  },
+  {
+    "sentence": "参拝者は静かに手を合わせていた。",
+    "sentence_furigana": "参拝者【さんぱいしゃ】は静【しず】かに手【て】を合【あ】わせていた。",
+    "meaning": "The worshippers were quietly clasping their hands."
+  },
+  {
+    "sentence": "その寺には静寂な庭園がある。",
+    "sentence_furigana": "その寺【てら】には静寂【せいじゃく】な庭園【ていえん】がある。",
+    "meaning": "That temple has a tranquil garden."
+  },
+  {
+    "sentence": "彼は神聖な場所を汚すまいと注意していた。",
+    "sentence_furigana": "彼【かれ】は神聖【しんせい】な場所【ばしょ】を汚【けが】すまいと注意【ちゅうい】していた。",
+    "meaning": "He was careful not to defile the sacred place."
+  },
+  {
+    "sentence": "お正月には、家を清めて新しい年を迎える。",
+    "sentence_furigana": "お正月【しょうがつ】には、家【いえ】を清【きよ】めて新【あら】しい年【とし】を迎【むか】える。",
+    "meaning": "At New Year's, we clean the house to welcome the new year."
+  },
+  {
+    "sentence": "祭りは厳かな雰囲気の中で行われた。",
+    "sentence_furigana": "祭【まつ】りは厳【おご】そかな雰囲気【ふんいき】の中【なか】で行【おこな】われた。",
+    "meaning": "The festival was held in a solemn atmosphere."
+  },
+  {
+    "sentence": "彼女は修行のために山奥の庵に籠もった。",
+    "sentence_furigana": "彼女【かのじょ】は修行【しゅぎょう】のために山奥【やまおく】の庵【いおり】に籠【こも】もった。",
+    "meaning": "She retreated to a hermitage deep in the mountains for ascetic practices."
+  },
+  {
+    "sentence": "食前には手を洗い、身を清めるのが礼儀です。",
+    "sentence_furigana": "食前【しょくぜん】には手【て】を洗【あら】い、身【み】を清【きよ】めるのが礼儀【れいぎ】です。",
+    "meaning": "It is customary to wash your hands and purify yourself before eating."
+  },
+  {
+    "sentence": "彼は祝祭のために特別な部屋を用意した。",
+    "sentence_furigana": "彼【かれ】は祝祭【しゅくさい】のために特別【とくべつ】な部屋【へや】を用意【ようい】した。",
+    "meaning": "He prepared a special room for the festival."
+  },
+  {
+    "sentence": "その禁欲的な生活は多くの人を惹きつけた。",
+    "sentence_furigana": "その禁欲的【きんよくてき】な生活【せいかつ】は多【おお】くの人【ひと】を惹【ひ】きつけた。",
+    "meaning": "That ascetic lifestyle attracted many people."
+  },
+  {
+    "sentence": "神主は祝詞を奏上するために祭壇に向かった。",
+    "sentence_furigana": "神主【かんぬし】は祝詞【のりと】を奏上【そうじょう】するために祭壇【さいだん】に向【む】かった。",
+    "meaning": "The Shinto priest headed towards the altar to recite the norito."
+  },
+  {
+    "sentence": "雨が降っているので、外出を控えることにした。",
+    "sentence_furigana": "雨【あめ】が降【ふ】っている so、外出【がいしゅつ】を控【ひか】えることにした。",
+    "meaning": "Since it's raining, I decided to refrain from going out."
+  },
+  {
+    "sentence": "この部屋は静かで勉強に適している。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで勉強【べんきょう】に適【てき】している。",
+    "meaning": "This room is quiet and suitable for studying."
+  },
+  {
+    "sentence": "彼女は祭りの前に身を清め、神に祈った。",
+    "sentence_furigana": "彼女【かのじょ】は祭【まつ】りの前【まえ】に身【み】を清【きよ】め、神【かみ】に祈【いの】った。",
+    "meaning": "Before the festival, she purified herself and prayed to the gods."
+  },
+  {
+    "sentence": "精進料理の味を確かめるために訪れた。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】の味【あじ】を確か【たし】めるために訪【おとず】れた。",
+    "meaning": "I visited to try the taste of Shojin ryori."
+  },
+  {
+    "sentence": "彼は寺に籠もり、修行に専念した。",
+    "sentence_furigana": "彼【かれ】は寺【てら】に籠【こも】り、修行【しゅぎょう】に専念【せんねん】した。",
+    "meaning": "He secluded himself in the temple and devoted himself to ascetic practices."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気で行われた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】で行【おこな】われた。",
+    "meaning": "The ritual was performed in a solemn atmosphere."
+  },
+  {
+    "sentence": "今日は静かに過ごしたい日だ。",
+    "sentence_furigana": "今日【きょう】は静【しず】かに過【す】ごしたい日【ひ】だ。",
+    "meaning": "Today is a day I want to spend quietly."
+  },
+  {
+    "sentence": "彼は何かを避けるように早く歩いた。",
+    "sentence_furigana": "彼【かれ】は何か【なにか】を避【さ】けるように早【はや】く歩【ある】いた。",
+    "meaning": "He walked quickly as if avoiding something."
+  },
+  {
+    "sentence": "彼女は神聖な儀式のために特別な装いをした。",
+    "sentence_furigana": "彼女【かのじょ】は神聖【しんせい】な儀式【ぎしき】のために特別【とくべつ】な装【よそお】いをした。",
+    "meaning": "She wore special attire for the sacred ritual."
+  },
+  {
+    "sentence": "この部屋は静かで、集中して読書ができる。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、集中【しゅうちゅう】して読書【どくしょ】ができる。",
+    "meaning": "This room is quiet and allows for concentrated reading."
+  },
+  {
+    "sentence": "参拝者は静かに並び、祈りを捧げた。",
+    "sentence_furigana": "参拝者【さんぱいしゃ】は静【しず】かに並【なら】び、祈【いの】りを捧【ささ】げた。",
+    "meaning": "The worshippers lined up quietly and offered prayers."
+  },
+  {
+    "sentence": "彼は祭壇に供物を置いた。",
+    "sentence_furigana": "彼【かれ】は祭壇【さいだん】に供物【そむつ】を置【お】いた。",
+    "meaning": "He placed offerings on the altar."
+  },
+  {
+    "sentence": "その僧侶は戒律を守り、精進潔斎を行った。",
+    "sentence_furigana": "その僧侶【そうりょ】は戒律【かいりつ】を守【まも】り、精進潔斎【しょうじんけっさい】を行【おこな】った。",
+    "meaning": "The monk observed the precepts and performed purification rituals."
+  },
+  {
+    "sentence": "彼は普段と違う様子で、何かを避けようとしているように見えた。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】と違【ちが】う様子【ようす】で、何か【なにか】を避【さ】けようとしているように見【み】えた。",
+    "meaning": "He seemed different from usual, as if trying to avoid something."
+  },
+  {
+    "sentence": "この部屋は静かなので、瞑想に適しています。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かなので、瞑想【めいそう】に適【てき】しています。",
+    "meaning": "This room is quiet, so it's suitable for meditation."
+  },
+  {
+    "sentence": "彼女は祭壇に感謝の気持ちを込めて花を供えた。",
+    "sentence_furigana": "彼女【かのじょ】は祭壇【さいだん】に感謝【かんしゃ】の気持【きも】ちを込【こ】めて花【はな】を供【そな】えた。",
+    "meaning": "She offered flowers to the altar with gratitude."
+  },
+  {
+    "sentence": "精進料理はヘルシーで体に良いと評判だ。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】はヘルシーで体【からだ】に良【よ】いと評判【ひょうばん】だ。",
+    "meaning": "Shojin ryori is reputed to be healthy and good for the body."
+  },
+  {
+    "sentence": "彼は寺に数日籠もり、修行に励んだ。",
+    "sentence_furigana": "彼【かれ】は寺【てら】に数日【すうじつ】籠【こも】り、修行【しゅぎょう】に励【はげ】んだ。",
+    "meaning": "He stayed in the temple for several days, diligently practicing."
+  },
+  {
+    "sentence": "その儀式は厳粛で、参加者全員が静かにしていた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】で、参加者全員【さんかしゃぜんいん】が静【しず】かにしていた。",
+    "meaning": "The ritual was solemn, and all participants were quiet."
+  },
+  {
+    "sentence": "彼女は静かに本を読んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに本【ほん】を読【よ】んでいた。",
+    "meaning": "She was reading a book quietly."
+  },
+  {
+    "sentence": "彼は人混みを避けるように、路地に入っていった。",
+    "sentence_furigana": "彼【かれ】は人混【ひとご】みを避【さ】けるように、路地【ろじ】に入【はい】っていった。",
+    "meaning": "He entered an alleyway, as if avoiding the crowd."
+  },
+  {
+    "sentence": "彼女はこの部屋を静かで心地よい空間だと感じている。",
+    "sentence_furigana": "彼女【かのじょ】はこの部屋【へや】を静【しず】かで心地【ここち】よい空間【くうかん】だと感【かん】じている。",
+    "meaning": "She finds this room to be a quiet and comfortable space."
+  },
+  {
+    "sentence": "祭壇の前で、彼は厳かに祝詞を唱えた。",
+    "sentence_furigana": "祭壇【さいだん】の前【まえ】で、彼【かれ】は厳【おご】そかに祝詞【のりと】を唱【とな】えた。",
+    "meaning": "Before the altar, he solemnly recited the norito."
+  },
+  {
+    "sentence": "精進料理は見た目も美しく、味わい深い。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は見た目【みため】も美【うつく】しく、味わい深【あじわいぶか】い。",
+    "meaning": "Shojin ryori is visually beautiful and deeply flavorful."
+  },
+  {
+    "sentence": "彼は寺院に籠もって修行するという厳しい生活を送った。",
+    "sentence_furigana": "彼【かれ】は寺院【じいん】に籠【こも】って修行【しゅぎょう】するという厳【きび】しい生活【せいかつ】を送【おく】った。",
+    "meaning": "He lived a strict life, secluding himself in the temple to train."
+  },
+  {
+    "sentence": "その厳かな雰囲気は、心を落ち着かせる効果があった。",
+    "sentence_furigana": "その厳粛【げんしゅく】な雰囲気【ふんいき】は、心【こころ】を落【お】ち着【つ】かせる効果【こうか】があった。",
+    "meaning": "That solemn atmosphere had the effect of calming the mind."
+  },
+  {
+    "sentence": "彼女は静かに窓の外を眺めていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに窓【まど】の外【そと】を眺【なが】めていた。",
+    "meaning": "She was quietly gazing out the window."
+  },
+  {
+    "sentence": "彼は厄災を避けるため、お祓いを受けた。",
+    "sentence_furigana": "彼【かれ】は厄災【やくさい】を避【さ】けるため、お祓【はら】いを受【う】けた。",
+    "meaning": "He underwent purification to avoid disaster."
+  },
+  {
+    "sentence": "この部屋はとても静かで、リラックスできる。",
+    "sentence_furigana": "この部屋【へや】はとても静【しず】かで、リラックスできる。",
+    "meaning": "This room is very quiet and relaxing."
+  },
+  {
+    "sentence": "祭壇に飾られた花々は、神聖な空間を演出していた。",
+    "sentence_furigana": "祭壇【さいだん】に飾【かざ】られた花々【はなばな】は、神聖【しんせい】な空間【くうかん】を演出【えんしゅつ】していた。",
+    "meaning": "The flowers decorated on the altar created a sacred space."
+  },
+  {
+    "sentence": "精進料理を食べることで、心身を清めることができる。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】を食【た】べることで、心身【しんしん】を清【きよ】めることができる。",
+    "meaning": "By eating Shojin ryori, one can purify mind and body."
+  },
+  {
+    "sentence": "彼はしばらくの間、俗世を離れて寺に籠もるつもりだ。",
+    "sentence_furigana": "彼【かれ】はしばらくの間【あいだ】、俗世【ぞくせ】を離【はな】れて寺【てら】に籠【こも】るつもりだ。",
+    "meaning": "He intends to leave the secular world and seclude himself in a temple for a while."
+  },
+  {
+    "sentence": "その儀式は静かで厳かな雰囲気の中で執り行われた。",
+    "sentence_furigana": "その儀式【ぎしき】は静【しず】かで厳粛【げんしゅく】な雰囲気【ふんいき】の中【なか】で執【と】り行【おこな】われた。",
+    "meaning": "The ritual was performed in a quiet and solemn atmosphere."
+  },
+  {
+    "sentence": "彼女は静かに庭の手入れをしていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに庭【にわ】の手入【てい】れをしていた。",
+    "meaning": "She was quietly tending to the garden."
+  },
+  {
+    "sentence": "彼は災いを避けるために、お守りを身につけた。",
+    "sentence_furigana": "彼【かれ】は災【わざわ】いを避【さ】けるために、お守【まも】りを身【み】につけた。",
+    "meaning": "He wore an amulet to avoid misfortune."
+  },
+  {
+    "sentence": "この部屋は静かで、書斎として利用するのに最適だ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、書斎【しょさい】として利用【りよう】するのに最適【さいてき】だ。",
+    "meaning": "This room is quiet and ideal for use as a study."
+  },
+  {
+    "sentence": "祭壇には神聖なろうそくが灯されていた。",
+    "sentence_furigana": "祭壇【さいだん】には神聖【しんせい】なろうそくが灯【とも】されていた。",
+    "meaning": "Sacred candles were lit on the altar."
+  },
+  {
+    "sentence": "精進料理教室では、様々な調理法を学ぶことができる。",
+    "sentence_furigana": "精進料理教室【しょうじんりょうりきょうしつ】では、様々【さまざま】な調理法【ちょうりほう】を学【まな】ぶことができる。",
+    "meaning": "In a Shojin ryori class, you can learn various cooking methods."
+  },
+  {
+    "sentence": "彼は修行のために厳しい断食を行った。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のために厳【きび】しい断食【だんじき】を行【おこな】った。",
+    "meaning": "He performed strict fasting for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳かな沈黙の中で行われた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な沈黙【ちんもく】の中【なか】で行【おこな】われた。",
+    "meaning": "The ritual was conducted in solemn silence."
+  },
+  {
+    "sentence": "彼女は静かに息を吸い込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに息【いき】を吸【す】い込【こ】んだ。",
+    "meaning": "She quietly inhaled."
+  },
+  {
+    "sentence": "彼は不運を避けるため、様々な験担ぎをした。",
+    "sentence_furigana": "彼【かれ】は不運【ふうん】を避【さ】けるため、様々【さまざま】な験担【げんかつ】ぎをした。",
+    "meaning": "He did various superstitions to avoid bad luck."
+  },
+  {
+    "sentence": "この部屋は静かで、仕事に集中できる環境だ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、仕事【しごと】に集中【しゅうちゅう】できる環境【かんきょう】だ。",
+    "meaning": "This room is quiet, an environment where one can concentrate on work."
+  },
+  {
+    "sentence": "祭壇には美しい装飾が施されていた。",
+    "sentence_furigana": "祭壇【さいだん】には美【うつく】しい装飾【そうしょく】が施【ほどこ】されていた。",
+    "meaning": "Beautiful decorations were adorned on the altar."
+  },
+  {
+    "sentence": "精進料理は、素材本来の味を活かすことが特徴だ。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、素材本来【そざいほんらい】の味【あじ】を活【い】かすことが特徴【とくちょう】だ。",
+    "meaning": "Shojin ryori is characterized by making the most of the original flavors of the ingredients."
+  },
+  {
+    "sentence": "彼は修行のため、山に籠もって厳しい訓練を続けた。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、山【やま】に籠【こも】って厳【きび】しい訓練【くんれん】を続【つづ】けた。",
+    "meaning": "He secluded himself in the mountains for training and continued rigorous practice."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気の中、静かに進行した。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】の中【なか】、静【しず】かに進行【しんこう】した。",
+    "meaning": "The ritual proceeded quietly in a solemn atmosphere."
+  },
+  {
+    "sentence": "彼女は静かに瞑想を始めた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに瞑想【めいそう】を始【はじ】めた。",
+    "meaning": "She quietly began meditating."
+  },
+  {
+    "sentence": "彼は困難を避けるため、慎重に行動した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を避【さ】けるため、慎重【しんちょう】に行動【こうどう】した。",
+    "meaning": "He acted cautiously to avoid difficulties."
+  },
+  {
+    "sentence": "この部屋は静かで、読書を楽しむのに最適だ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、読書【どくしょ】を楽【たの】しむのに最適【さいてき】だ。",
+    "meaning": "This room is quiet and perfect for enjoying reading."
+  },
+  {
+    "sentence": "祭壇には清らかな水が捧げられていた。",
+    "sentence_furigana": "祭壇【さいだん】には清【きよ】らかな水【みず】が捧【ささ】げられていた。",
+    "meaning": "Pure water was offered on the altar."
+  },
+  {
+    "sentence": "精進料理は、体にも心にも優しい食事だ。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、体【からだ】にも心【こころ】にも優【やさ】しい食事【しょくじ】だ。",
+    "meaning": "Shojin ryori is a meal that is gentle on both body and mind."
+  },
+  {
+    "sentence": "彼は修行のために、肉食を断つことを決意した。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のために、肉食【にくしょく】を断【た】つことを決意【けつい】した。",
+    "meaning": "He decided to abstain from meat for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気の中で静かに進行した。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】の中【なか】で静【しず】かに進行【しんこう】した。",
+    "meaning": "The ritual proceeded quietly in a solemn atmosphere."
+  },
+  {
+    "sentence": "彼女は静かに夕日を眺めていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに夕日【ゆうひ】を眺【なが】めていた。",
+    "meaning": "She was quietly watching the sunset."
+  },
+  {
+    "sentence": "彼は悪霊を避けるため、特別な儀式を行った。",
+    "sentence_furigana": "彼【かれ】は悪霊【あくりょう】を避【さ】けるため、特別【とくべつ】な儀式【ぎしき】を行【おこな】った。",
+    "meaning": "He performed a special ritual to avoid evil spirits."
+  },
+  {
+    "sentence": "この部屋は静かで、心を落ち着かせたい時にぴったりだ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、心【こころ】を落【お】ち着【つ】かせたい時【とき】にぴったりだ。",
+    "meaning": "This room is quiet and perfect for when you want to calm your mind."
+  },
+  {
+    "sentence": "祭壇にはろうそくの炎が静かに揺れていた。",
+    "sentence_furigana": "祭壇【さいだん】にはろうそくの炎【ほのお】が静【しず】かに揺【ゆ】れていた。",
+    "meaning": "The candle flames flickered quietly on the altar."
+  },
+  {
+    "sentence": "精進料理は、野菜や穀物を中心とした健康的な食事です。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、野菜【やさい】や穀物【こくもつ】を中心【ちゅうしん】とした健康的【けんこうてき】な食事【しょくじ】です。",
+    "meaning": "Shojin ryori is a healthy meal centered around vegetables and grains."
+  },
+  {
+    "sentence": "彼は修行のため、厳しい食事制限を課した。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、厳【きび】しい食事制限【しょくじせいげん】を課【か】した。",
+    "meaning": "He imposed strict dietary restrictions for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳粛でありながらも、温かい雰囲気に包まれていた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】でありながらも、温【あたた】かい雰囲気【ふんいき】に包【つつ】まれていた。",
+    "meaning": "The ritual, while solemn, was enveloped in a warm atmosphere."
+  },
+  {
+    "sentence": "彼女は静かに祈りを捧げていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに祈【いの】りを捧【ささ】げていた。",
+    "meaning": "She was quietly offering prayers."
+  },
+  {
+    "sentence": "彼は失敗を避けるため、何度も計画を見直した。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】を避【さ】けるため、何度【なんど】も計画【けいかく】を見直【みなお】した。",
+    "meaning": "He reviewed the plan many times to avoid failure."
+  },
+  {
+    "sentence": "この部屋は静かで、読書会を開くのに適している。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、読書会【どくしょかい】を開【ひら】くのに適【てき】している。",
+    "meaning": "This room is quiet and suitable for holding a book club."
+  },
+  {
+    "sentence": "祭壇に供えられた果物は瑞々しかった。",
+    "sentence_furigana": "祭壇【さいだん】に供【そな】えられた果物【くだもの】は瑞々【みずみず】しかった。",
+    "meaning": "The fruits offered on the altar were fresh and dewy."
+  },
+  {
+    "sentence": "精進料理は、自然の恵みに感謝する心を育む。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、自然【しぜん】の恵【めぐ】みに感謝【かんしゃ】する心【こころ】を育【はぐく】む。",
+    "meaning": "Shojin ryori fosters a heart of gratitude for nature's blessings."
+  },
+  {
+    "sentence": "彼は修行のために山岳寺院に籠もった。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のために山岳寺院【さんがくじいん】に籠【こも】もった。",
+    "meaning": "He secluded himself in a mountain temple for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は静かで荘厳な雰囲気に満ちていた。",
+    "sentence_furigana": "その儀式【ぎしき】は静【しず】かで荘厳【そうごん】な雰囲気【ふんいき】に満【み】ちていた。",
+    "meaning": "The ritual was filled with a quiet and majestic atmosphere."
+  },
+  {
+    "sentence": "彼女は静かに物思いにふけっていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに物思【ものおも】いにふけっていた。",
+    "meaning": "She was quietly lost in thought."
+  },
+  {
+    "sentence": "彼は事故を避けるため、安全運転を心がけた。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】を避【さ】けるため、安全運転【あんぜんうんてん】を心【こころ】がけた。",
+    "meaning": "He drove safely, mindful of avoiding accidents."
+  },
+  {
+    "sentence": "この部屋は静かで、リラックスできる雰囲気がある。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、リラックスできる雰囲気【ふんいき】がある。",
+    "meaning": "This room is quiet and has a relaxing atmosphere."
+  },
+  {
+    "sentence": "祭壇に飾られた鮮やかな花々が目を引いた。",
+    "sentence_furigana": "祭壇【さいだん】に飾【かざ】られた鮮【あざ】やかな花々【はなばな】が目【め】を引【ひ】いた。",
+    "meaning": "The vivid flowers displayed on the altar caught the eye."
+  },
+  {
+    "sentence": "精進料理は、仏教の教えに基づいた食事法です。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、仏教【ぶっきょう】の教【おし】えに基【もと】づいた食事法【しょくじほう】です。",
+    "meaning": "Shojin ryori is a dietary method based on Buddhist teachings."
+  },
+  {
+    "sentence": "彼は修行のために、しばらくの間肉や魚を断った。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のために、しばらくの間【あいだ】肉【にく】や魚【さかな】を断【た】った。",
+    "meaning": "He abstained from meat and fish for a while for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳粛な静けさの中で行われた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な静【しず】けさの中【なか】で行【おこな】われた。",
+    "meaning": "The ritual was performed in solemn stillness."
+  },
+  {
+    "sentence": "彼女は静かに椅子に腰掛けた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに椅子【いす】に腰掛【こしか】けた。",
+    "meaning": "She quietly sat down on the chair."
+  },
+  {
+    "sentence": "彼は病を避けるため、健康的な生活を心がけている。",
+    "sentence_furigana": "彼【かれ】は病【やま】いを避【さ】けるため、健康的【けんこうてき】な生活【せいかつ】を心【こころ】がけている。",
+    "meaning": "He is mindful of living a healthy lifestyle to avoid illness."
+  },
+  {
+    "sentence": "この部屋は静かで、考え事を整理するのに良い。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、考【かんが】え事【ごと】を整理【せいり】するのに良【よ】い。",
+    "meaning": "This room is quiet and good for organizing one's thoughts."
+  },
+  {
+    "sentence": "祭壇は神聖な場所として大切にされていた。",
+    "sentence_furigana": "祭壇【さいだん】は神聖【しんせい】な場所【ばしょ】として大切【たいせつ】にされていた。",
+    "meaning": "The altar was treasured as a sacred place."
+  },
+  {
+    "sentence": "精進料理は、ベジタリアンやヴィーガンにも人気がある。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、ベジタリアンやヴィーガンにも人気【にんき】がある。",
+    "meaning": "Shojin ryori is also popular among vegetarians and vegans."
+  },
+  {
+    "sentence": "彼は修行のため、寺に約一ヶ月籠もった。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、寺【てら】に約【やく】一ヶ月【いっかげつ】籠【こも】もった。",
+    "meaning": "He stayed secluded in the temple for about a month for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳粛な儀式であり、心を打たれた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な儀式【ぎしき】であり、心【こころ】を打【う】たれた。",
+    "meaning": "The ritual was solemn, and I was deeply moved."
+  },
+  {
+    "sentence": "彼女は静かに音楽を聴いていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに音楽【おんがく】を聴【き】いていた。",
+    "meaning": "She was quietly listening to music."
+  },
+  {
+    "sentence": "彼は災難を避けるために、お寺にお参りに行った。",
+    "sentence_furigana": "彼【かれ】は災難【さいなん】を避【さ】けるために、お寺【てら】にお参【まい】りに行【い】った。",
+    "meaning": "He went to the temple to pray to avoid misfortune."
+  },
+  {
+    "sentence": "この部屋は静かで、集中して作業できる。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、集中【しゅうちゅう】して作業【さぎょう】できる。",
+    "meaning": "This room is quiet and allows for concentrated work."
+  },
+  {
+    "sentence": "祭壇には供え物が並べられていた。",
+    "sentence_furigana": "祭壇【さいだん】には供【そ】なえ物【もの】が並【なら】べられていた。",
+    "meaning": "Offerings were arranged on the altar."
+  },
+  {
+    "sentence": "精進料理は、命を大切にする考え方に基づいています。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、命【いのち】を大切【たいせつ】にする考【かんが】え方【かた】に基【もと】づいています。",
+    "meaning": "Shojin ryori is based on the philosophy of cherishing life."
+  },
+  {
+    "sentence": "彼は修行のため断食を行い、心身の浄化を試みた。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため断食【だんじき】を行【おこな】い、心身【しんしん】の浄化【じょうか】を試【こころ】みた。",
+    "meaning": "He fasted for ascetic practice, attempting to purify his mind and body."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気の中、厳かに執り行われた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】の中【なか】、厳【おご】そかに執【と】り行【おこな】われた。",
+    "meaning": "The ritual was solemnly performed in a solemn atmosphere."
+  },
+  {
+    "sentence": "彼女は静かに庭のベンチに座っていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに庭【にわ】のベンチに座【すわ】っていた。",
+    "meaning": "She was quietly sitting on the garden bench."
+  },
+  {
+    "sentence": "彼は不幸を避けるため、吉日に引っ越しをした。",
+    "sentence_furigana": "彼【かれ】は不幸【ふこう】を避【さ】けるため、吉日【きちじつ】に引【ひ】っ越【こ】しをした。",
+    "meaning": "He moved on an auspicious day to avoid misfortune."
+  },
+  {
+    "sentence": "この部屋は静かで、リフレッシュできる空間だ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、リフレッシュできる空間【くうかん】だ。",
+    "meaning": "This room is quiet and a space where one can refresh themselves."
+  },
+  {
+    "sentence": "祭壇に供えられた香は、静かに立ち込めていた。",
+    "sentence_furigana": "祭壇【さいだん】に供【そ】なえられた香【こう】は、静【しず】かに立【た】ち込【こ】めていた。",
+    "meaning": "The incense offered on the altar peacefully diffused."
+  },
+  {
+    "sentence": "精進料理は、植物性の食材だけで作られる料理です。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、植物性【しょくぶつせい】の食材【しょくざい】だけで作【つく】られる料理【りょうり】です。",
+    "meaning": "Shojin ryori is a dish made solely with plant-based ingredients."
+  },
+  {
+    "sentence": "彼は修行のため、厳しい断食を続けた。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、厳【きび】しい断食【だんじき】を続【つづ】けた。",
+    "meaning": "He continued strict fasting for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気の中で行われ、誰もが静かに見守った。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】の中【なか】で行【おこな】われ、誰【だれ】もが静【しず】かに見守【みまも】った。",
+    "meaning": "The ritual was performed in a solemn atmosphere, and everyone watched quietly."
+  },
+  {
+    "sentence": "彼女は静かに歩きながら、考えを巡らせていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに歩【ある】きながら、考【かんが】えを巡【めぐ】らせていた。",
+    "meaning": "She was quietly walking, letting her thoughts wander."
+  },
+  {
+    "sentence": "彼は後悔を避けるため、できる限りのことをした。",
+    "sentence_furigana": "彼【かれ】は後悔【こうかい】を避【さ】けるため、できる限【かぎ】りのことをした。",
+    "meaning": "He did everything he could to avoid regret."
+  },
+  {
+    "sentence": "この部屋は静かで、リラックスできる素晴らしい場所だ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、リラックスできる素晴【すば】らしい場所【ばしょ】だ。",
+    "meaning": "This room is quiet, a wonderful place to relax."
+  },
+  {
+    "sentence": "祭壇に置かれた一輪の花が神聖な雰囲気を醸し出していた。",
+    "sentence_furigana": "祭壇【さいだん】に置【お】かれた一輪【いちりん】の花【はな】が神聖【しんせい】な雰囲気【ふんいき】を醸【かも】し出【だ】していた。",
+    "meaning": "A single flower placed on the altar exuded a sacred atmosphere."
+  },
+  {
+    "sentence": "精進料理は、心と体を清めるための食事法です。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、心【こころ】と体【からだ】を清【きよ】めるための食事法【しょくじほう】です。",
+    "meaning": "Shojin ryori is a dietary method for purifying mind and body."
+  },
+  {
+    "sentence": "彼は修行のため、厳しい断食と祈りを続けた。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、厳【きび】しい断食【だんじき】と祈【いの】りを続【つづ】けた。",
+    "meaning": "He continued strict fasting and prayer for ascetic practice."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気の中で静かに進められた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】の中【なか】で静【しず】かに進【すす】められた。",
+    "meaning": "The ritual was quietly carried out in a solemn atmosphere."
+  },
+  {
+    "sentence": "彼女は静かにコーヒーを飲んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かにコーヒーを飲【の】んでいた。",
+    "meaning": "She was quietly drinking coffee."
+  },
+  {
+    "sentence": "彼は失敗を避けるために、入念な準備をした。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】を避【さ】けるために、入念【にゅうねん】な準備【じゅんび】をした。",
+    "meaning": "He made thorough preparations to avoid failure."
+  },
+  {
+    "sentence": "この部屋は静かで、書斎として使うのに最適だ。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、書斎【しょさい】として使【つか】うのに最適【さいてき】だ。",
+    "meaning": "This room is quiet and ideal for use as a study."
+  },
+  {
+    "sentence": "祭壇には、清らかな水がお供えされていた。",
+    "sentence_furigana": "祭壇【さいだん】には、清【きよ】らかな水【みず】がお供【そな】えられていた。",
+    "meaning": "Pure water was offered on the altar."
+  },
+  {
+    "sentence": "精進料理は、仏教徒が修行の一環として行う食事です。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、仏教徒【ぶっきょうと】が修行【しゅぎょう】の一環【いっかん】として行【おこな】う食事【しょくじ】です。",
+    "meaning": "Shojin ryori is a meal that Buddhists practice as part of their ascetic discipline."
+  },
+  {
+    "sentence": "彼は修行のため、肉食を断ち、静かに瞑想を行った。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、肉食【にくしょく】を断【た】ち、静【しず】かに瞑想【めいそう】を行【おこな】った。",
+    "meaning": "For ascetic practice, he abstained from meat and meditated quietly."
+  },
+  {
+    "sentence": "その儀式は厳粛な雰囲気で、静寂が支配していた。",
+    "sentence_furigana": "その儀式【ぎしき】は厳粛【げんしゅく】な雰囲気【ふんいき】で、静寂【せいじゃく】が支配【しはい】していた。",
+    "meaning": "The ritual had a solemn atmosphere, and silence reigned."
+  },
+  {
+    "sentence": "彼女は静かに部屋の片付けをしていた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かに部屋【へや】の片付【かたづ】けをしていた。",
+    "meaning": "She was quietly tidying up the room."
+  },
+  {
+    "sentence": "彼は不和を避けるため、友人と距離を置いた。",
+    "sentence_furigana": "彼【かれ】は不和【ふわ】を避【さ】けるため、友人【ゆうじん】と距離【きょり】を置【お】いた。",
+    "meaning": "He distanced himself from his friend to avoid discord."
+  },
+  {
+    "sentence": "この部屋は静かで、静かに考え事をしたい時に良い。",
+    "sentence_furigana": "この部屋【へや】は静【しず】かで、静【しず】かに考【かんが】え事【ごと】をしたい時【とき】に良【よ】い。",
+    "meaning": "This room is quiet and good for when you want to think quietly."
+  },
+  {
+    "sentence": "祭壇には感謝の念を込めて花が供えられていた。",
+    "sentence_furigana": "祭壇【さいだん】には感謝【かんしゃ】の念【ねん】を込【こ】めて花【はな】が供【そな】えられていた。",
+    "meaning": "Flowers were offered on the altar with feelings of gratitude."
+  },
+  {
+    "sentence": "精進料理は、肉や魚を使わない点が特徴的です。",
+    "sentence_furigana": "精進料理【しょうじんりょうり】は、肉【にく】や魚【さかな】を使【つか】わない点【てん】が特徴的【とくちょうてき】です。",
+    "meaning": "Shojin ryori is characterized by its use of no meat or fish."
+  },
+  {
+    "sentence": "彼は修行のため、断食と静かな祈りを続けた。",
+    "sentence_furigana": "彼【かれ】は修行【しゅぎょう】のため、断食【だんじき】と静【しず】かな祈【いの】りを続【つづ】けた。",
+    "meaning": "He continued fasting and quiet prayer for ascetic practice."
+  }
+]

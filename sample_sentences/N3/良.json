@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "良い天気ですね。",
+    "sentence_furigana": "良【よ】い天気【てんき】ですね。",
+    "meaning": "It's nice weather, isn't it?"
+  },
+  {
+    "sentence": "これは良い考えです。",
+    "sentence_furigana": "これ【これ】は良【よ】い考【かんが】えです。",
+    "meaning": "This is a good idea."
+  },
+  {
+    "sentence": "彼は良識のある人物だ。",
+    "sentence_furigana": "彼【かれ】は良【りょう】識【しき】のある人物【じんぶつ】だ。",
+    "meaning": "He is a person of good sense."
+  },
+  {
+    "sentence": "良薬は口に苦し。",
+    "sentence_furigana": "良薬【りょうやく】は口【くち】に苦【にが】し。",
+    "meaning": "Good medicine tastes bitter."
+  },
+  {
+    "sentence": "良質な材料を使っています。",
+    "sentence_furigana": "良質【りょうしつ】な材料【ざいりょう】を使【つか】っています。",
+    "meaning": "We use high-quality ingredients."
+  },
+  {
+    "sentence": "彼の評判は非常に良い。",
+    "sentence_furigana": "彼【かれ】の評判【ひょうばん】は非常【ひじょう】に良【よ】い。",
+    "meaning": "His reputation is very good."
+  },
+  {
+    "sentence": "良心に従って行動する。",
+    "sentence_furigana": "良心【りょうしん】に従【したが】って行動【こうどう】する。",
+    "meaning": "Act according to your conscience."
+  },
+  {
+    "sentence": "この味はとても良い。",
+    "sentence_furigana": "この味【あじ】はとても良【よ】い。",
+    "meaning": "This taste is very good."
+  },
+  {
+    "sentence": "良品をお届けします。",
+    "sentence_furigana": "良品【りょうひん】をお届【とど】けします。",
+    "meaning": "We will deliver a good product."
+  },
+  {
+    "sentence": "彼の成績は常に良い。",
+    "sentence_furigana": "彼【かれ】の成績【せいせき】は常【つね】に良【よ】い。",
+    "meaning": "His grades are always good."
+  },
+  {
+    "sentence": "より良い未来を目指しましょう。",
+    "sentence_furigana": "より良【よ】い未来【みらい】を目指【めざ】しましょう。",
+    "meaning": "Let's aim for a better future."
+  },
+  {
+    "sentence": "これは良い選択でした。",
+    "sentence_furigana": "これ【これ】は良【よ】い選択【せんたく】でした。",
+    "meaning": "This was a good choice."
+  },
+  {
+    "sentence": "良き友人に恵まれた。",
+    "sentence_furigana": "良【よ】き友人【ゆうじん】に恵【めぐ】まれた。",
+    "meaning": "I was blessed with good friends."
+  },
+  {
+    "sentence": "彼は改良に良い意見を持っていた。",
+    "sentence_furigana": "彼【かれ】は改良【かいりょう】に良【よ】い意見【いけん】を持【も】っていた。",
+    "meaning": "He had good opinions on improvement."
+  },
+  {
+    "sentence": "良い機会を逃さないでください。",
+    "sentence_furigana": "良【よ】い機会【きかい】を逃【のが】さないでください。",
+    "meaning": "Please don't miss this good opportunity."
+  },
+  {
+    "sentence": "これは私にとって良いことです。",
+    "sentence_furigana": "これ【これ】は私【わたし】にとって良【よ】いことです。",
+    "meaning": "This is a good thing for me."
+  },
+  {
+    "sentence": "良質な睡眠は健康に不可欠だ。",
+    "sentence_furigana": "良質【りょうしつ】な睡眠【すいみん】は健康【けんこう】に不可欠【ふかけつ】だ。",
+    "meaning": "Good sleep is essential for health."
+  },
+  {
+    "sentence": "彼は改良のために良い提案をした。",
+    "sentence_furigana": "彼【かれ】は改良【かいりょう】のため【ため】に良【よ】い提案【ていあん】をした。",
+    "meaning": "He made a good suggestion for improvement."
+  },
+  {
+    "sentence": "良心的に仕事をした。",
+    "sentence_furigana": "良心【りょうしん】的【てき】に仕事【しごと】をした。",
+    "meaning": "I worked conscientiously."
+  },
+  {
+    "sentence": "彼の意見は良い参考になる。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は良【よ】い参考【さんこう】になる。",
+    "meaning": "His opinion is a good reference."
+  },
+  {
+    "sentence": "良貨は悪貨を駆逐する。",
+    "sentence_furigana": "良貨【りょうか】は悪貨【あっか】を駆逐【くちく】する。",
+    "meaning": "Good money drives out bad money."
+  },
+  {
+    "sentence": "良い結果が得られました。",
+    "sentence_furigana": "良【よ】い結果【けっか】が得【え】られました。",
+    "meaning": "We obtained good results."
+  },
+  {
+    "sentence": "彼は良心的な価格で売っていた。",
+    "sentence_furigana": "彼【かれ】は良心【りょうしん】的【てき】な価格【かかく】で売【う】っていた。",
+    "meaning": "He was selling at reasonable prices."
+  },
+  {
+    "sentence": "この本は読む価値が良い。",
+    "sentence_furigana": "この本【ほん】は読【よ】む価値【かち】が良【よ】い。",
+    "meaning": "This book is worth reading."
+  },
+  {
+    "sentence": "良き行いは報われる。",
+    "sentence_furigana": "良【よ】き行【おこな】いは報【むく】いられる。",
+    "meaning": "Good deeds are rewarded."
+  },
+  {
+    "sentence": "良心の呵責に苦しむ。",
+    "sentence_furigana": "良心【りょうしん】の呵責【かしゃく】に苦【くる】しむ。",
+    "meaning": "Suffer from pangs of conscience."
+  },
+  {
+    "sentence": "彼は改良に良い展望を持っている。",
+    "sentence_furigana": "彼【かれ】は改良【かいりょう】に良【よ】い展望【てんぼう】を持【も】っている。",
+    "meaning": "He has a good outlook for improvement."
+  },
+  {
+    "sentence": "この薬は良い効果がある。",
+    "sentence_furigana": "この薬【くすり】は良【よ】い効果【こうか】がある。",
+    "meaning": "This medicine has a good effect."
+  },
+  {
+    "sentence": "良品を選ぶのは賢明な判断だ。",
+    "sentence_furigana": "良品【りょうひん】を選【えら】ぶのは賢明【けんめい】な判断【はんだん】だ。",
+    "meaning": "Choosing good quality products is a wise decision."
+  },
+  {
+    "sentence": "良い知らせを聞きました。",
+    "sentence_furigana": "良【よ】い新【し】らせを聞【き】きました。",
+    "meaning": "I heard good news."
+  },
+  {
+    "sentence": "彼は努力を重ねて良い結果を出した。",
+    "sentence_furigana": "彼【かれ】は努力【どりょく】を重【かさ】ねて良【よ】い結果【けっか】を出【だ】した。",
+    "meaning": "He worked hard and achieved good results."
+  },
+  {
+    "sentence": "良質なサービスを提供します。",
+    "sentence_furigana": "良質【りょうしつ】なサービスを提供【ていきょう】します。",
+    "meaning": "We provide high-quality service."
+  },
+  {
+    "sentence": "これは良い経験になりました。",
+    "sentence_furigana": "これ【これ】は良【よ】い経験【けいけん】になりました。",
+    "meaning": "This has been a good experience."
+  },
+  {
+    "sentence": "良きにつけ悪しきにつけ、彼は常に率直だ。",
+    "sentence_furigana": "良【よ】きにつけ悪【あ】しきにつけ、彼【かれ】は常【つね】に率直【そっちょく】だ。",
+    "meaning": "For better or worse, he is always frank."
+  },
+  {
+    "sentence": "彼は良心的で、信頼できる人物だ。",
+    "sentence_furigana": "彼【かれ】は良心【りょうしん】的【てき】で、信頼【しんらい】できる人物【じんぶつ】だ。",
+    "meaning": "He is conscientious and trustworthy."
+  },
+  {
+    "sentence": "良い条件で契約を結んだ。",
+    "sentence_furigana": "良【よ】い条件【じょうけん】で契約【けいやく】を結【むす】んだ。",
+    "meaning": "We signed the contract under favorable terms."
+  },
+  {
+    "sentence": "良平は私の良い友達だ。",
+    "sentence_furigana": "良平【りょうへい】は私【わたし】の良【よ】い友達【ともだち】だ。",
+    "meaning": "Ryohei is my good friend."
+  },
+  {
+    "sentence": "この計画は良い方向に向かっている。",
+    "sentence_furigana": "この計画【けいかく】は良【よ】い方向【ほうこう】に向【む】かっている。",
+    "meaning": "This plan is heading in a good direction."
+  },
+  {
+    "sentence": "良さを引き出す。",
+    "sentence_furigana": "良【よ】さを引【ひ】き出【だ】す。",
+    "meaning": "To bring out the good qualities."
+  },
+  {
+    "sentence": "彼は非常に良心的な医者だ。",
+    "sentence_furigana": "彼【かれ】は非常【ひじょう】に良心【りょうしん】的【てき】な医者【いしゃ】だ。",
+    "meaning": "He is a very conscientious doctor."
+  },
+  {
+    "sentence": "良い結果を期待しましょう。",
+    "sentence_furigana": "良【よ】い結果【けっか】を期待【きたい】しましょう。",
+    "meaning": "Let's expect good results."
+  },
+  {
+    "sentence": "良質なたんぱく質を摂る。",
+    "sentence_furigana": "良質【りょうしつ】なたんぱく質【しつ】を摂【と】る。",
+    "meaning": "Consume high-quality protein."
+  },
+  {
+    "sentence": "これは良い教材だ。",
+    "sentence_furigana": "これ【これ】は良【よ】い教材【きょうざい】だ。",
+    "meaning": "This is a good teaching material."
+  },
+  {
+    "sentence": "良心の呵責を感じる。",
+    "sentence_furigana": "良心【りょうしん】の呵責【かしゃく】を感じ【かんじ】る。",
+    "meaning": "To feel a pang of conscience."
+  },
+  {
+    "sentence": "良い機会に恵まれました。",
+    "sentence_furigana": "良【よ】い機会【きかい】に恵【めぐ】まれました。",
+    "meaning": "I was fortunate to have a good opportunity."
+  },
+  {
+    "sentence": "彼は非常に良い趣味を持っている。",
+    "sentence_furigana": "彼【かれ】は非常【ひじょう】に良【よ】い趣味【しゅみ】を持【も】っている。",
+    "meaning": "He has very good taste in hobbies."
+  },
+  {
+    "sentence": "良質な素材で作られています。",
+    "sentence_furigana": "良質【りょうしつ】な素材【そざい】で作【つく】られています。",
+    "meaning": "It is made from high-quality materials."
+  },
+  {
+    "sentence": "この映画は見る価値が良い。",
+    "sentence_furigana": "この映画【えいが】は見【み】る価値【かち】が良【よ】い。",
+    "meaning": "This movie is worth watching."
+  },
+  {
+    "sentence": "良き友人を大切にする。",
+    "sentence_furigana": "良【よ】き友人【ゆうじん】を大切【たいせつ】にする。",
+    "meaning": "Cherish good friends."
+  },
+  {
+    "sentence": "彼は良識ある行動をとった。",
+    "sentence_furigana": "彼【かれ】は良識【りょうしき】ある行動【こうどう】をとった。",
+    "meaning": "He acted with good sense."
+  },
+  {
+    "sentence": "良い結果を出すために努力する。",
+    "sentence_furigana": "良【よ】い結果【けっか】を出【だ】すために努力【どりょく】する。",
+    "meaning": "Strive to achieve good results."
+  },
+  {
+    "sentence": "良質なサービスを提供することに専念しています。",
+    "sentence_furigana": "良質【りょうしつ】なサービスを提供【ていきょう】することに専念【せんねん】しています。",
+    "meaning": "We are dedicated to providing high-quality service."
+  },
+  {
+    "sentence": "これは良い始まりだ。",
+    "sentence_furigana": "これ【これ】は良【よ】い始【はじ】まりだ。",
+    "meaning": "This is a good start."
+  },
+  {
+    "sentence": "彼は改良に良い姿勢を示した。",
+    "sentence_furigana": "彼【かれ】は改良【かいりょう】に良【よ】い姿勢【しせい】を示【しめ】した。",
+    "meaning": "He showed a good attitude towards improvement."
+  },
+  {
+    "sentence": "良心に従うことが大切です。",
+    "sentence_furigana": "良心【りょうしん】に従【したが】うことが大切【たいせつ】です。",
+    "meaning": "It is important to follow your conscience."
+  },
+  {
+    "sentence": "彼は良質なコメントをくれた。",
+    "sentence_furigana": "彼【かれ】は良質【りょうしつ】なコメントをくれた。",
+    "meaning": "He gave me good quality comments."
+  },
+  {
+    "sentence": "良い仕事をしてくれてありがとう。",
+    "sentence_furigana": "良【よ】い仕事【しごと】をしてくれてありがとう。",
+    "meaning": "Thank you for doing a good job."
+  },
+  {
+    "sentence": "この本は非常に良い。",
+    "sentence_furigana": "この本【ほん】は非常【ひじょう】に良【よ】い。",
+    "meaning": "This book is very good."
+  },
+  {
+    "sentence": "良き人生を送りたい。",
+    "sentence_furigana": "良【よ】き人生【じんせい】を送【おく】りたい。",
+    "meaning": "I want to live a good life."
+  },
+  {
+    "sentence": "彼は常に良心的だ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に良心【りょうしん】的【てき】だ。",
+    "meaning": "He is always conscientious."
+  },
+  {
+    "sentence": "良い提案をありがとう。",
+    "sentence_furigana": "良【よ】い提案【ていあん】をありがとう。",
+    "meaning": "Thank you for the good suggestion."
+  },
+  {
+    "sentence": "良質な食事を心がけている。",
+    "sentence_furigana": "良質【りょうしつ】な食事【しょくじ】を心【こころ】がけている。",
+    "meaning": "I am focusing on eating good quality food."
+  },
+  {
+    "sentence": "彼の努力は良い結果につながった。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は良【よ】い結果【けっか】につながった。",
+    "meaning": "His efforts led to good results."
+  },
+  {
+    "sentence": "良心が痛む。",
+    "sentence_furigana": "良心【りょうしん】が痛【いた】む。",
+    "meaning": "My conscience hurts."
+  },
+  {
+    "sentence": "より良い生活を目指しています。",
+    "sentence_furigana": "より良【よ】い生活【せいかつ】を目指【めざ】しています。",
+    "meaning": "We are aiming for a better life."
+  },
+  {
+    "sentence": "この薬は良い効能があります。",
+    "sentence_furigana": "この薬【くすり】は良【よ】い効能【こうのう】があります。",
+    "meaning": "This medicine has good efficacy."
+  },
+  {
+    "sentence": "良き機会を得られた。",
+    "sentence_furigana": "良【よ】き機会【きかい】を得【え】られた。",
+    "meaning": "I obtained a good opportunity."
+  },
+  {
+    "sentence": "彼の仕事ぶりは非常に良い。",
+    "sentence_furigana": "彼【かれ】の仕事【しごと】ぶりは非常【ひじょう】に良【よ】い。",
+    "meaning": "His way of working is very good."
+  },
+  {
+    "sentence": "良質な教育を提供することが重要だ。",
+    "sentence_furigana": "良質【りょうしつ】な教育【きょういく】を提供【ていきょう】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to provide high-quality education."
+  },
+  {
+    "sentence": "これは良い経験になるだろう。",
+    "sentence_furigana": "これ【これ】は良【よ】い経験【けいけん】になるだろう。",
+    "meaning": "This will likely be a good experience."
+  },
+  {
+    "sentence": "良心的に振る舞うことが大切だ。",
+    "sentence_furigana": "良心【りょうしん】的【てき】に振【ふ】る舞【ま】うことが大切【たいせつ】だ。",
+    "meaning": "It is important to behave conscientiously."
+  },
+  {
+    "sentence": "良い結果を出すために最善を尽くします。",
+    "sentence_furigana": "良【よ】い結果【けっか】を出【だ】すために最善【さいぜん】を尽【つ】くします。",
+    "meaning": "I will do my best to achieve good results."
+  },
+  {
+    "sentence": "良質な睡眠は回復に役立つ。",
+    "sentence_furigana": "良質【りょうしつ】な睡眠【すいみん】は回復【かいふく】に役立【やくた】つ。",
+    "meaning": "Good sleep helps with recovery."
+  },
+  {
+    "sentence": "彼の発言は良い参考になった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は良【よ】い参考【さんこう】になった。",
+    "meaning": "His statement served as a good reference."
+  },
+  {
+    "sentence": "良き協力に感謝します。",
+    "sentence_furigana": "良【よ】き協力【きょうりょく】に感謝【かんしゃ】します。",
+    "meaning": "Thank you for your good cooperation."
+  },
+  {
+    "sentence": "この品物は良品です。",
+    "sentence_furigana": "この品物【しなもの】は良品【りょうひん】です。",
+    "meaning": "This item is a good product."
+  },
+  {
+    "sentence": "良心的なアドバイスをありがとう。",
+    "sentence_furigana": "良心【りょうしん】的【てき】なアドバイスをありがとう。",
+    "meaning": "Thank you for the conscientious advice."
+  },
+  {
+    "sentence": "彼はより良い方法を模索している。",
+    "sentence_furigana": "彼【かれ】はより良【よ】い方法【ほうほう】を模索【もさく】している。",
+    "meaning": "He is searching for a better way."
+  },
+  {
+    "sentence": "良質な情報源は貴重だ。",
+    "sentence_furigana": "良質【りょうしつ】な情報源【じょうほうげん】は貴重【きちょう】だ。",
+    "meaning": "Good sources of information are valuable."
+  },
+  {
+    "sentence": "この提案は良い評価を得た。",
+    "sentence_furigana": "この提案【ていあん】は良【よ】い評価【ひょうか】を得【え】た。",
+    "meaning": "This proposal received good評価."
+  },
+  {
+    "sentence": "良心を失ってはいけない。",
+    "sentence_furigana": "良心【りょうしん】を失【うしな】ってはいけない。",
+    "meaning": "You must not lose your conscience."
+  },
+  {
+    "sentence": "彼は良い性格の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は良【よ】い性格【せいかく】の持【も】ち主【ぬし】だ。",
+    "meaning": "He has a good personality."
+  },
+  {
+    "sentence": "良い結果を出すために頑張ります。",
+    "sentence_furigana": "良【よ】い結果【けっか】を出【だ】すために頑張【がんば】ります。",
+    "meaning": "I will work hard to achieve good results."
+  },
+  {
+    "sentence": "良質なコンテンツを提供します。",
+    "sentence_furigana": "良質【りょうしつ】なコンテンツを提供【ていきょう】します。",
+    "meaning": "We provide high-quality content."
+  },
+  {
+    "sentence": "彼は良きリーダーシップを発揮した。",
+    "sentence_furigana": "彼【かれ】は良【よ】きリーダーシップを発揮【はっき】した。",
+    "meaning": "He demonstrated good leadership."
+  },
+  {
+    "sentence": "この製品は非常に良い。",
+    "sentence_furigana": "この製品【せいひん】は非常【ひじょう】に良【よ】い。",
+    "meaning": "This product is very good."
+  },
+  {
+    "sentence": "良き指導者に恵まれた。",
+    "sentence_furigana": "良【よ】き指導者【しどうしゃ】に恵【めぐ】まれた。",
+    "meaning": "I was blessed with a good mentor."
+  },
+  {
+    "sentence": "彼は良心的な価格設定をしている。",
+    "sentence_furigana": "彼【かれ】は良心【りょうしん】的【てき】な価格設定【かかくせってい】をしている。",
+    "meaning": "He has set reasonable prices."
+  },
+  {
+    "sentence": "良い経験を積むことができた。",
+    "sentence_furigana": "良【よ】い経験【けいけん】を積【つ】むことができた。",
+    "meaning": "I was able to gain good experience."
+  },
+  {
+    "sentence": "良質なサービスを追求しています。",
+    "sentence_furigana": "良質【りょうしつ】なサービスを追求【ついきゅう】しています。",
+    "meaning": "We pursue high-quality service."
+  },
+  {
+    "sentence": "彼は改良に良い進歩を見せた。",
+    "sentence_furigana": "彼【かれ】は改良【かいりょう】に良【よ】い進歩【しんぽ】を見【み】せた。",
+    "meaning": "He showed good progress in improvement."
+  },
+  {
+    "sentence": "良心に基づいて行動する。",
+    "sentence_furigana": "良心【りょうしん】に基づ【もと】いて行動【こうどう】する。",
+    "meaning": "Act based on conscience."
+  },
+  {
+    "sentence": "この情報は非常に良い。",
+    "sentence_furigana": "この情報【じょうほう】は非常【ひじょう】に良【よ】い。",
+    "meaning": "This information is very good."
+  },
+  {
+    "sentence": "良き結果を期待します。",
+    "sentence_furigana": "良【よ】き結果【けっか】を期待【きたい】します。",
+    "meaning": "I expect good results."
+  },
+  {
+    "sentence": "彼は良質な提案をした。",
+    "sentence_furigana": "彼【かれ】は良質【りょうしつ】な提案【ていあん】をした。",
+    "meaning": "He made a high-quality suggestion."
+  },
+  {
+    "sentence": "良い機会を活かす。",
+    "sentence_furigana": "良【よ】い機会【きかい】を活【い】かす。",
+    "meaning": "To take advantage of a good opportunity."
+  },
+  {
+    "sentence": "良質な材料が揃っています。",
+    "sentence_furigana": "良質【りょうしつ】な材料【ざいりょう】が揃【そろ】っています。",
+    "meaning": "High-quality materials are available."
+  },
+  {
+    "sentence": "彼は良きビジネスパートナーだ。",
+    "sentence_furigana": "彼【かれ】は良【よ】きビジネスパートナーだ。",
+    "meaning": "He is a good business partner."
+  },
+  {
+    "sentence": "この映画の評価は非常に良い。",
+    "sentence_furigana": "この映画【えいが】の評価【ひょうか】は非常【ひじょう】に良【よ】い。",
+    "meaning": "This movie's reviews are very good."
+  },
+  {
+    "sentence": "良心の呵責に耐えられない。",
+    "sentence_furigana": "良心【りょうしん】の呵責【かしゃく】に耐【た】えられない。",
+    "meaning": "I cannot bear the pangs of conscience."
+  },
+  {
+    "sentence": "彼は改良に良い考えを持っている。",
+    "sentence_furigana": "彼【かれ】は改良【かいりょう】に良【よ】い考【かんが】えを持【も】っている。",
+    "meaning": "He has good ideas for improvement."
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "その着物には美しい紋様が描かれていた。",
+    "sentence_furigana": "その着物【きもの】には美【うつく】しい紋様【もんよう】が描【か】かれていた。",
+    "meaning": "The kimono had a beautiful crest pattern drawn on it."
+  },
+  {
+    "sentence": "彼は家紋を大切にしている。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】を大切【たいせつ】にしている。",
+    "meaning": "He cherishes his family crest."
+  },
+  {
+    "sentence": "紋付袴は日本の伝統的な礼装です。",
+    "sentence_furigana": "紋付袴【もんつきはかま】は日本【にほん】の伝統的【でんとうてき】な礼装【れいそう】です。",
+    "meaning": "Montsuki hakama is traditional Japanese formal wear."
+  },
+  {
+    "sentence": "彼のシャツにはユニークな紋様があった。",
+    "sentence_furigana": "彼【かれ】のシャツにはユニークな紋様【もんよう】があった。",
+    "meaning": "His shirt had a unique pattern."
+  },
+  {
+    "sentence": "家紋は家族の象徴である。",
+    "sentence_furigana": "家紋【かもん】は家族【かぞく】の象徴【しょうちょう】である。",
+    "meaning": "The family crest is a symbol of the family."
+  },
+  {
+    "sentence": "古い器に複雑な紋様が見られる。",
+    "sentence_furigana": "古【ふる】い器【うつわ】に複雑【ふくざつ】な紋様【もんよう】が見【み】られる。",
+    "meaning": "Complex patterns can be seen on the old pottery."
+  },
+  {
+    "sentence": "この布地には細かな紋が織り込まれている。",
+    "sentence_furigana": "この布地【ぬのじ】には細【こま】かな紋【もん】が織【お】り込【こ】まれている。",
+    "meaning": "Fine crests are woven into this fabric."
+  },
+  {
+    "sentence": "伝統的な建築物には独特の紋様が多い。",
+    "sentence_furigana": "伝統的【でんとうてき】な建築物【けんちくぶつ】には独特【どくとく】の紋様【もんよう】が多【おお】い。",
+    "meaning": "Traditional buildings often have unique patterns."
+  },
+  {
+    "sentence": "彼は自分の家紋をデザインした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の家紋【かもん】をデザインした。",
+    "meaning": "He designed his own family crest."
+  },
+  {
+    "sentence": "紋章学は紋の学問です。",
+    "sentence_furigana": "紋章学【もんしょうがく】は紋【もん】の学問【がくもん】です。",
+    "meaning": "Heraldry is the study of crests."
+  },
+  {
+    "sentence": "その絵には不思議な紋様が描かれている。",
+    "sentence_furigana": "その絵【え】には不思議【ふしぎ】な紋様【もんよう】が描【か】かれている。",
+    "meaning": "A strange pattern is drawn in the picture."
+  },
+  {
+    "sentence": "紋切り型の考え方では新しい発想は生まれない。",
+    "sentence_furigana": "紋切【もんき】り型【がた】の考【かんが】え方【かた】では新【あたら】しい発想【はっそう】は生【う】まれない。",
+    "meaning": "New ideas are not born from rigid ways of thinking."
+  },
+  {
+    "sentence": "古い戸には家紋が刻まれていた。",
+    "sentence_furigana": "古【ふる】い戸【と】には家紋【かもん】が刻【きざ】まれていた。",
+    "meaning": "The family crest was carved into the old door."
+  },
+  {
+    "sentence": "これは私の祖父の家紋です。",
+    "sentence_furigana": "これ【】は私【わたし】の祖父【そふ】の家紋【かもん】です。",
+    "meaning": "This is my grandfather's family crest."
+  },
+  {
+    "sentence": "紋付羽織袴は結婚式でよく着られます。",
+    "sentence_furigana": "紋付羽織袴【もんつきはおりはかま】は結婚式【けっこんしき】でよく着【き】られます。",
+    "meaning": "Montsuki haori hakama are often worn at weddings."
+  },
+  {
+    "sentence": "この模様は日本の伝統的な紋様です。",
+    "sentence_furigana": "この模様【もよう】は日本【にほん】の伝統的【でんとうてき】な紋様【もんよう】です。",
+    "meaning": "This pattern is a traditional Japanese pattern."
+  },
+  {
+    "sentence": "彼は家紋入りの印鑑を使った。",
+    "sentence_furigana": "彼【かれ】は家紋入【かもんい】りの印鑑【いんかん】を使【つか】った。",
+    "meaning": "He used a seal with a family crest."
+  },
+  {
+    "sentence": "紋様が施された美しい装飾品だ。",
+    "sentence_furigana": "紋様【もんよう】が施【ほどこ】された美【うつく】しい装飾品【そうしょくひん】だ。",
+    "meaning": "It is a beautiful ornament decorated with patterns."
+  },
+  {
+    "sentence": "この寺院の柱には家紋が彫られている。",
+    "sentence_furigana": "この寺院【じいん】の柱【はしら】には家紋【かもん】が彫【ほ】られている。",
+    "meaning": "Family crests are carved into the pillars of this temple."
+  },
+  {
+    "sentence": "彼は家紋の由来を調べている。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の由来【ゆらい】を調【しら】べている。",
+    "meaning": "He is researching the origin of his family crest."
+  },
+  {
+    "sentence": "この書物には様々な家紋が掲載されている。",
+    "sentence_furigana": "この書物【しょもつ】には様々【さまざま】な家紋【かもん】が掲載【けいさい】されている。",
+    "meaning": "Various family crests are published in this book."
+  },
+  {
+    "sentence": "彼の旗には大きな紋章が描かれていた。",
+    "sentence_furigana": "彼【かれ】の旗【はた】には大【おお】きな紋章【もんしょう】が描【か】かれていた。",
+    "meaning": "A large crest was drawn on his flag."
+  },
+  {
+    "sentence": "家紋は代々受け継がれるものだ。",
+    "sentence_furigana": "家紋【かもん】は代々【だいだい】受【う】け継【つ】がれるものだ。",
+    "meaning": "Family crests are passed down from generation to generation."
+  },
+  {
+    "sentence": "このデザインには独特の紋様がある。",
+    "sentence_furigana": "このデザイン【】には独特【どくとく】の紋様【もんよう】がある。",
+    "meaning": "This design has a unique pattern."
+  },
+  {
+    "sentence": "彼女は紋付の着物を着ていた。",
+    "sentence_furigana": "彼女【かのじょ】は紋付【もんつ】きの着物【きもの】を着【き】ていた。",
+    "meaning": "She was wearing a crested kimono."
+  },
+  {
+    "sentence": "家紋は家族の歴史を物語っている。",
+    "sentence_furigana": "家紋【かもん】は家族【かぞく】の歴史【れきし】を物語【ものがた】っている。",
+    "meaning": "The family crest tells the history of the family."
+  },
+  {
+    "sentence": "この陶器には繊細な紋様が施されている。",
+    "sentence_furigana": "この陶器【とうき】には繊細【せんさい】な紋様【もんよう】が施【ほどこ】されている。",
+    "meaning": "Delicate patterns are applied to this pottery."
+  },
+  {
+    "sentence": "彼は家紋の入ったシャツを着ている。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の入【はい】ったシャツを着【き】ている。",
+    "meaning": "He is wearing a shirt with a family crest."
+  },
+  {
+    "sentence": "紋切り型の説明では分かりにくい。",
+    "sentence_furigana": "紋切【もんき】り型【がた】の説明【せつめい】では分【わ】かりにくい。",
+    "meaning": "It is difficult to understand with a stereotyped explanation."
+  },
+  {
+    "sentence": "この建築には幾何学的な紋様が見られる。",
+    "sentence_furigana": "この建築【けんちく】には幾何学【きかがく】的【てき】な紋様【もんよう】が見【み】られる。",
+    "meaning": "Geometric patterns can be seen in this architecture."
+  },
+  {
+    "sentence": "彼の家の門には家紋が掲げられていた。",
+    "sentence_furigana": "彼【かれ】の家【いえ】の門【もん】には家紋【かもん】が掲【かか】げられていた。",
+    "meaning": "The family crest was displayed on the gate of his house."
+  },
+  {
+    "sentence": "紋付の着物はフォーマルな場面で着用される。",
+    "sentence_furigana": "紋付【もんつ】きの着物【きもの】はフォーマルな場面【ばめん】で着用【ちゃくよう】される。",
+    "meaning": "Crested kimonos are worn in formal situations."
+  },
+  {
+    "sentence": "この彫刻は細かな紋様が特徴だ。",
+    "sentence_furigana": "この彫刻【ちょうこく】は細【こま】かな紋様【もんよう】が特徴【とくちょう】だ。",
+    "meaning": "This sculpture is characterized by its fine patterns."
+  },
+  {
+    "sentence": "彼は自分の家紋をデザインし直した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の家紋【かもん】をデザインし直【なお】した。",
+    "meaning": "He redesigned his family crest."
+  },
+  {
+    "sentence": "紋章学は紋を研究する分野である。",
+    "sentence_furigana": "紋章学【もんしょうがく】は紋【もん】を研究【けんきゅう】する分野【ぶんや】である。",
+    "meaning": "Heraldry is a field that studies crests."
+  },
+  {
+    "sentence": "その絵画には抽象的な紋様が描かれている。",
+    "sentence_furigana": "その絵画【かいが】には抽象的【ちゅうしょうてき】な紋様【もんよう】が描【か】かれている。",
+    "meaning": "Abstract patterns are depicted in the painting."
+  },
+  {
+    "sentence": "紋切り型ではなく、個性を出すべきだ。",
+    "sentence_furigana": "紋切【もんき】り型【がた】ではなく、個性【こせい】を出【だ】すべきだ。",
+    "meaning": "You should express individuality, not be conventional."
+  },
+  {
+    "sentence": "古い甲冑には家紋が刻まれているものが多い。",
+    "sentence_furigana": "古【ふる】い甲冑【かっちゅう】には家紋【かもん】が刻【きざ】まれているものが多い。",
+    "meaning": "Many old armors have family crests carved on them."
+  },
+  {
+    "sentence": "これは私の曽祖父の家紋です。",
+    "sentence_furigana": "これ【】は私【わたし】の曽祖父【そうふ】の家紋【かもん】です。",
+    "meaning": "This is my great-grandfather's family crest."
+  },
+  {
+    "sentence": "紋付の色喪服は慶弔両用に使われる。",
+    "sentence_furigana": "紋付【もんつ】きの色喪服【いろもふく】は慶弔両用【けいちょうりょうよう】に使【つか】われる。",
+    "meaning": "Crested iromofuku can be used for both celebratory and mourning occasions."
+  },
+  {
+    "sentence": "この織物には複雑な紋様が織り込まれている。",
+    "sentence_furigana": "この織物【おりもの】には複雑【ふくざつ】な紋様【もんよう】が織【お】り込【こ】まれている。",
+    "meaning": "Intricate patterns are woven into this textile."
+  },
+  {
+    "sentence": "彼は家紋のデザインにこだわっている。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】のデザイン【】にこだわっている。",
+    "meaning": "He is particular about the design of his family crest."
+  },
+  {
+    "sentence": "紋様が美しい装飾板だ。",
+    "sentence_furigana": "紋様【もんよう】が美【うつく】しい装飾板【そうしょくばん】だ。",
+    "meaning": "It is a decorative board with beautiful patterns."
+  },
+  {
+    "sentence": "この古い屏風には家紋が描かれている。",
+    "sentence_furigana": "この古【ふる】い屏風【びょうぶ】には家紋【かもん】が描【か】かれている。",
+    "meaning": "Family crests are depicted on this old screen."
+  },
+  {
+    "sentence": "彼は家紋入りのネクタイを締めている。",
+    "sentence_furigana": "彼【かれ】は家紋入【かもんい】りのネクタイを締【し】めている。",
+    "meaning": "He is wearing a tie with a family crest."
+  },
+  {
+    "sentence": "紋切り型のアプローチでは問題は解決しない。",
+    "sentence_furigana": "紋切【もんき】り型【がた】のアプローチ【】では問題【もんだい】は解決【かいけつ】しない。",
+    "meaning": "The problem will not be solved by a conventional approach."
+  },
+  {
+    "sentence": "この壁画には幾何学的な紋様が描かれている。",
+    "sentence_furigana": "この壁画【へきが】には幾何学【きかがく】的【てき】な紋様【もんよう】が描【か】かれている。",
+    "meaning": "Geometric patterns are depicted in this mural."
+  },
+  {
+    "sentence": "彼の家の屋根には家紋が付いている。",
+    "sentence_furigana": "彼【かれ】の家【いえ】の屋根【やね】には家紋【かもん】が付【つ】いている。",
+    "meaning": "A family crest is attached to the roof of his house."
+  },
+  {
+    "sentence": "紋付黒紋付は最も格式の高い着物です。",
+    "sentence_furigana": "紋付黒紋付【もんつきくろもんつき】は最【もっと】も格式【かくしき】の高【たか】い着物【きもの】です。",
+    "meaning": "Montsuki kuromontsuki is the most formal kimono."
+  },
+  {
+    "sentence": "このデザインには日本の伝統的な紋様が使われている。",
+    "sentence_furigana": "このデザイン【】には日本【にほん】の伝統的【でんとうてき】な紋様【もんよう】が使【つか】われている。",
+    "meaning": "Traditional Japanese patterns are used in this design."
+  },
+  {
+    "sentence": "彼は家紋の入った風呂敷を選んだ。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の入【はい】った風呂敷【ふろしき】を選【えら】んだ。",
+    "meaning": "He chose a furoshiki with a family crest."
+  },
+  {
+    "sentence": "この彫刻には複雑な紋様が施されている。",
+    "sentence_furigana": "この彫刻【ちょうこく】には複雑【ふくざつ】な紋様【もんよう】が施【ほどこ】されている。",
+    "meaning": "Intricate patterns are applied to this sculpture."
+  },
+  {
+    "sentence": "彼は家紋を新しい形にアレンジした。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】を新【あたら】しい形【かたち】にアレンジした。",
+    "meaning": "He arranged his family crest into a new form."
+  },
+  {
+    "sentence": "紋章学は、紋章を専門とする学問です。",
+    "sentence_furigana": "紋章学【もんしょうがく】は、紋章【もんしょう】を専門【せんもん】とする学問【がくもん】です。",
+    "meaning": "Heraldry is the study specializing in coats of arms."
+  },
+  {
+    "sentence": "その絵には自然をモチーフにした紋様がある。",
+    "sentence_furigana": "その絵【え】には自然【しぜん】をモチーフ【】にした紋様【もんよう】がある。",
+    "meaning": "There are patterns inspired by nature in the picture."
+  },
+  {
+    "sentence": "紋切り型に当てはめるだけではだめだ。",
+    "sentence_furigana": "紋切【もんき】り型【がた】に当【あ】てはめるだけではだめだ。",
+    "meaning": "It's not enough to just fit it into a stereotype."
+  },
+  {
+    "sentence": "古い刀の柄には家紋が描かれていた。",
+    "sentence_furigana": "古【ふる】い刀【かたな】の柄【つか】には家紋【かもん】が描【か】かれていた。",
+    "meaning": "A family crest was drawn on the hilt of the old sword."
+  },
+  {
+    "sentence": "これは私の祖母の家紋を復元したものです。",
+    "sentence_furigana": "これ【】は私【わたし】の祖母【そぼ】の家紋【かもん】を復元【ふくげん】したものです。",
+    "meaning": "This is a restoration of my grandmother's family crest."
+  },
+  {
+    "sentence": "紋付喪服は葬儀で着用されることが多い。",
+    "sentence_furigana": "紋付喪服【もんつきもふく】は葬儀【そうぎ】で着用【ちゃくよう】されることが多い。",
+    "meaning": "Crested mourning clothes are often worn at funerals."
+  },
+  {
+    "sentence": "このファブリックには幾何学的な紋様がデザインされている。",
+    "sentence_furigana": "このファブリック【】には幾何学【きかがく】的【てき】な紋様【もんよう】がデザイン【】されている。",
+    "meaning": "Geometric patterns are designed into this fabric."
+  },
+  {
+    "sentence": "彼は家紋入りの帯留めを付けている。",
+    "sentence_furigana": "彼【かれ】は家紋入【かもんい】りの帯留【おびど】めを付【つ】けている。",
+    "meaning": "He is wearing an obi clasp with a family crest."
+  },
+  {
+    "sentence": "この金属には特殊な紋様が刻印されている。",
+    "sentence_furigana": "この金属【きんぞく】には特殊【とくしゅ】な紋様【もんよう】が刻印【こくいん】されている。",
+    "meaning": "A special pattern is engraved on this metal."
+  },
+  {
+    "sentence": "彼は家紋を基にしたシンボルを作成した。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】を基【もと】にしたシンボル【】を作成【さくせい】した。",
+    "meaning": "He created a symbol based on his family crest."
+  },
+  {
+    "sentence": "この書斎には独特の紋様を持つ家具が多い。",
+    "sentence_furigana": "この書斎【しょさい】には独特【どくとく】の紋様【もんよう】を持【も】つ家具【かぐ】が多い。",
+    "meaning": "There is a lot of furniture with unique patterns in this study."
+  },
+  {
+    "sentence": "彼は家紋が入った袱紗を使用する。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】が入【はい】った袱紗【ふくさ】を使用【しよう】する。",
+    "meaning": "He uses a fukusa with a family crest."
+  },
+  {
+    "sentence": "この紋様は非常に古いものだと言われている。",
+    "sentence_furigana": "この紋様【もんよう】は非常【ひじょう】に古【ふる】いものだと言【い】われている。",
+    "meaning": "This pattern is said to be very old."
+  },
+  {
+    "sentence": "彼は家紋の印を封筒に押した。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の印【しるし】を封筒【ふうとう】に押【お】した。",
+    "meaning": "He stamped the envelope with his family crest."
+  },
+  {
+    "sentence": "家紋は身分を示す記号でもあった。",
+    "sentence_furigana": "家紋【かもん】は身分【みぶん】を示【しめ】す記号【きごう】でもあった。",
+    "meaning": "The family crest was also a symbol indicating social status."
+  },
+  {
+    "sentence": "この壁紙には美しい紋様が印刷されている。",
+    "sentence_furigana": "この壁紙【かべがみ】には美【うつく】しい紋様【もんよう】が印刷【いんさつ】されている。",
+    "meaning": "Beautiful patterns are printed on this wallpaper."
+  },
+  {
+    "sentence": "彼は自分の紋章をデザインすることに興味がある。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の紋章【もんしょう】をデザイン【】することに興味【きょうみ】がある。",
+    "meaning": "He is interested in designing his own coat of arms."
+  },
+  {
+    "sentence": "この紋様は伝統的な日本の文様です。",
+    "sentence_furigana": "この紋様【もんよう】は伝統的【でんとうてき】な日本【にほん】の文様【もんよう】です。",
+    "meaning": "This pattern is a traditional Japanese pattern."
+  },
+  {
+    "sentence": "家紋は地域によって異なる場合がある。",
+    "sentence_furigana": "家紋【かもん】は地域【ちいき】によって異【こと】なる場合【ばあい】がある。",
+    "meaning": "Family crests can vary by region."
+  },
+  {
+    "sentence": "彼は家紋の入った手ぬぐいをプレゼントした。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の入【はい】った手ぬぐいをプレゼントした。",
+    "meaning": "He gave a tenugui with a family crest as a gift."
+  },
+  {
+    "sentence": "この石碑には古代の紋様が刻まれている。",
+    "sentence_furigana": "この石碑【せきひ】には古代【こだい】の紋様【もんよう】が刻【きざ】まれている。",
+    "meaning": "Ancient patterns are carved on this stone monument."
+  },
+  {
+    "sentence": "彼は家紋をモチーフにしたアクセサリーを身につけている。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】をモチーフ【】にしたアクセサリーを身【み】につけている。",
+    "meaning": "He is wearing accessories inspired by his family crest."
+  },
+  {
+    "sentence": "このタペストリーには壮大な紋様が織られている。",
+    "sentence_furigana": "このタペストリー【】には壮大【そうだい】な紋様【もんよう】が織【お】られている。",
+    "meaning": "Magnificent patterns are woven into this tapestry."
+  },
+  {
+    "sentence": "家紋は家族のアイデンティティの象徴です。",
+    "sentence_furigana": "家紋【かもん】は家族【かぞく】のアイデンティティ【】の象徴【しょうちょう】です。",
+    "meaning": "The family crest is a symbol of family identity."
+  },
+  {
+    "sentence": "彼は家紋の写真をアルバムに保存した。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の写真【しゃしん】をアルバムに保存【ほぞん】した。",
+    "meaning": "He saved a photo of his family crest in the album."
+  },
+  {
+    "sentence": "この紋様は非常に珍しいものだ。",
+    "sentence_furigana": "この紋様【もんよう】は非常【ひじょう】に珍【めずら】しいものだ。",
+    "meaning": "This pattern is very rare."
+  },
+  {
+    "sentence": "彼は家紋入りの祝儀袋を使用した。",
+    "sentence_furigana": "彼【かれ】は家紋入【かもんい】りの祝儀袋【しゅうぎぶくろ】を使用【しよう】した。",
+    "meaning": "He used a celebratory envelope with a family crest."
+  },
+  {
+    "sentence": "家紋は武士の時代から使われてきた。",
+    "sentence_furigana": "家紋【かもん】は武士【ぶし】の時代【じだい】から使【つか】われてきた。",
+    "meaning": "Family crests have been used since the samurai era."
+  },
+  {
+    "sentence": "この染物は独特の紋様が特徴的です。",
+    "sentence_furigana": "この染物【そめもの】は独特【どくとく】の紋様【もんよう】が特徴的【とくちょうてき】です。",
+    "meaning": "This dyed fabric is characterized by its unique pattern."
+  },
+  {
+    "sentence": "彼は家紋の刺繍が入った扇子をプレゼントした。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の刺繍【ししゅう】が入【はい】った扇子【せんす】をプレゼントした。",
+    "meaning": "He gave a fan with an embroidered family crest as a gift."
+  },
+  {
+    "sentence": "この紋様は永遠性を象徴している。",
+    "sentence_furigana": "この紋様【もんよう】は永遠性【えいえんせい】を象徴【しょうちょう】している。",
+    "meaning": "This pattern symbolizes eternity."
+  },
+  {
+    "sentence": "家紋は各家庭の個性を示すものだ。",
+    "sentence_furigana": "家紋【かもん】は各家庭【かくかてい】の個性【こせい】を示【しめ】すものだ。",
+    "meaning": "Family crests indicate the individuality of each family."
+  },
+  {
+    "sentence": "彼は家紋のデザインを研究している。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】のデザイン【】を研究【けんきゅう】している。",
+    "meaning": "He is researching family crest designs."
+  },
+  {
+    "sentence": "この木彫りには繊細な紋様が施されている。",
+    "sentence_furigana": "この木彫【きぼ】りには繊細【せんさい】な紋様【もんよう】が施【ほどこ】されている。",
+    "meaning": "Delicate patterns are applied to this wood carving."
+  },
+  {
+    "sentence": "家紋は先祖から受け継いだ大切なものです。",
+    "sentence_furigana": "家紋【かもん】は先祖【せんぞ】から受【う】け継【つ】いだ大切【たいせつ】なものです。",
+    "meaning": "Family crests are precious things inherited from ancestors."
+  },
+  {
+    "sentence": "彼は家紋の入った手ぬぐいを額装した。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の入【はい】った手ぬぐいを額装【がくそう】した。",
+    "meaning": "He framed a tenugui with a family crest."
+  },
+  {
+    "sentence": "この紋様は自然の美しさを表現している。",
+    "sentence_furigana": "この紋様【もんよう】は自然【しぜん】の美【うつく】しさを表現【ひょうげん】している。",
+    "meaning": "This pattern expresses the beauty of nature."
+  },
+  {
+    "sentence": "家紋は、家系の歴史と伝統を表します。",
+    "sentence_furigana": "家紋【かもん】は、家系【かけい】の歴史【れきし】と伝統【でんとう】を表【あらわ】します。",
+    "meaning": "Family crests represent the history and tradition of a family line."
+  },
+  {
+    "sentence": "彼は家紋入りの名刺を作った。",
+    "sentence_furigana": "彼【かれ】は家紋入【かもんい】りの名刺【めいし】を作【つく】った。",
+    "meaning": "He made business cards with a family crest."
+  },
+  {
+    "sentence": "この紋様は魔除けの意味を持つと言われている。",
+    "sentence_furigana": "この紋様【もんよう】は魔除【まよ】けの意味【いみ】を持【も】つと言【い】われている。",
+    "meaning": "This pattern is said to have the meaning of warding off evil."
+  },
+  {
+    "sentence": "家紋は個人のアイデンティティの一部です。",
+    "sentence_furigana": "家紋【かもん】は個人【こじん】のアイデンティティ【】の一部【いちぶ】です。",
+    "meaning": "Family crests are part of an individual's identity."
+  },
+  {
+    "sentence": "彼は家紋の由来を辿ってみたい。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の由来【ゆらい】を辿【たど】ってみたい。",
+    "meaning": "He wants to trace the origin of his family crest."
+  },
+  {
+    "sentence": "この紋様は非常に調和がとれている。",
+    "sentence_furigana": "この紋様【もんよう】は非常【ひじょう】に調和【ちょうわ】がとれている。",
+    "meaning": "This pattern is very harmonious."
+  },
+  {
+    "sentence": "家紋はそれぞれの家が持つ独自のシンボルです。",
+    "sentence_furigana": "家紋【かもん】はそれぞれ【】の家【いえ】が持【も】つ独特【どくとく】のシンボル【】です。",
+    "meaning": "Family crests are unique symbols that each family has."
+  },
+  {
+    "sentence": "彼は家紋の入った印伝の財布を持っている。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】の入【はい】った印伝【いんでん】の財布【さいふ】を持【も】っている。",
+    "meaning": "He has an inden wallet with a family crest."
+  },
+  {
+    "sentence": "この紋様は豊かさを象徴しています。",
+    "sentence_furigana": "この紋様【もんよう】は豊【ゆた】かさを象徴【しょうちょう】しています。",
+    "meaning": "This pattern symbolizes abundance."
+  },
+  {
+    "sentence": "家紋は、家族の絆を強めるものでもある。",
+    "sentence_furigana": "家紋【かもん】は、家族【かぞく】の絆【きずな】を強【つよ】めるものでもある。",
+    "meaning": "Family crests also strengthen family bonds."
+  },
+  {
+    "sentence": "彼は家紋をキーホルダーにデザインした。",
+    "sentence_furigana": "彼【かれ】は家紋【かもん】をキーホルダーにデザインした。",
+    "meaning": "He designed his family crest into a keychain."
+  },
+  {
+    "sentence": "この紋様は長寿を願う意味が込められている。",
+    "sentence_furigana": "この紋様【もんよう】は長寿【ちょうじゅ】を願【ねが】う意味【いみ】が込【こ】められている。",
+    "meaning": "This pattern is imbued with the wish for longevity."
+  },
+  {
+    "sentence": "家紋は家族の誇りでもあります。",
+    "sentence_furigana": "家紋【かもん】は家族【かぞく】の誇【ほこ】りでもあります。",
+    "meaning": "Family crests are also a source of family pride."
+  },
+  {
+    "sentence": "彼は家紋入りの提灯を飾った。",
+    "sentence_furigana": "彼【かれ】は家紋入【かもんい】りの提灯【ちょうちん】を飾【かざ】った。",
+    "meaning": "He decorated with a lantern bearing a family crest."
+  },
+  {
+    "sentence": "この紋様は繁栄を意味している。",
+    "sentence_furigana": "この紋様【もんよう】は繁栄【はんえい】を意味【いみ】している。",
+    "meaning": "This pattern signifies prosperity."
+  }
+]

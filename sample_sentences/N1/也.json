@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼は学生也。",
+    "sentence_furigana": "彼【かれ】は学生【がくせい】也【なり】。",
+    "meaning": "He is a student."
+  },
+  {
+    "sentence": "春は桜の季節也。",
+    "sentence_furigana": "春【はる】は桜【さくら】の季節【きせつ】也【なり】。",
+    "meaning": "Spring is the season of cherry blossoms."
+  },
+  {
+    "sentence": "この本は私の物也。",
+    "sentence_furigana": "この本【ほん】は私【わたし】の物【もの】也【なり】。",
+    "meaning": "This book is mine."
+  },
+  {
+    "sentence": "明日は晴天也。",
+    "sentence_furigana": "明日【あした】は晴天【せいてん】也【なり】。",
+    "meaning": "Tomorrow will be clear weather."
+  },
+  {
+    "sentence": "人生は短い也。",
+    "sentence_furigana": "人生【じんせい】は短【みじか】い也【なり】。",
+    "meaning": "Life is short."
+  },
+  {
+    "sentence": "努力は報われる也。",
+    "sentence_furigana": "努力【どりょく】は報【むく】われる也【なり】。",
+    "meaning": "Effort is rewarded."
+  },
+  {
+    "sentence": "彼是私の友人也。",
+    "sentence_furigana": "彼是【かれこれ】は私【わたし】の友人【ゆうじん】也【なり】。",
+    "meaning": "This is my friend."
+  },
+  {
+    "sentence": "空は青い也。",
+    "sentence_furigana": "空【そら】は青【あお】い也【なり】。",
+    "meaning": "The sky is blue."
+  },
+  {
+    "sentence": "この料理は美味しい也。",
+    "sentence_furigana": "この料理【りょうり】は美味【おい】しい也【なり】。",
+    "meaning": "This dish is delicious."
+  },
+  {
+    "sentence": "彼女は親切也。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】也【なり】。",
+    "meaning": "She is kind."
+  },
+  {
+    "sentence": "時間は貴重也。",
+    "sentence_furigana": "時間【じかん】は貴重【きちょう】也【なり】。",
+    "meaning": "Time is precious."
+  },
+  {
+    "sentence": "山頂は遠い也。",
+    "sentence_furigana": "山頂【さんちょう】は遠【とお】い也【なり】。",
+    "meaning": "The summit is far."
+  },
+  {
+    "sentence": "君の言う通り也。",
+    "sentence_furigana": "君【きみ】の言【い】う通【とお】り也【なり】。",
+    "meaning": "It is just as you say."
+  },
+  {
+    "sentence": "雨が降る也。",
+    "sentence_furigana": "雨【あめ】が降【ふ】る也【なり】。",
+    "meaning": "It is raining."
+  },
+  {
+    "sentence": "海は広い也。",
+    "sentence_furigana": "海【うみ】は広【ひろ】い也【なり】。",
+    "meaning": "The sea is vast."
+  },
+  {
+    "sentence": "彼の態度は立派也。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は立派【りっぱ】也【なり】。",
+    "meaning": "His attitude is splendid."
+  },
+  {
+    "sentence": "この曲は美しい也。",
+    "sentence_furigana": "この曲【きょく】は美【うつく】しい也【なり】。",
+    "meaning": "This song is beautiful."
+  },
+  {
+    "sentence": "朝は早い也。",
+    "sentence_furigana": "朝【あさ】は早【はや】い也【なり】。",
+    "meaning": "Morning is early."
+  },
+  {
+    "sentence": "これは新しい発見也。",
+    "sentence_furigana": "これ【これ】は新【あたら】しい発見【はっけん】也【なり】。",
+    "meaning": "This is a new discovery."
+  },
+  {
+    "sentence": "彼の決意は固い也。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】は固【かた】い也【なり】。",
+    "meaning": "His resolve is firm."
+  },
+  {
+    "sentence": "静寂は心地よい也。",
+    "sentence_furigana": "静寂【せいじゃく】は心地【ここち】よい也【なり】。",
+    "meaning": "Silence is pleasant."
+  },
+  {
+    "sentence": "それは真実也。",
+    "sentence_furigana": "それ【それ】は真実【しんじつ】也【なり】。",
+    "meaning": "That is the truth."
+  },
+  {
+    "sentence": "彼の言葉は真実也。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】也【なり】。",
+    "meaning": "His words are true."
+  },
+  {
+    "sentence": "彼女の歌声は素晴らしい也。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は素晴【すば】らしい也【なり】。",
+    "meaning": "Her singing voice is wonderful."
+  },
+  {
+    "sentence": "この街は活気がある也。",
+    "sentence_furigana": "この街【まち】は活気【かっき】がある也【なり】。",
+    "meaning": "This town is lively."
+  },
+  {
+    "sentence": "彼の説明は分かりやすい也。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は分【わ】かりやすい也【なり】。",
+    "meaning": "His explanation is easy to understand."
+  },
+  {
+    "sentence": "月は輝いている也。",
+    "sentence_furigana": "月【つき】は輝【かがや】いている也【なり】。",
+    "meaning": "The moon is shining."
+  },
+  {
+    "sentence": "希望は未来也。",
+    "sentence_furigana": "希望【きぼう】は未来【みらい】也【なり】。",
+    "meaning": "Hope is the future."
+  },
+  {
+    "sentence": "この橋は古い也。",
+    "sentence_furigana": "この橋【はし】は古【ふる】い也【なり】。",
+    "meaning": "This bridge is old."
+  },
+  {
+    "sentence": "彼の才能は際立っている也。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は際立【きわだ】っている也【なり】。",
+    "meaning": "His talent is outstanding."
+  },
+  {
+    "sentence": "この花は綺麗也。",
+    "sentence_furigana": "この花【はな】は綺麗【きれい】也【なり】。",
+    "meaning": "This flower is beautiful."
+  },
+  {
+    "sentence": "彼女の優しさは本物也。",
+    "sentence_furigana": "彼女【かのじょ】の優【やさ】しさは本物【ほんもの】也【なり】。",
+    "meaning": "Her kindness is genuine."
+  },
+  {
+    "sentence": "今日の天気は良い也。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は良【よ】い也【なり】。",
+    "meaning": "Today's weather is good."
+  },
+  {
+    "sentence": "彼の態度は誠実也。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は誠実【せいじつ】也【なり】。",
+    "meaning": "His attitude is sincere."
+  },
+  {
+    "sentence": "この映画は感動的也。",
+    "sentence_furigana": "この映画【えいが】は感動的【かんどうてき】也【なり】。",
+    "meaning": "This movie is moving."
+  },
+  {
+    "sentence": "夜空には星が多い也。",
+    "sentence_furigana": "夜空【よぞら】には星【ほし】が多い【おお】い也【なり】。",
+    "meaning": "There are many stars in the night sky."
+  },
+  {
+    "sentence": "彼の発言は的確也。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は的確【てきかく】也【なり】。",
+    "meaning": "His statement is accurate."
+  },
+  {
+    "sentence": "この音楽は心地よい也。",
+    "sentence_furigana": "この音楽【おんがく】は心地【ここち】よい也【なり】。",
+    "meaning": "This music is soothing."
+  },
+  {
+    "sentence": "彼女の笑顔は魅力的也。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は魅力的【みりょくてき】也【なり】。",
+    "meaning": "Her smile is charming."
+  },
+  {
+    "sentence": "彼の提案は適切也。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は適切【てきせつ】也【なり】。",
+    "meaning": "His proposal is appropriate."
+  },
+  {
+    "sentence": "この本は価値がある也。",
+    "sentence_furigana": "この本【ほん】は価値【かち】がある也【なり】。",
+    "meaning": "This book has value."
+  },
+  {
+    "sentence": "彼の経験は豊富也。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は豊富【ほうふ】也【なり】。",
+    "meaning": "His experience is extensive."
+  },
+  {
+    "sentence": "彼女の知識は深い也。",
+    "sentence_furigana": "彼女【かのじょ】の知識【ちしき】は深【ふか】い也【なり】。",
+    "meaning": "Her knowledge is deep."
+  },
+  {
+    "sentence": "この道具は便利也。",
+    "sentence_furigana": "この道具【どうぐ】は便利【べんり】也【なり】。",
+    "meaning": "This tool is convenient."
+  },
+  {
+    "sentence": "彼の分析は的確也。",
+    "sentence_furigana": "彼【かれ】の分析【ぶんせき】は的確【てきかく】也【なり】。",
+    "meaning": "His analysis is precise."
+  },
+  {
+    "sentence": "この建物は壮大也。",
+    "sentence_furigana": "この建物【たてもの】は壮大【そうだい】也【なり】。",
+    "meaning": "This building is magnificent."
+  },
+  {
+    "sentence": "彼女の言葉遣いは丁寧也。",
+    "sentence_furigana": "彼女【かのじょ】の言葉遣【ことばづか】いは丁寧【ていねい】也【なり】。",
+    "meaning": "Her way of speaking is polite."
+  },
+  {
+    "sentence": "彼の態度は冷静也。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は冷静【れいせい】也【なり】。",
+    "meaning": "His attitude is calm."
+  },
+  {
+    "sentence": "この状況は深刻也。",
+    "sentence_furigana": "この状況【じょうきょう】は深刻【しんこく】也【なり】。",
+    "meaning": "This situation is serious."
+  },
+  {
+    "sentence": "彼女の行動は迅速也。",
+    "sentence_furigana": "彼女【かのじょ】の行動【こうどう】は迅速【じんそく】也【なり】。",
+    "meaning": "Her actions are swift."
+  },
+  {
+    "sentence": "彼の説明は明瞭也。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は明瞭【めいりょう】也【なり】。",
+    "meaning": "His explanation is clear."
+  },
+  {
+    "sentence": "この川は清らか也。",
+    "sentence_furigana": "この川【かわ】は清【きよ】らか也【なり】。",
+    "meaning": "This river is pure."
+  },
+  {
+    "sentence": "彼女の決断は迅速也。",
+    "sentence_furigana": "彼女【かのじょ】の決断【けつだん】は迅速【じんそく】也【なり】。",
+    "meaning": "Her decision was prompt."
+  },
+  {
+    "sentence": "彼の功績は偉大也。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は偉大【いだい】也【なり】。",
+    "meaning": "His achievements are great."
+  },
+  {
+    "sentence": "この街の夜景は美しい也。",
+    "sentence_furigana": "この街【まち】の夜景【やけい】は美【うつく】しい也【なり】。",
+    "meaning": "The night view of this city is beautiful."
+  },
+  {
+    "sentence": "彼女の文章は流麗也。",
+    "sentence_furigana": "彼女【かのじょ】の文章【ぶんしょう】は流麗【りゅうれい】也【なり】。",
+    "meaning": "Her writing is fluent."
+  },
+  {
+    "sentence": "彼の計画は周到也。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は周到【しゅうとう】也【なり】。",
+    "meaning": "His plan is thorough."
+  },
+  {
+    "sentence": "この湖は静か也。",
+    "sentence_furigana": "この湖【みずうみ】は静【しず】か也【なり】。",
+    "meaning": "This lake is quiet."
+  },
+  {
+    "sentence": "彼女の言葉は温かい也。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は温【あたた】かい也【なり】。",
+    "meaning": "Her words are warm."
+  },
+  {
+    "sentence": "彼の洞察力は鋭い也。",
+    "sentence_furigana": "彼【かれ】の洞察力【どうさつりょく】は鋭【するど】い也【なり】。",
+    "meaning": "His insight is sharp."
+  },
+  {
+    "sentence": "この音楽は心を癒す也。",
+    "sentence_furigana": "この音楽【おんがく】は心【こころ】を癒【いや】す也【なり】。",
+    "meaning": "This music heals the soul."
+  },
+  {
+    "sentence": "彼女の表情は穏やか也。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】は穏【おだや】か也【なり】。",
+    "meaning": "Her expression is calm."
+  },
+  {
+    "sentence": "彼の態度は謙虚也。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は謙虚【けんきょ】也【なり】。",
+    "meaning": "His attitude is humble."
+  },
+  {
+    "sentence": "この森は神秘的也。",
+    "sentence_furigana": "この森【もり】は神秘的【しんぴてき】也【なり】。",
+    "meaning": "This forest is mystical."
+  },
+  {
+    "sentence": "彼女の友情は大切也。",
+    "sentence_furigana": "彼女【かのじょ】の友情【ゆうじょう】は大切【たいせつ】也【なり】。",
+    "meaning": "Her friendship is important."
+  },
+  {
+    "sentence": "彼の努力は実を結ぶ也。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は実【み】を結【むす】ぶ也【なり】。",
+    "meaning": "His efforts bear fruit."
+  },
+  {
+    "sentence": "この島は楽園也。",
+    "sentence_furigana": "この島【しま】は楽園【らくえん】也【なり】。",
+    "meaning": "This island is a paradise."
+  },
+  {
+    "sentence": "彼女の才能は多岐にわたる也。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は多岐【たき】にわたる也【なり】。",
+    "meaning": "Her talents are diverse."
+  },
+  {
+    "sentence": "彼の行動は大胆也。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は大胆【だいたん】也【なり】。",
+    "meaning": "His actions are bold."
+  },
+  {
+    "sentence": "この風景は心を打つ也。",
+    "sentence_furigana": "この風景【ふうけい】は心【こころ】を打【う】つ也【なり】。",
+    "meaning": "This scenery touches the heart."
+  },
+  {
+    "sentence": "彼女の言葉は力強い也。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は力強【ちからづよ】い也【なり】。",
+    "meaning": "Her words are powerful."
+  },
+  {
+    "sentence": "彼の勇気は称賛に値する也。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】は称賛【しょうさん】に値【あたい】する也【なり】。",
+    "meaning": "His courage is worthy of praise."
+  },
+  {
+    "sentence": "この伝統は尊い也。",
+    "sentence_furigana": "この伝統【でんとう】は尊【たっと】い也【なり】。",
+    "meaning": "This tradition is precious."
+  },
+  {
+    "sentence": "彼女の笑顔は太陽のよう也。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は太陽【たいよう】のよう也【なり】。",
+    "meaning": "Her smile is like the sun."
+  },
+  {
+    "sentence": "彼の貢献は大きい也。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は大【おお】きい也【なり】。",
+    "meaning": "His contribution is great."
+  },
+  {
+    "sentence": "この経験は貴重也。",
+    "sentence_furigana": "この経験【けいけん】は貴重【きちょう】也【なり】。",
+    "meaning": "This experience is valuable."
+  },
+  {
+    "sentence": "彼女の忍耐力は素晴らしい也。",
+    "sentence_furigana": "彼女【かのじょ】の忍耐力【にんたいりょく】は素晴【すば】らしい也【なり】。",
+    "meaning": "Her perseverance is wonderful."
+  },
+  {
+    "sentence": "彼の洞察力は優れている也。",
+    "sentence_furigana": "彼【かれ】の洞察力【どうさつりょく】は優【すぐ】れている也【なり】。",
+    "meaning": "His insight is excellent."
+  },
+  {
+    "sentence": "この絵は芸術的也。",
+    "sentence_furigana": "この絵【え】は芸術的【げいじゅつてき】也【なり】。",
+    "meaning": "This painting is artistic."
+  },
+  {
+    "sentence": "彼女の努力は誰もが知るところ也。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】は誰【だれ】もが知【し】るところ也【なり】。",
+    "meaning": "Everyone knows her efforts."
+  },
+  {
+    "sentence": "彼の言葉は真実を突いている也。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】を突【つ】いている也【なり】。",
+    "meaning": "His words hit the truth."
+  },
+  {
+    "sentence": "この海は澄んでいる也。",
+    "sentence_furigana": "この海【うみ】は澄【す】んでいる也【なり】。",
+    "meaning": "This sea is clear."
+  },
+  {
+    "sentence": "彼女の優しさは皆を和ませる也。",
+    "sentence_furigana": "彼女【かのじょ】の優【やさ】しさは皆【みな】を和【なご】ませる也【なり】。",
+    "meaning": "Her kindness soothes everyone."
+  },
+  {
+    "sentence": "彼の成功は当然の結果也。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】は当然【とうぜん】の結果【けっか】也【なり】。",
+    "meaning": "His success is a natural result."
+  },
+  {
+    "sentence": "この本は知識の宝庫也。",
+    "sentence_furigana": "この本【ほん】は知識【ちしき】の宝庫【ほうこ】也【なり】。",
+    "meaning": "This book is a treasure trove of knowledge."
+  },
+  {
+    "sentence": "彼女の歌声は天使のよう也。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は天使【てんし】のよう也【なり】。",
+    "meaning": "Her singing voice is like an angel's."
+  },
+  {
+    "sentence": "彼の態度は見習うべきもの也。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は見習【みなら】うべきもの也【なり】。",
+    "meaning": "His attitude is something to be admired."
+  },
+  {
+    "sentence": "この星空は息をのむほど美しい也。",
+    "sentence_furigana": "この星空【ほしぞら】は息【いき】をのむほど美【うつく】しい也【なり】。",
+    "meaning": "This starry sky is breathtakingly beautiful."
+  },
+  {
+    "sentence": "彼女の魅力は計り知れない也。",
+    "sentence_furigana": "彼女【かのじょ】の魅力【みりょく】は計【はか】り知【し】れない也【なり】。",
+    "meaning": "Her charm is immeasurable."
+  },
+  {
+    "sentence": "彼の言葉は重みがある也。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は重【おも】みがある也【なり】。",
+    "meaning": "His words carry weight."
+  },
+  {
+    "sentence": "この道は遠い也。",
+    "sentence_furigana": "この道【みち】は遠【とお】い也【なり】。",
+    "meaning": "This road is long."
+  },
+  {
+    "sentence": "彼女の努力は必ず報われる也。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】は必【かなら】ず報【むく】われる也【なり】。",
+    "meaning": "Her efforts will surely be rewarded."
+  },
+  {
+    "sentence": "彼の決断は正しい也。",
+    "sentence_furigana": "彼【かれ】の決断【けつだん】は正【ただ】しい也【なり】。",
+    "meaning": "His decision is correct."
+  },
+  {
+    "sentence": "この音楽は心を落ち着かせる也。",
+    "sentence_furigana": "この音楽【おんがく】は心【こころ】を落【お】ちつかせる也【なり】。",
+    "meaning": "This music calms the mind."
+  },
+  {
+    "sentence": "彼女の優しさは周りの人々を幸せにする也。",
+    "sentence_furigana": "彼女【かのじょ】の優【やさ】しさは周【まわ】りの人々【ひとびと】を幸【しあわ】せにする也【なり】。",
+    "meaning": "Her kindness makes the people around her happy."
+  },
+  {
+    "sentence": "彼の才能は天賦のもの也。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は天賦【てんぷ】のもの也【なり】。",
+    "meaning": "His talent is innate."
+  },
+  {
+    "sentence": "この場所は平和的也。",
+    "sentence_furigana": "この場所【ばしょ】は平和的【へいわてき】也【なり】。",
+    "meaning": "This place is peaceful."
+  },
+  {
+    "sentence": "彼女の言葉は希望を与える也。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は希望【きぼう】を与【あた】える也【なり】。",
+    "meaning": "Her words give hope."
+  },
+  {
+    "sentence": "彼の計画は成功する也。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は成功【せいこう】する也【なり】。",
+    "meaning": "His plan will succeed."
+  },
+  {
+    "sentence": "この川の流れは速い也。",
+    "sentence_furigana": "この川【かわ】の流れ【ながれ】は速【はや】い也【なり】。",
+    "meaning": "The current of this river is fast."
+  },
+  {
+    "sentence": "彼女の献身は模範的也。",
+    "sentence_furigana": "彼女【かのじょ】の献身【けんしん】は模範的【もはんてき】也【なり】。",
+    "meaning": "Her dedication is exemplary."
+  },
+  {
+    "sentence": "彼の言葉は真実也。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】也【なり】。",
+    "meaning": "His words are the truth."
+  }
+]

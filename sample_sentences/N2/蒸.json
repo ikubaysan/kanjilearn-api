@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "この料理は蒸し器で調理されます。",
+    "sentence_furigana": "この料理【りょうり】は蒸【む】し器【き】で調理【ちょうり】されます。",
+    "meaning": "This dish is cooked in a steamer."
+  },
+  {
+    "sentence": "湯気が立ち上り、蒸し暑い一日になった。",
+    "sentence_furigana": "湯気【ゆげ】が立【た】ち上【のぼ】り、蒸【む】し暑【あつ】い一日【いちにち】になった。",
+    "meaning": "Steam rose, and it became a sultry day."
+  },
+  {
+    "sentence": "蒸気機関車は石炭を燃やして蒸気を発生させる。",
+    "sentence_furigana": "蒸気【じょうき】機関車【きかんしゃ】は石炭【せきたん】を燃【も】やして蒸気【じょうき】を発【はっ】生【せい】させます。",
+    "meaning": "Steam locomotives burn coal to produce steam."
+  },
+  {
+    "sentence": "布団が湿気で蒸れてしまった。",
+    "sentence_furigana": "布団【ふとん】が湿気【しっけ】で蒸【む】れてしまった。",
+    "meaning": "The futon became musty due to the humidity."
+  },
+  {
+    "sentence": "彼は病気を蒸し返そうとしている。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】を蒸【む】し返【かえ】そうとしている。",
+    "meaning": "He is trying to stir up trouble about his illness."
+  },
+  {
+    "sentence": "温泉卵は温泉の蒸気でじっくり蒸されて作られる。",
+    "sentence_furigana": "温泉卵【おんせんたまご】は温泉【おんせん】の蒸気【じょうき】でじっくり蒸【む】されて作【つく】られる。",
+    "meaning": "Onsen tamago are made by slowly steaming them with the steam from hot springs."
+  },
+  {
+    "sentence": "部屋の換気をしないと蒸し暑くなる。",
+    "sentence_furigana": "部屋【へや】の換気【かんき】をしないと蒸【む】し暑【あつ】くなる。",
+    "meaning": "If you don't ventilate the room, it will become sultry."
+  },
+  {
+    "sentence": "蒸気は高温になると気体になる。",
+    "sentence_furigana": "蒸気【じょうき】は高温【こうおん】になると気体【きたい】になる。",
+    "meaning": "Steam turns into a gas at high temperatures."
+  },
+  {
+    "sentence": "古い書物は湿気で蒸れて読めない状態だ。",
+    "sentence_furigana": "古【ふる】い書物【しょもつ】は湿気【しっけ】で蒸【む】れて読【よ】めない状態【じょうたい】だ。",
+    "meaning": "The old books are musty from humidity and unreadable."
+  },
+  {
+    "sentence": "過去の過ちを蒸し返してはいけない。",
+    "sentence_furigana": "過去【かこ】の過【あやま】ちを蒸【む】し返【かえ】してはいけない。",
+    "meaning": "You shouldn't bring up past mistakes."
+  },
+  {
+    "sentence": "蒸し料理はヘルシーで人気がある。",
+    "sentence_furigana": "蒸【む】し料理【りょうり】はヘルシーで人気【にんき】がある。",
+    "meaning": "Steamed dishes are healthy and popular."
+  },
+  {
+    "sentence": "蒸し暑い夜にはエアコンが欠かせない。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い夜【よる】にはエアコンが欠【か】かせない。",
+    "meaning": "Air conditioning is indispensable on sultry nights."
+  },
+  {
+    "sentence": "蒸気ボイラーは高圧で運転されている。",
+    "sentence_furigana": "蒸気【じょうき】ボイラーは高圧【こうあつ】で運転【うんてん】されている。",
+    "meaning": "The steam boiler is operated at high pressure."
+  },
+  {
+    "sentence": "衣類が湿気を吸って蒸れてしまった。",
+    "sentence_furigana": "衣類【いるい】が湿気【しっけ】を吸【す】って蒸【む】れてしまった。",
+    "meaning": "The clothes absorbed moisture and became musty."
+  },
+  {
+    "sentence": "昔の出来事を蒸し返すのはやめよう。",
+    "sentence_furigana": "昔【むかし】の出来事【できごと】を蒸【む】し返【かえ】すのはやめよう。",
+    "meaning": "Let's stop dwelling on past events."
+  },
+  {
+    "sentence": "蒸しパンは子供たちに人気のおやつです。",
+    "sentence_furigana": "蒸【む】しパンは子供【こども】たちに人気【にんき】のおやつです。",
+    "meaning": "Steamed buns are a popular snack for children."
+  },
+  {
+    "sentence": "夏は蒸し暑い日が続く。",
+    "sentence_furigana": "夏【なつ】は蒸【む】し暑【あつ】い日【ひ】が続【つづ】く。",
+    "meaning": "Hot and humid days continue in the summer."
+  },
+  {
+    "sentence": "蒸気機関は産業革命の原動力となった。",
+    "sentence_furigana": "蒸気【じょうき】機関【きかん】は産業革命【さんぎょうかくめい】の原動力【げんどうりょく】となった。",
+    "meaning": "The steam engine became the driving force of the Industrial Revolution."
+  },
+  {
+    "sentence": "長期間保管されていた書類が蒸れてしまった。",
+    "sentence_furigana": "長期間【ちょうきかん】保管【ほかん】されていた書類【しょるい】が蒸【む】れてしまった。",
+    "meaning": "Documents stored for a long time have become musty."
+  },
+  {
+    "sentence": "過去の遺恨を蒸し返しても何も解決しない。",
+    "sentence_furigana": "過去【かこ】の遺恨【いこん】を蒸【む】し返【かえ】しても何【なに】も解決【かいけつ】しない。",
+    "meaning": "Dwelling on past grudges solves nothing."
+  },
+  {
+    "sentence": "蒸し野菜は栄養価が高い。",
+    "sentence_furigana": "蒸【む】し野菜【やさい】は栄養価【えいようか】が高【たか】い。",
+    "meaning": "Steamed vegetables are highly nutritious."
+  },
+  {
+    "sentence": "今日は蒸し暑くて外に出たくない。",
+    "sentence_furigana": "今日【きょう】は蒸【む】し暑【あつ】くて外【そと】に出【で】たくない。",
+    "meaning": "It's sultry today, and I don't want to go outside."
+  },
+  {
+    "sentence": "蒸気タービンは発電に使われる。",
+    "sentence_furigana": "蒸気【じょうき】タービンは発電【はつでん】に使【つか】われる。",
+    "meaning": "Steam turbines are used for power generation."
+  },
+  {
+    "sentence": "カビが繁殖して本が蒸れてしまった。",
+    "sentence_furigana": "カビが繁殖【はんしょく】して本【ほん】が蒸【む】れてしまった。",
+    "meaning": "Mold grew, and the books became musty."
+  },
+  {
+    "sentence": "その件について蒸し返すのは止めてください。",
+    "sentence_furigana": "その件【けん】について蒸【む】し返【かえ】すのは止【や】めてください。",
+    "meaning": "Please stop bringing up that matter."
+  },
+  {
+    "sentence": "蒸し鶏はさっぱりとした味わいです。",
+    "sentence_furigana": "蒸【む】し鶏【どり】はさっぱりとした味わいです。",
+    "meaning": "Steamed chicken has a refreshing taste."
+  },
+  {
+    "sentence": "梅雨時は蒸し暑い日が続く。",
+    "sentence_furigana": "梅雨時【つゆどき】は蒸【む】し暑【あつ】い日【ひ】が続【つづ】く。",
+    "meaning": "Sultry days continue during the rainy season."
+  },
+  {
+    "sentence": "蒸気船はかつて主要な交通手段だった。",
+    "sentence_furigana": "蒸気船【じょうきせん】はかつて主要【しゅよう】な交通手段【こうつうしゅだん】だった。",
+    "meaning": "Steamships were once a major means of transportation."
+  },
+  {
+    "sentence": "この地下室は換気が悪く蒸れやすい。",
+    "sentence_furigana": "この地下室【ちかしつ】は換気【かんき】が悪【わる】く蒸【む】れやすい。",
+    "meaning": "This basement is poorly ventilated and tends to get musty."
+  },
+  {
+    "sentence": "過去の誤解を蒸し返しても無意味だ。",
+    "sentence_furigana": "過去【かこ】の誤解【ごかい】を蒸【む】し返【かえ】しても無意味【むいみ】だ。",
+    "meaning": "There's no point in reviving past misunderstandings."
+  },
+  {
+    "sentence": "蒸し饅頭は甘さ控えめで美味しい。",
+    "sentence_furigana": "蒸【む】し饅頭【まんじゅう】は甘【あま】さ控え【ひか】めで美味【おい】しい。",
+    "meaning": "Steamed buns are delicious with moderate sweetness."
+  },
+  {
+    "sentence": "夏場の蒸し暑さに耐えられない。",
+    "sentence_furigana": "夏場【なつば】の蒸【む】し暑【あつ】さに耐【た】えられない。",
+    "meaning": "I can't stand the sultriness of summer."
+  },
+  {
+    "sentence": "蒸気圧は温度の上昇とともに増加する。",
+    "sentence_furigana": "蒸気圧【じょうきあつ】は温度【おんど】の上昇【じょうしょう】とともに増加【ぞうか】する。",
+    "meaning": "Vapor pressure increases with temperature."
+  },
+  {
+    "sentence": "古い衣類はタンスの中で蒸れてしまうことがある。",
+    "sentence_furigana": "古【ふる】い衣類【いるい】はタンスの中【なか】で蒸【む】れてしまうことがある。",
+    "meaning": "Old clothes can become musty in the chest of drawers."
+  },
+  {
+    "sentence": "彼の言い分を蒸し返すのはやめよう。",
+    "sentence_furigana": "彼【かれ】の言【い】い分【ぶん】を蒸【む】し返【かえ】すのはやめよう。",
+    "meaning": "Let's not bring up what he said again."
+  },
+  {
+    "sentence": "蒸し魚はヘルシーな調理法です。",
+    "sentence_furigana": "蒸【む】し魚【さかな】はヘルシーな調理法【ちょうりほう】です。",
+    "meaning": "Steamed fish is a healthy cooking method."
+  },
+  {
+    "sentence": "蒸し暑い日は食欲が落ちる。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い日【ひ】は食欲【しょくよく】が落【お】ちる。",
+    "meaning": "Appetite decreases on sultry days."
+  },
+  {
+    "sentence": "蒸気で調理することで、食材の栄養が損なわれにくい。",
+    "sentence_furigana": "蒸気【じょうき】で調理【ちょうり】することで、食材【しょくざい】の栄養【えいよう】が損【そこな】われにくい。",
+    "meaning": "By cooking with steam, the nutrients in the ingredients are less likely to be lost."
+  },
+  {
+    "sentence": "雨上がりは蒸し暑くなることが多い。",
+    "sentence_furigana": "雨上【あめあ】がりは蒸【む】し暑【あつ】くなることが多【おお】い。",
+    "meaning": "It often becomes sultry after the rain stops."
+  },
+  {
+    "sentence": "蒸気機関車の力強い音を聞いた。",
+    "sentence_furigana": "蒸気【じょうき】機関車【きかんしゃ】の力強【ちからづよ】い音【おと】を聞【き】いた。",
+    "meaning": "I heard the powerful sound of a steam locomotive."
+  },
+  {
+    "sentence": "長雨で家の中が蒸れてしまった。",
+    "sentence_furigana": "長雨【ながあめ】で家【いえ】の中【なか】が蒸【む】れてしまった。",
+    "meaning": "The inside of the house became musty due to the long rain."
+  },
+  {
+    "sentence": "過去の失敗談を蒸し返さないでください。",
+    "sentence_furigana": "過去【かこ】の失敗談【しっぱいだん】を蒸【む】し返【かえ】さないでください。",
+    "meaning": "Please do not bring up past failures."
+  },
+  {
+    "sentence": "蒸し料理は素材の味を生かす。",
+    "sentence_furigana": "蒸【む】し料理【りょうり】は素材【そざい】の味【あじ】を生【い】かす。",
+    "meaning": "Steamed dishes bring out the flavor of the ingredients."
+  },
+  {
+    "sentence": "今日は特に蒸し暑い日だ。",
+    "sentence_furigana": "今日【きょう】は特【とく】に蒸【む】し暑【あつ】い日【ひ】だ。",
+    "meaning": "Today is a particularly sultry day."
+  },
+  {
+    "sentence": "蒸気機関は多くの発明のきっかけとなった。",
+    "sentence_furigana": "蒸気【じょうき】機関【きかん】は多【おお】くの発明【はつめい】のきっかけとなった。",
+    "meaning": "The steam engine led to many inventions."
+  },
+  {
+    "sentence": "閉め切った部屋はすぐに蒸れてしまう。",
+    "sentence_furigana": "閉【と】め切【き】った部屋【へや】はすぐに蒸【む】れてしまう。",
+    "meaning": "A closed room quickly becomes musty."
+  },
+  {
+    "sentence": "子供の頃の恥ずかしい話を蒸し返さないで。",
+    "sentence_furigana": "子供の頃【こどものころ】の恥【は】ずかしい話【はなし】を蒸【む】し返【かえ】さないで。",
+    "meaning": "Don't bring up embarrassing stories from my childhood."
+  },
+  {
+    "sentence": "蒸し豆腐はシンプルだが美味しい。",
+    "sentence_furigana": "蒸【む】し豆腐【どうふ】はシンプルだが美味【おい】しい。",
+    "meaning": "Steamed tofu is simple but delicious."
+  },
+  {
+    "sentence": "蒸し暑いので扇風機をつけっぱなしにしている。",
+    "sentence_furigana": "蒸【む】し暑【あつ】いので扇風機【せんぷうき】をつけっぱなしにしている。",
+    "meaning": "Because it's sultry, I'm leaving the electric fan on."
+  },
+  {
+    "sentence": "蒸気は高温で気体になる。",
+    "sentence_furigana": "蒸気【じょうき】は高温【こうおん】で気体【きたい】になる。",
+    "meaning": "Steam becomes a gas at high temperatures."
+  },
+  {
+    "sentence": "クローゼットの換気が悪く、衣類が蒸れてしまった。",
+    "sentence_furigana": "クローゼットの換気【かんき】が悪【わる】く、衣類【いるい】が蒸【む】れてしまった。",
+    "meaning": "The closet's ventilation is poor, and the clothes became musty."
+  },
+  {
+    "sentence": "過去のいざこざを蒸し返すのは得策ではない。",
+    "sentence_furigana": "過去【かこ】のいざこざを蒸【む】し返【かえ】すのは得策【とくさく】ではない。",
+    "meaning": "It's not a good idea to bring up past disputes."
+  },
+  {
+    "sentence": "蒸し鶏をネギソースで食べた。",
+    "sentence_furigana": "蒸【む】し鶏【どり】をネギソースで食【た】べた。",
+    "meaning": "I ate steamed chicken with green onion sauce."
+  },
+  {
+    "sentence": "蒸し暑い夜は寝苦しい。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い夜【よる】は寝苦【ねぐる】しい。",
+    "meaning": "Sultry nights make it hard to sleep."
+  },
+  {
+    "sentence": "蒸気で暖を取る設備もある。",
+    "sentence_furigana": "蒸気【じょうき】で暖【あたた】まりを取【と】る設備【せつび】もある。",
+    "meaning": "There are also facilities that use steam for heating."
+  },
+  {
+    "sentence": "長期間放置された食品は蒸れてカビが生える。",
+    "sentence_furigana": "長期間【ちょうきかん】放置【ほうち】された食品【しょくひん】は蒸【む】れてカビが生【は】える。",
+    "meaning": "Food left for a long time becomes musty and grows mold."
+  },
+  {
+    "sentence": "昔のわだかまりを蒸し返しても良いことはない。",
+    "sentence_furigana": "昔【むかし】のわだかまりを蒸【む】し返【かえ】しても良【よ】いことはない。",
+    "meaning": "There's no good in dwelling on old resentments."
+  },
+  {
+    "sentence": "蒸し牡蠣は海の幸を堪能できる。",
+    "sentence_furigana": "蒸【む】し牡蠣【かき】は海【うみ】の幸【さち】を堪能【たんのう】できる。",
+    "meaning": "Steamed oysters allow you to fully enjoy the bounty of the sea."
+  },
+  {
+    "sentence": "夏は蒸し暑いので、涼しい場所で過ごしたい。",
+    "sentence_furigana": "夏【なつ】は蒸【む】し暑【あつ】いので、涼【すず】しい場所【ばしょ】で過【す】ごしたい。",
+    "meaning": "It's sultry in the summer, so I want to spend time in a cool place."
+  },
+  {
+    "sentence": "蒸気圧計で圧力を測定する。",
+    "sentence_furigana": "蒸気圧計【じょうきあつけい】で圧力【あつりょく】を測定【そくてい】する。",
+    "meaning": "Measure the pressure with a manometer."
+  },
+  {
+    "sentence": "湿気が多いと畳が蒸れてしまう。",
+    "sentence_furigana": "湿気【しっけ】が多【おお】いと畳【たたみ】が蒸【む】れてしまう。",
+    "meaning": "Tatami mats can become musty in high humidity."
+  },
+  {
+    "sentence": "過去の栄光を蒸し返して語る。",
+    "sentence_furigana": "過去【かこ】の栄光【えいこう】を蒸【む】し返【かえ】して語【かた】る。",
+    "meaning": "To talk about past glories again."
+  },
+  {
+    "sentence": "蒸し野菜のサラダは健康的だ。",
+    "sentence_furigana": "蒸【む】し野菜【やさい】のサラダは健康的【けんこうてき】だ。",
+    "meaning": "Steamed vegetable salad is healthy."
+  },
+  {
+    "sentence": "蒸し暑い日は室内干しでも洗濯物が乾きにくい。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い日【ひ】は室内干【しつないぼ】しでも洗濯物【せんたくもの】が乾【かわ】きにくい。",
+    "meaning": "On sultry days, laundry is hard to dry even when hung indoors."
+  },
+  {
+    "sentence": "蒸気は熱を伝える。",
+    "sentence_furigana": "蒸気【じょうき】は熱【ねつ】を伝【つた】える。",
+    "meaning": "Steam transfers heat."
+  },
+  {
+    "sentence": "古い本は湿気で蒸れるので、乾燥剤を入れる。",
+    "sentence_furigana": "古【ふる】い本【ほん】は湿気【しっけ】で蒸【む】れるので、乾燥剤【かんそうざい】を入【い】れる。",
+    "meaning": "Old books can become musty due to humidity, so I put desiccants in them."
+  },
+  {
+    "sentence": "相手の落ち度を蒸し返すようなことはしたくない。",
+    "sentence_furigana": "相手【あいて】の落【お】ち度【ど】を蒸【む】し返【かえ】すようなことはしたくない。",
+    "meaning": "I don't want to bring up the other person's mistakes."
+  },
+  {
+    "sentence": "蒸し料理は油を使わないのでヘルシーだ。",
+    "sentence_furigana": "蒸【む】し料理【りょうり】は油【あぶら】を使【つか】わないのでヘルシーだ。",
+    "meaning": "Steamed dishes are healthy because they don't use oil."
+  },
+  {
+    "sentence": "梅雨時の蒸し暑さは体にこたえる。",
+    "sentence_furigana": "梅雨時【つゆどき】の蒸【む】し暑【あつ】さは体【からだ】にこたえる。",
+    "meaning": "The sultriness of the rainy season is hard on the body."
+  },
+  {
+    "sentence": "蒸気で動くおもちゃは子供に人気だ。",
+    "sentence_furigana": "蒸気【じょうき】で動【うご】くおもちゃは子供【こども】に人気【にんき】だ。",
+    "meaning": "Toys that run on steam are popular with children."
+  },
+  {
+    "sentence": "閉め切った部屋は空気がこもって蒸れやすい。",
+    "sentence_furigana": "閉【と】め切【き】った部屋【へや】は空気【くうき】がこもって蒸【む】れやすい。",
+    "meaning": "A closed room becomes stuffy and tends to get musty."
+  },
+  {
+    "sentence": "過去の不満を蒸し返すだけでは問題は解決しない。",
+    "sentence_furigana": "過去【かこ】の不満【ふまん】を蒸【む】し返【かえ】すだけでは問題【もんだい】は解決【かいけつ】しない。",
+    "meaning": "Simply bringing up past grievances will not solve the problem."
+  },
+  {
+    "sentence": "蒸し豆は栄養価が高い間食です。",
+    "sentence_furigana": "蒸【む】し豆【まめ】は栄養価【えいようか】が高【たか】い間食【かんしょく】です。",
+    "meaning": "Steamed beans are a nutritious snack."
+  },
+  {
+    "sentence": "蒸し暑いので冷たい麺類が食べたくなる。",
+    "sentence_furigana": "蒸【む】し暑【あつ】いので冷【つめ】たい麺類【めんるい】が食【た】べたくなる。",
+    "meaning": "Because it's sultry, I feel like eating cold noodles."
+  },
+  {
+    "sentence": "蒸気発生装置の仕組みを学ぶ。",
+    "sentence_furigana": "蒸気【じょうき】発生装置【はっせいそうち】の仕組【しく】みを学【まな】ぶ。",
+    "meaning": "Learn the mechanism of a steam generator."
+  },
+  {
+    "sentence": "雨が降ると、湿度が高くなり蒸し暑い。",
+    "sentence_furigana": "雨【あめ】が降【ふ】ると、湿度【しつど】が高【たか】くなり蒸【む】し暑【あつ】い。",
+    "meaning": "When it rains, humidity rises, making it sultry."
+  },
+  {
+    "sentence": "古い地下室はカビ臭くて蒸れている。",
+    "sentence_furigana": "古【ふる】い地下室【ちかしつ】はカビ臭【くさ】くて蒸【む】れている。",
+    "meaning": "The old basement smells musty and damp."
+  },
+  {
+    "sentence": "子供のいたずらを蒸し返して怒る。",
+    "sentence_furigana": "子供【こども】のいたずらを蒸【む】し返【かえ】して怒【おこ】る。",
+    "meaning": "To get angry by bringing up a child's mischief."
+  },
+  {
+    "sentence": "蒸し餃子はヘルシーで人気があります。",
+    "sentence_furigana": "蒸【む】し餃子【ぎょうざ】はヘルシーで人気【にんき】があります。",
+    "meaning": "Steamed dumplings are healthy and popular."
+  },
+  {
+    "sentence": "蒸し暑いのでエアコンを強運転にしている。",
+    "sentence_furigana": "蒸【む】し暑【あつ】いのでエアコンを強運転【つよいうんてん】にしている。",
+    "meaning": "Because it's sultry, I'm running the air conditioner on high."
+  },
+  {
+    "sentence": "蒸気で温める調理法は栄養素を保つ。",
+    "sentence_furigana": "蒸気【じょうき】で温【あたた】める調理法【ちょうりほう】は栄養素【えいようそ】を保【たも】つ。",
+    "meaning": "Cooking methods that use steam preserve nutrients."
+  },
+  {
+    "sentence": "梅雨の時期は蒸し暑くて不快だ。",
+    "sentence_furigana": "梅雨【つゆ】の時期【じき】は蒸【む】し暑【あつ】くて不快【ふかい】だ。",
+    "meaning": "The sultriness of the rainy season is unpleasant."
+  },
+  {
+    "sentence": "蒸気機関は歴史を変えた。",
+    "sentence_furigana": "蒸気【じょうき】機関【きかん】は歴史【れきし】を変【か】えた。",
+    "meaning": "The steam engine changed history."
+  },
+  {
+    "sentence": "換気をしないと部屋が蒸れてしまう。",
+    "sentence_furigana": "換気【かんき】をしないと部屋【へや】が蒸【む】れてしまう。",
+    "meaning": "If you don't ventilate, the room will become musty."
+  },
+  {
+    "sentence": "蒸し暑い日は、冷たい飲み物が欲しくなる。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い日【ひ】は、冷【つめ】たい飲【の】み物【もの】が欲【ほ】しくなる。",
+    "meaning": "On sultry days, I crave cold drinks."
+  },
+  {
+    "sentence": "蒸気タービンは回転運動を生み出す。",
+    "sentence_furigana": "蒸気【じょうき】タービンは回転運動【かいてんうんどう】を生【う】み出【だ】す。",
+    "meaning": "Steam turbines generate rotational motion."
+  },
+  {
+    "sentence": "古い畳は湿気で蒸れてカビが生えやすい。",
+    "sentence_furigana": "古【ふる】い畳【たたみ】は湿気【しっけ】で蒸【む】れてカビが生【は】えやすい。",
+    "meaning": "Old tatami mats tend to become musty and moldy due to humidity."
+  },
+  {
+    "sentence": "過去の出来事を蒸し返して、議論を始めた。",
+    "sentence_furigana": "過去【かこ】の出来事【できごと】を蒸【む】し返【かえ】して、議論【ぎろん】を始【はじ】めた。",
+    "meaning": "We started an argument by bringing up past events."
+  },
+  {
+    "sentence": "蒸し調理は低カロリーでヘルシーです。",
+    "sentence_furigana": "蒸【む】し調理【ちょうり】は低カロリーでヘルシーです。",
+    "meaning": "Steamed cooking is low-calorie and healthy."
+  },
+  {
+    "sentence": "蒸し暑くて食欲がない。",
+    "sentence_furigana": "蒸【む】し暑【あつ】くて食欲【しょくよく】がない。",
+    "meaning": "I have no appetite because it's sultry."
+  },
+  {
+    "sentence": "蒸気船はかつて大陸間を航行していた。",
+    "sentence_furigana": "蒸気船【じょうきせん】はかつて大陸間【たいりくかん】を航行【こうこう】していた。",
+    "meaning": "Steamships once sailed between continents."
+  },
+  {
+    "sentence": "換気扇を回さないと、キッチンが蒸れてしまう。",
+    "sentence_furigana": "換気扇【かんきせん】を回【まわ】さないと、キッチンが蒸【む】れてしまう。",
+    "meaning": "If you don't turn on the ventilation fan, the kitchen will become musty."
+  },
+  {
+    "sentence": "蒸し暑いので、冷たいタオルで顔を拭いた。",
+    "sentence_furigana": "蒸【む】し暑【あつ】いので、冷【つめ】たいタオルで顔【かお】を拭【ふ】いた。",
+    "meaning": "Because it was sultry, I wiped my face with a cold towel."
+  },
+  {
+    "sentence": "蒸し鶏はそのまま食べても美味しい。",
+    "sentence_furigana": "蒸【む】し鶏【どり】はそのまま食【た】べても美味【おい】しい。",
+    "meaning": "Steamed chicken is delicious even when eaten as is."
+  },
+  {
+    "sentence": "蒸し暑い日はシャワーを浴びたくなる。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い日【ひ】はシャワーを浴【あ】びたくなる。",
+    "meaning": "On sultry days, I feel like taking a shower."
+  },
+  {
+    "sentence": "蒸気機関は今でも一部の産業で使われている。",
+    "sentence_furigana": "蒸気【じょうき】機関【きかん】は今【いま】でも一部【いちぶ】の産業【さんぎょう】で使【つか】われている。",
+    "meaning": "Steam engines are still used in some industries today."
+  },
+  {
+    "sentence": "この部屋は換気が悪く、蒸れやすい。",
+    "sentence_furigana": "この部屋【へや】は換気【かんき】が悪【わる】く、蒸【む】れやすい。",
+    "meaning": "This room is poorly ventilated and tends to get musty."
+  },
+  {
+    "sentence": "蒸し暑いので、冷房を効かせている。",
+    "sentence_furigana": "蒸【む】し暑【あつ】いので、冷房【れいぼう】を効【き】かせている。",
+    "meaning": "Because it's sultry, I'm running the air conditioning."
+  },
+  {
+    "sentence": "蒸し野菜は栄養を逃がしにくい。",
+    "sentence_furigana": "蒸【む】し野菜【やさい】は栄養【えいよう】を逃【に】がしにくい。",
+    "meaning": "Steamed vegetables are less likely to lose nutrients."
+  },
+  {
+    "sentence": "蒸し暑い日は食欲が増進する。",
+    "sentence_furigana": "蒸【む】し暑【あつ】い日【ひ】は食欲【しょくよく】が増進【ぞうしん】する。",
+    "meaning": "Appetite increases on sultry days."
+  },
+  {
+    "sentence": "蒸気で調理すると、素材の旨味が引き出される。",
+    "sentence_furigana": "蒸気【じょうき】で調理【ちょうり】すると、素材【そざい】の旨味【うまみ】が引【ひ】き出【だ】される。",
+    "meaning": "When cooked with steam, the natural flavors of the ingredients are brought out."
+  },
+  {
+    "sentence": "蒸し暑いので、涼しい服装を心がける。",
+    "sentence_furigana": "蒸【む】し暑【あつ】いので、涼【すず】しい服装【ふくそう】を心掛【こころが】ける。",
+    "meaning": "Because it's sultry, I try to wear light clothing."
+  },
+  {
+    "sentence": "蒸気機関車はもう製造されていない。",
+    "sentence_furigana": "蒸気【じょうき】機関車【きかんしゃ】はもう製造【せいぞう】されていない。",
+    "meaning": "Steam locomotives are no longer manufactured."
+  }
+]

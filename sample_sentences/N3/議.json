@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "会議は午後三時に始まります。",
+    "sentence_furigana": "会議【かいぎ】は午後三時【ごごさんじ】に始【はじ】まります。",
+    "meaning": "The meeting will begin at 3 PM."
+  },
+  {
+    "sentence": "彼は議会で重要な発言をしました。",
+    "sentence_furigana": "彼【かれ】は議会【ぎかい】で重要【じゅうよう】な発言【はつげん】をしました。",
+    "meaning": "He made an important statement in the assembly."
+  },
+  {
+    "sentence": "その問題について議論が必要です。",
+    "sentence_furigana": "その問題【もんだい】について議論【ぎろん】が必要です【ひつよう】。",
+    "meaning": "We need to discuss that issue."
+  },
+  {
+    "sentence": "予算について議長と協議しました。",
+    "sentence_furigana": "予算【よさん】について議長【ぎちょう】と協議【きょうぎ】しました。",
+    "meaning": "I consulted with the chairman about the budget."
+  },
+  {
+    "sentence": "この件は衆議院で審議される予定です。",
+    "sentence_furigana": "この件【けん】は衆議院【しゅうぎいん】で審議【しんぎ】される予定【よてい】です。",
+    "meaning": "This matter is scheduled to be deliberated in the House of Representatives."
+  },
+  {
+    "sentence": "議案は全会一致で可決されました。",
+    "sentence_furigana": "議案【ぎあん】は全会一致【ぜんかいいっち】で可決【かけつ】されました。",
+    "meaning": "The proposal was passed unanimously."
+  },
+  {
+    "sentence": "議事録を作成する必要があります。",
+    "sentence_furigana": "議事録【ぎじろく】を作成【さくせい】する必要があります。",
+    "meaning": "It is necessary to create the minutes."
+  },
+  {
+    "sentence": "彼女は議長として会を進行した。",
+    "sentence_furigana": "彼女【かのじょ】は議長【ぎちょう】として会【かい】を進行【しんこう】した。",
+    "meaning": "She chaired the meeting."
+  },
+  {
+    "sentence": "国会で法案が審議されている。",
+    "sentence_furigana": "国会【こっかい】で法案【ほうあん】が審議【しんぎ】されている。",
+    "meaning": "A bill is being deliberated in the Diet."
+  },
+  {
+    "sentence": "この議席は予約済みです。",
+    "sentence_furigana": "この議席【ぎせき】は予約済【よやくず】みです。",
+    "meaning": "This seat is reserved."
+  },
+  {
+    "sentence": "会議の内容について議論を深めた。",
+    "sentence_furigana": "会議【かいぎ】の内容【ないよう】について議論【ぎろん】を深【ふか】めた。",
+    "meaning": "We deepened the discussion on the content of the meeting."
+  },
+  {
+    "sentence": "会議室で議論が行われた。",
+    "sentence_furigana": "会議室【かいぎしつ】で議論【ぎろん】が行【おこな】われた。",
+    "meaning": "A debate took place in the conference room."
+  },
+  {
+    "sentence": "議長は出席者に発言を求めた。",
+    "sentence_furigana": "議長【ぎちょう】は出席者【しゅっせきしゃ】に発言【はつげん】を求【もと】めた。",
+    "meaning": "The chairman asked the attendees to speak."
+  },
+  {
+    "sentence": "この件について異議はありません。",
+    "sentence_furigana": "この件【けん】について異議【いぎ】はありません。",
+    "meaning": "I have no objection to this matter."
+  },
+  {
+    "sentence": "議長は会議を招集した。",
+    "sentence_furigana": "議長【ぎちょう】は会議【かいぎ】を招集【しょうしゅう】した。",
+    "meaning": "The chairman convened the meeting."
+  },
+  {
+    "sentence": "議論の結果、合意に至った。",
+    "sentence_furigana": "議論【ぎろん】の結果【けっか】、合意【ごうい】に至【いた】った。",
+    "meaning": "As a result of the discussion, an agreement was reached."
+  },
+  {
+    "sentence": "彼は会議の進行役を務めた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の進行役【しんこうやく】を務【つと】めた。",
+    "meaning": "He served as the facilitator of the meeting."
+  },
+  {
+    "sentence": "総会議事録は後日配布されます。",
+    "sentence_furigana": "総会議事録【そうかいぎじろく】は後日【ごじつ】配布【はいふ】されます。",
+    "meaning": "The minutes of the general meeting will be distributed later."
+  },
+  {
+    "sentence": "この提案について議論したい。",
+    "sentence_furigana": "この提案【ていあん】について議論【ぎろん】したい。",
+    "meaning": "I want to discuss this proposal."
+  },
+  {
+    "sentence": "議長は議題を発表した。",
+    "sentence_furigana": "議長【ぎちょう】は議題【ぎだい】を発表【はっぴょう】した。",
+    "meaning": "The chairman announced the agenda."
+  },
+  {
+    "sentence": "会議では活発な議論が交わされた。",
+    "sentence_furigana": "会議【かいぎ】では活発【かっぱつ】な議論【ぎろん】が交【か】わされた。",
+    "meaning": "Lively discussions were exchanged at the meeting."
+  },
+  {
+    "sentence": "議長は会員に意見を求めた。",
+    "sentence_furigana": "議長【ぎちょう】は会員【かいいん】に意見【いけん】を求【もと】めた。",
+    "meaning": "The chairman asked the members for their opinions."
+  },
+  {
+    "sentence": "法案の審議のために、国会が開かれた。",
+    "sentence_furigana": "法案【ほうあん】の審議【しんぎ】のために、国会【こっかい】が開【ひら】かれた。",
+    "meaning": "The Diet was convened for the deliberation of the bill."
+  },
+  {
+    "sentence": "議会の開会を宣言します。",
+    "sentence_furigana": "議会【ぎかい】の開会【かいかい】を宣言【せんげん】します。",
+    "meaning": "I declare the opening of the assembly."
+  },
+  {
+    "sentence": "この議定書には署名しましたか。",
+    "sentence_furigana": "この議定書【ぎていしょ】には署名【しょめい】しましたか。",
+    "meaning": "Did you sign this protocol?"
+  },
+  {
+    "sentence": "会議の議事を進めます。",
+    "sentence_furigana": "会議【かいぎ】の議事【ぎじ】を進【すす】めます。",
+    "meaning": "Let's proceed with the meeting's agenda."
+  },
+  {
+    "sentence": "議長は結論を導き出した。",
+    "sentence_furigana": "議長【ぎちょう】は結論【けつろん】を導【みちび】き出【だ】した。",
+    "meaning": "The chairman reached a conclusion."
+  },
+  {
+    "sentence": "多数決で議案が決定された。",
+    "sentence_furigana": "多数決【たすうけつ】で議案【ぎあん】が決定【けってい】された。",
+    "meaning": "The proposal was decided by majority vote."
+  },
+  {
+    "sentence": "議長は賛成意見を求めた。",
+    "sentence_furigana": "議長【ぎちょう】は賛成意見【さんせい いけん】を求【もと】めた。",
+    "meaning": "The chairman asked for opinions in favor."
+  },
+  {
+    "sentence": "会議の議題を再確認してください。",
+    "sentence_furigana": "会議【かいぎ】の議題【ぎだい】を再確認【さいかくにん】してください。",
+    "meaning": "Please reconfirm the agenda of the meeting."
+  },
+  {
+    "sentence": "議決の結果を記録します。",
+    "sentence_furigana": "議決【ぎけつ】の結果【けっか】を記録【きろく】します。",
+    "meaning": "We will record the results of the vote."
+  },
+  {
+    "sentence": "彼女は会議の司会を務めた。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の司会【しかい】を務【つと】めた。",
+    "meaning": "She served as the moderator of the meeting."
+  },
+  {
+    "sentence": "議論は白熱した。",
+    "sentence_furigana": "議論【ぎろん】は白熱【はくねつ】した。",
+    "meaning": "The debate became heated."
+  },
+  {
+    "sentence": "議長は発言を許可した。",
+    "sentence_furigana": "議長【ぎちょう】は発言【はつげん】を許可【きょか】した。",
+    "meaning": "The chairman granted permission to speak."
+  },
+  {
+    "sentence": "この案件は検討中です。",
+    "sentence_furigana": "この案件【あんけん】は検討中【けんとうちゅう】です。",
+    "meaning": "This case is under consideration."
+  },
+  {
+    "sentence": "会議の議長を選出しました。",
+    "sentence_furigana": "会議【かいぎ】の議長【ぎちょう】を選出【せんしゅつ】しました。",
+    "meaning": "We elected the chairman of the meeting."
+  },
+  {
+    "sentence": "予算案の審議が始まった。",
+    "sentence_furigana": "予算案【よさんあん】の審議【しんぎ】が始【はじ】まった。",
+    "meaning": "The deliberation of the budget proposal has begun."
+  },
+  {
+    "sentence": "会議での議事を記録しました。",
+    "sentence_furigana": "会議【かいぎ】での議事【ぎじ】を記録【きろく】しました。",
+    "meaning": "I recorded the proceedings of the meeting."
+  },
+  {
+    "sentence": "議長は次の議題に移った。",
+    "sentence_furigana": "議長【ぎちょう】は次【つぎ】の議題【ぎだい】に移【うつ】った。",
+    "meaning": "The chairman moved to the next item on the agenda."
+  },
+  {
+    "sentence": "この件について異議を唱える。",
+    "sentence_furigana": "この件【けん】について異議【いぎ】を唱【とな】える。",
+    "meaning": "I raise an objection regarding this matter."
+  },
+  {
+    "sentence": "会議は円滑に進んだ。",
+    "sentence_furigana": "会議【かいぎ】は円滑【えんかつ】に進【すす】んだ。",
+    "meaning": "The meeting proceeded smoothly."
+  },
+  {
+    "sentence": "議長は提案を提示した。",
+    "sentence_furigana": "議長【ぎちょう】は提案【ていあん】を提示【ていじ】した。",
+    "meaning": "The chairman presented the proposal."
+  },
+  {
+    "sentence": "議事録の内容を確認してください。",
+    "sentence_furigana": "議事録【ぎじろく】の内容【ないよう】を確認【かくにん】してください。",
+    "meaning": "Please confirm the contents of the minutes."
+  },
+  {
+    "sentence": "その決定は妥当だと議論された。",
+    "sentence_furigana": "その決定【けってい】は妥当【だとう】だと議論【ぎろん】された。",
+    "meaning": "It was argued that the decision was appropriate."
+  },
+  {
+    "sentence": "議長は参加者に質問した。",
+    "sentence_furigana": "議長【ぎちょう】は参加者【さんかしゃ】に質問【しつもん】した。",
+    "meaning": "The chairman questioned the participants."
+  },
+  {
+    "sentence": "会議の議案は変更されました。",
+    "sentence_furigana": "会議【かいぎ】の議案【ぎあん】は変更【へんこう】されました。",
+    "meaning": "The agenda items for the meeting were changed."
+  },
+  {
+    "sentence": "議論の末、合意に至りました。",
+    "sentence_furigana": "議論【ぎろん】の末【すえ】、合意【ごうい】に至【いた】りました。",
+    "meaning": "After much discussion, we reached an agreement."
+  },
+  {
+    "sentence": "彼は議会に提出する書類を作成した。",
+    "sentence_furigana": "彼【かれ】は議会【ぎかい】に提出【ていしゅつ】する書類【しょるい】を作成【さくせい】した。",
+    "meaning": "He prepared the documents to be submitted to the assembly."
+  },
+  {
+    "sentence": "議長は意見の相違を調整した。",
+    "sentence_furigana": "議長【ぎちょう】は意見【いけん】の相違【そうい】を調整【ちょうせい】した。",
+    "meaning": "The chairman coordinated the differences in opinion."
+  },
+  {
+    "sentence": "会議の議決事項を決定する。",
+    "sentence_furigana": "会議【かいぎ】の議決事項【ぎけつじこう】を決定【けってい】する。",
+    "meaning": "Decide on the resolutions of the meeting."
+  },
+  {
+    "sentence": "議論は生産的だった。",
+    "sentence_furigana": "議論【ぎろん】は生産的【せいさんてき】だった。",
+    "meaning": "The discussion was productive."
+  },
+  {
+    "sentence": "議長は会議の開始を告げた。",
+    "sentence_furigana": "議長【ぎちょう】は会議【かいぎ】の開始【かいし】を告【つ】げた。",
+    "meaning": "The chairman announced the start of the meeting."
+  },
+  {
+    "sentence": "この政策について議論しましょう。",
+    "sentence_furigana": "この政策【せいさく】について議論【ぎろん】しましょう。",
+    "meaning": "Let's discuss this policy."
+  },
+  {
+    "sentence": "議長は全員の意見を聞いた。",
+    "sentence_furigana": "議長【ぎちょう】は全員【ぜんいん】の意見【いけん】を聞【き】いた。",
+    "meaning": "The chairman heard everyone's opinion."
+  },
+  {
+    "sentence": "会議では様々な意見が出された。",
+    "sentence_furigana": "会議【かいぎ】では様々【さまざま】な意見【いけん】が出【だ】された。",
+    "meaning": "Various opinions were expressed at the meeting."
+  },
+  {
+    "sentence": "議案は承認されました。",
+    "sentence_furigana": "議案【ぎあん】は承認【しょうにん】されました。",
+    "meaning": "The proposal was approved."
+  },
+  {
+    "sentence": "議長は会議の終了を宣言した。",
+    "sentence_furigana": "議長【ぎちょう】は会議【かいぎ】の終了【しゅうりょう】を宣言【せんげん】した。",
+    "meaning": "The chairman declared the end of the meeting."
+  },
+  {
+    "sentence": "この問題について諮問する。",
+    "sentence_furigana": "この問題【もんだい】について諮問【しもん】する。",
+    "meaning": "We will consult on this problem."
+  },
+  {
+    "sentence": "会議の内容を要約してください。",
+    "sentence_furigana": "会議【かいぎ】の内容【ないよう】を要約【ようやく】してください。",
+    "meaning": "Please summarize the content of the meeting."
+  },
+  {
+    "sentence": "議長は議題について説明した。",
+    "sentence_furigana": "議長【ぎちょう】は議題【ぎだい】について説明【せつめい】した。",
+    "meaning": "The chairman explained the agenda."
+  },
+  {
+    "sentence": "この件は再度の審議が必要だ。",
+    "sentence_furigana": "この件【けん】は再度【さいど】の審議【しんぎ】が必要【ひつよう】だ。",
+    "meaning": "This matter requires further deliberation."
+  },
+  {
+    "sentence": "会議は予定通りに進んでいる。",
+    "sentence_furigana": "会議【かいぎ】は予定通【よていどお】りに進【すす】んでいる。",
+    "meaning": "The meeting is proceeding as scheduled."
+  },
+  {
+    "sentence": "議長は決議を促した。",
+    "sentence_furigana": "議長【ぎちょう】は決議【けつぎ】を促【うなが】した。",
+    "meaning": "The chairman urged for a resolution."
+  },
+  {
+    "sentence": "この議定書は承認されました。",
+    "sentence_furigana": "この議定書【ぎていしょ】は承認【しょうにん】されました。",
+    "meaning": "This protocol was approved."
+  },
+  {
+    "sentence": "議会で議論が交わされた。",
+    "sentence_furigana": "議会【ぎかい】で議論【ぎろん】が交【か】わされた。",
+    "meaning": "Debates took place in the assembly."
+  },
+  {
+    "sentence": "議長は参加者からの質問に答えた。",
+    "sentence_furigana": "議長【ぎちょう】は参加者【さんかしゃ】からの質問【しつもん】に答【こた】えた。",
+    "meaning": "The chairman answered questions from the participants."
+  },
+  {
+    "sentence": "会議の議事進行は順調だ。",
+    "sentence_furigana": "会議【かいぎ】の議事進行【ぎじしんこう】は順調【じゅんちょう】だ。",
+    "meaning": "The proceedings of the meeting are going smoothly."
+  },
+  {
+    "sentence": "この件について審議する。",
+    "sentence_furigana": "この件【けん】について審議【しんぎ】する。",
+    "meaning": "We will deliberate on this matter."
+  },
+  {
+    "sentence": "議長は議題の変更を提案した。",
+    "sentence_furigana": "議長【ぎちょう】は議題【ぎだい】の変更【へんこう】を提案【ていあん】した。",
+    "meaning": "The chairman proposed a change to the agenda."
+  },
+  {
+    "sentence": "会議の議事録を作成する。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】を作成【さくせい】する。",
+    "meaning": "Prepare the minutes of the meeting."
+  },
+  {
+    "sentence": "議論は平行線をたどった。",
+    "sentence_furigana": "議論【ぎろん】は平行線【へいこうせん】をたどった。",
+    "meaning": "The discussion went in circles."
+  },
+  {
+    "sentence": "議長は会議のスケジュールを確認した。",
+    "sentence_furigana": "議長【ぎちょう】は会議【かいぎ】のスケジュールを確認【かくにん】した。",
+    "meaning": "The chairman confirmed the meeting schedule."
+  },
+  {
+    "sentence": "この議席は空いていますか。",
+    "sentence_furigana": "この議席【ぎせき】は空【あ】いていますか。",
+    "meaning": "Is this seat available?"
+  },
+  {
+    "sentence": "会議では賛成と反対の意見が分かれた。",
+    "sentence_furigana": "会議【かいぎ】では賛成【さんせい】と反対【はんたい】の意見【いけん】が分【わ】かれた。",
+    "meaning": "Opinions were divided between support and opposition at the meeting."
+  },
+  {
+    "sentence": "議長は結論をまとめた。",
+    "sentence_furigana": "議長【ぎちょう】は結論【けつろん】をまとめた。",
+    "meaning": "The chairman summarized the conclusion."
+  },
+  {
+    "sentence": "この件について議論の余地はない。",
+    "sentence_furigana": "この件【けん】について議論【ぎろん】の余地【よち】はない。",
+    "meaning": "There is no room for discussion on this matter."
+  },
+  {
+    "sentence": "会議の議事進行について指示を仰ぐ。",
+    "sentence_furigana": "会議【かいぎ】の議事進行【ぎじしんこう】について指示【しじ】を仰【あお】ぐ。",
+    "meaning": "Seek instructions regarding the proceedings of the meeting."
+  },
+  {
+    "sentence": "議長は会を閉会すると宣言した。",
+    "sentence_furigana": "議長【ぎちょう】は会【かい】を閉会【へいかい】すると宣言【せんげん】した。",
+    "meaning": "The chairman announced the closing of the meeting."
+  },
+  {
+    "sentence": "彼女は会議の議事進行を務めた。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の議事進行【ぎじしんこう】を務【つと】めた。",
+    "meaning": "She served as the proceedings manager for the meeting."
+  },
+  {
+    "sentence": "この議案は再検討されるべきだ。",
+    "sentence_furigana": "この議案【ぎあん】は再検討【さいけんとう】されるべきだ。",
+    "meaning": "This proposal should be reconsidered."
+  },
+  {
+    "sentence": "会議は活発な議論を経て終了した。",
+    "sentence_furigana": "会議【かいぎ】は活発【かっぱつ】な議論【ぎろん】を経て【へて】終了【しゅうりょう】した。",
+    "meaning": "The meeting concluded after lively discussions."
+  },
+  {
+    "sentence": "議長は次の議題を発表した。",
+    "sentence_furigana": "議長【ぎちょう】は次【つぎ】の議題【ぎだい】を発表【はっぴょう】した。",
+    "meaning": "The chairman announced the next agenda item."
+  },
+  {
+    "sentence": "この件について議論する余地がある。",
+    "sentence_furigana": "この件【けん】について議論【ぎろん】の余地【よち】がある。",
+    "meaning": "There is room for discussion on this matter."
+  },
+  {
+    "sentence": "議長は承認を求めた。",
+    "sentence_furigana": "議長【ぎちょう】は承認【しょうにん】を求【もと】めた。",
+    "meaning": "The chairman requested approval."
+  },
+  {
+    "sentence": "会議の議事録が完成した。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】が完成【かんせい】した。",
+    "meaning": "The minutes of the meeting have been completed."
+  },
+  {
+    "sentence": "議会で重要な議論が行われた。",
+    "sentence_furigana": "議会【ぎかい】で重要【じゅうよう】な議論【ぎろん】が行【おこな】われた。",
+    "meaning": "An important debate was held in the assembly."
+  },
+  {
+    "sentence": "議長は発言の機会を与えた。",
+    "sentence_furigana": "議長【ぎちょう】は発言【はつげん】の機会【きかい】を与【あた】えた。",
+    "meaning": "The chairman gave an opportunity to speak."
+  },
+  {
+    "sentence": "この議論は非常に有益だった。",
+    "sentence_furigana": "この議論【ぎろん】は非常【ひじょう】に有益【ゆうえき】だった。",
+    "meaning": "This discussion was very beneficial."
+  },
+  {
+    "sentence": "会議は予定より早く終わった。",
+    "sentence_furigana": "会議【かいぎ】は予定【よてい】より早【はや】く終【お】わった。",
+    "meaning": "The meeting ended earlier than scheduled."
+  },
+  {
+    "sentence": "議長は会議の進行を管理した。",
+    "sentence_furigana": "議長【ぎちょう】は会議【かいぎ】の進行【しんこう】を管理【かんり】した。",
+    "meaning": "The chairman managed the progress of the meeting."
+  },
+  {
+    "sentence": "この件について異議申し立てをする。",
+    "sentence_furigana": "この件【けん】について異議申【いぎもう】し立【た】てをする。",
+    "meaning": "I will file an objection regarding this matter."
+  },
+  {
+    "sentence": "会議の議案が提出された。",
+    "sentence_furigana": "会議【かいぎ】の議案【ぎあん】が提出【ていしゅつ】された。",
+    "meaning": "The agenda items for the meeting were submitted."
+  },
+  {
+    "sentence": "議長は出席者に感謝の意を表した。",
+    "sentence_furigana": "議長【ぎちょう】は出席者【しゅっせきしゃ】に感謝【かんしゃ】の意【い】を表【ひょう】した。",
+    "meaning": "The chairman expressed gratitude to the attendees."
+  },
+  {
+    "sentence": "この議案は慎重に審議する必要がある。",
+    "sentence_furigana": "この議案【ぎあん】は慎重【しんちょう】に審議【しんぎ】する必要【ひつよう】がある。",
+    "meaning": "This proposal needs to be carefully deliberated."
+  },
+  {
+    "sentence": "議論が白熱し、意見が対立した。",
+    "sentence_furigana": "議論【ぎろん】が白熱【はくねつ】し、意見【いけん】が対立【たいりつ】した。",
+    "meaning": "The discussion became heated, and opinions clashed."
+  },
+  {
+    "sentence": "議長は次の議案に移ることを提案した。",
+    "sentence_furigana": "議長【ぎちょう】は次【つぎ】の議案【ぎあん】に移【うつ】ることを提案【ていあん】した。",
+    "meaning": "The chairman proposed moving to the next agenda item."
+  },
+  {
+    "sentence": "会議の議事はすべて記録された。",
+    "sentence_furigana": "会議【かいぎ】の議事【ぎじ】はすべて記録【きろく】された。",
+    "meaning": "All the proceedings of the meeting were recorded."
+  },
+  {
+    "sentence": "この議席は変更できません。",
+    "sentence_furigana": "この議席【ぎせき】は変更【へんこう】できません。",
+    "meaning": "This seat cannot be changed."
+  },
+  {
+    "sentence": "議長は会議のまとめを行った。",
+    "sentence_furigana": "議長【ぎちょう】は会議【かいぎ】のまとめを行【おこな】った。",
+    "meaning": "The chairman summarized the meeting."
+  },
+  {
+    "sentence": "この問題について議論を続ける。",
+    "sentence_furigana": "この問題【もんだい】について議論【ぎろん】を続【つづ】ける。",
+    "meaning": "We will continue to discuss this problem."
+  }
+]

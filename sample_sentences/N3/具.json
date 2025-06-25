@@ -1,0 +1,637 @@
+[
+  {
+    "sentence": "この道具は非常に便利だ。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に便利【べんり】だ。",
+    "meaning": "This tool is very convenient."
+  },
+  {
+    "sentence": "彼は優れた才能を持っている。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた才能【さいのう】を持【も】っている。",
+    "meaning": "He possesses excellent talent."
+  },
+  {
+    "sentence": "会議の準備が整った。",
+    "sentence_furigana": "会議【かいぎ】の準備【じゅんび】が整【ととの】った。",
+    "meaning": "The preparations for the meeting are complete."
+  },
+  {
+    "sentence": "夕食の材料を買いに行った。",
+    "sentence_furigana": "夕食【ゆうしょく】の材料【ざいりょう】を買【か】いに行【い】った。",
+    "meaning": "I went to buy ingredients for dinner."
+  },
+  {
+    "sentence": "新しい家具一式を購入した。",
+    "sentence_furigana": "新【あらた】しい家具【かぐ】一式【いっしき】を購入【こうにゅう】した。",
+    "meaning": "I purchased a complete set of new furniture."
+  },
+  {
+    "sentence": "彼はあらゆる手段を尽くした。",
+    "sentence_furigana": "彼【かれ】はあらゆる手段【しゅだん】を尽【つ】くした。",
+    "meaning": "He exhausted all means."
+  },
+  {
+    "sentence": "この料理には特別な具材が必要だ。",
+    "sentence_furigana": "この料理【りょうり】には特別【とくべつ】な具材【ぐざい】が必要【ひつよう】だ。",
+    "meaning": "This dish requires special ingredients."
+  },
+  {
+    "sentence": "彼女は十分な知識を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は十分【じゅうぶん】な知識【ちしき】を持【も】っている。",
+    "meaning": "She possesses sufficient knowledge."
+  },
+  {
+    "sentence": "彼はいつも具現化するのが得意だ。",
+    "sentence_furigana": "彼【かれ】はいつも具現化【ぐげんか】するのが得意【とくい】だ。",
+    "meaning": "He is always good at embodying things."
+  },
+  {
+    "sentence": "新しい事務道具を揃えた。",
+    "sentence_furigana": "新【あらた】しい事務道具【じむどうぐ】を揃【そろ】えた。",
+    "meaning": "I gathered new office tools."
+  },
+  {
+    "sentence": "このセットには食器が含まれています。",
+    "sentence_furigana": "このセットには食器【しょっき】が含ま【ふくま】れています。",
+    "meaning": "This set includes tableware."
+  },
+  {
+    "sentence": "彼は人生の目的を具現化しようとしている。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の目的【もくてき】を具現化【ぐげんか】しようとしている。",
+    "meaning": "He is trying to embody his life's purpose."
+  },
+  {
+    "sentence": "会議では詳細な資料を配布した。",
+    "sentence_furigana": "会議【かいぎ】では詳細【しょうさい】な資料【しりょう】を配布【はいふ】した。",
+    "meaning": "Detailed documents were distributed at the meeting."
+  },
+  {
+    "sentence": "彼女は料理の腕前を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の腕前【うでまえ】を持【も】っている。",
+    "meaning": "She possesses cooking skills."
+  },
+  {
+    "sentence": "このスーツケースは非常に頑丈だ。",
+    "sentence_furigana": "このスーツケースは非常【ひじょう】に頑丈【がんじょう】だ。",
+    "meaning": "This suitcase is very durable."
+  },
+  {
+    "sentence": "彼は成功するためのあらゆる手段を講じた。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】するためのあらゆる手段【しゅだん】を講【こう】じた。",
+    "meaning": "He took all possible measures to succeed."
+  },
+  {
+    "sentence": "この鍋は調理道具として優れている。",
+    "sentence_furigana": "この鍋【なべ】は調理道具【ちょうりどうぐ】として優【すぐ】れている。",
+    "meaning": "This pot is excellent as a cooking utensil."
+  },
+  {
+    "sentence": "彼は常に自己改善の手段を求めている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己改善【じこかいぜん】の手段【しゅだん】を求【もと】めている。",
+    "meaning": "He is always seeking means for self-improvement."
+  },
+  {
+    "sentence": "このセットには必要な道具が全て含まれています。",
+    "sentence_furigana": "このセットには必要【ひつよう】な道具【どうぐ】が全部【ぜんぶ】含ま【ふくま】れています。",
+    "meaning": "This set includes all necessary tools."
+  },
+  {
+    "sentence": "彼女は常に冷静な態度を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に冷静【れいせい】な態度【たいど】を持【も】っている。",
+    "meaning": "She always possesses a calm demeanor."
+  },
+  {
+    "sentence": "新しい自転車の付属品を揃えた。",
+    "sentence_furigana": "新【あらた】しい自転車【じてんしゃ】の付属品【ふぞくひん】を揃【そろ】えた。",
+    "meaning": "I gathered the accessories for the new bicycle."
+  },
+  {
+    "sentence": "この計画は成功の具材を全て満たしている。",
+    "sentence_furigana": "この計画【けいかく】は成功【せいこう】の具材【ぐざい】を全部【ぜんぶ】満【み】たしている。",
+    "meaning": "This plan fulfills all the ingredients for success."
+  },
+  {
+    "sentence": "彼は優れたリーダーシップを持っている。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れたリーダーシップを持【も】っている。",
+    "meaning": "He possesses excellent leadership."
+  },
+  {
+    "sentence": "会議の資料を詳しく調べた。",
+    "sentence_furigana": "会議【かいぎ】の資料【しりょう】を詳【くわ】しく調【しら】べた。",
+    "meaning": "I examined the meeting documents in detail."
+  },
+  {
+    "sentence": "この道具は使いやすい。",
+    "sentence_furigana": "この道具【どうぐ】は使【つか】いやすい。",
+    "meaning": "This tool is easy to use."
+  },
+  {
+    "sentence": "彼女は多くの経験を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの経験【けいけん】を持【も】っている。",
+    "meaning": "She possesses a lot of experience."
+  },
+  {
+    "sentence": "新しいカーテン一式を購入した。",
+    "sentence_furigana": "新【あらた】しいカーテン一式【いっしき】を購入【こうにゅう】した。",
+    "meaning": "I purchased a complete set of new curtains."
+  },
+  {
+    "sentence": "彼は常に周囲の状況を具に観察する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に周囲【しゅうい】の状況【じょうきょう】を具【つぶさ】に観察【かんさつ】する。",
+    "meaning": "He always observes the surrounding situation in detail."
+  },
+  {
+    "sentence": "このレシピには新鮮な具材が不可欠だ。",
+    "sentence_furigana": "このレシピには新鮮【しんせん】な具材【ぐざい】が不可欠【ふかけつ】だ。",
+    "meaning": "Fresh ingredients are essential for this recipe."
+  },
+  {
+    "sentence": "彼は目的達成の手段を持っている。",
+    "sentence_furigana": "彼【かれ】は目的達成【もくてきたっせい】の手段【しゅだん】を持【も】っている。",
+    "meaning": "He possesses the means to achieve his goal."
+  },
+  {
+    "sentence": "このセットには調理道具が含まれています。",
+    "sentence_furigana": "このセットには調理道具【ちょうりどうぐ】が含ま【ふくま】れています。",
+    "meaning": "This set includes cooking utensils."
+  },
+  {
+    "sentence": "彼女は物事を具に理解しようとする。",
+    "sentence_furigana": "彼女【かのじょ】は物事【ものごと】を具【つぶさ】に理解【りかい】しようとする。",
+    "meaning": "She tries to understand things in detail."
+  },
+  {
+    "sentence": "新しい家具の組み立て説明書を熟読した。",
+    "sentence_furigana": "新【あらた】しい家具【かぐ】の組立【くみた】て説明書【せつめいしょ】を熟読【じゅくどく】した。",
+    "meaning": "I read the assembly instructions for the new furniture thoroughly."
+  },
+  {
+    "sentence": "彼は常に相手の気持ちを汲み取ろうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に相手【あいて】の気持【きも】ちを汲【く】み取ろうとする。",
+    "meaning": "He always tries to understand the other person's feelings."
+  },
+  {
+    "sentence": "この道具は私の仕事を助けてくれる。",
+    "sentence_furigana": "この道具【どうぐ】は私【わたし】の仕事【しごと】を助【たす】けてくれる。",
+    "meaning": "This tool helps my work."
+  },
+  {
+    "sentence": "彼女は必要な情報を全て揃えた。",
+    "sentence_furigana": "彼女【かのじょ】は必要【ひつよう】な情報【じょうほう】を全部【ぜんぶ】揃【そろ】えた。",
+    "meaning": "She gathered all the necessary information."
+  },
+  {
+    "sentence": "このセットは高品質な道具で構成されている。",
+    "sentence_furigana": "このセットは高品質【こうひんしつ】な道具【どうぐ】で構成【こうせい】されている。",
+    "meaning": "This set is composed of high-quality tools."
+  },
+  {
+    "sentence": "彼は未来を具現化するために努力している。",
+    "sentence_furigana": "彼【かれ】は未来【みらい】を具現化【ぐげんか】するために努力【どりょく】している。",
+    "meaning": "He is working to embody the future."
+  },
+  {
+    "sentence": "この料理の具材は非常に豊富だ。",
+    "sentence_furigana": "この料理【りょうり】の具材【ぐざい】は非常【ひじょう】に豊富【ほうふ】だ。",
+    "meaning": "The ingredients for this dish are very abundant."
+  },
+  {
+    "sentence": "彼女は物事を詳細に説明した。",
+    "sentence_furigana": "彼女【かのじょ】は物事【ものごと】を詳細【しょうさい】に説明【せつめい】した。",
+    "meaning": "She explained the matters in detail."
+  },
+  {
+    "sentence": "彼は常に最善の手段を選ぶ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の手段【しゅだん】を選【えら】ぶ。",
+    "meaning": "He always chooses the best means."
+  },
+  {
+    "sentence": "この道具は私のコレクションの一部だ。",
+    "sentence_furigana": "この道具【どうぐ】は私【わたし】のコレクションの一部【いちぶ】だ。",
+    "meaning": "This tool is part of my collection."
+  },
+  {
+    "sentence": "彼女は新しいスーツを注文した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あらた】しいスーツを注文【ちゅうもん】した。",
+    "meaning": "She ordered a new suit."
+  },
+  {
+    "sentence": "彼は常に相手の立場を理解しようとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に相手【あいて】の立場【たちば】を理解【りかい】しようとする。",
+    "meaning": "He always tries to understand the other person's position."
+  },
+  {
+    "sentence": "この調理器具セットは非常に使いやすい。",
+    "sentence_furigana": "この調理器具【ちょうりきぐ】セットは非常【ひじょう】に使いやすい。",
+    "meaning": "This set of cooking utensils is very easy to use."
+  },
+  {
+    "sentence": "彼は計画を具体的に示すために図を作成した。",
+    "sentence_furigana": "彼【かれ】は計画【けいかく】を具体的【ぐたいてき】に示す【しめ】すために図【ず】を作成【さくせい】した。",
+    "meaning": "He created a diagram to illustrate the plan concretely."
+  },
+  {
+    "sentence": "彼女は必要な部品を全て揃えた。",
+    "sentence_furigana": "彼女【かのじょ】は必要【ひつよう】な部品【ぶひん】を全部【ぜんぶ】揃【そろ】えた。",
+    "meaning": "She gathered all the necessary parts."
+  },
+  {
+    "sentence": "このスープには多くの具材が入っている。",
+    "sentence_furigana": "このスープには多【おお】くの具材【ぐざい】が入【はい】っている。",
+    "meaning": "This soup contains many ingredients."
+  },
+  {
+    "sentence": "彼は常に新しい知識を吸収しようとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あらた】しい知識【ちしき】を吸収【きゅうしゅう】しようとする。",
+    "meaning": "He always tries to absorb new knowledge."
+  },
+  {
+    "sentence": "この道具は改良の余地がある。",
+    "sentence_furigana": "この道具【どうぐ】は改良【かいりょう】の余地【よち】がある。",
+    "meaning": "There is room for improvement in this tool."
+  },
+  {
+    "sentence": "彼女は素晴らしい家庭を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい家庭【かてい】を持【も】っている。",
+    "meaning": "She has a wonderful family."
+  },
+  {
+    "sentence": "この家具セットは非常に豪華だ。",
+    "sentence_furigana": "この家具【かぐ】セットは非常【ひじょう】に豪華【ごうか】だ。",
+    "meaning": "This furniture set is very luxurious."
+  },
+  {
+    "sentence": "彼は成功への手段を全て駆使した。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への手段【しゅだん】を全部【ぜんぶ】駆使【くし】した。",
+    "meaning": "He utilized all means for success."
+  },
+  {
+    "sentence": "彼女は会議の要点を詳しく説明した。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の要点【ようてん】を詳【くわ】しく説明【せつめい】した。",
+    "meaning": "She explained the key points of the meeting in detail."
+  },
+  {
+    "sentence": "この道具は専門的な用途に最適だ。",
+    "sentence_furigana": "この道具【どうぐ】は専門的【せんもんてき】な用途【ようと】に最適【さいてき】だ。",
+    "meaning": "This tool is ideal for specialized purposes."
+  },
+  {
+    "sentence": "彼は常に状況を正確に把握している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に状況【じょうきょう】を正確【せいかく】に把握【はあく】している。",
+    "meaning": "He always accurately grasps the situation."
+  },
+  {
+    "sentence": "このセットには必要な工具が含まれています。",
+    "sentence_furigana": "このセットには必要【ひつよう】な工具【こうぐ】が含ま【ふくま】れています。",
+    "meaning": "This set includes necessary tools."
+  },
+  {
+    "sentence": "彼女は素晴らしい計画を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい計画【けいかく】を持【も】っている。",
+    "meaning": "She has a wonderful plan."
+  },
+  {
+    "sentence": "彼は常に相手の意見を尊重する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に相手【あいて】の意見【いけん】を尊重【そんちょう】する。",
+    "meaning": "He always respects the other person's opinion."
+  },
+  {
+    "sentence": "このスーツは非常に似合っている。",
+    "sentence_furigana": "このスーツは非常【ひじょう】に似合【にあ】っている。",
+    "meaning": "This suit suits him very well."
+  },
+  {
+    "sentence": "彼は常に物事を具に分析する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】を具【つぶさ】に分析【ぶんせき】する。",
+    "meaning": "He always analyzes things in detail."
+  },
+  {
+    "sentence": "彼女は料理の材料を厳選した。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の材料【ざいりょう】を厳選【げんせん】した。",
+    "meaning": "She carefully selected the ingredients for the dish."
+  },
+  {
+    "sentence": "この道具は耐久性が高い。",
+    "sentence_furigana": "この道具【どうぐ】は耐久性【たいきゅうせい】が高い。",
+    "meaning": "This tool has high durability."
+  },
+  {
+    "sentence": "彼は常に最善を尽くそうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くそうとする。",
+    "meaning": "He always tries to do his best."
+  },
+  {
+    "sentence": "このセットには高品質な家具が含まれている。",
+    "sentence_furigana": "このセットには高品質【こうひんしつ】な家具【かぐ】が含ま【ふくま】れている。",
+    "meaning": "This set includes high-quality furniture."
+  },
+  {
+    "sentence": "彼女は新しい楽器を所有している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あらた】しい楽器【がっき】を所有【しょゆう】している。",
+    "meaning": "She owns a new musical instrument."
+  },
+  {
+    "sentence": "彼は常に成功の具体的な手段を考えている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に成功【せいこう】の具体的【ぐたいてき】な手段【しゅだん】を考【かんが】えている。",
+    "meaning": "He is always thinking of concrete means to succeed."
+  },
+  {
+    "sentence": "この具材は非常に新鮮だ。",
+    "sentence_furigana": "この具材【ぐざい】は非常【ひじょう】に新鮮【しんせん】だ。",
+    "meaning": "These ingredients are very fresh."
+  },
+  {
+    "sentence": "彼女は詳細な計画を提示した。",
+    "sentence_furigana": "彼女【かのじょ】は詳細【しょうさい】な計画【けいかく】を提示【ていじ】した。",
+    "meaning": "She presented a detailed plan."
+  },
+  {
+    "sentence": "彼は常に最善の方法を見つけ出す。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の方法【ほうほう】を見【み】つけ出【だ】す。",
+    "meaning": "He always finds the best method."
+  },
+  {
+    "sentence": "この道具は非常に重宝している。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に重宝【じゅうほう】している。",
+    "meaning": "I find this tool very useful."
+  },
+  {
+    "sentence": "彼女は多くの才能を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの才能【さいのう】を持【も】っている。",
+    "meaning": "She possesses many talents."
+  },
+  {
+    "sentence": "このセットは非常に効果的だ。",
+    "sentence_furigana": "このセットは非常【ひじょう】に効果的【こうかてき】だ。",
+    "meaning": "This set is very effective."
+  },
+  {
+    "sentence": "彼は常に細部まで注意を払う。",
+    "sentence_furigana": "彼【かれ】は常【つね】に細部【さいぶ】まで注意【ちゅうい】を払【はら】う。",
+    "meaning": "He always pays attention to detail."
+  },
+  {
+    "sentence": "このスーツケースには多くの収納スペースがある。",
+    "sentence_furigana": "このスーツケースには多【おお】くの収納【しゅうのう】スペースがある。",
+    "meaning": "This suitcase has a lot of storage space."
+  },
+  {
+    "sentence": "彼女は必要な道具を全て準備した。",
+    "sentence_furigana": "彼女【かのじょ】は必要【ひつよう】な道具【どうぐ】を全部【ぜんぶ】準備【じゅんび】した。",
+    "meaning": "She prepared all the necessary tools."
+  },
+  {
+    "sentence": "彼は常に物事を具に検討する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】を具【つぶさ】に検討【けんとう】する。",
+    "meaning": "He always considers things in detail."
+  },
+  {
+    "sentence": "この料理は新鮮な具材で作られている。",
+    "sentence_furigana": "この料理【りょうり】は新鮮【しんせん】な具材【ぐざい】で作【つく】られている。",
+    "meaning": "This dish is made with fresh ingredients."
+  },
+  {
+    "sentence": "彼女は素晴らしいチームを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしいチームを持【も】っている。",
+    "meaning": "She has a great team."
+  },
+  {
+    "sentence": "彼は常に相手の気持ちを察しようとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に相手【あいて】の気持【きも】ちを察【さっ】しようとする。",
+    "meaning": "He always tries to gauge the other person's feelings."
+  },
+  {
+    "sentence": "この家具は部屋にぴったりだ。",
+    "sentence_furigana": "この家具【かぐ】は部屋【へや】にぴったりだ。",
+    "meaning": "This furniture is perfect for the room."
+  },
+  {
+    "sentence": "彼は常に問題を解決する手段を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に問題【もんだい】を解決【かいけつ】する手段【しゅだん】を持【も】っている。",
+    "meaning": "He always possesses the means to solve problems."
+  },
+  {
+    "sentence": "彼女は会議の資料を詳細に準備した。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の資料【しりょう】を詳細【しょうさい】に準備【じゅんび】した。",
+    "meaning": "She prepared the meeting documents in detail."
+  },
+  {
+    "sentence": "この道具は非常に用途が広い。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に用途【ようと】が広【ひろ】い。",
+    "meaning": "This tool has a very wide range of uses."
+  },
+  {
+    "sentence": "彼は常に最高のパフォーマンスを発揮する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最高【さいこう】のパフォーマンスを発揮【はっき】する。",
+    "meaning": "He always exhibits the best performance."
+  },
+  {
+    "sentence": "このセットは非常に便利で使いやすい。",
+    "sentence_furigana": "このセットは非常【ひじょう】に便利【べんり】で使【つか】いやすい。",
+    "meaning": "This set is very convenient and easy to use."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトの具材を検討している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あらた】しいプロジェクトの具材【ぐざい】を検討【けんとう】している。",
+    "meaning": "She is considering the ingredients for the new project."
+  },
+  {
+    "sentence": "彼は常に最善を尽くすことで知られている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くすことで知【し】られている。",
+    "meaning": "He is known for always doing his best."
+  },
+  {
+    "sentence": "このスーツは彼の体格にぴったりだ。",
+    "sentence_furigana": "このスーツは彼【かれ】の体格【たいかく】にぴったりだ。",
+    "meaning": "This suit fits his physique perfectly."
+  },
+  {
+    "sentence": "彼女は詳細な報告書を作成した。",
+    "sentence_furigana": "彼女【かのじょ】は詳細【しょうさい】な報告書【ほうこくしょ】を作成【さくせい】した。",
+    "meaning": "She created a detailed report."
+  },
+  {
+    "sentence": "この調理器具は料理の質を高める。",
+    "sentence_furigana": "この調理器具【ちょうりきぐ】は料理【りょうり】の質【しつ】を高【たか】める。",
+    "meaning": "This cooking utensil improves the quality of the food."
+  },
+  {
+    "sentence": "彼は常に最善の手段を講じている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の手段【しゅだん】を講【こう】じている。",
+    "meaning": "He is always taking the best measures."
+  },
+  {
+    "sentence": "彼女は新しい車を所有している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あらた】しい車【くるま】を所有【しょゆう】している。",
+    "meaning": "She owns a new car."
+  },
+  {
+    "sentence": "この家具は非常に快適だ。",
+    "sentence_furigana": "この家具【かぐ】は非常【ひじょう】に快適【かいてき】だ。",
+    "meaning": "This furniture is very comfortable."
+  },
+  {
+    "sentence": "彼は常に物事を具に調べている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】を具【つぶさ】に調【しら】べている。",
+    "meaning": "He is always investigating things in detail."
+  },
+  {
+    "sentence": "この道具は様々な用途に使える。",
+    "sentence_furigana": "この道具【どうぐ】は様々【さまざま】な用途【ようと】にを使【つか】える。",
+    "meaning": "This tool can be used for various purposes."
+  },
+  {
+    "sentence": "彼女は非常に忍耐強い。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に忍耐強【にんたいづよ】い。",
+    "meaning": "She is very patient."
+  },
+  {
+    "sentence": "彼は常に最善の努力をしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の努力【どりょく】をしている。",
+    "meaning": "He is always making his best effort."
+  },
+  {
+    "sentence": "このセットには優れた機能が備わっている。",
+    "sentence_furigana": "このセットには優【すぐ】れた機能【きのう】が備【そな】わっている。",
+    "meaning": "This set is equipped with excellent features."
+  },
+  {
+    "sentence": "彼は常に物事の核心を掴もうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】の核心【かくしん】を掴【つか】もうとする。",
+    "meaning": "He always tries to grasp the core of things."
+  },
+  {
+    "sentence": "彼女は必要な情報を全て詳細にまとめた。",
+    "sentence_furigana": "彼女【かのじょ】は必要【ひつよう】な情報【じょうほう】を全部【ぜんぶ】詳細【しょうさい】にまとめた。",
+    "meaning": "She summarized all the necessary information in detail."
+  },
+  {
+    "sentence": "この道具は非常に強力だ。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に強力【きょうりょく】だ。",
+    "meaning": "This tool is very powerful."
+  },
+  {
+    "sentence": "彼は常に最善を尽くすことを約束した。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くすことを約束【やくそく】した。",
+    "meaning": "He promised to do his best."
+  },
+  {
+    "sentence": "この家具セットは非常に機能的だ。",
+    "sentence_furigana": "この家具【かぐ】セットは非常【ひじょう】に機能的【きのうてき】だ。",
+    "meaning": "This furniture set is very functional."
+  },
+  {
+    "sentence": "彼は常に状況の全体像を把握している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に状況【じょうきょう】の全体像【ぜんたいぞう】を把握【はあく】している。",
+    "meaning": "He always grasps the overall picture of the situation."
+  },
+  {
+    "sentence": "彼女は新しい機器の付属品を全て揃えた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あらた】しい機器【きき】の付属品【ふぞくひん】を全部【ぜんぶ】揃【そろ】えた。",
+    "meaning": "She gathered all the accessories for the new equipment."
+  },
+  {
+    "sentence": "この具材は非常にユニークだ。",
+    "sentence_furigana": "この具材【ぐざい】は非常【ひじょう】にユニークだ。",
+    "meaning": "These ingredients are very unique."
+  },
+  {
+    "sentence": "彼は常に最善の決断を下す。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の決断【けつだん】を下【くだ】す。",
+    "meaning": "He always makes the best decisions."
+  },
+  {
+    "sentence": "彼女は詳細なデータを収集した。",
+    "sentence_furigana": "彼女【かのじょ】は詳細【しょうさい】なデータ【データ】を収集【しゅうしゅう】した。",
+    "meaning": "She collected detailed data."
+  },
+  {
+    "sentence": "この道具は私たちのプロジェクトを具現化するのに役立つ。",
+    "sentence_furigana": "この道具【どうぐ】は私達【わたしたち】のプロジェクトを具現化【ぐげんか】するのに役立【やくだ】つ。",
+    "meaning": "This tool will help embody our project."
+  },
+  {
+    "sentence": "彼は常に最善を尽くすことを信条としている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くすことを信条【しんじょう】としている。",
+    "meaning": "He makes it his creed to always do his best."
+  },
+  {
+    "sentence": "彼女は多くの知識を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの知識【ちしき】を持【も】っている。",
+    "meaning": "She possesses a lot of knowledge."
+  },
+  {
+    "sentence": "この家具一式は非常にモダンだ。",
+    "sentence_furigana": "この家具【かぐ】一式【いっしき】は非常【ひじょう】にモダンだ。",
+    "meaning": "This entire set of furniture is very modern."
+  },
+  {
+    "sentence": "彼は常に最善の選択肢を検討している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の選択肢【せんたくし】を検討【けんとう】している。",
+    "meaning": "He is always considering the best options."
+  },
+  {
+    "sentence": "この道具は私たちの生活を豊かにしてくれる。",
+    "sentence_furigana": "この道具【どうぐ】は私達【わたしたち】の生活【せいかつ】を豊【ゆた】かにしてくれる。",
+    "meaning": "This tool enriches our lives."
+  },
+  {
+    "sentence": "彼は常に物事の裏側まで見抜こうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】の裏側【うらがわ】まで見抜【みぬ】こうとする。",
+    "meaning": "He always tries to see through to the other side of things."
+  },
+  {
+    "sentence": "彼女は常に相手の立場に立って考える。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に相手【あいて】の立場【たちば】に立【た】って考【かんが】える。",
+    "meaning": "She always thinks from the other person's perspective."
+  },
+  {
+    "sentence": "このスーツケースには全ての機能を備えている。",
+    "sentence_furigana": "このスーツケースには全部【ぜんぶ】の機能【きのう】を備【そな】えている。",
+    "meaning": "This suitcase is equipped with all functions."
+  },
+  {
+    "sentence": "彼は常に最善の貢献をしようと努める。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の貢献【こうけん】をしようと努【つと】める。",
+    "meaning": "He always strives to make the best contribution."
+  },
+  {
+    "sentence": "彼女は物事を正確に把握している。",
+    "sentence_furigana": "彼女【かのじょ】は物事【ものごと】を正確【せいかく】に把握【はあく】している。",
+    "meaning": "She accurately grasps things."
+  },
+  {
+    "sentence": "この道具は非常に多機能だ。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に多機能【たきのう】だ。",
+    "meaning": "This tool is very multifunctional."
+  },
+  {
+    "sentence": "彼は常に最善の指導者であろうとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の指導者【しどうしゃ】であろうとする。",
+    "meaning": "He always tries to be the best leader."
+  },
+  {
+    "sentence": "彼女は詳細な分析結果を提出した。",
+    "sentence_furigana": "彼女【かのじょ】は詳細【しょうさい】な分析結果【ぶんせきけっか】を提出【ていしゅつ】した。",
+    "meaning": "She submitted detailed analysis results."
+  },
+  {
+    "sentence": "この家具は非常に実用的だ。",
+    "sentence_furigana": "この家具【かぐ】は非常【ひじょう】に実用的【じつようてき】だ。",
+    "meaning": "This furniture is very practical."
+  },
+  {
+    "sentence": "彼は常に最善の道を探求する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の道【みち】を探求【たんきゅう】する。",
+    "meaning": "He always explores the best path."
+  },
+  {
+    "sentence": "このスーツは非常にフォーマルだ。",
+    "sentence_furigana": "このスーツは非常【ひじょう】にフォーマルだ。",
+    "meaning": "This suit is very formal."
+  },
+  {
+    "sentence": "彼女は必要な道具を全て揃えてくれた。",
+    "sentence_furigana": "彼女【かのじょ】は必要【ひつよう】な道具【どうぐ】を全部【ぜんぶ】揃【そろ】えてくれた。",
+    "meaning": "She gathered all the necessary tools for me."
+  }
+]

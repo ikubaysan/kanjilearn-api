@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "彼は英語が堪能です。",
+    "sentence_furigana": "彼【かれ】は英語【えいご】が堪能【たんのう】です。",
+    "meaning": "He is fluent in English."
+  },
+  {
+    "sentence": "イギリスはロンドンの首都です。",
+    "sentence_furigana": "イギリスはロンドン【ろんどん】の首都【しゅと】です。",
+    "meaning": "England's capital is London."
+  },
+  {
+    "sentence": "彼女は優れた才能を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は優【すぐ】れた才能【さいのう】を持【も】っています。",
+    "meaning": "She has outstanding talent."
+  },
+  {
+    "sentence": "その英雄は国を救いました。",
+    "sentence_furigana": "その英雄【えいゆう】は国【くに】を救【すく】いました。",
+    "meaning": "The hero saved the country."
+  },
+  {
+    "sentence": "花英は美しく咲きました。",
+    "sentence_furigana": "花英【はなぶさ】は美【うつく】しく咲【さ】きました。",
+    "meaning": "The calyx bloomed beautifully."
+  },
+  {
+    "sentence": "英語の辞書はどこですか？",
+    "sentence_furigana": "英語【えいご】の辞書【じしょ】はどこですか？",
+    "meaning": "Where is the English dictionary?"
+  },
+  {
+    "sentence": "彼は英語を一生懸命勉強しています。",
+    "sentence_furigana": "彼【かれ】は英語【えいご】を一生懸命【いっしょうけんめい】勉強【べんきょう】しています。",
+    "meaning": "He is studying English very hard."
+  },
+  {
+    "sentence": "イングランドの歴史は長いです。",
+    "sentence_furigana": "イングランド【いんぐらんど】の歴史【れきし】は長【なが】いです。",
+    "meaning": "The history of England is long."
+  },
+  {
+    "sentence": "その小説の主人公は勇敢な英雄です。",
+    "sentence_furigana": "その小説【しょうせつ】の主人公【しゅじんこう】は勇敢【ゆうかん】な英雄【えいゆう】です。",
+    "meaning": "The protagonist of the novel is a brave hero."
+  },
+  {
+    "sentence": "彼女の容姿は際立っています。",
+    "sentence_furigana": "彼女【かのじょ】の容姿【ようし】は際立【きわだ】っています。",
+    "meaning": "Her appearance is outstanding."
+  },
+  {
+    "sentence": "花の英は露に濡れています。",
+    "sentence_furigana": "花【はな】の英【はなぶさ】は露【つゆ】に濡【ぬ】れています。",
+    "meaning": "The calyx is wet with dew."
+  },
+  {
+    "sentence": "英語での会話は難しいです。",
+    "sentence_furigana": "英語【えいご】での会話【かいわ】は難【むずか】しいです。",
+    "meaning": "Conversation in English is difficult."
+  },
+  {
+    "sentence": "イギリスの文化に興味があります。",
+    "sentence_furigana": "イギリス【いぎりす】の文化【ぶんか】に興味【きょうみ】があります。",
+    "meaning": "I am interested in English culture."
+  },
+  {
+    "sentence": "彼は勇敢な兵士として知られています。",
+    "sentence_furigana": "彼【かれ】は勇敢【ゆうかん】な兵士【へいし】として知【し】られています。",
+    "meaning": "He is known as a brave soldier."
+  },
+  {
+    "sentence": "その出来事は英雄的な行為でした。",
+    "sentence_furigana": "その出来事【できごと】は英雄的【えいゆうてき】な行為【こうい】でした。",
+    "meaning": "That event was a heroic act."
+  },
+  {
+    "sentence": "彼女は非常に優秀な学生です。",
+    "sentence_furigana": "彼女【かのじょ】は非常【ひじょう】に優秀【ゆうしゅう】な学生【がくせい】です。",
+    "meaning": "She is a very outstanding student."
+  },
+  {
+    "sentence": "この花は美しい英を持っています。",
+    "sentence_furigana": "この花【はな】は美【うつく】しい英【はなぶさ】を持【も】っています。",
+    "meaning": "This flower has a beautiful calyx."
+  },
+  {
+    "sentence": "英語の学習は楽しいです。",
+    "sentence_furigana": "英語【えいご】の学習【がくしゅう】は楽【たの】しいです。",
+    "meaning": "Learning English is fun."
+  },
+  {
+    "sentence": "イギリス人の友人がいます。",
+    "sentence_furigana": "イギリス人【いぎりすじん】の友人【ゆうじん】がいます。",
+    "meaning": "I have a friend from England."
+  },
+  {
+    "sentence": "彼はこの分野の英雄です。",
+    "sentence_furigana": "彼【かれ】はこの分野【ぶんや】の英雄【えいゆう】です。",
+    "meaning": "He is a hero in this field."
+  },
+  {
+    "sentence": "その花瓶の絵は精巧です。",
+    "sentence_furigana": "その花瓶【かびん】の絵【え】は精巧【せいこう】です。",
+    "meaning": "The painting on the vase is exquisite."
+  },
+  {
+    "sentence": "彼女の英語の発音は完璧です。",
+    "sentence_furigana": "彼女【かのじょ】の英語【えいご】の発音【はつおん】は完璧【かんぺき】です。",
+    "meaning": "Her English pronunciation is perfect."
+  },
+  {
+    "sentence": "イギリスの食文化は多様です。",
+    "sentence_furigana": "イギリス【いぎりす】の食文化【しょくぶんか】は多様【たよう】です。",
+    "meaning": "English food culture is diverse."
+  },
+  {
+    "sentence": "彼は英雄的な行動で称賛されました。",
+    "sentence_furigana": "彼【かれ】は英雄的【えいゆうてき】な行動【こうどう】で称賛【しょうさん】されました。",
+    "meaning": "He was praised for his heroic actions."
+  },
+  {
+    "sentence": "その競技会では優れた選手が集まりました。",
+    "sentence_furigana": "その競技会【きょうぎかい】では優【すぐ】れた選手【せんしゅ】が集【あつ】まりました。",
+    "meaning": "Outstanding athletes gathered at the competition."
+  },
+  {
+    "sentence": "この木には美しい英がつきました。",
+    "sentence_furigana": "この木【き】には美【うつく】しい英【はなぶさ】がつきました。",
+    "meaning": "This tree has beautiful calyces."
+  },
+  {
+    "sentence": "英語の詩を読みました。",
+    "sentence_furigana": "英語【えいご】の詩【し】を読【よ】みました。",
+    "meaning": "I read an English poem."
+  },
+  {
+    "sentence": "ロンドンはイギリスの首都です。",
+    "sentence_furigana": "ロンドン【ろんどん】はイギリス【いぎりす】の首都【しゅと】です。",
+    "meaning": "London is the capital of England."
+  },
+  {
+    "sentence": "彼は国のために英雄的な死を遂げました。",
+    "sentence_furigana": "彼【かれ】は国【くに】のために英雄的【えいゆうてき】な死【し】を遂【と】げました。",
+    "meaning": "He died a heroic death for his country."
+  },
+  {
+    "sentence": "その音楽は素晴らしい出来栄えです。",
+    "sentence_furigana": "その音楽【おんがく】は素晴【すば】らしい出来栄【できば】えです。",
+    "meaning": "The music is an outstanding achievement."
+  },
+  {
+    "sentence": "彼女は英語の先生です。",
+    "sentence_furigana": "彼女【かのじょ】は英語【えいご】の先生【せんせい】です。",
+    "meaning": "She is an English teacher."
+  },
+  {
+    "sentence": "イングランドは多くの歴史的建造物があります。",
+    "sentence_furigana": "イングランド【いんぐらんど】は多【おお】くの歴史的建造物【れきしてきけんぞうぶつ】があります。",
+    "meaning": "England has many historical buildings."
+  },
+  {
+    "sentence": "彼は多くの人々を救った英雄です。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】を救【すく】った英雄【えいゆう】です。",
+    "meaning": "He is a hero who saved many people."
+  },
+  {
+    "sentence": "そのバラの花弁は精巧です。",
+    "sentence_furigana": "そのバラの花弁【かべん】は精巧【せいこう】です。",
+    "meaning": "The petals of that rose are exquisite."
+  },
+  {
+    "sentence": "英語のクラスに参加しました。",
+    "sentence_furigana": "英語【えいご】のクラス【くら·す】に参加【さんか】しました。",
+    "meaning": "I participated in an English class."
+  },
+  {
+    "sentence": "イギリスの湖水地方は美しい。",
+    "sentence_furigana": "イギリス【いぎりす】の湖水地方【こすいちほう】は美【うつく】しい。",
+    "meaning": "The Lake District in England is beautiful."
+  },
+  {
+    "sentence": "その冒険家は英雄として称えられた。",
+    "sentence_furigana": "その冒険家【ぼうけんか】は英雄【えいゆう】として称【たた】えられた。",
+    "meaning": "The adventurer was honored as a hero."
+  },
+  {
+    "sentence": "彼女の業績は非常に優れています。",
+    "sentence_furigana": "彼女【かのじょ】の業績【ぎょうせき】は非常【ひじょう】に優【すぐ】れています。",
+    "meaning": "Her achievements are outstanding."
+  },
+  {
+    "sentence": "この果物の英は食べられますか？",
+    "sentence_furigana": "この果物【くだもの】の英【はなぶさ】は食【た】べられますか？",
+    "meaning": "Can the calyx of this fruit be eaten?"
+  },
+  {
+    "sentence": "英語を話すことができますか？",
+    "sentence_furigana": "英語【えいご】を話【はな】すことができますか？",
+    "meaning": "Can you speak English?"
+  },
+  {
+    "sentence": "イギリスの田園風景は魅力的です。",
+    "sentence_furigana": "イギリス【いぎりす】の田園風景【でんえんふうけい】は魅力的【みりょくてき】です。",
+    "meaning": "The rural scenery of England is charming."
+  },
+  {
+    "sentence": "その指揮者は英語で指示を出した。",
+    "sentence_furigana": "その指揮者【しきしゃ】は英語【えいご】で指示【しじ】を出【だ】した。",
+    "meaning": "The conductor gave instructions in English."
+  },
+  {
+    "sentence": "彼は不屈の英雄として記憶されている。",
+    "sentence_furigana": "彼【かれ】は不屈【ふくつ】の英雄【えいゆう】として記憶【きおく】されている。",
+    "meaning": "He is remembered as an indomitable hero."
+  },
+  {
+    "sentence": "このデザインはとても優美です。",
+    "sentence_furigana": "このデザイン【でざい·ん】はとても優美【ゆうび】です。",
+    "meaning": "This design is very elegant."
+  },
+  {
+    "sentence": "彼女の芸術作品は精巧を極めている。",
+    "sentence_furigana": "彼女【かのじょ】の芸術作品【げいじゅつさくひん】は精巧【せいこう】を極【きわ】めている。",
+    "meaning": "Her artworks are extremely elaborate."
+  },
+  {
+    "sentence": "私は英語の小説をよく読みます。",
+    "sentence_furigana": "私【わたし】は英語【えいご】の小説【しょうせつ】をよく読【よ】みます。",
+    "meaning": "I often read English novels."
+  },
+  {
+    "sentence": "イギリスのお祭りは楽しい。",
+    "sentence_furigana": "イギリス【いぎりす】のお祭【まつ】りは楽【たの】しい。",
+    "meaning": "English festivals are fun."
+  },
+  {
+    "sentence": "英雄の物語は感動的です。",
+    "sentence_furigana": "英雄【えいゆう】の物語【ものがたり】は感動的【かんどうてき】です。",
+    "meaning": "The hero's story is moving."
+  },
+  {
+    "sentence": "この技術は非常に優れています。",
+    "sentence_furigana": "この技術【ぎじゅつ】は非常【ひじょう】に優【すぐ】れています。",
+    "meaning": "This technology is outstanding."
+  },
+  {
+    "sentence": "その植物の英は緑色です。",
+    "sentence_furigana": "その植物【しょくぶつ】の英【はなぶさ】は緑色【みどりいろ】です。",
+    "meaning": "The calyx of that plant is green."
+  },
+  {
+    "sentence": "英語の歌を歌いました。",
+    "sentence_furigana": "英語【えいご】の歌【うた】を歌【うた】いました。",
+    "meaning": "I sang an English song."
+  },
+  {
+    "sentence": "イギリスの文学は世界的に有名です。",
+    "sentence_furigana": "イギリス【いぎりす】の文学【ぶんがく】は世界的【せかいてき】に有名【ゆうめい】です。",
+    "meaning": "English literature is world-famous."
+  },
+  {
+    "sentence": "彼は会議で英語を話した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で英語【えいご】を話【はな】した。",
+    "meaning": "He spoke English at the meeting."
+  },
+  {
+    "sentence": "その騎士は勇敢な英雄だった。",
+    "sentence_furigana": "その騎士【きし】は勇敢【ゆうかん】な英雄【えいゆう】だった。",
+    "meaning": "The knight was a brave hero."
+  },
+  {
+    "sentence": "彼女の作品は細部にまでこだわっていて精巧です。",
+    "sentence_furigana": "彼女【かのじょ】の作品【さくひん】は細部【さいぶ】にまでこだわっていて精巧【せいこう】です。",
+    "meaning": "Her works are elaborate down to the smallest details."
+  },
+  {
+    "sentence": "彼は偉大な英語作家です。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な英語【えいご】作家【さっか】です。",
+    "meaning": "He is a great English writer."
+  },
+  {
+    "sentence": "イギリスの料理は美味しい。",
+    "sentence_furigana": "イギリス【いぎりす】の料理【りょうり】は美味【おい】しい。",
+    "meaning": "English cuisine is delicious."
+  },
+  {
+    "sentence": "彼女はまるで英雄のようだ。",
+    "sentence_furigana": "彼女【かのじょ】はまるで英雄【えいゆう】のようだ。",
+    "meaning": "She is like a hero."
+  },
+  {
+    "sentence": "この彫刻は非常に優美です。",
+    "sentence_furigana": "この彫刻【ちょうこく】は非常【ひじょう】に優美【ゆうび】です。",
+    "meaning": "This sculpture is very elegant."
+  },
+  {
+    "sentence": "その花は小さな英を持っている。",
+    "sentence_furigana": "その花【はな】は小【ちい】さな英【はなぶさ】を持【も】っている。",
+    "meaning": "That flower has a small calyx."
+  },
+  {
+    "sentence": "英語の教材を探しています。",
+    "sentence_furigana": "英語【えいご】の教材【きょうざい】を探【さが】しています。",
+    "meaning": "I am looking for English learning materials."
+  },
+  {
+    "sentence": "イギリスの詩はロマンチックです。",
+    "sentence_furigana": "イギリス【いぎりす】の詩【し】はロマンチック【ろまんちっ·く】です。",
+    "meaning": "English poetry is romantic."
+  },
+  {
+    "sentence": "彼は英雄的な決断を下しました。",
+    "sentence_furigana": "彼【かれ】は英雄的【えいゆうてき】な決断【けつだん】を下【くだ】しました。",
+    "meaning": "He made a heroic decision."
+  },
+  {
+    "sentence": "彼女のパフォーマンスは際立っていました。",
+    "sentence_furigana": "彼女【かのじょ】のパフォーマンス【ぱ·ふぉーまん·す】は際立【きわだ】っていました。",
+    "meaning": "Her performance was outstanding."
+  },
+  {
+    "sentence": "イギリスの歴史に興味があります。",
+    "sentence_furigana": "イギリス【いぎりす】の歴史【れきし】に興味【きょうみ】があります。",
+    "meaning": "I am interested in the history of England."
+  },
+  {
+    "sentence": "彼は国民的英雄です。",
+    "sentence_furigana": "彼【かれ】は国民的英雄【こくみんてきえいゆう】です。",
+    "meaning": "He is a national hero."
+  },
+  {
+    "sentence": "この技術の応用は素晴らしい。",
+    "sentence_furigana": "この技術【ぎじゅつ】の応用【おうよう】は素晴【すば】らしい。",
+    "meaning": "The application of this technology is wonderful."
+  },
+  {
+    "sentence": "花屋には英が飾られていた。",
+    "sentence_furigana": "花屋【はなや】には英【はなぶさ】が飾【かざ】られていた。",
+    "meaning": "Calyxes were decorating the flower shop."
+  },
+  {
+    "sentence": "彼は英語のニュースを理解する。",
+    "sentence_furigana": "彼【かれ】は英語【えいご】のニュース【にゅー·す】を理解【りかい】する。",
+    "meaning": "He understands English news."
+  },
+  {
+    "sentence": "イギリスの夏は涼しいです。",
+    "sentence_furigana": "イギリス【いぎりす】の夏【なつ】は涼【すず】しいです。",
+    "meaning": "English summers are cool."
+  },
+  {
+    "sentence": "英雄は常に勇敢であるべきだ。",
+    "sentence_furigana": "英雄【えいゆう】は常【つね】に勇敢【ゆうかん】であるべきだ。",
+    "meaning": "A hero should always be brave."
+  },
+  {
+    "sentence": "彼女の絵の才能は並外れています。",
+    "sentence_furigana": "彼女【かのじょ】の絵【え】の才能【さいのう】は並外【なみは】ずれています。",
+    "meaning": "Her talent for painting is extraordinary."
+  },
+  {
+    "sentence": "その彫刻の精巧な作りは賞賛に値する。",
+    "sentence_furigana": "その彫刻【ちょうこく】の精巧【せいこう】な作【つく】り-は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "The exquisite craftsmanship of that sculpture is admirable."
+  },
+  {
+    "sentence": "英語のメールを書いています。",
+    "sentence_furigana": "英語【えいご】のメール【めー·る】を書【か】いています。",
+    "meaning": "I am writing an English email."
+  },
+  {
+    "sentence": "イギリスの古い建物は趣があります。",
+    "sentence_furigana": "イギリス【いぎりす】の古【ふる】い建物【たてもの】は趣【おもむき】があります。",
+    "meaning": "Old buildings in England have character."
+  },
+  {
+    "sentence": "彼は歴史上の英雄として名を残した。",
+    "sentence_furigana": "彼【かれ】は歴史上【れきしじょう】の英雄【えいゆう】として名【な】を残【のこ】した。",
+    "meaning": "He left his name as a historical hero."
+  },
+  {
+    "sentence": "彼女の計画は非常に巧妙だ。",
+    "sentence_furigana": "彼女【かのじょ】の計画【けいかく】は非常【ひじょう】に巧妙【こうみょう】だ。",
+    "meaning": "Her plan is very clever."
+  },
+  {
+    "sentence": "この映画は英語で上映されますか？",
+    "sentence_furigana": "この映画【えいが】は英語【えいご】で上映【じょうえい】されますか？",
+    "meaning": "Is this movie shown in English?"
+  },
+  {
+    "sentence": "イギリスの伝統的な衣装は美しい。",
+    "sentence_furigana": "イギリス【いぎりす】の伝統的【でんとうてき】な衣装【いしょう】は美【うつく】しい。",
+    "meaning": "Traditional English costumes are beautiful."
+  },
+  {
+    "sentence": "英雄はしばしば犠牲を払う。",
+    "sentence_furigana": "英雄【えいゆう】はしばしば犠牲【ぎせい】を払【はら】う。",
+    "meaning": "Heroes often make sacrifices."
+  },
+  {
+    "sentence": "彼の弁論は卓越していた。",
+    "sentence_furigana": "彼【かれ】の弁論【べんろん】は卓越【たくえつ】していた。",
+    "meaning": "His oration was outstanding."
+  },
+  {
+    "sentence": "英語の文章を添削してもらいました。",
+    "sentence_furigana": "英語【えいご】の文章【ぶんしょう】を添削【てんさく】してもらいました。",
+    "meaning": "I had my English writing corrected."
+  },
+  {
+    "sentence": "イギリスには多くの美術館があります。",
+    "sentence_furigana": "イギリス【いぎりす】には多【おお】くの美術館【びじゅつかん】があります。",
+    "meaning": "There are many art museums in England."
+  },
+  {
+    "sentence": "彼女は勇敢なヒーローのように振る舞った。",
+    "sentence_furigana": "彼女【かのじょ】は勇敢【ゆうかん】なヒーロー【ひーろー】のように振舞【ふるま】った。",
+    "meaning": "She acted like a brave hero."
+  },
+  {
+    "sentence": "この製品は優れた性能を持っています。",
+    "sentence_furigana": "この製品【せいひん】は優【すぐ】れた性能【せいのう】を持【も】っています。",
+    "meaning": "This product has excellent performance."
+  },
+  {
+    "sentence": "その古い建物は英語の装飾がある。",
+    "sentence_furigana": "その古【ふる】い建物【たてもの】は英語【えいご】の装飾【そうしょく】がある。",
+    "meaning": "That old building has English decorations."
+  },
+  {
+    "sentence": "彼は歴史の英雄を尊敬しています。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】の英雄【えいゆう】を尊敬【そんけい】しています。",
+    "meaning": "He respects historical heroes."
+  },
+  {
+    "sentence": "彼女の英語能力は高い。",
+    "sentence_furigana": "彼女【かのじょ】の英語能力【えいごのうりょく】は高【たか】い。",
+    "meaning": "Her English ability is high."
+  },
+  {
+    "sentence": "イギリスの自然は豊かです。",
+    "sentence_furigana": "イギリス【いぎりす】の自然【しぜん】は豊【ゆた】かです。",
+    "meaning": "The nature of England is abundant."
+  },
+  {
+    "sentence": "そのオペラは英語で上演された。",
+    "sentence_furigana": "そのオペラ【おぺら】は英語【えいご】で上演【じょうえい】された。",
+    "meaning": "The opera was performed in English."
+  },
+  {
+    "sentence": "彼はこの地域の英雄です。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】の英雄【えいゆう】です。",
+    "meaning": "He is a hero of this region."
+  },
+  {
+    "sentence": "彼女のアイディアは非常に斬新だ。",
+    "sentence_furigana": "彼女【かのじょ】のアイディア【あい·で·あ】は非常【ひじょう】に斬新【ざんしん】だ。",
+    "meaning": "Her idea is very novel."
+  },
+  {
+    "sentence": "この植物の英は特徴的だ。",
+    "sentence_furigana": "この植物【しょくぶつ】の英【はなぶさ】は特徴的【とくちょうてき】だ。",
+    "meaning": "The calyx of this plant is distinctive."
+  },
+  {
+    "sentence": "英語でのコミュニケーションは重要です。",
+    "sentence_furigana": "英語【えいご】でのコミュニケーション【こみゅにけーしょ·ん】は重要【じゅうよう】です。",
+    "meaning": "Communication in English is important."
+  },
+  {
+    "sentence": "イギリスのサッカーは人気があります。",
+    "sentence_furigana": "イギリス【いぎりす】のサッカー【さっかー】は人気【にんき】があります。",
+    "meaning": "English football is popular."
+  },
+  {
+    "sentence": "英雄は国のために戦った。",
+    "sentence_furigana": "英雄【えいゆう】は国【くに】のために戦【たたか】った。",
+    "meaning": "The hero fought for his country."
+  },
+  {
+    "sentence": "彼女は素晴らしいシェフです。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしいシェフ【しぇ·ふ】です。",
+    "meaning": "She is a wonderful chef."
+  },
+  {
+    "sentence": "この花は非常に繊細な英を持つ。",
+    "sentence_furigana": "この花【はな】は非常【ひじょう】に繊細【せんさい】な英【はなぶさ】を持【も】つ。",
+    "meaning": "This flower has very delicate calyces."
+  },
+  {
+    "sentence": "英語の試験は難しかった。",
+    "sentence_furigana": "英語【えいご】の試験【しけん】は難【むずか】しかった。",
+    "meaning": "The English exam was difficult."
+  },
+  {
+    "sentence": "イギリスのオーケストラは有名です。",
+    "sentence_furigana": "イギリス【いぎりす】のオーケストラ【おーけ·すと·ら】は有名【ゆうめい】です。",
+    "meaning": "The English orchestra is famous."
+  }
+]

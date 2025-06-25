@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "この予算を人数で割ってください。",
+    "sentence_furigana": "この予算【よさん】を人数【にんずう】で割【わ】ってください。",
+    "meaning": "Please divide this budget by the number of people."
+  },
+  {
+    "sentence": "牛乳は半分に割って飲む。",
+    "sentence_furigana": "牛乳【ぎゅうにゅう】は半分【はんぶん】に割【わ】って飲【の】む。",
+    "meaning": "I will drink the milk after dividing it in half."
+  },
+  {
+    "sentence": "彼は自分の取り分を割って入った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の取【と】り分【ぶん】を割【わ】って入【はい】った。",
+    "meaning": "He cut himself in and took his share."
+  },
+  {
+    "sentence": "そのガラスは割れてしまった。",
+    "sentence_furigana": "そのガラスは割【わ】れてしまった。",
+    "meaning": "That glass has broken."
+  },
+  {
+    "sentence": "薪を割るのに苦労した。",
+    "sentence_furigana": "薪【まき】を割【さ】るのに苦労【くろう】した。",
+    "meaning": "I struggled to split the firewood."
+  },
+  {
+    "sentence": "会議の時間を五対五に割った。",
+    "sentence_furigana": "会議【かいぎ】の時間【じかん】を五対五【ごたいご】に割【わ】った。",
+    "meaning": "We divided the meeting time 50/50."
+  },
+  {
+    "sentence": "その記事は前の部分を割いて書かれた。",
+    "sentence_furigana": "その記事【きじ】は前【まえ】の部分【ぶぶん】を割【さ】いて書【か】かれた。",
+    "meaning": "That article was written by tearing off the previous section."
+  },
+  {
+    "sentence": "彼らはチームを二つに割った。",
+    "sentence_furigana": "彼【かれ】らはチームを二つ【ふたつ】に割【わ】った。",
+    "meaning": "They divided the team into two."
+  },
+  {
+    "sentence": "このケーキはまだ割れていない。",
+    "sentence_furigana": "このケーキはまだ割【わ】れていない。",
+    "meaning": "This cake is not yet split."
+  },
+  {
+    "sentence": "彼は収入の大部分を貯蓄に回した。",
+    "sentence_furigana": "彼【かれ】は収入【しゅうにゅう】の大部分【だいぶぶん】を貯蓄【ちょちく】に回【まわ】した。",
+    "meaning": "He allocated most of his income to savings."
+  },
+  {
+    "sentence": "この道具は木材を割るのに適している。",
+    "sentence_furigana": "この道具【どうぐ】は木材【もくざい】を割【さ】るのに適【てき】している。",
+    "meaning": "This tool is suitable for splitting wood."
+  },
+  {
+    "sentence": "法律はすべての国民を平等に扱うべきだ。",
+    "sentence_furigana": "法律【ほうりつ】はすべての国民【こくみん】を平等【びょうどう】に扱【あつか】うべきだ。",
+    "meaning": "The law should treat all citizens equally."
+  },
+  {
+    "sentence": "彼女は自分の意見をしっかり持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の意見【いけん】をしっかり持【も】っていた。",
+    "meaning": "She held firmly to her opinion."
+  },
+  {
+    "sentence": "その果物は包丁で半分に割った。",
+    "sentence_furigana": "その果物【くだもの】は包丁【ほうちょう】で半分【はんぶん】に割【わ】った。",
+    "meaning": "I cut the fruit in half with a kitchen knife."
+  },
+  {
+    "sentence": "彼はこの事業の利益を公平に割った。",
+    "sentence_furigana": "彼【かれ】はこの事業【じぎょう】の利益【りえき】を公平【こうへい】に割【わ】った。",
+    "meaning": "He divided the profits of this business fairly."
+  },
+  {
+    "sentence": "この部屋は二人で割って使う。",
+    "sentence_furigana": "この部屋【へや】は二人【ふたり】で割【わ】って使【つか】う。",
+    "meaning": "We will share this room and use it."
+  },
+  {
+    "sentence": "この箱は壊れやすいので丁寧に割って運んでください。",
+    "sentence_furigana": "この箱【はこ】は壊【こわ】れやすいので丁寧【ていねい】に割【わ】って運【はこ】んでください。",
+    "meaning": "This box is fragile, so please handle it with care and transport it."
+  },
+  {
+    "sentence": "彼女は友人とケーキを三つに割って食べた。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】とケーキを三つ【みっつ】に割【わ】って食【た】べた。",
+    "meaning": "She shared the cake into three pieces with her friend and ate it."
+  },
+  {
+    "sentence": "彼らは土地を境界線で割った。",
+    "sentence_furigana": "彼【かれ】らは土地【とち】を境界線【きょうかいせん】で割【わ】った。",
+    "meaning": "They divided the land by the boundary line."
+  },
+  {
+    "sentence": "この皿は割れてしまったので使えない。",
+    "sentence_furigana": "この皿【さら】は割【わ】れてしまったので使【つか】えない。",
+    "meaning": "This plate is broken and cannot be used."
+  },
+  {
+    "sentence": "彼らはコストを人数で割ることにした。",
+    "sentence_furigana": "彼【かれ】らはコストを人数【にんずう】で割【わ】ることにした。",
+    "meaning": "They decided to divide the cost by the number of people."
+  },
+  {
+    "sentence": "割れ物注意と書かれた箱を運んだ。",
+    "sentence_furigana": "割【わ】れ物注意【ものちゅうい】と書【か】かれた箱【はこ】を運【はこ】んだ。",
+    "meaning": "I carried a box labeled 'Fragile'."
+  },
+  {
+    "sentence": "この部屋は四人で割って使う。",
+    "sentence_furigana": "この部屋【へや】は四人【よにん】で割【わ】って使【つか】う。",
+    "meaning": "Four people will share this room."
+  },
+  {
+    "sentence": "彼は借金を分割で支払うことにした。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】を分割【ぶんかつ】で支払【しはら】うことにした。",
+    "meaning": "He decided to pay off the debt in installments."
+  },
+  {
+    "sentence": "この古い家は二つの部分に割られている。",
+    "sentence_furigana": "この古【ふる】い家【いえ】は二つ【ふたつ】の部分【ぶぶん】に割【わ】られている。",
+    "meaning": "This old house is divided into two parts."
+  },
+  {
+    "sentence": "彼女は自分の取り分を少しだけもらった。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の取【と】り分【ぶん】を少【すこ】しだけもらっっだ。",
+    "meaning": "She took only a small portion for herself."
+  },
+  {
+    "sentence": "この割れた窓を修理しなければならない。",
+    "sentence_furigana": "この割【わ】れた窓【まど】を修理【しゅうり】しなければならない。",
+    "meaning": "I have to repair this broken window."
+  },
+  {
+    "sentence": "彼らは問題を様々な角度から割って検討した。",
+    "sentence_furigana": "彼【かれ】らは問題【もんだい】を様々【さまざま】な角度【かくど】から割【わ】って検討【けんとう】した。",
+    "meaning": "They examined the problem by dividing it from various angles."
+  },
+  {
+    "sentence": "このピザは公平に八つに割ってください。",
+    "sentence_furigana": "このピザは公平【こうへい】に八つ【やつ】に割【わ】ってください。",
+    "meaning": "Please divide this pizza equally into eight slices."
+  },
+  {
+    "sentence": "彼はその財産を子供たちに均等に割った。",
+    "sentence_furigana": "彼【かれ】はその財産【ざいさん】を子供【こども】たちに均等【きんとう】に割っっだ。",
+    "meaning": "He divided the property equally among his children."
+  },
+  {
+    "sentence": "この契約は両者に不利な条件を割っている。",
+    "sentence_furigana": "この契約【けいやく】は両者【りょうしゃ】に不利【ふり】な条件【じょうけん】を割っっだ。",
+    "meaning": "This contract contains unfavorable terms for both parties."
+  },
+  {
+    "sentence": "割高な商品でも、品質が良いなら買う。",
+    "sentence_furigana": "割高【わりだか】な商品【しょうひん】でも、品質【ひんしつ】が良いなら買【か】う。",
+    "meaning": "Even if the price is relatively high, I will buy it if the quality is good."
+  },
+  {
+    "sentence": "彼女は話を二つの部分に割って説明した。",
+    "sentence_furigana": "彼女【かのじょ】は話【はな】しを二つ【ふたつ】の部分【ぶぶん】に割っっだ。",
+    "meaning": "She divided the story into two parts and explained it."
+  },
+  {
+    "sentence": "この割れた瓶は危険なので片付けよう。",
+    "sentence_furigana": "この割【わ】れた瓶【びん】は危険【きけん】なので片付【かたづ】けよう。",
+    "meaning": "This broken bottle is dangerous, so let's clean it up."
+  },
+  {
+    "sentence": "彼は会社の経費を各部署に割り当てた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の経費【けいひ】を各部署【かくぶしょ】に割【わ】り当【あ】てた。",
+    "meaning": "He allocated the company's expenses to each department."
+  },
+  {
+    "sentence": "このケーキは家族みんなで割って食べよう。",
+    "sentence_furigana": "このケーキは家族【かぞく】みんなで割っっだ。",
+    "meaning": "Let's share this cake among the whole family."
+  },
+  {
+    "sentence": "彼は割り当てられた仕事に全力を尽くした。",
+    "sentence_furigana": "彼【かれ】は割【わ】り当【あ】てられた仕事【しごと】に全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "He put all his effort into the assigned work."
+  },
+  {
+    "sentence": "この割れた茶碗はもう使えない。",
+    "sentence_furigana": "この割【わ】れた茶碗【ちゃわん】はもう使【つか】えない。",
+    "meaning": "This broken teacup cannot be used anymore."
+  },
+  {
+    "sentence": "彼らは土地を等しい割合で分けた。",
+    "sentence_furigana": "彼【かれ】らは土地【とち】を等【ひと】しい割合【わりあい】で分【わ】けた。",
+    "meaning": "They divided the land in equal proportions."
+  },
+  {
+    "sentence": "このガラスは非常に割れやすい。",
+    "sentence_furigana": "このガラスは非常【ひじょう】に割【わ】れやすい。",
+    "meaning": "This glass is very fragile."
+  },
+  {
+    "sentence": "彼女は自分の考えを譲らなかった。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の考【かんが】えを譲【ゆず】らなかった。",
+    "meaning": "She did not yield her own ideas."
+  },
+  {
+    "sentence": "この割れた花瓶は残念だ。",
+    "sentence_furigana": "この割【わ】れた花瓶【かびん】は残念【ざんねん】だ。",
+    "meaning": "It's a shame this vase is broken."
+  },
+  {
+    "sentence": "彼らは収入を収入の割合に応じて分配した。",
+    "sentence_furigana": "彼【かれ】らは収入【しゅうにゅう】を収入【しゅうにゅう】の割合【わりあい】に応【おう】じて分配【ぶんぱい】した。",
+    "meaning": "They distributed the income according to the proportion of income."
+  },
+  {
+    "sentence": "この割引券は有効期限が切れている。",
+    "sentence_furigana": "この割引券【わりびきけん】は有効期限【ゆうこうきげん】が切【き】れている。",
+    "meaning": "This discount coupon has expired."
+  },
+  {
+    "sentence": "彼らは会議で議題を二つに割って議論した。",
+    "sentence_furigana": "彼【かれ】らは会議【かいぎ】で議題【ぎだい】を二つ【ふたつ】に割っっだ。",
+    "meaning": "They divided the agenda into two parts and discussed them at the meeting."
+  },
+  {
+    "sentence": "この割れた鏡は縁起が悪い。",
+    "sentence_furigana": "この割【わ】れた鏡【かがみ】は縁起【えんぎ】が悪【わる】い。",
+    "meaning": "This broken mirror is bad luck."
+  },
+  {
+    "sentence": "彼女はケーキを公平に分けた。",
+    "sentence_furigana": "彼女【かのじょ】はケーキを公平【こうへい】に分【わ】けた。",
+    "meaning": "She divided the cake fairly."
+  },
+  {
+    "sentence": "この商品は通常価格よりかなり割高です。",
+    "sentence_furigana": "この商品【しょうひん】は通常価格【つうじょうかかく】よりかなり割高【わりだか】です。",
+    "meaning": "This product is considerably more expensive than the usual price."
+  },
+  {
+    "sentence": "彼は自分の分け前を主張した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の分【わ】け前【まえ】を主張【しゅちょう】した。",
+    "meaning": "He claimed his share."
+  },
+  {
+    "sentence": "この割れた食器は捨てなければならない。",
+    "sentence_furigana": "この割【わ】れた食器【しょっき】は捨【す】てなければならない。",
+    "meaning": "These broken dishes must be thrown away."
+  },
+  {
+    "sentence": "彼らは予算を各部門に按分した。",
+    "sentence_furigana": "彼【かれ】らは予算【よさん】を各部門【かくぶもん】に按分【あんぶん】した。",
+    "meaning": "They divided the budget among each department."
+  },
+  {
+    "sentence": "この割れたコップは危ないから捨てる。",
+    "sentence_furigana": "この割【わ】れたコップは危【あぶ】ないから捨【す】てる。",
+    "meaning": "This broken cup is dangerous, so I will throw it away."
+  },
+  {
+    "sentence": "彼女は提案を三つに割って検討した。",
+    "sentence_furigana": "彼女【かのじょ】は提案【ていあん】を三つ【みっつ】に割っっだ。",
+    "meaning": "She divided the proposal into three parts and examined it."
+  },
+  {
+    "sentence": "この割れた窓ガラスは危険だ。",
+    "sentence_furigana": "この割【わ】れた窓ガラス【まどガラス】は危険【きけん】だ。",
+    "meaning": "This broken window pane is dangerous."
+  },
+  {
+    "sentence": "彼はその遺産を子供たちに按分した。",
+    "sentence_furigana": "彼【かれ】はその遺産【いさん】を子供【こども】たちに按分【あんぶん】した。",
+    "meaning": "He divided the inheritance among his children."
+  },
+  {
+    "sentence": "この割れた皿はもう使えない。",
+    "sentence_furigana": "この割【わ】れた皿【さら】はもう使【つか】えない。",
+    "meaning": "This broken plate cannot be used anymore."
+  },
+  {
+    "sentence": "彼女はパーティーの費用を参加者で割ることを提案した。",
+    "sentence_furigana": "彼女【かのじょ】はパーティーの費用【ひよう】を参加者【さんかしゃ】で割【わ】ることを提案【ていあん】した。",
+    "meaning": "She suggested dividing the party expenses among the participants."
+  },
+  {
+    "sentence": "この割れたコップは危ないので、すぐに片付けてください。",
+    "sentence_furigana": "この割【わ】れたコップは危【あぶ】ないので、すぐに片付【かたづ】けてください。",
+    "meaning": "This broken cup is dangerous, so please clean it up immediately."
+  },
+  {
+    "sentence": "彼らは土地を二つの部分に割って利用した。",
+    "sentence_furigana": "彼【かれ】らは土地【とち】を二つ【ふたつ】の部分【ぶぶん】に割っっだ。",
+    "meaning": "They divided the land into two parts and utilized them."
+  },
+  {
+    "sentence": "この割れたグラスは使わないでください。",
+    "sentence_furigana": "この割【わ】れたグラスは使【つか】わないでください。",
+    "meaning": "Please do not use this broken glass."
+  },
+  {
+    "sentence": "彼女は収入の割合によって税金を支払った。",
+    "sentence_furigana": "彼女【かのじょ】は収入【しゅうにゅう】の割合【わりあい】によって税金【ぜいきん】を支払っっだ。",
+    "meaning": "She paid taxes according to the proportion of her income."
+  },
+  {
+    "sentence": "この割れた茶碗は価値がない。",
+    "sentence_furigana": "この割【わ】れた茶碗【ちゃわん】は価値【かち】がない。",
+    "meaning": "This broken teacup has no value."
+  },
+  {
+    "sentence": "彼らは問題を三つの側面から割って分析した。",
+    "sentence_furigana": "彼【かれ】らは問題【もんだい】を三つ【みっつ】の側面【そくめん】から割っっだ。",
+    "meaning": "They analyzed the problem by dividing it into three aspects."
+  },
+  {
+    "sentence": "この割れた鏡はもう使えない。",
+    "sentence_furigana": "この割【わ】れた鏡【かがみ】はもう使【つか】えない。",
+    "meaning": "This broken mirror cannot be used anymore."
+  },
+  {
+    "sentence": "彼女は残りのケーキを友達と分け合った。",
+    "sentence_furigana": "彼女【かのじょ】は残【のこ】りのケーキを友達【ともだち】と分【わ】け合っっだ。",
+    "meaning": "She shared the remaining cake with her friends."
+  },
+  {
+    "sentence": "この割れたガラスは非常に危険です。",
+    "sentence_furigana": "この割【わ】れたガラスは非常【ひじょう】に危険【きけん】です。",
+    "meaning": "This broken glass is very dangerous."
+  },
+  {
+    "sentence": "彼はそのプロジェクトの費用を人数で割ることを提案した。",
+    "sentence_furigana": "彼【かれ】は That project の費用【ひよう】を人数【にんずう】で割【わ】ることを提案【ていあん】した。",
+    "meaning": "He suggested dividing the cost of the project by the number of people."
+  },
+  {
+    "sentence": "この割れた陶器は修復不可能だ。",
+    "sentence_furigana": "この割【わ】れた陶器【とうき】は修復不可能【しゅうふくふかのう】だ。",
+    "meaning": "This broken pottery cannot be repaired."
+  },
+  {
+    "sentence": "彼女は自分の取り分を主張した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の取【と】り分【ぶん】を主張【しゅちょう】した。",
+    "meaning": "She claimed her share."
+  },
+  {
+    "sentence": "この割れた窓は早急に修理が必要だ。",
+    "sentence_furigana": "この割【わ】れた窓【まど】は早急【そうきゅう】に修理【しゅうり】が必要【ひつよう】だ。",
+    "meaning": "This broken window needs urgent repair."
+  },
+  {
+    "sentence": "彼は割烹料理店で食事をした。",
+    "sentence_furigana": "彼【かれ】は割烹料理店【かっぽうりょうりてん】で食事【しょくじ】をした。",
+    "meaning": "He ate at a Japanese haute cuisine restaurant."
+  },
+  {
+    "sentence": "この割れたボウルは捨てるべきだ。",
+    "sentence_furigana": "この割【わ】れたボウルは捨【す】てるべきだ。",
+    "meaning": "This broken bowl should be thrown away."
+  },
+  {
+    "sentence": "彼女は新しい事業をいくつかの部門に割った。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい事業【じぎょう】をいくつか の部門【ぶもん】に割っっだ。",
+    "meaning": "She divided the new business into several departments."
+  },
+  {
+    "sentence": "この割れた棚は危険なので、すぐに交換してください。",
+    "sentence_furigana": "この割【わ】れた棚【たな】は危険【きけん】なので、すぐに交換【こうかん】してください。",
+    "meaning": "This broken shelf is dangerous, so please replace it immediately."
+  },
+  {
+    "sentence": "彼は子供たちに分け前を公平に与えた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちに分【わ】け前【まえ】を公平【こうへい】に与【あた】えた。",
+    "meaning": "He gave his children their shares fairly."
+  },
+  {
+    "sentence": "この割れたタイルの補修が必要だ。",
+    "sentence_furigana": "この割【わ】れたタイル の補修【ほしゅう】が必要【ひつよう】だ。",
+    "meaning": "This broken tile needs repair."
+  },
+  {
+    "sentence": "彼女は議論を三つの論点に割って整理した。",
+    "sentence_furigana": "彼女【かのじょ】は議論【ぎろん】を三つ【みっつ】の論点【ろんてん】に割っっだ。",
+    "meaning": "She divided the discussion into three points and organized them."
+  },
+  {
+    "sentence": "この割れた植木鉢はもう使えません。",
+    "sentence_furigana": "この割【わ】れた植木鉢【うえきばち】はもう使【つか】えません。",
+    "meaning": "This broken flower pot can no longer be used."
+  },
+  {
+    "sentence": "彼はこの問題を二つの側面から割って考えた。",
+    "sentence_furigana": "彼【かれ】は問題【もんだい】を二つ【ふたつ】の側面【そくめん】から割っっだ。",
+    "meaning": "He considered this problem by dividing it into two aspects."
+  },
+  {
+    "sentence": "この割れた壁は早急に修繕が必要だ。",
+    "sentence_furigana": "この割【わ】れた壁【かべ】は早急【そうきゅう】に修繕【しゅうぜん】が必要【ひつよう】だ。",
+    "meaning": "This broken wall needs urgent repair."
+  },
+  {
+    "sentence": "彼女は自分の分け前を譲らなかった。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の分【わ】け前【まえ】を譲【ゆず】らなかった。",
+    "meaning": "She did not give up her share."
+  },
+  {
+    "sentence": "この割れた食器は危険なので、捨てるしかない。",
+    "sentence_furigana": "この割【わ】れた食器【しょっき】は危険【きけん】なので、捨【す】てるしかない。",
+    "meaning": "These broken dishes are dangerous, so we have no choice but to throw them away."
+  },
+  {
+    "sentence": "彼はその情報を正確な割合で伝えた。",
+    "sentence_furigana": "彼【かれ】はその情報【じょうほう】を正確【せいかく】な割合【わりあい】で伝【つた】えた。",
+    "meaning": "He conveyed the information in accurate proportions."
+  },
+  {
+    "sentence": "この割れたガラスは取り替える必要がある。",
+    "sentence_furigana": "この割【わ】れたガラスは取【と】り替【か】える必要【ひつよう】がある。",
+    "meaning": "This broken glass needs to be replaced."
+  },
+  {
+    "sentence": "彼女は作業を効率的にいくつかの部分に割って進めた。",
+    "sentence_furigana": "彼女【かのじょ】は作業【さぎょう】を効率的【こうりつてき】にいくつか の部分【ぶぶん】に割っっだ。",
+    "meaning": "She divided the work into several parts efficiently and proceeded."
+  },
+  {
+    "sentence": "この割れた板は危険なので、すぐに片付けてください。",
+    "sentence_furigana": "この割【わ】れた板【いた】は危険【きけん】なので、すぐに片付【かたづ】けてください。",
+    "meaning": "This broken board is dangerous, so please clean it up immediately."
+  },
+  {
+    "sentence": "彼は子供たちに財産を按分した。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちに財産【ざいさん】を按分【あんぶん】した。",
+    "meaning": "He divided the property among his children."
+  },
+  {
+    "sentence": "この割れたコップは危ないから使わない方がいい。",
+    "sentence_furigana": "この割【わ】れたコップは危【あぶ】ないから使【つか】わない方が良【よ】い。",
+    "meaning": "This broken cup is dangerous, so it's better not to use it."
+  },
+  {
+    "sentence": "彼女は自分の取り分を多く要求した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の取【と】り分【ぶん】を多【おお】く要求【ようきゅう】した。",
+    "meaning": "She demanded a larger share for herself."
+  },
+  {
+    "sentence": "この割れた鏡はもう使えません。",
+    "sentence_furigana": "この割【わ】れた鏡【かがみ】はもう使【つか】えません。",
+    "meaning": "This broken mirror can no longer be used."
+  },
+  {
+    "sentence": "彼はその問題の解決策を複数の視点から割って検討した。",
+    "sentence_furigana": "彼【かれ】は問題【もんだい】の解決策【かいけつさく】を複数【ふくすう】の視点【してん】から割っっだ。",
+    "meaning": "He examined the solution to the problem from multiple perspectives."
+  },
+  {
+    "sentence": "この割れた窓は安全のため早急に修理が必要です。",
+    "sentence_furigana": "この割【わ】れた窓【まど】は安全【あんぜん】のため早急【そうきゅう】に修理【しゅうり】が必要【ひつよう】です。",
+    "meaning": "This broken window requires urgent repair for safety."
+  },
+  {
+    "sentence": "彼女は残りの時間をすべて勉強に費やした。",
+    "sentence_furigana": "彼女【かのじょ】は残【のこ】りの時間【じかん】をすべて勉強【べんきょう】に費【つい】やした。",
+    "meaning": "She spent all her remaining time studying."
+  },
+  {
+    "sentence": "この割れた茶碗は骨董品としての価値があるかもしれません。",
+    "sentence_furigana": "この割【わ】れた茶碗【ちゃわん】は骨董品【こっとうひん】としての価値【かち】があるかもしれません。",
+    "meaning": "This broken teacup might have value as an antique."
+  },
+  {
+    "sentence": "彼は会社の利益を従業員に公平に分配した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の利益【りえき】を従業員【じゅうぎょういん】に公平【こうへい】に分配【ぶんぱい】した。",
+    "meaning": "He distributed the company's profits fairly among the employees."
+  },
+  {
+    "sentence": "この割れた陶器は丁寧に扱わないと崩れてしまう。",
+    "sentence_furigana": "この割【わ】れた陶器【とうき】は丁寧【ていねい】に扱【あつか】わないと崩【くず】れてしまう。",
+    "meaning": "This broken pottery will crumble if not handled carefully."
+  },
+  {
+    "sentence": "彼女は会議の議事録を重要な点に絞ってまとめた。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の議事録【ぎじろく】を重要【じゅうよう】な点【てん】に絞【しぼ】ってまとめた。",
+    "meaning": "She summarized the meeting minutes by focusing on important points."
+  },
+  {
+    "sentence": "この割れたガラスは非常に危険なので、取り替える必要があります。",
+    "sentence_furigana": "この割【わ】れたガラスは非常【ひじょう】に危険【きけん】なので、取【と】り替【か】える必要【ひつよう】があります。",
+    "meaning": "This broken glass is very dangerous, so it needs to be replaced."
+  },
+  {
+    "sentence": "彼はその費用を参加者全員で均等に割った。",
+    "sentence_furigana": "彼【かれ】は That 費用【ひよう】を参加者全員【さんかしゃぜんいん】で均等【きんとう】に割っっだ。",
+    "meaning": "He divided the cost equally among all participants."
+  },
+  {
+    "sentence": "この割れた植木鉢はもう使えないので、新しいものに交換します。",
+    "sentence_furigana": "この割【わ】れた植木鉢【うえきばち】はもう使【つか】えないので、新【あたら】しいものに交換【こうかん】します。",
+    "meaning": "This broken flower pot can no longer be used, so I will replace it with a new one."
+  },
+  {
+    "sentence": "彼女は計画を成功のために三つの段階に割った。",
+    "sentence_furigana": "彼女【かのじょ】は計画【けいかく】を成功【せいこう】のために三つ【みっつ】の段階【だんかい】に割っっだ。",
+    "meaning": "She divided the plan into three stages for success."
+  },
+  {
+    "sentence": "この割れたタイルの交換は急務だ。",
+    "sentence_furigana": "この割【わ】れたタイル の交換【こうかん】は急務【きゅうむ】だ。",
+    "meaning": "Replacing this broken tile is an urgent task."
+  },
+  {
+    "sentence": "彼はこの財産を二人の息子に按分した。",
+    "sentence_furigana": "彼【かれ】は That 財産【ざいさん】を二人【ふたり】の息子【むすこ】に按分【あんぶん】した。",
+    "meaning": "He divided this property between his two sons."
+  },
+  {
+    "sentence": "この割れた壁は安全のため、早急に修繕が必要です。",
+    "sentence_furigana": "この割【わ】れた壁【かべ】は安全【あんぜん】のため、早急【そうきゅう】に修繕【しゅうぜん】が必要【ひつよう】です。",
+    "meaning": "This broken wall requires urgent repair for safety."
+  },
+  {
+    "sentence": "彼女は自分の取り分を少しでも多く確保しようとした。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の取【と】り分【ぶん】を少【すこ】しでも多【おお】く確保【かくほ】しようとした。",
+    "meaning": "She tried to secure as much of her share as possible."
+  },
+  {
+    "sentence": "この割れた窓ガラスはそのままにしておくと危険です。",
+    "sentence_furigana": "この割【わ】れた窓ガラス【まどガラス】はそのままにしておくと危険【きけん】です。",
+    "meaning": "It is dangerous to leave this broken window pane as it is."
+  },
+  {
+    "sentence": "彼はそのプロジェクトの成功率を正確な割合で示した。",
+    "sentence_furigana": "彼【かれ】は That Project の成功率【せいこうりつ】を正確【せいかく】な割合【わりあい】で示【しめ】した。",
+    "meaning": "He showed the success rate of the project in accurate proportions."
+  },
+  {
+    "sentence": "この割れた板は危険なので、早めに交換してください。",
+    "sentence_furigana": "この割【わ】れた板【いた】は危険【きけん】なので、早【はや】めに交換【こうかん】してください。",
+    "meaning": "This broken board is dangerous, so please replace it soon."
+  },
+  {
+    "sentence": "彼女は残りの予算を効率的に配分した。",
+    "sentence_furigana": "彼女【かのじょ】は残【のこ】りの予算【よさん】を効率的【こうりつてき】に配分【はいぶん】した。",
+    "meaning": "She allocated the remaining budget efficiently."
+  },
+  {
+    "sentence": "この割れた陶器は非常に脆いため、注意が必要です。",
+    "sentence_furigana": "この割【わ】れた陶器【とうき】は非常【ひじょう】に脆【もろ】いため、注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "This broken pottery is very brittle, so caution is necessary."
+  }
+]

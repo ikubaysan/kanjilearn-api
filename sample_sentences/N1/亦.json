@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼は亦成功した。",
+    "sentence_furigana": "彼【かれ】は亦【また】成功【せいこう】した。",
+    "meaning": "He also succeeded."
+  },
+  {
+    "sentence": "それは亦面白い。",
+    "sentence_furigana": "それも亦【また】面白【おもしろ】い。",
+    "meaning": "That is also interesting."
+  },
+  {
+    "sentence": "彼女は亦来た。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】来【き】た。",
+    "meaning": "She came again."
+  },
+  {
+    "sentence": "私も亦参加します。",
+    "sentence_furigana": "私【わたし】も亦【また】参加【さんか】します。",
+    "meaning": "I will also participate."
+  },
+  {
+    "sentence": "この本は亦読む価値がある。",
+    "sentence_furigana": "この本【ほん】は亦【また】読【よ】む価値【かち】がある。",
+    "meaning": "This book is also worth reading."
+  },
+  {
+    "sentence": "彼は亦絵を描く。",
+    "sentence_furigana": "彼【かれ】は亦【また】絵【え】を描【か】く。",
+    "meaning": "He also draws pictures."
+  },
+  {
+    "sentence": "この話は亦聞いたことがある。",
+    "sentence_furigana": "この話【はなし】は亦【また】聞【き】いたことがある。",
+    "meaning": "I have heard this story before as well."
+  },
+  {
+    "sentence": "それは亦以前あったことだ。",
+    "sentence_furigana": "それも亦【また】以前【いぜん】あったことだ。",
+    "meaning": "That has also happened before."
+  },
+  {
+    "sentence": "彼は亦スポーツが好きだ。",
+    "sentence_furigana": "彼【かれ】は亦【また】スポーツが好【す】きだ。",
+    "meaning": "He also likes sports."
+  },
+  {
+    "sentence": "この映画は亦素晴らしい。",
+    "sentence_furigana": "この映画【えいが】は亦【また】素晴【すば】らしい。",
+    "meaning": "This movie is also wonderful."
+  },
+  {
+    "sentence": "彼女は亦音楽を聴く。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】音楽【おんがく】を聴【き】く。",
+    "meaning": "She also listens to music."
+  },
+  {
+    "sentence": "私も亦あなたを支持します。",
+    "sentence_furigana": "私【わたし】も亦【また】あなたを支持【しじ】します。",
+    "meaning": "I also support you."
+  },
+  {
+    "sentence": "この料理は亦美味しい。",
+    "sentence_furigana": "この料理【りょうり】は亦【また】美味【おい】しい。",
+    "meaning": "This dish is also delicious."
+  },
+  {
+    "sentence": "彼は亦旅行が好きだ。",
+    "sentence_furigana": "彼【かれ】は亦【また】旅行【りょこう】が好【す】きだ。",
+    "meaning": "He also likes to travel."
+  },
+  {
+    "sentence": "そのアイデアは亦良い。",
+    "sentence_furigana": "そのアイデアは亦【また】良【よ】い。",
+    "meaning": "That idea is also good."
+  },
+  {
+    "sentence": "彼女は亦料理を作る。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】料理【りょうり】を作【つく】る。",
+    "meaning": "She also cooks."
+  },
+  {
+    "sentence": "私も亦反対です。",
+    "sentence_furigana": "私【わたし】も亦【また】反対【はんたい】です。",
+    "meaning": "I am also opposed."
+  },
+  {
+    "sentence": "この計画は亦難しい。",
+    "sentence_furigana": "この計画【けいかく】は亦【また】難【むずか】しい。",
+    "meaning": "This plan is also difficult."
+  },
+  {
+    "sentence": "彼は亦詩を書く。",
+    "sentence_furigana": "彼【かれ】は亦【また】詩【し】を書【か】く。",
+    "meaning": "He also writes poetry."
+  },
+  {
+    "sentence": "その仕事は亦大変だ。",
+    "sentence_furigana": "その仕事【しごと】は亦【また】大変【たいへん】だ。",
+    "meaning": "That job is also hard."
+  },
+  {
+    "sentence": "彼女は亦歌が上手い。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】歌【うた】が上手【うま】い。",
+    "meaning": "She is also good at singing."
+  },
+  {
+    "sentence": "私も亦学びたい。",
+    "sentence_furigana": "私【わたし】も亦【また】学【まな】びたい。",
+    "meaning": "I want to learn too."
+  },
+  {
+    "sentence": "この情報は亦重要だ。",
+    "sentence_furigana": "この情報【じょうほう】は亦【また】重要【じゅうよう】だ。",
+    "meaning": "This information is also important."
+  },
+  {
+    "sentence": "彼は亦外国語を話す。",
+    "sentence_furigana": "彼【かれ】は亦【また】外国語【がいこくご】を話【はな】す。",
+    "meaning": "He also speaks foreign languages."
+  },
+  {
+    "sentence": "その提案は亦合理的だ。",
+    "sentence_furigana": "その提案【ていあん】は亦【また】合理的【ごうりてき】だ。",
+    "meaning": "That proposal is also reasonable."
+  },
+  {
+    "sentence": "彼女は亦絵を描くのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】絵【え】を描【か】くのが好【す】きだ。",
+    "meaning": "She also likes to draw."
+  },
+  {
+    "sentence": "私も亦参加した。",
+    "sentence_furigana": "私【わたし】も亦【また】参加【さんか】した。",
+    "meaning": "I also participated."
+  },
+  {
+    "sentence": "この本は亦新しい。",
+    "sentence_furigana": "この本【ほん】は亦【また】新【あたら】しい。",
+    "meaning": "This book is also new."
+  },
+  {
+    "sentence": "彼は亦学校に行く。",
+    "sentence_furigana": "彼【かれ】は亦【また】学校【がっこう】に行【い】く。",
+    "meaning": "He also goes to school."
+  },
+  {
+    "sentence": "その経験は亦貴重だ。",
+    "sentence_furigana": "その経験【けいけん】は亦【また】貴重【きちょう】だ。",
+    "meaning": "That experience is also valuable."
+  },
+  {
+    "sentence": "彼女は亦音楽をやる。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】音楽【おんがく】をやる。",
+    "meaning": "She also plays music."
+  },
+  {
+    "sentence": "私も亦あなたを助けます。",
+    "sentence_furigana": "私【わたし】も亦【また】あなたを助【たす】けます。",
+    "meaning": "I will also help you."
+  },
+  {
+    "sentence": "この町は亦静かだ。",
+    "sentence_furigana": "この町【まち】は亦【また】静【しず】かだ。",
+    "meaning": "This town is also quiet."
+  },
+  {
+    "sentence": "彼は亦歴史が好きだ。",
+    "sentence_furigana": "彼【かれ】は亦【また】歴史【れきし】が好【す】きだ。",
+    "meaning": "He also likes history."
+  },
+  {
+    "sentence": "その件は亦検討中だ。",
+    "sentence_furigana": "その件【けん】は亦【また】検討中【けんとうちゅう】だ。",
+    "meaning": "That matter is also under consideration."
+  },
+  {
+    "sentence": "彼女は亦有名だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】有名【ゆうめい】だ。",
+    "meaning": "She is also famous."
+  },
+  {
+    "sentence": "私も亦感動しました。",
+    "sentence_furigana": "私【わたし】も亦【また】感動【かんどう】しました。",
+    "meaning": "I was also moved."
+  },
+  {
+    "sentence": "この映画は亦良い。",
+    "sentence_furigana": "この映画【えいが】は亦【また】良【よ】い。",
+    "meaning": "This movie is also good."
+  },
+  {
+    "sentence": "彼は亦読書をする。",
+    "sentence_furigana": "彼【かれ】は亦【また】読書【どくしょ】をする。",
+    "meaning": "He also reads books."
+  },
+  {
+    "sentence": "その事実は亦驚きだ。",
+    "sentence_furigana": "その事実【じじつ】は亦【また】驚【おどろ】きだ。",
+    "meaning": "That fact is also surprising."
+  },
+  {
+    "sentence": "彼女は亦美しい。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】美【うつく】しい。",
+    "meaning": "She is also beautiful."
+  },
+  {
+    "sentence": "私も亦賛成です。",
+    "sentence_furigana": "私【わたし】も亦【また】賛成【さんせい】です。",
+    "meaning": "I also agree."
+  },
+  {
+    "sentence": "この本は亦面白い。",
+    "sentence_furigana": "この本【ほん】は亦【また】面白【おもしろ】い。",
+    "meaning": "This book is also interesting."
+  },
+  {
+    "sentence": "彼は亦旅行した。",
+    "sentence_furigana": "彼【かれ】は亦【また】旅行【りょこう】した。",
+    "meaning": "He also traveled."
+  },
+  {
+    "sentence": "その意見は亦もっともだ。",
+    "sentence_furigana": "その意見【いけん】は亦【また】もっともだ。",
+    "meaning": "That opinion is also valid."
+  },
+  {
+    "sentence": "彼女は亦料理が好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】料理【りょうり】が好【す】きだ。",
+    "meaning": "She also likes cooking."
+  },
+  {
+    "sentence": "私も亦行きたい。",
+    "sentence_furigana": "私【わたし】も亦【また】行【い】きたい。",
+    "meaning": "I want to go too."
+  },
+  {
+    "sentence": "この家は亦大きい。",
+    "sentence_furigana": "この家【いえ】は亦【また】大【おお】きい。",
+    "meaning": "This house is also big."
+  },
+  {
+    "sentence": "彼は亦画家だ。",
+    "sentence_furigana": "彼【かれ】は亦【また】画家【がか】だ。",
+    "meaning": "He is also a painter."
+  },
+  {
+    "sentence": "そのアイデアは亦新しい。",
+    "sentence_furigana": "そのアイデアは亦【また】新【あたら】しい。",
+    "meaning": "That idea is also new."
+  },
+  {
+    "sentence": "彼女は亦親切だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】親切【しんせつ】だ。",
+    "meaning": "She is also kind."
+  },
+  {
+    "sentence": "私も亦心配しています。",
+    "sentence_furigana": "私【わたし】も亦【また】心配【しんぱい】しています。",
+    "meaning": "I am also worried."
+  },
+  {
+    "sentence": "この本は亦有名だ。",
+    "sentence_furigana": "この本【ほん】は亦【また】有名【ゆうめい】だ。",
+    "meaning": "This book is also famous."
+  },
+  {
+    "sentence": "彼は亦研究している。",
+    "sentence_furigana": "彼【かれ】は亦【また】研究【けんきゅう】している。",
+    "meaning": "He is also researching."
+  },
+  {
+    "sentence": "その件は亦重要だ。",
+    "sentence_furigana": "その件【けん】は亦【また】重要【じゅうよう】だ。",
+    "meaning": "That matter is also important."
+  },
+  {
+    "sentence": "彼女は亦芸術家だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】芸術家【げいじゅつか】だ。",
+    "meaning": "She is also an artist."
+  },
+  {
+    "sentence": "私も亦頑張ります。",
+    "sentence_furigana": "私【わたし】も亦【また】頑張【がんば】ります。",
+    "meaning": "I will also do my best."
+  },
+  {
+    "sentence": "この町は亦発展した。",
+    "sentence_furigana": "この町【まち】は亦【また】発展【はってん】した。",
+    "meaning": "This town has also developed."
+  },
+  {
+    "sentence": "彼は亦努力家だ。",
+    "sentence_furigana": "彼【かれ】は亦【また】努力家【どりょくか】だ。",
+    "meaning": "He is also a hard worker."
+  },
+  {
+    "sentence": "その提案は亦面白い。",
+    "sentence_furigana": "その提案【ていあん】は亦【また】面白【おもしろ】い。",
+    "meaning": "That proposal is also interesting."
+  },
+  {
+    "sentence": "彼女は亦才能がある。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】才能【さいのう】がある。",
+    "meaning": "She also has talent."
+  },
+  {
+    "sentence": "私も亦参加できる。",
+    "sentence_furigana": "私【わたし】も亦【また】参加【さんか】できる。",
+    "meaning": "I can also participate."
+  },
+  {
+    "sentence": "この本は亦古い。",
+    "sentence_furigana": "この本【ほん】は亦【また】古【ふる】い。",
+    "meaning": "This book is also old."
+  },
+  {
+    "sentence": "彼は亦教える。",
+    "sentence_furigana": "彼【かれ】は亦【また】教【おし】える。",
+    "meaning": "He also teaches."
+  },
+  {
+    "sentence": "その経験は亦成功した。",
+    "sentence_furigana": "その経験【けいけん】は亦【また】成功【せいこう】した。",
+    "meaning": "That experience also succeeded."
+  },
+  {
+    "sentence": "彼女は亦有名になった。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】有名【ゆうめい】になった。",
+    "meaning": "She also became famous."
+  },
+  {
+    "sentence": "私も亦応援します。",
+    "sentence_furigana": "私【わたし】も亦【また】応援【おうえん】します。",
+    "meaning": "I also support you."
+  },
+  {
+    "sentence": "この映画は亦感動的だ。",
+    "sentence_furigana": "この映画【えいが】は亦【また】感動的【かんどうてき】だ。",
+    "meaning": "This movie is also moving."
+  },
+  {
+    "sentence": "彼は亦弁護士だ。",
+    "sentence_furigana": "彼【かれ】は亦【また】弁護士【べんごし】だ。",
+    "meaning": "He is also a lawyer."
+  },
+  {
+    "sentence": "その件は亦解決した。",
+    "sentence_furigana": "その件【けん】は亦【また】解決【かいけつ】した。",
+    "meaning": "That matter has also been resolved."
+  },
+  {
+    "sentence": "彼女は亦医者だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】医者【いしゃ】だ。",
+    "meaning": "She is also a doctor."
+  },
+  {
+    "sentence": "私も亦楽しかった。",
+    "sentence_furigana": "私【わたし】も亦【また】楽【たの】しかった。",
+    "meaning": "I also had fun."
+  },
+  {
+    "sentence": "この本は亦難しい。",
+    "sentence_furigana": "この本【ほん】は亦【また】難【むずか】しい。",
+    "meaning": "This book is also difficult."
+  },
+  {
+    "sentence": "彼は亦書道をする。",
+    "sentence_furigana": "彼【かれ】は亦【また】書道【しょどう】をする。",
+    "meaning": "He also practices calligraphy."
+  },
+  {
+    "sentence": "そのアイデアは亦実現可能だ。",
+    "sentence_furigana": "そのアイデアは亦【また】実現可能【じつげんかのう】だ。",
+    "meaning": "That idea is also feasible."
+  },
+  {
+    "sentence": "彼女は亦有名になりました。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】有名【ゆうめい】になりました。",
+    "meaning": "She also became famous."
+  },
+  {
+    "sentence": "私も亦同意します。",
+    "sentence_furigana": "私【わたし】も亦【また】同意【どうい】します。",
+    "meaning": "I also agree."
+  },
+  {
+    "sentence": "この映画は亦良い出来だ。",
+    "sentence_furigana": "この映画【えいが】は亦【また】良【よ】い出来【でき】だ。",
+    "meaning": "This movie is also well-made."
+  },
+  {
+    "sentence": "彼は亦英語を学ぶ。",
+    "sentence_furigana": "彼【かれ】は亦【また】英語【えいご】を学【まな】ぶ。",
+    "meaning": "He also learns English."
+  },
+  {
+    "sentence": "その件は亦複雑だ。",
+    "sentence_furigana": "その件【けん】は亦【また】複雑【ふくざつ】だ。",
+    "meaning": "That matter is also complex."
+  },
+  {
+    "sentence": "彼女は亦才能に恵まれている。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "She is also blessed with talent."
+  },
+  {
+    "sentence": "私も亦参加しています。",
+    "sentence_furigana": "私【わたし】も亦【また】参加【さんか】しています。",
+    "meaning": "I am also participating."
+  },
+  {
+    "sentence": "この本は亦貴重だ。",
+    "sentence_furigana": "この本【ほん】は亦【また】貴重【きちょう】だ。",
+    "meaning": "This book is also valuable."
+  },
+  {
+    "sentence": "彼は亦音楽を楽しむ。",
+    "sentence_furigana": "彼【かれ】は亦【また】音楽【おんがく】を楽【たの】しむ。",
+    "meaning": "He also enjoys music."
+  },
+  {
+    "sentence": "そのアイデアは亦斬新だ。",
+    "sentence_furigana": "そのアイデアは亦【また】斬新【ざんしん】だ。",
+    "meaning": "That idea is also novel."
+  },
+  {
+    "sentence": "彼女は亦建築家だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】建築家【けんちくか】だ。",
+    "meaning": "She is also an architect."
+  },
+  {
+    "sentence": "私も亦感動を与える。",
+    "sentence_furigana": "私【わたし】も亦【また】感動【かんどう】を与【あた】える。",
+    "meaning": "I also give inspiration."
+  },
+  {
+    "sentence": "この映画は亦評価が高い。",
+    "sentence_furigana": "この映画【えいが】は亦【また】評価【ひょうか】が高【たか】い。",
+    "meaning": "This movie is also highly rated."
+  },
+  {
+    "sentence": "彼は亦パイロットだ。",
+    "sentence_furigana": "彼【かれ】は亦【また】パイロットだ。",
+    "meaning": "He is also a pilot."
+  },
+  {
+    "sentence": "その件は亦解決の見込みだ。",
+    "sentence_furigana": "その件【けん】は亦【また】解決【かいけつ】の見込【みこ】みだ。",
+    "meaning": "That matter is also expected to be resolved."
+  },
+  {
+    "sentence": "彼女は亦弁護士だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】弁護士【べんごし】だ。",
+    "meaning": "She is also a lawyer."
+  },
+  {
+    "sentence": "私も亦楽しんでおります。",
+    "sentence_furigana": "私【わたし】も亦【また】楽【たの】しんでおります。",
+    "meaning": "I am also enjoying myself."
+  },
+  {
+    "sentence": "この本は亦文学的だ。",
+    "sentence_furigana": "この本【ほん】は亦【また】文学的【ぶんがくてき】だ。",
+    "meaning": "This book is also literary."
+  },
+  {
+    "sentence": "彼は亦写真家だ。",
+    "sentence_furigana": "彼【かれ】は亦【また】写真家【しゃしんか】だ。",
+    "meaning": "He is also a photographer."
+  },
+  {
+    "sentence": "そのアイデアは亦魅力的だ。",
+    "sentence_furigana": "そのアイデアは亦【また】魅力的【みりょくてき】だ。",
+    "meaning": "That idea is also attractive."
+  },
+  {
+    "sentence": "彼女は亦建築家となりました。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】建築家【けんちくか】となりました。",
+    "meaning": "She also became an architect."
+  },
+  {
+    "sentence": "私も亦感動を受けました。",
+    "sentence_furigana": "私【わたし】も亦【また】感動【かんどう】を受【う】けました。",
+    "meaning": "I also received inspiration."
+  },
+  {
+    "sentence": "この映画は亦見ごたえがある。",
+    "sentence_furigana": "この映画【えいが】は亦【また】見【み】ごたえがある。",
+    "meaning": "This movie is also worth watching."
+  },
+  {
+    "sentence": "彼は亦弁護士の資格を持つ。",
+    "sentence_furigana": "彼【かれ】は亦【また】弁護士【べんごし】の資格【しかく】を持【も】つ。",
+    "meaning": "He is also qualified as a lawyer."
+  },
+  {
+    "sentence": "その件は亦解決に向かっている。",
+    "sentence_furigana": "その件【けん】は亦【また】解決【かいけつ】に向【む】かっている。",
+    "meaning": "That matter is also heading towards resolution."
+  },
+  {
+    "sentence": "彼女は亦医者としての経験が豊富だ。",
+    "sentence_furigana": "彼女【かのじょ】は亦【また】医者【いしゃ】としての経験【けいけん】が豊富【ほうふ】だ。",
+    "meaning": "She also has extensive experience as a doctor."
+  },
+  {
+    "sentence": "私も亦楽しんでいる。",
+    "sentence_furigana": "私【わたし】も亦【また】楽【たの】しんでいる。",
+    "meaning": "I am also enjoying it."
+  }
+]

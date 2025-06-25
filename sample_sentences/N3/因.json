@@ -1,0 +1,597 @@
+[
+  {
+    "sentence": "事故の原因を調査中です。",
+    "sentence_furigana": "事故【じこ】の原因【げんいん】を調査中【ちょうさちゅう】です。",
+    "meaning": "We are investigating the cause of the accident."
+  },
+  {
+    "sentence": "この問題の原因は複雑です。",
+    "sentence_furigana": "この問題【もんだい】の原因【げんいん】は複雑【ふくざつ】です。",
+    "meaning": "The cause of this problem is complex."
+  },
+  {
+    "sentence": "その病気は遺伝的要因によるものだ。",
+    "sentence_furigana": "その病気【びょうき】は遺伝的要因【いでんてきよういん】によるものだ。",
+    "meaning": "That illness is due to genetic factors."
+  },
+  {
+    "sentence": "成功は努力に因るところが大きい。",
+    "sentence_furigana": "成功【せいこう】は努力【どりょく】に因【よ】るところが大きい。",
+    "meaning": "Success largely depends on effort."
+  },
+  {
+    "sentence": "彼の遅刻は交通事情に因る。",
+    "sentence_furigana": "彼【かれ】の遅刻【ちこく】は交通事情【こうつうじじょう】に因【よ】る。",
+    "meaning": "His lateness is due to traffic conditions."
+  },
+  {
+    "sentence": "結果はその努力の因数である。",
+    "sentence_furigana": "結果【けっか】はその努力【どりょく】の因数【いんすう】である。",
+    "meaning": "The result is a factor of that effort."
+  },
+  {
+    "sentence": "原因究明が急務となっている。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】が急務【きゅうむ】となっている。",
+    "meaning": "It is urgent to ascertain the cause."
+  },
+  {
+    "sentence": "彼女の成功の因は、彼女の強い意志にある。",
+    "sentence_furigana": "彼女【かのじょ】の成功【せいこう】の因【いん】は、彼女【かのじょ】の強【つよ】い意志【いし】にある。",
+    "meaning": "The cause of her success lies in her strong will."
+  },
+  {
+    "sentence": "この現象の原因を解明しなければならない。",
+    "sentence_furigana": "この現象【げんしょう】の原因【げんいん】を解明【かいめい】しなければならない。",
+    "meaning": "We must clarify the cause of this phenomenon."
+  },
+  {
+    "sentence": "彼らの意見は私の考えに因っている。",
+    "sentence_furigana": "彼【かれ】ら意見【いけん】は私【わたし】考【かんが】に因【よ】っている。",
+    "meaning": "Their opinions depend on my thoughts."
+  },
+  {
+    "sentence": "この計画の成否は、資金調達に因る。",
+    "sentence_furigana": "この計画【けいかく】の成否【せいひ】は、資金調達【しきんちょうたつ】に因【よ】る。",
+    "meaning": "The success or failure of this plan depends on fundraising."
+  },
+  {
+    "sentence": "その事件の背後には、隠された原因がある。",
+    "sentence_furigana": "その事件【じけん】の背後【はいご】には、隠【かく】された原因【げんいん】がある。",
+    "meaning": "There is a hidden cause behind that incident."
+  },
+  {
+    "sentence": "原因不明の病気が流行している。",
+    "sentence_furigana": "原因不明【げんいんふめい】の病気【びょうき】が流行【りゅうこう】している。",
+    "meaning": "A disease of unknown cause is prevalent."
+  },
+  {
+    "sentence": "その成功は多くの要因が因となった。",
+    "sentence_furigana": "その成功【せいこう】は多【おお】くの要因【よういん】が因【よ】った。",
+    "meaning": "The success was due to many factors."
+  },
+  {
+    "sentence": "彼の行動は、その状況に因って決められた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は、その状況【じょうきょう】に因【よ】って決【き】められた。",
+    "meaning": "His actions were determined by the situation."
+  },
+  {
+    "sentence": "この問題の根本原因を探る。",
+    "sentence_furigana": "この問題【もんだい】の根本原因【こんぽんげんいん】を探【さが】る。",
+    "meaning": "Explore the root cause of this problem."
+  },
+  {
+    "sentence": "その変更は、法律の改正に因る。",
+    "sentence_furigana": "その変更【へんこう】は、法律【ほうりつ】の改正【かいせい】に因【よ】る。",
+    "meaning": "The change is due to a revision of the law."
+  },
+  {
+    "sentence": "因果関係を明らかにする。",
+    "sentence_furigana": "因果関係【いんがかんけい】を明【あき】らかにする。",
+    "meaning": "Clarify the causal relationship."
+  },
+  {
+    "sentence": "その植物は日照条件に因って生育が変わる。",
+    "sentence_furigana": "その植物【しょくぶつ】は日照条件【にっしょうじょうけん】に因【よ】って生育【せいいく】が変【か】わる。",
+    "meaning": "The growth of that plant changes depending on the sunlight conditions."
+  },
+  {
+    "sentence": "原因を特定することが重要だ。",
+    "sentence_furigana": "原因【げんいん】を特定【とくてい】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to identify the cause."
+  },
+  {
+    "sentence": "この出来事は偶然に因るものではない。",
+    "sentence_furigana": "この出来事【できごと】は偶然【ぐうぜん】に因【よ】るものではない。",
+    "meaning": "This event is not due to chance."
+  },
+  {
+    "sentence": "要因分析を行い、改善策を講じる。",
+    "sentence_furigana": "要因分析【よういんぶんせき】を行【おこな】い、改善策【かいぜんさく】を講【こう】じる。",
+    "meaning": "Conduct a factor analysis and implement improvement measures."
+  },
+  {
+    "sentence": "原因追及が国民の関心を集めている。",
+    "sentence_furigana": "原因追及【げんいんついきゅう】が国民【こくみん】の関心【かんしん】を集【あつ】めている。",
+    "meaning": "The pursuit of the cause is attracting public attention."
+  },
+  {
+    "sentence": "その流行は経済状況に因る所が大きい。",
+    "sentence_furigana": "その流行【りゅうこう】は経済状況【けいざいじょうきょう】に因【よ】る所が大【おお】きい。",
+    "meaning": "That trend is largely due to economic conditions."
+  },
+  {
+    "sentence": "原因究明に全力で当たります。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に全力【ぜんりょく】で当【あ】たります。",
+    "meaning": "We will do our utmost to ascertain the cause."
+  },
+  {
+    "sentence": "その変化は技術革新に因るものです。",
+    "sentence_furigana": "その変化【へんか】は技術革新【ぎじゅつかくしん】に因【よ】るものです。",
+    "meaning": "That change is due to technological innovation."
+  },
+  {
+    "sentence": "この事故の主な原因は複合的な要因の組み合わせです。",
+    "sentence_furigana": "この事故【じこ】の主【おも】な原因【げんいん】は複合的【ふくごうてき】な要因【よういん】の組【く】み合【あ】わせです。",
+    "meaning": "The main cause of this accident is a combination of complex factors."
+  },
+  {
+    "sentence": "原因を特定でき次第、公表します。",
+    "sentence_furigana": "原因【げんいん】を特定【とくてい】でき次第【しだい】、公表【こうひょう】します。",
+    "meaning": "We will announce the cause as soon as it is identified."
+  },
+  {
+    "sentence": "彼の判断は状況に因って変わる。",
+    "sentence_furigana": "彼【かれ】の判断【はんだん】は状況【じょうきょう】に因【よ】って変【か】わる。",
+    "meaning": "His judgment changes depending on the situation."
+  },
+  {
+    "sentence": "事故原因の究明は、さらなる調査を必要とする。",
+    "sentence_furigana": "事故原因【じこげんいん】の究明【きゅうめい】は、さらなる調査【ちょうさ】を必要【ひつよう】とする。",
+    "meaning": "The investigation of the accident cause requires further research."
+  },
+  {
+    "sentence": "その事件は予期せぬ原因で起こった。",
+    "sentence_furigana": "その事件【じけん】は予期せぬ原因【よきせぬげんいん】で起【お】こった。",
+    "meaning": "The incident occurred due to an unexpected cause."
+  },
+  {
+    "sentence": "この問題の根本的な原因は、教育制度にある。",
+    "sentence_furigana": "この問題【もんだい】の根本的【こんぽんてき】な原因【げんいん】は、教育制度【きょういくせいど】にある。",
+    "meaning": "The fundamental cause of this problem lies in the education system."
+  },
+  {
+    "sentence": "結果は、原因に比例する。",
+    "sentence_furigana": "結果【けっか】は、原因【げんいん】に比例【ひれい】する。",
+    "meaning": "The result is proportional to the cause."
+  },
+  {
+    "sentence": "要因分析は、問題解決の第一歩だ。",
+    "sentence_furigana": "要因分析【よういんぶんせき】は、問題解決【もんだいかいけつ】の第一歩【だいいっぽ】だ。",
+    "meaning": "Factor analysis is the first step in problem-solving."
+  },
+  {
+    "sentence": "原因究明のための委員会が設置された。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため委員会【いいんかい】が設置【せっち】された。",
+    "meaning": "A committee was established to investigate the cause."
+  },
+  {
+    "sentence": "その現象の発生は、特定の要因に因る。",
+    "sentence_furigana": "その現象【げんしょう】の発生【はっせい】は、特定【とくてい】の要因【よういん】に因【よ】る。",
+    "meaning": "The occurrence of that phenomenon is due to specific factors."
+  },
+  {
+    "sentence": "原因究明に協力してください。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に協力【きょうりょく】してください。",
+    "meaning": "Please cooperate in investigating the cause."
+  },
+  {
+    "sentence": "その決定は多くの要因に因って覆された。",
+    "sentence_furigana": "その決定【けってい】は多【おお】くの要因【よういん】に因【よ】って覆【くつがえ】された。",
+    "meaning": "The decision was overturned due to many factors."
+  },
+  {
+    "sentence": "原因を特定するため、詳細な調査が行われた。",
+    "sentence_furigana": "原因【げんいん】を特定【とくてい】するため、詳細【しょうさい】な調査【ちょうさ】が行【おこな】われた。",
+    "meaning": "A detailed investigation was conducted to identify the cause."
+  },
+  {
+    "sentence": "この病気の原因は未だ不明である。",
+    "sentence_furigana": "この病気【びょうき】の原因【げんいん】は未【いま】だ不明【ふめい】である。",
+    "meaning": "The cause of this disease is still unknown."
+  },
+  {
+    "sentence": "成功の要因は、チームワークに因る。",
+    "sentence_furigana": "成功【せいこう】の要因【よういん】は、チームワークに因【よ】る。",
+    "meaning": "The factor of success is due to teamwork."
+  },
+  {
+    "sentence": "原因を究明し、再発防止に努める。",
+    "sentence_furigana": "原因【げんいん】を究明【きゅうめい】し、再発防止【さいはつぼうし】に努【つと】める。",
+    "meaning": "We will investigate the cause and strive to prevent recurrence."
+  },
+  {
+    "sentence": "この問題の原因は人為的な要因だと考えられる。",
+    "sentence_furigana": "この問題【もんだい】の原因【げんいん】は人為的【じんいてき】な要因【よういん】だと考【かんが】えられる。",
+    "meaning": "The cause of this problem is considered to be man-made factors."
+  },
+  {
+    "sentence": "彼の発言は状況に因って解釈が異なる。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は状況【じょうきょう】に因【よ】って解釈【かいしゃく】が異【こと】なる。",
+    "meaning": "The interpretation of his statement differs depending on the situation."
+  },
+  {
+    "sentence": "事故原因究明のための情報提供をお願いします。",
+    "sentence_furigana": "事故原因【じこげんいん】究明【きゅうめい】のため情報提供【じょうほうていきょう】をお願いします。",
+    "meaning": "Please provide information for the investigation of the accident cause."
+  },
+  {
+    "sentence": "その結果は多くの要因に因る。",
+    "sentence_furigana": "その結果【けっか】は多【おお】くの要因【よういん】に因【よ】る。",
+    "meaning": "The result is due to many factors."
+  },
+  {
+    "sentence": "原因分析結果に基づいて対策を講じます。",
+    "sentence_furigana": "原因分析結果【げんいんぶんせきけっか】に基づ【もと】き対策【たいさく】を講【こう】じます。",
+    "meaning": "We will take measures based on the results of the cause analysis."
+  },
+  {
+    "sentence": "原因究明に全力を尽くす。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に全力を尽【ぜんりょく】くす。",
+    "meaning": "We will do our best to ascertain the cause."
+  },
+  {
+    "sentence": "その変化の要因を明らかにする必要がある。",
+    "sentence_furigana": "その変化【へんか】の要因【よういん】を明【あき】らかにする必要【ひつよう】がある。",
+    "meaning": "It is necessary to clarify the factors of that change."
+  },
+  {
+    "sentence": "原因究明のため、関係者への聞き取り調査を実施する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため、関係者【かんけいしゃ】への聞取調査【ききとりちょうさ】を実施【じっし】する。",
+    "meaning": "To investigate the cause, interviews will be conducted with related parties."
+  },
+  {
+    "sentence": "彼の行動は環境要因に因るところが大きい。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は環境要因【かんきょうよういん】に因【よ】るところが大【おお】きい。",
+    "meaning": "His behavior is largely due to environmental factors."
+  },
+  {
+    "sentence": "原因究明は時間のかかる作業だ。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】は時間【じかん】のかかる作業【さぎょう】だ。",
+    "meaning": "Investigating the cause is a time-consuming task."
+  },
+  {
+    "sentence": "この現象の原因は、複数の要因が絡み合っている。",
+    "sentence_furigana": "この現象【げんしょう】の原因【げんいん】は、複数【ふくすう】の要因【よういん】が絡【から】み合【あ】っている。",
+    "meaning": "The cause of this phenomenon is due to multiple intertwined factors."
+  },
+  {
+    "sentence": "その成功は、彼の努力と運に因るところが大きい。",
+    "sentence_furigana": "その成功【せいこう】は、彼【かれ】の努力【どりょく】と運【うん】に因【よ】るところが大【おお】きい。",
+    "meaning": "His success is largely due to his effort and luck."
+  },
+  {
+    "sentence": "原因を特定するための最新技術を導入する。",
+    "sentence_furigana": "原因【げんいん】を特定【とくてい】するため最新技術【さいしんぎじゅつ】を導入【どうにゅう】する。",
+    "meaning": "We will introduce the latest technology to identify the cause."
+  },
+  {
+    "sentence": "原因不明の症状が多発している。",
+    "sentence_furigana": "原因不明【げんいんふめい】の症状【しょうじょう】が多発【たはつ】している。",
+    "meaning": "Many cases of symptoms with unknown causes are occurring."
+  },
+  {
+    "sentence": "その問題の根本原因を突き止める必要がある。",
+    "sentence_furigana": "その問題【もんだい】の根本原因【こんぽんげんいん】を突【つ】き止【と】める必要【ひつよう】がある。",
+    "meaning": "It is necessary to find out the root cause of that problem."
+  },
+  {
+    "sentence": "原因分析と対策立案を並行して行う。",
+    "sentence_furigana": "原因分析【げんいんぶんせき】と対策立案【たいさくりつあん】を並行【へいこう】して行【おこな】う。",
+    "meaning": "We will conduct cause analysis and countermeasures planning in parallel."
+  },
+  {
+    "sentence": "原因究明に向けて、さらなる調査を進めます。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に向【む】け、さらなる調査【ちょうさ】を進【すす】めます。",
+    "meaning": "We will proceed with further investigation towards clarifying the cause."
+  },
+  {
+    "sentence": "その変化は市場の動向に因る。",
+    "sentence_furigana": "その変化【へんか】は市場【しじょう】の動向【どうこう】に因【よ】る。",
+    "meaning": "That change is due to market trends."
+  },
+  {
+    "sentence": "原因を究明し、再発防止策を講じることが不可欠だ。",
+    "sentence_furigana": "原因【げんいん】を究明【きゅうめい】し、再発防止策【さいはつぼうしさく】を講【こう】じることが不可欠【ふかけつ】だ。",
+    "meaning": "It is essential to investigate the cause and implement measures to prevent recurrence."
+  },
+  {
+    "sentence": "この計画の成功は多くの要因に因る。",
+    "sentence_furigana": "この計画【けいかく】の成功【せいこう】は多【おお】くの要因【よういん】に因【よ】る。",
+    "meaning": "The success of this plan is due to many factors."
+  },
+  {
+    "sentence": "原因究明には専門家の協力が必要だ。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】には専門家【せんもんか】の協力【きょうりょく】が必要【ひつよう】だ。",
+    "meaning": "Expert cooperation is necessary for investigating the cause."
+  },
+  {
+    "sentence": "彼の失敗の原因は、準備不足に因る。",
+    "sentence_furigana": "彼【かれ】の失敗【しっぱい】の原因【げんいん】は、準備不足【じゅんびぶそく】に因【よ】る。",
+    "meaning": "The cause of his failure is due to insufficient preparation."
+  },
+  {
+    "sentence": "その事故の原因を徹底的に調査する。",
+    "sentence_furigana": "その事故【じこ】の原因【げんいん】を徹底的【てっていてき】に調査【ちょうさ】する。",
+    "meaning": "We will thoroughly investigate the cause of the accident."
+  },
+  {
+    "sentence": "原因究明のため、現場検証を行う。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため、現場検証【げんばけんしょう】を行【おこな】う。",
+    "meaning": "To investigate the cause, an on-site inspection will be conducted."
+  },
+  {
+    "sentence": "その遅延は悪天候に因るものである。",
+    "sentence_furigana": "その遅延【ちえん】は悪天候【あくてんこう】に因【よ】るものである。",
+    "meaning": "The delay is due to bad weather."
+  },
+  {
+    "sentence": "原因究明には科学的根拠が必要である。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】には科学的根拠【かがくてきこんきょ】が必要【ひつよう】である。",
+    "meaning": "Scientific evidence is necessary for investigating the cause."
+  },
+  {
+    "sentence": "その方針は世論に因って変更された。",
+    "sentence_furigana": "その方針【ほうしん】は世論【せろん】に因【よ】って変更【へんこう】された。",
+    "meaning": "The policy was changed due to public opinion."
+  },
+  {
+    "sentence": "原因究明の結果を速やかに公表する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】の結果【けっか】を速【すみ】やかに公表【こうひょう】する。",
+    "meaning": "We will promptly announce the results of the cause investigation."
+  },
+  {
+    "sentence": "この問題の原因は、個人の能力不足に因るところが大きい。",
+    "sentence_furigana": "この問題【もんだい】の原因【げんいん】は、個人【こじん】の能力不足【のうりょくぶそく】に因【よ】るところが大【おお】きい。",
+    "meaning": "The cause of this problem is largely due to the individual's lack of ability."
+  },
+  {
+    "sentence": "原因究明のために、専門家チームを結成する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため、専門家チーム【せんもんかチーム】を結成【けっせい】する。",
+    "meaning": "An expert team will be formed to investigate the cause."
+  },
+  {
+    "sentence": "その製品の品質は、製造過程の要因に因って左右される。",
+    "sentence_furigana": "その製品【せいひん】の品質【ひんしつ】は、製造過程【せいぞうかてい】の要因【よういん】に因【よ】って左右【さゆう】される。",
+    "meaning": "The quality of that product depends on factors in the manufacturing process."
+  },
+  {
+    "sentence": "原因究明と再発防止策の検討を進める。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】と再発防止策【さいはつぼうしさく】の検討【けんとう】を進【すす】める。",
+    "meaning": "We will proceed with the investigation of the cause and the examination of measures to prevent recurrence."
+  },
+  {
+    "sentence": "その事業の成功要因は、市場のニーズを的確に捉えたことにある。",
+    "sentence_furigana": "その事業【じぎょう】の成功要因【せいこうよういん】は、市場【しじょう】のニーズを的確【てきかく】に捉【とら】えたことにある。",
+    "meaning": "The success factor of that business lies in accurately capturing market needs."
+  },
+  {
+    "sentence": "原因究明に際して、すべての可能性を考慮する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に際【さい】し、全【すべ】ての可能性【かのうせい】を考慮【こうりょ】する。",
+    "meaning": "When investigating the cause, we will consider all possibilities."
+  },
+  {
+    "sentence": "その減少は、経済的要因に因るところが大きい。",
+    "sentence_furigana": "その減少【げんしょう】は、経済的要因【けいざいてきよういん】に因【よ】るところが大【おお】きい。",
+    "meaning": "The decrease is largely due to economic factors."
+  },
+  {
+    "sentence": "原因究明のため、関係資料を収集する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため、関係資料【かんけいしりょう】を収集【しゅうしゅう】する。",
+    "meaning": "To investigate the cause, relevant materials will be collected."
+  },
+  {
+    "sentence": "その出来事の原因は、複雑な要因が絡み合っている。",
+    "sentence_furigana": "その出来事【できごと】の原因【げんいん】は、複雑【ふくざつ】な要因【よういん】が絡【から】み合【あ】っている。",
+    "meaning": "The cause of that event is due to complex intertwined factors."
+  },
+  {
+    "sentence": "原因究明に遺漏がないよう、慎重に進めます。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に遺漏【いろう】がないよう、慎重【しんちょう】に進【すす】めます。",
+    "meaning": "We will proceed carefully to ensure no omissions in the investigation of the cause."
+  },
+  {
+    "sentence": "その成功は、彼の戦略的思考に因るところが大きい。",
+    "sentence_furigana": "その成功【せいこう】は、彼【かれ】の戦略的思考【せんりゃくてきしこう】に因【よ】るところが大【おお】きい。",
+    "meaning": "His success is largely due to his strategic thinking."
+  },
+  {
+    "sentence": "原因究明のための調査報告書を作成する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため調査報告書【ちょうさほうこくしょ】を作成【さくせい】する。",
+    "meaning": "A report on the investigation to clarify the cause will be prepared."
+  },
+  {
+    "sentence": "その変化の主因は、技術革新である。",
+    "sentence_furigana": "その変化【へんか】の主因【しゅいん】は、技術革新【ぎじゅつかくしん】である。",
+    "meaning": "The main cause of that change is technological innovation."
+  },
+  {
+    "sentence": "原因究明にあたり、関係機関と連携する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】にあたり、関係機関【かんけいきかん】と連携【れんけい】する。",
+    "meaning": "When investigating the cause, we will collaborate with relevant organizations."
+  },
+  {
+    "sentence": "その問題の根本的な原因を排除しなければならない。",
+    "sentence_furigana": "その問題【もんだい】の根本的【こんぽんてき】な原因【げんいん】を排除【はいじょ】しなければならない。",
+    "meaning": "The fundamental cause of that problem must be eliminated."
+  },
+  {
+    "sentence": "原因究明のプロセスを透明化する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のプロセスを透明化【とうめいか】する。",
+    "meaning": "We will make the process of clarifying the cause transparent."
+  },
+  {
+    "sentence": "その流行は社会心理的な要因に因っている。",
+    "sentence_furigana": "その流行【りゅうこう】は社会心理的【しゃかいしんりてき】な要因【よういん】に因【よ】っている。",
+    "meaning": "That trend is due to socio-psychological factors."
+  },
+  {
+    "sentence": "原因究明のための証拠を集める。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため証拠【しょうこ】を集【あつ】める。",
+    "meaning": "Collect evidence to investigate the cause."
+  },
+  {
+    "sentence": "この問題の原因は、組織的な要因も含まれる。",
+    "sentence_furigana": "この問題【もんだい】の原因【げんいん】は、組織的【そしきてき】な要因【よういん】も含ま【ふく】れる。",
+    "meaning": "The cause of this problem also includes organizational factors."
+  },
+  {
+    "sentence": "原因究明にあたっては、客観的な視点を重視する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】にあたっては、客観的【きゃっかんてき】な視点【してん】を重視【じゅうし】する。",
+    "meaning": "When investigating the cause, we will emphasize an objective perspective."
+  },
+  {
+    "sentence": "その成功の主な要因は、市場分析力にあった。",
+    "sentence_furigana": "その成功【せいこう】の主【おも】な要因【よういん】は、市場分析力【しじょうぶんせきりょく】にあった。",
+    "meaning": "The main factor of that success was market analysis capability."
+  },
+  {
+    "sentence": "原因究明のための専門知識を習得する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため専門知識【せんもんちしき】を習得【しゅうとく】する。",
+    "meaning": "Acquire specialized knowledge for investigating the cause."
+  },
+  {
+    "sentence": "その製品の性能は、部品の品質に因って決まる。",
+    "sentence_furigana": "その製品【せいひん】の性能【せいのう】は、部品【ぶひん】の品質【ひんしつ】に因【よ】って決【き】まる。",
+    "meaning": "The performance of that product is determined by the quality of its components."
+  },
+  {
+    "sentence": "原因究明の結果を教育に活かす。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】の結果【けっか】を教育【きょういく】に活【い】かす。",
+    "meaning": "Utilize the results of the cause investigation in education."
+  },
+  {
+    "sentence": "その問題の原因は、複合的な要因の相互作用による。",
+    "sentence_furigana": "その問題【もんだい】の原因【げんいん】は、複合的【ふくごうてき】な要因【よういん】の相互作用【そうごさよう】による。",
+    "meaning": "The cause of that problem is due to the interaction of complex factors."
+  },
+  {
+    "sentence": "原因究明に不可欠なデータが不足している。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に不可欠【ふかけつ】なデータが不足【ふそく】している。",
+    "meaning": "Data essential for investigating the cause is insufficient."
+  },
+  {
+    "sentence": "その成功は、多くの要因が複合的に作用した結果である。",
+    "sentence_furigana": "その成功【せいこう】は、多【おお】くの要因【よういん】が複合的【ふくごうてき】に作用【さよう】した結果【けっか】である。",
+    "meaning": "The success is the result of many factors acting in combination."
+  },
+  {
+    "sentence": "原因究明のための新しい手法を開発する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため新【あたら】しい手法【しゅほう】を開発【かいはつ】する。",
+    "meaning": "Develop new methods for investigating the cause."
+  },
+  {
+    "sentence": "その失敗の原因は、市場予測の誤りに因る。",
+    "sentence_furigana": "その失敗【しっぱい】の原因【げんいん】は、市場予測【しじょうよそく】の誤【あやま】りに因【よ】る。",
+    "meaning": "The cause of that failure is due to errors in market forecasting."
+  },
+  {
+    "sentence": "原因究明に役立つ情報を共有する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に役立【やくた】つ情報【じょうほう】を共有【きょうゆう】する。",
+    "meaning": "Share information that is useful for investigating the cause."
+  },
+  {
+    "sentence": "その事件の原因究明は、関係各方面に協力を求めている。",
+    "sentence_furigana": "その事件【じけん】の原因究明【げんいんきゅうめい】は、関係各方面【かんけいかくほうめん】に協力【きょうりょく】を求【もと】めている。",
+    "meaning": "The investigation of the cause of that incident is seeking cooperation from all relevant parties."
+  },
+  {
+    "sentence": "その成功要因の分析を深める。",
+    "sentence_furigana": "その成功要因【せいこうよういん】の分析【ぶんせき】を深【ふか】める。",
+    "meaning": "Deepen the analysis of the success factors."
+  },
+  {
+    "sentence": "原因究明の対象を絞り込む。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】の対象【たいしょう】を絞【しぼ】り込【こ】む。",
+    "meaning": "Narrow down the scope of the cause investigation."
+  },
+  {
+    "sentence": "その変化は、政策変更に因るところが大きい。",
+    "sentence_furigana": "その変化【へんか】は、政策変更【せいさくへんこう】に因【よ】るところが大【おお】きい。",
+    "meaning": "That change is largely due to policy changes."
+  },
+  {
+    "sentence": "原因究明のための専門家による調査団が派遣された。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため専門家【せんもんか】による調査団【ちょうさだん】が派遣【はけん】された。",
+    "meaning": "An expert investigation team was dispatched to clarify the cause."
+  },
+  {
+    "sentence": "その進歩は、継続的な努力の因るところが大きい。",
+    "sentence_furigana": "その進歩【しんぽ】は、継続的【けいぞくてき】な努力【どりょく】の因【よ】るところが大【おお】きい。",
+    "meaning": "That progress is largely due to continuous effort."
+  },
+  {
+    "sentence": "原因究明の透明性を確保する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】の透明性【とうめいせい】を確保【かくほ】する。",
+    "meaning": "Ensure the transparency of the cause investigation."
+  },
+  {
+    "sentence": "その事件の原因究明には、多くの時間を要した。",
+    "sentence_furigana": "その事件【じけん】の原因究明【げんいんきゅうめい】には、多【おお】くの時間【じかん】を要【よう】した。",
+    "meaning": "Investigating the cause of that incident took a lot of time."
+  },
+  {
+    "sentence": "原因究明のため、関係者から事情を聴取する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため、関係者【かんけいしゃ】から事情【じじょう】を聴取【ちょうしゅ】する。",
+    "meaning": "To investigate the cause, the circumstances will be heard from the parties concerned."
+  },
+  {
+    "sentence": "その成功は、戦略的な要因に因るところが大きい。",
+    "sentence_furigana": "その成功【せいこう】は、戦略的【せんりゃくてき】な要因【よういん】に因【よ】るところが大【おお】きい。",
+    "meaning": "That success is largely due to strategic factors."
+  },
+  {
+    "sentence": "原因究明に焦点を当てた研究が行われている。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に焦点【しょうてん】を当【あ】てた研究【けんきゅう】が行【おこな】われている。",
+    "meaning": "Research focused on investigating the cause is being conducted."
+  },
+  {
+    "sentence": "その遅延の主因は、供給網の混乱である。",
+    "sentence_furigana": "その遅延【ちえん】の主因【しゅいん】は、供給網【きょうきゅうもう】の混乱【こんらん】である。",
+    "meaning": "The main cause of that delay is supply chain disruption."
+  },
+  {
+    "sentence": "原因究明に継続的に取り組む。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に継続的【けいぞくてき】に取り組【とりく】む。",
+    "meaning": "We will continuously work on investigating the cause."
+  },
+  {
+    "sentence": "その失敗の原因は、不十分なリスク管理に因った。",
+    "sentence_furigana": "その失敗【しっぱい】の原因【げんいん】は、不十分【ふじゅうぶん】なリスク管理【かんり】に因【よ】った。",
+    "meaning": "The cause of that failure was due to insufficient risk management."
+  },
+  {
+    "sentence": "原因究明のための専門家チームが現地調査を開始した。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため専門家チーム【せんもんかチーム】が現地調査【げんちちょうさ】を開始【かいし】した。",
+    "meaning": "An expert team began an on-site investigation to clarify the cause."
+  },
+  {
+    "sentence": "その向上は、市場の需要増加に因る。",
+    "sentence_furigana": "その向上【こうじょう】は、市場【しじょう】の需要増加【じゅようぞうか】に因【よ】る。",
+    "meaning": "That improvement is due to an increase in market demand."
+  },
+  {
+    "sentence": "原因究明のためのデータを収集し、分析する。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のためデータ【データ】を収集【しゅうしゅう】し、分析【ぶんせき】する。",
+    "meaning": "Collect and analyze data to investigate the cause."
+  },
+  {
+    "sentence": "その現象の根本原因を特定することが急務である。",
+    "sentence_furigana": "その現象【げんしょう】の根本原因【こんぽんげんいん】を特定【とくてい】することが急務【きゅうむ】である。",
+    "meaning": "It is urgent to identify the root cause of that phenomenon."
+  },
+  {
+    "sentence": "原因究明に役立つ新しい技術が開発された。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】に役立【やくた】つ新【あたら】しい技術【ぎじゅつ】が開発【かいはつ】された。",
+    "meaning": "New technology useful for investigating the cause has been developed."
+  }
+]

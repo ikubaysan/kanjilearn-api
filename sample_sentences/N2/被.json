@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "彼はその事故の責任を被った。",
+    "sentence_furigana": "彼【かれ】はその事故【じこ】の責任【せきにん】を被【こうむ】った。",
+    "meaning": "He bore the responsibility for the accident."
+  },
+  {
+    "sentence": "その建物は雪に覆われていた。",
+    "sentence_furigana": "その建物【たてもの】は雪【ゆき】に覆【おお】われていた。",
+    "meaning": "The building was covered in snow."
+  },
+  {
+    "sentence": "彼は白い帽子を被っていた。",
+    "sentence_furigana": "彼【かれ】は白【しろ】い帽子【ぼうし】を被【かぶ】っていた。",
+    "meaning": "He was wearing a white hat."
+  },
+  {
+    "sentence": "夜空には星が輝いていた。",
+    "sentence_furigana": "夜空【よぞら】には星【ほし】が輝【かがや】いていた。",
+    "meaning": "Stars were shining in the night sky."
+  },
+  {
+    "sentence": "彼女は新しいコートを羽織った。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいコートを羽織【お】った。",
+    "meaning": "She put on a new coat."
+  },
+  {
+    "sentence": "その計画は多くの困難に直面した。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの困難【こんなん】に直面【ちょくめん】した。",
+    "meaning": "The plan faced many difficulties."
+  },
+  {
+    "sentence": "彼は国民から尊敬を受けていた。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】から尊敬【そんけい】を受【う】けていた。",
+    "meaning": "He received respect from the people."
+  },
+  {
+    "sentence": "その事件は世間の注目を浴びた。",
+    "sentence_furigana": "その事件【じけん】は世間【せけん】の注目【ちゅうもく】を浴【あ】びた。",
+    "meaning": "The incident attracted public attention."
+  },
+  {
+    "sentence": "彼は批判の矢面に立った。",
+    "sentence_furigana": "彼【かれ】は批判【ひはん】の矢面【やおもて】に立【た】った。",
+    "meaning": "He stood in the line of fire of criticism."
+  },
+  {
+    "sentence": "その地域は洪水の被害を受けた。",
+    "sentence_furigana": "その地域【ちいき】は洪水【こうずい】の被害【ひがい】を受【う】けた。",
+    "meaning": "The region suffered damage from the flood."
+  },
+  {
+    "sentence": "彼女は王冠を被っていた。",
+    "sentence_furigana": "彼女【かのじょ】は王冠【おうかん】を被【かぶ】っていた。",
+    "meaning": "She wore a crown."
+  },
+  {
+    "sentence": "その家は ivy で覆われていた。",
+    "sentence_furigana": "その家【いえ】は ivy で覆【おお】われていた。",
+    "meaning": "The house was covered with ivy."
+  },
+  {
+    "sentence": "彼は罪を被るのを恐れた。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】を被【こうむ】るのを恐【おそ】れた。",
+    "meaning": "He feared incurring guilt."
+  },
+  {
+    "sentence": "その情報は秘密に包まれていた。",
+    "sentence_furigana": "その情報【じょうほう】は秘密【ひみつ】に包【つつ】まれていた。",
+    "meaning": "The information was veiled in secrecy."
+  },
+  {
+    "sentence": "彼は自分の過ちを認めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過【あやま】ちを認【みと】めた。",
+    "meaning": "He admitted his mistake."
+  },
+  {
+    "sentence": "その写真には古い服が写っていた。",
+    "sentence_furigana": "その写真【しゃしん】には古【ふる】い服【ふく】が写【うつ】っていた。",
+    "meaning": "The photograph showed old clothes."
+  },
+  {
+    "sentence": "彼はその店の店長を務めている。",
+    "sentence_furigana": "彼【かれ】はその店【みせ】の店長【てんちょう】を務【つと】めている。",
+    "meaning": "He serves as the manager of that store."
+  },
+  {
+    "sentence": "その小説は多くの読者を魅了した。",
+    "sentence_furigana": "その小説【しょうせつ】は多【おお】くの読者【どくしゃ】を魅了【みりょう】した。",
+    "meaning": "The novel captivated many readers."
+  },
+  {
+    "sentence": "彼はその村のリーダーとして敬意を払われた。",
+    "sentence_furigana": "彼【かれ】はその村【むら】のリーダーとして敬意【けいい】を払【はら】われた。",
+    "meaning": "He was respected as the leader of the village."
+  },
+  {
+    "sentence": "そのフィルムは未公開だった。",
+    "sentence_furigana": "そのフィルムは未公開【みこうかい】だった。",
+    "meaning": "The film was unreleased."
+  },
+  {
+    "sentence": "彼は重い病気を患った。",
+    "sentence_furigana": "彼【かれ】は重【おも】い病気【びょうき】を患【わずら】った。",
+    "meaning": "He suffered from a serious illness."
+  },
+  {
+    "sentence": "その家は壁で覆われていた。",
+    "sentence_furigana": "その家【いえ】は壁【かべ】で覆【おお】われていた。",
+    "meaning": "The house was covered by walls."
+  },
+  {
+    "sentence": "彼は大きな期待を背負っていた。",
+    "sentence_furigana": "彼【かれ】は大き【おお】な期待【きたい】を背負【せお】っていた。",
+    "meaning": "He carried great expectations."
+  },
+  {
+    "sentence": "その秘密は彼女の胸に秘められていた。",
+    "sentence_furigana": "その秘密【ひみつ】は彼女【かのじょ】の胸【むね】に秘【ひ】められていた。",
+    "meaning": "The secret was veiled in her heart."
+  },
+  {
+    "sentence": "彼は真実を隠蔽した。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】を隠蔽【いんぺい】した。",
+    "meaning": "He covered up the truth."
+  },
+  {
+    "sentence": "その新しいソフトウェアは多くの機能を搭載している。",
+    "sentence_furigana": "その新【あたら】しいソフトウェアは多【おお】くの機能【きのう】を搭載【とうさい】している。",
+    "meaning": "The new software carries many features."
+  },
+  {
+    "sentence": "彼は彼の過ちのすべてを償った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の過【あやま】ちのすべてを償【つぐな】った。",
+    "meaning": "He atoned for all his mistakes."
+  },
+  {
+    "sentence": "その作品は芸術的な批評を受けた。",
+    "sentence_furigana": "その作品【さくひん】は芸術的【げいじゅつてき】な批評【ひひょう】を受【う】けた。",
+    "meaning": "The work received artistic criticism."
+  },
+  {
+    "sentence": "彼はその役割を果たすために選ばれた。",
+    "sentence_furigana": "彼【かれ】はその役割【やくわり】を果【は】たすために選【えら】ばれた。",
+    "meaning": "He was chosen to play that role."
+  },
+  {
+    "sentence": "その事件は公表されるべきではなかった。",
+    "sentence_furigana": "その事件【じけん】は公表【こうひょう】されるべきではなかった。",
+    "meaning": "The incident should not have been revealed."
+  },
+  {
+    "sentence": "彼は多くの批判にさらされた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの批判【ひはん】にさらされた。",
+    "meaning": "He was exposed to much criticism."
+  },
+  {
+    "sentence": "その知らせは秘密に包まれたままだった。",
+    "sentence_furigana": "その知【し】らせは秘密【ひみつ】に包【つつ】まれたままだった。",
+    "meaning": "The news remained veiled in secrecy."
+  },
+  {
+    "sentence": "彼は病気を心配していた。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】を心配【しんぱい】していた。",
+    "meaning": "He was worried about the illness."
+  },
+  {
+    "sentence": "その窓はカーテンで覆われていた。",
+    "sentence_furigana": "その窓【まど】はカーテンで覆【おお】われていた。",
+    "meaning": "The window was covered by curtains."
+  },
+  {
+    "sentence": "彼はその地位を受け継いだ。",
+    "sentence_furigana": "彼【かれ】はその地位【ちい】を受【う】け継【つ】いだ。",
+    "meaning": "He inherited that position."
+  },
+  {
+    "sentence": "その計画は多くの障害に直面した。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの障害【しょうがい】に直面【ちょくめん】した。",
+    "meaning": "The plan faced many obstacles."
+  },
+  {
+    "sentence": "彼は運命に翻弄された。",
+    "sentence_furigana": "彼【かれ】は運命【うんめい】に翻弄【ほんろう】された。",
+    "meaning": "He was buffeted by fate."
+  },
+  {
+    "sentence": "その出来事は記憶に深く刻まれた。",
+    "sentence_furigana": "その出来事【できごと】は記憶【きおく】に深【ふか】く刻【きざ】まれた。",
+    "meaning": "The event was deeply imprinted in memory."
+  },
+  {
+    "sentence": "彼は家族を養う責任を負っていた。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】を養【やしな】う責任【せきにん】を負【お】っていた。",
+    "meaning": "He bore the responsibility of supporting his family."
+  },
+  {
+    "sentence": "その都市は霧に包まれていた。",
+    "sentence_furigana": "その都市【とし】は霧【きり】に包【つつ】まれていた。",
+    "meaning": "The city was enveloped in fog."
+  },
+  {
+    "sentence": "彼は白いシャツを着ていた。",
+    "sentence_furigana": "彼【かれ】は白【しろ】いシャツを着【き】ていた。",
+    "meaning": "He was wearing a white shirt."
+  },
+  {
+    "sentence": "その映画は多くの賞を受賞した。",
+    "sentence_furigana": "その映画【えいが】は多【おお】くの賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "The movie received many awards."
+  },
+  {
+    "sentence": "彼はその罪を着せられた。",
+    "sentence_furigana": "彼【かれ】はその罪【つみ】を着【き】せられた。",
+    "meaning": "He was framed for the crime."
+  },
+  {
+    "sentence": "その知らせは驚きに包まれていた。",
+    "sentence_furigana": "その知【し】らせは驚【おどろ】きに包【つつ】まれていた。",
+    "meaning": "The news was veiled in surprise."
+  },
+  {
+    "sentence": "彼は多くの賞賛を受けた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの賞賛【しょうさん】を受【う】けた。",
+    "meaning": "He received much praise."
+  },
+  {
+    "sentence": "その建物は蔦で覆われていた。",
+    "sentence_furigana": "その建物【たてもの】は蔦【つた】で覆【おお】われていた。",
+    "meaning": "The building was covered with ivy."
+  },
+  {
+    "sentence": "彼は運命を受け入れた。",
+    "sentence_furigana": "彼【かれ】は運命【うんめい】を受【う】け入【い】れた。",
+    "meaning": "He accepted his fate."
+  },
+  {
+    "sentence": "その写真が彼の顔を隠していた。",
+    "sentence_furigana": "その写真【しゃしん】が彼【かれ】の顔【かお】を隠【かく】していた。",
+    "meaning": "The photograph covered his face."
+  },
+  {
+    "sentence": "彼はその役目を果たすべく準備した。",
+    "sentence_furigana": "彼【かれ】はその役目【やくめ】を果【は】たすべく準備【じゅんび】した。",
+    "meaning": "He prepared to fulfill that role."
+  },
+  {
+    "sentence": "その情報は厳重に秘匿されていた。",
+    "sentence_furigana": "その情報【じょうほう】は厳重【げんじゅう】に秘匿【ひとく】されていた。",
+    "meaning": "The information was carefully veiled."
+  },
+  {
+    "sentence": "彼は多くの支援を受けた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの支援【しえん】を受【う】けた。",
+    "meaning": "He received much support."
+  },
+  {
+    "sentence": "その古い家は歴史の重みを背負っていた。",
+    "sentence_furigana": "その古【ふる】い家【いえ】は歴史【れきし】の重【おも】みを受【せお】っていた。",
+    "meaning": "The old house carried the weight of history."
+  },
+  {
+    "sentence": "彼は帽子を被り直した。",
+    "sentence_furigana": "彼【かれ】は帽子【ぼうし】を被【かぶ】り直【なお】した。",
+    "meaning": "He put his hat back on."
+  },
+  {
+    "sentence": "そのプロジェクトは多くの困難を経験した。",
+    "sentence_furigana": "そのプロジェクトは多【おお】くの困難【こんなん】を経験【けいけん】した。",
+    "meaning": "The project experienced many difficulties."
+  },
+  {
+    "sentence": "彼はその提案を受け入れた。",
+    "sentence_furigana": "彼【かれ】はそのため案【ていあん】を受【う】け入【い】れた。",
+    "meaning": "He accepted the proposal."
+  },
+  {
+    "sentence": "その情報は慎重に扱われた。",
+    "sentence_furigana": "その情報【じょうほう】は慎重【しんちょう】に扱【あつか】われた。",
+    "meaning": "The information was handled with care."
+  },
+  {
+    "sentence": "彼は多くの期待を背負って生きていた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの期待【きたい】を背負【せお】って生【い】きていた。",
+    "meaning": "He lived carrying many expectations."
+  },
+  {
+    "sentence": "その出来事は彼の人生を大きく変えた。",
+    "sentence_furigana": "その出来事【できごと】は彼【かれ】の人生【じんせい】を大【おお】きく変【か】えた。",
+    "meaning": "That event greatly changed his life."
+  },
+  {
+    "sentence": "彼はその汚名を着せられた。",
+    "sentence_furigana": "彼【かれ】はその汚名【おめい】を着【き】せられた。",
+    "meaning": "He was burdened with that disgrace."
+  },
+  {
+    "sentence": "その件はまだ明らかになっていない。",
+    "sentence_furigana": "その件【けん】はまだ明【あき】らかになっていない。",
+    "meaning": "That matter has not yet been revealed."
+  },
+  {
+    "sentence": "彼はその役割を忠実に果たした。",
+    "sentence_furigana": "彼【かれ】はその役割【やくわり】を忠実【ちゅうじつ】に果【は】たした。",
+    "meaning": "He faithfully fulfilled that role."
+  },
+  {
+    "sentence": "その部屋は厚いカーテンで覆われていた。",
+    "sentence_furigana": "その部屋【へや】は厚【あつ】いカーテンで覆【おお】われていた。",
+    "meaning": "The room was covered by thick curtains."
+  },
+  {
+    "sentence": "彼はその責任を負うことを決意した。",
+    "sentence_furigana": "彼【かれ】は That 責任【せきにん】を負【お】うことを決意【けつい】した。",
+    "meaning": "He decided to bear that responsibility."
+  },
+  {
+    "sentence": "その芸術作品は多くの意味合いを含んでいた。",
+    "sentence_furigana": "その芸術作品【げいじゅつさくひん】は多【おお】くの意味合【いみあい】を含【ふく】んでいた。",
+    "meaning": "The artwork contained many meanings."
+  },
+  {
+    "sentence": "彼はその計画の恩恵を受けた。",
+    "sentence_furigana": "彼【かれ】は That 計画【けいかく】の恩恵【おんけい】を受【う】けた。",
+    "meaning": "He benefited from that plan."
+  },
+  {
+    "sentence": "その秘密は深いベールに包まれていた。",
+    "sentence_furigana": "その秘密【ひみつ】は深【ふか】いベールに包【つつ】まれていた。",
+    "meaning": "The secret was veiled in a deep veil."
+  },
+  {
+    "sentence": "彼はその報告書を受け取った。",
+    "sentence_furigana": "彼【かれ】は That 報告書【ほうこくしょ】を受【う】け取【と】った。",
+    "meaning": "He received that report."
+  },
+  {
+    "sentence": "その結果は予想を覆すものだった。",
+    "sentence_furigana": "その結果【けっか】は予想【よそう】を覆【くつがえ】すものだった。",
+    "meaning": "The result overturned expectations."
+  },
+  {
+    "sentence": "彼は新しい服を身につけた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい服【ふく】を身【み】につけた。",
+    "meaning": "He put on new clothes."
+  },
+  {
+    "sentence": "その会議は多くの課題を抱えていた。",
+    "sentence_furigana": "その会議【かいぎ】は多【おお】くの課題【かだい】を抱【いだ】いていた。",
+    "meaning": "The meeting involved many issues."
+  },
+  {
+    "sentence": "彼はその悲劇の責任を負った。",
+    "sentence_furigana": "彼【かれ】は That 悲劇【ひげき】の責任【せきにん】を負【お】った。",
+    "meaning": "He bore the responsibility for the tragedy."
+  },
+  {
+    "sentence": "その情報はすぐに広まった。",
+    "sentence_furigana": "その情報【じょうほう】はすぐ広【ひろ】まった。",
+    "meaning": "The information spread quickly."
+  },
+  {
+    "sentence": "彼は太陽を遮るものを身につけた。",
+    "sentence_furigana": "彼【かれ】は太陽【たいよう】を遮【さえぎ】るものを身【み】につけた。",
+    "meaning": "He put on something to block the sun."
+  },
+  {
+    "sentence": "その古い写真は思い出を覆い隠していた。",
+    "sentence_furigana": "その古【ふる】い写真【しゃしん】は思【おも】い出【で】を覆【おお】い隠【かく】していた。",
+    "meaning": "The old photograph veiled the memories."
+  },
+  {
+    "sentence": "彼はその申し出を受け入れた。",
+    "sentence_furigana": "彼【かれ】は That 申【もう】し出【で】を受【う】け入【い】れた。",
+    "meaning": "He accepted the offer."
+  },
+  {
+    "sentence": "その法律は国民に影響を与えるだろう。",
+    "sentence_furigana": "その法律【ほうりつ】は国民【こくみん】に影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "The law will affect the people."
+  },
+  {
+    "sentence": "彼はその地位を維持するために奮闘した。",
+    "sentence_furigana": "彼【かれ】は That 地位【ちい】を維持【いじ】するために奮闘【ふんとう】した。",
+    "meaning": "He struggled to maintain that position."
+  },
+  {
+    "sentence": "その問題は多くの議論を呼んだ。",
+    "sentence_furigana": "その問題【もんだい】は多【おお】くの議論【ぎろん】を呼【よ】んだ。",
+    "meaning": "The issue invited much discussion."
+  },
+  {
+    "sentence": "彼はその知らせを待ち望んでいた。",
+    "sentence_furigana": "彼【かれ】は That 知【し】らせを待【ま】ち望【のぞ】んでいた。",
+    "meaning": "He was waiting for that news."
+  },
+  {
+    "sentence": "その建物は緑に覆われていた。",
+    "sentence_furigana": "その建物【たてもの】は緑【みどり】に覆【おお】われていた。",
+    "meaning": "The building was covered in greenery."
+  },
+  {
+    "sentence": "彼はすべての批判を一人で受け止めた。",
+    "sentence_furigana": "彼【かれ】はすべて Not 批判【ひはん】を一人【ひとり】で受【う】け止【と】めた。",
+    "meaning": "He took all the criticism upon himself."
+  },
+  {
+    "sentence": "その秘密は厚いベールに包まれていた。",
+    "sentence_furigana": "その秘密【ひみつ】は厚【あつ】いベールに包【つつ】まれていた。",
+    "meaning": "The secret was shrouded in a thick veil."
+  },
+  {
+    "sentence": "彼はその経験から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】は That 経験【けいけん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned much from that experience."
+  },
+  {
+    "sentence": "そのプロジェクトは多くの課題を抱えることになった。",
+    "sentence_furigana": "そのプロジェクトは多【おお】くの課題【かだい】を抱【いだ】えることになった。",
+    "meaning": "The project came to involve many issues."
+  },
+  {
+    "sentence": "彼はその件についてコメントを控えた。",
+    "sentence_furigana": "彼【かれ】は That 件【けん】についてコメントを控【ひか】えた。",
+    "meaning": "He refrained from commenting on that matter."
+  },
+  {
+    "sentence": "その知らせは彼を動揺させた。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】を動揺【どうよう】させた。",
+    "meaning": "The news agitated him."
+  },
+  {
+    "sentence": "彼は新しいコートを羽織った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいコートを羽織【お】った。",
+    "meaning": "He put on a new coat."
+  },
+  {
+    "sentence": "その写真は顔を覆っていた。",
+    "sentence_furigana": "その写真【しゃしん】は顔【かお】を覆【おお】っていた。",
+    "meaning": "The photograph covered the face."
+  },
+  {
+    "sentence": "彼は多くの苦難を乗り越えた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの苦難【くなん】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame many hardships."
+  },
+  {
+    "sentence": "その芸術は深い意味を帯びていた。",
+    "sentence_furigana": "その芸術【げいじゅつ】は深【ふか】い意味【いみ】を帯【お】びていた。",
+    "meaning": "The art carried a deep meaning."
+  },
+  {
+    "sentence": "彼はその汚名を雪ぐために努力した。",
+    "sentence_furigana": "彼【かれ】は That 汚名【おめい】を雪【すす】ぐために努力【どりょく】した。",
+    "meaning": "He strove to clear his name."
+  },
+  {
+    "sentence": "その情報は秘密裏に扱われた。",
+    "sentence_furigana": "その情報【じょうほう】は秘密裏【ひみつり】に扱【あつか】われた。",
+    "meaning": "The information was handled secretly."
+  },
+  {
+    "sentence": "彼はその計画の恩恵を受けるだろう。",
+    "sentence_furigana": "彼【かれ】は That 計画【けいかく】の恩恵【おんけい】を受【う】けるだろう。",
+    "meaning": "He will benefit from that plan."
+  },
+  {
+    "sentence": "その知らせは驚きに包まれていた。",
+    "sentence_furigana": "その知【し】らせは驚【おどろ】きに包【つつ】まれていた。",
+    "meaning": "The news was veiled in surprise."
+  },
+  {
+    "sentence": "彼は新しい服を着こなしていた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい服【ふく】を着【き】こなしていた。",
+    "meaning": "He wore new clothes stylishly."
+  },
+  {
+    "sentence": "その出来事は多くの人々に影響を与えた。",
+    "sentence_furigana": "その出来事【できごと】は多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "The event affected many people."
+  }
+]

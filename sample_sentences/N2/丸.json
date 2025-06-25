@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "そのボールは丸い。",
+    "sentence_furigana": "そのボールは丸【まる】い。",
+    "meaning": "That ball is round."
+  },
+  {
+    "sentence": "満月が丸く輝いていた。",
+    "sentence_furigana": "満月【まんげつ】が丸【まる】く輝【かがや】いていた。",
+    "meaning": "The full moon shone roundly."
+  },
+  {
+    "sentence": "彼は完璧な仕事を成し遂げた。",
+    "sentence_furigana": "彼【かれ】は完璧【かんぺき】な仕事【しごと】を成【な】し遂【と】げた。",
+    "meaning": "He accomplished a perfect job."
+  },
+  {
+    "sentence": "船が港に丸く入港した。",
+    "sentence_furigana": "船【ふね】が港【みなと】に丸【まる】く入港【にゅうこう】した。",
+    "meaning": "The ship entered the harbor in a curve."
+  },
+  {
+    "sentence": "彼は薬を丸めて飲んだ。",
+    "sentence_furigana": "彼【かれ】は薬【くすり】を丸【まる】めて飲【の】んだ。",
+    "meaning": "He rolled up the medicine and took it."
+  },
+  {
+    "sentence": "彼女は自分の罪を説明して誤魔化した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の罪【つみ】を説明【せつめい】して誤魔化【ごまか】した。",
+    "meaning": "She explained away her crime."
+  },
+  {
+    "sentence": "手紙を丸めてポケットに入れた。",
+    "sentence_furigana": "手紙【てがみ】を丸【まる】めてポケットに入【い】れた。",
+    "meaning": "I rolled up the letter and put it in my pocket."
+  },
+  {
+    "sentence": "猫が丸まって寝ていた。",
+    "sentence_furigana": "猫【ねこ】が丸【まる】まって寝【ね】ていた。",
+    "meaning": "The cat was sleeping curled up."
+  },
+  {
+    "sentence": "彼は彼女を丸め込むのが得意だ。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】を丸【まる】め込【こ】むのが得意【とくい】だ。",
+    "meaning": "He is good at seducing her."
+  },
+  {
+    "sentence": "丸石が川底に沈んでいた。",
+    "sentence_furigana": "丸石【まるいし】が川底【かわぞこ】に沈【しず】んでいた。",
+    "meaning": "A round stone was submerged at the bottom of the river."
+  },
+  {
+    "sentence": "新発売のピルケースは丸い。",
+    "sentence_furigana": "新発売【しんはつばい】のピルケースは丸【まる】い。",
+    "meaning": "The newly released pill case is round."
+  },
+  {
+    "sentence": "彼はその件をうまく丸く収めた。",
+    "sentence_furigana": "彼【かれ】はその件【けん】をうまく丸【まる】く収【おさ】めた。",
+    "meaning": "He smoothed over that matter."
+  },
+  {
+    "sentence": "丸の内はビジネス街です。",
+    "sentence_furigana": "丸【まる】の内【うち】はビジネス街【がい】です。",
+    "meaning": "Marunouchi is a business district."
+  },
+  {
+    "sentence": "丸薬を水で飲み込んだ。",
+    "sentence_furigana": "丸薬【がんやく】を水【みず】で飲【の】み込【こ】んだ。",
+    "meaning": "I swallowed the pill with water."
+  },
+  {
+    "sentence": "満月は大きく丸く見えた。",
+    "sentence_furigana": "満月【まんげつ】は的大【おお】きく丸【まる】く見【み】えた。",
+    "meaning": "The full moon looked big and round."
+  },
+  {
+    "sentence": "彼は目標を完璧に達成した。",
+    "sentence_furigana": "彼【かれ】は目標【もくひょう】を完璧【かんぺき】に達成【たっせい】した。",
+    "meaning": "He achieved his goal perfectly."
+  },
+  {
+    "sentence": "紙を丸めてゴミ箱に入れた。",
+    "sentence_furigana": "紙【かみ】を丸【まる】めてゴミ箱【ばこ】に入【い】れた。",
+    "meaning": "I rolled up the paper and put it in the trash can."
+  },
+  {
+    "sentence": "子犬が毛糸玉に丸まって眠っている。",
+    "sentence_furigana": "子犬【こいぬ】が毛糸玉【けいとだま】に丸【まる】まって眠【ねむ】っている。",
+    "meaning": "The puppy is sleeping curled up in a ball of yarn."
+  },
+  {
+    "sentence": "彼は巧みに説明して状況を丸く収めた。",
+    "sentence_furigana": "彼【かれ】は巧【たく】みに説明【せつめい】して状況【じょうきょう】を丸【まる】く収【おさ】めた。",
+    "meaning": "He skillfully explained and smoothed over the situation."
+  },
+  {
+    "sentence": "丸眼鏡をかけた紳士がいた。",
+    "sentence_furigana": "丸眼鏡【まるめがね】をかけた紳士【しんし】がいた。",
+    "meaning": "There was a gentleman wearing round glasses."
+  },
+  {
+    "sentence": "彼は彼女を説得して丸め込んだ。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】を説得【せっとく】して丸【まる】め込【こ】んだ。",
+    "meaning": "He persuaded her and won her over."
+  },
+  {
+    "sentence": "丸薬を正確に服用してください。",
+    "sentence_furigana": "丸薬【がんやく】を正確【せいかく】に服用【ふくよう】してください。",
+    "meaning": "Please take the pill accurately."
+  },
+  {
+    "sentence": "月の形が満ちて丸くなった。",
+    "sentence_furigana": "月【つき】の形【かたち】が満【み】ちて丸【まる】くなった。",
+    "meaning": "The moon's shape became full and round."
+  },
+  {
+    "sentence": "彼女の笑顔は満点だ。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は満点【まんてん】だ。",
+    "meaning": "Her smile is perfect."
+  },
+  {
+    "sentence": "丸太を運搬している。",
+    "sentence_furigana": "丸太【まるた】を運搬【うんぱん】している。",
+    "meaning": "They are transporting logs."
+  },
+  {
+    "sentence": "紙飛行機を丸めて投げる。",
+    "sentence_furigana": "紙飛行機【かみひこうき】を丸【まる】めて投【な】げる。",
+    "meaning": "Roll up a paper airplane and throw it."
+  },
+  {
+    "sentence": "猫が丸まって眠る姿はかわいい。",
+    "sentence_furigana": "猫【ねこ】が丸【まる】まって眠【ねむ】る姿【すがた】はかわいい。",
+    "meaning": "The sight of a cat sleeping curled up is cute."
+  },
+  {
+    "sentence": "彼は取引を有利に丸く収めた。",
+    "sentence_furigana": "彼【かれ】は取引【とりひき】を有利【ゆうり】に丸【まる】く収【おさ】めた。",
+    "meaning": "He settled the deal advantageously."
+  },
+  {
+    "sentence": "丸い地球儀を回してみよう。",
+    "sentence_furigana": "丸【まる】い地球儀【ちきゅうぎ】を回【まわ】してみよう。",
+    "meaning": "Let's spin the round globe."
+  },
+  {
+    "sentence": "彼は言葉巧みに彼女を丸め込んだ。",
+    "sentence_furigana": "彼【かれ】は言葉巧【ことばたく】みに彼女【かのじょ】を丸【まる】め込【こ】んだ。",
+    "meaning": "He cunningly charmed her."
+  },
+  {
+    "sentence": "この薬は丸い錠剤です。",
+    "sentence_furigana": "この薬【くすり】は丸【まる】い錠剤【じょうざい】です。",
+    "meaning": "This medicine is a round tablet."
+  },
+  {
+    "sentence": "昨夜は満月で空が丸く見えた。",
+    "sentence_furigana": "昨夜【さくや】は満月【まんげつ】で空【そら】が丸【まる】く見【み】えた。",
+    "meaning": "Last night was a full moon, and the sky looked round."
+  },
+  {
+    "sentence": "彼の技術は完璧な域に達している。",
+    "sentence_furigana": "彼【かれ】の技術【ぎじゅつ】は完璧【かんぺき】な域【いき】に達【たっ】している。",
+    "meaning": "His skill has reached perfection."
+  },
+  {
+    "sentence": "丸材を加工して椅子を作る。",
+    "sentence_furigana": "丸材【まるざい】を加工【かこう】して椅子【いす】を作【つく】る。",
+    "meaning": "Process round timber to make chairs."
+  },
+  {
+    "sentence": "パン生地を丸めて焼いた。",
+    "sentence_furigana": "パン生地【きじ】を丸【まる】めて焼【や】いた。",
+    "meaning": "I rolled up the bread dough and baked it."
+  },
+  {
+    "sentence": "仔猫が毛糸の塊に丸まって眠る。",
+    "sentence_furigana": "仔猫【こねこ】が毛糸【けいと】の塊【かたまり】に丸【まる】まって眠【ねむ】る。",
+    "meaning": "The kitten sleeps curled up in a ball of yarn."
+  },
+  {
+    "sentence": "彼は一件落着させて、皆を丸く収めた。",
+    "sentence_furigana": "彼【かれ】は一件落着【いっけんらくちゃく】させて、皆【みな】を丸【まる】く収【おさ】めた。",
+    "meaning": "He settled the matter and appeased everyone."
+  },
+  {
+    "sentence": "丸い石を拾って集めた。",
+    "sentence_furigana": "丸【まる】い石【いし】を拾【ひろ】って集【あつ】めた。",
+    "meaning": "I picked up and collected round stones."
+  },
+  {
+    "sentence": "彼は巧妙に言葉を使い、相手を丸め込んだ。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】に言葉【ことば】を使【つか】い、相手【あいて】を丸【まる】め込【こ】んだ。",
+    "meaning": "He skillfully used words to charm the other person."
+  },
+  {
+    "sentence": "この風邪薬は丸い錠剤です。",
+    "sentence_furigana": "この風邪薬【かぜぐすり】は丸【まる】い錠剤【じょうざい】です。",
+    "meaning": "This cold medicine is a round tablet."
+  },
+  {
+    "sentence": "月は満ちて丸くなる。",
+    "sentence_furigana": "月【つき】は満【み】ちて丸【まる】くなる。",
+    "meaning": "The moon waxes to become round."
+  },
+  {
+    "sentence": "彼の作風は円熟の極みだ。",
+    "sentence_furigana": "彼【かれ】の作風【さくふう】は円熟【えんじゅく】の極【きわ】みだ。",
+    "meaning": "His style is the height of perfection."
+  },
+  {
+    "sentence": "丸太がきれいに積まれている。",
+    "sentence_furigana": "丸太【まるた】がきれいに積【つ】まれている。",
+    "meaning": "Logs are neatly stacked."
+  },
+  {
+    "sentence": "紙を丸めて捨てた。",
+    "sentence_furigana": "紙【かみ】を丸【まる】めて捨【す】てた。",
+    "meaning": "I rolled up the paper and threw it away."
+  },
+  {
+    "sentence": "猫は丸まって寝るのが好きだ。",
+    "sentence_furigana": "猫【ねこ】は丸【まる】まって寝【ね】るのが好【す】きだ。",
+    "meaning": "Cats like to sleep curled up."
+  },
+  {
+    "sentence": "彼はトラブルを穏便に丸く収めた。",
+    "sentence_furigana": "彼【かれ】はトラブルを穏便【おんびん】に丸【まる】く収【おさ】めた。",
+    "meaning": "He calmly resolved the trouble."
+  },
+  {
+    "sentence": "丸いテーブルを囲んで座った。",
+    "sentence_furigana": "丸【まる】いテーブルを囲【かこ】んで座【すわ】った。",
+    "meaning": "We sat around the round table."
+  },
+  {
+    "sentence": "彼は話術で人を丸め込むのがうまい。",
+    "sentence_furigana": "彼【かれ】は話術【わじゅつ】で人【ひと】を丸【まる】め込【こ】むのがうまい。",
+    "meaning": "He is skilled at charming people with his speech."
+  },
+  {
+    "sentence": "このピルは丸くて飲みやすい。",
+    "sentence_furigana": "このピルは丸【まる】くて飲【の】みやすい。",
+    "meaning": "This pill is round and easy to swallow."
+  },
+  {
+    "sentence": "満月が空いっぱいに丸く広がっていた。",
+    "sentence_furigana": "満月【まんげつ】が空【そら】いっぱいに丸【まる】く広【ひろ】がっていた。",
+    "meaning": "The full moon spread roundly across the sky."
+  },
+  {
+    "sentence": "彼の完璧なまでの技術に感動した。",
+    "sentence_furigana": "彼【かれ】の完璧【かんぺき】なまで��技術【ぎじゅつ】に感動【かんどう】した。",
+    "meaning": "I was impressed by his perfect skill."
+  },
+  {
+    "sentence": "丸い石畳の道を進む。",
+    "sentence_furigana": "丸【まる】い石畳【いしだたみ】の道【みち】を進【すす】む。",
+    "meaning": "Proceed along the cobblestone path."
+  },
+  {
+    "sentence": "書類を丸めて封筒に入れた。",
+    "sentence_furigana": "書類【しょるい】を丸【まる】めて封筒【ふうとう】に入【い】れた。",
+    "meaning": "I rolled up the documents and put them in the envelope."
+  },
+  {
+    "sentence": "仔猫が丸まって眠る様子が愛らしい。",
+    "sentence_furigana": "仔猫【こねこ】が丸【まる】まって眠【ねむ】る様子【ようす】が愛【あい】らしい。",
+    "meaning": "The sight of the kitten sleeping curled up is adorable."
+  },
+  {
+    "sentence": "彼は穏便な手段で問題を丸く収めた。",
+    "sentence_furigana": "彼【かれ】は穏便【おんびん】な手段【しゅだん】で問題【もんだい】を丸【まる】く収【おさ】めた。",
+    "meaning": "He resolved the problem amicably."
+  },
+  {
+    "sentence": "丸い形のクッキーを焼いた。",
+    "sentence_furigana": "丸【まる】い形【かたち】のクッキーを焼【や】いた。",
+    "meaning": "I baked round-shaped cookies."
+  },
+  {
+    "sentence": "彼は甘い言葉で彼女を丸め込んだ。",
+    "sentence_furigana": "彼【かれ】は甘【あま】い言葉【ことば】で彼女【かのじょ】を丸【まる】め込【こ】んだ。",
+    "meaning": "He charmed her with sweet words."
+  },
+  {
+    "sentence": "この丸薬は子供でも飲みやすい。",
+    "sentence_furigana": "この丸薬【がんやく】は子供【こども】でも飲【の】みやすい。",
+    "meaning": "This pill is easy for children to take."
+  },
+  {
+    "sentence": "満月が雲の隙間から丸く顔を出した。",
+    "sentence_furigana": "満月【まんげつ】が雲【くも】の隙間【すきま】から丸【まる】く顔【かお】を出【だ】した。",
+    "meaning": "The full moon peeked roundly from between the clouds."
+  },
+  {
+    "sentence": "彼の計画は完璧に実行された。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は完璧【かんぺき】に実行【じっこう】された。",
+    "meaning": "His plan was executed perfectly."
+  },
+  {
+    "sentence": "丸太小屋を建てた。",
+    "sentence_furigana": "丸太小屋【まるたごや】を建【た】てた。",
+    "meaning": "I built a log cabin."
+  },
+  {
+    "sentence": "紙をきれいに丸めて捨てる。",
+    "sentence_furigana": "紙【かみ】をきれいに丸【まる】めて捨【す】てる。",
+    "meaning": "Roll up the paper neatly and throw it away."
+  },
+  {
+    "sentence": "猫は丸くなって寝るのが常である。",
+    "sentence_furigana": "猫【ねこ】は丸【まる】まって寝【ね】るのが常【つね】である。",
+    "meaning": "Cats habitually sleep curled up."
+  },
+  {
+    "sentence": "彼は巧妙な弁舌で事態を丸く収めた。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】な弁舌【べんぜつ】で事態【じたい】を丸【まる】く収【おさ】めた。",
+    "meaning": "He smoothed over the situation with skillful rhetoric."
+  },
+  {
+    "sentence": "丸い鏡が壁にかかっている。",
+    "sentence_furigana": "丸【まる】い鏡【かがみ】が壁【かべ】にかかっている。",
+    "meaning": "A round mirror hangs on the wall."
+  },
+  {
+    "sentence": "彼は巧みな言葉で人を丸め込む名人だ。",
+    "sentence_furigana": "彼【かれ】は巧【たく】みな言葉【ことば】で人【ひと】を丸【まる】め込【こ】む名人【めいじん】だ。",
+    "meaning": "He is a master at charming people with clever words."
+  },
+  {
+    "sentence": "この丸剤は一日に一回服用してください。",
+    "sentence_furigana": "この丸剤【がんざい】は一日【いちにち】に一回【いっかい】服用【ふくよう】してください。",
+    "meaning": "Take this pill once a day."
+  },
+  {
+    "sentence": "満月は夜空に丸く浮かんでいた。",
+    "sentence_furigana": "満月【まんげつ】は夜空【よぞら】に丸【まる】く浮【う】かんでいた。",
+    "meaning": "The full moon floated roundly in the night sky."
+  },
+  {
+    "sentence": "彼の演技は完璧で賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】は完璧【かんぺき】で賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His acting was perfect and worthy of praise."
+  },
+  {
+    "sentence": "丸太を锯って木材にする。",
+    "sentence_furigana": "丸太【まるた】を鋸【のこぎ】って木材【もくざい】にする。",
+    "meaning": "Saw logs into lumber."
+  },
+  {
+    "sentence": "パン生地を丸めて焼く。",
+    "sentence_furigana": "パン生地【きじ】を丸【まる】めて焼【や】く。",
+    "meaning": "Roll up the bread dough and bake it."
+  },
+  {
+    "sentence": "仔猫が丸まって寝ている姿は微笑ましい。",
+    "sentence_furigana": "仔猫【こねこ】が丸【まる】まって寝【ね】ている姿【すがた】は微笑【ほほえ】ましい。",
+    "meaning": "The sight of the kitten sleeping curled up is heartwarming."
+  },
+  {
+    "sentence": "彼は事態を収集して円満に解決した。",
+    "sentence_furigana": "彼【かれ】は事態【じたい】を収集【しゅうしゅう】して円満【えんまん】に解決【かいけつ】した。",
+    "meaning": "He gathered the situation and resolved it amicably."
+  },
+  {
+    "sentence": "丸い穴が開いている。",
+    "sentence_furigana": "丸【まる】い穴【あな】が開【あ】いている。",
+    "meaning": "There is a round hole."
+  },
+  {
+    "sentence": "彼は親切な態度で人を丸め込む。",
+    "sentence_furigana": "彼【かれ】は親切【しんせつ】な態度【たいど】で人【ひと】を丸【まる】め込【こ】む。",
+    "meaning": "He charms people with his kind attitude."
+  },
+  {
+    "sentence": "この丸薬は一日三回服用してください。",
+    "sentence_furigana": "この丸薬【がんやく】は一日【いちにち】三回【さんかい】服用【ふくよう】してください。",
+    "meaning": "Take this pill three times a day."
+  },
+  {
+    "sentence": "満月が丸く輝く夜。",
+    "sentence_furigana": "満月【まんげつ】が丸【まる】く輝【かがや】く夜【よる】。",
+    "meaning": "A night when the full moon shines roundly."
+  },
+  {
+    "sentence": "彼の仕事ぶりは完璧だった。",
+    "sentence_furigana": "彼【かれ】の仕事ぶりは完璧【かんぺき】だった。",
+    "meaning": "His work was perfect."
+  },
+  {
+    "sentence": "丸太を運ぶ作業員たち。",
+    "sentence_furigana": "丸太【まるた】を運【はこ】ぶ作業員【さぎょういん】たち。",
+    "meaning": "Workers carrying logs."
+  },
+  {
+    "sentence": "生地を丸めてパンを作る。",
+    "sentence_furigana": "生地【きじ】を丸【まる】めてパンを製【つく】る。",
+    "meaning": "Roll up the dough to make bread."
+  },
+  {
+    "sentence": "子猫が丸まって、すやすやと寝息を立てている。",
+    "sentence_furigana": "子猫【こねこ】が丸【まる】まって、すやすやと寝息【ねいき】を立【た】てている。",
+    "meaning": "The kitten is sleeping soundly, curled up."
+  },
+  {
+    "sentence": "彼は皆の意見をまとめて円満に収めた。",
+    "sentence_furigana": "彼【かれ】は皆【みな】の意見【いけん】をまとめ��円満【えんまん】に収【おさ】めた。",
+    "meaning": "He summarized everyone's opinions and resolved it amicably."
+  },
+  {
+    "sentence": "丸い穴ぼこを塞ぐ。",
+    "sentence_furigana": "丸【まる】い穴【あな】ぼこを塞【ふさ】ぐ。",
+    "meaning": "To plug a round hole."
+  },
+  {
+    "sentence": "彼は言葉巧みに人を丸め込むのが得意だ。",
+    "sentence_furigana": "彼【かれ】は言葉巧【ことばたく】みに人【ひと】を丸【まる】め込【こ】むのが得意【とくい】だ。",
+    "meaning": "He is good at charming people with clever words."
+  },
+  {
+    "sentence": "この丸薬は一日に二回服用してください。",
+    "sentence_furigana": "この丸薬【がんやく】は一日【いちにち】二回【にかい】服用【ふくよう】してください。",
+    "meaning": "Take this pill twice a day."
+  },
+  {
+    "sentence": "満月が空を丸く照らしていた。",
+    "sentence_furigana": "満月【まんげつ】が空【そら】を丸【まる】く照【て】らしていた。",
+    "meaning": "The full moon illuminated the sky roundly."
+  },
+  {
+    "sentence": "彼のピッチングは完璧だ。",
+    "sentence_furigana": "彼【かれ】のピッチングは完璧【かんぺき】だ。",
+    "meaning": "His pitching is perfect."
+  },
+  {
+    "sentence": "丸太を積み上げて運ぶ。",
+    "sentence_furigana": "丸太【まるた】を積【つ】み上【あ】げて運【はこ】ぶ。",
+    "meaning": "Stack logs and transport them."
+  },
+  {
+    "sentence": "パン生地を丸めて焼く作業。",
+    "sentence_furigana": "パン生地【きじ】を丸【まる】めて焼【や】く作業【さぎょう】。",
+    "meaning": "The process of rolling up and baking bread dough."
+  },
+  {
+    "sentence": "子猫が丸まって安心そうに眠っている。",
+    "sentence_furigana": "子猫【こねこ】が丸【まる】まって安心【あんしん】そうに眠【ねむ】っている。",
+    "meaning": "The kitten is sleeping soundly, looking secure, curled up."
+  },
+  {
+    "sentence": "彼は調停して円満な解決を図った。",
+    "sentence_furigana": "彼【かれ】は調停【ちょうてい】して円満【えんまん】な解決【かいけつ】を図【はか】った。",
+    "meaning": "He mediated and sought an amicable solution."
+  },
+  {
+    "sentence": "丸い窓から光が入る。",
+    "sentence_furigana": "丸【まる】い窓【まど】から光【ひかり】が入【はい】る。",
+    "meaning": "Light enters through the round window."
+  },
+  {
+    "sentence": "彼は持ち前の明るさで周りを丸く収める。",
+    "sentence_furigana": "彼【かれ】は持【も】ち前【まえ】の明【あか】るさで周【まわ】りを丸【まる】く収【おさ】める。",
+    "meaning": "He smooths things over with his natural cheerfulness."
+  },
+  {
+    "sentence": "この丸剤は一日に一度服用してください。",
+    "sentence_furigana": "この丸剤【がんざい】は一日【いちにち】に一度【いちど】服用【ふくよう】してください。",
+    "meaning": "Take this pill once a day."
+  },
+  {
+    "sentence": "丸薬を水で服用する。",
+    "sentence_furigana": "丸薬【がんやく】を水【みず】で服用【ふくよう】する。",
+    "meaning": "Take the pill with water."
+  },
+  {
+    "sentence": "満月は丸く、夜空に美しく輝く。",
+    "sentence_furigana": "満月【まんげつ】は丸【まる】く、夜空【よぞら】に美【うつく】しく輝【かがや】く。",
+    "meaning": "The full moon is round and shines beautifully in the night sky."
+  },
+  {
+    "sentence": "彼の歌声は完璧な音程で響いた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は完璧【かんぺき】な音程【おんてい】で響【ひび】いた。",
+    "meaning": "His singing voice resonated with perfect pitch."
+  },
+  {
+    "sentence": "丸太を運び出す。",
+    "sentence_furigana": "丸太【まるた】を運【はこ】び出【だ】す。",
+    "meaning": "Carry out the logs."
+  }
+]

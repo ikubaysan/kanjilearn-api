@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "この磁石は非常に強力だ。",
+    "sentence_furigana": "この【この】磁石【じしゃく】は非常【ひじょう】に強力【きょうりょく】だ。",
+    "meaning": "This magnet is very powerful."
+  },
+  {
+    "sentence": "磁気テープは古い記録媒体だ。",
+    "sentence_furigana": "磁気【じき】テープは古【ふる】い記録媒体【きろくばいたい】だ。",
+    "meaning": "Magnetic tape is an old recording medium."
+  },
+  {
+    "sentence": "彼女は磁器の皿を割ってしまった。",
+    "sentence_furigana": "彼女【かのじょ】は磁器【じき】の皿【さら】を割【わ】ってしまった。",
+    "meaning": "She broke the porcelain plate."
+  },
+  {
+    "sentence": "磁場は目に見えない力だ。",
+    "sentence_furigana": "磁場【じば】は目【め】に見【み】えない力【ちから】だ。",
+    "meaning": "A magnetic field is an invisible force."
+  },
+  {
+    "sentence": "磁石同士は引き合う。",
+    "sentence_furigana": "磁石【じしゃく】同士【どうし】は引【ひ】き合【あ】う。",
+    "meaning": "Magnets attract each other."
+  },
+  {
+    "sentence": "この磁器はとても美しい。",
+    "sentence_furigana": "この【この】磁器【じき】はとても美【うつく】しい。",
+    "meaning": "This porcelain is very beautiful."
+  },
+  {
+    "sentence": "磁石のN極とS極。",
+    "sentence_furigana": "磁石【じしゃく】のN極【きょく】とS極【きょく】。",
+    "meaning": "The North and South poles of a magnet."
+  },
+  {
+    "sentence": "磁気浮上列車の技術は進んでいる。",
+    "sentence_furigana": "磁気【じき】浮上【ふじょう】列車【れっしゃ】の技術【ぎじゅつ】は進【すす】んでいる。",
+    "meaning": "The technology of maglev trains is advancing."
+  },
+  {
+    "sentence": "彼は磁石のように人を惹きつける。",
+    "sentence_furigana": "彼【かれ】は磁石【じしゃく】のように人【ひと】を惹【ひ】きつける。",
+    "meaning": "He attracts people like a magnet."
+  },
+  {
+    "sentence": "この陶器は磁器製ではない。",
+    "sentence_furigana": "この【この】陶器【とうき】は磁器【じき】製【せい】ではない。",
+    "meaning": "This pottery is not made of porcelain."
+  },
+  {
+    "sentence": "地球には地磁気がある。",
+    "sentence_furigana": "地球【ちきゅう】には地磁気【ちじき】がある。",
+    "meaning": "The Earth has a magnetic field."
+  },
+  {
+    "sentence": "磁石の周りには磁力線が見える。",
+    "sentence_furigana": "磁石【じしゃく】の周【まわ】りには磁力線【じりょくせん】が見【み】える。",
+    "meaning": "Magnetic field lines are visible around a magnet."
+  },
+  {
+    "sentence": "この茶碗は高級な磁器で作られている。",
+    "sentence_furigana": "この【この】茶碗【ちゃわん】は高級【こうきゅう】な磁器【じき】で製【つく】られている。",
+    "meaning": "This teacup is made of high-grade porcelain."
+  },
+  {
+    "sentence": "磁石は鉄を引きつける性質がある。",
+    "sentence_furigana": "磁石【じしゃく】は鉄【てつ】を引【ひ】きつける性質【せいしつ】がある。",
+    "meaning": "Magnets have the property of attracting iron."
+  },
+  {
+    "sentence": "磁化するという現象。",
+    "sentence_furigana": "磁化【じか】するという現象【げんしょう】。",
+    "meaning": "The phenomenon of magnetization."
+  },
+  {
+    "sentence": "彼は電磁石を作った。",
+    "sentence_furigana": "彼【かれ】は電磁石【でんじしゃく】を作【つく】った。",
+    "meaning": "He made an electromagnet."
+  },
+  {
+    "sentence": "磁気記録メディアの進化。",
+    "sentence_furigana": "磁気【じき】記録【きろく】メディアの進化【しんか】。",
+    "meaning": "The evolution of magnetic recording media."
+  },
+  {
+    "sentence": "この磁器人形は繊細な作りだ。",
+    "sentence_furigana": "この【この】磁器【じき】人形【にんぎょう】は繊細【せんさい】な作【つく】りだ。",
+    "meaning": "This porcelain doll has a delicate craftsmanship."
+  },
+  {
+    "sentence": "磁場を読むことはできない。",
+    "sentence_furigana": "磁場【じば】を読【よ】むことはできない。",
+    "meaning": "You cannot read a magnetic field."
+  },
+  {
+    "sentence": "磁石の極性を確認する。",
+    "sentence_furigana": "磁石【じしゃく】の極性【きょくせい】を確認【かくにん】する。",
+    "meaning": "Confirm the polarity of the magnet."
+  },
+  {
+    "sentence": "彼女は磁器のコレクションを自慢していた。",
+    "sentence_furigana": "彼女【かのじょ】は磁器【じき】のコレクションを自慢【じまん】していた。",
+    "meaning": "She was boasting about her porcelain collection."
+  },
+  {
+    "sentence": "磁石の効果は一時的だ。",
+    "sentence_furigana": "磁石【じしゃく】の効果【こうか】は一時的【いちじてき】だ。",
+    "meaning": "The effect of the magnet is temporary."
+  },
+  {
+    "sentence": "磁気嵐が観測された。",
+    "sentence_furigana": "磁気嵐【じきあらし】が観測【かんそく】された。",
+    "meaning": "A magnetic storm was observed."
+  },
+  {
+    "sentence": "磁石は金属に反応する。",
+    "sentence_furigana": "磁石【じしゃく】は金属【きんぞく】に反応【はんのう】する。",
+    "meaning": "Magnets react to metal."
+  },
+  {
+    "sentence": "この磁器にはひびが入っている。",
+    "sentence_furigana": "この【この】磁器【じき】にはひびが入【はい】っている。",
+    "meaning": "This porcelain has a crack."
+  },
+  {
+    "sentence": "磁力計で磁場を測定する。",
+    "sentence_furigana": "磁力計【じりょくけい】で磁場【じば】を測定【そくてい】する。",
+    "meaning": "Measure the magnetic field with a magnetometer."
+  },
+  {
+    "sentence": "彼は磁石に夢中だ。",
+    "sentence_furigana": "彼【かれ】は磁石【じしゃく】に夢中【むちゅう】だ。",
+    "meaning": "He is crazy about magnets."
+  },
+  {
+    "sentence": "磁器の絵付けは繊細だ。",
+    "sentence_furigana": "磁器【じき】の絵付【えつ】けは繊細【せんさい】だ。",
+    "meaning": "The painting on the porcelain is delicate."
+  },
+  {
+    "sentence": "磁石で遊ぶ子供たち。",
+    "sentence_furigana": "磁石【じしゃく】で遊【あそ】ぶ子供【こども】たち。",
+    "meaning": "Children playing with magnets."
+  },
+  {
+    "sentence": "磁気ディスクはデータを保存する。",
+    "sentence_furigana": "磁気【じき】ディスクはデータを保存【ほぞん】する。",
+    "meaning": "Magnetic disks store data."
+  },
+  {
+    "sentence": "このタイルは磁器製です。",
+    "sentence_furigana": "この【この】タイルは磁器【じき】製【せい】です。",
+    "meaning": "This tile is made of porcelain."
+  },
+  {
+    "sentence": "磁石の力を利用した装置。",
+    "sentence_furigana": "磁石【じしゃく】の力【ちから】を利用【りよう】した装置【そうち】。",
+    "meaning": "A device that utilizes magnetic force."
+  },
+  {
+    "sentence": "磁気テープの読み取りエラー。",
+    "sentence_furigana": "磁気【じき】テープの読【よ】み取【と】りエラー。",
+    "meaning": "Magnetic tape read error."
+  },
+  {
+    "sentence": "彼女は磁器のティーセットを持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は磁器【じき】のティーセットを持【も】っていた。",
+    "meaning": "She had a porcelain tea set."
+  },
+  {
+    "sentence": "磁石を近づけると針が動く。",
+    "sentence_furigana": "磁石【じしゃく】を近【ちか】づけると針【はり】が動【うご】く。",
+    "meaning": "When you bring the magnet closer, the needle moves."
+  },
+  {
+    "sentence": "磁場の強さを測る。",
+    "sentence_furigana": "磁場【じば】の強【つよ】さを測【はか】る。",
+    "meaning": "Measure the strength of the magnetic field."
+  },
+  {
+    "sentence": "この磁器の彫刻は素晴らしい。",
+    "sentence_furigana": "この【この】磁器【じき】の彫刻【ちょうこく】は素晴【すば】らしい。",
+    "meaning": "This porcelain sculpture is wonderful."
+  },
+  {
+    "sentence": "磁石がくっつく。",
+    "sentence_furigana": "磁石【じしゃく】がくっつく。",
+    "meaning": "The magnet sticks."
+  },
+  {
+    "sentence": "磁気共鳴画像法は医療に不可欠だ。",
+    "sentence_furigana": "磁気【じき】共鳴【きょうめい】画像法【がぞうほう】は医療【いりょう】に不可欠【ふかけつ】だ。",
+    "meaning": "Magnetic Resonance Imaging is essential for medicine."
+  },
+  {
+    "sentence": "この磁石は弱くなっている。",
+    "sentence_furigana": "この【この】磁石【じしゃく】は弱【よわ】くなっている。",
+    "meaning": "This magnet has become weak."
+  },
+  {
+    "sentence": "磁器の焼き物は高温で焼かれる。",
+    "sentence_furigana": "磁器【じき】の焼【や】き物【もの】は高温【こうおん】で焼【や】かれる。",
+    "meaning": "Porcelain pottery is fired at high temperatures."
+  },
+  {
+    "sentence": "磁石を間違った方向に置いた。",
+    "sentence_furigana": "磁石【じしゃく】を間違【まちが】った方向【ほうこう】に置【お】いた。",
+    "meaning": "I placed the magnet in the wrong direction."
+  },
+  {
+    "sentence": "磁気テープは寿命が短い。",
+    "sentence_furigana": "磁気【じき】テープは寿命【じゅみょう】が短【みじか】い。",
+    "meaning": "Magnetic tape has a short lifespan."
+  },
+  {
+    "sentence": "磁石の原理を学ぶ。",
+    "sentence_furigana": "磁石【じしゃく】の原理【げんり】を学【まな】ぶ。",
+    "meaning": "Learn the principles of magnetism."
+  },
+  {
+    "sentence": "この磁器の模様は手描きです。",
+    "sentence_furigana": "この【この】磁器【じき】の模様【もよう】は手描【てが】きです。",
+    "meaning": "The pattern on this porcelain is hand-drawn."
+  },
+  {
+    "sentence": "磁力は距離とともに弱まる。",
+    "sentence_furigana": "磁力【じりょく】は距離【きょり】とともに弱【よわ】まる。",
+    "meaning": "Magnetic force weakens with distance."
+  },
+  {
+    "sentence": "磁石の磁化を防ぐ。",
+    "sentence_furigana": "磁石【じしゃく】の磁化【じか】を防【ふせ】ぐ。",
+    "meaning": "Prevent the magnetization of the magnet."
+  },
+  {
+    "sentence": "磁器タイルは掃除が簡単だ。",
+    "sentence_furigana": "磁器【じき】タイルは掃除【そうじ】が簡単【かんたん】だ。",
+    "meaning": "Porcelain tiles are easy to clean."
+  },
+  {
+    "sentence": "磁石を冷やすと磁力が失われる。",
+    "sentence_furigana": "磁石【じしゃく】を冷【ひ】やすと磁力【じりょく】が失【うしな】われる。",
+    "meaning": "If you cool a magnet, its magnetism is lost."
+  },
+  {
+    "sentence": "磁気記録方式は多様だ。",
+    "sentence_furigana": "磁気【じき】記録【きろく】方式【ほうしき】は多様【たよう】だ。",
+    "meaning": "Magnetic recording methods are diverse."
+  },
+  {
+    "sentence": "磁石の反発力について学ぶ。",
+    "sentence_furigana": "磁石【じしゃく】の反発力【はんぱつりょく】について学【まな】ぶ。",
+    "meaning": "Learn about the repulsive force of magnets."
+  },
+  {
+    "sentence": "磁器の表面は滑らかだ。",
+    "sentence_furigana": "磁器【じき】の表面【ひょうめん】は滑【なめ】らかだ。",
+    "meaning": "The surface of the porcelain is smooth."
+  },
+  {
+    "sentence": "電磁石のパワーは電流で調整できる。",
+    "sentence_furigana": "電磁石【でんじしゃく】のパワーは電流【でんりゅう】で調整【ちょうせい】できる。",
+    "meaning": "The power of an electromagnet can be adjusted by the current."
+  },
+  {
+    "sentence": "磁石の性質を実験する。",
+    "sentence_furigana": "磁石【じしゃく】の性質【せいしつ】を実験【じっけん】する。",
+    "meaning": "Experiment with the properties of magnets."
+  },
+  {
+    "sentence": "磁気治療は効果があるのか。",
+    "sentence_furigana": "磁気【じき】治療【ちりょう】は効果【こうか】があるのか。",
+    "meaning": "Is magnetic therapy effective?"
+  },
+  {
+    "sentence": "この花瓶は磁器製で重厚感がある。",
+    "sentence_furigana": "この【この】花瓶【かびん】は磁器【じき】製【せい】で重厚感【じゅうこうかん】がある。",
+    "meaning": "This vase is made of porcelain and has a sense of weight."
+  },
+  {
+    "sentence": "磁石を強く叩くと磁力が弱まる。",
+    "sentence_furigana": "磁石【じしゃく】を強【つよ】く叩【たた】くと磁力【じりょく】が弱【よわ】まる。",
+    "meaning": "If you hit a magnet hard, its magnetic force weakens."
+  },
+  {
+    "sentence": "磁気浮上の原理は複雑だ。",
+    "sentence_furigana": "磁気【じき】浮上【ふじょう】の原理【げんり】は複雑【ふくざつ】だ。",
+    "meaning": "The principle of magnetic levitation is complex."
+  },
+  {
+    "sentence": "磁石は鉄粉を集める。",
+    "sentence_furigana": "磁石【じしゃく】は鉄粉【てつぷん】を集【あつ】める。",
+    "meaning": "Magnets gather iron filings."
+  },
+  {
+    "sentence": "磁器の白さは清潔感を与える。",
+    "sentence_furigana": "磁器【じき】の白【しろ】さは清潔感【せいけつかん】を与【あた】える。",
+    "meaning": "The whiteness of porcelain gives a sense of cleanliness."
+  },
+  {
+    "sentence": "磁石の磁極は反対の極を引き合う。",
+    "sentence_furigana": "磁石【じしゃく】の磁極【じきょく】は反対【はんたい】の極【きょく】を引【ひ】き合【あ】う。",
+    "meaning": "The magnetic poles of magnets attract opposite poles."
+  },
+  {
+    "sentence": "磁気ヘッドはデータを読み書きする。",
+    "sentence_furigana": "磁気【じき】ヘッドはデータを読【よ】み書【か】きする。",
+    "meaning": "Magnetic heads read and write data."
+  },
+  {
+    "sentence": "彼女は磁器の置物を飾っていた。",
+    "sentence_furigana": "彼女【かのじょ】は磁器【じき】の置物【おきもの】を飾【かざ】っていた。",
+    "meaning": "She was displaying a porcelain figurine."
+  },
+  {
+    "sentence": "磁石の力が失われました。",
+    "sentence_furigana": "磁石【じしゃく】の力【ちから】が失【うしな】われました。",
+    "meaning": "The magnet has lost its magnetism."
+  },
+  {
+    "sentence": "磁場による影響を調べる。",
+    "sentence_furigana": "磁場【じば】による影響【えいきょう】を調【しら】べる。",
+    "meaning": "Investigate the effects of the magnetic field."
+  },
+  {
+    "sentence": "磁石の周りに鉄粉を撒く。",
+    "sentence_furigana": "磁石【じしゃく】の周【まわ】りに鉄粉【てつぷん】を撒【ま】く。",
+    "meaning": "Sprinkle iron filings around the magnet."
+  },
+  {
+    "sentence": "磁器の製法は複雑だ。",
+    "sentence_furigana": "磁器【じき】の製法【せいほう】は複雑【ふくざつ】だ。",
+    "meaning": "The manufacturing method of porcelain is complex."
+  },
+  {
+    "sentence": "磁石はコンパスの針を動かす。",
+    "sentence_furigana": "磁石【じしゃく】はコンパスの針【はり】を動【うご】かす。",
+    "meaning": "Magnets move the needle of a compass."
+  },
+  {
+    "sentence": "磁気テープドライブのメンテナンス。",
+    "sentence_furigana": "磁気【じき】テープドライブのメンテナンス。",
+    "meaning": "Maintenance of magnetic tape drives."
+  },
+  {
+    "sentence": "彼女は磁器に絵を描いている。",
+    "sentence_furigana": "彼女【かのじょ】は磁器【じき】に絵【え】を描【か】いている。",
+    "meaning": "She is painting on porcelain."
+  },
+  {
+    "sentence": "磁石を強く熱すると磁性が消える。",
+    "sentence_furigana": "磁石【じしゃく】を強【つよ】く熱【ねつ】すると磁性【じせい】が消【き】える。",
+    "meaning": "If you heat a magnet strongly, its magnetism disappears."
+  },
+  {
+    "sentence": "磁場の乱れが観測された。",
+    "sentence_furigana": "磁場【じば】の乱【みだ】れが観測【かんそく】された。",
+    "meaning": "Disturbances in the magnetic field were observed."
+  },
+  {
+    "sentence": "磁石同士を近づける。",
+    "sentence_furigana": "磁石【じしゃく】同士【どうし】を近【ちか】づける。",
+    "meaning": "Bring the magnets closer together."
+  },
+  {
+    "sentence": "磁器の釉薬は美しい光沢を持つ。",
+    "sentence_furigana": "磁器【じき】の釉薬【ゆうやく】は美【うつく】しい光沢【こうたく】を持【も】つ。",
+    "meaning": "The glaze of porcelain has a beautiful luster."
+  },
+  {
+    "sentence": "磁石が壊れてしまった。",
+    "sentence_furigana": "磁石【じしゃく】が壊【こわ】れてしまった。",
+    "meaning": "The magnet broke."
+  },
+  {
+    "sentence": "磁気共鳴を利用した装置。",
+    "sentence_furigana": "磁気【じき】共鳴【きょうめい】を利用【りよう】した装置【そうち】。",
+    "meaning": "A device that utilizes magnetic resonance."
+  },
+  {
+    "sentence": "磁石の極を間違えないように。",
+    "sentence_furigana": "磁石【じしゃく】の極【きょく】を間違【まちが】えないように。",
+    "meaning": "Be careful not to mix up the poles of the magnet."
+  },
+  {
+    "sentence": "磁器の歴史は古い。",
+    "sentence_furigana": "磁器【じき】の歴史【れきし】は古【ふる】い。",
+    "meaning": "The history of porcelain is old."
+  },
+  {
+    "sentence": "磁石の周りに磁力線を描く。",
+    "sentence_furigana": "磁石【じしゃく】の周【まわ】りに磁力線【じりょくせん】を描【えが】く。",
+    "meaning": "Draw magnetic field lines around a magnet."
+  },
+  {
+    "sentence": "磁気記録媒体の性能向上。",
+    "sentence_furigana": "磁気【じき】記録【きろく】媒体【ばいたい】の性能向上【せいのうこうじょう】。",
+    "meaning": "Improvement in the performance of magnetic recording media."
+  },
+  {
+    "sentence": "彼は磁石のような存在だ。",
+    "sentence_furigana": "彼【かれ】は磁石【じしゃく】のような存在【そんざい】だ。",
+    "meaning": "He is a magnetic personality."
+  },
+  {
+    "sentence": "磁器の装飾は豪華だ。",
+    "sentence_furigana": "磁器【じき】の装飾【そうしょく】は豪華【ごうか】だ。",
+    "meaning": "The decoration of the porcelain is luxurious."
+  },
+  {
+    "sentence": "磁石の磁力は一定ではない。",
+    "sentence_furigana": "磁石【じしゃく】の磁力【じりょく】は一定【いってい】ではない。",
+    "meaning": "The magnetic force of a magnet is not constant."
+  },
+  {
+    "sentence": "磁場は宇宙の現象にも関係する。",
+    "sentence_furigana": "磁場【じば】は宇宙【うちゅう】の現象【げんしょう】にも関係【かんけい】する。",
+    "meaning": "Magnetic fields are also related to cosmic phenomena."
+  },
+  {
+    "sentence": "磁石に鉄片がくっついた。",
+    "sentence_furigana": "磁石【じしゃく】に鉄片【てっぺん】がくっついた。",
+    "meaning": "Iron pieces stuck to the magnet."
+  },
+  {
+    "sentence": "磁器の製造工程は難しい。",
+    "sentence_furigana": "磁器【じき】の製造工程【せいぞうこうてい】は難【むずか】しい。",
+    "meaning": "The manufacturing process of porcelain is difficult."
+  },
+  {
+    "sentence": "磁石の極性を確かめる。",
+    "sentence_furigana": "磁石【じしゃく】の極性【きょくせい】を確か【たし】める。",
+    "meaning": "Confirm the polarity of the magnet."
+  },
+  {
+    "sentence": "磁気テープの寿命は短い。",
+    "sentence_furigana": "磁気【じき】テープの寿命【じゅみょう】は短【みじか】い。",
+    "meaning": "The lifespan of magnetic tape is short."
+  },
+  {
+    "sentence": "磁石を強く振ると磁力が低下する。",
+    "sentence_furigana": "磁石【じしゃく】を強【つよ】く振【ふ】ると磁力【じりょく】が低下【ていか】する。",
+    "meaning": "If you shake a magnet strongly, its magnetic force decreases."
+  },
+  {
+    "sentence": "磁気記録媒体の復旧は困難だ。",
+    "sentence_furigana": "磁気【じき】記録【きろく】媒体【ばいたい】の復旧【ふっきゅう】は困難【こんなん】だ。",
+    "meaning": "Recovery of magnetic recording media is difficult."
+  },
+  {
+    "sentence": "磁石の周りには磁力線が存在する。",
+    "sentence_furigana": "磁石【じしゃく】の周【まわ】りには磁力線【じりょくせん】が存在【そんざい】する。",
+    "meaning": "Magnetic field lines exist around a magnet."
+  },
+  {
+    "sentence": "磁器の絵柄は独特だ。",
+    "sentence_furigana": "磁器【じき】の絵柄【えがら】は独特【どくとく】だ。",
+    "meaning": "The pattern of the porcelain is unique."
+  },
+  {
+    "sentence": "磁石の反発を利用する。",
+    "sentence_furigana": "磁石【じしゃく】の反発【はんぱつ】を利用【りよう】する。",
+    "meaning": "Utilize the repulsion of magnets."
+  },
+  {
+    "sentence": "磁気テープのデータが破損した。",
+    "sentence_furigana": "磁気【じき】テープのデータが破損【はそん】した。",
+    "meaning": "The data on the magnetic tape was corrupted."
+  },
+  {
+    "sentence": "磁石の極性は常に同じではない。",
+    "sentence_furigana": "磁石【じしゃく】の極性【きょくせい】は常【つね】に同【おな】じではない。",
+    "meaning": "The polarity of a magnet is not always the same."
+  },
+  {
+    "sentence": "磁石を落としたら割れてしまった。",
+    "sentence_furigana": "磁石【じしゃく】を落【お】としたら割【わ】れてしまった。",
+    "meaning": "The magnet broke when I dropped it."
+  },
+  {
+    "sentence": "磁器の質感は滑らかだ。",
+    "sentence_furigana": "磁器【じき】の質感【しつかん】は滑【なめ】らかだ。",
+    "meaning": "The texture of the porcelain is smooth."
+  },
+  {
+    "sentence": "磁石の働きを理解する。",
+    "sentence_furigana": "磁石【じしゃく】の働【はたら】きを理解【りかい】する。",
+    "meaning": "Understand the function of a magnet."
+  },
+  {
+    "sentence": "磁気嵐の影響で通信障害が発生した。",
+    "sentence_furigana": "磁気嵐【じきあらし】の影響【えいきょう】で通信障害【つうしんしょうがい】が発生【はっせい】した。",
+    "meaning": "Communication failures occurred due to a magnetic storm."
+  },
+  {
+    "sentence": "磁石は金属を探すのに役立つ。",
+    "sentence_furigana": "磁石【じしゃく】は金属【きんぞく】を探【さが】すのに役立【やくた】つ。",
+    "meaning": "Magnets are useful for finding metal."
+  },
+  {
+    "sentence": "磁器の肌触りは良い。",
+    "sentence_furigana": "磁器【じき】の肌触【はださ】わりは良【よ】い。",
+    "meaning": "The feel of the porcelain is good."
+  },
+  {
+    "sentence": "磁石の磁気は永久的ではない。",
+    "sentence_furigana": "磁石【じしゃく】の磁気【じき】は永久的【えいきゅうてき】ではない。",
+    "meaning": "The magnetism of a magnet is not permanent."
+  },
+  {
+    "sentence": "磁場は観測機器に影響を与える。",
+    "sentence_furigana": "磁場【じば】は観測機器【かんそくきき】に影響【えいきょう】を与【あた】える。",
+    "meaning": "Magnetic fields affect observation equipment."
+  },
+  {
+    "sentence": "磁石の吸引力は強い。",
+    "sentence_furigana": "磁石【じしゃく】の吸引力【きゅういんりょく】は強【つよ】い。",
+    "meaning": "The attractive force of the magnet is strong."
+  }
+]

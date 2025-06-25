@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "升に米を一杯入れる。",
+    "sentence_furigana": "升【ます】に米【こめ】を一杯【いっぱい】を入【い】れる。",
+    "meaning": "Put one cup of rice in the measuring box."
+  },
+  {
+    "sentence": "この升は何リットル入りますか。",
+    "sentence_furigana": "この升【ます】は何【なん】リットル入【はい】りますか。",
+    "meaning": "How many liters does this measuring box hold?"
+  },
+  {
+    "sentence": "升に入った酒を飲む。",
+    "sentence_furigana": "升【ます】に入【はい】った酒【さけ】を飲【の】む。",
+    "meaning": "Drink the sake served in a masu (square wooden cup)."
+  },
+  {
+    "sentence": "昔は升で穀物を計量していた。",
+    "sentence_furigana": "昔【むかし】は升【ます】で穀物【こくもつ】を計量【けいりょう】していた。",
+    "meaning": "In the past, grains were measured with a masu."
+  },
+  {
+    "sentence": "升の縁までぴったり一杯にする。",
+    "sentence_furigana": "升【ます】の縁【ふち】までぴったり一杯【いっぱい】にする。",
+    "meaning": "Fill the measuring box right to the brim."
+  },
+  {
+    "sentence": "升に入れた水がこぼれた。",
+    "sentence_furigana": "升【ます】に入【い】れた水【みず】がこぼれた。",
+    "meaning": "The water put into the measuring box spilled."
+  },
+  {
+    "sentence": "升は木でできています。",
+    "sentence_furigana": "升【ます】は木【き】でできています。",
+    "meaning": "The masu is made of wood."
+  },
+  {
+    "sentence": "升一杯の醤油を注ぐ。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の醤油【しょうゆ】を注【そそ】ぐ。",
+    "meaning": "Pour a full measuring box of soy sauce."
+  },
+  {
+    "sentence": "升の目盛りで正確に測る。",
+    "sentence_furigana": "升【ます】の目盛【めも】り で正確【せいかく】に測【はか】る。",
+    "meaning": "Measure accurately with the markings on the masu."
+  },
+  {
+    "sentence": "升酒を味わう。",
+    "sentence_furigana": "升酒【ますざけ】を味わ【あじわ】う。",
+    "meaning": "Savor the sake served in a masu."
+  },
+  {
+    "sentence": "升田さんは新しい企画を提案した。",
+    "sentence_furigana": "升田【ますだ】さんは新【あたら】しい企画【きかく】を提案【ていあん】した。",
+    "meaning": "Mr. Masuda proposed a new plan."
+  },
+  {
+    "sentence": "この升は一合用です。",
+    "sentence_furigana": "この升【ます】は一合【いちごう】用【よう】です。",
+    "meaning": "This masu is for one go (about 0.18 liters)."
+  },
+  {
+    "sentence": "升の底に模様が彫られている。",
+    "sentence_furigana": "升【ます】の底【そこ】に模様【もよう】が彫【ほ】られている。",
+    "meaning": "A pattern is carved on the bottom of the masu."
+  },
+  {
+    "sentence": "升に入ったお米の量を量る。",
+    "sentence_furigana": "升【ます】に入【はい】ったお米【こめ】の量【りょう】を量【はか】る。",
+    "meaning": "Measure the amount of rice in the masu."
+  },
+  {
+    "sentence": "升の形をした箱。",
+    "sentence_furigana": "升【ます】の形【かたち】をした箱【はこ】。",
+    "meaning": "A box shaped like a masu."
+  },
+  {
+    "sentence": "升に水を注ぎ足す。",
+    "sentence_furigana": "升【ます】に水【みず】を注【そそ】ぎ足【た】す。",
+    "meaning": "Add more water to the masu."
+  },
+  {
+    "sentence": "升で小麦粉を計る。",
+    "sentence_furigana": "升【ます】で小麦粉【こむぎこ】を計【はか】る。",
+    "meaning": "Measure flour with a masu."
+  },
+  {
+    "sentence": "升一杯に水を汲む。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】に水【みず】を汲【く】む。",
+    "meaning": "Scoop a full masu of water."
+  },
+  {
+    "sentence": "升の寸法を測る。",
+    "sentence_furigana": "升【ます】の寸法【すんぽう】を測【はか】る。",
+    "meaning": "Measure the dimensions of the masu."
+  },
+  {
+    "sentence": "升に調味料を入れる。",
+    "sentence_furigana": "升【ます】に調味料【ちょうみりょう】を入【い】れる。",
+    "meaning": "Put seasonings in the masu."
+  },
+  {
+    "sentence": "升に入った水の量。",
+    "sentence_furigana": "升【ます】に入【はい】った水【みず】の量【りょう】。",
+    "meaning": "The amount of water in the masu."
+  },
+  {
+    "sentence": "升で量った米の重さ。",
+    "sentence_furigana": "升【ます】で量【はか】った米【こめ】の重【おも】さ。",
+    "meaning": "The weight of rice measured with a masu."
+  },
+  {
+    "sentence": "升に砂を入れる。",
+    "sentence_furigana": "升【ます】に砂【すな】を入【い】れる。",
+    "meaning": "Put sand in the masu."
+  },
+  {
+    "sentence": "升は日本の伝統的な計量器です。",
+    "sentence_furigana": "升【ます】は日本【にほん】の伝統的【でんとうてき】な計量器【けいりょうき】です。",
+    "meaning": "A masu is a traditional Japanese measuring instrument."
+  },
+  {
+    "sentence": "升の中をきれいに洗う。",
+    "sentence_furigana": "升【ます】の中【なか】をきれいに洗【あら】う。",
+    "meaning": "Wash the inside of the masu clean."
+  },
+  {
+    "sentence": "升に描かれた絵。",
+    "sentence_furigana": "升【ます】に描【か】かれた絵【え】。",
+    "meaning": "A picture drawn on the masu."
+  },
+  {
+    "sentence": "升で測った体積。",
+    "sentence_furigana": "升【ます】で測【はか】った体積【たいせき】。",
+    "meaning": "The volume measured with a masu."
+  },
+  {
+    "sentence": "升に水を満たす。",
+    "sentence_furigana": "升【ます】に水【みず】を満【み】たす。",
+    "meaning": "Fill the masu with water."
+  },
+  {
+    "sentence": "升に入れる正確な量。",
+    "sentence_furigana": "升【ます】に入【い】れる正確【せいかく】な量【りょう】。",
+    "meaning": "The exact amount to put in the masu."
+  },
+  {
+    "sentence": "升に入ったお酒は美味しい。",
+    "sentence_furigana": "升【ます】に入【はい】ったお酒【さけ】は美味【おい】しい。",
+    "meaning": "The sake served in a masu is delicious."
+  },
+  {
+    "sentence": "升で計量するのは楽しい。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】するのは楽【たの】しい。",
+    "meaning": "It's fun to measure with a masu."
+  },
+  {
+    "sentence": "升の木材は何ですか。",
+    "sentence_furigana": "升【ます】の木材【もくざい】は何【なん】ですか。",
+    "meaning": "What kind of wood is the masu made of?"
+  },
+  {
+    "sentence": "升に米をこぼさず入れる。",
+    "sentence_furigana": "升【ます】に米【こめ】をこぼさず入【い】れる。",
+    "meaning": "Put rice into the masu without spilling."
+  },
+  {
+    "sentence": "升の容積は何リットルか。",
+    "sentence_furigana": "升【ます】の容積【ようせき】は何【なん】リットルか。",
+    "meaning": "What is the volume of the masu in liters?"
+  },
+  {
+    "sentence": "升に入った水。",
+    "sentence_furigana": "升【ます】に入【はい】った水【みず】。",
+    "meaning": "Water in a masu."
+  },
+  {
+    "sentence": "升で料理の材料を計る。",
+    "sentence_furigana": "升【ます】で料理【りょうり】の材料【ざいりょう】を計【はか】る。",
+    "meaning": "Measure cooking ingredients with a masu."
+  },
+  {
+    "sentence": "升は乾いた状態で保管する。",
+    "sentence_furigana": "升【ます】は乾【かわ】いた状態【じょうたい】で保管【ほかん】する。",
+    "meaning": "Store the masu in a dry condition."
+  },
+  {
+    "sentence": "升に描かれた風景。",
+    "sentence_furigana": "升【ます】に描【か】かれた風景【ふうけい】。",
+    "meaning": "A landscape drawn on the masu."
+  },
+  {
+    "sentence": "升に入った日本酒を乾杯する。",
+    "sentence_furigana": "升【ます】に入【はい】った日本酒【にほんしゅ】を乾杯【かんぱい】する。",
+    "meaning": "Make a toast with Japanese sake served in a masu."
+  },
+  {
+    "sentence": "升で小麦粉をすり切りにする。",
+    "sentence_furigana": "升【ます】で小麦粉【こむぎこ】をすり切【き】りにする。",
+    "meaning": "Level off the flour in the masu."
+  },
+  {
+    "sentence": "升の中のお米の量。",
+    "sentence_furigana": "升【ます】の中【なか】のお米【こめ】の量【りょう】。",
+    "meaning": "The amount of rice in the masu."
+  },
+  {
+    "sentence": "升はお酒を飲むための容器です。",
+    "sentence_furigana": "升【ます】はお酒【さけ】を飲【の】むための容器【ようき】です。",
+    "meaning": "A masu is a container for drinking sake."
+  },
+  {
+    "sentence": "升で計った水の体積。",
+    "sentence_furigana": "升【ます】で計【はか】った水【みず】の体積【たいせき】。",
+    "meaning": "The volume of water measured with a masu."
+  },
+  {
+    "sentence": "升に描かれた伝統的な模様。",
+    "sentence_furigana": "升【ます】に描【か】かれた伝統的【でんとうてき】な模様【もよう】。",
+    "meaning": "Traditional patterns drawn on the masu."
+  },
+  {
+    "sentence": "升に醤油を注ぐ。",
+    "sentence_furigana": "升【ます】に醤油【しょうゆ】を注【そそ】ぐ。",
+    "meaning": "Pour soy sauce into the masu."
+  },
+  {
+    "sentence": "升に入った水は冷たい。",
+    "sentence_furigana": "升【ます】に入【はい】った水【みず】は冷【つめ】たい。",
+    "meaning": "The water in the masu is cold."
+  },
+  {
+    "sentence": "升に米を軽く一杯入れる。",
+    "sentence_furigana": "升【ます】に米【こめ】を軽【かる】く一杯【いっぱい】入【い】れる。",
+    "meaning": "Lightly fill the masu with rice."
+  },
+  {
+    "sentence": "升一杯の水を計る。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の水【みず】を計【はか】る。",
+    "meaning": "Measure a masu full of water."
+  },
+  {
+    "sentence": "升の側面にも模様がある。",
+    "sentence_furigana": "升【ます】の側面【そくめん】にも模様【もよう】がある。",
+    "meaning": "There are also patterns on the sides of the masu."
+  },
+  {
+    "sentence": "升は日本の食文化に欠かせない。",
+    "sentence_furigana": "升【ます】は日本【にほん】の食文化【しょくぶんか】に欠【か】かせない。",
+    "meaning": "Masu are essential to Japanese food culture."
+  },
+  {
+    "sentence": "升に塩を入れる。",
+    "sentence_furigana": "升【ます】に塩【しお】を入【い】れる。",
+    "meaning": "Put salt in the masu."
+  },
+  {
+    "sentence": "升で量った砂糖の量。",
+    "sentence_furigana": "升【ます】で量【はか】った砂糖【さとう】の量【りょう】。",
+    "meaning": "The amount of sugar measured with a masu."
+  },
+  {
+    "sentence": "升一杯の水をこぼさないように運ぶ。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の水【みず】をこぼさないように運【はこ】ぶ。",
+    "meaning": "Carry a masu full of water without spilling."
+  },
+  {
+    "sentence": "升の底に火をつける。",
+    "sentence_furigana": "升【ます】の底【そこ】に火【ひ】をつける。",
+    "meaning": "Light a fire on the bottom of the masu."
+  },
+  {
+    "sentence": "升で計量する習慣。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】する習慣【しゅうかん】。",
+    "meaning": "The custom of measuring with a masu."
+  },
+  {
+    "sentence": "升に描かれた鳥の絵。",
+    "sentence_furigana": "升【ます】に描【か】かれた鳥【とり】の絵【え】。",
+    "meaning": "A picture of a bird drawn on the masu."
+  },
+  {
+    "sentence": "升一杯の味噌を味噌汁に入れる。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の味噌【みそ】を味噌汁【みそしる】に入【い】れる。",
+    "meaning": "Put a full masu of miso into the miso soup."
+  },
+  {
+    "sentence": "升をきれいに拭く。",
+    "sentence_furigana": "升【ます】をきれいに拭【ふ】く。",
+    "meaning": "Wipe the masu clean."
+  },
+  {
+    "sentence": "升に米粉を入れる。",
+    "sentence_furigana": "升【ます】に米粉【こめこ】を入【い】れる。",
+    "meaning": "Put rice flour in the masu."
+  },
+  {
+    "sentence": "升で量った粉の量。",
+    "sentence_furigana": "升【ます】で量【はか】った粉【こな】の量【りょう】。",
+    "meaning": "The amount of flour measured with a masu."
+  },
+  {
+    "sentence": "升に入ったお酒は格別です。",
+    "sentence_furigana": "升【ます】に入【はい】ったお酒【さけ】は格別【かくべつ】です。",
+    "meaning": "The sake served in a masu is exceptional."
+  },
+  {
+    "sentence": "升で計量する際の注意点。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】する際【さい】の注意点【ちゅういてん】。",
+    "meaning": "Points to note when measuring with a masu."
+  },
+  {
+    "sentence": "升の木肌が美しい。",
+    "sentence_furigana": "升【ます】の木肌【きはだ】が美【うつく】しい。",
+    "meaning": "The wood grain of the masu is beautiful."
+  },
+  {
+    "sentence": "升に醤油をこぼした。",
+    "sentence_furigana": "升【ます】に醤油【しょうゆ】をこぼした。",
+    "meaning": "I spilled soy sauce in the masu."
+  },
+  {
+    "sentence": "升一杯の水をこぼさず運ぶ。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の水【みず】をこぼさず運【はこ】ぶ。",
+    "meaning": "Carry a full masu of water without spilling."
+  },
+  {
+    "sentence": "升で計量するのは昔のやり方だ。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】するのは昔【むかし】のやり方【かた】だ。",
+    "meaning": "Measuring with a masu is an old way."
+  },
+  {
+    "sentence": "升に絵を描いて飾る。",
+    "sentence_furigana": "升【ます】に絵【え】を描【か】いて飾【かざ】る。",
+    "meaning": "Draw a picture on the masu and decorate it."
+  },
+  {
+    "sentence": "升で計量した米。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】した米【こめ】。",
+    "meaning": "Rice measured with a masu."
+  },
+  {
+    "sentence": "升一杯の水。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の水【みず】。",
+    "meaning": "A masu full of water."
+  },
+  {
+    "sentence": "升で計量する様子。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】する様子【ようす】。",
+    "meaning": "The way of measuring with a masu."
+  },
+  {
+    "sentence": "升に描かれた花。",
+    "sentence_furigana": "升【ます】に描【か】かれた花【はな】。",
+    "meaning": "Flowers drawn on the masu."
+  },
+  {
+    "sentence": "升で計量する。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】する。",
+    "meaning": "Measure with a masu."
+  },
+  {
+    "sentence": "升に入った調味料。",
+    "sentence_furigana": "升【ます】に入【はい】った調味料【ちょうみりょう】。",
+    "meaning": "Seasonings in the masu."
+  },
+  {
+    "sentence": "升に米を入れる。",
+    "sentence_furigana": "升【ます】に米【こめ】を入【い】れる。",
+    "meaning": "Put rice into the masu."
+  },
+  {
+    "sentence": "升一杯の水を注ぐ。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の水【みず】を注【そそ】ぐ。",
+    "meaning": "Pour a masu full of water."
+  },
+  {
+    "sentence": "升で米を計量する。",
+    "sentence_furigana": "升【ます】で米【こめ】を計量【けいりょう】する。",
+    "meaning": "Measure rice with a masu."
+  },
+  {
+    "sentence": "升の側面。",
+    "sentence_furigana": "升【ます】の側面【そくめん】。",
+    "meaning": "The side of the masu."
+  },
+  {
+    "sentence": "升に入った酒。",
+    "sentence_furigana": "升【ます】に入【はい】った酒【さけ】。",
+    "meaning": "Sake served in a masu."
+  },
+  {
+    "sentence": "升で醤油を計る。",
+    "sentence_furigana": "升【ます】で醤油【しょうゆ】を計【はか】る。",
+    "meaning": "Measure soy sauce with a masu."
+  },
+  {
+    "sentence": "升に米粉を計量する。",
+    "sentence_furigana": "升【ます】に米粉【こめこ】を計量【けいりょう】する。",
+    "meaning": "Measure rice flour with a masu."
+  },
+  {
+    "sentence": "升一杯の味噌。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】の味噌【みそ】。",
+    "meaning": "A masu full of miso."
+  },
+  {
+    "sentence": "升に描かれた山の絵。",
+    "sentence_furigana": "升【ます】に描【か】かれた山【やま】の絵【え】。",
+    "meaning": "A picture of a mountain drawn on the masu."
+  },
+  {
+    "sentence": "升で計量した flour。",
+    "sentence_furigana": "升【ます】で計量【けいりょう】した flour。",
+    "meaning": "Flour measured with a masu."
+  },
+  {
+    "sentence": "升で測った砂糖。",
+    "sentence_furigana": "升【ます】で測【はか】った砂糖【さとう】。",
+    "meaning": "Sugar measured with a masu."
+  },
+  {
+    "sentence": "升の底に絵が描かれている。",
+    "sentence_furigana": "升【ます】の底【そこ】に絵【え】が描【か】かれている。",
+    "meaning": "A picture is drawn on the bottom of the masu."
+  },
+  {
+    "sentence": "升に水を注ぎ入れる。",
+    "sentence_furigana": "升【ます】に水【みず】を注【そそ】ぎ入【い】れる。",
+    "meaning": "Pour water into the masu."
+  },
+  {
+    "sentence": "升で量る。",
+    "sentence_furigana": "升【ます】で量【はか】る。",
+    "meaning": "Measure with a masu."
+  },
+  {
+    "sentence": "升に入った米。",
+    "sentence_furigana": "升【ます】に入【はい】った米【こめ】。",
+    "meaning": "Rice in the masu."
+  },
+  {
+    "sentence": "升に入ったお茶。",
+    "sentence_furigana": "升【ます】に入【はい】ったお茶【ちゃ】。",
+    "meaning": "Tea served in a masu."
+  },
+  {
+    "sentence": "升に入れる。",
+    "sentence_furigana": "升【ます】に入【い】れる。",
+    "meaning": "Put into the masu."
+  },
+  {
+    "sentence": "升一杯。",
+    "sentence_furigana": "升【ます】一杯【いっぱい】。",
+    "meaning": "A full masu."
+  },
+  {
+    "sentence": "升に入った水。",
+    "sentence_furigana": "升【ます】に入【はい】った水【みず】。",
+    "meaning": "Water in the masu."
+  },
+  {
+    "sentence": "升の寸法。",
+    "sentence_furigana": "升【ます】の寸法【すんぽう】。",
+    "meaning": "The dimensions of the masu."
+  },
+  {
+    "sentence": "升で量った。",
+    "sentence_furigana": "升【ます】で量【はか】った。",
+    "meaning": "Measured with a masu."
+  },
+  {
+    "sentence": "升をきれいに。",
+    "sentence_furigana": "升【ます】をきれいに。",
+    "meaning": "Clean the masu."
+  },
+  {
+    "sentence": "升に入れた。",
+    "sentence_furigana": "升【ます】に入【い】れた。",
+    "meaning": "Put into the masu."
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "sentence": "幾らですか。",
+    "sentence_furigana": "幾【いく】らですか。",
+    "meaning": "How much is it?"
+  },
+  {
+    "sentence": "幾つありますか。",
+    "sentence_furigana": "幾【いく】つありますか。",
+    "meaning": "How many are there?"
+  },
+  {
+    "sentence": "幾日か休みを取りたい。",
+    "sentence_furigana": "幾【いく】日【にち】か休【やす】みを取【と】りたい。",
+    "meaning": "I want to take a few days off."
+  },
+  {
+    "sentence": "いくらでもいいです。",
+    "sentence_furigana": "いくらでもいいです。",
+    "meaning": "Anything is fine."
+  },
+  {
+    "sentence": "幾度も同じ間違いを犯した。",
+    "sentence_furigana": "幾【いく】度【ど】も同【おな】じ間違【まちが】いを犯【おか】した。",
+    "meaning": "I made the same mistake many times."
+  },
+  {
+    "sentence": "彼は幾度か旅行したことがある。",
+    "sentence_furigana": "彼【かれ】は幾【いく】度【ど】か旅行【りょこう】したことがあります。",
+    "meaning": "He has traveled several times."
+  },
+  {
+    "sentence": "いくら払えばいいですか。",
+    "sentence_furigana": "いくら払【はら】えばいいですか。",
+    "meaning": "How much should I pay?"
+  },
+  {
+    "sentence": "彼女は幾つかの本を読んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は幾【いく】つかの本【ほん】を読【よ】んでいる。",
+    "meaning": "She is reading several books."
+  },
+  {
+    "sentence": "この品物は幾らですか。",
+    "sentence_furigana": "この品物【しなもの】は幾【いく】らですか。",
+    "meaning": "How much is this item?"
+  },
+  {
+    "sentence": "あと幾日ですか。",
+    "sentence_furigana": "あと幾【いく】日【にち】ですか。",
+    "meaning": "How many more days?"
+  },
+  {
+    "sentence": "幾らでも構いません。",
+    "sentence_furigana": "いくらでも構【かま】いません。",
+    "meaning": "It doesn't matter how much."
+  },
+  {
+    "sentence": "この辺りに幾つかお店がありますか。",
+    "sentence_furigana": "この辺【あた】りに幾【いく】つかお店【みせ】がありますか。",
+    "meaning": "Are there a few shops around here?"
+  },
+  {
+    "sentence": "幾らなら買いますか。",
+    "sentence_furigana": "いくらなら買【か】いますか。",
+    "meaning": "How much would you pay for it?"
+  },
+  {
+    "sentence": "これは幾ら位しますか。",
+    "sentence_furigana": "これは幾【いく】ら位【くら】いしますか。",
+    "meaning": "About how much does this cost?"
+  },
+  {
+    "sentence": "数日後にまた来てください、幾らになるか見ておきます。",
+    "sentence_furigana": "数日【すうじつ】後【ご】にまた来【き】てください、幾【いく】らになるか見て【み】おきます。",
+    "meaning": "Please come again in a few days, and I'll see how much it will be."
+  },
+  {
+    "sentence": "この計画はいくら費用がかかりますか。",
+    "sentence_furigana": "この計画【けいかく】はいくら費用【ひよう】がかかりますか。",
+    "meaning": "How much will this plan cost?"
+  },
+  {
+    "sentence": "人生の時間は幾らもない。",
+    "sentence_furigana": "人生【じんせい】の時間【じかん】は幾【いく】らもない。",
+    "meaning": "There is not much time in life."
+  },
+  {
+    "sentence": "幾らでも応援します。",
+    "sentence_furigana": "いくらでも応援【おうえん】します。",
+    "meaning": "I will support you no matter what."
+  },
+  {
+    "sentence": "幾多の困難を乗り越えてきた。",
+    "sentence_furigana": "幾多【いくた】の困難【こんなん】を乗【の】り越【こ】えてきた。",
+    "meaning": "We have overcome many difficulties."
+  },
+  {
+    "sentence": "幾分か疲れているようだ。",
+    "sentence_furigana": "幾分【いくぶん】か疲【つか】れているようです。",
+    "meaning": "He seems somewhat tired."
+  },
+  {
+    "sentence": "いくら儲かりましたか。",
+    "sentence_furigana": "いくら儲【もう】かりましたか。",
+    "meaning": "How much did you make?"
+  },
+  {
+    "sentence": "彼女は幾つの言語を話せますか。",
+    "sentence_furigana": "彼女【かのじょ】は幾【いく】つかの言語【げんご】を話【はな】せますか。",
+    "meaning": "How many languages can she speak?"
+  },
+  {
+    "sentence": "この本はいくらですか。",
+    "sentence_furigana": "この本【ほん】はいくらですか。",
+    "meaning": "How much is this book?"
+  },
+  {
+    "sentence": "いくらでも好きなだけ食べてください。",
+    "sentence_furigana": "いくらでも好【す】きなだけ食【た】べてください。",
+    "meaning": "Please eat as much as you like."
+  },
+  {
+    "sentence": "幾つかの選択肢があります。",
+    "sentence_furigana": "幾【いく】つかの選択肢【せんたくし】があります。",
+    "meaning": "There are several options."
+  },
+  {
+    "sentence": "いくら時間はかかっても構いません。",
+    "sentence_furigana": "いくら時間【じかん】がかかっても構【かま】いません。",
+    "meaning": "It doesn't matter how long it takes."
+  },
+  {
+    "sentence": "この道はいくら続きますか。",
+    "sentence_furigana": "この道【みち】はいくら続【つづ】きますか。",
+    "meaning": "How far does this road continue?"
+  },
+  {
+    "sentence": "いくら感謝しても足りないくらいです。",
+    "sentence_furigana": "いくら感謝【かんしゃ】しても足【た】りないくらいです。",
+    "meaning": "I can't thank you enough."
+  },
+  {
+    "sentence": "この料理は幾らですか。",
+    "sentence_furigana": "この料理【りょうり】は幾【いく】らですか。",
+    "meaning": "How much is this dish?"
+  },
+  {
+    "sentence": "いくらかお金が必要です。",
+    "sentence_furigana": "いくらかお金【かね】が必要【ひつよう】です。",
+    "meaning": "Some money is needed."
+  },
+  {
+    "sentence": "いくら頑張っても無駄だ。",
+    "sentence_furigana": "いくら頑張【がんば】っても無駄【むだ】だ。",
+    "meaning": "It's useless no matter how hard you try."
+  },
+  {
+    "sentence": "この問題は幾つかの解き方がある。",
+    "sentence_furigana": "この問題【もんだい】は幾【いく】つかの解【と】き方【かた】がある。",
+    "meaning": "There are several ways to solve this problem."
+  },
+  {
+    "sentence": "いくら払うべきか決めかねている。",
+    "sentence_furigana": "いくら払【はら】うべきか決【き】めかねている。",
+    "meaning": "I can't decide how much to pay."
+  },
+  {
+    "sentence": "人生において幾度かの岐路がある。",
+    "sentence_furigana": "人生【じんせい】において幾【いく】度【ど】かの岐路【きろ】がある。",
+    "meaning": "There are several crossroads in life."
+  },
+  {
+    "sentence": "いくら練習しても上達しない。",
+    "sentence_furigana": "いくら練習【れんしゅう】しても上達【じょうたつ】しない。",
+    "meaning": "I don't improve no matter how much I practice."
+  },
+  {
+    "sentence": "この件は幾度も話し合った。",
+    "sentence_furigana": "この件【けん】は幾【いく】度【ど】も話【はな】し合【あ】った。",
+    "meaning": "We discussed this matter many times."
+  },
+  {
+    "sentence": "いくら食べても満腹にならない。",
+    "sentence_furigana": "いくら食【た】べても満腹【まんぷく】にならない。",
+    "meaning": "I never feel full no matter how much I eat."
+  },
+  {
+    "sentence": "この薬はいくらしますか。",
+    "sentence_furigana": "この薬【くすり】はいくらしますか。",
+    "meaning": "How much does this medicine cost?"
+  },
+  {
+    "sentence": "いくら待っても来なかった。",
+    "sentence_furigana": "いくら待【ま】っても来【こ】なかった。",
+    "meaning": "He never came, no matter how long I waited."
+  },
+  {
+    "sentence": "幾つか質問があります。",
+    "sentence_furigana": "幾【いく】つか質問【しつもん】があります。",
+    "meaning": "I have a few questions."
+  },
+  {
+    "sentence": "人生で幾度か大きな決断をした。",
+    "sentence_furigana": "人生【じんせい】で幾【いく】度【ど】か大【おお】きな決断【けつだん】をした。",
+    "meaning": "I made several big decisions in my life."
+  },
+  {
+    "sentence": "いくら払っても構いません。",
+    "sentence_furigana": "いくら払【はら】っても構【かま】いません。",
+    "meaning": "I don't mind paying any amount."
+  },
+  {
+    "sentence": "この品物はいくらくらいですか。",
+    "sentence_furigana": "この品物【しなもの】はいくらくらいですか。",
+    "meaning": "About how much is this item?"
+  },
+  {
+    "sentence": "いくら稼いでもお金が貯まらない。",
+    "sentence_furigana": "いくら稼【かせ】いでもお金【かね】が貯【た】まらない。",
+    "meaning": "I can't save money no matter how much I earn."
+  },
+  {
+    "sentence": "彼は幾度も失敗している。",
+    "sentence_furigana": "彼【かれ】は幾【いく】度【ど】も失敗【しっぱい】している。",
+    "meaning": "He has failed many times."
+  },
+  {
+    "sentence": "いくら話しても理解しない。",
+    "sentence_furigana": "いくら話【はな】しても理解【りかい】しない。",
+    "meaning": "He doesn't understand, no matter how much I talk."
+  },
+  {
+    "sentence": "幾日か続けて雨が降った。",
+    "sentence_furigana": "幾【いく】日【にち】か続【つづ】けて雨【あめ】が降【ふ】った。",
+    "meaning": "It rained for several days."
+  },
+  {
+    "sentence": "いくら時間があっても足りない。",
+    "sentence_furigana": "いくら時間【じかん】があっても足【た】りない。",
+    "meaning": "No matter how much time I have, it's not enough."
+  },
+  {
+    "sentence": "この商品が幾らですか。",
+    "sentence_furigana": "この商品【しょうひん】が幾【いく】らですか。",
+    "meaning": "How much is this product?"
+  },
+  {
+    "sentence": "いくらかの知識はあった。",
+    "sentence_furigana": "いくらかの知識【ちしき】はあった。",
+    "meaning": "I had some knowledge."
+  },
+  {
+    "sentence": "幾つかの理由で遅れました。",
+    "sentence_furigana": "幾【いく】つかの理由【りゆう】で遅【おく】れました。",
+    "meaning": "I was delayed for several reasons."
+  },
+  {
+    "sentence": "いくらで売ってもいいですか。",
+    "sentence_furigana": "いくらで売【う】ってもいいですか。",
+    "meaning": "How much can I sell it for?"
+  },
+  {
+    "sentence": "幾度となく挑戦してきた。",
+    "sentence_furigana": "幾【いく】度【ど】となく挑戦【ちょうせん】してきた。",
+    "meaning": "I have challenged myself many times."
+  },
+  {
+    "sentence": "この車はいくらですか。",
+    "sentence_furigana": "この車【くるま】はいくらですか。",
+    "meaning": "How much is this car?"
+  },
+  {
+    "sentence": "いくら頑張っても結果が出ない。",
+    "sentence_furigana": "いくら頑張【がんば】っても結果【けっか】が出【で】ない。",
+    "meaning": "No matter how hard I try, I don't get results."
+  },
+  {
+    "sentence": "幾つかの点が問題だ。",
+    "sentence_furigana": "幾【いく】つかの点【てん】が問題【もんだい】だ。",
+    "meaning": "Several points are problematic."
+  },
+  {
+    "sentence": "いくらでも良いと彼は言った。",
+    "sentence_furigana": "いくらでも良【よ】いと彼【かれ】は言【い】った。",
+    "meaning": "He said any amount was fine."
+  },
+  {
+    "sentence": "この仕事はいくらぐらいかかりますか。",
+    "sentence_furigana": "この仕事【しごと】はいくらぐらいかかりますか。",
+    "meaning": "About how much will this job cost?"
+  },
+  {
+    "sentence": "幾度かの試練を乗り越えた。",
+    "sentence_furigana": "幾【いく】度【ど】かの試練【しれん】を乗【の】り越【こ】えた。",
+    "meaning": "I overcame several trials."
+  },
+  {
+    "sentence": "いくらかの貯金がある。",
+    "sentence_furigana": "いくらかの貯金【ちょきん】がある。",
+    "meaning": "I have some savings."
+  },
+  {
+    "sentence": "この情報は幾らでも必要だ。",
+    "sentence_furigana": "この情報【じょうほう】はいくらでも必要【ひつよう】だ。",
+    "meaning": "This information is needed no matter how much."
+  },
+  {
+    "sentence": "いくら探しても見つからない。",
+    "sentence_furigana": "いくら探【さが】しても見【み】つからない。",
+    "meaning": "I can't find it no matter how much I search."
+  },
+  {
+    "sentence": "幾つの選択肢があるか教えてください。",
+    "sentence_furigana": "幾【いく】つの選択肢【せんたくし】があるか教【おし】えてください。",
+    "meaning": "Please tell me how many options there are."
+  },
+  {
+    "sentence": "いくらかの人が集まった。",
+    "sentence_furigana": "いくらかの人【ひと】が集【あつ】まった。",
+    "meaning": "Some people gathered."
+  },
+  {
+    "sentence": "彼はいくらかのお金を受け取った。",
+    "sentence_furigana": "彼【かれ】はいくらかのお金【かね】を受【う】け取【と】った。",
+    "meaning": "He received some money."
+  },
+  {
+    "sentence": "いくら努力しても報われない。",
+    "sentence_furigana": "いくら努力【どりょく】しても報【むく】われない。",
+    "meaning": "My efforts are not rewarded no matter how much I try."
+  },
+  {
+    "sentence": "この件について幾度か議論した。",
+    "sentence_furigana": "この件【けん】について幾【いく】度【ど】か議論【ぎろん】した。",
+    "meaning": "We discussed this matter several times."
+  },
+  {
+    "sentence": "いくらでも好きにしてください。",
+    "sentence_furigana": "いくらでも好【す】きにしてください。",
+    "meaning": "Do whatever you like."
+  },
+  {
+    "sentence": "幾日か続けて勉強した。",
+    "sentence_furigana": "幾【いく】日【にち】か続【つづ】けて勉強【べんきょう】した。",
+    "meaning": "I studied for several days in a row."
+  },
+  {
+    "sentence": "いくらかのお金では買えない。",
+    "sentence_furigana": "いくらかのお金【かね】では買【か】えない。",
+    "meaning": "It cannot be bought for any amount of money."
+  },
+  {
+    "sentence": "この距離は幾らぐらいですか。",
+    "sentence_furigana": "この距離【きょり】はいくらぐらいですか。",
+    "meaning": "About how far is this distance?"
+  },
+  {
+    "sentence": "いくら待っても無駄だった。",
+    "sentence_furigana": "いくら待【ま】っても無駄【むだ】だった。",
+    "meaning": "It was useless no matter how long I waited."
+  },
+  {
+    "sentence": "彼はいくつの帽子を持っているか。",
+    "sentence_furigana": "彼【かれ】は幾【いく】つかの帽子【ぼうし】を持【も】っているか。",
+    "meaning": "How many hats does he have?"
+  },
+  {
+    "sentence": "いくらかの人々が集まった。",
+    "sentence_furigana": "いくらかの人々【ひとびと】が集【あつ】まった。",
+    "meaning": "Some people gathered."
+  },
+  {
+    "sentence": "この本はいくらか高くつきます。",
+    "sentence_furigana": "この本【ほん】はいくらか高【たか】くつきます。",
+    "meaning": "This book costs a bit much."
+  },
+  {
+    "sentence": "いくらでも喜んで協力します。",
+    "sentence_furigana": "いくらでも喜【よろこ】んで協力【きょうりょく】します。",
+    "meaning": "I will gladly cooperate no matter how much."
+  },
+  {
+    "sentence": "人生は幾つかの段階を経て進む。",
+    "sentence_furigana": "人生【じんせい】は幾【いく】つかの段階【だんかい】を経【へ】て進【すす】む。",
+    "meaning": "Life progresses through several stages."
+  },
+  {
+    "sentence": "いくら払っても満足しない。",
+    "sentence_furigana": "いくら払【はら】っても満足【まんぞく】しない。",
+    "meaning": "I'm not satisfied no matter how much I pay."
+  },
+  {
+    "sentence": "幾度かこの場所に来たことがある。",
+    "sentence_furigana": "幾【いく】度【ど】かこの場所【ばしょ】に来【き】たことがある。",
+    "meaning": "I have been to this place several times."
+  },
+  {
+    "sentence": "いくらかの費用が見込まれる。",
+    "sentence_furigana": "いくらかの費用【ひよう】が見込【みこ】まれる。",
+    "meaning": "Some expenses are expected."
+  },
+  {
+    "sentence": "この時間はいくらでも自由に使っていい。",
+    "sentence_furigana": "この時間【じかん】はいくらでも自由【じゆう】に使【つか】っていい。",
+    "meaning": "You can use this time however you want."
+  },
+  {
+    "sentence": "いくら感謝しても足りない。",
+    "sentence_furigana": "いくら感謝【かんしゃ】しても足【た】りない。",
+    "meaning": "No matter how much I thank you, it's not enough."
+  },
+  {
+    "sentence": "この山は幾つかの峰を持つ。",
+    "sentence_furigana": "この山【やま】は幾【いく】つかの峰【みね】を持【も】つ。",
+    "meaning": "This mountain has several peaks."
+  },
+  {
+    "sentence": "いくら払うか決まらない。",
+    "sentence_furigana": "いくら払【はら】うか決【き】まらない。",
+    "meaning": "It's not decided how much to pay."
+  },
+  {
+    "sentence": "この問題には幾つかの解決策がある。",
+    "sentence_furigana": "この問題【もんだい】には幾【いく】つかの解決策【かいけつさく】がある。",
+    "meaning": "There are several solutions to this problem."
+  },
+  {
+    "sentence": "いくらかのお金では買えない価値がある。",
+    "sentence_furigana": "いくらかのお金【かね】では買【か】えない価値【かち】がある。",
+    "meaning": "It has a value that cannot be bought with any amount of money."
+  },
+  {
+    "sentence": "幾度か彼の助けを借りた。",
+    "sentence_furigana": "幾【いく】度【ど】か彼【かれ】の助【たす】けを借【か】りた。",
+    "meaning": "I borrowed his help several times."
+  },
+  {
+    "sentence": "この件で幾度か話し合いを持った。",
+    "sentence_furigana": "この件【けん】で幾【いく】度【ど】か話【はな】し合【あ】いを持【も】った。",
+    "meaning": "I had several discussions about this matter."
+  },
+  {
+    "sentence": "いくらあれば十分ですか。",
+    "sentence_furigana": "いくらあれば十分【じゅうぶん】ですか。",
+    "meaning": "How much is enough?"
+  },
+  {
+    "sentence": "この作品は幾らでも見る価値がある。",
+    "sentence_furigana": "この作品【さくひん】はいくらでも見【み】る価値【かち】がある。",
+    "meaning": "This work is worth seeing no matter how much."
+  }
+]

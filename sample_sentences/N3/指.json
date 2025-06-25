@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "指が痛いので病院に行きました。",
+    "sentence_furigana": "指【ゆび】が痛【いた】いので病院【びょういん】に行【い】きました。",
+    "meaning": "My finger hurts, so I went to the hospital."
+  },
+  {
+    "sentence": "彼は指で地図を指しました。",
+    "sentence_furigana": "彼【かれ】は指【ゆび】で地図【ちず】を指【さ】しました。",
+    "meaning": "He pointed to the map with his finger."
+  },
+  {
+    "sentence": "彼女は私に何かを指示しました。",
+    "sentence_furigana": "彼女【かのじょ】は私【わたし】に何【なに】かを指示【しじ】しました。",
+    "meaning": "She gave me some instructions."
+  },
+  {
+    "sentence": "指輪を薬指にはめた。",
+    "sentence_furigana": "指【ゆび】輪【わ】を薬指【くすりゆび】にはめた。",
+    "meaning": "I put the ring on my ring finger."
+  },
+  {
+    "sentence": "先生が黒板を指差して説明しました。",
+    "sentence_furigana": "先生【せんせい】が黒板【こくばん】を指差【ゆびさ】して説明【せつめい】しました。",
+    "meaning": "The teacher pointed to the blackboard and explained."
+  },
+  {
+    "sentence": "指先が冷たいです。",
+    "sentence_furigana": "指先【ゆびさき】が冷【つめ】たいです。",
+    "meaning": "My fingertips are cold."
+  },
+  {
+    "sentence": "彼は忙しくて指一本貸す余裕がない。",
+    "sentence_furigana": "彼【かれ】は忙【いそが】しくて指【ゆび】一本【いっぽん】貸【か】す余裕【よゆう】がない。",
+    "meaning": "He is so busy that he doesn't have time to lend a finger."
+  },
+  {
+    "sentence": "指圧は体の不調を改善する効果がある。",
+    "sentence_furigana": "指圧【しあつ】は体【からだ】の不調【ふちょう】を改善【かいぜん】する効果【こうか】がある。",
+    "meaning": "Acupressure has the effect of improving physical discomfort."
+  },
+  {
+    "sentence": "指紋認証でロックを解除しました。",
+    "sentence_furigana": "指紋【しもん】認証【にんしょう】でロックを解除【かいじょ】しました。",
+    "meaning": "I unlocked it using fingerprint authentication."
+  },
+  {
+    "sentence": "指図されるのは好きではない。",
+    "sentence_furigana": "指図【さしず】されるのは好【す】きではない。",
+    "meaning": "I don't like being ordered around."
+  },
+  {
+    "sentence": "指折り数えて誕生日を待った。",
+    "sentence_furigana": "指折【ゆびお】り数【かず】えて誕生日【たんじょうび】を待【ま】った。",
+    "meaning": "I counted down the days to my birthday."
+  },
+  {
+    "sentence": "指輪が指にきつすぎます。",
+    "sentence_furigana": "指輪【ゆびわ】が指【ゆび】にきつすぎます。",
+    "meaning": "The ring is too tight on my finger."
+  },
+  {
+    "sentence": "指で画面をスワイプしてください。",
+    "sentence_furigana": "指【ゆび】で画面【がめん】をスワイプしてください。",
+    "meaning": "Please swipe the screen with your finger."
+  },
+  {
+    "sentence": "この指はもう使えません。",
+    "sentence_furigana": "この指【ゆび】はもう使【つか】えません。",
+    "meaning": "I can't use this finger anymore."
+  },
+  {
+    "sentence": "指先でそっと触れた。",
+    "sentence_furigana": "指先【ゆびさき】でそっと触【ふ】れた。",
+    "meaning": "I gently touched it with my fingertip."
+  },
+  {
+    "sentence": "彼は指でボールを弾いた。",
+    "sentence_furigana": "彼【かれ】は指【ゆび】でボールを弾【はじ】いた。",
+    "meaning": "He flicked the ball with his finger."
+  },
+  {
+    "sentence": "指輪をなくしてしまいました。",
+    "sentence_furigana": "指輪【ゆびわ】をなくしてしまいました。",
+    "meaning": "I lost my ring."
+  },
+  {
+    "sentence": "指切りをした約束は守らなければならない。",
+    "sentence_furigana": "指切【ゆびき】りをした約束【やくそく】は守【まも】らなければならない。",
+    "meaning": "You must keep a promise made with a pinky swear."
+  },
+  {
+    "sentence": "指圧師がマッサージをしてくれた。",
+    "sentence_furigana": "指圧師【しあつし】がマッサージをしてくれた。",
+    "meaning": "The acupressure therapist gave me a massage."
+  },
+  {
+    "sentence": "指笛を吹いて彼を呼んだ。",
+    "sentence_furigana": "指笛【てぶえ】を吹【ふ】いて彼【かれ】を呼【よ】んだ。",
+    "meaning": "I called him by whistling through my fingers."
+  },
+  {
+    "sentence": "指先が乾いている。",
+    "sentence_furigana": "指先【ゆびさき】が乾【かわ】いている。",
+    "meaning": "My fingertips are dry."
+  },
+  {
+    "sentence": "指で隠すのは良くない。",
+    "sentence_furigana": "指【ゆび】で隠【かく】すのは良【よ】くない。",
+    "meaning": "It's not good to hide it with your finger."
+  },
+  {
+    "sentence": "指の間から光が漏れた。",
+    "sentence_furigana": "指【ゆび】の間【あいだ】から光【ひかり】が漏【も】れた。",
+    "meaning": "Light leaked through the gaps between fingers."
+  },
+  {
+    "sentence": "指輪がきついので外れません。",
+    "sentence_furigana": "指輪【ゆびわ】がきついので外【はず】れません。",
+    "meaning": "The ring is too tight, so I can't take it off."
+  },
+  {
+    "sentence": "彼は指でサインをした。",
+    "sentence_furigana": "彼【かれ】は指【ゆび】でサインをした。",
+    "meaning": "He signed with his finger."
+  },
+  {
+    "sentence": "指の骨折を疑っています。",
+    "sentence_furigana": "指【ゆび】の骨折【こっせつ】を疑【うたが】っています。",
+    "meaning": "I suspect a fracture in my finger."
+  },
+  {
+    "sentence": "指でポイントを指示してください。",
+    "sentence_furigana": "指【ゆび】でポイントを指示【しじ】してください。",
+    "meaning": "Please indicate the point with your finger."
+  },
+  {
+    "sentence": "指人形劇が始まった。",
+    "sentence_furigana": "指人形劇【ゆび人形劇】が始【はじ】まった。",
+    "meaning": "The puppet show began."
+  },
+  {
+    "sentence": "指先をきれいに保つ。",
+    "sentence_furigana": "指先【ゆびさき】をきれいに保【たも】つ。",
+    "meaning": "Keep your fingertips clean."
+  },
+  {
+    "sentence": "指で数えるのはやめましょう。",
+    "sentence_furigana": "指【ゆび】で数【かず】えるのはやめましょう。",
+    "meaning": "Let's stop counting on our fingers."
+  },
+  {
+    "sentence": "指輪のサイズを測りました。",
+    "sentence_furigana": "指輪【ゆびわ】のサイズを測【はか】りました。",
+    "meaning": "I measured the ring size."
+  },
+  {
+    "sentence": "指を怪我しないように注意してください。",
+    "sentence_furigana": "指【ゆび】を怪我【けが】しないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to injure your finger."
+  },
+  {
+    "sentence": "指圧マッサージはリラックス効果がある。",
+    "sentence_furigana": "指圧【しあつ】マッサージはリラックス効果【こうか】がある。",
+    "meaning": "Acupressure massage has a relaxing effect."
+  },
+  {
+    "sentence": "指先でそっと触れてみてください。",
+    "sentence_furigana": "指先【ゆびさき】でそっと触【ふ】れてみてください。",
+    "meaning": "Please try touching it gently with your fingertip."
+  },
+  {
+    "sentence": "指でポイントを指し示してください。",
+    "sentence_furigana": "指【ゆび】でポイントを指【さ】し示【しめ】してください。",
+    "meaning": "Please point out the point with your finger."
+  },
+  {
+    "sentence": "指輪が大きすぎて落ちそうだった。",
+    "sentence_furigana": "指輪【ゆびわ】が大きすぎて落【お】ちそうだった。",
+    "meaning": "The ring was too big and looked like it would fall off."
+  },
+  {
+    "sentence": "指紋が残らないように拭いた。",
+    "sentence_furigana": "指紋【しもん】が残【のこ】らないように拭【ふ】いた。",
+    "meaning": "I wiped it so that no fingerprints would remain."
+  },
+  {
+    "sentence": "指で描いた絵はユニークだ。",
+    "sentence_furigana": "指【ゆび】で描【か】いた絵【え】はユニークだ。",
+    "meaning": "The picture drawn with fingers is unique."
+  },
+  {
+    "sentence": "指先が冷たくなったので手を擦り合わせた。",
+    "sentence_furigana": "指先【ゆびさき】が冷【つめ】たくなったので手【て】を擦【す】り合【あ】わせた。",
+    "meaning": "My fingertips got cold, so I rubbed my hands together."
+  },
+  {
+    "sentence": "指紋を採取するために指をここに置いてください。",
+    "sentence_furigana": "指紋【しもん】を採取【さいしゅ】するために指【ゆび】をここに置【お】いてください。",
+    "meaning": "Please place your finger here to collect your fingerprint."
+  },
+  {
+    "sentence": "指で押さえてください。",
+    "sentence_furigana": "指【ゆび】で押【お】さえてください。",
+    "meaning": "Please press it with your finger."
+  },
+  {
+    "sentence": "指先が荒れてしまった。",
+    "sentence_furigana": "指先【ゆびさき】が荒【あ】れてしまった。",
+    "meaning": "My fingertips have become rough."
+  },
+  {
+    "sentence": "指で触れると温かい。",
+    "sentence_furigana": "指【ゆび】で触【ふ】れると温【あたた】かい。",
+    "meaning": "It's warm when you touch it with your finger."
+  },
+  {
+    "sentence": "指輪をする指は左手の人差し指です。",
+    "sentence_furigana": "指輪【ゆびわ】をする指【ゆび】は左手【ひだりて】の人差【ひとさ】し指【ゆび】です。",
+    "meaning": "The finger I wear the ring on is my left index finger."
+  },
+  {
+    "sentence": "指輪をはめる前に手を洗ってください。",
+    "sentence_furigana": "指輪【ゆびわ】をはめる前【まえ】に手【て】を洗【あら】ってください。",
+    "meaning": "Please wash your hands before putting on the ring."
+  },
+  {
+    "sentence": "指圧は血行を促進する効果がある。",
+    "sentence_furigana": "指圧【しあつ】は血行【けっこう】を促進【そくしん】する効果【こうか】がある。",
+    "meaning": "Acupressure has the effect of promoting blood circulation."
+  },
+  {
+    "sentence": "指で地図を指さして場所を説明した。",
+    "sentence_furigana": "指【ゆび】で地図【ちず】を指差【ゆびさ】して場所【ばしょ】を説明【せつめい】した。",
+    "meaning": "I pointed to the location on the map with my finger and explained."
+  },
+  {
+    "sentence": "指の怪我は早く治る。",
+    "sentence_furigana": "指【ゆび】の怪我【けが】は早【はや】く治【なお】る。",
+    "meaning": "Finger injuries heal quickly."
+  },
+  {
+    "sentence": "指先で弦を弾く。",
+    "sentence_furigana": "指先【ゆびさき】で弦【げん】を弾【はじ】く。",
+    "meaning": "Pluck the strings with your fingertips."
+  },
+  {
+    "sentence": "指を動かして計算する。",
+    "sentence_furigana": "指【ゆび】を動【うご】かして計算【けいさん】する。",
+    "meaning": "Calculate by moving your fingers."
+  },
+  {
+    "sentence": "彼は指で私の肩を叩いた。",
+    "sentence_furigana": "彼【かれ】は指【ゆび】で私【わたし】の肩【かた】を叩【たた】いた。",
+    "meaning": "He tapped my shoulder with his finger."
+  },
+  {
+    "sentence": "指先が凍えるほど冷たい。",
+    "sentence_furigana": "指先【ゆびさき】が凍【こご】えるほど冷【つめ】たい。",
+    "meaning": "My fingertips are so cold they're freezing."
+  },
+  {
+    "sentence": "指で指示された方向に向かう。",
+    "sentence_furigana": "指【ゆび】で指示【しじ】された方向【ほうこう】に向【む】かう。",
+    "meaning": "Go in the direction indicated by the finger."
+  },
+  {
+    "sentence": "指輪をなくさないように注意してください。",
+    "sentence_furigana": "指輪【ゆびわ】をなくさないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to lose your ring."
+  },
+  {
+    "sentence": "指を組んでリラックスした。",
+    "sentence_furigana": "指【ゆび】を組【く】んでリラックスした。",
+    "meaning": "I clasped my fingers and relaxed."
+  },
+  {
+    "sentence": "指先で文字を書く。",
+    "sentence_furigana": "指先【ゆびさき】で文字【もじ】を書【か】く。",
+    "meaning": "Write letters with your fingertips."
+  },
+  {
+    "sentence": "指で隠れて見えない。",
+    "sentence_furigana": "指【ゆび】で隠【かく】れて見【み】えない。",
+    "meaning": "It's hidden by a finger and cannot be seen."
+  },
+  {
+    "sentence": "指先がしびれている。",
+    "sentence_furigana": "指先【ゆびさき】がしびれている。",
+    "meaning": "My fingertips are numb."
+  },
+  {
+    "sentence": "指で押して開けてください。",
+    "sentence_furigana": "指【ゆび】で押【お】して開【あ】けてください。",
+    "meaning": "Please press with your finger to open it."
+  },
+  {
+    "sentence": "指でなぞって読む。",
+    "sentence_furigana": "指【ゆび】でなぞって読【よ】む。",
+    "meaning": "Trace with your finger and read."
+  },
+  {
+    "sentence": "指先から伝わる温かさ。",
+    "sentence_furigana": "指先【ゆびさき】から伝【つた】わる温【あたた】かさ。",
+    "meaning": "The warmth transmitted from the fingertips."
+  },
+  {
+    "sentence": "指で画面を操作する。",
+    "sentence_furigana": "指【ゆび】で画面【がめん】を操作【そうさ】する。",
+    "meaning": "Operate the screen with your finger."
+  },
+  {
+    "sentence": "指を怪我したので絆創膏を貼った。",
+    "sentence_furigana": "指【ゆび】を怪我【けが】したので絆創膏【ばんそうこう】を貼【は】った。",
+    "meaning": "I injured my finger, so I put on a bandage."
+  },
+  {
+    "sentence": "指先が器用だ。",
+    "sentence_furigana": "指先【ゆびさき】が器用【きよう】だ。",
+    "meaning": "The fingertips are skillful."
+  },
+  {
+    "sentence": "指で指示された箇所をタッチしてください。",
+    "sentence_furigana": "指【ゆび】で指示【しじ】された箇所【かしょ】をタッチしてください。",
+    "meaning": "Please touch the indicated spot with your finger."
+  },
+  {
+    "sentence": "指を一本も動かさなかった。",
+    "sentence_furigana": "指【ゆび】を一本【いっぽん】も動【うご】かさなかった。",
+    "meaning": "I didn't move a single finger."
+  },
+  {
+    "sentence": "指でなぞり書きを練習する。",
+    "sentence_furigana": "指【ゆび】でなぞり書【か】きを練習【れんしゅう】する。",
+    "meaning": "Practice tracing with your finger."
+  },
+  {
+    "sentence": "指紋を採取します。",
+    "sentence_furigana": "指紋【しもん】を採取【さいしゅ】します。",
+    "meaning": "We will collect your fingerprint."
+  },
+  {
+    "sentence": "指で押さえる箇所が違います。",
+    "sentence_furigana": "指【ゆび】で押【お】さえる箇所【かしょ】が違【ちが】います。",
+    "meaning": "The place to press with your finger is wrong."
+  },
+  {
+    "sentence": "指先が乾燥してひび割れた。",
+    "sentence_furigana": "指先【ゆびさき】が乾燥【かんそう】してひび割【わ】れた。",
+    "meaning": "My fingertips became dry and cracked."
+  },
+  {
+    "sentence": "指を折って数を数える。",
+    "sentence_furigana": "指【ゆび】を折【お】って数【かず】える。",
+    "meaning": "Count by bending your fingers."
+  },
+  {
+    "sentence": "指で示した場所はここです。",
+    "sentence_furigana": "指【ゆび】で示【しめ】した場所【ばしょ】はここです。",
+    "meaning": "The place indicated by the finger is here."
+  },
+  {
+    "sentence": "指圧のやり方を学びたい。",
+    "sentence_furigana": "指圧【しあつ】のやり方【かた】を学【まな】びたい。",
+    "meaning": "I want to learn how to do acupressure."
+  },
+  {
+    "sentence": "指で画面を拡大して見てください。",
+    "sentence_furigana": "指【ゆび】で画面【がめん】を拡大【かくだい】して見【み】てください。",
+    "meaning": "Please zoom in on the screen with your finger."
+  },
+  {
+    "sentence": "指を怪我して、料理ができなくなった。",
+    "sentence_furigana": "指【ゆび】を怪我【けが】して、料理【りょうり】ができなくなった。",
+    "meaning": "I injured my finger and couldn't cook anymore."
+  },
+  {
+    "sentence": "指先から伝わる感情。",
+    "sentence_furigana": "指先【ゆびさき】から伝【つた】わる感情【かんじょう】。",
+    "meaning": "Emotions transmitted from the fingertips."
+  },
+  {
+    "sentence": "指でボタンを押してください。",
+    "sentence_furigana": "指【ゆび】でボタンを押【お】してください。",
+    "meaning": "Please press the button with your finger."
+  },
+  {
+    "sentence": "指輪がサイズに合わない。",
+    "sentence_furigana": "指輪【ゆびわ】がサイズに合【あ】わない。",
+    "meaning": "The ring doesn't fit the size."
+  },
+  {
+    "sentence": "指先を保護するために手袋を着用する。",
+    "sentence_furigana": "指先【ゆびさき】を保護【ほご】するために手袋【てぶくろ】を着用【ちゃくよう】する。",
+    "meaning": "Wear gloves to protect your fingertips."
+  },
+  {
+    "sentence": "指で文字をなぞる。",
+    "sentence_furigana": "指【ゆび】で文字【もじ】をなぞる。",
+    "meaning": "Trace letters with your finger."
+  },
+  {
+    "sentence": "指先が冷たくて困っています。",
+    "sentence_furigana": "指先【ゆびさき】が冷【つめ】たくて困【こま】っています。",
+    "meaning": "My fingertips are cold, which is bothering me."
+  },
+  {
+    "sentence": "指で優しく触れる。",
+    "sentence_furigana": "指【ゆび】で優【やさ】しく触【ふ】れる。",
+    "meaning": "Touch gently with your finger."
+  },
+  {
+    "sentence": "指で絵を描いた。",
+    "sentence_furigana": "指【ゆび】で絵【え】を描【か】いた。",
+    "meaning": "I drew a picture with my finger."
+  },
+  {
+    "sentence": "指先から温かい血が流れる。",
+    "sentence_furigana": "指先【ゆびさき】から温【あたた】かい血【ち】が流【なが】れる。",
+    "meaning": "Warm blood flows from the fingertips."
+  },
+  {
+    "sentence": "指で示す方向へ進む。",
+    "sentence_furigana": "指【ゆび】で示【しめ】す方向【ほうこう】へ進【すす】む。",
+    "meaning": "Proceed in the direction indicated by the finger."
+  },
+  {
+    "sentence": "指先が痛む。",
+    "sentence_furigana": "指先【ゆびさき】が痛【いた】む。",
+    "meaning": "My fingertips hurt."
+  },
+  {
+    "sentence": "指で画面をタップする。",
+    "sentence_furigana": "指【ゆび】で画面【がめん】をタップする。",
+    "meaning": "Tap the screen with your finger."
+  },
+  {
+    "sentence": "指を動かすことが大切だ。",
+    "sentence_furigana": "指【ゆび】を動【うご】かすことが大切【たいせつ】だ。",
+    "meaning": "Moving your fingers is important."
+  },
+  {
+    "sentence": "指で軽く触れて確認した。",
+    "sentence_furigana": "指【ゆび】で軽【かる】く触【ふ】れて確認【かくにん】した。",
+    "meaning": "I confirmed by lightly touching with my finger."
+  },
+  {
+    "sentence": "指先が感覚を失った。",
+    "sentence_furigana": "指先【ゆびさき】が感覚【かんかく】を失【うしな】った。",
+    "meaning": "My fingertips lost sensation."
+  },
+  {
+    "sentence": "指で押さえて離さない。",
+    "sentence_furigana": "指【ゆび】で押【お】さえて離【はな】さない。",
+    "meaning": "Press with your finger and don't let go."
+  },
+  {
+    "sentence": "指で優しく撫でる。",
+    "sentence_furigana": "指【ゆび】で優【やさ】しく撫【な】でる。",
+    "meaning": "Stroke gently with your finger."
+  },
+  {
+    "sentence": "指で数えるほど簡単だ。",
+    "sentence_furigana": "指【ゆび】で数【かず】えるほど簡単【かんたん】だ。",
+    "meaning": "It's as easy as counting on your fingers."
+  },
+  {
+    "sentence": "指先が滑らかになった。",
+    "sentence_furigana": "指先【ゆびさき】が滑【なめ】らかになった。",
+    "meaning": "My fingertips became smooth."
+  },
+  {
+    "sentence": "指で指示された点に触れる。",
+    "sentence_furigana": "指【ゆび】で指示【しじ】された点【てん】に触【ふ】れる。",
+    "meaning": "Touch the point indicated by the finger."
+  },
+  {
+    "sentence": "指で操作するデバイス。",
+    "sentence_furigana": "指【ゆび】で操作【そうさ】するデバイス。",
+    "meaning": "A device operated by finger."
+  },
+  {
+    "sentence": "指を伸ばして何かを取ろうとした。",
+    "sentence_furigana": "指【ゆび】を伸【の】ばして何【なに】かを取【と】ろうとした。",
+    "meaning": "I tried to reach for something with my finger."
+  },
+  {
+    "sentence": "指先が震えている。",
+    "sentence_furigana": "指先【ゆびさき】が震【ふる】えている。",
+    "meaning": "My fingertips are trembling."
+  },
+  {
+    "sentence": "指で絵をなぞる。",
+    "sentence_furigana": "指【ゆび】で絵【え】をなぞる。",
+    "meaning": "Trace the picture with your finger."
+  },
+  {
+    "sentence": "指先から温かさが伝わってきた。",
+    "sentence_furigana": "指先【ゆびさき】から温【あたた】かさが伝【つた】わってきた。",
+    "meaning": "Warmth was transmitted from the fingertips."
+  },
+  {
+    "sentence": "指を貸してください。",
+    "sentence_furigana": "指【ゆび】を貸【か】してください。",
+    "meaning": "Please lend me a finger."
+  },
+  {
+    "sentence": "指先で画面をスライドさせる。",
+    "sentence_furigana": "指先【ゆびさき】で画面【がめん】をスライドさせる。",
+    "meaning": "Slide the screen with your fingertips."
+  },
+  {
+    "sentence": "指で示す。",
+    "sentence_furigana": "指【ゆび】で示【しめ】す。",
+    "meaning": "Point with your finger."
+  },
+  {
+    "sentence": "指で文字を入力する。",
+    "sentence_furigana": "指【ゆび】で文字【もじ】を入力【にゅうりょく】する。",
+    "meaning": "Input letters with your finger."
+  },
+  {
+    "sentence": "指先を冷やさないように。",
+    "sentence_furigana": "指先【ゆびさき】を冷【ひ】やさないように。",
+    "meaning": "Don't let your fingertips get cold."
+  },
+  {
+    "sentence": "指で触れて確かめる。",
+    "sentence_furigana": "指【ゆび】で触【ふ】れて確か【たし】める。",
+    "meaning": "Confirm by touching with your finger."
+  },
+  {
+    "sentence": "指先が器用で細かい作業が得意だ。",
+    "sentence_furigana": "指先【ゆびさき】が器用【きよう】で細【こま】かい作業【さぎょう】が得意【とくい】だ。",
+    "meaning": "My fingertips are skillful and I'm good at detailed work."
+  }
+]

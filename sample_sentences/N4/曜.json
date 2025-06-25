@@ -1,0 +1,567 @@
+[
+  {
+    "sentence": "明日は日曜日です。",
+    "sentence_furigana": "明日【あす】は日曜日【にちようび】です。",
+    "meaning": "Tomorrow is Sunday."
+  },
+  {
+    "sentence": "今週の月曜日は会議があります。",
+    "sentence_furigana": "今週【こんしゅう】の月曜日【げつようび】は会議【かいぎ】があります。",
+    "meaning": "There is a meeting this Monday."
+  },
+  {
+    "sentence": "火曜日は定休日です。",
+    "sentence_furigana": "火曜日【かようび】は定休日【ていきゅうび】です。",
+    "meaning": "Tuesday is a regular holiday."
+  },
+  {
+    "sentence": "水曜日のクラスはキャンセルになりました。",
+    "sentence_furigana": "水曜日【すいようび】のクラスはキャンセルになりました。",
+    "meaning": "The Wednesday class has been canceled."
+  },
+  {
+    "sentence": "木曜日は友人と会う約束があります。",
+    "sentence_furigana": "木曜日【もくようび】は友人【ゆうじん】と会【あ】う約束【やくそく】があります。",
+    "meaning": "I have plans to meet a friend on Thursday."
+  },
+  {
+    "sentence": "金曜日の夜はリラックスしたいです。",
+    "sentence_furigana": "金曜日【きんようび】の夜【よる】はリラックスしたいです。",
+    "meaning": "I want to relax on Friday night."
+  },
+  {
+    "sentence": "週末は予定がいっぱいです。",
+    "sentence_furigana": "週末【しゅうまつ】は予定【よてい】がいっぱいです。",
+    "meaning": "My weekend is fully booked."
+  },
+  {
+    "sentence": "来週の火曜日から旅行が始まります。",
+    "sentence_furigana": "来週【らいしゅう】の火曜日【かようび】から旅行【りょこう】が始まります【はじまります】。",
+    "meaning": "The trip starts next Tuesday."
+  },
+  {
+    "sentence": "この曜日はいつも忙しいです。",
+    "sentence_furigana": "この曜日【ようび】はいつも忙しい【いそがしい】です。",
+    "meaning": "This day of the week is always busy."
+  },
+  {
+    "sentence": "どの曜日が一番好きですか？",
+    "sentence_furigana": "どの曜日【ようび】が一番【いちばん】好【す】きですか？",
+    "meaning": "Which day of the week do you like the most?"
+  },
+  {
+    "sentence": "曜日の感覚がなくなってきました。",
+    "sentence_furigana": "曜日【ようび】の感覚【かんかく】がなくってきました。",
+    "meaning": "I'm losing track of the days of the week."
+  },
+  {
+    "sentence": "新しい仕事は週5日制です。",
+    "sentence_furigana": "新【あたら】しい仕事【しごと】は週【しゅう】5日制【にちせい】です。",
+    "meaning": "The new job is a five-day work week."
+  },
+  {
+    "sentence": "曜日のシフトを教えてください。",
+    "sentence_furigana": "曜日【ようび】のシフトを教【おし】えてください。",
+    "meaning": "Please tell me the day of the week shift."
+  },
+  {
+    "sentence": "祝日は平日でも休みになります。",
+    "sentence_furigana": "祝日【しゅくじつ】は平日【へいじつ】でも休【やす】みになります。",
+    "meaning": "Holidays are days off even on weekdays."
+  },
+  {
+    "sentence": "明日は月曜日なので、学校に行きます。",
+    "sentence_furigana": "明日【あす】は月曜日【げつようび】なので、学校【がっこう】に行【い】きます。",
+    "meaning": "Tomorrow is Monday, so I will go to school."
+  },
+  {
+    "sentence": "今日の曜日は何ですか？",
+    "sentence_furigana": "今日【きょう】の曜日【ようび】は何【なん】ですか？",
+    "meaning": "What day of the week is it today?"
+  },
+  {
+    "sentence": "連休はあっという間に過ぎました。",
+    "sentence_furigana": "連休【れんきゅう】はあっという間【ま】に過【す】ぎました。",
+    "meaning": "The long weekend passed in the blink of an eye."
+  },
+  {
+    "sentence": "彼の曜日はいつも遅刻しています。",
+    "sentence_furigana": "彼【かれ】の曜日はいつも遅刻【ちこく】しています。",
+    "meaning": "He is always late on his days."
+  },
+  {
+    "sentence": "この曜日のランチは特別メニューがあります。",
+    "sentence_furigana": "この曜日【ようび】のランチは特別【とくべつ】メニューがあります。",
+    "meaning": "There is a special menu for lunch on this day of the week."
+  },
+  {
+    "sentence": "来週の金曜日にパーティーを開きます。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】にパーティーを開【ひら】きます。",
+    "meaning": "We will have a party next Friday."
+  },
+  {
+    "sentence": "曜日の組み合わせを変えてみましょう。",
+    "sentence_furigana": "曜日【ようび】の組【く】み合【あ】わせを変【か】えてみましょう。",
+    "meaning": "Let's try changing the combination of days."
+  },
+  {
+    "sentence": "彼女は毎週水曜日にヨガをします。",
+    "sentence_furigana": "彼女【かのじょ】は毎週【まいしゅう】水曜日【すいようび】にヨガをします。",
+    "meaning": "She does yoga every Wednesday."
+  },
+  {
+    "sentence": "この曜日は映画館が混んでいます。",
+    "sentence_furigana": "この曜日【ようび】は映画館【えいがかん】が混んでいます【こんでいます】。",
+    "meaning": "The movie theater is crowded on this day of the week."
+  },
+  {
+    "sentence": "来週の火曜日にプレゼンテーションがあります。",
+    "sentence_furigana": "来週【らいしゅう】の火曜日【かようび】にプレゼンテーションがあります。",
+    "meaning": "I have a presentation next Tuesday."
+  },
+  {
+    "sentence": "曜日の感覚が少し鈍ってきました。",
+    "sentence_furigana": "曜日【ようび】の感覚【かんかく】が少【すこ】し鈍【にぶ】ってきました。",
+    "meaning": "My sense of the days of the week has dulled a bit."
+  },
+  {
+    "sentence": "月曜日の朝はいつも眠いです。",
+    "sentence_furigana": "月曜日【げつようび】の朝【あさ】はいつも眠【ねむ】いです。",
+    "meaning": "I'm always sleepy on Monday mornings."
+  },
+  {
+    "sentence": "次の木曜日は祝日でお休みです。",
+    "sentence_furigana": "次【つぎ】の木曜日【もくようび】は祝日【しゅくじつ】でお休【やす】みです。",
+    "meaning": "Next Thursday is a holiday and we have the day off."
+  },
+  {
+    "sentence": "金曜日の夜は外食することが多いです。",
+    "sentence_furigana": "金曜日【きんようび】の夜【よる】は外食【がいしょく】することが多【おお】いです。",
+    "meaning": "We often eat out on Friday nights."
+  },
+  {
+    "sentence": "この曜日の電車はあまり混んでいません。",
+    "sentence_furigana": "この曜日【ようび】の電車【でんしゃ】はあまり混んでいません【こんでいません】。",
+    "meaning": "The train is not very crowded on this day of the week."
+  },
+  {
+    "sentence": "来週の月曜日に新しいプロジェクトを開始します。",
+    "sentence_furigana": "来週【らいしゅう】の月曜日【げつようび】に新【あら】しいプロジェクトを開始【かいし】します。",
+    "meaning": "We will start a new project next Monday."
+  },
+  {
+    "sentence": "曜日の予定を確認してください。",
+    "sentence_furigana": "曜日【ようび】の予定【よてい】を確認【かくにん】してください。",
+    "meaning": "Please check the schedule for the day."
+  },
+  {
+    "sentence": "水曜日は早めに帰宅します。",
+    "sentence_furigana": "水曜日【すいようび】は早【はや】めに帰宅【きたく】します。",
+    "meaning": "I go home early on Wednesdays."
+  },
+  {
+    "sentence": "週末のイベントに参加しました。",
+    "sentence_furigana": "週末【しゅうまつ】のイベントに参加【さんか】しました。",
+    "meaning": "I participated in a weekend event."
+  },
+  {
+    "sentence": "彼女は火曜日にジムに行きます。",
+    "sentence_furigana": "彼女【かのじょ】は火曜日【かようび】にジムに行【い】きます。",
+    "meaning": "She goes to the gym on Tuesdays."
+  },
+  {
+    "sentence": "この曜日は図書館が休館です。",
+    "sentence_furigana": "この曜日【ようび】は図書館【としょかん】が休館【きゅうかん】です。",
+    "meaning": "The library is closed on this day of the week."
+  },
+  {
+    "sentence": "明日は金曜日なので、もうすぐ週末です。",
+    "sentence_furigana": "明日【あす】は金曜日【きんようび】なので、もうすぐ週末【しゅうまつ】です。",
+    "meaning": "Tomorrow is Friday, so the weekend is almost here."
+  },
+  {
+    "sentence": "曜日の変更についてのお知らせ。",
+    "sentence_furigana": "曜日【ようび】の変更【へんこう】についてのお知らせ。",
+    "meaning": "Notice regarding the change of the day."
+  },
+  {
+    "sentence": "木曜日は残業が多くなりがちです。",
+    "sentence_furigana": "木曜日【もくようび】は残業【ざんぎょう】が多【おお】くなりありがちです。",
+    "meaning": "I tend to have a lot of overtime on Thursdays."
+  },
+  {
+    "sentence": "来週の月曜日は休みを取ります。",
+    "sentence_furigana": "来週【らいしゅう】の月曜日【げつようび】は休【やす】みを取【と】ります。",
+    "meaning": "I will take a day off next Monday."
+  },
+  {
+    "sentence": "その曜日の習慣は変わっていません。",
+    "sentence_furigana": "その曜日【ようび】の習慣【しゅうかん】は変【か】わっていません。",
+    "meaning": "The habit of that day of the week has not changed."
+  },
+  {
+    "sentence": "日曜日にはいつも家族と過ごします。",
+    "sentence_furigana": "日曜日【にちようび】にはいつも家族【かぞく】と過【す】ごします。",
+    "meaning": "I always spend time with my family on Sundays."
+  },
+  {
+    "sentence": "来週の金曜日に新しい映画が公開されます。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】に新【あら】しい映画【えいが】が公開【こうかい】されます。",
+    "meaning": "A new movie will be released next Friday."
+  },
+  {
+    "sentence": "曜日は特に指定はありません。",
+    "sentence_furigana": "曜日【ようび】は特【とく】に指定【してい】はありません。",
+    "meaning": "There is no specific day designated."
+  },
+  {
+    "sentence": "火曜日の練習はキャンセルされました。",
+    "sentence_furigana": "火曜日【かようび】の練習【れんしゅう】はキャンセルされました。",
+    "meaning": "The Tuesday practice was canceled."
+  },
+  {
+    "sentence": "どの曜日にイベントが開催されますか？",
+    "sentence_furigana": "どの曜日【ようび】にイベントが開催【かいさい】されますか？",
+    "meaning": "On which day of the week will the event be held?"
+  },
+  {
+    "sentence": "水曜日は午前中だけ仕事です。",
+    "sentence_furigana": "水曜日【すいようび】は午前中【ごぜんちゅう】だけ仕事【しごと】です。",
+    "meaning": "I only work in the morning on Wednesdays."
+  },
+  {
+    "sentence": "来週の木曜日に締め切りがあります。",
+    "sentence_furigana": "来週【らいしゅう】の木曜日【もくようび】に締切【しめきり】があります。",
+    "meaning": "There is a deadline next Thursday."
+  },
+  {
+    "sentence": "週末の計画はまだ決まっていません。",
+    "sentence_furigana": "週末【しゅうまつ】の計画【けいかく】はまだ決まって【きまって】いません。",
+    "meaning": "Weekend plans have not been decided yet."
+  },
+  {
+    "sentence": "月曜日の会議は延期されました。",
+    "sentence_furigana": "月曜日【げつようび】の会議【かいぎ】は延期【えんき】されました。",
+    "meaning": "The Monday meeting has been postponed."
+  },
+  {
+    "sentence": "曜日に関係なく、一生懸命頑張ります。",
+    "sentence_furigana": "曜日【ようび】に関係【かんけい】なく、一生懸命【いっしょうけんめい】頑張ります【がんばります】。",
+    "meaning": "I will work hard regardless of the day of the week."
+  },
+  {
+    "sentence": "金曜日は早く帰りたい気分です。",
+    "sentence_furigana": "金曜日【きんようび】は早【はや】く帰【かえ】りたい気分【きぶん】です。",
+    "meaning": "I feel like going home early on Fridays."
+  },
+  {
+    "sentence": "来週の火曜日に新しいクラスが始まります。",
+    "sentence_furigana": "来週【らいしゅう】の火曜日【かようび】に新【あら】しいクラスが始まります【はじまります】。",
+    "meaning": "A new class starts next Tuesday."
+  },
+  {
+    "sentence": "この曜日は特別セールを行っています。",
+    "sentence_furigana": "この曜日【ようび】は特別【とくべつ】セールを行【おこな】っています。",
+    "meaning": "A special sale is being held on this day of the week."
+  },
+  {
+    "sentence": "水曜日は比較的空いています。",
+    "sentence_furigana": "水曜日【すいようび】は比較的【ひかくてき】空いています【すいています】。",
+    "meaning": "It's relatively empty on Wednesdays."
+  },
+  {
+    "sentence": "次の日曜日には遠くへ出かけます。",
+    "sentence_furigana": "次【つぎ】の日曜日【にちようび】には遠【とお】くへ出かけます【でかけます】。",
+    "meaning": "I will go out far away next Sunday."
+  },
+  {
+    "sentence": "木曜日の午後は予定が入っています。",
+    "sentence_furigana": "木曜日【もくようび】の午後【ごご】は予定【よてい】が入っています【はいっています】。",
+    "meaning": "I have plans for Thursday afternoon."
+  },
+  {
+    "sentence": "来週の金曜日は、私の誕生日です。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】は、私【わたし】の誕生日【たんじょうび】です。",
+    "meaning": "Next Friday is my birthday."
+  },
+  {
+    "sentence": "この曜日の電車は朝から混雑しています。",
+    "sentence_furigana": "この曜日【ようび】の電車【でんしゃ】は朝【あさ】から混雑【こんざつ】しています。",
+    "meaning": "The train is crowded from the morning on this day of the week."
+  },
+  {
+    "sentence": "月曜日の朝食はパンにしました。",
+    "sentence_furigana": "月曜日【げつようび】の朝食【ちょうしょく】はパンにしました。",
+    "meaning": "I had bread for breakfast on Monday."
+  },
+  {
+    "sentence": "火曜日は外せない用事があります。",
+    "sentence_furigana": "火曜日【かようび】は外【はず】せない用事【ようじ】があります。",
+    "meaning": "I have unavoidable errands on Tuesdays."
+  },
+  {
+    "sentence": "曜日のカレンダーを確認しました。",
+    "sentence_furigana": "曜日【ようび】のカレンダーを確認【かくにん】しました。",
+    "meaning": "I checked the day of the week calendar."
+  },
+  {
+    "sentence": "水曜日に新しい本を読み始めました。",
+    "sentence_furigana": "水曜日【すいようび】に新【あら】しい本【ほん】を読【よ】み始【はじ】めました。",
+    "meaning": "I started reading a new book on Wednesday."
+  },
+  {
+    "sentence": "週末の予定を立てています。",
+    "sentence_furigana": "週末【しゅうまつ】の予定【よてい】を立【た】てています。",
+    "meaning": "I am making plans for the weekend."
+  },
+  {
+    "sentence": "来週の木曜日は休みを取る予定です。",
+    "sentence_furigana": "来週【らいしゅう】の木曜日【もくようび】は休【やす】みを取【と】る予定【よてい】です。",
+    "meaning": "I plan to take a day off next Thursday."
+  },
+  {
+    "sentence": "どの曜日が都合が良いですか？",
+    "sentence_furigana": "どの曜日【ようび】が都合【つごう】が良い【よい】ですか？",
+    "meaning": "Which day of the week is convenient for you?"
+  },
+  {
+    "sentence": "金曜日の夜は、よく映画を見ます。",
+    "sentence_furigana": "金曜日【きんようび】の夜【よる】は、よく映画【えいが】を見【み】ます。",
+    "meaning": "I often watch movies on Friday nights."
+  },
+  {
+    "sentence": "この曜日は特に何も予定がありません。",
+    "sentence_furigana": "この曜日【ようび】は特【とく】に何も【なにも】予定【よてい】がありません。",
+    "meaning": "I have no particular plans on this day of the week."
+  },
+  {
+    "sentence": "火曜日に重要な会議があります。",
+    "sentence_furigana": "火曜日【かようび】に重要【じゅうよう】な会議【かいぎ】があります。",
+    "meaning": "There is an important meeting on Tuesday."
+  },
+  {
+    "sentence": "来週の月曜日は遅刻しないようにします。",
+    "sentence_furigana": "来週【らいしゅう】の月曜日【げつようび】は遅刻【ちこく】しないようにします。",
+    "meaning": "I will try not to be late next Monday."
+  },
+  {
+    "sentence": "水曜日は雨が降る予報です。",
+    "sentence_furigana": "水曜日【すいようび】は雨【あめ】が降【ふ】る予報【よほう】です。",
+    "meaning": "Rain is forecast for Wednesday."
+  },
+  {
+    "sentence": "日曜日には家族とピクニックに行きました。",
+    "sentence_furigana": "日曜日【にちようび】には家族【かぞく】とピクニックに行【い】きました。",
+    "meaning": "I went on a picnic with my family on Sunday."
+  },
+  {
+    "sentence": "木曜日は新しい仕事を始めました。",
+    "sentence_furigana": "木曜日【もくようび】は新【あら】しい仕事【しごと】を始【はじ】めました。",
+    "meaning": "I started a new job on Thursday."
+  },
+  {
+    "sentence": "来週の金曜日は取引先と会食します。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】は取引先【とりひきさき】と会食【かいしょく】します。",
+    "meaning": "I will have a dinner meeting with a business associate next Friday."
+  },
+  {
+    "sentence": "曜日の計画を調整する必要があります。",
+    "sentence_furigana": "曜日【ようび】の計画【けいかく】を調整【ちょうせい】する必要【ひつよう】があります。",
+    "meaning": "We need to adjust the plans for the day."
+  },
+  {
+    "sentence": "彼女は毎月第2火曜日にセミナーを開催します。",
+    "sentence_furigana": "彼女【かのじょ】は毎月【まいげつ】第2火曜日【だいにかようび】にセミナーを開催【かいさい】します。",
+    "meaning": "She holds a seminar on the second Tuesday of every month."
+  },
+  {
+    "sentence": "この曜日のランチタイムは特別割引があります。",
+    "sentence_furigana": "この曜日【ようび】のランチタイムは特別割引【とくべつわりびき】があります。",
+    "meaning": "There is a special discount during lunchtime on this day of the week."
+  },
+  {
+    "sentence": "水曜日に会議の資料を準備します。",
+    "sentence_furigana": "水曜日【すいようび】に会議【かいぎ】の資料【しりょう】を準備【じゅんび】します。",
+    "meaning": "I will prepare the meeting materials on Wednesday."
+  },
+  {
+    "sentence": "来週の月曜日は新しいプロジェクトが始まります。",
+    "sentence_furigana": "来週【らいしゅう】の月曜日【げつようび】に新【あら】しいプロジェクトが始まります【はじまります】。",
+    "meaning": "A new project starts next Monday."
+  },
+  {
+    "sentence": "曜日の順番を変えてみましょうか。",
+    "sentence_furigana": "曜日【ようび】の順番【じゅんばん】を変【か】えてみましょうか。",
+    "meaning": "Shall we try changing the order of the days?"
+  },
+  {
+    "sentence": "金曜日は仕事が終わったらすぐに帰ります。",
+    "sentence_furigana": "金曜日【きんようび】は仕事【しごと】が終わ【お】わったらすぐ帰ります【かえります】。",
+    "meaning": "I go home immediately after work finishes on Fridays."
+  },
+  {
+    "sentence": "この曜日は比較的穏やかな一日です。",
+    "sentence_furigana": "この曜日【ようび】は比較的【ひかくてき】穏【おだ】やかな一日【いちにち】です。",
+    "meaning": "This day of the week is a relatively calm one."
+  },
+  {
+    "sentence": "火曜日の予定を変更する必要があります。",
+    "sentence_furigana": "火曜日【かようび】の予定【よてい】を変更【へんこう】する必要【ひつよう】があります。",
+    "meaning": "It is necessary to change the Tuesday schedule."
+  },
+  {
+    "sentence": "次の木曜日は早朝に家を出ます。",
+    "sentence_furigana": "次【つぎ】の木曜日【もくようび】は早朝【そうちょう】に家【いえ】を出ます【でます】。",
+    "meaning": "I leave home early in the morning next Thursday."
+  },
+  {
+    "sentence": "月曜日は新しい週の始まりです。",
+    "sentence_furigana": "月曜日【げつようび】は新【あら】しい週【しゅう】の始【はじ】まりです。",
+    "meaning": "Monday is the start of the new week."
+  },
+  {
+    "sentence": "水曜日は特別なイベントがあります。",
+    "sentence_furigana": "水曜日【すいようび】は特別【とくべつ】なイベントがあります。",
+    "meaning": "There is a special event on Wednesday."
+  },
+  {
+    "sentence": "来週の金曜日には、新しいプロジェクトの発表があります。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】には、新【あら】しいプロジェクトの発表【はっぴょう】があります。",
+    "meaning": "There will be an announcement of a new project next Friday."
+  },
+  {
+    "sentence": "曜日の感覚がなくなってしまうほど仕事に没頭しています。",
+    "sentence_furigana": "曜日【ようび】の感覚【かんかく】がなくってしまふほど仕事【しごと】に没頭【ぼっとう】しています。",
+    "meaning": "I am so absorbed in my work that I lose track of the days of the week."
+  },
+  {
+    "sentence": "日曜日にはゆっくりと過ごしたいです。",
+    "sentence_furigana": "日曜日【にちようび】にはゆっくりと過【す】ごしたいです。",
+    "meaning": "I want to spend Sunday relaxing."
+  },
+  {
+    "sentence": "来週の火曜日は会議のため、不在となります。",
+    "sentence_furigana": "来週【らいしゅう】の火曜日【かようび】は会議【かいぎ】のため、不在【ふざい】となります。",
+    "meaning": "I will be absent next Tuesday due to a meeting."
+  },
+  {
+    "sentence": "木曜日の午後に会議が入りました。",
+    "sentence_furigana": "木曜日【もくようび】の午後【ごご】に会議【かいぎ】が入りました【はいりました】。",
+    "meaning": "A meeting has been scheduled for Thursday afternoon."
+  },
+  {
+    "sentence": "月曜日の朝はバタバタしています。",
+    "sentence_furigana": "月曜日【げつようび】の朝【あさ】はバタバタしています。",
+    "meaning": "Mondays are hectic in the morning."
+  },
+  {
+    "sentence": "この曜日のスケジュールは決まっていますか？",
+    "sentence_furigana": "この曜日【ようび】のスケジュールは決まって【きまって】いますか？",
+    "meaning": "Is the schedule for this day of the week fixed?"
+  },
+  {
+    "sentence": "水曜日はいつも定時で上がれます。",
+    "sentence_furigana": "水曜日【すいようび】はいつも定時【ていじ】で上【あ】がれます。",
+    "meaning": "I can always leave on time on Wednesdays."
+  },
+  {
+    "sentence": "来週の金曜日はイベントのため、休業いたします。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】はイベントのため、休業【きゅうぎょう】いたします。",
+    "meaning": "We will be closed next Friday due to an event."
+  },
+  {
+    "sentence": "日曜日は家族との大切な時間です。",
+    "sentence_furigana": "日曜日【にちようび】は家族【かぞく】との大切【たいせつ】な時間【じかん】です。",
+    "meaning": "Sunday is precious time with family."
+  },
+  {
+    "sentence": "この曜日の終わりには必ず運動します。",
+    "sentence_furigana": "この曜日【ようび】の終【お】わりには必【かなら】ず運動【うんどう】します。",
+    "meaning": "I always exercise at the end of this day of the week."
+  },
+  {
+    "sentence": "火曜日の午後にクライアントと会います。",
+    "sentence_furigana": "火曜日【かようび】の午後【ごご】にクライアントと会います【あいます】。",
+    "meaning": "I will meet with the client on Tuesday afternoon."
+  },
+  {
+    "sentence": "来週の月曜日は外出しています。",
+    "sentence_furigana": "来週【らいしゅう】の月曜日【げつようび】は外出【がいしゅつ】しています。",
+    "meaning": "I will be out next Monday."
+  },
+  {
+    "sentence": "曜日の変更は可能ですか？",
+    "sentence_furigana": "曜日【ようび】の変更【へんこう】は可能【かのう】ですか？",
+    "meaning": "Is it possible to change the day?"
+  },
+  {
+    "sentence": "木曜日にチームミーティングを行います。",
+    "sentence_furigana": "木曜日【もくようび】にチームミーティングを行【おこな】います。",
+    "meaning": "We will have a team meeting on Thursday."
+  },
+  {
+    "sentence": "水曜日の午前中は集中して作業します。",
+    "sentence_furigana": "水曜日【すいようび】の午前中【ごぜんちゅう】は集中【しゅうちゅう】して作業【さぎょう】します。",
+    "meaning": "I concentrate on my work on Wednesday mornings."
+  },
+  {
+    "sentence": "来週の金曜日は早めに仕事を切り上げます。",
+    "sentence_furigana": "来週【らいしゅう】の金曜日【きんようび】は早め【はやめ】に仕事【しごと】を切【き】り上【あ】げます。",
+    "meaning": "I will wrap up work early next Friday."
+  },
+  {
+    "sentence": "どの曜日も同じように忙しいです。",
+    "sentence_furigana": "どの曜日【ようび】も同【おな】じように忙しい【いそがしい】です。",
+    "meaning": "Every day of the week is equally busy."
+  },
+  {
+    "sentence": "月曜日は新しい一週間の始まりで、気合が入ります。",
+    "sentence_furigana": "月曜日【げつようび】は新【あら】しい一週間【いっしゅうかん】の始【はじ】まりで、気合【きあい】が入ります【はいります】。",
+    "meaning": "Monday is the start of a new week, which energizes me."
+  },
+  {
+    "sentence": "火曜日のランチは外で食べました。",
+    "sentence_furigana": "火曜日【かようび】のランチは外【そと】で食【た】べました。",
+    "meaning": "I ate lunch out on Tuesday."
+  },
+  {
+    "sentence": "この曜日の夜は比較的静かです。",
+    "sentence_furigana": "この曜日【ようび】の夜【よる】は比較的【ひかくてき】静【しず】かです。",
+    "meaning": "The night is relatively quiet on this day of the week."
+  },
+  {
+    "sentence": "来週の月曜日から新しい部署に異動します。",
+    "sentence_furigana": "来週【らいしゅう】の月曜日【げつようび】から新【あら】しい部署【ぶしょ】に異動【いどう】します。",
+    "meaning": "I will be transferred to a new department starting next Monday."
+  },
+  {
+    "sentence": "水曜日は定例の会議があります。",
+    "sentence_furigana": "水曜日【すいようび】は定例【ていれい】の会議【かいぎ】があります。",
+    "meaning": "There is a regular meeting on Wednesdays."
+  },
+  {
+    "sentence": "木曜日は早く終わらせて、趣味に時間を費やしたいです。",
+    "sentence_furigana": "木曜日【もくようび】は早【はや】く終【お】わらせて、趣味【しゅみ】に時間【じかん】を費【つい】やしたいです。",
+    "meaning": "I want to finish early on Thursdays and spend time on my hobbies."
+  },
+  {
+    "sentence": "金曜日の夜に映画を観に行きました。",
+    "sentence_furigana": "金曜日【きんようび】の夜【よる】に映画【えいが】を観【み】に行きました【いきました】。",
+    "meaning": "I went to see a movie on Friday night."
+  },
+  {
+    "sentence": "日曜日は家族と過ごす特別な日です。",
+    "sentence_furigana": "日曜日【にちようび】は家族【かぞく】と過【す】ごす特別【とくべつ】な日【ひ】です。",
+    "meaning": "Sunday is a special day to spend with family."
+  },
+  {
+    "sentence": "来週の火曜日は出張のため、不在です。",
+    "sentence_furigana": "来週【らいしゅう】の火曜日【かようび】は出張【しゅっちょう】のため、不在【ふざい】です。",
+    "meaning": "I will be out of the office next Tuesday due to a business trip."
+  },
+  {
+    "sentence": "どの曜日が会議に適していますか？",
+    "sentence_furigana": "どの曜日【ようび】が会議【かいぎ】に適【てき】していますか？",
+    "meaning": "Which day of the week is suitable for the meeting?"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "この工場は大きな工業製品を製造しています。",
+    "sentence_furigana": "この工場【こうじょう】は大きな工業製品【こうぎょうせいひん】を製造【せいぞう】しています。",
+    "meaning": "This factory manufactures large industrial products."
+  },
+  {
+    "sentence": "彼は建築工学を専攻しました。",
+    "sentence_furigana": "彼【かれ】は建築工学【けんちくこうがく】を専攻【せんこう】しました。",
+    "meaning": "He majored in architectural engineering."
+  },
+  {
+    "sentence": "工事現場では安全対策が重要です。",
+    "sentence_furigana": "工事現場【こうじげんば】では安全対策【あんぜんたいさく】が重要【じゅうよう】です。",
+    "meaning": "Safety measures are important at construction sites."
+  },
+  {
+    "sentence": "これは私の趣味で、木工細工をしています。",
+    "sentence_furigana": "これ【これ】は私【わたし】の趣味【しゅみ】で、木工細工【もっこうさいく】をしています。",
+    "meaning": "This is my hobby, I do woodwork."
+  },
+  {
+    "sentence": "その仕事は高度な技術を要する工業技術者に向いています。",
+    "sentence_furigana": "その仕事【しごと】は高度【こうど】な技術【ぎじゅつ】を要【よう】する工業技術者【こうぎょうぎじゅつしゃ】に向【む】いています。",
+    "meaning": "That job is suitable for an industrial engineer requiring advanced skills."
+  },
+  {
+    "sentence": "彼は労働組合の役員として働いています。",
+    "sentence_furigana": "彼【かれ】は労働組合【ろうどうくみあい】の役員【やくいん】として働【はたら】いています。",
+    "meaning": "He works as an official of the labor union."
+  },
+  {
+    "sentence": "この建物は熟練した職人の手によって建てられました。",
+    "sentence_furigana": "この建物【たてもの】は熟練【じゅくれん】した職人【しょくにん】の手【て】によって建【た】てられました。",
+    "meaning": "This building was constructed by the hands of skilled craftsmen."
+  },
+  {
+    "sentence": "彼女は美術工芸品のコレクターです。",
+    "sentence_furigana": "彼女【かのじょ】は美術工芸品【びじゅつこうげいひん】のコレクターです。",
+    "meaning": "She is a collector of arts and crafts."
+  },
+  {
+    "sentence": "工場排水の規制が厳しくなりました。",
+    "sentence_furigana": "工場排水【こうじょうはいすい】の規制【きせい】が厳【きび】しくなりました。",
+    "meaning": "Regulations on factory wastewater have become stricter."
+  },
+  {
+    "sentence": "これは最新の航空宇宙工学の成果です。",
+    "sentence_furigana": "これ【これ】は最新【さいしん】の航空宇宙工学【こうくううちゅうこうがく】の成果【せいか】です。",
+    "meaning": "This is the result of the latest aerospace engineering."
+  },
+  {
+    "sentence": "彼らは新しい道路の建設を進めています。",
+    "sentence_furigana": "彼ら【かれら】は新【あたら】しい道路【どうろ】の建設【けんせつ】を進【すす】めています。",
+    "meaning": "They are proceeding with the construction of a new road."
+  },
+  {
+    "sentence": "工場での作業は多くの場合、機械化されています。",
+    "sentence_furigana": "工場【こうじょう】での作業【さぎょう】は多【おお】くの場合【ばあい】、機械化【きかいか】されています。",
+    "meaning": "Work in factories is often mechanized."
+  },
+  {
+    "sentence": "彼は化学工学の分野で研究しています。",
+    "sentence_furigana": "彼【かれ】は化学工学【かがくこうがく】の分野【ぶんや】で研究【けんきゅう】しています。",
+    "meaning": "He is researching in the field of chemical engineering."
+  },
+  {
+    "sentence": "このプロジェクトは多くの工期を要しました。",
+    "sentence_furigana": "このプロジェクト【プロジェクト】は多【おお】くの工期【こうき】を要【よう】しました。",
+    "meaning": "This project took a long construction period."
+  },
+  {
+    "sentence": "彼女は手工芸の教室を開いています。",
+    "sentence_furigana": "彼女【かのじょ】は手工芸【しゅこうげい】の教室【きょうしつ】を開【ひら】いています。",
+    "meaning": "She runs a handicraft class."
+  },
+  {
+    "sentence": "この製品は高度な加工技術で作られています。",
+    "sentence_furigana": "この製品【せいひん】は高度【こうど】な加工技術【かこうぎじゅつ】で使【つく】られています。",
+    "meaning": "This product is made with advanced processing technology."
+  },
+  {
+    "sentence": "工場で働く人々は社会の基盤を支えています。",
+    "sentence_furigana": "工場【こうじょう】で働【はたら】く人々【ひとびと】は社会【しゃかい】の基盤【きばん】を支【ささ】えています。",
+    "meaning": "People working in factories support the foundation of society."
+  },
+  {
+    "sentence": "彼の仕事は工場の運営に関することです。",
+    "sentence_furigana": "彼【かれ】の仕事【しごと】は工場【こうじょう】の運営【うんえい】に関【かん】することです。",
+    "meaning": "His job relates to the operation of the factory."
+  },
+  {
+    "sentence": "この工事は来年まで続きます。",
+    "sentence_furigana": "この工事【こうじ】は来年【らいねん】まで続【つづ】きます。",
+    "meaning": "This construction will continue until next year."
+  },
+  {
+    "sentence": "彼女は機械工学の専門家です。",
+    "sentence_furigana": "彼女【かのじょ】は機械工学【きかいこうがく】の専門家【せんもんか】です。",
+    "meaning": "She is an expert in mechanical engineering."
+  },
+  {
+    "sentence": "工場見学は子供たちに良い教育機会となります。",
+    "sentence_furigana": "工場見学【こうじょうけんがく】は子供【こども】たちに良【よ】い教育機会【きょういくきかい】となります。",
+    "meaning": "Factory tours provide a good educational opportunity for children."
+  },
+  {
+    "sentence": "彼は工場長の補佐を務めています。",
+    "sentence_furigana": "彼【かれ】は工場長【こうじょうちょう】の補佐【ほさ】を務【つと】めています。",
+    "meaning": "He serves as the assistant to the factory manager."
+  },
+  {
+    "sentence": "この工芸品は繊細な彫刻が施されています。",
+    "sentence_furigana": "この工芸品【こうげいひん】は繊細【せんさい】な彫刻【ちょうこく】が施【ほどこ】されています。",
+    "meaning": "This craft has delicate carvings."
+  },
+  {
+    "sentence": "このプロジェクトの工法について議論しました。",
+    "sentence_furigana": "このプロジェクト【プロジェクト】の工法【こうほう】について議論【ぎろん】しました。",
+    "meaning": "We discussed the construction method of this project."
+  },
+  {
+    "sentence": "彼女は工業デザインの分野で活躍しています。",
+    "sentence_furigana": "彼女【かのじょ】は工業デザイン【デザイン】の分野【ぶんや】で活躍【かつやく】しています。",
+    "meaning": "She is active in the field of industrial design."
+  },
+  {
+    "sentence": "工場は地域の雇用を創出しています。",
+    "sentence_furigana": "工場【こうじょう】は地域【ちいき】の雇用【こよう】を創出【そうしゅつ】しています。",
+    "meaning": "The factory creates local employment."
+  },
+  {
+    "sentence": "彼は土木工学を学びました。",
+    "sentence_furigana": "彼【かれ】は土木工学【どぼくこうがく】を学【まな】びました。",
+    "meaning": "He studied civil engineering."
+  },
+  {
+    "sentence": "工場設備は定期的に点検されます。",
+    "sentence_furigana": "工場設備【こうじょうせつび】は定期的【ていきてき】に点検【てんけん】されます。",
+    "meaning": "Factory equipment is inspected regularly."
+  },
+  {
+    "sentence": "彼女は工芸大学で教鞭をとっています。",
+    "sentence_furigana": "彼女【かのじょ】は工芸大学【こうげいだいがく】で教鞭【きょうべん】をとっています。",
+    "meaning": "She teaches at a university of arts and crafts."
+  },
+  {
+    "sentence": "この工場は環境に配慮した生産活動を行っています。",
+    "sentence_furigana": "この工場【こうじょう】は環境【かんきょう】に配慮【はいりょ】した生産活動【せいさんかつどう】を行【おこな】っています。",
+    "meaning": "This factory carries out production activities with consideration for the environment."
+  },
+  {
+    "sentence": "彼は工業化社会の功罪について考察しました。",
+    "sentence_furigana": "彼【かれ】は工業化社会【こうぎょうかしゃかい】の功罪【こうざい】について考察【こうさつ】しました。",
+    "meaning": "He considered the merits and demerits of industrial society."
+  },
+  {
+    "sentence": "工事の遅延により、予定通りに進みませんでした。",
+    "sentence_furigana": "工事【こうじ】の遅延【ちえん】により、予定通【よていどお】り進【すす】みませんでした。",
+    "meaning": "Due to construction delays, it did not proceed as planned."
+  },
+  {
+    "sentence": "彼女は工学部の教授です。",
+    "sentence_furigana": "彼女【かのじょ】は工学部【こうがくぶ】の教授【きょうじゅ】です。",
+    "meaning": "She is a professor in the Faculty of Engineering."
+  },
+  {
+    "sentence": "この工芸品は国の重要文化財に指定されています。",
+    "sentence_furigana": "この工芸品【こうげいひん】は国【くに】の重要文化財【じゅうようぶんかざい】に指定【してい】されています。",
+    "meaning": "This craft is designated as an important cultural property of the country."
+  },
+  {
+    "sentence": "工場での品質管理は非常に重要です。",
+    "sentence_furigana": "工場【こうじょう】での品質管理【ひんしつかんり】は非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "Quality control in the factory is very important."
+  },
+  {
+    "sentence": "彼は工業所有権の弁理士です。",
+    "sentence_furigana": "彼【かれ】は工業所有権【こうぎょうしょゆうけん】の弁理士【べんりし】です。",
+    "meaning": "He is a patent attorney for industrial property rights."
+  },
+  {
+    "sentence": "この工事には多くの労力がかかりました。",
+    "sentence_furigana": "この工事【こうじ】には多【おお】くの労力【ろりょく】がかかりました。",
+    "meaning": "This construction required a lot of labor."
+  },
+  {
+    "sentence": "彼女は工業高校を卒業しました。",
+    "sentence_furigana": "彼女【かのじょ】は工業高校【こうぎょうこうこう】を卒業【そつぎょう】しました。",
+    "meaning": "She graduated from a technical high school."
+  },
+  {
+    "sentence": "工場では最新の技術が導入されています。",
+    "sentence_furigana": "工場【こうじょう】では最新【さいしん】の技術【ぎじゅつ】が導入【どうにゅう】されています。",
+    "meaning": "The latest technology is being introduced in the factory."
+  },
+  {
+    "sentence": "彼は工業地帯の開発に携わっています。",
+    "sentence_furigana": "彼【かれ】は工業地帯【こうぎょうちたい】の開発【かいはつ】に携【たずさ】わっています。",
+    "meaning": "He is involved in the development of industrial zones."
+  },
+  {
+    "sentence": "この工事は環境アセスメントを経て実施されました。",
+    "sentence_furigana": "この工事【こうじ】は環境アセスメント【アセスメント】を経て【へて】実施【じっし】されました。",
+    "meaning": "This construction was carried out after an environmental assessment."
+  },
+  {
+    "sentence": "彼女は工業製品の企画開発を担当しています。",
+    "sentence_furigana": "彼女【かのじょ】は工業製品【こうぎょうせいひん】の企画開発【きかくかいはつ】を担当【たんとう】しています。",
+    "meaning": "She is in charge of planning and development of industrial products."
+  },
+  {
+    "sentence": "工場では様々な機械が稼働しています。",
+    "sentence_furigana": "工場【こうじょう】では様々【さまざま】な機械【きかい】が稼働【かどう】しています。",
+    "meaning": "Various machines are operating in the factory."
+  },
+  {
+    "sentence": "彼は工場で工員として働いています。",
+    "sentence_furigana": "彼【かれ】は工場【こうじょう】で工員【こういん】として働【はたら】いています。",
+    "meaning": "He works as a factory worker in the factory."
+  },
+  {
+    "sentence": "この工事の安全管理は徹底しています。",
+    "sentence_furigana": "この工事【こうじ】の安全管理【あんぜんかんり】は徹底【てってい】しています。",
+    "meaning": "Safety management for this construction is thorough."
+  },
+  {
+    "sentence": "彼女は工場内の改善活動に参加しています。",
+    "sentence_furigana": "彼女【かのじょ】は工場内【こうじょうない】の改善活動【かいぜんかつどう】に参加【さんか】しています。",
+    "meaning": "She participates in improvement activities within the factory."
+  },
+  {
+    "sentence": "工場は厳しい労働基準を守らなければなりません。",
+    "sentence_furigana": "工場【こうじょう】は厳【きび】しい労働基準【ろうどうきじゅん】を守【まも】らなければなりません。",
+    "meaning": "Factories must adhere to strict labor standards."
+  },
+  {
+    "sentence": "彼は工学的な知識が豊富です。",
+    "sentence_furigana": "彼【かれ】は工学的【こうがくてき】な知識【ちしき】が豊富【ほうふ】です。",
+    "meaning": "He has extensive engineering knowledge."
+  },
+  {
+    "sentence": "この工場では自動化が進んでいます。",
+    "sentence_furigana": "この工場【こうじょう】では自動化【じどうか】が進【すす】んでいます。",
+    "meaning": "Automation is progressing in this factory."
+  },
+  {
+    "sentence": "彼女は工芸品の販売促進に力を入れています。",
+    "sentence_furigana": "彼女【かのじょ】は工芸品【こうげいひん】の販売促進【はんばいそくしん】に力【ちから】を入【い】れています。",
+    "meaning": "She is focusing on promoting the sales of crafts."
+  },
+  {
+    "sentence": "工場労働者の賃金は、この地域では比較的高い方です。",
+    "sentence_furigana": "工場労働者【こうじょうろうどうしゃ】の賃金【ちんぎん】は、この地域【ちいき】では比較的【ひかくてき】高【たか】い方【ほう】です。",
+    "meaning": "Wages for factory workers are relatively high in this region."
+  },
+  {
+    "sentence": "彼は工事期間中の安全確保に努めています。",
+    "sentence_furigana": "彼【かれ】は工事期間中【こうじきかんちゅう】の安全確保【あんぜんかくほ】に努【つと】めています。",
+    "meaning": "He strives to ensure safety during the construction period."
+  },
+  {
+    "sentence": "この工場はエネルギー効率の改善に取り組んでいます。",
+    "sentence_furigana": "この工場【こうじょう】はエネルギー効率【こうりつ】の改善【かいぜん】に取り組【とりく】んでいます。",
+    "meaning": "This factory is working on improving energy efficiency."
+  },
+  {
+    "sentence": "彼女は工業統計の専門家です。",
+    "sentence_furigana": "彼女【かのじょ】は工業統計【こうぎょうとうけい】の専門家【せんもんか】です。",
+    "meaning": "She is an expert in industrial statistics."
+  },
+  {
+    "sentence": "工場での生産計画は綿密に立てられています。",
+    "sentence_furigana": "工場【こうじょう】での生産計画【せいさんけいかく】は綿密【めんみつ】に立【た】てられています。",
+    "meaning": "The production plan in the factory is meticulously made."
+  },
+  {
+    "sentence": "彼は工場設備のメンテナンスを担当しています。",
+    "sentence_furigana": "彼【かれ】は工場設備【こうじょうせつび】のメンテナンス【メンテナンス】を担当【たんとう】しています。",
+    "meaning": "He is in charge of maintaining factory equipment."
+  },
+  {
+    "sentence": "この工場はISO認証を取得しています。",
+    "sentence_furigana": "この工場【こうじょう】はISO認証【にんしょう】を取得【しゅとく】しています。",
+    "meaning": "This factory has obtained ISO certification."
+  },
+  {
+    "sentence": "彼女は工場内の安全管理体制を構築しました。",
+    "sentence_furigana": "彼女【かのじょ】は工場内【こうじょうない】の安全管理体制【あんぜんかんりたいせい】を構築【こうちく】しました。",
+    "meaning": "She established the safety management system within the factory."
+  },
+  {
+    "sentence": "工場での作業は常に危険が伴います。",
+    "sentence_furigana": "工場【こうじょう】での作業【さぎょう】は常【つね】に危険【きけん】が伴【ともな】います。",
+    "meaning": "Work in factories always involves danger."
+  },
+  {
+    "sentence": "彼は工業製品の品質向上に貢献しました。",
+    "sentence_furigana": "彼【かれ】は工業製品【こうぎょうせいひん】の品質向上【ひんしつこうじょう】に貢献【こうけん】しました。",
+    "meaning": "He contributed to improving the quality of industrial products."
+  },
+  {
+    "sentence": "この工場では新しい工法が試されています。",
+    "sentence_furigana": "この工場【こうじょう】では新【あたら】しい工法【こうほう】が試【ため】されています。",
+    "meaning": "New construction methods are being tested in this factory."
+  },
+  {
+    "sentence": "彼女は工学部の学生です。",
+    "sentence_furigana": "彼女【かのじょ】は工学部【こうがくぶ】の学生【がくせい】です。",
+    "meaning": "She is a student of the Faculty of Engineering."
+  },
+  {
+    "sentence": "この工芸品は丁寧に作られています。",
+    "sentence_furigana": "この工芸品【こうげいひん】は丁寧【ていねい】に作【つく】られています。",
+    "meaning": "This craft is made with care."
+  },
+  {
+    "sentence": "工場は地域の経済に大きく貢献しています。",
+    "sentence_furigana": "工場【こうじょう】は地域【ちいき】の経済【けいざい】に大【おお】きく貢献【こうけん】しています。",
+    "meaning": "The factory contributes greatly to the local economy."
+  },
+  {
+    "sentence": "彼は工業用ロボットの設計に関わっています。",
+    "sentence_furigana": "彼【かれ】は工業用ロボット【こうぎょうようロボット】の設計【せっけい】に関【かか】わっています。",
+    "meaning": "He is involved in the design of industrial robots."
+  },
+  {
+    "sentence": "この工事は環境保全にも配慮しています。",
+    "sentence_furigana": "この工事【こうじ】は環境保全【かんきょうほぜん】にも配慮【はいりょ】しています。",
+    "meaning": "This construction also considers environmental conservation."
+  },
+  {
+    "sentence": "彼女は工業化の進展について講演しました。",
+    "sentence_furigana": "彼女【かのじょ】は工業化【こうぎょうか】の進展【しんてん】について講演【こうえん】しました。",
+    "meaning": "She gave a lecture on the progress of industrialization."
+  },
+  {
+    "sentence": "工場は24時間体制で稼働しています。",
+    "sentence_furigana": "工場【こうじょう】は24時間体制【じかんたいせい】で稼働【かどう】しています。",
+    "meaning": "The factory operates on a 24-hour system."
+  },
+  {
+    "sentence": "彼は工場の生産効率を向上させるための提案をしました。",
+    "sentence_furigana": "彼【かれ】は工場【こうじょう】の生産効率【せいさんこうりつ】を向上【こうじょう】させるための提案【ていあん】をしました。",
+    "meaning": "He made a proposal to improve the production efficiency of the factory."
+  },
+  {
+    "sentence": "この工事は多くの人々の協力によって成り立っています。",
+    "sentence_furigana": "この工事【こうじ】は多【おお】くの人々【ひとびと】の協力【きょうりょく】によって成【な】り立っています。",
+    "meaning": "This construction is made possible by the cooperation of many people."
+  },
+  {
+    "sentence": "彼女は工芸品の製造プロセスを監督しています。",
+    "sentence_furigana": "彼女【かのじょ】は工芸品【こうげいひん】の製造プロセス【プロセス】を監督【かんとく】しています。",
+    "meaning": "She supervises the manufacturing process of crafts."
+  },
+  {
+    "sentence": "工場には最新鋭の設備が導入されています。",
+    "sentence_furigana": "工場【こうじょう】には最新鋭【さいしんえい】の設備【せつび】が導入【どうにゅう】されています。",
+    "meaning": "State-of-the-art equipment is introduced in the factory."
+  },
+  {
+    "sentence": "彼は工業技術の伝承に貢献しています。",
+    "sentence_furigana": "彼【かれ】は工業技術【こうぎょうぎじゅつ】の伝承【でんしょう】に貢献【こうけん】しています。",
+    "meaning": "He contributes to the transmission of industrial technology."
+  },
+  {
+    "sentence": "この工場は環境負荷の低減を目指しています。",
+    "sentence_furigana": "この工場【こうじょう】は環境負荷【かんきょうふか】の低減【ていげん】を目指【めざ】しています。",
+    "meaning": "This factory aims to reduce environmental impact."
+  },
+  {
+    "sentence": "彼女は工業デザインの賞を受賞しました。",
+    "sentence_furigana": "彼女【かのじょ】は工業デザイン【デザイン】の賞【しょう】を受賞【じゅしょう】しました。",
+    "meaning": "She won an award for industrial design."
+  },
+  {
+    "sentence": "工場での安全教育は徹底されています。",
+    "sentence_furigana": "工場【こうじょう】での安全教育【あんぜんきょういく】は徹底【てってい】されています。",
+    "meaning": "Safety education in the factory is thorough."
+  },
+  {
+    "sentence": "彼は工業都市の発展に尽力しました。",
+    "sentence_furigana": "彼【かれ】は工業都市【こうぎょうとし】の発展【はってん】に尽力【じんりょく】しました。",
+    "meaning": "He worked hard for the development of the industrial city."
+  },
+  {
+    "sentence": "この工事は技術的に困難を伴いました。",
+    "sentence_furigana": "この工事【こうじ】は技術的【ぎじゅつてき】に困難【こんなん】を伴【ともな】いました。",
+    "meaning": "This construction involved technical difficulties."
+  },
+  {
+    "sentence": "彼女は工場での生産性向上に貢献しました。",
+    "sentence_furigana": "彼女【かのじょ】は工場【こうじょう】での生産性向上【せいさんせいこうじょう】に貢献【こうけん】しました。",
+    "meaning": "She contributed to improving productivity in the factory."
+  },
+  {
+    "sentence": "工場では、従業員の安全が最優先されます。",
+    "sentence_furigana": "工場【こうじょう】では、従業員【じゅうぎょういん】の安全【あんぜん】が最優先【さいゆうせん】されます。",
+    "meaning": "In the factory, employee safety is the top priority."
+  },
+  {
+    "sentence": "彼は工業機械のオペレーターです。",
+    "sentence_furigana": "彼【かれ】は工業機械【こうぎょうきかい】のオペレーター【オペレーター】です。",
+    "meaning": "He is an operator of industrial machinery."
+  },
+  {
+    "sentence": "この工場は厳しい品質基準をクリアしています。",
+    "sentence_furigana": "この工場【こうじょう】は厳【きび】しい品質基準【ひんしつきじゅん】をクリアしています。",
+    "meaning": "This factory meets strict quality standards."
+  },
+  {
+    "sentence": "彼女は工芸品の企画から販売までを一貫して行っています。",
+    "sentence_furigana": "彼女【かのじょ】は工芸品【こうげいひん】の企画【きかく】から販売【はんばい】までを一貫【いっかん】して行【おこな】っています。",
+    "meaning": "She handles everything from planning to sales of crafts."
+  },
+  {
+    "sentence": "工場での事故防止に万全を期しています。",
+    "sentence_furigana": "工場【こうじょう】での事故防止【じこぼうし】に万全【ばんぜん】を期【き】しています。",
+    "meaning": "We are taking all possible measures to prevent accidents in the factory."
+  },
+  {
+    "sentence": "彼は工業化の歴史について研究しています。",
+    "sentence_furigana": "彼【かれ】は工業化【こうぎょうか】の歴史【れきし】について研究【けんきゅう】しています。",
+    "meaning": "He is researching the history of industrialization."
+  },
+  {
+    "sentence": "この工事は、数ヶ月の工期を予定しています。",
+    "sentence_furigana": "この工事【こうじ】は、数ヶ月【すうかげつ】の工期【こうき】を予定【よてい】しています。",
+    "meaning": "This construction is scheduled for a period of several months."
+  },
+  {
+    "sentence": "彼女は工芸品の修理を手がけています。",
+    "sentence_furigana": "彼女【かのじょ】は工芸品【こうげいひん】の修理【しゅうり】を手掛【てが】けています。",
+    "meaning": "She is involved in the repair of crafts."
+  },
+  {
+    "sentence": "工場では、熟練した工員が重要な役割を担っています。",
+    "sentence_furigana": "工場【こうじょう】では、熟練【じゅくれん】した工員【こういん】が重要【じゅうよう】な役割【やくわり】を担【にな】っています。",
+    "meaning": "Skilled workers play an important role in the factory."
+  },
+  {
+    "sentence": "彼は工業用部品の製造に関わるエンジニアです。",
+    "sentence_furigana": "彼【かれ】は工業用部品【こうぎょうようぶひん】の製造【せいぞう】に関【かか】わるエンジニア【エンジニア】です。",
+    "meaning": "He is an engineer involved in the manufacturing of industrial parts."
+  },
+  {
+    "sentence": "この工場は最新の安全基準を導入しました。",
+    "sentence_furigana": "この工場【こうじょう】は最新【さいしん】の安全基準【あんぜんきじゅん】を導入【どうにゅう】しました。",
+    "meaning": "This factory has introduced the latest safety standards."
+  },
+  {
+    "sentence": "彼女は工場で新しい生産ラインの立ち上げを担当しました。",
+    "sentence_furigana": "彼女【かのじょ】は工場【こうじょう】で新【あたら】しい生産ライン【ライン】の立【た】ち上【あ】げを担当【たんとう】しました。",
+    "meaning": "She was in charge of launching a new production line at the factory."
+  },
+  {
+    "sentence": "工場は地域社会との連携を大切にしています。",
+    "sentence_furigana": "工場【こうじょう】は地域社会【ちいきしゃかい】との連携【れんけい】を大切【たいせつ】にしています。",
+    "meaning": "The factory values cooperation with the local community."
+  },
+  {
+    "sentence": "彼は工業製品の輸出入に携わっています。",
+    "sentence_furigana": "彼【かれ】は工業製品【こうぎょうせいひん】の輸出入【ゆしゅつにゅう】に携【たずさ】わっています。",
+    "meaning": "He is involved in the import and export of industrial products."
+  },
+  {
+    "sentence": "この工事は法規制を遵守して行われています。",
+    "sentence_furigana": "この工事【こうじ】は法規制【ほうきせい】を遵守【じゅんしゅ】して行【おこな】われています。",
+    "meaning": "This construction is carried out in compliance with legal regulations."
+  },
+  {
+    "sentence": "彼女は工場の生産管理を任されています。",
+    "sentence_furigana": "彼女【かのじょ】は工場【こうじょう】の生産管理【せいさんかんり】を任【まか】されています。",
+    "meaning": "She is entrusted with production management at the factory."
+  },
+  {
+    "sentence": "工場での作業環境の改善が急務です。",
+    "sentence_furigana": "工場【こうじょう】での作業環境【さぎょうかんきょう】の改善【かいぜん】が急務【きゅうむ】です。",
+    "meaning": "Improving the working environment in the factory is an urgent task."
+  },
+  {
+    "sentence": "彼は工業用塗料の開発に携わっています。",
+    "sentence_furigana": "彼【かれ】は工業用塗料【こうぎょうようとりょう】の開発【かいはつ】に携【たずさ】わっています。",
+    "meaning": "He is involved in the development of industrial paints."
+  },
+  {
+    "sentence": "この工場は持続可能な社会の実現に貢献しています。",
+    "sentence_furigana": "この工場【こうじょう】は持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】に貢献【こうけん】しています。",
+    "meaning": "This factory contributes to the realization of a sustainable society."
+  },
+  {
+    "sentence": "彼女は工場内のコスト削減に成功しました。",
+    "sentence_furigana": "彼女【かのじょ】は工場内【こうじょうない】のコスト削減【さくげん】に成功【せいこう】しました。",
+    "meaning": "She succeeded in reducing costs within the factory."
+  },
+  {
+    "sentence": "工場では、従業員の健康管理にも力を入れています。",
+    "sentence_furigana": "工場【こうじょう】では、従業員【じゅうぎょういん】の健康管理【けんこうかんり】にも力【ちから】を入【い】れています。",
+    "meaning": "The factory also focuses on the health management of its employees."
+  },
+  {
+    "sentence": "彼は工業製品の国際規格に適合させています。",
+    "sentence_furigana": "彼【かれ】は工業製品【こうぎょうせいひん】の国際規格【こくさいきかく】に適合【てきごう】させています。",
+    "meaning": "He is making industrial products comply with international standards."
+  },
+  {
+    "sentence": "この工事は最新の技術を用いて行われました。",
+    "sentence_furigana": "この工事【こうじ】は最新【さいしん】の技術【ぎじゅつ】を用【もち】いて行【おこな】われました。",
+    "meaning": "This construction was carried out using the latest technology."
+  }
+]

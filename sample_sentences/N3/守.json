@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "彼は家を守っている。",
+    "sentence_furigana": "彼【かれ】は家【いえ】を守【まも】っている。",
+    "meaning": "He is guarding the house."
+  },
+  {
+    "sentence": "規則を守ることは大切です。",
+    "sentence_furigana": "規則【きそく】をであることを守【まも】ることは大切【たいせつ】です。",
+    "meaning": "It is important to obey the rules."
+  },
+  {
+    "sentence": "国民の平和を守るために、兵士たちは戦いました。",
+    "sentence_furigana": "国民【こくみん】の平和【へいわ】を守【まも】るために、兵士【へいし】たちは戦【たたか】いました。",
+    "meaning": "The soldiers fought to protect the peace of the nation."
+  },
+  {
+    "sentence": "約束を守る人は信頼できる。",
+    "sentence_furigana": "約束【やくそく】を守【まも】る人【ひと】は信頼【しんらい】できる。",
+    "meaning": "A person who keeps their promises is trustworthy."
+  },
+  {
+    "sentence": "子供たちを守るために、母親はどんなことでもします。",
+    "sentence_furigana": "子供【こども】たちを守【まも】るために、母親【ははおや】はどんなことでもします。",
+    "meaning": "A mother will do anything to protect her children."
+  },
+  {
+    "sentence": "この地域は歴史的建造物を守ることに力を入れています。",
+    "sentence_furigana": "この地域【ちいき】は歴史的建造物【れきしてきけんぞうぶつ】を守【まも】ることに力【ちから】を入【い】れています。",
+    "meaning": "This region focuses on preserving historical buildings."
+  },
+  {
+    "sentence": "彼は自分の信念を守り抜いた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信念【しんねん】を守【まも】り抜【ぬ】いた。",
+    "meaning": "He defended his beliefs to the end."
+  },
+  {
+    "sentence": "自然を守るための活動に参加しました。",
+    "sentence_furigana": "自然【しぜん】を守【まも】るための活動【かつどう】に参加【さんか】しました。",
+    "meaning": "I participated in activities to protect nature."
+  },
+  {
+    "sentence": "秘密を守ることは、彼の義務だった。",
+    "sentence_furigana": "秘密【ひみつ】を守【まも】ることは、彼【かれ】の義務【ぎむ】だった。",
+    "meaning": "Keeping the secret was his duty."
+  },
+  {
+    "sentence": "古い伝統を守り続けることは重要だ。",
+    "sentence_furigana": "古【ふる】い伝統【でんとう】を守【まも】り続【つづ】けることは重要【じゅうよう】だ。",
+    "meaning": "It is important to continue preserving old traditions."
+  },
+  {
+    "sentence": "彼は国の安全を守るために尽くしました。",
+    "sentence_furigana": "彼【かれ】は国【くに】の安全【あんぜん】を守【まも】るために尽【つ】くしました。",
+    "meaning": "He devoted himself to protecting the country's safety."
+  },
+  {
+    "sentence": "法を守ることは、すべての市民の責任です。",
+    "sentence_furigana": "法【ほう】を守【まも】ることは、すべての市民【しみん】の責任【せきにん】です。",
+    "meaning": "Obeying the law is the responsibility of all citizens."
+  },
+  {
+    "sentence": "子供は親の保護を受ける権利を守る。",
+    "sentence_furigana": "子供【こども】は親【おや】の保護【ほご】を受【う】ける権利【けんり】を守【まも】る。",
+    "meaning": "Children have the right to be protected by their parents."
+  },
+  {
+    "sentence": "彼は王国の領土を守る指揮官だった。",
+    "sentence_furigana": "彼【かれ】は王国【おうこく】の領土【りょうど】を守【まも】る指揮官【しきかん】だった。",
+    "meaning": "He was the commander who defended the kingdom's territory."
+  },
+  {
+    "sentence": "文化遺産を守るための国際的な協力が必要です。",
+    "sentence_furigana": "文化遺産【ぶんかいさん】を守【まも】るための国際的【こくさいてき】な協力【きょうりょく】が必要です【ひつよう】。",
+    "meaning": "International cooperation is necessary to protect cultural heritage."
+  },
+  {
+    "sentence": "彼は家族の安全を守るために懸命に働いた。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】の安全【あんぜん】を守【まも】るために懸命【けんめい】に働【はたら】いた。",
+    "meaning": "He worked hard to protect his family's safety."
+  },
+  {
+    "sentence": "彼女は弱い者を守るために声を上げた。",
+    "sentence_furigana": "彼女【かのじょ】は弱【よわ】い者【もの】を守【まも】るために声【こえ】を上【あ】げた。",
+    "meaning": "She spoke up to protect the weak."
+  },
+  {
+    "sentence": "この約束は必ず守ります。",
+    "sentence_furigana": "この約束【やくそく】は必【かなら】ず守【まも】ります。",
+    "meaning": "I will definitely keep this promise."
+  },
+  {
+    "sentence": "彼は自分の意見を断固として守った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を断固【だんこ】として守【まも】った。",
+    "meaning": "He staunchly defended his own opinion."
+  },
+  {
+    "sentence": "私たちは地球環境を守る義務がある。",
+    "sentence_furigana": "私【わたし】たちは地球環境【ちきゅうかんきょう】を守【まも】る義務【ぎむ】がある。",
+    "meaning": "We have a duty to protect the global environment."
+  },
+  {
+    "sentence": "この城は長い間、侵略者から町を守ってきた。",
+    "sentence_furigana": "この城【しろ】は長【なが】い間【あいだ】、侵略者【しんりゃくしゃ】から町【まち】を守【まも】ってきた。",
+    "meaning": "This castle has protected the town from invaders for a long time."
+  },
+  {
+    "sentence": "彼は常に弱者の味方となり、彼らを守った。",
+    "sentence_furigana": "彼【かれ】は常【つね】に弱者【じゃくしゃ】の味方【みかた】となり、彼【かれ】らを守【まも】った。",
+    "meaning": "He always sided with and protected the weak."
+  },
+  {
+    "sentence": "憲法は国民の権利を守るためのものである。",
+    "sentence_furigana": "憲法【けんぽう】は国民【こくみん】の権利【けんり】を守【まも】るためのものである。",
+    "meaning": "The constitution is for protecting the rights of the people."
+  },
+  {
+    "sentence": "彼は自分の発言に責任を持ち、守った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の発言【はつげん】に責任【せきにん】を持【も】ち、守【まも】った。",
+    "meaning": "He took responsibility for his words and kept them."
+  },
+  {
+    "sentence": "私たちはこの聖なる場所を守らなければならない。",
+    "sentence_furigana": "私【わたし】たちはこの聖【せい】なる場所【ばしょ】を守【まも】らなければならない。",
+    "meaning": "We must protect this sacred place."
+  },
+  {
+    "sentence": "彼女は子供たちの笑顔を守るために奮闘した。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの笑顔【えがお】を守【まも】るために奮闘【ふんとう】した。",
+    "meaning": "She struggled to protect the children's smiles."
+  },
+  {
+    "sentence": "この国境を守る兵士は勇敢です。",
+    "sentence_furigana": "この国境【こっきょう】を守【まも】る兵士【へいし】は勇敢【ゆうかん】です。",
+    "meaning": "The soldiers who guard this border are brave."
+  },
+  {
+    "sentence": "彼は自分の名誉を守るために戦った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の名誉【めいよ】を守【まも】るために戦【たたか】った。",
+    "meaning": "He fought to protect his honor."
+  },
+  {
+    "sentence": "この法律は市民の権利を保護します。",
+    "sentence_furigana": "この法律【ほうりつ】は市民【しみん】の権利【けんり】を保護【ほご】します。",
+    "meaning": "This law protects the rights of citizens."
+  },
+  {
+    "sentence": "彼は会社の秘密を守る任務を負っていた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の秘密【ひみつ】を守【まも】る任務【にんむ】を負【お】っていた。",
+    "meaning": "He was tasked with guarding the company's secrets."
+  },
+  {
+    "sentence": "彼女は祖国の伝統を守ることに誇りを感じている。",
+    "sentence_furigana": "彼女【かのじょ】は祖国【そこく】の伝統【でんとう】を守【まも】ることに誇【ほこ】りを感じ【かんじ】ている。",
+    "meaning": "She takes pride in preserving her homeland's traditions."
+  },
+  {
+    "sentence": "この協定は地域の平和を守るためのものです。",
+    "sentence_furigana": "この協定【きょうてい】は地域【ちいき】の平和【へいわ】を守【まも】るためのものです。",
+    "meaning": "This agreement is for protecting regional peace."
+  },
+  {
+    "sentence": "彼は常に法を守り、規律を重んじる人物です。",
+    "sentence_furigana": "彼【かれ】は常【つね】に法【ほう】を守【まも】り、規律【きりつ】を重【おも】んじる人物【じんぶつ】です。",
+    "meaning": "He is a person who always obeys the law and values discipline."
+  },
+  {
+    "sentence": "子供たちの未来を守るために、今、私たちができることをしましょう。",
+    "sentence_furigana": "子供【こども】たちの未来【みらい】を守【まも】るために、今【いま】、私【わたし】たちができることをしましょう。",
+    "meaning": "Let's do what we can now to protect the future of our children."
+  },
+  {
+    "sentence": "この文書は機密情報を含んでいるため、厳重に守る必要があります。",
+    "sentence_furigana": "この文書【ぶんしょ】は機密情報【きみつじょうほう】を含【ふく】んでいるため、厳重【げんじゅう】に守【まも】る必要【ひつよう】があります。",
+    "meaning": "This document contains classified information, so it must be strictly guarded."
+  },
+  {
+    "sentence": "彼は約束を破るようなことは決してしない。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を破【やぶ】るようなことは決【けっ】してしない。",
+    "meaning": "He never breaks a promise."
+  },
+  {
+    "sentence": "この城壁は数世紀にわたり町を守ってきた。",
+    "sentence_furigana": "この城壁【じょうへき】は数世紀【すうせいき】にわたり町【まち】を守【まも】ってきた。",
+    "meaning": "These castle walls have protected the town for centuries."
+  },
+  {
+    "sentence": "彼は弱者を守るための法律を作るべきだと主張した。",
+    "sentence_furigana": "彼【かれ】は弱者【じゃくしゃ】を守【まも】るための法律【ほうりつ】を作【つく】るべきだと主張【しゅちょう】した。",
+    "meaning": "He argued that laws should be made to protect the weak."
+  },
+  {
+    "sentence": "私たちは先祖から受け継いだ文化を守る責任があります。",
+    "sentence_furigana": "私【わたし】たちは先祖【せんぞ】から受【う】け継【つ】いだ文化【ぶんか】を守【まも】る責任【せきにん】があります。",
+    "meaning": "We have a responsibility to preserve the culture inherited from our ancestors."
+  },
+  {
+    "sentence": "彼は不正から正義を守るために闘った。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】から正義【せいぎ】を守【まも】るために闘【たたか】った。",
+    "meaning": "He fought to protect justice from injustice."
+  },
+  {
+    "sentence": "子供たちの健全な成長を守る環境を作ることが大切です。",
+    "sentence_furigana": "子供【こども】たちの健全【けんぜん】な成長【せいちょう】を守【まも】る環境【かんきょう】を作【つく】ることが大切【たいせつ】です。",
+    "meaning": "It is important to create an environment that protects the healthy growth of children."
+  },
+  {
+    "sentence": "彼は約束の時間を厳守した。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】の時間【じかん】を厳守【げんしゅ】した。",
+    "meaning": "He strictly kept the appointed time."
+  },
+  {
+    "sentence": "この古い図書館は貴重な書物を守っています。",
+    "sentence_furigana": "この古【ふる】い図書館【としょかん】は貴重【きちょう】な書物【しょもつ】を守【まも】っています。",
+    "meaning": "This old library preserves valuable books."
+  },
+  {
+    "sentence": "彼は国を脅威から守るために忠誠を誓った。",
+    "sentence_furigana": "彼【かれ】は国【くに】を脅威【きょうい】から守【まも】るために忠誠【ちゅうせい】を誓【ちか】った。",
+    "meaning": "He pledged allegiance to protect his country from threats."
+  },
+  {
+    "sentence": "彼女は伝統的な価値観を守ることに力を注いでいる。",
+    "sentence_furigana": "彼女【かのじょ】は伝統的【でんとうてき】な価値観【かちかん】を守【まも】ることに力【ちから】を注【そそ】いでいる。",
+    "meaning": "She is focusing on preserving traditional values."
+  },
+  {
+    "sentence": "私たちは海を守るための行動を起こさなければならない。",
+    "sentence_furigana": "私【わたし】たちは海【うみ】を守【まも】るための行動【こうどう】を起【お】こさなければならない。",
+    "meaning": "We must take action to protect the oceans."
+  },
+  {
+    "sentence": "彼は自分の信念を貫き、守り抜いた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信念【しんねん】を貫【つらぬ】き、守【まも】り抜【ぬ】いた。",
+    "meaning": "He held fast to his beliefs and saw them through."
+  },
+  {
+    "sentence": "この法律は消費者を不正な取引から守るものです。",
+    "sentence_furigana": "この法律【ほうりつ】は消費者【しょうひしゃ】を不正【ふせい】な取引【とりひき】から守【まも】るものです。",
+    "meaning": "This law protects consumers from fraudulent transactions."
+  },
+  {
+    "sentence": "彼は常に弱者を保護するという強い意志を持っていた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に弱者【じゃくしゃ】を保護【ほご】するという強【つよ】い意志【いし】を持【も】っていた。",
+    "meaning": "He always had a strong will to protect the weak."
+  },
+  {
+    "sentence": "この地域社会は、古くからの共同体の絆を守ろうとしている。",
+    "sentence_furigana": "この地域社会【ちいきしゃかい】は、古【ふる】くからの共同体【きょうどうたい】の絆【きずな】を守【まも】ろうとしている。",
+    "meaning": "This local community is trying to preserve the bonds of its ancient community."
+  },
+  {
+    "sentence": "彼は忠実に命令を守った。",
+    "sentence_furigana": "彼【かれ】は忠実【ちゅうじつ】に命令【めいれい】を守【まも】った。",
+    "meaning": "He faithfully obeyed the orders."
+  },
+  {
+    "sentence": "子供たちの安全な遊び場を守るための活動が始まった。",
+    "sentence_furigana": "子供【こども】たちの安全【あんぜん】な遊【あそ】び場【ば】を守【まも】るための活動【かつどう】が始【はじ】まった。",
+    "meaning": "Activities have begun to protect safe playgrounds for children."
+  },
+  {
+    "sentence": "彼は自分の言葉に責任を持ち、その約束を守った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の言葉【ことば】に責任【せきにん】を持【も】ち、その約束【やくそく】を守【まも】った。",
+    "meaning": "He took responsibility for his words and kept his promise."
+  },
+  {
+    "sentence": "この歴史的な建造物を守る努力は称賛に値します。",
+    "sentence_furigana": "この歴史的建造物【れきしてきけんぞうぶつ】を守【まも】る努力【どりょく】は称賛【しょうさん】に値【あたい】します。",
+    "meaning": "The effort to preserve this historical building is commendable."
+  },
+  {
+    "sentence": "彼は常に規則を厳守することの重要性を説いた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に規則【きそく】を厳守【げんしゅ】することの重要性【じゅうようせい】を説【と】いた。",
+    "meaning": "He always preached the importance of strictly adhering to rules."
+  },
+  {
+    "sentence": "彼女は困っている人を助け、守ることに情熱を燃やしている。",
+    "sentence_furigana": "彼女【かのじょ】は困【こま】っている人【ひと】を助【たす】け、守【まも】ることに情熱【じょうねつ】を燃【も】やしている。",
+    "meaning": "She is passionate about helping and protecting those in need."
+  },
+  {
+    "sentence": "私たちは生物多様性を守るために協力する必要があります。",
+    "sentence_furigana": "私【わたし】たちは生物多様性【せいぶつたようせい】を守【まも】るために協力【きょうりょく】する必要【ひつよう】があります。",
+    "meaning": "We need to cooperate to protect biodiversity."
+  },
+  {
+    "sentence": "彼は家族の伝統を守るために、古い習慣を大切にしています。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】の伝統【でんとう】を守【まも】るために、古【ふる】い習慣【しゅうかん】を大切【たいせつ】にしています。",
+    "meaning": "He cherishes old customs to protect his family's traditions."
+  },
+  {
+    "sentence": "この法律は子供たちの権利を守ることを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は子供【こども】たちの権利【けんり】を守【まも】ることを目的【もくてき】としています。",
+    "meaning": "This law aims to protect children's rights."
+  },
+  {
+    "sentence": "彼は自分の信じる正義を守るために戦い続けた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信【しん】じる正義【せいぎ】を守【まも】るために戦【たたか】い続【つづ】けた。",
+    "meaning": "He continued to fight to protect the justice he believed in."
+  },
+  {
+    "sentence": "彼女は弱者や虐げられた人々を守るために声を上げる。",
+    "sentence_furigana": "彼女【かのじょ】は弱者【じゃくしゃ】や虐【しいた】げられた人々【ひとびと】を守【まも】るために声【こえ】を上【あ】げる。",
+    "meaning": "She speaks out to protect the weak and the oppressed."
+  },
+  {
+    "sentence": "この国の安全は、国民一人ひとりが法を守ることから始まる。",
+    "sentence_furigana": "この国【くに】の安全【あんぜん】は、国民【こくみん】一人ひとり が法【ほう】を守【まも】ることから始【はじ】まる。",
+    "meaning": "The safety of this country begins with each citizen obeying the law."
+  },
+  {
+    "sentence": "彼は会社の機密を守るために、細心の注意を払った。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の機密【きみつ】を守【まも】るために、細心【さいしん】の注意【ちゅうい】を払【はら】った。",
+    "meaning": "He paid close attention to protecting the company's secrets."
+  },
+  {
+    "sentence": "この地域の自然を守るための活動に参加しました。",
+    "sentence_furigana": "この地域【ちいき】の自然【しぜん】を守【まも】るための活動【かつどう】に参加【さんか】しました。",
+    "meaning": "I participated in activities to protect the nature of this region."
+  },
+  {
+    "sentence": "彼は弱者の権利を守るための法律の制定を強く訴えた。",
+    "sentence_furigana": "彼【かれ】は弱者【じゃくしゃ】の権利【けんり】を守【まも】るための法律【ほうりつ】の制定【せいてい】を強【つよ】く訴【うった】えた。",
+    "meaning": "He strongly advocated for the enactment of laws to protect the rights of the weak."
+  },
+  {
+    "sentence": "彼女は約束を守ることを信条としている。",
+    "sentence_furigana": "彼女【かのじょ】は約束【やくそく】を守【まも】ることを信条【しんじょう】としている。",
+    "meaning": "She makes it her principle to keep promises."
+  },
+  {
+    "sentence": "この古い城は、町の歴史を守る象徴です。",
+    "sentence_furigana": "この古【ふる】い城【しろ】は、町【まち】の歴史【れきし】を守【まも】る象徴【しょうちょう】です。",
+    "meaning": "This old castle is a symbol that protects the town's history."
+  },
+  {
+    "sentence": "彼は家族の伝統を守るために、地域の祭りへの参加を欠かさない。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】の伝統【でんとう】を守【まも】るために、地域【ちいき】の祭【まつ】りへの参加【さんか】を欠【か】かさない。",
+    "meaning": "To preserve his family's traditions, he never fails to participate in local festivals."
+  },
+  {
+    "sentence": "私たちは未来の世代のために、この美しい自然を守る義務があります。",
+    "sentence_furigana": "私【わたし】たちは未来【みらい】の世代【せだい】のために、この美【うつく】しい自然【しぜん】を守【まも】る義務【ぎむ】があります。",
+    "meaning": "We have a duty to protect this beautiful nature for future generations."
+  },
+  {
+    "sentence": "彼は自分の発言に責任を持ち、最後まで守り通した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の発言【はつげん】に責任【せきにん】を持【も】ち、最後【さいご】まで守【まも】り通【とお】した。",
+    "meaning": "He took responsibility for his words and carried them through to the end."
+  },
+  {
+    "sentence": "彼女は子供たちの健やかな成長を守るために、安全な環境づくりに努めている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの健【すこ】やかな成長【せいちょう】を守【まも】るために、安全【あんぜん】な環境作【かんきょうづく】りに努【つと】めている。",
+    "meaning": "She strives to create a safe environment to protect the healthy growth of children."
+  },
+  {
+    "sentence": "この法律は、人々の基本的な権利を守るためのものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、人々【ひとびと】の基本的【きほんてき】な権利【けんり】を守【まも】るためのものです。",
+    "meaning": "This law is for protecting people's basic rights."
+  },
+  {
+    "sentence": "彼は常に弱者を守るという信念を持ち続けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に弱者【じゃくしゃ】を守【まも】るという信念【しんねん】を持【も】ち続【つづ】けている。",
+    "meaning": "He continuously holds the belief of protecting the weak."
+  },
+  {
+    "sentence": "私たちはこの貴重な文化遺産を守るための努力を惜しみません。",
+    "sentence_furigana": "私【わたし】たちはこの貴重【きちょう】な文化遺産【ぶんかいさん】を守【まも】るための努力【どりょく】を惜【お】しみません。",
+    "meaning": "We spare no effort to protect this valuable cultural heritage."
+  },
+  {
+    "sentence": "彼は自分のチームを守るために、最後まで戦い抜いた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のチームを守【まも】るために、最後【さいご】まで戦【たたか】い抜【ぬ】いた。",
+    "meaning": "He fought to the end to protect his team."
+  },
+  {
+    "sentence": "彼女は子供たちの未来を守るために、教育の重要性を訴えた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの未来【みらい】を守【まも】るために、教育【きょういく】の重要性【じゅうようせい】を訴【うった】えた。",
+    "meaning": "She advocated for the importance of education to protect the future of children."
+  },
+  {
+    "sentence": "この国の平和を守るために、私たちは団結しなければならない。",
+    "sentence_furigana": "この国【くに】の平和【へいわ】を守【まも】るために、私【わたし】たちは団結【だんけつ】しなければならない。",
+    "meaning": "We must unite to protect the peace of this country."
+  },
+  {
+    "sentence": "彼はルールを守り、公正なプレーを心がけた。",
+    "sentence_furigana": "彼【かれ】はルールを守【まも】り、公正【こうせい】なプレーを心掛【こころが】けた。",
+    "meaning": "He followed the rules and aimed for fair play."
+  },
+  {
+    "sentence": "彼女は自然環境を守るために、リサイクルを推進しています。",
+    "sentence_furigana": "彼女【かのじょ】は自然環境【しぜんかんきょう】を守【まも】るために、リサイクルを推進【すいしん】しています。",
+    "meaning": "She promotes recycling to protect the natural environment."
+  },
+  {
+    "sentence": "この契約は、当事者双方の権利を守るために締結されました。",
+    "sentence_furigana": "この契約【けいやく】は、当事者双方【とうじしゃそうほう】の権利【けんり】を守【まも】るために締結【ていけつ】されました。",
+    "meaning": "This contract was concluded to protect the rights of both parties."
+  },
+  {
+    "sentence": "彼は国家の独立を守るために戦った英雄です。",
+    "sentence_furigana": "彼【かれ】は国家【こっか】の独立【どくりつ】を守【まも】るために戦【たたか】った英雄【えいゆう】です。",
+    "meaning": "He is a hero who fought to protect the nation's independence."
+  },
+  {
+    "sentence": "彼女は自分の大切なものを守るためなら、どんな困難にも立ち向かう。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の大切【たいせつ】なものを守【まも】るためなら、どんな困難【こんなん】にも立【た】ち向【む】かう。",
+    "meaning": "She will face any hardship to protect what is important to her."
+  },
+  {
+    "sentence": "この法律は消費者の安全を守ることを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は消費者【しょうひしゃ】の安全【あんぜん】を守【まも】ることを目的【もくてき】としています。",
+    "meaning": "This law aims to protect consumer safety."
+  },
+  {
+    "sentence": "彼は常に弱者を擁護し、保護するという使命感を持っていた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に弱者【じゃくしゃ】を擁護【ようご】し、保護【ほご】するという使命感【しめいかん】を持【も】っていた。",
+    "meaning": "He always had a sense of mission to advocate for and protect the weak."
+  },
+  {
+    "sentence": "私たちは先祖から受け継いだこの土地の自然を守る義務があります。",
+    "sentence_furigana": "私【わたし】たちは先祖【せんぞ】から受【う】け継【つ】いだこの土地【とち】の自然【しぜん】を守【まも】る義務【ぎむ】があります。",
+    "meaning": "We have a duty to protect the nature of this land inherited from our ancestors."
+  },
+  {
+    "sentence": "彼は自分の信念を貫き、他者の不正な行為を許さなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信念【しんねん】を貫【つらぬ】き、他者【たしゃ】の不正【ふせい】な行為【こうい】を許【ゆる】さなかった。",
+    "meaning": "He held fast to his beliefs and did not allow the wrongful actions of others."
+  },
+  {
+    "sentence": "彼女は子供たちの健全な成長をサポートするために、安全な遊び環境を整備することに尽力している。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの健全【けんぜん】な成長【せいちょう】をサポートするために、安全【あんぜん】な遊【あそ】び環境【かんきょう】を整備【せいび】することに尽力【じんりょく】している。",
+    "meaning": "She is dedicated to creating a safe play environment to support the healthy growth of children."
+  },
+  {
+    "sentence": "この法律はすべての国民の基本的な権利を守ることを保障します。",
+    "sentence_furigana": "この法律【ほうりつ】はすべて の国民【こくみん】の基本的【きほんてき】な権利【けんり】を守【まも】ることを保障【ほしょう】します。",
+    "meaning": "This law guarantees the protection of all citizens' basic rights."
+  },
+  {
+    "sentence": "彼は自分の誠実さを守るため、たとえ不利であっても真実を語った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の誠実【せいじつ】さを守【まも】るため、たとえ不利【ふり】であっても真実【しんじつ】を語【かた】った。",
+    "meaning": "To protect his integrity, he told the truth even if it was disadvantageous."
+  },
+  {
+    "sentence": "彼女は地域社会の伝統と文化を守る活動を支援している。",
+    "sentence_furigana": "彼女【かのじょ】は地域社会【ちいきしゃかい】の伝統【でんとう】と文化【ぶんか】を守【まも】る活動【かつどう】を支援【しえん】している。",
+    "meaning": "She supports activities to preserve the traditions and culture of the community."
+  },
+  {
+    "sentence": "この国の豊かな自然を守るために、私たちは行動しなければなりません。",
+    "sentence_furigana": "この国【くに】の豊【ゆた】かな自然【しぜん】を守【まも】るために、私【わたし】たちは行動【こうどう】しなければなりません。",
+    "meaning": "We must take action to protect the rich nature of this country."
+  },
+  {
+    "sentence": "彼は約束の言葉を守り抜いた。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】の言葉【ことば】を守【まも】り抜【ぬ】いた。",
+    "meaning": "He kept his word faithfully."
+  },
+  {
+    "sentence": "彼女は子供たちの夢を守るために、常に努力を惜しまない。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの夢【ゆめ】を守【まも】るために、常【つね】に努力【どりょく】を惜【お】しまない。",
+    "meaning": "She never spares effort to protect children's dreams."
+  },
+  {
+    "sentence": "この法律は、知的財産を守るために非常に重要です。",
+    "sentence_furigana": "この法律【ほうりつ】は、知的財産【ちてきざいさん】を守【まも】るために非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "This law is very important for protecting intellectual property."
+  },
+  {
+    "sentence": "彼は国家の安全を守るという公務に忠実に務めた。",
+    "sentence_furigana": "彼【かれ】は国家【こっか】の安全【あんぜん】を守【まも】るという公務【こうむ】に忠実【ちゅうじつ】に務【つと】めた。",
+    "meaning": "He faithfully served in his public duty of protecting the nation's security."
+  },
+  {
+    "sentence": "彼女は弱者や貧しい人々を守るための支援活動に献身している。",
+    "sentence_furigana": "彼女【かのじょ】は弱者【じゃくしゃ】や貧【まず】しい人々【ひとびと】を守【まも】るための支援活動【しえんかつどう】に献身【けんしん】している。",
+    "meaning": "She is devoted to support activities for protecting the weak and the poor."
+  },
+  {
+    "sentence": "私たちは未来の世代のために、この地球を守る責任があります。",
+    "sentence_furigana": "私【わたし】たちは未来【みらい】の世代【せだい】のために、この地球【ちきゅう】を守【まも】る責任【せきにん】があります。",
+    "meaning": "We have a responsibility to protect this Earth for future generations."
+  },
+  {
+    "sentence": "彼は自分のチームメイトを守るために、危険を顧みなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のチームメイトを守【まも】るために、危険【きけん】を顧【かえ】りみなかった。",
+    "meaning": "He disregarded danger to protect his teammates."
+  },
+  {
+    "sentence": "彼女は子供たちの学ぶ権利を守るために、教育改革を推進した。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの学【まな】ぶ権利【けんり】を守【まも】るために、教育改革【きょういくかいかく】を推進【すいしん】した。",
+    "meaning": "She promoted educational reform to protect children's right to learn."
+  },
+  {
+    "sentence": "この法律はすべての市民の基本的自由を守るためのものです。",
+    "sentence_furigana": "この法律【ほうりつ】はすべて の市民【しみん】の基本的【きほんてき】自由【じゆう】を守【まも】るためのものです。",
+    "meaning": "This law is for protecting the basic freedoms of all citizens."
+  },
+  {
+    "sentence": "彼は自分の発言の正当性を守るため、証拠を提示した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の発言【はつげん】の正当性【せいとうせい】を守【まも】るため、証拠【しょうこ】を提示【ていじ】した。",
+    "meaning": "He presented evidence to defend the legitimacy of his statement."
+  },
+  {
+    "sentence": "彼女は歴史的な建造物を守るための資金を集める活動を行っている。",
+    "sentence_furigana": "彼女【かのじょ】は歴史的建造物【れきしてきけんぞうぶつ】を守【まも】るための資金【しきん】を集【あつ】める活動【かつどう】を行【おこな】っている。",
+    "meaning": "She is engaged in activities to raise funds for preserving historical buildings."
+  },
+  {
+    "sentence": "この国は独立を守るために、長年にわたり努力してきた。",
+    "sentence_furigana": "この国【くに】は独立【どくりつ】を守【まも】るために、長年【ながねん】にわたり努力【どりょく】してきた。",
+    "meaning": "This country has strived for many years to protect its independence."
+  },
+  {
+    "sentence": "彼は自分の意見を曲げず、貫き通した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を曲【ま】げず、貫【つらぬ】き通【とお】した。",
+    "meaning": "He did not compromise his opinion and saw it through."
+  }
+]

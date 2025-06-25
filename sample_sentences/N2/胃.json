@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "胃は消化器系の一部です。",
+    "sentence_furigana": "胃【い】は消化器系【しょうかきけい】の一部【いちぶ】です。",
+    "meaning": "The stomach is part of the digestive system."
+  },
+  {
+    "sentence": "彼の胃は丈夫だ。",
+    "sentence_furigana": "彼【かれ】の胃【い】は丈夫【じょうぶ】だ。",
+    "meaning": "His stomach is strong."
+  },
+  {
+    "sentence": "胃痛がひどい。",
+    "sentence_furigana": "胃痛【いつう】がひどい。",
+    "meaning": "My stomach ache is severe."
+  },
+  {
+    "sentence": "空腹で胃が鳴っている。",
+    "sentence_furigana": "空腹【くうふく】で胃【い】が鳴【な】っている。",
+    "meaning": "My stomach is rumbling from hunger."
+  },
+  {
+    "sentence": "胃の調子が悪いです。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】が悪【わる】いです。",
+    "meaning": "My stomach is not feeling well."
+  },
+  {
+    "sentence": "胃カメラで検査をした。",
+    "sentence_furigana": "胃カメラ【い】で検査【けんさ】をした。",
+    "meaning": "I had an examination with a gastrocamera."
+  },
+  {
+    "sentence": "食事の後は胃がもたれる。",
+    "sentence_furigana": "食事【しょくじ】の後【あと】は胃【い】がもたれる。",
+    "meaning": "My stomach feels heavy after eating."
+  },
+  {
+    "sentence": "胃酸過多の薬を処方された。",
+    "sentence_furigana": "胃酸過多【いさんかた】の薬【くすり】を処方【しょほう】された。",
+    "meaning": "I was prescribed medication for excess stomach acid."
+  },
+  {
+    "sentence": "食べ過ぎて胃が痛む。",
+    "sentence_furigana": "食【た】べ過【す】ぎて胃【い】が痛【いた】む。",
+    "meaning": "My stomach hurts from eating too much."
+  },
+  {
+    "sentence": "胃潰瘍の治療を受けている。",
+    "sentence_furigana": "胃潰瘍【いかいよう】の治療【ちりょう】を受【う】けている。",
+    "meaning": "I am undergoing treatment for a stomach ulcer."
+  },
+  {
+    "sentence": "胃のむかつきを感じる。",
+    "sentence_furigana": "胃【い】のむかつきを感【かん】じる。",
+    "meaning": "I feel a queasy sensation in my stomach."
+  },
+  {
+    "sentence": "この薬は胃に優しい。",
+    "sentence_furigana": "この薬【くすり】は胃【い】に優【やさ】しい。",
+    "meaning": "This medicine is gentle on the stomach."
+  },
+  {
+    "sentence": "胃のレントゲン写真を撮った。",
+    "sentence_furigana": "胃【い】のレントゲン写真【しゃしん】を撮【と】った。",
+    "meaning": "I had an X-ray of my stomach taken."
+  },
+  {
+    "sentence": "空の胃にコーヒーを飲むのは良くない。",
+    "sentence_furigana": "空【から】の胃【い】にコーヒーを飲【の】むのは良【よ】くない。",
+    "meaning": "It's not good to drink coffee on an empty stomach."
+  },
+  {
+    "sentence": "胃の動きが悪くなってきた。",
+    "sentence_furigana": "胃【い】の動【うご】きが悪【わる】くなってきた。",
+    "meaning": "My stomach's motility has decreased."
+  },
+  {
+    "sentence": "胃がんの疑いがある。",
+    "sentence_furigana": "胃がん【い】の疑【うたが】いがある。",
+    "meaning": "There is a suspicion of stomach cancer."
+  },
+  {
+    "sentence": "胃袋が大きくなったようだ。",
+    "sentence_furigana": "胃袋【いぶくろ】が⼤【おお】きくなったようだ。",
+    "meaning": "My stomach seems to have gotten bigger."
+  },
+  {
+    "sentence": "胃に不快感を覚える。",
+    "sentence_furigana": "胃【い】に不快感【ふかいかん】を覚【おぼ】える。",
+    "meaning": "I feel discomfort in my stomach."
+  },
+  {
+    "sentence": "胃薬を飲んだら少し楽になった。",
+    "sentence_furigana": "胃薬【いぐすり】を飲【の】んだら少【すこ】し楽【らく】になった。",
+    "meaning": "I felt a little better after taking stomach medicine."
+  },
+  {
+    "sentence": "胃が重い感じがする。",
+    "sentence_furigana": "胃【い】が重【おも】い感【かん】じがする。",
+    "meaning": "My stomach feels heavy."
+  },
+  {
+    "sentence": "食事療法で胃の調子を整える。",
+    "sentence_furigana": "食事療法【しょくじりょうほう】で胃【い】の調子【ちょうし】を整【ととの】える。",
+    "meaning": "I am regulating my stomach condition with dietary therapy."
+  },
+  {
+    "sentence": "消化不良で胃がもたれている。",
+    "sentence_furigana": "消化不良【しょうかふりょう】で胃【い】がもたれている。",
+    "meaning": "My stomach is heavy due to indigestion."
+  },
+  {
+    "sentence": "胃薬が切れた。",
+    "sentence_furigana": "胃薬【いぐすり】が切【き】れた。",
+    "meaning": "I ran out of stomach medicine."
+  },
+  {
+    "sentence": "胃の検査結果を待っている。",
+    "sentence_furigana": "胃【い】の検査結果【けんさけっか】を待【ま】っている。",
+    "meaning": "I am waiting for the results of my stomach examination."
+  },
+  {
+    "sentence": "胃拡張が原因で食欲がない。",
+    "sentence_furigana": "胃拡張【いかくちょう】が原因【げんいん】で食欲【しょくよく】がない。",
+    "meaning": "I have no appetite due to stomach dilation."
+  },
+  {
+    "sentence": "胃に良い食べ物を探している。",
+    "sentence_furigana": "胃【い】に良【よ】い食【た】べ物【もの】を探【さが】している。",
+    "meaning": "I am looking for foods that are good for the stomach."
+  },
+  {
+    "sentence": "胃腸の働きを活発にする。",
+    "sentence_furigana": "胃腸【いちょう】の働【はたら】きを活発【かっぱつ】にする。",
+    "meaning": "To stimulate the function of the stomach and intestines."
+  },
+  {
+    "sentence": "胃が重くて何も食べたくない。",
+    "sentence_furigana": "胃【い】が重【おも】くて何【なに】も食【た】べたくない。",
+    "meaning": "My stomach feels heavy and I don't want to eat anything."
+  },
+  {
+    "sentence": "胃カメラ検査は少し苦しい。",
+    "sentence_furigana": "胃カメラ検査【い】は少【すこ】し苦【くる】しい。",
+    "meaning": "A gastrocamera examination is a bit uncomfortable."
+  },
+  {
+    "sentence": "ストレスで胃が痛むことがある。",
+    "sentence_furigana": "ストレスで胃【い】が痛【いた】むことがある。",
+    "meaning": "My stomach sometimes hurts due to stress."
+  },
+  {
+    "sentence": "胃の動きを良くする体操。",
+    "sentence_furigana": "胃【い】の動【うご】きを良【よ】くする体操【たいそう】。",
+    "meaning": "Exercises to improve stomach function."
+  },
+  {
+    "sentence": "胃薬は食後に飲むように言われた。",
+    "sentence_furigana": "胃薬【いぐすり】は食後【しょくご】に飲【の】むように言【い】われた。",
+    "meaning": "I was told to take the stomach medicine after meals."
+  },
+  {
+    "sentence": "胃の検査のために絶食してください。",
+    "sentence_furigana": "胃【い】の検査【けんさ】のために絶食【ぜっしょく】してください。",
+    "meaning": "Please refrain from eating for the stomach examination."
+  },
+  {
+    "sentence": "胃が空っぽになった。",
+    "sentence_furigana": "胃【い】が空っぽ【からっぽ】になった。",
+    "meaning": "My stomach became empty."
+  },
+  {
+    "sentence": "胃に食べ物が残っている感じがする。",
+    "sentence_furigana": "胃【い】に食【た】べ物【もの】が残【のこ】っている感【かん】じがする。",
+    "meaning": "I feel like there is food left in my stomach."
+  },
+  {
+    "sentence": "胃が張っている。",
+    "sentence_furigana": "胃【い】が張【は】っている。",
+    "meaning": "My stomach is distended."
+  },
+  {
+    "sentence": "胃がん検診を受けるべきだ。",
+    "sentence_furigana": "胃がん検診【いがんけんしん】を受【う】けるべきだ。",
+    "meaning": "One should get a stomach cancer screening."
+  },
+  {
+    "sentence": "胃の不調の原因は何だろうか。",
+    "sentence_furigana": "胃【い】の不調【ふちょう】の原因【げんいん】は何【なん】だろうか。",
+    "meaning": "What could be the cause of my stomach discomfort?"
+  },
+  {
+    "sentence": "胃液の逆流を防ぐ。",
+    "sentence_furigana": "胃液【いえき】の逆流【ぎゃくりゅう】を防【ふせ】ぐ。",
+    "meaning": "To prevent the reflux of stomach acid."
+  },
+  {
+    "sentence": "胃に負担のかからない食事を心がける。",
+    "sentence_furigana": "胃【い】に負担【ふたん】のかからない食事【しょくじ】を心【こころ】がける。",
+    "meaning": "I try to eat meals that do not burden my stomach."
+  },
+  {
+    "sentence": "胃薬を飲むと気分が悪くなる。",
+    "sentence_furigana": "胃薬【いぐすり】を飲【の】むと気分【きぶん】が悪【わる】くなる。",
+    "meaning": "I feel sick when I take stomach medicine."
+  },
+  {
+    "sentence": "胃潰瘍になったことがある。",
+    "sentence_furigana": "胃潰瘍【いかいよう】になったことがある。",
+    "meaning": "I have had a stomach ulcer before."
+  },
+  {
+    "sentence": "胃が大きくて、一度にたくさん食べられる。",
+    "sentence_furigana": "胃【い】が⼤【おお】きくて、一度【いちど】にたくさん食【た】べられる。",
+    "meaning": "My stomach is large, so I can eat a lot at once."
+  },
+  {
+    "sentence": "胃が空っぽだと、集中できない。",
+    "sentence_furigana": "胃【い】が空っぽ【からっぽ】だと、集中【しゅうちゅう】できない。",
+    "meaning": "I cannot concentrate when my stomach is empty."
+  },
+  {
+    "sentence": "胃の痛みは治まった。",
+    "sentence_furigana": "胃【い】の痛【いた】みは治【おさ】まった。",
+    "meaning": "The stomach pain has subsided."
+  },
+  {
+    "sentence": "胃腸薬を買いに行った。",
+    "sentence_furigana": "胃腸薬【いちょうやく】を買【か】いに行【い】った。",
+    "meaning": "I went to buy medicine for my stomach."
+  },
+  {
+    "sentence": "胃がむかむかする。",
+    "sentence_furigana": "胃【い】がむかむかする。",
+    "meaning": "My stomach feels queasy."
+  },
+  {
+    "sentence": "胃の検査結果は異常なしでした。",
+    "sentence_furigana": "胃【い】の検査結果【けんさけっか】は異常【いじょう】なしでした。",
+    "meaning": "The results of my stomach examination were normal."
+  },
+  {
+    "sentence": "胃がんの早期発見が重要だ。",
+    "sentence_furigana": "胃がん【い】の早期発見【そうきはっけん】が重要【じゅうよう】だ。",
+    "meaning": "Early detection of stomach cancer is important."
+  },
+  {
+    "sentence": "胃に負担をかける食べ物を避ける。",
+    "sentence_furigana": "胃【い】に負担【ふたん】をかける食【た】べ物【もの】を避【さ】ける。",
+    "meaning": "To avoid foods that burden the stomach."
+  },
+  {
+    "sentence": "胃の調子が悪いので、消化の良いものを食べる。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】が悪【わる】いので、消化【しょうか】の良【よ】いものを食【た】べる。",
+    "meaning": "My stomach is not feeling well, so I am eating easily digestible foods."
+  },
+  {
+    "sentence": "胃袋に物を入れる。",
+    "sentence_furigana": "胃袋【いぶくろ】に物【もの】を入【い】れる。",
+    "meaning": "To put things into the stomach."
+  },
+  {
+    "sentence": "胃液の分泌を抑える薬。",
+    "sentence_furigana": "胃液【いえき】の分泌【ぶんぴつ】を抑【おさ】える薬【くすり】。",
+    "meaning": "Medicine that suppresses stomach acid secretion."
+  },
+  {
+    "sentence": "胃に食べ物がたくさん入っている。",
+    "sentence_furigana": "胃【い】に食【た】べ物【もの】がたくさん入【はい】っている。",
+    "meaning": "There is a lot of food in my stomach."
+  },
+  {
+    "sentence": "胃は食べたものを消化する。",
+    "sentence_furigana": "胃【い】は食【た】べた物【もの】を消化【しょうか】する。",
+    "meaning": "The stomach digests food."
+  },
+  {
+    "sentence": "胃の不調を改善したい。",
+    "sentence_furigana": "胃【い】の不調【ふちょう】を改善【かいぜん】したい。",
+    "meaning": "I want to improve my stomach's condition."
+  },
+  {
+    "sentence": "胃がんの治療法について調べる。",
+    "sentence_furigana": "胃がん【い】の治療法【ちりょうほう】について調【しら】べる。",
+    "meaning": "To research treatments for stomach cancer."
+  },
+  {
+    "sentence": "胃の調子を整えるために、軽い食事を心がける。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】を整【ととの】えるために、軽【かる】い食事【しょくじ】を心【こころ】がける。",
+    "meaning": "To improve my stomach's condition, I aim for light meals."
+  },
+  {
+    "sentence": "胃が痛むので、病院に行った。",
+    "sentence_furigana": "胃【い】が痛【いた】むので、病院【びょういん】に行【い】った。",
+    "meaning": "My stomach hurts, so I went to the hospital."
+  },
+  {
+    "sentence": "胃に良い飲み物を探す。",
+    "sentence_furigana": "胃【い】に良【よ】い飲【の】み物【もの】を探【さが】す。",
+    "meaning": "To look for drinks that are good for the stomach."
+  },
+  {
+    "sentence": "胃酸の分泌を抑える必要がある。",
+    "sentence_furigana": "胃酸【いさん】の分泌【ぶんぴつ】を抑【おさ】える必要【ひつよう】がある。",
+    "meaning": "It is necessary to suppress the secretion of stomach acid."
+  },
+  {
+    "sentence": "胃の検査を予約した。",
+    "sentence_furigana": "胃【い】の検査【けんさ】を予約【よやく】した。",
+    "meaning": "I made an appointment for a stomach examination."
+  },
+  {
+    "sentence": "胃薬はいつ飲むのが効果的ですか。",
+    "sentence_furigana": "胃薬【いぐすり】はいつ飲【の】むのが効果的【こうかてき】ですか。",
+    "meaning": "When is it effective to take stomach medicine?"
+  },
+  {
+    "sentence": "胃が重くて食欲がない。",
+    "sentence_furigana": "胃【い】が重【おも】くて食欲【しょくよく】がない。",
+    "meaning": "My stomach feels heavy and I have no appetite."
+  },
+  {
+    "sentence": "胃の健康のために、規則正しい食生活を送る。",
+    "sentence_furigana": "胃【い】の健康【けんこう】のために、規則正【きそくただ】しい食生活【しょくせいかつ】を送【おく】る。",
+    "meaning": "For the health of my stomach, I maintain a regular eating lifestyle."
+  },
+  {
+    "sentence": "胃が空っぽなので、何か食べたい。",
+    "sentence_furigana": "胃【い】が空っぽ【からっぽ】なので、何【なに】か食【た】べたい。",
+    "meaning": "My stomach is empty, so I want to eat something."
+  },
+  {
+    "sentence": "胃の調子を整える漢方薬。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】を整【ととの】える漢方薬【かんぽうやく】。",
+    "meaning": "Kampo medicine to improve stomach condition."
+  },
+  {
+    "sentence": "胃の働きを助ける食品。",
+    "sentence_furigana": "胃【い】の働【はたら】きを助【たす】ける食品【しょくひん】。",
+    "meaning": "Foods that help stomach function."
+  },
+  {
+    "sentence": "胃がキリキリ痛む。",
+    "sentence_furigana": "胃【い】がキリキリ痛【いた】む。",
+    "meaning": "My stomach is throbbing with pain."
+  },
+  {
+    "sentence": "胃の検査は無事に終わりました。",
+    "sentence_furigana": "胃【い】の検査【けんさ】は無事【ぶじ】に終【お】わりました。",
+    "meaning": "The stomach examination finished without incident."
+  },
+  {
+    "sentence": "胃もたれがするので、今日は軽食にする。",
+    "sentence_furigana": "胃もたれ【い】がするので、今日【きょう】は軽食【けいしょく】にする。",
+    "meaning": "My stomach feels heavy, so I'll have a light meal today."
+  },
+  {
+    "sentence": "胃の働きを活発にする飲み物。",
+    "sentence_furigana": "胃【い】の働【はたら】きを活発【かっぱつ】にする飲【の】み物【もの】。",
+    "meaning": "Drinks that stimulate stomach activity."
+  },
+  {
+    "sentence": "胃腸の調子を整えるための生活習慣。",
+    "sentence_furigana": "胃腸【いちょう】の調子【ちょうし】を整【ととの】えるための生活習慣【せいかつしゅうかん】。",
+    "meaning": "Lifestyle habits to improve gastrointestinal condition."
+  },
+  {
+    "sentence": "胃の調子が悪くて、食欲がわかない。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】が悪【わる】くて、食欲【しょくよく】がわかない。",
+    "meaning": "My stomach is not feeling well, and I have no appetite."
+  },
+  {
+    "sentence": "胃潰瘍の再発を防ぐ。",
+    "sentence_furigana": "胃潰瘍【いかいよう】の再発【さいはつ】を防【ふせ】ぐ。",
+    "meaning": "To prevent the recurrence of a stomach ulcer."
+  },
+  {
+    "sentence": "胃の検査で異常が見つかった。",
+    "sentence_furigana": "胃【い】の検査【けんさ】で異常【いじょう】が見【み】つかった。",
+    "meaning": "An abnormality was found during the stomach examination."
+  },
+  {
+    "sentence": "胃が張って苦しい。",
+    "sentence_furigana": "胃【い】が張【は】って苦【くる】しい。",
+    "meaning": "My stomach is distended and uncomfortable."
+  },
+  {
+    "sentence": "胃酸過多にならないように注意する。",
+    "sentence_furigana": "胃酸過多【いさんかた】にならないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to develop excess stomach acid."
+  },
+  {
+    "sentence": "胃の健康診断を受けた。",
+    "sentence_furigana": "胃【い】の健康診断【けんこうしんだん】を受【う】けた。",
+    "meaning": "I received a stomach health check-up."
+  },
+  {
+    "sentence": "胃カメラの検査結果を説明する。",
+    "sentence_furigana": "胃カメラ【い】の検査結果【けんさけっか】を説明【せつめい】する。",
+    "meaning": "To explain the results of the gastrocamera examination."
+  },
+  {
+    "sentence": "胃を休ませる必要がある。",
+    "sentence_furigana": "胃【い】を休【やす】ませる必要【ひつよう】がある。",
+    "meaning": "It is necessary to rest the stomach."
+  },
+  {
+    "sentence": "胃の不調は、ストレスが原因かもしれません。",
+    "sentence_furigana": "胃【い】の不調【ふちょう】は、ストレスが原因【げんいん】かもしれません。",
+    "meaning": "My stomach discomfort might be caused by stress."
+  },
+  {
+    "sentence": "胃がんの治療は、早期に行うことが大切だ。",
+    "sentence_furigana": "胃がん【い】の治療【ちりょう】は、早期【そうき】に行【おこな】うことが大切【たいせつ】だ。",
+    "meaning": "It is important to treat stomach cancer early."
+  },
+  {
+    "sentence": "胃の調子が戻ってきた。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】が戻【もど】ってきた。",
+    "meaning": "My stomach's condition has returned to normal."
+  },
+  {
+    "sentence": "胃を拡張させる。",
+    "sentence_furigana": "胃【い】を拡張【かくちょう】させる。",
+    "meaning": "To dilate the stomach."
+  },
+  {
+    "sentence": "胃薬を飲むと、すぐに効く。",
+    "sentence_furigana": "胃薬【いぐすり】を飲【の】むと、すぐに効【き】く。",
+    "meaning": "Stomach medicine works quickly."
+  },
+  {
+    "sentence": "胃カメラ検査は、少量の鎮静剤を使うこともあります。",
+    "sentence_furigana": "胃カメラ検査【い】は、少量【しょうりょう】の鎮静剤【ちんせいざい】を使【つか】うこともあります。",
+    "meaning": "A gastrocamera examination may also involve a small amount of sedative."
+  },
+  {
+    "sentence": "胃の動きを良くする食材。",
+    "sentence_furigana": "胃【い】の動【うご】きを良【よ】くする食材【しょくざい】。",
+    "meaning": "Ingredients that improve stomach function."
+  },
+  {
+    "sentence": "胃腸薬は、食前と食後に分けて飲む。",
+    "sentence_furigana": "胃腸薬【いちょうやく】は、食前【しょくぜん】と食後【しょくご】に分【わ】けて飲【の】む。",
+    "meaning": "Take gastrointestinal medicine separately before and after meals."
+  },
+  {
+    "sentence": "胃が痛むので、医者に相談した。",
+    "sentence_furigana": "胃【い】が痛【いた】むので、医者【いしゃ】に相談【そうだん】した。",
+    "meaning": "My stomach hurts, so I consulted a doctor."
+  },
+  {
+    "sentence": "胃の検査結果を詳しく知りたい。",
+    "sentence_furigana": "胃【い】の検査結果【けんさけっか】を詳【くわ】しく知【し】りたい。",
+    "meaning": "I want to know the details of my stomach examination results."
+  },
+  {
+    "sentence": "胃薬は飲みすぎると副作用がある。",
+    "sentence_furigana": "胃薬【いぐすり】は飲【の】みすぎると副作用【ふくさよう】がある。",
+    "meaning": "Taking too much stomach medicine can have side effects."
+  },
+  {
+    "sentence": "胃の健康を保つための食事法。",
+    "sentence_furigana": "胃【い】の健康【けんこう】を保【たも】つための食事法【しょくじほう】。",
+    "meaning": "Dietary methods for maintaining stomach health."
+  },
+  {
+    "sentence": "胃がん検診は定期的に受けるべきだ。",
+    "sentence_furigana": "胃がん検診【いがんけんしん】は定期的【ていきてき】に受【う】けるべきだ。",
+    "meaning": "Stomach cancer screenings should be received regularly."
+  },
+  {
+    "sentence": "胃の調子が悪くても、無理に食べない。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】が悪【わる】くても、無理【むり】に食【た】べない。",
+    "meaning": "Even if my stomach is not feeling well, I don't force myself to eat."
+  },
+  {
+    "sentence": "胃に負担をかけないように、ゆっくり食べる。",
+    "sentence_furigana": "胃【い】に負担【ふたん】をかけないように、ゆっくり食【た】べる。",
+    "meaning": "To avoid burdening my stomach, I eat slowly."
+  },
+  {
+    "sentence": "胃カメラ検査は初めてだったので緊張した。",
+    "sentence_furigana": "胃カメラ検査【い】は初【はじ】めてだったので緊張【きんちょう】した。",
+    "meaning": "I was nervous because it was my first gastrocamera examination."
+  },
+  {
+    "sentence": "胃の調子を整えるために、生姜湯を飲んだ。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】を整【ととの】えるために、生姜湯【しょうがゆ】を飲【の】んだ。",
+    "meaning": "I drank ginger tea to improve my stomach's condition."
+  },
+  {
+    "sentence": "胃は食べ物を貯蔵する。",
+    "sentence_furigana": "胃【い】は食【た】べ物【もの】を貯蔵【ちょぞう】する。",
+    "meaning": "The stomach stores food."
+  },
+  {
+    "sentence": "胃の働きを助ける整腸剤。",
+    "sentence_furigana": "胃【い】の働【はたら】きを助【たす】ける整腸剤【せいちょうざい】。",
+    "meaning": "Intestinal regulator that helps stomach function."
+  },
+  {
+    "sentence": "胃薬は、空腹時に飲むと効果がある場合がある。",
+    "sentence_furigana": "胃薬【いぐすり】は、空腹時【くうふくじ】に飲【の】むと効果【こうか】がある場合【ばあい】がある。",
+    "meaning": "Stomach medicine can be effective when taken on an empty stomach in some cases."
+  },
+  {
+    "sentence": "胃の検査予約日を変更したい。",
+    "sentence_furigana": "胃【い】の検査予約日【けんさよやくび】を変【か】えたい。",
+    "meaning": "I want to change my stomach examination appointment date."
+  },
+  {
+    "sentence": "胃がんの早期発見が治療の鍵となる。",
+    "sentence_furigana": "胃がん【い】の早期発見【そうきはっけん】が治療【ちりょう】の鍵【かぎ】となる。",
+    "meaning": "Early detection of stomach cancer is key to treatment."
+  },
+  {
+    "sentence": "胃の不調を感じたら、無理せず休む。",
+    "sentence_furigana": "胃【い】の不調【ふちょう】を感【かん】じたら、無理【むり】せず休【やす】む。",
+    "meaning": "If you feel unwell in your stomach, rest without overexerting yourself."
+  },
+  {
+    "sentence": "胃は消化の中心的な役割を担う。",
+    "sentence_furigana": "胃【い】は消化【しょうか】の中心的【ちゅうしんてき】な役割【やくわり】を担【にな】う。",
+    "meaning": "The stomach plays a central role in digestion."
+  },
+  {
+    "sentence": "胃薬を飲むと、胃の痛みが和らぐ。",
+    "sentence_furigana": "胃薬【いぐすり】を飲【の】むと、胃【い】の痛【いた】みが和【やわ】らぐ。",
+    "meaning": "Taking stomach medicine alleviates stomach pain."
+  },
+  {
+    "sentence": "胃カメラ検査の準備について教えてください。",
+    "sentence_furigana": "胃カメラ検査【い】の準備【じゅんび】について教【おし】えてください。",
+    "meaning": "Please tell me about the preparation for the gastrocamera examination."
+  },
+  {
+    "sentence": "胃の調子を整えるために、ヨーグルトを食べる。",
+    "sentence_furigana": "胃【い】の調子【ちょうし】を整【ととの】えるために、ヨーグルトを食【た】べる。",
+    "meaning": "I eat yogurt to improve my stomach's condition."
+  },
+  {
+    "sentence": "胃薬は、効き目が現れるまで時間がかかる。",
+    "sentence_furigana": "胃薬【いぐすり】は、効【き】き目【め】が現【あらわ】れるまで時間【じかん】がかかる。",
+    "meaning": "It takes time for stomach medicine to show its effects."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "太陽の光はとても暖かい。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】はとても暖【あたた】かい。",
+    "meaning": "The sunlight is very warm."
+  },
+  {
+    "sentence": "部屋に明かりが灯った。",
+    "sentence_furigana": "部屋【へや】に明【あ】かりが灯【とも】った。",
+    "meaning": "A light turned on in the room."
+  },
+  {
+    "sentence": "彼女は笑顔が輝いていた。",
+    "sentence_furigana": "彼女【かのじょ】は笑顔【えがお】が輝【かがや】いていた。",
+    "meaning": "Her smile was radiant."
+  },
+  {
+    "sentence": "星の光が夜空を照らしている。",
+    "sentence_furigana": "星【ほし】の光【ひかり】が夜空【よぞら】を照【て】らしている。",
+    "meaning": "The starlight is illuminating the night sky."
+  },
+  {
+    "sentence": "光る石を見つけた。",
+    "sentence_furigana": "光【ひか】る石【いし】を見【み】つけた。",
+    "meaning": "I found a shining stone."
+  },
+  {
+    "sentence": "彼の目は希望の光を宿していた。",
+    "sentence_furigana": "彼【かれ】の目【め】は希望【きぼう】の光【ひかり】を宿【やど】していた。",
+    "meaning": "His eyes held a light of hope."
+  },
+  {
+    "sentence": "この絵は光と影のコントラストが美しい。",
+    "sentence_furigana": "この絵【え】は光【ひかり】と影【かげ】のコントラストが美【うつく】しい。",
+    "meaning": "The contrast of light and shadow in this painting is beautiful."
+  },
+  {
+    "sentence": "写真に光が差し込んでいる。",
+    "sentence_furigana": "写真【しゃしん】に光【ひかり】が差【さ】し込【こ】んでいる。",
+    "meaning": "Light is streaming into the photo."
+  },
+  {
+    "sentence": "未来への光を見つけよう。",
+    "sentence_furigana": "未来【みらい】への光【ひかり】を見【み】つけよう。",
+    "meaning": "Let's find the light towards the future."
+  },
+  {
+    "sentence": "光栄なことに、賞をいただきました。",
+    "sentence_furigana": "光栄【こうえい】なことに、賞【しょう】をいただきました。",
+    "meaning": "It was an honor to receive the award."
+  },
+  {
+    "sentence": "観光客で賑わっている。",
+    "sentence_furigana": "観光客【かんこうきゃく】で賑【にぎ】わっている。",
+    "meaning": "It is bustling with tourists."
+  },
+  {
+    "sentence": "彼は優秀な科学者だ。",
+    "sentence_furigana": "彼【かれ】は優【ゆう】秀【しゅう】な科学者【かがくしゃ】だ。",
+    "meaning": "He is an excellent scientist."
+  },
+  {
+    "sentence": "光熱費を節約する必要がある。",
+    "sentence_furigana": "光熱費【こうねつひ】を節約【せつやく】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to save on utility costs."
+  },
+  {
+    "sentence": "そのニュースは私に希望の光を与えた。",
+    "sentence_furigana": "そのニュースは私【わたし】に希望【きぼう】の光【ひかり】を与【あた】えた。",
+    "meaning": "That news gave me a ray of hope."
+  },
+  {
+    "sentence": "暗闇の中に一条の光が見えた。",
+    "sentence_furigana": "暗闇【くらやみ】の中【なか】に一条【いちじょう】の光【ひかり】が見【み】えた。",
+    "meaning": "A beam of light was visible in the darkness."
+  },
+  {
+    "sentence": "彼は新しい事業を始めた。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな事業【じぎょう】を始【はじ】めた。",
+    "meaning": "He started a new business."
+  },
+  {
+    "sentence": "光沢のある生地で作られたドレス。",
+    "sentence_furigana": "光沢【こうたく】のある生地【きじ】で作【つく】られたドレス。",
+    "meaning": "A dress made of lustrous fabric."
+  },
+  {
+    "sentence": "自然光を取り入れるように設計された家。",
+    "sentence_furigana": "自然光【しぜんこう】を取【と】り入【い】れるように設計【せっけい】された家【いえ】。",
+    "meaning": "A house designed to let in natural light."
+  },
+  {
+    "sentence": "街の明かりが遠くまで見えた。",
+    "sentence_furigana": "街【まち】の明【あ】かりが遠【とお】くまで見【み】えた。",
+    "meaning": "The city lights were visible far away."
+  },
+  {
+    "sentence": "彼の理論は画期的な光を放った。",
+    "sentence_furigana": "彼【かれ】の理論【りろん】は画期的【かっきてき】な光【ひかり】を放【はな】った。",
+    "meaning": "His theory shed a groundbreaking light."
+  },
+  {
+    "sentence": "太陽光発電システムを導入した。",
+    "sentence_furigana": "太陽光【たいようこう】発電【はつでん】システムを導入【どうにゅう】した。",
+    "meaning": "We introduced a solar power generation system."
+  },
+  {
+    "sentence": "この宝石は光を反射して輝いている。",
+    "sentence_furigana": "この宝石【ほうせき】は光【ひかり】を反射【はんしゃ】して輝【かがや】いている。",
+    "meaning": "This jewel shines by reflecting light."
+  },
+  {
+    "sentence": "会議に光栄なゲストをお迎えしました。",
+    "sentence_furigana": "会議【かいぎ】に光栄【こうえい】なゲストをお迎【むか】えしました。",
+    "meaning": "We welcomed a distinguished guest to the conference."
+  },
+  {
+    "sentence": "窓から差し込む光が部屋を明るくした。",
+    "sentence_furigana": "窓【まど】から差【さ】し込【こ】む光【ひかり】が部屋【へや】を明【あ】るくした。",
+    "meaning": "The light coming through the window brightened the room."
+  },
+  {
+    "sentence": "彼は人生に希望の光を見出した。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】に希望【きぼう】の光【ひかり】を見【み】いだした。",
+    "meaning": "He found a light of hope in his life."
+  },
+  {
+    "sentence": "月光が湖面を銀色に染めていた。",
+    "sentence_furigana": "月光【げっこう】が湖面【こめん】を銀色【ぎんいろ】に染【そ】めていた。",
+    "meaning": "The moonlight dyed the lake's surface silver."
+  },
+  {
+    "sentence": "その提案は新しい光をもたらした。",
+    "sentence_furigana": "その提案【ていあん】は新【あら】たな光【ひかり】をもたらした。",
+    "meaning": "That proposal brought new light."
+  },
+  {
+    "sentence": "彼はその技術に光を当てた。",
+    "sentence_furigana": "彼【かれ】はその技術【ぎじゅつ】に光【ひかり】を当【あ】てた。",
+    "meaning": "He shed light on that technology."
+  },
+  {
+    "sentence": "光化学スモッグに注意してください。",
+    "sentence_furigana": "光化学【こうかがく】スモッグに注意【ちゅうい】してください。",
+    "meaning": "Please be aware of photochemical smog."
+  },
+  {
+    "sentence": "彼は多くの賞賛を受けた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの賞賛【しょうさん】を受【う】けた。",
+    "meaning": "He received much praise."
+  },
+  {
+    "sentence": "光ファイバー通信は高速だ。",
+    "sentence_furigana": "光ファイバー通信【つうしん】は高速【こうそく】だ。",
+    "meaning": "Fiber optic communication is high-speed."
+  },
+  {
+    "sentence": "この部屋は自然光で満ちている。",
+    "sentence_furigana": "この部屋【へや】は自然光【しぜんこう】で満【み】ちている。",
+    "meaning": "This room is filled with natural light."
+  },
+  {
+    "sentence": "暗闇の中で光るホタルを見つけた。",
+    "sentence_furigana": "暗闇【くらやみ】の中【なか】で光【ひか】る蛍【ほたる】を見【み】つけた。",
+    "meaning": "I found a glowing firefly in the darkness."
+  },
+  {
+    "sentence": "彼はその問題を解決する光が見えた。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】を解決【かいけつ】する光【ひかり】が見【み】えた。",
+    "meaning": "He saw a way to solve the problem."
+  },
+  {
+    "sentence": "光合成は植物にとって重要だ。",
+    "sentence_furigana": "光合成【こうごうせい】は植物【しょくぶつ】にとって重要【じゅうよう】だ。",
+    "meaning": "Photosynthesis is important for plants."
+  },
+  {
+    "sentence": "彼の才能は光るものがある。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は光【ひか】るものがある。",
+    "meaning": "His talent shines."
+  },
+  {
+    "sentence": "光熱費の請求書が来た。",
+    "sentence_furigana": "光熱費【こうねつひ】の請求書【せいきゅうしょ】が来【き】た。",
+    "meaning": "The utility bill has arrived."
+  },
+  {
+    "sentence": "彼女は学業で輝かしい成果を上げた。",
+    "sentence_furigana": "彼女【かのじょ】は学業【がくぎょう】で輝【かがや】かしい成果【せいか】を上【あ】げた。",
+    "meaning": "She achieved brilliant results in her studies."
+  },
+  {
+    "sentence": "このランプは柔らかな光を放つ。",
+    "sentence_furigana": "このランプは柔【やわ】らかな光【ひかり】を放【はな】つ。",
+    "meaning": "This lamp emits a soft light."
+  },
+  {
+    "sentence": "光沢のある黒い車。",
+    "sentence_furigana": "光沢【こうたく】のある黒【くろ】い車【くるま】。",
+    "meaning": "A shiny black car."
+  },
+  {
+    "sentence": "彼女の歌声は希望の光だ。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は希望【きぼう】の光【ひかり】だ。",
+    "meaning": "Her singing voice is a light of hope."
+  },
+  {
+    "sentence": "太陽光パネルを設置した。",
+    "sentence_furigana": "太陽光【たいようこう】パネルを設置【せっち】した。",
+    "meaning": "Solar panels were installed."
+  },
+  {
+    "sentence": "暗闇に光る目が見えた。",
+    "sentence_furigana": "暗闇【くらやみ】に光【ひか】る目【め】が見【み】えた。",
+    "meaning": "I saw eyes glowing in the darkness."
+  },
+  {
+    "sentence": "この川は光を反射してきらめいている。",
+    "sentence_furigana": "この川【かわ】は光【ひかり】を反射【はんしゃ】してきらめいている。",
+    "meaning": "This river sparkles, reflecting the light."
+  },
+  {
+    "sentence": "彼はその分野で光る才能を発揮した。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】で光【ひか】る才能【さいのう】を発揮【はっき】した。",
+    "meaning": "He demonstrated shining talent in that field."
+  },
+  {
+    "sentence": "部屋の明かりを消してください。",
+    "sentence_furigana": "部屋【へや】の明【あ】かりを消【け】してください。",
+    "meaning": "Please turn off the room light."
+  },
+  {
+    "sentence": "光化学反応について学んだ。",
+    "sentence_furigana": "光化学【こうかがく】反応【はんのう】について学【まな】んだ。",
+    "meaning": "I learned about photochemical reactions."
+  },
+  {
+    "sentence": "彼らは光熱費を削減する方法を探している。",
+    "sentence_furigana": "彼【かれ】らは光熱費【こうねつひ】を削減【さくげん】する方法【ほうほう】を探【さが】している。",
+    "meaning": "They are looking for ways to reduce utility costs."
+  },
+  {
+    "sentence": "この新しい技術は未来を照らす光となるだろう。",
+    "sentence_furigana": "この新【あら】たな技術【ぎじゅつ】は未来【みらい】を照【て】らす光【ひかり】となるだろう。",
+    "meaning": "This new technology will be a light illuminating the future."
+  },
+  {
+    "sentence": "彼女の周りには常に光があった。",
+    "sentence_furigana": "彼女【かのじょ】の周【まわ】りには常【つね】に光【ひかり】があった。",
+    "meaning": "There was always light around her."
+  },
+  {
+    "sentence": "光合成によって酸素が生成される。",
+    "sentence_furigana": "光合成【こうごうせい】によって酸素【さんそ】が生成【せいせい】される。",
+    "meaning": "Oxygen is produced through photosynthesis."
+  },
+  {
+    "sentence": "彼は暗闇に慣れている。",
+    "sentence_furigana": "彼【かれ】は暗闇【くらやみ】に慣【な】れている。",
+    "meaning": "He is accustomed to darkness."
+  },
+  {
+    "sentence": "光ファイバーケーブルが敷設された。",
+    "sentence_furigana": "光ファイバーケーブルが敷設【ふせつ】された。",
+    "meaning": "Fiber optic cables were laid."
+  },
+  {
+    "sentence": "その宝石は複雑な光の模様を見せた。",
+    "sentence_furigana": "その宝石【ほうせき】は複雑【ふくざつ】な光【ひかり】の模様【もよう】を見【み】せた。",
+    "meaning": "The jewel displayed intricate patterns of light."
+  },
+  {
+    "sentence": "彼は人生の困難に打ち勝った。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の困難【こんなん】に打【う】ち勝【か】った。",
+    "meaning": "He overcame life's difficulties."
+  },
+  {
+    "sentence": "光熱費の節約は地球環境にも良い。",
+    "sentence_furigana": "光熱費【こうねつひ】の節約【せつやく】は地球環境【ちきゅうかんきょう】にも良【よ】い。",
+    "meaning": "Saving on utility costs is also good for the environment."
+  },
+  {
+    "sentence": "彼女はいつも明るい。",
+    "sentence_furigana": "彼女【かのじょ】はいつも明【あか】るい。",
+    "meaning": "She is always cheerful."
+  },
+  {
+    "sentence": "その映画は希望の光を描いている。",
+    "sentence_furigana": "その映画【えいが】は希望【きぼう】の光【ひかり】を描【えが】いている。",
+    "meaning": "That movie depicts a light of hope."
+  },
+  {
+    "sentence": "光沢のある表面。",
+    "sentence_furigana": "光沢【こうたく】のある表面【ひょうめん】。",
+    "meaning": "A glossy surface."
+  },
+  {
+    "sentence": "彼はプロジェクトに新たな光を当てた。",
+    "sentence_furigana": "彼【かれ】はプロジェクトに新【あら】たな光【ひかり】を当【あ】てた。",
+    "meaning": "He brought new light to the project."
+  },
+  {
+    "sentence": "太陽光を反射する素材。",
+    "sentence_furigana": "太陽光【たいようこう】を反射【はんしゃ】する素材【そざい】。",
+    "meaning": "Material that reflects sunlight."
+  },
+  {
+    "sentence": "彼女の声援が希望の光となった。",
+    "sentence_furigana": "彼女【かのじょ】の声援【せいえん】が希望【きぼう】の光【ひかり】となった。",
+    "meaning": "Her cheers became a light of hope."
+  },
+  {
+    "sentence": "暗闇でも光る文字。",
+    "sentence_furigana": "暗闇【くらやみ】でも光【ひか】る文字【もじ】。",
+    "meaning": "Luminous letters even in the dark."
+  },
+  {
+    "sentence": "光熱費が以前より高くなった。",
+    "sentence_furigana": "光熱費【こうねつひ】が以前【いぜん】より高【たか】くなった。",
+    "meaning": "Utility costs have become higher than before."
+  },
+  {
+    "sentence": "彼はその問題を分かりやすく説明した。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】を分【わ】かりやすく説明【せつめい】した。",
+    "meaning": "He explained the problem clearly."
+  },
+  {
+    "sentence": "光合成の仕組みを調べる。",
+    "sentence_furigana": "光合成【こうごうせい】の仕組【しく】みを受【しら】べる。",
+    "meaning": "To investigate the mechanism of photosynthesis."
+  },
+  {
+    "sentence": "この道は月明かりで明るかった。",
+    "sentence_furigana": "この道【みち】は月明【つきあ】かりで明【あ】かるかった。",
+    "meaning": "This road was bright with moonlight."
+  },
+  {
+    "sentence": "彼女の笑顔は太陽の光のように暖かかった。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は太陽【たいよう】の光【ひかり】のように暖【あたた】かかった。",
+    "meaning": "Her smile was as warm as sunlight."
+  },
+  {
+    "sentence": "彼は光の速さで駆け抜けた。",
+    "sentence_furigana": "彼【かれ】は光【ひかり】の速【はや】さで駆【か】け抜【ぬ】けた。",
+    "meaning": "He ran at the speed of light."
+  },
+  {
+    "sentence": "この部屋には十分な光が入る。",
+    "sentence_furigana": "この部屋【へや】には十分【じゅうぶん】な光【ひかり】が入【はい】る。",
+    "meaning": "This room gets plenty of light."
+  },
+  {
+    "sentence": "光熱費の節約は家計に優しい。",
+    "sentence_furigana": "光熱費【こうねつひ】の節約【せつやく】は家計【かけい】に優【やさ】しい。",
+    "meaning": "Saving on utility costs is kind to the household budget."
+  },
+  {
+    "sentence": "彼は新しい発見に光を当てた。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな発見【はっけん】に光【ひかり】を当【あ】てた。",
+    "meaning": "He shed light on a new discovery."
+  },
+  {
+    "sentence": "光沢のある布地。",
+    "sentence_furigana": "光沢【こうたく】のある布地【ぬのじ】。",
+    "meaning": "Shiny fabric."
+  },
+  {
+    "sentence": "その星はかすかに光っていた。",
+    "sentence_furigana": "その星【ほし】はかすかに光【ひか】っていた。",
+    "meaning": "That star was faintly shining."
+  },
+  {
+    "sentence": "彼は暗闇の中で道を見つけた。",
+    "sentence_furigana": "彼【かれ】は暗闇【くらやみ】の中【なか】で道【みち】を見【み】つけた。",
+    "meaning": "He found the way in the darkness."
+  },
+  {
+    "sentence": "光ファイバー技術の進歩。",
+    "sentence_furigana": "光ファイバー技術【ぎじゅつ】の進歩【しんぽ】。",
+    "meaning": "Advancement in fiber optic technology."
+  },
+  {
+    "sentence": "彼女の言葉は希望の光となった。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は希望【きぼう】の光【ひかり】となった。",
+    "meaning": "Her words became a light of hope."
+  },
+  {
+    "sentence": "この水は光を吸収する。",
+    "sentence_furigana": "この水【みず】は光【ひかり】を吸収【きゅうしゅう】する。",
+    "meaning": "This water absorbs light."
+  },
+  {
+    "sentence": "観光客が写真を撮っている。",
+    "sentence_furigana": "観光客【かんこうきゃく】が写真【しゃしん】を撮【と】っている。",
+    "meaning": "Tourists are taking pictures."
+  },
+  {
+    "sentence": "彼は光を遮るものを取り除いた。",
+    "sentence_furigana": "彼【かれ】は光【ひかり】を遮【さえぎ】るものを取【と】り除【のぞ】いた。",
+    "meaning": "He removed what was blocking the light."
+  },
+  {
+    "sentence": "光熱費の請求が来た。",
+    "sentence_furigana": "光熱費【こうねつひ】の請求【せいきゅう】が来【き】た。",
+    "meaning": "The utility bill arrived."
+  },
+  {
+    "sentence": "その光は非常に明るかった。",
+    "sentence_furigana": "その光【ひかり】は非常【ひじょう】に明【あか】るかった。",
+    "meaning": "That light was very bright."
+  },
+  {
+    "sentence": "彼女は光栄なことに選ばれた。",
+    "sentence_furigana": "彼女【かのじょ】は光栄【こうえい】なことに選【え】ばれた。",
+    "meaning": "She was honored to be chosen."
+  },
+  {
+    "sentence": "彼は困難な状況でも希望の光を見失わなかった。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】でも希望【きぼう】の光【ひかり】を見失【みうしな】わなかった。",
+    "meaning": "He did not lose sight of the light of hope even in difficult circumstances."
+  },
+  {
+    "sentence": "太陽光を浴びてリラックスする。",
+    "sentence_furigana": "太陽光【たいようこう】を浴【あ】びてリラックスする。",
+    "meaning": "Relax by bathing in sunlight."
+  },
+  {
+    "sentence": "光る星が夜空に輝いていた。",
+    "sentence_furigana": "光【ひか】る星【ほし】が夜空【よぞら】に輝【かがや】いていた。",
+    "meaning": "Shining stars twinkled in the night sky."
+  },
+  {
+    "sentence": "この部屋は自然光がたっぷり入る。",
+    "sentence_furigana": "この部屋【へや】は自然光【しぜんこう】がたっぷり入【はい】る。",
+    "meaning": "This room gets plenty of natural light."
+  },
+  {
+    "sentence": "彼は光の速さで情報を受け取った。",
+    "sentence_furigana": "彼【かれ】は光【ひかり】の速【はや】さで情報【じょうほう】を受【う】け取【と】った。",
+    "meaning": "He received the information at the speed of light."
+  },
+  {
+    "sentence": "光熱費を節約するため、LED電球に交換した。",
+    "sentence_furigana": "光熱費【こうねつひ】を節約【せつやく】するため、LED電球【でんきゅう】に交換【こうかん】した。",
+    "meaning": "We replaced them with LED bulbs to save on utility costs."
+  },
+  {
+    "sentence": "彼女のアイデアは会議に光をもたらした。",
+    "sentence_furigana": "彼女【かのじょ】のアイデアは会議【かいぎ】に光【ひかり】をもたらした。",
+    "meaning": "Her idea brought light to the meeting."
+  },
+  {
+    "sentence": "暗闇に小さな光が見えた。",
+    "sentence_furigana": "暗闇【くらやみ】に小【ちい】さな光【ひかり】が見【み】えた。",
+    "meaning": "A small light was visible in the darkness."
+  },
+  {
+    "sentence": "この生地は光沢があり滑らかだ。",
+    "sentence_furigana": "この生地【きじ】は光沢【こうたく】があり滑【なめ】らかだ。",
+    "meaning": "This fabric is glossy and smooth."
+  },
+  {
+    "sentence": "光合成のプロセスを学習する。",
+    "sentence_furigana": "光合成【こうごうせい】のプロセスを学習【がくしゅう】する。",
+    "meaning": "Learn the process of photosynthesis."
+  },
+  {
+    "sentence": "彼女は人生で多くの光を見てきた。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】で多【おお】くの光【ひかり】を見【み】てきた。",
+    "meaning": "She has seen much light in her life."
+  },
+  {
+    "sentence": "彼はその事件に光を当てた。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】に光【ひかり】を当【あ】てた。",
+    "meaning": "He shed light on the incident."
+  },
+  {
+    "sentence": "観光バスが到着した。",
+    "sentence_furigana": "観光バス【かんこうバス】が到着【とうちゃく】した。",
+    "meaning": "The tour bus arrived."
+  },
+  {
+    "sentence": "この場所は夜でも明るい。",
+    "sentence_furigana": "この場所【ばしょ】は夜【よる】でも明【あか】るい。",
+    "meaning": "This place is bright even at night."
+  },
+  {
+    "sentence": "彼は光るものを集めるのが好きだ。",
+    "sentence_furigana": "彼【かれ】は光【ひか】るものを集【あつ】めるのが好【す】きだ。",
+    "meaning": "He likes collecting shiny things."
+  },
+  {
+    "sentence": "光化学オゾン層。",
+    "sentence_furigana": "光化学【こうかがく】オゾン層【そう】。",
+    "meaning": "Photochemical ozone layer."
+  },
+  {
+    "sentence": "彼女の才能は間違いなく光るものがある。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は間違【まちが】いなく光【ひか】るものがある。",
+    "meaning": "Her talent is undoubtedly brilliant."
+  }
+]

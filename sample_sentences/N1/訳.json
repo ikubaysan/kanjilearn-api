@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "この本を日本語に訳してください。",
+    "sentence_furigana": "この本【ほん】を日本語【にほんご】に訳【やく】してください。",
+    "meaning": "Please translate this book into Japanese."
+  },
+  {
+    "sentence": "彼の説明では、何かの訳があるはずだ。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】では、何【なん】かの訳【わけ】があるはずだ。",
+    "meaning": "In his explanation, there must be some reason."
+  },
+  {
+    "sentence": "その事件の訳を詳しく教えてください。",
+    "sentence_furigana": "その事件【じけん】の訳【わけ】を詳【くわ】しく教【おし】えてください。",
+    "meaning": "Please tell me the details of the circumstances of that incident."
+  },
+  {
+    "sentence": "彼は今回の件の訳を知っている。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】の件【けん】の訳【わけ】を知【し】っている。",
+    "meaning": "He knows the reason for this matter."
+  },
+  {
+    "sentence": "翻訳家は言葉の訳で生計を立てている。",
+    "sentence_furigana": "翻訳家【ほんやくか】は言葉【ことば】の訳【やく】で生計【せいけい】を立【た】てている。",
+    "meaning": "Translators make a living by translating words."
+  },
+  {
+    "sentence": "この小説は多くの言語に訳されている。",
+    "sentence_furigana": "この小説【しょうせつ】は多【おお】くの言語【げんご】に訳【やく】されている。",
+    "meaning": "This novel has been translated into many languages."
+  },
+  {
+    "sentence": "彼女の涙には深い訳があった。",
+    "sentence_furigana": "彼女【かのじょ】の涙【なみだ】には深【ふか】い訳【わけ】があった。",
+    "meaning": "There was a deep reason for her tears."
+  },
+  {
+    "sentence": "会議の内容を日本語に訳してもらえますか？",
+    "sentence_furigana": "会議【かいぎ】の内容【ないよう】を日本語【にほんご】に訳【やく】してもらえますか？",
+    "meaning": "Can you translate the content of the meeting into Japanese?"
+  },
+  {
+    "sentence": "特別な事情があるなら、その訳を説明してください。",
+    "sentence_furigana": "特別【とくべつ】な事情【じじょう】があるなら、その訳【わけ】を説明【せつめい】してください。",
+    "meaning": "If there are special circumstances, please explain the reason."
+  },
+  {
+    "sentence": "彼は何も言わなかったが、きっと訳があるのだろう。",
+    "sentence_furigana": "彼【かれ】は何【なに】も言【い】わなかったが、きっと訳【わけ】があるのだろう。",
+    "meaning": "He didn't say anything, but there must be a reason."
+  },
+  {
+    "sentence": "この契約書を英語に訳す必要があります。",
+    "sentence_furigana": "この契約書【けいやくしょ】を英語【えいご】に訳【やく】す必要【ひつよう】があります。",
+    "meaning": "It is necessary to translate this contract into English."
+  },
+  {
+    "sentence": "彼の行動には何か訳があるに違いない。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】には何【なに】か訳【わけ】があるに違【ちが】いない。",
+    "meaning": "There must be some reason for his actions."
+  },
+  {
+    "sentence": "この古い文献を現代語に訳す作業は難しい。",
+    "sentence_furigana": "この古【ふる】い文献【ぶんけん】を現代語【げんだいご】に訳【やく】す作業【さぎょう】は難【むずか】しい。",
+    "meaning": "The task of translating this old document into modern language is difficult."
+  },
+  {
+    "sentence": "その事件の背景には複雑な訳がある。",
+    "sentence_furigana": "その事件【じけん】の背景【はいけい】には複雑【ふくざつ】な訳【わけ】がある。",
+    "meaning": "There are complex reasons behind that incident."
+  },
+  {
+    "sentence": "このメールの内容を正確に訳してほしい。",
+    "sentence_furigana": "このメールの内容【ないよう】を正確【せいかく】に訳【やく】してほしい。",
+    "meaning": "I want you to translate the content of this email accurately."
+  },
+  {
+    "sentence": "子供が泣いている訳を尋ねた。",
+    "sentence_furigana": "子供【こども】が泣【な】いている訳【わけ】を尋【たず】ねた。",
+    "meaning": "I asked for the reason why the child was crying."
+  },
+  {
+    "sentence": "この法律を分かりやすく訳する必要がある。",
+    "sentence_furigana": "この法律【ほうりつ】を分【わ】かりやすく訳【やく】す必要【ひつよう】がある。",
+    "meaning": "It is necessary to translate this law in an easy-to-understand way."
+  },
+  {
+    "sentence": "彼は突然会社を辞めたが、その訳は誰も知らない。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】会社【かいしゃ】を辞【や】めたが、その訳【わけ】は誰【だれ】も知【し】らない。",
+    "meaning": "He suddenly quit the company, but nobody knows the reason."
+  },
+  {
+    "sentence": "この古い歌の意味を現代の言葉に訳してみよう。",
+    "sentence_furigana": "この古【ふる】い歌【うた】の意味【いみ】を現代【げんだい】の言葉【ことば】に訳【やく】してみよう。",
+    "meaning": "Let's try to translate the meaning of this old song into modern words."
+  },
+  {
+    "sentence": "彼女はいつも笑顔だが、その裏には何か訳があるのかもしれない。",
+    "sentence_furigana": "彼女【かのじょ】はいつも笑顔【えがお】だが、その裏【うら】には何【なに】か訳【わけ】があるのかもしれない。",
+    "meaning": "She always smiles, but there might be some reason behind it."
+  },
+  {
+    "sentence": "この歴史的な文書は、ラテン語からイタリア語に訳された。",
+    "sentence_furigana": "この歴史的【れきし てき】な文書【ぶんしょ】は、ラテン語【ご】からイタリア語【ご】に訳【やく】された。",
+    "meaning": "This historical document was translated from Latin into Italian."
+  },
+  {
+    "sentence": "彼は遅刻した訳をきちんと説明した。",
+    "sentence_furigana": "彼【かれ】は遅刻【ちこく】した訳【わけ】をきっちり説明【せつめい】した。",
+    "meaning": "He explained the reason for his lateness properly."
+  },
+  {
+    "sentence": "この詩は自由な訳で読むのが好きだ。",
+    "sentence_furigana": "この詩【し】は自由【じゆう】な訳【やく】で読【よ】むのが好【す】きだ。",
+    "meaning": "I like to read this poem in a free translation."
+  },
+  {
+    "sentence": "その奇妙な出来事の訳が知りたい。",
+    "sentence_furigana": "その奇妙【きみょう】な出来事【できごと】の訳【わけ】を知【し】りたい。",
+    "meaning": "I want to know the reason for that strange event."
+  },
+  {
+    "sentence": "このコンピュータープログラムは、新しい言語に訳す必要がある。",
+    "sentence_furigana": "このコンピュータープログラムは、新【あたら】しい言語【げんご】に訳【やく】す必要【ひつよう】がある。",
+    "meaning": "This computer program needs to be translated into a new language."
+  },
+  {
+    "sentence": "彼の沈黙には何か隠された訳がある。",
+    "sentence_furigana": "彼【かれ】の沈黙【ちんもく】には何【なに】か隠【かく】された訳【わけ】がある。",
+    "meaning": "There is some hidden reason for his silence."
+  },
+  {
+    "sentence": "この演説を聴衆に理解できるように訳した。",
+    "sentence_furigana": "この演説【えんぜつ】を聴衆【ちょうしゅう】に理解【りかい】できるように訳【やく】した。",
+    "meaning": "I translated this speech so that the audience could understand it."
+  },
+  {
+    "sentence": "彼女が怒っている訳は、昨日の出来事にある。",
+    "sentence_furigana": "彼女【かのじょ】が怒【おこ】っている訳【わけ】は、昨日【きのう】の出来事【できごと】にある。",
+    "meaning": "The reason she is angry is due to yesterday's incident."
+  },
+  {
+    "sentence": "この古い地図は現代の地図に訳されないと読みにくい。",
+    "sentence_furigana": "この古【ふる】い地図【ちず】は現代【げんだい】の地図【ちず】に訳【やく】されないと読【よ】みにくい。",
+    "meaning": "This old map is difficult to read unless translated into a modern map."
+  },
+  {
+    "sentence": "彼は約束を破った訳を説明しなければならない。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を破【やぶ】った訳【わけ】を説明【せつめい】しなければならない。",
+    "meaning": "He must explain the reason for breaking the promise."
+  },
+  {
+    "sentence": "この哲学書は、複数の解釈に訳すことができる。",
+    "sentence_furigana": "この哲学書【てつがくしょ】は、複数【ふくすう】の解釈【かいしゃく】に訳【やく】すことができる。",
+    "meaning": "This philosophy book can be translated into multiple interpretations."
+  },
+  {
+    "sentence": "彼女の顔色が変わった訳は、その知らせにあった。",
+    "sentence_furigana": "彼女【かのじょ】の顔色【かおいろ】が変わ【か】わった訳【わけ】は、その知【し】らせにあった。",
+    "meaning": "The reason her complexion changed was due to that news."
+  },
+  {
+    "sentence": "この絵の具の使い方は、ラベルを訳さないと分からない。",
+    "sentence_furigana": "この絵具【えのぐ】の使【つか】い方【かた】は、ラベルを訳【やく】さないと分【わ】からない。",
+    "meaning": "The usage of this paint is difficult to understand without translating the label."
+  },
+  {
+    "sentence": "彼はなぜそんなに悲しそうな顔をしているのか、訳が分からない。",
+    "sentence_furigana": "彼【かれ】はなぜそんなに悲【かな】しそうな顔【かお】をしているのか、訳【わけ】が分【わ】からない。",
+    "meaning": "I don't understand the reason why he looks so sad."
+  },
+  {
+    "sentence": "この古い法律の条文を現代語に訳す作業は困難を極める。",
+    "sentence_furigana": "この古【ふる】い法律【ほうりつ】の条文【じょうぶん】を現代語【げんだいご】に訳【やく】す作業【さぎょう】は困難【こんなん】を極【きわ】める。",
+    "meaning": "The work of translating the articles of this old law into modern language is extremely difficult."
+  },
+  {
+    "sentence": "彼女が突然静かになった訳は、何かを考えているからだ。",
+    "sentence_furigana": "彼女【かのじょ】が突然【とつぜん】静【しず】かになった訳【わけ】は、何【なに】かを考【かんが】えているからだ。",
+    "meaning": "The reason she suddenly became quiet is that she is thinking about something."
+  },
+  {
+    "sentence": "この有名な物語は、世界中の多くの言語に訳されている。",
+    "sentence_furigana": "この有名【ゆうめい】な物語【ものがたり】は、世界中【せかいじゅう】の多【おお】くの言語【げんご】に訳【やく】されている。",
+    "meaning": "This famous story has been translated into many languages around the world."
+  },
+  {
+    "sentence": "彼はこのプロジェクトに参加した訳を説明した。",
+    "sentence_furigana": "彼【かれ】はこのプロジェクトに参加【さんか】した訳【わけ】を説明【せつめい】した。",
+    "meaning": "He explained the reason for participating in this project."
+  },
+  {
+    "sentence": "この古い文献の正確な訳を見つけるのは難しい。",
+    "sentence_furigana": "この古【ふる】い文献【ぶんけん】の正確【せいかく】な訳【やく】を見【み】つけるのは難【むずか】しい。",
+    "meaning": "It is difficult to find an accurate translation of this old document."
+  },
+  {
+    "sentence": "彼の行動には、我々が知らない別の訳があるのかもしれない。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】には、我々【われわれ】が知【し】らない別【べつ】の訳【わけ】があるのかもしれない。",
+    "meaning": "There might be another reason for his actions that we do not know."
+  },
+  {
+    "sentence": "この歌の歌詞を日本語に訳して歌いたい。",
+    "sentence_furigana": "この歌【うた】の歌詞【かし】を日本語【にほんご】に訳【やく】して歌【うた】いたい。",
+    "meaning": "I want to translate the lyrics of this song into Japanese and sing it."
+  },
+  {
+    "sentence": "彼女がそのような発言をした訳を問いただした。",
+    "sentence_furigana": "彼女【かのじょ】がそのような発言【はつげん】をした訳【わけ】を問【と】いただした。",
+    "meaning": "I questioned the reason why she made such a statement."
+  },
+  {
+    "sentence": "この技術文書は、専門用語を多く含んでいるため、訳が難しい。",
+    "sentence_furigana": "この技術文書【ぎじゅつぶんしょ】は、専門用語【せんもんようご】を多【おお】く含【ふく】んでいるため、訳【やく】が難【むずか】しい。",
+    "meaning": "This technical document is difficult to translate because it contains many technical terms."
+  },
+  {
+    "sentence": "彼の突然の訪問には、特別な訳があったようだ。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の訪問【ほうもん】には、特別【とくべつ】な訳【わけ】があったようだ。",
+    "meaning": "There seems to have been a special reason for his sudden visit."
+  },
+  {
+    "sentence": "この古い手紙は、解読して現代語に訳す必要がある。",
+    "sentence_furigana": "この古【ふる】い手紙【てがみ】は、解読【かいどく】して現代語【げんだいご】に訳【やく】す必要【ひつよう】がある。",
+    "meaning": "This old letter needs to be deciphered and translated into modern language."
+  },
+  {
+    "sentence": "彼女の成功には、人知れぬ努力という訳がある。",
+    "sentence_furigana": "彼女【かのじょ】の成功【せいこう】には、人知【ひとし】れぬ努力【どりょく】という訳【わけ】がある。",
+    "meaning": "There is a hidden effort behind her success."
+  },
+  {
+    "sentence": "この物語の結末は、多くの読者によって様々な訳がされている。",
+    "sentence_furigana": "この物語【ものがたり】の結末【けつまつ】は、多【おお】くの読者【どくしゃ】によって様々【さまざま】な訳【やく】がされている。",
+    "meaning": "The ending of this story is interpreted in various ways by many readers."
+  },
+  {
+    "sentence": "彼が反対する訳は、私たちの計画に問題があるからかもしれない。",
+    "sentence_furigana": "彼【かれ】が反対【はんたい】する訳【わけ】は、私達【わたしたち】の計画【けいかく】に問題【もんだい】があるからかもしれない。",
+    "meaning": "The reason he opposes might be because there is a problem with our plan."
+  },
+  {
+    "sentence": "この古い法律の条文を現代人に分かりやすく訳すのは難しい仕事だ。",
+    "sentence_furigana": "この古【ふる】い法律【ほうりつ】の条文【じょうぶん】を現代人【げんだいじん】に分【わ】かりやすく訳【やく】すのは難【むずか】しい仕事【しごと】だ。",
+    "meaning": "It is difficult work to translate the articles of this old law in an easy-to-understand way for modern people."
+  },
+  {
+    "sentence": "彼女がため息をついた訳は、仕事の疲れのせいだった。",
+    "sentence_furigana": "彼女【かのじょ】がため息【いき】をついた訳【わけ】は、仕事【しごと】の疲【つか】れのせいだった。",
+    "meaning": "The reason she sighed was due to work fatigue."
+  },
+  {
+    "sentence": "この古典文学作品は、正確な訳と共に楽しむべきだ。",
+    "sentence_furigana": "この古典文学作品【こてんぶんがくさくひん】は、正確【せいかく】な訳【やく】と共【とも】に楽【たの】しむべきだ。",
+    "meaning": "This classical literature should be enjoyed with an accurate translation."
+  },
+  {
+    "sentence": "彼は突然立ち上がった訳を説明し始めた。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】立【た】ち上【あ】がった訳【わけ】を説明【せつめい】始【はじ】めた。",
+    "meaning": "He began to explain the reason for suddenly standing up."
+  },
+  {
+    "sentence": "この古いレシピは、翻訳されていないと理解しにくい。",
+    "sentence_furigana": "この古【ふる】いレシピは、翻訳【ほんやく】されていないと理解【りかい】しにくい。",
+    "meaning": "This old recipe is difficult to understand if it is not translated."
+  },
+  {
+    "sentence": "彼女が秘密を守った訳は、あなたのためだった。",
+    "sentence_furigana": "彼女【かのじょ】が秘密【ひみつ】を守【まも】った訳【わけ】は、あなたのためだった。",
+    "meaning": "The reason she kept the secret was for you."
+  },
+  {
+    "sentence": "この地域の歴史は、多くの資料を訳すことで明らかになった。",
+    "sentence_furigana": "この地域【ちいき】の歴史【れきし】は、多【おお】くの資料【しりょう】を訳【やく】すことで明【あき】らかになった。",
+    "meaning": "The history of this region became clear by translating many documents."
+  },
+  {
+    "sentence": "彼は会議に出席しなかった訳を詫びた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に出席【しゅっせき】しなかった訳【わけ】を詫【わ】びた。",
+    "meaning": "He apologized for not attending the meeting."
+  },
+  {
+    "sentence": "この古い聖書は、何世代にもわたって多くの言語に訳されてきた。",
+    "sentence_furigana": "この古【ふる】い聖書【せいしょ】は、何世代【なんせだい】にもわたって多【おお】くの言語【げんご】に訳【やく】されてきた。",
+    "meaning": "This old Bible has been translated into many languages over many generations."
+  },
+  {
+    "sentence": "彼女が突然別れを告げた訳を聞きたい。",
+    "sentence_furigana": "彼女【かのじょ】が突然【とつぜん】別【わか】れを告【つ】げた訳【わけ】を聞【き】きたい。",
+    "meaning": "I want to hear the reason why she suddenly broke up with me."
+  },
+  {
+    "sentence": "この古い法律の文言を現代の言葉に訳す作業は専門知識を要する。",
+    "sentence_furigana": "この古【ふる】い法律【ほうりつ】の文言【もんげん】を現代【げんだい】の言葉【ことば】に訳【やく】す作業【さぎょう】は専門知識【せんもんちしき】を要【よう】する。",
+    "meaning": "The task of translating the wording of this old law into modern words requires specialized knowledge."
+  },
+  {
+    "sentence": "彼の無言の態度の裏には、複雑な訳が隠されている。",
+    "sentence_furigana": "彼【かれ】の無言【むげん】の態度【たいど】の裏【うら】には、複雑【ふくざつ】な訳【わけ】が隠【かく】されている。",
+    "meaning": "A complex reason is hidden behind his silent attitude."
+  },
+  {
+    "sentence": "この古い契約書の条項を正確に訳すことが求められている。",
+    "sentence_furigana": "この古【ふる】い契約書【けいやくしょ】の条項【じょうこう】を正確【せいかく】に訳【やく】すことが求【もと】められている。",
+    "meaning": "It is required to accurately translate the clauses of this old contract."
+  },
+  {
+    "sentence": "彼女がそこまで心配する訳が分からない。",
+    "sentence_furigana": "彼女【かのじょ】がそこまで心配【しんぱい】する訳【わけ】が分【わ】からない。",
+    "meaning": "I don't understand the reason why she is so worried."
+  },
+  {
+    "sentence": "この古い詩の心を現代の言葉に訳し、伝えたい。",
+    "sentence_furigana": "この古【ふる】い詩【し】の心【こころ】を現代【げんだい】の言葉【ことば】に訳【やく】し、伝【つた】えたい。",
+    "meaning": "I want to translate the spirit of this old poem into modern words and convey it."
+  },
+  {
+    "sentence": "彼の突然の出張の訳は、極秘の任務にあった。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の出張【しゅっちょう】の訳【わけ】は、極秘【ごくひ】の任務【にんむ】にあった。",
+    "meaning": "The reason for his sudden business trip was a top-secret mission."
+  },
+  {
+    "sentence": "この古い文献は、専門家によって丁寧に訳された。",
+    "sentence_furigana": "この古【ふる】い文献【ぶんけん】は、専門家【せんもんか】によって丁寧【ていねい】に訳【やく】された。",
+    "meaning": "This old document was carefully translated by experts."
+  },
+  {
+    "sentence": "彼女が涙を流した訳を優しく尋ねた。",
+    "sentence_furigana": "彼女【かのじょ】が涙【なみだ】を流【なが】した訳【わけ】を優【やさ】しく尋【たず】ねた。",
+    "meaning": "I gently asked the reason why she shed tears."
+  },
+  {
+    "sentence": "この古い映画は、英語に訳されて広く知られるようになった。",
+    "sentence_furigana": "この古【ふる】い映画【えいが】は、英語【えいご】に訳【やく】されて広【ひろ】く知【し】られるようになった。",
+    "meaning": "This old movie became widely known after being translated into English."
+  },
+  {
+    "sentence": "彼が嘘をついた訳は、自分を守るためだった。",
+    "sentence_furigana": "彼【かれ】が嘘【うそ】をついた訳【わけ】は、自分【じぶん】を守【まも】るためだった。",
+    "meaning": "The reason he lied was to protect himself."
+  },
+  {
+    "sentence": "この古い聖書の言葉を現代語に訳して、多くの人に伝えたい。",
+    "sentence_furigana": "この古【ふる】い聖書【せいしょ】の言葉【ことば】を現代語【げんだいご】に訳【やく】して、多【おお】くの人【ひと】に伝【つた】えたい。",
+    "meaning": "I want to translate the words of this old Bible into modern language and convey them to many people."
+  },
+  {
+    "sentence": "彼女が転職を決意した訳は、キャリアアップのためです。",
+    "sentence_furigana": "彼女【かのじょ】が転職【てんしょく】を決意【けつい】した訳【わけ】は、キャリアアップのためです。",
+    "meaning": "The reason she decided to change jobs is for career advancement."
+  },
+  {
+    "sentence": "この古い法廷記録は、当時の言語に訳すのが難しい。",
+    "sentence_furigana": "この古【ふる】い法廷記録【ほうていきろく】は、当時【とうじ】の言語【げんご】に訳【やく】すのが難【むずか】しい。",
+    "meaning": "It is difficult to translate these old court records into the language of that time."
+  },
+  {
+    "sentence": "彼の突然の沈黙は、何か隠したい訳があることを示唆していた。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の沈黙【ちんもく】は、何【なに】か隠【かく】したい訳【わけ】があることを示唆【しさ】していた。",
+    "meaning": "His sudden silence suggested that there was something he wanted to hide."
+  },
+  {
+    "sentence": "この古い技術マニュアルは、最新の規格に訳されるべきだ。",
+    "sentence_furigana": "この古【ふる】い技術マニュアルは、最新【さいしん】の規格【きかく】に訳【やく】されるべきだ。",
+    "meaning": "This old technical manual should be translated into the latest specifications."
+  },
+  {
+    "sentence": "彼女が顔を赤らめた訳は、褒められたからだろう。",
+    "sentence_furigana": "彼女【かのじょ】が顔【かお】を赤【あか】らめた訳【わけ】は、褒【ほ】められたからだろう。",
+    "meaning": "The reason she blushed was probably because she was praised."
+  },
+  {
+    "sentence": "この古い詩は、複数の訳でその魅力を味わうことができる。",
+    "sentence_furigana": "この古【ふる】い詩【し】は、複数【ふくすう】の訳【やく】でその魅力【みりょく】を味わ【あじわ】うことができる。",
+    "meaning": "This old poem can be enjoyed in multiple translations."
+  },
+  {
+    "sentence": "彼の遅刻の訳を聞く前に、まずは謝罪を求めた。",
+    "sentence_furigana": "彼【かれ】の遅刻【ちこく】の訳【わけ】を聞【き】く前【まえ】に、まずは謝罪【しゃざい】を求【もと】めた。",
+    "meaning": "Before hearing the reason for his lateness, I first demanded an apology."
+  },
+  {
+    "sentence": "この古い建築様式は、当時の社会状況を訳している。",
+    "sentence_furigana": "この古【ふる】い建築様式【けんちくようしき】は、当時【とうじ】の社会状況【しゃかいじょうきょう】を訳【やく】している。",
+    "meaning": "This old architectural style reflects the social conditions of that time."
+  },
+  {
+    "sentence": "彼女がそのように強く反対する訳は、過去の経験にある。",
+    "sentence_furigana": "彼女【かのじょ】がそのように強【つよ】く反対【はんたい】する訳【わけ】は、過去【かこ】の経験【けいけん】にある。",
+    "meaning": "The reason she strongly opposes in that way lies in past experience."
+  },
+  {
+    "sentence": "この古い歴史書は、多くの場合、直訳されることが望ましい。",
+    "sentence_furigana": "この古【ふる】い歴史書【れきししょ】は、多【おお】くの場合【ばあい】、直訳【ちょくやく】されることが望【のぞ】ましい。",
+    "meaning": "In many cases, it is desirable that this old history book be translated literally."
+  },
+  {
+    "sentence": "彼の沈黙の裏にある訳を理解しようと努めた。",
+    "sentence_furigana": "彼【かれ】の沈黙【ちんもく】の裏【うら】にある訳【わけ】を理解【りかい】しようと努【つと】めた。",
+    "meaning": "I tried to understand the reason behind his silence."
+  },
+  {
+    "sentence": "この古い歌の歌詞の意味を現代の言葉で訳して説明します。",
+    "sentence_furigana": "この古【ふる】い歌【うた】の歌詞【かし】の意味【いみ】を現代【げんだい】の言葉【ことば】で訳【やく】して説明【せつめい】します。",
+    "meaning": "I will translate and explain the meaning of the lyrics of this old song in modern words."
+  },
+  {
+    "sentence": "彼女がそのような行動をとった訳は、あなたへの愛情からです。",
+    "sentence_furigana": "彼女【かのじょ】がそのような行動【こうどう】をとった訳【わけ】は、あなたへの愛情【あいじょう】からです。",
+    "meaning": "The reason she took such action is out of love for you."
+  },
+  {
+    "sentence": "この古い法律の条文は、現代の法律に訳し直す必要がある。",
+    "sentence_furigana": "この古【ふる】い法律【ほうりつ】の条文【じょうぶん】は、現代【げんだい】の法律【ほうりつ】に訳【やく】し直【なお】す必要【ひつよう】がある。",
+    "meaning": "The articles of this old law need to be retranslated into modern law."
+  },
+  {
+    "sentence": "彼の突然の怒りの訳は、何かの誤解から生じたようだ。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の怒【いか】りの訳【わけ】は、何【なに】かの誤解【ごかい】から生【しょう】じたようだ。",
+    "meaning": "The reason for his sudden anger seems to have arisen from some misunderstanding."
+  },
+  {
+    "sentence": "この古い文献の翻訳は、多くの研究者によって試みられてきた。",
+    "sentence_furigana": "この古【ふる】い文献【ぶんけん】の翻訳【ほんやく】は、多【おお】くの研究者【けんきゅうしゃ】によって試【こころ】みられてきた。",
+    "meaning": "The translation of this old document has been attempted by many researchers."
+  },
+  {
+    "sentence": "彼女がそのような表情をしている訳は、何か悲しいことがあったからだろう。",
+    "sentence_furigana": "彼女【かのじょ】がそのような表情【ひょうじょう】をしている訳【わけ】は、何【なに】か悲【かな】しいことがあったからだろう。",
+    "meaning": "The reason she has such an expression is probably because something sad happened."
+  },
+  {
+    "sentence": "この古い歌の歌詞を現代の言葉で訳して、その意味を深く理解したい。",
+    "sentence_furigana": "この古【ふる】い歌【うた】の歌詞【かし】を現代【げんだい】の言葉【ことば】で訳【やく】して、その意味【いみ】を深【ふか】く理解【りかい】したい。",
+    "meaning": "I want to translate the lyrics of this old song into modern words and understand their meaning deeply."
+  },
+  {
+    "sentence": "彼の突然の訪問の訳は、私たちに何かを伝えたいからだった。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の訪問【ほうもん】の訳【わけ】は、私達【わたしたち】に何【なに】か伝【つた】えたいからだった。",
+    "meaning": "The reason for his sudden visit was that he wanted to tell us something."
+  },
+  {
+    "sentence": "この古い法律の精神を現代社会に訳して適用する必要がある。",
+    "sentence_furigana": "この古【ふる】い法律【ほうりつ】の精神【せいしん】を現代社会【げんだいしゃかい】に訳【やく】して適用【てきよう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to translate and apply the spirit of this old law to modern society."
+  },
+  {
+    "sentence": "彼女がそのような発言をする訳は、あなたに何かを訴えたいからだ。",
+    "sentence_furigana": "彼女【かのじょ】がそのような発言【はつげん】をする訳【わけ】は、あなたに何【なに】か訴【うった】えたいからだ。",
+    "meaning": "The reason she makes such a statement is that she wants to appeal something to you."
+  },
+  {
+    "sentence": "この古い物語は、様々な言語に訳され、世界中の人々に愛されている。",
+    "sentence_furigana": "この古【ふる】い物語【ものがたり】は、様々【さまざま】な言語【げんご】に訳【やく】され、世界中【せかいじゅう】の人々【ひとびと】に愛【あい】されている。",
+    "meaning": "This old story has been translated into various languages and is loved by people all over the world."
+  },
+  {
+    "sentence": "彼の遅刻の訳は、交通渋滞だったと説明された。",
+    "sentence_furigana": "彼【かれ】の遅刻【ちこく】の訳【わけ】は、交通渋滞【こうつうじゅうたい】だったと説明【せつめい】された。",
+    "meaning": "The reason for his lateness was explained as traffic congestion."
+  },
+  {
+    "sentence": "この古い文献の正確な訳を見つけることは、研究の第一歩です。",
+    "sentence_furigana": "この古【ふる】い文献【ぶんけん】の正確【せいかく】な訳【やく】を見【み】つけることは、研究【けんきゅう】の第一歩【だいいっぽ】です。",
+    "meaning": "Finding an accurate translation of this old document is the first step in research."
+  }
+]

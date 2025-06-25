@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "井戸の水は冷たい。",
+    "sentence_furigana": "井【い】戸【ど】の水【みず】は冷【つめ】たい。",
+    "meaning": "The well water is cold."
+  },
+  {
+    "sentence": "井の中の蛙大海を知らず。",
+    "sentence_furigana": "井【い】の中【なか】の蛙【かわず】大海【たいかい】を知【し】らず。",
+    "meaning": "A frog in a well knows nothing of the great ocean."
+  },
+  {
+    "sentence": "町の井戸端会議。",
+    "sentence_furigana": "町【まち】の井戸端【いどばた】会議【かいぎ】。",
+    "meaning": "Town gossip at the well."
+  },
+  {
+    "sentence": "井戸を掘る。",
+    "sentence_furigana": "井戸【いど】を掘【ほ】る。",
+    "meaning": "To dig a well."
+  },
+  {
+    "sentence": "井戸水で洗濯する。",
+    "sentence_furigana": "井戸水【いどみず】で洗濯【せんたく】する。",
+    "meaning": "To wash clothes with well water."
+  },
+  {
+    "sentence": "井戸の周りに集まる人々。",
+    "sentence_furigana": "井戸【いど】の周【まわ】りに集【あつ】まる人々【ひとびと】。",
+    "meaning": "People gathering around the well."
+  },
+  {
+    "sentence": "古い井戸が残っている。",
+    "sentence_furigana": "古【ふる】い井戸【いど】が残【のこ】っている。",
+    "meaning": "An old well remains."
+  },
+  {
+    "sentence": "井戸を清掃する。",
+    "sentence_furigana": "井戸【いど】を清掃【せいそう】する。",
+    "meaning": "To clean the well."
+  },
+  {
+    "sentence": "井戸から水を汲む。",
+    "sentence_furigana": "井戸【いど】から水【みず】を汲【く】む。",
+    "meaning": "To draw water from the well."
+  },
+  {
+    "sentence": "井戸の蓋が壊れている。",
+    "sentence_furigana": "井戸【いど】の蓋【ふた】が壊【こわ】れている。",
+    "meaning": "The lid of the well is broken."
+  },
+  {
+    "sentence": "井戸掘り師。",
+    "sentence_furigana": "井戸掘【いどほ】り師【し】。",
+    "meaning": "Well digger."
+  },
+  {
+    "sentence": "井戸の深さを測る。",
+    "sentence_furigana": "井戸【いど】の深【ふか】さを測【はか】る。",
+    "meaning": "To measure the depth of the well."
+  },
+  {
+    "sentence": "井戸の周りに石を積む。",
+    "sentence_furigana": "井戸【いど】の周【まわ】りに石【いし】を積【つ】む。",
+    "meaning": "To pile stones around the well."
+  },
+  {
+    "sentence": "井戸の底に何か落ちた。",
+    "sentence_furigana": "井戸【いど】の底【そこ】に何【なに】か落【お】ちた。",
+    "meaning": "Something fell to the bottom of the well."
+  },
+  {
+    "sentence": "井戸端で噂話をする。",
+    "sentence_furigana": "井戸端【いどばた】で噂話【うわさばなし】をする。",
+    "meaning": "To gossip at the well."
+  },
+  {
+    "sentence": "井戸の水質検査。",
+    "sentence_furigana": "井戸水【いどみず】の...水質検査【すいしつけんさ】。",
+    "meaning": "Water quality test for the well."
+  },
+  {
+    "sentence": "井戸ポンプが故障した。",
+    "sentence_furigana": "井戸ポンプ【いどポンプ】が故障【こしょう】した。",
+    "meaning": "The well pump broke down."
+  },
+  {
+    "sentence": "井戸掘りは危険な仕事だ。",
+    "sentence_furigana": "井戸掘【いどほ】りは危険【きけん】な仕事【しごと】だ。",
+    "meaning": "Digging a well is dangerous work."
+  },
+  {
+    "sentence": "井戸の水は貴重です。",
+    "sentence_furigana": "井戸水【いどみず】は貴重【きちょう】です。",
+    "meaning": "Well water is precious."
+  },
+  {
+    "sentence": "共同井戸の利用。",
+    "sentence_furigana": "共同井戸【きょうどういど】の利用【りよう】。",
+    "meaning": "Use of the communal well."
+  },
+  {
+    "sentence": "井戸を再利用する。",
+    "sentence_furigana": "井戸【いど】を再利用【さいりよう】する。",
+    "meaning": "To reuse the well."
+  },
+  {
+    "sentence": "井戸が枯渇する。",
+    "sentence_furigana": "井戸【いど】が枯渇【こかつ】する。",
+    "meaning": "The well is drying up."
+  },
+  {
+    "sentence": "井戸の改修工事。",
+    "sentence_furigana": "井戸【いど】の改修工事【かいしゅうこうじ】。",
+    "meaning": "Renovation work on the well."
+  },
+  {
+    "sentence": "井戸の周りに花を植える。",
+    "sentence_furigana": "井戸【いど】の周【まわ】りに花【はな】を植【う】える。",
+    "meaning": "To plant flowers around the well."
+  },
+  {
+    "sentence": "井戸の水を利用した農業。",
+    "sentence_furigana": "井戸水【いどみず】を利用【りよう】した農業【のうぎょう】。",
+    "meaning": "Agriculture utilizing well water."
+  },
+  {
+    "sentence": "井戸水から不純物を除去する。",
+    "sentence_furigana": "井戸水【いどみず】から不純物【ふじゅんぶつ】を除去【じょきょ】する。",
+    "meaning": "To remove impurities from well water."
+  },
+  {
+    "sentence": "井戸の構造を調べる。",
+    "sentence_furigana": "井戸【いど】の構造【こうぞう】を調【しら】べる。",
+    "meaning": "To investigate the structure of the well."
+  },
+  {
+    "sentence": "井戸を安全に保つ。",
+    "sentence_furigana": "井戸【いど】を安全【あんぜん】に保【たも】つ。",
+    "meaning": "To keep the well safe."
+  },
+  {
+    "sentence": "井戸には伝説がある。",
+    "sentence_furigana": "井戸【いど】には伝説【でんせつ】がある。",
+    "meaning": "There is a legend about the well."
+  },
+  {
+    "sentence": "井戸掘りの技術。",
+    "sentence_furigana": "井戸掘【いどほ】りの技術【ぎじゅつ】。",
+    "meaning": "Well digging techniques."
+  },
+  {
+    "sentence": "井戸の恵みに感謝する。",
+    "sentence_furigana": "井戸【いど】の恵【めぐ】みに感謝【かんしゃ】する。",
+    "meaning": "To be thankful for the blessings of the well."
+  },
+  {
+    "sentence": "井戸水で清める。",
+    "sentence_furigana": "井戸水【いどみず】で清【きよ】める。",
+    "meaning": "To purify with well water."
+  },
+  {
+    "sentence": "井戸水を使う生活。",
+    "sentence_furigana": "井戸水【いどみず】を使【つか】う生活【せいかつ】。",
+    "meaning": "Life using well water."
+  },
+  {
+    "sentence": "井戸の近くに住む。",
+    "sentence_furigana": "井戸【いど】の近【ちか】くに住【す】む。",
+    "meaning": "To live near the well."
+  },
+  {
+    "sentence": "井戸に落ちないように注意する。",
+    "sentence_furigana": "井戸【いど】に落【お】ちないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to fall into the well."
+  },
+  {
+    "sentence": "井戸の底を覗き込む。",
+    "sentence_furigana": "井戸【いど】の底【そこ】を覗【のぞ】き込【こ】む。",
+    "meaning": "To peer into the bottom of the well."
+  },
+  {
+    "sentence": "井戸水で米を研ぐ。",
+    "sentence_furigana": "井戸水【いどみず】で米【こめ】を研【と】ぐ。",
+    "meaning": "To wash rice with well water."
+  },
+  {
+    "sentence": "井戸跡が見つかった。",
+    "sentence_furigana": "井戸跡【いどあと】が見【み】つかった。",
+    "meaning": "A well site was discovered."
+  },
+  {
+    "sentence": "井戸掘り職人の技。",
+    "sentence_furigana": "井戸掘【いどほ】り職人【しょくにん】の技【わざ】。",
+    "meaning": "The skill of a well-digging craftsman."
+  },
+  {
+    "sentence": "井戸の水を飲料水として利用する。",
+    "sentence_furigana": "井戸水【いどみず】を飲料水【いんりょうすい】として利用【りよう】する。",
+    "meaning": "To use well water as drinking water."
+  },
+  {
+    "sentence": "井戸の維持管理。",
+    "sentence_furigana": "井戸【いど】の維持管理【いじかんり】。",
+    "meaning": "Maintenance of the well."
+  },
+  {
+    "sentence": "井戸に滑り落ちた猫。",
+    "sentence_furigana": "井戸【いど】に滑【すべ】り落【お】ちた猫【ねこ】。",
+    "meaning": "A cat that slipped and fell into the well."
+  },
+  {
+    "sentence": "井戸の水量が増える。",
+    "sentence_furigana": "井戸水【いどみず】の...水量【すいりょう】が増【ふ】える。",
+    "meaning": "The water level in the well is increasing."
+  },
+  {
+    "sentence": "井戸掘りの歴史。",
+    "sentence_furigana": "井戸掘【いどほ】りの歴史【れきし】。",
+    "meaning": "History of well digging."
+  },
+  {
+    "sentence": "井戸を大切に使う。",
+    "sentence_furigana": "井戸【いど】を大切【たいせつ】に使う【つかう】。",
+    "meaning": "To use the well with care."
+  },
+  {
+    "sentence": "井戸の深層水。",
+    "sentence_furigana": "井戸【いど】の深層水【しんそうすい】。",
+    "meaning": "Deep water from the well."
+  },
+  {
+    "sentence": "井戸から湧き出る水。",
+    "sentence_furigana": "井戸【いど】から湧【わ】き出【で】る水【みず】。",
+    "meaning": "Water gushing from the well."
+  },
+  {
+    "sentence": "井戸の周囲の環境。",
+    "sentence_furigana": "井戸【いど】の周囲【しゅうい】の環境【かんきょう】。",
+    "meaning": "The environment around the well."
+  },
+  {
+    "sentence": "井戸掘削機。",
+    "sentence_furigana": "井戸掘削機【いどくっさくき】。",
+    "meaning": "Well drilling machine."
+  },
+  {
+    "sentence": "井戸は村の命綱。",
+    "sentence_furigana": "井戸【いど】は村【むら】の命綱【いのちづな】。",
+    "meaning": "The well is the lifeline of the village."
+  },
+  {
+    "sentence": "井戸水を使った調理。",
+    "sentence_furigana": "井戸水【いどみず】を使【つか】った調理【ちょうり】。",
+    "meaning": "Cooking using well water."
+  },
+  {
+    "sentence": "井戸の安全対策。",
+    "sentence_furigana": "井戸【いど】の安全対策【あんぜんたいさく】。",
+    "meaning": "Safety measures for the well."
+  },
+  {
+    "sentence": "井戸水にミネラルが多い。",
+    "sentence_furigana": "井戸水【いどみず】にミネラルが多【おお】い。",
+    "meaning": "Well water is rich in minerals."
+  },
+  {
+    "sentence": "井戸は昔の生活に不可欠だった。",
+    "sentence_furigana": "井戸【いど】は昔【むかし】の生活【せいかつ】に不可欠【ふかけつ】だった。",
+    "meaning": "Wells were essential for life in the past."
+  },
+  {
+    "sentence": "井戸の水温。",
+    "sentence_furigana": "井戸水【いどみず】の水温【すいおん】。",
+    "meaning": "The water temperature of the well."
+  },
+  {
+    "sentence": "井戸を掘る技術は代々伝わる。",
+    "sentence_furigana": "井戸【いど】を掘【ほ】る技術【ぎじゅつ】は代々【だいだい】伝【つた】わる。",
+    "meaning": "The skill of digging wells is passed down through generations."
+  },
+  {
+    "sentence": "井戸は地域社会の中心だった。",
+    "sentence_furigana": "井戸【いど】は地域社会【ちいきしゃかい】の中心【ちゅうしん】だった。",
+    "meaning": "The well was the center of the community."
+  },
+  {
+    "sentence": "井戸の水の味が良い。",
+    "sentence_furigana": "井戸水【いどみず】の味【あじ】が良い【よい】。",
+    "meaning": "The taste of the well water is good."
+  },
+  {
+    "sentence": "井戸掘りは熟練を要する。",
+    "sentence_furigana": "井戸掘【いどほ】りは熟練【じゅくれん】を要【よう】する。",
+    "meaning": "Well digging requires skill."
+  },
+  {
+    "sentence": "井戸水で火を消す。",
+    "sentence_furigana": "井戸水【いどみず】で火【ひ】を消【け】す。",
+    "meaning": "To extinguish a fire with well water."
+  },
+  {
+    "sentence": "井戸の水中を調査する。",
+    "sentence_furigana": "井戸【いど】の水【みず】の中【なか】を調査【ちょうさ】する。",
+    "meaning": "To investigate the water in the well."
+  },
+  {
+    "sentence": "井戸水を飲料用以外に使う。",
+    "sentence_furigana": "井戸水【いどみず】を飲料用以外【いんりょうよういがい】に使う【つかう】。",
+    "meaning": "To use well water for purposes other than drinking."
+  },
+  {
+    "sentence": "井戸掘りの道具。",
+    "sentence_furigana": "井戸掘【いどほ】りの道具【どうぐ】。",
+    "meaning": "Well digging tools."
+  },
+  {
+    "sentence": "井戸の水位を監視する。",
+    "sentence_furigana": "井戸水【いどみず】の水位【すいい】を監視【かんし】する。",
+    "meaning": "To monitor the water level of the well."
+  },
+  {
+    "sentence": "井戸に伝わる昔話。",
+    "sentence_furigana": "井戸【いど】に伝【つた】わる昔話【むかしばなし】。",
+    "meaning": "Old tales passed down about the well."
+  },
+  {
+    "sentence": "井戸水による水耕栽培。",
+    "sentence_furigana": "井戸水【いどみず】による水耕栽培【すいこうさいばい】。",
+    "meaning": "Hydroponics using well water."
+  },
+  {
+    "sentence": "井戸の底に沈殿物がある。",
+    "sentence_furigana": "井戸【いど】の底【そこ】に沈殿物【ちんでんぶつ】がある。",
+    "meaning": "There is sediment at the bottom of the well."
+  },
+  {
+    "sentence": "井戸水を冷却に使う。",
+    "sentence_furigana": "井戸水【いどみず】を冷却【れいきゃく】に使う【つかう】。",
+    "meaning": "To use well water for cooling."
+  },
+  {
+    "sentence": "井戸掘りの安全講習。",
+    "sentence_furigana": "井戸掘【いどほ】りの安全講習【あんぜんこうしゅう】。",
+    "meaning": "Safety training for well digging."
+  },
+  {
+    "sentence": "井戸水は地下水脈に繋がっている。",
+    "sentence_furigana": "井戸水【いどみず】は地下水脈【ちかすいみゃく】に繋【つな】がっている。",
+    "meaning": "Well water is connected to the underground water table."
+  },
+  {
+    "sentence": "井戸掘りの費用。",
+    "sentence_furigana": "井戸掘【いどほ】りの費用【ひよう】。",
+    "meaning": "Cost of well digging."
+  },
+  {
+    "sentence": "井戸水を温めて使う。",
+    "sentence_furigana": "井戸水【いどみず】を温【あたた】めて使う【つかう】。",
+    "meaning": "To warm and use well water."
+  },
+  {
+    "sentence": "井戸掘りは体力が必要だ。",
+    "sentence_furigana": "井戸掘【いどほ】りは体力【たいりょく】が必要【ひつよう】だ。",
+    "meaning": "Well digging requires physical strength."
+  },
+  {
+    "sentence": "井戸水を飲用にするための浄化。",
+    "sentence_furigana": "井戸水【いどみず】を飲用【いんよう】にするための浄化【じょうか】。",
+    "meaning": "Purification of well water for drinking."
+  },
+  {
+    "sentence": "井戸は地下水の宝庫。",
+    "sentence_furigana": "井戸【いど】は地下水【ちかすい】の宝庫【ほうこ】。",
+    "meaning": "The well is a treasure trove of groundwater."
+  },
+  {
+    "sentence": "井戸掘りの許可。",
+    "sentence_furigana": "井戸掘【いどほ】りの許可【きょか】。",
+    "meaning": "Permit for well digging."
+  },
+  {
+    "sentence": "井戸の周りに植生がある。",
+    "sentence_furigana": "井戸【いど】の周【まわ】りに植生【しょくせい】がある。",
+    "meaning": "There is vegetation around the well."
+  },
+  {
+    "sentence": "井戸水による飲料水の供給。",
+    "sentence_furigana": "井戸水【いどみず】による飲料水【いんりょうすい】の供給【きょうきゅう】。",
+    "meaning": "Supply of drinking water from the well."
+  },
+  {
+    "sentence": "井戸水の pH 検査。",
+    "sentence_furigana": "井戸水【いどみず】の pH 検査【けんさ】。",
+    "meaning": "pH test of well water."
+  },
+  {
+    "sentence": "井戸の湧き水の源泉。",
+    "sentence_furigana": "井戸【いど】の湧水【ゆうすい】の源泉【げんせん】。",
+    "meaning": "The source of the spring water from the well."
+  },
+  {
+    "sentence": "井戸掘りは専門知識が必要。",
+    "sentence_furigana": "井戸掘【いどほ】りは専門知識【せんもんちしき】が必要【ひつよう】。",
+    "meaning": "Well digging requires specialized knowledge."
+  },
+  {
+    "sentence": "井戸水は再生可能資源。",
+    "sentence_furigana": "井戸水【いどみず】は再生可能資源【さいせいかのうしげん】。",
+    "meaning": "Well water is a renewable resource."
+  },
+  {
+    "sentence": "井戸を掘る場所の選定。",
+    "sentence_furigana": "井戸【いど】を掘【ほ】る場所【ばしょ】の選定【せんてい】。",
+    "meaning": "Selection of a site to dig a well."
+  },
+  {
+    "sentence": "井戸の底に貝殻があった。",
+    "sentence_furigana": "井戸【いど】の底【そこ】に貝殻【かいがら】があった。",
+    "meaning": "There were shells at the bottom of the well."
+  },
+  {
+    "sentence": "井戸水の水質汚染。",
+    "sentence_furigana": "井戸水【いどみず】の水質汚染【すいしつおせん】。",
+    "meaning": "Water pollution of the well."
+  },
+  {
+    "sentence": "井戸掘りの安全基準。",
+    "sentence_furigana": "井戸掘【いどほ】りの安全基準【あんぜんきじゅん】。",
+    "meaning": "Safety standards for well digging."
+  },
+  {
+    "sentence": "井戸水からサルモネラ菌が検出された。",
+    "sentence_furigana": "井戸水【いどみず】からサルモネラ菌【きん】が検出【けんしゅつ】された。",
+    "meaning": "Salmonella was detected in the well water."
+  },
+  {
+    "sentence": "井戸掘りの経験者。",
+    "sentence_furigana": "井戸掘【いどほ】りの経験者【けいけんしゃ】。",
+    "meaning": "Experienced well digger."
+  },
+  {
+    "sentence": "井戸の深さによる水温の変化。",
+    "sentence_furigana": "井戸【いど】の深【ふか】さによる水温【すいおん】の変化【へんか】。",
+    "meaning": "Change in water temperature according to the depth of the well."
+  },
+  {
+    "sentence": "井戸水は地中を旅してくる。",
+    "sentence_furigana": "井戸水【いどみず】は地中【ちちゅう】を旅【たび】してくる。",
+    "meaning": "Well water travels through the earth."
+  },
+  {
+    "sentence": "井戸掘りのアルバイト。",
+    "sentence_furigana": "井戸掘【いどほ】りのアルバイト。",
+    "meaning": "Part-time job digging wells."
+  },
+  {
+    "sentence": "井戸の湧き水を安全に利用する。",
+    "sentence_furigana": "井戸【いど】の湧水【ゆうすい】を安全【あんぜん】に利用【りよう】する。",
+    "meaning": "To safely utilize the spring water from the well."
+  },
+  {
+    "sentence": "井戸水を飲用にするための処理。",
+    "sentence_furigana": "井戸水【いどみず】を飲用【いんよう】にするための処理【しょり】。",
+    "meaning": "Treatment of well water for drinking."
+  }
+]

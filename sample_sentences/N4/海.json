@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "海は広いです。",
+    "sentence_furigana": "海【うみ】は広【ひろ】いです。",
+    "meaning": "The sea is vast."
+  },
+  {
+    "sentence": "海の幸は美味しい。",
+    "sentence_furigana": "海【うみ】の幸【さち】は美味【おい】しい。",
+    "meaning": "Seafood is delicious."
+  },
+  {
+    "sentence": "彼は海で泳ぎました。",
+    "sentence_furigana": "彼【かれ】は海【うみ】で泳【およ】ぎました。",
+    "meaning": "He swam in the sea."
+  },
+  {
+    "sentence": "海辺を散歩するのが好きです。",
+    "sentence_furigana": "海【うみ】辺【べ】を散歩【さんぽ】するのが好【す】きです。",
+    "meaning": "I like walking along the seaside."
+  },
+  {
+    "sentence": "海の青さは心を癒します。",
+    "sentence_furigana": "海【うみ】の青【あお】さは心【こころ】を癒【いや】します。",
+    "meaning": "The blue of the sea heals the soul."
+  },
+  {
+    "sentence": "私たちは船で海を渡りました。",
+    "sentence_furigana": "私【わたし】たち【たち】は船【ふね】で海【うみ】を渡【わた】りました。",
+    "meaning": "We crossed the sea by boat."
+  },
+  {
+    "sentence": "海にはたくさんの魚がいます。",
+    "sentence_furigana": "海【うみ】にはたくさんあります。",
+    "meaning": "There are many fish in the sea."
+  },
+  {
+    "sentence": "夏は海で遊びたいです。",
+    "sentence_furigana": "夏【なつ】は海【うみ】で遊【あそ】びたいです。",
+    "meaning": "I want to play in the sea in the summer."
+  },
+  {
+    "sentence": "この海は透明度が高いです。",
+    "sentence_furigana": "この海【うみ】は透明度【とうめいど】が高【たか】いです。",
+    "meaning": "This sea has high transparency."
+  },
+  {
+    "sentence": "海賊は宝を探して海を旅しました。",
+    "sentence_furigana": "海賊【かいぞく】は宝【たから】を探【さが】して海【うみ】を旅【たび】しました。",
+    "meaning": "The pirates traveled the sea in search of treasure."
+  },
+  {
+    "sentence": "海岸線は長く続いています。",
+    "sentence_furigana": "海岸線【かいがんせん】は長【なが】く続【つづ】いています。",
+    "meaning": "The coastline stretches long."
+  },
+  {
+    "sentence": "海の音を聞いていると落ち着きます。",
+    "sentence_furigana": "海【うみ】の音【おと】を聞【き】いていると落【お】ち着【つ】きます。",
+    "meaning": "Listening to the sound of the sea calms me down."
+  },
+  {
+    "sentence": "海の近くに住んでいます。",
+    "sentence_furigana": "海【うみ】の近【ちか】くに住【す】んでいます。",
+    "meaning": "I live near the sea."
+  },
+  {
+    "sentence": "深海には不思議な生物がたくさんいます。",
+    "sentence_furigana": "深海【しんかい】には不思議【ふしぎ】な生物【せいぶつ】がたくさんいます。",
+    "meaning": "There are many strange creatures in the deep sea."
+  },
+  {
+    "sentence": "海流は地球の気候に影響を与えます。",
+    "sentence_furigana": "海流【かいりゅう】は地球【ちきゅう】の気候【きこう】に影響【えいきょう】を与【あた】えます。",
+    "meaning": "Ocean currents affect the Earth's climate."
+  },
+  {
+    "sentence": "海の水はしょっぱい。",
+    "sentence_furigana": "海【うみ】の水【みず】はしょっぱい。",
+    "meaning": "The sea water is salty."
+  },
+  {
+    "sentence": "海の上には鳥が飛んでいます。",
+    "sentence_furigana": "海【うみ】の上【うえ】には鳥【とり】が飛【と】んでいます。",
+    "meaning": "Birds are flying over the sea."
+  },
+  {
+    "sentence": "彼は海図を広げた。",
+    "sentence_furigana": "彼【かれ】は海図【かいず】を広【ひろ】げた。",
+    "meaning": "He spread out the nautical chart."
+  },
+  {
+    "sentence": "海産物は新鮮さが命だ。",
+    "sentence_furigana": "海産物【かいさんぶつ】は新鮮【しんせん】さが命【いのち】だ。",
+    "meaning": "Freshness is vital for seafood."
+  },
+  {
+    "sentence": "海が荒れている。",
+    "sentence_furigana": "海【うみ】が荒【あ】れている。",
+    "meaning": "The sea is rough."
+  },
+  {
+    "sentence": "海抜は標高と同じ意味です。",
+    "sentence_furigana": "海抜【かいばつ】は標高【ひょうこう】と同【おな】じ意味【いみ】です。",
+    "meaning": "Sea level has the same meaning as altitude."
+  },
+  {
+    "sentence": "海辺の町は静かだ。",
+    "sentence_furigana": "海【うみ】辺【べ】の町【まち】は静【しず】かだ。",
+    "meaning": "The seaside town is quiet."
+  },
+  {
+    "sentence": "子供たちは海で貝殻を拾った。",
+    "sentence_furigana": "子供【こども】たち【たち】は海【うみ】で貝殻【かいがら】を拾【ひろ】った。",
+    "meaning": "The children picked up seashells on the beach."
+  },
+  {
+    "sentence": "海鳴りが聞こえる。",
+    "sentence_furigana": "海鳴【うみ】り【なり】が聞【き】こえる。",
+    "meaning": "I can hear the roar of the sea."
+  },
+  {
+    "sentence": "彼は海図を頼りに航海した。",
+    "sentence_furigana": "彼【かれ】は海図【かいず】を頼【たの】りに航海【こうかい】した。",
+    "meaning": "He navigated by relying on the nautical chart."
+  },
+  {
+    "sentence": "海には多くの神秘が眠っている。",
+    "sentence_furigana": "海【うみ】には多【おお】くの神秘【しんぴ】が眠【ねむ】っている。",
+    "meaning": "Many mysteries lie dormant in the sea."
+  },
+  {
+    "sentence": "海の日には多くの人が海へ出かける。",
+    "sentence_furigana": "海【うみ】の日【ひ】には多【おお】くの人【ひと】が海【うみ】へ出【で】かける。",
+    "meaning": "Many people go to the sea on Marine Day."
+  },
+  {
+    "sentence": "この地域の海の幸は有名です。",
+    "sentence_furigana": "この地域【ちいき】の海【うみ】の幸【さち】は有名【ゆうめい】です。",
+    "meaning": "The seafood from this region is famous."
+  },
+  {
+    "sentence": "海鳥が空を舞っていた。",
+    "sentence_furigana": "海鳥【うみどり】が空【そら】を舞【ま】っていた。",
+    "meaning": "Seabirds were dancing in the sky."
+  },
+  {
+    "sentence": "海賊船が港に停泊していた。",
+    "sentence_furigana": "海賊船【かいぞくせん】が港【みなと】に停泊【ていはく】していた。",
+    "meaning": "A pirate ship was anchored in the harbor."
+  },
+  {
+    "sentence": "彼は海を見つめていた。",
+    "sentence_furigana": "彼【かれ】は海【うみ】を見【み】つめていた。",
+    "meaning": "He was gazing at the sea."
+  },
+  {
+    "sentence": "海の水は冷たかった。",
+    "sentence_furigana": "海【うみ】の水【みず】は冷【つめ】たかった。",
+    "meaning": "The sea water was cold."
+  },
+  {
+    "sentence": "海難事故には十分注意してください。",
+    "sentence_furigana": "海難事故【かいなんじこ】には十分【じゅうぶん】注意【ちゅうい】してください。",
+    "meaning": "Please be very careful of marine accidents."
+  },
+  {
+    "sentence": "海にはサンゴ礁が広がっている。",
+    "sentence_furigana": "海【うみ】にはサンゴ礁【さんごしょう】が広【ひろ】がっている。",
+    "meaning": "Coral reefs spread across the sea."
+  },
+  {
+    "sentence": "海の旅は長い道のりだった。",
+    "sentence_furigana": "海【うみ】の旅【たび】は長【なが】い道【みち】のりだった。",
+    "meaning": "The sea journey was a long one."
+  },
+  {
+    "sentence": "彼は海運業で成功した。",
+    "sentence_furigana": "彼【かれ】は海運業【かいうんぎょう】で成功【せいこう】した。",
+    "meaning": "He succeeded in the shipping industry."
+  },
+  {
+    "sentence": "海の水面がきらめいていた。",
+    "sentence_furigana": "海【うみ】の水面【すいめん】がきらめいていた。",
+    "meaning": "The sea surface was sparkling."
+  },
+  {
+    "sentence": "海抜ゼロメートル地帯は洪水に注意が必要です。",
+    "sentence_furigana": "海抜【かいばつ】ゼロメートル地帯【ちたい】は洪水【こうずい】に注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Areas at sea level zero meters require attention for floods."
+  },
+  {
+    "sentence": "海の恵みに感謝します。",
+    "sentence_furigana": "海【うみ】の恵【めぐ】みに感謝【かんしゃ】します。",
+    "meaning": "I am grateful for the bounty of the sea."
+  },
+  {
+    "sentence": "彼は海兵隊に入隊した。",
+    "sentence_furigana": "彼【かれ】は海兵隊【かいへいたい】に入隊【にゅうたい】した。",
+    "meaning": "He enlisted in the Marine Corps."
+  },
+  {
+    "sentence": "海の安全は重要です。",
+    "sentence_furigana": "海【うみ】の安全【あんぜん】は重要【じゅうよう】です。",
+    "meaning": "Maritime safety is important."
+  },
+  {
+    "sentence": "海の水は命の源だ。",
+    "sentence_furigana": "海【うみ】の水【みず】は命【いのち】の源【みなもと】だ。",
+    "meaning": "The sea is the source of life."
+  },
+  {
+    "sentence": "海風が心地よい。",
+    "sentence_furigana": "海風【うみかぜ】が心地【ここち】よい。",
+    "meaning": "The sea breeze is pleasant."
+  },
+  {
+    "sentence": "彼は海に面した家に住んでいる。",
+    "sentence_furigana": "彼【かれ】は海【うみ】に面【めん】した家【いえ】に住【す】んでいる。",
+    "meaning": "He lives in a house facing the sea."
+  },
+  {
+    "sentence": "海の色は様々に変化する。",
+    "sentence_furigana": "海【うみ】の色【いろ】は様々【さまざま】に変化【へんか】する。",
+    "meaning": "The color of the sea changes in various ways."
+  },
+  {
+    "sentence": "海峡を通過する船が多い。",
+    "sentence_furigana": "海峡【かいきょう】を通過【つうか】する船【ふね】が多【おお】い。",
+    "meaning": "Many ships pass through the strait."
+  },
+  {
+    "sentence": "海辺に打ち上げられたものを見る。",
+    "sentence_furigana": "海【うみ】辺【べ】に打【う】ち上【あ】げられたものを見【み】る。",
+    "meaning": "Looking at things washed ashore on the beach."
+  },
+  {
+    "sentence": "海の底には何があるのだろうか。",
+    "sentence_furigana": "海【うみ】の底【そこ】には何【なに】があるのだろうか。",
+    "meaning": "What lies at the bottom of the sea?"
+  },
+  {
+    "sentence": "この海域は漁業が盛んだ。",
+    "sentence_furigana": "この海域【かいいき】は漁業【ぎょぎょう】が盛【さか】んだ。",
+    "meaning": "Fishing is prosperous in this sea area."
+  },
+  {
+    "sentence": "海中には美しいサンゴが見られる。",
+    "sentence_furigana": "海中【かいちゅう】には美【うつく】しいサンゴが見【み】られる。",
+    "meaning": "Beautiful coral can be seen underwater."
+  },
+  {
+    "sentence": "海賊王を目指す。",
+    "sentence_furigana": "海賊王【かいぞくおう】を目指【めざ】す。",
+    "meaning": "Aiming to be the Pirate King."
+  },
+  {
+    "sentence": "海に面した部屋は眺めが良い。",
+    "sentence_furigana": "海【うみ】に面【めん】した部屋【へや】は眺【なが】めが良い【よい】。",
+    "meaning": "The room facing the sea has a good view."
+  },
+  {
+    "sentence": "海の広大さに圧倒される。",
+    "sentence_furigana": "海【うみ】の広大【こうだい】さに圧倒【あっとう】される。",
+    "meaning": "I am overwhelmed by the vastness of the sea."
+  },
+  {
+    "sentence": "海運は国際貿易の要です。",
+    "sentence_furigana": "海運【かいうん】は国際貿易【こくさいぼうえき】の要【かなめ】です。",
+    "meaning": "Shipping is essential for international trade."
+  },
+  {
+    "sentence": "彼は海の安全を守る仕事をしている。",
+    "sentence_furigana": "彼【かれ】は海【うみ】の安全【あんぜん】を守【まも】る仕事【しごと】をしている。",
+    "meaning": "He works to protect maritime safety."
+  },
+  {
+    "sentence": "海辺の夕日は美しい。",
+    "sentence_furigana": "海【うみ】辺【べ】の夕日【ゆうひ】は美【うつく】しい。",
+    "meaning": "The sunset by the sea is beautiful."
+  },
+  {
+    "sentence": "海の水温は場所によって異なる。",
+    "sentence_furigana": "海【うみ】の水温【すいおん】は場所【ばしょ】によって異【こと】なる。",
+    "meaning": "The sea temperature varies by location."
+  },
+  {
+    "sentence": "彼は海辺で貝を拾った。",
+    "sentence_furigana": "彼【かれ】は海【うみ】辺【べ】で貝【かい】を拾【ひろ】った。",
+    "meaning": "He picked up shells on the beach."
+  },
+  {
+    "sentence": "海の生き物は多様性に富んでいる。",
+    "sentence_furigana": "海【うみ】の生【い】き物【もの】は多様性【たようせい】に富【と】んでいる。",
+    "meaning": "Marine life is rich in diversity."
+  },
+  {
+    "sentence": "海の幸を味わう。",
+    "sentence_furigana": "海【うみ】の幸【さち】を味わ【あじわ】う。",
+    "meaning": "Savoring the seafood."
+  },
+  {
+    "sentence": "彼は新しい海図を作った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい海図【かいず】を作【つく】った。",
+    "meaning": "He made a new nautical chart."
+  },
+  {
+    "sentence": "海難救助隊が活動している。",
+    "sentence_furigana": "海難救助隊【かいなんきゅうじょたい】が活動【かつどう】している。",
+    "meaning": "The maritime rescue team is active."
+  },
+  {
+    "sentence": "海の水は地球の大部分を覆っている。",
+    "sentence_furigana": "海【うみ】の水【みず】は地球【ちきゅう】の大部分【だいぶぶん】を覆【おお】っている。",
+    "meaning": "The sea covers most of the Earth."
+  },
+  {
+    "sentence": "海辺のホテルは人気がある。",
+    "sentence_furigana": "海【うみ】辺【べ】のホテルは人気【にんき】がある。",
+    "meaning": "The seaside hotel is popular."
+  },
+  {
+    "sentence": "海流によって物が運ばれる。",
+    "sentence_furigana": "海流【かいりゅう】によって物【もの】が運【はこ】ばれる。",
+    "meaning": "Things are transported by ocean currents."
+  },
+  {
+    "sentence": "彼は海を渡って旅をした。",
+    "sentence_furigana": "彼【かれ】は海【うみ】を渡【わた】って旅【たび】をした。",
+    "meaning": "He traveled across the sea."
+  },
+  {
+    "sentence": "海の底の探索は困難だ。",
+    "sentence_furigana": "海【うみ】の底【そこ】の探索【たんさく】は困難【こんなん】だ。",
+    "meaning": "Exploring the seabed is difficult."
+  },
+  {
+    "sentence": "海から吹く風は涼しい。",
+    "sentence_furigana": "海【うみ】から吹【ふ】く風【かぜ】は涼【すず】しい。",
+    "meaning": "The wind blowing from the sea is cool."
+  },
+  {
+    "sentence": "この辺りの海は穏やかだ。",
+    "sentence_furigana": "この辺【あた】りの海【うみ】は穏【おだ】やかだ。",
+    "meaning": "The sea in this area is calm."
+  },
+  {
+    "sentence": "彼は海に関する本をたくさん読んだ。",
+    "sentence_furigana": "彼【かれ】は海【うみ】に関【かん】する本【ほん】をたくさん読【よ】んだ。",
+    "meaning": "He read many books about the sea."
+  },
+  {
+    "sentence": "海辺で花火を見た。",
+    "sentence_furigana": "海【うみ】辺【べ】で花火【はなび】を見【み】た。",
+    "meaning": "I watched fireworks on the beach."
+  },
+  {
+    "sentence": "海の水は塩分を含んでいる。",
+    "sentence_furigana": "海【うみ】の水【みず】は塩分【えんぶん】を含【ふく】んでいる。",
+    "meaning": "Seawater contains salt."
+  },
+  {
+    "sentence": "海上の交通は非常に多い。",
+    "sentence_furigana": "海上【かいじょう】の交通【こうつう】は非常【ひじょう】に多【おお】い。",
+    "meaning": "Maritime traffic is very heavy."
+  },
+  {
+    "sentence": "海なし県出身です。",
+    "sentence_furigana": "海【うみ】なし県【けん】出身【しゅっしん】です。",
+    "meaning": "I am from a landlocked prefecture."
+  },
+  {
+    "sentence": "彼は海で釣りを楽しんだ。",
+    "sentence_furigana": "彼【かれ】は海【うみ】で釣【つ】りを楽し【たの】しんだ。",
+    "meaning": "He enjoyed fishing in the sea."
+  },
+  {
+    "sentence": "海の恵みは私たちにとって大切だ。",
+    "sentence_furigana": "海【うみ】の恵【めぐ】みは私【わたし】たち【たち】にとって大切【たいせつ】だ。",
+    "meaning": "The bounty of the sea is important to us."
+  },
+  {
+    "sentence": "海賊たちは秘密の島を探していた。",
+    "sentence_furigana": "海賊【かいぞく】たち【たち】は秘密【ひみつ】の島【しま】を探【さが】していた。",
+    "meaning": "The pirates were looking for a secret island."
+  },
+  {
+    "sentence": "海辺の砂は白くてきれいだ。",
+    "sentence_furigana": "海【うみ】辺【べ】の砂【すな】は白【しろ】くてきれいだ。",
+    "meaning": "The sand on the beach is white and beautiful."
+  },
+  {
+    "sentence": "海の生き物に関する展示会が開催された。",
+    "sentence_furigana": "海【うみ】の生【い】き物【もの】に関【かん】する展示会【てんじかい】が開催【かいさい】された。",
+    "meaning": "An exhibition about marine life was held."
+  },
+  {
+    "sentence": "海軍の船が港に到着した。",
+    "sentence_furigana": "海軍【かいぐん】の船【ふね】が港【みなと】に到着【とうちゃく】した。",
+    "meaning": "The navy ship arrived at the port."
+  },
+  {
+    "sentence": "海の声を聞きながら眠りについた。",
+    "sentence_furigana": "海【うみ】の声【こえ】を聞【き】きながら眠【ねむ】りについた。",
+    "meaning": "I fell asleep listening to the sound of the sea."
+  },
+  {
+    "sentence": "海の水は深い。",
+    "sentence_furigana": "海【うみ】の水【みず】は深【ふか】い。",
+    "meaning": "The sea water is deep."
+  },
+  {
+    "sentence": "海辺には珍しい貝が見つかることがある。",
+    "sentence_furigana": "海【うみ】辺【べ】には珍【めずら】しい貝【かい】が見【み】つかることがある。",
+    "meaning": "Rare shells can sometimes be found on the beach."
+  },
+  {
+    "sentence": "海の幸を使った料理は美味しい。",
+    "sentence_furigana": "海【うみ】の幸【さち】を使【つか】った料理【りょうり】は美味【おい】しい。",
+    "meaning": "Dishes made with seafood are delicious."
+  },
+  {
+    "sentence": "海を見渡す。",
+    "sentence_furigana": "海【うみ】を見渡【みわた】す。",
+    "meaning": "Looking out over the sea."
+  },
+  {
+    "sentence": "海の幸を感謝していただく。",
+    "sentence_furigana": "海【うみ】の幸【さち】を感謝【かんしゃ】していただく。",
+    "meaning": "I gratefully receive the bounty of the sea."
+  },
+  {
+    "sentence": "海辺の景色は素晴らしい。",
+    "sentence_furigana": "海【うみ】辺【べ】の景色【けしき】は素晴【すば】らしい。",
+    "meaning": "The seaside scenery is wonderful."
+  },
+  {
+    "sentence": "彼は海で働いている。",
+    "sentence_furigana": "彼【かれ】は海【うみ】で働【はたら】いている。",
+    "meaning": "He works at sea."
+  },
+  {
+    "sentence": "海の水は青く澄んでいる。",
+    "sentence_furigana": "海【うみ】の水【みず】は青【あお】く澄【す】んでいる。",
+    "meaning": "The sea water is clear and blue."
+  },
+  {
+    "sentence": "海賊の伝説はロマンがある。",
+    "sentence_furigana": "海賊【かいぞく】の伝説【でんせつ】はロマンがある。",
+    "meaning": "The legend of pirates is romantic."
+  },
+  {
+    "sentence": "海抜を測る。",
+    "sentence_furigana": "海抜【かいばつ】を測【はか】る。",
+    "meaning": "To measure the elevation above sea level."
+  },
+  {
+    "sentence": "海の安全を守るために、航海士は海図を使う。",
+    "sentence_furigana": "海【うみ】の安全【あんぜん】を守【まも】るために、航海士【こうかいし】は海図【かいず】を使【つか】う。",
+    "meaning": "To ensure maritime safety, navigators use nautical charts."
+  },
+  {
+    "sentence": "彼は海の冒険を夢見ている。",
+    "sentence_furigana": "彼【かれ】は海【うみ】の冒険【ぼうけん】を夢見【ゆめみ】ている。",
+    "meaning": "He dreams of adventures at sea."
+  }
+]

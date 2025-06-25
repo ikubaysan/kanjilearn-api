@@ -1,0 +1,562 @@
+[
+  {
+    "sentence": "この山は標高が高い峰がある。",
+    "sentence_furigana": "この山【やま】は標高【ひょうこう】が高【たか】い峰【みね】がある。",
+    "meaning": "This mountain has a high peak in elevation."
+  },
+  {
+    "sentence": "富士山は日本で一番高い峰です。",
+    "sentence_furigana": "富士山【ふじさん】は日本【にほん】で一番【いちばん】高【たか】い峰【みね】です。",
+    "meaning": "Mount Fuji is Japan's highest peak."
+  },
+  {
+    "sentence": "雪に覆われた峰々が朝日に輝いていた。",
+    "sentence_furigana": "雪【ゆき】に覆【おお】われた峰々【みねみね】が朝日【あさひ】に輝【かがや】いていた。",
+    "meaning": "The snow-covered peaks were shining in the morning sun."
+  },
+  {
+    "sentence": "登山家たちは困難な峰を乗り越えた。",
+    "sentence_furigana": "登山家【とざんか】たち【は】困難【こんなん】な峰【みね】を乗【の】り越【こ】えた。",
+    "meaning": "The climbers overcame the difficult peak."
+  },
+  {
+    "sentence": "あの山の峰まで登るのは大変だろう。",
+    "sentence_furigana": "あの山【やま】の峰【みね】まで登【のぼ】るのは大変【たいへん】だろう。",
+    "meaning": "It will probably be tough to climb to the peak of that mountain."
+  },
+  {
+    "sentence": "鋭い峰が連なる景色は壮観だ。",
+    "sentence_furigana": "鋭【するど】い峰【みね】が連【つら】なる景色【けしき】は壮観【そうかん】だ。",
+    "meaning": "The scenery of successive sharp peaks is magnificent."
+  },
+  {
+    "sentence": "私たちは山の峰から景色を楽しんだ。",
+    "sentence_furigana": "私【わたし】たち【は】山【やま】の峰【みね】から景色【けしき】を楽【たの】しんだ。",
+    "meaning": "We enjoyed the view from the mountain peak."
+  },
+  {
+    "sentence": "頂上の峰に立つと、世界が小さく見える。",
+    "sentence_furigana": "頂上【ちょうじょう】の峰【みね】に立【た】つと、世界【せかい】が小【ちい】さく見【み】える。",
+    "meaning": "When you stand on the summit's peak, the world looks small."
+  },
+  {
+    "sentence": "あの山の峰は常に雲に隠れている。",
+    "sentence_furigana": "あの山【やま】の峰【みね】は常【つね】に雲【くも】に隠【かく】れている。",
+    "meaning": "The peak of that mountain is always hidden by clouds."
+  },
+  {
+    "sentence": "遠くの峰に夕日が当たっていた。",
+    "sentence_furigana": "遠【とお】くの峰【みね】に夕日【ゆうひ】が当【あ】たっていた。",
+    "meaning": "The setting sun was hitting the distant peak."
+  },
+  {
+    "sentence": "この谷は高い峰に囲まれている。",
+    "sentence_furigana": "この谷【たに】は高【たか】い峰【みね】に囲【かこ】まれている。",
+    "meaning": "This valley is surrounded by high peaks."
+  },
+  {
+    "sentence": "峰に吹く風は冷たかった。",
+    "sentence_furigana": "峰【みね】に吹【ふ】く風【かぜ】は冷【つめ】たかった。",
+    "meaning": "The wind blowing on the peak was cold."
+  },
+  {
+    "sentence": "峰の岩肌は露出していた。",
+    "sentence_furigana": "峰【みね】の岩肌【いわはだ】は露出【ろじゅつ】していた。",
+    "meaning": "The rocky surface of the peak was exposed."
+  },
+  {
+    "sentence": "山の峰はなだらかなカーブを描いていた。",
+    "sentence_furigana": "山【やま】の峰【みね】はなだらかなカーブを描【えが】いていた。",
+    "meaning": "The mountain peak drew a gentle curve."
+  },
+  {
+    "sentence": "次の峰を目指して進む。",
+    "sentence_furigana": "次【つぎ】の峰【みね】を目指【めざ】して進【すす】む。",
+    "meaning": "We proceed towards the next peak."
+  },
+  {
+    "sentence": "この地域には多くの峰が存在する。",
+    "sentence_furigana": "この地域【ちいき】には多【おお】くの峰【みね】が存在【そんざい】する。",
+    "meaning": "Many peaks exist in this region."
+  },
+  {
+    "sentence": "頂上は雪に覆われた美しい峰でした。",
+    "sentence_furigana": "頂上【ちょうじょう】は雪【ゆき】に覆【おお】われた美【うつく】しい峰【みね】でした。",
+    "meaning": "The summit was a beautiful peak covered in snow."
+  },
+  {
+    "sentence": "その峰からは素晴らしい眺めが楽しめる。",
+    "sentence_furigana": "その峰【みね】からは素晴【すば】らしい眺【なが】めが楽【たの】しめる。",
+    "meaning": "A wonderful view can be enjoyed from that peak."
+  },
+  {
+    "sentence": "峰を越えると別の景色が広がっていた。",
+    "sentence_furigana": "峰【みね】を越【こ】えると別【べつ】の景色【けしき】が広【ひろ】がっていた。",
+    "meaning": "Beyond the peak, a different landscape unfolded."
+  },
+  {
+    "sentence": "峰の雪が溶け始めると、春の訪れを感じる。",
+    "sentence_furigana": "峰【みね】の雪【ゆき】が溶【と】け始【はじ】めると、春【はる】の訪【おとず】れを感【かん】じる。",
+    "meaning": "When the snow on the peak begins to melt, you can feel the arrival of spring."
+  },
+  {
+    "sentence": "地図にはいくつかの峰が示されていた。",
+    "sentence_furigana": "地図【ちず】にはいくつか峰【みね】が示【しめ】されていた。",
+    "meaning": "Several peaks were shown on the map."
+  },
+  {
+    "sentence": "厳しい道のりだったが、ついに峰に到達した。",
+    "sentence_furigana": "厳【きび】しい道【みち】のりだったが、ついに峰【みね】に到達【とうたつ】した。",
+    "meaning": "It was a difficult journey, but we finally reached the peak."
+  },
+  {
+    "sentence": "山の峰に祈りを捧げた。",
+    "sentence_furigana": "山【やま】の峰【みね】に祈【いの】りを捧【ささ】げた。",
+    "meaning": "I offered a prayer on the mountain peak."
+  },
+  {
+    "sentence": "峰に雲がかかり、視界が悪くなった。",
+    "sentence_furigana": "峰【みね】に雲【くも】がかかり、視界【しかい】が悪【わる】くなった。",
+    "meaning": "Clouds covered the peak, and visibility worsened."
+  },
+  {
+    "sentence": "この峰は特別な意味を持っている。",
+    "sentence_furigana": "この峰【みね】は特別【とくべつ】な意味【いみ】を持【も】っている。",
+    "meaning": "This peak holds a special significance."
+  },
+  {
+    "sentence": "峰のシルエットが美しく浮かび上がっていた。",
+    "sentence_furigana": "峰【みね】のシルエットが美【うつく】しく浮【う】かび上【あ】がっていた。",
+    "meaning": "The silhouette of the peak stood out beautifully."
+  },
+  {
+    "sentence": "山の峰を巡る旅を始めた。",
+    "sentence_furigana": "山【やま】の峰【みね】を巡【めぐ】る旅【たび】を始【はじ】めた。",
+    "meaning": "We began a journey exploring the mountain peaks."
+  },
+  {
+    "sentence": "頂上の峰には小さな祠があった。",
+    "sentence_furigana": "頂上【ちょうじょう】の峰【みね】には小【ちい】さな祠【ほこら】があった。",
+    "meaning": "There was a small shrine on the summit's peak."
+  },
+  {
+    "sentence": "峰から見下ろす景色は息をのむほどだった。",
+    "sentence_furigana": "峰【みね】から見下【みお】ろす景色【けしき】は息【いき】を飲【の】むほどだった。",
+    "meaning": "The view from the peak was breathtaking."
+  },
+  {
+    "sentence": "その峰は地元の人々に崇拝されている。",
+    "sentence_furigana": "その峰【みね】は地元【じもと】の人々【ひとびと】に崇拝【すうはい】されている。",
+    "meaning": "That peak is revered by the local people."
+  },
+  {
+    "sentence": "峰の端に立つと、足がすくむような感覚があった。",
+    "sentence_furigana": "峰【みね】の端【はし】に立【た】つと、足【あし】がすくむような感覚【かんかく】があった。",
+    "meaning": "Standing on the edge of the peak, I felt a sense of my legs freezing."
+  },
+  {
+    "sentence": "この峰の地質は非常に興味深い。",
+    "sentence_furigana": "この峰【みね】の地質【ちしつ】は非常【ひじょう】に興味深【きょうみぶか】い。",
+    "meaning": "The geology of this peak is very interesting."
+  },
+  {
+    "sentence": "遠くに見える峰は、私たちの目的地だ。",
+    "sentence_furigana": "遠【とお】くに見【み】える峰【みね】は、私【わたし】たち【の】目的地【もくてきち】だ。",
+    "meaning": "The peak visible in the distance is our destination."
+  },
+  {
+    "sentence": "峰に登るためには、特別な装備が必要だ。",
+    "sentence_furigana": "峰【みね】に登【のぼ】るためには、特別【とくべつ】な装備【そうび】が必要【ひつよう】だ。",
+    "meaning": "Special equipment is necessary to climb the peak."
+  },
+  {
+    "sentence": "嵐が峰を襲った。",
+    "sentence_furigana": "嵐【あらし】が峰【みね】を襲【おそ】った。",
+    "meaning": "A storm attacked the peak."
+  },
+  {
+    "sentence": "峰の斜面には珍しい花が咲いていた。",
+    "sentence_furigana": "峰【みね】の斜面【しゃめん】には珍【めずら】しい花【はな】が咲【さ】いていた。",
+    "meaning": "Rare flowers were blooming on the slope of the peak."
+  },
+  {
+    "sentence": "私たちは山の峰にキャンプを張った。",
+    "sentence_furigana": "私【わたし】たち【は】山【やま】の峰【みね】にキャンプを張【は】った。",
+    "meaning": "We set up camp on the mountain peak."
+  },
+  {
+    "sentence": "峰に刻まれた古い文字が見つかった。",
+    "sentence_furigana": "峰【みね】に刻【きざ】まれた古【ふる】い文字【もじ】が見【み】つかった。",
+    "meaning": "Old characters carved into the peak were found."
+  },
+  {
+    "sentence": "この峰は活火山なので注意が必要です。",
+    "sentence_furigana": "この峰【みね】は活火山【かつかざん】なので注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Caution is needed because this peak is an active volcano."
+  },
+  {
+    "sentence": "峰からの眺めは息をのむほど美しい。",
+    "sentence_furigana": "峰【みね】からの眺【なが】めは息【いき】をのむほど美【うつく】しい。",
+    "meaning": "The view from the peak is breathtakingly beautiful."
+  },
+  {
+    "sentence": "峰には小さな湖があった。",
+    "sentence_furigana": "峰【みね】には小【ちい】さな湖【みずうみ】があった。",
+    "meaning": "There was a small lake on the peak."
+  },
+  {
+    "sentence": "その峰は古代の信仰の対象となっていた。",
+    "sentence_furigana": "その峰【みね】は古代【こだい】の信仰【しんこう】の対象【たいしょう】となっていた。",
+    "meaning": "That peak was an object of ancient worship."
+  },
+  {
+    "sentence": "峰の北側は常に雪が残っている。",
+    "sentence_furigana": "峰【みね】の北側【きたがわ】は常【つね】に雪【ゆき】が残【のこ】っている。",
+    "meaning": "Snow always remains on the north side of the peak."
+  },
+  {
+    "sentence": "登山ルートは、いくつかの峰を通過する。",
+    "sentence_furigana": "登山ルート【とざんルート】は、いくつか峰【みね】を通過【つうか】する。",
+    "meaning": "The climbing route passes over several peaks."
+  },
+  {
+    "sentence": "峰に立つと、達成感でいっぱいになった。",
+    "sentence_furigana": "峰【みね】に立【た】つと、達成感【たっせいかん】でいっぱいになった。",
+    "meaning": "Standing on the peak, I was filled with a sense of accomplishment."
+  },
+  {
+    "sentence": "峰の稜線に沿って歩いた。",
+    "sentence_furigana": "峰【みね】の稜線【りょうせん】に沿【そ】って歩【ある】いた。",
+    "meaning": "I walked along the ridgeline of the peak."
+  },
+  {
+    "sentence": "峰の頂には風が吹き荒れていた。",
+    "sentence_furigana": "峰【みね】の頂【いただき】には風【かぜ】が吹【ふ】き荒【あ】れていた。",
+    "meaning": "The wind was raging at the summit of the peak."
+  },
+  {
+    "sentence": "この峰はクライマーにとって挑戦的な場所だ。",
+    "sentence_furigana": "この峰【みね】はクライマーにとって挑戦的【ちょうせんてき】な場所【ばしょ】だ。",
+    "meaning": "This peak is a challenging place for climbers."
+  },
+  {
+    "sentence": "峰から射す光が幻想的だった。",
+    "sentence_furigana": "峰【みね】から射【さ】す光【ひかり】が幻想的【げんそうてき】だった。",
+    "meaning": "The light shining from the peak was mystical."
+  },
+  {
+    "sentence": "峰の雪が溶けて川になった。",
+    "sentence_furigana": "峰【みね】の雪【ゆき】が溶【と】けて川【かわ】になった。",
+    "meaning": "The snow on the peak melted and became a river."
+  },
+  {
+    "sentence": "その峰の名前は長年謎に包まれていた。",
+    "sentence_furigana": "その峰【みね】の名前【なまえ】は長年【ながねん】謎【なぞ】に包【つつ】まれていた。",
+    "meaning": "The name of that peak had been shrouded in mystery for many years."
+  },
+  {
+    "sentence": "峰に続く道は険しかった。",
+    "sentence_furigana": "峰【みね】に続【つづ】く道【みち】は険【けわ】しかった。",
+    "meaning": "The path leading to the peak was steep."
+  },
+  {
+    "sentence": "峰に雲海が広がっていた。",
+    "sentence_furigana": "峰【みね】に雲海【うんかい】が広【ひろ】がっていた。",
+    "meaning": "A sea of clouds spread around the peak."
+  },
+  {
+    "sentence": "私たちは山の峰で休憩を取った。",
+    "sentence_furigana": "私【わたし】たち【は】山【やま】の峰【みね】で休憩【きゅうけい】を取【と】った。",
+    "meaning": "We took a rest on the mountain peak."
+  },
+  {
+    "sentence": "峰に響く鳥の声が心地よかった。",
+    "sentence_furigana": "峰【みね】に響【ひび】く鳥【とり】の声【こえ】が心地【ここち】よかった。",
+    "meaning": "The sound of birds echoing from the peak was pleasant."
+  },
+  {
+    "sentence": "峰の斜面を滑り降りた。",
+    "sentence_furigana": "峰【みね】の斜面【しゃめん】を滑【す】り降【お】りた。",
+    "meaning": "I slid down the slope of the peak."
+  },
+  {
+    "sentence": "この峰の登山記録はまだない。",
+    "sentence_furigana": "この峰【みね】の登山記録【とざんきろく】はまだない。",
+    "meaning": "There are no climbing records for this peak yet."
+  },
+  {
+    "sentence": "峰の周りには美しい花々が咲いていた。",
+    "sentence_furigana": "峰【みね】の周【まわ】りには美【うつく】しい花々【はなばな】が咲【さ】いていた。",
+    "meaning": "Beautiful flowers were blooming around the peak."
+  },
+  {
+    "sentence": "峰に立つと、世界の広さを実感する。",
+    "sentence_furigana": "峰【みね】に立【た】つと、世界【せかい】の広【ひろ】さを実感【じっかん】する。",
+    "meaning": "Standing on the peak, you realize the vastness of the world."
+  },
+  {
+    "sentence": "峰の氷河は年々後退している。",
+    "sentence_furigana": "峰【みね】の氷河【ひょうが】は年々【ねんねん】後退【こうたい】している。",
+    "meaning": "The glaciers on the peak are retreating year by year."
+  },
+  {
+    "sentence": "峰の向こうには何があるのだろうか。",
+    "sentence_furigana": "峰【みね】の向【む】こうには何【なに】があるのだろうか。",
+    "meaning": "What lies beyond the peak?"
+  },
+  {
+    "sentence": "この峰は霊峰として崇められている。",
+    "sentence_furigana": "この峰【みね】は霊峰【れいほう】として崇【あが】められている。",
+    "meaning": "This peak is revered as a sacred mountain."
+  },
+  {
+    "sentence": "峰に打ち付ける雨が激しかった。",
+    "sentence_furigana": "峰【みね】に打【う】ち付【つ】ける雨【あめ】が激【はげ】しかった。",
+    "meaning": "The rain beating against the peak was fierce."
+  },
+  {
+    "sentence": "峰に太陽が昇り始めた。",
+    "sentence_furigana": "峰【みね】に太陽【たいよう】が昇【のぼ】り始【はじ】めた。",
+    "meaning": "The sun began to rise over the peak."
+  },
+  {
+    "sentence": "私たちは峰の岩に腰掛けた。",
+    "sentence_furigana": "私【わたし】たち【は】峰【みね】の岩【いわ】に腰掛【こしか】けた。",
+    "meaning": "We sat on the rocks of the peak."
+  },
+  {
+    "sentence": "峰の近くに小さな小屋があった。",
+    "sentence_furigana": "峰【みね】の近【ちか】くに小【ちい】さな小屋【こや】があった。",
+    "meaning": "There was a small hut near the peak."
+  },
+  {
+    "sentence": "峰の断崖絶壁は迫力がある。",
+    "sentence_furigana": "峰【みね】の断崖絶壁【だんがいぜっぺき】は迫力【はくりょく】がある。",
+    "meaning": "The sheer cliffs of the peak are impressive."
+  },
+  {
+    "sentence": "峰からの下山は慎重に行った。",
+    "sentence_furigana": "峰【みね】からの下山【げざん】は慎重【しんちょう】に【行】った。",
+    "meaning": "The descent from the peak was done carefully."
+  },
+  {
+    "sentence": "峰の頂上からは360度のパノラマが広がる。",
+    "sentence_furigana": "峰【みね】の頂上【ちょうじょう】からは360度【さんびゃくろくじゅうど】のパノラマが広【ひろ】がる。",
+    "meaning": "A 360-degree panorama unfolds from the peak's summit."
+  },
+  {
+    "sentence": "その峰は多くの伝説に彩られている。",
+    "sentence_furigana": "その峰【みね】は多【おお】くの伝説【でんせつ】に彩【いろど】られている。",
+    "meaning": "That peak is adorned with many legends."
+  },
+  {
+    "sentence": "峰に住む珍しい動物の保護が必要だ。",
+    "sentence_furigana": "峰【みね】に住【す】む珍【めずら】しい動物【どうぶつ】の保護【ほご】が必要【ひつよう】だ。",
+    "meaning": "Protection of rare animals living on the peak is necessary."
+  },
+  {
+    "sentence": "峰の日の出は非常に感動的だった。",
+    "sentence_furigana": "峰【みね】の日の出【ひので】は非常【ひじょう】に感動的【かんどうてき】だった。",
+    "meaning": "The sunrise from the peak was very moving."
+  },
+  {
+    "sentence": "私たちは峰を目指して一歩一歩進んだ。",
+    "sentence_furigana": "私【わたし】たち【は】峰【みね】を目指【めざ】して一歩一歩【いっぽ いっぽ】進【すす】んだ。",
+    "meaning": "We proceeded step by step towards the peak."
+  },
+  {
+    "sentence": "峰を越えて次の谷に入った。",
+    "sentence_furigana": "峰【みね】を越【こ】えて次【つぎ】の谷【たに】に入【はい】った。",
+    "meaning": "We crossed the peak and entered the next valley."
+  },
+  {
+    "sentence": "峰の頂には小さな青い花が咲いていた。",
+    "sentence_furigana": "峰【みね】の頂【いただき】には小【ちい】さな青【あお】い花【はな】が咲【さ】いていた。",
+    "meaning": "Small blue flowers were blooming at the peak's summit."
+  },
+  {
+    "sentence": "峰の岩に名前を刻んだ。",
+    "sentence_furigana": "峰【みね】の岩【いわ】に名前【なまえ】を刻【きざ】んだ。",
+    "meaning": "I carved our names into the rocks of the peak."
+  },
+  {
+    "sentence": "峰の向こう側には、一面の草原が広がっていた。",
+    "sentence_furigana": "峰【みね】の向【む】こう側【がわ】には、一面【いちめん】の草原【そうげん】が広【ひろ】がっていた。",
+    "meaning": "On the other side of the peak, a vast grassland stretched out."
+  },
+  {
+    "sentence": "峰に立つと、清々しい気分になる。",
+    "sentence_furigana": "峰【みね】に立【た】つと、清々【すがすが】しい気分【きぶん】になる。",
+    "meaning": "When you stand on the peak, you feel refreshed."
+  },
+  {
+    "sentence": "峰の景色は絵のように美しかった。",
+    "sentence_furigana": "峰【みね】の景色【けしき】は絵【え】のように美【うつく】しかった。",
+    "meaning": "The scenery from the peak was as beautiful as a painting."
+  },
+  {
+    "sentence": "この峰は多くの冒険家たちの憧れだ。",
+    "sentence_furigana": "この峰【みね】は多【おお】くの冒険家【ぼうけんか】たち【の】憧【あこが】れだ。",
+    "meaning": "This peak is the aspiration of many adventurers."
+  },
+  {
+    "sentence": "峰に吹く風が冷たく肌を刺した。",
+    "sentence_furigana": "峰【みね】に吹【ふ】く風【かぜ】が冷【つめ】たく肌【はだ】を刺【さ】した。",
+    "meaning": "The wind blowing on the peak was cold and stung the skin."
+  },
+  {
+    "sentence": "峰の頂には小さな祭壇があった。",
+    "sentence_furigana": "峰【みね】の頂【いただき】には小【ちい】さな祭壇【さいだん】があった。",
+    "meaning": "There was a small altar at the peak's summit."
+  },
+  {
+    "sentence": "峰に雲がかかり、山頂は見えなかった。",
+    "sentence_furigana": "峰【みね】に雲【くも】がかかり、山頂【さんちょう】は見【み】えなかった。",
+    "meaning": "Clouds covered the peak, and the summit was not visible."
+  },
+  {
+    "sentence": "峰の氷が太陽の光を反射していた。",
+    "sentence_furigana": "峰【みね】の氷【こおり】が太陽【たいよう】の光【ひかり】を反射【はんしゃ】していた。",
+    "meaning": "The ice on the peak reflected the sunlight."
+  },
+  {
+    "sentence": "峰に立つと、地球の丸さを実感できる。",
+    "sentence_furigana": "峰【みね】に立【た】つと、地球【ちきゅう】の丸【まる】さを実感【じっかん】できる。",
+    "meaning": "Standing on the peak, you can feel the roundness of the Earth."
+  },
+  {
+    "sentence": "その峰は、まさに自然の芸術作品だ。",
+    "sentence_furigana": "その峰【みね】は、まさに自然【しぜん】の芸術作品【げいじゅつさくひん】だ。",
+    "meaning": "That peak is truly a work of natural art."
+  },
+  {
+    "sentence": "峰に雷が落ちた。",
+    "sentence_furigana": "峰【みね】に雷【かみなり】が落【お】ちた。",
+    "meaning": "Lightning struck the peak."
+  },
+  {
+    "sentence": "峰の先端から飛び降りた。",
+    "sentence_furigana": "峰【みね】の先端【せんたん】から飛【と】び降【お】りた。",
+    "meaning": "I jumped from the tip of the peak."
+  },
+  {
+    "sentence": "峰に生える高山植物は貴重だ。",
+    "sentence_furigana": "峰【みね】に生【は】える高山植物【こうざんしょくぶつ】は貴重【きちょう】だ。",
+    "meaning": "The alpine plants growing on the peak are precious."
+  },
+  {
+    "sentence": "峰からの眺めは人生最高の瞬間だった。",
+    "sentence_furigana": "峰【みね】からの眺【なが】めは人生最高【じんせいさいこう】の瞬間【しゅんかん】だった。",
+    "meaning": "The view from the peak was the best moment of my life."
+  },
+  {
+    "sentence": "峰を制覇するという目標を達成した。",
+    "sentence_furigana": "峰【みね】を制覇【せいは】するという目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "I achieved the goal of conquering the peak."
+  },
+  {
+    "sentence": "峰に打ち付ける風雪が容赦なく襲った。",
+    "sentence_furigana": "峰【みね】に打【う】ち付【つ】ける風雪【ふうせつ】が容赦【ようしゃ】なく襲【おそ】った。",
+    "meaning": "The wind and snow hitting the peak attacked mercilessly."
+  },
+  {
+    "sentence": "峰からの下り道は、登り道よりもさらに危険だった。",
+    "sentence_furigana": "峰【みね】からの下【お】り道【みち】は、登【のぼ】り道【みち】よりもさらに危険【きけん】だった。",
+    "meaning": "The path down from the peak was even more dangerous than the path up."
+  },
+  {
+    "sentence": "峰の頂上は、まるで別世界だった。",
+    "sentence_furigana": "峰【みね】の頂上【ちょうじょう】は、まるで別世界【べっせかい】だった。",
+    "meaning": "The summit of the peak was like another world."
+  },
+  {
+    "sentence": "峰を越えて旅を続ける。",
+    "sentence_furigana": "峰【みね】を越【こ】えて旅【たび】を続【つづ】ける。",
+    "meaning": "We continue our journey beyond the peak."
+  },
+  {
+    "sentence": "峰の影が谷に長く伸びていた。",
+    "sentence_furigana": "峰【みね】の影【かげ】が谷【たに】に長【なが】く伸【の】びていた。",
+    "meaning": "The shadow of the peak stretched long across the valley."
+  },
+  {
+    "sentence": "峰から流れる雪解け水が川となっている。",
+    "sentence_furigana": "峰【みね】から流【なが】れる雪解【ゆきど】け水【みず】が川【かわ】となっている。",
+    "meaning": "Meltwater from the peak flows to become a river."
+  },
+  {
+    "sentence": "峰は常に変化し続けている。",
+    "sentence_furigana": "峰【みね】は常【つね】に変化【へんか】し続【つづ】けている。",
+    "meaning": "The peak continues to change constantly."
+  },
+  {
+    "sentence": "峰に立つと、自然の偉大さを感じずにはいられない。",
+    "sentence_furigana": "峰【みね】に立【た】つと、自然【しぜん】の偉大【いだい】さを感【かん】じずにはいられない。",
+    "meaning": "Standing on the peak, you can't help but feel the greatness of nature."
+  },
+  {
+    "sentence": "峰の頂きは常に新鮮な空気に満ちている。",
+    "sentence_furigana": "峰【みね】の頂【いただき】は常【つね】に新鮮【しんせん】な空気【くうき】に満【み】ちている。",
+    "meaning": "The summit of the peak is always filled with fresh air."
+  },
+  {
+    "sentence": "峰に咲く花は、寒さに耐え抜いた証だ。",
+    "sentence_furigana": "峰【みね】に咲【さ】く花【はな】は、寒【さむ】さに耐【た】え抜【ぬ】いた証【あかし】だ。",
+    "meaning": "The flowers blooming on the peak are proof of enduring the cold."
+  },
+  {
+    "sentence": "峰に登頂したときの感動は忘れられない。",
+    "sentence_furigana": "峰【みね】に登頂【とうちょう】したとき【の】感動【かんどう】は忘【わす】れられない。",
+    "meaning": "The emotion of reaching the peak's summit is unforgettable."
+  },
+  {
+    "sentence": "峰の岩陰に雨宿りした。",
+    "sentence_furigana": "峰【みね】の岩陰【いわかげ】に雨宿【あまやど】りした。",
+    "meaning": "We took shelter from the rain in the shade of the rocks on the peak."
+  },
+  {
+    "sentence": "峰に続く登山道は、整備されていた。",
+    "sentence_furigana": "峰【みね】に続【つづ】く登山道【とざんどう】は、整備【せいび】されていた。",
+    "meaning": "The mountain trail leading to the peak was well-maintained."
+  },
+  {
+    "sentence": "峰から見た星空は、まるで宝石箱のようだった。",
+    "sentence_furigana": "峰【みね】から見【み】た星空【ほしぞら】は、まるで宝石箱【ほうせきばこ】のようだった。",
+    "meaning": "The starry sky seen from the peak was like a treasure box."
+  },
+  {
+    "sentence": "峰に祈りを込めて手を合わせた。",
+    "sentence_furigana": "峰【みね】に祈【いの】りを込【こ】めて手【て】を合【あ】わせた。",
+    "meaning": "I clasped my hands in prayer towards the peak."
+  },
+  {
+    "sentence": "峰に朝霧が立ち込めていた。",
+    "sentence_furigana": "峰【みね】に朝霧【あさぎり】が立【た】ち込【こ】めていた。",
+    "meaning": "Morning mist was filling the peak."
+  },
+  {
+    "sentence": "峰に立つ巨岩は、長い年月を感じさせる。",
+    "sentence_furigana": "峰【みね】に立【た】つ巨岩【きょがん】は、長【なが】い年月【ねんげつ】を感じ【かん】じさせる。",
+    "meaning": "The giant rocks standing on the peak convey the sense of long years."
+  },
+  {
+    "sentence": "峰のてっぺんは、雲の上にありました。",
+    "sentence_furigana": "峰【みね】のてっぺん【は】、雲【くも】の上【うえ】にありました。",
+    "meaning": "The top of the peak was above the clouds."
+  },
+  {
+    "sentence": "峰は、自然の厳しさと美しさを兼ね備えている。",
+    "sentence_furigana": "峰【みね】は、自然【しぜん】の厳【きび】しさと美【うつく】しさを兼【か】ね備【そな】えている。",
+    "meaning": "The peak possesses both the harshness and beauty of nature."
+  },
+  {
+    "sentence": "峰の雪が溶けて、清らかな水が流れる。",
+    "sentence_furigana": "峰【みね】の雪【ゆき】が溶【と】けて、清【きよ】らかな水【みず】が流【なが】れる。",
+    "meaning": "The snow on the peak melts, and pure water flows."
+  },
+  {
+    "sentence": "峰の頂に立った時、全てを忘れられた。",
+    "sentence_furigana": "峰【みね】の頂【いただき】に立【た】った時【とき】、全【すべ】てを忘【わす】れられた。",
+    "meaning": "When I stood on the peak's summit, I could forget everything."
+  }
+]

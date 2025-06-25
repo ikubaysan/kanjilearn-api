@@ -1,0 +1,617 @@
+[
+  {
+    "sentence": "裕福な家庭に生まれた彼は、何も不自由なく育った。",
+    "sentence_furigana": "裕【ゆう】福【ふく】な家庭【かてい】に生【う】まれた彼【かれ】は、何【なに】も不自由【ふじゆう】なく育【そだ】った。",
+    "meaning": "Born into a wealthy family, he grew up without any hardships."
+  },
+  {
+    "sentence": "この地域は自然が豊かで、農業が盛んだ。",
+    "sentence_furigana": "この地域【ちいき】は自然【しぜん】が豊【ゆた】かで、農業【のうぎょう】が盛【さか】んだ。",
+    "meaning": "This region is rich in nature and prosperous in agriculture."
+  },
+  {
+    "sentence": "彼の話はいつも興味深く、内容は豊富だ。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも興味深【きょうみぶか】く、内容【ないよう】は豊富【ほうふ】だ。",
+    "meaning": "His stories are always interesting and full of content."
+  },
+  {
+    "sentence": "企業の内部留保は年々増加しており、経営は裕々と言える。",
+    "sentence_furigana": "企業【きぎょう】の内部留保【ないぶりゅうほ】は年々【ねんねん】増加【ぞうか】しており、経営【けいえい】は裕々【ゆうゆう】と言【い】える。",
+    "meaning": "The company's retained earnings are increasing year by year, and its management can be said to be prosperous."
+  },
+  {
+    "sentence": "豊かな食生活は、心身の健康に不可欠である。",
+    "sentence_furigana": "豊【ゆた】かな食生活【しょくせいかつ】は、心身【しんしん】の健康【けんこう】に不可欠【ふかけつ】である。",
+    "meaning": "A rich diet is essential for physical and mental health."
+  },
+  {
+    "sentence": "彼女は広範な知識を持っており、その博識ぶりは人々を魅了する。",
+    "sentence_furigana": "彼女【かのじょ】は広範【こうはん】な知識【ちしき】を持【も】っており、その博識ぶりは人々【ひとびと】を魅了【みりょう】する。",
+    "meaning": "She possesses extensive knowledge, and her erudition fascinates people."
+  },
+  {
+    "sentence": "経済的な余裕があるため、彼は趣味に多くの時間を費やしている。",
+    "sentence_furigana": "経済的【けいざいてき】な余裕【よゆう】があるため、彼【かれ】は趣味【しゅみ】に多【おお】くの時間【じかん】を費【つい】やしている。",
+    "meaning": "Due to his financial余裕, he spends a lot of time on his hobbies."
+  },
+  {
+    "sentence": "この公園は緑豊かで、市民の憩いの場となっている。",
+    "sentence_furigana": "この公園【こうえん】は緑豊【みどりゆた】かで、市民【しみん】の憩【いこ】いの場【ば】となっている。",
+    "meaning": "This park is rich in greenery and serves as a place of relaxation for citizens."
+  },
+  {
+    "sentence": "彼の言葉遣いは丁寧で、相手に安心感を与える。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは丁寧【ていねい】で、相手【あいて】に安心感【あんしんかん】を与【あた】える。",
+    "meaning": "His way of speaking is polite and gives the other person a sense of security."
+  },
+  {
+    "sentence": "この土地は肥沃で、作物がよく育つ。",
+    "sentence_furigana": "この土地【とち】は肥沃【ひよく】で、作物【さくもつ】がよく育【そだ】つ。",
+    "meaning": "This land is fertile, and crops grow well."
+  },
+  {
+    "sentence": "彼女のバッグはブランド品でいっぱいだった。",
+    "sentence_furigana": "彼女【かのじょ】のバッグはブランド品【ひん】でいっぱいだった。",
+    "meaning": "Her bag was full of branded goods."
+  },
+  {
+    "sentence": "余裕を持った計画を立てることが、成功への第一歩だ。",
+    "sentence_furigana": "余裕【よゆう】を持【も】った計画【けいかく】を立【た】てることが、成功【せいこう】への第一歩【だいいっぽ】だ。",
+    "meaning": "Making a plan with余裕 is the first step to success."
+  },
+  {
+    "sentence": "彼の話は常に詳細で、情報が豊富である。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は常々【つねづね】詳細【しょうさい】で、情報【じょうほう】が豊富【ほうふ】である。",
+    "meaning": "His stories are always detailed and rich in information."
+  },
+  {
+    "sentence": "この地域は文化遺産が豊富で、観光客に人気がある。",
+    "sentence_furigana": "この地域【ちいき】は文化遺産【ぶんかいさん】が豊富【ほうふ】で、観光客【かんこうきゃく】に人気【にんき】がある。",
+    "meaning": "This region is rich in cultural heritage and popular with tourists."
+  },
+  {
+    "sentence": "彼女は落ち着いた雰囲気を持っており、周囲に安らぎを与える。",
+    "sentence_furigana": "彼女【かのじょ】は落【お】ち着【つ】いた雰囲気【ふんいき】を持【も】っており、周囲【しゅうい】に安楽【あんらく】を与【あた】える。",
+    "meaning": "She has a calm demeanor and gives a sense of peace to those around her."
+  },
+  {
+    "sentence": "豊かな想像力は、新しいアイデアを生み出す源泉となる。",
+    "sentence_furigana": "豊【ゆた】かな想像力【そうぞうりょく】は、新【あたら】しいアイデアを生【う】み出【だ】す源泉【げんせん】となる。",
+    "meaning": "A rich imagination becomes the source of new ideas."
+  },
+  {
+    "sentence": "彼の貯蓄は膨大で、将来の不安はない。",
+    "sentence_furigana": "彼【かれ】の貯蓄【ちょちく】は膨大【ぼうだい】で、将来【しょうらい】の不安【ふあん】はない。",
+    "meaning": "His savings are enormous, and he has no worries about the future."
+  },
+  {
+    "sentence": "この村は昔ながらの風情が残っており、心が和む。",
+    "sentence_furigana": "この村【むら】は昔ながらの風情【ふぜい】が残【のこ】っており、心【こころ】が和【なご】む。",
+    "meaning": "This village retains its old-fashioned charm, and it is calming."
+  },
+  {
+    "sentence": "彼女は様々な才能に恵まれ、多方面で活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は様々【さまざま】な才能【さいのう】に恵【めぐ】まれ、多方面【たほうめん】で活躍【かつやく】している。",
+    "meaning": "She is blessed with various talents and is active in many fields."
+  },
+  {
+    "sentence": "経済的に余裕のある生活を送りたい。",
+    "sentence_furigana": "経済的【けいざいてき】に余裕【よゆう】のある生活【せいかつ】を送【おく】りたい。",
+    "meaning": "I want to live a financially secure life."
+  },
+  {
+    "sentence": "彼の蔵書は膨大で、書斎は図書館のようだ。",
+    "sentence_furigana": "彼【かれ】の蔵書【ぞうしょ】は膨大【ぼうだい】で、書斎【しょさい】は図書館【としょかん】のようだ。",
+    "meaning": "His collection of books is vast, and his study looks like a library."
+  },
+  {
+    "sentence": "この海岸は砂浜が豊かで、海水浴客で賑わっている。",
+    "sentence_furigana": "この海岸【かいがん】は砂浜【すなはま】が豊【ゆた】かで、海水浴客【かいすいよくきゃく】で賑【にぎ】わっている。",
+    "meaning": "This coast has abundant sandy beaches and is bustling with beachgoers."
+  },
+  {
+    "sentence": "彼女の笑顔は周囲を明るくし、場を和ませる力がある。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は周囲【しゅうい】を明【あか】るくし、場【ば】を和【なご】ませる力【ちから】がある。",
+    "meaning": "Her smile brightens the surroundings and has the power to ease the atmosphere."
+  },
+  {
+    "sentence": "豊かな発想力は、創造性を刺激する。",
+    "sentence_furigana": "豊【ゆた】かな発想力【はっそうりょく】は、創造性【そうぞうせい】を刺激【しげき】する。",
+    "meaning": "A rich imagination stimulates creativity."
+  },
+  {
+    "sentence": "彼の親切心は際立っており、多くの人々を助けている。",
+    "sentence_furigana": "彼【かれ】の親切心【しんせつしん】は際立【きわだ】っており、多【おお】くの人々【ひとびと】を助【たす】けている。",
+    "meaning": "His kindness is outstanding and helps many people."
+  },
+  {
+    "sentence": "この湿地帯は多くの動植物の宝庫となっている。",
+    "sentence_furigana": "この湿地帯【しっちたい】は多【おお】くの動植物【どうしょくぶつ】の宝庫【ほうこ】となっている。",
+    "meaning": "This wetland is a treasure trove of many plants and animals."
+  },
+  {
+    "sentence": "彼女は豊かな経験を積んでおり、どんな困難にも対応できる。",
+    "sentence_furigana": "彼女【かのじょ】は豊【ゆた】かな経験【けいけん】を積【つ】んでおり、どんな困難【こんなん】にも対応【たいおう】できる。",
+    "meaning": "She has accumulated rich experience and can handle any difficulty."
+  },
+  {
+    "sentence": "時間に余裕があるので、ゆっくりとコーヒーを楽しもう。",
+    "sentence_furigana": "時間【じかん】に余裕【よゆう】があるので、ゆっくりとコーヒーを楽【たの】しもう。",
+    "meaning": "I have plenty of time, so let's enjoy coffee slowly."
+  },
+  {
+    "sentence": "彼の声量には圧倒的なものがあり、聴衆を惹きつける。",
+    "sentence_furigana": "彼【かれ】の声量【せいりょう】には圧倒的【あっとうてき】なものがあり、聴衆【ちょうしゅう】を惹【ひ】きつける。",
+    "meaning": "His vocal power is overwhelming and captivates the audience."
+  },
+  {
+    "sentence": "この国立公園は広大で、雄大な自然が広がっている。",
+    "sentence_furigana": "この国立公園【こくりつこうえん】は広大【こうだい】で、雄大【ゆうだい】な自然【しぜん】が広【ひろ】がっている。",
+    "meaning": "This national park is vast, and majestic nature unfolds."
+  },
+  {
+    "sentence": "彼女の持つ知識の豊富さは、誰もが認めるところだ。",
+    "sentence_furigana": "彼女【かのじょ】の持【も】つ知識【ちしき】の豊富【ほうふ】さは、誰【だれ】もが認【みと】めるところだ。",
+    "meaning": "The richness of the knowledge she possesses is recognized by everyone."
+  },
+  {
+    "sentence": "この国の農業は豊かで、食料自給率も高い。",
+    "sentence_furigana": "この国【くに】の農業【のうぎょう】は豊【ゆた】かで、食料自給率【しょくりょうじきゅうりつ】も高【たか】い。",
+    "meaning": "The agriculture in this country is abundant, and the food self-sufficiency rate is high."
+  },
+  {
+    "sentence": "彼の言葉はいつも的を射ており、説得力がある。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】はいつも的【まと】を射【い】ており、説得力【せっとくりょく】がある。",
+    "meaning": "His words are always to the point and persuasive."
+  },
+  {
+    "sentence": "この芸術祭は多彩な作品で溢れており、見応えがある。",
+    "sentence_furigana": "この芸術祭【げいじゅつさい】は多彩【たさい】な作品【さくひん】で溢【あふ】れており、見応【みごた】えがある。",
+    "meaning": "This art festival is overflowing with diverse works and is worth seeing."
+  },
+  {
+    "sentence": "彼女は裕福な家庭で育ち、教育にも力を入れていた。",
+    "sentence_furigana": "彼女【かのじょ】は裕福【ゆうふく】な家庭【かてい】で育【そだ】ち、教育【きょういく】にも力【ちから】を入【い】れていた。",
+    "meaning": "She grew up in a wealthy family and also focused on education."
+  },
+  {
+    "sentence": "この地域は豊かな水源に恵まれている。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな水源【すいげん】に恵【めぐ】まれている。",
+    "meaning": "This region is blessed with abundant water sources."
+  },
+  {
+    "sentence": "彼の貯蓄額は非常に多く、将来の生活設計に余裕がある。",
+    "sentence_furigana": "彼【かれ】の貯蓄額【ちょちくがく】は非常【ひじょう】に多【おお】く、将来【しょうらい】の生活設計【せいかつせっけい】に余裕【よゆう】がある。",
+    "meaning": "His savings are very large, and he has余裕 in his future life planning."
+  },
+  {
+    "sentence": "彼女のコレクションは非常に豊富で、貴重な品々が揃っている。",
+    "sentence_furigana": "彼女【かのじょ】のコレクションは非常【ひじょう】に豊富【ほうふ】で、貴重【きちょう】な品々【しなじな】が揃【そろ】っている。",
+    "meaning": "Her collection is very rich, with valuable items."
+  },
+  {
+    "sentence": "この森は多くの種類の植物で豊かに覆われている。",
+    "sentence_furigana": "この森【もり】は多【おお】くの種類【しゅるい】の植物【しょくぶつ】で豊【ゆた】かに覆【おお】われている。",
+    "meaning": "This forest is richly covered with many kinds of plants."
+  },
+  {
+    "sentence": "彼の落ち着き払った態度は、危機的な状況でも失われない。",
+    "sentence_furigana": "彼【かれ】の落【お】ち着【つ】き払【はら】った態度【たいど】は、危機的【きてき】な状況【じょうきょう】でも失【うしな】われない。",
+    "meaning": "His calm demeanor is not lost even in critical situations."
+  },
+  {
+    "sentence": "この国は資源が豊かで、経済発展の基盤となっている。",
+    "sentence_furigana": "この国【くに】は資源【しげん】が豊【ゆた】かで、経済発展【けいざいはってん】の基盤【きばん】となっている。",
+    "meaning": "This country is rich in resources and is the foundation for economic development."
+  },
+  {
+    "sentence": "彼女の話し方には説得力があり、聞く人を惹きつける。",
+    "sentence_furigana": "彼女【かのじょ】の話【はな】し方【かた】には説得力【せっとくりょく】があり、聞【き】く人【ひと】を惹【ひ】きつける。",
+    "meaning": "Her way of speaking is persuasive and attracts listeners."
+  },
+  {
+    "sentence": "このイベントは参加者の数が多く、盛況のうちに幕を閉じた。",
+    "sentence_furigana": "このイベントは参加者数【さんかしゃすう】が多【おお】く、盛況【せいきょう】のうちに幕【まく】を閉【と】じた。",
+    "meaning": "This event had a large number of participants and closed successfully."
+  },
+  {
+    "sentence": "彼の人生経験は豊富で、多くの教訓を学んだ。",
+    "sentence_furigana": "彼【かれ】の人生経験【じんせいけいけん】は豊富【ほうふ】で、多【おお】くの教訓【きょうくん】を学【まな】んだ。",
+    "meaning": "His life experience is abundant, and he has learned many lessons."
+  },
+  {
+    "sentence": "この海域は魚の種類が豊富で、漁業が盛んだ。",
+    "sentence_furigana": "この海域【かいいき】は魚の種類【さかのしゅるい】が豊富【ほうふ】で、漁業【ぎょぎょう】が盛【さか】んだ。",
+    "meaning": "This sea area is rich in fish species, and fishing is thriving."
+  },
+  {
+    "sentence": "彼女はいつも落ち着いており、周囲に安心感を与えている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも落【お】ち着【つ】いており、周囲【しゅうい】に安心感【あんしんかん】を与【あた】えている。",
+    "meaning": "She is always calm and gives a sense of security to those around her."
+  },
+  {
+    "sentence": "この土地は肥沃で、果物が特産品となっている。",
+    "sentence_furigana": "この土地【とち】は肥沃【ひよく】で、果物【くだもの】が特産品【とくさんひん】となっている。",
+    "meaning": "This land is fertile, and fruits are a specialty."
+  },
+  {
+    "sentence": "彼の話はユーモアに富んでおり、常に笑いを誘う。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はユーモアに富【と】んでおり、常々【つねづね】笑【わら】いを誘【さそ】う。",
+    "meaning": "His stories are full of humor and always provoke laughter."
+  },
+  {
+    "sentence": "この博物館は展示物が豊富で、見ごたえ十分だ。",
+    "sentence_furigana": "この博物館【はくぶつかん】は展示物【てんじぶつ】が豊富【ほうふ】で、見ごたえ十分【じゅうぶん】だ。",
+    "meaning": "This museum has abundant exhibits and is well worth seeing."
+  },
+  {
+    "sentence": "彼女は経済的に安定しており、将来の心配はない。",
+    "sentence_furigana": "彼女【かのじょ】は経済的【けいざいてき】に安定【あんてい】しており、将来【しょうらい】の心配【しんぱい】はない。",
+    "meaning": "She is financially stable and has no worries about the future."
+  },
+  {
+    "sentence": "この庭園は四季折々の花々で豊かに彩られている。",
+    "sentence_furigana": "この庭園【ていえん】は四季折々【しきおりおり】の花々【はなばな】で豊【ゆた】かに彩【いろど】られている。",
+    "meaning": "This garden is richly colored with flowers of all seasons."
+  },
+  {
+    "sentence": "彼の知識は広範で、どんな質問にも的確に答えられる。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は広範【こうはん】で、どんな質問【しつもん】にも的確【てきかく】に答【こた】えられる。",
+    "meaning": "His knowledge is extensive, and he can answer any question accurately."
+  },
+  {
+    "sentence": "このイベントは、様々な体験ができる機会に満ちている。",
+    "sentence_furigana": "このイベントは、様々【さまざま】な体験【たいけん】ができる機会【きかい】に満【み】ちている。",
+    "meaning": "This event is full of opportunities to have various experiences."
+  },
+  {
+    "sentence": "彼女の歌声は力強く、聴衆を魅了する。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は力強【ちからづよ】く、聴衆【ちょうしゅう】を魅了【みりょう】する。",
+    "meaning": "Her singing voice is powerful and captivates the audience."
+  },
+  {
+    "sentence": "この町は歴史的建造物が豊富で、散策に最適だ。",
+    "sentence_furigana": "この町【まち】は歴史的建造物【れきしてきけんぞうぶつ】が豊富【ほうふ】で、散策【さんさく】に最適【さいてき】だ。",
+    "meaning": "This town is rich in historical buildings and is perfect for strolling."
+  },
+  {
+    "sentence": "彼の穏やかな話し方は、聞く者に安心感を与える。",
+    "sentence_furigana": "彼【かれ】の穏和【おだわ】かな話【はな】し方【かた】は、聞【き】く者【もの】に安心感【あんしんかん】を与【あた】える。",
+    "meaning": "His gentle way of speaking gives listeners a sense of security."
+  },
+  {
+    "sentence": "この島は亜熱帯植物の宝庫であり、多様な生態系が見られる。",
+    "sentence_furigana": "この島【しま】は亜熱帯植物【あねったいしょくぶつ】の宝庫【ほうこ】であり、多様【たよう】な生態系【せいたいけい】が見【み】られる。",
+    "meaning": "This island is a treasure trove of subtropical plants, and diverse ecosystems can be seen."
+  },
+  {
+    "sentence": "彼女は多くの言語を操ることができ、国際的な場で活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの言語【げんご】を操【あやつ】ることができ、国際的【こくさいてき】な場【ば】で活躍【かつやく】している。",
+    "meaning": "She can speak many languages and is active internationally."
+  },
+  {
+    "sentence": "この公園は広々としており、十分にリラックスできる。",
+    "sentence_furigana": "この公園【こうえん】は広々【ひろびろ】としており、十分【じゅうぶん】にリラックスできる。",
+    "meaning": "This park is spacious and allows for ample relaxation."
+  },
+  {
+    "sentence": "彼の経験談は非常に興味深く、示唆に富んでいる。",
+    "sentence_furigana": "彼【かれ】の経験談【けいけんたん】は非常【ひじょう】に興味深【きょうみぶか】く、示唆【しさ】に富【と】んでいる。",
+    "meaning": "His anecdotes are very interesting and full of suggestions."
+  },
+  {
+    "sentence": "この地域は豊かな漁場に恵まれ、海産物が豊富だ。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな漁場【ぎょじょう】に恵【めぐ】まれ、海産物【かいさんぶつ】が豊富【ほうふ】だ。",
+    "meaning": "This region is blessed with abundant fishing grounds, and seafood is plentiful."
+  },
+  {
+    "sentence": "彼女の献身的な姿勢は、チームに活気を与えている。",
+    "sentence_furigana": "彼女【かのじょ】の献身的【けんしんてき】な姿勢【しせい】は、チームに活気【かっき】を与【あた】えている。",
+    "meaning": "Her dedicated attitude invigorates the team."
+  },
+  {
+    "sentence": "この大学は教育内容が充実しており、学生の満足度も高い。",
+    "sentence_furigana": "この大学【だいがく】は教育内容【きょういくないよう】が充実【じゅうじつ】しており、学生【がくせい】の満足度【まんぞくど】も高【たか】い。",
+    "meaning": "This university offers a rich curriculum and has high student satisfaction."
+  },
+  {
+    "sentence": "彼の人生は順風満帆で、何の苦労もなかった。",
+    "sentence_furigana": "彼【かれ】の人生【じんせい】は順風満帆【じゅんぷうまんぱん】で、何【なに】の苦労【くろう】もなかった。",
+    "meaning": "His life was smooth sailing, and he had no hardships."
+  },
+  {
+    "sentence": "この湖は豊かな水生生物の生息地となっている。",
+    "sentence_furigana": "この湖【みずうみ】は豊【ゆた】かな水生生物【すいせいせいぶつ】の生息地【せいそくち】となっている。",
+    "meaning": "This lake is a habitat for abundant aquatic life."
+  },
+  {
+    "sentence": "彼女の服装はいつも洗練されており、上品な印象を与える。",
+    "sentence_furigana": "彼女【かのじょ】の服装【ふくそう】はいつも洗練【せんれん】されており、上品【じょうひん】な印象【いんしょう】を与【あた】える。",
+    "meaning": "Her attire is always sophisticated and gives a refined impression."
+  },
+  {
+    "sentence": "この地域は温泉が豊富で、観光業が盛んだ。",
+    "sentence_furigana": "この地域【ちいき】は温泉【おんせん】が豊富【ほうふ】で、観光業【かんこうぎょう】が盛【さか】んだ。",
+    "meaning": "This region is rich in hot springs and has a thriving tourism industry."
+  },
+  {
+    "sentence": "彼の文章は簡潔でありながら、内容が豊かだ。",
+    "sentence_furigana": "彼【かれ】の文章【ぶんしょう】は簡潔【かんけつ】でありながら、内容【ないよう】が豊【ゆた】かだ。",
+    "meaning": "His writing is concise yet rich in content."
+  },
+  {
+    "sentence": "この盆地は地質学的に興味深く、多くの化石が発見されている。",
+    "sentence_furigana": "この盆地【ぼんち】は地質学【ちしつがく】的【てき】に興味深【きょうみぶか】く、多【おお】くの化石【かせき】が発見【はっけん】されている。",
+    "meaning": "This basin is geologically interesting, and many fossils have been discovered."
+  },
+  {
+    "sentence": "彼女は常に前向きで、周りの人々を励ます。",
+    "sentence_furigana": "彼女【かのじょ】は常々【つねづね】前向【まえむ】きで、周【まわ】りの人々【ひとびと】を励【はげ】ます。",
+    "meaning": "She is always positive and encourages those around her."
+  },
+  {
+    "sentence": "この祭りは伝統的な出し物が豊富で、多くの見物客で賑わう。",
+    "sentence_furigana": "この祭【まつ】りは伝統的【でんとうてき】な出番【でばな】が豊富【ほうふ】で、多【おお】くの見物客【けんぶつきゃく】で賑【にぎ】わう。",
+    "meaning": "This festival features an abundance of traditional performances and is crowded with many spectators."
+  },
+  {
+    "sentence": "彼の研究分野は幅広く、多岐にわたる成果を上げている。",
+    "sentence_furigana": "彼【かれ】の研究分野【けんきゅうぶんや】は幅広【はばひろ】く、多岐【たき】にわたる成果【せいか】を上【あ】げている。",
+    "meaning": "His research fields are broad, and he has achieved multifaceted results."
+  },
+  {
+    "sentence": "この植物園は珍しい植物の宝庫であり、植物愛好家にとって楽園だ。",
+    "sentence_furigana": "この植物園【しょくぶつえん】は珍【めずら】しい植物【しょくぶつ】の宝庫【ほうこ】であり、植物愛好家【しょくぶつあいこうか】にとって楽園【らくえん】だ。",
+    "meaning": "This botanical garden is a treasure trove of rare plants and a paradise for plant lovers."
+  },
+  {
+    "sentence": "彼女は社交的で、初対面の人ともすぐに打ち解ける。",
+    "sentence_furigana": "彼女【かのじょ】は社交的【しゃこうてき】で、初対面【しょたいめん】の人【ひと】ともすぐに打【う】ち解【と】ける。",
+    "meaning": "She is sociable and easily gets along with people she meets for the first time."
+  },
+  {
+    "sentence": "このコースは難易度が高く、十分な準備が必要だ。",
+    "sentence_furigana": "このコースは難易度【なんいど】が高【たか】く、十分【じゅうぶん】な準備【じゅんび】が必要【ひつよう】だ。",
+    "meaning": "This course is highly difficult and requires thorough preparation."
+  },
+  {
+    "sentence": "彼の話にはいつも深みがあり、多くのことを考えさせられる。",
+    "sentence_furigana": "彼【かれ】の話【はなし】にはいつも深【ふか】みがあり、多【おお】くのこと考【かんが】えさせられる。",
+    "meaning": "His stories always have depth and make one think a lot."
+  },
+  {
+    "sentence": "この資料は情報量が豊富で、参考になる点が多い。",
+    "sentence_furigana": "この資料【しりょう】は情報量【じょうほうりょう】が豊富【ほうふ】で、参考【さんこう】になる点【てん】が多【おお】い。",
+    "meaning": "This material is rich in information and has many points of reference."
+  },
+  {
+    "sentence": "彼女は豊かな感性を持ち、芸術的な才能を開花させた。",
+    "sentence_furigana": "彼女【かのじょ】は豊【ゆた】かな感性【かんせい】を持【も】ち、芸術的【げいじゅつてき】な才能【さいのう】を開花【かいか】させた。",
+    "meaning": "She has a rich sensibility and has bloomed artistically."
+  },
+  {
+    "sentence": "この湖は魚影が濃く、釣り客で賑わっている。",
+    "sentence_furigana": "この湖【みずうみ】は魚影【ぎょえい】が濃【こ】く、釣【つ】り客【きゃく】で賑【にぎ】わっている。",
+    "meaning": "This lake has abundant fish, and anglers are flocking to it."
+  },
+  {
+    "sentence": "彼の声は低く響き渡り、存在感を示している。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は低【ひく】く響【ひび】き渡【わた】り、存在感【そんざいかん】を示【しめ】している。",
+    "meaning": "His voice resonates deeply, showing his presence."
+  },
+  {
+    "sentence": "この地域は自然災害が少なく、安心して暮らせる。",
+    "sentence_furigana": "この地域【ちいき】は自然災害【しぜんさいがい】が少【すく】なく、安心【あんしん】して暮【く】らせる。",
+    "meaning": "Natural disasters are few in this region, making it safe to live."
+  },
+  {
+    "sentence": "彼女の演技は感情豊かで、観客の心を打つ。",
+    "sentence_furigana": "彼女【かのじょ】の演技【えんぎ】は感情豊【かんじょうゆた】かで、観客【かんきゃく】の心【こころ】を打【う】つ。",
+    "meaning": "Her acting is full of emotion and touches the hearts of the audience."
+  },
+  {
+    "sentence": "この森林は多様な動植物の宝庫となっている。",
+    "sentence_furigana": "この森林【しんりん】は多様【たよう】な動植物【どうしょくぶつ】の宝庫【ほうこ】となっている。",
+    "meaning": "This forest is a treasure trove of diverse flora and fauna."
+  },
+  {
+    "sentence": "彼の発言はいつも的確で、会議を活性化させる。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】はいつも的確【てきかく】で、会議【かいぎ】を活性化【かっせいか】させる。",
+    "meaning": "His remarks are always accurate and invigorate the meeting."
+  },
+  {
+    "sentence": "この村は歴史が古く、昔ながらの風情が残っている。",
+    "sentence_furigana": "この村【むら】は歴史【れきし】が古【ふる】く、昔ながらの風情【ふぜい】が残【のこ】っている。",
+    "meaning": "This village has a long history and retains its old-fashioned charm."
+  },
+  {
+    "sentence": "彼女は豊富な知識と経験を活かし、事業を成功させた。",
+    "sentence_furigana": "彼女【かのじょ】は豊富【ほうふ】な知識【ちしき】と経験【けいけん】を活【い】かし、事業【じぎょう】を成功【せいこう】させた。",
+    "meaning": "She utilized her abundant knowledge and experience to make the business successful."
+  },
+  {
+    "sentence": "この島は火山活動が活発で、地熱資源が豊富だ。",
+    "sentence_furigana": "この島【しま】は火山活動【かざんかつどう】が活発【かっぱつ】で、地熱資源【ちねつしげん】が豊富【ほうふ】だ。",
+    "meaning": "This island is volcanically active and rich in geothermal resources."
+  },
+  {
+    "sentence": "彼の話術は巧みで、どんな話題でも面白く語る。",
+    "sentence_furigana": "彼【かれ】の話術【はなしじゅつ】は巧【たく】みで、どんな話題【わだい】でも面白【おもしろ】く語【かた】る。",
+    "meaning": "His storytelling skill is superb, and he talks about any topic in an interesting way."
+  },
+  {
+    "sentence": "この劇場は座席数が多く、十分な収容能力がある。",
+    "sentence_furigana": "この劇場【げきじょう】は座席数【ざせきすう】が多【おお】く、十分【じゅうぶん】な収容能力【しゅうようのうりょく】がある。",
+    "meaning": "This theater has a large number of seats and sufficient capacity."
+  },
+  {
+    "sentence": "彼女は豊かな想像力と創造性を駆使し、独創的な作品を生み出す。",
+    "sentence_furigana": "彼女【かのじょ】は豊【ゆた】かな想像力【そうぞうりょく】と創造性【そうぞうせい】を駆使【くし】し、独創的【どくそうてき】な作品【さくひん】を生【う】み出【だ】す。",
+    "meaning": "She utilizes her rich imagination and creativity to produce original works."
+  },
+  {
+    "sentence": "この森林公園は緑豊かで、都市の喧騒から離れてリラックスできる。",
+    "sentence_furigana": "この森林公園【しんりんこうえん】は緑豊【みどりゆた】かで、都市【とし】の喧騒【けんそう】から離【はな】れてリラックスできる。",
+    "meaning": "This forest park is rich in greenery and allows relaxation away from the city's hustle and bustle."
+  },
+  {
+    "sentence": "彼の弁舌は流暢で、聴衆を惹きつける力がある。",
+    "sentence_furigana": "彼【かれ】の弁舌【べんぜつ】は流暢【りゅうちょう】で、聴衆【ちょうしゅう】を惹【ひ】きつける力【ちから】がある。",
+    "meaning": "His eloquence is fluent and has the power to captivate the audience."
+  },
+  {
+    "sentence": "この村は豊かな農産物で知られ、多くの観光客が訪れる。",
+    "sentence_furigana": "この村【むら】は豊【ゆた】かな農産物【のうさんぶつ】で知【し】られ、多【おお】くの観光客【かんこうきゃく】が訪【おとず】れる。",
+    "meaning": "This village is known for its abundant agricultural products, and many tourists visit."
+  },
+  {
+    "sentence": "彼女の文章は含蓄があり、読む者に深い感動を与える。",
+    "sentence_furigana": "彼女【かのじょ】の文章【ぶんしょう】は含蓄【がんちく】があり、読【よ】む者【もの】に深【ふか】い感動【かんどう】を与【あた】える。",
+    "meaning": "Her writing is profound and deeply moves the reader."
+  },
+  {
+    "sentence": "この地域は温泉資源が豊富で、温泉地として栄えている。",
+    "sentence_furigana": "この地域【ちいき】は温泉資源【おんせんしげん】が豊富【ほうふ】で、温泉地【おんせんち】として栄【さか】えている。",
+    "meaning": "This region is rich in hot spring resources and thrives as a hot spring resort."
+  },
+  {
+    "sentence": "彼の人生経験は豊富で、多くの人々に影響を与えてきた。",
+    "sentence_furigana": "彼【かれ】の人生経験【じんせいけいけん】は豊富【ほうふ】で、多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えてきた。",
+    "meaning": "His life experience is abundant and has influenced many people."
+  },
+  {
+    "sentence": "この国立公園は広大で、雄大な自然景観を堪能できる。",
+    "sentence_furigana": "この国立公園【こくりつこうえん】は広大【こうだい】で、雄大【ゆうだい】な自然景観【しぜんけいかん】を堪能【たんのう】できる。",
+    "meaning": "This national park is vast and allows you to fully enjoy the majestic natural landscape."
+  },
+  {
+    "sentence": "彼女の笑顔は親しみやすく、周囲に温かい雰囲気をもたらす。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は親近【した】しみやすく、周囲【しゅうい】に温【あたた】かい雰囲気【ふんいき】をもたらす。",
+    "meaning": "Her smile is friendly and brings a warm atmosphere to her surroundings."
+  },
+  {
+    "sentence": "この図書館は蔵書が豊富で、多くの資料が揃っている。",
+    "sentence_furigana": "この図書館【としょかん】は蔵書【ぞうしょ】が豊富【ほうふ】で、多【おお】くの資料【しりょう】が揃【そろ】っている。",
+    "meaning": "This library has an abundant collection of books, with many materials available."
+  },
+  {
+    "sentence": "彼の経営手腕は確かで、常に余裕を持って事業を運営している。",
+    "sentence_furigana": "彼【かれ】の経営手腕【けいえいしゅわん】は確か【たし】かで、常々【つねづね】余裕【よゆう】を持【も】って事業【じぎょう】を運営【うんえい】している。",
+    "meaning": "His management skills are certain, and he always runs the business with余裕."
+  },
+  {
+    "sentence": "この地域は豊かな土壌に恵まれ、米どころとして有名だ。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな土壌【どじょう】に恵【めぐ】まれ、米どころとして有名【ゆうめい】だ。",
+    "meaning": "This region is blessed with rich soil and is famous for its rice production."
+  },
+  {
+    "sentence": "彼女の音楽センスは抜群で、聴く人を魅了する。",
+    "sentence_furigana": "彼女【かのじょ】の音楽センスは抜群【ばつぐん】で、聞【き】く人【ひと】を魅了【みりょう】する。",
+    "meaning": "Her musical sense is outstanding and captivates listeners."
+  },
+  {
+    "sentence": "彼の言葉には重みがあり、皆が真剣に耳を傾ける。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には重【おも】みがあり、皆【みな】が真剣【しんけん】に耳【みみ】を傾【かたむ】ける。",
+    "meaning": "His words carry weight, and everyone listens intently."
+  },
+  {
+    "sentence": "この寺院は歴史的価値が高く、多くの文化財を所蔵している。",
+    "sentence_furigana": "この寺院【じいん】は歴史的価値【れきしてきかち】が高【たか】く、多【おお】くの文化財【ぶんかざい】を所蔵【しょぞう】している。",
+    "meaning": "This temple has high historical value and houses many cultural assets."
+  },
+  {
+    "sentence": "彼女は経済的に安定した生活を送っており、趣味にも多くの時間を費やしている。",
+    "sentence_furigana": "彼女【かのじょ】は経済的【けいざいてき】に安定【あんてい】した生活【せいかつ】を送【おく】っており、趣味【しゅみ】にも多【おお】くの時間【じかん】を費【つい】やしている。",
+    "meaning": "She leads a financially stable life and spends a lot of time on her hobbies."
+  },
+  {
+    "sentence": "この作家の作品は物語が豊かで、読者を飽きさせない。",
+    "sentence_furigana": "この作家【さっか】の作品【さくひん】は物語【ものがた】りが豊【ゆた】かで、読者【どくしゃ】を飽【あ】きさせない。",
+    "meaning": "This author's works are rich in story and never bore the reader."
+  },
+  {
+    "sentence": "彼の親切なアドバイスは、常に的確で役に立つ。",
+    "sentence_furigana": "彼【かれ】の親切【しんせつ】なアドバイスは、常々【つねづね】的確【てきかく】で役【やく】に立【た】つ。",
+    "meaning": "His kind advice is always accurate and helpful."
+  },
+  {
+    "sentence": "この地域は豊かな自然と、昔ながらの風情が共存している。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然【しぜん】と、昔ながらの風情【ふぜい】が共存【きょうぞん】している。",
+    "meaning": "This region coexists with abundant nature and old-fashioned charm."
+  },
+  {
+    "sentence": "彼女は広範な知識を持ち、様々な分野で活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は広範【こうはん】な知識【ちしき】を持【も】ち、様々【さまざま】な分野【ぶんや】で活躍【かつやく】している。",
+    "meaning": "She possesses extensive knowledge and is active in various fields."
+  },
+  {
+    "sentence": "彼の貯蓄は潤沢で、経済的な心配は一切ない。",
+    "sentence_furigana": "彼【かれ】の貯蓄【ちょちく】は潤沢【じゅんたく】で、経済的【けいざいてき】な心配【しんぱい】は一切【いっさい】ない。",
+    "meaning": "His savings are substantial, and he has no financial worries whatsoever."
+  },
+  {
+    "sentence": "この映画は映像美が豊かで、視覚的にも楽しめる。",
+    "sentence_furigana": "この映画【えいが】は映像美【えいぞうび】が豊【ゆた】かで、視覚的【しかくてき】にも楽【たの】しめる。",
+    "meaning": "This movie is rich in visual beauty and is also enjoyable visually."
+  },
+  {
+    "sentence": "彼女の献身的な努力は、チームの勝利に大きく貢献した。",
+    "sentence_furigana": "彼女【かのじょ】の献身的【けんしんてき】な努力【どりょく】は、チームの勝利【しょうり】に大【おお】きく貢献【こうけん】した。",
+    "meaning": "Her dedicated efforts greatly contributed to the team's victory."
+  },
+  {
+    "sentence": "この公園は多様な植物で豊かに構成されており、散策に最適だ。",
+    "sentence_furigana": "この公園【こうえん】は多様【たよう】な植物【しょくぶつ】で豊【ゆた】かに構成【こうせい】されており、散策【さんさく】に最適【さいてき】だ。",
+    "meaning": "This park is richly composed of diverse plants and is ideal for strolling."
+  },
+  {
+    "sentence": "彼の話は常に興味深く、示唆に富んでいる。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は常々【つねづね】興味深【きょうみぶか】く、示唆【しさ】に富【と】んでいる。",
+    "meaning": "His stories are always interesting and full of suggestions."
+  },
+  {
+    "sentence": "この地域は豊かな自然環境が保たれており、多くの野鳥が生息している。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然環境【しぜんかんきょう】が保【たも】たれており、多【おお】くの野鳥【やちょう】が生息【せいそく】している。",
+    "meaning": "This region preserves its rich natural environment, and many wild birds inhabit it."
+  },
+  {
+    "sentence": "彼女の表現力は豊かで、感情を巧みに伝える。",
+    "sentence_furigana": "彼女【かのじょ】の表現力【ひょうげんりょく】は豊【ゆた】かで、感情【かんじょう】を巧【たく】みに伝【つた】える。",
+    "meaning": "Her expressive power is rich, and she skillfully conveys emotions."
+  },
+  {
+    "sentence": "彼の貯蓄額は非常に大きく、将来の計画には余裕がある。",
+    "sentence_furigana": "彼【かれ】の貯蓄額【ちょちくがく】は非常【ひじょう】に大【おお】きく、将来【しょうらい】の計画【けいかく】には余裕【よゆう】がある。",
+    "meaning": "His savings are very large, and his future plans have余裕."
+  },
+  {
+    "sentence": "この湿地は多様な動植物の宝庫であり、生物多様性の維持に重要だ。",
+    "sentence_furigana": "この湿地【しっち】は多様【たよう】な動植物【どうしょくぶつ】の宝庫【ほうこ】であり、生物多様性【せいぶつたようせい】の維持【いじ】に重要【じゅうよう】だ。",
+    "meaning": "This wetland is a treasure trove of diverse plants and animals and is important for maintaining biodiversity."
+  },
+  {
+    "sentence": "彼女の落ち着いた態度は、どんな状況でも周囲を和ませる。",
+    "sentence_furigana": "彼女【かのじょ】の落【お】ち着【つ】いた態度【たいど】は、どんな状況【じょうきょう】でも周囲【しゅうい】を和【なご】ませる。",
+    "meaning": "Her calm demeanor soothes those around her in any situation."
+  },
+  {
+    "sentence": "この美術館は収蔵品が豊富で、美術愛好家にとって見逃せない。",
+    "sentence_furigana": "この美術館【びじゅつかん】は収蔵品【しゅうぞうひん】が豊富【ほうふ】で、美術愛好家【びじゅつあいこうか】にとって見逃【みのが】せない。",
+    "meaning": "This art museum has an abundant collection of works and is not to be missed by art lovers."
+  },
+  {
+    "sentence": "彼の熱意は並々ならぬものがあり、周りの人々を惹きつける。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は並々成【なみなみなら】ぬものがあり、周【まわ】りの人々【ひとびと】を惹【ひ】きつける。",
+    "meaning": "His enthusiasm is extraordinary and attracts people around him."
+  },
+  {
+    "sentence": "この峡谷は豊かな植生に覆われ、壮大な景観を呈している。",
+    "sentence_furigana": "この峡谷【きょうこく】は豊【ゆた】かな植生【しょくせい】に覆【おお】われ、壮大【そうだい】な景観【けいかん】を呈【てい】している。",
+    "meaning": "This canyon is covered with abundant vegetation and presents a magnificent landscape."
+  },
+  {
+    "sentence": "彼女の経験談は非常に興味深く、多くの示唆を含んでいる。",
+    "sentence_furigana": "彼女【かのじょ】の経験談【けいけんたん】は非常【ひじょう】に興味深【きょうみぶか】く、多【おお】くの示唆【しさ】を含【ふく】んでいる。",
+    "meaning": "Her anecdotes are very interesting and contain much suggestion."
+  }
+]

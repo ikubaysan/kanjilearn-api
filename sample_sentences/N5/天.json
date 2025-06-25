@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "空は青い。",
+    "sentence_furigana": "空【そら】は青【あお】い。",
+    "meaning": "The sky is blue."
+  },
+  {
+    "sentence": "天気が良い。",
+    "sentence_furigana": "天気【てんき】が良【よ】い。",
+    "meaning": "The weather is good."
+  },
+  {
+    "sentence": "天国はどこにあるのだろうか。",
+    "sentence_furigana": "天国【てんごく】はどこにあるのだろうか。",
+    "meaning": "Where might heaven be?"
+  },
+  {
+    "sentence": "今日は最高の天気だ。",
+    "sentence_furigana": "今日【きょう】は最高【さいこう】の天気【てんき】だ。",
+    "meaning": "Today's weather is the best."
+  },
+  {
+    "sentence": "天然記念物に指定されている。",
+    "sentence_furigana": "天然記念物【てんねんきねんぶつ】に指定【してい】されている。",
+    "meaning": "It has been designated as a natural monument."
+  },
+  {
+    "sentence": "天から声が聞こえた。",
+    "sentence_furigana": "天【てん】から声【こえ】が聞【き】こえた。",
+    "meaning": "A voice was heard from the heavens."
+  },
+  {
+    "sentence": "彼はその才能を天賦のものと考えている。",
+    "sentence_furigana": "彼【かれ】はその才能【さいのう】を天賦【てんぷ】のものと思【おも】い定【さだ】めている。",
+    "meaning": "He considers his talent to be a gift from heaven."
+  },
+  {
+    "sentence": "天下太平の世が来た。",
+    "sentence_furigana": "天下太平【てんかたいへい】の世【よ】が来【き】た。",
+    "meaning": "An era of world peace has arrived."
+  },
+  {
+    "sentence": "天文学者になりたい。",
+    "sentence_furigana": "天文学者【てんもんがくしゃ】になりたい。",
+    "meaning": "I want to become an astronomer."
+  },
+  {
+    "sentence": "天文学の講義は興味深い。",
+    "sentence_furigana": "天文学【てんもんがく】の講義【こうぎ】は興味深【きょうみぶか】い。",
+    "meaning": "The astronomy lecture is interesting."
+  },
+  {
+    "sentence": "天文学的な数字だ。",
+    "sentence_furigana": "天文学的【てんもんがくてき】な数字【すうじ】だ。",
+    "meaning": "It's an astronomical figure."
+  },
+  {
+    "sentence": "天上界の音楽。",
+    "sentence_furigana": "天上界【てんじょうかい】の音楽【おんがく】。",
+    "meaning": "Music of the celestial world."
+  },
+  {
+    "sentence": "天体観測は楽しい。",
+    "sentence_furigana": "天体観測【てんたいかんそく】は楽【たの】しい。",
+    "meaning": "Stargazing is fun."
+  },
+  {
+    "sentence": "その場所は天空にそびえている。",
+    "sentence_furigana": "その場所【ばしょ】は天空【てんくう】にそびえている。",
+    "meaning": "The place towers into the sky."
+  },
+  {
+    "sentence": "天気予報によると雨らしい。",
+    "sentence_furigana": "天気予報【てんきよほう】によると雨【あめ】らしい。",
+    "meaning": "According to the weather forecast, it seems like rain."
+  },
+  {
+    "sentence": "天然の水は美味しい。",
+    "sentence_furigana": "天然【てんねん】の水【みず】は美味【おい】しい。",
+    "meaning": "Natural water is delicious."
+  },
+  {
+    "sentence": "天上天下唯我独尊。",
+    "sentence_furigana": "天上天下唯我独尊【てんじょうてんがゆいがどくそん】。",
+    "meaning": "In heaven and earth, I alone am honored."
+  },
+  {
+    "sentence": "天変地異の前触れか。",
+    "sentence_furigana": "天変地異【てんぺんちい】の前触【まえぶ】れか。",
+    "meaning": "Is this a precursor to a natural disaster?"
+  },
+  {
+    "sentence": "天文学者は星を研究する。",
+    "sentence_furigana": "天文学者【てんもんがくしゃ】は星【ほし】を研究【けんきゅう】する。",
+    "meaning": "Astronomers study stars."
+  },
+  {
+    "sentence": "空を見上げてみた。",
+    "sentence_furigana": "空【そら】を見上【みあ】げてみた。",
+    "meaning": "I looked up at the sky."
+  },
+  {
+    "sentence": "天気が回復した。",
+    "sentence_furigana": "天気【てんき】が回復【かいふく】した。",
+    "meaning": "The weather has improved."
+  },
+  {
+    "sentence": "天国へ召される。",
+    "sentence_furigana": "天国【てんごく】へ召【め】される。",
+    "meaning": "To be called to heaven."
+  },
+  {
+    "sentence": "今日の天気は曇り。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は曇【くも】り。",
+    "meaning": "Today's weather is cloudy."
+  },
+  {
+    "sentence": "天然痘のワクチン。",
+    "sentence_furigana": "天然痘【てんねんとう】のワクチン。",
+    "meaning": "Smallpox vaccine."
+  },
+  {
+    "sentence": "天から降ってきた?",
+    "sentence_furigana": "天【てん】から降【ふ】ってきた?",
+    "meaning": "Did it fall from the sky?"
+  },
+  {
+    "sentence": "天災は忘れた頃にやってくる。",
+    "sentence_furigana": "天災【てんさい】は忘【わす】れた頃【ころ】にやってくる。",
+    "meaning": "Disasters strike when you least expect them."
+  },
+  {
+    "sentence": "彼は天赋の才がある。",
+    "sentence_furigana": "彼【かれ】は天赋【てんふ】の才【さい】がある。",
+    "meaning": "He has a natural talent."
+  },
+  {
+    "sentence": "天下をとる。",
+    "sentence_furigana": "天下【てんか】をとる。",
+    "meaning": "To conquer the world."
+  },
+  {
+    "sentence": "天文学の発展。",
+    "sentence_furigana": "天文学【てんもんがく】の発展【はってん】。",
+    "meaning": "The development of astronomy."
+  },
+  {
+    "sentence": "上天を仰ぐ。",
+    "sentence_furigana": "上天【じょうてん】を仰【あお】ぐ。",
+    "meaning": "To look up at the heavens."
+  },
+  {
+    "sentence": "天気図を広げる。",
+    "sentence_furigana": "天気図【てんきず】を広【ひろ】げる。",
+    "meaning": "To spread out the weather map."
+  },
+  {
+    "sentence": "天然資源の保護。",
+    "sentence_furigana": "天然資源【てんねんしげん】の保護【ほご】。",
+    "meaning": "Protection of natural resources."
+  },
+  {
+    "sentence": "天上の楽園。",
+    "sentence_furigana": "天上【てんじょう】の楽園【らくえん】。",
+    "meaning": "Heavenly paradise."
+  },
+  {
+    "sentence": "天地が創造された。",
+    "sentence_furigana": "天地【てんち】が創造【そうぞう】された。",
+    "meaning": "Heaven and earth were created."
+  },
+  {
+    "sentence": "天文学的な数字について話す。",
+    "sentence_furigana": "天文学的【てんもんがくてき】な数字【すうじ】について話【はな】す。",
+    "meaning": "To talk about astronomical numbers."
+  },
+  {
+    "sentence": "空に虹がかかっている。",
+    "sentence_furigana": "空【そら】に虹【にじ】がかかっている。",
+    "meaning": "A rainbow is in the sky."
+  },
+  {
+    "sentence": "天気は回復傾向にある。",
+    "sentence_furigana": "天気【てんき】は回復傾向【かいふくけいこう】にある。",
+    "meaning": "The weather is tending to improve."
+  },
+  {
+    "sentence": "天国の門。",
+    "sentence_furigana": "天国【てんごく】の門【もん】。",
+    "meaning": "The gates of heaven."
+  },
+  {
+    "sentence": "今日の天気は快晴。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は快晴【かいせい】。",
+    "meaning": "Today's weather is clear and fine."
+  },
+  {
+    "sentence": "天然物は魅力的だ。",
+    "sentence_furigana": "天然物【てんねんぶつ】は魅力的【みりょくてき】だ。",
+    "meaning": "Natural things are attractive."
+  },
+  {
+    "sentence": "天が味方してくれる。",
+    "sentence_furigana": "天【てん】が味方【みかた】してくれる。",
+    "meaning": "Heaven is on my side."
+  },
+  {
+    "sentence": "天災に備える。",
+    "sentence_furigana": "天災【てんさい】に備【そな】える。",
+    "meaning": "To prepare for disasters."
+  },
+  {
+    "sentence": "彼は天性の音楽家だ。",
+    "sentence_furigana": "彼【かれ】は天性【てんせい】の音楽家【おんがくか】だ。",
+    "meaning": "He is a natural musician."
+  },
+  {
+    "sentence": "天下無双の美人。",
+    "sentence_furigana": "天下無双【てんかむそう】の美人【びじん】。",
+    "meaning": "A beauty unmatched in the world."
+  },
+  {
+    "sentence": "天文学的な数字を前にして驚いた。",
+    "sentence_furigana": "天文学的【てんもんがくてき】な数字【すうじ】を前【まえ】にして驚【おどろ】いた。",
+    "meaning": "I was surprised by the astronomical figure."
+  },
+  {
+    "sentence": "空はどこまでも続く。",
+    "sentence_furigana": "空【そら】はどこまでも続【つづ】く。",
+    "meaning": "The sky continues endlessly."
+  },
+  {
+    "sentence": "天気予報士の仕事。",
+    "sentence_furigana": "天気予報士【てんきよほうし】の仕事【しごと】。",
+    "meaning": "The job of a meteorologist."
+  },
+  {
+    "sentence": "天国への扉が開いた。",
+    "sentence_furigana": "天国【てんごく】への扉【とびら】が開【ひら】いた。",
+    "meaning": "The door to heaven opened."
+  },
+  {
+    "sentence": "今日の天気は雨時々曇り。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は雨時々曇【あめときどきくも】り。",
+    "meaning": "Today's weather is rain, occasionally cloudy."
+  },
+  {
+    "sentence": "天然の美しさ。",
+    "sentence_furigana": "天然【てんねん】の美【び】しさ。",
+    "meaning": "Natural beauty."
+  },
+  {
+    "sentence": "天から遣わされた。",
+    "sentence_furigana": "天【てん】から遣【つか】わされた。",
+    "meaning": "Sent from heaven."
+  },
+  {
+    "sentence": "天文学者の夢。",
+    "sentence_furigana": "天文学者【てんもんがくしゃ】の夢【ゆめ】。",
+    "meaning": "An astronomer's dream."
+  },
+  {
+    "sentence": "空には星が輝いている。",
+    "sentence_furigana": "空【そら】には星【ほし】が輝【かがや】いている。",
+    "meaning": "Stars are shining in the sky."
+  },
+  {
+    "sentence": "天気は回復しつつある。",
+    "sentence_furigana": "天気【てんき】は回復【かいふく】しつつある。",
+    "meaning": "The weather is gradually improving."
+  },
+  {
+    "sentence": "天国のような場所。",
+    "sentence_furigana": "天国【てんごく】のような場所【ばしょ】。",
+    "meaning": "A place like heaven."
+  },
+  {
+    "sentence": "今日の天気は晴れ。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は晴【は】れ。",
+    "meaning": "Today's weather is sunny."
+  },
+  {
+    "sentence": "天然酵母のパン。",
+    "sentence_furigana": "天然酵母【てんねんこうぼ】のパン。",
+    "meaning": "Bread made with natural yeast."
+  },
+  {
+    "sentence": "天にも昇る心地がした。",
+    "sentence_furigana": "天【てん】にも昇【のぼ】る心地【ここち】がした。",
+    "meaning": "I felt like I was soaring to the heavens."
+  },
+  {
+    "sentence": "天文学的な投資だ。",
+    "sentence_furigana": "天文学的【てんもんがくてき】な投資【とうし】だ。",
+    "meaning": "It's an astronomical investment."
+  },
+  {
+    "sentence": "空を見上げて手を振った。",
+    "sentence_furigana": "空【そら】を見上【みあ】げて手【て】を振【ふ】った。",
+    "meaning": "I looked up at the sky and waved."
+  },
+  {
+    "sentence": "天気は下り坂だ。",
+    "sentence_furigana": "天気【てんき】は下【くだ】り坂【ざか】だ。",
+    "meaning": "The weather is deteriorating."
+  },
+  {
+    "sentence": "天国への道。",
+    "sentence_furigana": "天国【てんごく】への道【みち】。",
+    "meaning": "The road to heaven."
+  },
+  {
+    "sentence": "今日の天気は曇り時々晴れ。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は曇【くも】り時々晴【ときどきは】れ。",
+    "meaning": "Today's weather is cloudy with occasional sun."
+  },
+  {
+    "sentence": "天然の恵み。",
+    "sentence_furigana": "天然【てんねん】の恵【めぐ】み。",
+    "meaning": "Nature's bounty."
+  },
+  {
+    "sentence": "天命を待つ。",
+    "sentence_furigana": "天命【てんめい】を待【ま】つ。",
+    "meaning": "To await one's destiny."
+  },
+  {
+    "sentence": "天文学の進歩。",
+    "sentence_furigana": "天文学【てんもんがく】の進歩【しんぽ】。",
+    "meaning": "Advances in astronomy."
+  },
+  {
+    "sentence": "空の色が変わった。",
+    "sentence_furigana": "空【そら】の色【いろ】が変【か】わった。",
+    "meaning": "The color of the sky changed."
+  },
+  {
+    "sentence": "天気はますます悪化する。",
+    "sentence_furigana": "天気【てんき】はますます悪化【あっか】する。",
+    "meaning": "The weather is getting worse and worse."
+  },
+  {
+    "sentence": "天国で再会しましょう。",
+    "sentence_furigana": "天国【てんごく】で再会【さいかい】しましょう。",
+    "meaning": "Let's meet again in heaven."
+  },
+  {
+    "sentence": "今日の天気は晴れ時々曇り。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は晴【は】れ時々曇【ときどきくも】り。",
+    "meaning": "Today's weather is sunny with occasional clouds."
+  },
+  {
+    "sentence": "天然記念物の保護。",
+    "sentence_furigana": "天然記念物【てんねんきねんぶつ】の保護【ほご】。",
+    "meaning": "Protection of natural monuments."
+  },
+  {
+    "sentence": "天に向かって叫んだ。",
+    "sentence_furigana": "天【てん】に向【む】かって叫【さけ】んだ。",
+    "meaning": "I shouted towards the sky."
+  },
+  {
+    "sentence": "天文学の授業。",
+    "sentence_furigana": "天文学【てんもんがく】の授業【じゅぎょう】。",
+    "meaning": "Astronomy class."
+  },
+  {
+    "sentence": "空に鳥が飛んでいる。",
+    "sentence_furigana": "空【そら】に鳥【とり】が飛【と】んでいる。",
+    "meaning": "Birds are flying in the sky."
+  },
+  {
+    "sentence": "天気は回復に向かっている。",
+    "sentence_furigana": "天気【てんき】は回復【かいふく】に向【む】かっている。",
+    "meaning": "The weather is turning for the better."
+  },
+  {
+    "sentence": "天国への階段。",
+    "sentence_furigana": "天国【てんごく】への階段【かいだん】。",
+    "meaning": "The stairs to heaven."
+  },
+  {
+    "sentence": "今日の天気は曇り一時雨。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は曇【くも】り一時雨【いちじあめ】。",
+    "meaning": "Today's weather is cloudy with occasional rain."
+  },
+  {
+    "sentence": "天然ゴム。",
+    "sentence_furigana": "天然ゴム【てんねんゴム】。",
+    "meaning": "Natural rubber."
+  },
+  {
+    "sentence": "天寿を全うする。",
+    "sentence_furigana": "天寿【てんじゅ】を全【まっと】うする。",
+    "meaning": "To live out one's natural lifespan."
+  },
+  {
+    "sentence": "天文学的な数字の借金。",
+    "sentence_furigana": "天文学的【てんもんがくてき】な数字【すうじ】の借金【しゃっきん】。",
+    "meaning": "Astronomical debt."
+  },
+  {
+    "sentence": "空が晴れてきた。",
+    "sentence_furigana": "空【そら】が晴【は】れてきた。",
+    "meaning": "The sky has cleared up."
+  },
+  {
+    "sentence": "天気は悪くなる一方だ。",
+    "sentence_furigana": "天気【てんき】は悪【わる】くなる一方【いっぽう】だ。",
+    "meaning": "The weather is only getting worse."
+  },
+  {
+    "sentence": "天国と地獄。",
+    "sentence_furigana": "天国【てんごく】と地獄【じごく】。",
+    "meaning": "Heaven and hell."
+  },
+  {
+    "sentence": "今日の天気は晴れ。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は晴【は】れ。",
+    "meaning": "Today's weather is clear."
+  },
+  {
+    "sentence": "天然の泉。",
+    "sentence_furigana": "天然【てんねん】の泉【いずみ】。",
+    "meaning": "A natural spring."
+  },
+  {
+    "sentence": "天に誓う。",
+    "sentence_furigana": "天【てん】に誓【ちか】う。",
+    "meaning": "To swear to heaven."
+  },
+  {
+    "sentence": "天文学は人類の知的好奇心を満たす。",
+    "sentence_furigana": "天文学【てんもんがく】は人類【じんるい】の知的好奇心【ちてきこうきしん】を満【み】たす。",
+    "meaning": "Astronomy satisfies humanity's intellectual curiosity."
+  },
+  {
+    "sentence": "空には雲一つない。",
+    "sentence_furigana": "空【そら】には雲【くも】一つ【ひとつ】ない。",
+    "meaning": "There isn't a single cloud in the sky."
+  },
+  {
+    "sentence": "天気は急に悪化した。",
+    "sentence_furigana": "天気【てんき】は急【きゅう】に悪化【あっか】した。",
+    "meaning": "The weather suddenly worsened."
+  },
+  {
+    "sentence": "天国に行きたい。",
+    "sentence_furigana": "天国【てんごく】に行【い】きたい。",
+    "meaning": "I want to go to heaven."
+  },
+  {
+    "sentence": "今日の天気は雨。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は雨【あめ】。",
+    "meaning": "Today's weather is rain."
+  },
+  {
+    "sentence": "天然の氷。",
+    "sentence_furigana": "天然【てんねん】の氷【こおり】。",
+    "meaning": "Natural ice."
+  },
+  {
+    "sentence": "天は自ら助くる者を助く。",
+    "sentence_furigana": "天【てん】は自【みずか】ら助【たす】くる者【もの】を助【たす】く。",
+    "meaning": "Heaven helps those who help themselves."
+  },
+  {
+    "sentence": "天文学者のように夜空を見つめる。",
+    "sentence_furigana": "天文学者【てんもんがくしゃ】のように夜空【よぞら】を見つ【みつ】める。",
+    "meaning": "To gaze at the night sky like an astronomer."
+  },
+  {
+    "sentence": "空には満月が浮かんでいる。",
+    "sentence_furigana": "空【そら】には満月【まんげつ】が浮【う】かんでいる。",
+    "meaning": "A full moon is floating in the sky."
+  },
+  {
+    "sentence": "天気予報を確認する。",
+    "sentence_furigana": "天気予報【てんきよほう】を確認【かくにん】する。",
+    "meaning": "To check the weather forecast."
+  },
+  {
+    "sentence": "天国から見守っている。",
+    "sentence_furigana": "天国【てんごく】から見守【みまも】っている。",
+    "meaning": "Watching over from heaven."
+  },
+  {
+    "sentence": "今日の天気は曇り。",
+    "sentence_furigana": "今日【きょう】の天気【てんき】は曇【くも】り。",
+    "meaning": "Today's weather is cloudy."
+  },
+  {
+    "sentence": "天然記念物。",
+    "sentence_furigana": "天然記念物【てんねんきねんぶつ】。",
+    "meaning": "Natural monument."
+  },
+  {
+    "sentence": "天罰が下る。",
+    "sentence_furigana": "天罰【てんばつ】が下【くだ】る。",
+    "meaning": "Divine punishment falls."
+  },
+  {
+    "sentence": "天文学は宇宙の探求だ。",
+    "sentence_furigana": "天文学【てんもんがく】は宇宙【うちゅう】の探求【たんきゅう】だ。",
+    "meaning": "Astronomy is the exploration of the universe."
+  }
+]

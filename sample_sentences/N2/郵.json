@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "郵便局は近くにありますか？",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は近【ちか】くにありますか？",
+    "meaning": "Is the post office nearby?"
+  },
+  {
+    "sentence": "重要な書類を郵送しました。",
+    "sentence_furigana": "重要【じゅうよう】な書類【しょるい】を郵送【ゆうそう】しました。",
+    "meaning": "I mailed the important documents."
+  },
+  {
+    "sentence": "この荷物は船便で郵送します。",
+    "sentence_furigana": "この荷物【にもつ】は船便【ふなびん】で郵送【ゆうそう】します。",
+    "meaning": "This package will be sent by sea mail."
+  },
+  {
+    "sentence": "切手を貼ってポストに投函してください。",
+    "sentence_furigana": "切手【きって】を貼【は】ってポストに投函【とうかん】してください。",
+    "meaning": "Please put a stamp on it and post it."
+  },
+  {
+    "sentence": "メールで返信します。",
+    "sentence_furigana": "メールで返信【へんしん】します。",
+    "meaning": "I will reply by email."
+  },
+  {
+    "sentence": "彼は新しい住所に郵便物を転送してもらいました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい住所【じゅうしょ】に郵便物【ゆうびんぶつ】を転送【てんそう】してもらいました。",
+    "meaning": "He had his mail forwarded to his new address."
+  },
+  {
+    "sentence": "この手紙は速達で送ってください。",
+    "sentence_furigana": "この手紙【てがみ】は速達【そくたつ】で送ってください。",
+    "meaning": "Please send this letter by express mail."
+  },
+  {
+    "sentence": "彼女は海外に住んでいる友人に定期的に手紙を書いている。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】に住【す】んでいる友人【ゆうじん】に定期的【ていきてき】に手紙【てがみ】を書【か】いている。",
+    "meaning": "She regularly writes letters to friends living abroad."
+  },
+  {
+    "sentence": "郵便配達員が毎日新聞を配達する。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】が毎日【まいにち】新聞【しんぶん】を配達【はいたつ】する。",
+    "meaning": "The mail carrier delivers the newspaper every day."
+  },
+  {
+    "sentence": "国際郵便は料金が高い。",
+    "sentence_furigana": "国際郵便【こくさいゆうびん】は料金【りょうきん】が高【たか】い。",
+    "meaning": "International mail is expensive."
+  },
+  {
+    "sentence": "この地域の郵便番号を教えてください。",
+    "sentence_furigana": "この地域【ちいき】の郵便番号【ゆうびんばんごう】を教【おし】えてください。",
+    "meaning": "Please tell me the postal code for this area."
+  },
+  {
+    "sentence": "彼は配達された荷物を受け取った。",
+    "sentence_furigana": "彼【かれ】は配達【はいたつ】された荷物【にもつ】を受【う】け取った。",
+    "meaning": "He received the delivered package."
+  },
+  {
+    "sentence": "メールアドレスを交換しましょう。",
+    "sentence_furigana": "メールアドレスを交換【こうかん】しましょう。",
+    "meaning": "Let's exchange email addresses."
+  },
+  {
+    "sentence": "郵便物は毎日午前中に届く。",
+    "sentence_furigana": "郵便物【ゆうびんぶつ】は毎日【まいにち】午前中【ごぜんちゅう】に届【とど】く。",
+    "meaning": "Mail arrives every morning."
+  },
+  {
+    "sentence": "海外からの郵便を待っています。",
+    "sentence_furigana": "海外【かいがい】からの郵便【ゆうびん】を待【ま】っています。",
+    "meaning": "I am waiting for mail from abroad."
+  },
+  {
+    "sentence": "この手紙は大切な情報を含んでいます。",
+    "sentence_furigana": "この手紙【てがみ】は大切【たいせつ】な情報【じょうほう】を含【ふく】んでいます。",
+    "meaning": "This letter contains important information."
+  },
+  {
+    "sentence": "彼女は海外の親戚に贈り物を郵送した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の親戚【しんせき】に贈物【おく₂りもの】を郵送【ゆうそう】した。",
+    "meaning": "She mailed a gift to relatives abroad."
+  },
+  {
+    "sentence": "郵便料金はいくらですか？",
+    "sentence_furigana": "郵便料金【ゆうびんりょうきん】はいくらですか？",
+    "meaning": "How much is the postage?"
+  },
+  {
+    "sentence": "新しい郵便番号システムが導入された。",
+    "sentence_furigana": "新【あたら】しい郵便番号【ゆうびんばんごう】システムが導入【どうにゅう】された。",
+    "meaning": "A new postal code system has been introduced."
+  },
+  {
+    "sentence": "彼は手紙を書くのが好きだ。",
+    "sentence_furigana": "彼【かれ】は手紙【てがみ】を書【か】くのが好【す】きだ。",
+    "meaning": "He likes writing letters."
+  },
+  {
+    "sentence": "郵便局は午前9時に開きます。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は午前9時【ごぜんくじ】に開【あ】きます。",
+    "meaning": "The post office opens at 9 AM."
+  },
+  {
+    "sentence": "この小包は壊れやすいので注意して郵送してください。",
+    "sentence_furigana": "この小包【こ₂つ₁づみ】は壊【こわ】れやすいので注意【ちゅうい】して郵送【ゆうそう】してください。",
+    "meaning": "This parcel is fragile, so please mail it with care."
+  },
+  {
+    "sentence": "彼は国際郵便で荷物を送った。",
+    "sentence_furigana": "彼【かれ】は国際郵便【こくさいゆうびん】で荷物【にもつ】を送った。",
+    "meaning": "He sent the package by international mail."
+  },
+  {
+    "sentence": "彼女は親しい友人に手紙を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は親【した】しい友人【ゆうじん】に手紙【てがみ】を書いた。",
+    "meaning": "She wrote a letter to a close friend."
+  },
+  {
+    "sentence": "郵便配達員は定期的に訪問する。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は定期的【ていきてき】に訪問【ほうもん】する。",
+    "meaning": "The mail carrier visits regularly."
+  },
+  {
+    "sentence": "この住所には定期的に郵便物が届く。",
+    "sentence_furigana": "この住所【じゅうしょ】には定期的【ていきてき】に郵便物【ゆうびんぶつ】が届【とど】く。",
+    "meaning": "Mail regularly arrives at this address."
+  },
+  {
+    "sentence": "彼は重要な郵便物を紛失した。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な郵便物【ゆうびんぶつ】を紛失【ふんしつ】した。",
+    "meaning": "He lost important mail."
+  },
+  {
+    "sentence": "郵便局は通常、日曜日も営業している。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は通常【つうじょう】、日曜日【にちようび】も営業【えいぎょう】している。",
+    "meaning": "The post office is usually open on Sundays as well."
+  },
+  {
+    "sentence": "彼女は絵葉書を買いに行った。",
+    "sentence_furigana": "彼女【かのじょ】は絵葉書【えはがき】を買かいに行【い】った。",
+    "meaning": "She went to buy postcards."
+  },
+  {
+    "sentence": "この封筒は国際郵便に適しています。",
+    "sentence_furigana": "この封筒【ふう₂とう】は国際郵便【こくさいゆうびん】に適【てき】しています。",
+    "meaning": "This envelope is suitable for international mail."
+  },
+  {
+    "sentence": "郵便番号を間違えたので、手紙が届かなかった。",
+    "sentence_furigana": "郵便番号【ゆうびんばんごう】を間違【まちが】えたので、手紙【てがみ】が届【とど】かなかった。",
+    "meaning": "The letter didn't arrive because I entered the wrong postal code."
+  },
+  {
+    "sentence": "彼は海外からのメールをチェックした。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】からのメールをチェックした。",
+    "meaning": "He checked his emails from abroad."
+  },
+  {
+    "sentence": "郵便物を確認してください。",
+    "sentence_furigana": "郵便物【ゆうびんぶつ】を確認【かくにん】してください。",
+    "meaning": "Please check the mail."
+  },
+  {
+    "sentence": "彼女は大学の寮に住んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】の寮【りょう】に住【す】んでいた。",
+    "meaning": "She lived in the university dormitory."
+  },
+  {
+    "sentence": "この地区の郵便配達は午前中に終わる。",
+    "sentence_furigana": "この地区【ちく】の郵便配達【ゆうびんはいたつ】は午前中【ごぜんちゅう】に終【お】わる。",
+    "meaning": "Mail delivery in this district finishes in the morning."
+  },
+  {
+    "sentence": "彼は速達料金を追加で支払った。",
+    "sentence_furigana": "彼【かれ】は速達料金【そくたつりょうきん】を追加【ついか】で支払った。",
+    "meaning": "He paid an extra fee for express mail."
+  },
+  {
+    "sentence": "郵便局は現在改装中です。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は現在【げんざい】改装中【かいそうちゅう】です。",
+    "meaning": "The post office is currently under renovation."
+  },
+  {
+    "sentence": "彼女は友達に誕生日カードを送った。",
+    "sentence_furigana": "彼女【かのじょ】は友達【ともだち】に誕生日カードを送った。",
+    "meaning": "She sent a birthday card to her friend."
+  },
+  {
+    "sentence": "この手紙は追跡可能です。",
+    "sentence_furigana": "この手紙【てがみ】は追跡可能【ついせきかのう】です。",
+    "meaning": "This letter can be tracked."
+  },
+  {
+    "sentence": "郵便物を仕分ける作業は大変だ。",
+    "sentence_furigana": "郵便物【ゆうびんぶつ】を仕分【しわ】ける作業【さぎょう】は大変【たいへん】だ。",
+    "meaning": "Sorting mail is a difficult task."
+  },
+  {
+    "sentence": "彼はビジネスメールのやり取りを始めた。",
+    "sentence_furigana": "彼【かれ】はビジネスメールのやり取【と】りを始【はじ】めた。",
+    "meaning": "He started exchanging business emails."
+  },
+  {
+    "sentence": "この国の郵便システムは効率的だ。",
+    "sentence_furigana": "この国【くに】の郵便システムは効率的【こうりつてき】だ。",
+    "meaning": "The postal system in this country is efficient."
+  },
+  {
+    "sentence": "彼女は海外に住む家族に定期的に連絡を取っている。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】に住【す】む家族【かぞく】に定期的【ていきてき】に連絡【れんらく】を取【と】っている。",
+    "meaning": "She regularly contacts her family living abroad."
+  },
+  {
+    "sentence": "郵便局は町の中心部に位置しています。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は町【まち】の中心部【ちゅうしんぶ】に位置【いち】しています。",
+    "meaning": "The post office is located in the town center."
+  },
+  {
+    "sentence": "彼が送った荷物は無事に届いた。",
+    "sentence_furigana": "彼【かれ】が送った荷物【にもつ】は無事【ぶじ】に届いた。",
+    "meaning": "The package he sent arrived safely."
+  },
+  {
+    "sentence": "この荷物は船便で送ります。",
+    "sentence_furigana": "この荷物【にもつ】は船便【ふなびん】で送ります。",
+    "meaning": "We will send this package by sea mail."
+  },
+  {
+    "sentence": "彼女は友人からの手紙を大切に保管している。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】からの手紙【てがみ】を大切【たいせつ】に保管【ほかん】している。",
+    "meaning": "She keeps the letters from her friends carefully."
+  },
+  {
+    "sentence": "郵便配達員は雨の日も配達する。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は雨の日【あめひ】も配達【はいたつ】する。",
+    "meaning": "The mail carrier delivers even on rainy days."
+  },
+  {
+    "sentence": "この封筒は航空便で送る必要があります。",
+    "sentence_furigana": "この封筒【ふう₂とう】は航空便【こうくうびん】で送る必要【ひつよう】があります。",
+    "meaning": "This envelope needs to be sent by airmail."
+  },
+  {
+    "sentence": "彼はメールアドレスを変更した。",
+    "sentence_furigana": "彼【かれ】はメールアドレスを変更【へんこう】した。",
+    "meaning": "He changed his email address."
+  },
+  {
+    "sentence": "郵便局の窓口は午後5時に閉まります。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】の窓口【まどぐち】は午後5時【ごごごじ】に閉まります。",
+    "meaning": "The post office counter closes at 5 PM."
+  },
+  {
+    "sentence": "彼女は海外の大学に手紙を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の大学【だいがく】に手紙【てがみ】を書いた。",
+    "meaning": "She wrote a letter to a university abroad."
+  },
+  {
+    "sentence": "郵便番号が正しくないと郵便物が返送される。",
+    "sentence_furigana": "郵便番号【ゆうびんばんごう】が正【ただ】しくないと郵便物【ゆうびんぶつ】が返送【へんそう】される。",
+    "meaning": "If the postal code is incorrect, the mail will be returned."
+  },
+  {
+    "sentence": "彼は仕事で頻繁にメールを送受信する。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】で頻繁【ひんぱん】にメールを送受信【そうじゅしん】する。",
+    "meaning": "He frequently sends and receives emails for work."
+  },
+  {
+    "sentence": "この小包は海外への発送が可能です。",
+    "sentence_furigana": "この小包【こ₂つ₁づみ】は海外【かいがい】への発送【はっそう】が可能です。",
+    "meaning": "This parcel can be shipped overseas."
+  },
+  {
+    "sentence": "彼女は友人からの誕生日プレゼントを郵送で受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】からの誕生日プレゼントを郵送【ゆうそう】で受【う】け取った。",
+    "meaning": "She received a birthday present from her friend by mail."
+  },
+  {
+    "sentence": "郵便局は多くの人に利用されている。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は多【おお】くの人【ひと】に利用【りよう】されている。",
+    "meaning": "The post office is used by many people."
+  },
+  {
+    "sentence": "彼が送った荷物は予定通りに到着した。",
+    "sentence_furigana": "彼【かれ】が送った荷物【にもつ】は予定通【よていどお】り到着【とうちゃく】した。",
+    "meaning": "The package he sent arrived as scheduled."
+  },
+  {
+    "sentence": "この手紙は特別郵便で送ります。",
+    "sentence_furigana": "この手紙【てがみ】は特別郵便【とくべつゆうびん】で送ります。",
+    "meaning": "We will send this letter by special mail."
+  },
+  {
+    "sentence": "彼女はオンラインで注文した商品を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】はオンラインで注文【ちゅうもん】した商品【しょうひん】を受【う】け取った。",
+    "meaning": "She received the product she ordered online."
+  },
+  {
+    "sentence": "郵便配達は新しいサービスを開始した。",
+    "sentence_furigana": "郵便配達【ゆうびんはいたつ】は新【あたら】しいサービスを開始【かいし】した。",
+    "meaning": "The postal service has launched a new service."
+  },
+  {
+    "sentence": "彼は重要な書類をメールで送った。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な書類【しょるい】をメールで送った。",
+    "meaning": "He sent important documents by email."
+  },
+  {
+    "sentence": "この地域の郵便番号は123-4567です。",
+    "sentence_furigana": "この地域【ちいき】の郵便番号【ゆうびんばんごう】は123-4567です。",
+    "meaning": "The postal code for this area is 123-4567."
+  },
+  {
+    "sentence": "彼女は海外の友人にクリスマスカードを送った。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の友人【ゆうじん】にクリスマスカードを送った。",
+    "meaning": "She sent a Christmas card to a friend abroad."
+  },
+  {
+    "sentence": "郵便局は多くの種類のサービスを提供している。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は多【おお】くの種類【しゅるい】のサービスを提供【ていきょう】している。",
+    "meaning": "The post office offers many types of services."
+  },
+  {
+    "sentence": "彼が注文した商品はすぐに届いた。",
+    "sentence_furigana": "彼【かれ】が注文【ちゅうもん】した商品【しょうひん】はすぐに届いた。",
+    "meaning": "The item he ordered arrived quickly."
+  },
+  {
+    "sentence": "この手紙は内容が機密です。",
+    "sentence_furigana": "この手紙【てがみ】は内容【ないよう】が機密【きみつ】です。",
+    "meaning": "The contents of this letter are confidential."
+  },
+  {
+    "sentence": "彼女は海外の大学から合格通知を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の大学【だいがく】から合格通知【ごうかくつうち】を受【う】け取った。",
+    "meaning": "She received an acceptance letter from an overseas university."
+  },
+  {
+    "sentence": "郵便配達員は一人一人に荷物を届ける。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は一人一人【ひとりひとり】に荷物【にもつ】を届【とど】ける。",
+    "meaning": "The mail carrier delivers packages to each person."
+  },
+  {
+    "sentence": "彼は最新の情報をメールで共有した。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の情報【じょうほう】をメールで共有【きょうゆう】した。",
+    "meaning": "He shared the latest information via email."
+  },
+  {
+    "sentence": "この地域の郵便料金は全国一律です。",
+    "sentence_furigana": "この地域【ちいき】の郵便料金【ゆうびんりょうきん】は全国一律【ぜんこくいちりつ】です。",
+    "meaning": "Postal rates in this area are uniform nationwide."
+  },
+  {
+    "sentence": "彼女は海外の友人に近況を報告する手紙を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の友人【ゆうじん】に近況【きんきょう】を報告【ほうこく】する手紙【てがみ】を書いた。",
+    "meaning": "She wrote a letter to her friends abroad reporting her recent situation."
+  },
+  {
+    "sentence": "郵便物はすべて確認してから開封してください。",
+    "sentence_furigana": "郵便物【ゆうびんぶつ】はすべて確認【かくにん】してから開封【かいふう】してください。",
+    "meaning": "Please check all mail before opening it."
+  },
+  {
+    "sentence": "彼は古い手紙を整理していた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い手紙【てがみ】を整理【せいり】していた。",
+    "meaning": "He was organizing old letters."
+  },
+  {
+    "sentence": "この荷物は国際郵便で送るのに時間がかかる。",
+    "sentence_furigana": "この荷物【にもつ】は国際郵便【こくさいゆうびん】で送るのに時間【じかん】がかかる。",
+    "meaning": "It takes time to send this package by international mail."
+  },
+  {
+    "sentence": "彼女は郵便局で切手を購入した。",
+    "sentence_furigana": "彼女【かのじょ】は郵便局【ゆうびんきょく】で切手【きって】を購入【こうにゅう】した。",
+    "meaning": "She bought stamps at the post office."
+  },
+  {
+    "sentence": "郵便配達員は不在票を残していきました。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は不在票【ふざいひょう】を残【のこ】していきました。",
+    "meaning": "The mail carrier left an absence notice."
+  },
+  {
+    "sentence": "彼はビジネス上の重要なメールをなくしてしまった。",
+    "sentence_furigana": "彼【かれ】はビジネス上【じょう】の重要【じゅうよう】なメールをなくしてしまった。",
+    "meaning": "He lost an important business email."
+  },
+  {
+    "sentence": "この地域の郵便配達は午前9時から午後5時までです。",
+    "sentence_furigana": "この地域【ちいき】の郵便配達【ゆうびんはいたつ】は午前9時【ごぜんくじ】から午後5時【ごごごじ】までです。",
+    "meaning": "Mail delivery in this area is from 9 AM to 5 PM."
+  },
+  {
+    "sentence": "彼女は友達に感謝の手紙を送った。",
+    "sentence_furigana": "彼女【かのじょ】は友達【ともだち】に感謝【かんしゃ】の手紙【てがみ】を送った。",
+    "meaning": "She sent a thank-you letter to her friend."
+  },
+  {
+    "sentence": "郵便局の建物は歴史的価値が高い。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】の建物【たてもの】は歴史的価値【れきしてきかち】が高【たか】い。",
+    "meaning": "The post office building has high historical value."
+  },
+  {
+    "sentence": "彼は海外からの重要な郵便物を受け取った。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】からの重要【じゅうよう】な郵便物【ゆうびんぶつ】を受【う】け取った。",
+    "meaning": "He received important mail from abroad."
+  },
+  {
+    "sentence": "この小包は非常に重いです。",
+    "sentence_furigana": "この小包【こ₂つ₁づみ】は非常【ひじょう】に重【おも】いです。",
+    "meaning": "This parcel is very heavy."
+  },
+  {
+    "sentence": "彼女は新しい住所に郵便物を転送するように依頼した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい住所【じゅうしょ】に郵便物【ゆうびんぶつ】を転送【てんそう】するように依頼【いらい】した。",
+    "meaning": "She requested to have her mail forwarded to her new address."
+  },
+  {
+    "sentence": "郵便配達員は時間通りに配達した。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は時間通【じかんとお】り配達【はいたつ】した。",
+    "meaning": "The mail carrier delivered on time."
+  },
+  {
+    "sentence": "彼は友人からのメールに返信した。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】からのメールに返信【へんしん】した。",
+    "meaning": "He replied to the email from his friend."
+  },
+  {
+    "sentence": "この郵便物は追跡番号が付いています。",
+    "sentence_furigana": "この郵便物【ゆうびんぶつ】は追跡番号【ついせきばんごう】が付いています。",
+    "meaning": "This mail has a tracking number."
+  },
+  {
+    "sentence": "彼女は海外の大学から奨学金の手紙を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の大学【だいがく】から奨学金【しょうがくきん】の手紙【てがみ】を受【う】け取った。",
+    "meaning": "She received a scholarship letter from an overseas university."
+  },
+  {
+    "sentence": "郵便局は地域社会の重要な一部です。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は地域社会【ちいきしゃかい】の重要【じゅうよう】な一部【いちぶ】です。",
+    "meaning": "The post office is an important part of the community."
+  },
+  {
+    "sentence": "彼が送った小包は壊れていなかった。",
+    "sentence_furigana": "彼【かれ】が送った小包【こ₂つ₁づみ】は壊れていなかった。",
+    "meaning": "The parcel he sent was not damaged."
+  },
+  {
+    "sentence": "この手紙は封筒に入れる必要があります。",
+    "sentence_furigana": "この手紙【てがみ】は封筒【ふう₂とう】に入れる必要【ひつよう】があります。",
+    "meaning": "This letter needs to be put in an envelope."
+  },
+  {
+    "sentence": "彼女は海外の親戚にホリデーカードを送った。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の親戚【しんせき】にホリデーカードを送った。",
+    "meaning": "She sent holiday cards to relatives abroad."
+  },
+  {
+    "sentence": "郵便局は午前8時に開きますか？",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は午前8時【ごぜんよじ】に開きますか？",
+    "meaning": "Does the post office open at 8 AM?"
+  },
+  {
+    "sentence": "彼は重要な書類を fax で送った。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な書類【しょるい】を fax で送った。",
+    "meaning": "He sent important documents by fax."
+  },
+  {
+    "sentence": "郵便番号を正しく記入してください。",
+    "sentence_furigana": "郵便番号【ゆうびんばんごう】を正【ただ】しく記入【きにゅう】してください。",
+    "meaning": "Please fill in the postal code correctly."
+  },
+  {
+    "sentence": "彼女は海外の友人の住所を知りたい。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の友人【ゆうじん】の住所【じゅうしょ】を知りたい。",
+    "meaning": "She wants to know her friend's address abroad."
+  },
+  {
+    "sentence": "郵便局は町の中心部に位置している。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は町【まち】の中心部【ちゅうしんぶ】に位置【いち】している。",
+    "meaning": "The post office is located in the town center."
+  },
+  {
+    "sentence": "彼は海外からのメールをまとめて確認した。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】からのメールをまとめて確認【かくにん】した。",
+    "meaning": "He checked his emails from abroad all at once."
+  },
+  {
+    "sentence": "この小包は壊れやすいので、特別に梱包しました。",
+    "sentence_furigana": "この小包【こ₂つ₁づみ】は壊【こわ】れやすいので、特別【とくべつ】に梱包【こんぽう】しました。",
+    "meaning": "This parcel is fragile, so we packed it specially."
+  },
+  {
+    "sentence": "彼女は友人への手紙をポストに投函した。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】への手紙【てがみ】をポストに投函【とうかん】した。",
+    "meaning": "She dropped the letter to her friend in the mailbox."
+  },
+  {
+    "sentence": "郵便局は新しいサービスを開始した。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は新【あたら】しいサービスを開始【かいし】した。",
+    "meaning": "The post office has started a new service."
+  },
+  {
+    "sentence": "彼は重要な書類をメールで送るべきだ。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な書類【しょるい】をメールで送るべきだ。",
+    "meaning": "He should send the important documents by email."
+  },
+  {
+    "sentence": "この地域の郵便番号は456-7890です。",
+    "sentence_furigana": "この地域【ちいき】の郵便番号【ゆうびんばんごう】は456-7890です。",
+    "meaning": "The postal code for this area is 456-7890."
+  },
+  {
+    "sentence": "彼女は海外の友人にサプライズプレゼントを郵送した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】の友人【ゆうじん】にサプライズプレゼントを郵送【ゆうそう】した。",
+    "meaning": "She mailed a surprise gift to her friends abroad."
+  },
+  {
+    "sentence": "郵便物は通常、翌営業日に配達されます。",
+    "sentence_furigana": "郵便物【ゆうびんぶつ】は通常【つうじょう】、翌営業日【よくえいぎょうび】に配達【はいたつ】されます。",
+    "meaning": "Mail is usually delivered on the next business day."
+  },
+  {
+    "sentence": "彼は古い手紙を読み返していた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い手紙【てがみ】を読返【よみかえ】していた。",
+    "meaning": "He was rereading old letters."
+  },
+  {
+    "sentence": "この小包は航空便で送る方が速い。",
+    "sentence_furigana": "この小包【こ₂つ₁づみ】は航空便【こうくうびん】で送る方【ほう】が速い。",
+    "meaning": "It is faster to send this parcel by airmail."
+  },
+  {
+    "sentence": "彼女は友人からの手紙に感動した。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】からの手紙【てがみ】に感動【かんどう】した。",
+    "meaning": "She was moved by the letter from her friend."
+  },
+  {
+    "sentence": "郵便配達員は重い荷物も運ぶ。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は重【おも】い荷物【にもつ】も運【はこ】ぶ。",
+    "meaning": "The mail carrier also carries heavy packages."
+  }
+]

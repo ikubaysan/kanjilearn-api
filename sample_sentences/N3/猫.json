@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "その猫はとても可愛いです。",
+    "sentence_furigana": "その猫【ねこ】はとても可愛【かわい】いです。",
+    "meaning": "That cat is very cute."
+  },
+  {
+    "sentence": "猫が窓の外を見ています。",
+    "sentence_furigana": "猫【ねこ】が窓【まど】の外【そと】を見【み】ています。",
+    "meaning": "The cat is looking out the window."
+  },
+  {
+    "sentence": "彼女は猫アレルギーを持っています。",
+    "sentence_furigana": "彼女【かのじょ】は猫【ねこ】アレルギーを持【も】っています。",
+    "meaning": "She has a cat allergy."
+  },
+  {
+    "sentence": "子猫が箱の中で眠っています。",
+    "sentence_furigana": "子猫【こねこ】が箱【はこ】の中【なか】で眠【ねむ】っています。",
+    "meaning": "The kitten is sleeping in the box."
+  },
+  {
+    "sentence": "この猫はとても人懐っこいです。",
+    "sentence_furigana": "この猫【ねこ】はとても人懐【ひとなつ】っこいです。",
+    "meaning": "This cat is very friendly."
+  },
+  {
+    "sentence": "猫が屋根の上で昼寝をしています。",
+    "sentence_furigana": "猫【ねこ】が屋根【やね】の上【うえ】で昼寝【ひるね】をしています。",
+    "meaning": "The cat is napping on the roof."
+  },
+  {
+    "sentence": "彼は猫を飼っています。",
+    "sentence_furigana": "彼【かれ】は猫【ねこ】を飼【か】っています。",
+    "meaning": "He owns a cat."
+  },
+  {
+    "sentence": "猫の鳴き声が聞こえます。",
+    "sentence_furigana": "猫【ねこ】の鳴【な】き声【ごえ】が聞【き】こえます。",
+    "meaning": "I can hear the cat's meow."
+  },
+  {
+    "sentence": "公園で野良猫を見ました。",
+    "sentence_furigana": "公園【こうえん】で野良猫【のらねこ】を見【み】ました。",
+    "meaning": "I saw a stray cat in the park."
+  },
+  {
+    "sentence": "猫じゃらしで猫と遊びました。",
+    "sentence_furigana": "猫【ねこ】じゃらしで猫【ねこ】と遊【あそ】びました。",
+    "meaning": "I played with the cat using a feather wand."
+  },
+  {
+    "sentence": "猫は液体のように見えます。",
+    "sentence_furigana": "猫【ねこ】は液体【えきたい】のように見【み】えます。",
+    "meaning": "Cats seem to be like liquid."
+  },
+  {
+    "sentence": "猫の足跡が雪の上にありました。",
+    "sentence_furigana": "猫【ねこ】の足跡【あしあと】が雪【ゆき】の上【うえ】にありました。",
+    "meaning": "There were cat footprints in the snow."
+  },
+  {
+    "sentence": "この絵は猫が描かれています。",
+    "sentence_furigana": "この絵【え】は猫【ねこ】が描【か】かれています。",
+    "meaning": "This painting depicts a cat."
+  },
+  {
+    "sentence": "猫は毛皮のコートを着ています。",
+    "sentence_furigana": "猫【ねこ】は毛皮【けがわ】のコートを着【き】ています。",
+    "meaning": "The cat is wearing a fur coat."
+  },
+  {
+    "sentence": "猫のしっぽがゆっくりと動いています。",
+    "sentence_furigana": "猫【ねこ】のしっぽがゆっくりと動【うご】いています。",
+    "meaning": "The cat's tail is moving slowly."
+  },
+  {
+    "sentence": "猫は高いところに登るのが好きです。",
+    "sentence_furigana": "猫【ねこ】は高【たか】いところ登【のぼ】るのが好【す】きです。",
+    "meaning": "Cats like to climb to high places."
+  },
+  {
+    "sentence": "猫の耳がピクピク動きました。",
+    "sentence_furigana": "猫【ねこ】の耳【みみ】がピクピク動【うご】きました。",
+    "meaning": "The cat's ears twitched."
+  },
+  {
+    "sentence": "その猫は首輪をしています。",
+    "sentence_furigana": "その猫【ねこ】は首輪【くびわ】をしています。",
+    "meaning": "That cat is wearing a collar."
+  },
+  {
+    "sentence": "猫は日向で丸くなって寝ています。",
+    "sentence_furigana": "猫【ねこ】は日向【ひなた】で丸【まる】くなって寝【ね】ています。",
+    "meaning": "The cat is sleeping curled up in the sun."
+  },
+  {
+    "sentence": "猫のひげが顔の横にあります。",
+    "sentence_furigana": "猫【ねこ】のひげが顔【かお】の横【よこ】にあります。",
+    "meaning": "The cat's whiskers are on the side of its face."
+  },
+  {
+    "sentence": "猫がテーブルの下に隠れました。",
+    "sentence_furigana": "猫【ねこ】がテーブルの下【した】に隠【かく】れました。",
+    "meaning": "The cat hid under the table."
+  },
+  {
+    "sentence": "猫は自分の体を舐めています。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の体【からだ】を舐【な】めています。",
+    "meaning": "The cat is licking its body."
+  },
+  {
+    "sentence": "この猫はとても賢いです。",
+    "sentence_furigana": "この猫【ねこ】はとても賢【かしこ】いです。",
+    "meaning": "This cat is very intelligent."
+  },
+  {
+    "sentence": "猫が静かに部屋を歩いています。",
+    "sentence_furigana": "猫【ねこ】が静【しず】かに部屋【へや】を歩【ある】いています。",
+    "meaning": "The cat is walking quietly through the room."
+  },
+  {
+    "sentence": "猫は突然走り出しました。",
+    "sentence_furigana": "猫【ねこ】は突然【とつぜん】走【はし】り出【だ】しました。",
+    "meaning": "The cat suddenly started running."
+  },
+  {
+    "sentence": "猫は夜行性です。",
+    "sentence_furigana": "猫【ねこ】は夜行性【やこうせい】です。",
+    "meaning": "Cats are nocturnal."
+  },
+  {
+    "sentence": "猫の目は暗闇でもよく見えます。",
+    "sentence_furigana": "猫【ねこ】の目【め】は暗闇【くらやみ】でもよく見【み】えます。",
+    "meaning": "Cats' eyes can see well even in the dark."
+  },
+  {
+    "sentence": "猫が窓辺で日向ぼっこしています。",
+    "sentence_furigana": "猫【ねこ】が窓辺【まどべ】で日向【ひなた】ぼっこしています。",
+    "meaning": "The cat is sunbathing by the window."
+  },
+  {
+    "sentence": "猫は箱に入るのが大好きです。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】に入【はい】るのが大好【だいす】きです。",
+    "meaning": "Cats love to get into boxes."
+  },
+  {
+    "sentence": "猫の鳴き声は様々です。",
+    "sentence_furigana": "猫【ねこ】の鳴【な】き声【ごえ】は様々【さまざま】です。",
+    "meaning": "Cat meows vary."
+  },
+  {
+    "sentence": "猫が床の上で伸びをしています。",
+    "sentence_furigana": "猫【ねこ】が床【ゆか】の上【うえ】で伸【の】びをしています。",
+    "meaning": "The cat is stretching on the floor."
+  },
+  {
+    "sentence": "この猫はとても甘えん坊です。",
+    "sentence_furigana": "この猫【ねこ】はとても甘【あま】えん坊【ぼう】です。",
+    "meaning": "This cat is very clingy."
+  },
+  {
+    "sentence": "猫は高いところから飛び降りました。",
+    "sentence_furigana": "猫【ねこ】は高【たか】いところから飛【と】び降【お】りました。",
+    "meaning": "The cat jumped down from a high place."
+  },
+  {
+    "sentence": "猫は眠そうにあくびをしました。",
+    "sentence_furigana": "猫【ねこ】は眠【ねむ】そうにあくびをしました。",
+    "meaning": "The cat yawned sleepily."
+  },
+  {
+    "sentence": "猫の舌はザラザラしています。",
+    "sentence_furigana": "猫【ねこ】の舌【した】はザラザラしています。",
+    "meaning": "A cat's tongue is rough."
+  },
+  {
+    "sentence": "猫は小さな獲物を追いかけます。",
+    "sentence_furigana": "猫【ねこ】は小【ちい】さな獲物【えもの】を追【お】いかけます。",
+    "meaning": "Cats chase small prey."
+  },
+  {
+    "sentence": "猫が静かに近づいてきました。",
+    "sentence_furigana": "猫【ねこ】が静【しず】かに近【ちか】づいてきました。",
+    "meaning": "The cat approached quietly."
+  },
+  {
+    "sentence": "猫は非常に好奇心が強い動物です。",
+    "sentence_furigana": "猫【ねこ】は非常【ひじょう】に好奇心【こうきしん】が強【つよ】い動物【どうぶつ】です。",
+    "meaning": "Cats are very curious animals."
+  },
+  {
+    "sentence": "猫は水をあまり飲みません。",
+    "sentence_furigana": "猫【ねこ】は水【みず】をあまり飲【の】みません。",
+    "meaning": "Cats don't drink much water."
+  },
+  {
+    "sentence": "猫は自分の爪を手入れします。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の爪【つめ】を手入【てい】れします。",
+    "meaning": "Cats groom their claws."
+  },
+  {
+    "sentence": "猫が私の足元にすり寄ってきました。",
+    "sentence_furigana": "猫【ねこ】が私【わたし】の足元【あしもと】にすり寄【よ】ってきました。",
+    "meaning": "The cat rubbed against my legs."
+  },
+  {
+    "sentence": "猫は箱の中に入って眠りました。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】の中【なか】に入【はい】って眠【ねむ】りました。",
+    "meaning": "The cat got into the box and slept."
+  },
+  {
+    "sentence": "この猫は非常に穏やかです。",
+    "sentence_furigana": "この猫【ねこ】は非常【ひじょう】に穏【おだ】やかです。",
+    "meaning": "This cat is very calm."
+  },
+  {
+    "sentence": "猫は時々壁に向かって話します。",
+    "sentence_furigana": "猫【ねこ】は時々【ときどき】壁【かべ】に向【む】かって話【はな】します。",
+    "meaning": "Cats sometimes talk to walls."
+  },
+  {
+    "sentence": "猫が在我膝の上で丸くなっています。",
+    "sentence_furigana": "猫【ねこ】が私【わたし】の膝【ひざ】の上【うえ】で丸【まる】くなっています。",
+    "meaning": "The cat is curled up on my lap."
+  },
+  {
+    "sentence": "猫の毛並みはとても滑らかです。",
+    "sentence_furigana": "猫【ねこ】の毛並【けな】みはとても滑【なめ】らかです。",
+    "meaning": "The cat's fur is very smooth."
+  },
+  {
+    "sentence": "猫は窓から外を眺めていました。",
+    "sentence_furigana": "猫【ねこ】は窓【まど】から外【そと】を眺【なが】めていました。",
+    "meaning": "The cat was looking out the window."
+  },
+  {
+    "sentence": "猫が部屋の隅で丸くなっています。",
+    "sentence_furigana": "猫【ねこ】が部屋【へや】の隅【すみ】で丸【まる】くなっています。",
+    "meaning": "The cat is curled up in the corner of the room."
+  },
+  {
+    "sentence": "猫は驚くと耳を立てます。",
+    "sentence_furigana": "猫【ねこ】は驚【おどろ】くと耳【みみ】を立【た】てます。",
+    "meaning": "Cats perk up their ears when surprised."
+  },
+  {
+    "sentence": "猫は自分の縄張りを守ります。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の縄張【なわば】りを守【まも】ります。",
+    "meaning": "Cats defend their territory."
+  },
+  {
+    "sentence": "この子猫はとても遊び好きです。",
+    "sentence_furigana": "この子猫【こねこ】はとても遊【あそ】び好【ず】きです。",
+    "meaning": "This kitten is very playful."
+  },
+  {
+    "sentence": "猫は時に奇妙な行動をとります。",
+    "sentence_furigana": "猫【ねこ】は時【とき】に奇妙【きみょう】な行動【こうどう】をとります。",
+    "meaning": "Cats sometimes exhibit strange behavior."
+  },
+  {
+    "sentence": "猫は高いところに登るのが得意です。",
+    "sentence_furigana": "猫【ねこ】は高【たか】いところに登【のぼ】るのが得意【とくい】です。",
+    "meaning": "Cats are good at climbing high places."
+  },
+  {
+    "sentence": "猫がベッドの上で寝ています。",
+    "sentence_furigana": "猫【ねこ】がベッドの上【うえ】で寝【ね】ています。",
+    "meaning": "The cat is sleeping on the bed."
+  },
+  {
+    "sentence": "猫は喉を鳴らしています。",
+    "sentence_furigana": "猫【ねこ】は喉【のど】を鳴【な】らしています。",
+    "meaning": "The cat is purring."
+  },
+  {
+    "sentence": "猫の目は閉じられています。",
+    "sentence_furigana": "猫【ねこ】の目【め】は閉【と】じられています。",
+    "meaning": "The cat's eyes are closed."
+  },
+  {
+    "sentence": "猫は箱から顔を出しました。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】から顔【かお】を出【だ】しました。",
+    "meaning": "The cat poked its head out of the box."
+  },
+  {
+    "sentence": "猫は静かに歩いています。",
+    "sentence_furigana": "猫【ねこ】は静【しず】かに歩【ある】いています。",
+    "meaning": "The cat is walking quietly."
+  },
+  {
+    "sentence": "猫は食べ物に興味を示しました。",
+    "sentence_furigana": "猫【ねこ】は食【た】べ物【もの】に興味【きょうみ】を示【しめ】しました。",
+    "meaning": "The cat showed interest in the food."
+  },
+  {
+    "sentence": "猫は窓の外の鳥を見ています。",
+    "sentence_furigana": "猫【ねこ】は窓【まど】の外【そと】の鳥【とり】を見【み】ています。",
+    "meaning": "The cat is watching the bird outside the window."
+  },
+  {
+    "sentence": "猫は日当たりの良い場所を探しています。",
+    "sentence_furigana": "猫【ねこ】は日当【ひあ】たりの良【よ】い場所【ばしょ】を探【さが】しています。",
+    "meaning": "The cat is looking for a sunny spot."
+  },
+  {
+    "sentence": "猫が私に近づいてきました。",
+    "sentence_furigana": "猫【ねこ】が私【わたし】に近【ちか】づいてきました。",
+    "meaning": "The cat came closer to me."
+  },
+  {
+    "sentence": "猫は自分の体を舐めて清潔を保っています。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の体【からだ】を舐【な】めて清潔【せいけつ】を保【たも】っています。",
+    "meaning": "Cats keep themselves clean by licking their bodies."
+  },
+  {
+    "sentence": "猫は椅子の上で丸くなっています。",
+    "sentence_furigana": "猫【ねこ】は椅子【いす】の上【うえ】で丸【まる】くなっています。",
+    "meaning": "The cat is curled up on the chair."
+  },
+  {
+    "sentence": "猫の目は大きく開いています。",
+    "sentence_furigana": "猫【ねこ】の目【め】は的大【おお】きく開【あ】いています。",
+    "meaning": "The cat's eyes are wide open."
+  },
+  {
+    "sentence": "猫は高い音に驚きました。",
+    "sentence_furigana": "猫【ねこ】は高【たか】い音【おと】に驚【おどろ】きました。",
+    "meaning": "The cat was startled by the loud noise."
+  },
+  {
+    "sentence": "猫は獲物を捕まえようとしています。",
+    "sentence_furigana": "猫【ねこ】は獲物【えもの】を捕【と】まえようとしています。",
+    "meaning": "The cat is trying to catch prey."
+  },
+  {
+    "sentence": "猫は窓の外をじっと見ています。",
+    "sentence_furigana": "猫【ねこ】は窓【まど】の外【そと】をじっと見【み】ています。",
+    "meaning": "The cat is staring out the window."
+  },
+  {
+    "sentence": "猫は箱の中にすっぽり収まりました。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】の中【なか】にすっぽり収【おさ】まりました。",
+    "meaning": "The cat fit perfectly into the box."
+  },
+  {
+    "sentence": "猫は静かに部屋の中を歩き回っています。",
+    "sentence_furigana": "猫【ねこ】は静【しず】かに部屋【へや】の中【なか】を歩【ある】き回【まわ】っています。",
+    "meaning": "The cat is wandering quietly around the room."
+  },
+  {
+    "sentence": "猫は私の手に頭をこすりつけました。",
+    "sentence_furigana": "猫【ねこ】は私【わたし】の手【て】に頭【あたま】をこすりつけました。",
+    "meaning": "The cat rubbed its head against my hand."
+  },
+  {
+    "sentence": "猫は自分の体を毛繕いしています。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の体【からだ】を毛繕【けづく】いしています。",
+    "meaning": "The cat is grooming itself."
+  },
+  {
+    "sentence": "猫は日向でくつろいでいます。",
+    "sentence_furigana": "猫【ねこ】は日向【ひなた】でくつろいでいます。",
+    "meaning": "The cat is relaxing in the sun."
+  },
+  {
+    "sentence": "猫のしっぽが左右に揺れています。",
+    "sentence_furigana": "猫【ねこ】のしっぽが左右【さゆう】に揺【ゆ】れています。",
+    "meaning": "The cat's tail is swaying from side to side."
+  },
+  {
+    "sentence": "猫は箱から出てきました。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】から出【で】てきました。",
+    "meaning": "The cat came out of the box."
+  },
+  {
+    "sentence": "猫は窓辺に座っています。",
+    "sentence_furigana": "猫【ねこ】は窓辺【まどべ】に座【すわ】っています。",
+    "meaning": "The cat is sitting by the window."
+  },
+  {
+    "sentence": "猫は私を見つめています。",
+    "sentence_furigana": "猫【ねこ】は私【わたし】を見【み】つめています。",
+    "meaning": "The cat is staring at me."
+  },
+  {
+    "sentence": "猫は椅子の上で伸びをしています。",
+    "sentence_furigana": "猫【ねこ】は椅子【いす】の上【うえ】で伸【の】びをしています。",
+    "meaning": "The cat is stretching on the chair."
+  },
+  {
+    "sentence": "猫は高いところから飛び降りることができます。",
+    "sentence_furigana": "猫【ねこ】は高【たか】いところから飛【と】び降【お】りることができます。",
+    "meaning": "Cats can jump down from high places."
+  },
+  {
+    "sentence": "猫は食べ物を探しています。",
+    "sentence_furigana": "猫【ねこ】は食【た】べ物【もの】を探【さが】しています。",
+    "meaning": "The cat is looking for food."
+  },
+  {
+    "sentence": "猫は静かに寝息を立てています。",
+    "sentence_furigana": "猫【ねこ】は静【しず】かに寝息【ねいき】を立【た】てています。",
+    "meaning": "The cat is breathing softly in its sleep."
+  },
+  {
+    "sentence": "猫は突然走り回ります。",
+    "sentence_furigana": "猫【ねこ】は突然【とつぜん】走【はし】り回【まわ】ります。",
+    "meaning": "Cats suddenly run around."
+  },
+  {
+    "sentence": "猫は自分の爪を研いでいます。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の爪【つめ】を研【と】いでいます。",
+    "meaning": "The cat is sharpening its claws."
+  },
+  {
+    "sentence": "猫は箱の中で丸くなっています。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】の中【なか】で丸【まる】くなっています。",
+    "meaning": "The cat is curled up in the box."
+  },
+  {
+    "sentence": "猫は日向で寝るのが好きです。",
+    "sentence_furigana": "猫【ねこ】は日向【ひなた】で寝【ね】るのが好【す】きです。",
+    "meaning": "Cats like to sleep in the sun."
+  },
+  {
+    "sentence": "猫の目は閉じられ、リラックスしています。",
+    "sentence_furigana": "猫【ねこ】の目【め】は閉【と】じられ、リラックスしています。",
+    "meaning": "The cat's eyes are closed, and it is relaxed."
+  },
+  {
+    "sentence": "猫は箱から顔を覗かせました。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】から顔【かお】を覗【のぞ】かせました。",
+    "meaning": "The cat peeked its face out of the box."
+  },
+  {
+    "sentence": "猫は静かに歩いてきました。",
+    "sentence_furigana": "猫【ねこ】は静【しず】かに歩【ある】いてきました。",
+    "meaning": "The cat walked over quietly."
+  },
+  {
+    "sentence": "猫は食べ物に興味津々です。",
+    "sentence_furigana": "猫【ねこ】は食【た】べ物【もの】に興味津々【きょうみしんしん】です。",
+    "meaning": "The cat is very interested in the food."
+  },
+  {
+    "sentence": "猫は窓の外で遊んでいます。",
+    "sentence_furigana": "猫【ねこ】は窓【まど】の外【そと】で遊【あそ】んでいます。",
+    "meaning": "The cat is playing outside the window."
+  },
+  {
+    "sentence": "猫は日当たりの良い場所を見つけました。",
+    "sentence_furigana": "猫【ねこ】は日当【ひあ】たりの良【よ】い場所【ばしょ】を見【み】つけました。",
+    "meaning": "The cat found a sunny spot."
+  },
+  {
+    "sentence": "猫が私の足にすり寄ってきました。",
+    "sentence_furigana": "猫【ねこ】が私【わたし】の足【あし】にすり寄【よ】ってきました。",
+    "meaning": "The cat rubbed against my feet."
+  },
+  {
+    "sentence": "猫は自分の体をきれいにしています。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の体【からだ】をきれいにしています。",
+    "meaning": "The cat is cleaning its body."
+  },
+  {
+    "sentence": "猫は箱の上に乗っています。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】の上【うえ】に乗【の】っています。",
+    "meaning": "The cat is on top of the box."
+  },
+  {
+    "sentence": "猫の毛並みは非常に柔らかいです。",
+    "sentence_furigana": "猫【ねこ】の毛並【けな】みは非常【ひじょう】に柔【やわ】らかいです。",
+    "meaning": "The cat's fur is very soft."
+  },
+  {
+    "sentence": "猫は窓の外の景色を見ていました。",
+    "sentence_furigana": "猫【ねこ】は窓【まど】の外【そと】の景色【けしき】を見【み】ていました。",
+    "meaning": "The cat was watching the scenery outside the window."
+  },
+  {
+    "sentence": "猫が部屋の真ん中で寝ています。",
+    "sentence_furigana": "猫【ねこ】が部屋【へや】の真ん中【まんなか】で寝【ね】ています。",
+    "meaning": "The cat is sleeping in the middle of the room."
+  },
+  {
+    "sentence": "猫は小さな物音に反応します。",
+    "sentence_furigana": "猫【ねこ】は小【ちい】さな物音【ものおと】に反応【はんのう】します。",
+    "meaning": "Cats react to small sounds."
+  },
+  {
+    "sentence": "猫は自分の体を温めています。",
+    "sentence_furigana": "猫【ねこ】は自分【じぶん】の体【からだ】を温【あたた】めています。",
+    "meaning": "The cat is warming its body."
+  },
+  {
+    "sentence": "猫は箱から飛び出しました。",
+    "sentence_furigana": "猫【ねこ】は箱【はこ】から飛【と】び出【だ】しました。",
+    "meaning": "The cat jumped out of the box."
+  },
+  {
+    "sentence": "猫は静かに近づいてきました。",
+    "sentence_furigana": "猫【ねこ】は静【しず】かに近【ちか】づいてきました。",
+    "meaning": "The cat approached quietly."
+  },
+  {
+    "sentence": "猫は食べ物に興味を示しませんでした。",
+    "sentence_furigana": "猫【ねこ】は食【た】べ物【もの】に興味【きょうみ】を示【しめ】しませんでした。",
+    "meaning": "The cat did not show interest in the food."
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "私は学生です。",
+    "sentence_furigana": "私【わたし】は学生【がくせい】です。",
+    "meaning": "I am a student."
+  },
+  {
+    "sentence": "これは私の本です。",
+    "sentence_furigana": "これ【これ】は私【わたし】の}{本【ほん】です。",
+    "meaning": "This is my book."
+  },
+  {
+    "sentence": "私の名前は山田です。",
+    "sentence_furigana": "私【わたし】の名前【なまえ】は山田【やまだ】です。",
+    "meaning": "My name is Yamada."
+  },
+  {
+    "sentence": "私は東京に住んでいます。",
+    "sentence_furigana": "私【わたし】は東京【とうきょう】に住【す】んでいます。",
+    "meaning": "I live in Tokyo."
+  },
+  {
+    "sentence": "私について話してください。",
+    "sentence_furigana": "私【わたし】について話【はな】してください。",
+    "meaning": "Please talk about me."
+  },
+  {
+    "sentence": "これは私の意見です。",
+    "sentence_furigana": "これ【これ】は私【わたし】の}{意見【いけん】です。",
+    "meaning": "This is my opinion."
+  },
+  {
+    "sentence": "私はそれを楽しみにしています。",
+    "sentence_furigana": "私【わたし】はそれを楽【たの】しみにしています。",
+    "meaning": "I am looking forward to it."
+  },
+  {
+    "sentence": "私にそれをさせてください。",
+    "sentence_furigana": "私【わたし】にそれをさせてください。",
+    "meaning": "Please let me do that."
+  },
+  {
+    "sentence": "私は彼を助けました。",
+    "sentence_furigana": "私【わたし】は彼【かれ】を助【たす】けました。",
+    "meaning": "I helped him."
+  },
+  {
+    "sentence": "これは私の部屋です。",
+    "sentence_furigana": "これ【これ】は私【わたし】の}{部屋【へや】です。",
+    "meaning": "This is my room."
+  },
+  {
+    "sentence": "私達は友達です。",
+    "sentence_furigana": "私達【わたしたち】は友達【ともだち】です。",
+    "meaning": "We are friends."
+  },
+  {
+    "sentence": "私の夢はパイロットになることです。",
+    "sentence_furigana": "私【わたし】の}{夢【ゆめ】はパイロットになる}{こと}{です。",
+    "meaning": "My dream is to become a pilot."
+  },
+  {
+    "sentence": "私から何か質問はありますか。",
+    "sentence_furigana": "私【わたし】から}{何}{か}{質問【しつもん】はありますか。",
+    "meaning": "Do you have any questions for me?"
+  },
+  {
+    "sentence": "私は彼に会いたいです。",
+    "sentence_furigana": "私【わたし】は彼【かれ】に}{会}{いたい}{です。",
+    "meaning": "I want to meet him."
+  },
+  {
+    "sentence": "私達は一緒に働いています。",
+    "sentence_furigana": "私達【わたしたち】は}{一緒【いっしょ】に}{働【はたら】いています。",
+    "meaning": "We are working together."
+  },
+  {
+    "sentence": "私はこの映画が好きです。",
+    "sentence_furigana": "私【わたし】はこの}{映画【えいが】が好き【す】きです。",
+    "meaning": "I like this movie."
+  },
+  {
+    "sentence": "私達は明日パーティーをします。",
+    "sentence_furigana": "私達【わたしたち】は}{明日【あした】}{パーティーを}{します。",
+    "meaning": "We will have a party tomorrow."
+  },
+  {
+    "sentence": "私にとって、これは重要です。",
+    "sentence_furigana": "私【わたし】にとって、これ【これ】は重要【じゅうよう】です。",
+    "meaning": "For me, this is important."
+  },
+  {
+    "sentence": "私はあなたの助けに感謝します。",
+    "sentence_furigana": "私【わたし】は}{あなた}{の}{助}{け}{に}{感謝【かんしゃ】します。",
+    "meaning": "I am grateful for your help."
+  },
+  {
+    "sentence": "私の意見を聞いてください。",
+    "sentence_furigana": "私【わたし】の}{意見【いけん】を}{聞}{いて}{ください。",
+    "meaning": "Please listen to my opinion."
+  },
+  {
+    "sentence": "私は彼女と話しました。",
+    "sentence_furigana": "私【わたし】は}{彼女【かのじょ】と}{話}{しました。",
+    "meaning": "I spoke with her."
+  },
+  {
+    "sentence": "私達は良い関係を持っています。",
+    "sentence_furigana": "私達【わたしたち】は}{良い}{関係【かんけい】を}{持}{っています。",
+    "meaning": "We have a good relationship."
+  },
+  {
+    "sentence": "私はこの本を読みました。",
+    "sentence_furigana": "私【わたし】はこの}{本【ほん】を}{読}{みました。",
+    "meaning": "I read this book."
+  },
+  {
+    "sentence": "私達は新しい家を買いました。",
+    "sentence_furigana": "私達【わたしたち】は}{新}{しい}{家}{を}{買}{いました。",
+    "meaning": "We bought a new house."
+  },
+  {
+    "sentence": "私は彼を尊敬しています。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】を}{尊敬【そんけい】しています。",
+    "meaning": "I respect him."
+  },
+  {
+    "sentence": "私の人生の目標は世界を旅することです。",
+    "sentence_furigana": "私【わたし】の}{人生【じんせい】の}{目標【もくひょう】は}{世界【せかい】を}{旅}{すること}{です。",
+    "meaning": "My life goal is to travel the world."
+  },
+  {
+    "sentence": "私にそれを教えてください。",
+    "sentence_furigana": "私【わたし】にそれを}{教}{えて}{ください。",
+    "meaning": "Please teach me that."
+  },
+  {
+    "sentence": "私はこの曲が好きです。",
+    "sentence_furigana": "私【わたし】はこの}{曲}{を}{好き}{です。",
+    "meaning": "I like this song."
+  },
+  {
+    "sentence": "私達は多くのことを学びました。",
+    "sentence_furigana": "私達【わたしたち】は}{多}{く}{の}{こと}{を}{学}{びました。",
+    "meaning": "We learned a lot."
+  },
+  {
+    "sentence": "私はあなたを信頼しています。",
+    "sentence_furigana": "私【わたし】は}{あなた}{を}{信頼【しんらい】しています。",
+    "meaning": "I trust you."
+  },
+  {
+    "sentence": "私の考えは少し違います。",
+    "sentence_furigana": "私【わたし】の}{考}{え}{は}{少}{し}{違}{います。",
+    "meaning": "My thoughts are a little different."
+  },
+  {
+    "sentence": "私は彼に感謝の気持ちを伝えたい。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】に}{感謝【かんしゃ】の}{気持}{ち}{を}{伝}{えたい。",
+    "meaning": "I want to express my gratitude to him."
+  },
+  {
+    "sentence": "私達は共に成長しました。",
+    "sentence_furigana": "私達【わたしたち】は}{共}{に}{成長【せいちょう】しました。",
+    "meaning": "We grew together."
+  },
+  {
+    "sentence": "私はこの問題を解決する方法を見つけました。",
+    "sentence_furigana": "私【わたし】はこの}{問題【もんだい】を}{解決【かいけつ】する}{方法【ほうほう】を}{見}{つけました。",
+    "meaning": "I found a way to solve this problem."
+  },
+  {
+    "sentence": "私達は家族です。",
+    "sentence_furigana": "私達【わたしたち】は}{家族【かぞく】です。",
+    "meaning": "We are family."
+  },
+  {
+    "sentence": "私は新しいスキルを学びたいです。",
+    "sentence_furigana": "私【わたし】は}{新}{しい}{スキル}{を}{学}{びたい}{です。",
+    "meaning": "I want to learn new skills."
+  },
+  {
+    "sentence": "私の仕事は教師です。",
+    "sentence_furigana": "私【わたし】の}{仕事【しごと】は}{教師【きょうし】です。",
+    "meaning": "My job is a teacher."
+  },
+  {
+    "sentence": "私達は歴史について学びます。",
+    "sentence_furigana": "私達【わたしたち】は}{歴史【れきし】について}{学}{びます。",
+    "meaning": "We learn about history."
+  },
+  {
+    "sentence": "私は彼を信じています。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】を}{信}{じています。",
+    "meaning": "I believe in him."
+  },
+  {
+    "sentence": "私の故郷は日本です。",
+    "sentence_furigana": "私【わたし】の}{故郷【こきょう】は}{日本【にほん】です。",
+    "meaning": "My hometown is Japan."
+  },
+  {
+    "sentence": "私達は新しいプロジェクトを開始します。",
+    "sentence_furigana": "私達【わたしたち】は}{新}{しい}{プロジェクト}{を}{開始【かいし】します。",
+    "meaning": "We will start a new project."
+  },
+  {
+    "sentence": "私は将来医者になりたいです。",
+    "sentence_furigana": "私【わたし】は}{将来【しょうらい】}{医者【いしゃ】に}{なりたい}{です。",
+    "meaning": "I want to become a doctor in the future."
+  },
+  {
+    "sentence": "私の好きな季節は春です。",
+    "sentence_furigana": "私【わたし】の}{好}{き}{な}{季節【きせつ】は}{春【はる】です。",
+    "meaning": "My favorite season is spring."
+  },
+  {
+    "sentence": "私達は素晴らしい経験をしました。",
+    "sentence_furigana": "私達【わたしたち】は}{素晴}{らしい}{経験【けいけん】を}{しました。",
+    "meaning": "We had a wonderful experience."
+  },
+  {
+    "sentence": "私は彼に手紙を書きました。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】に}{手}{紙}{を}{書}{きました。",
+    "meaning": "I wrote a letter to him."
+  },
+  {
+    "sentence": "私の趣味は読書です。",
+    "sentence_furigana": "私【わたし】の}{趣味【しゅみ】は}{読}{書【どくしょ】です。",
+    "meaning": "My hobby is reading."
+  },
+  {
+    "sentence": "私達は未来を創造します。",
+    "sentence_furigana": "私達【わたしたち】は}{未来【みらい】を}{創造【そうぞう】します。",
+    "meaning": "We create the future."
+  },
+  {
+    "sentence": "私はこの音楽を聴いています。",
+    "sentence_furigana": "私【わたし】はこの}{音楽【おんがく】を}{聴}{いています。",
+    "meaning": "I am listening to this music."
+  },
+  {
+    "sentence": "私の仕事は大変ですがやりがいがあります。",
+    "sentence_furigana": "私【わたし】の}{仕事【しごと】は}{大変【たいへん】ですが}{やりがい}{があります。",
+    "meaning": "My job is tough but rewarding."
+  },
+  {
+    "sentence": "私達は新しい友達を作りました。",
+    "sentence_furigana": "私達【わたしたち】は}{新}{しい}{友達【ともだち】を}{作}{りました。",
+    "meaning": "We made new friends."
+  },
+  {
+    "sentence": "私はこの課題に取り組んでいます。",
+    "sentence_furigana": "私【わたし】はこの}{課題【かだい】に}{取}{り組}{んでいます。",
+    "meaning": "I am working on this task."
+  },
+  {
+    "sentence": "私の長所は忍耐強いことです。",
+    "sentence_furigana": "私【わたし】の}{長所【ちょうしょ】は}{忍}{耐}{強}{い}{こと}{です。",
+    "meaning": "My strength is my perseverance."
+  },
+  {
+    "sentence": "私達は共に目標を達成しました。",
+    "sentence_furigana": "私達【わたしたち】は}{共}{に}{目標【もくひょう】を}{達}{成}{しました。",
+    "meaning": "We achieved our goals together."
+  },
+  {
+    "sentence": "私はこのレポートを完成させなければなりません。",
+    "sentence_furigana": "私【わたし】はこの}{レポート}{を}{完成【かんせい】させなければなりません。",
+    "meaning": "I have to complete this report."
+  },
+  {
+    "sentence": "私の母は料理が上手です。",
+    "sentence_furigana": "私【わたし】の}{母}{は}{料理【りょうり】が}{上手【じょうず】です。",
+    "meaning": "My mother is good at cooking."
+  },
+  {
+    "sentence": "私達は文化交流を深めたいです。",
+    "sentence_furigana": "私達【わたしたち】は}{文化【ぶんか】}{交流【こうりゅう】を}{深}{めたい}{です。",
+    "meaning": "We want to deepen cultural exchange."
+  },
+  {
+    "sentence": "私は彼にアドバイスを求めました。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】に}{アドバイス}{を}{求}{めました。",
+    "meaning": "I asked him for advice."
+  },
+  {
+    "sentence": "私の誕生日は6月です。",
+    "sentence_furigana": "私【わたし】の}{誕生日【たんじょうび】は}{6}{月}{です。",
+    "meaning": "My birthday is in June."
+  },
+  {
+    "sentence": "私達は新しい技術を研究しています。",
+    "sentence_furigana": "私達【わたしたち】は}{新}{しい}{技術【ぎじゅつ】を}{研究【けんきゅう】しています。",
+    "meaning": "We are researching new technology."
+  },
+  {
+    "sentence": "私は彼の意見に同意します。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】の}{意見【いけん】に}{同意【どうい】します。",
+    "meaning": "I agree with his opinion."
+  },
+  {
+    "sentence": "私の夢は小説家になることです。",
+    "sentence_furigana": "私【わたし】の}{夢【ゆめ】は}{小説家【しょうせつか】に}{なる}{こと}{です。",
+    "meaning": "My dream is to become a novelist."
+  },
+  {
+    "sentence": "私達は環境保護に貢献したいです。",
+    "sentence_furigana": "私達【わたしたち】は}{環境【かんきょう】}{保護【ほご】に}{貢献【こうけん】したい}{です。",
+    "meaning": "We want to contribute to environmental protection."
+  },
+  {
+    "sentence": "私は新しい言語を学びたいと思っています。",
+    "sentence_furigana": "私【わたし】は}{新}{しい}{言語【げんご】を}{学}{びたい}{と}{思}{っています。",
+    "meaning": "I am thinking of learning a new language."
+  },
+  {
+    "sentence": "私の趣味は写真撮影です。",
+    "sentence_furigana": "私【わたし】の}{趣味【しゅみ】は}{写真【しゃしん】}{撮影【さつえい】です。",
+    "meaning": "My hobby is photography."
+  },
+  {
+    "sentence": "私達は共に困難を乗り越えました。",
+    "sentence_furigana": "私達【わたしたち】は}{共}{に}{困難【こんなん】を}{乗}{り越}{えました。",
+    "meaning": "We overcame difficulties together."
+  },
+  {
+    "sentence": "私はこの提案についてさらに検討します。",
+    "sentence_furigana": "私【わたし】はこの}{提案【ていあん】について}{さら}{に}{検討【けんとう】します。",
+    "meaning": "I will consider this proposal further."
+  },
+  {
+    "sentence": "私の子供はとても活発です。",
+    "sentence_furigana": "私【わたし】の}{子供}{は}{とても}{活}{発}{です。",
+    "meaning": "My child is very active."
+  },
+  {
+    "sentence": "私達は異文化理解を促進します。",
+    "sentence_furigana": "私達【わたしたち】は}{異}{文化【いぶんか】}{理解【りかい】を}{促進【そくしん】します。",
+    "meaning": "We promote cross-cultural understanding."
+  },
+  {
+    "sentence": "私は彼に感謝の手紙を書くつもりです。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】に}{感謝【かんしゃ】の}{手}{紙}{を}{書}{く}{つもり}{です。",
+    "meaning": "I plan to write a thank-you letter to him."
+  },
+  {
+    "sentence": "私の目標は、より良い自分になることです。",
+    "sentence_furigana": "私【わたし】の}{目標【もくひょう】は、}{より}{良}{い}{自分}{に}{なる}{こと}{です。",
+    "meaning": "My goal is to become a better person."
+  },
+  {
+    "sentence": "私達は持続可能な社会を目指します。",
+    "sentence_furigana": "私達【わたしたち】は}{持}{続}{可能}{な}{社会【しゃかい】を}{目}{指}{します。",
+    "meaning": "We aim for a sustainable society."
+  },
+  {
+    "sentence": "私は彼の成功を心から願っています。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】の}{成功【せいこう】を}{心}{から}{願}{っています。",
+    "meaning": "I sincerely wish him success."
+  },
+  {
+    "sentence": "私の好きな飲み物はコーヒーです。",
+    "sentence_furigana": "私【わたし】の}{好}{き}{な}{飲}{み}{物}{は}{コーヒー}{です。",
+    "meaning": "My favorite drink is coffee."
+  },
+  {
+    "sentence": "私達は友情を大切にします。",
+    "sentence_furigana": "私達【わたしたち】は}{友情【ゆうじょう】を}{大切}{にします。",
+    "meaning": "We value friendship."
+  },
+  {
+    "sentence": "私はこの芸術作品に感動しました。",
+    "sentence_furigana": "私【わたし】はこの}{芸術}{作品【さくひん】に}{感動【かんどう】しました。",
+    "meaning": "I was moved by this artwork."
+  },
+  {
+    "sentence": "私のアイデアはユニークだと思います。",
+    "sentence_furigana": "私【わたし】の}{アイデア}{は}{ユニーク}{だと}{思}{います。",
+    "meaning": "I think my idea is unique."
+  },
+  {
+    "sentence": "私達は平和な世界を築きます。",
+    "sentence_furigana": "私達【わたしたち】は}{平和}{な}{世界【せかい】を}{築}{きます。",
+    "meaning": "We build a peaceful world."
+  },
+  {
+    "sentence": "私は彼に励まされました。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】に}{励}{ま}{されました。",
+    "meaning": "I was encouraged by him."
+  },
+  {
+    "sentence": "私の強みは問題解決能力です。",
+    "sentence_furigana": "私【わたし】の}{強}{み}{は}{問題【もんだい】}{解決【かいけつ】}{能力【のうりょく】です。",
+    "meaning": "My strength is problem-solving ability."
+  },
+  {
+    "sentence": "私達は互いに協力します。",
+    "sentence_furigana": "私達【わたしたち】は}{互}{に}{協力【きょうりょく】します。",
+    "meaning": "We cooperate with each other."
+  },
+  {
+    "sentence": "私はこの新しい挑戦に興奮しています。",
+    "sentence_furigana": "私【わたし】はこの}{新}{しい}{挑戦【ちょうせん】に}{興}{奮}{しています。",
+    "meaning": "I am excited about this new challenge."
+  },
+  {
+    "sentence": "私の家族は皆、私を応援してくれます。",
+    "sentence_furigana": "私【わたし】の}{家族}{は}{皆}{、}{私}{を}{応援【おうえん】してくれます。",
+    "meaning": "My family all supports me."
+  },
+  {
+    "sentence": "私達は多様性を尊重します。",
+    "sentence_furigana": "私達【わたしたち】は}{多様}{性}{を}{尊重【そんじょう】します。",
+    "meaning": "We respect diversity."
+  },
+  {
+    "sentence": "私は彼の意見を尊重します。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】の}{意見【いけん】を}{尊重【そんじょう】します。",
+    "meaning": "I respect his opinion."
+  },
+  {
+    "sentence": "私の好きな色は青です。",
+    "sentence_furigana": "私【わたし】の}{好}{き}{な}{色}{は}{青}{です。",
+    "meaning": "My favorite color is blue."
+  },
+  {
+    "sentence": "私達は知識を共有します。",
+    "sentence_furigana": "私達【わたしたち】は}{知識【ちしき】を}{共有【きょうゆう】します。",
+    "meaning": "We share knowledge."
+  },
+  {
+    "sentence": "私はこの音楽からインスピレーションを得ます。",
+    "sentence_furigana": "私【わたし】はこの}{音楽【おんがく】から}{インスピレーション}{を}{得}{ます。",
+    "meaning": "I get inspiration from this music."
+  },
+  {
+    "sentence": "私の経験はあなたにとって役立つでしょう。",
+    "sentence_furigana": "私【わたし】の}{経験【けいけん】は}{あなた}{にとって}{役}{立つ}{でしょう。",
+    "meaning": "My experience will be useful to you."
+  },
+  {
+    "sentence": "私達は新しい可能性を探求します。",
+    "sentence_furigana": "私達【わたしたち】は}{新}{しい}{可能}{性}{を}{探}{求}{します。",
+    "meaning": "We explore new possibilities."
+  },
+  {
+    "sentence": "私は彼の決断を支持します。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】の}{決}{断}{を}{支持【しじ】します。",
+    "meaning": "I support his decision."
+  },
+  {
+    "sentence": "私の長所は協調性です。",
+    "sentence_furigana": "私【わたし】の}{長所【ちょうしょ】は}{協}{調}{性}{です。",
+    "meaning": "My strength is cooperativeness."
+  },
+  {
+    "sentence": "私達は未来への希望を抱いています。",
+    "sentence_furigana": "私達【わたしたち】は}{未来【みらい】}{への}{希望【きぼう】を}{抱}{いています。",
+    "meaning": "We hold hope for the future."
+  },
+  {
+    "sentence": "私はこの経験から多くを学びました。",
+    "sentence_furigana": "私【わたし】はこの}{経験【けいけん】から}{多}{く}{を}{学}{びました。",
+    "meaning": "I learned a lot from this experience."
+  },
+  {
+    "sentence": "私の心はあなたと共にあります。",
+    "sentence_furigana": "私【わたし】の}{心}{は}{あなた}{と}{共}{に}{あります。",
+    "meaning": "My heart is with you."
+  },
+  {
+    "sentence": "私達は革新を追求します。",
+    "sentence_furigana": "私達【わたしたち】は}{革}{新}{を}{追求【ついきゅう】します。",
+    "meaning": "We pursue innovation."
+  },
+  {
+    "sentence": "私は彼の考えに感銘を受けました。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】の}{考}{え}{に}{感}{銘}{を受}{けました。",
+    "meaning": "I was impressed by his ideas."
+  },
+  {
+    "sentence": "私の趣味は旅行です。",
+    "sentence_furigana": "私【わたし】の}{趣味【しゅみ】は}{旅行【りょこう】です。",
+    "meaning": "My hobby is traveling."
+  },
+  {
+    "sentence": "私達は情熱を持って取り組みます。",
+    "sentence_furigana": "私達【わたしたち】は}{情}{熱}{を}{持}{って}{取}{り}{組}{みます。",
+    "meaning": "We tackle with passion."
+  },
+  {
+    "sentence": "私はこの芸術に心を奪われました。",
+    "sentence_furigana": "私【わたし】はこの}{芸術}{に}{心}{を}{奪}{われました。",
+    "meaning": "I was captivated by this art."
+  },
+  {
+    "sentence": "私の人生の喜びは、皆で分かち合うことです。",
+    "sentence_furigana": "私【わたし】の}{人生【じんせい】の}{喜}{び}{は、}{皆}{で}{分}{かち}{合う}{こと}{です。",
+    "meaning": "The joy of my life is to share with everyone."
+  },
+  {
+    "sentence": "私達は調和を重んじます。",
+    "sentence_furigana": "私達【わたしたち】は}{調}{和}{を}{重}{んじます。",
+    "meaning": "We emphasize harmony."
+  },
+  {
+    "sentence": "私は彼の勇気に感銘を受けました。",
+    "sentence_furigana": "私【わたし】は}{彼【かれ】の}{勇}{気}{に}{感}{銘}{を受}{けました。",
+    "meaning": "I was impressed by his courage."
+  },
+  {
+    "sentence": "私の最も大切なものは家族です。",
+    "sentence_furigana": "私【わたし】の}{最}{も}{大}{切}{な}{もの}{は}{家族}{です。",
+    "meaning": "What is most important to me is my family."
+  },
+  {
+    "sentence": "私達は持続可能な開発目標を支持します。",
+    "sentence_furigana": "私達【わたしたち】は}{持}{続}{可能}{な}{開発【かいはつ】}{目標【もくひょう】を}{支持【しじ】します。",
+    "meaning": "We support the Sustainable Development Goals."
+  },
+  {
+    "sentence": "私はこの音楽から元気をもらいます。",
+    "sentence_furigana": "私【わたし】はこの}{音楽【おんがく】から}{元気}{を}{もら}{います。",
+    "meaning": "I get energy from this music."
+  }
+]

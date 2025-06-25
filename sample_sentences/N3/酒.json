@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "この酒はとても美味しいです。",
+    "sentence_furigana": "この酒【さけ】はとても美味【び】しいです。",
+    "meaning": "This sake is very delicious."
+  },
+  {
+    "sentence": "彼は毎晩酒を飲みます。",
+    "sentence_furigana": "彼【かれ】は毎晩【まいばん】酒【さけ】を飲【の】みます。",
+    "meaning": "He drinks alcohol every night."
+  },
+  {
+    "sentence": "お酒は二十歳になってから飲みましょう。",
+    "sentence_furigana": "お酒【さけ】は二十歳【はたち】になってから飲【の】みましょう。",
+    "meaning": "Let's drink alcohol after you turn twenty."
+  },
+  {
+    "sentence": "父は酒を飲むと饒舌になる。",
+    "sentence_furigana": "父【ちち】は酒【さけ】を飲【の】むと饒舌【じょうぜつ】になる。",
+    "meaning": "My father becomes talkative when he drinks."
+  },
+  {
+    "sentence": "一杯の酒が疲れを癒してくれる。",
+    "sentence_furigana": "一杯【いっぱい】の酒【さけ】が疲【つか】れを癒【いや】してくれる。",
+    "meaning": "A glass of sake soothes my fatigue."
+  },
+  {
+    "sentence": "日本酒の酒蔵を見学しました。",
+    "sentence_furigana": "日本酒【にほんしゅ】の酒蔵【さけぐら】を見学【けんがく】しました。",
+    "meaning": "I toured a sake brewery."
+  },
+  {
+    "sentence": "この料理には酒が欠かせません。",
+    "sentence_furigana": "この料理【りょうり】には酒【さけ】が欠【か】かせません。",
+    "meaning": "Sake is indispensable for this dish."
+  },
+  {
+    "sentence": "私はあまり酒に強くありません。",
+    "sentence_furigana": "私【わたし】はあまり酒【さけ】に強【つよ】くありません。",
+    "meaning": "I am not very strong against alcohol."
+  },
+  {
+    "sentence": "彼は昔、酒屋を営んでいました。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】、酒屋【さかや】を営【いとな】んでいました。",
+    "meaning": "He used to run a liquor store in the past."
+  },
+  {
+    "sentence": "酒税の改正について話し合いました。",
+    "sentence_furigana": "酒税【しゅぜい】の改正【かいせい】について話【はな】し合【あ】いました。",
+    "meaning": "We discussed the revision of liquor tax."
+  },
+  {
+    "sentence": "雨の中、酒屋で傘を買いました。",
+    "sentence_furigana": "雨【あめ】の中【なか】、酒屋【さかや】で傘【かさ】を買【か】いました。",
+    "meaning": "I bought an umbrella at a liquor store in the rain."
+  },
+  {
+    "sentence": "酒に酔って醜態をさらした。",
+    "sentence_furigana": "酒【さけ】に酔【よ】って醜態【しゅうたい】をさらしました。",
+    "meaning": "I made a fool of myself by getting drunk."
+  },
+  {
+    "sentence": "彼は酒の肴に枝豆を注文した。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の肴【さかな】に枝豆【えだまめ】を注文【ちゅうもん】しました。",
+    "meaning": "He ordered edamame as a snack with his drink."
+  },
+  {
+    "sentence": "祭りの夜店で熱燗の酒を飲んだ。",
+    "sentence_furigana": "祭【まつ】りの夜店【よみせ】で熱燗【あつかん】の酒【さけ】を飲【の】んだ。",
+    "meaning": "I drank hot sake at the festival's stall."
+  },
+  {
+    "sentence": "酒豪で知られる彼はどんな酒でも飲める。",
+    "sentence_furigana": "酒豪【しゅごう】で知【し】られる彼【かれ】はどんな酒【さけ】でも飲【の】める。",
+    "meaning": "Known as a heavy drinker, he can drink any kind of alcohol."
+  },
+  {
+    "sentence": "酒造りは米と水と人の技が大切だ。",
+    "sentence_furigana": "酒造【さけづく】りは米【こめ】と水【みず】と人【ひと】の技【わざ】が大切【たいせつ】だ。",
+    "meaning": "Sake brewing requires rice, water, and human skill."
+  },
+  {
+    "sentence": "彼は酒の力を借りて、勇気を出した。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の力【ちから】を借【か】りて、勇気【ゆうき】を出【だ】した。",
+    "meaning": "He mustered up courage with the help of alcohol."
+  },
+  {
+    "sentence": "最近、健康のために酒を控えている。",
+    "sentence_furigana": "最近【さいきん】、健康【けんこう】のためにお酒【さけ】を控【ひか】えている。",
+    "meaning": "Lately, I've been refraining from drinking alcohol for my health."
+  },
+  {
+    "sentence": "この地酒は独特の風味がある。",
+    "sentence_furigana": "この地酒【じざけ】は独特【どくとく】の風味【ふうみ】がある。",
+    "meaning": "This local sake has a unique flavor."
+  },
+  {
+    "sentence": "酒の席で昔話に花が咲いた。",
+    "sentence_furigana": "酒【さけ】の席【せき】で昔話【むかしばなし】に花【はな】が咲【さ】いた。",
+    "meaning": "We reminisced about old times during drinks."
+  },
+  {
+    "sentence": "彼は酒に溺れて体を壊した。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】に溺【おぼ】れて体【からだ】を壊【こわ】した。",
+    "meaning": "He ruined his health by indulging too much in alcohol."
+  },
+  {
+    "sentence": "子供の前で酒を飲むのはやめましょう。",
+    "sentence_furigana": "子供【こども】の前【まえ】で酒【さけ】を飲【の】むのはやめましょう。",
+    "meaning": "Let's stop drinking alcohol in front of children."
+  },
+  {
+    "sentence": "この酒は米麹だけで作られている。",
+    "sentence_furigana": "この酒【さけ】は米麹【こめこうじ】だけで作【つく】られている。",
+    "meaning": "This sake is made solely with rice koji."
+  },
+  {
+    "sentence": "彼は酒のつまみにポテトチップスを食べている。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】のつまみにお菓子【かし】を食【た】べている。",
+    "meaning": "He is eating snacks with his drink."
+  },
+  {
+    "sentence": "酒瓶のラベルには美しい絵が描かれていた。",
+    "sentence_furigana": "酒瓶【さけびん】のラベルには美【うつく】しい絵【え】が描【か】かれていた。",
+    "meaning": "A beautiful picture was drawn on the sake bottle's label."
+  },
+  {
+    "sentence": "酒は百薬の長と言われる。",
+    "sentence_furigana": "酒【さけ】は百薬【ひゃくやく】の長【ちょう】と言【い】われる。",
+    "meaning": "Alcohol is said to be the best of all medicines."
+  },
+  {
+    "sentence": "彼は酒をやめてから健康になった。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】をやめてから健康【けんこう】になった。",
+    "meaning": "He became healthier after quitting alcohol."
+  },
+  {
+    "sentence": "今日は仕事の後、少し酒を飲もう。",
+    "sentence_furigana": "今日【きょう】は仕事【しごと】の後【あと】、少【すこ】し酒【さけ】を飲【の】もう。",
+    "meaning": "Let's drink a little alcohol after work today."
+  },
+  {
+    "sentence": "酒屋で新しい銘柄の日本酒を見つけた。",
+    "sentence_furigana": "酒屋【さかや】で新【あら】たな銘柄【めいがら】の日本酒【にほんしゅ】を見【み】つけた。",
+    "meaning": "I found a new brand of Japanese sake at the liquor store."
+  },
+  {
+    "sentence": "この古い酒蔵は国の重要文化財に指定されている。",
+    "sentence_furigana": "この古【ふる】い酒蔵【さけぐら】は国【くに】の重要文化財【じゅうようぶんかざい】に指定【してい】されている。",
+    "meaning": "This old sake brewery is designated as an important cultural property of the country."
+  },
+  {
+    "sentence": "酒を飲みすぎると記憶を失うことがある。",
+    "sentence_furigana": "酒【さけ】を飲【の】みすぎると記憶【きおく】を失【うしな】うことがある。",
+    "meaning": "Drinking too much alcohol can lead to memory loss."
+  },
+  {
+    "sentence": "酒の肴にはやはり和食が合う。",
+    "sentence_furigana": "酒【さけ】の肴【さかな】にはやはり和食【わしょく】が合【あ】う。",
+    "meaning": "Japanese food really suits sake as a snack."
+  },
+  {
+    "sentence": "彼は禁酒法時代に密造酒を作っていた。",
+    "sentence_furigana": "彼【かれ】は禁酒法時代【きんしゅほうじだい】に密造酒【みつぞうしゅ】を作【つく】っていた。",
+    "meaning": "He made moonshine during the Prohibition era."
+  },
+  {
+    "sentence": "酒屋の主人に、おすすめの酒を教えてもらった。",
+    "sentence_furigana": "酒屋【さかや】の主人【しゅじん】に、おすすめの酒【さけ】を教【おし】えてもらった。",
+    "meaning": "The liquor store owner told me about a recommended sake."
+  },
+  {
+    "sentence": "この酒はフルーティーな香りが特徴です。",
+    "sentence_furigana": "この酒【さけ】はフルーティーな香【かお】りが特徴【とくちょう】です。",
+    "meaning": "This sake is characterized by its fruity aroma."
+  },
+  {
+    "sentence": "酒乱にならないように、ほどほどに飲みます。",
+    "sentence_furigana": "酒乱【しゅらん】にならないように、ほどほどに飲【の】みます。",
+    "meaning": "I drink in moderation so as not to become violent when drunk."
+  },
+  {
+    "sentence": "酒場で旧友と再会した。",
+    "sentence_furigana": "酒場【さかば】で旧友【きゅうゆう】と再会【さいかい】した。",
+    "meaning": "I reunited with an old friend at a bar."
+  },
+  {
+    "sentence": "酒造会社の社員研修で酒蔵を見学した。",
+    "sentence_furigana": "酒造会社【さけづくりがいしゃ】の社員研修【しゃいんけんしゅう】で酒蔵【さけぐら】を見学【けんがく】した。",
+    "meaning": "I toured a sake brewery as part of employee training for a sake company."
+  },
+  {
+    "sentence": "彼は仕事のストレスを酒で紛らわせている。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】のストレスを酒【さけ】で紛【まぎ】らわせている。",
+    "meaning": "He is distracting himself from work stress with alcohol."
+  },
+  {
+    "sentence": "酒代を稼ぐためにアルバイトをしています。",
+    "sentence_furigana": "酒代【さけだい】を稼【かせ】ぐためにアルバイトをしています。",
+    "meaning": "I am working part-time to earn money for sake."
+  },
+  {
+    "sentence": "日本酒は米の種類や精米歩合によって味が変わる。",
+    "sentence_furigana": "日本酒【にほんしゅ】は米【こめ】の種類【しゅるい】や精米歩合【せいまいぶあい】によって味【あじ】が変【か】わる。",
+    "meaning": "The taste of Japanese sake changes depending on the type of rice and its milling rate."
+  },
+  {
+    "sentence": "酒屋さんで珍しいクラフトビールを見つけました。",
+    "sentence_furigana": "酒屋【さかや】さんで珍【めずら】しいクラフトビールを見【み】つけました。",
+    "meaning": "I found a rare craft beer at the liquor store."
+  },
+  {
+    "sentence": "彼はお酒に強いのか、顔色一つ変えずに飲み続けている。",
+    "sentence_furigana": "彼【かれ】はお酒【さけ】に強【つよ】いのか、顔色【かおいろ】一つ変【か】えずに飲【の】み続【つづ】けている。",
+    "meaning": "He must be strong against alcohol, as he keeps drinking without changing his expression."
+  },
+  {
+    "sentence": "酒蔵で地酒の試飲をしました。",
+    "sentence_furigana": "酒蔵【さけぐら】で地酒【じざけ】の試飲【しいん】をしました。",
+    "meaning": "I sampled local sake at the brewery."
+  },
+  {
+    "sentence": "この酒はロックで飲むのが一番美味しい。",
+    "sentence_furigana": "この酒【さけ】はロックで飲【の】むのが一番美味【いちばんおい】しい。",
+    "meaning": "This sake is best enjoyed on the rocks."
+  },
+  {
+    "sentence": "酒税法が改正された。",
+    "sentence_furigana": "酒税法【しゅぜいほう】が改正【かいせい】された。",
+    "meaning": "The Liquor Tax Act was revised."
+  },
+  {
+    "sentence": "酒を一口飲んだだけで顔が赤くなった。",
+    "sentence_furigana": "酒【さけ】を一口【ひとくち】飲【の】んだだけで顔【かお】が赤【あか】くなった。",
+    "meaning": "My face turned red just from taking a sip of sake."
+  },
+  {
+    "sentence": "彼は酒癖が悪く、よく喧嘩をしていた。",
+    "sentence_furigana": "彼【かれ】は酒癖【さけぐせ】が悪【わる】く、よく喧嘩【けんか】をしていた。",
+    "meaning": "He had a bad temper when drunk and often got into fights."
+  },
+  {
+    "sentence": "酒屋で見たワインはとても高価だった。",
+    "sentence_furigana": "酒屋【さかや】で見【み】たワインはとても高価【こうか】だった。",
+    "meaning": "The wine I saw at the liquor store was very expensive."
+  },
+  {
+    "sentence": "酒は適量を楽しむのが良い。",
+    "sentence_furigana": "酒【さけ】は適量【てきりょう】を楽【たの】しむのが良【よ】い。",
+    "meaning": "It is good to enjoy alcohol in moderation."
+  },
+  {
+    "sentence": "彼は酒の誘いを断ることができなかった。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の誘【さそ】いを断【ことわ】ることができなかった。",
+    "meaning": "He couldn't refuse the invitation to drink."
+  },
+  {
+    "sentence": "この地域の特産品は酒である。",
+    "sentence_furigana": "この地域【ちいき】の特産品【とくさんひん】は酒【さけ】である。",
+    "meaning": "The specialty product of this region is sake."
+  },
+  {
+    "sentence": "酒造りの過程で、米を蒸して麹を混ぜる。",
+    "sentence_furigana": "酒造【さけづく】りの過程【かてい】で、米【こめ】を蒸【む】して麹【こうじ】を混【ま】ぜる。",
+    "meaning": "In the process of sake brewing, rice is steamed and koji is mixed."
+  },
+  {
+    "sentence": "彼は酒の失敗談を面白おかしく語った。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の失敗談【しっぱいだん】を面白おかしく語【かた】った。",
+    "meaning": "He amusingly told stories of his drinking failures."
+  },
+  {
+    "sentence": "日本酒の酒造元を訪ねるツアーに参加しました。",
+    "sentence_furigana": "日本酒【にほんしゅ】の酒造元【さけづくりもと】を訪【たず】ねるツアーに参加【さんか】しました。",
+    "meaning": "I participated in a tour visiting Japanese sake breweries."
+  },
+  {
+    "sentence": "酒場で出会った人と意気投合した。",
+    "sentence_furigana": "酒場【さかば】で出会【であ】った人【ひと】と意気投合【いきとうごう】した。",
+    "meaning": "I hit it off with someone I met at the bar."
+  },
+  {
+    "sentence": "酒の肴に塩辛を注文した。",
+    "sentence_furigana": "酒【さけ】の肴【さかな】に塩辛【しおから】を注文【ちゅうもん】した。",
+    "meaning": "I ordered salted seafood guts as a snack with my drink."
+  },
+  {
+    "sentence": "この酒は熟成が進んでいるので風味が豊かだ。",
+    "sentence_furigana": "この酒【さけ】は熟成【じゅくせい】が進【すす】んでいるので風味【ふうみ】が豊【ゆた】かだ。",
+    "meaning": "This sake is rich in flavor because it has been well-aged."
+  },
+  {
+    "sentence": "彼は子供の頃、酒を飲んではいけないと教えられた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、酒【さけ】を飲【の】んではいけないと教【おし】えられた。",
+    "meaning": "He was taught not to drink alcohol when he was a child."
+  },
+  {
+    "sentence": "酒屋で日本酒の品揃えが良い店を探している。",
+    "sentence_furigana": "酒屋【さかや】で日本酒【にほんしゅ】の品揃【しなぞろ】えが良い店【みせ】を探【さが】している。",
+    "meaning": "I'm looking for a liquor store with a good selection of Japanese sake."
+  },
+  {
+    "sentence": "酒場でギターを弾いて歌っている人がいた。",
+    "sentence_furigana": "酒場【さかば】でギターを弾【ひ】いて歌【うた】っている人【ひと】がいた。",
+    "meaning": "There was a person playing guitar and singing at the bar."
+  },
+  {
+    "sentence": "酒は少量なら体に良いと言われている。",
+    "sentence_furigana": "酒【さけ】は少量【しょうりょう】なら体【からだ】に良【よ】いと言【い】われている。",
+    "meaning": "Alcohol is said to be good for the body in small amounts."
+  },
+  {
+    "sentence": "彼は酒豪で有名で、どんな酒でも飲み干してしまう。",
+    "sentence_furigana": "彼【かれ】は酒豪【しゅごう】で有名【ゆうめい】で、どんな酒【さけ】でも飲【の】み干【ほ】してしまう。",
+    "meaning": "He is famous for being a heavy drinker and can finish any alcohol."
+  },
+  {
+    "sentence": "この酒は米を磨いた度合いで味が変わる。",
+    "sentence_furigana": "この酒【さけ】は米【こめ】を磨【みが】いた度合【どあい】で味【あじ】が変【か】わる。",
+    "meaning": "The taste of this sake changes depending on the degree to which the rice is polished."
+  },
+  {
+    "sentence": "酒を飲むとつい話しすぎてしまう。",
+    "sentence_furigana": "酒【さけ】を飲【の】むとつい話【はな】しすぎってしまう。",
+    "meaning": "When I drink, I tend to talk too much."
+  },
+  {
+    "sentence": "酒屋で珍しい焼酎を見つけたので買ってみた。",
+    "sentence_furigana": "酒屋【さかや】で珍【めずら】しい焼酎【しょうちゅう】を見【み】つけたので買【か】ってみた。",
+    "meaning": "I found a rare shochu at the liquor store and decided to buy it."
+  },
+  {
+    "sentence": "彼は酒と女にだらしない。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】と女【おんな】にだらしない。",
+    "meaning": "He is careless with alcohol and women."
+  },
+  {
+    "sentence": "酒造りの技術は昔から受け継がれてきた。",
+    "sentence_furigana": "酒造【さけづくり】の技術【ぎじゅつ】は昔【むかし】から受【う】け継【つ】がれてきた。",
+    "meaning": "The techniques of sake brewing have been passed down from ancient times."
+  },
+  {
+    "sentence": "この酒は冷やしても温めても美味しい。",
+    "sentence_furigana": "この酒【さけ】は冷【ひ】やしても温【あた】ためても美味【おい】しい。",
+    "meaning": "This sake is delicious whether chilled or heated."
+  },
+  {
+    "sentence": "酒は人の心を和ませる。",
+    "sentence_furigana": "酒【さけ】は人【ひと】の心【こころ】を和【なご】ませる。",
+    "meaning": "Alcohol soothes people's minds."
+  },
+  {
+    "sentence": "酒場で偶然、昔の同級生に会った。",
+    "sentence_furigana": "酒場【さかば】で偶然【ぐうぜん】、昔【むかし】の同級生【どうきゅうせい】に会【あ】った。",
+    "meaning": "I coincidentally met an old classmate at the bar."
+  },
+  {
+    "sentence": "彼は酒を飲むと人が変わったようになる。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】を飲【の】むと人【ひと】が変【か】わったようになる。",
+    "meaning": "He becomes like a different person when he drinks alcohol."
+  },
+  {
+    "sentence": "酒屋の主人と日本酒について語り合った。",
+    "sentence_furigana": "酒屋【さかや】の主人【しゅじん】と日本酒【にほんしゅ】について語【かた】り合【あ】った。",
+    "meaning": "I talked about Japanese sake with the liquor store owner."
+  },
+  {
+    "sentence": "酒は人間関係を円滑にする潤滑油のようなものだ。",
+    "sentence_furigana": "酒【さけ】は人間関係【にんげんかんけい】を円滑【えんかつ】にする潤滑油【じゅんかつゆ】のようなものだ。",
+    "meaning": "Alcohol is like a lubricant that smooths human relationships."
+  },
+  {
+    "sentence": "彼は酒の代わりにノンアルコールドリンクを選んだ。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の代【か】わりにノンアルコールドリンクを選【えら】んだ。",
+    "meaning": "He chose a non-alcoholic drink instead of alcohol."
+  },
+  {
+    "sentence": "酒蔵見学の後、試飲も楽しんだ。",
+    "sentence_furigana": "酒蔵見学【さけぐらけんがく】の後【あと】、試飲【しいん】も楽【たの】しんだ。",
+    "meaning": "After the brewery tour, I also enjoyed the tasting."
+  },
+  {
+    "sentence": "酒を飲みすぎて二日酔いになった。",
+    "sentence_furigana": "酒【さけ】を飲【の】みすぎてもう一日酔【ふつかよい】になった。",
+    "meaning": "I drank too much alcohol and got a hangover."
+  },
+  {
+    "sentence": "この酒はミネラル分が豊富で体に良い。",
+    "sentence_furigana": "この酒【さけ】はミネラルぶんが豊富【ほうふ】で体【からだ】に良【よ】い。",
+    "meaning": "This sake is rich in minerals and good for the body."
+  },
+  {
+    "sentence": "酒屋でセール品になっていたワインを買った。",
+    "sentence_furigana": "酒屋【さかや】でセール品【ひん】になっていたワインを買【か】った。",
+    "meaning": "I bought wine that was on sale at the liquor store."
+  },
+  {
+    "sentence": "彼は酒の匂いを嗅いだだけで酔ってしまう。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の匂【にお】いを嗅【か】いだだけで酔【よ】ってしまう。",
+    "meaning": "He gets drunk just by smelling alcohol."
+  },
+  {
+    "sentence": "酒造りの工程には多くの手間がかかる。",
+    "sentence_furigana": "酒造【さけづくり】の工程【こうてい】には多【おお】くの手間【てま】がかかる。",
+    "meaning": "The sake brewing process involves a lot of effort."
+  },
+  {
+    "sentence": "酒を飲むと気分が陽気になる。",
+    "sentence_furigana": "酒【さけ】を飲【の】むと気分【きぶん】が陽気【ようき】になる。",
+    "meaning": "Drinking alcohol makes me feel cheerful."
+  },
+  {
+    "sentence": "酒屋で珍しい輸入ビールを見つけた。",
+    "sentence_furigana": "酒屋【さかや】で珍【めずら】しい輸入【ゆにゅう】ビールを見【み】つけた。",
+    "meaning": "I found a rare imported beer at the liquor store."
+  },
+  {
+    "sentence": "彼は酒に酔って暴言を吐いた。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】に酔【よ】って暴言【ぼうげん】を吐【は】いた。",
+    "meaning": "He spoke abusive words when he was drunk."
+  },
+  {
+    "sentence": "酒造りの伝統を守り続けている。",
+    "sentence_furigana": "酒造【さけづくり】の伝統【でんとう】を守【まも】り続【つづ】けている。",
+    "meaning": "They continue to protect the tradition of sake brewing."
+  },
+  {
+    "sentence": "この酒はまろやかな味わいが特徴です。",
+    "sentence_furigana": "この酒【さけ】はまろやかな味わ【あじわ】いが特徴【とくちょう】です。",
+    "meaning": "This sake is characterized by its mellow taste."
+  },
+  {
+    "sentence": "酒場では、知らない人とも気軽に話せる。",
+    "sentence_furigana": "酒場【さかば】では、知【し】らない人【ひと】とも気楽【きらく】に話【はな】せる。",
+    "meaning": "At the bar, you can talk freely with people you don't know."
+  },
+  {
+    "sentence": "彼は酒にまつわる失敗談が多い。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】にまつわる失敗談【しっぱいだん】が多【おお】い。",
+    "meaning": "He has many stories of failures related to alcohol."
+  },
+  {
+    "sentence": "酒造会社のロゴマークは酒器をモチーフにしている。",
+    "sentence_furigana": "酒造会社【さけづくりがいしゃ】のロゴマークは酒器【しゅき】をモチーフにしている。",
+    "meaning": "The logo of the sake company is motifed after a sake vessel."
+  },
+  {
+    "sentence": "彼は酒の力を借りて、いつもより饒舌になった。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の力【ちから】を借【か】りて、いつもより饒舌【じょうぜつ】になった。",
+    "meaning": "He became more talkative than usual with the help of alcohol."
+  },
+  {
+    "sentence": "この酒はソーダ割りで飲むとさっぱりする。",
+    "sentence_furigana": "この酒【さけ】はソーダ割【わ】りで飲【の】むとさっぱりする。",
+    "meaning": "This sake is refreshing when mixed with soda."
+  },
+  {
+    "sentence": "酒屋で試飲できる銘柄が増えた。",
+    "sentence_furigana": "酒屋【さかや】で試飲【しいん】できる銘柄【めいがら】が増【ふ】えた。",
+    "meaning": "The number of sake brands available for tasting at liquor stores has increased."
+  },
+  {
+    "sentence": "彼は酒の代わりに茶を飲んでいる。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】の代【か】わりに茶【ちゃ】を飲【の】んでいる。",
+    "meaning": "He is drinking tea instead of alcohol."
+  },
+  {
+    "sentence": "酒税率の引き上げが検討されている。",
+    "sentence_furigana": "酒税率【しゅぜいりつ】の引【ひ】き上【あ】げが検討【けんとう】されている。",
+    "meaning": "An increase in the alcohol tax rate is being considered."
+  },
+  {
+    "sentence": "この酒はフルボディで飲みごたえがある。",
+    "sentence_furigana": "この酒【さけ】はフルボディで飲【の】みごたえがある。",
+    "meaning": "This sake is full-bodied and satisfying to drink."
+  },
+  {
+    "sentence": "酒場で出会った人とは、名前も知らない。",
+    "sentence_furigana": "酒場【さかば】で出会【であ】った人【ひと】とは、名前【なまえ】も知【し】らない。",
+    "meaning": "I don't even know the names of the people I meet at the bar."
+  },
+  {
+    "sentence": "酒造会社の工場見学に行った。",
+    "sentence_furigana": "酒造会社【さけづくりがいしゃ】の工場見学【こうじょうけんがく】に行【い】った。",
+    "meaning": "I went on a factory tour of a sake company."
+  },
+  {
+    "sentence": "酒の肴にチーズをつまんだ。",
+    "sentence_furigana": "酒【さけ】の肴【さかな】にチーズをつまんだ。",
+    "meaning": "I snacked on cheese with my drink."
+  },
+  {
+    "sentence": "彼は酒を飲んで運転することは絶対にしない。",
+    "sentence_furigana": "彼【かれ】は酒【さけ】を飲【の】んで運転【うんてん】することは絶対【ぜったい】にしない。",
+    "meaning": "He absolutely never drives after drinking alcohol."
+  }
+]

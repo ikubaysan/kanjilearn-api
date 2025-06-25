@@ -1,0 +1,592 @@
+[
+  {
+    "sentence": "その説には賛成できません。",
+    "sentence_furigana": "その説【せつ】には賛成【さんせい】できません。",
+    "meaning": "I cannot agree with that theory."
+  },
+  {
+    "sentence": "彼の説明は分かりやすかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は分かりやすかった。",
+    "meaning": "His explanation was easy to understand."
+  },
+  {
+    "sentence": "これは有力な説だ。",
+    "sentence_furigana": "これ は 有力【ゆうりょく】な説【せつ】だ。",
+    "meaning": "This is a strong theory."
+  },
+  {
+    "sentence": "新説が発表された。",
+    "sentence_furigana": "新説【しんせつ】が発表【はっぴょう】された。",
+    "meaning": "A new theory was announced."
+  },
+  {
+    "sentence": "諸説紛紛としている。",
+    "sentence_furigana": "諸説【しょせつ】紛紛【ふんぷん】としている。",
+    "meaning": "There are various conflicting theories."
+  },
+  {
+    "sentence": "この問題について説明させてください。",
+    "sentence_furigana": "この問題【もんだい】について説明【せつめい】させてください。",
+    "meaning": "Please let me explain about this problem."
+  },
+  {
+    "sentence": "それは単なる噂だ。",
+    "sentence_furigana": "それ は 単【たん】なる噂【うわさ】だ。",
+    "meaning": "That is merely a rumor."
+  },
+  {
+    "sentence": "彼の意見は私の説と異なる。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は私【わたし】の説【せつ】と異【こと】なる。",
+    "meaning": "His opinion differs from my theory."
+  },
+  {
+    "sentence": "この現象を説明する理論。",
+    "sentence_furigana": "この現象【げんしょう】を説明【せつめい】する理論【りろん】。",
+    "meaning": "A theory to explain this phenomenon."
+  },
+  {
+    "sentence": "歴史上の人物の説を唱える。",
+    "sentence_furigana": "歴史上【れきしじょう】の人物【じんぶつ】の説【せつ】を唱【とな】える。",
+    "meaning": "To advocate a theory about a historical figure."
+  },
+  {
+    "sentence": "会議で各自の意見を説明した。",
+    "sentence_furigana": "会議【かいぎ】で各自【かくじ】の意見【いけん】を説明【せつめい】した。",
+    "meaning": "Each person explained their opinion at the meeting."
+  },
+  {
+    "sentence": "教授は新しい説を提唱した。",
+    "sentence_furigana": "教授【きょうじゅ】は新【あたら】しい説【せつ】を提唱【ていしょう】した。",
+    "meaning": "The professor proposed a new theory."
+  },
+  {
+    "sentence": "その説は多くの人に受け入れられた。",
+    "sentence_furigana": "その説【せつ】は多【おお】くの人【ひと】に受【う】け入【い】れられた。",
+    "meaning": "That theory was accepted by many people."
+  },
+  {
+    "sentence": "彼の説明には納得がいかなかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】には納得【なっとく】がいかなかった。",
+    "meaning": "I was not convinced by his explanation."
+  },
+  {
+    "sentence": "これは一つの見解である。",
+    "sentence_furigana": "これ は 一【ひと】つの見解【けんかい】である。",
+    "meaning": "This is one viewpoint."
+  },
+  {
+    "sentence": "学説が大きく変わった。",
+    "sentence_furigana": "学説【がくせつ】が大【おお】きく変【か】わった。",
+    "meaning": "Academic theories have changed significantly."
+  },
+  {
+    "sentence": "彼はその説の根拠を述べた。",
+    "sentence_furigana": "彼【かれ】はその説【せつ】の根拠【こんきょ】を述【の】べた。",
+    "meaning": "He stated the grounds for that theory."
+  },
+  {
+    "sentence": "この噂はどこから来たのだろうか。",
+    "sentence_furigana": "この噂【うわさ】はどこから来【き】たのだろうか。",
+    "meaning": "Where did this rumor come from?"
+  },
+  {
+    "sentence": "彼は自説を固く信じている。",
+    "sentence_furigana": "彼【かれ】は自説【じせつ】を固【かた】く信【しん】じている。",
+    "meaning": "He firmly believes his own theory."
+  },
+  {
+    "sentence": "専門家がその理論を解説した。",
+    "sentence_furigana": "専門家【せんもんか】がその理論【りろん】を解説【かいせつ】した。",
+    "meaning": "The expert explained the theory."
+  },
+  {
+    "sentence": "その事件に関する様々な説がある。",
+    "sentence_furigana": "その事件【じけん】に関【かん】する様々【さまざま】な説【せつ】がある。",
+    "meaning": "There are various theories regarding that incident."
+  },
+  {
+    "sentence": "私の考えを説明します。",
+    "sentence_furigana": "私【わたし】の考【かんが】えを説明【せつめい】します。",
+    "meaning": "I will explain my thoughts."
+  },
+  {
+    "sentence": "これは一般的な説だ。",
+    "sentence_furigana": "これ は一般的【いっぱんてき】な説【せつ】だ。",
+    "meaning": "This is a general theory."
+  },
+  {
+    "sentence": "政府は新しい政策を説明した。",
+    "sentence_furigana": "政府【せいふ】は新【あたら】しい政策【せいさく】を説明【せつめい】した。",
+    "meaning": "The government explained the new policy."
+  },
+  {
+    "sentence": "彼はその説を否定した。",
+    "sentence_furigana": "彼【かれ】はその説【せつ】を否定【ひてい】した。",
+    "meaning": "He denied that theory."
+  },
+  {
+    "sentence": "この仮説を検証する必要がある。",
+    "sentence_furigana": "この仮説【かせつ】を検証【けんしょう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to verify this hypothesis."
+  },
+  {
+    "sentence": "彼は専門的な理論を解説した。",
+    "sentence_furigana": "彼【かれ】は専門的【せんもんてき】な理論【りろん】を解説【かいせつ】した。",
+    "meaning": "He explained the specialized theory."
+  },
+  {
+    "sentence": "この噂は事実無根だ。",
+    "sentence_furigana": "この噂【うわさ】は事実無根【じじつむこん】だ。",
+    "meaning": "This rumor is baseless."
+  },
+  {
+    "sentence": "彼は過去の経験を説明した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】を説明【せつめい】した。",
+    "meaning": "He explained his past experiences."
+  },
+  {
+    "sentence": "その説には根拠がない。",
+    "sentence_furigana": "その説【せつ】には根拠【こんきょ】がない。",
+    "meaning": "There is no basis for that theory."
+  },
+  {
+    "sentence": "彼の説明はいつも具体的だ。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】はいつも具体的【ぐたいてき】だ。",
+    "meaning": "His explanations are always concrete."
+  },
+  {
+    "sentence": "この理論は革新的だ。",
+    "sentence_furigana": "この理論【りろん】は革新的【かくしんてき】だ。",
+    "meaning": "This theory is innovative."
+  },
+  {
+    "sentence": "諸説あるが、定説はない。",
+    "sentence_furigana": "諸説【しょせつ】あるが、定説【ていせつ】はない。",
+    "meaning": "There are various theories, but no established one."
+  },
+  {
+    "sentence": "彼は事件の経緯を説明した。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の経緯【けいい】を説明【せつめい】した。",
+    "meaning": "He explained the circumstances of the incident."
+  },
+  {
+    "sentence": "その説は科学的に証明されている。",
+    "sentence_furigana": "その説【せつ】は科学的【かがくてき】に証明【しょうめい】されている。",
+    "meaning": "That theory has been scientifically proven."
+  },
+  {
+    "sentence": "彼の持論を展開した。",
+    "sentence_furigana": "彼【かれ】の持論【じろん】を展開【てんかい】した。",
+    "meaning": "He developed his own theory."
+  },
+  {
+    "sentence": "この説明で理解できた。",
+    "sentence_furigana": "この説明【せつめい】で理解【りかい】できた。",
+    "meaning": "I was able to understand with this explanation."
+  },
+  {
+    "sentence": "様々な意見がある。",
+    "sentence_furigana": "様々【さまざま】な意見【いけん】がある。",
+    "meaning": "There are various opinions."
+  },
+  {
+    "sentence": "彼は自説を曲げなかった。",
+    "sentence_furigana": "彼【かれ】は自説【じせつ】を曲【ま】げなかった。",
+    "meaning": "He did not yield his own theory."
+  },
+  {
+    "sentence": "その学説は広く認められている。",
+    "sentence_furigana": "その学説【がくせつ】は広【ひろ】く認【みと】められている。",
+    "meaning": "That academic theory is widely recognized."
+  },
+  {
+    "sentence": "彼は新しい理論を構築した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい理論【りろん】を構築【こうちく】した。",
+    "meaning": "He constructed a new theory."
+  },
+  {
+    "sentence": "この説はあくまで推測です。",
+    "sentence_furigana": "この説【せつ】はあくまで推測【すいそく】です。",
+    "meaning": "This theory is purely speculation."
+  },
+  {
+    "sentence": "彼の説明は論理的だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は論理的【ろんりてき】だった。",
+    "meaning": "His explanation was logical."
+  },
+  {
+    "sentence": "この説に対する反論がある。",
+    "sentence_furigana": "この説【せつ】に対【たい】する反論【はんろん】がある。",
+    "meaning": "There is a counterargument to this theory."
+  },
+  {
+    "sentence": "噂話に耳を傾ける必要はない。",
+    "sentence_furigana": "噂話【うわさばなし】に耳【みみ】を傾【かたむ】ける必要【ひつよう】はない。",
+    "meaning": "There is no need to listen to gossip."
+  },
+  {
+    "sentence": "彼は自分の意見を説明した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を説明【せつめい】した。",
+    "meaning": "He explained his own opinion."
+  },
+  {
+    "sentence": "この説の信憑性は低い。",
+    "sentence_furigana": "この説【せつ】の信憑性【しんぴょうせい】は低【ひく】い。",
+    "meaning": "The credibility of this theory is low."
+  },
+  {
+    "sentence": "彼はその理論の提唱者である。",
+    "sentence_furigana": "彼【かれ】はその理論【りろん】の提唱者【ていしょうしゃ】である。",
+    "meaning": "He is the proponent of that theory."
+  },
+  {
+    "sentence": "この説明で十分ですか。",
+    "sentence_furigana": "この説明【せつめい】で十分【じゅうぶん】ですか。",
+    "meaning": "Is this explanation sufficient?"
+  },
+  {
+    "sentence": "彼の説は多くの人を魅了した。",
+    "sentence_furigana": "彼【かれ】の説【せつ】は多【おお】くの人【ひと】を魅了【みりょう】した。",
+    "meaning": "His theory fascinated many people."
+  },
+  {
+    "sentence": "この学説は支持されていない。",
+    "sentence_furigana": "この学説【がくせつ】は支持【しじ】されていない。",
+    "meaning": "This academic theory is not supported."
+  },
+  {
+    "sentence": "彼はその理論を応用した。",
+    "sentence_furigana": "彼【かれ】は其の理論【そのりろん】を応用【おうよう】した。",
+    "meaning": "He applied that theory."
+  },
+  {
+    "sentence": "その説は次第に広まった。",
+    "sentence_furigana": "その説【せつ】は次第【しだい】に広【ひろ】まった。",
+    "meaning": "That theory gradually spread."
+  },
+  {
+    "sentence": "彼の説明は簡潔で分かりやすかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は簡潔【かんけつ】で分かりやすかった。",
+    "meaning": "His explanation was concise and easy to understand."
+  },
+  {
+    "sentence": "この理論はまだ確立されていない。",
+    "sentence_furigana": "この理論【りろん】はまだ確立【かくりつ】されていない。",
+    "meaning": "This theory has not yet been established."
+  },
+  {
+    "sentence": "彼は自説の正しさを証明した。",
+    "sentence_furigana": "彼【かれ】は自説【じせつ】の正【ただ】しさを証明【しょうめい】した。",
+    "meaning": "He proved the correctness of his own theory."
+  },
+  {
+    "sentence": "この説明で皆様にご理解いただけたでしょうか。",
+    "sentence_furigana": "この説明【せつめい】で皆様【みなさま】にご理解【ごりかい】いただけたでしょうか。",
+    "meaning": "Was this explanation understood by everyone?"
+  },
+  {
+    "sentence": "その説は多くの論争を呼んだ。",
+    "sentence_furigana": "その説【せつ】は多【おお】くの論争【ろんそう】を呼【よ】んだ。",
+    "meaning": "That theory caused much controversy."
+  },
+  {
+    "sentence": "彼はこの理論の提唱者として知られている。",
+    "sentence_furigana": "彼【かれ】はこの理論【りろん】の提唱者【ていしょうしゃ】として知【し】られている。",
+    "meaning": "He is known as the proponent of this theory."
+  },
+  {
+    "sentence": "その噂は真実ではない。",
+    "sentence_furigana": "その噂【うわさ】は真実【しんじつ】ではない。",
+    "meaning": "That rumor is not true."
+  },
+  {
+    "sentence": "彼はその説について詳しく説明した。",
+    "sentence_furigana": "彼【かれ】はその説【せつ】について詳【くわ】しく説明【せつめい】した。",
+    "meaning": "He explained that theory in detail."
+  },
+  {
+    "sentence": "この理論は後の時代に影響を与えた。",
+    "sentence_furigana": "この理論【りろん】は後【のち】の時代【じだい】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "This theory influenced later generations."
+  },
+  {
+    "sentence": "彼らの説明は矛盾していた。",
+    "sentence_furigana": "彼【かれ】ら の 説明【せつめい】は矛盾【むじゅん】していた。",
+    "meaning": "Their explanation was contradictory."
+  },
+  {
+    "sentence": "この説は大胆で斬新だ。",
+    "sentence_furigana": "この説【せつ】は大胆【だいたん】で斬新【ざんしん】だ。",
+    "meaning": "This theory is bold and novel."
+  },
+  {
+    "sentence": "彼はこの理論をさらに発展させた。",
+    "sentence_furigana": "彼【かれ】はこの理論【りろん】をさらに発展【はってん】させた。",
+    "meaning": "He further developed this theory."
+  },
+  {
+    "sentence": "その説は多くの疑問を投げかけた。",
+    "sentence_furigana": "その説【せつ】は多【おお】くの疑問【ぎもん】を投【な】げかけた。",
+    "meaning": "That theory raised many questions."
+  },
+  {
+    "sentence": "彼の説明には説得力があった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】には説得力【せっとくりょく】があった。",
+    "meaning": "His explanation was persuasive."
+  },
+  {
+    "sentence": "この理論はまだ証明されていない。",
+    "sentence_furigana": "この理論【りろん】はまだ証明【しょうめい】されていない。",
+    "meaning": "This theory has not yet been proven."
+  },
+  {
+    "sentence": "彼らはその噂を否定した。",
+    "sentence_furigana": "彼【かれ】ら は その噂【うわさ】を否定【ひてい】した。",
+    "meaning": "They denied the rumor."
+  },
+  {
+    "sentence": "彼の説明は簡潔だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は簡潔【かんけつ】だった。",
+    "meaning": "His explanation was concise."
+  },
+  {
+    "sentence": "この説は歴史的な事実に基づいている。",
+    "sentence_furigana": "この説【せつ】は歴史的【れきしいてき】な事実【じじつ】に基【もと】づいている。",
+    "meaning": "This theory is based on historical facts."
+  },
+  {
+    "sentence": "彼はこの理論を提唱しました。",
+    "sentence_furigana": "彼【かれ】はこの理論【りろん】を提唱【ていしょう】しました。",
+    "meaning": "He proposed this theory."
+  },
+  {
+    "sentence": "その説明は分かりやすかった。",
+    "sentence_furigana": "その説明【せつめい】は分かりやすかった。",
+    "meaning": "That explanation was easy to understand."
+  },
+  {
+    "sentence": "彼の説は多くの学者の支持を得ている。",
+    "sentence_furigana": "彼【かれ】の説【せつ】は多【おお】くの学者【がくしゃ】の支持【しじ】を得【え】ている。",
+    "meaning": "His theory has the support of many scholars."
+  },
+  {
+    "sentence": "この理論はまだ一般には知られていない。",
+    "sentence_furigana": "この理論【りろん】はまだ一般【いっぱん】には知【し】られていない。",
+    "meaning": "This theory is not yet known to the public."
+  },
+  {
+    "sentence": "彼は新しい説を唱え始めた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい説【せつ】を唱【とな】え始【はじ】めた。",
+    "meaning": "He began to advocate a new theory."
+  },
+  {
+    "sentence": "この説明で問題ないですか。",
+    "sentence_furigana": "この説明【せつめい】で問題【もんだい】ないですか。",
+    "meaning": "Is there any problem with this explanation?"
+  },
+  {
+    "sentence": "彼の説は多くの人に誤解されている。",
+    "sentence_furigana": "彼【かれ】の説【せつ】は多【おお】くの人【ひと】に誤解【ごかい】されている。",
+    "meaning": "His theory is misunderstood by many people."
+  },
+  {
+    "sentence": "この理論は革命的である。",
+    "sentence_furigana": "この理論【りろん】は革命的【かくめいてき】である。",
+    "meaning": "This theory is revolutionary."
+  },
+  {
+    "sentence": "彼は過去の説を覆した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の説【せつ】を覆【くつがえ】した。",
+    "meaning": "He overturned previous theories."
+  },
+  {
+    "sentence": "この説明を再度行います。",
+    "sentence_furigana": "この説明【せつめい】を再度【さいど】行【おこな】います。",
+    "meaning": "I will give this explanation again."
+  },
+  {
+    "sentence": "その説は広く浸透している。",
+    "sentence_furigana": "その説【せつ】は広【ひろ】く浸透【しんとう】している。",
+    "meaning": "That theory has become widespread."
+  },
+  {
+    "sentence": "彼の説明は客観的だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は客観的【きゃっかんてき】だった。",
+    "meaning": "His explanation was objective."
+  },
+  {
+    "sentence": "この理論はまだ実験段階だ。",
+    "sentence_furigana": "この理論【りろん】はまだ実験段階【じっけん段階】だ。",
+    "meaning": "This theory is still in the experimental stage."
+  },
+  {
+    "sentence": "彼はその説に反論した。",
+    "sentence_furigana": "彼【かれ】はその説【せつ】に反論【はんろん】した。",
+    "meaning": "He rebutted that theory."
+  },
+  {
+    "sentence": "この噂は根拠のないものだ。",
+    "sentence_furigana": "この噂【うわさ】は根拠【こんきょ】のないものだ。",
+    "meaning": "This rumor has no basis."
+  },
+  {
+    "sentence": "彼の説明で納得しました。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】で納得【なっとく】しました。",
+    "meaning": "I was convinced by his explanation."
+  },
+  {
+    "sentence": "その説は多くの国民に受け入れられた。",
+    "sentence_furigana": "その説【せつ】は多【おお】くの国民【こくみん】に受【う】け入【い】れられた。",
+    "meaning": "That theory was accepted by many citizens."
+  },
+  {
+    "sentence": "彼はこの理論を広く普及させようとした。",
+    "sentence_furigana": "彼【かれ】はこの理論【りろん】を広【ひろ】く普及【ふきゅう】させようとした。",
+    "meaning": "He tried to widely popularize this theory."
+  },
+  {
+    "sentence": "この説明は十分だった。",
+    "sentence_furigana": "この説明【せつめい】は十分【じゅうぶん】だった。",
+    "meaning": "This explanation was sufficient."
+  },
+  {
+    "sentence": "彼の説は多くの人に支持されている。",
+    "sentence_furigana": "彼【かれ】の説【せつ】は多【おお】くの人【ひと】に支持【しじ】されている。",
+    "meaning": "His theory is supported by many people."
+  },
+  {
+    "sentence": "この理論は科学的に証明されている。",
+    "sentence_furigana": "この理論【りろん】は科学的【かがくてき】に証明【しょうめい】されている。",
+    "meaning": "This theory is scientifically proven."
+  },
+  {
+    "sentence": "彼はその理論をさらに発展させるだろう。",
+    "sentence_furigana": "彼【かれ】はその理論【りろん】をさらに発展【はってん】させるだろう。",
+    "meaning": "He will further develop that theory."
+  },
+  {
+    "sentence": "その説は学界で広く議論されている。",
+    "sentence_furigana": "その説【せつ】は学界【がっかい】で広【ひろ】く議論【ぎろん】されている。",
+    "meaning": "That theory is widely discussed in academic circles."
+  },
+  {
+    "sentence": "彼の説明は明快だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は明快【めいかい】だった。",
+    "meaning": "His explanation was clear."
+  },
+  {
+    "sentence": "この理論はまだ仮説の段階だ。",
+    "sentence_furigana": "この理論【りろん】はまだ仮説【かせつ】の段階【だんかい】だ。",
+    "meaning": "This theory is still in the hypothesis stage."
+  },
+  {
+    "sentence": "彼は自説の根拠を述べた。",
+    "sentence_furigana": "彼【かれ】は自説【じせつ】の根拠【こんきょ】を述【の】べた。",
+    "meaning": "He stated the basis for his own theory."
+  },
+  {
+    "sentence": "この説明でよろしいでしょうか。",
+    "sentence_furigana": "この説明【せつめい】でよろしいでしょうか。",
+    "meaning": "Is this explanation satisfactory?"
+  },
+  {
+    "sentence": "その説は多くの人に誤解されている。",
+    "sentence_furigana": "その説【せつ】は多【おお】くの人【ひと】に誤解【ごかい】されている。",
+    "meaning": "That theory is misunderstood by many people."
+  },
+  {
+    "sentence": "彼の説明は具体的で分かりやすかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は具体的【ぐたいてき】で分かりやすかった。",
+    "meaning": "His explanation was specific and easy to understand."
+  },
+  {
+    "sentence": "この理論はまだ多くの謎を秘めている。",
+    "sentence_furigana": "この理論【りろん】はまだ多【おお】くの謎【なぞ】を秘【ひ】めている。",
+    "meaning": "This theory still holds many mysteries."
+  },
+  {
+    "sentence": "彼はその説を積極的に支持した。",
+    "sentence_furigana": "彼【かれ】はその説【せつ】を積極的【せっきょくてき】に支持【しじ】した。",
+    "meaning": "He actively supported that theory."
+  },
+  {
+    "sentence": "この噂は広まりやすい。",
+    "sentence_furigana": "この噂【うわさ】は広【ひろ】まりやすい。",
+    "meaning": "This rumor is easy to spread."
+  },
+  {
+    "sentence": "彼の説明には一部誤りがあった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】には一部【いちぶ】誤【あやま】りがあった。",
+    "meaning": "There was an error in his explanation."
+  },
+  {
+    "sentence": "この説は学術的に重要だ。",
+    "sentence_furigana": "この説【せつ】は学術的【がくじゅつてき】に重要【じゅうよう】だ。",
+    "meaning": "This theory is academically important."
+  },
+  {
+    "sentence": "彼はこの理論を現実に応用した。",
+    "sentence_furigana": "彼【かれ】はこの理論【りろん】を現実【げんじつ】に応用【おうよう】した。",
+    "meaning": "He applied this theory to reality."
+  },
+  {
+    "sentence": "その説は次第に廃れていった。",
+    "sentence_furigana": "その説【せつ】は次第【しだい】に廃【すた】れていった。",
+    "meaning": "That theory gradually fell into disuse."
+  },
+  {
+    "sentence": "彼の説明は非常に説得力があった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は非常【ひじょう】に説得力【せっとくりょく】があった。",
+    "meaning": "His explanation was very persuasive."
+  },
+  {
+    "sentence": "この理論はまだ完璧ではない。",
+    "sentence_furigana": "この理論【りろん】はまだ完璧【かんぺき】ではない。",
+    "meaning": "This theory is not yet perfect."
+  },
+  {
+    "sentence": "彼は自説を展開する上で困難に直面した。",
+    "sentence_furigana": "彼【かれ】は自説【じせつ】を展開【てんかい】する上【うえ】で困難【こんなん】に直面【ちょくめん】した。",
+    "meaning": "He faced difficulties in developing his own theory."
+  },
+  {
+    "sentence": "この説明で十分にご理解いただけたでしょうか。",
+    "sentence_furigana": "この説明【せつめい】で十分【じゅうぶん】にご理解【ごりかい】いただけたでしょうか。",
+    "meaning": "Was this explanation sufficient for you to understand?"
+  },
+  {
+    "sentence": "その説は多くの人に影響を与えた。",
+    "sentence_furigana": "その説【せつ】は多【おお】くの人【ひと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "That theory influenced many people."
+  },
+  {
+    "sentence": "彼の説明は非常に的確だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は非常【ひじょう】に的確【てきかく】だった。",
+    "meaning": "His explanation was very accurate."
+  },
+  {
+    "sentence": "この理論は世界を変えた。",
+    "sentence_furigana": "この理論【りろん】は世界【せかい】を変【か】えた。",
+    "meaning": "This theory changed the world."
+  },
+  {
+    "sentence": "彼はその説の誤りを指摘した。",
+    "sentence_furigana": "彼【かれ】はその説【せつ】の誤【あやま】りを指摘【してき】した。",
+    "meaning": "He pointed out the error in that theory."
+  },
+  {
+    "sentence": "この噂は事実に反する。",
+    "sentence_furigana": "この噂【うわさ】は事実【じじつ】に反【はん】する。",
+    "meaning": "This rumor contradicts the facts."
+  },
+  {
+    "sentence": "彼の説明は分かりやすかったので助かりました。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は分かりやすかったので助【たす】かりました。",
+    "meaning": "His explanation was easy to understand, so it was helpful."
+  },
+  {
+    "sentence": "この説は一般的に受け入れられている。",
+    "sentence_furigana": "この説【せつ】は一般的【いっぱんてき】に受【う】け入【い】れられている。",
+    "meaning": "This theory is generally accepted."
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "sentence": "このお菓子は砂糖がたくさん入っています。",
+    "sentence_furigana": "このお菓子【がし】は砂糖【さとう】がたくさん入【はい】っています。",
+    "meaning": "This candy contains a lot of sugar."
+  },
+  {
+    "sentence": "糖尿病は血糖値が高くなる病気です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】は血糖値【けっとうち】が高【たか】くなる病気【びょうき】です。",
+    "meaning": "Diabetes is a disease where blood sugar levels become high."
+  },
+  {
+    "sentence": "果物には天然の糖分が含まれています。",
+    "sentence_furigana": "果物【くだもの】には天然【てんねん】の糖分【とうぶん】が含ま【ふくま】れています。",
+    "meaning": "Fruits contain natural sugars."
+  },
+  {
+    "sentence": "甘い飲み物は糖分が多いので注意が必要です。",
+    "sentence_furigana": "甘【あま】い飲【の】み物【もの】は糖分【とうぶん】が多【おお】いので注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Sweet drinks have a lot of sugar, so caution is needed."
+  },
+  {
+    "sentence": "食事の前に甘いものを食べると、食欲が減退します。",
+    "sentence_furigana": "食事【しょくじ】の前【まえ】に甘【あま】い物【もの】を食【た】べると、食欲【しょくよく】が減退【げんたい】します。",
+    "meaning": "Eating something sweet before a meal reduces appetite."
+  },
+  {
+    "sentence": "このジュースは人工甘味料を使っているので、糖分はゼロです。",
+    "sentence_furigana": "このジュースは人工甘味料【じんこうかんみりょう】を使【つか】っているので、糖分【とうぶん】はゼロです。",
+    "meaning": "This juice uses artificial sweeteners, so it has zero sugar."
+  },
+  {
+    "sentence": "運動後にはエネルギー補給として糖質を摂取すると良い。",
+    "sentence_furigana": "運動後【うんどうご】にはエネルギー補給【ほきゅう】として糖質【とうしつ】を摂取【せっしゅ】すると良【よ】い。",
+    "meaning": "It's good to consume carbohydrates for energy replenishment after exercise."
+  },
+  {
+    "sentence": "健康のために、砂糖の摂取量を控えるように心がけています。",
+    "sentence_furigana": "健康【けんこう】のために、砂糖【さとう】の摂取量【せっしゅりょう】を控【ひか】えるように心【こころ】がけています。",
+    "meaning": "For health, I try to control my sugar intake."
+  },
+  {
+    "sentence": "和菓子には独特の甘みと風味があります。",
+    "sentence_furigana": "和菓子【わがし】には独特【どくとく】の甘【あま】みと風味【ふうみ】があります。",
+    "meaning": "Japanese sweets have a unique sweetness and flavor."
+  },
+  {
+    "sentence": "彼の体調は糖分の摂りすぎで悪化した。",
+    "sentence_furigana": "彼【かれ】の体調【たいちょう】は糖分【とうぶん】の摂【と】りすぎで悪化【あっか】しました。",
+    "meaning": "His physical condition worsened due to excessive sugar intake."
+  },
+  {
+    "sentence": "このレシピでは、砂糖の代わりに蜂蜜を使用します。",
+    "sentence_furigana": "このレシピでは、砂糖【さとう】の代【か】わりに蜂蜜【はちみつ】を使【つか】います。",
+    "meaning": "In this recipe, honey is used instead of sugar."
+  },
+  {
+    "sentence": "子供たちは甘いものに目がありません。",
+    "sentence_furigana": "子供【こども】たちは甘【あま】いものに目【め】がありません。",
+    "meaning": "Children have a weakness for sweets."
+  },
+  {
+    "sentence": "低糖質ダイエットが流行しています。",
+    "sentence_furigana": "低糖質【ていとうしつ】ダイエットが流行【りゅうこう】しています。",
+    "meaning": "Low-carbohydrate diets are popular."
+  },
+  {
+    "sentence": "ケーキの生地に大量の砂糖を混ぜ合わせます。",
+    "sentence_furigana": "ケーキの生地【きじ】に大量【たいりょう】の砂糖【さとう】を混【ま】ぜ合【あ】わせます。",
+    "meaning": "A large amount of sugar is mixed into the cake batter."
+  },
+  {
+    "sentence": "彼女は甘党なので、デザートは欠かせません。",
+    "sentence_furigana": "彼女【かのじょ】は甘党【あまとう】なので、デザートは欠【か】かせません。",
+    "meaning": "She has a sweet tooth, so dessert is indispensable."
+  },
+  {
+    "sentence": "このフルーツは糖度が高く、とても甘いです。",
+    "sentence_furigana": "このフルーツは糖度【とうど】が高【たか】く、とても甘【あま】いです。",
+    "meaning": "This fruit is high in sugar content and very sweet."
+  },
+  {
+    "sentence": "血糖コントロールは糖尿病管理の基本です。",
+    "sentence_furigana": "血糖【けっとう】コントロールは糖尿病【とうにょうびょう】管理【かんり】の基本【きほん】です。",
+    "meaning": "Blood sugar control is fundamental to diabetes management."
+  },
+  {
+    "sentence": "コーラには想像以上に多くの糖分が含まれている。",
+    "sentence_furigana": "コーラには想像以上【そうぞういじょう】に多【おお】くの糖分【とうぶん】が含ま【ふくま】れている。",
+    "meaning": "Cola contains more sugar than imagined."
+  },
+  {
+    "sentence": "野菜の甘みは自然の恵みです。",
+    "sentence_furigana": "野菜【やさい】の甘【あま】みは自然【しぜん】の恵【めぐ】みです。",
+    "meaning": "The sweetness of vegetables is a gift of nature."
+  },
+  {
+    "sentence": "彼はダイエットのために砂糖を控えている。",
+    "sentence_furigana": "彼【かれ】はダイエットのため��砂糖【さとう】を控【ひか】えている。",
+    "meaning": "He is cutting back on sugar for his diet."
+  },
+  {
+    "sentence": "この料理は甘すぎず、ちょうど良い味付けです。",
+    "sentence_furigana": "この料理【りょうり】は甘【あま】���ず、ちょうど良【よ】い味付【あじつ】けです。",
+    "meaning": "This dish is not too sweet and has just the right seasoning."
+  },
+  {
+    "sentence": "精製された糖質は栄養価が低い。",
+    "sentence_furigana": "精製【せいせい】された糖質【とうしつ】は栄養価【えいようか】が低【ひく】い。",
+    "meaning": "Refined carbohydrates are low in nutritional value."
+  },
+  {
+    "sentence": "コーヒーに砂糖を２杯入れます。",
+    "sentence_furigana": "コーヒーに砂糖【さとう】を２杯【はい】入【い】れます。",
+    "meaning": "I put two spoonfuls of sugar in my coffee."
+  },
+  {
+    "sentence": "乳幼児には蜂蜜を与えないでください。",
+    "sentence_furigana": "乳幼児【にゅうようじ】には蜂蜜【はちみつ】を与【あた】えないでください。",
+    "meaning": "Do not give honey to infants."
+  },
+  {
+    "sentence": "このジャムは果物の自然な甘さを活かしています。",
+    "sentence_furigana": "このジャムは果物【くだもの】の自然【しぜん】な甘【あま】さを活【い】かしています。",
+    "meaning": "This jam makes the most of the fruit's natural sweetness."
+  },
+  {
+    "sentence": "糖尿病の患者は食事療法が重要です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の患者【かんじゃ】は食事療法【しょくりょうほう】が重要【じゅうよう】です。",
+    "meaning": "Dietary therapy is important for diabetic patients."
+  },
+  {
+    "sentence": "子供の虫歯の原因には糖分の摂りすぎがある。",
+    "sentence_furigana": "子供【こども】の虫歯【むしば】の原因【げんいん】には糖分【とうぶん】の摂【と】りすぎがある。",
+    "meaning": "Excessive sugar intake is a cause of cavities in children."
+  },
+  {
+    "sentence": "この焼き菓子は表面にグラニュー糖がまぶしてある。",
+    "sentence_furigana": "この焼【や】き菓子【がし】は表面【ひょうめん】にグラニュー糖【とう】がまぶしてある。",
+    "meaning": "This baked confection is coated with granulated sugar on the surface."
+  },
+  {
+    "sentence": "血糖値の急上昇を避けるためには、ゆっくりよく噛んで食べることが大切だ。",
+    "sentence_furigana": "血糖値【けっとうち】の急上昇【きゅうじょうしょう】を避【さ】けるためには、ゆっくりよく噛【か】んで食【た】べることが大切【たいせつ】だ。",
+    "meaning": "To avoid a rapid rise in blood sugar, it is important to eat slowly and chew thoroughly."
+  },
+  {
+    "sentence": "このお米は甘みがあって美味しいです。",
+    "sentence_furigana": "このお米【こめ】は甘【あま】みがあって美味【おい】しいです。",
+    "meaning": "This rice is sweet and delicious."
+  },
+  {
+    "sentence": "ショ糖はショ糖エステルの原料となる。",
+    "sentence_furigana": "ショ糖【しょう】はショ糖【しょう】エステルの原料【げんりょう】となる。",
+    "meaning": "Sucrose becomes a raw material for sucrose esters."
+  },
+  {
+    "sentence": "高齢者は糖分の摂取に注意が必要だ。",
+    "sentence_furigana": "高齢者【こうれいしゃ】は糖分【とうぶん】の摂取【せっしゅ】に注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Elderly people need to be careful about sugar intake."
+  },
+  {
+    "sentence": "彼は甘い香りのする食べ物が好きだ。",
+    "sentence_furigana": "彼【かれ】は甘【あま】い香【かお】りのする食【た】べ物【もの】が好【す】きだ。",
+    "meaning": "He likes food that has a sweet aroma."
+  },
+  {
+    "sentence": "このレシピでは、砂糖を減らして代わりに甘味料を使います。",
+    "sentence_furigana": "このレシピでは、砂糖【さとう】を減【へ】らして代【か】わりに甘味料【かんみりょう】を使【つか】います。",
+    "meaning": "In this recipe, sugar is reduced and sweeteners are used instead."
+  },
+  {
+    "sentence": "糖尿病の合併症には網膜症などがある。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の合併症【がっぺいしょう】には網膜症【もうまくしょう】などがある。",
+    "meaning": "Complications of diabetes include retinopathy."
+  },
+  {
+    "sentence": "このクッキーは甘さ控えめなので、たくさん食べられます。",
+    "sentence_furigana": "このクッキーは甘【あま】さ控え【ひか】えめなので、たくさん食【た】べられます。",
+    "meaning": "This cookie is not too sweet, so I can eat a lot of it."
+  },
+  {
+    "sentence": "運動は血糖値を下げる効果がある。",
+    "sentence_furigana": "運動【うんどう】は血糖値【けっとうち】を下【さ】げる効果【こうか】がある。",
+    "meaning": "Exercise has the effect of lowering blood sugar levels."
+  },
+  {
+    "sentence": "このドリンクにはブドウ糖が配合されている。",
+    "sentence_furigana": "このドリンクにはブドウ糖【とう】が配合【はいごう】されている。",
+    "meaning": "This drink contains glucose."
+  },
+  {
+    "sentence": "彼女は甘いものがやめられないと言っていた。",
+    "sentence_furigana": "彼女【かのじょ】は甘【あま】いものがやめられないと言【い】っていた。",
+    "meaning": "She said she couldn't stop eating sweets."
+  },
+  {
+    "sentence": "糖尿病の食事管理は毎日の積み重ねが大切です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の食事管理【しょくじかんり】は毎日【まいにち】の積【つ】み重【かさ】ねが大切【たいせつ】です。",
+    "meaning": "Daily accumulation is important for diabetes meal management."
+  },
+  {
+    "sentence": "このお菓子は砂糖の代わりにデーツを使っています。",
+    "sentence_furigana": "このお菓子【がし】は砂糖【さとう】の代【か】わりにデーツを使【つか】っています。",
+    "meaning": "This sweet uses dates instead of sugar."
+  },
+  {
+    "sentence": "血糖値が急激に上がると、体に負担がかかります。",
+    "sentence_furigana": "血糖値【けっとうち】が急激【きゅうげき】に上【あ】がると、体【からだ】に負担【ふたん】がかかります。",
+    "meaning": "When blood sugar levels rise sharply, it puts a strain on the body."
+  },
+  {
+    "sentence": "この野菜は加熱すると甘みが増します。",
+    "sentence_furigana": "この野菜【やさい】は加熱【かねつ】すると甘【あま】みが増【ま】します。",
+    "meaning": "This vegetable becomes sweeter when heated."
+  },
+  {
+    "sentence": "彼は甘いアイスクリームを毎日食べている。",
+    "sentence_furigana": "彼【かれ】は甘【あま】いアイスクリームを毎日【まいにち】食【た】べている。",
+    "meaning": "He eats sweet ice cream every day."
+  },
+  {
+    "sentence": "この料理には隠し味として砂糖が少量加えられている。",
+    "sentence_furigana": "この料理【りょうり】には隠【かく】し味【あじ】として砂糖【さとう】が少量【しょうりょう】加【くわ】えられている。",
+    "meaning": "A small amount of sugar is added to this dish as a hidden flavor."
+  },
+  {
+    "sentence": "糖尿病予備群の方は生活習慣の見直しが必要です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】予備群【よびぐん】の方【かた】は生活習慣【せいかつしゅうかん】の見直【みなお】しが必要【ひつよう】です。",
+    "meaning": "People in the pre-diabetic stage need to review their lifestyle habits."
+  },
+  {
+    "sentence": "このパンは全粒粉を使っているので、自然な甘みがあります。",
+    "sentence_furigana": "このパンは全粒粉【ぜんりゅうふん】を使【つか】っているので、自然【しぜん】な甘【あま】みがあります。",
+    "meaning": "This bread uses whole wheat flour, so it has a natural sweetness."
+  },
+  {
+    "sentence": "砂糖の代わりにオリゴ糖を使うと、腸内環境が整います。",
+    "sentence_furigana": "砂糖【さとう】の代【か】わりにオリゴ糖【とう】を使【つか】うと、腸内環境【ちょうないかんきょう】が整【ととの】います。",
+    "meaning": "Using oligosaccharides instead of sugar improves the intestinal environment."
+  },
+  {
+    "sentence": "彼の顔には満足そうな甘い表情が浮かんでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には満足【まんぞく】そう��甘【あま】い表情【ひょうじょう】が浮【う】かんでいた。",
+    "meaning": "A satisfied, sweet expression was on his face."
+  },
+  {
+    "sentence": "このジュースは糖分が添加されていないので安心です。",
+    "sentence_furigana": "このジュースは糖分【とうぶん】が添加【てんか】されていないので安心【あんしん】です。",
+    "meaning": "This juice has no added sugar, so it is safe."
+  },
+  {
+    "sentence": "健康診断で血糖値が高めだと言われた。",
+    "sentence_furigana": "健康診断【けんこうしんだん】で血糖値【けっとうち】が高【たか】めだと言【い】われた。",
+    "meaning": "My blood sugar level was said to be high at my health checkup."
+  },
+  {
+    "sentence": "このケーキは甘すぎるので、一切れしか食べられません。",
+    "sentence_furigana": "このケーキは甘【あま】���ぎるので、一切【いっさい】れしか食【た】べられません。",
+    "meaning": "This cake is too sweet, so I can only eat one slice."
+  },
+  {
+    "sentence": "私は甘いものはあまり好きではありません。",
+    "sentence_furigana": "私【わたし】は甘【あま】いもの��あまり好【す】きではありません。",
+    "meaning": "I don't like sweets very much."
+  },
+  {
+    "sentence": "果糖は果物に含まれる糖の一種です。",
+    "sentence_furigana": "果糖【かとう】は果物【くだもの】に含ま【ふくま】れる糖【とう】の一種【いっしゅ】です。",
+    "meaning": "Fructose is a type of sugar found in fruits."
+  },
+  {
+    "sentence": "この食事は糖質制限を意識して作られています。",
+    "sentence_furigana": "この食事【しょくじ】は糖質制限【とうしつせいげん】を意識【いしき】して作【つく】られています。",
+    "meaning": "This meal is made with consideration for carbohydrate restriction."
+  },
+  {
+    "sentence": "彼はコーヒーに砂糖を３杯入れないと飲まない。",
+    "sentence_furigana": "彼【かれ】はコーヒーに砂糖【さとう】を３杯【はい】入【い】れないと飲【の】まない。",
+    "meaning": "He doesn't drink coffee unless he puts three spoonfuls of sugar in it."
+  },
+  {
+    "sentence": "このシリアルは糖分がカットされているのでヘルシーだ。",
+    "sentence_furigana": "このシリアルは糖分【とうぶん】がカットされているのでヘルシーだ。",
+    "meaning": "This cereal has reduced sugar content, so it's healthy."
+  },
+  {
+    "sentence": "糖尿病の合併症を予防するためには、血糖管理が重要です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の合併症【がっぺいしょう】を予防【よぼう】するためには、血糖管理【けっとうかんり】が重要【じゅうよう】です。",
+    "meaning": "Blood sugar control is important to prevent diabetes complications."
+  },
+  {
+    "sentence": "このソースは砂糖が多めに入っています。",
+    "sentence_furigana": "このソースは砂糖【さとう】が多【おお】めに入【はい】っています。",
+    "meaning": "This sauce contains a generous amount of sugar."
+  },
+  {
+    "sentence": "子供の頃は甘いお菓子ばかり食べていた。",
+    "sentence_furigana": "子供の頃【こどものころ】は甘【あま】いお菓子【がし】ばかり食【た】べていた。",
+    "meaning": "I only ate sweet snacks when I was a child."
+  },
+  {
+    "sentence": "このスープは野菜の甘みが溶け出していて美味しい。",
+    "sentence_furigana": "このスープは野菜【やさい】の甘【あま】みが溶【と】け出【だ】していて美味【おい】しい。",
+    "meaning": "This soup is delicious with the sweetness of vegetables melted into it."
+  },
+  {
+    "sentence": "彼は甘いタバコを吸うのが好きだ。",
+    "sentence_furigana": "彼【かれ】は甘【あま】いタバコを吸【す】うのが好【す】きだ。",
+    "meaning": "He likes to smoke sweet cigarettes."
+  },
+  {
+    "sentence": "この食品表示には糖質〇〇グラムと書いてある。",
+    "sentence_furigana": "この食品表示【しょくひんひょうじ】には糖質【とうしつ】〇〇グラムと書【か】いてある。",
+    "meaning": "This food label says XX grams of carbohydrates."
+  },
+  {
+    "sentence": "糖尿病の方は定期的な運動を心がけるべきです。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の方【かた】は定期的【ていきてき】な運動【うんどう】を心【こころ】がけるべきです。",
+    "meaning": "People with diabetes should strive for regular exercise."
+  },
+  {
+    "sentence": "このレシピでは砂糖を一切使用しません。",
+    "sentence_furigana": "このレシピでは砂糖【さとう】を一切【いっさい】使用【しよう】しません。",
+    "meaning": "No sugar is used in this recipe."
+  },
+  {
+    "sentence": "彼女は甘い香りのする香水をつけた。",
+    "sentence_furigana": "彼女【かのじょ】は甘【あま】い香【かお】りのする香水【こうすい】をつけた。",
+    "meaning": "She put on a sweet-smelling perfume."
+  },
+  {
+    "sentence": "果物は自然な甘みがあり、体に良い。",
+    "sentence_furigana": "果物【くだもの】は自然【しぜん】な甘【あま】みがあり、体【からだ】に良【よ】い。",
+    "meaning": "Fruits have natural sweetness and are good for the body."
+  },
+  {
+    "sentence": "彼は甘いものばかり食べているので、健康が心配だ。",
+    "sentence_furigana": "彼【かれ】は甘【あま】いものばかり食【た】べているので、健康【けんこう】が心配【しんぱい】だ。",
+    "meaning": "I am worried about his health because he only eats sweets."
+  },
+  {
+    "sentence": "この薬は糖分の吸収を抑える効果がある。",
+    "sentence_furigana": "この薬【くすり】は糖分【とうぶん】の吸収【きゅうしゅう】を抑【おさ】える効果【こうか】がある。",
+    "meaning": "This medicine has the effect of suppressing sugar absorption."
+  },
+  {
+    "sentence": "この料理の甘さは、タマネギを炒めたことによるものです。",
+    "sentence_furigana": "この料理【りょうり】の甘【あま】さは、タマネギを炒【いた】めたことによるものです。",
+    "meaning": "The sweetness of this dish is due to sautéed onions."
+  },
+  {
+    "sentence": "糖尿病の人は、炭水化物の摂取量に注意が必要です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の人【ひと】は、炭水化物【たんすいかぶつ】の摂取量【せっしゅりょう】に注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "People with diabetes need to be careful about their carbohydrate intake."
+  },
+  {
+    "sentence": "彼はデザートにチョコレートケーキを注文した。",
+    "sentence_furigana": "彼【かれ】はデザートにチョコレートケーキを注文【ちゅうもん】した。",
+    "meaning": "He ordered a chocolate cake for dessert."
+  },
+  {
+    "sentence": "この飲料は無糖なので、安心して飲めます。",
+    "sentence_furigana": "この飲料【いんりょう】は無糖【むとう】なので、安心【あんしん】して飲【の】めます。",
+    "meaning": "This beverage is sugar-free, so you can drink it with peace of mind."
+  },
+  {
+    "sentence": "この焼き芋は甘くてホクホクしている。",
+    "sentence_furigana": "この焼【や】き芋【いも】は甘【あま】くてホクホクしている。",
+    "meaning": "This baked sweet potato is sweet and fluffy."
+  },
+  {
+    "sentence": "健康のために、加工糖の摂取を減らそうと思います。",
+    "sentence_furigana": "健康【けんこう】のため��加工糖【かこうとう】の摂取【せっしゅ】を減【へ】らそうと思【おも】います。",
+    "meaning": "For health, I intend to reduce my intake of processed sugars."
+  },
+  {
+    "sentence": "彼女は甘いものが大好きで、毎日ケーキを食べている。",
+    "sentence_furigana": "彼女【かのじょ】は甘【あま】いものが大好【だいす】きで、毎日【まいにち】ケーキを食【た】べている。",
+    "meaning": "She loves sweets and eats cake every day."
+  },
+  {
+    "sentence": "この料理は砂糖を控えめに使っているので、素材の味が活きている。",
+    "sentence_furigana": "この料理【りょうり】は砂糖【さとう】を控【ひか】えめに使【つか】っているので、素材【そざい】の味【あじ】が活【い】きている。",
+    "meaning": "This dish uses sugar sparingly, so the original flavors of the ingredients are highlighted."
+  },
+  {
+    "sentence": "糖尿病の管理には、食事、運動、薬物療法が重要です。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の管理【かんり】には、食事【しょくじ】、運動【うんどう】、薬物療法【やくぶつりょうほう】が重要【じゅうよう】です。",
+    "meaning": "Diet, exercise, and medication are important for managing diabetes."
+  },
+  {
+    "sentence": "このジャムは糖度が高いため、保存がききます。",
+    "sentence_furigana": "このジャムは糖度【とうど】が高【たか】いため、保存【ほぞん】がききます。",
+    "meaning": "This jam has a high sugar content, so it keeps well."
+  },
+  {
+    "sentence": "彼は甘い香りのする紅茶を飲んでいる。",
+    "sentence_furigana": "彼【かれ】は甘【あま】い香【かお】りのする紅茶【こうちゃ】を飲【の】んでいる。",
+    "meaning": "He is drinking sweet-scented black tea."
+  },
+  {
+    "sentence": "このお菓子は甘さが控えめで、上品な味わいです。",
+    "sentence_furigana": "このお菓子【がし】は甘【あま】さが控え【ひか】えめで、上品【じょうひん】な味わ【あじわ】いです。",
+    "meaning": "This confection is not too sweet and has a refined taste."
+  },
+  {
+    "sentence": "血糖値の変動を小さくするために、ゆっくり食べることを意識しましょう。",
+    "sentence_furigana": "血糖値【けっとうち】の変動【へんどう】を小【ちい】さくするために、ゆっくり食【た】べることを意識【いしき】しましょう。",
+    "meaning": "Let's try to eat slowly to minimize fluctuations in blood sugar levels."
+  },
+  {
+    "sentence": "この果物は非常に糖度が高く、まるで砂糖漬けのようだ。",
+    "sentence_furigana": "この果物【くだもの】は非常【ひじょう】に糖度【とうど】が高【たか】く、まるで砂糖漬【さとうづ】けのようだ。",
+    "meaning": "This fruit has a very high sugar content, almost like it's candied."
+  },
+  {
+    "sentence": "糖尿病の人は、医師の指示に従って食事療法を行う必要があります。",
+    "sentence_furigana": "糖尿病【とうにょうびょう】の人【ひと】は、医師【いし】の指示【しじ】に従【したが】って食事療法【しょくりょうほう】を行【おこな】う必要【ひつよう】があります。",
+    "meaning": "People with diabetes need to follow their doctor's instructions for dietary therapy."
+  },
+  {
+    "sentence": "この蜂蜜は天然の糖分が豊富に含まれています。",
+    "sentence_furigana": "この蜂蜜【はちみつ】は天然【てんねん】の糖分【とうぶん】が豊富【ほうふ】に含ま【ふくま】れています。",
+    "meaning": "This honey is rich in natural sugars."
+  },
+  {
+    "sentence": "彼は仕事のストレスで甘いものに走りがちだ。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】のストレスで甘【あま】いものに走【は】りがちだ。",
+    "meaning": "He tends to turn to sweets when stressed from work."
+  },
+  {
+    "sentence": "この調味料は甘草（かんぞう）を加えて作られている。",
+    "sentence_furigana": "この調味料【ちょうみりょう】は甘草【かんぞう】を加【くわ】えて作【つく】られている。",
+    "meaning": "This seasoning is made with the addition of licorice."
+  },
+  {
+    "sentence": "このお茶は砂糖を入れても美味しい。",
+    "sentence_furigana": "このお茶【ちゃ】は砂糖【さとう】を入【い】れても美味【おい】しい。",
+    "meaning": "This tea is delicious even with sugar added."
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "sentence": "あの声は誰が言っているのか聞きたい。",
+    "sentence_furigana": "あの声【こえ】は誰【だれ】が言【い】っているのか聞【き】きたい。",
+    "meaning": "I want to hear who is speaking that voice."
+  },
+  {
+    "sentence": "先生に質問を聞いた。",
+    "sentence_furigana": "先生【せんせい】に質問【しつもん】を聞【き】いた。",
+    "meaning": "I asked the teacher a question."
+  },
+  {
+    "sentence": "ラジオを聞いています。",
+    "sentence_furigana": "ラジオを聞【き】いています。",
+    "meaning": "I am listening to the radio."
+  },
+  {
+    "sentence": "噂を聞いたことがありますか？",
+    "sentence_furigana": "噂【うわさ】を聞【き】いたことがありますか？",
+    "meaning": "Have you heard the rumor?"
+  },
+  {
+    "sentence": "その話は初めて聞きました。",
+    "sentence_furigana": "その話【はなし】は初【はじ】めて聞【き】きました。",
+    "meaning": "This is the first time I've heard that story."
+  },
+  {
+    "sentence": "彼は私の言うことを聞かない。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の言【い】うことを聞【き】かない。",
+    "meaning": "He doesn't listen to what I say."
+  },
+  {
+    "sentence": "静かにしてください、音が聞こえます。",
+    "sentence_furigana": "静【しず】かにしてください、音【おと】が聞【きこ】えます。",
+    "meaning": "Please be quiet, I can hear a sound."
+  },
+  {
+    "sentence": "彼女は親切に私の話を聞いてくれた。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】に私【わたし】の話【はなし】を聞【き】いてくれた。",
+    "meaning": "She kindly listened to my story."
+  },
+  {
+    "sentence": "このニュースを聞いて驚いた。",
+    "sentence_furigana": "このニュースを聞【き】いて驚【おどろ】いた。",
+    "meaning": "I was surprised to hear this news."
+  },
+  {
+    "sentence": "会議で発言を聞く。",
+    "sentence_furigana": "会議【かいぎ】で発言【はつげん】を聞【き】く。",
+    "meaning": "Listen to the remarks at the meeting."
+  },
+  {
+    "sentence": "彼の意見を聞かせてください。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を聞【き】かせてください。",
+    "meaning": "Please let me hear his opinion."
+  },
+  {
+    "sentence": "耳を澄まして聞く。",
+    "sentence_furigana": "耳【みみ】を澄【す】まして聞【き】く。",
+    "meaning": "To listen intently with one's ears."
+  },
+  {
+    "sentence": "子供は親の言うことを聞くべきだ。",
+    "sentence_furigana": "子供【こども】は親【おや】の言【い】うことを聞【き】くべきだ。",
+    "meaning": "Children should obey their parents."
+  },
+  {
+    "sentence": "その音楽を聞くと落ち着く。",
+    "sentence_furigana": "その音楽【おんがく】を聞【き】くと落【お】ち着【つ】く。",
+    "meaning": "Listening to that music calms me down."
+  },
+  {
+    "sentence": "何か聞こえないか？",
+    "sentence_furigana": "何【なに】か聞【き】こえないか？",
+    "meaning": "Can you hear something?"
+  },
+  {
+    "sentence": "彼の噂を聞いて心配になった。",
+    "sentence_furigana": "彼【かれ】の噂【うわさ】を聞【き】いて心配【しんぱい】になった。",
+    "meaning": "I heard rumors about him and became worried."
+  },
+  {
+    "sentence": "警察官に事情を聞かれた。",
+    "sentence_furigana": "警察官【けいさつかん】に事情【じじょう】を聞【き】かれた。",
+    "meaning": "I was questioned by a police officer about the circumstances."
+  },
+  {
+    "sentence": "その知らせを聞いて飛び上がった。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて飛【と】び上【あ】がった。",
+    "meaning": "I jumped for joy upon hearing the news."
+  },
+  {
+    "sentence": "他人の話は聞きたくない。",
+    "sentence_furigana": "他人【たにん】の話【はなし】は聞【き】きたくない。",
+    "meaning": "I don't want to hear other people's stories."
+  },
+  {
+    "sentence": "遠くで犬の鳴き声が聞こえる。",
+    "sentence_furigana": "遠【とお】くで犬【いぬ】の鳴【な】き声【ごえ】が聞【きこ】える。",
+    "meaning": "I can hear a dog barking in the distance."
+  },
+  {
+    "sentence": "その件について詳しく聞きたい。",
+    "sentence_furigana": "その件【けん】について詳【くわ】しく聞【き】きたい。",
+    "meaning": "I want to hear more about that matter."
+  },
+  {
+    "sentence": "両親の言葉を聞いて涙が出た。",
+    "sentence_furigana": "両親【りょうしん】の言葉【ことば】を聞【き】いて涙【なみだ】が出【で】た。",
+    "meaning": "Tears came to my eyes when I heard my parents' words."
+  },
+  {
+    "sentence": "耳をふさいでも音が聞こえてくる。",
+    "sentence_furigana": "耳【みみ】を塞【ふさ】いでも音【おと】が聞【きこ】えてくる。",
+    "meaning": "Even if I cover my ears, the sound comes through."
+  },
+  {
+    "sentence": "友達の悩みを一生懸命聞いた。",
+    "sentence_furigana": "友達【ともだち】の悩【なや】みを一生懸命【いっしょうけんめい】聞【き】いた。",
+    "meaning": "I listened intently to my friend's worries."
+  },
+  {
+    "sentence": "その事件の報道を聞いた。",
+    "sentence_furigana": "その事件【じけん】の報道【ほうどう】を聞【き】いた。",
+    "meaning": "I heard the report about that incident."
+  },
+  {
+    "sentence": "先生の話を聞いて感動した。",
+    "sentence_furigana": "先生【せんせい】の話【はなし】を聞【き】いて感動【かんどう】した。",
+    "meaning": "I was moved by the teacher's story."
+  },
+  {
+    "sentence": "騒がしくて人の声が聞こえない。",
+    "sentence_furigana": "騒【さわ】がしくて人【ひと】の声【こえ】が聞【きこ】えない。",
+    "meaning": "It's too noisy to hear people's voices."
+  },
+  {
+    "sentence": "依頼を聞いて、すぐに実行に移した。",
+    "sentence_furigana": "依頼【いらい】を聞【き】いて、すぐに行動【こうどう】に移【うつ】した。",
+    "meaning": "Upon hearing the request, I immediately took action."
+  },
+  {
+    "sentence": "そのニュースを聞いて、彼は顔色を変えた。",
+    "sentence_furigana": "そのニュースを聞【き】いて、彼【かれ】は顔色【かおいろ】を変【か】えた。",
+    "meaning": "Hearing that news, he changed his expression."
+  },
+  {
+    "sentence": "音楽を聞きながら勉強する。",
+    "sentence_furigana": "音楽【おんがく】を聞【き】きながら勉強【べんきょう】する。",
+    "meaning": "I study while listening to music."
+  },
+  {
+    "sentence": "彼の忠告を聞き入れることにした。",
+    "sentence_furigana": "彼【かれ】の忠告【ちゅうこく】を聞【き】き入【い】れることにした。",
+    "meaning": "I decided to heed his advice."
+  },
+  {
+    "sentence": "何回も説明を聞いたが、理解できなかった。",
+    "sentence_furigana": "何回【なんかい】も説明【せつめい】を聞【き】いたが、理解【りかい】できなかった。",
+    "meaning": "I heard the explanation many times, but I couldn't understand."
+  },
+  {
+    "sentence": "遠くからかすかな音が聞こえてくる。",
+    "sentence_furigana": "遠【とお】くからかすかな音【おと】が聞【きこ】えてくる。",
+    "meaning": "A faint sound can be heard from afar."
+  },
+  {
+    "sentence": "その提案を聞いて、皆が賛成した。",
+    "sentence_furigana": "その提案【ていあん】を聞【き】いて、皆【みんな】が賛成【さんせい】した。",
+    "meaning": "Upon hearing the proposal, everyone agreed."
+  },
+  {
+    "sentence": "彼の話はいつも面白いので聞くのが楽しみだ。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも面白【おもしろ】いので聞【き】くのが楽【たの】しみだ。",
+    "meaning": "His stories are always interesting, so I look forward to hearing them."
+  },
+  {
+    "sentence": "会議の議事録を聞き直す。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】を聞【き】き直【なお】す。",
+    "meaning": "Re-listen to the meeting minutes."
+  },
+  {
+    "sentence": "彼は人の意見をあまり聞かない。",
+    "sentence_furigana": "彼【かれ】は人【ひと】の意見【いけん】をあまり聞【き】かない。",
+    "meaning": "He doesn't listen to other people's opinions much."
+  },
+  {
+    "sentence": "遠くから人の話し声が聞こえた。",
+    "sentence_furigana": "遠【とお】くから人【ひと】の話【はな】し声【ごえ】が聞【きこ】えた。",
+    "meaning": "I heard people talking from a distance."
+  },
+  {
+    "sentence": "その出来事を聞いて衝撃を受けた。",
+    "sentence_furigana": "その出来事【できごと】を聞【き】いて衝撃【しょうげき】を受【う】けた。",
+    "meaning": "I was shocked to hear about that event."
+  },
+  {
+    "sentence": "彼は皆の意見を聞いてから決めた。",
+    "sentence_furigana": "彼【かれ】は皆【みんな】の意見【いけん】を聞【き】いてから決【き】めた。",
+    "meaning": "He made the decision after listening to everyone's opinions."
+  },
+  {
+    "sentence": "この騒音はもう聞くに堪えない。",
+    "sentence_furigana": "この騒音【そうおん】はもう聞【き】くに堪【た】えない。",
+    "meaning": "I can no longer stand this noise."
+  },
+  {
+    "sentence": "彼の活躍を聞いて勇気づけられた。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を聞【き】いて勇【ゆう】気づけられた。",
+    "meaning": "I was encouraged by hearing about his achievements."
+  },
+  {
+    "sentence": "その曲を聞くと、昔の思い出がよみがえる。",
+    "sentence_furigana": "その曲【きょく】を聞【き】くと、昔【むかし】の思【おも】い出【で】がよみがえる。",
+    "meaning": "Listening to that song brings back old memories."
+  },
+  {
+    "sentence": "何か変な音が聞こえる。",
+    "sentence_furigana": "何【なに】か変【へん】な音【おと】が聞【きこ】える。",
+    "meaning": "I can hear a strange sound."
+  },
+  {
+    "sentence": "その知らせは喜ばしいものでしたか？",
+    "sentence_furigana": "その知【し】らせは喜【よろこ】ばしいものでしたか？",
+    "meaning": "Was that news joyous?"
+  },
+  {
+    "sentence": "先生にわからないところを聞く。",
+    "sentence_furigana": "先生【せんせい】にわからないところを聞【き】く。",
+    "meaning": "Ask the teacher about the parts you don't understand."
+  },
+  {
+    "sentence": "遠くで鐘の音が聞こえる。",
+    "sentence_furigana": "遠【おお】くで鐘【かね】の音【おと】が聞【きこ】える。",
+    "meaning": "I can hear the sound of a bell in the distance."
+  },
+  {
+    "sentence": "彼は人の話を最後まで聞かない。",
+    "sentence_furigana": "彼【かれ】は人【ひと】の話【はなし】を最後【さいご】まで聞【き】かない。",
+    "meaning": "He doesn't listen to people until the end."
+  },
+  {
+    "sentence": "彼女の歌声は遠くまで聞こえる。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は遠【とお】くまで聞【きこ】える。",
+    "meaning": "Her singing voice can be heard far away."
+  },
+  {
+    "sentence": "この地域の文化について聞く。",
+    "sentence_furigana": "この地域【ちいき】の文化【ぶんか】について聞【き】く。",
+    "meaning": "Learn about the culture of this region."
+  },
+  {
+    "sentence": "彼の成功の秘訣を聞いた。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】の秘訣【ひけつ】を聞【き】いた。",
+    "meaning": "I asked him the secret to his success."
+  },
+  {
+    "sentence": "静かな音楽を聞いてリラックスする。",
+    "sentence_furigana": "静【しず】かな音楽【おんがく】を聞【き】いてリラックスする。",
+    "meaning": "Relax by listening to quiet music."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼は元気になった。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて、彼【かれ】は元気【げんき】になった。",
+    "meaning": "He cheered up upon hearing the news."
+  },
+  {
+    "sentence": "子供たちの元気な声が聞こえてくる。",
+    "sentence_furigana": "子供【こども】たちの元気【げんき】な声【こえ】が聞【きこ】えてくる。",
+    "meaning": "I can hear the lively voices of the children."
+  },
+  {
+    "sentence": "彼の経験談を聞くことができた。",
+    "sentence_furigana": "彼【かれ】の経験談【けいけんたん】を聞【き】くことができた。",
+    "meaning": "I was able to hear his account of his experiences."
+  },
+  {
+    "sentence": "この部屋では外の音がよく聞こえる。",
+    "sentence_furigana": "この部屋【へや】では外【そと】の音【おと】がよく聞【きこ】える。",
+    "meaning": "Outside sounds can be heard well in this room."
+  },
+  {
+    "sentence": "彼女の願いを聞き入れてあげよう。",
+    "sentence_furigana": "彼女【かのじょ】の願【ねが】いを聞【き】き入【い】れてあげよう。",
+    "meaning": "Let's grant her wish."
+  },
+  {
+    "sentence": "そのニュースを聞いて、日本中が驚いた。",
+    "sentence_furigana": "そのニュースを聞【き】いて、日本中【にほんじゅう】が驚【おどろ】いた。",
+    "meaning": "The whole of Japan was surprised to hear that news."
+  },
+  {
+    "sentence": "静かにして、何か聞こえるだろうか？",
+    "sentence_furigana": "静【しず】かにして、何【なに】か聞【き】こえるだろうか？",
+    "meaning": "Be quiet, can you hear something?"
+  },
+  {
+    "sentence": "彼の話は退屈で、聞くのが苦痛だった。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は退屈【たいくつ】で、聞【き】くのが苦痛【くつう】だった。",
+    "meaning": "His story was boring and painful to listen to."
+  },
+  {
+    "sentence": "その悲鳴が遠くから聞こえてきた。",
+    "sentence_furigana": "その悲鳴【ひめい】が遠【とお】くから聞【きこ】えてきた。",
+    "meaning": "That scream was heard from a distance."
+  },
+  {
+    "sentence": "先生の質問を聞き間違えた。",
+    "sentence_furigana": "先生【せんせい】の質問【しつもん】を聞【き】き間違【まちが】えた。",
+    "meaning": "I misheard the teacher's question."
+  },
+  {
+    "sentence": "彼の決意を聞いて感銘を受けた。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】を聞【き】いて感銘【かんめい】を受【う】けた。",
+    "meaning": "I was impressed by hearing his determination."
+  },
+  {
+    "sentence": "その噂を耳にすると、彼は動揺した。",
+    "sentence_furigana": "その噂【うわさ】を耳【みみ】にすると、彼【かれ】は動揺【どうよう】した。",
+    "meaning": "Hearing that rumor, he was upset."
+  },
+  {
+    "sentence": "彼の助言を聞くべきだった。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】を聞【き】くべきだった。",
+    "meaning": "I should have listened to his advice."
+  },
+  {
+    "sentence": "多くの人がその話を聞きに来た。",
+    "sentence_furigana": "多【おお】くの人【ひと】がその話【はなし】を聞【き】に来【き】た。",
+    "meaning": "Many people came to hear that story."
+  },
+  {
+    "sentence": "静かに座って、彼の話を聞いた。",
+    "sentence_furigana": "静【しず】かに座【すわ】って、彼【かれ】の話【はなし】を聞【き】いた。",
+    "meaning": "I sat quietly and listened to his story."
+  },
+  {
+    "sentence": "窓の外から鳥のさえずりが聞こえる。",
+    "sentence_furigana": "窓【まど】の外【そと】から鳥【とり】のさえずりが聞【きこ】える。",
+    "meaning": "I can hear birds chirping from outside the window."
+  },
+  {
+    "sentence": "彼の最後の言葉を聞かせてください。",
+    "sentence_furigana": "彼【かれ】の最後【さいご】の言葉【ことば】を聞【き】かせてください。",
+    "meaning": "Please let me hear his last words."
+  },
+  {
+    "sentence": "その悲劇的なニュースを聞いて、皆、悲しんだ。",
+    "sentence_furigana": "その悲劇的【ひげきてき】なニュースを聞【き】いて、皆【みな】、悲【かな】しんだ。",
+    "meaning": "Everyone was saddened by the tragic news."
+  },
+  {
+    "sentence": "彼は教師の言いつけをよく聞く生徒だ。",
+    "sentence_furigana": "彼【かれ】は教師【きょうし】の言【い】いつけをよく聞【き】く生徒【せいと】だ。",
+    "meaning": "He is a student who listens well to his teacher's instructions."
+  },
+  {
+    "sentence": "その秘密を聞いてしまった。",
+    "sentence_furigana": "その秘密【ひみつ】を聞【き】いてしまった。",
+    "meaning": "I ended up hearing that secret."
+  },
+  {
+    "sentence": "遠くのサイレンの音が聞こえる。",
+    "sentence_furigana": "遠【とお】くのサイレンの音【おと】が聞【きこ】える。",
+    "meaning": "I can hear the sound of a siren in the distance."
+  },
+  {
+    "sentence": "彼の意見を聞かずに、自分で決めた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を聞【き】かずに、自分【じぶん】で決【き】めた。",
+    "meaning": "I decided by myself without listening to his opinion."
+  },
+  {
+    "sentence": "その有名な話を聞いたことがある。",
+    "sentence_furigana": "その有名【ゆうめい】な話【はなし】を聞【き】いたことがある。",
+    "meaning": "I have heard that famous story."
+  },
+  {
+    "sentence": "彼は人の意見を聞き入れる度量がある。",
+    "sentence_furigana": "彼【かれ】は人【ひと】の意見【いけん】を聞【き】き入【い】れる度量【とりょう】がある。",
+    "meaning": "He has the magnanimity to accept others' opinions."
+  },
+  {
+    "sentence": "この部屋ではどんな音も聞こえない。",
+    "sentence_furigana": "この部屋【へや】ではどんな音【おと】も聞【きこ】えない。",
+    "meaning": "No sound can be heard in this room."
+  },
+  {
+    "sentence": "彼女の演奏を聞いて感動した。",
+    "sentence_furigana": "彼女【かのじょ】の演奏【えんそう】を聞【き】いて感動【かんどう】した。",
+    "meaning": "I was moved by her performance."
+  },
+  {
+    "sentence": "遠くからかすかに人の声が聞こえる。",
+    "sentence_furigana": "遠【とお】くからかすかに人【ひと】の声【こえ】が聞【きこ】える。",
+    "meaning": "Human voices can be faintly heard from a distance."
+  },
+  {
+    "sentence": "彼の忠告を無視して、失敗した。",
+    "sentence_furigana": "彼【かれ】の忠告【ちゅうこく】を無視【むし】して、失敗【しっぱい】した。",
+    "meaning": "I ignored his advice and failed."
+  },
+  {
+    "sentence": "この放送を聞いて、情報を得た。",
+    "sentence_furigana": "この放送【ほうそう】を聞【き】いて、情報【じょうほう】を得【え】た。",
+    "meaning": "I obtained information by listening to this broadcast."
+  },
+  {
+    "sentence": "彼の説明は長くて聞くに疲れた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は長【なが】くて聞【き】くに疲【つか】れた。",
+    "meaning": "His explanation was long and tiring to listen to."
+  },
+  {
+    "sentence": "その事故の知らせを聞いて、心が痛んだ。",
+    "sentence_furigana": "その事故【じこ】の知【し】らせを聞【き】いて、心【こころ】が痛【いた】んだ。",
+    "meaning": "My heart ached when I heard the news of the accident."
+  },
+  {
+    "sentence": "彼の歌を聞くと、いつも元気が出る。",
+    "sentence_furigana": "彼【かれ】の歌【うた】を聞【き】くと、いつも元気【げんき】が出【で】る。",
+    "meaning": "Listening to his songs always cheers me up."
+  },
+  {
+    "sentence": "誰かの話し声が聞こえる。",
+    "sentence_furigana": "誰【だれ】かの話【はな】し声【ごえ】が聞【きこ】える。",
+    "meaning": "I can hear someone talking."
+  },
+  {
+    "sentence": "この地域の伝統について聞く。",
+    "sentence_furigana": "この地域【ちいき】の伝統【でんとう】について聞【き】く。",
+    "meaning": "Learn about the traditions of this region."
+  },
+  {
+    "sentence": "彼の言葉は真実だと信じて聞いている。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】だと信【しん】じて聞【き】いている。",
+    "meaning": "I believe his words are true and am listening."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼は非常に喜んだ。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて、彼【かれ】は非常【ひじょう】に喜【よろこ】んだ。",
+    "meaning": "He was extremely happy to hear the news."
+  },
+  {
+    "sentence": "彼はいつも人の話を真剣に聞く。",
+    "sentence_furigana": "彼【かれ】はいつも人【ひと】の話【はなし】を真剣【しんけん】に聞【き】く。",
+    "meaning": "He always listens to people's stories earnestly."
+  },
+  {
+    "sentence": "遠くで車の音が聞こえる。",
+    "sentence_furigana": "遠【とお】くで車【くるま】の音【おと】が聞【きこ】える。",
+    "meaning": "I can hear the sound of cars in the distance."
+  },
+  {
+    "sentence": "そのニュースを聞いて、彼は勇気をもらった。",
+    "sentence_furigana": "そのニュースを聞【き】いて、彼【かれ】は勇気【ゆうき】をもらった。",
+    "meaning": "He gained courage from hearing the news."
+  }
+]

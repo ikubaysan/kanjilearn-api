@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "彼は深い息を吸い込んだ。",
+    "sentence_furigana": "彼【かれ】は深【ふか】い息【いき】を吸【す】い込【こ】んだ。",
+    "meaning": "He took a deep breath."
+  },
+  {
+    "sentence": "子供の寝息が聞こえる。",
+    "sentence_furigana": "子供【こども】の寝息【ねいき】が聞【き】こえる。",
+    "meaning": "I can hear the child's sleeping breath."
+  },
+  {
+    "sentence": "息を切らして走った。",
+    "sentence_furigana": "息【いき】を切【き】らして走【はし】った。",
+    "meaning": "He ran, out of breath."
+  },
+  {
+    "sentence": "一息入れて休憩しましょう。",
+    "sentence_furigana": "一息【ひといき】入【い】れて休憩【きゅうけい】しましょう。",
+    "meaning": "Let's take a break and have a breather."
+  },
+  {
+    "sentence": "息子の成長を見るのは楽しい。",
+    "sentence_furigana": "息子【むすこ】の成長【せいちょう】を見【み】るのは楽【たの】しい。",
+    "meaning": "It's enjoyable to watch my son grow."
+  },
+  {
+    "sentence": "彼女は息子の名前を呼んだ。",
+    "sentence_furigana": "彼女【かのじょ】は息子【むすこ】の名前【なまえ】を呼【よ】んだ。",
+    "meaning": "She called her son's name."
+  },
+  {
+    "sentence": "利息がどれくらいつくか知りたい。",
+    "sentence_furigana": "利息【りそく】がどれくらいつくか知【し】りたい。",
+    "meaning": "I want to know how much interest will accrue."
+  },
+  {
+    "sentence": "この預金には利息がつきますか？",
+    "sentence_furigana": "この預金【よきん】には利息【りそく】がつきますか？",
+    "meaning": "Does this deposit earn interest?"
+  },
+  {
+    "sentence": "息苦しくて窓を開けた。",
+    "sentence_furigana": "息苦【いきぐる】しくて窓【まど】を開【あ】けた。",
+    "meaning": "It was stuffy, so I opened the window."
+  },
+  {
+    "sentence": "息を止めて潜った。",
+    "sentence_furigana": "息【いき】を止【と】めて潜【もぐ】った。",
+    "meaning": "He held his breath and dived."
+  },
+  {
+    "sentence": "長生きしてほしいと息子に願った。",
+    "sentence_furigana": "長生【ながい】きしてほしいと息子【むすこ】に願【ねが】った。",
+    "meaning": "I wished my son a long life."
+  },
+  {
+    "sentence": "息子の将来を案じている。",
+    "sentence_furigana": "息子【むすこ】の将来【しょうらい】を案【あん】じている。",
+    "meaning": "I am worried about my son's future."
+  },
+  {
+    "sentence": "利息計算の仕方を教えてください。",
+    "sentence_furigana": "利息計算【りそくけいさん】の仕方【しかた】を教【おし】えてください。",
+    "meaning": "Please teach me how to calculate interest."
+  },
+  {
+    "sentence": "息子の友達が遊びに来た。",
+    "sentence_furigana": "息子【むすこ】の友達【ともだち】が遊【あそ】びに来【き】た。",
+    "meaning": "My son's friend came over to play."
+  },
+  {
+    "sentence": "息を吹き返した。",
+    "sentence_furigana": "息【いき】を吹【ふ】き返【かえ】した。",
+    "meaning": "He came back to life."
+  },
+  {
+    "sentence": "彼は息子の学費を心配していた。",
+    "sentence_furigana": "彼【かれ】は息子【むすこ】の学費【がくひ】を心配【しんぱい】していた。",
+    "meaning": "He was worried about his son's tuition fees."
+  },
+  {
+    "sentence": "このローンは高い利息がかかる。",
+    "sentence_furigana": "このローンは高【たか】い利息【りそく】がかかる。",
+    "meaning": "This loan carries high interest."
+  },
+  {
+    "sentence": "息子の卒業式に出席した。",
+    "sentence_furigana": "息子【むすこ】の卒業式【そつぎょうしき】に出席【しゅっせき】した。",
+    "meaning": "I attended my son's graduation ceremony."
+  },
+  {
+    "sentence": "息切れしないようにゆっくり歩こう。",
+    "sentence_furigana": "息切【いきぎ】れしないようにゆっくり歩【ある】こう。",
+    "meaning": "Let's walk slowly so we don't get out of breath."
+  },
+  {
+    "sentence": "息子のために貯金をしている。",
+    "sentence_furigana": "息子【むすこ】のために貯金【ちょきん】をしている。",
+    "meaning": "I am saving money for my son."
+  },
+  {
+    "sentence": "息を弾ませながら話した。",
+    "sentence_furigana": "息【いき】を弾【はず】ませながら話【はな】した。",
+    "meaning": "He spoke with his breath coming in gasps."
+  },
+  {
+    "sentence": "息子の健康を願う。",
+    "sentence_furigana": "息子【むすこ】の健康【けんこう】を願【ねが】う。",
+    "meaning": "I wish for my son's health."
+  },
+  {
+    "sentence": "この株は配当金の代わりに利息を受け取る。",
+    "sentence_furigana": "この株【かぶ】は配当金【はいとうきん】の代【か】わりに利息【りそく】を受【う】け取【と】る。",
+    "meaning": "This stock receives interest instead of dividends."
+  },
+  {
+    "sentence": "息子が生まれた時の感動を忘れない。",
+    "sentence_furigana": "息子【むすこ】が生【う】まれた時【とき】の感動【かんどう】を忘【わす】れない。",
+    "meaning": "I will never forget the emotion of my son's birth."
+  },
+  {
+    "sentence": "息を整えてから話してください。",
+    "sentence_furigana": "息【いき】を整【ととの】えてから話【はな】してください。",
+    "meaning": "Please compose yourself before speaking."
+  },
+  {
+    "sentence": "息子は私の自慢です。",
+    "sentence_furigana": "息子【むすこ】は私【わたし】の自慢【じまん】です。",
+    "meaning": "My son is my pride."
+  },
+  {
+    "sentence": "息を殺して待った。",
+    "sentence_furigana": "息【いき】を殺【ころ】して待【ま】った。",
+    "meaning": "He waited with bated breath."
+  },
+  {
+    "sentence": "息子が初めて一人で電車に乗った。",
+    "sentence_furigana": "息子【むすこ】が初【はじ】めて一人【ひとり】で電車【でんしゃ】に乗【の】った。",
+    "meaning": "My son took the train by himself for the first time."
+  },
+  {
+    "sentence": "息子のために一生懸命働く。",
+    "sentence_furigana": "息子【むすこ】のために一生懸命【いっしょうけんめい】働【はたら】く。",
+    "meaning": "I work hard for my son."
+  },
+  {
+    "sentence": "息子の顔を見て安心した。",
+    "sentence_furigana": "息子【むすこ】の顔【かお】を見【み】て安心【あんしん】した。",
+    "meaning": "I felt relieved seeing my son's face."
+  },
+  {
+    "sentence": "息を吸うたびに胸が痛む。",
+    "sentence_furigana": "息【いき】を吸【す】うたびに胸【むね】が痛【いた】む。",
+    "meaning": "My chest hurts every time I breathe."
+  },
+  {
+    "sentence": "息子が学校から帰ってきた。",
+    "sentence_furigana": "息子【むすこ】が学校【がっこう】から帰【かえ】ってきた。",
+    "meaning": "My son came home from school."
+  },
+  {
+    "sentence": "利息の代わりに元本を返済した。",
+    "sentence_furigana": "利息【りそく】の代わり【かわり】に元本【がんぽん】を返済【へんさい】した。",
+    "meaning": "He repaid the principal instead of the interest."
+  },
+  {
+    "sentence": "息子は絵を描くのが好きだ。",
+    "sentence_furigana": "息子【むすこ】は絵【え】を描【か】くのが好【す】きだ。",
+    "meaning": "My son likes to draw pictures."
+  },
+  {
+    "sentence": "息子の部屋を片付けた。",
+    "sentence_furigana": "息子【むすこ】の部屋【へや】を片付【かたづ】けた。",
+    "meaning": "I tidied up my son's room."
+  },
+  {
+    "sentence": "息子の友人が家に来た。",
+    "sentence_furigana": "息子【むすこ】の友人【ゆうじん】が家【いえ】に来【き】た。",
+    "meaning": "My son's friend came to the house."
+  },
+  {
+    "sentence": "息切れしないように歩調を合わせた。",
+    "sentence_furigana": "息切【いきぎ】れしないように歩調【ほちょう】を合【あ】わせた。",
+    "meaning": "I matched my pace to avoid getting out of breath."
+  },
+  {
+    "sentence": "息子が作った料理を食べた。",
+    "sentence_furigana": "息子【むすこ】が作【つく】った料理【りょうり】を食【た】べた。",
+    "meaning": "I ate the meal my son made."
+  },
+  {
+    "sentence": "息を詰めて画面を見た。",
+    "sentence_furigana": "息【いき】を詰【つ】めて画面【がめん】を見【み】た。",
+    "meaning": "He watched the screen, holding his breath."
+  },
+  {
+    "sentence": "息子は将来、医者になりたいと言っている。",
+    "sentence_furigana": "息子【むすこ】は将来【しょうらい】、医者【いしゃ】になりたいと言【い】っている。",
+    "meaning": "My son says he wants to be a doctor in the future."
+  },
+  {
+    "sentence": "利息を含めて返済額を計算する。",
+    "sentence_furigana": "利息【りそく】を含【ふく】めて返済額【へんさいがく】を計算【けいさん】する。",
+    "meaning": "Calculate the repayment amount including interest."
+  },
+  {
+    "sentence": "息子は活発で元気だ。",
+    "sentence_furigana": "息子【むすこ】は活発【かっぱつ】で元気【げんき】だ。",
+    "meaning": "My son is active and energetic."
+  },
+  {
+    "sentence": "息子の宿題を手伝った。",
+    "sentence_furigana": "息子【むすこ】の宿題【しゅくだい】を手伝【てつだ】った。",
+    "meaning": "I helped my son with his homework."
+  },
+  {
+    "sentence": "息子の学校の保護者会に出席した。",
+    "sentence_furigana": "息子【むすこ】の学校【がっこう】の保護者会【ほごしゃかい】に出席【しゅっせき】した。",
+    "meaning": "I attended the parent-teacher meeting for my son's school."
+  },
+  {
+    "sentence": "息子の熱が下がった。",
+    "sentence_furigana": "息子【むすこ】の熱【ねつ】が下【さ】がった。",
+    "meaning": "My son's fever has gone down."
+  },
+  {
+    "sentence": "息を吸うと空気が冷たい。",
+    "sentence_furigana": "息【いき】を吸【す】うと空気【くうき】が冷【つめ】たい。",
+    "meaning": "The air is cold when I inhale."
+  },
+  {
+    "sentence": "息子が初めて自転車に乗れた。",
+    "sentence_furigana": "息子【むすこ】が初【はじ】めて自転車【じてんしゃ】に乗【の】れた。",
+    "meaning": "My son was able to ride a bicycle for the first time."
+  },
+  {
+    "sentence": "息子の成長は早い。",
+    "sentence_furigana": "息子【むすこ】の成長【せいちょう】は早【はや】い。",
+    "meaning": "My son is growing up fast."
+  },
+  {
+    "sentence": "息子の誕生日プレゼントを選んでいる。",
+    "sentence_furigana": "息子【むすこ】の誕生日【たんじょうび】プレゼントを選【えら】んでいる。",
+    "meaning": "I am choosing a birthday present for my son."
+  },
+  {
+    "sentence": "息子の意見を聞かせてください。",
+    "sentence_furigana": "息子【むすこ】の意見【いけん】を聞【き】かせてください。",
+    "meaning": "Please let me hear your son's opinion."
+  },
+  {
+    "sentence": "息子の髪を切ってあげた。",
+    "sentence_furigana": "息子【むすこ】の髪【かみ】を切【き】ってあげた。",
+    "meaning": "I cut my son's hair."
+  },
+  {
+    "sentence": "息子の将来設計について話し合った。",
+    "sentence_furigana": "息子【むすこ】の将来設計【しょうらいせっけい】について話【はな】し合【あ】った。",
+    "meaning": "We discussed my son's future plans."
+  },
+  {
+    "sentence": "息子の得意なことを伸ばしてあげたい。",
+    "sentence_furigana": "息子【むすこ】の得意【とくい】なことを伸【の】ばしてあげたい。",
+    "meaning": "I want to foster my son's strengths."
+  },
+  {
+    "sentence": "息子のために一生勉強する。",
+    "sentence_furigana": "息子【むすこ】のために一生勉強【いっしょうべんきょう】する。",
+    "meaning": "I will study hard my whole life for my son."
+  },
+  {
+    "sentence": "息子の友達が家に泊まった。",
+    "sentence_furigana": "息子【むすこ】の友達【ともだち】が家【いえ】に泊【と】まった。",
+    "meaning": "My son's friend stayed overnight at our house."
+  },
+  {
+    "sentence": "息子の描いた絵が飾られている。",
+    "sentence_furigana": "息子【むすこ】の描【か】いた絵【え】が飾【かざ】られている。",
+    "meaning": "The picture drawn by my son is displayed."
+  },
+  {
+    "sentence": "息子の成長を祝ってパーティーを開いた。",
+    "sentence_furigana": "息子【むすこ】の成長【せいちょう】を祝【いわ】ってパーティーを開【ひら】いた。",
+    "meaning": "We held a party to celebrate my son's growth."
+  },
+  {
+    "sentence": "息子が作った料理は美味しい。",
+    "sentence_furigana": "息子【むすこ】が作【つく】った料理【りょうり】は美味【おい】しい。",
+    "meaning": "The food my son made is delicious."
+  },
+  {
+    "sentence": "息子が初めて作った料理を食べた。",
+    "sentence_furigana": "息子【むすこ】が初【はじ】めて作【つく】った料理【りょうり】を食【た】べた。",
+    "meaning": "I ate the first meal my son prepared."
+  },
+  {
+    "sentence": "息子の将来のために貯蓄を始めた。",
+    "sentence_furigana": "息子【むすこ】の将来【しょうらい】のために貯蓄【ちょちく】を始【はじ】めた。",
+    "meaning": "I started saving for my son's future."
+  },
+  {
+    "sentence": "息子の名前を何度も呼んだ。",
+    "sentence_furigana": "息子【むすこ】の名前【なまえ】を何度【なんど】も呼【よ】んだ。",
+    "meaning": "I called my son's name many times."
+  },
+  {
+    "sentence": "息子の成長を見るのは喜びだ。",
+    "sentence_furigana": "息子【むすこ】の成長【せいちょう】を見【み】るのは喜【よろこ】びだ。",
+    "meaning": "Watching my son grow is a joy."
+  },
+  {
+    "sentence": "息子のために健康でいてほしい。",
+    "sentence_furigana": "息子【むすこ】のために健康【けんこう】でいてほしい。",
+    "meaning": "I want my son to stay healthy."
+  },
+  {
+    "sentence": "息子は今、夢中になってゲームをしている。",
+    "sentence_furigana": "息子【むすこ】は今【いま】、夢中【むちゅう】になってゲームをしている。",
+    "meaning": "My son is engrossed in playing a game right now."
+  },
+  {
+    "sentence": "息子の学校の成績が上がった。",
+    "sentence_furigana": "息子【むすこ】の学校【がっこう】の成績【せいせき】が上【あ】がった。",
+    "meaning": "My son's school grades have improved."
+  },
+  {
+    "sentence": "息子に大切なことを教えたい。",
+    "sentence_furigana": "息子【むすこ】に大切【たいせつ】なことを教【おし】えたい。",
+    "meaning": "I want to teach my son important things."
+  },
+  {
+    "sentence": "息子は父親のようになりたいと思っている。",
+    "sentence_furigana": "息子【むすこ】は父親【ちちおや】のようになりたいと思【おも】っている。",
+    "meaning": "My son wants to be like his father."
+  },
+  {
+    "sentence": "息子の話を聞く時間を作る。",
+    "sentence_furigana": "息子【むすこ】の話【はなし】を聞【き】く時間【じかん】を作【つく】る。",
+    "meaning": "I make time to listen to my son's stories."
+  },
+  {
+    "sentence": "息子はとても感受性が豊かだ。",
+    "sentence_furigana": "息子【むすこ】はとても感受性【かんじゅせい】豊【ゆた】かだ。",
+    "meaning": "My son is very sensitive."
+  },
+  {
+    "sentence": "息子の将来の夢を応援している。",
+    "sentence_furigana": "息子【むすこ】の将来【しょうらい】の夢【ゆめ】を応援【おうえん】している。",
+    "meaning": "I support my son's future dreams."
+  },
+  {
+    "sentence": "息子の成長記録をつけ始めた。",
+    "sentence_furigana": "息子【むすこ】の成長記録【せいちょうきろく】をつけ始【はじ】めた。",
+    "meaning": "I started keeping a record of my son's growth."
+  },
+  {
+    "sentence": "息子は新しいことに挑戦するのが好きだ。",
+    "sentence_furigana": "息子【むすこ】は新【あたら】しいことに挑戦【ちょうせん】するのが好【す】きだ。",
+    "meaning": "My son likes to try new things."
+  },
+  {
+    "sentence": "息子の健康管理に気をつけている。",
+    "sentence_furigana": "息子【むすこ】の健康管理【けんこうかんり】に気【き】をつけている。",
+    "meaning": "I am careful about managing my son's health."
+  },
+  {
+    "sentence": "息子が自分で選んだ服を着ている。",
+    "sentence_furigana": "息子【むすこ】が自分【じぶん】で選【えら】んだ服【ふく】を着【き】ている。",
+    "meaning": "My son is wearing clothes he chose himself."
+  },
+  {
+    "sentence": "息子のために美味しい夕食を作った。",
+    "sentence_furigana": "息子【むすこ】のために美味【おい】しい夕食【ゆうしょく】を作【つく】った。",
+    "meaning": "I made a delicious dinner for my son."
+  },
+  {
+    "sentence": "息子の得意な科目は数学だ。",
+    "sentence_furigana": "息子【むすこ】の得意【とくい】な科目【かもく】は数学【すうがく】だ。",
+    "meaning": "My son's best subject is mathematics."
+  },
+  {
+    "sentence": "息子はとても礼儀正しい。",
+    "sentence_furigana": "息子【むすこ】はとても礼儀正【れいぎただ】しい。",
+    "meaning": "My son is very polite."
+  },
+  {
+    "sentence": "息子の夢を叶えられるようサポートする。",
+    "sentence_furigana": "息子【むすこ】の夢【ゆめ】を叶【かな】えられるようサポートする。",
+    "meaning": "I will support my son so he can achieve his dreams."
+  },
+  {
+    "sentence": "息子の卒業祝いにプレゼントを買った。",
+    "sentence_furigana": "息子【むすこ】の卒業祝【そつぎょういわ】いにプレゼントを買【か】った。",
+    "meaning": "I bought a present to celebrate my son's graduation."
+  },
+  {
+    "sentence": "息子が将来どんな仕事に就くか楽しみだ。",
+    "sentence_furigana": "息子【むすこ】が将来【しょうらい】どんな仕事【しごと】に就【つ】くか楽【たの】しみだ。",
+    "meaning": "I am looking forward to what kind of job my son will have in the future."
+  },
+  {
+    "sentence": "息子のために愛情を込めて料理を作る。",
+    "sentence_furigana": "息子【むすこ】のために愛情【あいじょう】を込【こ】めて料理【りょうり】を作【つく】る。",
+    "meaning": "I cook with love for my son."
+  },
+  {
+    "sentence": "息子は親孝行だ。",
+    "sentence_furigana": "息子【むすこ】は親孝行【おやこうこう】だ。",
+    "meaning": "My son is dutiful to his parents."
+  },
+  {
+    "sentence": "息子の健康診断の結果が良い。",
+    "sentence_furigana": "息子【むすこ】の健康診断【けんこうしんだん】の結果【けっか】が良い【よい】。",
+    "meaning": "The results of my son's health check-up are good."
+  },
+  {
+    "sentence": "息子が自分で洗濯物をたたんでいる。",
+    "sentence_furigana": "息子【むすこ】が自分【じぶん】で洗濯物【せんたくもの】をたたんでいる。",
+    "meaning": "My son is folding the laundry himself."
+  },
+  {
+    "sentence": "息子が新しい趣味を見つけた。",
+    "sentence_furigana": "息子【むすこ】が新【あたら】しい趣味【しゅみ】を見【み】つけた。",
+    "meaning": "My son has found a new hobby."
+  },
+  {
+    "sentence": "息子の成長は目覚ましい。",
+    "sentence_furigana": "息子【むすこ】の成長【せいちょう】は目覚【めざま】しい。",
+    "meaning": "My son's growth is remarkable."
+  },
+  {
+    "sentence": "息子が作った模型を飾っている。",
+    "sentence_furigana": "息子【むすこ】が作【つく】った模型【もけい】を飾【かざ】っている。",
+    "meaning": "I am displaying the model my son made."
+  },
+  {
+    "sentence": "息子は学校で良い友達に恵まれている。",
+    "sentence_furigana": "息子【むすこ】は学校【がっこう】で良【よ】い友達【ともだち】に恵【めぐ】まれている。",
+    "meaning": "My son is blessed with good friends at school."
+  },
+  {
+    "sentence": "息子のために安全な環境を用意したい。",
+    "sentence_furigana": "息子【むすこ】のために安全【あんぜん】な環境【かんきょう】を用意【ようい】したい。",
+    "meaning": "I want to provide a safe environment for my son."
+  },
+  {
+    "sentence": "息子の努力を無駄にしたくない。",
+    "sentence_furigana": "息子【むすこ】の努力【どりょく】を無駄【むだ】にしたくない。",
+    "meaning": "I don't want to waste my son's efforts."
+  },
+  {
+    "sentence": "息子が何か困っているのか心配だ。",
+    "sentence_furigana": "息子【むすこ】が何【なに】か困【こま】っているのか心配【しんぱい】だ。",
+    "meaning": "I am worried if my son is having trouble with something."
+  },
+  {
+    "sentence": "息子に感謝の気持ちを伝えた。",
+    "sentence_furigana": "息子【むすこ】に感謝【かんしゃ】の気持【きも】ちを伝【つた】えた。",
+    "meaning": "I expressed my gratitude to my son."
+  },
+  {
+    "sentence": "息子の笑顔を見ると元気が出る。",
+    "sentence_furigana": "息子【むすこ】の笑顔【えがお】を見【み】ると元気【げんき】が出【で】る。",
+    "meaning": "Seeing my son's smile energizes me."
+  },
+  {
+    "sentence": "息子が初めて一人で旅行に行った。",
+    "sentence_furigana": "息子【むすこ】が初【はじ】めて一人【ひとり】で旅行【りょこう】に行【い】った。",
+    "meaning": "My son went on a trip by himself for the first time."
+  },
+  {
+    "sentence": "息子に多くの経験をさせてあげたい。",
+    "sentence_furigana": "息子【むすこ】に多【おお】くの経験【けいけん】をさせてあげたい。",
+    "meaning": "I want to give my son many experiences."
+  },
+  {
+    "sentence": "息子の成長に合わせて服を買い替える。",
+    "sentence_furigana": "息子【むすこ】の成長【せいちょう】に合【あ】わせて服【ふく】を買【か】い替【か】える。",
+    "meaning": "I buy new clothes for my son as he grows."
+  },
+  {
+    "sentence": "息子が自分で計画を立てられるように指導する。",
+    "sentence_furigana": "息子【むすこ】が自分【じぶん】で計画【けいかく】を立【た】てられるように指導【しどう】する。",
+    "meaning": "I guide my son to be able to make his own plans."
+  }
+]

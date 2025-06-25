@@ -1,0 +1,632 @@
+[
+  {
+    "sentence": "庭に美しい蝶が舞っています。",
+    "sentence_furigana": "庭【にわ】に美【うつく】しい蝶【ちょう】が舞【ま】っています。",
+    "meaning": "A beautiful butterfly is dancing in the garden."
+  },
+  {
+    "sentence": "蝶は花から花へと飛び移ります。",
+    "sentence_furigana": "蝶【ちょう】は花【はな】から花【はな】へと飛【と】び移【うつ】ります。",
+    "meaning": "Butterflies fly from flower to flower."
+  },
+  {
+    "sentence": "蝶の羽は非常に繊細です。",
+    "sentence_furigana": "蝶【ちょう】の羽【はね】は非【ひ】常【じょう】に繊【せん】細【さい】です。",
+    "meaning": "Butterfly wings are very delicate."
+  },
+  {
+    "sentence": "春になると蝶がたくさん見られます。",
+    "sentence_furigana": "春【はる】になると蝶【ちょう】がたくさん見【み】られます。",
+    "meaning": "Many butterflies can be seen in spring."
+  },
+  {
+    "sentence": "この蝶は珍しい種類です。",
+    "sentence_furigana": "この蝶【ちょう】は珍【めずら】しい種【しゅ】類【るい】です。",
+    "meaning": "This butterfly is a rare species."
+  },
+  {
+    "sentence": "蝶の幼虫は毛虫と呼ばれます。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は毛虫【けむし】と呼【よ】ばれます。",
+    "meaning": "The larva of a butterfly is called a caterpillar."
+  },
+  {
+    "sentence": "子供たちは蝶を追いかけて遊んでいた。",
+    "sentence_furigana": "子供【こども】たちは蝶【ちょう】を追【お】いかけて遊【あそ】んでいました。",
+    "meaning": "The children were chasing butterflies and playing."
+  },
+  {
+    "sentence": "蝶の標本が博物館に展示されている。",
+    "sentence_furigana": "蝶【ちょう】の標本【ひょうほん】が博【はく】物【ぶつ】館【かん】に展【てん】示【じ】されています。",
+    "meaning": "Butterfly specimens are exhibited in the museum."
+  },
+  {
+    "sentence": "蝶のように優雅に飛ぶ。",
+    "sentence_furigana": "蝶【ちょう】のように優雅【ゆうが】に飛【と】ぶ。",
+    "meaning": "To fly gracefully like a butterfly."
+  },
+  {
+    "sentence": "蝶は変態の過程を経て成虫になる。",
+    "sentence_furigana": "蝶【ちょう】は変態【へんたい】の過【か】程【てい】を経【へ】て成虫【せいちゅう】になります。",
+    "meaning": "A butterfly undergoes metamorphosis to become an adult."
+  },
+  {
+    "sentence": "蝶の群れが空を横切った。",
+    "sentence_furigana": "蝶【ちょう】の群【む】れが空【そら】を横切【よこぎ】った。",
+    "meaning": "A swarm of butterflies crossed the sky."
+  },
+  {
+    "sentence": "蝶の複雑な模様に魅せられた。",
+    "sentence_furigana": "蝶【ちょう】の複【ふく】雑【ざつ】な模【も】様【よう】に魅【み】せられた。",
+    "meaning": "I was fascinated by the intricate patterns of the butterfly."
+  },
+  {
+    "sentence": "蝶の生態について学ぶ。",
+    "sentence_furigana": "蝶【ちょう】の生【せい】態【たい】について学【まな】ぶ。",
+    "meaning": "To learn about the ecology of butterflies."
+  },
+  {
+    "sentence": "蝶々がひらひらと飛んでいる。",
+    "sentence_furigana": "蝶々【ちょうちょう】がひらひらと飛【と】んでいる。",
+    "meaning": "Butterflies are fluttering around."
+  },
+  {
+    "sentence": "蝶の粉が付いた指を洗う。",
+    "sentence_furigana": "蝶【ちょう】の粉【こな】が付【つ】いた指【ゆび】を洗【あら】う。",
+    "meaning": "Wash your fingers that have butterfly dust on them."
+  },
+  {
+    "sentence": "蝶の翅脈（しみゃく）は網目状になっている。",
+    "sentence_furigana": "蝶【ちょう】の翅脈【しみゃく】は網【あみ】目状【もくじょう】になっています。",
+    "meaning": "The wing veins of a butterfly form a network."
+  },
+  {
+    "sentence": "蝶は花の蜜を吸う。",
+    "sentence_furigana": "蝶【ちょう】は花【はな】の蜜【みつ】を吸【す】う。",
+    "meaning": "Butterflies suck nectar from flowers."
+  },
+  {
+    "sentence": "蝶の短い一生を詩に詠む。",
+    "sentence_furigana": "蝶【ちょう】の短【みじか】い一生【いっしょう】を詩【し】に詠【よ】む。",
+    "meaning": "To compose a poem about the short life of a butterfly."
+  },
+  {
+    "sentence": "蝶が窓の外を飛んでいった。",
+    "sentence_furigana": "蝶【ちょう】が窓【まど】の外【そと】を飛【と】んでいった。",
+    "meaning": "A butterfly flew past the window."
+  },
+  {
+    "sentence": "蝶のシルエットが夕焼けに浮かび上がった。",
+    "sentence_furigana": "蝶【ちょう】のシルエットが夕焼【ゆうや】けに浮【う】かび上【あ】がった。",
+    "meaning": "The silhouette of a butterfly appeared against the sunset."
+  },
+  {
+    "sentence": "蝶のように軽やかにステップを踏む。",
+    "sentence_furigana": "蝶【ちょう】のように軽【かる】やかにステップを踏【ふ】む。",
+    "meaning": "To step lightly like a butterfly."
+  },
+  {
+    "sentence": "蝶の卵は葉の裏に産み付けられる。",
+    "sentence_furigana": "蝶【ちょう】の卵【たまご】は葉【は】の裏【うら】に産【う】み付【つ】けられる。",
+    "meaning": "Butterfly eggs are laid on the underside of leaves."
+  },
+  {
+    "sentence": "蝶は光を求めて集まることがある。",
+    "sentence_furigana": "蝶【ちょう】は光【ひかり】を求【もと】めて集【あつ】まることがあります。",
+    "meaning": "Butterflies sometimes gather seeking light."
+  },
+  {
+    "sentence": "蝶の開帳（かいちょう）が非常に大きい。",
+    "sentence_furigana": "蝶【ちょう】の開帳【かいちょう】が非【ひ】常【じょう】に大【おお】きい。",
+    "meaning": "The wingspan of the butterfly is very large."
+  },
+  {
+    "sentence": "蝶の羽根の模様は保護色になっている。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】の模【も】様【よう】は保【ほ】護【ご】色【しょく】になっています。",
+    "meaning": "The patterns on the butterfly's wings are for camouflage."
+  },
+  {
+    "sentence": "蝶のように自由に空を飛び回りたい。",
+    "sentence_furigana": "蝶【ちょう】のように自【じ】由【ゆう】に空【そら】を飛【と】び回【まわ】りたい。",
+    "meaning": "I want to fly freely in the sky like a butterfly."
+  },
+  {
+    "sentence": "蝶の吸血行動は非常にまれである。",
+    "sentence_furigana": "蝶【ちょう】の吸血【きゅうけつ】行【こう】動【どう】は非【ひ】常【じょう】に稀【まれ】である。",
+    "meaning": "Hematophagy in butterflies is extremely rare."
+  },
+  {
+    "sentence": "蝶の羽が破れてしまった。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】が破【やぶ】れてしまった。",
+    "meaning": "The butterfly's wings got torn."
+  },
+  {
+    "sentence": "蝶の群集を観察する。",
+    "sentence_furigana": "蝶【ちょう】の群集【ぐんしゅう】を観【かん】察【さつ】する。",
+    "meaning": "To observe a butterfly swarm."
+  },
+  {
+    "sentence": "蝶の翅（はね）には鱗粉（りんぷん）が付いている。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】には鱗粉【りんぷん】が付【つ】いている。",
+    "meaning": "Butterflies have scales on their wings."
+  },
+  {
+    "sentence": "蝶の交尾を観察した。",
+    "sentence_furigana": "蝶【ちょう】の交尾【こうび】を観【かん】察【さつ】した。",
+    "meaning": "I observed butterfly mating."
+  },
+  {
+    "sentence": "蝶のように軽やかに踊る。",
+    "sentence_furigana": "蝶【ちょう】のように軽【かる】やかに踊【おど】る。",
+    "meaning": "To dance lightly like a butterfly."
+  },
+  {
+    "sentence": "蝶の幼生期は蛹（さなぎ）となる。",
+    "sentence_furigana": "蝶【ちょう】の幼生期【ようせいき】は蛹【さなぎ】となる。",
+    "meaning": "The larval stage of a butterfly becomes a pupa."
+  },
+  {
+    "sentence": "蝶の羽ばたきが風を起こす。",
+    "sentence_furigana": "蝶【ちょう】の羽【は】ばたきが風【かぜ】を起【お】こす。",
+    "meaning": "The flapping of a butterfly's wings causes wind."
+  },
+  {
+    "sentence": "蝶は花粉を運ぶ手助けもする。",
+    "sentence_furigana": "蝶【ちょう】は花粉【かふん】を運【はこ】ぶ手助【てだ】けもする。",
+    "meaning": "Butterflies also help carry pollen."
+  },
+  {
+    "sentence": "蝶の模様をスケッチする。",
+    "sentence_furigana": "蝶【ちょう】の模【も】様【よう】をスケッチする。",
+    "meaning": "To sketch the patterns of a butterfly."
+  },
+  {
+    "sentence": "蝶の吸う口はストロー状になっている。",
+    "sentence_furigana": "蝶【ちょう】の吸【す】う口【くち】はストロー状【じょう】になっている。",
+    "meaning": "The mouth of a butterfly is straw-like."
+  },
+  {
+    "sentence": "蝶の翅（はね）を広げて乾かす。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】を広【ひろ】げて乾【かわ】かす。",
+    "meaning": "To spread and dry the butterfly's wings."
+  },
+  {
+    "sentence": "蝶の交配行動は複雑だ。",
+    "sentence_furigana": "蝶【ちょう】の交配【こうはい】行【こう】動【どう】は複【ふく】雑【ざつ】だ。",
+    "meaning": "The mating behavior of butterflies is complex."
+  },
+  {
+    "sentence": "蝶の擬態は驚くほど巧妙だ。",
+    "sentence_furigana": "蝶【ちょう】の擬態【ぎたい】は驚【おどろ】くほど巧【こう】妙【みょう】だ。",
+    "meaning": "The mimicry of butterflies is surprisingly skillful."
+  },
+  {
+    "sentence": "蝶の体は頭、胸、腹に分かれる。",
+    "sentence_furigana": "蝶【ちょう】の体【からだ】は頭【あたま】、胸【むね】、腹【はら】に分【わ】かれる。",
+    "meaning": "The body of a butterfly is divided into head, thorax, and abdomen."
+  },
+  {
+    "sentence": "蝶の触角は感覚器官である。",
+    "sentence_furigana": "蝶【ちょう】の触角【しょっかく】は感【かん】覚【かく】器【き】官【かん】である。",
+    "meaning": "The antennae of a butterfly are sensory organs."
+  },
+  {
+    "sentence": "蝶の幼虫は植物の葉を食べる。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は植【しょく】物【ぶつ】の葉【は】を食【た】べる。",
+    "meaning": "Butterfly larvae eat plant leaves."
+  },
+  {
+    "sentence": "蝶のさなぎの時期は種によって異なる。",
+    "sentence_furigana": "蝶【ちょう】のさなぎの時期【じき】は種【しゅ】によって異【こと】なる。",
+    "meaning": "The pupal stage of a butterfly varies by species."
+  },
+  {
+    "sentence": "蝶が花壇の花に集まってきた。",
+    "sentence_furigana": "蝶【ちょう】が花壇【かだん】の花【はな】に集【あつ】まってきた。",
+    "meaning": "Butterflies gathered around the flowers in the flowerbed."
+  },
+  {
+    "sentence": "蝶の羽の模様はオスとメスで違うことがある。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】の模【も】様【よう】はオスとメスで違【ちが】うことがある。",
+    "meaning": "The patterns on a butterfly's wings can differ between males and females."
+  },
+  {
+    "sentence": "蝶の寿命は比較的短い。",
+    "sentence_furigana": "蝶【ちょう】の寿【じゅ】命【めい】は比【ひ】較【かく】的【てき】短【みじか】い。",
+    "meaning": "The lifespan of a butterfly is relatively short."
+  },
+  {
+    "sentence": "蝶の進化の歴史は古い。",
+    "sentence_furigana": "蝶【ちょう】の進【しん】化【か】の歴【れき】史【し】は古【ふる】い。",
+    "meaning": "The evolutionary history of butterflies is ancient."
+  },
+  {
+    "sentence": "蝶のように優雅に人生を歩みたい。",
+    "sentence_furigana": "蝶【ちょう】のように優雅【ゆうが】に人生【じんせい】を歩【あゆ】みたい。",
+    "meaning": "I want to live my life gracefully like a butterfly."
+  },
+  {
+    "sentence": "蝶の飛ぶスピードは種類によって速さが違う。",
+    "sentence_furigana": "蝶【ちょう】の飛【と】ぶスピードは種【しゅ】類【るい】によって速【はや】さが違【ちが】う。",
+    "meaning": "The flight speed of butterflies varies depending on the species."
+  },
+  {
+    "sentence": "蝶の羽の色彩は光の加減で変わって見える。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】の色【しき】彩【さい】は光【ひかり】の加【か】減【げん】で変【か】わって見【み】える。",
+    "meaning": "The colors of a butterfly's wings appear to change with the light."
+  },
+  {
+    "sentence": "蝶の観察は子供たちの知的好奇心を刺激する。",
+    "sentence_furigana": "蝶【ちょう】の観【かん】察【さつ】は子供【こども】たちの知【ち】的【てき】好【こう】奇【き】心【しん】を刺【し】激【げき】する。",
+    "meaning": "Observing butterflies stimulates children's intellectual curiosity."
+  },
+  {
+    "sentence": "蝶の発生時期は地域によって異なる。",
+    "sentence_furigana": "蝶【ちょう】の発生【はっせい】時期【じき】は地【ち】域【いき】によって異【こと】なる。",
+    "meaning": "The emergence period of butterflies differs by region."
+  },
+  {
+    "sentence": "蝶の粉が衣服に付いてしまった。",
+    "sentence_furigana": "蝶【ちょう】の粉【こな】が衣【い】服【ふく】に付【つ】いてしまった。",
+    "meaning": "Butterfly dust got on my clothes."
+  },
+  {
+    "sentence": "蝶の生態を保護するための活動が行われている。",
+    "sentence_furigana": "蝶【ちょう】の生【せい】態【たい】を保【ほ】護【ご】するための活【かつ】動【どう】が行【おこな】われています。",
+    "meaning": "Activities are being carried out to protect butterfly ecosystems."
+  },
+  {
+    "sentence": "蝶の触角が風に揺れている。",
+    "sentence_furigana": "蝶【ちょう】の触角【しょっかく】が風【かぜ】に揺【ゆ】れている。",
+    "meaning": "The butterfly's antennae are swaying in the wind."
+  },
+  {
+    "sentence": "蝶の羽は非常に軽くできている。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】は非【ひ】常【じょう】に軽【かる】くできている。",
+    "meaning": "Butterfly wings are made to be very light."
+  },
+  {
+    "sentence": "蝶の飛翔パターンは独特である。",
+    "sentence_furigana": "蝶【ちょう】の飛翔【ひしょう】パターンは独【どく】特【とく】である。",
+    "meaning": "The flight pattern of butterflies is unique."
+  },
+  {
+    "sentence": "蝶の交尾器の構造は種ごとに異なる。",
+    "sentence_furigana": "蝶【ちょう】の交尾器【こうびき】の構【こう】造【ぞう】は種【しゅ】ごとによって異【こと】なる。",
+    "meaning": "The structure of butterfly genitalia differs for each species."
+  },
+  {
+    "sentence": "蝶の羽の模様は広告塔のようだ。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】の模【も】様【よう】は広告【こうこく】塔【とう】のようだ。",
+    "meaning": "The patterns on butterfly wings are like billboards."
+  },
+  {
+    "sentence": "蝶は植物の受粉を助ける。",
+    "sentence_furigana": "蝶【ちょう】は植【しょく】物【ぶつ】の受粉【じゅふん】を助【たす】ける。",
+    "meaning": "Butterflies help pollinate plants."
+  },
+  {
+    "sentence": "蝶の幼虫が葉を食い尽くす。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】が葉【は】を食【く】い尽【つ】くす。",
+    "meaning": "Butterfly larvae devour leaves."
+  },
+  {
+    "sentence": "蝶のさなぎから美しい蝶が羽化する。",
+    "sentence_furigana": "蝶【ちょう】のさなぎから美【うつく】しい蝶【ちょう】が羽化【うか】する。",
+    "meaning": "A beautiful butterfly emerges from the chrysalis."
+  },
+  {
+    "sentence": "蝶の羽の美しさに心を奪われた。",
+    "sentence_furigana": "蝶【ちょう】の羽根【はね】の美【うつく】しさに心【こころ】を奪【うば】われた。",
+    "meaning": "I was captivated by the beauty of the butterfly's wings."
+  },
+  {
+    "sentence": "蝶の飛ぶ姿は詩的だ。",
+    "sentence_furigana": "蝶【ちょう】の飛【と】ぶ姿【すがた】は詩【し】的【てき】だ。",
+    "meaning": "The way butterflies fly is poetic."
+  },
+  {
+    "sentence": "蝶の翅（はね）の鱗粉は水をはじく。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の鱗粉【りんぷん】は水【みず】をはじく。",
+    "meaning": "The scales on butterfly wings repel water."
+  },
+  {
+    "sentence": "蝶の体温は外気温に依存する。",
+    "sentence_furigana": "蝶【ちょう】の体温【たいおん】は外【がい】気温【きおん】に依【い】存【ぞん】する。",
+    "meaning": "The body temperature of a butterfly depends on the ambient temperature."
+  },
+  {
+    "sentence": "蝶の縄張り行動はオスに見られる。",
+    "sentence_furigana": "蝶【ちょう】の縄張【なわば】り行【こう】動【どう】はオスに見【み】られる。",
+    "meaning": "Territorial behavior is observed in male butterflies."
+  },
+  {
+    "sentence": "蝶の幼虫の脱皮は成長のために必要だ。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】の脱皮【だっぴ】は成【せいちょう】のため必【ひつ】要【よう】だ。",
+    "meaning": "Molting is necessary for the growth of butterfly larvae."
+  },
+  {
+    "sentence": "蝶の翅の模様は遺伝子によって決まる。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の模【も】様【よう】は遺【い】伝【でん】子【し】によって決【き】まる。",
+    "meaning": "Butterfly wing patterns are determined by genes."
+  },
+  {
+    "sentence": "蝶の吸蜜行動は植物の受粉に貢献する。",
+    "sentence_furigana": "蝶【ちょう】の吸蜜【きゅうみつ】行【こう】動【どう】は植【しょく】物【ぶつ】の受粉【じゅふん】に貢【こう】献【けん】する。",
+    "meaning": "Nectar feeding behavior of butterflies contributes to plant pollination."
+  },
+  {
+    "sentence": "蝶の視覚は人間とは異なる。",
+    "sentence_furigana": "蝶【ちょう】の視覚【しかく】は人【ひと】間【かん】とは異【こと】なる。",
+    "meaning": "The vision of butterflies is different from that of humans."
+  },
+  {
+    "sentence": "蝶の動きは予測不可能で魅力的だ。",
+    "sentence_furigana": "蝶【ちょう】の動【うご】きは予【よ】測【そく】不【ふ】可【か】能【のう】で魅【み】力的【てき】だ。",
+    "meaning": "The movements of butterflies are unpredictable and fascinating."
+  },
+  {
+    "sentence": "蝶の生息地を保全する必要がある。",
+    "sentence_furigana": "蝶【ちょう】の生息地【せいそくち】を保【ほ】全【ぜん】する必【ひつ】要【よう】がある。",
+    "meaning": "It is necessary to conserve butterfly habitats."
+  },
+  {
+    "sentence": "蝶の長い触角は風を感じ取る。",
+    "sentence_furigana": "蝶【ちょう】の長【なが】い触角【しょっかく】は風【かぜ】を感【かん】じ取【と】る。",
+    "meaning": "The long antennae of butterflies sense the wind."
+  },
+  {
+    "sentence": "蝶の翅の裏側にも模様がある。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の裏側【うらがわ】にも模【も】様【よう】がある。",
+    "meaning": "There are patterns on the underside of butterfly wings as well."
+  },
+  {
+    "sentence": "蝶の幼生形態は多様である。",
+    "sentence_furigana": "蝶【ちょう】の幼生形態【ようせいけいたい】は多【た】様【よう】である。",
+    "meaning": "The larval forms of butterflies are diverse."
+  },
+  {
+    "sentence": "蝶の食性は大別して草食性と肉食性に分けられる。",
+    "sentence_furigana": "蝶【ちょう】の食性【しょくせい】は大別【たいべつ】して草食性【そうしょくせい】と肉食性【にくしょくせい】に分【わ】けられる。",
+    "meaning": "Butterfly diets are broadly divided into herbivorous and carnivorous."
+  },
+  {
+    "sentence": "蝶の群れは集団で移動することがある。",
+    "sentence_furigana": "蝶【ちょう】の群【む】れは集団【しゅうだん】で移【い】動【どう】することがある。",
+    "meaning": "Swarms of butterflies may migrate together."
+  },
+  {
+    "sentence": "蝶の羽ばたきはエネルギー効率が良い。",
+    "sentence_furigana": "蝶【ちょう】の羽【は】ばたきはエネルギー効【こう】率【りつ】が良い【よい】。",
+    "meaning": "Butterfly flapping is energy efficient."
+  },
+  {
+    "sentence": "蝶の幼虫期間は成長段階によって異なる。",
+    "sentence_furigana": "蝶【ちょう】の幼虫期間【ようちゅうきかん】は成【せいちょう】段【だん】階【かい】によって異【こと】なる。",
+    "meaning": "The larval period of butterflies differs depending on the growth stage."
+  },
+  {
+    "sentence": "蝶の翅の鱗粉は、色を鮮やかに見せる役割も担う。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の鱗粉【りんぷん】は、色【いろ】を鮮【あざ】やかに見【み】せる役【やく】割【わり】も担【にな】う。",
+    "meaning": "The scales on butterfly wings also play a role in making colors appear vivid."
+  },
+  {
+    "sentence": "蝶の飛翔能力は、獲物から逃れるのに役立つ。",
+    "sentence_furigana": "蝶【ちょう】の飛翔能力【ひしょうのうりょく】は、獲物【えもの】から逃【のが】れるのに役立【やくた】つ。",
+    "meaning": "The flight ability of butterflies helps them escape from predators."
+  },
+  {
+    "sentence": "蝶の幼虫は、その成長段階で数回の脱皮を行う。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、その成【せいちょう】段【だん】階【かい】で数【すう】回【かい】の脱皮【だっぴ】を行【おこな】う。",
+    "meaning": "Butterfly larvae undergo several molts during their growth stages."
+  },
+  {
+    "sentence": "蝶の体は、外界の刺激に敏感に反応する。",
+    "sentence_furigana": "蝶【ちょう】の体【からだ】は、外【がい】界【かい】の刺【し】激【げき】に敏【びん】感【かん】に反応【はんのう】する。",
+    "meaning": "The body of a butterfly reacts sensitively to external stimuli."
+  },
+  {
+    "sentence": "蝶の翅の構造は、揚力を得るのに適している。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の構【こう】造【ぞう】は、揚力【ようりょく】を得【え】るのに適【てき】している。",
+    "meaning": "The structure of butterfly wings is adapted to generate lift."
+  },
+  {
+    "sentence": "蝶の幼虫は、植物の特定の部分を食料とする。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、植【しょく】物【ぶつ】の特【とく】定【てい】の部分【ぶぶん】を食【しょく】料【りょう】とする。",
+    "meaning": "Butterfly larvae feed on specific parts of plants."
+  },
+  {
+    "sentence": "蝶の交尾は、繁殖成功の鍵となる。",
+    "sentence_furigana": "蝶【ちょう】の交尾【こうび】は、繁【はん】殖【しょく】成【せい】功【こう】の鍵【かぎ】となる。",
+    "meaning": "Butterfly mating is key to reproductive success."
+  },
+  {
+    "sentence": "蝶の仲間は、世界中に広く分布している。",
+    "sentence_furigana": "蝶【ちょう】の仲【なか】間【ま】は、世【せ】界【かい】中【じゅう】に広【ひろ】く分【ぶん】布【ぷ】している。",
+    "meaning": "Butterflies are widely distributed throughout the world."
+  },
+  {
+    "sentence": "蝶の体色には、種を識別するための情報が含まれている。",
+    "sentence_furigana": "蝶【ちょう】の体色【たいしょく】には、種【しゅ】を識【しき】別【べつ】するための情【じょう】報【ほう】が含ま【ふくま】れている。",
+    "meaning": "Butterfly coloration contains information for species identification."
+  },
+  {
+    "sentence": "蝶の幼虫は、外敵から身を守るために特殊な能力を持つ。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、外【がい】敵【てき】から身【み】を守【まも】るために特【とく】殊【しゅ】な能力【のうりょく】を持つ。",
+    "meaning": "Butterfly larvae possess special abilities to protect themselves from predators."
+  },
+  {
+    "sentence": "蝶の翅の模様は、威嚇や求愛にも利用される。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の模【も】様【よう】は、威【い】嚇【かく】や求愛【きゅうあい】にも利【り】用【よう】される。",
+    "meaning": "Butterfly wing patterns are also used for intimidation and courtship."
+  },
+  {
+    "sentence": "蝶の成虫の寿命は、種や環境条件によって大きく変動する。",
+    "sentence_furigana": "蝶【ちょう】の成虫【せいちゅう】の寿【じゅ】命【めい】は、種【しゅ】や環【かん】境【きょう】条【じょう】件【けん】によって大【おお】きく変【へん】動【どう】する。",
+    "meaning": "The lifespan of adult butterflies varies greatly depending on the species and environmental conditions."
+  },
+  {
+    "sentence": "蝶の羽ばたきの音は、人間にはほとんど聞こえない。",
+    "sentence_furigana": "蝶【ちょう】の羽【は】ばたきの音【おと】は、人【ひと】間【かん】にはほとんど聞【き】こえない。",
+    "meaning": "The sound of a butterfly's wings is almost inaudible to humans."
+  },
+  {
+    "sentence": "蝶の幼虫は、成長と共に大きくなる。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、成【せいちょう】と共【とも】に大【おお】きくなる。",
+    "meaning": "Butterfly larvae grow larger as they develop."
+  },
+  {
+    "sentence": "蝶の翅の構造は、滑空にも適している。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の構【こう】造【ぞう】は、滑空【かっくう】にも適【てき】している。",
+    "meaning": "The structure of butterfly wings is also suitable for gliding."
+  },
+  {
+    "sentence": "蝶の口器は、花の蜜を吸いやすい形状をしている。",
+    "sentence_furigana": "蝶【ちょう】の口器【こうき】は、花【はな】の蜜【みつ】を吸【す】いやすい形【けい】状【じょう】をしている。",
+    "meaning": "Butterfly mouthparts have a shape that makes it easy to suck nectar from flowers."
+  },
+  {
+    "sentence": "蝶の翅脈は、翅を支える重要な役割を果たす。",
+    "sentence_furigana": "蝶【ちょう】の翅脈【しみゃく】は、翅【はね】を支【ささ】える重【じゅう】要【よう】な役【やく】割【わり】を果【は】たす。",
+    "meaning": "Butterfly wing veins play an important role in supporting the wings."
+  },
+  {
+    "sentence": "蝶の体温調節は、主に日当たりの良い場所で行われる。",
+    "sentence_furigana": "蝶【ちょう】の体温調【たいおんちょう】節【せつ】は、主【おも】に日当【ひあ】たりが良い【よい】場所【ばしょ】で行【おこな】われる。",
+    "meaning": "Butterfly thermoregulation mainly occurs in sunny places."
+  },
+  {
+    "sentence": "蝶の幼虫の食性は、種によって大きく異なる。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】の食性【しょくせい】は、種【しゅ】によって大【おお】きく異【こと】なる。",
+    "meaning": "The diet of butterfly larvae varies greatly by species."
+  },
+  {
+    "sentence": "蝶の翅の色は、光の反射によって変化して見える。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の色【いろ】は、光【ひかり】の反【はん】射【しゃ】によって変【へん】化【か】して見【み】える。",
+    "meaning": "The colors of butterfly wings appear to change due to light reflection."
+  },
+  {
+    "sentence": "蝶の翅の形状は、空力学的に優れている。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の形【けい】状【じょう】は、空【くう】力【りき】学【がく】的【てき】に優【すぐ】れている。",
+    "meaning": "The shape of butterfly wings is aerodynamically excellent."
+  },
+  {
+    "sentence": "蝶の社会性に関する研究はまだ少ない。",
+    "sentence_furigana": "蝶【ちょう】の社【しゃ】会【かい】性【せい】に関する【かん】研【けん】究【きゅう】はまだ少【すく】ない。",
+    "meaning": "Research on the social behavior of butterflies is still limited."
+  },
+  {
+    "sentence": "蝶の幼虫は、天敵から身を守るために擬態や毒を用いる。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、天敵【てんてき】から身【み】を守【まも】るために擬態【ぎたい】や毒【どく】を用いる。",
+    "meaning": "Butterfly larvae use mimicry and poison to protect themselves from predators."
+  },
+  {
+    "sentence": "蝶の翅の鱗粉は、紫外線から翅を保護する。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の鱗粉【りんぷん】は、紫【し】外【がい】線【せん】から翅【はね】を保【ほ】護【ご】する。",
+    "meaning": "Butterfly wing scales protect the wings from ultraviolet rays."
+  },
+  {
+    "sentence": "蝶の飛行経路は、風向きや障害物によって影響を受ける。",
+    "sentence_furigana": "蝶【ちょう】の飛行経路【ひこうけいろ】は、風向【ふうこう】きや障【しょう】害【がい】物【ぶつ】によって影響【えいきょう】を受【う】ける。",
+    "meaning": "The flight path of butterflies is affected by wind direction and obstacles."
+  },
+  {
+    "sentence": "蝶の翅の静脈は、翅を強化する役割も担う。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の静脈【じょうみゃく】は、翅【はね】を強【きょう】化【か】する役【やく】割【わり】も担【にな】う。",
+    "meaning": "Butterfly wing veins also play a role in strengthening the wings."
+  },
+  {
+    "sentence": "蝶の幼虫は、成長段階に応じて餌を変えることがある。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、成【せいちょう】段【だん】階【かい】に応【おう】じ餌【えさ】を変【か】えることがある。",
+    "meaning": "Butterfly larvae may change their diet depending on their growth stage."
+  },
+  {
+    "sentence": "蝶の体は、微細な鱗毛（りんもう）で覆われている。",
+    "sentence_furigana": "蝶【ちょう】の体【からだ】は、微【び】細【さい】な鱗毛【りんもう】で覆【おお】われている。",
+    "meaning": "The body of a butterfly is covered with fine scales."
+  },
+  {
+    "sentence": "蝶の視覚は、色や形を識別するのに優れている。",
+    "sentence_furigana": "蝶【ちょう】の視覚【しかく】は、色【いろ】や形【かたち】を識【しき】別【べつ】するのに優【すぐ】れている。",
+    "meaning": "Butterfly vision is excellent at distinguishing colors and shapes."
+  },
+  {
+    "sentence": "蝶の翅の模様は、個体識別にも役立つことがある。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の模【も】様【よう】は、個【こ】体【たい】識【しき】別【べつ】にも役立【やくた】つことがある。",
+    "meaning": "The patterns on butterfly wings can also be useful for individual identification."
+  },
+  {
+    "sentence": "蝶の産卵場所は、幼虫の食草の近くである。",
+    "sentence_furigana": "蝶【ちょう】の産卵場所【さんらん મばしょ】は、幼虫【ようちゅう】の食草【しょくそう】の近【ちか】くである。",
+    "meaning": "The oviposition site for butterflies is near their host plants."
+  },
+  {
+    "sentence": "蝶の翅の構造は、空気抵抗を減らすように進化した。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の構【こう】造【ぞう】は、空【くう】気【き】抵【てい】抗【こう】を減【へ】らすように進【しん】化【か】した。",
+    "meaning": "The structure of butterfly wings has evolved to reduce air resistance."
+  },
+  {
+    "sentence": "蝶の仲間は、その美しさから人気がある。",
+    "sentence_furigana": "蝶【ちょう】の仲【なか】間【ま】は、その美【うつく】しさから人【ひと】気【き】がある。",
+    "meaning": "Butterflies are popular for their beauty."
+  },
+  {
+    "sentence": "蝶の翅は、非常に薄く、軽くなっている。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】は、非【ひ】常【じょう】に薄【うす】く、軽【かる】くなっている。",
+    "meaning": "Butterfly wings are very thin and light."
+  },
+  {
+    "sentence": "蝶の幼虫の成長速度は、餌の量に依存する。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】の成【せいちょう】速【そく】度【ど】は、餌【えさ】の量【りょう】に依【い】存【ぞん】する。",
+    "meaning": "The growth rate of butterfly larvae depends on the amount of food available."
+  },
+  {
+    "sentence": "蝶の翅の模様は、天敵を欺くための隠蔽色としても機能する。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の模【も】様【よう】は、天敵【てんてき】を欺【あざむ】くための隠【いん】蔽【ぺい】色【しょく】としても機【き】能【のう】する。",
+    "meaning": "Butterfly wing patterns also function as camouflage to deceive predators."
+  },
+  {
+    "sentence": "蝶の飛翔は、エネルギー消費が大きい活動である。",
+    "sentence_furigana": "蝶【ちょう】の飛翔【ひしょう】は、エネルギー消【しょう】費【ひ】が大【おお】きい活【かつ】動【どう】である。",
+    "meaning": "Butterfly flight is an energy-intensive activity."
+  },
+  {
+    "sentence": "蝶の体温は、太陽光によって上昇する。",
+    "sentence_furigana": "蝶【ちょう】の体温【たいおん】は、太【たい】陽【よう】光【こう】によって上【じょう】昇【しょう】する。",
+    "meaning": "The body temperature of butterflies increases with sunlight."
+  },
+  {
+    "sentence": "蝶の幼虫は、食草の匂いを頼りに探す。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】は、食草【しょくそう】の匂【にお】いを頼【たよ】りに探【さが】す。",
+    "meaning": "Butterfly larvae search for host plants by relying on their smell."
+  },
+  {
+    "sentence": "蝶の翅は、鮮やかな色合いを持つものが多い。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】は、鮮【あざ】やかな色合【いろあ】いを持【も】つものが多い。",
+    "meaning": "Many butterfly wings have vivid colors."
+  },
+  {
+    "sentence": "蝶の交尾戦略は、種によって多様である。",
+    "sentence_furigana": "蝶【ちょう】の交尾戦略【こうびせんりゃく】は、種【しゅ】によって多【た】様【よう】である。",
+    "meaning": "Butterfly mating strategies are diverse depending on the species."
+  },
+  {
+    "sentence": "蝶の翅の鱗粉は、空気力学的な特性にも影響する。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の鱗粉【りんぷん】は、空【くう】気【き】力【りき】学【がく】的【てき】な特【とく】性【せい】にも影響【えいきょう】する。",
+    "meaning": "Butterfly wing scales also affect aerodynamic properties."
+  },
+  {
+    "sentence": "蝶の幼虫の口器は、葉を噛み切るのに適している。",
+    "sentence_furigana": "蝶【ちょう】の幼虫【ようちゅう】の口器【こうき】は、葉【は】を噛【か】み切【き】るのに適【てき】している。",
+    "meaning": "Butterfly larval mouthparts are adapted for chewing leaves."
+  },
+  {
+    "sentence": "蝶の仲間には、長距離を移動する渡り蝶がいる。",
+    "sentence_furigana": "蝶【ちょう】の仲【なか】間【ま】には、長【ちょう】距【きょ】離【り】を移【い】動【どう】する渡【わ】り蝶【ちょう】がいる。",
+    "meaning": "There are migratory butterflies among the butterfly species."
+  },
+  {
+    "sentence": "蝶の翅の模様は、種固有の特徴である。",
+    "sentence_furigana": "蝶【ちょう】の翅【はね】の模【も】様【よう】は、種【しゅ】固【こ】有【ゆう】の特徴【とくちょう】である。",
+    "meaning": "Butterfly wing patterns are species-specific characteristics."
+  }
+]

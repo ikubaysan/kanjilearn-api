@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼の名は世界に称えられている。",
+    "sentence_furigana": "彼【かれ】の名【な】は世界【せかい】に称【たた】えられている。",
+    "meaning": "His name is praised throughout the world."
+  },
+  {
+    "sentence": "その功績は称賛に値する。",
+    "sentence_furigana": "その功績【こうせき】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Those achievements are worthy of praise."
+  },
+  {
+    "sentence": "彼女は優れた歌手として称されている。",
+    "sentence_furigana": "彼女【かのじょ】は優【すぐ】れた歌手【かしゅ】として称【しょう】されている。",
+    "meaning": "She is hailed as an excellent singer."
+  },
+  {
+    "sentence": "この発明は歴史に名を残すだろう。",
+    "sentence_furigana": "この発明【はつめい】は歴史【れきし】に名【な】を残【のこ】すだろう。",
+    "meaning": "This invention will leave its name in history."
+  },
+  {
+    "sentence": "彼は数々の賞を称された。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の賞【しょう】を称【しょう】された。",
+    "meaning": "He was honored with numerous awards."
+  },
+  {
+    "sentence": "その子は親によく褒められている。",
+    "sentence_furigana": "その子【こ】は親【おや】によく褒【ほ】められている。",
+    "meaning": "That child is often praised by their parents."
+  },
+  {
+    "sentence": "彼は正しいことをとなえている。",
+    "sentence_furigana": "彼【かれ】は正【ただ】しいことをとなえている。",
+    "meaning": "He is proclaiming what is right."
+  },
+  {
+    "sentence": "その目標は達成が困難である。",
+    "sentence_furigana": "その目標【もくひょう】は達成【たいせい】が困難【こんなん】である。",
+    "meaning": "That goal is difficult to achieve."
+  },
+  {
+    "sentence": "彼の業績は高く評価された。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は高【たか】く評価【ひょうか】された。",
+    "meaning": "His achievements were highly appreciated."
+  },
+  {
+    "sentence": "彼女の美しさを称賛する声が多かった。",
+    "sentence_furigana": "彼女【かのじょ】の美【うつく】しさを称賛【しょうさん】する声【こえ】が多【おお】かった。",
+    "meaning": "There were many voices praising her beauty."
+  },
+  {
+    "sentence": "その武将は勇猛果敢で称えられた。",
+    "sentence_furigana": "その武将【ぶしょう】は勇猛果敢【ゆうもうかかん】で称【たた】えられた。",
+    "meaning": "That warlord was praised for his bravery and courage."
+  },
+  {
+    "sentence": "彼は偉大な人物として称されるだろう。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な人物【じんぶつ】として称【しょう】されるだろう。",
+    "meaning": "He will be hailed as a great person."
+  },
+  {
+    "sentence": "この歌は多くの人々に愛唱されている。",
+    "sentence_furigana": "この歌【うた】は多【おお】くの人々【ひとびと】に愛唱【あいしょう】されている。",
+    "meaning": "This song is sung with affection by many people."
+  },
+  {
+    "sentence": "彼女の献身的な働きは称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の献身的【けんしんてき】な働【はたら】きは称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her dedicated work deserves praise."
+  },
+  {
+    "sentence": "その理論は学界で称賛を集めている。",
+    "sentence_furigana": "その理論【りろん】は学界【がっかい】で称賛【しょうさん】を集【あつ】めている。",
+    "meaning": "That theory is gathering praise in academic circles."
+  },
+  {
+    "sentence": "彼の行動は英雄として称えられた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は英雄【えいゆう】として称【たた】えられた。",
+    "meaning": "His actions were praised as heroic."
+  },
+  {
+    "sentence": "この計画は多くの賞賛を得た。",
+    "sentence_furigana": "この計画【けいかく】は多【おお】くの賞賛【しょうさん】を得【え】た。",
+    "meaning": "This plan received much praise."
+  },
+  {
+    "sentence": "彼女の名前は伝説として語り継がれている。",
+    "sentence_furigana": "彼女【かのじょ】の名前【なまえ】は伝説【でんせつ】として語【かた】り継【つ】がれている。",
+    "meaning": "Her name is passed down as a legend."
+  },
+  {
+    "sentence": "彼は自分の意見を強くとなえた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を強【つよ】くとなえた。",
+    "meaning": "He strongly advocated for his opinion."
+  },
+  {
+    "sentence": "その絵画は多くの賞賛を集めた。",
+    "sentence_furigana": "その絵画【かいが】は多【おお】くの賞賛【しょうさん】を集【あつ】めた。",
+    "meaning": "That painting garnered much admiration."
+  },
+  {
+    "sentence": "彼の功績は永遠に称えられるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は永遠【えいえん】に称【たた】えられるだろう。",
+    "meaning": "His achievements will be praised eternally."
+  },
+  {
+    "sentence": "この新しい称号は彼にふさわしい。",
+    "sentence_furigana": "この新【あら】たな称号【しょうごう】は彼【かれ】にふさわしい。",
+    "meaning": "This new title is fitting for him."
+  },
+  {
+    "sentence": "彼女は賞賛に値する人物です。",
+    "sentence_furigana": "彼女【かのじょ】は賞賛【しょうさん】に値【あたい】する人物【じんぶつ】です。",
+    "meaning": "She is a person worthy of praise."
+  },
+  {
+    "sentence": "彼の業績は歴史に記録された。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は歴史【れきし】に記録【きろく】された。",
+    "meaning": "His achievements were recorded in history."
+  },
+  {
+    "sentence": "その善行は広く称賛された。",
+    "sentence_furigana": "その善行【ぜんこう】は広【ひろ】く称賛【しょうさん】された。",
+    "meaning": "That good deed was widely praised."
+  },
+  {
+    "sentence": "彼はその偉業を称えるための銅像が建てられた。",
+    "sentence_furigana": "彼【かれ】はその偉業【いぎょう】を称【たた】えるための銅像【どうぞう】が建【た】てられた。",
+    "meaning": "A bronze statue was erected to honor his great achievement."
+  },
+  {
+    "sentence": "この偉大な発見は後世に名を残すだろう。",
+    "sentence_furigana": "この偉大【いだい】な発見【はっけん】は後世【こうせい】に名【な】を残【のこ】すだろう。",
+    "meaning": "This great discovery will leave its name in posterity."
+  },
+  {
+    "sentence": "彼女は学者として称賛されている。",
+    "sentence_furigana": "彼女【かのじょ】は学者【がくしゃ】として称賛【しょうさん】されている。",
+    "meaning": "She is admired as a scholar."
+  },
+  {
+    "sentence": "彼の提案は皆に称賛された。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は皆【みな】に称賛【しょうさん】された。",
+    "meaning": "His proposal was praised by everyone."
+  },
+  {
+    "sentence": "その賞は彼の長年の努力を称えるものだ。",
+    "sentence_furigana": "その賞【しょう】は彼【かれ】の長年【ながねん】の努力【どりょく】を称【たた】えるものだ。",
+    "meaning": "That award honors his many years of effort."
+  },
+  {
+    "sentence": "彼は公明正大な人物として称えられている。",
+    "sentence_furigana": "彼【かれ】は公明正大【こうめいせいだい】な人物【じんぶつ】として称【たた】えられている。",
+    "meaning": "He is praised as a just and fair person."
+  },
+  {
+    "sentence": "その功績は高く評価された。",
+    "sentence_furigana": "その功績【こうせき】は高【たか】く評価【ひょうか】された。",
+    "meaning": "Those achievements were highly appreciated."
+  },
+  {
+    "sentence": "彼女の絵は多くの賞賛を集めた。",
+    "sentence_furigana": "彼女【かのじょ】の絵【え】は多【おお】くの賞賛【しょうさん】を集【あつ】めた。",
+    "meaning": "Her paintings garnered much admiration."
+  },
+  {
+    "sentence": "その計画は多くの人から称賛を受けた。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの人【ひと】から称賛【しょうさん】を受【う】けた。",
+    "meaning": "That plan received praise from many people."
+  },
+  {
+    "sentence": "彼の名は歴史に永遠に刻まれるだろう。",
+    "sentence_furigana": "彼【かれ】の名【な】は歴史【れきし】に永遠【えいえん】に刻【きざ】まれるだろう。",
+    "meaning": "His name will be eternally engraved in history."
+  },
+  {
+    "sentence": "この偉業は称賛に値する。",
+    "sentence_furigana": "この偉業【いぎょう】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "This great achievement is worthy of praise."
+  },
+  {
+    "sentence": "彼は卓越したリーダーシップで称えられた。",
+    "sentence_furigana": "彼【かれ】は卓越【たくえつ】したリーダーシップで称【たた】えられた。",
+    "meaning": "He was praised for his outstanding leadership."
+  },
+  {
+    "sentence": "彼女の慈善活動は広く称賛されている。",
+    "sentence_furigana": "彼女【かのじょ】の慈善活動【じぜんかつどう】は広【ひろ】く称賛【しょうさん】されている。",
+    "meaning": "Her charitable activities are widely praised."
+  },
+  {
+    "sentence": "その論文は学界で高く称賛された。",
+    "sentence_furigana": "その論文【ろんぶん】は学界【がっかい】で高【たか】く称賛【しょうさん】された。",
+    "meaning": "That paper was highly praised in academic circles."
+  },
+  {
+    "sentence": "彼の歌声は天使のようだと称された。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は天使【てんし】のようだと称【しょう】された。",
+    "meaning": "His singing voice was called angelic."
+  },
+  {
+    "sentence": "この町は平和で称されている。",
+    "sentence_furigana": "この町【まち】は平和【へいわ】で称【しょう】されている。",
+    "meaning": "This town is known for its peace."
+  },
+  {
+    "sentence": "彼の功績は永遠に称えられるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は永遠【えいえん】に称【たた】えられるだろう。",
+    "meaning": "His achievements will be praised forever."
+  },
+  {
+    "sentence": "彼女の勇気ある行動は賞賛を集めた。",
+    "sentence_furigana": "彼女【かのじょ】の勇気【ゆうき】ある行動【こうどう】は賞賛【しょうさん】を集【あつ】めた。",
+    "meaning": "Her courageous actions garnered admiration."
+  },
+  {
+    "sentence": "その芸術作品は多くの賞賛を受けた。",
+    "sentence_furigana": "その芸術作品【げいじゅつさくひん】は多【おお】くの賞賛【しょうさん】を受【う】けた。",
+    "meaning": "That work of art received much praise."
+  },
+  {
+    "sentence": "彼の名前は多くの人に知られている。",
+    "sentence_furigana": "彼【かれ】の名【な】は多【おお】くの人【ひと】に知【し】られている。",
+    "meaning": "His name is known to many people."
+  },
+  {
+    "sentence": "この栄誉ある称号は彼に与えられた。",
+    "sentence_furigana": "この栄誉【えいよ】ある称号【しょうごう】は彼【かれ】に与【あた】えられた。",
+    "meaning": "This honorable title was bestowed upon him."
+  },
+  {
+    "sentence": "彼女の才能は称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her talent is worthy of praise."
+  },
+  {
+    "sentence": "彼の献身は高く評価された。",
+    "sentence_furigana": "彼【かれ】の献身【けんしん】は高【たか】く評価【ひょうか】された。",
+    "meaning": "His dedication was highly appreciated."
+  },
+  {
+    "sentence": "その功績は歴史に名を残した。",
+    "sentence_furigana": "その功績【こうせき】は歴史【れきし】に名【な】を残【のこ】した。",
+    "meaning": "Those achievements left their mark on history."
+  },
+  {
+    "sentence": "彼女の親切な行為は称賛された。",
+    "sentence_furigana": "彼女【かのじょ】の親切【しんせつ】な行為【こうい】は称賛【しょうさん】された。",
+    "meaning": "Her kind act was praised."
+  },
+  {
+    "sentence": "彼は素晴らしいリーダーとして称えられている。",
+    "sentence_furigana": "彼【かれ】は素晴【すば】らしいリーダーとして称【たた】えられている。",
+    "meaning": "He is hailed as a wonderful leader."
+  },
+  {
+    "sentence": "この傑出した業績は称賛に値する。",
+    "sentence_furigana": "この傑出【けっしゅつ】した業績【ぎょうせき】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "This outstanding achievement is worthy of praise."
+  },
+  {
+    "sentence": "彼の発言は多くの賞賛を浴びた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は多【おお】くの賞賛【しょうさん】を浴【あ】びた。",
+    "meaning": "His remarks received much praise."
+  },
+  {
+    "sentence": "その芸術家は世界的に称賛されている。",
+    "sentence_furigana": "その芸術家【げいじゅつか】は世界的【せかいてき】に称賛【しょうさん】されている。",
+    "meaning": "That artist is admired worldwide."
+  },
+  {
+    "sentence": "彼の名声は国中に広がった。",
+    "sentence_furigana": "彼【かれ】の名声【めいせい】は国中【くにじゅう】に広【ひろ】がった。",
+    "meaning": "His fame spread throughout the country."
+  },
+  {
+    "sentence": "彼女の知性は賞賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の知性【ちせい】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her intelligence is worthy of praise."
+  },
+  {
+    "sentence": "その政策は多くの支持を得て称賛された。",
+    "sentence_furigana": "その政策【せいさく】は多【おお】くの支持【しじ】を得【え】て称賛【しょうさん】された。",
+    "meaning": "That policy received praise with much support."
+  },
+  {
+    "sentence": "彼の名言は今も称えられている。",
+    "sentence_furigana": "彼【かれ】の名言【めいげん】は今【いま】も称【たた】えられている。",
+    "meaning": "His famous words are still praised today."
+  },
+  {
+    "sentence": "この輝かしい業績は称賛されるべきだ。",
+    "sentence_furigana": "この輝【かがや】かしい業績【ぎょうせき】は称賛【しょうさん】されるべきだ。",
+    "meaning": "This brilliant achievement should be praised."
+  },
+  {
+    "sentence": "彼女は人々に愛される歌手として有名だ。",
+    "sentence_furigana": "彼女【かのじょ】は人々【ひとびと】に愛【あい】される歌手【かしゅ】として有名【ゆうめい】だ。",
+    "meaning": "She is famous as a beloved singer."
+  },
+  {
+    "sentence": "彼のリーダーシップは高く称賛された。",
+    "sentence_furigana": "彼【かれ】のリーダーシップは高【たか】く称賛【しょうさん】された。",
+    "meaning": "His leadership was highly praised."
+  },
+  {
+    "sentence": "その詩は多くの賞賛を集めた。",
+    "sentence_furigana": "その詩【し】は多【おお】くの賞賛【しょうさん】を集【あつ】めた。",
+    "meaning": "That poem garnered much admiration."
+  },
+  {
+    "sentence": "彼の功績は歴史に名を残すだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に名【な】を残【のこ】すだろう。",
+    "meaning": "His achievements will leave their name in history."
+  },
+  {
+    "sentence": "彼女の美徳は称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の美徳【びとく】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her virtue is worthy of praise."
+  },
+  {
+    "sentence": "その発明は世界を称賛させた。",
+    "sentence_furigana": "その発明【はつめい】は世界【せかい】を称賛【しょうさん】させた。",
+    "meaning": "That invention made the world praise."
+  },
+  {
+    "sentence": "彼は長年の功績を称えられ、表彰された。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の功績【こうせき】を称【たた】えられ、表彰【ひょうしょう】された。",
+    "meaning": "He was honored and awarded for his many years of achievement."
+  },
+  {
+    "sentence": "この偉業は多くの賞賛を集めるだろう。",
+    "sentence_furigana": "この偉業【いぎょう】は多【おお】くの賞賛【しょうさん】を集【あつ】めるだろう。",
+    "meaning": "This great achievement will gather much praise."
+  },
+  {
+    "sentence": "彼女の優れた能力は称賛されている。",
+    "sentence_furigana": "彼女【かのじょ】の優【すぐ】れた能力【のうりょく】は称賛【しょうさん】されている。",
+    "meaning": "Her excellent abilities are praised."
+  },
+  {
+    "sentence": "彼の提案は皆の賛同を得て称えられた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は皆【みな】の賛同【さんどう】を得【え】て称賛【しょうさん】された。",
+    "meaning": "His proposal was praised with the agreement of everyone."
+  },
+  {
+    "sentence": "その名声は国中に広まった。",
+    "sentence_furigana": "その名声【めいせい】は国中【くにじゅう】に広【ひろ】がった。",
+    "meaning": "That fame spread throughout the country."
+  },
+  {
+    "sentence": "彼女のリーダーシップは賞賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】のリーダーシップは賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her leadership is worthy of praise."
+  },
+  {
+    "sentence": "彼の行動は多くの人から称賛された。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は多【おお】くの人【ひと】から称賛【しょうさん】された。",
+    "meaning": "His actions were praised by many people."
+  },
+  {
+    "sentence": "この栄誉ある称号は彼女に授与された。",
+    "sentence_furigana": "この栄誉【えいよ】ある称号【しょうごう】は彼女【かのじょ】に授与【じゅよ】された。",
+    "meaning": "This honorable title was awarded to her."
+  },
+  {
+    "sentence": "彼の名は永遠に語り継がれるだろう。",
+    "sentence_furigana": "彼【かれ】の名【な】は永遠【えいえん】に語【かた】り継【つ】がれるだろう。",
+    "meaning": "His name will be passed down forever."
+  },
+  {
+    "sentence": "その功績は称賛に値する。",
+    "sentence_furigana": "その功績【こうせき】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Those achievements are worthy of praise."
+  },
+  {
+    "sentence": "彼女の美貌は称賛を集めた。",
+    "sentence_furigana": "彼女【かのじょ】の美貌【びぼう】は称賛【しょうさん】を集【あつ】めた。",
+    "meaning": "Her beauty garnered admiration."
+  },
+  {
+    "sentence": "彼は努力家として称えられている。",
+    "sentence_furigana": "彼【かれ】は努力家【どりょくか】として称【たた】えられている。",
+    "meaning": "He is praised as a hard worker."
+  },
+  {
+    "sentence": "この偉大な功績は称賛されるべきだ。",
+    "sentence_furigana": "この偉大【いだい】な功績【こうせき】は称賛【しょうさん】されるべきだ。",
+    "meaning": "This great achievement should be praised."
+  },
+  {
+    "sentence": "彼の有名な言葉は多くの人に引用されている。",
+    "sentence_furigana": "彼【かれ】の有名【ゆうめい】な言葉【ことば】は多【おお】くの人【ひと】に引用【いんよう】されている。",
+    "meaning": "His famous words are quoted by many people."
+  },
+  {
+    "sentence": "その芸術は高い評価を受け称賛された。",
+    "sentence_furigana": "その芸術【げいじゅつ】は高【たか】い評価【ひょうか】を受【う】け称賛【しょうさん】された。",
+    "meaning": "That art received high praise and admiration."
+  },
+  {
+    "sentence": "彼女の才能は称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her talent is worthy of praise."
+  },
+  {
+    "sentence": "彼のリーダーシップは広く称賛された。",
+    "sentence_furigana": "彼【かれ】のリーダーシップは広【ひろ】く称賛【しょうさん】された。",
+    "meaning": "His leadership was widely praised."
+  },
+  {
+    "sentence": "その作品は多くの賞賛を集めた。",
+    "sentence_furigana": "その作品【さくひん】は多【おお】くの賞賛【しょうさん】を集【あつ】めた。",
+    "meaning": "That work garnered much admiration."
+  },
+  {
+    "sentence": "彼の功績は歴史に永遠に名を残すだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に永遠【えいえん】に名【な】を残【のこ】すだろう。",
+    "meaning": "His achievements will leave their name in history forever."
+  },
+  {
+    "sentence": "彼女の献身は称賛されるべきだ。",
+    "sentence_furigana": "彼女【かのじょ】の献身【けんしん】は称賛【しょうさん】されるべきだ。",
+    "meaning": "Her dedication should be praised."
+  },
+  {
+    "sentence": "その偉業は多くの人から賞賛を受けた。",
+    "sentence_furigana": "その偉業【いぎょう】は多【おお】くの人【ひと】から賞賛【しょうさん】を受【う】けた。",
+    "meaning": "That great achievement received praise from many people."
+  },
+  {
+    "sentence": "彼は勇気ある行動で称えられた。",
+    "sentence_furigana": "彼【かれ】は勇気【ゆうき】ある行動【こうどう】で称【たた】えられた。",
+    "meaning": "He was praised for his courageous actions."
+  },
+  {
+    "sentence": "この素晴らしい成果は称賛に値する。",
+    "sentence_furigana": "この素晴【すば】らしい成果【せいか】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "This wonderful achievement is worthy of praise."
+  },
+  {
+    "sentence": "彼の名声は世界中に知られている。",
+    "sentence_furigana": "彼【かれ】の名声【めいせい】は世界中【せかいじゅう】に知【し】られている。",
+    "meaning": "His fame is known worldwide."
+  },
+  {
+    "sentence": "彼女の知恵は称賛を集めた。",
+    "sentence_furigana": "彼女【かのじょ】の知恵【ちえ】は称賛【しょうさん】を集【あつ】めた。",
+    "meaning": "Her wisdom garnered admiration."
+  },
+  {
+    "sentence": "その政策は多くの賞賛を受けた。",
+    "sentence_furigana": "その政策【せいさく】は多【おお】くの賞賛【しょうさん】を受【う】けた。",
+    "meaning": "That policy received much praise."
+  },
+  {
+    "sentence": "彼の名は歴史に永遠に刻まれている。",
+    "sentence_furigana": "彼【かれ】の名【な】は歴史【れきし】に永遠【えいえん】に刻【きざ】まれている。",
+    "meaning": "His name is eternally engraved in history."
+  },
+  {
+    "sentence": "彼女の親切は称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の親切【しんせつ】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her kindness is worthy of praise."
+  },
+  {
+    "sentence": "彼の功績は称賛されるべきだ。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は称賛【しょうさん】されるべきだ。",
+    "meaning": "His achievements should be praised."
+  },
+  {
+    "sentence": "その発見は世界に称賛された。",
+    "sentence_furigana": "その発見【はっけん】は世界【せかい】に称賛【しょうさん】された。",
+    "meaning": "That discovery was praised by the world."
+  },
+  {
+    "sentence": "彼女は優秀な科学者として称されている。",
+    "sentence_furigana": "彼女【かのじょ】は優秀【ゆうしゅう】な科学者【かがくしゃ】として称【しょう】されている。",
+    "meaning": "She is known as an excellent scientist."
+  },
+  {
+    "sentence": "彼の有名な名前は多くの人に知られている。",
+    "sentence_furigana": "彼【かれ】の有名【ゆうめい】な名前【なまえ】は多【おお】くの人【ひと】に知【し】られている。",
+    "meaning": "His famous name is known to many people."
+  },
+  {
+    "sentence": "この偉業は多くの賞賛を集めるだろう。",
+    "sentence_furigana": "この偉業【いぎょう】は多【おお】くの賞賛【しょうさん】を集【あつ】めるだろう。",
+    "meaning": "This great achievement will gather much admiration."
+  },
+  {
+    "sentence": "彼女の献身的な活動は称賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】の献身的【けんしんてき】な活動【かつどう】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "Her dedicated activities are worthy of praise."
+  },
+  {
+    "sentence": "彼の業績は歴史に永遠に名を刻んだ。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は歴史【れきし】に永遠【えいえん】に名【な】を刻【きざ】んだ。",
+    "meaning": "His achievements eternally marked his name in history."
+  },
+  {
+    "sentence": "その功績は称賛に値した。",
+    "sentence_furigana": "その功績【こうせき】は称賛【しょうさん】に値【あたい】した。",
+    "meaning": "Those achievements were worthy of praise."
+  },
+  {
+    "sentence": "彼女の行動は称賛を集めた。",
+    "sentence_furigana": "彼女【かのじょ】の行動【こうどう】は称賛【しょうさん】を集【あつ】めた。",
+    "meaning": "Her actions garnered admiration."
+  }
+]

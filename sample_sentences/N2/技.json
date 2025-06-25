@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "その老人の技には驚かされる。",
+    "sentence_furigana": "その【】老人【ろうじん】の技【わざ】には驚【おどろ】かされる。",
+    "meaning": "I am amazed by the old man's skill."
+  },
+  {
+    "sentence": "彼はどんな技でもやってのける。",
+    "sentence_furigana": "彼【かれ】はどんな技【わざ】でもやってのける。",
+    "meaning": "He can perform any feat."
+  },
+  {
+    "sentence": "彼女は素晴らしい技の持ち主だ。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい技【わざ】の持【も】ち主【ぬし】だ。",
+    "meaning": "She possesses a wonderful ability."
+  },
+  {
+    "sentence": "この技は熟練を要する。",
+    "sentence_furigana": "この【】技【わざ】は熟練【じゅくれん】を要【よう】する。",
+    "meaning": "This technique requires practice."
+  },
+  {
+    "sentence": "彼は技を磨き続けている。",
+    "sentence_furigana": "彼【かれ】は技【わざ】を磨【みが】き続【つづ】けている。",
+    "meaning": "He continues to hone his skills."
+  },
+  {
+    "sentence": "高度な技が求められる職業だ。",
+    "sentence_furigana": "高度【こうど】な技【わざ】が求【もと】められる職業【しょくぎょう】だ。",
+    "meaning": "It is a profession that demands advanced skills."
+  },
+  {
+    "sentence": "その技は代々受け継がれている。",
+    "sentence_furigana": "その【】技【わざ】は代々【だいだい】受【う】け継【つ】がれている。",
+    "meaning": "That art has been passed down through generations."
+  },
+  {
+    "sentence": "彼は技に秀でている。",
+    "sentence_furigana": "彼【かれ】は技【わざ】に秀【ひい】でている。",
+    "meaning": "He excels in his craft."
+  },
+  {
+    "sentence": "新たな技を習得した。",
+    "sentence_furigana": "新【あら】たな技【わざ】を習得【しゅうとく】した。",
+    "meaning": "I acquired a new skill."
+  },
+  {
+    "sentence": "実演販売は技量が問われる。",
+    "sentence_furigana": "実演販売【じつえんはんばい】は技量【ぎりょう】が問【と】われる。",
+    "meaning": "Sales demonstrations require skill."
+  },
+  {
+    "sentence": "古来より伝わる技法だ。",
+    "sentence_furigana": "古来【こらい】より伝【つた】わる技法【ぎほう】だ。",
+    "meaning": "It is a technique passed down since ancient times."
+  },
+  {
+    "sentence": "彼は技を披露した。",
+    "sentence_furigana": "彼【かれ】は技【わざ】を披露【ひろう】した。",
+    "meaning": "He demonstrated his skills."
+  },
+  {
+    "sentence": "その技はとても独創的だ。",
+    "sentence_furigana": "その【】技【わざ】はとても独創的【どくそうてき】だ。",
+    "meaning": "That technique is very original."
+  },
+  {
+    "sentence": "技術の進歩は目覚ましい。",
+    "sentence_furigana": "技術【ぎじゅつ】の進歩【しんぽ】は目覚【めざ】ましく。",
+    "meaning": "Technological progress is remarkable."
+  },
+  {
+    "sentence": "彼の技は芸術の域に達している。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は芸術【げいじゅつ】の域【いき】に達【たっ】している。",
+    "meaning": "His skills have reached the level of art."
+  },
+  {
+    "sentence": "料理の技を競い合う。",
+    "sentence_furigana": "料理【りょうり】の技【わざ】を競【きそ】い合【あ】う。",
+    "meaning": "They compete in culinary skills."
+  },
+  {
+    "sentence": "熟練した技が光る。",
+    "sentence_furigana": "熟練【じゅくれん】した技【わざ】が光【ひか】る。",
+    "meaning": "The skilled technique shines."
+  },
+  {
+    "sentence": "その技は簡単には真似できない。",
+    "sentence_furigana": "その【】技【わざ】は簡単【かんたん】には真似【まね】できない。",
+    "meaning": "That skill cannot be easily imitated."
+  },
+  {
+    "sentence": "彼の技量は日本一だ。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は日本一【にほんいち】だ。",
+    "meaning": "His skill is the best in Japan."
+  },
+  {
+    "sentence": "多くの観客が技を見守る。",
+    "sentence_furigana": "多【おお】くの観客【かんきゃく】が技【わざ】を見守【みまも】る。",
+    "meaning": "Many spectators watch the performance."
+  },
+  {
+    "sentence": "彼は様々な技に通じている。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な技【わざ】に通【つう】じている。",
+    "meaning": "He is proficient in various arts."
+  },
+  {
+    "sentence": "その技法は貴重なものだ。",
+    "sentence_furigana": "その【】技法【ぎほう】は貴重【きちょう】なものだ。",
+    "meaning": "That technique is precious."
+  },
+  {
+    "sentence": "彼の技は見る者を魅了する。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は見る者【もの】を魅了【みりょう】する。",
+    "meaning": "His performance captivates the audience."
+  },
+  {
+    "sentence": "秘伝の技を継承する。",
+    "sentence_furigana": "秘伝【ひでん】の技【わざ】を継承【けいしょう】する。",
+    "meaning": "To inherit secret techniques."
+  },
+  {
+    "sentence": "この技は習得に時間がかかる。",
+    "sentence_furigana": "この【】技【わざ】は習得【しゅうとく】に時間【じかん】がかかる。",
+    "meaning": "This skill takes time to master."
+  },
+  {
+    "sentence": "彼女の技工は素晴らしい。",
+    "sentence_furigana": "彼女【かのじょ】の技工【ぎこう】は素晴【すば】らしい。",
+    "meaning": "Her craftsmanship is wonderful."
+  },
+  {
+    "sentence": "技を極める者は少ない。",
+    "sentence_furigana": "技【わざ】を極【きわ】める者【もの】は少【すく】ない。",
+    "meaning": "Few people master their art."
+  },
+  {
+    "sentence": "彼は驚異的な技を披露した。",
+    "sentence_furigana": "彼【かれ】は驚異的【きょういてき】な技【わざ】を披露【ひろう】した。",
+    "meaning": "He displayed an amazing feat."
+  },
+  {
+    "sentence": "この技は芸術的だ。",
+    "sentence_furigana": "この【】技【わざ】は芸術的【げいじゅつてき】だ。",
+    "meaning": "This skill is artistic."
+  },
+  {
+    "sentence": "その技は繊細さを必要とする。",
+    "sentence_furigana": "その【】技【わざ】は繊細【せんさい】さを必要【ひつよう】とする。",
+    "meaning": "That technique requires delicacy."
+  },
+  {
+    "sentence": "新しい技の開発に取り組む。",
+    "sentence_furigana": "新【あら】たな技【わざ】の開発【かいはつ】に取り組【とりく】む。",
+    "meaning": "To work on developing new skills."
+  },
+  {
+    "sentence": "彼は技を練習している。",
+    "sentence_furigana": "彼【かれ】は技【わざ】を練習【れんしゅう】している。",
+    "meaning": "He is practicing his skills."
+  },
+  {
+    "sentence": "その技には多くの工夫が凝らされている。",
+    "sentence_furigana": "その【】技【わざ】には多【おお】くの工夫【くふう】が凝【こ】らされている。",
+    "meaning": "That technique involves a lot of ingenuity."
+  },
+  {
+    "sentence": "彼女は技術者として有名だ。",
+    "sentence_furigana": "彼女【かのじょ】は技術者【ぎじゅつしゃ】として有名【ゆうめい】だ。",
+    "meaning": "She is famous as an engineer."
+  },
+  {
+    "sentence": "彼の技量は高く評価されている。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は高【たか】く評価【ひょうか】されている。",
+    "meaning": "His skills are highly regarded."
+  },
+  {
+    "sentence": "この技は伝統工芸品に使われている。",
+    "sentence_furigana": "この【】技【わざ】は伝統工芸品【でんとうこうげいひん】に使【つか】われている。",
+    "meaning": "This technique is used in traditional crafts."
+  },
+  {
+    "sentence": "彼の技量は将来有望だ。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は将来有望【しょうらいゆうぼう】だ。",
+    "meaning": "His skills show great promise for the future."
+  },
+  {
+    "sentence": "演技の技量が試される。",
+    "sentence_furigana": "演技【えんぎ】の技量【ぎりょう】が試【た】される。",
+    "meaning": "Acting ability is put to the test."
+  },
+  {
+    "sentence": "その技は熟練の職人の手によるものだ。",
+    "sentence_furigana": "その【】技【わざ】は熟練【じゅくれん】の職人【しょくにん】の手【て】によるものだ。",
+    "meaning": "That technique is the work of a skilled craftsman."
+  },
+  {
+    "sentence": "彼は技を盗むのがうまい。",
+    "sentence_furigana": "彼【かれ】は技【わざ】を盗【ぬす】むのがうまい。",
+    "meaning": "He is good at learning skills by observation."
+  },
+  {
+    "sentence": "この技は応用が利く。",
+    "sentence_furigana": "この【】技【わざ】は応用【おうよう】が利【き】く。",
+    "meaning": "This technique is versatile."
+  },
+  {
+    "sentence": "彼女の舞の技は見る者を魅了する。",
+    "sentence_furigana": "彼女【かのじょ】の舞【まい】の技【わざ】は見る者【もの】を魅了【みりょう】する。",
+    "meaning": "Her dancing skills captivate the audience."
+  },
+  {
+    "sentence": "その技は時代とともに進化する。",
+    "sentence_furigana": "その【】技【わざ】は時代【じだい】とともに進化【しんか】する。",
+    "meaning": "That art evolves with the times."
+  },
+  {
+    "sentence": "彼の話術の技は素晴らしい。",
+    "sentence_furigana": "彼【かれ】の話題【わだい】の技【わざ】は素晴【すば】らしい。",
+    "meaning": "His speaking skill is wonderful."
+  },
+  {
+    "sentence": "職人の技が光る逸品だ。",
+    "sentence_furigana": "職人【しょくにん】の技【わざ】が光【ひか】る逸品【いっぴん】だ。",
+    "meaning": "It is a masterpiece that showcases the craftsman's skill."
+  },
+  {
+    "sentence": "彼は新しい技を開発している。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな技【わざ】を開発【かいはつ】している。",
+    "meaning": "He is developing new techniques."
+  },
+  {
+    "sentence": "この技は長年の経験の結晶だ。",
+    "sentence_furigana": "この【】技【わざ】は長年【ながねん】の経験【けいけん】の結晶【けっしょう】だ。",
+    "meaning": "This skill is the crystallization of many years of experience."
+  },
+  {
+    "sentence": "彼女の料理の腕前は技とも言える。",
+    "sentence_furigana": "彼女【かのじょ】の料理【りょうり】の腕前【うでまえ】は技【わざ】とも言【い】える。",
+    "meaning": "Her culinary skills can be called an art."
+  },
+  {
+    "sentence": "その技は現代では失われつつある。",
+    "sentence_furigana": "その【】技【わざ】は現代【げんだい】では失【うしな】われつつある。",
+    "meaning": "That art is being lost in modern times."
+  },
+  {
+    "sentence": "彼の演技の技量は高く評価されている。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】の技量【ぎりょう】は高【たか】く評価【ひょうか】されている。",
+    "meaning": "His acting skills are highly appreciated."
+  },
+  {
+    "sentence": "この技は特別な訓練を必要とする。",
+    "sentence_furigana": "この【】技【わざ】は特別【とくべつ】な訓練【くんれん】を必要【ひつよう】とする。",
+    "meaning": "This technique requires special training."
+  },
+  {
+    "sentence": "彼の技は目を見張るものがある。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は目【め】を見張【みは】るものがある。",
+    "meaning": "His skills are astonishing."
+  },
+  {
+    "sentence": "この技法は非常に高度だ。",
+    "sentence_furigana": "この【】技法【ぎほう】は非常【ひじょう】に高度【こうど】だ。",
+    "meaning": "This technique is very advanced."
+  },
+  {
+    "sentence": "彼女は様々な技に精通している。",
+    "sentence_furigana": "彼女【かのじょ】は様々【さまざま】な技【わざ】に精通【せいつう】している。",
+    "meaning": "She is well-versed in various arts."
+  },
+  {
+    "sentence": "彼の技は熟練の域に達している。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は熟練【じゅくれん】の域【いき】に達【たっ】している。",
+    "meaning": "His skills have reached a level of mastery."
+  },
+  {
+    "sentence": "その技は多くの人の心を打つ。",
+    "sentence_furigana": "その【】技【わざ】は多【おお】くの人【ひと】の心【こころ】を打【う】つ。",
+    "meaning": "That performance touches many people's hearts."
+  },
+  {
+    "sentence": "この技は先祖から伝わったものだ。",
+    "sentence_furigana": "この【】技【わざ】は先祖【せんぞ】から伝【つた】わったものだ。",
+    "meaning": "This skill was passed down from ancestors."
+  },
+  {
+    "sentence": "彼はその技を披露して喝采を浴びた。",
+    "sentence_furigana": "彼【かれ】はその【】技【わざ】を披露【ひろう】して喝采【かっさい】を浴【あ】びた。",
+    "meaning": "He received applause for displaying his skill."
+  },
+  {
+    "sentence": "彼女の技量はチームにとって不可欠だ。",
+    "sentence_furigana": "彼女【かのじょ】の技量【ぎりょう】はチームにとって不可欠【ふかけつ】だ。",
+    "meaning": "Her skill is indispensable to the team."
+  },
+  {
+    "sentence": "その技は独創性と創造性に富んでいる。",
+    "sentence_furigana": "その【】技【わざ】は独創性【どくそうせい】と創造性【そうぞうせい】に富【と】んでいる。",
+    "meaning": "That technique is rich in originality and creativity."
+  },
+  {
+    "sentence": "この技は現代に生きている。",
+    "sentence_furigana": "この【】技【わざ】は現代【げんだい】に生【い】きている。",
+    "meaning": "This art is alive in the present day."
+  },
+  {
+    "sentence": "彼は技だけでなく、精神力も強い。",
+    "sentence_furigana": "彼【かれ】は技【わざ】だけなく、精神力【せいしんりょく】も強【つよ】い。",
+    "meaning": "He has not only skill but also strong willpower."
+  },
+  {
+    "sentence": "その技はを見る者に感動を与える。",
+    "sentence_furigana": "その【】技【わざ】はを見る者【もの】に感動【かんどう】を与【あた】える。",
+    "meaning": "That performance moves the audience."
+  },
+  {
+    "sentence": "この技法は非常に繊細な作業を伴う。",
+    "sentence_furigana": "この【】技法【ぎほう】は非常【ひじょう】に繊細【せんさい】な作業【さぎょう】を伴【ともな】う。",
+    "meaning": "This technique involves very delicate work."
+  },
+  {
+    "sentence": "彼の技は多くの人を魅了する。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は多【おお】くの人【ひと】を魅了【みりょう】する。",
+    "meaning": "His skills fascinate many people."
+  },
+  {
+    "sentence": "その技は伝統的なものではない。",
+    "sentence_furigana": "その【】技【わざ】は伝統的【でんとうてき】なものではない。",
+    "meaning": "That technique is not traditional."
+  },
+  {
+    "sentence": "この技は新たな展開を見せている。",
+    "sentence_furigana": "この【】技【わざ】は新【あら】たな展開【てんかい】を見【み】せている。",
+    "meaning": "This art is showing new developments."
+  },
+  {
+    "sentence": "彼の技量は国際的にも認められている。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は国際的【こくさいてき】にも認【みと】められている。",
+    "meaning": "His skills are recognized internationally."
+  },
+  {
+    "sentence": "その技は歴史的に重要だ。",
+    "sentence_furigana": "その【】技【わざ】は歴史的【れきしてき】に重要【じゅうよう】だ。",
+    "meaning": "That art is historically important."
+  },
+  {
+    "sentence": "この技は革新的なものだ。",
+    "sentence_furigana": "この【】技【わざ】は革新的【かくしんてき】なものだ。",
+    "meaning": "This technique is innovative."
+  },
+  {
+    "sentence": "彼の技は見る者を圧倒する。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は見る者【もの】を圧倒【あっとう】する。",
+    "meaning": "His performance overwhelms the audience."
+  },
+  {
+    "sentence": "その技は多くの研究者を惹きつけている。",
+    "sentence_furigana": "その【】技【わざ】は多【おお】くの研究者【けんきゅうしゃ】を惹【ひ】きつけている。",
+    "meaning": "That art attracts many researchers."
+  },
+  {
+    "sentence": "この技は経済活動に不可欠だ。",
+    "sentence_furigana": "この【】技【わざ】は経済活動【けいざいかつどう】に不可欠【ふかけつ】だ。",
+    "meaning": "This skill is essential for economic activity."
+  },
+  {
+    "sentence": "彼の技量は賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His skills are worthy of praise."
+  },
+  {
+    "sentence": "その技は地域の文化を反映している。",
+    "sentence_furigana": "その【】技【わざ】は地域【ちいき】の文化【ぶんか】を反映【はんえい】している。",
+    "meaning": "That art reflects the local culture."
+  },
+  {
+    "sentence": "この技は世代を超えて受け継がれている。",
+    "sentence_furigana": "この【】技【わざ】は世代【せだい】を超【こ】えて受【う】け継【つ】がれている。",
+    "meaning": "This skill is passed down through generations."
+  },
+  {
+    "sentence": "彼の技は卓越している。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は卓越【たくえつ】している。",
+    "meaning": "His skills are outstanding."
+  },
+  {
+    "sentence": "その技は複雑で習得が難しい。",
+    "sentence_furigana": "その【】技【わざ】は複雑【ふくざつ】で習得【しゅうとく】が難【むずか】しい。",
+    "meaning": "That technique is complex and difficult to master."
+  },
+  {
+    "sentence": "この技は芸術的な価値が高い。",
+    "sentence_furigana": "この【】技【わざ】は芸術的【げいじゅつてき】な価値【かち】が高【たか】い。",
+    "meaning": "This skill has high artistic value."
+  },
+  {
+    "sentence": "彼の技は想像力をかき立てる。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は想像力【そうぞうりょく】をかき立【た】てる。",
+    "meaning": "His performance stimulates imagination."
+  },
+  {
+    "sentence": "その技は世界的に有名だ。",
+    "sentence_furigana": "その【】技【わざ】は世界的【せかいてき】に有名【ゆうめい】だ。",
+    "meaning": "That art is world-famous."
+  },
+  {
+    "sentence": "この技は創造性の産物だ。",
+    "sentence_furigana": "この【】技【わざ】は創造性【そうぞうせい】の産物【さんぶつ】だ。",
+    "meaning": "This technique is a product of creativity."
+  },
+  {
+    "sentence": "彼の技量は比類なきものだ。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は比類【ひるい】なきものだ。",
+    "meaning": "His skills are unparalleled."
+  },
+  {
+    "sentence": "その技は多くのファンを魅了した。",
+    "sentence_furigana": "その【】技【わざ】は多【おお】くのファンを魅了【みりょう】した。",
+    "meaning": "That performance captivated many fans."
+  },
+  {
+    "sentence": "この技は新たな時代を切り開く。",
+    "sentence_furigana": "この【】技【わざ】は新【あら】たな時代【じだい】を切【き】り開【ひら】く。",
+    "meaning": "This skill will pioneer a new era."
+  },
+  {
+    "sentence": "彼の技量は誰もが認めるだろう。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は誰【だれ】もが認【みと】めるだろう。",
+    "meaning": "Everyone will surely recognize his skill."
+  },
+  {
+    "sentence": "その技は見る者に深い感動を与える。",
+    "sentence_furigana": "その【】技【わざ】は見る者【もの】に深【ふか】い感動【かんどう】を与【あた】える。",
+    "meaning": "That performance deeply moves the audience."
+  },
+  {
+    "sentence": "この技は日本独自の文化だ。",
+    "sentence_furigana": "この【】技【わざ】は日本独特【にほんにどくじ】の文化【ぶんか】だ。",
+    "meaning": "This art is uniquely Japanese culture."
+  },
+  {
+    "sentence": "彼の技は芸術作品と言える。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は芸術作品【げいじゅつさくひん】と言【い】える。",
+    "meaning": "His skills can be called works of art."
+  },
+  {
+    "sentence": "その技は伝統と革新を融合させている。",
+    "sentence_furigana": "その【】技【わざ】は伝統【でんとう】と革新【かくしん】を融合【ゆうごう】させている。",
+    "meaning": "That art fuses tradition and innovation."
+  },
+  {
+    "sentence": "この技は無限の可能性を秘めている。",
+    "sentence_furigana": "この【】技【わざ】は無限【むげん】の可能性【かのうせい】を秘【ひ】めている。",
+    "meaning": "This skill holds infinite potential."
+  },
+  {
+    "sentence": "彼の技量は賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His skills are worthy of admiration."
+  },
+  {
+    "sentence": "その技は時間をかけて磨かれたものだ。",
+    "sentence_furigana": "その【】技【わざ】は時間【じかん】をかけて磨【みが】かれたものだ。",
+    "meaning": "That skill was honed over time."
+  },
+  {
+    "sentence": "この技は経済発展に貢献する。",
+    "sentence_furigana": "この【】技【わざ】は経済発展【けいざいはってん】に貢献【こうけん】する。",
+    "meaning": "This skill contributes to economic development."
+  },
+  {
+    "sentence": "彼の技は見る者を魅了する。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は見る者【もの】を魅了【みりょう】する。",
+    "meaning": "His skills captivate the audience."
+  },
+  {
+    "sentence": "その技は時代を超えて愛されている。",
+    "sentence_furigana": "その【】技【わざ】は時代【じだい】を超【こ】えて愛【あい】されている。",
+    "meaning": "That art has been loved across generations."
+  },
+  {
+    "sentence": "この技は繊細な技術を要する。",
+    "sentence_furigana": "この【】技【わざ】は繊細【せんさい】な技術【ぎじゅつ】を要【よう】する。",
+    "meaning": "This technique requires delicate skill."
+  },
+  {
+    "sentence": "彼の技量は世界トップクラスだ。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は世界トップクラスだ。",
+    "meaning": "His skill level is world-class."
+  },
+  {
+    "sentence": "その技は見る者に感動を与えた。",
+    "sentence_furigana": "その【】技【わざ】は見る者【もの】に感動【かんどう】を与【あた】えた。",
+    "meaning": "That performance gave the audience a deep impression."
+  },
+  {
+    "sentence": "この技は多くの人々に受け継がれている。",
+    "sentence_furigana": "この【】技【わざ】は多【おお】くの人々【ひとびと】に受【う】け継【つ】がれている。",
+    "meaning": "This skill is passed down to many people."
+  },
+  {
+    "sentence": "彼の技は人を惹きつける力がある。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は人【ひと】を惹【ひ】きつける力【ちから】がある。",
+    "meaning": "His skills have the power to attract people."
+  },
+  {
+    "sentence": "その技は芸術の域に達している。",
+    "sentence_furigana": "その【】技【わざ】は芸術【げいじゅつ】の域【いき】に達【たっ】している。",
+    "meaning": "That art has reached the level of artistic expression."
+  },
+  {
+    "sentence": "この技は未来を切り拓く。",
+    "sentence_furigana": "この【】技【わざ】は未来【みらい】を切【き】り拓【ひら】く。",
+    "meaning": "This skill will pave the way for the future."
+  },
+  {
+    "sentence": "彼の技量は高く評価されている。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は高【たか】く評価【ひょうか】されている。",
+    "meaning": "His skills are highly evaluated."
+  },
+  {
+    "sentence": "その技は伝統工芸の粋だ。",
+    "sentence_furigana": "その【】技【わざ】は伝統工芸【でんとうこうげい】の粋【すい】だ。",
+    "meaning": "That art is the essence of traditional crafts."
+  },
+  {
+    "sentence": "この技は多くの人々を魅了し続けている。",
+    "sentence_furigana": "この【】技【わざ】は多【おお】くの人々【ひとびと】を魅了【みりょう】し続【つづ】けている。",
+    "meaning": "This art continues to fascinate many people."
+  },
+  {
+    "sentence": "彼の技は見る者を驚かせる。",
+    "sentence_furigana": "彼【かれ】の技【わざ】は見る者【もの】を驚【おどろ】かせる。",
+    "meaning": "His skills surprise the spectators."
+  },
+  {
+    "sentence": "その技は現代社会において重要だ。",
+    "sentence_furigana": "その【】技【わざ】は現代社会【げんだいしゃかい】において重要【じゅうよう】だ。",
+    "meaning": "That skill is important in modern society."
+  },
+  {
+    "sentence": "この技は長年の鍛錬の賜物だ。",
+    "sentence_furigana": "この【】技【わざ】は長年【ながねん】の鍛錬【たんれん】の賜物【たまもの】だ。",
+    "meaning": "This skill is the fruit of many years of training."
+  },
+  {
+    "sentence": "彼の技量は国際大会でも通用する。",
+    "sentence_furigana": "彼【かれ】の技量【ぎりょう】は国際大会【こくさいたいかい】でも通用【つうよう】する。",
+    "meaning": "His skills are applicable even in international competitions."
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "この事件は異様な展開を見せた。",
+    "sentence_furigana": "この事件【じけん】は異様【いよう】な展開【てんかい】を見【み】せた。",
+    "meaning": "This incident took an unusual turn."
+  },
+  {
+    "sentence": "その絵には何か異質なものが感じられた。",
+    "sentence_furigana": "その絵【え】には何【なに】か異質【いしつ】なものが感【かん】じられた。",
+    "meaning": "There was something strange felt in that painting."
+  },
+  {
+    "sentence": "二人の意見は全く異なっていた。",
+    "sentence_furigana": "二人【ふたり】の意見【いけん】は全【まった】く異【こと】なっていた。",
+    "meaning": "The two people's opinions were completely different."
+  },
+  {
+    "sentence": "彼は変わった趣味を持つ異色の作家だ。",
+    "sentence_furigana": "彼【かれ】は変【か】わった趣味【しゅみ】を持【も】つ異色【いしょく】の作家【さっか】だ。",
+    "meaning": "He is an unusual writer with peculiar hobbies."
+  },
+  {
+    "sentence": "その出来事は奇異な現象だった。",
+    "sentence_furigana": "その出来事【できごと】は奇異【きい】な現象【げんしょう】だった。",
+    "meaning": "That event was a strange phenomenon."
+  },
+  {
+    "sentence": "常識とは異なる考え方を受け入れた。",
+    "sentence_furigana": "常識【じょうしき】とは異【こと】なる考【かんが】え方【かた】を受【う】け入【い】れた。",
+    "meaning": "I accepted a way of thinking that differs from common sense."
+  },
+  {
+    "sentence": "彼の態度は一変して異様だった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は一変【いっぺん】して異様【いよう】だった。",
+    "meaning": "His attitude changed suddenly and was strange."
+  },
+  {
+    "sentence": "異常な暑さが続いている。",
+    "sentence_furigana": "異常【いじょう】な暑【あつ】さが続【つづ】いている。",
+    "meaning": "Abnormal heat continues."
+  },
+  {
+    "sentence": "その風景はまさに異世界だった。",
+    "sentence_furigana": "その風景【ふうけい】はまさに異世界【いせかい】だった。",
+    "meaning": "That landscape was truly a different world."
+  },
+  {
+    "sentence": "古い習慣と異なる生活様式が混在している。",
+    "sentence_furigana": "古【ふる】い習慣【しゅうかん】と異【こと】なる生活様式【せいかつようしき】が混在【こんざい】している。",
+    "meaning": "Old customs and different lifestyles coexist."
+  },
+  {
+    "sentence": "原因は特定できない異物混入の疑いがある。",
+    "sentence_furigana": "原因【げんいん】は特定【とくてい】できない異物混入【いぶつこんにゅう】の疑【うたが】いがある。",
+    "meaning": "There is suspicion of foreign matter contamination that cannot be identified."
+  },
+  {
+    "sentence": "彼は並外れた才能の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は並外【なみはず】れた才能【さいのう】の持【も】ち主【ぬし】だ。",
+    "meaning": "He possesses extraordinary talent."
+  },
+  {
+    "sentence": "この病気は非常に稀だ。",
+    "sentence_furigana": "この病気【びょうき】は非常【ひじょう】に稀【まれ】だ。",
+    "meaning": "This disease is extremely rare."
+  },
+  {
+    "sentence": "彼の主張は私の考えと全く異なった。",
+    "sentence_furigana": "彼【かれ】の主張【しゅちょう】は私【わたし】の考【かんが】えと全【まった】く異【こと】なった。",
+    "meaning": "His assertion was completely different from my thinking."
+  },
+  {
+    "sentence": "それは常識では考えられないことだ。",
+    "sentence_furigana": "それは常識【じょうしき】では考【かんが】えられないことだ。",
+    "meaning": "That is unimaginable with common sense."
+  },
+  {
+    "sentence": "この工場では異常な数の欠陥品が出た。",
+    "sentence_furigana": "この工場【こうじょう】では異常【いじょう】な数【かず】の欠陥品【けっかんひん】が出【で】た。",
+    "meaning": "An abnormal number of defective products appeared in this factory."
+  },
+  {
+    "sentence": "彼女は独特な感性を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は独特【どくとく】な感性【かんせい】を持【も】っていた。",
+    "meaning": "She had a unique sensibility."
+  },
+  {
+    "sentence": "この機械は通常の動作とは異なっていた。",
+    "sentence_furigana": "この機械【きかい】は通常【つうじょう】の動作【どうさ】とは異【こと】なっていた。",
+    "meaning": "This machine was different from its normal operation."
+  },
+  {
+    "sentence": "その事件の真相は依然として不明だ。",
+    "sentence_furigana": "その事件【じけん】の真相【しんそう】は依然【いぜん】として不明【ふめい】だ。",
+    "meaning": "The truth of the incident remains unknown."
+  },
+  {
+    "sentence": "彼は皆と違う道を歩むことを決めた。",
+    "sentence_furigana": "彼【かれ】は皆【みな】と違【ちが】う道【みち】を歩【あゆ】むことを決【き】めた。",
+    "meaning": "He decided to walk a different path from everyone else."
+  },
+  {
+    "sentence": "その彫刻は見る角度によって表情が異なる。",
+    "sentence_furigana": "その彫刻【ちょうこく】は見る角度【かくど】によって表情【ひょうじょう】が異【こと】なる。",
+    "meaning": "The sculpture's expression changes depending on the viewing angle."
+  },
+  {
+    "sentence": "この地方特有の文化は興味深い。",
+    "sentence_furigana": "この地方特有【ちほうとくゆう】の文化【ぶんか】は興味深【きょうみぶか】い。",
+    "meaning": "The culture unique to this region is interesting."
+  },
+  {
+    "sentence": "彼は異常なほど集中力があった。",
+    "sentence_furigana": "彼【かれ】は異常【いじょう】なほど集中力【しゅうちゅうりょく】があった。",
+    "meaning": "He had an abnormal amount of concentration."
+  },
+  {
+    "sentence": "その組み合わせは異例だ。",
+    "sentence_furigana": "その組【く】み合【あ】わせは異例【いれい】だ。",
+    "meaning": "That combination is unusual."
+  },
+  {
+    "sentence": "彼の発言は常軌を逸していた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は常軌【じょうき】を逸【いっ】していた。",
+    "meaning": "His statement was out of the ordinary."
+  },
+  {
+    "sentence": "その現象は科学的に説明がつかない。",
+    "sentence_furigana": "その現象【げんしょう】は科学的【かがくてき】に説明【せつめい】がつかない。",
+    "meaning": "The phenomenon cannot be explained scientifically."
+  },
+  {
+    "sentence": "彼は人と違う考え方をすることが多い。",
+    "sentence_furigana": "彼【かれ】は人【ひと】と違【ちが】う考【かんが】え方【かた】をすることが多【おお】い。",
+    "meaning": "He often thinks differently from others."
+  },
+  {
+    "sentence": "この植物は他のものと明らかに異なる。",
+    "sentence_furigana": "この植物【しょくぶつ】は他【ほか】のものと明【あき】らかに異【こと】なる。",
+    "meaning": "This plant is clearly different from others."
+  },
+  {
+    "sentence": "その報告書は事実と異なる部分があった。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は事実【じじつ】と異【こと】なる部分【ぶぶん】があった。",
+    "meaning": "There were parts in that report that differed from the facts."
+  },
+  {
+    "sentence": "彼の行動は異常というほかはない。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は異常【いじょう】というほかはない。",
+    "meaning": "His behavior can only be described as abnormal."
+  },
+  {
+    "sentence": "その作品は独自の世界観を持っている。",
+    "sentence_furigana": "その作品【さくひん】は独自【どくじ】の世界観【せかいかん】を持【も】っている。",
+    "meaning": "That work has its own unique worldview."
+  },
+  {
+    "sentence": "彼らの関係は一般的な友情とは異なっていた。",
+    "sentence_furigana": "彼【かれ】ら人間関係【にんげんかんけい】は一般的【いっぱんてき】な友情【ゆうじょう】とは異【こと】なっていた。",
+    "meaning": "Their relationship was different from a typical friendship."
+  },
+  {
+    "sentence": "この地域には珍しい鳥が生息している。",
+    "sentence_furigana": "この地域【ちいき】には珍【めずら】しい鳥【とり】が生息【せいそく】している。",
+    "meaning": "Rare birds inhabit this region."
+  },
+  {
+    "sentence": "彼の才能は並外れたものだ。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は並外【なみはず】れたものだ。",
+    "meaning": "His talent is extraordinary."
+  },
+  {
+    "sentence": "その映画は予想外の結末を迎えた。",
+    "sentence_furigana": "その映画【えいが】は予想外【よそうがい】の結末【けつまつ】を迎【むか】えた。",
+    "meaning": "The movie had an unexpected ending."
+  },
+  {
+    "sentence": "その匂いは異様なものだった。",
+    "sentence_furigana": "その匂【にお】いは異様【いよう】なものだった。",
+    "meaning": "That smell was strange."
+  },
+  {
+    "sentence": "彼らの考え方は我々とは大きく異なる。",
+    "sentence_furigana": "彼【かれ】ら人間【にんげん】の考【かんが】え方【かた】は我々【われわれ】とは大【おお】きく異【こと】なる。",
+    "meaning": "Their way of thinking is very different from ours."
+  },
+  {
+    "sentence": "この問題は前例のない事態だ。",
+    "sentence_furigana": "この問題【もんだい】は前例【ぜんれい】のない事態【じたい】だ。",
+    "meaning": "This problem is an unprecedented situation."
+  },
+  {
+    "sentence": "その芸術家の作品はどれも異彩を放っている。",
+    "sentence_furigana": "その芸術家【げいじゅつか】の作品【さくひん】はどれも異彩【いさい】を放【はな】っている。",
+    "meaning": "All of that artist's works are exceptionally brilliant."
+  },
+  {
+    "sentence": "それは常識外れの出来事だった。",
+    "sentence_furigana": "それは常識外【じょうしきはずれ】の出来事【できごと】だった。",
+    "meaning": "That was an event beyond common sense."
+  },
+  {
+    "sentence": "彼の態度は終始一貫して異様だった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は終始一貫【しゅうしいっかん】して異様【いよう】だった。",
+    "meaning": "His attitude was consistently strange throughout."
+  },
+  {
+    "sentence": "二つの文化は全く異なる起源を持つ。",
+    "sentence_furigana": "二【ふた】つの文化【ぶんか】は全【まった】く異【こと】なる起源【きげん】を持【も】つ。",
+    "meaning": "The two cultures have completely different origins."
+  },
+  {
+    "sentence": "その現象は未だ解明されていない。",
+    "sentence_furigana": "その現象【げんしょう】は未【いま】だ解明【かいめい】されていない。",
+    "meaning": "The phenomenon has not yet been explained."
+  },
+  {
+    "sentence": "彼は他人とは違う視点を持っている。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】とは違【ちが】う視点【してん】を持【も】っている。",
+    "meaning": "He has a different perspective from others."
+  },
+  {
+    "sentence": "この野菜は一般的なものとは味が異なる。",
+    "sentence_furigana": "この野菜【やさい】は一般的【いっぱんてき】なものとは味【あじ】が異【こと】なる。",
+    "meaning": "This vegetable tastes different from common ones."
+  },
+  {
+    "sentence": "彼の発想は奇抜で面白い。",
+    "sentence_furigana": "彼【かれ】の発想【はっそう】は奇抜【きばつ】で面白【おもしろ】い。",
+    "meaning": "His ideas are novel and interesting."
+  },
+  {
+    "sentence": "その都市は独特の雰囲気を持っている。",
+    "sentence_furigana": "その都市【とし】は独特【どくとく】の雰囲気【ふんいき】を持【も】っている。",
+    "meaning": "That city has a unique atmosphere."
+  },
+  {
+    "sentence": "彼の歩き方は少し異様だった。",
+    "sentence_furigana": "彼【かれ】の歩【ある】き方【かた】は少【すこ】し異様【いよう】だった。",
+    "meaning": "His way of walking was a little strange."
+  },
+  {
+    "sentence": "この本は一般的な推理小説とは一線を画す。",
+    "sentence_furigana": "この本【ほん】は一般的【いっぱんてき】な推理小説【すいりしょうせつ】とは一線【いっせん】を画【かく】す。",
+    "meaning": "This book is distinct from typical mystery novels."
+  },
+  {
+    "sentence": "その異常な状況に誰もが戸惑った。",
+    "sentence_furigana": "その異常【いじょう】な状況【じょうきょう】に誰【だれ】もが戸惑【とまど】った。",
+    "meaning": "Everyone was bewildered by the abnormal situation."
+  },
+  {
+    "sentence": "その洞窟は異様な静けさに包まれていた。",
+    "sentence_furigana": "その洞窟【どうくつ】は異様【いよう】な静けさ【しずけさ】に包【つつ】まれていた。",
+    "meaning": "The cave was enveloped in an unusual silence."
+  },
+  {
+    "sentence": "彼は自分の考えを曲げなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えを曲【ま】げなかった。",
+    "meaning": "He did not bend his own thoughts."
+  },
+  {
+    "sentence": "そのデザインは他に類を見ない。",
+    "sentence_furigana": "そのデザインは他【ほか】に類【るい】を見【み】ない。",
+    "meaning": "That design is unparalleled."
+  },
+  {
+    "sentence": "彼の態度は我々の期待とは異なった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は我々【われわれ】の期待【きたい】とは異【こと】なった。",
+    "meaning": "His attitude differed from our expectations."
+  },
+  {
+    "sentence": "この果物は甘味と酸味のバランスが絶妙だ。",
+    "sentence_furigana": "この果物【くだもの】は甘味【あまみ】と酸味【さんみ】のバランスが絶妙【ぜつみょう】だ。",
+    "meaning": "The balance of sweetness and sourness in this fruit is exquisite."
+  },
+  {
+    "sentence": "その光景は異様で目を奪われた。",
+    "sentence_furigana": "その光景【こうけい】は異様【いよう】で目【め】を奪【うば】われた。",
+    "meaning": "The sight was strange and captivating."
+  },
+  {
+    "sentence": "彼は皆とは異なる意見を持っていた。",
+    "sentence_furigana": "彼【かれ】は皆【みな】とは異【こと】なる意見【いけん】を持【も】っていた。",
+    "meaning": "He held opinions different from everyone else."
+  },
+  {
+    "sentence": "その植物は非常に珍しい。",
+    "sentence_furigana": "その植物【しょくぶつ】は非常【ひじょう】に珍【めずら】しい。",
+    "meaning": "That plant is very rare."
+  },
+  {
+    "sentence": "彼の声はまるで別人かのように異なっていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】はまるで別人【べつじん】かのように異【こと】なっていた。",
+    "meaning": "His voice was different as if it were another person's."
+  },
+  {
+    "sentence": "この土地は特別な力があると言われている。",
+    "sentence_furigana": "この土地【とち】は特別【とくべつ】な力【ちから】があると言【い】われている。",
+    "meaning": "This land is said to have a special power."
+  },
+  {
+    "sentence": "その出来事は異常としか言いようがない。",
+    "sentence_furigana": "その出来事【できごと】は異常【いじょう】としか言【い】ようがない。",
+    "meaning": "There's nothing to say about that event but abnormal."
+  },
+  {
+    "sentence": "彼女は並外れた記憶力の持ち主だ。",
+    "sentence_furigana": "彼女【かのじょ】は並外【なみはず】れた記憶力【きおく りょく】の持【も】ち主【ぬし】だ。",
+    "meaning": "She possesses extraordinary memory."
+  },
+  {
+    "sentence": "その知らせは私の予想とは全く異なっていた。",
+    "sentence_furigana": "その知【し】らせは私【わたし】の予想【よそう】とは全【まった】く異【こと】なっていた。",
+    "meaning": "That news was completely different from my expectations."
+  },
+  {
+    "sentence": "彼の考え方は常識にとらわれない。",
+    "sentence_furigana": "彼【かれ】の考【かんが】え方【かた】は常識【じょうしき】にとらわれない。",
+    "meaning": "His way of thinking is not bound by common sense."
+  },
+  {
+    "sentence": "その市場には珍しい品物が並んでいた。",
+    "sentence_furigana": "その市場【いちば】には珍【めずら】しい品物【しなもの】が並【なら】んでいた。",
+    "meaning": "Unusual items were lined up in that market."
+  },
+  {
+    "sentence": "その表情は何かを物語っているようだった。",
+    "sentence_furigana": "その表情【ひょうじょう】は何か【なにか】を物語【ものがた】っているようだった。",
+    "meaning": "That expression seemed to tell something."
+  },
+  {
+    "sentence": "彼の話は現実離れしている。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は現実離【げんじつばな】れしている。",
+    "meaning": "His story is divorced from reality."
+  },
+  {
+    "sentence": "二つの国の文化は大きく異なる。",
+    "sentence_furigana": "二【ふた】つの国【くに】の文化【ぶんか】は大大【おお】きく異【こと】なる。",
+    "meaning": "The cultures of the two countries are very different."
+  },
+  {
+    "sentence": "その事故は異常な状況下で発生した。",
+    "sentence_furigana": "その事故【じこ】は異常【いじょう】な状況下【じょうきょうか】で発生【はっせい】した。",
+    "meaning": "The accident occurred under abnormal circumstances."
+  },
+  {
+    "sentence": "彼の才能は皆が認めるところだ。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は皆【みな】が認【みと】めるところだ。",
+    "meaning": "His talent is acknowledged by everyone."
+  },
+  {
+    "sentence": "その出来事は異例の事態だった。",
+    "sentence_furigana": "その出来事【できごと】は異例【いれい】の事態【じたい】だった。",
+    "meaning": "That event was an exceptional situation."
+  },
+  {
+    "sentence": "彼の目は異様な光を宿していた。",
+    "sentence_furigana": "彼【かれ】の目【め】は異様【いよう】な光【ひかり】を宿【やど】していた。",
+    "meaning": "His eyes held a strange light."
+  },
+  {
+    "sentence": "この研究は従来の説とは異なる結論を出した。",
+    "sentence_furigana": "この研究【けんきゅう】は従来【じゅうらい】の説【せつ】とは異【こと】なる結論【けつろん】を出【だ】した。",
+    "meaning": "This research reached a conclusion different from conventional theories."
+  },
+  {
+    "sentence": "その風景はまるで別世界だった。",
+    "sentence_furigana": "その風景【ふうけい】はまるで別世界【べっせかい】だった。",
+    "meaning": "That landscape was like another world."
+  },
+  {
+    "sentence": "彼は普通とは違う人生を送っている。",
+    "sentence_furigana": "彼【かれ】は普通【ふつう】とは違【ちが】う人生【じんせい】を送【おく】っている。",
+    "meaning": "He is living a life different from ordinary."
+  },
+  {
+    "sentence": "その展示品は実にユニークだ。",
+    "sentence_furigana": "その展示品【てんじひん】は実【じつ】にユニークだ。",
+    "meaning": "That exhibit is truly unique."
+  },
+  {
+    "sentence": "彼の考え方は非常に独創的だ。",
+    "sentence_furigana": "彼【かれ】の考【かんが】え方【かた】は非常【ひじょう】に独創的【どくそうてき】だ。",
+    "meaning": "His way of thinking is very original."
+  },
+  {
+    "sentence": "その事件は不可解な点が多かった。",
+    "sentence_furigana": "その事件【じけん】は不可解【ふかかい】な点【てん】が多【おお】かった。",
+    "meaning": "There were many inexplicable points in that incident."
+  },
+  {
+    "sentence": "この味は経験したことのないものだった。",
+    "sentence_furigana": "この味【あじ】は経験【けいけん】したことのないものだった。",
+    "meaning": "This taste was something I had never experienced."
+  },
+  {
+    "sentence": "その男は異様なほど落ち着いていた。",
+    "sentence_furigana": "その男【おとこ】は異様【いよう】なほど落【お】ち着【つ】いていた。",
+    "meaning": "That man was abnormally calm."
+  },
+  {
+    "sentence": "彼の行動は一般の感覚とは異なる。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は一般的【いっぱんてき】な感覚【かんかく】とは異【こと】なる。",
+    "meaning": "His actions differ from general common sense."
+  },
+  {
+    "sentence": "その土地には不思議な伝説が残っている。",
+    "sentence_furigana": "その土地【とち】には不思議【ふしぎ】な伝説【でんせつ】が残【のこ】っている。",
+    "meaning": "Mysterious legends remain in that land."
+  },
+  {
+    "sentence": "彼の発言は多くの人を驚かせた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は多【おお】くの人【ひと】を驚【おどろ】かせた。",
+    "meaning": "His statement surprised many people."
+  },
+  {
+    "sentence": "その結果は我々の予想をはるかに超えていた。",
+    "sentence_furigana": "その結果【けっか】は我々【われわれ】の予想【よそう】をはるかに超【こ】えていた。",
+    "meaning": "The result far exceeded our expectations."
+  },
+  {
+    "sentence": "その建物のデザインは独特で目を引く。",
+    "sentence_furigana": "その建物【たてもの】のデザインは独特【どくとく】で目【め】を引【ひ】く。",
+    "meaning": "The building's design is unique and eye-catching."
+  },
+  {
+    "sentence": "彼の態度は常に一貫していた。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は常【つね】に一貫【いっかん】していた。",
+    "meaning": "His attitude was always consistent."
+  },
+  {
+    "sentence": "その出来事は非常に珍しい例だ。",
+    "sentence_furigana": "その出来事【できごと】は非常【ひじょう】に珍【めずら】しい例【れい】だ。",
+    "meaning": "That event is a very rare example."
+  },
+  {
+    "sentence": "彼の才能は並外れており、将来が期待される。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は並外【なみはず】れており、将来【しょうらい】が期待【きたい】される。",
+    "meaning": "His talent is extraordinary, and his future is anticipated."
+  },
+  {
+    "sentence": "その音楽は異国情緒を醸し出していた。",
+    "sentence_furigana": "その音楽【おんがく】は異国情緒【いこくじょうちょ】を醸【かも】し出【だ】していた。",
+    "meaning": "That music evoked a sense of exoticism."
+  },
+  {
+    "sentence": "彼は常に常識とは異なる行動をとる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に常識【じょうしき】とは異【こと】なる行動【こうどう】をとる。",
+    "meaning": "He always takes actions different from common sense."
+  },
+  {
+    "sentence": "この現象は非常に稀なケースだ。",
+    "sentence_furigana": "この現象【げんしょう】は非常【ひじょう】に稀【まれ】なケースだ。",
+    "meaning": "This phenomenon is a very rare case."
+  },
+  {
+    "sentence": "その絵の具の匂いは異様だった。",
+    "sentence_furigana": "その絵の具【えのぐ】の匂【にお】いは異様【いよう】だった。",
+    "meaning": "The smell of that paint was strange."
+  },
+  {
+    "sentence": "彼らの生活様式は我々とは大きく異なる。",
+    "sentence_furigana": "彼【かれ】ら人間【にんげん】の生活様式【せいかつようしき】は我々【われわれ】とは大【おお】きく異【こと】なる。",
+    "meaning": "Their lifestyle is very different from ours."
+  },
+  {
+    "sentence": "この状況は異常事態と認定された。",
+    "sentence_furigana": "この状況【じょうきょう】は異常事態【いじょうじたい】と認定【にんてい】された。",
+    "meaning": "This situation was recognized as an emergency."
+  },
+  {
+    "sentence": "その作家は異才を放っている。",
+    "sentence_furigana": "その作家【さっか】は異才【いさい】を放【はな】っている。",
+    "meaning": "That writer is exceptionally talented."
+  },
+  {
+    "sentence": "彼の発想は型にはまらない。",
+    "sentence_furigana": "彼【かれ】の発想【はっそう】は型【かた】にはまらない。",
+    "meaning": "His ideas are unconventional."
+  },
+  {
+    "sentence": "その場所には異様な雰囲気が漂っていた。",
+    "sentence_furigana": "その場所【ばしょ】には異様【いよう】な雰囲気【ふんいき】が漂【ただよ】っていた。",
+    "meaning": "A strange atmosphere lingered in that place."
+  },
+  {
+    "sentence": "彼の態度は一切変わらなかった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は一切【いっさい】変【か】わらなかった。",
+    "meaning": "His attitude did not change at all."
+  },
+  {
+    "sentence": "その知らせを聞いて驚いた。",
+    "sentence_furigana": "その知【し】らせを聞【き】いて驚【おどろ】いた。",
+    "meaning": "I was surprised to hear that news."
+  },
+  {
+    "sentence": "この植物は他のものと形が異なる。",
+    "sentence_furigana": "この植物【しょくぶつ】は他【ほか】のものと形【かたち】が異【こと】なる。",
+    "meaning": "This plant differs in shape from others."
+  },
+  {
+    "sentence": "彼の発言は常識的ではなかった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は常識的【じょうしきてき】ではなかった。",
+    "meaning": "His statement was not common-sensical."
+  },
+  {
+    "sentence": "その動物は非常に珍しい。",
+    "sentence_furigana": "その動物【どうぶつ】は非常【ひじょう】に珍【めずら】しい。",
+    "meaning": "That animal is very rare."
+  },
+  {
+    "sentence": "彼の歩き方は異常にゆっくりしていた。",
+    "sentence_furigana": "彼【かれ】の歩【ある】き方【かた】は異常【いじょう】にゆっくりしていた。",
+    "meaning": "His way of walking was unusually slow."
+  },
+  {
+    "sentence": "この規則は他のものと異なる。",
+    "sentence_furigana": "この規則【きそく】は他【ほか】のものと異【こと】なる。",
+    "meaning": "This rule differs from others."
+  },
+  {
+    "sentence": "その出来事は異例の事態を招いた。",
+    "sentence_furigana": "その出来事【できごと】は異例【いれい】の事態【じたい】を招【まね】いた。",
+    "meaning": "That event caused an exceptional situation."
+  },
+  {
+    "sentence": "彼は並外れた集中力を持っていた。",
+    "sentence_furigana": "彼【かれ】は並外【なみはず】れた集中力【しゅうちゅうりょく】を持【も】っていた。",
+    "meaning": "He had extraordinary concentration."
+  }
+]

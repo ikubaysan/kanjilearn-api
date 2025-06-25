@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "会議の開始時刻を伺いました。",
+    "sentence_furigana": "会議【かいぎ】の開始時刻【かいしじこく】を伺【うかが】いました。",
+    "meaning": "I inquired about the start time of the meeting."
+  },
+  {
+    "sentence": "先生に教えを伺う。",
+    "sentence_furigana": "先生【せんせい】に教【おし】えを伺【うかが】う。",
+    "meaning": "To ask for the teacher's guidance."
+  },
+  {
+    "sentence": "ご都合を伺ってもよろしいでしょうか。",
+    "sentence_furigana": "ご都合【つごう】を伺【うかが】ってもよろしいでしょうか。",
+    "meaning": "May I ask about your availability?"
+  },
+  {
+    "sentence": "ご意見を伺いたいのですが。",
+    "sentence_furigana": "ご意見【いけん】を伺【うかが】いたいのですが。",
+    "meaning": "I would like to ask for your opinion."
+  },
+  {
+    "sentence": "お客様の満足度を伺う。",
+    "sentence_furigana": "お客様【きゃくさま】の満足度【まんぞくど】を伺【うかが】う。",
+    "meaning": "To ask about customer satisfaction."
+  },
+  {
+    "sentence": "彼の実家を伺った。",
+    "sentence_furigana": "彼【かれ】の実家【じっか】を伺【うかが】った。",
+    "meaning": "I visited his parents' home."
+  },
+  {
+    "sentence": "友人の家を伺う予定です。",
+    "sentence_furigana": "友人【ゆうじん】の家【いえ】を伺【うかが】う予定【よてい】です。",
+    "meaning": "I plan to visit my friend's house."
+  },
+  {
+    "sentence": "上司の部屋を伺った。",
+    "sentence_furigana": "上司【じょうし】の部屋【へや】を伺【うかが】った。",
+    "meaning": "I visited the boss's room."
+  },
+  {
+    "sentence": "お邪魔にならないか伺う。",
+    "sentence_furigana": "お邪魔【じゃま】にならないか伺【うかが】う。",
+    "meaning": "To ask if I would be intruding."
+  },
+  {
+    "sentence": "支援を伺うため、募金活動を行った。",
+    "sentence_furigana": "支援【しえん】を伺【うかが】うため、募金活動【ぼきんかつどう】を行【おこな】った。",
+    "meaning": "We conducted a fundraising activity to seek support."
+  },
+  {
+    "sentence": "神仏に祈願を伺う。",
+    "sentence_furigana": "神仏【しんぶつ】に祈願【きがん】を伺【うかが】う。",
+    "meaning": "To pray to gods and Buddhas for wishes."
+  },
+  {
+    "sentence": "本日のご予定を伺ってもよろしいですか。",
+    "sentence_furigana": "本日【ほんじつ】のご予定【よてい】を伺【うかが】ってもよろしいですか。",
+    "meaning": "May I ask about your schedule for today?"
+  },
+  {
+    "sentence": "彼の決断を伺った。",
+    "sentence_furigana": "彼【かれ】の決断【けつだん】を伺【うかが】った。",
+    "meaning": "I inquired about his decision."
+  },
+  {
+    "sentence": "新しい店の開店日を伺う。",
+    "sentence_furigana": "新【あたら】しい店【みせ】の開店日【かいてんび】を伺【うかが】う。",
+    "meaning": "To ask about the opening date of the new store."
+  },
+  {
+    "sentence": "ご多忙の折、お時間を伺います。",
+    "sentence_furigana": "ご多忙【たぼう】の折【おり】、お時間【じかん】を伺【うかが】います。",
+    "meaning": "I will ask for your time during your busy schedule."
+  },
+  {
+    "sentence": "その件について、詳しいことを伺いたい。",
+    "sentence_furigana": "その件【けん】について、詳【くわ】しいことを伺【うかが】いたい。",
+    "meaning": "I want to ask for more details about that matter."
+  },
+  {
+    "sentence": "部下の意見を伺う。",
+    "sentence_furigana": "部下【ぶか】の意見【いけん】を伺【うかが】う。",
+    "meaning": "To ask for opinions from subordinates."
+  },
+  {
+    "sentence": "お師匠様の元を伺う。",
+    "sentence_furigana": "お師匠様【おししょうさま】の元【もと】を伺【うかが】う。",
+    "meaning": "To visit the master."
+  },
+  {
+    "sentence": "お世話になった方へ感謝を伺う。",
+    "sentence_furigana": "お世話【せわ】になった方【かた】へ感謝【かんしゃ】を伺【うかが】う。",
+    "meaning": "To express gratitude to those who helped me."
+  },
+  {
+    "sentence": "彼の健康状態を伺う。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】を伺【うかが】う。",
+    "meaning": "To inquire about his health condition."
+  },
+  {
+    "sentence": "ご希望を伺う。",
+    "sentence_furigana": "ご希望【きぼう】を伺【うかが】う。",
+    "meaning": "To ask for your wishes."
+  },
+  {
+    "sentence": "彼の現在の状況を伺う。",
+    "sentence_furigana": "彼【かれ】の現在【げんざい】の状況【じょうきょう】を伺【うかが】う。",
+    "meaning": "To ask about his current situation."
+  },
+  {
+    "sentence": "お寺を伺う。",
+    "sentence_furigana": "お寺【てら】を伺【うかが】う。",
+    "meaning": "To visit a temple."
+  },
+  {
+    "sentence": "ご両親に挨拶を伺う。",
+    "sentence_furigana": "ご両親【ごりょうしん】に挨拶【あいさつ】を伺【うかが】う。",
+    "meaning": "To pay respects to his parents."
+  },
+  {
+    "sentence": "裁判官に質問を伺う。",
+    "sentence_furigana": "裁判官【さいばんかん】に質問【しつもん】を伺【うかが】う。",
+    "meaning": "To ask questions to the judge."
+  },
+  {
+    "sentence": "ご意見を伺ってもよろしいでしょうか。",
+    "sentence_furigana": "ご意見【いけん】を伺【うかが】ってもよろしいでしょうか。",
+    "meaning": "May I ask for your opinion?"
+  },
+  {
+    "sentence": "ご機嫌を伺う。",
+    "sentence_furigana": "ご機嫌【きげん】を伺【うかが】う。",
+    "meaning": "To inquire about someone's mood."
+  },
+  {
+    "sentence": "先生に忠告を伺う。",
+    "sentence_furigana": "先生【せんせい】に忠告【ちゅうこく】を伺【うかが】う。",
+    "meaning": "To ask for advice from the teacher."
+  },
+  {
+    "sentence": "彼の考えを伺う。",
+    "sentence_furigana": "彼【かれ】の考【かんが】えを伺【うかが】う。",
+    "meaning": "To ask for his thoughts."
+  },
+  {
+    "sentence": "ご両親にお会いしに伺う。",
+    "sentence_furigana": "ご両親【ごりょうしん】にお会【あ】いしに伺【うかが】う。",
+    "meaning": "To visit to meet his parents."
+  },
+  {
+    "sentence": "先輩にアドバイスを伺った。",
+    "sentence_furigana": "先輩【せんぱい】にアドバイスを伺【うかが】った。",
+    "meaning": "I asked for advice from my senior."
+  },
+  {
+    "sentence": "その件について、あなたのご意見を伺いたい。",
+    "sentence_furigana": "その件【けん】について、あなたのご意見【いけん】を伺【うかが】いたい。",
+    "meaning": "I would like to ask for your opinion on that matter."
+  },
+  {
+    "sentence": "彼への弔問を伺った。",
+    "sentence_furigana": "彼【かれ】への弔問【ちょうもん】を伺【うかが】った。",
+    "meaning": "I paid condolences to him."
+  },
+  {
+    "sentence": "お祝いを伺う。",
+    "sentence_furigana": "お祝【いわ】いを伺【うかが】う。",
+    "meaning": "To offer congratulations."
+  },
+  {
+    "sentence": "その噂の真偽を伺う。",
+    "sentence_furigana": "その噂【うわさ】の真偽【しんぎ】を伺【うかが】う。",
+    "meaning": "To inquire about the truth of the rumor."
+  },
+  {
+    "sentence": "お父様にご挨拶を伺いました。",
+    "sentence_furigana": "お父様【おとうさま】にご挨拶【あいさつ】を伺【うかが】いました。",
+    "meaning": "I paid my respects to his father."
+  },
+  {
+    "sentence": "ご迷惑をお伺いしたい。",
+    "sentence_furigana": "ご迷惑【めいわく】をお伺【うかが】いしたい。",
+    "meaning": "I want to ask about the trouble caused."
+  },
+  {
+    "sentence": "ご報告を伺う。",
+    "sentence_furigana": "ご報告【ほうこく】を伺【うかが】う。",
+    "meaning": "To hear your report."
+  },
+  {
+    "sentence": "彼の状態を伺う。",
+    "sentence_furigana": "彼【かれ】の状態【じょうたい】を伺【うかが】う。",
+    "meaning": "To inquire about his condition."
+  },
+  {
+    "sentence": "ご要望を伺う。",
+    "sentence_furigana": "ご要望【ようぼう】を伺【うかが】う。",
+    "meaning": "To ask for your requests."
+  },
+  {
+    "sentence": "ご容態を伺う。",
+    "sentence_furigana": "ご容態【ようだい】を伺【うかが】う。",
+    "meaning": "To inquire about your condition."
+  },
+  {
+    "sentence": "お客様のご意見を伺いたい。",
+    "sentence_furigana": "お客様【きゃくさま】のご意見【いけん】を伺【うかが】いたい。",
+    "meaning": "I want to ask for the customer's opinion."
+  },
+  {
+    "sentence": "先生に教えを伺いました。",
+    "sentence_furigana": "先生【せんせい】に教【おし】えを伺【うかが】いました。",
+    "meaning": "I asked the teacher for guidance."
+  },
+  {
+    "sentence": "ご両親を訪問し、お話 を伺う。",
+    "sentence_furigana": "ご両親【ごりょうしん】を訪問【ほうもん】し、お話【はなし】を伺【うかが】う。",
+    "meaning": "To visit his parents and hear their stories."
+  },
+  {
+    "sentence": "彼の近況を伺いたい。",
+    "sentence_furigana": "彼【かれ】の近況【きんきょう】を伺【うかが】いたい。",
+    "meaning": "I want to ask about his recent situation."
+  },
+  {
+    "sentence": "お見舞いを伺う。",
+    "sentence_furigana": "お見舞【みま】いを伺【うかが】う。",
+    "meaning": "To visit someone who is sick."
+  },
+  {
+    "sentence": "その件について、詳細を伺ってもよろしいでしょうか。",
+    "sentence_furigana": "その件【けん】について、詳細【しょうさい】を伺【うかが】ってもよろしいでしょうか。",
+    "meaning": "May I ask for details about that matter?"
+  },
+  {
+    "sentence": "彼の状況を伺った。",
+    "sentence_furigana": "彼【かれ】の状況【じょうきょう】を伺【うかが】った。",
+    "meaning": "I inquired about his situation."
+  },
+  {
+    "sentence": "ご意見をお伺いしたいのですが。",
+    "sentence_furigana": "ご意見【いけん】をお伺【うかが】いしたいのですが。",
+    "meaning": "I would like to ask for your opinion."
+  },
+  {
+    "sentence": "上司の判断を伺う。",
+    "sentence_furigana": "上司【じょうし】の判断【はんだん】を伺【うかが】う。",
+    "meaning": "To ask for the boss's judgment."
+  },
+  {
+    "sentence": "ご挨拶を伺う。",
+    "sentence_furigana": "ご挨拶【あいさつ】を伺【うかが】う。",
+    "meaning": "To pay one's respects."
+  },
+  {
+    "sentence": "彼の進捗状況を伺う。",
+    "sentence_furigana": "彼【かれ】の進捗状況【しんちょくじょうきょう】を伺【うかが】う。",
+    "meaning": "To ask about his progress."
+  },
+  {
+    "sentence": "お宅を伺う。",
+    "sentence_furigana": "お宅【たく】を伺【うかが】う。",
+    "meaning": "To visit someone's home."
+  },
+  {
+    "sentence": "彼の意向を伺う。",
+    "sentence_furigana": "彼【かれ】の意向【いこう】を伺【うかが】う。",
+    "meaning": "To ask for his intentions."
+  },
+  {
+    "sentence": "ご意見を伺いたいと思います。",
+    "sentence_furigana": "ご意見【いけん】を伺【うかが】いたいと思【おも】います。",
+    "meaning": "I would like to ask for your opinion."
+  },
+  {
+    "sentence": "この件について、伺いたいことがあります。",
+    "sentence_furigana": "この件【けん】について、伺【うかが】いたいことがあります。",
+    "meaning": "There is something I would like to ask about this matter."
+  },
+  {
+    "sentence": "お宅に伺いたいのですが、いつがよろしいですか。",
+    "sentence_furigana": "お宅【たく】に伺【うかが】いたいのですが、いつがよろしいですか。",
+    "meaning": "I would like to visit your home, when would be a good time?"
+  },
+  {
+    "sentence": "先生の考えを伺う。",
+    "sentence_furigana": "先生【せんせい】の考【かんが】えを伺【うかが】う。",
+    "meaning": "To ask for the teacher's thoughts."
+  },
+  {
+    "sentence": "彼の状態について、お医者様に伺う。",
+    "sentence_furigana": "彼【かれ】の状態【じょうたい】について、お医者様【おいしゃさま】に伺【うかが】う。",
+    "meaning": "To ask the doctor about his condition."
+  },
+  {
+    "sentence": "ご両親の都合を伺う。",
+    "sentence_furigana": "ご両親【ごりょうしん】の都合【つごう】を伺【うかが】う。",
+    "meaning": "To inquire about his parents' availability."
+  },
+  {
+    "sentence": "ご提案を伺いたい。",
+    "sentence_furigana": "ご提案【ていあん】を伺【うかが】いたい。",
+    "meaning": "I want to ask for your proposal."
+  },
+  {
+    "sentence": "彼の意見を伺う。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を伺【うかが】う。",
+    "meaning": "To ask for his opinion."
+  },
+  {
+    "sentence": "お世話になった方に伺う。",
+    "sentence_furigana": "お世話【せわ】になった方【かた】に伺【うかが】う。",
+    "meaning": "To visit someone who helped me."
+  },
+  {
+    "sentence": "ご返事を伺う。",
+    "sentence_furigana": "ご返事【へんじ】を伺【うかが】う。",
+    "meaning": "To ask for your reply."
+  },
+  {
+    "sentence": "彼の状況を伺いたい。",
+    "sentence_furigana": "彼【かれ】の状況【じょうきょう】を伺【うかが】いたい。",
+    "meaning": "I want to ask about his situation."
+  },
+  {
+    "sentence": "その件について、関係者に伺う。",
+    "sentence_furigana": "その件【けん】について、関係者【かんけいしゃ】に伺【うかが】う。",
+    "meaning": "To ask the people involved about that matter."
+  },
+  {
+    "sentence": "ご両親の家を伺いました。",
+    "sentence_furigana": "ご両親【ごりょうしん】の家【いえ】を伺【うかが】いました。",
+    "meaning": "I visited his parents' home."
+  },
+  {
+    "sentence": "彼の状態について伺う。",
+    "sentence_furigana": "彼【かれ】の状態【じょうたい】について伺【うかが】う。",
+    "meaning": "To inquire about his condition."
+  },
+  {
+    "sentence": "ご教授を伺いたい。",
+    "sentence_furigana": "ご教授【きょうじゅ】を伺【うかが】いたい。",
+    "meaning": "I want to ask for your instruction."
+  },
+  {
+    "sentence": "彼の意向を確認するために伺う。",
+    "sentence_furigana": "彼【かれ】の意向【いこう】を確認【かくにん】するために伺【うかが】う。",
+    "meaning": "To ask to confirm his intentions."
+  },
+  {
+    "sentence": "ご意見を伺いに参りました。",
+    "sentence_furigana": "ご意見【いけん】を伺【うかが】いに参【まい】りました。",
+    "meaning": "I have come to ask for your opinion."
+  },
+  {
+    "sentence": "お父様の健康を伺う。",
+    "sentence_furigana": "お父様【おとうさま】の健康【けんこう】を伺【うかが】う。",
+    "meaning": "To inquire about his father's health."
+  },
+  {
+    "sentence": "ご両親に挨拶を伺った。",
+    "sentence_furigana": "ご両親【ごりょうしん】に挨拶【あいさつ】を伺【うかが】った。",
+    "meaning": "I paid respects to his parents."
+  },
+  {
+    "sentence": "彼への見舞いを伺う。",
+    "sentence_furigana": "彼【かれ】への見舞【みま】いを伺【うかが】う。",
+    "meaning": "To visit him."
+  },
+  {
+    "sentence": "その件について、担当者に伺う。",
+    "sentence_furigana": "その件【けん】について、担当者【たんとうしゃ】に伺【うかが】う。",
+    "meaning": "To ask the person in charge about that matter."
+  },
+  {
+    "sentence": "ご両親をお尋ねする。",
+    "sentence_furigana": "ご両親【ごりょうしん】をお尋【たず】ねする。",
+    "meaning": "To visit his parents."
+  },
+  {
+    "sentence": "彼の意見を聞く。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を聞【き】く。",
+    "meaning": "To ask for his opinion."
+  },
+  {
+    "sentence": "ご両親に尋ねる。",
+    "sentence_furigana": "ご両親【ごりょうしん】に尋【たず】ねる。",
+    "meaning": "To ask his parents."
+  },
+  {
+    "sentence": "先生の意見を伺う。",
+    "sentence_furigana": "先生【せんせい】の意見【いけん】を伺【うかが】う。",
+    "meaning": "To ask for the teacher's opinion."
+  },
+  {
+    "sentence": "彼の状況を尋ねる。",
+    "sentence_furigana": "彼【かれ】の状況【じょうきょう】を尋【たず】ねる。",
+    "meaning": "To ask about his situation."
+  },
+  {
+    "sentence": "ご両親に伺った。",
+    "sentence_furigana": "ご両親【ごりょうしん】に伺【うかが】った。",
+    "meaning": "I visited his parents."
+  },
+  {
+    "sentence": "先生に質問を伺った。",
+    "sentence_furigana": "先生【せんせい】に質問【しつもん】を伺【うかが】った。",
+    "meaning": "I asked the teacher questions."
+  },
+  {
+    "sentence": "彼の意向を確認する。",
+    "sentence_furigana": "彼【かれ】の意向【いこう】を確認【かくにん】する。",
+    "meaning": "To confirm his intentions."
+  },
+  {
+    "sentence": "ご両親にご挨拶申し上げます。",
+    "sentence_furigana": "ご両親【ごりょうしん】にご挨拶【あいさつ】申【もう】し上【あ】げます。",
+    "meaning": "I will pay my respects to his parents."
+  },
+  {
+    "sentence": "先生に助言を求める。",
+    "sentence_furigana": "先生【せんせい】に助言【じょげん】を求【もと】める。",
+    "meaning": "To ask for advice from the teacher."
+  },
+  {
+    "sentence": "彼の近況について尋ねる。",
+    "sentence_furigana": "彼【かれ】の近況【きんきょう】について尋【たず】ねる。",
+    "meaning": "To ask about his recent situation."
+  },
+  {
+    "sentence": "ご両親のお話を聞く。",
+    "sentence_furigana": "ご両親【ごりょうしん】のお話【はなし】を聞【き】く。",
+    "meaning": "To hear from his parents."
+  },
+  {
+    "sentence": "先生の教えを乞う。",
+    "sentence_furigana": "先生【せんせい】の教【おし】えを乞【こ】う。",
+    "meaning": "To ask for the teacher's teachings."
+  },
+  {
+    "sentence": "彼の意向を尋ねる。",
+    "sentence_furigana": "彼【かれ】の意向【いこう】を尋【たず】ねる。",
+    "meaning": "To ask for his intentions."
+  },
+  {
+    "sentence": "ご両親をお訪ねしました。",
+    "sentence_furigana": "ご両親【ごりょうしん】をお訪【たず】ねしました。",
+    "meaning": "I visited his parents."
+  },
+  {
+    "sentence": "先生に伺う。",
+    "sentence_furigana": "先生【せんせい】に伺【うかが】う。",
+    "meaning": "To ask the teacher."
+  },
+  {
+    "sentence": "彼の進捗を尋ねる。",
+    "sentence_furigana": "彼【かれ】の進捗【しんちょく】を尋【たず】ねる。",
+    "meaning": "To ask about his progress."
+  },
+  {
+    "sentence": "ご両親の家を訪ねる。",
+    "sentence_furigana": "ご両親【ごりょうしん】の家【いえ】を訪【たず】ねる。",
+    "meaning": "To visit his parents' home."
+  }
+]

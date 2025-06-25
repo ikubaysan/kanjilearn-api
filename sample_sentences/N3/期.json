@@ -1,0 +1,562 @@
+[
+  {
+    "sentence": "この期間は非常に忙しいです。",
+    "sentence_furigana": "この期間【きかん】は非常【ひじょう】に忙【いそが】しいです。",
+    "meaning": "This period is very busy."
+  },
+  {
+    "sentence": "次回の会議は来週の月曜日です。",
+    "sentence_furigana": "次回【じかい】の会議【かいぎ】は来週【らいしゅう】の月曜日【げつようび】です。",
+    "meaning": "The next meeting is next Monday."
+  },
+  {
+    "sentence": "卒業の時期が近づいています。",
+    "sentence_furigana": "卒業【そつぎょう】の時期【じき】が近【ちか】づいています。",
+    "meaning": "The time of graduation is approaching."
+  },
+  {
+    "sentence": "その期間、彼は海外に滞在しました。",
+    "sentence_furigana": "その期間【きかん】、彼【かれ】は海外【かいがい】に滞在【たいざい】しました。",
+    "meaning": "During that period, he stayed abroad."
+  },
+  {
+    "sentence": "期末試験の準備を始めなければなりません。",
+    "sentence_furigana": "期末試験【きまつしけん】の準備【じゅんび】を始【はじ】めなければなりません。",
+    "meaning": "I must begin preparing for the final exam."
+  },
+  {
+    "sentence": "このプロジェクトは来年まで続きます。",
+    "sentence_furigana": "このプロジェクトは来年【らいねん】まで続【つづ】きます。",
+    "meaning": "This project will continue until next year."
+  },
+  {
+    "sentence": "来期から新しい方針が導入されます。",
+    "sentence_furigana": "来期【らいき】から新【あら】たな方針【ほうしん】が導入【どうにゅう】されます。",
+    "meaning": "A new policy will be introduced from the next term."
+  },
+  {
+    "sentence": "彼は期日までに報告書を提出した。",
+    "sentence_furigana": "彼【かれ】は期日【きじつ】までに報告書【ほうこくしょ】を提出【ていしゅつ】した。",
+    "meaning": "He submitted the report by the deadline."
+  },
+  {
+    "sentence": "この期間は特に注意が必要です。",
+    "sentence_furigana": "この期間【きかん】は特【とく】に注意【ちゅうい】が必要です【ひつよう】。",
+    "meaning": "Special attention is required during this period."
+  },
+  {
+    "sentence": "長期休暇を取得しました。",
+    "sentence_furigana": "長期休暇【ちょうききゅうか】を取得【しゅとく】しました。",
+    "meaning": "I took a long-term leave."
+  },
+  {
+    "sentence": "その件について、次の期日まで回答をお願いします。",
+    "sentence_furigana": "その件【けん】について、次【つぎ】の期日【きじつ】まで回答【かいとう】をお願【ねが】いします。",
+    "meaning": "Regarding that matter, please reply by the next deadline."
+  },
+  {
+    "sentence": "短期のアルバイトを探しています。",
+    "sentence_furigana": "短期【たんき】のアルバイトを探【さが】しています。",
+    "meaning": "I am looking for short-term part-time work."
+  },
+  {
+    "sentence": "学期末の成績が発表されました。",
+    "sentence_furigana": "学期末【がっきまつ】の成績【せいせき】が発表【はっぴょう】されました。",
+    "meaning": "The semester-end grades have been announced."
+  },
+  {
+    "sentence": "来期の予算編成が始まります。",
+    "sentence_furigana": "来期【らいき】の予算編成【よさんへんせい】が始【はじ】まります。",
+    "meaning": "The budget compilation for the next term will begin."
+  },
+  {
+    "sentence": "その時期に旅行するのは最適です。",
+    "sentence_furigana": "その時期【じき】に旅行【りょこう】するのは最適【さいてき】です。",
+    "meaning": "It is optimal to travel at that time."
+  },
+  {
+    "sentence": "彼は定期的に運動をしています。",
+    "sentence_furigana": "彼【かれ】は定期的【ていきてき】に運動【うんどう】をしています。",
+    "meaning": "He exercises regularly."
+  },
+  {
+    "sentence": "この条件を満たす期間は限られています。",
+    "sentence_furigana": "この条件【じょうけん】を満【み】たす期間【きかん】は限【かぎ】られています。",
+    "meaning": "The period that satisfies this condition is limited."
+  },
+  {
+    "sentence": "期日が迫っているので、急いでください。",
+    "sentence_furigana": "期日【きじつ】が迫【せま】っているので、急【いそ】いでください。",
+    "meaning": "Since the deadline is approaching, please hurry."
+  },
+  {
+    "sentence": "来期も引き続きご支援をお願いいたします。",
+    "sentence_furigana": "来期【らいき】も引続【ひきつづ】きご支援【しえん】をお願【ねが】いいたします。",
+    "meaning": "We ask for your continued support in the next term as well."
+  },
+  {
+    "sentence": "そのニュースを聞いたのは不適切な時期でした。",
+    "sentence_furigana": "そのニュースを聞【き】いたのは不適切【ふてきせつ】な時期【じき】でした。",
+    "meaning": "It was an inappropriate time to hear that news."
+  },
+  {
+    "sentence": "この学期はあと一ヶ月で終わります。",
+    "sentence_furigana": "この学期【がっき】はあと一ヶ月【いっかげつ】で終【お】わります。",
+    "meaning": "This semester ends in one month."
+  },
+  {
+    "sentence": "任期中に多くの成果を上げました。",
+    "sentence_furigana": "任期【にんき】中【ちゅう】に多【おお】くの成果【せいか】を上【あ】げました。",
+    "meaning": "He achieved many results during his term."
+  },
+  {
+    "sentence": "時期尚早だと判断しました。",
+    "sentence_furigana": "時期尚早【じきしょうそう】だと判断【はんだん】しました。",
+    "meaning": "It was judged to be premature."
+  },
+  {
+    "sentence": "その会社の創立期は困難でした。",
+    "sentence_furigana": "その会社【かいしゃ】の創立期【そうりつき】は困難【こんなん】でした。",
+    "meaning": "The founding period of that company was difficult."
+  },
+  {
+    "sentence": "来期に向けた計画を立てています。",
+    "sentence_furigana": "来期【らいき】に向【む】けた計画【けいかく】を立【た】てています。",
+    "meaning": "We are making plans for the next term."
+  },
+  {
+    "sentence": "この時期は花粉症がひどくなります。",
+    "sentence_furigana": "この時期【じき】は花粉症【かふんしょう】がひどくなります。",
+    "meaning": "Hay fever gets worse during this season."
+  },
+  {
+    "sentence": "期日厳守でお願いします。",
+    "sentence_furigana": "期日厳守【きじつげんしゅ】で願【ねが】います。",
+    "meaning": "Please adhere strictly to the deadline."
+  },
+  {
+    "sentence": "長期間にわたる交渉が実を結びました。",
+    "sentence_furigana": "長期間【ちょうきかん】にわたる交渉【こうしょう】が実を結【み】びました。",
+    "meaning": "The negotiations over a long period bore fruit."
+  },
+  {
+    "sentence": "次の期日は来月15日です。",
+    "sentence_furigana": "次【つぎ】の期日【きじつ】は来月【らいげつ】15日【じゅうごにち】です。",
+    "meaning": "The next deadline is the 15th of next month."
+  },
+  {
+    "sentence": "この期間の成果をまとめました。",
+    "sentence_furigana": "この期間【きかん】の成果【せいか】をまとめました。",
+    "meaning": "I compiled the results for this period."
+  },
+  {
+    "sentence": "その予約期間は来月末までです。",
+    "sentence_furigana": "その予約期間【よやくきかん】は来月末【らいげつまつ】までです。",
+    "meaning": "That reservation period is until the end of next month."
+  },
+  {
+    "sentence": "学期末のレポート提出が迫っています。",
+    "sentence_furigana": "学期末【がっきまつ】のレポート提出【ていしゅつ】が迫【せま】っています。",
+    "meaning": "The submission of the semester-end report is approaching."
+  },
+  {
+    "sentence": "この時期の天候は変わりやすいです。",
+    "sentence_furigana": "この時期【じき】の天候【てんこう】は変【か】わりやすいです。",
+    "meaning": "The weather is changeable during this period."
+  },
+  {
+    "sentence": "彼は任期を終えて退任しました。",
+    "sentence_furigana": "彼【かれ】は任期【にんき】を終【お】えて退任【たいにん】しました。",
+    "meaning": "He retired after completing his term."
+  },
+  {
+    "sentence": "この期間、特別なキャンペーンを実施します。",
+    "sentence_furigana": "この期間【きかん】、特別【とくべつ】なキャンペーンを実施【じっし】します。",
+    "meaning": "We will implement a special campaign during this period."
+  },
+  {
+    "sentence": "期日が過ぎてしまいましたが、まだ間に合いますか？",
+    "sentence_furigana": "期日【きじつ】が過【す】ぎてしまいましたが、まだ間【ま】に合【あ】いますか？",
+    "meaning": "The deadline has passed, but is it still possible to make it?"
+  },
+  {
+    "sentence": "来期から新しい部署が設置されます。",
+    "sentence_furigana": "来期【らいき】から新【あら】たな部署【ぶしょ】が設置【せっち】されます。",
+    "meaning": "A new department will be established from the next term."
+  },
+  {
+    "sentence": "その期間に多くのイベントが開催されました。",
+    "sentence_furigana": "その期間【きかん】に多【おお】くのイベントが開催【かいさい】されました。",
+    "meaning": "Many events were held during that period."
+  },
+  {
+    "sentence": "期末の挨拶を述べさせていただきます。",
+    "sentence_furigana": "期末【きまつ】の挨拶【あいさつ】を述【の】べさせていただきす。",
+    "meaning": "I will give my year-end greetings."
+  },
+  {
+    "sentence": "この時期は紅葉が美しいです。",
+    "sentence_furigana": "この時期【じき】は紅葉【こうよう】が美【うつく】しいです。",
+    "meaning": "The autumn leaves are beautiful at this time of year."
+  },
+  {
+    "sentence": "彼は定期的に健康診断を受けている。",
+    "sentence_furigana": "彼【かれ】は定期的【ていきてき】に健康診断【けんこうしんだん】を受【う】けている。",
+    "meaning": "He undergoes regular health check-ups."
+  },
+  {
+    "sentence": "期日までに提出できない場合は、事前に連絡してください。",
+    "sentence_furigana": "期日【きじつ】までに提出【ていしゅつ】できない場合【ばあい】は、事前【じぜん】に連絡【れんらく】してください。",
+    "meaning": "If you cannot submit by the deadline, please contact us in advance."
+  },
+  {
+    "sentence": "この期間は割引セールを行っています。",
+    "sentence_furigana": "この期間【きかん】は割引セールを行【おこな】っています。",
+    "meaning": "We are having a discount sale during this period."
+  },
+  {
+    "sentence": "来期はさらなる発展を目指します。",
+    "sentence_furigana": "来期【らいき】はさらなる発展【はってん】を目指【めざ】します。",
+    "meaning": "We aim for further development in the next term."
+  },
+  {
+    "sentence": "その時期に海外旅行をするのは危険です。",
+    "sentence_furigana": "その時期【じき】に海外旅行【かいがいりょこう】をするのは危険【きけん】です。",
+    "meaning": "It is dangerous to travel abroad at that time."
+  },
+  {
+    "sentence": "期末の報告書作成に追われています。",
+    "sentence_furigana": "期末【きまつ】の報告書作成【ほうこくしょさくせい】に追【お】われています。",
+    "meaning": "I am busy with the preparation of the final report."
+  },
+  {
+    "sentence": "この期間は非常に寒いです。",
+    "sentence_furigana": "この期間【きかん】は非常【ひじょう】に寒【さむ】いです。",
+    "meaning": "It is very cold during this period."
+  },
+  {
+    "sentence": "来期も変わらぬご愛顧を賜りますようお願い申し上げます。",
+    "sentence_furigana": "来期【らいき】も変【か】わらぬご愛顧【あいこ】を賜【たま】りますよう願【ねが】い申【もう】し上げます。",
+    "meaning": "We ask for your continued patronage in the next term."
+  },
+  {
+    "sentence": "その時期は多くの観光客が訪れます。",
+    "sentence_furigana": "その時期【じき】は多【おお】くの観光客【かんこうきゃく】が訪【おとず】れます。",
+    "meaning": "Many tourists visit during that period."
+  },
+  {
+    "sentence": "期日前に全てのタスクを完了しました。",
+    "sentence_furigana": "期日【きじつ】前【まえ】に全【すべ】てのタスクを完了【かんりょう】しました。",
+    "meaning": "All tasks were completed before the deadline."
+  },
+  {
+    "sentence": "短期集中で学習を進める必要があります。",
+    "sentence_furigana": "短期集中【たんきしゅうちゅう】で学習【がくしゅう】を進【すす】める必要【ひつよう】があります。",
+    "meaning": "It is necessary to proceed with learning in a short, intensive period."
+  },
+  {
+    "sentence": "この期間、新しい知識を習得しました。",
+    "sentence_furigana": "この期間【きかん】、新【あら】たな知識【ちしき】を習得【しゅうとく】しました。",
+    "meaning": "I acquired new knowledge during this period."
+  },
+  {
+    "sentence": "期末試験は来週から始まります。",
+    "sentence_furigana": "期末試験【きまつしけん】は来週【らいしゅう】から始まります。",
+    "meaning": "The final exams start next week."
+  },
+  {
+    "sentence": "来期に向けて、戦略を練り直す必要がある。",
+    "sentence_furigana": "来期【らいき】に向【む】け、戦略【せんりゃく】を練【ね】り直【なお】す必要【ひつよう】がある。",
+    "meaning": "It is necessary to rethink the strategy for the next term."
+  },
+  {
+    "sentence": "その時期に開催されるお祭りは有名です。",
+    "sentence_furigana": "その時期【じき】に開催【かいさい】されるお祭【まつ】りは有名【ゆうめい】です。",
+    "meaning": "The festival held at that time is famous."
+  },
+  {
+    "sentence": "期日までに支払いを済ませてください。",
+    "sentence_furigana": "期日【きじつ】までに支払【しはら】いを済【す】ませてください。",
+    "meaning": "Please complete the payment by the deadline."
+  },
+  {
+    "sentence": "この期間は多くの人が旅行に出かけます。",
+    "sentence_furigana": "この期間【きかん】は多【おお】くの人【ひと】が旅行【りょこう】に出【で】かけます。",
+    "meaning": "Many people go on trips during this period."
+  },
+  {
+    "sentence": "彼は定期的な会議に参加しています。",
+    "sentence_furigana": "彼【かれ】は定期的【ていきてき】な会議【かいぎ】に参加【さんか】しています。",
+    "meaning": "He participates in regular meetings."
+  },
+  {
+    "sentence": "来期は更なる飛躍を目指します。",
+    "sentence_furigana": "来期【らいき】は更【さら】なる飛躍【ひやく】を目指【めざ】します。",
+    "meaning": "We aim for further leaps in the next term."
+  },
+  {
+    "sentence": "その時期は平均気温が上昇します。",
+    "sentence_furigana": "その時期【じき】は平均気温【へいきんきおん】が上昇【じょうしょう】します。",
+    "meaning": "The average temperature rises during that period."
+  },
+  {
+    "sentence": "期末試験の結果が気になります。",
+    "sentence_furigana": "期末試験【きまつしけん】の結果【けっか】が気になります。",
+    "meaning": "I am worried about the results of the final exams."
+  },
+  {
+    "sentence": "この期間の売上目標を達成しました。",
+    "sentence_furigana": "この期間【きかん】の売上目標【うりあげもくひょう】を達成【たいせい】しました。",
+    "meaning": "We achieved the sales target for this period."
+  },
+  {
+    "sentence": "来期も引き続き、よろしくお願いいたします。",
+    "sentence_furigana": "来期【らいき】も引続【ひきつづ】き、よろしくお願【ねが】いいたします。",
+    "meaning": "We look forward to your continued cooperation next term."
+  },
+  {
+    "sentence": "その時期は多くの農作物が収穫されます。",
+    "sentence_furigana": "その時期【じき】は多【おお】くの農作物【のうさくぶつ】が収穫【しゅうかく】されます。",
+    "meaning": "Many crops are harvested during that period."
+  },
+  {
+    "sentence": "期日までに請求書の支払いをお願いします。",
+    "sentence_furigana": "期日【きじつ】までに請求書【せいきゅうしょ】の支払【しはら】いをお願【ねが】いします。",
+    "meaning": "Please pay the invoice by the deadline."
+  },
+  {
+    "sentence": "短期留学を計画しています。",
+    "sentence_furigana": "短期留学【たんきりゅうがく】を計画【けいかく】しています。",
+    "meaning": "I am planning a short-term study abroad."
+  },
+  {
+    "sentence": "この期間は集中して作業を進めます。",
+    "sentence_furigana": "この期間【きかん】は集中【しゅうちゅう】して作業【さぎょう】を進【すす】めます。",
+    "meaning": "I will work with concentration during this period."
+  },
+  {
+    "sentence": "来期は業績が向上すると期待しています。",
+    "sentence_furigana": "来期【らいき】は業績【ぎょうせき】が向上【こうじょう】すると期待【きたい】しています。",
+    "meaning": "We expect business performance to improve next term."
+  },
+  {
+    "sentence": "その時期に開催されるスポーツイベントは注目を集めています。",
+    "sentence_furigana": "その時期【じき】に開催【かいさい】されるスポーツイベントは注目【ちゅうもく】を集【あつ】めています。",
+    "meaning": "The sports events held at that time are attracting attention."
+  },
+  {
+    "sentence": "期日を過ぎても受け付けますか？",
+    "sentence_furigana": "期日【きじつ】を過【す】ぎても受【う】け付けますか？",
+    "meaning": "Will you accept it even after the deadline?"
+  },
+  {
+    "sentence": "この期間の出来事を記録しておきます。",
+    "sentence_furigana": "この期間【きかん】の出来事【できごと】を記録【きろく】しておきます。",
+    "meaning": "I will record the events of this period."
+  },
+  {
+    "sentence": "来期も変わらずご支援ください。",
+    "sentence_furigana": "来期【らいき】も変【か】わらずご支援【しえん】ください。",
+    "meaning": "Please continue to support us next term."
+  },
+  {
+    "sentence": "その時期は一年で最も寒い時期です。",
+    "sentence_furigana": "その時期【じき】は一年【いちねん】で最も【もっとも】寒【さむ】い時期【じき】です。",
+    "meaning": "That period is the coldest time of the year."
+  },
+  {
+    "sentence": "期日前に提出することが重要です。",
+    "sentence_furigana": "期日【きじつ】前【まえ】に提出【ていしゅつ】することが重要【じゅうよう】です。",
+    "meaning": "It is important to submit before the deadline."
+  },
+  {
+    "sentence": "この期間は多くの人がバカンスを楽しみます。",
+    "sentence_furigana": "この期間【きかん】は多【おお】くの人【ひと】がバカンスを楽【たの】しみます。",
+    "meaning": "Many people enjoy their vacations during this period."
+  },
+  {
+    "sentence": "来期はより一層の努力をいたします。",
+    "sentence_furigana": "来期【らいき】はより一層【いっそう】の努力【どりょく】をいたしす。",
+    "meaning": "We will make even greater efforts next term."
+  },
+  {
+    "sentence": "その時期に咲く花は特に美しいです。",
+    "sentence_furigana": "その時期【じき】に咲【さ】く花【はな】は特【とく】に美【うつく】しいです。",
+    "meaning": "The flowers that bloom at that time are particularly beautiful."
+  },
+  {
+    "sentence": "期日を確認し、忘れずに提出してください。",
+    "sentence_furigana": "期日【きじつ】を確認【かくにん】し、忘【わす】れずに提出【ていしゅつ】してください。",
+    "meaning": "Please check the deadline and submit it without fail."
+  },
+  {
+    "sentence": "この期間の業績は目標を上回りました。",
+    "sentence_furigana": "この期間【きかん】の業績【ぎょうせき】は目標【もくひょう】を上回【うわまわ】りました。",
+    "meaning": "The performance during this period exceeded the target."
+  },
+  {
+    "sentence": "来期も皆様のご期待に沿えるよう努めてまいります。",
+    "sentence_furigana": "来期【らいき】も皆様【みなさま】のご期待【きたい】に沿【そ】えるよう努【つと】めてまいりす。",
+    "meaning": "We will strive to meet everyone's expectations next term as well."
+  },
+  {
+    "sentence": "その時期は祝日が多いため、カレンダーを確認してください。",
+    "sentence_furigana": "その時期【じき】は祝日【しゅくじつ】が多【おお】いため、カレンダーを確認【かくにん】してください。",
+    "meaning": "There are many holidays during that period, so please check the calendar."
+  },
+  {
+    "sentence": "期日を厳守してスケジュールを進めてください。",
+    "sentence_furigana": "期日【きじつ】を厳守【げんしゅ】してスケジュールを進【すす】めてください。",
+    "meaning": "Please proceed with the schedule while strictly observing the deadline."
+  },
+  {
+    "sentence": "この期間は多くの企業が新卒を採用します。",
+    "sentence_furigana": "この期間【きかん】は多【おお】くの企業【きぎょう】が新卒【しんそつ】を採用【さいよう】します。",
+    "meaning": "Many companies hire new graduates during this period."
+  },
+  {
+    "sentence": "来期は新しい企画をいくつか提案します。",
+    "sentence_furigana": "来期【らいき】は新【あら】たな企画【きかく】をいくつか提案【ていあん】します。",
+    "meaning": "We will propose several new projects next term."
+  },
+  {
+    "sentence": "その時期は台風が頻繁に発生します。",
+    "sentence_furigana": "その時期【じき】は台風【たいふう】が頻繁【ひんぱん】に発生【はっせい】します。",
+    "meaning": "Typhoons frequently occur during that period."
+  },
+  {
+    "sentence": "期日までの締め切りは厳格です。",
+    "sentence_furigana": "期日【きじつ】までの締切【しめき】りは厳格【げんかく】です。",
+    "meaning": "The deadline is strict."
+  },
+  {
+    "sentence": "この期間の経験は貴重な財産となりました。",
+    "sentence_furigana": "この期間【きかん】の経験【けいけん】は貴重【きちょう】な財産【ざいさん】となりまいた。",
+    "meaning": "The experience during this period became a valuable asset."
+  },
+  {
+    "sentence": "来期も皆様にご満足いただけるよう努力いたします。",
+    "sentence_furigana": "来期【らいき】も皆様【みなさま】にご満足【まんぞく】いただけるよう努力【どりょく】いたしす。",
+    "meaning": "We will strive to satisfy everyone next term as well."
+  },
+  {
+    "sentence": "その時期は海岸が賑わいます。",
+    "sentence_furigana": "その時期【じき】は海岸【かいがん】が賑【にぎ】わいます。",
+    "meaning": "The coast is lively during that period."
+  },
+  {
+    "sentence": "期日厳守にご協力いただき、ありがとうございます。",
+    "sentence_furigana": "期日厳守【きじつげんしゅ】にご協力【きょうりょく】いただき、ありがとうございます。",
+    "meaning": "Thank you for your cooperation in adhering to the deadline."
+  },
+  {
+    "sentence": "この期間のデータ分析は完了しました。",
+    "sentence_furigana": "この期間【きかん】のデータ分析【ぶんせき】は完了【かんりょう】しました。",
+    "meaning": "The data analysis for this period has been completed."
+  },
+  {
+    "sentence": "来期はさらなるサービスの向上を目指します。",
+    "sentence_furigana": "来期【らいき】はさらなるサービス向上【こうじょう】を目指【めざ】します。",
+    "meaning": "We aim for further service improvement next term."
+  },
+  {
+    "sentence": "その時期にしか見られない景色があります。",
+    "sentence_furigana": "その時期【じき】にしか見【み】られない景色【けしき】があります。",
+    "meaning": "There are sights that can only be seen at that time."
+  },
+  {
+    "sentence": "期末の集計作業は非常に時間がかかります。",
+    "sentence_furigana": "期末【きまつ】の集計作業【しゅうけいさぎょう】は非常【ひじょう】に時間【じかん】がかかります。",
+    "meaning": "The year-end tallying work takes a lot of time."
+  },
+  {
+    "sentence": "この期間、多くの人が新しい趣味を見つけます。",
+    "sentence_furigana": "この期間【きかん】、多【おお】くの人【ひと】が新【あら】たな趣味【しゅみ】を見【み】つけます。",
+    "meaning": "Many people find new hobbies during this period."
+  },
+  {
+    "sentence": "来期も引き続き、皆様のご支援をお願い申し上げます。",
+    "sentence_furigana": "来期【らいき】も引続【ひきつづ】き、皆様【みなさま】のご支援【しえん】をお願【ねが】い申【もう】し上げます。",
+    "meaning": "We sincerely ask for your continued support next term."
+  },
+  {
+    "sentence": "その時期は一年で最も日が長くなります。",
+    "sentence_furigana": "その時期【じき】は一年【いちねん】で最も【もっとも】日【ひ】が長【なが】くなります。",
+    "meaning": "The days become longest during that period of the year."
+  },
+  {
+    "sentence": "期日までに準備を完了させる必要がある。",
+    "sentence_furigana": "期日【きじつ】までに準備【じゅんび】を完了【かんりょう】させる必要【ひつよう】がある。",
+    "meaning": "It is necessary to complete the preparations by the deadline."
+  },
+  {
+    "sentence": "この期間の学習成果を評価します。",
+    "sentence_furigana": "この期間【きかん】の学習成果【がくしゅうせいか】を評価【ひょうか】します。",
+    "meaning": "We will evaluate the learning outcomes of this period."
+  },
+  {
+    "sentence": "来期は新しい技術を導入する予定です。",
+    "sentence_furigana": "来期【らいき】は新【あら】たな技術【ぎじゅつ】を導入【どうにゅう】する予定【よてい】です。",
+    "meaning": "We plan to introduce new technology next term."
+  },
+  {
+    "sentence": "その時期は多くの植物が開花します。",
+    "sentence_furigana": "その時期【じき】は多【おお】くの植物【しょくぶつ】が開花【かいか】します。",
+    "meaning": "Many plants bloom during that period."
+  },
+  {
+    "sentence": "期末試験の準備は順調に進んでいますか？",
+    "sentence_furigana": "期末試験【きまつしけん】の準備【じゅんび】は順調【じゅんちょう】に進【すす】んでいますか？",
+    "meaning": "Are the preparations for the final exams progressing smoothly?"
+  },
+  {
+    "sentence": "この期間の活動報告を提出します。",
+    "sentence_furigana": "この期間【きかん】の活動報告【かつどうほうこく】を提出【ていしゅつ】します。",
+    "meaning": "I will submit the activity report for this period."
+  },
+  {
+    "sentence": "来期も引き続き、ご愛顧のほどよろしくお願いいたします。",
+    "sentence_furigana": "来期【らいき】も引続【ひきつづ】き、ご愛顧【あいこ】のほどよろしくお願【ねが】いいたします。",
+    "meaning": "We kindly ask for your continued patronage next term."
+  },
+  {
+    "sentence": "その時期は空気が乾燥しがちです。",
+    "sentence_furigana": "その時期【じき】は空気【くうき】が乾燥【かんそう】しがちです。",
+    "meaning": "The air tends to be dry during that period."
+  },
+  {
+    "sentence": "期日までに全ての必要書類を提出してください。",
+    "sentence_furigana": "期日【きじつ】までに全【すべ】ての必要書類【ひつようしょるい】を提出【ていしゅつ】してください。",
+    "meaning": "Please submit all necessary documents by the deadline."
+  },
+  {
+    "sentence": "この期間の成果を分析し、次期に活かします。",
+    "sentence_furigana": "この期間【きかん】の成果【せいか】を分析【ぶんせき】し、次期【じき】に活【い】かします。",
+    "meaning": "We will analyze the results of this period and utilize them in the next term."
+  },
+  {
+    "sentence": "来期も新しい挑戦を続けていきます。",
+    "sentence_furigana": "来期【らいき】も新【あら】たな挑戦【ちょうせん】を続【つづ】けていきます。",
+    "meaning": "We will continue to take on new challenges next term."
+  },
+  {
+    "sentence": "その時期は多くの人々が感謝祭を祝います。",
+    "sentence_furigana": "その時期【じき】は多【おお】くの人々【ひとびと】が感謝祭【かんしゃさい】を祝【いわ】います。",
+    "meaning": "Many people celebrate Thanksgiving during that period."
+  },
+  {
+    "sentence": "期日までに最終確認をお願いします。",
+    "sentence_furigana": "期日【きじつ】までに最終確認【さいしゅうかくにん】をお願【ねが】いします。",
+    "meaning": "Please perform the final check by the deadline."
+  },
+  {
+    "sentence": "この期間の経験は将来に役立つでしょう。",
+    "sentence_furigana": "この期間【きかん】の経験【けいけん】は将来【しょうらい】に役立【やくだ】つでしょう。",
+    "meaning": "The experience during this period will be useful in the future."
+  },
+  {
+    "sentence": "来期も変わらずご指導ご鞭撻のほどよろしくお願い申し上げます。",
+    "sentence_furigana": "来期【らいき】も変【か】わらずご指導【しどう】ご鞭撻【べんたつ】のほどよろしくお願【ねが】い申【もう】し上げます。",
+    "meaning": "We humbly request your continued guidance and encouragement next term."
+  }
+]

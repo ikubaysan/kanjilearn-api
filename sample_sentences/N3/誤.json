@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "これは重大な誤りです。",
+    "sentence_furigana": "これ【】は重大【じゅうだい】な誤【あやま】りです。",
+    "meaning": "This is a serious mistake."
+  },
+  {
+    "sentence": "誤解しないでください。",
+    "sentence_furigana": "誤解【ごかい】しないでください。",
+    "meaning": "Please don't misunderstand."
+  },
+  {
+    "sentence": "誤報が広まった。",
+    "sentence_furigana": "誤報【ごほう】が広【ひろ】まった。",
+    "meaning": "False information spread."
+  },
+  {
+    "sentence": "彼女は自分の過ちを誤った。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の過【あやま】ちを誤【あやま】った。",
+    "meaning": "She admitted her fault."
+  },
+  {
+    "sentence": "信号を誤認したため、事故が発生した。",
+    "sentence_furigana": "信号【しんごう】を誤認【ごにん】したため、事故【じこ】が発【はっ】生【せい】した。",
+    "meaning": "An accident occurred due to misidentification of the signal."
+  },
+  {
+    "sentence": "その情報は誤っている可能性があります。",
+    "sentence_furigana": "その情報【じょうほう】は誤【あやま】っている可能性【かのうせい】があります。",
+    "meaning": "That information may be incorrect."
+  },
+  {
+    "sentence": "誤った判断を下してしまった。",
+    "sentence_furigana": "誤【あやま】った判断【はんだん】を下【くだ】してしまった。",
+    "meaning": "I made a wrong judgment."
+  },
+  {
+    "sentence": "誤植を見つけた。",
+    "sentence_furigana": "誤植【ごしょく】を見【み】つけた。",
+    "meaning": "I found a typographical error."
+  },
+  {
+    "sentence": "誤解を招く表現だった。",
+    "sentence_furigana": "誤解【ごかい】を招【まね】く表現【ひょうげん】だった。",
+    "meaning": "It was an expression that caused misunderstanding."
+  },
+  {
+    "sentence": "彼の説明は事実と誤っていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は事実【じじつ】と誤【あやま】っていた。",
+    "meaning": "His explanation was wrong compared to the facts."
+  },
+  {
+    "sentence": "操作を誤り、データを消去してしまった。",
+    "sentence_furigana": "操作【そうさ】を誤【あやま】り、データ【】を消去【しょうきょ】してしまった。",
+    "meaning": "I made an operational error and deleted the data."
+  },
+  {
+    "sentence": "その数字は誤記されている。",
+    "sentence_furigana": "その数字【すうじ】は誤記【ごき】されている。",
+    "meaning": "The number is miswritten."
+  },
+  {
+    "sentence": "誤ってボタンを押してしまった。",
+    "sentence_furigana": "誤【あやま】ってボタン【】を押【お】してしまった。",
+    "meaning": "I accidentally pressed the button."
+  },
+  {
+    "sentence": "この情報は誤解を生む可能性がある。",
+    "sentence_furigana": "この情報【じょうほう】は誤解【ごかい】を生【う】む可能性【かのうせい】がある。",
+    "meaning": "This information has the potential to cause misunderstanding."
+  },
+  {
+    "sentence": "彼は自分の誤りを認めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の誤【あやま】りを認【みと】めた。",
+    "meaning": "He admitted his mistake."
+  },
+  {
+    "sentence": "誤読しやすい漢字だ。",
+    "sentence_furigana": "誤読【ごどく】しやすい漢字【かんじ】だ。",
+    "meaning": "It's a kanji that is easy to misread."
+  },
+  {
+    "sentence": "誤った情報に惑わされないように注意してください。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】に惑【まど】わされないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to be misled by false information."
+  },
+  {
+    "sentence": "この会議は誤解から始まった。",
+    "sentence_furigana": "この会議【かいぎ】は誤解【ごかい】から始【はじ】まった。",
+    "meaning": "This meeting started from a misunderstanding."
+  },
+  {
+    "sentence": "彼はいつも遅刻を誤魔化そうとする。",
+    "sentence_furigana": "彼【かれ】はいつも遅刻【ちこく】を誤魔化【ごま】かそうとする。",
+    "meaning": "He always tries to cover up his lateness."
+  },
+  {
+    "sentence": "誤った方向に進んでしまった。",
+    "sentence_furigana": "誤【あやま】った方向【ほうこう】に進【すす】んでしまった。",
+    "meaning": "I went in the wrong direction."
+  },
+  {
+    "sentence": "その説明は不十分で、誤解を招いた。",
+    "sentence_furigana": "その説明【せつめい】は不十分【ふじゅうぶん】で、誤解【ごかい】を招【まね】いた。",
+    "meaning": "The explanation was insufficient and caused misunderstanding."
+  },
+  {
+    "sentence": "彼は自分の無知を誤魔化すために嘘をついた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の無知【むち】を誤魔化【ごま】すために嘘【うそ】をついた。",
+    "meaning": "He lied to cover up his ignorance."
+  },
+  {
+    "sentence": "これは設計上の誤りです。",
+    "sentence_furigana": "これ【】は設計上【せっけいじょう】の誤【あやま】りです。",
+    "meaning": "This is a design error."
+  },
+  {
+    "sentence": "誤読を防ぐために、読み方を工夫した。",
+    "sentence_furigana": "誤読【ごどく】を防【ふせ】ぐために、読【よ】み方【かた】を工夫【くふう】した。",
+    "meaning": "I devised a way to read it to prevent misreading."
+  },
+  {
+    "sentence": "彼女は誤った情報を信じてしまった。",
+    "sentence_furigana": "彼女【かのじょ】は誤【あやま】った情報【じょうほう】を信【しん】じてしまった。",
+    "meaning": "She came to believe false information."
+  },
+  {
+    "sentence": "誤って注文をキャンセルしてしまった。",
+    "sentence_furigana": "誤【あやま】って注文【ちゅうもん】をキャンセル【】してしまった。",
+    "meaning": "I accidentally canceled the order."
+  },
+  {
+    "sentence": "この地図は古く、誤りが含まれている。",
+    "sentence_furigana": "この地図【ちず】は古【ふる】く、誤【あやま】りが含【ふく】まれている。",
+    "meaning": "This map is old and contains errors."
+  },
+  {
+    "sentence": "彼の言葉は誤解を招きやすかった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は誤解【ごかい】を招【まね】きやすかった。",
+    "meaning": "His words were prone to causing misunderstanding."
+  },
+  {
+    "sentence": "誤った方法で訓練を続けた。",
+    "sentence_furigana": "誤【あやま】った方法【ほうほう】で訓練【くんれん】を続【つづ】けた。",
+    "meaning": "I continued training using the wrong method."
+  },
+  {
+    "sentence": "この契約書には誤記がないか確認してください。",
+    "sentence_furigana": "この契約書【けいやくしょ】には誤記【ごき】がないか確認【かくにん】してください。",
+    "meaning": "Please check if there are any misprints in this contract."
+  },
+  {
+    "sentence": "彼は自分の罪を誤魔化そうとしたが、結局ばれた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の罪【つみ】を誤魔化【ごま】そうとしたが、結局【けっきょく】ばれた。",
+    "meaning": "He tried to cover up his crime, but was eventually caught."
+  },
+  {
+    "sentence": "誤った常識を信じている人が多い。",
+    "sentence_furigana": "誤【あやま】った常識【じょうしき】を信【しん】じている人【ひと】が多【おお】い。",
+    "meaning": "Many people believe in false common sense."
+  },
+  {
+    "sentence": "誤解されたまま放置しておくのは良くない。",
+    "sentence_furigana": "誤解【ごかい】されたまま放置【ほうち】しておくのは良【よ】くない。",
+    "meaning": "It's not good to leave it misunderstood."
+  },
+  {
+    "sentence": "彼は誤って重要なファイルを削除してしまった。",
+    "sentence_furigana": "彼【かれ】は誤【あやま】って重要【じゅうよう】なファイル【】を削除【さくじょ】してしまった。",
+    "meaning": "He accidentally deleted an important file."
+  },
+  {
+    "sentence": "そのニュースは誤報だったと判明した。",
+    "sentence_furigana": "そのニュース【】は誤報【ごほう】だったと判明【はんめい】した。",
+    "meaning": "It turned out that the news was false."
+  },
+  {
+    "sentence": "誤った知識を広めることは危険だ。",
+    "sentence_furigana": "誤【あやま】った知識【ちしき】を広【ひろ】めることは危険【きけん】だ。",
+    "meaning": "Spreading false knowledge is dangerous."
+  },
+  {
+    "sentence": "彼は自分の発言の誤りを訂正した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の発言【はつげん】の誤【あやま】りを訂正【ていせい】した。",
+    "meaning": "He corrected the mistake in his statement."
+  },
+  {
+    "sentence": "誤解しないで、私の言いたいことはこういうことです。",
+    "sentence_furigana": "誤解【ごかい】しないで、私【わたし】の言【い】いたいことはこういうことです。",
+    "meaning": "Don't misunderstand, this is what I mean."
+  },
+  {
+    "sentence": "この製品には設計上の誤りがあった。",
+    "sentence_furigana": "この製品【せいひん】には設計上【せっけいじょう】の誤【あやま】りがあった。",
+    "meaning": "There was a design error in this product."
+  },
+  {
+    "sentence": "彼は誤解を恐れて何も言わなかった。",
+    "sentence_furigana": "彼【かれ】は誤解【ごかい】を恐【おそ】れて何【なに】も言【い】わなかった。",
+    "meaning": "He was afraid of being misunderstood and said nothing."
+  },
+  {
+    "sentence": "誤った情報に基づいた決定は避けるべきだ。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】に基【もと】づいた決定【けってい】は避【さ】けるべきだ。",
+    "meaning": "Decisions based on false information should be avoided."
+  },
+  {
+    "sentence": "彼は自分のミスを誤魔化そうとした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のミス【】を誤魔化【ごま】そうとした。",
+    "meaning": "He tried to cover up his mistake."
+  },
+  {
+    "sentence": "誤読された漢字をそのままにするのは良くない。",
+    "sentence_furigana": "誤読【ごどく】された漢字【かんじ】をそのままにするのは良【よ】くない。",
+    "meaning": "It's not good to leave kanji that are misread as they are."
+  },
+  {
+    "sentence": "この本は誤字脱字が多い。",
+    "sentence_furigana": "この本【ほん】は誤字脱字【ごじだつじ】が多【おお】い。",
+    "meaning": "This book has many typos and omissions."
+  },
+  {
+    "sentence": "誤解を生んだのは私の責任です。",
+    "sentence_furigana": "誤解【ごかい】を生【う】んだのは私【わたし】の責任【せきにん】です。",
+    "meaning": "It is my responsibility that a misunderstanding occurred."
+  },
+  {
+    "sentence": "彼は故意に情報を誤った。",
+    "sentence_furigana": "彼【かれ】は故意【こい】に情報【じょうほう】を誤【あやま】った。",
+    "meaning": "He intentionally falsified the information."
+  },
+  {
+    "sentence": "誤った報道が人々の不安を煽った。",
+    "sentence_furigana": "誤【あやま】った報道【ほうどう】が人々【ひとびと】の不安【ふあん】を煽【あお】った。",
+    "meaning": "False reporting stoked people's anxiety."
+  },
+  {
+    "sentence": "彼は自分の過失を誤魔化そうとしている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過失【かしつ】を誤魔化【ごま】そうとしている。",
+    "meaning": "He is trying to cover up his fault."
+  },
+  {
+    "sentence": "誤解を解くために、もう一度説明します。",
+    "sentence_furigana": "誤解【ごかい】を解【と】くために、もう一度【いちど】説明【せつめい】します。",
+    "meaning": "I will explain it again to clear up the misunderstanding."
+  },
+  {
+    "sentence": "これは重大な誤りであり、修正が必要です。",
+    "sentence_furigana": "これ【】は重大【じゅうだい】な誤【あやま】りであり、修正【しゅうせい】が必要【ひつよう】です。",
+    "meaning": "This is a serious error and needs to be corrected."
+  },
+  {
+    "sentence": "誤った情報に騙されないでください。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】に騙【だま】されないでください。",
+    "meaning": "Please do not be deceived by false information."
+  },
+  {
+    "sentence": "彼の言い訳は誤りを隠すためのものだった。",
+    "sentence_furigana": "彼【かれ】の言い訳【いいわけ】は誤【あやま】りを隠【かく】すためのものだった。",
+    "meaning": "His excuse was to hide the mistake."
+  },
+  {
+    "sentence": "誤字を見つけても、すぐに指摘しない。",
+    "sentence_furigana": "誤字【ごじ】を見【み】つけても、すぐに指摘【してき】しない。",
+    "meaning": "Even if I find a typo, I don't point it out immediately."
+  },
+  {
+    "sentence": "その件については誤解が生じています。",
+    "sentence_furigana": "その件【けん】については誤解【ごかい】が生【しょう】じています。",
+    "meaning": "There is a misunderstanding regarding that matter."
+  },
+  {
+    "sentence": "彼は事故の原因を誤魔化そうとした。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】の原因【げんいん】を誤魔化【ごま】そうとした。",
+    "meaning": "He tried to cover up the cause of the accident."
+  },
+  {
+    "sentence": "この論文は誤りが少ない。",
+    "sentence_furigana": "この論文【ろんぶん】は誤【あやま】りが少【すく】ない。",
+    "meaning": "This paper has few errors."
+  },
+  {
+    "sentence": "誤った方向に進むと、目的地に着けない。",
+    "sentence_furigana": "誤【あやま】った方向【ほうこう】に進【すす】むと、目的地【もくてきち】に着【つ】けない。",
+    "meaning": "If you go in the wrong direction, you won't reach your destination."
+  },
+  {
+    "sentence": "彼は自分の無能さを誤魔化すために、他人を責めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の無能【むのう】さをごまかすために、他人【たにん】を責【せ】めた。",
+    "meaning": "He blamed others to cover up his incompetence."
+  },
+  {
+    "sentence": "このデータは誤って入力された可能性があります。",
+    "sentence_furigana": "このデータ【】は誤【あやま】って入力【にゅうりょく】された可能性【かのうせい】があります。",
+    "meaning": "This data may have been entered incorrectly."
+  },
+  {
+    "sentence": "誤解からくる対立を解消しなければならない。",
+    "sentence_furigana": "誤解【ごかい】からくる対立【たいりつ】を解消【かいしょう】しなければならない。",
+    "meaning": "We must resolve the conflict arising from misunderstanding."
+  },
+  {
+    "sentence": "彼はその間違いを誤魔化そうとした。",
+    "sentence_furigana": "彼【かれ】はその間違【まちが】いを誤魔化【ごま】そうとした。",
+    "meaning": "He tried to cover up that mistake."
+  },
+  {
+    "sentence": "誤読されることを避けるために、漢字の練習を始めた。",
+    "sentence_furigana": "誤読【ごどく】されることを避【さ】けるために、漢字【かんじ】の練習【れんしゅう】を始【はじ】めた。",
+    "meaning": "I started practicing kanji to avoid misreading them."
+  },
+  {
+    "sentence": "この報告書には複数の誤りが含まれている。",
+    "sentence_furigana": "この報告書【ほうこくしょ】には複数【ふくすう】の誤【あやま】りが含【ふく】まれている。",
+    "meaning": "This report contains multiple errors."
+  },
+  {
+    "sentence": "彼は誤解されている状況を打開しようとした。",
+    "sentence_furigana": "彼【かれ】は誤解【ごかい】されている状況【じょうきょう】を打開【だかい】しようとした。",
+    "meaning": "He tried to break through the situation where he was being misunderstood."
+  },
+  {
+    "sentence": "誤植を見つけたら、すぐに編集者に知らせてください。",
+    "sentence_furigana": "誤植【ごしょく】を見【み】つけたら、すぐに編集者【へんしゅうしゃ】に知【し】らせてください。",
+    "meaning": "If you find a typo, please inform the editor immediately."
+  },
+  {
+    "sentence": "誤った情報に基づいて行動するべきではない。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】に基【もと】づいて行動【こうどう】するべきではない。",
+    "meaning": "One should not act based on false information."
+  },
+  {
+    "sentence": "彼は自分の無知を誤魔化すのに必死だった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の無知【むち】を誤魔化【ごま】すのに必死【ひっし】だった。",
+    "meaning": "He was desperate to cover up his ignorance."
+  },
+  {
+    "sentence": "誤って写真を削除してしまった。",
+    "sentence_furigana": "誤【あやま】って写真【しゃしん】を削除【さくじょ】してしまった。",
+    "meaning": "I accidentally deleted the photo."
+  },
+  {
+    "sentence": "誤解を避けるために、明確な言葉遣いを心がけましょう。",
+    "sentence_furigana": "誤解【ごかい】を避【さ】けるために、明確【めいかく】な言葉遣【ことばづか】いを心【こころ】がけましょう。",
+    "meaning": "Let's aim for clear language to avoid misunderstanding."
+  },
+  {
+    "sentence": "この文書には誤字が多い。",
+    "sentence_furigana": "この文書【ぶんしょ】には誤字【ごじ】が多【おお】い。",
+    "meaning": "This document has many typos."
+  },
+  {
+    "sentence": "彼は自分の過ちを認めようとせず、誤魔化そうとした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過【あやま】ちを認【みと】めようとせず、誤魔化【ごま】そうとした。",
+    "meaning": "He didn't try to admit his mistake and attempted to cover it up."
+  },
+  {
+    "sentence": "誤解のないように、もう一度確認します。",
+    "sentence_furigana": "誤解【ごかい】のないように、もう一度【いちど】確認【かくにん】します。",
+    "meaning": "I will check again to avoid any misunderstanding."
+  },
+  {
+    "sentence": "彼は誤った方向に進路を取った。",
+    "sentence_furigana": "彼【かれ】は誤【あやま】った方向【ほうこう】に進路【しんろ】を取【と】った。",
+    "meaning": "He took a wrong turn."
+  },
+  {
+    "sentence": "この法律は誤解を招く条項がある。",
+    "sentence_furigana": "この法律【ほうりつ】は誤解【ごかい】を招【まね】く条項【じょうこう】がある。",
+    "meaning": "This law has clauses that can cause misunderstanding."
+  },
+  {
+    "sentence": "彼は常に自分の失敗を誤魔化している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分【じぶん】の失敗【しっぱい】を誤魔化【ごま】している。",
+    "meaning": "He is always covering up his failures."
+  },
+  {
+    "sentence": "誤って保存せずにファイルを閉じてしまった。",
+    "sentence_furigana": "誤【あやま】って保存【ほぞん】せずファイル【】を閉【と】じてしまった。",
+    "meaning": "I accidentally closed the file without saving it."
+  },
+  {
+    "sentence": "この説明では誤解が生じるかもしれない。",
+    "sentence_furigana": "この説明【せつめい】では誤解【ごかい】が生【しょう】じるかもしれない。",
+    "meaning": "This explanation might cause misunderstanding."
+  },
+  {
+    "sentence": "彼は誤読されるのを嫌がっていた。",
+    "sentence_furigana": "彼【かれ】は誤読【ごどく】されるのを嫌【きら】っていた。",
+    "meaning": "He disliked being misread."
+  },
+  {
+    "sentence": "誤字脱字のチェックを怠らないように。",
+    "sentence_furigana": "誤字脱字【ごじだつじ】のチェック【】を怠【おこた】らないように。",
+    "meaning": "Be sure to check for typos and omissions."
+  },
+  {
+    "sentence": "誤解されたままでは仕事が進まない。",
+    "sentence_furigana": "誤解【ごかい】されたままでは仕事【しごと】が進【すす】まない。",
+    "meaning": "Work cannot proceed if there is a misunderstanding."
+  },
+  {
+    "sentence": "彼は意図的に間違った情報を流した。",
+    "sentence_furigana": "彼【かれ】は意図的【いとてき】に間違【まちが】った情報【じょうほう】を流【なが】した。",
+    "meaning": "He intentionally spread false information."
+  },
+  {
+    "sentence": "この計画は初期段階で誤りがあった。",
+    "sentence_furigana": "この計画【けいかく】は初期段階【しょきだんかい】で誤【あやま】りがあった。",
+    "meaning": "This plan had an error in its initial stage."
+  },
+  {
+    "sentence": "誤った判断で大きな損失を出してしまった。",
+    "sentence_furigana": "誤【あやま】った判断【はんだん】で大【おお】きな損失【そんしつ】を出【だ】してしまった。",
+    "meaning": "I incurred a large loss due to a wrong judgment."
+  },
+  {
+    "sentence": "彼は自分の言葉が誤解を招いたことを謝罪した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の言葉【ことば】が誤解【ごかい】を招【まね】いたことを謝罪【しゃざい】した。",
+    "meaning": "He apologized for his words causing misunderstanding."
+  },
+  {
+    "sentence": "この製品の取扱説明書には誤記があった。",
+    "sentence_furigana": "この製品【せいひん】の取扱説明書【とりあつかいせつめいしょ】には誤記【ごき】があった。",
+    "meaning": "There was a misprint in the instruction manual for this product."
+  },
+  {
+    "sentence": "彼は過去の過ちを誤魔化そうとする傾向がある。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを誤魔化【ごま】そうとする傾向【けいこう】がある。",
+    "meaning": "He has a tendency to try to cover up his past mistakes."
+  },
+  {
+    "sentence": "この情報は誤った解釈をされる可能性がある。",
+    "sentence_furigana": "この情報【じょうほう】は誤【あやま】った解釈【かいしゃく】をされる可能性【かのうせい】がある。",
+    "meaning": "This information could be misinterpreted."
+  },
+  {
+    "sentence": "誤読しないように、漢字を丁寧に書く。",
+    "sentence_furigana": "誤読【ごどく】しないように、漢字【かんじ】を丁寧【ていねい】に書【か】く。",
+    "meaning": "I write kanji carefully to avoid misreading."
+  },
+  {
+    "sentence": "誤解を招かないように、具体的な例を挙げてください。",
+    "sentence_furigana": "誤解【ごかい】を招【まね】かないように、具体的【ぐたいてき】な例【れい】を挙【あ】げてください。",
+    "meaning": "Please give concrete examples to avoid misunderstanding."
+  },
+  {
+    "sentence": "誤った情報を信じてしまうのは簡単だ。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】を信【しん】じてしまうのは簡単【かんたん】だ。",
+    "meaning": "It is easy to believe false information."
+  },
+  {
+    "sentence": "彼は誤訳された資料を元に議論を進めた。",
+    "sentence_furigana": "彼【かれ】は誤訳【ごやく】された資料【しりょう】を元【もと】に議論【ぎろん】を進【すす】めた。",
+    "meaning": "He proceeded with the discussion based on mistranslated materials."
+  },
+  {
+    "sentence": "誤った結論に達してしまった。",
+    "sentence_furigana": "誤【あやま】った結論【けつろん】に達【たっ】してしまった。",
+    "meaning": "I reached the wrong conclusion."
+  },
+  {
+    "sentence": "彼は自分の無責任さを誤魔化すために、環境のせいにする。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の無責任【むせきにん】さをごまかすために、環境【かんきょう】のせいにする。",
+    "meaning": "He blames the environment to cover up his irresponsibility."
+  },
+  {
+    "sentence": "この本は誤植が多いため、読むのが難しい。",
+    "sentence_furigana": "この本【ほん】は誤植【ごしょく】が多【おお】いため、読【よ】むのが難【むずか】しい。",
+    "meaning": "It's difficult to read this book because it has many typos."
+  },
+  {
+    "sentence": "誤解から生じる問題を解決する必要がある。",
+    "sentence_furigana": "誤解【ごかい】から生【しょう】じる問題【もんだい】を解決【かいけつ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to resolve problems arising from misunderstanding."
+  },
+  {
+    "sentence": "彼は自分の立場を誤魔化そうとした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の立場【たちば】を誤魔化【ごま】そうとした。",
+    "meaning": "He tried to cover up his position."
+  },
+  {
+    "sentence": "この地図には誤りが含まれている可能性がある。",
+    "sentence_furigana": "この地図【ちず】には誤【あやま】りが含【ふく】まれている可能性【かのうせい】がある。",
+    "meaning": "There is a possibility that this map contains errors."
+  },
+  {
+    "sentence": "誤った情報を鵜呑みにしないように注意が必要です。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】を鵜呑【うの】みにしないように注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Care must be taken not to blindly believe false information."
+  },
+  {
+    "sentence": "彼は自分の無知を誤魔化すために、難しい言葉を使った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の無知【むち】を誤魔化【ごま】すために、難【むずか】しい言葉【ことば】を使【つか】った。",
+    "meaning": "He used difficult words to cover up his ignorance."
+  },
+  {
+    "sentence": "このソフトウェアには重大な誤りが見つかった。",
+    "sentence_furigana": "このソフトウェア【】には重大【じゅうだい】な誤【あやま】りが見【み】つかった。",
+    "meaning": "A serious error was found in this software."
+  }
+]

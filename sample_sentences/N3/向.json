@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "私はその方向に向かっています。",
+    "sentence_furigana": "私【わたし】はその方向【ほうこう】に向【む】かっています。",
+    "meaning": "I am heading in that direction."
+  },
+  {
+    "sentence": "窓に向かって座ってください。",
+    "sentence_furigana": "窓【まど】に向【む】かって座ってください。",
+    "meaning": "Please sit facing the window."
+  },
+  {
+    "sentence": "彼は人生の困難に立ち向かった。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の困難【こんなん】に立【た】ち向【む】かった。",
+    "meaning": "He confronted the difficulties of life."
+  },
+  {
+    "sentence": "この道は海に向かっています。",
+    "sentence_furigana": "この道【みち】は海【うみ】に向【む】かっています。",
+    "meaning": "This road leads toward the sea."
+  },
+  {
+    "sentence": "彼の才能は将来有望だ。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は将来【しょうらい】有望【ゆうぼう】だ。",
+    "meaning": "His talent points toward a promising future."
+  },
+  {
+    "sentence": "反対の意見にも耳を向けるべきだ。",
+    "sentence_furigana": "反対【はんたい】の意見【いけん】にも耳【みみ】を向【む】けるべきだ。",
+    "meaning": "We should also pay attention to opposing opinions."
+  },
+  {
+    "sentence": "その建物の向こう側に公園があります。",
+    "sentence_furigana": "その建物【たてもの】の向【む】こう側【がわ】に公園【こうえん】があります。",
+    "meaning": "There is a park on the other side of that building."
+  },
+  {
+    "sentence": "彼らは我々に立ち向かうつもりだ。",
+    "sentence_furigana": "彼【かれ】らは我々【われわれ】に立【た】ち向【む】かうつもりだ。",
+    "meaning": "They intend to confront us."
+  },
+  {
+    "sentence": "太陽に向かって手を伸ばした。",
+    "sentence_furigana": "太陽【たいよう】に向【む】かって手【て】を伸【の】ばした。",
+    "meaning": "I reached out my hand towards the sun."
+  },
+  {
+    "sentence": "状況は有利な方向に向かっている。",
+    "sentence_furigana": "状況【じょうきょう】は有利【ゆうり】な方向【ほうこう】に向【む】かっている。",
+    "meaning": "The situation is moving in a favorable direction."
+  },
+  {
+    "sentence": "部屋の向きを変えました。",
+    "sentence_furigana": "部屋【へや】の向【む】きを変【か】えました。",
+    "meaning": "I changed the orientation of the room."
+  },
+  {
+    "sentence": "彼はいつも前向きな考え方をする。",
+    "sentence_furigana": "彼【かれ】はいつも前向【まえむ】きな考【かんが】え方【かた】をする。",
+    "meaning": "He always thinks positively."
+  },
+  {
+    "sentence": "このプロジェクトは成功に向かって進んでいる。",
+    "sentence_furigana": "このプロジェクトは成功【せいこう】に向【む】かって進【すす】んでいる。",
+    "meaning": "This project is progressing towards success."
+  },
+  {
+    "sentence": "向こうから誰かが歩いてくる。",
+    "sentence_furigana": "向【む】こうから誰【だれ】か歩【ある】いてくる。",
+    "meaning": "Someone is walking towards us from over there."
+  },
+  {
+    "sentence": "顔をこちらに向けてください。",
+    "sentence_furigana": "顔【かお】をこちらに向【む】けてください。",
+    "meaning": "Please turn your face this way."
+  },
+  {
+    "sentence": "彼は多くの困難に直面した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】に直面【ちょくめん】した。",
+    "meaning": "He faced many difficulties."
+  },
+  {
+    "sentence": "その船は北極に向かっている。",
+    "sentence_furigana": "その船【ふね】は北極【ほっきょく】に向【む】かっている。",
+    "meaning": "The ship is heading towards the North Pole."
+  },
+  {
+    "sentence": "彼の言葉は私を勇気づけた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】を勇【ゆう】づけた。",
+    "meaning": "His words encouraged me."
+  },
+  {
+    "sentence": "その家は南向きです。",
+    "sentence_furigana": "その家【いえ】は南向【みなみむ】きです。",
+    "meaning": "That house faces south."
+  },
+  {
+    "sentence": "方針をそちらに向けましょう。",
+    "sentence_furigana": "方針【ほうしん】をそちらに向【む】けましょう。",
+    "meaning": "Let's direct our policy that way."
+  },
+  {
+    "sentence": "未来に向かって歩き出そう。",
+    "sentence_furigana": "未来【みらい】に向【む】かって歩【ある】き出【だ】そう。",
+    "meaning": "Let's start walking towards the future."
+  },
+  {
+    "sentence": "彼は常に新しい挑戦に向かう。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい挑戦【ちょうせん】に向【む】かう。",
+    "meaning": "He always faces new challenges."
+  },
+  {
+    "sentence": "東向きの窓は朝日が入る。",
+    "sentence_furigana": "東向【ひがしむ】きの大窓【おおまど】は朝日【あさひ】が入【はい】る。",
+    "meaning": "The east-facing window receives the morning sun."
+  },
+  {
+    "sentence": "彼の態度は我々を失望させた。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は我々【われわれ】を失望【しつぼう】させた。",
+    "meaning": "His attitude disappointed us."
+  },
+  {
+    "sentence": "目標に向かって努力を続けなさい。",
+    "sentence_furigana": "目標【もくひょう】に向【む】かって努力【どりょく】を続【つづ】けなさい。",
+    "meaning": "Keep working towards your goal."
+  },
+  {
+    "sentence": "この川は海に向かって流れている。",
+    "sentence_furigana": "この川【かわ】は海【うみ】に向【む】かって流【なが】れている。",
+    "meaning": "This river flows towards the sea."
+  },
+  {
+    "sentence": "私は彼の意見に賛成の向きです。",
+    "sentence_furigana": "私【わたし】は彼【かれ】の意見【いけん】に賛成【さんせい】の向【む】きです。",
+    "meaning": "I tend to agree with his opinion."
+  },
+  {
+    "sentence": "向こう側の建物が新しい図書館です。",
+    "sentence_furigana": "向【む】こう側【がわ】の建物【たてもの】が新【あたら】しい図書館【としょかん】です。",
+    "meaning": "The building on the other side is the new library."
+  },
+  {
+    "sentence": "彼は常に前向きで楽観的だ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きで楽観的【らっかんてき】だ。",
+    "meaning": "He is always positive and optimistic."
+  },
+  {
+    "sentence": "彼らは我々の挑戦に立ち向かってきた。",
+    "sentence_furigana": "彼【かれ】らは我々【われわれ】の挑戦【ちょうせん】に立【た】ち向【む】かってきた。",
+    "meaning": "They have confronted our challenges."
+  },
+  {
+    "sentence": "この道は山の頂上に向かっています。",
+    "sentence_furigana": "この道【みち】は山【やま】の頂上【ちょうじょう】に向【む】かっています。",
+    "meaning": "This road leads to the summit of the mountain."
+  },
+  {
+    "sentence": "彼女はいつも物事を肯定的に捉える。",
+    "sentence_furigana": "彼女【かのじょ】はいつも物事【ものごと】を肯定的【こうていてき】に捉【とら】える。",
+    "meaning": "She always looks at things positively."
+  },
+  {
+    "sentence": "こちら向きの椅子に座ってください。",
+    "sentence_furigana": "こちら向【む】きのが椅子【いす】に座ってください。",
+    "meaning": "Please sit in the chair facing this way."
+  },
+  {
+    "sentence": "経済は好転の兆しを見せている。",
+    "sentence_furigana": "経済【けいざい】は好転【こうてん】の兆【きざ】しを見【み】せている。",
+    "meaning": "The economy is showing signs of turning for the better."
+  },
+  {
+    "sentence": "彼は常に新しいことへ向かう。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しいことへ向【む】かう。",
+    "meaning": "He always heads towards new things."
+  },
+  {
+    "sentence": "その建物は川に向かって建っている。",
+    "sentence_furigana": "その建物【たてもの】は川【かわ】に向【む】かって建【た】っている。",
+    "meaning": "That building is built facing the river."
+  },
+  {
+    "sentence": "彼はいつも積極的に行動する。",
+    "sentence_furigana": "彼【かれ】はいつも積極的【せっきょくてき】に行【おこな】う。",
+    "meaning": "He always acts proactively."
+  },
+  {
+    "sentence": "未来への希望に向かって進もう。",
+    "sentence_furigana": "未来【みらい】への希望【きぼう】に向【む】かって進【すす】もう。",
+    "meaning": "Let's move forward towards hope for the future."
+  },
+  {
+    "sentence": "彼の視線は遠くに向いていた。",
+    "sentence_furigana": "彼【かれ】の視線【しせん】は遠【とお】くに向【む】いていた。",
+    "meaning": "His gaze was directed far away."
+  },
+  {
+    "sentence": "向こう側の信号を渡ってください。",
+    "sentence_furigana": "向【む】こう側【がわ】の信号【しんごう】を渡ってください。",
+    "meaning": "Please cross at the traffic light on the other side."
+  },
+  {
+    "sentence": "困難な状況に立ち向かう勇気が必要だ。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】に立【た】ち向【む】かう勇気【ゆうき】が必要【ひつよう】だ。",
+    "meaning": "Courage is needed to confront difficult situations."
+  },
+  {
+    "sentence": "彼女の顔は太陽に向いていた。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】は太陽【たいよう】に向【む】いていた。",
+    "meaning": "Her face was turned towards the sun."
+  },
+  {
+    "sentence": "この道は海岸に向かって伸びている。",
+    "sentence_furigana": "この道【みち】は海岸【かいがん】に向【む】かって伸【の】びている。",
+    "meaning": "This road extends towards the coast."
+  },
+  {
+    "sentence": "彼は常に成功を追求する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に成功【せいこう】を追求【ついきゅう】する。",
+    "meaning": "He always pursues success."
+  },
+  {
+    "sentence": "その部屋は北向きです。",
+    "sentence_furigana": "その部屋【へや】は北向【きたむ】きです。",
+    "meaning": "That room faces north."
+  },
+  {
+    "sentence": "方針を新しい方向に向ける。",
+    "sentence_furigana": "方針【ほうしん】を新【あたら】しい方向【ほうこう】に向【む】ける。",
+    "meaning": "To direct policy in a new direction."
+  },
+  {
+    "sentence": "彼は常に最善を尽くす。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くす。",
+    "meaning": "He always does his best."
+  },
+  {
+    "sentence": "向こう側に駅があります。",
+    "sentence_furigana": "向【む】こう側【がわ】に駅【えき】があります。",
+    "meaning": "There is a station on the other side."
+  },
+  {
+    "sentence": "彼の意見は我々を刺激した。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は我々【われわれ】を刺激【しげき】した。",
+    "meaning": "His opinion stimulated us."
+  },
+  {
+    "sentence": "その車は南に向かっています。",
+    "sentence_furigana": "その車【くるま】は南【みなみ】に向【む】かっています。",
+    "meaning": "That car is heading south."
+  },
+  {
+    "sentence": "彼は常に前向きな態度を示す。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな態度【たいど】を示【しめ】す。",
+    "meaning": "He always shows a positive attitude."
+  },
+  {
+    "sentence": "この街は発展に向かっています。",
+    "sentence_furigana": "この街【まち】は発展【はってん】に向【む】かっています。",
+    "meaning": "This city is heading towards development."
+  },
+  {
+    "sentence": "彼女は目標達成に向かって努力している。",
+    "sentence_furigana": "彼女【かのじょ】は目標達成【もくひょうたっせい】に向【む】かって努力【どりょく】している。",
+    "meaning": "She is working hard towards achieving her goal."
+  },
+  {
+    "sentence": "その方向に向かって進んでください。",
+    "sentence_furigana": "その方向【ほうこう】に向【む】かって進んでください。",
+    "meaning": "Please proceed in that direction."
+  },
+  {
+    "sentence": "彼の言葉は私に希望を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】に希望【きぼう】を与【あた】えた。",
+    "meaning": "His words gave me hope."
+  },
+  {
+    "sentence": "顔をこちらに向けてください。",
+    "sentence_furigana": "顔【かお】をこちらに向【む】けてください。",
+    "meaning": "Please face this way."
+  },
+  {
+    "sentence": "彼は常に新しい考え方を受け入れる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい考【かんが】え方【かた】を受【う】け入【い】れる。",
+    "meaning": "He always accepts new ways of thinking."
+  },
+  {
+    "sentence": "その建物は川に面している。",
+    "sentence_furigana": "その建物【たてもの】は川【かわ】に面【めん】している。",
+    "meaning": "That building faces the river."
+  },
+  {
+    "sentence": "向こう側の景色が素晴らしい。",
+    "sentence_furigana": "向【む】こう側【がわ】の景色【けしき】が素晴【すば】らしい。",
+    "meaning": "The scenery on the other side is wonderful."
+  },
+  {
+    "sentence": "彼は常に前向きな姿勢を崩さない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな姿勢【しせい】を崩【くず】さない。",
+    "meaning": "He never loses his positive attitude."
+  },
+  {
+    "sentence": "その状況は我々にとって有利に進んでいる。",
+    "sentence_furigana": "その状況【じょうきょう】は我々【われわれ】にとって有利【ゆうり】に進【すす】んでいる。",
+    "meaning": "The situation is progressing favorably for us."
+  },
+  {
+    "sentence": "彼の態度は我々を勇気づけた。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は我々【われわれ】を勇【ゆう】づけた。",
+    "meaning": "His attitude encouraged us."
+  },
+  {
+    "sentence": "私はその方向に進んだ。",
+    "sentence_furigana": "私【わたし】はその方向【ほうこう】に進【すす】んだ。",
+    "meaning": "I proceeded in that direction."
+  },
+  {
+    "sentence": "この道は海の方へ向かっている。",
+    "sentence_furigana": "この道【みち】は海【うみ】の方【ほう】へ向【む】かっている。",
+    "meaning": "This road leads towards the sea."
+  },
+  {
+    "sentence": "彼は常に新しい挑戦を受け入れる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい挑戦【ちょうせん】を受【う】け入【い】れる。",
+    "meaning": "He always accepts new challenges."
+  },
+  {
+    "sentence": "窓は東向きです。",
+    "sentence_furigana": "窓【まど】は東向【ひがしむ】きです。",
+    "meaning": "The window faces east."
+  },
+  {
+    "sentence": "その方針は成功に向かっている。",
+    "sentence_furigana": "その方針【ほうしん】は成功【せいこう】に向【む】かっている。",
+    "meaning": "That policy is heading towards success."
+  },
+  {
+    "sentence": "彼の言葉は私に力を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】に力【ちから】を与【あた】えた。",
+    "meaning": "His words gave me strength."
+  },
+  {
+    "sentence": "向こう側の建物が私たちの目的地です。",
+    "sentence_furigana": "向【む】こう側【がわ】の建物【たてもの】が私達【わたしたち】の目的地【もくてきち】です。",
+    "meaning": "The building on the other side is our destination."
+  },
+  {
+    "sentence": "困難な状況に冷静に向き合う。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】に冷静【れいせい】に向【む】き合【あ】う。",
+    "meaning": "To calmly face difficult situations."
+  },
+  {
+    "sentence": "彼は常に前向きな姿勢で困難を乗り越える。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな姿勢【しせい】で困難【こんなん】を乗【の】り越【こ】える。",
+    "meaning": "He always overcomes difficulties with a positive attitude."
+  },
+  {
+    "sentence": "このプロジェクトは成功に向かって大きく進んでいる。",
+    "sentence_furigana": "このプロジェクトは成功【せいこう】に向【む】かって大【おお】きく進【すす】んでいる。",
+    "meaning": "This project is progressing significantly towards success."
+  },
+  {
+    "sentence": "彼の視線は目標に向かっていた。",
+    "sentence_furigana": "彼【かれ】の視線【しせん】は目標【もくひょう】に向【む】かっていた。",
+    "meaning": "His gaze was directed towards the goal."
+  },
+  {
+    "sentence": "この道は公園に向かっています。",
+    "sentence_furigana": "この道【みち】は公園【こうえん】に向【む】かっています。",
+    "meaning": "This road leads to the park."
+  },
+  {
+    "sentence": "彼女は常に楽観的に物事を考える。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に楽観的【らっかんてき】に物事【ものごと】を考【かんが】える。",
+    "meaning": "She always thinks about things optimistically."
+  },
+  {
+    "sentence": "彼は常に新しい方向を模索する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい方向【ほうこう】を模索【もさく】する。",
+    "meaning": "He always explores new directions."
+  },
+  {
+    "sentence": "その家は東向きです。",
+    "sentence_furigana": "その家【いえ】は東向【ひがしむ】きです。",
+    "meaning": "That house faces east."
+  },
+  {
+    "sentence": "彼の言葉は私を前向きにした。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】を前向【まえむ】きにした。",
+    "meaning": "His words made me feel positive."
+  },
+  {
+    "sentence": "私たちは共に目標に向かって進む。",
+    "sentence_furigana": "私達【わたしたち】は共【とも】に目標【もくひょう】に向【む】かって進【すす】む。",
+    "meaning": "We advance together towards the goal."
+  },
+  {
+    "sentence": "彼は常に困難に立ち向かう。",
+    "sentence_furigana": "彼【かれ】は常【つね】に困難【こんなん】に立【た】ち向【む】かう。",
+    "meaning": "He always confronts difficulties."
+  },
+  {
+    "sentence": "その橋は川を向いている。",
+    "sentence_furigana": "その橋【はし】は川【かわ】を向【む】いている。",
+    "meaning": "That bridge faces the river."
+  },
+  {
+    "sentence": "この計画は成功の方向に向かっている。",
+    "sentence_furigana": "この計画【けいかく】は成功【せいこう】の方向【ほうこう】に向【む】かっている。",
+    "meaning": "This plan is heading in the direction of success."
+  },
+  {
+    "sentence": "彼の態度は我々を励ました。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は我々【われわれ】を励【はげ】ました。",
+    "meaning": "His attitude encouraged us."
+  },
+  {
+    "sentence": "向こう側の建物が目標地点です。",
+    "sentence_furigana": "向【む】こう側【がわ】の建物【たてもの】が目標地点【もくひょうちてん】です。",
+    "meaning": "The building on the other side is the target point."
+  },
+  {
+    "sentence": "彼は常に希望に向かって進む。",
+    "sentence_furigana": "彼【かれ】は常【つね】に希望【きぼう】に向【む】かって進【すす】む。",
+    "meaning": "He always moves forward towards hope."
+  },
+  {
+    "sentence": "この方針は良い方向に向かうだろう。",
+    "sentence_furigana": "この方針【ほうしん】は良【よ】い方向【ほうこう】に向【む】かうだろう。",
+    "meaning": "This policy will likely head in a good direction."
+  },
+  {
+    "sentence": "彼女は常に前向きな気持ちを保っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に前向【まえむ】きな気持【きも】ちを保【たも】っている。",
+    "meaning": "She always maintains a positive mindset."
+  },
+  {
+    "sentence": "彼の言葉は私に勇気を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】に勇気【ゆうき】を与【あた】えた。",
+    "meaning": "His words gave me courage."
+  },
+  {
+    "sentence": "その山は北向きの斜面がある。",
+    "sentence_furigana": "その山【やま】は北向【きたむ】きのが斜面【しゃめん】がある。",
+    "meaning": "That mountain has a north-facing slope."
+  },
+  {
+    "sentence": "彼は常に新しい経験を求める。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい経験【けいけん】を求【もと】める。",
+    "meaning": "He always seeks new experiences."
+  },
+  {
+    "sentence": "私たちは未来の成功に向かって努力する。",
+    "sentence_furigana": "私達【わたしたち】は未来【みらい】の成功【せいこう】に向【む】かって努力【どりょく】する。",
+    "meaning": "We strive for future success."
+  },
+  {
+    "sentence": "その方向に向かおう。",
+    "sentence_furigana": "その方向【ほうこう】に向【む】かおう。",
+    "meaning": "Let's head in that direction."
+  },
+  {
+    "sentence": "彼は常に困難に立ち向かう意志がある。",
+    "sentence_furigana": "彼【かれ】は常【つね】に困難【こんなん】に立【た】ち向【む】かう意志【いし】がある。",
+    "meaning": "He always has the will to face difficulties."
+  },
+  {
+    "sentence": "この道は東に向かっている。",
+    "sentence_furigana": "この道【みち】は東【ひがし】に向【む】かっている。",
+    "meaning": "This road leads east."
+  },
+  {
+    "sentence": "彼の言葉は私に前向きな考え方を促した。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】に前向【まえむ】きな考【かんが】え方【かた】を促【うな】がした。",
+    "meaning": "His words prompted me to think positively."
+  },
+  {
+    "sentence": "私たちは新しい目標に向かっています。",
+    "sentence_furigana": "私達【わたしたち】は新【あたら】しい目標【もくひょう】に向【む】かっています。",
+    "meaning": "We are heading towards a new goal."
+  },
+  {
+    "sentence": "向こう側の景色は息をのむほど美しい。",
+    "sentence_furigana": "向【む】こう側【がわ】の景色【けしき】は息【いき】を呑【の】むほど美【うつく】しい。",
+    "meaning": "The scenery on the other side is breathtakingly beautiful."
+  },
+  {
+    "sentence": "彼は常に成功へ向かって努力する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に成功【せいこう】へ向【む】かって努力【どりょく】する。",
+    "meaning": "He always strives for success."
+  }
+]

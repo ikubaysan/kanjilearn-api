@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "霧が濃いため、視界が悪いです。",
+    "sentence_furigana": "霧【きり】が濃【こ】いため、視界【しかい】が悪【わる】いです。",
+    "meaning": "Because the fog is thick, visibility is poor."
+  },
+  {
+    "sentence": "朝早く起きたら、一面に霧が立ち込めていました。",
+    "sentence_furigana": "朝【あさ】早【はや】く起【お】きたら、一面【いちめん】に霧【きり】が立【た】ち込【こ】めていました。",
+    "meaning": "When I woke up early in the morning, fog filled the entire area."
+  },
+  {
+    "sentence": "山の頂上は霧に包まれていました。",
+    "sentence_furigana": "山【やま】の頂上【ちょうじょう】は霧【きり】に包【つつ】まれていました。",
+    "meaning": "The mountaintop was enveloped in mist."
+  },
+  {
+    "sentence": "運転中に濃い霧に遭遇し、スピードを落としました。",
+    "sentence_furigana": "運転中【うんてんちゅう】に濃【こ】い霧【きり】に遭遇【そうぐう】し、スピードを落【お】としました。",
+    "meaning": "I encountered dense fog while driving and slowed down."
+  },
+  {
+    "sentence": "霧笛の音がかすかに聞こえてきた。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】がかすかに聞【き】こえてきた。",
+    "meaning": "The sound of the foghorn could be faintly heard."
+  },
+  {
+    "sentence": "霧雨がしとしとと降り続いていた。",
+    "sentence_furigana": "霧雨【きりさめ】がしとしとと降【ふ】り続【つづ】いていた。",
+    "meaning": "A light mist continued to fall steadily."
+  },
+  {
+    "sentence": "深い霧の向こうに、人の姿が見えた。",
+    "sentence_furigana": "深【ふか】い霧【きり】の向【む】こうに、人【ひと】の姿【すがた】が見【み】えた。",
+    "meaning": "A human figure was visible beyond the deep fog."
+  },
+  {
+    "sentence": "霧が晴れて、素晴らしい景色が現れた。",
+    "sentence_furigana": "霧【きり】が晴【は】れて、素晴【すば】らしい景色【けしき】が現【あらわ】れた。",
+    "meaning": "The fog cleared, and a wonderful view appeared."
+  },
+  {
+    "sentence": "海からの湿った風が霧を運んできた。",
+    "sentence_furigana": "海【うみ】からの湿【しめ】った風【かぜ】が霧【きり】を運【はこ】んできた。",
+    "meaning": "The damp wind from the sea brought the mist."
+  },
+  {
+    "sentence": "この地域は冬になるとよく霧が発生する。",
+    "sentence_furigana": "この地域【ちいき】は冬【ふゆ】になるとよく霧【きり】が発生【はっせい】する。",
+    "meaning": "Fog often occurs in this region during winter."
+  },
+  {
+    "sentence": "霧の中を歩いていると、自分がどこにいるのかわからなくなった。",
+    "sentence_furigana": "霧【きり】の中【なか】を歩【ある】いていると、自分【じぶん】がどこにいるのかわからなくなった。",
+    "meaning": "Walking in the fog, I lost track of where I was."
+  },
+  {
+    "sentence": "霧に覆われた森は神秘的だった。",
+    "sentence_furigana": "霧【きり】に覆【おお】われた森【もり】は神秘的【しんぴてき】だった。",
+    "meaning": "The forest, covered in mist, was mysterious."
+  },
+  {
+    "sentence": "霧がかかっていたので、遠くの山が見えなかった。",
+    "sentence_furigana": "霧【きり】がかかっていたので、遠【とお】くの山【やま】が見【み】えなかった。",
+    "meaning": "Because it was foggy, the distant mountains were not visible."
+  },
+  {
+    "sentence": "霧が地面に低く垂れ込めている。",
+    "sentence_furigana": "霧【きり】が地面【じめん】に低【ひく】く垂【た】れ込【こ】めている。",
+    "meaning": "The fog hangs low over the ground."
+  },
+  {
+    "sentence": "霧笛が霧の深さを物語っている。",
+    "sentence_furigana": "霧笛【むてき】が霧【きり】の深【ふか】さを物語【ものがた】っている。",
+    "meaning": "The foghorn speaks of the depth of the fog."
+  },
+  {
+    "sentence": "朝霧が海面から立ち昇っていた。",
+    "sentence_furigana": "朝霧【あさぎり】が海面【かいめん】から立【た】ち昇【のぼ】っていた。",
+    "meaning": "Morning mist was rising from the sea surface."
+  },
+  {
+    "sentence": "霧の中に浮かぶ灯台の光。",
+    "sentence_furigana": "霧【きり】の中【なか】に浮【う】かぶ灯台【とうだい】の光【ひかり】。",
+    "meaning": "The light of the lighthouse floating in the fog."
+  },
+  {
+    "sentence": "霧のせいで船の出港が遅れた。",
+    "sentence_furigana": "霧【きり】のせいで船【ふね】の出港【しゅっこう】が遅【おく】れた。",
+    "meaning": "The ship's departure was delayed due to the fog."
+  },
+  {
+    "sentence": "霧島という名前は霧がかかる山々に由来する。",
+    "sentence_furigana": "霧島【きりしま】という名前【なまえ】は霧【きり】がかかる山々【やまやま】に由来【ゆらい】する。",
+    "meaning": "The name Kirishima originates from mountains that are covered in mist."
+  },
+  {
+    "sentence": "霧氷が付いた木々が朝日を浴びて輝いていた。",
+    "sentence_furigana": "霧氷【むひょう】が付【つ】いた木々【きぎ】が朝日【あさひ】を浴【あ】びて輝【かがや】いていた。",
+    "meaning": "The trees covered in ice fog were shining in the morning sun."
+  },
+  {
+    "sentence": "霧がかかり、幻想的な風景を作り出していた。",
+    "sentence_furigana": "霧【きり】がかかり、幻想的【げんそうてき】な風景【ふうけい】を作【つく】り出【だ】していた。",
+    "meaning": "The fog created a fantastical landscape."
+  },
+  {
+    "sentence": "霧笛がかすかに聞こえる港。",
+    "sentence_furigana": "霧笛【むてき】がかすかに聞【き】こえる港【みなと】。",
+    "meaning": "A port where the foghorn can be faintly heard."
+  },
+  {
+    "sentence": "霧が視界を遮り、不安を感じた。",
+    "sentence_furigana": "霧【きり】が視界【しかい】を遮【さえぎ】り、不安【ふあん】を感【かん】じた。",
+    "meaning": "The fog blocked my view, and I felt uneasy."
+  },
+  {
+    "sentence": "この峠は年間を通じて霧が多い。",
+    "sentence_furigana": "この峠【とうげ】は年間【ねんかん】を通じて【つうじ】て霧【きり】が多【おお】い。",
+    "meaning": "This mountain pass has a lot of fog throughout the year."
+  },
+  {
+    "sentence": "霧に濡れた草木がきらきらと光っていた。",
+    "sentence_furigana": "霧【きり】に濡【ぬ】れた草木【くさき】がきらきらと光【ひか】っていた。",
+    "meaning": "The plants and trees wet with mist were sparkling."
+  },
+  {
+    "sentence": "霧の立ち込める湖畔を散歩した。",
+    "sentence_furigana": "霧【きり】の立【た】ち込【こ】める湖畔【こはん】を散歩【さんぽ】した。",
+    "meaning": "I took a walk along the misty lakeside."
+  },
+  {
+    "sentence": "霧がかかると、街並みがぼんやりとして見える。",
+    "sentence_furigana": "霧【きり】がかかると、街並【まちな】みがぼんやりとして見【み】える。",
+    "meaning": "When fog rolls in, the townscape looks hazy."
+  },
+  {
+    "sentence": "濃い霧で交通規制が敷かれた。",
+    "sentence_furigana": "濃【こ】い霧【きり】で交通規制【こうつうきせい】が敷【し】かれた。",
+    "meaning": "Traffic restrictions were put in place due to the dense fog."
+  },
+  {
+    "sentence": "霧がゆっくりと山を越えてきた。",
+    "sentence_furigana": "霧【きり】がゆっくりと山【やま】を越【こ】えてきた。",
+    "meaning": "The fog slowly came over the mountain."
+  },
+  {
+    "sentence": "霧の中の飛行機の音は遠くからでも聞こえた。",
+    "sentence_furigana": "霧【きり】の中【なか】の飛行機【ひこうき】の音【おと】は遠【とお】くからでも聞【き】こえた。",
+    "meaning": "The sound of the airplane in the fog could be heard even from a distance."
+  },
+  {
+    "sentence": "霧笛の音は航海の安全を守るために鳴らされる。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】は航海【こうかい】の安全【あんぜん】を守【まも】るために鳴【な】らされる。",
+    "meaning": "The sound of the foghorn is sounded to ensure safe navigation."
+  },
+  {
+    "sentence": "霧が晴れた瞬間、山の全貌が現れた。",
+    "sentence_furigana": "霧【きり】が晴【は】れた瞬間【しゅんかん】、山【やま】の全貌【ぜんぼう】が現【あらわ】れた。",
+    "meaning": "The moment the fog cleared, the entire mountain appeared."
+  },
+  {
+    "sentence": "霧雨の降る日には、傘が手放せない。",
+    "sentence_furigana": "霧雨【きりさめ】の降【ふ】る日【ひ】には、傘【かさ】が手放【てはな】せない。",
+    "meaning": "On days with mist rain, an umbrella is indispensable."
+  },
+  {
+    "sentence": "霧のカーテンが景色を覆い隠していた。",
+    "sentence_furigana": "霧【きり】のカーテンが景色【けしき】を覆【おお】い隠【かく】していた。",
+    "meaning": "A curtain of fog hid the scenery."
+  },
+  {
+    "sentence": "霧笛が断続的に鳴り響いていた。",
+    "sentence_furigana": "霧笛【むてき】が断続的【だんぞくてき】に鳴【な】り響【ひび】いていた。",
+    "meaning": "The foghorn sounded intermittently."
+  },
+  {
+    "sentence": "霧の中を歩くと、時間の感覚が麻痺するようだ。",
+    "sentence_furigana": "霧【きり】の中【なか】を歩【ある】くと、時間【じかん】の感覚【かんかく】が麻痺【まひ】するようだ。",
+    "meaning": "Walking in the fog seems to numb the sense of time."
+  },
+  {
+    "sentence": "霧島連山は霧に覆われやすい。",
+    "sentence_furigana": "霧島連山【きりしまれんざん】は霧【きり】に覆【おお】われやすい。",
+    "meaning": "The Kirishima mountain range is prone to being covered by fog."
+  },
+  {
+    "sentence": "霧が海上に浮かぶ船影をぼんやりとさせた。",
+    "sentence_furigana": "霧【きり】が海上【かいじょう】に浮【う】かぶ船影【ふなえい】をぼんやりとさせた。",
+    "meaning": "The fog made the silhouettes of ships on the sea hazy."
+  },
+  {
+    "sentence": "霧島温泉郷は霧深いことで知られている。",
+    "sentence_furigana": "霧島温泉郷【きりしまおんせんきょう】は霧深【きりぶか】いことで知【し】られている。",
+    "meaning": "Kirishima Onsenkyo is known for its deep fog."
+  },
+  {
+    "sentence": "霧の発生は気温と湿度に左右される。",
+    "sentence_furigana": "霧【きり】の発生【はっせい】は気温【きおん】と湿度【しつど】に左右【さゆう】される。",
+    "meaning": "The occurrence of fog depends on temperature and humidity."
+  },
+  {
+    "sentence": "霧の中では、音は遠くまで伝わりにくい。",
+    "sentence_furigana": "霧【きり】の中【なか】では、音【おと】は遠【とお】くまで伝【つた】わりにくい。",
+    "meaning": "In the fog, sound does not travel far."
+  },
+  {
+    "sentence": "霧吹きで植物に水をかけた。",
+    "sentence_furigana": "霧吹【きりふ】きで植物【しょくぶつ】に水【みず】をかけた。",
+    "meaning": "I sprayed water on the plants with a mister."
+  },
+  {
+    "sentence": "霧笛の音が海上に響き渡った。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】が海上に【かいじょうに】響【ひび】き渡【わた】った。",
+    "meaning": "The sound of the foghorn echoed across the sea."
+  },
+  {
+    "sentence": "霧の濃い朝は、幻想的な雰囲気が漂う。",
+    "sentence_furigana": "霧【きり】の濃【こ】い朝【あさ】は、幻想的【げんそうてき】な雰囲気【ふんいき】が漂【ただよ】う。",
+    "meaning": "On foggy mornings, a mystical atmosphere prevails."
+  },
+  {
+    "sentence": "霧の山道は運転に注意が必要だ。",
+    "sentence_furigana": "霧【きり】の山道【やまみち】は運転【うんてん】に注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Caution is required when driving on foggy mountain roads."
+  },
+  {
+    "sentence": "霧がかかった山を背景に、鳥が飛んでいた。",
+    "sentence_furigana": "霧【きり】がかかった山【やま】を背景【はいけい】に、鳥【とり】が飛【と】んでいた。",
+    "meaning": "A bird was flying against the backdrop of a fog-covered mountain."
+  },
+  {
+    "sentence": "霧笛の音は、この港のシンボルでもある。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】は、この港【みなと】のシンボルでもある。",
+    "meaning": "The sound of the foghorn is also a symbol of this port."
+  },
+  {
+    "sentence": "霧に閉ざされた世界に入り込んだような気分だった。",
+    "sentence_furigana": "霧【きり】に閉【と】ざされた世界【せかい】に入【はい】り込【こ】んだような気分【きぶん】だった。",
+    "meaning": "It felt like I had entered a world sealed off by fog."
+  },
+  {
+    "sentence": "霧島氏は、霧深い山奥に住んでいたという伝説がある。",
+    "sentence_furigana": "霧島氏【きりしまし】は、霧深【きりぶか】い山奥【やまおく】に住【す】んでいたという伝説【でんせつ】がある。",
+    "meaning": "There is a legend that Mr. Kirishima lived deep in the misty mountains."
+  },
+  {
+    "sentence": "霧の中、羊の群れが道をゆっくりと歩いていた。",
+    "sentence_furigana": "霧【きり】の中【なか】、羊【ひつじ】の群【む】れが道【みち】をゆっくりと歩【ある】いていた。",
+    "meaning": "In the fog, a flock of sheep slowly walked along the road."
+  },
+  {
+    "sentence": "霧島神宮は霧に包まれることが多い。",
+    "sentence_furigana": "霧島神宮【きりしまじんぐう】は霧【きり】に包【つつ】まれることが多い【おお】い。",
+    "meaning": "Kirishima Shrine is often enveloped in fog."
+  },
+  {
+    "sentence": "霧の発生は、気象条件によって大きく異なる。",
+    "sentence_furigana": "霧【きり】の発生【はっせい】は、気象条件【きしょうじょうけん】によって大【おお】きく異【こと】なる。",
+    "meaning": "Fog formation varies greatly depending on weather conditions."
+  },
+  {
+    "sentence": "霧笛が霧を切り裂くように鳴った。",
+    "sentence_furigana": "霧笛【むてき】が霧【きり】を切【き】り裂【さ】くように鳴【な】った。",
+    "meaning": "The foghorn sounded as if cutting through the fog."
+  },
+  {
+    "sentence": "霧の中に消えていく船を見送った。",
+    "sentence_furigana": "霧【きり】の中【なか】に消【き】えていく船【ふね】を見送【みおく】った。",
+    "meaning": "I watched the ship disappear into the fog."
+  },
+  {
+    "sentence": "霧が出ているので、早めに帰宅することにした。",
+    "sentence_furigana": "霧【きり】が出【で】ているので、早【はや】めに帰宅【きたく】することにした。",
+    "meaning": "Since it was foggy, I decided to return home early."
+  },
+  {
+    "sentence": "霧氷が木々の枝にびっしりと付着していた。",
+    "sentence_furigana": "霧氷【むひょう】が木々【きぎ】の枝【えだ】にびっしりと付着【ふちゃく】していた。",
+    "meaning": "Ice fog was densely attached to the branches of the trees."
+  },
+  {
+    "sentence": "霧に濡れて、髪がしっとりとしてきた。",
+    "sentence_furigana": "霧【きり】に濡【ぬ】れて、髪【かみ】がしっとりとしてきた。",
+    "meaning": "My hair became damp from the mist."
+  },
+  {
+    "sentence": "霧笛の音がかすかに聞こえる、夜の海。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】がかすかに聞【き】こえる、夜【よる】の海【うみ】。",
+    "meaning": "The sound of the foghorn can be faintly heard on the night sea."
+  },
+  {
+    "sentence": "霧がかかっていても、道しるべがあれば進める。",
+    "sentence_furigana": "霧【きり】がかかっていても、道しるべがあれば進【すす】める。",
+    "meaning": "Even if it's foggy, you can proceed if there are signposts."
+  },
+  {
+    "sentence": "霧の中に佇む古い灯台。",
+    "sentence_furigana": "霧【きり】の中【なか】に佇【たたず】む古【ふる】い灯台【とうだい】。",
+    "meaning": "An old lighthouse standing in the fog."
+  },
+  {
+    "sentence": "霧雨の中、人影はまばらだった。",
+    "sentence_furigana": "霧雨【きりさめ】の中【なか】、人影【ひとかげ】はまばらだった。",
+    "meaning": "In the mist rain, there were few people."
+  },
+  {
+    "sentence": "霧深い谷間を越えるのは難しい。",
+    "sentence_furigana": "霧深【きりぶか】い谷間【たにま】を越【こ】えるのは難【むずか】しい。",
+    "meaning": "It is difficult to cross a deep, foggy valley."
+  },
+  {
+    "sentence": "霧が太陽を遮り、昼間でも薄暗かった。",
+    "sentence_furigana": "霧【きり】が太陽【たいよう】を遮【さえぎ】り、昼間【ひるま】でも薄暗【うすぐら】かった。",
+    "meaning": "The fog blocked the sun, making it dim even during the day."
+  },
+  {
+    "sentence": "霧笛の音が、霧の深さを物語るかのようだった。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】が、霧【きり】の深【ふか】さを物語【ものがた】るかのようだった。",
+    "meaning": "The sound of the foghorn seemed to tell of the depth of the fog."
+  },
+  {
+    "sentence": "霧がかかることで、風景は一層趣深く見える。",
+    "sentence_furigana": "霧【きり】がかかることで、風景【ふうけい】は一層【いっそう】趣深【おもむきぶか】く見【み】える。",
+    "meaning": "By being covered in fog, the scenery looks even more charming."
+  },
+  {
+    "sentence": "霧笛の音は、遠くの船にも聞こえるように工夫されている。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】は、遠【とお】くの船【ふね】にも聞【き】こえるように工夫【くふう】されている。",
+    "meaning": "The sound of the foghorn is designed to be heard by distant ships as well."
+  },
+  {
+    "sentence": "霧のトンネルを抜けると、青空が広がっていた。",
+    "sentence_furigana": "霧【きり】のトンネルを抜【ぬ】けると、青空【あおぞら】が広【ひろ】がっていた。",
+    "meaning": "When we passed through the tunnel of fog, the blue sky spread out."
+  },
+  {
+    "sentence": "霧島は、その美しい自然景観で知られる。",
+    "sentence_furigana": "霧島【きりしま】は、その美【うつく】しい自然景観【しぜんけいかん】で知【し】られる。",
+    "meaning": "Kirishima is known for its beautiful natural scenery."
+  },
+  {
+    "sentence": "霧雨が窓ガラスを濡らしていた。",
+    "sentence_furigana": "霧雨【きりさめ】が窓ガラス【まどがらす】を濡【ぬ】らしていた。",
+    "meaning": "Misty rain was wetting the windowpane."
+  },
+  {
+    "sentence": "霧笛の音を聞くと、故郷を思い出す。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】を聞【き】くと、故郷【こきょう】を思【おも】い出【だ】す。",
+    "meaning": "Hearing the sound of the foghorn reminds me of my hometown."
+  },
+  {
+    "sentence": "霧のせいで、船は港に停泊したままだった。",
+    "sentence_furigana": "霧【きり】のせいで、船【ふね】は港【みなと】に停泊【ていはく】したままだった。",
+    "meaning": "The ship remained anchored in the port due to the fog."
+  },
+  {
+    "sentence": "霧が深い朝は、一層注意して運転する必要がある。",
+    "sentence_furigana": "霧【きり】が深【ふか】い朝【あさ】は、一層【いっそう】注意【ちゅうい】して運転【うんてん】する必要【ひつよう】がある。",
+    "meaning": "On foggy mornings, it is necessary to drive with extra caution."
+  },
+  {
+    "sentence": "霧笛の音は、霧の中の道標となる。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】は、霧【きり】の中【なか】の道標【みちしるべ】となる。",
+    "meaning": "The sound of the foghorn serves as a guide in the fog."
+  },
+  {
+    "sentence": "霧の切れ間から、陽の光が差し込んできた。",
+    "sentence_furigana": "霧【きり】の切【き】れ間【ま】から、陽【ひ】の光【ひかり】が差【さ】し込【こ】んできた。",
+    "meaning": "Sunlight streamed through a gap in the fog."
+  },
+  {
+    "sentence": "霧雨が降り続く中、公園を散策した。",
+    "sentence_furigana": "霧雨【きりさめ】が降【ふ】り続【つづ】く中【なか】、公園【こうえん】を散策【さんさく】した。",
+    "meaning": "I strolled through the park amidst continuing mist rain."
+  },
+  {
+    "sentence": "霧笛の音が、寂しげに響いていた。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】が、寂【さび】しげに響【ひび】いていた。",
+    "meaning": "The sound of the foghorn echoed mournfully."
+  },
+  {
+    "sentence": "霧が立ち込めて、景色が一変した。",
+    "sentence_furigana": "霧【きり】が立【た】ち込【こ】めて、景色【けしき】が一変【いっぺん】した。",
+    "meaning": "The scenery changed completely as fog rolled in."
+  },
+  {
+    "sentence": "霧の多い地域では、特殊な信号機が設置されている。",
+    "sentence_furigana": "霧【きり】の多【おお】い地域【ちいき】では、特殊【とくしゅ】な信号機【しんごうき】が設置【せっち】されている。",
+    "meaning": "Special traffic lights are installed in areas with heavy fog."
+  },
+  {
+    "sentence": "霧笛が低い音で鳴り続けた。",
+    "sentence_furigana": "霧笛【むてき】が低【ひく】い音【おと】で鳴り続【なりつづ】けた。",
+    "meaning": "The foghorn continued to sound with a low note."
+  },
+  {
+    "sentence": "霧で覆われた世界は、静寂に包まれていた。",
+    "sentence_furigana": "霧【きり】で覆【おお】われた世界【せかい】は、静寂【せいじゃく】に包【つつ】まれていた。",
+    "meaning": "The world covered in fog was wrapped in silence."
+  },
+  {
+    "sentence": "霧島神宮の周辺は、霧が発生しやすい場所だ。",
+    "sentence_furigana": "霧島神宮【きりしまじんぐう】の周辺【しゅうへん】は、霧【きり】が発生【はっせい】しやすい場所【ばしょ】だ。",
+    "meaning": "The area around Kirishima Shrine is prone to fog."
+  },
+  {
+    "sentence": "霧の発生により、航空便に遅延が出ている。",
+    "sentence_furigana": "霧【きり】の発生【はっせい】により、航空便【こうくうびん】に遅延【ちえん】が出【で】ている。",
+    "meaning": "There are delays in flights due to the occurrence of fog."
+  },
+  {
+    "sentence": "霧笛の音が、航海の安全を告げていた。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】が、航海【こうかい】の安全【あんぜん】を告【つ】げていた。",
+    "meaning": "The sound of the foghorn announced the safety of navigation."
+  },
+  {
+    "sentence": "霧の切れ目から見える景色は、まるで絵画のようだった。",
+    "sentence_furigana": "霧【きり】の切【き】れ目【め】から見【み】える景色【けしき】は、まるで絵画【かいが】のようだった。",
+    "meaning": "The scenery visible from the breaks in the fog was like a painting."
+  },
+  {
+    "sentence": "霧雨が肌に優しく触れた。",
+    "sentence_furigana": "霧雨【きりさめ】が肌【はだ】に優【やさ】しく触【ふ】れた。",
+    "meaning": "The misty rain gently touched my skin."
+  },
+  {
+    "sentence": "霧笛の音は、霧の中での希望の光だ。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】は、霧【きり】の中【なか】での希望【きぼう】の光【ひかり】だ。",
+    "meaning": "The sound of the foghorn is a ray of hope in the fog."
+  },
+  {
+    "sentence": "霧が深いと、自然の音が一層際立つ。",
+    "sentence_furigana": "霧【きり】が深【ふか】いと、自然【しぜん】の音【おと】が一層【いっそう】際立【きわだ】つ。",
+    "meaning": "When the fog is thick, the sounds of nature stand out even more."
+  },
+  {
+    "sentence": "霧笛の音が、水平線の彼方から聞こえてくる。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】が、水平線【すいへいせん】の彼方【かなた】から聞【き】こえてくる。",
+    "meaning": "The sound of the foghorn is coming from beyond the horizon."
+  },
+  {
+    "sentence": "霧がかかった朝は、空気が澄んでいて気持ちがいい。",
+    "sentence_furigana": "霧【きり】がかかった朝【あさ】は、空気【くうき】が澄【す】んでいて気持【きも】ちがいい。",
+    "meaning": "On foggy mornings, the air is clear and feels good."
+  },
+  {
+    "sentence": "霧雨の中、傘を差して歩く人々。",
+    "sentence_furigana": "霧雨【きりさめ】の中【なか】、傘【かさ】を差【さ】して歩【ある】く人々【ひとびと】。",
+    "meaning": "People walking with umbrellas in the mist rain."
+  },
+  {
+    "sentence": "霧笛の音に耳を澄ませた。",
+    "sentence_furigana": "霧笛【むてき】の音【おと】に耳【みみ】を澄【す】ませた。",
+    "meaning": "I strained my ears to hear the sound of the foghorn."
+  },
+  {
+    "sentence": "霧が立ち込め、視界は数メートルに限られていた。",
+    "sentence_furigana": "霧【きり】が立【た】ち込【こ】め、視界【しかい】は数メートル【すうめーとる】に限【かぎ】られていた。",
+    "meaning": "The fog had set in, and visibility was limited to a few meters."
+  }
+]

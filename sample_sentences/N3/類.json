@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "この動物は哺乳類の仲間です。",
+    "sentence_furigana": "この動物【どうぶつ】は哺乳類【ほにゅうるい】の仲間【なかま】です。",
+    "meaning": "This animal is a member of the mammal class."
+  },
+  {
+    "sentence": "衣類はすべて洗濯機で洗えます。",
+    "sentence_furigana": "衣類【いるい】はすべて洗濯機【せんたくき】で洗【あら】えます。",
+    "meaning": "All clothing can be washed in the washing machine."
+  },
+  {
+    "sentence": "彼は様々な種類の果物を食べた。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の果物【くだもの】を食【た】べた。",
+    "meaning": "He ate various kinds of fruit."
+  },
+  {
+    "sentence": "類似点が多いので、兄弟だと思う。",
+    "sentence_furigana": "類似点【るいじてん】が多【おお】いので、兄弟【きょうだい】だと同【おも】う。",
+    "meaning": "There are many similarities, so I think they are brothers."
+  },
+  {
+    "sentence": "この本はあらゆる種類の人々に人気がある。",
+    "sentence_furigana": "この本【ほん】はあらゆる種類【しゅるい】の人々【ひとびと】に人気【にんき】がある。",
+    "meaning": "This book is popular with all sorts of people."
+  },
+  {
+    "sentence": "書類を整理する。",
+    "sentence_furigana": "書類【しょるい】を整理【せいり】する。",
+    "meaning": "Organize the documents."
+  },
+  {
+    "sentence": "多くの類語がある。",
+    "sentence_furigana": "多【おお】くの類語【るいご】がある。",
+    "meaning": "There are many synonyms."
+  },
+  {
+    "sentence": "危険なものを類推してはいけない。",
+    "sentence_furigana": "危険【きけん】なものを類推【るいすい】してはいけない。",
+    "meaning": "You should not infer dangerous things."
+  },
+  {
+    "sentence": "彼は学者の類に属する。",
+    "sentence_furigana": "彼【かれ】は学者【がくしゃ】の類【たぐ】いに属【ぞく】する。",
+    "meaning": "He belongs to the scholar class."
+  },
+  {
+    "sentence": "それらは同じ種類に属している。",
+    "sentence_furigana": "それらは同【おな】じ種類【しゅるい】に属【ぞく】している。",
+    "meaning": "They belong to the same class."
+  },
+  {
+    "sentence": "人間は社会的な類である。",
+    "sentence_furigana": "人間【にんげん】は社会【しゃかい】的【てき】な類【たぐ】いである。",
+    "meaning": "Humans are social beings."
+  },
+  {
+    "sentence": "この問題の類例をいくつか挙げてください。",
+    "sentence_furigana": "この問題【もんだい】の類例【るいれい】をいくつか挙【あ】げてください。",
+    "meaning": "Please give some examples of this problem."
+  },
+  {
+    "sentence": "彼は類稀なる才能の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は類稀【たぐいまれ】なる才能【さいのう】の持【も】ち主【ぬし】だ。",
+    "meaning": "He possesses extraordinary talent."
+  },
+  {
+    "sentence": "類は友を呼ぶという。",
+    "sentence_furigana": "類【たぐい】は友【とも】を呼【よ】ぶという。",
+    "meaning": "Birds of a feather flock together, as they say."
+  },
+  {
+    "sentence": "これは前例のない類のものだ。",
+    "sentence_furigana": "これは前例【ぜんれい】のない類【たぐ】いのものだ。",
+    "meaning": "This is something unprecedented."
+  },
+  {
+    "sentence": "書類を分類する。",
+    "sentence_furigana": "書類【しょるい】を分類【ぶんるい】する。",
+    "meaning": "Classify the documents."
+  },
+  {
+    "sentence": "彼は様々な種類の音楽を聴く。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の音楽【おんがく】を聴【き】く。",
+    "meaning": "He listens to various kinds of music."
+  },
+  {
+    "sentence": "この病気は伝染性の類です。",
+    "sentence_furigana": "この病気【びょうき】は伝染性【でんせんせい】の類【たぐ】いです。",
+    "meaning": "This disease is contagious."
+  },
+  {
+    "sentence": "衣類を洗濯する。",
+    "sentence_furigana": "衣類【いるい】を洗濯【せんたく】する。",
+    "meaning": "Wash the clothes."
+  },
+  {
+    "sentence": "この二つの品物は類同している。",
+    "sentence_furigana": "この二【ふた】つの品物【しなもの】は類同【るいどう】している。",
+    "meaning": "These two items are similar."
+  },
+  {
+    "sentence": "彼は類推の能力が高い。",
+    "sentence_furigana": "彼【かれ】は類推【るいすい】の能力【のうりょく】が高【たか】い。",
+    "meaning": "He has a high ability for analogy."
+  },
+  {
+    "sentence": "同じ類に属する。",
+    "sentence_furigana": "同【おな】じ類【たぐ】いに属【ぞく】する。",
+    "meaning": "Belong to the same kind."
+  },
+  {
+    "sentence": "人類は知的な類である。",
+    "sentence_furigana": "人類【じんるい】は知性【ちせい】的【てき】な類【たぐ】いである。",
+    "meaning": "Mankind is an intelligent species."
+  },
+  {
+    "sentence": "彼は多くの書類を扱っている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの書類【しょるい】を扱【あつか】っている。",
+    "meaning": "He handles many documents."
+  },
+  {
+    "sentence": "この種の植物は珍しい。",
+    "sentence_furigana": "この種【しゅ】の植物【しょくぶつ】は珍【めずら】しい。",
+    "meaning": "This kind of plant is rare."
+  },
+  {
+    "sentence": "類推で答えないでください。",
+    "sentence_furigana": "類推【るいすい】で答【こた】えないでください。",
+    "meaning": "Please do not answer by analogy."
+  },
+  {
+    "sentence": "彼の行動は類を見ない。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は類【たぐ】いを見【み】ない。",
+    "meaning": "His actions are unparalleled."
+  },
+  {
+    "sentence": "衣服の種類を学ぶ。",
+    "sentence_furigana": "衣服【いふく】の種類【しゅるい】を学【まな】ぶ。",
+    "meaning": "Learn about types of clothing."
+  },
+  {
+    "sentence": "類縁関係を調べる。",
+    "sentence_furigana": "類縁関係【るいえんかんけい】を調【しら】べる。",
+    "meaning": "Investigate the kinship."
+  },
+  {
+    "sentence": "この現象は類推できる。",
+    "sentence_furigana": "この現象【げんしょう】は類推【るいすい】できる。",
+    "meaning": "This phenomenon can be inferred."
+  },
+  {
+    "sentence": "彼は類まれな指導者だ。",
+    "sentence_furigana": "彼【かれ】は類まれ【たぐいまれ】な指導者【しどうしゃ】だ。",
+    "meaning": "He is an extraordinary leader."
+  },
+  {
+    "sentence": "その物語は多くの類話がある。",
+    "sentence_furigana": "その物語【ものがたり】は多【おお】くの類話【るいわ】がある。",
+    "meaning": "That story has many parallels."
+  },
+  {
+    "sentence": "私たちは同じクラスに属している。",
+    "sentence_furigana": "私【わたし】たちは同【おな】じクラスに属【ぞく】している。",
+    "meaning": "We belong to the same class."
+  },
+  {
+    "sentence": "書類を種類別に分ける。",
+    "sentence_furigana": "書類【しょるい】を種類【しゅるい】別【べつ】に分【わ】ける。",
+    "meaning": "Sort the documents by type."
+  },
+  {
+    "sentence": "彼は様々な類型の文章を書く。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な類型【るいけい】の文章【ぶんしょう】を書【か】く。",
+    "meaning": "He writes various types of essays."
+  },
+  {
+    "sentence": "類書を探す。",
+    "sentence_furigana": "類書【るいしょ】を探【さが】す。",
+    "meaning": "Look for similar books."
+  },
+  {
+    "sentence": "これは新しい種類の菌類だ。",
+    "sentence_furigana": "これは新【あたら】しい種類【しゅるい】の菌類【きんるい】だ。",
+    "meaning": "This is a new type of fungus."
+  },
+  {
+    "sentence": "彼の類まれな才能は賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の類まれ【たぐいまれ】な才能【さいのう】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His extraordinary talent is worthy of praise."
+  },
+  {
+    "sentence": "彼はあらゆる種類の動物に詳しい。",
+    "sentence_furigana": "彼【かれ】はあらゆる種類【しゅるい】の動物【どうぶつ】に詳【くわ】しい。",
+    "meaning": "He is knowledgeable about all kinds of animals."
+  },
+  {
+    "sentence": "類推によって発見に至った。",
+    "sentence_furigana": "類推【るいすい】によって発見【はっけん】に至【いた】った。",
+    "meaning": "The discovery was made through analogy."
+  },
+  {
+    "sentence": "衣類をきれいにたたむ。",
+    "sentence_furigana": "衣類【いるい】をきれいにたたむ。",
+    "meaning": "Fold the clothes neatly."
+  },
+  {
+    "sentence": "この植物の類には毒がある。",
+    "sentence_furigana": "この植物【しょくぶつ】の類【たぐ】いには毒【どく】がある。",
+    "meaning": "This kind of plant is poisonous."
+  },
+  {
+    "sentence": "彼は類の少ない人物だ。",
+    "sentence_furigana": "彼【かれ】は類【たぐ】いの少【すく】ない人物【じんぶつ】だ。",
+    "meaning": "He is a man of few peers."
+  },
+  {
+    "sentence": "書類をファイリングする。",
+    "sentence_furigana": "書類【しょるい】をファイリングする。",
+    "meaning": "File the documents."
+  },
+  {
+    "sentence": "類似品に注意してください。",
+    "sentence_furigana": "類似品【るいじひん】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of imitation products."
+  },
+  {
+    "sentence": "彼は人間という類に属する。",
+    "sentence_furigana": "彼【かれ】は人間【にんげん】という類【たぐ】いに属【ぞく】する。",
+    "meaning": "He belongs to the human species."
+  },
+  {
+    "sentence": "これは非常に珍しい種類の鳥だ。",
+    "sentence_furigana": "これは非常【ひじょう】に珍【めずら】しい種類【しゅるい】の鳥【とり】だ。",
+    "meaning": "This is a very rare type of bird."
+  },
+  {
+    "sentence": "類焼を防ぐ。",
+    "sentence_furigana": "類焼【るいしょう】を防【ふせ】ぐ。",
+    "meaning": "Prevent conflagration."
+  },
+  {
+    "sentence": "彼らは同じクラスの人間だ。",
+    "sentence_furigana": "彼【かれ】らは同【おな】じクラスの人間【にんげん】だ。",
+    "meaning": "They are people of the same class."
+  },
+  {
+    "sentence": "この種の昆虫は夜行性です。",
+    "sentence_furigana": "この種【しゅ】の昆虫【こんちゅう】は夜行性【やこうせい】です。",
+    "meaning": "This kind of insect is nocturnal."
+  },
+  {
+    "sentence": "彼は類を見ないほどの博識家だ。",
+    "sentence_furigana": "彼【かれ】は類【たぐ】いを見【み】ないほどの大博識【だいはくしき】家【か】だ。",
+    "meaning": "He is an incredibly knowledgeable person."
+  },
+  {
+    "sentence": "この類の本は多くあります。",
+    "sentence_furigana": "この類【たぐ】いの本【ほん】は多【おお】くあります。",
+    "meaning": "There are many books of this kind."
+  },
+  {
+    "sentence": "書類をきちんと整理する。",
+    "sentence_furigana": "書類【しょるい】をきちんと整理【せいり】する。",
+    "meaning": "Organize the documents properly."
+  },
+  {
+    "sentence": "彼は類まれな努力家だ。",
+    "sentence_furigana": "彼【かれ】は類まれ【たぐいまれ】な努力家【どりょくか】だ。",
+    "meaning": "He is an exceptionally hardworking person."
+  },
+  {
+    "sentence": "この類いの問題は初めてだ。",
+    "sentence_furigana": "この類【たぐ】いの問題【もんだい】は初【はじ】めてだ。",
+    "meaning": "This is the first time I've encountered this kind of problem."
+  },
+  {
+    "sentence": "彼は類推を使って問題を解決した。",
+    "sentence_furigana": "彼【かれ】は類推【るいすい】を使【つか】って問題【もんだい】を解決【かいけつ】した。",
+    "meaning": "He solved the problem using analogy."
+  },
+  {
+    "sentence": "多くの類縁種が発見された。",
+    "sentence_furigana": "多【おお】くの類縁種【るいえんしゅ】が発見【はっけん】された。",
+    "meaning": "Many related species were discovered."
+  },
+  {
+    "sentence": "この衣服は洗濯機で洗える。",
+    "sentence_furigana": "この衣服【いふく】は洗濯機【せんたくき】で洗【あら】える。",
+    "meaning": "These clothes can be washed in a washing machine."
+  },
+  {
+    "sentence": "彼は類人猿の進化について研究している。",
+    "sentence_furigana": "彼【かれ】は類人猿【るいじんるい】の進化【しんか】について研究【けんきゅう】している。",
+    "meaning": "He is researching the evolution of apes."
+  },
+  {
+    "sentence": "この分類は適切だ。",
+    "sentence_furigana": "この分類【ぶんるい】は適切【てきせつ】だ。",
+    "meaning": "This classification is appropriate."
+  },
+  {
+    "sentence": "彼は異なる種類の仕事をしている。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる種類【しゅるい】の仕事【しごと】をしている。",
+    "meaning": "He does different kinds of work."
+  },
+  {
+    "sentence": "書類の整理を頼む。",
+    "sentence_furigana": "書類【しょるい】の整理【せいり】を頼【たの】む。",
+    "meaning": "Please organize the documents."
+  },
+  {
+    "sentence": "この類いの話はよく聞く。",
+    "sentence_furigana": "この類【たぐ】いの話【はなし】はよく聞【き】く。",
+    "meaning": "I often hear stories of this kind."
+  },
+  {
+    "sentence": "彼は類まれな冒険家です。",
+    "sentence_furigana": "彼【かれ】は類まれ【たぐいまれ】な冒険家【ぼうけんか】です。",
+    "meaning": "He is an unparalleled adventurer."
+  },
+  {
+    "sentence": "彼は様々な種類の言語を話す。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の言語【げんご】を話【はな】す。",
+    "meaning": "He speaks various kinds of languages."
+  },
+  {
+    "sentence": "この書類は機密の種類です。",
+    "sentence_furigana": "この書類【しょるい】は機密【きみつ】の種類【しゅるい】です。",
+    "meaning": "These documents are of a confidential nature."
+  },
+  {
+    "sentence": "彼女は類まれな美しさを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は類まれ【たぐいまれ】な美【うつく】しさを持【も】っている。",
+    "meaning": "She possesses unparalleled beauty."
+  },
+  {
+    "sentence": "この類いの機械は高価です。",
+    "sentence_furigana": "この類【たぐ】いの機械【きかい】は高価【こうか】です。",
+    "meaning": "Machines of this kind are expensive."
+  },
+  {
+    "sentence": "彼は類推に頼る傾向がある。",
+    "sentence_furigana": "彼【かれ】は類推【るいすい】に頼【たよ】る傾向【けいこう】がある。",
+    "meaning": "He tends to rely on analogy."
+  },
+  {
+    "sentence": "この分類方法は有効だ。",
+    "sentence_furigana": "この分類方法【ぶんるいほうほう】は有効【ゆうこう】だ。",
+    "meaning": "This classification method is effective."
+  },
+  {
+    "sentence": "衣類をアイロンがけする。",
+    "sentence_furigana": "衣類【いるい】にアイロンがけする。",
+    "meaning": "Iron the clothes."
+  },
+  {
+    "sentence": "彼は同じ種類の人間ではない。",
+    "sentence_furigana": "彼【かれ】は同【おな】じ種類【しゅるい】の人間【にんげん】ではない。",
+    "meaning": "He is not the same kind of person."
+  },
+  {
+    "sentence": "この問題には類例が少ない。",
+    "sentence_furigana": "この問題【もんだい】には類例【るいれい】が少【すく】ない。",
+    "meaning": "There are few precedents for this problem."
+  },
+  {
+    "sentence": "彼は類まれな直感力を持っている。",
+    "sentence_furigana": "彼【かれ】は類まれ【たぐいまれ】な直感力【ちょっかんりょく】を持【も】っている。",
+    "meaning": "He has an extraordinary intuition."
+  },
+  {
+    "sentence": "この書類は重要度の類が違う。",
+    "sentence_furigana": "この書類【しょるい】は重要度【じゅうようど】の類【たぐ】いが違【ちが】う。",
+    "meaning": "These documents are of a different level of importance."
+  },
+  {
+    "sentence": "彼は類推によって多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は類推【るいすい】によって多【おお】くのことを学【まな】んだ。",
+    "meaning": "He learned many things through analogy."
+  },
+  {
+    "sentence": "この種類の楽器はあまり知られていない。",
+    "sentence_furigana": "この種類【しゅるい】の楽器【がっき】はあまり知【し】られていない。",
+    "meaning": "This kind of musical instrument is not well known."
+  },
+  {
+    "sentence": "彼は類まれな歌唱力を持っている。",
+    "sentence_furigana": "彼【かれ】は類まれ【たぐいまれ】な歌唱力【かしょうりょく】を持【も】っている。",
+    "meaning": "He has an extraordinary singing ability."
+  },
+  {
+    "sentence": "この種の魚は深海に生息する。",
+    "sentence_furigana": "この種【しゅ】の魚【さかな】は深海【しんかい】に生息【せいそく】する。",
+    "meaning": "This kind of fish lives in the deep sea."
+  },
+  {
+    "sentence": "彼はあらゆる種類の困難を乗り越えた。",
+    "sentence_furigana": "彼【かれ】はあらゆる種類【しゅるい】の困難【こんなん】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame all kinds of difficulties."
+  },
+  {
+    "sentence": "この書類は別の種類に分類される。",
+    "sentence_furigana": "この書類【しょるい】は別【べつ】の種類【しゅるい】に分類【ぶんるい】される。",
+    "meaning": "These documents are classified into a different category."
+  },
+  {
+    "sentence": "彼は類稀なリーダーシップを発揮した。",
+    "sentence_furigana": "彼【かれ】は類稀【たぐいまれ】なリーダーシップを発揮【はっき】した。",
+    "meaning": "He demonstrated extraordinary leadership."
+  },
+  {
+    "sentence": "この類の話は創作です。",
+    "sentence_furigana": "この類【たぐ】いの話【はなし】は創作【そうさく】です。",
+    "meaning": "Stories of this kind are fictional."
+  },
+  {
+    "sentence": "彼は類推でしか答えられなかった。",
+    "sentence_furigana": "彼【かれ】は類推【るいすい】でしか答【こた】えられなかった。",
+    "meaning": "He could only answer by analogy."
+  },
+  {
+    "sentence": "この分類は最新のものだ。",
+    "sentence_furigana": "この分類【ぶんるい】は最新【さいしん】のものだ。",
+    "meaning": "This classification is the latest."
+  },
+  {
+    "sentence": "衣類を寄付する。",
+    "sentence_furigana": "衣類【いるい】を寄付【きふ】する。",
+    "meaning": "Donate clothing."
+  },
+  {
+    "sentence": "この種の人間は信用できない。",
+    "sentence_furigana": "この種【しゅ】の人間【にんげん】は信用【しんよう】できない。",
+    "meaning": "People of this kind cannot be trusted."
+  },
+  {
+    "sentence": "彼は類まれな記憶力を持っている。",
+    "sentence_furigana": "彼【かれ】は類まれ【たぐいまれ】な記憶力【きおく りょく】を持【も】っている。",
+    "meaning": "He has an extraordinary memory."
+  },
+  {
+    "sentence": "この書類は機密の種類に含まれる。",
+    "sentence_furigana": "この書類【しょるい】は機密【きみつ】の種類【しゅるい】に含ま【ふく】まれる。",
+    "meaning": "These documents fall under the category of confidential."
+  },
+  {
+    "sentence": "彼は類を見ないほどの努力家だ。",
+    "sentence_furigana": "彼【かれ】は類【たぐ】いを見【み】ないほどの努力家【どりょくか】だ。",
+    "meaning": "He is an exceptionally hardworking person."
+  },
+  {
+    "sentence": "この種の石は貴重だ。",
+    "sentence_furigana": "この種【しゅ】の石【いし】は貴重【きちょう】だ。",
+    "meaning": "This kind of stone is valuable."
+  },
+  {
+    "sentence": "彼は類推の達人だ。",
+    "sentence_furigana": "彼【かれ】は類推【るいすい】の達人【たつじん】だ。",
+    "meaning": "He is a master of analogy."
+  },
+  {
+    "sentence": "この分類は妥当である。",
+    "sentence_furigana": "この分類【ぶんるい】は妥当【だとう】である。",
+    "meaning": "This classification is valid."
+  },
+  {
+    "sentence": "彼らは皆、同じ類に属していた。",
+    "sentence_furigana": "彼【かれ】らは皆【みな】、同【おな】じ類【たぐ】いに属【ぞく】していた。",
+    "meaning": "They all belonged to the same class."
+  },
+  {
+    "sentence": "この病気の類例を教えてください。",
+    "sentence_furigana": "この病気【びょうき】の類例【るいれい】を教【おし】えてください。",
+    "meaning": "Please tell me about similar cases of this illness."
+  },
+  {
+    "sentence": "彼は類稀な才能で成功した。",
+    "sentence_furigana": "彼【かれ】は類稀【たぐいまれ】な才能【さいのう】で成功【せいこう】した。",
+    "meaning": "He succeeded with his extraordinary talent."
+  }
+]

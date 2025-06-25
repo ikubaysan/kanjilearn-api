@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "医者は患者を注意深く看た。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】を注意深【ちゅういぶか】く看【み】た。",
+    "meaning": "The doctor watched the patient carefully."
+  },
+  {
+    "sentence": "彼女は子供たちを愛情深く看ている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちを愛情深【あいじょうぶか】く看【み】ている。",
+    "meaning": "She watches over her children with love."
+  },
+  {
+    "sentence": "彼は病気の母を懸命に看病した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の母【はは】を懸命【けんめい】に看【み】た。",
+    "meaning": "He desperately nursed his sick mother."
+  },
+  {
+    "sentence": "看守は囚人たちを監視した。",
+    "sentence_furigana": "看守【かんしゅ】は囚人【しゅうじん】たちを監視【かんし】した。",
+    "meaning": "The guard watched the prisoners."
+  },
+  {
+    "sentence": "その絵は見る者に深い感動を与えた。",
+    "sentence_furigana": "その絵【え】は見る【み】者【もの】に深【ふか】い感動【かんどう】を与【あた】えた。",
+    "meaning": "The painting deeply moved the viewer."
+  },
+  {
+    "sentence": "彼は自分の目で真実を見た。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の目【め】で真実【しんじつ】を見た【み】。",
+    "meaning": "He saw the truth with his own eyes."
+  },
+  {
+    "sentence": "この映画は多くの人に視聴されている。",
+    "sentence_furigana": "この映画【えいが】は多【おお】くの人【ひと】に視聴【しちょう】されている。",
+    "meaning": "This movie is being watched by many people."
+  },
+  {
+    "sentence": "彼女の今後の活躍を見守りたい。",
+    "sentence_furigana": "彼女【かのじょ】の今後【こんご】の活躍【かつやく】を見守【みまも】りたい。",
+    "meaning": "I want to watch over her future success."
+  },
+  {
+    "sentence": "彼は病床にある友人を看舞った。",
+    "sentence_furigana": "彼【かれ】は病床【びょうしょう】にある友人【ゆうじん】を看【み】舞った【まった】。",
+    "meaning": "He visited his friend who was in bed."
+  },
+  {
+    "sentence": "子供たちが外で遊ぶのを見ている。",
+    "sentence_furigana": "子供【こども】たちが外【そと】で遊【あそ】ぶのを見【み】ている。",
+    "meaning": "I am watching the children play outside."
+  },
+  {
+    "sentence": "彼は静かに状況を看ていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに状況【じょうきょう】を看【み】ていた。",
+    "meaning": "He was calmly observing the situation."
+  },
+  {
+    "sentence": "この作品は多くの批評家の注目を看た。",
+    "sentence_furigana": "この作品【さくひん】は多【おお】くの批評家【ひひょうか】の注目【ちゅうもく】を看【み】た。",
+    "meaning": "This work caught the attention of many critics."
+  },
+  {
+    "sentence": "彼女は祖母の介護をしながら、自分のキャリアも追求している。",
+    "sentence_furigana": "彼女【かのじょ】は祖母【そぼ】の介護【かいご】をしながら、自分【じぶん】のキャリアも追求【ついきゅう】している。",
+    "meaning": "She is pursuing her career while taking care of her grandmother."
+  },
+  {
+    "sentence": "彼は病院で怪我人を看た。",
+    "sentence_furigana": "彼【かれ】は病院【びょういん】で怪我人【けがにん】を看【み】た。",
+    "meaning": "He attended to the injured person at the hospital."
+  },
+  {
+    "sentence": "私たちは未来を見据えて計画を立てるべきだ。",
+    "sentence_furigana": "私【わたし】たちは未来【みらい】を見据【みす】えて計画【けいかく】を立【た】てるべきだ。",
+    "meaning": "We should plan looking towards the future."
+  },
+  {
+    "sentence": "彼は親の遺産を管理している。",
+    "sentence_furigana": "彼【かれ】は親【おや】の遺産【いさん】を管理【かんり】している。",
+    "meaning": "He is managing his parents' inheritance."
+  },
+  {
+    "sentence": "彼女は新しいビジネスの成功を見守っている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいビジネスの成功【せいこう】を見守【みまも】っている。",
+    "meaning": "She is watching over the success of the new business."
+  },
+  {
+    "sentence": "彼は将来を楽観的に見ている。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】を楽観的【らっかんてき】に看【み】ている。",
+    "meaning": "He has an optimistic view of the future."
+  },
+  {
+    "sentence": "その医師は患者の容態を注意深く観察した。",
+    "sentence_furigana": "その医師【いし】は患者【かんじゃ】の容態【ようだい】を注意深【ちゅういぶか】く観察【かんさつ】した。",
+    "meaning": "The doctor carefully observed the patient's condition."
+  },
+  {
+    "sentence": "彼は新しい技術の進歩を見ている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】の進歩【しんぽ】を見【み】ている。",
+    "meaning": "He is watching the progress of new technology."
+  },
+  {
+    "sentence": "彼女は祖父の古い写真をじっと見ていた。",
+    "sentence_furigana": "彼女【かのじょ】は祖父【そふ】の古【ふる】い写真【しゃしん】をじっと見【み】ていた。",
+    "meaning": "She was staring at her grandfather's old photos."
+  },
+  {
+    "sentence": "彼は自分の成長を自覚している。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の成長【せいちょう】を自覚【じかく】している。",
+    "meaning": "He is aware of his own growth."
+  },
+  {
+    "sentence": "この物語は多くの読者の心を捉えた。",
+    "sentence_furigana": "この物語【ものがた】りは多【おお】くの読者【どくしゃ】の心【こころ】を捉【とら】えた。",
+    "meaning": "This story captured the hearts of many readers."
+  },
+  {
+    "sentence": "彼は遠くの景色を眺めていた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】くの景色【けしき】を眺【なが】めていた。",
+    "meaning": "He was gazing at the distant scenery."
+  },
+  {
+    "sentence": "彼女は子供の無邪気な笑顔を見て微笑んだ。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の無邪気【むじゃき】な笑顔【えがお】を見【み】て微笑【ほほえ】んだ。",
+    "meaning": "She smiled seeing the child's innocent smile."
+  },
+  {
+    "sentence": "私たちは歴史を学ぶことで未来を理解できる。",
+    "sentence_furigana": "私【わたし】たちは歴史【れきし】を学【まな】ぶことで未来【みらい】を理解【りかい】できる。",
+    "meaning": "By studying history, we can understand the future."
+  },
+  {
+    "sentence": "彼は病人の看護に専念した。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】の看護【かんご】に専念【せんねん】した。",
+    "meaning": "He dedicated himself to nursing the sick."
+  },
+  {
+    "sentence": "彼女は自分のアイデアを実現しようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】のアイデアを実現【じつげん】しようとしている。",
+    "meaning": "She is trying to realize her own ideas."
+  },
+  {
+    "sentence": "彼は裁判官の判決を注意深く聞いた。",
+    "sentence_furigana": "彼【かれ】は裁判官【さいばんかん】の判決【はんけつ】を注意深【ちゅういぶか】く聞【き】いた。",
+    "meaning": "He listened carefully to the judge's verdict."
+  },
+  {
+    "sentence": "この施設は高齢者を看るためのものです。",
+    "sentence_furigana": "この施設【しせつ】は高齢者【こうれいしゃ】を看【み】るためのものです。",
+    "meaning": "This facility is for looking after the elderly."
+  },
+  {
+    "sentence": "彼女は試験の結果を待っている。",
+    "sentence_furigana": "彼女【かのじょ】は試験【しけん】の結果【けっか】を待【ま】っている。",
+    "meaning": "She is waiting for the test results."
+  },
+  {
+    "sentence": "彼は遠くからその光景を見ていた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】くからその光景【こうけい】を見【み】ていた。",
+    "meaning": "He was watching the scene from afar."
+  },
+  {
+    "sentence": "私たちは未来の世代のために環境を守る必要がある。",
+    "sentence_furigana": "私【わたし】たちは未来【みらい】の世代【せだい】のために環境【かんきょう】を守【まも】る必要【ひつよう】がある。",
+    "meaning": "We need to protect the environment for future generations."
+  },
+  {
+    "sentence": "彼女は困難な状況でも希望を見失わなかった。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を見失【みうしな】わなかった。",
+    "meaning": "She did not lose hope even in difficult circumstances."
+  },
+  {
+    "sentence": "彼は観客の反応を見た。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】の反応【はんのう】を見た【み】。",
+    "meaning": "He saw the audience's reaction."
+  },
+  {
+    "sentence": "彼女は自分の過ちを深く反省した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の過ち【あやまち】を深【ふか】く反省【はんせい】した。",
+    "meaning": "She deeply reflected on her mistakes."
+  },
+  {
+    "sentence": "彼は患者の苦痛を和らげるために最善を尽くした。",
+    "sentence_furigana": "彼【かれ】は患者【かんじゃ】の苦痛【くつう】を和【やわ】らげるために最善【さいぜん】を尽【つ】くした。",
+    "meaning": "He did his best to alleviate the patient's suffering."
+  },
+  {
+    "sentence": "彼女は子供の将来を見守ることを誓った。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の将来【しょうらい】を見守【みまも】ることを誓【ちか】った。",
+    "meaning": "She vowed to watch over her child's future."
+  },
+  {
+    "sentence": "彼は芸術作品の細部をじっくり見た。",
+    "sentence_furigana": "彼【かれ】は芸術作品【げいじゅつさくひん】の細部【さいぶ】をじっくり見【み】た。",
+    "meaning": "He looked closely at the details of the artwork."
+  },
+  {
+    "sentence": "彼女は遠い故郷を思い出していた。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い故郷【こきょう】を思【おも】い出【だ】していた。",
+    "meaning": "She was remembering her distant hometown."
+  },
+  {
+    "sentence": "彼は新しいビジネスの動向を注意深く観察している。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいビジネスの動向【どうこう】を注意深【ちゅういぶか】く観察【かんさつ】している。",
+    "meaning": "He is closely observing the trends in the new business."
+  },
+  {
+    "sentence": "この家は長年空き家になっている。",
+    "sentence_furigana": "この家【いえ】は長年【ながねん】空【あ】き家【や】になっている。",
+    "meaning": "This house has been vacant for many years."
+  },
+  {
+    "sentence": "彼女は自分の進むべき道を見据えている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の進【すす】むべき道【みち】を見据【みす】えている。",
+    "meaning": "She is looking towards the path she should take."
+  },
+  {
+    "sentence": "彼は静かに夜空を見上げていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに夜空【よぞら】を見上【みあ】げていた。",
+    "meaning": "He was quietly looking up at the night sky."
+  },
+  {
+    "sentence": "彼女は試験の準備を万全に行った。",
+    "sentence_furigana": "彼女【かのじょ】は試験【しけん】の準備【じゅんび】を万全【ばんぜん】に行【おこな】った。",
+    "meaning": "She made thorough preparations for the exam."
+  },
+  {
+    "sentence": "彼は患者の状態を医師に報告した。",
+    "sentence_furigana": "彼【かれ】は患者【かんじゃ】の状態【じょうたい】を医師【いし】に報告【ほうこく】した。",
+    "meaning": "He reported the patient's condition to the doctor."
+  },
+  {
+    "sentence": "彼女は自分の子供たちを誇りに思っている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の子供【こども】たちを誇【ほこ】りに思【おも】っている。",
+    "meaning": "She is proud of her children."
+  },
+  {
+    "sentence": "彼は古い友人と再会した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い友人【ゆうじん】と再会【さいかい】した。",
+    "meaning": "He met an old friend again."
+  },
+  {
+    "sentence": "この劇は観客に深い感銘を与えた。",
+    "sentence_furigana": "この劇【げき】は観客【かんきゃく】に深【ふか】い感銘【かんめい】を与【あた】えた。",
+    "meaning": "This play deeply impressed the audience."
+  },
+  {
+    "sentence": "彼女は自分の人生を振り返っている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の人生【じんせい】を振【ふ】り返【かえ】っている。",
+    "meaning": "She is looking back on her life."
+  },
+  {
+    "sentence": "彼は病気を克服するために努力した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】を克服【こくふく】するために努力【どりょく】した。",
+    "meaning": "He strove to overcome his illness."
+  },
+  {
+    "sentence": "彼女は未来の可能性を見ている。",
+    "sentence_furigana": "彼女【かのじょ】は未来【みらい】の可能性【かのうせい】を見【み】ている。",
+    "meaning": "She is seeing the possibilities of the future."
+  },
+  {
+    "sentence": "彼は事件の真相を究明しようとしている。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の真相【しんそう】を究明【きゅうめい】しようとしている。",
+    "meaning": "He is trying to investigate the truth of the incident."
+  },
+  {
+    "sentence": "彼女は子供の成長を温かく見守っている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の成長【せいちょう】を温【あたた】かく見守【みまも】っている。",
+    "meaning": "She is warmly watching over her child's growth."
+  },
+  {
+    "sentence": "彼は静かに部屋を見回した。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに部屋【へや】を見回【みまわ】した。",
+    "meaning": "He quietly looked around the room."
+  },
+  {
+    "sentence": "彼女は遠くの山々を眺めていた。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】くの山々【やまやま】を眺【なが】めていた。",
+    "meaning": "She was gazing at the distant mountains."
+  },
+  {
+    "sentence": "彼は新しい政策の実施を見守っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい政策【せいさく】の実施【じっし】を見守【みまも】っている。",
+    "meaning": "He is watching over the implementation of the new policy."
+  },
+  {
+    "sentence": "このニュースは多くの人々の注目を集めた。",
+    "sentence_furigana": "このニュースは多【おお】くの人々【ひとびと】の注目【ちゅうもく】を集【あつ】めた。",
+    "meaning": "This news attracted the attention of many people."
+  },
+  {
+    "sentence": "彼女は自分の人生の目的を見つけようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の人生【じんせい】の目的【もくてき】を見【み】つけようとしている。",
+    "meaning": "She is trying to find the purpose of her life."
+  },
+  {
+    "sentence": "彼は病気の家族を献身的に看病した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の家族【かぞく】を献身【けんしん】的【てき】に看【み】た。",
+    "meaning": "He devotedly nursed his sick family members."
+  },
+  {
+    "sentence": "彼女は子供たちの安全を見守っています。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの安全【あんぜん】を見守【みまも】っています。",
+    "meaning": "She is watching over the safety of her children."
+  },
+  {
+    "sentence": "彼は困難な状況でも希望を見出して前に進んだ。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を見出【みいだ】して前【まえ】に進【すす】んだ。",
+    "meaning": "He found hope and moved forward even in difficult circumstances."
+  },
+  {
+    "sentence": "彼女は試験に合格できると信じている。",
+    "sentence_furigana": "彼女【かのじょ】は試験【しけん】に合格【ごうかく】できると信【しん】じている。",
+    "meaning": "She believes she can pass the exam."
+  },
+  {
+    "sentence": "彼は静かに窓の外を見ていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに窓【まど】の外【そと】を見【み】ていた。",
+    "meaning": "He was quietly looking out the window."
+  },
+  {
+    "sentence": "彼女は祖母の回復を祈りながら見守った。",
+    "sentence_furigana": "彼女【かのじょ】は祖母【そぼ】の回復【かいふく】を祈【いの】りながら見守【みまも】った。",
+    "meaning": "She watched over her grandmother, praying for her recovery."
+  },
+  {
+    "sentence": "彼は自分の考えを明確に述べた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えを明確【めいかく】に述【の】べた。",
+    "meaning": "He clearly stated his thoughts."
+  },
+  {
+    "sentence": "彼女はこの状況を冷静に見つめている。",
+    "sentence_furigana": "彼女【かのじょ】はこ【この】状況【じょうきょう】を冷静【れいせい】に見つ【みつ】めている。",
+    "meaning": "She is calmly observing this situation."
+  },
+  {
+    "sentence": "彼は歴史的な建造物を見た。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な建造物【けんぞうぶつ】を見【み】た。",
+    "meaning": "He saw the historical building."
+  },
+  {
+    "sentence": "彼女は子供の成長を毎日見守っている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の成長【せいちょう】を毎日【まいにち】見守【みまも】っている。",
+    "meaning": "She watches over her child's growth every day."
+  },
+  {
+    "sentence": "彼は遠くの灯台を見つめていた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】くの灯台【とうだい】を見つ【みつ】めていた。",
+    "meaning": "He was gazing at the distant lighthouse."
+  },
+  {
+    "sentence": "彼女は自分の夢を実現するために努力を続けた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の夢【ゆめ】を実現【じつげん】するために努力【どりょく】を続【つづ】けた。",
+    "meaning": "She continued to strive to achieve her dream."
+  },
+  {
+    "sentence": "彼は病気の妻を献身的に看護した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の妻【つま】を献身【けんしん】的【てき】に看護【かんご】した。",
+    "meaning": "He devotedly nursed his sick wife."
+  },
+  {
+    "sentence": "彼女は子供の将来を明るく見ている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の将来【しょうらい】を明【あか】るく見【み】ている。",
+    "meaning": "She sees a bright future for her children."
+  },
+  {
+    "sentence": "彼は静かにテーブルの上を見た。",
+    "sentence_furigana": "彼【かれ】は静【しず】かにテーブルの上【うえ】を見【み】た。",
+    "meaning": "He quietly looked at the table."
+  },
+  {
+    "sentence": "彼女は病気の母のために祈った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の母【はは】のために祈【いの】った。",
+    "meaning": "She prayed for her sick mother."
+  },
+  {
+    "sentence": "彼は遠くの星を眺めた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】くの星【ほし】を眺【なが】めた。",
+    "meaning": "He gazed at the distant stars."
+  },
+  {
+    "sentence": "彼女は子供たちの健やかな成長を見守りたい。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの健【すこ】やかな成長【せいちょう】を見守【みまも】りたい。",
+    "meaning": "She wants to watch over her children's healthy growth."
+  },
+  {
+    "sentence": "彼は会社の将来を見据えて新しい事業を始めた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の将来【しょうらい】を見据【みす】えて新【あら】しい事業【じぎょう】を始【はじ】めた。",
+    "meaning": "He started a new business looking towards the company's future."
+  },
+  {
+    "sentence": "彼女は自分の進歩を評価している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の進歩【しんぽ】を評価【ひょうか】している。",
+    "meaning": "She is evaluating her own progress."
+  },
+  {
+    "sentence": "彼は病人のそばに寄り添い、励ました。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】のそばに寄【よ】り添【そ】い、励【はげ】ました。",
+    "meaning": "He stayed by the sick person's side and encouraged them."
+  },
+  {
+    "sentence": "彼女は子供たちの将来を案じている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの将来【しょうらい】を案【あん】じている。",
+    "meaning": "She is worried about her children's future."
+  },
+  {
+    "sentence": "彼は静かに本を読んでいる。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに本【ほん】を読【よ】んでいる。",
+    "meaning": "He is quietly reading a book."
+  },
+  {
+    "sentence": "彼女は自分の人生の経験を活かしている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の人生【じんせい】の経験【けいけん】を活【い】かしている。",
+    "meaning": "She is utilizing her life experiences."
+  },
+  {
+    "sentence": "彼は祖母の健康状態を心配していた。",
+    "sentence_furigana": "彼【かれ】は祖母【そぼ】の健康状態【けんこうじょうたい】を心配【しんぱい】していた。",
+    "meaning": "He was worried about his grandmother's health."
+  },
+  {
+    "sentence": "彼女は未来に希望を抱いている。",
+    "sentence_furigana": "彼女【かのじょ】は未来【みらい】に希望【きぼう】を抱【いだ】いている。",
+    "meaning": "She holds hope for the future."
+  },
+  {
+    "sentence": "彼は静かに庭の手入れをしていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに庭【にわ】の手入【てい】れをしていた。",
+    "meaning": "He was quietly tending to the garden."
+  },
+  {
+    "sentence": "彼女は子供たちの未来を見据えて教育に力を入れている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの未来【みらい】を見据【みす】えて教育【きょういく】に力【ちから】を入【い】れている。",
+    "meaning": "She is focusing on education, looking towards her children's future."
+  },
+  {
+    "sentence": "彼は病状の改善を見守っている。",
+    "sentence_furigana": "彼【かれ】は病状【びょうじょう】の改善【かいぜん】を見守【みまも】っている。",
+    "meaning": "He is watching over the improvement of the medical condition."
+  },
+  {
+    "sentence": "彼女は自分の将来設計を立てている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の将来設計【しょうらいせっけい】を立【た】てている。",
+    "meaning": "She is making plans for her future."
+  },
+  {
+    "sentence": "彼は病人を温かく見守った。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】を温【あたた】かく見守【みまも】った。",
+    "meaning": "He watched over the sick person warmly."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトの進捗を見ている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいプロジェクトの進捗【しんちょく】を見【み】ている。",
+    "meaning": "She is watching the progress of the new project."
+  },
+  {
+    "sentence": "彼は子供たちの無邪気な様子を見て微笑んだ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちの無邪気【むじゃき】な様子【ようす】を見【み】て微笑【ほほえ】んだ。",
+    "meaning": "He smiled seeing the children's innocent demeanor."
+  },
+  {
+    "sentence": "彼女は自分の才能を見極めようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の才能【さいのう】を見極【みきわ】めようとしている。",
+    "meaning": "She is trying to discern her talent."
+  },
+  {
+    "sentence": "彼は静かに座って考え事をしていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに座【すわ】って考【かんが】え事【ごと】をしていた。",
+    "meaning": "He was sitting quietly and thinking."
+  },
+  {
+    "sentence": "彼女は祖父母の思い出を大切にしている。",
+    "sentence_furigana": "彼女【かのじょ】は祖父母【そふぼ】の思【おも】い出【で】を大切【たいせつ】にしている。",
+    "meaning": "She cherishes the memories of her grandparents."
+  },
+  {
+    "sentence": "彼は遠くの山並みを眺めた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】くの山並【やまなら】みを眺【なが】めた。",
+    "meaning": "He gazed at the distant mountain ranges."
+  },
+  {
+    "sentence": "彼女は自分の健康状態を注意深く管理している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の健康状態【けんこうじょうたい】を注意深【ちゅういぶか】く管理【かんり】している。",
+    "meaning": "She is carefully managing her health."
+  },
+  {
+    "sentence": "彼は静かに景色を眺めていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに景色【けしき】を眺【なが】めていた。",
+    "meaning": "He was quietly gazing at the scenery."
+  },
+  {
+    "sentence": "彼女は子供たちの未来に希望を託した。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの未来【みらい】に希望【きぼう】を託【たく】した。",
+    "meaning": "She entrusted her hopes to her children's future."
+  },
+  {
+    "sentence": "彼は会社の将来を見据え、新しい戦略を立てた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の将来【しょうらい】を見据【みす】え、新【あら】しい戦略【せんりゃく】を立【た】てた。",
+    "meaning": "He looked towards the company's future and devised a new strategy."
+  },
+  {
+    "sentence": "彼女は自分の人生を大切に生きている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の人生【じんせい】を大切【たいせつ】に生【い】きている。",
+    "meaning": "She is living her life with care."
+  },
+  {
+    "sentence": "彼は静かにその状況を見ていた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かにその状況【じょうきょう】を見【み】ていた。",
+    "meaning": "He was quietly watching the situation."
+  },
+  {
+    "sentence": "彼女は自分の考えを正確に伝えることができた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の考【かんが】えを正確【せいかく】に伝【つた】えることができた。",
+    "meaning": "She was able to accurately convey her thoughts."
+  },
+  {
+    "sentence": "彼は病人を優しく看た。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】を優【やさ】しく看【み】た。",
+    "meaning": "He kindly attended to the sick person."
+  }
+]

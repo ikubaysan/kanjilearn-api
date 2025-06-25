@@ -1,0 +1,406 @@
+[
+  {
+    "sentence": "その都市は衰退の一途をたどった。",
+    "sentence_furigana": "その都市【とし】は衰退【すいたい】の一途【いっと】をたどった。",
+    "meaning": "The city went into a downward spiral."
+  },
+  {
+    "sentence": "彼は不良行為に堕ちた。",
+    "sentence_furigana": "彼【かれ】は不良行為【ふりょうこうい】に堕【お】ちた。",
+    "meaning": "He fell into delinquent behavior."
+  },
+  {
+    "sentence": "人としての道を踏み外さないように注意してください。",
+    "sentence_furigana": "人【ひと】としての道【みち】を踏【ふ】み外【はず】さないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to stray from the path of humanity."
+  },
+  {
+    "sentence": "彼の計画は失敗に終わった。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は失敗【しっぱい】に終【お】わった。",
+    "meaning": "His plan ended in failure."
+  },
+  {
+    "sentence": "社会の道徳観は堕落している。",
+    "sentence_furigana": "社会【しゃかい】の道徳観【どうとくかん】は堕落【だらく】している。",
+    "meaning": "Societal morals have degenerated."
+  },
+  {
+    "sentence": "その芸術家はスランプに陥った。",
+    "sentence_furigana": "その芸術家【げいじゅつか】はスランプに陥【お】ちいった。",
+    "meaning": "The artist fell into a slump."
+  },
+  {
+    "sentence": "彼は罪に堕ちてしまった。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】に堕【お】ちてしまった。",
+    "meaning": "He fell into sin."
+  },
+  {
+    "sentence": "その文化は失われつつある。",
+    "sentence_furigana": "その文化【ぶんか】は失【うしな】われつつある。",
+    "meaning": "That culture is being lost."
+  },
+  {
+    "sentence": "彼女は深い悲しみに沈んだ。",
+    "sentence_furigana": "彼女【かのじょ】は深【ふか】い悲【かな】しみに沈【しず】んだ。",
+    "meaning": "She sank into deep sorrow."
+  },
+  {
+    "sentence": "彼は怠惰な生活を送っている。",
+    "sentence_furigana": "彼【かれ】は怠惰【たいだ】な生活【せいかつ】を送【おく】っている。",
+    "meaning": "He leads a lazy life."
+  },
+  {
+    "sentence": "そのプロジェクトは頓挫した。",
+    "sentence_furigana": "そのプロジェクトは頓挫【とんざ】した。",
+    "meaning": "The project stalled."
+  },
+  {
+    "sentence": "彼は悪の道に堕ちた。",
+    "sentence_furigana": "彼【かれ】は悪【あく】の道【みち】に堕【お】ちた。",
+    "meaning": "He fell into the path of evil."
+  },
+  {
+    "sentence": "時代の流れでその習慣は廃れた。",
+    "sentence_furigana": "時代【じだい】の流【なが】れでその習慣【しゅうかん】は廃【すた】れた。",
+    "meaning": "The custom fell into disuse with the times."
+  },
+  {
+    "sentence": "彼は道徳的に堕落した。",
+    "sentence_furigana": "彼【かれ】は道徳的【どうとくてき】に堕落【だらく】した。",
+    "meaning": "He degenerated morally."
+  },
+  {
+    "sentence": "その技術は陳腐化した。",
+    "sentence_furigana": "その技術【ぎじゅつ】は陳腐化【ちんぷか】した。",
+    "meaning": "The technology became obsolete."
+  },
+  {
+    "sentence": "彼女は絶望に打ちひしがれた。",
+    "sentence_furigana": "彼女【かのじょ】は絶望【ぜつぼう】に打【う】ちひしがれた。",
+    "meaning": "She was crushed by despair."
+  },
+  {
+    "sentence": "多くの伝統が失われつつある。",
+    "sentence_furigana": "多【おお】くの伝統【でんとう】が失【うしな】われつつある。",
+    "meaning": "Many traditions are being lost."
+  },
+  {
+    "sentence": "彼は悪徳に染まった。",
+    "sentence_furigana": "彼【かれ】は悪徳【あくとく】に染【そ】まった。",
+    "meaning": "He became stained with vice."
+  },
+  {
+    "sentence": "その思想は世間から忘れ去られた。",
+    "sentence_furigana": "その思想【しそう】は世間【せけん】から忘【わす】れ去【さ】られた。",
+    "meaning": "The idea was forgotten by the world."
+  },
+  {
+    "sentence": "彼は人生のどん底に落ちた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】のどん底【ぞこ】に落【お】ちた。",
+    "meaning": "He hit rock bottom in his life."
+  },
+  {
+    "sentence": "文明は次第に衰退していく。",
+    "sentence_furigana": "文明【ぶんめい】は次第【しだい】に衰退【すいたい】していく。",
+    "meaning": "Civilization is gradually declining."
+  },
+  {
+    "sentence": "彼は堕落した考え方を持っている。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】した考【かんが】え方【かた】を持【も】っている。",
+    "meaning": "He has a degenerate way of thinking."
+  },
+  {
+    "sentence": "その制度は形骸化した。",
+    "sentence_furigana": "その制度【せいど】は形骸化【けいがいか】した。",
+    "meaning": "The system became a mere formality."
+  },
+  {
+    "sentence": "彼は約束を破ってしまった。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を破【やぶ】ってしまった。",
+    "meaning": "He broke his promise."
+  },
+  {
+    "sentence": "その法律は時代遅れになった。",
+    "sentence_furigana": "その法律【ほうりつ】は時代遅【じだいお】くれになった。",
+    "meaning": "The law became outdated."
+  },
+  {
+    "sentence": "彼は堕ちる寸前だった。",
+    "sentence_furigana": "彼【かれ】は堕【お】ちる寸前【すんぜん】だった。",
+    "meaning": "He was on the verge of falling."
+  },
+  {
+    "sentence": "その記録は失効した。",
+    "sentence_furigana": "その記録【きろく】は失効【しっこう】した。",
+    "meaning": "The record expired."
+  },
+  {
+    "sentence": "彼は堕落の道を選んだ。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】の道【みち】を選【えら】んだ。",
+    "meaning": "He chose the path of degeneration."
+  },
+  {
+    "sentence": "その習慣は廃れてしまった。",
+    "sentence_furigana": "その習慣【しゅうかん】は廃【すた】れてしまった。",
+    "meaning": "The custom fell into disuse."
+  },
+  {
+    "sentence": "彼は過去の栄光にすがっていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】にすがっていた。",
+    "meaning": "He clung to past glories."
+  },
+  {
+    "sentence": "その方針は形骸化していた。",
+    "sentence_furigana": "その方針【ほうしん】は形骸化【けいがいか】していた。",
+    "meaning": "The policy had become a mere formality."
+  },
+  {
+    "sentence": "彼は堕落した生活を送っていた。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】した生活【せいかつ】を送【おく】っていた。",
+    "meaning": "He was leading a degenerate life."
+  },
+  {
+    "sentence": "その計画は失敗に終わると予測された。",
+    "sentence_furigana": "その計画【けいかく】は失敗【しっぱい】に終【お】わると予測【よそく】された。",
+    "meaning": "The plan was predicted to end in failure."
+  },
+  {
+    "sentence": "彼は悪の道に足を踏み入れた。",
+    "sentence_furigana": "彼【かれ】は悪【あく】の道【みち】に足【あし】を踏【ふ】み入【い】れた。",
+    "meaning": "He stepped onto the path of evil."
+  },
+  {
+    "sentence": "その伝統は失われつつある。",
+    "sentence_furigana": "その伝統【でんとう】は失【うしな】われつつある。",
+    "meaning": "That tradition is being lost."
+  },
+  {
+    "sentence": "彼は堕落の淵に沈んだ。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】の淵【ふち】に沈【しず】んだ。",
+    "meaning": "He sank into the abyss of degeneration."
+  },
+  {
+    "sentence": "その法律は廃止された。",
+    "sentence_furigana": "その法律【ほうりつ】は廃止【はいし】された。",
+    "meaning": "The law was abolished."
+  },
+  {
+    "sentence": "彼は怠惰に身を任せた。",
+    "sentence_furigana": "彼【かれ】は怠惰【たいだ】に身【み】を任【まか】せた。",
+    "meaning": "He surrendered himself to laziness."
+  },
+  {
+    "sentence": "文明の衰退は避けられないのか。",
+    "sentence_furigana": "文明【ぶんめい】の衰退【すいたい】は避【さ】けられないのか。",
+    "meaning": "Is the decline of civilization unavoidable?"
+  },
+  {
+    "sentence": "彼は堕ちていく自分を止められなかった。",
+    "sentence_furigana": "彼【かれ】は堕【お】ちていく自分【じぶん】を止【と】められなかった。",
+    "meaning": "He couldn't stop himself from falling."
+  },
+  {
+    "sentence": "その社会規範はもはや通用しない。",
+    "sentence_furigana": "その社会規範【しゃかいきはん】はもはや通【つう】ようしない。",
+    "meaning": "Those social norms are no longer valid."
+  },
+  {
+    "sentence": "彼は悪事に手を染めた。",
+    "sentence_furigana": "彼【かれ】は悪事【あくじ】に手【て】を染【そ】めた。",
+    "meaning": "He dabbled in evil deeds."
+  },
+  {
+    "sentence": "その技術は過去のものとなった。",
+    "sentence_furigana": "その技術【ぎじゅつ】は過去【かこ】のものとなった。",
+    "meaning": "That technology became a thing of the past."
+  },
+  {
+    "sentence": "彼は絶望の淵に沈んだ。",
+    "sentence_furigana": "彼【かれ】は絶望【ぜつぼう】の淵【ふち】に沈【しず】んだ。",
+    "meaning": "He sank into the abyss of despair."
+  },
+  {
+    "sentence": "その文化は衰退の一途をたどっている。",
+    "sentence_furigana": "その文化【ぶんか】は衰退【すいたい】の一途【いっと】をたどっている。",
+    "meaning": "That culture is on a downward spiral."
+  },
+  {
+    "sentence": "彼は道を踏み外した。",
+    "sentence_furigana": "彼【かれ】は道【みち】を踏【ふ】み外【はず】した。",
+    "meaning": "He strayed from the path."
+  },
+  {
+    "sentence": "その計画は頓挫する恐れがある。",
+    "sentence_furigana": "その計画【けいかく】は頓挫【とんざ】する恐【おそ】れがある。",
+    "meaning": "There is a risk that the plan will stall."
+  },
+  {
+    "sentence": "彼は悪徳の道に堕ちた。",
+    "sentence_furigana": "彼【かれ】は悪徳【あくとく】の道【みち】に堕【お】ちた。",
+    "meaning": "He fell into the path of vice."
+  },
+  {
+    "sentence": "その慣習は廃れてしまった。",
+    "sentence_furigana": "その慣習【かんしゅう】は廃【すた】れてしまった。",
+    "meaning": "The custom fell into disuse."
+  },
+  {
+    "sentence": "彼は堕落した生活を送るようになった。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】した生活【せいかつ】を送【おく】るようになった。",
+    "meaning": "He began to lead a degenerate life."
+  },
+  {
+    "sentence": "その思想は忘れ去られた。",
+    "sentence_furigana": "その思想【しそう】は忘【わす】れ去【さ】られた。",
+    "meaning": "The idea was forgotten."
+  },
+  {
+    "sentence": "彼は人生のどん底を見た。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】のどん底【ぞこ】を見【み】た。",
+    "meaning": "He saw the bottom of his life."
+  },
+  {
+    "sentence": "文明は退化する傾向がある。",
+    "sentence_furigana": "文明【ぶんめい】は退化【たいか】する傾向【けいこう】がある。",
+    "meaning": "Civilization tends to degenerate."
+  },
+  {
+    "sentence": "彼は堕落した考え方をしていた。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】した考【かんが】え方【かた】をしていた。",
+    "meaning": "He had degenerate thoughts."
+  },
+  {
+    "sentence": "その制度は機能しなくなった。",
+    "sentence_furigana": "その制度【せいど】は機能【きのう】しなくなった。",
+    "meaning": "The system ceased to function."
+  },
+  {
+    "sentence": "彼は約束を破る誘惑に負けた。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を破【やぶ】る誘惑【ゆうわく】に負【ま】けた。",
+    "meaning": "He succumbed to the temptation to break his promise."
+  },
+  {
+    "sentence": "その法律は現代にはそぐわない。",
+    "sentence_furigana": "その法律【ほうりつ】は現代【げんだい】にはそぐわない。",
+    "meaning": "That law is not suitable for modern times."
+  },
+  {
+    "sentence": "彼は堕ちる直前だった。",
+    "sentence_furigana": "彼【かれ】は堕【お】ちる直前【ちょくぜん】だった。",
+    "meaning": "He was just before falling."
+  },
+  {
+    "sentence": "その記録は無効となった。",
+    "sentence_furigana": "その記録【きろく】は無効【むこう】となった。",
+    "meaning": "The record became invalid."
+  },
+  {
+    "sentence": "彼は堕落の道へと進んでいった。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】の道【みち】へと進【すす】んでいった。",
+    "meaning": "He went down the path of degeneration."
+  },
+  {
+    "sentence": "その習慣は消滅した。",
+    "sentence_furigana": "その習慣【しゅうかん】は消滅【しょうめつ】した。",
+    "meaning": "The custom disappeared."
+  },
+  {
+    "sentence": "彼は過去の栄光にしがみついていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】にしがみついていた。",
+    "meaning": "He was clinging to past glories."
+  },
+  {
+    "sentence": "その方針は空文化していた。",
+    "sentence_furigana": "その方針【ほうしん】は空文化【くうぶんか】していた。",
+    "meaning": "The policy was just a shell."
+  },
+  {
+    "sentence": "彼は堕落した思考回路を持っていた。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】した思考回路【しこうかいろ】を持【も】っていた。",
+    "meaning": "He had a degenerate thought process."
+  },
+  {
+    "sentence": "その計画は暗礁に乗り上げた。",
+    "sentence_furigana": "その計画【けいかく】は暗礁【あんしょう】に乗【の】り上【あ】がった。",
+    "meaning": "The plan ran aground."
+  },
+  {
+    "sentence": "彼は悪の誘惑に屈した。",
+    "sentence_furigana": "彼【かれ】は悪【あく】の誘惑【ゆうわく】に屈【くっ】した。",
+    "meaning": "He yielded to the temptation of evil."
+  },
+  {
+    "sentence": "その技術は時代遅れになった。",
+    "sentence_furigana": "その技術【ぎじゅつ】は時代遅【じだいお】くれになった。",
+    "meaning": "The technology became outdated."
+  },
+  {
+    "sentence": "彼は悲劇のどん底にいた。",
+    "sentence_furigana": "彼【かれ】は悲劇【ひげき】のどん底【ぞこ】にいた。",
+    "meaning": "He was at the bottom of the tragedy."
+  },
+  {
+    "sentence": "文明の衰退は多くの原因が考えられる。",
+    "sentence_furigana": "文明【ぶんめい】の衰退【すいたい】は多【おお】くの原因【げんいん】が考【かんが】えられる。",
+    "meaning": "Many factors can be considered for the decline of civilization."
+  },
+  {
+    "sentence": "彼は堕ちていくことを恐れていた。",
+    "sentence_furigana": "彼【かれ】は堕【お】ちていくことを恐【おそ】れていた。",
+    "meaning": "He feared falling."
+  },
+  {
+    "sentence": "その社会規範は崩壊寸前だった。",
+    "sentence_furigana": "その社会規範【しゃかいきはん】は崩壊寸前【ほうかいすんぜん】だった。",
+    "meaning": "Those social norms were on the verge of collapse."
+  },
+  {
+    "sentence": "彼は悪徳に溺れた。",
+    "sentence_furigana": "彼【かれ】は悪徳【あくとく】に溺【おぼ】れた。",
+    "meaning": "He indulged in vice."
+  },
+  {
+    "sentence": "その慣習は時代と共に忘れられた。",
+    "sentence_furigana": "その慣習【かんしゅう】は時代【じだい】と共【とも】に忘【わす】れられた。",
+    "meaning": "The custom was forgotten with the times."
+  },
+  {
+    "sentence": "彼は堕落の道を歩んでいた。",
+    "sentence_furigana": "彼【かれ】は堕落【だらく】の道【みち】を歩【あゆ】んでいた。",
+    "meaning": "He was walking the path of degeneration."
+  },
+  {
+    "sentence": "その思想は過去のものとなった。",
+    "sentence_furigana": "その思想【しそう】は過去【かこ】のものとなった。",
+    "meaning": "That idea became a thing of the past."
+  },
+  {
+    "sentence": "彼は人生の崖っぷちに立っていた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の崖っぷち【ぷち】に立【た】っていた。",
+    "meaning": "He was on the edge of life."
+  },
+  {
+    "sentence": "文明は後退する危険性をはらんでいる。",
+    "sentence_furigana": "文明【ぶんめい】は後退【こうたい】する危険性【きけんせい】をはらんでいる。",
+    "meaning": "Civilization carries the risk of regression."
+  },
+  {
+    "sentence": "彼は堕ちていく運命だった。",
+    "sentence_furigana": "彼【かれ】は堕【お】ちていく運命【うんめい】だった。",
+    "meaning": "He was destined to fall."
+  },
+  {
+    "sentence": "その社会規範は形骸化していた。",
+    "sentence_furigana": "その社会規範【しゃかいきはん】は形骸化【けいがいか】していた。",
+    "meaning": "Those social norms had become a mere formality."
+  },
+  {
+    "sentence": "彼は悪事に手を貸した。",
+    "sentence_furigana": "彼【かれ】は悪事【あくじ】に手【て】を貸【か】した。",
+    "meaning": "He lent a hand in evil deeds."
+  },
+  {
+    "sentence": "その技術は時代遅れのレッテルを貼られた。",
+    "sentence_furigana": "その技術【ぎじゅつ】は時代遅【じだいお】れ="
+  }
+]

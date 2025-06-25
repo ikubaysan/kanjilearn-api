@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "子供が床で寝ている。",
+    "sentence_furigana": "子供【こども】が床【とこ】で寝【ね】ている。",
+    "meaning": "The child is sleeping on the floor."
+  },
+  {
+    "sentence": "新しいベッドを買った。",
+    "sentence_furigana": "新【あたら】しいベッドを買【か】った。",
+    "meaning": "I bought a new bed."
+  },
+  {
+    "sentence": "床に花瓶を置いた。",
+    "sentence_furigana": "床【ゆか】に花瓶【かびん】を置【お】いた。",
+    "meaning": "I placed a vase on the floor."
+  },
+  {
+    "sentence": "この部屋は畳の床です。",
+    "sentence_furigana": "この部屋【へや】は畳【たたみ】の床【ゆか】です。",
+    "meaning": "This room has a tatami floor."
+  },
+  {
+    "sentence": "床屋で髪を切ってもらった。",
+    "sentence_furigana": "床屋【とこや】で髪【かみ】を切【き】ってもらった。",
+    "meaning": "I got my hair cut at the barber shop."
+  },
+  {
+    "sentence": "床板がキシキシと鳴る。",
+    "sentence_furigana": "床板【ゆかいた】がキシキシと鳴【な】る。",
+    "meaning": "The floorboards creak."
+  },
+  {
+    "sentence": "床にカーペットを敷いた。",
+    "sentence_furigana": "床【ゆか】にカーペットを敷【し】いた。",
+    "meaning": "I laid a carpet on the floor."
+  },
+  {
+    "sentence": "ベッドの横に小さな床がある。",
+    "sentence_furigana": "ベッドの横【よこ】に小【ちい】さな床【とこ】がある。",
+    "meaning": "There is a small platform next to the bed."
+  },
+  {
+    "sentence": "床暖房は快適だ。",
+    "sentence_furigana": "床暖房【ゆかだんぼう】は快適【かいてき】だ。",
+    "meaning": "Underfloor heating is comfortable."
+  },
+  {
+    "sentence": "床にゴミが落ちている。",
+    "sentence_furigana": "床【ゆか】にゴミが落【お】ちている。",
+    "meaning": "There is trash on the floor."
+  },
+  {
+    "sentence": "この家は一階建ての床面積が広い。",
+    "sentence_furigana": "この家【いえ】は一階建【いっかいだ】ての床面積【ゆかめんせき】が広【ひろ】い。",
+    "meaning": "This house has a large floor area on the first floor."
+  },
+  {
+    "sentence": "床の間に掛け軸を飾った。",
+    "sentence_furigana": "床【とこ】の間【ま】に掛【か】け軸【じく】を飾【かざ】った。",
+    "meaning": "I decorated the alcove with a hanging scroll."
+  },
+  {
+    "sentence": "床のワックスがけをした。",
+    "sentence_furigana": "床【ゆか】のワックスがけをした。",
+    "meaning": "I waxed the floor."
+  },
+  {
+    "sentence": "床に足跡がついている。",
+    "sentence_furigana": "床【ゆか】に足跡【あしあと】がついている。",
+    "meaning": "There are footprints on the floor."
+  },
+  {
+    "sentence": "新しいベッドフレームが届いた。",
+    "sentence_furigana": "新【あたら】しいベッドフレームが届【とど】いた。",
+    "meaning": "The new bed frame arrived."
+  },
+  {
+    "sentence": "床の張替えを検討している。",
+    "sentence_furigana": "床【ゆか】の張替【はりか】えを検討【けんとう】している。",
+    "meaning": "I am considering replacing the flooring."
+  },
+  {
+    "sentence": "床に傷をつけないように注意する。",
+    "sentence_furigana": "床【ゆか】に傷【きず】をつけないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to scratch the floor."
+  },
+  {
+    "sentence": "彼は自分の寝床に入った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の寝床【ねどこ】に入【はい】った。",
+    "meaning": "He went to his own bed."
+  },
+  {
+    "sentence": "床下収納は便利だ。",
+    "sentence_furigana": "床下収納【ゆかしたしゅうのう】は便利【べんり】だ。",
+    "meaning": "Underfloor storage is convenient."
+  },
+  {
+    "sentence": "床に何かがこぼれた。",
+    "sentence_furigana": "床【ゆか】に何【なに】かがこぼれた。",
+    "meaning": "Something spilled on the floor."
+  },
+  {
+    "sentence": "彼は床に座り込んだ。",
+    "sentence_furigana": "彼【かれ】は床【ゆか】に座【すわ】り込【こ】んだ。",
+    "meaning": "He sat down on the floor."
+  },
+  {
+    "sentence": "床の上で本を読む。",
+    "sentence_furigana": "床【ゆか】の上【うえ】で本【ほん】を読【よ】む。",
+    "meaning": "I read a book on the floor."
+  },
+  {
+    "sentence": "床に水たまりができている。",
+    "sentence_furigana": "床【ゆか】に水溜【みずた】まりができている。",
+    "meaning": "There is a puddle on the floor."
+  },
+  {
+    "sentence": "この部屋には床がない。",
+    "sentence_furigana": "この部屋【へや】には床【ゆか】がない。",
+    "meaning": "This room has no floor."
+  },
+  {
+    "sentence": "床の間に飾られた生け花が美しい。",
+    "sentence_furigana": "床【とこ】の間【ま】に飾【かざ】られた生【い】け花【ばな】が美【うつく】しい。",
+    "meaning": "The ikebana arranged in the tokonoma is beautiful."
+  },
+  {
+    "sentence": "床を掃除機でかけた。",
+    "sentence_furigana": "床【ゆか】を掃除機【そうじき】でかけた。",
+    "meaning": "I vacuumed the floor."
+  },
+  {
+    "sentence": "ベッドの周りを掃除する。",
+    "sentence_furigana": "ベッドの周【まわ】りを掃除【そうじ】する。",
+    "meaning": "Clean around the bed."
+  },
+  {
+    "sentence": "床に落ちた鉛筆を拾う。",
+    "sentence_furigana": "床【ゆか】に落【お】ちた鉛筆【えんぴつ】を拾【ひろ】う。",
+    "meaning": "Pick up the pencil that fell on the floor."
+  },
+  {
+    "sentence": "床板を張り替える必要がある。",
+    "sentence_furigana": "床板【ゆかいた】を張替【はりか】える必要【ひつよう】がある。",
+    "meaning": "It is necessary to re-lay the floorboards."
+  },
+  {
+    "sentence": "床は冷たい。",
+    "sentence_furigana": "床【ゆか】は冷【つめ】たい。",
+    "meaning": "The floor is cold."
+  },
+  {
+    "sentence": "この家は床が高くなっている。",
+    "sentence_furigana": "この家【いえ】は床【ゆか】が高【たか】くなっている。",
+    "meaning": "The floor in this house is raised."
+  },
+  {
+    "sentence": "床に靴を脱いで上がる。",
+    "sentence_furigana": "床【ゆか】に靴【くつ】を脱【ぬ】いで上【あ】がる。",
+    "meaning": "Take off your shoes and step up onto the floor."
+  },
+  {
+    "sentence": "床に絨毯を敷き詰めた。",
+    "sentence_furigana": "床【ゆか】に絨毯【じゅうたん】を敷【し】き詰【つ】めた。",
+    "meaning": "I spread a carpet all over the floor."
+  },
+  {
+    "sentence": "ベッドの下に何かある。",
+    "sentence_furigana": "ベッドの下【した】に何【なに】かある。",
+    "meaning": "There is something under the bed."
+  },
+  {
+    "sentence": "床の間に置かれた壺。",
+    "sentence_furigana": "床【とこ】の間【ま】に置【お】かれた壺【つぼ】。",
+    "meaning": "A pot placed in the tokonoma."
+  },
+  {
+    "sentence": "床が滑りやすいので注意してください。",
+    "sentence_furigana": "床【ゆか】が滑【すべ】りやすいので注意【ちゅうい】してください。",
+    "meaning": "Please be careful as the floor is slippery."
+  },
+  {
+    "sentence": "新しいベッドが来た。",
+    "sentence_furigana": "新【あたら】しいベッドが来【き】た。",
+    "meaning": "The new bed has arrived."
+  },
+  {
+    "sentence": "床に座って本を読むのが好きだ。",
+    "sentence_furigana": "床【ゆか】に座【すわ】って本【ほん】を読【よ】むのが好【す】きだ。",
+    "meaning": "I like sitting on the floor and reading books."
+  },
+  {
+    "sentence": "床の間に掛け軸が飾ってある。",
+    "sentence_furigana": "床【とこ】の間【ま】に掛【か】け軸【じく】が飾【かざ】ってある。",
+    "meaning": "A hanging scroll is displayed in the tokonoma."
+  },
+  {
+    "sentence": "床が湿っている。",
+    "sentence_furigana": "床【ゆか】が湿【しめ】っている。",
+    "meaning": "The floor is damp."
+  },
+  {
+    "sentence": "床の掃除は行き届いているか。",
+    "sentence_furigana": "床【ゆか】の掃除【そうじ】は行【い】き届【とど】いているか。",
+    "meaning": "Is the floor clean?"
+  },
+  {
+    "sentence": "床に猫が寝ている。",
+    "sentence_furigana": "床【ゆか】に猫【ねこ】が寝【ね】ている。",
+    "meaning": "A cat is sleeping on the floor."
+  },
+  {
+    "sentence": "ベッドの下を覗き込む。",
+    "sentence_furigana": "ベッドの下【した】を覗【のぞ】き込【こ】む。",
+    "meaning": "Look under the bed."
+  },
+  {
+    "sentence": "床を磨いて光沢を出す。",
+    "sentence_furigana": "床【ゆか】を磨【みが】いて光沢【こうたく】を出【だ】す。",
+    "meaning": "Polish the floor to a shine."
+  },
+  {
+    "sentence": "床の間の静寂。",
+    "sentence_furigana": "床【とこ】の間【ま】の静寂【せいじゃく】。",
+    "meaning": "The silence of the tokonoma."
+  },
+  {
+    "sentence": "彼は床に落ちた。",
+    "sentence_furigana": "彼【かれ】は床【ゆか】に落【お】ちた。",
+    "meaning": "He fell on the floor."
+  },
+  {
+    "sentence": "床の一部が腐食している。",
+    "sentence_furigana": "床【ゆか】の一部分【いちぶぶん】が腐食【ふしょく】している。",
+    "meaning": "Part of the floor is corroded."
+  },
+  {
+    "sentence": "新しい畳を床に敷いた。",
+    "sentence_furigana": "新【あたら】しい畳【たたみ】を床【ゆか】に敷【し】いた。",
+    "meaning": "I laid new tatami mats on the floor."
+  },
+  {
+    "sentence": "床板の上に埃が積もっている。",
+    "sentence_furigana": "床板【ゆかいた】の上【うえ】に埃【ほこり】が積【つ】もっている。",
+    "meaning": "Dust has accumulated on the floorboards."
+  },
+  {
+    "sentence": "子供が床に座って遊んでいる。",
+    "sentence_furigana": "子供【こども】が床【ゆか】に座【すわ】って遊【あそ】んでいる。",
+    "meaning": "The child is sitting on the floor and playing."
+  },
+  {
+    "sentence": "この床は滑りにくい。",
+    "sentence_furigana": "この床【ゆか】は滑【すべ】りにくい。",
+    "meaning": "This floor is not slippery."
+  },
+  {
+    "sentence": "ベッドの下は掃除が行き届いていない。",
+    "sentence_furigana": "ベッドの下【した】は掃除【そうじ】が行【い】き届【とど】いていない。",
+    "meaning": "The area under the bed has not been cleaned properly."
+  },
+  {
+    "sentence": "床に水がこぼれてしまった。",
+    "sentence_furigana": "床【ゆか】に水【みず】がこぼれてしまった。",
+    "meaning": "Water has spilled on the floor."
+  },
+  {
+    "sentence": "床の間に飾られた骨董品。",
+    "sentence_furigana": "床【とこ】の間【ま】に飾【かざ】られた骨董品【こっとうひん】。",
+    "meaning": "Antiques displayed in the tokonoma."
+  },
+  {
+    "sentence": "床の間の掛軸を掛け替える。",
+    "sentence_furigana": "床【とこ】の間【ま】の掛【か】け軸【じく】を掛【か】け替【か】える。",
+    "meaning": "Change the hanging scroll in the tokonoma."
+  },
+  {
+    "sentence": "床に油がこぼれた。",
+    "sentence_furigana": "床【ゆか】に油【あぶら】がこぼれた。",
+    "meaning": "Oil spilled on the floor."
+  },
+  {
+    "sentence": "新しいベッドを買う予定です。",
+    "sentence_furigana": "新【あたら】しいベッドを買【か】う予定【よてい】です。",
+    "meaning": "I plan to buy a new bed."
+  },
+  {
+    "sentence": "床に影が落ちている。",
+    "sentence_furigana": "床【ゆか】に影【かげ】が落【お】ちている。",
+    "meaning": "A shadow is cast on the floor."
+  },
+  {
+    "sentence": "彼は床の上で昼寝をした。",
+    "sentence_furigana": "彼【かれ】は床【ゆか】の上【うえ】で昼寝【ひるね】をした。",
+    "meaning": "He took a nap on the floor."
+  },
+  {
+    "sentence": "床に何か異物が落ちている。",
+    "sentence_furigana": "床【ゆか】に何【なに】か異物【いぶつ】が落【お】ちている。",
+    "meaning": "There is some foreign object on the floor."
+  },
+  {
+    "sentence": "床の間の生け花は季節感がある。",
+    "sentence_furigana": "床【とこ】の間【ま】の生【い】け花【ばな】は季節感【きせつかん】がある。",
+    "meaning": "The ikebana in the tokonoma has a seasonal feel."
+  },
+  {
+    "sentence": "床が少し傾いている。",
+    "sentence_furigana": "床【ゆか】が少【すこ】し傾【かたむ】いている。",
+    "meaning": "The floor is slightly tilted."
+  },
+  {
+    "sentence": "床に落ちたパンくずを掃除する。",
+    "sentence_furigana": "床【ゆか】に落【お】ちたパンくずを掃除【そうじ】する。",
+    "meaning": "Clean up the bread crumbs that fell on the floor."
+  },
+  {
+    "sentence": "この床は強化ガラス製です。",
+    "sentence_furigana": "この床【ゆか】は強化ガラス製【きょうかガラスせい】です。",
+    "meaning": "This floor is made of reinforced glass."
+  },
+  {
+    "sentence": "床に足跡を残さないように歩く。",
+    "sentence_furigana": "床【ゆか】に足跡【あしあと】を残【のこ】さないように歩【ある】く。",
+    "meaning": "Walk without leaving footprints on the floor."
+  },
+  {
+    "sentence": "床暖房システムの設置を検討中だ。",
+    "sentence_furigana": "床暖房【ゆかだんぼう】システムを設置【せっち】を検討中【けんとうちゅう】だ。",
+    "meaning": "I am considering installing an underfloor heating system."
+  },
+  {
+    "sentence": "彼の部屋にはベッドがない。",
+    "sentence_furigana": "彼【かれ】の部屋【へや】にはベッドがない。",
+    "meaning": "There is no bed in his room."
+  },
+  {
+    "sentence": "床に新しいラグを敷く予定です。",
+    "sentence_furigana": "床【ゆか】に新【あたら】しいラグを敷【し】く予定【よてい】です。",
+    "meaning": "I plan to lay a new rug on the floor."
+  },
+  {
+    "sentence": "床の間に飾られた絵。",
+    "sentence_furigana": "床【とこ】の間【ま】に飾【かざ】られた絵【え】。",
+    "meaning": "A painting displayed in the tokonoma."
+  },
+  {
+    "sentence": "床が少し濡れている。",
+    "sentence_furigana": "床【ゆか】が少【すこ】し濡【ぬ】れている。",
+    "meaning": "The floor is a little wet."
+  },
+  {
+    "sentence": "床に物が散乱している。",
+    "sentence_furigana": "床【ゆか】に物【もの】が散乱【さんらん】している。",
+    "meaning": "Things are scattered on the floor."
+  },
+  {
+    "sentence": "床板の間に隙間がある。",
+    "sentence_furigana": "床板【ゆかいた】の間【あいだ】に隙間【すきま】がある。",
+    "meaning": "There is a gap between the floorboards."
+  },
+  {
+    "sentence": "床をきれいに拭く。",
+    "sentence_furigana": "床【ゆか】をきれいに拭【ふ】く。",
+    "meaning": "Wipe the floor clean."
+  },
+  {
+    "sentence": "彼は床に座って瞑想している。",
+    "sentence_furigana": "彼【かれ】は床【ゆか】に座【すわ】って瞑想【めいそう】している。",
+    "meaning": "He is meditating sitting on the floor."
+  },
+  {
+    "sentence": "新しいベッドの組み立てが必要だ。",
+    "sentence_furigana": "新【あたら】しいベッドの組立【くみた】てが必要【ひつよう】だ。",
+    "meaning": "Assembly of the new bed is required."
+  },
+  {
+    "sentence": "床に貼られたテープを剥がす。",
+    "sentence_furigana": "床【ゆか】に貼【は】られたテープを剥【は】がす。",
+    "meaning": "Peel off the tape stuck to the floor."
+  },
+  {
+    "sentence": "床の間には、季節の花が活けてあった。",
+    "sentence_furigana": "床【とこ】の間【ま】には、季節【きせつ】の花【はな】が活【い】けてあった。",
+    "meaning": "Seasonal flowers were arranged in the tokonoma."
+  },
+  {
+    "sentence": "床に落ちた食べかす。",
+    "sentence_furigana": "床【ゆか】に落【お】ちた食【た】べかす。",
+    "meaning": "Food scraps dropped on the floor."
+  },
+  {
+    "sentence": "この床はひんやりしている。",
+    "sentence_furigana": "この床【ゆか】はひんやりしている。",
+    "meaning": "This floor feels cool."
+  },
+  {
+    "sentence": "床を磨くために、特別な洗剤を使った。",
+    "sentence_furigana": "床【ゆか】を磨【みが】くために、特別【とくべつ】な洗剤【せんざい】を使【つか】った。",
+    "meaning": "I used a special detergent to polish the floor."
+  },
+  {
+    "sentence": "床に砂が溜まっている。",
+    "sentence_furigana": "床【ゆか】に砂【すな】が溜【た】まっている。",
+    "meaning": "Sand has accumulated on the floor."
+  },
+  {
+    "sentence": "この畳の床は快適だ。",
+    "sentence_furigana": "この畳【たたみ】の床【ゆか】は快適【かいてき】だ。",
+    "meaning": "This tatami floor is comfortable."
+  },
+  {
+    "sentence": "彼は床に絵を描いた。",
+    "sentence_furigana": "彼【かれ】は床【ゆか】に絵【え】を描【か】いた。",
+    "meaning": "He drew a picture on the floor."
+  },
+  {
+    "sentence": "床材の選定に悩んでいる。",
+    "sentence_furigana": "床材【ゆかざい】の選定【せんてい】に悩【なや】んでいる。",
+    "meaning": "I am struggling to choose the flooring material."
+  },
+  {
+    "sentence": "子供がベッドで飛び跳ねている。",
+    "sentence_furigana": "子供【こども】がベッドで飛【と】び跳【は】ねている。",
+    "meaning": "The child is jumping on the bed."
+  },
+  {
+    "sentence": "床に水滴が落ちている。",
+    "sentence_furigana": "床【ゆか】に水滴【すいてき】が落【お】ちている。",
+    "meaning": "Water droplets are falling on the floor."
+  },
+  {
+    "sentence": "床に置かれた箱。",
+    "sentence_furigana": "床【ゆか】に置【お】かれた箱【はこ】。",
+    "meaning": "A box placed on the floor."
+  },
+  {
+    "sentence": "彼は床屋で髭を剃ってもらった。",
+    "sentence_furigana": "彼【かれ】は床屋【とこや】で髭【ひげ】を剃【そ】ってもらった。",
+    "meaning": "He had his beard shaved at the barber shop."
+  },
+  {
+    "sentence": "床の間に飾られている花はいつも新鮮だ。",
+    "sentence_furigana": "床【とこ】の間【ま】に飾【かざ】られている花【はな】はいつも新鮮【しんせん】だ。",
+    "meaning": "The flowers displayed in the tokonoma are always fresh."
+  },
+  {
+    "sentence": "床に小さな穴が開いている。",
+    "sentence_furigana": "床【ゆか】に小【ちい】さな穴【あな】が開【あ】いている。",
+    "meaning": "There is a small hole in the floor."
+  },
+  {
+    "sentence": "この床は掃除がしやすい。",
+    "sentence_furigana": "この床【ゆか】は掃除【そうじ】がしやすい。",
+    "meaning": "This floor is easy to clean."
+  },
+  {
+    "sentence": "ベッドのシーツを交換する。",
+    "sentence_furigana": "ベッドのシーツを交換【こうかん】する。",
+    "meaning": "Change the bed sheets."
+  },
+  {
+    "sentence": "床に木くずが落ちている。",
+    "sentence_furigana": "床【ゆか】に木【き】くずが落【お】ちている。",
+    "meaning": "Wood chips are scattered on the floor."
+  },
+  {
+    "sentence": "床に落ちた髪の毛を拾う。",
+    "sentence_furigana": "床【ゆか】に落【お】ちた髪【かみ】の毛【け】を拾【ひろ】う。",
+    "meaning": "Pick up the hair that fell on the floor."
+  },
+  {
+    "sentence": "床の間に季節の花を飾る。",
+    "sentence_furigana": "床【とこ】の間【ま】に季節【きせつ】の花【はな】を飾【かざ】る。",
+    "meaning": "Decorate the tokonoma with seasonal flowers."
+  },
+  {
+    "sentence": "床に大きな穴があいた。",
+    "sentence_furigana": "床【ゆか】に大【おお】きな穴【あな】があいた。",
+    "meaning": "A large hole appeared in the floor."
+  },
+  {
+    "sentence": "床に落ちた食べ物。",
+    "sentence_furigana": "床【ゆか】に落【お】ちた食【た】べ物【もの】。",
+    "meaning": "Food dropped on the floor."
+  },
+  {
+    "sentence": "床に落ちた消しゴム。",
+    "sentence_furigana": "床【ゆか】に落【お】ちた消【け】しゴム。",
+    "meaning": "An eraser dropped on the floor."
+  },
+  {
+    "sentence": "彼の部屋は床が広い。",
+    "sentence_furigana": "彼【かれ】の部屋【へや】は床【ゆか】が広【ひろ】い。",
+    "meaning": "His room has a spacious floor."
+  },
+  {
+    "sentence": "床に泥が付いている。",
+    "sentence_furigana": "床【ゆか】に泥【どろ】が付【つ】いている。",
+    "meaning": "There is mud on the floor."
+  },
+  {
+    "sentence": "新しいベッドルームの床を改装した。",
+    "sentence_furigana": "新【あたら】しいベッドルームの床【ゆか】を改装【かいそう】した。",
+    "meaning": "I renovated the floor of the new bedroom."
+  },
+  {
+    "sentence": "床に落ちたボール。",
+    "sentence_furigana": "床【ゆか】に落【お】ちたボール。",
+    "meaning": "A ball dropped on the floor."
+  }
+]

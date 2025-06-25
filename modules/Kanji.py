@@ -16,6 +16,7 @@ class Kanji:
         self.wk_readings_on = data['wk_readings_on']
         self.wk_readings_kun = data['wk_readings_kun']
         self.wk_radicals = data['wk_radicals']
+        self.sample_sentences = []
 
     def get_example_sentences_prompt(self, count: int) -> Optional[str]:
 

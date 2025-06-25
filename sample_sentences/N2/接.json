@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "彼は私に丁寧に接した。",
+    "sentence_furigana": "彼【かれ】は私【わたし】に丁寧【ていねい】に接【せっ】した。",
+    "meaning": "He treated me politely."
+  },
+  {
+    "sentence": "私たちは互いに手を接した。",
+    "sentence_furigana": "私【わたし】たちはお互【たが】いに手【て】を接【せっ】した。",
+    "meaning": "We touched hands."
+  },
+  {
+    "sentence": "この木は隣の木に接している。",
+    "sentence_furigana": "この木【き】は隣【となり】の木【き】に接【せっ】している。",
+    "meaning": "This tree adjoins the next tree."
+  },
+  {
+    "sentence": "二つの部品を接ぎ合わせた。",
+    "sentence_furigana": "二【ふた】つの部品【ぶひん】を接【つ】ぎ合【あ】わせた。",
+    "meaning": "I pieced together the two parts."
+  },
+  {
+    "sentence": "電話で接することができた。",
+    "sentence_furigana": "電話【でんわ】で接【せっ】することができた。",
+    "meaning": "I was able to connect by phone."
+  },
+  {
+    "sentence": "彼女の提案は私の考えに接するものだった。",
+    "sentence_furigana": "彼女【かのじょ】の提案【ていあん】は私【わたし】の考【かんが】えに接【せっ】するものだった。",
+    "meaning": "Her proposal was related to my idea."
+  },
+  {
+    "sentence": "直接会って話したい。",
+    "sentence_furigana": "直接【ちょくせつ】会【あ】って話【はな】したい。",
+    "meaning": "I want to meet and talk directly."
+  },
+  {
+    "sentence": "新しい技術との接触を求めた。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】との接触【せっしょく】を求【もと】めた。",
+    "meaning": "I sought contact with new technology."
+  },
+  {
+    "sentence": "子供たちは互いに物を接しないように注意された。",
+    "sentence_furigana": "子供【こども】たちはお互【たが】いに物【もの】を接【せっ】しないように注意【ちゅうい】された。",
+    "meaning": "The children were warned not to touch each other's things."
+  },
+  {
+    "sentence": "この道路は海に接している。",
+    "sentence_furigana": "この道路【どうろ】は海【うみ】に接【せっ】している。",
+    "meaning": "This road borders the sea."
+  },
+  {
+    "sentence": "壊れた箇所を接着剤で接いだ。",
+    "sentence_furigana": "壊【こわ】れた箇所【かしょ】を接着剤【せっちゃくざい】で接【つ】いだ。",
+    "meaning": "I joined the broken parts with adhesive."
+  },
+  {
+    "sentence": "彼は新しい文化に積極的に接した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい文化【ぶんか】に積極的【せっきょくてき】に接【せっ】した。",
+    "meaning": "He actively engaged with the new culture."
+  },
+  {
+    "sentence": "この地域は山々に接している。",
+    "sentence_furigana": "この地域【ちいき】は山々【やまやま】に接【せっ】している。",
+    "meaning": "This region is adjacent to mountains."
+  },
+  {
+    "sentence": "二つの糸を接いで結んだ。",
+    "sentence_furigana": "二【ふた】つの糸【いと】を接【つ】いで結【むす】んだ。",
+    "meaning": "I joined the two threads and tied them."
+  },
+  {
+    "sentence": "彼女は患者に優しく接した。",
+    "sentence_furigana": "彼女【かのじょ】は患者【かんじゃ】に優【やさ】しく接【せっ】した。",
+    "meaning": "She treated the patient kindly."
+  },
+  {
+    "sentence": "彼とは直接会う機会がない。",
+    "sentence_furigana": "彼【かれ】とは直接【ちょくせつ】会【あ】う機会【きかい】がない。",
+    "meaning": "I have no opportunity to meet him directly."
+  },
+  {
+    "sentence": "水と油は接しない。",
+    "sentence_furigana": "水【みず】と油【あぶら】は接【せっ】しない。",
+    "meaning": "Water and oil do not touch."
+  },
+  {
+    "sentence": "この作品は複数の要素を接合している。",
+    "sentence_furigana": "この作品【さくひん】は複数【ふくすう】の要素【ようそ】を接合【せつごう】している。",
+    "meaning": "This work joins multiple elements."
+  },
+  {
+    "sentence": "私たちは常に最新の情報に接するようにしている。",
+    "sentence_furigana": "私【わたし】たちはずっと最新【さいしん】の情報【じょうほう】に接【せっ】するようにしている。",
+    "meaning": "We always try to be in contact with the latest information."
+  },
+  {
+    "sentence": "この橋は川の両岸に接している。",
+    "sentence_furigana": "この橋【はし】は川【かわ】の両岸【りょうがん】に接【せっ】している。",
+    "meaning": "This bridge connects both banks of the river."
+  },
+  {
+    "sentence": "その二つの生地を接いで一枚にした。",
+    "sentence_furigana": "その二【ふた】つの生地【きじ】を接【つ】いで一枚【いちまい】にした。",
+    "meaning": "I joined the two fabrics to make one piece."
+  },
+  {
+    "sentence": "彼はどんな人にも分け隔てなく接する。",
+    "sentence_furigana": "彼【かれ】はどんな人【ひと】にも分【わ】け隔【へだ】てなく接【せっ】する。",
+    "meaning": "He treats everyone without discrimination."
+  },
+  {
+    "sentence": "直接の証明が必要だ。",
+    "sentence_furigana": "直接【ちょくせつ】の証明【しょうめい】が必要【ひつよう】だ。",
+    "meaning": "Direct proof is necessary."
+  },
+  {
+    "sentence": "この線はもう一本の線に接している。",
+    "sentence_furigana": "この線【せん】はもう一本【いっぽん】の線【せん】に接【せっ】している。",
+    "meaning": "This line touches another line."
+  },
+  {
+    "sentence": "古い技術と新しい技術を接合する。",
+    "sentence_furigana": "古【ふる】い技術【ぎじゅつ】と新【あたら】しい技術【ぎじゅつ】を接合【せつごう】する。",
+    "meaning": "To join old and new technologies."
+  },
+  {
+    "sentence": "子供には優しく接するべきだ。",
+    "sentence_furigana": "子供【こども】には優【やさ】しく接【せっ】するべきだ。",
+    "meaning": "One should treat children kindly."
+  },
+  {
+    "sentence": "彼は客を歓迎の意を込めて接した。",
+    "sentence_furigana": "彼【かれ】は客【きゃく】を歓迎【かんげい】の意【い】を込【こ】めて接【せっ】した。",
+    "meaning": "He received the guest with a welcome."
+  },
+  {
+    "sentence": "直接的な原因ではない。",
+    "sentence_furigana": "直接的【ちょくせつてき】な原因【げんいん】ではない。",
+    "meaning": "It is not the direct cause."
+  },
+  {
+    "sentence": "この土地は湖に接している。",
+    "sentence_furigana": "この土地【とち】は湖【みずうみ】に接【せっ】している。",
+    "meaning": "This land borders the lake."
+  },
+  {
+    "sentence": "二つの材料を接合して強度を高める。",
+    "sentence_furigana": "二【ふた】つの材料【ざいりょう】を接合【せつごう】して強度【きょうど】を高【たか】める。",
+    "meaning": "Join the two materials to increase strength."
+  },
+  {
+    "sentence": "新しい環境に接することは成長の機会だ。",
+    "sentence_furigana": "新【あたら】しい環境【かんきょう】に接【せっ】することは成長【せいちょう】の機会【きかい】だ。",
+    "meaning": "Experiencing a new environment is an opportunity for growth."
+  },
+  {
+    "sentence": "彼とは間接的にしか接点がない。",
+    "sentence_furigana": "彼【かれ】とは間接的【かんせつてき】にしか接点【せってん】がない。",
+    "meaning": "I only have indirect contact with him."
+  },
+  {
+    "sentence": "このページは次のページに接しています。",
+    "sentence_furigana": "このページは次【つぎ】のページに接【せっ】しています。",
+    "meaning": "This page is adjacent to the next page."
+  },
+  {
+    "sentence": "熱を加えると金属が接合する。",
+    "sentence_furigana": "熱【ねつ】を加【くわ】えると金属【きんぞく】が接合【せつごう】する。",
+    "meaning": "When heat is applied, the metals join."
+  },
+  {
+    "sentence": "彼は常に親切に接してくれる。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】親切【しんせつ】に接【せっ】してくれる。",
+    "meaning": "He always treats me kindly."
+  },
+  {
+    "sentence": "直接の指示を仰ぐ。",
+    "sentence_furigana": "直接的【ちょくせつてき】な指示【しじ】を仰【あお】ぐ。",
+    "meaning": "Seek direct instructions."
+  },
+  {
+    "sentence": "この窓は隣の部屋に接している。",
+    "sentence_furigana": "この窓【まど】は隣【となり】の部屋【へや】に接【せっ】している。",
+    "meaning": "This window adjoins the next room."
+  },
+  {
+    "sentence": "二つの部品を確実に接合する必要がある。",
+    "sentence_furigana": "二【ふた】つの部品【ぶひん】を確実【かくじつ】に接合【せつごう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to join the two parts securely."
+  },
+  {
+    "sentence": "文化交流を通じて世界に接する。",
+    "sentence_furigana": "文化交流【ぶんかこうりゅう】を通じて【つうじて】世界【せかい】に接【せっ】する。",
+    "meaning": "To experience the world through cultural exchange."
+  },
+  {
+    "sentence": "彼とは直接話すことは難しい。",
+    "sentence_furigana": "彼【かれ】とは直接【ちょくせつ】話【はな】すことは難【むずか】しい。",
+    "meaning": "It is difficult to speak with him directly."
+  },
+  {
+    "sentence": "この壁は隣の建物に接している。",
+    "sentence_furigana": "この壁【かべ】は隣【となり】の建物【たてもの】に接【せっ】している。",
+    "meaning": "This wall adjoins the neighboring building."
+  },
+  {
+    "sentence": "切断された部分を再び接ぐのは困難だ。",
+    "sentence_furigana": "切断【せつだん】された部分【ぶぶん】を再【ふたた】び接【つ】ぐのは困難【こんなん】だ。",
+    "meaning": "It is difficult to rejoin the severed parts."
+  },
+  {
+    "sentence": "地域社会との接点を広げる。",
+    "sentence_furigana": "地域社会【ちいきしゃかい】との接点【せってん】を広【ひろ】げる。",
+    "meaning": "Expand points of contact with the local community."
+  },
+  {
+    "sentence": "直接的な証拠は見つからなかった。",
+    "sentence_furigana": "直接的【ちょくせつてき】な証拠【しょうこ】は見【み】つからなかった。",
+    "meaning": "No direct evidence was found."
+  },
+  {
+    "sentence": "この道は川岸に接している。",
+    "sentence_furigana": "この道【みち】は川岸【かわぎし】に接【せっ】している。",
+    "meaning": "This road borders the riverbank."
+  },
+  {
+    "sentence": "新しい技術を導入し、過去の技術と接合させる。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】を導入【どうにゅう】し、過去【かこ】の技術【ぎじゅつ】と接合【せつごう】させる。",
+    "meaning": "Introduce new technology and join it with past technology."
+  },
+  {
+    "sentence": "彼は常に友好的に接する。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】友好的【ゆうこうてき】に接【せっ】する。",
+    "meaning": "He always treats people in a friendly manner."
+  },
+  {
+    "sentence": "直接の連絡を試みる。",
+    "sentence_furigana": "直接的【ちょくせつてき】な連絡【れんらく】を試【こころ】みる。",
+    "meaning": "Attempt direct contact."
+  },
+  {
+    "sentence": "この家は隣の家と接している。",
+    "sentence_furigana": "この家【いえ】は隣【となり】の家【いえ】と接【せっ】している。",
+    "meaning": "This house is adjacent to the next house."
+  },
+  {
+    "sentence": "パイプの破損部分を接ぎ直す。",
+    "sentence_furigana": "パイプの破損部分【はそんぶぶん】を接【つ】ぎ直【なお】す。",
+    "meaning": "Rejoin the broken part of the pipe."
+  },
+  {
+    "sentence": "新しい情報に常に接するようにしている。",
+    "sentence_furigana": "新【あたら】しい情報【じょうほう】に常に【つねに】接【せっ】するようにしている。",
+    "meaning": "I always try to be in contact with new information."
+  },
+  {
+    "sentence": "この農地は山に接している。",
+    "sentence_furigana": "この農地【のうち】は山【やま】に接【せっ】している。",
+    "meaning": "This farmland borders the mountains."
+  },
+  {
+    "sentence": "古い技術と新しい技術を接合し、イノベーションを生み出す。",
+    "sentence_furigana": "古【ふる】い技術【ぎじゅつ】と新【あたら】しい技術【ぎじゅつ】を接合【せつごう】し、イノベーションを生【う】み出【だ】す。",
+    "meaning": "Join old and new technologies to create innovation."
+  },
+  {
+    "sentence": "彼は誰にでも公平に接した。",
+    "sentence_furigana": "彼【かれ】は誰【だれ】にでも公平【こうへい】に接【せっ】した。",
+    "meaning": "He treated everyone fairly."
+  },
+  {
+    "sentence": "直接的な証拠がないため、推測しかできない。",
+    "sentence_furigana": "直接的【ちょくせつてき】な証拠【しょうこ】がないため、推測【すいそく】しかできない。",
+    "meaning": "Since there is no direct evidence, we can only guess."
+  },
+  {
+    "sentence": "この敷地は道路に接している。",
+    "sentence_furigana": "この敷地【しきち】は道路【どうろ】に接【せっ】している。",
+    "meaning": "This site borders the road."
+  },
+  {
+    "sentence": "古い革を新しい革に接いでバッグを作った。",
+    "sentence_furigana": "古【ふる】い革【かわ】を新【あたら】しい革【かわ】に接【つ】いでバッグを作【つく】った。",
+    "meaning": "I joined old leather with new leather to make a bag."
+  },
+  {
+    "sentence": "彼は子供たちに厳しく接した。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちに厳【きび】しく接【せっ】した。",
+    "meaning": "He treated the children strictly."
+  },
+  {
+    "sentence": "直接の回答を求めた。",
+    "sentence_furigana": "直接的【ちょくせつてき】な回答【かいとう】を求【もと】めた。",
+    "meaning": "I requested a direct answer."
+  },
+  {
+    "sentence": "この土地は隣の畑に接している。",
+    "sentence_furigana": "この土地【とち】は隣【となり】の畑【はたけ】に接【せっ】している。",
+    "meaning": "This land adjoins the neighboring field."
+  },
+  {
+    "sentence": "破損した管を新しい管に接合する。",
+    "sentence_furigana": "破損【はそん】した管【くだ】を新【あたら】しい管【くだ】に接合【せつごう】する。",
+    "meaning": "Join the damaged pipe to a new pipe."
+  },
+  {
+    "sentence": "新しい知識に常に接することが大切だ。",
+    "sentence_furigana": "新【あたら】しい知識【ちしき】に常に【つねに】接【せっ】することが大切【たいせつ】だ。",
+    "meaning": "It is important to always engage with new knowledge."
+  },
+  {
+    "sentence": "この通路は建物の二つの部分に接している。",
+    "sentence_furigana": "この通路【つうろ】は建物【たてもの】の二【ふた】つの部分【ぶぶん】に接【せっ】している。",
+    "meaning": "This corridor connects two parts of the building."
+  },
+  {
+    "sentence": "古い部品を新しい部品に接いで修理した。",
+    "sentence_furigana": "古【ふる】い部品【ぶひん】を新【あたら】しい部品【ぶひん】に接【つ】いで修理【しゅうり】した。",
+    "meaning": "I joined old parts with new parts and repaired it."
+  },
+  {
+    "sentence": "彼は常に客に対して丁重に接した。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】客【きゃく】に対して【たい】して丁重【ていちょう】に接【せっ】した。",
+    "meaning": "He always treated the guests with courtesy."
+  },
+  {
+    "sentence": "直接の体験が重要だ。",
+    "sentence_furigana": "直接的【ちょくせつてき】な体験【たいけん】が重要【じゅうよう】だ。",
+    "meaning": "Direct experience is important."
+  },
+  {
+    "sentence": "この敷地は他の敷地に接している。",
+    "sentence_furigana": "この敷地【しきち】は他【ほか】の敷地【しきち】に接【せっ】している。",
+    "meaning": "This site borders another site."
+  },
+  {
+    "sentence": "二つの木材を接いでテーブルを作った。",
+    "sentence_furigana": "二【ふた】つの木材【もくざい】を接【つ】いでテーブルを作【つく】った。",
+    "meaning": "I joined two pieces of wood to make a table."
+  },
+  {
+    "sentence": "彼は常に協力的だ。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】協力的【きょうりょくてき】だ。",
+    "meaning": "He is always cooperative."
+  },
+  {
+    "sentence": "新しい技術に触れる機会を増やす。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】に触【ふ】れる機会【きかい】を増【ふ】やす。",
+    "meaning": "Increase opportunities to encounter new technology."
+  },
+  {
+    "sentence": "彼は観客に熱狂的に接した。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】に熱狂的【ねっきょうてき】に接【せっ】した。",
+    "meaning": "He engaged with the audience enthusiastically."
+  },
+  {
+    "sentence": "直接の証拠はまだない。",
+    "sentence_furigana": "直接的【ちょくせつてき】な証拠【しょうこ】はまだない。",
+    "meaning": "There is no direct evidence yet."
+  },
+  {
+    "sentence": "この土地は隣の国境に接している。",
+    "sentence_furigana": "この土地【とち】は隣【となり】の国境【こっきょう】に接【せっ】している。",
+    "meaning": "This land borders the neighboring country."
+  },
+  {
+    "sentence": "二つの布を接いで一つの大きな布にした。",
+    "sentence_furigana": "二【ふた】つの布【ぬの】を接【つ】いで一つの大【おお】きな布【ぬの】にした。",
+    "meaning": "I joined two pieces of cloth to make one large piece."
+  },
+  {
+    "sentence": "彼は支援者に丁寧に接した。",
+    "sentence_furigana": "彼【かれ】は支援者【しえんしゃ】に丁寧【ていねい】に接【せっ】した。",
+    "meaning": "He treated the supporters politely."
+  },
+  {
+    "sentence": "直接的な原因を突き止める。",
+    "sentence_furigana": "直接的【ちょくせつてき】な原因【げんいん】を突【つ】き止【と】める。",
+    "meaning": "Find out the direct cause."
+  },
+  {
+    "sentence": "この庭は森に接している。",
+    "sentence_furigana": "この庭【にわ】は森【もり】に接【せっ】している。",
+    "meaning": "This garden borders the forest."
+  },
+  {
+    "sentence": "古い木材を新しい木材に接いで椅子を作った。",
+    "sentence_furigana": "古【ふる】い木材【もくざい】を新【あたら】しい木材【もくざい】に接【つ】いで椅子【いす】を作【つく】った。",
+    "meaning": "I joined old wood with new wood to make a chair."
+  },
+  {
+    "sentence": "彼は子供たちに優しく接するよう心がけている。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちに優【やさ】しく接【せっ】するよう心【こころ】がけている。",
+    "meaning": "He tries to treat children kindly."
+  },
+  {
+    "sentence": "直接的なコミュニケーションが重要です。",
+    "sentence_furigana": "直接的【ちょくせつてき】なコミュニケーションが重要【じゅうよう】です。",
+    "meaning": "Direct communication is important."
+  },
+  {
+    "sentence": "この道路は別の道路に接している。",
+    "sentence_furigana": "この道路【どうろ】は別【べつ】の道路【どうろ】に接【せっ】している。",
+    "meaning": "This road connects to another road."
+  },
+  {
+    "sentence": "二つの鉄骨を溶接で接合した。",
+    "sentence_furigana": "二【ふた】つの鉄骨【てっこつ】を溶接【ようせつ】で接合【せつごう】した。",
+    "meaning": "I joined the two steel frames by welding."
+  },
+  {
+    "sentence": "彼は常に熱心に仕事に取り組む。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】熱心【ねっしん】に仕事【しごと】に取り組【とりく】む。",
+    "meaning": "He always tackles his work with enthusiasm."
+  },
+  {
+    "sentence": "新しい技術に接することで視野が広がる。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】に接【せっ】することで視野【しや】が広【ひろ】がる。",
+    "meaning": "Broaden one's horizons by engaging with new technology."
+  },
+  {
+    "sentence": "彼は地域住民に友好的に接した。",
+    "sentence_furigana": "彼【かれ】は地域住民【ちいきじゅうみん】に友好的【ゆうこうてき】に接【せっ】した。",
+    "meaning": "He treated the local residents in a friendly manner."
+  },
+  {
+    "sentence": "直接の接触は避けるべきだ。",
+    "sentence_furigana": "直接的【ちょくせつてき】な接触【せっしょく】は避【さ】けるべきだ。",
+    "meaning": "Direct contact should be avoided."
+  },
+  {
+    "sentence": "この土地は海に接している。",
+    "sentence_furigana": "この土地【とち】は海【うみ】に接【せっ】している。",
+    "meaning": "This land borders the sea."
+  },
+  {
+    "sentence": "壊れた部分を接いで修理した。",
+    "sentence_furigana": "壊【こわ】れた部分【ぶぶん】を接【つ】いで修理【しゅうり】した。",
+    "meaning": "I joined the broken parts and repaired it."
+  },
+  {
+    "sentence": "彼は常に前向きな姿勢で人に接する。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】前向【まえむ】きな姿勢【しせい】で人【ひと】に接【せっ】する。",
+    "meaning": "He always approaches people with a positive attitude."
+  },
+  {
+    "sentence": "直接の対話が不可欠だ。",
+    "sentence_furigana": "直接的【ちょくせつてき】な対話【たいわ】が不可欠【ふかけつ】だ。",
+    "meaning": "Direct dialogue is essential."
+  },
+  {
+    "sentence": "この橋は川の両岸に接合されている。",
+    "sentence_furigana": "この橋【はし】は川【かわ】の両岸【りょうがん】に接合【せつごう】されている。",
+    "meaning": "This bridge is joined to both banks of the river."
+  },
+  {
+    "sentence": "彼は常に挑戦を受け入れる。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】挑戦【ちょうせん】を受【う】け入【い】れる。",
+    "meaning": "He always accepts challenges."
+  },
+  {
+    "sentence": "新しい文化に接することで視野を広げる。",
+    "sentence_furigana": "新【あたら】しい文化【ぶんか】に接【せっ】することで視野【しや】を広【ひろ】げる。",
+    "meaning": "Broaden one's horizons by engaging with new cultures."
+  },
+  {
+    "sentence": "彼は常に熱意を持って人に接する。",
+    "sentence_furigana": "彼【かれ】は常に【つねに】熱意【ねつい】を持【も】って人【ひと】に接【せっ】する。",
+    "meaning": "He always approaches people with enthusiasm."
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "sentence": "この単語は覚えるのが簡単です。",
+    "sentence_furigana": "この単語【たんご】は覚【おぼ】えるのが簡単【かんたん】です。",
+    "meaning": "This word is easy to remember."
+  },
+  {
+    "sentence": "これは単なる間違いです。",
+    "sentence_furigana": "これ【これ】は単【たん】なる間違【まちが】いです。",
+    "meaning": "This is merely a mistake."
+  },
+  {
+    "sentence": "彼は単身赴任しています。",
+    "sentence_furigana": "彼【かれ】は単身赴任【たんしんふにん】しています。",
+    "meaning": "He is working alone at a distant location."
+  },
+  {
+    "sentence": "単三電池を二つ買ってください。",
+    "sentence_furigana": "単三電池【たんさんでんち】を二【ふた】つ買【か】ってください。",
+    "meaning": "Please buy two AA batteries."
+  },
+  {
+    "sentence": "彼女は単独で旅行しました。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】で旅行【りょこう】しました。",
+    "meaning": "She traveled alone."
+  },
+  {
+    "sentence": "この部屋は単調なデザインですね。",
+    "sentence_furigana": "この部屋【へや】は単調【たんちょう】なデザインですね。",
+    "meaning": "This room has a monotonous design."
+  },
+  {
+    "sentence": "彼は単一の目的を持っています。",
+    "sentence_furigana": "彼【かれ】は単一【たんいつ】の目的【もくてき】を持【も】っています。",
+    "meaning": "He has a single objective."
+  },
+  {
+    "sentence": "これは単なる意見交換です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる意見交換【いけんこうかん】です。",
+    "meaning": "This is just an exchange of opinions."
+  },
+  {
+    "sentence": "単語帳を使って単語を学習しています。",
+    "sentence_furigana": "単語帳【たんごちょう】を使【つか】って単語【たんご】を学習【がくしゅう】しています。",
+    "meaning": "I am learning words using a vocabulary notebook."
+  },
+  {
+    "sentence": "彼は単刀直入に話します。",
+    "sentence_furigana": "彼【かれ】は単刀直入【たんとうちょくにゅう】に話【はな】します。",
+    "meaning": "He speaks straightforwardly."
+  },
+  {
+    "sentence": "単価が安くて助かります。",
+    "sentence_furigana": "単価【たんか】が安【やす】くて助【たす】かります。",
+    "meaning": "The unit price is low, which is helpful."
+  },
+  {
+    "sentence": "これは単なる噂です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる噂【うわさ】です。",
+    "meaning": "This is just a rumor."
+  },
+  {
+    "sentence": "単語の意味を辞書で調べました。",
+    "sentence_furigana": "単語【たんご】の意味【いみ】を辞書【じしょ】で調【しら】べました。",
+    "meaning": "I looked up the meaning of the word in the dictionary."
+  },
+  {
+    "sentence": "単行本を何冊か買いました。",
+    "sentence_furigana": "単行本【たんこうぼん】を何冊【なんさつ】か買【か】いました。",
+    "meaning": "I bought several paperback books."
+  },
+  {
+    "sentence": "彼女は単独行動を好みます。",
+    "sentence_furigana": "彼女【かのじょ】は単独行動【たんどくこうどう】を好【この】みます。",
+    "meaning": "She prefers to act alone."
+  },
+  {
+    "sentence": "この情報は単一の情報源から来ています。",
+    "sentence_furigana": "この情報【じょうほう】は単一【たんいつ】の情報源【じょうほうげん】から来【き】ています。",
+    "meaning": "This information comes from a single source."
+  },
+  {
+    "sentence": "単なる偶然とは思えません。",
+    "sentence_furigana": "単【たん】なる偶然【ぐうぜん】とは思【おも】えません。",
+    "meaning": "I can't believe it's just a coincidence."
+  },
+  {
+    "sentence": "この本は単語が難しいです。",
+    "sentence_furigana": "この本【ほん】は単語【たんご】が難【むずか】しいです。",
+    "meaning": "The words in this book are difficult."
+  },
+  {
+    "sentence": "単発の仕事を探しています。",
+    "sentence_furigana": "単発【たんぱつ】の仕事【しごと】を探【さが】しています。",
+    "meaning": "I am looking for a one-off job."
+  },
+  {
+    "sentence": "単語の練習をしています。",
+    "sentence_furigana": "単語【たんご】の練習【れんしゅう】をしています。",
+    "meaning": "I am practicing vocabulary."
+  },
+  {
+    "sentence": "彼女は単独で問題を解決した。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】で問題【もんだい】を解決【かいけつ】した。",
+    "meaning": "She solved the problem by herself."
+  },
+  {
+    "sentence": "これは単なる思い過ごしだろう。",
+    "sentence_furigana": "これ【これ】は単【たん】なる思【おも】い過【す】ごしだろう。",
+    "meaning": "This is probably just my imagination."
+  },
+  {
+    "sentence": "単三電池と単四電池をください。",
+    "sentence_furigana": "単三電池【たんさんでんち】と単四電池【たんよんでんち】をください。",
+    "meaning": "Please give me AA and AAA batteries."
+  },
+  {
+    "sentence": "単語の意味を理解できませんでした。",
+    "sentence_furigana": "単語【たんご】の意味【いみ】を理解【りかい】できませんでした。",
+    "meaning": "I couldn't understand the meaning of the word."
+  },
+  {
+    "sentence": "単独での作業は集中しやすい。",
+    "sentence_furigana": "単独【たんどく】での作業【さぎょう】は集中【しゅうちゅう】しやすい。",
+    "meaning": "Working alone makes it easy to concentrate."
+  },
+  {
+    "sentence": "これは単なる推測です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる推測【すいそく】です。",
+    "meaning": "This is just a guess."
+  },
+  {
+    "sentence": "単語の暗記が苦手です。",
+    "sentence_furigana": "単語【たんご】の暗記【あんき】が苦手【にがて】です。",
+    "meaning": "I am not good at memorizing vocabulary."
+  },
+  {
+    "sentence": "単独でこのプロジェクトを完了させます。",
+    "sentence_furigana": "単独【たんどく】でこのプロジェクトを完了【かんりょう】させます。",
+    "meaning": "I will complete this project by myself."
+  },
+  {
+    "sentence": "これは単なる偶然の一致です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる偶然【ぐうぜん】の一致【いっち】です。",
+    "meaning": "This is just a coincidence."
+  },
+  {
+    "sentence": "単語を一つずつ覚えています。",
+    "sentence_furigana": "単語【たんご】を一つ【ひとつ】ずつ覚【おぼ】えています。",
+    "meaning": "I am memorizing words one by one."
+  },
+  {
+    "sentence": "彼は単に優秀なだけではありません。",
+    "sentence_furigana": "彼【かれ】は単【たん】に優秀【ゆうしゅう】なだけではありません。",
+    "meaning": "He is not just excellent."
+  },
+  {
+    "sentence": "この単語は複数の意味を持っています。",
+    "sentence_furigana": "この単語【たんご】は複数【ふくすう】の意味【いみ】を持【も】っています。",
+    "meaning": "This word has multiple meanings."
+  },
+  {
+    "sentence": "単独での交渉は難しい。",
+    "sentence_furigana": "単独【たんどく】での交渉【こうしょう】は難【むずか】しい。",
+    "meaning": "Negotiating alone is difficult."
+  },
+  {
+    "sentence": "これは単なる冗談です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる冗談【じょうだん】です。",
+    "meaning": "This is just a joke."
+  },
+  {
+    "sentence": "単語リストを作成しました。",
+    "sentence_furigana": "単語リスト【たんごリスト】を作成【さくせい】しました。",
+    "meaning": "I created a vocabulary list."
+  },
+  {
+    "sentence": "単身で海外に住むのは大変だ。",
+    "sentence_furigana": "単身【たんしん】で海外【かいがい】に住【す】むのは大変【たいへん】だ。",
+    "meaning": "It is tough to live abroad alone."
+  },
+  {
+    "sentence": "単なる挨拶だけでは済まない。",
+    "sentence_furigana": "単【たん】なる挨拶【あいさつ】だけでは済【す】まない。",
+    "meaning": "It won't end with just a mere greeting."
+  },
+  {
+    "sentence": "この単語は発音が難しいです。",
+    "sentence_furigana": "この単語【たんご】は発音【はつおん】が難【むずか】しいです。",
+    "meaning": "The pronunciation of this word is difficult."
+  },
+  {
+    "sentence": "単独での犯行とは思えない。",
+    "sentence_furigana": "単独【たんどく】での犯行【はんこう】とは思【おも】えない。",
+    "meaning": "It doesn't seem like a solo crime."
+  },
+  {
+    "sentence": "これは単なる噂話です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる噂話【うわさばなし】です。",
+    "meaning": "This is just gossip."
+  },
+  {
+    "sentence": "単語帳を毎日見ます。",
+    "sentence_furigana": "単語帳【たんごちょう】を毎日【まいにち】見【み】ます。",
+    "meaning": "I look at my vocabulary notebook every day."
+  },
+  {
+    "sentence": "彼は単独で優勝した。",
+    "sentence_furigana": "彼【かれ】は単独【たんどく】で優勝【ゆうしょう】した。",
+    "meaning": "He won the championship alone."
+  },
+  {
+    "sentence": "この部屋は単調な音楽が流れている。",
+    "sentence_furigana": "この部屋【へや】は単調【たんちょう】な音楽【おんがく】が流【なが】れている。",
+    "meaning": "Monotonous music is playing in this room."
+  },
+  {
+    "sentence": "単なる偶然では片付けられない。",
+    "sentence_furigana": "単【たん】なる偶然【ぐうぜん】では片付【かた】けられない。",
+    "meaning": "It cannot be dismissed as a mere coincidence."
+  },
+  {
+    "sentence": "単語の試験のために勉強しています。",
+    "sentence_furigana": "単語【たんご】の試験【しけん】のために勉強【べんきょう】しています。",
+    "meaning": "I am studying for a vocabulary test."
+  },
+  {
+    "sentence": "彼女は単独でこの困難を乗り越えた。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】でこの困難【こんなん】を乗【の】り越【こ】えた。",
+    "meaning": "She overcame this difficulty on her own."
+  },
+  {
+    "sentence": "これは単なる気まぐれです。",
+    "sentence_furigana": "これ【これ】は単【たん】なる気【き】まぐれです。",
+    "meaning": "This is just a whim."
+  },
+  {
+    "sentence": "単語の正確な意味を知りたい。",
+    "sentence_furigana": "単語【たんご】の正確【せいかく】な意味【いみ】を知【し】りたい。",
+    "meaning": "I want to know the exact meaning of the word."
+  },
+  {
+    "sentence": "彼は単独で会社を設立した。",
+    "sentence_furigana": "彼【かれ】は単独【たんどく】で会社【かいしゃ】を設立【せつりつ】した。",
+    "meaning": "He founded the company on his own."
+  },
+  {
+    "sentence": "単なる挨拶をしてきました。",
+    "sentence_furigana": "単【たん】なる挨拶【あいさつ】をしてきました。",
+    "meaning": "I just came to say hello."
+  },
+  {
+    "sentence": "単語を覚えるのは得意です。",
+    "sentence_furigana": "単語【たんご】を覚【おぼ】えるのは得意【とくい】です。",
+    "meaning": "I am good at memorizing words."
+  },
+  {
+    "sentence": "この件は単独で処理します。",
+    "sentence_furigana": "この件【けん】は単独【たんどく】で処理【しょり】します。",
+    "meaning": "I will handle this matter alone."
+  },
+  {
+    "sentence": "これは単なる偶然ではない。",
+    "sentence_furigana": "これ【これ】は単【たん】なる偶然【ぐうぜん】ではない。",
+    "meaning": "This is not just a coincidence."
+  },
+  {
+    "sentence": "単語集を参考にしています。",
+    "sentence_furigana": "単語集【たんごしゅう】を参考【さんこう】にしています。",
+    "meaning": "I am referring to the vocabulary collection."
+  },
+  {
+    "sentence": "単独での行動は避けたい。",
+    "sentence_furigana": "単独【たんどく】での行動【こうどう】は避【さ】けたい。",
+    "meaning": "I want to avoid acting alone."
+  },
+  {
+    "sentence": "これは単なる誤解です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる誤解【ごかい】です。",
+    "meaning": "This is just a misunderstanding."
+  },
+  {
+    "sentence": "単語の正確な発音を教えてください。",
+    "sentence_furigana": "単語【たんご】の正確【せいかく】な発音【はつおん】を教【おし】えてください。",
+    "meaning": "Please tell me the correct pronunciation of the word."
+  },
+  {
+    "sentence": "彼女は単独でこの難局を打開した。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】でこの難局【なんきょく】を打開【だかい】した。",
+    "meaning": "She broke through this difficult situation alone."
+  },
+  {
+    "sentence": "これは単なる思い込みです。",
+    "sentence_furigana": "これ【これ】は単【たん】なる思【おも】い込【こ】みです。",
+    "meaning": "This is just a delusion."
+  },
+  {
+    "sentence": "単語の意味を説明します。",
+    "sentence_furigana": "単語【たんご】の意味【いみ】を説明【せつめい】します。",
+    "meaning": "I will explain the meaning of the word."
+  },
+  {
+    "sentence": "彼は単独で事業を成功させた。",
+    "sentence_furigana": "彼【かれ】は単独【たんどく】で事業【じぎょう】を成功【せいこう】させた。",
+    "meaning": "He succeeded in business on his own."
+  },
+  {
+    "sentence": "これは単なる挨拶に過ぎない。",
+    "sentence_furigana": "これ【これ】は単【たん】なる挨拶【あいさつ】に過【す】ぎない。",
+    "meaning": "This is nothing more than a greeting."
+  },
+  {
+    "sentence": "単語を一つずつ丁寧に覚えます。",
+    "sentence_furigana": "単語【たんご】を一つ【ひとつ】ずつ丁寧【ていねい】に覚【おぼ】えます。",
+    "meaning": "I will carefully memorize words one by one."
+  },
+  {
+    "sentence": "単独での行動はリスクが高い。",
+    "sentence_furigana": "単独【たんどく】での行動【こうどう】はリスクが高【たか】い。",
+    "meaning": "Acting alone carries high risk."
+  },
+  {
+    "sentence": "これは単なる政治的な駆け引きです。",
+    "sentence_furigana": "これ【これ】は単【たん】なる政治的【せいじてき】な掛【か】け引【ひ】きです。",
+    "meaning": "This is just a political maneuver."
+  },
+  {
+    "sentence": "単語のスペルを間違えました。",
+    "sentence_furigana": "単語【たんご】のスペルを間違【まちが】えました。",
+    "meaning": "I misspelled the word."
+  },
+  {
+    "sentence": "彼女は単独でこの問題を解決できる。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】でこの問題【もんだい】を解決【かいけつ】できる。",
+    "meaning": "She can solve this problem by herself."
+  },
+  {
+    "sentence": "これは単なる悪意ではない。",
+    "sentence_furigana": "これ【これ】は単【たん】なる悪意【あくい】ではない。",
+    "meaning": "This is not mere malice."
+  },
+  {
+    "sentence": "単語を正確に発音することは重要です。",
+    "sentence_furigana": "単語【たんご】を正確【せいかく】に発音【はつおん】することは重要【じゅうよう】です。",
+    "meaning": "It is important to pronounce words correctly."
+  },
+  {
+    "sentence": "彼は単独でこの事業を立ち上げた。",
+    "sentence_furigana": "彼【かれ】は単独【たんどく】でこの事業【じぎょう】を立【た】ち上【あ】げた。",
+    "meaning": "He launched this business on his own."
+  },
+  {
+    "sentence": "これは単なる皮肉です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる皮肉【ひにく】です。",
+    "meaning": "This is just sarcasm."
+  },
+  {
+    "sentence": "単語の意味を推測します。",
+    "sentence_furigana": "単語【たんご】の意味【いみ】を推測【すいそく】します。",
+    "meaning": "I will guess the meaning of the word."
+  },
+  {
+    "sentence": "単独での活動を増やしたい。",
+    "sentence_furigana": "単独【たんどく】での活動【かつどう】を増【ふ】やしたい。",
+    "meaning": "I want to increase solo activities."
+  },
+  {
+    "sentence": "これは単なる自己満足だ。",
+    "sentence_furigana": "これ【これ】は単【たん】なる自己満足【じこまんぞく】だ。",
+    "meaning": "This is just self-gratification."
+  },
+  {
+    "sentence": "単語を覚えるための良い方法は何ですか？",
+    "sentence_furigana": "単語【たんご】を覚【おぼ】えるための良【よ】い方法【ほうほう】は何【なん】ですか？",
+    "meaning": "What is a good way to memorize words?"
+  },
+  {
+    "sentence": "単独での決定は難しい。",
+    "sentence_furigana": "単独【たんどく】での決定【けってい】は難【むずか】しい。",
+    "meaning": "Making decisions alone is difficult."
+  },
+  {
+    "sentence": "これは単なる思い込みではないか。",
+    "sentence_furigana": "これ【これ】は単【たん】なる思【おも】い込【こ】みではないか。",
+    "meaning": "Isn't this just a delusion?"
+  },
+  {
+    "sentence": "単語の意味を辞書で確認してください。",
+    "sentence_furigana": "単語【たんご】の意味【いみ】を辞書【じしょ】で確認【かくにん】してください。",
+    "meaning": "Please confirm the meaning of the word in the dictionary."
+  },
+  {
+    "sentence": "彼女は単独でこの問題を解決した。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】でこの問題【もんだい】を解決【かいけつ】した。",
+    "meaning": "She solved this problem by herself."
+  },
+  {
+    "sentence": "これは単なる偶然の出会いです。",
+    "sentence_furigana": "これ【これ】は単【たん】なる偶然【ぐうぜん】の出会【であ】いです。",
+    "meaning": "This is just a chance encounter."
+  },
+  {
+    "sentence": "単語の発音練習をしています。",
+    "sentence_furigana": "単語【たんご】の発音【はつおん】練習【れんしゅう】をしています。",
+    "meaning": "I am practicing word pronunciation."
+  },
+  {
+    "sentence": "彼は単独でこのプロジェクトを進めている。",
+    "sentence_furigana": "彼【かれ】は単独【たんどく】でこのプロジェクトを進【すす】めている。",
+    "meaning": "He is advancing this project alone."
+  },
+  {
+    "sentence": "これは単なる皮肉な運命だ。",
+    "sentence_furigana": "これ【これ】は単【たん】なる皮肉【ひにく】な運命【うんめい】だ。",
+    "meaning": "This is just ironic fate."
+  },
+  {
+    "sentence": "単語の綴りを覚えるのが苦手です。",
+    "sentence_furigana": "単語【たんご】の綴【と】り覚【おぼ】えるのが苦手【にがて】です。",
+    "meaning": "I am not good at memorizing word spelling."
+  },
+  {
+    "sentence": "彼女は単独でこの状況を打開した。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】でこの状況【じょうきょう】を打開【だかい】した。",
+    "meaning": "She broke through this situation on her own."
+  },
+  {
+    "sentence": "これは単なる偶然ではないはずだ。",
+    "sentence_furigana": "これ【これ】は単【たん】なる偶然【ぐうぜん】ではないはずだ。",
+    "meaning": "This shouldn't be just a coincidence."
+  },
+  {
+    "sentence": "単語の意味を正確に理解する必要があります。",
+    "sentence_furigana": "単語【たんご】の意味【いみ】を正確【せいかく】に理解【りかい】する必【ひつ】要【よう】があります。",
+    "meaning": "It is necessary to understand the meaning of the word accurately."
+  },
+  {
+    "sentence": "彼は単独でこの目標を達成した。",
+    "sentence_furigana": "彼【かれ】は単独【たんどく】でこの目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He achieved this goal by himself."
+  },
+  {
+    "sentence": "これは単なる意見の相違です。",
+    "sentence_furigana": "これ【これ】は単【たん】なる意見【いけん】の相違【そうい】です。",
+    "meaning": "This is just a difference of opinion."
+  },
+  {
+    "sentence": "単語のリストを作成し、それを暗記します。",
+    "sentence_furigana": "単語【たんご】のリストを作成【さくせい】し、それを暗記【あんき】します。",
+    "meaning": "I will create a word list and memorize it."
+  },
+  {
+    "sentence": "彼女は単独でこの危機を乗り越えた。",
+    "sentence_furigana": "彼女【かのじょ】は単独【たんどく】でこの危機【きき】を乗【の】り越【こ】えた。",
+    "meaning": "She overcame this crisis on her own."
+  }
+]

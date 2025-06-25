@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "この問題の理屈を説明してください。",
+    "sentence_furigana": "この問題【もんだい】の理屈【りくつ】を説明【せつめい】してください。",
+    "meaning": "Please explain the logic of this problem."
+  },
+  {
+    "sentence": "彼は論理的な思考が得意だ。",
+    "sentence_furigana": "彼【かれ】は論理的【ろんりてき】な思考【しこう】が得意【とくい】だ。",
+    "meaning": "He is good at logical thinking."
+  },
+  {
+    "sentence": "裁判官は正義を重んじる。",
+    "sentence_furigana": "裁判官【さいばんかん】は正義【せいぎ】を重【おも】んじる。",
+    "meaning": "Judges value justice."
+  },
+  {
+    "sentence": "真理を探求することは学問の基本だ。",
+    "sentence_furigana": "真理【しんり】を探求【たんきゅう】することは学問【がくもん】の基本【きほん】だ。",
+    "meaning": "Seeking truth is fundamental to scholarship."
+  },
+  {
+    "sentence": "規則に従って整理してください。",
+    "sentence_furigana": "規則【きそく】に従【したが】って整理【せいり】してください。",
+    "meaning": "Please arrange them according to the rules."
+  },
+  {
+    "sentence": "この機械は合理的に設計されている。",
+    "sentence_furigana": "この機械【きかい】は合理的【ごうりてき】に設計【せっけい】されている。",
+    "meaning": "This machine is designed rationally."
+  },
+  {
+    "sentence": "彼女は道理をわきまえている。",
+    "sentence_furigana": "彼女【かのじょ】は道理【どうり】をわきまえている。",
+    "meaning": "She understands what is right and wrong."
+  },
+  {
+    "sentence": "原因と結果の理論を学んだ。",
+    "sentence_furigana": "原因【げんいん】と結果【けっか】の理論【りろん】を学【まな】んだ。",
+    "meaning": "I learned the theory of cause and effect."
+  },
+  {
+    "sentence": "自然の法則を理解することは難しい。",
+    "sentence_furigana": "自然【しぜん】の法則【ほうそく】を理解【りかい】することは難【むずか】しい。",
+    "meaning": "Understanding the laws of nature is difficult."
+  },
+  {
+    "sentence": "代理店の担当者が説明します。",
+    "sentence_furigana": "代理店【だいりてん】の担当者【たんとうしゃ】が説明【せつめい】します。",
+    "meaning": "The agent in charge will explain."
+  },
+  {
+    "sentence": "料理のレシピを整理しておこう。",
+    "sentence_furigana": "料理【りょうり】のレシピを整理【せいり】しておこう。",
+    "meaning": "Let's organize the cooking recipes."
+  },
+  {
+    "sentence": "彼は合理的な判断を下した。",
+    "sentence_furigana": "彼【かれ】は合理的【ごうりてき】な判断【はんだん】を下【くだ】した。",
+    "meaning": "He made a rational judgment."
+  },
+  {
+    "sentence": "この件に関する理由を教えてください。",
+    "sentence_furigana": "この件【けん】に関【かん】する理由【りゆう】を教【おし】えてください。",
+    "meaning": "Please tell me the reason concerning this matter."
+  },
+  {
+    "sentence": "真実を語ることは勇気がいる。",
+    "sentence_furigana": "真実【しんじつ】を語【かた】ることは勇気【ゆうき】がいる。",
+    "meaning": "It takes courage to tell the truth."
+  },
+  {
+    "sentence": "家庭内の秩序を保つ必要がある。",
+    "sentence_furigana": "家庭内【かていない】の秩序【ちつじょ】を保【たも】つ必要【ひつよう】がある。",
+    "meaning": "It is necessary to maintain order within the household."
+  },
+  {
+    "sentence": "論理学は哲学の一分野である。",
+    "sentence_furigana": "論理学【ろんりがく】は哲学【てつがく】の一分野【いちぶんや】である。",
+    "meaning": "Logic is a branch of philosophy."
+  },
+  {
+    "sentence": "彼の主張には道理がある。",
+    "sentence_furigana": "彼【かれ】の主張【しゅちょう】には道理【どうり】がある。",
+    "meaning": "There is reason in his assertion."
+  },
+  {
+    "sentence": "公正な裁判を受ける権利がある。",
+    "sentence_furigana": "公正【こうせい】な裁判【さいばん】を受【う】ける権利【けんり】がある。",
+    "meaning": "There is a right to a fair trial."
+  },
+  {
+    "sentence": "この事件の真相を解明したい。",
+    "sentence_furigana": "この事件【じけん】の真相【しんそう】を解明【かいめい】したい。",
+    "meaning": "I want to uncover the truth of this case."
+  },
+  {
+    "sentence": "資料を種類別に整理しました。",
+    "sentence_furigana": "資料【しりょう】を種類別【しゅるいべつ】に整理【せいり】しました。",
+    "meaning": "I organized the materials by type."
+  },
+  {
+    "sentence": "それは理解しがたい状況だ。",
+    "sentence_furigana": "それは理解【りかい】しがたい状況【じょうきょう】だ。",
+    "meaning": "It is a difficult situation to understand."
+  },
+  {
+    "sentence": "彼の推理は論理的だった。",
+    "sentence_furigana": "彼【かれ】の推理【すいり】は論理的【ろんりてき】だった。",
+    "meaning": "His reasoning was logical."
+  },
+  {
+    "sentence": "正義感の強い人だ。",
+    "sentence_furigana": "正義感【せいぎかん】の強【つよ】い人【ひと】だ。",
+    "meaning": "He is a person with a strong sense of justice."
+  },
+  {
+    "sentence": "真実を追求することが大切だ。",
+    "sentence_furigana": "真実【しんじつ】を追求【ついきゅう】することが大切【たいせつ】だ。",
+    "meaning": "It is important to pursue the truth."
+  },
+  {
+    "sentence": "会議の資料を机の上に整理した。",
+    "sentence_furigana": "会議【かいぎ】の資料【しりょう】を机【つくえ】の上【うえ】に整理【せいり】した。",
+    "meaning": "I organized the meeting materials on the desk."
+  },
+  {
+    "sentence": "これは合理的な説明ではない。",
+    "sentence_furigana": "これは合理的【ごうりてき】な説明【せつめい】ではない。",
+    "meaning": "This is not a reasonable explanation."
+  },
+  {
+    "sentence": "道理にかなった要求だ。",
+    "sentence_furigana": "道理【どうり】にかなった要求【ようきゅう】だ。",
+    "meaning": "It is a reasonable request."
+  },
+  {
+    "sentence": "事故の原因究明が進められている。",
+    "sentence_furigana": "事故【じこ】の原因究明【げんいんきゅうめい】が進【すす】められている。",
+    "meaning": "The investigation into the cause of the accident is proceeding."
+  },
+  {
+    "sentence": "物理法則の探求は続く。",
+    "sentence_furigana": "物理法則【ぶつりほうそく】の探求【たんきゅう】は続【つづ】く。",
+    "meaning": "The pursuit of the laws of physics continues."
+  },
+  {
+    "sentence": "彼は代理で出席した。",
+    "sentence_furigana": "彼【かれ】は代理【だいり】で出席【しゅっせき】した。",
+    "meaning": "He attended as a representative."
+  },
+  {
+    "sentence": "部屋の片付けを理屈抜きでやった。",
+    "sentence_furigana": "部屋【へや】の片付【かた】けを理屈抜【りくつぬ】きでやった。",
+    "meaning": "I cleaned the room without overthinking it."
+  },
+  {
+    "sentence": "論理的な結論に達した。",
+    "sentence_furigana": "論理的【ろんりてき】な結論【けつろん】に達【たっ】した。",
+    "meaning": "We reached a logical conclusion."
+  },
+  {
+    "sentence": "正義のために戦う。",
+    "sentence_furigana": "正義【せいぎ】のために戦【たたか】う。",
+    "meaning": "Fight for justice."
+  },
+  {
+    "sentence": "真実を明らかにする必要がある。",
+    "sentence_furigana": "真実【しんじつ】を明【あき】らかにする必要【ひつよう】がある。",
+    "meaning": "It is necessary to reveal the truth."
+  },
+  {
+    "sentence": "書類を整理して保管する。",
+    "sentence_furigana": "書類【しょるい】を整理【せいり】して保管【ほかん】する。",
+    "meaning": "Organize and store the documents."
+  },
+  {
+    "sentence": "この計画は合理的ではない。",
+    "sentence_furigana": "この計画【けいかく】は合理的【ごうりてき】ではない。",
+    "meaning": "This plan is not rational."
+  },
+  {
+    "sentence": "彼女は道理に明るい人物だ。",
+    "sentence_furigana": "彼女【かのじょ】は道理【どうり】に明【あか】るい人物【じんぶつ】だ。",
+    "meaning": "She is a person who understands reason."
+  },
+  {
+    "sentence": "原因と結果の関係を理解する。",
+    "sentence_furigana": "原因【げんいん】と結果【けっか】の関係【かんけい】を理解【りかい】する。",
+    "meaning": "Understand the relationship between cause and effect."
+  },
+  {
+    "sentence": "科学者は自然の法則を研究する。",
+    "sentence_furigana": "科学者【かがくしゃ】は自然【しぜん】の法則【ほうそく】を研究【けんきゅう】する。",
+    "meaning": "Scientists study the laws of nature."
+  },
+  {
+    "sentence": "彼は私の代理として会議に出席した。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の代理【だいり】として会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "He attended the meeting as my representative."
+  },
+  {
+    "sentence": "この料理は理にかなっている。",
+    "sentence_furigana": "この料理【りょうり】は理【り】にかなっている。",
+    "meaning": "This dish is reasonable."
+  },
+  {
+    "sentence": "彼は複雑な問題を論理的に解決した。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な問題【もんだい】を論理的【ろんりてき】に解決【かいけつ】した。",
+    "meaning": "He solved the complex problem logically."
+  },
+  {
+    "sentence": "正義は必ず勝つと信じている。",
+    "sentence_furigana": "正義【せいぎ】は必【かなら】ず勝【か】つと信【しん】じている。",
+    "meaning": "I believe justice will always prevail."
+  },
+  {
+    "sentence": "真実を隠すことはできない。",
+    "sentence_furigana": "真実【しんじつ】を隠【かく】すことはできない。",
+    "meaning": "The truth cannot be hidden."
+  },
+  {
+    "sentence": "本を整理して本棚に並べた。",
+    "sentence_furigana": "本【ほん】を整理【せいり】して本棚【ほんだな】に並【なら】べた。",
+    "meaning": "I organized the books and lined them up on the bookshelf."
+  },
+  {
+    "sentence": "合理的な価格設定が求められる。",
+    "sentence_furigana": "合理的【ごうりてき】な価格設定【かかくせってい】が求【もと】められる。",
+    "meaning": "Reasonable pricing is required."
+  },
+  {
+    "sentence": "道理をわきまえた発言だった。",
+    "sentence_furigana": "道理【どうり】をわきまえた発言【はつげん】だった。",
+    "meaning": "It was a statement that understood reason."
+  },
+  {
+    "sentence": "この理論は科学的に証明されている。",
+    "sentence_furigana": "この理論【りろん】は科学的【かがくてき】に証明【しょうめい】されている。",
+    "meaning": "This theory is scientifically proven."
+  },
+  {
+    "sentence": "自然の摂理に従って生きる。",
+    "sentence_furigana": "自然【しぜん】の摂理【せつり】に従【したが】って生【い】きる。",
+    "meaning": "Live according to the principles of nature."
+  },
+  {
+    "sentence": "彼はその会社の代理を務めた。",
+    "sentence_furigana": "彼【かれ】はその会社【かいしゃ】の代理【だいり】を務【つと】めた。",
+    "meaning": "He served as a representative for that company."
+  },
+  {
+    "sentence": "理髪店で髪を切った。",
+    "sentence_furigana": "理髪店【りはつてん】で髪【かみ】を切【き】った。",
+    "meaning": "I got my hair cut at the barbershop."
+  },
+  {
+    "sentence": "彼の理屈は通らない。",
+    "sentence_furigana": "彼【かれ】の理屈【りくつ】は通【とお】らない。",
+    "meaning": "His reasoning doesn't hold up."
+  },
+  {
+    "sentence": "論理的な思考プロセスをたどる。",
+    "sentence_furigana": "論理的【ろんりてき】な思考プロセス【しこうぷろせす】をたどる。",
+    "meaning": "Follow a logical thought process."
+  },
+  {
+    "sentence": "平和と正義のために努力する。",
+    "sentence_furigana": "平和【へいわ】と正義【せいぎ】のために努力【どりょく】する。",
+    "meaning": "Strive for peace and justice."
+  },
+  {
+    "sentence": "真実を知りたい。",
+    "sentence_furigana": "真実【しんじつ】を知【し】りたい。",
+    "meaning": "I want to know the truth."
+  },
+  {
+    "sentence": "古い書類を整理し直す。",
+    "sentence_furigana": "古【ふる】い書類【しょるい】を整理【せいり】し直【なお】す。",
+    "meaning": "Reorganize the old documents."
+  },
+  {
+    "sentence": "これは非常に合理的な考え方だ。",
+    "sentence_furigana": "これは非常【ひじょう】に合理的【ごうりてき】な考【かんが】え方【かた】だ。",
+    "meaning": "This is a very reasonable way of thinking."
+  },
+  {
+    "sentence": "道理をわきまえない行動は許されない。",
+    "sentence_furigana": "道理【どうり】をわきまえない行動【こうどう】は許【ゆる】されない。",
+    "meaning": "Behavior that does not understand reason is not permitted."
+  },
+  {
+    "sentence": "この理論には根拠がある。",
+    "sentence_furigana": "この理論【りろん】には根拠【こんきょ】がある。",
+    "meaning": "This theory has a basis."
+  },
+  {
+    "sentence": "彼の説明は理路整然としていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は理路整然【りろせいぜん】としていた。",
+    "meaning": "His explanation was logical and coherent."
+  },
+  {
+    "sentence": "代理人を立てて交渉する。",
+    "sentence_furigana": "代理人【だいりにん】を立【た】てて交渉【こうしょう】する。",
+    "meaning": "Negotiate through an agent."
+  },
+  {
+    "sentence": "理科の授業で実験を行った。",
+    "sentence_furigana": "理科【りか】の授業【じゅぎょう】で実験【じっけん】を行【おこな】った。",
+    "meaning": "We conducted an experiment in science class."
+  },
+  {
+    "sentence": "彼は理性的で冷静な人物だ。",
+    "sentence_furigana": "彼【かれ】は理性的【りせい・てき】で冷静【れいせい】な人物【じんぶつ】だ。",
+    "meaning": "He is a rational and calm person."
+  },
+  {
+    "sentence": "論理的な構成が求められる。",
+    "sentence_furigana": "論理的【ろんりてき】な構成【こうせい】が求【もと】められる。",
+    "meaning": "A logical structure is required."
+  },
+  {
+    "sentence": "正義の味方として行動する。",
+    "sentence_furigana": "正義【せいぎ】の味方【みかた】として行動【こうどう】する。",
+    "meaning": "Act as an ally of justice."
+  },
+  {
+    "sentence": "真実の報道を心がける。",
+    "sentence_furigana": "真実【しんじつ】の報道【ほうどう】を心【こころ】がける。",
+    "meaning": "Strive for truthful reporting."
+  },
+  {
+    "sentence": "机の上を整理整頓する。",
+    "sentence_furigana": "机【つくえ】の上【うえ】を整理整頓【せいりせいとん】する。",
+    "meaning": "Organize and tidy up the desk."
+  },
+  {
+    "sentence": "これは非常に合理的な選択だ。",
+    "sentence_furigana": "これは非常【ひじょう】に合理的【ごうりてき】な選択【せんたく】だ。",
+    "meaning": "This is a very reasonable choice."
+  },
+  {
+    "sentence": "道理をわきまえた行動を取りましょう。",
+    "sentence_furigana": "道理【どうり】をわきまえた行動【こうどう】を取【と】りましょう。",
+    "meaning": "Let's act with reason."
+  },
+  {
+    "sentence": "彼の理論は革新的だ。",
+    "sentence_furigana": "彼【かれ】の理論【りろん】は革新 的【かくしんてき】だ。",
+    "meaning": "His theory is innovative."
+  },
+  {
+    "sentence": "自然の摂理は時に過酷だ。",
+    "sentence_furigana": "自然【しぜん】の摂理【せつり】は時【とき】に過酷【かこく】だ。",
+    "meaning": "The laws of nature are sometimes harsh."
+  },
+  {
+    "sentence": "代理でサインしておきます。",
+    "sentence_furigana": "代理【だいり】でサインしておきます。",
+    "meaning": "I will sign on your behalf."
+  },
+  {
+    "sentence": "この店は理髪もしている。",
+    "sentence_furigana": "この店【みせ】は理髪【りはつ】もしている。",
+    "meaning": "This shop also offers haircuts."
+  },
+  {
+    "sentence": "彼の理屈は通じなかった。",
+    "sentence_furigana": "彼【かれ】の理屈【りくつ】は通【つう】じなかった。",
+    "meaning": "His reasoning did not get through."
+  },
+  {
+    "sentence": "論理的な思考を鍛える。",
+    "sentence_furigana": "論理的【ろんりてき】な思考【しこう】を鍛【きた】える。",
+    "meaning": "Train logical thinking."
+  },
+  {
+    "sentence": "正義のために尽くす。",
+    "sentence_furigana": "正義【せいぎ】のために尽【つ】くす。",
+    "meaning": "Devote oneself to justice."
+  },
+  {
+    "sentence": "真実を伝えることが使命だ。",
+    "sentence_furigana": "真実【しんじつ】を伝【つた】えることが使命【しめい】だ。",
+    "meaning": "It is my mission to convey the truth."
+  },
+  {
+    "sentence": "書類を整理してファイルに入れた。",
+    "sentence_furigana": "書類【しょるい】を整理【せいり】してファイルに入【い】れた。",
+    "meaning": "I organized the documents and put them in files."
+  },
+  {
+    "sentence": "合理的な理由を説明してください。",
+    "sentence_furigana": "合理的【ごうりてき】な理由【りゆう】を説明【せつめい】してください。",
+    "meaning": "Please explain the reasonable reason."
+  },
+  {
+    "sentence": "道理を弁えた発言は評価されるべきだ。",
+    "sentence_furigana": "道理【どうり】を弁【わきま】えた発言【はつげん】は評価【ひょうか】されるべきだ。",
+    "meaning": "Reasonable statements should be appreciated."
+  },
+  {
+    "sentence": "この仮説はまだ証明されていない。",
+    "sentence_furigana": "この仮説【かせつ】はまだ証明【しょうめい】されていない。",
+    "meaning": "This hypothesis has not yet been proven."
+  },
+  {
+    "sentence": "彼の理屈はいつもユニークだ。",
+    "sentence_furigana": "彼【かれ】の理屈【りくつ】はいつもユニークだ。",
+    "meaning": "His reasoning is always unique."
+  },
+  {
+    "sentence": "その理論は一般的に受け入れられている。",
+    "sentence_furigana": "その理論【りろん】は一般的【いっぱんてき】に受【う】け入【い】れられている。",
+    "meaning": "That theory is generally accepted."
+  },
+  {
+    "sentence": "彼は正義感あふれる人間だ。",
+    "sentence_furigana": "彼【かれ】は正義感【せいぎかん】あふれる人間【にんげん】だ。",
+    "meaning": "He is a person full of a sense of justice."
+  },
+  {
+    "sentence": "真実が明らかになることを願う。",
+    "sentence_furigana": "真実【しんじつ】が明【あき】らかになることを願【ねが】う。",
+    "meaning": "I hope the truth will come to light."
+  },
+  {
+    "sentence": "データが整理されていない。",
+    "sentence_furigana": "データが整理【せいり】されていない。",
+    "meaning": "The data is not organized."
+  },
+  {
+    "sentence": "合理的な範囲で対応します。",
+    "sentence_furigana": "合理的【ごうりてき】な範囲【はんい】で対応【たいおう】します。",
+    "meaning": "We will respond within a reasonable range."
+  },
+  {
+    "sentence": "道理に外れたことはしない。",
+    "sentence_furigana": "道理【どうり】に外【はず】れたことはしない。",
+    "meaning": "I will not do anything unreasonable."
+  },
+  {
+    "sentence": "原因究明のため調査が行われた。",
+    "sentence_furigana": "原因究明【げんいんきゅうめい】のため調査【ちょうさ】が行【おこな】われた。",
+    "meaning": "An investigation was conducted to determine the cause."
+  },
+  {
+    "sentence": "この宇宙の法則は何だろうか。",
+    "sentence_furigana": "この宇宙【うちゅう】の法則【ほうそく】は何【なん】だろうか。",
+    "meaning": "What are the laws of this universe?"
+  },
+  {
+    "sentence": "会社の代理として契約を結んだ。",
+    "sentence_furigana": "会社【かいしゃ】の代理【だいり】として契約【けいやく】を結【むす】んだ。",
+    "meaning": "I signed the contract as a representative of the company."
+  },
+  {
+    "sentence": "理屈で説明できないこともある。",
+    "sentence_furigana": "理屈【りくつ】で説明【せつめい】できないこともある。",
+    "meaning": "There are things that cannot be explained by logic."
+  },
+  {
+    "sentence": "論理的な文章を書く練習をする。",
+    "sentence_furigana": "論理的【ろんりてき】な文章【ぶんしょう】を書【か】く練習【れんしゅう】をする。",
+    "meaning": "Practice writing logical sentences."
+  },
+  {
+    "sentence": "正義は人間の基本的な欲求だ。",
+    "sentence_furigana": "正義【せいぎ】は人間【にんげん】の基本的【きほんてき】な欲求【よっきゅう】だ。",
+    "meaning": "Justice is a fundamental human desire."
+  },
+  {
+    "sentence": "真実は一つしかない。",
+    "sentence_furigana": "真実【しんじつ】は一つしかない。",
+    "meaning": "There is only one truth."
+  },
+  {
+    "sentence": "この部屋はよく整理されている。",
+    "sentence_furigana": "この部屋【へや】はよく整理【せいり】されている。",
+    "meaning": "This room is well-organized."
+  },
+  {
+    "sentence": "合理的な解決策を見つける。",
+    "sentence_furigana": "合理的【ごうりてき】な解決策【かいけつさく】を見【み】つける。",
+    "meaning": "Find a reasonable solution."
+  },
+  {
+    "sentence": "道理を説く。",
+    "sentence_furigana": "道理【どうり】を説【と】く。",
+    "meaning": "To preach reason."
+  },
+  {
+    "sentence": "事件の真相解明は急務だ。",
+    "sentence_furigana": "事件【じけん】の真相解明【しんそうかいめい】は急務【きゅうむ】だ。",
+    "meaning": "Clarifying the truth of the case is urgent."
+  },
+  {
+    "sentence": "物理学の法則は普遍的だ。",
+    "sentence_furigana": "物理学【ぶつりがく】の法則【ほうそく】は普遍的【ふへんてき】だ。",
+    "meaning": "The laws of physics are universal."
+  },
+  {
+    "sentence": "彼はその集まりの代理として来た。",
+    "sentence_furigana": "彼【かれ】はその集【あつ】まりの代理【だいり】として来【き】た。",
+    "meaning": "He came as a representative of the group."
+  },
+  {
+    "sentence": "彼は料理の理屈を知っている。",
+    "sentence_furigana": "彼【かれ】は料理【りょうり】の理屈【りくつ】を知【し】っている。",
+    "meaning": "He knows the principles of cooking."
+  },
+  {
+    "sentence": "論理的な推論を組み立てる。",
+    "sentence_furigana": "論理的【ろんりてき】な推論【すいろん】を組【く】み立【た】てる。",
+    "meaning": "Construct a logical inference."
+  },
+  {
+    "sentence": "正義感が強い彼は行動を起こした。",
+    "sentence_furigana": "正義感【せいぎかん】が強【つよ】い彼【かれ】は行動【こうどう】を起こ【お】こした。",
+    "meaning": "He, having a strong sense of justice, took action."
+  },
+  {
+    "sentence": "真実を語るためには勇気が必要だ。",
+    "sentence_furigana": "真実【しんじつ】を語【かた】るためには勇気【ゆうき】が必要【ひつよう】だ。",
+    "meaning": "Courage is needed to tell the truth."
+  },
+  {
+    "sentence": "会議の議事録を整理する。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】を整理【せいり】する。",
+    "meaning": "Organize the minutes of the meeting."
+  },
+  {
+    "sentence": "この判断は合理的ではない。",
+    "sentence_furigana": "この判断【はんだん】は合理的【ごうりてき】ではない。",
+    "meaning": "This judgment is not reasonable."
+  }
+]

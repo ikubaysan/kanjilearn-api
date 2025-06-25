@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "彼はその事件の媒酌をした。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の媒酌【ばいしゃく】をした。",
+    "meaning": "He acted as a mediator in that incident."
+  },
+  {
+    "sentence": "彼女は結婚の媒になった。",
+    "sentence_furigana": "彼女【かのじょ】は結婚【けっこん】の媒【なこうど】になった。",
+    "meaning": "She became a go-between for the marriage."
+  },
+  {
+    "sentence": "この薬は感染症の媒介となる。",
+    "sentence_furigana": "この薬【くすり】は感染症【かんせんしょう】の媒介【ばいかい】となる。",
+    "meaning": "This medicine serves as a vector for infectious diseases."
+  },
+  {
+    "sentence": "彼は二つの組織の仲介役、すなわち媒を担った。",
+    "sentence_furigana": "彼【かれ】は二【ふた】つの組織【そしき】の仲介役【ちゅうかいやく】、すなわち媒【なこうど】を担【にな】った。",
+    "meaning": "He took on the role of intermediary, or go-between, for the two organizations."
+  },
+  {
+    "sentence": "その政治家は二国間の対立の解消に媒となった。",
+    "sentence_furigana": "その政治家【せいじか】は二国間【にこくかん】の対立【たいりつ】の解消【かいしょう】に媒【なこうど】となった。",
+    "meaning": "The politician became a go-between to resolve the conflict between the two countries."
+  },
+  {
+    "sentence": "このウイルスは昆虫を媒介にして感染を広げる。",
+    "sentence_furigana": "このウイルスは昆虫【こんちゅう】を媒介【ばいかい】にして感染【かんせん】を広【ひろ】げる。",
+    "meaning": "This virus spreads infection through insects as vectors."
+  },
+  {
+    "sentence": "両者の話し合いを円滑に進めるために、彼は媒の役割を果たした。",
+    "sentence_furigana": "両者【りょうしゃ】の会話【かいわ】を円滑【えんかつ】に進【すす】めるために、彼【かれ】は媒【なこうど】の役割【やくわり】を果【は】たした。",
+    "meaning": "To facilitate the smooth discussion between the two parties, he played the role of a go-between."
+  },
+  {
+    "sentence": "その教師は生徒たちの間の仲立ち、すなわち媒を務めた。",
+    "sentence_furigana": "その教師【きょうし】は生徒【せ G Gい】たちの間【あいだ】の仲立【なかな】ち、すなわち媒【なこうど】を務【つと】めた。",
+    "meaning": "The teacher served as a mediator, or go-between, between the students."
+  },
+  {
+    "sentence": "彼は常に中立の立場で媒となることを目指している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に中立【ちゅうりつ】の立場【たちば】で媒【なこうど】となることを目指【めざ】している。",
+    "meaning": "He always aims to be a mediator from a neutral standpoint."
+  },
+  {
+    "sentence": "火災の原因は、古い配線が熱を媒介し、可燃物に引火したことだと考えられている。",
+    "sentence_furigana": "火災【かさい】の原因【げんいん】は、古【ふる】い配線【はいせん】が熱【ねつ】を媒介【ばいかい】し、可燃物【かねんぶつ】に引火【いんか】したことだと考【かんが】えられている。",
+    "meaning": "The cause of the fire is thought to be old wiring mediating heat, which ignited combustible materials."
+  },
+  {
+    "sentence": "その仲買人は、買い手と売り手の間の媒となった。",
+    "sentence_furigana": "その仲買人【なかかいにん】は、買【か】い手【て】と売【う】り手【て】の間【あいだ】の媒【なこうど】となった。",
+    "meaning": "The broker acted as a go-between between the buyer and the seller."
+  },
+  {
+    "sentence": "平和交渉の場において、彼は重要な媒の役割を担った。",
+    "sentence_furigana": "平和交渉【へいわこうしょう】の場【ば】において、彼【かれ】は重要【じゅうよう】な媒【なこうど】の役割【やくわり】を担【にな】った。",
+    "meaning": "He played an important role as a mediator in the peace negotiations."
+  },
+  {
+    "sentence": "その病気は蚊を媒介として人間に感染する。",
+    "sentence_furigana": "その病気【びょうき】は蚊【か】を媒介【ばいかい】として人間【にんげん】に感染【かんせん】する。",
+    "meaning": "That disease infects humans through mosquitoes as vectors."
+  },
+  {
+    "sentence": "彼は家族間の調停者、すなわち媒として行動した。",
+    "sentence_furigana": "彼【かれ】は家族間【かぞくかん】の調停者【ちょうていしゃ】、すなわち媒【なこうど】として行動【こうどう】した。",
+    "meaning": "He acted as a mediator, or go-between, between family members."
+  },
+  {
+    "sentence": "その記事は二つのグループ間の架け橋、つまり媒として機能した。",
+    "sentence_furigana": "その記事【きじ】は二【ふた】つのグループ間【かん】の架【か】け橋【はし】、つまり媒【なこうど】として機能【きのう】した。",
+    "meaning": "The article functioned as a bridge, or go-between, between the two groups."
+  },
+  {
+    "sentence": "彼は、紛争当事者間の対話を促進するための媒を探している。",
+    "sentence_furigana": "彼【かれ】は、紛争当事者【ふんそうとうじしゃ】間【かん】の対話【たいわ】を促進【そくしん】するための媒【なこうど】を探【さが】している。",
+    "meaning": "He is looking for a mediator to facilitate dialogue between the conflict parties."
+  },
+  {
+    "sentence": "その化学物質は反応を媒介する。",
+    "sentence_furigana": "その化学物質【かがくぶっしつ】は反応【はんのう】を媒介【ばいかい】する。",
+    "meaning": "That chemical substance mediates the reaction."
+  },
+  {
+    "sentence": "彼は新しいビジネスパートナーを見つけるための媒となった。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいビジネスパートナーを見【み】つけるための媒【なこうど】となった。",
+    "meaning": "He became a go-between for finding new business partners."
+  },
+  {
+    "sentence": "この地域の歴史的遺産は、過去と現在を結ぶ媒である。",
+    "sentence_furigana": "この地域【ちいき】の歴史的遺産【れきしてきいさん】は、過去【かこ】と現在【げんざ】いを結【むす】ぶ媒【なこうど】である。",
+    "meaning": "The historical heritage of this region is a go-between connecting the past and the present."
+  },
+  {
+    "sentence": "彼女は二つの文化間の理解を深めるための媒として貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は二【ふた】つの文化間【ぶんかかん】の理解【りかい】を深【ふか】めるための媒【なこうど】として貢献【こうけん】した。",
+    "meaning": "She contributed as a go-between to deepen understanding between the two cultures."
+  },
+  {
+    "sentence": "彼は政府と国民の間のコミュニケーションの媒となることを期待されている。",
+    "sentence_furigana": "彼【かれ】は政府【せいふ】と国民【こくみん】の間【あいだ】のコミュニケーションの媒【なこうど】となることを期待【きたい】されている。",
+    "meaning": "He is expected to be a go-between for communication between the government and the people."
+  },
+  {
+    "sentence": "その伝染病は空気中に浮遊する粒子を媒介して感染が拡大した。",
+    "sentence_furigana": "その伝染病【でんせんびょう】は空気中【くうきちゅう】に浮遊【ふゆう】する粒子【りゅうし】を媒介【ばいかい】して感染【かんせん】が拡大【かくだい】した。",
+    "meaning": "The infectious disease spread by mediating airborne particles."
+  },
+  {
+    "sentence": "彼は異文化間の対話の媒となるべく努力している。",
+    "sentence_furigana": "彼【かれ】は異文化間【いぶんかかん】の対話【たいわ】の媒【なこうど】となるべく努力【どりょく】している。",
+    "meaning": "He is striving to be a go-between for intercultural dialogue."
+  },
+  {
+    "sentence": "仲人、つまり媒は、結婚において重要な役割を果たす。",
+    "sentence_furigana": "仲人【なこうど】、つまり媒【なこうど】は、結婚【けっこん】において重要【じゅうよう】な役割【やくわり】を果【は】たす。",
+    "meaning": "A matchmaker, or go-between, plays an important role in marriage."
+  },
+  {
+    "sentence": "彼は両家の間の媒として、仲立ちをした。",
+    "sentence_furigana": "彼【かれ】は両家【りょうけ】の間【あいだ】の媒【なこうど】として、仲立【なかな】ちをした。",
+    "meaning": "He acted as a go-between for the two families, mediating."
+  },
+  {
+    "sentence": "このソフトウェアは、ユーザーとシステム間の情報伝達を媒介する。",
+    "sentence_furigana": "このソフトウェアは、ユーザーとシステム間【かん】の情報伝達【じょうほうでんたつ】を媒介【ばいかい】する。",
+    "meaning": "This software mediates information transfer between users and the system."
+  },
+  {
+    "sentence": "彼は紛争を解決するための媒としての信頼を得た。",
+    "sentence_furigana": "彼【かれ】は紛争【ふんそう】を解決【かいけつ】するための媒【なこうど】としての信頼【しんらい】を得【え】た。",
+    "meaning": "He gained trust as a mediator to resolve the conflict."
+  },
+  {
+    "sentence": "その法律は、環境保護と経済発展のバランスを取るための媒となることを目指している。",
+    "sentence_furigana": "その法律【ほうりつ】は、環境保護【かんきょうほご】と経済発展【けいざいはってん】のバランスを取【と】るための媒【なこうど】となることを目指【めざ】している。",
+    "meaning": "That law aims to be a go-between for balancing environmental protection and economic development."
+  },
+  {
+    "sentence": "彼はコミュニティの異なるグループ間の架け橋、すなわち媒の役割を担っている。",
+    "sentence_furigana": "彼【かれ】はコミュニティの異【こと】なるグループ間【かん】の架【か】け橋【はし】、すなわち媒【なこうど】の役割【やくわり】を担【にな】っている。",
+    "meaning": "He plays the role of a bridge, or go-between, between different groups in the community."
+  },
+  {
+    "sentence": "そのレポートは、新しい発見と既存の知識との間の媒として機能した。",
+    "sentence_furigana": "そのレポートは、新【あたら】しい発見【はっけん】と既存【きそん】の知識【ちしき】との間【あいだ】の媒【なこうど】として機能【きのう】した。",
+    "meaning": "The report served as a go-between between new discoveries and existing knowledge."
+  },
+  {
+    "sentence": "彼女は多くの人々が互いを理解するための媒となった。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人々【ひとびと】が互【たが】いを理解【りかい】するための媒【なこうど】となった。",
+    "meaning": "She became a go-between for many people to understand each other."
+  },
+  {
+    "sentence": "この技術は、情報と応用をつなぐ媒として開発された。",
+    "sentence_furigana": "この技術【ぎじゅつ】は、情報【じょうほう】と応用【おうよう】をつなぐ媒【なこうど】として開発【かいはつ】された。",
+    "meaning": "This technology was developed as a go-between connecting information and application."
+  },
+  {
+    "sentence": "彼は異なる意見を持つ人々の間の合意形成の媒になろうとしている。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる意見【いけん】を持【も】つ人々【ひとびと】の間【あいだ】の合意形成【ごういけいせい】の媒【なこうど】になろうとしている。",
+    "meaning": "He is trying to become a go-between for consensus building among people with different opinions."
+  },
+  {
+    "sentence": "その外交官は二国間の平和維持の媒として活躍した。",
+    "sentence_furigana": "その外交官【がいこうかん】は二国間【にこくかん】の平和維持【へいわいじ】の媒【なこうど】として活躍【かつやく】した。",
+    "meaning": "The diplomat was active as a go-between for maintaining peace between the two countries."
+  },
+  {
+    "sentence": "この物語は、異なる世代間の理解を促進する媒となるだろう。",
+    "sentence_furigana": "この物語【ものがたり】は、異【こと】なる世代間【せだいかん】の理解【りかい】を促進【そくしん】する媒【なこうど】となるだろう。",
+    "meaning": "This story will likely serve as a go-between to promote understanding between different generations."
+  },
+  {
+    "sentence": "彼は新しいアイデアとそれを受け入れる人々との間の媒として機能する。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいアイデアとそれを受【う】け入【い】れる人々【ひとびと】との間【あいだ】の媒【なこうど】として機能【きのう】する。",
+    "meaning": "He functions as a go-between between new ideas and the people who embrace them."
+  },
+  {
+    "sentence": "その芸術家は、目に見えない感情と形との間の媒を探求している。",
+    "sentence_furigana": "その芸術家【げいじゅつか】は、目【め】に見【み】えない感情【かんじょう】と形【かたち】との間【あいだ】の媒【なこうど】を探求【たんきゅう】している。",
+    "meaning": "The artist is exploring a go-between between invisible emotions and form."
+  },
+  {
+    "sentence": "彼は社会における善意の広まりの媒となることを願っている。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】における善意【ぜんい】の広【ひろ】がりの媒【なこうど】となることを願【ねが】っている。",
+    "meaning": "He hopes to become a go-between for the spread of goodwill in society."
+  },
+  {
+    "sentence": "その翻訳者は、言語の壁を越えたコミュニケーションの媒となった。",
+    "sentence_furigana": "その翻訳者【ほんやくしゃ】は、言語【げんご】の壁【かべ】を越【こ】えたコミュニケーションの媒【なこうど】となった。",
+    "meaning": "The translator became a go-between for communication across language barriers."
+  },
+  {
+    "sentence": "彼は地域社会と外部の支援との間の連携を促す媒である。",
+    "sentence_furigana": "彼【かれ】は地域社会【ちいきしゃかい】と外部【がいぶ】の支援【しえん】との間【あいだ】の連携【れんけい】を促【うなが】す媒【なこうど】である。",
+    "meaning": "He is a go-between who promotes cooperation between the local community and external support."
+  },
+  {
+    "sentence": "この研究は、理論と実践を結びつける媒として重要である。",
+    "sentence_furigana": "この研究【けんきゅう】は、理論【りろん】と実践【じっせん】を結【むす】びつける媒【なこうど】として重要【じゅうよう】である。",
+    "meaning": "This research is important as a go-between connecting theory and practice."
+  },
+  {
+    "sentence": "彼は失われた伝統と現代の生活様式との間の媒を探している。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた伝統【でんとう】と現代【げんだい】の生活様式【せいかつようしき】との間【あいだ】の媒【なこうど】を探【さが】している。",
+    "meaning": "He is looking for a go-between between lost traditions and modern lifestyles."
+  },
+  {
+    "sentence": "その慈善活動は、支援者と支援を必要とする人々との間の媒となった。",
+    "sentence_furigana": "その慈善活動【じぜんかつどう】は、支援者【しえんしゃ】と支援【しえん】を必要【ひつよう】とする人々【ひとびと】との間【あいだ】の媒【なこうど】となった。",
+    "meaning": "That charitable activity became a go-between between donors and people in need of support."
+  },
+  {
+    "sentence": "彼は二つの文化の架け橋、すなわち媒となることを夢見ている。",
+    "sentence_furigana": "彼【かれ】は二【ふた】つの文化【ぶんか】の架【か】け橋【はし】、すなわち媒【なこうど】となることを夢見【ゆめみ】ている。",
+    "meaning": "He dreams of becoming a bridge, or go-between, between two cultures."
+  },
+  {
+    "sentence": "この小説は、読者と主人公の心の葛藤との間の媒を描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は、読者【どくしゃ】と主人公【しゅじんこう】の心【こころ】の葛藤【かつとう】との間【あいだ】の媒【なこうど】を描【えが】いている。",
+    "meaning": "This novel depicts a go-between between the reader and the protagonist's inner conflict."
+  },
+  {
+    "sentence": "彼は異なる時代の間の情報の媒としての役割を果たした。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる時代【じだい】の間【あいだ】の情報【じょうほう】の媒【なこうど】としての役割【やくわり】を果【は】たした。",
+    "meaning": "He played the role of a go-between for information between different eras."
+  },
+  {
+    "sentence": "その会議は、異なる学派間の知識の共有の媒として機能した。",
+    "sentence_furigana": "その会議【かいぎ】は、異【こと】なる学派【がくは】間【かん】の知識【ちしき】の共有【きょうゆう】の媒【なこうど】として機能【きのう】した。",
+    "meaning": "The conference served as a go-between for knowledge sharing among different schools of thought."
+  },
+  {
+    "sentence": "彼は対立する意見の間の調停者、つまり媒を求めている。",
+    "sentence_furigana": "彼【かれ】は対立【たいりつ】する意見【いけん】の間【あいだ】の調停者【ちょうていしゃ】、つまり媒【なこうど】を求【もと】めている。",
+    "meaning": "He is seeking a mediator, or go-between, between opposing opinions."
+  },
+  {
+    "sentence": "その橋は、かつて分断されていた二つの地域を結ぶ媒となった。",
+    "sentence_furigana": "その橋【はし】は、かつて分断【ぶんだん】されていた二【ふた】つの地域【ちいき】を結【むす】ぶ媒【なこうど】となった。",
+    "meaning": "That bridge became a go-between connecting two formerly separated regions."
+  },
+  {
+    "sentence": "彼は異なる世代の間の経験の伝達の媒となれるよう努力している。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる世代【せだい】の間【あいだ】の経験【けいけん】の伝達【でんたつ】の媒【なこうど】となれるよう努力【どりょく】している。",
+    "meaning": "He is striving to be a go-between for the transmission of experience between different generations."
+  },
+  {
+    "sentence": "そのボランティアは、地域住民と市の当局との間の媒として活動している。",
+    "sentence_furigana": "そのボランティアは、地域住民【ちいきじゅうみん】と市【し】の当局【とうきょく】との間【あいだ】の媒【なこうど】として活動【かつどう】している。",
+    "meaning": "The volunteer is active as a go-between between local residents and city authorities."
+  },
+  {
+    "sentence": "彼は二つの文化の融合を促進する媒となることを望んでいる。",
+    "sentence_furigana": "彼【かれ】は二【ふた】つの文化【ぶんか】の融合【ゆうごう】を促進【そくしん】する媒【なこうど】となることを望【のぞ】んでいる。",
+    "meaning": "He hopes to become a go-between that promotes the fusion of two cultures."
+  },
+  {
+    "sentence": "この詩は、人間の内面と自然界との間の媒を表現している。",
+    "sentence_furigana": "この詩【し】は、人間【にんげん】の内面【ないめん】と自然界【しぜんかい】との間【あいだ】の媒【なこうど】を表現【ひょうげん】している。",
+    "meaning": "This poem expresses a go-between between the human inner self and the natural world."
+  },
+  {
+    "sentence": "彼は過去の教訓と未来の行動との間の媒として機能する。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の教訓【きょうくん】と未来【みらい】の行動【こうどう】との間【あいだ】の媒【なこうど】として機能【きのう】する。",
+    "meaning": "He functions as a go-between between past lessons and future actions."
+  },
+  {
+    "sentence": "そのプロジェクトは、異なる分野の専門家間の協力の媒となった。",
+    "sentence_furigana": "そのプロジェクトは、異【こと】なる分野【ぶんや】の専門家【せんもんか】間【かん】の協力【きょうりょく】の媒【なこうど】となった。",
+    "meaning": "The project became a go-between for cooperation among experts from different fields."
+  },
+  {
+    "sentence": "彼は新しい技術を普及させるための媒として貢献した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】を普及【ふきゅう】させるための媒【なこうど】として貢献【こうけん】した。",
+    "meaning": "He contributed as a go-between for the dissemination of new technology."
+  },
+  {
+    "sentence": "そのプラットフォームは、クリエイターとファンとの間の直接的な交流の媒となった。",
+    "sentence_furigana": "そのプラットフォームは、クリエイターとファンとの間【あいだ】の直接的【ちょくせつてき】な交流【こうりゅう】の媒【なこうど】となった。",
+    "meaning": "That platform became a go-between for direct interaction between creators and fans."
+  },
+  {
+    "sentence": "彼は異なる歴史的解釈の間の調和の媒となることを目指している。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる歴史的解釈【れきしてきかいしゃく】の間【あいだ】の調和【ちょうわ】の媒【なこうど】となることを目指【めざ】している。",
+    "meaning": "He aims to be a go-between for harmony between different historical interpretations."
+  },
+  {
+    "sentence": "その仲介者は、両者の間の誤解を解く媒となった。",
+    "sentence_furigana": "その仲介者【ちゅうかいしゃ】は、両者【りょうしゃ】の間【あいだ】の誤解【ごかい】を解【と】く媒【なこうど】となった。",
+    "meaning": "The intermediary became a go-between to resolve the misunderstanding between the two parties."
+  },
+  {
+    "sentence": "彼は現代社会における失われた絆の媒を探している。",
+    "sentence_furigana": "彼【かれ】は現代社会【げんだいしゃかい】における失【うしな】われた絆【きずな】の媒【なこうど】を探【さが】している。",
+    "meaning": "He is looking for a go-between for the lost bonds in modern society."
+  },
+  {
+    "sentence": "その大学は、学生と社会の間の連携を促す媒として機能している。",
+    "sentence_furigana": "その大学【だいがく】は、学生【がくせい】と社会【しゃかい】の間【あいだ】の連携【れんけい】を促【うなが】す媒【なこうど】として機能【きのう】している。",
+    "meaning": "The university functions as a go-between that promotes cooperation between students and society."
+  },
+  {
+    "sentence": "彼は伝統的な知恵と科学的知識との間の媒を築こうとしている。",
+    "sentence_furigana": "彼【かれ】は伝統的【でんとうてき】な知恵【ちえ】と科学的知識【かがくてきちしき】との間【あいだ】の媒【なこうど】を築【きず】こうとしている。",
+    "meaning": "He is trying to build a go-between between traditional wisdom and scientific knowledge."
+  },
+  {
+    "sentence": "その音楽フェスティバルは、異なるジャンルの音楽愛好家を結びつける媒となった。",
+    "sentence_furigana": "その音楽フェスティバルは、異【こと】なるジャンルの音楽愛好家【おんがくあいこうか】を結【むす】びつける媒【なこうど】となった。",
+    "meaning": "The music festival became a go-between connecting music lovers of different genres."
+  },
+  {
+    "sentence": "彼は失われた記憶と現在の意識との間の媒を求めている。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた記憶【きおく】と現在【げんざ】いとの間【あいだ】の媒【なこうど】を求【もと】めている。",
+    "meaning": "He is seeking a go-between between lost memories and present consciousness."
+  },
+  {
+    "sentence": "その物語は、善と悪の間の複雑な関係性を媒介する。",
+    "sentence_furigana": "その物語【ものがたり】は、善【ぜん】と悪【あく】の間【あいだ】の複雑【ふくざつ】な関係性【かんけいせい】を媒介【ばいかい】する。",
+    "meaning": "The story mediates the complex relationship between good and evil."
+  },
+  {
+    "sentence": "彼は異なる時代の芸術様式を結びつける媒として再評価されている。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる時代【じだい】の芸術様式【げいじゅつようしき】を結【むす】びつける媒【なこうど】として再評価【さいひょうか】されている。",
+    "meaning": "He is being re-evaluated as a go-between that connects art styles of different eras."
+  },
+  {
+    "sentence": "その研究機関は、基礎研究と応用研究の間の架け橋、すなわち媒として機能する。",
+    "sentence_furigana": "その研究機関【けんきゅうきかん】は、基礎研究【きそけんきゅう】と応用研究【おうようけんきゅう】の間【あいだ】の架【か】け橋【はし】、すなわち媒【なこうど】として機能【きのう】する。",
+    "meaning": "The research institution functions as a bridge, or go-between, between basic research and applied research."
+  },
+  {
+    "sentence": "彼は異なる学問分野間の知識の交流を促進する媒となることを目指している。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる学問分野【がくもんぶんや】間【かん】の知識【ちしき】の交流【こうりゅう】を促進【そくしん】する媒【なこうど】となることを目指【めざ】している。",
+    "meaning": "He aims to be a go-between that promotes the exchange of knowledge between different academic fields."
+  },
+  {
+    "sentence": "その映画は、現実と幻想との間の曖昧な領域を媒介する。",
+    "sentence_furigana": "その映画【えいが】は、現実【げんじつ】と幻想【げんそう】との間【あいだ】の曖昧【あいまい】な領域【りょういき】を媒介【ばいかい】する。",
+    "meaning": "The movie mediates the ambiguous area between reality and fantasy."
+  },
+  {
+    "sentence": "彼は社会における善意の広まりの媒となることを望んでいる。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】における善意【ぜんい】の広【ひろ】がりの媒【なこうど】となることを望【のぞ】んでいる。",
+    "meaning": "He hopes to become a go-between for the spread of goodwill in society."
+  },
+  {
+    "sentence": "その図書館は、知識へのアクセスを容易にするための媒としての役割を果たしている。",
+    "sentence_furigana": "その図書館【としょかん】は、知識【ちしき】へのアクセスを容易【ようい】にするための媒【なこうど】としての役割【やくわり】を果【は】たしている。",
+    "meaning": "The library plays the role of a go-between to facilitate access to knowledge."
+  },
+  {
+    "sentence": "彼は異なる文化遺産を結びつける媒として、その価値を伝えている。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる文化遺産【ぶんかいさん】を結【むす】びつける媒【なこうど】として、その価値【かち】を伝【つた】えている。",
+    "meaning": "He conveys the value of different cultural heritages as a go-between connecting them."
+  },
+  {
+    "sentence": "そのイベントは、参加者間の交流を促進する媒となった。",
+    "sentence_furigana": "そのイベントは、参加者間【さんかしゃかん】の交流【こうりゅう】を促進【そくしん】する媒【なこうど】となった。",
+    "meaning": "The event became a go-between promoting interaction among participants."
+  },
+  {
+    "sentence": "彼は古い考え方と新しい考え方の間の対立を調停する媒を探している。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い考【かんが】え方【かた】と新【あたら】しい考【かんが】え方【かた】の間【あいだ】の対立【たいりつ】を調停【ちょうてい】する媒【なこうど】を探【さが】している。",
+    "meaning": "He is looking for a go-between to mediate the conflict between old ways of thinking and new ways of thinking."
+  },
+  {
+    "sentence": "その芸術作品は、人間の感情と普遍的な真実との間の媒を描いている。",
+    "sentence_furigana": "その芸術作品【げいじゅつさくひん】は、人間【にんげん】の感情【かんじょう】と普遍的【ふへんてき】な真実【しんじつ】との間【あいだ】の媒【なこうど】を描【えが】いている。",
+    "meaning": "The artwork depicts a go-between between human emotions and universal truths."
+  },
+  {
+    "sentence": "彼は失われた技術と現代の生活との間の架け橋、すなわち媒として活動している。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた技術【ぎじゅつ】と現代【げんだい】の生活【せいかつ】との間【あいだ】の架【か】け橋【はし】、すなわち媒【なこうど】として活動【かつどう】している。",
+    "meaning": "He is active as a bridge, or go-between, between lost technologies and modern life."
+  },
+  {
+    "sentence": "その地域は、異なる文化が交差する媒となっている。",
+    "sentence_furigana": "その地域【ちいき】は、異【こと】なる文化【ぶんか】が交差【こうさ】する媒【なこうど】となっている。",
+    "meaning": "The region serves as a go-between where different cultures intersect."
+  },
+  {
+    "sentence": "彼は過去の遺産と未来への展望との間の媒として、その重要性を説いている。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の遺産【いさん】と未来【みらい】への展望【てんぼう】との間【あいだ】の媒【なこうど】として、その重要性【じゅうようせい】を説【と】いている。",
+    "meaning": "He advocates the importance of past heritage and future prospects as a go-between connecting them."
+  },
+  {
+    "sentence": "その会議は、異なる視点を持つ専門家間の意見交換の媒となった。",
+    "sentence_furigana": "その会議【かいぎ】は、異【こと】なる視点【してん】を持【も】つ専門家【せんもんか】間【かん】の意見交換【いけんこうかん】の媒【なこうど】となった。",
+    "meaning": "The conference served as a go-between for the exchange of opinions among experts with different perspectives."
+  },
+  {
+    "sentence": "彼は失われた繋がりを回復するための媒として、積極的に行動している。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた繋【つな】がりを回復【かいふく】するための媒【なこうど】として、積極的【せっきょくてき】に行【おこな】っている。",
+    "meaning": "He is actively acting as a go-between to restore lost connections."
+  },
+  {
+    "sentence": "そのソフトウェアは、ユーザーとデータベース間の情報整合性を媒介する。",
+    "sentence_furigana": "そのソフトウェアは、ユーザーとデータベース間【かん】の情報整合性【じょうほうせいごうせい】を媒介【ばいかい】する。",
+    "meaning": "That software mediates information consistency between users and the database."
+  },
+  {
+    "sentence": "彼は異なる世代間の経験の伝達の媒となることを目指している。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる世代間【せだいかん】の経験【けいけん】の伝達【でんたつ】の媒【なこうど】となることを目指【めざ】している。",
+    "meaning": "He aims to be a go-between for the transmission of experience between different generations."
+  },
+  {
+    "sentence": "その物語は、人間の本質と社会の構造との間の複雑な関係性を媒介する。",
+    "sentence_furigana": "その物語【ものがたり】は、人間【にんげん】の本質【ほんしつ】と社会【しゃかい】の構造【こうぞう】との間【あいだ】の複雑【ふくざつ】な関係性【かんけいせい】を媒介【ばいかい】する。",
+    "meaning": "The story mediates the complex relationship between human nature and societal structure."
+  },
+  {
+    "sentence": "彼は文化間の相互理解を促進する媒としての役割を担っている。",
+    "sentence_furigana": "彼【かれ】は文化間【ぶんかかん】の相互理解【そうごりかい】を促進【そくしん】する媒【なこうど】としての役割【やくわり】を担【にな】っている。",
+    "meaning": "He plays the role of a go-between promoting mutual understanding between cultures."
+  },
+  {
+    "sentence": "その書物は、過去の知恵と現代の課題との間の架け橋、すなわち媒として機能した。",
+    "sentence_furigana": "その書物【しょもつ】は、過去【かこ】の知恵【ちえ】と現代【げんだい】の課題【かだい】との間【あいだ】の架【か】け橋【はし】、すなわち媒【なこうど】として機能【きのう】した。",
+    "meaning": "The book served as a bridge, or go-between, between past wisdom and modern challenges."
+  },
+  {
+    "sentence": "彼は人々の間の誤解を解き、和解を促す媒となることを目指している。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】の間【あいだ】の誤解【ごかい】を解【と】き、和解【わかい】を促【うなが】す媒【なこうど】となることを目指【めざ】している。",
+    "meaning": "He aims to be a go-between that resolves misunderstandings among people and promotes reconciliation."
+  },
+  {
+    "sentence": "その植物は、土壌中の栄養素と植物の成長との間の媒介物質として機能する。",
+    "sentence_furigana": "その植物【しょくぶつ】は、土壌中【どじょうちゅう】の栄養素【えいようそ】と植物【しょくぶつ】の成長【せいちょう】との間【あいだ】の媒介物質【ばいかいぶっしつ】として機能【きのう】する。",
+    "meaning": "The plant functions as a mediating substance between nutrients in the soil and plant growth."
+  },
+  {
+    "sentence": "彼は異なる政治的立場間の対話を促進する媒として、公的な役割を果たした。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる政治的立場【せいじてきたちば】間【かん】の対話【たいわ】を促進【そくしん】する媒【なこうど】として、公的【こうてき】な役割【やくわり】を果【は】たした。",
+    "meaning": "He played a public role as a go-between promoting dialogue between different political stances."
+  },
+  {
+    "sentence": "そのオンラインコミュニティは、地理的な距離を超えた交流の媒となっている。",
+    "sentence_furigana": "そのオンラインコミュニティは、地理的【ちりてき】な距離【きょり】を越【こ】えた交流【こうりゅう】の媒【なこうど】となっている。",
+    "meaning": "That online community serves as a go-between for interaction beyond geographical distances."
+  },
+  {
+    "sentence": "彼は過去の知恵と現代の科学との間の橋渡し、すなわち媒として活動している。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の知恵【ちえ】と現代【げんだい】の科学【かがく】との間【あいだ】の橋渡【はしわ】たし、すなわち媒【なこうど】として活動【かつどう】している。",
+    "meaning": "He is active as a bridge, or go-between, between past wisdom and modern science."
+  },
+  {
+    "sentence": "その芸術家は、内なる世界と外なる世界との間の媒を表現しようとしている。",
+    "sentence_furigana": "その芸術家【げいじゅつか】は、内【うち】なる世界【せかい】と外【そと】なる世界【せかい】との間【あいだ】の媒【なこうど】を表現【ひょうげん】しようとしている。",
+    "meaning": "The artist is trying to express a go-between between the inner world and the outer world."
+  },
+  {
+    "sentence": "彼は失われた世代の間の経験の継承の媒として、その重要性を強調している。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた世代【せだい】の間【あいだ】の経験【けいけん】の継承【けいしょう】の媒【なこうど】として、その重要性【じゅうようせい】を強調【きょうちょう】している。",
+    "meaning": "He emphasizes the importance of experience inheritance between lost generations as a go-between."
+  },
+  {
+    "sentence": "その会議は、異なる研究者間の協力関係を築く媒となった。",
+    "sentence_furigana": "その会議【かいぎ】は、異【こと】なる研究者【けんきゅうしゃ】間【かん】の協力関係【きょうりょくかんけい】を築【きず】く媒【なこうど】となった。",
+    "meaning": "The conference served as a go-between to build cooperative relationships among different researchers."
+  },
+  {
+    "sentence": "彼は社会における調和と理解を促進する媒として、その役割を果たしている。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】における調和【ちょうわ】と理解【りかい】を促進【そくしん】する媒【なこうど】として、その役割【やくわり】を果た【はた】している。",
+    "meaning": "He is playing his role as a go-between promoting harmony and understanding in society."
+  }
+]

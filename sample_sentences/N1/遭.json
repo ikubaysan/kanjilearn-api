@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "事故に遭って怪我をした。",
+    "sentence_furigana": "事故【じこ】に遭【あ】って怪我【けが】をした。",
+    "meaning": "I had an accident and got injured."
+  },
+  {
+    "sentence": "突然の雨に遭った。",
+    "sentence_furigana": "突然【とつぜん】の雨【あめ】に遭【あ】った。",
+    "meaning": "We were caught in a sudden rain."
+  },
+  {
+    "sentence": "彼は幸運にも助けに遭った。",
+    "sentence_furigana": "彼【かれ】は幸運【こううん】にも助【たす】けに遭【あ】った。",
+    "meaning": "He was fortunate enough to be rescued."
+  },
+  {
+    "sentence": "困難な状況に遭った。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】に遭【あ】った。",
+    "meaning": "We encountered a difficult situation."
+  },
+  {
+    "sentence": "偶然に友人に遭った。",
+    "sentence_furigana": "偶然【ぐうぜん】に友人【ゆうじん】に遭【あ】った。",
+    "meaning": "I met a friend by chance."
+  },
+  {
+    "sentence": "彼は多くの困難に遭った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】に遭【あ】った。",
+    "meaning": "He encountered many difficulties."
+  },
+  {
+    "sentence": "新しいプロジェクトに着手した。",
+    "sentence_furigana": "新【あたら】しいプロジェクトに着手【ちゃくしゅ】した。",
+    "meaning": "We embarked on a new project."
+  },
+  {
+    "sentence": "彼女は予期せぬ出来事に遭った。",
+    "sentence_furigana": "彼女【かのじょ】は予期せぬ出来事【よきせぬできごと】に遭【あ】った。",
+    "meaning": "She experienced an unexpected event."
+  },
+  {
+    "sentence": "彼は多くの反対に遭った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの反対【はんたい】に遭【あ】った。",
+    "meaning": "He faced much opposition."
+  },
+  {
+    "sentence": "この地域はよく災害に遭う。",
+    "sentence_furigana": "この地域【ちいき】はよく災害【さいがい】に遭【あ】う。",
+    "meaning": "This region often experiences disasters."
+  },
+  {
+    "sentence": "彼は悪い評判に遭った。",
+    "sentence_furigana": "彼【かれ】は悪【わる】い評判【ひょうばん】に遭【あ】った。",
+    "meaning": "He met with a bad reputation."
+  },
+  {
+    "sentence": "私たちはそこで素晴らしい景観に出会った。",
+    "sentence_furigana": "私【わたし】たち は そこ で 素晴【すば】らしい景観【けいかん】に遭【あ】った。",
+    "meaning": "We encountered a wonderful landscape there."
+  },
+  {
+    "sentence": "彼は困難な状況に遭いながらも進んだ。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭【あ】いながらも進【すす】んだ。",
+    "meaning": "He proceeded despite facing difficult circumstances."
+  },
+  {
+    "sentence": "予期せぬ事態に遭った時の対応。",
+    "sentence_furigana": "予期せぬ事態【よきせぬじたい】に遭【あ】った時【とき】の対応【たいおう】。",
+    "meaning": "How to respond when facing unexpected situations."
+  },
+  {
+    "sentence": "彼は予期せぬ事故に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事故【よきせぬじこ】に遭【あ】った。",
+    "meaning": "He met with an unexpected accident."
+  },
+  {
+    "sentence": "予期せぬ出会いがあった。",
+    "sentence_furigana": "予期せぬ出会【よきせぬであ】いがあった。",
+    "meaning": "There was an unexpected encounter."
+  },
+  {
+    "sentence": "彼は困難な経験に遭った。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な経験【けいけん】に遭【あ】った。",
+    "meaning": "He went through difficult experiences."
+  },
+  {
+    "sentence": "私たちは予期せぬ問題に直面した。",
+    "sentence_furigana": "私【わたし】たち は 予期せぬ問題【よきせぬもんだい】に直面【ちょくめん】した。",
+    "meaning": "We faced unexpected problems."
+  },
+  {
+    "sentence": "彼はその会議に出席した。",
+    "sentence_furigana": "彼【かれ】は その 会議【かいぎ】に 出席【しゅっせき】した。",
+    "meaning": "He attended the meeting."
+  },
+  {
+    "sentence": "彼は多くの苦難に遭った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの苦難【くんなん】に遭【あ】った。",
+    "meaning": "He endured many hardships."
+  },
+  {
+    "sentence": "彼女は偶然な出来事に遭遇した。",
+    "sentence_furigana": "彼女【かのじょ】は偶然【ぐうぜん】な出来事【できごと】に遭遇【そうぐう】した。",
+    "meaning": "She encountered a coincidental event."
+  },
+  {
+    "sentence": "私たちは困難に直面しました。",
+    "sentence_furigana": "私【わたし】たち は 困難【こんなん】に直面【ちょくめん】しました。",
+    "meaning": "We faced difficulties."
+  },
+  {
+    "sentence": "彼は多くの試練に遭った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの試練【しれん】に遭【あ】った。",
+    "meaning": "He underwent many trials."
+  },
+  {
+    "sentence": "彼は予期せぬ事件に巻き込まれた。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事件【よきせぬじけん】に巻【ま】き込【こ】まれた。",
+    "meaning": "He got involved in an unexpected incident."
+  },
+  {
+    "sentence": "この地域はよく嵐に遭う。",
+    "sentence_furigana": "この地域【ちいき】はよく嵐【あらし】に遭【あ】う。",
+    "meaning": "This area is often hit by storms."
+  },
+  {
+    "sentence": "彼は困難な状況に遭遇した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭遇【そうぐう】した。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "彼らは偶然に出会った。",
+    "sentence_furigana": "彼【かれ】ら は 偶然【ぐうぜん】に 出会【であ】った。",
+    "meaning": "They met by chance."
+  },
+  {
+    "sentence": "彼は厳しい状況に遭った。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい状況【じょうきょう】に遭【あ】った。",
+    "meaning": "He encountered a severe situation."
+  },
+  {
+    "sentence": "突然の病に遭った。",
+    "sentence_furigana": "突然【とつぜん】の病【びょう】に遭【あ】った。",
+    "meaning": "I fell suddenly ill."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "偶然に旧友に会った。",
+    "sentence_furigana": "偶然【ぐうぜん】に旧友【きゅうゆう】に会【あ】った。",
+    "meaning": "I met an old friend by chance."
+  },
+  {
+    "sentence": "彼は多くの人々に会った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】に会【あ】った。",
+    "meaning": "He met many people."
+  },
+  {
+    "sentence": "彼は予期せぬ事態に直面した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事態【よきせぬじたい】に直面【ちょくめん】した。",
+    "meaning": "He faced an unexpected situation."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "私たちは困難な状況に出会った。",
+    "sentence_furigana": "私【わたし】たち は 困難【こんなん】な状況【じょうきょう】に 出会【であ】った。",
+    "meaning": "We encountered a difficult situation."
+  },
+  {
+    "sentence": "彼は困難な状況に直面した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に直面【ちょくめん】した。",
+    "meaning": "He faced a difficult situation."
+  },
+  {
+    "sentence": "彼は多くの困難を経験した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】を経験【けいけん】した。",
+    "meaning": "He experienced many difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ出来事に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ出来事【よきせぬできごと】に遭【あ】った。",
+    "meaning": "He encountered an unexpected event."
+  },
+  {
+    "sentence": "私たちは旅の途中で友人に会った。",
+    "sentence_furigana": "私【わたし】たち は 旅【たび】の途【と】で 友人【ゆうじん】に会【あ】った。",
+    "meaning": "We met a friend during our journey."
+  },
+  {
+    "sentence": "彼は予期せぬ障害に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ障害【よきせぬしょうがい】に遭【あ】った。",
+    "meaning": "He encountered unexpected obstacles."
+  },
+  {
+    "sentence": "彼は予期せぬ事態に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事態【よきせぬじたい】に遭遇【そうぐう】した。",
+    "meaning": "He encountered an unexpected situation."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に直面した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に直面【ちょくめん】した。",
+    "meaning": "He faced unexpected difficulties."
+  },
+  {
+    "sentence": "彼は困難に立ち向かった。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】に立【た】ち向【む】かった。",
+    "meaning": "He confronted difficulties."
+  },
+  {
+    "sentence": "彼は不幸な出来事に遭った。",
+    "sentence_furigana": "彼【かれ】は不幸【ふこう】な出来事【できごと】に遭【あ】った。",
+    "meaning": "He encountered an unfortunate event."
+  },
+  {
+    "sentence": "彼は困難な状況に陥った。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に陥【おちい】った。",
+    "meaning": "He fell into a difficult situation."
+  },
+  {
+    "sentence": "彼は予期せぬ問題に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ問題【よきせぬもんだい】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected problems."
+  },
+  {
+    "sentence": "彼は多くの困難に直面した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】に直面【ちょくめん】した。",
+    "meaning": "He faced many difficulties."
+  },
+  {
+    "sentence": "彼はその会議に出席する予定だ。",
+    "sentence_furigana": "彼【かれ】は その 会議【かいぎ】に 出席【しゅっせき】する予定【よてい】だ。",
+    "meaning": "He is scheduled to attend the meeting."
+  },
+  {
+    "sentence": "彼は困難な状況に遭遇した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭遇【そうぐう】した。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "予期せぬ出会いがあった。",
+    "sentence_furigana": "予期せぬ出会【よきせぬであ】いがあった。",
+    "meaning": "There was an unexpected encounter."
+  },
+  {
+    "sentence": "彼は偶然に友人と会った。",
+    "sentence_furigana": "彼【かれ】は偶然【ぐうぜん】に友人【ゆうじん】と会【あ】った。",
+    "meaning": "He met a friend by chance."
+  },
+  {
+    "sentence": "彼は困難な経験に直面した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な経験【けいけん】に直面【ちょくめん】した。",
+    "meaning": "He faced difficult experiences."
+  },
+  {
+    "sentence": "彼は予期せぬ事態に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事態【よきせぬじたい】に遭【あ】った。",
+    "meaning": "He encountered an unexpected situation."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼女は突然の雨に遭った。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の雨【あめ】に遭【あ】った。",
+    "meaning": "She was caught in a sudden rain."
+  },
+  {
+    "sentence": "彼は多くの苦難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの苦難【くんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered many hardships."
+  },
+  {
+    "sentence": "彼は予期せぬ事態に直面する。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事態【よきせぬじたい】に直面【ちょくめん】する。",
+    "meaning": "He faces an unexpected situation."
+  },
+  {
+    "sentence": "彼は多くの困難を乗り越えた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame many difficulties."
+  },
+  {
+    "sentence": "彼は事故に遭った。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】に遭【あ】った。",
+    "meaning": "He had an accident."
+  },
+  {
+    "sentence": "彼女は予期せぬ出来事に遭遇した。",
+    "sentence_furigana": "彼女【かのじょ】は予期せぬ出来事【よきせぬできごと】に遭遇【そうぐう】した。",
+    "meaning": "She encountered an unexpected event."
+  },
+  {
+    "sentence": "私たちは運命的な出会いをした。",
+    "sentence_furigana": "私【わたし】たち は 運命的【うんめいてき】な出会【であ】いをした。",
+    "meaning": "We had a fateful encounter."
+  },
+  {
+    "sentence": "彼は困難な状況を経験した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】を経験【けいけん】した。",
+    "meaning": "He experienced a difficult situation."
+  },
+  {
+    "sentence": "彼は偶然の出会いに恵まれた。",
+    "sentence_furigana": "彼【かれ】は偶然【ぐうぜん】の出会【であ】い に 恵【めぐ】まれた。",
+    "meaning": "He was blessed with a chance encounter."
+  },
+  {
+    "sentence": "彼は困難な状況に遭った。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭【あ】った。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "彼は予期せぬ事件に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事件【よきせぬじけん】に遭【あ】った。",
+    "meaning": "He encountered an unexpected incident."
+  },
+  {
+    "sentence": "私たちは予期せぬ困難に遭遇した。",
+    "sentence_furigana": "私【わたし】たち は 予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "We encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は多くの苦難に遭った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの苦難【くんなん】に遭【あ】った。",
+    "meaning": "He suffered many hardships."
+  },
+  {
+    "sentence": "彼は予期せぬ事態に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ事態【よきせぬじたい】に遭【あ】った。",
+    "meaning": "He encountered an unexpected situation."
+  },
+  {
+    "sentence": "彼は困難な状況に遭遇した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭遇【そうぐう】した。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "彼女は予期せぬ出来事に遭った。",
+    "sentence_furigana": "彼女【かのじょ】は予期せぬ出来事【よきせぬできごと】に遭【あ】った。",
+    "meaning": "She encountered an unexpected event."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に直面した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に直面【ちょくめん】した。",
+    "meaning": "He faced unexpected difficulties."
+  },
+  {
+    "sentence": "彼は困難な経験をした。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な経験【けいけん】をした。",
+    "meaning": "He had a difficult experience."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は困難な状況に遭遇した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭遇【そうぐう】した。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "彼は予期せぬ問題に直面した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ問題【よきせぬもんだい】に直面【ちょくめん】した。",
+    "meaning": "He faced unexpected problems."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は困難な状況に遭った。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭【あ】った。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "彼は予期せぬ出来事に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ出来事【よきせぬできごと】に遭【あ】った。",
+    "meaning": "He encountered an unexpected event."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は困難な状況に遭った。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に遭【あ】った。",
+    "meaning": "He encountered a difficult situation."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭った。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭【あ】った。",
+    "meaning": "He encountered unexpected difficulties."
+  },
+  {
+    "sentence": "彼は予期せぬ困難に遭遇した。",
+    "sentence_furigana": "彼【かれ】は予期せぬ困難【よきせぬこんなん】に遭遇【そうぐう】した。",
+    "meaning": "He encountered unexpected difficulties."
+  }
+]

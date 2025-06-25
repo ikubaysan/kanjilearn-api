@@ -12,11 +12,13 @@ logger = logging.getLogger(__name__)
 
 
 class SentenceGenerator:
-    def __init__(self, kanji_json_path: str, output_dir: str, config_path: str, sentence_count: int = 3):
+    def __init__(self, kanji_json_path: str, output_dir: str, config_path: str, sleep_seconds: int = 3, sentence_count: int = 3, skip_existing: bool = False):
         self.kanji_json_path = kanji_json_path
         self.output_dir = output_dir
         self.sentence_count = sentence_count
         self.config = Config(config_path)
+        self.skip_existing = skip_existing
+        self.sleep_seconds = sleep_seconds
         self.api_client = GoogleAIAPIClient(api_key=self.config.google_api_key,
                                             model_name=self.config.google_model,
                                             json_response=True)
@@ -30,10 +32,10 @@ class SentenceGenerator:
             kanji_data = json.load(f)
 
         # Build JLPT-only KanjiCollection
-        collection = KanjiCollection()
+        collection = KanjiCollection(sample_sentences_dir=self.output_dir)
         for character, data in kanji_data.items():
             kanji = Kanji(character, data)
-            collection.add_kanji(kanji)
+            collection.add_kanji(kanji, require_sample_sentences=False)
 
         # Combine kanji from N5 to N1
         jlpt_kanji = collection.n5 + collection.n4 + collection.n3 + collection.n2 + collection.n1
@@ -57,6 +59,18 @@ class SentenceGenerator:
                 time.sleep(3)
                 continue
 
+            # Subfolder by JLPT level (e.g., N5, N4, ...)
+            jlpt_level_str = f"N{kanji.jlpt_new}"
+            jlpt_dir = os.path.join(self.output_dir, jlpt_level_str)
+            os.makedirs(jlpt_dir, exist_ok=True)
+            output_path = os.path.join(jlpt_dir, f"{character}.json")
+            logger.info(f"Output path for {character}: {output_path}")
+
+            if self.skip_existing and os.path.exists(output_path):
+                logger.info(f"Skipping existing file for {character}: {output_path}")
+                success_count += 1
+                continue
+
             success = False
             attempt = 0
 
@@ -70,12 +84,6 @@ class SentenceGenerator:
 
                     parsed_response = json.loads(response)
 
-                    # Subfolder by JLPT level (e.g., N5, N4, ...)
-                    jlpt_level_str = f"N{kanji.jlpt_new}"
-                    jlpt_dir = os.path.join(self.output_dir, jlpt_level_str)
-                    os.makedirs(jlpt_dir, exist_ok=True)
-
-                    output_path = os.path.join(jlpt_dir, f"{character}.json")
                     with open(output_path, 'w', encoding='utf-8') as out_file:
                         json.dump(parsed_response, out_file, ensure_ascii=False, indent=2)
 
@@ -116,6 +124,8 @@ if __name__ == "__main__":
         kanji_json_path=kanji_json,
         output_dir=output_directory,
         config_path=config_ini,
-        sentence_count=100
+        sleep_seconds=1,
+        sentence_count=100,
+        skip_existing=True
     )
     generator.generate_for_all()

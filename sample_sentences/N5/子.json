@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "この子はとても賢いですね。",
+    "sentence_furigana": "この子【こ】はとても賢【かしこ】いですね。",
+    "meaning": "This child is very smart."
+  },
+  {
+    "sentence": "子供の頃はよく遊びました。",
+    "sentence_furigana": "子供【こども】の頃【ころ】はよく遊【あそ】びました。",
+    "meaning": "I played a lot when I was a child."
+  },
+  {
+    "sentence": "息子さんが大学に合格したそうです。",
+    "sentence_furigana": "息子【むすこ】さんが大学【だいがく】に合格【ごうかく】したそうです。",
+    "meaning": "I heard your son passed the university entrance exam."
+  },
+  {
+    "sentence": "娘が描いた絵を見せてくれました。",
+    "sentence_furigana": "娘【むすめ】が描【か】いた絵【え】を見【み】せてくれました。",
+    "meaning": "She showed me a drawing her daughter made."
+  },
+  {
+    "sentence": "お子さんをお預かりします。",
+    "sentence_furigana": "お子【こ】さんをお預【あず】かりします。",
+    "meaning": "We will take care of your child."
+  },
+  {
+    "sentence": "電子レンジで食品を温めます。",
+    "sentence_furigana": "電子【でんし】レンジで食品【しょくひん】を温【あたた】めます。",
+    "meaning": "Warm the food in the microwave."
+  },
+  {
+    "sentence": "彼女は大学で物理学を専攻している。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で物理学【ぶつりがく】を専攻【せんこう】している。",
+    "meaning": "She is majoring in physics at university."
+  },
+  {
+    "sentence": "最近の若者はスマホを手放せない。",
+    "sentence_furigana": "最近【さいきん】の若者【わかもの】はスマホを手放【てばな】せない。",
+    "meaning": "Young people these days can't let go of their smartphones."
+  },
+  {
+    "sentence": "将来、医者になりたいと思っています。",
+    "sentence_furigana": "将来【しょうらい】、医者【いしゃ】になりたいと思【おも】っています。",
+    "meaning": "I want to become a doctor in the future."
+  },
+  {
+    "sentence": "彼女は子供好きな人です。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】好【す】きな人【ひと】です。",
+    "meaning": "She is a person who likes children."
+  },
+  {
+    "sentence": "これは私の作品です。",
+    "sentence_furigana": "これは私【わたし】の作品【さくひん】です。",
+    "meaning": "This is my work."
+  },
+  {
+    "sentence": "その事件はすでに解決済みです。",
+    "sentence_furigana": "その事件【じけん】はすでに解決済【かいけつず】みです。",
+    "meaning": "That case has already been solved."
+  },
+  {
+    "sentence": "彼は社長の息子です。",
+    "sentence_furigana": "彼【かれ】は社長【しゃちょう】の息子【むすこ】です。",
+    "meaning": "He is the president's son."
+  },
+  {
+    "sentence": "子供の安全を第一に考えてください。",
+    "sentence_furigana": "子供【こども】の安全【あんぜん】を第一【だいいち】に考【かんが】えてください。",
+    "meaning": "Please prioritize the child's safety."
+  },
+  {
+    "sentence": "この子はまだ字が書けない。",
+    "sentence_furigana": "この子【こ】はまだ字【じ】が書【か】けない。",
+    "meaning": "This child cannot write characters yet."
+  },
+  {
+    "sentence": "来週、子供向けの映画が公開されます。",
+    "sentence_furigana": "来週【らいしゅう】、子供【こども】向【む】けの映画【えいが】が公開【こうかい】されます。",
+    "meaning": "A movie for children will be released next week."
+  },
+  {
+    "sentence": "彼は大学の先生です。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】の先生【せんせい】です。",
+    "meaning": "He is a university professor."
+  },
+  {
+    "sentence": "その子はとても大人びて見える。",
+    "sentence_furigana": "その子【こ】はとても大人【おとな】びて見【み】える。",
+    "meaning": "That child looks very mature."
+  },
+  {
+    "sentence": "子供は国の宝です。",
+    "sentence_furigana": "子供【こども】は国【くに】の宝【たから】です。",
+    "meaning": "Children are the treasure of a country."
+  },
+  {
+    "sentence": "彼は自分の子供に厳しい。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の子供【こども】に厳【きび】しい。",
+    "meaning": "He is strict with his own children."
+  },
+  {
+    "sentence": "電子レンジで簡単にお湯が沸かせます。",
+    "sentence_furigana": "電子【でんし】レンジで簡単【かんたん】にお湯【ゆ】が沸【わ】かせます。",
+    "meaning": "You can easily boil water in the microwave."
+  },
+  {
+    "sentence": "彼女は小説をたくさん読んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は小説【しょうせつ】をたくさん読【よ】んでいる。",
+    "meaning": "She reads a lot of novels."
+  },
+  {
+    "sentence": "未来の子供たちのために、環境を守ろう。",
+    "sentence_furigana": "未来【みらい】の子供【こども】たちのため、環境【かんきょう】を守【まも】ろう。",
+    "meaning": "Let's protect the environment for the children of the future."
+  },
+  {
+    "sentence": "この子は才能がある。",
+    "sentence_furigana": "この子【こ】は才能【さいのう】がある。",
+    "meaning": "This child has talent."
+  },
+  {
+    "sentence": "彼の言動は子供っぽい。",
+    "sentence_furigana": "彼【かれ】の言動【げんどう】は子供【こども】っぽい。",
+    "meaning": "His words and actions are childish."
+  },
+  {
+    "sentence": "最近、子供の貧困が問題になっている。",
+    "sentence_furigana": "最近【さいきん】、子供【こども】の貧困【ひんこん】が問題【もんだい】になっている。",
+    "meaning": "Child poverty has become a problem recently."
+  },
+  {
+    "sentence": "この子は本当に手がかからない。",
+    "sentence_furigana": "この子【こ】は本当【ほんとう】に手【て】がかからない。",
+    "meaning": "This child is really easy to take care of."
+  },
+  {
+    "sentence": "電子辞書は便利です。",
+    "sentence_furigana": "電子【でんし】辞書【じしょ】は便利【べんり】です。",
+    "meaning": "An electronic dictionary is convenient."
+  },
+  {
+    "sentence": "彼はいつもニコニコしている。",
+    "sentence_furigana": "彼【かれ】はいつもニコニコしている。",
+    "meaning": "He is always smiling."
+  },
+  {
+    "sentence": "子供の成長は早い。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】は早【はや】い。",
+    "meaning": "Children grow up fast."
+  },
+  {
+    "sentence": "彼女は一人暮らしが長い。",
+    "sentence_furigana": "彼女【かのじょ】は一人暮【ひとりぐ】らしが長【なが】い。",
+    "meaning": "She has been living alone for a long time."
+  },
+  {
+    "sentence": "彼の子供時代の写真を見た。",
+    "sentence_furigana": "彼【かれ】の子供時代【こどもじだい】の写真【しゃしん】を見【み】た。",
+    "meaning": "I saw a photo of him as a child."
+  },
+  {
+    "sentence": "子供の教育にはお金がかかる。",
+    "sentence_furigana": "子供【こども】の教育【きょういく】にはお金【かね】がかかる。",
+    "meaning": "Child education costs money."
+  },
+  {
+    "sentence": "その子はまだ小さいのに、しっかりしている。",
+    "sentence_furigana": "その子【こ】はまだ小【ちい】さいのに、しっかりしている。",
+    "meaning": "That child is still young, but is well-behaved."
+  },
+  {
+    "sentence": "彼女は子供服のデザインをしている。",
+    "sentence_furigana": "彼女【かのじょ】は子供服【こどもふく】のデザインをしている。",
+    "meaning": "She designs children's clothes."
+  },
+  {
+    "sentence": "電子工作に興味があります。",
+    "sentence_furigana": "電子【でんし】工作【こうさく】に興味【きょうみ】があります。",
+    "meaning": "I am interested in electronics manufacturing."
+  },
+  {
+    "sentence": "彼女は子供の写真を見せてくれた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の写真【しゃしん】を見【み】せてくれた。",
+    "meaning": "She showed me pictures of her children."
+  },
+  {
+    "sentence": "この本は子供にも分かりやすい。",
+    "sentence_furigana": "この本【ほん】は子供【こども】にも分【わ】かりやすい。",
+    "meaning": "This book is easy for children to understand."
+  },
+  {
+    "sentence": "彼の仕事は電子部品の製造だ。",
+    "sentence_furigana": "彼【かれ】の仕事【しごと】は電子部品【でんしぶひん】の製造【せいぞう】だ。",
+    "meaning": "His job is the manufacture of electronic components."
+  },
+  {
+    "sentence": "子供のころに戻りたい。",
+    "sentence_furigana": "子供【こども】のころに戻【もど】りたい。",
+    "meaning": "I want to return to my childhood."
+  },
+  {
+    "sentence": "彼女は子供の扱いが上手だ。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の扱【あつか】いが上手【じょうず】だ。",
+    "meaning": "She is good at handling children."
+  },
+  {
+    "sentence": "その子供はとても明るい。",
+    "sentence_furigana": "その子供【こども】はとても明【あか】るい。",
+    "meaning": "That child is very cheerful."
+  },
+  {
+    "sentence": "子供の頃、よくアニメを見ていました。",
+    "sentence_furigana": "子供【こども】の頃【ころ】、よくアニメを見【み】ていました。",
+    "meaning": "I used to watch a lot of anime when I was a child."
+  },
+  {
+    "sentence": "彼は大学の授業料を稼ぐために働いている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】の授業料【じゅぎょうりょう】を稼【かせ】ぐために働【はたら】いている。",
+    "meaning": "He is working to earn his university tuition."
+  },
+  {
+    "sentence": "彼女は子供の絵を飾っている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の絵【え】を飾【かざ】っている。",
+    "meaning": "She is displaying her child's drawings."
+  },
+  {
+    "sentence": "その子は静かに本を読んでいる。",
+    "sentence_furigana": "その子【こ】は静【しず】かに本【ほん】を読【よ】んでいる。",
+    "meaning": "That child is quietly reading a book."
+  },
+  {
+    "sentence": "電子レンジの使い方がわからない。",
+    "sentence_furigana": "電子【でんし】レンジの使い方【つか】い方【かた】がわからない。",
+    "meaning": "I don't know how to use a microwave."
+  },
+  {
+    "sentence": "彼の子供はもう小学生だ。",
+    "sentence_furigana": "彼【かれ】の子供【こども】はもう小学生【しょうがくせい】だ。",
+    "meaning": "His child is already an elementary school student."
+  },
+  {
+    "sentence": "彼女は子供に優しく接する。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に優【やさ】しく接【せっ】する。",
+    "meaning": "She treats children kindly."
+  },
+  {
+    "sentence": "子供の未来のために、今できることをしよう。",
+    "sentence_furigana": "子供【こども】の未来【みらい】のため、今【いま】できることをしよう。",
+    "meaning": "Let's do what we can now for the future of children."
+  },
+  {
+    "sentence": "彼は子供用の自転車を買った。",
+    "sentence_furigana": "彼【かれ】は子供用【こどもよう】の自転車【じてんしゃ】を買【か】った。",
+    "meaning": "He bought a bicycle for children."
+  },
+  {
+    "sentence": "彼女は子供に読み聞かせをしている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に読【よ】み聞【き】かせをしている。",
+    "meaning": "She is reading aloud to her children."
+  },
+  {
+    "sentence": "この子は絵を描くのが好きです。",
+    "sentence_furigana": "この子【こ】は絵【え】を描【か】くのが好【す】きです。",
+    "meaning": "This child likes to draw pictures."
+  },
+  {
+    "sentence": "彼の息子は大学を卒業した。",
+    "sentence_furigana": "彼【かれ】の息子【むすこ】は大学【だいがく】を卒業【そつぎょう】した。",
+    "meaning": "His son graduated from university."
+  },
+  {
+    "sentence": "彼女は子供の健康を気遣っている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の健康【けんこう】を気遣【きづか】っている。",
+    "meaning": "She is concerned about her child's health."
+  },
+  {
+    "sentence": "その子はとても活発だ。",
+    "sentence_furigana": "その子【こ】はとても活発【かっぱつ】だ。",
+    "meaning": "That child is very active."
+  },
+  {
+    "sentence": "子供は親の言うことを聞くべきだ。",
+    "sentence_furigana": "子供【こども】は親【おや】の言【い】うことを聞【き】くべきだ。",
+    "meaning": "Children should listen to their parents."
+  },
+  {
+    "sentence": "彼は子供のころから科学が好きだった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】のころから科学【かがく】が好【す】きだった。",
+    "meaning": "He liked science since he was a child."
+  },
+  {
+    "sentence": "彼女は子供たちのために歌っている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちのために歌【うた】っている。",
+    "meaning": "She is singing for the children."
+  },
+  {
+    "sentence": "この子はまだ物事を理解するのが難しいようだ。",
+    "sentence_furigana": "この子【こ】はまだ物事【ものごと】を理解【りかい】するのが難【むずか】しいようだ。",
+    "meaning": "This child seems to find it difficult to understand things yet."
+  },
+  {
+    "sentence": "彼は子供の悪戯に手を焼いている。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の悪戯【いたずら】にてを焼【や】いている。",
+    "meaning": "He is having trouble with his child's mischief."
+  },
+  {
+    "sentence": "彼女は子供用の自転車に乗っている。",
+    "sentence_furigana": "彼女【かのじょ】は子供用【こどもよう】の自転車【じてんしゃ】に乗【の】っている。",
+    "meaning": "She is riding a bicycle for children."
+  },
+  {
+    "sentence": "子供が寝静まった後、勉強を始めます。",
+    "sentence_furigana": "子供【こども】が寝静【ねしず】まった後【あと】、勉強【べんきょう】を始【はじ】めます。",
+    "meaning": "I start studying after the children have fallen asleep."
+  },
+  {
+    "sentence": "彼は子供の頃、よく病気になった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、よく病気【びょうき】になった。",
+    "meaning": "He often got sick when he was a child."
+  },
+  {
+    "sentence": "彼女は子供の誕生日を祝った。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の誕生日【たんじょうび】を祝【いわ】った。",
+    "meaning": "She celebrated her child's birthday."
+  },
+  {
+    "sentence": "その子は初めて海を見た。",
+    "sentence_furigana": "その子【こ】は初【はじ】めて海【うみ】を見【み】た。",
+    "meaning": "That child saw the sea for the first time."
+  },
+  {
+    "sentence": "子供は素直で良い。",
+    "sentence_furigana": "子供【こども】は素直【すなお】で良【よ】い。",
+    "meaning": "Children are honest and good."
+  },
+  {
+    "sentence": "彼は子供が大好きで、よく遊んであげる。",
+    "sentence_furigana": "彼【かれ】は子供【こども】が大好き【だいす】きで、よく遊【あそ】んであげる。",
+    "meaning": "He loves children and often plays with them."
+  },
+  {
+    "sentence": "彼女は子供の将来を案じている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の将来【しょうらい】を案【あん】じている。",
+    "meaning": "She is worried about her child's future."
+  },
+  {
+    "sentence": "子供の頃の夢を覚えていますか？",
+    "sentence_furigana": "子供【こども】の頃【ころ】の夢【ゆめ】を覚【おぼ】えていますか？",
+    "meaning": "Do you remember your childhood dreams?"
+  },
+  {
+    "sentence": "彼は子供に良い手本を示したい。",
+    "sentence_furigana": "彼【かれ】は子供【こども】に良【よ】い手本【てほん】を示【しめ】したい。",
+    "meaning": "He wants to set a good example for his children."
+  },
+  {
+    "sentence": "彼女は子供の才能を伸ばすために努力している。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の才能【さいのう】を伸【の】ばすために努力【どりょく】している。",
+    "meaning": "She is working hard to foster her child's talent."
+  },
+  {
+    "sentence": "子供はまだ小さいので、無理はさせないでください。",
+    "sentence_furigana": "子供【こども】はまだ小【ちい】さいので、無理【むり】はさせないでください。",
+    "meaning": "The child is still young, so please don't overwork them."
+  },
+  {
+    "sentence": "彼は子供を連れて公園に行った。",
+    "sentence_furigana": "彼【かれ】は子供【こども】を連【つ】れて公園【こうえん】に行【い】った。",
+    "meaning": "He took his child to the park."
+  },
+  {
+    "sentence": "彼女は子供が寝ている間に家事をこなす。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】が寝【ね】ている間【あいだ】に家事【かじ】をこなす。",
+    "meaning": "She does housework while the children are sleeping."
+  },
+  {
+    "sentence": "子供のけんかに親は口出ししない方が良い。",
+    "sentence_furigana": "子供【こども】のけんかに親【おや】は口出【くちだ】ししない方【ほう】が良い【よい】。",
+    "meaning": "It is better for parents not to interfere in children's quarrels."
+  },
+  {
+    "sentence": "彼は子供の将来を心配している。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の将来【しょうらい】を心配【しんぱい】している。",
+    "meaning": "He is worried about his child's future."
+  },
+  {
+    "sentence": "彼女は子供の写真集を作った。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の写真集【しゃしんしゅう】を作【つく】った。",
+    "meaning": "She made a photo album of her children."
+  },
+  {
+    "sentence": "子供はおもちゃで遊ぶのが好きです。",
+    "sentence_furigana": "子供【こども】はおもちゃで遊【あそ】ぶのが好【す】きです。",
+    "meaning": "Children like to play with toys."
+  },
+  {
+    "sentence": "彼は子供の頃、サッカー選手になりたかった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、サッカー選手【せんしゅ】になりたかった。",
+    "meaning": "He wanted to be a soccer player when he was a child."
+  },
+  {
+    "sentence": "彼女は子供に食事を与えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に食事【しょくじ】を与【あた】えている。",
+    "meaning": "She is giving food to the children."
+  },
+  {
+    "sentence": "子供たちの笑い声が響いている。",
+    "sentence_furigana": "子供【こども】たちの笑【わら】い声【ごえ】が響【ひび】いている。",
+    "meaning": "The children's laughter is echoing."
+  },
+  {
+    "sentence": "彼は子供の世話をするのが得意だ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の世話【せわ】をするのが得意【とくい】だ。",
+    "meaning": "He is good at taking care of children."
+  },
+  {
+    "sentence": "彼女は子供に本の読み聞かせをしている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に本【ほん】の読【よ】み聞【き】かせをしている。",
+    "meaning": "She is reading books to her children."
+  },
+  {
+    "sentence": "子供の意見も尊重すべきです。",
+    "sentence_furigana": "子供【こども】の意見【いけん】も尊重【そんちょう】すべきです。",
+    "meaning": "Children's opinions should also be respected."
+  },
+  {
+    "sentence": "彼は子供たちと一緒に遊ぶのが好きだ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちと一緒【いっしょ】に遊【あそ】ぶのが好【す】きだ。",
+    "meaning": "He likes playing with children."
+  },
+  {
+    "sentence": "彼女は子供に数学を教えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に数学【すうがく】を教【おし】えている。",
+    "meaning": "She is teaching mathematics to children."
+  },
+  {
+    "sentence": "子供の言葉は真実を映す。",
+    "sentence_furigana": "子供【こども】の言葉【ことば】は真実【しんじつ】を映【うつ】す。",
+    "meaning": "Children's words reflect the truth."
+  },
+  {
+    "sentence": "彼は子供の安全を第一に考えた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の安全【あんぜん】を第一【だいいち】に考【かんが】えた。",
+    "meaning": "He prioritized the child's safety."
+  },
+  {
+    "sentence": "彼女は子供の写真をたくさん撮った。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の写真【しゃしん】をたくさん撮【と】った。",
+    "meaning": "She took many pictures of her children."
+  },
+  {
+    "sentence": "子供は成長するにつれて変わっていく。",
+    "sentence_furigana": "子供【こども】は成長【せいちょう】するにつれて変【か】わっていく。",
+    "meaning": "Children change as they grow."
+  },
+  {
+    "sentence": "彼は子供の寝顔を見て微笑んだ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の寝顔【ねがお】を見【み】て微笑【ほほえ】んだ。",
+    "meaning": "He smiled looking at his child's sleeping face."
+  },
+  {
+    "sentence": "彼女は子供に約束を守るように言った。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に約束【やくそく】を守【まも】るように言【い】った。",
+    "meaning": "She told her child to keep their promises."
+  },
+  {
+    "sentence": "子供の頃は夢をたくさん見た。",
+    "sentence_furigana": "子供【こども】の頃【ころ】は夢【ゆめ】をたくさん見【み】た。",
+    "meaning": "I had many dreams when I was a child."
+  },
+  {
+    "sentence": "彼は子供の成長を記録している。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の成長【せいちょう】を記録【きろく】している。",
+    "meaning": "He is documenting his child's growth."
+  },
+  {
+    "sentence": "彼女は子供に野菜を食べさせた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に野菜【やさい】を食【た】べさせた。",
+    "meaning": "She made her children eat vegetables."
+  },
+  {
+    "sentence": "子供は好奇心旺盛だ。",
+    "sentence_furigana": "子供【こども】は好奇心旺盛【こうきしんおうせい】だ。",
+    "meaning": "Children are full of curiosity."
+  },
+  {
+    "sentence": "彼は子供の成績を気にかけている。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の成績【せいせき】を気【き】にかけている。",
+    "meaning": "He is concerned about his child's academic performance."
+  },
+  {
+    "sentence": "彼女は子供に読み書きを教えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に読【よ】み書【か】きを教【おし】えている。",
+    "meaning": "She is teaching children reading and writing."
+  },
+  {
+    "sentence": "子供の笑顔は世界を明るくする。",
+    "sentence_furigana": "子供【こども】の笑顔【えがお】は世界【せかい】を明【あか】るくする。",
+    "meaning": "Children's smiles brighten the world."
+  },
+  {
+    "sentence": "彼は子供の将来のために貯金をしている。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の将来【しょうらい】のために貯金【ちょきん】をしている。",
+    "meaning": "He is saving money for his child's future."
+  },
+  {
+    "sentence": "彼女は子供たちの面倒を見ている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの面倒【めんどう】を見【み】ている。",
+    "meaning": "She is taking care of the children."
+  },
+  {
+    "sentence": "子供はみんな宝物だ。",
+    "sentence_furigana": "子供【こども】はみんな宝物【たからもの】だ。",
+    "meaning": "All children are treasures."
+  }
+]

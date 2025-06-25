@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "彼の願いは世界平和です。",
+    "sentence_furigana": "彼【かれ】の願【ねが】い は世界【せかい】平和【へいわ】です。",
+    "meaning": "His wish is world peace."
+  },
+  {
+    "sentence": "平和を願う。",
+    "sentence_furigana": "平和【へいわ】を願【ねが】う。",
+    "meaning": "To wish for peace."
+  },
+  {
+    "sentence": "国家への忠誠を誓う。",
+    "sentence_furigana": "国家【こっか】への忠誠【ちゅうせい】を誓【ちか】う。",
+    "meaning": "To pledge loyalty to the country."
+  },
+  {
+    "sentence": "当選を願って宝くじを買った。",
+    "sentence_furigana": "当選【とうせん】を願【ねが】って宝【たか】くじを買【か】った。",
+    "meaning": "I bought a lottery ticket hoping to win."
+  },
+  {
+    "sentence": "神様に願い事をしました。",
+    "sentence_furigana": "神様【かみさま】に願【ねが】い事【ごと】をしました。",
+    "meaning": "I made a wish to God."
+  },
+  {
+    "sentence": "叶えたい願いがある。",
+    "sentence_furigana": "叶【かな】えたい願【ねが】いがある。",
+    "meaning": "I have a wish I want to fulfill."
+  },
+  {
+    "sentence": "国民の幸福を願う。",
+    "sentence_furigana": "国民【こくみん】の幸福【こうふく】を願【ねが】う。",
+    "meaning": "To wish for the happiness of the people."
+  },
+  {
+    "sentence": "困難な状況でも希望を失わない願い。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を失【うしな】わない願【ねが】い。",
+    "meaning": "A wish to not lose hope even in difficult situations."
+  },
+  {
+    "sentence": "将来の成功を願って努力する。",
+    "sentence_furigana": "将来【しょうらい】の成功【せいこう】を願【ねが】って努力【どりょく】する。",
+    "meaning": "To strive with the wish for future success."
+  },
+  {
+    "sentence": "病気の回復を願う。",
+    "sentence_furigana": "病気【びょうき】の回復【かいふく】を願【ねが】う。",
+    "meaning": "To wish for recovery from illness."
+  },
+  {
+    "sentence": "皆様の健勝を願っております。",
+    "sentence_furigana": "皆様【みなさま】の健勝【けんしょう】を願【ねが】っております。",
+    "meaning": "We wish for everyone's good health."
+  },
+  {
+    "sentence": "彼の無事を願うばかりだ。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】を願【ねが】うばかりだ。",
+    "meaning": "I can only wish for his safety."
+  },
+  {
+    "sentence": "永遠の愛を願う。",
+    "sentence_furigana": "永遠【えいえん】の愛【あい】を願【ねが】う。",
+    "meaning": "To wish for eternal love."
+  },
+  {
+    "sentence": "事件の早期解決を願う。",
+    "sentence_furigana": "事件【じけん】の早期【そうき】解決【かいけつ】を願【ねが】う。",
+    "meaning": "To wish for the early resolution of the incident."
+  },
+  {
+    "sentence": "安全な旅を願って送り出した。",
+    "sentence_furigana": "安全【あんぜん】な旅【たび】を願【ねが】って送【おく】り出【だ】した。",
+    "meaning": "We sent them off wishing them a safe journey."
+  },
+  {
+    "sentence": "合格を願う気持ちは一つだ。",
+    "sentence_furigana": "合格【ごうかく】を願【ねが】う気持【きも】ちは一つだ。",
+    "meaning": "Our wish for passing is unanimous."
+  },
+  {
+    "sentence": "平和な世界を願う。",
+    "sentence_furigana": "平和【へいわ】な世界【せかい】を願【ねが】う。",
+    "meaning": "To wish for a peaceful world."
+  },
+  {
+    "sentence": "子供たちの明るい未来を願う。",
+    "sentence_furigana": "子供【こども】たちの明【あか】るい未来【みらい】を願【ねが】う。",
+    "meaning": "To wish for a bright future for the children."
+  },
+  {
+    "sentence": "彼女の幸せを願っている。",
+    "sentence_furigana": "彼女【かのじょ】の幸【しあわ】せを願【ねが】っている。",
+    "meaning": "I am wishing for her happiness."
+  },
+  {
+    "sentence": "この願いが叶うように祈る。",
+    "sentence_furigana": "この願【ねが】いが叶【かな】うように祈【いの】る。",
+    "meaning": "I pray that this wish comes true."
+  },
+  {
+    "sentence": "社会全体の発展を願う。",
+    "sentence_furigana": "社会【しゃかい】全体【ぜんたい】の発展【はってん】を願【ねが】う。",
+    "meaning": "To wish for the development of society as a whole."
+  },
+  {
+    "sentence": "復興への願いを込めて。",
+    "sentence_furigana": "復興【ふっこう】への願【ねが】いを込【こ】めて。",
+    "meaning": "With a wish for recovery."
+  },
+  {
+    "sentence": "彼の健康を願う。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を願【ねが】う。",
+    "meaning": "To wish for his health."
+  },
+  {
+    "sentence": "人生の成功を願ってやまない。",
+    "sentence_furigana": "人生【じんせい】の成功【せいこう】を願【ねが】ってやまない。",
+    "meaning": "I never stop wishing for his success in life."
+  },
+  {
+    "sentence": "彼の復帰を強く願う。",
+    "sentence_furigana": "彼【かれ】の復帰【ふっき】を強【つよ】く願【ねが】う。",
+    "meaning": "I strongly wish for his return."
+  },
+  {
+    "sentence": "目標達成への強い願い。",
+    "sentence_furigana": "目標【もくひょう】達成【たっせい】への強【つよ】い願【ねが】い。",
+    "meaning": "A strong desire to achieve the goal."
+  },
+  {
+    "sentence": "このプロジェクトの成功を願う。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】を願【ねが】う。",
+    "meaning": "To wish for the success of this project."
+  },
+  {
+    "sentence": "安全な帰還を願う。",
+    "sentence_furigana": "安全【あんぜん】な帰還【きかん】を願【ねが】う。",
+    "meaning": "To wish for a safe return."
+  },
+  {
+    "sentence": "愛する人の幸せを願う。",
+    "sentence_furigana": "愛【あい】する人【ひと】の幸【しあわ】せを願【ねが】う。",
+    "meaning": "To wish for the happiness of a loved one."
+  },
+  {
+    "sentence": "困難を乗り越える願い。",
+    "sentence_furigana": "困難【こんなん】を乗【の】り越【こ】える願【ねが】い。",
+    "meaning": "A wish to overcome difficulties."
+  },
+  {
+    "sentence": "皆さんの協力をお願いします。",
+    "sentence_furigana": "皆【みな】さん の協力【きょうりょく】をお願い【ねが】います。",
+    "meaning": "I request everyone's cooperation."
+  },
+  {
+    "sentence": "彼の成功を心から願っています。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を心【こころ】から願【ねが】っています。",
+    "meaning": "I sincerely wish for his success."
+  },
+  {
+    "sentence": "この事態の収束を願う。",
+    "sentence_furigana": "この事態【じたい】の収束【しゅうそく】を願【ねが】う。",
+    "meaning": "To wish for the resolution of this situation."
+  },
+  {
+    "sentence": "健康で長生きすることを願う。",
+    "sentence_furigana": "健康【けんこう】で長生【ながい】きすることを願【ねが】う。",
+    "meaning": "To wish to live a long and healthy life."
+  },
+  {
+    "sentence": "平和な日々を願う。",
+    "sentence_furigana": "平和【へいわ】な日々【ひび】を願【ねが】う。",
+    "meaning": "To wish for peaceful days."
+  },
+  {
+    "sentence": "彼の回復をみんなで願おう。",
+    "sentence_furigana": "彼【かれ】の回復【かいふく】をみんなで願【ねが】おう。",
+    "meaning": "Let's all wish for his recovery."
+  },
+  {
+    "sentence": "人生の新たな門出を願う。",
+    "sentence_furigana": "人生【じんせい】の新【あら】たな門出【かどで】を願【ねが】う。",
+    "meaning": "To wish for a new beginning in life."
+  },
+  {
+    "sentence": "将来への希望を願う。",
+    "sentence_furigana": "将来【しょうらい】への希望【きぼう】を願【ねが】う。",
+    "meaning": "To wish for hope for the future."
+  },
+  {
+    "sentence": "安全な航海を願う。",
+    "sentence_furigana": "安全【あんぜん】な航海【こうかい】を願【ねが】う。",
+    "meaning": "To wish for a safe voyage."
+  },
+  {
+    "sentence": "彼の努力が報われることを願う。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が報【むく】いられることを願【ねが】う。",
+    "meaning": "To wish that his efforts are rewarded."
+  },
+  {
+    "sentence": "豊かな収穫を願う。",
+    "sentence_furigana": "豊【ゆた】かな収穫【しゅうかく】を願【ねが】う。",
+    "meaning": "To wish for a bountiful harvest."
+  },
+  {
+    "sentence": "困難な状況でも希望を捨てない願い。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を捨【す】てない願【ねが】い。",
+    "meaning": "A wish to not abandon hope even in difficult situations."
+  },
+  {
+    "sentence": "彼の活躍を願っています。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を願【ねが】っています。",
+    "meaning": "I am wishing for his success."
+  },
+  {
+    "sentence": "皆さんの多幸を願う。",
+    "sentence_furigana": "皆【みな】さんの多幸【たこう】を願【ねが】う。",
+    "meaning": "To wish for everyone's great happiness."
+  },
+  {
+    "sentence": "この度の不幸に対し、お悔やみ申し上げます。",
+    "sentence_furigana": "この度【このたび】の不幸【ふこう】に対し【たい】し、お悔【く】やみ申【もう】し上【あ】げます。",
+    "meaning": "We express our condolences for this misfortune."
+  },
+  {
+    "sentence": "平和への願いは世界共通だ。",
+    "sentence_furigana": "平和【へいわ】への願【ねが】いは世界【せかい】共通【きょうつう】だ。",
+    "meaning": "The wish for peace is common to the world."
+  },
+  {
+    "sentence": "彼の成功を強く願う。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を強【つよ】く願【ねが】う。",
+    "meaning": "I strongly wish for his success."
+  },
+  {
+    "sentence": "この国の未来を願う。",
+    "sentence_furigana": "この国【くに】の未来【みらい】を願【ねが】う。",
+    "meaning": "To wish for the future of this country."
+  },
+  {
+    "sentence": "彼の健勝を願う。",
+    "sentence_furigana": "彼【かれ】の健勝【けんしょう】を願【ねが】う。",
+    "meaning": "To wish for his good health."
+  },
+  {
+    "sentence": "子供たちの成長を願う。",
+    "sentence_furigana": "子供【こども】たちの成長【せいちょう】を願【ねが】う。",
+    "meaning": "To wish for the growth of children."
+  },
+  {
+    "sentence": "彼の今後の活躍を願ってやまない。",
+    "sentence_furigana": "彼【かれ】の今後【こんご】の活躍【かつやく】を願【ねが】ってやまない。",
+    "meaning": "I never stop wishing for his future success."
+  },
+  {
+    "sentence": "事故のない安全な運行を願う。",
+    "sentence_furigana": "事故【じこ】のない安全【あんぜん】な運行【うんこう】を願【ねが】う。",
+    "meaning": "To wish for safe operation without accidents."
+  },
+  {
+    "sentence": "成功を願う気持ちが伝わった。",
+    "sentence_furigana": "成功【せいこう】を願【ねが】う気持【きも】ちが伝【つた】わった。",
+    "meaning": "My wish for success was conveyed."
+  },
+  {
+    "sentence": "彼の無事な帰還を願う。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】な帰還【きかん】を願【ねが】う。",
+    "meaning": "To wish for his safe return."
+  },
+  {
+    "sentence": "平和を願う心は大切だ。",
+    "sentence_furigana": "平和【へいわ】を願【ねが】う心【こころ】は大切【たいせつ】だ。",
+    "meaning": "The wish for peace is important."
+  },
+  {
+    "sentence": "彼の健康を祈願する。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を祈願【きがん】する。",
+    "meaning": "To pray for his health."
+  },
+  {
+    "sentence": "彼の健康を願っています。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を願【ねが】っています。",
+    "meaning": "I am wishing for his health."
+  },
+  {
+    "sentence": "災害からの早期復興を願う。",
+    "sentence_furigana": "災害【さいがい】からの早期【そうき】復興【ふっこう】を願【ねが】う。",
+    "meaning": "To wish for the early recovery from the disaster."
+  },
+  {
+    "sentence": "家族の幸せを願う。",
+    "sentence_furigana": "家族【かぞく】の幸【しあわ】せを願【ねが】う。",
+    "meaning": "To wish for the happiness of one's family."
+  },
+  {
+    "sentence": "この旅の成功を願って。",
+    "sentence_furigana": "この旅【たび】の成功【せいこう】を願【ねが】って。",
+    "meaning": "Wishing for the success of this trip."
+  },
+  {
+    "sentence": "皆さんの健康を願っています。",
+    "sentence_furigana": "皆【みな】さんの健康【けんこう】を願【ねが】っています。",
+    "meaning": "I am wishing for everyone's health."
+  },
+  {
+    "sentence": "彼の再起を願う。",
+    "sentence_furigana": "彼【かれ】の再起【さいき】を願【ねが】う。",
+    "meaning": "To wish for his comeback."
+  },
+  {
+    "sentence": "みんなの安全を願っています。",
+    "sentence_furigana": "みんなの安全【あんぜん】を願【ねが】っています。",
+    "meaning": "I am wishing for everyone's safety."
+  },
+  {
+    "sentence": "平和な社会を願う。",
+    "sentence_furigana": "平和【へいわ】な社会【しゃかい】を願【ねが】う。",
+    "meaning": "To wish for a peaceful society."
+  },
+  {
+    "sentence": "皆さんの成功を願っています。",
+    "sentence_furigana": "皆【みな】さんの成功【せいこう】を願【ねが】っています。",
+    "meaning": "I am wishing for everyone's success."
+  },
+  {
+    "sentence": "彼の健康を心から願っています。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を心【こころ】から願【ねが】っています。",
+    "meaning": "I sincerely wish for his health."
+  },
+  {
+    "sentence": "この願いは決して叶わないだろう。",
+    "sentence_furigana": "この願【ねが】いは決【けっ】して叶【かな】わないだろう。",
+    "meaning": "This wish will never come true."
+  },
+  {
+    "sentence": "この願いは叶うだろう。",
+    "sentence_furigana": "この願【ねが】いは叶【かな】うだろう。",
+    "meaning": "This wish will probably come true."
+  },
+  {
+    "sentence": "彼の回復を願う。",
+    "sentence_furigana": "彼【かれ】の回復【かいふく】を願【ねが】う。",
+    "meaning": "To wish for his recovery."
+  },
+  {
+    "sentence": "その願いが叶うことを祈っています。",
+    "sentence_furigana": "その願【ねが】いが叶【かな】うことを祈【いの】っています。",
+    "meaning": "I am praying that the wish comes true."
+  },
+  {
+    "sentence": "彼の無事を願います。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】を願【ねが】います。",
+    "meaning": "I wish for his safety."
+  },
+  {
+    "sentence": "彼の努力を願う。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】を願【ねが】う。",
+    "meaning": "To wish for his efforts."
+  },
+  {
+    "sentence": "彼の成功を願って応援する。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を願【ねが】って応援【おうえん】する。",
+    "meaning": "To support him, wishing for his success."
+  },
+  {
+    "sentence": "彼の無事を願っています。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】を願【ねが】っています。",
+    "meaning": "I am wishing for his safety."
+  },
+  {
+    "sentence": "この願いを胸に刻む。",
+    "sentence_furigana": "この願【ねが】いを胸【むね】に刻【きざ】む。",
+    "meaning": "To engrave this wish in my heart."
+  },
+  {
+    "sentence": "彼の発展を願う。",
+    "sentence_furigana": "彼【かれ】の発展【はってん】を願【ねが】う。",
+    "meaning": "To wish for his development."
+  },
+  {
+    "sentence": "彼の健闘を願う。",
+    "sentence_furigana": "彼【かれ】の健闘【けんとう】を願【ねが】う。",
+    "meaning": "To wish for his best efforts."
+  },
+  {
+    "sentence": "安全な旅を願って送り出す。",
+    "sentence_furigana": "安全【あんぜん】な旅【たび】を願【ねが】って送【おく】り出【だ】す。",
+    "meaning": "To send someone off, wishing them a safe journey."
+  },
+  {
+    "sentence": "彼の再出発を願う。",
+    "sentence_furigana": "彼【かれ】の再出発【さいしゅっぱつ】を願【ねが】う。",
+    "meaning": "To wish for his fresh start."
+  },
+  {
+    "sentence": "彼の成功を願う気持ちを込めて。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を願【ねが】う気持【きも】ちを込【こ】めて。",
+    "meaning": "With a wish for his success."
+  },
+  {
+    "sentence": "彼の健康を願っているばかりだ。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を願【ねが】っているばかりだ。",
+    "meaning": "I can only wish for his health."
+  },
+  {
+    "sentence": "彼の今後の活躍を願う。",
+    "sentence_furigana": "彼【かれ】の今後【こんご】の活躍【かつやく】を願【ねが】う。",
+    "meaning": "To wish for his future success."
+  },
+  {
+    "sentence": "彼の目標達成を願う。",
+    "sentence_furigana": "彼【かれ】の目標【もくひょう】達成【たっせい】を願【ねが】う。",
+    "meaning": "To wish for the achievement of his goals."
+  },
+  {
+    "sentence": "彼の健康を願うばかりだ。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を願【ねが】うばかりだ。",
+    "meaning": "I can only wish for his health."
+  },
+  {
+    "sentence": "彼の成功を心より願う。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を心【こころ】より願【ねが】う。",
+    "meaning": "I sincerely wish for his success."
+  },
+  {
+    "sentence": "この願いはきっと叶う。",
+    "sentence_furigana": "この願【ねが】いはきっと叶【かな】う。",
+    "meaning": "This wish will surely come true."
+  },
+  {
+    "sentence": "彼の活躍を願う。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を願【ねが】う。",
+    "meaning": "To wish for his success."
+  },
+  {
+    "sentence": "彼の健康を祈る。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を祈【いの】る。",
+    "meaning": "To pray for his health."
+  },
+  {
+    "sentence": "彼の成功を祈る。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を祈【いの】る。",
+    "meaning": "To pray for his success."
+  },
+  {
+    "sentence": "この願いが叶うことを信じている。",
+    "sentence_furigana": "この願【ねが】いが叶【かな】うことを信【しん】じている。",
+    "meaning": "I believe that this wish will come true."
+  },
+  {
+    "sentence": "彼の無事を祈る。",
+    "sentence_furigana": "彼【かれ】の無事【ぶじ】を祈【いの】る。",
+    "meaning": "To pray for his safety."
+  },
+  {
+    "sentence": "皆さまのご多幸を願っています。",
+    "sentence_furigana": "皆【みな】さまのご多幸【たこう】を願【ねが】っています。",
+    "meaning": "I am wishing for everyone's great happiness."
+  }
+]

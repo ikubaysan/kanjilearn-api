@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "彼の体はとても大きい。",
+    "sentence_furigana": "彼【かれ】の体【からだ】はとても大【おお】きい。",
+    "meaning": "His body is very large."
+  },
+  {
+    "sentence": "体の健康に気をつけてください。",
+    "sentence_furigana": "体【からだ】の健康【けんこう】に気【き】をつけてください。",
+    "meaning": "Please take care of your body's health."
+  },
+  {
+    "sentence": "この物体は私の体よりも重い。",
+    "sentence_furigana": "この物体【ぶったい】は私【わたし】の体【からだ】よりも重【おも】い。",
+    "meaning": "This object is heavier than my body."
+  },
+  {
+    "sentence": "彼は自分の体を大切にしている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の体【からだ】を大切【たいせつ】にしている。",
+    "meaning": "He cherishes his body."
+  },
+  {
+    "sentence": "その建物は巨大な体をしている。",
+    "sentence_furigana": "その建物【たてもの】は巨大【きょだい】な体【からだ】をしている。",
+    "meaning": "That building has a huge form."
+  },
+  {
+    "sentence": "彼は自分の体調をよく理解している。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の体調【たいちょう】をよく理解【りかい】している。",
+    "meaning": "He understands his physical condition well."
+  },
+  {
+    "sentence": "その芸術作品は独特な体を持っている。",
+    "sentence_furigana": "その芸術作品【げいじゅつさくひん】は独特【どくとく】な体【かたち】を持【も】っている。",
+    "meaning": "That work of art has a unique form."
+  },
+  {
+    "sentence": "体の芯から温まる。",
+    "sentence_furigana": "体【からだ】の芯【しん】から温【あたた】まる。",
+    "meaning": "I feel warm from the core of my body."
+  },
+  {
+    "sentence": "その組織はしっかりとした体をなしている。",
+    "sentence_furigana": "その組織【そしき】はしっかりとした体【たい】をなしている。",
+    "meaning": "That organization has a solid structure."
+  },
+  {
+    "sentence": "彼は体に良い食事を心がけている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】に良【よ】い食事【しょくじ】を心【こころ】がけている。",
+    "meaning": "He tries to eat food that is good for his body."
+  },
+  {
+    "sentence": "この物体は固体だ。",
+    "sentence_furigana": "この物体【ぶったい】は固体【こたい】だ。",
+    "meaning": "This object is a solid."
+  },
+  {
+    "sentence": "彼は肉体労働をしている。",
+    "sentence_furigana": "彼【かれ】は肉体労働【にくたいろうどう】をしている。",
+    "meaning": "He does physical labor."
+  },
+  {
+    "sentence": "その体の構造は非常に複雑だ。",
+    "sentence_furigana": "その体【からだ】の構造【こうぞう】は非常【ひじょう】に複雑【ふくざつ】だ。",
+    "meaning": "The structure of that body is very complex."
+  },
+  {
+    "sentence": "彼は体力をつけたいと思っている。",
+    "sentence_furigana": "彼【かれ】は体力【たいりょく】をつけたいと思【おも】っている。",
+    "meaning": "He wants to build up his physical strength."
+  },
+  {
+    "sentence": "この人形は自然な体をしている。",
+    "sentence_furigana": "この人形【にんぎょう】は自然【しぜん】な体【からだ】をしている。",
+    "meaning": "This doll has a natural body shape."
+  },
+  {
+    "sentence": "彼は全身に痛みが走った。",
+    "sentence_furigana": "彼【かれ】は全身【ぜんしん】に痛【いた】みが走【はし】った。",
+    "meaning": "Pain ran through his entire body."
+  },
+  {
+    "sentence": "その物体は無重力状態にある。",
+    "sentence_furigana": "その物体【ぶったい】は無重力状態【むじゅうりょくじょうたい】にある。",
+    "meaning": "The object is in a state of zero gravity."
+  },
+  {
+    "sentence": "彼は体の柔軟性を高めるためにストレッチをしている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の柔軟性【じゅうなんせい】を高【たか】めるためにストレッチをしている。",
+    "meaning": "He stretches to improve his body's flexibility."
+  },
+  {
+    "sentence": "この物体は非常に滑らかだ。",
+    "sentence_furigana": "この物体【ぶったい】は非常【ひじょう】に滑【なめ】らかだ。",
+    "meaning": "This object is very smooth."
+  },
+  {
+    "sentence": "彼は身体能力が高い。",
+    "sentence_furigana": "彼【かれ】は身体能力【しんたいのうりょく】が高い【たかい】。",
+    "meaning": "He has high physical abilities."
+  },
+  {
+    "sentence": "体の冷えに注意してください。",
+    "sentence_furigana": "体【からだ】の冷【ひ】えに注意【ちゅうい】してください。",
+    "meaning": "Please be careful of getting cold."
+  },
+  {
+    "sentence": "その物体は金属製だ。",
+    "sentence_furigana": "その物体【ぶったい】は金属製【きんぞくせい】だ。",
+    "meaning": "The object is made of metal."
+  },
+  {
+    "sentence": "彼は体型を維持するために運動している。",
+    "sentence_furigana": "彼【かれ】は体型【たいけい】を維持【いじ】するために運動【うんどう】している。",
+    "meaning": "He exercises to maintain his body shape."
+  },
+  {
+    "sentence": "この絵は立体的に見える。",
+    "sentence_furigana": "この絵【え】は立体【りったい】的的【てき】に見【み】える。",
+    "meaning": "This picture looks three-dimensional."
+  },
+  {
+    "sentence": "彼は体の調子が良い。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の調子【ちょうし】が良い【よい】。",
+    "meaning": "He feels well."
+  },
+  {
+    "sentence": "その物体は磁石に引き寄せられる。",
+    "sentence_furigana": "その物体【ぶったい】は磁石【じしゃく】に引【ひ】き寄【よ】せられる。",
+    "meaning": "The object is attracted to magnets."
+  },
+  {
+    "sentence": "彼は体温を測っている。",
+    "sentence_furigana": "彼【かれ】は体温【たいおん】を測【はか】っている。",
+    "meaning": "He is measuring his body temperature."
+  },
+  {
+    "sentence": "この物体は丸い形をしている。",
+    "sentence_furigana": "この物体【ぶったい】は丸【まる】い形【かたち】をしている。",
+    "meaning": "This object has a round shape."
+  },
+  {
+    "sentence": "彼は身体検査を受けた。",
+    "sentence_furigana": "彼【かれ】は身体検査【しんたいけんさ】を受【う】けた。",
+    "meaning": "He underwent a physical examination."
+  },
+  {
+    "sentence": "体の不自由な人々のためにバリアフリー化が進められている。",
+    "sentence_furigana": "体【からだ】の不自由【ふじゆう】な人々【ひとびと】のためにバリアフリー化【か】が進【すす】められている。",
+    "meaning": "Barrier-free measures are being promoted for people with disabilities."
+  },
+  {
+    "sentence": "その物体は非常に軽い。",
+    "sentence_furigana": "その物体【ぶったい】は非常【ひじょう】に軽【かる】い。",
+    "meaning": "The object is very light."
+  },
+  {
+    "sentence": "彼は体脂肪を減らしたい。",
+    "sentence_furigana": "彼【かれ】は体脂肪【たいしぼう】を減【へ】らしたい。",
+    "meaning": "He wants to reduce his body fat."
+  },
+  {
+    "sentence": "この彫刻は人間の体を模している。",
+    "sentence_furigana": "この彫刻【ちょうこく】は人間【にんげん】の体【からだ】を模【も】している。",
+    "meaning": "This sculpture imitates the human body."
+  },
+  {
+    "sentence": "彼は体の隅々まで掃除した。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の隅々【すみずみ】まで掃除【そうじ】した。",
+    "meaning": "He cleaned every corner of his body."
+  },
+  {
+    "sentence": "その物体は密度が高い。",
+    "sentence_furigana": "その物体【ぶったい】は密度【みつど】が高い【たかい】。",
+    "meaning": "The object has high density."
+  },
+  {
+    "sentence": "彼は体幹を鍛えている。",
+    "sentence_furigana": "彼【かれ】は体幹【たいかん】を鍛【きた】えている。",
+    "meaning": "He is training his core muscles."
+  },
+  {
+    "sentence": "この人形の体は柔らかい。",
+    "sentence_furigana": "この人形【にんぎょう】の体【からだ】は柔【やわ】らかい。",
+    "meaning": "This doll's body is soft."
+  },
+  {
+    "sentence": "彼は体に良いサプリメントを飲んでいる。",
+    "sentence_furigana": "彼【かれ】は体【からだ】に良【よ】いサプリメントを飲【の】んでいる。",
+    "meaning": "He is taking supplements that are good for his body."
+  },
+  {
+    "sentence": "その物体は壊れやすい。",
+    "sentence_furigana": "その物体【ぶったい】は壊【こわ】れやすい。",
+    "meaning": "The object is fragile."
+  },
+  {
+    "sentence": "彼は体調を崩しやすい。",
+    "sentence_furigana": "彼【かれ】は体調【たいちょう】を崩【くず】しやすい。",
+    "meaning": "He easily falls ill."
+  },
+  {
+    "sentence": "この絵画は人物の体を写実的に描いている。",
+    "sentence_furigana": "この絵画【かいが】は人物【じんぶつ】の体【からだ】を写実的【しゃじつてき】に描【か】いている。",
+    "meaning": "This painting realistically depicts a person's body."
+  },
+  {
+    "sentence": "彼は体に良い運動を探している。",
+    "sentence_furigana": "彼【かれ】は体【からだ】に良【よ】い運動【うんどう】を探【さが】している。",
+    "meaning": "He is looking for exercises that are good for his body."
+  },
+  {
+    "sentence": "その物体は一定の形を保っている。",
+    "sentence_furigana": "その物体【ぶったい】は一定【いってい】の形【かたち】を保【たも】っている。",
+    "meaning": "The object maintains a fixed shape."
+  },
+  {
+    "sentence": "彼は体のバランスを保つのが上手だ。",
+    "sentence_furigana": "彼【かれ】は体【からだ】のバランスを保【たも】つのが上手【じょうず】だ。",
+    "meaning": "He is good at maintaining his body's balance."
+  },
+  {
+    "sentence": "この石鹸は体に優しい。",
+    "sentence_furigana": "この石鹸【せっけん】は体【からだ】に優【やさ】しい。",
+    "meaning": "This soap is gentle on the skin."
+  },
+  {
+    "sentence": "彼は体臭を気にする。",
+    "sentence_furigana": "彼【かれ】は体臭【たいしゅう】を気【き】にする。",
+    "meaning": "He is conscious of his body odor."
+  },
+  {
+    "sentence": "その物体は光を反射する。",
+    "sentence_furigana": "その物体【ぶったい】は光【ひかり】を反射【はんしゃ】する。",
+    "meaning": "The object reflects light."
+  },
+  {
+    "sentence": "彼は体の動きを滑らかにするためにマッサージを受けている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の動【うご】きを滑【なめ】らかにするためにマッサージを受【う】けている。",
+    "meaning": "He is receiving massages to make his body's movements smoother."
+  },
+  {
+    "sentence": "この服は体にフィットする。",
+    "sentence_furigana": "この服【ふく】は体【からだ】にフィットする。",
+    "meaning": "These clothes fit my body well."
+  },
+  {
+    "sentence": "彼は体を動かすのが好きだ。",
+    "sentence_furigana": "彼【かれ】は体【からだ】を動【うご】かすのが好【す】きだ。",
+    "meaning": "He likes to move his body."
+  },
+  {
+    "sentence": "その物体は水に浮く。",
+    "sentence_furigana": "その物体【ぶったい】は水【みず】に浮【う】く。",
+    "meaning": "The object floats on water."
+  },
+  {
+    "sentence": "彼は体の抵抗力を高めたい。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の抵抗力【ていこうりょく】を高【たか】めたい。",
+    "meaning": "He wants to increase his body's resistance."
+  },
+  {
+    "sentence": "この彫刻は人間の体の美しい形を表している。",
+    "sentence_furigana": "この彫刻【ちょうこく】は人間【にんげん】の体【からだ】の美【うつく】しい形【かたち】を表【あらわ】している。",
+    "meaning": "This sculpture represents the beautiful form of the human body."
+  },
+  {
+    "sentence": "彼は体の疲れを感じている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の疲【つか】れを感じ【かんじ】ている。",
+    "meaning": "He feels tired."
+  },
+  {
+    "sentence": "その物体は空中で静止している。",
+    "sentence_furigana": "その物体【ぶったい】は空中【くうちゅう】で静止【せいし】している。",
+    "meaning": "The object is stationary in the air."
+  },
+  {
+    "sentence": "彼は体を冷やさないように注意した。",
+    "sentence_furigana": "彼【かれ】は体【からだ】を冷【ひ】やさないように注意【ちゅうい】した。",
+    "meaning": "He was careful not to catch a cold."
+  },
+  {
+    "sentence": "この写真は体のシルエットを強調している。",
+    "sentence_furigana": "この写真【しゃしん】は体【からだ】のシルエットを強調【きょうちょう】している。",
+    "meaning": "This photo emphasizes the silhouette of the body."
+  },
+  {
+    "sentence": "彼は体の熱を測るために体温計を使った。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の熱【ねつ】を測【はか】るために体温計【たいおんけい】を使【つか】った。",
+    "meaning": "He used a thermometer to measure his body heat."
+  },
+  {
+    "sentence": "その物体は球体である。",
+    "sentence_furigana": "その物体【ぶったい】は球体【きゅうたい】である。",
+    "meaning": "The object is a sphere."
+  },
+  {
+    "sentence": "彼は体の状態を維持するために毎日運動している。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の状態【じょうたい】を維持【いじ】するために毎日【まいにち】運動【うんどう】している。",
+    "meaning": "He exercises every day to maintain his physical condition."
+  },
+  {
+    "sentence": "この建物は壮大な体をしている。",
+    "sentence_furigana": "この建物【たてもの】は壮大【そうだい】な体【たい】をしている。",
+    "meaning": "This building has a magnificent structure."
+  },
+  {
+    "sentence": "彼は体の調子が悪く、会社を休んだ。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の調子【ちょうし】が悪【わる】く、会社【かいしゃ】を休【やす】んだ。",
+    "meaning": "He felt unwell and took the day off from work."
+  },
+  {
+    "sentence": "その物体は液体の性質を持っている。",
+    "sentence_furigana": "その物体【ぶったい】は液体【えきたい】の性質【せいしつ】を持【も】っている。",
+    "meaning": "The object has the properties of a liquid."
+  },
+  {
+    "sentence": "彼は体の力を最大限に引き出そうとした。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の力【ちから】を最大限【さいだいげん】に引【ひ】き出【だ】そうとした。",
+    "meaning": "He tried to bring out the maximum strength of his body."
+  },
+  {
+    "sentence": "この芸術作品は人の体を抽象的に表現している。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は人【ひと】の体【からだ】を抽象的【ちゅうしょうてき】に表現【ひょうげん】している。",
+    "meaning": "This artwork abstractly expresses the human body."
+  },
+  {
+    "sentence": "彼は体のために十分な睡眠をとることを心がけている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】のために十分【じゅうぶん】な睡眠【すいみん】をとることを心【こころ】がけている。",
+    "meaning": "He makes an effort to get enough sleep for his body."
+  },
+  {
+    "sentence": "その物体は三次元的な形をしている。",
+    "sentence_furigana": "その物体【ぶったい】は三次元的【さんじげんてき】な形【かたち】をしている。",
+    "meaning": "The object has a three-dimensional shape."
+  },
+  {
+    "sentence": "彼は体に良い習慣を身につけたい。",
+    "sentence_furigana": "彼【かれ】は体【からだ】に良【よ】い習慣【しゅうかん】を身【み】につけたい。",
+    "meaning": "He wants to acquire good habits for his body."
+  },
+  {
+    "sentence": "この写真では体のラインが綺麗に出ている。",
+    "sentence_furigana": "この写真【しゃしん】では体【からだ】のラインが綺麗【きれい】に出【で】ている。",
+    "meaning": "The body lines are beautifully rendered in this photograph."
+  },
+  {
+    "sentence": "彼は体を動かすことでストレスを発散する。",
+    "sentence_furigana": "彼【かれ】は体【からだ】を動【うご】かすことでストレスを発散【はっさん】する。",
+    "meaning": "He relieves stress by moving his body."
+  },
+  {
+    "sentence": "その物体は固い物質でできている。",
+    "sentence_furigana": "その物体【ぶったい】は固【かた】い物質【ぶっしつ】でできている。",
+    "meaning": "The object is made of a hard substance."
+  },
+  {
+    "sentence": "彼は体の新陳代謝を活発にしたい。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の新陳代謝【しんちんたいしゃ】を活発【かっぱつ】にしたい。",
+    "meaning": "He wants to make his body's metabolism more active."
+  },
+  {
+    "sentence": "この衣装は体の線を美しく見せる。",
+    "sentence_furigana": "この衣装【いしょう】は体【からだ】の線【せん】を美【うつく】しく見【み】せる。",
+    "meaning": "This costume makes the body lines look beautiful."
+  },
+  {
+    "sentence": "彼は体のバランス感覚を養っている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】のバランス感覚【かんかく】を養【やしな】っている。",
+    "meaning": "He is cultivating his sense of balance."
+  },
+  {
+    "sentence": "その物体は非常に重い。",
+    "sentence_furigana": "その物体【ぶったい】は非常【ひじょう】に重【おも】い。",
+    "meaning": "The object is very heavy."
+  },
+  {
+    "sentence": "彼は体の免疫力を高めるために野菜をたくさん食べている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の免疫力【めんえきりょく】を高【たか】めるために野菜【やさい】をたくさん食【た】べている。",
+    "meaning": "He eats a lot of vegetables to boost his body's immunity."
+  },
+  {
+    "sentence": "この彫刻は生き生きとした体の動きを捉えている。",
+    "sentence_furigana": "この彫刻【ちょうこく】は生【い】き生【い】きとした体【からだ】の動【うご】きを捉【とら】えている。",
+    "meaning": "This sculpture captures the lively movement of the body."
+  },
+  {
+    "sentence": "彼は体の冷えを防ぐために温かい服装をしている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の冷【ひ】えを防【ふせ】ぐために温【あたた】かい服装【ふくそう】をしている。",
+    "meaning": "He is dressed warmly to prevent his body from getting cold."
+  },
+  {
+    "sentence": "その物体は複雑な形状をしている。",
+    "sentence_furigana": "その物体【ぶったい】は複雑【ふくざつ】な形状【けいじょう】をしている。",
+    "meaning": "The object has a complex shape."
+  },
+  {
+    "sentence": "彼は体の芯を鍛えるトレーニングをしている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の芯【しん】を鍛【きた】えるトレーニングをしている。",
+    "meaning": "He is doing training to strengthen his core."
+  },
+  {
+    "sentence": "この人形の体は精巧に作られている。",
+    "sentence_furigana": "この人形【にんぎょう】の体【からだ】は精巧【せいこう】に作【つく】られている。",
+    "meaning": "This doll's body is elaborately made."
+  },
+  {
+    "sentence": "彼は体の隅々まで清潔に保ちたい。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の隅々【すみずみ】まで清潔【せいけつ】に保【たも】ちたい。",
+    "meaning": "He wants to keep every part of his body clean."
+  },
+  {
+    "sentence": "その物体は液体のように形を変える。",
+    "sentence_furigana": "その物体【ぶったい】は液体【えきたい】のように形【かたち】を変【か】える。",
+    "meaning": "The object changes shape like a liquid."
+  },
+  {
+    "sentence": "彼は体の柔軟性を維持するためにヨガを始めた。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の柔軟性【じゅうなんせい】を維持【いじ】するためにヨガを始【はじ】めた。",
+    "meaning": "He started yoga to maintain his body's flexibility."
+  },
+  {
+    "sentence": "この絵は人物の体の動きをダイナミックに表現している。",
+    "sentence_furigana": "この絵【え】は人物【じんぶつ】の体【からだ】の動【うご】きをダイナミックに表現【ひょうげん】している。",
+    "meaning": "This painting dynamically expresses the movement of the human body."
+  },
+  {
+    "sentence": "彼は体に良い生活習慣を身につけようとしている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】に良【よ】い生活習慣【せいかつしゅうかん】を身【み】につけようとしている。",
+    "meaning": "He is trying to adopt healthy lifestyle habits."
+  },
+  {
+    "sentence": "その物体は非常に大きい。",
+    "sentence_furigana": "その物体【ぶったい】は非常【ひじょう】に大【おお】きい。",
+    "meaning": "The object is very large."
+  },
+  {
+    "sentence": "彼は体の衰えを感じ始めている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の衰【おとろ】えを感じ【かんじ】始【はじ】めている。",
+    "meaning": "He is starting to feel his body's decline."
+  },
+  {
+    "sentence": "この建物は古いが、しっかりとした体を保っている。",
+    "sentence_furigana": "この建物【たてもの】は古【ふる】いが、しっかりとした体【たい】を保【たも】っている。",
+    "meaning": "This building is old, but it maintains a solid structure."
+  },
+  {
+    "sentence": "彼は体の健康維持のために定期的に運動している。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の健康維持【けんこういじ】のために定期的【ていきてき】に運動【うんどう】している。",
+    "meaning": "He exercises regularly to maintain his physical health."
+  },
+  {
+    "sentence": "その物体は透明な物質である。",
+    "sentence_furigana": "その物体【ぶったい】は透明【とうめい】な物質【ぶっしつ】である。",
+    "meaning": "The object is a transparent substance."
+  },
+  {
+    "sentence": "彼は体の声をよく聞くことが大切だと考えている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の声【こえ】をよく聞【き】くことが大切【たいせつ】だと考【かんが】えている。",
+    "meaning": "He believes it is important to listen to one's body."
+  },
+  {
+    "sentence": "この人形の体は本物そっくりだ。",
+    "sentence_furigana": "この人形【にんぎょう】の体【からだ】は本物【ほんもの】そっくりだ。",
+    "meaning": "This doll's body looks just like the real thing."
+  },
+  {
+    "sentence": "彼は体の中心を意識してトレーニングを行った。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の中心【ちゅうしん】を意識【いしき】してトレーニングを行【おこな】った。",
+    "meaning": "He trained while being conscious of his body's center."
+  },
+  {
+    "sentence": "その物体は金属とプラスチックで構成されている。",
+    "sentence_furigana": "その物体【ぶったい】は金属【きんぞく】とプラスチックで構成【こうせい】されている。",
+    "meaning": "The object is composed of metal and plastic."
+  },
+  {
+    "sentence": "彼は体の調子を整えるために、十分な休息をとった。",
+    "sentence_furigana": "彼【かれ】は体【からだ】の調子【ちょうし】を整【ととの】えるために、十分【じゅうぶん】な休息【きゅうそく】をとった。",
+    "meaning": "He got enough rest to regulate his physical condition."
+  },
+  {
+    "sentence": "この絵は人物の体の構造を詳細に描いている。",
+    "sentence_furigana": "この絵【え】は人物【じんぶつ】の体【からだ】の構造【こうぞう】を詳細【しょうさい】に描【か】いている。",
+    "meaning": "This picture depicts the structure of the human body in detail."
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "この書類は有効な身分証です。",
+    "sentence_furigana": "この書類【しょるい】は有効【ゆうこう】な身分証【みぶんしょう】です。",
+    "meaning": "This document is a valid identification certificate."
+  },
+  {
+    "sentence": "事件の証拠を集めました。",
+    "sentence_furigana": "事件【じけん】の証拠【しょうこ】を集【あつ】めました。",
+    "meaning": "We collected evidence for the incident."
+  },
+  {
+    "sentence": "彼の証言は非常に重要です。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "His testimony is very important."
+  },
+  {
+    "sentence": "証明書を発行してもらえますか？",
+    "sentence_furigana": "証明書【しょうめいしょ】を発行【はっこう】してもらえますか？",
+    "meaning": "Can I have a certificate issued?"
+  },
+  {
+    "sentence": "それは確かな証拠となります。",
+    "sentence_furigana": "それ【】は確かな証拠【しょうこ】となり【】ます。",
+    "meaning": "That will serve as solid proof."
+  },
+  {
+    "sentence": "保証人が必要です。",
+    "sentence_furigana": "保証人【ほしょうにん】が必要【ひつよう】です。",
+    "meaning": "A guarantor is required."
+  },
+  {
+    "sentence": "彼の潔白を証明する証拠はない。",
+    "sentence_furigana": "彼【かれ】の潔白【けっぱく】を証明【しょうめい】する証拠【しょうこ】は【】ない。",
+    "meaning": "There is no proof to demonstrate his innocence."
+  },
+  {
+    "sentence": "健康診断の結果は証拠として提出してください。",
+    "sentence_furigana": "健康診断【けんこうしんだん】の結果【けっか】は証拠【しょうこ】として提出【ていしゅつ】してください。",
+    "meaning": "Please submit the health check-up results as evidence."
+  },
+  {
+    "sentence": "彼の証言は信じがたい。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は信【しん】じがたい。",
+    "meaning": "His testimony is hard to believe."
+  },
+  {
+    "sentence": "これは品質保証の証です。",
+    "sentence_furigana": "これ【】は品質保証【ひんしつほしょう】の証【あかし】です。",
+    "meaning": "This is proof of quality assurance."
+  },
+  {
+    "sentence": "事故の原因を証明する必要がある。",
+    "sentence_furigana": "事故【じこ】の原因【げんいん】を証明【しょうめい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to prove the cause of the accident."
+  },
+  {
+    "sentence": "彼女の功績を称える証としてメダルが贈られた。",
+    "sentence_furigana": "彼女【かのじょ】の功績【こうせき】を称【たた】える証【あかし】としてメダルが贈【おく】られた。",
+    "meaning": "A medal was awarded as a testament to her achievements."
+  },
+  {
+    "sentence": "この領収書は購入の証拠になります。",
+    "sentence_furigana": "この領収書【りょうしゅうしょ】は購入【こうにゅう】の証拠【しょうこ】になり【】ます。",
+    "meaning": "This receipt will serve as proof of purchase."
+  },
+  {
+    "sentence": "彼の発言は証拠不十分だ。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は証拠不十分【しょうこふじゅうぶん】だ。",
+    "meaning": "His statement lacks sufficient evidence."
+  },
+  {
+    "sentence": "卒業証書を受け取りました。",
+    "sentence_furigana": "卒業証書【そつぎょうしょうしょ】を受【う】け取【と】りました。",
+    "meaning": "I received my graduation certificate."
+  },
+  {
+    "sentence": "裁判で証拠品が提示された。",
+    "sentence_furigana": "裁判【さいばん】で証拠品【しょうこひん】が提示【ていじ】された。",
+    "meaning": "Evidence was presented in court."
+  },
+  {
+    "sentence": "それは彼が犯人である証だ。",
+    "sentence_furigana": "それ【】は彼【かれ】が犯人【はんにん】である証【あかし】だ。",
+    "meaning": "That is proof that he is the culprit."
+  },
+  {
+    "sentence": "この傷跡は戦いの証だ。",
+    "sentence_furigana": "この傷跡【きずあと】は戦【たたか】いの証【あかし】だ。",
+    "meaning": "This scar is a testament to the battle."
+  },
+  {
+    "sentence": "有効期限の証としてパスポートを提示してください。",
+    "sentence_furigana": "有効期限【ゆうこうきげん】の証【あかし】としてパスポートを提示【ていじ】してください。",
+    "meaning": "Please present your passport as proof of validity."
+  },
+  {
+    "sentence": "彼の言葉が我々の決意の証となった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】が我々【われわれ】の決意【けつい】の証【あかし】となっ【】た。",
+    "meaning": "His words became proof of our determination."
+  },
+  {
+    "sentence": "証人尋問が行われた。",
+    "sentence_furigana": "証人尋問【しょうにんじんもん】が行【おこな】われた。",
+    "meaning": "Witness questioning took place."
+  },
+  {
+    "sentence": "このメールは契約成立の証拠となる。",
+    "sentence_furigana": "このメールは契約成立【けいやくせいりつ】の証拠【しょうこ】となる。",
+    "meaning": "This email serves as proof of contract conclusion."
+  },
+  {
+    "sentence": "彼の善行が評価され、表彰された。",
+    "sentence_furigana": "彼【かれ】の善行【ぜんこう】が評価【ひょうか】され、表彰【ひょうしょう】された。",
+    "meaning": "His good deeds were recognized and he was honored."
+  },
+  {
+    "sentence": "この文書は真実の証です。",
+    "sentence_furigana": "この文書【ぶんしょ】は真実【しんじつ】の証【あかし】です。",
+    "meaning": "This document is proof of the truth."
+  },
+  {
+    "sentence": "不正行為の証拠を見つけた。",
+    "sentence_furigana": "不正行為【ふせいこうい】の証拠【しょうこ】を見【み】つけた。",
+    "meaning": "I found evidence of misconduct."
+  },
+  {
+    "sentence": "結婚証明書を提出する必要がある。",
+    "sentence_furigana": "結婚証明書【けっこんしょうめいしょ】を提出【ていしゅつ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to submit the marriage certificate."
+  },
+  {
+    "sentence": "事故現場から多くの証拠品が見つかった。",
+    "sentence_furigana": "事故現場【じこげんば】から多【おお】くの証拠品【しょうこひん】が見【み】つかった。",
+    "meaning": "Many pieces of evidence were found at the accident scene."
+  },
+  {
+    "sentence": "彼の話は証拠に裏付けられていない。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は証拠【しょうこ】に裏付【うらづ】けられていない。",
+    "meaning": "His story is not supported by evidence."
+  },
+  {
+    "sentence": "この印は我々の友好の証です。",
+    "sentence_furigana": "この印【しるし】は我々【われわれ】の友好【ゆうこう】の証【あかし】です。",
+    "meaning": "This mark is a testament to our friendship."
+  },
+  {
+    "sentence": "新たな証拠が発見された。",
+    "sentence_furigana": "新【あら】たな証拠【しょうこ】が発見【はっけん】された。",
+    "meaning": "New evidence has been discovered."
+  },
+  {
+    "sentence": "健康保険証を忘れずに持っていってください。",
+    "sentence_furigana": "健康保険証【けんこうほけんしょう】を忘【わ】れずに持【も】っていってください。",
+    "meaning": "Please don't forget to bring your health insurance card."
+  },
+  {
+    "sentence": "彼女の芸術は才能の証だ。",
+    "sentence_furigana": "彼女【かのじょ】の芸術【げいじゅつ】は才能【さいのう】の証【あかし】だ。",
+    "meaning": "Her art is a testament to her talent."
+  },
+  {
+    "sentence": "その文書は法的な証拠となる。",
+    "sentence_furigana": "その文書【ぶんしょ】は法的【ほうてき】な証拠【しょうこ】となる。",
+    "meaning": "That document will serve as legal evidence."
+  },
+  {
+    "sentence": "証拠隠滅を図ろうとした。",
+    "sentence_furigana": "証拠隠滅【しょうこいんめつ】を図【はか】ろうとした。",
+    "meaning": "They attempted to destroy the evidence."
+  },
+  {
+    "sentence": "彼は真実の証人となった。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】の証人【しょうにん】となった。",
+    "meaning": "He became a witness to the truth."
+  },
+  {
+    "sentence": "この報告書は彼の研究成果の証です。",
+    "sentence_furigana": "この報告書【ほうこくしょ】は彼【かれ】の研究成果【けんきゅうせいか】の証【あかし】です。",
+    "meaning": "This report is proof of his research achievements."
+  },
+  {
+    "sentence": "パスポートは国籍の証となる。",
+    "sentence_furigana": "パスポートは国籍【こくせき】の証【あかし】となる。",
+    "meaning": "A passport is proof of nationality."
+  },
+  {
+    "sentence": "不法行為の証拠を提出してください。",
+    "sentence_furigana": "不法行為【ふほうこうい】の証拠【しょうこ】を提出【ていしゅつ】してください。",
+    "meaning": "Please submit evidence of the illegal act."
+  },
+  {
+    "sentence": "彼はその罪の証拠を提示した。",
+    "sentence_furigana": "彼【かれ】はその罪【つみ】の証拠【しょうこ】を提示【ていじ】した。",
+    "meaning": "He presented evidence of the crime."
+  },
+  {
+    "sentence": "この印鑑は本人確認の証です。",
+    "sentence_furigana": "この印鑑【いんかん】は本人確認【ほんにんかくにん】の証【あかし】です。",
+    "meaning": "This seal is proof of identity verification."
+  },
+  {
+    "sentence": "彼女の活躍は努力の証だ。",
+    "sentence_furigana": "彼女【かのじょ】の活躍【かつやく】は努力【どりょく】の証【あかし】だ。",
+    "meaning": "Her success is proof of her effort."
+  },
+  {
+    "sentence": "証券取引所に上場した。",
+    "sentence_furigana": "証券取引所【しょうけんとりひきじょ】に上場【じょうじょう】した。",
+    "meaning": "It was listed on the stock exchange."
+  },
+  {
+    "sentence": "彼の証言は信用できる。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は信用【しんよう】できる。",
+    "meaning": "His testimony is credible."
+  },
+  {
+    "sentence": "この写真はその時の証拠です。",
+    "sentence_furigana": "この写真【しゃしん】はその時【とき】の証拠【しょうこ】です。",
+    "meaning": "This photograph is evidence of that time."
+  },
+  {
+    "sentence": "私たちは彼が無実である証拠を見つけました。",
+    "sentence_furigana": "我々【われわれ】は彼【かれ】が無実【むじつ】である証拠【しょうこ】を見【み】つけました。",
+    "meaning": "We found evidence of his innocence."
+  },
+  {
+    "sentence": "この契約書は合意の証です。",
+    "sentence_furigana": "この契約書【けいやくしょ】は合意【ごうい】の証【あかし】です。",
+    "meaning": "This contract is proof of agreement."
+  },
+  {
+    "sentence": "証拠物件を厳重に保管する。",
+    "sentence_furigana": "証拠物件【しょうこぶっけん】を厳重【げんじゅう】に保管【ほかん】する。",
+    "meaning": "We will securely store the evidence."
+  },
+  {
+    "sentence": "彼の努力は成果という証になった。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は成果【せいか】という証【あかし】になった。",
+    "meaning": "His efforts became proof of his success."
+  },
+  {
+    "sentence": "この手紙は彼の愛の証です。",
+    "sentence_furigana": "この手紙【てがみ】は彼【かれ】の愛【あい】の証【あかし】です。",
+    "meaning": "This letter is a testament to his love."
+  },
+  {
+    "sentence": "証拠を偽造した疑いが持たれている。",
+    "sentence_furigana": "証拠【しょうこ】を偽造【ぎぞう】した疑【うたが】いを持【も】たれている。",
+    "meaning": "There is suspicion of evidence forgery."
+  },
+  {
+    "sentence": "このバッジは栄誉の証です。",
+    "sentence_furigana": "このバッジは栄誉【えいよ】の証【あかし】です。",
+    "meaning": "This badge is a testament to honor."
+  },
+  {
+    "sentence": "証拠調べが進められている。",
+    "sentence_furigana": "証拠調【しょうこしら】べが進【すす】められている。",
+    "meaning": "The examination of evidence is proceeding."
+  },
+  {
+    "sentence": "彼の行動は善意の証拠となった。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は善意【ぜんい】の証拠【しょうこ】となった。",
+    "meaning": "His actions became proof of his good intentions."
+  },
+  {
+    "sentence": "この記念碑は平和への願いの証です。",
+    "sentence_furigana": "この記念碑【きねんひ】は平和【へいわ】への願【ねが】いの証【あかし】です。",
+    "meaning": "This monument is a testament to the desire for peace."
+  },
+  {
+    "sentence": "事件の目撃者が証言した。",
+    "sentence_furigana": "事件【じけん】の目撃者【もくげきしゃ】が証言【しょうげん】した。",
+    "meaning": "The eyewitness of the incident testified."
+  },
+  {
+    "sentence": "彼は自らの潔白を証明する証拠を提示した。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの潔白【けっぱく】を証明【しょうめい】する証拠【しょうこ】を提示【ていじ】した。",
+    "meaning": "He presented evidence to prove his innocence."
+  },
+  {
+    "sentence": "この記録は成功の証である。",
+    "sentence_furigana": "この記録【きろく】は成功【せいこう】の証【あかし】である。",
+    "meaning": "This record is proof of success."
+  },
+  {
+    "sentence": "証拠不十分のため、起訴を見送った。",
+    "sentence_furigana": "証拠不十分【しょうこふじゅうぶん】のため、起訴【きそ】を見送【みおく】った。",
+    "meaning": "Prosecution was postponed due to insufficient evidence."
+  },
+  {
+    "sentence": "彼女の演技は才能の証だった。",
+    "sentence_furigana": "彼女【かのじょ】の演技【えんぎ】は才能【さいのう】の証【あかし】だった。",
+    "meaning": "Her performance was a testament to her talent."
+  },
+  {
+    "sentence": "この署名は有効な証です。",
+    "sentence_furigana": "この署名【しょめい】は有効【ゆうこう】な証【あかし】です。",
+    "meaning": "This signature is valid proof."
+  },
+  {
+    "sentence": "証拠に基づいて判断を下す。",
+    "sentence_furigana": "証拠【しょうこ】に基づ【もと】いて判断【はんだん】を下【くだ】す。",
+    "meaning": "A judgment is made based on evidence."
+  },
+  {
+    "sentence": "彼の証言は事件の解明に役立った。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は事件【じけん】の解明【かいめい】に役立【やくだ】った。",
+    "meaning": "His testimony was helpful in solving the case."
+  },
+  {
+    "sentence": "この領収書は支払いの証となります。",
+    "sentence_furigana": "この領収書【りょうしゅうしょ】は支払【しはら】いの証【あかし】となり【】ます。",
+    "meaning": "This receipt will serve as proof of payment."
+  },
+  {
+    "sentence": "彼女は真実を証するために立ち上がった。",
+    "sentence_furigana": "彼女【かのじょ】は真実【しんじつ】を証【あかし】するために立【た】ち上【あ】がった。",
+    "meaning": "She stood up to bear witness to the truth."
+  },
+  {
+    "sentence": "この証明は彼の正当性の証拠です。",
+    "sentence_furigana": "この証明【しょうめい】は彼【かれ】の正当性【せいとうせい】の証拠【しょうこ】です。",
+    "meaning": "This proof is evidence of his legitimacy."
+  },
+  {
+    "sentence": "証拠品を検分しました。",
+    "sentence_furigana": "証拠品【しょうこひん】を検分【けんぶん】しました。",
+    "meaning": "We inspected the evidence."
+  },
+  {
+    "sentence": "彼の誠実さは、この行動の証です。",
+    "sentence_furigana": "彼【かれ】の誠実【せいじつ】さ は、この行動【こうどう】の証【あかし】です。",
+    "meaning": "His sincerity is proof of this action."
+  },
+  {
+    "sentence": "この契約は法的な効力を持つ証です。",
+    "sentence_furigana": "この契約【けいやく】は法的【ほうてき】な効力【こうりょく】を持【も】つ証【あかし】です。",
+    "meaning": "This contract is proof of legal validity."
+  },
+  {
+    "sentence": "証拠開示の請求をしました。",
+    "sentence_furigana": "証拠開示【しょうこかいじ】の請求【せいきゅう】をしました。",
+    "meaning": "We requested disclosure of evidence."
+  },
+  {
+    "sentence": "彼の功績は多くの人々の記憶の証となっている。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は多【おお】くの人々【ひとびと】の記憶【きおく】の証【あかし】となっ【】ている。",
+    "meaning": "His achievements are a testament to the memory of many people."
+  },
+  {
+    "sentence": "この賞は彼の努力の証です。",
+    "sentence_furigana": "この賞【しょう】は彼【かれ】の努力【どりょく】の証【あかし】です。",
+    "meaning": "This award is proof of his effort."
+  },
+  {
+    "sentence": "新たな証言が事件の真相を明らかにした。",
+    "sentence_furigana": "新【あら】たな証言【しょうげん】が事件【じけん】の真相【しんそう】を明【あき】らかにした。",
+    "meaning": "New testimony revealed the truth of the case."
+  },
+  {
+    "sentence": "この書類は本人であることを証明するものです。",
+    "sentence_furigana": "この書類【しょるい】は本人【ほんにん】であることを証明【しょうめい】するものです。",
+    "meaning": "This document proves that you are the person."
+  },
+  {
+    "sentence": "証拠を捏造した罪で告発された。",
+    "sentence_furigana": "証拠【しょうこ】を捏造【ねつぞう】した罪【つみ】で告発【こくはつ】された。",
+    "meaning": "He was accused of fabricating evidence."
+  },
+  {
+    "sentence": "彼の情熱は、この作品の証です。",
+    "sentence_furigana": "彼【かれ】の情熱【じょうねつ】は、この作品【さくひん】の証【あかし】です。",
+    "meaning": "His passion is proof of this work."
+  },
+  {
+    "sentence": "証拠品鑑定の結果が待たれる。",
+    "sentence_furigana": "証拠品鑑定【しょうこひんかんてい】の結果【けっか】が待【ま】たれる。",
+    "meaning": "The results of the evidence examination are awaited."
+  },
+  {
+    "sentence": "この贈り物はお礼の証です。",
+    "sentence_furigana": "この贈【おく】り物【もの】はお礼【れい】の証【あかし】です。",
+    "meaning": "This gift is a token of my gratitude."
+  },
+  {
+    "sentence": "彼の言葉は約束の証となった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は約束【やくそく】の証【あかし】となった。",
+    "meaning": "His words became proof of the promise."
+  },
+  {
+    "sentence": "証拠はすべて揃いました。",
+    "sentence_furigana": "証拠【しょうこ】はすべて揃【そろ】いました。",
+    "meaning": "All the evidence is in place."
+  },
+  {
+    "sentence": "この経験は彼の成長の証だ。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】の成長【せいちょう】の証【あかし】だ。",
+    "meaning": "This experience is proof of his growth."
+  },
+  {
+    "sentence": "保証書をなくさないでください。",
+    "sentence_furigana": "保証書【ほしょうしょ】をなくさないでください。",
+    "meaning": "Please don't lose the warranty."
+  },
+  {
+    "sentence": "彼の証言は客観的な証拠に基づいている。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は客観的【きゃっかんてき】な証拠【しょうこ】に基づ【もと】いている。",
+    "meaning": "His testimony is based on objective evidence."
+  },
+  {
+    "sentence": "この記念品は友情の証です。",
+    "sentence_furigana": "この記念品【きねんひん】は友情【ゆうじょう】の証【あかし】です。",
+    "meaning": "This souvenir is a testament to our friendship."
+  },
+  {
+    "sentence": "証拠品は慎重に扱われるべきだ。",
+    "sentence_furigana": "証拠品【しょうこひん】は慎重【しんちょう】に扱【あつか】われるべきだ。",
+    "meaning": "Evidence should be handled with care."
+  },
+  {
+    "sentence": "彼の熱意が成功への道標となった。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】が成功【せいこう】への道標【みちしるべ】となった。",
+    "meaning": "His enthusiasm became a signpost to success."
+  },
+  {
+    "sentence": "この発明は彼の才能の証です。",
+    "sentence_furigana": "この発明【はつめい】は彼【かれ】の才能【さいのう】の証【あかし】です。",
+    "meaning": "This invention is proof of his talent."
+  },
+  {
+    "sentence": "証拠隠滅罪で逮捕された。",
+    "sentence_furigana": "証拠隠滅罪【しょうこいんめつざい】で逮捕【たいほ】された。",
+    "meaning": "He was arrested for destroying evidence."
+  },
+  {
+    "sentence": "この記録は彼らの努力の証だ。",
+    "sentence_furigana": "この記録【きろく】は彼等【かれら】の努力【どりょく】の証【あかし】だ。",
+    "meaning": "This record is proof of their efforts."
+  },
+  {
+    "sentence": "証人として出廷を求められた。",
+    "sentence_furigana": "証人【しょうにん】として出廷【しゅってい】を求【もと】められた。",
+    "meaning": "He was summoned to court as a witness."
+  },
+  {
+    "sentence": "この賞状は彼女の功績の証です。",
+    "sentence_furigana": "この賞状【しょうじょう】は彼女【かのじょ】の功績【こうせき】の証【あかし】です。",
+    "meaning": "This certificate of commendation is proof of her achievements."
+  },
+  {
+    "sentence": "彼の証言は事件の解決に不可欠だった。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は事件【じけん】の解決【かいけつ】に不可欠【ふかけつ】だった。",
+    "meaning": "His testimony was essential to solving the case."
+  },
+  {
+    "sentence": "このバッジは功績の証として与えられた。",
+    "sentence_furigana": "このバッジは功績【こうせき】の証【あかし】として与【あた】えられた。",
+    "meaning": "This badge was given as proof of achievement."
+  },
+  {
+    "sentence": "証拠品に指紋が付着していた。",
+    "sentence_furigana": "証拠品【しょうこひん】に指紋【しもん】が付着【ふちゃく】していた。",
+    "meaning": "Fingerprints were found on the evidence."
+  },
+  {
+    "sentence": "彼の作品は才能の証であり、多くの人に感動を与えた。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は才能【さいのう】の証【あかし】であり、多【おお】くの人々【ひとびと】に感動【かんどう】を与【あた】えた。",
+    "meaning": "His work is a testament to his talent and moved many people."
+  },
+  {
+    "sentence": "この契約は双方の同意の証です。",
+    "sentence_furigana": "この契約【けいやく】は双方【そうほう】の同意【どうい】の証【あかし】です。",
+    "meaning": "This contract is proof of mutual agreement."
+  },
+  {
+    "sentence": "証拠開示請求の期限が近づいている。",
+    "sentence_furigana": "証拠開示請求【しょうこかいじせいきゅう】の期限【きげん】が近【ちか】づいている。",
+    "meaning": "The deadline for the evidence disclosure request is approaching."
+  },
+  {
+    "sentence": "彼女の献身は奉仕の証だ。",
+    "sentence_furigana": "彼女【かのじょ】の献身【けんしん】は奉仕【ほうし】の証【あかし】だ。",
+    "meaning": "Her dedication is proof of her service."
+  },
+  {
+    "sentence": "この証明書は受講の証拠となります。",
+    "sentence_furigana": "この証明書【しょうめいしょ】は受講【じゅこう】の証拠【しょうこ】となり【】ます。",
+    "meaning": "This certificate will serve as proof of attendance."
+  },
+  {
+    "sentence": "彼の証言は事件の核心を突いていた。",
+    "sentence_furigana": "彼【かれ】の証言【しょうげん】は事件【じけん】の核心【かくしん】を突【つ】いていた。",
+    "meaning": "His testimony hit the core of the case."
+  },
+  {
+    "sentence": "この記念品は二人の絆の証です。",
+    "sentence_furigana": "この記念品【きねんひん】は二人【ふたり】の絆【きずな】の証【あかし】です。",
+    "meaning": "This memento is a testament to their bond."
+  },
+  {
+    "sentence": "証拠品は法医学的な分析にかけられた。",
+    "sentence_furigana": "証拠品【しょうこひん】は法医学的【ほういがく તકી】な分析【ぶんせき】にか【】けられた。",
+    "meaning": "The evidence was subjected to forensic analysis."
+  },
+  {
+    "sentence": "彼の努力の結果が、この栄誉の証だ。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】の結果【けっか】が、この栄誉【えいよ】の証【あかし】だ。",
+    "meaning": "The results of his efforts are proof of this honor."
+  },
+  {
+    "sentence": "この書簡は忠誠の証として送られた。",
+    "sentence_furigana": "この書簡【しょかん】は忠誠【ちゅうせい】の証【あかし】として送【おく】られた。",
+    "meaning": "This letter was sent as proof of loyalty."
+  },
+  {
+    "sentence": "証拠不開示により、裁判は延期された。",
+    "sentence_furigana": "証拠不開示【しょうこふかいじ】により、裁判【さいばん】は延期【えんき】された。",
+    "meaning": "The trial was postponed due to non-disclosure of evidence."
+  }
+]

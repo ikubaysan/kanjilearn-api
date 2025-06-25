@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "その邸宅は城のように大きかった。",
+    "sentence_furigana": "その邸【てい】宅【たく】は城【しろ】のように大【おお】きかった。",
+    "meaning": "The mansion was as big as a castle."
+  },
+  {
+    "sentence": "大使公邸でパーティーが開かれた。",
+    "sentence_furigana": "大使【たいし】公邸【こうてい】でパーティーが開【ひら】かれた。",
+    "meaning": "A party was held at the ambassador's official residence."
+  },
+  {
+    "sentence": "彼女は郊外にある大きな邸宅に住んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は郊外【こうがい】にある大【おお】きな邸【てい】宅【たく】に住【す】んでいる。",
+    "meaning": "She lives in a large mansion located in the suburbs."
+  },
+  {
+    "sentence": "古い邸宅が文化財に指定された。",
+    "sentence_furigana": "古【ふる】い邸【てい】宅【たく】が文化財【ぶんかざい】に指定【してい】された。",
+    "meaning": "The old mansion was designated as a cultural property."
+  },
+  {
+    "sentence": "彼は政府の要人として邸に出入りしていた。",
+    "sentence_furigana": "彼【かれ】は政府【せいふ】の要人【ようじん】として邸【てい】に出入【でい】りしていた。",
+    "meaning": "He entered and exited the residence as a government VIP."
+  },
+  {
+    "sentence": "その邸は緑豊かな庭園に囲まれていた。",
+    "sentence_furigana": "その邸【てい】は緑豊【みどりゆた】かな庭園【ていえん】に囲【かこ】まれていた。",
+    "meaning": "The residence was surrounded by a lush garden."
+  },
+  {
+    "sentence": "彼は友人たちの邸を訪ね歩いた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】たちの邸【てい】を訪【たず】ね歩【ある】いた。",
+    "meaning": "He visited the residences of his friends."
+  },
+  {
+    "sentence": "邸の主人は不在でした。",
+    "sentence_furigana": "邸【てい】の主人【しゅじん】は不在【ふざい】でした。",
+    "meaning": "The master of the residence was absent."
+  },
+  {
+    "sentence": "邸の敷地は広大だった。",
+    "sentence_furigana": "邸【てい】の敷地【しきち】は広大【こうだい】だった。",
+    "meaning": "The grounds of the residence were vast."
+  },
+  {
+    "sentence": "邸内は厳重に警備されていた。",
+    "sentence_furigana": "邸内【ていだい】は厳重【げんじゅう】に警備【けいび】されていた。",
+    "meaning": "The inside of the residence was heavily guarded."
+  },
+  {
+    "sentence": "その邸は歴史的な建造物だ。",
+    "sentence_furigana": "その邸【てい】は歴史的【れきしてき】な建造物【けんぞうぶつ】だ。",
+    "meaning": "That residence is a historic building."
+  },
+  {
+    "sentence": "政治家は自身の邸で記者会見を開いた。",
+    "sentence_furigana": "政治家【せいじか】は自身【じしん】の邸【てい】で記者会見【きしゃかいけん】を開【ひら】いた。",
+    "meaning": "The politician held a press conference at his residence."
+  },
+  {
+    "sentence": "邸の玄関は豪華だった。",
+    "sentence_furigana": "邸【てい】の玄関【げんかん】は豪華【ごうか】だった。",
+    "meaning": "The entrance of the residence was luxurious."
+  },
+  {
+    "sentence": "彼は名誉な職務を終え、邸に戻った。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】な職務【しょくむ】を終【お】え、邸【てい】に戻【もど】った。",
+    "meaning": "He finished his honorable duty and returned to his residence."
+  },
+  {
+    "sentence": "その邸は静かな環境に位置している。",
+    "sentence_furigana": "その邸【てい】は静【しず】かな環境【かんきょう】に位置【いち】している。",
+    "meaning": "The residence is located in a quiet environment."
+  },
+  {
+    "sentence": "邸には数多くの使用人がいた。",
+    "sentence_furigana": "邸【てい】には数多【かずおお】くの使用人【しようじん】がいた。",
+    "meaning": "There were many servants in the residence."
+  },
+  {
+    "sentence": "邸の周りは高い塀で囲まれていた。",
+    "sentence_furigana": "邸【てい】の周【まわ】りは高【たか】い塀【へい】で囲【かこ】まれていた。",
+    "meaning": "The residence was surrounded by high walls."
+  },
+  {
+    "sentence": "彼は新しい邸を建築中だ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい邸【てい】を建築中【けんちくちゅう】だ。",
+    "meaning": "He is currently building a new residence."
+  },
+  {
+    "sentence": "この邸はかつて有名作家の住まいだった。",
+    "sentence_furigana": "この邸【てい】はかつて有名作家【ゆうめいさっか】の住【す】まいだった。",
+    "meaning": "This residence was once the home of a famous writer."
+  },
+  {
+    "sentence": "邸の門は自動で開いた。",
+    "sentence_furigana": "邸【てい】の門【もん】は自動【じどう】で開【あ】いた。",
+    "meaning": "The gate of the residence opened automatically."
+  },
+  {
+    "sentence": "彼は一時的にその邸に滞在している。",
+    "sentence_furigana": "彼【かれ】は一時的【いちじてき】にその邸【てい】に滞在【たいざい】している。",
+    "meaning": "He is temporarily staying at that residence."
+  },
+  {
+    "sentence": "邸の窓からは美しい景色が見える。",
+    "sentence_furigana": "邸【てい】の窓【まど】からは美【うつく】しい景色【けしき】が見【み】える。",
+    "meaning": "Beautiful scenery can be seen from the residence's windows."
+  },
+  {
+    "sentence": "邸の改築には長い時間がかかった。",
+    "sentence_furigana": "邸【てい】の改築【かいちく】には長【なが】い時間【じかん】がかかった。",
+    "meaning": "The renovation of the residence took a long time."
+  },
+  {
+    "sentence": "邸の庭で家族とピクニックをした。",
+    "sentence_furigana": "邸【てい】の庭【にわ】で家族【かぞく】とピクニックをした。",
+    "meaning": "I had a picnic with my family in the residence's garden."
+  },
+  {
+    "sentence": "彼は古い邸を買い取って改築した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い邸【てい】を買【か】い取【と】って改築【かいちく】した。",
+    "meaning": "He bought the old residence and renovated it."
+  },
+  {
+    "sentence": "邸の調度品はすべて高級品だった。",
+    "sentence_furigana": "邸【てい】の調度品【ちょうどひん】はすべて高級品【こうきゅうひん】だった。",
+    "meaning": "All the furnishings in the residence were high-class items."
+  },
+  {
+    "sentence": "邸には秘密の地下室があったらしい。",
+    "sentence_furigana": "邸【てい】には秘密【ひみつ】の地下室【ちかしつ】があったらしい。",
+    "meaning": "It seems there was a secret basement in the residence."
+  },
+  {
+    "sentence": "彼は自分の邸を邸宅として公開した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の邸【てい】を邸宅【ていたく】として公開【こうかい】した。",
+    "meaning": "He opened his residence as a mansion."
+  },
+  {
+    "sentence": "邸の建設には最新の技術が用いられた。",
+    "sentence_furigana": "邸【てい】の建設【けんせつ】には最新【さいしん】の技術【ぎじゅつ】が用【もち】いられた。",
+    "meaning": "The latest technology was used in the construction of the residence."
+  },
+  {
+    "sentence": "この邸は代々受け継がれてきた。",
+    "sentence_furigana": "この邸【てい】は代々【だいだい】受【う】け継【つ】がれてきた。",
+    "meaning": "This residence has been passed down from generation to generation."
+  },
+  {
+    "sentence": "邸のそばを流れる川は清らかだった。",
+    "sentence_furigana": "邸【てい】のそばを流【なが】れる川【かわ】は清【きよ】らかだった。",
+    "meaning": "The river flowing beside the residence was pure."
+  },
+  {
+    "sentence": "邸の所有権について争いがあった。",
+    "sentence_furigana": "邸【てい】の所有権【しょゆうけん】について争【あらそ】いがあった。",
+    "meaning": "There was a dispute over the ownership of the residence."
+  },
+  {
+    "sentence": "彼は邸での生活に満足していた。",
+    "sentence_furigana": "彼【かれ】は邸【てい】での生活【せいかつ】に満足【まんぞく】していた。",
+    "meaning": "He was satisfied with his life at the residence."
+  },
+  {
+    "sentence": "その邸は歴史的価値が高いと評価されている。",
+    "sentence_furigana": "その邸【てい】は歴史的価値【れきしてきかち】が高【たか】いと評価【ひょうか】されている。",
+    "meaning": "That residence is evaluated as having high historical value."
+  },
+  {
+    "sentence": "邸の図面は非常に詳細だった。",
+    "sentence_furigana": "邸【てい】の図面【ずめん】は非常【ひじょう】に詳細【しょうさい】だった。",
+    "meaning": "The blueprint of the residence was very detailed."
+  },
+  {
+    "sentence": "邸の前には噴水があった。",
+    "sentence_furigana": "邸【てい】の前【まえ】には噴水【ふんすい】があった。",
+    "meaning": "There was a fountain in front of the residence."
+  },
+  {
+    "sentence": "彼は邸の管理を執事に任せた。",
+    "sentence_furigana": "彼【かれ】は邸【てい】の管理【かんり】を執事【しつじ】に任【まか】せた。",
+    "meaning": "He entrusted the management of the residence to the butler."
+  },
+  {
+    "sentence": "邸は海を見下ろす高台にあった。",
+    "sentence_furigana": "邸【てい】は海【うみ】を見下【みお】ろす高台【たかだい】にあった。",
+    "meaning": "The residence was on a hill overlooking the sea."
+  },
+  {
+    "sentence": "邸の周辺は静かで住みやすい。",
+    "sentence_furigana": "邸【てい】の周辺【しゅうへん】は静【しず】かで住【す】みやすい。",
+    "meaning": "The area around the residence is quiet and easy to live in."
+  },
+  {
+    "sentence": "邸の庭には珍しい花が咲いていた。",
+    "sentence_furigana": "邸【てい】の庭【にわ】には珍【めずら】しい花【はな】が咲【さ】いていた。",
+    "meaning": "Rare flowers were blooming in the residence's garden."
+  },
+  {
+    "sentence": "彼は新しい邸を購入したばかりだ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい邸【てい】を購入【こうにゅう】したばかりだ。",
+    "meaning": "He has just purchased a new residence."
+  },
+  {
+    "sentence": "邸は古いが、趣がある。",
+    "sentence_furigana": "邸【てい】は古【ふる】いが、趣【おもむき】がある。",
+    "meaning": "The residence is old, but it has a certain charm."
+  },
+  {
+    "sentence": "邸の修繕費用は高額だった。",
+    "sentence_furigana": "邸【てい】の修繕費用【しゅうぜんひよう】は高額【こうがく】だった。",
+    "meaning": "The repair costs for the residence were high."
+  },
+  {
+    "sentence": "邸に招待されたのは光栄だった。",
+    "sentence_furigana": "邸【てい】に招待【しょうたい】されたのは光栄【こうえい】だった。",
+    "meaning": "It was an honor to be invited to the residence."
+  },
+  {
+    "sentence": "邸は市の中心部に位置している。",
+    "sentence_furigana": "邸【てい】は市【し】の中心部【ちゅうしんぶ】に位置【いち】している。",
+    "meaning": "The residence is located in the city center."
+  },
+  {
+    "sentence": "邸の設計者は有名な建築家だ。",
+    "sentence_furigana": "邸【てい】の設計者【せっけいしゃ】は有名【ゆうめい】な建築家【けんちくか】だ。",
+    "meaning": "The designer of the residence is a famous architect."
+  },
+  {
+    "sentence": "邸の裏手には森が広がっていた。",
+    "sentence_furigana": "邸【てい】の裏手【うらて】には森【もり】が広【ひろ】がっていた。",
+    "meaning": "A forest spread out behind the residence."
+  },
+  {
+    "sentence": "彼は古い邸を博物館に改装した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い邸【てい】を博物館【はくぶつかん】に改装【かいそう】した。",
+    "meaning": "He converted the old residence into a museum."
+  },
+  {
+    "sentence": "邸の部屋は全て家具付きだった。",
+    "sentence_furigana": "邸【てい】の部屋【へや】は全【すべ】て家具付【かぐつ】きだった。",
+    "meaning": "All rooms in the residence came furnished."
+  },
+  {
+    "sentence": "邸の警備は万全を期していた。",
+    "sentence_furigana": "邸【てい】の警備【けいび】は万全【ばんぜん】を期【き】していた。",
+    "meaning": "Security at the residence was perfect."
+  },
+  {
+    "sentence": "邸のテラスからは素晴らしい景色を楽しめた。",
+    "sentence_furigana": "邸【てい】のテラスからは素晴【すば】らしい景色【けしき】を楽し【たの】めた。",
+    "meaning": "We could enjoy a wonderful view from the residence's terrace."
+  },
+  {
+    "sentence": "邸の地下にはワインセラーがある。",
+    "sentence_furigana": "邸【てい】の地下【ちか】にはワインセラーがある。",
+    "meaning": "There is a wine cellar in the basement of the residence."
+  },
+  {
+    "sentence": "邸の持ち主は秘密主義者だ。",
+    "sentence_furigana": "邸【てい】の持【も】ち主【ぬし】は秘密主義者【ひみつしゅぎしゃ】だ。",
+    "meaning": "The owner of the residence is a secretive person."
+  },
+  {
+    "sentence": "邸の周りには多くの木々が植えられていた。",
+    "sentence_furigana": "邸【てい】の周【まわ】りには多【おお】くの木々【きぎ】が植【う】えられていた。",
+    "meaning": "Many trees were planted around the residence."
+  },
+  {
+    "sentence": "邸には広々としたリビングルームがあった。",
+    "sentence_furigana": "邸【てい】には広々【ひろびろ】としたリビングルームがあった。",
+    "meaning": "The residence had a spacious living room."
+  },
+  {
+    "sentence": "邸の改修計画が承認された。",
+    "sentence_furigana": "邸【てい】の改修計画【かいしゅうけいかく】が承認【しょうにん】された。",
+    "meaning": "The renovation plan for the residence was approved."
+  },
+  {
+    "sentence": "邸の庭園は日本庭園様式だ。",
+    "sentence_furigana": "邸【てい】の庭園【ていえん】は日本庭園様式【にほんていえんようしき】だ。",
+    "meaning": "The residence's garden is in the Japanese garden style."
+  },
+  {
+    "sentence": "邸の電力はソーラーパネルで賄われている。",
+    "sentence_furigana": "邸【てい】の電力【でんりょく】はソーラーパネルで賄【まかな】われている。",
+    "meaning": "The residence's electricity is supplied by solar panels."
+  },
+  {
+    "sentence": "邸の地下駐車場は広かった。",
+    "sentence_furigana": "邸【てい】の地下駐車場【ちかちゅうしゃじょう】は広【ひろ】かった。",
+    "meaning": "The underground parking of the residence was spacious."
+  },
+  {
+    "sentence": "邸の前の通りは静かだ。",
+    "sentence_furigana": "邸【てい】の前【まえ】の通【とお】りは静【しず】かだ。",
+    "meaning": "The street in front of the residence is quiet."
+  },
+  {
+    "sentence": "邸の所有者は海外に住んでいる。",
+    "sentence_furigana": "邸【てい】の所有者【しょゆうしゃ】は海外【かいがい】に住【す】んでいる。",
+    "meaning": "The owner of the residence lives overseas."
+  },
+  {
+    "sentence": "邸の改築には専門家の助言が必要だ。",
+    "sentence_furigana": "邸【てい】の改築【かいちく】には専門家【せんもんか】の助言【じょげん】が必要【ひつよう】だ。",
+    "meaning": "Expert advice is needed for the renovation of the residence."
+  },
+  {
+    "sentence": "邸の屋根は銅でできていた。",
+    "sentence_furigana": "邸【てい】の屋根【やね】は銅【どう】でできていた。",
+    "meaning": "The roof of the residence was made of copper."
+  },
+  {
+    "sentence": "邸の内部は豪華絢爛としていた。",
+    "sentence_furigana": "邸【てい】の内部【ないぶ】は豪華絢爛【ごうかけんらん】としていた。",
+    "meaning": "The interior of the residence was magnificent."
+  },
+  {
+    "sentence": "邸の建材には良質な木材が使われた。",
+    "sentence_furigana": "邸【てい】の建材【けんざい】には良質【りょうしつ】な木材【もくざい】が使【つか】われた。",
+    "meaning": "High-quality wood was used for the construction materials of the residence."
+  },
+  {
+    "sentence": "邸の周りは静寂に包まれていた。",
+    "sentence_furigana": "邸【てい】の周【まわ】りは静寂【せいじゃく】に包【つつ】まれていた。",
+    "meaning": "The surroundings of the residence were enveloped in silence."
+  },
+  {
+    "sentence": "邸の所有者は匿名のままだった。",
+    "sentence_furigana": "邸【てい】の所有者【しょゆうしゃ】は匿名【とくめい】のままだった。",
+    "meaning": "The owner of the residence remained anonymous."
+  },
+  {
+    "sentence": "邸の設計は非常にユニークだ。",
+    "sentence_furigana": "邸【てい】の設計【せっけい】は非常【ひじょう】にユニークだ。",
+    "meaning": "The design of the residence is very unique."
+  },
+  {
+    "sentence": "邸の裏口は小さかった。",
+    "sentence_furigana": "邸【てい】の裏口【うらぐち】は小【ちい】さかった。",
+    "meaning": "The back entrance of the residence was small."
+  },
+  {
+    "sentence": "邸には多くの芸術品が飾られていた。",
+    "sentence_furigana": "邸【てい】には多【おお】くの芸術品【げいじゅつひん】が飾【かざ】られていた。",
+    "meaning": "Many works of art were displayed in the residence."
+  },
+  {
+    "sentence": "邸の改装にはかなりの費用がかかった。",
+    "sentence_furigana": "邸【てい】の改装【かいそう】にはかなりの費用【ひよう】がかかった。",
+    "meaning": "The renovation of the residence incurred considerable expense."
+  },
+  {
+    "sentence": "邸の所有者は変わりつつある。",
+    "sentence_furigana": "邸【てい】の所有者【しょゆうしゃ】は変【か】わりつつある。",
+    "meaning": "The ownership of the residence is changing."
+  },
+  {
+    "sentence": "邸のプールは夏の間だけ使われる。",
+    "sentence_furigana": "邸【てい】のプールは夏【なつ】の間【あいだ】だけ使【つか】われる。",
+    "meaning": "The residence's pool is only used during the summer."
+  },
+  {
+    "sentence": "邸は静かな住宅街にある。",
+    "sentence_furigana": "邸【てい】は静【しず】かな住宅街【じゅうたくがい】にある。",
+    "meaning": "The residence is located in a quiet residential area."
+  },
+  {
+    "sentence": "邸の敷地内には教会があった。",
+    "sentence_furigana": "邸【てい】の敷地内【しきちない】には教会【きょうかい】があった。",
+    "meaning": "There was a church on the grounds of the residence."
+  },
+  {
+    "sentence": "邸の新しい主人を歓迎する。",
+    "sentence_furigana": "邸【てい】の新【あたら】しい主人【しゅじん】を歓迎【かんげい】する。",
+    "meaning": "We welcome the new master of the residence."
+  },
+  {
+    "sentence": "邸には数々の歴史的な事件があった。",
+    "sentence_furigana": "邸【てい】には数々【かずかず】の歴史的【れきしてき】な事件【じけん】があった。",
+    "meaning": "There have been numerous historical incidents at the residence."
+  },
+  {
+    "sentence": "邸の設計図は精密に描かれていた。",
+    "sentence_furigana": "邸【てい】の設計図【せっけいず】は精密【せいみつ】に描【か】かれていた。",
+    "meaning": "The architectural drawings of the residence were precisely rendered."
+  },
+  {
+    "sentence": "邸の付属建物も改装された。",
+    "sentence_furigana": "邸【てい】の付属建物【ふぞくたてもの】も改装【かいそう】された。",
+    "meaning": "The outbuildings of the residence were also renovated."
+  },
+  {
+    "sentence": "邸の裏通りはほとんど人通りがなかった。",
+    "sentence_furigana": "邸【てい】の裏通【うらどお】りはほとんど人通【ひとどお】りがなかった。",
+    "meaning": "There was hardly any pedestrian traffic on the street behind the residence."
+  },
+  {
+    "sentence": "邸の屋敷は広大で、庭園も美しい。",
+    "sentence_furigana": "邸【てい】の屋敷【やしき】は広大【こうだい】で、庭園【ていえん】も美【うつく】しい。",
+    "meaning": "The estate of the residence is vast, and the garden is also beautiful."
+  },
+  {
+    "sentence": "邸の周囲には高い木々が生い茂っていた。",
+    "sentence_furigana": "邸【てい】の周囲【しゅうい】には高【たか】い木々【きぎ】が生【おい】い茂【しげ】っていた。",
+    "meaning": "Tall trees grew thickly around the residence."
+  },
+  {
+    "sentence": "邸の新しい持ち主は慈善活動に熱心だ。",
+    "sentence_furigana": "邸【てい】の新【あたら】しい持【も】ち主【ぬし】は慈善活動【じぜんかつどう】に熱心【ねっしん】だ。",
+    "meaning": "The new owner of the residence is enthusiastic about charitable activities."
+  },
+  {
+    "sentence": "邸の改築は来月完了する予定だ。",
+    "sentence_furigana": "邸【てい】の改築【かいちく】は来月【らいげつ】完了【かんりょう】する予定【よてい】だ。",
+    "meaning": "The renovation of the residence is scheduled to be completed next month."
+  },
+  {
+    "sentence": "邸の前の広場ではイベントが開かれた。",
+    "sentence_furigana": "邸【てい】の前【まえ】の広場【ひろば】ではイベントが開【ひら】かれた。",
+    "meaning": "An event was held in the plaza in front of the residence."
+  },
+  {
+    "sentence": "邸の屋根裏部屋には古い宝物が隠されている。",
+    "sentence_furigana": "邸【てい】の屋根裏部屋【やねうらべや】には古【ふる】い宝物【たからもの】が隠【かく】されている。",
+    "meaning": "Old treasures are hidden in the attic of the residence."
+  },
+  {
+    "sentence": "邸の所有権を巡る争いは法廷で争われている。",
+    "sentence_furigana": "邸【てい】の所有権【しょゆうけん】を巡【めぐ】る争【あらそ】いは法廷【ほうてい】で争【あらそ】われている。",
+    "meaning": "The dispute over the ownership of the residence is being contested in court."
+  },
+  {
+    "sentence": "邸の庭には果樹がたくさんあった。",
+    "sentence_furigana": "邸【てい】の庭【にわ】には果樹【かじゅ】がたくさんあった。",
+    "meaning": "There were many fruit trees in the residence's garden."
+  },
+  {
+    "sentence": "邸の門番は厳格な人物だった。",
+    "sentence_furigana": "邸【てい】の門番【もんばん】は厳格【げんかく】な人物【じんぶつ】だった。",
+    "meaning": "The gatekeeper of the residence was a strict person."
+  },
+  {
+    "sentence": "邸は歴史的建造物群の一部となっている。",
+    "sentence_furigana": "邸【てい】は歴史的建造物群【れきしてきけんぞうぶつぐん】の一部【いちぶ】となっている。",
+    "meaning": "The residence is part of a group of historic buildings."
+  },
+  {
+    "sentence": "邸の主人は長期間不在だった。",
+    "sentence_furigana": "邸【てい】の主人【しゅじん】は長期間【ちょうきかん】不在【ふざい】だった。",
+    "meaning": "The master of the residence was absent for a long period."
+  },
+  {
+    "sentence": "邸の窓は全て二重窓になっていた。",
+    "sentence_furigana": "邸【てい】の窓【まど】は全て【すべて】二重窓【ふたえまど】になっていた。",
+    "meaning": "All the windows of the residence were double-glazed."
+  },
+  {
+    "sentence": "邸の建材はすべて地元産のものを使用した。",
+    "sentence_furigana": "邸【てい】の建材【けんざい】はすべて地元産【じもとさん】のものを使用【しよう】した。",
+    "meaning": "All the construction materials for the residence were sourced locally."
+  },
+  {
+    "sentence": "邸の修復作業が完了した。",
+    "sentence_furigana": "邸【てい】の修復作業【しゅうふくさぎょう】が完了【かんりょう】した。",
+    "meaning": "The restoration work on the residence has been completed."
+  },
+  {
+    "sentence": "邸の警備員は昼夜を問わず配置されていた。",
+    "sentence_furigana": "邸【てい】の警備員【けいびいん】は昼夜【ちゅうや】を問【と】わず配置【はいち】されていた。",
+    "meaning": "Security guards were stationed at the residence day and night."
+  },
+  {
+    "sentence": "邸の建築様式はバロック様式だ。",
+    "sentence_furigana": "邸【てい】の建築様式【けんちくようしき】はバロック様式【ようしき】だ。",
+    "meaning": "The architectural style of the residence is Baroque."
+  },
+  {
+    "sentence": "邸の周りは広い庭園に囲まれている。",
+    "sentence_furigana": "邸【てい】の周【まわ】りは広【ひろ】い庭園【ていえん】に囲【かこ】まれている。",
+    "meaning": "The residence is surrounded by a large garden."
+  },
+  {
+    "sentence": "邸の所有者は海外の投資家だ。",
+    "sentence_furigana": "邸【てい】の所有者【しょゆうしゃ】は海外【かいがい】の投資家【とうしか】だ。",
+    "meaning": "The owner of the residence is an overseas investor."
+  },
+  {
+    "sentence": "邸の改修は市の文化財保護条例に従って行われた。",
+    "sentence_furigana": "邸【てい】の改修【かいしゅう】は市【し】の文化財保護条例【ぶんかざいほごじょうれい】に従【したが】って行【おこな】われた。",
+    "meaning": "The renovation of the residence was carried out in accordance with the city's cultural property protection ordinance."
+  }
+]

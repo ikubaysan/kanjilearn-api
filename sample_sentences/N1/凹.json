@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "この壁には大きな凹みがある。",
+    "sentence_furigana": "この壁【かべ】には大【おお】きな凹【おう】みがある。",
+    "meaning": "There is a large indentation in this wall."
+  },
+  {
+    "sentence": "地面が凹んでいて歩きにくい。",
+    "sentence_furigana": "地面【じめん】が凹【へこ】んでいて歩【ある】きにくい。",
+    "meaning": "The ground is uneven and difficult to walk on."
+  },
+  {
+    "sentence": "彼のヘルメットは凹んでいた。",
+    "sentence_furigana": "彼【かれ】のヘルメットは凹【へこ】んでいた。",
+    "meaning": "His helmet was dented."
+  },
+  {
+    "sentence": "古いお皿に凹みがあった。",
+    "sentence_furigana": "古【ふる】いお皿【さら】に凹【へこ】みがあった。",
+    "meaning": "The old plate had a dent."
+  },
+  {
+    "sentence": "ドアに小さな凹みがついた。",
+    "sentence_furigana": "ドアに小【ちい】さな凹【へこ】みがついた。",
+    "meaning": "A small dent was made on the door."
+  },
+  {
+    "sentence": "車のボディが凹んでしまった。",
+    "sentence_furigana": "車【くるま】のボディが凹【へこ】んでしまった。",
+    "meaning": "The car's body got dented."
+  },
+  {
+    "sentence": "箱が少し凹んでいたので返品した。",
+    "sentence_furigana": "箱【はこ】が少【すこ】し凹【へこ】んでいたので返品【へんぴん】した。",
+    "meaning": "The box was slightly dented, so I returned it."
+  },
+  {
+    "sentence": "天井に水の跡と凹みがある。",
+    "sentence_furigana": "天井【てんじょう】に水【みず】の跡【あと】と凹【へこ】みがある。",
+    "meaning": "There is a water stain and a dent in the ceiling."
+  },
+  {
+    "sentence": "彼の顔には深い凹みがあった。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には深【ふか】い凹【へこ】みがあった。",
+    "meaning": "There was a deep hollow in his face."
+  },
+  {
+    "sentence": "新しい自転車のフレームが凹んだ。",
+    "sentence_furigana": "新【あたら】しい自転車【じてんしゃ】のフレームが凹【へこ】んだ。",
+    "meaning": "The frame of the new bicycle got dented."
+  },
+  {
+    "sentence": "テーブルの表面に凹みがある。",
+    "sentence_furigana": "テーブルの表面【ひょうめん】に凹【へこ】みがある。",
+    "meaning": "There is a dent on the surface of the table."
+  },
+  {
+    "sentence": "壁の材質が悪く、すぐに凹んだ。",
+    "sentence_furigana": "壁【かべ】の材質【ざいしつ】が悪【わる】く、すぐ凹【へこ】んだ。",
+    "meaning": "The material of the wall was poor, and it dented easily."
+  },
+  {
+    "sentence": "この石には自然な凹みがある。",
+    "sentence_furigana": "この石【いし】には自然【しぜん】な凹【へこ】みがある。",
+    "meaning": "This stone has a natural hollow."
+  },
+  {
+    "sentence": "彼はストレスで顔が凹んでいた。",
+    "sentence_furigana": "彼【かれ】はストレスで顔【かお】が凹【へこ】んでいた。",
+    "meaning": "His face looked sunken due to stress."
+  },
+  {
+    "sentence": "古い家は壁が凹んでいることが多い。",
+    "sentence_furigana": "古【ふる】い家【いえ】は壁【かべ】が凹【へこ】んでいることが多【おお】い。",
+    "meaning": "Walls in old houses are often dented or sunken."
+  },
+  {
+    "sentence": "子供が床に落ちて、硬いところに凹みを作った。",
+    "sentence_furigana": "子供【こども】が床【ゆか】に落【お】ちて、硬【かた】いところに凹【へこ】みを作【つく】った。",
+    "meaning": "The child fell on the floor and made a dent in the hard surface."
+  },
+  {
+    "sentence": "この商品は輸送中に凹んだようだ。",
+    "sentence_furigana": "この商品【しょうひん】は輸送中【ゆそうちゅう】に凹【へこ】んだようだ。",
+    "meaning": "This product seems to have been dented during shipping."
+  },
+  {
+    "sentence": "彼は失敗して肩を凹ませた。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】して肩【かた】を凹【へこ】ませた。",
+    "meaning": "He slumped his shoulders in disappointment after failing."
+  },
+  {
+    "sentence": "模型の車体が凹んだので修理した。",
+    "sentence_furigana": "模型【もけい】の車体【しゃたい】が凹【へこ】んだので修理【しゅうり】した。",
+    "meaning": "The model car's body was dented, so I repaired it."
+  },
+  {
+    "sentence": "木の幹に自然の凹みがあった。",
+    "sentence_furigana": "木【き】の幹【みき】に自然【しぜん】の凹【へこ】みがあった。",
+    "meaning": "There was a natural hollow in the trunk of the tree."
+  },
+  {
+    "sentence": "金属の表面に小さな凹みが見られる。",
+    "sentence_furigana": "金属【きんぞく】の表面【ひょうめん】に小【ちい】さな凹【へこ】みが見【み】られる。",
+    "meaning": "Small indentations can be seen on the metal surface."
+  },
+  {
+    "sentence": "このエリアは地盤沈下で地面が凹んでいる。",
+    "sentence_furigana": "このエリアは地盤沈下【じばんちんか】で地面【じめん】が凹【へこ】んでいる。",
+    "meaning": "The ground in this area is sunken due to land subsidence."
+  },
+  {
+    "sentence": "彼の顔には深い悲しみが凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には深【ふか】い悲【かな】しみが凹【へこ】んでいた。",
+    "meaning": "Deep sadness was etched on his face."
+  },
+  {
+    "sentence": "作業中に工具で壁を凹ませてしまった。",
+    "sentence_furigana": "作業中【さぎょうちゅう】に工具【こうぐ】で壁【かべ】を凹【へこ】ませてしまった。",
+    "meaning": "I accidentally dented the wall with a tool during work."
+  },
+  {
+    "sentence": "ドアの取っ手の周りに凹みがある。",
+    "sentence_furigana": "ドアの取っ手【とって】の周【まわ】りに凹【へこ】みがある。",
+    "meaning": "There is an indentation around the door handle."
+  },
+  {
+    "sentence": "この車は中古で買ったが、少し凹んでいた。",
+    "sentence_furigana": "この車【くるま】は中古【ちゅうこ】で買【か】ったが、少【すこ】し凹【へこ】んでいた。",
+    "meaning": "I bought this car used, but it was a little dented."
+  },
+  {
+    "sentence": "彼の話を聞いて、私の心も凹んだ。",
+    "sentence_furigana": "彼【かれ】の話【はなし】を聞【き】いて、私【わたし】の心【こころ】も凹【へこ】んだ。",
+    "meaning": "Hearing his story, my heart sank too."
+  },
+  {
+    "sentence": "道路に大きな凹みができていた。",
+    "sentence_furigana": "道路【どうろ】に大【おお】きな凹【へこ】みができていた。",
+    "meaning": "A large pothole had formed in the road."
+  },
+  {
+    "sentence": "子供がボールをぶつけて壁を凹ませた。",
+    "sentence_furigana": "子供【こども】がボールをぶつけて壁【かべ】を凹【へこ】ませた。",
+    "meaning": "The child hit the wall with a ball and dented it."
+  },
+  {
+    "sentence": "このプラスチックは衝撃で簡単に凹む。",
+    "sentence_furigana": "このプラスチックは衝撃【しょうげき】で簡単【かんたん】に凹【へこ】む。",
+    "meaning": "This plastic dents easily upon impact."
+  },
+  {
+    "sentence": "写真には写らないほどの小さな凹みだ。",
+    "sentence_furigana": "写真【しゃしん】には写【うつ】らないほどの大【ちい】さな凹【へこ】みだ。",
+    "meaning": "It's such a small dent that it doesn't show up in photos."
+  },
+  {
+    "sentence": "彼の表情は喜びよりも落胆を凹ませていた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は喜【よろこ】びよりも落胆【らくたん】を凹【へこ】ませていた。",
+    "meaning": "His expression showed disappointment rather than joy."
+  },
+  {
+    "sentence": "この凹みは自然にできたものですか？",
+    "sentence_furigana": "この凹【へこ】みは自然【しぜん】にできたものですか？",
+    "meaning": "Was this dent naturally formed?"
+  },
+  {
+    "sentence": "古い車はあちこち凹みがあった。",
+    "sentence_furigana": "古【ふる】い車【くるま】はあちこち凹【へこ】みがあった。",
+    "meaning": "The old car had dents here and there."
+  },
+  {
+    "sentence": "壁にできた凹みを左官屋さんに直してもらった。",
+    "sentence_furigana": "壁【かべ】にできた凹【へこ】みを左官屋【さかんや】さんには直【なお】してもらった。",
+    "meaning": "I had a plasterer fix the dent in the wall."
+  },
+  {
+    "sentence": "彼の顔には疲労が凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には疲労【ひろう】が凹【へこ】んでいた。",
+    "meaning": "Fatigue was evident on his face."
+  },
+  {
+    "sentence": "この製品はデザイン的に凹凸がある。",
+    "sentence_furigana": "この製品【せいひん】はデザイン的【てき】に凹凸【おうとつ】がある。",
+    "meaning": "This product has a textured or uneven design."
+  },
+  {
+    "sentence": "箱が凹んでいるので、中身も心配だ。",
+    "sentence_furigana": "箱【はこ】が凹【へこ】んでいるので、中身【なかみ】も心配【しんぱい】だ。",
+    "meaning": "Since the box is dented, I'm worried about the contents too."
+  },
+  {
+    "sentence": "古い建物の壁には経年変化による凹みが見られる。",
+    "sentence_furigana": "古【ふる】い建物【たてもの】の壁【かべ】には経年変化【けいねんへんか】による凹【へこ】みが見【み】られる。",
+    "meaning": "Dents due to aging are visible on the walls of old buildings."
+  },
+  {
+    "sentence": "彼は落胆して背中を凹ませて歩いていた。",
+    "sentence_furigana": "彼【かれ】は落胆【らくたん】して背中【せなか】を凹【へこ】ませて歩【ある】いていた。",
+    "meaning": "He walked with his back hunched in disappointment."
+  },
+  {
+    "sentence": "この素材は圧力で凹みやすい。",
+    "sentence_furigana": "この素材【そざい】は圧力【あつりょく】で凹【へこ】みやすい。",
+    "meaning": "This material is prone to denting under pressure."
+  },
+  {
+    "sentence": "彼の顔に失望の色が凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】に失望【しつぼう】の色【いろ】が凹【へこ】んでいた。",
+    "meaning": "A look of disappointment was etched on his face."
+  },
+  {
+    "sentence": "この石は表面に滑らかな凹みがある。",
+    "sentence_furigana": "この石【いし】は表面【ひょうめん】に滑【なめ】らかな凹【へこ】みがある。",
+    "meaning": "This stone has a smooth indentation on its surface."
+  },
+  {
+    "sentence": "車のドアにできた凹みを自分で直そうとした。",
+    "sentence_furigana": "車【くるま】のドアにできた凹【へこ】みを自分【じぶん】で直【なお】そうとした。",
+    "meaning": "I tried to fix the dent in the car door myself."
+  },
+  {
+    "sentence": "この地図は古いので、端が少し凹んでいる。",
+    "sentence_furigana": "この地図【ちず】は古【ふる】いので、端【は】が少【すこ】し凹【へこ】んでいる。",
+    "meaning": "This map is old, so the edges are a bit worn or dented."
+  },
+  {
+    "sentence": "彼の提案は却下され、意気が凹んだ。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は却下【きゃっか】され、意気【いき】が凹【へこ】んだ。",
+    "meaning": "His proposal was rejected, and his spirits sank."
+  },
+  {
+    "sentence": "この陶器は手作りのため、一点一点凹凸がある。",
+    "sentence_furigana": "この陶器【とうき】は手作【てづく】りのため、一点一点【いってんいってん】凹凸【おうとつ】がある。",
+    "meaning": "This pottery is handmade, so it has variations in texture."
+  },
+  {
+    "sentence": "雨漏りの影響で天井の木材が凹んでいた。",
+    "sentence_furigana": "雨漏【あまも】りの影響【えいきょう】で天井【てんじょう】の木材【もくざい】が凹【へこ】んでいた。",
+    "meaning": "The ceiling wood was warped or sunken due to a leak."
+  },
+  {
+    "sentence": "彼の顔色は悪く、頬が凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔色【かおいろ】は悪【わる】く、頬【ほほ】が凹【へこ】んでいた。",
+    "meaning": "His complexion was poor, and his cheeks were sunken."
+  },
+  {
+    "sentence": "この木箱は強度がないため、簡単に凹む。",
+    "sentence_furigana": "この木箱【きばこ】は強度【きょうど】がないため、簡単【かんたん】に凹【へこ】む。",
+    "meaning": "This wooden box lacks strength and dents easily."
+  },
+  {
+    "sentence": "道路の舗装が剥がれて、大きな凹みができている。",
+    "sentence_furigana": "道路【どうろ】の舗装【ほそう】が剥【は】がれて、大【おお】きな凹【へこ】みができている。",
+    "meaning": "The road surface has peeled off, creating a large pothole."
+  },
+  {
+    "sentence": "彼は失望から肩を凹ませて座り込んだ。",
+    "sentence_furigana": "彼【かれ】は失望【しつぼう】から肩【かた】を凹【へこ】ませて座【すわ】り込【こ】んだ。",
+    "meaning": "He slumped his shoulders in despair and sat down."
+  },
+  {
+    "sentence": "この貝殻は自然の力で滑らかな凹みができている。",
+    "sentence_furigana": "この貝殻【かいがら】は自然【しぜん】の力【ちから】で滑【なめ】らかな凹【へこ】みができている。",
+    "meaning": "This seashell has a smooth hollow formed by natural forces."
+  },
+  {
+    "sentence": "車のバンパーがわずかに凹んだ。",
+    "sentence_furigana": "車【くるま】のバンパーがわずかに凹【へこ】んだ。",
+    "meaning": "The car bumper was slightly dented."
+  },
+  {
+    "sentence": "箱の角が当たって凹んでしまった。",
+    "sentence_furigana": "箱【はこ】の角【かど】が当【あ】たって凹【へこ】んでしまった。",
+    "meaning": "The corner of the box hit something and got dented."
+  },
+  {
+    "sentence": "この石碑には古い時代の凹みが刻まれている。",
+    "sentence_furigana": "この石碑【せきひ】には古【ふる】い時代【じだい】の凹【へこ】みが刻【きざ】まれている。",
+    "meaning": "This stone monument is engraved with indentations from an old era."
+  },
+  {
+    "sentence": "彼の顔は苦悩で凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】は苦悩【くのう】で凹【へこ】んでいた。",
+    "meaning": "His face was etched with anguish."
+  },
+  {
+    "sentence": "このおもちゃの車はよく凹む。",
+    "sentence_furigana": "このおもちゃの車【くるま】はよく凹【へこ】む。",
+    "meaning": "This toy car dents easily."
+  },
+  {
+    "sentence": "床のタイルにヒビと小さな凹みが見える。",
+    "sentence_furigana": "床【ゆか】のタイルにヒビと小【ちい】さな凹【へこ】みが見【み】える。",
+    "meaning": "Cracks and small dents are visible on the floor tiles."
+  },
+  {
+    "sentence": "箱が輸送中に大きく凹んだ。",
+    "sentence_furigana": "箱【はこ】が輸送中【ゆそうちゅう】に大【おお】きく凹【へこ】んだ。",
+    "meaning": "The box was significantly dented during transit."
+  },
+  {
+    "sentence": "彼は落胆し、肩を凹ませてうつむいた。",
+    "sentence_furigana": "彼【かれ】は落胆【らくたん】し、肩【かた】を凹【へこ】ませてうつむいた。",
+    "meaning": "He was disappointed, hunched his shoulders, and looked down."
+  },
+  {
+    "sentence": "古い木の幹には自然な窪みがある。",
+    "sentence_furigana": "古【ふる】い木【き】の幹【みき】には自然【しぜん】な窪【くぼ】みがある。",
+    "meaning": "There is a natural hollow in the trunk of the old tree."
+  },
+  {
+    "sentence": "車のドアにできた凹みは修理が必要だ。",
+    "sentence_furigana": "車【くるま】のドアにできた凹【へこ】みは修理【しゅうり】が必要【ひつよう】だ。",
+    "meaning": "The dent in the car door needs to be repaired."
+  },
+  {
+    "sentence": "この岩には古代の彫刻の跡が凹んでいる。",
+    "sentence_furigana": "この岩【いわ】には古代【こだい】の彫刻【ちょうこく】の跡【あと】が凹【へこ】んでいる。",
+    "meaning": "This rock has indentations from ancient carvings."
+  },
+  {
+    "sentence": "彼の顔には疲労の色が深く凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には疲労【ひろう】の色【いろ】が深【ふか】く凹【へこ】んでいた。",
+    "meaning": "The signs of fatigue were deeply etched on his face."
+  },
+  {
+    "sentence": "この容器は衝撃で簡単に凹む。",
+    "sentence_furigana": "この容器【ようき】は衝撃【しょうげき】で簡単【かんたん】に凹【へこ】む。",
+    "meaning": "This container dents easily upon impact."
+  },
+  {
+    "sentence": "壁の漆喰が剥がれて、下に凹みが見える。",
+    "sentence_furigana": "壁【かべ】の漆喰【しっくい】が剥【は】がれて、下【した】に凹【へこ】みが見【み】える。",
+    "meaning": "The plaster on the wall has peeled off, revealing a hollow underneath."
+  },
+  {
+    "sentence": "彼の沈んだ顔は悲しみを凹ませていた。",
+    "sentence_furigana": "彼【かれ】の沈【しず】んだ顔【かお】は悲【かな】しみを凹【へこ】ませていた。",
+    "meaning": "His dejected face seemed to carry his sadness."
+  },
+  {
+    "sentence": "この製品のパッケージは少し凹んでいた。",
+    "sentence_furigana": "この製品【せいひん】のパッケージは少【すこ】し凹【へこ】んでいた。",
+    "meaning": "The packaging of this product was slightly dented."
+  },
+  {
+    "sentence": "木の表面に自然の凹凸がある。",
+    "sentence_furigana": "木【き】の表面【ひょうめん】に自然【しぜん】の凹凸【おうとつ】がある。",
+    "meaning": "There are natural bumps and hollows on the surface of the wood."
+  },
+  {
+    "sentence": "彼の言葉に私の希望は凹んだ。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】に私【わたし】の希望【きぼう】は凹【へこ】んだ。",
+    "meaning": "His words dashed my hopes."
+  },
+  {
+    "sentence": "このテーブルは古いので天板に凹みがある。",
+    "sentence_furigana": "このテーブルは古【ふる】いので天板【てんばん】に凹【へこ】みがある。",
+    "meaning": "This table is old and has dents on the tabletop."
+  },
+  {
+    "sentence": "彼の顔には苦労が凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には苦労【くろう】が凹【へこ】んでいた。",
+    "meaning": "His face showed the hardships he had endured."
+  },
+  {
+    "sentence": "この素材は非常に柔らかく、少しの力で凹む。",
+    "sentence_furigana": "この素材【そざい】は非常【ひじょう】に柔【やわ】らかく、少【すこ】しの力【ちから】で凹【へこ】む。",
+    "meaning": "This material is very soft and dents with little force."
+  },
+  {
+    "sentence": "写真の隅に小さな凹みがある。",
+    "sentence_furigana": "写真【しゃしん】の隅【すみ】に小【ちい】さな凹【へこ】みがある。",
+    "meaning": "There is a small indentation in the corner of the photo."
+  },
+  {
+    "sentence": "彼の顔は悲しみで凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】は悲【かな】しみで凹【へこ】んでいた。",
+    "meaning": "His face was hollowed by sadness."
+  },
+  {
+    "sentence": "この箱は輸送中に角が凹んだ。",
+    "sentence_furigana": "この箱【はこ】は輸送中【ゆそうちゅう】に角【かど】が凹【へこ】んだ。",
+    "meaning": "The corner of this box was dented during shipping."
+  },
+  {
+    "sentence": "彼の顔には苦悩の表情が凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には苦悩【くのう】の表情【ひょうじょう】が凹【へこ】んでいた。",
+    "meaning": "An expression of suffering was etched on his face."
+  },
+  {
+    "sentence": "この金属板にはいくつかの凹みがある。",
+    "sentence_furigana": "この金属板【きんぞくばん】にはいくつか の凹【へこ】みがある。",
+    "meaning": "There are several dents in this metal plate."
+  },
+  {
+    "sentence": "子供が遊んでいて、壁に小さな凹みを作った。",
+    "sentence_furigana": "子供【こども】が遊【あそ】んでいて、壁【かべ】に小【ちい】さな凹【へこ】みを作【つく】った。",
+    "meaning": "The child made a small dent in the wall while playing."
+  },
+  {
+    "sentence": "彼の表情は落胆で凹んでいた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は落胆【らくたん】で凹【へこ】んでいた。",
+    "meaning": "His expression was one of disappointment."
+  },
+  {
+    "sentence": "この地面は雨で少し凹んでいる。",
+    "sentence_furigana": "この地面【じめん】は雨【あめ】で少【すこ】し凹【へこ】んでいる。",
+    "meaning": "This ground is slightly sunken due to the rain."
+  },
+  {
+    "sentence": "車の後部がわずかに凹んでいる。",
+    "sentence_furigana": "車【くるま】の後部【こうぶ】がわずかに凹【へこ】んでいる。",
+    "meaning": "The rear of the car is slightly dented."
+  },
+  {
+    "sentence": "この石には自然にできた窪みがいくつかある。",
+    "sentence_furigana": "この石【いし】には自然【しぜん】にできた窪【くぼ】みがいくつかある。",
+    "meaning": "There are several natural hollows in this stone."
+  },
+  {
+    "sentence": "彼の顔には疲労が刻まれ、凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には疲労【ひろう】が刻【きざ】まれ、凹【へこ】んでいた。",
+    "meaning": "Fatigue was carved into his face, making it look sunken."
+  },
+  {
+    "sentence": "この箱は丈夫なように見えるが、実は凹みやすい。",
+    "sentence_furigana": "この箱【はこ】は丈夫【じょうぶ】に見【み】えるが、実【じつ】は凹【へこ】みやすい。",
+    "meaning": "This box looks sturdy, but it actually dents easily."
+  },
+  {
+    "sentence": "この商品は箱が凹んでいるため、交換を希望します。",
+    "sentence_furigana": "この商品【しょうひん】は箱【はこ】が凹【へこ】んでいるため、交換【こうかん】を希望【きぼう】します。",
+    "meaning": "I would like to exchange this product because the box is dented."
+  },
+  {
+    "sentence": "壁の凹みを気にせず、そのままにしている。",
+    "sentence_furigana": "壁【かべ】の凹【へこ】みを気【き】にせず、そのままにしている。",
+    "meaning": "I don't mind the dent in the wall and have left it as is."
+  },
+  {
+    "sentence": "彼の顔は落胆でさらに凹んで見えた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】は落胆【らくたん】でさらに凹【へこ】んで見【み】えた。",
+    "meaning": "His face looked even more sunken with disappointment."
+  },
+  {
+    "sentence": "このプラスチックケースには小さな凹みがある。",
+    "sentence_furigana": "このプラスチックケースには小【ちい】さな凹【へこ】みがある。",
+    "meaning": "This plastic case has a small indentation."
+  },
+  {
+    "sentence": "彼の顔には深い悲しみが凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には深【ふか】い悲【かな】しみが凹【へこ】んでいた。",
+    "meaning": "Deep sorrow was etched on his face."
+  },
+  {
+    "sentence": "箱が潰れて凹んでいるので、中身を確認したい。",
+    "sentence_furigana": "箱【はこ】が潰【つぶ】れて凹【へこ】んでいるので、中身【なかみ】を確認【かくにん】したい。",
+    "meaning": "The box is crushed and dented, so I want to check the contents."
+  },
+  {
+    "sentence": "彼は疲労困憊で顔が凹んでいた。",
+    "sentence_furigana": "彼【かれ】は疲労困憊【ひろうこんぱい】で顔【かお】が凹【へこ】んでいた。",
+    "meaning": "His face was sunken from exhaustion."
+  },
+  {
+    "sentence": "この金属球には、製造過程での凹みがある。",
+    "sentence_furigana": "この金属球【きんぞくきゅう】には、製造過程【せいぞうかてい】での凹【へこ】みがある。",
+    "meaning": "This metal sphere has dents from the manufacturing process."
+  },
+  {
+    "sentence": "彼の表情は失望で凹んでいた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は失望【しつぼう】で凹【へこ】んでいた。",
+    "meaning": "His expression was marked by disappointment."
+  },
+  {
+    "sentence": "この凹みは自然なものですか？それとも人工的なものですか？",
+    "sentence_furigana": "この凹【へこ】みは自然【しぜん】なものですか？それとも人工的【じんこうてき】なものですか？",
+    "meaning": "Is this indentation natural, or is it artificial?"
+  },
+  {
+    "sentence": "彼の顔には苦悩の色が凹んでいた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には苦悩【くのう】の色【いろ】が凹【へこ】んでいた。",
+    "meaning": "The color of suffering was etched on his face."
+  },
+  {
+    "sentence": "この箱は配達中に角が凹んでしまった。",
+    "sentence_furigana": "この箱【はこ】は配達中【はいたつちゅう】に角【かど】が凹【へこ】んでしまった。",
+    "meaning": "The corner of this box got dented during delivery."
+  },
+  {
+    "sentence": "彼の沈んだ声は悲しみを凹ませていた。",
+    "sentence_furigana": "彼【かれ】の沈【しず】んだ声【こえ】は悲【かな】しみを凹【へこ】ませていた。",
+    "meaning": "His subdued voice conveyed his sadness."
+  },
+  {
+    "sentence": "この木製バットは何度か凹んだ。",
+    "sentence_furigana": "この木製バットは何度【なんど】か凹【へこ】んだ。",
+    "meaning": "This wooden bat has been dented several times."
+  }
+]

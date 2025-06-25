@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "水を飲みました。",
+    "sentence_furigana": "水【みず】を飲【の】みました。",
+    "meaning": "I drank water."
+  },
+  {
+    "sentence": "コーヒーを飲みたいです。",
+    "sentence_furigana": "コーヒーを飲【の】みたいです。",
+    "meaning": "I want to drink coffee."
+  },
+  {
+    "sentence": "アルコールを飲まないでください。",
+    "sentence_furigana": "アルコールを飲【の】まないでください。",
+    "meaning": "Please do not drink alcohol."
+  },
+  {
+    "sentence": "彼はタバコを飲む。",
+    "sentence_furigana": "彼【かれ】はタバコを飲【の】む。",
+    "meaning": "He smokes cigarettes."
+  },
+  {
+    "sentence": "薬を飲みました。",
+    "sentence_furigana": "薬【くすり】を飲【の】みました。",
+    "meaning": "I took medicine."
+  },
+  {
+    "sentence": "この薬は苦くて飲みにくい。",
+    "sentence_furigana": "この薬【くすり】は苦【にが】くて飲【の】みにくい。",
+    "meaning": "This medicine is bitter and difficult to take."
+  },
+  {
+    "sentence": "喉が渇いたので、何か飲み物をください。",
+    "sentence_furigana": "喉【のど】が渇【かわ】いたので、何【なに】か飲【の】み物【もの】をください。",
+    "meaning": "I am thirsty, so please give me something to drink."
+  },
+  {
+    "sentence": "このジュースは甘すぎて飲めない。",
+    "sentence_furigana": "このジュースは甘【あま】すぎて飲【の】めない。",
+    "meaning": "This juice is too sweet to drink."
+  },
+  {
+    "sentence": "会議中に飲み物を飲むのは失礼です。",
+    "sentence_furigana": "会議中【かいぎちゅう】に飲【の】み物【もの】を飲【の】むのは失礼【しつれい】です。",
+    "meaning": "It is rude to drink beverages during a meeting."
+  },
+  {
+    "sentence": "彼はよく外で飲む。",
+    "sentence_furigana": "彼【かれ】はよく外【そと】で飲【の】む。",
+    "meaning": "He often drinks out."
+  },
+  {
+    "sentence": "熱があるので、お酒は飲みません。",
+    "sentence_furigana": "熱【ねつ】があるので、お酒【さけ】は飲【の】みません。",
+    "meaning": "I have a fever, so I will not drink alcohol."
+  },
+  {
+    "sentence": "彼女は毎朝スムージーを飲む。",
+    "sentence_furigana": "彼女【かのじょ】は毎朝【まいあさ】スムージーを飲【の】む。",
+    "meaning": "She drinks a smoothie every morning."
+  },
+  {
+    "sentence": "この缶コーヒーは冷えていて美味しい。",
+    "sentence_furigana": "この缶【かん】コーヒーは冷【ひ】えていて美味【おい】しい。",
+    "meaning": "This canned coffee is cold and delicious."
+  },
+  {
+    "sentence": "冷たい水を飲んでください。",
+    "sentence_furigana": "冷【つめ】たい水【みず】を飲【の】んでください。",
+    "meaning": "Please drink cold water."
+  },
+  {
+    "sentence": "熱いお茶を飲みましょう。",
+    "sentence_furigana": "熱【あつ】いお茶【ちゃ】を飲【の】みましょう。",
+    "meaning": "Let's drink hot tea."
+  },
+  {
+    "sentence": "風邪をひいたので、ビタミン剤を飲みます。",
+    "sentence_furigana": "風邪【かぜ】をひいたので、ビタミン剤【ざい】を飲【の】みます。",
+    "meaning": "I caught a cold, so I will take vitamin pills."
+  },
+  {
+    "sentence": "お酒を飲みすぎないように注意してください。",
+    "sentence_furigana": "お酒【さけ】を飲【の】みすぎないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to drink too much alcohol."
+  },
+  {
+    "sentence": "彼女はタバコを吸う習慣をやめた。",
+    "sentence_furigana": "彼女【かのじょ】はタバコを吸【す】う習慣【しゅうかん】をやめた。",
+    "meaning": "She quit the habit of smoking."
+  },
+  {
+    "sentence": "煙草を飲む人は健康に注意が必要だ。",
+    "sentence_furigana": "煙草【たばこ】を飲【の】む人【ひと】は健康【けんこう】に注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "People who smoke tobacco need to pay attention to their health."
+  },
+  {
+    "sentence": "彼は毎日３杯のコーヒーを飲む。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】３杯【はい】のコーヒーを飲【の】む。",
+    "meaning": "He drinks three cups of coffee every day."
+  },
+  {
+    "sentence": "ジュースを飲むのが好きです。",
+    "sentence_furigana": "ジュースを飲【の】むのが好【す】きです。",
+    "meaning": "I like to drink juice."
+  },
+  {
+    "sentence": "お水は無料で飲めますか？",
+    "sentence_furigana": "お水【みず】は無料【むりょう】で飲【の】めますか？",
+    "meaning": "Can I drink water for free?"
+  },
+  {
+    "sentence": "この飲み物は体に良いです。",
+    "sentence_furigana": "この飲【の】み物【もの】は体【からだ】に良【よ】いです。",
+    "meaning": "This drink is good for your body."
+  },
+  {
+    "sentence": "彼は運転中にタバコを吸っていた。",
+    "sentence_furigana": "彼【かれ】は運転中【うんてんちゅう】にタバコを吸【す】っていた。",
+    "meaning": "He was smoking while driving."
+  },
+  {
+    "sentence": "子供にアルコールを飲ませてはいけない。",
+    "sentence_furigana": "子供【こども】にアルコールを飲【の】ませてはいけない。",
+    "meaning": "You must not let children drink alcohol."
+  },
+  {
+    "sentence": "このスープはとても美味しいので、もう一杯飲みたいです。",
+    "sentence_furigana": "このスープはとても美味【おい】しいので、もう一杯【ぱい】飲【の】みたいです。",
+    "meaning": "This soup is very delicious, so I want to drink another bowl."
+  },
+  {
+    "sentence": "彼は健康のために毎日野菜ジュースを飲む。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】のために毎日【まいにち】野菜【やさい】ジュースを飲【の】む。",
+    "meaning": "He drinks vegetable juice every day for his health."
+  },
+  {
+    "sentence": "タバコの煙は周りの人に迷惑をかける。",
+    "sentence_furigana": "タバコの煙【けむり】は周【まわ】りの人【ひと】に迷惑【めいわく】をかける。",
+    "meaning": "Cigarette smoke bothers people around."
+  },
+  {
+    "sentence": "熱が出たので、薬を飲まなければならない。",
+    "sentence_furigana": "熱【ねつ】が出【で】たので、薬【くすり】を飲【の】まなければならない。",
+    "meaning": "I have a fever, so I must take medicine."
+  },
+  {
+    "sentence": "彼女は新しいカクテルを試してみたいと言った。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいカクテルを試【ため】してみたいと言【い】った。",
+    "meaning": "She said she wanted to try a new cocktail."
+  },
+  {
+    "sentence": "この水筒には温かいお湯が入っている。",
+    "sentence_furigana": "この水筒【すいとう】には温【あたた】かいお湯【ゆ】が入【はい】っている。",
+    "meaning": "This water bottle contains hot water."
+  },
+  {
+    "sentence": "彼は医者に禁煙するように言われた。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】に禁煙【きんえん】するように言【い】われた。",
+    "meaning": "The doctor told him to quit smoking."
+  },
+  {
+    "sentence": "お茶を飲む時間はありますか？",
+    "sentence_furigana": "お茶【ちゃ】を飲【の】む時間【じかん】はありますか？",
+    "meaning": "Do you have time to drink tea?"
+  },
+  {
+    "sentence": "このミルクはもう飲めません。",
+    "sentence_furigana": "このミルクはもう飲【の】めません。",
+    "meaning": "This milk is no longer drinkable."
+  },
+  {
+    "sentence": "彼は疲れているので、早く寝たい。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れているので、早【はや】く寝【ね】たい。",
+    "meaning": "He is tired, so he wants to sleep early."
+  },
+  {
+    "sentence": "この薬は水なしで飲めますか？",
+    "sentence_furigana": "この薬【くすり】は水【みず】なしで飲【の】めますか？",
+    "meaning": "Can I take this medicine without water?"
+  },
+  {
+    "sentence": "彼は毎晩寝る前に牛乳を一杯飲む。",
+    "sentence_furigana": "彼【かれ】は毎晩【まいばん】寝【ね】る前【まえ】に牛乳【ぎゅうにゅう】一杯【ぱい】飲【の】む。",
+    "meaning": "He drinks a glass of milk every night before sleeping."
+  },
+  {
+    "sentence": "この健康飲料は体に良いらしい。",
+    "sentence_furigana": "この健康飲料【けんこういんりょう】は体【からだ】に良【よ】いらしい。",
+    "meaning": "This health drink seems to be good for the body."
+  },
+  {
+    "sentence": "彼女は新しい種類のタバコを試している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たな種類【しゅるい】のタバコを試【ため】している。",
+    "meaning": "She is trying a new type of cigarette."
+  },
+  {
+    "sentence": "喉が痛いので、温かい飲み物を飲みたい。",
+    "sentence_furigana": "喉【のど】が痛【いた】いので、温【あたた】かい飲【の】み物【もの】を飲【の】みたい。",
+    "meaning": "My throat hurts, so I want to drink something warm."
+  },
+  {
+    "sentence": "彼はアルコール依存症で苦しんでいる。",
+    "sentence_furigana": "彼【かれ】はアルコール依存症【いぞんしょう】で苦【くる】しんでいる。",
+    "meaning": "He is suffering from alcoholism."
+  },
+  {
+    "sentence": "このコーヒーはとても苦いので、砂糖を入れます。",
+    "sentence_furigana": "このコーヒーはとても苦【にが】いので、砂糖【さとう】を入【い】れます。",
+    "meaning": "This coffee is very bitter, so I will add sugar."
+  },
+  {
+    "sentence": "彼はタバコを吸うとすぐに咳き込む。",
+    "sentence_furigana": "彼【かれ】はタバコを吸【す】うとすぐに咳【せ】き込【こ】む。",
+    "meaning": "He coughs as soon as he smokes."
+  },
+  {
+    "sentence": "このジュースにはビタミンCが豊富に含まれている。",
+    "sentence_furigana": "このジュースにはビタミンCが豊富【ほうふ】に含ま【ふく】まれている。",
+    "meaning": "This juice is rich in vitamin C."
+  },
+  {
+    "sentence": "彼は子供の頃からタバコを吸っていた。",
+    "sentence_furigana": "彼【かれ】は子供の頃【こどものころ】からタバコを吸【す】っていた。",
+    "meaning": "He had been smoking since he was a child."
+  },
+  {
+    "sentence": "お茶を飲むために、お湯を沸かします。",
+    "sentence_furigana": "お茶【ちゃ】を飲【の】むために、お湯【ゆ】を沸【わ】かします。",
+    "meaning": "I will boil water to drink tea."
+  },
+  {
+    "sentence": "彼は風邪薬を飲んだ。",
+    "sentence_furigana": "彼【かれ】は風邪薬【かぜぐすり】を飲【の】んだ。",
+    "meaning": "He took cold medicine."
+  },
+  {
+    "sentence": "この薬は食後に飲む必要があります。",
+    "sentence_furigana": "この薬【くすり】は食後【しょくご】に飲【の】む必要【ひつよう】があります。",
+    "meaning": "This medicine needs to be taken after meals."
+  },
+  {
+    "sentence": "彼は禁酒を決意した。",
+    "sentence_furigana": "彼【かれ】は禁酒【きんしゅ】を決意【けつい】した。",
+    "meaning": "He decided to quit drinking alcohol."
+  },
+  {
+    "sentence": "熱いコーヒーを飲むと体が温まる。",
+    "sentence_furigana": "熱【あつ】いコーヒーを飲【の】むと体【からだ】が温【あたた】まる。",
+    "meaning": "Drinking hot coffee warms up the body."
+  },
+  {
+    "sentence": "彼はタバコをやめられないでいる。",
+    "sentence_furigana": "彼【かれ】はタバコをやめられないでいる。",
+    "meaning": "He cannot quit smoking."
+  },
+  {
+    "sentence": "この水は飲んでも大丈夫ですか？",
+    "sentence_furigana": "この水【みず】は飲【の】んでも大丈夫【だいじょうぶ】ですか？",
+    "meaning": "Is it okay to drink this water?"
+  },
+  {
+    "sentence": "彼女は毎日ヨガの後にスムージーを飲む。",
+    "sentence_furigana": "彼女【かのじょ】は毎日【まいにち】ヨガの後【あと】にスムージーを飲【の】む。",
+    "meaning": "She drinks a smoothie every day after yoga."
+  },
+  {
+    "sentence": "彼は体に良いものを飲むように心がけている。",
+    "sentence_furigana": "彼【かれ】は体【からだ】に良【よ】いものを飲【の】むように心【こころ】がけている。",
+    "meaning": "He tries to drink things that are good for his body."
+  },
+  {
+    "sentence": "この部屋ではタバコを吸ってはいけません。",
+    "sentence_furigana": "この部屋【へや】ではタバコを吸【す】ってはいけません。",
+    "meaning": "You must not smoke in this room."
+  },
+  {
+    "sentence": "私は朝食にコーヒーを飲む。",
+    "sentence_furigana": "私【わたし】は朝食【ちょうしょく】にコーヒーを飲【の】む。",
+    "meaning": "I drink coffee for breakfast."
+  },
+  {
+    "sentence": "この薬は食前に飲む必要があります。",
+    "sentence_furigana": "この薬【くすり】は食前【しょくぜん】に飲【の】む必要【ひつよう】があります。",
+    "meaning": "This medicine needs to be taken before meals."
+  },
+  {
+    "sentence": "彼は新しい種類のビールを飲んだ。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな種類【しゅるい】のビールを飲【の】んだ。",
+    "meaning": "He drank a new type of beer."
+  },
+  {
+    "sentence": "風邪を引いたので、温かい飲み物を飲んでいる。",
+    "sentence_furigana": "風邪【かぜ】を引【ひ】いたので、温【あたた】かい飲【の】み物【もの】を飲【の】んでいる。",
+    "meaning": "I caught a cold, so I am drinking something warm."
+  },
+  {
+    "sentence": "彼は会議で飲み物を注文した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で飲【の】み物【もの】を注文【ちゅうもん】した。",
+    "meaning": "He ordered a drink at the meeting."
+  },
+  {
+    "sentence": "タバコは体に悪いのでやめました。",
+    "sentence_furigana": "タバコは体【からだ】に悪【わる】いのでやめました。",
+    "meaning": "I quit smoking because it is bad for my health."
+  },
+  {
+    "sentence": "彼は毎日の習慣として水をたくさん飲む。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】の習慣【しゅうかん】として水【みず】をたくさん飲【の】む。",
+    "meaning": "He drinks a lot of water as a daily habit."
+  },
+  {
+    "sentence": "この薬は一日三回飲んでください。",
+    "sentence_furigana": "この薬【くすり】は一日【いちにち】三回【さんかい】飲【の】んでください。",
+    "meaning": "Please take this medicine three times a day."
+  },
+  {
+    "sentence": "喉が渇いていたので、スポーツドリンクを飲んだ。",
+    "sentence_furigana": "喉【のど】が渇【かわ】いていたので、スポーツドリンクを飲【の】んだ。",
+    "meaning": "I was thirsty, so I drank a sports drink."
+  },
+  {
+    "sentence": "彼はタバコを吸うのをやめたいと言っている。",
+    "sentence_furigana": "彼【かれ】はタバコを吸【す】うのをやめたいと言【い】っている。",
+    "meaning": "He says he wants to quit smoking."
+  },
+  {
+    "sentence": "この飲み物は甘さ控えめです。",
+    "sentence_furigana": "この飲【の】み物【もの】は甘【あま】さ控【ひか】えめです。",
+    "meaning": "This drink is low in sweetness."
+  },
+  {
+    "sentence": "彼はコーヒーを飲むと眠れなくなる。",
+    "sentence_furigana": "彼【かれ】はコーヒーを飲【の】むと眠【ねむ】れなくなる。",
+    "meaning": "He cannot sleep if he drinks coffee."
+  },
+  {
+    "sentence": "私は冷たい水を飲むのが好きです。",
+    "sentence_furigana": "私【わたし】は冷【つめ】たい水【みず】を飲【の】むのが好【す】きです。",
+    "meaning": "I like to drink cold water."
+  },
+  {
+    "sentence": "彼は新しいレストランでワインを飲んだ。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなレストランでワインを飲【の】んだ。",
+    "meaning": "He drank wine at a new restaurant."
+  },
+  {
+    "sentence": "このハーブティーはリラックス効果がある。",
+    "sentence_furigana": "このハーブティーはリラックス効果【こうか】がある。",
+    "meaning": "This herbal tea has a relaxing effect."
+  },
+  {
+    "sentence": "彼は夜遅くにコーヒーを飲むのをやめた。",
+    "sentence_furigana": "彼【かれ】は夜遅【よるおそ】くにコーヒーを飲【の】むのをやめた。",
+    "meaning": "He stopped drinking coffee late at night."
+  },
+  {
+    "sentence": "この薬はカプセルなので飲みやすい。",
+    "sentence_furigana": "この薬【くすり】はカプセルなので飲【の】みやすい。",
+    "meaning": "This medicine is in capsule form, so it is easy to swallow."
+  },
+  {
+    "sentence": "彼は病気の時、熱いお茶をよく飲む。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の時【とき】、熱【あつ】いお茶【ちゃ】をよく飲【の】む。",
+    "meaning": "He often drinks hot tea when he is sick."
+  },
+  {
+    "sentence": "彼女はタバコを吸う場所を探している。",
+    "sentence_furigana": "彼女【かのじょ】はタバコを吸【す】う場所【ばしょ】を探【さが】している。",
+    "meaning": "She is looking for a place to smoke."
+  },
+  {
+    "sentence": "このスムージーは栄養満点です。",
+    "sentence_furigana": "このスムージーは栄養満点【えいようまんてん】です。",
+    "meaning": "This smoothie is packed with nutrients."
+  },
+  {
+    "sentence": "彼は健康のために毎朝水を飲む。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】のために毎朝【まいあさ】水【みず】を飲【の】む。",
+    "meaning": "He drinks water every morning for his health."
+  },
+  {
+    "sentence": "この薬は噛んでから飲みます。",
+    "sentence_furigana": "この薬【くすり】は噛【か】んでから飲【の】みます。",
+    "meaning": "Chew this medicine before swallowing."
+  },
+  {
+    "sentence": "彼は初めてエナジードリンクを飲んだ。",
+    "sentence_furigana": "彼【かれ】は初【はじ】めてエナジードリンクを飲【の】んだ。",
+    "meaning": "He drank an energy drink for the first time."
+  },
+  {
+    "sentence": "この水は天然水でとても美味しい。",
+    "sentence_furigana": "この水【みず】は天然水【てんねんすい】でとても美味【おい】しい。",
+    "meaning": "This water is natural and very delicious."
+  },
+  {
+    "sentence": "彼は友人と一緒に酒を飲むのが好きだ。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】と一緒【いっしょ】に酒【さけ】を飲【の】むのが好【す】きだ。",
+    "meaning": "He likes to drink sake with his friends."
+  },
+  {
+    "sentence": "彼女は新しいヨガクラスに参加する予定だ。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たなヨガクラスに参加【さんか】する予定【よてい】だ。",
+    "meaning": "She plans to participate in a new yoga class."
+  },
+  {
+    "sentence": "彼は空きっ腹にコーヒーを飲むと胃が痛くなる。",
+    "sentence_furigana": "彼【かれ】は空【す】きっ腹【ぱら】にコーヒーを飲【の】むと胃【い】が痛【いた】くなる。",
+    "meaning": "His stomach hurts when he drinks coffee on an empty stomach."
+  },
+  {
+    "sentence": "この粉薬は水に溶かして飲みます。",
+    "sentence_furigana": "この粉薬【こなぐすり】は水【みず】に溶【と】かして飲【の】みます。",
+    "meaning": "Dissolve this powder medicine in water and drink it."
+  },
+  {
+    "sentence": "彼は健康のために禁煙した。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】のために禁煙【きんえん】した。",
+    "meaning": "He quit smoking for his health."
+  },
+  {
+    "sentence": "このスポーツドリンクは疲労回復に効果がある。",
+    "sentence_furigana": "このスポーツドリンクは疲労回復【ひろうかいふく】に効果【こうか】がある。",
+    "meaning": "This sports drink is effective for fatigue recovery."
+  },
+  {
+    "sentence": "彼は仕事の合間にコーヒーを飲む。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】の合間【あいま】にコーヒーを飲【の】む。",
+    "meaning": "He drinks coffee between work."
+  },
+  {
+    "sentence": "この薬は毎食後に飲んでください。",
+    "sentence_furigana": "この薬【くすり】は毎食後【まいしょくご】に飲【の】んでください。",
+    "meaning": "Please take this medicine after every meal."
+  },
+  {
+    "sentence": "彼は健康診断の結果、禁酒を勧められた。",
+    "sentence_furigana": "彼【かれ】は健康診断【けんこうしんだん】の結果【けっか】、禁酒【きんしゅ】を勧【すす】められた。",
+    "meaning": "As a result of his health check-up, he was advised to abstain from alcohol."
+  },
+  {
+    "sentence": "彼女は新しいカフェで紅茶を飲んだ。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たなカフェで紅茶【こうちゃ】を飲【の】んだ。",
+    "meaning": "She drank black tea at a new cafe."
+  },
+  {
+    "sentence": "このハーブティーは就寝前に飲むと良い。",
+    "sentence_furigana": "このハーブティーは就寝前【しゅうしんまえ】に飲【の】むと良【よ】い。",
+    "meaning": "It is good to drink this herbal tea before going to bed."
+  },
+  {
+    "sentence": "彼は毎日ジムでプロテインを飲む。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】ジムでプロテインを飲【の】む。",
+    "meaning": "He drinks protein at the gym every day."
+  },
+  {
+    "sentence": "この水は硬度が高く、飲みやすい。",
+    "sentence_furigana": "この水【みず】は硬度【こうど】が高【たか】く、飲【の】みやすい。",
+    "meaning": "This water has high hardness and is easy to drink."
+  },
+  {
+    "sentence": "彼は会議中にこっそり飲み物を飲んだ。",
+    "sentence_furigana": "彼【かれ】は会議中【かいぎちゅう】にこっそり飲【の】み物【もの】を飲【の】んだ。",
+    "meaning": "He secretly drank a beverage during the meeting."
+  },
+  {
+    "sentence": "彼女は健康のためにタバコを吸うのをやめた。",
+    "sentence_furigana": "彼女【かのじょ】は健康【けんこう】のためにタバコを吸【す】うのをやめた。",
+    "meaning": "She quit smoking for her health."
+  },
+  {
+    "sentence": "彼は夜食としてミルクを飲む。",
+    "sentence_furigana": "彼【かれ】は夜食【やしょく】としてミルクを飲【の】む。",
+    "meaning": "He drinks milk as a midnight snack."
+  },
+  {
+    "sentence": "この薬は水なしで飲める。",
+    "sentence_furigana": "この薬【くすり】は水【みず】なしで飲【の】める。",
+    "meaning": "This medicine can be taken without water."
+  },
+  {
+    "sentence": "彼は体調が悪いので、何も飲みたがらない。",
+    "sentence_furigana": "彼【かれ】は体調【たいちょう】が悪【わる】いので、何【なに】も飲【の】みたがらない。",
+    "meaning": "He feels unwell, so he doesn't want to drink anything."
+  },
+  {
+    "sentence": "このジュースは子供にも人気がある。",
+    "sentence_furigana": "このジュースは子供【こども】にも人気【にんき】がある。",
+    "meaning": "This juice is also popular with children."
+  }
+]

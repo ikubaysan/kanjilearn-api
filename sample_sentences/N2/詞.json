@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "この歌の詞はとても美しい。",
+    "sentence_furigana": "この歌【うた】の詞【し】はとても美【うつく】しい。",
+    "meaning": "The lyrics of this song are very beautiful."
+  },
+  {
+    "sentence": "彼女は巧みな言葉遣いの持ち主だ。",
+    "sentence_furigana": "彼女【かのじょ】は巧【たく】みな言葉遣【ことばづか】いの持【も】ち主【ぬし】だ。",
+    "meaning": "She is a person with skillful use of words."
+  },
+  {
+    "sentence": "詩人の言葉は心に響く。",
+    "sentence_furigana": "詩人【しじん】の言葉【ことば】は心【こころ】に響【ひび】く。",
+    "meaning": "The poet's words resonate in the heart."
+  },
+  {
+    "sentence": "会議で発言するのに勇気が必要だった。",
+    "sentence_furigana": "会議【かいぎ】で発言【はつげん】するのに勇気【ゆうき】が必要【ひつよう】だった。",
+    "meaning": "It took courage to speak at the meeting."
+  },
+  {
+    "sentence": "彼はいつも冗談を言う。",
+    "sentence_furigana": "彼【かれ】はいつも冗談【じょうだん】を言【い】う。",
+    "meaning": "He always tells jokes."
+  },
+  {
+    "sentence": "その小説の文章は読みやすい。",
+    "sentence_furigana": "その小説【しょうせつ】の文章【ぶんしょう】は読【よ】みやすい。",
+    "meaning": "The prose of that novel is easy to read."
+  },
+  {
+    "sentence": "彼女のスピーチは感動的だった。",
+    "sentence_furigana": "彼女【かのじょ】のスピーチは感動的【かんどうてき】だった。",
+    "meaning": "Her speech was moving."
+  },
+  {
+    "sentence": "この単語はどのような品詞に分類されますか？",
+    "sentence_furigana": "この単語【たんご】はどのような品詞【ひんし】に分類【ぶんるい】されますか？",
+    "meaning": "What part of speech is this word classified as?"
+  },
+  {
+    "sentence": "彼の話はいつも論理的だ。",
+    "sentence_furigana": "彼【かれ】の話【はな】しはいつも論理的【ろんりてき】だ。",
+    "meaning": "His talk is always logical."
+  },
+  {
+    "sentence": "その歌詞は失恋の痛みを表現している。",
+    "sentence_furigana": "その歌詞【かし】は失恋【しつれん】の痛【いた】みを表現【ひょうげん】している。",
+    "meaning": "Those lyrics express the pain of heartbreak."
+  },
+  {
+    "sentence": "新しい辞書の単語の意味を調べた。",
+    "sentence_furigana": "新【あたら】しい辞書【じしょ】の単語【たんご】の意味【いみ】を調【しら】べた。",
+    "meaning": "I looked up the meaning of the word in the new dictionary."
+  },
+  {
+    "sentence": "彼の声明は多くの人々に影響を与えた。",
+    "sentence_furigana": "彼【かれ】の声明【せいめい】は多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "His statement affected many people."
+  },
+  {
+    "sentence": "その詩集には様々な感情が込められている。",
+    "sentence_furigana": "その詩集【ししゅう】には様々【さまざま】な感情【かんじょう】が込【こ】められている。",
+    "meaning": "Various emotions are contained in that poetry collection."
+  },
+  {
+    "sentence": "彼女は比喩的な表現を好む。",
+    "sentence_furigana": "彼女【かのじょ】は比喩的【ひゆてき】な表現【ひょうげん】を好【この】む。",
+    "meaning": "She prefers figurative language."
+  },
+  {
+    "sentence": "この言葉は古代の文献に見られる。",
+    "sentence_furigana": "この言葉【ことば】は古代【こだい】の文献【ぶんけん】に見【み】られる。",
+    "meaning": "This word can be found in ancient literature."
+  },
+  {
+    "sentence": "彼の弁論は聴衆を魅了した。",
+    "sentence_furigana": "彼【かれ】の弁論【べんろん】は聴衆【ちょうしゅう】を魅了【みりょう】した。",
+    "meaning": "His speech captivated the audience."
+  },
+  {
+    "sentence": "この文は能動態で書かれている。",
+    "sentence_furigana": "この文【ぶん】は能動態【のうどうたい】で書【か】かれている。",
+    "meaning": "This sentence is written in the active voice."
+  },
+  {
+    "sentence": "彼女の作詞能力は高い。",
+    "sentence_furigana": "彼女【かのじょ】の作詞能力【さくしのうりょく】は高【たか】い。",
+    "meaning": "Her lyric-writing ability is high."
+  },
+  {
+    "sentence": "その政治家の言葉は信用できない。",
+    "sentence_furigana": "その政治家【せいじか】の言葉【ことば】は信用【しんよう】できない。",
+    "meaning": "The politician's words cannot be trusted."
+  },
+  {
+    "sentence": "この歌の歌詞には深遠な意味が込められている。",
+    "sentence_furigana": "この歌【うた】の歌詞【かし】には深遠【しんえん】な意味【いみ】が込【こ】められている。",
+    "meaning": "Deep meaning is contained in the lyrics of this song."
+  },
+  {
+    "sentence": "彼女は新しい詩を書いている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい詩【し】を書いて【か】いている。",
+    "meaning": "She is writing a new poem."
+  },
+  {
+    "sentence": "彼の講演は非常に有益だった。",
+    "sentence_furigana": "彼【かれ】の講演【こうえん】は非常【ひじょう】に有益【ゆうえき】だった。",
+    "meaning": "His lecture was very beneficial."
+  },
+  {
+    "sentence": "この文章は敬語で書かれています。",
+    "sentence_furigana": "この文章【ぶんしょう】は敬語【けいご】で書【か】かれています。",
+    "meaning": "This text is written in honorific language."
+  },
+  {
+    "sentence": "彼女は語彙が豊富だ。",
+    "sentence_furigana": "彼女【かのじょ】は語彙【ごい】が豊富【ほうふ】だ。",
+    "meaning": "She has a rich vocabulary."
+  },
+  {
+    "sentence": "その詩は愛を歌っている。",
+    "sentence_furigana": "その詩【し】は愛【あい】を歌【うた】っている。",
+    "meaning": "That poem sings of love."
+  },
+  {
+    "sentence": "彼の言葉には重みがある。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には重【おも】みがある。",
+    "meaning": "His words carry weight."
+  },
+  {
+    "sentence": "この文法書には多くの例文がある。",
+    "sentence_furigana": "この文法書【ぶんぽうしょ】には多【おお】くの例文【れいぶん】がある。",
+    "meaning": "This grammar book has many example sentences."
+  },
+  {
+    "sentence": "彼女は詩的な表現を好んで使う。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な表現【ひょうげん】を好【この】んで使【つか】う。",
+    "meaning": "She likes to use poetic expressions."
+  },
+  {
+    "sentence": "その物語の結末は悲しかった。",
+    "sentence_furigana": "その物語【ものがたり】の結末【けつまつ】は悲【かな】しかった。",
+    "meaning": "The ending of that story was sad."
+  },
+  {
+    "sentence": "彼の演説は聴衆を感動させた。",
+    "sentence_furigana": "彼【かれ】の演説【えんぜつ】は聴衆【ちょうしゅう】を感動【かんどう】させた。",
+    "meaning": "His speech moved the audience."
+  },
+  {
+    "sentence": "この言葉の定義は何ですか？",
+    "sentence_furigana": "この言葉【ことば】の定義【ていぎ】は何【なん】ですか？",
+    "meaning": "What is the definition of this word?"
+  },
+  {
+    "sentence": "彼女は美しい言葉で詩を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい言葉【ことば】で詩【し】を書【か】いた。",
+    "meaning": "She wrote a poem with beautiful words."
+  },
+  {
+    "sentence": "その記事の筆致は明快だった。",
+    "sentence_furigana": "その記事【きじ】の筆致【ひっち】は明快【めいかい】だった。",
+    "meaning": "The writing style of that article was clear."
+  },
+  {
+    "sentence": "彼のスピーチは力強かった。",
+    "sentence_furigana": "彼【かれ】のスピーチは力強【ちからづよ】かった。",
+    "meaning": "His speech was powerful."
+  },
+  {
+    "sentence": "この文は主語と述語から成る。",
+    "sentence_furigana": "この文【ぶん】は主語【しゅご】と述語【じゅつご】から成【な】る。",
+    "meaning": "This sentence consists of a subject and a predicate."
+  },
+  {
+    "sentence": "彼女は短詩を得意としている。",
+    "sentence_furigana": "彼女【かのじょ】は短詩【たんし】を得意【とくい】としている。",
+    "meaning": "She excels at short poems."
+  },
+  {
+    "sentence": "その作家の言葉選びは秀逸だ。",
+    "sentence_furigana": "その作家【さっか】の言葉選【ことばえ】びは秀逸【しゅういつ】だ。",
+    "meaning": "The author's choice of words is excellent."
+  },
+  {
+    "sentence": "彼の詩は自然の美しさを描写している。",
+    "sentence_furigana": "彼【かれ】の詩【し】は自然【しぜん】の美【うつく】しさを描写【びょうしゃ】している。",
+    "meaning": "His poetry depicts the beauty of nature."
+  },
+  {
+    "sentence": "この文章は難解な語彙を含んでいる。",
+    "sentence_furigana": "この文章【ぶんしょう】は難解【なんかい】な語彙【ごい】を含【ふく】んでいる。",
+    "meaning": "This text includes difficult vocabulary."
+  },
+  {
+    "sentence": "彼女の言葉はいつも具体的だ。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】はいつも具体的【ぐたいてき】だ。",
+    "meaning": "Her words are always concrete."
+  },
+  {
+    "sentence": "その詩は愛国心を呼び起こす。",
+    "sentence_furigana": "その詩【し】は愛国心【あいこくしん】を呼【よ】び起【お】こす。",
+    "meaning": "That poem evokes patriotism."
+  },
+  {
+    "sentence": "彼の語りは聴衆を惹きつけた。",
+    "sentence_furigana": "彼【かれ】の語【かた】りは聴衆【ちょうしゅう】を惹【ひ】きつけた。",
+    "meaning": "His narrative captivated the audience."
+  },
+  {
+    "sentence": "この単語は専門用語です。",
+    "sentence_furigana": "この単語【たんご】は専門用語【せんもんようご】です。",
+    "meaning": "This word is a technical term."
+  },
+  {
+    "sentence": "彼女は詩的な比喩をよく使う。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な比喩【ひゆ】をよく使【つか】う。",
+    "meaning": "She often uses poetic metaphors."
+  },
+  {
+    "sentence": "その手紙の言葉遣いは丁寧だった。",
+    "sentence_furigana": "その手紙【てがみ】の言葉遣【ことばづか】いは丁寧【ていねい】だった。",
+    "meaning": "The language used in that letter was polite."
+  },
+  {
+    "sentence": "彼の言葉には説得力がある。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には説得力【せっとくりょく】がある。",
+    "meaning": "His words are persuasive."
+  },
+  {
+    "sentence": "この文は受動態で書かれています。",
+    "sentence_furigana": "この文【ぶん】は受動態【じゅどうたい】で書【か】かれています。",
+    "meaning": "This sentence is written in the passive voice."
+  },
+  {
+    "sentence": "彼女は新曲の詞を考えた。",
+    "sentence_furigana": "彼女【かのじょ】は新曲【しんきょく】の詞【し】を考【かんが】えた。",
+    "meaning": "She thought about the lyrics for the new song."
+  },
+  {
+    "sentence": "その詩は人生の無常を歌っている。",
+    "sentence_furigana": "その詩【し】は人生【じんせい】の無常【むじょう】を歌【うた】っている。",
+    "meaning": "That poem sings of the impermanence of life."
+  },
+  {
+    "sentence": "彼の言葉は多くの人々に希望を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は多【おお】くの人々【ひとびと】に希望【きぼう】を与【あた】えた。",
+    "meaning": "His words gave hope to many people."
+  },
+  {
+    "sentence": "この文章は正確な言葉で書かれている。",
+    "sentence_furigana": "この文章【ぶんしょう】は正確【せいかく】な言葉【ことば】で書【か】かれている。",
+    "meaning": "This text is written with precise language."
+  },
+  {
+    "sentence": "彼女は詩作に情熱を燃やしている。",
+    "sentence_furigana": "彼女【かのじょ】は詩作【しさく】に情熱【じょうねつ】を燃【も】やしている。",
+    "meaning": "She is passionate about writing poetry."
+  },
+  {
+    "sentence": "その言葉には特別な意味がある。",
+    "sentence_furigana": "その言葉【ことば】には特別【とくべつ】な意味【いみ】がある。",
+    "meaning": "That word has a special meaning."
+  },
+  {
+    "sentence": "彼の話し方は独特だ。",
+    "sentence_furigana": "彼【かれ】の話【はな】し方【かた】は独特【どくとく】だ。",
+    "meaning": "His way of speaking is unique."
+  },
+  {
+    "sentence": "この歌詞は心に深く響きます。",
+    "sentence_furigana": "この歌詞【かし】は心【こころ】に深【ふか】く響【ひび】きます。",
+    "meaning": "These lyrics resonate deeply in the heart."
+  },
+  {
+    "sentence": "彼女は詩的な言葉で情景を描写した。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な言葉【ことば】で情景【じょうけい】を描写【びょうしゃ】した。",
+    "meaning": "She depicted the scene with poetic words."
+  },
+  {
+    "sentence": "その文は簡潔で分かりやすい。",
+    "sentence_furigana": "その文【ぶん】は簡潔【かんけつ】で分【わ】かりやすい。",
+    "meaning": "That sentence is concise and easy to understand."
+  },
+  {
+    "sentence": "彼の言葉は信頼できる。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は信頼【しんらい】できる。",
+    "meaning": "His words can be trusted."
+  },
+  {
+    "sentence": "この詩は自然への賛歌だ。",
+    "sentence_furigana": "この詩【し】は自然【しぜん】への賛歌【さんか】だ。",
+    "meaning": "This poem is an ode to nature."
+  },
+  {
+    "sentence": "彼女は感情豊かな言葉で表現する。",
+    "sentence_furigana": "彼女【かのじょ】は感情豊【かんじょうゆた】かな言葉【ことば】で表現【ひょうげん】する。",
+    "meaning": "She expresses herself with emotionally rich words."
+  },
+  {
+    "sentence": "その声明は波紋を広げた。",
+    "sentence_furigana": "その声明【せいめい】は波紋【はもん】を広【ひろ】げた。",
+    "meaning": "That statement caused ripples."
+  },
+  {
+    "sentence": "彼の言葉遣いは非常に丁寧だった。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは非常【ひじょう】に丁寧【ていねい】だった。",
+    "meaning": "His manner of speaking was very polite."
+  },
+  {
+    "sentence": "この文章は誤解を招きやすい。",
+    "sentence_furigana": "この文章【ぶんしょう】は誤解【ごかい】を招【まね】きやすい。",
+    "meaning": "This text is prone to misunderstanding."
+  },
+  {
+    "sentence": "彼女は愛情のこもった詩を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は愛情【あいじょう】の込【こ】もった詩【し】を書【か】いた。",
+    "meaning": "She wrote a poem full of love."
+  },
+  {
+    "sentence": "その詩は人間の弱さを描いている。",
+    "sentence_furigana": "その詩【し】は人間【にんげん】の弱【よわ】さを描【か】いている。",
+    "meaning": "That poem depicts human weakness."
+  },
+  {
+    "sentence": "彼の言葉は心に突き刺さった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は心【こころ】に突【つ】き刺【さ】さった。",
+    "meaning": "His words struck home."
+  },
+  {
+    "sentence": "この単語は多義的な意味を持つ。",
+    "sentence_furigana": "この単語【たんご】は多義的【たぎてき】な意味【いみ】を持【も】つ。",
+    "meaning": "This word has multiple meanings."
+  },
+  {
+    "sentence": "彼女は現代詩の分野で活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は現代詩【げんだいし】の分野【ぶんや】で活躍【かつやく】している。",
+    "meaning": "She is active in the field of modern poetry."
+  },
+  {
+    "sentence": "その言葉には強い意志が感じられる。",
+    "sentence_furigana": "その言葉【ことば】には強【つよ】い意志【いし】が感【かん】じられる。",
+    "meaning": "A strong will can be felt in those words."
+  },
+  {
+    "sentence": "彼の弁舌は巧みである。",
+    "sentence_furigana": "彼【かれ】の弁舌【べんぜつ】は巧【たく】みである。",
+    "meaning": "His oratory is skillful."
+  },
+  {
+    "sentence": "この詩は希望に満ちている。",
+    "sentence_furigana": "この詩【し】は希望【きぼう】に満【み】ちている。",
+    "meaning": "This poem is full of hope."
+  },
+  {
+    "sentence": "彼女は言葉を慎重に選ぶ。",
+    "sentence_furigana": "彼女【かのじょ】は言葉【ことば】を慎重【しんちょう】に選【えら】ぶ。",
+    "meaning": "She chooses her words carefully."
+  },
+  {
+    "sentence": "その文章は論理的な構成になっている。",
+    "sentence_furigana": "その文章【ぶんしょう】は論理的【ろんりてき】な構成【こうせい】になっている。",
+    "meaning": "That text has a logical structure."
+  },
+  {
+    "sentence": "彼の言葉は多くの教訓を含んでいる。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は多【おお】くの教訓【きょうくん】を含【ふく】んでいる。",
+    "meaning": "His words contain many lessons."
+  },
+  {
+    "sentence": "この歌詞は青春の輝きを歌っている。",
+    "sentence_furigana": "この歌詞【かし】は青春【せいしゅん】の輝【かがや】きを歌【うた】っている。",
+    "meaning": "These lyrics sing of the radiance of youth."
+  },
+  {
+    "sentence": "彼女は詩的な表現で感情を伝える。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な表現【ひょうげん】で感情【かんじょう】を伝【つた】える。",
+    "meaning": "She conveys emotions with poetic expressions."
+  },
+  {
+    "sentence": "その声明は国際社会に衝撃を与えた。",
+    "sentence_furigana": "その声明【せいめい】は国際社会【こくさいしゃかい】に衝撃【しょうげき】を与【あた】えた。",
+    "meaning": "That statement shocked the international community."
+  },
+  {
+    "sentence": "彼の言葉には深い愛情が感じられる。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には深【ふか】い愛情【あいじょう】が感【かん】じられる。",
+    "meaning": "Deep affection can be felt in his words."
+  },
+  {
+    "sentence": "この文法書は非常に分かりやすい。",
+    "sentence_furigana": "この文法書【ぶんぽうしょ】は非常【ひじょう】に分【わ】かりやすい。",
+    "meaning": "This grammar book is very easy to understand."
+  },
+  {
+    "sentence": "彼女は言葉の力を信じている。",
+    "sentence_furigana": "彼女【かのじょ】は言葉【ことば】の力【ちから】を信【しん】じている。",
+    "meaning": "She believes in the power of words."
+  },
+  {
+    "sentence": "その詩は読者の心に訴えかける。",
+    "sentence_furigana": "その詩【し】は読者【どくしゃ】の心【こころ】に訴【うった】えかける。",
+    "meaning": "That poem appeals to the reader's heart."
+  },
+  {
+    "sentence": "彼の言葉は多くの人々の共感を呼んだ。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は多【おお】くの人々【ひとびと】の共感【きょうかん】を呼【よ】んだ。",
+    "meaning": "His words resonated with many people."
+  },
+  {
+    "sentence": "この文章は正確さが求められる。",
+    "sentence_furigana": "この文章【ぶんしょう】は正確【せいかく】さが求【もと】められる。",
+    "meaning": "Accuracy is required in this text."
+  },
+  {
+    "sentence": "彼女は新しい詩のアイデアを練っている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい詩【し】のアイデアを練【ね】っている。",
+    "meaning": "She is refining new poetry ideas."
+  },
+  {
+    "sentence": "その言葉には勇気付けられる。",
+    "sentence_furigana": "その言葉【ことば】には勇気付【ゆうきづ】けられる。",
+    "meaning": "I am encouraged by those words."
+  },
+  {
+    "sentence": "彼の演説は力強く、感動的だった。",
+    "sentence_furigana": "彼【かれ】の演説【えんぜつ】は力強【ちからづよ】く、感動的【かんどうてき】だった。",
+    "meaning": "His speech was powerful and moving."
+  },
+  {
+    "sentence": "この文は非常に簡潔に書かれている。",
+    "sentence_furigana": "この文【ぶん】は非常【ひじょう】に簡潔【かんけつ】に書【か】かれている。",
+    "meaning": "This sentence is written very concisely."
+  },
+  {
+    "sentence": "彼女は言葉の意味を正確に理解している。",
+    "sentence_furigana": "彼女【かのじょ】は言葉【ことば】の意味【いみ】を正確【せいかく】に理解【りかい】している。",
+    "meaning": "She understands the meaning of words accurately."
+  },
+  {
+    "sentence": "その詩は人生の喜びを歌っている。",
+    "sentence_furigana": "その詩【し】は人生【じんせい】の喜【よろこ】びを歌【うた】っている。",
+    "meaning": "That poem sings of the joy of life."
+  },
+  {
+    "sentence": "彼の言葉は希望の光となる。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は希望【きぼう】の光【ひかり】となる。",
+    "meaning": "His words become a beacon of hope."
+  },
+  {
+    "sentence": "この文章は平易な言葉で書かれている。",
+    "sentence_furigana": "この文章【ぶんしょう】は平易【へいい】な言葉【ことば】で書【か】かれている。",
+    "meaning": "This text is written in simple language."
+  },
+  {
+    "sentence": "彼女は詩の朗読会に参加した。",
+    "sentence_furigana": "彼女【かのじょ】は詩【し】の朗読会【ろうどくかい】に参加【さんか】した。",
+    "meaning": "She participated in a poetry reading."
+  },
+  {
+    "sentence": "その言葉は彼にとって特別な意味を持っていた。",
+    "sentence_furigana": "その言葉【ことば】は彼【かれ】にとって特別【とくべつ】な意味【いみ】を持【も】っていた。",
+    "meaning": "That word had a special meaning for him."
+  },
+  {
+    "sentence": "彼の言葉には多くの感情が込められている。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には多【おお】くの感情【かんじょう】が込【こ】められている。",
+    "meaning": "Many emotions are contained in his words."
+  },
+  {
+    "sentence": "この歌詞は失恋の悲しみを表現している。",
+    "sentence_furigana": "この歌詞【かし】は失恋【しつれん】の悲【かな】しみを表現【ひょうげん】している。",
+    "meaning": "These lyrics express the sadness of heartbreak."
+  },
+  {
+    "sentence": "彼女は詩的な表現を用いて物語を綴った。",
+    "sentence_furigana": "彼女【かのじょ】は詩的【してき】な表現【ひょうげん】を用【もち】いて物語【ものがたり】を綴【つづ】った。",
+    "meaning": "She wrote the story using poetic expressions."
+  },
+  {
+    "sentence": "その声明は多くの議論を呼んだ。",
+    "sentence_furigana": "その声明【せいめい】は多【おお】くの議論【ぎろん】を呼【よ】んだ。",
+    "meaning": "That statement invited much discussion."
+  },
+  {
+    "sentence": "彼の言葉には人生の経験がにじみ出ている。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には人生【じんせい】の経験【けいけん】がにじみ出【で】ている。",
+    "meaning": "His words are imbued with life experience."
+  },
+  {
+    "sentence": "この文法は非常に難解だ。",
+    "sentence_furigana": "この文法【ぶんぽう】は非常【ひじょう】に難解【なんかい】だ。",
+    "meaning": "This grammar is very difficult."
+  },
+  {
+    "sentence": "彼女は言葉を丁寧に選ぶ傾向がある。",
+    "sentence_furigana": "彼女【かのじょ】は言葉【ことば】を丁寧【ていねい】に選【えら】ぶ傾向【けいこう】がある。",
+    "meaning": "She tends to choose her words carefully."
+  },
+  {
+    "sentence": "その詩は人間の普遍的な感情を捉えている。",
+    "sentence_furigana": "その詩【し】は人間【にんげん】の普遍的【ふへんてき】な感情【かんじょう】を捉【とら】えている。",
+    "meaning": "That poem captures universal human emotions."
+  },
+  {
+    "sentence": "彼の言葉には力強いメッセージが込められている。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には力強【ちからづよ】いメッセージが込【こ】められている。",
+    "meaning": "A powerful message is contained in his words."
+  },
+  {
+    "sentence": "この歌詞は青春の苦悩を歌っている。",
+    "sentence_furigana": "この歌詞【かし】は青春【せいしゅん】の苦悩【くのう】を歌【うた】っている。",
+    "meaning": "These lyrics sing of the anguish of youth."
+  },
+  {
+    "sentence": "彼女は言葉の響きを大切にする。",
+    "sentence_furigana": "彼女【かのじょ】は言葉【ことば】の響【ひび】きを大切【たいせつ】にする。",
+    "meaning": "She values the resonance of words."
+  },
+  {
+    "sentence": "その声明は国際的な注目を集めた。",
+    "sentence_furigana": "その声明【せいめい】は国際的【こくさいてき】な注目【ちゅうもく】を集【あつ】めた。",
+    "meaning": "That statement attracted international attention."
+  }
+]

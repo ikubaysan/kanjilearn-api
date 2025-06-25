@@ -1,0 +1,432 @@
+[
+  {
+    "sentence": "この製品には特別な注意が必要です。",
+    "sentence_furigana": "この製品【せいひん】には特別【とくべつ】な注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "This product requires special attention."
+  },
+  {
+    "sentence": "食料品の需要が高まっています。",
+    "sentence_furigana": "食料品【しょくりょうひん】の需要【じゅよう】が高【たか】まっています。",
+    "meaning": "The demand for food products is increasing."
+  },
+  {
+    "sentence": "多くの人々が支援を必要としています。",
+    "sentence_furigana": "多【おお】くの人々【ひとびと】が支援【しえん】を必要【ひつよう】としています。",
+    "meaning": "Many people are in need of support."
+  },
+  {
+    "sentence": "この仕事には専門知識が求められます。",
+    "sentence_furigana": "この仕事【しごと】には専門知識【せんもんちしき】が求【もと】められます。",
+    "meaning": "This job requires specialized knowledge."
+  },
+  {
+    "sentence": "彼らはさらなる情報提供を要請しました。",
+    "sentence_furigana": "彼【かれ】らはさらなる情報提供【じょうほうていきょう】を要請【ようせい】しました。",
+    "meaning": "They requested further information."
+  },
+  {
+    "sentence": "災害復興には多くの物資が必要だ。",
+    "sentence_furigana": "災害復興【さいがいふっこう】には多【おお】くの物資【ぶっし】が必要【ひつよう】だ。",
+    "meaning": "A lot of supplies are needed for disaster recovery."
+  },
+  {
+    "sentence": "消費者のニーズに応える製品開発が重要です。",
+    "sentence_furigana": "消費者【しょうひしゃ】のニーズに応【おう】える製品開発【せいひんかいはつ】が重要【じゅうよう】です。",
+    "meaning": "Product development that meets consumer needs is important."
+  },
+  {
+    "sentence": "このサービスは多くの利用者から要望されています。",
+    "sentence_furigana": "このサービスは多【おお】くの利用者【りようしゃ】から要望【ようぼう】されています。",
+    "meaning": "This service is requested by many users."
+  },
+  {
+    "sentence": "将来の人口増加に対応するための準備が必要です。",
+    "sentence_furigana": "将来【しょうらい】の人口増加【じんこうぞうか】に対応【たいおう】するための準備【じゅんび】が必要【ひつよう】です。",
+    "meaning": "Preparation is necessary to cope with future population growth."
+  },
+  {
+    "sentence": "会議では様々な意見が提出された。",
+    "sentence_furigana": "会議【かいぎ】では様々【さまざま】な意見【いけん】が提出【ていしゅつ】された。",
+    "meaning": "Various opinions were submitted at the meeting."
+  },
+  {
+    "sentence": "この地域は水源の確保が急務となっています。",
+    "sentence_furigana": "この地域【ちいき】は水源【すいげん】の確保【かくほ】が急務【きゅうむ】となっています。",
+    "meaning": "Securing water sources is an urgent task for this region."
+  },
+  {
+    "sentence": "彼の要求はあまりにも高すぎる。",
+    "sentence_furigana": "彼【かれ】の要求【ようきゅう】はあまりにも高【たか】すぎる。",
+    "meaning": "His demands are too high."
+  },
+  {
+    "sentence": "新しい技術の導入には教育が必要となる。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】の導入【どうにゅう】には教育【きょういく】が必要【ひつよう】となる。",
+    "meaning": "Education is required for the introduction of new technology."
+  },
+  {
+    "sentence": "政府は国民の安全を確保する義務がある。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の安全【あんぜん】を確保【かくほ】する義務【ぎむ】がある。",
+    "meaning": "The government has a duty to ensure the safety of its citizens."
+  },
+  {
+    "sentence": "このプロジェクトには多くの人員が必要とされている。",
+    "sentence_furigana": "このプロジェクトには多【おお】くの人員【じんいん】が必要【ひつよう】とされている。",
+    "meaning": "This project requires a large staff."
+  },
+  {
+    "sentence": "健康維持のためにはバランスの取れた食事が不可欠だ。",
+    "sentence_furigana": "健康維持【けんこういじ】のためにはバランスの取【と】れた食事【しょくじ】が不可欠【ふかけつ】だ。",
+    "meaning": "A balanced diet is essential for maintaining health."
+  },
+  {
+    "sentence": "都市開発計画に対する住民の要望を聞く必要がある。",
+    "sentence_furigana": "都市開発計画【としかいはつけいかく】に対【たい】する住民【じゅうみん】の要望【ようぼう】を聞【き】く必要【ひつよう】がある。",
+    "meaning": "It is necessary to listen to the residents' requests regarding the urban development plan."
+  },
+  {
+    "sentence": "高度な技術を要する仕事は限られています。",
+    "sentence_furigana": "高度【こうど】な技術【ぎじゅつ】を要【よう】する仕事【しごと】は限【かぎ】られています。",
+    "meaning": "Jobs requiring advanced technology are limited."
+  },
+  {
+    "sentence": "経済成長のためには投資が不可欠である。",
+    "sentence_furigana": "経済成長【けいざいせいちょう】のためには投資【とうし】が不可欠【ふかけつ】である。",
+    "meaning": "Investment is indispensable for economic growth."
+  },
+  {
+    "sentence": "この楽器を演奏するには才能が必要だ。",
+    "sentence_furigana": "この楽器【がっき】を演奏【えんそう】するには才能【さいのう】が必要【ひつよう】だ。",
+    "meaning": "Talent is required to play this instrument."
+  },
+  {
+    "sentence": "顧客からの要望に応えるべく努力しています。",
+    "sentence_furigana": "顧客【こきゃく】からの要望【ようぼう】に応【おう】えるべく努力【どりょく】しています。",
+    "meaning": "We are striving to meet customer requests."
+  },
+  {
+    "sentence": "新しい法律の施行には国民の理解が求められる。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】の施行【せこう】には国民【こくみん】の理解【りかい】が求【もと】められる。",
+    "meaning": "The understanding of the citizens is required for the enforcement of the new law."
+  },
+  {
+    "sentence": "その会議には多くの専門家が招待された。",
+    "sentence_furigana": "その会議【かいぎ】には多【おお】くの専門家【せんもんか】が招待【しょうたい】された。",
+    "meaning": "Many experts were invited to the conference."
+  },
+  {
+    "sentence": "子供の健やかな成長のためには、十分な栄養が必要です。",
+    "sentence_furigana": "子供【こども】の健【すこ】やかな成長【せいちょう】のためには、十分【じゅうぶん】な栄養【えいよう】が必要【ひつよう】です。",
+    "meaning": "Sufficient nutrition is necessary for the healthy growth of children."
+  },
+  {
+    "sentence": "この問題の解決には、協力が不可欠です。",
+    "sentence_furigana": "この問題【もんだい】の解決【かいけつ】には、協力【きょうりょく】が不可欠【ふかけつ】です。",
+    "meaning": "Cooperation is indispensable for solving this problem."
+  },
+  {
+    "sentence": "市場調査の結果、新たな需要が見込まれます。",
+    "sentence_furigana": "市場調査【しじょうちょうさ】の結果【けっか】、新【あら】たな需要【じゅよう】が見込【みこ】まれます。",
+    "meaning": "New demand is expected as a result of market research."
+  },
+  {
+    "sentence": "この研究は多くの資金を必要とするだろう。",
+    "sentence_furigana": "この研究【けんきゅう】は多【おお】くの資金【しきん】を必要【ひつよう】とするだろう。",
+    "meaning": "This research will require a lot of funding."
+  },
+  {
+    "sentence": "平和を維持するためには、相互理解が求められます。",
+    "sentence_furigana": "平和【へいわ】を維持【いじ】するためには、相互理解【そうごりかい】が求【もと】められます。",
+    "meaning": "Mutual understanding is required to maintain peace."
+  },
+  {
+    "sentence": "彼の貢献は高く評価されるべきだ。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は高【たか】く評価【ひょうか】されるべきだ。",
+    "meaning": "His contribution should be highly valued."
+  },
+  {
+    "sentence": "このプロジェクトを成功させるには、多くの努力が必要だ。",
+    "sentence_furigana": "このプロジェクトを成功【せいこう】させるには、多【おお】くの努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "A lot of effort is needed to make this project successful."
+  },
+  {
+    "sentence": "地域の活性化には、住民の協力が不可欠です。",
+    "sentence_furigana": "地域【ちいき】の活性化【かっせいか】には、住民【じゅうみん】の協力【きょうりょく】が不可欠【ふかけつ】です。",
+    "meaning": "Resident cooperation is indispensable for regional revitalization."
+  },
+  {
+    "sentence": "彼の要求は正当なものだと考えられる。",
+    "sentence_furigana": "彼【かれ】の要求【ようきゅう】は正当【せいとう】なものだと考【かんが】えられる。",
+    "meaning": "His demands are considered to be legitimate."
+  },
+  {
+    "sentence": "この仕事は特別なスキルを必要とします。",
+    "sentence_furigana": "この仕事【しごと】は特別【とくべつ】なスキルを必要【ひつよう】とします。",
+    "meaning": "This job requires special skills."
+  },
+  {
+    "sentence": "新しいアイデアの実現には、多くのリソースが必要だ。",
+    "sentence_furigana": "新【あたら】しいアイデアの実現【じつげん】には、多【おお】くのリソースが必要【ひつよう】だ。",
+    "meaning": "Many resources are needed to realize new ideas."
+  },
+  {
+    "sentence": "災害時の支援物資の需要は非常に大きい。",
+    "sentence_furigana": "災害時【さいがいじ】の支援物資【しえんぶっし】の需要【じゅよう】は非常【ひじょう】に大【おお】きい。",
+    "meaning": "The demand for relief supplies during disasters is very large."
+  },
+  {
+    "sentence": "彼は常に向上心を持ち続けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】ち続【つづ】けている。",
+    "meaning": "He always maintains a desire for self-improvement."
+  },
+  {
+    "sentence": "この政策は国民の生活を豊かにすることを目的としています。",
+    "sentence_furigana": "この政策【せいさく】は国民【こくみん】の生活【せいかつ】を豊【ゆた】かにすることを目的【もくてき】としています。",
+    "meaning": "This policy aims to enrich the lives of the citizens."
+  },
+  {
+    "sentence": "その変更には追加の予算が必要となります。",
+    "sentence_furigana": "その変更【へんこう】には追加【ついか】の予算【よさん】が必要【ひつよう】となります。",
+    "meaning": "The change will require an additional budget."
+  },
+  {
+    "sentence": "このシステムは多くのメンテナンスを必要とします。",
+    "sentence_furigana": "このシステムは多【おお】くのメンテナンスを必要【ひつよう】とします。",
+    "meaning": "This system requires a lot of maintenance."
+  },
+  {
+    "sentence": "彼の提案は多くの議論を呼びました。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は多【おお】くの議論【ぎろん】を呼【よ】びました。",
+    "meaning": "His proposal sparked much debate."
+  },
+  {
+    "sentence": "社会の発展には教育が不可欠である。",
+    "sentence_furigana": "社会【しゃかい】の発展【はってん】には教育【きょういく】が不可欠【ふかけつ】である。",
+    "meaning": "Education is essential for the development of society."
+  },
+  {
+    "sentence": "この装置は高度な技術を要求します。",
+    "sentence_furigana": "この装置【そうち】は高度【こうど】な技術【ぎじゅつ】を要求【ようきゅう】します。",
+    "meaning": "This device demands advanced technology."
+  },
+  {
+    "sentence": "彼らは支援を求めるために募金活動を行いました。",
+    "sentence_furigana": "彼【かれ】らは支援【しえん】を求【もと】めるために募金活動【ぼきんかつどう】を行【おこな】いました。",
+    "meaning": "They conducted a fundraising campaign to seek support."
+  },
+  {
+    "sentence": "この計画の実現には多くの困難が伴うだろう。",
+    "sentence_furigana": "この計画【けいかく】の実現【じつげん】には多【おお】くの困難【こんなん】が伴【ともな】うだろう。",
+    "meaning": "The realization of this plan will involve many difficulties."
+  },
+  {
+    "sentence": "子供たちの将来のためには、教育環境の整備が求められます。",
+    "sentence_furigana": "子供たち【こどもたち】の将来【しょうらい】のためには、教育環境【きょういくかんきょう】の整備【せいび】が求【もと】められます。",
+    "meaning": "The improvement of the educational environment is required for the future of children."
+  },
+  {
+    "sentence": "この会社は顧客満足度を高めることを最優先としています。",
+    "sentence_furigana": "この会社【かいしゃ】は顧客満足度【こきゃくまんぞくど】を高【たか】めることを最優先【さいゆうせん】としています。",
+    "meaning": "This company prioritizes increasing customer satisfaction."
+  },
+  {
+    "sentence": "経済の安定には、適切な政策が不可欠です。",
+    "sentence_furigana": "経済【けいざい】の安定【あんてい】には、適切【てきせつ】な政策【せいさく】が不可欠【ふかけつ】です。",
+    "meaning": "Appropriate policies are indispensable for economic stability."
+  },
+  {
+    "sentence": "この資料は多くの情報を含んでいます。",
+    "sentence_furigana": "この資料【しりょう】は多【おお】くの情報【じょうほう】を含【ふく】んでいます。",
+    "meaning": "This document contains a lot of information."
+  },
+  {
+    "sentence": "彼らはそのプロジェクトへの参加を要請された。",
+    "sentence_furigana": "彼【かれ】らはそのプロジェクトへの参加【さんか】を要請【ようせい】された。",
+    "meaning": "They were requested to participate in the project."
+  },
+  {
+    "sentence": "この仕事には集中力と忍耐力が必要だ。",
+    "sentence_furigana": "この仕事【しごと】には集中力【しゅうちゅうりょく】と忍耐力【にんたいりょく】が必要【ひつよう】だ。",
+    "meaning": "This job requires concentration and patience."
+  },
+  {
+    "sentence": "企業の成長には、常に新しい知識を求める姿勢が大切です。",
+    "sentence_furigana": "企業【きぎょう】の成長【せいちょう】には、常【つね】に新【あたら】しい知識【ちしき】を求【もと】める姿勢【しせい】が大切【たいせつ】です。",
+    "meaning": "A constant pursuit of new knowledge is important for corporate growth."
+  },
+  {
+    "sentence": "この薬は処方箋を必要とします。",
+    "sentence_furigana": "この薬【くすり】は処方箋【しょほうせん】を必要【ひつよう】とします。",
+    "meaning": "This medicine requires a prescription."
+  },
+  {
+    "sentence": "その要望には、十分な検討が必要です。",
+    "sentence_furigana": "その要望【ようぼう】には、十分【じゅうぶん】な検討【けんとう】が必要【ひつよう】です。",
+    "meaning": "Sufficient consideration is needed for that request."
+  },
+  {
+    "sentence": "新しい市場を開拓するには、大胆な戦略が求められます。",
+    "sentence_furigana": "新【あたら】しい市場【しじょう】を開拓【かいたく】するには、大胆【だいたん】な戦略【せんりゃく】が求【もと】められます。",
+    "meaning": "Bold strategies are required to develop new markets."
+  },
+  {
+    "sentence": "このキャンペーンは多くの人々の賛同を得ています。",
+    "sentence_furigana": "このキャンペーンは多【おお】くの人々【ひとびと】の賛同【さんどう】を得【え】ています。",
+    "meaning": "This campaign has the approval of many people."
+  },
+  {
+    "sentence": "彼らの要求は、会社の利益を損なうものでした。",
+    "sentence_furigana": "彼【かれ】らの要求【ようきゅう】は、会社【かいしゃ】の利益【りえき】を損【そこな】うものでした。",
+    "meaning": "Their demands harmed the company's profits."
+  },
+  {
+    "sentence": "この作業には特別なスキルと経験が必要だ。",
+    "sentence_furigana": "この作業【さぎょう】には特別【とくべつ】なスキルと経験【けいけん】が必要【ひつよう】だ。",
+    "meaning": "This task requires special skills and experience."
+  },
+  {
+    "sentence": "持続可能な社会の実現には、全員の協力が不可欠です。",
+    "sentence_furigana": "持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】には、全員【ぜんいん】の協力【きょうりょく】が不可欠【ふかけつ】です。",
+    "meaning": "The cooperation of everyone is indispensable for the realization of a sustainable society."
+  },
+  {
+    "sentence": "この製品は、消費者の多様なニーズに応えるべく設計されています。",
+    "sentence_furigana": "この製品【せいひん】は、消費者【しょうひしゃ】の多様【たよう】なニーズに応【おう】えるべく設計【せっけい】されています。",
+    "meaning": "This product is designed to meet the diverse needs of consumers."
+  },
+  {
+    "sentence": "彼らは、緊急事態への対応策を求めています。",
+    "sentence_furigana": "彼【かれ】らは、緊急事態【きんきゅうじたい】への対応策【たいおうさく】を求【もと】めています。",
+    "meaning": "They are seeking countermeasures for the emergency."
+  },
+  {
+    "sentence": "この技術は、高度な専門知識を必要とします。",
+    "sentence_furigana": "この技術【ぎじゅつ】は、高度【こうど】な専門知識【せんもんちしき】を必要【ひつよう】とします。",
+    "meaning": "This technology requires advanced specialized knowledge."
+  },
+  {
+    "sentence": "その計画は、多くの利害関係者の合意を得る必要がある。",
+    "sentence_furigana": "その計画【けいかく】は、多【おお】くの利害関係者【りがいかんけいしゃ】の合意【ごうい】を得【え】る必要【ひつよう】がある。",
+    "meaning": "That plan needs to obtain the agreement of many stakeholders."
+  },
+  {
+    "sentence": "健康な体を作るためには、適切な運動が不可欠です。",
+    "sentence_furigana": "健康【けんこう】な体【からだ】を作【つく】るためには、適切【てきせつ】な運動【うんどう】が不可欠【ふかけつ】です。",
+    "meaning": "Appropriate exercise is indispensable for building a healthy body."
+  },
+  {
+    "sentence": "この情報は、多くの人々が求めているものです。",
+    "sentence_furigana": "この情報【じょうほう】は、多【おお】くの人々【ひとびと】が求【もと】めているものです。",
+    "meaning": "This information is something that many people are looking for."
+  },
+  {
+    "sentence": "その要請は、特別な配慮を必要とします。",
+    "sentence_furigana": "その要請【ようせい】は、特別【とくべつ】な配慮【はいりょ】を必要【ひつよう】とします。",
+    "meaning": "That request requires special consideration."
+  },
+  {
+    "sentence": "この政策は、国民の福祉向上を目指しています。",
+    "sentence_furigana": "この政策【せいさく】は、国民【こくみん】の福祉向上【ふくしこうじょう】を目指【めざ】しています。",
+    "meaning": "This policy aims to improve the welfare of the citizens."
+  },
+  {
+    "sentence": "彼の行動は、多くの非難を浴びることになった。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は、多【おお】くの非難【ひなん】を浴【あ】びることになった。",
+    "meaning": "His actions drew much criticism."
+  },
+  {
+    "sentence": "新しいビジネスを立ち上げるには、周到な準備が必要です。",
+    "sentence_furigana": "新【あたら】しいビジネスを立【た】ち上【あ】げるには、周到【しゅうとう】な準備【じゅんび】が必要【ひつよう】です。",
+    "meaning": "Thorough preparation is necessary to launch a new business."
+  },
+  {
+    "sentence": "この芸術作品は、見る者に深い感動を与える。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は、見【み】る者に深【ふか】い感動【かんどう】を与【あた】える。",
+    "meaning": "This work of art gives the viewer a deep impression."
+  },
+  {
+    "sentence": "彼の要求は、会社の規則に反していました。",
+    "sentence_furigana": "彼【かれ】の要求【ようきゅう】は、会社【かいしゃ】の規則【きそく】に反【はん】していました。",
+    "meaning": "His demands were contrary to company regulations."
+  },
+  {
+    "sentence": "この地域は、より多くの支援を必要としています。",
+    "sentence_furigana": "この地域【ちいき】は、より多【おお】くの支援【しえん】を必要【ひつよう】としています。",
+    "meaning": "This region needs more support."
+  },
+  {
+    "sentence": "技術革新は、社会の発展に不可欠な要素です。",
+    "sentence_furigana": "技術革新【ぎじゅつかくしん】は、社会【しゃかい】の発展【はってん】に不可欠【ふかけつ】な要素【ようそ】です。",
+    "meaning": "Technological innovation is an indispensable element for social development."
+  },
+  {
+    "sentence": "この問題の解決には、多くのリソースの投入が求められます。",
+    "sentence_furigana": "この問題【もんだい】の解決【かいけつ】には、多【おお】くのリソースの投入【とうにゅう】が求【もと】められます。",
+    "meaning": "The input of many resources is required to solve this problem."
+  },
+  {
+    "sentence": "彼の依頼は、法的な手続きを必要とします。",
+    "sentence_furigana": "彼【かれ】の依頼【いらい】は、法的【ほうてき】な手続き【てつづき】を必要【ひつよう】とします。",
+    "meaning": "His request requires legal procedures."
+  },
+  {
+    "sentence": "この会議では、今後の計画について多くの議論が行われました。",
+    "sentence_furigana": "この会議【かいぎ】では、今後【こんご】の計画【けいかく】について多【おお】くの議論【ぎろん】が行【おこな】われました。",
+    "meaning": "Much discussion took place regarding future plans at this meeting."
+  },
+  {
+    "sentence": "安全な社会を築くためには、市民一人ひとりの協力が不可欠です。",
+    "sentence_furigana": "安全【あんぜん】な社会【しゃかい】を築【きず】くためには、市民一人ひとり【しみんひとりひとり】の協力【きょうりょく】が不可欠【ふかけつ】です。",
+    "meaning": "The cooperation of each citizen is indispensable for building a safe society."
+  },
+  {
+    "sentence": "このプログラムは、高度なプログラミングスキルを要求します。",
+    "sentence_furigana": "このプログラムは、高度【こうど】なプログラミングスキルを要求【ようきゅう】します。",
+    "meaning": "This program requires advanced programming skills."
+  },
+  {
+    "sentence": "彼らは、より良い未来を築くための希望を必要としています。",
+    "sentence_furigana": "彼【かれ】らは、より良【よ】い未来【みらい】を築【きず】くための希望【きぼう】を必要【ひつよう】としています。",
+    "meaning": "They need hope to build a better future."
+  },
+  {
+    "sentence": "この資料は、非常に多くの詳細情報を含んでいます。",
+    "sentence_furigana": "この資料【しりょう】は、非常【ひじょう】に多【おお】くの詳細情報【しょうさいじょうほう】を含【ふく】んでいます。",
+    "meaning": "This document contains a very large amount of detailed information."
+  },
+  {
+    "sentence": "その変更要求は、承認されるまでに時間がかかりました。",
+    "sentence_furigana": "その変更要求【へんこうようきゅう】は、承認【しょうにん】されるまでに時間【じかん】がかかりました。",
+    "meaning": "The change request took time to be approved."
+  },
+  {
+    "sentence": "この研究は、多くの時間と労力を必要とする。",
+    "sentence_furigana": "この研究【けんきゅう】は、多【おお】くの時間【じかん】と労力【ろうりょく】を必要【ひつよう】とする。",
+    "meaning": "This research requires a lot of time and effort."
+  },
+  {
+    "sentence": "彼の提案は、多くの関係者の関心を引いた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は、多【おお】くの関係者【かんけいしゃ】の関心【かんしん】を引【ひ】いた。",
+    "meaning": "His proposal attracted the interest of many stakeholders."
+  },
+  {
+    "sentence": "このプロジェクトの成功には、斬新なアイデアが不可欠だ。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】には、斬新【ざんしん】なアイデアが不可欠【ふかけつ】だ。",
+    "meaning": "Novel ideas are indispensable for the success of this project."
+  },
+  {
+    "sentence": "彼は常に、さらなる知識を求めて学び続けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に、さらなる知識【ちしき】を求【もと】めて学【まな】び続【つづ】けている。",
+    "meaning": "He continuously learns, always seeking further knowledge."
+  },
+  {
+    "sentence": "この製品は、消費者の厳しい要求に応えるように作られています。",
+    "sentence_furigana": "この製品【せいひん】は、消費者【しょうひしゃ】の厳【きび】しい要求【ようきゅう】に応【おう】えるように作【つく】られています。",
+    "meaning": "This product is made to meet the stringent demands of consumers."
+  },
+  {
+    "sentence": "この分野での成功には、多大な努力が必要です。",
+    "sentence_furigana": "この分野【ぶんや】での成功【せいこう】には、多大【ただい】な努力【どりょく】が必要【ひつよう】です。",
+    "meaning": "Great effort is required for success in this field."
+  }
+]

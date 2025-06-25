@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "この問題はとても難しいので、誰かが解いてくれると助かる。",
+    "sentence_furigana": "この問題【もんだい】はとても難【むずか】しいので、誰【だれ】かが解【と】いてくれると助【たす】かる。",
+    "meaning": "This problem is very difficult, so it would be helpful if someone could solve it."
+  },
+  {
+    "sentence": "その古い地図を解読するのは至難の業だ。",
+    "sentence_furigana": "その古【ふる】い地図【ちず】を解読【かいどく】するのは至難【しなん】の業【わざ】だ。",
+    "meaning": "Deciphering that old map is an extremely difficult task."
+  },
+  {
+    "sentence": "先生は生徒たちの疑問に丁寧に答えてくれた。",
+    "sentence_furigana": "先生【せんせい】は生徒【せいと】たちの疑問【ぎもん】に丁寧【ていねい】に答【こた】えてくれた。",
+    "meaning": "The teacher kindly answered the students' questions."
+  },
+  {
+    "sentence": "彼は複雑な状況を理解しようと努めていた。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な状況【じょうきょう】を理解【りかい】しようと努【つと】めていた。",
+    "meaning": "He was striving to understand the complex situation."
+  },
+  {
+    "sentence": "結び目を解くのに苦労した。",
+    "sentence_furigana": "結【むす】び目【め】を解【ほど】くのに苦労【くろう】した。",
+    "meaning": "I had trouble untying the knot."
+  },
+  {
+    "sentence": "その事件の真相を解明する必要がある。",
+    "sentence_furigana": "その事件【じけん】の真相【しんそう】を解明【かいめい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to clarify the truth of that incident."
+  },
+  {
+    "sentence": "彼は彼女の言葉の意味を理解できなかった。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の言葉【ことば】の意味【いみ】を理解【りかい】できなかった。",
+    "meaning": "He couldn't understand the meaning of her words."
+  },
+  {
+    "sentence": "この文章は、よく理解できる。",
+    "sentence_furigana": "この文章【ぶんしょう】は、よく理解【りかい】できる。",
+    "meaning": "This text can be well understood."
+  },
+  {
+    "sentence": "会議は予定通り解散された。",
+    "sentence_furigana": "会議【かいぎ】は予定通【よていどお】り解散【かいさん】された。",
+    "meaning": "The meeting was adjourned as scheduled."
+  },
+  {
+    "sentence": "古いコードを解読して、新しいものに書き直す。",
+    "sentence_furigana": "古【ふる】いコードを解読【かいどく】して、新【あたら】しいものに書【か】き直【なお】す。",
+    "meaning": "I will decipher the old code and rewrite it into a new one."
+  },
+  {
+    "sentence": "彼女の顔には安心した表情が浮かんでいた。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】には安心【あんしん】した表情【ひょうじょう】が浮【う】かんでいた。",
+    "meaning": "A relieved expression was floating on her face."
+  },
+  {
+    "sentence": "その数学の公式を理解するには、多くの練習が必要だ。",
+    "sentence_furigana": "その数学【すうがく】の公式【こうしき】を理解【りかい】するには、多【おお】くの練習【れんしゅう】が必要【ひつよう】だ。",
+    "meaning": "To understand that mathematical formula, a lot of practice is necessary."
+  },
+  {
+    "sentence": "彼は謎を解くのが得意だ。",
+    "sentence_furigana": "彼【かれ】は謎【なぞ】を解【と】くのが得意【とくい】だ。",
+    "meaning": "He is good at solving mysteries."
+  },
+  {
+    "sentence": "この状況を早く解決したい。",
+    "sentence_furigana": "この状況【じょうきょう】を早【はや】く解決【かいけつ】したい。",
+    "meaning": "I want to resolve this situation quickly."
+  },
+  {
+    "sentence": "彼の説明は私には理解できなかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は私【わたし】には理解【りかい】できなかった。",
+    "meaning": "I could not understand his explanation."
+  },
+  {
+    "sentence": "解熱剤を飲んで熱が下がった。",
+    "sentence_furigana": "解熱剤【げねつざい】を飲【の】んで熱【ねつ】が下【さ】がった。",
+    "meaning": "My fever went down after taking the fever reducer."
+  },
+  {
+    "sentence": "この暗号を解く鍵は、最後に隠されている。",
+    "sentence_furigana": "この暗号【あんごう】を解【と】く鍵【かぎ】は、最後【さいご】に隠【かく】されている。",
+    "meaning": "The key to solving this cipher is hidden at the end."
+  },
+  {
+    "sentence": "彼らは長年の対立を解消した。",
+    "sentence_furigana": "彼【かれ】らは長年【ながねん】の対立【たいりつ】を解消【かいしょう】した。",
+    "meaning": "They resolved their long-standing conflict."
+  },
+  {
+    "sentence": "その難解な文章を解釈するのは難しい。",
+    "sentence_furigana": "その難解【なんかい】な文章【ぶんしょう】を解釈【かいしゃく】するのは難【むずか】しい。",
+    "meaning": "It is difficult to interpret that abstruse text."
+  },
+  {
+    "sentence": "今日の会議は無事解散しました。",
+    "sentence_furigana": "今日【きょう】の会議【かいぎ】は無事【ぶじ】解散【かいさん】しました。",
+    "meaning": "Today's meeting was adjourned without incident."
+  },
+  {
+    "sentence": "彼の発言の意図を理解できなかった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】の意図【いと】を理解【りかい】できなかった。",
+    "meaning": "I couldn't understand the intention of his statement."
+  },
+  {
+    "sentence": "古い本を解きほぐして読み進めた。",
+    "sentence_furigana": "古【ふる】い本【ほん】を解【ほぐ】して読【よ】み進【すす】めた。",
+    "meaning": "I untangled the old book and read on."
+  },
+  {
+    "sentence": "このパズルを解くのは楽しい。",
+    "sentence_furigana": "このパズルを解【と】くのは楽【たの】しい。",
+    "meaning": "Solving this puzzle is fun."
+  },
+  {
+    "sentence": "彼はその論理を理解するのに時間がかかった。",
+    "sentence_furigana": "彼【かれ】はその論理【ろんり】を理解【りかい】するのに時間【じかん】がかかった。",
+    "meaning": "It took him time to understand that logic."
+  },
+  {
+    "sentence": "彼女は複雑な問題を解決した。",
+    "sentence_furigana": "彼女【かのじょ】は複雑【ふくざつ】な問題【もんだい】を解決【かいけつ】した。",
+    "meaning": "She solved a complex problem."
+  },
+  {
+    "sentence": "この法律は多くの人に理解されているか疑問だ。",
+    "sentence_furigana": "この法律【ほうりつ】は多【おお】くの人【ひと】に理解【りかい】されているか疑問【ぎもん】だ。",
+    "meaning": "It is questionable whether this law is understood by many people."
+  },
+  {
+    "sentence": "その封筒の紐を解いた。",
+    "sentence_furigana": "その封筒【ふうとう】の紐【ひも】を解【ほど】いた。",
+    "meaning": "I untied the string of the envelope."
+  },
+  {
+    "sentence": "彼は複雑な数式を解読した。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な数式【すうしき】を解読【かいどく】した。",
+    "meaning": "He deciphered a complex mathematical formula."
+  },
+  {
+    "sentence": "その会議では多くの決断が下された。",
+    "sentence_furigana": "その会議【かいぎ】では多【おお】くの決断【けつだん】が下【くだ】された。",
+    "meaning": "Many decisions were made at that meeting."
+  },
+  {
+    "sentence": "彼女は自分の感情をうまく表現できなかった。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の感情【かんじょう】をうまく表現【ひょうげん】できなかった。",
+    "meaning": "She couldn't express her feelings well."
+  },
+  {
+    "sentence": "この古い本は解き明かすのが難しい。",
+    "sentence_furigana": "この古【ふる】い本【ほん】は解【と】き明【あ】かすのが難【むずか】しい。",
+    "meaning": "This old book is difficult to decipher."
+  },
+  {
+    "sentence": "彼はそのなぞなぞの答えをすぐに解いた。",
+    "sentence_furigana": "彼【かれ】はそのなぞなぞの答【こた】えをすぐ解【と】いた。",
+    "meaning": "He quickly solved the riddle."
+  },
+  {
+    "sentence": "この情報は正確に理解する必要があります。",
+    "sentence_furigana": "この情報【じょうほう】は正確【せいかく】に理解【りかい】する必【ひつ】ようがあります。",
+    "meaning": "This information needs to be understood accurately."
+  },
+  {
+    "sentence": "そのチームは長い間続いていた不和を解消した。",
+    "sentence_furigana": "そのチームは長【なが】い間【あいだ】続【つづ】いていた不和【ふわ】を解消【かいしょう】した。",
+    "meaning": "That team resolved a discord that had lasted for a long time."
+  },
+  {
+    "sentence": "彼女の推理は的確で、事件の真相を解き明かした。",
+    "sentence_furigana": "彼女【かのじょ】の推理【すいり】は的確【てきかく】で、事件【じけん】の真相【しんそう】を解【と】き明【あ】かした。",
+    "meaning": "Her deduction was accurate, and she revealed the truth of the incident."
+  },
+  {
+    "sentence": "このコードを解読する必要があります。",
+    "sentence_furigana": "このコードを解読【かいどく】する必【ひつ】ようがあります。",
+    "meaning": "It is necessary to decipher this code."
+  },
+  {
+    "sentence": "彼はその問題を平和的に解決する方法を見つけた。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】を平和的【へいわてき】に解決【かいけつ】する方法【ほうほう】を見【み】つけた。",
+    "meaning": "He found a way to resolve the problem peacefully."
+  },
+  {
+    "sentence": "その言語を理解するのは容易ではない。",
+    "sentence_furigana": "その言語【げんご】を理解【りかい】するのは容易【ようい】ではない。",
+    "meaning": "Understanding that language is not easy."
+  },
+  {
+    "sentence": "彼らは契約を解除した。",
+    "sentence_furigana": "彼【かれ】らは契約【けいやく】を解除【かいじょ】した。",
+    "meaning": "They canceled the contract."
+  },
+  {
+    "sentence": "この難解な詩を理解するのは至難の業だ。",
+    "sentence_furigana": "この難解【なんかい】な詩【し】を理解【りかい】するのは至難【しなん】の業【わざ】だ。",
+    "meaning": "It is extremely difficult to understand this abstruse poem."
+  },
+  {
+    "sentence": "この文書はすぐに解読できそうだ。",
+    "sentence_furigana": "この文書【ぶんしょ】はすぐ解読【かいどく】できそうだ。",
+    "meaning": "This document seems decipherable soon."
+  },
+  {
+    "sentence": "彼はその秘密を解き明かすことを誓った。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を解【と】き明【あ】かすことを誓【ちか】った。",
+    "meaning": "He vowed to uncover that secret."
+  },
+  {
+    "sentence": "その議論を理解することは重要だ。",
+    "sentence_furigana": "その議論【ぎろん】を理解【りかい】することは重要【じゅうよう】だ。",
+    "meaning": "It is important to understand that discussion."
+  },
+  {
+    "sentence": "彼は約束を解くことはできない。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を解【と】くことはできない。",
+    "meaning": "He cannot undo the promise."
+  },
+  {
+    "sentence": "その呪いはついに解かれた。",
+    "sentence_furigana": "その呪【のろ】いはついに解【と】かれた。",
+    "meaning": "The curse was finally lifted."
+  },
+  {
+    "sentence": "彼女は複雑な感情を抱えていた。",
+    "sentence_furigana": "彼女【かのじょ】は複雑【ふくざつ】な感情【かんじょう】を抱【いだ】いていた。",
+    "meaning": "She harbored complex emotions."
+  },
+  {
+    "sentence": "その本は多くの謎を解き明かしてくれるだろう。",
+    "sentence_furigana": "その本【ほん】は多【おお】くの謎【なぞ】を解【と】き明【あ】かしてくれるだろう。",
+    "meaning": "That book will likely shed light on many mysteries."
+  },
+  {
+    "sentence": "彼はその問題を解決するために全力を尽くした。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】を解決【かいけつ】するために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "He did his best to solve that problem."
+  },
+  {
+    "sentence": "その文章を正確に理解するために辞書を使った。",
+    "sentence_furigana": "その文章【ぶんしょう】を正確【せいかく】に理解【りかい】するために辞書【じしょ】を使【つか】った。",
+    "meaning": "I used a dictionary to accurately understand the text."
+  },
+  {
+    "sentence": "彼はその計画を中止するよう説得した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】を中止【ちゅうし】するよう説得【せっとく】した。",
+    "meaning": "He persuaded them to cancel the plan."
+  },
+  {
+    "sentence": "その糸を解いて、結び直さなければならない。",
+    "sentence_furigana": "その糸【いと】を解【ほ】いて、結【むす】び直【なお】さなければならない。",
+    "meaning": "I have to untie that thread and retie it."
+  },
+  {
+    "sentence": "この古代の文字を解読できる人は少ない。",
+    "sentence_furigana": "この古代【こだい】の文字【もじ】を解読【かいどく】できる人【ひと】は少【すく】ない。",
+    "meaning": "Few people can decipher these ancient characters."
+  },
+  {
+    "sentence": "彼女は自分の過ちを理解し、反省した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の過【あやま】ちを理解【りかい】し、反省【はんせい】した。",
+    "meaning": "She understood her mistake and reflected on it."
+  },
+  {
+    "sentence": "その会議は延長されることなく、予定通りに終わった。",
+    "sentence_furigana": "その会議【かいぎ】は延長【えんちょう】されることなく、予定通【よていどお】りに終【お】わった。",
+    "meaning": "The meeting ended as scheduled without an extension."
+  },
+  {
+    "sentence": "この問題を解決するまで、眠れません。",
+    "sentence_furigana": "この問題【もんだい】を解決【かいけつ】するまで、眠【ねむ】れません。",
+    "meaning": "I can't sleep until I solve this problem."
+  },
+  {
+    "sentence": "彼らは長年の疑問を解き明かした。",
+    "sentence_furigana": "彼【かれ】らは長年【ながねん】の疑問【ぎもん】を解【と】き明【あ】かした。",
+    "meaning": "They cleared up their long-standing doubts."
+  },
+  {
+    "sentence": "この情報は非常に理解しにくい。",
+    "sentence_furigana": "この情報【じょうほう】は非常【ひじょう】に理解【りかい】しにくい。",
+    "meaning": "This information is very difficult to understand."
+  },
+  {
+    "sentence": "彼は複雑な状況を整理しようと努めた。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な状況【じょうきょう】を整理【せいり】しようと努【つと】めた。",
+    "meaning": "He tried to sort out the complex situation."
+  },
+  {
+    "sentence": "その暗号は専門家によって解読された。",
+    "sentence_furigana": "その暗号【あんごう】は専門家【せんもんか】によって解読【かいどく】された。",
+    "meaning": "The cipher was deciphered by experts."
+  },
+  {
+    "sentence": "彼女は難しい数学の問題を解くのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は難【むずか】しい数学【すうがく】の問題【もんだい】を解【と】くのが好【す】きだ。",
+    "meaning": "She likes solving difficult math problems."
+  },
+  {
+    "sentence": "この理論を理解するのは簡単ではない。",
+    "sentence_furigana": "この理論【りろん】を理解【りかい】するのは簡単【かんたん】ではない。",
+    "meaning": "It is not easy to understand this theory."
+  },
+  {
+    "sentence": "会議は無事終了し、解散となった。",
+    "sentence_furigana": "会議【かいぎ】は無事【ぶじ】終了【しゅうりょう】し、解散【かいさん】となった。",
+    "meaning": "The meeting ended safely and was adjourned."
+  },
+  {
+    "sentence": "彼が書いた解説はとても分かりやすかった。",
+    "sentence_furigana": "彼【かれ】が書【か】いた解説【かいせつ】はとても分【わ】かりやすかった。",
+    "meaning": "The explanation he wrote was very easy to understand."
+  },
+  {
+    "sentence": "私はその結び目をほどくことができた。",
+    "sentence_furigana": "私【わたし】はそ【の】結【むす】び目を解【ほど】くことができた。",
+    "meaning": "I was able to untie the knot."
+  },
+  {
+    "sentence": "その文書の内容を理解する必要がある。",
+    "sentence_furigana": "その文書【ぶんしょ】の内容【ないよう】を理解【りかい】する必【ひつ】ようがある。",
+    "meaning": "It is necessary to understand the content of that document."
+  },
+  {
+    "sentence": "彼はその難問を解決した。",
+    "sentence_furigana": "彼【かれ】はその難問【なんもん】を解決【かいけつ】した。",
+    "meaning": "He solved the difficult problem."
+  },
+  {
+    "sentence": "この契約を解除するには、書面での通知が必要です。",
+    "sentence_furigana": "この契約【けいやく】を解除【かいじょ】するには、書面【しょめん】での通知【つうち】が必要【ひつよう】です。",
+    "meaning": "Written notification is required to cancel this contract."
+  },
+  {
+    "sentence": "彼は説明を求めたが、相手は何も答えなかった。",
+    "sentence_furigana": "彼【かれ】は説明【せつめい】を求【もと】めたが、相手【あいて】は何も答【こた】えなかった。",
+    "meaning": "He asked for an explanation, but the other party said nothing."
+  },
+  {
+    "sentence": "この古い地図を解読するのは困難だ。",
+    "sentence_furigana": "この古【ふる】い地図【ちず】を解読【かいどく】するのは困難【こんなん】だ。",
+    "meaning": "It is difficult to decipher this old map."
+  },
+  {
+    "sentence": "彼女は問題の本質を理解した。",
+    "sentence_furigana": "彼女【かのじょ】は問題【もんだい】の本質【ほんしつ】を理解【りかい】した。",
+    "meaning": "She understood the essence of the problem."
+  },
+  {
+    "sentence": "その取引は解除されました。",
+    "sentence_furigana": "その取引【とりひき】は解除【かいじょ】されました。",
+    "meaning": "The transaction was canceled."
+  },
+  {
+    "sentence": "彼はその複雑な状況を解きほぐすための方法を探していた。",
+    "sentence_furigana": "彼【かれ】はその複雑【ふくざつ】な状況【じょうきょう】を解【と】きほぐすための方法【ほうほう】を探【さが】していた。",
+    "meaning": "He was looking for a way to unravel the complex situation."
+  },
+  {
+    "sentence": "この新しい理論を理解するには時間がかかるだろう。",
+    "sentence_furigana": "この新【あたら】しい理論【りろん】を理解【りかい】するには時間【じかん】がかかるだろう。",
+    "meaning": "It will probably take time to understand this new theory."
+  },
+  {
+    "sentence": "彼は秘密のメッセージを解読した。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】のメッセージを解読【かいどく】した。",
+    "meaning": "He deciphered the secret message."
+  },
+  {
+    "sentence": "その調査結果を理解することが重要です。",
+    "sentence_furigana": "その調査結果【ちょうさけっか】を理解【りかい】することが重要【じゅうよう】です。",
+    "meaning": "It is important to understand the survey results."
+  },
+  {
+    "sentence": "その束縛を解く。",
+    "sentence_furigana": "その束縛【そくばく】を解【と】く。",
+    "meaning": "To release from those restraints."
+  },
+  {
+    "sentence": "彼は複雑な感情の絡まりを解きほぐした。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な感情【かんじょう】の絡【から】まりを解【と】きほぐした。",
+    "meaning": "He untangled the tangle of complex emotions."
+  },
+  {
+    "sentence": "この古い記録を解読する必要がある。",
+    "sentence_furigana": "この古【ふる】い記録【きろく】を解読【かいどく】する必【ひつ】ようがある。",
+    "meaning": "It is necessary to decipher these old records."
+  },
+  {
+    "sentence": "彼女は問題を解決するために最善を尽くした。",
+    "sentence_furigana": "彼女【かのじょ】は問題【もんだい】を解決【かいけつ】するために最善【さいぜん】を尽【つ】くした。",
+    "meaning": "She did her best to solve the problem."
+  },
+  {
+    "sentence": "その会議は予定通りに終了し、解散した。",
+    "sentence_furigana": "その会議【かいぎ】は予定通【よていどお】りに終了【しゅうりょう】し、解散【かいさん】した。",
+    "meaning": "The meeting ended as scheduled and was adjourned."
+  },
+  {
+    "sentence": "彼はその文を正確に理解できなかった。",
+    "sentence_furigana": "彼【かれ】はその文【ぶん】を正確【せいかく】に理解【りかい】できなかった。",
+    "meaning": "He could not accurately understand that sentence."
+  },
+  {
+    "sentence": "このコードは解読が難しい。",
+    "sentence_furigana": "このコードは解読【かいどく】が難【むずか】しい。",
+    "meaning": "This code is difficult to decipher."
+  },
+  {
+    "sentence": "彼はその状況を解決する糸口を見つけた。",
+    "sentence_furigana": "彼【かれ】はその状況【じょうきょう】を解決【かいけつ】する糸口【いとぐち】を見【み】つけた。",
+    "meaning": "He found a clue to resolve that situation."
+  },
+  {
+    "sentence": "彼女は長年の秘密を解き明かした。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の秘密【ひみつ】を解【と】き明【あ】かした。",
+    "meaning": "She revealed a long-held secret."
+  },
+  {
+    "sentence": "この情報は十分に理解されている。",
+    "sentence_furigana": "この情報【じょうほう】は十分【じゅうぶん】に理解【りかい】されている。",
+    "meaning": "This information is sufficiently understood."
+  },
+  {
+    "sentence": "彼はその約束を解くことはできない。",
+    "sentence_furigana": "彼【かれ】はその約束【やくそく】を解【と】くことはできない。",
+    "meaning": "He cannot break the promise."
+  },
+  {
+    "sentence": "その古い本はまだ解読されていない。",
+    "sentence_furigana": "その古【ふる】い本【ほん】はまだ解読【かいどく】されていない。",
+    "meaning": "That old book has not yet been deciphered."
+  },
+  {
+    "sentence": "この難題を解決するために協力しよう。",
+    "sentence_furigana": "この難題【なんだい】を解決【かいけつ】するために協力【きょうりょく】しよう。",
+    "meaning": "Let's cooperate to solve this difficult problem."
+  },
+  {
+    "sentence": "彼女の説明は私には理解できなかった。",
+    "sentence_furigana": "彼女【かのじょ】の説明【せつめい】は私【わたし】には理解【りかい】できなかった。",
+    "meaning": "I could not understand her explanation."
+  },
+  {
+    "sentence": "その命令は解除された。",
+    "sentence_furigana": "その命令【めいれい】は解除【かいじょ】された。",
+    "meaning": "The order was canceled."
+  },
+  {
+    "sentence": "彼は複雑な問題を解決するための鍵を見つけた。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な問題【もんだい】を解決【かいけつ】するための鍵【かぎ】を見【み】つけた。",
+    "meaning": "He found the key to solving a complex problem."
+  },
+  {
+    "sentence": "この文章は理解しやすい。",
+    "sentence_furigana": "この文章【ぶんしょう】は理解【りかい】しやすい。",
+    "meaning": "This text is easy to understand."
+  },
+  {
+    "sentence": "会議は時間通りに解散した。",
+    "sentence_furigana": "会議【かいぎ】は時間通【じかんどお】りに解散【かいさん】した。",
+    "meaning": "The meeting adjourned on time."
+  },
+  {
+    "sentence": "彼らは複雑な状況を解決するための道筋をつけた。",
+    "sentence_furigana": "彼【かれ】らは複雑【ふくざつ】な状況【じょうきょう】を解決【かいけつ】するための道筋【みちすじ】をつけた。",
+    "meaning": "They paved the way to resolve the complex situation."
+  },
+  {
+    "sentence": "この暗号を解読するには高度な知識が必要だ。",
+    "sentence_furigana": "この暗号【あんごう】を解読【かいどく】するには高度【こうど】な知識【ちしき】が必要【ひつよう】だ。",
+    "meaning": "Advanced knowledge is required to decipher this cipher."
+  },
+  {
+    "sentence": "彼女は自分の気持ちをうまく表現できた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の気持【きも】ちをうまく表現【ひょうげん】できた。",
+    "meaning": "She was able to express her feelings well."
+  },
+  {
+    "sentence": "その問題を解決するために、様々な方法を試した。",
+    "sentence_furigana": "その問題【もんだい】を解決【かいけつ】するために、様々【さまざま】な方法【ほうほう】を試【こころ】みた。",
+    "meaning": "I tried various methods to solve that problem."
+  },
+  {
+    "sentence": "この古い詩を解釈するのは難しい。",
+    "sentence_furigana": "この古【ふる】い詩【し】を解釈【かいしゃく】するのは難【むずか】しい。",
+    "meaning": "It is difficult to interpret this old poem."
+  },
+  {
+    "sentence": "彼はその秘密を解き明かすことを誓った。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を解【と】き明【あ】かすことを誓【ちか】った。",
+    "meaning": "He vowed to reveal the secret."
+  }
+]

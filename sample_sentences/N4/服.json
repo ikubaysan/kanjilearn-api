@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "この服はとても快適です。",
+    "sentence_furigana": "この服【ふく】はとても快適【かいてき】です。",
+    "meaning": "This clothing is very comfortable."
+  },
+  {
+    "sentence": "新しい服を買いに行きました。",
+    "sentence_furigana": "新【あたら】しい服【ふく】を買【か】いに行【い】きました。",
+    "meaning": "I went to buy new clothes."
+  },
+  {
+    "sentence": "彼は軍服を着ている。",
+    "sentence_furigana": "彼【かれ】は軍服【ぐんぷく】を着【き】ている。",
+    "meaning": "He is wearing a military uniform."
+  },
+  {
+    "sentence": "彼女は制服を着用しています。",
+    "sentence_furigana": "彼女【かのじょ】は制服【せいふく】を着【ちゃく】用【よう】しています。",
+    "meaning": "She is wearing a uniform."
+  },
+  {
+    "sentence": "この服は洗濯機で洗えますか？",
+    "sentence_furigana": "この服【ふく】は洗濯機【せんたくき】で洗【あら】えますか？",
+    "meaning": "Can this clothing be washed in a washing machine?"
+  },
+  {
+    "sentence": "失礼します、お召し物についてお伺いします。",
+    "sentence_furigana": "失礼【しつれい】します、お召【め】し物【もの】についてお伺【うかが】いします。",
+    "meaning": "Excuse me, I would like to ask about your attire."
+  },
+  {
+    "sentence": "服従しない者は罰せられる。",
+    "sentence_furigana": "服従【ふくじゅう】しない者【もの】は罰【ばっ】せられる。",
+    "meaning": "Those who do not obey will be punished."
+  },
+  {
+    "sentence": "彼は自分の過ちを服した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過誤【あやま】ちを服【ふく】した。",
+    "meaning": "He admitted his mistake."
+  },
+  {
+    "sentence": "私は彼の意見に服しました。",
+    "sentence_furigana": "私【わたし】は彼【かれ】の意見【いけん】に服【ふく】しました。",
+    "meaning": "I yielded to his opinion."
+  },
+  {
+    "sentence": "裁判官の判決に服する必要がある。",
+    "sentence_furigana": "裁判官【さいばんかん】の判決【はんけつ】に服【ふく】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to submit to the judge's verdict."
+  },
+  {
+    "sentence": "彼は命令に服した。",
+    "sentence_furigana": "彼【かれ】は命令【めいれい】に服【ふく】した。",
+    "meaning": "He obeyed the order."
+  },
+  {
+    "sentence": "その病気から回復しました。",
+    "sentence_furigana": "その病気【びょうき】から回復【かいふく】しました。",
+    "meaning": "He recovered from the illness."
+  },
+  {
+    "sentence": "彼は服役を終えて出所した。",
+    "sentence_furigana": "彼【かれ】は服役【ふくえき】を終【お】えて出所【しゅっしょ】した。",
+    "meaning": "He was discharged after serving his sentence."
+  },
+  {
+    "sentence": "彼は禁固刑を服した。",
+    "sentence_furigana": "彼【かれ】は禁固刑【きんこけい】を服【ふく】した。",
+    "meaning": "He served a prison sentence."
+  },
+  {
+    "sentence": "この服はアイロンがけが必要です。",
+    "sentence_furigana": "この服【ふく】はアイロンがけが必要【ひつよう】です。",
+    "meaning": "This clothing needs ironing."
+  },
+  {
+    "sentence": "彼女はいつも流行の服を着ている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも流行【りゅうこう】の服【ふく】を着【き】ている。",
+    "meaning": "She always wears fashionable clothes."
+  },
+  {
+    "sentence": "この服のデザインは気に入りました。",
+    "sentence_furigana": "この服【ふく】のデザインは気【き】に入【い】りました。",
+    "meaning": "I like the design of this clothing."
+  },
+  {
+    "sentence": "雨が降ってきたので、服を濡らさないように注意してください。",
+    "sentence_furigana": "雨【あめ】が降【ふ】ってきたので、服【ふく】を濡【ぬ】らさないように注意【ちゅうい】してください。",
+    "meaning": "It started raining, so please be careful not to get your clothes wet."
+  },
+  {
+    "sentence": "彼は法廷で真実を服した。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】で真実【しんじつ】を服【ふく】した。",
+    "meaning": "He confessed the truth in court."
+  },
+  {
+    "sentence": "国民は法律に服従しなければならない。",
+    "sentence_furigana": "国民【こくみん】は法律【ほうりつ】に服従【ふくじゅう】しなければならない。",
+    "meaning": "Citizens must obey the law."
+  },
+  {
+    "sentence": "彼の潔白を証明するために、彼はあらゆる質問に服した。",
+    "sentence_furigana": "彼【かれ】の潔白【けっぱく】を証明【しょうめい】するために、彼【かれ】はあらゆる質問【しつもん】に服【ふく】した。",
+    "meaning": "To prove his innocence, he submitted to all questioning."
+  },
+  {
+    "sentence": "この服は洗濯表示を確認してから洗ってください。",
+    "sentence_furigana": "この服【ふく】は洗濯表示【せんたくひょうじ】を確認【かくにん】してから洗【あら】ってください。",
+    "meaning": "Please wash this clothing after checking the laundry instructions."
+  },
+  {
+    "sentence": "子供たちは新しい服に喜んだ。",
+    "sentence_furigana": "子供【こども】たちは新【あたら】しい服【ふく】に喜【よろこ】んだ。",
+    "meaning": "The children were delighted with their new clothes."
+  },
+  {
+    "sentence": "退院する際には、私服に着替える必要がある。",
+    "sentence_furigana": "退院【たいいん】する際【さい】には、私服【しふく】に着替【きが】える必要【ひつよう】がある。",
+    "meaning": "When being discharged from the hospital, you need to change into civilian clothes."
+  },
+  {
+    "sentence": "彼は犯罪の事実を服した。",
+    "sentence_furigana": "彼【かれ】は犯罪【はんざい】の事実【じじつ】を服【ふく】した。",
+    "meaning": "He admitted the facts of the crime."
+  },
+  {
+    "sentence": "指導者の指示に服することは、チームワークのために不可欠だ。",
+    "sentence_furigana": "指導者【しどうしゃ】の指示【しじ】に服【ふく】することは、チームワークのために不可欠【ふかけつ】だ。",
+    "meaning": "Submitting to the leader's instructions is essential for teamwork."
+  },
+  {
+    "sentence": "彼は裁判所の召喚に応じ、出廷した。",
+    "sentence_furigana": "彼【かれ】は裁判所【さいばんしょ】の召喚【しょうかん】に応【おう】じ、出廷【しゅってい】した。",
+    "meaning": "He complied with the court summons and appeared."
+  },
+  {
+    "sentence": "この服はとても温かい。",
+    "sentence_furigana": "この服【ふく】はとても温【あたた】かい。",
+    "meaning": "This clothing is very warm."
+  },
+  {
+    "sentence": "新しい服が届きました。",
+    "sentence_furigana": "新【あたら】しい服【ふく】が届【とど】きました。",
+    "meaning": "New clothes have arrived."
+  },
+  {
+    "sentence": "彼は会社の規則に服従した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の規則【きそく】に服従【ふくじゅう】した。",
+    "meaning": "He submitted to the company's rules."
+  },
+  {
+    "sentence": "彼は不正行為を服した。",
+    "sentence_furigana": "彼【かれ】は不正行為【ふせいこうい】を服【ふく】した。",
+    "meaning": "He confessed to the fraudulent act."
+  },
+  {
+    "sentence": "この服はクリーニングに出す必要があります。",
+    "sentence_furigana": "この服【ふく】はクリーニングに出【だ】す必要【ひつよう】があります。",
+    "meaning": "This clothing needs to be dry-cleaned."
+  },
+  {
+    "sentence": "彼は裁判官の厳しい尋問に服した。",
+    "sentence_furigana": "彼【かれ】は裁判官【さいばんかん】の厳【きび】しい尋問【じんもん】に服【ふく】した。",
+    "meaning": "He submitted to the judge's severe interrogation."
+  },
+  {
+    "sentence": "患者は投薬に服した。",
+    "sentence_furigana": "患者【かんじゃ】は投薬【とうやく】に服【ふく】した。",
+    "meaning": "The patient underwent medication."
+  },
+  {
+    "sentence": "彼は上司の指示に逆らわず、服従した。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】の指示【しじ】に逆【さか】らわず、服従【ふくじゅう】した。",
+    "meaning": "He obeyed his superior's instructions without resistance."
+  },
+  {
+    "sentence": "その政治家は国民の支持に服した。",
+    "sentence_furigana": "その政治家【せいじか】は国民【こくみん】の支持【しじ】に服【ふく】した。",
+    "meaning": "The politician yielded to the public's support."
+  },
+  {
+    "sentence": "この服は肌触りが良いです。",
+    "sentence_furigana": "この服【ふく】は肌触【はだざわ】りが良【よ】いです。",
+    "meaning": "This clothing feels good on the skin."
+  },
+  {
+    "sentence": "彼は新しい服を試着した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい服【ふく】を試着【しちゃく】した。",
+    "meaning": "He tried on new clothes."
+  },
+  {
+    "sentence": "彼女は運動服に着替えた。",
+    "sentence_furigana": "彼女【かのじょ】は運動服【うんどうふく】に着替【きが】えた。",
+    "meaning": "She changed into sportswear."
+  },
+  {
+    "sentence": "彼は調査に服しました。",
+    "sentence_furigana": "彼【かれ】は調査【ちょうさ】に服【ふく】しました。",
+    "meaning": "He submitted to the investigation."
+  },
+  {
+    "sentence": "法律はすべての人に適用されるべきだ。",
+    "sentence_furigana": "法律【ほうりつ】はすべての人【ひと】に適用【てきよう】されるべきだ。",
+    "meaning": "The law should apply to everyone."
+  },
+  {
+    "sentence": "彼は禁酒の命令に服した。",
+    "sentence_furigana": "彼【かれ】は禁酒【きんしゅ】の命令【めいれい】に服【ふく】した。",
+    "meaning": "He complied with the order to abstain from alcohol."
+  },
+  {
+    "sentence": "この服はすぐに乾きます。",
+    "sentence_furigana": "この服【ふく】はすぐ乾【かわ】きます。",
+    "meaning": "This clothing dries quickly."
+  },
+  {
+    "sentence": "彼は法廷で真実を語る義務を服した。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】で真実【しんじつ】を語【かた】る義務【ぎむ】を服【ふく】した。",
+    "meaning": "He submitted to the duty to speak the truth in court."
+  },
+  {
+    "sentence": "新しい服を買う予定です。",
+    "sentence_furigana": "新【あたら】しい服【ふく】を買【か】う予定【よてい】です。",
+    "meaning": "I plan to buy new clothes."
+  },
+  {
+    "sentence": "彼は校則に従った。",
+    "sentence_furigana": "彼【かれ】は校則【こうそく】に従【したが】った。",
+    "meaning": "He complied with school rules."
+  },
+  {
+    "sentence": "この服は洗濯機で洗わないでください。",
+    "sentence_furigana": "この服【ふく】は洗濯機【せんたくき】で洗【あら】わないでください。",
+    "meaning": "Please do not wash this clothing in a washing machine."
+  },
+  {
+    "sentence": "彼は犯行を服した。",
+    "sentence_furigana": "彼【かれ】は犯行【はんこう】を服【ふく】した。",
+    "meaning": "He confessed to the crime."
+  },
+  {
+    "sentence": "この服は着心地が良い。",
+    "sentence_furigana": "この服【ふく】は着心地【きごこち】が良い【よい】。",
+    "meaning": "This clothing is comfortable to wear."
+  },
+  {
+    "sentence": "彼は上司からの指示を忠実に実行した。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】から指示【しじ】を忠実【ちゅうじつ】に実行【じっこう】した。",
+    "meaning": "He faithfully carried out his boss's instructions."
+  },
+  {
+    "sentence": "彼はその計画に同意した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】に同意【どうい】した。",
+    "meaning": "He agreed to the plan."
+  },
+  {
+    "sentence": "彼は法に服した。",
+    "sentence_furigana": "彼【かれ】は法【ほう】に服【ふく】した。",
+    "meaning": "He submitted to the law."
+  },
+  {
+    "sentence": "これは私の新しい服です。",
+    "sentence_furigana": "これは私【わたし】の新しい服【ふく】です。",
+    "meaning": "These are my new clothes."
+  },
+  {
+    "sentence": "彼は尋問に服することを拒否した。",
+    "sentence_furigana": "彼【かれ】は尋問【じんもん】に服【ふく】することを拒否【きょひ】した。",
+    "meaning": "He refused to submit to questioning."
+  },
+  {
+    "sentence": "その罪人は刑罰に服した。",
+    "sentence_furigana": "その罪人【ざいにん】は刑罰【けいばつ】に服【ふく】した。",
+    "meaning": "The criminal underwent punishment."
+  },
+  {
+    "sentence": "彼は命令を服従した。",
+    "sentence_furigana": "彼【かれ】は命令【めいれい】を服従【ふくじゅう】した。",
+    "meaning": "He obeyed the command."
+  },
+  {
+    "sentence": "この服は色落ちしやすい。",
+    "sentence_furigana": "この服【ふく】は色落【いろお】ちしやすい。",
+    "meaning": "This clothing is prone to color fading."
+  },
+  {
+    "sentence": "彼は医師の指示に従って薬を服用した。",
+    "sentence_furigana": "彼【かれ】は医師【いし】の指示【しじ】に従【したが】って薬【くすり】を服用【ふくよう】した。",
+    "meaning": "He took the medicine according to the doctor's instructions."
+  },
+  {
+    "sentence": "この服はとても柔らかいです。",
+    "sentence_furigana": "この服【ふく】はとても柔【やわ】らかいです。",
+    "meaning": "This clothing is very soft."
+  },
+  {
+    "sentence": "彼は会議で自分の意見を述べた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で自分【じぶん】の意見【いけん】を述【の】べた。",
+    "meaning": "He stated his opinion at the meeting."
+  },
+  {
+    "sentence": "彼は裁判官の権威に服した。",
+    "sentence_furigana": "彼【かれ】は裁判官【さいばんかん】の権威【けんい】に服【ふく】した。",
+    "meaning": "He submitted to the judge's authority."
+  },
+  {
+    "sentence": "彼女は服を買いに行った。",
+    "sentence_furigana": "彼女【かのじょ】は服【ふく】を買【か】いにいった。",
+    "meaning": "She went to buy clothes."
+  },
+  {
+    "sentence": "彼は上司の指示を仰いだ。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】の指示【しじ】を仰【あお】いだ。",
+    "meaning": "He sought instructions from his superior."
+  },
+  {
+    "sentence": "この服は着心地が良いです。",
+    "sentence_furigana": "この服【ふく】は着心地【きごこち】が良い【よい】です。",
+    "meaning": "This clothing is comfortable to wear."
+  },
+  {
+    "sentence": "彼は新しい制服を注文した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい制服【せいふく】を注文【ちゅうもん】した。",
+    "meaning": "He ordered a new uniform."
+  },
+  {
+    "sentence": "彼はその命令に逆らうことはできなかった。",
+    "sentence_furigana": "彼【かれ】はその命令【めいれい】に逆【さか】らうことはできなかった。",
+    "meaning": "He could not disobey the order."
+  },
+  {
+    "sentence": "この服はアイロンをかけなくても良い。",
+    "sentence_furigana": "この服【ふく】はアイロンをかけなくても良い【よい】。",
+    "meaning": "This clothing does not require ironing."
+  },
+  {
+    "sentence": "彼は警察の取り調べに協力した。",
+    "sentence_furigana": "彼【かれ】は警察【けいさつ】の取【と】り調【しら】べに協力【きょうりょく】した。",
+    "meaning": "He cooperated with the police investigation."
+  },
+  {
+    "sentence": "彼女はフォーマルな服を着ていた。",
+    "sentence_furigana": "彼女【かのじょ】はフォーマルな服【ふく】を着【き】ていた。",
+    "meaning": "She was wearing formal attire."
+  },
+  {
+    "sentence": "彼は裁判で無実を主張した。",
+    "sentence_furigana": "彼【かれ】は裁判【さいばん】で無実【むじつ】を主張【しゅちょう】した。",
+    "meaning": "He pleaded not guilty in court."
+  },
+  {
+    "sentence": "この服は簡単に洗濯できます。",
+    "sentence_furigana": "この服【ふく】は簡単【かんたん】に洗濯【せんたく】できます。",
+    "meaning": "This clothing is easy to wash."
+  },
+  {
+    "sentence": "彼は上司の判断を尊重した。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】の判断【はんだん】を尊重【そんちょう】した。",
+    "meaning": "He respected his superior's judgment."
+  },
+  {
+    "sentence": "この服はとても軽い。",
+    "sentence_furigana": "この服【ふく】はとても軽【かる】い。",
+    "meaning": "This clothing is very light."
+  },
+  {
+    "sentence": "彼は法廷での証言を義務付けられた。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】での証言【しょうげん】を義務付【ぎむづ】けられた。",
+    "meaning": "He was obligated to testify in court."
+  },
+  {
+    "sentence": "彼女は自分の失敗を認めた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の失敗【しっぱい】を認【みと】めた。",
+    "meaning": "She admitted her failure."
+  },
+  {
+    "sentence": "この服は肌に優しい。",
+    "sentence_furigana": "この服【ふく】は肌【はだ】に優【やさ】しい。",
+    "meaning": "This clothing is gentle on the skin."
+  },
+  {
+    "sentence": "彼は裁判官の質問に答えた。",
+    "sentence_furigana": "彼【かれ】は裁判官【さいばんかん】の質問【しつもん】に答【こた】えた。",
+    "meaning": "He answered the judge's questions."
+  },
+  {
+    "sentence": "この服は速乾性があります。",
+    "sentence_furigana": "この服【ふく】は速乾性【そっかんせい】があります。",
+    "meaning": "This clothing has quick-drying properties."
+  },
+  {
+    "sentence": "彼は法律の要求に応じた。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の要求【ようきゅう】に応【おう】じた。",
+    "meaning": "He complied with the legal requirements."
+  },
+  {
+    "sentence": "この服は洗濯表示通りに洗ってください。",
+    "sentence_furigana": "この服【ふく】は洗濯表示【せんたくひょうじ】通【どお】りに洗【あら】ってください。",
+    "meaning": "Please wash this clothing according to the care label."
+  },
+  {
+    "sentence": "彼は上官の命令に従った。",
+    "sentence_furigana": "彼【かれ】は上官【じょうかん】の命令【めいれい】に従【したが】った。",
+    "meaning": "He obeyed the superior officer's order."
+  },
+  {
+    "sentence": "この服はとても暖かく、快適です。",
+    "sentence_furigana": "この服【ふく】はとても暖【あたた】かく、快適【かいてき】です。",
+    "meaning": "This clothing is very warm and comfortable."
+  },
+  {
+    "sentence": "彼は規則を服従した。",
+    "sentence_furigana": "彼【かれ】は規則【きそく】を服従【ふくじゅう】した。",
+    "meaning": "He complied with the rules."
+  },
+  {
+    "sentence": "彼は判決を受け入れた。",
+    "sentence_furigana": "彼【かれ】は判決【はんけつ】を受【う】け入【い】れた。",
+    "meaning": "He accepted the verdict."
+  },
+  {
+    "sentence": "彼は自分の行動を服した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の行動【こうどう】を服【ふく】した。",
+    "meaning": "He admitted his actions."
+  },
+  {
+    "sentence": "この服は着回しがきく。",
+    "sentence_furigana": "この服【ふく】は着回【きまわ】しがきく。",
+    "meaning": "This clothing is versatile."
+  },
+  {
+    "sentence": "彼は調査官の指示に服した。",
+    "sentence_furigana": "彼【かれ】は調査官【ちょうさかん】の指示【しじ】に服【ふく】した。",
+    "meaning": "He submitted to the investigator's instructions."
+  },
+  {
+    "sentence": "彼女は新しい服を着て出かけた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい服【ふく】を着【き】て出【で】かけた。",
+    "meaning": "She went out wearing new clothes."
+  },
+  {
+    "sentence": "この服は特別な手入れが必要です。",
+    "sentence_furigana": "この服【ふく】は特別【とくべつ】な手入【てい】れが必要【ひつよう】です。",
+    "meaning": "This clothing requires special care."
+  },
+  {
+    "sentence": "彼は証言を服した。",
+    "sentence_furigana": "彼【かれ】は証言【しょうげん】を服【ふく】した。",
+    "meaning": "He testified."
+  },
+  {
+    "sentence": "彼は自らの意思で服役した。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの意思【いし】で服役【ふくえき】した。",
+    "meaning": "He served his sentence voluntarily."
+  },
+  {
+    "sentence": "その国の法律に従うべきだ。",
+    "sentence_furigana": "その国【くに】の法律【ほうりつ】に従【したが】うべきだ。",
+    "meaning": "One should abide by the laws of that country."
+  },
+  {
+    "sentence": "彼は審問に服した。",
+    "sentence_furigana": "彼【かれ】は審問【しんもん】に服【ふく】した。",
+    "meaning": "He submitted to the examination."
+  }
+]

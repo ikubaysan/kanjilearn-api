@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼の年齢は秘密にされている。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】は秘密【ひみつ】にされている。",
+    "meaning": "His age is kept a secret."
+  },
+  {
+    "sentence": "高齢者のための割引制度がある。",
+    "sentence_furigana": "高齢者【こうれいしゃ】のための割引制度【わりびきせいど】がある。",
+    "meaning": "There is a discount system for the elderly."
+  },
+  {
+    "sentence": "彼女は実年齢より若く見える。",
+    "sentence_furigana": "彼女【かのじょ】は実年齢【じつねんれい】より若【わか】く見【み】える。",
+    "meaning": "She looks younger than her actual age."
+  },
+  {
+    "sentence": "この法律は成人年齢に達した者に適用される。",
+    "sentence_furigana": "この法律【ほうりつ】は成人年齢【せいじんねんれい】に達【たっ】した者【もの】に適用【てきよう】される。",
+    "meaning": "This law applies to those who have reached the age of majority."
+  },
+  {
+    "sentence": "年齢を重ねるごとに経験が増える。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねるごとに経験【けいけん】が増【ふ】える。",
+    "meaning": "Experience increases with age."
+  },
+  {
+    "sentence": "彼の年齢が判明した。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】が判明【はんめい】した。",
+    "meaning": "His age was revealed."
+  },
+  {
+    "sentence": "年齢制限のため、参加できなかった。",
+    "sentence_furigana": "年齢制限【ねんれいせいげん】のため、参加【さんか】できなかった。",
+    "meaning": "I couldn't participate due to age restrictions."
+  },
+  {
+    "sentence": "彼女は若年ながらも優れた才能を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は若年【じゃくねん】ながらも優【すぐ】れた才能【さいのう】を持っている。",
+    "meaning": "Despite her young age, she possesses outstanding talent."
+  },
+  {
+    "sentence": "このプロジェクトは年齢に関係なく誰でも参加できます。",
+    "sentence_furigana": "このプロジェクトは年齢【ねんれい】に関係【かんけい】なく誰【だれ】でも参加【さんか】できます。",
+    "meaning": "Anyone can participate in this project regardless of age."
+  },
+  {
+    "sentence": "人間の寿命は年齢とともに変化する。",
+    "sentence_furigana": "人間【にんげん】の寿命【じゅみょう】は年齢【ねんれい】とともに変化【へんか】する。",
+    "meaning": "Human lifespan changes with age."
+  },
+  {
+    "sentence": "彼は還暦を過ぎた年齢だが、まだまだ元気だ。",
+    "sentence_furigana": "彼【かれ】は還暦【かんれき】を過【す】ぎた年齢【ねんれい】だが、まだまだ元気【げんき】だ。",
+    "meaning": "He is past the age of sixty, but he is still energetic."
+  },
+  {
+    "sentence": "年齢詐称は許されない行為です。",
+    "sentence_furigana": "年齢詐称【ねんれいさしょう】は許【ゆる】されない行為【こうい】です。",
+    "meaning": "Age misrepresentation is an unacceptable act."
+  },
+  {
+    "sentence": "子供の年齢に応じた教育が必要だ。",
+    "sentence_furigana": "子供【こども】の年齢【ねんれい】に応【おう】じた教育【きょういく】が必要【ひつよう】だ。",
+    "meaning": "Education appropriate for a child's age is necessary."
+  },
+  {
+    "sentence": "年齢を尋ねるのは失礼にあたる場合があります。",
+    "sentence_furigana": "年齢【ねんれい】を尋【たず】ねるのは失礼【しつれい】にあたる場合【ばあい】があります。",
+    "meaning": "Asking someone's age can sometimes be impolite."
+  },
+  {
+    "sentence": "彼は予想外の若さだったが、その年齢にしては経験豊富だった。",
+    "sentence_furigana": "彼【かれ】は予想外【よそうがい】の若【わか】さだったが、その年齢【ねんれい】にしては経験豊富【けいけんほうふ】だった。",
+    "meaning": "He was unexpectedly young, but experienced for his age."
+  },
+  {
+    "sentence": "定年年齢に達したので、退職することにした。",
+    "sentence_furigana": "定年年齢【ていねんねんれい】に達【たっ】したので、退職【たいしょく】することにした。",
+    "meaning": "I decided to retire as I reached the retirement age."
+  },
+  {
+    "sentence": "この健康診断は特定の年齢層を対象としています。",
+    "sentence_furigana": "この健康診断【けんこうしんだん】は特定【とくてい】の年齢層【ねんれいそう】を対象【たいしょう】としています。",
+    "meaning": "This health check-up targets specific age groups."
+  },
+  {
+    "sentence": "年齢とともに体の衰えを感じるようになった。",
+    "sentence_furigana": "年齢【ねんれい】とともに体【からだ】の衰【おとろ】えを感じるようになった。",
+    "meaning": "I started to feel my body weakening with age."
+  },
+  {
+    "sentence": "その賞は若年者に限らず、すべての年齢層に開かれている。",
+    "sentence_furigana": "その賞【しょう】は若年者【じゃくねんしゃ】に限らず【にかぎらず】、すべて年齢層【ねんれいそう】に開【ひら】かれている。",
+    "meaning": "The award is open to all age groups, not just young people."
+  },
+  {
+    "sentence": "彼は実際の年齢よりも老けて見える。",
+    "sentence_furigana": "彼【かれ】は実際【じっさい】の年齢【ねんれい】よりも老【ふ】けて見【み】える。",
+    "meaning": "He looks older than his actual age."
+  },
+  {
+    "sentence": "年齢を重ねると、物忘れがひどくなることがある。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、物忘【ものわす】れがひどくなることがある。",
+    "meaning": "As one gets older, forgetfulness can worsen."
+  },
+  {
+    "sentence": "彼女はまだ若い年齢だが、責任感がある。",
+    "sentence_furigana": "彼女【かのじょ】はまだ若【わか】い年齢【ねんれい】だが、責任感【せきにんかん】がある。",
+    "meaning": "She is still young but has a sense of responsibility."
+  },
+  {
+    "sentence": "この施設は高齢者の生活を支援します。",
+    "sentence_furigana": "この施設【しせつ】は高齢者【こうれいしゃ】の生活【せいかつ】を支援【しえん】します。",
+    "meaning": "This facility supports the lives of the elderly."
+  },
+  {
+    "sentence": "彼の年齢は教えてもらえなかった。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】は教【おし】えてもらえなかった。",
+    "meaning": "I was not told his age."
+  },
+  {
+    "sentence": "年齢を理由に差別することは許されません。",
+    "sentence_furigana": "年齢【ねんれい】を理由【りゆう】に差別【さべつ】することは許【ゆる】されません。",
+    "meaning": "Discrimination based on age is not allowed."
+  },
+  {
+    "sentence": "彼はその年齢で多くの経験を積んでいる。",
+    "sentence_furigana": "彼【かれ】はその年齢【ねんれい】で多【おお】くの経験【けいけん】を積【つ】んでいる。",
+    "meaning": "He has a lot of experience for his age."
+  },
+  {
+    "sentence": "年齢確認のため、身分証明書の提示をお願いします。",
+    "sentence_furigana": "年齢確認【ねんれいかくにん】のため、身分証明書【みぶんしょうめいしょ】の提示【ていじ】をお願いします。",
+    "meaning": "Please present your identification for age verification."
+  },
+  {
+    "sentence": "このゲームは18歳以上の年齢制限があります。",
+    "sentence_furigana": "このゲームは18歳以上【さいいじょう】の年齢制限【ねんれいせいげん】があります。",
+    "meaning": "This game has an age restriction of 18 years and over."
+  },
+  {
+    "sentence": "年齢を経るごとに深まる人間関係もある。",
+    "sentence_furigana": "年齢【ねんれい】を経【へ】るごとに深【ふか】まる人間関係【にんげんかんけい】もある。",
+    "meaning": "Some human relationships deepen with age."
+  },
+  {
+    "sentence": "彼女の年齢は、話し方からは想像もつかない。",
+    "sentence_furigana": "彼女【かのじょ】の年齢【ねんれい】は、話【はな】し方【かた】からは想像【そうぞう】もつかない。",
+    "meaning": "Her age is unimaginable from the way she speaks."
+  },
+  {
+    "sentence": "この薬は特定の年齢以下の方には処方できません。",
+    "sentence_furigana": "この薬【くすり】は特定【とくてい】の年齢以下【ねんれいか】の方【かた】には処方【しょほう】できません。",
+    "meaning": "This medicine cannot be prescribed to those under a certain age."
+  },
+  {
+    "sentence": "年齢が上がるにつれて、体力は低下する傾向にある。",
+    "sentence_furigana": "年齢【ねんれい】が上【あ】がるにつれて、体力【たいりょく】は低下【ていか】する傾向【けいこう】にある。",
+    "meaning": "As age increases, physical strength tends to decrease."
+  },
+  {
+    "sentence": "彼は自分より年下の子供たちにも敬意を払っていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】より年下【としした】の子供【こども】たちにも敬意【けいい】を払【はら】っていた。",
+    "meaning": "He paid respect even to children younger than himself."
+  },
+  {
+    "sentence": "このツアーは全年齢対象です。",
+    "sentence_furigana": "このツアーは全年齢対象【ねんれい たいしょう】です。",
+    "meaning": "This tour is for all ages."
+  },
+  {
+    "sentence": "年齢を重ねるごとに、人生の深みが増す。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねるごとに、人生【じんせい】の深【ふか】みが増【ま】す。",
+    "meaning": "The depth of life increases with age."
+  },
+  {
+    "sentence": "彼の実際の年齢は、写真では判断できない。",
+    "sentence_furigana": "彼【かれ】の実際【じっさい】の年齢【ねんれい】は、写真【しゃしん】では判断【はんだん】できない。",
+    "meaning": "His actual age cannot be determined from the photo."
+  },
+  {
+    "sentence": "年齢に関わらず、誰もが平等に扱われるべきだ。",
+    "sentence_furigana": "年齢【ねんれい】に関【かか】わらず、誰【だれ】もが平等【びょうどう】に扱【あつか】われるべきだ。",
+    "meaning": "Everyone should be treated equally regardless of age."
+  },
+  {
+    "sentence": "この映画は成人向け年齢制限があります。",
+    "sentence_furigana": "この映画【えいが】は成人向【せいじんむ】け年齢制限【ねんれいせいげん】があります。",
+    "meaning": "This movie has an adult age restriction."
+  },
+  {
+    "sentence": "彼女は年齢の割にはとても若く見える。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】の割【わ】にはとても若【わか】く見【み】える。",
+    "meaning": "She looks very young for her age."
+  },
+  {
+    "sentence": "年齢を重ねるごとに、健康管理の重要性を痛感する。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねるごとに、健康管理【けんこうかんり】の重要性【じゅうようせい】を痛感【つうかん】する。",
+    "meaning": "With age, I deeply feel the importance of health management."
+  },
+  {
+    "sentence": "彼は実年齢よりもずっと若く見える。",
+    "sentence_furigana": "彼【かれ】は実年齢【じつねんれい】よりもずっと若【わか】く見【み】える。",
+    "meaning": "He looks much younger than his actual age."
+  },
+  {
+    "sentence": "このイベントは全年齢が楽しめます。",
+    "sentence_furigana": "このイベントは全年齢【ねんれい】が楽【たの】しめます。",
+    "meaning": "This event can be enjoyed by all ages."
+  },
+  {
+    "sentence": "年齢を重ねると、考え方も深まっていく。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、考【かんが】え方【かた】も深【ふか】まっていく。",
+    "meaning": "As one gets older, one's way of thinking also deepens."
+  },
+  {
+    "sentence": "彼の年齢を聞いて驚いた。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】を聞【き】いて驚【おどろ】いた。",
+    "meaning": "I was surprised to hear his age."
+  },
+  {
+    "sentence": "年齢制限のため、お酒は購入できません。",
+    "sentence_furigana": "年齢制限【ねんれいせいげん】のため、お酒【さけ】は購入【こうにゅう】できません。",
+    "meaning": "I cannot purchase alcohol due to age restrictions."
+  },
+  {
+    "sentence": "この制度は特定の年齢以上の人々に適用されます。",
+    "sentence_furigana": "この制度【せいど】は特定【とくてい】の年齢以上【ねんれい いじょう】の人々【ひとびと】に適用【てきよう】されます。",
+    "meaning": "This system applies to people above a certain age."
+  },
+  {
+    "sentence": "年齢を重ねても、好奇心を失わないでいたい。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねても、好奇心【こうきしん】を失【うしな】わないでいたい。",
+    "meaning": "I want to keep my curiosity even as I get older."
+  },
+  {
+    "sentence": "彼女は自分の年齢を公開したがらない。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の年齢【ねんれい】を公開【こうかい】したがらない。",
+    "meaning": "She doesn't like to reveal her age."
+  },
+  {
+    "sentence": "この地域では高齢化が進んでいる。",
+    "sentence_furigana": "この地域【ちいき】では高齢化【こうれいか】が進【すす】んでいる。",
+    "meaning": "Aging is progressing in this region."
+  },
+  {
+    "sentence": "彼の年齢では珍しいほど知識が豊富だ。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では珍【めずら】しいほど知識【ちしき】が豊富【ほうふ】だ。",
+    "meaning": "He is unusually knowledgeable for his age."
+  },
+  {
+    "sentence": "年齢を重ねると、新しいことを学ぶのが難しくなるという人もいる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、新【あたら】しいことを学【まな】ぶのが難【むずか】しくなるという人【ひと】もいる。",
+    "meaning": "Some people say that it becomes difficult to learn new things as they get older."
+  },
+  {
+    "sentence": "年齢の差はありますが、私たちは良い友人です。",
+    "sentence_furigana": "年齢【ねんれい】の差【さ】はありますが、私【わたし】たちはい好【よ】い友人【ゆうじん】です。",
+    "meaning": "There is an age difference, but we are good friends."
+  },
+  {
+    "sentence": "このサービスは、一定年齢以上のユーザーを対象としています。",
+    "sentence_furigana": "このサービスは、一定年齢以上【いっていねんれい いじょう】のユーザーを対象【たいしょう】としています。",
+    "meaning": "This service is intended for users above a certain age."
+  },
+  {
+    "sentence": "彼女は年齢の割に若々しい。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】の割【わ】りに若々【わかわ】しい。",
+    "meaning": "She looks youthful for her age."
+  },
+  {
+    "sentence": "年齢を重ねることは、人生の経験を深めることでもある。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねることは、人生【じんせい】の経験【けいけん】を深【ふか】めることでもある。",
+    "meaning": "Getting older is also about deepening life experiences."
+  },
+  {
+    "sentence": "彼の年齢は、彼の経験から推測できる。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】は、彼【かれ】の経験【けいけん】から推測【すいそく】できる。",
+    "meaning": "His age can be inferred from his experience."
+  },
+  {
+    "sentence": "この求人には年齢制限がありません。",
+    "sentence_furigana": "この求人【きゅうじん】には年齢制限【ねんれいせいげん】がありません。",
+    "meaning": "There is no age limit for this job opening."
+  },
+  {
+    "sentence": "年齢に関係なく、誰もが持つべき権利がある。",
+    "sentence_furigana": "年齢【ねんれい】に関係【かんけい】なく、誰【だれ】もが持【も】つべき権利【けんり】がある。",
+    "meaning": "Everyone should have rights regardless of age."
+  },
+  {
+    "sentence": "彼女は年齢とともに美しさが増している。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】とともに美【うつく】しさが増【ま】している。",
+    "meaning": "Her beauty increases with age."
+  },
+  {
+    "sentence": "この年齢ではまだ未熟だ。",
+    "sentence_furigana": "この年齢【ねんれい】ではまだ未熟【みじゅく】だ。",
+    "meaning": "I am still immature at this age."
+  },
+  {
+    "sentence": "彼の年齢を聞いて、その経験の豊富さに驚いた。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】を聞【き】いて、その経験【けいけん】の豊富【ほうふ】さに驚【おどろ】いた。",
+    "meaning": "Hearing his age, I was surprised by his wealth of experience."
+  },
+  {
+    "sentence": "年齢を重ねても、学び続ける姿勢が大切だ。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねても、学【まな】び続【つづ】ける姿勢【しせい】が大切【たいせつ】だ。",
+    "meaning": "It is important to continue learning even as you get older."
+  },
+  {
+    "sentence": "彼女は実年齢より10歳は若く見える。",
+    "sentence_furigana": "彼女【かのじょ】は実年齢【じつねんれい】より10歳【さい】は若【わか】く見【み】える。",
+    "meaning": "She looks ten years younger than her actual age."
+  },
+  {
+    "sentence": "このプログラムは全年齢の子どもたちを対象としています。",
+    "sentence_furigana": "このプログラムは全年齢【ねんれい】の子どもたちを対象【たいしょう】としています。",
+    "meaning": "This program is for children of all ages."
+  },
+  {
+    "sentence": "年齢を重ねるごとに、物事の捉え方が変わる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねるごとに、物事【ものごと】の捉【とら】え方【かた】が変わ【かわ】る。",
+    "meaning": "As one gets older, their perception of things changes."
+  },
+  {
+    "sentence": "彼の年齢では考えられないほど落ち着いている。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では考【かんが】えられないほど落【お】ち着【つ】いている。",
+    "meaning": "He is unusually calm for his age."
+  },
+  {
+    "sentence": "この施設の利用には年齢制限があります。",
+    "sentence_furigana": "この施設【しせつ】の利用【りよう】には年齢制限【ねんれいせいげん】があります。",
+    "meaning": "There are age restrictions for using this facility."
+  },
+  {
+    "sentence": "彼女は年齢を重ねても、その魅力は衰えない。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】を重【かさ】ねても、その魅力【みりょく】は衰【おとろ】えない。",
+    "meaning": "Her charm does not fade even as she gets older."
+  },
+  {
+    "sentence": "年齢を重ねると、体調の変化に敏感になる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、体調【たいちょう】の変化【へんか】に敏感【びんかん】になる。",
+    "meaning": "As one gets older, they become more sensitive to changes in their physical condition."
+  },
+  {
+    "sentence": "彼の年齢では信じられないほどのエネルギーを持っている。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では信【しん】じられないほどのエネルギーを持【も】っている。",
+    "meaning": "He has an unbelievable amount of energy for his age."
+  },
+  {
+    "sentence": "この学校は全年齢の学習者を歓迎します。",
+    "sentence_furigana": "この学校【がっこう】は全年齢【ねんれい】の学習者【がくしゅうしゃ】を歓迎【かんげい】します。",
+    "meaning": "This school welcomes learners of all ages."
+  },
+  {
+    "sentence": "年齢を重ねることで得られる知恵がある。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねることで得【え】られる知恵【ちえ】がある。",
+    "meaning": "There is wisdom gained with age."
+  },
+  {
+    "sentence": "彼女は年齢詐称で逮捕された。",
+    "sentence_furigana": "彼女【かのじょ】は年齢詐称【ねんれいさしょう】で逮捕【たいほ】された。",
+    "meaning": "She was arrested for age fraud."
+  },
+  {
+    "sentence": "この地域は高齢者の人口が多い。",
+    "sentence_furigana": "この地域【ちいき】は高齢者【こうれいしゃ】の人口【じんこう】が多【おお】い。",
+    "meaning": "This region has a large elderly population."
+  },
+  {
+    "sentence": "彼の年齢では考えられないほどエネルギッシュだ。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では考【かんが】えられないほどエネルギッシュだ。",
+    "meaning": "He is incredibly energetic for his age."
+  },
+  {
+    "sentence": "年齢を重ねるごとに、人生観が変わってきた。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねるごとに、人生観【じんせいかん】が変わ【かわ】ってきた。",
+    "meaning": "My view of life has changed as I have gotten older."
+  },
+  {
+    "sentence": "彼女の年齢は公表されていない。",
+    "sentence_furigana": "彼女【かのじょ】の年齢【ねんれい】は公表【こうひょう】されていない。",
+    "meaning": "Her age has not been publicly disclosed."
+  },
+  {
+    "sentence": "この健康診断は特定の年齢層の健康状態をチェックします。",
+    "sentence_furigana": "この健康診断【けんこうしんだん】は特定【とくてい】の年齢層【ねんれいそう】の健康状態【けんこうじょうたい】をチェックします。",
+    "meaning": "This health check-up checks the health status of specific age groups."
+  },
+  {
+    "sentence": "年齢を重ねても、新しい趣味を見つけることはできる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねても、新【あたら】しい趣味【しゅみ】を見【み】つけることはできる。",
+    "meaning": "It is possible to find new hobbies even as you get older."
+  },
+  {
+    "sentence": "彼の年齢では考えられないほどの若さだ。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では考【かんが】えられないほどの若【わか】さだ。",
+    "meaning": "He looks remarkably young for his age."
+  },
+  {
+    "sentence": "このアトラクションは小さな子供の年齢制限があります。",
+    "sentence_furigana": "このアトラクションは小【ちい】さな子供【こども】の年齢制限【ねんれいせいげん】があります。",
+    "meaning": "This attraction has age restrictions for small children."
+  },
+  {
+    "sentence": "彼女は年齢の割にはとても元気だ。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】の割【わ】りにはとても元気【げんき】だ。",
+    "meaning": "She is very energetic for her age."
+  },
+  {
+    "sentence": "年齢を重ねると、物事を深く考えられるようになる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、物事【ものごと】を深【ふか】く考【かんが】えられるようになる。",
+    "meaning": "As one gets older, they become able to think deeply about things."
+  },
+  {
+    "sentence": "彼の年齢はキャリアのピークに近い。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】はキャリアのピークに近い【ちかい】。",
+    "meaning": "His age is close to his career peak."
+  },
+  {
+    "sentence": "この規則は全年齢に適用されます。",
+    "sentence_furigana": "この規則【きそく】は全年齢【ねんれい】に適用【てきよう】されます。",
+    "meaning": "This rule applies to all ages."
+  },
+  {
+    "sentence": "彼女は年齢を感じさせない美しさを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】を感じさせない美【うつく】しさを持【も】っている。",
+    "meaning": "She possesses a beauty that belies her age."
+  },
+  {
+    "sentence": "年齢を重ねると、時間の流れが早く感じるようになる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、時間【じかん】の流【なが】れが早【はや】く感【かん】じるようになる。",
+    "meaning": "As one gets older, time seems to pass more quickly."
+  },
+  {
+    "sentence": "彼の年齢では経験不足が指摘された。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では経験不足【けいけんぶそく】が指摘【してき】された。",
+    "meaning": "Lack of experience was pointed out for his age."
+  },
+  {
+    "sentence": "この割引は特定の年齢層にのみ適用されます。",
+    "sentence_furigana": "この割引【わりびき】は特定【とくてい】の年齢層【ねんれいそう】にのみ適用【てきよう】されます。",
+    "meaning": "This discount only applies to specific age groups."
+  },
+  {
+    "sentence": "彼女は年齢以上に成熟している。",
+    "sentence_furigana": "彼女【かのじょ】は年齢以上【ねんれい いじょう】に成熟【せいじゅく】している。",
+    "meaning": "She is more mature than her age."
+  },
+  {
+    "sentence": "年齢を重ねると、体力的な限界を感じることがある。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねると、体力【たいりょく】的【てき】な限界【げんかい】を感じることがある。",
+    "meaning": "As one gets older, they may feel physical limitations."
+  },
+  {
+    "sentence": "彼の年齢では非常に珍しい才能だ。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では非常【ひじょう】に珍【めずら】しい才能【さいのう】だ。",
+    "meaning": "It is a very rare talent for his age."
+  },
+  {
+    "sentence": "このウェブサイトは全年齢層が利用できます。",
+    "sentence_furigana": "このウェブサイトは全年齢層【ねんれいそう】が利用【りよう】できます。",
+    "meaning": "This website is available to all age groups."
+  },
+  {
+    "sentence": "年齢を重ねることで得られる人生経験は貴重だ。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねることで得【え】られる人生経験【じんせいけいけん】は貴重【きちょう】だ。",
+    "meaning": "Life experience gained with age is valuable."
+  },
+  {
+    "sentence": "彼女は実年齢を言うのをためらった。",
+    "sentence_furigana": "彼女【かのじょ】は実年齢【じつねんれい】を言【い】うのをためらった。",
+    "meaning": "She hesitated to tell her actual age."
+  },
+  {
+    "sentence": "このクラスは全ての年齢の参加者を歓迎します。",
+    "sentence_furigana": "このクラスは全【すべ】ての年齢【ねんれい】の参加者【さんかしゃ】を歓迎【かんげい】します。",
+    "meaning": "This class welcomes participants of all ages."
+  },
+  {
+    "sentence": "年齢を重ねても、チャレンジする心を忘れない。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねても、チャレンジする心【こころ】を忘【わす】れない。",
+    "meaning": "I won't forget my spirit of challenge even as I get older."
+  },
+  {
+    "sentence": "彼の年齢では考えられないほどの落ち着きを持っている。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では考【かんが】えられないほどの落【お】ち着【つ】きを持【も】っている。",
+    "meaning": "He has a level of composure that is unbelievable for his age."
+  },
+  {
+    "sentence": "この制限は、特定の年齢以下の子供たちに適用されます。",
+    "sentence_furigana": "この制限【せいげん】は、特定【とくてい】の年齢以下【ねんれいか】の子供たちに適用【てきよう】されます。",
+    "meaning": "This restriction applies to children under a certain age."
+  },
+  {
+    "sentence": "彼女は年齢の割には非常に若々しく見える。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】の割【わ】りには非常【ひじょう】に若々【わかわ】しく見【み】える。",
+    "meaning": "She looks extremely youthful for her age."
+  },
+  {
+    "sentence": "年齢を重ねるごとに、人生の味わいが深まる。",
+    "sentence_furigana": "年齢【ねんれい】を重【かさ】ねるごとに、人生【じんせい】の味【あじ】わいが深【ふか】まる。",
+    "meaning": "The flavor of life deepens with age."
+  },
+  {
+    "sentence": "彼の年齢では考えられないほど多くの知識を持っている。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】では考【かんが】えられないほど多【おお】くの知識【ちしき】を持【も】っている。",
+    "meaning": "He possesses an amount of knowledge that is unbelievable for his age."
+  }
+]

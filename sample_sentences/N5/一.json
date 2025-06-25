@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "一月一日にお年玉をもらいます。",
+    "sentence_furigana": "一月【いちがつ】一日【ついたち】にお年玉【おとしだま】をもらいます。",
+    "meaning": "I receive New Year's money on January 1st."
+  },
+  {
+    "sentence": "彼は一日中本を読んでいた。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】本【ほん】を読【よ】んでいた。",
+    "meaning": "He was reading books all day long."
+  },
+  {
+    "sentence": "一週間でこの本を読み終えた。",
+    "sentence_furigana": "一週間【いっしゅうかん】でこの本【ほん】を読【よ】み終【お】えた。",
+    "meaning": "I finished reading this book in one week."
+  },
+  {
+    "sentence": "彼女は一日おきにジョギングをする。",
+    "sentence_furigana": "彼女【かのじょ】は一日【いちにち】おきにジョギングをする。",
+    "meaning": "She jogs every other day."
+  },
+  {
+    "sentence": "一年は十二ヶ月です。",
+    "sentence_furigana": "一年【いちねん】は十二ヶ月【じゅうにかげつ】です。",
+    "meaning": "One year has twelve months."
+  },
+  {
+    "sentence": "彼は一人で旅行するのが好きだ。",
+    "sentence_furigana": "彼【かれ】は一人【ひとり】で旅行【りょこう】するのが好【す】きだ。",
+    "meaning": "He likes to travel alone."
+  },
+  {
+    "sentence": "この部屋には窓が一つしかない。",
+    "sentence_furigana": "この部屋【へや】には窓【まど】が一つ【ひとつ】しかない。",
+    "meaning": "There is only one window in this room."
+  },
+  {
+    "sentence": "彼女はクラスで一番背が高い。",
+    "sentence_furigana": "彼女【かのじょ】はクラスで一番【いちばん】背【せ】が高【たか】い。",
+    "meaning": "She is the tallest in the class."
+  },
+  {
+    "sentence": "一度だけ試してみる価値はある。",
+    "sentence_furigana": "一度【いちど】だけ試【ため】してみる価値【かち】はある。",
+    "meaning": "It is worth trying only once."
+  },
+  {
+    "sentence": "彼は一流のシェフだ。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】のシェフだ。",
+    "meaning": "He is a first-class chef."
+  },
+  {
+    "sentence": "一時間後にまた会いましょう。",
+    "sentence_furigana": "一時間後【いちじかんご】にまた会【あ】いましょう。",
+    "meaning": "Let's meet again in one hour."
+  },
+  {
+    "sentence": "彼は一度も嘘をついたことがない。",
+    "sentence_furigana": "彼【かれ】は一度【いちど】も嘘【うそ】をついたことがない。",
+    "meaning": "He has never told a lie."
+  },
+  {
+    "sentence": "一つのミスが大きな問題を引き起こした。",
+    "sentence_furigana": "一【ひと】つのミスが大きな問題【もんだい】を引【ひ】き起【お】こした。",
+    "meaning": "One mistake caused a big problem."
+  },
+  {
+    "sentence": "彼は一瞬で状況を理解した。",
+    "sentence_furigana": "彼【かれ】は一瞬【いっしゅん】で状況【じょうきょう】を理解【りかい】した。",
+    "meaning": "He understood the situation in an instant."
+  },
+  {
+    "sentence": "一度、京都に行ってみたい。",
+    "sentence_furigana": "一度【いちど】、京都【きょうと】に行【い】ってみたい。",
+    "meaning": "I want to go to Kyoto once."
+  },
+  {
+    "sentence": "一日三食きちんと食べる。",
+    "sentence_furigana": "一日【いちにち】三食【さんしょく】きちんと食【た】べる。",
+    "meaning": "I eat three meals a day regularly."
+  },
+  {
+    "sentence": "彼は一言も話さなかった。",
+    "sentence_furigana": "彼【かれ】は一言【ひとこと】も話【はな】さなかった。",
+    "meaning": "He didn't say a word."
+  },
+  {
+    "sentence": "この問題は、一筋縄ではいかない。",
+    "sentence_furigana": "この問題【もんだい】は、一筋縄【ひとすじなわ】ではいかない。",
+    "meaning": "This problem is not straightforward."
+  },
+  {
+    "sentence": "彼は一目惚れした。",
+    "sentence_furigana": "彼【かれ】は一目惚【ひとめぼ】れした。",
+    "meaning": "He fell in love at first sight."
+  },
+  {
+    "sentence": "彼は一刻も早く帰りたいと思っている。",
+    "sentence_furigana": "彼【かれ】は一刻【いっこく】も早【はや】く帰【かえ】りたいと思【おも】っている。",
+    "meaning": "He wants to go home as soon as possible."
+  },
+  {
+    "sentence": "一万円札を崩してください。",
+    "sentence_furigana": "一万円札【いちまんえんさつ】を崩【くず】してください。",
+    "meaning": "Please break a ten thousand yen bill."
+  },
+  {
+    "sentence": "彼は一応、承諾した。",
+    "sentence_furigana": "彼【かれ】は一応【いちおう】、承諾【しょうだく】した。",
+    "meaning": "He agreed, for the time being."
+  },
+  {
+    "sentence": "一つ、質問があります。",
+    "sentence_furigana": "一【ひと】つ、質問【しつもん】があります。",
+    "meaning": "I have one question."
+  },
+  {
+    "sentence": "彼は一匹狼だ。",
+    "sentence_furigana": "彼【かれ】は一匹狼【いっぴきおおかみ】だ。",
+    "meaning": "He is a lone wolf."
+  },
+  {
+    "sentence": "彼は一流大学を卒業した。",
+    "sentence_furigana": "彼【かれ】は一流大学【いちりゅうだいがく】を卒業【そつぎょう】した。",
+    "meaning": "He graduated from a top-tier university."
+  },
+  {
+    "sentence": "彼女は一人娘です。",
+    "sentence_furigana": "彼女【かのじょ】は一人娘【ひとりむすめ】です。",
+    "meaning": "She is an only daughter."
+  },
+  {
+    "sentence": "一年に一度、健康診断を受ける。",
+    "sentence_furigana": "一年【いちねん】に一度【いちど】、健康診断【けんこうしんだん】を受【う】ける。",
+    "meaning": "I have a health checkup once a year."
+  },
+  {
+    "sentence": "彼は一歩も引かない。",
+    "sentence_furigana": "彼【かれ】は一歩【いっぽ】も引【ひ】かない。",
+    "meaning": "He won't budge an inch."
+  },
+  {
+    "sentence": "一時間半後に空港で会いましょう。",
+    "sentence_furigana": "一時間半後【いちじかんはんご】に空港【くうこう】で会【あ】いましょう。",
+    "meaning": "Let's meet at the airport in an hour and a half."
+  },
+  {
+    "sentence": "彼は一日中ゲームをしている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】ゲームをしている。",
+    "meaning": "He's been playing games all day."
+  },
+  {
+    "sentence": "彼は一攫千金を夢見ている。",
+    "sentence_furigana": "彼【かれ】は一攫千金【いっかくせんきん】を夢見【ゆめみ】ている。",
+    "meaning": "He dreams of getting rich quick."
+  },
+  {
+    "sentence": "彼女は一目瞭然で美人だ。",
+    "sentence_furigana": "彼女【かのじょ】は一目瞭然【いちもくりょうぜん】で美人【びじん】だ。",
+    "meaning": "She is obviously beautiful."
+  },
+  {
+    "sentence": "彼は一攫千金を狙っている。",
+    "sentence_furigana": "彼【かれ】は一攫千金【いっかくせんきん】を狙【ねら】っている。",
+    "meaning": "He's aiming for a quick fortune."
+  },
+  {
+    "sentence": "一つの提案があります。",
+    "sentence_furigana": "一【ひと】つの提案【ていあん】があります。",
+    "meaning": "I have one suggestion."
+  },
+  {
+    "sentence": "彼は一寸先は闇だと言った。",
+    "sentence_furigana": "彼【かれ】は一寸先【いっすんさき】は闇【やみ】だと言【い】った。",
+    "meaning": "He said that the future is uncertain."
+  },
+  {
+    "sentence": "一石二鳥を狙う。",
+    "sentence_furigana": "一石二鳥【いっせきにちょう】を狙【ねら】う。",
+    "meaning": "To kill two birds with one stone."
+  },
+  {
+    "sentence": "彼は一流ホテルに泊まった。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】ホテルに泊【と】まった。",
+    "meaning": "He stayed at a first-class hotel."
+  },
+  {
+    "sentence": "彼女は一人で頑張っている。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で頑張【がんば】っている。",
+    "meaning": "She is doing her best on her own."
+  },
+  {
+    "sentence": "一難去ってまた一難。",
+    "sentence_furigana": "一難去【いちなんさ】ってまた一難【いちなん】。",
+    "meaning": "Out of the frying pan, into the fire."
+  },
+  {
+    "sentence": "彼は一日中パソコンに向かっている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】パソコンに向【む】かっている。",
+    "meaning": "He is facing the computer all day long."
+  },
+  {
+    "sentence": "一つだけお願いがあります。",
+    "sentence_furigana": "一【ひと】つだけお願【ねが】いがあります。",
+    "meaning": "I have only one request."
+  },
+  {
+    "sentence": "彼は一目散に逃げ出した。",
+    "sentence_furigana": "彼【かれ】は一目散【いちもくさん】に逃【に】げ出【だ】した。",
+    "meaning": "He ran away as fast as he could."
+  },
+  {
+    "sentence": "一応、確認しておきます。",
+    "sentence_furigana": "一応【いちおう】、確認【かくにん】しておきます。",
+    "meaning": "I'll confirm it just in case."
+  },
+  {
+    "sentence": "彼は一流の技術者だ。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】の技術者【ぎじゅつしゃ】だ。",
+    "meaning": "He is a first-class engineer."
+  },
+  {
+    "sentence": "彼女は一人で映画を見に行った。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で映画【えいが】を見【み】に行【い】った。",
+    "meaning": "She went to see a movie alone."
+  },
+  {
+    "sentence": "一歩間違えると大変なことになる。",
+    "sentence_furigana": "一歩間違【いっぽまちが】えると大変【たいへん】なことになる。",
+    "meaning": "If you take one wrong step, it will be a disaster."
+  },
+  {
+    "sentence": "彼は一日中勉強している。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】勉強【べんきょう】している。",
+    "meaning": "He is studying all day long."
+  },
+  {
+    "sentence": "一つアドバイスさせてください。",
+    "sentence_furigana": "一【ひと】つアドバイスさせてください。",
+    "meaning": "Let me give you one piece of advice."
+  },
+  {
+    "sentence": "彼は一攫千金を企んでいる。",
+    "sentence_furigana": "彼【かれ】は一攫千金【いっかくせんきん】を企【たくら】んでいる。",
+    "meaning": "He is plotting to get rich quick."
+  },
+  {
+    "sentence": "一寸の虫にも五分の魂。",
+    "sentence_furigana": "一寸【いっすん】の虫【むし】にも五分【ごぶ】の魂【たましい】。",
+    "meaning": "Even a small worm has a spirit."
+  },
+  {
+    "sentence": "一石二鳥を狙って行動する。",
+    "sentence_furigana": "一石二鳥【いっせきにちょう】を狙【ねら】って行動【こうどう】する。",
+    "meaning": "Act with the aim of killing two birds with one stone."
+  },
+  {
+    "sentence": "彼は一流レストランで食事をした。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】レストランで食事【しょくじ】をした。",
+    "meaning": "He ate at a first-class restaurant."
+  },
+  {
+    "sentence": "彼女は一人で暮らしている。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で暮【く】らしている。",
+    "meaning": "She lives alone."
+  },
+  {
+    "sentence": "一難去ってまた一難とはこのことだ。",
+    "sentence_furigana": "一難去【いちなんさ】ってまた一難【いちなん】とはこのことだ。",
+    "meaning": "This is what they mean by 'out of the frying pan, into the fire'."
+  },
+  {
+    "sentence": "彼は一日中テレビを見ている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】テレビを見【み】ている。",
+    "meaning": "He is watching TV all day long."
+  },
+  {
+    "sentence": "一つ確認したいことがあります。",
+    "sentence_furigana": "一【ひと】つ確認【かくにん】したいことがあります。",
+    "meaning": "There is one thing I want to confirm."
+  },
+  {
+    "sentence": "彼は一目散に病院へ向かった。",
+    "sentence_furigana": "彼【かれ】は一目散【いちもくさん】に病院【びょういん】へ向【む】かった。",
+    "meaning": "He rushed to the hospital as fast as he could."
+  },
+  {
+    "sentence": "一応、試してみます。",
+    "sentence_furigana": "一応【いちおう】、試【ため】してみます。",
+    "meaning": "I'll try it just in case."
+  },
+  {
+    "sentence": "彼は一流企業に勤めている。",
+    "sentence_furigana": "彼【かれ】は一流企業【いちりゅうきぎょう】に勤【つと】めている。",
+    "meaning": "He works for a top-tier company."
+  },
+  {
+    "sentence": "彼女は一人旅が好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は一人旅【ひとりたび】が好【す】きだ。",
+    "meaning": "She likes traveling alone."
+  },
+  {
+    "sentence": "一歩ずつ着実に進む。",
+    "sentence_furigana": "一歩【いっぽ】ずつ着実【ちゃくじつ】に進【すす】む。",
+    "meaning": "Advance steadily step by step."
+  },
+  {
+    "sentence": "彼は一日中音楽を聴いている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】音楽【おんがく】を聴【き】いている。",
+    "meaning": "He is listening to music all day long."
+  },
+  {
+    "sentence": "一つだけ条件があります。",
+    "sentence_furigana": "一【ひと】つだけ条件【じょうけん】があります。",
+    "meaning": "There is only one condition."
+  },
+  {
+    "sentence": "彼は一攫千金を狙って宝くじを買った。",
+    "sentence_furigana": "彼【かれ】は一攫千金【いっかくせんきん】を狙【ねら】って宝【たから】くじを買【か】った。",
+    "meaning": "He bought a lottery ticket aiming for a quick fortune."
+  },
+  {
+    "sentence": "一寸先も見えない。",
+    "sentence_furigana": "一寸先【いっすんさき】も見【み】えない。",
+    "meaning": "I can't see what the future holds."
+  },
+  {
+    "sentence": "一石二鳥を狙って勉強する。",
+    "sentence_furigana": "一石二鳥【いっせきにちょう】を狙【ねら】って勉強【べんきょう】する。",
+    "meaning": "Study with the aim of killing two birds with one stone."
+  },
+  {
+    "sentence": "彼は一流の料理人を目指している。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】の料理人【りょうりにん】を目【め】指【ざ】している。",
+    "meaning": "He aims to be a first-class chef."
+  },
+  {
+    "sentence": "彼女は一人で悩んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で悩【なや】んでいる。",
+    "meaning": "She is worrying alone."
+  },
+  {
+    "sentence": "一難去ってまた一難で困っている。",
+    "sentence_furigana": "一難去【いちなんさ】ってまた一難【いちなん】で困【こま】っている。",
+    "meaning": "I'm troubled because it's one problem after another."
+  },
+  {
+    "sentence": "彼は一日中寝ていた。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】寝【ね】ていた。",
+    "meaning": "He was sleeping all day long."
+  },
+  {
+    "sentence": "一つ確認させてください。",
+    "sentence_furigana": "一【ひと】つ確認【かくにん】させてください。",
+    "meaning": "Please let me confirm one thing."
+  },
+  {
+    "sentence": "彼は一目散に家に帰った。",
+    "sentence_furigana": "彼【かれ】は一目散【いちもくさん】に家【いえ】に帰【かえ】った。",
+    "meaning": "He rushed home."
+  },
+  {
+    "sentence": "一応、許可を取っておきます。",
+    "sentence_furigana": "一応【いちおう】、許可【きょか】を取【と】っておきます。",
+    "meaning": "I'll get permission just in case."
+  },
+  {
+    "sentence": "彼は一流ブランドの服を着ている。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】ブランドの服【ふく】を着【き】ている。",
+    "meaning": "He wears clothes from a top-tier brand."
+  },
+  {
+    "sentence": "彼女は一人で星空を眺めていた。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で星空【ほしぞら】を眺【なが】めていた。",
+    "meaning": "She was gazing at the starry sky alone."
+  },
+  {
+    "sentence": "一歩間違えば事故につながる。",
+    "sentence_furigana": "一歩間違【いっぽまちが】えば事故【じこ】につながる。",
+    "meaning": "One wrong step can lead to an accident."
+  },
+  {
+    "sentence": "彼は一日中ゲームばかりしている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】ゲームばかりしている。",
+    "meaning": "He does nothing but play games all day long."
+  },
+  {
+    "sentence": "一つだけ約束してください。",
+    "sentence_furigana": "一【ひと】つだけ約束【やくそく】してください。",
+    "meaning": "Please promise me just one thing."
+  },
+  {
+    "sentence": "彼は一攫千金を夢見てギャンブルに手を出した。",
+    "sentence_furigana": "彼【かれ】は一攫千金【いっかくせんきん】を夢見【ゆめみ】てギャンブルに手【て】を出【だ】した。",
+    "meaning": "Dreaming of getting rich quick, he got involved in gambling."
+  },
+  {
+    "sentence": "一寸先も見えない不安を感じている。",
+    "sentence_furigana": "一寸先【いっすんさき】も見【み】えない不安【ふあん】を感【かん】じている。",
+    "meaning": "I feel anxious because I can't see what the future holds."
+  },
+  {
+    "sentence": "一石二鳥を狙って資格を取る。",
+    "sentence_furigana": "一石二鳥【いっせきにちょう】を狙【ねら】って資格【しかく】を取【と】る。",
+    "meaning": "Get a qualification with the aim of killing two birds with one stone."
+  },
+  {
+    "sentence": "彼は一流ブランド品を身につけている。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】ブランド品【ひん】を身【み】につけている。",
+    "meaning": "He wears top-tier brand items."
+  },
+  {
+    "sentence": "彼女は一人で静かに過ごすのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で静【しず】かに過【す】ごすのが好【す】きだ。",
+    "meaning": "She likes to spend time quietly alone."
+  },
+  {
+    "sentence": "一難去ってまた一難で、もううんざりだ。",
+    "sentence_furigana": "一難去【いちなんさ】ってまた一難【いちなん】で、もううんざりだ。",
+    "meaning": "I'm fed up with one problem after another."
+  },
+  {
+    "sentence": "彼は一日中ゲームばかりしている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】ゲームばかりしている。",
+    "meaning": "He does nothing but play games all day long."
+  },
+  {
+    "sentence": "一つだけ教えてください。",
+    "sentence_furigana": "一【ひと】つだけ教【おし】えてください。",
+    "meaning": "Please tell me just one thing."
+  },
+  {
+    "sentence": "彼は一目散に彼女の元へ駆け寄った。",
+    "sentence_furigana": "彼【かれ】は一目散【いちもくさん】に彼女【かのじょ】の元【もと】へ駆【か】け寄【よ】った。",
+    "meaning": "He rushed to her as fast as he could."
+  },
+  {
+    "sentence": "一応、確認のため連絡しました。",
+    "sentence_furigana": "一応【いちおう】、確認【かくにん】のため連絡【れんらく】しました。",
+    "meaning": "I contacted you just to confirm."
+  },
+  {
+    "sentence": "彼は一流の腕を持っている。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】の腕【うで】を持【も】っている。",
+    "meaning": "He has first-class skills."
+  },
+  {
+    "sentence": "彼女は一人でコンサートに行った。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】でコンサートに行【い】った。",
+    "meaning": "She went to the concert alone."
+  },
+  {
+    "sentence": "一歩引いて全体を見る。",
+    "sentence_furigana": "一歩引【いっぽひ】いて全体【ぜんたい】を見【み】る。",
+    "meaning": "Take a step back and look at the whole picture."
+  },
+  {
+    "sentence": "彼は一日中ぼんやりしている。",
+    "sentence_furigana": "彼【かれ】は一日中【いちにちじゅう】ぼんやりしている。",
+    "meaning": "He is spacing out all day long."
+  },
+  {
+    "sentence": "一つだけ秘密を教えます。",
+    "sentence_furigana": "一【ひと】つだけ秘密【ひみつ】を教【おし】えます。",
+    "meaning": "I'll tell you just one secret."
+  },
+  {
+    "sentence": "彼は一攫千金を夢見て株を買った。",
+    "sentence_furigana": "彼【かれ】は一攫千金【いっかくせんきん】を夢見【ゆめみ】て株【かぶ】を買【か】った。",
+    "meaning": "Dreaming of getting rich quick, he bought stocks."
+  },
+  {
+    "sentence": "一寸先は闇だと感じている。",
+    "sentence_furigana": "一寸先【いっすんさき】は闇【やみ】だと感【かん】じている。",
+    "meaning": "I feel that the future is uncertain."
+  },
+  {
+    "sentence": "一石二鳥を狙って運動する。",
+    "sentence_furigana": "一石二鳥【いっせきにちょう】を狙【ねら】って運動【うんどう】する。",
+    "meaning": "Exercise with the aim of killing two birds with one stone."
+  },
+  {
+    "sentence": "彼は一流ブランドの車に乗っている。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】ブランドの車【くるま】に乗【の】っている。",
+    "meaning": "He drives a top-tier brand car."
+  },
+  {
+    "sentence": "彼女は一人で考え事をしている。",
+    "sentence_furigana": "彼女【かのじょ】は一人【ひとり】で考【かんが】え事【ごと】をしている。",
+    "meaning": "She is pondering alone."
+  }
+]

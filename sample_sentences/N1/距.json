@@ -1,0 +1,577 @@
+[
+  {
+    "sentence": "この馬は非常に足が速く、長距離を楽に走ることができます。",
+    "sentence_furigana": "この馬【うま】は非常【ひじょう】に足【あし】が速【はや】く、長距離【ちょうきょり】を楽【らく】に走【はし】ることができます。",
+    "meaning": "This horse is very fast and can easily run long distances."
+  },
+  {
+    "sentence": "二地点間の距離を正確に測定する必要がある。",
+    "sentence_furigana": "二地点間【にてんかん】の距離【きょり】を正確【せいかく】に測定【そくてい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to accurately measure the distance between two points."
+  },
+  {
+    "sentence": "彼の家は駅からかなりの距離がある。",
+    "sentence_furigana": "彼【かれ】の家【いえ】は駅【えき】からかなりの距離【きょり】がある。",
+    "meaning": "His house is quite a distance from the station."
+  },
+  {
+    "sentence": "その計画はまだ実現から程遠い。",
+    "sentence_furigana": "その計画【けいかく】はまだ実現【じつげん】から程遠【ほどとお】い。",
+    "meaning": "That plan is still far from being realized."
+  },
+  {
+    "sentence": "鳥の飛距離は風向きに大きく影響される。",
+    "sentence_furigana": "鳥【とり】の飛距離【ひきょり】は風向【ふうこう】きに大【おお】きく影響【えいきょう】される。",
+    "meaning": "The flight distance of birds is greatly affected by the wind direction."
+  },
+  {
+    "sentence": "都市部と郊外では、物の値段に相当な隔たりがある。",
+    "sentence_furigana": "都市部【としぶ】と郊外【こうがい】では、物【もの】の値段【ねだん】に相当【そうとう】な隔【へだ】たりがある。",
+    "meaning": "There is a considerable gap in prices between urban and suburban areas."
+  },
+  {
+    "sentence": "ゴールまであとわずかだが、まだ距離がある。",
+    "sentence_furigana": "ゴールまであとわずかだが、まだ距離【きょり】がある。",
+    "meaning": "It's only a little further to the goal, but there's still distance to cover."
+  },
+  {
+    "sentence": "その事故は彼に深い心の傷を残した。",
+    "sentence_furigana": "その事故【じこ】は彼【かれ】に深【ふか】い心【こころ】の傷【きず】を残【のこ】した。",
+    "meaning": "The accident left him with deep emotional scars."
+  },
+  {
+    "sentence": "そのニュースを聞いて、彼は大きく落胆した。",
+    "sentence_furigana": "そのニュースを聞【き】いて、彼【かれ】は的大【おお】きく落胆【らくたん】した。",
+    "meaning": "Hearing the news, he was greatly disappointed."
+  },
+  {
+    "sentence": "馬の関節には距骨という骨がある。",
+    "sentence_furigana": "馬【うま】の関節【かんせつ】には距骨【きょこつ】という骨【ほね】がある。",
+    "meaning": "There is a bone called the fetlock bone in a horse's joint."
+  },
+  {
+    "sentence": "その距離を走破するには、かなりの体力が必要だ。",
+    "sentence_furigana": "その距離【きょり】を走破【そうは】するには、かなりの体力【たいりょく】が必要【ひつよう】だ。",
+    "meaning": "Covering that distance requires considerable stamina."
+  },
+  {
+    "sentence": "二人の意見にはまだ大きな隔たりがある。",
+    "sentence_furigana": "二人【ふたり】の意見【いけん】にはまだ大【おお】きな隔【へだ】たりがある。",
+    "meaning": "There is still a big difference between their opinions."
+  },
+  {
+    "sentence": "その伝説は数百年前に遡る。",
+    "sentence_furigana": "その伝説【でんせつ】は数百年【すうひゃくねん】前【まえ】に遡【さかのぼ】る。",
+    "meaning": "That legend dates back several hundred years."
+  },
+  {
+    "sentence": "距離を置くことで、関係を良好に保つことができる。",
+    "sentence_furigana": "距離【きょり】を置【お】くことで、関係【かんけい】を良好【りょうこう】に保【たも】つことができる。",
+    "meaning": "By keeping a distance, you can maintain a good relationship."
+  },
+  {
+    "sentence": "彼らは目標達成に向けて、あと一歩の距離にいる。",
+    "sentence_furigana": "彼【かれ】ら目標達成【もくひょうたっせい】向【む】けて、あと一歩【いっぽ】の距離【きょり】にいる。",
+    "meaning": "They are just one step away from achieving their goal."
+  },
+  {
+    "sentence": "そのスピーチは聴衆の心に深く響いた。",
+    "sentence_furigana": "そのスピーチは聴衆【ちょうしゅう】の心【こころ】に深【ふか】く響【ひび】いた。",
+    "meaning": "The speech deeply resonated with the audience."
+  },
+  {
+    "sentence": "この問題は解決までにまだ時間がかかりそうだ。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】までにまだ時間【じかん】がかかりそうだ。",
+    "meaning": "This problem seems like it will still take time to solve."
+  },
+  {
+    "sentence": "遠距離恋愛を成功させるのは難しい。",
+    "sentence_furigana": "遠距離恋愛【えんきょりれんあい】を成功【せいこう】させるのは難【むずか】しい。",
+    "meaning": "It is difficult to make a long-distance relationship successful."
+  },
+  {
+    "sentence": "彼の才能は他の選手とは一線を画している。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は他【た】の選手【せんしゅ】とは一線【いっせん】を画【か】している。",
+    "meaning": "His talent sets him apart from other players."
+  },
+  {
+    "sentence": "このプロジェクトはまだ初期段階にあり、完成までにはかなりの距離がある。",
+    "sentence_furigana": "このプロジェクトはまだ初期段階【しょきだんかい】にあり、完成【かんせい】までにはかなりの距離【きょり】がある。",
+    "meaning": "This project is still in its early stages, and there's a considerable distance to go until completion."
+  },
+  {
+    "sentence": "馬の脚の距部分に装具を装着する。",
+    "sentence_furigana": "馬【うま】の脚【あし】の距部分【きょぶぶん】に装具【そうぐ】を装着【そうちゃく】する。",
+    "meaning": "Equipment is attached to the fetlock area of a horse's leg."
+  },
+  {
+    "sentence": "山頂までの距離はまだ遠い。",
+    "sentence_furigana": "山頂【さんちょう】までの距離【きょり】はまだ遠【とお】い。",
+    "meaning": "The distance to the summit is still far."
+  },
+  {
+    "sentence": "その知らせは私に衝撃を与えた。",
+    "sentence_furigana": "その知【し】らせは私【わたし】に衝撃【しょうげき】を与【あた】えた。",
+    "meaning": "That news shocked me."
+  },
+  {
+    "sentence": "人類の歴史は長い年月を経てきた。",
+    "sentence_furigana": "人類【じんるい】の歴史【れきし】は長【なが】い年月【ねんげつ】を経【へ】てきた。",
+    "meaning": "Human history spans many years."
+  },
+  {
+    "sentence": "この作品は作者の初期の頃のスタイルとは隔たりがある。",
+    "sentence_furigana": "この作品【さくひん】は作者【さくしゃ】の初期の頃【しょきのころ】のスタイルとは隔【へだ】たりがある。",
+    "meaning": "This work is distinct from the author's early style."
+  },
+  {
+    "sentence": "次の目的地まではかなりの距離がある。",
+    "sentence_furigana": "次【つぎ】の目的地【もくてきち】まではかなりの距離【きょり】がある。",
+    "meaning": "There is a considerable distance to the next destination."
+  },
+  {
+    "sentence": "彼はその難問の解決に大きく貢献した。",
+    "sentence_furigana": "彼【かれ】はその難問【なんもん】の解決【かいけつ】に大【おお】きく貢献【こうけん】した。",
+    "meaning": "He contributed significantly to solving that difficult problem."
+  },
+  {
+    "sentence": "この状況はまだ楽観できる段階ではない。",
+    "sentence_furigana": "この状況【じょうきょう】はまだ楽観【らっかん】できる段階【だんかい】ではない。",
+    "meaning": "This situation is not yet at a stage where we can be optimistic."
+  },
+  {
+    "sentence": "その小説は読者に深い感銘を与えた。",
+    "sentence_furigana": "その小説【しょうせつ】は読者【どくしゃ】に深【ふか】い感銘【かんめい】を与【あた】えた。",
+    "meaning": "The novel deeply impressed the readers."
+  },
+  {
+    "sentence": "距離を置くことで、客観的な視点を持つことができる。",
+    "sentence_furigana": "距離【きょり】を置【お】くことで、客観的【きゃっかんてき】な視点【してん】を持【も】つことができる。",
+    "meaning": "By keeping a distance, one can gain an objective perspective."
+  },
+  {
+    "sentence": "この競技では、どれだけ遠くまで跳べるかが勝負を分ける。",
+    "sentence_furigana": "この競技【きょうぎ】では、どれだけ遠【とお】くまで跳【と】べるかが勝負【しょうぶ】を分【わ】ける。",
+    "meaning": "In this competition, how far you can jump determines the winner."
+  },
+  {
+    "sentence": "その政策は国民の生活から大きく乖離している。",
+    "sentence_furigana": "その政策【せいさく】は国民【こくみん】の生活【せいかつ】から大【おお】きく乖離【かいり】している。",
+    "meaning": "That policy is far removed from the lives of the citizens."
+  },
+  {
+    "sentence": "彼がゴールに到達するまで、あとわずかの距離だ。",
+    "sentence_furigana": "彼【かれ】がゴールに到達【とうたつ】するまで、あとわずかの距離【きょり】だ。",
+    "meaning": "It's just a short distance until he reaches the goal."
+  },
+  {
+    "sentence": "その事件の真相にはまだ隔たりがある。",
+    "sentence_furigana": "その事件【じけん】の真相【しんそう】にはまだ隔【へだ】たりがある。",
+    "meaning": "There is still a gap in understanding the truth of that incident."
+  },
+  {
+    "sentence": "彼らは互いに深い尊敬の念を抱いている。",
+    "sentence_furigana": "彼【かれ】ら互【たが】いに深【ふか】い尊敬【そんけい】の念【ねん】を抱【いだ】いている。",
+    "meaning": "They hold deep respect for each other."
+  },
+  {
+    "sentence": "この距離を歩くのは大変だ。",
+    "sentence_furigana": "この距離【きょり】を歩【ある】くのは大変【たいへん】だ。",
+    "meaning": "It's tough to walk this distance."
+  },
+  {
+    "sentence": "その芸術作品は見る者に深い感動を与えた。",
+    "sentence_furigana": "その芸術作品【げいじゅつさくひん】は見る者【みるもの】に深【ふか】い感動【かんどう】を与【あた】えた。",
+    "meaning": "The artwork deeply moved those who saw it."
+  },
+  {
+    "sentence": "彼は長年の努力の末、ついに目標を達成した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の努力【どりょく】の末【すえ】、ついに目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "After many years of effort, he finally achieved his goal."
+  },
+  {
+    "sentence": "その地域は都市部からかなりの距離がある。",
+    "sentence_furigana": "その地域【ちいき】は都市部【としぶ】からかなりの距離【きょり】がある。",
+    "meaning": "That area is quite a distance from the city center."
+  },
+  {
+    "sentence": "遠い昔から伝わる伝説。",
+    "sentence_furigana": "遠【とお】い昔【むかし】から伝【つた】わる伝説【でんせつ】。",
+    "meaning": "A legend passed down from ancient times."
+  },
+  {
+    "sentence": "彼の発言は、我々の考えとは大きく異なっている。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、我々【われわれ】の考【かんが】えとは大【おお】きく異【こと】なっている。",
+    "meaning": "His remarks are greatly different from our way of thinking."
+  },
+  {
+    "sentence": "このレースは長距離競技として知られている。",
+    "sentence_furigana": "このレースは長距離競技【ちょうきょりきょうぎ】として知【し】られている。",
+    "meaning": "This race is known as a long-distance competition."
+  },
+  {
+    "sentence": "その出来事は彼らの関係に亀裂を生じさせた。",
+    "sentence_furigana": "その出来事【できごと】は彼【かれ】ら関係【かんけい】に亀裂【きれつ】を生【しょう】じさせた。",
+    "meaning": "That incident caused a rift in their relationship."
+  },
+  {
+    "sentence": "宇宙の広大さの前では、我々の存在は取るに足らない。",
+    "sentence_furigana": "宇宙【うちゅう】の広大【こうだい】さの前【まえ】では、我々【われわれ】の存在【そんざい】は取【と】るに足【た】らない。",
+    "meaning": "In the face of the vastness of the universe, our existence is insignificant."
+  },
+  {
+    "sentence": "彼は目標達成まであとわずかの距離まで迫っていた。",
+    "sentence_furigana": "彼【かれ】は目標達成【もくひょうたっせい】まであとわずかの距離【きょり】まで迫【せま】っていた。",
+    "meaning": "He was very close to achieving his goal."
+  },
+  {
+    "sentence": "その馬の四肢の関節の構造を詳しく調べる。",
+    "sentence_furigana": "その馬【うま】の四肢【しし】の関節【かんせつ】の構造【こうぞう】を詳【くわ】しく調【しら】べる。",
+    "meaning": "To carefully examine the structure of the joints in the horse's limbs."
+  },
+  {
+    "sentence": "その情報が私の疑問を解消するのに役立った。",
+    "sentence_furigana": "その情報【じょうほう】が私【わたし】の疑問【ぎもん】を解消【かいしょう】するのに役立【やくだ】った。",
+    "meaning": "That information helped to resolve my doubts."
+  },
+  {
+    "sentence": "文化的な隔たりを乗り越えることが重要だ。",
+    "sentence_furigana": "文化的【ぶんかてき】な隔【へだ】たりを乗【の】り越【こ】えることが重要【じゅうよう】だ。",
+    "meaning": "It is important to overcome cultural differences."
+  },
+  {
+    "sentence": "ゴールまで残りわずかだが、まだ距離は十分にある。",
+    "sentence_furigana": "ゴールまで残【のこ】りわずかだが、まだ距離【きょり】は十分【じゅうぶん】にある。",
+    "meaning": "There is only a little left to the goal, but there is still plenty of distance."
+  },
+  {
+    "sentence": "彼はそのプロジェクトの成功に不可欠な人物だ。",
+    "sentence_furigana": "彼【かれ】はそのプロジェクトの成功【せいこう】に不可欠【ふかけつ】な人物【じんぶつ】だ。",
+    "meaning": "He is an indispensable person for the success of that project."
+  },
+  {
+    "sentence": "長距離走は忍耐力が求められる。",
+    "sentence_furigana": "長距離走【ちょうきょりそう】は忍耐力【にんたいりょく】が求【もと】められる。",
+    "meaning": "Long-distance running requires endurance."
+  },
+  {
+    "sentence": "その言葉は彼に深い悲しみをもたらした。",
+    "sentence_furigana": "その言葉【ことば】は彼【かれ】に深【ふか】い悲【かな】しみをもたらした。",
+    "meaning": "Those words brought him deep sadness."
+  },
+  {
+    "sentence": "彼らの間にはまだ大きな距離がある。",
+    "sentence_furigana": "彼【かれ】ら間【あいだ】にはまだ大【おお】きな距離【きょり】がある。",
+    "meaning": "There is still a great distance between them."
+  },
+  {
+    "sentence": "この歴史的な建造物は長い年月を経てもなおその姿を保っている。",
+    "sentence_furigana": "この歴史的【れきしてき】な建造物【けんぞうぶつ】は長【なが】い年月【ねんげつ】を経【へ】てもなおその姿【すがた】を保【たも】っている。",
+    "meaning": "This historical building still retains its form despite the passage of many years."
+  },
+  {
+    "sentence": "その知らせは彼を大いに勇気づけた。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】を大【おお】いに勇【ゆう】気づけた。",
+    "meaning": "That news greatly encouraged him."
+  },
+  {
+    "sentence": "その作家は遠い昔の出来事を生き生きと描写した。",
+    "sentence_furigana": "その作家【さっか】は遠【とお】い昔【むかし】の出来事【できごと】を生き生きと描写【びょうしゃ】した。",
+    "meaning": "The author vividly depicted events from the distant past."
+  },
+  {
+    "sentence": "目標までの距離はまだ半分にも満たない。",
+    "sentence_furigana": "目標【もくひょう】までの距離【きょり】はまだ半分【はんぶん】にも満【み】たない。",
+    "meaning": "The distance to the goal is not even half yet."
+  },
+  {
+    "sentence": "この新しい技術は、従来の技術とは一線を画す。",
+    "sentence_furigana": "この新【あたら】しい技術【ぎじゅつ】は、従来【じゅうらい】の技術【ぎじゅつ】とは一線【いっせん】を画【か】す。",
+    "meaning": "This new technology is distinct from conventional technology."
+  },
+  {
+    "sentence": "彼の話は私の想像とはかけ離れていた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は私【わたし】の想像【そうぞう】とはかけ離【はな】れていた。",
+    "meaning": "His story was far removed from my imagination."
+  },
+  {
+    "sentence": "その競技では、飛距離を競う。",
+    "sentence_furigana": "その競技【きょうぎ】では、飛距離【ひきょり】を競【きそ】う。",
+    "meaning": "In that competition, they compete in distance."
+  },
+  {
+    "sentence": "その法律は施行から数年を経ている。",
+    "sentence_furigana": "その法律【ほうりつ】は施行【しこう】から数年【すうねん】を経【へ】ている。",
+    "meaning": "Several years have passed since that law was enacted."
+  },
+  {
+    "sentence": "彼らの間には言葉にできないほどの隔たりがあった。",
+    "sentence_furigana": "彼【かれ】ら間【あいだ】には言葉【ことば】にできないほどの隔【へだ】たりがあった。",
+    "meaning": "There was an ineffable distance between them."
+  },
+  {
+    "sentence": "この距離を走ることは私にとって大きな挑戦です。",
+    "sentence_furigana": "この距離【きょり】を走【はし】ることは私【わたし】にとって大【おお】きな挑戦【ちょうせん】です。",
+    "meaning": "Running this distance is a great challenge for me."
+  },
+  {
+    "sentence": "その出来事は彼に深い後悔の念を残した。",
+    "sentence_furigana": "その出来事【できごと】は彼【かれ】に深【ふか】い後悔【こうかい】の念【ねん】を残【のこ】した。",
+    "meaning": "That event left him with deep regret."
+  },
+  {
+    "sentence": "私たちは目標達成まであと少しの距離です。",
+    "sentence_furigana": "我々【われわれ】は目標達成【もくひょうたっせい】まであと少【すこ】しの距離【きょり】です。",
+    "meaning": "We are a little distance away from achieving our goal."
+  },
+  {
+    "sentence": "その地域は交通の便が悪く、都市部から隔絶されている。",
+    "sentence_furigana": "その地域【ちいき】は交通【こうつう】の便【べん】が悪【わる】く、都市部【としぶ】から隔絶【かくぜつ】されている。",
+    "meaning": "That area has poor transportation access and is isolated from the urban areas."
+  },
+  {
+    "sentence": "馬の fetlock 関節の怪我は注意が必要だ。",
+    "sentence_furigana": "馬【うま】の fetlock 関節【かんせつ】の怪我【けが】は注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Injuries to the fetlock joint of a horse require caution."
+  },
+  {
+    "sentence": "その講演は聴衆に深い洞察を与えた。",
+    "sentence_furigana": "その講演【こうえん】は聴衆【ちょうしゅう】に深【ふか】い洞察【どうさつ】を与【あた】えた。",
+    "meaning": "The lecture provided the audience with deep insight."
+  },
+  {
+    "sentence": "この問題の解決にはまだ時間がかかるだろう。",
+    "sentence_furigana": "この問題【もんだい】の解決【かいけつ】にはまだ時間【じかん】がかかるだろう。",
+    "meaning": "It will likely take more time to solve this problem."
+  },
+  {
+    "sentence": "遠距離恋愛は信頼関係が重要となる。",
+    "sentence_furigana": "遠距離恋愛【えんきょりれんあい】は信頼関係【しんらいかんけい】が重要【じゅうよう】となる。",
+    "meaning": "Trust is important in a long-distance relationship."
+  },
+  {
+    "sentence": "彼らの見解は一般的なものとはかけ離れている。",
+    "sentence_furigana": "彼【かれ】ら見解【けんかい】は一般的【いっぱんてき】なものとはかけ離【はな】れている。",
+    "meaning": "Their views are far removed from the general public's."
+  },
+  {
+    "sentence": "そのチームは長距離に強い。",
+    "sentence_furigana": "そのチームは長距離【ちょうきょり】に強【つよ】い。",
+    "meaning": "That team is strong in long distances."
+  },
+  {
+    "sentence": "二人の間には深い溝ができてしまった。",
+    "sentence_furigana": "二人【ふたり】の間【あいだ】には深【ふか】い溝【みぞ】ができてしまった。",
+    "meaning": "A deep rift has formed between them."
+  },
+  {
+    "sentence": "この課題を克服するには、まだ大きな距離がある。",
+    "sentence_furigana": "この課題【かだい】を克服【こくふく】するには、まだ大【おお】きな距離【きょり】がある。",
+    "meaning": "There is still a long way to go to overcome this challenge."
+  },
+  {
+    "sentence": "彼はその困難な状況を乗り越えるために全力を尽くした。",
+    "sentence_furigana": "彼【かれ】はその困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えるために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "He did his best to overcome that difficult situation."
+  },
+  {
+    "sentence": "その距離は私たちの想像をはるかに超えていた。",
+    "sentence_furigana": "その距離【きょり】は我々【われわれ】の想像【そうぞう】をはるかに超【こ】えていた。",
+    "meaning": "That distance far exceeded our imagination."
+  },
+  {
+    "sentence": "彼がこの地位に到達するまでには、長い距離があった。",
+    "sentence_furigana": "彼【かれ】がこの地位【ちい】に到達【とうたつ】するまでには、長【なが】い距離【きょり】があった。",
+    "meaning": "There was a long journey for him to reach this position."
+  },
+  {
+    "sentence": "その出来事は彼らの関係に深い影響を与えた。",
+    "sentence_furigana": "その出来事【できごと】は彼【かれ】ら関係【かんけい】に深【ふか】い影響【えいきょう】を与【あた】えた。",
+    "meaning": "That event had a profound impact on their relationship."
+  },
+  {
+    "sentence": "彼の才能は他の若手選手とは一線を画している。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は他【た】の若手選手【わかてせんしゅ】とは一線【いっせん】を画【か】している。",
+    "meaning": "His talent sets him apart from other young players."
+  },
+  {
+    "sentence": "その距離を走破するためには特別な訓練が必要だ。",
+    "sentence_furigana": "その距離【きょり】を走破【そうは】するためには特別【とくべつ】な訓練【くんれん】が必要【ひつよう】だ。",
+    "meaning": "Special training is required to cover that distance."
+  },
+  {
+    "sentence": "その地域は文明から遠く隔絶されている。",
+    "sentence_furigana": "その地域【ちいき】は文明【ぶんめい】から遠【とお】く隔絶【かくぜつ】されている。",
+    "meaning": "That region is far removed from civilization."
+  },
+  {
+    "sentence": "彼の成功は偶然ではなく、長年の努力の結果だ。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】は偶然【ぐうぜん】ではなく、長年【ながねん】の努力【どりょく】の結果【けっか】だ。",
+    "meaning": "His success is not accidental but the result of many years of effort."
+  },
+  {
+    "sentence": "二つの国の間には政治的な隔たりが大きい。",
+    "sentence_furigana": "二【ふた】つの国【くに】の間【あいだ】には政治的【せいじてき】な隔【へだ】たりが大【おお】きい。",
+    "meaning": "There is a large political divide between the two countries."
+  },
+  {
+    "sentence": "その距離を走破するには、相当な覚悟が必要だ。",
+    "sentence_furigana": "その距離【きょり】を走破【そうは】するには、相当【そうとう】な覚悟【かくご】が必要【ひつよう】だ。",
+    "meaning": "Considerable resolve is necessary to cover that distance."
+  },
+  {
+    "sentence": "その知らせは彼に大きな喜びをもたらした。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】に大【おお】きな喜【よろこ】びをもたらした。",
+    "meaning": "That news brought him great joy."
+  },
+  {
+    "sentence": "目標達成まであと少しだが、まだ距離を置けない。",
+    "sentence_furigana": "目標達成【もくひょうたっせい】まであと少【すこ】しだが、まだ距離【きょり】を置【お】けない。",
+    "meaning": "It's almost time to achieve the goal, but we can't let our guard down yet."
+  },
+  {
+    "sentence": "彼らの関係は時とともに深まっていった。",
+    "sentence_furigana": "彼【かれ】ら関係【かんけい】は時【とき】とともに深【ふか】まっていった。",
+    "meaning": "Their relationship deepened over time."
+  },
+  {
+    "sentence": "その馬の飛節（距）はよく発達している。",
+    "sentence_furigana": "その馬【うま】の飛節【ひせつ】（距【きょ】）はよく発達【はったつ】している。",
+    "meaning": "The fetlock of that horse is well-developed."
+  },
+  {
+    "sentence": "この距離を走りきるためには、強い意志が必要だ。",
+    "sentence_furigana": "この距離【きょり】を走【はし】りきるためには、強【つよ】い意志【いし】が必要【ひつよう】だ。",
+    "meaning": "A strong will is needed to run this distance to the end."
+  },
+  {
+    "sentence": "彼が提案した解決策は、現状とは隔たりがあった。",
+    "sentence_furigana": "彼【かれ】が提案【ていあん】した解決策【かいけつさく】は、現状【げんじょう】とは隔【へだ】たりがあった。",
+    "meaning": "The solution he proposed was far from the current situation."
+  },
+  {
+    "sentence": "その知らせは彼を深く安心させた。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】を深【ふか】く安心【あんしん】させた。",
+    "meaning": "That news greatly reassured him."
+  },
+  {
+    "sentence": "この長距離移動は非常に疲れる。",
+    "sentence_furigana": "この長距離移動【ちょうきょりいどう】は非常【ひじょう】に疲【つか】れる。",
+    "meaning": "This long-distance travel is very tiring."
+  },
+  {
+    "sentence": "その計画は当初の予定から大きく遅れている。",
+    "sentence_furigana": "その計画【けいかく】は当初【とうしょ】の予定【よてい】から大【おお】きく遅【おく】れている。",
+    "meaning": "That plan is significantly delayed from the initial schedule."
+  },
+  {
+    "sentence": "この距離を一人で歩くのは不安だ。",
+    "sentence_furigana": "この距離【きょり】を一人【ひとり】で歩【ある】くのは不安【ふあん】だ。",
+    "meaning": "I'm anxious about walking this distance alone."
+  },
+  {
+    "sentence": "彼らの間にあった隔たりは、時間をかけて縮まった。",
+    "sentence_furigana": "彼【かれ】ら間【あいだ】にあった隔【へだ】たりは、時間【じかん】をかけて縮【ちぢ】まった。",
+    "meaning": "The distance between them narrowed over time."
+  },
+  {
+    "sentence": "その成果は、予想していた距離をはるかに超えていた。",
+    "sentence_furigana": "その成果【せいか】は、予想【よそう】していた距離【きょり】をはるかに超【こ】えていた。",
+    "meaning": "The results far exceeded the expected distance."
+  },
+  {
+    "sentence": "彼が成功するまでには、まだ長い距離があるだろう。",
+    "sentence_furigana": "彼【かれ】が成功【せいこう】するまでには、まだ長【なが】い距離【きょり】があるだろう。",
+    "meaning": "There will likely still be a long way to go until he succeeds."
+  },
+  {
+    "sentence": "その事件は社会に深い衝撃を与えた。",
+    "sentence_furigana": "その事件【じけん】は社会【しゃかい】に深【ふか】い衝撃【しょうげき】を与【あた】えた。",
+    "meaning": "That incident caused a deep shock to society."
+  },
+  {
+    "sentence": "彼の進歩は目覚ましく、他の追随を許さない。",
+    "sentence_furigana": "彼【かれ】の進歩【しんぽ】は目覚【めざ】ましく、他【た】の追随【ついずい】を許【ゆる】さない。",
+    "meaning": "His progress is remarkable and leaves others far behind."
+  },
+  {
+    "sentence": "この距離を走破するには、特殊なシューズが必要だ。",
+    "sentence_furigana": "この距離【きょり】を走破【そうは】するには、特殊【とくしゅ】なシューズが必要【ひつよう】だ。",
+    "meaning": "Special shoes are needed to cover this distance."
+  },
+  {
+    "sentence": "その哲学は人間の存在の本質に迫る。",
+    "sentence_furigana": "その哲学【てつがく】は人間【にんげん】の存在【そんざい】の本質【ほんしつ】に迫【せま】る。",
+    "meaning": "That philosophy approaches the essence of human existence."
+  },
+  {
+    "sentence": "この問題を解決するには、あと一歩の距離だ。",
+    "sentence_furigana": "この問題【もんだい】を解決【かいけつ】するには、あと一歩【いっぽ】の距離【きょり】だ。",
+    "meaning": "It's just one step away from solving this problem."
+  },
+  {
+    "sentence": "彼の発言は事実から大きく隔たっている。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は事実【じじつ】から大【おお】きく隔【へだ】たっている。",
+    "meaning": "His statement is far from the truth."
+  },
+  {
+    "sentence": "その知らせは彼に深い喜びと感動をもたらした。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】に深【ふか】い喜【よろこ】びと感動【かんどう】をもたらした。",
+    "meaning": "That news brought him deep joy and emotion."
+  },
+  {
+    "sentence": "この長距離旅行は私の人生観を変えた。",
+    "sentence_furigana": "この長距離旅行【ちょうきょりりょこう】は私【わたし】の人生観【じんせいかん】を変【か】えた。",
+    "meaning": "This long-distance journey changed my outlook on life."
+  },
+  {
+    "sentence": "その作家の作風は、初期の頃と比べて大きく変化した。",
+    "sentence_furigana": "その作家【さっか】の作風【さくふう】は、初期の頃【しょきのころ】と比【くら】べて大【おお】きく変化【へんか】した。",
+    "meaning": "The author's style has changed significantly compared to their early work."
+  },
+  {
+    "sentence": "この距離をゴールテープまで走り抜ける。",
+    "sentence_furigana": "この距離【きょり】をゴールテープまで走【はし】り抜【ぬ】ける。",
+    "meaning": "To run through this distance to the finish line."
+  },
+  {
+    "sentence": "彼が目指す高みまで、まだ距離がある。",
+    "sentence_furigana": "彼【かれ】が目指【めざ】す高【たか】みまで、まだ距離【きょり】がある。",
+    "meaning": "There is still a long way to go to the heights he aims for."
+  },
+  {
+    "sentence": "その長距離砲は正確な射撃が可能だ。",
+    "sentence_furigana": "その長距離砲【ちょうきょりほう】は正確【せいかく】な射撃【しゃげき】が可能【かのう】だ。",
+    "meaning": "That long-range artillery is capable of accurate fire."
+  },
+  {
+    "sentence": "この問題の解決には、まだ隔たりが多い。",
+    "sentence_furigana": "この問題【もんだい】の解決【かいけつ】には、まだ隔【へだ】たりが多【おお】い。",
+    "meaning": "There are still many gaps in the resolution of this problem."
+  },
+  {
+    "sentence": "彼らの関係は、一度距離を置くと修復が難しくなる。",
+    "sentence_furigana": "彼【かれ】ら関係【かんけい】は、一度【いちど】距離【きょり】を置【お】くと修復【しゅうふく】が難【むずか】しくなる。",
+    "meaning": "Once a distance is put between their relationship, it becomes difficult to repair."
+  },
+  {
+    "sentence": "その知らせは彼に大きな希望を与えた。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】に大【おお】きな希望【きぼう】を与【あた】えた。",
+    "meaning": "That news gave him great hope."
+  },
+  {
+    "sentence": "彼の才能は群を抜いており、他の追随を許さない。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は群【む】を抜【ぬ】いており、他【た】の追随【ついずい】を許【ゆる】さない。",
+    "meaning": "His talent is outstanding and leaves others far behind."
+  },
+  {
+    "sentence": "この距離を最後まで走り抜くのは容易ではない。",
+    "sentence_furigana": "この距離【きょり】を最後【さいご】まで走【はし】り抜【ぬ】くのは容易【ようい】ではない。",
+    "meaning": "It is not easy to run this distance to the end."
+  },
+  {
+    "sentence": "その長距離ドライバーは多くの経験を積んでいる。",
+    "sentence_furigana": "その長距離ドライバー【ちょうきょりドライバー】は多【おお】くの経験【けいけん】を積【つ】んでいる。",
+    "meaning": "That long-distance driver has a lot of experience."
+  }
+]

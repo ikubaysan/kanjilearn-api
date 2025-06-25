@@ -1,0 +1,477 @@
+[
+  {
+    "sentence": "この建物はとても古いですが、まだ使われています。",
+    "sentence_furigana": "この建物【たてもの】はとても古【ふる】いですが、まだ使【つか】われています。",
+    "meaning": "This building is very old, but it is still in use."
+  },
+  {
+    "sentence": "新しい家を建てるのが夢です。",
+    "sentence_furigana": "新【あたら】しい家【いえ】を建【た】てるのが夢【ゆめ】です。",
+    "meaning": "My dream is to build a new house."
+  },
+  {
+    "sentence": "彼は建築家として成功しました。",
+    "sentence_furigana": "彼【かれ】は建築家【けんちくか】として成功【せいこう】しました。",
+    "meaning": "He succeeded as an architect."
+  },
+  {
+    "sentence": "この計画は国家的な規模で建設される予定です。",
+    "sentence_furigana": "この計画【けいかく】は国家的【こっかてき】な規模【きぼ】で建設【けんせつ】される予定【よてい】です。",
+    "meaning": "This project is scheduled to be constructed on a national scale."
+  },
+  {
+    "sentence": "彼らは新しいオフィスビルを建設中です。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しいオフィスビルを建設【けんせつ】中です【ちゅう】。",
+    "meaning": "They are in the process of constructing a new office building."
+  },
+  {
+    "sentence": "建国記念日は祝日です。",
+    "sentence_furigana": "建国記念日【けんこくきねんび】は祝日【しゅくじつ】です。",
+    "meaning": "National Foundation Day is a public holiday."
+  },
+  {
+    "sentence": "この橋は近年建設されたものです。",
+    "sentence_furigana": "この橋【はし】は近年【きんねん】建設【けんせつ】されたものです。",
+    "meaning": "This bridge was built in recent years."
+  },
+  {
+    "sentence": "彼は自分で家を建てました。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】で家【いえ】を建【た】てました。",
+    "meaning": "He built the house himself."
+  },
+  {
+    "sentence": "この歴史的建造物は保存されるべきだ。",
+    "sentence_furigana": "この歴史的建造物【れきしてきけんぞうぶつ】は保存【ほぞん】されるべきだ。",
+    "meaning": "This historical building should be preserved."
+  },
+  {
+    "sentence": "建設現場では多くの人が働いています。",
+    "sentence_furigana": "建設現場【けんせつげんば】では多【おお】くの人【ひと】が働【はたら】いています。",
+    "meaning": "Many people are working at the construction site."
+  },
+  {
+    "sentence": "彼らは新しい公共施設を建設する計画を立てました。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい公共施設【こうきょうしせつ】を建設【けんせつ】する計画【けいかく】を立【た】てました。",
+    "meaning": "They made plans to build new public facilities."
+  },
+  {
+    "sentence": "この町は計画的に建設されました。",
+    "sentence_furigana": "この町【まち】は計画的【けいかくてき】に建設【けんせつ】されました。",
+    "meaning": "This town was built in a planned manner."
+  },
+  {
+    "sentence": "建築基準法を遵守してください。",
+    "sentence_furigana": "建築基準法【けんちくきじゅんほう】を遵守【じゅんしゅ】してください。",
+    "meaning": "Please comply with the Building Standards Act."
+  },
+  {
+    "sentence": "再建された城は観光客に人気があります。",
+    "sentence_furigana": "再建【さいけん】された城【しろ】は観光客【かんこうきゃく】に人気【にんき】があります。",
+    "meaning": "The rebuilt castle is popular with tourists."
+  },
+  {
+    "sentence": "私たちは古い建物を現代的なデザインに改築しました。",
+    "sentence_furigana": "我々【われわれ】は古【ふる】い建物【たてもの】を現代的【げんだいてき】なデザインに改築【かいちく】しました。",
+    "meaning": "We renovated the old building into a modern design."
+  },
+  {
+    "sentence": "彼は自分で家を建てて住んでいます。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】で家【いえ】を建【た】てて住【す】んでいます。",
+    "meaning": "He built his own house and lives in it."
+  },
+  {
+    "sentence": "この法律は国民の権利を守るために建てられました。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の権利【けんり】を守【まも】るために建【た】てられました。",
+    "meaning": "This law was established to protect the rights of the people."
+  },
+  {
+    "sentence": "彼らの新しい住居はまもなく完成する予定です。",
+    "sentence_furigana": "彼【かれ】らの新【あたら】しい住居【じゅうきょ】はまもなく完成【かんせい】する予定【よてい】です。",
+    "meaning": "Their new residence is scheduled to be completed soon."
+  },
+  {
+    "sentence": "この記念碑は平和を願って建てられた。",
+    "sentence_furigana": "この記念碑【きねんひ】は平和【へいわ】を願【ねが】って建【た】てられた。",
+    "meaning": "This monument was erected in hope of peace."
+  },
+  {
+    "sentence": "彼は建築関係の仕事に就いています。",
+    "sentence_furigana": "彼【かれ】は建築関係【けんちくかんけい】の仕事【しごと】に就【つ】いています。",
+    "meaning": "He works in the construction industry."
+  },
+  {
+    "sentence": "この塔は都市のシンボルとして建設されました。",
+    "sentence_furigana": "この塔【とう】は都市【とし】のシンボルとして建設【けんせつ】されました。",
+    "meaning": "This tower was built as a symbol of the city."
+  },
+  {
+    "sentence": "彼らは古い建物を解体して新しいものに建て替える予定です。",
+    "sentence_furigana": "彼【かれ】らは古【ふる】い建物【たてもの】を解体【かいたい】して新【あたら】しいものに建【た】て替【か】える予定【よてい】です。",
+    "meaning": "They plan to demolish the old building and replace it with a new one."
+  },
+  {
+    "sentence": "この地区は急速に発展し、新しい建物が次々と建てられています。",
+    "sentence_furigana": "この地区【ちく】は急速【きゅうそく】に発展【はってん】し、新【あたら】しい建物【たてもの】が次々【つぎつぎ】と建【た】てられています。",
+    "meaning": "This district is developing rapidly, and new buildings are being erected one after another."
+  },
+  {
+    "sentence": "建物に火災報知器が設置されているか確認してください。",
+    "sentence_furigana": "建物【たてもの】に火災報知器【かさいほうちき】が設置【せっち】されているか確認【かくにん】してください。",
+    "meaning": "Please check if fire alarms are installed in the building."
+  },
+  {
+    "sentence": "彼は自分の理想の家を設計し、建てました。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の理想【りそう】の家【いえ】を設計【せっけい】し、建【た】てました。",
+    "meaning": "He designed and built his ideal home."
+  },
+  {
+    "sentence": "この政府の建物は多くの歴史を目撃してきました。",
+    "sentence_furigana": "この政府【せいふ】の建物【たてもの】は多【おお】くの歴史【れきし】を目撃【もくげき】してきました。",
+    "meaning": "This government building has witnessed much history."
+  },
+  {
+    "sentence": "彼らは避難所を建設するボランティア活動に参加しました。",
+    "sentence_furigana": "彼【かれ】らは避難所【ひなんじょ】を建設【けんせつ】するボランティア活動【かつどう】に参加【さんか】しました。",
+    "meaning": "They participated in volunteer activities to build shelters."
+  },
+  {
+    "sentence": "この村は美しい自然の中に建てられています。",
+    "sentence_furigana": "この村【むら】は美【うつく】しい自然【しぜん】の中【なか】に建【た】てられています。",
+    "meaning": "This village is built amidst beautiful nature."
+  },
+  {
+    "sentence": "建築様式が非常にユニークな建物です。",
+    "sentence_furigana": "建築様式【けんちくようしき】が非常【ひじょう】にユニークな建物【たてもの】です。",
+    "meaning": "It is a building with a very unique architectural style."
+  },
+  {
+    "sentence": "彼は長年の夢だった家をようやく建てることができた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】だった家【いえ】をようやく建【た】てることができた。",
+    "meaning": "He was finally able to build the house he had dreamed of for many years."
+  },
+  {
+    "sentence": "この建築物は国の重要文化財に指定されています。",
+    "sentence_furigana": "この建築物【けんちくぶつ】は国【くに】の重要文化財【じゅうようぶんかざい】に指定【してい】されています。",
+    "meaning": "This architecture is designated as an important cultural property of the country."
+  },
+  {
+    "sentence": "彼らは新しい学校を建設するために寄付を募っています。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい学校【がっこう】を建設【けんせつ】するために寄付【きふ】を募【つの】っています。",
+    "meaning": "They are soliciting donations to build a new school."
+  },
+  {
+    "sentence": "この記念公園は平和を祈念して建設された。",
+    "sentence_furigana": "この記念公園【きねんこうえん】は平和【へいわ】を祈念【きねん】して建設【けんせつ】された。",
+    "meaning": "This memorial park was built in commemoration of peace."
+  },
+  {
+    "sentence": "建物の一部が崩壊し、修復が必要となりました。",
+    "sentence_furigana": "建物【たてもの】の一部【いちぶ】が崩壊【ほうかい】し、修復【しゅうふく】が必要【ひつよう】となりました。",
+    "meaning": "Part of the building collapsed, necessitating repairs."
+  },
+  {
+    "sentence": "彼は独自の建築哲学を持っています。",
+    "sentence_furigana": "彼【かれ】は独特【どくとく】の建築哲学【けんちくてつがく】を持【も】っています。",
+    "meaning": "He has his own architectural philosophy."
+  },
+  {
+    "sentence": "この都市計画は持続可能な開発を目指しています。",
+    "sentence_furigana": "この都市計画【としけいかく】は持続可能【じぞくかのう】な開発【かいはつ】を目指【めざ】しています。",
+    "meaning": "This urban plan aims for sustainable development."
+  },
+  {
+    "sentence": "彼らは古い建物を現代風に改装しました。",
+    "sentence_furigana": "彼【かれ】らは古【ふる】い建物【たてもの】を現代風【げんだいふう】に改装【かいそう】しました。",
+    "meaning": "They remodeled the old building in a modern style."
+  },
+  {
+    "sentence": "この地域には多くの高層建築物があります。",
+    "sentence_furigana": "この地域【ちいき】には多【おお】くの高層建築物【こうそうけんちくぶつ】があります。",
+    "meaning": "There are many high-rise buildings in this area."
+  },
+  {
+    "sentence": "彼らは新しい図書館を建設するために募金活動を行いました。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい図書館【としょかん】を建設【けんせつ】するために募金活動【ぼきんかつどう】を行【おこな】いました。",
+    "meaning": "They conducted fundraising activities to build a new library."
+  },
+  {
+    "sentence": "建物は地震に耐えられるように設計されています。",
+    "sentence_furigana": "建物【たてもの】は地震【じしん】に耐【た】えられるように設計【せっけい】されています。",
+    "meaning": "The building is designed to withstand earthquakes."
+  },
+  {
+    "sentence": "彼は著名な建築家の一人です。",
+    "sentence_furigana": "彼【かれ】は著名【ちょめい】な建築家【けんちくか】の一人【ひとり】です。",
+    "meaning": "He is one of the renowned architects."
+  },
+  {
+    "sentence": "この橋は多くの年月を経て建てられた。",
+    "sentence_furigana": "この橋【はし】は多【おお】くの年月【ねんげつ】を経て【へて】建【た】てられた。",
+    "meaning": "This bridge was built over many years."
+  },
+  {
+    "sentence": "彼らは古い城を復元する計画を進めています。",
+    "sentence_furigana": "彼【かれ】らは古【ふる】い城【しろ】を復元【ふくげん】する計画【けいかく】を進【すす】めています。",
+    "meaning": "They are proceeding with plans to restore the old castle."
+  },
+  {
+    "sentence": "この新しいビルは近代的な建築技術の粋を集めたものです。",
+    "sentence_furigana": "この新【あたら】しいビルは現代的【げんだいてき】な建築技術【けんちくぎじゅつ】の粋【すい】を集【あつ】めたものです。",
+    "meaning": "This new building embodies the essence of modern architectural technology."
+  },
+  {
+    "sentence": "彼は自分の手で家を建てたことに誇りを感じています。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の手【て】で家【いえ】を建【た】てたことに誇【ほこ】りを感じ【かんじ】ています。",
+    "meaning": "He feels proud of building his house with his own hands."
+  },
+  {
+    "sentence": "建設業は国の経済を支える重要な産業の一つです。",
+    "sentence_furigana": "建設業【けんせつぎょう】は国【くに】の経済【けいざい】を支【ささ】える重要【じゅうよう】な産業【さんぎょう】の一【ひと】つです。",
+    "meaning": "The construction industry is one of the important industries supporting the national economy."
+  },
+  {
+    "sentence": "彼らは地域の活性化のために新しい施設を建設する予定です。",
+    "sentence_furigana": "彼【かれ】らは地域【ちいき】の活性化【かっせいか】のために新【あたら】しい施設【しせつ】を建設【けんせつ】する予定【よてい】です。",
+    "meaning": "They plan to build new facilities for the revitalization of the region."
+  },
+  {
+    "sentence": "この古い家は最近取り壊されました。",
+    "sentence_furigana": "この古【ふる】い家【いえ】は最近【さいきん】取【と】り壊【こ】わされました。",
+    "meaning": "This old house was recently demolished."
+  },
+  {
+    "sentence": "彼らは新しい建物の建設許可を得ました。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい建物【たてもの】の建設許可【けんせつきょか】を得【え】ました。",
+    "meaning": "They obtained a building permit for the new construction."
+  },
+  {
+    "sentence": "この寺院は古来より信仰を集めてきました。",
+    "sentence_furigana": "この寺院【じいん】は古来【こらい】より信仰【しんこう】を集【あつ】めてきました。",
+    "meaning": "This temple has attracted faith since ancient times."
+  },
+  {
+    "sentence": "彼らは新しいプロジェクトのために建築家を雇いました。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しいプロジェクトのために建築家【けんちくか】を雇【やと】いました。",
+    "meaning": "They hired an architect for the new project."
+  },
+  {
+    "sentence": "建物が完成したので、入居が開始されました。",
+    "sentence_furigana": "建物【たてもの】が完成【かんせい】したので、入居【にゅうきょ】が開始【かいし】されました。",
+    "meaning": "The building has been completed, and occupancy has begun."
+  },
+  {
+    "sentence": "彼らは歴史的建造物の保存活動に積極的に参加しています。",
+    "sentence_furigana": "彼【かれ】らは歴史的建造物【れきしてきけんぞうぶつ】の保存活動【ほぞんかつどう】に積極的【せっきょくてき】に参加【さんか】しています。",
+    "meaning": "They are actively participating in the preservation activities of historical buildings."
+  },
+  {
+    "sentence": "この広場は多くのイベントが開催される場所として建設されました。",
+    "sentence_furigana": "この広場【ひろば】は多【おお】くのイベントが開催【かいさい】される場所【ばしょ】として建設【けんせつ】されました。",
+    "meaning": "This plaza was built as a venue for many events."
+  },
+  {
+    "sentence": "彼は自身の経験に基づいて家を建てました。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の経験【けいけん】に基づいて【もとづ】いて家【いえ】を建【た】てました。",
+    "meaning": "He built his house based on his own experience."
+  },
+  {
+    "sentence": "この新しい橋は地域の交通網を大きく改善するでしょう。",
+    "sentence_furigana": "この新【あたら】しい橋【はし】は地域【ちいき】の交通網【こうつうもう】を大【おお】きく改善【かいぜん】するでしょう。",
+    "meaning": "This new bridge will greatly improve the region's transportation network."
+  },
+  {
+    "sentence": "彼らは伝統的な建築様式で家を建てたいと考えています。",
+    "sentence_furigana": "彼【かれ】らは伝統的【でんとうてき】な建築様式【けんちくようしき】で家【いえ】を建【た】てたいと思【おも】っています。",
+    "meaning": "They want to build a house in a traditional architectural style."
+  },
+  {
+    "sentence": "この博物館は現代的なデザインで建てられています。",
+    "sentence_furigana": "この博物館【はくぶつかん】は現代的【げんだいてき】なデザインで建【た】てられています。",
+    "meaning": "This museum is built with a modern design."
+  },
+  {
+    "sentence": "彼らは新しい競技場を建設するために資金を集めています。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい競技場【きょうぎじょう】を建設【けんせつ】するために資金【しきん】を集【あつ】めています。",
+    "meaning": "They are raising funds to build a new stadium."
+  },
+  {
+    "sentence": "この建物は明治時代に建てられました。",
+    "sentence_furigana": "この建物【たてもの】は明治時代【めいじじだい】に建【た】てられました。",
+    "meaning": "This building was built during the Meiji era."
+  },
+  {
+    "sentence": "彼らは古い城壁を再建するプロジェクトを計画しています。",
+    "sentence_furigana": "彼【かれ】らは古【ふる】い城壁【じょうへき】を再建【さいけん】するプロジェクトを計画【けいかく】しています。",
+    "meaning": "They are planning a project to reconstruct the old castle walls."
+  },
+  {
+    "sentence": "この橋は完成までに10年かかりました。",
+    "sentence_furigana": "この橋【はし】は完成【かんせい】までに10年【じゅうねん】かかりました。",
+    "meaning": "It took 10 years to complete this bridge."
+  },
+  {
+    "sentence": "彼らは環境に配慮した建物を建設することを目指しています。",
+    "sentence_furigana": "彼【かれ】らは環境【かんきょう】に配慮【はいりょ】した建物【たてもの】を建設【けんせつ】することを目指【めざ】しています。",
+    "meaning": "They aim to build environmentally friendly buildings."
+  },
+  {
+    "sentence": "この高層ビルは都市のスカイラインを象徴しています。",
+    "sentence_furigana": "この高層ビル【こうそうビル】は都市【とし】のスカイラインを象徴【しょうちょう】しています。",
+    "meaning": "This skyscraper symbolizes the city's skyline."
+  },
+  {
+    "sentence": "彼らは最新の建築技術を駆使してこの建物を建てました。",
+    "sentence_furigana": "彼【かれ】らは最新【さいしん】の建築技術【けんちくぎじゅつ】を駆使【くし】してこの建物【たてもの】を建【た】てました。",
+    "meaning": "They built this building using the latest construction technology."
+  },
+  {
+    "sentence": "この歴史的建造物は貴重な文化遺産です。",
+    "sentence_furigana": "この歴史的建造物【れきしてきけんぞうぶつ】は貴重【きちょう】な文化遺産【ぶんかいさん】です。",
+    "meaning": "This historical building is a valuable cultural heritage."
+  },
+  {
+    "sentence": "彼らは地域のニーズに応える新しい施設を建設する予定です。",
+    "sentence_furigana": "彼【かれ】らは地域【ちいき】のニーズに応【こた】える新【あたら】しい施設【しせつ】を建設【けんせつ】する予定【よてい】です。",
+    "meaning": "They plan to build new facilities to meet the needs of the region."
+  },
+  {
+    "sentence": "この建物はバリアフリー設計になっています。",
+    "sentence_furigana": "この建物【たてもの】はバリアフリー設計【せっけい】になっています。",
+    "meaning": "This building is designed to be barrier-free."
+  },
+  {
+    "sentence": "彼らは独自のスタイルで家を建てることに情熱を注いでいます。",
+    "sentence_furigana": "彼【かれ】らは独特【どくとく】のスタイルで家【いえ】を建【た】てることに情熱【じょうねつ】を注【そそ】いでいます。",
+    "meaning": "They are passionate about building houses in their own style."
+  },
+  {
+    "sentence": "この近代的な建築物は都市の新しいランドマークとなっています。",
+    "sentence_furigana": "この現代的【げんだいてき】な建築物【けんちくぶつ】は都市【とし】の新しいランドマークとなっています。",
+    "meaning": "This modern architecture has become a new landmark of the city."
+  },
+  {
+    "sentence": "彼らは長年住んだ家を建て直しました。",
+    "sentence_furigana": "彼【かれ】らは長年【ながねん】住【す】んだ家【いえ】を建【た】て直【なお】しました。",
+    "meaning": "They rebuilt the house they had lived in for many years."
+  },
+  {
+    "sentence": "この国際空港は多くの国の建築様式を取り入れています。",
+    "sentence_furigana": "この国際空港【こくさいくうこう】は多【おお】くの国【くに】の建築様式【けんちくようしき】を取り入【い】れています。",
+    "meaning": "This international airport incorporates architectural styles from many countries."
+  },
+  {
+    "sentence": "彼らは新しいコミュニティセンターを建設するためにクラウドファンディングを利用しました。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しいコミュニティセンターを建設【けんせつ】するためにクラウドファンディングを利用【りよう】しました。",
+    "meaning": "They used crowdfunding to build a new community center."
+  },
+  {
+    "sentence": "この建物は非常に頑丈に建てられています。",
+    "sentence_furigana": "この建物【たてもの】は非常【ひじょう】に頑丈【がんじょう】に建【た】てられています。",
+    "meaning": "This building is built very sturdily."
+  },
+  {
+    "sentence": "彼らは伝統と現代性が融合した建築を目指しています。",
+    "sentence_furigana": "彼【かれ】らは伝統【でんとう】と現代性【げんだいせい】が融合【ゆうごう】した建築【けんちく】を目指【めざ】しています。",
+    "meaning": "They aim for architecture that fuses tradition and modernity."
+  },
+  {
+    "sentence": "この橋は開通以来、多くの人々の生活を支えてきました。",
+    "sentence_furigana": "この橋【はし】は開通以来【かいつういらい】、多【おお】くの人々【ひとびと】の生活【せいかつ】を支【ささ】えてきました。",
+    "meaning": "This bridge has supported the lives of many people since its opening."
+  },
+  {
+    "sentence": "彼らは持続可能な社会の実現に向けて建築活動を行っています。",
+    "sentence_furigana": "彼【かれ】らは持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】に向けて【む】けて建築活動【けんちくかつどう】を行【おこな】っています。",
+    "meaning": "They are engaged in architectural activities towards the realization of a sustainable society."
+  },
+  {
+    "sentence": "この建築物は非常に芸術的価値が高いです。",
+    "sentence_furigana": "この建築物【けんちくぶつ】は非常【ひじょう】に芸術的価値【げいじゅつてきかち】が高【たか】いです。",
+    "meaning": "This architecture has very high artistic value."
+  },
+  {
+    "sentence": "彼らは地域住民の意見を取り入れて建物を設計しました。",
+    "sentence_furigana": "彼【かれ】らは地域住民【ちいきじゅうみん】の意見【いけん】を取り入【い】れて建物【たてもの】を設計【せっけい】しました。",
+    "meaning": "They designed the building incorporating the opinions of the local residents."
+  },
+  {
+    "sentence": "この複合施設は、商業、住宅、オフィス空間を兼ね備えています。",
+    "sentence_furigana": "この複合施設【ふくごうしせつ】は、商業【しょうぎょう】、住宅【じゅうたく】、オフィス空間【くうかん】を兼【か】ね備【そな】えています。",
+    "meaning": "This complex facility combines commercial, residential, and office spaces."
+  },
+  {
+    "sentence": "彼らは過去の災害の教訓を活かして、より安全な建物を建てています。",
+    "sentence_furigana": "彼【かれ】らは過去【かこ】の災害【さいがい】の教訓【きょうくん】を活【い】かして、より安全【あんぜん】な建物【たてもの】を建【た】てています。",
+    "meaning": "They are building safer buildings by learning from past disasters."
+  },
+  {
+    "sentence": "この歴史的な建造物は多くの改修を経て現在に至ります。",
+    "sentence_furigana": "この歴史的建造物【れきしてきけんぞうぶつ】は多【おお】くの改修【かいしゅう】を経て【へて】現在【げんざい】に至【いた】ります。",
+    "meaning": "This historical building has undergone many renovations to reach the present day."
+  },
+  {
+    "sentence": "彼らは地域社会の発展に貢献するため、新しい図書館を建設します。",
+    "sentence_furigana": "彼【かれ】らは地域社会【ちいきしゃかい】の発展【はってん】に貢献【こうけん】するため、新【あたら】しい図書館【としょかん】を建設【けんせつ】します。",
+    "meaning": "They will build a new library to contribute to the development of the local community."
+  },
+  {
+    "sentence": "この建物はユニークなデザインで多くの注目を集めています。",
+    "sentence_furigana": "この建物【たてもの】はユニークなデザインで多【おお】くの注目【ちゅうもく】を集【あつ】めています。",
+    "meaning": "This building is attracting a lot of attention with its unique design."
+  },
+  {
+    "sentence": "彼らは将来を見据えた都市計画を進めています。",
+    "sentence_furigana": "彼【かれ】らは将来【しょうらい】を見据【みす】えた都市計画【としけいかく】を進【すす】めています。",
+    "meaning": "They are advancing urban planning with an eye to the future."
+  },
+  {
+    "sentence": "この建築物は、地域の気候条件を考慮して設計されました。",
+    "sentence_furigana": "この建築物【けんちくぶつ】は、地域【ちいき】の気候条件【きこうじょうけん】を考慮【こうりょ】して設計【せっけい】されました。",
+    "meaning": "This architecture was designed taking into account the local climate conditions."
+  },
+  {
+    "sentence": "彼らは故郷の古い建物を復元し、博物館として再利用する計画です。",
+    "sentence_furigana": "彼【かれ】らは故郷【こきょう】の古【ふる】い建物【たてもの】を復元【ふくげん】し、博物館【はくぶつかん】として再利用【さいりよう】する計画【けいかく】です。",
+    "meaning": "They plan to restore old buildings in their hometown and reuse them as a museum."
+  },
+  {
+    "sentence": "この新しい橋は、地域の経済活性化に大きく貢献するでしょう。",
+    "sentence_furigana": "この新【あたら】しい橋【はし】は、地域【ちいき】の経済活性化【けいざいかっせいか】に大【おお】きく貢献【こうけん】するでしょう。",
+    "meaning": "This new bridge will greatly contribute to the economic revitalization of the region."
+  },
+  {
+    "sentence": "彼らは古い建築様式と現代的な快適さを兼ね備えた家を建てました。",
+    "sentence_furigana": "彼【かれ】らは古【ふる】い建築様式【けんちくようしき】と現代的【げんだいてき】な快適性【かいてきせい】を兼【か】ね備【そな】えた家【いえ】を建【た】てました。",
+    "meaning": "They built a house that combines old architectural styles with modern comfort."
+  },
+  {
+    "sentence": "この建造物は、その時代における最高の技術で作られました。",
+    "sentence_furigana": "この建造物【けんぞうぶつ】は、その時代【じだい】における最高【さいこう】の技術【ぎじゅつ】で作【つく】られました。",
+    "meaning": "This structure was made with the best technology of its time."
+  },
+  {
+    "sentence": "彼らは地域住民の憩いの場となる公園を建設しました。",
+    "sentence_furigana": "彼【かれ】らは地域住民【ちいきじゅうみん】の憩【いこ】いの場【ば】となる公園【こうえん】を建設【けんせつ】しました。",
+    "meaning": "They built a park that serves as a place of relaxation for the local residents."
+  },
+  {
+    "sentence": "この建物は、自然災害にも強い構造で建てられています。",
+    "sentence_furigana": "この建物【たてもの】は、自然災害【しぜんさいがい】にも強【つよ】い構造【こうぞう】で建【た】てられています。",
+    "meaning": "This building is constructed with a structure that is resistant to natural disasters."
+  },
+  {
+    "sentence": "彼らは伝統的な建築技術を現代に応用し、新しいスタイルを創造しています。",
+    "sentence_furigana": "彼【かれ】らは伝統的【でんとうてき】な建築技術【けんちくぎじゅつ】を現代【げんだい】に応用【おうよう】し、新【あたら】しいスタイルを創造【そうぞう】しています。",
+    "meaning": "They are applying traditional architectural techniques to modern times and creating new styles."
+  },
+  {
+    "sentence": "この都市は計画的に建設され、非常に住みやすいです。",
+    "sentence_furigana": "この都市【とし】は計画的【けいかくてき】に建設【けんせつ】され、非常【ひじょう】に住【す】みやすいです。",
+    "meaning": "This city was built in a planned manner and is very livable."
+  },
+  {
+    "sentence": "彼らは人々の生活を豊かにする建物を建設することを目指しています。",
+    "sentence_furigana": "彼【かれ】らは人々【ひとびと】の生活【せいかつ】を豊【ゆた】かにする建物【たてもの】を建設【けんせつ】することを目指【めざ】しています。",
+    "meaning": "They aim to build buildings that enrich people's lives."
+  }
+]

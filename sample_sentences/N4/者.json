@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "彼は優秀な研究者だ。",
+    "sentence_furigana": "彼【かれ】は優【ゆう】秀【しゅう】な研究者【けんきゅうしゃ】だ。",
+    "meaning": "He is an excellent researcher."
+  },
+  {
+    "sentence": "この者はまだ若い。",
+    "sentence_furigana": "この者【もの】はまだ若【わか】い。",
+    "meaning": "This person is still young."
+  },
+  {
+    "sentence": "彼は熱心な活動家です。",
+    "sentence_furigana": "彼【かれ】は熱心【ねっしん】な活動家【かつどうか】です。",
+    "meaning": "He is an enthusiastic activist."
+  },
+  {
+    "sentence": "その老者はゆっくり歩いていた。",
+    "sentence_furigana": "その老者【ろうしゃ】はゆっくり歩【ある】いていた。",
+    "meaning": "The old person was walking slowly."
+  },
+  {
+    "sentence": "彼は有名な作家です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な作家【さっか】です。",
+    "meaning": "He is a famous writer."
+  },
+  {
+    "sentence": "彼は経験者だ。",
+    "sentence_furigana": "彼【かれ】は経験者【けいけんしゃ】だ。",
+    "meaning": "He is an experienced person."
+  },
+  {
+    "sentence": "我々は協力者を探している。",
+    "sentence_furigana": "我々【われわれ】は協力者【きょうりょくしゃ】を探【さが】している。",
+    "meaning": "We are looking for collaborators."
+  },
+  {
+    "sentence": "この本は初心者向けです。",
+    "sentence_furigana": "この本【ほん】は初心者【しょしんしゃ】向【む】けです。",
+    "meaning": "This book is for beginners."
+  },
+  {
+    "sentence": "彼はその事件の目撃者です。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の目撃者【もくげきしゃ】です。",
+    "meaning": "He is a witness to the incident."
+  },
+  {
+    "sentence": "私たちは皆、学ぶ者です。",
+    "sentence_furigana": "私【わたし】たちはい皆【みな】、学【まな】ぶ者【もの】です。",
+    "meaning": "We are all learners."
+  },
+  {
+    "sentence": "彼は公務員です。",
+    "sentence_furigana": "彼【かれ】は公務員【こうむいん】です。",
+    "meaning": "He is a public servant."
+  },
+  {
+    "sentence": "この者は信頼できる。",
+    "sentence_furigana": "この者【もの】は信頼【しんらい】できる。",
+    "meaning": "This person is trustworthy."
+  },
+  {
+    "sentence": "彼は外交官として活躍している。",
+    "sentence_furigana": "彼【かれ】は外交官【がいこうかん】として活躍【かつやく】している。",
+    "meaning": "He is active as a diplomat."
+  },
+  {
+    "sentence": "私は保護者です。",
+    "sentence_furigana": "私【わたし】は保護者【ほごしゃ】です。",
+    "meaning": "I am a guardian."
+  },
+  {
+    "sentence": "彼女は技術者だ。",
+    "sentence_furigana": "彼女【かのじょ】は技術者【ぎじゅつしゃ】だ。",
+    "meaning": "She is an engineer."
+  },
+  {
+    "sentence": "彼は優秀な指導者である。",
+    "sentence_furigana": "彼【かれ】は優【ゆう】秀【しゅう】な指導者【しどうしゃ】である。",
+    "meaning": "He is an excellent leader."
+  },
+  {
+    "sentence": "この品物は誰かの物です。",
+    "sentence_furigana": "この品物【しなもの】は誰【だれ】かの者【もの】です。",
+    "meaning": "This item belongs to someone."
+  },
+  {
+    "sentence": "彼は改革者として尊敬されている。",
+    "sentence_furigana": "彼【かれ】は改革者【かいかくしゃ】として尊敬【そんけい】されている。",
+    "meaning": "He is respected as a reformer."
+  },
+  {
+    "sentence": "彼は勤勉な労働者だ。",
+    "sentence_furigana": "彼【かれ】は勤勉【きんべん】な労働者【ろうどうしゃ】だ。",
+    "meaning": "He is a diligent worker."
+  },
+  {
+    "sentence": "この者は常に笑顔を絶やさない。",
+    "sentence_furigana": "この者【もの】は常【つね】に笑顔【えがお】を絶【た】やさない。",
+    "meaning": "This person never stops smiling."
+  },
+  {
+    "sentence": "彼は有名な音楽家です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な音楽家【おんがくか】です。",
+    "meaning": "He is a famous musician."
+  },
+  {
+    "sentence": "彼は過去の経験者だ。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験者【けいけんしゃ】だ。",
+    "meaning": "He is experienced in the past."
+  },
+  {
+    "sentence": "私たちは皆、同じ人間です。",
+    "sentence_furigana": "私【わたし】たちはい皆【みな】、同【おな】じ人間【にんげん】です。",
+    "meaning": "We are all the same human beings."
+  },
+  {
+    "sentence": "彼は有能な弁護士です。",
+    "sentence_furigana": "彼【かれ】は有能【ゆうのう】な弁護士【べんごし】です。",
+    "meaning": "He is a capable lawyer."
+  },
+  {
+    "sentence": "この者は私の友です。",
+    "sentence_furigana": "この者【もの】は私【わたし】の友【とも】です。",
+    "meaning": "This person is my friend."
+  },
+  {
+    "sentence": "彼は著名な学者だ。",
+    "sentence_furigana": "彼【かれ】は著名【ちょめい】な学者【がくしゃ】だ。",
+    "meaning": "He is a renowned scholar."
+  },
+  {
+    "sentence": "私はその会社の創業者です。",
+    "sentence_furigana": "私【わたし】はその会社【かいしゃ】の創業者【そうぎょうしゃ】です。",
+    "meaning": "I am the founder of that company."
+  },
+  {
+    "sentence": "彼は熱心な生徒です。",
+    "sentence_furigana": "彼【かれ】は熱心【ねっしん】な生徒【せいと】です。",
+    "meaning": "He is an enthusiastic student."
+  },
+  {
+    "sentence": "この老者は深い知恵を持っている。",
+    "sentence_furigana": "この老者【ろうしゃ】は深【ふか】い知恵【ちえ】を持【も】っている。",
+    "meaning": "This old person has deep wisdom."
+  },
+  {
+    "sentence": "彼は優秀な料理人です。",
+    "sentence_furigana": "彼【かれ】は優【ゆう】秀【しゅう】な料理人【りょうりじん】です。",
+    "meaning": "He is an excellent chef."
+  },
+  {
+    "sentence": "彼は信頼できる人物だ。",
+    "sentence_furigana": "彼【かれ】は信頼【しんらい】できる人物【じんぶつ】だ。",
+    "meaning": "He is a trustworthy person."
+  },
+  {
+    "sentence": "この者は常に前向きだ。",
+    "sentence_furigana": "この者【もの】は常【つね】に前向【まえむ】きだ。",
+    "meaning": "This person is always positive."
+  },
+  {
+    "sentence": "彼はその団体の代表者です。",
+    "sentence_furigana": "彼【かれ】はそ団体【だんたい】の代表者【だいひょうしゃ】です。",
+    "meaning": "He is the representative of that organization."
+  },
+  {
+    "sentence": "私はそのコンテストの優勝者です。",
+    "sentence_furigana": "私【わたし】はそのコンテストの優勝者【ゆうしょうしゃ】です。",
+    "meaning": "I am the winner of that contest."
+  },
+  {
+    "sentence": "彼は優れた芸術家だ。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた芸術家【げいじゅつか】だ。",
+    "meaning": "He is an outstanding artist."
+  },
+  {
+    "sentence": "この者は皆に慕われている。",
+    "sentence_furigana": "この者【もの】は皆【みな】に慕【した】われている。",
+    "meaning": "This person is admired by everyone."
+  },
+  {
+    "sentence": "彼は有名な彫刻家です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な彫刻家【ちょうこくか】です。",
+    "meaning": "He is a famous sculptor."
+  },
+  {
+    "sentence": "彼はこの町の古くからの住者だ。",
+    "sentence_furigana": "彼【かれ】はこの町【まち】の古【ふる】くからの住者【じゅうしゃ】だ。",
+    "meaning": "He is a long-time resident of this town."
+  },
+  {
+    "sentence": "彼は若い起業家です。",
+    "sentence_furigana": "彼【かれ】は若【わか】い起業家【きぎょうか】です。",
+    "meaning": "He is a young entrepreneur."
+  },
+  {
+    "sentence": "この者は常に公平です。",
+    "sentence_furigana": "この者【もの】は常【つね】に公平【こうへい】です。",
+    "meaning": "This person is always fair."
+  },
+  {
+    "sentence": "彼は尊敬されるべき人物だ。",
+    "sentence_furigana": "彼【かれ】は尊敬【そんけい】されるべき人物【じんぶつ】だ。",
+    "meaning": "He is a person to be respected."
+  },
+  {
+    "sentence": "私はそのプロジェクトの担当者です。",
+    "sentence_furigana": "私【わたし】はそのプロジェクトの担当者【たんとうしゃ】です。",
+    "meaning": "I am in charge of that project."
+  },
+  {
+    "sentence": "彼は熱心なファンだ。",
+    "sentence_furigana": "彼【かれ】は熱心【ねっしん】なファンだ。",
+    "meaning": "He is an enthusiastic fan."
+  },
+  {
+    "sentence": "この者はいつも笑顔を絶やさない。",
+    "sentence_furigana": "この者【もの】はいつも笑顔【えがお】を絶【た】やさない。",
+    "meaning": "This person always keeps smiling."
+  },
+  {
+    "sentence": "彼は一流の俳優です。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】の俳優【はいゆう】です。",
+    "meaning": "He is a top-class actor."
+  },
+  {
+    "sentence": "彼は多くの経験を持つ者だ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を持【も】つ者【もの】だ。",
+    "meaning": "He is someone with a lot of experience."
+  },
+  {
+    "sentence": "この者は常に誠実である。",
+    "sentence_furigana": "この者【もの】は常【つね】に誠実【せいじつ】である。",
+    "meaning": "This person is always sincere."
+  },
+  {
+    "sentence": "彼は優れた指揮者です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた指揮者【しきしゃ】です。",
+    "meaning": "He is an excellent conductor."
+  },
+  {
+    "sentence": "私はその会社の役員者です。",
+    "sentence_furigana": "私【わたし】はその会社【かいしゃ】の役員者【やくいんしゃ】です。",
+    "meaning": "I am an executive of that company."
+  },
+  {
+    "sentence": "彼は有名な詩人だ。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な詩人【しじん】だ。",
+    "meaning": "He is a famous poet."
+  },
+  {
+    "sentence": "この者はいつも親切です。",
+    "sentence_furigana": "この者【もの】はいつも親切【しんせつ】です。",
+    "meaning": "This person is always kind."
+  },
+  {
+    "sentence": "彼は経験豊富な専門家です。",
+    "sentence_furigana": "彼【かれ】は経験豊富【けいけんほうふ】な専門家【せんもんか】です。",
+    "meaning": "He is an experienced specialist."
+  },
+  {
+    "sentence": "彼はその物語の主人公者だ。",
+    "sentence_furigana": "彼【かれ】はその物語【ものがたり】の主人公者【しゅじんこうしゃ】だ。",
+    "meaning": "He is the protagonist of that story."
+  },
+  {
+    "sentence": "この者は常に努力を惜しまない。",
+    "sentence_furigana": "この者【もの】は常【つね】に努力【どりょく】を惜【お】しまない。",
+    "meaning": "This person never spares effort."
+  },
+  {
+    "sentence": "彼は有名なコメディアンです。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】なコメディアンです。",
+    "meaning": "He is a famous comedian."
+  },
+  {
+    "sentence": "彼は無事な者だ。",
+    "sentence_furigana": "彼【かれ】は無事【ぶじ】な者【もの】だ。",
+    "meaning": "He is a safe person."
+  },
+  {
+    "sentence": "この者は常に感謝の気持ちを持っている。",
+    "sentence_furigana": "この者【もの】は常【つね】に感謝【かんしゃ】の気持【きも】ちを持【も】っている。",
+    "meaning": "This person always has gratitude."
+  },
+  {
+    "sentence": "彼は信頼できる協力者です。",
+    "sentence_furigana": "彼【かれ】は信頼【しんらい】できる協力者【きょうりょくしゃ】です。",
+    "meaning": "He is a trustworthy collaborator."
+  },
+  {
+    "sentence": "彼は熱心な愛好家だ。",
+    "sentence_furigana": "彼【かれ】は熱心【ねっしん】な愛好家【あいこうか】だ。",
+    "meaning": "He is an enthusiastic enthusiast."
+  },
+  {
+    "sentence": "この者は常に謙虚である。",
+    "sentence_furigana": "この者【もの】は常【つね】に謙虚【けんきょ】である。",
+    "meaning": "This person is always humble."
+  },
+  {
+    "sentence": "彼は有名な科学者です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な科学者【かがくしゃ】です。",
+    "meaning": "He is a famous scientist."
+  },
+  {
+    "sentence": "彼はこのプロジェクトの責任者だ。",
+    "sentence_furigana": "彼【かれ】はこのプロジェクトの責任者【せきにんしゃ】だ。",
+    "meaning": "He is the person in charge of this project."
+  },
+  {
+    "sentence": "この者は常に冷静沈着だ。",
+    "sentence_furigana": "この者【もの】は常【つね】に冷静沈着【れいせいちんちゃく】だ。",
+    "meaning": "This person is always calm and collected."
+  },
+  {
+    "sentence": "彼は有名な俳優です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な俳優【はいゆう】です。",
+    "meaning": "He is a famous actor."
+  },
+  {
+    "sentence": "彼は経験豊かな達人だ。",
+    "sentence_furigana": "彼【かれ】は経験豊【けいけんゆた】かな達人【たつじん】だ。",
+    "meaning": "He is a master with rich experience."
+  },
+  {
+    "sentence": "この者は常に向上心を持っている。",
+    "sentence_furigana": "この者【もの】は常【つね】に向上心【こうじょうしん】を持【も】っている。",
+    "meaning": "This person always has the desire to improve."
+  },
+  {
+    "sentence": "彼は優れた調達者です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた調達者【ちょうたつしゃ】です。",
+    "meaning": "He is an excellent procurer."
+  },
+  {
+    "sentence": "彼はその法律の提唱者だ。",
+    "sentence_furigana": "彼【かれ】はその法律【ほうりつ】の提唱者【ていしょうしゃ】だ。",
+    "meaning": "He is the proponent of that law."
+  },
+  {
+    "sentence": "この者は常に希望に満ちている。",
+    "sentence_furigana": "この者【もの】は常【つね】に希望【きぼう】に満【み】ちている。",
+    "meaning": "This person is always full of hope."
+  },
+  {
+    "sentence": "彼は有名な建築家です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な建築家【けんちくか】です。",
+    "meaning": "He is a famous architect."
+  },
+  {
+    "sentence": "彼はその会社の設立者だ。",
+    "sentence_furigana": "彼【かれ】はそ会社【かいしゃ】の設立者【せつりつしゃ】だ。",
+    "meaning": "He is the founder of that company."
+  },
+  {
+    "sentence": "この者は常に忍耐強い。",
+    "sentence_furigana": "この者【もの】は常【つね】に忍耐強【にんたいづよ】い。",
+    "meaning": "This person is always patient."
+  },
+  {
+    "sentence": "彼は優れた編集者です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた編集者【へんしゅうしゃ】です。",
+    "meaning": "He is an excellent editor."
+  },
+  {
+    "sentence": "彼はその改革の推進者だ。",
+    "sentence_furigana": "彼【かれ】はその改革【かいかく】の推進者【すいしんしゃ】だ。",
+    "meaning": "He is the driving force behind that reform."
+  },
+  {
+    "sentence": "この者は常に明るい。",
+    "sentence_furigana": "この者【もの】は常【つね】に明【あか】るい。",
+    "meaning": "This person is always cheerful."
+  },
+  {
+    "sentence": "彼は有名なデザイナーです。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】なデザイナーです。",
+    "meaning": "He is a famous designer."
+  },
+  {
+    "sentence": "彼はその組織のリーダー者だ。",
+    "sentence_furigana": "彼【かれ】はその組織【そしき】のリーダー者【しゃ】だ。",
+    "meaning": "He is the leader of that organization."
+  },
+  {
+    "sentence": "この者は常に正直です。",
+    "sentence_furigana": "この者【もの】は常【つね】に正直【しょうじき】です。",
+    "meaning": "This person is always honest."
+  },
+  {
+    "sentence": "彼は優れた教師です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた教師【きょうし】です。",
+    "meaning": "He is an excellent teacher."
+  },
+  {
+    "sentence": "彼はそのプロジェクトの管理者だ。",
+    "sentence_furigana": "彼【かれ】はそプロジェクトの管理者【かんりしゃ】だ。",
+    "meaning": "He is the manager of that project."
+  },
+  {
+    "sentence": "この者は常に前向きな考え方を持っている。",
+    "sentence_furigana": "この者【もの】は常【つね】に前向【まえむ】きな考【かんが】え方【かた】を持【も】っている。",
+    "meaning": "This person always has a positive outlook."
+  },
+  {
+    "sentence": "彼は有名な政治家です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な政治家【せいじか】です。",
+    "meaning": "He is a famous politician."
+  },
+  {
+    "sentence": "彼はその技術の開拓者だ。",
+    "sentence_furigana": "彼【かれ】はそ技術【ぎじゅつ】の開拓者【かいたくしゃ】だ。",
+    "meaning": "He is the pioneer of that technology."
+  },
+  {
+    "sentence": "この者は常に冷静沈着な判断をする。",
+    "sentence_furigana": "この者【もの】は常【つね】に冷静沈着【れいせいちんちゃく】な判断【はんだん】をする。",
+    "meaning": "This person always makes calm and collected judgments."
+  },
+  {
+    "sentence": "彼は優れた調教師です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた調教師【ちょうきょうし】です。",
+    "meaning": "He is an excellent trainer."
+  },
+  {
+    "sentence": "彼はその運動の立役者だ。",
+    "sentence_furigana": "彼【かれ】はそ運動【うんどう】の立役者【たてやくしゃ】だ。",
+    "meaning": "He is the key figure of that movement."
+  },
+  {
+    "sentence": "この者は常に感謝されるべき存在だ。",
+    "sentence_furigana": "この者【もの】は常【つね】に感謝【かんしゃ】されるべき存在【そんざい】だ。",
+    "meaning": "This person is always deserving of gratitude."
+  },
+  {
+    "sentence": "彼は有名な科学者です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な科学者【かがくしゃ】です。",
+    "meaning": "He is a famous scientist."
+  },
+  {
+    "sentence": "彼は経験者として頼りになる。",
+    "sentence_furigana": "彼【かれ】は経験者【けいけんしゃ】として頼【たの】りになる。",
+    "meaning": "He is reliable as an experienced person."
+  },
+  {
+    "sentence": "この者は常に前向きな姿勢を崩さない。",
+    "sentence_furigana": "この者【もの】は常【つね】に前向【まえむ】きな姿勢【しせい】を崩【くず】さない。",
+    "meaning": "This person never loses their positive attitude."
+  },
+  {
+    "sentence": "彼は優れた作曲家です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた作曲家【さっきょくか】です。",
+    "meaning": "He is an excellent composer."
+  },
+  {
+    "sentence": "彼はその問題の専門家だ。",
+    "sentence_furigana": "彼【かれ】はそ問題【もんだい】の専門家【せんもんか】だ。",
+    "meaning": "He is an expert on that problem."
+  },
+  {
+    "sentence": "この者は常に周りを気遣う。",
+    "sentence_furigana": "この者【もの】は常【つね】に周【まわ】りを気遣【きづか】う。",
+    "meaning": "This person always cares about others."
+  },
+  {
+    "sentence": "彼は有名な指揮者です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な指揮者【しきしゃ】です。",
+    "meaning": "He is a famous conductor."
+  },
+  {
+    "sentence": "彼はその発明の考案者だ。",
+    "sentence_furigana": "彼【かれ】はそ発明【はつめい】の考案者【こうあんしゃ】だ。",
+    "meaning": "He is the inventor of that invention."
+  },
+  {
+    "sentence": "この者は常に努力を惜しまない人だ。",
+    "sentence_furigana": "この者【もの】は常【つね】に努力【どりょく】を惜【お】しまない人【ひと】だ。",
+    "meaning": "This person is someone who never spares effort."
+  },
+  {
+    "sentence": "彼は優れた演出家です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた演出家【えんしゅつか】です。",
+    "meaning": "He is an excellent director."
+  },
+  {
+    "sentence": "彼はその業界の先駆者だ。",
+    "sentence_furigana": "彼【かれ】はそ業界【ぎょうかい】の先駆者【せんくしゃ】だ。",
+    "meaning": "He is the pioneer of that industry."
+  },
+  {
+    "sentence": "この者は常に周りの意見を聞く。",
+    "sentence_furigana": "この者【もの】は常【つね】に周【まわ】りの意見【いけん】を聞【き】く。",
+    "meaning": "This person always listens to the opinions of others."
+  },
+  {
+    "sentence": "彼は有名な監督です。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な監督【かんとく】です。",
+    "meaning": "He is a famous director."
+  },
+  {
+    "sentence": "彼はその偉業の達成者だ。",
+    "sentence_furigana": "彼【かれ】はそ偉業【いぎょう】の達成者【たっせいしゃ】だ。",
+    "meaning": "He is the achiever of that great accomplishment."
+  },
+  {
+    "sentence": "この者は常に協力的な態度を示す。",
+    "sentence_furigana": "この者【もの】は常【つね】に協力【きょうりょく】的【てき】な態度【たいど】を示す【しめ】す。",
+    "meaning": "This person always shows a cooperative attitude."
+  },
+  {
+    "sentence": "彼は優れた翻訳家です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた翻訳家【ほんやくか】です。",
+    "meaning": "He is an excellent translator."
+  },
+  {
+    "sentence": "彼はその議論の提起者だ。",
+    "sentence_furigana": "彼【かれ】はそ議論【ぎろん】の提起者【ていきしゃ】だ。",
+    "meaning": "He is the proposer of that argument."
+  },
+  {
+    "sentence": "この者は常に周囲に配慮する。",
+    "sentence_furigana": "この者【もの】は常【つね】に周囲【しゅうい】に配慮【はいりょ】する。",
+    "meaning": "This person always considers those around them."
+  }
+]

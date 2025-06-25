@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "空を見上げると、星がきれいに見えた。",
+    "sentence_furigana": "空【そら】を見上【みあ】げると、星【ほし】がきれいに見【み】えた。",
+    "meaning": "When I looked up at the sky, the stars looked beautiful."
+  },
+  {
+    "sentence": "彼は人々に慕われる人物だ。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】に慕【した】われる人物【じんぶつ】だ。",
+    "meaning": "He is a person admired by people."
+  },
+  {
+    "sentence": "先生の言葉を仰ぎ聞きなさい。",
+    "sentence_furigana": "先生【せんせい】の言葉【ことば】を仰【あお】ぎ聞【き】きなさい。",
+    "meaning": "Listen respectfully to your teacher's words."
+  },
+  {
+    "sentence": "彼の意見に仰ぐところが多い。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】に仰【あお】ぐところが多い【おおい】。",
+    "meaning": "There is much to learn from his opinion."
+  },
+  {
+    "sentence": "その方針は上司の指示を仰いで決定された。",
+    "sentence_furigana": "その方針【ほうしん】は上司【じょうし】の指示【しじ】を仰【あお】いで決定【けってい】された。",
+    "meaning": "That policy was decided by seeking instructions from the boss."
+  },
+  {
+    "sentence": "国民は政府の発表を待っている。",
+    "sentence_furigana": "国民【こくみん】は政府【せいふ】の発表【はっぴょう】を待【ま】っている。",
+    "meaning": "The citizens are waiting for the government's announcement."
+  },
+  {
+    "sentence": "親の教えを仰ぐ。",
+    "sentence_furigana": "親【おや】の教【おし】えを仰【あお】ぐ。",
+    "meaning": "To seek parental guidance."
+  },
+  {
+    "sentence": "彼の発言には誰もが耳を傾けた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】には誰も【だれも】が耳【みみ】を傾【かたむ】けた。",
+    "meaning": "Everyone listened to his statement."
+  },
+  {
+    "sentence": "上官の命令を仰ぐ。",
+    "sentence_furigana": "上官【じょうかん】の命令【めいれい】を仰【あお】ぐ。",
+    "meaning": "To receive orders from a superior officer."
+  },
+  {
+    "sentence": "彼女の成功を心から称える。",
+    "sentence_furigana": "彼女【かのじょ】の成功【せいこう】を心【こころ】から称【たた】える。",
+    "meaning": "To praise her success from the bottom of my heart."
+  },
+  {
+    "sentence": "仰向けに寝て、天井を見つめていた。",
+    "sentence_furigana": "仰向【あおむ】けに寝【ね】て、天井【てんじょう】を見【み】つめていた。",
+    "meaning": "I lay on my back and stared at the ceiling."
+  },
+  {
+    "sentence": "彼は先輩の助言を仰いだ。",
+    "sentence_furigana": "彼【かれ】は先輩【せんぱい】の助言【じょげん】を仰【あお】いだ。",
+    "meaning": "He sought advice from his senior."
+  },
+  {
+    "sentence": "その教訓を仰ぎ生きていく。",
+    "sentence_furigana": "その教訓【きょうくん】を仰【あお】ぎ生【い】きていく。",
+    "meaning": "To live by that lesson."
+  },
+  {
+    "sentence": "私はその芸術家の才能に仰ぎ見るばかりだ。",
+    "sentence_furigana": "私【わたし】はその芸術家【げいじゅつか】の才能【さいのう】に仰【あお】ぎ見【み】るばかりだ。",
+    "meaning": "I can only look up to the artist's talent."
+  },
+  {
+    "sentence": "彼の方針を仰ぐ。",
+    "sentence_furigana": "彼【かれ】の方針【ほうしん】を仰【あお】ぐ。",
+    "meaning": "To follow his policy."
+  },
+  {
+    "sentence": "仰せの通りにいたします。",
+    "sentence_furigana": "仰【おお】せの通【とお】りに行【い】たします。",
+    "meaning": "I will do as you command."
+  },
+  {
+    "sentence": "仰天するようなニュースが入ってきた。",
+    "sentence_furigana": "仰天【ぎょうてん】するようなニュースが入【はい】ってきた。",
+    "meaning": "Astonishing news came in."
+  },
+  {
+    "sentence": "仰望星空，心生敬畏。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る星空【ほしぞら】，心【こころ】生【う】む敬畏【けいい】。",
+    "meaning": "Looking up at the starry sky, I felt awe."
+  },
+  {
+    "sentence": "彼の言葉は常に権威がある。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は常【つね】に権威【けんい】がある。",
+    "meaning": "His words always carry authority."
+  },
+  {
+    "sentence": "仰向けの姿勢で休息をとった。",
+    "sentence_furigana": "仰向【あおむ】けの姿勢【しせい】で休息【きゅうそく】をとった。",
+    "meaning": "I took a rest in a supine position."
+  },
+  {
+    "sentence": "その件については、さらに詳しい情報を伺います。",
+    "sentence_furigana": "その件【けん】については、さらに詳【くわ】しい情報【じょうほう】を伺【うかが】います。",
+    "meaning": "Regarding that matter, I will ask for more detailed information."
+  },
+  {
+    "sentence": "仰ぐべき師。",
+    "sentence_furigana": "仰【あお】ぐべき師【し】。",
+    "meaning": "A master to look up to."
+  },
+  {
+    "sentence": "仰々しい挨拶は不要です。",
+    "sentence_furigana": "仰々【おおぎ】しい挨拶【あいさつ】は不要【ふよう】です。",
+    "meaning": "Exaggerated greetings are unnecessary."
+  },
+  {
+    "sentence": "彼の功績は称賛に値する。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "His achievements are worthy of praise."
+  },
+  {
+    "sentence": "仰々しく申し上げるまでもないことですが。",
+    "sentence_furigana": "仰々【おおぎ】しく申【もう】し上【あ】げるまでもないことですが。",
+    "meaning": "It's not worth mentioning in an exaggerated way, but..."
+  },
+  {
+    "sentence": "仰げば尊し、我が師の恩。",
+    "sentence_furigana": "仰【あお】げば尊【とうと】し、我が師【わがし】の恩【おん】。",
+    "meaning": "When I look up, my teacher's grace is precious."
+  },
+  {
+    "sentence": "上司の意向を仰ぐ。",
+    "sentence_furigana": "上司【じょうし】の意向【いこう】を仰【あお】ぐ。",
+    "meaning": "To seek the superior's intention."
+  },
+  {
+    "sentence": "仰天した表情でこちらを見た。",
+    "sentence_furigana": "仰天【ぎょうてん】した表情【ひょうじょう】でこちらを見【み】た。",
+    "meaning": "He looked at me with an astonished expression."
+  },
+  {
+    "sentence": "天を仰ぐ。",
+    "sentence_furigana": "天【てん】を仰【あお】ぐ。",
+    "meaning": "To look up at the sky."
+  },
+  {
+    "sentence": "仰せは当然です。",
+    "sentence_furigana": "仰【おお】せは当然【とうぜん】です。",
+    "meaning": "Your command is natural."
+  },
+  {
+    "sentence": "彼は多くの人に尊敬されている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】に尊敬【そんけい】されている。",
+    "meaning": "He is respected by many people."
+  },
+  {
+    "sentence": "仰々しい振る舞いは控えるべきだ。",
+    "sentence_furigana": "仰々【おおぎ】しい振【ふ】る舞【ま】いは控【ひか】えるべきだ。",
+    "meaning": "One should refrain from ostentatious behavior."
+  },
+  {
+    "sentence": "仰ぎ見るような偉大な人物。",
+    "sentence_furigana": "仰【あお】ぎ見【み】るような偉大【いだい】な人物【じんぶつ】。",
+    "meaning": "A great person to look up to."
+  },
+  {
+    "sentence": "仰せつかって光栄です。",
+    "sentence_furigana": "仰【おお】せつかって光栄【こうえい】です。",
+    "meaning": "I am honored to be ordered."
+  },
+  {
+    "sentence": "星空を仰ぎ見る。",
+    "sentence_furigana": "星空【ほしぞら】を仰【あお】ぎ見【み】る。",
+    "meaning": "To gaze at the starry sky."
+  },
+  {
+    "sentence": "彼はその分野の権威である。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】の権威【けんい】である。",
+    "meaning": "He is an authority in that field."
+  },
+  {
+    "sentence": "仰々しい装飾は必要ない。",
+    "sentence_furigana": "仰々【おおぎ】しい装飾【そうしょく】は必要【ひつよう】ない。",
+    "meaning": "Elaborate decorations are not necessary."
+  },
+  {
+    "sentence": "仰げば尊し、我が師の恩。",
+    "sentence_furigana": "仰【あお】げば尊【とうと】し、我が師【わがし】の恩【おん】。",
+    "meaning": "When I look up, my teacher's grace is precious."
+  },
+  {
+    "sentence": "仰せのままに。",
+    "sentence_furigana": "仰【おお】せのままに。",
+    "meaning": "As you command."
+  },
+  {
+    "sentence": "仰ぐ対象。",
+    "sentence_furigana": "仰【あお】ぐ対象【たいしょう】。",
+    "meaning": "An object of admiration."
+  },
+  {
+    "sentence": "仰ぎ見る高峰。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る高峰【こうほう】。",
+    "meaning": "A high peak to look up to."
+  },
+  {
+    "sentence": "仰向けの姿勢でリラックスした。",
+    "sentence_furigana": "仰向【あおむ】けの姿勢【しせい】でリラックスした。",
+    "meaning": "I relaxed in a supine position."
+  },
+  {
+    "sentence": "師の教えを仰ぐ。",
+    "sentence_furigana": "師【し】の教【おし】えを仰【あお】ぐ。",
+    "meaning": "To seek the teachings of one's master."
+  },
+  {
+    "sentence": "仰ぎ見るべき伝統。",
+    "sentence_furigana": "仰【あお】ぎ見【み】るべき伝統【でんとう】。",
+    "meaning": "Traditions to look up to."
+  },
+  {
+    "sentence": "彼の指示を仰いで行動する。",
+    "sentence_furigana": "彼【かれ】の指示【しじ】を仰【あお】いで行動【こうどう】する。",
+    "meaning": "To act based on his instructions."
+  },
+  {
+    "sentence": "仰せられた。",
+    "sentence_furigana": "仰【おお】せられた。",
+    "meaning": "It was ordered."
+  },
+  {
+    "sentence": "仰望天日。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る天日【てんじつ】。",
+    "meaning": "To look up at the sun."
+  },
+  {
+    "sentence": "仰々しい態度はやめろ。",
+    "sentence_furigana": "仰々【おおぎ】しい態度【たいど】はやめろ。",
+    "meaning": "Stop the pretentious attitude."
+  },
+  {
+    "sentence": "仰ぐと天まで届きそうだ。",
+    "sentence_furigana": "仰【あお】ぐと天【てん】まで届【とど】きそうだ。",
+    "meaning": "If you look up, it seems to reach the sky."
+  },
+  {
+    "sentence": "仰ぎ見る偉業。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る偉業【いぎょう】。",
+    "meaning": "Great achievements to look up to."
+  },
+  {
+    "sentence": "仰せの通りに準備します。",
+    "sentence_furigana": "仰【おお】せの通【とお】りに行【じゅん】びします。",
+    "meaning": "I will prepare as you command."
+  },
+  {
+    "sentence": "彼は皆の尊敬を集めている。",
+    "sentence_furigana": "彼【かれ】は皆【みな】の尊敬【そんけい】を集【あつ】めている。",
+    "meaning": "He is gathering the respect of everyone."
+  },
+  {
+    "sentence": "仰ぎ見る人。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る人【ひと】。",
+    "meaning": "A person to look up to."
+  },
+  {
+    "sentence": "仰々しい言葉。",
+    "sentence_furigana": "仰々【おおぎ】しい言葉【ことば】。",
+    "meaning": "Exaggerated words."
+  },
+  {
+    "sentence": "仰望聖山。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る聖山【せいざん】。",
+    "meaning": "To look up at the sacred mountain."
+  },
+  {
+    "sentence": "仰せになったら、すぐに従います。",
+    "sentence_furigana": "仰【おお】せになったら、すぐに従【したが】います。",
+    "meaning": "If you command it, I will obey immediately."
+  },
+  {
+    "sentence": "仰ぎ見る偉人。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る偉人【いじん】。",
+    "meaning": "A great person to look up to."
+  },
+  {
+    "sentence": "仰げば尊し、我が師の恩。",
+    "sentence_furigana": "仰【あお】げば尊【とうと】し、我が師【わがし】の恩【おん】。",
+    "meaning": "When I look up, my teacher's grace is precious."
+  },
+  {
+    "sentence": "仰向けで寝るのが好きだ。",
+    "sentence_furigana": "仰向【あおむ】けで寝【ね】るのが好【す】きだ。",
+    "meaning": "I like sleeping on my back."
+  },
+  {
+    "sentence": "仰ぎ見る芸術。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る芸術【げいじゅつ】。",
+    "meaning": "Art to admire."
+  },
+  {
+    "sentence": "仰せになる。",
+    "sentence_furigana": "仰【おお】せになる。",
+    "meaning": "To be commanded."
+  },
+  {
+    "sentence": "仰望明月。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る明月【めいげつ】。",
+    "meaning": "To look up at the bright moon."
+  },
+  {
+    "sentence": "仰せの通りに実行します。",
+    "sentence_furigana": "仰【おお】せの通【とお】りに行【じっこう】します。",
+    "meaning": "I will carry it out as ordered."
+  },
+  {
+    "sentence": "仰ぐべき先達。",
+    "sentence_furigana": "仰【あお】ぐべき先達【せんだつ】。",
+    "meaning": "A predecessor to look up to."
+  },
+  {
+    "sentence": "仰ぎ見る歴史。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る歴史【れきし】。",
+    "meaning": "History to look up to."
+  },
+  {
+    "sentence": "仰せの件、承知いたしました。",
+    "sentence_furigana": "仰【おお】せの件【けん】、承知【しょうち】いたしました。",
+    "meaning": "I have understood the matter you ordered."
+  },
+  {
+    "sentence": "仰向けに読書する。",
+    "sentence_furigana": "仰向【あおむ】けに読書【どくしょ】する。",
+    "meaning": "To read a book while lying on one's back."
+  },
+  {
+    "sentence": "仰望蒼穹。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る蒼穹【そうきゅう】。",
+    "meaning": "To look up at the blue sky."
+  },
+  {
+    "sentence": "仰せを受ける。",
+    "sentence_furigana": "仰【おお】せを受【う】ける。",
+    "meaning": "To receive an order."
+  },
+  {
+    "sentence": "仰ぎ見る父の背中。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る父【ちち】の背中【せなか】。",
+    "meaning": "The back of my father whom I look up to."
+  },
+  {
+    "sentence": "仰々しく話す必要はない。",
+    "sentence_furigana": "仰々【おおぎ】しく話【はな】す必要【ひつよう】はない。",
+    "meaning": "There is no need to speak pompously."
+  },
+  {
+    "sentence": "仰望彼方の光。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る彼方【かなた】の光【ひかり】。",
+    "meaning": "To look up at the light in the distance."
+  },
+  {
+    "sentence": "仰せの通りに実行された。",
+    "sentence_furigana": "仰【おお】せの通【とお】りに行【じっこう】された。",
+    "meaning": "It was executed as ordered."
+  },
+  {
+    "sentence": "仰ぎ見る先人。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る先人【せんじん】。",
+    "meaning": "Forerunners to look up to."
+  },
+  {
+    "sentence": "仰ぎ見る理想。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る理想【りそう】。",
+    "meaning": "Ideals to strive for."
+  },
+  {
+    "sentence": "仰せの言葉を胸に刻む。",
+    "sentence_furigana": "仰【おお】せの言葉【ことば】を胸【むね】に刻【きざ】む。",
+    "meaning": "To engrave the commanded words in my heart."
+  },
+  {
+    "sentence": "仰望する。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る。",
+    "meaning": "To look up."
+  },
+  {
+    "sentence": "仰ぎ見る母校。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る母校【ぼこう】。",
+    "meaning": "My alma mater, which I look up to."
+  },
+  {
+    "sentence": "仰せの件、検討いたします。",
+    "sentence_furigana": "仰【おお】せの件【けん】、検討【けんとう】いたします。",
+    "meaning": "I will consider the matter you ordered."
+  },
+  {
+    "sentence": "仰向けの体勢で眠る。",
+    "sentence_furigana": "仰向【あおむ】けの体勢【たいせい】で眠【ねむ】る。",
+    "meaning": "To sleep in a supine position."
+  },
+  {
+    "sentence": "仰ぎ見るほどの偉業だ。",
+    "sentence_furigana": "仰【あお】ぎ見【み】るほどの偉業【いぎょう】だ。",
+    "meaning": "It's a great achievement to look up to."
+  },
+  {
+    "sentence": "仰せになるまで待つ。",
+    "sentence_furigana": "仰【おお】せになるまで待【ま】つ。",
+    "meaning": "To wait until commanded."
+  },
+  {
+    "sentence": "仰望遠方。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る遠方【えんぽう】。",
+    "meaning": "To look up at a distant place."
+  },
+  {
+    "sentence": "仰ぎ見る人の言葉。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る人【ひと】の言葉【ことば】。",
+    "meaning": "Words of the person one looks up to."
+  },
+  {
+    "sentence": "仰せのごとく。",
+    "sentence_furigana": "仰【おお】せのごとく。",
+    "meaning": "As you command."
+  },
+  {
+    "sentence": "仰ぎ見る高み。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る高【たか】み。",
+    "meaning": "A height to look up to."
+  },
+  {
+    "sentence": "仰向けになる。",
+    "sentence_furigana": "仰向【あおむ】けになる。",
+    "meaning": "To lie on one's back."
+  },
+  {
+    "sentence": "仰せになるなら。",
+    "sentence_furigana": "仰【おお】せになるなら。",
+    "meaning": "If you command it."
+  },
+  {
+    "sentence": "仰望聖賢。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る聖賢【せいけん】。",
+    "meaning": "To look up to the sages."
+  },
+  {
+    "sentence": "仰ぎ見る人の意見。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る人【ひと】の意見【いけん】。",
+    "meaning": "The opinion of the person one looks up to."
+  },
+  {
+    "sentence": "仰せになりますか？",
+    "sentence_furigana": "仰【おお】せになりますか？",
+    "meaning": "Do you command it?"
+  },
+  {
+    "sentence": "仰ぎ見る人の教え。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る人【ひと】の教【おし】え。",
+    "meaning": "The teachings of the person one looks up to."
+  },
+  {
+    "sentence": "仰せの通りに。",
+    "sentence_furigana": "仰【おお】せの通【とお】りに。",
+    "meaning": "As you command."
+  },
+  {
+    "sentence": "仰望成功。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る成功【せいこう】。",
+    "meaning": "To look forward to success."
+  },
+  {
+    "sentence": "仰せを乞う。",
+    "sentence_furigana": "仰【おお】せを乞【こ】う。",
+    "meaning": "To ask for orders."
+  },
+  {
+    "sentence": "仰ぎ見る人物像。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る人物像【じんぶつぞう】。",
+    "meaning": "The image of a person to look up to."
+  },
+  {
+    "sentence": "仰せになること。",
+    "sentence_furigana": "仰【おお】せになること。",
+    "meaning": "What is commanded."
+  },
+  {
+    "sentence": "仰向けで横になる。",
+    "sentence_furigana": "仰向【あおむ】けで横【よこ】になる。",
+    "meaning": "To lie down on one's back."
+  },
+  {
+    "sentence": "仰ぎ見る理想像。",
+    "sentence_furigana": "仰【あお】ぎ見【み】る理想像【りそうぞう】。",
+    "meaning": "An ideal image to look up to."
+  },
+  {
+    "sentence": "仰せの通りにいたします。",
+    "sentence_furigana": "仰【おお】せの通【とお】りに行【い】たします。",
+    "meaning": "I will do as you command."
+  }
+]

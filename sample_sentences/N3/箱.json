@@ -1,0 +1,457 @@
+[
+  {
+    "sentence": "この箱はとても重い。",
+    "sentence_furigana": "この箱【はこ】はとても重【おも】い。",
+    "meaning": "This box is very heavy."
+  },
+  {
+    "sentence": "箱の中に何が入っているのだろうか？",
+    "sentence_furigana": "箱【はこ】の中【なか】に何【なに】が入【はい】っているのだろうか？",
+    "meaning": "I wonder what is inside the box."
+  },
+  {
+    "sentence": "彼は大きな箱を運んでいた。",
+    "sentence_furigana": "彼【かれ】は的大【おお】きな箱【はこ】を運【はこ】んでいた。",
+    "meaning": "He was carrying a large box."
+  },
+  {
+    "sentence": "プレゼントの箱を開けてみた。",
+    "sentence_furigana": "プレゼントの箱【はこ】を開【あ】けてみた。",
+    "meaning": "I tried opening the gift box."
+  },
+  {
+    "sentence": "箱舟が海に浮かんでいた。",
+    "sentence_furigana": "箱舟【はこぶね】が海【うみ】に浮【う】かんでいた。",
+    "meaning": "An ark was floating on the sea."
+  },
+  {
+    "sentence": "段ボールの箱をリサイクルに出した。",
+    "sentence_furigana": "段ボールの箱【はこ】をリサイクルに出【だ】した。",
+    "meaning": "I put the cardboard box out for recycling."
+  },
+  {
+    "sentence": "この箱には古い手紙がたくさん入っている。",
+    "sentence_furigana": "この箱【はこ】には古【ふる】い手紙【てがみ】がたくさん入【はい】っている。",
+    "meaning": "This box contains many old letters."
+  },
+  {
+    "sentence": "箱の中身を確認してください。",
+    "sentence_furigana": "箱【はこ】の中身【なかみ】を確認【かくにん】してください。",
+    "meaning": "Please check the contents of the box."
+  },
+  {
+    "sentence": "子供がおもちゃの箱を片付けている。",
+    "sentence_furigana": "子供【こども】がおもちゃの箱【はこ】を片付【かたづ】けている。",
+    "meaning": "The child is tidying up the toy box."
+  },
+  {
+    "sentence": "箱詰めされた果物が届いた。",
+    "sentence_furigana": "箱詰【はこづ】めされた果物【くだもの】が届【とど】いた。",
+    "meaning": "The boxed fruit arrived."
+  },
+  {
+    "sentence": "箱を開けるのが楽しみだ。",
+    "sentence_furigana": "箱【はこ】を開【あ】けるのが楽【たの】しみだ。",
+    "meaning": "I'm looking forward to opening the box."
+  },
+  {
+    "sentence": "この箱は壊れやすいので注意してください。",
+    "sentence_furigana": "この箱【はこ】は壊【こわ】れやすいので注意【ちゅうい】してください。",
+    "meaning": "This box is fragile, so please be careful."
+  },
+  {
+    "sentence": "箱から出したばかりのリンゴは新鮮だ。",
+    "sentence_furigana": "箱【はこ】から出【だ】したばかりのリンゴは新鮮【しんせん】だ。",
+    "meaning": "The apples just taken out of the box are fresh."
+  },
+  {
+    "sentence": "箱に名前を書いておいてください。",
+    "sentence_furigana": "箱【はこ】に名前【なまえ】を書いて【かいて】おいてください。",
+    "meaning": "Please write your name on the box."
+  },
+  {
+    "sentence": "彼は宝箱を見つけた。",
+    "sentence_furigana": "彼【かれ】は宝箱【たからばこ】を見【み】つけた。",
+    "meaning": "He found a treasure chest."
+  },
+  {
+    "sentence": "箱入り娘という言葉がある。",
+    "sentence_furigana": "箱入【はこい】り娘【むすめ】という言葉【ことば】がある。",
+    "meaning": "There is a saying 'a sheltered daughter'."
+  },
+  {
+    "sentence": "箱の底に写真が一枚あった。",
+    "sentence_furigana": "箱【はこ】の底【そこ】に写真【しゃしん】が一枚【いちまい】あった。",
+    "meaning": "There was one photograph at the bottom of the box."
+  },
+  {
+    "sentence": "この箱は組み立て式です。",
+    "sentence_furigana": "この箱【はこ】は組【く】み立【た】て式【しき】です。",
+    "meaning": "This box is self-assembly."
+  },
+  {
+    "sentence": "箱庭療法というものがあると聞いた。",
+    "sentence_furigana": "箱庭【はこにわ】療法【りょうほう】というものがあると聞【き】いた。",
+    "meaning": "I heard there is something called sandplay therapy."
+  },
+  {
+    "sentence": "箱崎さんは私の隣の席です。",
+    "sentence_furigana": "箱崎【はこざき】さんは私【わたし】の隣【となり】の席【せき】です。",
+    "meaning": "Ms. Hakozaki is in the seat next to me."
+  },
+  {
+    "sentence": "彼は箱屋と呼ばれるほど、箱を作り続けた。",
+    "sentence_furigana": "彼【かれ】は箱屋【はこや】と呼【よ】ばれるほど、箱【はこ】を作【つく】り続【つづ】けた。",
+    "meaning": "He continued making boxes to the point of being called a box maker."
+  },
+  {
+    "sentence": "箱に詰められた品物を運ぶ。",
+    "sentence_furigana": "箱【はこ】に詰【つ】められた品物【しなもの】を運【はこ】ぶ。",
+    "meaning": "To transport items packed in boxes."
+  },
+  {
+    "sentence": "この箱は特別な意味を持っている。",
+    "sentence_furigana": "この箱【はこ】は特別【とくべつ】な意味【いみ】を持【も】っている。",
+    "meaning": "This box has a special meaning."
+  },
+  {
+    "sentence": "箱から取り出した果物はまだ冷たかった。",
+    "sentence_furigana": "箱【はこ】から取【と】り出【だ】した果物【くだもの】はまだ冷【つめ】たかった。",
+    "meaning": "The fruit taken out of the box was still cold."
+  },
+  {
+    "sentence": "箱の中に金貨が山積みになっていた。",
+    "sentence_furigana": "箱【はこ】の中【なか】に金貨【きんか】が山積【やまづ】みになっていた。",
+    "meaning": "Gold coins were piled up in the box."
+  },
+  {
+    "sentence": "箱の側面には装飾が施されていた。",
+    "sentence_furigana": "箱【はこ】の側面【そくめん】には装飾【そうしょく】が施【ほどこ】されていた。",
+    "meaning": "The sides of the box were decorated."
+  },
+  {
+    "sentence": "箱を一つ開けるごとに発見があった。",
+    "sentence_furigana": "箱【はこ】を一つ開【ひら】けるごとに行【あ】った。",
+    "meaning": "There was a discovery with each box opened."
+  },
+  {
+    "sentence": "この箱には古い写真がたくさん入っている。",
+    "sentence_furigana": "この箱【はこ】には古【ふる】い写真【しゃしん】がたくさん入【はい】っている。",
+    "meaning": "This box contains many old photographs."
+  },
+  {
+    "sentence": "箱が積み上げられている。",
+    "sentence_furigana": "箱【はこ】が積【つ】み上【あ】げられている。",
+    "meaning": "The boxes are piled up."
+  },
+  {
+    "sentence": "箱にラベルを貼った方がいい。",
+    "sentence_furigana": "箱【はこ】にラベルを貼【は】った方【ほう】がいい。",
+    "meaning": "It's better to put a label on the box."
+  },
+  {
+    "sentence": "箱の中には珍しいものがたくさんあった。",
+    "sentence_furigana": "箱【はこ】の中【なか】には珍【めずら】しいものがたくさんあった。",
+    "meaning": "There were many rare items in the box."
+  },
+  {
+    "sentence": "箱舟で海を渡る話を知っている。",
+    "sentence_furigana": "箱舟【はこぶね】で海【うみ】を渡【わた】る話【はなし】を知【し】っている。",
+    "meaning": "I know the story of crossing the sea in an ark."
+  },
+  {
+    "sentence": "箱崎さんが新しいプロジェクトのリーダーになった。",
+    "sentence_furigana": "箱崎【はこざき】さんが新【あたら】しいプロジェクトのリーダーになった。",
+    "meaning": "Ms. Hakozaki became the leader of the new project."
+  },
+  {
+    "sentence": "この箱は非常に頑丈に作られている。",
+    "sentence_furigana": "この箱【はこ】は非常【ひじょう】に頑丈【がんじょう】に作【つく】られている。",
+    "meaning": "This box is made very sturdily."
+  },
+  {
+    "sentence": "箱を開けると、甘い香りがした。",
+    "sentence_furigana": "箱【はこ】を開【あ】けると、甘【あま】い香【かお】りがした。",
+    "meaning": "When I opened the box, there was a sweet scent."
+  },
+  {
+    "sentence": "箱に絵を描いて装飾する。",
+    "sentence_furigana": "箱【はこ】に絵【え】を描【か】いて装飾【そうしょく】する。",
+    "meaning": "To draw pictures on the box for decoration."
+  },
+  {
+    "sentence": "箱から出したばかりのケーキはまだ温かかった。",
+    "sentence_furigana": "箱【はこ】から出【だ】したばかりのケーキはまだ温【あたた】かかった。",
+    "meaning": "The cake just taken out of the box was still warm."
+  },
+  {
+    "sentence": "箱の中に古い地図が入っていた。",
+    "sentence_furigana": "箱【はこ】の中【なか】に古【ふる】い地図【ちず】が入【はい】っていた。",
+    "meaning": "An old map was inside the box."
+  },
+  {
+    "sentence": "箱崎の町並みを散策する。",
+    "sentence_furigana": "箱崎【はこざき】の町並【まちな】みを散策【さんさく】する。",
+    "meaning": "To stroll through the townscape of Hakozaki."
+  },
+  {
+    "sentence": "箱には鍵がかかっていた。",
+    "sentence_furigana": "箱【はこ】には鍵【かぎ】がかかっていた。",
+    "meaning": "The box was locked."
+  },
+  {
+    "sentence": "箱の中から出てきたのは古い写真だった。",
+    "sentence_furigana": "箱【はこ】の中【なか】から出【で】てきたのは古【ふる】い写真【しゃしん】だった。",
+    "meaning": "What came out of the box was an old photograph."
+  },
+  {
+    "sentence": "箱を丁寧に梱包してください。",
+    "sentence_furigana": "箱【はこ】を丁寧【ていねい】に梱包【こんぽう】してください。",
+    "meaning": "Please pack the box carefully."
+  },
+  {
+    "sentence": "箱の中に秘密が隠されている。",
+    "sentence_furigana": "箱【はこ】の中【なか】に秘密【ひみつ】が隠【かく】されている。",
+    "meaning": "A secret is hidden in the box."
+  },
+  {
+    "sentence": "彼は箱いっぱいの本を運んだ。",
+    "sentence_furigana": "彼【かれ】は箱【はこ】いっぱいの本【ほん】を運【はこ】んだ。",
+    "meaning": "He carried a box full of books."
+  },
+  {
+    "sentence": "この箱は特別製です。",
+    "sentence_furigana": "この箱【はこ】は特別製【とくべつせい】です。",
+    "meaning": "This box is custom-made."
+  },
+  {
+    "sentence": "箱から取り出した小刀は鋭かった。",
+    "sentence_furigana": "箱【はこ】から取【と】り出【だ】した小刀【こがたな】は鋭【するど】かった。",
+    "meaning": "The small knife taken out of the box was sharp."
+  },
+  {
+    "sentence": "箱庭で遊ぶのが好きだ。",
+    "sentence_furigana": "箱庭【はこにわ】で遊【あそ】ぶのが好【す】きだ。",
+    "meaning": "I like playing in the miniature garden."
+  },
+  {
+    "sentence": "箱崎先生は素晴らしい先生です。",
+    "sentence_furigana": "箱崎【はこざき】先生【せんせい】は素晴【すば】らしい先生【せんせい】です。",
+    "meaning": "Professor Hakozaki is a wonderful teacher."
+  },
+  {
+    "sentence": "箱に描かれた絵が美しい。",
+    "sentence_furigana": "箱【はこ】に描【か】かれた絵【え】が美【うつく】しい。",
+    "meaning": "The picture drawn on the box is beautiful."
+  },
+  {
+    "sentence": "箱を開ける前にはワクワクする。",
+    "sentence_furigana": "箱【はこ】を開【あ】ける前【まえ】にはワクワクする。",
+    "meaning": "I get excited before opening the box."
+  },
+  {
+    "sentence": "箱の中に何が入っているか、誰も知らない。",
+    "sentence_furigana": "箱【はこ】の中【なか】に何【なに】が入【はい】っているか、誰【だれ】も知【し】らない。",
+    "meaning": "Nobody knows what is in the box."
+  },
+  {
+    "sentence": "箱を開けたら、宝石がたくさん出てきた。",
+    "sentence_furigana": "箱【はこ】を開【あ】けたら、宝石【ほうせき】がたくさん出【で】てきた。",
+    "meaning": "When I opened the box, many jewels came out."
+  },
+  {
+    "sentence": "この箱はとても古いものです。",
+    "sentence_furigana": "この箱【はこ】はとても古【ふる】いものです。",
+    "meaning": "This box is very old."
+  },
+  {
+    "sentence": "箱崎氏からの手紙を受け取った。",
+    "sentence_furigana": "箱崎【はこざき】氏【し】からの手紙【てがみ】を受【う】け取【と】った。",
+    "meaning": "I received a letter from Mr. Hakozaki."
+  },
+  {
+    "sentence": "箱の中に人形が入っていた。",
+    "sentence_furigana": "箱【はこ】の中【なか】に人形【にんぎょう】が入【はい】っていた。",
+    "meaning": "There was a doll in the box."
+  },
+  {
+    "sentence": "箱を組み立てるのに時間がかかった。",
+    "sentence_furigana": "箱【はこ】を組【く】み立【た】てるのに時間【じかん】がかかった。",
+    "meaning": "It took time to assemble the box."
+  },
+  {
+    "sentence": "箱から取り出したのは、古いアルバムだった。",
+    "sentence_furigana": "箱【はこ】から取【と】り出【だ】したのは、古【ふる】いアルバムだった。",
+    "meaning": "What was taken out of the box was an old album."
+  },
+  {
+    "sentence": "箱に収まりきらないほどたくさんの荷物があった。",
+    "sentence_furigana": "箱【はこ】に収【おさ】まりきらないほどたくさん荷物【にもつ】があった。",
+    "meaning": "There was so much luggage that it didn't fit in the box."
+  },
+  {
+    "sentence": "箱崎海岸は美しい景色で有名です。",
+    "sentence_furigana": "箱崎【はこざき】海岸【かいがん】は美【うつく】しい景色【けしき】で有名【ゆうめい】です。",
+    "meaning": "Hakozaki Coast is famous for its beautiful scenery."
+  },
+  {
+    "sentence": "箱の中に何も入っていなかった。",
+    "sentence_furigana": "箱【はこ】の中【なか】に何も入【はい】っていなかった。",
+    "meaning": "There was nothing in the box."
+  },
+  {
+    "sentence": "箱を丁寧に開けてください。",
+    "sentence_furigana": "箱【はこ】を丁寧【ていねい】に開【あ】けてください。",
+    "meaning": "Please open the box carefully."
+  },
+  {
+    "sentence": "箱崎氏が新しい提案をしてきた。",
+    "sentence_furigana": "箱崎【はこざき】氏【し】が新【あたら】しい提案【ていあん】をしてきた。",
+    "meaning": "Mr. Hakozaki made a new proposal."
+  },
+  {
+    "sentence": "箱の中に奇妙な音が聞こえた。",
+    "sentence_furigana": "箱【はこ】の中【なか】に奇妙【きみょう】な音【おと】が聞【き】こえた。",
+    "meaning": "A strange sound was heard from the box."
+  },
+  {
+    "sentence": "箱の中身を取り出して並べた。",
+    "sentence_furigana": "箱【はこ】の中身【なかみ】を取【と】り出【だ】して並【なら】べた。",
+    "meaning": "I took out the contents of the box and lined them up."
+  },
+  {
+    "sentence": "この箱は特別な意味を込めて作られた。",
+    "sentence_furigana": "この箱【はこ】は特別【とくべつ】な意味【いみ】を込【こ】めて作【つく】られた。",
+    "meaning": "This box was made with special meaning."
+  },
+  {
+    "sentence": "箱崎さんの絵は個性的だ。",
+    "sentence_furigana": "箱崎【はこざき】さんの絵【え】は個性的【こせいてき】だ。",
+    "meaning": "Ms. Hakozaki's paintings are unique."
+  },
+  {
+    "sentence": "箱を運ぶのは重労働だ。",
+    "sentence_furigana": "箱【はこ】を運【はこ】ぶのは重労働【じゅうろうどう】だ。",
+    "meaning": "Carrying boxes is hard labor."
+  },
+  {
+    "sentence": "箱の中から珍しい骨董品が出てきた。",
+    "sentence_furigana": "箱【はこ】の中【なか】から珍【めずら】しい骨董品【こっとうひん】が出【で】てきた。",
+    "meaning": "Rare antiques came out of the box."
+  },
+  {
+    "sentence": "箱崎氏は会議に遅れて到着した。",
+    "sentence_furigana": "箱崎【はこざき】氏は会議【かいぎ】に遅【おく】れて到着【とうちゃく】した。",
+    "meaning": "Mr. Hakozaki arrived late for the meeting."
+  },
+  {
+    "sentence": "箱の底に小さな穴が開いていた。",
+    "sentence_furigana": "箱【はこ】の底【そこ】に小【ちい】さな穴【あな】が開【あ】いていた。",
+    "meaning": "There was a small hole at the bottom of the box."
+  },
+  {
+    "sentence": "箱の中身を取り出して検査する。",
+    "sentence_furigana": "箱【はこ】の中身【なかみ】を取【と】り出【だ】して検査【けんさ】する。",
+    "meaning": "To take out the contents of the box and inspect them."
+  },
+  {
+    "sentence": "箱を開けると、驚くべきものが現れた。",
+    "sentence_furigana": "箱【はこ】を開【あ】けると、驚【おどろ】くべきものが出【あら】われた。",
+    "meaning": "When I opened the box, something amazing appeared."
+  },
+  {
+    "sentence": "箱崎さんは音楽の才能に恵まれている。",
+    "sentence_furigana": "箱崎【はこざき】さんは音楽【おんがく】の才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "Ms. Hakozaki is blessed with musical talent."
+  },
+  {
+    "sentence": "箱の中に隠されたメッセージを見つけた。",
+    "sentence_furigana": "箱【はこ】の中【なか】に隠【かく】されたメッセージを見【み】つけた。",
+    "meaning": "I found a hidden message in the box."
+  },
+  {
+    "sentence": "箱崎へ行くための切符を買った。",
+    "sentence_furigana": "箱崎【はこざき】へ行【い】くための切符【きっぷ】を買【か】った。",
+    "meaning": "I bought a ticket to go to Hakozaki."
+  },
+  {
+    "sentence": "箱の中に何が入っているか想像する。",
+    "sentence_furigana": "箱【はこ】の中【なか】に何【なに】が入【はい】っているか想像【そうぞう】する。",
+    "meaning": "To imagine what is in the box."
+  },
+  {
+    "sentence": "箱崎氏の講演は非常に興味深かった。",
+    "sentence_furigana": "箱崎【はこざき】氏【し】の講演【こうえん】は非常【ひじょう】に興味深【きょうみぶか】かった。",
+    "meaning": "Mr. Hakozaki's lecture was very interesting."
+  },
+  {
+    "sentence": "箱を丁寧に閉じてください。",
+    "sentence_furigana": "箱【はこ】を丁寧【ていねい】に閉【と】じてください。",
+    "meaning": "Please close the box carefully."
+  },
+  {
+    "sentence": "箱から取り出した手紙は古びていた。",
+    "sentence_furigana": "箱【はこ】から取【と】り出【だ】した手紙【てがみ】は古【ふる】びていた。",
+    "meaning": "The letter taken out of the box was old."
+  },
+  {
+    "sentence": "箱崎の祭りを楽しみにしている。",
+    "sentence_furigana": "箱崎【はこざき】の祭【まつ】りを楽し【たの】しみにしている。",
+    "meaning": "I am looking forward to the Hakozaki festival."
+  },
+  {
+    "sentence": "箱の中に謎が秘められている。",
+    "sentence_furigana": "箱【はこ】の中【なか】に謎【なぞ】が秘【ひ】められている。",
+    "meaning": "A mystery is hidden in the box."
+  },
+  {
+    "sentence": "箱崎さんはいつも笑顔だ。",
+    "sentence_furigana": "箱崎【はこざき】さんはいつも笑顔【えがお】だ。",
+    "meaning": "Ms. Hakozaki always has a smile."
+  },
+  {
+    "sentence": "箱から出したばかりのパンはまだ焼きたてだった。",
+    "sentence_furigana": "箱【はこ】から出【だ】したばかりのパンはまだ焼きた【やきた】てだった。",
+    "meaning": "The bread just taken out of the box was still freshly baked."
+  },
+  {
+    "sentence": "箱崎の海はとてもきれいです。",
+    "sentence_furigana": "箱崎【はこざき】の海【うみ】はとてもきれいです。",
+    "meaning": "The sea in Hakozaki is very beautiful."
+  },
+  {
+    "sentence": "箱に貼ってあったシールを剥がした。",
+    "sentence_furigana": "箱【はこ】に貼【は】ってあったシールを剥【は】がした。",
+    "meaning": "I peeled off the sticker that was on the box."
+  },
+  {
+    "sentence": "箱崎さんは新しい本を出版した。",
+    "sentence_furigana": "箱崎【はこざき】さんは新【あたら】しい本【ほん】を出版【しゅっぱん】した。",
+    "meaning": "Ms. Hakozaki published a new book."
+  },
+  {
+    "sentence": "箱の中から古い硬貨が出てきた。",
+    "sentence_furigana": "箱【はこ】の中【なか】から古【ふる】い硬貨【こうか】が出【で】てきた。",
+    "meaning": "Old coins came out of the box."
+  },
+  {
+    "sentence": "箱崎さんの研究は注目されている。",
+    "sentence_furigana": "箱崎【はこざき】さんの研究【けんきゅう】は注目【ちゅうもく】されている。",
+    "meaning": "Ms. Hakozaki's research is attracting attention."
+  },
+  {
+    "sentence": "箱の中身は秘密にしておく。",
+    "sentence_furigana": "箱【はこ】の中身【なかみ】は秘密【ひみつ】にしておく。",
+    "meaning": "I will keep the contents of the box a secret."
+  },
+  {
+    "sentence": "箱崎の景色はとても素晴らしい。",
+    "sentence_furigana": "箱崎【はこざき】の景色【けしき】はとても素晴【すば】らしい。",
+    "meaning": "The scenery in Hakozaki is very wonderful."
+  },
+  {
+    "sentence": "箱崎さんは新しいお店を開店した。",
+    "sentence_furigana": "箱崎【はこざき】さんは新【あたら】しいお店【みせ】を開店【かいてん】した。",
+    "meaning": "Ms. Hakozaki opened a new store."
+  }
+]

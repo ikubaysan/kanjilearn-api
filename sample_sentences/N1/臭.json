@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "この魚はひどく臭い。",
+    "sentence_furigana": "この魚【さかな】はひどく臭【くさ】い。",
+    "meaning": "This fish stinks terribly."
+  },
+  {
+    "sentence": "汗臭い服を着替えた。",
+    "sentence_furigana": "汗臭【あせくさ】い服【ふく】を着替【きが】えた。",
+    "meaning": "I changed out of my sweaty clothes."
+  },
+  {
+    "sentence": "彼の言い訳は何か臭う。",
+    "sentence_furigana": "彼【かれ】の言い訳【いいわけ】は何か臭【くさ】う。",
+    "meaning": "His excuse smells suspicious."
+  },
+  {
+    "sentence": "腐った卵の臭いがした。",
+    "sentence_furigana": "腐【くさ】った卵【たまご】の臭【にお】いがした。",
+    "meaning": "There was the smell of rotten eggs."
+  },
+  {
+    "sentence": "この部屋はカビ臭い。",
+    "sentence_furigana": "この部屋【へや】はカビ臭【くさ】い。",
+    "meaning": "This room smells musty."
+  },
+  {
+    "sentence": "コーヒーの香りが漂っている。",
+    "sentence_furigana": "コーヒーの香【かお】りが漂【ただよ】っている。",
+    "meaning": "The aroma of coffee is wafting."
+  },
+  {
+    "sentence": "バラの芳しい香りがする。",
+    "sentence_furigana": "バラの芳【かぐわ】しい香【かお】りがする。",
+    "meaning": "The roses have a fragrant scent."
+  },
+  {
+    "sentence": "動物の臭いを消す。",
+    "sentence_furigana": "動物【どうぶつ】の臭【にお】いを消【け】す。",
+    "meaning": "To remove the animal's scent."
+  },
+  {
+    "sentence": "夏の終わりには独特の臭いがある。",
+    "sentence_furigana": "夏【なつ】の終【お】わりには独特【どくとく】の臭【にお】いがある。",
+    "meaning": "The end of summer has a peculiar smell."
+  },
+  {
+    "sentence": "消臭剤を使っている。",
+    "sentence_furigana": "消臭剤【しょうしゅうざい】を使【つか】っている。",
+    "meaning": "I am using a deodorizer."
+  },
+  {
+    "sentence": "古い本には古書特有の臭いがある。",
+    "sentence_furigana": "古【ふる】い本【ほん】には古書【こしょ】特有【とくゆう】の臭【にお】いがある。",
+    "meaning": "Old books have a characteristic smell."
+  },
+  {
+    "sentence": "油臭い煙が出ていた。",
+    "sentence_furigana": "油臭【あぶらくさ】い煙【けむり】が出【で】ていた。",
+    "meaning": "There was oily smoke."
+  },
+  {
+    "sentence": "この料理は香ばしい匂いがする。",
+    "sentence_furigana": "この料理【りょうり】は香【こう】ばしい匂【にお】いがする。",
+    "meaning": "This dish smells savory."
+  },
+  {
+    "sentence": "彼の言葉には嘘が臭う。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には嘘【うそ】が臭【くさ】う。",
+    "meaning": "His words smell of lies."
+  },
+  {
+    "sentence": "煙草の臭いが充満している。",
+    "sentence_furigana": "煙草【たばこ】の臭【にお】いが充満【じゅうまん】している。",
+    "meaning": "The smell of tobacco fills the air."
+  },
+  {
+    "sentence": "新しい革製品は良い香りがする。",
+    "sentence_furigana": "新【あたら】しい革製品【かわせいひん】は良【よ】い香【かお】りがする。",
+    "meaning": "New leather products have a good scent."
+  },
+  {
+    "sentence": "彼は悪臭を放っていた。",
+    "sentence_furigana": "彼【かれ】は悪臭【あくしゅう】を放【はな】っていた。",
+    "meaning": "He was emitting a foul odor."
+  },
+  {
+    "sentence": "体臭が気になる。",
+    "sentence_furigana": "体臭【たいしゅう】が気【き】になる。",
+    "meaning": "I am concerned about body odor."
+  },
+  {
+    "sentence": "彼は人を臭うのが得意だ。",
+    "sentence_furigana": "彼【かれ】は人【ひと】を臭【かぎわ】けるのが得意【とくい】だ。",
+    "meaning": "He is good at discerning people's character."
+  },
+  {
+    "sentence": "この匂いは何だろう。",
+    "sentence_furigana": "この匂【にお】いは何【なん】だろう。",
+    "meaning": "What is this smell?"
+  },
+  {
+    "sentence": "雨上がりの土の匂いが好きだ。",
+    "sentence_furigana": "雨上【あめあ】がりの土【つち】の匂【にお】いが好【す】きだ。",
+    "meaning": "I like the smell of earth after the rain."
+  },
+  {
+    "sentence": "部屋に漂うタバコの臭いを消したい。",
+    "sentence_furigana": "部屋【へや】に漂【ただよ】うタバコの臭【にお】いを消【け】したい。",
+    "meaning": "I want to get rid of the smell of tobacco lingering in the room."
+  },
+  {
+    "sentence": "その事件には何か臭うものがある。",
+    "sentence_furigana": "その事件【じけん】には何か臭【くさ】うものがある。",
+    "meaning": "There's something suspicious about that incident."
+  },
+  {
+    "sentence": "彼の鼻はいつも何かを嗅いでいる。",
+    "sentence_furigana": "彼【かれ】の鼻【はな】はいつも何かを嗅【か】いでいる。",
+    "meaning": "His nose is always sniffing something."
+  },
+  {
+    "sentence": "洗濯物が生乾き臭い。",
+    "sentence_furigana": "洗濯物【せんたくもの】が生乾【なまが】き臭【くさ】い。",
+    "meaning": "The laundry smells damp."
+  },
+  {
+    "sentence": "香水の芳香が部屋を満たしている。",
+    "sentence_furigana": "香水【こうすい】の芳香【ほうこう】が部屋【へや】を満【み】たしている。",
+    "meaning": "The fragrance of perfume fills the room."
+  },
+  {
+    "sentence": "その男は酒臭かった。",
+    "sentence_furigana": "その男【おとこ】は酒臭【さけくさ】かった。",
+    "meaning": "The man smelled of alcohol."
+  },
+  {
+    "sentence": "消臭効果のあるスプレー。",
+    "sentence_furigana": "消臭効果【しょうしゅうこうか】のあるスプレー。",
+    "meaning": "A spray with deodorizing effect."
+  },
+  {
+    "sentence": "料理の香りが食欲をそそる。",
+    "sentence_furigana": "料理【りょうり】の香【かお】りが食欲【しょくよく】をそそる。",
+    "meaning": "The aroma of the food whets the appetite."
+  },
+  {
+    "sentence": "彼は事件の臭いを嗅ぎつけた。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の臭【にお】いを嗅【かぎ】つけた。",
+    "meaning": "He caught wind of the incident."
+  },
+  {
+    "sentence": "死体からは腐敗臭がした。",
+    "sentence_furigana": "死体【したい】からは腐敗臭【ふはいしゅう】がした。",
+    "meaning": "There was a smell of decay from the corpse."
+  },
+  {
+    "sentence": "この食品はすでに臭い。",
+    "sentence_furigana": "この食品【しょくひん】はすでに臭【くさ】い。",
+    "meaning": "This food is already spoiled."
+  },
+  {
+    "sentence": "彼はいつも良い香りがする。",
+    "sentence_furigana": "彼【かれ】はいつも良【よ】い香【かお】りがする。",
+    "meaning": "He always smells nice."
+  },
+  {
+    "sentence": "その書類は偽造の臭いがする。",
+    "sentence_furigana": "その書類【しょるい】は偽造【ぎぞう】の臭【くさ】いがする。",
+    "meaning": "Those documents smell of forgery."
+  },
+  {
+    "sentence": "この靴は臭いので洗いたい。",
+    "sentence_furigana": "この靴【くつ】は臭【くさ】いので洗【あら】いたい。",
+    "meaning": "These shoes stink, so I want to wash them."
+  },
+  {
+    "sentence": "新しい香りがしました。",
+    "sentence_furigana": "新【あたら】しい香【かお】りがしました。",
+    "meaning": "There was a new fragrance."
+  },
+  {
+    "sentence": "部屋の空気を入れ替えて臭いをなくす。",
+    "sentence_furigana": "部屋【へや】の空気【くうき】を入【い】れ替【か】えて臭【にお】いをなくす。",
+    "meaning": "Ventilate the room to get rid of the smell."
+  },
+  {
+    "sentence": "その話には何か裏があると臭う。",
+    "sentence_furigana": "その話【はなし】には何か裏【うら】があると臭【くさ】う。",
+    "meaning": "I suspect there's something behind that story."
+  },
+  {
+    "sentence": "芳しい花の香りに包まれた。",
+    "sentence_furigana": "芳【かぐわ】しい花【はな】の香【かお】りに包【つつ】まれた。",
+    "meaning": "I was enveloped in the fragrant scent of flowers."
+  },
+  {
+    "sentence": "排水溝から悪臭が漂ってきた。",
+    "sentence_furigana": "排水溝【はいすいこう】から悪臭【あくしゅう】が漂【ただよ】ってきた。",
+    "meaning": "A foul odor drifted from the drain."
+  },
+  {
+    "sentence": "彼は犯罪の臭いを嗅ぎ取る。",
+    "sentence_furigana": "彼【かれ】は犯罪【はんざい】の臭【にお】いを嗅【かぎ】ぎ取【と】る。",
+    "meaning": "He smells crime."
+  },
+  {
+    "sentence": "古い畳の匂いがする。",
+    "sentence_furigana": "古【ふる】い畳【たたみ】の匂【にお】いがする。",
+    "meaning": "It smells of old tatami mats."
+  },
+  {
+    "sentence": "彼の持ち物から香水の香りがした。",
+    "sentence_furigana": "彼【かれ】の持【も】ち物【もの】から香水【こうすい】の香【かお】りがした。",
+    "meaning": "His belongings smelled of perfume."
+  },
+  {
+    "sentence": "カビ臭い匂いを消すにはどうしたらいいですか。",
+    "sentence_furigana": "カビ臭【くさ】い匂【にお】いを消【け】すにはどうしたらいいですか。",
+    "meaning": "What should I do to get rid of the musty smell?"
+  },
+  {
+    "sentence": "鼻持ちならない臭い。",
+    "sentence_furigana": "鼻持【はなも】ちならない臭【にお】い。",
+    "meaning": "An unbearable stench."
+  },
+  {
+    "sentence": "この店はどこか怪しい臭いがする。",
+    "sentence_furigana": "この店【みせ】はどこか怪【あや】しい臭【くさ】いがする。",
+    "meaning": "There's something suspicious about this shop."
+  },
+  {
+    "sentence": "彼は事件の真相を嗅ぎつけた。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の真相【しんそう】を嗅【かぎ】つけた。",
+    "meaning": "He sniffed out the truth of the incident."
+  },
+  {
+    "sentence": "焼きたてのパンの香りが良い。",
+    "sentence_furigana": "焼【や】きたての新【あら】たなパンの香【かお】りが良【よ】い。",
+    "meaning": "The smell of freshly baked bread is good."
+  },
+  {
+    "sentence": "体臭を抑える方法を教えてください。",
+    "sentence_furigana": "体臭【たいしゅう】を抑【おさ】える方法【ほうほう】を教【おし】えてください。",
+    "meaning": "Please tell me how to control body odor."
+  },
+  {
+    "sentence": "この古い木造家屋は木の香りがする。",
+    "sentence_furigana": "この古【ふる】い木造家屋【もくぞうかおく】は木【き】の香【かお】りがする。",
+    "meaning": "This old wooden house smells of wood."
+  },
+  {
+    "sentence": "その投資話は詐欺の臭いがプンプンする。",
+    "sentence_furigana": "その投資話【とうしかし】は詐欺【さぎ】の臭【くさ】いがプンプンする。",
+    "meaning": "That investment scheme smells strongly of fraud."
+  },
+  {
+    "sentence": "彼の不正の臭いを嗅ぎ取った。",
+    "sentence_furigana": "彼【かれ】の不正【ふせい】の臭【にお】いを嗅【かぎ】ぎ取った。",
+    "meaning": "I sensed his dishonesty."
+  },
+  {
+    "sentence": "洗濯物が乾いていい匂いがする。",
+    "sentence_furigana": "洗濯物【せんたくもの】が乾【かわ】いていい匂【にお】いがする。",
+    "meaning": "The laundry is dry and smells nice."
+  },
+  {
+    "sentence": "このゴミは腐臭を放っている。",
+    "sentence_furigana": "このゴミは腐臭【ふしゅう】を放【はな】っている。",
+    "meaning": "This garbage is emitting a putrid odor."
+  },
+  {
+    "sentence": "彼はいつも清潔な香りがする。",
+    "sentence_furigana": "彼【かれ】はいつも清潔【せいけつ】な香【かお】りがする。",
+    "meaning": "He always smells clean."
+  },
+  {
+    "sentence": "その提案はあまりに都合が良すぎて怪しい臭いがする。",
+    "sentence_furigana": "その提案【ていあん】はあまりに都合【つごう】が良すぎて怪【あや】しい臭【くさ】いがする。",
+    "meaning": "That proposal is too convenient and smells suspicious."
+  },
+  {
+    "sentence": "古い着物の匂いを嗅いでみた。",
+    "sentence_furigana": "古【ふる】い着物【きもの】の匂【にお】いを嗅【かい】てみた。",
+    "meaning": "I tried smelling the old kimono."
+  },
+  {
+    "sentence": "部屋にこもった臭いを取りたい。",
+    "sentence_furigana": "部屋【へや】にこもった臭【にお】いを取【と】りたい。",
+    "meaning": "I want to remove the stale smell in the room."
+  },
+  {
+    "sentence": "彼は火薬の臭いがした。",
+    "sentence_furigana": "彼【かれ】は火薬【かやく】の臭【にお】いがした。",
+    "meaning": "He smelled of gunpowder."
+  },
+  {
+    "sentence": "このソースは独特の香りがする。",
+    "sentence_furigana": "このソースは独特【どくとく】の香【かお】りがする。",
+    "meaning": "This sauce has a unique aroma."
+  },
+  {
+    "sentence": "その計画は失敗の臭いがする。",
+    "sentence_furigana": "その計画【けいかく】は失敗【しっぱい】の臭【くさ】いがする。",
+    "meaning": "That plan smells of failure."
+  },
+  {
+    "sentence": "足の臭いを消す靴下。",
+    "sentence_furigana": "足【あし】の臭【にお】いを消【け】す靴下【くつした】。",
+    "meaning": "Socks that eliminate foot odor."
+  },
+  {
+    "sentence": "彼女はいつも花の香りを漂わせている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも花【はな】の香【かお】りを漂【ただよ】わせている。",
+    "meaning": "She always carries a floral scent."
+  },
+  {
+    "sentence": "その男の顔には悪事が臭う。",
+    "sentence_furigana": "その男【おとこ】の顔【かお】には悪事【あくじ】が臭【くさ】う。",
+    "meaning": "Evil deeds emanate from that man's face."
+  },
+  {
+    "sentence": "この革製品は良い香りがする。",
+    "sentence_furigana": "この革製品【かわせいひん】は良【よ】い香【かお】りがする。",
+    "meaning": "This leather product has a good scent."
+  },
+  {
+    "sentence": "台所の生ゴミが臭う。",
+    "sentence_furigana": "台所【だいどころ】の生ゴミ【なまゴミ】が臭【くさ】う。",
+    "meaning": "The kitchen garbage smells bad."
+  },
+  {
+    "sentence": "薬草の爽やかな香りがする。",
+    "sentence_furigana": "薬草【やくそう】の爽【さわ】やかな香【かお】りがする。",
+    "meaning": "It has the refreshing aroma of medicinal herbs."
+  },
+  {
+    "sentence": "彼が何か隠している臭いがする。",
+    "sentence_furigana": "彼【かれ】が何か隠【かく】している臭【くさ】いがする。",
+    "meaning": "I smell that he is hiding something."
+  },
+  {
+    "sentence": "このお香は心を落ち着かせる良い香りがする。",
+    "sentence_furigana": "このお香【こう】は心【こころ】を落【お】ち着【つ】かせる良【よ】い香【かお】りがする。",
+    "meaning": "This incense has a good scent that calms the mind."
+  },
+  {
+    "sentence": "彼の言い方には何か裏があるように臭う。",
+    "sentence_furigana": "彼【かれ】の言【い】い方【かた】には何か裏【うら】があるように臭【くさ】う。",
+    "meaning": "The way he says it suggests something hidden."
+  },
+  {
+    "sentence": "汗の臭いが衣服に染み付いている。",
+    "sentence_furigana": "汗【あせ】の臭【にお】いが衣服【いふく】に染【し】み付【つ】いている。",
+    "meaning": "The smell of sweat has soaked into the clothes."
+  },
+  {
+    "sentence": "その政治家の言葉には嘘の臭いがする。",
+    "sentence_furigana": "その政治家【せいじか】の言葉【ことば】には嘘【うそ】の臭【くさ】いがする。",
+    "meaning": "The politician's words smell of lies."
+  },
+  {
+    "sentence": "揚げ物の芳ばしい香りが食欲をそそる。",
+    "sentence_furigana": "揚【あ】げ物【もの】の芳【ほう】ばしい香【かお】りが食欲【しょくよく】をそそる。",
+    "meaning": "The savory aroma of fried food whets the appetite."
+  },
+  {
+    "sentence": "彼は悪臭を放つような人物だ。",
+    "sentence_furigana": "彼【かれ】は悪臭【あくしゅう】を放【はな】つような人物【じんぶつ】だ。",
+    "meaning": "He is a person who emits a foul odor."
+  },
+  {
+    "sentence": "この薬品は独特の臭いがする。",
+    "sentence_furigana": "この薬品【やくひん】は独特【どくとく】の臭【にお】いがする。",
+    "meaning": "This chemical has a peculiar smell."
+  },
+  {
+    "sentence": "あの建物の周りはいつもゴミ臭い。",
+    "sentence_furigana": "あの建物【たてもの】の周【まわ】りはいつもゴミ臭【くさ】い。",
+    "meaning": "It always smells like garbage around that building."
+  },
+  {
+    "sentence": "彼の行動には不正の臭いがする。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】には不正【ふせい】の臭【くさ】いがする。",
+    "meaning": "His actions smell of dishonesty."
+  },
+  {
+    "sentence": "この醤油は芳醇な香りがする。",
+    "sentence_furigana": "この醤油【しょうゆ】は芳醇【ほうじゅん】な香【かお】りがする。",
+    "meaning": "This soy sauce has a rich aroma."
+  },
+  {
+    "sentence": "彼は何かを企んでいる臭いがする。",
+    "sentence_furigana": "彼【かれ】は何か企【たくら】んでいる臭【くさ】いがする。",
+    "meaning": "I suspect he is planning something."
+  },
+  {
+    "sentence": "古い倉庫からはカビ臭い匂いがした。",
+    "sentence_furigana": "古【ふる】い倉庫【そうこ】からはカビ臭【くさ】い匂【にお】いがした。",
+    "meaning": "The old warehouse smelled musty."
+  },
+  {
+    "sentence": "あの店の料理はいつも良い香りがする。",
+    "sentence_furigana": "あの店【みせ】の料理【りょうり】はいつも良【よ】い香【かお】りがする。",
+    "meaning": "The food at that restaurant always smells good."
+  },
+  {
+    "sentence": "彼の表情には何か隠し事がある臭いがする。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】には何か隠【かく】し事【ごと】がある臭【くさ】いがする。",
+    "meaning": "His expression suggests he is hiding something."
+  },
+  {
+    "sentence": "焼いた肉の香ばしい匂いが漂う。",
+    "sentence_furigana": "焼【や】いた肉【にく】の香【こう】ばしい匂【にお】いが漂【ただよ】う。",
+    "meaning": "The savory smell of grilled meat wafts."
+  },
+  {
+    "sentence": "この液体は化学薬品の臭いがする。",
+    "sentence_furigana": "この液体【えきたい】は化学薬品【かがくやくひん】の臭【にお】いがする。",
+    "meaning": "This liquid smells of chemicals."
+  },
+  {
+    "sentence": "彼の演技にはうさん臭いものがあった。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】にはうさん臭【くさ】いものがあった。",
+    "meaning": "His acting was suspicious."
+  },
+  {
+    "sentence": "夏の終わりのような匂いがする。",
+    "sentence_furigana": "夏【なつ】の終【お】わりのような匂【にお】いがする。",
+    "meaning": "It smells like the end of summer."
+  },
+  {
+    "sentence": "この部屋は埃臭い。",
+    "sentence_furigana": "この部屋【へや】は埃臭【ほこりくさ】い。",
+    "meaning": "This room is dusty."
+  },
+  {
+    "sentence": "香辛料の独特な香りが料理を引き立てる。",
+    "sentence_furigana": "香辛料【こうしんりょう】の独特【どくとく】な香【かお】りが料理【りょうり】を引き立【ひきた】てる。",
+    "meaning": "The unique aroma of spices enhances the dish."
+  },
+  {
+    "sentence": "彼の嘘には臭うところがあった。",
+    "sentence_furigana": "彼【かれ】の嘘【うそ】には臭【くさ】うところがあった。",
+    "meaning": "There was something fishy about his lie."
+  },
+  {
+    "sentence": "この花は甘い香りがする。",
+    "sentence_furigana": "この花【はな】は甘【あま】い香【かお】りがする。",
+    "meaning": "This flower has a sweet fragrance."
+  },
+  {
+    "sentence": "彼の提案はあまりにも巧妙で、何か臭う。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】はあまりにも巧妙【こうみょう】で、何か臭【くさ】う。",
+    "meaning": "His proposal is too clever and smells suspicious."
+  },
+  {
+    "sentence": "体臭を抑えるためのデオドラント剤。",
+    "sentence_furigana": "体臭【たいしゅう】を抑【おさ】えるためのデオドラント剤【ざい】。",
+    "meaning": "Deodorant to control body odor."
+  },
+  {
+    "sentence": "この石鹸はハーブの良い香りがする。",
+    "sentence_furigana": "この石鹸【せっけん】はハーブの良【よ】い香【かお】りがする。",
+    "meaning": "This soap has a nice herbal scent."
+  },
+  {
+    "sentence": "あの人物の顔には黒い噂の臭いがする。",
+    "sentence_furigana": "あの人物【じんぶつ】の顔【かお】には黒【くろ】い噂【うわさ】の臭【くさ】いがする。",
+    "meaning": "That person's face suggests dark rumors."
+  },
+  {
+    "sentence": "湿った場所からはカビ臭い匂いがする。",
+    "sentence_furigana": "湿【しめ】った場所【ばしょ】からはカビ臭【くさ】い匂【にお】いがする。",
+    "meaning": "Damp places smell musty."
+  },
+  {
+    "sentence": "この料理はスパイスの香りが豊かだ。",
+    "sentence_furigana": "この料理【りょうり】はスパイスの香【かお】りが豊【ゆた】かだ。",
+    "meaning": "This dish has a rich spice aroma."
+  },
+  {
+    "sentence": "彼の話には何か隠された意図が臭う。",
+    "sentence_furigana": "彼【かれ】の話【はなし】には何か隠【かく】された意図【いと】が臭【くさ】う。",
+    "meaning": "There seems to be a hidden motive in his story."
+  },
+  {
+    "sentence": "この古い書物からは独特の香りがする。",
+    "sentence_furigana": "この古【ふる】い書物【しょもつ】からは独特【どくとく】の香【かお】りがする。",
+    "meaning": "This old book has a unique scent."
+  },
+  {
+    "sentence": "その取引には何か不穏な臭いがする。",
+    "sentence_furigana": "その取引【とりひき】には何か不穏【ふおん】な臭【くさ】いがする。",
+    "meaning": "There's something ominous about that transaction."
+  }
+]

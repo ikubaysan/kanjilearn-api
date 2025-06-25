@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "この書類には印鑑を添付してください。",
+    "sentence_furigana": "この書類【しょるい】には印鑑【いんかん】を添付【てんぷ】してください。",
+    "meaning": "Please attach your seal to this document."
+  },
+  {
+    "sentence": "彼はその計画に賛成した。",
+    "sentence_furigana": "彼【かれ】はそこ計画【けいかく】に賛成【さんせい】した。",
+    "meaning": "He agreed with the plan."
+  },
+  {
+    "sentence": "詳細は後日お知らせいたします。",
+    "sentence_furigana": "詳細【しょうさい】は後日【ごじつ】お知らせいたします。",
+    "meaning": "Details will be announced at a later date."
+  },
+  {
+    "sentence": "この件は彼に付属しています。",
+    "sentence_furigana": "この件【けん】は彼【かれ】に付属【ふぞく】しています。",
+    "meaning": "This matter is attached to him."
+  },
+  {
+    "sentence": "壁に絵を掛けた。",
+    "sentence_furigana": "壁【かべ】に絵【え】を掛けた【かけた】。",
+    "meaning": "I hung a picture on the wall."
+  },
+  {
+    "sentence": "その情報は資料に附随する。",
+    "sentence_furigana": "その情報【じょうほう】は資料【しりょう】に附随【ふずい】する。",
+    "meaning": "That information is incidental to the materials."
+  },
+  {
+    "sentence": "彼は親に頼って生きている。",
+    "sentence_furigana": "彼【かれ】は親【おや】に頼【たよ】って生【い】きています。",
+    "meaning": "He lives depending on his parents."
+  },
+  {
+    "sentence": "この薬は副作用を附随する。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】を附随【ふずい】する。",
+    "meaning": "This medicine has side effects."
+  },
+  {
+    "sentence": "彼はそのプロジェクトに深く関与している。",
+    "sentence_furigana": "彼【かれ】はそこプロジェクトに深【ふか】く関与【かんよ】しています。",
+    "meaning": "He is deeply involved in that project."
+  },
+  {
+    "sentence": "この件は法に抵触する恐れがある。",
+    "sentence_furigana": "この件【けん】は法【ほう】に抵触【ていしょく】する恐【おそ】れがある。",
+    "meaning": "This matter may conflict with the law."
+  },
+  {
+    "sentence": "この提案はいくつかの条件を付帯する。",
+    "sentence_furigana": "この提案【ていあん】はいくつか条件【じょうけん】を付帯【ふたい】する。",
+    "meaning": "This proposal comes with several conditions."
+  },
+  {
+    "sentence": "彼女は祖父の遺言に附随する条件を飲み込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は祖父【そふ】の遺言【ゆいごん】に附随【ふずい】する条件【じょうけん】を飲【の】み込【こ】んだ。",
+    "meaning": "She accepted the conditions attached to her grandfather's will."
+  },
+  {
+    "sentence": "彼はこの件についてさらに詳しく説明を求めた。",
+    "sentence_furigana": "彼【かれ】はこの件【けん】についてさらに詳【くわ】しく説明【せつめい】を求【もと】めた。",
+    "meaning": "He asked for further explanation on this matter."
+  },
+  {
+    "sentence": "この地域は多くの歴史的建造物を付随している。",
+    "sentence_furigana": "この地域【ちいき】は多【おお】くの歴史的建造物【れきしてきけんぞうぶつ】を付随【ふずい】しています。",
+    "meaning": "This region features many historical buildings."
+  },
+  {
+    "sentence": "彼らはその合意にいくつかの条項を付加した。",
+    "sentence_furigana": "彼【かれ】らはそこ合意【ごうい】にいくつか条項【じょうこう】を付加【ふか】した。",
+    "meaning": "They added several clauses to the agreement."
+  },
+  {
+    "sentence": "この地図は詳細な説明を添付している。",
+    "sentence_furigana": "この地図【ちず】は詳細【しょうさい】な説明【せつめい】を添付【てんぷ】しています。",
+    "meaning": "This map includes a detailed explanation."
+  },
+  {
+    "sentence": "彼は常に楽観的な姿勢を保っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に楽観的【らっかんてき】な姿勢【しせい】を保【たも】っている。",
+    "meaning": "He always maintains an optimistic attitude."
+  },
+  {
+    "sentence": "その情報は機密事項に付随する。",
+    "sentence_furigana": "その情報【じょうほう】は機密事項【きみつじこう】に附随【ふずい】する。",
+    "meaning": "That information is incidental to confidential matters."
+  },
+  {
+    "sentence": "彼はこの規則に服従しなければならない。",
+    "sentence_furigana": "彼【かれ】はこの規則【きそく】に服従【ふくじゅう】しなければならない。",
+    "meaning": "He must obey this rule."
+  },
+  {
+    "sentence": "この契約は多くの義務を付帯する。",
+    "sentence_furigana": "この契約【けいやく】は多【おお】くの義務【ぎむ】を付帯【ふたい】する。",
+    "meaning": "This contract entails many obligations."
+  },
+  {
+    "sentence": "彼の発言は事実に基づいている。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は事実【じじつ】に基【もと】づいています。",
+    "meaning": "His statement is based on facts."
+  },
+  {
+    "sentence": "この論文は先行研究を引用している。",
+    "sentence_furigana": "この論文【ろんぶん】は先行研究【せんこうけんきゅう】を引用【いんよう】しています。",
+    "meaning": "This paper cites previous research."
+  },
+  {
+    "sentence": "彼はその事件の真相を附記した。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の真相【しんそう】を附記【ふき】した。",
+    "meaning": "He appended a note about the truth of the incident."
+  },
+  {
+    "sentence": "この商品は特別な付属品を付属している。",
+    "sentence_furigana": "この商品【しょうひん】は特別【とくべつ】な付属品【ふぞくひん】を付属【ふぞく】しています。",
+    "meaning": "This product comes with special accessories."
+  },
+  {
+    "sentence": "彼は自身の経験を物語に付随させた。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の経験【けいけん】を物語【ものがたり】に附随【ふずい】させた。",
+    "meaning": "He attached his own experiences to the story."
+  },
+  {
+    "sentence": "この提案は多くの利点を附帯する。",
+    "sentence_furigana": "この提案【ていあん】は多【おお】くの利点【りてん】を付帯【ふたい】する。",
+    "meaning": "This proposal has many advantages."
+  },
+  {
+    "sentence": "彼らはプロジェクトの成功を祝った。",
+    "sentence_furigana": "彼【かれ】らはプロジェクトの成功【せいこう】を祝【いわ】った。",
+    "meaning": "They celebrated the success of the project."
+  },
+  {
+    "sentence": "この新しい法律は多くの国民の支持を得た。",
+    "sentence_furigana": "この新【あら】しい法律【ほうりつ】は多【おお】くの国民【こくみん】の支持【しじ】を得【え】た。",
+    "meaning": "This new law gained the support of many citizens."
+  },
+  {
+    "sentence": "彼はその件について詳細な報告書を添付した。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について詳細【しょうさい】な報告書【ほうこくしょ】を添付【てんぷ】した。",
+    "meaning": "He attached a detailed report on the matter."
+  },
+  {
+    "sentence": "この装置は安全装置を付属している。",
+    "sentence_furigana": "この装置【そうち】は安全装置【あんぜんそうち】を付属【ふぞく】しています。",
+    "meaning": "This device is equipped with a safety device."
+  },
+  {
+    "sentence": "彼は過去の出来事を現在の状況に付随させて語った。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】を現在【げんざい】の状況【じょうきょう】に附随【ふずい】させて語【かた】った。",
+    "meaning": "He told the story by attaching past events to the current situation."
+  },
+  {
+    "sentence": "この制度は多くの利害関係者を付随する。",
+    "sentence_furigana": "この制度【せいど】は多【おお】くの利害関係者【りがいかんけいしゃ】を附随【ふずい】する。",
+    "meaning": "This system involves many stakeholders."
+  },
+  {
+    "sentence": "彼はその決定に異議を唱えた。",
+    "sentence_furigana": "彼【かれ】はその決定【けってい】に異議【いぎ】を唱【とな】えた。",
+    "meaning": "He objected to the decision."
+  },
+  {
+    "sentence": "この資料は追加情報を添付している。",
+    "sentence_furigana": "この資料【しりょう】は追加情報【ついかじょうほう】を添付【てんぷ】しています。",
+    "meaning": "This document includes additional information."
+  },
+  {
+    "sentence": "彼はその事件について証拠を付記した。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】について証拠【しょうこ】を附記【ふき】した。",
+    "meaning": "He appended evidence regarding the incident."
+  },
+  {
+    "sentence": "このプロジェクトは多くの困難を伴う。",
+    "sentence_furigana": "このプロジェクトは多【おお】くの困難【こんなん】を伴【ともな】う。",
+    "meaning": "This project involves many difficulties."
+  },
+  {
+    "sentence": "彼はその規則に忠実に従った。",
+    "sentence_furigana": "彼【かれ】はその規則【きそく】に忠実【ちゅうじつ】に従【したが】った。",
+    "meaning": "He faithfully followed the rules."
+  },
+  {
+    "sentence": "この文書は参考資料を添付している。",
+    "sentence_furigana": "この文書【ぶんしょ】は参考資料【さんこうしりょう】を添付【てんぷ】しています。",
+    "meaning": "This document includes reference materials."
+  },
+  {
+    "sentence": "彼はその研究に新しい視点を付加した。",
+    "sentence_furigana": "彼【かれ】はその研究【けんきゅう】に新【あら】しい視点【してん】を付加【ふか】した。",
+    "meaning": "He added a new perspective to the research."
+  },
+  {
+    "sentence": "この商品はユニークな機能が付属している。",
+    "sentence_furigana": "この商品【しょうひん】はユニークな機能【きのう】が付属【ふぞく】しています。",
+    "meaning": "This product comes with unique features."
+  },
+  {
+    "sentence": "彼は会議でそのアイデアを発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】でそこアイデアを発表【はっぴょう】した。",
+    "meaning": "He presented the idea at the meeting."
+  },
+  {
+    "sentence": "この規則はいくつかの例外を付随する。",
+    "sentence_furigana": "この規則【きそく】はいくつか例外【れいがい】を附随【ふずい】する。",
+    "meaning": "This rule comes with some exceptions."
+  },
+  {
+    "sentence": "彼はその知らせに喜びを感じた。",
+    "sentence_furigana": "彼【かれ】はその知【し】らせに喜【よろこ】びを感【かん】じた。",
+    "meaning": "He felt joy at the news."
+  },
+  {
+    "sentence": "この法律は国民の権利を保護する。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の権利【けんり】を保護【ほご】する。",
+    "meaning": "This law protects the rights of citizens."
+  },
+  {
+    "sentence": "彼はプロジェクトの進捗状況を報告した。",
+    "sentence_furigana": "彼【かれ】はプロジェクトの進捗状況【しんちょくじょうきょう】を報告【ほうこく】した。",
+    "meaning": "He reported the progress of the project."
+  },
+  {
+    "sentence": "この文書には署名が必要である。",
+    "sentence_furigana": "この文書【ぶんしょ】には署名【しょめい】が必要【ひつよう】である。",
+    "meaning": "This document requires a signature."
+  },
+  {
+    "sentence": "彼はその要求に応じた。",
+    "sentence_furigana": "彼【かれ】はその要求【ようきゅう】に応【おう】じた。",
+    "meaning": "He responded to the request."
+  },
+  {
+    "sentence": "この情報は公式発表に付随するものである。",
+    "sentence_furigana": "この情報【じょうほう】は公式発表【こうしきはっぴょう】に附随【ふずい】するものである。",
+    "meaning": "This information is incidental to the official announcement."
+  },
+  {
+    "sentence": "彼は大学に所属している。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】に所属【しょぞく】しています。",
+    "meaning": "He belongs to a university."
+  },
+  {
+    "sentence": "この件は専門家の意見を付帯する。",
+    "sentence_furigana": "この件【けん】は専門家【せんもんか】の意見【いけん】を付帯【ふたい】する。",
+    "meaning": "This matter includes expert opinions."
+  },
+  {
+    "sentence": "彼はその計画を承認した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】を承認【しょうにん】した。",
+    "meaning": "He approved the plan."
+  },
+  {
+    "sentence": "この規則は多くの例外を付随する可能性がある。",
+    "sentence_furigana": "この規則【きそく】は多【おお】くの例外【れいがい】を附随【ふずい】する可能性【かのうせい】がある。",
+    "meaning": "This rule may be accompanied by many exceptions."
+  },
+  {
+    "sentence": "彼は過去の経験から教訓を得た。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】から教訓【きょうくん】を得【え】た。",
+    "meaning": "He learned a lesson from past experiences."
+  },
+  {
+    "sentence": "この資料には注釈が添付されている。",
+    "sentence_furigana": "この資料【しりょう】には注釈【ちゅうしゃく】が添付【てんぷ】されています。",
+    "meaning": "This document has annotations attached."
+  },
+  {
+    "sentence": "彼はその決定に同意した。",
+    "sentence_furigana": "彼【かれ】はその決定【けってい】に同意【どうい】した。",
+    "meaning": "He agreed to the decision."
+  },
+  {
+    "sentence": "この契約には重要な条項が付帯している。",
+    "sentence_furigana": "この契約【けいやく】には重要【じゅうよう】な条項【じょうこう】が付帯【ふたい】しています。",
+    "meaning": "This contract has important clauses attached."
+  },
+  {
+    "sentence": "彼はその調査結果を公表した。",
+    "sentence_furigana": "彼【かれ】はその調査結果【ちょうさけっか】を公表【こうひょう】した。",
+    "meaning": "He announced the results of the investigation."
+  },
+  {
+    "sentence": "この情報は公式の声明に付随します。",
+    "sentence_furigana": "この情報【じょうほう】は公式【こうしき】の声明【せいめい】に附随【ふずい】します。",
+    "meaning": "This information accompanies the official statement."
+  },
+  {
+    "sentence": "彼は新しい会社に就職した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい会社【かいしゃ】に就職【しゅうしょく】した。",
+    "meaning": "He got a job at a new company."
+  },
+  {
+    "sentence": "この商品は特典が付属しています。",
+    "sentence_furigana": "この商品【しょうひん】は特典【とくてん】が付属【ふぞく】しています。",
+    "meaning": "This product comes with special benefits."
+  },
+  {
+    "sentence": "彼はその計画に協力した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】に協力【きょうりょく】した。",
+    "meaning": "He cooperated with the plan."
+  },
+  {
+    "sentence": "この資料には補足説明が添付されている。",
+    "sentence_furigana": "この資料【しりょう】には補足説明【ほそくせつめい】が添付【てんぷ】されています。",
+    "meaning": "This document includes supplementary explanations."
+  },
+  {
+    "sentence": "彼はその出来事を詳細に説明した。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を詳細【しょうさい】に説明【せつめい】した。",
+    "meaning": "He explained the incident in detail."
+  },
+  {
+    "sentence": "この法案は多くの議論を付随する。",
+    "sentence_furigana": "この法案【ほうあん】は多【おお】くの議論【ぎろん】を附随【ふずい】する。",
+    "meaning": "This bill is accompanied by much debate."
+  },
+  {
+    "sentence": "彼は自分の考えを付記した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えを附記【ふき】した。",
+    "meaning": "He appended his own thoughts."
+  },
+  {
+    "sentence": "この情報は機密保持義務に付随する。",
+    "sentence_furigana": "この情報【じょうほう】は機密保持義務【きみつほじぎむ】に附随【ふずい】する。",
+    "meaning": "This information is incidental to confidentiality obligations."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトに参加した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいプロジェクトに参加【さんか】した。",
+    "meaning": "He participated in the new project."
+  },
+  {
+    "sentence": "この商品は予期せぬ問題が付随する。",
+    "sentence_furigana": "この商品【しょうひん】は予期せぬ問題【よきせぬもんだい】が付随【ふずい】する。",
+    "meaning": "This product entails unforeseen problems."
+  },
+  {
+    "sentence": "彼はその事実に言及した。",
+    "sentence_furigana": "彼【かれ】はその事実【じじつ】に言及【げんきゅう】した。",
+    "meaning": "He referred to the fact."
+  },
+  {
+    "sentence": "この通知には追加情報が添付されている。",
+    "sentence_furigana": "この通知【つうち】には追加情報【ついかじょうほう】が添付【てんぷ】されています。",
+    "meaning": "This notification includes additional information."
+  },
+  {
+    "sentence": "彼はその提案に賛同した。",
+    "sentence_furigana": "彼【かれ】はその提案【ていあん】に賛同【さんどう】した。",
+    "meaning": "He agreed with the proposal."
+  },
+  {
+    "sentence": "この保険は多くの特典を付帯している。",
+    "sentence_furigana": "この保険【ほけん】は多【おお】くの特典【とくてん】を付帯【ふたい】しています。",
+    "meaning": "This insurance comes with many benefits."
+  },
+  {
+    "sentence": "彼はその出来事を詳細に記録した。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を詳細【しょうさい】に記録【きろく】した。",
+    "meaning": "He recorded the incident in detail."
+  },
+  {
+    "sentence": "この規則は厳格な罰則を付随する。",
+    "sentence_furigana": "この規則【きそく】は厳格【げんかく】な罰則【ばっそく】を附随【ふずい】する。",
+    "meaning": "This rule entails strict penalties."
+  },
+  {
+    "sentence": "彼はその件について追加情報を求めました。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について追加情報【ついかじょうほう】を求【もと】めました。",
+    "meaning": "He requested additional information regarding the matter."
+  },
+  {
+    "sentence": "このマニュアルには注意事項が添付されている。",
+    "sentence_furigana": "このマニュアルには注意点【ちゅういてん】が添付【てんぷ】されています。",
+    "meaning": "This manual includes precautions."
+  },
+  {
+    "sentence": "彼はその計画を支持した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】を支持【しじ】した。",
+    "meaning": "He supported the plan."
+  },
+  {
+    "sentence": "この法律は多くの義務を付帯します。",
+    "sentence_furigana": "この法律【ほうりつ】は多【おお】くの義務【ぎむ】を付帯【ふたい】します。",
+    "meaning": "This law entails many obligations."
+  },
+  {
+    "sentence": "彼は過去の経験を活かして成功した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】を活【い】かして成功【せいこう】した。",
+    "meaning": "He succeeded by leveraging his past experiences."
+  },
+  {
+    "sentence": "この商品は取り付けが容易である。",
+    "sentence_furigana": "この商品【しょうひん】は取付【とりつけ】が容易【ようい】である。",
+    "meaning": "This product is easy to attach."
+  },
+  {
+    "sentence": "彼はその会議に出席した。",
+    "sentence_furigana": "彼【かれ】はそこ会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "He attended the meeting."
+  },
+  {
+    "sentence": "この契約には追加条項を付帯させました。",
+    "sentence_furigana": "この契約【けいやく】には追加条項【ついかじょうこう】を付帯【ふたい】させました。",
+    "meaning": "We have attached additional clauses to this contract."
+  },
+  {
+    "sentence": "彼はその件について詳細な情報を提供した。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について詳細【しょうさい】な情報【じょうほう】を提供【ていきょう】した。",
+    "meaning": "He provided detailed information on the matter."
+  },
+  {
+    "sentence": "このシステムは多くの機能が付属している。",
+    "sentence_furigana": "このシステムは多【おお】くの機能【きのう】が付属【ふぞく】しています。",
+    "meaning": "This system has many functions attached."
+  },
+  {
+    "sentence": "彼は過去の教訓から学んだ。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の教訓【きょうくん】から学【まな】んだ。",
+    "meaning": "He learned from past lessons."
+  },
+  {
+    "sentence": "この商品はメーカー保証が付いています。",
+    "sentence_furigana": "この商品【しょうひん】はメーカー保証【ほしょう】が付【つ】いています。",
+    "meaning": "This product comes with a manufacturer's warranty."
+  },
+  {
+    "sentence": "彼はその事件の背景を説明した。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の背景【はいけい】を説明【せつめい】した。",
+    "meaning": "He explained the background of the incident."
+  },
+  {
+    "sentence": "この資料には参考文献が付されている。",
+    "sentence_furigana": "この資料【しりょう】には参考文献【さんこうぶんけん】が付【つ】かされています。",
+    "meaning": "This document includes references."
+  },
+  {
+    "sentence": "彼は新しい政策を提唱した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい政策【せいさく】を提唱【ていしょう】した。",
+    "meaning": "He proposed a new policy."
+  },
+  {
+    "sentence": "このサービスは追加料金を付随する。",
+    "sentence_furigana": "このサービスは追加料金【ついかりょうきん】を附随【ふずい】する。",
+    "meaning": "This service entails additional charges."
+  },
+  {
+    "sentence": "彼はその件について更なる説明を求めた。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について更生【こうせい】な説明【せつめい】を求【もと】めた。",
+    "meaning": "He requested further explanation on the matter."
+  },
+  {
+    "sentence": "このマニュアルには付録が付いている。",
+    "sentence_furigana": "このマニュアルには付録【ふろく】が付【つ】いています。",
+    "meaning": "This manual includes an appendix."
+  },
+  {
+    "sentence": "彼は過去の失敗から教訓を得て、成功した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】から教訓【きょうくん】を得【え】て、成功【せいこう】した。",
+    "meaning": "He learned from past failures and succeeded."
+  },
+  {
+    "sentence": "この契約は特別な条件を付帯する。",
+    "sentence_furigana": "この契約【けいやく】は特別【とくべつ】な条件【じょうけん】を付帯【ふたい】する。",
+    "meaning": "This contract includes special conditions."
+  },
+  {
+    "sentence": "彼はその提案に同意してくれた。",
+    "sentence_furigana": "彼【かれ】はその提案【ていあん】に同意【どうい】してくれた。",
+    "meaning": "He agreed to the proposal."
+  },
+  {
+    "sentence": "この文書には関連情報が添付されている。",
+    "sentence_furigana": "この文書【ぶんしょ】には関連情報【かんれんじょうほう】が添付【てんぷ】されています。",
+    "meaning": "This document includes related information."
+  },
+  {
+    "sentence": "彼はその件について詳細な報告書を提出した。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について詳細【しょうさい】な報告書【ほうこくしょ】を提出【ていしゅつ】した。",
+    "meaning": "He submitted a detailed report on the matter."
+  },
+  {
+    "sentence": "この商品は追加のアクセサリーが付属しています。",
+    "sentence_furigana": "この商品【しょうひん】は追加【ついか】のアクセサリーが付属【ふぞく】しています。",
+    "meaning": "This product comes with additional accessories."
+  },
+  {
+    "sentence": "彼は新しいアイデアを提示した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいアイデアを提示【ていじ】した。",
+    "meaning": "He presented a new idea."
+  },
+  {
+    "sentence": "この契約には多くの条項が付帯している。",
+    "sentence_furigana": "この契約【けいやく】には多【おお】くの条項【じょうこう】が付帯【ふたい】しています。",
+    "meaning": "This contract includes many clauses."
+  },
+  {
+    "sentence": "彼は過去の経験から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned a lot from his past experiences."
+  }
+]

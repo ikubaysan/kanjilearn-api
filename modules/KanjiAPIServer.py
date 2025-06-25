@@ -1,12 +1,12 @@
 import random
-from typing import List, Optional
+from typing import List
 from flask import Flask, Response
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
-from modules.GoogleAIAPIClient import GoogleAIAPIClient
 import json
+import logging
 
-
+logger = logging.getLogger(__name__)
 
 class SampleSentence:
     def __init__(self, sentence: str, furigana: str, meaning: str):
@@ -18,15 +18,18 @@ class SampleSentence:
 
 
 class KanjiAPIServer:
-    def __init__(self, collection: KanjiCollection, google_ai_api_client: GoogleAIAPIClient = None, sample_sentence_count: int = 3):
+    def __init__(self, collection: KanjiCollection, sample_sentence_count: int = 3):
         self.collection = collection
+
+        for level in collection.levels:
+            logger.info(f"Loaded {len(getattr(collection, f'n{level}'))} kanji for JLPT N{level}.")
+
         self.app = Flask(__name__)
         self.app.add_url_rule('/random_kanji/', 'get_kanji', self.get_kanji, methods=['GET'], defaults={'levels': ''})
         self.app.add_url_rule('/random_kanji/<levels>', 'get_kanji', self.get_kanji, methods=['GET'])
         self.app.add_url_rule('/quiz/', 'quiz_kanji', self.quiz_kanji, methods=['GET'], defaults={'levels': ''})
         self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.quiz_kanji, methods=['GET'])
         self.sample_sentence_count = sample_sentence_count
-        self.google_ai_api_client = google_ai_api_client
 
     def get_kanji(self, levels: str = '') -> Response:
         if levels:
@@ -90,31 +93,12 @@ class KanjiAPIServer:
         return Response(response, mimetype='text/plain')
 
     def get_sample_sentences(self, kanji: Kanji) -> List[SampleSentence]:
-        sample_sentences = []
+        if not kanji.sample_sentences:
+            raise ValueError(f"get_sample_sentences() - No sample sentences available for kanji: {kanji.character}")
 
-        if self.google_ai_api_client is None:
-            return sample_sentences
-
-        prompt = kanji.get_example_sentences_prompt(self.sample_sentence_count)
-        if prompt is None:
-            return sample_sentences
-
-        try:
-            response = self.google_ai_api_client.send_prompt(prompt=prompt)
-            response_list_of_dicts = json.loads(response)
-            #response_list_of_dicts = [{'sentence': '日本は美しい国です。', 'sentence_furigana': 'にほんは(び)しい(くに)です。', 'meaning': 'Japan is a beautiful country.'}, {'sentence': '私はその国の文化に興味があります。', 'sentence_furigana': 'わたしはその(くに)の(ぶんか)に(きょうみ)があります。', 'meaning': 'I am interested in the culture of that country.'}, {'sentence': '彼は外国に行くのが好きです。', 'sentence_furigana': 'かれは(がいこく)に(い)くのが(す)きです。', 'meaning': 'He likes to go to foreign countries.'}]
-            for entry in response_list_of_dicts:
-                sentence = entry['sentence']
-                furigana = entry['sentence_furigana']
-                meaning = entry['meaning']
-                sample_sentence = SampleSentence(sentence, furigana, meaning)
-                sample_sentences.append(sample_sentence)
-
-        except Exception as e:
-            print(f"Failed to send prompt to Google AI API and parse response content: {e}.")
-
-        return sample_sentences
-
+        unique_samples = list({json.dumps(s, ensure_ascii=False): s for s in kanji.sample_sentences}.values())
+        selected = random.sample(unique_samples, min(self.sample_sentence_count, len(unique_samples)))
+        return [SampleSentence(s["sentence"], s["sentence_furigana"], s["meaning"]) for s in selected]
 
     def format_kanji_info(self, sample_sentences: List[SampleSentence], kanji: Kanji, include_meanings: bool = True) -> str:
         info = [

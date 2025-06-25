@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼はそのロープで木を縛った。",
+    "sentence_furigana": "彼【かれ】はそのロープで木【き】を縛【しば】った。",
+    "meaning": "He tied the tree with that rope."
+  },
+  {
+    "sentence": "その場所は柵で厳しく縛られていた。",
+    "sentence_furigana": "その場所【ばしょ】は柵【さく】で厳【きび】しく縛【しば】られていた。",
+    "meaning": "The place was strictly restrained by a fence."
+  },
+  {
+    "sentence": "法律によって個人の自由は縛られる。",
+    "sentence_furigana": "法律【ほうりつ】によって個人【こじん】の自由【じゆう】は縛【しば】られる。",
+    "meaning": "Individual freedom is restrained by law."
+  },
+  {
+    "sentence": "彼女はキャリアのために結婚を縛られないことを望んだ。",
+    "sentence_furigana": "彼女【かのじょ】はキャリアのために結婚【けっこん】を縛【しば】られないことを望【のぞ】んだ。",
+    "meaning": "She wished not to be tied down to marriage for her career."
+  },
+  {
+    "sentence": "彼は過去の出来事に縛られていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】に縛【しば】られていた。",
+    "meaning": "He was bound by past events."
+  },
+  {
+    "sentence": "経済状況が企業の成長を縛っている。",
+    "sentence_furigana": "経済状況【けいざいじょうきょう】が企業【きぎょう】の成長【せいちょう】を縛【しば】っている。",
+    "meaning": "The economic situation is restraining the growth of companies."
+  },
+  {
+    "sentence": "そのバンドは古い音楽スタイルに縛られていない。",
+    "sentence_furigana": "そのバンドは古【ふる】い音楽【おんがく】スタイルに縛【しば】られていない。",
+    "meaning": "That band is not bound by old musical styles."
+  },
+  {
+    "sentence": "彼は行動を縛る規則にうんざりしていた。",
+    "sentence_furigana": "彼【かれ】は行動【こうどう】を縛【しば】る規則【きそく】にうんざりしていた。",
+    "meaning": "He was tired of the rules that restricted his actions."
+  },
+  {
+    "sentence": "その芸術家は伝統的な技法に縛られずに制作した。",
+    "sentence_furigana": "その芸術家【げいじゅつか】は伝統的【でんとうてき】な技法【ぎほう】に縛【しば】られずに制作【せいさく】した。",
+    "meaning": "The artist created without being bound by traditional techniques."
+  },
+  {
+    "sentence": "彼は義務感に縛られていた。",
+    "sentence_furigana": "彼【かれ】は義務感【ぎむかん】に縛【しば】られていた。",
+    "meaning": "He was bound by a sense of duty."
+  },
+  {
+    "sentence": "そのプロジェクトは予算によって縛られている。",
+    "sentence_furigana": "そのプロジェクトは予算【よさん】によって縛【しば】られている。",
+    "meaning": "The project is constrained by its budget."
+  },
+  {
+    "sentence": "彼は自分の信念によって縛られていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信念【しんねん】によって縛【しば】られていた。",
+    "meaning": "He was bound by his own beliefs."
+  },
+  {
+    "sentence": "規則は時として人々を縛り付ける。",
+    "sentence_furigana": "規則【きそく】は時【とき】として人々【ひとびと】を縛【しば】り付ける【つける】。",
+    "meaning": "Rules sometimes bind people."
+  },
+  {
+    "sentence": "彼は古い慣習に縛られていた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い慣習【かんしゅう】に縛【しば】られていた。",
+    "meaning": "He was bound by old customs."
+  },
+  {
+    "sentence": "その国は経済制裁で縛られている。",
+    "sentence_furigana": "その国【くに】は経済制裁【けいざいせいさい】で縛【しば】られている。",
+    "meaning": "That country is restrained by economic sanctions."
+  },
+  {
+    "sentence": "彼は罪悪感に縛られて生きていた。",
+    "sentence_furigana": "彼【かれ】は罪悪感【ざいあくかん】に縛【しば】られて生【い】きていた。",
+    "meaning": "He lived bound by guilt."
+  },
+  {
+    "sentence": "新しいアイデアは既存の枠に縛られてはならない。",
+    "sentence_furigana": "新【あたら】しいアイデアは既存【きぞん】の枠【わく】に縛【しば】られてはならない。",
+    "meaning": "New ideas should not be bound by existing frameworks."
+  },
+  {
+    "sentence": "その法律は表現の自由を縛るものだ。",
+    "sentence_furigana": "その法律【ほうりつ】は表現【ひょうげん】の自由【じゆう】を縛【しば】るものだ。",
+    "meaning": "That law restricts freedom of expression."
+  },
+  {
+    "sentence": "彼は約束に縛られて動けなかった。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】に縛【しば】られて動【うご】けなかった。",
+    "meaning": "He was bound by his promise and could not move."
+  },
+  {
+    "sentence": "社会的な期待が彼女の選択を縛った。",
+    "sentence_furigana": "社会的【しゃかいてき】な期待【きたい】が彼女【かのじょ】の選択【せんたく】を縛【しば】った。",
+    "meaning": "Societal expectations constrained her choices."
+  },
+  {
+    "sentence": "彼は過去の成功に縛られて、新しい挑戦を避けた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の成功【せいこう】に縛【しば】られて、新【あたら】しい挑戦【ちょうせん】を避【さ】けた。",
+    "meaning": "He was bound by past success and avoided new challenges."
+  },
+  {
+    "sentence": "このコードで荷物を縛ってください。",
+    "sentence_furigana": "このコードで荷物【にもつ】を縛【しば】ってください。",
+    "meaning": "Please tie the luggage with this cord."
+  },
+  {
+    "sentence": "彼は職務に縛られ、休暇を取れなかった。",
+    "sentence_furigana": "彼【かれ】は職務【しょくむ】に縛【しば】られ、休暇【きゅうか】を取【と】れなかった。",
+    "meaning": "He was bound by his duties and could not take a vacation."
+  },
+  {
+    "sentence": "その地域は厳しい気候条件に縛られている。",
+    "sentence_furigana": "その地域【ちいき】は厳【きび】しい気候条件【きこうじょうけん】に縛【しば】られている。",
+    "meaning": "That region is constrained by harsh climate conditions."
+  },
+  {
+    "sentence": "彼は慣習に縛られることを嫌った。",
+    "sentence_furigana": "彼【かれ】は慣習【かんしゅう】に縛【しば】られることを嫌【きら】った。",
+    "meaning": "He disliked being bound by custom."
+  },
+  {
+    "sentence": "古い考え方は進歩を縛る。",
+    "sentence_furigana": "古【ふる】い考【かんが】え方【かた】は進歩【しんぽ】を縛【しば】る。",
+    "meaning": "Old ways of thinking restrict progress."
+  },
+  {
+    "sentence": "その国は孤立によって縛られていた。",
+    "sentence_furigana": "その国【くに】は孤立【こりつ】によって縛【しば】られていた。",
+    "meaning": "That country was constrained by isolation."
+  },
+  {
+    "sentence": "彼は感情に縛られて、冷静な判断ができなかった。",
+    "sentence_furigana": "彼【かれ】は感情【かんじょう】に縛【しば】られて、冷静【れいせい】な判断【はんだん】ができなかった。",
+    "meaning": "Bound by his emotions, he couldn't make a rational judgment."
+  },
+  {
+    "sentence": "その研究は実験設備に縛られていた。",
+    "sentence_furigana": "その研究【けんきゅう】は実験設備【じっけんせつび】に縛【しば】られていた。",
+    "meaning": "The research was constrained by experimental equipment."
+  },
+  {
+    "sentence": "彼女は家事のために自分の時間を縛られた。",
+    "sentence_furigana": "彼女【かのじょ】は家事【かじ】のために自分【じぶん】の時間【じかん】を縛【しば】られた。",
+    "meaning": "Her time was bound by household chores."
+  },
+  {
+    "sentence": "この状況は彼を縛っている。",
+    "sentence_furigana": "この状況【じょうきょう】は彼【かれ】を縛【しば】っている。",
+    "meaning": "This situation is restraining him."
+  },
+  {
+    "sentence": "彼は固定観念に縛られず、自由な発想をした。",
+    "sentence_furigana": "彼【かれ】は固定観念【こていかんねん】に縛【しば】られず、自由【じゆう】な発想【はっそう】をした。",
+    "meaning": "He had free ideas without being bound by stereotypes."
+  },
+  {
+    "sentence": "その船は嵐で岸に縛り付けられた。",
+    "sentence_furigana": "その船【ふね】は嵐【あらし】で岸【きし】に縛【しば】り付けられた。",
+    "meaning": "The ship was tied to the shore by the storm."
+  },
+  {
+    "sentence": "彼は過去の失敗に縛られていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】に縛【しば】られていた。",
+    "meaning": "He was bound by past failures."
+  },
+  {
+    "sentence": "この契約は我々の行動を縛る。",
+    "sentence_furigana": "この契約【けいやく】は我々【われわれ】の行動【こうどう】を縛【しば】る。",
+    "meaning": "This contract binds our actions."
+  },
+  {
+    "sentence": "彼女は運命に縛られていると感じていた。",
+    "sentence_furigana": "彼女【かのじょ】は運命【うんめい】に縛【しば】られていると感じ【かんじ】ていた。",
+    "meaning": "She felt bound by fate."
+  },
+  {
+    "sentence": "この制限はプロジェクトの進行を縛るだろう。",
+    "sentence_furigana": "この制限【せいげん】はプロジェクトの進行【しんこう】を縛【しば】るだろう。",
+    "meaning": "These restrictions will bind the project's progress."
+  },
+  {
+    "sentence": "彼は親の期待に縛られて、自分の夢を諦めた。",
+    "sentence_furigana": "彼【かれ】は親【おや】の期待【きたい】に縛【しば】られて、自分【じぶん】の夢【ゆめ】を諦【あき】めた。",
+    "meaning": "Bound by his parents' expectations, he gave up on his own dreams."
+  },
+  {
+    "sentence": "その動物は檻に縛られていた。",
+    "sentence_furigana": "その動物【どうぶつ】は檻【おり】に縛【しば】られていた。",
+    "meaning": "The animal was bound in a cage."
+  },
+  {
+    "sentence": "彼は教義に縛られ、独自の解釈を加えなかった。",
+    "sentence_furigana": "彼【かれ】は教義【きょうぎ】に縛【しば】られ、独自【どくじ】の解釈【かいしゃく】を加【くわ】えなかった。",
+    "meaning": "He was bound by doctrine and did not add his own interpretation."
+  },
+  {
+    "sentence": "この規則は従業員の自由な行動を縛る。",
+    "sentence_furigana": "この規則【きそく】は従業員【じゅうぎょういん】の自由【じゆう】な行動【こうどう】を縛【しば】る。",
+    "meaning": "This rule restricts employees' free actions."
+  },
+  {
+    "sentence": "彼は罪の意識に縛られていた。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】の意識【いしき】に縛【しば】られていた。",
+    "meaning": "He was bound by a guilty conscience."
+  },
+  {
+    "sentence": "この法律は企業の活動を縛りすぎている。",
+    "sentence_furigana": "この法律【ほうりつ】は企業【きぎょう】の活動【かつどう】を縛【しば】りすぎている。",
+    "meaning": "This law over-restrains corporate activities."
+  },
+  {
+    "sentence": "彼は社会的な規範に縛られていた。",
+    "sentence_furigana": "彼【かれ】は社会的【しゃかいてき】な規範【きはん】に縛【しば】られていた。",
+    "meaning": "He was bound by social norms."
+  },
+  {
+    "sentence": "その計画は資金不足で縛られた。",
+    "sentence_furigana": "その計画【けいかく】は資金不足【しきんぶそく】で縛【しば】られた。",
+    "meaning": "The plan was constrained by a lack of funds."
+  },
+  {
+    "sentence": "彼は自分の過去の言動に縛られていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】の言動【げんどう】に縛【しば】られていた。",
+    "meaning": "He was bound by his past words and actions."
+  },
+  {
+    "sentence": "この病気は彼の生活を縛っている。",
+    "sentence_furigana": "この病気【びょうき】は彼【かれ】の生活【せいかつ】を縛【しば】っている。",
+    "meaning": "This illness constrains his life."
+  },
+  {
+    "sentence": "彼女は慣習的な役割に縛られることを拒否した。",
+    "sentence_furigana": "彼女【かのじょ】は慣習的【かんしゅうてき】な役割【やくわり】に縛【しば】られることを拒否【きょひ】した。",
+    "meaning": "She refused to be bound by conventional roles."
+  },
+  {
+    "sentence": "この文書で彼らを縛り付けることはできない。",
+    "sentence_furigana": "この文書【ぶんしょ】で彼【かれ】らを縛【しば】り付ける【つける】ことはできない。",
+    "meaning": "We cannot bind them with this document."
+  },
+  {
+    "sentence": "彼は政治的な制約に縛られていた。",
+    "sentence_furigana": "彼【かれ】は政治的【せいじてき】な制約【せいやく】に縛【しば】られていた。",
+    "meaning": "He was bound by political constraints."
+  },
+  {
+    "sentence": "その都市は歴史的な建造物に縛られている。",
+    "sentence_furigana": "その都市【とし】は歴史的【れきしてき】な建造物【けんぞうぶつ】に縛【しば】られている。",
+    "meaning": "The city is bound by its historic buildings."
+  },
+  {
+    "sentence": "彼は自分のアイデアに縛られていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のアイデアに縛【しば】られていた。",
+    "meaning": "He was bound by his own ideas."
+  },
+  {
+    "sentence": "この鎖で彼を縛れ。",
+    "sentence_furigana": "この鎖【くさり】で彼【かれ】を縛【しば】れ。",
+    "meaning": "Tie him with this chain."
+  },
+  {
+    "sentence": "彼は貧困に縛られていた。",
+    "sentence_furigana": "彼【かれ】は貧困【ひんこん】に縛【しば】られていた。",
+    "meaning": "He was bound by poverty."
+  },
+  {
+    "sentence": "その規則は創造性を縛る。",
+    "sentence_furigana": "その規則【きそく】は創造性【そうぞうせい】を縛【しば】る。",
+    "meaning": "Those rules bind creativity."
+  },
+  {
+    "sentence": "彼は過去の経験に縛られていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】に縛【しば】られていた。",
+    "meaning": "He was bound by past experiences."
+  },
+  {
+    "sentence": "この協定は我々の自由な行動を縛る。",
+    "sentence_furigana": "この協定【きょうてい】は我々【われわれ】の自由【じゆう】な行動【こうどう】を縛【しば】る。",
+    "meaning": "This agreement restricts our freedom of action."
+  },
+  {
+    "sentence": "彼は親の期待という見えない鎖に縛られていた。",
+    "sentence_furigana": "彼【かれ】は親【おや】の期待【きたい】という見【み】えない鎖【くさり】に縛【しば】られていた。",
+    "meaning": "He was bound by the invisible chains of his parents' expectations."
+  },
+  {
+    "sentence": "その企業は規制によって縛られていた。",
+    "sentence_furigana": "その企業【きぎょう】は規制【きせい】によって縛【しば】られていた。",
+    "meaning": "The company was bound by regulations."
+  },
+  {
+    "sentence": "彼は固定概念に縛られず、新しい方法を試した。",
+    "sentence_furigana": "彼【かれ】は固定概念【こていがいねん】に縛【しば】られず、新【あたら】しい方法【ほうほう】を試【ため】した。",
+    "meaning": "He tried new methods without being bound by fixed ideas."
+  },
+  {
+    "sentence": "この計画は予算の制約に縛られている。",
+    "sentence_furigana": "この計画【けいかく】は予算【よさん】の制約【せいやく】に縛【しば】られている。",
+    "meaning": "This plan is constrained by budget limitations."
+  },
+  {
+    "sentence": "彼は罪悪感に縛られた生活を送っていた。",
+    "sentence_furigana": "彼【かれ】は罪悪感【ざいあくかん】に縛【しば】られた生活【せいかつ】を送【おく】っていた。",
+    "meaning": "He lived a life bound by guilt."
+  },
+  {
+    "sentence": "その伝統は現代社会において人々を縛る。",
+    "sentence_furigana": "その伝統【でんとう】は現代社会【げんだいしゃかい】において人々【ひとびと】を縛【しば】る。",
+    "meaning": "That tradition binds people in modern society."
+  },
+  {
+    "sentence": "彼は過去の失敗に縛られ、前進できなかった。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】に縛【しば】られ、前進【ぜんしん】できなかった。",
+    "meaning": "He was bound by past failures and couldn't move forward."
+  },
+  {
+    "sentence": "この法律は表現の自由を過度に縛る。",
+    "sentence_furigana": "この法律【ほうりつ】は表現【ひょうげん】の自由【じゆう】を過度【かど】に縛【しば】る。",
+    "meaning": "This law excessively restricts freedom of expression."
+  },
+  {
+    "sentence": "彼は将来への不安に縛られていた。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】への不安【ふあん】に縛【しば】られていた。",
+    "meaning": "He was bound by anxiety about the future."
+  },
+  {
+    "sentence": "そのシステムは古い規則に縛られていた。",
+    "sentence_furigana": "そのシステムは古【ふる】い規則【きそく】に縛【しば】られていた。",
+    "meaning": "The system was bound by old rules."
+  },
+  {
+    "sentence": "彼は自分の義務に縛られ、自由な時間を持てなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の義務【ぎむ】に縛【しば】られ、自由【じゆう】な時間【じかん】を持【も】てなかった。",
+    "meaning": "He was bound by his duties and didn't have free time."
+  },
+  {
+    "sentence": "この制限は我々の想像力を縛る。",
+    "sentence_furigana": "この制限【せいげん】は我々【われわれ】の想像力【そうぞうりょく】を縛【しば】る。",
+    "meaning": "These restrictions bind our imagination."
+  },
+  {
+    "sentence": "彼は社会的な圧力に縛られていた。",
+    "sentence_furigana": "彼【かれ】は社会的【しゃかいてき】な圧力【あつりょく】に縛【しば】られていた。",
+    "meaning": "He was bound by social pressure."
+  },
+  {
+    "sentence": "その病気は彼の活動範囲を縛っていた。",
+    "sentence_furigana": "その病気【びょうき】は彼【かれ】の活動範囲【かつどうはんい】を縛【しば】っていた。",
+    "meaning": "The illness constrained his range of activities."
+  },
+  {
+    "sentence": "彼女は過去のトラウマに縛られていた。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】のトラウマに縛【しば】られていた。",
+    "meaning": "She was bound by past trauma."
+  },
+  {
+    "sentence": "この契約は我々の選択肢を縛る。",
+    "sentence_furigana": "この契約【けいやく】は我々【われわれ】の選択肢【せんたくし】を縛【しば】る。",
+    "meaning": "This contract binds our options."
+  },
+  {
+    "sentence": "彼は信念に縛られて、妥協できなかった。",
+    "sentence_furigana": "彼【かれ】は信念【しんねん】に縛【しば】られて、妥協【だきょう】できなかった。",
+    "meaning": "Bound by his beliefs, he couldn't compromise."
+  },
+  {
+    "sentence": "その地域は厳しい規則に縛られている。",
+    "sentence_furigana": "その地域【ちいき】は厳【きび】しい規則【きそく】に縛【しば】られている。",
+    "meaning": "The area is bound by strict regulations."
+  },
+  {
+    "sentence": "彼は自身の感情に縛られていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】に縛【しば】られていた。",
+    "meaning": "He was bound by his own emotions."
+  },
+  {
+    "sentence": "この制約はプロジェクトの成功を縛る。",
+    "sentence_furigana": "この制約【せいやく】はプロジェクトの成功【せいこう】を縛【しば】る。",
+    "meaning": "This constraint binds the project's success."
+  },
+  {
+    "sentence": "彼は運命に縛られていると信じていた。",
+    "sentence_furigana": "彼【かれ】は運命【うんめい】に縛【しば】られていると信【しん】じていた。",
+    "meaning": "He believed he was bound by destiny."
+  },
+  {
+    "sentence": "その古いシステムは多くの問題を抱え、自由な改革を縛っていた。",
+    "sentence_furigana": "その古【ふる】いシステムは多【おお】くの問題【もんだい】を抱【かか】え、自由【じゆう】な改革【かいかく】を縛【しば】っていた。",
+    "meaning": "The old system had many problems and constrained free reform."
+  },
+  {
+    "sentence": "彼は義務という見えない鎖に縛られていた。",
+    "sentence_furigana": "彼【かれ】は義務【ぎむ】という見【み】えない鎖【くさり】に縛【しば】られていた。",
+    "meaning": "He was bound by the invisible chains of duty."
+  },
+  {
+    "sentence": "このルールは私たちの進歩を縛る。",
+    "sentence_furigana": "このルールは私達【わたしたち】の進歩【しんぽ】を縛【しば】る。",
+    "meaning": "These rules bind our progress."
+  },
+  {
+    "sentence": "彼は過去の栄光に縛られていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】に縛【しば】られていた。",
+    "meaning": "He was bound by past glories."
+  },
+  {
+    "sentence": "その法律は経済の自由を縛りすぎている。",
+    "sentence_furigana": "その法律【ほうりつ】は経済【けいざい】の自由【じゆう】を縛【しば】りすぎている。",
+    "meaning": "That law over-restrains economic freedom."
+  },
+  {
+    "sentence": "彼は自分の過去に縛られたままでいた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】に縛【しば】られたままでいた。",
+    "meaning": "He remained bound by his past."
+  },
+  {
+    "sentence": "この制限は創造的な解決策を縛る。",
+    "sentence_furigana": "この制限【せいげん】は創造的【そうぞうてき】な解決策【かいけつさく】を縛【しば】る。",
+    "meaning": "This limitation binds creative solutions."
+  },
+  {
+    "sentence": "彼は固定概念に縛られず、自分の道を切り開いた。",
+    "sentence_furigana": "彼【かれ】は固定概念【こていがいねん】に縛【しば】られず、自分【じぶん】の道【みち】を切【き】り開【ひら】いた。",
+    "meaning": "He forged his own path without being bound by fixed ideas."
+  },
+  {
+    "sentence": "その鎖は兵士を地面に縛り付けた。",
+    "sentence_furigana": "その鎖【くさり】は兵士【へいし】を地面【じめん】に縛【しば】り付けた。",
+    "meaning": "The chain bound the soldier to the ground."
+  },
+  {
+    "sentence": "彼は社会的な義務に縛られていた。",
+    "sentence_furigana": "彼【かれ】は社会的【しゃかいてき】な義務【ぎむ】に縛【しば】られていた。",
+    "meaning": "He was bound by social obligations."
+  },
+  {
+    "sentence": "この規則は私たちの行動を縛る。",
+    "sentence_furigana": "この規則【きそく】は私達【わたしたち】の行動【こうどう】を縛【しば】る。",
+    "meaning": "These rules bind our actions."
+  },
+  {
+    "sentence": "彼は過去の経験から来る恐れに縛られていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】から来【く】る恐【おそ】れに縛【しば】られていた。",
+    "meaning": "He was bound by fears stemming from past experiences."
+  },
+  {
+    "sentence": "その計画は予算の制限に縛られていた。",
+    "sentence_furigana": "その計画【けいかく】は予算【よさん】の制限【せいげん】に縛【しば】られていた。",
+    "meaning": "The plan was constrained by budget limits."
+  },
+  {
+    "sentence": "彼女は伝統的な価値観に縛られることを嫌った。",
+    "sentence_furigana": "彼女【かのじょ】は伝統的【でんとうてき】な価値観【かちかん】に縛【しば】られることを嫌【きら】った。",
+    "meaning": "She disliked being bound by traditional values."
+  },
+  {
+    "sentence": "この法律は人々の権利を縛る。",
+    "sentence_furigana": "この法律【ほうりつ】は人々【ひとびと】の権利【けんり】を縛【しば】る。",
+    "meaning": "This law binds people's rights."
+  },
+  {
+    "sentence": "彼は責任感に縛られて、自由に振る舞えなかった。",
+    "sentence_furigana": "彼【かれ】は責任感【せきにんかん】に縛【しば】られて、自由【じゆう】に振【ふ】る舞【ま】えなかった。",
+    "meaning": "Bound by a sense of responsibility, he couldn't act freely."
+  },
+  {
+    "sentence": "その制約はプロジェクトの可能性を縛る。",
+    "sentence_furigana": "その制約【せいやく】はそのプロジェクトの可能性【かのうせい】を縛【しば】る。",
+    "meaning": "Those constraints bind the project's potential."
+  },
+  {
+    "sentence": "彼は自分の考えに縛られ、新しい視点を受け入れなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えに縛【しば】られ、新【あたら】しい視点【してん】を受【う】け入【い】れなかった。",
+    "meaning": "He was bound by his own thoughts and didn't accept new perspectives."
+  },
+  {
+    "sentence": "この状況は我々を縛っている。",
+    "sentence_furigana": "この状況【じょうきょう】は我々【われわれ】を縛【しば】っている。",
+    "meaning": "This situation is restraining us."
+  },
+  {
+    "sentence": "彼は过去的栄光に縛られて、現状に満足していた。",
+    "sentence_furigana": "彼【かれ】は過去的【かこてき】栄光【えいこう】に縛【しば】られて、現状【げんじょう】に満足【まんぞく】していた。",
+    "meaning": "He was bound by past glories and satisfied with the status quo."
+  },
+  {
+    "sentence": "その法律は自由な市場を縛っている。",
+    "sentence_furigana": "その法律【ほうりつ】は自由【じゆう】な市場【しじょう】を縛【しば】っている。",
+    "meaning": "That law is constraining the free market."
+  },
+  {
+    "sentence": "彼は罪の意識に縛られて、眠ることができなかった。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】の意識【いしき】に縛【しば】られて、眠【ねむ】ることができなかった。",
+    "meaning": "Bound by guilt, he couldn't sleep."
+  },
+  {
+    "sentence": "この計画は限られた資源に縛られている。",
+    "sentence_furigana": "この計画【けいかく】は限【かぎ】られた資源【しげん】に縛【しば】られている。",
+    "meaning": "This plan is bound by limited resources."
+  },
+  {
+    "sentence": "彼は社会的な期待から逃れることができなかった。",
+    "sentence_furigana": "彼【かれ】は社会的【しゃかいてき】な期待【きたい】から逃【のが】れることができなかった。",
+    "meaning": "He could not escape from societal expectations."
+  },
+  {
+    "sentence": "その規則は従業員の効率を縛る。",
+    "sentence_furigana": "その規則【きそく】は従業員【じゅうぎょういん】の効率【こうりつ】を縛【しば】る。",
+    "meaning": "Those rules bind employee efficiency."
+  },
+  {
+    "sentence": "彼は自分の考えに縛られず、新しい道を模索した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えに縛【しば】られず、新【あたら】しい道【みち】を模索【もさく】した。",
+    "meaning": "He explored new paths without being bound by his own ideas."
+  },
+  {
+    "sentence": "この法律は表現の自由を不当に縛る。",
+    "sentence_furigana": "この法律【ほうりつ】は表現【ひょうげん】の自由【じゆう】を不当【ふとう】に縛【しば】る。",
+    "meaning": "This law unjustly restricts freedom of expression."
+  },
+  {
+    "sentence": "彼は過去の失敗から抜け出すことができなかった。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】から抜【ぬ】け出【だ】すことができなかった。",
+    "meaning": "He could not break free from his past failures."
+  }
+]

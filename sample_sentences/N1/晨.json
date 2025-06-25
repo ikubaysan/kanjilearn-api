@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "明日の朝は早い。",
+    "sentence_furigana": "明日【あした】の朝【あさ】は早【はや】い。",
+    "meaning": "Tomorrow morning is early."
+  },
+  {
+    "sentence": "早朝の空気は澄んでいる。",
+    "sentence_furigana": "早朝【そうちょう】の空気【くうき】は澄【す】んでいる。",
+    "meaning": "The early morning air is clear."
+  },
+  {
+    "sentence": "朝刊を読むのが日課だ。",
+    "sentence_furigana": "朝刊【ちょうかん】を読む【よむ】のが日課【にっか】だ。",
+    "meaning": "Reading the morning newspaper is my daily routine."
+  },
+  {
+    "sentence": "彼は朝型人間だ。",
+    "sentence_furigana": "彼【かれ】は朝型【あさがた】人間【にんげん】だ。",
+    "meaning": "He is an early bird."
+  },
+  {
+    "sentence": "早起きは三文の徳という。",
+    "sentence_furigana": "早起【はやお】きは三文【さんもん】の徳【とく】という。",
+    "meaning": "They say getting up early brings good fortune."
+  },
+  {
+    "sentence": "朝焼けが美しい。",
+    "sentence_furigana": "朝焼【あさや】けが美【うつく】しい。",
+    "meaning": "The morning glow is beautiful."
+  },
+  {
+    "sentence": "早朝に散歩する。",
+    "sentence_furigana": "早朝【そうちょう】に散歩【さんぽ】する。",
+    "meaning": "I take a walk in the early morning."
+  },
+  {
+    "sentence": "朝食をしっかり食べる。",
+    "sentence_furigana": "朝食【ちょうしょく】をしっかり食【た】べる。",
+    "meaning": "Eat a hearty breakfast."
+  },
+  {
+    "sentence": "早朝便で出発する。",
+    "sentence_furigana": "早朝便【そうちょうびん】で出発【しゅっぱつ】する。",
+    "meaning": "Depart on the early morning flight."
+  },
+  {
+    "sentence": "明日の朝、早く起きる必要がある。",
+    "sentence_furigana": "明日【あした】の朝【あさ】、早【はや】く起【お】きる必要【ひつよう】がある。",
+    "meaning": "I need to get up early tomorrow morning."
+  },
+  {
+    "sentence": "早朝のニュース番組を見た。",
+    "sentence_furigana": "早朝【そうちょう】のニュース番組【ばんぐみ】を見【み】た。",
+    "meaning": "I watched the early morning news program."
+  },
+  {
+    "sentence": "彼は毎朝早く起きる。",
+    "sentence_furigana": "彼【かれ】は毎朝【まいあさ】早【はや】く起【お】きる。",
+    "meaning": "He gets up early every morning."
+  },
+  {
+    "sentence": "朝礼で挨拶をした。",
+    "sentence_furigana": "朝礼【ちょうれい】で挨拶【あいさつ】をした。",
+    "meaning": "I gave greetings at the morning assembly."
+  },
+  {
+    "sentence": "早起きは健康に良い。",
+    "sentence_furigana": "早起【はやお】きは健康【けんこう】に良【よ】い。",
+    "meaning": "Waking up early is good for your health."
+  },
+  {
+    "sentence": "朝早くから活動を開始する。",
+    "sentence_furigana": "朝早【あさはや】くから活動【かつどう】を開始【かいし】する。",
+    "meaning": "Start activities early in the morning."
+  },
+  {
+    "sentence": "早朝の市場は賑わっている。",
+    "sentence_furigana": "早朝【そうちょう】の市場【いちば】は賑【にぎ】わっている。",
+    "meaning": "The early morning market is bustling."
+  },
+  {
+    "sentence": "朝礼は始業前に行われる。",
+    "sentence_furigana": "朝礼【ちょうれい】は始業前【しぎょうまえ】に行【おこな】われる。",
+    "meaning": "The morning assembly is held before the start of business."
+  },
+  {
+    "sentence": "早朝の静けさが心地よい。",
+    "sentence_furigana": "早朝【そうちょう】の静【しず】けさが心地【ここち】よい。",
+    "meaning": "The stillness of the early morning is pleasant."
+  },
+  {
+    "sentence": "彼は朝早くから仕事をしている。",
+    "sentence_furigana": "彼【かれ】は朝早【あさはや】くから仕事【しごと】をしている。",
+    "meaning": "He has been working since early morning."
+  },
+  {
+    "sentence": "朝の光が部屋に差し込む。",
+    "sentence_furigana": "朝【あさ】の光【ひかり】が部屋【へや】に差【さ】し込【こ】む。",
+    "meaning": "The morning light streams into the room."
+  },
+  {
+    "sentence": "早朝の散歩は気分転換になる。",
+    "sentence_furigana": "早朝【そうちょう】の散歩【さんぽ】は気分転換【きぶんてんかん】になる。",
+    "meaning": "An early morning walk is a change of pace."
+  },
+  {
+    "sentence": "朝食抜きは体に悪い。",
+    "sentence_furigana": "朝食【ちょうしょく】抜【ぬ】きは体【からだ】に悪【わる】い。",
+    "meaning": "Skipping breakfast is bad for your health."
+  },
+  {
+    "sentence": "早朝練習は厳しいが効果的だ。",
+    "sentence_furigana": "早朝練習【そうちょうれんしゅう】は厳【きび】しいが効果的【こうかてき】だ。",
+    "meaning": "Early morning practice is tough but effective."
+  },
+  {
+    "sentence": "朝顔がきれいに咲いている。",
+    "sentence_furigana": "朝顔【あさがお】がきれいに咲【さ】いている。",
+    "meaning": "Morning glories are blooming beautifully."
+  },
+  {
+    "sentence": "早朝の運動は健康増進に役立つ。",
+    "sentence_furigana": "早朝【そうちょう】の運動【うんどう】は健康増進【けんこうぞうしん】に役立【やくだ】つ。",
+    "meaning": "Morning exercise helps promote health."
+  },
+  {
+    "sentence": "朝一番の電車に乗る。",
+    "sentence_furigana": "朝一番【あさいちばん】の電車【でんしゃ】に乗【の】る。",
+    "meaning": "Take the first train of the morning."
+  },
+  {
+    "sentence": "彼は早朝から活動している。",
+    "sentence_furigana": "彼【かれ】は早朝【そうちょう】から活動【かつどう】している。",
+    "meaning": "He has been active since early morning."
+  },
+  {
+    "sentence": "朝の集会で情報を共有する。",
+    "sentence_furigana": "朝【あさ】の集会【しゅうかい】で情報【じょうほう】を共有【きょうゆう】する。",
+    "meaning": "Share information at the morning meeting."
+  },
+  {
+    "sentence": "早朝に家を出発した。",
+    "sentence_furigana": "早朝【そうちょう】に家【いえ】を出発【しゅっぱつ】した。",
+    "meaning": "I left home in the early morning."
+  },
+  {
+    "sentence": "朝刊はまだ来ていない。",
+    "sentence_furigana": "朝刊【ちょうかん】はまだ来【き】ていない。",
+    "meaning": "The morning paper hasn't arrived yet."
+  },
+  {
+    "sentence": "早朝の会議に遅刻しないようにした。",
+    "sentence_furigana": "早朝【そうちょう】の会議【かいぎ】に遅刻【ちこく】しないようにした。",
+    "meaning": "I made sure not to be late for the early morning meeting."
+  },
+  {
+    "sentence": "朝は一日の始まりだ。",
+    "sentence_furigana": "朝【あさ】は一日【いちにち】の始【はじ】まりだ。",
+    "meaning": "Morning is the start of the day."
+  },
+  {
+    "sentence": "早朝に到着する予定です。",
+    "sentence_furigana": "早朝【そうちょう】に到着【とうちゃく】する予定【よてい】です。",
+    "meaning": "We are scheduled to arrive early in the morning."
+  },
+  {
+    "sentence": "朝焼けを見に山に登った。",
+    "sentence_furigana": "朝焼【あさや】けを見【み】に山【やま】に登【のぼ】った。",
+    "meaning": "I climbed the mountain to see the morning glow."
+  },
+  {
+    "sentence": "早朝の勉強は集中できる。",
+    "sentence_furigana": "早朝【そうちょう】の勉強【べんきょう】は集中【しゅうちゅう】できる。",
+    "meaning": "I can concentrate on studying in the early morning."
+  },
+  {
+    "sentence": "朝食は簡単に済ませた。",
+    "sentence_furigana": "朝食【ちょうしょく】は簡単【かんた】んに済【す】ませた。",
+    "meaning": "I had a simple breakfast."
+  },
+  {
+    "sentence": "早朝の空港は混雑していた。",
+    "sentence_furigana": "早朝【そうちょう】の空港【くうこう】は混雑【こんざつ】していた。",
+    "meaning": "The airport was crowded in the early morning."
+  },
+  {
+    "sentence": "朝一番にメールをチェックする。",
+    "sentence_furigana": "朝一番【あさいちばん】にメールをチェックする。",
+    "meaning": "I check my email first thing in the morning."
+  },
+  {
+    "sentence": "早朝の空気はひんやりとしていた。",
+    "sentence_furigana": "早朝【そうちょう】の空気【くうき】はひんやりとしていた。",
+    "meaning": "The early morning air was cool."
+  },
+  {
+    "sentence": "朝刊配達の音が聞こえる。",
+    "sentence_furigana": "朝刊配達【ちょうかんはいたつ】の音【おと】が聞【き】こえる。",
+    "meaning": "I can hear the sound of the morning paper delivery."
+  },
+  {
+    "sentence": "早朝からランニングをしている。",
+    "sentence_furigana": "早朝【そうちょう】からランニングをしている。",
+    "meaning": "I have been running since early morning."
+  },
+  {
+    "sentence": "朝礼前の準備を進める。",
+    "sentence_furigana": "朝礼前【ちょうれいまえ】の準備【じゅんび】を進【すす】める。",
+    "meaning": "Proceed with preparations before the morning assembly."
+  },
+  {
+    "sentence": "早朝の海は静かだった。",
+    "sentence_furigana": "早朝【そうちょう】の海【うみ】は静【しず】かだった。",
+    "meaning": "The sea was calm in the early morning."
+  },
+  {
+    "sentence": "朝一番のコーヒーは格別だ。",
+    "sentence_furigana": "朝一番【あさいちばん】のコーヒーは格別【かくべつ】だ。",
+    "meaning": "First coffee of the morning is special."
+  },
+  {
+    "sentence": "早朝の営業時間は短い。",
+    "sentence_furigana": "早朝【そうちょう】の営業時間【えいぎょうじかん】は短【みじか】い。",
+    "meaning": "The early morning business hours are short."
+  },
+  {
+    "sentence": "朝ごはんを食べる時間がない。",
+    "sentence_furigana": "朝ごはんを食【た】べる時間【じかん】がない。",
+    "meaning": "I don't have time to eat breakfast."
+  },
+  {
+    "sentence": "早朝便に乗り遅れた。",
+    "sentence_furigana": "早朝便【そうちょうびん】に乗【の】り遅【おく】れた。",
+    "meaning": "I missed the early morning flight."
+  },
+  {
+    "sentence": "朝礼に出席する。",
+    "sentence_furigana": "朝礼【ちょうれい】に出席【しゅっせき】する。",
+    "meaning": "Attend the morning assembly."
+  },
+  {
+    "sentence": "早朝から活気にあふれている。",
+    "sentence_furigana": "早朝【そうちょう】から活気【かっき】にあふれている。",
+    "meaning": "It is full of energy from early morning."
+  },
+  {
+    "sentence": "朝のラッシュアワーは避ける。",
+    "sentence_furigana": "朝【あさ】のラッシュアワーは避【さ】ける。",
+    "meaning": "Avoid the morning rush hour."
+  },
+  {
+    "sentence": "早朝サービスを利用する。",
+    "sentence_furigana": "早朝【そうちょう】サービスを利用【りよう】する。",
+    "meaning": "Utilize the early morning service."
+  },
+  {
+    "sentence": "朝の光景は絵のようだ。",
+    "sentence_furigana": "朝【あさ】の光景【こうけい】は絵【え】のようだ。",
+    "meaning": "The morning scene is like a painting."
+  },
+  {
+    "sentence": "早朝に練習を開始した。",
+    "sentence_furigana": "早朝【そうちょう】に練習【れんしゅう】を開始【かいし】した。",
+    "meaning": "Started practice in the early morning."
+  },
+  {
+    "sentence": "朝一番の客となる。",
+    "sentence_furigana": "朝一番【あさいちばん】の客【きゃく】となる。",
+    "meaning": "To be the first customer of the morning."
+  },
+  {
+    "sentence": "早朝割引がある。",
+    "sentence_furigana": "早朝割引【そうちょうわりびき】がある。",
+    "meaning": "There is an early morning discount."
+  },
+  {
+    "sentence": "朝まで語り明かした。",
+    "sentence_furigana": "朝【あさ】まで語【かた】り明【あ】かした。",
+    "meaning": "We talked until morning."
+  },
+  {
+    "sentence": "早朝の気温は低い。",
+    "sentence_furigana": "早朝【そうちょう】の気温【きおん】は低【ひく】い。",
+    "meaning": "The temperature in the early morning is low."
+  },
+  {
+    "sentence": "朝の清々しい空気で深呼吸する。",
+    "sentence_furigana": "朝【あさ】の清々【すがすが】しい空気【くうき】で深呼吸【しんこきゅう】する。",
+    "meaning": "Take a deep breath of the refreshing morning air."
+  },
+  {
+    "sentence": "早朝の仕事は大変だ。",
+    "sentence_furigana": "早朝【そうちょう】の仕事【しごと】は大変【たいへん】だ。",
+    "meaning": "Early morning work is tough."
+  },
+  {
+    "sentence": "朝食はパンとコーヒーにした。",
+    "sentence_furigana": "朝食【ちょうしょく】はパンとコーヒーにした。",
+    "meaning": "I had bread and coffee for breakfast."
+  },
+  {
+    "sentence": "早朝でも営業している店がある。",
+    "sentence_furigana": "早朝【そうちょう】でも営業【えいぎょう】している店【みせ】がある。",
+    "meaning": "There are shops open even in the early morning."
+  },
+  {
+    "sentence": "朝の挨拶は重要だ。",
+    "sentence_furigana": "朝【あさ】の挨拶【あいさつ】は重要【じゅうよう】だ。",
+    "meaning": "Morning greetings are important."
+  },
+  {
+    "sentence": "早朝のニュースをチェックした。",
+    "sentence_furigana": "早朝【そうちょう】のニュースをチェックした。",
+    "meaning": "I checked the early morning news."
+  },
+  {
+    "sentence": "朝早く起きると時間ができる。",
+    "sentence_furigana": "朝早【あさはや】く起【お】きると時間【じかん】ができる。",
+    "meaning": "Getting up early in the morning gives you more time."
+  },
+  {
+    "sentence": "早朝に起きる習慣をつけたい。",
+    "sentence_furigana": "早朝【そうちょう】に起【お】きる習慣【しゅうかん】をつけたい。",
+    "meaning": "I want to develop a habit of waking up early in the morning."
+  },
+  {
+    "sentence": "朝食を用意する。",
+    "sentence_furigana": "朝食【ちょうしょく】を用意【ようい】する。",
+    "meaning": "Prepare breakfast."
+  },
+  {
+    "sentence": "早朝から多くの人が活動している。",
+    "sentence_furigana": "早朝【そうちょう】から多【おお】くの人【ひと】が活動【かつどう】している。",
+    "meaning": "Many people are active from early morning."
+  },
+  {
+    "sentence": "朝の静寂を楽しんだ。",
+    "sentence_furigana": "朝【あさ】の静寂【せいじゃく】を楽し【たの】しんだ。",
+    "meaning": "I enjoyed the morning silence."
+  },
+  {
+    "sentence": "早朝のサービス料金は割高だ。",
+    "sentence_furigana": "早朝【そうちょう】のサービス料金【りょうきん】は割高【わりだか】だ。",
+    "meaning": "The service fee for early mornings is rather high."
+  },
+  {
+    "sentence": "朝礼は時間通りに開始された。",
+    "sentence_furigana": "朝礼【ちょうれい】は時間通【じかんどお】りに行【はじ】められた。",
+    "meaning": "The morning assembly started on time."
+  },
+  {
+    "sentence": "早朝の海辺を散歩した。",
+    "sentence_furigana": "早朝【そうちょう】の海辺【うみべ】を散歩【さんぽ】した。",
+    "meaning": "I walked along the beach in the early morning."
+  },
+  {
+    "sentence": "朝から元気に過ごす。",
+    "sentence_furigana": "朝【あさ】から元気【げんき】に過【す】ごす。",
+    "meaning": "Spend the day energetically from the morning."
+  },
+  {
+    "sentence": "早朝便に間に合った。",
+    "sentence_furigana": "早朝便【そうちょうびん】に間【ま】に合【あ】った。",
+    "meaning": "I made it to the early morning flight."
+  },
+  {
+    "sentence": "朝礼での発表は緊張した。",
+    "sentence_furigana": "朝礼【ちょうれい】での発表【はっぴょう】は緊張【きんちょう】した。",
+    "meaning": "I was nervous about presenting at the morning assembly."
+  },
+  {
+    "sentence": "早朝から活動する人々が多い。",
+    "sentence_furigana": "早朝【そうちょう】から活動【かつどう】する人々【ひとびと】が多【おお】い。",
+    "meaning": "There are many people who are active from early morning."
+  },
+  {
+    "sentence": "朝食はグラノーラにした。",
+    "sentence_furigana": "朝食【ちょうしょく】はグラノーラにした。",
+    "meaning": "I had granola for breakfast."
+  },
+  {
+    "sentence": "早朝の鳥のさえずりが聞こえる。",
+    "sentence_furigana": "早朝【そうちょう】の鳥【とり】のさえずりが聞【き】こえる。",
+    "meaning": "The chirping of birds in the early morning can be heard."
+  },
+  {
+    "sentence": "朝の光は柔らかい。",
+    "sentence_furigana": "朝【あさ】の光【ひかり】は柔【やわ】らかい。",
+    "meaning": "The morning light is soft."
+  },
+  {
+    "sentence": "早朝からオープンしている。",
+    "sentence_furigana": "早朝【そうちょう】からオープンしている。",
+    "meaning": "It is open from early morning."
+  },
+  {
+    "sentence": "朝の時間は貴重だ。",
+    "sentence_furigana": "朝【あさ】の時間【じかん】は貴重【きちょう】だ。",
+    "meaning": "Morning time is precious."
+  },
+  {
+    "sentence": "早朝にもかかわらず賑わっている。",
+    "sentence_furigana": "早朝【そうちょう】にもかかわらず賑【にぎ】わっている。",
+    "meaning": "It is bustling despite being early morning."
+  },
+  {
+    "sentence": "朝の散歩は健康に良い習慣だ。",
+    "sentence_furigana": "朝【あさ】の散歩【さんぽ】は健康【けんこう】に良【よ】い習慣【しゅうかん】だ。",
+    "meaning": "Morning walks are a healthy habit."
+  },
+  {
+    "sentence": "早朝便の予約を変更した。",
+    "sentence_furigana": "早朝便【そうちょうびん】の予約【よやく】を変更【へんこう】した。",
+    "meaning": "Changed the reservation for the early morning flight."
+  },
+  {
+    "sentence": "朝刊を読みながらコーヒーを飲む。",
+    "sentence_furigana": "朝刊【ちょうかん】を読【よ】みながらコーヒーを飲【の】む。",
+    "meaning": "Drink coffee while reading the morning paper."
+  },
+  {
+    "sentence": "早朝の列車はまだ空いていた。",
+    "sentence_furigana": "早朝【そうちょう】の列車【れっしゃ】はまだ空【す】いていた。",
+    "meaning": "The early morning train was still empty."
+  },
+  {
+    "sentence": "朝早く起きて勉強する。",
+    "sentence_furigana": "朝早【あさはや】く起【お】きて勉強【べんきょう】する。",
+    "meaning": "Wake up early in the morning and study."
+  },
+  {
+    "sentence": "早朝の窓から朝日が見える。",
+    "sentence_furigana": "早朝【そうちょう】の窓【まど】から朝日【あさひ】が見【み】える。",
+    "meaning": "The morning sun can be seen from the early morning window."
+  },
+  {
+    "sentence": "朝の時間は有効に使いたい。",
+    "sentence_furigana": "朝【あさ】の時間【じかん】は有効【ゆうこう】に使【つか】いたい。",
+    "meaning": "I want to use my morning time effectively."
+  },
+  {
+    "sentence": "早朝のフライトは安い。",
+    "sentence_furigana": "早朝【そうちょう】のフライトは安【やす】い。",
+    "meaning": "Early morning flights are cheap."
+  },
+  {
+    "sentence": "朝礼で今日の予定を確認する。",
+    "sentence_furigana": "朝礼【ちょうれい】で今日【きょう】の予定【よてい】を確認【かくにん】する。",
+    "meaning": "Confirm today's schedule at the morning assembly."
+  },
+  {
+    "sentence": "早朝の市場は活気がある。",
+    "sentence_furigana": "早朝【そうちょう】の市場【いちば】は活気【かっき】がある。",
+    "meaning": "The early morning market is lively."
+  },
+  {
+    "sentence": "朝の静けさは心を落ち着かせる。",
+    "sentence_furigana": "朝【あさ】の静【しず】けさは心【こころ】を落【お】ちつかせる。",
+    "meaning": "The morning silence calms the mind."
+  },
+  {
+    "sentence": "早朝割引を利用して入店した。",
+    "sentence_furigana": "早朝割引【そうちょうわりびき】を利用【りよう】して入店【にゅうてん】した。",
+    "meaning": "Entered the store using the early morning discount."
+  },
+  {
+    "sentence": "朝、早く起きることは難しい。",
+    "sentence_furigana": "朝【あさ】、早【はや】く起【お】きることは難【むずか】しい。",
+    "meaning": "It is difficult to wake up early in the morning."
+  },
+  {
+    "sentence": "早朝の便で帰省する。",
+    "sentence_furigana": "早朝【そうちょう】の便【びん】で帰省【きせい】する。",
+    "meaning": "Return to my hometown on an early morning flight."
+  },
+  {
+    "sentence": "朝ごはんを食べずに家を出た。",
+    "sentence_furigana": "朝ごはんを食【た】べずに家【いえ】を出【で】た。",
+    "meaning": "Left home without eating breakfast."
+  },
+  {
+    "sentence": "早朝の活動は性に合っている。",
+    "sentence_furigana": "早朝【そうちょう】の活動【かつどう】は性【せい】に合【あ】っている。",
+    "meaning": "Early morning activities suit me."
+  },
+  {
+    "sentence": "朝刊を読んだ。",
+    "sentence_furigana": "朝刊【ちょうかん】を読【よ】んだ。",
+    "meaning": "I read the morning paper."
+  },
+  {
+    "sentence": "早朝の澄んだ空気は気持ちいい。",
+    "sentence_furigana": "早朝【そうちょう】の澄【す】んだ空気【くうき】は気持【きも】ちいい。",
+    "meaning": "The clear early morning air feels good."
+  },
+  {
+    "sentence": "朝礼で連絡事項を伝達する。",
+    "sentence_furigana": "朝礼【ちょうれい】で連絡事項【れんらくじこう】を伝達【でんたつ】する。",
+    "meaning": "Convey the information at the morning assembly."
+  },
+  {
+    "sentence": "早朝から働き始める。",
+    "sentence_furigana": "早朝【そうちょう】から働【はたら】き始【はじ】める。",
+    "meaning": "Start working from early morning."
+  },
+  {
+    "sentence": "朝刊の配達が終わったようだ。",
+    "sentence_furigana": "朝刊【ちょうかん】の配達【はいたつ】が終わ【お】わったようだ。",
+    "meaning": "It seems the morning paper delivery is finished."
+  },
+  {
+    "sentence": "早朝の鳥の声で目が覚めた。",
+    "sentence_furigana": "早朝【そうちょう】の鳥【とり】の声【こえ】で目【め】が覚【さ】めた。",
+    "meaning": "I woke up to the sound of birds in the early morning."
+  },
+  {
+    "sentence": "朝食はパンと卵にした。",
+    "sentence_furigana": "朝食【ちょうしょく】はパンと卵【たまご】にした。",
+    "meaning": "I had bread and eggs for breakfast."
+  },
+  {
+    "sentence": "早朝に到着した飛行機は遅れていた。",
+    "sentence_furigana": "早朝【そうちょう】に到着【とうちゃく】した飛行機【ひこうき】は遅【おく】れていた。",
+    "meaning": "The early morning flight that arrived was delayed."
+  }
+]

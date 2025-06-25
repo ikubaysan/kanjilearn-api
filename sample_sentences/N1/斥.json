@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "彼は兵士を斥けた。",
+    "sentence_furigana": "彼【かれ】は兵士【へいし】を斥【しりぞ】けた。",
+    "meaning": "He repelled the soldiers."
+  },
+  {
+    "sentence": "敵は我々の攻撃を斥けた。",
+    "sentence_furigana": "敵【てき】は我々【われわれ】の攻撃【こうげき】を斥【しりぞ】けた。",
+    "meaning": "The enemy repulsed our attack."
+  },
+  {
+    "sentence": "この提案は委員会によって斥けられた。",
+    "sentence_furigana": "この提案【ていあん】は委員会【いいんかい】によって斥【しりぞ】けられた。",
+    "meaning": "This proposal was rejected by the committee."
+  },
+  {
+    "sentence": "彼はその申し出を斥けた。",
+    "sentence_furigana": "彼【かれ】はその申【もう】し出【で】を斥【しりぞ】けた。",
+    "meaning": "He rejected the offer."
+  },
+  {
+    "sentence": "多くの反対意見がその計画を斥けた。",
+    "sentence_furigana": "多【おお】くの反対意見【はんたいぎけん】がその計画【けいかく】を斥【しりぞ】けた。",
+    "meaning": "Much opposition rejected the plan."
+  },
+  {
+    "sentence": "その要求は無条件で斥けられた。",
+    "sentence_furigana": "その要求【ようきゅう】は無条件【むじょうけん】で斥【しりぞ】けられた。",
+    "meaning": "The demand was rejected outright."
+  },
+  {
+    "sentence": "彼はかつての友人を斥けた。",
+    "sentence_furigana": "彼【かれ】はかつての友人【ゆうじん】を斥【しりぞ】けた。",
+    "meaning": "He rejected his former friend."
+  },
+  {
+    "sentence": "その方針は国民から斥けられた。",
+    "sentence_furigana": "その方針【ほうしん】は国民【こくみん】から斥【しりぞ】けられた。",
+    "meaning": "The policy was rejected by the public."
+  },
+  {
+    "sentence": "彼は不正な取引を斥けた。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】な取引【とりひき】を斥【しりぞ】けた。",
+    "meaning": "He rejected the fraudulent transaction."
+  },
+  {
+    "sentence": "我々は困難な状況から後退した。",
+    "sentence_furigana": "我々【われわれ】は困難【こんなん】な状況【じょうきょう】から後退【こうたい】した。",
+    "meaning": "We retreated from the difficult situation."
+  },
+  {
+    "sentence": "敵軍は後退を始めた。",
+    "sentence_furigana": "敵軍【てきぐん】は後退【こうたい】を始【はじ】めた。",
+    "meaning": "The enemy army began to retreat."
+  },
+  {
+    "sentence": "彼は一度決めたことを後退させなかった。",
+    "sentence_furigana": "彼【かれ】は一度決【いちどき】めたことh後退【こうたい】させなかった。",
+    "meaning": "He did not back down from what he had decided."
+  },
+  {
+    "sentence": "経済状況が悪化し、企業は撤退を余儀なくされた。",
+    "sentence_furigana": "経済状況【けいざいじょうきょう】が悪化【あっか】し、企業【きぎょう】は撤退【てったい】を余儀【よぎ】なくされた。",
+    "meaning": "The economic situation worsened, forcing companies to withdraw."
+  },
+  {
+    "sentence": "そのアイデアは早々に斥けられた。",
+    "sentence_furigana": "そのアイデアは早々【さっさ】に斥【しりぞ】けられた。",
+    "meaning": "The idea was quickly rejected."
+  },
+  {
+    "sentence": "改革への反対は根強かった。",
+    "sentence_furigana": "改革【かいかく】への反対【はんたい】は根強【ねづよ】かった。",
+    "meaning": "Opposition to the reform was deep-rooted."
+  },
+  {
+    "sentence": "彼は誘いを断固として斥けた。",
+    "sentence_furigana": "彼【かれ】は誘【さそ】いを断固【だんこ】として斥【しりぞ】けた。",
+    "meaning": "He firmly rejected the invitation."
+  },
+  {
+    "sentence": "少数派の意見は多数派によって斥けられた。",
+    "sentence_furigana": "少数派【しょうすうは】の意見【いけん】は多数派【たすうは】によって斥【しりぞ】けられた。",
+    "meaning": "The minority opinion was rejected by the majority."
+  },
+  {
+    "sentence": "その計画は多くの批判を受けて斥けられた。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの批判【ひはん】を受【う】けて斥【しりぞ】けられた。",
+    "meaning": "The plan was rejected after much criticism."
+  },
+  {
+    "sentence": "彼はすべての非難を斥けた。",
+    "sentence_furigana": "彼【かれ】はすべて非難【ひなん】を斥【しりぞ】けた。",
+    "meaning": "He rejected all accusations."
+  },
+  {
+    "sentence": "その要求は正当な理由で斥けられた。",
+    "sentence_furigana": "その要求【ようきゅう】は正当【せいとう】な理由【りゆう】で斥【しりぞ】けられた。",
+    "meaning": "The demand was rejected for valid reasons."
+  },
+  {
+    "sentence": "彼は誤解を解くために説明したが、その主張は斥けられた。",
+    "sentence_furigana": "彼【かれ】は誤解【ごかい】を解【と】くため説明【せつめい】したが、その主張【しゅちょう】は斥【しりぞ】けられた。",
+    "meaning": "He explained to clear up misunderstandings, but his claim was rejected."
+  },
+  {
+    "sentence": "その報告書は証拠不十分のため斥けられた。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は証拠不十分【しょうこふじゅうぶん】のため斥【しりぞ】けられた。",
+    "meaning": "The report was rejected due to insufficient evidence."
+  },
+  {
+    "sentence": "彼らは困難に直面して後退した。",
+    "sentence_furigana": "彼【かれ】ら困難【こんなん】に直面【ちょくめん】して後退【こうたい】した。",
+    "meaning": "They retreated facing the difficulties."
+  },
+  {
+    "sentence": "侵略者は撃退された。",
+    "sentence_furigana": "侵略者【しんりゃくしゃ】は撃退【げきたい】された。",
+    "meaning": "The invaders were repulsed."
+  },
+  {
+    "sentence": "彼は自分の過ちを認めず、非難を斥けた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過ち【あやまち】認【みと】めず、非難【ひなん】を斥【しりぞ】けた。",
+    "meaning": "He didn't admit his mistakes and rejected the blame."
+  },
+  {
+    "sentence": "新しい提案はすべて会議で斥けられた。",
+    "sentence_furigana": "新【あら】たな提案【ていあん】はすべて会議【かいぎ】で斥【しりぞ】けられた。",
+    "meaning": "All new proposals were rejected at the meeting."
+  },
+  {
+    "sentence": "彼は権威を斥け、独自の道を進んだ。",
+    "sentence_furigana": "彼【かれ】は権威【けんい】を斥【しりぞ】け、独自【どくじ】の道【みち】を進【すす】んだ。",
+    "meaning": "He rejected authority and forged his own path."
+  },
+  {
+    "sentence": "そのアイデアは常識外れとして斥けられた。",
+    "sentence_furigana": "そのアイデアは常識外【じょうしきはずれ】として斥【しりぞ】けられた。",
+    "meaning": "The idea was rejected as absurd."
+  },
+  {
+    "sentence": "我々は後退するわけにはいかない。",
+    "sentence_furigana": "我々【われわれ】は後退【こうたい】するわけにはいかない。",
+    "meaning": "We cannot retreat."
+  },
+  {
+    "sentence": "彼の申し出は、その条件が不当であるため斥けられた。",
+    "sentence_furigana": "彼【かれ】の申【もう】し出【で】は、その条件【じょうけん】が不当【ふとう】であるため斥【しりぞ】けられた。",
+    "meaning": "His offer was rejected because the conditions were unfair."
+  },
+  {
+    "sentence": "この設計は欠陥があるとして却下された。",
+    "sentence_furigana": "この設計【せっけい】は欠陥【けっかん】があるとして却下【きゃっか】された。",
+    "meaning": "This design was rejected due to flaws."
+  },
+  {
+    "sentence": "彼はすべての助言を斥けた。",
+    "sentence_furigana": "彼【かれ】はすべて助言【じょげん】を斥【しりぞ】けた。",
+    "meaning": "He rejected all advice."
+  },
+  {
+    "sentence": "その計画は反対派によって攻撃され、撤回された。",
+    "sentence_furigana": "その計画【けいかく】は反対派【はんたいは】によって攻撃【こうげき】され、撤回【てっかい】された。",
+    "meaning": "The plan was attacked by opponents and withdrawn."
+  },
+  {
+    "sentence": "彼は誘惑を斥けた。",
+    "sentence_furigana": "彼【かれ】は誘惑【ゆうわく】を斥【しりぞ】けた。",
+    "meaning": "He rejected temptation."
+  },
+  {
+    "sentence": "その噂はすべて否定された。",
+    "sentence_furigana": "その噂【うわさ】はすべて否定【ひてい】された。",
+    "meaning": "All the rumors were rejected."
+  },
+  {
+    "sentence": "敵は前進を阻止され、後退を余儀なくされた。",
+    "sentence_furigana": "敵【てき】は前進【ぜんしん】を阻止【そし】され、後退【こうたい】を余儀【よぎ】なくされた。",
+    "meaning": "The enemy's advance was blocked, forcing them to retreat."
+  },
+  {
+    "sentence": "彼は無責任な発言を斥けた。",
+    "sentence_furigana": "彼【かれ】は無責任【むせきにん】な発言【はつげん】を斥【しりぞ】けた。",
+    "meaning": "He rejected the irresponsible statement."
+  },
+  {
+    "sentence": "多くの人がその政策に反対した。",
+    "sentence_furigana": "多【おお】くの人【ひと】がその政策【せいさく】に反対【はんたい】した。",
+    "meaning": "Many people opposed the policy."
+  },
+  {
+    "sentence": "その法案は議会で否決された。",
+    "sentence_furigana": "その法案【ほうあん】は議会【ぎかい】で否決【ひけつ】された。",
+    "meaning": "The bill was rejected in parliament."
+  },
+  {
+    "sentence": "彼女はすべての批判を冷静に斥けた。",
+    "sentence_furigana": "彼女【かのじょ】はすべて批判【ひはん】を冷静【れいせい】に斥【しりぞ】けた。",
+    "meaning": "She calmly rejected all criticism."
+  },
+  {
+    "sentence": "彼は進軍を止めて後退した。",
+    "sentence_furigana": "彼【かれ】は進軍【しんぐん】を止【と】めて後退【こうたい】した。",
+    "meaning": "He stopped the advance and retreated."
+  },
+  {
+    "sentence": "その提案は現実的ではないとして退けられた。",
+    "sentence_furigana": "その提案【ていあん】は現実的【げんじつてき】ではないとして退【しりぞ】けられた。",
+    "meaning": "The proposal was rejected as unrealistic."
+  },
+  {
+    "sentence": "彼は不正行為を断固として拒否した。",
+    "sentence_furigana": "彼【かれ】は不正行為【ふせいこうい】を断固【だんこ】として拒否【きょひ】した。",
+    "meaning": "He flatly rejected the dishonest act."
+  },
+  {
+    "sentence": "軍は敵の攻撃を撃退した。",
+    "sentence_furigana": "軍【ぐん】は敵【てき】の攻撃【こうげき】を撃退【げきたい】した。",
+    "meaning": "The army repulsed the enemy's attack."
+  },
+  {
+    "sentence": "その計画は多くの疑問が出され、却下された。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの疑問【ぎもん】が出【で】され、却下【きゃっか】された。",
+    "meaning": "The plan was rejected due to many questions raised."
+  },
+  {
+    "sentence": "彼は古い慣習を捨て、新しい道を歩んだ。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い慣習【かんしゅう】を捨【す】て、新【あら】たな道【みち】を歩【あゆ】んだ。",
+    "meaning": "He rejected old customs and walked a new path."
+  },
+  {
+    "sentence": "その申し立ては証拠不十分により却下された。",
+    "sentence_furigana": "その申【もう】し立【た】ては証拠不十分【しょうこふじゅうぶん】により却下【きゃっか】された。",
+    "meaning": "The claim was rejected due to insufficient evidence."
+  },
+  {
+    "sentence": "彼はすべての不当な要求を退けた。",
+    "sentence_furigana": "彼【かれ】はすべて不当【ふとう】な要求【ようきゅう】を退【しりぞ】けた。",
+    "meaning": "He rejected all unreasonable demands."
+  },
+  {
+    "sentence": "敵は予想外の抵抗に遭い後退した。",
+    "sentence_furigana": "敵【てき】は予想外【よそうがい】の抵抗【ていこう】に遭【あ】い後退【こうたい】した。",
+    "meaning": "The enemy retreated after encountering unexpected resistance."
+  },
+  {
+    "sentence": "そのアイデアは飛躍しすぎていると却下された。",
+    "sentence_furigana": "そのアイデアは飛躍【ひやく】しすぎていると却下【きゃっか】された。",
+    "meaning": "The idea was rejected as too much of a leap."
+  },
+  {
+    "sentence": "彼は社会の期待を斥けた。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の期待【きたい】を斥【しりぞ】けた。",
+    "meaning": "He rejected societal expectations."
+  },
+  {
+    "sentence": "少数意見は多数決で退けられた。",
+    "sentence_furigana": "少数意見【しょうすういけん】は多数決【たすうけつ】で退【しりぞ】けられた。",
+    "meaning": "The minority opinion was rejected by majority vote."
+  },
+  {
+    "sentence": "その計画は財政的な問題から却下された。",
+    "sentence_furigana": "その計画【けいかく】は財政的【ざいせいてき】な問題【もんだい】から却下【きゃっか】された。",
+    "meaning": "The plan was rejected due to financial issues."
+  },
+  {
+    "sentence": "彼は進歩を妨げるものすべてを斥けた。",
+    "sentence_furigana": "彼【かれ】は進歩【しんぽ】を妨【さまた】げるものすべてを斥【しりぞ】けた。",
+    "meaning": "He rejected anything that hindered progress."
+  },
+  {
+    "sentence": "国民は圧政から後退しなかった。",
+    "sentence_furigana": "国民【こくみん】は圧政【あっせい】から後退【こうたい】しなかった。",
+    "meaning": "The people did not retreat from oppression."
+  },
+  {
+    "sentence": "その提案は議論の余地なしとして却下された。",
+    "sentence_furigana": "その提案【ていあん】は議論【ぎろん】の余地【よち】なしとして却下【きゃっか】された。",
+    "meaning": "The proposal was rejected as having no room for discussion."
+  },
+  {
+    "sentence": "彼は運命に逆らわず、それに従った。",
+    "sentence_furigana": "彼【かれ】は運命【うんめい】に逆【さか】らわず、それに従【したが】った。",
+    "meaning": "He did not reject fate, but followed it."
+  },
+  {
+    "sentence": "その命令は不正であるため無視された。",
+    "sentence_furigana": "その命令【めいれい】は不正【ふせい】であるため無視【むし】された。",
+    "meaning": "The order was rejected as unjust."
+  },
+  {
+    "sentence": "彼は古い習慣を打ち破った。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い習慣【しゅうかん】を打【う】ち破【やぶ】った。",
+    "meaning": "He rejected old customs."
+  },
+  {
+    "sentence": "その要求は無視され、計画は続行された。",
+    "sentence_furigana": "その要求【ようきゅう】は無視【むし】され、計画【けいかく】は続行【ぞっこう】された。",
+    "meaning": "The demand was rejected, and the plan proceeded."
+  },
+  {
+    "sentence": "彼は不利な状況でも後退しなかった。",
+    "sentence_furigana": "彼【かれ】は不利【ふり】な状況【じょうきょう】でも後退【こうたい】しなかった。",
+    "meaning": "He did not retreat even in disadvantageous situations."
+  },
+  {
+    "sentence": "その研究は科学的根拠がないとして退けられた。",
+    "sentence_furigana": "その研究【けんきゅう】は科学的根拠【かがくてきこんきょ】がないとして退【しりぞ】けられた。",
+    "meaning": "The research was rejected for lack of scientific basis."
+  },
+  {
+    "sentence": "彼は世間の嘲笑をものともしなかった。",
+    "sentence_furigana": "彼【かれ】は世間【せけん】の嘲笑【ちょうしょう】をものともしなかった。",
+    "meaning": "He rejected the world's ridicule."
+  },
+  {
+    "sentence": "その依頼は、資格がないため受け入れられなかった。",
+    "sentence_furigana": "その依頼【いらい】は、資格【しかく】がないため受【う】け入【い】れられなかった。",
+    "meaning": "The request was rejected due to lack of qualifications."
+  },
+  {
+    "sentence": "彼は敵の侵攻を撃退した。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の侵攻【しんこう】を撃退【げきたい】した。",
+    "meaning": "He repelled the enemy's invasion."
+  },
+  {
+    "sentence": "その声明は虚偽であるとして却下された。",
+    "sentence_furigana": "その声明【せいめい】は虚偽【きょぎ】であるとして却下【きゃっか】された。",
+    "meaning": "The statement was rejected as false."
+  },
+  {
+    "sentence": "彼は非難を浴びたが、それを斥けた。",
+    "sentence_furigana": "彼【かれ】は非難【ひなん】を浴【あ】びたが、それを斥【しりぞ】けた。",
+    "meaning": "He was subjected to criticism, but he rejected it."
+  },
+  {
+    "sentence": "その計画は実行不可能と判断され、却下された。",
+    "sentence_furigana": "その計画【けいかく】は実行不可能【じっこうふかのう】と判断【はんだん】され、却下【きゃっか】された。",
+    "meaning": "The plan was rejected as infeasible."
+  },
+  {
+    "sentence": "彼は運命からの後退を試みた。",
+    "sentence_furigana": "彼【かれ】は運命【うんめい】からの後退【こうたい】を試【こころ】みた。",
+    "meaning": "He attempted to withdraw from fate."
+  },
+  {
+    "sentence": "その改革案は古い体制に反対され、廃案となった。",
+    "sentence_furigana": "その改革案【かいかくあん】は古【ふる】い体制【たいせい】に反対【はんたい】され、廃案【はいあん】となった。",
+    "meaning": "The reform proposal was rejected by the old system and abolished."
+  },
+  {
+    "sentence": "彼は悪魔の誘惑を斥けた。",
+    "sentence_furigana": "彼【かれ】は悪魔【あくま】の誘惑【ゆうわく】を斥【しりぞ】けた。",
+    "meaning": "He rejected the devil's temptation."
+  },
+  {
+    "sentence": "その申し出は不十分な情報のため却下された。",
+    "sentence_furigana": "その申【もう】し出【で】は不十分【ふじゅうぶん】な情報【じょうほう】のため却下【きゃっか】された。",
+    "meaning": "The offer was rejected due to insufficient information."
+  },
+  {
+    "sentence": "彼は不利な条件での取引を拒否した。",
+    "sentence_furigana": "彼【かれ】は不利【ふり】な条件【じょうけん】での取引【とりひき】を拒否【きょひ】した。",
+    "meaning": "He rejected the deal under unfavorable terms."
+  },
+  {
+    "sentence": "その命令は無視された。",
+    "sentence_furigana": "その命令【めいれい】は無視【むし】された。",
+    "meaning": "The order was rejected."
+  },
+  {
+    "sentence": "敵は包囲網を突破しようとしたが、撃退された。",
+    "sentence_furigana": "敵【てき】は包囲網【ほういもう】を突破【とっぱ】しようとしたが、撃退【げきたい】された。",
+    "meaning": "The enemy tried to break through the encirclement but was repulsed."
+  },
+  {
+    "sentence": "彼は世間の目を避け、隠遁を選んだ。",
+    "sentence_furigana": "彼【かれ】は世間【せけん】の目【め】を避【さ】け、隠遁【いんとん】を選【えら】んだ。",
+    "meaning": "He rejected the public eye and chose to live in seclusion."
+  },
+  {
+    "sentence": "その提案は実現可能性がないと判断された。",
+    "sentence_furigana": "その提案【ていあん】は実現可能性【じつげんかのうせい】がないと判断【はんだん】された。",
+    "meaning": "The proposal was rejected as not feasible."
+  },
+  {
+    "sentence": "彼は過去の誤りを後退させなかった。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の誤【あやま】りを後退【こうたい】させなかった。",
+    "meaning": "He did not back down from his past mistakes."
+  },
+  {
+    "sentence": "その作品は斬新すぎると評され、受け入れられなかった。",
+    "sentence_furigana": "その作品【さくひん】は斬新【ざんしん】すぎると評【ひょう】され、受【う】け入【い】れられなかった。",
+    "meaning": "The work was rejected as too innovative."
+  },
+  {
+    "sentence": "彼は古い慣習を廃止した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い慣習【かんしゅう】を廃止【はいし】した。",
+    "meaning": "He rejected old customs."
+  },
+  {
+    "sentence": "そのプロジェクトは資金不足で中止された。",
+    "sentence_furigana": "そのプロジェクトは資金不足【しきんぶそく】で中止【ちゅうし】された。",
+    "meaning": "The project was rejected due to lack of funds."
+  },
+  {
+    "sentence": "彼は不当な命令に服従しなかった。",
+    "sentence_furigana": "彼【かれ】は不当【ふとう】な命令【めいれい】に服従【ふくじゅう】しなかった。",
+    "meaning": "He rejected the unjust order."
+  },
+  {
+    "sentence": "敵は攻撃を継続したが、撃退された。",
+    "sentence_furigana": "敵【てき】は攻撃【こうげき】を継続【けいぞく】したが、撃退【げきたい】された。",
+    "meaning": "The enemy continued the attack but was repulsed."
+  },
+  {
+    "sentence": "その報告は証拠不備で却下された。",
+    "sentence_furigana": "その報告【ほうこく】は証拠不備【しょうこふび】で却下【きゃっか】された。",
+    "meaning": "The report was rejected for lack of evidence."
+  },
+  {
+    "sentence": "彼は反対意見をすべて無視した。",
+    "sentence_furigana": "彼【かれ】は反対意見【はんたいぎけん】をすべて無視【むし】した。",
+    "meaning": "He rejected all dissenting opinions."
+  },
+  {
+    "sentence": "その計画は多くの問題を抱えており、却下された。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの問題【もんだい】を抱【かか】えており、却下【きゃっか】された。",
+    "meaning": "The plan was rejected due to many problems it contained."
+  },
+  {
+    "sentence": "彼は進歩を妨げるものをすべて排除した。",
+    "sentence_furigana": "彼【かれ】は進歩【しんぽ】を妨【さまた】げるものすべてを排除【はいじょ】した。",
+    "meaning": "He rejected anything that hindered progress."
+  },
+  {
+    "sentence": "その提案は時期尚早として退けられた。",
+    "sentence_furigana": "その提案【ていあん】は時期尚早【じきしょうそう】として退【しりぞ】けられた。",
+    "meaning": "The proposal was rejected as premature."
+  },
+  {
+    "sentence": "彼は不正な取引を一切認めなかった。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】な取引【とりひき】を一切【いっさい】認【みと】めなかった。",
+    "meaning": "He rejected all illicit transactions."
+  },
+  {
+    "sentence": "その法案は国民の支持を得られず、廃案となった。",
+    "sentence_furigana": "その法案【ほうあん】は国民【こくみん】の支持【しじ】を得【え】られず、廃案【はいあん】となった。",
+    "meaning": "The bill was rejected by the public and abolished."
+  },
+  {
+    "sentence": "彼は非難に屈せず、自分の信念を貫いた。",
+    "sentence_furigana": "彼【かれ】は非難【ひなん】に屈【くっ】せず、自分【じぶん】の信念【しんねん】を貫【とお】した。",
+    "meaning": "He rejected the criticism and stuck to his beliefs."
+  },
+  {
+    "sentence": "その計画は予算オーバーのため却下された。",
+    "sentence_furigana": "その計画【けいかく】は予算オーバーのため却下【きゃっか】された。",
+    "meaning": "The plan was rejected due to budget overruns."
+  },
+  {
+    "sentence": "彼は権威に反抗し、自由を求めた。",
+    "sentence_furigana": "彼【かれ】は権威【けんい】に反抗【はんこう】し、自由【じゆう】を求【もと】めた。",
+    "meaning": "He rejected authority and sought freedom."
+  },
+  {
+    "sentence": "その申し出は条件が厳しいため却下された。",
+    "sentence_furigana": "その申【もう】し出【で】は条件【じょうけん】が厳【きび】しいため却下【きゃっか】された。",
+    "meaning": "The offer was rejected due to strict conditions."
+  },
+  {
+    "sentence": "彼は進歩を妨げる思想を斥けた。",
+    "sentence_furigana": "彼【かれ】は進歩【しんぽ】を妨【さまた】げる思想【しそう】を斥【しりぞ】けた。",
+    "meaning": "He rejected ideas that hinder progress."
+  },
+  {
+    "sentence": "その計画は実現不可能と判断され、退けられた。",
+    "sentence_furigana": "その計画【けいかく】は実現不可能【じつげんふかのう】と判断【はんだん】され、退【しりぞ】けられた。",
+    "meaning": "The plan was rejected as unfeasible."
+  },
+  {
+    "sentence": "彼は過去からの後退を試みた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】からの後退【こうたい】を試【こころ】みた。",
+    "meaning": "He attempted to withdraw from the past."
+  },
+  {
+    "sentence": "その提案は不完全であるため却下された。",
+    "sentence_furigana": "その提案【ていあん】は不完全【ふかんぜん】であるため却下【きゃっか】された。",
+    "meaning": "The proposal was rejected for being incomplete."
+  },
+  {
+    "sentence": "彼は不正な取引を拒否した。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】な取引【とりひき】を拒否【きょひ】した。",
+    "meaning": "He rejected the fraudulent transaction."
+  },
+  {
+    "sentence": "軍は敵の攻撃を退けた。",
+    "sentence_furigana": "軍【ぐん】は敵【てき】の攻撃【こうげき】を退【しりぞ】けた。",
+    "meaning": "The army repulsed the enemy's attack."
+  },
+  {
+    "sentence": "その計画は論理的でないとして却下された。",
+    "sentence_furigana": "その計画【けいかく】は論理的【ろんりてき】でないとして却下【きゃっか】された。",
+    "meaning": "The plan was rejected as illogical."
+  },
+  {
+    "sentence": "彼はすべての人からの非難を斥けた。",
+    "sentence_furigana": "彼【かれ】はすべての人【ひと】からの非難【ひなん】を斥【しりぞ】けた。",
+    "meaning": "He rejected all criticism from everyone."
+  },
+  {
+    "sentence": "その申し出は期限切れのため却下された。",
+    "sentence_furigana": "その申【もう】し出【で】は期限切【きげんぎ】れのため却下【きゃっか】された。",
+    "meaning": "The offer was rejected because it was past its deadline."
+  }
+]

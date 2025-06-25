@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "西に太陽が沈んでいく。",
+    "sentence_furigana": "西【にし】に太陽【たいよう】が沈【しず】んでいく。",
+    "meaning": "The sun is setting in the west."
+  },
+  {
+    "sentence": "彼はスペインに住んでいる。",
+    "sentence_furigana": "彼【かれ】はスペインに住【す】んでいる。",
+    "meaning": "He lives in Spain."
+  },
+  {
+    "sentence": "この部屋は西向きです。",
+    "sentence_furigana": "この部屋【へや】は西【にし】向【む】きです。",
+    "meaning": "This room faces west."
+  },
+  {
+    "sentence": "スペイン料理は美味しい。",
+    "sentence_furigana": "スペイン料理【りょうり】は美味【おい】しい。",
+    "meaning": "Spanish cuisine is delicious."
+  },
+  {
+    "sentence": "西側の窓を開けてください。",
+    "sentence_furigana": "西側【にしがわ】の窓【まど】を開【あ】けてください。",
+    "meaning": "Please open the west-facing window."
+  },
+  {
+    "sentence": "彼女はスペイン語を学んでいる。",
+    "sentence_furigana": "彼女【かのじょ】はスペイン語【ご】を学【まな】んでいる。",
+    "meaning": "She is studying Spanish."
+  },
+  {
+    "sentence": "西武デパートは駅の西口にある。",
+    "sentence_furigana": "西武【せいぶ】デパートは駅【えき】の西口【にしぐち】にある。",
+    "meaning": "Seibu Department Store is at the west exit of the station."
+  },
+  {
+    "sentence": "スペインに行きたいと思っています。",
+    "sentence_furigana": "スペインに行【い】きたいと思【おも】っています。",
+    "meaning": "I want to go to Spain."
+  },
+  {
+    "sentence": "西海岸は美しい景色で有名だ。",
+    "sentence_furigana": "西海岸【にしかいがん】は美【うつく】しい景色【けしき】で有名【ゆうめい】だ。",
+    "meaning": "The west coast is famous for its beautiful scenery."
+  },
+  {
+    "sentence": "これはスペイン製のワインです。",
+    "sentence_furigana": "これはスペイン製【せい】のワインです。",
+    "meaning": "This is wine made in Spain."
+  },
+  {
+    "sentence": "西の空がオレンジ色に染まっている。",
+    "sentence_furigana": "西【にし】の空【そら】がオレンジ色【いろ】に染【そ】まっている。",
+    "meaning": "The western sky is tinged with orange."
+  },
+  {
+    "sentence": "スペインの文化は多様だ。",
+    "sentence_furigana": "スペインの文化【ぶんか】は多様【たよう】だ。",
+    "meaning": "Spanish culture is diverse."
+  },
+  {
+    "sentence": "西暦2023年はもうすぐ終わる。",
+    "sentence_furigana": "西暦【せいれき】2023年【ねん】はもうすぐ終【お】わる。",
+    "meaning": "The year 2023 AD is about to end."
+  },
+  {
+    "sentence": "スペイン風のオムレツを作ります。",
+    "sentence_furigana": "スペイン風【ふう】のオムレツを作【つく】ります。",
+    "meaning": "I will make a Spanish-style omelet."
+  },
+  {
+    "sentence": "西日本は地震が多い地域だ。",
+    "sentence_furigana": "西日本【にしにほん】は地震【じしん】が多【おお】い地域【ちいき】だ。",
+    "meaning": "Western Japan is an area prone to earthquakes."
+  },
+  {
+    "sentence": "彼はスペインの画家について調べている。",
+    "sentence_furigana": "彼【かれ】はスペインの画家【がか】について調【しら】べている。",
+    "meaning": "He is researching a Spanish painter."
+  },
+  {
+    "sentence": "西の方向に歩いていく。",
+    "sentence_furigana": "西【にし】の方向【ほうこう】に歩【ある】いていく。",
+    "meaning": "I am walking in the west direction."
+  },
+  {
+    "sentence": "スペインの夏はとても暑い。",
+    "sentence_furigana": "スペインの夏【なつ】はとても暑【あつ】い。",
+    "meaning": "The summer in Spain is very hot."
+  },
+  {
+    "sentence": "西鉄バスが駅前に停車した。",
+    "sentence_furigana": "西鉄【せつ】バスが駅前【えきまえ】に停車【ていしゃ】した。",
+    "meaning": "Nishitetsu bus stopped in front of the station."
+  },
+  {
+    "sentence": "この絵はスペインの風景を描いている。",
+    "sentence_furigana": "この絵【え】はスペインの風景【ふうけい】を描【えが】いている。",
+    "meaning": "This painting depicts a Spanish landscape."
+  },
+  {
+    "sentence": "太陽は西の空へゆっくりと沈む。",
+    "sentence_furigana": "太陽【たいよう】は西【にし】の空【そら】へゆっくりと沈【しず】む。",
+    "meaning": "The sun slowly sets in the western sky."
+  },
+  {
+    "sentence": "スペイン語はロマンス諸語の一つです。",
+    "sentence_furigana": "スペイン語【ご】はロマンス諸語【しょご】の一【ひと】つです。",
+    "meaning": "Spanish is one of the Romance languages."
+  },
+  {
+    "sentence": "西日本では雨が降っているらしい。",
+    "sentence_furigana": "西日本【にしにほん】では雨【あめ】が降【ふ】っているらしい。",
+    "meaning": "It seems to be raining in western Japan."
+  },
+  {
+    "sentence": "スペインの国旗は赤と黄色です。",
+    "sentence_furigana": "スペインの国旗【こっき】は赤【あか】と黄色【きいろ】です。",
+    "meaning": "The flag of Spain is red and yellow."
+  },
+  {
+    "sentence": "西側の建物が新しいオフィスビルです。",
+    "sentence_furigana": "西側【にしがわ】の建物【たてもの】が新【あたら】しいオフィスビルです。",
+    "meaning": "The building on the west side is the new office building."
+  },
+  {
+    "sentence": "彼はスペインの音楽に興味がある。",
+    "sentence_furigana": "彼【かれ】はスペインの音楽【おんがく】に興味【きょうみ】がある。",
+    "meaning": "He is interested in Spanish music."
+  },
+  {
+    "sentence": "西暦1964年に東京オリンピックが開催された。",
+    "sentence_furigana": "西暦【せいれき】1964年【ねん】に東京【とうきょう】オリンピックが開催【かいさい】された。",
+    "meaning": "The Tokyo Olympics were held in 1964 AD."
+  },
+  {
+    "sentence": "スペインのサグラダファミリアは有名です。",
+    "sentence_furigana": "スペインのサグラダファミリアは有名【ゆうめい】です。",
+    "meaning": "Sagrada Familia in Spain is famous."
+  },
+  {
+    "sentence": "西の空に星が見え始めた。",
+    "sentence_furigana": "西【にし】の空【そら】に星【ほし】が見【み】え始【はじ】まった。",
+    "meaning": "Stars began to appear in the western sky."
+  },
+  {
+    "sentence": "この本はスペインの歴史について書かれている。",
+    "sentence_furigana": "この本【ほん】はスペインの歴史【れきし】について書【か】かれている。",
+    "meaning": "This book is about the history of Spain."
+  },
+  {
+    "sentence": "西口改札から出てください。",
+    "sentence_furigana": "西口【にしぐち】改札【かいさつ】から出【で】てください。",
+    "meaning": "Please exit from the west ticket gate."
+  },
+  {
+    "sentence": "スペインのフラメンコは情熱的だ。",
+    "sentence_furigana": "スペインのフラメンコは情熱的【じょうねつてき】だ。",
+    "meaning": "Spanish flamenco is passionate."
+  },
+  {
+    "sentence": "西日本ではまだ梅雨が明けていない。",
+    "sentence_furigana": "西日本【にしにほん】ではまだ梅雨【つゆ】が明【あ】けていない。",
+    "meaning": "The rainy season has not yet ended in western Japan."
+  },
+  {
+    "sentence": "彼はスペイン語の辞書を探している。",
+    "sentence_furigana": "彼【かれ】はスペイン語【ご】の辞書【じしょ】を探【さが】している。",
+    "meaning": "He is looking for a Spanish dictionary."
+  },
+  {
+    "sentence": "西日が目に眩しい。",
+    "sentence_furigana": "西日【にしび】が目【め】に眩【まぶ】しい。",
+    "meaning": "The setting sun is dazzling to my eyes."
+  },
+  {
+    "sentence": "スペインのサッカーチームは強い。",
+    "sentence_furigana": "スペインのサッカーチームは強【つよ】い。",
+    "meaning": "Spanish soccer teams are strong."
+  },
+  {
+    "sentence": "西側の部屋の方が静かです。",
+    "sentence_furigana": "西側【にしがわ】の部屋【へや】の方【ほう】が静【しず】かです。",
+    "meaning": "The room on the west side is quieter."
+  },
+  {
+    "sentence": "この地図はスペインの地形を示している。",
+    "sentence_furigana": "この地図【ちず】はスペインの地形【ちけい】を示【しめ】している。",
+    "meaning": "This map shows the topography of Spain."
+  },
+  {
+    "sentence": "西向きにカーテンを閉めてください。",
+    "sentence_furigana": "西向【にしむ】きにカーテンを閉【し】めてください。",
+    "meaning": "Please close the curtains facing west."
+  },
+  {
+    "sentence": "スペインの観光地はたくさんある。",
+    "sentence_furigana": "スペインの観光地【かんこうち】はたくさんある。",
+    "meaning": "There are many tourist destinations in Spain."
+  },
+  {
+    "sentence": "西から冷たい風が吹いてきた。",
+    "sentence_furigana": "西【にし】から冷【つめ】たい風【かぜ】が吹【ふ】いてきた。",
+    "meaning": "A cold wind blew from the west."
+  },
+  {
+    "sentence": "スペインの踊りはリズミカルだ。",
+    "sentence_furigana": "スペインの踊【おど】りはリズミカルだ。",
+    "meaning": "Spanish dances are rhythmic."
+  },
+  {
+    "sentence": "西武ライオンズは野球チームです。",
+    "sentence_furigana": "西武【せいぶ】ライオンズは野球【やきゅう】チームです。",
+    "meaning": "Seibu Lions is a baseball team."
+  },
+  {
+    "sentence": "彼はスペインに留学していた経験がある。",
+    "sentence_furigana": "彼【かれ】はスペインに留学【りゅうがく】していた経験【けいけん】がある。",
+    "meaning": "He has experience studying abroad in Spain."
+  },
+  {
+    "sentence": "西の空が赤く染まる瞬間が好きだ。",
+    "sentence_furigana": "西【にし】の空【そら】が赤【あか】く染【そ】まる瞬間【しゅんかん】が好【す】きだ。",
+    "meaning": "I like the moment the western sky turns red."
+  },
+  {
+    "sentence": "スペインの食文化は魅力的だ。",
+    "sentence_furigana": "スペインの食文化【しょくぶんか】は魅力的【みりょくてき】だ。",
+    "meaning": "Spanish food culture is charming."
+  },
+  {
+    "sentence": "西隣の家は新しい家族が引っ越してきた。",
+    "sentence_furigana": "西隣【にしどなり】の家【いえ】は新【あたら】しい家族【かぞく】が引っ越【こ】してきた。",
+    "meaning": "A new family moved into the house next door to the west."
+  },
+  {
+    "sentence": "スペイン語で「ありがとう」は何と言いますか？",
+    "sentence_furigana": "スペイン語【ご】で「ありがとう」は何【なん】と言【い】いますか？",
+    "meaning": "How do you say 'thank you' in Spanish?"
+  },
+  {
+    "sentence": "西日本の多くの地域で桜が満開だ。",
+    "sentence_furigana": "西日本【にしにほん】の多【おお】くの地域【ちいき】で桜【さくら】が満開【まんかい】だ。",
+    "meaning": "Cherry blossoms are in full bloom in many areas of western Japan."
+  },
+  {
+    "sentence": "スペインの芸術は世界的に有名です。",
+    "sentence_furigana": "スペインの芸術【げいじゅつ】は世界的【せかいてき】に有名【ゆうめい】です。",
+    "meaning": "Spanish art is world-famous."
+  },
+  {
+    "sentence": "西側の席は景色が良い。",
+    "sentence_furigana": "西側【にしがわ】の席【せき】は景色【けしき】が良い【よい】。",
+    "meaning": "The seats on the west side have a good view."
+  },
+  {
+    "sentence": "スペイン語の挨拶をいくつか覚えた。",
+    "sentence_furigana": "スペイン語【ご】の挨拶【あいさつ】をいくつか覚【おぼ】えた。",
+    "meaning": "I learned a few Spanish greetings."
+  },
+  {
+    "sentence": "西の空には月が出ていた。",
+    "sentence_furigana": "西【にし】の空【そら】には月【つき】が出【で】ていた。",
+    "meaning": "The moon was out in the western sky."
+  },
+  {
+    "sentence": "スペインのバレンシアはオレンジで有名です。",
+    "sentence_furigana": "スペインのバレンシアはオレンジで有名【ゆうめい】です。",
+    "meaning": "Valencia in Spain is famous for oranges."
+  },
+  {
+    "sentence": "西風が強く吹いている。",
+    "sentence_furigana": "西風【にし】が強【つよ】く吹【ふ】いている。",
+    "meaning": "The west wind is blowing strongly."
+  },
+  {
+    "sentence": "彼はスペインに美術品を買い付けに行った。",
+    "sentence_furigana": "彼【かれ】はスペインに美術品【びじゅつひん】を買【か】い付【つ】けに行【い】った。",
+    "meaning": "He went to Spain to purchase artworks."
+  },
+  {
+    "sentence": "西側の地域は比較的温暖だ。",
+    "sentence_furigana": "西側【にしがわ】の地域【ちいき】は比較的【ひかくてき】温暖【おんだん】だ。",
+    "meaning": "The western region is relatively mild."
+  },
+  {
+    "sentence": "スペインのレコンキスタは長い歴史を持つ。",
+    "sentence_furigana": "スペインのレコンキスタは長【なが】い歴史【れきし】を持【も】つ。",
+    "meaning": "The Reconquista of Spain has a long history."
+  },
+  {
+    "sentence": "西の果てまで旅をしたい。",
+    "sentence_furigana": "西【にし】の果【は】てまで旅【たび】をしたい。",
+    "meaning": "I want to travel to the ends of the west."
+  },
+  {
+    "sentence": "スペイン人の友人ができた。",
+    "sentence_furigana": "スペイン人【じん】の友人【ゆうじん】ができた。",
+    "meaning": "I made a Spanish friend."
+  },
+  {
+    "sentence": "西暦2000年以降、インターネットが普及した。",
+    "sentence_furigana": "西暦【せいれき】2000年【ねん】以降【いこう】、インターネットが普及【ふきゅう】した。",
+    "meaning": "The internet has spread since the year 2000 AD."
+  },
+  {
+    "sentence": "スペインはイベリア半島の南西部に位置する。",
+    "sentence_furigana": "スペインはイベリア半島【はんとう】の南西部【なんせいぶ】に位置【いち】する。",
+    "meaning": "Spain is located in the southwest of the Iberian Peninsula."
+  },
+  {
+    "sentence": "西口出口はこちらです。",
+    "sentence_furigana": "西口【にしぐち】出口【でぐち】はこちらです。",
+    "meaning": "The west exit is this way."
+  },
+  {
+    "sentence": "スペイン語の学習は楽しい。",
+    "sentence_furigana": "スペイン語【ご】の学習【がくしゅう】は楽【たの】しい。",
+    "meaning": "Learning Spanish is fun."
+  },
+  {
+    "sentence": "西日本は活気がある地域だ。",
+    "sentence_furigana": "西日本【にしにほん】は活気【かっき】がある地域【ちいき】だ。",
+    "meaning": "Western Japan is a vibrant region."
+  },
+  {
+    "sentence": "スペインの美食は有名だ。",
+    "sentence_furigana": "スペインの美食【びしょく】は有名【ゆうめい】だ。",
+    "meaning": "Spanish gastronomy is famous."
+  },
+  {
+    "sentence": "西日の強い日はサングラスが必要だ。",
+    "sentence_furigana": "西日【にしび】の強【つよ】い日【ひ】はサングラスが必要【ひつよう】だ。",
+    "meaning": "Sunglasses are necessary on days with strong setting sun."
+  },
+  {
+    "sentence": "スペインの建築は興味深い。",
+    "sentence_furigana": "スペインの建築【けんちく】は興味深【きょうみぶか】い。",
+    "meaning": "Spanish architecture is interesting."
+  },
+  {
+    "sentence": "西側の風が肌をなでた。",
+    "sentence_furigana": "西側【にしがわ】の風【かぜ】が肌【はだ】をなでた。",
+    "meaning": "The west wind caressed my skin."
+  },
+  {
+    "sentence": "スペインの王室は歴史が古い。",
+    "sentence_furigana": "スペインの王室【おうしつ】は歴史【れきし】が古【ふる】い。",
+    "meaning": "The Spanish royal family has a long history."
+  },
+  {
+    "sentence": "西へ向かう列車に乗った。",
+    "sentence_furigana": "西【にし】へ向【む】かう列車【れっしゃ】に乗【の】った。",
+    "meaning": "I took a train heading west."
+  },
+  {
+    "sentence": "スペインのフェリアは楽しいお祭りです。",
+    "sentence_furigana": "スペインのフェリアは楽【たの】しいお祭【まつ】りです。",
+    "meaning": "Spanish ferias are fun festivals."
+  },
+  {
+    "sentence": "西日本の梅雨入りは例年より遅い。",
+    "sentence_furigana": "西日本【にしにほん】の梅雨入【つゆい】りは例年【れいねん】より遅【おそ】い。",
+    "meaning": "The start of the rainy season in western Japan is later than usual."
+  },
+  {
+    "sentence": "スペイン語の単語を覚えるのが難しい。",
+    "sentence_furigana": "スペイン語【ご】の単語【たんご】を覚【おぼ】えるのが難【むずか】しい。",
+    "meaning": "It is difficult to memorize Spanish vocabulary."
+  },
+  {
+    "sentence": "西側のアパートは家賃が高い。",
+    "sentence_furigana": "西側【にしがわ】のアパートは家賃【やちん】が高【たか】い。",
+    "meaning": "Apartments on the west side are expensive."
+  },
+  {
+    "sentence": "スペインの家庭料理を試してみたい。",
+    "sentence_furigana": "スペインの家庭料理【かていりょうり】を試【ため】してみたい。",
+    "meaning": "I want to try Spanish home cooking."
+  },
+  {
+    "sentence": "西の方角に進路をとった。",
+    "sentence_furigana": "西【にし】の方角【ほうかく】に進路【しんろ】をとった。",
+    "meaning": "I set course towards the west."
+  },
+  {
+    "sentence": "スペインの伝統的な衣装は美しい。",
+    "sentence_furigana": "スペインの伝統的【でんとうてき】な衣装【いしょう】は美【うつく】しい。",
+    "meaning": "Traditional Spanish costumes are beautiful."
+  },
+  {
+    "sentence": "西に大きく旋回した。",
+    "sentence_furigana": "西【にし】に大【おお】きく旋回【せんかい】した。",
+    "meaning": "It made a wide turn to the west."
+  },
+  {
+    "sentence": "スペインの闘牛は有名だが、賛否両論がある。",
+    "sentence_furigana": "スペインの闘牛【とうぎゅう】は有名【ゆうめい】だが、賛否両論【さんぴりょうろん】がある。",
+    "meaning": "Spanish bullfighting is famous, but there are pros and cons."
+  },
+  {
+    "sentence": "西日本旅客鉄道はJR西日本とも呼ばれる。",
+    "sentence_furigana": "西日本旅客鉄道【にしにほんりょかくてつどう】はJR西日本【せいにつ】とも呼【よ】ばれる。",
+    "meaning": "West Japan Railway Company is also called JR West."
+  },
+  {
+    "sentence": "スペイン語で「こんにちは」は何ですか？",
+    "sentence_furigana": "スペイン語【ご】で「こんにちは」は何【なん】ですか？",
+    "meaning": "What is 'hello' in Spanish?"
+  },
+  {
+    "sentence": "西側から強い日差しが差し込んでいる。",
+    "sentence_furigana": "西側【にしがわ】から強【つよ】い日差【ひざ】しが差【さ】し込【こ】んでいる。",
+    "meaning": "Strong sunlight is coming in from the west side."
+  },
+  {
+    "sentence": "スペインの音楽フェスティバルに参加したい。",
+    "sentence_furigana": "スペインの音楽【おんがく】フェスティバルに参加【さんか】したい。",
+    "meaning": "I want to participate in a Spanish music festival."
+  },
+  {
+    "sentence": "西の空に飛行機が見えた。",
+    "sentence_furigana": "西【にし】の空【そら】に飛行機【ひこうき】が見【み】えた。",
+    "meaning": "An airplane was visible in the western sky."
+  },
+  {
+    "sentence": "スペインの家庭は家族の絆を大切にする。",
+    "sentence_furigana": "スペインの家庭【かてい】は家族【かぞく】の絆【きずな】を大切【たいせつ】にする。",
+    "meaning": "Spanish families value family ties."
+  },
+  {
+    "sentence": "西日本で震度5強の地震があった。",
+    "sentence_furigana": "西日本【にしにほん】で震度【しんど】5強【きょう】の地震【じしん】があった。",
+    "meaning": "There was an earthquake of magnitude 5+ in western Japan."
+  },
+  {
+    "sentence": "スペインの祝日は多い。",
+    "sentence_furigana": "スペインの祝日【しゅくじつ】は多【おお】い。",
+    "meaning": "There are many holidays in Spain."
+  },
+  {
+    "sentence": "西向きに窓がない部屋は夏でも涼しい。",
+    "sentence_furigana": "西向【にしむ】きに窓【まど】がない部屋【へや】は夏【なつ】でも涼【すず】しい。",
+    "meaning": "A room without a west-facing window is cool even in summer."
+  },
+  {
+    "sentence": "スペイン語の検定試験を受けた。",
+    "sentence_furigana": "スペイン語【ご】の検定試験【けんていしけん】を受【う】けた。",
+    "meaning": "I took a Spanish proficiency test."
+  },
+  {
+    "sentence": "西の方に歩いて行くと海が見えた。",
+    "sentence_furigana": "西【にし】の方【ほう】に歩【ある】いて行【い】くと海【うみ】が見【み】えた。",
+    "meaning": "Walking towards the west, I could see the sea."
+  },
+  {
+    "sentence": "スペインのサグラダ・ファミリアは未完の建築物だ。",
+    "sentence_furigana": "スペインのサグラダ・ファミリアは未完【みかん】の建築物【けんちくぶつ】だ。",
+    "meaning": "Sagrada Familia in Spain is an unfinished building."
+  },
+  {
+    "sentence": "西側の歩道は工事中です。",
+    "sentence_furigana": "西側【にしがわ】の歩道【ほどう】は工事中【こうじちゅう】です。",
+    "meaning": "The sidewalk on the west side is under construction."
+  },
+  {
+    "sentence": "スペインの食卓にはオリーブオイルが欠かせない。",
+    "sentence_furigana": "スペインの食卓【しょくたく】にはオリーブオイルが欠【か】かせない。",
+    "meaning": "Olive oil is indispensable on the Spanish table."
+  },
+  {
+    "sentence": "西日に照らされた道は暖かい。",
+    "sentence_furigana": "西日【にしび】に照【て】らされた道【みち】は暖【あたた】かい。",
+    "meaning": "The road illuminated by the setting sun is warm."
+  },
+  {
+    "sentence": "スペインの文化遺産は多い。",
+    "sentence_furigana": "スペインの文化遺産【ぶんかいさん】は多【おお】い。",
+    "meaning": "Spain has many cultural heritages."
+  },
+  {
+    "sentence": "西日本の海岸線は美しい。",
+    "sentence_furigana": "西日本【にしにほん】の海岸線【かいがんせん】は美【うつく】しい。",
+    "meaning": "The coastline of western Japan is beautiful."
+  },
+  {
+    "sentence": "スペイン語で「はい」は何と言いますか？",
+    "sentence_furigana": "スペイン語【ご】で「はい」は何【なん】と言【い】いますか？",
+    "meaning": "How do you say 'yes' in Spanish?"
+  },
+  {
+    "sentence": "西からの風に乗って潮の香りが運ばれてきた。",
+    "sentence_furigana": "西【にし】からの風【かぜ】に乗【の】って潮【しお】の香【かお】りが運【はこ】ばれてきた。",
+    "meaning": "The scent of the tide was carried by the wind from the west."
+  },
+  {
+    "sentence": "スペインの国民食パエリアは美味しい。",
+    "sentence_furigana": "スペインの国民食【こくみんしょく】パエリアは美味【おい】しい。",
+    "meaning": "Paella, the national dish of Spain, is delicious."
+  },
+  {
+    "sentence": "西側には高い山が連なっている。",
+    "sentence_furigana": "西側【にしがわ】には高【たか】い山【やま】が連【つら】なっている。",
+    "meaning": "High mountains are lined up on the west side."
+  },
+  {
+    "sentence": "スペインのフラメンコギターは独特の響きを持つ。",
+    "sentence_furigana": "スペインのフラメンコギターは独特【どくとく】の響【ひび】きを持【も】つ。",
+    "meaning": "Spanish flamenco guitar has a unique sound."
+  },
+  {
+    "sentence": "西日本は気候が温暖な地域が多い。",
+    "sentence_furigana": "西日本【にしにほん】は気候【きこう】が温暖【おんだん】な地域【ちいき】が多【おお】い。",
+    "meaning": "Western Japan has many regions with a mild climate."
+  },
+  {
+    "sentence": "スペイン語を話す人口は多い。",
+    "sentence_furigana": "スペイン語【ご】を話【はな】す人口【じんこう】は多【おお】い。",
+    "meaning": "The population that speaks Spanish is large."
+  },
+  {
+    "sentence": "西日が強くて、窓の外が見えない。",
+    "sentence_furigana": "西日【にしび】が強【つよ】くて、窓【まど】の外【そと】が見【み】えない。",
+    "meaning": "The setting sun is strong, and I can't see outside the window."
+  }
+]

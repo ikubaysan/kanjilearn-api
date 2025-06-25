@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "政府は新たな経済政策を発表しました。",
+    "sentence_furigana": "政府【せいふ】は新【あら】たな経済政策【けいざいせいさく】を発表【はっぴょう】しました。",
+    "meaning": "The government announced a new economic policy."
+  },
+  {
+    "sentence": "政治家たちは国の将来について議論しました。",
+    "sentence_furigana": "政治家【せいじか】たちは国【くに】の将来【しょうらい】について議論【ぎろん】しました。",
+    "meaning": "Politicians discussed the future of the country."
+  },
+  {
+    "sentence": "国民の多くは、政治に関心を持っています。",
+    "sentence_furigana": "国民【こくみん】の多【おお】くは、政治【せいじ】に関心【かんしん】を持【も】っています。",
+    "meaning": "Many citizens are interested in politics."
+  },
+  {
+    "sentence": "この法律は国民生活に大きな影響を与えるでしょう。",
+    "sentence_furigana": "この法律【ほうりつ】は国民生活【こくみんせいかつ】に大【おお】きな影響【えいきょう】を与【あた】えるでしょう。",
+    "meaning": "This law will have a significant impact on people's lives."
+  },
+  {
+    "sentence": "政治の安定は経済発展の基盤です。",
+    "sentence_furigana": "政治【せいじ】の安定【あんてい】は経済発展【けいざいはってん】の基盤【きばん】です。",
+    "meaning": "Political stability is the foundation of economic development."
+  },
+  {
+    "sentence": "新しい首相は、国民からの期待を一身に背負っています。",
+    "sentence_furigana": "新【あら】たな首相【しゅしょう】は、国民【こくみん】からの期待【きたい】を一身【いっしん】に背負【せお】っています。",
+    "meaning": "The new prime minister carries the expectations of the people."
+  },
+  {
+    "sentence": "彼は地方自治体の運営に携わっています。",
+    "sentence_furigana": "彼【かれ】は地方自治体【ちほうじちたい】の運営【うんえい】に携【たずさ】わっています。",
+    "meaning": "He is involved in the administration of local government."
+  },
+  {
+    "sentence": "政党間の協力が重要視されています。",
+    "sentence_furigana": "政党【せいとう】間【かん】の協力【きょうりょく】が重要視【じゅうようし】されています。",
+    "meaning": "Cooperation between political parties is considered important."
+  },
+  {
+    "sentence": "歴史上の偉大な政治家たちの業績を学びましょう。",
+    "sentence_furigana": "歴史上【れきしじょう】の偉大【いだい】な政治家【せいじか】たちの業績【ぎょうせき】を学【まな】びましょう。",
+    "meaning": "Let's learn about the achievements of great historical politicians."
+  },
+  {
+    "sentence": "現代社会における政治の役割は非常に大きいです。",
+    "sentence_furigana": "現代社会【げんだいしゃかい】における政治【せいじ】の役割【やくわり】は非常【ひじょう】に大【おお】きいです。",
+    "meaning": "The role of politics in modern society is very significant."
+  },
+  {
+    "sentence": "政治的な駆け引きが舞台裏で行われています。",
+    "sentence_furigana": "政治的【せいじてき】な掛【か】け引【ひ】きが舞台裏【ぶたいうら】で行【おこな】われています。",
+    "meaning": "Political maneuvering is taking place behind the scenes."
+  },
+  {
+    "sentence": "行政改革は、国民の生活を改善するために不可欠です。",
+    "sentence_furigana": "行政改革【ぎょうせいかいかく】は、国民【こくみん】の生活【せいかつ】を改善【かいぜん】するために不可欠【ふかけつ】です。",
+    "meaning": "Administrative reform is essential to improve people's lives."
+  },
+  {
+    "sentence": "彼は長年、政界で活躍してきました。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、政界【せいかい】で活躍【かつやく】してきました。",
+    "meaning": "He has been active in politics for many years."
+  },
+  {
+    "sentence": "この問題の解決には、政治的な意思決定が必要です。",
+    "sentence_furigana": "この問題【もんだい】の解決【かいけつ】には、政治的【せいじてき】な意思決定【いしけってい】が必要【ひつよう】です。",
+    "meaning": "Political decision-making is necessary to resolve this issue."
+  },
+  {
+    "sentence": "政令指定都市として、多くの権限が与えられています。",
+    "sentence_furigana": "政令指定都市【せいれいしていとし】として、多【おお】くの権限【けんげん】が与【あた】えられています。",
+    "meaning": "As a government-ordinance-designated city, many powers are granted."
+  },
+  {
+    "sentence": "政治の無関心は、民主主義の危機を招きかねません。",
+    "sentence_furigana": "政治【せいじ】の無関心【むかんしん】は、民主主義【みんしゅしゅぎ】の危機【きき】を招【まね】きかねません。",
+    "meaning": "Political apathy can lead to a crisis of democracy."
+  },
+  {
+    "sentence": "平和な社会を築くためには、賢明な政治が求められます。",
+    "sentence_furigana": "平和【へいわ】な社会【しゃかい】を築【きず】くためには、賢明【けんめい】な政治【せいじ】が求【もと】められます。",
+    "meaning": "Wise governance is required to build a peaceful society."
+  },
+  {
+    "sentence": "彼は国民のために、日々政務に励んでいます。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】のために、日々【ひび】政務【せいむ】に励【はげ】んでいます。",
+    "meaning": "He strives for public service every day for the people."
+  },
+  {
+    "sentence": "この件については、政府の最終的な決定を待つ必要があります。",
+    "sentence_furigana": "この件【けん】については、政府【せいふ】の最終的【さいしゅうてき】な決定【けってい】を待【ま】つ必要【ひつよう】があります。",
+    "meaning": "We need to wait for the government's final decision on this matter."
+  },
+  {
+    "sentence": "政策変更は、経済に大きな影響を与える可能性がある。",
+    "sentence_furigana": "政策変更【せいさくへんこう】は、経済【けいざい】に大【おお】きな影響【えいきょう】を与【あた】える可能性【かのうせい】がある。",
+    "meaning": "Policy changes can have a major impact on the economy."
+  },
+  {
+    "sentence": "政治の透明性が問われています。",
+    "sentence_furigana": "政治【せいじ】の透明性【とうめいせい】が問【と】われています。",
+    "meaning": "The transparency of politics is being questioned."
+  },
+  {
+    "sentence": "地方政治の活性化が課題となっています。",
+    "sentence_furigana": "地方政治【ちほうせいじ】の活性化【かっせいか】が課題【かだい】となっています。",
+    "meaning": "The revitalization of local politics has become an issue."
+  },
+  {
+    "sentence": "彼は選挙活動を通じて、国民の声を聴いています。",
+    "sentence_furigana": "彼【かれ】は選挙活動【せんきょかつどう】を通【つう】じて、国民【こくみん】の声【こえ】を聴【き】いています。",
+    "meaning": "He listens to the voices of the people through his election campaign."
+  },
+  {
+    "sentence": "政治腐敗は社会の信頼を損ないます。",
+    "sentence_furigana": "政治腐敗【せいじふはい】は社会【しゃかい】の信頼【しんらい】を損【そこな】います。",
+    "meaning": "Political corruption undermines social trust."
+  },
+  {
+    "sentence": "新しい政権が発足しました。",
+    "sentence_furigana": "新【あら】たな政権【せいけん】が発足【ほっそく】しました。",
+    "meaning": "A new administration has been launched."
+  },
+  {
+    "sentence": "国民一人ひとりが政治に参加することが大切です。",
+    "sentence_furigana": "国民一人ひとり【こくみんひとりひとり】が政治【せいじ】に参加【さんか】することが大切【たいせつ】です。",
+    "meaning": "It is important for every citizen to participate in politics."
+  },
+  {
+    "sentence": "政治的な駆け引きが法案の成立を遅らせています。",
+    "sentence_furigana": "政治的【せいじてき】な掛【か】け引【ひ】きが法案【ほうあん】の成立【せいりつ】を遅【おく】らせています。",
+    "meaning": "Political maneuvering is delaying the passage of the bill."
+  },
+  {
+    "sentence": "この政策は国民の生活を直接的に豊かにします。",
+    "sentence_furigana": "この政策【せいさく】は国民【こくみん】の生活【せいかつ】を直接的【ちょくせつてき】に豊【ゆた】かにします。",
+    "meaning": "This policy directly enriches people's lives."
+  },
+  {
+    "sentence": "彼は長年、政府の要職を務めてきました。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、政府【せいふ】の要職【ようやくしょく】を務【つと】めてきました。",
+    "meaning": "He has held important government positions for many years."
+  },
+  {
+    "sentence": "政治家の倫理観が問われています。",
+    "sentence_furigana": "政治家【せいじか】の倫理観【りんりかん】が問【と】われています。",
+    "meaning": "The ethics of politicians are being questioned."
+  },
+  {
+    "sentence": "改革を進めるには、強い政治力が必要です。",
+    "sentence_furigana": "改革【かいかく】を進【すす】めるには、強【つよ】い政治力【せいじりょく】が必要【ひつよう】です。",
+    "meaning": "Strong political power is needed to advance reforms."
+  },
+  {
+    "sentence": "政治の混乱が経済活動に悪影響を与えています。",
+    "sentence_furigana": "政治【せいじ】の混乱【こんらん】が経済活動【けいざいかつどう】に悪影響【あくえいきょう】を与【あた】えています。",
+    "meaning": "Political turmoil is adversely affecting economic activity."
+  },
+  {
+    "sentence": "彼は国民の支持を得て当選しました。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】の支持【しじ】を得【え】て当選【とうせん】しました。",
+    "meaning": "He was elected with the support of the people."
+  },
+  {
+    "sentence": "政令によって、新しい規則が定められました。",
+    "sentence_furigana": "政令【せいれい】によって、新【あら】たな規則【きそく】が定【さだ】められました。",
+    "meaning": "New regulations were established by government ordinance."
+  },
+  {
+    "sentence": "政治家は国民の代表として行動しなければなりません。",
+    "sentence_furigana": "政治家【せいじか】は国民【こくみん】の代表【だいひょう】として行動【こうどう】しなければなりません。",
+    "meaning": "Politicians must act as representatives of the people."
+  },
+  {
+    "sentence": "この国の政治システムは非常に複雑です。",
+    "sentence_furigana": "この国【くに】の政治【せいじ】システムは非常【ひじょう】に複雑【ふくざつ】です。",
+    "meaning": "This country's political system is very complex."
+  },
+  {
+    "sentence": "政治的安定なしには、繁栄はありえません。",
+    "sentence_furigana": "政治的【せいじてき】安定【あんてい】なしには、繁栄【はんえい】はありえません。",
+    "meaning": "There can be no prosperity without political stability."
+  },
+  {
+    "sentence": "彼は国民の意見を政治に反映させようと努力しています。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】の意見【いけん】を政治【せいじ】に反映【はんえい】させようと努力【どりょく】しています。",
+    "meaning": "He is trying to reflect the opinions of the people in politics."
+  },
+  {
+    "sentence": "政権交代は、国民に大きな期待をもたらしました。",
+    "sentence_furigana": "政権交代【せいけんこうたい】は、国民【こくみん】に大【おお】きな期待【きたい】をもたらしました。",
+    "meaning": "The change of government brought great expectations to the people."
+  },
+  {
+    "sentence": "政治参加の機会を増やすことが重要です。",
+    "sentence_furigana": "政治参加【せいじさんか】の機会【きかい】を増【ふ】やすことが重要【じゅうよう】です。",
+    "meaning": "It is important to increase opportunities for political participation."
+  },
+  {
+    "sentence": "政府は国民の安全を守る責任があります。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の安全【あんぜん】を守【まも】る責任【せきにん】があります。",
+    "meaning": "The government has a responsibility to protect the safety of its citizens."
+  },
+  {
+    "sentence": "彼の政策は多くの国民に支持されています。",
+    "sentence_furigana": "彼【かれ】の政策【せいさく】は多【おお】くの国民【こくみん】に支持【しじ】されています。",
+    "meaning": "His policies are supported by many citizens."
+  },
+  {
+    "sentence": "政治的な駆け引きが、議会の審議を難しくしています。",
+    "sentence_furigana": "政治的【せいじてき】な掛【か】け引【ひ】きが、議会【ぎかい】の審議【しんぎ】を難【むずか】しくしています。",
+    "meaning": "Political maneuvering is making parliamentary deliberation difficult."
+  },
+  {
+    "sentence": "地方自治体の運営を改善する必要があります。",
+    "sentence_furigana": "地方自治体【ちほうじちたい】の運営【うんえい】を改善【かいぜん】する必要【ひつよう】があります。",
+    "meaning": "The administration of local governments needs to be improved."
+  },
+  {
+    "sentence": "彼は民主主義の原則に基づいて政治を行っています。",
+    "sentence_furigana": "彼【かれ】は民主主義【みんしゅしゅぎ】の原則【げんそく】に基づいて【もとづいて】政治【せいじ】を行【おこな】っています。",
+    "meaning": "He governs based on the principles of democracy."
+  },
+  {
+    "sentence": "政党間の対立が激化しています。",
+    "sentence_furigana": "政党【せいとう】間【かん】の対立【たいりつ】が激化【げきか】しています。",
+    "meaning": "The conflict between political parties is intensifying."
+  },
+  {
+    "sentence": "この法律は国民の権利を守るために制定されました。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の権利【けんり】を守【まも】るために制定【せいてい】されました。",
+    "meaning": "This law was enacted to protect the rights of the people."
+  },
+  {
+    "sentence": "政治家の資質が国民から問われています。",
+    "sentence_furigana": "政治家【せいじか】の資質【ししつ】が国民【こくみん】から問【と】われています。",
+    "meaning": "The qualifications of politicians are being questioned by the public."
+  },
+  {
+    "sentence": "政府の政策決定プロセスは透明であるべきです。",
+    "sentence_furigana": "政府【せいふ】の政策決定【せいさくけってい】プロセスは透明【とうめい】であるべきです。",
+    "meaning": "The government's policy-making process should be transparent."
+  },
+  {
+    "sentence": "政治的な駆け引きが、この問題の解決を遅らせている。",
+    "sentence_furigana": "政治的【せいじてき】な掛【か】け引【ひ】きが、この問題【もんだい】の解決【かいけつ】を遅【おく】らせている。",
+    "meaning": "Political maneuvering is delaying the resolution of this issue."
+  },
+  {
+    "sentence": "彼は国民のために尽力することを誓いました。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】のために尽力【じんりょく】することを誓【ちか】いました。",
+    "meaning": "He vowed to dedicate himself to the people."
+  },
+  {
+    "sentence": "政権の安定が経済成長に不可欠です。",
+    "sentence_furigana": "政権【せいけん】の安定【あんてい】が経済成長【けいざいせいちょう】に不可欠【ふかけつ】です。",
+    "meaning": "Political stability is essential for economic growth."
+  },
+  {
+    "sentence": "政治の理想と現実の間には、しばしば大きな隔たりがあります。",
+    "sentence_furigana": "政治【せいじ】の理想【りそう】と現実【げんじつ】の間【あいだ】には、しばしば大【おお】きな隔【へだ】たりがあります。",
+    "meaning": "There is often a large gap between political ideals and reality."
+  },
+  {
+    "sentence": "新しい政策は、社会の公正さを促進するものです。",
+    "sentence_furigana": "新【あら】たな政策【せいさく】は、社会【しゃかい】の公正【こうせい】さを促進【そくしん】するものです。",
+    "meaning": "The new policy promotes social fairness."
+  },
+  {
+    "sentence": "彼は政治の世界で多くの経験を積んできました。",
+    "sentence_furigana": "彼【かれ】は政治【せいじ】の世界【せかい】で多【おお】くの経験【けいけん】を積【つ】んできました。",
+    "meaning": "He has gained much experience in the world of politics."
+  },
+  {
+    "sentence": "政治的な合意形成が喫緊の課題です。",
+    "sentence_furigana": "政治的【せいじてき】な合意形成【ごういけいせい】が喫緊【きっきん】の課題【かだい】です。",
+    "meaning": "Building political consensus is an urgent issue."
+  },
+  {
+    "sentence": "政府は国民の幸福を追求する義務があります。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の幸福【こうふく】を追求【ついきゅう】する義務【ぎむ】があります。",
+    "meaning": "The government has a duty to pursue the happiness of its citizens."
+  },
+  {
+    "sentence": "彼の政治手腕は高く評価されています。",
+    "sentence_furigana": "彼【かれ】の政治手腕【せいじしゅわん】は高【たか】く評価【ひょうか】されています。",
+    "meaning": "His political skills are highly regarded."
+  },
+  {
+    "sentence": "政治の安定なくして、経済発展は望めません。",
+    "sentence_furigana": "政治【せいじ】の安定【あんてい】なくして、経済発展【けいざいはってん】は望【のぞ】めません。",
+    "meaning": "Without political stability, economic development cannot be expected."
+  },
+  {
+    "sentence": "国民の多様な意見を政治に反映させることが重要です。",
+    "sentence_furigana": "国民【こくみん】の多様【たよう】な意見【いけん】を政治【せいじ】に反映【はんえい】させることが重要【じゅうよう】です。",
+    "meaning": "It is important to reflect the diverse opinions of the people in politics."
+  },
+  {
+    "sentence": "彼は政治家としての責務を真摯に受け止めています。",
+    "sentence_furigana": "彼【かれ】は政治家【せいじか】としての責務【せきむ】を真摯【しんし】に受【う】け止【と】めています。",
+    "meaning": "He sincerely accepts his responsibilities as a politician."
+  },
+  {
+    "sentence": "政令による規制緩和が進められています。",
+    "sentence_furigana": "政令【せいれい】による規制緩和【きせいかんわ】が進【すす】められています。",
+    "meaning": "Deregulation by government ordinance is being promoted."
+  },
+  {
+    "sentence": "政治の健全性が社会の信頼を築きます。",
+    "sentence_furigana": "政治【せいじ】の健全性【けんぜんせい】が社会【しゃかい】の信頼【しんらい】を築【きず】きます。",
+    "meaning": "Political integrity builds social trust."
+  },
+  {
+    "sentence": "彼は国民と共に歩む政治を目指しています。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】とともに歩【あゆ】む政治【せいじ】を目指【めざ】しています。",
+    "meaning": "He aims for politics that walks with the people."
+  },
+  {
+    "sentence": "政治的な対立が、政策決定を困難にしています。",
+    "sentence_furigana": "政治的【せいじてき】な対立【たいりつ】が、政策決定【せいさくけってい】を困難【こんなん】にしています。",
+    "meaning": "Political conflicts are making policy decisions difficult."
+  },
+  {
+    "sentence": "政府の役割は、国民の福祉を向上させることです。",
+    "sentence_furigana": "政府【せいふ】の役割【やくわり】は、国民【こくみん】の福祉【ふくし】を向上【こうじょう】させることです。",
+    "meaning": "The role of government is to improve the welfare of the people."
+  },
+  {
+    "sentence": "彼は改革断行のために、国民の支持を求めています。",
+    "sentence_furigana": "彼【かれ】は改革断行【かいかくだんこう】のために、国民【こくみん】の支持【しじ】を求【もと】めています。",
+    "meaning": "He is seeking public support to implement reforms."
+  },
+  {
+    "sentence": "政治的無関心は、民主主義の基盤を揺るがします。",
+    "sentence_furigana": "政治的無関心【せいじてきむかんしん】は、民主主義【みんしゅしゅぎ】の基盤【きばん】を揺【ゆ】るがします。",
+    "meaning": "Political apathy shakes the foundations of democracy."
+  },
+  {
+    "sentence": "この政党は国民の声に真摯に耳を傾けます。",
+    "sentence_furigana": "この政党【せいとう】は国民【こくみん】の声【こえ】に真摯【しんし】に耳【みみ】を傾【かたむ】けます。",
+    "meaning": "This political party sincerely listens to the voices of the people."
+  },
+  {
+    "sentence": "政治の安定は、社会全体の発展に不可欠です。",
+    "sentence_furigana": "政治【せいじ】の安定【あんてい】は、社会全体【しゃかいぜんたい】の発展【はってん】に不可欠【ふかけつ】です。",
+    "meaning": "Political stability is essential for the development of society as a whole."
+  },
+  {
+    "sentence": "彼は国民生活の向上に貢献してきました。",
+    "sentence_furigana": "彼【かれ】は国民生活【こくみんせいかつ】の向上【こうじょう】に貢献【こうけん】してきました。",
+    "meaning": "He has contributed to the improvement of people's lives."
+  },
+  {
+    "sentence": "政治的な議論が活発に行われています。",
+    "sentence_furigana": "政治的【せいじてき】な議論【ぎろん】が活発【かっぱつ】に行【おこな】われています。",
+    "meaning": "Political discussions are actively taking place."
+  },
+  {
+    "sentence": "政府の決定は国民の生活に直接影響します。",
+    "sentence_furigana": "政府【せいふ】の決定【けってい】は国民【こくみん】の生活【せいかつ】に直接影響【ちょくせつえいきょう】します。",
+    "meaning": "Government decisions directly affect people's lives."
+  },
+  {
+    "sentence": "政治における倫理が問われる時代です。",
+    "sentence_furigana": "政治【せいじ】における倫理【りんり】が問【と】われる時代【じだい】です。",
+    "meaning": "It is an era where ethics in politics are questioned."
+  },
+  {
+    "sentence": "彼は国民のために献身的に働く政治家です。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】のために献身的【けんしんてき】に働【はたら】く政治家【せいじか】です。",
+    "meaning": "He is a politician who works devotedly for the people."
+  },
+  {
+    "sentence": "政令で定められた基準を遵守する必要があります。",
+    "sentence_furigana": "政令【せいれい】で定【さだ】められた基準【きじゅん】を遵守【じゅんしゅ】する必要【ひつよう】があります。",
+    "meaning": "It is necessary to comply with the standards set by government ordinance."
+  },
+  {
+    "sentence": "政治の透明性を確保することが、国民の信頼を得る鍵となります。",
+    "sentence_furigana": "政治【せいじ】の透明性【とうめいせい】を確保【かくほ】することが、国民【こくみん】の信頼【しんらい】を得【え】る鍵【かぎ】となります。",
+    "meaning": "Ensuring political transparency is key to gaining public trust."
+  },
+  {
+    "sentence": "彼は地域社会の運営に深く関わっています。",
+    "sentence_furigana": "彼【かれ】は地域社会【ちいきしゃかい】の運営【うんえい】に深【ふか】く関【かか】わっています。",
+    "meaning": "He is deeply involved in the administration of the local community."
+  },
+  {
+    "sentence": "政治的な駆け引きを乗り越え、国民の利益を追求することが重要です。",
+    "sentence_furigana": "政治的【せいじてき】な掛【か】け引【ひ】きを乗【の】り越【こ】え、国民【こくみん】の利益【りえき】を追求【ついきゅう】することが重要【じゅうよう】です。",
+    "meaning": "It is important to overcome political maneuvering and pursue the interests of the people."
+  },
+  {
+    "sentence": "政府は国民の生活を安定させるための政策を実施しています。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の生活【せいかつ】を安定【あんてい】させるための政策【せいさく】を実施【じっし】しています。",
+    "meaning": "The government is implementing policies to stabilize people's lives."
+  },
+  {
+    "sentence": "政治家の言葉は、国民に大きな影響を与えます。",
+    "sentence_furigana": "政治家【せいじか】の言葉【ことば】は、国民【こくみん】に大【おお】きな影響【えいきょう】を与【あた】えます。",
+    "meaning": "The words of politicians have a significant impact on the people."
+  },
+  {
+    "sentence": "彼の政治手腕は、多くの国民から評価されています。",
+    "sentence_furigana": "彼【かれ】の政治手腕【せいじしゅわん】は、多【おお】くの国民【こくみん】から評価【ひょうか】されています。",
+    "meaning": "His political skills are highly regarded by many citizens."
+  },
+  {
+    "sentence": "政治改革は、国家の発展に不可欠です。",
+    "sentence_furigana": "政治改革【せいじかいかく】は、国家【こっか】の発展【はってん】に不可欠【ふかけつ】です。",
+    "meaning": "Political reform is essential for national development."
+  },
+  {
+    "sentence": "彼は、国民の声を聞き、政治に反映させることを約束しました。",
+    "sentence_furigana": "彼【かれ】は、国民【こくみん】の声【こえ】を聞【き】き、政治【せいじ】に反映【はんえい】させることを約束【やくそく】しました。",
+    "meaning": "He promised to listen to the voices of the people and reflect them in politics."
+  },
+  {
+    "sentence": "政治的な安定なくして、持続的な経済成長は望めない。",
+    "sentence_furigana": "政治的【せいじてき】な安定【あんてい】なくして、持続的【じぞくてき】な経済成長【けいざいせいちょう】は望【のぞ】めない。",
+    "meaning": "Without political stability, sustainable economic growth cannot be expected."
+  },
+  {
+    "sentence": "彼は政治家として、国民のために誠心誠意尽くすことを誓います。",
+    "sentence_furigana": "彼【かれ】は政治家【せいじか】として、国民【こくみん】のために誠心誠意【せいしんせいい】尽【つ】くすことを誓【ちか】います。",
+    "meaning": "As a politician, he vows to serve the people with all his heart."
+  },
+  {
+    "sentence": "政府は国民の意見を広く募っています。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の意見【いけん】を広【ひろ】く募【つの】っています。",
+    "meaning": "The government is broadly soliciting public opinion."
+  },
+  {
+    "sentence": "政治の透明性は、民主主義の健全な発展のために不可欠です。",
+    "sentence_furigana": "政治【せいじ】の透明性【とうめいせい】は、民主主義【みんしゅしゅぎ】の健全【けんぜん】な発展【はってん】のために不可欠【ふかけつ】です。",
+    "meaning": "Transparency in politics is essential for the healthy development of democracy."
+  },
+  {
+    "sentence": "彼は国民の支持を得て、政治の道を歩み始めました。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】の支持【しじ】を得【え】て、政治【せいじ】の道【みち】を歩【あゆ】み始【はじ】めました。",
+    "meaning": "With the support of the people, he began his political career."
+  },
+  {
+    "sentence": "政治的な安定が、経済活動の活性化につながります。",
+    "sentence_furigana": "政治的【せいじてき】な安定【あんてい】が、経済活動【けいざいかつどう】の活性化【かっせいか】につながります。",
+    "meaning": "Political stability leads to the revitalization of economic activity."
+  },
+  {
+    "sentence": "彼は国民のために、より良い政策を立案しています。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】のために、より良【よ】い政策【せいさく】を立案【りつあん】しています。",
+    "meaning": "He is drafting better policies for the people."
+  },
+  {
+    "sentence": "政治家の資質が、国民の生活に大きく影響します。",
+    "sentence_furigana": "政治家【せいじか】の資質【ししつ】が、国民【こくみん】の生活【せいかつ】に大【おお】きく影響【えいきょう】します。",
+    "meaning": "The quality of politicians greatly affects people's lives."
+  },
+  {
+    "sentence": "政府の意思決定は、国民の福祉を最優先に考えるべきです。",
+    "sentence_furigana": "政府【せいふ】の意思決定【いしけってい】は、国民【こくみん】の福祉【ふくし】を最優先【さいゆうせん】に考【かんが】えるべきです。",
+    "meaning": "Government decisions should prioritize the welfare of the people."
+  },
+  {
+    "sentence": "政治的な駆け引きが、国民の信頼を損なう恐れがあります。",
+    "sentence_furigana": "政治的【せいじてき】な掛【か】け引【ひ】きが、国民【こくみん】の信頼【しんらい】を損【そこな】う恐【おそ】れがあります。",
+    "meaning": "Political maneuvering may erode public trust."
+  },
+  {
+    "sentence": "彼は国民と共に歩む政治を目指し、活動しています。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】とともに歩【あゆ】む政治【せいじ】を目指【めざ】し、活動【かつどう】しています。",
+    "meaning": "He is working towards a politics that walks with the people."
+  },
+  {
+    "sentence": "政治の安定は、国家繁栄の基盤です。",
+    "sentence_furigana": "政治【せいじ】の安定【あんてい】は、国家繁栄【こっかはんえい】の基盤【きばん】です。",
+    "meaning": "Political stability is the foundation of national prosperity."
+  },
+  {
+    "sentence": "政府は国民の生活を守るための政策を推進しています。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の生活【せいかつ】を守【まも】るための政策【せいさく】を推進【すいしん】しています。",
+    "meaning": "The government is promoting policies to protect people's lives."
+  },
+  {
+    "sentence": "彼の政策は、国民の多くに支持されています。",
+    "sentence_furigana": "彼【かれ】の政策【せいさく】は、国民【こくみん】の多【おお】くに支持【しじ】されています。",
+    "meaning": "His policies are supported by many citizens."
+  }
+]

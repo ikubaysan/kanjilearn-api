@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "病気なので薬を飲みました。",
+    "sentence_furigana": "病気【びょうき】なので薬【くすり】を飲【の】みました。",
+    "meaning": "I took medicine because I was sick."
+  },
+  {
+    "sentence": "この薬はよく効きます。",
+    "sentence_furigana": "この薬【くすり】はよく効【き】きます。",
+    "meaning": "This medicine works well."
+  },
+  {
+    "sentence": "薬局で薬を買いました。",
+    "sentence_furigana": "薬局【やっきょく】で薬【くすり】を買【か】いました。",
+    "meaning": "I bought medicine at the pharmacy."
+  },
+  {
+    "sentence": "風邪薬を探しています。",
+    "sentence_furigana": "風邪薬【かぜぐすり】を探【さが】しています。",
+    "meaning": "I am looking for cold medicine."
+  },
+  {
+    "sentence": "薬を飲む時間を忘れました。",
+    "sentence_furigana": "薬【くすり】を飲【の】む時間【じかん】を忘【わす】れました。",
+    "meaning": "I forgot to take my medicine."
+  },
+  {
+    "sentence": "この薬は副作用がありますか？",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】がありますか？",
+    "meaning": "Does this medicine have side effects?"
+  },
+  {
+    "sentence": "医師は彼に薬を処方しました。",
+    "sentence_furigana": "医師【いし】は彼【かれ】に薬【くすり】を処方【しょほう】しました。",
+    "meaning": "The doctor prescribed him medicine."
+  },
+  {
+    "sentence": "子供は薬を嫌がります。",
+    "sentence_furigana": "子供【こども】は薬【くすり】を嫌【きら】がります。",
+    "meaning": "Children dislike taking medicine."
+  },
+  {
+    "sentence": "毎食後、薬を服用してください。",
+    "sentence_furigana": "毎食後【まいしょくご】、薬【くすり】を服用【ふよう】してください。",
+    "meaning": "Please take the medicine after every meal."
+  },
+  {
+    "sentence": "この新しい薬は効果が期待されています。",
+    "sentence_furigana": "この新【あたら】しい薬【くすり】は効果【こうか】が期待【きたい】されています。",
+    "meaning": "This new medicine is expected to be effective."
+  },
+  {
+    "sentence": "彼は薬物中毒で苦しんでいます。",
+    "sentence_furigana": "彼【かれ】は薬物中毒【やくぶつちゅうどく】で苦【くる】しんでいます。",
+    "meaning": "He is suffering from drug addiction."
+  },
+  {
+    "sentence": "その化学物質は薬の原料となります。",
+    "sentence_furigana": "その化学物質【かがくぶっしつ】は薬【くすり】の原料【げんりょう】となります。",
+    "meaning": "That chemical substance becomes the raw material for medicine."
+  },
+  {
+    "sentence": "この陶器には特殊な釉薬が使われている。",
+    "sentence_furigana": "この陶器【とうき】には特殊【とくしゅ】な釉薬【ゆうやく】が使【つか】われています。",
+    "meaning": "A special enamel is used for this pottery."
+  },
+  {
+    "sentence": "古い銃には火薬が必要だった。",
+    "sentence_furigana": "古【ふる】い銃【つつ】には火薬【かやく】が必【ひつ】ようだった。",
+    "meaning": "Old guns needed gunpowder."
+  },
+  {
+    "sentence": "健康のために薬膳料理を食べる。",
+    "sentence_furigana": "健康【けんこう】のために薬膳料理【やくぜんりょうり】を食【た】べる。",
+    "meaning": "I eat medicinal cuisine for my health."
+  },
+  {
+    "sentence": "この薬は眠気を催すことがあります。",
+    "sentence_furigana": "この薬【くすり】は眠気【ねむけ】を催【もよお】すことがあります。",
+    "meaning": "This medicine may cause drowsiness."
+  },
+  {
+    "sentence": "薬の量を間違えないように注意してください。",
+    "sentence_furigana": "薬【くすり】の量【りょう】を間違【まちが】えないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to mistake the dosage of the medicine."
+  },
+  {
+    "sentence": "彼は常用している薬がある。",
+    "sentence_furigana": "彼【かれ】は常用【じょうよう】している薬【くすり】がある。",
+    "meaning": "He takes medication regularly."
+  },
+  {
+    "sentence": "この傷は特別な薬で治療する必要があります。",
+    "sentence_furigana": "この傷【きず】は特別【とくべつ】な薬【くすり】で治療【ちりょう】する必要があります。",
+    "meaning": "This wound needs to be treated with a special medicine."
+  },
+  {
+    "sentence": "動物用の薬も開発されています。",
+    "sentence_furigana": "動物用【どうぶつよう】の薬【くすり】も開発【かいはつ】されています。",
+    "meaning": "Medicines for animals are also being developed."
+  },
+  {
+    "sentence": "この地域では薬草が多く見られます。",
+    "sentence_furigana": "この地域【ちいき】では薬草【やくそう】が多【おお】く見【み】られます。",
+    "meaning": "Many medicinal herbs can be seen in this region."
+  },
+  {
+    "sentence": "薬を水で服用してください。",
+    "sentence_furigana": "薬【くすり】を水【みず】で服用【ふよう】してください。",
+    "meaning": "Please take the medicine with water."
+  },
+  {
+    "sentence": "この薬は保険が適用されますか？",
+    "sentence_furigana": "この薬【くすり】は保険【ほけん】が適用【てきよう】されますか？",
+    "meaning": "Is this medicine covered by insurance?"
+  },
+  {
+    "sentence": "薬の効果が出るまで時間がかかります。",
+    "sentence_furigana": "薬【くすり】の効果【こうか】が出【で】るまで時間【じかん】がかかります。",
+    "meaning": "It takes time for the medicine to take effect."
+  },
+  {
+    "sentence": "薬疹が出たので服用を中止しました。",
+    "sentence_furigana": "薬疹【やくしん】が出【で】たので服用【ふよう】を中止【ちゅうし】しました。",
+    "meaning": "I stopped taking the medicine because I developed a drug rash."
+  },
+  {
+    "sentence": "この薬はアレルギー反応を引き起こす可能性があります。",
+    "sentence_furigana": "この薬【くすり】はアレルギー反応【はんのう】を引【ひ】き起【お】こす可能性【かのうせい】があります。",
+    "meaning": "This medicine may cause an allergic reaction."
+  },
+  {
+    "sentence": "薬を飲むタイミングを教えてください。",
+    "sentence_furigana": "薬【くすり】を飲【の】むタイミングを教【おし】えてください。",
+    "meaning": "Please tell me when to take the medicine."
+  },
+  {
+    "sentence": "彼は薬の専門家です。",
+    "sentence_furigana": "彼【かれ】は薬【くすり】の専門家【せんもんか】です。",
+    "meaning": "He is a pharmaceutical expert."
+  },
+  {
+    "sentence": "薬に関する最新の研究が行われています。",
+    "sentence_furigana": "薬【くすり】に関【かん】する最新【さいしん】の研究【けんきゅう】が行【おこな】われています。",
+    "meaning": "The latest research on medicines is being conducted."
+  },
+  {
+    "sentence": "この薬は体に優しいです。",
+    "sentence_furigana": "この薬【くすり】は体【からだ】に優【やさ】しいです。",
+    "meaning": "This medicine is gentle on the body."
+  },
+  {
+    "sentence": "薬で病気を治したい。",
+    "sentence_furigana": "薬【くすり】で病気【びょうき】を治【なお】したい。",
+    "meaning": "I want to cure my illness with medicine."
+  },
+  {
+    "sentence": "薬を飲むときは、指図に従ってください。",
+    "sentence_furigana": "薬【くすり】を飲【の】むときは、指図【しど】に従【したが】ってください。",
+    "meaning": "When taking medicine, follow the instructions."
+  },
+  {
+    "sentence": "これは処方箋なしで買える薬です。",
+    "sentence_furigana": "これ は 処方箋【しょほうせん】なしで買【か】える薬【くすり】です。",
+    "meaning": "This is medicine that can be bought without a prescription."
+  },
+  {
+    "sentence": "薬の成分について詳しく知りたい。",
+    "sentence_furigana": "薬【くすり】の成分【せいぶん】について詳【くわ】しく知【し】りたい。",
+    "meaning": "I want to know more about the ingredients of the medicine."
+  },
+  {
+    "sentence": "この薬は子供の手の届かないところに保管してください。",
+    "sentence_furigana": "この薬【くすり】は子供【こども】の এছাড়াও【さらに】届【とど】かないところ بصيرة【ほう】してください。",
+    "meaning": "Please keep this medicine out of reach of children."
+  },
+  {
+    "sentence": "薬の正しい使い方を説明します。",
+    "sentence_furigana": "薬【くすり】の正【ただ】しい使【つか】い方【かた】を説明【せつめい】します。",
+    "meaning": "I will explain the correct way to use the medicine."
+  },
+  {
+    "sentence": "この薬は即効性がありますか？",
+    "sentence_furigana": "この薬【くすり】は即効性【そっこうせい】がありますか？",
+    "meaning": "Does this medicine have an immediate effect?"
+  },
+  {
+    "sentence": "薬を服用後は運転を控えてください。",
+    "sentence_furigana": "薬【くすり】を服用【ふよう】後【ご】は運転【うんてん】を控【ひか】えてください。",
+    "meaning": "Please refrain from driving after taking the medicine."
+  },
+  {
+    "sentence": "彼は新しい薬の開発に携わっています。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい薬【くすり】の開発【かいはつ】に携【たずさ】わっています。",
+    "meaning": "He is involved in the development of new medicines."
+  },
+  {
+    "sentence": "この薬は慢性的な症状に効果があります。",
+    "sentence_furigana": "この薬【くすり】は慢性【まんせい】的【てき】な症状【しょうじょう】に効果【こうか】があります。",
+    "meaning": "This medicine is effective for chronic symptoms."
+  },
+  {
+    "sentence": "薬を間違えて飲んでしまった。",
+    "sentence_furigana": "薬【くすり】を間違【まちが】えて飲【の】んでしまった。",
+    "meaning": "I took the wrong medicine."
+  },
+  {
+    "sentence": "この薬は体内でゆっくりと吸収されます。",
+    "sentence_furigana": "この薬【くすり】は体内【たいない】でゆっくりと吸収【きゅうしゅう】されます。",
+    "meaning": "This medicine is slowly absorbed by the body."
+  },
+  {
+    "sentence": "薬物検査で陽性反応が出た。",
+    "sentence_furigana": "薬物検査【やくぶつけんさ】で陽性反応【ようせいİ】が出【で】た。",
+    "meaning": "He tested positive for drugs."
+  },
+  {
+    "sentence": "その銃は特殊な薬で撃たれる。",
+    "sentence_furigana": "その銃【つつ】は特殊【とくしゅ】な薬【くすり】で撃【う】たれる。",
+    "meaning": "That gun is fired with special ammunition."
+  },
+  {
+    "sentence": "この鍋は特殊な釉薬で仕上げられています。",
+    "sentence_furigana": "この鍋【なべ】は特殊【とくしゅ】な釉薬【ゆうやく】で仕上【しあ】げられています。",
+    "meaning": "This pot is finished with a special enamel."
+  },
+  {
+    "sentence": "薬草を煎じて飲むと良い。",
+    "sentence_furigana": "薬草【やくそう】を煎【せん】じて飲【の】むと良【よ】い。",
+    "meaning": "It is good to drink boiled medicinal herbs."
+  },
+  {
+    "sentence": "彼は薬物依存から回復した。",
+    "sentence_furigana": "彼【かれ】は薬物依存【やくぶついぞん】から回復【かいふく】した。",
+    "meaning": "He recovered from drug dependency."
+  },
+  {
+    "sentence": "薬を調合するには専門知識が必要です。",
+    "sentence_furigana": "薬【くすり】を調合【ちょうごう】するには専門知識【せんもんちしき】が必要です【ひつよう】。",
+    "meaning": "Specialized knowledge is required to compound medicine."
+  },
+  {
+    "sentence": "この薬は開封後、冷蔵庫で保管してください。",
+    "sentence_furigana": "この薬【くすり】は開封後【かいふうご】、冷蔵庫【れいぞうこ】で保管【ほかん】してください。",
+    "meaning": "Please store this medicine in the refrigerator after opening."
+  },
+  {
+    "sentence": "薬の正しい保管方法を教えてください。",
+    "sentence_furigana": "薬【くすり】の正【ただ】しい保管方法【ほかんほうほう】を教【おし】えてください。",
+    "meaning": "Please tell me the correct way to store the medicine."
+  },
+  {
+    "sentence": "彼は薬局を開業しました。",
+    "sentence_furigana": "彼【かれ】は薬局【やっきょく】を開業【かいぎょう】しました。",
+    "meaning": "He opened a pharmacy."
+  },
+  {
+    "sentence": "薬の効果は個人差があります。",
+    "sentence_furigana": "薬【くすり】の効果【こうか】は個人差【こじんさ】があります。",
+    "meaning": "The effects of the medicine vary from person to person."
+  },
+  {
+    "sentence": "薬物乱用は社会的な問題です。",
+    "sentence_furigana": "薬物乱用【やくぶつらんよう】は社会【しゃかい】的【てき】な問題【もんだい】です。",
+    "meaning": "Drug abuse is a social problem."
+  },
+  {
+    "sentence": "この陶磁器は上質な釉薬を使用している。",
+    "sentence_furigana": "この陶磁器【とうじき】は上質【じょうしつ】な釉薬【ゆうやく】を使用【しよう】しています。",
+    "meaning": "This ceramic uses high-quality enamel."
+  },
+  {
+    "sentence": "彼は古い薬の文献を研究している。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い薬【くすり】の文献【ぶんけん】を研究【けんきゅう】しています。",
+    "meaning": "He is researching old medicinal literature."
+  },
+  {
+    "sentence": "薬の種類について説明を受けました。",
+    "sentence_furigana": "薬【くすり】の種類【しゅるい】について説明【せつめい】を受【う】けました。",
+    "meaning": "I received an explanation about the types of medicine."
+  },
+  {
+    "sentence": "この薬は鎮痛効果があります。",
+    "sentence_furigana": "この薬【くすり】は鎮痛効果【ちんつうこうか】があります。",
+    "meaning": "This medicine has a pain-relieving effect."
+  },
+  {
+    "sentence": "薬の正しい用法・用量を守ってください。",
+    "sentence_furigana": "薬【くすり】の正【ただ】しい用法【ようほう】・用量【ようりょう】を守【まも】ってください。",
+    "meaning": "Please adhere to the correct usage and dosage of the medicine."
+  },
+  {
+    "sentence": "彼は薬局方に基づいた薬を調合する。",
+    "sentence_furigana": "彼【かれ】は薬局方【やっきょくほう】 بصيرة【ほう】った薬【くすり】を調合【ちょうごう】する。",
+    "meaning": "He compounds medicines according to the pharmacopoeia."
+  },
+  {
+    "sentence": "薬物検査の結果を待っています。",
+    "sentence_furigana": "薬物検査【やくぶつけんさ】の結果【けっか】を待【ま】っています。",
+    "meaning": "I am waiting for the drug test results."
+  },
+  {
+    "sentence": "この薬は冷暗所で保管するのが適切です。",
+    "sentence_furigana": "この薬【くすり】は冷暗所【れいあんじょ】で保管【ほかん】するのが適切【てきせつ】です。",
+    "meaning": "It is appropriate to store this medicine in a cool, dark place."
+  },
+  {
+    "sentence": "薬の有効期限を確認しましたか？",
+    "sentence_furigana": "薬【くすり】の有効期限【ゆうこうきげん】を確認【かくにん】しましたか？",
+    "meaning": "Did you check the expiration date of the medicine?"
+  },
+  {
+    "sentence": "彼は薬事法に詳しい。",
+    "sentence_furigana": "彼【かれ】は薬事法【やくじほう】 بصيرة【ほう】しい。",
+    "meaning": "He is knowledgeable about pharmaceutical affairs law."
+  },
+  {
+    "sentence": "この薬は劇薬に指定されています。",
+    "sentence_furigana": "この薬【くすり】は劇薬【げきやく】に指定【してい】されています。",
+    "meaning": "This medicine is designated as a potent drug."
+  },
+  {
+    "sentence": "薬物依存症の治療法について学びました。",
+    "sentence_furigana": "薬物依存症【やくぶついぞんしょう】の治療法【ちりょうほう】 بصيرة【ほう】びました。",
+    "meaning": "I learned about the treatment methods for drug addiction."
+  },
+  {
+    "sentence": "薬の匂いがします。",
+    "sentence_furigana": "薬【くすり】の匂【にお】いがします。",
+    "meaning": "It smells like medicine."
+  },
+  {
+    "sentence": "彼は薬の副作用で体調を崩した。",
+    "sentence_furigana": "彼【かれ】は薬【くすり】の副作用【ふくさよう】で体調【たいちょう】を崩【くず】した。",
+    "meaning": "He fell ill due to the side effects of the medicine."
+  },
+  {
+    "sentence": "薬は正しく保管しないと効果が落ちます。",
+    "sentence_furigana": "薬【くすり】は正【ただ】しく保管【ほかん】しないと効果【こうか】が落【お】ちます。",
+    "meaning": "Medicine loses its effectiveness if not stored properly."
+  },
+  {
+    "sentence": "この薬は妊娠中や授乳中は避けてください。",
+    "sentence_furigana": "この薬【くすり】は妊娠中【にんしんちゅう】や授乳中【じゅにゅうちゅう】は避【さ】けてください。",
+    "meaning": "Avoid this medicine during pregnancy and breastfeeding."
+  },
+  {
+    "sentence": "薬物検査は義務付けられています。",
+    "sentence_furigana": "薬物検査【やくぶつけんさ】は義務付【ぎむづ】けられています。",
+    "meaning": "Drug testing is mandatory."
+  },
+  {
+    "sentence": "彼は薬物密売組織の一員だった。",
+    "sentence_furigana": "彼【かれ】は薬物密売【やくぶつみつばい】組織【そしき】の一員【いちいん】だった。",
+    "meaning": "He was a member of a drug trafficking organization."
+  },
+  {
+    "sentence": "薬の効果を最大限に引き出す方法。",
+    "sentence_furigana": "薬【くすり】の効果【こうか】を最大限【さいだいげん】に引【ひ】き出【だ】す方法【ほうほう】。",
+    "meaning": "How to maximize the effectiveness of the medicine."
+  },
+  {
+    "sentence": "彼は薬の過剰摂取で亡くなった。",
+    "sentence_furigana": "彼【かれ】は薬【くすり】の過剰摂取【かじょうせっしゅ】で亡【な】くなった。",
+    "meaning": "He died from a drug overdose."
+  },
+  {
+    "sentence": "この薬はアレルギーを引き起こすことがある。",
+    "sentence_furigana": "この薬【くすり】はアレルギーを引【ひ】き起【お】こすことがある。",
+    "meaning": "This medicine can cause allergies."
+  },
+  {
+    "sentence": "薬の服用期間はどのくらいですか？",
+    "sentence_furigana": "薬【くすり】の服用期間【ふようきかん】はどのくらいですか？",
+    "meaning": "How long is the course of medication?"
+  },
+  {
+    "sentence": "彼は薬漬けの日々を送っている。",
+    "sentence_furigana": "彼【かれ】は薬漬【くすりづ】けの日々【ひび】を送【おく】っている。",
+    "meaning": "He is living a life dependent on drugs."
+  },
+  {
+    "sentence": "薬の販売には厳しい規制があります。",
+    "sentence_furigana": "薬【くすり】の販売【はんばい】には厳【きび】しい規制【きせい】があります。",
+    "meaning": "There are strict regulations on the sale of medicine."
+  },
+  {
+    "sentence": "この薬は他の薬と併用すると危険です。",
+    "sentence_furigana": "この薬【くすり】は他【ほか】の薬【くすり】と併用【へいよう】すると危険【きけん】です。",
+    "meaning": "This medicine is dangerous if taken with other drugs."
+  },
+  {
+    "sentence": "薬局では様々な種類の薬が販売されている。",
+    "sentence_furigana": "薬局【やっきょく】では様々【さまざま】な種類【しゅるい】の薬【くすり】が販売【はんばい】されている。",
+    "meaning": "Various types of medicines are sold at pharmacies."
+  },
+  {
+    "sentence": "薬の効能書きをよく読んでください。",
+    "sentence_furigana": "薬【くすり】の効能書【こうのうがき】をよく読【よ】んでください。",
+    "meaning": "Please read the drug's efficacy description carefully."
+  },
+  {
+    "sentence": "彼は薬物使用の疑いで逮捕された。",
+    "sentence_furigana": "彼【かれ】は薬物使用【やくぶつしよう】の疑【うたが】いで逮捕【たいほ】された。",
+    "meaning": "He was arrested on suspicion of drug use."
+  },
+  {
+    "sentence": "この薬は即効性はないが、持続性がある。",
+    "sentence_furigana": "この薬【くすり】は即効性【そっこうせい】はないが、持続性【じぞくせい】がある。",
+    "meaning": "This medicine does not have an immediate effect, but it is long-lasting."
+  },
+  {
+    "sentence": "薬の服用方法を誤ると効果が半減する。",
+    "sentence_furigana": "薬【くすり】の服用方法【ふようほうほう】を誤【あやま】ると効果【こうか】が半減【はんげん】する。",
+    "meaning": "If you take the medicine incorrectly, its effect will be halved."
+  },
+  {
+    "sentence": "彼は薬物依存治療のためのリハビリ施設に入った。",
+    "sentence_furigana": "彼【かれ】は薬物依存治療【やくぶついぞんちりょう】のためのリハビリ施設【しせつ】に入【はい】った。",
+    "meaning": "He entered a rehabilitation facility for drug addiction treatment."
+  },
+  {
+    "sentence": "薬を飲むと気分が悪くなる。",
+    "sentence_furigana": "薬【くすり】を飲【の】むと気分【きぶん】が悪【わる】くなる。",
+    "meaning": "I feel sick when I take the medicine."
+  },
+  {
+    "sentence": "この薬は体質に合わないようだ。",
+    "sentence_furigana": "この薬【くすり】は体質【たいしつ】 بصيرة【ほう】わないようだ。",
+    "meaning": "This medicine doesn't seem to suit my constitution."
+  },
+  {
+    "sentence": "薬の添付文書を必ずお読みください。",
+    "sentence_furigana": "薬【くすり】の添付文書【てんぷぶんしょ】を必【かなら】ずお読【よ】みください。",
+    "meaning": "Please be sure to read the package insert of the medicine."
+  },
+  {
+    "sentence": "彼は新しい薬の開発に関心がある。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい薬【くすり】の開発【かいはつ】 بصيرة【ほう】いがある。",
+    "meaning": "He is interested in the development of new medicines."
+  },
+  {
+    "sentence": "この薬は他の薬との相互作用に注意が必要です。",
+    "sentence_furigana": "この薬【くすり】は他【ほか】の薬【くすり】との相互作用【そうごさよう】 بصيرة【ほう】が必要です【ひつよう】。",
+    "meaning": "Caution is required for interactions with other medicines."
+  },
+  {
+    "sentence": "薬は医師の指示通りに服用してください。",
+    "sentence_furigana": "薬【くすり】は医師【いし】の指示【しじ】通【どお】り بصيرة【ほう】してください。",
+    "meaning": "Please take the medicine as directed by your doctor."
+  },
+  {
+    "sentence": "彼は薬物取引の容疑で捜査されている。",
+    "sentence_furigana": "彼【かれ】は薬物取引【やくぶつとりひき】の容疑【ようぎ】で捜査【そうさ】されている。",
+    "meaning": "He is being investigated on suspicion of drug trafficking."
+  },
+  {
+    "sentence": "薬局で処方箋を渡しました。",
+    "sentence_furigana": "薬局【やっきょく】で処方箋【しょほうせん】を渡【わた】しました。",
+    "meaning": "I handed in my prescription at the pharmacy."
+  },
+  {
+    "sentence": "この薬は眠気を誘発する可能性があります。",
+    "sentence_furigana": "この薬【くすり】は眠気【ねむけ】 بصيرة【ほう】発【ゆう】する可能性【かのうせい】があります。",
+    "meaning": "This medicine may induce drowsiness."
+  },
+  {
+    "sentence": "薬を飲み忘れた場合は、すぐに服用してください。",
+    "sentence_furigana": "薬【くすり】を飲【の】み忘【わす】れた場合【ばあい】は、すぐ بصيرة【ほう】服用【ふよう】してください。",
+    "meaning": "If you forget to take the medicine, take it as soon as possible."
+  },
+  {
+    "sentence": "彼は薬物依存の専門医に相談した。",
+    "sentence_furigana": "彼【かれ】は薬物依存【やくぶついぞん】の専門医【せんもんい】 بصيرة【ほう】した。",
+    "meaning": "He consulted a specialist in drug addiction."
+  },
+  {
+    "sentence": "この薬は即効性があります。",
+    "sentence_furigana": "この薬【くすり】は即効性【そっこうせい】があります。",
+    "meaning": "This medicine has an immediate effect."
+  },
+  {
+    "sentence": "薬を服用する前に医師に相談してください。",
+    "sentence_furigana": "薬【くすり】を服用【ふよう】 بصيرة【ほう】医師【いし】 بصيرة【ほう】相談【そうだん】してください。",
+    "meaning": "Please consult your doctor before taking the medicine."
+  },
+  {
+    "sentence": "彼は薬物の検査で失格となった。",
+    "sentence_furigana": "彼【かれ】は薬物【やくぶつ】の検査【けんさ】で失格【しっかく】となった。",
+    "meaning": "He was disqualified due to a drug test."
+  },
+  {
+    "sentence": "薬局には薬剤師が常駐しています。",
+    "sentence_furigana": "薬局【やっきょく】 بصيرة【ほう】薬剤師【やくざいし】が常駐【じょうちゅう】しています。",
+    "meaning": "Pharmacists are always stationed at the pharmacy."
+  },
+  {
+    "sentence": "この薬は子供の成長に影響を与える可能性がある。",
+    "sentence_furigana": "この薬【くすり】は子供【こども】の成長【せいちょう】 بصيرة【ほう】影響【えいきょう】を与【あた】える可能性【かのうせい】がある。",
+    "meaning": "This medicine may affect a child's growth."
+  },
+  {
+    "sentence": "薬は正しく使用しないと効果がありません。",
+    "sentence_furigana": "薬【くすり】は正【ただ】しく使用【しよう】しないと効果【こうか】がありません。",
+    "meaning": "Medicine has no effect if not used correctly."
+  }
+]

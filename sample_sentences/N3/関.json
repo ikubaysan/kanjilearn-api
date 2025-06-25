@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "これは私と彼との間の関わりです。",
+    "sentence_furigana": "これ【】は私【わたし】と彼【かれ】と【】の間【あいだ】の関【かか】わりです。",
+    "meaning": "This is a connection between him and me."
+  },
+  {
+    "sentence": "関さんは会議に出席していました。",
+    "sentence_furigana": "関【せき】さん【】は会議【かいぎ】に出席【しゅっせき】していました。",
+    "meaning": "Mr./Ms. Seki was attending the meeting."
+  },
+  {
+    "sentence": "このドアには関所があります。",
+    "sentence_furigana": "このドア【】には関所【せきしょ】があります。",
+    "meaning": "There is a checkpoint at this door."
+  },
+  {
+    "sentence": "この問題に関心があります。",
+    "sentence_furigana": "この問題【もんだい】に関心【かんしん】があります。",
+    "meaning": "I am interested in this problem."
+  },
+  {
+    "sentence": "この件はあなたに関係がありますか。",
+    "sentence_furigana": "この件【けん】はあなたに関係【かんけい】がありますか。",
+    "meaning": "Does this matter concern you?"
+  },
+  {
+    "sentence": "彼女は彼の運命に関わっていた。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】の運命【うんめい】に関わっていた。",
+    "meaning": "She was involved in his fate."
+  },
+  {
+    "sentence": "関越自動車道は混んでいました。",
+    "sentence_furigana": "関越【かんえつ】自動車道【じどうしゃどう】は混【こ】んでいました。",
+    "meaning": "The Kan-Etsu Expressway was crowded."
+  },
+  {
+    "sentence": "関税について話し合いました。",
+    "sentence_furigana": "関税【かんぜい】について話【はな】し合【あ】いました。",
+    "meaning": "We discussed tariffs."
+  },
+  {
+    "sentence": "彼は関羽のような人物になりたいと言った。",
+    "sentence_furigana": "彼【かれ】は関羽【かんう】のような人物【じんぶつ】になりたいと言【い】った。",
+    "meaning": "He said he wanted to become a person like Guan Yu."
+  },
+  {
+    "sentence": "関門海峡を通過しました。",
+    "sentence_furigana": "関門海峡【かんもんかいきょう】を通過【つうか】しました。",
+    "meaning": "We passed through the Kanmon Straits."
+  },
+  {
+    "sentence": "関数のグラフを描きました。",
+    "sentence_furigana": "関数【かんすう】のグラフ【】を描【えが】きました。",
+    "meaning": "I drew the graph of the function."
+  },
+  {
+    "sentence": "関白を辞退しました。",
+    "sentence_furigana": "関白【かんぱく】を辞退【じたい】しました。",
+    "meaning": "He declined the position of Kampaku."
+  },
+  {
+    "sentence": "関白宣旨が下されました。",
+    "sentence_furigana": "関白宣旨【かんぱくせんし】が下【くだ】されました。",
+    "meaning": "An imperial decree was issued to the Kampaku."
+  },
+  {
+    "sentence": "関所の警備は厳重だった。",
+    "sentence_furigana": "関所【せきしょ】の警備【けいび】は厳重【げんじゅう】だった。",
+    "meaning": "The guard at the checkpoint was strict."
+  },
+  {
+    "sentence": "関税率の引き下げが議論された。",
+    "sentence_furigana": "関税率【かんぜいりつ】の引【ひ】き下【さ】げが議論【ぎろん】された。",
+    "meaning": "The reduction of tariff rates was discussed."
+  },
+  {
+    "sentence": "彼は関心の高い分野を研究している。",
+    "sentence_furigana": "彼【かれ】は関心【かんしん】の的高【たか】い分野【ぶんや】を研究【けんきゅう】している。",
+    "meaning": "He is researching fields of high interest."
+  },
+  {
+    "sentence": "この事件に関係者が集まった。",
+    "sentence_furigana": "この事件【じけん】に関係者【かんけいしゃ】が集【あつ】まった。",
+    "meaning": "People involved in this incident gathered."
+  },
+  {
+    "sentence": "関税同盟が結ばれた。",
+    "sentence_furigana": "関税同盟【かんぜいどうめい】が結【むす】ばれた。",
+    "meaning": "A customs union was formed."
+  },
+  {
+    "sentence": "関白殿が参内された。",
+    "sentence_furigana": "関白殿【かんぱくどの】が参内【さんだい】された。",
+    "meaning": "The Kampaku entered the imperial palace."
+  },
+  {
+    "sentence": "関越トンネルを抜けた。",
+    "sentence_furigana": "関越【かんえつ】トンネル【】を抜【ぬ】けた。",
+    "meaning": "We exited the Kan-Etsu Tunnel."
+  },
+  {
+    "sentence": "関税収入が増加した。",
+    "sentence_furigana": "関税収入【かんぜいしゅうにゅう】が増加【ぞうか】した。",
+    "meaning": "Tariff revenue increased."
+  },
+  {
+    "sentence": "この件に関しては、さらに調査が必要です。",
+    "sentence_furigana": "この件【けん】に関しては【かんしては】、さらに調査【ちょうさ】が必要【ひつよう】です。",
+    "meaning": "Regarding this matter, further investigation is necessary."
+  },
+  {
+    "sentence": "関戸康平は私の友人です。",
+    "sentence_furigana": "関戸康平【せきどこうへい】は私【わたし】の友人【ゆうじん】です。",
+    "meaning": "Kohei Sekido is my friend."
+  },
+  {
+    "sentence": "関孝和は江戸時代の数学者だった。",
+    "sentence_furigana": "関孝和【せきたかは】は江戸時代【えどじだい】の数学者【すうがくしゃ】だった。",
+    "meaning": "Takakazu Seki was a mathematician of the Edo period."
+  },
+  {
+    "sentence": "関取になるのが夢だ。",
+    "sentence_furigana": "関取【せきとり】になるのが夢【ゆめ】だ。",
+    "meaning": "My dream is to become a Sekitori."
+  },
+  {
+    "sentence": "関羽の武勇を称える歌が作られた。",
+    "sentence_furigana": "関羽【かんう】の武勇【ぶゆう】を称【たた】える歌【うた】が作【つく】られた。",
+    "meaning": "A song was composed to praise Guan Yu's bravery."
+  },
+  {
+    "sentence": "関税障壁を取り除く必要がある。",
+    "sentence_furigana": "関税障壁【かんぜいしょうへき】を取【と】り除【のぞ】く必要【ひつよう】がある。",
+    "meaning": "It is necessary to remove tariff barriers."
+  },
+  {
+    "sentence": "関戸石という石がある。",
+    "sentence_furigana": "関戸石【せきといし】という石【いし】がある。",
+    "meaning": "There is a stone called Sekido-ishi."
+  },
+  {
+    "sentence": "関白と大臣の違いは何ですか。",
+    "sentence_furigana": "関白【かんぱく】と大臣【だいじん】の違い【ちがい】は何【なん】ですか。",
+    "meaning": "What is the difference between Kampaku and Daijin?"
+  },
+  {
+    "sentence": "関与した全ての者に責任がある。",
+    "sentence_furigana": "関与【かんよ】した全【すべ】ての者【もの】に責任【せきにん】がある。",
+    "meaning": "All those involved bear responsibility."
+  },
+  {
+    "sentence": "関税法を改正する。",
+    "sentence_furigana": "関税法【かんぜいほう】を改正【かいせい】する。",
+    "meaning": "To revise the customs law."
+  },
+  {
+    "sentence": "この件は非常に重要な関心事です。",
+    "sentence_furigana": "この件【けん】は非常【ひじょう】に重要【じゅうよう】な関心事【かんしんじ】です。",
+    "meaning": "This matter is a matter of great concern."
+  },
+  {
+    "sentence": "関門橋を渡りました。",
+    "sentence_furigana": "関門橋【かんもんきょう】を渡【わた】りました。",
+    "meaning": "We crossed the Kanmon Bridge."
+  },
+  {
+    "sentence": "関白の職は権威あるものだった。",
+    "sentence_furigana": "関白【かんぱく】の職【しょく】は権威【けんい】あるものだった。",
+    "meaning": "The position of Kampaku was authoritative."
+  },
+  {
+    "sentence": "関税率の変更は経済に影響を与える。",
+    "sentence_furigana": "関税率【かんぜいりつ】の変更【へんこう】は経済【けいざい】に影響【えいきょう】を与【あた】える。",
+    "meaning": "Changes in tariff rates affect the economy."
+  },
+  {
+    "sentence": "関与を疑われた彼は、潔白を証明した。",
+    "sentence_furigana": "関与【かんよ】を疑【うたが】われた彼【かれ】は、潔白【けっぱく】を証明【しょうめい】した。",
+    "meaning": "He, who was suspected of involvement, proved his innocence."
+  },
+  {
+    "sentence": "関羽は忠義に厚い武将として知られている。",
+    "sentence_furigana": "関羽【かんう】は忠義【ちゅうぎ】に厚【あつ】い武将【ぶしょう】として知【し】られている。",
+    "meaning": "Guan Yu is known as a general with great loyalty."
+  },
+  {
+    "sentence": "関越道を北上した。",
+    "sentence_furigana": "関越道【かんえつどう】を北上【ほくじょう】した。",
+    "meaning": "We traveled north on the Kan-Etsu Expressway."
+  },
+  {
+    "sentence": "関税の引き上げは国民生活に影響する。",
+    "sentence_furigana": "関税【かんぜい】の引【ひ】き上【あ】げは国民生活【こくみんせいかつ】に影響【えいきょう】する。",
+    "meaning": "An increase in tariffs will affect the lives of the people."
+  },
+  {
+    "sentence": "この問題には多くの関心事が含まれている。",
+    "sentence_furigana": "この問題【もんだい】には多【おお】くの関心事【かんしんじ】が含ま【ふくま】れている。",
+    "meaning": "This problem includes many matters of concern."
+  },
+  {
+    "sentence": "関所は重要な交通の要衝だった。",
+    "sentence_furigana": "関所【せきしょ】は重要【じゅうよう】な交通【こうつう】の要衝【ようしょう】だった。",
+    "meaning": "The checkpoint was an important transportation hub."
+  },
+  {
+    "sentence": "関与した証拠は見つからなかった。",
+    "sentence_furigana": "関与【かんよ】した証拠【しょうこ】は見【み】つからなかった。",
+    "meaning": "No evidence of involvement was found."
+  },
+  {
+    "sentence": "彼は関心の対象となった。",
+    "sentence_furigana": "彼【かれ】は関心【かんしん】の対象【たいしょう】となった。",
+    "meaning": "He became an object of interest."
+  },
+  {
+    "sentence": "関白の権力は絶大であった。",
+    "sentence_furigana": "関白【かんぱく】の権力【けんりょく】は絶大【ぜつだい】であった。",
+    "meaning": "The power of the Kampaku was immense."
+  },
+  {
+    "sentence": "関税制度の見直しが必要だ。",
+    "sentence_furigana": "関税制度【かんぜいせいど】の見直【みなお】しが必要【ひつよう】だ。",
+    "meaning": "The tariff system needs to be reviewed."
+  },
+  {
+    "sentence": "この件に関して、ご意見をお聞かせください。",
+    "sentence_furigana": "この件【けん】に関して【かんしては】、ご意見【ごいけん】をお聞かせください。",
+    "meaning": "Regarding this matter, please give us your opinion."
+  },
+  {
+    "sentence": "関羽は中国の歴史上で有名な人物です。",
+    "sentence_furigana": "関羽【かんう】は中国【ちゅうごく】の歴史上【れきしじょう】で有名【ゆうめい】な人物【じんぶつ】です。",
+    "meaning": "Guan Yu is a famous figure in Chinese history."
+  },
+  {
+    "sentence": "関越道の渋滞が緩和された。",
+    "sentence_furigana": "関越道【かんえつどう】の渋滞【じゅうたい】が緩和【かんわ】された。",
+    "meaning": "Traffic congestion on the Kan-Etsu Expressway was eased."
+  },
+  {
+    "sentence": "関税率の変更について議論します。",
+    "sentence_furigana": "関税率【かんぜいりつ】の変更【へんこう】について議論【ぎろん】します。",
+    "meaning": "We will discuss the change in tariff rates."
+  },
+  {
+    "sentence": "関門海峡は潮流が速い。",
+    "sentence_furigana": "関門海峡【かんもんかいきょう】は潮流【ちょうりゅう】が速【はや】い。",
+    "meaning": "The currents in the Kanmon Straits are fast."
+  },
+  {
+    "sentence": "関所での取り調べは厳しかった。",
+    "sentence_furigana": "関所【せきしょ】での取【と】り調【しら】べは厳【きび】しかった。",
+    "meaning": "The investigation at the checkpoint was strict."
+  },
+  {
+    "sentence": "関与する範囲を限定する。",
+    "sentence_furigana": "関与【かんよ】する範囲【はんい】を限定【げんてい】する。",
+    "meaning": "To limit the scope of involvement."
+  },
+  {
+    "sentence": "関心を持つことが成長の第一歩だ。",
+    "sentence_furigana": "関心【かんしん】を持【も】つことが成長【せいちょう】の第一歩【だいいっぽ】だ。",
+    "meaning": "Having interest is the first step to growth."
+  },
+  {
+    "sentence": "関白の衣装は豪華だった。",
+    "sentence_furigana": "関白【かんぱく】の衣装【いしょう】は豪華【ごうか】だった。",
+    "meaning": "The Kampaku's attire was luxurious."
+  },
+  {
+    "sentence": "関税の撤廃が求められている。",
+    "sentence_furigana": "関税【かんぜい】の撤廃【てっぱい】が求【もと】められている。",
+    "meaning": "The abolition of tariffs is being called for."
+  },
+  {
+    "sentence": "この法案は多くの国民に関係する。",
+    "sentence_furigana": "この法案【ほうあん】は多【おお】くの国民【こくみん】に関係【かんけい】する。",
+    "meaning": "This bill concerns many citizens."
+  },
+  {
+    "sentence": "関所を守るための兵士がいた。",
+    "sentence_furigana": "関所【せきしょ】を守【まも】るための兵士【へいし】がいた。",
+    "meaning": "There were soldiers to guard the checkpoint."
+  },
+  {
+    "sentence": "彼はその計画への関与を否定した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】への関与【かんよ】を否定【ひてい】した。",
+    "meaning": "He denied his involvement in the plan."
+  },
+  {
+    "sentence": "関心の高まりが市場を動かす。",
+    "sentence_furigana": "関心【かんしん】の高【たか】まりが市場【しじょう】を動【うご】かす。",
+    "meaning": "Increased interest drives the market."
+  },
+  {
+    "sentence": "関白として、彼は政治に大きな影響力を持っていた。",
+    "sentence_furigana": "関白【かんぱく】として、彼【かれ】は政治【せいじ】に大【おお】きな影響力【えいきょうりょく】を持【も】っていた。",
+    "meaning": "As Kampaku, he had great influence on politics."
+  },
+  {
+    "sentence": "関税同盟の拡大が検討されている。",
+    "sentence_furigana": "関税同盟【かんぜいどうめい】の拡大【かくだい】が検討【けんとう】されている。",
+    "meaning": "The expansion of the customs union is being considered."
+  },
+  {
+    "sentence": "関税の不均衡が問題となっている。",
+    "sentence_furigana": "関税【かんぜい】の不均衡【ふきんこう】が問題【もんだい】となっている。",
+    "meaning": "Tariff imbalances have become a problem."
+  },
+  {
+    "sentence": "関門海峡には多くの船舶が往来する。",
+    "sentence_furigana": "関門海峡【かんもんかいきょう】には多【おお】くの船舶【せんぱく】が往来【おうらい】する。",
+    "meaning": "Many ships travel through the Kanmon Straits."
+  },
+  {
+    "sentence": "関所は往来を監視する場所だった。",
+    "sentence_furigana": "関所【せきしょ】は往来【おうらい】を監視【かんし】する場所【ばしょ】だった。",
+    "meaning": "The checkpoint was a place to monitor traffic."
+  },
+  {
+    "sentence": "この件に関して、当局は調査を開始した。",
+    "sentence_furigana": "この件【けん】に関して【かんしては】、当局【とうきょく】は調査【ちょうさ】を開始【かいし】した。",
+    "meaning": "Regarding this matter, the authorities have started an investigation."
+  },
+  {
+    "sentence": "関税率の引き上げは輸入を抑制する。",
+    "sentence_furigana": "関税率【かんぜいりつ】の引【ひ】き上【あ】げは輸入【ゆにゅう】を抑制【よくせい】する。",
+    "meaning": "Raising tariff rates suppresses imports."
+  },
+  {
+    "sentence": "関心の対象が変化している。",
+    "sentence_furigana": "関心【かんしん】の対象【たいしょう】が変化【へんか】している。",
+    "meaning": "The object of interest is changing."
+  },
+  {
+    "sentence": "関羽の忠誠心は賞賛に値する。",
+    "sentence_furigana": "関羽【かんう】の忠誠心【ちゅうせいしん】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "Guan Yu's loyalty deserves praise."
+  },
+  {
+    "sentence": "関越自動車道の建設は日本のインフラに貢献した。",
+    "sentence_furigana": "関越自動車道【かんえつじどうしゃどう】の建設【けんせつ】は日本【にほん】のインフラ【】に貢献【こうけん】した。",
+    "meaning": "The construction of the Kan-Etsu Expressway contributed to Japan's infrastructure."
+  },
+  {
+    "sentence": "関税は国家の重要な収入源である。",
+    "sentence_furigana": "関税【かんぜい】は国家【こっか】の重要【じゅうよう】な収入源【しゅうにゅうげん】である。",
+    "meaning": "Tariffs are an important source of national revenue."
+  },
+  {
+    "sentence": "この事件の関与者は誰ですか。",
+    "sentence_furigana": "この事件【じけん】の関与者【かんよしゃ】は誰【だれ】ですか。",
+    "meaning": "Who are the people involved in this incident?"
+  },
+  {
+    "sentence": "関所は国境を守るために設置された。",
+    "sentence_furigana": "関所【せきしょ】は国境【こっきょう】を守【まも】るために設置【せっち】された。",
+    "meaning": "Checkpoints were established to guard the border."
+  },
+  {
+    "sentence": "関白宣旨は天皇からの命令である。",
+    "sentence_furigana": "関白宣旨【かんぱくせんし】は天皇【てんのう】からの命令【めいれい】である。",
+    "meaning": "The Kampaku Senji is an order from the Emperor."
+  },
+  {
+    "sentence": "関心の対象が移り変わっている。",
+    "sentence_furigana": "関心【かんしん】の対象【たいしょう】が移【うつ】り変【か】わっている。",
+    "meaning": "The object of interest is shifting."
+  },
+  {
+    "sentence": "彼はその法律に関係する専門家だ。",
+    "sentence_furigana": "彼【かれ】はその法律【ほうりつ】に関係【かんけい】する専門家【せんもんか】だ。",
+    "meaning": "He is an expert related to that law."
+  },
+  {
+    "sentence": "関税障壁の撤廃は自由貿易を促進する。",
+    "sentence_furigana": "関税障壁【かんぜいしょうへき】の撤廃【てっぱい】は自由貿易【じゆうぼうえき】を促進【そくしん】する。",
+    "meaning": "The removal of tariff barriers promotes free trade."
+  },
+  {
+    "sentence": "関羽の武勇伝は数多く語られている。",
+    "sentence_furigana": "関羽【かんう】の武勇伝【ぶゆうでん】は数多【かずおお】く語【かた】られている。",
+    "meaning": "Many heroic tales of Guan Yu are told."
+  },
+  {
+    "sentence": "関門海峡は海の難所として知られています。",
+    "sentence_furigana": "関門海峡【かんもんかいきょう】は海【うみ】の難所【なんしょ】として知【し】られています。",
+    "meaning": "The Kanmon Straits are known as a dangerous passage at sea."
+  },
+  {
+    "sentence": "関所は旅人を検査する場所でした。",
+    "sentence_furigana": "関所【せきしょ】は旅人【たびびと】を検査【けんさ】する場所【ばしょ】でした。",
+    "meaning": "Checkpoints were places where travelers were inspected."
+  },
+  {
+    "sentence": "関与の程度を明らかにする必要がある。",
+    "sentence_furigana": "関与【かんよ】の程度【ていど】を明【あき】らかにする必要【ひつよう】がある。",
+    "meaning": "It is necessary to clarify the degree of involvement."
+  },
+  {
+    "sentence": "このニュースは多くの人々の関心を引いた。",
+    "sentence_furigana": "このニュース【】は多【おお】くの人々【ひとびと】の関心【かんしん】を引【ひ】いた。",
+    "meaning": "This news attracted the interest of many people."
+  },
+  {
+    "sentence": "関白は幕府の最高職の一つだった。",
+    "sentence_furigana": "関白【かんぱく】は幕府【ばくふ】の最高職【さいこうしょく】の一つだった。",
+    "meaning": "The Kampaku was one of the highest positions in the shogunate."
+  },
+  {
+    "sentence": "関税率の変更は国際貿易に影響を与える。",
+    "sentence_furigana": "関税率【かんぜいりつ】の変更【へんこう】は国際貿易【こくさいぼうえき】に影響【えいきょう】を与【あた】える。",
+    "meaning": "Changes in tariff rates affect international trade."
+  },
+  {
+    "sentence": "この問題への関与を認めます。",
+    "sentence_furigana": "この問題【もんだい】への関与【かんよ】を認【みと】めます。",
+    "meaning": "I admit my involvement in this problem."
+  },
+  {
+    "sentence": "関税同盟の創設に向けた協議が進んでいる。",
+    "sentence_furigana": "関税同盟【かんぜいどうめい】の創設【そうせつ】に向け【む】けた協議【きょうぎ】が進【すす】んでいる。",
+    "meaning": "Discussions towards the establishment of a customs union are progressing."
+  },
+  {
+    "sentence": "関門海峡を航行する際には注意が必要です。",
+    "sentence_furigana": "関門海峡【かんもんかいきょう】を航行【こうこう】する際【さい】には注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Caution is necessary when navigating the Kanmon Straits."
+  },
+  {
+    "sentence": "関所を抜けるための通行証が必要だった。",
+    "sentence_furigana": "関所【せきしょ】を抜【ぬ】けるための通行証【つうこうしょう】が必要【ひつよう】だった。",
+    "meaning": "A pass was needed to get through the checkpoint."
+  },
+  {
+    "sentence": "関与した事実を確認しました。",
+    "sentence_furigana": "関与【かんよ】した事実【じじつ】を確認【かくにん】しました。",
+    "meaning": "We confirmed the facts of involvement."
+  },
+  {
+    "sentence": "彼女は芸術に深い関心を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】に深【ふか】い関心【かんしん】を持【も】っている。",
+    "meaning": "She has a deep interest in art."
+  },
+  {
+    "sentence": "関白の地位は非常に高い。",
+    "sentence_furigana": "関白【かんぱく】の地位【ちい】は非常【ひじょう】に高【たか】い。",
+    "meaning": "The position of Kampaku is very high."
+  },
+  {
+    "sentence": "関税率の変更は市場に大きな影響を与える。",
+    "sentence_furigana": "関税率【かんぜいりつ】の変更【へんこう】は市場【しじょう】に大【おお】きな影響【えいきょう】を与【あた】える。",
+    "meaning": "Changes in tariff rates have a significant impact on the market."
+  },
+  {
+    "sentence": "この問題に関しては、多くの意見が出されている。",
+    "sentence_furigana": "この問題【もんだい】に関しては【かんしては】、多【おお】くの意見【いけん】が出【だ】されている。",
+    "meaning": "Regarding this problem, many opinions have been expressed."
+  },
+  {
+    "sentence": "関与の証拠が発見された。",
+    "sentence_furigana": "関与【かんよ】の証拠【しょうこ】が発見【はっけん】された。",
+    "meaning": "Evidence of involvement was discovered."
+  },
+  {
+    "sentence": "関羽の勇猛さは敵を震え上がらせた。",
+    "sentence_furigana": "関羽【かんう】の勇猛【ゆうもう】さは敵【てき】を震【ふる】え上【あ】がらせた。",
+    "meaning": "Guan Yu's bravery made the enemy tremble."
+  },
+  {
+    "sentence": "関所は当時、重要な役割を果たしていた。",
+    "sentence_furigana": "関所【せきしょ】は当時【とうじ】、重要【じゅうよう】な役割【やくわり】を果た【はた】していた。",
+    "meaning": "Checkpoints played an important role at that time."
+  },
+  {
+    "sentence": "関門橋の開通により交通網が発展した。",
+    "sentence_furigana": "関門橋【かんもんきょう】の開通【かいつう】により交通網【こうつうもう】が発展【はってん】した。",
+    "meaning": "The opening of the Kanmon Bridge developed the transportation network."
+  },
+  {
+    "sentence": "彼は関心を持っている分野について熱く語った。",
+    "sentence_furigana": "彼【かれ】は関心【かんしん】を持【も】っている分野【ぶんや】について熱【あつ】く語【かた】った。",
+    "meaning": "He spoke passionately about the fields he is interested in."
+  },
+  {
+    "sentence": "関白の権限は限定されていた。",
+    "sentence_furigana": "関白【かんぱく】の権限【けんげん】は限定【げんてい】されていた。",
+    "meaning": "The authority of the Kampaku was limited."
+  },
+  {
+    "sentence": "関税に関する国際的な合意が形成された。",
+    "sentence_furigana": "関税【かんぜい】に関する国際的【こくさいてき】な合意【ごうい】が形成【けいせい】された。",
+    "meaning": "An international agreement concerning tariffs was formed."
+  },
+  {
+    "sentence": "この件は私の関知するところではない。",
+    "sentence_furigana": "この件【けん】は私【わたし】の関知【かんち】するところではない。",
+    "meaning": "This matter is not within my knowledge."
+  },
+  {
+    "sentence": "関与した人々への聞き取り調査が行われた。",
+    "sentence_furigana": "関与【かんよ】した人々【ひとびと】への聞【き】き取【と】り調査【ちょうさ】が行【おこな】われた。",
+    "meaning": "Interviews were conducted with the people involved."
+  },
+  {
+    "sentence": "関越トンネルは長いトンネルです。",
+    "sentence_furigana": "関越【かんえつ】トンネル【】は長【なが】いトンネル【】です。",
+    "meaning": "The Kan-Etsu Tunnel is a long tunnel."
+  },
+  {
+    "sentence": "関税率の調整が必要だ。",
+    "sentence_furigana": "関税率【かんぜいりつ】の調整【ちょうせい】が必要【ひつよう】だ。",
+    "meaning": "Adjustment of tariff rates is necessary."
+  },
+  {
+    "sentence": "関心事を一つずつ解決していく。",
+    "sentence_furigana": "関心事【かんしんじ】を一つずつ解決【かいけつ】していく。",
+    "meaning": "We will solve the matters of concern one by one."
+  },
+  {
+    "sentence": "関所の跡地が観光名所になっている。",
+    "sentence_furigana": "関所【せきしょ】の跡地【あとち】が観光名所【かんこうめいしょ】になっている。",
+    "meaning": "The site of the checkpoint has become a tourist attraction."
+  }
+]

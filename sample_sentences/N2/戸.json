@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "戸が開いていた。",
+    "sentence_furigana": "戸【と】が開【あ】いていた。",
+    "meaning": "The door was open."
+  },
+  {
+    "sentence": "ドアが開いていない。戸が閉まっている。",
+    "sentence_furigana": "ドアが開【あ】いていない。戸【と】が閉【し】まっている。",
+    "meaning": "The door is not open. The door is closed."
+  },
+  {
+    "sentence": "この家には戸が３つあります。",
+    "sentence_furigana": "この家【いえ】には戸【と】が３つあります。",
+    "meaning": "This house has three doors."
+  },
+  {
+    "sentence": "彼は戸を閉めた。",
+    "sentence_furigana": "彼【かれ】は戸【と】を閉【し】めた。",
+    "meaning": "He closed the door."
+  },
+  {
+    "sentence": "その戸は壊れていた。",
+    "sentence_furigana": "その戸【と】は壊【こわ】れていた。",
+    "meaning": "That door was broken."
+  },
+  {
+    "sentence": "戸をノックした。",
+    "sentence_furigana": "戸【と】をノックした。",
+    "meaning": "I knocked on the door."
+  },
+  {
+    "sentence": "戸の前に立っていた。",
+    "sentence_furigana": "戸【と】の前【まえ】に立【た】っていた。",
+    "meaning": "I was standing in front of the door."
+  },
+  {
+    "sentence": "戸が開かない。",
+    "sentence_furigana": "戸【と】が開【あ】かない。",
+    "meaning": "The door won't open."
+  },
+  {
+    "sentence": "戸が重い。",
+    "sentence_furigana": "戸【と】が重【おも】い。",
+    "meaning": "The door is heavy."
+  },
+  {
+    "sentence": "新しい戸に交換した。",
+    "sentence_furigana": "新【あたら】しい戸【と】に交換【こうかん】した。",
+    "meaning": "I replaced it with a new door."
+  },
+  {
+    "sentence": "戸を開けてください。",
+    "sentence_furigana": "戸【と】を開【あ】けてください。",
+    "meaning": "Please open the door."
+  },
+  {
+    "sentence": "戸を閉めてください。",
+    "sentence_furigana": "戸【と】を閉【し】めてください。",
+    "meaning": "Please close the door."
+  },
+  {
+    "sentence": "戸の鍵が壊れている。",
+    "sentence_furigana": "戸【と】の鍵【かぎ】が壊【こわ】れている。",
+    "meaning": "The lock on the door is broken."
+  },
+  {
+    "sentence": "戸の向こうに誰かいる。",
+    "sentence_furigana": "戸【と】の向【む】こうに誰【だれ】かいる。",
+    "meaning": "There is someone on the other side of the door."
+  },
+  {
+    "sentence": "戸を開けるのに力が必要だった。",
+    "sentence_furigana": "戸【と】を開【あ】けるのに力【ちから】が必要【ひつよう】だった。",
+    "meaning": "It took strength to open the door."
+  },
+  {
+    "sentence": "戸の隙間から光が漏れていた。",
+    "sentence_furigana": "戸【と】の隙間【すきま】から光【ひかり】が漏【も】れていた。",
+    "meaning": "Light was leaking through the gap in the door."
+  },
+  {
+    "sentence": "古い戸が軋んでいた。",
+    "sentence_furigana": "古【ふる】い戸【と】が軋【きし】んでいた。",
+    "meaning": "The old door creaked."
+  },
+  {
+    "sentence": "戸が風で開いた。",
+    "sentence_furigana": "戸【と】が風【かぜ】で開【あ】いた。",
+    "meaning": "The door opened in the wind."
+  },
+  {
+    "sentence": "戸を少し開けて換気する。",
+    "sentence_furigana": "戸【と】を少少【すこ】し開【あ】けて換気【かんき】する。",
+    "meaning": "Open the door a little to ventilate."
+  },
+  {
+    "sentence": "この戸は防音仕様です。",
+    "sentence_furigana": "この戸【と】は防音仕様【ぼうおんしよう】です。",
+    "meaning": "This door is soundproof."
+  },
+  {
+    "sentence": "戸の前で待っていました。",
+    "sentence_furigana": "戸【と】の前【まえ】で待っていました。",
+    "meaning": "I was waiting in front of the door."
+  },
+  {
+    "sentence": "戸がゆっくりと閉まった。",
+    "sentence_furigana": "戸【と】がゆっくりと閉【し】まった。",
+    "meaning": "The door slowly closed."
+  },
+  {
+    "sentence": "戸を開ける音を聞いた。",
+    "sentence_furigana": "戸【と】を開【あ】ける音【おと】を聞【き】いた。",
+    "meaning": "I heard the sound of the door opening."
+  },
+  {
+    "sentence": "戸に名前を書いた。",
+    "sentence_furigana": "戸【と】に名前【なまえ】を書【か】いた。",
+    "meaning": "I wrote my name on the door."
+  },
+  {
+    "sentence": "戸の外に誰かがいるようだ。",
+    "sentence_furigana": "戸【と】の外【そと】に誰【だれ】かがいるようだ。",
+    "meaning": "It seems someone is outside the door."
+  },
+  {
+    "sentence": "戸が静かに開いた。",
+    "sentence_furigana": "戸【と】が静【しず】かに開【あ】いた。",
+    "meaning": "The door opened quietly."
+  },
+  {
+    "sentence": "戸に指紋が付いていた。",
+    "sentence_furigana": "戸【と】に指紋【しもん】が付【つ】いていた。",
+    "meaning": "There were fingerprints on the door."
+  },
+  {
+    "sentence": "古い家なので戸が歪んでいる。",
+    "sentence_furigana": "古【ふる】い家【いえ】なので戸【と】が歪【ゆが】んでいる。",
+    "meaning": "The door is warped because it's an old house."
+  },
+  {
+    "sentence": "戸の向こうから声が聞こえた。",
+    "sentence_furigana": "戸【と】の向【む】こうから声【こえ】が聞【き】こえた。",
+    "meaning": "I heard a voice from the other side of the door."
+  },
+  {
+    "sentence": "戸を開けるのに苦労した。",
+    "sentence_furigana": "戸【と】を開【あ】けるのに苦労【くろう】した。",
+    "meaning": "I had trouble opening the door."
+  },
+  {
+    "sentence": "戸に絵を描いた。",
+    "sentence_furigana": "戸【と】に絵【え】を描【か】いた。",
+    "meaning": "I drew a picture on the door."
+  },
+  {
+    "sentence": "戸を開けて外に出た。",
+    "sentence_furigana": "戸【と】を開【あ】けて外【そと】に出【で】た。",
+    "meaning": "I opened the door and went outside."
+  },
+  {
+    "sentence": "戸が急に閉まった。",
+    "sentence_furigana": "戸【と】が急【きゅう】に閉【し】まった。",
+    "meaning": "The door suddenly closed."
+  },
+  {
+    "sentence": "戸の前に立つな。",
+    "sentence_furigana": "戸【と】の前【まえ】に立【た】つな。",
+    "meaning": "Don't stand in front of the door."
+  },
+  {
+    "sentence": "戸の内側から鍵をかけた。",
+    "sentence_furigana": "戸【と】の内側【うちがわ】から鍵【かぎ】をかけた。",
+    "meaning": "I locked the door from the inside."
+  },
+  {
+    "sentence": "戸に連絡先を書いた。",
+    "sentence_furigana": "戸【と】に連絡先【れんらくさき】を書【か】いた。",
+    "meaning": "I wrote my contact information on the door."
+  },
+  {
+    "sentence": "戸を開けて入ってください。",
+    "sentence_furigana": "戸【と】を開【あ】けて入【はい】ってください。",
+    "meaning": "Please open the door and come in."
+  },
+  {
+    "sentence": "戸のすぐ後ろにいた。",
+    "sentence_furigana": "戸【と】のすぐ後【うし】ろにいた。",
+    "meaning": "I was right behind the door."
+  },
+  {
+    "sentence": "戸の木材が腐っていた。",
+    "sentence_furigana": "戸【と】の木材【もくざい】が腐【くさ】っていた。",
+    "meaning": "The wood of the door was rotten."
+  },
+  {
+    "sentence": "戸を開けっ放しにしないでください。",
+    "sentence_furigana": "戸【と】を開【あ】けっ放【はな】しにしないでください。",
+    "meaning": "Please don't leave the door open."
+  },
+  {
+    "sentence": "戸の向こうには暗闇が広がっていた。",
+    "sentence_furigana": "戸【と】の向【む】こうには暗闇【くらやみ】が広【ひろ】がっていた。",
+    "meaning": "Darkness spread beyond the door."
+  },
+  {
+    "sentence": "戸の装飾が美しい。",
+    "sentence_furigana": "戸【と】の装飾【そうしょく】が美【うつく】しい。",
+    "meaning": "The decoration on the door is beautiful."
+  },
+  {
+    "sentence": "戸の内側を掃除した。",
+    "sentence_furigana": "戸【と】の内側【うちがわ】を掃除【そうじ】した。",
+    "meaning": "I cleaned the inside of the door."
+  },
+  {
+    "sentence": "戸を開けて顔を覗かせた。",
+    "sentence_furigana": "戸【と】を開【あ】けて顔【かお】を覗【のぞ】かせた。",
+    "meaning": "I opened the door and peeked my face out."
+  },
+  {
+    "sentence": "戸の取っ手が取れた。",
+    "sentence_furigana": "戸【と】の取【とっ】手【て】が取【と】れた。",
+    "meaning": "The door handle came off."
+  },
+  {
+    "sentence": "戸に油を差したら音がしなくなった。",
+    "sentence_furigana": "戸【と】に油【あぶら】を差【さ】したら音【おと】がしなくなった。",
+    "meaning": "After oiling the door, the noise stopped."
+  },
+  {
+    "sentence": "戸の外で誰かが呼んでいる。",
+    "sentence_furigana": "戸【と】の外【そと】で誰【だれ】かが呼【よ】んでいる。",
+    "meaning": "Someone is calling from outside the door."
+  },
+  {
+    "sentence": "戸を開けて入室した。",
+    "sentence_furigana": "戸【と】を開【あ】けて入室【にゅうしつ】した。",
+    "meaning": "I opened the door and entered the room."
+  },
+  {
+    "sentence": "この戸は電動で開閉します。",
+    "sentence_furigana": "この戸【と】は電動【でんどう】で開閉【かいへい】します。",
+    "meaning": "This door opens and closes automatically."
+  },
+  {
+    "sentence": "戸の前に物を置かないでください。",
+    "sentence_furigana": "戸【と】の前【まえ】に物【もの】を置【お】かないでください。",
+    "meaning": "Please do not place anything in front of the door."
+  },
+  {
+    "sentence": "戸を閉め忘れた。",
+    "sentence_furigana": "戸【と】を閉【し】め忘【わす】れた。",
+    "meaning": "I forgot to close the door."
+  },
+  {
+    "sentence": "戸を開ける前に確認してください。",
+    "sentence_furigana": "戸【と】を開【あ】ける前【まえ】に確認【かくにん】してください。",
+    "meaning": "Please check before opening the door."
+  },
+  {
+    "sentence": "戸の向こうに人がいる気配がした。",
+    "sentence_furigana": "戸【と】の向【む】こうに人【ひと】がいる気配【けはい】がした。",
+    "meaning": "I sensed that there was someone beyond the door."
+  },
+  {
+    "sentence": "戸に張られた紙がはがれかけていた。",
+    "sentence_furigana": "戸【と】に張【は】られた紙【かみ】がはがれかけていた。",
+    "meaning": "The paper posted on the door was peeling off."
+  },
+  {
+    "sentence": "戸が開いたままなので、閉めます。",
+    "sentence_furigana": "戸【と】が開【あ】いたままなので、閉【し】めます。",
+    "meaning": "The door is still open, so I will close it."
+  },
+  {
+    "sentence": "戸の鍵を交換した。",
+    "sentence_furigana": "戸【と】の鍵【かぎ】を交換【こうかん】した。",
+    "meaning": "I replaced the lock on the door."
+  },
+  {
+    "sentence": "戸を開ける音で目が覚めた。",
+    "sentence_furigana": "戸【と】を開【あ】ける音【おと】で目【め】が覚【さ】めた。",
+    "meaning": "I woke up to the sound of the door opening."
+  },
+  {
+    "sentence": "戸に指を挟まないように注意してください。",
+    "sentence_furigana": "戸【と】に指【ゆび】を挟【はさ】まないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to get your fingers caught in the door."
+  },
+  {
+    "sentence": "戸を開ける動作が重い。",
+    "sentence_furigana": "戸【と】を開【あ】ける動作【どうさ】が重【おも】い。",
+    "meaning": "The action of opening the door is heavy."
+  },
+  {
+    "sentence": "戸に貼ってあったポスターが剥がれていた。",
+    "sentence_furigana": "戸【と】に貼【は】ってあったポスターが剥【は】がれていた。",
+    "meaning": "The poster that was on the door had come off."
+  },
+  {
+    "sentence": "戸の外に立ち聞きする者はいない。",
+    "sentence_furigana": "戸【と】の外【そと】に立【た】ち聞【き】きする者【もの】はいない。",
+    "meaning": "There is no one eavesdropping outside the door."
+  },
+  {
+    "sentence": "戸を開けると、そこは別世界だった。",
+    "sentence_furigana": "戸【と】を開【あ】けると、そこは別世界【べつせかい】だった。",
+    "meaning": "When I opened the door, it was another world."
+  },
+  {
+    "sentence": "戸の彫刻が非常に精巧だ。",
+    "sentence_furigana": "戸【と】の彫刻【ちょうこく】が非常【ひじょう】に精巧【せいこう】だ。",
+    "meaning": "The carving on the door is very intricate."
+  },
+  {
+    "sentence": "戸の裏側にメモを貼った。",
+    "sentence_furigana": "戸【と】の裏側【うらがわ】にメモを貼【は】った。",
+    "meaning": "I stuck a memo on the back of the door."
+  },
+  {
+    "sentence": "戸を開けるたびに音がする。",
+    "sentence_furigana": "戸【と】を開【あ】けるたびに音【おと】がする。",
+    "meaning": "The door makes a noise every time it's opened."
+  },
+  {
+    "sentence": "戸の前に誰もいなかった。",
+    "sentence_furigana": "戸【と】の前【まえ】に誰【だれ】もいなかった。",
+    "meaning": "There was no one in front of the door."
+  },
+  {
+    "sentence": "戸が開けっ放しだった。",
+    "sentence_furigana": "戸【と】が開【あ】けっ放【はな】しだった。",
+    "meaning": "The door was left open."
+  },
+  {
+    "sentence": "戸に鍵がかかっていた。",
+    "sentence_furigana": "戸【と】に鍵【かぎ】がかかっていた。",
+    "meaning": "The door was locked."
+  },
+  {
+    "sentence": "戸の外から呼びかける。",
+    "sentence_furigana": "戸【と】の外【そと】から呼【よ】びかける。",
+    "meaning": "I call from outside the door."
+  },
+  {
+    "sentence": "戸を開けて中に入った。",
+    "sentence_furigana": "戸【と】を開【あ】けて中【なか】に入【はい】った。",
+    "meaning": "I opened the door and went inside."
+  },
+  {
+    "sentence": "戸の向こうには美しい庭が広がっていた。",
+    "sentence_furigana": "戸【と】の向【む】こうには美【うつく】しい庭【にわ】が広【ひろ】がっていた。",
+    "meaning": "A beautiful garden spread out beyond the door."
+  },
+  {
+    "sentence": "戸を開ける音が静かだ。",
+    "sentence_furigana": "戸【と】を開【あ】ける音【おと】が静【しず】かだ。",
+    "meaning": "The sound of opening the door is quiet."
+  },
+  {
+    "sentence": "戸の向こうから優しい声がした。",
+    "sentence_furigana": "戸【と】の向【む】こうから優【やさ】しい声【こえ】がした。",
+    "meaning": "A kind voice came from beyond the door."
+  },
+  {
+    "sentence": "戸を開ける準備ができた。",
+    "sentence_furigana": "戸【と】を開【あ】ける準備【じゅんび】ができた。",
+    "meaning": "The preparation to open the door is complete."
+  },
+  {
+    "sentence": "戸に手をかけて押し開けた。",
+    "sentence_furigana": "戸【と】に手【て】をかけて押【お】し開【あ】けた。",
+    "meaning": "I put my hand on the door and pushed it open."
+  },
+  {
+    "sentence": "戸の外で待っている。",
+    "sentence_furigana": "戸【と】の外【そと】で待【ま】っている。",
+    "meaning": "I am waiting outside the door."
+  },
+  {
+    "sentence": "戸を開ける前に挨拶をする。",
+    "sentence_furigana": "戸【と】を開【あ】ける前【まえ】に挨拶【あいさつ】をする。",
+    "meaning": "Greet before opening the door."
+  },
+  {
+    "sentence": "戸の隙間から風が入ってきた。",
+    "sentence_furigana": "戸【と】の隙間【すきま】から風【かぜ】が入【はい】ってきた。",
+    "meaning": "Wind entered through the gap in the door."
+  },
+  {
+    "sentence": "戸の内側をきれいに拭いた。",
+    "sentence_furigana": "戸【と】の内側【うちがわ】をきれいに拭【ふ】いた。",
+    "meaning": "I wiped the inside of the door clean."
+  },
+  {
+    "sentence": "戸を開けてみたら、誰もいなかった。",
+    "sentence_furigana": "戸【と】を開【あ】けてみたら、誰【だれ】もいなかった。",
+    "meaning": "When I opened the door, there was no one there."
+  },
+  {
+    "sentence": "戸の前に靴を置く。",
+    "sentence_furigana": "戸【と】の前【まえ】に靴【くつ】を置【お】く。",
+    "meaning": "Place shoes in front of the door."
+  },
+  {
+    "sentence": "戸を開けずに様子をうかがった。",
+    "sentence_furigana": "戸【と】を開【あ】けずに様子【ようす】をうかがった。",
+    "meaning": "I watched the situation without opening the door."
+  },
+  {
+    "sentence": "戸の向こうに人影が見えた。",
+    "sentence_furigana": "戸【と】の向【む】こうに人影【ひとかげ】が見【み】えた。",
+    "meaning": "I saw a silhouette beyond the door."
+  },
+  {
+    "sentence": "戸に貼られたシールが剥がれない。",
+    "sentence_furigana": "戸【と】に貼【は】られたシールが剥【は】がれない。",
+    "meaning": "The sticker on the door won't come off."
+  },
+  {
+    "sentence": "戸を開けると冷たい空気が流れてきた。",
+    "sentence_furigana": "戸【と】を開【あ】けると冷【つめ】たい空気【くうき】が流【なが】れてきた。",
+    "meaning": "When I opened the door, cold air flowed in."
+  },
+  {
+    "sentence": "戸の丁番が錆びていた。",
+    "sentence_furigana": "戸【と】の丁番【ちょうばん】が錆【さ】びていた。",
+    "meaning": "The hinges of the door were rusted."
+  },
+  {
+    "sentence": "戸を開ける音が響いた。",
+    "sentence_furigana": "戸【と】を開【あ】ける音【おと】が響【ひび】いた。",
+    "meaning": "The sound of opening the door echoed."
+  },
+  {
+    "sentence": "戸を開けるのに手間取った。",
+    "sentence_furigana": "戸【と】を開【あ】けるのに手間取【てまど】った。",
+    "meaning": "It took me a while to open the door."
+  },
+  {
+    "sentence": "戸を開けて、新しい生活を始めた。",
+    "sentence_furigana": "戸【と】を開【あ】けて、新【あら】たな生活【せいかつ】を始【はじ】めた。",
+    "meaning": "I opened the door and started a new life."
+  },
+  {
+    "sentence": "戸の前にゴミを置かないでください。",
+    "sentence_furigana": "戸【と】の前【まえ】にゴミを置【お】かないでください。",
+    "meaning": "Please do not put trash in front of the door."
+  },
+  {
+    "sentence": "戸を開ける音が小さかった。",
+    "sentence_furigana": "戸【と】を開【あ】ける音【おと】が小【ちい】さかった。",
+    "meaning": "The sound of opening the door was small."
+  },
+  {
+    "sentence": "戸の向こうから賑やかな声が聞こえた。",
+    "sentence_furigana": "戸【と】の向【む】こうから賑【にぎ】やかな声【こえ】が聞【き】こえた。",
+    "meaning": "Lively voices were heard from beyond the door."
+  },
+  {
+    "sentence": "戸を開けずに中を覗いた。",
+    "sentence_furigana": "戸【と】を開【あ】けずに中【なか】を覗【のぞ】いた。",
+    "meaning": "I peeked inside without opening the door."
+  },
+  {
+    "sentence": "戸の前に立つ。",
+    "sentence_furigana": "戸【と】の前【まえ】に立【た】つ。",
+    "meaning": "Stand in front of the door."
+  },
+  {
+    "sentence": "戸を開けて、いってきますと言った。",
+    "sentence_furigana": "戸【と】を開【あ】けて、いってきますと言【い】った。",
+    "meaning": "I opened the door and said, 'I'm leaving'."
+  },
+  {
+    "sentence": "戸に名前が書いてあった。",
+    "sentence_furigana": "戸【と】に名前【なまえ】が書【か】いてあった。",
+    "meaning": "A name was written on the door."
+  },
+  {
+    "sentence": "戸の外から呼びかけられた。",
+    "sentence_furigana": "戸【と】の外【そと】から呼【よ】びかけられた。",
+    "meaning": "I was called from outside the door."
+  },
+  {
+    "sentence": "戸を開けるのに苦労する。",
+    "sentence_furigana": "戸【と】を開【あ】けるのに苦労【くろう】する。",
+    "meaning": "It's difficult to open the door."
+  },
+  {
+    "sentence": "戸を開けて、おかえりと言われた。",
+    "sentence_furigana": "戸【と】を開【あ】けて、おかえりと言【い】われた。",
+    "meaning": "I opened the door and was told, 'Welcome back'."
+  }
+]

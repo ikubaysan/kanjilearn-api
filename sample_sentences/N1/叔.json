@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "叔父は私の良き相談相手です。",
+    "sentence_furigana": "叔父【おじ】は私【わたし】の良【よ】き相談相手【そうだんあいて】です。",
+    "meaning": "My uncle is a good confidant for me."
+  },
+  {
+    "sentence": "叔母の作る料理はいつも美味しいです。",
+    "sentence_furigana": "叔母【おば】の作【つく】る料理【りょうり】はいつも美味【おい】しいです。",
+    "meaning": "The food my aunt makes is always delicious."
+  },
+  {
+    "sentence": "叔父は古い書物を集めるのが趣味です。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い書物【しょもつ】を集【あつ】めるのが趣味【しゅみ】です。",
+    "meaning": "My uncle's hobby is collecting old books."
+  },
+  {
+    "sentence": "叔母は優しい笑顔で私たちを迎えてくれました。",
+    "sentence_furigana": "叔母【おば】は優【やさ】しい笑顔【えがお】で私【わたし】たちを迎【むか】えてくれました。",
+    "meaning": "My aunt greeted us with a kind smile."
+  },
+  {
+    "sentence": "叔父は若い頃、世界を旅していました。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、世界【せかい】を旅【たび】していました。",
+    "meaning": "My uncle traveled the world when he was young."
+  },
+  {
+    "sentence": "叔母から手作りのセーターをもらいました。",
+    "sentence_furigana": "叔母【おば】から手作【てづく】りのセーターをもらいました。",
+    "meaning": "I received a handmade sweater from my aunt."
+  },
+  {
+    "sentence": "叔父はいつも私のことを気にかけてくれます。",
+    "sentence_furigana": "叔父【おじ】はいつも私【わたし】のこと気【き】にかけてくれます。",
+    "meaning": "My uncle always cares about me."
+  },
+  {
+    "sentence": "叔母は庭にたくさんの花を植えています。",
+    "sentence_furigana": "叔母【おば】は庭【にわ】にたくさん花【はな】を植【う】えています。",
+    "meaning": "My aunt has planted many flowers in her garden."
+  },
+  {
+    "sentence": "叔父は会社の重役を務めています。",
+    "sentence_furigana": "叔父【おじ】は会社【かいしゃ】の重役【じゅうやく】を務【つと】めています。",
+    "meaning": "My uncle holds a senior position at the company."
+  },
+  {
+    "sentence": "叔母は料理教室を開いています。",
+    "sentence_furigana": "叔母【おば】は料理教室【りょうりきょうしつ】を開【ひら】いています。",
+    "meaning": "My aunt teaches cooking classes."
+  },
+  {
+    "sentence": "叔父の若い頃の写真はとてもハンサムだ。",
+    "sentence_furigana": "叔父【おじ】の若【わか】い頃【ころ】の写真【しゃしん】はとてもハンサムだ。",
+    "meaning": "The photos of my uncle when he was young are very handsome."
+  },
+  {
+    "sentence": "叔母の物語はいつも興味深い。",
+    "sentence_furigana": "叔母【おば】の物語【ものがたり】はいつも興味深【きょうみぶか】い。",
+    "meaning": "My aunt's stories are always interesting."
+  },
+  {
+    "sentence": "叔父は昔の映画が好きだ。",
+    "sentence_furigana": "叔父【おじ】は昔【むかし】の映画【えいが】が好きだ。",
+    "meaning": "My uncle likes old movies."
+  },
+  {
+    "sentence": "叔母は健康のために毎日散歩している。",
+    "sentence_furigana": "叔母【おば】は健康【けんこう】のため毎日【まいにち】散歩【さんぽ】している。",
+    "meaning": "My aunt walks every day for her health."
+  },
+  {
+    "sentence": "叔父が送ってくれた本を読んでいる。",
+    "sentence_furigana": "叔父【おじ】が送【おく】ってくれた本【ほん】を読【よ】んでいる。",
+    "meaning": "I am reading the book my uncle sent me."
+  },
+  {
+    "sentence": "叔母はいつも私たちにお土産を買ってきてくれる。",
+    "sentence_furigana": "叔母【おば】はいつも私たちにお土産【おみやげ】を買【か】ってきてくれる。",
+    "meaning": "My aunt always buys us souvenirs."
+  },
+  {
+    "sentence": "叔父は絵を描くのが得意です。",
+    "sentence_furigana": "叔父【おじ】は絵【え】を描【か】くのが得意【とくい】です。",
+    "meaning": "My uncle is good at drawing pictures."
+  },
+  {
+    "sentence": "叔母は新しいレシピに挑戦するのが好きだ。",
+    "sentence_furigana": "叔母【おば】は新【あたら】しいレシピに挑戦【ちょうせん】するのが好きだ。",
+    "meaning": "My aunt likes to try new recipes."
+  },
+  {
+    "sentence": "叔父は若い頃、スポーツ選手だった。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、スポーツ選手【せんしゅ】だった。",
+    "meaning": "My uncle was a sports player when he was young."
+  },
+  {
+    "sentence": "叔母はいつも私たちに優しい言葉をかけてくれる。",
+    "sentence_furigana": "叔母【おば】はいつも私たちに優【やさ】しい言葉【ことば】をかけてくれる。",
+    "meaning": "My aunt always says kind words to us."
+  },
+  {
+    "sentence": "叔父は古いレコードをたくさん持っている。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】いレコードをたくさん持【も】っている。",
+    "meaning": "My uncle has many old records."
+  },
+  {
+    "sentence": "叔母の作ったケーキは絶品でした。",
+    "sentence_furigana": "叔母【おば】の作【つく】ったケーキは絶品【ぜっぴん】でした。",
+    "meaning": "The cake my aunt made was exquisite."
+  },
+  {
+    "sentence": "叔父は時々、昔話をしてくれる。",
+    "sentence_furigana": "叔父【おじ】は時々【ときどき】、昔話【むかしばなし】をしてくれる。",
+    "meaning": "My uncle sometimes tells me old stories."
+  },
+  {
+    "sentence": "叔母は孫の成長を温かく見守っている。",
+    "sentence_furigana": "叔母【おば】は孫【まご】の成長【せいちょう】を温【あたた】かく見守【みまも】っている。",
+    "meaning": "My aunt warmly watches over her grandchildren's growth."
+  },
+  {
+    "sentence": "叔父は若い頃、音楽家を目指していた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、音楽家【おんがくか】を目指【めざ】していた。",
+    "meaning": "My uncle aspired to be a musician when he was young."
+  },
+  {
+    "sentence": "叔母は手編みのマフラーをプレゼントしてくれた。",
+    "sentence_furigana": "叔母【おば】は手編【てあ】みのマフラーをプレゼントしてくれた。",
+    "meaning": "My aunt gave me a hand-knitted scarf as a gift."
+  },
+  {
+    "sentence": "叔父はいつも元気で、私たちを励ましてくれる。",
+    "sentence_furigana": "叔父【おじ】はいつも元気【げんき】で、私たちを励【はげ】ましてくれる。",
+    "meaning": "My uncle is always energetic and encourages us."
+  },
+  {
+    "sentence": "叔母は新しい趣味を見つけて楽しんでいる。",
+    "sentence_furigana": "叔母【おば】は新【あたら】しい趣味【しゅみ】を見【み】つけて楽【たの】しんでいる。",
+    "meaning": "My aunt is enjoying finding a new hobby."
+  },
+  {
+    "sentence": "叔父は古いカメラを修理した。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】いカメラを修理【しゅうり】した。",
+    "meaning": "My uncle repaired an old camera."
+  },
+  {
+    "sentence": "叔母は私の将来をいつも応援してくれている。",
+    "sentence_furigana": "叔母【おば】は私【わたし】の将来【しょうらい】をいつも応援【おうえん】してくれている。",
+    "meaning": "My aunt always supports my future."
+  },
+  {
+    "sentence": "叔父は若い頃、冒険家になりたかったらしい。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、冒険家【ぼうけんか】になりたかったらしい。",
+    "meaning": "It seems my uncle wanted to be an adventurer when he was young."
+  },
+  {
+    "sentence": "叔母は手作りのジャムを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのジャムを作【つく】ってくれた。",
+    "meaning": "My aunt made homemade jam for me."
+  },
+  {
+    "sentence": "叔父は歴史に非常に詳しい。",
+    "sentence_furigana": "叔父【おじ】は歴史【れきし】に非常【ひじょう】に詳【くわ】しい。",
+    "meaning": "My uncle is very knowledgeable about history."
+  },
+  {
+    "sentence": "叔母は私たちに面白い話を聞かせてくれた。",
+    "sentence_furigana": "叔母【おば】は私たちに面白【おも】い話【はなし】を聞【き】かせてくれた。",
+    "meaning": "My aunt told us an interesting story."
+  },
+  {
+    "sentence": "叔父は若い頃、ギターを弾いていたそうだ。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、ギターを弾【ひ】いていたそうだ。",
+    "meaning": "I hear my uncle used to play the guitar when he was young."
+  },
+  {
+    "sentence": "叔母はいつも家庭菜園で野菜を育てている。",
+    "sentence_furigana": "叔母【おば】はいつも家庭菜園【かていさいえん】で野菜【やさい】を育【そだ】てている。",
+    "meaning": "My aunt always grows vegetables in her home garden."
+  },
+  {
+    "sentence": "叔父は古い木造の家を大切にしている。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い木造【もくぞう】の家【いえ】を大切【たいせつ】にしている。",
+    "meaning": "My uncle cherishes his old wooden house."
+  },
+  {
+    "sentence": "叔母は手芸がとても上手です。",
+    "sentence_furigana": "叔母【おば】は手芸【しゅげい】がとても上手【じょうず】です。",
+    "meaning": "My aunt is very skilled at handicrafts."
+  },
+  {
+    "sentence": "叔父は若い頃、バンドでボーカルをしていた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、バンドでボーカルをしていました。",
+    "meaning": "My uncle was the vocalist in a band when he was young."
+  },
+  {
+    "sentence": "叔母はいつも笑顔で、周りの人を明るくする。",
+    "sentence_furigana": "叔母【おば】はいつも笑顔【えがお】で、周【まわ】りの人【ひと】を明【あか】るくする。",
+    "meaning": "My aunt is always smiling and brightens the people around her."
+  },
+  {
+    "sentence": "叔父は古い友人と頻繁に連絡を取り合っている。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い友人【ゆうじん】と頻繁【ひんぱん】に連絡【れんらく】を取【と】り合【あ】っている。",
+    "meaning": "My uncle frequently keeps in touch with his old friends."
+  },
+  {
+    "sentence": "叔母は手作りのオルゴールを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのオルゴールを作【つく】ってくれた。",
+    "meaning": "My aunt made me a handmade music box."
+  },
+  {
+    "sentence": "叔父は若い頃、海外で働いていたことがある。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、海外【かいがい】で働【はたら】いていたことがある。",
+    "meaning": "My uncle has worked abroad when he was young."
+  },
+  {
+    "sentence": "叔母はいつも新しい知識を吸収しようとしている。",
+    "sentence_furigana": "叔母【おば】はいつも新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】しようとしている。",
+    "meaning": "My aunt always tries to absorb new knowledge."
+  },
+  {
+    "sentence": "叔父は古い石畳の道を散歩するのが好きだ。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い石畳【いしだたみ】の道【みち】を散歩【さんぽ】するのが好きだ。",
+    "meaning": "My uncle likes to walk on old cobblestone paths."
+  },
+  {
+    "sentence": "叔母は手作りのアクセサリーを販売している。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのアクセサリーを販売【はんばい】している。",
+    "meaning": "My aunt sells handmade accessories."
+  },
+  {
+    "sentence": "叔父は若い頃、画家を目指していた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、画家【がか】を目指【めざ】していた。",
+    "meaning": "My uncle aimed to be a painter when he was young."
+  },
+  {
+    "sentence": "叔母はいつも家族のために美味しい料理を作る。",
+    "sentence_furigana": "叔母【おば】はいつも家族【かぞく】のためにおいしい料理【りょうり】を作【つく】る。",
+    "meaning": "My aunt always cooks delicious meals for her family."
+  },
+  {
+    "sentence": "叔父は古い農具を大切に保管している。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い農具【のうぐ】を大切【たいせつ】に保管【ほかん】している。",
+    "meaning": "My uncle carefully stores old farming tools."
+  },
+  {
+    "sentence": "叔母は手作りの石鹸を作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りの石鹸【せっけん】を作【つく】ってくれた。",
+    "meaning": "My aunt made homemade soap for me."
+  },
+  {
+    "sentence": "叔父は若い頃、演劇部に所属していた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、演劇部【えんげきぶ】に所属【しょぞく】していた。",
+    "meaning": "My uncle belonged to the drama club when he was young."
+  },
+  {
+    "sentence": "叔母はいつも健康的な生活を心がけている。",
+    "sentence_furigana": "叔母【おば】はいつも健康的【けんこうてき】な生活【せいかつ】を心【こころ】がけている。",
+    "meaning": "My aunt always strives for a healthy lifestyle."
+  },
+  {
+    "sentence": "叔父は古い機械を分解して研究している。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い機械【きかい】を分解【ぶんかい】して研究【けんきゅう】している。",
+    "meaning": "My uncle disassembles and studies old machinery."
+  },
+  {
+    "sentence": "叔母は手編みの帽子をプレゼントしてくれた。",
+    "sentence_furigana": "叔母【おば】は手編【てあ】みの帽子【ぼうし】をプレゼントしてくれた。",
+    "meaning": "My aunt gave me a hand-knitted hat as a gift."
+  },
+  {
+    "sentence": "叔父は若い頃、詩を書くのが好きだったそうだ。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、詩【し】を書【か】くのが好【す】きだったそうだ。",
+    "meaning": "I hear my uncle liked writing poetry when he was young."
+  },
+  {
+    "sentence": "叔母はいつも美味しいお茶を入れてくれる。",
+    "sentence_furigana": "叔母【おば】はいつもおいしいお茶【ちゃ】を入【い】れてくれる。",
+    "meaning": "My aunt always makes delicious tea for us."
+  },
+  {
+    "sentence": "叔父は古い絵葉書を収集している。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い絵葉書【えはがき】を収集【しゅうしゅう】している。",
+    "meaning": "My uncle collects old postcards."
+  },
+  {
+    "sentence": "叔母は手作りの石鹸で手を洗った。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りの石鹸【せっけん】で手【て】を洗【あら】った。",
+    "meaning": "My aunt washed her hands with handmade soap."
+  },
+  {
+    "sentence": "叔父は若い頃、熱心に勉強していた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、熱心【ねっしん】に勉強【べんきょう】していた。",
+    "meaning": "My uncle studied diligently when he was young."
+  },
+  {
+    "sentence": "叔母はいつも新しいレシピを試している。",
+    "sentence_furigana": "叔母【おば】はいつも新【あたら】しいレシピを試【ため】している。",
+    "meaning": "My aunt is always trying new recipes."
+  },
+  {
+    "sentence": "叔父は古い友人に会いに来た。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い友人【ゆうじん】に会【あ】いに来【き】た。",
+    "meaning": "My uncle came to meet an old friend."
+  },
+  {
+    "sentence": "叔母は手作りのクッキーを焼いた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのクッキーを焼【や】いた。",
+    "meaning": "My aunt baked homemade cookies."
+  },
+  {
+    "sentence": "叔父は若い頃、冒険小説を読みふけっていた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、冒険小説【ぼうけんしょうせつ】を読【よ】みふけっていた。",
+    "meaning": "My uncle used to immerse himself in adventure novels when he was young."
+  },
+  {
+    "sentence": "叔母はいつも私の健康を気遣ってくれる。",
+    "sentence_furigana": "叔母【おば】はいつも私【わたし】の健康【けんこう】を気遣【きづか】ってくれる。",
+    "meaning": "My aunt always cares about my health."
+  },
+  {
+    "sentence": "叔父は古い木彫りの人形を持っている。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い木彫【きぼ】りの人形【にんぎょう】を持【も】っている。",
+    "meaning": "My uncle has an old wooden doll."
+  },
+  {
+    "sentence": "叔母は手編みの靴下を編んでくれた。",
+    "sentence_furigana": "叔母【おば】は手編【てあ】みの靴下【くつした】を編【あ】んでくれた。",
+    "meaning": "My aunt knitted me handmade socks."
+  },
+  {
+    "sentence": "叔父は若い頃、天文学に興味を持っていた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、天文学【てんもんがく】に興味【きょうみ】を持【も】っていた。",
+    "meaning": "My uncle was interested in astronomy when he was young."
+  },
+  {
+    "sentence": "叔母はいつも庭の手入れを欠かさない。",
+    "sentence_furigana": "叔母【おば】はいつも庭【にわ】の手入【てい】れを欠【か】かさない。",
+    "meaning": "My aunt never misses tending to her garden."
+  },
+  {
+    "sentence": "叔父は古い地図を広げて旅の計画を立てた。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い地図【ちず】を広【ひろ】げて旅【たび】の計画【けいかく】を立【た】てた。",
+    "meaning": "My uncle spread out an old map and made travel plans."
+  },
+  {
+    "sentence": "叔母は手作りのポーチを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのポーチを作【つく】ってくれた。",
+    "meaning": "My aunt made me a handmade pouch."
+  },
+  {
+    "sentence": "叔父は若い頃、世界中を旅したいと思っていた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、世界中【せかいじゅう】を旅【たび】したいと思【おも】っていた。",
+    "meaning": "My uncle wanted to travel around the world when he was young."
+  },
+  {
+    "sentence": "叔母はいつも静かに本を読んでいる。",
+    "sentence_furigana": "叔母【おば】はいつも静【しず】かに本【ほん】を読【よ】んでいる。",
+    "meaning": "My aunt is always quietly reading a book."
+  },
+  {
+    "sentence": "叔父は古い骨董品を売る店を開いた。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い骨董品【こっとうひん】を売【う】る店【みせ】を開【ひら】いた。",
+    "meaning": "My uncle opened a shop selling old antiques."
+  },
+  {
+    "sentence": "叔母は手編みのマフラーをプレゼントしてくれた。",
+    "sentence_furigana": "叔母【おば】は手編【てあ】みのマフラーをプレゼントしてくれた。",
+    "meaning": "My aunt gifted me a hand-knitted scarf."
+  },
+  {
+    "sentence": "叔父は若い頃、パイロットを目指していた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、パイロットを目指【めざ】していた。",
+    "meaning": "My uncle aimed to be a pilot when he was young."
+  },
+  {
+    "sentence": "叔母はいつも温かい飲み物を勧めてくれる。",
+    "sentence_furigana": "叔母【おば】はいつも温【あたた】かい飲【の】み物【もの】を勧【すす】めてくれる。",
+    "meaning": "My aunt always recommends a warm drink."
+  },
+  {
+    "sentence": "叔父は古い陶器のコレクションを持っている。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い陶器【とうき】のコレクションを持【も】っている。",
+    "meaning": "My uncle has a collection of old pottery."
+  },
+  {
+    "sentence": "叔母は手作りのしおりを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのしおりを作【つく】ってくれた。",
+    "meaning": "My aunt made me a handmade bookmark."
+  },
+  {
+    "sentence": "叔父は若い頃、探偵小説に夢中だった。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、探偵小説【たんていしょうせつ】に夢中【むちゅう】だった。",
+    "meaning": "My uncle was engrossed in detective novels when he was young."
+  },
+  {
+    "sentence": "叔母はいつも家族の健康を第一に考えている。",
+    "sentence_furigana": "叔母【おば】はいつも家族【かぞく】の健康【けんこう】を第一【だいいち】に考【かんが】えている。",
+    "meaning": "My aunt always puts the family's health first."
+  },
+  {
+    "sentence": "叔父は古い家具をリメイクして使っている。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い家具【かぐ】をリメイクして使【つか】っている。",
+    "meaning": "My uncle remakes and uses old furniture."
+  },
+  {
+    "sentence": "叔母は手作りのバスケットをプレゼントしてくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのバスケットをプレゼントしてくれた。",
+    "meaning": "My aunt gave me a handmade basket as a gift."
+  },
+  {
+    "sentence": "叔父は若い頃、写真撮影に凝っていた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、写真撮影【しゃしんさつえい】に凝【こ】っていた。",
+    "meaning": "My uncle was keen on photography when he was young."
+  },
+  {
+    "sentence": "叔母はいつも手作りのパンを焼いている。",
+    "sentence_furigana": "叔母【おば】はいつも手作【てづく】りのパンを焼【や】いている。",
+    "meaning": "My aunt always bakes homemade bread."
+  },
+  {
+    "sentence": "叔父は古い町並みを散策するのが好きだ。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い町並【まちな】みを散策【さんさく】するのが好きだ。",
+    "meaning": "My uncle likes to stroll through old townscapes."
+  },
+  {
+    "sentence": "叔母は手作りの飾りを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りの飾【かざ】りを作【つく】ってくれた。",
+    "meaning": "My aunt made me a handmade decoration."
+  },
+  {
+    "sentence": "叔父は若い頃、発明家になりたかったらしい。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、発明家【はつめいか】になりたかったらしい。",
+    "meaning": "It seems my uncle wanted to be an inventor when he was young."
+  },
+  {
+    "sentence": "叔母はいつも手作りの人形を飾っている。",
+    "sentence_furigana": "叔母【おば】はいつも手作【てづく】りの人形【にんぎょう】を飾【かざ】っている。",
+    "meaning": "My aunt always displays handmade dolls."
+  },
+  {
+    "sentence": "叔父は古い時計を修理して、再び動くようにした。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い時計【とけい】を修理【しゅうり】して、再び【ふたたび】動【うご】くようにした。",
+    "meaning": "My uncle repaired an old clock and made it work again."
+  },
+  {
+    "sentence": "叔母は手作りのエプロンをプレゼントしてくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのエプロンをプレゼントしてくれた。",
+    "meaning": "My aunt gave me a handmade apron as a gift."
+  },
+  {
+    "sentence": "叔父は若い頃、考古学者になりたかったそうだ。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、考古学者【こうこがくしゃ】になりたかったそうだ。",
+    "meaning": "I hear my uncle wanted to be an archaeologist when he was young."
+  },
+  {
+    "sentence": "叔母はいつも庭で育てたハーブを使っている。",
+    "sentence_furigana": "叔母【おば】はいつも庭【にわ】で育【そだ】てたハーブを使【つか】っている。",
+    "meaning": "My aunt always uses herbs grown in her garden."
+  },
+  {
+    "sentence": "叔父は古い書斎を改装して書庫にした。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】い書斎【しょさい】を改装【かいそう】して書庫【しょこ】にした。",
+    "meaning": "My uncle renovated his old study into a library."
+  },
+  {
+    "sentence": "叔母は手編みのショールを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手編【てあ】みのショールを作【つく】ってくれた。",
+    "meaning": "My aunt knitted me a shawl."
+  },
+  {
+    "sentence": "叔父は若い頃、天体観測に熱中していた。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、天体観測【てんたいかんそく】に熱中【ねっちゅう】していた。",
+    "meaning": "My uncle was enthusiastic about astronomical observation when he was young."
+  },
+  {
+    "sentence": "叔母はいつも新しい本を読んで知識を深めている。",
+    "sentence_furigana": "叔母【おば】はいつも新【あたら】しい本【ほん】を読【よ】んで知識【ちしき】を深【ふか】めている。",
+    "meaning": "My aunt always deepens her knowledge by reading new books."
+  },
+  {
+    "sentence": "叔父は古いカメラで風景を撮影した。",
+    "sentence_furigana": "叔父【おじ】は古【ふる】いカメラで風景【ふうけい】を撮影【さつえい】した。",
+    "meaning": "My uncle took pictures of the scenery with an old camera."
+  },
+  {
+    "sentence": "叔母は手作りのキャンドルを作ってくれた。",
+    "sentence_furigana": "叔母【おば】は手作【てづく】りのキャンドルを作【つく】ってくれた。",
+    "meaning": "My aunt made me a handmade candle."
+  },
+  {
+    "sentence": "叔父は若い頃、冒険家として世界を回った。",
+    "sentence_furigana": "叔父【おじ】は若【わか】い頃【ころ】、冒険家【ぼうけんか】として世界【せかい】を回【まわ】った。",
+    "meaning": "My uncle traveled the world as an adventurer when he was young."
+  },
+  {
+    "sentence": "叔母はいつも子供たちの話に耳を傾けている。",
+    "sentence_furigana": "叔母【おば】はいつも子供【こども】たちの話【はなし】に耳【みみ】を傾【かたむ】けている。",
+    "meaning": "My aunt always listens to the children's stories."
+  }
+]

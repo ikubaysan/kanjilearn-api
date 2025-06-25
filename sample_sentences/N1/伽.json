@@ -1,0 +1,567 @@
+[
+  {
+    "sentence": "彼女は病気の母の身の回りの世話を熱心にした。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の母【はは】の身【み】の回【まわ】りの世話【せわ】を熱心【ねっしん】にした。",
+    "meaning": "She diligently took care of her sick mother."
+  },
+  {
+    "sentence": "この寺には多くの仏像が安置されている。",
+    "sentence_furigana": "この寺【てら】には多【おお】くの仏像【ぶつぞう】が安置【あんち】されている。",
+    "meaning": "Many Buddhist statues are enshrined in this temple."
+  },
+  {
+    "sentence": "彼は落語の芸を披露する名人だ。",
+    "sentence_furigana": "彼【かれ】は落語【らくご】の芸【げい】を披露【ひろう】する名人【めいじん】だ。",
+    "meaning": "He is a master at performing Rakugo comedy."
+  },
+  {
+    "sentence": "新生児の看護師は、赤ちゃんに優しく接しなければならない。",
+    "sentence_furigana": "新生児【しんせいじ】の看護師【かんごし】は、赤ちゃんに優【やさ】しく接【せっ】しなければならない。",
+    "meaning": "Neonatal nurses must be gentle with babies."
+  },
+  {
+    "sentence": "病人を介護する仕事は大変だがやりがいがある。",
+    "sentence_furigana": "病人【びょうにん】を介護【かいご】する仕事【しごと】は大変【たいへん】だがやりがいがある。",
+    "meaning": "The job of caring for the sick is difficult but rewarding."
+  },
+  {
+    "sentence": "昔から、旅芸人が各地を巡って人を楽しませていた。",
+    "sentence_furigana": "昔【むかし】から、旅芸人【たびげいにん】が各地【かくち】を巡【めぐ】って人【ひと】を楽し【たの】ませていた。",
+    "meaning": "From ancient times, traveling entertainers visited various places to entertain people."
+  },
+  {
+    "sentence": "彼は祖母の介護のために仕事を辞めた。",
+    "sentence_furigana": "彼【かれ】は祖母【そぼ】の介護【かいご】のために仕事【しごと】を辞【や】めた。",
+    "meaning": "He quit his job to take care of his grandmother."
+  },
+  {
+    "sentence": "病院では、患者への丁寧な看護が求められる。",
+    "sentence_furigana": "病院【びょういん】では、患者【かんじゃ】への丁寧【ていねい】な看護【かんご】が求【もと】められる。",
+    "meaning": "In hospitals, careful nursing of patients is required."
+  },
+  {
+    "sentence": "彼女は歌や踊りで観客を魅了した。",
+    "sentence_furigana": "彼女【かのじょ】は歌【うた】や踊【おど】りで観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "She captivated the audience with her singing and dancing."
+  },
+  {
+    "sentence": "高齢者の介護施設が増加している。",
+    "sentence_furigana": "高齢者【こうれいしゃ】の介護施設【かいごしせつ】が増加【ぞうか】している。",
+    "meaning": "The number of care facilities for the elderly is increasing."
+  },
+  {
+    "sentence": "その寺は静寂に包まれ、心が落ち着く。",
+    "sentence_furigana": "その寺【てら】は静寂【せいじゃく】に包【つつ】まれ、心【こころ】が落【お】ち着【つ】く。",
+    "meaning": "The temple is enveloped in silence, bringing peace to the mind."
+  },
+  {
+    "sentence": "彼は、病気の子供たちを看護するボランティア活動をしている。",
+    "sentence_furigana": "彼【かれ】は、病気【びょうき】の子供【こども】たちを看護【かんご】するボランティア活動【かつどう】をしている。",
+    "meaning": "He is doing volunteer work nursing sick children."
+  },
+  {
+    "sentence": "彼女はエンターテイナーとして成功を収めた。",
+    "sentence_furigana": "彼女【かのじょ】はエンターテイナーとして成功【せいこう】を収【おさ】めた。",
+    "meaning": "She achieved success as an entertainer."
+  },
+  {
+    "sentence": "介護保険制度が導入された。",
+    "sentence_furigana": "介護保険制度【かいごほけんせいど】が導入【どうにゅう】された。",
+    "meaning": "The long-term care insurance system was introduced."
+  },
+  {
+    "sentence": "彼は祖父の病室で付き添った。",
+    "sentence_furigana": "彼【かれ】は祖父【そふ】の病室【びょうしつ】で付【つ】き添【そ】った。",
+    "meaning": "He stayed by his grandfather's bedside in the hospital room."
+  },
+  {
+    "sentence": "この寺は歴史的な伽藍を有している。",
+    "sentence_furigana": "この寺【てら】は歴史的【れきしてき】な伽藍【がらん】を有【ゆう】している。",
+    "meaning": "This temple possesses historical temple buildings."
+  },
+  {
+    "sentence": "彼女は、疲れた友人をもてなした。",
+    "sentence_furigana": "彼女【かのじょ】は、疲【つか】れた友人【ゆうじん】をもてなした。",
+    "meaning": "She entertained her tired friend."
+  },
+  {
+    "sentence": "看護学校で専門知識を学んでいる。",
+    "sentence_furigana": "看護学校【かんごがっこう】で専門知識【せんもんちしき】を学【まな】んでいる。",
+    "meaning": "I am learning specialized knowledge at nursing school."
+  },
+  {
+    "sentence": "このエンターテイナーは幅広い世代に人気がある。",
+    "sentence_furigana": "このエンターテイナーは幅広【はばひろ】い世代【せだい】に人気【にんき】がある。",
+    "meaning": "This entertainer is popular with a wide range of generations."
+  },
+  {
+    "sentence": "彼は献身的に両親の介護をした。",
+    "sentence_furigana": "彼【かれ】は献身的【けんしんてき】に両親【りょうしん】の介護【かいご】をした。",
+    "meaning": "He devotedly cared for his parents."
+  },
+  {
+    "sentence": "その寺は特別な儀式を行うために建てられた。",
+    "sentence_furigana": "その寺【てら】は特別【とくべつ】な儀式【ぎしき】を行【おこな】うために建【た】てられた。",
+    "meaning": "That temple was built to perform special ceremonies."
+  },
+  {
+    "sentence": "彼女は病人のそばに付き添った。",
+    "sentence_furigana": "彼女【かのじょ】は病人【びょうにん】のそばに付【つ】き添【そ】った。",
+    "meaning": "She stayed by the side of the sick person."
+  },
+  {
+    "sentence": "この地域の医療介護サービスは充実している。",
+    "sentence_furigana": "この地域【ちいき】の医療介護【いりょうかいご】サービスは充実【じゅうじつ】している。",
+    "meaning": "Medical and nursing care services in this region are substantial."
+  },
+  {
+    "sentence": "彼は有名な旅芸人の一団に加わった。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な旅芸人【たびげいにん】の一団【いちだん】に加【くわ】わった。",
+    "meaning": "He joined a troupe of famous traveling entertainers."
+  },
+  {
+    "sentence": "祖母は自宅で介護サービスを受けている。",
+    "sentence_furigana": "祖母【そぼ】は自宅【じたく】で介護サービス【かいごサービス】を受【う】けている。",
+    "meaning": "My grandmother receives home care services."
+  },
+  {
+    "sentence": "その寺には美しい庭園がある。",
+    "sentence_furigana": "その寺【てら】には美【うつく】しい庭園【ていえん】がある。",
+    "meaning": "That temple has a beautiful garden."
+  },
+  {
+    "sentence": "彼女は長年、高齢者の看護に携わってきた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、高齢者【こうれいしゃ】の看護【かんご】に携【たずさ】わってきた。",
+    "meaning": "She has been involved in nursing the elderly for many years."
+  },
+  {
+    "sentence": "彼はエンターテイメント業界で活躍している。",
+    "sentence_furigana": "彼【かれ】はエンターテイメント業界【ぎょうかい】で活躍【かつやく】している。",
+    "meaning": "He is active in the entertainment industry."
+  },
+  {
+    "sentence": "介護福祉士の資格を取得した。",
+    "sentence_furigana": "介護福祉士【かいごふくしし】の資格【しかく】を取得【しゅとく】した。",
+    "meaning": "I obtained a qualification as a certified care worker."
+  },
+  {
+    "sentence": "彼は入院中の友人を訪ねて付き添った。",
+    "sentence_furigana": "彼【かれ】は入院中【にゅういんちゅう】の友人【ゆうじん】を訪【たず】ねて付【つ】き添【そ】った。",
+    "meaning": "He visited and stayed with his hospitalized friend."
+  },
+  {
+    "sentence": "その寺は国の重要文化財に指定されている。",
+    "sentence_furigana": "その寺【てら】は国【くに】の重要文化財【じゅうようぶんかざい】に指定【してい】されている。",
+    "meaning": "That temple is designated as an important cultural property of the country."
+  },
+  {
+    "sentence": "彼女は常に患者の気持ちに寄り添う看護を心がけている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に患者【かんじゃ】の気持【きも】ちに寄【よ】り添【そ】う看護【かんご】を心掛【こころが】けている。",
+    "meaning": "She always strives to provide nursing that is close to the patient's feelings."
+  },
+  {
+    "sentence": "彼のパフォーマンスは多くの観客を楽しませた。",
+    "sentence_furigana": "彼【かれ】のパフォーマンスは多【おお】くの観客【かんきゃく】を楽し【たの】ませた。",
+    "meaning": "His performance entertained many spectators."
+  },
+  {
+    "sentence": "介護労働者の確保が課題となっている。",
+    "sentence_furigana": "介護労働者【かいごろうどうしゃ】の確保【かくほ】が課題【かだい】となっている。",
+    "meaning": "Securing care workers is a challenge."
+  },
+  {
+    "sentence": "彼は病気の家族の世話をした。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の家族【かぞく】の世話【せわ】をした。",
+    "meaning": "He took care of his sick family member."
+  },
+  {
+    "sentence": "この寺は歴史的な建造物で有名だ。",
+    "sentence_furigana": "この寺【てら】は歴史的【れきしてき】な建造物【けんぞうぶつ】で有名【ゆうめい】だ。",
+    "meaning": "This temple is famous for its historical buildings."
+  },
+  {
+    "sentence": "彼女は入院患者の看護師として働いている。",
+    "sentence_furigana": "彼女【かのじょ】は入院患者【にゅういんかんじゃ】の看護師【かんごし】として働【はたら】いている。",
+    "meaning": "She works as a nurse for hospitalized patients."
+  },
+  {
+    "sentence": "そのエンターテイナーは素晴らしい才能の持ち主だ。",
+    "sentence_furigana": "そのエンターテイナーは素晴【すば】らしい才能【さいのう】の持【も】ち主【ぬし】だ。",
+    "meaning": "That entertainer possesses wonderful talent."
+  },
+  {
+    "sentence": "介護保険の適用範囲が拡大された。",
+    "sentence_furigana": "介護保険【かいごほけん】の適用範囲【てきようはんい】が拡大【かくだい】された。",
+    "meaning": "The scope of application for long-term care insurance has been expanded."
+  },
+  {
+    "sentence": "彼は病気の祖母に付き添った。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の祖母【そぼ】に付【つ】き添【そ】った。",
+    "meaning": "He stayed with his sick grandmother."
+  },
+  {
+    "sentence": "この寺には多くの修行僧がいる。",
+    "sentence_furigana": "この寺【てら】には多【おお】くの修行僧【しゅぎょうそう】がいる。",
+    "meaning": "There are many ascetic monks in this temple."
+  },
+  {
+    "sentence": "彼女は患者の回復を祈りながら看護した。",
+    "sentence_furigana": "彼女【かのじょ】は患者【かんじゃ】の回復【かいふく】を祈【いの】りながら看護【かんご】した。",
+    "meaning": "She nursed while praying for the patient's recovery."
+  },
+  {
+    "sentence": "彼は観客を楽しませるために歌った。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】を楽し【たの】ませるために歌【うた】った。",
+    "meaning": "He sang to entertain the audience."
+  },
+  {
+    "sentence": "介護タクシーのサービスが開始された。",
+    "sentence_furigana": "介護タクシー【かいごタクシー】のサービスが開始【かいし】された。",
+    "meaning": "A care taxi service has been launched."
+  },
+  {
+    "sentence": "彼女は一人暮らしの高齢者の世話をしている。",
+    "sentence_furigana": "彼女【かのじょ】は一人暮【ひとりぐ】らしの高齢者【こうれいしゃ】の世話【せわ】をしている。",
+    "meaning": "She takes care of elderly people living alone."
+  },
+  {
+    "sentence": "この寺は美しい仏像で有名である。",
+    "sentence_furigana": "この寺【てら】は美【うつく】しい仏像【ぶつぞう】で有名【ゆうめい】である。",
+    "meaning": "This temple is famous for its beautiful Buddhist statues."
+  },
+  {
+    "sentence": "彼は献身的な看護師として知られている。",
+    "sentence_furigana": "彼【かれ】は献身的【けんしんてき】な看護師【かんごし】として知【し】られている。",
+    "meaning": "He is known as a dedicated nurse."
+  },
+  {
+    "sentence": "エンターテイメント施設が新しくオープンした。",
+    "sentence_furigana": "エンターテイメント施設【しせつ】が新【あたら】しくオープンした。",
+    "meaning": "An entertainment facility has newly opened."
+  },
+  {
+    "sentence": "介護に関する相談窓口が設けられた。",
+    "sentence_furigana": "介護【かいご】に関【かん】する相談窓口【そうだんまどぐち】が設【もう】けられた。",
+    "meaning": "A consultation desk regarding caregiving has been established."
+  },
+  {
+    "sentence": "彼女は入院している友人に付き添うために病院へ行った。",
+    "sentence_furigana": "彼女【かのじょ】は入院【にゅういん】している友人【ゆうじん】に付【つ】き添【そ】うために病院【びょういん】へ行【い】った。",
+    "meaning": "She went to the hospital to stay with her hospitalized friend."
+  },
+  {
+    "sentence": "その寺には古い経典が保管されている。",
+    "sentence_furigana": "その寺【てら】には古【ふる】い経典【きょうてん】が保管【ほかん】されている。",
+    "meaning": "Old scriptures are kept in that temple."
+  },
+  {
+    "sentence": "彼は病弱な妹の世話をした。",
+    "sentence_furigana": "彼【かれ】は病弱【びょうじゃく】な妹【いもうと】の世話【せわ】をした。",
+    "meaning": "He took care of his sickly younger sister."
+  },
+  {
+    "sentence": "看護学生は実習で多くのことを学んだ。",
+    "sentence_furigana": "看護学生【かんごがくせい】は実習【じっしゅう】で多【おお】くのこと【こと】を学【まな】んだ。",
+    "meaning": "Nursing students learned many things during their practical training."
+  },
+  {
+    "sentence": "その旅芸人はユーモアあふれる芸で観客を沸かせた。",
+    "sentence_furigana": "その旅芸人【たびげいにん】はユーモアあふれる芸【げい】で観客【かんきゃく】を沸【わ】かせた。",
+    "meaning": "The traveling entertainer excited the audience with his humorous performance."
+  },
+  {
+    "sentence": "介護保険料の見直しが行われた。",
+    "sentence_furigana": "介護保険料【かいごほけんりょう】の見直【みなお】しが行【おこな】われた。",
+    "meaning": "A review of long-term care insurance premiums was conducted."
+  },
+  {
+    "sentence": "彼女は常に患者の心のケアを重視している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に患者【かんじゃ】の心【こころ】のケアを重視【じゅうし】している。",
+    "meaning": "She always emphasizes mental care for patients."
+  },
+  {
+    "sentence": "彼は病人を励ますために歌を歌った。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】を励【はげ】ますために歌【うた】を歌【うた】った。",
+    "meaning": "He sang songs to encourage the sick."
+  },
+  {
+    "sentence": "その寺は静かで落ち着いた雰囲気を持っている。",
+    "sentence_furigana": "その寺【てら】は静【しず】かで落【お】ち着【つ】いた雰囲気【ふんいき】を持【も】っている。",
+    "meaning": "That temple has a quiet and calming atmosphere."
+  },
+  {
+    "sentence": "彼女は介護の専門家としての知識を深めている。",
+    "sentence_furigana": "彼女【かのじょ】は介護【かいご】の専門家【せんもんか】としての知識【ちしき】を深【ふか】めている。",
+    "meaning": "She is deepening her knowledge as a caregiving specialist."
+  },
+  {
+    "sentence": "彼は子供たちを楽しませるエンターテイナーだ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちを楽し【たの】ませるエンターテイナーだ。",
+    "meaning": "He is an entertainer who delights children."
+  },
+  {
+    "sentence": "介護記録を正確に記入する必要がある。",
+    "sentence_furigana": "介護記録【かいごきろく】を正確【せいかく】に記入【きにゅう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to accurately fill out the care records."
+  },
+  {
+    "sentence": "彼女は病気の母のために看護師になった。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の母【はは】のために看護師【かんごし】になった。",
+    "meaning": "She became a nurse for her sick mother."
+  },
+  {
+    "sentence": "彼は長い間、患者に付き添った。",
+    "sentence_furigana": "彼【かれ】は長【なが】い間【あいだ】、患者【かんじゃ】に付【つ】き添【そ】った。",
+    "meaning": "He stayed with the patient for a long time."
+  },
+  {
+    "sentence": "この寺は歴史的に重要な場所である。",
+    "sentence_furigana": "この寺【てら】は歴史的【れきしてき】に重要【じゅうよう】な場所【ばしょ】である。",
+    "meaning": "This temple is a historically important place."
+  },
+  {
+    "sentence": "彼女は常に患者さんの気持ちに寄り添い、看護している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に患者【かんじゃ】さん の気持【きも】ちに寄【よ】り添【そ】い、看護【かんご】している。",
+    "meaning": "She always stays close to the patients' feelings and nurses them."
+  },
+  {
+    "sentence": "彼は様々な芸を披露できるエンターテイナーだ。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な芸【げい】を披露【ひろう】できるエンターテイナーだ。",
+    "meaning": "He is an entertainer who can perform various acts."
+  },
+  {
+    "sentence": "介護サービス利用者の増加に対応する必要がある。",
+    "sentence_furigana": "介護サービス利用者【かいごサービスりようしゃ】の増加【ぞうか】に対応【たいおう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to respond to the increase in users of care services."
+  },
+  {
+    "sentence": "彼女は病気で寝たきりの父親の世話をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】で寝【ね】たきり の父親【ちちおや】の世話【せわ】をしていた。",
+    "meaning": "She was taking care of her bedridden father due to illness."
+  },
+  {
+    "sentence": "その寺は静謐な雰囲気に満ちている。",
+    "sentence_furigana": "その寺【てら】は静謐【せいひつ】な雰囲気【ふんいき】に満【み】ちている。",
+    "meaning": "That temple is filled with a serene atmosphere."
+  },
+  {
+    "sentence": "彼は経験豊富な看護師として活躍している。",
+    "sentence_furigana": "彼【かれ】は経験豊富【けいけんほうふ】な看護師【かんごし】として活躍【かつやく】している。",
+    "meaning": "He is active as an experienced nurse."
+  },
+  {
+    "sentence": "彼女は観客を楽しませるために舞台に立った。",
+    "sentence_furigana": "彼女【かのじょ】は観客【かんきゃく】を楽し【たの】ませるために舞台【ぶたい】に立【た】った。",
+    "meaning": "She stood on stage to entertain the audience."
+  },
+  {
+    "sentence": "介護保険制度の見直しが議論されている。",
+    "sentence_furigana": "介護保険制度【かいごほけんせいど】の見直【みなお】しが議論【ぎろん】されている。",
+    "meaning": "The review of the long-term care insurance system is being discussed."
+  },
+  {
+    "sentence": "彼は病気の友人を見舞い、付き添った。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の友人【ゆうじん】を見舞【みま】い、付【つ】き添【そ】った。",
+    "meaning": "He visited and stayed with his sick friend."
+  },
+  {
+    "sentence": "この寺には多くの宝物が収蔵されている。",
+    "sentence_furigana": "この寺【てら】には多【おお】くの宝物【たからもの】が収蔵【しゅうぞう】されている。",
+    "meaning": "Many treasures are stored in this temple."
+  },
+  {
+    "sentence": "彼女は常に患者の立場に立って看護を実践している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に患者【かんじゃ】の立場【たちば】に立【た】って看護【かんご】を実践【じっせん】している。",
+    "meaning": "She always practices nursing from the patient's perspective."
+  },
+  {
+    "sentence": "彼は観客を魅了するパフォーマンスを見せた。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】を魅了【みりょう】するパフォーマンスを見【み】せた。",
+    "meaning": "He showed a performance that fascinated the audience."
+  },
+  {
+    "sentence": "介護士の育成が急務となっている。",
+    "sentence_furigana": "介護士【かいごし】の育成【いくせい】が急務【きゅうむ】となっている。",
+    "meaning": "The training of care workers has become an urgent task."
+  },
+  {
+    "sentence": "彼女は一人暮らしの高齢者を介護している。",
+    "sentence_furigana": "彼女【かのじょ】は一人暮【ひとりぐ】らしの高齢者【こうれいしゃ】を介護【かいご】している。",
+    "meaning": "She is taking care of an elderly person living alone."
+  },
+  {
+    "sentence": "この寺は美しい庭園と静かな環境で知られています。",
+    "sentence_furigana": "この寺【てら】は美【うつく】しい庭園【ていえん】と静【しず】かな環境【かんきょう】で知【し】られています。",
+    "meaning": "This temple is known for its beautiful garden and quiet environment."
+  },
+  {
+    "sentence": "彼は病気の子供たちに看護師として接した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の子供【こども】たちに看護師【かんごし】として接【せっ】した。",
+    "meaning": "He interacted with sick children as a nurse."
+  },
+  {
+    "sentence": "エンターテイナーとして成功するには努力が必要だ。",
+    "sentence_furigana": "エンターテイナーとして成功【せいこう】するには努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "Success as an entertainer requires effort."
+  },
+  {
+    "sentence": "介護保険の適用対象者が増えている。",
+    "sentence_furigana": "介護保険【かいごほけん】の適用対象者【てきようたいしょうしゃ】が増【ふ】えている。",
+    "meaning": "The number of eligible recipients for long-term care insurance is increasing."
+  },
+  {
+    "sentence": "彼女は入院患者の世話をしながら看護技術を磨いた。",
+    "sentence_furigana": "彼女【かのじょ】は入院患者【にゅういんかんじゃ】の世話【せわ】をしながら看護技術【かんごぎじゅつ】を磨【みが】いた。",
+    "meaning": "She honed her nursing skills while taking care of hospitalized patients."
+  },
+  {
+    "sentence": "彼は友人に付き添い、励まし続けた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】に付【つ】き添【そ】い、励【はげ】まし続【つづ】けた。",
+    "meaning": "He stayed with his friend and continued to encourage him."
+  },
+  {
+    "sentence": "その寺の創建は古く、歴史的に価値がある。",
+    "sentence_furigana": "その寺【てら】の創建【そうけん】は古【ふる】く、歴史的【れきしてき】に価値【かち】がある。",
+    "meaning": "The founding of that temple is old and historically valuable."
+  },
+  {
+    "sentence": "彼女は常に患者の声に耳を傾け、看護している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に患者【かんじゃ】の声【こえ】に耳【みみ】を傾【かたむ】け、看護【かんご】している。",
+    "meaning": "She always listens to patients' voices and provides nursing care."
+  },
+  {
+    "sentence": "彼のパフォーマンスは多くの観客に感動を与えた。",
+    "sentence_furigana": "彼【かれ】のパフォーマンスは多【おお】くの観客【かんきゃく】に感動【かんどう】を与【あた】えた。",
+    "meaning": "His performance moved many spectators."
+  },
+  {
+    "sentence": "介護保険制度の持続可能性が問われている。",
+    "sentence_furigana": "介護保険制度【かいごほけんせいど】の持続可能性【じぞくかのうせい】が問【と】われている。",
+    "meaning": "The sustainability of the long-term care insurance system is being questioned."
+  },
+  {
+    "sentence": "彼女は病気の子供に付き添い、看病した。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の子供【こども】に付【つ】き添【そ】い、看病【かんびょう】した。",
+    "meaning": "She stayed with and nursed the sick child."
+  },
+  {
+    "sentence": "彼は様々なイベントでエンターテイナーとして活躍している。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】なイベントでエンターテイナーとして活躍【かつやく】している。",
+    "meaning": "He is active as an entertainer at various events."
+  },
+  {
+    "sentence": "介護サービスの種類が増えている。",
+    "sentence_furigana": "介護サービス【かいごサービス】の種類【しゅるい】が増【ふ】えている。",
+    "meaning": "The types of care services are increasing."
+  },
+  {
+    "sentence": "彼女は病気の母のために看護師の資格を取った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の母【はは】のために看護師【かんごし】の資格【しかく】を取【と】った。",
+    "meaning": "She obtained a nursing license for her sick mother."
+  },
+  {
+    "sentence": "彼は病人や高齢者の世話をするボランティアをしている。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】や高齢者【こうれいしゃ】の世話【せわ】をするボランティアをしている。",
+    "meaning": "He volunteers to care for sick people and the elderly."
+  },
+  {
+    "sentence": "その寺は多くの巡礼者で賑わっている。",
+    "sentence_furigana": "その寺【てら】は多【おお】くの巡礼者【じゅんれいしゃ】で賑【にぎ】わっている。",
+    "meaning": "That temple is bustling with many pilgrims."
+  },
+  {
+    "sentence": "彼女は患者の安全を最優先に考え、看護している。",
+    "sentence_furigana": "彼女【かのじょ】は患者【かんじゃ】の安全【あんぜん】を最優先【さいゆうせん】に考【かんが】え、看護【かんご】している。",
+    "meaning": "She prioritizes patient safety in her nursing care."
+  },
+  {
+    "sentence": "彼は観客を楽しませるために様々な芸を披露した。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】を楽し【たの】ませるために様々【さまざま】な芸【げい】を披露【ひろう】した。",
+    "meaning": "He performed various acts to entertain the audience."
+  },
+  {
+    "sentence": "介護ロボットの開発が進んでいる。",
+    "sentence_furigana": "介護ロボット【かいごロボット】の開発【かいはつ】が進【すす】んでいる。",
+    "meaning": "The development of care robots is progressing."
+  },
+  {
+    "sentence": "彼女は病気の祖母の介護をしながら大学に通った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の祖母【そぼ】の介護【かいご】をしながら大学【だいがく】に通【かよ】った。",
+    "meaning": "She attended university while caring for her sick grandmother."
+  },
+  {
+    "sentence": "彼は病人に付き添い、世話をした。",
+    "sentence_furigana": "彼【かれ】は病人【びょうにん】に付【つ】き添【そ】い、世話【せわ】をした。",
+    "meaning": "He stayed with and cared for the sick person."
+  },
+  {
+    "sentence": "この寺は歴史的な建造物が数多く残されている。",
+    "sentence_furigana": "この寺【てら】は歴史的【れきしてき】な建造物【けんぞうぶつ】が数多【かずおお】く残【のこ】されている。",
+    "meaning": "Many historical buildings remain in this temple."
+  },
+  {
+    "sentence": "彼女は患者さんの回復を願い、看護のプロフェッショナルとして努めている。",
+    "sentence_furigana": "彼女【かのじょ】は患者【かんじゃ】さんの回復【かいふく】を願【ねが】い、看護【かんご】のプロフェッショナルとして努【つと】めている。",
+    "meaning": "She wishes for the patient's recovery and strives as a nursing professional."
+  },
+  {
+    "sentence": "そのエンターテイナーは観客の心を掴むのが上手い。",
+    "sentence_furigana": "そのエンターテイナーは観客【かんきゃく】の心【こころ】を掴【つか】むのが上手【うま】い。",
+    "meaning": "That entertainer is good at capturing the audience's hearts."
+  },
+  {
+    "sentence": "介護職の待遇改善が求められている。",
+    "sentence_furigana": "介護職【かいごしょく】の待遇改善【たいぐうかいぜん】が求【もと】められている。",
+    "meaning": "Improvement of working conditions for care workers is needed."
+  },
+  {
+    "sentence": "彼女は病気の妹のそばに付き添った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の妹【いもうと】のそばに付【つ】き添【そ】った。",
+    "meaning": "She stayed by her sick younger sister's side."
+  },
+  {
+    "sentence": "彼は病気の親の世話をした。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の親【おや】の世話【せわ】をした。",
+    "meaning": "He took care of his sick parent."
+  },
+  {
+    "sentence": "この寺は美しい仏像を多く所蔵している。",
+    "sentence_furigana": "この寺【てら】は美【うつく】しい仏像【ぶつぞう】を多【おお】く所蔵【しょぞう】している。",
+    "meaning": "This temple houses many beautiful Buddhist statues."
+  },
+  {
+    "sentence": "彼女は熱心に患者の看護をしている。",
+    "sentence_furigana": "彼女【かのじょ】は熱心【ねっしん】に患者【かんじゃ】の看護【かんご】をしている。",
+    "meaning": "She is diligently nursing the patient."
+  },
+  {
+    "sentence": "彼は観客を楽しませるために歌い、踊った。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】を楽し【たの】ませるために歌【うた】い、踊【おど】った。",
+    "meaning": "He sang and danced to entertain the audience."
+  },
+  {
+    "sentence": "介護施設で働く人々の負担が大きい。",
+    "sentence_furigana": "介護施設【かいごしせつ】で働【はたら】く人々【ひとびと】の負担【ふたん】が大【おお】きい。",
+    "meaning": "The burden on people working in care facilities is great."
+  },
+  {
+    "sentence": "彼女は病人の世話をするボランティア活動に参加した。",
+    "sentence_furigana": "彼女【かのじょ】は病人【びょうにん】の世話【せわ】をするボランティア活動【かつどう】に参加【さんか】した。",
+    "meaning": "She participated in volunteer activities to care for the sick."
+  },
+  {
+    "sentence": "彼は病気の友人に付き添い、励ました。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の友人【ゆうじん】に付【つ】き添【そ】い、励【はげ】ました。",
+    "meaning": "He stayed with and encouraged his sick friend."
+  },
+  {
+    "sentence": "その寺は長い歴史を持ち、多くの文化財を保有している。",
+    "sentence_furigana": "その寺【てら】は長【なが】い歴史【れきし】を持【も】ち、多【おお】くの文化財【ぶんかざい】を保有【ほゆう】している。",
+    "meaning": "That temple has a long history and possesses many cultural assets."
+  },
+  {
+    "sentence": "彼女は患者さんの痛みを和らげるよう、懸命に看護している。",
+    "sentence_furigana": "彼女【かのじょ】は患者【かんじゃ】さんの痛【いた】みを和【やわ】らげるよう、懸命【けんめい】に看護【かんご】している。",
+    "meaning": "She is desperately nursing to alleviate the patient's pain."
+  }
+]

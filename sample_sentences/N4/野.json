@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼は広い野原を駆け回った。",
+    "sentence_furigana": "彼【かれ】は広【ひろ】い野【の】原【はら】を駆【か】け回【まわ】った。",
+    "meaning": "He ran around the wide field."
+  },
+  {
+    "sentence": "この辺りはまだ田舎の野が残っている。",
+    "sentence_furigana": "この辺【あた】りはまだ田舎【いなか】の野【の】が残【のこ】っている。",
+    "meaning": "This area still has remnants of rural fields."
+  },
+  {
+    "sentence": "野生の動物は自然の野で暮らす。",
+    "sentence_furigana": "野生【やせい】の動物【どうぶつ】は自然【しぜん】の野【の】で暮【く】らす。",
+    "meaning": "Wild animals live in their natural habitat."
+  },
+  {
+    "sentence": "サッカーの試合が野外で行われた。",
+    "sentence_furigana": "サッカーの試合【しあい】が野外【やがい】で行【おこな】われた。",
+    "meaning": "The soccer match was held outdoors."
+  },
+  {
+    "sentence": "彼女は野鳥の観察に夢中だ。",
+    "sentence_furigana": "彼女【かのじょ】は野鳥【やちょう】の観察【かんさつ】に夢中【むちゅう】だ。",
+    "meaning": "She is absorbed in bird watching."
+  },
+  {
+    "sentence": "野党は政府の政策に反対した。",
+    "sentence_furigana": "野党【やとう】は政府【せいふ】の政策【せいさく】に反対【はんたい】した。",
+    "meaning": "The opposition party opposed the government's policy."
+  },
+  {
+    "sentence": "野良猫が路地を歩いていた。",
+    "sentence_furigana": "野良猫【のらねこ】が路地【ろじ】を歩【ある】いていた。",
+    "meaning": "A stray cat was walking down the alley."
+  },
+  {
+    "sentence": "野蛮な行為は許されない。",
+    "sentence_furigana": "野蛮【やばん】な行為【こうい】は許【ゆる】されない。",
+    "meaning": "Savage acts are not tolerated."
+  },
+  {
+    "sentence": "彼は野心的な計画を立てている。",
+    "sentence_furigana": "彼【かれ】は野心【やしん】的【てき】な計画【けいかく】を立【た】てている。",
+    "meaning": "He is making ambitious plans."
+  },
+  {
+    "sentence": "野戦病院が設置された。",
+    "sentence_furigana": "野戦病院【やせんびょういん】が設置【せっち】された。",
+    "meaning": "A field hospital was established."
+  },
+  {
+    "sentence": "野茂投手はメジャーリーグで活躍した。",
+    "sentence_furigana": "野茂【のも】投手【とうしゅ】はメジャーリーグで活躍【かつやく】した。",
+    "meaning": "Pitcher Nomo was active in Major League Baseball."
+  },
+  {
+    "sentence": "野外劇場でコンサートが開かれた。",
+    "sentence_furigana": "野外劇場【やがいげきじょう】でコンサートが開【ひら】かれた。",
+    "meaning": "A concert was held at the outdoor amphitheater."
+  },
+  {
+    "sentence": "野戦演習が行われる予定だ。",
+    "sentence_furigana": "野戦演習【やせんえんしゅう】が行【おこな】われる予定【よてい】だ。",
+    "meaning": "Field exercises are scheduled to take place."
+  },
+  {
+    "sentence": "彼女は野に咲く花を摘んだ。",
+    "sentence_furigana": "彼女【かのじょ】は野【の】に咲【さ】く花【はな】を摘【つ】んだ。",
+    "meaning": "She picked flowers blooming in the field."
+  },
+  {
+    "sentence": "野鳥のさえずりが聞こえる。",
+    "sentence_furigana": "野鳥【やちょう】のさえずりが聞【き】こえる。",
+    "meaning": "The chirping of wild birds can be heard."
+  },
+  {
+    "sentence": "野良犬がゴミ箱を漁っていた。",
+    "sentence_furigana": "野良犬【のらいぬ】がゴミ箱【ごみばこ】を漁【あさ】っていた。",
+    "meaning": "A stray dog was rummaging through the trash can."
+  },
+  {
+    "sentence": "野外彫刻展が開催された。",
+    "sentence_furigana": "野外彫刻展【やがいちょうこくてん】が開催【かいさい】された。",
+    "meaning": "An outdoor sculpture exhibition was held."
+  },
+  {
+    "sentence": "野望を抱き、彼は挑戦を続けた。",
+    "sentence_furigana": "野望【やぼう】を抱【いだ】き、彼【かれ】は挑戦【ちょうせん】を続【つづ】けた。",
+    "meaning": "Harboring ambitions, he continued to challenge himself."
+  },
+  {
+    "sentence": "野戦服を着て、兵士は訓練に励んだ。",
+    "sentence_furigana": "野戦服【やせんふく】を着【き】て、兵士【へいし】は訓練【くんれん】に励【はげ】んだ。",
+    "meaning": "Wearing field uniforms, the soldiers trained hard."
+  },
+  {
+    "sentence": "野党委は新しい方針を決定した。",
+    "sentence_furigana": "野党委【やとうい】は新【あたら】しい方針【ほうしん】を決定【けってい】した。",
+    "meaning": "The opposition party decided on a new policy."
+  },
+  {
+    "sentence": "野外でのバーベキューは楽しい。",
+    "sentence_furigana": "野外【やがい】でのバーベキューは楽【たの】しい。",
+    "meaning": "Barbecues outdoors are fun."
+  },
+  {
+    "sentence": "野良仕事は体力を要する。",
+    "sentence_furigana": "野良仕事【のらしごと】は体力【たいりょく】を要【よう】する。",
+    "meaning": "Farm work requires physical strength."
+  },
+  {
+    "sentence": "彼は野次を飛ばした。",
+    "sentence_furigana": "彼【かれ】は野次【やじ】を飛ば【とば】した。",
+    "meaning": "He shouted heckles."
+  },
+  {
+    "sentence": "野戦指揮官は冷静に指示を出した。",
+    "sentence_furigana": "野戦指揮官【やせんしきかん】は冷静【れいせい】に指示【しじ】を出【だ】した。",
+    "meaning": "The field commander calmly gave instructions."
+  },
+  {
+    "sentence": "彼女の野性は抑えきれなかった。",
+    "sentence_furigana": "彼女【かのじょ】の野性【やせい】は抑【おさ】えきれなかった。",
+    "meaning": "Her wild nature could not be suppressed."
+  },
+  {
+    "sentence": "野村監督はチームを勝利に導いた。",
+    "sentence_furigana": "野村【のむら】監督【かんとく】はチームを勝利【しょうり】に導【みちび】いた。",
+    "meaning": "Manager Nomura led the team to victory."
+  },
+  {
+    "sentence": "野外ライブは多くの観客を集めた。",
+    "sentence_furigana": "野外ライブ【やがいライブ】は多【おお】くの観客【かんきゃく】を集【あつ】めた。",
+    "meaning": "The outdoor live concert attracted many spectators."
+  },
+  {
+    "sentence": "野鳥の写真を撮るのが趣味です。",
+    "sentence_furigana": "野鳥【やちょう】の写真【しゃしん】を撮【と】るのが趣味【しゅみ】です。",
+    "meaning": "My hobby is taking pictures of wild birds."
+  },
+  {
+    "sentence": "野良猫が日向で眠っていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で眠【ねむ】っていた。",
+    "meaning": "A stray cat was sleeping in the sun."
+  },
+  {
+    "sentence": "野党は連立政権に反対する姿勢を示した。",
+    "sentence_furigana": "野党【やとう】は連立政権【れんりつせいけん】に反対【はんたい】する姿勢【しせい】を示【しめ】した。",
+    "meaning": "The opposition party showed its opposition to the coalition government."
+  },
+  {
+    "sentence": "野外調理は楽しい経験だった。",
+    "sentence_furigana": "野外調理【やがいちょうり】は楽【たの】しい経験【けいけん】だった。",
+    "meaning": "Outdoor cooking was an enjoyable experience."
+  },
+  {
+    "sentence": "野戦砲が轟音を立てた。",
+    "sentence_furigana": "野戦砲【やせんほう】が轟音【ごうおん】を立【た】てた。",
+    "meaning": "Field artillery roared."
+  },
+  {
+    "sentence": "野良犬に餌を与えた。",
+    "sentence_furigana": "野良犬【のらいぬ】に餌【えさ】をを与【あた】えた。",
+    "meaning": "I gave food to a stray dog."
+  },
+  {
+    "sentence": "彼の野心はどこまで続くのだろうか。",
+    "sentence_furigana": "彼【かれ】の野心【やしん】はどこまで続【つづ】くのだろうか。",
+    "meaning": "I wonder how far his ambition will take him."
+  },
+  {
+    "sentence": "野の花が風に揺れていた。",
+    "sentence_furigana": "野【の】の花【はな】が風【かぜ】に揺【ゆ】れていた。",
+    "meaning": "Wildflowers were swaying in the wind."
+  },
+  {
+    "sentence": "野外映画祭が開催されます。",
+    "sentence_furigana": "野外映画祭【やがいえいがさい】が開催【かいさい】されます。",
+    "meaning": "An outdoor film festival will be held."
+  },
+  {
+    "sentence": "野良猫が窓辺で日向ぼっこをしていた。",
+    "sentence_furigana": "野良猫【のらねこ】が窓辺【まどべ】で日向【ひなた】ぼっこをしていた。",
+    "meaning": "A stray cat was basking in the sun by the window."
+  },
+  {
+    "sentence": "野党は新法案の審議を拒否した。",
+    "sentence_furigana": "野党【やとう】は新法案【しんほうあん】の審議【しんぎ】を拒否【きょひ】した。",
+    "meaning": "The opposition party refused to deliberate on the new bill."
+  },
+  {
+    "sentence": "野戦病院で負傷者を治療した。",
+    "sentence_furigana": "野戦病院【やせんびょういん】で負傷者【ふしょうしゃ】を治療【ちりょう】した。",
+    "meaning": "The injured were treated at the field hospital."
+  },
+  {
+    "sentence": "野鳥の観察記録をまとめた。",
+    "sentence_furigana": "野鳥【やちょう】の観察記録【かんさつきろく】をまとめた。",
+    "meaning": "I compiled the observation records of wild birds."
+  },
+  {
+    "sentence": "野良仕事は早朝から始まる。",
+    "sentence_furigana": "野良仕事【のらしごと】は早朝【そうちょう】から始【はじ】まる。",
+    "meaning": "Farm work starts early in the morning."
+  },
+  {
+    "sentence": "彼女は野性的な魅力を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は野性的【やせいてき】な魅力【みりょく】を持【も】っている。",
+    "meaning": "She has a wild charm."
+  },
+  {
+    "sentence": "野戦演習の準備が進んでいる。",
+    "sentence_furigana": "野戦演習【やせんえんしゅう】の準備【じゅんび】が進【すす】んでいる。",
+    "meaning": "Preparations for the field exercises are underway."
+  },
+  {
+    "sentence": "野良猫が庭で遊んでいた。",
+    "sentence_furigana": "野良猫【のらねこ】が庭【にわ】で遊【あそ】んでいた。",
+    "meaning": "A stray cat was playing in the garden."
+  },
+  {
+    "sentence": "野党は内閣不信任決議案を提出した。",
+    "sentence_furigana": "野党【やとう】は内閣不信任決議案【ないかくふしんにんけつぎあん】を提出【ていしゅつ】した。",
+    "meaning": "The opposition party submitted a no-confidence motion against the cabinet."
+  },
+  {
+    "sentence": "野原にタンポポが咲いていた。",
+    "sentence_furigana": "野原【のはら】にタンポポが咲【さ】いていた。",
+    "meaning": "Dandelions were blooming in the field."
+  },
+  {
+    "sentence": "野戦病院の医療スタッフは疲弊していた。",
+    "sentence_furigana": "野戦病院【やせんびょういん】の医療【いりょう】スタッフは疲弊【ひへい】していた。",
+    "meaning": "The medical staff at the field hospital were exhausted."
+  },
+  {
+    "sentence": "野鳥の保護活動が重要視されている。",
+    "sentence_furigana": "野鳥【やちょう】の保護活動【ほごかつどう】が重要視【じゅうようし】されている。",
+    "meaning": "The protection of wild birds is being emphasized."
+  },
+  {
+    "sentence": "野良猫が日向で丸くなっていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で丸【まる】くなっていた。",
+    "meaning": "A stray cat was curled up in the sun."
+  },
+  {
+    "sentence": "野蛮な言葉遣いは改めるべきだ。",
+    "sentence_furigana": "野蛮【やばん】な言葉遣【ことばづか】いは改【あらた】めるべきだ。",
+    "meaning": "One should change their uncivilized way of speaking."
+  },
+  {
+    "sentence": "野党は政府の姿勢を厳しく批判した。",
+    "sentence_furigana": "野党【やとう】は政府【せいふ】の姿勢【しせい】を厳【きび】しく批判【ひはん】した。",
+    "meaning": "The opposition party severely criticized the government's stance."
+  },
+  {
+    "sentence": "野外での勉強は集中できない。",
+    "sentence_furigana": "野外【やがい】での勉強【べんきょう】は集中【しゅうちゅう】できない。",
+    "meaning": "I can't concentrate on studying outdoors."
+  },
+  {
+    "sentence": "野良仕事で汗を流した。",
+    "sentence_furigana": "野良仕事【のらしごと】で汗【あせ】を流【なが】した。",
+    "meaning": "I sweated while doing farm work."
+  },
+  {
+    "sentence": "彼は野心的な起業家だ。",
+    "sentence_furigana": "彼【かれ】は野心的【やしんてき】な起業家【きぎょうか】だ。",
+    "meaning": "He is an ambitious entrepreneur."
+  },
+  {
+    "sentence": "野戦病院には多くの負傷者が運び込まれた。",
+    "sentence_furigana": "野戦病院【やせんびょういん】には多【おお】くの負傷者【ふしょうしゃ】が運【はこ】び込【こ】まれた。",
+    "meaning": "Many injured were brought into the field hospital."
+  },
+  {
+    "sentence": "野良猫が日向で毛づくろいをしていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で毛【け】づくろいをしていた。",
+    "meaning": "A stray cat was grooming itself in the sun."
+  },
+  {
+    "sentence": "野党は選挙での勝利を目指している。",
+    "sentence_furigana": "野党【やとう】は選挙【せんきょ】での勝利【しょうり】を目指【めざ】している。",
+    "meaning": "The opposition party aims to win the election."
+  },
+  {
+    "sentence": "野原に小川が流れていた。",
+    "sentence_furigana": "野原【のはら】に小川【おがわ】が流【なが】れていた。",
+    "meaning": "A stream flowed through the field."
+  },
+  {
+    "sentence": "野鳥の鳴き声が森に響いていた。",
+    "sentence_furigana": "野鳥【やちょう】の鳴【な】き声【ごえ】が森【もり】に響【ひび】いていた。",
+    "meaning": "The chirping of wild birds echoed in the forest."
+  },
+  {
+    "sentence": "野良犬が公園を徘徊していた。",
+    "sentence_furigana": "野良犬【のらいぬ】が公園【こうえん】を徘徊【はいかい】していた。",
+    "meaning": "A stray dog was wandering around the park."
+  },
+  {
+    "sentence": "彼の野望は国家を揺るがすものだった。",
+    "sentence_furigana": "彼【かれ】の野望【やぼう】は国家【こっか】を揺【ゆ】るがすものだった。",
+    "meaning": "His ambition shook the nation."
+  },
+  {
+    "sentence": "野外フェスティバルは盛況のうちに幕を閉じた。",
+    "sentence_furigana": "野外フェスティバル【やがいフェスティバル】は盛況【せいきょう】のうちに幕【まく】を閉【と】じた。",
+    "meaning": "The outdoor festival concluded successfully."
+  },
+  {
+    "sentence": "野党は新たな政策を発表した。",
+    "sentence_furigana": "野党【やとう】は新【あらた】な政策【せいさく】を発表【はっぴょう】した。",
+    "meaning": "The opposition party announced a new policy."
+  },
+  {
+    "sentence": "野戦病院での医療活動は過酷だった。",
+    "sentence_furigana": "野戦病院【やせんびょういん】での医療活動【いりょうかつどう】は過酷【かこく】だった。",
+    "meaning": "Medical activities at the field hospital were harsh."
+  },
+  {
+    "sentence": "野良猫が日向でくつろいでいた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】でくつろいでいた。",
+    "meaning": "A stray cat was relaxing in the sun."
+  },
+  {
+    "sentence": "野鳥の保護区が設けられた。",
+    "sentence_furigana": "野鳥【やちょう】の保護区【ほごく】が設【もう】けられた。",
+    "meaning": "A sanctuary for wild birds was established."
+  },
+  {
+    "sentence": "野原一面に広がる花々。",
+    "sentence_furigana": "野原【のはら】一面【いちめん】に広【ひろ】がる花々【はなばな】。",
+    "meaning": "Flowers spreading across the entire field."
+  },
+  {
+    "sentence": "野党は国会で政府を追及した。",
+    "sentence_furigana": "野党【やとう】は国会【こっかい】で政府【せいふ】を追及【ついきゅう】した。",
+    "meaning": "The opposition party pursued the government in the Diet."
+  },
+  {
+    "sentence": "野戦指揮所が設置された。",
+    "sentence_furigana": "野戦指揮所【やせんしきじょ】が設置【せっち】された。",
+    "meaning": "A field command post was established."
+  },
+  {
+    "sentence": "彼は野心と現実の間で揺れていた。",
+    "sentence_furigana": "彼【かれ】は野心【やしん】と現実【げんじつ】の間【あいだ】で揺【ゆ】れていた。",
+    "meaning": "He wavered between ambition and reality."
+  },
+  {
+    "sentence": "野良猫が日向で毛糸と戯れていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で毛糸【けいと】と戯【たわむ】れていた。",
+    "meaning": "A stray cat was playing with yarn in the sun."
+  },
+  {
+    "sentence": "野外教育は子供たちの成長に良い影響を与える。",
+    "sentence_furigana": "野外教育【やがいく】は子供【こども】たちの成長【せいちょう】に良【よ】い影響【えいきょう】を与【あた】える。",
+    "meaning": "Outdoor education has a good impact on children's growth."
+  },
+  {
+    "sentence": "野党は政府の経済政策に異議を唱えた。",
+    "sentence_furigana": "野党【やとう】は政府【せいふ】の経済政策【けいざいせいさく】に異議【いぎ】を唱【とな】えた。",
+    "meaning": "The opposition party raised objections to the government's economic policy."
+  },
+  {
+    "sentence": "野戦病院の活動は緊急事態宣言により拡大された。",
+    "sentence_furigana": "野戦病院【やせんびょういん】の活動【かつどう】は緊急事態宣言【きんきゅうじたいせんげん】により拡大【かくだい】された。",
+    "meaning": "The activities of the field hospital were expanded due to the declaration of emergency."
+  },
+  {
+    "sentence": "野鳥の食性について研究している。",
+    "sentence_furigana": "野鳥【やちょう】の食性【しょくせい】について研究【けんきゅう】している。",
+    "meaning": "I am researching the diet of wild birds."
+  },
+  {
+    "sentence": "野原でピクニックをした。",
+    "sentence_furigana": "野原【のはら】でピクニックをした。",
+    "meaning": "We had a picnic in the field."
+  },
+  {
+    "sentence": "野良猫が窓の外を覗いていた。",
+    "sentence_furigana": "野良猫【のらねこ】が窓【まど】の外【そと】を覗【のぞ】いていた。",
+    "meaning": "A stray cat was peeking in from outside the window."
+  },
+  {
+    "sentence": "野党は新しい選挙制度を提案した。",
+    "sentence_furigana": "野党【やとう】は新【あらた】しい選挙制度【せんきょせいど】を提案【ていあん】した。",
+    "meaning": "The opposition party proposed a new electoral system."
+  },
+  {
+    "sentence": "野蛮な慣習は根絶されなければならない。",
+    "sentence_furigana": "野蛮【やばん】な慣習【かんしゅう】は根絶【こんぜつ】されなければならない。",
+    "meaning": "Barbaric customs must be eradicated."
+  },
+  {
+    "sentence": "野戦病院の医薬品が不足していた。",
+    "sentence_furigana": "野戦病院【やせんびょういん】の医薬品【いやくひん】が不足【ふそく】していた。",
+    "meaning": "Medicines were scarce at the field hospital."
+  },
+  {
+    "sentence": "彼は野心的な目標を設定した。",
+    "sentence_furigana": "彼【かれ】は野心的【やしんてき】な目標【もくひょう】を設定【せってい】した。",
+    "meaning": "He set ambitious goals."
+  },
+  {
+    "sentence": "野良猫が日向で丸くなって眠っていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で丸【まる】くなって眠【ねむ】っていた。",
+    "meaning": "A stray cat was sleeping curled up in the sun."
+  },
+  {
+    "sentence": "野党は政府の外交政策を批判した。",
+    "sentence_furigana": "野党【やとう】は政府【せいふ】の外交政策【がいこうせいさく】を批判【ひはん】した。",
+    "meaning": "The opposition party criticized the government's foreign policy."
+  },
+  {
+    "sentence": "野外での観察会が開催された。",
+    "sentence_furigana": "野外【やがい】での観察会【かんさつかい】が開催【かいさい】された。",
+    "meaning": "An observation meeting was held outdoors."
+  },
+  {
+    "sentence": "野原にコスモスが咲き乱れていた。",
+    "sentence_furigana": "野原【のはら】にコスモスが咲【さ】き乱【みだ】れていた。",
+    "meaning": "Cosmos were blooming profusely in the field."
+  },
+  {
+    "sentence": "野良猫が日向で背伸びをしていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で背伸【せの】びをしていた。",
+    "meaning": "A stray cat was stretching in the sun."
+  },
+  {
+    "sentence": "野党は国民の支持を得ようとしている。",
+    "sentence_furigana": "野党【やとう】は国民【こくみん】の支持【しじ】を得【え】ようとしている。",
+    "meaning": "The opposition party is trying to gain public support."
+  },
+  {
+    "sentence": "野戦病院の衛生状態は悪かった。",
+    "sentence_furigana": "野戦病院【やせんびょういん】の衛生状態【えいせいじょうたい】は悪【わる】かった。",
+    "meaning": "Sanitary conditions at the field hospital were poor."
+  },
+  {
+    "sentence": "彼は野望を胸に抱き、成功を目指した。",
+    "sentence_furigana": "彼【かれ】は野望【やぼう】を胸【むね】に抱【いだ】き、成功【せいこう】を目指【めざ】した。",
+    "meaning": "He harbored ambition and aimed for success."
+  },
+  {
+    "sentence": "野鳥の観察は趣味の一つです。",
+    "sentence_furigana": "野鳥【やちょう】の観察【かんさつ】は趣味【しゅみ】の一つです。",
+    "meaning": "Observing wild birds is one of my hobbies."
+  },
+  {
+    "sentence": "野原にキツネがいた。",
+    "sentence_furigana": "野原【のはら】にキツネがいた。",
+    "meaning": "There was a fox in the field."
+  },
+  {
+    "sentence": "野良猫が日向でじゃれあっていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】でじゃれあっていた。",
+    "meaning": "Stray cats were playing together in the sun."
+  },
+  {
+    "sentence": "野党は議会で質問を行った。",
+    "sentence_furigana": "野党【やとう】は議会【ぎかい】で質問【しつもん】を行【おこな】った。",
+    "meaning": "The opposition party asked questions in the parliament."
+  },
+  {
+    "sentence": "野戦病院での手術は成功した。",
+    "sentence_furigana": "野戦病院【やせんびょういん】での手術【しゅじゅつ】は成功【せいこう】した。",
+    "meaning": "The surgery at the field hospital was successful."
+  },
+  {
+    "sentence": "彼女は野生的で自由な精神を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は野性的【やせいてき】で自由【じゆう】な精神【せいしん】を持【も】っていた。",
+    "meaning": "She had a wild and free spirit."
+  },
+  {
+    "sentence": "野原に露が光っていた。",
+    "sentence_furigana": "野原【のはら】に露【つゆ】が光【ひか】っていた。",
+    "meaning": "Dew was shining in the field."
+  },
+  {
+    "sentence": "野党は国民の声に耳を傾けるべきだ。",
+    "sentence_furigana": "野党【やとう】は国民【こくみん】の声【こえ】に耳【みみ】を傾【かたむ】けるべきだ。",
+    "meaning": "The opposition party should listen to the voice of the people."
+  },
+  {
+    "sentence": "野戦病院の運営は困難を極めた。",
+    "sentence_furigana": "野戦病院【やせんびょういん】の運営【うんえい】は困難【こんなん】を極【きわ】めた。",
+    "meaning": "Operating the field hospital was extremely difficult."
+  },
+  {
+    "sentence": "野良猫が日向で暖まっていた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】で暖【あたた】まっていた。",
+    "meaning": "A stray cat was warming itself in the sun."
+  },
+  {
+    "sentence": "野党は新たな戦術を導入した。",
+    "sentence_furigana": "野党【やとう】は新【あらた】な戦術【せんじゅつ】を導入【どうにゅう】した。",
+    "meaning": "The opposition party introduced new tactics."
+  },
+  {
+    "sentence": "野原には多くの種類の花が咲いていた。",
+    "sentence_furigana": "野原【のはら】には多【おお】くの種類【しゅるい】の花【はな】が咲【さ】いていた。",
+    "meaning": "Many types of flowers were blooming in the field."
+  },
+  {
+    "sentence": "野蛮な争いは世界からなくなるべきだ。",
+    "sentence_furigana": "野蛮【やばん】な争【あらそ】いは世界【せかい】からなくなるべきだ。",
+    "meaning": "Savage conflicts should disappear from the world."
+  },
+  {
+    "sentence": "野党は国民の生活向上を目指している。",
+    "sentence_furigana": "野党【やとう】は国民【こくみん】の生活向上【せいかつこうじょう】を目指【めざ】している。",
+    "meaning": "The opposition party aims to improve the lives of the people."
+  },
+  {
+    "sentence": "野戦病院への支援が強化された。",
+    "sentence_furigana": "野戦病院【やせんびょういん】への支援【しえん】が強化【きょうか】された。",
+    "meaning": "Support for the field hospital was strengthened."
+  },
+  {
+    "sentence": "野良猫が日向でくつろいでいた。",
+    "sentence_furigana": "野良猫【のらねこ】が日向【ひなた】でくつろいでいた。",
+    "meaning": "A stray cat was relaxing in the sun."
+  },
+  {
+    "sentence": "野原に夕日が沈んでいく。",
+    "sentence_furigana": "野原【のはら】に夕日【ゆうひ】が沈【しず】んでいく。",
+    "meaning": "The evening sun is setting over the field."
+  }
+]

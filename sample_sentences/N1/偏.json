@@ -1,0 +1,452 @@
+[
+  {
+    "sentence": "彼の発言は明らかに偏っていた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は明【あき】らかに偏【かたよ】っていた。",
+    "meaning": "His remarks were clearly biased."
+  },
+  {
+    "sentence": "この地域は人口が偏っている。",
+    "sentence_furigana": "この地域【ちいき】は人口【じんこう】が偏【かたよ】っている。",
+    "meaning": "The population in this region is unevenly distributed."
+  },
+  {
+    "sentence": "報道が一方的に偏っていると感じる。",
+    "sentence_furigana": "報道【ほうどう】が一方的【いっぽうてき】に偏【かたよ】っていると感じ【かんじ】る。",
+    "meaning": "I feel that the reporting is one-sided."
+  },
+  {
+    "sentence": "投資先が一つに偏っているのは危険だ。",
+    "sentence_furigana": "投資先【とうしさき】が一つに偏【かたよ】っているのは危険【きけん】だ。",
+    "meaning": "It is dangerous to have investments concentrated in one place."
+  },
+  {
+    "sentence": "学力に偏りが見られる生徒がいる。",
+    "sentence_furigana": "学力【がくりょく】に偏【かたよ】りが見【み】られる生徒【せいと】がいる。",
+    "meaning": "There are students who show disparities in academic ability."
+  },
+  {
+    "sentence": "食事の栄養が偏らないように注意してください。",
+    "sentence_furigana": "食事【しょくじ】の栄養【えいよう】が偏【かたよ】らないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to have a diet that lacks nutritional balance."
+  },
+  {
+    "sentence": "彼の意見は常に偏っている。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は常【つね】に偏【かたよ】っている。",
+    "meaning": "His opinions are always biased."
+  },
+  {
+    "sentence": "データの分析が偏らないように、複数の視点から見た。",
+    "sentence_furigana": "データ分析【ぶんせき】が偏【かたよ】らないように、複数【ふくすう】の視点【してん】から見【み】た。",
+    "meaning": "To prevent biased data analysis, I looked at it from multiple perspectives."
+  },
+  {
+    "sentence": "このニュースは情報源が偏っている。",
+    "sentence_furigana": "このニュースは情報源【じょうほうげん】が偏【かたよ】っている。",
+    "meaning": "The source of this news is biased."
+  },
+  {
+    "sentence": "彼女の好みは特定のものに偏っている。",
+    "sentence_furigana": "彼女【かのじょ】の好【す】きは特定【とくてい】のものに偏【かたよ】っている。",
+    "meaning": "Her preferences are skewed towards specific things."
+  },
+  {
+    "sentence": "社会の目は健常者に偏っている。",
+    "sentence_furigana": "社会【しゃかい】の目【め】は健常者【けんじょうしゃ】に偏【かたよ】っている。",
+    "meaning": "Society's focus is biased towards the able-bodied."
+  },
+  {
+    "sentence": "彼の説明は都合の良いように偏っていた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は都合良【つごうよ】いように偏【かたよ】っていた。",
+    "meaning": "His explanation was biased to his convenience."
+  },
+  {
+    "sentence": "この選挙は一方の政党に偏った報道がされた。",
+    "sentence_furigana": "この選挙【せんきょ】は一方【いっぽう】の政党【せいとう】に偏【かたよ】った報道【ほうどう】がされた。",
+    "meaning": "This election was covered with biased reporting towards one political party."
+  },
+  {
+    "sentence": "成功体験に偏った考え方ではいけない。",
+    "sentence_furigana": "成功体験【せいこうたいけん】に偏【かたよ】った考【かんが】え方【かた】ではいけない。",
+    "meaning": "You shouldn't have a way of thinking that is biased towards successful experiences."
+  },
+  {
+    "sentence": "時間の使い方が偏っている。",
+    "sentence_furigana": "時間【じかん】の使【つか】い方【かた】が偏【かたよ】っている。",
+    "meaning": "The way time is used is unbalanced."
+  },
+  {
+    "sentence": "彼は物事を深く考えず、感情に偏る傾向がある。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】を深【ふか】く考【かんが】えず、感情【かんじょう】に偏【かたよ】る傾向【けいこう】がある。",
+    "meaning": "He tends to be biased towards emotions without thinking things through."
+  },
+  {
+    "sentence": "その記事は読者に不利益を与えるような偏った内容だった。",
+    "sentence_furigana": "その記事【きじ】は読者【どくしゃ】に不利益【ふりえき】を与【あた】えるような偏【かたよ】った内容【ないよう】だった。",
+    "meaning": "That article had biased content that would disadvantage the readers."
+  },
+  {
+    "sentence": "経験が浅く、知識が偏っている。",
+    "sentence_furigana": "経験【けいけん】が浅【あさ】く、知識【ちしき】が偏【かたよ】っている。",
+    "meaning": "My experience is limited, and my knowledge is biased."
+  },
+  {
+    "sentence": "彼は特定の人に好意が偏っている。",
+    "sentence_furigana": "彼【かれ】は特定【とくてい】の人に好意【こうい】が偏【かたよ】っている。",
+    "meaning": "His favor is biased towards specific people."
+  },
+  {
+    "sentence": "この小説は語り手が一方に偏っている。",
+    "sentence_furigana": "この小説【しょうせつ】は語【かた】り手【て】が一方【いっぽう】に偏【かたよ】っている。",
+    "meaning": "The narrator of this novel is biased towards one side."
+  },
+  {
+    "sentence": "彼は新しい意見に耳を傾けず、自分の考えに偏りがちだ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい意見【いけん】に耳【みみ】を傾【かたむ】けず、自分【じぶん】の考【かんが】えに偏【かたよ】りがちだ。",
+    "meaning": "He tends to be biased towards his own ideas, not listening to new opinions."
+  },
+  {
+    "sentence": "地域間の経済格差が偏っている問題がある。",
+    "sentence_furigana": "地域間【ちいきかん】の経済格差【けいざいかくさ】が偏【かたよ】っている問題【もんだい】がある。",
+    "meaning": "There is a problem of uneven economic disparity between regions."
+  },
+  {
+    "sentence": "彼の芸術観は伝統に偏っている。",
+    "sentence_furigana": "彼【かれ】の芸術観【げいじゅつかん】は伝統【でんとう】に偏【かたよ】っている。",
+    "meaning": "His view on art is biased towards tradition."
+  },
+  {
+    "sentence": "このサプリメントは特定の栄養素に偏っています。",
+    "sentence_furigana": "このサプリメントは特定【とくてい】の栄養素【えいようそ】に偏【かたよ】っています。",
+    "meaning": "This supplement is biased towards specific nutrients."
+  },
+  {
+    "sentence": "彼女の行動は常に感情的な側面に偏っている。",
+    "sentence_furigana": "彼女【かのじょ】の行動【こうどう】は常【つね】に感情的【かんじょうてき】な側面【そくめん】に偏【かたよ】っている。",
+    "meaning": "Her actions are always biased towards the emotional side."
+  },
+  {
+    "sentence": "マニュアルの作成にあたり、特定の状況に偏らないように注意した。",
+    "sentence_furigana": "マニュアルの作成【さくせい】にあたり、特定【とくてい】の状況【じょうきょう】に偏【かたよ】らないように注意【ちゅうい】した。",
+    "meaning": "When creating the manual, care was taken not to be biased towards specific situations."
+  },
+  {
+    "sentence": "彼の発言は科学的根拠よりも主観に偏っていた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は科学的根拠【かがくてきこんきょ】よりも主観【しゅかん】に偏【かたよ】っていた。",
+    "meaning": "His statements were biased towards subjective opinions rather than scientific evidence."
+  },
+  {
+    "sentence": "教育現場で、成績の良い生徒ばかりが優遇されるのは偏っている。",
+    "sentence_furigana": "教育現場【きょういくげんば】で、成績【せいせき】の良い生徒【せいと】ばかりが優遇【ゆうぐう】されるのは偏【かたよ】っている。",
+    "meaning": "It is biased that only students with good grades are favored in educational settings."
+  },
+  {
+    "sentence": "情報の取り方が偏っているため、誤解を生む可能性がある。",
+    "sentence_furigana": "情報【じょうほう】の取【と】り方【かた】が偏【かたよ】っているため、誤解【ごかい】を生【う】む可能性【かのうせい】がある。",
+    "meaning": "Because the way information is handled is biased, there is a possibility of causing misunderstanding."
+  },
+  {
+    "sentence": "彼は常に楽観的な見方に偏っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に楽観的【らっかんてき】な見方【みかた】に偏【かたよ】っている。",
+    "meaning": "He is always biased towards an optimistic view."
+  },
+  {
+    "sentence": "この物語は登場人物の心理描写に偏っている。",
+    "sentence_furigana": "この物語【ものがたり】は登場人物【とうじょうじんぶつ】の心理描写【しんりびょうしゃ】に偏【かたよ】っている。",
+    "meaning": "This story is biased towards the psychological depiction of the characters."
+  },
+  {
+    "sentence": "税制が富裕層に偏っているとの批判がある。",
+    "sentence_furigana": "税制【ぜいせい】が富裕層【ふゆうそう】に偏【かたよ】っているとの批判【ひはん】がある。",
+    "meaning": "There is criticism that the tax system is biased towards the wealthy."
+  },
+  {
+    "sentence": "偏った知識しか持っていないと、物事を正しく理解できない。",
+    "sentence_furigana": "偏【かたよ】った知識【ちしき】しか持【も】っていないと、物事【ものごと】を正【ただ】しく理解【りかい】できない。",
+    "meaning": "If you only have biased knowledge, you cannot understand things correctly."
+  },
+  {
+    "sentence": "彼の審美眼は古典的なものに偏っている。",
+    "sentence_furigana": "彼【かれ】の審美眼【しんびがん】は古典的【こてんてき】なものに偏【かたよ】っている。",
+    "meaning": "His aesthetic sense is biased towards classical things."
+  },
+  {
+    "sentence": "この演説は聴衆の感情に偏っていた。",
+    "sentence_furigana": "この演説【えんぜつ】は聴衆【ちょうしゅう】の感情【かんじょう】に偏【かたよ】っていた。",
+    "meaning": "This speech was biased towards the audience's emotions."
+  },
+  {
+    "sentence": "彼は歴史を学ぶ上で、特定の一面に偏ってはいけない。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】を学【まな】ぶ上【うえ】で、特定【とくてい】の一面【いちめん】に偏【かたよ】ってはいけない。",
+    "meaning": "When learning history, one must not be biased towards a specific aspect."
+  },
+  {
+    "sentence": "そのグループは男性に偏った構成になっている。",
+    "sentence_furigana": "そのグループは男性【だんせい】に偏【かたよ】った構成【こうせい】になっている。",
+    "meaning": "That group has a male-dominated composition."
+  },
+  {
+    "sentence": "彼の意見には同意できる点もあるが、全体的に偏っている。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】には同意【どうい】できる点【てん】もあるが、全体的【ぜんたいてき】に偏【かたよ】っている。",
+    "meaning": "While there are points I can agree with in his opinion, it is biased overall."
+  },
+  {
+    "sentence": "この調査は、回答者の属性に偏りが見られた。",
+    "sentence_furigana": "この調査【ちょうさ】は、回答者【かいとうしゃ】の属性【ぞくせい】に偏【かたよ】りが見【み】られた。",
+    "meaning": "This survey showed a bias in the attributes of the respondents."
+  },
+  {
+    "sentence": "彼は常にリスク回避的な考えに偏っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】にリスク回避的【かいひてき】な考【かんが】えに偏【かたよ】っている。",
+    "meaning": "He is always biased towards risk-averse thinking."
+  },
+  {
+    "sentence": "偏った情報源からの知識は、時に危険を伴う。",
+    "sentence_furigana": "偏【かたよ】った情報源【じょうほうげん】からの知識【ちしき】は、時【とき】に危険【きけん】を伴【ともな】う。",
+    "meaning": "Knowledge from biased sources sometimes entails danger."
+  },
+  {
+    "sentence": "彼は議論において、自分の考えに偏っていた。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】において、自分【じぶん】の考【かんが】えに偏【かたよ】っていた。",
+    "meaning": "He was biased towards his own ideas in the discussion."
+  },
+  {
+    "sentence": "この映画は男性中心の視点に偏っている。",
+    "sentence_furigana": "この映画【えいが】は男性中心【だんせいチュウシン】の視点【してん】に偏【かたよ】っている。",
+    "meaning": "This movie is biased towards a male-centric perspective."
+  },
+  {
+    "sentence": "彼の発言は感情的な部分に偏りすぎている。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は感情的【かんじょうてき】な部分【ぶぶん】に偏【かたよ】りすぎている。",
+    "meaning": "His statements are too biased towards the emotional parts."
+  },
+  {
+    "sentence": "成功体験に固執し、新しいアプローチを軽視するのは偏っている。",
+    "sentence_furigana": "成功体験【せいこうたいけん】に固執【こしゅう】し、新【あたら】しいアプローチを軽視【けいし】するのは偏【かたよ】っている。",
+    "meaning": "It is biased to cling to successful experiences and disregard new approaches."
+  },
+  {
+    "sentence": "偏った食生活は健康を害する可能性がある。",
+    "sentence_furigana": "偏【かたよ】った食生活【しょくせいかつ】は健康【けんこう】を害【がい】する可能性【かのうせい】がある。",
+    "meaning": "A biased diet can potentially harm health."
+  },
+  {
+    "sentence": "彼は議論で相手の発言を聞かず、自分の主張に偏っていた。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】で相手【あいて】の発言【はつげん】を聞【き】かず、自分【じぶん】の主張【しゅちょう】に偏【かたよ】っていた。",
+    "meaning": "In the discussion, he didn't listen to the other person's remarks and was biased towards his own claims."
+  },
+  {
+    "sentence": "その統計データは特定の期間に偏って収集された。",
+    "sentence_furigana": "その統計データ【とうけいでーた】は特定【とくてい】の期間【きかん】に偏【かたよ】って収集【しゅうしゅう】された。",
+    "meaning": "That statistical data was collected biased towards a specific period."
+  },
+  {
+    "sentence": "偏見のない客観的な視点が求められる。",
+    "sentence_furigana": "偏見【へんけん】のない客観的【きゃっかんてき】な視点【してん】が求【もと】められる。",
+    "meaning": "An objective perspective free from prejudice is required."
+  },
+  {
+    "sentence": "彼の解説は非常に主観的で、全体的に偏っている。",
+    "sentence_furigana": "彼【かれ】の解説【かいせつ】は非常【ひじょう】に主観的【しゅかんてき】で、全体的【ぜんたいてき】に偏【かたよ】っている。",
+    "meaning": "His explanation is very subjective and biased overall."
+  },
+  {
+    "sentence": "この計画は、一部の意見に偏ったものにならないように注意が必要だ。",
+    "sentence_furigana": "この計画【けいかく】は、一部【いちぶ】の意見【いけん】に偏【かたよ】ったものにならないように注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Care must be taken so that this plan does not become biased towards some opinions."
+  },
+  {
+    "sentence": "彼は常識にとらわれず、独自の視点を持つが、時に偏ることもある。",
+    "sentence_furigana": "彼【かれ】は常識【じょうしき】にとらわれず、独自【どくじ】の視点【してん】を持【も】つが、時【とき】に偏【かたよ】ることもある。",
+    "meaning": "He is not bound by common sense and has his own unique perspective, but he can sometimes be biased."
+  },
+  {
+    "sentence": "この教材は学習者の理解度に偏りがないように作られている。",
+    "sentence_furigana": "この教材【きょうざい】は学習者【がくしゅうしゃ】の理解度【りかいど】に偏【かたよ】りがないように作【つく】られている。",
+    "meaning": "This teaching material is made so that there is no bias in the learners' comprehension."
+  },
+  {
+    "sentence": "彼は物事の表面的な部分に偏ってしまいがちだ。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の表面的【ひょうめんてき】な部分【ぶぶん】に偏【かたよ】ってしまいがちだ。",
+    "meaning": "He tends to be biased towards the superficial aspects of things."
+  },
+  {
+    "sentence": "メディアの報道が国民の感情に偏ることは、健全な民主主義にとって望ましくない。",
+    "sentence_furigana": "メディアの報道【ほうどう】が国民【こくみん】の感情【かんじょう】に偏【かたよ】ることは、健全【けんぜん】な民主主義【みんしゅしゅぎ】にとって望【のぞ】ましくない。",
+    "meaning": "It is undesirable for healthy democracy that media reporting becomes biased towards public emotion."
+  },
+  {
+    "sentence": "彼の料理の好みは、辛いものに偏っている。",
+    "sentence_furigana": "彼【かれ】の料理【りょうり】の好【す】きは、辛【から】いものに偏【かたよ】っている。",
+    "meaning": "His preference in cooking is biased towards spicy food."
+  },
+  {
+    "sentence": "この裁判の判決は、証拠よりも感情論に偏っているように見えた。",
+    "sentence_furigana": "この裁判【さいばん】の判決【はんけつ】は、証拠【しょうこ】よりも感情論【かんじょうろん】に偏【かたよ】っているように見【み】えた。",
+    "meaning": "The verdict of this trial seemed biased towards emotional arguments rather than evidence."
+  },
+  {
+    "sentence": "偏った情報だけを鵜呑みにするのは危険です。",
+    "sentence_furigana": "偏【かたよ】った情報【じょうほう】だけを鵜呑【うの】みにするのは危険【きけん】です。",
+    "meaning": "It is dangerous to blindly believe only biased information."
+  },
+  {
+    "sentence": "彼の評価は、個人的な感情に偏っていた。",
+    "sentence_furigana": "彼【かれ】の評価【ひょうか】は、個人的【こじんてき】な感情【かんじょう】に偏【かたよ】っていた。",
+    "meaning": "His evaluation was biased towards personal feelings."
+  },
+  {
+    "sentence": "このソフトウェアは、特定のOSに偏った開発をしている。",
+    "sentence_furigana": "このソフトウェアは、特定【とくてい】のOSに偏【かたよ】った開発【かいはつ】をしている。",
+    "meaning": "This software is developed with a bias towards a specific OS."
+  },
+  {
+    "sentence": "彼は教育において、理論的な側面に偏る傾向がある。",
+    "sentence_furigana": "彼【かれ】は教育【きょういく】において、理論的【りろんてき】な側面【そくめん】に偏【かたよ】る傾向【けいこう】がある。",
+    "meaning": "He tends to be biased towards the theoretical aspects in education."
+  },
+  {
+    "sentence": "この政策は、ある地域に利益が偏る可能性がある。",
+    "sentence_furigana": "この政策【せいさく】は、ある地域【ちいき】に利益【りえき】が偏【かたよ】る可能性【かのうせい】がある。",
+    "meaning": "This policy may have benefits skewed towards a certain region."
+  },
+  {
+    "sentence": "偏った視点から物事を判断してはならない。",
+    "sentence_furigana": "偏【かたよ】った視点【してん】から物事【ものごと】を判断【はんだん】してはならない。",
+    "meaning": "One must not judge things from a biased perspective."
+  },
+  {
+    "sentence": "彼の批評は、文学的な解釈に偏っていた。",
+    "sentence_furigana": "彼【かれ】の批評【ひひょう】は、文学的【ぶんがくてき】な解釈【かいしゃく】に偏【かたよ】っていた。",
+    "meaning": "His criticism was biased towards literary interpretation."
+  },
+  {
+    "sentence": "このアンケートは、特定の意見を持つ人に偏る傾向がある。",
+    "sentence_furigana": "このアンケートは、特定【とくてい】の意見【いけん】を持【も】つ人【ひと】に偏【かたよ】る傾向【けいこう】がある。",
+    "meaning": "This survey tends to be biased towards people with specific opinions."
+  },
+  {
+    "sentence": "彼の発言は、楽観論に偏っているように思える。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、楽観論【らっかんろん】に偏【かたよ】っているように思【おも】える。",
+    "meaning": "His statements seem to be biased towards optimism."
+  },
+  {
+    "sentence": "この製品は、男性ユーザーのニーズに偏った設計になっている。",
+    "sentence_furigana": "この製品【せいひん】は、男性ユーザー【だんせいゆーざー】のニーズに偏【かたよ】った設計【せっけい】になっている。",
+    "meaning": "This product has a design biased towards the needs of male users."
+  },
+  {
+    "sentence": "偏見のない公平な立場で議論を進めるべきだ。",
+    "sentence_furigana": "偏見【へんけん】のない公平【こうへい】な立場【たちば】で議論【ぎろん】を進【すす】めるべきだ。",
+    "meaning": "The discussion should proceed from an unbiased and fair standpoint."
+  },
+  {
+    "sentence": "彼の研究は、実験結果の解釈に偏りが見られた。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は、実験結果【じっけんけっか】の解釈【かいしゃく】に偏【かたよ】りが見【み】られた。",
+    "meaning": "His research showed bias in the interpretation of experimental results."
+  },
+  {
+    "sentence": "この物語は、英雄的な人物像に偏っている。",
+    "sentence_furigana": "この物語【ものがたり】は、英雄的【えいゆうてき】な人物像【じんぶつぞう】に偏【かたよ】っている。",
+    "meaning": "This story is biased towards a heroic portrayal of characters."
+  },
+  {
+    "sentence": "彼は常に効率を重視し、人間的な側面を軽視する傾向に偏っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に効率【こうりつ】を重視【じゅうし】し、人間的【にんげんてき】な側面【そくめん】を軽視【けいし】する傾向【けいこう】に偏【かたよ】っている。",
+    "meaning": "He tends to be biased towards prioritizing efficiency and disregarding the human aspect."
+  },
+  {
+    "sentence": "このニュース記事は、感情に訴えかけるような偏った表現を使っている。",
+    "sentence_furigana": "このニュース記事【きじ】は、感情【かんじょう】に訴【うった】えかけるような偏【かたよ】った表現【ひょうげん】を使【つか】っている。",
+    "meaning": "This news article uses biased language that appeals to emotions."
+  },
+  {
+    "sentence": "偏った diet は健康に悪影響を与える。",
+    "sentence_furigana": "偏【かたよ】った diet は健康【けんこう】に悪影響【あくえいきょう】を与える【あたえる】。",
+    "meaning": "A biased diet can have a negative impact on health."
+  },
+  {
+    "sentence": "彼の考え方は、過去の成功体験に偏っている。",
+    "sentence_furigana": "彼【かれ】の考【かんが】え方【かた】は、過去【かこ】の成功体験【せいこうたいけん】に偏【かたよ】っている。",
+    "meaning": "His way of thinking is biased towards past successful experiences."
+  },
+  {
+    "sentence": "偏った情報に基づいて判断を下すのは危険だ。",
+    "sentence_furigana": "偏【かたよ】った情報【じょうほう】に基づいて【もとづ】いて判断【はんだん】を下【くだ】すのは危険【きけん】だ。",
+    "meaning": "It is dangerous to make judgments based on biased information."
+  },
+  {
+    "sentence": "この法律は、特定の人々に有利に偏っている。",
+    "sentence_furigana": "この法律【ほうりつ】は、特定【とくてい】の人々【ひとびと】に有利【ゆうり】に偏【かたよ】っている。",
+    "meaning": "This law is biased in favor of certain people."
+  },
+  {
+    "sentence": "彼は常に楽観的な予測に偏る。",
+    "sentence_furigana": "彼【かれ】は常【つね】に楽観的【らっかんてき】な予測【よそく】に偏【かたよ】る。",
+    "meaning": "He always leans towards optimistic predictions."
+  },
+  {
+    "sentence": "偏った見方しかしないと、真実を見誤る可能性がある。",
+    "sentence_furigana": "偏【かたよ】った見方【みかた】しかしないと、真実【しんじつ】を見誤【みあやま】る可能性【かのうせい】がある。",
+    "meaning": "If you only have a biased perspective, you might misjudge the truth."
+  },
+  {
+    "sentence": "彼の作品は、悲劇的な結末に偏っている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は、悲劇的【ひげきてき】な結末【けつまつ】に偏【かたよ】っている。",
+    "meaning": "His works are biased towards tragic endings."
+  },
+  {
+    "sentence": "この調査結果は、回答者の属性に偏りがあることを示している。",
+    "sentence_furigana": "この調査結果【ちょうさけっか】は、回答者【かいとうしゃ】の属性【ぞくせい】に偏【かたよ】りがあることを示【しめ】している。",
+    "meaning": "These survey results indicate a bias in the attributes of the respondents."
+  },
+  {
+    "sentence": "彼は物事を肯定的に捉えすぎ、否定的な側面を無視する傾向に偏っている。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】を肯定../../.的【こうていてき】に捉【とら】えすぎ、否定../../.的【ひていてき】な側面【そくめん】を無視【むし】する傾向【けいこう】に偏【かたよ】っている。",
+    "meaning": "He tends to be biased towards viewing things too positively and ignoring the negative aspects."
+  },
+  {
+    "sentence": "偏った情報発信は、社会に混乱を招く恐れがある。",
+    "sentence_furigana": "偏【かたよ】った情報発信【じょうほうはっしん】は、社会【しゃかい】に混乱【こんらん】を招【まね】く恐【おそ】れがある。",
+    "meaning": "Biased information dissemination can cause confusion in society."
+  },
+  {
+    "sentence": "この議論は、感情論に偏り、論理的な飛躍が見られた。",
+    "sentence_furigana": "この議論【ぎろん】は、感情論【かんじょうろん】に偏【かたよ】り、論理的【ろんりてき】な飛躍【ひやく】が見【み】られた。",
+    "meaning": "This discussion was biased towards emotional arguments, with logical leaps observed."
+  },
+  {
+    "sentence": "彼の見解は、保守的な考え方に偏っている。",
+    "sentence_furigana": "彼【かれ】の ;見解【けんかい】は、保守的【ほしゅてき】な考【かんが】え方【かた】に偏【かたよ】っている。",
+    "meaning": "His views are biased towards conservative thinking."
+  },
+  {
+    "sentence": "この裁判では、被告に有利な証拠が軽視され、検察側に偏った進行となった。",
+    "sentence_furigana": "この裁判【さいばん】では、被告【ひこく】に有利【ゆうり】な証拠【しょうこ】が軽視【けいし】され、検察側【けんさつがわ】に偏【かたよ】った進行【しんこう】となった。",
+    "meaning": "In this trial, evidence favorable to the defendant was disregarded, leading to a biased progression towards the prosecution."
+  },
+  {
+    "sentence": "彼は常に理想論に偏り、現実的な問題解決を怠っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に理想論【りそうろん】に偏【かたよ】り、現実的【げんじつてき】な問題解決【もんだいかいけつ】を怠【おこた】っている。",
+    "meaning": "He is always biased towards idealistic theories and neglects practical problem-solving."
+  },
+  {
+    "sentence": "偏った diet は健康を損なう可能性がある。",
+    "sentence_furigana": "偏【かたよ】った diet は健康【けんこう】を損【そこな】う可能性【かのうせい】がある。",
+    "meaning": "A unbalanced diet can potentially damage health."
+  },
+  {
+    "sentence": "この政治的プロパガンダは、国民の感情に偏っている。",
+    "sentence_furigana": "この政治的プロパガンダ【せいじてきぷろぱがんだ】は、国民【こくみん】の感情【かんじょう】に偏【かたよ】っている。",
+    "meaning": "This political propaganda is biased towards the emotions of the people."
+  },
+  {
+    "sentence": "彼は常に過去の栄光に偏ってしまい、現状を正しく認識できない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に過去【かこ】の栄光【えいこう】に偏【かたよ】ってしまい、現状【げんじょう】を正【ただ】しく認識【にんしき】できない。",
+    "meaning": "He is always biased towards past glories and cannot correctly recognize the present situation."
+  },
+  {
+    "sentence": "この統計データは、サンプリング方法に偏りがあった。",
+    "sentence_furigana": "この統計データ【とうけいでーた】は、サンプリング方法【ほうほう】に偏【かたよ】りがあった。",
+    "meaning": "There was bias in the sampling method for this statistical data."
+  }
+]

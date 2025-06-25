@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "友人の結婚式に招待状を送った。",
+    "sentence_furigana": "友人【ゆうじん】の結婚式【けっこんしき】に招待状【しょうたいじょう】を送【おく】った。",
+    "meaning": "I sent an invitation to my friend's wedding."
+  },
+  {
+    "sentence": "彼が駅まで見送ってくれた。",
+    "sentence_furigana": "彼【かれ】が駅【えき】まで見送【みおく】ってくれた。",
+    "meaning": "He saw me off at the station."
+  },
+  {
+    "sentence": "荷物を快递で送る予定です。",
+    "sentence_furigana": "荷物【にもつ】を快递【だいでん】で送【おく】る予定【よてい】です。",
+    "meaning": "I plan to send the package by express delivery."
+  },
+  {
+    "sentence": "古い手紙を整理して送り返した。",
+    "sentence_furigana": "古【ふる】い手紙【てがみ】を整理【せいり】して送【おく】り返【かえ】した。",
+    "meaning": "I organized the old letters and sent them back."
+  },
+  {
+    "sentence": "来週、誕生日プレゼントを送ります。",
+    "sentence_furigana": "来週【らいしゅう】、誕生日【たんじょうび】プレゼントを送【おく】ります。",
+    "meaning": "I will send a birthday present next week."
+  },
+  {
+    "sentence": "彼は遠く離れた家族に手紙を送り続けている。",
+    "sentence_furigana": "彼【かれ】は遠【とお】く離【はな】れた家族【かぞく】に手紙【てがみ】を送【おく】り続【つづ】けている。",
+    "meaning": "He continues to send letters to his family far away."
+  },
+  {
+    "sentence": "卒業生を盛大に送る会が開かれた。",
+    "sentence_furigana": "卒業生【そつぎょうせい】を盛大【せいだい】に送【おく】る会【かい】が開【ひら】かれた。",
+    "meaning": "A ceremony was held to grandly send off the graduating students."
+  },
+  {
+    "sentence": "会議の資料を参加者に送付した。",
+    "sentence_furigana": "会議【かいぎ】の資料【しりょう】を参加者【さんかしゃ】に送付【そうふ】した。",
+    "meaning": "The meeting materials were sent to the participants."
+  },
+  {
+    "sentence": "ボランティア活動で困っている人を支援しました。",
+    "sentence_furigana": "ボランティア活動【かつどう】で困【こま】っている人【ひと】を支援【しえん】しました。",
+    "meaning": "I supported people in need through volunteer activities."
+  },
+  {
+    "sentence": "このCDは友人に贈りたい。",
+    "sentence_furigana": "このCDは友人【ゆうじん】に贈【おく】りたい。",
+    "meaning": "I want to give this CD to my friend."
+  },
+  {
+    "sentence": "新しい会社への転勤が決まり、送別会を開いてもらった。",
+    "sentence_furigana": "新【あたら】しい会社【かいしゃ】への転勤【てんきん】が決【き】まり、送別会【そうべつかい】を開【ひら】いてもらった。",
+    "meaning": "My transfer to a new company was decided, so they held a farewell party for me."
+  },
+  {
+    "sentence": "その絵は彼女への贈り物として送られた。",
+    "sentence_furigana": "その絵【え】は彼女【かのじょ】への贈【おく】り物【もの】として送【おく】られた。",
+    "meaning": "The painting was sent as a gift to her."
+  },
+  {
+    "sentence": "彼はチームに大きな貢献を送った。",
+    "sentence_furigana": "彼【かれ】はチームに大【おお】きな貢献【こうけん】を送【おく】った。",
+    "meaning": "He made a great contribution to the team."
+  },
+  {
+    "sentence": "メールで最新情報を送ってください。",
+    "sentence_furigana": "メールで最新情報【さいしんじょうほう】を送【おく】ってください。",
+    "meaning": "Please send the latest information by email."
+  },
+  {
+    "sentence": "彼女は故郷の両親に定期的に連絡を送っている。",
+    "sentence_furigana": "彼女【かのじょ】は故郷【こきょう】の両親【りょうしん】に定期的【ていきてき】に連絡【れんらく】を送【おく】っている。",
+    "meaning": "She regularly sends updates to her parents in her hometown."
+  },
+  {
+    "sentence": "彼はお世話になった人に感謝の気持ちを送った。",
+    "sentence_furigana": "彼【かれ】はお世話【せわ】になった人【ひと】に感謝【かんしゃ】の気持【きも】ちを送【おく】った。",
+    "meaning": "He sent his gratitude to the people who helped him."
+  },
+  {
+    "sentence": "病気のお見舞いを送りたいと思います。",
+    "sentence_furigana": "病気【びょうき】のお見舞【みま】いを送【おく】りたいと思【おも】います。",
+    "meaning": "I would like to send get-well wishes."
+  },
+  {
+    "sentence": "この商品は海外にも発送できます。",
+    "sentence_furigana": "この商品【しょうひん】は海外【かいがい】にも発送【はっそう】できます。",
+    "meaning": "This product can also be shipped overseas."
+  },
+  {
+    "sentence": "彼のスピーチは聴衆に感動を送った。",
+    "sentence_furigana": "彼【かれ】のスピーチは聴衆【ちょうしゅう】に感動【かんどう】を送【おく】った。",
+    "meaning": "His speech moved the audience."
+  },
+  {
+    "sentence": "私たちは多くの人々を支援するために募金活動を行いました。",
+    "sentence_furigana": "私【わたし】たちはお多【おお】くの人々【ひとびと】を支援【しえん】するために募金活動【ぼきんかつどう】を行【おこな】いました。",
+    "meaning": "We conducted a fundraising campaign to support many people."
+  },
+  {
+    "sentence": "彼は故郷へのお土産を送ってきた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】へのお土産【みやげ】を送【おく】ってきた。",
+    "meaning": "He sent souvenirs to his hometown."
+  },
+  {
+    "sentence": "この荷物は追跡番号付きで送ります。",
+    "sentence_furigana": "この荷物【にもつ】は追跡番号【ついせきばんごう】付【つ】きで送【おく】ります。",
+    "meaning": "This package will be sent with a tracking number."
+  },
+  {
+    "sentence": "プロジェクトの完了をチーム全員に通知しました。",
+    "sentence_furigana": "プロジェクトの完了【かんりょう】をチーム全員【ぜんいん】に通知【つうち】しました。",
+    "meaning": "I notified the entire team of the project's completion."
+  },
+  {
+    "sentence": "彼女は友人を空港まで送りに行った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】を空港【くうこう】まで送【おく】りに行【い】った。",
+    "meaning": "She went to the airport to see her friend off."
+  },
+  {
+    "sentence": "この本は子供たちに夢を送る物語です。",
+    "sentence_furigana": "この本【ほん】は子供【こども】たちに夢【ゆめ】を送【おく】る物語【ものがた】りです。",
+    "meaning": "This book is a story that sends dreams to children."
+  },
+  {
+    "sentence": "彼らは困難な状況を送っている。",
+    "sentence_furigana": "彼【かれ】ら は 困難【こんなん】な状況【じょうきょう】を送【おく】っている。",
+    "meaning": "They are going through difficult circumstances."
+  },
+  {
+    "sentence": "祝電を送るのが遅れてしまった。",
+    "sentence_furigana": "祝電【しゅうでん】を送【おく】るのが遅【おく】れてしまった。",
+    "meaning": "I was late in sending the congratulatory telegram."
+  },
+  {
+    "sentence": "その会社は従業員に手当を送金した。",
+    "sentence_furigana": "その会社【かいしゃ】は従業員【じゅうぎょういん】に手当【てあ】てを送金【そうきん】した。",
+    "meaning": "The company remitted allowances to its employees."
+  },
+  {
+    "sentence": "彼は卒業後も母校に寄付を送り続けている。",
+    "sentence_furigana": "彼【かれ】は卒業後【そつぎょうご】も母校【ぼこう】に寄付【きふ】を送【おく】り続【つづ】けている。",
+    "meaning": "He continues to send donations to his alma mater even after graduation."
+  },
+  {
+    "sentence": "この箱には貴重品が入っているので、特別便で送ります。",
+    "sentence_furigana": "この箱【はこ】には貴重品【きちょうひん】が入【はい】っているので、特別便【とくべつびん】で送【おく】ります。",
+    "meaning": "This box contains valuables, so we will send it by special delivery."
+  },
+  {
+    "sentence": "祭りの後片付けをみんなで協力して送った。",
+    "sentence_furigana": "祭【まつ】りの後片付【あとがた】けをみんなで協力【きょうりょく】して送【おく】った。",
+    "meaning": "We all worked together to clean up after the festival."
+  },
+  {
+    "sentence": "彼はチームの勝利のために全力を送った。",
+    "sentence_furigana": "彼【かれ】はチームの勝利【しょうり】のために全力【ぜんりょく】を送【おく】った。",
+    "meaning": "He gave his all for the team's victory."
+  },
+  {
+    "sentence": "この曲は愛する人に送りたい。",
+    "sentence_furigana": "この曲【きょく】は愛【あい】する人【ひと】に送【おく】りたい。",
+    "meaning": "I want to send this song to the one I love."
+  },
+  {
+    "sentence": "私たちは平和な未来を送ることを願っています。",
+    "sentence_furigana": "私【わたし】たちは平和【へいわ】な未来【みらい】を送【おく】ることを願【ねが】っています。",
+    "meaning": "We hope to live in a peaceful future."
+  },
+  {
+    "sentence": "彼女は親切なアドバイスを送ってくれた。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】なアドバイスを送【おく】ってくれた。",
+    "meaning": "She sent me some kind advice."
+  },
+  {
+    "sentence": "その会社は新しい製品のサンプルを送付した。",
+    "sentence_furigana": "その会社【かいしゃ】は新【あたら】しい製品【せいひん】のサンプルを送付【そうふ】した。",
+    "meaning": "The company dispatched samples of the new product."
+  },
+  {
+    "sentence": "子供たちの成長を温かく見守っています。",
+    "sentence_furigana": "子供【こども】たち の 成長【せいちょう】を温【あたた】かく見守【みまも】っています。",
+    "meaning": "I am warmly watching over the children's growth."
+  },
+  {
+    "sentence": "彼は故郷の母に感謝のメッセージを送った。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の母【はは】に感謝【かんしゃ】のメッセージを送【おく】った。",
+    "meaning": "He sent a message of gratitude to his mother in his hometown."
+  },
+  {
+    "sentence": "この書類は明日までに担当者に送ってください。",
+    "sentence_furigana": "この書類【しょるい】は明日【あした】までに担当者【たんとうしゃ】に送【おく】ってください。",
+    "meaning": "Please send these documents to the person in charge by tomorrow."
+  },
+  {
+    "sentence": "彼らは長年の友情を送ってきた。",
+    "sentence_furigana": "彼【かれ】ら は 長年【ながねん】の友情【ゆうじょう】を送【おく】ってきた。",
+    "meaning": "They have shared a long friendship."
+  },
+  {
+    "sentence": "彼女はコンサートのチケットを友人に送った。",
+    "sentence_furigana": "彼女【かのじょ】はコンサートのチケットを友人【ゆうじん】に送【おく】った。",
+    "meaning": "She sent concert tickets to her friend."
+  },
+  {
+    "sentence": "子供たちは新しい学校生活を送っている。",
+    "sentence_furigana": "子供【こども】たちは新【あたら】しい学校生活【がっこうせいかつ】を送【おく】っている。",
+    "meaning": "The children are experiencing their new school life."
+  },
+  {
+    "sentence": "そのニュースは世界中に衝撃を送った。",
+    "sentence_furigana": "そのニュースは世界中【せかいじゅう】に衝撃【しょうげき】を送【おく】った。",
+    "meaning": "The news sent shockwaves around the world."
+  },
+  {
+    "sentence": "私たちは新しい時代への一歩を送ります。",
+    "sentence_furigana": "私【わたし】たちは新【あたら】しい時代【じだい】への一歩【いっぽ】を送【おく】ります。",
+    "meaning": "We are sending a step into a new era."
+  },
+  {
+    "sentence": "彼は遠い国からのお土産を送ってきた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い国【くに】からのお土産【みやげ】を送【おく】ってきた。",
+    "meaning": "He sent a souvenir from a faraway country."
+  },
+  {
+    "sentence": "この電報は重要な通知を送るために使用されます。",
+    "sentence_furigana": "この電報【でんぽう】は重要【じゅうよう】な通知【つうち】を送【おく】るために使用【しよう】されます。",
+    "meaning": "This telegram is used to send important notifications."
+  },
+  {
+    "sentence": "彼女は卒業生を温かく見送った。",
+    "sentence_furigana": "彼女【かのじょ】は卒業生【そつぎょうせい】を温【あたた】かく見送【みおく】った。",
+    "meaning": "She warmly saw off the graduating students."
+  },
+  {
+    "sentence": "彼らは平和な暮らしを送りたいと願っている。",
+    "sentence_furigana": "彼【かれ】ら は 平和【へいわ】な暮【く】らしを送【おく】りたいと願【ねが】っている。",
+    "meaning": "They wish to live a peaceful life."
+  },
+  {
+    "sentence": "この手紙は昔の友人に宛てて送りました。",
+    "sentence_furigana": "この手紙【てがみ】は昔【むかし】の友人【ゆうじん】に宛【あ】てて送【おく】りました。",
+    "meaning": "I sent this letter to an old friend."
+  },
+  {
+    "sentence": "私たちは患者さんに温かい心遣いをおくります。",
+    "sentence_furigana": "私【わたし】たちは患者【かんじゃ】さんに温【あたた】かい心遣【こころづか】いをおくります。",
+    "meaning": "We send our warm regards to the patients."
+  },
+  {
+    "sentence": "彼はチームに士気を送った。",
+    "sentence_furigana": "彼【かれ】はチームに士気【しき】を送【おく】った。",
+    "meaning": "He sent morale to the team."
+  },
+  {
+    "sentence": "その絵は展覧会に送られる予定だ。",
+    "sentence_furigana": "その絵【え】は展覧会【てんらんかい】に送【おく】られる予定【よてい】だ。",
+    "meaning": "The painting is scheduled to be sent to the exhibition."
+  },
+  {
+    "sentence": "彼女は病気の友人を見舞った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の友人【ゆうじん】を見舞【みま】った。",
+    "meaning": "She visited her sick friend."
+  },
+  {
+    "sentence": "彼らは平和な生活を送っている。",
+    "sentence_furigana": "彼【かれ】ら は 平和【へいわ】な生活【せいかつ】を送【おく】っている。",
+    "meaning": "They are living a peaceful life."
+  },
+  {
+    "sentence": "新しい住所に転居届を送りました。",
+    "sentence_furigana": "新【あたら】しい住所【じゅうしょ】に転居届【てんきょとど】けを送【おく】りました。",
+    "meaning": "I sent a change of address notification."
+  },
+  {
+    "sentence": "彼は故郷の家族に毎月仕送りしている。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の家族【かぞく】に毎月【まいげつ】仕送【しお】くりしている。",
+    "meaning": "He sends money to his family in his hometown every month."
+  },
+  {
+    "sentence": "この本を推薦します。",
+    "sentence_furigana": "この本【ほん】を推薦【すいせん】します。",
+    "meaning": "I recommend this book."
+  },
+  {
+    "sentence": "彼は多くの人に希望を送った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】に希望【きぼう】を送【おく】った。",
+    "meaning": "He sent hope to many people."
+  },
+  {
+    "sentence": "彼女は空港で両親を見送った。",
+    "sentence_furigana": "彼女【かのじょ】は空港【くうこう】で両親【りょうしん】を見送【みおく】った。",
+    "meaning": "She saw her parents off at the airport."
+  },
+  {
+    "sentence": "この荷物は速達で送ってください。",
+    "sentence_furigana": "この荷物【にもつ】は速達【そくたつ】で送【おく】ってください。",
+    "meaning": "Please send this package by express mail."
+  },
+  {
+    "sentence": "彼は新しい職務を送っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい職務【しょくむ】を送【おく】っている。",
+    "meaning": "He is undergoing new duties."
+  },
+  {
+    "sentence": "彼女は友人に励ましの言葉を送った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に励【はげ】ましの言葉【ことば】を送【おく】った。",
+    "meaning": "She sent words of encouragement to her friend."
+  },
+  {
+    "sentence": "私たちは故郷の発展に貢献したい。",
+    "sentence_furigana": "私【わたし】たちは故郷【こきょう】の発展【はってん】に貢献【こうけん】したい。",
+    "meaning": "We want to contribute to the development of our hometown."
+  },
+  {
+    "sentence": "彼は友人の家に頻繁に訪問を送っている。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の家【いえ】に頻繁【ひんぱん】に訪問【ほうもん】を送【おく】っている。",
+    "meaning": "He frequently visits his friend's house."
+  },
+  {
+    "sentence": "この書類は確認後、返送してください。",
+    "sentence_furigana": "この書類【しょるい】は確認後【かくにんご】、返送【へんそう】してください。",
+    "meaning": "Please confirm these documents and send them back."
+  },
+  {
+    "sentence": "彼女は患者さんに慰めの言葉を送った。",
+    "sentence_furigana": "彼女【かのじょ】は患者【かんじゃ】さんに慰【なぐさ】めの言葉【ことば】を送【おく】った。",
+    "meaning": "She sent words of comfort to the patient."
+  },
+  {
+    "sentence": "彼は世界中の人々に平和のメッセージを送った。",
+    "sentence_furigana": "彼【かれ】は世界中【せかいじゅう】の人々【ひとびと】に平和【へいわ】のメッセージを送【おく】った。",
+    "meaning": "He sent a message of peace to people all over the world."
+  },
+  {
+    "sentence": "この小包は航空便で送る。",
+    "sentence_furigana": "この小包【こつづみ】は航空便【こうくうびん】で送【おく】る。",
+    "meaning": "This parcel will be sent by airmail."
+  },
+  {
+    "sentence": "彼女は故郷の家族に写真も送った。",
+    "sentence_furigana": "彼女【かのじょ】は故郷【こきょう】の家族【かぞく】に写真【しゃしん】も送【おく】った。",
+    "meaning": "She also sent photos to her family in her hometown."
+  },
+  {
+    "sentence": "彼は同僚にプロジェクトの進捗状況を連絡した。",
+    "sentence_furigana": "彼【かれ】は同僚【どうりょう】にプロジェクトの進捗状況【しんちょくじょうきょう】を連絡【れんらく】した。",
+    "meaning": "He informed his colleagues of the project's progress."
+  },
+  {
+    "sentence": "私たちは子供たちの健やかな成長を祈っています。",
+    "sentence_furigana": "私【わたし】たちは子供【こども】たちの健【すこ】やかな成長【せいちょう】を祈【いの】っています。",
+    "meaning": "We pray for the healthy growth of our children."
+  },
+  {
+    "sentence": "この手紙は長年の親友に送られた。",
+    "sentence_furigana": "この手紙【てがみ】は長年【ながねん】の親友【しんゆう】に送【おく】られた。",
+    "meaning": "This letter was sent to a lifelong best friend."
+  },
+  {
+    "sentence": "彼はボランティア活動で多くの経験を送った。",
+    "sentence_furigana": "彼【かれ】はボランティア活動【かつどう】で多【おお】くの経験【けいけん】を送【おく】った。",
+    "meaning": "He gained a lot of experience through volunteer activities."
+  },
+  {
+    "sentence": "彼女は友人に誕生日プレゼントを送った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に誕生日【たんじょうび】プレゼントを送【おく】った。",
+    "meaning": "She sent a birthday present to her friend."
+  },
+  {
+    "sentence": "彼は故郷に帰る前に見送りの会を開いた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】に帰【かえ】る前【まえ】に見送【みおく】りの会【かい】を開【ひら】いた。",
+    "meaning": "He held a farewell gathering before returning to his hometown."
+  },
+  {
+    "sentence": "このメールは緊急の連絡を送るために使われます。",
+    "sentence_furigana": "このメールは緊急【きんきゅう】の連絡【れんらく】を送【おく】るために使【つか】われます。",
+    "meaning": "This email is used to send urgent notifications."
+  },
+  {
+    "sentence": "彼女は病気の母親に励ましのメッセージを送った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の母親【ははおや】に励【はげ】ましのメッセージを送【おく】った。",
+    "meaning": "She sent a message of encouragement to her sick mother."
+  },
+  {
+    "sentence": "彼はチームに勇気と希望を送った。",
+    "sentence_furigana": "彼【かれ】はチームに勇気【ゆうき】と希望【きぼう】を送【おく】った。",
+    "meaning": "He sent courage and hope to the team."
+  },
+  {
+    "sentence": "私たちは困難な状況に立ち向かいます。",
+    "sentence_furigana": "私【わたし】たちは困難【こんなん】な状況【じょうきょう】に立【た】ち向【む】かいます。",
+    "meaning": "We will face difficult situations."
+  },
+  {
+    "sentence": "この CD は友達に送ってあげよう。",
+    "sentence_furigana": "この CD は友達【ともだち】に送【おく】ってあげよう。",
+    "meaning": "Let's give this CD to a friend."
+  },
+  {
+    "sentence": "彼は長年の友人との別れを惜しんだ。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の友人【ゆうじん】との別【わか】れを惜【お】しんだ。",
+    "meaning": "He regretted parting with his long-time friend."
+  },
+  {
+    "sentence": "彼女は故郷に帰る姉を見送った。",
+    "sentence_furigana": "彼女【かのじょ】は故郷【こきょう】に帰【かえ】る姉【あね】を見送【みおく】った。",
+    "meaning": "She saw off her sister returning to her hometown."
+  },
+  {
+    "sentence": "この荷物は明日中に配達します。",
+    "sentence_furigana": "この荷物【にもつ】は明日中【あすじゅう】に配達【はいたつ】します。",
+    "meaning": "This package will be delivered by tomorrow."
+  },
+  {
+    "sentence": "彼は多くの人に夢と希望を送る活動をしている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】に夢【ゆめ】と希望【きぼう】を送【おく】る活動【かつどう】をしている。",
+    "meaning": "He is engaged in activities to send dreams and hope to many people."
+  },
+  {
+    "sentence": "彼女は恩師に感謝の手紙を送った。",
+    "sentence_furigana": "彼女【かのじょ】は恩師【おんし】に感謝【かんしゃ】の手紙【てがみ】を送【おく】った。",
+    "meaning": "She sent a letter of gratitude to her former teacher."
+  },
+  {
+    "sentence": "この商品は安全に輸送されます。",
+    "sentence_furigana": "この商品【しょうひん】は安全【あんぜん】に輸送【ゆそう】されます。",
+    "meaning": "This product will be transported safely."
+  },
+  {
+    "sentence": "彼は遠い異国で戦死した友人を偲んで歌を送った。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い異国【いこく】で戦死【せんし】した友人【ゆうじん】を偲【しの】んで歌【うた】を送【おく】った。",
+    "meaning": "He sent a song in memory of his friend who died in battle in a distant foreign country."
+  },
+  {
+    "sentence": "彼女はチームの勝利を祈った。",
+    "sentence_furigana": "彼女【かのじょ】はチームの勝利【しょうり】を祈【いの】った。",
+    "meaning": "She prayed for the team's victory."
+  },
+  {
+    "sentence": "このメールは送信前に確認してください。",
+    "sentence_furigana": "このメールは送信前【そうしんまえ】に確認【かくにん】してください。",
+    "meaning": "Please check this email before sending it."
+  },
+  {
+    "sentence": "彼は故郷の発展に貢献したいと考えている。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の発展【はってん】に貢献【こうけん】したいと考【かんが】えている。",
+    "meaning": "He wants to contribute to the development of his hometown."
+  },
+  {
+    "sentence": "彼女は友人たちの成功を心から願っている。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】たちの成功【せいこう】を心【こころ】から願【ねが】っている。",
+    "meaning": "She sincerely wishes for her friends' success."
+  },
+  {
+    "sentence": "この製品は海外市場に向けて送られています。",
+    "sentence_furigana": "この製品【せいひん】は海外市場【かいがいしじょう】向【む】けに送【おく】られています。",
+    "meaning": "This product is being sent to overseas markets."
+  },
+  {
+    "sentence": "彼は故郷に多くの恩恵を送った。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】に多【おお】くの恩恵【おんけい】を送【おく】った。",
+    "meaning": "He brought many benefits to his hometown."
+  },
+  {
+    "sentence": "彼女は災害で被災した人々に支援物資を送った。",
+    "sentence_furigana": "彼女【かのじょ】は災害【さいがい】で被災【ひさい】した人々【ひとびと】に支援物資【しえんぶっし】を送【おく】った。",
+    "meaning": "She sent relief supplies to the disaster victims."
+  },
+  {
+    "sentence": "私たちは新しい生活を送ります。",
+    "sentence_furigana": "私【わたし】たちは新【あたら】しい生活【せいかつ】を送【おく】ります。",
+    "meaning": "We will start a new life."
+  },
+  {
+    "sentence": "彼は亡くなった家族に追悼のメッセージを送った。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった家族【かぞく】に追悼【ついとう】のメッセージを送【おく】った。",
+    "meaning": "He sent a message of mourning to his deceased family."
+  },
+  {
+    "sentence": "彼女は病気の友人に薬を送った。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の友人【ゆうじん】に薬【くすり】を送【おく】った。",
+    "meaning": "She sent medicine to her sick friend."
+  },
+  {
+    "sentence": "この小包は日本郵便で送ります。",
+    "sentence_furigana": "この小包【こつづみ】は日本郵便【にほんゆうびん】で送【おく】ります。",
+    "meaning": "This parcel will be sent by Japan Post."
+  },
+  {
+    "sentence": "彼は人生の新しい章を送っている。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】のнов【あた】らしい章【しょう】を送【おく】っている。",
+    "meaning": "He is embarking on a new chapter in his life."
+  },
+  {
+    "sentence": "彼女は友人に励ましの言葉を届けた。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】に励【はげ】ましの言葉【ことば】を届【とど】けた。",
+    "meaning": "She delivered words of encouragement to her friends."
+  },
+  {
+    "sentence": "私たちは故郷の自然を守るために活動しています。",
+    "sentence_furigana": "私【わたし】たちは故郷【こきょう】の自然【しぜん】を守【まも】るために活動【かつどう】しています。",
+    "meaning": "We are working to protect the nature of our hometown."
+  },
+  {
+    "sentence": "彼は多くの人に感謝の気持ちを伝えた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】に感謝【かんしゃ】の気持【きも】ちを伝【つた】えた。",
+    "meaning": "He conveyed his gratitude to many people."
+  },
+  {
+    "sentence": "彼女は故郷の家族に元気であることを伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は故郷【こきょう】の家族【かぞく】に元気【げんき】であることを伝【つた】えた。",
+    "meaning": "She let her family in her hometown know that she was well."
+  },
+  {
+    "sentence": "この小包は船便で送ります。",
+    "sentence_furigana": "この小包【こつづみ】は船便【ふなびん】で送【おく】ります。",
+    "meaning": "This parcel will be sent by sea mail."
+  },
+  {
+    "sentence": "彼は人生の最期まで多くの人に影響を与えた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の最期【さいご】まで多【おお】くの人【ひと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "He influenced many people until the end of his life."
+  }
+]

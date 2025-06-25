@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "先生が生徒に指示を出した。",
+    "sentence_furigana": "先生【せんせい】が生徒【せいと】に指示【しじ】を出【だ】した。",
+    "meaning": "The teacher gave instructions to the students."
+  },
+  {
+    "sentence": "この看板は道を示している。",
+    "sentence_furigana": "この看板【かんばん】は道【みち】を示【しめ】している。",
+    "meaning": "This signpost indicates the way."
+  },
+  {
+    "sentence": "彼は自分の意見をはっきりと示した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】をはっきりと示【しめ】した。",
+    "meaning": "He clearly expressed his opinion."
+  },
+  {
+    "sentence": "祭壇には供え物が示されていた。",
+    "sentence_furigana": "祭壇【さいだん】には供【そな】え物【もの】が示【しめ】されていた。",
+    "meaning": "Offerings were displayed on the altar."
+  },
+  {
+    "sentence": "新しい研究結果が示された。",
+    "sentence_furigana": "新【あら】しい研究結果【けんきゅうけっか】が示【しめ】された。",
+    "meaning": "New research findings were presented."
+  },
+  {
+    "sentence": "地図上で目的地を示してください。",
+    "sentence_furigana": "地図上【ちずじょう】で目的地【もくてきち】を示【しめ】してください。",
+    "meaning": "Please indicate the destination on the map."
+  },
+  {
+    "sentence": "彼は驚きを顔に示した。",
+    "sentence_furigana": "彼【かれ】は驚【おどろ】きを顔【かお】に示【しめ】した。",
+    "meaning": "He showed surprise on his face."
+  },
+  {
+    "sentence": "その事故の原因が示唆された。",
+    "sentence_furigana": "その事故【じこ】の原因【げんいん】が示唆【しさ】された。",
+    "meaning": "The cause of the accident was suggested."
+  },
+  {
+    "sentence": "彼は成功への道を示してくれた。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への道【みち】を示【しめ】してくれた。",
+    "meaning": "He showed me the way to success."
+  },
+  {
+    "sentence": "展示されている絵はどれも素晴らしい。",
+    "sentence_furigana": "展示【てんじ】されている絵【え】はどれも素晴【すば】らしい。",
+    "meaning": "All the paintings on display are wonderful."
+  },
+  {
+    "sentence": "彼はその事実を示そうとした。",
+    "sentence_furigana": "彼【かれ】は事実【じじつ】を示【しめ】そうとした。",
+    "meaning": "He tried to show that fact."
+  },
+  {
+    "sentence": "古い地図が失われた宝の場所を示している。",
+    "sentence_furigana": "古【ふる】い地図【ちず】が失【うしな】われた宝【たから】の場所【ばしょ】を示【しめ】している。",
+    "meaning": "The old map shows the location of the lost treasure."
+  },
+  {
+    "sentence": "彼女は才能を遺憾なく示した。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】を遺憾【いかん】なく示【しめ】した。",
+    "meaning": "She displayed her talent to the fullest."
+  },
+  {
+    "sentence": "科学者は実験で仮説を証明した。",
+    "sentence_furigana": "科学者【かがくしゃ】は実験【じっけん】で仮説【かせつ】を証明【しょうめい】した。",
+    "meaning": "The scientist proved the hypothesis through an experiment."
+  },
+  {
+    "sentence": "彼は将来性を十分に示した。",
+    "sentence_furigana": "彼【かれ】は将来性【しょうらいせい】を十分【じゅうぶん】に示【しめ】した。",
+    "meaning": "He showed great potential for the future."
+  },
+  {
+    "sentence": "このデータは傾向を示唆しています。",
+    "sentence_furigana": "このデータは傾向【けいこう】を示唆【しさ】しています。",
+    "meaning": "This data suggests a trend."
+  },
+  {
+    "sentence": "彼は感謝の気持ちを表した。",
+    "sentence_furigana": "彼【かれ】は感謝【かんしゃ】の気持【きも】ちを表【あらわ】した。",
+    "meaning": "He expressed his gratitude."
+  },
+  {
+    "sentence": "その指輪は彼の忠誠心を示していた。",
+    "sentence_furigana": "その指輪【ゆびわ】は彼【かれ】の忠誠心【ちゅうせいしん】を示【しめ】していた。",
+    "meaning": "The ring showed his loyalty."
+  },
+  {
+    "sentence": "医者は病状を詳しく説明した。",
+    "sentence_furigana": "医者【いしゃ】は病状【びょうじょう】を詳【くわ】しく説明【せつめい】した。",
+    "meaning": "The doctor explained the patient's condition in detail."
+  },
+  {
+    "sentence": "彼の行動は真実を示している。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は真実【しんじつ】を示【しめ】している。",
+    "meaning": "His actions indicate the truth."
+  },
+  {
+    "sentence": "展覧会には多くの絵画が展示されている。",
+    "sentence_furigana": "展覧会【てんらんかい】には多【おお】くの絵画【かいが】が展示【てんじ】されている。",
+    "meaning": "Many paintings are exhibited at the exhibition."
+  },
+  {
+    "sentence": "彼はリーダーシップを示した。",
+    "sentence_furigana": "彼【かれ】はリーダーシップを示【しめ】した。",
+    "meaning": "He demonstrated leadership."
+  },
+  {
+    "sentence": "その標識は危険を示している。",
+    "sentence_furigana": "その標識【ひょうしき】は危険【きけん】を示【しめ】している。",
+    "meaning": "That sign indicates danger."
+  },
+  {
+    "sentence": "彼は自身の無罪を主張した。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の無罪【むざい】を主張【しゅちょう】した。",
+    "meaning": "He asserted his innocence."
+  },
+  {
+    "sentence": "過去の記録がその出来事を示唆している。",
+    "sentence_furigana": "過去【かこ】の記録【きろく】がその出来事【できごと】を示唆【しさ】している。",
+    "meaning": "Past records suggest that event."
+  },
+  {
+    "sentence": "彼女は芸術への情熱を示した。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】への情熱【じょうねつ】を示【しめ】した。",
+    "meaning": "She showed her passion for art."
+  },
+  {
+    "sentence": "彼の顔には疲労の色が示されていた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には疲労【ひろう】の色【いろ】が示【しめ】されていた。",
+    "meaning": "His face showed signs of fatigue."
+  },
+  {
+    "sentence": "このグラフは成長の傾向を示している。",
+    "sentence_furigana": "このグラフは成長【せいちょう】の傾向【けいこう】を示【しめ】している。",
+    "meaning": "This graph shows a growth trend."
+  },
+  {
+    "sentence": "彼は勇気ある行動を示した。",
+    "sentence_furigana": "彼【かれ】は勇気【ゆうき】ある行動【こうどう】を示【しめ】した。",
+    "meaning": "He showed courageous behavior."
+  },
+  {
+    "sentence": "その結果は我々の予想を示している。",
+    "sentence_furigana": "その結果【けっか】は我々【われわれ】の予想【よそう】を示【しめ】している。",
+    "meaning": "The results indicate our expectations."
+  },
+  {
+    "sentence": "彼はその問題点を指摘した。",
+    "sentence_furigana": "彼【かれ】は問題点【もんだいてん】を指摘【してき】した。",
+    "meaning": "He pointed out the problem."
+  },
+  {
+    "sentence": "展示されている作品はどれも魅力的だ。",
+    "sentence_furigana": "展示【てんじ】されている作品【さくひん】はどれも魅力的【みりょくてき】だ。",
+    "meaning": "All the works on display are attractive."
+  },
+  {
+    "sentence": "彼は友好的な態度を示した。",
+    "sentence_furigana": "彼【かれ】は友好的【ゆうこうてき】な態度【たいど】を示【しめ】した。",
+    "meaning": "He showed a friendly attitude."
+  },
+  {
+    "sentence": "この標識は出口を示している。",
+    "sentence_furigana": "この標識【ひょうしき】は出口【でぐち】を示【しめ】している。",
+    "meaning": "This sign indicates the exit."
+  },
+  {
+    "sentence": "彼は冷静さを保ち続けた。",
+    "sentence_furigana": "彼【かれ】は冷静【れいせい】さを保【たも】ち続【つづ】けた。",
+    "meaning": "He maintained his composure."
+  },
+  {
+    "sentence": "彼女は才能の片鱗を示した。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】の片鱗【へんりん】を示【しめ】した。",
+    "meaning": "She showed a glimpse of her talent."
+  },
+  {
+    "sentence": "地図が我々の進むべき方向を示していた。",
+    "sentence_furigana": "地図【ちず】が我々【われわれ】の進【すす】むべき方向【ほうこう】を示【しめ】していた。",
+    "meaning": "The map indicated the direction we should go."
+  },
+  {
+    "sentence": "彼は真のリーダーシップを示せるか？",
+    "sentence_furigana": "彼【かれ】は真【しん】のリーダーシップを示【しめ】せるか？",
+    "meaning": "Can he show true leadership?"
+  },
+  {
+    "sentence": "このデータは今後の見通しを示唆している。",
+    "sentence_furigana": "このデータは今後【こんご】の見通【みと】しを示唆【しさ】している。",
+    "meaning": "This data suggests future prospects."
+  },
+  {
+    "sentence": "彼は多くの経験を示していた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を示【しめ】していた。",
+    "meaning": "He showed much experience."
+  },
+  {
+    "sentence": "その光は希望を示しているようだった。",
+    "sentence_furigana": "その光【ひかり】は希望【きぼう】を示【しめ】しているようだった。",
+    "meaning": "The light seemed to indicate hope."
+  },
+  {
+    "sentence": "彼は複雑な感情を表した。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な感情【かんじょう】を表【あらわ】した。",
+    "meaning": "He expressed complex emotions."
+  },
+  {
+    "sentence": "この研究は新たな可能性を示唆した。",
+    "sentence_furigana": "この研究【けんきゅう】は新【あら】たな可能性【かのうせい】を示唆【しさ】した。",
+    "meaning": "This research suggested new possibilities."
+  },
+  {
+    "sentence": "彼は計画通りに作業を進めた。",
+    "sentence_furigana": "彼【かれ】は計画通【けいかくとお】り作業【さぎょう】を進【すす】めた。",
+    "meaning": "He proceeded with the work as planned."
+  },
+  {
+    "sentence": "彼の態度は協力を示している。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は協力【きょうりょく】を示【しめ】している。",
+    "meaning": "His attitude indicates cooperation."
+  },
+  {
+    "sentence": "彼女は悲しみを顔に示した。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しみを顔【かお】に示【しめ】した。",
+    "meaning": "She showed sadness on her face."
+  },
+  {
+    "sentence": "この文は重要な点を指している。",
+    "sentence_furigana": "この文【ぶん】は重要【じゅうよう】な点【てん】を指【さ】している。",
+    "meaning": "This sentence points to an important point."
+  },
+  {
+    "sentence": "彼は自慢げな表情を示した。",
+    "sentence_furigana": "彼【かれ】は自慢気【じまんげ】な表情【ひょうじょう】を示【しめ】した。",
+    "meaning": "He showed a proud expression."
+  },
+  {
+    "sentence": "その標識は一時停止を示している。",
+    "sentence_furigana": "その標識【ひょうしき】は一時停止【いちじていし】を示【しめ】している。",
+    "meaning": "That sign indicates a temporary stop."
+  },
+  {
+    "sentence": "彼は静かに怒りを示した。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに怒【いか】りを示【しめ】した。",
+    "meaning": "He quietly showed his anger."
+  },
+  {
+    "sentence": "この結果は将来の成功を示唆している。",
+    "sentence_furigana": "この結果【けっか】は将来【しょうらい】の成功【せいこう】を示唆【しさ】している。",
+    "meaning": "These results suggest future success."
+  },
+  {
+    "sentence": "彼は希望の光を示してくれた。",
+    "sentence_furigana": "彼【かれ】は希望【きぼう】の光【ひかり】を示【しめ】してくれた。",
+    "meaning": "He showed me a ray of hope."
+  },
+  {
+    "sentence": "この絵は作者の苦悩を示している。",
+    "sentence_furigana": "この絵【え】は作者【さくしゃ】の苦悩【くのう】を示【しめ】している。",
+    "meaning": "This painting shows the artist's suffering."
+  },
+  {
+    "sentence": "彼は困難な状況を示した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】を示【しめ】した。",
+    "meaning": "He showed the difficult situation."
+  },
+  {
+    "sentence": "その印は宝の隠し場所を示していた。",
+    "sentence_furigana": "その印【しるし】は宝【たから】の隠【かく】し場所【ばしょ】を示【しめ】していた。",
+    "meaning": "The mark indicated the hiding place of the treasure."
+  },
+  {
+    "sentence": "彼女は才能を見事に示した。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】を見事【みごと】に示【しめ】した。",
+    "meaning": "She impressively displayed her talent."
+  },
+  {
+    "sentence": "このデータは問題点を示唆している。",
+    "sentence_furigana": "このデータは問題点【もんだいてん】を示唆【しさ】している。",
+    "meaning": "This data suggests problems."
+  },
+  {
+    "sentence": "彼はその真実を明らかにした。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】を明【あき】らかにした。",
+    "meaning": "He revealed the truth."
+  },
+  {
+    "sentence": "彼の行動は強い意志を示していた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は強【つよ】い意志【いし】を示【しめ】していた。",
+    "meaning": "His actions showed strong will."
+  },
+  {
+    "sentence": "その表示は注意を促している。",
+    "sentence_furigana": "その表示【ひょうじ】は注意【ちゅうい】を促【うな】がしている。",
+    "meaning": "The display urges caution."
+  },
+  {
+    "sentence": "彼は新しいアイデアを示した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなアイデアを示【しめ】した。",
+    "meaning": "He presented a new idea."
+  },
+  {
+    "sentence": "その報告書は現状を示している。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は現状【げんじょう】を示【しめ】している。",
+    "meaning": "The report indicates the current situation."
+  },
+  {
+    "sentence": "彼は自分の意見を表明した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を表明【ひょうめい】した。",
+    "meaning": "He expressed his opinion."
+  },
+  {
+    "sentence": "この絵は平和な風景を示している。",
+    "sentence_furigana": "この絵【え】は平和【へいわ】な風景【ふうけい】を示【しめ】している。",
+    "meaning": "This painting depicts a peaceful landscape."
+  },
+  {
+    "sentence": "彼は勇気を示して立ち向かった。",
+    "sentence_furigana": "彼【かれ】は勇気【ゆうき】を示【しめ】して立【た】ち向【む】かった。",
+    "meaning": "He bravely stood up to it."
+  },
+  {
+    "sentence": "この地図は近道を指し示している。",
+    "sentence_furigana": "この地図【ちず】は近道【ちかみち】を指【さ】し示【しめ】している。",
+    "meaning": "This map points out a shortcut."
+  },
+  {
+    "sentence": "彼は謙虚さを示した。",
+    "sentence_furigana": "彼【かれ】は謙虚【けんきょ】さを示【しめ】した。",
+    "meaning": "He showed humility."
+  },
+  {
+    "sentence": "その事件は社会の歪みを示唆していた。",
+    "sentence_furigana": "その事件【じけん】は社会【しゃかい】の歪【ゆが】みを示唆【しさ】していた。",
+    "meaning": "The incident suggested societal distortions."
+  },
+  {
+    "sentence": "彼は計画を提示した。",
+    "sentence_furigana": "彼【かれ】は計画【けいかく】を提示【ていじ】した。",
+    "meaning": "He presented the plan."
+  },
+  {
+    "sentence": "その兆候は良い結果を示している。",
+    "sentence_furigana": "その兆候【ちょうこう】は良【よ】い結果【けっか】を示【しめ】している。",
+    "meaning": "The signs indicate a good outcome."
+  },
+  {
+    "sentence": "彼は友情を示した。",
+    "sentence_furigana": "彼【かれ】は友情【ゆうじょう】を示【しめ】した。",
+    "meaning": "He showed friendship."
+  },
+  {
+    "sentence": "この書類は契約内容を示しています。",
+    "sentence_furigana": "この書類【しょるい】は契約内容【けいやくないよう】を示【しめ】しています。",
+    "meaning": "This document shows the contract details."
+  },
+  {
+    "sentence": "彼は希望を示唆する言葉を言った。",
+    "sentence_furigana": "彼【かれ】は希望【きぼう】を示唆【しさ】する言葉【ことば】を言【い】った。",
+    "meaning": "He said words suggesting hope."
+  },
+  {
+    "sentence": "この展示は歴史的瞬間を示している。",
+    "sentence_furigana": "この展示【てんじ】は歴史的瞬間【れきしてきしゅんかん】を示【しめ】している。",
+    "meaning": "This exhibition shows a historic moment."
+  },
+  {
+    "sentence": "彼は成功の可能性を示唆した。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】の可能性【かのうせい】を示唆【しさ】した。",
+    "meaning": "He suggested the possibility of success."
+  },
+  {
+    "sentence": "彼は率直な意見を示した。",
+    "sentence_furigana": "彼【かれ】は率直【そっちょく】な意見【いけん】を示【しめ】した。",
+    "meaning": "He gave an honest opinion."
+  },
+  {
+    "sentence": "その標識は進路を示している。",
+    "sentence_furigana": "その標識【ひょうしき】は進路【しんろ】を示【しめ】している。",
+    "meaning": "That sign indicates the path."
+  },
+  {
+    "sentence": "彼は悲しみを押し隠した。",
+    "sentence_furigana": "彼【かれ】は悲【かな】しみを押【お】し隠【かく】した。",
+    "meaning": "He hid his sadness."
+  },
+  {
+    "sentence": "このグラフは売上の増加を示している。",
+    "sentence_furigana": "このグラフは売上【うりあげ】の増加【ぞうか】を示【しめ】している。",
+    "meaning": "This graph shows an increase in sales."
+  },
+  {
+    "sentence": "彼は未来への希望を示した。",
+    "sentence_furigana": "彼【かれ】は未来【みらい】への希望【きぼう】を示【しめ】した。",
+    "meaning": "He showed hope for the future."
+  },
+  {
+    "sentence": "この表示は重要な情報を示している。",
+    "sentence_furigana": "この表示【ひょうじ】は重要【じゅうよう】な情報【じょうほう】を示【しめ】している。",
+    "meaning": "This display shows important information."
+  },
+  {
+    "sentence": "彼は理解を示した。",
+    "sentence_furigana": "彼【かれ】は理解【りかい】を示【しめ】した。",
+    "meaning": "He showed understanding."
+  },
+  {
+    "sentence": "その標識は休憩所を示している。",
+    "sentence_furigana": "その標識【ひょうしき】は休憩所【きゅうけいじょ】を示【しめ】している。",
+    "meaning": "That sign indicates a rest stop."
+  },
+  {
+    "sentence": "彼は平和を訴えた。",
+    "sentence_furigana": "彼【かれ】は平和【へいわ】を訴【うった】えた。",
+    "meaning": "He appealed for peace."
+  },
+  {
+    "sentence": "この絵は彼の苦悩を示唆している。",
+    "sentence_furigana": "この絵【え】は彼【かれ】の苦悩【くのう】を示唆【しさ】している。",
+    "meaning": "This painting suggests his suffering."
+  },
+  {
+    "sentence": "彼は協力を申し出た。",
+    "sentence_furigana": "彼【かれ】は協力【きょうりょく】を申【もう】し出【で】た。",
+    "meaning": "He offered cooperation."
+  },
+  {
+    "sentence": "その変化は改善を示している。",
+    "sentence_furigana": "その変化【へんか】は改善【かいぜん】を示【しめ】している。",
+    "meaning": "The change indicates improvement."
+  },
+  {
+    "sentence": "彼は感謝を示そうとした。",
+    "sentence_furigana": "彼【かれ】は感謝【かんしゃ】を示【しめ】そうとした。",
+    "meaning": "He tried to show his gratitude."
+  },
+  {
+    "sentence": "この標識は方向を示している。",
+    "sentence_furigana": "この標識【ひょうしき】は方向【ほうこう】を示【しめ】している。",
+    "meaning": "This sign indicates direction."
+  },
+  {
+    "sentence": "彼は真実を示した。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】を示【しめ】した。",
+    "meaning": "He showed the truth."
+  },
+  {
+    "sentence": "その兆候は危険を示唆していた。",
+    "sentence_furigana": "その兆候【ちょうこう】は危険【きけん】を示唆【しさ】していた。",
+    "meaning": "The signs suggested danger."
+  },
+  {
+    "sentence": "彼は新しい道を示してくれた。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな道【みち】を示【しめ】してくれた。",
+    "meaning": "He showed me a new path."
+  }
+]

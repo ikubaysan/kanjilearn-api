@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "皇后陛下は国民に慈愛を施された。",
+    "sentence_furigana": "皇后【こうごう】陛下【へいか】は国民【こくみん】に慈愛【じあい】を施【ほどこ】された。",
+    "meaning": "Her Majesty the Empress bestowed benevolence upon the people."
+  },
+  {
+    "sentence": "彼女は次の国王の后となる予定だ。",
+    "sentence_furigana": "彼女【かのじょ】は次【つぎ】の国王【こくおう】の后【きさき】となる予定【よてい】だ。",
+    "meaning": "She is scheduled to become the queen consort of the next king."
+  },
+  {
+    "sentence": "王后は賢く、国の統治に貢献した。",
+    "sentence_furigana": "王后【おうこう】は賢【かしこ】く、国【くに】の統治【とうち】に貢献【こうけん】した。",
+    "meaning": "The queen was wise and contributed to the governance of the country."
+  },
+  {
+    "sentence": "彼は彼女の後ろに立っていた。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の後【うし】ろに立【た】っていた。",
+    "meaning": "He was standing behind her."
+  },
+  {
+    "sentence": "その出来事は私の記憶の後にも残った。",
+    "sentence_furigana": "その出来事【できごと】は私【わたし】の記憶【きおく】の後【あと】にも残【のこ】った。",
+    "meaning": "That event remained in my memory afterward."
+  },
+  {
+    "sentence": "会議の後で、私たちは食事に行った。",
+    "sentence_furigana": "会議【かいぎ】の後【あと】で、私【わたし】たち食事【しょくじ】に行【い】った。",
+    "meaning": "After the meeting, we went to dinner."
+  },
+  {
+    "sentence": "私は彼の後を追って走った。",
+    "sentence_furigana": "私【わたし】は彼【かれ】の後【あと】を追【お】って走【はし】った。",
+    "meaning": "I ran chasing after him."
+  },
+  {
+    "sentence": "王の死後、権力闘争が始まった。",
+    "sentence_furigana": "王【おう】の死後【しご】、権力闘争【けんりょくとうそう】が始【はじ】まった。",
+    "meaning": "After the king's death, a power struggle began."
+  },
+  {
+    "sentence": "彼女は王国で最も影響力のある人物だった。",
+    "sentence_furigana": "彼女【かのじょ】は王国【おうこく】で最も【もっとも】影響力【えいきょうりょく】のある人物【じんぶつ】だった。",
+    "meaning": "She was the most influential person in the kingdom."
+  },
+  {
+    "sentence": "新しい女王が即位する日が近づいている。",
+    "sentence_furigana": "新【あたら】しい女王【じょおう】が即位【そくい】する日【ひ】が近【ちか】づいている。",
+    "meaning": "The day the new queen will ascend the throne is approaching."
+  },
+  {
+    "sentence": "王の後継者はまだ決まっていない。",
+    "sentence_furigana": "王【おう】の後継者【こうけいしゃ】はまだ決【き】まっていない。",
+    "meaning": "The king's successor has not yet been decided."
+  },
+  {
+    "sentence": "彼女はかつての女王の肖像画を眺めた。",
+    "sentence_furigana": "彼女【かのじょ】はかつての女王【じょおう】の肖像画【しょうぞうが】を眺【なが】めた。",
+    "meaning": "She gazed at the portrait of the former queen."
+  },
+  {
+    "sentence": "後ろを振り返ると、誰もいなかった。",
+    "sentence_furigana": "後【うし】ろを振【ふ】り返【かえ】ると、誰【だれ】もいなかった。",
+    "meaning": "When I looked back, there was no one there."
+  },
+  {
+    "sentence": "この法案は国民の後に施行される予定です。",
+    "sentence_furigana": "この法案【ほうあん】は国民【こくみん】の後【あと】に施行【しこう】される予定【よてい】です。",
+    "meaning": "This bill is scheduled to be enacted after the public."
+  },
+  {
+    "sentence": "彼は王后の忠実な部下だった。",
+    "sentence_furigana": "彼【かれ】は王后【おうこう】の忠実【ちゅうじつ】な部下【ぶか】だった。",
+    "meaning": "He was the queen's loyal subordinate."
+  },
+  {
+    "sentence": "次の場面では、彼女が主人公の後を引き継ぐ。",
+    "sentence_furigana": "次【つぎ】の場面【ばめん】では、彼女【かのじょ】が主人公【しゅじんこう】の後【あと】を引【ひ】き継【つ】ぐ。",
+    "meaning": "In the next scene, she will take over from the protagonist."
+  },
+  {
+    "sentence": "私たちは王の後援を受けて事業を始めた。",
+    "sentence_furigana": "私【わたし】たち王【おう】の後援【こうえん】を受【う】けて事業【じぎょう】を始【はじ】めた。",
+    "meaning": "We started the business with the king's patronage."
+  },
+  {
+    "sentence": "彼女は王后としての務めを果たした。",
+    "sentence_furigana": "彼女【かのじょ】は王后【おうこう】としての務【つと】めを果【は】たした。",
+    "meaning": "She fulfilled her duties as queen consort."
+  },
+  {
+    "sentence": "その事件の後、彼の態度は変わった。",
+    "sentence_furigana": "その事件【じけん】の後【あと】、彼【かれ】の態度【たいど】は変【か】わった。",
+    "meaning": "After that incident, his attitude changed."
+  },
+  {
+    "sentence": "彼女は女王の后妃として尊敬されていた。",
+    "sentence_furigana": "彼女【かのじょ】は女王【じょおう】の后妃【こうひ】として尊敬【そんけい】されていた。",
+    "meaning": "She was respected as the queen's consort."
+  },
+  {
+    "sentence": "王后は国民からの人気が高かった。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】からの人気【にんき】が高【たか】かった。",
+    "meaning": "The queen consort was popular with the people."
+  },
+  {
+    "sentence": "彼の後任者はまだ決まっていません。",
+    "sentence_furigana": "彼【かれ】の後任者【こうにんしゃ】はまだ決【き】まっていません。",
+    "meaning": "His successor has not yet been decided."
+  },
+  {
+    "sentence": "その日以来、彼女は王后として育てられた。",
+    "sentence_furigana": "その日以来【ひいらい】、彼女【かのじょ】は王后【おうこう】として育【そだ】てられた。",
+    "meaning": "Since that day, she has been raised as the queen consort."
+  },
+  {
+    "sentence": "王后は国の平和のために尽力した。",
+    "sentence_furigana": "王后【おうこう】は国【くに】の平和【へいわ】のために尽力【じんりょく】した。",
+    "meaning": "The queen consort strove for the peace of the country."
+  },
+  {
+    "sentence": "次の会議は来週の後に行われます。",
+    "sentence_furigana": "次【つぎ】の会議【かいぎ】は来週【らいしゅう】の後【あと】に行【おこな】われます。",
+    "meaning": "The next meeting will be held after next week."
+  },
+  {
+    "sentence": "彼女は王后の寵愛を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は王后【おうこう】の寵愛【ちょうあい】を受【う】けた。",
+    "meaning": "She received the queen consort's favor."
+  },
+  {
+    "sentence": "王の後ろ姿は威厳があった。",
+    "sentence_furigana": "王【おう】の後ろ姿【うしろすがた】は威厳【いげん】があった。",
+    "meaning": "The king's back was majestic."
+  },
+  {
+    "sentence": "その変更は後の世代に影響を与えるだろう。",
+    "sentence_furigana": "その変更【へんこう】は後【あと】の世代【せだい】に影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "That change will affect future generations."
+  },
+  {
+    "sentence": "彼女は王の唯一の后だった。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の唯一【ゆいいつ】の后【きさき】だった。",
+    "meaning": "She was the king's only wife."
+  },
+  {
+    "sentence": "王后は常に国民の幸福を願っていた。",
+    "sentence_furigana": "王后【おうこう】は常【つね】に国民【こくみん】の幸福【こうふく】を願【ねが】っていた。",
+    "meaning": "The queen consort always wished for the happiness of the people."
+  },
+  {
+    "sentence": "彼が去った後、部屋は静かになった。",
+    "sentence_furigana": "彼【かれ】が去【さ】った後【あと】、部屋【へや】は静【しず】かになった。",
+    "meaning": "After he left, the room became quiet."
+  },
+  {
+    "sentence": "彼女は王の後継者となる王子と結婚した。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】となる王子【おうじ】と結婚【けっこん】した。",
+    "meaning": "She married the prince who would become the king's successor."
+  },
+  {
+    "sentence": "王后は芸術を保護し、文化を発展させた。",
+    "sentence_furigana": "王后【おうこう】は芸術【げいじゅつ】を保護【ほご】し、文化【ぶんか】を発展【はってん】させた。",
+    "meaning": "The queen consort protected the arts and developed culture."
+  },
+  {
+    "sentence": "その後の計画について話し合いましょう。",
+    "sentence_furigana": "その後【あと】の計画【けいかく】について話【はな】し合【あ】いましょう。",
+    "meaning": "Let's discuss the plan after that."
+  },
+  {
+    "sentence": "彼女は王に次ぐ権力を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】に次【つ】ぐ権力【けんりょく】を持【も】っていた。",
+    "meaning": "She held power second only to the king."
+  },
+  {
+    "sentence": "王后は国民に親しまれる存在だった。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に親【した】しまれる存在【そんざい】だった。",
+    "meaning": "The queen consort was a beloved figure by the people."
+  },
+  {
+    "sentence": "私は彼の後を継ぐ者として育てられた。",
+    "sentence_furigana": "私【わたし】は彼【かれ】の後【あと】を継【つ】ぐ者【もの】として育【そだ】てられた。",
+    "meaning": "I was raised to succeed him."
+  },
+  {
+    "sentence": "彼女は王の新しい后として選ばれた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の新【あたら】しい后【きさき】として選【え】ばれた。",
+    "meaning": "She was chosen as the king's new queen."
+  },
+  {
+    "sentence": "王后は賢明なアドバイスを与えた。",
+    "sentence_furigana": "王后【おうこう】は賢明【けんめい】なアドバイスを与【あた】えた。",
+    "meaning": "The queen consort gave wise advice."
+  },
+  {
+    "sentence": "私たちはその出来事の後で再会した。",
+    "sentence_furigana": "私【わたし】たちその出来事【できごと】の後【あと】で再会【さいかい】した。",
+    "meaning": "We reunited after that event."
+  },
+  {
+    "sentence": "彼女は王の唯一の子供であり、後継者でもあった。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の唯一【ゆいいつ】の子供【こども】であり、後継者【こうけいしゃ】でもあった。",
+    "meaning": "She was the king's only child and also his successor."
+  },
+  {
+    "sentence": "王后は公務を忠実にこなした。",
+    "sentence_furigana": "王后【おうこう】は公務【こうむ】を忠実【ちゅうじつ】にこなした。",
+    "meaning": "The queen consort faithfully performed her public duties."
+  },
+  {
+    "sentence": "会議の後で、私たちはプロジェクトについて話し合った。",
+    "sentence_furigana": "会議【かいぎ】の後【あと】で、私【わたし】たちプロジェクトについて話【はな】し合【あ】った。",
+    "meaning": "After the meeting, we discussed the project."
+  },
+  {
+    "sentence": "彼女は次の女王の母として国を支えた。",
+    "sentence_furigana": "彼女【かのじょ】は次【つぎ】の女王【じょおう】の母【はは】として国【くに】を支【ささ】えた。",
+    "meaning": "She supported the country as the mother of the next queen."
+  },
+  {
+    "sentence": "王后の衣装は豪華絢爛だった。",
+    "sentence_furigana": "王后【おうこう】の衣装【いしょう】は豪華絢爛【ごうかけんらん】だった。",
+    "meaning": "The queen consort's attire was magnificent."
+  },
+  {
+    "sentence": "私たちはその件の後始末に追われた。",
+    "sentence_furigana": "私【わたし】たちその件【けん】の後始末【あとしまつ】に追【お】われた。",
+    "meaning": "We were busy dealing with the aftermath of that matter."
+  },
+  {
+    "sentence": "彼女は王の後継者として教育を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】として教育【きょういく】を受【う】けた。",
+    "meaning": "She was educated as the king's successor."
+  },
+  {
+    "sentence": "王后は国民に希望を与えた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に希望【きぼう】を与【あた】えた。",
+    "meaning": "The queen consort gave hope to the people."
+  },
+  {
+    "sentence": "この歴史的な出来事の後、国は大きく変わった。",
+    "sentence_furigana": "この歴史的【れきしてき】な出来事【できごと】の後【あと】、国【くに】は的大【おお】きく変【か】わった。",
+    "meaning": "After this historic event, the country changed greatly."
+  },
+  {
+    "sentence": "彼女は王の唯一の后であり、多くの愛情を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の唯一【ゆいいつ】の后【きさき】であり、多【おお】くの愛情【あいじょう】を受【う】けた。",
+    "meaning": "She was the king's only wife and received much affection."
+  },
+  {
+    "sentence": "王后は国民の模範となる存在だった。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】の模範【もはん】となる存在【そんざい】だった。",
+    "meaning": "The queen consort was a model for the people."
+  },
+  {
+    "sentence": "その後の彼の人生は順調だった。",
+    "sentence_furigana": "その後【あと】の彼【かれ】の人生【じんせい】は順調【じゅんちょう】だった。",
+    "meaning": "His life afterward was smooth."
+  },
+  {
+    "sentence": "彼女は王の后として国政に参加した。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として国政【こくせい】に参加【さんか】した。",
+    "meaning": "She participated in state affairs as the king's queen."
+  },
+  {
+    "sentence": "王后は国民の福祉のために尽くした。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】の福祉【ふくし】のために尽【つ】くした。",
+    "meaning": "The queen consort dedicated herself to the welfare of the people."
+  },
+  {
+    "sentence": "次のイベントは週末の後です。",
+    "sentence_furigana": "次【つぎ】のイベントは週末【しゅうまつ】の後【あと】です。",
+    "meaning": "The next event is after the weekend."
+  },
+  {
+    "sentence": "彼女は王の后であり、国の象徴だった。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】であり、国【くに】の象徴【しょうちょう】だった。",
+    "meaning": "She was the king's queen and a symbol of the country."
+  },
+  {
+    "sentence": "王后は国民に平和をもたらした。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に平和【へいわ】をもたらした。",
+    "meaning": "The queen consort brought peace to the people."
+  },
+  {
+    "sentence": "彼が去った後、後任者がすぐに来た。",
+    "sentence_furigana": "彼【かれ】が去【さ】った後【あと】、後任者【こうにんしゃ】が即【即】に来【き】た。",
+    "meaning": "After he left, his successor arrived immediately."
+  },
+  {
+    "sentence": "彼女は王の后として、多くの人々に慕われた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、多【おお】くの人々【ひとびと】に慕【した】われた。",
+    "meaning": "As the king's queen, she was adored by many people."
+  },
+  {
+    "sentence": "王后は国のために重要な役割を果たした。",
+    "sentence_furigana": "王后【おうこう】は国【くに】のために重要【じゅうよう】な役割【やくわり】を果た【はた】した。",
+    "meaning": "The queen consort played an important role for the country."
+  },
+  {
+    "sentence": "その後の対応が問題になった。",
+    "sentence_furigana": "その後【あと】の対応【たいおう】が問題【もんだい】になった。",
+    "meaning": "The subsequent response became a problem."
+  },
+  {
+    "sentence": "彼女は王の後継者として育てられた経験があった。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】として育【そだ】てられた経験【けいけん】があった。",
+    "meaning": "She had experience being raised as the king's successor."
+  },
+  {
+    "sentence": "王后は国民に敬意を表した。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に敬意【けいい】を表【ひょう】した。",
+    "meaning": "The queen consort paid respect to the people."
+  },
+  {
+    "sentence": "私たちはその後の展開を見守るしかない。",
+    "sentence_furigana": "私【わたし】たちその後【あと】の展開【てんかい】を見守【みまも】るしかない。",
+    "meaning": "We can only watch the subsequent developments."
+  },
+  {
+    "sentence": "彼女は王の后として、国の文化を豊かにした。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、国【くに】の文化【ぶんか】を豊【ゆた】かにした。",
+    "meaning": "As the king's queen, she enriched the country's culture."
+  },
+  {
+    "sentence": "王后は国民に慈愛の心を示した。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に慈愛【じあい】の心【こころ】を示【しめ】した。",
+    "meaning": "The queen consort showed a compassionate heart towards the people."
+  },
+  {
+    "sentence": "その事件の後、彼は大きな変化を遂げた。",
+    "sentence_furigana": "その事件【じけん】の後【あと】、彼【かれ】は的大【おお】きな変化【へんか】を遂【と】げた。",
+    "meaning": "After that incident, he underwent a great change."
+  },
+  {
+    "sentence": "彼女は王の後継者育成に尽力した。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者育成【こうけいしゃいくせい】に尽力【じんりょく】した。",
+    "meaning": "She worked hard to train the king's successor."
+  },
+  {
+    "sentence": "王后は国民の信頼を得ていた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】の信頼【しんらい】を得【え】ていた。",
+    "meaning": "The queen consort had earned the trust of the people."
+  },
+  {
+    "sentence": "私たちは計画の後、結果を分析する。",
+    "sentence_furigana": "私【わたし】たち計画【けいかく】の後【あと】、結果【けっか】を分析【ぶんせき】する。",
+    "meaning": "After the plan, we will analyze the results."
+  },
+  {
+    "sentence": "彼女は王の后として国の発展に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として国【くに】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "As the king's queen, she contributed to the country's development."
+  },
+  {
+    "sentence": "王后は国民に公正な判断を示した。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に公正【こうせい】な判断【はんだん】を示【しめ】した。",
+    "meaning": "The queen consort showed fair judgment to the people."
+  },
+  {
+    "sentence": "その後の彼の進歩は目覚ましいものだった。",
+    "sentence_furigana": "その後【あと】の彼【かれ】の進歩【しんぽ】は目覚【めざ】ましくものだった。",
+    "meaning": "His progress afterward was remarkable."
+  },
+  {
+    "sentence": "彼女は王の後継者を選ぶ儀式に参加した。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】を選【え】ぶ儀式【ぎしき】に参加【さんか】した。",
+    "meaning": "She participated in the ceremony to choose the king's successor."
+  },
+  {
+    "sentence": "王后は国民の幸福を第一に考えていた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】の幸福【こうふく】を第一【だいいち】に考【かんが】えていた。",
+    "meaning": "The queen consort prioritized the happiness of the people."
+  },
+  {
+    "sentence": "その後の報道を見て、私は驚いた。",
+    "sentence_furigana": "その後【あと】の報道【ほうどう】を見【み】て、私【わたし】は驚【おどろ】いた。",
+    "meaning": "I was surprised to see the subsequent news reports."
+  },
+  {
+    "sentence": "彼女は王の后として、慈善活動に力を入れた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、慈善活動【じぜんかつどう】に力【ちから】を入【い】れた。",
+    "meaning": "As the king's queen, she focused on charitable activities."
+  },
+  {
+    "sentence": "王后は国民に希望のメッセージを送った。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に希望【きぼう】のメッセージを送【おく】った。",
+    "meaning": "The queen consort sent a message of hope to the people."
+  },
+  {
+    "sentence": "私たちはその後の展開を注意深く見守る。",
+    "sentence_furigana": "私【わたし】たちその後【あと】の展開【てんかい】を注意深【ちゅういぶか】く見守【みまも】る。",
+    "meaning": "We are carefully monitoring the subsequent developments."
+  },
+  {
+    "sentence": "彼女は王の後継者となるための訓練を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】となるための訓練【くんれん】を受【う】けた。",
+    "meaning": "She received training to become the king's successor."
+  },
+  {
+    "sentence": "王后は国民に感謝の意を表明した。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に感謝【かんしゃ】の意【い】を表【ひょう】した。",
+    "meaning": "The queen consort expressed her gratitude to the people."
+  },
+  {
+    "sentence": "その後の議論で、新しい方針が決定された。",
+    "sentence_furigana": "その後【あと】の議論【ぎろん】で、新【あたら】しい方針【ほうしん】が決定【けってい】された。",
+    "meaning": "A new policy was decided upon in the subsequent discussion."
+  },
+  {
+    "sentence": "彼女は王の后として、国の未来を築いた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、国【くに】の未来【みらい】を築【きず】いた。",
+    "meaning": "As the king's queen, she built the country's future."
+  },
+  {
+    "sentence": "王后は国民に勇気を与えた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に勇気【ゆうき】を与【あた】えた。",
+    "meaning": "The queen consort gave courage to the people."
+  },
+  {
+    "sentence": "私たちはその後の状況を把握する必要がある。",
+    "sentence_furigana": "私【わたし】たちその後【あと】の状況【じょうきょう】を把握【はあく】する必要【ひつよう】がある。",
+    "meaning": "We need to grasp the subsequent situation."
+  },
+  {
+    "sentence": "彼女は王の後継者としての資質を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】としての資質【ししつ】を持【も】っていた。",
+    "meaning": "She possessed the qualities to be the king's successor."
+  },
+  {
+    "sentence": "王后は国民に平和的な解決策を提案した。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に平和的【へいわてき】な解決策【かいけつさく】を提案【ていあん】した。",
+    "meaning": "The queen consort proposed a peaceful solution to the people."
+  },
+  {
+    "sentence": "その後の交渉は難航した。",
+    "sentence_furigana": "その後【あと】の交渉【こうしょう】は難航【なんこう】した。",
+    "meaning": "The subsequent negotiations were difficult."
+  },
+  {
+    "sentence": "彼女は王の后として、国民の意見を聞いた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、国民【こくみん】の意見【いけん】を聞【き】いた。",
+    "meaning": "As the king's queen, she listened to the opinions of the people."
+  },
+  {
+    "sentence": "王后は国民に団結を呼びかけた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に団結【だんけつ】を呼【よ】びかけた。",
+    "meaning": "The queen consort called for unity among the people."
+  },
+  {
+    "sentence": "私たちはその後の計画について話し合っている。",
+    "sentence_furigana": "私【わたし】たちその後【あと】の計画【けいかく】について話【はな】し合【あ】っている。",
+    "meaning": "We are discussing the plan after that."
+  },
+  {
+    "sentence": "彼女は王の後継者として、国を導く準備をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】として、国【くに】を導【みちび】く準備【じゅんび】をしていた。",
+    "meaning": "She was preparing to lead the country as the king's successor."
+  },
+  {
+    "sentence": "王后は国民に教育の重要性を説いた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に教育【きょういく】の重要性【じゅうようせい】を説【と】いた。",
+    "meaning": "The queen consort impressed upon the people the importance of education."
+  },
+  {
+    "sentence": "その後の出来事から多くの教訓を得た。",
+    "sentence_furigana": "その後【あと】の出来事【できごと】から多【おお】くの教訓【きょうくん】を得【え】た。",
+    "meaning": "We learned many lessons from the subsequent events."
+  },
+  {
+    "sentence": "彼女は王の后として、国の文化遺産を守った。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、国【くに】の文化遺産【ぶんかいさん】を守【まも】った。",
+    "meaning": "As the king's queen, she protected the country's cultural heritage."
+  },
+  {
+    "sentence": "王后は国民に忍耐を求めた。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に忍耐【にんたい】を求【もと】めた。",
+    "meaning": "The queen consort asked for patience from the people."
+  },
+  {
+    "sentence": "私たちはその後の進展を期待している。",
+    "sentence_furigana": "私【わたし】たちその後【あと】の進展【しんてん】を期待【きたい】している。",
+    "meaning": "We are expecting subsequent progress."
+  },
+  {
+    "sentence": "彼女は王の後継者となるための資質を備えていた。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の後継者【こうけいしゃ】となるための資質【ししつ】を備【そな】えていた。",
+    "meaning": "She possessed the qualifications to become the king's successor."
+  },
+  {
+    "sentence": "王后は国民に革新を奨励した。",
+    "sentence_furigana": "王后【おうこう】は国民【こくみん】に革新【かくしん】を奨励【しょうれい】した。",
+    "meaning": "The queen consort encouraged innovation among the people."
+  },
+  {
+    "sentence": "その後の改革は国民に歓迎された。",
+    "sentence_furigana": "その後【あと】の改革【かいかく】は国民【こくみん】に歓迎【かんげい】された。",
+    "meaning": "The subsequent reforms were welcomed by the people."
+  },
+  {
+    "sentence": "彼女は王の后として、国の繁栄に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】の后【きさき】として、国【くに】の繁栄【はんえい】に貢献【こうけん】した。",
+    "meaning": "As the king's queen, she contributed to the country's prosperity."
+  }
+]

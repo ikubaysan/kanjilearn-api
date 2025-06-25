@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "雨が降っています。",
+    "sentence_furigana": "雨【あめ】が降【ふ】っています。",
+    "meaning": "It is raining."
+  },
+  {
+    "sentence": "雪が降ってきた。",
+    "sentence_furigana": "雪【ゆき】が降【ふ】ってきた。",
+    "meaning": "It started snowing."
+  },
+  {
+    "sentence": "飛行機が降下した。",
+    "sentence_furigana": "飛行機【ひこうき】が降下【こうか】した。",
+    "meaning": "The airplane descended."
+  },
+  {
+    "sentence": "敵が降伏した。",
+    "sentence_furigana": "敵【てき】が降伏【こうふく】した。",
+    "meaning": "The enemy surrendered."
+  },
+  {
+    "sentence": "階段を降ります。",
+    "sentence_furigana": "階段【かいだん】を降ります【おります】。",
+    "meaning": "I will go down the stairs."
+  },
+  {
+    "sentence": "山から降ろす。",
+    "sentence_furigana": "山【やま】から降ろ【おろ】す。",
+    "meaning": "To bring down from the mountain."
+  },
+  {
+    "sentence": "高いところから降ってくる。",
+    "sentence_furigana": "高【たか】いところから降【ふ】ってくる。",
+    "meaning": "It falls from a high place."
+  },
+  {
+    "sentence": "嵐が降臨した。",
+    "sentence_furigana": "嵐【あらし】が降臨【こうりん】した。",
+    "meaning": "A storm descended."
+  },
+  {
+    "sentence": "彼は要求を降参した。",
+    "sentence_furigana": "彼【かれ】は要求【ようきゅう】を降参【こうさん】した。",
+    "meaning": "He surrendered to the demands."
+  },
+  {
+    "sentence": "雨模様の空から何か降ってきそうだ。",
+    "sentence_furigana": "雨模様【あめもよう】の空【そら】から何【なに】か降【ふ】ってきそうだ。",
+    "meaning": "It looks like something is about to fall from the rainy sky."
+  },
+  {
+    "sentence": "山頂から眼下に広がる景色を見下ろす。",
+    "sentence_furigana": "山頂【さんちょう】から眼下【がんか】に広【ひろ】がる景色【けしき】を見下ろ【みおろ】す。",
+    "meaning": "Look down at the scenery spreading out below from the summit."
+  },
+  {
+    "sentence": "空から白いものが降ってくる。",
+    "sentence_furigana": "空【そら】から白【しろ】いもの降【ふ】ってくる。",
+    "meaning": "Something white is falling from the sky."
+  },
+  {
+    "sentence": "彼は戦いを避け、降伏を選んだ。",
+    "sentence_furigana": "彼【かれ】は戦【たたか】いを避【さ】け、降伏【こうふく】を選【えら】んだ。",
+    "meaning": "He avoided the fight and chose to surrender."
+  },
+  {
+    "sentence": "このバスは山頂まで人を降ろす。",
+    "sentence_furigana": "このバスは山頂【さんちょう】まで人【ひと】を降ろ【おろ】す。",
+    "meaning": "This bus takes people to the summit."
+  },
+  {
+    "sentence": "急に雨が降り出した。",
+    "sentence_furigana": "急【きゅう】に雨【あめ】が降【ふ】り出【だ】した。",
+    "meaning": "It suddenly started raining."
+  },
+  {
+    "sentence": "雪が静かに降り積もっていく。",
+    "sentence_furigana": "雪【ゆき】が静【しず】かに降【ふ】り積【つ】もっていく。",
+    "meaning": "Snow is quietly falling and piling up."
+  },
+  {
+    "sentence": "航空機は安全に着陸するために降下を開始した。",
+    "sentence_furigana": "航空機【こうくうき】は安全【あんぜん】に着陸【ちゃくりく】するために降下【こうか】を開始【かいし】した。",
+    "meaning": "The aircraft began its descent to land safely."
+  },
+  {
+    "sentence": "城壁から敵に投降を呼びかけた。",
+    "sentence_furigana": "城壁【じょうへき】から敵【てき】に投降【とうこう】を呼【よ】びかけた。",
+    "meaning": "They called for the enemy to surrender from the castle walls."
+  },
+  {
+    "sentence": "次の駅で電車を降ります。",
+    "sentence_furigana": "次【つぎ】の駅【えき】で電車【でんしゃ】を降ります【おります】。",
+    "meaning": "I will get off the train at the next station."
+  },
+  {
+    "sentence": "荷物を車から降ろすのを手伝ってほしい。",
+    "sentence_furigana": "荷物【にもつ】を車【くるま】から降ろ【おろ】すのを手伝【てつだ】ってほしい。",
+    "meaning": "I want you to help me unload the luggage from the car."
+  },
+  {
+    "sentence": "空からひらひらと花びらが降ってきた。",
+    "sentence_furigana": "空【そら】からひらひらと花弁【はなびら】が降【ふ】ってきた。",
+    "meaning": "Petals fluttered down from the sky."
+  },
+  {
+    "sentence": "攻撃を受けて、敵はついに降伏した。",
+    "sentence_furigana": "攻撃【こうげき】を受【う】けて、敵【てき】はついに降伏【こうふく】した。",
+    "meaning": "After being attacked, the enemy finally surrendered."
+  },
+  {
+    "sentence": "山の斜面をゆっくりと降っていく。",
+    "sentence_furigana": "山【やま】の斜面【しゃめん】をゆっくりと降【くだ】っていく。",
+    "meaning": "Go down the mountain slope slowly."
+  },
+  {
+    "sentence": "雨が降り止んだら、外に出かけよう。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り止【や】んだら、外【そと】に出【で】かけよう。",
+    "meaning": "Let's go out when the rain stops."
+  },
+  {
+    "sentence": "雪が降り続いて、道が通行止めになった。",
+    "sentence_furigana": "雪【ゆき】が降【ふ】り続【つづ】いて、道【みち】が通行止【つうこうど】めになった。",
+    "meaning": "It continued to snow, and the road was closed."
+  },
+  {
+    "sentence": "飛行機は高度を下げて降下態勢に入った。",
+    "sentence_furigana": "飛行機【ひこうき】は高度【こうど】を下【さ】げて降下【こうか】態勢【たいせい】に入【はい】った。",
+    "meaning": "The airplane lowered its altitude and entered the descent phase."
+  },
+  {
+    "sentence": "条件付き降伏を申し出た。",
+    "sentence_furigana": "条件付【じょうけんつ】き降伏【こうふく】を申【もう】し出【で】た。",
+    "meaning": "They offered conditional surrender."
+  },
+  {
+    "sentence": "地下鉄の駅で降りる。",
+    "sentence_furigana": "地下鉄【ちかてつ】の駅【えき】で降ります【おります】。",
+    "meaning": "Get off at the subway station."
+  },
+  {
+    "sentence": "トラックから積み荷を降ろした。",
+    "sentence_furigana": "トラックから積【つ】み荷【に】を降ろ【おろ】した。",
+    "meaning": "Unloaded the cargo from the truck."
+  },
+  {
+    "sentence": "空から紙吹雪が降ってきた。",
+    "sentence_furigana": "空【そら】から紙吹雪【かみふぶき】が降【ふ】ってきた。",
+    "meaning": "Confetti rained down from the sky."
+  },
+  {
+    "sentence": "最後の最後まで抵抗したが、降伏するしかなかった。",
+    "sentence_furigana": "最後【さいご】の最後【さいご】まで抵抗【ていこう】したが、降伏【こうふく】するしかなかった。",
+    "meaning": "They resisted until the very end, but had no choice but to surrender."
+  },
+  {
+    "sentence": "彼は高い崖を降りてきた。",
+    "sentence_furigana": "彼【かれ】は高【たか】い崖【がけ】を降【お】りてきた。",
+    "meaning": "He descended the steep cliff."
+  },
+  {
+    "sentence": "このまま降り続ければ、洪水になるだろう。",
+    "sentence_furigana": "このまま降【ふ】り続【つづ】ければ、洪水【こうずい】になるだろう。",
+    "meaning": "If it continues to rain like this, it will probably flood."
+  },
+  {
+    "sentence": "明日は晴れるので、雪はもう降らないでしょう。",
+    "sentence_furigana": "明【あ】日【ひ】は晴【は】れるので、雪【ゆき】はもう降【ふ】らないでしょう。",
+    "meaning": "Tomorrow will be sunny, so the snow probably won't fall anymore."
+  },
+  {
+    "sentence": "航空母艦から戦闘機が降下していった。",
+    "sentence_furigana": "航空母艦【こうくうぼかん】から戦闘機【せんとうき】が降下【こうか】していった。",
+    "meaning": "Fighter jets descended from the aircraft carrier."
+  },
+  {
+    "sentence": "彼らは降伏勧告を受け入れた。",
+    "sentence_furigana": "彼【かれ】らは降伏勧告【こうふくかんこく】を受【う】け入【い】れた。",
+    "meaning": "They accepted the surrender ultimatum."
+  },
+  {
+    "sentence": "次のバス停で降ります。",
+    "sentence_furigana": "次【つぎ】のバス停【てい】で降ります【おります】。",
+    "meaning": "I will get off at the next bus stop."
+  },
+  {
+    "sentence": "重い荷物をトラックから降ろす。",
+    "sentence_furigana": "重【おも】い荷物【にもつ】をトラックから降ろ【おろ】す。",
+    "meaning": "Unload heavy luggage from the truck."
+  },
+  {
+    "sentence": "空から粉雪が舞い降ちてくる。",
+    "sentence_furigana": "空【そら】から粉雪【こなゆき】が舞【ま】い降【お】ちてくる。",
+    "meaning": "Powdered snow is drifting down from the sky."
+  },
+  {
+    "sentence": "軍は敵の前で降伏の旗を掲げた。",
+    "sentence_furigana": "軍【ぐん】は敵【てき】の前【まえ】で降伏【こうふく】の旗【はた】を掲【かか】げた。",
+    "meaning": "The army raised a white flag in front of the enemy."
+  },
+  {
+    "sentence": "山を降りる途中で雨に降られた。",
+    "sentence_furigana": "山【やま】を降【お】りる途中【とちゅう】で雨【あめ】に降【ふ】られた。",
+    "meaning": "I was caught in the rain while descending the mountain."
+  },
+  {
+    "sentence": "雨が降り続けているので、外出は控えます。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り続【つづ】けているので、外出【がいしゅつ】は控【ひか】えます。",
+    "meaning": "As it continues to rain, I will refrain from going out."
+  },
+  {
+    "sentence": "この地区では年に一度、大量の雪が降る。",
+    "sentence_furigana": "この地区【ちく】では年【ねん】に一度【いちど】、大量【たいりょう】の雪【ゆき】が降【ふ】る。",
+    "meaning": "A large amount of snow falls once a year in this region."
+  },
+  {
+    "sentence": "飛行機がゆっくりと降下し、滑走路に近づいた。",
+    "sentence_furigana": "飛行機【ひこうき】がゆっくりと降下【こうか】し、滑走路【かっそうろ】に近【ちか】づいた。",
+    "meaning": "The airplane descended slowly and approached the runway."
+  },
+  {
+    "sentence": "無条件降伏を要求された。",
+    "sentence_furigana": "無条件降伏【むじょうけんこうふく】を要求【ようきゅう】された。",
+    "meaning": "Unconditional surrender was demanded."
+  },
+  {
+    "sentence": "次のバス停で降車ください。",
+    "sentence_furigana": "次【つぎ】のバス停【てい】で降車【こうしゃ】ください。",
+    "meaning": "Please alight at the next bus stop."
+  },
+  {
+    "sentence": "トラックから重い箱を降ろすのを手伝います。",
+    "sentence_furigana": "トラックから重【おも】い箱【はこ】を降ろ【おろ】すのを手伝【てつだ】います。",
+    "meaning": "I will help you unload the heavy boxes from the truck."
+  },
+  {
+    "sentence": "空からたくさんの紙吹雪が降ってきた。",
+    "sentence_furigana": "空【そら】からたくさん紙吹雪【かみふぶき】が降【ふ】ってきた。",
+    "meaning": "Lots of confetti fell from the sky."
+  },
+  {
+    "sentence": "相手方が降参したので、試合は終了した。",
+    "sentence_furigana": "相手方【あいてがた】が降参【こうさん】したので、試合【しあい】は終了【しゅうりょう】した。",
+    "meaning": "The match ended because the opposing side surrendered."
+  },
+  {
+    "sentence": "急な坂道を降りるのは大変だ。",
+    "sentence_furigana": "急【きゅう】な坂道【さかみち】を降ります【おります】のは大変【たいへん】だ。",
+    "meaning": "It's tough to go down a steep slope."
+  },
+  {
+    "sentence": "雨が降り始めたので、洗濯物を取り込んだ。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り始【は】じめたので、洗濯物【せんたくもの】を取【と】り込【こ】んだ。",
+    "meaning": "It started raining, so I brought in the laundry."
+  },
+  {
+    "sentence": "今日の天気予報では、雪は降らないらしい。",
+    "sentence_furigana": "今日【きょう】の天気予報【てんきよほう】では、雪【ゆき】は降【ふ】らないらしい。",
+    "meaning": "According to today's weather forecast, it doesn't seem like it will snow."
+  },
+  {
+    "sentence": "飛行機は高度を下げ、ゆっくりと降下を始めた。",
+    "sentence_furigana": "飛行機【ひこうき】は高度【こうど】を下【さ】げ、ゆっくりと降下【こうか】を開始【かいし】した。",
+    "meaning": "The airplane lowered its altitude and began to descend slowly."
+  },
+  {
+    "sentence": "彼らは降伏を拒否した。",
+    "sentence_furigana": "彼【かれ】らは降伏【こうふく】を拒否【きょひ】した。",
+    "meaning": "They refused to surrender."
+  },
+  {
+    "sentence": "バスを降りる前に忘れ物がないか確認してください。",
+    "sentence_furigana": "バスを降ります【おります】前【まえ】に忘【わ】れ物【もの】がないか確認【かくにん】してください。",
+    "meaning": "Please check for forgotten items before getting off the bus."
+  },
+  {
+    "sentence": "船から荷物を降ろす作業をしている。",
+    "sentence_furigana": "船【ふね】から荷物【にもつ】を降ろ【おろ】す作業【さぎょう】をしている。",
+    "meaning": "They are unloading cargo from the ship."
+  },
+  {
+    "sentence": "空から雨粒が落ちてくる。",
+    "sentence_furigana": "空【そら】から雨粒【あまつぶ】が降【お】ちてくる。",
+    "meaning": "Raindrops are falling from the sky."
+  },
+  {
+    "sentence": "敵は圧倒的な戦力差に降伏した。",
+    "sentence_furigana": "敵【てき】は圧倒的【あっとうてき】な戦力差【せんりょくさ】に降伏【こうふく】した。",
+    "meaning": "The enemy surrendered due to the overwhelming difference in military strength."
+  },
+  {
+    "sentence": "坂を下る時は、ブレーキをしっかりかけなさい。",
+    "sentence_furigana": "坂【さか】を下【くだ】る時【とき】は、ブレーキをしっかりかけなさい。",
+    "meaning": "When going down the slope, apply the brakes firmly."
+  },
+  {
+    "sentence": "雨が降り止んだので、傘をたたんだ。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り止【や】んだので、傘【かさ】をたたんだ。",
+    "meaning": "The rain stopped, so I folded my umbrella."
+  },
+  {
+    "sentence": "冬になると、この地域では雪がよく降る。",
+    "sentence_furigana": "冬【ふゆ】になると、この地域【ちいき】では雪【ゆき】がよく降【ふ】る。",
+    "meaning": "In winter, it often snows in this area."
+  },
+  {
+    "sentence": "飛行機は着陸のために高度を下げて降下した。",
+    "sentence_furigana": "飛行機【ひこうき】は着陸【ちゃくりく】のため高度【こうど】を下【さ】げて降下【こうか】した。",
+    "meaning": "The airplane descended to land."
+  },
+  {
+    "sentence": "降伏文書に署名した。",
+    "sentence_furigana": "降伏文書【こうふくぶんしょ】に署名【しょめい】した。",
+    "meaning": "Signed the instrument of surrender."
+  },
+  {
+    "sentence": "階段を一段一段降りていく。",
+    "sentence_furigana": "階段【かいだん】を一段【いちだん】一段【いちだん】降ります【おります】。",
+    "meaning": "Go down the stairs step by step."
+  },
+  {
+    "sentence": "トラックから荷物を降ろして積み替える。",
+    "sentence_furigana": "トラックから荷物【にもつ】を降ろ【おろ】して積【つ】み替【か】える。",
+    "meaning": "Unload the cargo from the truck and transfer it."
+  },
+  {
+    "sentence": "空から綿雪が静かに降ってくる。",
+    "sentence_furigana": "空【そら】から綿雪【わたゆき】が静【しず】かに降【ふ】ってくる。",
+    "meaning": "Cotton snow is falling gently from the sky."
+  },
+  {
+    "sentence": "敵は降伏を声明した。",
+    "sentence_furigana": "敵【てき】は降伏【こうふく】を声明【せいめい】した。",
+    "meaning": "The enemy declared surrender."
+  },
+  {
+    "sentence": "急斜面をゆっくりと降りた。",
+    "sentence_furigana": "急斜面【きゅうしゃめん】をゆっくりと降りました【くだりました】。",
+    "meaning": "Slowly descended the steep slope."
+  },
+  {
+    "sentence": "雨が降り始めたので、傘を開いた。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り始【は】じめたので、傘【かさ】を開【ひら】いた。",
+    "meaning": "It started raining, so I opened my umbrella."
+  },
+  {
+    "sentence": "この辺りでは、冬には雪がよく降ります。",
+    "sentence_furigana": "この辺【あ】たりでは、冬【ふゆ】には雪【ゆき】がよく降ります【ふります】。",
+    "meaning": "It often snows in winter around here."
+  },
+  {
+    "sentence": "飛行機は着陸のために最後の降下を行った。",
+    "sentence_furigana": "飛行機【ひこうき】は着陸【ちゃくりく】のため最後【さいご】の降下【こうか】を行【おこな】った。",
+    "meaning": "The airplane made its final descent for landing."
+  },
+  {
+    "sentence": "降伏の条件について話し合った。",
+    "sentence_furigana": "降伏【こうふく】の条件【じょうけん】について話【はな】し合【あ】った。",
+    "meaning": "They discussed the terms of surrender."
+  },
+  {
+    "sentence": "駅のホームで電車を降りる。",
+    "sentence_furigana": "駅【えき】のホームで電車【でんしゃ】を降ります【おります】。",
+    "meaning": "Get off the train at the station platform."
+  },
+  {
+    "sentence": "トラックから荷物を降ろして、倉庫に運ぶ。",
+    "sentence_furigana": "トラックから荷物【にもつ】を降ろ【おろ】して、倉庫【そうこ】に運【はこ】ぶ。",
+    "meaning": "Unload the cargo from the truck and transport it to the warehouse."
+  },
+  {
+    "sentence": "空から銀色のものが降ってきた。",
+    "sentence_furigana": "空【そら】から銀色【ぎんいろ】のもの降【ふ】ってきた。",
+    "meaning": "Something silver fell from the sky."
+  },
+  {
+    "sentence": "長引く戦いの末、降伏を決意した。",
+    "sentence_furigana": "長引【ながび】く戦【たたか】いの末【すえ】、降伏【こうふく】を決意【けつい】した。",
+    "meaning": "After a prolonged battle, they decided to surrender."
+  },
+  {
+    "sentence": "山道を降りるのは一苦労だ。",
+    "sentence_furigana": "山道【やまみち】を降ります【おります】のは一苦労【ひとくろう】だ。",
+    "meaning": "Going down the mountain path is a struggle."
+  },
+  {
+    "sentence": "雨が降り止んだ後、虹が出た。",
+    "sentence_furigana": "雨【あめ】が降【ふ】り止【や】んだ後【あと】、虹【にじ】が出【で】た。",
+    "meaning": "After the rain stopped, a rainbow appeared."
+  },
+  {
+    "sentence": "この地域では、冬になると雪がよく降ります。",
+    "sentence_furigana": "この地域【ちいき】では、冬【ふゆ】になると雪【ゆき】がよく降ります【ふります】。",
+    "meaning": "In this region, snow often falls in winter."
+  },
+  {
+    "sentence": "飛行機が高度を下げ、着陸態勢に入った。",
+    "sentence_furigana": "飛行機【ひこうき】が高度【こうど】を下【さ】げ、着陸態勢【ちゃくりくたいせい】に入りました【はいりました】。",
+    "meaning": "The airplane lowered its altitude and entered the landing configuration."
+  },
+  {
+    "sentence": "降伏の条件は非常に厳しいものだった。",
+    "sentence_furigana": "降伏【こうふく】の条件【じょうけん】は非常【ひじょう】に厳【きび】しいものだった。",
+    "meaning": "The terms of surrender were very harsh."
+  },
+  {
+    "sentence": "階段を注意して降りてください。",
+    "sentence_furigana": "階段【かいだん】を注意【ちゅうい】して降ります【おります】ください。",
+    "meaning": "Please descend the stairs carefully."
+  },
+  {
+    "sentence": "トラックから荷物を降ろす作業を終えた。",
+    "sentence_furigana": "トラックから荷物【にもつ】を降ろ【おろ】す作業【さぎょう】を終【お】えた。",
+    "meaning": "Finished unloading the cargo from the truck."
+  },
+  {
+    "sentence": "空から紙テープが降ってきた。",
+    "sentence_furigana": "空【そら】から紙テープ【かみテープ】が降【ふ】ってきた。",
+    "meaning": "Paper tape fell from the sky."
+  },
+  {
+    "sentence": "戦いの末、彼らは降伏を選んだ。",
+    "sentence_furigana": "戦【たたか】いの末【すえ】、彼【かれ】らは降伏【こうふく】を選【えら】んだ。",
+    "meaning": "After the battle, they chose to surrender."
+  },
+  {
+    "sentence": "山を降りるときは、足元に注意しましょう。",
+    "sentence_furigana": "山【やま】を降ります【おります】時【とき】は、足元【あしもと】に注意【ちゅうい】しましょう。",
+    "meaning": "When descending the mountain, be careful of your footing."
+  },
+  {
+    "sentence": "雨が降りそうなので、洗濯物は部屋の中に入れた。",
+    "sentence_furigana": "雨【あめ】が降【ふ】りそうなので、洗濯物【せんたくもの】は部屋【へや】の中【なか】に入【い】れた。",
+    "meaning": "It looks like it's going to rain, so I brought the laundry inside."
+  },
+  {
+    "sentence": "この地域では、冬になると雪が積もるほど降る。",
+    "sentence_furigana": "この地域【ちいき】では、冬【ふゆ】になると雪【ゆき】が積【つ】もるほど降ります【ふります】。",
+    "meaning": "In this region, it snows enough to accumulate in winter."
+  },
+  {
+    "sentence": "飛行機は高度を下げ、最終進入に移行した。",
+    "sentence_furigana": "飛行機【ひこうき】は高度【こうど】を下【さ】げ、最終進入【さいしゅうしんにゅう】に移行【いこう】した。",
+    "meaning": "The airplane lowered its altitude and transitioned to the final approach."
+  },
+  {
+    "sentence": "降伏の意思表示をした。",
+    "sentence_furigana": "降伏【こうふく】の意思表示【いしひょうじ】をした。",
+    "meaning": "They indicated their intention to surrender."
+  },
+  {
+    "sentence": "バスを降りて、少し歩いた。",
+    "sentence_furigana": "バスを降ります【おります】て、少【すこ】し歩【ある】いた。",
+    "meaning": "I got off the bus and walked a bit."
+  },
+  {
+    "sentence": "トラックから荷物を降ろして、トラックの点検をする。",
+    "sentence_furigana": "トラックから荷物【にもつ】を降ろ【おろ】して、トラックの点検【てんけん】をする。",
+    "meaning": "Unload the cargo from the truck and inspect the truck."
+  },
+  {
+    "sentence": "空から花吹雪が舞い降りてきた。",
+    "sentence_furigana": "空【そら】から花吹雪【はなふぶき】が舞【ま】い降【お】ちてきた。",
+    "meaning": "A flurry of petals rained down from the sky."
+  },
+  {
+    "sentence": "戦意を喪失し、降伏した。",
+    "sentence_furigana": "戦意【せんい】を喪失【そうしつ】し、降伏【こうふく】した。",
+    "meaning": "Lost the will to fight and surrendered."
+  },
+  {
+    "sentence": "坂道を下る時に転んだ。",
+    "sentence_furigana": "坂道【さかみち】を下ります【くだります】時【とき】に転【ころ】んだ。",
+    "meaning": "Fell while going down the slope."
+  },
+  {
+    "sentence": "雨が降りそうなので、早めに傘を準備した。",
+    "sentence_furigana": "雨【あめ】が降【ふ】りそうなので、早【はや】めに傘【かさ】を準備【じゅんび】した。",
+    "meaning": "It looked like it was going to rain, so I prepared my umbrella early."
+  },
+  {
+    "sentence": "この地域では、冬に雪が降ることが多いです。",
+    "sentence_furigana": "この地域【ちいき】では、冬【ふゆ】に雪【ゆき】が降ることが多【おお】いです。",
+    "meaning": "In this region, it often snows in winter."
+  }
+]

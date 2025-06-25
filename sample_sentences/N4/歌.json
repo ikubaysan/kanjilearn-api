@@ -1,0 +1,542 @@
+[
+  {
+    "sentence": "彼女は歌を歌うのが好きです。",
+    "sentence_furigana": "彼女【かのじょ】は歌【うた】を歌【うた】うのが好【す】きです。",
+    "meaning": "She likes to sing songs."
+  },
+  {
+    "sentence": "この歌はとても有名です。",
+    "sentence_furigana": "この歌【うた】はとても有名【ゆうめい】です。",
+    "meaning": "This song is very famous."
+  },
+  {
+    "sentence": "子供たちは楽しそうに歌を歌いました。",
+    "sentence_furigana": "子供【こども】たち は楽し【たの】そうに歌【うた】を歌【うた】いました。",
+    "meaning": "The children sang songs happily."
+  },
+  {
+    "sentence": "カラオケで新しい歌を覚えました。",
+    "sentence_furigana": "カラオケで新【あたら】しい歌【うた】を覚【おぼ】えました。",
+    "meaning": "I learned a new song at karaoke."
+  },
+  {
+    "sentence": "彼の歌声は素晴らしいです。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は素晴【すば】らしいです。",
+    "meaning": "His singing voice is wonderful."
+  },
+  {
+    "sentence": "アンコールで別の歌を歌ってくれた。",
+    "sentence_furigana": "アンコールで別【べつ】の歌【うた】を歌【うた】ってくれた。",
+    "meaning": "He sang another song as an encore."
+  },
+  {
+    "sentence": "この歌は心に響きます。",
+    "sentence_furigana": "この歌【うた】は心【こころ】に響【ひび】きます。",
+    "meaning": "This song resonates with my heart."
+  },
+  {
+    "sentence": "彼女は自分で作った歌を披露した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】で 作【つく】った歌【うた】を披露【ひろう】した。",
+    "meaning": "She presented a song she wrote herself."
+  },
+  {
+    "sentence": "彼の最新の歌はヒットチャートのトップに立った。",
+    "sentence_furigana": "彼【かれ】の最新【さいしん】の歌【うた】はヒットチャートのトップに立【た】った。",
+    "meaning": "His latest song topped the hit charts."
+  },
+  {
+    "sentence": "この歌を聴くと元気が出ます。",
+    "sentence_furigana": "この歌【うた】を聴【き】くと元気【げんき】が出【で】ます。",
+    "meaning": "Listening to this song cheers me up."
+  },
+  {
+    "sentence": "彼女は合唱コンクールで素晴らしい歌を披露しました。",
+    "sentence_furigana": "彼女【かのじょ】は合唱【がっしょう】コンクールで素晴【すば】らしい歌【うた】を披露【ひろう】しました。",
+    "meaning": "She performed a wonderful song at the chorus competition."
+  },
+  {
+    "sentence": "この歌は、昔の思い出を呼び起こします。",
+    "sentence_furigana": "この歌【うた】は、昔【むかし】の思【おも】い出【で】を呼【よ】び覚【おこ】します。",
+    "meaning": "This song evokes old memories."
+  },
+  {
+    "sentence": "彼は歌詞を正確に歌うことができた。",
+    "sentence_furigana": "彼【かれ】は歌詞【かし】を正確【せいかく】に歌【うた】うことができた。",
+    "meaning": "He was able to sing the lyrics accurately."
+  },
+  {
+    "sentence": "その歌は多くの人々に愛されている。",
+    "sentence_furigana": "その歌【うた】は多【おお】くの人々【ひとびと】に愛【あい】されている。",
+    "meaning": "That song is loved by many people."
+  },
+  {
+    "sentence": "新しい歌のレコーディングが始まった。",
+    "sentence_furigana": "新【あたら】しい歌【うた】のレコーディングが始【はじ】まった。",
+    "meaning": "The recording of the new song has begun."
+  },
+  {
+    "sentence": "彼女はステージで心を込めて歌った。",
+    "sentence_furigana": "彼女【かのじょ】はステージで心【こころ】を込【こ】めて歌【うた】った。",
+    "meaning": "She sang with all her heart on stage."
+  },
+  {
+    "sentence": "この歌を作曲したのは誰ですか？",
+    "sentence_furigana": "この歌【うた】を作曲【さっきょく】したのは誰【だれ】ですか？",
+    "meaning": "Who composed this song?"
+  },
+  {
+    "sentence": "彼の歌声は会場全体を包み込んだ。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は会場【かいじょう】全体【ぜんたい】を包【つつ】み込【こ】んだ。",
+    "meaning": "His singing voice enveloped the entire venue."
+  },
+  {
+    "sentence": "私たちは一緒に歌を歌った。",
+    "sentence_furigana": "私【わたし】たちは一緒【いっしょ】に歌【うた】を歌【うた】った。",
+    "meaning": "We sang a song together."
+  },
+  {
+    "sentence": "この歌は希望を歌っています。",
+    "sentence_furigana": "この歌【うた】は希望【きぼう】を歌【うた】っています。",
+    "meaning": "This song sings of hope."
+  },
+  {
+    "sentence": "彼女はオペラで有名な歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】はオペラで有名【ゆうめい】な歌【うた】を歌【うた】った。",
+    "meaning": "She sang a famous opera song."
+  },
+  {
+    "sentence": "子供たちは新しい歌を覚えるのが早い。",
+    "sentence_furigana": "子供【こども】たちは新【あたら】しい歌【うた】を覚【おぼ】えるのが早【はや】い。",
+    "meaning": "Children are quick to learn new songs."
+  },
+  {
+    "sentence": "この歌のメロディーはとても覚えやすい。",
+    "sentence_furigana": "この歌【うた】のメロディーはとても覚【おぼ】えやすい。",
+    "meaning": "The melody of this song is very easy to remember."
+  },
+  {
+    "sentence": "彼女は歌いながら絵を描くのが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】は歌【うた】いながら絵【え】を描【か】くのが得意【とくい】だ。",
+    "meaning": "She is good at drawing pictures while singing."
+  },
+  {
+    "sentence": "彼の歌は多くのファンを魅了した。",
+    "sentence_furigana": "彼【かれ】の歌【うた】は多【おお】くのファンを魅了【みりょう】した。",
+    "meaning": "His song captivated many fans."
+  },
+  {
+    "sentence": "この歌の歌詞は詩的で美しい。",
+    "sentence_furigana": "この歌【うた】の歌詞【かし】は詩的【してき】で美【うつく】しい。",
+    "meaning": "The lyrics of this song are poetic and beautiful."
+  },
+  {
+    "sentence": "彼女は卒業式で歌を披露した。",
+    "sentence_furigana": "彼女【かのじょ】は卒業式【そつぎょうしき】で歌【うた】を披露【ひろう】した。",
+    "meaning": "She performed a song at the graduation ceremony."
+  },
+  {
+    "sentence": "この歌を聴くと、当時のことが思い出される。",
+    "sentence_furigana": "この歌【うた】を聴【き】くと、当時【とうじ】のこと が思【おも】い出【だ】される。",
+    "meaning": "Listening to this song reminds me of those times."
+  },
+  {
+    "sentence": "彼は感動的な歌を歌って観客を沸かせた。",
+    "sentence_furigana": "彼【かれ】は感動的【かんどうてき】な歌【うた】を歌【うた】って観客【かんきゃく】を沸【わ】かせた。",
+    "meaning": "He sang a moving song and excited the audience."
+  },
+  {
+    "sentence": "彼女はアンコールを求められて、もう一曲歌った。",
+    "sentence_furigana": "彼女【かのじょ】はアンコールを求【もと】められて、もう一曲【いっきょく】歌【うた】った。",
+    "meaning": "She was asked for an encore and sang another song."
+  },
+  {
+    "sentence": "この歌は彼の人生を象徴しているようだ。",
+    "sentence_furigana": "この歌【うた】は彼【かれ】の人生【じんせい】を象徴【しょうちょう】しているようだ。",
+    "meaning": "This song seems to symbolize his life."
+  },
+  {
+    "sentence": "彼女は小さな声で歌を口ずさんだ。",
+    "sentence_furigana": "彼女【かのじょ】は小【ちい】さな声【こえ】で歌【うた】を口ず【くちず】さんだ。",
+    "meaning": "She hummed a song in a small voice."
+  },
+  {
+    "sentence": "彼の歌は聴く人の心に深く染み渡る。",
+    "sentence_furigana": "彼【かれ】の歌【うた】は聴【き】く人【ひと】の心【こころ】に深【ふか】く染【し】み渡【わた】る。",
+    "meaning": "His songs deeply permeate the listener's heart."
+  },
+  {
+    "sentence": "彼女は童謡を歌うのが得意です。",
+    "sentence_furigana": "彼女【かのじょ】は童謡【どうよう】を歌【うた】うのが得意【とくい】です。",
+    "meaning": "She is good at singing children's songs."
+  },
+  {
+    "sentence": "この歌は明るい未来を歌っている。",
+    "sentence_furigana": "この歌【うた】は明【あか】るい未来【みらい】を歌【うた】っている。",
+    "meaning": "This song sings of a bright future."
+  },
+  {
+    "sentence": "彼はテレビ番組で歌を披露した。",
+    "sentence_furigana": "彼【かれ】はテレビ番組【ばんぐみ】で歌【うた】を披露【ひろう】した。",
+    "meaning": "He performed a song on a TV show."
+  },
+  {
+    "sentence": "彼女の歌声は天使のようだと評された。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は天使【てんし】のようだと評【ひょう】された。",
+    "meaning": "Her singing voice was described as angelic."
+  },
+  {
+    "sentence": "この歌は私の青春時代を思い出させます。",
+    "sentence_furigana": "この歌【うた】は私【わたし】の青春時代【せいしゅんじだい】を思【おも】い出【さ】せます。",
+    "meaning": "This song reminds me of my youth."
+  },
+  {
+    "sentence": "彼は失恋の歌を熱唱した。",
+    "sentence_furigana": "彼【かれ】は失恋【しつれん】の歌【うた】を熱唱【ねっしょう】した。",
+    "meaning": "He passionately sang a song about heartbreak."
+  },
+  {
+    "sentence": "彼女はボランティア活動で歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】はボランティア活動【かつどう】で歌【うた】を歌【うた】った。",
+    "meaning": "She sang songs during volunteer activities."
+  },
+  {
+    "sentence": "この歌のサビの部分は特に印象的だ。",
+    "sentence_furigana": "この歌【うた】のサビの部分【ぶぶん】は特【とく】に印象的【いんしょうてき】だ。",
+    "meaning": "The chorus of this song is particularly impressive."
+  },
+  {
+    "sentence": "彼女は多くの賞賛を受けながら歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの賞賛【しょうさん】を受【う】けながら歌【うた】を歌【うた】った。",
+    "meaning": "She sang while receiving much praise."
+  },
+  {
+    "sentence": "彼の歌声は独特の魅力を持っている。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は独特【どくとく】の魅力【みりょく】を持【も】っている。",
+    "meaning": "His singing voice has a unique charm."
+  },
+  {
+    "sentence": "この歌は世界中でカバーされている。",
+    "sentence_furigana": "この歌【うた】は世界中【せかいじゅう】でカバーされている。",
+    "meaning": "This song has been covered all over the world."
+  },
+  {
+    "sentence": "彼女は有名な歌手が作った歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な歌手【かしゅ】が作【つく】った歌【うた】を歌【うた】った。",
+    "meaning": "She sang a song written by a famous singer."
+  },
+  {
+    "sentence": "この歌を聴くと、故郷を思い出す。",
+    "sentence_furigana": "この歌【うた】を聴【き】くと、故郷【こきょう】を思【おも】い出【だ】す。",
+    "meaning": "Listening to this song makes me remember my hometown."
+  },
+  {
+    "sentence": "彼はギターを弾きながら自作の歌を歌った。",
+    "sentence_furigana": "彼【かれ】はギターを弾【ひ】きながら自作【じさく】の歌【うた】を歌【うた】った。",
+    "meaning": "He sang his own song while playing the guitar."
+  },
+  {
+    "sentence": "彼女は感動的な歌で会場を盛り上げた。",
+    "sentence_furigana": "彼女【かのじょ】は感動的【かんどうてき】な歌【うた】で会場【かいじょう】を盛り上【もりあ】げた。",
+    "meaning": "She stirred up the venue with a moving song."
+  },
+  {
+    "sentence": "この歌は人生の喜びを歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の喜【よろこ】びを歌【うた】っている。",
+    "meaning": "This song sings of the joys of life."
+  },
+  {
+    "sentence": "彼女はコンサートで新しい歌を初披露した。",
+    "sentence_furigana": "彼女【かのじょ】はコンサートで新【あたら】しい歌【うた】を初披露【はつひろう】した。",
+    "meaning": "She debuted a new song at the concert."
+  },
+  {
+    "sentence": "彼の歌声は力強く、聴衆を引きつけた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は力強【ちからづよ】く、聴衆【ちょうしゅう】を引【ひ】きつけた。",
+    "meaning": "His singing voice was powerful and attracted the audience."
+  },
+  {
+    "sentence": "この歌は平和への願いを歌っている。",
+    "sentence_furigana": "この歌【うた】は平和【へいわ】への願【ねが】いを歌【うた】っている。",
+    "meaning": "This song sings of a wish for peace."
+  },
+  {
+    "sentence": "彼女は民謡を歌うのがとても上手だ。",
+    "sentence_furigana": "彼女【かのじょ】は民謡【みんよう】を歌【うた】うのがとても上手【じょうず】だ。",
+    "meaning": "She is very good at singing folk songs."
+  },
+  {
+    "sentence": "彼は昔流行った歌をカバーした。",
+    "sentence_furigana": "彼【かれ】は昔流行【むかしはやり】った歌【うた】をカバーした。",
+    "meaning": "He covered a song that was popular in the past."
+  },
+  {
+    "sentence": "この歌を聴くと、幼い頃を思い出す。",
+    "sentence_furigana": "この歌【うた】を聴【き】くと、幼【おさな】い頃【ころ】を思【おも】い出【だ】す。",
+    "meaning": "Listening to this song reminds me of my childhood."
+  },
+  {
+    "sentence": "彼女は感謝の気持ちを込めて歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】は感謝【かんしゃ】の気持【きも】ちを込【こ】めて歌【うた】を歌【うた】った。",
+    "meaning": "She sang a song with a feeling of gratitude."
+  },
+  {
+    "sentence": "彼の歌は多くの人々に勇気を与えた。",
+    "sentence_furigana": "彼【かれ】の歌【うた】は多【おお】くの人々【ひとびと】に勇気【ゆうき】を与【あた】えた。",
+    "meaning": "His song gave courage to many people."
+  },
+  {
+    "sentence": "この歌は青春の甘酸っぱさを歌っている。",
+    "sentence_furigana": "この歌【うた】は青春【せいしゅん】の甘酸【あまず】っぱさを歌【うた】っている。",
+    "meaning": "This song sings of the bittersweetness of youth."
+  },
+  {
+    "sentence": "彼女はオペラの一節を美しく歌った。",
+    "sentence_furigana": "彼女【かのじょ】はオペラの一節【いっせつ】を美【うつく】しく歌【うた】った。",
+    "meaning": "She sang a passage from an opera beautifully."
+  },
+  {
+    "sentence": "彼は新しい歌の作曲に取り組んでいる。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい歌【うた】の作曲【さっきょく】に取り組【とりく】んでいる。",
+    "meaning": "He is working on composing a new song."
+  },
+  {
+    "sentence": "この歌は世界中の人々に共感を呼んだ。",
+    "sentence_furigana": "この歌【うた】は世界中【せかいじゅう】の人々【ひとびと】に共感【きょうかん】を呼【よ】んだ。",
+    "meaning": "This song resonated with people around the world."
+  },
+  {
+    "sentence": "彼女は合唱団でソプラノを担当して歌っている。",
+    "sentence_furigana": "彼女【かのじょ】は合唱団【がっしょうだん】でソプラノを担当【たんとう】して歌【うた】っている。",
+    "meaning": "She sings soprano in the choir."
+  },
+  {
+    "sentence": "彼の歌声は温かく、聴き手を癒やす。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は温【あたた】かく、聴【き】き手【て】を癒【いや】やす。",
+    "meaning": "His singing voice is warm and heals the listener."
+  },
+  {
+    "sentence": "この歌は友情の素晴らしさを歌っている。",
+    "sentence_furigana": "この歌【うた】は友情【ゆうじょう】の素晴【すば】らしさを歌【うた】っている。",
+    "meaning": "This song sings of the wonder of friendship."
+  },
+  {
+    "sentence": "彼女は初めて自分で作った歌を披露した。",
+    "sentence_furigana": "彼女【かのじょ】は初【はじ】めて自分【じぶん】で 作【つく】った歌【うた】を披露【ひろう】した。",
+    "meaning": "She performed a song she wrote herself for the first time."
+  },
+  {
+    "sentence": "彼はステージ上で情熱的に歌った。",
+    "sentence_furigana": "彼【かれ】はステージ上【うえ】で情熱的【じょうねつてき】に歌【うた】った。",
+    "meaning": "He sang passionately on stage."
+  },
+  {
+    "sentence": "この歌は家族への愛を歌っている。",
+    "sentence_furigana": "この歌【うた】は家族【かぞく】への愛【あい】を歌【うた】っている。",
+    "meaning": "This song sings of love for family."
+  },
+  {
+    "sentence": "彼女はカラオケで最新のヒット曲を歌った。",
+    "sentence_furigana": "彼女【かのじょ】はカラオケで最新【さいしん】のヒット曲【きょく】を歌【うた】った。",
+    "meaning": "She sang the latest hit song at karaoke."
+  },
+  {
+    "sentence": "彼の歌声はオペラ歌手のようだった。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】はオペラ歌手【かしゅ】のようだった。",
+    "meaning": "His singing voice was like that of an opera singer."
+  },
+  {
+    "sentence": "この歌は人生の儚さを歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の儚【はかな】さを歌【うた】っている。",
+    "meaning": "This song sings of the transience of life."
+  },
+  {
+    "sentence": "彼女はコンサートの最後に感動的な歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】はコンサートの最後【さいご】に感動的【かんどうてき】な歌【うた】を歌【うた】った。",
+    "meaning": "She sang a moving song at the end of the concert."
+  },
+  {
+    "sentence": "彼は故郷を懐かしむ歌を歌った。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】を懐【なつ】かしむ歌【うた】を歌【うた】った。",
+    "meaning": "He sang a song reminiscing about his hometown."
+  },
+  {
+    "sentence": "この歌は、失われた愛を歌っている。",
+    "sentence_furigana": "この歌【うた】は、失【うしな】われた愛【あい】を歌【うた】っている。",
+    "meaning": "This song sings of lost love."
+  },
+  {
+    "sentence": "彼女は新しい歌のメロディーを口ずさんだ。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい歌【うた】のメロディーを口ず【くちず】さんだ。",
+    "meaning": "She hummed the melody of a new song."
+  },
+  {
+    "sentence": "彼の歌は多くの人々に勇気と希望を与えている。",
+    "sentence_furigana": "彼【かれ】の歌【うた】は多【おお】くの人々【ひとびと】に勇気【ゆうき】と希望【きぼう】を与【あた】えている。",
+    "meaning": "His songs give courage and hope to many people."
+  },
+  {
+    "sentence": "この歌は人生の苦悩を歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の苦悩【くのう】を歌【うた】っている。",
+    "meaning": "This song sings of life's suffering."
+  },
+  {
+    "sentence": "彼女は合唱祭でみんなと心を一つにして歌った。",
+    "sentence_furigana": "彼女【かのじょ】は合唱祭【がっしょうさい】でみんなと心【こころ】を一緒【ひと】つにして歌【うた】った。",
+    "meaning": "She sang with everyone as one at the chorus festival."
+  },
+  {
+    "sentence": "彼の歌声は会場全体を感動させた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は会場【かいじょう】全体【ぜんたい】を感動【かんどう】させた。",
+    "meaning": "His singing voice moved the entire venue."
+  },
+  {
+    "sentence": "この歌は自然の美しさを歌っている。",
+    "sentence_furigana": "この歌【うた】は自然【しぜん】の美【うつく】しさを歌【うた】っている。",
+    "meaning": "This song sings of the beauty of nature."
+  },
+  {
+    "sentence": "彼女は歌うことが大好きで、毎日練習している。",
+    "sentence_furigana": "彼女【かのじょ】は歌【うた】うことが大好き【だいす】きで、毎日【まいにち】練習【れんしゅう】している。",
+    "meaning": "She loves singing and practices every day."
+  },
+  {
+    "sentence": "彼の歌声は聴く者の心を掴む。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は聴【き】く者【もの】の心【こころ】を掴【つか】む。",
+    "meaning": "His singing voice captures the listener's heart."
+  },
+  {
+    "sentence": "この歌は希望の光を歌っている。",
+    "sentence_furigana": "この歌【うた】は希望【きぼう】の光【ひかり】を歌【うた】っている。",
+    "meaning": "This song sings of the light of hope."
+  },
+  {
+    "sentence": "彼女は有名な歌姫として多くの歌を歌ってきた。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な歌姫【うたひめ】として多【おお】くの歌【うた】を歌【うた】ってきた。",
+    "meaning": "She has sung many songs as a famous diva."
+  },
+  {
+    "sentence": "彼は観客に一緒に歌うよう促した。",
+    "sentence_furigana": "彼【かれ】は観客【かんきゃく】に一緒【いっしょ】に歌【うた】うよう促【うなが】した。",
+    "meaning": "He urged the audience to sing along."
+  },
+  {
+    "sentence": "この歌は、別れの悲しみを歌っている。",
+    "sentence_furigana": "この歌【うた】は、別【わか】れの悲【かな】しみを歌【うた】っている。",
+    "meaning": "This song sings of the sadness of parting."
+  },
+  {
+    "sentence": "彼女はボイストレーニングを受けて歌唱力を向上させた。",
+    "sentence_furigana": "彼女【かのじょ】はボイストレーニングを受【う】けて歌唱力【かしょうりょく】を向上【こうじょう】させた。",
+    "meaning": "She improved her singing ability by taking voice training."
+  },
+  {
+    "sentence": "彼の歌声は力強く、聴衆の心を打った。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は力強【ちからづよ】く、聴衆【ちょうしゅう】の心【こころ】を打【う】った。",
+    "meaning": "His singing voice was powerful and touched the audience's hearts."
+  },
+  {
+    "sentence": "この歌は人生の冒険を歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の冒険【ぼうけん】を歌【うた】っている。",
+    "meaning": "This song sings of life's adventures."
+  },
+  {
+    "sentence": "彼女は子供たちのために優しい歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちのために優【やさ】しい歌【うた】を歌【うた】った。",
+    "meaning": "She sang a gentle song for the children."
+  },
+  {
+    "sentence": "彼は昔懐かしい歌を歌ってくれた。",
+    "sentence_furigana": "彼【かれ】は昔懐【むかしなつ】かしい歌【うた】を歌【うた】ってくれた。",
+    "meaning": "He sang a nostalgic song for me."
+  },
+  {
+    "sentence": "この歌は希望のメッセージを歌っている。",
+    "sentence_furigana": "この歌【うた】は希望【きぼう】のメッセージを歌【うた】っている。",
+    "meaning": "This song sings a message of hope."
+  },
+  {
+    "sentence": "彼女は有名なオペラのアリアを歌った。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】なオペラのアリアを歌【うた】った。",
+    "meaning": "She sang a famous opera aria."
+  },
+  {
+    "sentence": "彼の歌声は感情豊かで聴き手を魅了する。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は感情豊【かんじょうゆた】かで聴【き】き手【て】を魅了【みりょう】する。",
+    "meaning": "His singing voice is rich in emotion and captivates the listener."
+  },
+  {
+    "sentence": "この歌は人生の旅路を歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の旅路【たびじ】を歌【うた】っている。",
+    "meaning": "This song sings of life's journey."
+  },
+  {
+    "sentence": "彼女は新しい歌の歌詞を一生懸命覚えた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい歌【うた】の歌詞【かし】を一生懸命【いっしょうけんめい】覚【おぼ】えた。",
+    "meaning": "She memorized the lyrics of the new song with all her might."
+  },
+  {
+    "sentence": "彼の歌声は力強く、聴衆を魅了した。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は力強【ちからづよ】く、聴衆【ちょうしゅう】を魅了【みりょう】した。",
+    "meaning": "His singing voice was powerful and captivated the audience."
+  },
+  {
+    "sentence": "この歌は、愛する人への想いを歌っている。",
+    "sentence_furigana": "この歌【うた】は、愛【あい】する人【ひと】への想【おも】いを歌【うた】っている。",
+    "meaning": "This song sings of feelings for a loved one."
+  },
+  {
+    "sentence": "彼女はコンサートで観客と一緒に歌った。",
+    "sentence_furigana": "彼女【かのじょ】はコンサートで観客【かんきゃく】と一緒【いっしょ】に歌【うた】った。",
+    "meaning": "She sang with the audience at the concert."
+  },
+  {
+    "sentence": "彼の歌声は非常に高く、美しい。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は非常【ひじょう】に高【たか】く、美【うつく】しい。",
+    "meaning": "His singing voice is very high and beautiful."
+  },
+  {
+    "sentence": "この歌は人生の苦悩と希望を歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の苦悩【くのう】と希望【きぼう】を歌【うた】っている。",
+    "meaning": "This song sings of life's suffering and hope."
+  },
+  {
+    "sentence": "彼女は子供たちに歌を教えるボランティアをしている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちに歌【うた】を教【おし】えるボランティアをしている。",
+    "meaning": "She volunteers to teach children songs."
+  },
+  {
+    "sentence": "彼は歌を通じて自分の気持ちを表現した。",
+    "sentence_furigana": "彼【かれ】は歌【うた】を通じて【つうじて】自分【じぶん】の気持【きも】ちを表現【ひょうげん】した。",
+    "meaning": "He expressed his feelings through song."
+  },
+  {
+    "sentence": "この歌は失われた恋を歌っている。",
+    "sentence_furigana": "この歌【うた】は失【うしな】われた恋【こい】を歌【うた】っている。",
+    "meaning": "This song sings of lost love."
+  },
+  {
+    "sentence": "彼女はステージで観客を魅了する歌声を披露した。",
+    "sentence_furigana": "彼女【かのじょ】はステージで観客【かんきゃく】を魅了【みりょう】する歌声【うたごえ】を披露【ひろう】した。",
+    "meaning": "She showcased her captivating singing voice on stage."
+  },
+  {
+    "sentence": "彼の歌声は聴衆に感動を与えた。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は聴衆【ちょうしゅう】に感動【かんどう】を与【あた】えた。",
+    "meaning": "His singing voice moved the audience."
+  },
+  {
+    "sentence": "この歌は人生の喜びと悲しみを歌っている。",
+    "sentence_furigana": "この歌【うた】は人生【じんせい】の喜【よろこ】びと悲【かな】しみを歌【うた】っている。",
+    "meaning": "This song sings of life's joys and sorrows."
+  },
+  {
+    "sentence": "彼女は子供の頃から歌うことが好きだった。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の頃【ころ】から歌【うた】うことが好【す】きだった。",
+    "meaning": "She loved to sing since she was a child."
+  },
+  {
+    "sentence": "彼の歌声は優しく、聴く人の心を癒す。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は優【やさ】しく、聴【き】く人【ひと】の心【こころ】を癒【いや】す。",
+    "meaning": "His singing voice is gentle and heals the listener's heart."
+  }
+]

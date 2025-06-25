@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "次は何をしましょうか。",
+    "sentence_furigana": "次【つぎ】は何【なに】をしましょうか。",
+    "meaning": "What shall we do next?"
+  },
+  {
+    "sentence": "次の電車はいつ来ますか。",
+    "sentence_furigana": "次【つぎ】の電車【でんしゃ】はいつ来【き】ますか。",
+    "meaning": "When will the next train come?"
+  },
+  {
+    "sentence": "この注文の次をお願いします。",
+    "sentence_furigana": "この注文【ちゅうもん】の次【つぎ】をお願い【おねが】いします。",
+    "meaning": "Please next this order."
+  },
+  {
+    "sentence": "列の次の方どうぞ。",
+    "sentence_furigana": "列【れつ】の次【つぎ】の方【かた】どうぞ。",
+    "meaning": "Next person in line, please."
+  },
+  {
+    "sentence": "彼はチームの次期キャプテンです。",
+    "sentence_furigana": "彼【かれ】はチームの次期【じき】キャプテンです。",
+    "meaning": "He is the team's next captain."
+  },
+  {
+    "sentence": "順番に次々とお話しください。",
+    "sentence_furigana": "順番【じゅんばん】に次々【つぎつぎ】とお話【はな】しください。",
+    "meaning": "Please speak one after another in order."
+  },
+  {
+    "sentence": "次回の会議は来週です。",
+    "sentence_furigana": "次回【じかい】の会議【かいぎ】は来週【らいしゅう】です。",
+    "meaning": "The next meeting is next week."
+  },
+  {
+    "sentence": "その次に彼は立ち上がった。",
+    "sentence_furigana": "その次【つぎ】に彼【かれ】は立【た】ち上が【あ】がった。",
+    "meaning": "Next, he stood up."
+  },
+  {
+    "sentence": "彼は常に次善の策を選んだ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に次善【じぜん】の策【さく】を選【えら】んだ。",
+    "meaning": "He always chose the second-best option."
+  },
+  {
+    "sentence": "この結果を受けて、次のような対策を講じる。",
+    "sentence_furigana": "この結果【けっか】を受【う】けて、次【つぎ】のような対策【たいさく】を講【こう】じる。",
+    "meaning": "Following this result, we will take the following measures."
+  },
+  {
+    "sentence": "次男は医者になりました。",
+    "sentence_furigana": "次男【じなん】は医者【いしゃ】になりました。",
+    "meaning": "The second son became a doctor."
+  },
+  {
+    "sentence": "次々と新しい商品が発売される。",
+    "sentence_furigana": "次々【つぎつぎ】と新【あたら】しい商品【しょうひん】が発売【はつばい】される。",
+    "meaning": "New products are released one after another."
+  },
+  {
+    "sentence": "彼は私の次の席に座った。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の次【つぎ】の席【せき】に座【すわ】った。",
+    "meaning": "He sat in the seat next to me."
+  },
+  {
+    "sentence": "次期首相は誰になるだろうか。",
+    "sentence_furigana": "次期【じき】首相【しゅしょう】は誰【だれ】になるだろうか。",
+    "meaning": "Who will be the next prime minister?"
+  },
+  {
+    "sentence": "順番が次になったら教えてください。",
+    "sentence_furigana": "順番【じゅんばん】が次【つぎ】になったら教【おし】えてください。",
+    "meaning": "Please tell me when it's my turn."
+  },
+  {
+    "sentence": "次のページを開いてください。",
+    "sentence_furigana": "次【つぎ】のページを開【ひら】いてください。",
+    "meaning": "Please open the next page."
+  },
+  {
+    "sentence": "次から次へと問題が発生する。",
+    "sentence_furigana": "次【つぎ】から次【つぎ】へと問題【もんだい】が発生【はっせい】する。",
+    "meaning": "Problems arise one after another."
+  },
+  {
+    "sentence": "彼女は私より一つ次です。",
+    "sentence_furigana": "彼女【かのじょ】は私【わたし】より一つ次【つぎ】です。",
+    "meaning": "She is one step below me."
+  },
+  {
+    "sentence": "次男坊はなかなか仕事を見つけられない。",
+    "sentence_furigana": "次男坊【じなんぼう】はなかなか仕事【しごと】を見【み】つけられない。",
+    "meaning": "The second son is having a hard time finding a job."
+  },
+  {
+    "sentence": "次に来る人は誰ですか。",
+    "sentence_furigana": "次【つぎ】に来【く】る人【ひと】は誰【だれ】ですか。",
+    "meaning": "Who is the next person to come?"
+  },
+  {
+    "sentence": "これは私の次の目標です。",
+    "sentence_furigana": "これ私【わたし】の次【つぎ】の目標【もくひょう】です。",
+    "meaning": "This is my next goal."
+  },
+  {
+    "sentence": "次回の開催は未定です。",
+    "sentence_furigana": "次回【じかい】の開催【かいさい】は未定【みてい】です。",
+    "meaning": "The next holding is undecided."
+  },
+  {
+    "sentence": "次々と応募者が現れる。",
+    "sentence_furigana": "次々【つぎつぎ】と応募者【おうぼしゃ】が現【あらわ】れる。",
+    "meaning": "Applicants appear one after another."
+  },
+  {
+    "sentence": "次の信号を右に曲がってください。",
+    "sentence_furigana": "次【つぎ】の信号【しんごう】を右【みぎ】に曲【ま】がってください。",
+    "meaning": "Please turn right at the next traffic light."
+  },
+  {
+    "sentence": "彼は常に次のステップを考えている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に次【つぎ】のステップを考【かんが】えている。",
+    "meaning": "He is always thinking about the next step."
+  },
+  {
+    "sentence": "次のような状況が考えられます。",
+    "sentence_furigana": "次【つぎ】のような状況【じょうきょう】が考【かんが】えられます。",
+    "meaning": "The following situations can be considered."
+  },
+  {
+    "sentence": "次男は、長男の跡を継ぐことになった。",
+    "sentence_furigana": "次男【じなん】は、長男【ちょうなん】の跡【あと】を継【つ】ぐことになった。",
+    "meaning": "The second son will succeed the eldest son."
+  },
+  {
+    "sentence": "順番は次の人に変わります。",
+    "sentence_furigana": "順番【じゅんばん】は次【つぎ】の人【ひと】に変わ【か】わります。",
+    "meaning": "The turn will change to the next person."
+  },
+  {
+    "sentence": "次の駅で降りてください。",
+    "sentence_furigana": "次【つぎ】の駅【えき】で降【お】りてください。",
+    "meaning": "Please get off at the next station."
+  },
+  {
+    "sentence": "次々回の予約も取りました。",
+    "sentence_furigana": "次々回【じじかい】の予約【よやく】も取【と】りました。",
+    "meaning": "I also made a reservation for the time after next."
+  },
+  {
+    "sentence": "次の作品も楽しみにしています。",
+    "sentence_furigana": "次【つぎ】の作品【さくひん】も楽【たの】しみにしています。",
+    "meaning": "I am looking forward to the next work as well."
+  },
+  {
+    "sentence": "次男が家業を手伝うことになった。",
+    "sentence_furigana": "次男【じなん】が家業【かぎょう】を手伝【てつだ】うことになった。",
+    "meaning": "The second son will help with the family business."
+  },
+  {
+    "sentence": "彼は次の世代のリーダーです。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】の世代【せだい】のリーダーです。",
+    "meaning": "He is the leader of the next generation."
+  },
+  {
+    "sentence": "この本は次に読む予定です。",
+    "sentence_furigana": "この本【ほん】は次【つぎ】に読【よ】む予定【よてい】です。",
+    "meaning": "I plan to read this book next."
+  },
+  {
+    "sentence": "次々と新しいアイデアが出てくる。",
+    "sentence_furigana": "次々【つぎつぎ】と新【あたら】しいアイデアが出【で】てくる。",
+    "meaning": "New ideas come out one after another."
+  },
+  {
+    "sentence": "次の目的地へ向かいます。",
+    "sentence_furigana": "次【つぎ】の目的地【もくてきち】へ向【む】かいます。",
+    "meaning": "We will head to the next destination."
+  },
+  {
+    "sentence": "次回のイベントも盛り上がるでしょう。",
+    "sentence_furigana": "次回【じかい】のイベントも盛【も】り上【あ】がるでしょう。",
+    "meaning": "The next event will likely be exciting as well."
+  },
+  {
+    "sentence": "順番に次いで、私の番です。",
+    "sentence_furigana": "順番【じゅんばん】に次【つづ】いで、私【わたし】の番【ばん】です。",
+    "meaning": "Following the order, it's my turn."
+  },
+  {
+    "sentence": "彼は次の選挙に出馬する。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】の選挙【せんきょ】に出馬【しゅつば】する。",
+    "meaning": "He will run in the next election."
+  },
+  {
+    "sentence": "次に何が起こるか予想できない。",
+    "sentence_furigana": "次【つぎ】に何【なに】が起【お】こるか予想【よそう】できない。",
+    "meaning": "It's impossible to predict what will happen next."
+  },
+  {
+    "sentence": "次男は早くから才能があった。",
+    "sentence_furigana": "次男【じなん】は早【はや】くから才能【さいのう】があった。",
+    "meaning": "The second son had talent from an early age."
+  },
+  {
+    "sentence": "このリストの次に来るべき項目は何ですか。",
+    "sentence_furigana": "このリストの次【つぎ】に来【く】るべき項目【こうもく】は何【なに】ですか。",
+    "meaning": "What is the item that should come next on this list?"
+  },
+  {
+    "sentence": "次の休憩は午前11時です。",
+    "sentence_furigana": "次【つぎ】の休憩【きゅうけい】は午前【ごぜん】11時【じ】です。",
+    "meaning": "The next break is at 11 AM."
+  },
+  {
+    "sentence": "次から次へと依頼が来る。",
+    "sentence_furigana": "次【つぎ】から次【つぎ】へと依頼【いらい】が来【く】る。",
+    "meaning": "Requests keep coming one after another."
+  },
+  {
+    "sentence": "次世代の技術はどのように進化するだろうか。",
+    "sentence_furigana": "次世代【つぎせだい】の技術【ぎじゅつ】はどのよう進化【しんか】するだろうか。",
+    "meaning": "How will next-generation technology evolve?"
+  },
+  {
+    "sentence": "彼は今回の件の次に来るべき課題について説明した。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】の件【けん】の次【つぎ】に来【く】るべき課題【だい】について説明【せつめい】した。",
+    "meaning": "He explained the issues that should follow the current matter."
+  },
+  {
+    "sentence": "次点はわずか1票差だった。",
+    "sentence_furigana": "次点【じてん】はわずか1票差【いっぴょうさ】だった。",
+    "meaning": "The second place was only by one vote."
+  },
+  {
+    "sentence": "次回の放送をお楽しみに。",
+    "sentence_furigana": "次回【じかい】の放送【ほうそう】をお楽【たの】しみに。",
+    "meaning": "Look forward to the next broadcast."
+  },
+  {
+    "sentence": "彼は次々と新しい店を開いている。",
+    "sentence_furigana": "彼【かれ】は次々【つぎつぎ】と新【あたら】しい店【みせ】を開【あ】いている。",
+    "meaning": "He is opening new stores one after another."
+  },
+  {
+    "sentence": "次男が独立して家を出た。",
+    "sentence_furigana": "次男【じなん】が独立【どくりつ】して家【いえ】を出【で】た。",
+    "meaning": "The second son became independent and left home."
+  },
+  {
+    "sentence": "次のプロジェクトの計画を立てる。",
+    "sentence_furigana": "次【つぎ】のプロジェクトの計画【けいかく】を立【た】てる。",
+    "meaning": "We will make plans for the next project."
+  },
+  {
+    "sentence": "次回の会議の資料を配布します。",
+    "sentence_furigana": "次回【じかい】の会議【かいぎ】の資料【しりょう】を配布【はいふ】します。",
+    "meaning": "I will distribute the materials for the next meeting."
+  },
+  {
+    "sentence": "彼は常に次の世代のために投資している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に次【つぎ】の世代【せだい】のため投資【とうし】している。",
+    "meaning": "He is always investing for the next generation."
+  },
+  {
+    "sentence": "次の角を左に曲がってください。",
+    "sentence_furigana": "次【つぎ】の角【かど】を左【ひだり】に曲【ま】がってください。",
+    "meaning": "Please turn left at the next corner."
+  },
+  {
+    "sentence": "次々と幸運が舞い込んでくる。",
+    "sentence_furigana": "次々【つぎつぎ】と幸運【こううん】が舞【ま】い込【こ】んでくる。",
+    "meaning": "Good luck comes one after another."
+  },
+  {
+    "sentence": "次回のイベントは来月開催予定です。",
+    "sentence_furigana": "次回【じかい】のイベントは来月【らいげつ】開催予定【かいさいよてい】です。",
+    "meaning": "The next event is scheduled to be held next month."
+  },
+  {
+    "sentence": "彼は次期社長候補の一人です。",
+    "sentence_furigana": "彼【かれ】は次期【じき】社長候補【しゃちょうこうほ】の一人【ひとり】です。",
+    "meaning": "He is one of the candidates for the next president."
+  },
+  {
+    "sentence": "次は何の話題にしましょうか。",
+    "sentence_furigana": "次【つぎ】は何【なに】の話題【わだい】にしましょうか。",
+    "meaning": "What topic shall we discuss next?"
+  },
+  {
+    "sentence": "この順番を次のように変更します。",
+    "sentence_furigana": "この順番【じゅんばん】を次【つぎ】のように変更【へんこう】します。",
+    "meaning": "We will change this order as follows."
+  },
+  {
+    "sentence": "次回の診察は来週水曜日です。",
+    "sentence_furigana": "次回【じかい】の診察【しんさつ】は来週水曜日【らいしゅうすいようび】です。",
+    "meaning": "The next appointment is next Wednesday."
+  },
+  {
+    "sentence": "次々と困難が待ち受けている。",
+    "sentence_furigana": "次々【つぎつぎ】と困難【こんなん】が待【ま】ち受【う】けている。",
+    "meaning": "Difficulties await one after another."
+  },
+  {
+    "sentence": "彼は次世代の通信技術に貢献した。",
+    "sentence_furigana": "彼【かれ】は次世代【つぎせだい】の通信技術【つうしんぎじゅつ】に貢献【こうけん】した。",
+    "meaning": "He contributed to next-generation communication technology."
+  },
+  {
+    "sentence": "次男が父の跡を継ぐことになった。",
+    "sentence_furigana": "次男【じなん】が父【ちち】の跡【あと】を継【つ】ぐことになった。",
+    "meaning": "The second son will succeed his father."
+  },
+  {
+    "sentence": "次のバスは5分後に来ます。",
+    "sentence_furigana": "次【つぎ】のバスは5分後【ごふんご】に来【き】ます。",
+    "meaning": "The next bus will come in 5 minutes."
+  },
+  {
+    "sentence": "次々と新しい知識を吸収していく。",
+    "sentence_furigana": "次々【つぎつぎ】と新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】していく。",
+    "meaning": "We absorb new knowledge one after another."
+  },
+  {
+    "sentence": "彼は次の会議で発表する予定です。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】の会議【かいぎ】で発表【はっぴょう】する予定【よてい】です。",
+    "meaning": "He is scheduled to present at the next meeting."
+  },
+  {
+    "sentence": "次回の訪問を楽しみにしています。",
+    "sentence_furigana": "次回【じかい】の訪問【ほうもん】を楽【たの】しみにしています。",
+    "meaning": "I am looking forward to the next visit."
+  },
+  {
+    "sentence": "次男が海外で活躍している。",
+    "sentence_furigana": "次男【じなん】が海外【かいがい】で活躍【かつやく】している。",
+    "meaning": "The second son is active overseas."
+  },
+  {
+    "sentence": "この記録に次ぐものはない。",
+    "sentence_furigana": "この記録【きろく】に次【つ】ぐものはない。",
+    "meaning": "There is nothing that surpasses this record."
+  },
+  {
+    "sentence": "次の駅まで歩いていきましょう。",
+    "sentence_furigana": "次【つぎ】の駅【えき】まで歩【ある】いていきましょう。",
+    "meaning": "Let's walk to the next station."
+  },
+  {
+    "sentence": "次々と注文が入る。",
+    "sentence_furigana": "次々【つぎつぎ】と注文【ちゅうもん】が入【はい】る。",
+    "meaning": "Orders are coming in one after another."
+  },
+  {
+    "sentence": "次回の作品も期待しています。",
+    "sentence_furigana": "次回【じかい】の作品【さくひん】も期待【きたい】しています。",
+    "meaning": "I have high expectations for the next work."
+  },
+  {
+    "sentence": "彼は常に次の行動を予測していた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に次【つぎ】の行動【こうどう】を予測【よそく】していた。",
+    "meaning": "He was always predicting the next action."
+  },
+  {
+    "sentence": "この件につきまして、次のように対応いたします。",
+    "sentence_furigana": "この件【けん】につきまして、次【つぎ】のように対応【たいおう】いたします。",
+    "meaning": "Regarding this matter, we will respond as follows."
+  },
+  {
+    "sentence": "次男が店を継ぐことになった。",
+    "sentence_furigana": "次男【じなん】が店【みせ】を継【つ】ぐことになった。",
+    "meaning": "The second son will take over the store."
+  },
+  {
+    "sentence": "次に来る人は誰ですか？",
+    "sentence_furigana": "次【つぎ】に来【く】る人【ひと】は誰【だれ】ですか？",
+    "meaning": "Who is the next person?"
+  },
+  {
+    "sentence": "次回の説明会は来週行われます。",
+    "sentence_furigana": "次回【じかい】の説明会【せつめいかい】は来週行【らいしゅうおこな】われます。",
+    "meaning": "The next briefing session will be held next week."
+  },
+  {
+    "sentence": "彼は次期会長として期待されている。",
+    "sentence_furigana": "彼【かれ】は次期【じき】会長【かいちょう】として期待【きたい】されている。",
+    "meaning": "He is expected to be the next chairman."
+  },
+  {
+    "sentence": "次の目標に向かって努力する。",
+    "sentence_furigana": "次【つぎ】の目標【もくひょう】に向【む】かって努力【どりょく】する。",
+    "meaning": "I will strive towards the next goal."
+  },
+  {
+    "sentence": "次々と連絡が入ってくる。",
+    "sentence_furigana": "次々【つぎつぎ】と連絡【れんらく】が入【はい】ってくる。",
+    "meaning": "Contacts are coming in one after another."
+  },
+  {
+    "sentence": "次回の会議の議題はこれです。",
+    "sentence_furigana": "次回【じかい】の会議【かいぎ】の議題【ぎだい】はこれです。",
+    "meaning": "This is the agenda for the next meeting."
+  },
+  {
+    "sentence": "彼は次のステップへ進む準備をしている。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】のステップへ進【すす】む準備【じゅんび】をしている。",
+    "meaning": "He is preparing to move to the next step."
+  },
+  {
+    "sentence": "次男が家を継ぐことになった。",
+    "sentence_furigana": "次男【じなん】が家【いえ】を継【つ】ぐことになった。",
+    "meaning": "The second son will inherit the house/family."
+  },
+  {
+    "sentence": "次のページに進んでください。",
+    "sentence_furigana": "次【つぎ】のページに進【すす】んでください。",
+    "meaning": "Please proceed to the next page."
+  },
+  {
+    "sentence": "次から次へと仕事が舞い込む。",
+    "sentence_furigana": "次【つぎ】から次【つぎ】へと仕事【しごと】が舞【ま】い込【こ】む。",
+    "meaning": "Jobs come in one after another."
+  },
+  {
+    "sentence": "次回の予約はいつにしましょうか。",
+    "sentence_furigana": "次回【じかい】の予約【よやく】はいつにしましょうか。",
+    "meaning": "When shall we schedule the next appointment?"
+  },
+  {
+    "sentence": "彼は次の役職を目指している。",
+    "sentence_furigana": "彼【かれ】は次【つぎ】の役職【やくしょく】を目指【めざ】している。",
+    "meaning": "He is aiming for the next position."
+  },
+  {
+    "sentence": "次男の成長は目覚ましい。",
+    "sentence_furigana": "次男【じなん】の成長【せいちょう】は目覚【めざ】ましい。",
+    "meaning": "The second son's growth is remarkable."
+  },
+  {
+    "sentence": "次の指示をお待ちください。",
+    "sentence_furigana": "次【つぎ】の指示【しじ】をお待【ま】ちください。",
+    "meaning": "Please wait for further instructions."
+  },
+  {
+    "sentence": "次回のイベントはさらに充実する予定です。",
+    "sentence_furigana": "次回【じかい】のイベントはさらに充実【じゅうじつ】する予定【よてい】です。",
+    "meaning": "The next event is planned to be even more fulfilling."
+  },
+  {
+    "sentence": "彼は次期リーダーとして期待されています。",
+    "sentence_furigana": "彼【かれ】は次期【じき】リーダーとして期待【きたい】されています。",
+    "meaning": "He is expected to be the next leader."
+  },
+  {
+    "sentence": "次の展開に目が離せない。",
+    "sentence_furigana": "次【つぎ】の展開【てんかい】に目【め】が離【はな】せない。",
+    "meaning": "I can't take my eyes off the next development."
+  },
+  {
+    "sentence": "次男が新しい事業を始めた。",
+    "sentence_furigana": "次男【じなん】が新【あたら】しい事業【じぎょう】を始【はじ】めた。",
+    "meaning": "The second son started a new business."
+  },
+  {
+    "sentence": "この本は次に読むべき本です。",
+    "sentence_furigana": "この本【ほん】は次【つぎ】に読【よ】むべき本【ほん】です。",
+    "meaning": "This is the book I should read next."
+  },
+  {
+    "sentence": "次回の試験は来月です。",
+    "sentence_furigana": "次回【じかい】の試験【しけん】は来月【らいげつ】です。",
+    "meaning": "The next exam is next month."
+  },
+  {
+    "sentence": "次々と問題が解決していく。",
+    "sentence_furigana": "次々【つぎつぎ】と問題【もんだい】が解決【かいけつ】していく。",
+    "meaning": "Problems are being solved one after another."
+  }
+]

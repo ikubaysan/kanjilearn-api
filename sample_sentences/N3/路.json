@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "その路は細いが安全だ。",
+    "sentence_furigana": "その路【ろ】は細【ほそ】いが安全【あんぜん】だ。",
+    "meaning": "That road is narrow but safe."
+  },
+  {
+    "sentence": "人生の岐路に立っている。",
+    "sentence_furigana": "人生【じんせい】の岐路【きろ】に立【た】っている。",
+    "meaning": "I am standing at a crossroads in life."
+  },
+  {
+    "sentence": "この路は行き止まりです。",
+    "sentence_furigana": "この路【ろ】は行【い】き止【ど】まりです。",
+    "meaning": "This road is a dead end."
+  },
+  {
+    "sentence": "彼女は新しい路を求めている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい路【ろ】を求【もと】めている。",
+    "meaning": "She is seeking a new path."
+  },
+  {
+    "sentence": "私たちは長い路を歩いてきた。",
+    "sentence_furigana": "私【わたし】たち は 長【なが】い路【ろ】を歩【ある】いてきた。",
+    "meaning": "We have walked a long road."
+  },
+  {
+    "sentence": "ここは交通の要路だ。",
+    "sentence_furigana": "ここ は 交通【こうつう】の要路【ようろ】だ。",
+    "meaning": "This is an important traffic route."
+  },
+  {
+    "sentence": "遠い路の旅に出よう。",
+    "sentence_furigana": "遠【とお】い路【ろ】の旅【たび】に出【で】よう。",
+    "meaning": "Let's go on a long journey."
+  },
+  {
+    "sentence": "その路は海岸沿いに続いている。",
+    "sentence_furigana": "その路【ろ】は海岸沿【かいがんぞ】いに続【つづ】いている。",
+    "meaning": "That road continues along the coast."
+  },
+  {
+    "sentence": "歴史的な路を辿る。",
+    "sentence_furigana": "歴史的【れきしてき】な路【ろ】を辿【たど】る。",
+    "meaning": "To trace a historical route."
+  },
+  {
+    "sentence": "彼は自分で路を開拓した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】で路【みち】を開拓【かいたく】した。",
+    "meaning": "He pioneered his own way."
+  },
+  {
+    "sentence": "この路地は狭いが趣がある。",
+    "sentence_furigana": "この路地【ろじ】は狭【せま】いが趣【おもむ】きがある。",
+    "meaning": "This alley is narrow but has charm."
+  },
+  {
+    "sentence": "将来の路について考える。",
+    "sentence_furigana": "将来【しょうらい】の路【ろ】について考【かんが】える。",
+    "meaning": "To think about the future path."
+  },
+  {
+    "sentence": "山道を歩いて展望台へ向かう。",
+    "sentence_furigana": "山道【やまみち】を歩【ある】いて展望台【てんぼうだい】へ向【む】かう。",
+    "meaning": "Walk the mountain path to the observation deck."
+  },
+  {
+    "sentence": "新しい路線の開発が進んでいる。",
+    "sentence_furigana": "新【あたら】しい路線【ろせん】の開発【かいはつ】が進【すす】んでいる。",
+    "meaning": "The development of new routes is progressing."
+  },
+  {
+    "sentence": "この路は舗装されていない。",
+    "sentence_furigana": "この路【ろ】は舗装【ほそう】されていない。",
+    "meaning": "This road is not paved."
+  },
+  {
+    "sentence": "彼は自分の路を信じている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の路【みち】を信【しん】じている。",
+    "meaning": "He believes in his own path."
+  },
+  {
+    "sentence": "路面電車がゆっくりと走る。",
+    "sentence_furigana": "路面電車【ろめんでんしゃ】がゆっくりと走【はし】る。",
+    "meaning": "The streetcar runs slowly."
+  },
+  {
+    "sentence": "遠い道のりを旅する。",
+    "sentence_furigana": "遠【とお】い道のり【みちのり】を旅【たび】する。",
+    "meaning": "To travel a long distance."
+  },
+  {
+    "sentence": "この路は多くの車が通る。",
+    "sentence_furigana": "この路【ろ】は多【おお】くの車【くるま】が通【とお】る。",
+    "meaning": "Many cars pass on this road."
+  },
+  {
+    "sentence": "彼は成功への路を歩んでいる。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への路【ろ】を歩【あゆ】んでいる。",
+    "meaning": "He is walking the path to success."
+  },
+  {
+    "sentence": "路傍の花が美しく咲いている。",
+    "sentence_furigana": "路傍【ろぼう】の花【はな】が美【うつく】しく咲【さ】いている。",
+    "meaning": "The flowers by the roadside are blooming beautifully."
+  },
+  {
+    "sentence": "人生の進むべき路。",
+    "sentence_furigana": "人生【じんせい】の進【すす】むべき路【みち】。",
+    "meaning": "The path one should take in life."
+  },
+  {
+    "sentence": "その路は静かで落ち着いている。",
+    "sentence_furigana": "その路【ろ】は静【しず】かで落【お】ち着【つ】いている。",
+    "meaning": "That road is quiet and calm."
+  },
+  {
+    "sentence": "私たちは新たな路を探求する。",
+    "sentence_furigana": "私【わたし】たち は 新【あら】たな路【ろ】を探求【たんきゅう】する。",
+    "meaning": "We explore new paths."
+  },
+  {
+    "sentence": "地図で目的地までの路を確認する。",
+    "sentence_furigana": "地図【ちず】で目的【もくてき】地【ち】までの路【ろ】を確認【かくにん】する。",
+    "meaning": "Confirm the route to the destination on the map."
+  },
+  {
+    "sentence": "古い路面電車が街を走る。",
+    "sentence_furigana": "古【ふる】い路面電車【ろめんでんしゃ】が街【まち】を走【はし】る。",
+    "meaning": "An old streetcar runs through the city."
+  },
+  {
+    "sentence": "彼女は迷路のような路に迷い込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は迷路【めいろ】のような路【ろ】に迷【まよ】い込【こ】んだ。",
+    "meaning": "She got lost on a maze-like path."
+  },
+  {
+    "sentence": "安全な路を選んで進む。",
+    "sentence_furigana": "安全【あんぜん】な路【ろ】を選【えら】んで進【すす】む。",
+    "meaning": "Choose a safe route and proceed."
+  },
+  {
+    "sentence": "この路は工事のため通行止めです。",
+    "sentence_furigana": "この路【ろ】は工事【こうじ】のため通行止【つうこうど】めです。",
+    "meaning": "This road is closed due to construction."
+  },
+  {
+    "sentence": "彼は自分の道を見つけた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の道【みち】を見【み】つけた。",
+    "meaning": "He found his own way."
+  },
+  {
+    "sentence": "この路は静かで緑が多い。",
+    "sentence_furigana": "この路【ろ】は静【しず】かで緑【みどり】が多【おお】い。",
+    "meaning": "This road is quiet and has a lot of greenery."
+  },
+  {
+    "sentence": "未知の路を旅する冒険者。",
+    "sentence_furigana": "未知【みち】の路【ろ】を旅【たび】する冒険者【ぼうけんしゃ】。",
+    "meaning": "An adventurer traveling an unknown path."
+  },
+  {
+    "sentence": "私たちは正しい路を進んでいる。",
+    "sentence_furigana": "私【わたし】たち は 正【ただ】しい路【ろ】を進【すす】んでいる。",
+    "meaning": "We are proceeding on the right path."
+  },
+  {
+    "sentence": "その路は歴史の重みを感じさせる。",
+    "sentence_furigana": "その路【ろ】は歴史【れきし】の重【おも】みを感じ【かんじ】させる。",
+    "meaning": "That road makes you feel the weight of history."
+  },
+  {
+    "sentence": "将来の路を照らす光。",
+    "sentence_furigana": "将来【しょうらい】の路【ろ】を照【て】らす光【ひかり】。",
+    "meaning": "A light that illuminates the future path."
+  },
+  {
+    "sentence": "彼は自分の信念に従って路を進む。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信念【しんねん】に従【したが】って路【みち】を進【すす】む。",
+    "meaning": "He proceeds on his path according to his beliefs."
+  },
+  {
+    "sentence": "この路には昔ながらの風景が残っている。",
+    "sentence_furigana": "この路【ろ】には昔【むかし】ながらの風景【ふうけい】が残【のこ】っている。",
+    "meaning": "This road retains its old-fashioned scenery."
+  },
+  {
+    "sentence": "私たちは成功への道を切り開いた。",
+    "sentence_furigana": "私【わたし】たち は成功【せいこう】への道【みち】を切【き】り開【ひら】いた。",
+    "meaning": "We carved out a path to success."
+  },
+  {
+    "sentence": "路肩に車を停める。",
+    "sentence_furigana": "路肩【ろかた】に車【くるま】を停【と】める。",
+    "meaning": "Park the car on the roadside."
+  },
+  {
+    "sentence": "彼女は自由な路を求めている。",
+    "sentence_furigana": "彼女【かのじょ】は自由【じゆう】な路【ろ】を求【もと】めている。",
+    "meaning": "She is seeking freedom's path."
+  },
+  {
+    "sentence": "人生の路は時に険しい。",
+    "sentence_furigana": "人生【じんせい】の路【みち】は時【とき】に険【けわ】しい。",
+    "meaning": "The path of life is sometimes steep."
+  },
+  {
+    "sentence": "この路はどこへ続いているのだろうか。",
+    "sentence_furigana": "この路【ろ】はどこへ続【つづ】いているのだろうか。",
+    "meaning": "I wonder where this road leads."
+  },
+  {
+    "sentence": "彼は独自の路を歩んでいる。",
+    "sentence_furigana": "彼【かれ】は独特【どくとく】の路【ろ】を歩【あゆ】んでいる。",
+    "meaning": "He is walking his own path."
+  },
+  {
+    "sentence": "路面店が立ち並ぶ通り。",
+    "sentence_furigana": "路面店【ろめんてん】が立【た】ち並【なら】ぶ通【とお】り。",
+    "meaning": "A street lined with street-level shops."
+  },
+  {
+    "sentence": "将来の進路について相談する。",
+    "sentence_furigana": "将来【しょうらい】の進路【しんろ】について相談【そうだん】する。",
+    "meaning": "Consult about future career paths."
+  },
+  {
+    "sentence": "子供たちが路地で遊んでいる。",
+    "sentence_furigana": "子供【こども】たち が 路地【ろじ】で遊【あそ】んでいる。",
+    "meaning": "Children are playing in the alley."
+  },
+  {
+    "sentence": "その路は静かで人通りが少ない。",
+    "sentence_furigana": "その路【ろ】は静【しず】かで人通【ひとどお】りが少【すく】ない。",
+    "meaning": "That road is quiet and has few people."
+  },
+  {
+    "sentence": "私たちは共に同じ路を進む。",
+    "sentence_furigana": "私【わたし】たち は共【とも】に同【おな】じ路【ろ】を進【すす】む。",
+    "meaning": "We proceed on the same path together."
+  },
+  {
+    "sentence": "彼は自分の進むべき路を見失わない。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の進【すす】むべき路【みち】を見失【みうしな】わない。",
+    "meaning": "He does not lose sight of the path he should take."
+  },
+  {
+    "sentence": "この路は自然に囲まれている。",
+    "sentence_furigana": "この路【ろ】は自然【しぜん】に囲【かこ】まれている。",
+    "meaning": "This road is surrounded by nature."
+  },
+  {
+    "sentence": "歴史の重みを感じる古い路。",
+    "sentence_furigana": "歴史【れきし】の重【おも】みを感じ【かんじ】る古【ふる】い路【ろ】。",
+    "meaning": "An old road that evokes a sense of history."
+  },
+  {
+    "sentence": "彼女は人生の新たな路を歩み始めた。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の新た【あら】な路【ろ】を歩【あゆ】み始【はじ】めた。",
+    "meaning": "She began to walk a new path in life."
+  },
+  {
+    "sentence": "この路は目的地まで一番近い。",
+    "sentence_furigana": "この路【ろ】は目的【もくてき】地【ち】まで一番【いちばん】近【ちか】い。",
+    "meaning": "This road is the closest to the destination."
+  },
+  {
+    "sentence": "彼は常に挑戦する路を選んでいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に挑戦【ちょうせん】する路【ろ】を選【えら】んでいる。",
+    "meaning": "He always chooses the path of challenge."
+  },
+  {
+    "sentence": "この路地裏には隠れた名店がある。",
+    "sentence_furigana": "この路地裏【ろじうら】には隠【かく】れた名店【めいてん】がある。",
+    "meaning": "There is a hidden gem in this alley."
+  },
+  {
+    "sentence": "私たちは理想の路を探し続ける。",
+    "sentence_furigana": "私【わたし】たち は理想【りそう】の路【ろ】を探【さが】し続【つづ】ける。",
+    "meaning": "We continue to search for the ideal path."
+  },
+  {
+    "sentence": "この路はかつて栄えていた。",
+    "sentence_furigana": "この路【ろ】はかつて栄【さか】えていた。",
+    "meaning": "This road was once prosperous."
+  },
+  {
+    "sentence": "彼女は独自の道を切り開いた。",
+    "sentence_furigana": "彼女【かのじょ】は独特【どくとく】の道【みち】を切【き】り開【ひら】いた。",
+    "meaning": "She forged her own path."
+  },
+  {
+    "sentence": "山道の途中、休憩を取る。",
+    "sentence_furigana": "山道【やまみち】の途中【とちゅう】、休憩【きゅうけい】を取【と】る。",
+    "meaning": "Take a break midway on the mountain path."
+  },
+  {
+    "sentence": "彼は将来の進路について両親と相談した。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】の進路【しんろ】について両親【りょうしん】と相談【そうだん】した。",
+    "meaning": "He consulted his parents about his future career path."
+  },
+  {
+    "sentence": "この路は夜になると一層静かになる。",
+    "sentence_furigana": "この路【ろ】は夜【よる】になると一層【いっそう】静【しず】かになる。",
+    "meaning": "This road becomes even quieter at night."
+  },
+  {
+    "sentence": "彼女は人生の様々な路を経験した。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の様々【さまざま】な路【ろ】を経験【けいけん】した。",
+    "meaning": "She has experienced various paths in life."
+  },
+  {
+    "sentence": "私たちは困難な路を乗り越えてきた。",
+    "sentence_furigana": "私【わたし】たち は困難【こんなん】な路【ろ】を乗【の】り越【こ】えてきた。",
+    "meaning": "We have overcome difficult paths."
+  },
+  {
+    "sentence": "この路は古びた石畳が続く。",
+    "sentence_furigana": "この路【ろ】は古【ふる】びた石畳【いしだたみ】が続【つづ】く。",
+    "meaning": "This road continues with old cobblestones."
+  },
+  {
+    "sentence": "彼は新しい路線の開拓に尽力している。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな路線【ろせん】の開拓【かいたく】に尽力【じんりょく】している。",
+    "meaning": "He is working hard to develop new routes."
+  },
+  {
+    "sentence": "人生の旅路は時に長く感じる。",
+    "sentence_furigana": "人生【じんせい】の旅路【たびじ】は時【とき】に長【なが】く感【かん】じる。",
+    "meaning": "The journey of life sometimes feels long."
+  },
+  {
+    "sentence": "この路はかつての街道の一部であった。",
+    "sentence_furigana": "この路【ろ】はかつての街道【かいどう】の一【いち】部【ぶ】であった。",
+    "meaning": "This road was once part of an old highway."
+  },
+  {
+    "sentence": "彼女は自分の進むべき道を選んだ。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の進【すす】むべき道【みち】を選【えら】んだ。",
+    "meaning": "She chose the path she should take."
+  },
+  {
+    "sentence": "この路には多くの思い出が詰まっている。",
+    "sentence_furigana": "この路【ろ】には多【おお】くの思【おも】い出【で】が詰【つ】まっている。",
+    "meaning": "This road is filled with many memories."
+  },
+  {
+    "sentence": "彼は成功への路を灯す。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への路【ろ】を灯【とも】す。",
+    "meaning": "He illuminates the path to success."
+  },
+  {
+    "sentence": "この路は静かで自然が豊かだ。",
+    "sentence_furigana": "この路【ろ】は静【しず】かで自然【しぜん】が豊【ゆた】かだ。",
+    "meaning": "This road is quiet and rich in nature."
+  },
+  {
+    "sentence": "彼女は人生の岐路に立ち、迷っている。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の岐路【きろ】に立【た】ち、迷【まよ】っている。",
+    "meaning": "She is at a crossroads in life and is lost."
+  },
+  {
+    "sentence": "この路は歴史的な意味を持つ。",
+    "sentence_furigana": "この路【ろ】は歴史的【れきしてき】な意味【いみ】を持【も】つ。",
+    "meaning": "This road has historical significance."
+  },
+  {
+    "sentence": "彼は自分の路を切り開く勇気を持つ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の路【ろ】を切【き】り開【ひら】く勇気【ゆうき】を持【も】つ。",
+    "meaning": "He has the courage to carve out his own path."
+  },
+  {
+    "sentence": "この路は古城へと続いている。",
+    "sentence_furigana": "この路【ろ】は古城【こじょう】へと続【つづ】いている。",
+    "meaning": "This road leads to an old castle."
+  },
+  {
+    "sentence": "彼女は新しい路を歩み始める決意をした。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たな路【ろ】を歩【あゆ】み始【はじ】める決意【けつい】をした。",
+    "meaning": "She decided to start walking a new path."
+  },
+  {
+    "sentence": "この路は歩行者専用だ。",
+    "sentence_furigana": "この路【ろ】は歩行者専用【ほこうしゃせんよう】だ。",
+    "meaning": "This road is for pedestrians only."
+  },
+  {
+    "sentence": "彼は未来への路を見据えている。",
+    "sentence_furigana": "彼【かれ】は未来【みらい】への路【ろ】を見据【みす】えている。",
+    "meaning": "He is looking towards the path to the future."
+  },
+  {
+    "sentence": "この路には季節の花が咲き乱れる。",
+    "sentence_furigana": "この路【ろ】には季節【きせつ】の花【はな】が咲【さ】き乱【みだ】れる。",
+    "meaning": "Seasonal flowers bloom profusely along this road."
+  },
+  {
+    "sentence": "彼女は自分の道を見つける旅をしている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の道【みち】を見【み】つける旅【たび】をしている。",
+    "meaning": "She is on a journey to find her own way."
+  },
+  {
+    "sentence": "この路は歴史の証人だ。",
+    "sentence_furigana": "この路【ろ】は歴史【れきし】の証人【しょうにん】だ。",
+    "meaning": "This road is a witness to history."
+  },
+  {
+    "sentence": "彼は成功するための路を模索している。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】するための路【ろ】を模索【もさく】している。",
+    "meaning": "He is exploring the path to success."
+  },
+  {
+    "sentence": "この路は多くの人々が行き交う。",
+    "sentence_furigana": "この路【ろ】は多【おお】くの人々【ひとびと】が行【い】き交【か】う。",
+    "meaning": "Many people come and go on this road."
+  },
+  {
+    "sentence": "彼女は人生の新しい局面に向かう路を歩む。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の新【あら】たな局面【きょくめん】に向【む】かう路【ろ】を歩【あゆ】む。",
+    "meaning": "She walks a path toward a new phase of life."
+  },
+  {
+    "sentence": "この路は静かで心安らぐ。",
+    "sentence_furigana": "この路【ろ】は静【しず】かで心安【こころやす】らぐ。",
+    "meaning": "This road is quiet and peaceful."
+  },
+  {
+    "sentence": "彼は自分の夢を実現する路を突き進む。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の夢【ゆめ】を実現【じつげん】する路【ろ】を突【つ】き進【すす】む。",
+    "meaning": "He pushes forward on the path to realize his dreams."
+  },
+  {
+    "sentence": "この路は昔、旅人が利用していた。",
+    "sentence_furigana": "この路【ろ】は昔【むかし】、旅人【たびびと】が利用【りよう】していた。",
+    "meaning": "This road was used by travelers in the past."
+  },
+  {
+    "sentence": "彼女は人生の重要な岐路に立っている。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の重要【じゅうよう】な岐路【きろ】に立【た】っている。",
+    "meaning": "She is at an important crossroads in her life."
+  },
+  {
+    "sentence": "この路は街の中心部へと続いている。",
+    "sentence_furigana": "この路【ろ】は街【まち】の中心部【ちゅうしんぶ】へと続【つづ】いている。",
+    "meaning": "This road leads to the city center."
+  },
+  {
+    "sentence": "彼は自らの進むべき路を信じて疑わない。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの進【すす】むべき路【みち】を信【しん】じて疑【うたが】わない。",
+    "meaning": "He firmly believes in the path he should take."
+  },
+  {
+    "sentence": "この路は静寂に包まれている。",
+    "sentence_furigana": "この路【ろ】は静寂【せいじゃく】に包【つつ】まれている。",
+    "meaning": "This road is enveloped in silence."
+  },
+  {
+    "sentence": "彼女は困難を乗り越えて、自分の路を見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】を乗【の】り越【こ】えて、自分【じぶん】の路【みち】を見【み】つけた。",
+    "meaning": "She overcame difficulties and found her own way."
+  },
+  {
+    "sentence": "この路は海まで続いている。",
+    "sentence_furigana": "この路【ろ】は海【うみ】まで続【つづ】いている。",
+    "meaning": "This road leads to the sea."
+  },
+  {
+    "sentence": "彼は常に前進する路を探求している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前進【ぜんしん】する路【ろ】を探求【たんきゅう】している。",
+    "meaning": "He is always exploring the path forward."
+  },
+  {
+    "sentence": "この路は昔ながらの風情を残している。",
+    "sentence_furigana": "この路【ろ】は昔ながらの風情【ふぜい】を残【のこ】している。",
+    "meaning": "This road retains its old-fashioned atmosphere."
+  },
+  {
+    "sentence": "彼女は人生の新たな章へと続く路を進む。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の新た【あら】な章【しょう】へと続【つづ】く路【ろ】を進【すす】む。",
+    "meaning": "She walks a road that leads to a new chapter in her life."
+  },
+  {
+    "sentence": "この路は緩やかな坂道になっている。",
+    "sentence_furigana": "この路【ろ】は緩【ゆる】やかな坂道【さかみち】になっている。",
+    "meaning": "This road is a gentle slope."
+  },
+  {
+    "sentence": "彼は希望への路を見出す。",
+    "sentence_furigana": "彼【かれ】は希望【きぼう】への路【ろ】を見出【みいだ】す。",
+    "meaning": "He finds a path to hope."
+  }
+]

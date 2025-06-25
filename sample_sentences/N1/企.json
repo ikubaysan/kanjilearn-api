@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "会社は新しい事業を企てる。",
+    "sentence_furigana": "会社【かいしゃ】は新【あら】しい事業【じぎょう】を企【くわだ】てる。",
+    "meaning": "The company plans a new business venture."
+  },
+  {
+    "sentence": "彼は大胆な計画を企んだ。",
+    "sentence_furigana": "彼【かれ】は大胆【だいたん】な計画【けいかく】を企【たくら】んだ。",
+    "meaning": "He schemed a bold plan."
+  },
+  {
+    "sentence": "そのプロジェクトの企画は素晴らしい。",
+    "sentence_furigana": "そのプロジェクトの企画【きかく】は素晴【すば】らしい。",
+    "meaning": "The project's design is wonderful."
+  },
+  {
+    "sentence": "私たちは将来のために計画を立てた。",
+    "sentence_furigana": "私【わたし】たちはいま、将来【しょうらい】のために計画【けいかく】を立【た】てた。",
+    "meaning": "We made plans for the future."
+  },
+  {
+    "sentence": "彼は成功を企んだが、失敗に終わった。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】を企【たくら】んだが、失敗【しっぱい】に終【お】わった。",
+    "meaning": "He attempted success, but it ended in failure."
+  },
+  {
+    "sentence": "この建物の設計はユニークだ。",
+    "sentence_furigana": "この建物【たてもの】の設計【せっけい】はユニークだ。",
+    "meaning": "The design of this building is unique."
+  },
+  {
+    "sentence": "新しいビジネスの立ち上げを企んでいます。",
+    "sentence_furigana": "新【あら】しいビジネスの立【た】ち上【あ】げを企【くわだ】てています。",
+    "meaning": "We are planning to launch a new business."
+  },
+  {
+    "sentence": "彼の企みは誰も気づかなかった。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは誰【だれ】も気【き】づかなかった。",
+    "meaning": "Nobody noticed his scheme."
+  },
+  {
+    "sentence": "この都市計画は未来を見据えている。",
+    "sentence_furigana": "この都市計画【としけいかく】は未来【みらい】を見【み】据【す】えている。",
+    "meaning": "This urban plan looks to the future."
+  },
+  {
+    "sentence": "彼らは何か悪巧みを企んでいる。",
+    "sentence_furigana": "彼【かれ】らは何【なに】か悪巧【わるだく】み を企【たくら】んでいる。",
+    "meaning": "They are planning some mischief."
+  },
+  {
+    "sentence": "この戦略の企図は明確だ。",
+    "sentence_furigana": "この戦略【せんりゃく】の企図【きと】は明確【めいはく】だ。",
+    "meaning": "The intent of this strategy is clear."
+  },
+  {
+    "sentence": "彼女は革命を企てた。",
+    "sentence_furigana": "彼女【かのじょ】は革命【かくめい】を企【くわだ】てた。",
+    "meaning": "She planned a revolution."
+  },
+  {
+    "sentence": "彼の企みは成功に終わった。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは成功【せいこう】に終【お】わった。",
+    "meaning": "His scheme ended in success."
+  },
+  {
+    "sentence": "この設計図は非常に詳細だ。",
+    "sentence_furigana": "この設計図【せっけいず】は非常【ひじょう】に詳細【しょうさい】だ。",
+    "meaning": "This blueprint is very detailed."
+  },
+  {
+    "sentence": "我々は新たな冒険を企てる。",
+    "sentence_furigana": "我々【われわれ】は新【あら】たな冒険【ぼうけん】を企【くわだ】てる。",
+    "meaning": "We undertake a new adventure."
+  },
+  {
+    "sentence": "彼の企みは阻止された。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは阻止【そし】された。",
+    "meaning": "His scheme was thwarted."
+  },
+  {
+    "sentence": "このプロジェクトの企画段階にいる。",
+    "sentence_furigana": "このプロジェクトの企画【きかく】段階【だんかい】にいる。",
+    "meaning": "We are in the planning stage of this project."
+  },
+  {
+    "sentence": "政府は経済再建を企んでいる。",
+    "sentence_furigana": "政府【せいふ】は経済再建【けいざいさいけん】を企【くわだ】てている。",
+    "meaning": "The government is planning economic reconstruction."
+  },
+  {
+    "sentence": "彼らは秘密裏に計画を進めていた。",
+    "sentence_furigana": "彼【かれ】らは秘密裏【ひみつり】に計画【けいかく】を進【すす】めていた。",
+    "meaning": "They were secretly advancing the plan."
+  },
+  {
+    "sentence": "この建築の企図は壮大だ。",
+    "sentence_furigana": "この建築【けんちく】の企図【きと】は壮大【そうだい】だ。",
+    "meaning": "The intention of this architecture is grand."
+  },
+  {
+    "sentence": "彼は大胆な企てを思いついた。",
+    "sentence_furigana": "彼【かれ】は大胆【だいたん】な企【たくら】みを思【おも】いついた。",
+    "meaning": "He came up with a daring scheme."
+  },
+  {
+    "sentence": "この商品の設計思想は消費者のニーズに応えるものだ。",
+    "sentence_furigana": "この商品【しょうひん】の設計思想【せっけいしそう】は消費者【しょうひしゃ】のニーズに応【おう】えるものだ。",
+    "meaning": "The design philosophy of this product meets consumer needs."
+  },
+  {
+    "sentence": "彼らは次の選挙を企んでいる。",
+    "sentence_furigana": "彼【かれ】らは次【つぎ】の選挙【せんきょ】を企【くわだ】てている。",
+    "meaning": "They are planning for the next election."
+  },
+  {
+    "sentence": "その計画は失敗に終わるだろう。",
+    "sentence_furigana": "その計画【けいかく】は失敗【しっぱい】に終【お】わるだろう。",
+    "meaning": "That plan will end in failure."
+  },
+  {
+    "sentence": "彼の企みは世間を騒がせた。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは世間【せけん】を騒【さわ】がせた。",
+    "meaning": "His scheme caused a public stir."
+  },
+  {
+    "sentence": "この記念碑の設計は歴史的建造物を模している。",
+    "sentence_furigana": "この記念碑【きねんひ】の設計【せっけい】は歴史的建造物【れきしてきけんぞうぶつ】を模【も】している。",
+    "meaning": "The design of this monument imitates historical buildings."
+  },
+  {
+    "sentence": "我々はより良い未来を計画している。",
+    "sentence_furigana": "我々【われわれ】はより良【よ】い未来【みらい】を計画【けいかく】している。",
+    "meaning": "We are planning for a better future."
+  },
+  {
+    "sentence": "彼はその地位を奪うことを企んだ。",
+    "sentence_furigana": "彼【かれ】はその地位【ちい】を奪【うば】うことを企【たくら】んだ。",
+    "meaning": "He plotted to seize that position."
+  },
+  {
+    "sentence": "この事業の企画はまだ初期段階です。",
+    "sentence_furigana": "この事業【じぎょう】の企画【きかく】はまだ初期段階【しょきだんかい】です。",
+    "meaning": "The planning for this business is still in the early stages."
+  },
+  {
+    "sentence": "彼は新しいビジネスモデルを企画した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいビジネスモデルを企画【きかく】した。",
+    "meaning": "He designed a new business model."
+  },
+  {
+    "sentence": "彼らの企みは成功するはずがない。",
+    "sentence_furigana": "彼【かれ】らの企【たくら】みは成功【せいこう】するはずがない。",
+    "meaning": "Their scheme is bound to fail."
+  },
+  {
+    "sentence": "この芸術作品の設計は独創的だ。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】の設計【せっけい】は独創的【どくそうてき】だ。",
+    "meaning": "The design of this artwork is original."
+  },
+  {
+    "sentence": "我々は人生の大きな転換を企てる。",
+    "sentence_furigana": "我々【われわれ】は人生【じんせい】の的大【おお】きな転換【てんかん】を企【くわだ】てる。",
+    "meaning": "We are undertaking a major life change."
+  },
+  {
+    "sentence": "彼の悪巧みは明るみに出た。",
+    "sentence_furigana": "彼【かれ】の悪巧【わるだく】みは明【あ】かりみに出【で】た。",
+    "meaning": "His wicked scheme came to light."
+  },
+  {
+    "sentence": "このソフトウェアの設計は使いやすい。",
+    "sentence_furigana": "このソフトウェアの設計【せっけい】は使【つか】いやすい。",
+    "meaning": "The design of this software is user-friendly."
+  },
+  {
+    "sentence": "新たなビジネスを企てることは、常にリスクが伴う。",
+    "sentence_furigana": "新【あら】たなビジネスを企【くわだ】てることは、常【つね】にリスクが伴【ともな】う。",
+    "meaning": "Undertaking a new business always involves risk."
+  },
+  {
+    "sentence": "彼の企みは緻密に計画されていた。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは緻密【ちみつ】に計画【けいかく】されていた。",
+    "meaning": "His scheme was meticulously planned."
+  },
+  {
+    "sentence": "このファッションショーの企画は斬新だ。",
+    "sentence_furigana": "このファッションショーの企画【きかく】は斬新【ざんしん】だ。",
+    "meaning": "The concept for this fashion show is innovative."
+  },
+  {
+    "sentence": "彼らは長期的視点で計画を立てている。",
+    "sentence_furigana": "彼【かれ】らは長期的視点【ちょうきてきしてん】で計画【けいかく】を立【た】てている。",
+    "meaning": "They are planning with a long-term perspective."
+  },
+  {
+    "sentence": "この工場の設計は効率を重視している。",
+    "sentence_furigana": "この工場【こうじょう】の設計【せっけい】は効率【こうりつ】を重視【じゅうし】している。",
+    "meaning": "The design of this factory emphasizes efficiency."
+  },
+  {
+    "sentence": "彼は秘密裏に復讐を企てていた。",
+    "sentence_furigana": "彼【かれ】は秘密裏【ひみつり】に復讐【ふくしゅう】を企【たくら】ていた。",
+    "meaning": "He was secretly plotting revenge."
+  },
+  {
+    "sentence": "このイベントの企画は成功裏に終わった。",
+    "sentence_furigana": "このイベントの企画【きかく】は成功裏【せいこうり】に終【お】わった。",
+    "meaning": "The planning for this event ended successfully."
+  },
+  {
+    "sentence": "私たちは大胆な新しいプロジェクトを企てる。",
+    "sentence_furigana": "私【わたし】たちは大胆【だいたん】な新【あら】しいプロジェクトを企【くわだ】てる。",
+    "meaning": "We undertake a bold new project."
+  },
+  {
+    "sentence": "彼の企みは、国家の安全を脅かすものだった。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは、国家【こっか】の安全【あんぜん】を脅【おびや】かすものだった。",
+    "meaning": "His scheme threatened national security."
+  },
+  {
+    "sentence": "この家の設計は自然と調和している。",
+    "sentence_furigana": "この家【いえ】の設計【せっけい】は自然【しぜん】と調和【ちょうわ】している。",
+    "meaning": "The design of this house harmonizes with nature."
+  },
+  {
+    "sentence": "彼らは事業拡大を企んでいる。",
+    "sentence_furigana": "彼【かれ】らは事業拡大【じぎょうかくだい】を企【くわだ】てている。",
+    "meaning": "They are planning business expansion."
+  },
+  {
+    "sentence": "この小説のプロットは巧妙に企てられている。",
+    "sentence_furigana": "この小説【しょうせつ】のプロットは巧妙【こうみょう】に企【たくら】てられている。",
+    "meaning": "The plot of this novel is cleverly devised."
+  },
+  {
+    "sentence": "彼女は彼の企みを阻止しようとした。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】の企【たくら】みを阻止【そし】しようとした。",
+    "meaning": "She tried to thwart his scheme."
+  },
+  {
+    "sentence": "このデザインは非常にミニマルだ。",
+    "sentence_furigana": "このデザインは非常【ひじょう】にミニマルだ。",
+    "meaning": "This design is very minimalist."
+  },
+  {
+    "sentence": "彼らは新しい戦略を企てている。",
+    "sentence_furigana": "彼【かれ】らは新【あら】しい戦略【せんりゃく】を企【くわだ】てている。",
+    "meaning": "They are planning a new strategy."
+  },
+  {
+    "sentence": "彼の企みは最終的に露見した。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは最終的【さいしゅうてき】に露見【ろけん】した。",
+    "meaning": "His scheme was eventually exposed."
+  },
+  {
+    "sentence": "この博物館の設計は革新的だ。",
+    "sentence_furigana": "この博物館【はくぶつかん】の設計【せっけい】は革新 的【かくしんてき】だ。",
+    "meaning": "The design of this museum is innovative."
+  },
+  {
+    "sentence": "私たちは将来の成功を企てる。",
+    "sentence_furigana": "私【わたし】たちは将来【しょうらい】の成功【せいこう】を企【くわだ】てる。",
+    "meaning": "We aim for future success."
+  },
+  {
+    "sentence": "彼の企みは多くの人々を巻き込んだ。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは多【おお】くの人々【ひとびと】を巻【ま】き込【こ】んだ。",
+    "meaning": "His scheme involved many people."
+  },
+  {
+    "sentence": "この都市計画は持続可能性を重視している。",
+    "sentence_furigana": "この都市計画【としけいかく】は持続可能性【じぞくかのうせい】を重視【じゅうし】している。",
+    "meaning": "This urban plan emphasizes sustainability."
+  },
+  {
+    "sentence": "彼らは大胆な逃走計画を企てた。",
+    "sentence_furigana": "彼【かれ】らは大胆【だいたん】な逃走計画【とうそうけいかく】を企【たくら】てた。",
+    "meaning": "They planned a daring escape."
+  },
+  {
+    "sentence": "この製品の設計は時代を先取りしている。",
+    "sentence_furigana": "この製品【せいひん】の設計【せっけい】は時代【じだい】を先取【さきど】りしている。",
+    "meaning": "The design of this product is ahead of its time."
+  },
+  {
+    "sentence": "私たちは新たな挑戦を企てる。",
+    "sentence_furigana": "私【わたし】たちは新【あら】たな挑戦【ちょうせん】を企【くわだ】てる。",
+    "meaning": "We undertake a new challenge."
+  },
+  {
+    "sentence": "彼の企みは成功寸前だった。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは成功寸前【せいこうすんぜん】だった。",
+    "meaning": "His scheme was on the verge of success."
+  },
+  {
+    "sentence": "この新しい建築物の設計は非常に先進的だ。",
+    "sentence_furigana": "この新【あら】しい建築物【けんちくぶつ】の設計【せっけい】は非常【ひじょう】に進歩的【しんぽてき】だ。",
+    "meaning": "The design of this new building is very advanced."
+  },
+  {
+    "sentence": "彼らは平和的な解決策を企んでいる。",
+    "sentence_furigana": "彼【かれ】らは平和 的【へいわてき】な解決策【かいけつさく】を企【くわだ】てている。",
+    "meaning": "They are planning a peaceful solution."
+  },
+  {
+    "sentence": "この計画の立案者は誰か。",
+    "sentence_furigana": "この計画【けいかく】の立案者【りつあんしゃ】は誰【だれ】か。",
+    "meaning": "Who is the planner of this project?"
+  },
+  {
+    "sentence": "彼の企みは巧妙に隠されていた。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは巧妙【こうみょう】に隠【かく】されていた。",
+    "meaning": "His scheme was cleverly hidden."
+  },
+  {
+    "sentence": "このイベントの企画は多くの人々の協力によって成り立った。",
+    "sentence_furigana": "このイベントの企画【きかく】は多【おお】くの人々【ひとびと】の協力【きょうりょく】によって成【な】り立【た】った。",
+    "meaning": "The planning for this event was made possible by the cooperation of many people."
+  },
+  {
+    "sentence": "我々は困難な状況を乗り越えることを企てる。",
+    "sentence_furigana": "私【わたし】たちは困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えることを企【くわだ】てる。",
+    "meaning": "We aim to overcome difficult circumstances."
+  },
+  {
+    "sentence": "彼の企みは破綻した。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは破綻【はたん】した。",
+    "meaning": "His scheme failed."
+  },
+  {
+    "sentence": "この都市の再開発計画は壮大だ。",
+    "sentence_furigana": "この都市【とし】の再開発計画【さいかいはつけいかく】は壮大【そうだい】だ。",
+    "meaning": "The urban redevelopment plan for this city is grand."
+  },
+  {
+    "sentence": "彼らは新技術の開発を企てている。",
+    "sentence_furigana": "彼【かれ】らは新技術【しんぎじゅつ】の開発【かいはつ】を企【くわだ】てている。",
+    "meaning": "They are planning the development of new technology."
+  },
+  {
+    "sentence": "このキャラクターデザインは魅力的だ。",
+    "sentence_furigana": "このキャラクターデザインは魅力的【みりょくてき】だ。",
+    "meaning": "This character design is appealing."
+  },
+  {
+    "sentence": "彼らは平和な共存を企てている。",
+    "sentence_furigana": "彼【かれ】らは平和【へいわ】な共存【きょうぞん】を企【くわだ】てている。",
+    "meaning": "They are planning peaceful coexistence."
+  },
+  {
+    "sentence": "彼の悪巧みはついに暴かれた。",
+    "sentence_furigana": "彼【かれ】の悪巧【わるだく】みはついに暴【あば】かれた。",
+    "meaning": "His wicked scheme was finally revealed."
+  },
+  {
+    "sentence": "このプログラムの設計は非常に複雑だ。",
+    "sentence_furigana": "このプログラムの設計【せっけい】は非常【ひじょう】に複雑【ふくざつ】だ。",
+    "meaning": "The design of this program is very complex."
+  },
+  {
+    "sentence": "我々は社会変革を企てる。",
+    "sentence_furigana": "私【わたし】たちは社会変革【しゃかいへんかく】を企【くわだ】てる。",
+    "meaning": "We aim for social change."
+  },
+  {
+    "sentence": "彼の企みは失敗に終わったが、教訓は得た。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは失敗【しっぱい】に終【お】わったが、教訓【きょうくん】は得【え】た。",
+    "meaning": "His scheme failed, but he learned a lesson."
+  },
+  {
+    "sentence": "このウェブサイトの設計はユーザーフレンドリーだ。",
+    "sentence_furigana": "このウェブサイトの設計【せっけい】はユーザーフレンドリーだ。",
+    "meaning": "The design of this website is user-friendly."
+  },
+  {
+    "sentence": "彼らは新たな市場への進出を企んでいる。",
+    "sentence_furigana": "彼【かれ】らは新【あら】たな市場【しじょう】への進出【しんしゅつ】を企【くわだ】てている。",
+    "meaning": "They are planning to enter new markets."
+  },
+  {
+    "sentence": "この物語の結末は巧みに企てられている。",
+    "sentence_furigana": "この物語【ものがたり】の結末【けつまつ】は巧【たく】みに企【たくら】てられている。",
+    "meaning": "The ending of this story is skillfully devised."
+  },
+  {
+    "sentence": "彼女は自身のキャリアアップを企てている。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】のキャリアアップを企【たくら】てている。",
+    "meaning": "She is planning for her career advancement."
+  },
+  {
+    "sentence": "この建物の内部設計は非常に機能的だ。",
+    "sentence_furigana": "この建物【たてもの】の内部設計【ないぶせっけい】は非常【ひじょう】に機能的【きのうてき】だ。",
+    "meaning": "The interior design of this building is very functional."
+  },
+  {
+    "sentence": "我々はより良い未来を計画する責任がある。",
+    "sentence_furigana": "私【わたし】たちはより良【よ】い未来【みらい】を計画【けいかく】する責任【せきにん】がある。",
+    "meaning": "We have a responsibility to plan for a better future."
+  },
+  {
+    "sentence": "彼の企みは国家間の緊張を高めた。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは国家間【こっかかん】の緊張【きんちょう】を高【たか】めた。",
+    "meaning": "His scheme heightened international tensions."
+  },
+  {
+    "sentence": "この公園の設計は環境に配慮している。",
+    "sentence_furigana": "この公園【こうえん】の設計【せっけい】は環境【かんきょう】に配慮【はいりょ】している。",
+    "meaning": "The design of this park is environmentally conscious."
+  },
+  {
+    "sentence": "彼らは新しい店舗の開店を企んでいる。",
+    "sentence_furigana": "彼【かれ】らは新【あら】たな店舗【てんぽ】の開店【かいてん】を企【くわだ】てている。",
+    "meaning": "They are planning to open a new store."
+  },
+  {
+    "sentence": "このゲームのストーリー展開は巧みに企てられている。",
+    "sentence_furigana": "このゲームのストーリー展開【てんかい】は巧【たく】みに企【たくら】てられている。",
+    "meaning": "The story development of this game is cleverly designed."
+  },
+  {
+    "sentence": "彼女は長年の夢を実現することを企てている。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の夢【ゆめ】を実現【じつげん】することを企【たくら】てている。",
+    "meaning": "She is planning to realize her long-cherished dream."
+  },
+  {
+    "sentence": "この製品パッケージの設計は、ブランドイメージを向上させる。",
+    "sentence_furigana": "この製品パッケージの設計【せっけい】は、ブランドイメージを向上【こうじょう】させる。",
+    "meaning": "The design of this product packaging enhances the brand image."
+  },
+  {
+    "sentence": "我々は新たなビジネスチャンスを企てる。",
+    "sentence_furigana": "私【わたし】たちは新【あら】たなビジネスチャンスを企【くわだ】てる。",
+    "meaning": "We undertake new business opportunities."
+  },
+  {
+    "sentence": "彼の企みは国民の支持を得られなかった。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは国民【こくみん】の支持【しじ】を得【え】られなかった。",
+    "meaning": "His scheme did not gain public support."
+  },
+  {
+    "sentence": "この美術館の設計は芸術作品そのものだ。",
+    "sentence_furigana": "この美術館【びじゅつかん】の設計【せっけい】は芸術作品【げいじゅつさくひん】そのものだ。",
+    "meaning": "The design of this art museum is a work of art itself."
+  },
+  {
+    "sentence": "彼らは大胆な計画を実行に移した。",
+    "sentence_furigana": "彼【かれ】らは大胆【だいたん】な計画【けいかく】を実行【じっこう】に移【うつ】した。",
+    "meaning": "They put a bold plan into action."
+  },
+  {
+    "sentence": "この都市の新しいインフラ計画は、将来を見据えている。",
+    "sentence_furigana": "この都市【とし】の new インフラ計画【けいかく】は、将来【しょうらい】を見【み】据【す】えている。",
+    "meaning": "The city's new infrastructure plan is future-oriented."
+  },
+  {
+    "sentence": "彼の企みは、多くの人々に希望を与えた。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは、多【おお】くの人々【ひとびと】に希望【きぼう】を与【あた】えた。",
+    "meaning": "His scheme gave hope to many people."
+  },
+  {
+    "sentence": "この新しい学校の設計は、学習環境を最適化している。",
+    "sentence_furigana": "この新【あら】しい学校【がっこう】の設計【せっけい】は、学習環境【がくしゅうかんきょう】を最適化【さいてきか】している。",
+    "meaning": "The design of this new school optimizes the learning environment."
+  },
+  {
+    "sentence": "我々は持続可能な社会の実現を企てる。",
+    "sentence_furigana": "私【わたし】たちは持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】を企【くわだ】てる。",
+    "meaning": "We aim for the realization of a sustainable society."
+  },
+  {
+    "sentence": "彼の企みは国の運命を変えるものだった。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは国【くに】の運命【うんめい】を変【か】えるものだった。",
+    "meaning": "His scheme changed the destiny of the nation."
+  },
+  {
+    "sentence": "このゲーム機の設計は革新的なものだった。",
+    "sentence_furigana": "このゲーム機【き】の設計【せっけい】は革新 的【かくしんてき】なものだった。",
+    "meaning": "The design of this game console was innovative."
+  },
+  {
+    "sentence": "彼らは新たな技術革新を企てている。",
+    "sentence_furigana": "彼【かれ】らは新【あら】たな技術革新【ぎじゅつかくしん】を企【くわだ】てている。",
+    "meaning": "They are planning new technological innovation."
+  },
+  {
+    "sentence": "彼の計画は当初の予定通りに進んでいる。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は当初【とうしょ】の予定通【よていどお】り に進【すす】んでいる。",
+    "meaning": "His plan is proceeding as originally scheduled."
+  },
+  {
+    "sentence": "この映画のプロットは非常に巧妙に企てられている。",
+    "sentence_furigana": "この映画【えいが】のプロットは非常【ひじょう】に巧妙【こうみょう】に企【たくら】てられている。",
+    "meaning": "The plot of this movie is very ingeniously devised."
+  },
+  {
+    "sentence": "彼らは社会に貢献する計画を立てている。",
+    "sentence_furigana": "彼【かれ】らは社会【しゃかい】に貢献【こうけん】する計画【けいかく】を立【た】てている。",
+    "meaning": "They are making plans to contribute to society."
+  },
+  {
+    "sentence": "この企業の将来計画は野心的だ。",
+    "sentence_furigana": "この企業【きぎょう】の将来計画【しょうらいけいかく】は野心的【やしんてき】だ。",
+    "meaning": "The company's future plans are ambitious."
+  },
+  {
+    "sentence": "彼の企みは最終的に成功した。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは最終的【さいしゅうてき】に成功【せいこう】した。",
+    "meaning": "His scheme ultimately succeeded."
+  },
+  {
+    "sentence": "この建物全体の設計は統一感がある。",
+    "sentence_furigana": "この建物【たてもの】全体【ぜんたい】の設計【せっけい】は統一感【とういつかん】がある。",
+    "meaning": "The overall design of this building has a sense of unity."
+  },
+  {
+    "sentence": "我々は平和な世界を築くことを企てる。",
+    "sentence_furigana": "私【わたし】たちは平和【へいわ】な世界【せかい】を築【きず】くことを企【くわだ】てる。",
+    "meaning": "We aim to build a peaceful world."
+  },
+  {
+    "sentence": "彼の企みは多くの人々に疑念を抱かせた。",
+    "sentence_furigana": "彼【かれ】の企【たくら】みは多【おお】くの人々【ひとびと】に疑念【ぎねん】を抱【いだ】かせた。",
+    "meaning": "His scheme caused many people to harbor doubts."
+  },
+  {
+    "sentence": "この芸術祭の企画は成功を収めた。",
+    "sentence_furigana": "この芸術祭【げいじゅつさい】の企画【きかく】は成功【せいこう】を収【おさ】めた。",
+    "meaning": "The planning for this art festival was successful."
+  }
+]

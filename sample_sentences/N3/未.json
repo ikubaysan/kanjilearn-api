@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "この仕事はまだ終わっていません。",
+    "sentence_furigana": "この仕事【しごと】はまだ終【お】わっていません。",
+    "meaning": "This work is not yet finished."
+  },
+  {
+    "sentence": "未定の事項について話し合いました。",
+    "sentence_furigana": "未定【みてい】の事項【じこう】について話【はな】し合【あ】いました。",
+    "meaning": "We discussed the undecided matters."
+  },
+  {
+    "sentence": "彼はまだ学生です。",
+    "sentence_furigana": "彼【かれ】はまだ学生【がくせい】です。",
+    "meaning": "He is still a student."
+  },
+  {
+    "sentence": "未来はまだ分かりません。",
+    "sentence_furigana": "未来【みらい】はまだ分【わ】かりません。",
+    "meaning": "The future is not yet known."
+  },
+  {
+    "sentence": "未経験者歓迎の求人です。",
+    "sentence_furigana": "未経験者【みけいけんしゃ】歓迎【かんげい】の求人【きゅうじん】です。",
+    "meaning": "This is a job opening that welcomes inexperienced people."
+  },
+  {
+    "sentence": "未遂に終わった事件。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった事件【じけん】。",
+    "meaning": "An incident that ended in an attempt."
+  },
+  {
+    "sentence": "未開封の商品です。",
+    "sentence_furigana": "未開封【みかいふう】の商品【しょうひん】です。",
+    "meaning": "This is an unopened product."
+  },
+  {
+    "sentence": "未成年者は入場できません。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】は入場【にゅうじょう】できません。",
+    "meaning": "Minors cannot enter."
+  },
+  {
+    "sentence": "未完の絵画。",
+    "sentence_furigana": "未完【みかん】の絵画【かいが】。",
+    "meaning": "An unfinished painting."
+  },
+  {
+    "sentence": "未払いの請求書があります。",
+    "sentence_furigana": "未払【みはら】いの請求書【せいきゅうしょ】があります。",
+    "meaning": "There is an unpaid invoice."
+  },
+  {
+    "sentence": "未熟な点は多いが、成長を期待する。",
+    "sentence_furigana": "未熟【みじゅく】な点【てん】は多【おお】いが、成長【せいちょう】を期待【きたい】する。",
+    "meaning": "There are many immature points, but I expect growth."
+  },
+  {
+    "sentence": "未確認の飛行物体が目撃された。",
+    "sentence_furigana": "未確認【みかくにん】の飛行物体【ひこうぶったい】が目撃【もくげき】された。",
+    "meaning": "An unidentified flying object was sighted."
+  },
+  {
+    "sentence": "未婚の母として子供を育てた。",
+    "sentence_furigana": "未婚【みこん】の母【はは】として子供【こども】を育【そだ】てた。",
+    "meaning": "She raised her child as a single mother."
+  },
+  {
+    "sentence": "未踏の山を目指す。",
+    "sentence_furigana": "未踏【みとう】の山【やま】を目指【めざ】す。",
+    "meaning": "Aim for an unexplored mountain."
+  },
+  {
+    "sentence": "未遂に終わる。",
+    "sentence_furigana": "未遂【みすい】に終【お】わる。",
+    "meaning": "To end in an attempt."
+  },
+  {
+    "sentence": "まだ、そこまで行っていません。",
+    "sentence_furigana": "まだ、そこまで行【い】っていません。",
+    "meaning": "I haven't gone that far yet."
+  },
+  {
+    "sentence": "未だかつてない経験。",
+    "sentence_furigana": "未だ【いまだ】かつてない経験【けいけん】。",
+    "meaning": "An unprecedented experience."
+  },
+  {
+    "sentence": "未練を残して別れた。",
+    "sentence_furigana": "未練【みれん】を残【のこ】して別【わか】れた。",
+    "meaning": "They parted with lingering attachment."
+  },
+  {
+    "sentence": "未納の料金があります。",
+    "sentence_furigana": "未納【みのう】の料金【りょうきん】があります。",
+    "meaning": "There are unpaid charges."
+  },
+  {
+    "sentence": "未成年であることを証明してください。",
+    "sentence_furigana": "未成年【みせいねん】であることを証明【しょうめい】してください。",
+    "meaning": "Please prove that you are a minor."
+  },
+  {
+    "sentence": "未加工の木材。",
+    "sentence_furigana": "未加工【みかこう】の木材【もくざい】。",
+    "meaning": "Unprocessed lumber."
+  },
+  {
+    "sentence": "未実施の計画。",
+    "sentence_furigana": "未実施【みじっし】の計画【けいかく】。",
+    "meaning": "An unexecuted plan."
+  },
+  {
+    "sentence": "未明の空に星が輝いていた。",
+    "sentence_furigana": "未明【みめい】の空【そら】に星【ほし】が輝【かがや】いていた。",
+    "meaning": "Stars were shining in the pre-dawn sky."
+  },
+  {
+    "sentence": "未解決の事件を捜査する。",
+    "sentence_furigana": "未解決【みかいけつ】の事件【じけん】を捜査【そうさ】する。",
+    "meaning": "Investigate an unsolved case."
+  },
+  {
+    "sentence": "未着の荷物について問い合わせます。",
+    "sentence_furigana": "未着【みちゃく】の荷物【にもつ】について問【と】い合【あ】わせます。",
+    "meaning": "I will inquire about the undelivered package."
+  },
+  {
+    "sentence": "未学習の分野が多い。",
+    "sentence_furigana": "未学習【みがくしゅう】の分野【ぶんや】が多【おお】い。",
+    "meaning": "There are many fields that have not been studied."
+  },
+  {
+    "sentence": "未遂に終わる犯罪。",
+    "sentence_furigana": "未遂【みすい】に終【お】わる犯罪【はんざい】。",
+    "meaning": "A crime that ends in an attempt."
+  },
+  {
+    "sentence": "未開封の状態で保管してください。",
+    "sentence_furigana": "未開封【みかいふう】の状態【じょうたい】で保管【ほかん】してください。",
+    "meaning": "Please store it in an unopened state."
+  },
+  {
+    "sentence": "未経験でも応募できますか。",
+    "sentence_furigana": "未経験【みけいけん】でも応募【おうぼ】できますか。",
+    "meaning": "Can I apply even if I have no experience?"
+  },
+  {
+    "sentence": "未だかつてないほどの大成功。",
+    "sentence_furigana": "未だ【いまだ】かつてないほどの大成功【だいせいこう】。",
+    "meaning": "A great success like never before."
+  },
+  {
+    "sentence": "未定事項が多い会議。",
+    "sentence_furigana": "未定【みてい】事項【じこう】が多【おお】い会議【かいぎ】。",
+    "meaning": "A meeting with many undecided items."
+  },
+  {
+    "sentence": "未成年者の権利を守る。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】の権利【けんり】を守【まも】る。",
+    "meaning": "Protect the rights of minors."
+  },
+  {
+    "sentence": "未遂の事件が相次ぐ。",
+    "sentence_furigana": "未遂【みすい】の事件【じけん】が相次【あいつ】ぐ。",
+    "meaning": "Attempted incidents occur one after another."
+  },
+  {
+    "sentence": "未来への希望を語る。",
+    "sentence_furigana": "未来【みらい】への希望【きぼう】を語【かた】る。",
+    "meaning": "Talk about hope for the future."
+  },
+  {
+    "sentence": "未払い残高を確認する。",
+    "sentence_furigana": "未払【みはら】い残高【ざんだか】を確認【かくにん】する。",
+    "meaning": "Check the unpaid balance."
+  },
+  {
+    "sentence": "未熟な点を改善していく。",
+    "sentence_furigana": "未熟【みじゅく】な点【てん】を改善【かいぜん】していく。",
+    "meaning": "Improve the immature points."
+  },
+  {
+    "sentence": "未遂に終わった計画を再検討する。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった計画【けいかく】を再検討【さいけんとう】する。",
+    "meaning": "Reconsider the plan that ended in an attempt."
+  },
+  {
+    "sentence": "未定のまま進めるわけにはいかない。",
+    "sentence_furigana": "未定【みてい】のまま進【すす】めるわけにはいかない。",
+    "meaning": "We cannot proceed with things remaining undecided."
+  },
+  {
+    "sentence": "未開のジャングルを探検する。",
+    "sentence_furigana": "未開【みかい】のジャングルを探検【たんけん】する。",
+    "meaning": "Explore the virgin jungle."
+  },
+  {
+    "sentence": "未だ見ぬ世界へ旅立つ。",
+    "sentence_furigana": "未だ【いまだ】見【み】ぬ世界【せかい】へ旅立【たびだ】つ。",
+    "meaning": "Embark on a journey to a world yet unseen."
+  },
+  {
+    "sentence": "未熟なプレーだったが、次は頑張る。",
+    "sentence_furigana": "未熟【みじゅく】なプレーだったが、次【つぎ】は頑張【がんば】る。",
+    "meaning": "It was an immature play, but I'll do my best next time."
+  },
+  {
+    "sentence": "未確認情報を鵜呑みにしない。",
+    "sentence_furigana": "未確認【みかくにん】情報【じょうほう】を鵜呑【うの】みにしない。",
+    "meaning": "Do not take unconfirmed information at face value."
+  },
+  {
+    "sentence": "未遂に終わった犯行。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった犯行【はんこう】。",
+    "meaning": "A crime that ended in an attempt."
+  },
+  {
+    "sentence": "未婚の男女の割合が増加している。",
+    "sentence_furigana": "未婚【みこん】の男女【だんじょ】の割合【わりあい】が増加【ぞうか】している。",
+    "meaning": "The proportion of unmarried men and women is increasing."
+  },
+  {
+    "sentence": "未払いの会費は早急に納入してください。",
+    "sentence_furigana": "未払【みはら】いの会費【かいひ】は早急【そうきゅう】に納入【のうにゅう】してください。",
+    "meaning": "Please pay the outstanding membership fees promptly."
+  },
+  {
+    "sentence": "未明の空には一番星が見えた。",
+    "sentence_furigana": "未明【みめい】の空【そら】には一番星【いちばんぼし】が見【み】えた。",
+    "meaning": "The first star was visible in the pre-dawn sky."
+  },
+  {
+    "sentence": "未来は不確実だが、希望はある。",
+    "sentence_furigana": "未来【みらい】は不確実【ふかくじつ】だが、希望【きぼう】はある。",
+    "meaning": "The future is uncertain, but there is hope."
+  },
+  {
+    "sentence": "未経験者でも安心して働ける環境。",
+    "sentence_furigana": "未経験者【みけいけんしゃ】でも安心【あんしん】して働【はたら】ける環境【かんきょう】。",
+    "meaning": "An environment where even inexperienced people can work with peace of mind."
+  },
+  {
+    "sentence": "未遂に終わった coup d'état。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった coup d'état。",
+    "meaning": "An attempted coup d'état."
+  },
+  {
+    "sentence": "未読のメールが溜まっている。",
+    "sentence_furigana": "未読【みどく】のメールが溜【た】まっている。",
+    "meaning": "Unread emails are piling up."
+  },
+  {
+    "sentence": "未だその件については結論が出ていない。",
+    "sentence_furigana": "未だ【いまだ】その件【けん】については結論【けつろん】が出【で】ていない。",
+    "meaning": "No conclusion has been reached on that matter yet."
+  },
+  {
+    "sentence": "未完の小説を読み終えた。",
+    "sentence_furigana": "未完【みかん】の小説【しょうせつ】を読【よ】み終【お】えた。",
+    "meaning": "I finished reading an unfinished novel."
+  },
+  {
+    "sentence": "未成年者の飲酒は法律で禁じられている。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】の飲酒【いんしゅ】は法律【ほうりつ】で禁【きん】じられている。",
+    "meaning": "Drinking alcohol by minors is prohibited by law."
+  },
+  {
+    "sentence": "未遂に終わった恋。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった恋【こい】。",
+    "meaning": "A love that ended in an attempt."
+  },
+  {
+    "sentence": "未確認飛行物体に関する情報提供。",
+    "sentence_furigana": "未確認【みかくにん】飛行物体【ひこうぶったい】に関【かん】する情報提供【じょうほうていきょう】。",
+    "meaning": "Information provision regarding unidentified flying objects."
+  },
+  {
+    "sentence": "未だ解決されていない問題。",
+    "sentence_furigana": "未だ【いまだ】解決【かいけつ】されていない問題【もんだい】。",
+    "meaning": "Problems that have not yet been solved."
+  },
+  {
+    "sentence": "未経験者を育成するプログラム。",
+    "sentence_furigana": "未経験者【みけいけんしゃ】を育成【いくせい】するプログラム。",
+    "meaning": "A program to train inexperienced people."
+  },
+  {
+    "sentence": "未払いの税金がある。",
+    "sentence_furigana": "未払【みはら】いの税金【ぜいきん】がある。",
+    "meaning": "There are unpaid taxes."
+  },
+  {
+    "sentence": "未明に到着する予定です。",
+    "sentence_furigana": "未明【みめい】に到着【とうちゃく】する予定【よてい】です。",
+    "meaning": "We are scheduled to arrive in the early morning."
+  },
+  {
+    "sentence": "未遂に終わったテロ。",
+    "sentence_furigana": "未遂【みすい】に終【お】わったテロ。",
+    "meaning": "An attempted terror attack."
+  },
+  {
+    "sentence": "未来への投資。",
+    "sentence_furigana": "未来【みらい】への投資【とうし】。",
+    "meaning": "Investment for the future."
+  },
+  {
+    "sentence": "未読の小説を読み始めた。",
+    "sentence_furigana": "未読【みどく】の小説【しょうせつ】を読【よ】み始【はじ】めた。",
+    "meaning": "I started reading an unread novel."
+  },
+  {
+    "sentence": "未解決の謎が残る。",
+    "sentence_furigana": "未解決【みかいけつ】の謎【なぞ】が残【のこ】る。",
+    "meaning": "An unsolved mystery remains."
+  },
+  {
+    "sentence": "未経験者のための研修制度。",
+    "sentence_furigana": "未経験者【みけいけんしゃ】のための研修【けんしゅう】制度【せいど】。",
+    "meaning": "A training system for inexperienced people."
+  },
+  {
+    "sentence": "未払い料金が発生しました。",
+    "sentence_furigana": "未払【みはら】い料金【りょうきん】が発生【はっせい】しました。",
+    "meaning": "Unpaid charges have occurred."
+  },
+  {
+    "sentence": "未遂に終わった改革。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった改革【かいかく】。",
+    "meaning": "An attempted reform."
+  },
+  {
+    "sentence": "未だ進展がない。",
+    "sentence_furigana": "未だ【いまだ】進展【しんてん】がない。",
+    "meaning": "There has been no progress yet."
+  },
+  {
+    "sentence": "未開封の化粧品。",
+    "sentence_furigana": "未開封【みかいふう】の化粧品【けしょうひん】。",
+    "meaning": "Unopened cosmetics."
+  },
+  {
+    "sentence": "未成年者への啓発活動。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】への啓発【けいはつ】活動【かつどう】。",
+    "meaning": "Awareness activities for minors."
+  },
+  {
+    "sentence": "未遂の可能性が高い。",
+    "sentence_furigana": "未遂【みすい】の可能性【かのうせい】が高【たか】い。",
+    "meaning": "There is a high possibility of an attempt."
+  },
+  {
+    "sentence": "未来を切り開く。",
+    "sentence_furigana": "未来【みらい】を切【き】り開【ひら】く。",
+    "meaning": "To carve out the future."
+  },
+  {
+    "sentence": "未熟な知識で挑む。",
+    "sentence_furigana": "未熟【みじゅく】な知識【ちしき】で挑【いど】む。",
+    "meaning": "To challenge with immature knowledge."
+  },
+  {
+    "sentence": "未確認情報にご注意ください。",
+    "sentence_furigana": "未確認【みかくにん】情報【じょうほう】にご注意【ちゅうい】ください。",
+    "meaning": "Please be careful with unconfirmed information."
+  },
+  {
+    "sentence": "未遂に終わる試み。",
+    "sentence_furigana": "未遂【みすい】に終【お】わる試【こころ】み。",
+    "meaning": "An attempt that ends in failure."
+  },
+  {
+    "sentence": "未婚率の上昇。",
+    "sentence_furigana": "未婚率【みこんりつ】の上昇【じょうしょう】。",
+    "meaning": "An increase in the unmarried rate."
+  },
+  {
+    "sentence": "未払い賃金の支払い。",
+    "sentence_furigana": "未払【みはら】い賃金【ちんぎん】の支払【しはら】い。",
+    "meaning": "Payment of unpaid wages."
+  },
+  {
+    "sentence": "未だに信じられない。",
+    "sentence_furigana": "未だ【いまだ】に信【しん】じられない。",
+    "meaning": "I still can't believe it."
+  },
+  {
+    "sentence": "未完のプロジェクト。",
+    "sentence_furigana": "未完【みかん】のプロジェクト。",
+    "meaning": "An unfinished project."
+  },
+  {
+    "sentence": "未成年者の保護。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】の保護【ほご】。",
+    "meaning": "Protection of minors."
+  },
+  {
+    "sentence": "未遂の計画を実行に移す。",
+    "sentence_furigana": "未遂【みすい】の計画【けいかく】を実行【じっこう】に移【うつ】す。",
+    "meaning": "To put an attempted plan into action."
+  },
+  {
+    "sentence": "未来予測の難しさ。",
+    "sentence_furigana": "未来予測【みらいよそく】の難【むずか】しさ。",
+    "meaning": "The difficulty of predicting the future."
+  },
+  {
+    "sentence": "未熟な子供たち。",
+    "sentence_furigana": "未熟【みじゅく】な子供【こども】たち。",
+    "meaning": "Immature children."
+  },
+  {
+    "sentence": "未確認の情報に注意を促す。",
+    "sentence_furigana": "未確認【みかくにん】の情報【じょうほう】に注意【ちゅうい】を促【うな】がす。",
+    "meaning": "Urge caution regarding unconfirmed information."
+  },
+  {
+    "sentence": "未遂に終わった事件の背後。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった事件【じけん】の背後【はいご】。",
+    "meaning": "The background of the attempted incident."
+  },
+  {
+    "sentence": "未婚の若者が増えている。",
+    "sentence_furigana": "未婚【みこん】の若者【わかもの】が増【ふ】えている。",
+    "meaning": "The number of unmarried young people is increasing."
+  },
+  {
+    "sentence": "未払いとなっている料金を督促する。",
+    "sentence_furigana": "未払【みはら】いとなっている料金【りょうきん】を督促【とくそく】する。",
+    "meaning": "To urge payment of outstanding fees."
+  },
+  {
+    "sentence": "未だに残る古い習慣。",
+    "sentence_furigana": "未だ【いまだ】に残【のこ】る古【ふる】い習慣【しゅうかん】。",
+    "meaning": "Old customs that still remain."
+  },
+  {
+    "sentence": "未完の芸術作品。",
+    "sentence_furigana": "未完【みかん】の芸術作品【げいじゅつさくひん】。",
+    "meaning": "Unfinished works of art."
+  },
+  {
+    "sentence": "未成年者の保護者。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】の保護者【ほごしゃ】。",
+    "meaning": "Guardian of a minor."
+  },
+  {
+    "sentence": "未遂に終わった coup d'état の首謀者。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった coup d'état の首謀者【しゅぼうしゃ】。",
+    "meaning": "The ringleader of the attempted coup d'état."
+  },
+  {
+    "sentence": "未来への懸け橋となる。",
+    "sentence_furigana": "未来【みらい】への懸【か】け橋【はし】となる。",
+    "meaning": "To become a bridge to the future."
+  },
+  {
+    "sentence": "未熟な点を指摘する。",
+    "sentence_furigana": "未熟【みじゅく】な点【てん】を指摘【してき】する。",
+    "meaning": "To point out immature aspects."
+  },
+  {
+    "sentence": "未確認の信号を受信。",
+    "sentence_furigana": "未確認【みかくにん】の信号【しんごう】を受信【じゅしん】。",
+    "meaning": "Received an unconfirmed signal."
+  },
+  {
+    "sentence": "未遂に終わった強盗事件。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった強盗事件【ごうとうじけん】。",
+    "meaning": "An attempted robbery case."
+  },
+  {
+    "sentence": "未婚の理由。",
+    "sentence_furigana": "未婚【みこん】の理由【りゆう】。",
+    "meaning": "Reasons for being unmarried."
+  },
+  {
+    "sentence": "未払いとなっている保険料。",
+    "sentence_furigana": "未払【みはら】いとなっている保険料【ほけんりょう】。",
+    "meaning": "Outstanding insurance premiums."
+  },
+  {
+    "sentence": "未だ解決の見通しは立っていない。",
+    "sentence_furigana": "未だ【いまだ】解決【かいけつ】の見通【みとお】しは立【た】っていない。",
+    "meaning": "There is still no prospect of a solution."
+  },
+  {
+    "sentence": "未完の交響曲。",
+    "sentence_furigana": "未完【みかん】の交響曲【こうきょうきょく】。",
+    "meaning": "An unfinished symphony."
+  },
+  {
+    "sentence": "未成年者を食い物にする。",
+    "sentence_furigana": "未成年者【みせいねんしゃ】を食【く】い物【もの】にする。",
+    "meaning": "To exploit minors."
+  },
+  {
+    "sentence": "未遂に終わった選挙妨害。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった選挙妨害【せんきょぼうがい】。",
+    "meaning": "An attempted election obstruction."
+  },
+  {
+    "sentence": "未来への道を開く。",
+    "sentence_furigana": "未来【みらい】への道【みち】を開【ひら】く。",
+    "meaning": "To open the way to the future."
+  },
+  {
+    "sentence": "未熟な技術で挑戦する。",
+    "sentence_furigana": "未熟【みじゅく】な技術【ぎじゅつ】で挑戦【ちょうせん】する。",
+    "meaning": "To challenge with immature skills."
+  },
+  {
+    "sentence": "未確認の存在。",
+    "sentence_furigana": "未確認【みかくにん】の存在【そんざい】。",
+    "meaning": "An unconfirmed existence."
+  },
+  {
+    "sentence": "未遂に終わった恋の物語。",
+    "sentence_furigana": "未遂【みすい】に終【お】わった恋【こい】の物語【ものがたり】。",
+    "meaning": "A love story that ended in an attempt."
+  },
+  {
+    "sentence": "未婚率の高さが問題視されている。",
+    "sentence_furigana": "未婚率【みこんりつ】の高【たか】さが問題視【もんだいし】されている。",
+    "meaning": "The high unmarried rate is viewed as a problem."
+  },
+  {
+    "sentence": "未払いとなっている罰金。",
+    "sentence_furigana": "未払【みはら】いとなっている罰金【ばっきん】。",
+    "meaning": "Outstanding fines."
+  },
+  {
+    "sentence": "未だかつてない危機。",
+    "sentence_furigana": "未だ【いまだ】かつてない危機【きき】。",
+    "meaning": "An unprecedented crisis."
+  }
+]

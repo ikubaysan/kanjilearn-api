@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "水を一杯加えてください。",
+    "sentence_furigana": "水【みず】を一杯【いっぱい】加【くわ】えてください。",
+    "meaning": "Please add a glass of water."
+  },
+  {
+    "sentence": "この料理に塩を少し加えてください。",
+    "sentence_furigana": "この料理【りょうり】に塩【しお】を少【すこ】し加【くわ】えてください。",
+    "meaning": "Please add a little salt to this dish."
+  },
+  {
+    "sentence": "会議に新しいメンバーが加わりました。",
+    "sentence_furigana": "会議【かいぎ】に新【あたら】しいメンバーが加【くわ】わりました。",
+    "meaning": "A new member has joined the meeting."
+  },
+  {
+    "sentence": "彼の意見も加えて検討しましょう。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】も加【くわ】えて検討【けんとう】しましょう。",
+    "meaning": "Let's consider his opinion as well."
+  },
+  {
+    "sentence": "その価格に消費税が加算されます。",
+    "sentence_furigana": "その価格【かかく】に消費税【しょうひぜい】が加算【かさん】されます。",
+    "meaning": "Consumption tax will be added to that price."
+  },
+  {
+    "sentence": "人数が増加した。",
+    "sentence_furigana": "人数【にんずう】が増加【ぞうか】した。",
+    "meaning": "The number of people increased."
+  },
+  {
+    "sentence": "さらに情報を追加してください。",
+    "sentence_furigana": "さらに情報【じょうほう】を追加【ついか】してください。",
+    "meaning": "Please add more information."
+  },
+  {
+    "sentence": "このグループに私も加えてください。",
+    "sentence_furigana": "このグループに私【わたし】も加【くわ】えてください。",
+    "meaning": "Please include me in this group too."
+  },
+  {
+    "sentence": "彼の功績は大きいと加える必要がある。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は的大【おお】いと加【くわ】える必要【ひつよう】がある。",
+    "meaning": "It is necessary to add that his achievements are great."
+  },
+  {
+    "sentence": "日本の首都は東京です。",
+    "sentence_furigana": "日本【にほん】の首都【しゅと】は東京【とうきょう】です。",
+    "meaning": "The capital of Japan is Tokyo."
+  },
+  {
+    "sentence": "この件について、あなたも加えて議論したい。",
+    "sentence_furigana": "この件【けん】について、あなたも加【くわ】えて議論【ぎろん】したい。",
+    "meaning": "I want to include you in the discussion about this matter."
+  },
+  {
+    "sentence": "彼のリストに名前を加えた。",
+    "sentence_furigana": "彼【かれ】のリストに名前【なまえ】を加【くわ】えた。",
+    "meaning": "I added his name to the list."
+  },
+  {
+    "sentence": "この計画に新たな要素を加える。",
+    "sentence_furigana": "この計画【けいかく】に新【あら】たな要素【ようそ】を加【くわ】える。",
+    "meaning": "Add new elements to this plan."
+  },
+  {
+    "sentence": "予算が増加したため、プロジェクトを延期する。",
+    "sentence_furigana": "予算【よさん】が増加【ぞうか】したため、プロジェクトを延期【えんき】する。",
+    "meaning": "The project will be postponed due to an increase in the budget."
+  },
+  {
+    "sentence": "彼はチームに加わったばかりです。",
+    "sentence_furigana": "彼【かれ】はチームに加【くわ】わったばかりです。",
+    "meaning": "He has just joined the team."
+  },
+  {
+    "sentence": "この計算に、もう一つ数字を加えよう。",
+    "sentence_furigana": "この計算【けいさん】に、もう一つ数字【すうじ】を加【くわ】えよう。",
+    "meaning": "Let's add one more number to this calculation."
+  },
+  {
+    "sentence": "彼女の経験は我々のチームにとって貴重なものとなるでしょう。",
+    "sentence_furigana": "彼女【かのじょ】の経験【けいけん】は我々【われわれ】のチームにとって貴重【きちょう】なものとなるでしょう。",
+    "meaning": "Her experience will be valuable to our team."
+  },
+  {
+    "sentence": "新しい項目を追加する必要があります。",
+    "sentence_furigana": "新【あら】しい項目【こうもく】を追加【ついか】する必要【ひつよう】があります。",
+    "meaning": "It is necessary to add a new item."
+  },
+  {
+    "sentence": "その事件にさらに多くの要因が加わった。",
+    "sentence_furigana": "その事件【じけん】にさらに多【おお】くの要因【よういん】が加【くわ】わった。",
+    "meaning": "Many more factors were added to the incident."
+  },
+  {
+    "sentence": "体重を増加させるために、たくさん食べる必要がある。",
+    "sentence_furigana": "体重【たいじゅう】を増加【ぞうか】させるために、たくさん食【た】べる必要【ひつよう】がある。",
+    "meaning": "You need to eat a lot to increase your weight."
+  },
+  {
+    "sentence": "このリストにあなたの名前も加えてください。",
+    "sentence_furigana": "このリストにあなたも名前【なまえ】も加【くわ】えてください。",
+    "meaning": "Please add your name to this list as well."
+  },
+  {
+    "sentence": "議論に新しい視点を加える。",
+    "sentence_furigana": "議論【ぎろん】に新【あら】しい視点【してん】を加【くわ】える。",
+    "meaning": "Add a new perspective to the discussion."
+  },
+  {
+    "sentence": "彼女は私たちのグループに喜んで加わるだろう。",
+    "sentence_furigana": "彼女【かのじょ】は私達【わたしたち】のグループに喜【よろこ】んで加【くわ】わるだろう。",
+    "meaning": "She will gladly join our group."
+  },
+  {
+    "sentence": "生産量が増加した。",
+    "sentence_furigana": "生産量【せいさんりょう】が増加【ぞうか】した。",
+    "meaning": "Production volume increased."
+  },
+  {
+    "sentence": "この文章に誤りはありませんか？",
+    "sentence_furigana": "この文章【ぶんしょう】に誤【あやま】りはありませんか？",
+    "meaning": "Are there any errors in this text?"
+  },
+  {
+    "sentence": "さらにコメントを加える必要はない。",
+    "sentence_furigana": "さらにコメントを加【くわ】える必要【ひつよう】はない。",
+    "meaning": "There is no need to add further comments."
+  },
+  {
+    "sentence": "彼は新しい事業に資金を加えた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい事業【じぎょう】に資金【しきん】を加【くわ】えた。",
+    "meaning": "He added funds to the new business."
+  },
+  {
+    "sentence": "参加者が増えることを期待する。",
+    "sentence_furigana": "参加者【さんかしゃ】が増【ふ】えることを期待【きたい】する。",
+    "meaning": "We expect the number of participants to increase."
+  },
+  {
+    "sentence": "この辞書に新しい単語を追加した。",
+    "sentence_furigana": "この辞書【じしょ】に新【あら】しい単語【たんご】を追加【ついか】した。",
+    "meaning": "I added new words to this dictionary."
+  },
+  {
+    "sentence": "その地域は人口増加が見られる。",
+    "sentence_furigana": "その地域【ちいき】は人口増加【じんこうぞうか】が見【み】られる。",
+    "meaning": "The region is experiencing population growth."
+  },
+  {
+    "sentence": "もう一つ例を加えて説明します。",
+    "sentence_furigana": "もう一つ例【れい】を加【くわ】えて説明【せつめい】します。",
+    "meaning": "I will explain by adding one more example."
+  },
+  {
+    "sentence": "彼の提案は会議に新しい視点をもたらしました。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は会議【かいぎ】に新【あら】しい視点【してん】をもたらしました。",
+    "meaning": "His proposal brought a new perspective to the meeting."
+  },
+  {
+    "sentence": "子供が家族に加わるのは嬉しいことだ。",
+    "sentence_furigana": "子供【こども】が家族【かぞく】に加【くわ】わるのは嬉【うれ】しいことだ。",
+    "meaning": "It is a joy for a child to join a family."
+  },
+  {
+    "sentence": "このリストに追加されるべき項目がある。",
+    "sentence_furigana": "このリストに追加【ついか】されるべき項目【こうもく】がある。",
+    "meaning": "There are items that should be added to this list."
+  },
+  {
+    "sentence": "物価の上昇が懸念されている。",
+    "sentence_furigana": "物価【ぶっか】の上昇【じょうしょう】が懸念【けねん】されている。",
+    "meaning": "There are concerns about the rise in prices."
+  },
+  {
+    "sentence": "この文書に署名を追加してください。",
+    "sentence_furigana": "この文書【ぶんしょ】に署名【しょめい】を追加【ついか】してください。",
+    "meaning": "Please add your signature to this document."
+  },
+  {
+    "sentence": "彼の仕事ぶりは評価に値する。",
+    "sentence_furigana": "彼【かれ】の仕事振【しごとぶ】りは評価【ひょうか】に値【あたい】する。",
+    "meaning": "His work performance is worthy of evaluation."
+  },
+  {
+    "sentence": "このコースにさらに難易度を加えた。",
+    "sentence_furigana": "このコースにさらに難易度【なんいど】を加【くわ】えた。",
+    "meaning": "I added more difficulty to this course."
+  },
+  {
+    "sentence": "彼の貢献はチームに不可欠です。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】はチームに不可欠【ふかけつ】です。",
+    "meaning": "His contribution is indispensable to the team."
+  },
+  {
+    "sentence": "新しいレシピにスパイスを加えてみた。",
+    "sentence_furigana": "新【あら】しいレシピにスパイスを加【くわ】えてみた。",
+    "meaning": "I tried adding spices to the new recipe."
+  },
+  {
+    "sentence": "この会議には誰が加わりますか？",
+    "sentence_furigana": "この会議【かいぎ】には誰【だれ】が加【くわ】わりますか？",
+    "meaning": "Who will join this meeting?"
+  },
+  {
+    "sentence": "株価が上昇する兆しを見せている。",
+    "sentence_furigana": "株価【かぶか】が上昇【じょうしょう】する兆【きざ】しを見【み】せている。",
+    "meaning": "Stock prices are showing signs of rising."
+  },
+  {
+    "sentence": "この情報はさらに追加する必要があります。",
+    "sentence_furigana": "この情報【じょうほう】はさらに追加【ついか】する必要【ひつよう】があります。",
+    "meaning": "This information needs to be added further."
+  },
+  {
+    "sentence": "彼の意見も考慮に入れるべきだ。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】も考慮【こうりょ】に入【い】れるべきだ。",
+    "meaning": "His opinion should also be taken into consideration."
+  },
+  {
+    "sentence": "成績が向上した。",
+    "sentence_furigana": "成績【せいせき】が向上【こうじょう】した。",
+    "meaning": "Grades improved."
+  },
+  {
+    "sentence": "このレポートに詳細を追加してください。",
+    "sentence_furigana": "このレポートに詳細【しょうさい】を追加【ついか】してください。",
+    "meaning": "Please add details to this report."
+  },
+  {
+    "sentence": "彼の提案はリストにさらに項目を追加することだった。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】はリストにさらに項目【こうもく】を追加【ついか】することだった。",
+    "meaning": "His proposal was to add more items to the list."
+  },
+  {
+    "sentence": "この絵に彩りを加えてください。",
+    "sentence_furigana": "この絵【え】に彩【いろど】りを加【くわ】えてください。",
+    "meaning": "Please add color to this painting."
+  },
+  {
+    "sentence": "増加した人員を配置します。",
+    "sentence_furigana": "増加【ぞうか】した人員【じいん】を配置【はいち】します。",
+    "meaning": "We will deploy the increased personnel."
+  },
+  {
+    "sentence": "新しいフレーズをいくつか追加しました。",
+    "sentence_furigana": "新【あら】しいフレーズをいくつか追加【ついか】しました。",
+    "meaning": "I added some new phrases."
+  },
+  {
+    "sentence": "彼の功績は高く評価されるべきです。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は高【たか】く評価【ひょうか】されるべきです。",
+    "meaning": "His achievements should be highly praised."
+  },
+  {
+    "sentence": "さらに努力を加えて成功を目指します。",
+    "sentence_furigana": "さらに努力【どりょく】を加【くわ】えて成功【せいこう】を目指【めざ】します。",
+    "meaning": "We will aim for success by adding more effort."
+  },
+  {
+    "sentence": "この物語に悲劇的な要素を加えた。",
+    "sentence_furigana": "この物語【ものがたり】に悲劇的【ひげきてき】な要素【ようそ】を加【くわ】えた。",
+    "meaning": "I added a tragic element to this story."
+  },
+  {
+    "sentence": "彼はチームに欠かせない存在だ。",
+    "sentence_furigana": "彼【かれ】はチームに欠【か】かせない存在【そんざい】だ。",
+    "meaning": "He is an indispensable presence in the team."
+  },
+  {
+    "sentence": "新しい技術を取り入れて生産性を向上させる。",
+    "sentence_furigana": "新【あら】しい技術【ぎじゅつ】を取【と】り入【い】れて生産性【せいさんせい】を向上【こうじょう】させる。",
+    "meaning": "Improve productivity by incorporating new technologies."
+  },
+  {
+    "sentence": "この計画に、さらに資金を追加する必要があるかもしれません。",
+    "sentence_furigana": "この計画【けいかく】に、さらに資金【しきん】を追加【ついか】する必要【ひつよう】があるかもしれません。",
+    "meaning": "We may need to add more funds to this plan."
+  },
+  {
+    "sentence": "彼の意見を聞いて、さらに検討を進めた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を聞【き】いて、さらに検討【けんとう】を進【すす】めた。",
+    "meaning": "After hearing his opinion, I proceeded with further consideration."
+  },
+  {
+    "sentence": "増加した需要に対応するため、生産ラインを増強した。",
+    "sentence_furigana": "増加【ぞうか】した需要【じゅよう】に対応【たいおう】するため、生産ライン【せいさんライン】を増強【ぞうきょう】した。",
+    "meaning": "We strengthened the production line to meet the increased demand."
+  },
+  {
+    "sentence": "この料理には特別なスパイスを加えてください。",
+    "sentence_furigana": "この料理【りょうり】には特別【とくべつ】なスパイスを加【くわ】えてください。",
+    "meaning": "Please add a special spice to this dish."
+  },
+  {
+    "sentence": "新しいメンバーが加わり、チームはさらに活気づいた。",
+    "sentence_furigana": "新【あら】しいメンバーが加【くわ】わり、チームはさらに活気【かっき】づいた。",
+    "meaning": "With the addition of new members, the team became more lively."
+  },
+  {
+    "sentence": "このプロジェクトには、追加の予算が必要になるだろう。",
+    "sentence_furigana": "このプロジェクトには、追加【ついか】の予算【よさん】が必要【ひつよう】になるだろう。",
+    "meaning": "This project will likely require an additional budget."
+  },
+  {
+    "sentence": "彼の作品には、常に革新的な要素が加えられている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】には、常【つね】に革新的【かくしんてき】な要素【ようそ】が加【くわ】えられている。",
+    "meaning": "Innovative elements are always added to his works."
+  },
+  {
+    "sentence": "温度を加えると、物質が膨張する。",
+    "sentence_furigana": "温度【おんど】を加【くわ】えると、物質【ぶっしつ】が膨張【ぼうちょう】する。",
+    "meaning": "When heat is applied, the substance expands."
+  },
+  {
+    "sentence": "この計画に彼も加えることにした。",
+    "sentence_furigana": "この計画【けいかく】に彼【かれ】も加【くわ】えることにした。",
+    "meaning": "We decided to include him in this plan."
+  },
+  {
+    "sentence": "会議の参加者がさらに増加した。",
+    "sentence_furigana": "会議【かいぎ】の参加者【さんかしゃ】がさらに増加【ぞうか】した。",
+    "meaning": "The number of participants in the meeting further increased."
+  },
+  {
+    "sentence": "この件に関して、追加情報を提供します。",
+    "sentence_furigana": "この件【けん】に関【かん】して、追加情報【ついかじょうほう】を提供【ていきょう】します。",
+    "meaning": "I will provide additional information regarding this matter."
+  },
+  {
+    "sentence": "彼の意見を加えて、さらに議論を深める。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を加【くわ】えて、さらに議論【ぎろん】を深【ふか】める。",
+    "meaning": "Add his opinion to deepen the discussion further."
+  },
+  {
+    "sentence": "この商品には新しい機能が追加されました。",
+    "sentence_furigana": "この商品【しょうひん】には新【あら】しい機能【きのう】が追加【ついか】されました。",
+    "meaning": "New features have been added to this product."
+  },
+  {
+    "sentence": "彼は多くの経験を加えて、ビジネスを成功させた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を加【くわ】えて、ビジネスを成功【せいこう】させた。",
+    "meaning": "He added a lot of experience and made the business successful."
+  },
+  {
+    "sentence": "増加した顧客数に対応するために、人員を増やす予定です。",
+    "sentence_furigana": "増加【ぞうか】した顧客数【こきゃくすう】に対応【たいおう】するため、人員【じいん】を増【ふ】やす予定【よてい】です。",
+    "meaning": "We plan to increase staff to handle the increased number of customers."
+  },
+  {
+    "sentence": "この物語には、少しユーモアを加えても良いだろう。",
+    "sentence_furigana": "この物語【ものがたり】には、少【すこ】しユーモアを加【くわ】えても良【よ】いだろう。",
+    "meaning": "It might be good to add a little humor to this story."
+  },
+  {
+    "sentence": "彼の功績をたたえるため、記念碑が建立された。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】をたたえるため、記念碑【きねんひ】が建立【こんりゅう】された。",
+    "meaning": "A monument was erected to commemorate his achievements."
+  },
+  {
+    "sentence": "このプロジェクトに、あなたの専門知識を加えてください。",
+    "sentence_furigana": "このプロジェクトに、あなたの人専門知識【せんもんちしき】を加えてください。",
+    "meaning": "Please add your expertise to this project."
+  },
+  {
+    "sentence": "物価の上昇は、家計を圧迫している。",
+    "sentence_furigana": "物価【ぶっか】の上昇【じょうしょう】は、家計【かけい】を圧迫【あっぱく】している。",
+    "meaning": "Rising prices are squeezing household budgets."
+  },
+  {
+    "sentence": "このレシピに、さらに甘みを加える。",
+    "sentence_furigana": "このレシピに、さらに甘【あま】みを加【くわ】える。",
+    "meaning": "Add more sweetness to this recipe."
+  },
+  {
+    "sentence": "増加傾向は今後も続くだろう。",
+    "sentence_furigana": "増加傾向【ぞうかけいこう】は今後【こんご】も続【つづ】くだろう。",
+    "meaning": "The increasing trend will likely continue."
+  },
+  {
+    "sentence": "この文章を読みやすくするために、簡単な言葉を加えてください。",
+    "sentence_furigana": "この文章【ぶんしょう】を読【よ】みやすくするために、簡単【かんたん】な言葉【ことば】を加えてください。",
+    "meaning": "Please add simple words to make this text easier to read."
+  },
+  {
+    "sentence": "彼の参加により、議論はさらに活発になった。",
+    "sentence_furigana": "彼【かれ】の参加【さんか】により、議論【ぎろん】はさらに活発【かっぱつ】になった。",
+    "meaning": "His participation made the discussion more lively."
+  },
+  {
+    "sentence": "新しいキャンペーンを追加しました。",
+    "sentence_furigana": "新【あら】しいキャンペーンを追加【ついか】しました。",
+    "meaning": "We have added a new campaign."
+  },
+  {
+    "sentence": "この調査には、さらに多くのデータを加える必要がある。",
+    "sentence_furigana": "この調査【ちょうさ】には、さらに多【おお】くのデータ を加【くわ】える必要【ひつよう】がある。",
+    "meaning": "More data needs to be added to this survey."
+  },
+  {
+    "sentence": "彼の貢献はチームの士気を高めた。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】はチームの士気【しき】を高【たか】めた。",
+    "meaning": "His contribution boosted the team's morale."
+  },
+  {
+    "sentence": "このイベントに、参加者をさらに募ります。",
+    "sentence_furigana": "このイベントに、参加者【さんかしゃ】をさらに募【つの】ります。",
+    "meaning": "We will recruit more participants for this event."
+  },
+  {
+    "sentence": "彼の助言は、この状況に新たな光を加えた。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は、この状況【じょうきょう】に新【あら】たな光【ひかり】を加【くわ】えた。",
+    "meaning": "His advice shed new light on this situation."
+  },
+  {
+    "sentence": "増加した顧客からの問い合わせに対応するため、人員を補充する。",
+    "sentence_furigana": "増加【ぞうか】した顧客【こきゃく】からの問合【といあ】わせに対応【たいおう】するため、人員【じいん】を補充【ほじゅう】する。",
+    "meaning": "We will supplement staff to handle inquiries from increased customers."
+  },
+  {
+    "sentence": "この物語には、さらに深い意味が込められている。",
+    "sentence_furigana": "この物語【ものがたり】には、さらに深【ふか】い意味【いみ】が込【こ】められている。",
+    "meaning": "A deeper meaning is embedded in this story."
+  },
+  {
+    "sentence": "彼の才能は、このチームに大きな価値を加えるだろう。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は、このチームに大【おお】きな価値【かち】を加【くわ】えるだろう。",
+    "meaning": "His talent will add great value to this team."
+  },
+  {
+    "sentence": "この書類に、あなたの署名と日付を加えてください。",
+    "sentence_furigana": "この書類【しょるい】に、あなた の署名【しょめい】と日付【ひづけ】を加えてください。",
+    "meaning": "Please add your signature and date to this document."
+  },
+  {
+    "sentence": "増加した売上は、当社の収益性を改善した。",
+    "sentence_furigana": "増加【ぞうか】した売上【うりあ】げは、当社【とうしゃ】の収益性【しゅうえきせい】を改善【かいぜん】した。",
+    "meaning": "Increased sales improved our company's profitability."
+  },
+  {
+    "sentence": "新しい章を追加して、物語を完成させます。",
+    "sentence_furigana": "新【あら】しい章【しょう】を追加【ついか】して、物語【ものがたり】を完成【かんせい】させます。",
+    "meaning": "I will complete the story by adding a new chapter."
+  },
+  {
+    "sentence": "彼の努力は、チームの勝利に大きく貢献した。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は、チームの勝利【しょうり】に大【おお】きく貢献【こうけん】した。",
+    "meaning": "His efforts greatly contributed to the team's victory."
+  },
+  {
+    "sentence": "このプロセスに、さらに改善を加える余地がある。",
+    "sentence_furigana": "このプロセスに、さらに改善【かいぜん】を加【くわ】える余地【よち】がある。",
+    "meaning": "There is room for further improvement in this process."
+  },
+  {
+    "sentence": "増加した交通量に対応するため、道路の拡幅が行われた。",
+    "sentence_furigana": "増加【ぞうか】した交通量【こうつうりょう】に対応【たいおう】するため、道路【どうろ】の拡幅【かくふく】が行【おこな】われた。",
+    "meaning": "Road widening was carried out to cope with the increased traffic volume."
+  },
+  {
+    "sentence": "このレシピに、さらに香りを加えるためにハーブを入れる。",
+    "sentence_furigana": "このレシピに、さらに香【かお】りを加【くわ】えるためにハーブを入【い】れる。",
+    "meaning": "Add herbs to this recipe to add more aroma."
+  },
+  {
+    "sentence": "彼の経験は、この分野における私たちの知識に加わる。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は、この分野【ぶんや】における我々【われわれ】の知識【ちしき】に加【くわ】わる。",
+    "meaning": "His experience adds to our knowledge in this field."
+  },
+  {
+    "sentence": "この新しいシステムには、多くの機能が追加される予定です。",
+    "sentence_furigana": "この新【あら】しいシステムには、多【おお】くの機能【きのう】が追加【ついか】される予定【よてい】です。",
+    "meaning": "Many features are scheduled to be added to this new system."
+  },
+  {
+    "sentence": "彼の提案は、プロジェクトに新たな価値をもたらすでしょう。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は、プロジェクトに新【あら】たな価値【かち】をもたらすでしょう。",
+    "meaning": "His proposal will bring new value to the project."
+  },
+  {
+    "sentence": "増加した需要に応えるため、生産能力を拡大する。",
+    "sentence_furigana": "増加【ぞうか】した需要【じゅよう】に応【おう】えるため、生産能力【せいさんのうりょく】を拡大【かくだい】する。",
+    "meaning": "We will expand production capacity to meet increased demand."
+  },
+  {
+    "sentence": "この料理に、さらに辛味を加えます。",
+    "sentence_furigana": "この料理【りょうり】に、さらに辛味【からみ】を加【くわ】えます。",
+    "meaning": "I will add more spiciness to this dish."
+  },
+  {
+    "sentence": "彼の貢献は、チームの成功に不可欠でした。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は、チームの成功【せいこう】に不可欠【ふかけつ】でした。",
+    "meaning": "His contribution was indispensable to the team's success."
+  },
+  {
+    "sentence": "この件に関して、追加の調査が必要である。",
+    "sentence_furigana": "この件【けん】に関【かん】して、追加【ついか】の調査【ちょうさ】が必要【ひつよう】である。",
+    "meaning": "Further investigation is necessary regarding this matter."
+  },
+  {
+    "sentence": "彼の計画は、多くの問題を加えてしまった。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は、多【おお】くの問題【もんだい】を加【くわ】えてしまった。",
+    "meaning": "His plan added many problems."
+  },
+  {
+    "sentence": "この公園は、地域の人口増加に対応するために拡張された。",
+    "sentence_furigana": "この公園【こうえん】は、地域【ちいき】の人口増加【じんこうぞうか】に対応【たいおう】するために拡張【かくちょう】された。",
+    "meaning": "This park was expanded to accommodate the region's population growth."
+  },
+  {
+    "sentence": "彼の新しいアイデアは、会議に大きな刺激を加えた。",
+    "sentence_furigana": "彼【かれ】の新【あら】たなアイデアは、会議【かいぎ】に大【おお】きな刺激【しげき】を加【くわ】えた。",
+    "meaning": "His new idea added great stimulation to the meeting."
+  },
+  {
+    "sentence": "この研修には、実践的な演習を追加します。",
+    "sentence_furigana": "この研修【けんしゅう】には、実践的【じっせんてき】な演習【えんしゅう】を追加【ついか】します。",
+    "meaning": "Practical exercises will be added to this training."
+  },
+  {
+    "sentence": "増加した顧客からのフィードバックを分析しました。",
+    "sentence_furigana": "増加【ぞうか】した顧客【こきゃく】からのフィードバックを分析【ぶんせき】しました。",
+    "meaning": "We analyzed feedback from increased customers."
+  },
+  {
+    "sentence": "彼の経験を加えて、さらに説得力を持たせる。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】を加【くわ】えて、さらに説得力【せっとくりょく】を持【も】たせる。",
+    "meaning": "Add his experience to make it more convincing."
+  }
+]

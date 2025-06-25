@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "彼は美しい風景を描いた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい風景【ふうけい】を描【か】いた。",
+    "meaning": "He drew a beautiful landscape."
+  },
+  {
+    "sentence": "彼女は彼の将来を鮮やかに描いた。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】の将来【しょうらい】を鮮【あざ】やかに描【か】いた。",
+    "meaning": "She vividly depicted his future."
+  },
+  {
+    "sentence": "この絵は細部まで丁寧に描かれている。",
+    "sentence_furigana": "この絵【え】は細部【さいぶ】まで丁寧【ていねい】に描【か】かれている。",
+    "meaning": "This painting is meticulously drawn down to the details."
+  },
+  {
+    "sentence": "作家は登場人物の心情を巧みに描いた。",
+    "sentence_furigana": "作家【さっか】は登場人物【とうじょうじんぶつ】の心情【しんじょう】を巧【たくみ】に描【か】いた。",
+    "meaning": "The author skillfully depicted the characters' emotions."
+  },
+  {
+    "sentence": "子供たちが未来の夢を描いている。",
+    "sentence_furigana": "子供【こども】たちが行【い】く未来【みらい】の夢【ゆめ】を描【か】いている。",
+    "meaning": "The children are painting their dreams for the future."
+  },
+  {
+    "sentence": "彼は事件の状況を詳しく描いた。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の状況【じょうきょう】を詳【くわ】しく描【か】いた。",
+    "meaning": "He described the situation of the incident in detail."
+  },
+  {
+    "sentence": "この漫画は青春の輝きを描いている。",
+    "sentence_furigana": "この漫画【まんが】は青春【せいしゅん】の輝【かがや】きを描【か】いている。",
+    "meaning": "This manga depicts the brilliance of youth."
+  },
+  {
+    "sentence": "彼女は情熱的な愛の物語を描きたい。",
+    "sentence_furigana": "彼女【かのじょ】は情熱的【じょうねつてき】な愛【あい】の物語【ものがたり】を描【か】きたい。",
+    "meaning": "She wants to write a passionate love story."
+  },
+  {
+    "sentence": "この小説は人間の弱さをリアルに描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は人間【にんげん】の弱【よわ】さをリアルに描【か】いている。",
+    "meaning": "This novel realistically portrays human vulnerability."
+  },
+  {
+    "sentence": "歴史的な出来事を絵画で描く。",
+    "sentence_furigana": "歴史的【れきしてき】な出来事【できごと】を絵画【かいが】で描【か】く。",
+    "meaning": "To depict historical events through painting."
+  },
+  {
+    "sentence": "彼は心の中のイメージを描き出した。",
+    "sentence_furigana": "彼【かれ】は心【こころ】の中【なか】のイメージを描【か】き出【だ】した。",
+    "meaning": "He drew out the image in his mind."
+  },
+  {
+    "sentence": "この映画は家族の絆を描いている。",
+    "sentence_furigana": "この映画【えいが】は家族【かぞく】の絆【きずな】を描【か】いている。",
+    "meaning": "This movie depicts the bonds of family."
+  },
+  {
+    "sentence": "彼女は理想の都市を想像して描いた。",
+    "sentence_furigana": "彼女【かのじょ】は理想【りそう】の都市【とし】を想像【そうぞう】して描【か】いた。",
+    "meaning": "She imagined and drew an ideal city."
+  },
+  {
+    "sentence": "詩人は自然の美しさを言葉で描いた。",
+    "sentence_furigana": "詩人【しじん】は自然【しぜん】の美【うつく】しさを言葉【ことば】で描【か】いた。",
+    "meaning": "The poet described the beauty of nature with words."
+  },
+  {
+    "sentence": "彼は幼い頃の思い出を描いた絵を展示した。",
+    "sentence_furigana": "彼【かれ】は幼【おさな】い頃【ころ】の思【おも】い出【で】を描【か】いた絵【え】を展示【てんじ】した。",
+    "meaning": "He exhibited a painting depicting memories from his childhood."
+  },
+  {
+    "sentence": "この作品は社会問題を鮮明に描いている。",
+    "sentence_furigana": "この作品【さくひん】は社会問題【しゃかいもんだい】を鮮明【せんめい】に描【か】いている。",
+    "meaning": "This work vividly depicts social issues."
+  },
+  {
+    "sentence": "彼は友人の肖像画を描いた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の肖像画【しょうぞうが】を描【か】いた。",
+    "meaning": "He drew a portrait of his friend."
+  },
+  {
+    "sentence": "その物語は冒険と友情を描いている。",
+    "sentence_furigana": "その物語【ものがたり】は冒険【ぼうけん】と友情【ゆうじょう】を描【か】いている。",
+    "meaning": "The story depicts adventure and friendship."
+  },
+  {
+    "sentence": "彼女は抽象的なイメージを描いた。",
+    "sentence_furigana": "彼女【かのじょ】は抽象的【ちゅうしょうてき】なイメージを描【か】いた。",
+    "meaning": "She drew an abstract image."
+  },
+  {
+    "sentence": "この絵は感情を巧みに表現している。",
+    "sentence_furigana": "この絵【え】は感情【かんじょう】を巧【たくみ】に表現【ひょうげん】している。",
+    "meaning": "This painting skillfully expresses emotions."
+  },
+  {
+    "sentence": "彼は未来都市の計画を描いた。",
+    "sentence_furigana": "彼【かれ】は未来都市【みらいとし】の計画【けいかく】を描【か】いた。",
+    "meaning": "He drew a plan for a futuristic city."
+  },
+  {
+    "sentence": "この写真集は日常の風景を描写している。",
+    "sentence_furigana": "この写真集【しゃしんしゅう】は日常【にちじょう】の風景【ふうけい】を描写【びょうしゃ】している。",
+    "meaning": "This photo album depicts everyday scenery."
+  },
+  {
+    "sentence": "彼女は静かな田園風景を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かな田園風景【でんえんふうけい】を描【か】いた。",
+    "meaning": "She drew a quiet rural landscape."
+  },
+  {
+    "sentence": "この童話は子供たちの想像力を刺激するように描かれている。",
+    "sentence_furigana": "この童話【どうわ】は子供【こども】たちの想像力【そうぞうりょく】を刺激【しげき】するように描【か】かれている。",
+    "meaning": "This fairy tale is depicted to stimulate children's imagination."
+  },
+  {
+    "sentence": "彼は物語のクライマックスを描写した。",
+    "sentence_furigana": "彼【かれ】は物語【ものがたり】のクライマックスを描写【びょうしゃ】した。",
+    "meaning": "He described the climax of the story."
+  },
+  {
+    "sentence": "この映画は社会の暗部を描き出している。",
+    "sentence_furigana": "この映画【えいが】は社会【しゃかい】の暗部【あんぶ】を描【か】き出【だ】している。",
+    "meaning": "This film brings out the dark side of society."
+  },
+  {
+    "sentence": "彼女はバラの花束を描いた。",
+    "sentence_furigana": "彼女【かのじょ】はバラの花束【はなたば】を描【か】いた。",
+    "meaning": "She drew a bouquet of roses."
+  },
+  {
+    "sentence": "彼は理想のパートナー像を描いた。",
+    "sentence_furigana": "彼【かれ】は理想【りそう】のパートナー像【ぞう】を描【か】いた。",
+    "meaning": "He drew a picture of his ideal partner."
+  },
+  {
+    "sentence": "この絵は見る者に感動を与えるように描かれている。",
+    "sentence_furigana": "この絵【え】は見る者【みるもの】に感動【かんどう】を与【あた】えるように描【か】かれている。",
+    "meaning": "This painting is rendered to move the viewer."
+  },
+  {
+    "sentence": "彼は細密なスケッチを描いた。",
+    "sentence_furigana": "彼【かれ】は細密【さいみつ】なスケッチを描【か】いた。",
+    "meaning": "He made a detailed sketch."
+  },
+  {
+    "sentence": "この小説は人間の心理を深く描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は人間【にんげん】の心理【しんり】を深【ふか】く描【か】いている。",
+    "meaning": "This novel deeply portrays human psychology."
+  },
+  {
+    "sentence": "彼女は家族の温かい団欒を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の温【あたた】かい団欒【だんらん】を描【か】いた。",
+    "meaning": "She depicted a warm family gathering."
+  },
+  {
+    "sentence": "彼は古い町並みを油絵で描いた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い町並【まちなら】みを油絵【あぶらえ】で描【か】いた。",
+    "meaning": "He painted an old townscape with oil paints."
+  },
+  {
+    "sentence": "この絵は希望の光を描いている。",
+    "sentence_furigana": "この絵【え】は希望【きぼう】の光【ひかり】を描【か】いている。",
+    "meaning": "This painting depicts a ray of hope."
+  },
+  {
+    "sentence": "彼女は想像上の生き物を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は想像上【そうぞうじょう】の生【い】き物【もの】を描【か】いた。",
+    "meaning": "She drew an imaginary creature."
+  },
+  {
+    "sentence": "彼は壮大な叙事詩を描いた。",
+    "sentence_furigana": "彼【かれ】は壮大【そうだい】な叙事詩【じょじし】を描【か】いた。",
+    "meaning": "He composed a grand epic poem."
+  },
+  {
+    "sentence": "この映画は友情の美しさを描いている。",
+    "sentence_furigana": "この映画【えいが】は友情【ゆうじょう】の美【うつく】しさを描【か】いている。",
+    "meaning": "This movie depicts the beauty of friendship."
+  },
+  {
+    "sentence": "彼女は鮮やかな色彩で花を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は鮮【あざ】やかな色彩【しきさい】で花【はな】を描【か】いた。",
+    "meaning": "She painted flowers with vivid colors."
+  },
+  {
+    "sentence": "彼は過去の出来事を回想録に描いた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】を回想録【かいそうろく】に描【か】いた。",
+    "meaning": "He depicted past events in his memoirs."
+  },
+  {
+    "sentence": "この物語は読者の心を強く打つように描かれている。",
+    "sentence_furigana": "この物語【ものがたり】は読者【どくしゃ】の心【こころ】を強【つよ】く打【う】つように描【か】かれている。",
+    "meaning": "This story is written to deeply resonate with the reader."
+  },
+  {
+    "sentence": "彼女は夢の中の風景を描き留めた。",
+    "sentence_furigana": "彼女【かのじょ】は夢【ゆめ】の中【なか】の風景【ふうけい】を描【か】き留【と】めた。",
+    "meaning": "She captured the scenery from her dream in a drawing."
+  },
+  {
+    "sentence": "彼は都会の喧騒を描写した。",
+    "sentence_furigana": "彼【かれ】は都会【とかい】の喧騒【けんそう】を描写【びょうしゃ】した。",
+    "meaning": "He described the bustle of the city."
+  },
+  {
+    "sentence": "この絵は静寂な夜を描いている。",
+    "sentence_furigana": "この絵【え】は静寂【せいじゃく】な夜【よる】を描【か】いている。",
+    "meaning": "This painting depicts a tranquil night."
+  },
+  {
+    "sentence": "彼女は感情を込めて詩を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は感情【かんじょう】を込【こ】めて詩【し】を描【か】いた。",
+    "meaning": "She composed a poem with deep emotion."
+  },
+  {
+    "sentence": "彼は未来への希望を描いた。",
+    "sentence_furigana": "彼【かれ】は未来【みらい】への希望【きぼう】を描【か】いた。",
+    "meaning": "He painted a picture of hope for the future."
+  },
+  {
+    "sentence": "この物語は登場人物の成長を描く。",
+    "sentence_furigana": "この物語【ものがたり】は登場人物【とうじょうじんぶつ】の成長【せいちょう】を描【か】く。",
+    "meaning": "This story depicts the growth of the characters."
+  },
+  {
+    "sentence": "彼女は繊細なタッチで人物を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】なタッチで人物【じんぶつ】を描【か】いた。",
+    "meaning": "She drew the figure with a delicate touch."
+  },
+  {
+    "sentence": "彼は想像力豊かな世界を描いた。",
+    "sentence_furigana": "彼【かれ】は想像力豊【そうぞうりょくとよ】かな世界【せかい】を描【か】いた。",
+    "meaning": "He depicted a world rich in imagination."
+  },
+  {
+    "sentence": "この絵は生命の躍動を描き出している。",
+    "sentence_furigana": "この絵【え】は生命【せいめい】の躍動【やくどう】を描【か】き出【だ】している。",
+    "meaning": "This painting expresses the vitality of life."
+  },
+  {
+    "sentence": "彼女は愛する人の姿をスケッチした。",
+    "sentence_furigana": "彼女【かのじょ】は愛【あい】する人【ひと】の姿【すがた】をスケッチした。",
+    "meaning": "She sketched the figure of the person she loves."
+  },
+  {
+    "sentence": "彼は現代社会の矛盾を描いた。",
+    "sentence_furigana": "彼【かれ】は現代社会【げんだいしゃかい】の矛盾【むじゅん】を描【か】いた。",
+    "meaning": "He depicted the contradictions of modern society."
+  },
+  {
+    "sentence": "この物語は人間の心の葛藤を描いている。",
+    "sentence_furigana": "この物語【ものがたり】は人間【にんげん】の心【こころ】の葛藤【かっとう】を描【か】いている。",
+    "meaning": "This story depicts the inner conflict of humans."
+  },
+  {
+    "sentence": "彼女は希望に満ちた未来を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は希望【きぼう】に満【み】ちた未来【みらい】を描【か】いた。",
+    "meaning": "She painted a hopeful future."
+  },
+  {
+    "sentence": "彼は幼い日の思い出を詩で描いた。",
+    "sentence_furigana": "彼【かれ】は幼【おさな】い日【ひ】の思【おも】い出【で】を詩【し】で描【か】いた。",
+    "meaning": "He expressed childhood memories in a poem."
+  },
+  {
+    "sentence": "この映画は家族の温かさを描いている。",
+    "sentence_furigana": "この映画【えいが】は家族【かぞく】の温【あたた】かさを描【か】いている。",
+    "meaning": "This movie depicts the warmth of family."
+  },
+  {
+    "sentence": "彼女は想像上の風景を水彩画で描いた。",
+    "sentence_furigana": "彼女【かのじょ】は想像上【そうぞうじょう】の風景【ふうけい】を水彩画【すいさいが】で描【か】いた。",
+    "meaning": "She painted an imaginary landscape with watercolors."
+  },
+  {
+    "sentence": "彼は歴史小説の中で人物の心理を描いた。",
+    "sentence_furigana": "彼【かれ】は歴史小説【れきししょうせつ】の中【なか】で人物【じんぶつ】の心理【しんり】を描【か】いた。",
+    "meaning": "He depicted the characters' psychology in a historical novel."
+  },
+  {
+    "sentence": "この絵は自然の神秘を描いている。",
+    "sentence_furigana": "この絵【え】は自然【しぜん】の神秘【しんぴ】を描【か】いている。",
+    "meaning": "This painting depicts the mystery of nature."
+  },
+  {
+    "sentence": "彼女は都会の孤独な人生を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は都会【とかい】の孤独【こどく】な人生【じんせい】を描【か】いた。",
+    "meaning": "She depicted the lonely life in the city."
+  },
+  {
+    "sentence": "彼は情熱的な絵を描くのが得意だ。",
+    "sentence_furigana": "彼【かれ】は情熱的【じょうねつてき】な絵【え】を描【か】くのが得意【とくい】だ。",
+    "meaning": "He is good at drawing passionate pictures."
+  },
+  {
+    "sentence": "この物語は友情の大切さを描いている。",
+    "sentence_furigana": "この物語【ものがたり】は友情【ゆうじょう】の大切【たいせつ】さを描【か】いている。",
+    "meaning": "This story depicts the importance of friendship."
+  },
+  {
+    "sentence": "彼女は繊細な感情を描写した。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な感情【かんじょう】を描写【びょうしゃ】した。",
+    "meaning": "She described delicate emotions."
+  },
+  {
+    "sentence": "彼は子供時代の無邪気さを描いた。",
+    "sentence_furigana": "彼【かれ】は子供時代【こどもじだい】の無邪気【むじゃき】さを描【か】いた。",
+    "meaning": "He depicted the innocence of childhood."
+  },
+  {
+    "sentence": "この絵は太陽の暖かさを表現している。",
+    "sentence_furigana": "この絵【え】は太陽【たいよう】の暖【あたた】かさを表現【ひょうげん】している。",
+    "meaning": "This painting expresses the warmth of the sun."
+  },
+  {
+    "sentence": "彼女は心象風景を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は心象風景【しんしょうふうけい】を描【か】いた。",
+    "meaning": "She drew a mental landscape."
+  },
+  {
+    "sentence": "彼は古い神話の世界を描写した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い神話【しんわ】の世界【せかい】を描写【びょうしゃ】した。",
+    "meaning": "He described the world of ancient mythology."
+  },
+  {
+    "sentence": "この物語は人間の弱さと強さを描いている。",
+    "sentence_furigana": "この物語【ものがたり】は人間【にんげん】の弱【よわ】さと強【つよ】さを描【か】いている。",
+    "meaning": "This story depicts human weakness and strength."
+  },
+  {
+    "sentence": "彼女はバラの花びらを一枚一枚丁寧に描いた。",
+    "sentence_furigana": "彼女【かのじょ】はバラの花弁【はなびら】を一枚一枚【いちまいいちまい】丁寧【ていねい】に描【か】いた。",
+    "meaning": "She carefully drew each rose petal."
+  },
+  {
+    "sentence": "彼は壮大な宇宙のイメージを描いた。",
+    "sentence_furigana": "彼【かれ】は壮大【そうだい】な宇宙【うちゅう】のイメージを描【か】いた。",
+    "meaning": "He painted a grand image of the universe."
+  },
+  {
+    "sentence": "この絵は喜びを表現するように描かれている。",
+    "sentence_furigana": "この絵【え】は喜【よろこ】びを表現【ひょうげん】するように描【か】かれている。",
+    "meaning": "This painting is rendered to express joy."
+  },
+  {
+    "sentence": "彼女は夢と現実の狭間を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は夢【ゆめ】と現実【げんじつ】の狭間【はざま】を描【か】いた。",
+    "meaning": "She depicted the space between dreams and reality."
+  },
+  {
+    "sentence": "彼は家族の幸せな様子を描いた。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】の幸【しあわ】せな様子【ようす】を描【か】いた。",
+    "meaning": "He painted a picture of his family's happiness."
+  },
+  {
+    "sentence": "この小説は社会の矛盾を鋭く描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は社会【しゃかい】の矛盾【むじゅん】を鋭【するど】く描【か】いている。",
+    "meaning": "This novel sharply depicts the contradictions of society."
+  },
+  {
+    "sentence": "彼女は希望に満ちた未来像を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は希望【きぼう】に満【み】ちた未来像【みらいぞう】を描【か】いた。",
+    "meaning": "She drew a vision of a hopeful future."
+  },
+  {
+    "sentence": "彼は過去の出来事を詳細に描写した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】を詳細【しょうさい】に描写【びょうしゃ】した。",
+    "meaning": "He described past events in detail."
+  },
+  {
+    "sentence": "この絵は生命の神秘を描いている。",
+    "sentence_furigana": "この絵【え】は生命【せいめい】の神秘【しんぴ】を描【か】いている。",
+    "meaning": "This painting depicts the mystery of life."
+  },
+  {
+    "sentence": "彼女は静かな海辺の風景を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は静【しず】かな海辺【うみべ】の風景【ふうけい】を描【か】いた。",
+    "meaning": "She painted a quiet seaside landscape."
+  },
+  {
+    "sentence": "彼は子供たちの笑顔を描いた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】たちの笑顔【えがお】を描【か】いた。",
+    "meaning": "He drew the smiles of children."
+  },
+  {
+    "sentence": "この物語は人間の感情の機微を描いている。",
+    "sentence_furigana": "この物語【ものがたり】は人間【にんげん】の感情【かんじょう】の機微【きび】を描【か】いている。",
+    "meaning": "This story depicts the subtle nuances of human emotions."
+  },
+  {
+    "sentence": "彼女は力強い筆致で絵を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は力強【ちからづよ】い筆致【ひっち】で絵【え】を描【か】いた。",
+    "meaning": "She painted with bold brushstrokes."
+  },
+  {
+    "sentence": "彼は友情の尊さを言葉で描いた。",
+    "sentence_furigana": "彼【かれ】は友情【ゆうじょう】の尊【たっと】さを言葉【ことば】で描【か】いた。",
+    "meaning": "He expressed the value of friendship in words."
+  },
+  {
+    "sentence": "この映画は現代社会の歪みを描いている。",
+    "sentence_furigana": "この映画【えいが】は現代社会【げんだいしゃかい】の歪【ゆが】みを描【か】いている。",
+    "meaning": "This movie depicts the distortions of modern society."
+  },
+  {
+    "sentence": "彼女は希望の光を描いた作品を制作した。",
+    "sentence_furigana": "彼女【かのじょ】は希望【きぼう】の光【ひかり】を描【か】いた作品【さくひん】を制作【せいさく】した。",
+    "meaning": "She created a work depicting a ray of hope."
+  },
+  {
+    "sentence": "彼は自然の雄大さを油絵で描いた。",
+    "sentence_furigana": "彼【かれ】は自然【しぜん】の雄大【ゆうだい】さを油絵【あぶらえ】で描【か】いた。",
+    "meaning": "He painted the grandeur of nature with oil paints."
+  },
+  {
+    "sentence": "この絵は静けさと平和を描いている。",
+    "sentence_furigana": "この絵【え】は静【しず】けさと平和【へいわ】を描【か】いている。",
+    "meaning": "This painting depicts stillness and peace."
+  },
+  {
+    "sentence": "彼女は子供たちの無邪気な遊びを描いた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちの無邪気【むじゃき】な遊【あそ】びを描【か】いた。",
+    "meaning": "She depicted the innocent play of children."
+  },
+  {
+    "sentence": "彼は未来への希望を描いた小説を書いた。",
+    "sentence_furigana": "彼【かれ】は未来【みらい】への希望【きぼう】を描【か】いた小説【しょうせつ】を書【か】いた。",
+    "meaning": "He wrote a novel depicting hope for the future."
+  },
+  {
+    "sentence": "この物語は人間の心の闇を描いている。",
+    "sentence_furigana": "この物語【ものがたり】は人間【にんげん】の心【こころ】の闇【やみ】を描【か】いている。",
+    "meaning": "This story depicts the darkness of the human heart."
+  },
+  {
+    "sentence": "彼女は愛と喪失の物語を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は愛【あい】と喪失【そうしつ】の物語【ものがたり】を描【か】いた。",
+    "meaning": "She depicted a story of love and loss."
+  },
+  {
+    "sentence": "彼は過去の栄光を描いた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】を描【か】いた。",
+    "meaning": "He depicted past glories."
+  },
+  {
+    "sentence": "この絵は生命の力強さを描いている。",
+    "sentence_furigana": "この絵【え】は生命【せいめい】の力強【ちからづよ】さを描【か】いている。",
+    "meaning": "This painting depicts the power of life."
+  },
+  {
+    "sentence": "彼女は喜びを鮮やかに描いた。",
+    "sentence_furigana": "彼女【かのじょ】は喜【よろこ】びを鮮【あざ】やかに描【か】いた。",
+    "meaning": "She vividly depicted joy."
+  },
+  {
+    "sentence": "彼は故郷の風景を水彩画で描いた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の風景【ふうけい】を水彩画【すいさいが】で描【か】いた。",
+    "meaning": "He painted his hometown scenery with watercolors."
+  },
+  {
+    "sentence": "この物語は人間の生き様を描いている。",
+    "sentence_furigana": "この物語【ものがたり】は人間【にんげん】の生【い】き様【ざま】を描【か】いている。",
+    "meaning": "This story depicts the way people live their lives."
+  }
+]

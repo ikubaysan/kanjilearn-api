@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "その森には珍しい獣が生息している。",
+    "sentence_furigana": "その森【もり】には珍【めず】しい獣【けもの】が生息【せいそく】している。",
+    "meaning": "Rare animals inhabit that forest."
+  },
+  {
+    "sentence": "獣の遠吠えが夜の静寂を破った。",
+    "sentence_furigana": "獣【けもの】の遠吠【とおぼ】えが夜【よる】の静寂【せいじゃく】を破【やぶ】った。",
+    "meaning": "The beast's howl broke the silence of the night."
+  },
+  {
+    "sentence": "彼は獣のような力強さを持っていた。",
+    "sentence_furigana": "彼【かれ】は獣【けもの】のような力強【ちからづよ】さを持【も】っていた。",
+    "meaning": "He possessed a beast-like strength."
+  },
+  {
+    "sentence": "密猟者は希少な獣を捕まえようとした。",
+    "sentence_furigana": "密猟者【みつりょうしゃ】は希少【きしょう】な獣【けもの】を捕【つか】まえようとした。",
+    "meaning": "The poacher tried to catch the rare animal."
+  },
+  {
+    "sentence": "子供たちは動物園で様々な獣を見た。",
+    "sentence_furigana": "子供【こども】たちは動物園【どうぶつえん】で様々【さまざま】な獣【けもの】を見【み】た。",
+    "meaning": "The children saw various animals at the zoo."
+  },
+  {
+    "sentence": "その獣は人を恐れず近づいてきた。",
+    "sentence_furigana": "その獣【けもの】は人【ひと】を恐【おそ】れず近【ちか】づいてきた。",
+    "meaning": "The animal approached without fear of humans."
+  },
+  {
+    "sentence": "この地域には猛獣が出没するという報告がある。",
+    "sentence_furigana": "この地域【ちいき】には猛獣【もうじゅう】が出没【しゅつぼつ】するという報告【ほうこく】がある。",
+    "meaning": "There are reports of dangerous beasts appearing in this area."
+  },
+  {
+    "sentence": "彼女は獣医師として働くことを夢見ていた。",
+    "sentence_furigana": "彼女【かのじょ】は獣医師【じゅういし】として働【はたら】くことを夢見【ゆめみ】ていた。",
+    "meaning": "She dreamed of working as a veterinarian."
+  },
+  {
+    "sentence": "原始時代には、多くの巨大な獣が生きていた。",
+    "sentence_furigana": "原始時代【げんしじだい】には、多【おお】くの巨大【きょだい】な獣【けもの】が生【い】きていた。",
+    "meaning": "In prehistoric times, many giant beasts lived."
+  },
+  {
+    "sentence": "その獣は鋭い爪を持っていた。",
+    "sentence_furigana": "その獣【けもの】は鋭【するど】い爪【つめ】を持【も】っていた。",
+    "meaning": "The beast had sharp claws."
+  },
+  {
+    "sentence": "絵本の中の獣たちは皆、親切だった。",
+    "sentence_furigana": "絵本【えほん】の中【なか】の獣【けもの】たちは皆【みな】、親切【しんせつ】だった。",
+    "meaning": "All the animals in the picture book were kind."
+  },
+  {
+    "sentence": "彼は野生の獣を飼いならすことができる。",
+    "sentence_furigana": "彼【かれ】は野生【やせい】の獣【けもの】を飼【かい】ならすことができる。",
+    "meaning": "He can tame wild animals."
+  },
+  {
+    "sentence": "獣の皮で作られた服は暖かかった。",
+    "sentence_furigana": "獣【けもの】の皮【かわ】で作【つく】られた服【ふく】は暖【あたた】かかった。",
+    "meaning": "The clothes made from animal hide were warm."
+  },
+  {
+    "sentence": "この山にはまだ見ぬ獣がいるかもしれない。",
+    "sentence_furigana": "この山【やま】にはまだ見【み】ぬ獣【けもの】がいるかもしれない。",
+    "meaning": "There might be undiscovered animals in this mountain."
+  },
+  {
+    "sentence": "獣医学部は多くの学生に人気がある。",
+    "sentence_furigana": "獣医学部【じゅういがくぶ】は多【おお】くの学生【がくせい】に人気【にんき】がある。",
+    "meaning": "The veterinary medicine department is popular with many students."
+  },
+  {
+    "sentence": "獣は本能に従って行動する。",
+    "sentence_furigana": "獣【けもの】は本能【ほんのう】に従【したが】って行動【こうどう】する。",
+    "meaning": "Animals act according to their instincts."
+  },
+  {
+    "sentence": "その地域の生態系は多くの種類の獣を支えている。",
+    "sentence_furigana": "その地域【ちいき】の生態系【せいたいけい】は多【おお】くの種類【しゅるい】の獣【けもの】を支【ささ】えている。",
+    "meaning": "The ecosystem of the region supports many types of animals."
+  },
+  {
+    "sentence": "獣医は傷ついた鳥を治療した。",
+    "sentence_furigana": "獣医【じゅうい】は傷【きず】ついた鳥【とり】を治療【ちりょう】した。",
+    "meaning": "The veterinarian treated the injured bird."
+  },
+  {
+    "sentence": "伝説には人語を話す獣が登場することがある。",
+    "sentence_furigana": "伝説【でんせつ】には人語【じんご】を話【はな】す獣【けもの】が登場【とうじょう】することがある。",
+    "meaning": "Legends sometimes feature animals that speak human language."
+  },
+  {
+    "sentence": "彼は猛獣使いとして有名だった。",
+    "sentence_furigana": "彼【かれ】は猛獣使【もうじゅうつか】いとして有名【ゆうめい】だった。",
+    "meaning": "He was famous as a beast tamer."
+  },
+  {
+    "sentence": "その獣は静かに獲物を待っていた。",
+    "sentence_furigana": "その獣【けもの】は静【しず】かに獲物【えもの】を待【ま】っていた。",
+    "meaning": "The animal was quietly waiting for its prey."
+  },
+  {
+    "sentence": "野生動物保護区では様々な獣が保護されている。",
+    "sentence_furigana": "野生動物保護区【やせいどうぶつほごく】では様々【さまざま】な獣【けもの】が保護【ほご】されている。",
+    "meaning": "Various animals are protected in the wildlife sanctuary."
+  },
+  {
+    "sentence": "獣医師になるには長い勉強が必要だ。",
+    "sentence_furigana": "獣医師【じゅういし】になるには長【なが】い勉強【べんきょう】が必要【ひつよう】だ。",
+    "meaning": "Becoming a veterinarian requires long study."
+  },
+  {
+    "sentence": "見たこともないような獣が現れた。",
+    "sentence_furigana": "見【み】たこともないような獣【けもの】が現【あらわ】れた。",
+    "meaning": "An animal I had never seen before appeared."
+  },
+  {
+    "sentence": "この地域の獣相は非常に豊かだ。",
+    "sentence_furigana": "この地域【ちいき】の獣相【じゅうそう】は非常【ひじょう】に豊【ゆた】かだ。",
+    "meaning": "The fauna of this region is very rich."
+  },
+  {
+    "sentence": "獣が人里に下りてくる事件が増加している。",
+    "sentence_furigana": "獣【けもの】が人里【ひとざと】に下【お】りてくる事件【じけん】が増加【ぞうか】している。",
+    "meaning": "Incidents of animals coming down to populated areas are increasing."
+  },
+  {
+    "sentence": "その獣は鋭い牙を持っていた。",
+    "sentence_furigana": "その獣【けもの】は鋭【するど】い牙【きば】を持【も】っていた。",
+    "meaning": "The beast had sharp fangs."
+  },
+  {
+    "sentence": "捕獲された獣は安全な場所に移動された。",
+    "sentence_furigana": "捕獲【ほかく】された獣【けもの】は安全【あんぜん】な場所【ばしょ】に移動【いどう】された。",
+    "meaning": "The captured animal was moved to a safe location."
+  },
+  {
+    "sentence": "彼はまるで獣のように怒鳴った。",
+    "sentence_furigana": "彼【かれ】はまるで獣【けもの】のように怒鳴【どな】った。",
+    "meaning": "He shouted like a beast."
+  },
+  {
+    "sentence": "獣の毛皮は高品質なコートを作るために使われる。",
+    "sentence_furigana": "獣【けもの】の毛皮【けがわ】は高品質【こうひんしつ】なコートを作【つく】るために使【つか】われる。",
+    "meaning": "Animal fur is used to make high-quality coats."
+  },
+  {
+    "sentence": "この保護区は絶滅危惧種の獣を守るためのものだ。",
+    "sentence_furigana": "この保護区【ほごく】は絶滅危惧種【ぜつめつきぐしゅ】の獣【けもの】を守【まも】るためのものだ。",
+    "meaning": "This sanctuary is for protecting endangered animals."
+  },
+  {
+    "sentence": "子供は獣のように走り回っていた。",
+    "sentence_furigana": "子供【こども】は獣【けもの】のように走【はし】り回【まわ】っていた。",
+    "meaning": "The child was running around like a wild animal."
+  },
+  {
+    "sentence": "その獣は毒を持っていた。",
+    "sentence_furigana": "その獣【けもの】は毒【どく】を持【も】っていた。",
+    "meaning": "The animal possessed venom."
+  },
+  {
+    "sentence": "彼は獣医大学で教鞭をとっている。",
+    "sentence_furigana": "彼【かれ】は獣医大学【じゅういだいがく】で教鞭【きょうべん】をとっている。",
+    "meaning": "He lectures at the veterinary university."
+  },
+  {
+    "sentence": "この絵は力強い獣を描いている。",
+    "sentence_furigana": "この絵【え】は力強【ちからづよ】い獣【けもの】を描【か】いている。",
+    "meaning": "This painting depicts a powerful animal."
+  },
+  {
+    "sentence": "人獣共通感染症に注意が必要です。",
+    "sentence_furigana": "人獣共通感染症【じんじゅうきょうつうかんせんしょう】に注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Caution is needed for zoonotic diseases."
+  },
+  {
+    "sentence": "彼は獲物を前にした獣の目つきをしていた。",
+    "sentence_furigana": "彼【かれ】は獲物【えもの】の前【まえ】にしたいぬの目付【めつ】きをしていた。",
+    "meaning": "He had the eyes of a beast before its prey."
+  },
+  {
+    "sentence": "私たちは獣医の指示に従った。",
+    "sentence_furigana": "私【わたし】たち は獣医【じゅうい】の指示【しじ】に従【したが】った。",
+    "meaning": "We followed the veterinarian's instructions."
+  },
+  {
+    "sentence": "その獣は鋭い嗅覚を持っていた。",
+    "sentence_furigana": "その獣【けもの】は鋭【するど】い嗅覚【きゅうかく】を持【も】っていた。",
+    "meaning": "The animal had a keen sense of smell."
+  },
+  {
+    "sentence": "密猟は多くの獣を絶滅の危機に追いやっている。",
+    "sentence_furigana": "密猟【みつりょう】は多【おお】くの獣【けもの】を絶滅【ぜつめつ】の危機【きき】に追【お】いやっている。",
+    "meaning": "Poaching is driving many animals to the brink of extinction."
+  },
+  {
+    "sentence": "彼女は獣の鳴き声を聞いた。",
+    "sentence_furigana": "彼女【かのじょ】は獣【けもの】の鳴【な】き声【ごえ】を聞【き】いた。",
+    "meaning": "She heard the cry of an animal."
+  },
+  {
+    "sentence": "この洞窟には珍しい種類の獣の骨が見つかっている。",
+    "sentence_furigana": "この洞窟【どうくつ】には珍【めずら】しい種類【しゅるい】の獣【けもの】の骨【ほね】が見【み】つかっている。",
+    "meaning": "Bones of rare types of animals have been found in this cave."
+  },
+  {
+    "sentence": "獣医師は動物の健康を守るために尽力している。",
+    "sentence_furigana": "獣医師【じゅういし】は動物【どうぶつ】の健康【けんこう】を守【まも】るために尽力【じんりょく】している。",
+    "meaning": "Veterinarians strive to protect the health of animals."
+  },
+  {
+    "sentence": "獣は森の奥深くに姿を消した。",
+    "sentence_furigana": "獣【けもの】は森【もり】の奥深【おくぶか】くに姿【すがた】を消【け】した。",
+    "meaning": "The animal disappeared deep in the forest."
+  },
+  {
+    "sentence": "その獣は驚くほどの速さで走った。",
+    "sentence_furigana": "その獣【けもの】は驚【おどろ】くほどの速【はや】さで走【はし】った。",
+    "meaning": "The animal ran with surprising speed."
+  },
+  {
+    "sentence": "この絵画には多くの伝説上の獣が描かれている。",
+    "sentence_furigana": "この絵画【かいが】には多【おお】くの伝説上【でんせつじょう】の獣【けもの】が描【か】かれている。",
+    "meaning": "Many mythical creatures are depicted in this painting."
+  },
+  {
+    "sentence": "彼は獣のような野性味あふれる姿だった。",
+    "sentence_furigana": "彼【かれ】は獣【けもの】のような野性味【やせいみ】あふれる姿【すがた】だった。",
+    "meaning": "He had a wild appearance like a beast."
+  },
+  {
+    "sentence": "獣医は動物の病気を診断した。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の病気【びょうき】を診断【しんだん】した。",
+    "meaning": "The veterinarian diagnosed the animal's illness."
+  },
+  {
+    "sentence": "その獣は長い毛を持っていた。",
+    "sentence_furigana": "その獣【けもの】は長【なが】い毛【け】を持【も】っていた。",
+    "meaning": "The animal had long fur."
+  },
+  {
+    "sentence": "この小説は人間と獣の関係を描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は人間【にんげん】と獣【けもの】の関係【かんけい】を描【えが】いている。",
+    "meaning": "This novel depicts the relationship between humans and animals."
+  },
+  {
+    "sentence": "獣の咆哮が峡谷に響き渡った。",
+    "sentence_furigana": "獣【けもの】の咆哮【ほうこう】が峡谷【きょうこく】に響【ひび】き渡【わた】った。",
+    "meaning": "The roar of the beast echoed through the canyon."
+  },
+  {
+    "sentence": "彼は獣医の資格を取得した。",
+    "sentence_furigana": "彼【かれ】は獣医【じゅうい】の資格【しかく】を取得【しゅとく】した。",
+    "meaning": "He obtained his veterinary qualification."
+  },
+  {
+    "sentence": "その獣は好奇心旺盛だった。",
+    "sentence_furigana": "その獣【けもの】は好奇心旺盛【こうきしんおうせい】だった。",
+    "meaning": "The animal was very curious."
+  },
+  {
+    "sentence": "この地域では珍獣の目撃情報が相次いでいる。",
+    "sentence_furigana": "この地域【ちいき】では珍獣【ちんじゅう】の目撃情報【もくげきじょうほう】が相次【あいつ】いでいる。",
+    "meaning": "Sightings of rare animals are frequent in this area."
+  },
+  {
+    "sentence": "獣の群れが平原を横切っていった。",
+    "sentence_furigana": "獣【けもの】の群【む】れが平原【へいげん】を横切【よこぎ】っていった。",
+    "meaning": "A herd of animals crossed the plains."
+  },
+  {
+    "sentence": "彼は獣医として多くの動物を救ってきた。",
+    "sentence_furigana": "彼【かれ】は獣医【じゅうい】として多【おお】くの動物【どうぶつ】を救【すく】ってきた。",
+    "meaning": "He has saved many animals as a veterinarian."
+  },
+  {
+    "sentence": "その獣は非常に獰猛だった。",
+    "sentence_furigana": "その獣【けもの】は非常【ひじょう】に獰猛【どうもう】だった。",
+    "meaning": "The animal was very ferocious."
+  },
+  {
+    "sentence": "この本は世界の様々な獣について解説している。",
+    "sentence_furigana": "この本【ほん】は世界【せかい】の様々【さまざま】な獣【けもの】について解説【かいせつ】している。",
+    "meaning": "This book explains about various animals of the world."
+  },
+  {
+    "sentence": "獣の足跡が雪の上に残されていた。",
+    "sentence_furigana": "獣【けもの】の足跡【あしあと】が雪【ゆき】の上【うえ】に残【のこ】されていた。",
+    "meaning": "Animal tracks were left on the snow."
+  },
+  {
+    "sentence": "彼は獣医になるための厳しい訓練を受けた。",
+    "sentence_furigana": "彼【かれ】は獣医【じゅうい】になるための厳【きび】しい訓練【くんれん】を受【う】けた。",
+    "meaning": "He underwent rigorous training to become a veterinarian."
+  },
+  {
+    "sentence": "その獣は静かに草を食んでいた。",
+    "sentence_furigana": "その獣【けもの】は静【しず】かに草【くさ】を食【は】んでいた。",
+    "meaning": "The animal was quietly grazing."
+  },
+  {
+    "sentence": "この地域の獣相は過去数十年で大きく変化した。",
+    "sentence_furigana": "この地域【ちいき】の獣相【じゅうそう】は過去数十年【かこすうじゅうねん】で大【おお】きく変化【へんか】した。",
+    "meaning": "The fauna of this region has changed significantly in the past few decades."
+  },
+  {
+    "sentence": "獣は夜間に活動的になる。",
+    "sentence_furigana": "獣【けもの】は夜間【やかん】に活動的【かつどうてき】になる。",
+    "meaning": "Animals become active at night."
+  },
+  {
+    "sentence": "その獣は非常に賢かった。",
+    "sentence_furigana": "その獣【けもの】は非常【ひじょう】に賢【かしこ】かった。",
+    "meaning": "The animal was very intelligent."
+  },
+  {
+    "sentence": "獣医は動物の出産を手伝った。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の出産【しゅっさん】を手伝【てつだ】った。",
+    "meaning": "The veterinarian assisted with the animal's birth."
+  },
+  {
+    "sentence": "この物語には人間のように話す獣が登場する。",
+    "sentence_furigana": "この物語【ものがたり】には人間【にんげん】のように話【はな】す獣【けもの】が登場【とうじょう】する。",
+    "meaning": "This story features animals that talk like humans."
+  },
+  {
+    "sentence": "獣は危険を察知すると逃げ出した。",
+    "sentence_furigana": "獣【けもの】は危険【きけん】を察知【さっち】すると逃【に】げ出【だ】した。",
+    "meaning": "The animal fled when it sensed danger."
+  },
+  {
+    "sentence": "彼は獣医学校を卒業したばかりだ。",
+    "sentence_furigana": "彼【かれ】は獣医学校【じゅういがっこう】を卒業【そつぎょう】したばかりだ。",
+    "meaning": "He just graduated from veterinary school."
+  },
+  {
+    "sentence": "その獣は非常に臆病だった。",
+    "sentence_furigana": "その獣【けもの】は非常【ひじょう】に臆病【おくびょう】だった。",
+    "meaning": "The animal was very timid."
+  },
+  {
+    "sentence": "この地域にはかつて多くの大型獣が生息していた。",
+    "sentence_furigana": "この地域【ちいき】にはかつて多【おお】くの大型獣【おおがたじゅう】が生息【せいそく】していた。",
+    "meaning": "Many large animals used to inhabit this region."
+  },
+  {
+    "sentence": "獣は自分のテリトリーを守るために戦う。",
+    "sentence_furigana": "獣【けもの】は自分【じぶん】のテリトリーを守【まも】るために戦【たたか】う。",
+    "meaning": "Animals fight to protect their territory."
+  },
+  {
+    "sentence": "その獣は鋭い聴覚を持っていた。",
+    "sentence_furigana": "その獣【けもの】は鋭【するど】い聴覚【ちょうかく】を持【も】っていた。",
+    "meaning": "The animal had acute hearing."
+  },
+  {
+    "sentence": "彼は獣医助手として働き始めた。",
+    "sentence_furigana": "彼【かれ】は獣医助手【じゅういじょしゅ】として働【はたら】き始【はじ】めた。",
+    "meaning": "He started working as a veterinary assistant."
+  },
+  {
+    "sentence": "この展示では絶滅した獣の化石を見ることができる。",
+    "sentence_furigana": "この展示【てんじ】では絶滅【ぜつめつ】した獣【けもの】の化石【かせき】を見【み】ることができる。",
+    "meaning": "You can see fossils of extinct animals in this exhibition."
+  },
+  {
+    "sentence": "獣の子供は母親によく懐いていた。",
+    "sentence_furigana": "獣【けもの】の子供【こども】は母親【ははおや】によく懐【なつ】いていた。",
+    "meaning": "The animal's young was very attached to its mother."
+  },
+  {
+    "sentence": "その獣は静かに寝息を立てていた。",
+    "sentence_furigana": "その獣【けもの】は静【しず】かに寝息【ねいき】を立【た】てていた。",
+    "meaning": "The animal was breathing softly in its sleep."
+  },
+  {
+    "sentence": "彼は獣医科大学の学生です。",
+    "sentence_furigana": "彼【かれ】は獣医科大学【じゅういかだいがく】の学生【がくせい】です。",
+    "meaning": "He is a student at the veterinary college."
+  },
+  {
+    "sentence": "この地域の獣相は開発によって脅かされている。",
+    "sentence_furigana": "この地域【ちいき】の獣相【じゅうそう】は開発【かいはつ】によって脅【おびや】かされている。",
+    "meaning": "The fauna of this region is threatened by development."
+  },
+  {
+    "sentence": "獣は自分の餌を探していた。",
+    "sentence_furigana": "獣【けもの】は自分【じぶん】の餌【えさ】を探【さが】していた。",
+    "meaning": "The animal was looking for its food."
+  },
+  {
+    "sentence": "その獣は驚くほど毛深かった。",
+    "sentence_furigana": "その獣【けもの】は驚【おどろ】くほど毛深【けぶか】かった。",
+    "meaning": "The animal was surprisingly furry."
+  },
+  {
+    "sentence": "獣医は動物の予防接種を行った。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の予防接種【よぼうせっしゅ】を行【おこな】った。",
+    "meaning": "The veterinarian administered vaccinations to the animals."
+  },
+  {
+    "sentence": "この神話では、獣が人間の姿に変身する。",
+    "sentence_furigana": "この神話【しんわ】では、獣【けもの】が人間【にんげん】の姿【すがた】に変身【へんしん】する。",
+    "meaning": "In this myth, animals transform into human form."
+  },
+  {
+    "sentence": "獣は喉の渇きを癒すために水を飲んだ。",
+    "sentence_furigana": "獣【けもの】は喉【のど】の渇【かわ】きを癒【いや】すために水【みず】を飲【の】んだ。",
+    "meaning": "The animal drank water to quench its thirst."
+  },
+  {
+    "sentence": "彼は獣医学の分野で有名です。",
+    "sentence_furigana": "彼【かれ】は獣医学【じゅういがく】の分野【ぶんや】で有名【ゆうめい】です。",
+    "meaning": "He is famous in the field of veterinary medicine."
+  },
+  {
+    "sentence": "その獣は非常に用心深かった。",
+    "sentence_furigana": "その獣【けもの】は非常【ひじょう】に用心深【ようじんぶか】かった。",
+    "meaning": "The animal was very cautious."
+  },
+  {
+    "sentence": "この国立公園には多くの獣が生息している。",
+    "sentence_furigana": "この国立公園【こくりつこうえん】には多【おお】くの獣【けもの】が生息【せいそく】している。",
+    "meaning": "Many animals inhabit this national park."
+  },
+  {
+    "sentence": "獣は子を守るために勇敢に戦った。",
+    "sentence_furigana": "獣【けもの】は子【こ】を守【まも】るために勇敢【ゆうかん】に戦【たたか】った。",
+    "meaning": "The animal fought bravely to protect its young."
+  },
+  {
+    "sentence": "その獣は非常に優しかった。",
+    "sentence_furigana": "その獣【けもの】は非常【ひじょう】に優【やさ】しかった。",
+    "meaning": "The animal was very gentle."
+  },
+  {
+    "sentence": "獣医は動物の健康診断を行った。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の健康診断【けんこうしんだん】を行【おこな】った。",
+    "meaning": "The veterinarian performed a health check-up on the animal."
+  },
+  {
+    "sentence": "この書物には珍しい獣の挿絵が多く含まれている。",
+    "sentence_furigana": "この書物【しょもつ】には珍【めずら】しい獣【けもの】の挿絵【さしえ】が多く【おお】く含【ふく】まれている。",
+    "meaning": "This book contains many illustrations of rare animals."
+  },
+  {
+    "sentence": "獣は長い旅の後に休息を取った。",
+    "sentence_furigana": "獣【けもの】は長【なが】い旅【たび】の後【あと】に休息【きゅうそく】を取【と】った。",
+    "meaning": "The animal rested after a long journey."
+  },
+  {
+    "sentence": "その獣は驚くほど賢い選択をした。",
+    "sentence_furigana": "その獣【けもの】は驚【おどろ】くほど賢【かしこ】い選択【せんたく】をした。",
+    "meaning": "The animal made a surprisingly wise choice."
+  },
+  {
+    "sentence": "獣医は動物の麻酔手術を行った。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の麻酔手術【ますいしゅじゅつ】を行【おこな】った。",
+    "meaning": "The veterinarian performed anesthesia surgery on the animal."
+  },
+  {
+    "sentence": "この山の奥にはまだ多くの未確認の獣がいる。",
+    "sentence_furigana": "この山【やま】の奥深【おくぶか】くにはまだ多【おお】くの未確認【みかくにん】の獣【けもの】がいる。",
+    "meaning": "There are still many unidentified animals deep in this mountain."
+  },
+  {
+    "sentence": "獣は新しい環境にすぐに適応した。",
+    "sentence_furigana": "獣【けもの】は新【あたら】しい環境【かんきょう】にすぐに適応【てきおう】した。",
+    "meaning": "The animal quickly adapted to the new environment."
+  },
+  {
+    "sentence": "その獣は驚くほど大胆だった。",
+    "sentence_furigana": "その獣【けもの】は驚【おどろ】くほど大胆【だいたん】だった。",
+    "meaning": "The animal was surprisingly bold."
+  },
+  {
+    "sentence": "獣医は動物の栄養管理についてアドバイスした。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の栄養管理【えいようかんり】についてアドバイスした。",
+    "meaning": "The veterinarian advised on the animal's nutrition management."
+  },
+  {
+    "sentence": "この地域では様々な種類の獣が発見されている。",
+    "sentence_furigana": "この地域【ちいき】では様々【さまざま】な種類【しゅるい】の獣【けもの】が発見【はっけん】されている。",
+    "meaning": "Various types of animals are discovered in this region."
+  },
+  {
+    "sentence": "獣は敵から逃れるために素早く動いた。",
+    "sentence_furigana": "獣【けもの】は敵【てき】から逃【のが】れるために素早【すばや】く動【うご】いた。",
+    "meaning": "The animal moved quickly to escape from its enemy."
+  },
+  {
+    "sentence": "その獣は非常に穏やかだった。",
+    "sentence_furigana": "その獣【けもの】は非常【ひじょう】に穏和【おだわ】かだった。",
+    "meaning": "The animal was very calm."
+  },
+  {
+    "sentence": "獣医は動物の歯の治療を行った。",
+    "sentence_furigana": "獣医【じゅうい】は動物【どうぶつ】の歯【は】の治療【ちりょう】を行【おこな】った。",
+    "meaning": "The veterinarian performed dental treatment on the animal."
+  },
+  {
+    "sentence": "この図書館には獣に関する本がたくさんある。",
+    "sentence_furigana": "この図書館【としょかん】には獣【けもの】に関【かん】する本【ほん】がたくさんある。",
+    "meaning": "There are many books about animals in this library."
+  },
+  {
+    "sentence": "獣は自分の仲間を探しに行った。",
+    "sentence_furigana": "獣【けもの】は自分【じぶん】の仲間【なかま】を探【さが】しに行【い】った。",
+    "meaning": "The animal went to look for its companions."
+  },
+  {
+    "sentence": "その獣は驚くほど強い生命力を持っていた。",
+    "sentence_furigana": "その獣【けもの】は驚【おどろ】くほど強【つよ】い生命力【せいめいりょく】を持【も】っていた。",
+    "meaning": "The animal possessed surprising vitality."
+  }
+]

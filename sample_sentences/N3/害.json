@@ -1,0 +1,457 @@
+[
+  {
+    "sentence": "この薬は体に害を与える可能性がある。",
+    "sentence_furigana": "この薬【くすり】は体【からだ】に害【がい】を与【あた】える可能性【かのうせい】がある。",
+    "meaning": "This medicine may cause harm to the body."
+  },
+  {
+    "sentence": "環境汚染は生態系に深刻な害をもたらす。",
+    "sentence_furigana": "環境汚染【かんきょうおせん】は生態系【せいたいけい】に深刻【しんこく】な害【がい】をもたらす。",
+    "meaning": "Environmental pollution brings serious harm to the ecosystem."
+  },
+  {
+    "sentence": "彼は事故で重傷を負い、体に後遺症が残った。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】で重傷【じゅうしょう】を負【お】い、体【からだ】に後遺症【こういしょう】が残【のこ】った。",
+    "meaning": "He suffered severe injuries in the accident, leaving him with after-effects."
+  },
+  {
+    "sentence": "そのウイルスは人々の健康に害を及ぼす。",
+    "sentence_furigana": "そのウイルスは人々【ひとびと】の健康【けんこう】に害【がい】を及【およ】ぼす。",
+    "meaning": "That virus causes harm to people's health."
+  },
+  {
+    "sentence": "無責任な行動は社会に害悪をもたらす。",
+    "sentence_furigana": "無責任【むせきにん】な行動【こうどう】は社会【しゃかい】に害悪【がいあく】をもたらす。",
+    "meaning": "Irresponsible actions bring harm to society."
+  },
+  {
+    "sentence": "虫害から作物を守る必要がある。",
+    "sentence_furigana": "虫害【ちゅうがい】から作物【さくもつ】を守【まも】る必要【ひつよう】がある。",
+    "meaning": "It is necessary to protect crops from insect damage."
+  },
+  {
+    "sentence": "その事件は多くの人々に精神的な害を与えた。",
+    "sentence_furigana": "その事件【じけん】は多【おお】くの人々【ひとびと】に精神的【せいしんてき】な害【がい】を与【あた】えた。",
+    "meaning": "The incident caused psychological harm to many people."
+  },
+  {
+    "sentence": "公衆衛生を害する行為は許されない。",
+    "sentence_furigana": "公衆衛生【こうしゅうえいせい】を害【がい】する行為【こうい】は許【ゆる】されない。",
+    "meaning": "Acts that harm public health are not permitted."
+  },
+  {
+    "sentence": "彼の発言は会社の評判に害を与えた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は会社【かいしゃ】の評判【ひょうばん】に害【がい】を与【あた】えた。",
+    "meaning": "His statement harmed the company's reputation."
+  },
+  {
+    "sentence": "過度の運動は健康を害する可能性がある。",
+    "sentence_furigana": "過度【かど】の運動【うんどう】は健康【けんこう】を害【がい】する可能性【かのうせい】がある。",
+    "meaning": "Excessive exercise can harm health."
+  },
+  {
+    "sentence": "化学物質が土壌に害を与えている。",
+    "sentence_furigana": "化学物質【かがくぶっしつ】が土壌【どじょう】に害【がい】を与【あた】えている。",
+    "meaning": "Chemical substances are harming the soil."
+  },
+  {
+    "sentence": "自然災害は経済に大きな害をもたらす。",
+    "sentence_furigana": "自然災害【しぜんさいがい】は経済【けいざい】に大【おお】きな害【がい】をもたらす。",
+    "meaning": "Natural disasters bring great harm to the economy."
+  },
+  {
+    "sentence": "彼の無知は多くの人に害を与えた。",
+    "sentence_furigana": "彼【かれ】の無知【むち】は多【おお】くの人に害【がい】を与【あた】えた。",
+    "meaning": "His ignorance harmed many people."
+  },
+  {
+    "sentence": "騒音公害は住民の生活を害する。",
+    "sentence_furigana": "騒音公害【そうおんこうがい】は住民【じゅうみん】の生活【せいかつ】を害【がい】する。",
+    "meaning": "Noise pollution harms the lives of residents."
+  },
+  {
+    "sentence": "この植物は外来種であり、在来種に害を与える。",
+    "sentence_furigana": "この植物【しょくぶつ】は外来種【がいらいしゅ】であり、在来種【ざいらいしゅ】に害【がい】を与【あた】える。",
+    "meaning": "This plant is an alien species and harms native species."
+  },
+  {
+    "sentence": "不注意な運転は自分自身と他人を害する。",
+    "sentence_furigana": "不注意【ふちゅうい】な運転【うんてん】は自分自身【じぶんじしん】と他人【たにん】を害【がい】する。",
+    "meaning": "Careless driving harms oneself and others."
+  },
+  {
+    "sentence": "彼はうつ病で苦しみ、社会生活に害を被った。",
+    "sentence_furigana": "彼【かれ】はうつ病【びょう】で苦【くる】しみ、社会生活【しゃかいせいかつ】に害【がい】を被【こうむ】った。",
+    "meaning": "He suffered from depression and was harmed in his social life."
+  },
+  {
+    "sentence": "この法律は消費者の権利を害する可能性がある。",
+    "sentence_furigana": "この法律【ほうりつ】は消費者【しょうひしゃ】の権利【けんり】を害【がい】する可能性【かのうせい】がある。",
+    "meaning": "This law may harm consumer rights."
+  },
+  {
+    "sentence": "煙草の吸いすぎは体に害を及ぼす。",
+    "sentence_furigana": "煙草【たばこ】の吸【す】いすぎは体【からだ】に害【がい】を及【およ】ぼす。",
+    "meaning": "Smoking too much tobacco harms the body."
+  },
+  {
+    "sentence": "デジタルデバイドは情報格差を拡大させ、社会に害を及ぼす。",
+    "sentence_furigana": "デジタルデバイドは情報格差【じょうほうかくさ】を拡大【かくだい】させ、社会【しゃかい】に害【がい】を及【およ】ぼす。",
+    "meaning": "The digital divide widens the information gap and harms society."
+  },
+  {
+    "sentence": "彼は怪我をして、スポーツ活動に大きな害を受けた。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】をして、スポーツ活動【かつどう】に大【おお】きな害【がい】を受【う】けた。",
+    "meaning": "He got injured and suffered great harm in his sports activities."
+  },
+  {
+    "sentence": "過剰な広告は消費者の判断を害する。",
+    "sentence_furigana": "過剰【かじょう】な広告【こうこく】は消費者【しょうひしゃ】の判断【はんだん】を害【がい】する。",
+    "meaning": "Excessive advertising harms consumer judgment."
+  },
+  {
+    "sentence": "食品添加物は長期的には健康に害を与える可能性がある。",
+    "sentence_furigana": "食品添加物【しょくひんてんかぶつ】は長期的【ちょうきてき】には健康【けんこう】に害【がい】を与【あた】える可能性【かのうせい】がある。",
+    "meaning": "Food additives may cause harm to health in the long term."
+  },
+  {
+    "sentence": "その政治家の発言は国の安定を害した。",
+    "sentence_furigana": "その政治家【せいじか】の発言【はつげん】は国【くに】の安定【あんてい】を害【がい】した。",
+    "meaning": "The politician's remarks harmed the country's stability."
+  },
+  {
+    "sentence": "彼の怠惰な態度はプロジェクトの進行を害した。",
+    "sentence_furigana": "彼【かれ】の怠惰【たいだ】な態度【たいど】はプロジェクトの進行【しんこう】を害【がい】した。",
+    "meaning": "His lazy attitude harmed the progress of the project."
+  },
+  {
+    "sentence": "この地域は水質汚染によって生態系に害を受けている。",
+    "sentence_furigana": "この地域【ちいき】は水質汚染【すいしつおせん】によって生態系【せいたいけい】に害【がい】を受【う】けている。",
+    "meaning": "This region is being harmed in its ecosystem by water pollution."
+  },
+  {
+    "sentence": "有害物質は環境に深刻な害をもたらす。",
+    "sentence_furigana": "有害物質【ゆうがいぶっしつ】は環境【かんきょう】に深刻【しんこく】な害【がい】をもたらす。",
+    "meaning": "Harmful substances bring serious harm to the environment."
+  },
+  {
+    "sentence": "彼の軽率な行動は多くの人々に被害を与えた。",
+    "sentence_furigana": "彼【かれ】の軽率【けいそつ】な行動【こうどう】は多【おお】くの人々【ひとびと】に被害【ひがい】を与【あた】えた。",
+    "meaning": "His rash actions caused damage to many people."
+  },
+  {
+    "sentence": "インターネット上の誹謗中傷は、個人の名誉を害する。",
+    "sentence_furigana": "インターネット上【じょう】の誹謗中傷【ひぼうちゅうしょう】は、個人【こじん】の名誉【めいよ】を害【がい】する。",
+    "meaning": "Defamation on the internet harms an individual's honor."
+  },
+  {
+    "sentence": "この病気は体に害を及ぼし、回復に時間がかかる。",
+    "sentence_furigana": "この病気【びょうき】は体【からだ】に害【がい】を及【およ】ぼし、回復【かいふく】に時間【じかん】がかかる。",
+    "meaning": "This disease harms the body and takes time to recover."
+  },
+  {
+    "sentence": "誤った情報が社会の混乱を招き、害を与えた。",
+    "sentence_furigana": "誤【あやま】った情報【じょうほう】が社会【しゃかい】の混乱【こんらん】を招【まね】き、害【がい】を与【あた】えた。",
+    "meaning": "False information caused social unrest and caused harm."
+  },
+  {
+    "sentence": "過労は心身の健康を害する。",
+    "sentence_furigana": "過労【かろう】は心身【しんしん】の健康【けんこう】を害【がい】する。",
+    "meaning": "Overwork harms physical and mental health."
+  },
+  {
+    "sentence": "彼はうっかりして、ガラスを割ってしまった。",
+    "sentence_furigana": "彼【かれ】はうっかりして、ガラスを割【わ】ってしまった。",
+    "meaning": "He accidentally broke the glass."
+  },
+  {
+    "sentence": "彼は他人の秘密を漏らし、友人に害を与えた。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】の秘密【ひみつ】を漏【も】らし、友人【ゆうじん】に害【がい】を与【あた】えた。",
+    "meaning": "He leaked other people's secrets and harmed his friends."
+  },
+  {
+    "sentence": "環境破壊は生物多様性に害を与える。",
+    "sentence_furigana": "環境破壊【かんきょうはかい】は生物多様性【せいぶつたようせい】に害【がい】を与【あた】える。",
+    "meaning": "Environmental destruction harms biodiversity."
+  },
+  {
+    "sentence": "その毒物は生態系に甚大な害をもたらす。",
+    "sentence_furigana": "その毒物【どくぶつ】は生態系【せいたいけい】に甚大【じんだい】な害【がい】をもたらす。",
+    "meaning": "That poison causes immense harm to the ecosystem."
+  },
+  {
+    "sentence": "彼の無責任な行動は会社の信用を害した。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な行動【こうどう】は会社【かいしゃ】の信用【しんよう】を害【がい】した。",
+    "meaning": "His irresponsible actions harmed the company's credit."
+  },
+  {
+    "sentence": "この化学物質は人体に有害な影響を与える。",
+    "sentence_furigana": "この化学物質【かがくぶっしつ】は人体【じんたい】に有害【ゆうがい】な影響【えいきょう】を与【あた】える。",
+    "meaning": "This chemical substance has harmful effects on the human body."
+  },
+  {
+    "sentence": "彼は怪我をして、大会に出場できなかった。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】をして、大会【たいかい】に出場【しゅつじょう】できなかった。",
+    "meaning": "He was injured and could not participate in the tournament."
+  },
+  {
+    "sentence": "偏った食生活は健康を害する。",
+    "sentence_furigana": "偏【かたよ】った食生活【しょくせいかつ】は健康【けんこう】を害【がい】する。",
+    "meaning": "An unbalanced diet harms health."
+  },
+  {
+    "sentence": "その政治的な発言は外交関係に害を与えた。",
+    "sentence_furigana": "その政治的【せいじてき】な発言【はつげん】は外交関係【がいこうかんけい】に害【がい】を与【あた】えた。",
+    "meaning": "That political statement harmed diplomatic relations."
+  },
+  {
+    "sentence": "彼は誤解から生じたトラブルで、多くの人に迷惑をかけた。",
+    "sentence_furigana": "彼【かれ】は誤解【ごかい】から生【しょう】じたトラブルで、多【おお】くの人に迷惑【めいわく】をかけた。",
+    "meaning": "He caused trouble due to misunderstanding, inconveniencing many people."
+  },
+  {
+    "sentence": "公害防止のための対策が求められている。",
+    "sentence_furigana": "公害防止【こうがいぼうし】のための対策【たいさく】が求【もと】められている。",
+    "meaning": "Countermeasures for pollution prevention are required."
+  },
+  {
+    "sentence": "彼の不注意は大きな事故につながり、多くの損害をもたらした。",
+    "sentence_furigana": "彼【かれ】の不注意【ふちゅうい】は非常【ひじょう】な事故【じこ】につながり、多【おお】くの損害【そんがい】をもたらした。",
+    "meaning": "His carelessness led to a major accident and caused significant damage."
+  },
+  {
+    "sentence": "この病気は回復しても、体に後遺症が残ることがある。",
+    "sentence_furigana": "この病気【びょうき】は回復【かいふく】しても、体【からだ】に後遺症【こういしょう】が残【のこ】ることがある。",
+    "meaning": "Even after recovering from this illness, after-effects may remain in the body."
+  },
+  {
+    "sentence": "無許可での建築は法律に違反し、社会に害を与える。",
+    "sentence_furigana": "無許可【むきょか】での建築【けんちく】は法律【ほうりつ】に違反【いはん】し、社会【しゃかい】に害【がい】を与【あた】える。",
+    "meaning": "Construction without permission violates the law and harms society."
+  },
+  {
+    "sentence": "彼は自分の過ちを認めず、事態を悪化させた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過失【かしつ】を認【みと】めず、事態【じたい】を悪化【あっか】させた。",
+    "meaning": "He did not admit his mistake and worsened the situation."
+  },
+  {
+    "sentence": "この薬は副作用で気分が悪くなることがある。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】で気分【きぶん】が悪【わる】くなることがある。",
+    "meaning": "This medicine can cause nausea as a side effect."
+  },
+  {
+    "sentence": "犯罪行為は社会の安全を害する。",
+    "sentence_furigana": "犯罪行為【はんざいこうい】は社会【しゃかい】の安全【あんぜん】を害【がい】する。",
+    "meaning": "Criminal acts harm social safety."
+  },
+  {
+    "sentence": "彼の不注意で、多くの人々が怪我を負った。",
+    "sentence_furigana": "彼【かれ】の不注意【ふちゅうい】で、多【おお】くの人々【ひとびと】が怪我【けが】を負【お】った。",
+    "meaning": "His carelessness caused many people to be injured."
+  },
+  {
+    "sentence": "この地域は産業廃棄物による土壌汚染が深刻である。",
+    "sentence_furigana": "この地域【ちいき】は産業廃棄物【さんぎょうはいきぶつ】による土壌汚染【どじょうおせん】が深刻【しんこく】である。",
+    "meaning": "Soil pollution from industrial waste is severe in this region."
+  },
+  {
+    "sentence": "彼は体調を崩し、仕事に支障が出た。",
+    "sentence_furigana": "彼【かれ】は体調【たいちょう】を崩【くず】し、仕事【しごと】に支障【ししょう】が出【で】た。",
+    "meaning": "He fell ill and his work was disrupted."
+  },
+  {
+    "sentence": "その事件は多くの人々の生活に悪影響を与えた。",
+    "sentence_furigana": "その事件【じけん】は多【おお】くの人々【ひとびと】の生活【せいかつ】に悪影響【あくえいきょう】を与【あた】えた。",
+    "meaning": "The incident had a negative impact on the lives of many people."
+  },
+  {
+    "sentence": "彼は過度のストレスで健康を害した。",
+    "sentence_furigana": "彼【かれ】は過度【かど】のストレスで健康【けんこう】を害【がい】した。",
+    "meaning": "He harmed his health due to excessive stress."
+  },
+  {
+    "sentence": "放射能汚染は環境に深刻な害を及ぼす。",
+    "sentence_furigana": "放射能汚染【ほうしゃのうおせん】は環境【かんきょう】に深刻【しんこく】な害【がい】を及【およ】ぼす。",
+    "meaning": "Radioactive contamination causes serious harm to the environment."
+  },
+  {
+    "sentence": "彼の無責任な態度は組織全体の士気を低下させた。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な態度【たいど】は組織全体【そしきぜんたい】の士気【しき】を低下【ていか】させた。",
+    "meaning": "His irresponsible attitude lowered the morale of the entire organization."
+  },
+  {
+    "sentence": "この病気は子供の成長に悪影響を与える。",
+    "sentence_furigana": "この病気【びょうき】は子供【こども】の成長【せいちょう】に悪影響【あくえいきょう】を与【あた】える。",
+    "meaning": "This disease has a negative impact on children's growth."
+  },
+  {
+    "sentence": "その政策は国民生活を害するものだ。",
+    "sentence_furigana": "その政策【せいさく】は国民生活【こくみんせいかつ】を害【がい】するものだ。",
+    "meaning": "That policy is detrimental to people's lives."
+  },
+  {
+    "sentence": "彼は軽率な発言で周囲の人々を傷つけた。",
+    "sentence_furigana": "彼【かれ】は軽率【けいそつ】な発言【はつげん】で周囲【しゅうい】の人々【ひとびと】を傷【きず】つけた。",
+    "meaning": "His careless remarks hurt those around him."
+  },
+  {
+    "sentence": "騒音公害は人々の健康と生活の質を低下させる。",
+    "sentence_furigana": "騒音公害【そうおんこうがい】は人々【ひとびと】の健康【けんこう】と生活【せいかつ】の質【しつ】を低下【ていか】させる。",
+    "meaning": "Noise pollution degrades people's health and quality of life."
+  },
+  {
+    "sentence": "彼の無分別な行動は多くの人に損害を与えた。",
+    "sentence_furigana": "彼【かれ】の無分別【むふんべつ】な行動【こうどう】は多【おお】くの人に損害【そんがい】を与【あた】えた。",
+    "meaning": "His reckless actions caused damage to many people."
+  },
+  {
+    "sentence": "この法律は消費者の安全を害する恐れがある。",
+    "sentence_furigana": "この法律【ほうりつ】は消費者【しょうひしゃ】の安全【あんぜん】を害【がい】する恐【おそ】れがある。",
+    "meaning": "This law may endanger consumer safety."
+  },
+  {
+    "sentence": "彼は過度の飲酒で健康を損なった。",
+    "sentence_furigana": "彼【かれ】は過度【かど】の飲酒【いんしゅ】で健康【けんこう】を損【そこな】った。",
+    "meaning": "He impaired his health through excessive drinking."
+  },
+  {
+    "sentence": "情報の非対称性は市場に害を及ぼす。",
+    "sentence_furigana": "情報【じょうほう】の非対称性【ひたいしょうせい】は市場【しじょう】に害【がい】を及【およ】ぼす。",
+    "meaning": "Information asymmetry harms the market."
+  },
+  {
+    "sentence": "彼の怠慢はプロジェクトの遅延につながり、大きな損害を引き起こした。",
+    "sentence_furigana": "彼【かれ】の怠慢【たいまん】はプロジェクトの遅延【ちえん】につながり、大【おお】きな損害【そんがい】を引き起【ひきおこ】した。",
+    "meaning": "His negligence led to project delays and caused significant damage."
+  },
+  {
+    "sentence": "このウイルスは人々の生活に深刻な害をもたらしている。",
+    "sentence_furigana": "このウイルスは人々【ひとびと】の生活【せいかつ】に深刻【しんこく】な害【がい】をもたらしている。",
+    "meaning": "This virus is causing serious harm to people's lives."
+  },
+  {
+    "sentence": "彼の不誠実な態度は会社の信頼を損なった。",
+    "sentence_furigana": "彼【かれ】の不誠実【ふせいじつ】な態度【たいど】は会社【かいしゃ】の信頼【しんらい】を損【そこな】った。",
+    "meaning": "His insincere attitude damaged the company's trust."
+  },
+  {
+    "sentence": "この地域の環境は工業排水によって害を受けている。",
+    "sentence_furigana": "この地域【ちいき】の環境【かんきょう】は工業排水【こうぎょうはいすい】によって害【がい】を受【う】けている。",
+    "meaning": "The environment in this region is being harmed by industrial wastewater."
+  },
+  {
+    "sentence": "彼の不注意な言動は多くの人を不快にさせた。",
+    "sentence_furigana": "彼【かれ】の不注意【ふちゅうい】な言動【げんどう】は多【おお】くの人を不快【ふかい】にさせた。",
+    "meaning": "His careless words and actions made many people uncomfortable."
+  },
+  {
+    "sentence": "この薬は副作用として眠気を引き起こすことがある。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】として眠気【ねむけ】を引き起【ひきおこ】すことがある。",
+    "meaning": "This medicine can cause drowsiness as a side effect."
+  },
+  {
+    "sentence": "彼の過失は会社の利益に害を与えた。",
+    "sentence_furigana": "彼【かれ】の過失【かしつ】は会社【かいしゃ】の利益【りえき】に害【がい】を与【あた】えた。",
+    "meaning": "His fault harmed the company's profits."
+  },
+  {
+    "sentence": "その騒音は住民の健康を害している。",
+    "sentence_furigana": "その騒音【そうおん】は住民【じゅうみん】の健康【けんこう】を害【がい】している。",
+    "meaning": "That noise is harming the health of the residents."
+  },
+  {
+    "sentence": "彼の不適切な行動はチームの結束を弱めた。",
+    "sentence_furigana": "彼【かれ】の不適切【ふてきせつ】な行動【こうどう】はチームの結束【けっそく】を弱【よわ】めた。",
+    "meaning": "His inappropriate behavior weakened the team's cohesion."
+  },
+  {
+    "sentence": "この感染症は人々の健康に大きな害を及ぼす。",
+    "sentence_furigana": "この感染症【かんせんしょう】は人々の健康【ひとびとのけんこう】に大【おお】きな害【がい】を及【およ】ぼす。",
+    "meaning": "This infectious disease causes great harm to people's health."
+  },
+  {
+    "sentence": "彼は不注意な運転で事故を起こし、自身も怪我をした。",
+    "sentence_furigana": "彼【かれ】は不注意【ふちゅうい】な運転【うんてん】で事故【じこ】を起こ【おこ】し、自身【じしん】も怪我【けが】をした。",
+    "meaning": "He caused an accident due to careless driving and was also injured."
+  },
+  {
+    "sentence": "この汚染物質は生態系に長期的な害を与える。",
+    "sentence_furigana": "この汚染物質【おせんぶっしつ】は生態系【せいたいけい】に長期的【ちょうきてき】な害【がい】を与【あた】える。",
+    "meaning": "This pollutant causes long-term harm to the ecosystem."
+  },
+  {
+    "sentence": "彼の無知な発言は多くの人々に誤解を与えた。",
+    "sentence_furigana": "彼【かれ】の無知【むち】な発言【はつげん】は多【おお】くの人々【ひとびと】に誤解【ごかい】を与【あた】えた。",
+    "meaning": "His ignorant remarks caused misunderstanding among many people."
+  },
+  {
+    "sentence": "この病気は子供たちの発達に悪影響を及ぼす可能性がある。",
+    "sentence_furigana": "この病気【びょうき】は子供たち【こどもたち】の発達【はったつ】に悪影響【あくえいきょう】を及【およ】ぼす可能性【かのうせい】がある。",
+    "meaning": "This illness may negatively affect children's development."
+  },
+  {
+    "sentence": "彼の不十分な準備はプロジェクトの失敗につながった。",
+    "sentence_furigana": "彼【かれ】の不十分【ふじゅうぶん】な準備【じゅんび】はプロジェクトの失敗【しっぱい】につながった。",
+    "meaning": "His inadequate preparation led to the project's failure."
+  },
+  {
+    "sentence": "その情報は市場の混乱を招き、経済に害を与えた。",
+    "sentence_furigana": "その情報【じょうほう】は市場【しじょう】の混乱【こんらん】を招【まね】き、経済【けいざい】に害【がい】を与【あた】えた。",
+    "meaning": "That information caused market confusion and harmed the economy."
+  },
+  {
+    "sentence": "彼の軽率な行動は多くの人を失望させた。",
+    "sentence_furigana": "彼【かれ】の軽率【けいそつ】な行動【こうどう】は多【おお】くの人を失望【しつぼう】させた。",
+    "meaning": "His rash actions disappointed many people."
+  },
+  {
+    "sentence": "この化学物質は水資源に有害な影響を与える。",
+    "sentence_furigana": "この化学物質【かがくぶっしつ】は水資源【みずしげん】に有害【ゆうがい】な影響【えいきょう】を与【あた】える。",
+    "meaning": "This chemical substance has harmful effects on water resources."
+  },
+  {
+    "sentence": "彼は不注意で、大切な書類を汚してしまった。",
+    "sentence_furigana": "彼【かれ】は不注意【ふちゅうい】で、大切【たいせつ】な書類【しょるい】を汚【よご】してしまった。",
+    "meaning": "He carelessly stained the important documents."
+  },
+  {
+    "sentence": "この害虫駆除剤は環境に安全である。",
+    "sentence_furigana": "この害虫駆除剤【がいちゅうくじょざい】は環境【かんきょう】に安全【あんぜん】である。",
+    "meaning": "This insecticide is safe for the environment."
+  },
+  {
+    "sentence": "彼の怠慢な態度はチームの士気を著しく低下させた。",
+    "sentence_furigana": "彼【かれ】の怠慢【たいまん】な態度【たいど】はチームの士気【しき】を著【いちじる】しく低下【ていか】させた。",
+    "meaning": "His negligent attitude significantly lowered the team's morale."
+  },
+  {
+    "sentence": "このウイルスは人々の社会生活に大きな支障をきたしている。",
+    "sentence_furigana": "このウイルスは人々の社会生活【ひとびとのしゃかいせいかつ】に大【おお】きな支障【ししょう】をきたしている。",
+    "meaning": "This virus is causing major disruptions to people's social lives."
+  },
+  {
+    "sentence": "彼の不適切な発言は議論の進行を妨げた。",
+    "sentence_furigana": "彼【かれ】の不適切【ふてきせつ】な発言【はつげん】は議論【ぎろん】の進行【しんこう】を妨【さまた】げた。",
+    "meaning": "His inappropriate remarks hindered the progress of the discussion."
+  },
+  {
+    "sentence": "過剰な農薬使用は土壌と水質を害する。",
+    "sentence_furigana": "過剰【かじょう】な農薬使用【のうやくしよう】は土壌【どじょう】と水質【すいしつ】を害【がい】する。",
+    "meaning": "Excessive pesticide use harms soil and water quality."
+  },
+  {
+    "sentence": "彼の無責任な行動は多くの人々の信頼を失わせた。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な行動【こうどう】は多【おお】くの人々【ひとびと】の信頼【しんらい】を失【うしな】わせた。",
+    "meaning": "His irresponsible actions caused many people to lose trust."
+  },
+  {
+    "sentence": "この病気は子供たちの学業成績に悪影響を与えている。",
+    "sentence_furigana": "この病気【びょうき】は子供たち【こどもたち】の学業成績【がくぎょうせいせき】に悪影響【あくえいきょう】を与【あた】えている。",
+    "meaning": "This illness is negatively impacting children's academic performance."
+  },
+  {
+    "sentence": "彼の不十分な説明は混乱を招き、多くの人に迷惑をかけた。",
+    "sentence_furigana": "彼【かれ】の不十分【ふじゅうぶん】な説明【せつめい】は混乱【こんらん】を招【まね】き、多【おお】くの人に迷惑【めいわく】をかけた。",
+    "meaning": "His insufficient explanation caused confusion and inconvenienced many people."
+  }
+]

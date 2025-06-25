@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "私は本を読むのが好きです。",
+    "sentence_furigana": "私【わたし】は本【ほん】を読【よ】むのが好【す】きです。",
+    "meaning": "I like to read books."
+  },
+  {
+    "sentence": "今日の新聞を読みましたか？",
+    "sentence_furigana": "今日【きょう】の新聞【しんぶん】を読【よ】みましたか？",
+    "meaning": "Did you read today's newspaper?"
+  },
+  {
+    "sentence": "彼は難しい本を読んでいる。",
+    "sentence_furigana": "彼【かれ】は難【むずか】しい本【ほん】を読【よ】んでいる。",
+    "meaning": "He is reading a difficult book."
+  },
+  {
+    "sentence": "この本は読むのに時間がかかります。",
+    "sentence_furigana": "この本【ほん】は読【よ】むのに時間【じかん】がかかります。",
+    "meaning": "This book takes time to read."
+  },
+  {
+    "sentence": "彼女は小説を読むのが得意です。",
+    "sentence_furigana": "彼女【かのじょ】は小説【しょうせつ】を読【よ】むのが得意【とくい】です。",
+    "meaning": "She is good at reading novels."
+  },
+  {
+    "sentence": "図書館で本を読むことができます。",
+    "sentence_furigana": "図書館【としょかん】で本【ほん】を読【よ】むことができます。",
+    "meaning": "You can read books at the library."
+  },
+  {
+    "sentence": "子供たちは絵本を読むのを楽しんでいます。",
+    "sentence_furigana": "子供【こども】たちは絵本【えほん】を読【よ】むのを楽し【たの】しんでいます。",
+    "meaning": "The children enjoy reading picture books."
+  },
+  {
+    "sentence": "この文章は読みやすいです。",
+    "sentence_furigana": "この文章【ぶんしょう】は読【よ】みやすいです。",
+    "meaning": "This text is easy to read."
+  },
+  {
+    "sentence": "彼は医学書を読むために大学に通っています。",
+    "sentence_furigana": "彼【かれ】は医学書【いがくしょ】を読【よ】むために大学【だいがく】に通【かよ】っています。",
+    "meaning": "He attends university to read medical books."
+  },
+  {
+    "sentence": "読み方を教えてください。",
+    "sentence_furigana": "読【よ】み方【かた】を教【おし】えてください。",
+    "meaning": "Please teach me how to read it."
+  },
+  {
+    "sentence": "新しい単語を読みます。",
+    "sentence_furigana": "新【あたら】しい単語【たんご】を読【よ】みます。",
+    "meaning": "I will read new words."
+  },
+  {
+    "sentence": "彼は歴史の本をよく読む。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】の本【ほん】をよく読【よ】む。",
+    "meaning": "He often reads history books."
+  },
+  {
+    "sentence": "この地図を読むのは難しい。",
+    "sentence_furigana": "この地図【ちず】を読【よ】むのは難【むずか】しい。",
+    "meaning": "It is difficult to read this map."
+  },
+  {
+    "sentence": "彼女は読書家で、毎日たくさんの本を読む。",
+    "sentence_furigana": "彼女【かのじょ】は読書家【どくしょか】で、毎日【まいにち】たくさんの方【ほう】を読【よ】む。",
+    "meaning": "She is a bookworm and reads many books every day."
+  },
+  {
+    "sentence": "このメールを読んでください。",
+    "sentence_furigana": "このメールを読【よ】んでください。",
+    "meaning": "Please read this email."
+  },
+  {
+    "sentence": "彼は専門書を読むことに集中している。",
+    "sentence_furigana": "彼【かれ】は専門書【せんもんしょ】を読【よ】むことに集中【しゅうちゅう】している。",
+    "meaning": "He is concentrating on reading specialized books."
+  },
+  {
+    "sentence": "昔の物語を読むのが好きだ。",
+    "sentence_furigana": "昔【むかし】の物語【ものがたり】を読【よ】むのが好【す】きだ。",
+    "meaning": "I like reading old stories."
+  },
+  {
+    "sentence": "子供に読み聞かせをしました。",
+    "sentence_furigana": "子供【こども】に読【よ】み聞【き】かせをしました。",
+    "meaning": "I read to the children."
+  },
+  {
+    "sentence": "彼は指示をよく読んで理解した。",
+    "sentence_furigana": "彼【かれ】は指示【しじ】をよく読【よ】んで理解【りかい】した。",
+    "meaning": "He read and understood the instructions well."
+  },
+  {
+    "sentence": "この漢字の読み方を教えてください。",
+    "sentence_furigana": "この漢字【かんじ】の読【よ】み方【かた】を教【おし】えてください。",
+    "meaning": "Please tell me how to read this kanji."
+  },
+  {
+    "sentence": "彼女は英語の詩を読むのが得意です。",
+    "sentence_furigana": "彼女【かのじょ】は英語【えいご】の詩【し】を読【よ】むのが得意【とくい】です。",
+    "meaning": "She is good at reading English poetry."
+  },
+  {
+    "sentence": "この本は非常に興味深く、読むのが止まりません。",
+    "sentence_furigana": "この本【ほん】は非常【ひじょう】に興味深【きょうみぶか】く、読【よ】むのが止【と】まりません。",
+    "meaning": "This book is very interesting, and I can't stop reading it."
+  },
+  {
+    "sentence": "彼は図書館で quiet に本を読んでいる。",
+    "sentence_furigana": "彼【かれ】は図書館【としょかん】で quiet に本【ほん】を読【よ】んでいる。",
+    "meaning": "He is quietly reading a book in the library."
+  },
+  {
+    "sentence": "このレシピを読むだけで料理が作れる。",
+    "sentence_furigana": "このレシピを読【よ】むだけで料理【りょうり】が作【つく】れる。",
+    "meaning": "You can cook just by reading this recipe."
+  },
+  {
+    "sentence": "彼女は子供の頃から読書が好きだった。",
+    "sentence_furigana": "彼女【かのじょ】は子供の頃【こどものころ】から読書【どくしょ】が好【す】きだった。",
+    "meaning": "She has liked reading since she was a child."
+  },
+  {
+    "sentence": "この物語を読んで感動しました。",
+    "sentence_furigana": "この物語【ものがたり】を読【よ】んで感動【かんどう】しました。",
+    "meaning": "I was moved by reading this story."
+  },
+  {
+    "sentence": "彼は毎晩寝る前に本を読む習慣がある。",
+    "sentence_furigana": "彼【かれ】は毎晩【まいばん】寝【ね】る前【まえ】に本【ほん】を読【よ】む習慣【しゅうかん】がある。",
+    "meaning": "He has a habit of reading a book every night before going to bed."
+  },
+  {
+    "sentence": "この本の読み進め方がわからない。",
+    "sentence_furigana": "この本【ほん】の読【よ】み進【すす】め方【かた】がわからない。",
+    "meaning": "I don't know how to proceed with reading this book."
+  },
+  {
+    "sentence": "彼女は新しい言語を学ぶために、その国の本を読んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい言語【げんご】を学【まな】ぶために、その国【くに】の本【ほん】を読【よ】んでいる。",
+    "meaning": "She is reading books from that country to learn a new language."
+  },
+  {
+    "sentence": "彼の文章は読み応えがある。",
+    "sentence_furigana": "彼【かれ】の文章【ぶんしょう】は読【よ】み応【ごた】えがある。",
+    "meaning": "His writing is substantial and rewarding to read."
+  },
+  {
+    "sentence": "この本は子どもから大人まで読める。",
+    "sentence_furigana": "この本【ほん】は子供【こども】から大人【おとな】まで読【よ】める。",
+    "meaning": "This book can be read by children and adults alike."
+  },
+  {
+    "sentence": "彼は歴史の文献を読むのが好きです。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】の文献【ぶんけん】を読【よ】むのが好【す】きです。",
+    "meaning": "He likes reading historical documents."
+  },
+  {
+    "sentence": "彼女は新しい小説を読むのを楽しみにしている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい小説【しょうせつ】を読【よ】むのを楽し【たの】しみにしている。",
+    "meaning": "She is looking forward to reading a new novel."
+  },
+  {
+    "sentence": "この雑誌の読み方を教えてください。",
+    "sentence_furigana": "この雑誌【ざっし】の読【よ】み方【かた】を教【おし】えてください。",
+    "meaning": "Please tell me how to read this magazine."
+  },
+  {
+    "sentence": "彼は速読術を習得しようとしている。",
+    "sentence_furigana": "彼【かれ】は速読術【そくどくじゅつ】を習得【しゅうとく】しようとしている。",
+    "meaning": "He is trying to master speed reading."
+  },
+  {
+    "sentence": "この本は読む価値がある。",
+    "sentence_furigana": "この本【ほん】は読【よ】む価値【かち】がある。",
+    "meaning": "This book is worth reading."
+  },
+  {
+    "sentence": "彼女は毎日日記を読む。",
+    "sentence_furigana": "彼女【かのじょ】は毎日【まいにち】日記【にっき】を読【よ】む。",
+    "meaning": "She reads her diary every day."
+  },
+  {
+    "sentence": "彼は専門分野の論文を読むのに多くの時間を費やしている。",
+    "sentence_furigana": "彼【かれ】は専門分野【せんもんぶんや】の論文【ろんぶん】を読【よ】むのに多【おお】くの時間【じかん】を費【つい】やしている。",
+    "meaning": "He spends a lot of time reading papers in his field of expertise."
+  },
+  {
+    "sentence": "この詩は何度読んでも味わい深い。",
+    "sentence_furigana": "この詩【し】は何度【なんど】読【よ】んでも味わ【あじわ】い深【ぶか】い。",
+    "meaning": "This poem is profound no matter how many times you read it."
+  },
+  {
+    "sentence": "彼女は子供に童話の読み聞かせをしている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に童話【どうわ】の読【よ】み聞【き】かせをしている。",
+    "meaning": "She is reading fairy tales to her children."
+  },
+  {
+    "sentence": "彼は古い書物を読むのが趣味です。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い書物【しょもつ】を読【よ】むのが趣味【しゅみ】です。",
+    "meaning": "His hobby is reading old books."
+  },
+  {
+    "sentence": "この文章は理解しやすいように書かれている。",
+    "sentence_furigana": "この文章【ぶんしょう】は理解【りかい】しやすいように書【か】かれている。",
+    "meaning": "This text is written to be easy to understand."
+  },
+  {
+    "sentence": "彼女は読書会に参加し、様々な本を読む。",
+    "sentence_furigana": "彼女【かのじょ】は読書会【どくしょかい】に参加【さんか】し、様々【さまざま】な本【ほん】を読【よ】む。",
+    "meaning": "She participates in a book club and reads various books."
+  },
+  {
+    "sentence": "彼はこのマニュアルを読むのが大変だったと言っている。",
+    "sentence_furigana": "彼【かれ】はこのマニュアルを読【よ】むのが大変【たいへん】だったと言【い】っている。",
+    "meaning": "He says it was difficult to read this manual."
+  },
+  {
+    "sentence": "この漫画を読むのが好きです。",
+    "sentence_furigana": "この漫画【まんが】を読【よ】むのが好【す】きです。",
+    "meaning": "I like reading this manga."
+  },
+  {
+    "sentence": "彼女は毎日欠かさずニュースを読む。",
+    "sentence_furigana": "彼女【かのじょ】は毎日【まいにち】欠【か】かさずニュースを読【よ】む。",
+    "meaning": "She reads the news without fail every day."
+  },
+  {
+    "sentence": "彼はその法律を読むために、法律家になった。",
+    "sentence_furigana": "彼【かれ】はその法律【ほうりつ】を読【よ】むために、法律家【ほうりつか】になった。",
+    "meaning": "He became a lawyer to read that law."
+  },
+  {
+    "sentence": "この古典を読むのは難しいが、興味深い。",
+    "sentence_furigana": "この古典【こてん】を読【よ】むのは難【むずか】しいが、興味深【きょうみぶか】い。",
+    "meaning": "Reading this classic is difficult but interesting."
+  },
+  {
+    "sentence": "彼女は読んでいる最中に眠ってしまった。",
+    "sentence_furigana": "彼女【かのじょ】は読【よ】んでいる最中【さいちゅう】に眠【ねむ】ってしまった。",
+    "meaning": "She fell asleep while reading."
+  },
+  {
+    "sentence": "彼は難しい漢字も苦も無く読む。",
+    "sentence_furigana": "彼【かれ】は難【むずか】しい漢字【かんじ】も苦【く】も無【な】く読【よ】む。",
+    "meaning": "He reads difficult kanji without difficulty."
+  },
+  {
+    "sentence": "このガイドブックを読むと旅行が楽しくなる。",
+    "sentence_furigana": "このガイドブックを読【よ】むと旅行【りょこう】が楽【たの】しくなる。",
+    "meaning": "Reading this guidebook makes traveling more enjoyable."
+  },
+  {
+    "sentence": "彼女は子供に漢字の読み方を教えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に漢字【かんじ】の読【よ】み方【かた】を教【おし】えている。",
+    "meaning": "She is teaching children how to read kanji."
+  },
+  {
+    "sentence": "彼はコンピューターの取扱説明書を読むのに苦労した。",
+    "sentence_furigana": "彼【かれ】はコンピューターの取扱説明書【とりあつかいせつめいしょ】を読【よ】むのに苦労【くろう】した。",
+    "meaning": "He struggled to read the computer's instruction manual."
+  },
+  {
+    "sentence": "この映画の原作を読むことにした。",
+    "sentence_furigana": "この映画【えいが】の原作【げんさく】を読【よ】むことにした。",
+    "meaning": "I decided to read the original novel of this movie."
+  },
+  {
+    "sentence": "彼女は読書によって知識を深めている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】によって知識【ちしき】を深【ふか】めている。",
+    "meaning": "She deepens her knowledge through reading."
+  },
+  {
+    "sentence": "彼はこの手紙を読むと、いつも昔を思い出す。",
+    "sentence_furigana": "彼【かれ】はこの手紙【てがみ】を読【よ】むと、いつも昔【むかし】を思【おも】い出【だ】す。",
+    "meaning": "When he reads this letter, he always remembers the past."
+  },
+  {
+    "sentence": "この科学雑誌を読むのが私の楽しみです。",
+    "sentence_furigana": "この科学雑誌【かがくざっし】を読【よ】むのが私【わたし】の楽【たの】しみです。",
+    "meaning": "Reading this science magazine is my pleasure."
+  },
+  {
+    "sentence": "彼女は新しいレシピを読むのを楽しみました。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいレシピを読【よ】むのを楽【たの】しみました。",
+    "meaning": "She enjoyed reading the new recipe."
+  },
+  {
+    "sentence": "彼は毎日少しずつ本を読む。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】少少【すこしずつ】本【ほん】を読【よ】む。",
+    "meaning": "He reads books little by little every day."
+  },
+  {
+    "sentence": "この辞書を読むと、言葉の意味がよくわかる。",
+    "sentence_furigana": "この辞書【じしょ】を読【よ】むと、言葉【ことば】の意味【いみ】がよくわかる。",
+    "meaning": "Reading this dictionary helps me understand the meaning of words."
+  },
+  {
+    "sentence": "彼女は読むべき本がたくさんあると言っている。",
+    "sentence_furigana": "彼女【かのじょ】は読【よ】むべき本【ほん】がたくさんあると言【い】っている。",
+    "meaning": "She says she has many books to read."
+  },
+  {
+    "sentence": "彼は詩集を読むのが好きで、よく暗唱している。",
+    "sentence_furigana": "彼【かれ】は詩集【ししゅう】を読【よ】むのが好【す】きで、よく暗唱【あんしょう】している。",
+    "meaning": "He likes reading poetry collections and often recites them."
+  },
+  {
+    "sentence": "この物語は読む人を感動させる力がある。",
+    "sentence_furigana": "この物語【ものがたり】は読【よ】む人【ひと】を感動【かんどう】させる力【ちから】がある。",
+    "meaning": "This story has the power to move its readers."
+  },
+  {
+    "sentence": "彼女は読書の時間のために、他の予定をキャンセルした。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】の時間【じかん】のために、他【ほか】の予定【よてい】をキャンセルした。",
+    "meaning": "She canceled other plans for reading time."
+  },
+  {
+    "sentence": "彼は歴史的な文書を読むのが得意だ。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な文書【ぶんしょ】を読【よ】むのが得意【とくい】だ。",
+    "meaning": "He is good at reading historical documents."
+  },
+  {
+    "sentence": "この童話を読み聞かせてもらって嬉しかった。",
+    "sentence_furigana": "この童話【どうわ】を読【よ】み聞【き】かせてもらって嬉【うれ】しかった。",
+    "meaning": "I was happy to have this fairy tale read to me."
+  },
+  {
+    "sentence": "彼女は速く本を読むことができる。",
+    "sentence_furigana": "彼女【かのじょ】は速【はや】く本【ほん】を読【よ】むことができる。",
+    "meaning": "She can read books quickly."
+  },
+  {
+    "sentence": "彼はこの法律の条文を読むのを難しく感じている。",
+    "sentence_furigana": "彼【かれ】は、この法律【ほうりつ】の条文【じょうぶん】を読【よ】むのを難【むずか】しく感【かん】じている。",
+    "meaning": "He finds it difficult to read the articles of this law."
+  },
+  {
+    "sentence": "この本は誰でも読むことができる。",
+    "sentence_furigana": "この本【ほん】は誰【だれ】でも読【よ】むことができる。",
+    "meaning": "Anyone can read this book."
+  },
+  {
+    "sentence": "彼女は読書を通して多くのことを学んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】を通して【とお】して多【おお】くのこと【こと】を学【まな】んでいる。",
+    "meaning": "She learns many things through reading."
+  },
+  {
+    "sentence": "彼は読むべき本がたくさんあるので、忙しい。",
+    "sentence_furigana": "彼【かれ】は読【よ】むべき本【ほん】がたくさんあるので、忙【いそが】しい。",
+    "meaning": "He is busy because he has many books to read."
+  },
+  {
+    "sentence": "この古い手紙を読むのを手伝ってください。",
+    "sentence_furigana": "この古【ふる】い手紙【てがみ】を読【よ】むのを手伝【てつだ】ってください。",
+    "meaning": "Please help me read this old letter."
+  },
+  {
+    "sentence": "彼女は読書によって想像力を豊かにしている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】によって想像力【そうぞうりょく】を豊【ゆた】かにしている。",
+    "meaning": "She enriches her imagination through reading."
+  },
+  {
+    "sentence": "彼は図書館で静かに本を読むのが好きだ。",
+    "sentence_furigana": "彼【かれ】は図書館【としょかん】で静【しず】かに本【ほん】を読【よ】むのが好【す】きだ。",
+    "meaning": "He likes to read books quietly in the library."
+  },
+  {
+    "sentence": "この物語を読むと、子供の頃を思い出す。",
+    "sentence_furigana": "この物語【ものがたり】を読【よ】むと、子供の頃【こどものころ】を思【おも】い出【だ】す。",
+    "meaning": "Reading this story reminds me of my childhood."
+  },
+  {
+    "sentence": "彼女は読書から多くの知識を得ている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】から多【おお】くの知識【ちしき】を得【え】ている。",
+    "meaning": "She gains a lot of knowledge from reading."
+  },
+  {
+    "sentence": "彼は新しい技術に関する文献を読むのに時間を費やしている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】に関【かん】する文献【ぶんけん】を読【よ】むのに時間【じかん】を費【つい】やしている。",
+    "meaning": "He spends time reading literature on new technologies."
+  },
+  {
+    "sentence": "この本を読むと、新しい発見があるだろう。",
+    "sentence_furigana": "この本【ほん】を読【よ】むと、新【あら】たな発見【はっけん】があるだろう。",
+    "meaning": "You will make new discoveries by reading this book."
+  },
+  {
+    "sentence": "彼女は難しい専門書も読みこなす。",
+    "sentence_furigana": "彼女【かのじょ】は難【むずか】しい専門書【せんもんしょ】も読【よ】みこなす。",
+    "meaning": "She can read difficult specialized books."
+  },
+  {
+    "sentence": "彼は読むだけでなく、書くことも得意です。",
+    "sentence_furigana": "彼【かれ】は読【よ】むだけでなく、書【か】くことも得意【とくい】です。",
+    "meaning": "He is good not only at reading but also at writing."
+  },
+  {
+    "sentence": "このガイドを読むと、迷うことなく目的地に着けるだろう。",
+    "sentence_furigana": "このガイドを読【よ】むと、迷【まよ】うことなく目的地【もくてきち】に着【つ】けるだろう。",
+    "meaning": "Reading this guide will help you reach your destination without getting lost."
+  },
+  {
+    "sentence": "彼女は読書を通じて世界を広げている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】を通じて【つう】じて世界【せかい】を広【ひろ】げている。",
+    "meaning": "She broadens her horizons through reading."
+  },
+  {
+    "sentence": "彼は毎日新しい記事を読む。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】新【あたら】しい記事【きじ】を読【よ】む。",
+    "meaning": "He reads new articles every day."
+  },
+  {
+    "sentence": "この本は繰り返し読む価値がある。",
+    "sentence_furigana": "この本【ほん】は繰【く】り返【かえ】し読【よ】む価値【かち】がある。",
+    "meaning": "This book is worth reading over and over again."
+  },
+  {
+    "sentence": "彼女は子供に本の読み方を教えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に本【ほん】の読【よ】み方【かた】を教【おし】えている。",
+    "meaning": "She is teaching children how to read books."
+  },
+  {
+    "sentence": "彼はこの本を読むために徹夜した。",
+    "sentence_furigana": "彼【かれ】はこの本【ほん】を読【よ】むために徹夜【てつや】した。",
+    "meaning": "He stayed up all night to read this book."
+  },
+  {
+    "sentence": "このマニュアルを読めば、誰でも簡単に使えるはずだ。",
+    "sentence_furigana": "このマニュアルを読【よ】めば、誰【だれ】でも簡単【かんたん】に使【つか】えるはずだ。",
+    "meaning": "Anyone should be able to use this easily if they read this manual."
+  },
+  {
+    "sentence": "彼女は読書で多くのことを学んだ。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】で多【おお】くのこと【こと】を学【まな】んだ。",
+    "meaning": "She learned a lot from reading."
+  },
+  {
+    "sentence": "彼は読むたびに新しい発見があると言っている。",
+    "sentence_furigana": "彼【かれ】は読【よ】むたびに新【あら】たな発見【はっけん】があると言【い】っている。",
+    "meaning": "He says he makes new discoveries every time he reads it."
+  },
+  {
+    "sentence": "この本はとても読みやすく書かれている。",
+    "sentence_furigana": "この本【ほん】はとても読【よ】みやすく書【か】かれている。",
+    "meaning": "This book is written in a very easy-to-read style."
+  },
+  {
+    "sentence": "彼女は読書会で本の感想を述べた。",
+    "sentence_furigana": "彼女【かのじょ】は読書会【どくしょかい】で本【ほん】の感想【かんそう】を述【の】べた。",
+    "meaning": "She shared her thoughts on the book at the book club."
+  },
+  {
+    "sentence": "彼は読むスピードが速い。",
+    "sentence_furigana": "彼【かれ】は読【よ】むスピードが速【はや】い。",
+    "meaning": "His reading speed is fast."
+  },
+  {
+    "sentence": "この指示を読むだけで、簡単に設置できます。",
+    "sentence_furigana": "この指示【しじ】を読【よ】むだけで、簡単【かんたん】に設置【せっち】できます。",
+    "meaning": "You can easily install it just by reading these instructions."
+  },
+  {
+    "sentence": "彼女は読書によって心を豊かにしている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】によって心【こころ】を豊【ゆた】かにしている。",
+    "meaning": "She enriches her mind through reading."
+  },
+  {
+    "sentence": "彼は毎月新しい本を３冊読む。",
+    "sentence_furigana": "彼【かれ】は毎月【まいげつ】新【あたら】しい本【ほん】を３冊【さつ】読【よ】む。",
+    "meaning": "He reads three new books every month."
+  },
+  {
+    "sentence": "この本は何度も読んだことがある。",
+    "sentence_furigana": "この本【ほん】は何度【なんど】も読【よ】んだことがある。",
+    "meaning": "I have read this book many times."
+  },
+  {
+    "sentence": "彼女は子供に本を読む楽しさを伝えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に本【ほん】を読【よ】む楽【たの】しさを伝【つた】えている。",
+    "meaning": "She conveys the joy of reading to children."
+  },
+  {
+    "sentence": "彼は読むのに集中するため、部屋を静かに保っている。",
+    "sentence_furigana": "彼【かれ】は読【よ】むのに集中【しゅうちゅう】するため、部屋【へや】を静【しず】かに保【たも】っている。",
+    "meaning": "He keeps the room quiet so he can concentrate on reading."
+  },
+  {
+    "sentence": "この物語は読む者の心を打つ。",
+    "sentence_furigana": "この物語【ものがたり】は読【よ】む者【もの】の心【こころ】を打【う】つ。",
+    "meaning": "This story touches the hearts of its readers."
+  },
+  {
+    "sentence": "彼女は読書を通して自分自身を成長させている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】を通して【とお】して自分自身【じぶんじしん】を成長【せいちょう】させている。",
+    "meaning": "She is growing herself through reading."
+  },
+  {
+    "sentence": "彼は読むべき本がたくさんある。",
+    "sentence_furigana": "彼【かれ】は読【よ】むべき本【ほん】がたくさんある。",
+    "meaning": "He has many books to read."
+  },
+  {
+    "sentence": "この本は読むたびに新しい発見がある。",
+    "sentence_furigana": "この本【ほん】は読【よ】むたびに新【あら】たな発見【はっけん】がある。",
+    "meaning": "There are new discoveries every time you read this book."
+  },
+  {
+    "sentence": "彼女は読書することで多くの知識を得ている。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】することで多【おお】くの知識【ちしき】を得【え】ている。",
+    "meaning": "She gains a lot of knowledge by reading."
+  },
+  {
+    "sentence": "彼は読むだけでなく、書くことにも情熱を持っている。",
+    "sentence_furigana": "彼【かれ】は読【よ】むだけでなく、書【か】くことにも情熱【じょうねつ】を持【も】っている。",
+    "meaning": "He has a passion not only for reading but also for writing."
+  },
+  {
+    "sentence": "この本は何度も読む価値がある。",
+    "sentence_furigana": "この本【ほん】は何度【なんど】も読【よ】む価値【かち】がある。",
+    "meaning": "This book is worth reading many times."
+  }
+]

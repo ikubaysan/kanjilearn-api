@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "この生地は上質な絹で織られている。",
+    "sentence_furigana": "この生地【きじ】は上質【じょうしつ】な絹【きぬ】で織【お】られている。",
+    "meaning": "This fabric is woven from high-quality silk."
+  },
+  {
+    "sentence": "彼女は美しいタペストリーを織った。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しいタペストリーを織【お】った。",
+    "meaning": "She wove a beautiful tapestry."
+  },
+  {
+    "sentence": "手織りのセーターは温かい。",
+    "sentence_furigana": "手織【てお】りのセーターは温【あたた】かい。",
+    "meaning": "Hand-woven sweaters are warm."
+  },
+  {
+    "sentence": "この模様は複雑な織り方でできている。",
+    "sentence_furigana": "この模様【もよう】は複雑【ふくざつ】な織【お】り方【かた】でできている。",
+    "meaning": "This pattern is made with a complex weaving method."
+  },
+  {
+    "sentence": "彼は機織りの技術を学んでいる。",
+    "sentence_furigana": "彼【かれ】は機織【はたお】りの技術【ぎじゅつ】を学【まな】んでいる。",
+    "meaning": "He is learning the art of weaving."
+  },
+  {
+    "sentence": "伝統的な織物は地域文化を反映している。",
+    "sentence_furigana": "伝統的【でんとうてき】な織物【おりもの】は地域文化【ちいきぶんか】を反映【はんえい】している。",
+    "meaning": "Traditional textiles reflect regional culture."
+  },
+  {
+    "sentence": "子供たちは将来、織物工場で働くことを夢見ていた。",
+    "sentence_furigana": "子供【こども】たちは将来【しょうらい】、織物工場【おりものこうじょう】で働【はたら】くことを夢見【ゆめみ】ていた。",
+    "meaning": "The children dreamed of working in a textile factory in the future."
+  },
+  {
+    "sentence": "新しいデザインの布地が織り上がった。",
+    "sentence_furigana": "新【あたら】しいデザインの布地【ぬのじ】が織【お】り上【あ】がった。",
+    "meaning": "A new design of fabric has been woven."
+  },
+  {
+    "sentence": "この織物は非常に丈夫である。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に丈夫【じょうぶ】である。",
+    "meaning": "This textile is very durable."
+  },
+  {
+    "sentence": "彼は古文書を織り交ぜて話した。",
+    "sentence_furigana": "彼【かれ】は古文書【こもんじょ】を織【お】り交【ま】ぜて話【はな】した。",
+    "meaning": "He spoke, weaving together old documents."
+  },
+  {
+    "sentence": "機屋は古い織機で作業を続けている。",
+    "sentence_furigana": "機屋【はたや】は古【ふる】い織機【しょっき】で作業【さぎょう】を続【つづ】けている。",
+    "meaning": "The weaver continues to work on an old loom."
+  },
+  {
+    "sentence": "この織物の質感は独特だ。",
+    "sentence_furigana": "この織物【おりもの】の質感【しつかん】は独特【どくとく】だ。",
+    "meaning": "The texture of this fabric is unique."
+  },
+  {
+    "sentence": "彼はその物語の要素を巧みに織り込んだ。",
+    "sentence_furigana": "彼【かれ】はその物語【ものがたり】の要素【ようそ】を巧【たく】みに織【お】り込【こ】んだ。",
+    "meaning": "He skillfully wove the elements of the story."
+  },
+  {
+    "sentence": "この生地は肌触りが良い。",
+    "sentence_furigana": "この生地【きじ】は肌触【はだざわ】りが良【よ】い。",
+    "meaning": "This fabric feels good against the skin."
+  },
+  {
+    "sentence": "彼女は自宅で洋服を織っている。",
+    "sentence_furigana": "彼女【かのじょ】は自宅【じたく】で洋服【ようふく】を織【お】っている。",
+    "meaning": "She weaves clothes at home."
+  },
+  {
+    "sentence": "その織物は色褪せしにくい。",
+    "sentence_furigana": "その織物【おりもの】は色褪【いろあ】せしにくい。",
+    "meaning": "That fabric is resistant to fading."
+  },
+  {
+    "sentence": "彼は歴史的な織物の研究に情熱を注いでいる。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な織物【おりもの】の研究【けんきゅう】に情熱【じょうねつ】を注【そそ】いでいる。",
+    "meaning": "He is passionate about researching historical textiles."
+  },
+  {
+    "sentence": "この製品は最新の技術で織られています。",
+    "sentence_furigana": "この製品【せいひん】は最新【さいしん】の技術【ぎじゅつ】で織【お】られています。",
+    "meaning": "This product is woven with the latest technology."
+  },
+  {
+    "sentence": "彼女の言葉は希望を織りなす。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は希望【きぼう】を織【お】りなす。",
+    "meaning": "Her words weave hope."
+  },
+  {
+    "sentence": "この織物は繊細な作りをしている。",
+    "sentence_furigana": "この織物【おりもの】は繊細【せんさい】な作【つく】りをして【お】いる。",
+    "meaning": "This fabric has a delicate construction."
+  },
+  {
+    "sentence": "彼は昔ながらの織り方を守っている。",
+    "sentence_furigana": "彼【かれ】は昔ながらの織【お】り方【かた】を守【まも】っている。",
+    "meaning": "He adheres to traditional weaving methods."
+  },
+  {
+    "sentence": "この織物は通気性が良い。",
+    "sentence_furigana": "この織物【おりもの】は通気性【つうきせい】が良【よ】い。",
+    "meaning": "This fabric is breathable."
+  },
+  {
+    "sentence": "彼女はオリジナルの生地を織るのが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】はオリジナルの生地【きじ】を織【お】るのが得意【とくい】だ。",
+    "meaning": "She is good at weaving original fabrics."
+  },
+  {
+    "sentence": "この織物は洗濯に強い。",
+    "sentence_furigana": "この織物【おりもの】は洗濯【せんたく】に強【つよ】い。",
+    "meaning": "This fabric is strong against washing."
+  },
+  {
+    "sentence": "彼はその出来事を詩的に織り上げた。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を詩的【してき】に織【お】り上【あ】げた。",
+    "meaning": "He poetically wove that event."
+  },
+  {
+    "sentence": "この織物は自然素材で作られている。",
+    "sentence_furigana": "この織物【おりもの】は自然素材【しぜんそざい】でつくられている。",
+    "meaning": "This textile is made from natural materials."
+  },
+  {
+    "sentence": "彼女は手織りのバッグを販売している。",
+    "sentence_furigana": "彼女【かのじょ】は手織【てお】りのバッグを販売【はんばい】している。",
+    "meaning": "She sells handmade woven bags."
+  },
+  {
+    "sentence": "この織物の密度は高い。",
+    "sentence_furigana": "この織物【おりもの】の密度【みつど】は高【たか】い。",
+    "meaning": "The density of this fabric is high."
+  },
+  {
+    "sentence": "彼は人生の経験を物語に織り込んだ。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の経験【けいけん】を物語【ものがたり】に織【お】り込【こ】んだ。",
+    "meaning": "He wove his life experiences into the story."
+  },
+  {
+    "sentence": "この織物は快適な着心地を提供する。",
+    "sentence_furigana": "この織物【おりもの】は快適【かいてき】な着心地【きごこち】を提供【ていきょう】する。",
+    "meaning": "This fabric offers comfortable wear."
+  },
+  {
+    "sentence": "彼女は伝統工芸である織物の保存に尽力している。",
+    "sentence_furigana": "彼女【かのじょ】は伝統工芸【でんとうこうげい】である織物【おりもの】の保存【ほぞん】に尽力【じんりょく】している。",
+    "meaning": "She is devoted to preserving traditional woven crafts."
+  },
+  {
+    "sentence": "この織物は非常に柔らかい。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に柔【やわ】らかい。",
+    "meaning": "This fabric is very soft."
+  },
+  {
+    "sentence": "彼は新しい織物の開発に取り組んでいる。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい織物【おりもの】の開発【かいはつ】に取り組【とりく】んでいる。",
+    "meaning": "He is working on the development of new textiles."
+  },
+  {
+    "sentence": "この織物は防水性がある。",
+    "sentence_furigana": "この織物【おりもの】は防水性【ぼうすいせい】がある。",
+    "meaning": "This fabric is waterproof."
+  },
+  {
+    "sentence": "彼女は家族の歴史を歌に織り込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の歴史【れきし】を歌【うた】に織【お】り込【こ】んだ。",
+    "meaning": "She wove her family's history into a song."
+  },
+  {
+    "sentence": "この織物は光沢があり美しい。",
+    "sentence_furigana": "この織物【おりもの】は光沢【こうたく】があり美【うつく】しい。",
+    "meaning": "This fabric has a beautiful sheen."
+  },
+  {
+    "sentence": "彼は古い織物のパターンを再現しようとした。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い織物【おりもの】のパターンを再現【さいげん】しようとした。",
+    "meaning": "He tried to reproduce old fabric patterns."
+  },
+  {
+    "sentence": "この織物は防寒性に優れている。",
+    "sentence_furigana": "この織物【おりもの】は防寒性【ぼうかんせい】に優【すぐ】れている。",
+    "meaning": "This fabric is excellent for warmth."
+  },
+  {
+    "sentence": "彼女は織物の芸術を広める活動をしている。",
+    "sentence_furigana": "彼女【かのじょ】は織物【おりもの】の芸術【げいじゅつ】を広【ひろ】める活動【かつどう】をしている。",
+    "meaning": "She is active in spreading the art of textiles."
+  },
+  {
+    "sentence": "この織物は染色性に富んでいる。",
+    "sentence_furigana": "この織物【おりもの】は染色性【せんしょくせい】に富【と】んでいる。",
+    "meaning": "This fabric is rich in dyeability."
+  },
+  {
+    "sentence": "彼は人生の岐路を物語に織り交ぜた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の岐路【きろ】を物語【ものがたり】に織【お】り交【ま】ぜた。",
+    "meaning": "He wove the crossroads of his life into the story."
+  },
+  {
+    "sentence": "この織物は非常に軽い。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に軽【かる】い。",
+    "meaning": "This fabric is very light."
+  },
+  {
+    "sentence": "彼女は手織りのマフラーを編んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は手織【てお】りのマフラーを編【あ】んでいる。",
+    "meaning": "She is knitting a hand-woven scarf."
+  },
+  {
+    "sentence": "この織物は耐久性がある。",
+    "sentence_furigana": "この織物【おりもの】は耐久性【たいきゅうせい】がある。",
+    "meaning": "This fabric is durable."
+  },
+  {
+    "sentence": "彼は芸術作品に様々な織り方を試した。",
+    "sentence_furigana": "彼【かれ】は芸術作品【げいじゅつさくひん】に様々【さまざま】な織【お】り方【かた】を試【こころ】みた。",
+    "meaning": "He tried various weaving methods for his artwork."
+  },
+  {
+    "sentence": "この織物は肌に優しい。",
+    "sentence_furigana": "この織物【おりもの】は肌【はだ】に優【やさ】しい。",
+    "meaning": "This fabric is gentle on the skin."
+  },
+  {
+    "sentence": "彼女は古い織機を修復した。",
+    "sentence_furigana": "彼女【かのじょ】は古【ふる】い織機【しょっき】を修復【しゅうふく】した。",
+    "meaning": "She repaired an old loom."
+  },
+  {
+    "sentence": "この織物は伸縮性がある。",
+    "sentence_furigana": "この織物【おりもの】は伸縮性【しんしゅくせい】がある。",
+    "meaning": "This fabric is stretchy."
+  },
+  {
+    "sentence": "彼はその出来事を悲劇的に織り交ぜた。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を悲劇的【ひげきてき】に織【お】り交【ま】ぜた。",
+    "meaning": "He wove that event tragically."
+  },
+  {
+    "sentence": "この織物は涼感がある。",
+    "sentence_furigana": "この織物【おりもの】は涼感【りょうかん】がある。",
+    "meaning": "This fabric has a cooling sensation."
+  },
+  {
+    "sentence": "彼女は家業である織物業を継いだ。",
+    "sentence_furigana": "彼女【かのじょ】は家業【かぎょう】である織物業【おりものぎょう】を継【つ】いだ。",
+    "meaning": "She inherited the family textile business."
+  },
+  {
+    "sentence": "この織物は吸湿性に優れている。",
+    "sentence_furigana": "この織物【おりもの】は吸湿性【きゅうしつせい】に優【すぐ】れている。",
+    "meaning": "This fabric is highly absorbent."
+  },
+  {
+    "sentence": "彼は多くの経験を人生のタペストリーに織り込んだ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を人生【じんせい】のタペストリーに織【お】り込【こ】んだ。",
+    "meaning": "He wove many experiences into the tapestry of his life."
+  },
+  {
+    "sentence": "この織物は非常に丈夫で長持ちする。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に丈夫【じょうぶ】で長持【ながも】ちする。",
+    "meaning": "This fabric is very strong and long-lasting."
+  },
+  {
+    "sentence": "彼女は地元の織物の伝統を守るために活動している。",
+    "sentence_furigana": "彼女【かのじょ】は地元【じもと】の織物【おりもの】の伝統【でんとう】を守【まも】るために活動【かつどう】している。",
+    "meaning": "She is working to preserve local weaving traditions."
+  },
+  {
+    "sentence": "この織物は独特の風合いを持っている。",
+    "sentence_furigana": "この織物【おりもの】は独特【どくとく】の風合【ふうあい】を持【も】っている。",
+    "meaning": "This fabric has a unique texture."
+  },
+  {
+    "sentence": "彼は現代的な織物技術を導入した。",
+    "sentence_furigana": "彼【かれ】は現代的【げんだいてき】な織物技術【おりものぎじゅつ】を導入【どうにゅう】した。",
+    "meaning": "He introduced modern textile technology."
+  },
+  {
+    "sentence": "この織物は環境に優しい素材で作られている。",
+    "sentence_furigana": "この織物【おりもの】は環境【かんきょう】に優【やさ】しい素材【そざい】で作【つく】られている。",
+    "meaning": "This fabric is made from environmentally friendly materials."
+  },
+  {
+    "sentence": "彼女は手織りのコースターを作っている。",
+    "sentence_furigana": "彼女【かのじょ】は手織【てお】りのコースターを作【つく】っている。",
+    "meaning": "She is making hand-woven coasters."
+  },
+  {
+    "sentence": "この織物は美しいドレープ性がある。",
+    "sentence_furigana": "この織物【おりもの】は美【うつく】しいドレープ性【せい】がある。",
+    "meaning": "This fabric has beautiful drape."
+  },
+  {
+    "sentence": "彼は人生の出来事を巧みに物語に織り上げた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の出来事【できごと】を巧【たく】みに物語【ものがたり】に織【お】り上【あ】げた。",
+    "meaning": "He skillfully wove the events of his life into a story."
+  },
+  {
+    "sentence": "この織物は軽量で丈夫である。",
+    "sentence_furigana": "この織物【おりもの】は軽量【けいりょう】で丈夫【じょうぶ】である。",
+    "meaning": "This fabric is lightweight and strong."
+  },
+  {
+    "sentence": "彼女は織物の歴史に関する本を執筆した。",
+    "sentence_furigana": "彼女【かのじょ】は織物【おりもの】の歴史【れきし】に関【かん】する本【ほん】を執筆【しっぴつ】した。",
+    "meaning": "She wrote a book on the history of textiles."
+  },
+  {
+    "sentence": "この織物は肌触りが滑らかだ。",
+    "sentence_furigana": "この織物【おりもの】は肌触【はだざわ】りが滑【なめ】らかだ。",
+    "meaning": "This fabric has a smooth texture."
+  },
+  {
+    "sentence": "彼はそのプロジェクトに多くのアイデアを織り込んだ。",
+    "sentence_furigana": "彼【かれ】はそのプロジェクトに多【おお】くのアイデアを織【お】り込【こ】んだ。",
+    "meaning": "He incorporated many ideas into the project."
+  },
+  {
+    "sentence": "この織物は吸湿性と速乾性に優れている。",
+    "sentence_furigana": "この織物【おりもの】は吸湿性【きゅうしつせい】と速乾性【そっかんせい】に優【すぐ】れている。",
+    "meaning": "This fabric excels in moisture absorption and quick drying."
+  },
+  {
+    "sentence": "彼女は家でオリジナルの織物をデザインしている。",
+    "sentence_furigana": "彼女【かのじょ】は家【いえ】でオリジナルの織物【おりもの】をデザインしている。",
+    "meaning": "She designs original textiles at home."
+  },
+  {
+    "sentence": "この織物は静電気が発生しにくい。",
+    "sentence_furigana": "この織物【おりもの】は静電気【せいでんき】が発生【はっせい】しにくい。",
+    "meaning": "This fabric is resistant to static electricity."
+  },
+  {
+    "sentence": "彼はその物語を詩的に織り上げた。",
+    "sentence_furigana": "彼【かれ】はその物語【ものがたり】を詩的【してき】に織【お】り上【あ】げた。",
+    "meaning": "He poetically wove that story."
+  },
+  {
+    "sentence": "この織物は非常に柔らかく、肌に優しい。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に柔【やわ】らかく、肌【はだ】に優【やさ】しい。",
+    "meaning": "This fabric is very soft and gentle on the skin."
+  },
+  {
+    "sentence": "彼女は伝統的な織物の技法を学んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は伝統的【でんとうてき】な織物【おりもの】の技法【ぎほう】を学【まな】んでいる。",
+    "meaning": "She is learning traditional weaving techniques."
+  },
+  {
+    "sentence": "この織物は通気性が良く、快適だ。",
+    "sentence_furigana": "この織物【おりもの】は通気性【つうきせい】が良【よ】く、快適【かいてき】だ。",
+    "meaning": "This fabric is breathable and comfortable."
+  },
+  {
+    "sentence": "彼はその経験を教訓として人生に織り込んだ。",
+    "sentence_furigana": "彼【かれ】はその経験【けいけん】を教訓【きょうくん】として人生【じんせい】に織【お】り込【こ】んだ。",
+    "meaning": "He wove that experience into his life as a lesson."
+  },
+  {
+    "sentence": "この織物は染色がしやすい。",
+    "sentence_furigana": "この織物【おりもの】は染色【せんしょく】がしやすい。",
+    "meaning": "This fabric is easy to dye."
+  },
+  {
+    "sentence": "彼女は手織りの布で服を仕立てた。",
+    "sentence_furigana": "彼女【かのじょ】は手織【てお】りの布【ぬの】で服【ふく】を仕立【した】てた。",
+    "meaning": "She tailored clothes from hand-woven fabric."
+  },
+  {
+    "sentence": "この織物は非常に軽く、動きやすい。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に軽【かる】く、動【うご】きやすい。",
+    "meaning": "This fabric is very light and easy to move in."
+  },
+  {
+    "sentence": "彼はその出来事を感動的に織り上げた。",
+    "sentence_furigana": "彼【かれ】は Đó出來事【できごと】を感動的【かんどうてき】に織【お】り上【あ】げた。",
+    "meaning": "He emotionally wove that event."
+  },
+  {
+    "sentence": "この織物は肌にサラッとしている。",
+    "sentence_furigana": "この織物【おりもの】は肌【はだ】にサラッとしている。",
+    "meaning": "This fabric feels smooth and cool against the skin."
+  },
+  {
+    "sentence": "彼女は織物の展覧会を企画した。",
+    "sentence_furigana": "彼女【かのじょ】は織物【おりもの】の展覧会【てんらんかい】を企画【きかく】した。",
+    "meaning": "She organized a textile exhibition."
+  },
+  {
+    "sentence": "この織物は熱に強い。",
+    "sentence_furigana": "この織物【おりもの】は熱【ねつ】に強【つよ】い。",
+    "meaning": "This fabric is resistant to heat."
+  },
+  {
+    "sentence": "彼はそのアイデアを複雑な計画に織り込んだ。",
+    "sentence_furigana": "彼【かれ】はそのアイデアを複雑【ふくざつ】な計画【けいかく】に織【お】り込【こ】んだ。",
+    "meaning": "He wove that idea into a complex plan."
+  },
+  {
+    "sentence": "この織物は自然な風合いが魅力だ。",
+    "sentence_furigana": "この織物【おりもの】は自然【しぜん】な風合【ふうあい】が魅力【みりょく】だ。",
+    "meaning": "The natural texture of this fabric is appealing."
+  },
+  {
+    "sentence": "彼女は手織りのクッションカバーを製作した。",
+    "sentence_furigana": "彼女【かのじょ】は手織【てお】りのクッションカバーを製作【せいさく】した。",
+    "meaning": "She made hand-woven cushion covers."
+  },
+  {
+    "sentence": "この織物は摩擦に強い。",
+    "sentence_furigana": "この織物【おりもの】は摩擦【まさつ】に強【つよ】い。",
+    "meaning": "This fabric is resistant to friction."
+  },
+  {
+    "sentence": "彼はその出来事を劇的に織り上げた。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を劇的【げきてき】に織【お】り上【あ】げた。",
+    "meaning": "He dramatically wove that event."
+  },
+  {
+    "sentence": "この織物は非常に通気性が良い。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に通気性【つうきせい】が良【よ】い。",
+    "meaning": "This fabric is highly breathable."
+  },
+  {
+    "sentence": "彼女は伝統織物に関するワークショップを開催した。",
+    "sentence_furigana": "彼女【かのじょ】は伝統織物【でんとうおりもの】に関【かん】するワークショップを開催【かいさい】した。",
+    "meaning": "She held a workshop on traditional textiles."
+  },
+  {
+    "sentence": "この織物は軽くて丈夫なので、アウトドアウェアに適している。",
+    "sentence_furigana": "この織物【おりもの】は軽【かる】くて丈夫【じょうぶ】なので、アウトドアウェアに適【てき】している。",
+    "meaning": "This fabric is lightweight and durable, making it suitable for outdoor wear."
+  },
+  {
+    "sentence": "彼はその経験を物語のクライマックスに織り込んだ。",
+    "sentence_furigana": "彼【かれ】はその経験【けいけん】を物語【ものがたり】のクライマックスに織【お】り込【こ】んだ。",
+    "meaning": "He wove that experience into the climax of the story."
+  },
+  {
+    "sentence": "この織物は非常に肌触りが良く、着心地が良い。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に肌触【はだざわ】りが良【よ】く、着心地【きごこち】が良い【よい】。",
+    "meaning": "This fabric has a very good feel and is comfortable to wear."
+  },
+  {
+    "sentence": "彼女は地元の特産品である織物を紹介するウェブサイトを立ち上げた。",
+    "sentence_furigana": "彼女【かのじょ】は地元【じもと】の特産品【とくさんひん】である織物【おりもの】を紹介【しょうかい】するウェブサイトを立【た】ち上【あ】げた。",
+    "meaning": "She launched a website to introduce local specialty textiles."
+  },
+  {
+    "sentence": "この織物は光を反射する。",
+    "sentence_furigana": "この織物【おりもの】は光【ひかり】を反射【はんしゃ】する。",
+    "meaning": "This fabric reflects light."
+  },
+  {
+    "sentence": "彼はその出来事を感動的なフィナーレに織り上げた。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を感動的【かんどうてき】なフィナーレに織【お】り上【あ】げた。",
+    "meaning": "He wove that event into a moving finale."
+  },
+  {
+    "sentence": "この織物は洗っても縮みにくい。",
+    "sentence_furigana": "この織物【おりもの】は洗【あら】っても縮【ちぢ】みにくい。",
+    "meaning": "This fabric is resistant to shrinking when washed."
+  },
+  {
+    "sentence": "彼女は織物のデザインに関するコンペティションに参加した。",
+    "sentence_furigana": "彼女【かのじょ】は織物【おりもの】のデザインに関【かん】するコンペティションに参加【さんか】した。",
+    "meaning": "She participated in a competition related to textile design."
+  },
+  {
+    "sentence": "この織物は非常に柔らかく、肌に馴染む。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に柔【やわ】らかく、肌【はだ】に馴染【なじ】む。",
+    "meaning": "This fabric is very soft and conforms to the skin."
+  },
+  {
+    "sentence": "彼はその困難を乗り越え、新しい人生を織り上げた。",
+    "sentence_furigana": "彼【かれ】はその困難【こんなん】を乗【の】り越【こ】え、新【あたら】しい人生【じんせい】を織【お】り上【あ】げた。",
+    "meaning": "He overcame that difficulty and wove a new life."
+  },
+  {
+    "sentence": "この織物は高いデザイン性を持つ。",
+    "sentence_furigana": "この織物【おりもの】は高【たか】いデザイン性【せい】を持【も】つ。",
+    "meaning": "This fabric has a high design quality."
+  },
+  {
+    "sentence": "彼女は手織りのラグを製作するために、特別な糸を使った。",
+    "sentence_furigana": "彼女【かのじょ】は手織【てお】りのラグを製作【せいさく】するために、特別【とくべつ】な糸【いと】を使【つか】った。",
+    "meaning": "She used special yarn to create a hand-woven rug."
+  },
+  {
+    "sentence": "この織物は非常に丈夫で、日常使いに適している。",
+    "sentence_furigana": "この織物【おりもの】は非常【ひじょう】に丈夫【じょうぶ】で、日常使【にちじょうづか】いのに適【てき】している。",
+    "meaning": "This fabric is very durable and suitable for everyday use."
+  },
+  {
+    "sentence": "彼はその出来事を感動的なストーリーに織り上げた。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】を感動的【かんどうてき】なストーリーに織【お】り上【あ】げた。",
+    "meaning": "He wove that event into a moving story."
+  },
+  {
+    "sentence": "この織物は肌に優しいだけでなく、機能性にも優れている。",
+    "sentence_furigana": "この織物【おりもの】は肌【はだ】に優【やさ】しいだけでなく、機能性【きのうせい】にも優【すぐ】れている。",
+    "meaning": "This fabric is not only gentle on the skin but also highly functional."
+  },
+  {
+    "sentence": "彼女は織物の産地を巡る旅をした。",
+    "sentence_furigana": "彼女【かのじょ】は織物【おりもの】の産地【さんち】を巡【めぐ】る旅【たび】をした。",
+    "meaning": "She traveled to textile producing regions."
+  },
+  {
+    "sentence": "この織物は静電気を帯びにくい。",
+    "sentence_furigana": "この織物【おりもの】は静電気【せいでんき】を帯【お】びにくい。",
+    "meaning": "This fabric is less prone to static electricity."
+  },
+  {
+    "sentence": "彼はその経験を芸術作品に昇華させた。",
+    "sentence_furigana": "彼【かれ】はその経験【けいけん】を芸術作品【げいじゅつさくひん】に昇華【しょうか】させた。",
+    "meaning": "He sublimated that experience into works of art."
+  },
+  {
+    "sentence": "この織物は洗っても型崩れしにくい。",
+    "sentence_furigana": "この織物【おりもの】は洗【あら】っても型崩【かたくず】れしにくい。",
+    "meaning": "This fabric resists losing its shape when washed."
+  }
+]

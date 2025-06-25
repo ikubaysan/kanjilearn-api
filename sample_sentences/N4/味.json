@@ -1,0 +1,477 @@
+[
+  {
+    "sentence": "この料理はとても良い味がします。",
+    "sentence_furigana": "この料理【りょうり】はとても良【よ】い味【あじ】がします。",
+    "meaning": "This dish has a very good taste."
+  },
+  {
+    "sentence": "彼は新しい味を試すのが好きです。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい味【あじ】を試【ため】すのが好【す】きです。",
+    "meaning": "He likes to try new flavors."
+  },
+  {
+    "sentence": "その香辛料は独特の味を加えます。",
+    "sentence_furigana": "その香辛料【こうしんりょう】は独特【どくとく】の味【あじ】を加【くわ】えます。",
+    "meaning": "That spice adds a unique flavor."
+  },
+  {
+    "sentence": "子供たちは甘い味を好みます。",
+    "sentence_furigana": "子供【こども】たち は甘【あま】い味【あじ】を好【この】みます。",
+    "meaning": "Children prefer sweet tastes."
+  },
+  {
+    "sentence": "醤油は料理に深みのある味を与えます。",
+    "sentence_furigana": "醤油【しょうゆ】は料理【りょうり】に深【ふか】みのある味【あじ】を与【あた】えます。",
+    "meaning": "Soy sauce gives dishes a deep flavor."
+  },
+  {
+    "sentence": "このワインは複雑な味覚を持っています。",
+    "sentence_furigana": "このワイン は複雑【ふくざつ】な味覚【みかく】を持【も】っています。",
+    "meaning": "This wine has a complex taste."
+  },
+  {
+    "sentence": "彼はその経験から多くの味を学びました。",
+    "sentence_furigana": "彼【かれ】は その経験【けいけん】から多【おお】くの味【あじ】を学【まな】びました。",
+    "meaning": "He learned many lessons from that experience."
+  },
+  {
+    "sentence": "この果物は酸味と甘味のバランスが良いです。",
+    "sentence_furigana": "この果物【くだもの】は酸味【さんみ】と甘味【あまみ】のバランスが良いです。",
+    "meaning": "This fruit has a good balance of sourness and sweetness."
+  },
+  {
+    "sentence": "彼女は料理の味を繊細に表現するのが得意です。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の味【あじ】を繊細【せんさい】に表現【ひょうげん】するのが得意【とくい】です。",
+    "meaning": "She is good at delicately expressing the taste of food."
+  },
+  {
+    "sentence": "このスープは塩味が足りないようです。",
+    "sentence_furigana": "このスープ は塩味【しおあじ】が 足【た】りないようです。",
+    "meaning": "This soup seems to lack saltiness."
+  },
+  {
+    "sentence": "新鮮な魚は独特の風味があります。",
+    "sentence_furigana": "新鮮【しんせん】な魚【さかな】は独特【どくとく】の風味【ふうみ】があります。",
+    "meaning": "Fresh fish has a unique flavor."
+  },
+  {
+    "sentence": "彼は料理にスパイスの味を加えていた。",
+    "sentence_furigana": "彼【かれ】は料理【りょうり】にスパイスの味【あじ】を加えていた。",
+    "meaning": "He was adding the flavor of spices to the dish."
+  },
+  {
+    "sentence": "このチョコレートは苦味と甘味のコントラストが素晴らしい。",
+    "sentence_furigana": "このチョコレート は苦味【にがみ】と甘味【あまみ】のコントラストが素晴【すば】らしい。",
+    "meaning": "The contrast between bitterness and sweetness in this chocolate is wonderful."
+  },
+  {
+    "sentence": "彼は趣味の味を追求している。",
+    "sentence_furigana": "彼【かれ】は趣味【しゅみ】の味【あじ】を追求【ついきゅう】している。",
+    "meaning": "He is pursuing his taste in hobbies."
+  },
+  {
+    "sentence": "この料理は旨味を最大限に引き出している。",
+    "sentence_furigana": "この料理【りょうり】は旨味【うまみ】を最大限【さいだいげん】に引【ひ】き出【だ】している。",
+    "meaning": "This dish maximizes the umami flavor."
+  },
+  {
+    "sentence": "新しい環境に慣れるのに時間がかかった。",
+    "sentence_furigana": "新【あたら】しい環境【かんきょう】に慣【な】れるのに時間【じかん】がかかった。",
+    "meaning": "It took time to get used to the new environment."
+  },
+  {
+    "sentence": "彼の話には説得力がある。",
+    "sentence_furigana": "彼【かれ】の話【はなし】には説得力【せっとくりょく】がある。",
+    "meaning": "His story has persuasive power."
+  },
+  {
+    "sentence": "この薬は苦い味がする。",
+    "sentence_furigana": "この薬【くすり】は苦【にが】い味【あじ】がする。",
+    "meaning": "This medicine tastes bitter."
+  },
+  {
+    "sentence": "彼女は料理の才能がある。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の才能【さいのう】がある。",
+    "meaning": "She has a talent for cooking."
+  },
+  {
+    "sentence": "この果物は酸っぱい味がする。",
+    "sentence_furigana": "この果物【くだもの】は酸っぱ【すっぱ】い味【あじ】がする。",
+    "meaning": "This fruit tastes sour."
+  },
+  {
+    "sentence": "彼は美味しいコーヒーの味を堪能した。",
+    "sentence_furigana": "彼【かれ】は美味【おい】しいコーヒーの味【あじ】を堪能【たんのう】した。",
+    "meaning": "He savored the taste of delicious coffee."
+  },
+  {
+    "sentence": "このソースは辛味がある。",
+    "sentence_furigana": "このソース は辛味【からみ】がある。",
+    "meaning": "This sauce is spicy."
+  },
+  {
+    "sentence": "彼は独特の美的感覚を持っている。",
+    "sentence_furigana": "彼【かれ】は独特【どくとく】の美的感覚【びてきかんかく】を持【も】っている。",
+    "meaning": "He has a unique sense of aesthetics."
+  },
+  {
+    "sentence": "この海苔は磯の香りがする。",
+    "sentence_furigana": "この海苔【のり】は磯【いそ】の香【かお】りがする。",
+    "meaning": "This seaweed has a sea-like aroma."
+  },
+  {
+    "sentence": "彼女は新しいファッションの味を楽しんでいる。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいファッションの味【あじ】を楽【たの】しんでいる。",
+    "meaning": "She is enjoying the taste of new fashion."
+  },
+  {
+    "sentence": "この醤油はまろやかな味だ。",
+    "sentence_furigana": "この醤油【しょうゆ】はまろやかな味【あじ】だ。",
+    "meaning": "This soy sauce has a mellow taste."
+  },
+  {
+    "sentence": "彼はその味に魅了された。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】に魅了【みりょう】された。",
+    "meaning": "He was fascinated by that taste."
+  },
+  {
+    "sentence": "この料理は甘しょっぱい味がする。",
+    "sentence_furigana": "この料理【りょうり】は甘しょっぱ【あましょっぱ】い味【あじ】がする。",
+    "meaning": "This dish has a sweet and salty taste."
+  },
+  {
+    "sentence": "彼の芸術には独自の味わいがある。",
+    "sentence_furigana": "彼【かれ】の芸術【げいじゅつ】には独特【どくとく】の味わい【あじわい】がある。",
+    "meaning": "His art has its own unique flavor."
+  },
+  {
+    "sentence": "このカレーはスパイスの味が効いている。",
+    "sentence_furigana": "このカレー はスパイスの味【あじ】が効【き】いている。",
+    "meaning": "This curry has a strong spice flavor."
+  },
+  {
+    "sentence": "彼は珍しい味覚を楽しんだ。",
+    "sentence_furigana": "彼【かれ】は珍【めずら】しい味覚【みかく】を楽し【たの】んだ。",
+    "meaning": "He enjoyed unusual flavors."
+  },
+  {
+    "sentence": "このお菓子はバターの風味が豊かだ。",
+    "sentence_furigana": "このお菓子【かし】はバターの風味【ふうみ】が豊【ゆた】かだ。",
+    "meaning": "This confection is rich in butter flavor."
+  },
+  {
+    "sentence": "彼女は料理の味見をしている。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の味見【あじみ】をしている。",
+    "meaning": "She is tasting the food."
+  },
+  {
+    "sentence": "この地域は独特の文化の味を持っている。",
+    "sentence_furigana": "この地域【ちいき】は独特【どくとく】の文化【ぶんか】の味【あじ】を持【も】っている。",
+    "meaning": "This region has a unique cultural flavor."
+  },
+  {
+    "sentence": "彼はその味に深い感銘を受けた。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】に深【ふか】い感銘【かんめい】を受【う】けた。",
+    "meaning": "He was deeply impressed by that taste."
+  },
+  {
+    "sentence": "この薬は苦い味がするが、効果がある。",
+    "sentence_furigana": "この薬【くすり】は苦【にが】い味【あじ】がするが、効果【こうか】がある。",
+    "meaning": "This medicine tastes bitter, but it is effective."
+  },
+  {
+    "sentence": "彼女は様々な味の調味料を試した。",
+    "sentence_furigana": "彼女【かのじょ】は様々【さまざま】な味【あじ】の調味料【ちょうみりょう】を試【ため】した。",
+    "meaning": "She tried various flavored seasonings."
+  },
+  {
+    "sentence": "この魚は新鮮で美味しい。",
+    "sentence_furigana": "この魚【さかな】は新鮮【しんせん】で美味【おい】しい。",
+    "meaning": "This fish is fresh and delicious."
+  },
+  {
+    "sentence": "彼は料理の腕を磨くことに情熱を注いでいる。",
+    "sentence_furigana": "彼【かれ】は料理【りょうり】の腕【うで】を磨【みが】くことに情熱【じょうねつ】を注【そそ】いでいる。",
+    "meaning": "He is passionate about honing his cooking skills."
+  },
+  {
+    "sentence": "このチーズは独特の風味がある。",
+    "sentence_furigana": "このチーズ は独特【どくとく】の風味【ふうみ】がある。",
+    "meaning": "This cheese has a unique flavor."
+  },
+  {
+    "sentence": "彼女は辛いものが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は辛【から】いものが好【す】きだ。",
+    "meaning": "She likes spicy food."
+  },
+  {
+    "sentence": "このコーヒーは豆本来の味が楽しめる。",
+    "sentence_furigana": "このコーヒー は豆【まめ】本来【ほんらい】の味【あじ】を楽し【たの】しめる。",
+    "meaning": "You can enjoy the original flavor of the beans in this coffee."
+  },
+  {
+    "sentence": "彼は食の味にうるさい。",
+    "sentence_furigana": "彼【かれ】は食【しょく】の味【あじ】にうるさい。",
+    "meaning": "He is particular about the taste of food."
+  },
+  {
+    "sentence": "このスープは旨味とコクがある。",
+    "sentence_furigana": "このスープ は旨味【うまみ】とコクがある。",
+    "meaning": "This soup has umami and richness."
+  },
+  {
+    "sentence": "彼女は新しい味の発見を楽しみにしている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい味【あじ】の発見【はっけん】を楽し【たの】しみにしている。",
+    "meaning": "She is looking forward to discovering new flavors."
+  },
+  {
+    "sentence": "この果物は甘酸っぱい味がする。",
+    "sentence_furigana": "この果物【くだもの】は甘酸っぱ【あまずっぱ】い味【あじ】がする。",
+    "meaning": "This fruit tastes sweet and sour."
+  },
+  {
+    "sentence": "彼はその味の虜になった。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】の虜【とりこ】になった。",
+    "meaning": "He became captivated by that taste."
+  },
+  {
+    "sentence": "この料理は素材の味が活かされている。",
+    "sentence_furigana": "この料理【りょうり】は素材【そざい】の味【あじ】が活【い】かされている。",
+    "meaning": "The flavor of the ingredients is utilized in this dish."
+  },
+  {
+    "sentence": "彼女は繊細な味覚を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な味覚【みかく】を持【も】っている。",
+    "meaning": "She has a delicate palate."
+  },
+  {
+    "sentence": "このワインはフルーティーな香りと味が特徴だ。",
+    "sentence_furigana": "このワイン はフルーティーな香【かお】りと味【あじ】が特徴【とくちょう】だ。",
+    "meaning": "This wine is characterized by its fruity aroma and taste."
+  },
+  {
+    "sentence": "彼は苦い経験から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】は苦【にが】い経験【けいけん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned a lot from bitter experiences."
+  },
+  {
+    "sentence": "この味噌汁は出汁の味がしっかりしている。",
+    "sentence_furigana": "この味噌汁【みそしる】は出汁【だし】の味【あじ】がしっかりしている。",
+    "meaning": "This miso soup has a solid broth flavor."
+  },
+  {
+    "sentence": "彼女はコーヒーの味にこだわる。",
+    "sentence_furigana": "彼女【かのじょ】はコーヒーの味【あじ】にこだわる。",
+    "meaning": "She is particular about the taste of coffee."
+  },
+  {
+    "sentence": "このケーキは上品な甘さだ。",
+    "sentence_furigana": "このケーキ は上品【じょうひん】な甘【あま】さだ。",
+    "meaning": "This cake has a refined sweetness."
+  },
+  {
+    "sentence": "彼はその味を忘れられない。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】を忘【わす】れられない。",
+    "meaning": "He cannot forget that taste."
+  },
+  {
+    "sentence": "この料理は酸味が効いている。",
+    "sentence_furigana": "この料理【りょうり】は酸味【さんみ】が効【き】いている。",
+    "meaning": "This dish has a pronounced sourness."
+  },
+  {
+    "sentence": "彼女は新しい味に挑戦するのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい味【あじ】に挑戦【ちょうせん】するのが好【す】きだ。",
+    "meaning": "She likes to try new flavors."
+  },
+  {
+    "sentence": "このソースは甘みがある。",
+    "sentence_furigana": "このソース は甘み【あまみ】がある。",
+    "meaning": "This sauce has sweetness."
+  },
+  {
+    "sentence": "彼はその味に感動した。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】に感動【かんどう】した。",
+    "meaning": "He was moved by that taste."
+  },
+  {
+    "sentence": "このお茶は渋みがある。",
+    "sentence_furigana": "このお茶【ちゃ】は渋み【しぶみ】がある。",
+    "meaning": "This tea has astringency."
+  },
+  {
+    "sentence": "彼女は料理の味を評価する。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の味【あじ】を評価【ひょうか】する。",
+    "meaning": "She evaluates the taste of food."
+  },
+  {
+    "sentence": "このスパイスは刺激的な味を加える。",
+    "sentence_furigana": "このスパイス は刺激的【しげきてき】な味【あじ】を加【くわ】える。",
+    "meaning": "This spice adds a stimulating flavor."
+  },
+  {
+    "sentence": "彼は伝統的な味を大切にしている。",
+    "sentence_furigana": "彼【かれ】は伝統的【でんとうてき】な味【あじ】を大切【たいせつ】にしている。",
+    "meaning": "He cherishes traditional flavors."
+  },
+  {
+    "sentence": "この果物は香りが良い。",
+    "sentence_furigana": "この果物【くだもの】は香【かお】りが良【よ】い。",
+    "meaning": "This fruit smells good."
+  },
+  {
+    "sentence": "彼女は料理の味付けを工夫している。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の味付【あじつ】けを工夫【くふう】している。",
+    "meaning": "She is devising ways to season the food."
+  },
+  {
+    "sentence": "このパンはバターの風味が豊かだ。",
+    "sentence_furigana": "このパン はバターの風味【ふうみ】が豊【ゆた】かだ。",
+    "meaning": "This bread is rich in butter flavor."
+  },
+  {
+    "sentence": "彼は繊細な味の違いがわかる。",
+    "sentence_furigana": "彼【かれ】は繊細【せんさい】な味【あじ】の違い【ちが】いがわかる。",
+    "meaning": "He can discern subtle differences in taste."
+  },
+  {
+    "sentence": "このスープはコクのある味わいだ。",
+    "sentence_furigana": "このスープ はコクのある味わい【あじわい】だ。",
+    "meaning": "This soup has a rich flavor."
+  },
+  {
+    "sentence": "彼女は新しい味のレシピを開発している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい味【あじ】のレシピを開発【かいはつ】している。",
+    "meaning": "She is developing new flavor recipes."
+  },
+  {
+    "sentence": "この地域は豊かな食文化を持っている。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな食文化【しょくぶんか】を持【も】っている。",
+    "meaning": "This region has a rich food culture."
+  },
+  {
+    "sentence": "彼はその味に衝撃を受けた。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】に衝撃【しょうげき】を受【う】けた。",
+    "meaning": "He was shocked by that taste."
+  },
+  {
+    "sentence": "この料理は酸味と辛味のバランスが良い。",
+    "sentence_furigana": "この料理【りょうり】は酸味【さんみ】と辛味【からみ】のバランスが良い。",
+    "meaning": "This dish has a good balance of sourness and spiciness."
+  },
+  {
+    "sentence": "彼女は料理の味を客観的に評価する。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の味【あじ】を客観的【きゃっかんてき】に評価【ひょうか】する。",
+    "meaning": "She objectively evaluates the taste of food."
+  },
+  {
+    "sentence": "この調味料は独特の風味を加える。",
+    "sentence_furigana": "この調味料【ちょうみりょう】は独特【どくとく】の風味【ふうみ】を加【くわ】える。",
+    "meaning": "This seasoning adds a unique flavor."
+  },
+  {
+    "sentence": "彼は古い味を懐かしむ。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い味【あじ】を懐【なつ】かしむ。",
+    "meaning": "He misses old flavors."
+  },
+  {
+    "sentence": "このお菓子はほどよい甘さだ。",
+    "sentence_furigana": "このお菓子【かし】はほどよい甘【あま】さだ。",
+    "meaning": "This confection has a moderate sweetness."
+  },
+  {
+    "sentence": "彼女は新しい味の体験を求めている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい味【あじ】の体験【たいけん】を求【もと】めている。",
+    "meaning": "She is seeking new taste experiences."
+  },
+  {
+    "sentence": "このカレーは野菜の旨味が凝縮されている。",
+    "sentence_furigana": "このカレー は野菜【やさい】の旨味【うまみ】が凝縮【ぎょうしゅく】されている。",
+    "meaning": "The umami of the vegetables is concentrated in this curry."
+  },
+  {
+    "sentence": "彼はその味の虜になった。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】の虜【とりこ】になった。",
+    "meaning": "He became addicted to that taste."
+  },
+  {
+    "sentence": "この料理は素材の味を最大限に引き出している。",
+    "sentence_furigana": "この料理【りょうり】は素材【そざい】の味【あじ】を最大限【さいだいげん】に引【ひ】き出【だ】している。",
+    "meaning": "This dish maximizes the flavor of the ingredients."
+  },
+  {
+    "sentence": "彼女は繊細な味覚を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な味覚【みかく】を持【も】っている。",
+    "meaning": "She possesses a delicate palate."
+  },
+  {
+    "sentence": "このワインは複雑な味覚を持っている。",
+    "sentence_furigana": "このワイン は複雑【ふくざつ】な味覚【みかく】を持【も】っている。",
+    "meaning": "This wine has a complex flavor profile."
+  },
+  {
+    "sentence": "彼は苦い経験から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】は苦【にが】い経験【けいけん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned much from bitter experiences."
+  },
+  {
+    "sentence": "この味噌汁は出汁の味がしっかりしている。",
+    "sentence_furigana": "この味噌汁【みそしる】は出汁【だし】の味【あじ】がしっかりしている。",
+    "meaning": "This miso soup has a robust dashi flavor."
+  },
+  {
+    "sentence": "彼女はコーヒーの味にこだわる。",
+    "sentence_furigana": "彼女【かのじょ】はコーヒーの味【あじ】にこだわる。",
+    "meaning": "She is fastidious about coffee taste."
+  },
+  {
+    "sentence": "このケーキは上品な甘さだ。",
+    "sentence_furigana": "このケーキ は上品【じょうひん】な甘【あま】さだ。",
+    "meaning": "This cake has an elegant sweetness."
+  },
+  {
+    "sentence": "彼はその味を忘れられない。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】を忘【わす】れられない。",
+    "meaning": "He cannot forget that taste."
+  },
+  {
+    "sentence": "この料理は酸味が効いている。",
+    "sentence_furigana": "この料理【りょうり】は酸味【さんみ】が効【き】いている。",
+    "meaning": "This dish features a prominent sourness."
+  },
+  {
+    "sentence": "彼女は新しい味に挑戦するのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい味【あじ】に挑戦【ちょうせん】するのが好【す】きだ。",
+    "meaning": "She enjoys trying new flavors."
+  },
+  {
+    "sentence": "このソースは甘みがある。",
+    "sentence_furigana": "このソース は甘み【あまみ】がある。",
+    "meaning": "This sauce has a sweet component."
+  },
+  {
+    "sentence": "彼はその味に感動した。",
+    "sentence_furigana": "彼【かれ】は その味【あじ】に感動【かんどう】した。",
+    "meaning": "He was deeply moved by the taste."
+  },
+  {
+    "sentence": "このお茶は渋みがある。",
+    "sentence_furigana": "このお茶【ちゃ】は渋み【しぶみ】がある。",
+    "meaning": "This tea has an astringent quality."
+  },
+  {
+    "sentence": "彼女は料理の味を評価する。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】の味【あじ】を評価【ひょうか】する。",
+    "meaning": "She assesses the flavor of the dishes."
+  },
+  {
+    "sentence": "このスパイスは刺激的な味を加える。",
+    "sentence_furigana": "このスパイス は刺激的【しげきてき】な味【あじ】を加【くわ】える。",
+    "meaning": "This spice imparts a stimulating flavor."
+  },
+  {
+    "sentence": "彼は伝統的な味を大切にしている。",
+    "sentence_furigana": "彼【かれ】は伝統的【でんとうてき】な味【あじ】を大切【たいせつ】にしている。",
+    "meaning": "He cherishes traditional tastes."
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "彼の職業は弁護士です。",
+    "sentence_furigana": "彼【かれ】の職業【しょくぎょう】は弁護士【べんごし】です。",
+    "meaning": "His profession is a lawyer."
+  },
+  {
+    "sentence": "仕事が忙しくて時間がありません。",
+    "sentence_furigana": "仕事【しごと】が忙【いそが】しくて時間【じかん】がありません。",
+    "meaning": "I am too busy with work to have time."
+  },
+  {
+    "sentence": "その会社は新しい事業を始めました。",
+    "sentence_furigana": "その会社【かいしゃ】は新【あたら】しい事業【じぎょう】を始【はじ】めました。",
+    "meaning": "That company started a new business."
+  },
+  {
+    "sentence": "芸術の分野で成功を収めました。",
+    "sentence_furigana": "芸術【げいじゅつ】の分野【ぶんや】で成功【せいこう】を収【おさ】めました。",
+    "meaning": "He achieved success in the field of arts."
+  },
+  {
+    "sentence": "彼女は優れた演技を披露しました。",
+    "sentence_furigana": "彼女【かのじょ】は優【すぐ】れた演技【えんぎ】を披露【ひろう】しました。",
+    "meaning": "She performed an excellent acting piece."
+  },
+  {
+    "sentence": "この仕事は大変ですがやりがいがあります。",
+    "sentence_furigana": "この仕事【しごと】は大変【たいへん】ですがやりがいがあります。",
+    "meaning": "This job is difficult, but rewarding."
+  },
+  {
+    "sentence": "政府は経済成長を促進する政策を打ち出した。",
+    "sentence_furigana": "政府【せいふ】は経済成長【けいざいせいちょう】を促進【そくしん】する政策【せいさく】を打【う】ち出【だ】しました。",
+    "meaning": "The government launched policies to promote economic growth."
+  },
+  {
+    "sentence": "彼は長年にわたる研究業績で知られています。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】にわたる研究業績【けんきゅうぎょうせき】で知【し】られています。",
+    "meaning": "He is known for his research achievements over many years."
+  },
+  {
+    "sentence": "卒業後、彼は家業を継ぐことになった。",
+    "sentence_furigana": "卒業後【そつぎょうご】、彼【かれ】は家業【かぎょう】を継【つ】ぐことになりました。",
+    "meaning": "After graduation, he took over the family business."
+  },
+  {
+    "sentence": "今日の公演は素晴らしい出来栄えでした。",
+    "sentence_furigana": "今日【きょう】の公演【こうえん】は素晴【すば】らしい出来栄【できば】えでした。",
+    "meaning": "Today's performance was a wonderful achievement."
+  },
+  {
+    "sentence": "事業の失敗により、多額の借金を背負ってしまった。",
+    "sentence_furigana": "事業【じぎょう】の失敗【しっぱい】により、多額【たがく】の借金【しゃっきん】を背負【せお】ってしまいました。",
+    "meaning": "Due to the business failure, I was burdened with a large debt."
+  },
+  {
+    "sentence": "彼は学業に専念しています。",
+    "sentence_furigana": "彼【かれ】は学業【がくぎょう】に専念【せんねん】しています。",
+    "meaning": "He is concentrating on his studies."
+  },
+  {
+    "sentence": "この演目は観客を魅了した。",
+    "sentence_furigana": "この演目【えんもく】は観客【かんきゃく】を魅了【みりょう】しました。",
+    "meaning": "This performance captivated the audience."
+  },
+  {
+    "sentence": "本業の傍ら、趣味の絵画も楽しんでいる。",
+    "sentence_furigana": "本業【ほんぎょう】の傍【かたわ】ら、趣味【しゅみ】の絵画【かいが】も楽【たの】しんでいます。",
+    "meaning": "Besides his main job, he also enjoys his hobby of painting."
+  },
+  {
+    "sentence": "彼女は幼い頃から音楽の道を志していた。",
+    "sentence_furigana": "彼女【かのじょ】は幼【おさな】い頃【ころ】から音楽【おんがく】の道【みち】を志【こころざ】していました。",
+    "meaning": "She aspired to a career in music from a young age."
+  },
+  {
+    "sentence": "その会社は多くの事業を展開している。",
+    "sentence_furigana": "その会社【かいしゃ】は多【おお】くの事業【じぎょう】を展開【てんかい】しています。",
+    "meaning": "That company is developing many businesses."
+  },
+  {
+    "sentence": "これは彼の長年の努力の結果です。",
+    "sentence_furigana": "これ は 彼【かれ】の長年【ながねん】の努力【どりょく】の結果【けっか】です。",
+    "meaning": "This is the result of his many years of effort."
+  },
+  {
+    "sentence": "彼は教師としての職務を全うした。",
+    "sentence_furigana": "彼【かれ】は教師【きょうし】としての職務【しょくむ】を全【まっと】うしました。",
+    "meaning": "He fulfilled his duties as a teacher."
+  },
+  {
+    "sentence": "この劇場では様々な演劇が上演されている。",
+    "sentence_furigana": "この劇場【げきじょう】では様々【さまざま】な演劇【えんげき】が上演【じょうえん】されています。",
+    "meaning": "Various plays are performed in this theater."
+  },
+  {
+    "sentence": "社会福祉に貢献することは私の使命です。",
+    "sentence_furigana": "社会福祉【しゃかいふくし】に貢献【こうけん】することは私【わたし】の使命【しめい】です。",
+    "meaning": "Contributing to social welfare is my mission."
+  },
+  {
+    "sentence": "彼は新しい事業計画を立案した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業計画【じぎょうけいかく】を立案【りつあん】しました。",
+    "meaning": "He formulated a new business plan."
+  },
+  {
+    "sentence": "この作品は彼の芸術的才能を示している。",
+    "sentence_furigana": "この作品【さくひん】は彼【かれ】の芸術的才能【げいじゅつてきさいのう】を示【しめ】しています。",
+    "meaning": "This work shows his artistic talent."
+  },
+  {
+    "sentence": "彼は厳しい修行を積んだ。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい修行【しゅぎょう】を積【つ】みました。",
+    "meaning": "He underwent rigorous training."
+  },
+  {
+    "sentence": "副業としてウェブサイト制作を始めた。",
+    "sentence_furigana": "副業【ふくぎょう】としてウェブサイト制作【せいさく】を始【はじ】めました。",
+    "meaning": "I started website production as a side job."
+  },
+  {
+    "sentence": "彼女は職業訓練を受けている。",
+    "sentence_furigana": "彼女【かのじょ】は職業訓練【しょくぎょうくんれん】を受【う】けています。",
+    "meaning": "She is receiving vocational training."
+  },
+  {
+    "sentence": "この工場では多くの製品が製造されている。",
+    "sentence_furigana": "この工場【こうじょう】では多【おお】くの製品【せいひん】が製造【せいぞう】されています。",
+    "meaning": "Many products are manufactured in this factory."
+  },
+  {
+    "sentence": "彼は事業を拡大する計画を立てている。",
+    "sentence_furigana": "彼【かれ】は事業【じぎょう】を拡大【かくだい】する計画【けいかく】を立【た】てています。",
+    "meaning": "He is planning to expand the business."
+  },
+  {
+    "sentence": "この演劇は歴史的な出来事を描いている。",
+    "sentence_furigana": "この演劇【えんげき】は歴史的【れきしてき】な出来事【できごと】を描【えが】いています。",
+    "meaning": "This play depicts a historical event."
+  },
+  {
+    "sentence": "彼は大学で芸術史を専攻した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で芸術史【げいじゅつし】を専攻【せんこう】しました。",
+    "meaning": "He majored in art history at university."
+  },
+  {
+    "sentence": "彼女は家業を手伝っている。",
+    "sentence_furigana": "彼女【かのじょ】は家業【かぎょう】を手伝【てつだ】っています。",
+    "meaning": "She is helping with the family business."
+  },
+  {
+    "sentence": "この新しい事業は成功するだろうか。",
+    "sentence_furigana": "この新【あたら】しい事業【じぎょう】は成功【せいこう】するだろうか。",
+    "meaning": "Will this new business be successful?"
+  },
+  {
+    "sentence": "彼の仕事ぶりは称賛に値する。",
+    "sentence_furigana": "彼【かれ】の仕事ぶり【しごとぶり】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "His work ethic is worthy of praise."
+  },
+  {
+    "sentence": "この芸術作品は非常に高価だ。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は非常【ひじょう】に高価【こうか】だ。",
+    "meaning": "This work of art is very expensive."
+  },
+  {
+    "sentence": "彼は数々の難事業を成し遂げてきた。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の難事業【なんじぎょう】を成【な】し遂【と】げてきた。",
+    "meaning": "He has accomplished numerous difficult tasks."
+  },
+  {
+    "sentence": "このパフォーマンスは観客を熱狂させた。",
+    "sentence_furigana": "このパフォーマンスは観客【かんきゃく】を熱狂【ねっきょう】させました。",
+    "meaning": "This performance enthralled the audience."
+  },
+  {
+    "sentence": "彼は副業でアクセサリーを作っている。",
+    "sentence_furigana": "彼【かれ】は副業【ふくぎょう】でアクセサリーを作【つく】っています。",
+    "meaning": "He makes accessories as a side business."
+  },
+  {
+    "sentence": "この職業は高い専門知識を必要とする。",
+    "sentence_furigana": "この職業【しょくぎょう】は高【たか】い専門知識【せんもんちしき】を必要【ひつよう】とする。",
+    "meaning": "This profession requires high specialized knowledge."
+  },
+  {
+    "sentence": "彼女は幼い頃から舞踊の道を歩んできた。",
+    "sentence_furigana": "彼女【かのじょ】は幼【おさな】い頃【ころ】から舞踊【ぶよう】の道【みち】を歩【あゆ】んできた。",
+    "meaning": "She has pursued dance since she was young."
+  },
+  {
+    "sentence": "このプロジェクトは多くの困難を伴った。",
+    "sentence_furigana": "このプロジェクトは多【おお】くの困難【こんなん】を伴【ともな】った。",
+    "meaning": "This project involved many difficulties."
+  },
+  {
+    "sentence": "彼の業績は高く評価されている。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は高【たか】く評価【ひょうか】されている。",
+    "meaning": "His achievements are highly evaluated."
+  },
+  {
+    "sentence": "この事業は地域経済に貢献している。",
+    "sentence_furigana": "この事業【じぎょう】は地域経済【ちいきけいざい】に貢献【こうけん】しています。",
+    "meaning": "This business contributes to the local economy."
+  },
+  {
+    "sentence": "彼は演技の勉強をしている。",
+    "sentence_furigana": "彼【かれ】は演技【えんぎ】の勉強【べんきょう】をしています。",
+    "meaning": "He is studying acting."
+  },
+  {
+    "sentence": "この芸術祭には多くの人々が訪れた。",
+    "sentence_furigana": "この芸術祭【げいじゅつさい】には多【おお】くの人々【ひとびと】が訪【おとず】れた。",
+    "meaning": "Many people visited this art festival."
+  },
+  {
+    "sentence": "彼は会社を設立し、事業を興した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】を設立【せつりつ】し、事業【じぎょう】を興【おこ】した。",
+    "meaning": "He founded a company and started a business."
+  },
+  {
+    "sentence": "彼女は職業婦人として自立している。",
+    "sentence_furigana": "彼女【かのじょ】は職業婦人【しょくぎょうふじん】として自立【じりつ】しています。",
+    "meaning": "She is independent as a working woman."
+  },
+  {
+    "sentence": "この仕事はやりがいがあるが、長時間労働だ。",
+    "sentence_furigana": "この仕事【しごと】はやりがいがあるが、長時間労働【ちょうじかんろうどう】だ。",
+    "meaning": "This job is rewarding but involves long working hours."
+  },
+  {
+    "sentence": "彼は演劇界で大きな成功を収めた。",
+    "sentence_furigana": "彼【かれ】は演劇界【えんげきかい】で大【おお】きな成功【せいこう】を収【おさ】めた。",
+    "meaning": "He achieved great success in the theater world."
+  },
+  {
+    "sentence": "彼女は芸術を愛し、多くの時間をそれに費やしている。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】を愛【あい】し、多【おお】くの時間【じかん】をそれに費【つい】やしています。",
+    "meaning": "She loves art and spends a lot of time on it."
+  },
+  {
+    "sentence": "この事業は順調に進んでいる。",
+    "sentence_furigana": "この事業【じぎょう】は順調【じゅんちょう】に進【すす】んでいる。",
+    "meaning": "This business is progressing smoothly."
+  },
+  {
+    "sentence": "彼は実業家として成功した。",
+    "sentence_furigana": "彼【かれ】は実業家【じつぎょうか】として成功【せいこう】した。",
+    "meaning": "He succeeded as a businessman."
+  },
+  {
+    "sentence": "この職務は責任が重い。",
+    "sentence_furigana": "この職務【しょくむ】は責任【せきにん】が重【おも】い。",
+    "meaning": "This duty carries heavy responsibility."
+  },
+  {
+    "sentence": "彼女は長年、歌手として活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】、歌手【かしゅ】として活躍【かつやく】している。",
+    "meaning": "She has been active as a singer for many years."
+  },
+  {
+    "sentence": "この度の事業展開は地域に貢献するものです。",
+    "sentence_furigana": "この度【このたび】の事業展開【じぎょうてんかい】は地域【ちいき】に貢献【こうけん】するものです。",
+    "meaning": "This business development contributes to the region."
+  },
+  {
+    "sentence": "彼は事業の成功のために尽力した。",
+    "sentence_furigana": "彼【かれ】は事業【じぎょう】の成功【せいこう】のためにつくした。",
+    "meaning": "He worked hard for the success of the business."
+  },
+  {
+    "sentence": "彼女は芸術大学を卒業した。",
+    "sentence_furigana": "彼女【かのじょ】は芸術大学【げいじゅつだいがく】を卒業【そつぎょう】した。",
+    "meaning": "She graduated from an art university."
+  },
+  {
+    "sentence": "この仕事はやりがいがある。",
+    "sentence_furigana": "この仕事【しごと】はやりがいがある。",
+    "meaning": "This job is rewarding."
+  },
+  {
+    "sentence": "彼の演技は観客を魅了した。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】は観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "His performance captivated the audience."
+  },
+  {
+    "sentence": "この事業は多くの雇用を生み出している。",
+    "sentence_furigana": "この事業【じぎょう】は多【おお】くの雇用【こよう】を生【う】み出【だ】しています。",
+    "meaning": "This business creates a lot of employment."
+  },
+  {
+    "sentence": "彼女はプロのパフォーマーを目指している。",
+    "sentence_furigana": "彼女【かのじょ】はプロのパフォーマーを目指【めざ】しています。",
+    "meaning": "She aims to be a professional performer."
+  },
+  {
+    "sentence": "この職業はやりがいがありますか。",
+    "sentence_furigana": "この職業【しょくぎょう】はやりがいがありますか。",
+    "meaning": "Is this profession rewarding?"
+  },
+  {
+    "sentence": "彼は新しい事業分野に進出した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業分野【じぎょうぶんや】に進出【しんしゅつ】した。",
+    "meaning": "He advanced into a new business field."
+  },
+  {
+    "sentence": "芸術は人間の精神を豊かにする。",
+    "sentence_furigana": "芸術【げいじゅつ】は人間【にんげん】の精神【せいしん】を豊【ゆた】かにする。",
+    "meaning": "Art enriches the human spirit."
+  },
+  {
+    "sentence": "彼の業績は会社の発展に貢献した。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は会社【かいしゃ】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "His achievements contributed to the company's development."
+  },
+  {
+    "sentence": "彼女は本業に加えて、副業も行っている。",
+    "sentence_furigana": "彼女【かのじょ】は本業【ほんぎょう】に加【くわ】え、副業【ふくぎょう】も行【おこな】っている。",
+    "meaning": "In addition to her main job, she also does side work."
+  },
+  {
+    "sentence": "この仕事は楽ではないが、誇りを持っている。",
+    "sentence_furigana": "この仕事【しごと】は楽【らく】ではないが、誇【ほこ】りを持【も】っている。",
+    "meaning": "This job is not easy, but I am proud of it."
+  },
+  {
+    "sentence": "彼のパフォーマンスは観客に感動を与えた。",
+    "sentence_furigana": "彼【かれ】のパフォーマンスは観客【かんきゃく】に感動【かんどう】を与【あた】えた。",
+    "meaning": "His performance moved the audience."
+  },
+  {
+    "sentence": "この事業は大きく成長した。",
+    "sentence_furigana": "この事業【じぎょう】は大【おお】きく成長【せいちょう】した。",
+    "meaning": "This business has grown significantly."
+  },
+  {
+    "sentence": "彼女は芸術家として生計を立てている。",
+    "sentence_furigana": "彼女【かのじょ】は芸術家【げいじゅつか】として生計【せいけい】を立【た】てている。",
+    "meaning": "She makes a living as an artist."
+  },
+  {
+    "sentence": "彼は職業上の問題を解決した。",
+    "sentence_furigana": "彼【かれ】は職業上【しょくぎょうじょう】の問題【もんだい】を解決【かいけつ】した。",
+    "meaning": "He resolved the occupational issue."
+  },
+  {
+    "sentence": "この事業は多くのリスクを伴う。",
+    "sentence_furigana": "この事業【じぎょう】は多【おお】くのリスクを伴【ともな】う。",
+    "meaning": "This business involves many risks."
+  },
+  {
+    "sentence": "彼女は長年の努力が実を結び、事業を成功させた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の努力【どりょく】が実【み】を結【むす】び、事業【じぎょう】を成功【せいこう】させた。",
+    "meaning": "Her many years of effort paid off, and she succeeded in business."
+  },
+  {
+    "sentence": "彼は芸術の道を追求する。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】の道【みち】を追求【ついきゅう】する。",
+    "meaning": "He pursues the path of art."
+  },
+  {
+    "sentence": "この仕事はやりがいがあると思います。",
+    "sentence_furigana": "この仕事【しごと】はやりがいがあると思【おも】います。",
+    "meaning": "I think this job is rewarding."
+  },
+  {
+    "sentence": "彼女は演技の才能に恵まれている。",
+    "sentence_furigana": "彼女【かのじょ】は演技【えんぎ】の才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "She is blessed with acting talent."
+  },
+  {
+    "sentence": "この事業は地域社会に貢献している。",
+    "sentence_furigana": "この事業【じぎょう】は地域社会【ちいきしゃかい】に貢献【こうけん】している。",
+    "meaning": "This business contributes to the local community."
+  },
+  {
+    "sentence": "彼は実業で財を成した。",
+    "sentence_furigana": "彼【かれ】は実業【じつぎょう】で財【ざい】を成【な】した。",
+    "meaning": "He made a fortune in business."
+  },
+  {
+    "sentence": "この職務は高い専門性を要求する。",
+    "sentence_furigana": "この職務【しょくむ】は高【たか】い専門性【せんもんせい】を要求【ようきゅう】する。",
+    "meaning": "This duty demands high expertise."
+  },
+  {
+    "sentence": "彼女は舞踊家として世界的に有名だ。",
+    "sentence_furigana": "彼女【かのじょ】は舞踊家【ぶようか】として世界的【せかいてき】に有名【ゆうめい】だ。",
+    "meaning": "She is world-famous as a dancer."
+  },
+  {
+    "sentence": "この事業は多くの投資を集めている。",
+    "sentence_furigana": "この事業【じぎょう】は多【おお】くの投資【とうし】を集【あつ】めている。",
+    "meaning": "This business is attracting a lot of investment."
+  },
+  {
+    "sentence": "彼の芸術活動は多岐にわたる。",
+    "sentence_furigana": "彼【かれ】の芸術活動【げいじゅつかつどう】は多岐【たき】にわたる。",
+    "meaning": "His artistic activities are diverse."
+  },
+  {
+    "sentence": "この仕事は経験を積むことでスキルアップにつながる。",
+    "sentence_furigana": "この仕事【しごと】は経験【けいけん】を積【つ】むことでスキルアップにつながる。",
+    "meaning": "This job leads to skill improvement through gaining experience."
+  },
+  {
+    "sentence": "彼女は職業訓練校で学んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は職業訓練校【しょくぎょうくんれんこう】で学【まな】んでいる。",
+    "meaning": "She is studying at a vocational school."
+  },
+  {
+    "sentence": "この事業は地域経済の活性化に寄与している。",
+    "sentence_furigana": "この事業【じぎょう】は地域経済【ちいきけいざい】の活性化【かっせいか】に寄与【きよ】している。",
+    "meaning": "This business contributes to the revitalization of the local economy."
+  },
+  {
+    "sentence": "彼は長年の夢であった起業を果たした。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】であった起業【きぎょう】を果た【はた】した。",
+    "meaning": "He achieved his long-held dream of starting a business."
+  },
+  {
+    "sentence": "彼女の演技は観る者に深い感動を与えた。",
+    "sentence_furigana": "彼女【かのじょ】の演技【えんぎ】は観【み】る者【もの】に深【ふか】い感動【かんどう】を与【あた】えた。",
+    "meaning": "Her performance gave the viewers a deep impression."
+  },
+  {
+    "sentence": "この芸術作品は非常に独創的だ。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は非常【ひじょう】に独創的【どくそうてき】だ。",
+    "meaning": "This work of art is very original."
+  },
+  {
+    "sentence": "彼は家業を継ぐために戻ってきた。",
+    "sentence_furigana": "彼【かれ】は家業【かぎょう】を継【つ】ぐために戻【もど】ってきた。",
+    "meaning": "He returned to take over the family business."
+  },
+  {
+    "sentence": "この事業は海外にも展開している。",
+    "sentence_furigana": "この事業【じぎょう】は海外【かいがい】にも展開【てんかい】しています。",
+    "meaning": "This business also operates overseas."
+  },
+  {
+    "sentence": "彼女は職業上の倫理を守っている。",
+    "sentence_furigana": "彼女【かのじょ】は職業上【しょくぎょうじょう】の倫理【りんり】を守【まも】っています。",
+    "meaning": "She adheres to professional ethics."
+  },
+  {
+    "sentence": "この仕事は非常にやりがいがある。",
+    "sentence_furigana": "この仕事【しごと】は非常【ひじょう】にやりがいがある。",
+    "meaning": "This job is very rewarding."
+  },
+  {
+    "sentence": "彼の事業は順調に拡大している。",
+    "sentence_furigana": "彼【かれ】の事業【じぎょう】は順調【じゅんちょう】に拡大【かくだい】している。",
+    "meaning": "His business is expanding smoothly."
+  },
+  {
+    "sentence": "彼女は芸術の道を歩み続ける。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】の道【みち】を歩【あゆ】み続【つづ】ける。",
+    "meaning": "She continues to walk the path of art."
+  },
+  {
+    "sentence": "この仕事は社会に貢献できる。",
+    "sentence_furigana": "この仕事【しごと】は社会【しゃかい】に貢献【こうけん】できる。",
+    "meaning": "This work can contribute to society."
+  },
+  {
+    "sentence": "彼は新しい事業を立ち上げた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業【じぎょう】を立【た】ち上【あ】げた。",
+    "meaning": "He launched a new business."
+  },
+  {
+    "sentence": "彼女は職業を転々としている。",
+    "sentence_furigana": "彼女【かのじょ】は職業【しょくぎょう】を転々【てんてん】としている。",
+    "meaning": "She is changing jobs frequently."
+  },
+  {
+    "sentence": "この芸術展は多くの来場者があった。",
+    "sentence_furigana": "この芸術展【げいじゅつてん】は多【おお】くの来場者【らいじょうしゃ】があった。",
+    "meaning": "This art exhibition had many visitors."
+  },
+  {
+    "sentence": "彼は学業とアルバイトを両立させている。",
+    "sentence_furigana": "彼【かれ】は学業【がくぎょう】とアルバイトを両立【りょうりつ】させている。",
+    "meaning": "He balances his studies with his part-time job."
+  },
+  {
+    "sentence": "この事業の成功は多くの人の努力の結果です。",
+    "sentence_furigana": "この事業【じぎょう】の成功【せいこう】は多【おお】くの人【ひと】の努力【どりょく】の結果【けっか】です。",
+    "meaning": "The success of this business is the result of many people's efforts."
+  },
+  {
+    "sentence": "彼女は職業人として高い意識を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は職業人【しょくぎょうじん】として高【たか】い意識【いしき】を持【も】っている。",
+    "meaning": "She has a high level of consciousness as a professional."
+  },
+  {
+    "sentence": "この仕事は社会貢献につながる。",
+    "sentence_furigana": "この仕事【しごと】は社会貢献【しゃかいこうけん】につながる。",
+    "meaning": "This work leads to social contribution."
+  },
+  {
+    "sentence": "彼は事業の多角化を進めている。",
+    "sentence_furigana": "彼【かれ】は事業【じぎょう】の多角化【たかくか】を進【すす】めている。",
+    "meaning": "He is diversifying his business."
+  },
+  {
+    "sentence": "彼女は芸術に関する深い知識を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】に関する深【ふか】い知識【ちしき】を持【も】っている。",
+    "meaning": "She has deep knowledge about art."
+  },
+  {
+    "sentence": "このパフォーマンスは観客に大きな感動を与えた。",
+    "sentence_furigana": "このパフォーマンスは観客【かんきゃく】に大【おお】きな感動【かんどう】を与【あた】えた。",
+    "meaning": "This performance gave the audience great emotion."
+  },
+  {
+    "sentence": "彼は職業倫理を重視している。",
+    "sentence_furigana": "彼【かれ】は職業倫理【しょくぎょうりんり】を重視【じゅうし】しています。",
+    "meaning": "He emphasizes professional ethics."
+  },
+  {
+    "sentence": "この事業は持続可能な発展を目指している。",
+    "sentence_furigana": "この事業【じぎょう】は持続可能【じぞくかのう】な発展【はってん】を目指【めざ】しています。",
+    "meaning": "This business aims for sustainable development."
+  },
+  {
+    "sentence": "彼女は長年の努力が実を結び、事業を成功させた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の努力【どりょく】が実【み】を結【むす】び、事業【じぎょう】を成功【せいこう】させた。",
+    "meaning": "Her many years of effort paid off, and she succeeded in business."
+  },
+  {
+    "sentence": "彼の芸術的才能は誰もが認めるところだ。",
+    "sentence_furigana": "彼【かれ】の芸術的才能【げいじゅつてきさいのう】は誰【だれ】もが認【みと】めるところだ。",
+    "meaning": "Everyone acknowledges his artistic talent."
+  },
+  {
+    "sentence": "この仕事は非常にやりがいがあると感じています。",
+    "sentence_furigana": "この仕事【しごと】は非常【ひじょう】にやりがいがあると感じ【かんじ】ています。",
+    "meaning": "I feel that this job is very rewarding."
+  },
+  {
+    "sentence": "彼は職業訓練を受けて技能を向上させた。",
+    "sentence_furigana": "彼【かれ】は職業訓練【しょくぎょうくんれん】を受【う】けて技能【ぎのう】を向上【こうじょう】させました。",
+    "meaning": "He received vocational training and improved his skills."
+  }
+]

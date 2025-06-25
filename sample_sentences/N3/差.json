@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "この二つの絵の差を見つけてください。",
+    "sentence_furigana": "この二【に】つの絵【え】の差【さ】を見【み】つけてください。",
+    "meaning": "Please find the difference between these two pictures."
+  },
+  {
+    "sentence": "年齢の差はありますが、仲良くやっています。",
+    "sentence_furigana": "年齢【ねんれい】の差【さ】はありますが、仲良【なかよ】くやっています。",
+    "meaning": "There is an age difference, but we get along well."
+  },
+  {
+    "sentence": "成績に大きな差が出た。",
+    "sentence_furigana": "成績【せいせき】に大【おお】きな差【さ】が出【で】た。",
+    "meaning": "A large difference appeared in the grades."
+  },
+  {
+    "sentence": "わずかな差でも勝負は決まる。",
+    "sentence_furigana": "わずかな差【さ】でも勝負【しょうぶ】は決【き】まる。",
+    "meaning": "The outcome of the game is decided even by a small margin."
+  },
+  {
+    "sentence": "両者の意見の間に違いはありません。",
+    "sentence_furigana": "両者【りょうしゃ】の意見【いけん】の間【あいだ】に違【ちが】いはありません。",
+    "meaning": "There is no difference between the opinions of the two parties."
+  },
+  {
+    "sentence": "その店の商品の質に差があるようだ。",
+    "sentence_furigana": "その店【みせ】の商品【しょうひん】の質【しつ】に差【さ】があるようです。",
+    "meaning": "There seems to be a variation in the quality of the products at that store."
+  },
+  {
+    "sentence": "彼の説明には矛盾する点が見られた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】には矛盾【むじゅん】する点【てん】が見【み】られた。",
+    "meaning": "Contradictory points were observed in his explanation."
+  },
+  {
+    "sentence": "誤差の範囲は許容できる。",
+    "sentence_furigana": "誤差【ごさ】の範囲【はんい】は許容【きょよう】できる。",
+    "meaning": "The margin of error is acceptable."
+  },
+  {
+    "sentence": "男女間の賃金の差は依然として問題だ。",
+    "sentence_furigana": "男女間【だんじょかん】の賃金【ちんぎん】の差【さ】は依然【いぜん】として問題【もんだい】だ。",
+    "meaning": "The wage gap between men and women remains a problem."
+  },
+  {
+    "sentence": "この二つの技術には明白な違いがある。",
+    "sentence_furigana": "この二【ふた】つの技術【ぎじゅつ】には明白【めいはく】な違【ちが】いがある。",
+    "meaning": "There is a clear difference between these two technologies."
+  },
+  {
+    "sentence": "温度の差が激しい。",
+    "sentence_furigana": "温度【おんど】の差【さ】が激【はげ】しい。",
+    "meaning": "The temperature difference is severe."
+  },
+  {
+    "sentence": "調査結果には顕著な差が見られた。",
+    "sentence_furigana": "調査結果【ちょうさけっか】には顕著【けんちょ】な差【さ】が見【み】られた。",
+    "meaning": "A notable difference was observed in the survey results."
+  },
+  {
+    "sentence": "その二人の間には相当な力量の差がある。",
+    "sentence_furigana": "その二人【ふたり】の間【あいだ】には相当【そうとう】な力量【りきりょう】の差【さ】がある。",
+    "meaning": "There is a considerable difference in skill between those two people."
+  },
+  {
+    "sentence": "その差別は許されない。",
+    "sentence_furigana": "その差別【さべつ】は許【ゆる】されない。",
+    "meaning": "That discrimination is unforgivable."
+  },
+  {
+    "sentence": "わずかな差が結果を大きく左右する。",
+    "sentence_furigana": "わずかな差【さ】が結果【けっか】を大【おお】きく左右【さゆう】する。",
+    "meaning": "A small difference greatly influences the outcome."
+  },
+  {
+    "sentence": "価格の差について説明します。",
+    "sentence_furigana": "価格【かかく】の差【さ】について説明【せつめい】します。",
+    "meaning": "I will explain the difference in price."
+  },
+  {
+    "sentence": "両者の身長の差はあまりない。",
+    "sentence_furigana": "両者【りょうしゃ】の身長【しんちょう】の差【さ】はあまりない。",
+    "meaning": "There isn't much difference in height between the two."
+  },
+  {
+    "sentence": "この製品は品質にばらつきがある。",
+    "sentence_furigana": "この製品【せいひん】は品質【ひんしつ】にばらつきがある。",
+    "meaning": "This product has variations in quality."
+  },
+  {
+    "sentence": "二つのチームの実力に差はない。",
+    "sentence_furigana": "二【ふた】つのチームの実力【じつりょく】に差【さ】はない。",
+    "meaning": "There is no difference in the abilities of the two teams."
+  },
+  {
+    "sentence": "彼の主張には一定の道理がある。",
+    "sentence_furigana": "彼【かれ】の主張【しゅちょう】には一定【いってい】の道理【どうり】がある。",
+    "meaning": "There is a certain reason in his assertion."
+  },
+  {
+    "sentence": "この二つのものの違いを説明できますか。",
+    "sentence_furigana": "この二【ふた】つのもの違【ちが】いを説明【せつめい】できますか。",
+    "meaning": "Can you explain the difference between these two things?"
+  },
+  {
+    "sentence": "わずかな差で勝利を逃した。",
+    "sentence_furigana": "わずかな差【さ】で勝利【しょうり】を逃【のが】した。",
+    "meaning": "We missed victory by a small margin."
+  },
+  {
+    "sentence": "彼らは人種差別に対して反対している。",
+    "sentence_furigana": "彼【かれ】らは人種差別【じんしゅさべつ】に対【たい】して反対【はんたい】している。",
+    "meaning": "They are against racial discrimination."
+  },
+  {
+    "sentence": "品質の差が価格に反映されている。",
+    "sentence_furigana": "品質【ひんしつ】の差【さ】が価格【かかく】に反映【はんえい】されている。",
+    "meaning": "The difference in quality is reflected in the price."
+  },
+  {
+    "sentence": "その差は無視できない。",
+    "sentence_furigana": "その差【さ】は無視【むし】できない。",
+    "meaning": "That difference cannot be ignored."
+  },
+  {
+    "sentence": "時間の経過と共に状況は変化する。",
+    "sentence_furigana": "時間【じかん】の経過【けいか】と共【とも】に状況【じょうきょう】は変化【へんか】する。",
+    "meaning": "The situation changes with the passage of time."
+  },
+  {
+    "sentence": "測定値にかなりの差があった。",
+    "sentence_furigana": "測定値【そくていち】にかなりの差【さ】があった。",
+    "meaning": "There was a considerable difference in the measured values."
+  },
+  {
+    "sentence": "彼らの意見の食い違いは大きかった。",
+    "sentence_furigana": "彼【かれ】らの意見【いけん】の食違【くいちが】いは大【おお】きかった。",
+    "meaning": "The discrepancy in their opinions was large."
+  },
+  {
+    "sentence": "この小説は原作と大きく異なる。",
+    "sentence_furigana": "この小説【しょうせつ】は原作【げんさく】と大【おお】きく異【こと】なる。",
+    "meaning": "This novel is very different from the original work."
+  },
+  {
+    "sentence": "努力の差が結果を生む。",
+    "sentence_furigana": "努力【どりょく】の差【さ】が結果【けっか】を生【う】む。",
+    "meaning": "The difference in effort produces results."
+  },
+  {
+    "sentence": "地域によって物価に差がある。",
+    "sentence_furigana": "地域【ちいき】によって物価【ぶっか】に差【さ】がある。",
+    "meaning": "There are price differences depending on the region."
+  },
+  {
+    "sentence": "その弁護士は非常に優秀だ。",
+    "sentence_furigana": "その弁護士【べんごし】は非常【ひじょう】に優秀【ゆうしゅう】だ。",
+    "meaning": "That lawyer is extremely talented."
+  },
+  {
+    "sentence": "年齢差を乗り越えて結婚した。",
+    "sentence_furigana": "年齢差【ねんれいさ】を乗【の】り越【こ】えて結婚【けっこん】した。",
+    "meaning": "They overcame the age difference and got married."
+  },
+  {
+    "sentence": "性能の差は明白です。",
+    "sentence_furigana": "性能【せいのう】の差【さ】は明白【めいはく】です。",
+    "meaning": "The difference in performance is clear."
+  },
+  {
+    "sentence": "その違いは取るに足りない。",
+    "sentence_furigana": "その違【ちが】いは取【と】るに足【た】りない。",
+    "meaning": "That difference is negligible."
+  },
+  {
+    "sentence": "学力差を埋めるための教育支援が必要だ。",
+    "sentence_furigana": "学力差【がくりょくさ】を埋【う】めるための教育支援【きょういくしえん】が必要【ひつよう】だ。",
+    "meaning": "Educational support is needed to bridge the academic gap."
+  },
+  {
+    "sentence": "彼は人とのコミュニケーションに長けている。",
+    "sentence_furigana": "彼【かれ】は人【ひと】とのコミュニケーションに長【た】けている。",
+    "meaning": "He is skilled at communicating with people."
+  },
+  {
+    "sentence": "結果に多少の差が生じた。",
+    "sentence_furigana": "結果【けっか】に多少【たしょう】の差【さ】が生【しょう】じた。",
+    "meaning": "A slight difference occurred in the results."
+  },
+  {
+    "sentence": "その差額をお支払いください。",
+    "sentence_furigana": "その差額【さがく】をお支払【しはら】いください。",
+    "meaning": "Please pay the difference."
+  },
+  {
+    "sentence": "世代間の意識の差は大きい。",
+    "sentence_furigana": "世代間【せだいかん】の意識【いしき】の差【さ】は大きい。",
+    "meaning": "The difference in consciousness between generations is large."
+  },
+  {
+    "sentence": "彼の意見は私の考えと大きく異なっている。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は私【わたし】の考【かんが】えと大【おお】きく異【こと】なっている。",
+    "meaning": "His opinion greatly differs from my thoughts."
+  },
+  {
+    "sentence": "この二つの商品の違いを教えてください。",
+    "sentence_furigana": "この二【ふた】つの商品【しょうひん】の違【ちが】いを教【おし】えてください。",
+    "meaning": "Please tell me the difference between these two products."
+  },
+  {
+    "sentence": "その僅かな差が勝敗を分けた。",
+    "sentence_furigana": "その僅【わず】かな差【さ】が勝敗【しょうはい】を分【わ】けた。",
+    "meaning": "That slight difference decided the victory or defeat."
+  },
+  {
+    "sentence": "貧富の差が社会問題となっている。",
+    "sentence_furigana": "貧富【ひんぷ】の差【さ】が社会問題【しゃかいもんだい】となっている。",
+    "meaning": "The gap between rich and poor has become a social problem."
+  },
+  {
+    "sentence": "この地図には実際の地形との差があります。",
+    "sentence_furigana": "この地図【ちず】には実際【じっさい】の地形【ちけい】との差【さ】があります。",
+    "meaning": "This map has a difference from the actual terrain."
+  },
+  {
+    "sentence": "彼は同僚との関係に良好な差をつけている。",
+    "sentence_furigana": "彼【かれ】は同僚【どうりょう】との関係【かんけい】に良好【りょうこう】な差【さ】をつけている。",
+    "meaning": "He has a good distinction in his relationship with his colleagues."
+  },
+  {
+    "sentence": "その差は無視できるほど小さい。",
+    "sentence_furigana": "その差【さ】は無視【むし】できるほど小【ちい】さい。",
+    "meaning": "That difference is small enough to be ignored."
+  },
+  {
+    "sentence": "彼の作品は独自性が際立っている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は独自性【どくじせい】が際立【きわだ】っている。",
+    "meaning": "His work stands out for its originality."
+  },
+  {
+    "sentence": "この二つの単語の意味の違いは何ですか。",
+    "sentence_furigana": "この二【ふた】つの単語【たんご】の意味【いみ】の違【ちが】いは何【なん】ですか。",
+    "meaning": "What is the difference in meaning between these two words?"
+  },
+  {
+    "sentence": "わずかな差でゴールを決められなかった。",
+    "sentence_furigana": "わずかな差【さ】でゴールを決【き】められなかった。",
+    "meaning": "I couldn't score the goal due to a small difference."
+  },
+  {
+    "sentence": "その差別は社会の進歩を妨げる。",
+    "sentence_furigana": "その差別【さべつ】は社会【しゃかい】の進歩【しんぽ】を妨【さまた】げる。",
+    "meaning": "That discrimination hinders social progress."
+  },
+  {
+    "sentence": "品質のばらつきをなくす努力をしている。",
+    "sentence_furigana": "品質【ひんしつ】のばらつきをなくす努力【どりょく】をしている。",
+    "meaning": "We are making efforts to eliminate variations in quality."
+  },
+  {
+    "sentence": "その差は経済的な要因によるものだ。",
+    "sentence_furigana": "その差【さ】は経済的【けいざいてき】な要因【よういん】によるものだ。",
+    "meaning": "That difference is due to economic factors."
+  },
+  {
+    "sentence": "彼は他の選手と比べて一段違うレベルにある。",
+    "sentence_furigana": "彼【かれ】は他【た】の選手【せんしゅ】と比【くら】べて一段【いちだん】違【ちが】うレベルにある。",
+    "meaning": "He is on a different level compared to other athletes."
+  },
+  {
+    "sentence": "温度差が激しいため、体調を崩しやすい。",
+    "sentence_furigana": "温度差【おんどさ】が激【はげ】しいため、体調【たいちょう】を崩【くず】しやすい。",
+    "meaning": "Due to the severe temperature difference, it's easy to fall ill."
+  },
+  {
+    "sentence": "そのプロジェクトの成功には多くの要素が関わっている。",
+    "sentence_furigana": "そのプロジェクトの成功【せいこう】には多【おお】くの要素【ようそ】が関【かか】わっている。",
+    "meaning": "Many factors are involved in the success of that project."
+  },
+  {
+    "sentence": "彼の発言は意図的な誤解を生む可能性がある。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は意図的【いとてき】な誤解【ごかい】を生【う】む可能性【かのうせい】がある。",
+    "meaning": "His statement may cause intentional misunderstanding."
+  },
+  {
+    "sentence": "この二つの製品の間には、性能に違いがあります。",
+    "sentence_furigana": "この二【ふた】つの製品【せいひん】の間【あいだ】には、性能【せいのう】に違【ちが】いがあります。",
+    "meaning": "There is a difference in performance between these two products."
+  },
+  {
+    "sentence": "彼の貢献は他のメンバーと一線を画している。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は他【た】のメンバーと一線【いっせん】を画【かく】している。",
+    "meaning": "His contribution sets him apart from other members."
+  },
+  {
+    "sentence": "わずかな時間の差で電車を逃してしまった。",
+    "sentence_furigana": "わずかな時間【じかん】の差【さ】で電車【でんしゃ】を逃【のが】してしまった。",
+    "meaning": "I missed the train by a small margin of time."
+  },
+  {
+    "sentence": "男女間の賃金格差を解消する必要がある。",
+    "sentence_furigana": "男女間【だんじょかん】の賃金格差【ちんぎんかくさ】を解消【かいしょう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to resolve the wage gap between men and women."
+  },
+  {
+    "sentence": "その違いは、我々が理解すべき重要な点です。",
+    "sentence_furigana": "その違【ちが】いは、我々【われわれ】が理解【りかい】すべき重要【じゅうよう】な点【てん】です。",
+    "meaning": "That difference is an important point that we should understand."
+  },
+  {
+    "sentence": "測定誤差を考慮して結果を分析した。",
+    "sentence_furigana": "測定誤差【そくていごさ】を考慮【こうりょ】して結果【けっか】を分析【ぶんせき】した。",
+    "meaning": "The results were analyzed considering the measurement error."
+  },
+  {
+    "sentence": "この二つの物語は登場人物に共通点がある。",
+    "sentence_furigana": "この二【ふた】つの物語【ものがたり】は登場人物【とうじょうじんぶつ】に共通点【きょうつうてん】がある。",
+    "meaning": "These two stories have commonalities in their characters."
+  },
+  {
+    "sentence": "彼の言葉遣いは丁寧で、相手に好印象を与える。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは丁寧【ていねい】で、相手【あいて】に好印象【こういんしょう】を与【あた】える。",
+    "meaning": "His way of speaking is polite and gives a good impression to others."
+  },
+  {
+    "sentence": "わずかな違いが、最終的な結果に大きな影響を与えることがある。",
+    "sentence_furigana": "わずかな違【ちが】いが、最終的【さいしゅうてき】な結果【けっか】に大【おお】きな影響【えいきょう】を与【あた】えることがある。",
+    "meaning": "Slight differences can have a significant impact on the final outcome."
+  },
+  {
+    "sentence": "この服装の差は、彼の立場を表している。",
+    "sentence_furigana": "この服装【ふくそう】の差【さ】は、彼【かれ】の立場【たちば】を表【あらわ】している。",
+    "meaning": "This difference in attire represents his position."
+  },
+  {
+    "sentence": "その二つの意見の間には、認識のずれがあった。",
+    "sentence_furigana": "その二【ふた】つの意見【いけん】の間【あいだ】には、認識【にんしき】のずがあった。",
+    "meaning": "There was a discrepancy in perception between those two opinions."
+  },
+  {
+    "sentence": "彼らの成績にはかなりの差が見られた。",
+    "sentence_furigana": "彼【かれ】らの成績【せいせき】にはかなりの差【さ】が見【み】られた。",
+    "meaning": "A considerable difference was observed in their grades."
+  },
+  {
+    "sentence": "その差は、個々の努力の違いによる。",
+    "sentence_furigana": "その差【さ】は、個々【ここ】の努力【どりょく】の違い【ちが】いによる。",
+    "meaning": "That difference is due to the difference in individual effort."
+  },
+  {
+    "sentence": "この差は、将来的に大きな問題になる可能性がある。",
+    "sentence_furigana": "この差【さ】は、将来的【しょうらいてき】に大【おお】きな問題【もんだい】になる可能性【かのうせい】がある。",
+    "meaning": "This difference may become a big problem in the future."
+  },
+  {
+    "sentence": "彼らは目標達成に向けて差を詰めている。",
+    "sentence_furigana": "彼【かれ】らは目標達成【もくひょうたっせい】に向けて【む】けて差【さ】を詰【つ】めている。",
+    "meaning": "They are closing the gap towards achieving their goals."
+  },
+  {
+    "sentence": "この二つの機械の性能には大きな違いがある。",
+    "sentence_furigana": "この二【ふた】つの機械【きかい】の性能【せいのう】には大【おお】きな違【ちが】いがある。",
+    "meaning": "There is a large difference in the performance of these two machines."
+  },
+  {
+    "sentence": "その些細な違いが、最終的な印象を決定づける。",
+    "sentence_furigana": "その些細【ささい】な違【ちが】いが、最終的【さいしゅうてき】な印象【いんしょう】を決定【けってい】づける。",
+    "meaning": "That minor difference determines the final impression."
+  },
+  {
+    "sentence": "その差は、教育制度の違いに起因する。",
+    "sentence_furigana": "その差【さ】は、教育制度【きょういくせいど】の違い【ちが】いに起因【きいん】する。",
+    "meaning": "That difference stems from differences in the education system."
+  },
+  {
+    "sentence": "彼の発言は、他の意見とは一線を画していた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、他【た】の意見【いけん】とは一線【いっせん】を画【かく】していた。",
+    "meaning": "His statement was distinct from other opinions."
+  },
+  {
+    "sentence": "わずかな差でも、勝敗を分けることがある。",
+    "sentence_furigana": "わずかな差【さ】でも、勝敗【しょうはい】を分【わ】けることがある。",
+    "meaning": "Even a small difference can sometimes decide victory or defeat."
+  },
+  {
+    "sentence": "その違いは、文化的な背景によるものだ。",
+    "sentence_furigana": "その違【ちが】いは、文化的【ぶんかてき】な背景【はいけい】によるものだ。",
+    "meaning": "That difference is due to cultural background."
+  },
+  {
+    "sentence": "彼は人脈の差を活かして成功した。",
+    "sentence_furigana": "彼【かれ】は人脈【じんみゃく】の差【さ】を活【い】かして成功【せいこう】した。",
+    "meaning": "He succeeded by leveraging the difference in his connections."
+  },
+  {
+    "sentence": "この二つの製品の仕様には、ほとんど差がない。",
+    "sentence_furigana": "この二【ふた】つの製品【せいひん】の仕様【しよう】には、ほとんど差【さ】がない。",
+    "meaning": "There is almost no difference in the specifications of these two products."
+  },
+  {
+    "sentence": "その差額は、計算間違いによるものです。",
+    "sentence_furigana": "その差額【さがく】は、計算間違【けいさんまちが】いによるものです。",
+    "meaning": "That difference is due to a calculation error."
+  },
+  {
+    "sentence": "彼の話は、いつも興味深い点が異なっている。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は、いつも興味深【きょうみぶか】い点【てん】が異【こと】なっている。",
+    "meaning": "His stories always have interesting points that differ."
+  },
+  {
+    "sentence": "この地域では、季節による気温差が大きい。",
+    "sentence_furigana": "この地域【ちいき】では、季節【きせつ】による気温差【きおんさ】が大【おお】きい。",
+    "meaning": "In this region, the temperature difference due to the seasons is large."
+  },
+  {
+    "sentence": "その差は、個人の才能の違いによるものかもしれない。",
+    "sentence_furigana": "その差【さ】は、個人【こじん】の才能【さいのう】の違い【ちが】いによるものかもしれない。",
+    "meaning": "That difference might be due to differences in individual talent."
+  },
+  {
+    "sentence": "彼らは、経験の差を埋めるためにトレーニングを積んでいる。",
+    "sentence_furigana": "彼【かれ】らは、経験【けいけん】の差【さ】を埋【う】めるためにトレーニングを積【つ】んでいる。",
+    "meaning": "They are accumulating training to bridge the gap in experience."
+  },
+  {
+    "sentence": "この二つのモデルの違いを説明してください。",
+    "sentence_furigana": "この二【ふた】つのモデルの違い【ちが】いを説明【せつめい】してください。",
+    "meaning": "Please explain the difference between these two models."
+  },
+  {
+    "sentence": "そのわずかな差が、最終的な品質を決定づけた。",
+    "sentence_furigana": "そのわずかな差【さ】が、最終的【さいしゅうてき】な品質【ひんしつ】を決定【けってい】づけた。",
+    "meaning": "That slight difference determined the final quality."
+  },
+  {
+    "sentence": "彼の意見は、一般的な見解とは一線を画している。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は、一般的【いっぱんてき】な見解【けんかい】とは一線【いっせん】を画【かく】している。",
+    "meaning": "His opinion is distinct from the general view."
+  },
+  {
+    "sentence": "その差は、個人のスキルレベルの違いを示している。",
+    "sentence_furigana": "その差【さ】は、個人【こじん】のスキルレベルの違い【ちが】いを示【しめ】している。",
+    "meaning": "That difference indicates the difference in individual skill levels."
+  },
+  {
+    "sentence": "わずかな誤差が、実験結果に大きな影響を与える。",
+    "sentence_furigana": "わずかな誤差【ごさ】が、実験結果【じっけんけっか】に大【おお】きな影響【えいきょう】を与【あた】える。",
+    "meaning": "Slight errors have a significant impact on experimental results."
+  },
+  {
+    "sentence": "その差別は、社会に深い傷跡を残した。",
+    "sentence_furigana": "その差別【さべつ】は、社会【しゃかい】に深【ふか】い傷跡【きずあと】を残【のこ】した。",
+    "meaning": "That discrimination left deep scars on society."
+  },
+  {
+    "sentence": "彼らは経験の差を努力でカバーした。",
+    "sentence_furigana": "彼【かれ】らは経験【けいけん】の差【さ】を努力【どりょく】でカバーした。",
+    "meaning": "They covered the difference in experience with effort."
+  },
+  {
+    "sentence": "この二つの色は微妙な違いがある。",
+    "sentence_furigana": "この二【ふた】つの色【いろ】は微妙【びみょう】な違【ちが】いがある。",
+    "meaning": "These two colors have a subtle difference."
+  },
+  {
+    "sentence": "その差額は、当初の予定と異なります。",
+    "sentence_furigana": "その差額【さがく】は、当初【とうしょ】の予定【よてい】と異なります【ことなります】。",
+    "meaning": "The difference in amount differs from the initial plan."
+  },
+  {
+    "sentence": "彼の発想は、既存のものとは一線を画している。",
+    "sentence_furigana": "彼【かれ】の発想【はっそう】は、既存【きそん】のものとは一線【いっせん】を画【かく】している。",
+    "meaning": "His ideas are distinct from existing ones."
+  },
+  {
+    "sentence": "わずかな差でも、満足度に大きく影響する。",
+    "sentence_furigana": "わずかな差【さ】でも、満足度【まんぞくど】に大【おお】きく影響【えいきょう】する。",
+    "meaning": "Even a small difference greatly affects satisfaction."
+  },
+  {
+    "sentence": "その違いは、個人の能力の差によるものだ。",
+    "sentence_furigana": "その違【ちが】いは、個人【こじん】の能力【のうりょく】の差【さ】によるものだ。",
+    "meaning": "That difference is due to the difference in individual abilities."
+  },
+  {
+    "sentence": "彼らは目標の達成度において差が見られた。",
+    "sentence_furigana": "彼【かれ】らは目標【もくひょう】の達成度【たっせいど】において差【さ】が見【み】られた。",
+    "meaning": "A difference was observed in their degree of goal achievement."
+  },
+  {
+    "sentence": "この製品は、他社製品と比べて大きな特徴がある。",
+    "sentence_furigana": "この製品【せいひん】は、他社製品【たしゃせいひん】と比【くら】べて大【おお】きな特徴【とくちょう】がある。",
+    "meaning": "This product has a significant feature compared to competitors' products."
+  },
+  {
+    "sentence": "その差は、長年の努力の積み重ねによるものだろう。",
+    "sentence_furigana": "その差【さ】は、長年【ながねん】の努力【どりょく】の積【つ】み重【かさ】ねによるものだろう。",
+    "meaning": "That difference is likely due to the accumulation of many years of effort."
+  },
+  {
+    "sentence": "彼は、周囲との差を縮めるために懸命に努力している。",
+    "sentence_furigana": "彼【かれ】は、周囲【しゅうい】との差【さ】を縮【ちぢ】めるために懸命【けんめい】に努力【どりょく】している。",
+    "meaning": "He is working hard to close the gap with those around him."
+  },
+  {
+    "sentence": "この二つのシステムには、互換性の違いがあります。",
+    "sentence_furigana": "この二【ふた】つのシステムには、互換性【ごかんせい】の違【ちが】いがあります。",
+    "meaning": "There is a difference in compatibility between these two systems."
+  }
+]

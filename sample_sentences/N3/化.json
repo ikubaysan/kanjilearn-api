@@ -1,0 +1,562 @@
+[
+  {
+    "sentence": "変化は避けられないものです。",
+    "sentence_furigana": "変化【へんか】は避【さ】けられないものです。",
+    "meaning": "Change is unavoidable."
+  },
+  {
+    "sentence": "化学は物質の変化を研究する学問です。",
+    "sentence_furigana": "化学【かがく】は物質【ぶっしつ】の変化【へんか】を研究【けんきゅう】する学問【がくもん】です。",
+    "meaning": "Chemistry is the study of changes in matter."
+  },
+  {
+    "sentence": "彼は医者になるために努力しました。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】になるために努力【どりょく】しました。",
+    "meaning": "He worked hard to become a doctor."
+  },
+  {
+    "sentence": "文化の違いを理解することが大切です。",
+    "sentence_furigana": "文化【ぶんか】の違い【ちがい】を理解【りかい】することが大切【たいせつ】です。",
+    "meaning": "It is important to understand cultural differences."
+  },
+  {
+    "sentence": "この薬は症状を和らげる効果があります。",
+    "sentence_furigana": "この薬【くすり】は症状【しょうじょう】を和【やわ】らげる効果【こうか】があります。",
+    "meaning": "This medicine has the effect of alleviating symptoms."
+  },
+  {
+    "sentence": "自然災害は私たちの生活に大きな影響を与えます。",
+    "sentence_furigana": "自然災害【しぜんさいがい】は私【わたし】たちの生活【せいかつ】に大【おお】きな影響【えいきょう】を与【あた】えます。",
+    "meaning": "Natural disasters have a great impact on our lives."
+  },
+  {
+    "sentence": "新しい技術は社会を変革します。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】は社会【しゃかい】を変革【へんかく】します。",
+    "meaning": "New technologies transform society."
+  },
+  {
+    "sentence": "子供たちはすぐに大きくなります。",
+    "sentence_furigana": "子供【こども】たちはすぐに大【おお】きくなります。",
+    "meaning": "Children grow up quickly."
+  },
+  {
+    "sentence": "彼の話はとても面白く、聞く人を魅了しました。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はとても面白【おもしろ】く、聞【き】く人【ひと】を魅了【みりょう】しました。",
+    "meaning": "His story was very interesting and captivated the listeners."
+  },
+  {
+    "sentence": "彼女は化粧品で美しく変身しました。",
+    "sentence_furigana": "彼女【かのじょ】は化粧品【けしょうひん】で美【うつく】しく変身【へんしん】しました。",
+    "meaning": "She transformed beautifully with cosmetics."
+  },
+  {
+    "sentence": "この石は光を受けると輝きます。",
+    "sentence_furigana": "この石【いし】は光【ひかり】を受【う】けると輝【かがや】きます。",
+    "meaning": "This stone shines when exposed to light."
+  },
+  {
+    "sentence": "人類は進化の過程を経て現在に至りました。",
+    "sentence_furigana": "人類【じんるい】は進化【しんか】の過程【かてい】を経【へ】て現在【げんざい】に至【いた】りました。",
+    "meaning": "Humanity has reached the present through the process of evolution."
+  },
+  {
+    "sentence": "彼の態度の変化に戸惑いました。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】の変化【へんか】に戸惑【とまど】いました。",
+    "meaning": "I was confused by the change in his attitude."
+  },
+  {
+    "sentence": "この地域の経済は急速に発展しています。",
+    "sentence_furigana": "この地域【ちいき】の経済【けいざい】は急速【きゅうそく】に発展【はってん】しています。",
+    "meaning": "The economy of this region is developing rapidly."
+  },
+  {
+    "sentence": "彼の言葉は私に大きな影響を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】に大【おお】きな影響【えいきょう】を与【あた】えた。",
+    "meaning": "His words had a great impact on me."
+  },
+  {
+    "sentence": "彼女の見た目はすっかり変わった。",
+    "sentence_furigana": "彼女【かのじょ】の見た目【みため】はすっかり変【か】わった。",
+    "meaning": "Her appearance has completely changed."
+  },
+  {
+    "sentence": "社会制度の改革が必要です。",
+    "sentence_furigana": "社会制度【しゃかいせいど】の改革【かいかく】が必要です【ひつよう】。",
+    "meaning": "Reform of the social system is necessary."
+  },
+  {
+    "sentence": "彼はまるで別人のように振る舞った。",
+    "sentence_furigana": "彼【かれ】はまるで別人物【べつじんぶつ】のように振舞【ふるま】った。",
+    "meaning": "He acted as if he were a different person."
+  },
+  {
+    "sentence": "この薬は副作用を起こす可能性があります。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】を起こ【お】こす可能性【かのうせい】があります。",
+    "meaning": "This medicine may cause side effects."
+  },
+  {
+    "sentence": "環境問題への取り組みが求められている。",
+    "sentence_furigana": "環境問題【かんきょうもんだい】への取【と】り組【く】みが求【もと】められている。",
+    "meaning": "Efforts towards environmental problems are required."
+  },
+  {
+    "sentence": "彼の顔には喜びの変化が見られた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には喜【よろこ】びの変化【へんか】が見【み】られた。",
+    "meaning": "A change of joy was seen on his face."
+  },
+  {
+    "sentence": "彼女は芸術家として開花した。",
+    "sentence_furigana": "彼女【かのじょ】は芸術家【げいじゅつか】として開花【かいか】した。",
+    "meaning": "She blossomed as an artist."
+  },
+  {
+    "sentence": "その事件は多くの人々に影響を与えた。",
+    "sentence_furigana": "その事件【じけん】は多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "The incident affected many people."
+  },
+  {
+    "sentence": "私たちは常に変化に対応しなければならない。",
+    "sentence_furigana": "私【わたし】たちは常【つね】に変化【へんか】に対応【たいおう】しなければならない。",
+    "meaning": "We must always adapt to change."
+  },
+  {
+    "sentence": "彼の才能は次第に開花していった。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は次第【しだい】に開花【かいか】していった。",
+    "meaning": "His talent gradually blossomed."
+  },
+  {
+    "sentence": "この法案は社会に大きな変化をもたらすだろう。",
+    "sentence_furigana": "この法案【ほうあん】は社会【しゃかい】に大【おお】きな変化【へんか】をもたらすだろう。",
+    "meaning": "This bill will bring about great changes in society."
+  },
+  {
+    "sentence": "彼は自分の意見を曲げなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を曲【ま】げなかった。",
+    "meaning": "He did not bend his own opinion."
+  },
+  {
+    "sentence": "そのニュースは多くの人々を感動させた。",
+    "sentence_furigana": "そのニュースは多【おお】くの人々【ひとびと】を感動【かんどう】させた。",
+    "meaning": "The news moved many people."
+  },
+  {
+    "sentence": "彼は大学で経済学を専攻した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で経済学【けいざいがく】を専攻【せんこう】した。",
+    "meaning": "He majored in economics at university."
+  },
+  {
+    "sentence": "この技術革新は産業構造を大きく変えるだろう。",
+    "sentence_furigana": "この技術革新【ぎじゅつかくしん】は産業構造【さんぎょうこうぞう】を大【おお】きく変【か】えるだろう。",
+    "meaning": "This technological innovation will greatly change the industrial structure."
+  },
+  {
+    "sentence": "彼女は演技の才能が豊かだ。",
+    "sentence_furigana": "彼女【かのじょ】は演技【えんぎ】の才能【さいのう】が豊【ゆた】かだ。",
+    "meaning": "She has a rich talent for acting."
+  },
+  {
+    "sentence": "この地域は近年著しい発展を遂げている。",
+    "sentence_furigana": "この地域【ちいき】は近年【きねん】著【いちじる】しい発展【はってん】を遂【と】げている。",
+    "meaning": "This region has achieved remarkable development in recent years."
+  },
+  {
+    "sentence": "彼は不思議な力を持っていた。",
+    "sentence_furigana": "彼【かれ】は不思議【ふしぎ】な力【ちから】を持【も】っていた。",
+    "meaning": "He possessed a mysterious power."
+  },
+  {
+    "sentence": "環境保護への意識を高めることが重要だ。",
+    "sentence_furigana": "環境保護【かんきょうほご】への意識【いしき】を高【たか】めることが重要【じゅうよう】だ。",
+    "meaning": "It is important to raise awareness of environmental protection."
+  },
+  {
+    "sentence": "この法改正は国民生活に大きな影響を与えるだろう。",
+    "sentence_furigana": "この法改正【ほうかいせい】は国民生活【こくみんせいかつ】に大【おお】きな影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "This legal amendment will have a significant impact on people's lives."
+  },
+  {
+    "sentence": "彼は子供の頃、とても活発だった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、とても活発【かっぱつ】だった。",
+    "meaning": "He was very active as a child."
+  },
+  {
+    "sentence": "彼女の努力はついに実を結んだ。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】はついに実【み】を結【むす】んだ。",
+    "meaning": "Her efforts finally bore fruit."
+  },
+  {
+    "sentence": "このウイルスは急速に変異している。",
+    "sentence_furigana": "このウイルスは急速【きゅうそく】に変異【へんい】している。",
+    "meaning": "This virus is rapidly mutating."
+  },
+  {
+    "sentence": "彼の歌声は多くの人々を魅了した。",
+    "sentence_furigana": "彼【かれ】の歌声【うたごえ】は多【おお】くの人々【ひとびと】を魅了【みりょう】した。",
+    "meaning": "His singing voice captivated many people."
+  },
+  {
+    "sentence": "この小説は読者を感動させる力を持っている。",
+    "sentence_furigana": "この小説【しょうせつ】は読者【どくしゃ】を感動【かんどう】させる力【ちから】を持【も】っている。",
+    "meaning": "This novel has the power to move readers."
+  },
+  {
+    "sentence": "彼は常に自己改善を目指している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己改善【じこかいぜん】を目指【めざ】している。",
+    "meaning": "He is always aiming for self-improvement."
+  },
+  {
+    "sentence": "化石燃料の使用を削減する必要がある。",
+    "sentence_furigana": "化石燃料【かせきねんりょう】の使用【しよう】を削減【さくげん】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to reduce the use of fossil fuels."
+  },
+  {
+    "sentence": "彼女は舞台で輝きを放っていた。",
+    "sentence_furigana": "彼女【かのじょ】は舞台【ぶたい】で輝【かがや】きを放【はな】っていた。",
+    "meaning": "She was shining on stage."
+  },
+  {
+    "sentence": "この法律は社会に大きな変化をもたらすでしょう。",
+    "sentence_furigana": "この法律【ほうりつ】は社会【しゃかい】に大【おお】きな変化【へんか】をもたらすでしょう。",
+    "meaning": "This law will bring about significant changes in society."
+  },
+  {
+    "sentence": "彼はそのアイデアに魅了された。",
+    "sentence_furigana": "彼【かれ】はそのアイデアに魅了【みりょう】された。",
+    "meaning": "He was fascinated by the idea."
+  },
+  {
+    "sentence": "この教育改革は子供たちの未来を変えるだろう。",
+    "sentence_furigana": "この教育改革【きょういくかいかく】は子供【こども】たちの未来【みらい】を変【か】えるだろう。",
+    "meaning": "This educational reform will change the future of children."
+  },
+  {
+    "sentence": "彼の貢献は広く認められている。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は広【ひろ】く認【みと】められている。",
+    "meaning": "His contributions are widely recognized."
+  },
+  {
+    "sentence": "彼女は魔法のような声を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は魔法【まほう】のような声【こえ】を持【も】っていた。",
+    "meaning": "She had a magical voice."
+  },
+  {
+    "sentence": "この新しい政策は国民生活にプラスの効果をもたらすだろう。",
+    "sentence_furigana": "この新【あたら】しい政策【せいさく】は国民生活【こくみんせいかつ】にプラスの効果【こうか】をもたらすだろう。",
+    "meaning": "This new policy will bring positive effects to people's lives."
+  },
+  {
+    "sentence": "彼は自分の能力を過信していた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】を過信【かしん】していた。",
+    "meaning": "He overestimated his abilities."
+  },
+  {
+    "sentence": "この地域は経済成長の著しい変化を遂げている。",
+    "sentence_furigana": "この地域【ちいき】は経済成長【けいざいせいちょう】の著【いちじる】しい変化【へんか】を遂【と】げている。",
+    "meaning": "This region is undergoing remarkable changes in economic growth."
+  },
+  {
+    "sentence": "彼女の変身ぶりには驚かされた。",
+    "sentence_furigana": "彼女【かのじょ】の変身【へんしん】ぶりには驚【おどろ】かされた。",
+    "meaning": "I was surprised by her transformation."
+  },
+  {
+    "sentence": "この改革は社会全体に影響を与えるだろう。",
+    "sentence_furigana": "この改革【かいかく】は社会全体【しゃかいぜんたい】に影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "This reform will affect society as a whole."
+  },
+  {
+    "sentence": "彼は人を惑わすような話し方をする。",
+    "sentence_furigana": "彼【かれ】は人【ひと】を惑【まど】わすような話【はな】し方【かた】をする。",
+    "meaning": "He has a way of speaking that can mislead people."
+  },
+  {
+    "sentence": "化学変化の法則を学ぶ。",
+    "sentence_furigana": "化学変化【かがくへんか】の法則【ほうそく】を学【まな】ぶ。",
+    "meaning": "Learn the laws of chemical change."
+  },
+  {
+    "sentence": "彼女の才能は幼い頃から開花していた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は幼【おさな】い頃【ころ】から開花【かいか】していた。",
+    "meaning": "Her talent blossomed from a young age."
+  },
+  {
+    "sentence": "この技術は私たちの生活を便利に変えました。",
+    "sentence_furigana": "この技術【ぎじゅつ】は私【わたし】たちの生活【せいかつ】を便利【べんり】に変【か】えました。",
+    "meaning": "This technology has changed our lives for the better."
+  },
+  {
+    "sentence": "彼の振る舞いは周りの人々に良い影響を与えた。",
+    "sentence_furigana": "彼【かれ】の振舞【ふるま】いは周【まわ】りの人々【ひとびと】に良【よ】い影響【えいきょう】を与【あた】えた。",
+    "meaning": "His behavior had a positive impact on those around him."
+  },
+  {
+    "sentence": "この変化は避けられない未来の兆候です。",
+    "sentence_furigana": "この変化【へんか】は避【さ】けられない未来【みらい】の兆候【ちょうこう】です。",
+    "meaning": "This change is a sign of the unavoidable future."
+  },
+  {
+    "sentence": "彼女は変幻自在な演技を見せた。",
+    "sentence_furigana": "彼女【かのじょ】は変幻自在【へんげんじざい】な演技【えんぎ】を見【み】せた。",
+    "meaning": "She showed versatile acting."
+  },
+  {
+    "sentence": "この出来事は彼の人生観を変えた。",
+    "sentence_furigana": "この出来事【できごと】は彼【かれ】の人生観【じんせいかん】を変【か】えた。",
+    "meaning": "This event changed his perspective on life."
+  },
+  {
+    "sentence": "彼の作品は多くの人を魅了する力がある。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は多【おお】くの人【ひと】を魅了【みりょう】する力【ちから】がある。",
+    "meaning": "His works have the power to captivate many people."
+  },
+  {
+    "sentence": "この新しい法律は社会に大きな変化をもたらすでしょう。",
+    "sentence_furigana": "この新【あたら】しい法律【ほうりつ】は社会【しゃかい】に大【おお】きな変化【へんか】をもたらすでしょう。",
+    "meaning": "This new law will bring about great changes in society."
+  },
+  {
+    "sentence": "彼女は新しい環境にすぐに適応した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい環境【かんきょう】にすぐに適応【てきおう】した。",
+    "meaning": "She adapted quickly to the new environment."
+  },
+  {
+    "sentence": "この変化は私たちの生活をより良くするだろう。",
+    "sentence_furigana": "この変化【へんか】は私【わたし】たちの生活【せいかつ】をより良【よ】くするだろう。",
+    "meaning": "This change will make our lives better."
+  },
+  {
+    "sentence": "彼はこの分野の第一人者として尊敬されている。",
+    "sentence_furigana": "彼【かれ】はこの分野【ぶんや】の第一人者【だいいちにんしゃ】として尊敬【そんけい】されている。",
+    "meaning": "He is respected as a leading figure in this field."
+  },
+  {
+    "sentence": "文化交流は相互理解を深める。",
+    "sentence_furigana": "文化交流【ぶんかこうりゅう】は相互理解【そうごりかい】を深【ふか】める。",
+    "meaning": "Cultural exchange deepens mutual understanding."
+  },
+  {
+    "sentence": "この薬剤は病状を改善する効果がある。",
+    "sentence_furigana": "この薬剤【やくざい】は病状【びょうじょう】を改善【かいぜん】する効果【こうか】がある。",
+    "meaning": "This medicine has the effect of improving the condition."
+  },
+  {
+    "sentence": "彼女はまるで妖精のように美しかった。",
+    "sentence_furigana": "彼女【かのじょ】はまるで妖精【ようせい】のように美【うつく】しかった。",
+    "meaning": "She was as beautiful as a fairy."
+  },
+  {
+    "sentence": "この変化は将来への希望を与えてくれる。",
+    "sentence_furigana": "この変化【へんか】は将来【しょうらい】への希望【きぼう】を与【あた】えてくれる。",
+    "meaning": "This change gives us hope for the future."
+  },
+  {
+    "sentence": "彼は自分の過去を清算した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】を清算【せいさん】した。",
+    "meaning": "He settled his past."
+  },
+  {
+    "sentence": "この技術は産業に革命をもたらした。",
+    "sentence_furigana": "この技術【ぎじゅつ】は産業【さんぎょう】に革命【かくめい】をもたらした。",
+    "meaning": "This technology brought about a revolution in industry."
+  },
+  {
+    "sentence": "彼女の歌声は聴く者の心を癒す。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は聞【き】く者【もの】の心【こころ】を癒【いや】す。",
+    "meaning": "Her singing voice heals the listener's heart."
+  },
+  {
+    "sentence": "この国の文化は多様性に富んでいる。",
+    "sentence_furigana": "この国【くに】の文化【ぶんか】は多様性【たようせい】に富【と】んでいる。",
+    "meaning": "The culture of this country is rich in diversity."
+  },
+  {
+    "sentence": "彼は変化の激しい時代を生き抜いた。",
+    "sentence_furigana": "彼【かれ】は変化【へんか】の激【はげ】しい時代【じだい】を生【い】き抜【ぬ】いた。",
+    "meaning": "He survived a period of intense change."
+  },
+  {
+    "sentence": "この新薬は病気の治療に効果がある。",
+    "sentence_furigana": "この新薬【しんやく】は病気【びょうき】の治療【ちりょう】に効果【こうか】がある。",
+    "meaning": "This new drug is effective in treating the disease."
+  },
+  {
+    "sentence": "彼女の演技は観客を魅了した。",
+    "sentence_furigana": "彼女【かのじょ】の演技【えんぎ】は観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "Her acting captivated the audience."
+  },
+  {
+    "sentence": "この परिवर्तनは大きな影響をもたらすだろう。",
+    "sentence_furigana": "この変化【へんか】は大きな影響【えいきょう】をもたらすだろう。",
+    "meaning": "This change will bring about significant effects."
+  },
+  {
+    "sentence": "彼は子供の頃から才能があった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】から才能【さいのう】があった。",
+    "meaning": "He had talent from childhood."
+  },
+  {
+    "sentence": "彼女の見た目は時の流れとともに変わった。",
+    "sentence_furigana": "彼女【かのじょ】の見た目【みため】は時【とき】の流【なが】れとともに変【か】わった。",
+    "meaning": "Her appearance changed with the passage of time."
+  },
+  {
+    "sentence": "この革新的な技術は社会を変えるだろう。",
+    "sentence_furigana": "この革新的【かくしんてき】な技術【ぎじゅつ】は社会【しゃかい】を変【か】えるだろう。",
+    "meaning": "This innovative technology will change society."
+  },
+  {
+    "sentence": "彼はその状況を巧みに利用した。",
+    "sentence_furigana": "彼【かれ】はその状況【じょうきょう】を巧【たく】みに利用【りよう】した。",
+    "meaning": "He skillfully utilized the situation."
+  },
+  {
+    "sentence": "この法案は多くの国民に影響を与えるだろう。",
+    "sentence_furigana": "この法案【ほうあん】は多【おお】くの国民【こくみん】に影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "This bill will affect many citizens."
+  },
+  {
+    "sentence": "彼女はまるで別人のように変身した。",
+    "sentence_furigana": "彼女【かのじょ】はまるで別人物【べつじんぶつ】のように変身【へんしん】した。",
+    "meaning": "She transformed as if she were a different person."
+  },
+  {
+    "sentence": "この化学反応は熱を発生させる。",
+    "sentence_furigana": "この化学反応【かがくはんのう】は熱【ねつ】を発【はっ】生【せい】させる。",
+    "meaning": "This chemical reaction generates heat."
+  },
+  {
+    "sentence": "彼の発言は多くの人々を動揺させた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は多【おお】くの人々【ひとびと】を動揺【どうよう】させた。",
+    "meaning": "His remarks caused many people to be unsettled."
+  },
+  {
+    "sentence": "彼女は環境問題に関心を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は環境問題【かんきょうもんだい】に関心【かんしん】を持【も】っている。",
+    "meaning": "She is interested in environmental issues."
+  },
+  {
+    "sentence": "この法律は社会構造に大きな変化をもたらした。",
+    "sentence_furigana": "この法律【ほうりつ】は社会構造【しゃかいこうぞう】に大【おお】きな変化【へんか】をもたらした。",
+    "meaning": "This law brought about great changes in the social structure."
+  },
+  {
+    "sentence": "彼は子供の頃、活発な少年だった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、活発【かっぱつ】な少年【しょうねん】だった。",
+    "meaning": "He was an active boy when he was a child."
+  },
+  {
+    "sentence": "彼女の貢献は地域社会に良い影響を与えた。",
+    "sentence_furigana": "彼女【かのじょ】の貢献【こうけん】は地域社会【ちいきしゃかい】に良【よ】い影響【えいきょう】を与【あた】えた。",
+    "meaning": "Her contributions had a positive impact on the local community."
+  },
+  {
+    "sentence": "この技術は私たちの働き方を大きく変えました。",
+    "sentence_furigana": "この技術【ぎじゅつ】は私【わたし】たちの働【はたら】き方【かた】を大【おお】きく変【か】えました。",
+    "meaning": "This technology has greatly changed the way we work."
+  },
+  {
+    "sentence": "彼は変化を恐れなかった。",
+    "sentence_furigana": "彼【かれ】は変化【へんか】を恐【おそ】れなかった。",
+    "meaning": "He was not afraid of change."
+  },
+  {
+    "sentence": "彼女の歌は聴衆を魅了した。",
+    "sentence_furigana": "彼女【かのじょ】の歌【うた】は聴衆【ちょうしゅう】を魅了【みりょう】した。",
+    "meaning": "Her song captivated the audience."
+  },
+  {
+    "sentence": "この変化は避けられない運命だ。",
+    "sentence_furigana": "この変化【へんか】は避【さ】けられない運命【うんめい】だ。",
+    "meaning": "This change is an unavoidable fate."
+  },
+  {
+    "sentence": "彼はその奇跡的な変化に驚嘆した。",
+    "sentence_furigana": "彼【かれ】はその奇跡的【きせきてき】な変化【へんか】に驚嘆【きょうたん】した。",
+    "meaning": "He marveled at the miraculous change."
+  },
+  {
+    "sentence": "彼女の作品は見る人を感動させる力がある。",
+    "sentence_furigana": "彼女【かのじょ】の作品【さくひん】は見【み】る人【ひと】を感動【かんどう】させる力【ちから】がある。",
+    "meaning": "Her works have the power to move viewers."
+  },
+  {
+    "sentence": "この法改正は社会にどのような影響を与えるだろうか。",
+    "sentence_furigana": "この法改正【ほうかいせい】は社会【しゃかい】にどのような影響【えいきょう】を与【あた】えるだろうか。",
+    "meaning": "What impact will this legal amendment have on society?"
+  },
+  {
+    "sentence": "彼は常に新しい知識を吸収しようとしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】しようとしている。",
+    "meaning": "He is always trying to absorb new knowledge."
+  },
+  {
+    "sentence": "彼女の美しさは時の流れによらず、変わらなかった。",
+    "sentence_furigana": "彼女【かのじょ】の美【うつく】しさは時【とき】の流【なが】れによらず、変【か】わらなかった。",
+    "meaning": "Her beauty remained unchanged despite the passage of time."
+  },
+  {
+    "sentence": "この文化変容は歴史的必然の結果だ。",
+    "sentence_furigana": "この文化変容【ぶんかへんよう】は歴史的必然【れきしてきひつぜん】の結果【けっか】だ。",
+    "meaning": "This cultural transformation is the result of historical inevitability."
+  },
+  {
+    "sentence": "彼はその出来事の衝撃から立ち直った。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】の衝撃【しょうげき】から立【た】ち直【なお】った。",
+    "meaning": "He recovered from the shock of the event."
+  },
+  {
+    "sentence": "彼女の演技は観客を熱狂させた。",
+    "sentence_furigana": "彼女【かのじょ】の演技【えんぎ】は観客【かんきゃく】を熱狂【ねっきょう】させた。",
+    "meaning": "Her acting drove the audience wild."
+  },
+  {
+    "sentence": "この変化は社会に良い影響を与えるだろう。",
+    "sentence_furigana": "この変化【へんか】は社会【しゃかい】に良【よ】い影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "This change will have a positive impact on society."
+  },
+  {
+    "sentence": "彼は常に向上心を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】っている。",
+    "meaning": "He always has ambition."
+  },
+  {
+    "sentence": "彼女の才能は多くの人を魅了する。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は多【おお】くの人【ひと】を魅了【みりょう】する。",
+    "meaning": "Her talent captivates many people."
+  },
+  {
+    "sentence": "この革命は社会に大きな変化をもたらした。",
+    "sentence_furigana": "この革命【かくめい】は社会【しゃかい】に大【おお】きな変化【へんか】をもたらした。",
+    "meaning": "This revolution brought about great changes in society."
+  },
+  {
+    "sentence": "彼はその情報に惑わされた。",
+    "sentence_furigana": "彼【かれ】はその情報【じょうほう】に惑【まど】わされた。",
+    "meaning": "He was misled by the information."
+  },
+  {
+    "sentence": "彼女は新しい環境で輝き始めた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい環境【かんきょう】で輝【かがや】き始【はじ】めた。",
+    "meaning": "She began to shine in the new environment."
+  },
+  {
+    "sentence": "この変化は私たちの生活様式を変えるだろう。",
+    "sentence_furigana": "この変化【へんか】は私【わたし】たちの生活様式【せいかつようしき】を変【か】えるだろう。",
+    "meaning": "This change will alter our lifestyle."
+  },
+  {
+    "sentence": "彼は人間的な魅力を備えている。",
+    "sentence_furigana": "彼【かれ】は人間的【にんげんてき】な魅力【みりょく】を備【そな】えている。",
+    "meaning": "He possesses human charm."
+  },
+  {
+    "sentence": "彼女の言葉は聴衆を感動させた。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は聴衆【ちょうしゅう】を感動【かんどう】させた。",
+    "meaning": "Her words moved the audience."
+  },
+  {
+    "sentence": "この国の文化は世界の文化に影響を与えている。",
+    "sentence_furigana": "この国【くに】の文化【ぶんか】は世界【せかい】の文化【ぶんか】に影響【えいきょう】を与【あた】えている。",
+    "meaning": "The culture of this country influences world culture."
+  }
+]

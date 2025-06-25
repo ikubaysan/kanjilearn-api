@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "五時になりました。",
+    "sentence_furigana": "五【いつ】時【じ】になりま【し】た。",
+    "meaning": "It is five o'clock."
+  },
+  {
+    "sentence": "五人の子供たちが公園で遊んでいます。",
+    "sentence_furigana": "五【いつ】人【にん】の子供【こども】たちが行【こう】園【えん】で遊【あそ】んでいます。",
+    "meaning": "Five children are playing in the park."
+  },
+  {
+    "sentence": "この本は五百円です。",
+    "sentence_furigana": "この本【ほん】は五百【ごひゃく】円【えん】です。",
+    "meaning": "This book costs five hundred yen."
+  },
+  {
+    "sentence": "今日の会議は午後五時に始まります。",
+    "sentence_furigana": "今日【きょう】の会議【かいぎ】は午後【ごご】五【ご】時【じ】に始【はじ】まります。",
+    "meaning": "Today's meeting starts at 5 PM."
+  },
+  {
+    "sentence": "彼女は五ヶ月前に日本に来ました。",
+    "sentence_furigana": "彼女【かのじょ】は五ヶ月【ごがつ】前【まえ】に日本【にほん】に来【き】ました。",
+    "meaning": "She came to Japan five months ago."
+  },
+  {
+    "sentence": "その店は五種類の色を取り扱っています。",
+    "sentence_furigana": "その店【みせ】は五種類【ごしゅるい】の色【いろ】を取【と】り扱【あつか】っています。",
+    "meaning": "That store handles five types of colors."
+  },
+  {
+    "sentence": "彼は五回も同じ質問をしました。",
+    "sentence_furigana": "彼【かれ】は五回【ごかい】も同【おな】じ質問【しつもん】をしました。",
+    "meaning": "He asked the same question five times."
+  },
+  {
+    "sentence": "このコースは五日間です。",
+    "sentence_furigana": "このコースは五日間【いつかかん】です。",
+    "meaning": "This course is five days long."
+  },
+  {
+    "sentence": "私の誕生日は五月五日です。",
+    "sentence_furigana": "私【わたし】の誕生日【たんじょうび】は五月【ごがつ】五日【いつか】です。",
+    "meaning": "My birthday is May 5th."
+  },
+  {
+    "sentence": "この料理は五つの材料で作られています。",
+    "sentence_furigana": "この料理【りょうり】は五【いつ】つの材料【ざいりょう】で作【つく】られています。",
+    "meaning": "This dish is made with five ingredients."
+  },
+  {
+    "sentence": "五分待ってください。",
+    "sentence_furigana": "五分【ごふん】待【ま】ってください。",
+    "meaning": "Please wait five minutes."
+  },
+  {
+    "sentence": "この箱には五枚の写真が入っています。",
+    "sentence_furigana": "この箱【はこ】には五枚【ごまい】の写真【しゃしん】が入【はい】っています。",
+    "meaning": "There are five photos in this box."
+  },
+  {
+    "sentence": "五人のチームでプロジェクトを進めます。",
+    "sentence_furigana": "五人【ごにん】のチームでプロジェクトを進【すす】めます。",
+    "meaning": "We will proceed with the project with a team of five people."
+  },
+  {
+    "sentence": "これは私の五番目のアイデアです。",
+    "sentence_furigana": "これは私【わたし】の五番目【ごばんめ】のアイデアです。",
+    "meaning": "This is my fifth idea."
+  },
+  {
+    "sentence": "五千円札が見つかりました。",
+    "sentence_furigana": "五千円札【ごせんえんさつ】が見【み】つかりました。",
+    "meaning": "A 5,000 yen bill was found."
+  },
+  {
+    "sentence": "五つの都市を訪れました。",
+    "sentence_furigana": "五【いつ】つの都市【とし】を訪【おとず】れました。",
+    "meaning": "I visited five cities."
+  },
+  {
+    "sentence": "午後の五時から会議を始めます。",
+    "sentence_furigana": "午後【ごご】の五【ご】時【じ】から会議【かいぎ】を始【はじ】めます。",
+    "meaning": "We will start the meeting from 5 PM."
+  },
+  {
+    "sentence": "この本は全部で五章あります。",
+    "sentence_furigana": "この本【ほん】は全部【ぜんぶ】で五章【ごしょう】あります。",
+    "meaning": "This book has five chapters in total."
+  },
+  {
+    "sentence": "五人家族です。",
+    "sentence_furigana": "五人家族【ごにんかぞく】です。",
+    "meaning": "It is a family of five."
+  },
+  {
+    "sentence": "五日後にまた来てください。",
+    "sentence_furigana": "五日後【いつかご】にまた来【き】てください。",
+    "meaning": "Please come again in five days."
+  },
+  {
+    "sentence": "彼の年齢は五歳です。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】は五歳【ごさい】です。",
+    "meaning": "His age is five years old."
+  },
+  {
+    "sentence": "この薬は一日五回服用してください。",
+    "sentence_furigana": "この薬【くすり】は一日【いちにち】五回【ごかい】服用【ふくよう】してください。",
+    "meaning": "Please take this medicine five times a day."
+  },
+  {
+    "sentence": "五人の友人と旅行に行きました。",
+    "sentence_furigana": "五人【ごにん】の友人【ゆうじん】と旅行【りょこう】に行【い】きました。",
+    "meaning": "I went on a trip with five friends."
+  },
+  {
+    "sentence": "このファイルは五メガバイトです。",
+    "sentence_furigana": "このファイルは五メガバイトです。",
+    "meaning": "This file is 5 megabytes."
+  },
+  {
+    "sentence": "五時過ぎに家に着きました。",
+    "sentence_furigana": "五時過【ごじす】ぎに家【いえ】に着【つ】きました。",
+    "meaning": "I arrived home after five o'clock."
+  },
+  {
+    "sentence": "五分で準備できますか？",
+    "sentence_furigana": "五分【ごふん】で準備【じゅんび】できますか？",
+    "meaning": "Can you prepare in five minutes?"
+  },
+  {
+    "sentence": "五種類の果物を買いました。",
+    "sentence_furigana": "五種類【ごしゅるい】の果物【くだもの】を買【か】いました。",
+    "meaning": "I bought five kinds of fruit."
+  },
+  {
+    "sentence": "五段の日本語を勉強しています。",
+    "sentence_furigana": "五段【ごだん】の日本語【にほんご】を勉強【べんきょう】しています。",
+    "meaning": "I am studying N5 level Japanese."
+  },
+  {
+    "sentence": "このテストは五問です。",
+    "sentence_furigana": "このテストは五問【ごもん】です。",
+    "meaning": "This test has five questions."
+  },
+  {
+    "sentence": "五年前、私はまだ学生でした。",
+    "sentence_furigana": "五年前【ごねんまえ】、私【わたし】はまだ学生【がくせい】でした。",
+    "meaning": "Five years ago, I was still a student."
+  },
+  {
+    "sentence": "五階にレストランがあります。",
+    "sentence_furigana": "五階【ごかい】にレストランがあります。",
+    "meaning": "There is a restaurant on the fifth floor."
+  },
+  {
+    "sentence": "五人の子供たちがケーキを分け合いました。",
+    "sentence_furigana": "五人【ごにん】の子供【こども】たちがケーキを分【わ】け合【あ】いました。",
+    "meaning": "The five children shared the cake."
+  },
+  {
+    "sentence": "この建物は五階建てです。",
+    "sentence_furigana": "この建物【たてもの】は五階建【ごかいだ】てです。",
+    "meaning": "This building is five stories high."
+  },
+  {
+    "sentence": "会議は五時半に終了しました。",
+    "sentence_furigana": "会議【かいぎ】は五時半【ごじはん】に終了【しゅうりょう】しました。",
+    "meaning": "The meeting ended at half past five."
+  },
+  {
+    "sentence": "五色のボールがあります。",
+    "sentence_furigana": "五色【ごしき】のボールがあります。",
+    "meaning": "There are five colored balls."
+  },
+  {
+    "sentence": "このカードは五千円の価値があります。",
+    "sentence_furigana": "このカードは五千円【ごせんえん】の価値【かち】があります。",
+    "meaning": "This card is worth 5,000 yen."
+  },
+  {
+    "sentence": "五分だけ休憩しましょう。",
+    "sentence_furigana": "五分【ごふん】だけ休憩【きゅうけい】しましょう。",
+    "meaning": "Let's take a five-minute break."
+  },
+  {
+    "sentence": "これは私の五冊目の本です。",
+    "sentence_furigana": "これは私【わたし】の五冊目【ごさつめ】の本【ほん】です。",
+    "meaning": "This is my fifth book."
+  },
+  {
+    "sentence": "五人の観客が拍手を送りました。",
+    "sentence_furigana": "五人【ごにん】の観客【かんきゃく】が拍手【はくしゅ】を送【おく】りました。",
+    "meaning": "Five spectators applauded."
+  },
+  {
+    "sentence": "五月の空は青いです。",
+    "sentence_furigana": "五月【ごがつ】の空【そら】は青【あお】いです。",
+    "meaning": "The sky in May is blue."
+  },
+  {
+    "sentence": "彼は五キロの距離を走りました。",
+    "sentence_furigana": "彼【かれ】は五キロの距離【きょり】を走【はし】りました。",
+    "meaning": "He ran a distance of five kilometers."
+  },
+  {
+    "sentence": "この薬は一日五回まで飲めます。",
+    "sentence_furigana": "この薬【くすり】は一日【いちにち】五回【ごかい】まで飲【の】めます。",
+    "meaning": "You can take this medicine up to five times a day."
+  },
+  {
+    "sentence": "五種類の花が咲いています。",
+    "sentence_furigana": "五種類【ごしゅるい】の花【はな】が咲【さ】いています。",
+    "meaning": "Five kinds of flowers are blooming."
+  },
+  {
+    "sentence": "五月晴れの気持ちの良い日です。",
+    "sentence_furigana": "五月晴【さつきば】れの気持【きも】ちの良い日【よいひ】です。",
+    "meaning": "It is a pleasant day with clear skies in May."
+  },
+  {
+    "sentence": "五人の乗客がバスに乗りました。",
+    "sentence_furigana": "五人【ごにん】の乗客【じょうきゃく】がバスに乗【の】りました。",
+    "meaning": "Five passengers got on the bus."
+  },
+  {
+    "sentence": "この料理の価格は五百円です。",
+    "sentence_furigana": "この料理【りょうり】の価格【かかく】は五百【ごひゃく】円【えん】です。",
+    "meaning": "The price of this dish is 500 yen."
+  },
+  {
+    "sentence": "五分だけお待ちいただけますか。",
+    "sentence_furigana": "五分【ごふん】だけお待ちいただけますか。",
+    "meaning": "Could you wait for just five minutes?"
+  },
+  {
+    "sentence": "五人の審査員がいました。",
+    "sentence_furigana": "五人【ごにん】の審査員【しんさ)いん】がいました。",
+    "meaning": "There were five judges."
+  },
+  {
+    "sentence": "五時ちょうどに家を出ました。",
+    "sentence_furigana": "五時ちょうど【ごじちょうど】に家【いえ】を出【で】ました。",
+    "meaning": "I left home exactly at five o'clock."
+  },
+  {
+    "sentence": "このペンは五色セットです。",
+    "sentence_furigana": "このペンは五色【ごしょく】セットです。",
+    "meaning": "This pen is a set of five colors."
+  },
+  {
+    "sentence": "五分前に到着しました。",
+    "sentence_furigana": "五分前【ごふんまえ】に到着【とうちゃく】しました。",
+    "meaning": "I arrived five minutes ago."
+  },
+  {
+    "sentence": "彼女は五回も失敗しました。",
+    "sentence_furigana": "彼女【かのじょ】は五回【ごかい】も失敗【しっぱい】しました。",
+    "meaning": "She failed five times."
+  },
+  {
+    "sentence": "五歳の子供が絵を描いています。",
+    "sentence_furigana": "五歳【ごさい】の子供【こども】が絵【え】を描【か】いています。",
+    "meaning": "A five-year-old child is drawing a picture."
+  },
+  {
+    "sentence": "五分間、目を閉じてください。",
+    "sentence_furigana": "五分間【ごふんかん】、目【め】を閉【と】じてください。",
+    "meaning": "Please close your eyes for five minutes."
+  },
+  {
+    "sentence": "五人の学生が質問しました。",
+    "sentence_furigana": "五人【ごにん】の学生【がくせい】が質問【しつもん】しました。",
+    "meaning": "Five students asked questions."
+  },
+  {
+    "sentence": "この本は五百ページあります。",
+    "sentence_furigana": "この本【ほん】は五百【ごひゃく】ページあります。",
+    "meaning": "This book has 500 pages."
+  },
+  {
+    "sentence": "五時からのバスに乗ります。",
+    "sentence_furigana": "五時【ごじ】からのバスに乗【の】ります。",
+    "meaning": "I will take the bus from 5 o'clock."
+  },
+  {
+    "sentence": "五人の友達と遊んでいます。",
+    "sentence_furigana": "五人【ごにん】の友達【ともだち】と遊【あそ】んでいます。",
+    "meaning": "I am playing with five friends."
+  },
+  {
+    "sentence": "この情報は五分で説明できます。",
+    "sentence_furigana": "この情報【じょうほう】は五分【ごふん】で説明【せつめい】できます。",
+    "meaning": "I can explain this information in five minutes."
+  },
+  {
+    "sentence": "五月の連休に旅行しました。",
+    "sentence_furigana": "五月【ごがつ】の連休【れんきゅう】に旅行【りょこう】しました。",
+    "meaning": "I traveled during the Golden Week holidays in May."
+  },
+  {
+    "sentence": "五時前に家に帰りました。",
+    "sentence_furigana": "五時前【ごじまえ】に家【いえ】に帰【かえ】りました。",
+    "meaning": "I returned home before 5 o'clock."
+  },
+  {
+    "sentence": "この商品は五千円です。",
+    "sentence_furigana": "この商品【しょうひん】は五千円【ごせんえん】です。",
+    "meaning": "This product costs 5,000 yen."
+  },
+  {
+    "sentence": "五種類の飲み物があります。",
+    "sentence_furigana": "五種類【ごしゅるい】の飲【の】み物【もの】があります。",
+    "meaning": "There are five types of drinks."
+  },
+  {
+    "sentence": "五分間話してください。",
+    "sentence_furigana": "五分間【ごふんかん】話【はな】してください。",
+    "meaning": "Please speak for five minutes."
+  },
+  {
+    "sentence": "この絵には五つの太陽が描かれています。",
+    "sentence_furigana": "この絵【え】には五【いつ】つの太陽【たいよう】が描【か】かれています。",
+    "meaning": "Five suns are drawn in this picture."
+  },
+  {
+    "sentence": "五時からのシフトです。",
+    "sentence_furigana": "五時【ごじ】からのシフトです。",
+    "meaning": "It is the shift starting from 5 o'clock."
+  },
+  {
+    "sentence": "五人の子供たちが手を挙げています。",
+    "sentence_furigana": "五人【ごにん】の子供【こども】たちが手【て】を挙【あ】げています。",
+    "meaning": "Five children are raising their hands."
+  },
+  {
+    "sentence": "この本は五百ページ以上あります。",
+    "sentence_furigana": "この本【ほん】は五百【ごひゃく】ページ以上【いじょう】あります。",
+    "meaning": "This book has over 500 pages."
+  },
+  {
+    "sentence": "五分で到着します。",
+    "sentence_furigana": "五分【ごふん】で到着【とうちゃく】します。",
+    "meaning": "I will arrive in five minutes."
+  },
+  {
+    "sentence": "五人の旅行者がホテルにチェックインしました。",
+    "sentence_furigana": "五人【ごにん】の旅行者【りょこうしゃ】がホテルにチェックインしました。",
+    "meaning": "Five travelers checked into the hotel."
+  },
+  {
+    "sentence": "五つの島を巡る旅行です。",
+    "sentence_furigana": "五【いつ】つの島【しま】を巡【めぐ】る旅行【りょこう】です。",
+    "meaning": "It is a tour that visits five islands."
+  },
+  {
+    "sentence": "この件は五分で解決しました。",
+    "sentence_furigana": "この件【けん】は五分【ごふん】で解決【かいけつ】しました。",
+    "meaning": "This matter was resolved in five minutes."
+  },
+  {
+    "sentence": "五月雨は夏の始まりを告げます。",
+    "sentence_furigana": "五月雨【さみだれ】は夏【なつ】の始【はじ】まりを告【つ】げます。",
+    "meaning": "Early summer rains announce the beginning of summer."
+  },
+  {
+    "sentence": "五階の窓から外を見ています。",
+    "sentence_furigana": "五階【ごかい】の窓【まど】から外【そと】を見【み】ています。",
+    "meaning": "I am looking out the window on the fifth floor."
+  },
+  {
+    "sentence": "このサービスは五千円です。",
+    "sentence_furigana": "このサービスは五千円【ごせんえん】です。",
+    "meaning": "This service costs 5,000 yen."
+  },
+  {
+    "sentence": "五分間静かにしてください。",
+    "sentence_furigana": "五分間【ごふんかん】静【しず】かにしてください。",
+    "meaning": "Please be quiet for five minutes."
+  },
+  {
+    "sentence": "五人の参加者がいました。",
+    "sentence_furigana": "五人【ごにん】の参加者【さんかしゃ】がいました。",
+    "meaning": "There were five participants."
+  },
+  {
+    "sentence": "五月人形を飾りました。",
+    "sentence_furigana": "五月人形【ごがつにんぎょう】を飾【かざ】りました。",
+    "meaning": "We displayed the May dolls."
+  },
+  {
+    "sentence": "このテストは五つのパートに分かれています。",
+    "sentence_furigana": "このテストは五【いつ】つのパートに分【わ】かれています。",
+    "meaning": "This test is divided into five parts."
+  },
+  {
+    "sentence": "五分で十分です。",
+    "sentence_furigana": "五分【ごふん】で十分【じゅうぶん】です。",
+    "meaning": "Five minutes is enough."
+  },
+  {
+    "sentence": "この雑誌は五百円です。",
+    "sentence_furigana": "この雑誌【ざっし】は五百【ごひゃく】円【えん】です。",
+    "meaning": "This magazine costs 500 yen."
+  },
+  {
+    "sentence": "五人が同じ意見でした。",
+    "sentence_furigana": "五人【ごにん】が同【おな】じ意見【いけん】でした。",
+    "meaning": "Five people had the same opinion."
+  },
+  {
+    "sentence": "五時間働きました。",
+    "sentence_furigana": "五時間【ごじかん】働【はたら】きました。",
+    "meaning": "I worked for five hours."
+  },
+  {
+    "sentence": "この問題は五つの選択肢があります。",
+    "sentence_furigana": "この問題【もんだい】は五【いつ】つの選択肢【せんたくし】があります。",
+    "meaning": "This problem has five choices."
+  },
+  {
+    "sentence": "五分早く着きました。",
+    "sentence_furigana": "五分【ごふん】早【はや】く着【つ】きました。",
+    "meaning": "I arrived five minutes early."
+  },
+  {
+    "sentence": "五人の子供が手を振っています。",
+    "sentence_furigana": "五人【ごにん】の子供【こども】が手【て】を振【ふ】っています。",
+    "meaning": "Five children are waving their hands."
+  },
+  {
+    "sentence": "この薬は五日分です。",
+    "sentence_furigana": "この薬【くすり】は五日分【いつかぶん】です。",
+    "meaning": "This medicine is for five days."
+  },
+  {
+    "sentence": "五千円で買いました。",
+    "sentence_furigana": "五千円【ごせんえん】で買【か】いました。",
+    "meaning": "I bought it for 5,000 yen."
+  },
+  {
+    "sentence": "五分休憩しましょう。",
+    "sentence_furigana": "五分【ごふん】休憩【きゅうけい】しましょう。",
+    "meaning": "Let's take a five-minute break."
+  },
+  {
+    "sentence": "五人が賛成しました。",
+    "sentence_furigana": "五人【ごにん】が賛成【さんせい】しました。",
+    "meaning": "Five people agreed."
+  },
+  {
+    "sentence": "この箱には五つのリンゴが入っています。",
+    "sentence_furigana": "この箱【はこ】には五【いつ】つのリンゴが入【はい】っています。",
+    "meaning": "There are five apples in this box."
+  },
+  {
+    "sentence": "五時からの予定です。",
+    "sentence_furigana": "五時【ごじ】からの予定【よてい】です。",
+    "meaning": "The schedule is from 5 o'clock."
+  },
+  {
+    "sentence": "五人の出場者がいました。",
+    "sentence_furigana": "五人【ごにん】の出場者【しゅつじょうしゃ】がいました。",
+    "meaning": "There were five contestants."
+  },
+  {
+    "sentence": "五月には多くの花が咲きます。",
+    "sentence_furigana": "五月【ごがつ】には多【おお】くの花【はな】が咲【さ】きます。",
+    "meaning": "Many flowers bloom in May."
+  },
+  {
+    "sentence": "このレポートは五ページです。",
+    "sentence_furigana": "このレポートは五ページです。",
+    "meaning": "This report is five pages long."
+  },
+  {
+    "sentence": "五分で作れますか。",
+    "sentence_furigana": "五分【ごふん】で作【つく】れますか。",
+    "meaning": "Can you make it in five minutes?"
+  },
+  {
+    "sentence": "彼は五年前、この会社に入社しました。",
+    "sentence_furigana": "彼【かれ】は五年前【ごねんまえ】、この会社【かいしゃ】に入社【にゅうしゃ】しました。",
+    "meaning": "He joined this company five years ago."
+  },
+  {
+    "sentence": "五人の子供たちが絵を描いています。",
+    "sentence_furigana": "五人【ごにん】の子供【こども】たちが絵【え】を描【か】いています。",
+    "meaning": "Five children are drawing pictures."
+  },
+  {
+    "sentence": "この本は五巻まであります。",
+    "sentence_furigana": "この本【ほん】は五巻【ごかん】まであります。",
+    "meaning": "This book has up to five volumes."
+  },
+  {
+    "sentence": "五分で済みます。",
+    "sentence_furigana": "五分【ごふん】で済【す】みます。",
+    "meaning": "It will be finished in five minutes."
+  },
+  {
+    "sentence": "五人のメンバーでチームを組みました。",
+    "sentence_furigana": "五人【ごにん】のメンバーでチームを組【く】みました。",
+    "meaning": "We formed a team with five members."
+  },
+  {
+    "sentence": "五月病に注意してください。",
+    "sentence_furigana": "五月病【ごがつびょう】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of May sickness."
+  },
+  {
+    "sentence": "この店は五時に閉まります。",
+    "sentence_furigana": "この店【みせ】は五時【ごじ】に閉【しま】ります。",
+    "meaning": "This store closes at 5 o'clock."
+  },
+  {
+    "sentence": "五人の客が店に入ってきました。",
+    "sentence_furigana": "五人【ごにん】の客【きゃく】が店【みせ】に入【はい】ってきました。",
+    "meaning": "Five customers entered the store."
+  }
+]

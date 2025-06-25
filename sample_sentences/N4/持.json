@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "私は傘を持っています。",
+    "sentence_furigana": "私【わたし】は傘【かさ】を持【も】っています。",
+    "meaning": "I have an umbrella."
+  },
+  {
+    "sentence": "彼は電話を持っていた。",
+    "sentence_furigana": "彼【かれ】は電話【でんわ】を持【も】っていた。",
+    "meaning": "He had a phone."
+  },
+  {
+    "sentence": "この本をずっと持っていたい。",
+    "sentence_furigana": "この本【ほん】をずっと持【も】っていたい。",
+    "meaning": "I want to keep this book forever."
+  },
+  {
+    "sentence": "彼女は鍵を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は鍵【かぎ】を持【も】っている。",
+    "meaning": "She has the keys."
+  },
+  {
+    "sentence": "会議は午後一時からです。",
+    "sentence_furigana": "会議【かいぎ】は午後【ごご】一時【いちじ】からで、",
+    "meaning": "The meeting starts at 1 PM."
+  },
+  {
+    "sentence": "このバッグは重いので持ちきれない。",
+    "sentence_furigana": "このバッグは重【おも】いので持【も】ちきれない。",
+    "meaning": "This bag is too heavy for me to carry."
+  },
+  {
+    "sentence": "彼は自分の意見を持っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を持【も】っている。",
+    "meaning": "He has his own opinion."
+  },
+  {
+    "sentence": "この車は私が所有しています。",
+    "sentence_furigana": "この車【くるま】は私【わたし】が所有【しょゆう】しています。",
+    "meaning": "I own this car."
+  },
+  {
+    "sentence": "彼は大きな夢を抱いている。",
+    "sentence_furigana": "彼【かれ】は大切【たいせつ】な夢【ゆめ】を抱【いだ】いている。",
+    "meaning": "He holds a big dream."
+  },
+  {
+    "sentence": "希望を持ち続けることが大切だ。",
+    "sentence_furigana": "希望【きぼう】を持【も】ち続【つづ】けることが大切【たいせつ】だ。",
+    "meaning": "It is important to keep hope."
+  },
+  {
+    "sentence": "彼は多くの経験を持っている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を持【も】っている。",
+    "meaning": "He has a lot of experience."
+  },
+  {
+    "sentence": "このペンは書きやすい。",
+    "sentence_furigana": "このペンは書【か】きやすい。",
+    "meaning": "This pen is easy to write with."
+  },
+  {
+    "sentence": "彼女は長年の経験を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の経験【けいけん】を持【も】っている。",
+    "meaning": "She has many years of experience."
+  },
+  {
+    "sentence": "彼はいつもポジティブな考えを持っている。",
+    "sentence_furigana": "彼【かれ】はいつもポジティブな考【かんが】えを持【も】っている。",
+    "meaning": "He always has a positive attitude."
+  },
+  {
+    "sentence": "その情報は彼が持っているはずだ。",
+    "sentence_furigana": "その情報【じょうほう】は彼【かれ】が持【も】っているはずだ。",
+    "meaning": "He should have that information."
+  },
+  {
+    "sentence": "子供たちは公園で遊んでいた。",
+    "sentence_furigana": "子供【こども】たちは公園【こうえん】で遊【あそ】んでいた。",
+    "meaning": "The children were playing in the park."
+  },
+  {
+    "sentence": "彼は重要な役割を担っている。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な役割【やくわり】を担【にな】っている。",
+    "meaning": "He holds an important role."
+  },
+  {
+    "sentence": "この部屋は日当たりが良い。",
+    "sentence_furigana": "この部屋【へや】は日当【ひあ】たりが良い【よい】。",
+    "meaning": "This room gets good sunlight."
+  },
+  {
+    "sentence": "彼女は美しい声を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい声【こえ】を持【も】っている。",
+    "meaning": "She has a beautiful voice."
+  },
+  {
+    "sentence": "彼は多くの責任を持っている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの責任【せきにん】を持【も】っている。",
+    "meaning": "He has a lot of responsibility."
+  },
+  {
+    "sentence": "この剣は強力な力を持っている。",
+    "sentence_furigana": "この剣【けん】は強力【きょうりょく】な力【ちから】を持【も】っている。",
+    "meaning": "This sword possesses great power."
+  },
+  {
+    "sentence": "彼は歴史に名を残している。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】に名【な】を残【のこ】している。",
+    "meaning": "He has made his mark on history."
+  },
+  {
+    "sentence": "彼女は常に笑顔を絶やさない。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に笑顔【えがお】を絶【た】やさない。",
+    "meaning": "She always maintains a smile."
+  },
+  {
+    "sentence": "この問題には注意が必要だ。",
+    "sentence_furigana": "この問題【もんだい】には注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "This problem requires attention."
+  },
+  {
+    "sentence": "彼はその秘密を知っている。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を知【し】っている。",
+    "meaning": "He knows the secret."
+  },
+  {
+    "sentence": "この本は図書館から借りてきた。",
+    "sentence_furigana": "この本【ほん】は図書館【としょかん】から借【か】りてきた。",
+    "meaning": "I borrowed this book from the library."
+  },
+  {
+    "sentence": "彼女は新しいスキルを習得した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいスキルを習得【しゅうとく】した。",
+    "meaning": "She acquired new skills."
+  },
+  {
+    "sentence": "彼は常に向上心を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】っている。",
+    "meaning": "He always has a desire for self-improvement."
+  },
+  {
+    "sentence": "この植物は水をたくさん必要とする。",
+    "sentence_furigana": "この植物【しょくぶつ】は水【みず】をたくさん必要【ひつよう】とする。",
+    "meaning": "This plant needs a lot of water."
+  },
+  {
+    "sentence": "彼は自分の時間を大切にしている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の時間【じかん】を大切【たいせつ】にしている。",
+    "meaning": "He cherishes his time."
+  },
+  {
+    "sentence": "このパンは柔らかい。",
+    "sentence_furigana": "このパンは柔【やわ】らかい。",
+    "meaning": "This bread is soft."
+  },
+  {
+    "sentence": "彼女は多くの友人を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの友人【ゆうじん】を持【も】っている。",
+    "meaning": "She has many friends."
+  },
+  {
+    "sentence": "彼は成功への強い意志を持っている。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への強【つよ】い意志【いし】を持【も】っている。",
+    "meaning": "He has a strong will to succeed."
+  },
+  {
+    "sentence": "この知らせは彼を喜ばせた。",
+    "sentence_furigana": "この知【し】らせは彼【かれ】を喜【よろこ】ばせた。",
+    "meaning": "This news pleased him."
+  },
+  {
+    "sentence": "彼女は常に前向きな姿勢を保っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に前向【まえむ】きな姿勢【しせい】を保【たも】っている。",
+    "meaning": "She always maintains a positive attitude."
+  },
+  {
+    "sentence": "彼はこのプロジェクトのリーダーだ。",
+    "sentence_furigana": "彼【かれ】はこのプロジェクトのリーダーだ。",
+    "meaning": "He is the leader of this project."
+  },
+  {
+    "sentence": "この資料は彼が管理している。",
+    "sentence_furigana": "この資料【しりょう】は彼【かれ】が管理【かんり】している。",
+    "meaning": "He manages this document."
+  },
+  {
+    "sentence": "彼女は家族を深く愛している。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】を深【ふか】く愛【あい】している。",
+    "meaning": "She deeply loves her family."
+  },
+  {
+    "sentence": "彼はこの件について意見を持っている。",
+    "sentence_furigana": "彼【かれ】はこの件【けん】について意見【いけん】を持【も】っている。",
+    "meaning": "He has an opinion on this matter."
+  },
+  {
+    "sentence": "この絵は多くの意味を持っている。",
+    "sentence_furigana": "この絵【え】は多【おお】くの意味【いみ】を持【も】っている。",
+    "meaning": "This painting has many meanings."
+  },
+  {
+    "sentence": "彼女は常に努力を惜しまない。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に努力【どりょく】を惜【お】しまない。",
+    "meaning": "She never spares effort."
+  },
+  {
+    "sentence": "彼は多くの知識を持っている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】を持【も】っている。",
+    "meaning": "He has a lot of knowledge."
+  },
+  {
+    "sentence": "この服は私に似合っている。",
+    "sentence_furigana": "この服【ふく】は私【わたし】に似合【にあ】っている。",
+    "meaning": "This dress suits me."
+  },
+  {
+    "sentence": "彼女は自分の将来をしっかり持っている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の将来【しょうらい】をしっかり持【も】っている。",
+    "meaning": "She has a firm grasp on her future."
+  },
+  {
+    "sentence": "彼は多くの時間を費やした。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの時間【じかん】を費【つい】やした。",
+    "meaning": "He spent a lot of time."
+  },
+  {
+    "sentence": "この約束を守るつもりです。",
+    "sentence_furigana": "この約束【やくそく】を持【も】つつもりです。",
+    "meaning": "I intend to keep this promise."
+  },
+  {
+    "sentence": "彼女は強い信念を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は強【つよ】い信念【しんねん】を持【も】っている。",
+    "meaning": "She has strong beliefs."
+  },
+  {
+    "sentence": "彼はその情報を保持している。",
+    "sentence_furigana": "彼【かれ】はその情報【じょうほう】を保持【ほじ】している。",
+    "meaning": "He retains that information."
+  },
+  {
+    "sentence": "この花は良い香りを放っている。",
+    "sentence_furigana": "この花【はな】は良【よ】い香【かお】りを放【はな】っている。",
+    "meaning": "This flower gives off a pleasant scent."
+  },
+  {
+    "sentence": "彼女は常に冷静さを保っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に冷静【れいせい】さを保【たも】っている。",
+    "meaning": "She always maintains her composure."
+  },
+  {
+    "sentence": "彼はこの分野で多くの実績を持っている。",
+    "sentence_furigana": "彼【かれ】はこの分野【ぶんや】で多【おお】くの実績【じっせき】を持【も】っている。",
+    "meaning": "He has many achievements in this field."
+  },
+  {
+    "sentence": "この音楽は心を落ち着かせる。",
+    "sentence_furigana": "この音楽【おんがく】は心【こころ】を落【お】ちつかせる。",
+    "meaning": "This music calms the mind."
+  },
+  {
+    "sentence": "彼女は常に感謝の気持ちを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に感謝【かんしゃ】の気持【きも】ちを持【も】っている。",
+    "meaning": "She always has a grateful heart."
+  },
+  {
+    "sentence": "彼はこの会社を背負っている。",
+    "sentence_furigana": "彼【かれ】はこの会社【かいしゃ】を背負【せお】っている。",
+    "meaning": "He bears the weight of this company."
+  },
+  {
+    "sentence": "この情報は秘密です。",
+    "sentence_furigana": "この情報【じょうほう】は秘密【ひみつ】です。",
+    "meaning": "This information is confidential."
+  },
+  {
+    "sentence": "彼女は常に忍耐強く待っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に忍耐強【にんたいづよ】く待【ま】っている。",
+    "meaning": "She always waits patiently."
+  },
+  {
+    "sentence": "彼はこの計画の成功を確信している。",
+    "sentence_furigana": "彼【かれ】はこの計画【けいかく】の成功【せいこう】を確信【かくしん】している。",
+    "meaning": "He is confident in the success of this plan."
+  },
+  {
+    "sentence": "この問題は解決が難しい。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】が難【むずか】しい。",
+    "meaning": "This problem is difficult to solve."
+  },
+  {
+    "sentence": "彼女は常に前向きな姿勢を崩さない。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に前向【まえむ】きな姿勢【しせい】を崩【くず】さない。",
+    "meaning": "She never loses her positive attitude."
+  },
+  {
+    "sentence": "彼は常に正しいことをしようとしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に正【ただ】しいことをしようとしている。",
+    "meaning": "He always tries to do the right thing."
+  },
+  {
+    "sentence": "この資料は彼が持っています。",
+    "sentence_furigana": "この資料【しりょう】は彼【かれ】が持【も】っています。",
+    "meaning": "He has this document."
+  },
+  {
+    "sentence": "彼女は常に希望を捨てない。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に希望【きぼう】を捨【す】てない。",
+    "meaning": "She never gives up hope."
+  },
+  {
+    "sentence": "彼は常に改善を求めている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に改善【かいぜん】を求【もと】めている。",
+    "meaning": "He always seeks improvement."
+  },
+  {
+    "sentence": "この状況を維持するのは難しい。",
+    "sentence_furigana": "この状況【じょうきょう】を維持【いじ】するのは難【むずか】しい。",
+    "meaning": "It is difficult to maintain this situation."
+  },
+  {
+    "sentence": "彼女は常に努力を継続している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に努力【どりょく】を継続【けいぞく】している。",
+    "meaning": "She always continues her efforts."
+  },
+  {
+    "sentence": "彼は常に情熱を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に情熱【じょうねつ】を持【も】っている。",
+    "meaning": "He always has passion."
+  },
+  {
+    "sentence": "この歌は多くの人に愛されている。",
+    "sentence_furigana": "この歌【うた】は多【おお】くの人【ひと】に愛【あい】されている。",
+    "meaning": "This song is loved by many people."
+  },
+  {
+    "sentence": "彼女は常に誠実さを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】さを持【も】っている。",
+    "meaning": "She always has sincerity."
+  },
+  {
+    "sentence": "彼はこの目標を達成したいと思っている。",
+    "sentence_furigana": "彼【かれ】はこの目標【もくひょう】を達成【たっせい】したいと思【おも】っている。",
+    "meaning": "He wants to achieve this goal."
+  },
+  {
+    "sentence": "この情報は正しいですか。",
+    "sentence_furigana": "この情報【じょうほう】は正【ただ】しいですか。",
+    "meaning": "Is this information correct?"
+  },
+  {
+    "sentence": "彼女は常に向上心を発揮している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に向上心【こうじょうしん】を発揮【はっき】している。",
+    "meaning": "She always shows a desire for self-improvement."
+  },
+  {
+    "sentence": "彼は常に最善を尽くしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くしている。",
+    "meaning": "He always does his best."
+  },
+  {
+    "sentence": "この薬は強い効果を持っている。",
+    "sentence_furigana": "この薬【くすり】は強【つよ】い効果【こうか】を持【も】っている。",
+    "meaning": "This medicine has a strong effect."
+  },
+  {
+    "sentence": "彼女は常に希望を抱き続けている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に希望【きぼう】を抱【いだ】き続【つづ】けている。",
+    "meaning": "She always continues to hold onto hope."
+  },
+  {
+    "sentence": "彼は常に新しいことを学んでいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あたら】しいことを学【まな】んでいる。",
+    "meaning": "He is always learning new things."
+  },
+  {
+    "sentence": "このペンはインクが長持ちする。",
+    "sentence_furigana": "このペンはインクが長持【ながも】ちする。",
+    "meaning": "This pen's ink lasts a long time."
+  },
+  {
+    "sentence": "彼女は常に親切心を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に親切心【しんせつしん】を持【も】っている。",
+    "meaning": "She always has kindness."
+  },
+  {
+    "sentence": "彼は常に謙虚さを保っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に謙虚【けんきょ】さを保【たも】っている。",
+    "meaning": "He always maintains humility."
+  },
+  {
+    "sentence": "この本はとても面白い。",
+    "sentence_furigana": "この本【ほん】はとても面白【おもしろ】い。",
+    "meaning": "This book is very interesting."
+  },
+  {
+    "sentence": "彼女は常に努力を惜しまない人だ。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に努力【どりょく】を惜【お】しまない人【ひと】だ。",
+    "meaning": "She is a person who never spares effort."
+  },
+  {
+    "sentence": "彼は常に前向きな思考を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな思考【しこう】を持【も】っている。",
+    "meaning": "He always has a positive mindset."
+  },
+  {
+    "sentence": "この経験は私にとって重要だ。",
+    "sentence_furigana": "この経験【けいけん】は私【わたし】にとって重要【じゅうよう】だ。",
+    "meaning": "This experience is important to me."
+  },
+  {
+    "sentence": "彼女は常に自分自身を信じている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に自分自身【じぶんじしん】を信【しん】じている。",
+    "meaning": "She always believes in herself."
+  },
+  {
+    "sentence": "彼は常に目標を意識している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に目標【もくひょう】を意識【いしき】している。",
+    "meaning": "He is always conscious of his goals."
+  },
+  {
+    "sentence": "この薬は熱を下げる効果がある。",
+    "sentence_furigana": "この薬【くすり】は熱【ねつ】を下【さ】げる効果【こうか】がある。",
+    "meaning": "This medicine has the effect of lowering fever."
+  },
+  {
+    "sentence": "彼女は常に学ぶ姿勢を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に学【まな】ぶ姿勢【しせい】を持【も】っている。",
+    "meaning": "She always has a learning attitude."
+  },
+  {
+    "sentence": "彼はこの件に関して詳しい情報を有している。",
+    "sentence_furigana": "彼【かれ】はこの件【けん】に関【かん】して詳【くわ】しい情報【じょうほう】を有【ゆう】している。",
+    "meaning": "He possesses detailed information regarding this matter."
+  },
+  {
+    "sentence": "この花は良い香りを放っている。",
+    "sentence_furigana": "この花【はな】は良【よ】い香【かお】りを放【はな】っている。",
+    "meaning": "This flower gives off a good scent."
+  },
+  {
+    "sentence": "彼女は常に協調性を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に協調性【きょうちょうせい】を持【も】っている。",
+    "meaning": "She always has cooperativeness."
+  },
+  {
+    "sentence": "彼は常に責任感を持ち続けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に責任感【せきにんかん】を持【も】ち続【つづ】けている。",
+    "meaning": "He always continues to hold a sense of responsibility."
+  },
+  {
+    "sentence": "この情報は彼から入手しました。",
+    "sentence_furigana": "この情報【じょうほう】は彼【かれ】から入手【にゅうしゅ】しました。",
+    "meaning": "I obtained this information from him."
+  },
+  {
+    "sentence": "彼女は常に前向きな態度を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に前向【まえむ】きな態度【たいど】を持【も】っている。",
+    "meaning": "She always has a positive attitude."
+  },
+  {
+    "sentence": "彼はこの会議の議事録を持っている。",
+    "sentence_furigana": "彼【かれ】はこの会議【かいぎ】の議事録【ぎじろく】を持【も】っている。",
+    "meaning": "He has the minutes of this meeting."
+  },
+  {
+    "sentence": "この問題にはまだ解決策がない。",
+    "sentence_furigana": "この問題【もんだい】にはまだ解決策【かいけつさく】がない。",
+    "meaning": "There is no solution to this problem yet."
+  },
+  {
+    "sentence": "彼女は常に感謝の気持ちでいっぱいだ。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に感謝【かんしゃ】の気持【きも】ちでいっぱいだ。",
+    "meaning": "She is always full of gratitude."
+  },
+  {
+    "sentence": "彼は常に向上心を持って努力している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】って努力【どりょく】している。",
+    "meaning": "He always works hard with a desire for self-improvement."
+  },
+  {
+    "sentence": "この情報は非常に重要です。",
+    "sentence_furigana": "この情報【じょうほう】は非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "This information is very important."
+  },
+  {
+    "sentence": "彼女は常に希望を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に希望【きぼう】を持【も】っている。",
+    "meaning": "She always holds onto hope."
+  },
+  {
+    "sentence": "彼は常に誠実であることを心がけている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に誠実【せいじつ】であることを心【こころ】がけている。",
+    "meaning": "He always strives to be sincere."
+  },
+  {
+    "sentence": "この本は多くのことを教えてくれた。",
+    "sentence_furigana": "この本【ほん】は多【おお】くのこと【こと】を教【おし】えてくれた。",
+    "meaning": "This book taught me many things."
+  },
+  {
+    "sentence": "彼女は常に忍耐強さを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に忍耐強【にんたいづよ】さを持【も】っている。",
+    "meaning": "She always has patience."
+  },
+  {
+    "sentence": "彼は常に最善を尽くすことを誓った。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くすことを誓【ちか】った。",
+    "meaning": "He vowed to always do his best."
+  }
+]

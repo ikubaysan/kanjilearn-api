@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼は将来を憂いている。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】を憂【うれ】いている。",
+    "meaning": "He is worried about the future."
+  },
+  {
+    "sentence": "国民は王の病状を憂いていた。",
+    "sentence_furigana": "国民【こくみん】は王【おう】の病状【びょうじょう】を憂【うれ】いていた。",
+    "meaning": "The people were anxious about the king's condition."
+  },
+  {
+    "sentence": "子供の学校での様子を憂う親は多い。",
+    "sentence_furigana": "子供【こども】の学校【がっこう】での様子【ようす】を憂【うれ】う親【おや】は多【おお】い。",
+    "meaning": "Many parents worry about their children's situation at school."
+  },
+  {
+    "sentence": "彼の顔には深い憂いが刻まれていた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には深【ふか】い憂【うれ】いが刻【きざ】まれていた。",
+    "meaning": "Deep sadness was etched on his face."
+  },
+  {
+    "sentence": "社会の将来について憂慮の念を抱く。",
+    "sentence_furigana": "社会【しゃかい】の将来【しょうらい】について憂慮【ゆうりょ】の念【ねん】を抱【いだ】く。",
+    "meaning": "I feel anxious about the future of society."
+  },
+  {
+    "sentence": "彼女は行く末を案じ、憂いを帯びた表情をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は行末【ゆくすえ】を案【あん】じ、憂【うれ】いを帯【お】びた表情【ひょうじょう】をしていた。",
+    "meaning": "She was worried about the future, with a sad expression."
+  },
+  {
+    "sentence": "この状況は憂慮すべき事態である。",
+    "sentence_furigana": "この状況【じょうきょう】は憂慮【ゆうりょ】すべき事態【じたい】である。",
+    "meaning": "This situation is a cause for concern."
+  },
+  {
+    "sentence": "戦争の悲惨さを憂い、平和を願った。",
+    "sentence_furigana": "戦争【せんそう】の悲惨【ひさん】さを憂【うれ】い、平和【へいわ】を願【ねが】った。",
+    "meaning": "Lamenting the horrors of war, they prayed for peace."
+  },
+  {
+    "sentence": "経済の低迷に多くの人々が憂いを感じている。",
+    "sentence_furigana": "経済【けいざい】の低迷【ていめい】に多【おお】くの人々【ひとびと】が憂【うれ】いを感【かん】じている。",
+    "meaning": "Many people are feeling anxious about the economic downturn."
+  },
+  {
+    "sentence": "彼は友人たちの不運を憂いた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】たちのもんを憂【うれ】いた。",
+    "meaning": "He lamented the misfortune of his friends."
+  },
+  {
+    "sentence": "その知らせを聞いて、彼は深く憂えた。",
+    "sentence_furigana": "その______を聞【き】いて、彼【かれ】は深【ふか】く憂【うれ】えた。",
+    "meaning": "Hearing that news, he became deeply sad."
+  },
+  {
+    "sentence": "家族の健康を憂うのは当然だ。",
+    "sentence_furigana": "家族【かぞく】の健康【けんこう】を憂【うれ】うのは当然【とうぜん】だ。",
+    "meaning": "It is natural to worry about your family's health."
+  },
+  {
+    "sentence": "未来への憂いが彼の心を占めていた。",
+    "sentence_furigana": "未来【みらい】への憂【うれ】いが彼【かれ】の心【こころ】を占【し】めていた。",
+    "meaning": "Anxiety about the future occupied his mind."
+  },
+  {
+    "sentence": "祖国の行く末を憂慮する国民の声が大きくなっている。",
+    "sentence_furigana": "祖国【そこく】の行末【ゆくすえ】を憂慮【ゆうりょ】する国民【こくみん】の声【こえ】が大【おお】きくなっている。",
+    "meaning": "The voices of citizens worried about the future of their homeland are growing louder."
+  },
+  {
+    "sentence": "彼は長年、病に憂えていた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】、病【やまい】に憂【うれ】えていた。",
+    "meaning": "He had been sick and worried for many years."
+  },
+  {
+    "sentence": "その出来事は人々に深い憂いをもたらした。",
+    "sentence_furigana": "その出来事【できごと】は人々【ひとびと】に深【ふか】い憂【うれ】いをもたらした。",
+    "meaning": "That event brought deep sadness to the people."
+  },
+  {
+    "sentence": "彼は常に最悪の事態を憂いている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最悪【さいあく】の事態【じたい】を憂【うれ】いている。",
+    "meaning": "He is always worried about the worst-case scenario."
+  },
+  {
+    "sentence": "その詩は失われた愛を憂う歌である。",
+    "sentence_furigana": "その詩【うた】は失【う】われた________________________________。",
+    "meaning": "That poem is a song lamenting lost love."
+  },
+  {
+    "sentence": "彼女の表情には隠しきれない憂いが漂っていた。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】には隠__________________________________________________________。",
+    "meaning": "An undeniable sadness lingered in her expression."
+  },
+  {
+    "sentence": "世の中の不条理を憂う若者が増えている。",
+    "sentence_furigana": "世の中【よのなか】の不条理【ふじょうり】を憂【うれ】う若者【わかもの】が増______________________________。",
+    "meaning": "More young people are lamenting the absurdity of the world."
+  },
+  {
+    "sentence": "彼は友人の不調を憂い、見舞いに訪れた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の不調【ふちょう】を憂【うれ】い、見舞【みま】いに訪【おとず】れた。",
+    "meaning": "He was worried about his friend's ill health and went to visit him."
+  },
+  {
+    "sentence": "その歴史上の出来事は多くの悲劇を憂いた。",
+    "sentence_furigana": "その歴史上【れきしじょう】の出来事【できごと】は多____________________________________。",
+    "meaning": "That historical event led to many tragedies."
+  },
+  {
+    "sentence": "彼は自身の老いを憂いている。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の老__________________。",
+    "meaning": "He is anxious about his own aging."
+  },
+  {
+    "sentence": "環境破壊の進展を憂慮する声が高まっている。",
+    "sentence_furigana": "環境破壊【かんきょうはかい】の進展【しんてん】を憂慮【ゆうりょ】する声【こえ】が高____________________。",
+    "meaning": "Calls of concern about the progress of environmental destruction are growing louder."
+  },
+  {
+    "sentence": "彼女は家族の失踪を憂い、捜索を続けた。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の失踪【しっそう】を憂【うれ】い、捜索【そうさく】を続______________。",
+    "meaning": "She worried about her family's disappearance and continued the search."
+  },
+  {
+    "sentence": "彼は社会の分断を憂いている。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の分断【ぶんだん】を憂【うれ】いている。",
+    "meaning": "He is anxious about the division in society."
+  },
+  {
+    "sentence": "その悲報を聞き、皆が憂いに沈んだ。",
+    "sentence_furigana": "その________________________________________________。",
+    "meaning": "Upon hearing the sad news, everyone sank into melancholy."
+  },
+  {
+    "sentence": "彼は経済の先行きを憂慮していた。",
+    "sentence_furigana": "彼【かれ】は経済【けいざい】の先行__________________。",
+    "meaning": "He was anxious about the economic outlook."
+  },
+  {
+    "sentence": "病気のため、彼は故郷を憂いていた。",
+    "sentence_furigana": "病気【びょうき】のため、彼【かれ】は故郷【こきょう】を憂__________。",
+    "meaning": "Due to illness, he was sad about being away from his hometown."
+  },
+  {
+    "sentence": "未来への不安が彼を憂えさせていた。",
+    "sentence_furigana": "未来【みらい】への____________________________。",
+    "meaning": "Anxiety about the future made him unhappy."
+  },
+  {
+    "sentence": "その作家は人間の孤独を憂う作品を多く残した。",
+    "sentence_furigana": "その作家【さっか】は人間【にんげん】の孤独【こどく】を憂【うれ】う作品【さくひん】を____________。",
+    "meaning": "That writer left many works lamenting human loneliness."
+  },
+  {
+    "sentence": "彼は失業を憂い、新しい職を探している。",
+    "sentence_furigana": "彼【かれ】は失業【しつぎょう】を憂【うれ】い、新__________________。",
+    "meaning": "He is worried about unemployment and is looking for a new job."
+  },
+  {
+    "sentence": "その音楽は悲しい感情を憂いている。",
+    "sentence_furigana": "その音楽【おんがく】は__________________________。",
+    "meaning": "That music expresses sad feelings."
+  },
+  {
+    "sentence": "彼は遠くに住む家族を憂んでいた。",
+    "sentence_furigana": "彼【かれ】は遠__________________。",
+    "meaning": "He was worried about his family living far away."
+  },
+  {
+    "sentence": "戦争の終結を憂慮する声明が発表された。",
+    "sentence_furigana": "戦争【せんそう】の終結【しゅうけつ】を憂慮【ゆうりょ】する声明【せいめい】が発表【はっぴょう】された。",
+    "meaning": "A statement expressing concern about the end of the war was released."
+  },
+  {
+    "sentence": "彼は亡くなった友人を憂い、酒を飲んだ。",
+    "sentence_furigana": "彼【かれ】は__________________________。",
+    "meaning": "He mourned his deceased friend and drank alcohol."
+  },
+  {
+    "sentence": "この未曽有の危機を憂慮せずにはいられない。",
+    "sentence_furigana": "この未曽有【みぞう】の危機【きき】を憂慮【ゆうりょ】せずにはいられない。",
+    "meaning": "One cannot help but be concerned about this unprecedented crisis."
+  },
+  {
+    "sentence": "彼女の目は人生の憂いを物語っていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は人生【じんせい】の憂____________。",
+    "meaning": "Her eyes told of the sorrows of life."
+  },
+  {
+    "sentence": "彼は自分の無力さを憂いていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の無力________。",
+    "meaning": "He was distressed by his own powerlessness."
+  },
+  {
+    "sentence": "祖父は病床で故郷を憂んでいた。",
+    "sentence_furigana": "祖父【そふ】は病床【びょうしょう】で故郷【こきょう】を憂______。",
+    "meaning": "My grandfather worried about his hometown from his sickbed."
+  },
+  {
+    "sentence": "その悲劇は多くの人々に憂いを残した。",
+    "sentence_furigana": "その悲劇【ひげき】は__________________。",
+    "meaning": "That tragedy left many people in sorrow."
+  },
+  {
+    "sentence": "彼は経済的困難を憂慮している。",
+    "sentence_furigana": "彼【かれ】は経済的【けいざいてき】____________。",
+    "meaning": "He is concerned about financial difficulties."
+  },
+  {
+    "sentence": "彼女は子供たちの将来を憂いている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たち________。",
+    "meaning": "She is worried about her children's future."
+  },
+  {
+    "sentence": "この状況の悪化を憂慮する。",
+    "sentence_furigana": "この状況【じょうきょう】________。",
+    "meaning": "I am concerned about the worsening of this situation."
+  },
+  {
+    "sentence": "彼は長年の苦しみを憂いた。",
+    "sentence_furigana": "彼【かれ】は____________。",
+    "meaning": "He lamented his long years of suffering."
+  },
+  {
+    "sentence": "彼女の顔には疲労と憂いが混じっていた。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】には疲労【ひろう】と憂______。",
+    "meaning": "Fatigue and sadness were mixed on her face."
+  },
+  {
+    "sentence": "彼は社会の衰退を憂いている。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】______。",
+    "meaning": "He is worried about the decline of society."
+  },
+  {
+    "sentence": "その事件は社会全体に憂慮を与えた。",
+    "sentence_furigana": "その事件【じけん】は社会________。",
+    "meaning": "That incident caused concern throughout society."
+  },
+  {
+    "sentence": "彼は故郷の友人たちの身を憂いていた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の友人【ゆうじん】たち____。",
+    "meaning": "He was worried about the safety of his friends in his hometown."
+  },
+  {
+    "sentence": "この紛争の長期化を憂慮する。",
+    "sentence_furigana": "この紛争【ふんそう】____。",
+    "meaning": "I am concerned about the prolonged nature of this conflict."
+  },
+  {
+    "sentence": "彼は病身の母を憂いていた。",
+    "sentence_furigana": "彼【かれ】は病身【びょうしん】____。",
+    "meaning": "He was worried about his sickly mother."
+  },
+  {
+    "sentence": "その悲劇的な結末を憂いた。",
+    "sentence_furigana": "その悲劇的【ひげきてき】____。",
+    "meaning": "He lamented the tragic ending."
+  },
+  {
+    "sentence": "彼は親の老いを憂えている。",
+    "sentence_furigana": "彼【かれ】は______。",
+    "meaning": "He is worried about his parents getting old."
+  },
+  {
+    "sentence": "この状況がさらに悪化することを憂慮している。",
+    "sentence_furigana": "この状況【じょうきょう】____。",
+    "meaning": "I am concerned that this situation will worsen further."
+  },
+  {
+    "sentence": "彼は幼い頃の辛い記憶を憂いていた。",
+    "sentence_furigana": "彼【かれ】は幼______。",
+    "meaning": "He was sad about the painful memories of his childhood."
+  },
+  {
+    "sentence": "その古い物語は愛の終焉を憂う。",
+    "sentence_furigana": "その______。",
+    "meaning": "That old story laments the end of love."
+  },
+  {
+    "sentence": "彼は健康の衰えを憂いている。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】__。",
+    "meaning": "He is anxious about his declining health."
+  },
+  {
+    "sentence": "この地域の治安を憂慮する。",
+    "sentence_furigana": "この____。",
+    "meaning": "I am concerned about the public safety in this region."
+  },
+  {
+    "sentence": "彼は友人の転職を憂い、励ました。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his friend changing jobs and encouraged him."
+  },
+  {
+    "sentence": "その失われた文化を憂う声がある。",
+    "sentence_furigana": "その失__。",
+    "meaning": "There are voices lamenting that lost culture."
+  },
+  {
+    "sentence": "彼は妻の病状を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was anxious about his wife's medical condition."
+  },
+  {
+    "sentence": "この国の未来を憂慮する。",
+    "sentence_furigana": "この国【くに】__。",
+    "meaning": "I am concerned about the future of this country."
+  },
+  {
+    "sentence": "彼は自分の過去を憂れていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】__。",
+    "meaning": "He was sad about his past."
+  },
+  {
+    "sentence": "その事故の原因を憂慮する。",
+    "sentence_furigana": "その__。",
+    "meaning": "I am concerned about the cause of that accident."
+  },
+  {
+    "sentence": "彼は家族の生活を憂いている。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】__。",
+    "meaning": "He is worried about his family's livelihood."
+  },
+  {
+    "sentence": "彼女は友人の悲報を憂いていた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was saddened by the sad news about her friend."
+  },
+  {
+    "sentence": "彼は病気療養中の友人を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his friend who was recovering from illness."
+  },
+  {
+    "sentence": "この未解決の事件を憂慮する。",
+    "sentence_furigana": "この__。",
+    "meaning": "I am concerned about this unsolved case."
+  },
+  {
+    "sentence": "彼は子供の成長を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his child's growth."
+  },
+  {
+    "sentence": "彼女は失われた故郷を憂う歌を作った。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She wrote a song lamenting her lost hometown."
+  },
+  {
+    "sentence": "彼は病気の父を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his sick father."
+  },
+  {
+    "sentence": "この状況の長期化を憂慮する。",
+    "sentence_furigana": "この__。",
+    "meaning": "I am concerned about the prolonged nature of this situation."
+  },
+  {
+    "sentence": "彼は世の中の不公平を憂いている。",
+    "sentence_furigana": "彼【かれ】は世の中【よのなか】__。",
+    "meaning": "He is unhappy about the unfairness in the world."
+  },
+  {
+    "sentence": "その歴史は多くの悲劇を憂いていた。",
+    "sentence_furigana": "その歴史【れきし】__。",
+    "meaning": "That history mourned many tragedies."
+  },
+  {
+    "sentence": "彼は自身の健康を憂慮している。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is concerned about his own health."
+  },
+  {
+    "sentence": "彼女は子供の不注意を憂いていた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was worried about her child's carelessness."
+  },
+  {
+    "sentence": "彼は故郷の将来を憂慮する。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is concerned about his hometown's future."
+  },
+  {
+    "sentence": "このままではいけないと彼は憂いていた。",
+    "sentence_furigana": "この__。",
+    "meaning": "He was worried that things could not go on like this."
+  },
+  {
+    "sentence": "彼は亡き母を憂い、涙を流した。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He mourned his deceased mother and shed tears."
+  },
+  {
+    "sentence": "その知らせに皆が憂いていた。",
+    "sentence_furigana": "その__。",
+    "meaning": "Everyone was sad about that news."
+  },
+  {
+    "sentence": "彼は将来への不安を憂れていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was anxious about the future."
+  },
+  {
+    "sentence": "この社会のあり方を憂慮する。",
+    "sentence_furigana": "この__。",
+    "meaning": "I am concerned about the state of this society."
+  },
+  {
+    "sentence": "彼は友人の病状を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his friend's illness."
+  },
+  {
+    "sentence": "彼女は家族の身を案じ、憂いていた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was worried about her family's safety."
+  },
+  {
+    "sentence": "彼は時代の変化を憂いている。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is worried about the changing times."
+  },
+  {
+    "sentence": "その結果に憂慮する。",
+    "sentence_furigana": "その__。",
+    "meaning": "I am concerned about the result."
+  },
+  {
+    "sentence": "彼は子供の無事を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his child's safety."
+  },
+  {
+    "sentence": "彼女は失恋を憂いていた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was sad about her breakup."
+  },
+  {
+    "sentence": "彼は故郷の過疎化を憂慮している。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is concerned about the depopulation of his hometown."
+  },
+  {
+    "sentence": "この国の現状を憂慮する。",
+    "sentence_furigana": "この__。",
+    "meaning": "I am concerned about the current state of this country."
+  },
+  {
+    "sentence": "彼は病気への恐怖を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was anxious about the fear of illness."
+  },
+  {
+    "sentence": "彼女は家族の別れを憂いていた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was sad about the separation from her family."
+  },
+  {
+    "sentence": "彼は国の将来を憂慮する。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is concerned about the country's future."
+  },
+  {
+    "sentence": "この世の不条理を憂う。",
+    "sentence_furigana": "この世【よ】__。",
+    "meaning": "I lament the absurdity of this world."
+  },
+  {
+    "sentence": "彼は人生の儚さを憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was sad about the transience of life."
+  },
+  {
+    "sentence": "彼女は失われた青春を憂んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was sad about her lost youth."
+  },
+  {
+    "sentence": "彼は社会の矛盾を憂いている。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is worried about the contradictions in society."
+  },
+  {
+    "sentence": "この問題の解決を憂慮する。",
+    "sentence_furigana": "この__。",
+    "meaning": "I am concerned about the resolution of this problem."
+  },
+  {
+    "sentence": "彼は病床の友を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his friend in the hospital."
+  },
+  {
+    "sentence": "彼女は人生の苦しみを憂う。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She laments the hardships of life."
+  },
+  {
+    "sentence": "彼は時代の不確実性を憂慮している。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is concerned about the uncertainty of the times."
+  },
+  {
+    "sentence": "この地域の将来を憂慮する。",
+    "sentence_furigana": "この__。",
+    "meaning": "I am concerned about the future of this region."
+  },
+  {
+    "sentence": "彼は病弱な妻を憂いていた。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He was worried about his frail wife."
+  },
+  {
+    "sentence": "彼女は失業の不安を憂いていた。",
+    "sentence_furigana": "彼女【かのじょ】は__。",
+    "meaning": "She was worried about the anxiety of unemployment."
+  },
+  {
+    "sentence": "彼は社会の道徳的退廃を憂いている。",
+    "sentence_furigana": "彼【かれ】は__。",
+    "meaning": "He is worried about the moral decay of society."
+  },
+  {
+    "sentence": "この状況の悪化を憂慮せざるを得ない。",
+    "sentence_furigana": "この__。",
+    "meaning": "We cannot help but be concerned about the worsening of this situation."
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "今年で二十歳になります。",
+    "sentence_furigana": "今年【ことし】で二十歳【にじゅっさい】になります。",
+    "meaning": "I will turn 20 this year."
+  },
+  {
+    "sentence": "来年は良い年になりますように。",
+    "sentence_furigana": "来年【らいねん】は良【よ】い年【とし】になりますように。",
+    "meaning": "I hope next year will be a good year."
+  },
+  {
+    "sentence": "去年は大変な一年でした。",
+    "sentence_furigana": "去年【きょねん】は大変【たいへん】な一年【いちねん】でした。",
+    "meaning": "Last year was a difficult year."
+  },
+  {
+    "sentence": "この年は特別な年になるでしょう。",
+    "sentence_furigana": "この年【とし】は特別【とくべつ】な年【とし】になるでしょう。",
+    "meaning": "This year will likely be a special year."
+  },
+  {
+    "sentence": "多くの年月が経ちました。",
+    "sentence_furigana": "多【おお】くの年月【ねんげつ】が経【た】ちました。",
+    "meaning": "Many years have passed."
+  },
+  {
+    "sentence": "年々技術は進歩しています。",
+    "sentence_furigana": "年々【ねんねん】技術【ぎじゅつ】は進歩【しんぽ】しています。",
+    "meaning": "Technology advances year by year."
+  },
+  {
+    "sentence": "彼は若い頃から努力を重ねてきた。",
+    "sentence_furigana": "彼【かれ】は若【わか】い頃【ころ】から努力【どりょく】を重【かさ】ねてきた。",
+    "meaning": "He has worked hard since he was young."
+  },
+  {
+    "sentence": "一年の計画を立てましょう。",
+    "sentence_furigana": "一年【いちねん】の計画【けいかく】を立【た】てましょう。",
+    "meaning": "Let's make a plan for the year."
+  },
+  {
+    "sentence": "この製品は生産中止になった年がある。",
+    "sentence_furigana": "この製品【せいひん】は生産中止【せいさんちゅうし】になった年【とし】がある。",
+    "meaning": "There was a year when this product was discontinued."
+  },
+  {
+    "sentence": "彼女は還暦を迎えた。",
+    "sentence_furigana": "彼女【かのじょ】は還暦【かんれき】を迎【むか】えた。",
+    "meaning": "She reached her 60th birthday."
+  },
+  {
+    "sentence": "毎年正月には初詣に行きます。",
+    "sentence_furigana": "毎年正月【まいとししょうがつ】には初詣【はつもうで】に行【い】きます。",
+    "meaning": "Every New Year's, I go for the first shrine visit of the year."
+  },
+  {
+    "sentence": "この地域の人口は年々増加しています。",
+    "sentence_furigana": "この地域【ちいき】の人口【じんこう】は年々【ねんねん】増加【ぞうか】しています。",
+    "meaning": "The population in this region is increasing year by year."
+  },
+  {
+    "sentence": "彼は長年の夢を叶えた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】を叶【かな】えた。",
+    "meaning": "He fulfilled his long-held dream."
+  },
+  {
+    "sentence": "今年の収穫は去年に比べて少なかった。",
+    "sentence_furigana": "今年【ことし】の収穫【しゅうかく】は去年【きょねん】と比【くら】べて少【すく】なかった。",
+    "meaning": "This year's harvest was less than last year's."
+  },
+  {
+    "sentence": "新しい年に新しい目標を設定する。",
+    "sentence_furigana": "新【あら】しい年【とし】に新【あら】しい目標【もくひょう】を設定【せってい】する。",
+    "meaning": "Set new goals for the new year."
+  },
+  {
+    "sentence": "学年が上がるにつれて勉強が難しくなった。",
+    "sentence_furigana": "学年【がくねん】が上【あ】がるにつれて勉強【べんきょう】が難【むずか】しくなった。",
+    "meaning": "As I moved up through the school years, the studies became more difficult."
+  },
+  {
+    "sentence": "この出来事は私の人生において転機となった年です。",
+    "sentence_furigana": "この出来事【できごと】は私【わたし】の人生【じんせい】において転機【てんき】となった年【とし】です。",
+    "meaning": "This event was a turning point in my life."
+  },
+  {
+    "sentence": "数年の歳月を経て、彼は成長した。",
+    "sentence_furigana": "数年【すうねん】の歳月【さいげつ】を経【へ】て、彼【かれ】は成長【せいちょう】した。",
+    "meaning": "After several years, he grew."
+  },
+  {
+    "sentence": "成年になったら、自分で責任を負う必要がある。",
+    "sentence_furigana": "成年【せいねん】になったら、自分【じぶん】で責任【せきにん】を負【お】う必要【ひつよう】がある。",
+    "meaning": "When you become an adult, you need to take responsibility for yourself."
+  },
+  {
+    "sentence": "彼の年齢は公表されていません。",
+    "sentence_furigana": "彼【かれ】の年齢【ねんれい】は公表【こうひょう】されていません。",
+    "meaning": "His age has not been announced."
+  },
+  {
+    "sentence": "この町は近年大きく発展しました。",
+    "sentence_furigana": "この町【まち】は近年【きんねん】大【おお】きく発展【はってん】しました。",
+    "meaning": "This town has developed significantly in recent years."
+  },
+  {
+    "sentence": "次年度の予算案が提出された。",
+    "sentence_furigana": "次年度【じねんど】の予算案【よさんあん】が提出【ていしゅつ】された。",
+    "meaning": "The budget proposal for the next fiscal year has been submitted."
+  },
+  {
+    "sentence": "彼は数年前にこの会社を辞めた。",
+    "sentence_furigana": "彼【かれ】は数年【すうねん】前【まえ】にこの会社【かいしゃ】を辞【や】めた。",
+    "meaning": "He quit this company several years ago."
+  },
+  {
+    "sentence": "生涯学習の重要性が高まっている。",
+    "sentence_furigana": "生涯学習【しょうがいろがくしゅう】の重要性【じゅうようせい】が高【たか】まっています。",
+    "meaning": "The importance of lifelong learning is increasing."
+  },
+  {
+    "sentence": "毎年のようにこの祭りは開催される。",
+    "sentence_furigana": "毎年【まいとし】のようにこの祭【まつ】りは開催【かいさい】される。",
+    "meaning": "This festival is held almost every year."
+  },
+  {
+    "sentence": "この法律は施行されてから十年になる。",
+    "sentence_furigana": "この法律【ほうりつ】は施行【しこう】されてから十年【じゅうねん】になる。",
+    "meaning": "It has been ten years since this law came into effect."
+  },
+  {
+    "sentence": "少年時代を懐かしく思い出す。",
+    "sentence_furigana": "少年時代【しょうねんじだい】を懐【なつ】かしく思【おも】い出【だ】す。",
+    "meaning": "I fondly remember my boyhood."
+  },
+  {
+    "sentence": "彼女は長年の経験を持つベテランだ。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の経験【けいけん】を持【も】つベテランだ。",
+    "meaning": "She is a veteran with many years of experience."
+  },
+  {
+    "sentence": "この映画は数年前に公開された。",
+    "sentence_furigana": "この映画【えいが】は数年【すうねん】前【まえ】に公開【こうかい】された。",
+    "meaning": "This movie was released several years ago."
+  },
+  {
+    "sentence": "新年あけましておめでとうございます。",
+    "sentence_furigana": "新年【しんねん】おめでとうございます。",
+    "meaning": "Happy New Year."
+  },
+  {
+    "sentence": "この地域は近年開発が進んでいます。",
+    "sentence_furigana": "この地域【ちいき】は近年【きんねん】開発【かいはつ】が進【すす】んでいます。",
+    "meaning": "Development has been progressing in this region in recent years."
+  },
+  {
+    "sentence": "彼女は二十歳になったばかりだ。",
+    "sentence_furigana": "彼女【かのじょ】は二十歳【にじゅっさい】になったばかりだ。",
+    "meaning": "She just turned twenty."
+  },
+  {
+    "sentence": "来年度の計画について会議が行われた。",
+    "sentence_furigana": "来年度【らいねんど】の計画【けいかく】について会議【かいぎ】が行【おこな】われた。",
+    "meaning": "A meeting was held regarding next year's plan."
+  },
+  {
+    "sentence": "彼らは長年の友人です。",
+    "sentence_furigana": "彼【かれ】らは長年【ながねん】の友人【ゆうじん】です。",
+    "meaning": "They are friends of many years."
+  },
+  {
+    "sentence": "今年の夏は特に暑かった。",
+    "sentence_furigana": "今年【ことし】の夏【なつ】は特【とく】に暑【あつ】かった。",
+    "meaning": "This summer was particularly hot."
+  },
+  {
+    "sentence": "数年前からこの趣味を続けている。",
+    "sentence_furigana": "数年前【すうねんまえ】からこの趣味【しゅみ】を続【つづ】けている。",
+    "meaning": "I have continued this hobby for several years."
+  },
+  {
+    "sentence": "長年にわたり、彼は地域のために貢献してきた。",
+    "sentence_furigana": "長年【ながねん】にわたり、彼【かれ】は地域【ちいき】のために貢献【こうけん】してきた。",
+    "meaning": "For many years, he has contributed to the community."
+  },
+  {
+    "sentence": "この年齢で新しいことを学ぶのは素晴らしい。",
+    "sentence_furigana": "この年齢【ねんれい】で新【あら】しいこと<strong></strong>を学【まな】ぶのは素晴【すば】らしい。",
+    "meaning": "It's wonderful to learn new things at this age."
+  },
+  {
+    "sentence": "年末年始は家族と過ごす予定です。",
+    "sentence_furigana": "年末年始【ねんまつねんし】は家族【かぞく】と過【す】ごす予定【よてい】です。",
+    "meaning": "I plan to spend the New Year's holidays with my family."
+  },
+  {
+    "sentence": "彼は数年前からこの活動に参加している。",
+    "sentence_furigana": "彼【かれ】は数年前【すうねんまえ】からこの活動【かつどう】に参加【さんか】している。",
+    "meaning": "He has been participating in this activity for several years."
+  },
+  {
+    "sentence": "この年は記録的な大雨に見舞われた。",
+    "sentence_furigana": "この年【とし】は記録的【きろくてき】な大雨【おおあめ】に見舞【みま】われた。",
+    "meaning": "This year was hit by record rainfall."
+  },
+  {
+    "sentence": "来年度は新しいプロジェクトを開始します。",
+    "sentence_furigana": "来年度【らいねんど】は新【あら】しいプロジェクトを開始【かいし】します。",
+    "meaning": "We will start a new project next fiscal year."
+  },
+  {
+    "sentence": "彼女は長年の努力が実を結び、成功した。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の努力【どりょく】が実【み】を結【むす】び、成功【せいこう】した。",
+    "meaning": "Her long years of effort paid off, and she succeeded."
+  },
+  {
+    "sentence": "人生の年輪を重ねていく。",
+    "sentence_furigana": "人生【じんせい】の年輪【ねんりん】を重【かさ】ねていく。",
+    "meaning": "We add rings of experience to our lives."
+  },
+  {
+    "sentence": "数十年後、この景色はどうなっているだろうか。",
+    "sentence_furigana": "数十年【すうじゅうねん】後【ご】、この景色【けしき】はどうなっているだろうか。",
+    "meaning": "What will this scenery be like in several decades?"
+  },
+  {
+    "sentence": "この問題は長年議論されてきた。",
+    "sentence_furigana": "この問題【もんだい】は長年【ながねん】議論【ぎろん】されてきた。",
+    "meaning": "This issue has been debated for many years."
+  },
+  {
+    "sentence": "彼女は三十歳を過ぎても若々しい。",
+    "sentence_furigana": "彼女【かのじょ】は三十歳【さんじゅっさい】を過【す】ぎても若々【わかわか】しい。",
+    "meaning": "She looks young even after turning thirty."
+  },
+  {
+    "sentence": "この年は多くの変化があった。",
+    "sentence_furigana": "この年【とし】は多【おお】くの変化【へんか】があった。",
+    "meaning": "There were many changes this year."
+  },
+  {
+    "sentence": "毎年開催される国際会議に参加する。",
+    "sentence_furigana": "毎年【まいとし】開催【かいさい】される国際会議【こくさいかいぎ】に参加【さんか】する。",
+    "meaning": "Participate in the international conference held annually."
+  },
+  {
+    "sentence": "彼女は少年時代から音楽の才能があった。",
+    "sentence_furigana": "彼女【かのじょ】は少年時代【しょうねんじだい】から音楽【おんがく】の才能【さいのう】があった。",
+    "meaning": "She had a talent for music since her childhood."
+  },
+  {
+    "sentence": "このプロジェクトは来年度で完了予定です。",
+    "sentence_furigana": "このプロジェクトは来年度【らいねんど】で完了予定【かんりょうよてい】です。",
+    "meaning": "This project is scheduled to be completed next fiscal year."
+  },
+  {
+    "sentence": "彼は長年にわたりこの地域に貢献してきました。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】にわたりこの地域【ちいき】に貢献【こうけん】してきました。",
+    "meaning": "He has contributed to this region for many years."
+  },
+  {
+    "sentence": "この大学は創立から百年以上の歴史を持つ。",
+    "sentence_furigana": "この大学【だいがく】は創立【そうりつ】から百年以上【ひゃくねんいじょう】の歴史【れきし】を持【も】つ。",
+    "meaning": "This university has a history of over 100 years since its founding."
+  },
+  {
+    "sentence": "数年前、私はこの街に引っ越してきた。",
+    "sentence_furigana": "数年前【すうねんまえ】、私【わたし】はこの街【まち】に引っ越【ひっこ】してきた。",
+    "meaning": "I moved to this city several years ago."
+  },
+  {
+    "sentence": "彼女は若い頃から絵を描くのが好きだった。",
+    "sentence_furigana": "彼女【かのじょ】は若【わか】い頃【ころ】から絵【え】を描【か】くのが好【す】きだった。",
+    "meaning": "She liked drawing since she was young."
+  },
+  {
+    "sentence": "今年の目標は健康的な生活を送ることです。",
+    "sentence_furigana": "今年【ことし】の目標【もくひょう】は健康的【けんこうてき】な生活【せいかつ】を送【おく】ることです。",
+    "meaning": "My goal this year is to live a healthy life."
+  },
+  {
+    "sentence": "この年を境に人生が変わった。",
+    "sentence_furigana": "この年【とし】を境【さかい】に人生【じんせい】が変【か】わった。",
+    "meaning": "My life changed from that year."
+  },
+  {
+    "sentence": "彼は数年間海外で働いていた。",
+    "sentence_furigana": "彼【かれ】は数年間【すうねんかん】海外【かいがい】で働【はたら】いていた。",
+    "meaning": "He worked abroad for several years."
+  },
+  {
+    "sentence": "毎年恒例のイベントが今年も開催された。",
+    "sentence_furigana": "毎年恒例【まいとしこうれい】のイベントが今年【ことし】も開催【かいさい】された。",
+    "meaning": "The annual event was held again this year."
+  },
+  {
+    "sentence": "長年の夢だったお店を開業しました。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】だったお店【みせ】を開業【かいぎょう】しました。",
+    "meaning": "I opened my own shop, which was my dream for many years."
+  },
+  {
+    "sentence": "この学年は非常に優秀な学生が多い。",
+    "sentence_furigana": "この学年【がくねん】は非常【ひじょう】に優秀【ゆうしゅう】な学生【がくせい】が多【おお】い。",
+    "meaning": "There are many excellent students in this academic year."
+  },
+  {
+    "sentence": "彼女は若い頃から国際的な活動に参加していた。",
+    "sentence_furigana": "彼女【かのじょ】は若【わか】い頃【ころ】から国際的【こくさいてき】な活動【かつどう】に参加【さんか】していた。",
+    "meaning": "She participated in international activities from a young age."
+  },
+  {
+    "sentence": "この年は特別な意味を持つ。",
+    "sentence_furigana": "この年【とし】は特別【とくべつ】な意味【いみ】を持【も】つ。",
+    "meaning": "This year holds special significance."
+  },
+  {
+    "sentence": "彼は十年間この職に就いている。",
+    "sentence_furigana": "彼【かれ】は十年間【じゅうねんかん】この職【しょく】に就【つ】いている。",
+    "meaning": "He has held this position for ten years."
+  },
+  {
+    "sentence": "来年のカレンダーが発売された。",
+    "sentence_furigana": "来年【らいねん】のカレンダーが発売【はつばい】された。",
+    "meaning": "Next year's calendars have been released."
+  },
+  {
+    "sentence": "彼女は長年のファンだ。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】のファンだ。",
+    "meaning": "She is a fan of many years."
+  },
+  {
+    "sentence": "この歴史的な建物は何年くらい前に建てられたのですか。",
+    "sentence_furigana": "この歴史的【れきしてき】な建物【たてもの】は何年【なんねん】くらい前【まえ】に建【た】てられたのですか。",
+    "meaning": "About how many years ago was this historic building built?"
+  },
+  {
+    "sentence": "少年犯罪が増加傾向にある。",
+    "sentence_furigana": "少年犯罪【しょうねんはんざい】が増加傾向【ぞうかけいこう】にある。",
+    "meaning": "Juvenile delinquency is on the rise."
+  },
+  {
+    "sentence": "今年は昨年よりも気温が高い日が続いている。",
+    "sentence_furigana": "今年【ことし】は昨年【さくねん】より気温【きおん】が高【たか】い日【ひ】が続【つづ】いている。",
+    "meaning": "This year, days with higher temperatures than last year have continued."
+  },
+  {
+    "sentence": "彼の人生の集大成となる年になるだろう。",
+    "sentence_furigana": "彼【かれ】の人生【じんせい】の集大成【しゅうたいせい】となる年【とし】になるだろう。",
+    "meaning": "This will likely be the culmination of his life."
+  },
+  {
+    "sentence": "彼女は数年前にこの分野に参入した。",
+    "sentence_furigana": "彼女【かのじょ】は数年前【すうねんまえ】にこの分野【ぶんや】に参入【さんにゅう】した。",
+    "meaning": "She entered this field several years ago."
+  },
+  {
+    "sentence": "この記念年は特別なイベントが開催される予定です。",
+    "sentence_furigana": "この記念年【きねんねん】は特別【とくべつ】なイベントが開催【かいさい】される予定【よてい】です。",
+    "meaning": "Special events are scheduled for this anniversary year."
+  },
+  {
+    "sentence": "長年にわたる研究がようやく実を結んだ。",
+    "sentence_furigana": "長年【ながねん】にわたる研究【けんきゅう】がようやく実【み】を結【むす】んだ。",
+    "meaning": "Years of research have finally borne fruit."
+  },
+  {
+    "sentence": "彼は三十年間この町に住んでいる。",
+    "sentence_furigana": "彼【かれ】は三十年間【さんじゅうねんかん】この町【まち】に住【す】んでいる。",
+    "meaning": "He has lived in this town for thirty years."
+  },
+  {
+    "sentence": "若い頃の苦労は買ってでもせよ、という言葉がある。",
+    "sentence_furigana": "若【わか】い頃【ころ】の苦労【くろう】は買【か】ってもせよ、という言葉【ことば】がある。",
+    "meaning": "There is a saying that you should even buy hardship when you are young."
+  },
+  {
+    "sentence": "この年は多くの卒業生が巣立っていった。",
+    "sentence_furigana": "この年【とし】は多【おお】くの卒業生【そつぎょうせい】が巣立【すた】っていった。",
+    "meaning": "Many graduates left this year."
+  },
+  {
+    "sentence": "彼女は若くして独立した事業家となった。",
+    "sentence_furigana": "彼女【かのじょ】は若【わか】くして独立【どくりつ】した事業家【じぎょうか】となった。",
+    "meaning": "She became an independent entrepreneur at a young age."
+  },
+  {
+    "sentence": "来年の抱負を語る。",
+    "sentence_furigana": "来年【らいねん】の抱負【ほうふ】を語【かた】る。",
+    "meaning": "Talk about aspirations for next year."
+  },
+  {
+    "sentence": "この祭りは千年以上続いている。",
+    "sentence_furigana": "この祭【まつ】りは千年以上【せんねんいじょう】続【つづ】いている。",
+    "meaning": "This festival has continued for over a thousand years."
+  },
+  {
+    "sentence": "彼女は数十年前にこの地に移住してきた。",
+    "sentence_furigana": "彼女【かのじょ】は数十年【すうじゅうねん】前【まえ】にこの地【ち】に移住【いじゅう】してきた。",
+    "meaning": "She immigrated to this land several decades ago."
+  },
+  {
+    "sentence": "少年時代に戻りたい。",
+    "sentence_furigana": "少年時代【しょうねんじだい】に戻【もど】りたい。",
+    "meaning": "I want to go back to my childhood."
+  },
+  {
+    "sentence": "今年の成績は去年よりも向上した。",
+    "sentence_furigana": "今年【ことし】の成績【せいせき】は去年【きょねん】より向上【こうじょう】した。",
+    "meaning": "This year's performance improved compared to last year."
+  },
+  {
+    "sentence": "長年待ち望んだ瞬間がついに訪れた。",
+    "sentence_furigana": "長年【ながねん】待【ま】ち望【のぞ】んだ瞬間【しゅんかん】がついに訪【おとず】れた。",
+    "meaning": "The moment I had been waiting for for many years finally arrived."
+  },
+  {
+    "sentence": "この法律が制定されてから二十年になる。",
+    "sentence_furigana": "この法律【ほうりつ】が制定【せいてい】されてから二十年【はたちねん】になる。",
+    "meaning": "It has been twenty years since this law was enacted."
+  },
+  {
+    "sentence": "彼女は若い頃から独立心旺盛だった。",
+    "sentence_furigana": "彼女【かのじょ】は若【わか】い頃【ころ】から独立心旺盛【どくりつしんおうせい】だった。",
+    "meaning": "She had a strong independent spirit from a young age."
+  },
+  {
+    "sentence": "この年の出来事は歴史に刻まれるだろう。",
+    "sentence_furigana": "この年【とし】の出来事【できごと】は歴史【れきし】に刻【きざ】まれるだろう。",
+    "meaning": "The events of this year will likely be etched in history."
+  },
+  {
+    "sentence": "彼は長年この分野で活躍してきた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】この分野【ぶんや】で活躍【かつやく】してきた。",
+    "meaning": "He has been active in this field for many years."
+  },
+  {
+    "sentence": "来年度の計画について、詳細な資料を準備します。",
+    "sentence_furigana": "来年度【らいねんど】の計画【けいかく】について、詳細【しょうさい】な資料【しりょう】を準備【じゅんび】します。",
+    "meaning": "We will prepare detailed materials for next year's plan."
+  },
+  {
+    "sentence": "彼女は少年時代からずっと歌手になることを夢見ていた。",
+    "sentence_furigana": "彼女【かのじょ】は少年時代【しょうねんじだい】からずっと歌手【かしゅ】になること<strong></strong>を夢見【ゆめみ】ていた。",
+    "meaning": "She had always dreamed of becoming a singer since her childhood."
+  },
+  {
+    "sentence": "この年は多くの人にとって忘れられない年となった。",
+    "sentence_furigana": "この年【とし】は多【おお】くの人【ひと】にとって忘【わす】れられない年【とし】となった。",
+    "meaning": "This year became an unforgettable year for many people."
+  },
+  {
+    "sentence": "彼は数年間の浪人生活を経て大学に合格した。",
+    "sentence_furigana": "彼【かれ】は数年間【すうねんかん】の浪人生活【ろうにんせいかつ】を経【へ】て大学【だいがく】に合格【ごうかく】した。",
+    "meaning": "He passed the university entrance exams after several years of being a ronin (unemployed/student)."
+  },
+  {
+    "sentence": "毎年恒例の夏祭りが今年も開催されます。",
+    "sentence_furigana": "毎年恒例【まいとしこうれい】の夏祭【なつまつ】りが今年【ことし】も開催【かいさい】されます。",
+    "meaning": "The annual summer festival will be held again this year."
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "愛はすべてを乗り越える力。",
+    "sentence_furigana": "愛【あい】はすべてを乗【の】り越【こ】える力【ちから】。",
+    "meaning": "Love is the power that overcomes all."
+  },
+  {
+    "sentence": "子供への愛は無限だ。",
+    "sentence_furigana": "子供【こども】への愛【あい】は無限【むげん】だ。",
+    "meaning": "Love for a child is infinite."
+  },
+  {
+    "sentence": "深い愛情を込めて。",
+    "sentence_furigana": "深【ふか】い愛情【あいじょう】を込【こ】めて。",
+    "meaning": "With deep affection."
+  },
+  {
+    "sentence": "彼女は祖国を愛している。",
+    "sentence_furigana": "彼女【かのじょ】は祖国【そこく】を愛【あい】している。",
+    "meaning": "She loves her homeland."
+  },
+  {
+    "sentence": "家族の愛が一番大切です。",
+    "sentence_furigana": "家族【かぞく】の愛【あい】が一番【いちばん】大切【たいせつ】です。",
+    "meaning": "Family love is the most important."
+  },
+  {
+    "sentence": "人類愛を説く。",
+    "sentence_furigana": "人類愛【じんるいあい】を説【と】く。",
+    "meaning": "To preach philanthropy."
+  },
+  {
+    "sentence": "博愛の精神に満ちている。",
+    "sentence_furigana": "博愛【はくあい】の精神【せいしん】に満【み】ちている。",
+    "meaning": "Filled with the spirit of universal love."
+  },
+  {
+    "sentence": "彼はペットをとても愛でている。",
+    "sentence_furigana": "彼【かれ】はペットをとても愛【めで】でいる。",
+    "meaning": "He cherishes his pet very much."
+  },
+  {
+    "sentence": "その歌は愛情を歌っている。",
+    "sentence_furigana": "その歌【うた】は愛情【あいじょう】を歌【うた】っている。",
+    "meaning": "That song sings of love."
+  },
+  {
+    "sentence": "亡き妻を愛おしく思う。",
+    "sentence_furigana": "亡【な】き妻【つま】を愛【いと】おしく思【おも】う。",
+    "meaning": "I fondly remember my late wife."
+  },
+  {
+    "sentence": "母の愛は偉大だ。",
+    "sentence_furigana": "母【はは】の愛【あい】は偉大【いだい】だ。",
+    "meaning": "A mother's love is great."
+  },
+  {
+    "sentence": "恋愛の自由を求める。",
+    "sentence_furigana": "恋愛【れんあい】の自由【じゆう】を求【もと】める。",
+    "meaning": "To seek freedom in love."
+  },
+  {
+    "sentence": "故郷を懐かしく愛する。",
+    "sentence_furigana": "故郷【こきょう】を懐【なつ】かしく愛【あい】する。",
+    "meaning": "To love one's hometown with nostalgia."
+  },
+  {
+    "sentence": "彼の愛する人。",
+    "sentence_furigana": "彼【かれ】の愛【あい】する人【ひと】。",
+    "meaning": "His beloved person."
+  },
+  {
+    "sentence": "愛犬の散歩。",
+    "sentence_furigana": "愛犬【あいけん】の散歩【さんぽ】。",
+    "meaning": "Walking the beloved dog."
+  },
+  {
+    "sentence": "愛情表現が豊かだ。",
+    "sentence_furigana": "愛情表現【あいじょうひょうげん】が豊【ゆた】かだ。",
+    "meaning": "Rich in expressions of affection."
+  },
+  {
+    "sentence": "この本は私が愛蔵しているものだ。",
+    "sentence_furigana": "この本【ほん】は私【わたし】が愛蔵【あいぞう】しているものだ。",
+    "meaning": "This book is one that I treasure."
+  },
+  {
+    "sentence": "彼は芸術を深く愛している。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】を深【ふか】く愛【あい】している。",
+    "meaning": "He deeply loves art."
+  },
+  {
+    "sentence": "友情から愛情に変わった。",
+    "sentence_furigana": "友情【ゆうじょう】から愛情【あいじょう】に変わ【かわ】った。",
+    "meaning": "It changed from friendship to love."
+  },
+  {
+    "sentence": "国を愛する心。",
+    "sentence_furigana": "国【くに】を愛【あい】する心【こころ】。",
+    "meaning": "A heart that loves the country."
+  },
+  {
+    "sentence": "この土地を愛おしく思う。",
+    "sentence_furigana": "この土地【とち】を愛【いと】おしく思【おも】う。",
+    "meaning": "I have a tender feeling for this land."
+  },
+  {
+    "sentence": "彼は猫を溺愛している。",
+    "sentence_furigana": "彼【かれ】は猫【ねこ】を溺愛【できあい】している。",
+    "meaning": "He dotes on his cat."
+  },
+  {
+    "sentence": "その花は私の愛用品だ。",
+    "sentence_furigana": "その花【はな】は私【わたし】の愛用品【あいようひん】だ。",
+    "meaning": "That flower is my favorite item."
+  },
+  {
+    "sentence": "愛する家族のために頑張る。",
+    "sentence_furigana": "愛【あい】する家族【かぞく】のために頑張【がんば】る。",
+    "meaning": "I'll do my best for my beloved family."
+  },
+  {
+    "sentence": "愛情を込めて育てた。",
+    "sentence_furigana": "愛情【あいじょう】を込【こ】めて育【そだ】てた。",
+    "meaning": "Raised with love."
+  },
+  {
+    "sentence": "愛の力は大きい。",
+    "sentence_furigana": "愛【あい】の力【ちから】は的大【おお】きい。",
+    "meaning": "The power of love is great."
+  },
+  {
+    "sentence": "彼女は猫愛好家だ。",
+    "sentence_furigana": "彼女【かのじょ】は猫愛好家【ねこあいこうか】だ。",
+    "meaning": "She is a cat lover."
+  },
+  {
+    "sentence": "この曲は愛をテーマにしている。",
+    "sentence_furigana": "この曲【きょく】は愛【あい】をテーマにしている。",
+    "meaning": "This song is about love."
+  },
+  {
+    "sentence": "子供の頃、夏が大好きだった。",
+    "sentence_furigana": "子供【こども】の頃【ころ】、夏【なつ】が大好【だいす】きだった。",
+    "meaning": "I loved summer when I was a child."
+  },
+  {
+    "sentence": "真実の愛を見つけたい。",
+    "sentence_furigana": "真実【しんじつ】の愛【あい】を見【み】つけたい。",
+    "meaning": "I want to find true love."
+  },
+  {
+    "sentence": "彼は旧友を愛おしむ。",
+    "sentence_furigana": "彼【かれ】は旧友【きゅうゆう】を愛【お】しむ。",
+    "meaning": "He cherishes his old friends."
+  },
+  {
+    "sentence": "家族の愛情を一身に受ける。",
+    "sentence_furigana": "家族【かぞく】の愛情【あいじょう】を一身【いっしん】に受【う】ける。",
+    "meaning": "To receive all the love from one's family."
+  },
+  {
+    "sentence": "彼は環境保護を愛する。",
+    "sentence_furigana": "彼【かれ】は環境保護【かんきょうほご】を愛【あい】する。",
+    "meaning": "He loves environmental protection."
+  },
+  {
+    "sentence": "この町は私の愛する故郷です。",
+    "sentence_furigana": "この町【まち】は私【わたし】の愛【あい】する故郷【こきょう】です。",
+    "meaning": "This town is my beloved hometown."
+  },
+  {
+    "sentence": "愛犬が事故に遭った。",
+    "sentence_furigana": "愛犬【あいけん】が事故【じこ】に遭【あ】った。",
+    "meaning": "My beloved dog had an accident."
+  },
+  {
+    "sentence": "愛情たっぷりの手料理。",
+    "sentence_furigana": "愛情【あいじょう】たっぷり<0xE3><0x81><0xAE>手料理【てりょうり】。",
+    "meaning": "Home-cooked meal full of love."
+  },
+  {
+    "sentence": "彼女は子供たちに愛されている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちに愛【あい】されている。",
+    "meaning": "She is loved by the children."
+  },
+  {
+    "sentence": "愛国心に燃える。",
+    "sentence_furigana": "愛国心【あいこくしん】に燃【も】える。",
+    "meaning": "To be filled with patriotism."
+  },
+  {
+    "sentence": "この古い椅子を愛用している。",
+    "sentence_furigana": "この古【ふる】い椅子【いす】を愛用【あいよう】している。",
+    "meaning": "I've been using this old chair for a long time."
+  },
+  {
+    "sentence": "彼の愛情表現はストレートだ。",
+    "sentence_furigana": "彼【かれ】の愛情表現【あいじょうひょうげん】はストレートだ。",
+    "meaning": "His expressions of affection are straightforward."
+  },
+  {
+    "sentence": "愛と平和を願う。",
+    "sentence_furigana": "愛【あい】と平和【へいわ】を願【ねが】う。",
+    "meaning": "To wish for love and peace."
+  },
+  {
+    "sentence": "君を愛しています。",
+    "sentence_furigana": "君【きみ】を愛【あい】しています。",
+    "meaning": "I love you."
+  },
+  {
+    "sentence": "愛する人のために頑張れる。",
+    "sentence_furigana": "愛【あい】する人【ひと】のために頑張【がんば】れる。",
+    "meaning": "I can do my best for the person I love."
+  },
+  {
+    "sentence": "この本は愛読書の一つです。",
+    "sentence_furigana": "この本【ほん】は愛読書【あいどくしょ】の一【ひと】つです。",
+    "meaning": "This book is one of my favorite books."
+  },
+  {
+    "sentence": "祖母は私をとても愛おしんでくれた。",
+    "sentence_furigana": "祖母【そぼ】は私【わたし】をとても愛【お】しんでくれた。",
+    "meaning": "My grandmother cherished me very much."
+  },
+  {
+    "sentence": "家族への愛情は変わらない。",
+    "sentence_furigana": "家族【かぞく】への愛情【あいじょう】は変【か】わらない。",
+    "meaning": "My affection for my family will not change."
+  },
+  {
+    "sentence": "彼は仕事に愛着を持っている。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】に愛着【あいちゃく】を持【も】っている。",
+    "meaning": "He has an attachment to his work."
+  },
+  {
+    "sentence": "子供は親を愛する。",
+    "sentence_furigana": "子供【こども】は親【おや】を愛【あい】する。",
+    "meaning": "Children love their parents."
+  },
+  {
+    "sentence": "愛用品を大切に使う。",
+    "sentence_furigana": "愛用品【あいようひん】を大切【たいせつ】に<0xE3><0x81><0x86>。",
+    "meaning": "To use cherished items carefully."
+  },
+  {
+    "sentence": "彼は彼女に心から愛情を注いでいる。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】に心【こころ】から愛情【あいじょう】を注【そそ】いでいる。",
+    "meaning": "He pours affection into her from the bottom of his heart."
+  },
+  {
+    "sentence": "純愛物語。",
+    "sentence_furigana": "純愛【じゅんあい】物語【ものがたり】。",
+    "meaning": "A pure love story."
+  },
+  {
+    "sentence": "彼の音楽は多くの人に愛されている。",
+    "sentence_furigana": "彼【かれ】の音楽【おんがく】は多<0xE3><0x81><0x8F>の人【ひと】に愛【あい】されている。",
+    "meaning": "His music is loved by many people."
+  },
+  {
+    "sentence": "この本は私の愛蔵品です。",
+    "sentence_furigana": "この本【ほん】は私【わたし】の愛蔵品【あいぞうひん】です。",
+    "meaning": "This book is my treasured possession."
+  },
+  {
+    "sentence": "故郷への愛おしさ。",
+    "sentence_furigana": "故郷【こきょう】への愛【お】しさ。",
+    "meaning": "Fondness for one's hometown."
+  },
+  {
+    "sentence": "彼は動物愛護に熱心だ。",
+    "sentence_furigana": "彼【かれ】は動物愛護【どうぶつあいご】に熱心【ねっしん】だ。",
+    "meaning": "He is enthusiastic about animal welfare."
+  },
+  {
+    "sentence": "愛情のこもった贈り物。",
+    "sentence_furigana": "愛情【あいじょう】の<0xE3><0x82><0x82>った贈【おく】り物【もの】。",
+    "meaning": "A gift filled with love."
+  },
+  {
+    "sentence": "愛らしい子供。",
+    "sentence_furigana": "愛【あい】らし<0xE3><0x81><0x84>子供【こども】。",
+    "meaning": "A lovely child."
+  },
+  {
+    "sentence": "彼女は母性を愛おしく思う。",
+    "sentence_furigana": "彼女【かのじょ】は母性【ぼせい】を愛【いと】おしく<0xE3><0x81><0x8A>う。",
+    "meaning": "She cherishes her maternal instincts."
+  },
+  {
+    "sentence": "祖国を愛し、祖国に仕える。",
+    "sentence_furigana": "祖国【そこく】を愛【あい】し、祖国【そこく】に仕【つか】える。",
+    "meaning": "To love one's country and serve it."
+  },
+  {
+    "sentence": "彼の作品は人々に愛されている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は人々【ひとびと】に愛【あい】されている。",
+    "meaning": "His works are loved by people."
+  },
+  {
+    "sentence": "この地域の自然を愛する。",
+    "sentence_furigana": "この地域【ちいき】の自然【しぜん】を愛【あい】する。",
+    "meaning": "To love the nature of this region."
+  },
+  {
+    "sentence": "愛する人といつまでも一緒にいたい。",
+    "sentence_furigana": "愛【あい】する人【ひと】といつまでも一緒【いっしょ】にいたい。",
+    "meaning": "I want to be with the person I love forever."
+  },
+  {
+    "sentence": "彼の演技は観客に愛された。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】は観客【かんきゃく】に愛【あい】された。",
+    "meaning": "His performance was loved by the audience."
+  },
+  {
+    "sentence": "家族の愛は私の支えだ。",
+    "sentence_furigana": "家族【かぞく】の愛【あい】は私【わたし】の支【ささ】えだ。",
+    "meaning": "Family love is my support."
+  },
+  {
+    "sentence": "彼らは互いを深く愛し合っている。",
+    "sentence_furigana": "彼【かれ】ら<0xE3><0x81><0xAF>互【たが】い<0xE3><0x82><0x92>深【ふか】く愛【あい】し合【あ】っている。",
+    "meaning": "They love each other deeply."
+  },
+  {
+    "sentence": "愛用の万年筆。",
+    "sentence_furigana": "愛用【あいよう】の万年筆【まんねんひつ】。",
+    "meaning": "My favorite fountain pen."
+  },
+  {
+    "sentence": "この本は多くの人に愛読されている。",
+    "sentence_furigana": "この本【ほん】は多<0xE3><0x81><0x8F>の人【ひと】に愛読【あいどく】されている。",
+    "meaning": "This book is read with great pleasure by many people."
+  },
+  {
+    "sentence": "彼は故郷の文化を愛している。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の文化【ぶんか】を愛【あい】している。",
+    "meaning": "He loves the culture of his hometown."
+  },
+  {
+    "sentence": "愛する我が子。",
+    "sentence_furigana": "愛【あい】する我が子【わがこ】。",
+    "meaning": "My beloved child."
+  },
+  {
+    "sentence": "彼女の愛らしさに魅了された。",
+    "sentence_furigana": "彼女【かのじょ】の愛【あい】らしさ<0xE3><0x81><0xAB>魅了【みりょう】された。",
+    "meaning": "I was charmed by her loveliness."
+  },
+  {
+    "sentence": "この場所への愛着。",
+    "sentence_furigana": "この場所【ばしょ】への愛着【あいちゃく】。",
+    "meaning": "Attachment to this place."
+  },
+  {
+    "sentence": "彼女は家族を溺愛している。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】を溺愛【できあい】している。",
+    "meaning": "She dotes on her family."
+  },
+  {
+    "sentence": "愛情は人生の宝だ。",
+    "sentence_furigana": "愛情【あいじょう】は人生【じんせい】の宝【たから】だ。",
+    "meaning": "Love is the treasure of life."
+  },
+  {
+    "sentence": "彼は友人を深く愛している。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】を深【ふか】く愛【あい】している。",
+    "meaning": "He deeply loves his friends."
+  },
+  {
+    "sentence": "愛犬の健康を願う。",
+    "sentence_furigana": "愛犬【あいけん】の健康【けんこう】を願【ねが】う。",
+    "meaning": "Wishing for the health of my beloved dog."
+  },
+  {
+    "sentence": "この古い時計を愛用している。",
+    "sentence_furigana": "この古【ふる】い時計【とけい】を愛用【あいよう】している。",
+    "meaning": "I've been using this old watch for a long time."
+  },
+  {
+    "sentence": "子供の成長を愛おしく見守る。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】を愛【お】しく見守【みまも】る。",
+    "meaning": "To lovingly watch over a child's growth."
+  },
+  {
+    "sentence": "愛する人を失う悲しみ。",
+    "sentence_furigana": "愛【あい】する人【ひと】を失【うしな】う悲【かな】しみ。",
+    "meaning": "The sorrow of losing a loved one."
+  },
+  {
+    "sentence": "彼は自然を愛する心を持っている。",
+    "sentence_furigana": "彼【かれ】は自然【しぜん】を愛【あい】する心【こころ】を持【も】っている。",
+    "meaning": "He has a heart that loves nature."
+  },
+  {
+    "sentence": "愛情を込めて育てられた。",
+    "sentence_furigana": "愛情【あいじょう】を込【こ】めて育【そだ】てられた。",
+    "meaning": "Was raised with love."
+  },
+  {
+    "sentence": "彼はペットへの愛が深い。",
+    "sentence_furigana": "彼【かれ】はペットへの愛【あい】が深【ふか】い。",
+    "meaning": "His love for his pet is deep."
+  },
+  {
+    "sentence": "この本は私の愛蔵書です。",
+    "sentence_furigana": "この本【ほん】は私【わたし】の愛蔵書【あいぞうしょ】です。",
+    "meaning": "This book is my cherished book."
+  },
+  {
+    "sentence": "彼女は家族の愛情に感謝している。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の愛情【あいじょう】に感謝【かんしゃ】している。",
+    "meaning": "She is grateful for her family's love."
+  },
+  {
+    "sentence": "愛する我が街。",
+    "sentence_furigana": "愛【あい】する我が街【まち】。",
+    "meaning": "My beloved town."
+  },
+  {
+    "sentence": "彼は猫愛が深い。",
+    "sentence_furigana": "彼【かれ】は猫愛【ねこあい】が深【ふか】い。",
+    "meaning": "He is very fond of cats."
+  },
+  {
+    "sentence": "この仕事への愛着。",
+    "sentence_furigana": "この仕事【しごと】への愛着【あいちゃく】。",
+    "meaning": "Attachment to this work."
+  },
+  {
+    "sentence": "愛する祖国。",
+    "sentence_furigana": "愛【あい】する祖国【そこく】。",
+    "meaning": "Beloved homeland."
+  },
+  {
+    "sentence": "彼女は子供たちに愛情を注いでいる。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちに愛情【あいじょう】を注【そそ】いでいる。",
+    "meaning": "She is pouring affection into the children."
+  },
+  {
+    "sentence": "彼の音楽は多くの人に愛されている。",
+    "sentence_furigana": "彼【かれ】の音楽【おんがく】は多<0xE3><0x81><0x8F>の人【ひと】に愛【あい】されている。",
+    "meaning": "His music is loved by many people."
+  },
+  {
+    "sentence": "愛犬との散歩は日課だ。",
+    "sentence_furigana": "愛犬【あいけん】との散歩【さんぽ】は日課【にっか】だ。",
+    "meaning": "Walking with my beloved dog is a daily routine."
+  },
+  {
+    "sentence": "愛する人を大切にする。",
+    "sentence_furigana": "愛【あい】する人【ひと】を大切【たいせつ】にする。",
+    "meaning": "To cherish the person you love."
+  },
+  {
+    "sentence": "彼女の歌声は人々を愛でさせる。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は人々【ひとびと】を愛【めで】させる。",
+    "meaning": "Her singing voice makes people happy."
+  },
+  {
+    "sentence": "愛情は人生を豊かにする。",
+    "sentence_furigana": "愛情【あいじょう】は人生【じんせい】を豊【ゆた】かにする。",
+    "meaning": "Love enriches life."
+  },
+  {
+    "sentence": "彼は故郷を深く愛している。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】を深【ふか】く愛【あい】している。",
+    "meaning": "He deeply loves his hometown."
+  },
+  {
+    "sentence": "愛する人と共に歩む。",
+    "sentence_furigana": "愛【あい】する人【ひと】と共【とも】に歩【あ】む。",
+    "meaning": "To walk together with the person you love."
+  },
+  {
+    "sentence": "この庭は私の愛する場所だ。",
+    "sentence_furigana": "この庭【にわ】は私【わたし】の愛【あい】する場所【ばしょ】だ。",
+    "meaning": "This garden is my beloved place."
+  },
+  {
+    "sentence": "彼女の愛らしさは天下一品だ。",
+    "sentence_furigana": "彼女【かのじょ】の愛【あい】らしさ<0xE3><0x81><0xAF>天下一品【てんかいっぴん】だ。",
+    "meaning": "Her loveliness is second to none."
+  },
+  {
+    "sentence": "彼は古い書物を愛蔵している。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い書物【しょもつ】を愛蔵【あいぞう】している。",
+    "meaning": "He treasures old books."
+  },
+  {
+    "sentence": "愛情表現は大切だ。",
+    "sentence_furigana": "愛情表現【あいじょうひょうげん】は大切【たいせつ】だ。",
+    "meaning": "Expressing affection is important."
+  },
+  {
+    "sentence": "この曲に愛情を感じる。",
+    "sentence_furigana": "この曲【きょく】に愛情【あいじょう】を感【かん】じる。",
+    "meaning": "I feel love in this song."
+  },
+  {
+    "sentence": "彼は祖国を愛するあまり、国のために尽くした。",
+    "sentence_furigana": "彼【かれ】は祖国【そこく】を愛【あい】するあまり、国【くに】のために尽【つ】くした。",
+    "meaning": "He loved his country so much that he devoted himself to it."
+  },
+  {
+    "sentence": "愛を育む。",
+    "sentence_furigana": "愛【あい】を育【はぐく】む。",
+    "meaning": "To foster love."
+  },
+  {
+    "sentence": "彼は音楽を愛し、それを極めようとした。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】を愛【あい】し、そ<0xE3><0x82><0x8C>を極【きわ】めようとした。",
+    "meaning": "He loved music and tried to master it."
+  },
+  {
+    "sentence": "彼女は子供たちに愛されている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】たちに愛【あい】されている。",
+    "meaning": "She is loved by the children."
+  },
+  {
+    "sentence": "この絵は私が愛蔵している。",
+    "sentence_furigana": "この絵【え】は私【わたし】が愛蔵【あいぞう】している。",
+    "meaning": "This painting is treasured by me."
+  },
+  {
+    "sentence": "彼の愛情は変わらない。",
+    "sentence_furigana": "彼【かれ】の愛情【あいじょう】は変【か】わらない。",
+    "meaning": "His affection does not change."
+  }
+]

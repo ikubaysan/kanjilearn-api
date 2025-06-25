@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "領収書を納める。",
+    "sentence_furigana": "領収書【りょうしゅうしょ】を納【おさ】める。",
+    "meaning": "To pay the receipt."
+  },
+  {
+    "sentence": "品物が納品された。",
+    "sentence_furigana": "品物【しなもの】が納品【のうひん】された。",
+    "meaning": "The goods were delivered."
+  },
+  {
+    "sentence": "税金を納める義務がある。",
+    "sentence_furigana": "税金【ぜいきん】を納【おさ】める義務【ぎむ】がある。",
+    "meaning": "There is an obligation to pay taxes."
+  },
+  {
+    "sentence": "家賃を滞りなく納める。",
+    "sentence_furigana": "家賃【やちん】を滞【とどこお】りなく納【おさ】める。",
+    "meaning": "To pay the rent without delay."
+  },
+  {
+    "sentence": "金銭を納入する。",
+    "sentence_furigana": "金銭【きんせん】を納入【のうにゅう】する。",
+    "meaning": "To pay money."
+  },
+  {
+    "sentence": "納豆は発酵食品です。",
+    "sentence_furigana": "納豆【なっとう】は発酵食品【はっこうしょくひん】です。",
+    "meaning": "Natto is a fermented food."
+  },
+  {
+    "sentence": "成果を納める。",
+    "sentence_furigana": "成果【せいか】を納【おさ】める。",
+    "meaning": "To achieve results."
+  },
+  {
+    "sentence": "納期を守って納品する。",
+    "sentence_furigana": "納期【のうき】を守【まも】って納品【のうひん】する。",
+    "meaning": "To deliver by the deadline."
+  },
+  {
+    "sentence": "契約金を納める。",
+    "sentence_furigana": "契約金【けいやくきん】を納【おさ】める。",
+    "meaning": "To pay the contract money."
+  },
+  {
+    "sentence": "会費を納めました。",
+    "sentence_furigana": "会費【かいひ】を納【おさ】めました。",
+    "meaning": "I paid the membership fee."
+  },
+  {
+    "sentence": "収穫を納屋に納める。",
+    "sentence_furigana": "収穫【しゅうかく】を納屋【なや】に納【おさ】める。",
+    "meaning": "To store the harvest in the barn."
+  },
+  {
+    "sentence": "納付期限が迫っている。",
+    "sentence_furigana": "納付期限【のうふきげん】が迫【せ】まっている。",
+    "meaning": "The payment deadline is approaching."
+  },
+  {
+    "sentence": "年貢を納める。",
+    "sentence_furigana": "年貢【ねんぐ】を納【おさ】める。",
+    "meaning": "To pay tribute."
+  },
+  {
+    "sentence": "納入品を確認する。",
+    "sentence_furigana": "納入品【のうにゅうひん】を確認【かくにん】する。",
+    "meaning": "To confirm the delivered items."
+  },
+  {
+    "sentence": "新しい自転車を納車した。",
+    "sentence_furigana": "新【あたら】しい自転車【じてんしゃ】を納車【のうしゃ】した。",
+    "meaning": "We delivered a new bicycle."
+  },
+  {
+    "sentence": "納品書を添付する。",
+    "sentence_furigana": "納品書【のうひんしょ】を添付【てんぷ】する。",
+    "meaning": "To attach the delivery note."
+  },
+  {
+    "sentence": "納会を開く。",
+    "sentence_furigana": "納会【のうかい】を開【ひら】く。",
+    "meaning": "To hold a closing ceremony party."
+  },
+  {
+    "sentence": "納品遅延のお詫び。",
+    "sentence_furigana": "納品遅延【のうひんちえん】のお詫【わ】び。",
+    "meaning": "Apology for delivery delay."
+  },
+  {
+    "sentence": "祭りの後片付けを納める。",
+    "sentence_furigana": "祭【まつ】りの後片付【あとがた】けを納【おさ】める。",
+    "meaning": "To finish cleaning up after the festival."
+  },
+  {
+    "sentence": "納まりが良い。",
+    "sentence_furigana": "納【おさ】まりが良い【よい】。",
+    "meaning": "It fits well."
+  },
+  {
+    "sentence": "商品を倉庫に納める。",
+    "sentence_furigana": "商品【しょうひん】を倉庫【そうこ】に納【おさ】める。",
+    "meaning": "To put goods into the warehouse."
+  },
+  {
+    "sentence": "納棺の儀式。",
+    "sentence_furigana": "納棺【のうかん】の儀式【ぎしき】。",
+    "meaning": "The ceremony of placing the body in the coffin."
+  },
+  {
+    "sentence": "家賃を納め忘れた。",
+    "sentence_furigana": "家賃【やちん】を納【おさ】め忘【わ】れた。",
+    "meaning": "I forgot to pay the rent."
+  },
+  {
+    "sentence": "納入金の領収証。",
+    "sentence_furigana": "納入金【のうにゅうきん】の領収証【りょうしゅうしょう】。",
+    "meaning": "Receipt for the payment."
+  },
+  {
+    "sentence": "納骨堂に納める。",
+    "sentence_furigana": "納骨堂【のうこつどう】に納【おさ】める。",
+    "meaning": "To enshrine in the columbarium."
+  },
+  {
+    "sentence": "納豆汁を食べる。",
+    "sentence_furigana": "納豆汁【なっとうじる】を食【た】べる。",
+    "meaning": "To eat natto soup."
+  },
+  {
+    "sentence": "納期厳守で納品する。",
+    "sentence_furigana": "納期厳守【のうきげんしゅ】で納品【のうひん】する。",
+    "meaning": "To deliver strictly by the deadline."
+  },
+  {
+    "sentence": "納めの言葉を述べる。",
+    "sentence_furigana": "納【おさ】めの言葉【ことば】を述【の】べる。",
+    "meaning": "To give concluding remarks."
+  },
+  {
+    "sentence": "納車手数料がかかる。",
+    "sentence_furigana": "納車手数料【のうしゃてすうりょう】がかかる。",
+    "meaning": "A vehicle delivery fee will be charged."
+  },
+  {
+    "sentence": "来年の会費を納入する。",
+    "sentence_furigana": "来年【らいねん】の会費【かいひ】を納入【のうにゅう】する。",
+    "meaning": "To pay next year's membership fee."
+  },
+  {
+    "sentence": "納品明細を確認する。",
+    "sentence_furigana": "納品明細【のうひんめいさい】を確認【かくにん】する。",
+    "meaning": "To check the delivery details."
+  },
+  {
+    "sentence": "借金を納める。",
+    "sentence_furigana": "借金【しゃっきん】を納【おさ】める。",
+    "meaning": "To pay off a debt."
+  },
+  {
+    "sentence": "商品を順次納品する。",
+    "sentence_furigana": "商品【しょうひん】を順次【じゅんじ】納品【のうひん】する。",
+    "meaning": "To deliver the goods in sequence."
+  },
+  {
+    "sentence": "納屋に農具を片付ける。",
+    "sentence_furigana": "納屋【なや】に農具【のうぐ】を片付【かた】ける。",
+    "meaning": "To put away farming tools in the barn."
+  },
+  {
+    "sentence": "納付書を紛失した。",
+    "sentence_furigana": "納付書【のうふしょ】を紛失【ふんしつ】した。",
+    "meaning": "I lost the payment slip."
+  },
+  {
+    "sentence": "納品後の検品。",
+    "sentence_furigana": "納品後【のうひんご】の検品【けんぴん】。",
+    "meaning": "Inspection after delivery."
+  },
+  {
+    "sentence": "年金を納める年になった。",
+    "sentence_furigana": "年金【ねんきん】を納【おさ】める年【とし】になった。",
+    "meaning": "It's the year to pay the pension."
+  },
+  {
+    "sentence": "納品リストと照合する。",
+    "sentence_furigana": "納品リスト【のうひんリスト】と照合【しょうごう】する。",
+    "meaning": "To check against the delivery list."
+  },
+  {
+    "sentence": "納戸に季節外れの服をしまう。",
+    "sentence_furigana": "納戸【なんど】に季節外【きせつはずれ】の服【ふく】をしまう。",
+    "meaning": "To put away off-season clothes in the storage room."
+  },
+  {
+    "sentence": "納入業者への支払い。",
+    "sentence_furigana": "納入業者【のうにゅうぎょうしゃ】への支払【しはら】い。",
+    "meaning": "Payment to the supplier."
+  },
+  {
+    "sentence": "納品予定日を確認する。",
+    "sentence_furigana": "納品予定日【のうひんよていび】を確認【かくにん】する。",
+    "meaning": "To check the scheduled delivery date."
+  },
+  {
+    "sentence": "納付を延期する。",
+    "sentence_furigana": "納付【のうふ】を延期【えんき】する。",
+    "meaning": "To postpone payment."
+  },
+  {
+    "sentence": "納采の儀。",
+    "sentence_furigana": "納采【のうさい】の儀【ぎ】。",
+    "meaning": "The ceremony of presenting betrothal gifts."
+  },
+  {
+    "sentence": "納品書を再発行する。",
+    "sentence_furigana": "納品書【のうひんしょ】を再発行【さいはっこう】する。",
+    "meaning": "To re-issue the delivery note."
+  },
+  {
+    "sentence": "納戸を整理する。",
+    "sentence_furigana": "納戸【なんど】を整理【せいり】する。",
+    "meaning": "To organize the storage room."
+  },
+  {
+    "sentence": "納品確認のメール。",
+    "sentence_furigana": "納品確認【のうひんかくにん】のメール。",
+    "meaning": "Delivery confirmation email."
+  },
+  {
+    "sentence": "税金納付の通知。",
+    "sentence_furigana": "税金納付【ぜいきんのうふ】の通知【つうち】。",
+    "meaning": "Notice of tax payment."
+  },
+  {
+    "sentence": "納品伝票を処理する。",
+    "sentence_furigana": "納品伝票【のうひんでんぴょう】を処理【しょり】する。",
+    "meaning": "To process the delivery slip."
+  },
+  {
+    "sentence": "納期の遅延について。",
+    "sentence_furigana": "納期【のうき】の遅延【ちえん】について。",
+    "meaning": "Regarding the delivery delay."
+  },
+  {
+    "sentence": "納品物の点検。",
+    "sentence_furigana": "納品物【のうひんぶつ】の点検【てんけん】。",
+    "meaning": "Inspection of delivered goods."
+  },
+  {
+    "sentence": "納付方法を変更する。",
+    "sentence_furigana": "納付方法【のうふほうほう】を変更【へんこう】する。",
+    "meaning": "To change the payment method."
+  },
+  {
+    "sentence": "納品予定通り。",
+    "sentence_furigana": "納品予定【のうひんよてい】通【どお】り。",
+    "meaning": "As per the delivery schedule."
+  },
+  {
+    "sentence": "納豆の作り方。",
+    "sentence_furigana": "納豆【なっとう】の作【つく】り方【かた】。",
+    "meaning": "How to make natto."
+  },
+  {
+    "sentence": "納品書の控え。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】え。",
+    "meaning": "A copy of the delivery note."
+  },
+  {
+    "sentence": "年金納付額。",
+    "sentence_furigana": "年金納付額【ねんきんのうふがく】。",
+    "meaning": "Pension payment amount."
+  },
+  {
+    "sentence": "納品遅延のご連絡。",
+    "sentence_furigana": "納品遅延【のうひんちえん】のご連絡【ごれんらく】。",
+    "meaning": "Notification of delivery delay."
+  },
+  {
+    "sentence": "納品物の紛失。",
+    "sentence_furigana": "納品物【のうひんぶつ】の紛失【ふんしつ】。",
+    "meaning": "Loss of delivered goods."
+  },
+  {
+    "sentence": "納戸の整理整頓。",
+    "sentence_furigana": "納戸【なんど】の整理整頓【せいりせいとん】。",
+    "meaning": "Organizing and tidying the storage room."
+  },
+  {
+    "sentence": "納品書の記載事項。",
+    "sentence_furigana": "納品書【のうひんしょ】の記載事項【きさいじこう】。",
+    "meaning": "Items to be written on the delivery note."
+  },
+  {
+    "sentence": "納品物の検収。",
+    "sentence_furigana": "納品物【のうひんぶつ】の検収【けんしゅう】。",
+    "meaning": "Acceptance inspection of delivered goods."
+  },
+  {
+    "sentence": "納付に関する問い合わせ。",
+    "sentence_furigana": "納付【のうふ】に関する問【と】い合【あ】わせ。",
+    "meaning": "Inquiry regarding payment."
+  },
+  {
+    "sentence": "納品書にサインする。",
+    "sentence_furigana": "納品書【のうひんしょ】にサインする。",
+    "meaning": "To sign the delivery note."
+  },
+  {
+    "sentence": "納品物の破損。",
+    "sentence_furigana": "納品物【のうひんぶつ】の破損【はそん】。",
+    "meaning": "Damage to delivered goods."
+  },
+  {
+    "sentence": "納品書をスキャンする。",
+    "sentence_furigana": "納品書【のうひんしょ】をスキャンする。",
+    "meaning": "To scan the delivery note."
+  },
+  {
+    "sentence": "納品物の数量確認。",
+    "sentence_furigana": "納品物【のうひんぶつ】の数量確認【すうりょうかくにん】。",
+    "meaning": "Quantity check of delivered goods."
+  },
+  {
+    "sentence": "納品書と現物の照合。",
+    "sentence_furigana": "納品書【のうひんしょ】と現物【げんぶつ】の照合【しょうごう】。",
+    "meaning": "Reconciliation of the delivery note with the actual items."
+  },
+  {
+    "sentence": "納品書への記入漏れ。",
+    "sentence_furigana": "納品書【のうひんしょ】への記入漏【きにゅうも】れ。",
+    "meaning": "Omission in filling out the delivery note."
+  },
+  {
+    "sentence": "納品書の再確認。",
+    "sentence_furigana": "納品書【のうひんしょ】の再確認【さいかくにん】。",
+    "meaning": "Reconfirmation of the delivery note."
+  },
+  {
+    "sentence": "納品書がない。",
+    "sentence_furigana": "納品書【のうひんしょ】がない。",
+    "meaning": "There is no delivery note."
+  },
+  {
+    "sentence": "納品書を提出する。",
+    "sentence_furigana": "納品書【のうひんしょ】を提出【ていしゅつ】する。",
+    "meaning": "To submit the delivery note."
+  },
+  {
+    "sentence": "納品書の不備。",
+    "sentence_furigana": "納品書【のうひんしょ】の不備【ふび】。",
+    "meaning": "Defects in the delivery note."
+  },
+  {
+    "sentence": "納品書と異なる。",
+    "sentence_furigana": "納品書【のうひんしょ】と異【こと】なる。",
+    "meaning": "Different from the delivery note."
+  },
+  {
+    "sentence": "納品書の控えを保管する。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】えを保管【ほかん】する。",
+    "meaning": "To keep a copy of the delivery note."
+  },
+  {
+    "sentence": "納品書の紛失について。",
+    "sentence_furigana": "納品書【のうひんしょ】の紛失【ふんしつ】について。",
+    "meaning": "Regarding the loss of the delivery note."
+  },
+  {
+    "sentence": "納品書の確認をお願いします。",
+    "sentence_furigana": "納品書【のうひんしょ】の確認【かくにん】をお願い【ねが】います。",
+    "meaning": "Please check the delivery note."
+  },
+  {
+    "sentence": "納品書の記載漏れを訂正する。",
+    "sentence_furigana": "納品書【のうひんしょ】の記載漏【きさいも】れを訂正【ていせい】する。",
+    "meaning": "To correct the omission in the delivery note."
+  },
+  {
+    "sentence": "納品書の有効期限。",
+    "sentence_furigana": "納品書【のうひんしょ】の有効期限【ゆうこうきげん】。",
+    "meaning": "Expiration date of the delivery note."
+  },
+  {
+    "sentence": "納品書のフォーマット。",
+    "sentence_furigana": "納品書【のうひんしょ】のフォーマット。",
+    "meaning": "Delivery note format."
+  },
+  {
+    "sentence": "納品書の形式。",
+    "sentence_furigana": "納品書【のうひんしょ】の形式【けいしき】。",
+    "meaning": "Delivery note format."
+  },
+  {
+    "sentence": "納品書の控えは必要ですか。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】えは必要【ひつよう】ですか。",
+    "meaning": "Is a copy of the delivery note necessary?"
+  },
+  {
+    "sentence": "納品書を紛失した場合は。",
+    "sentence_furigana": "納品書【のうひんしょ】を紛失【ふんしつ】した場【ば】合【あい】は。",
+    "meaning": "In case the delivery note is lost."
+  },
+  {
+    "sentence": "納品書を確認の上、サインをお願いします。",
+    "sentence_furigana": "納品書【のうひんしょ】を確認【かくにん】の上【うえ】、サインをお願い【ねが】います。",
+    "meaning": "Please check the delivery note and sign."
+  },
+  {
+    "sentence": "納品書の控えを紛失しました。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】えを紛失【ふんしつ】しました。",
+    "meaning": "I lost the copy of the delivery note."
+  },
+  {
+    "sentence": "納品書の再発行をお願いできますか。",
+    "sentence_furigana": "納品書【のうひんしょ】の再発行【さいはっこう】をお願い【ねが】えますか。",
+    "meaning": "Can you please re-issue the delivery note?"
+  },
+  {
+    "sentence": "納品書の内容を確認してください。",
+    "sentence_furigana": "納品書【のうひんしょ】の内容【ないよう】を確認【かくにん】してください。",
+    "meaning": "Please check the contents of the delivery note."
+  },
+  {
+    "sentence": "納品書と請求書を照合します。",
+    "sentence_furigana": "納品書【のうひんしょ】と請求書【せいきゅうしょ】を照合【しょうごう】します。",
+    "meaning": "I will reconcile the delivery note with the invoice."
+  },
+  {
+    "sentence": "納品書の送付先。",
+    "sentence_furigana": "納品書【のうひんしょ】の送付先【そうふさき】。",
+    "meaning": "Delivery address for the delivery note."
+  },
+  {
+    "sentence": "納品書の作成日。",
+    "sentence_furigana": "納品書【のうひんしょ】の作成日【さくせいび】。",
+    "meaning": "Date of creation of the delivery note."
+  },
+  {
+    "sentence": "納品書の送付方法。",
+    "sentence_furigana": "納品書【のうひんしょ】の送付方法【そうふほうほう】。",
+    "meaning": "Method of sending the delivery note."
+  },
+  {
+    "sentence": "納品書の電子化。",
+    "sentence_furigana": "納品書【のうひんしょ】の電子化【でんしか】。",
+    "meaning": "Digitization of the delivery note."
+  },
+  {
+    "sentence": "納品書の控えを再送してください。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】えを再送【さいそう】してください。",
+    "meaning": "Please resend the copy of the delivery note."
+  },
+  {
+    "sentence": "納品書の確認が遅れています。",
+    "sentence_furigana": "納品書【のうひんしょ】の確認【かくにん】が遅【おく】れています。",
+    "meaning": "Confirmation of the delivery note is delayed."
+  },
+  {
+    "sentence": "納品書の修正。",
+    "sentence_furigana": "納品書【のうひんしょ】の修正【しゅうせい】。",
+    "meaning": "Correction of the delivery note."
+  },
+  {
+    "sentence": "納品書の控えと原本。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】えと原本【げんぽん】。",
+    "meaning": "Copy and original of the delivery note."
+  },
+  {
+    "sentence": "納品書をメールで送ります。",
+    "sentence_furigana": "納品書【のうひんしょ】をメールで送【おく】ります。",
+    "meaning": "I will send the delivery note by email."
+  },
+  {
+    "sentence": "納品書の控えは大切に保管してください。",
+    "sentence_furigana": "納品書【のうひんしょ】の控【ひか】えは大切【たいせつ】に保管【ほかん】してください。",
+    "meaning": "Please keep the copy of the delivery note carefully."
+  }
+]

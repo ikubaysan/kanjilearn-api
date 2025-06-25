@@ -1,0 +1,427 @@
+[
+  {
+    "sentence": "この二つの会社は来月併合される予定です。",
+    "sentence_furigana": "この二【ふた】つの会社【かいしゃ】は来月【らいげつ】併合【へいごう】される予定【よてい】です。",
+    "meaning": "These two companies are scheduled to merge next month."
+  },
+  {
+    "sentence": "彼は複数の役職を併任している。",
+    "sentence_furigana": "彼【かれ】は複数【ふくすう】の役職【やくしょく】を併任【へいにん】している。",
+    "meaning": "He holds multiple positions concurrently."
+  },
+  {
+    "sentence": "この法案は複数の項目を併せ持つ。",
+    "sentence_furigana": "この法案【ほうあん】は複数【ふくすう】の項目【こうもく】を併【あわ】せ持【も】つ。",
+    "meaning": "This bill encompasses multiple items."
+  },
+  {
+    "sentence": "会議には多くの関係者が併席した。",
+    "sentence_furigana": "会議【かいぎ】には多【おお】くの関係者【かんけいしゃ】が併席【へいせき】した。",
+    "meaning": "Many stakeholders attended the meeting together."
+  },
+  {
+    "sentence": "この事件は複数の犯罪を併発している可能性がある。",
+    "sentence_furigana": "この事件【じけん】は複数【ふくすう】の犯罪【はんざい】を併発【へいはつ】している可能性【かのうせい】がある。",
+    "meaning": "This incident may involve multiple crimes."
+  },
+  {
+    "sentence": "彼は趣味と実益を併せて考えている。",
+    "sentence_furigana": "彼【かれ】は趣味【しゅみ】と実益【じつえき】を併【あわ】せて考【かんが】えている。",
+    "meaning": "He is considering his hobbies and practical benefits together."
+  },
+  {
+    "sentence": "この地域は都市機能と自然を併せ持っている。",
+    "sentence_furigana": "この地域【ちいき】は都市機能【としきのう】と自然【しぜん】を併【あわ】せ持【も】っている。",
+    "meaning": "This region has both urban functions and nature."
+  },
+  {
+    "sentence": "彼は大学で教鞭を執る傍ら、執筆活動も併行して行っている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で教鞭【きょうべん】を執【と】る傍ら【かたわら】、執筆活動【しっぴつかつどう】も併行【へいこう】して行【おこな】っている。",
+    "meaning": "While teaching at university, he is also pursuing writing activities concurrently."
+  },
+  {
+    "sentence": "新しい方針は過去の教訓と未来への展望を併せて示している。",
+    "sentence_furigana": "新【あたら】しい方針【ほうしん】は過去【かこ】の教訓【きょうくん】と未来【みらい】への展望【てんぼう】を併【あわ】せて示【しめ】している。",
+    "meaning": "The new policy reflects past lessons and future prospects."
+  },
+  {
+    "sentence": "このプランは安全性を最優先し、効率性も併せ持っている。",
+    "sentence_furigana": "このプランは安全性【あんぜんせい】を最優先【さいゆうせん】し、効率性【こうりつせい】も併【あわ】せ持【も】っている。",
+    "meaning": "This plan prioritizes safety and also possesses efficiency."
+  },
+  {
+    "sentence": "彼の提案は現実性と革新性を併せ持っていた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は現実性【げんじつせい】と革新性【かくしんせい】を併【あわ】せ持【も】っていた。",
+    "meaning": "His proposal had both practicality and innovation."
+  },
+  {
+    "sentence": "この機械は複数の機能を併せ持っています。",
+    "sentence_furigana": "この機械【きかい】は複数【ふくすう】の機能【きのう】を併【あわ】せ持【も】っています。",
+    "meaning": "This machine has multiple functions."
+  },
+  {
+    "sentence": "二つの文化が併存する地域がある。",
+    "sentence_furigana": "二【ふた】つの文化【ぶんか】が併存【へいぞん】する地域【ちいき】がある。",
+    "meaning": "There are regions where two cultures coexist."
+  },
+  {
+    "sentence": "この展示会では、過去と現代の作品を併せて展示している。",
+    "sentence_furigana": "この展示会【てんじかい】では、過去【かこ】と現代【げんだい】の作品【さくひん】を併【あわ】せて展示【てんじ】している。",
+    "meaning": "This exhibition displays past and contemporary works together."
+  },
+  {
+    "sentence": "この本は学術的な内容と読みやすさを併せ持っている。",
+    "sentence_furigana": "この本【ほん】は学術的【がくじゅつてき】な内容【ないよう】と読【よ】みやすさ【やすさ】を併【あわ】せ持【も】っている。",
+    "meaning": "This book has both academic content and readability."
+  },
+  {
+    "sentence": "彼のスピーチはユーモアと真剣さを併せ持っていた。",
+    "sentence_furigana": "彼【かれ】のスピーチはユーモアと真剣【しんけん】さを併【あわ】せ持【も】っていた。",
+    "meaning": "His speech had both humor and seriousness."
+  },
+  {
+    "sentence": "これらの要素は相互に併存することが可能だ。",
+    "sentence_furigana": "これら【これら】の要素【ようそ】は相互【そうご】に併存【へいぞん】することが可能【かのう】だ。",
+    "meaning": "These elements can coexist mutually."
+  },
+  {
+    "sentence": "政府は複数の政策を同時に併せて進めている。",
+    "sentence_furigana": "政府【せいふ】は複数【ふくすう】の政策【せいさく】を同時【どうじ】に併【あわ】せて進【すす】めている。",
+    "meaning": "The government is advancing multiple policies simultaneously."
+  },
+  {
+    "sentence": "この施設は商業エリアと居住エリアを併せ持っている。",
+    "sentence_furigana": "この施設【しせつ】は商業【しょうぎょう】エリアと居住【きょじゅう】エリアを併【あわ】せ持【も】っている。",
+    "meaning": "This facility has both commercial and residential areas."
+  },
+  {
+    "sentence": "彼の行動は大胆さと慎重さを併せ持っていた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は大胆【だいたん】さと慎重【しんちょう】さを併【あわ】せ持【も】っていた。",
+    "meaning": "His actions had both boldness and caution."
+  },
+  {
+    "sentence": "この技術は効率性と環境への配慮を併せて実現している。",
+    "sentence_furigana": "この技術【ぎじゅつ】は効率性【こうりつせい】と環境【かんきょう】への配慮【はいりょ】を併【あわ】せて実現【じつげん】している。",
+    "meaning": "This technology achieves both efficiency and environmental consideration."
+  },
+  {
+    "sentence": "この会議では、意見の交換と意思決定を併せて行います。",
+    "sentence_furigana": "この会議【かいぎ】では、意見【いけん】の交換【こうかん】と意思決定【いしけってい】を併【あわ】せて行【おこな】います。",
+    "meaning": "In this meeting, we will exchange opinions and make decisions together."
+  },
+  {
+    "sentence": "彼は理論と実践の両方を併せて学ぶ必要がある。",
+    "sentence_furigana": "彼【かれ】は理論【りろん】と実践【じっせん】の双方【そうほう】を併【あわ】せて学【まな】ぶ必要【ひつよう】がある。",
+    "meaning": "He needs to learn both theory and practice together."
+  },
+  {
+    "sentence": "このプロジェクトは短期的な目標と長期的なビジョンを併せ持っている。",
+    "sentence_furigana": "このプロジェクトは短期【たんき】的【てき】な目標【もくひょう】と長期【ちょうき】的【てき】なビジョンを併【あわ】せ持【も】っている。",
+    "meaning": "This project has both short-term goals and long-term vision."
+  },
+  {
+    "sentence": "新しいシステムは旧システムと並行して稼働する。",
+    "sentence_furigana": "新【あたら】しいシステムは旧【きゅう】システムと並行【へいこう】して稼働【かどう】する。",
+    "meaning": "The new system will operate in parallel with the old system."
+  },
+  {
+    "sentence": "彼は仕事と家庭を両立させている。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】と家庭【かてい】を両立【りょうりつ】させている。",
+    "meaning": "He is balancing work and family."
+  },
+  {
+    "sentence": "この薬は複数の症状を同時に緩和する。",
+    "sentence_furigana": "この薬【くすり】は複数【ふくすう】の症状【しょうじょう】を同時【どうじ】に緩和【かんわ】する。",
+    "meaning": "This medicine alleviates multiple symptoms simultaneously."
+  },
+  {
+    "sentence": "二つの異なる考え方が併存している。",
+    "sentence_furigana": "二【ふた】つの異【こと】なる考【かんが】え方【かた】が併存【へいぞん】している。",
+    "meaning": "Two different ways of thinking coexist."
+  },
+  {
+    "sentence": "彼の発言は皮肉と本音を併せ持っていた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は皮肉【ひにく】と本音【ほんね】を併【あわ】せ持【も】っていた。",
+    "meaning": "His statement had both irony and sincerity."
+  },
+  {
+    "sentence": "この美術館は古典と現代の芸術を併せて展示している。",
+    "sentence_furigana": "この美術館【びじゅつかん】は古典【こてん】と現代【げんだい】の芸術【げいじゅつ】を併【あわ】せて展示【てんじ】している。",
+    "meaning": "This art museum exhibits classical and modern art together."
+  },
+  {
+    "sentence": "彼女は才能と努力を併せ持っている。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】と努力【どりょく】を併【あわ】せ持【も】っている。",
+    "meaning": "She possesses both talent and effort."
+  },
+  {
+    "sentence": "この都市は古い歴史と近代的な発展を併せ持っている。",
+    "sentence_furigana": "この都市【とし】は古【ふる】い歴史【れきし】と近代【きんだい】的【てき】な発展【はってん】を併【あわ】せ持【も】っている。",
+    "meaning": "This city has both an old history and modern development."
+  },
+  {
+    "sentence": "両国の協力関係を強化する必要がある。",
+    "sentence_furigana": "両国【りょうこく】の協力関係【きょうりょくかんけい】を強化【きょうか】する必要【ひつよう】がある。",
+    "meaning": "There is a need to strengthen the cooperative relationship between the two countries."
+  },
+  {
+    "sentence": "この計画は経済的側面と社会的側面を考慮している。",
+    "sentence_furigana": "この計画【けいかく】は経済的【けいざいてき】側面【そくめん】と社会的【しゃかいてき】側面【そくめん】を考慮【こうりょ】している。",
+    "meaning": "This plan considers economic and social aspects."
+  },
+  {
+    "sentence": "彼は公務と私務を両立させている。",
+    "sentence_furigana": "彼【かれ】は公務【こうむ】と私務【しむ】を両立【りょうりつ】させている。",
+    "meaning": "He is balancing public duties and private affairs."
+  },
+  {
+    "sentence": "この地域では、様々な民族が共存している。",
+    "sentence_furigana": "この地域【ちいき】では、様々【さまざま】な民族【みんぞく】が共存【きょうぞん】している。",
+    "meaning": "Various ethnic groups coexist in this region."
+  },
+  {
+    "sentence": "彼のスピーチは情熱と論理性を併せ持っていた。",
+    "sentence_furigana": "彼【かれ】のスピーチは情熱【じょうねつ】と論理性【ろんりせい】を併【あわ】せ持【も】っていた。",
+    "meaning": "His speech had both passion and logic."
+  },
+  {
+    "sentence": "このレポートは詳細なデータと簡潔な分析を併せて提供している。",
+    "sentence_furigana": "このレポートは詳細【しょうさい】なデータと簡潔【かんけつ】な分析【ぶんせき】を併【あわ】せて提供【ていきょう】している。",
+    "meaning": "This report provides detailed data and concise analysis together."
+  },
+  {
+    "sentence": "彼女の料理は伝統的な味と斬新なアイデアを併せ持っている。",
+    "sentence_furigana": "彼女【かのじょ】の料理【りょうり】は伝統的【でんとうてき】な味【あじ】と斬新【ざんしん】なアイデアを併【あわ】せ持【も】っている。",
+    "meaning": "Her cooking has both traditional taste and innovative ideas."
+  },
+  {
+    "sentence": "この法律は既存の規則と新しい条項を併記している。",
+    "sentence_furigana": "この法律【ほうりつ】は既存【きそん】の規則【きそく】と新【あたら】しい条項【じょうこう】を併記【へいき】している。",
+    "meaning": "This law lists both existing regulations and new provisions."
+  },
+  {
+    "sentence": "彼は教育と研究を両立させながら、社会貢献も行っている。",
+    "sentence_furigana": "彼【かれ】は教育【きょういく】と研究【けんきゅう】を両立【りょうりつ】させながら、社会貢献【しゃかいこうけん】も行【おこな】っている。",
+    "meaning": "While balancing education and research, he also contributes to society."
+  },
+  {
+    "sentence": "この政策は経済成長と福祉の両立を目指している。",
+    "sentence_furigana": "この政策【せいさく】は経済成長【けいざいせいちょう】と福祉【ふくし】の両立【りょうりつ】を目指【めざ】している。",
+    "meaning": "This policy aims to achieve both economic growth and welfare."
+  },
+  {
+    "sentence": "この論文は理論的な考察と実践的な事例を併せて論じている。",
+    "sentence_furigana": "この論文【ろんぶん】は理論的【りろんてき】な考察【こうさつ】と実践的【じっせんてき】な事例【じれい】を併【あわ】せて論【ろん】じている。",
+    "meaning": "This paper discusses both theoretical considerations and practical cases."
+  },
+  {
+    "sentence": "彼はリーダーシップとフォロワーシップを併せ持っている。",
+    "sentence_furigana": "彼【かれ】はリーダーシップとフォロワーシップを併【あわ】せ持【も】っている。",
+    "meaning": "He possesses both leadership and followership."
+  },
+  {
+    "sentence": "この美術館は、フランス絵画とイタリア絵画を併せて展示しています。",
+    "sentence_furigana": "この美術館【びじゅつかん】は、フランス絵画【かいが】とイタリア絵画【かいが】を併【あわ】せて展示【てんじ】しています。",
+    "meaning": "This art museum exhibits French and Italian paintings together."
+  },
+  {
+    "sentence": "この施設はレクリエーションと学習の機会を併せ提供する。",
+    "sentence_furigana": "この施設【しせつ】はレクリエーションと学習【がくしゅう】の機会【きかい】を併【あわ】せ提供【ていきょう】する。",
+    "meaning": "This facility offers both recreation and learning opportunities."
+  },
+  {
+    "sentence": "彼の計画は野心的でありながら、現実的な基盤も持っている。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は野心的【やしんてき】でありながら、現実的【げんじつてき】な基盤【きばん】も持【も】っている。",
+    "meaning": "His plan is ambitious yet has a realistic foundation."
+  },
+  {
+    "sentence": "この地域は多様な生物多様性を併せ持っている。",
+    "sentence_furigana": "この地域【ちいき】は多様【たよう】な生物多様性【せいぶつたようせい】を併【あわ】せ持【も】っている。",
+    "meaning": "This region possesses rich biodiversity."
+  },
+  {
+    "sentence": "彼の意見は賛成と反対の両方の側面を含んでいた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は賛成【さんせい】と反対【はんたい】の双方【そうほう】の側面【そくめん】を含【ふく】んでいた。",
+    "meaning": "His opinion included both賛成 and反対 aspects."
+  },
+  {
+    "sentence": "この会議は情報共有と意思決定を同時に行う。",
+    "sentence_furigana": "この会議【かいぎ】は情報共有【じょうほうきょうゆう】と意思決定【いしけってい】を同時【どうじ】に行【おこな】う。",
+    "meaning": "This meeting conducts information sharing and decision making simultaneously."
+  },
+  {
+    "sentence": "彼は経験と知識を併せ持っている。",
+    "sentence_furigana": "彼【かれ】は経験【けいけん】と知識【ちしき】を併【あわ】せ持【も】っている。",
+    "meaning": "He possesses both experience and knowledge."
+  },
+  {
+    "sentence": "このプロジェクトは短期的な成果と長期的な発展を両立させることを目指す。",
+    "sentence_furigana": "このプロジェクトは短期【たんき】的【てき】な成果【せいか】と長期【ちょうき】的【てき】な発展【はってん】を両立【りょうりつ】させることを目指【めざ】す。",
+    "meaning": "This project aims to achieve both short-term results and long-term development."
+  },
+  {
+    "sentence": "この料理は甘みと辛味を併せ持っている。",
+    "sentence_furigana": "この料理【りょうり】は甘味【あまみ】と辛味【からみ】を併【あわ】せ持【も】っている。",
+    "meaning": "This dish has both sweetness and spiciness."
+  },
+  {
+    "sentence": "彼は学業とアルバイトを両立させている。",
+    "sentence_furigana": "彼【かれ】は学業【がくぎょう】とアルバイトを両立【りょうりつ】させている。",
+    "meaning": "He is balancing his studies and part-time job."
+  },
+  {
+    "sentence": "この島は豊かな自然と独特の文化を併せ持っている。",
+    "sentence_furigana": "この島【しま】は豊【ゆた】かな自然【しぜん】と独特【どくとく】の文化【ぶんか】を併【あわ】せ持【も】っている。",
+    "meaning": "This island has both abundant nature and a unique culture."
+  },
+  {
+    "sentence": "この規則は旧法と新法を併記している。",
+    "sentence_furigana": "この規則【きそく】は旧法【きゅうほう】と新法【しんぽう】を併記【へいき】している。",
+    "meaning": "This regulation lists both the old law and the new law."
+  },
+  {
+    "sentence": "彼は実務経験と理論的知識を併せて学んだ。",
+    "sentence_furigana": "彼【かれ】は実務経験【じつむけいけん】と理論的知識【りろんてきちしき】を併【あわ】せて学【まな】んだ。",
+    "meaning": "He learned both practical experience and theoretical knowledge together."
+  },
+  {
+    "sentence": "この展示は歴史的資料と現代の解釈を併せて見せる。",
+    "sentence_furigana": "この展示【てんじ】は歴史的資料【れきしてきしりょう】と現代【げんだい】の解釈【かいしゃく】を併【あわ】せて見【み】せる。",
+    "meaning": "This exhibition shows historical materials and modern interpretations together."
+  },
+  {
+    "sentence": "この作曲家は伝統的な手法と現代的な技法を併せ持っている。",
+    "sentence_furigana": "この作曲家【さっきょくか】は伝統的【でんとうてき】な手法【しゅほう】と現代的【げんだいてき】な技法【ぎほう】を併【あわ】せ持【も】っている。",
+    "meaning": "This composer has both traditional methods and modern techniques."
+  },
+  {
+    "sentence": "彼は仕事上の責任と家庭での役割を両立させている。",
+    "sentence_furigana": "彼【かれ】は仕事上【しごとお】の責任【せきにん】と家庭【かてい】での役割【やくわり】を両立【りょうりつ】させている。",
+    "meaning": "He is balancing his professional responsibilities and his role at home."
+  },
+  {
+    "sentence": "この地域は亜熱帯気候と熱帯気候の両方の特徴を併せ持っている。",
+    "sentence_furigana": "この地域【ちいき】は亜熱帯気候【あねったいきこう】と熱帯気候【ねったいきこう】の双方【そうほう】の特徴【とくちょう】を併【あわ】せ持【も】っている。",
+    "meaning": "This region has characteristics of both subtropical and tropical climates."
+  },
+  {
+    "sentence": "この会議では、情報交換と意見交換を併せて行います。",
+    "sentence_furigana": "この会議【かいぎ】では、情報交換【じょうほうこうかん】と意見交換【いけんこうかん】を併【あわ】せて行【おこな】います。",
+    "meaning": "In this meeting, we will conduct information exchange and opinion exchange together."
+  },
+  {
+    "sentence": "この法律は既存の権利と新しい義務を併記する。",
+    "sentence_furigana": "この法律【ほうりつ】は既存【きそん】の権利【けんり】と新【あたら】しい義務【ぎむ】を併記【へいき】する。",
+    "meaning": "This law lists both existing rights and new obligations."
+  },
+  {
+    "sentence": "彼は学問的な探求と社会への奉仕を両立させている。",
+    "sentence_furigana": "彼【かれ】は学問的【がくもんてき】な探求【たんきゅう】と社会【しゃかい】への奉仕【ほうし】を両立【りょうりつ】させている。",
+    "meaning": "He is balancing academic inquiry with service to society."
+  },
+  {
+    "sentence": "この文書は、原文と翻訳文を併記している。",
+    "sentence_furigana": "この文書【ぶんしょ】は、原文【げんぶん】と翻訳文【ほんやくぶん】を併記【へいき】している。",
+    "meaning": "This document lists both the original text and the translation."
+  },
+  {
+    "sentence": "彼は保守的な考え方と進歩的な考え方を併せ持っている。",
+    "sentence_furigana": "彼【かれ】は保守的【ほしゅてき】な考【かんが】え方【かた】と進歩的【しんぽてき】な考【かんが】え方【かた】を併【あわ】せ持【も】っている。",
+    "meaning": "He holds both conservative and progressive views."
+  },
+  {
+    "sentence": "この地域は農業と工業が併存している。",
+    "sentence_furigana": "この地域【ちいき】は農業【のうぎょう】と工業【こうぎょう】が併存【へいぞん】している。",
+    "meaning": "Agriculture and industry coexist in this region."
+  },
+  {
+    "sentence": "彼のリーダーシップは、カリスマ性と実務能力を併せ持っていた。",
+    "sentence_furigana": "彼【かれ】のリーダーシップは、カリスマ性【せい】と実務能力【じつむのうりょく】を併【あわ】せ持【も】っていた。",
+    "meaning": "His leadership had both charisma and practical ability."
+  },
+  {
+    "sentence": "この計画は短期的な利益と長期的な持続可能性を両立させることを目指す。",
+    "sentence_furigana": "この計画【けいかく】は短期【たんき】的【てき】な利益【りえき】と長期【ちょうき】的【てき】な持続可能性【じぞくかのうせい】を両立【りょうりつ】させることを目指【めざ】す。",
+    "meaning": "This plan aims to achieve both short-term profits and long-term sustainability."
+  },
+  {
+    "sentence": "この博物館は歴史的遺物と現代の芸術作品を併せて展示している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は歴史的遺物【れきしてきいぶつ】と現代【げんだい】の芸術作品【げいじゅつさくひん】を併【あわ】せて展示【てんじ】している。",
+    "meaning": "This museum exhibits historical artifacts and modern artworks together."
+  },
+  {
+    "sentence": "彼は情熱と分析力を併せ持っている。",
+    "sentence_furigana": "彼【かれ】は情熱【じょうねつ】と分析力【ぶんせきりょく】を併【あわ】せ持【も】っている。",
+    "meaning": "He possesses both passion and analytical skills."
+  },
+  {
+    "sentence": "このレシピは伝統的な調理法と革新的なアイデアを併せ持っている。",
+    "sentence_furigana": "このレシピは伝統的【でんとうてき】な調理法【ちょうりほう】と革新的【かくしんてき】なアイデアを併【あわ】せ持【も】っている。",
+    "meaning": "This recipe has both traditional cooking methods and innovative ideas."
+  },
+  {
+    "sentence": "この地域には古い街並みと新しい開発が併存している。",
+    "sentence_furigana": "この地域【ちいき】には古【ふる】い街並【まちな】みと新【あたら】しい開発【かいはつ】が併存【へいぞん】している。",
+    "meaning": "Old townscapes and new developments coexist in this region."
+  },
+  {
+    "sentence": "彼の提案は実現可能性と創造性を併せ持っていた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は実現可能性【じつげんかのうせい】と創造性【そうぞうせい】を併【あわ】せ持【も】っていた。",
+    "meaning": "His proposal had both feasibility and creativity."
+  },
+  {
+    "sentence": "この会議では、情報の共有と意見の集約を同時に行います。",
+    "sentence_furigana": "この会議【かいぎ】では、情報【じょうほう】の共有【きょうゆう】と意見【いけん】の集約【しゅうやく】を同時【どうじ】に行【おこな】います。",
+    "meaning": "In this meeting, we will conduct information sharing and opinion consolidation simultaneously."
+  },
+  {
+    "sentence": "彼女は知性と感性を併せ持ったアーティストだ。",
+    "sentence_furigana": "彼女【かのじょ】は知性【ちせい】と感性【かんせい】を併【あわ】せ持【も】ったアーティストだ。",
+    "meaning": "She is an artist with both intellect and sensibility."
+  },
+  {
+    "sentence": "この政策は経済的利益と環境保護を両立させることを目指している。",
+    "sentence_furigana": "この政策【せいさく】は経済的【けいざいてき】利益【りえき】と環境保護【かんきょうほご】を両立【りょうりつ】させることを目指【めざ】している。",
+    "meaning": "This policy aims to achieve both economic benefits and environmental protection."
+  },
+  {
+    "sentence": "彼は経験豊富であり、なおかつ柔軟な発想も併せ持っている。",
+    "sentence_furigana": "彼【かれ】は経験豊富【けいけんほうふ】であり、なおかつ柔軟【じゅうなん】な発想【はっそう】も併【あわ】せ持【も】っている。",
+    "meaning": "He is highly experienced and also possesses flexible ideas."
+  },
+  {
+    "sentence": "この資料には、過去のデータと最新の分析結果を併記してあります。",
+    "sentence_furigana": "この資料【しりょう】には、過去【かこ】のデータと最新【さいしん】の分析結果【ぶんせきけっか】を併記【へいき】してあります。",
+    "meaning": "This document lists both past data and the latest analysis results."
+  },
+  {
+    "sentence": "この事業は、地域経済の活性化と雇用創出を同時に図る。",
+    "sentence_furigana": "この事業【じぎょう】は、地域経済【ちいきけいざい】の活性化【かっせいか】と雇用創出【こようそうしゅつ】を同時【どうじ】に図【はか】る。",
+    "meaning": "This project aims to revitalize the local economy and create jobs simultaneously."
+  },
+  {
+    "sentence": "彼女は強い意志と共感する心を持ち合わせている。",
+    "sentence_furigana": "彼女【かのじょ】は強【つよ】い意志【いし】と共感【きょうかん】する心【こころ】を持【も】ち合【あ】わせている。",
+    "meaning": "She possesses both a strong will and an empathetic heart."
+  },
+  {
+    "sentence": "この建物は伝統的な建築様式と現代的なデザインを併せ持っている。",
+    "sentence_furigana": "この建物【たてもの】は伝統的【でんとうてき】な建築様式【けんちくようしき】と現代的【げんだいてき】なデザインを併【あわ】せ持【も】っている。",
+    "meaning": "This building has both traditional architectural styles and modern design."
+  },
+  {
+    "sentence": "彼は学術的な知識と実践的なスキルを併せて習得した。",
+    "sentence_furigana": "彼【かれ】は学術的【がくじゅつてき】な知識【ちしき】と実践的【じっせんてき】なスキルを併【あわ】せて習得【しゅうとく】した。",
+    "meaning": "He acquired both academic knowledge and practical skills together."
+  },
+  {
+    "sentence": "この地域は豊かな文化遺産と現代的な都市機能が共存している。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな文化遺産【ぶんかいさん】と現代的【げんだいてき】な都市機能【としきのう】が共存【きょうぞん】している。",
+    "meaning": "Rich cultural heritage and modern urban functions coexist in this region."
+  },
+  {
+    "sentence": "彼の発言は尊敬と皮肉を同時に含んでいた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は尊敬【そんけい】と皮肉【ひにく】を同時【どうじ】に含【ふく】んでいた。",
+    "meaning": "His remarks contained both respect and irony simultaneously."
+  }
+]

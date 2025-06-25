@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼は亡くなった。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった。",
+    "meaning": "He passed away."
+  },
+  {
+    "sentence": "父が亡くなった。",
+    "sentence_furigana": "父【ちち】が亡【な】くなった。",
+    "meaning": "My father passed away."
+  },
+  {
+    "sentence": "大切なものを亡くした。",
+    "sentence_furigana": "大切【たいせつ】なもの【もの】を亡【なく】くした。",
+    "meaning": "I lost something precious."
+  },
+  {
+    "sentence": "記憶が亡くなった。",
+    "sentence_furigana": "記憶【きおく】が亡【なく】くなった。",
+    "meaning": "My memory is gone."
+  },
+  {
+    "sentence": "祖母は亡くなった。",
+    "sentence_furigana": "祖母【そぼ】は亡【な】くなった。",
+    "meaning": "My grandmother passed away."
+  },
+  {
+    "sentence": "国が滅亡した。",
+    "sentence_furigana": "国【くに】が滅亡【めつぼう】した。",
+    "meaning": "The country perished."
+  },
+  {
+    "sentence": "多くの命が亡くなった。",
+    "sentence_furigana": "多【おお】くの命【いのち】が亡【な】くなった。",
+    "meaning": "Many lives were lost."
+  },
+  {
+    "sentence": "その技術は亡びた。",
+    "sentence_furigana": "その技術【ぎじゅつ】は亡【ほろ】びた。",
+    "meaning": "That technology perished."
+  },
+  {
+    "sentence": "彼は亡き父を偲んだ。",
+    "sentence_furigana": "彼【かれ】は亡【な】き父【ちち】を偲【しの】んだ。",
+    "meaning": "He remembered his late father."
+  },
+  {
+    "sentence": "彼女は亡くなった姉を思っていた。",
+    "sentence_furigana": "彼女【かのじょ】は亡【な】くなった姉【あね】を思【おも】っていた。",
+    "meaning": "She was thinking of her deceased older sister."
+  },
+  {
+    "sentence": "文明が滅亡する。",
+    "sentence_furigana": "文明【ぶんめい】が滅亡【めつぼう】する。",
+    "meaning": "Civilization perishes."
+  },
+  {
+    "sentence": "もう何も残っていない、全て亡くなった。",
+    "sentence_furigana": "もう何【なに】も残【のこ】っていない、全【すべ】て亡【な】くなった。",
+    "meaning": "Nothing remains, everything is gone."
+  },
+  {
+    "sentence": "彼は戦死して亡くなった。",
+    "sentence_furigana": "彼【かれ】は戦死【せんし】して亡【な】くなった。",
+    "meaning": "He died in battle."
+  },
+  {
+    "sentence": "希望が亡くなった。",
+    "sentence_furigana": "希望【きぼう】が亡【なく】くなった。",
+    "meaning": "Hope was lost."
+  },
+  {
+    "sentence": "彼は亡父の遺志を継いだ。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の遺志【いし】を継【つ】いだ。",
+    "meaning": "He inherited his late father's will."
+  },
+  {
+    "sentence": "その文化は既に亡びている。",
+    "sentence_furigana": "その文化【ぶんか】は既【すで】に亡【ほろ】びている。",
+    "meaning": "That culture has already perished."
+  },
+  {
+    "sentence": "彼は亡き母を胸に抱いていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】を胸【むね】に抱【いだ】いていた。",
+    "meaning": "He held his deceased mother in his heart."
+  },
+  {
+    "sentence": "国家は滅亡の危機に瀕していた。",
+    "sentence_furigana": "国家【こっか】は滅亡【めつぼう】の危機【きき】に瀕【ひん】していた。",
+    "meaning": "The nation was on the brink of collapse."
+  },
+  {
+    "sentence": "多くの宝が失われ、亡くなった。",
+    "sentence_furigana": "多【おお】くの宝【たから】が失【うしな】われ、亡【な】くなった。",
+    "meaning": "Much treasure was lost and gone."
+  },
+  {
+    "sentence": "平和な時代は亡びた。",
+    "sentence_furigana": "平和【へいわ】な時代【じだい】は亡【ほろ】びた。",
+    "meaning": "The era of peace perished."
+  },
+  {
+    "sentence": "彼は亡き兄の夢を叶えようとした。",
+    "sentence_furigana": "彼【かれ】は亡【な】き兄【あに】の夢【ゆめ】を叶【かな】えようとした。",
+    "meaning": "He tried to fulfill his deceased brother's dream."
+  },
+  {
+    "sentence": "その病気で多くの人が亡くなった。",
+    "sentence_furigana": "その病気【びょうき】で多【おお】くの人【ひと】が亡【な】くなった。",
+    "meaning": "Many people died from that disease."
+  },
+  {
+    "sentence": "彼は亡き祖父から多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖父【そふ】から多【おお】くのこと【こと】を学【まな】んだ。",
+    "meaning": "He learned a lot from his late grandfather."
+  },
+  {
+    "sentence": "王朝は滅亡した。",
+    "sentence_furigana": "王朝【おうちょう】は滅亡【めつぼう】した。",
+    "meaning": "The dynasty collapsed."
+  },
+  {
+    "sentence": "失われたものは二度と戻らない、全て亡くなったのだ。",
+    "sentence_furigana": "失【うしな】われたもの【もの】は二度【にど】と戻【もど】らない、全【すべ】て亡【な】くなったのだ。",
+    "meaning": "What is lost never returns, everything is gone."
+  },
+  {
+    "sentence": "彼の声は亡き母のようだった。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は亡【な】き母【はは】のようだった。",
+    "meaning": "His voice was like his deceased mother's."
+  },
+  {
+    "sentence": "その古城は滅亡の歴史を物語っている。",
+    "sentence_furigana": "その古城【こじょう】は滅亡【めつぼう】の歴史【れきし】を物語【ものがた】っている。",
+    "meaning": "That ancient castle tells a history of ruin."
+  },
+  {
+    "sentence": "彼の計画は亡きものとなった。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は亡【なく】きものとなった。",
+    "meaning": "His plan came to nothing."
+  },
+  {
+    "sentence": "過去の栄光は亡びた。",
+    "sentence_furigana": "過去【かこ】の栄光【えいこう】は亡【ほろ】びた。",
+    "meaning": "Past glories perished."
+  },
+  {
+    "sentence": "彼は亡き妻を想い出していた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き妻【つま】を思【おも】い出【だ】していた。",
+    "meaning": "He was reminiscing about his late wife."
+  },
+  {
+    "sentence": "多くの人命が失われ、亡くなった。",
+    "sentence_furigana": "多【おお】くの人命【じんめい】が失【うしな】われ、亡【な】くなった。",
+    "meaning": "Many lives were lost."
+  },
+  {
+    "sentence": "その王国は滅亡した。",
+    "sentence_furigana": "その王国【おうこく】は滅亡【めつぼう】した。",
+    "meaning": "The kingdom perished."
+  },
+  {
+    "sentence": "彼女は亡くなった友人のために祈った。",
+    "sentence_furigana": "彼女【かのじょ】は亡【な】くなった友人【ゆうじん】のため【ため】に祈【いの】った。",
+    "meaning": "She prayed for her deceased friend."
+  },
+  {
+    "sentence": "全ては滅亡に向かっている。",
+    "sentence_furigana": "全【すべ】ては滅亡【めつぼう】に向【む】かっている。",
+    "meaning": "Everything is heading towards ruin."
+  },
+  {
+    "sentence": "彼は亡き祖母の思い出を大切にしていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖母【そぼ】の思【おも】い出【で】を大切【たいせつ】にしていた。",
+    "meaning": "He cherished the memories of his late grandmother."
+  },
+  {
+    "sentence": "その文明は滅亡した。",
+    "sentence_furigana": "その文明【ぶんめい】は滅亡【めつぼう】した。",
+    "meaning": "That civilization perished."
+  },
+  {
+    "sentence": "彼は亡くなった恩師を偲んで作文を書いた。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった恩師【おんし】を偲【しの】んで作文【さくぶん】を書【か】いた。",
+    "meaning": "He wrote an essay in memory of his late teacher."
+  },
+  {
+    "sentence": "希望は亡くなった。",
+    "sentence_furigana": "希望【きぼう】は亡【なく】なった。",
+    "meaning": "Hope was lost."
+  },
+  {
+    "sentence": "彼の才能は亡くなった。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は亡【なく】なった。",
+    "meaning": "His talent was lost."
+  },
+  {
+    "sentence": "彼は亡き兄の遺志を継ぐことを誓った。",
+    "sentence_furigana": "彼【かれ】は亡【な】き兄【あに】の遺志【いし】を継【つ】ぐことを誓【ちか】った。",
+    "meaning": "He vowed to carry on his deceased brother's will."
+  },
+  {
+    "sentence": "その帝国は滅亡の道を辿った。",
+    "sentence_furigana": "その帝国【ていこく】は滅亡【めつぼう】の道【みち】を辿【たど】った。",
+    "meaning": "That empire followed the path to ruin."
+  },
+  {
+    "sentence": "彼女は亡くなった両親を思っていた。",
+    "sentence_furigana": "彼女【かのじょ】は亡【な】くなった両親【りょうしん】を思【おも】っていた。",
+    "meaning": "She was thinking of her deceased parents."
+  },
+  {
+    "sentence": "その伝統は亡びつつある。",
+    "sentence_furigana": "その伝統【でんとう】は亡【ほろ】びつつある。",
+    "meaning": "That tradition is perishing."
+  },
+  {
+    "sentence": "彼は亡父の墓前に祈った。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の墓前【ぼぜん】に祈【いの】った。",
+    "meaning": "He prayed at his late father's grave."
+  },
+  {
+    "sentence": "多くの命が失われた災害だった。",
+    "sentence_furigana": "多【おお】くの命【いのち】が失【うしな】われた災害【さいがい】だった。",
+    "meaning": "It was a disaster that claimed many lives."
+  },
+  {
+    "sentence": "彼は亡き王の遺志を継いだ。",
+    "sentence_furigana": "彼【かれ】は亡【な】き王【おう】の遺志【いし】を継【つ】いだ。",
+    "meaning": "He inherited the will of the late king."
+  },
+  {
+    "sentence": "全ての努力は亡くなった。",
+    "sentence_furigana": "全【すべ】ての努力【どりょく】は亡【なく】なった。",
+    "meaning": "All efforts were in vain."
+  },
+  {
+    "sentence": "その罪は消え去り、亡くなった。",
+    "sentence_furigana": "その罪【つみ】は消【き】え去【さ】り、亡【な】くなった。",
+    "meaning": "The sin disappeared and was gone."
+  },
+  {
+    "sentence": "彼は亡き祖父の事業を継いだ。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖父【そふ】の事業【じぎょう】を継【つ】いだ。",
+    "meaning": "He took over his late grandfather's business."
+  },
+  {
+    "sentence": "その文化は歴史と共に亡びた。",
+    "sentence_furigana": "その文化【ぶんか】は歴史【れきし】と共【とも】に亡【ほろ】びた。",
+    "meaning": "That culture perished with history."
+  },
+  {
+    "sentence": "彼は亡き母の形見を大切にしていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】の形見【かたみ】を大切【たいせつ】にしていた。",
+    "meaning": "He treasured the memento of his deceased mother."
+  },
+  {
+    "sentence": "多くの命が亡くなった。",
+    "sentence_furigana": "多【おお】くの命【いのち】が亡【な】くなった。",
+    "meaning": "Many lives were lost."
+  },
+  {
+    "sentence": "彼は亡き祖母の教えを胸に刻んだ。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖母【そぼ】の教【おし】えを胸【むね】に刻【きざ】んだ。",
+    "meaning": "He engraved his late grandmother's teachings in his heart."
+  },
+  {
+    "sentence": "この計画は失敗し、亡くなった。",
+    "sentence_furigana": "この計画【けいかく】は失敗【しっぱい】し、亡【なく】なった。",
+    "meaning": "This plan failed and came to nothing."
+  },
+  {
+    "sentence": "彼は亡き父の思いを継いだ。",
+    "sentence_furigana": "彼【かれ】は亡【な】き父【ちち】の思【おも】いを継【つ】いだ。",
+    "meaning": "He inherited his late father's wishes."
+  },
+  {
+    "sentence": "その国は滅亡した。",
+    "sentence_furigana": "その国【くに】は滅亡【めつぼう】した。",
+    "meaning": "That country perished."
+  },
+  {
+    "sentence": "彼は亡くなった友人の功績を称えた。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった友人【ゆうじん】の功績【こうせき】を称【たた】えた。",
+    "meaning": "He praised the achievements of his deceased friend."
+  },
+  {
+    "sentence": "彼女は亡き父の夢を追い続けた。",
+    "sentence_furigana": "彼女【かのじょ】は亡【な】き父【ちち】の夢【ゆめ】を追【お】い続【つづ】けた。",
+    "meaning": "She continued to pursue her deceased father's dream."
+  },
+  {
+    "sentence": "全ての価値は失われ、亡くなった。",
+    "sentence_furigana": "全【すべ】ての価値【かち】は失【うしな】われ、亡【な】くなった。",
+    "meaning": "All value was lost and gone."
+  },
+  {
+    "sentence": "彼は亡き母への感謝を忘れていなかった。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】への感謝【かんしゃ】を忘【わす】れていなかった。",
+    "meaning": "He had not forgotten his gratitude to his deceased mother."
+  },
+  {
+    "sentence": "その王国は滅亡の危機に。",
+    "sentence_furigana": "その王国【おうこく】は滅亡【めつぼう】の危機【きき】に。",
+    "meaning": "The kingdom faced a crisis of collapse."
+  },
+  {
+    "sentence": "彼は亡くなった恩師の墓を訪れた。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった恩師【おんし】の墓【はか】を訪【おとず】れた。",
+    "meaning": "He visited the grave of his late teacher."
+  },
+  {
+    "sentence": "多くの生命が滅亡した。",
+    "sentence_furigana": "多【おお】くの生命【せいめい】が滅亡【めつぼう】した。",
+    "meaning": "Many lives perished."
+  },
+  {
+    "sentence": "彼は亡き妻の思い出を胸に生きていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き妻【つま】の思【おも】い出【で】を胸【むね】に生【い】きていた。",
+    "meaning": "He lived with the memories of his late wife."
+  },
+  {
+    "sentence": "その計画は完全に亡くなった。",
+    "sentence_furigana": "その計画【けいかく】は完全【かんぜん】に亡【なく】なった。",
+    "meaning": "That plan was completely lost."
+  },
+  {
+    "sentence": "彼は亡父の遺訓を心に留めた。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の遺訓【いくん】を心【こころ】に留【と】めた。",
+    "meaning": "He kept his late father's dying words in his heart."
+  },
+  {
+    "sentence": "その栄光は既に亡びた。",
+    "sentence_furigana": "その栄光【えいこう】は既【すで】に亡【ほろ】びた。",
+    "meaning": "That glory has already perished."
+  },
+  {
+    "sentence": "彼女は亡き父のために祈りを捧げた。",
+    "sentence_furigana": "彼女【かのじょ】は亡【な】き父【ちち】のため【ため】に祈【いの】りを捧【ささ】げた。",
+    "meaning": "She offered prayers for her deceased father."
+  },
+  {
+    "sentence": "彼は亡くなった友のためにできる限りのことをした。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった友人【ゆうじん】のため【ため】にできる限【かぎ】りのことをした。",
+    "meaning": "He did everything he could for his deceased friend."
+  },
+  {
+    "sentence": "その文化は忘れ去られ、亡くなった。",
+    "sentence_furigana": "その文化【ぶんか】は忘【わす】れ去【さ】られ、亡【な】くなった。",
+    "meaning": "That culture was forgotten and gone."
+  },
+  {
+    "sentence": "彼は亡き祖母の愛情を思い出していた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖母【そぼ】の愛情【あいじょう】を思【おも】い出【だ】していた。",
+    "meaning": "He was recalling the affection of his late grandmother."
+  },
+  {
+    "sentence": "全ては滅亡に向かうのか。",
+    "sentence_furigana": "全【すべ】ては滅亡【めつぼう】に向【む】かうのか。",
+    "meaning": "Is everything heading towards ruin?"
+  },
+  {
+    "sentence": "彼は亡父の教えを忠実に守った。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の教【おし】えを忠実【ちゅうじつ】に守【まも】った。",
+    "meaning": "He faithfully followed his late father's teachings."
+  },
+  {
+    "sentence": "その王国は滅亡の淵にあった。",
+    "sentence_furigana": "その王国【おうこく】は滅亡【めつぼう】の淵【ふち】にあった。",
+    "meaning": "The kingdom was at the brink of collapse."
+  },
+  {
+    "sentence": "彼は亡き兄の遺志を継ぎ、故郷に貢献した。",
+    "sentence_furigana": "彼【かれ】は亡【な】き兄【あに】の遺志【いし】を継【つ】ぎ、故郷【こきょう】に貢献【こうけん】した。",
+    "meaning": "He inherited his deceased brother's will and contributed to his hometown."
+  },
+  {
+    "sentence": "もう希望は残されていない、全て亡くなった。",
+    "sentence_furigana": "もう希望【きぼう】は残【のこ】されていない、全【すべ】て亡【な】くなった。",
+    "meaning": "There is no hope left, everything is gone."
+  },
+  {
+    "sentence": "彼は亡き母の遺志を胸に生きた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】の遺志【いし】を胸【むね】に生【い】きた。",
+    "meaning": "He lived with his deceased mother's will in his heart."
+  },
+  {
+    "sentence": "その古の技術は亡びた。",
+    "sentence_furigana": "その古老【いにしえ】の技術【ぎじゅつ】は亡【ほろ】びた。",
+    "meaning": "That ancient technology perished."
+  },
+  {
+    "sentence": "彼は亡き父の期待に応えようとした。",
+    "sentence_furigana": "彼【かれ】は亡【な】き父【ちち】の期待【きたい】に応【こた】えようとした。",
+    "meaning": "He tried to meet his deceased father's expectations."
+  },
+  {
+    "sentence": "多くの命が亡くなった悲劇。",
+    "sentence_furigana": "多【おお】くの命【いのち】が亡【な】くなった悲劇【ひげき】。",
+    "meaning": "A tragedy where many lives were lost."
+  },
+  {
+    "sentence": "彼は亡き母の遺品を整理した。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】の遺品【いひん】を整理【せいり】した。",
+    "meaning": "He organized his deceased mother's belongings."
+  },
+  {
+    "sentence": "その王朝は内乱で滅亡した。",
+    "sentence_furigana": "その王朝【おうちょう】は内乱【ないらん】で滅亡【めつぼう】した。",
+    "meaning": "That dynasty collapsed due to civil war."
+  },
+  {
+    "sentence": "彼は亡き祖父の思い出を語った。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖父【そふ】の思【おも】い出【で】を語【かた】った。",
+    "meaning": "He told stories about his late grandfather."
+  },
+  {
+    "sentence": "その計画は実現せず、亡くなった。",
+    "sentence_furigana": "その計画【けいかく】は実現【じつげん】せず、亡【なく】なった。",
+    "meaning": "That plan did not materialize and was abandoned."
+  },
+  {
+    "sentence": "彼は亡父の願いを叶えた。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の願【ねが】いを叶【かな】えた。",
+    "meaning": "He fulfilled his late father's wish."
+  },
+  {
+    "sentence": "その伝統は時代と共に亡びつつある。",
+    "sentence_furigana": "その伝統【でんとう】は時代【じだい】と共【とも】に亡【ほろ】びつつある。",
+    "meaning": "That tradition is perishing with the times."
+  },
+  {
+    "sentence": "彼は亡き姉の形見を大切にしていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き姉【あね】の形見【かたみ】を大切【たいせつ】にしていた。",
+    "meaning": "He cherished the memento of his deceased older sister."
+  },
+  {
+    "sentence": "多くの人々が亡くなった。",
+    "sentence_furigana": "多【おお】くの人々【ひとびと】が亡【な】くなった。",
+    "meaning": "Many people died."
+  },
+  {
+    "sentence": "彼は亡き母の思い出を胸に誓った。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】の思【おも】い出【で】を胸【むね】に誓【ちか】った。",
+    "meaning": "He made a vow in his heart, remembering his deceased mother."
+  },
+  {
+    "sentence": "その帝国は滅亡の運命にあった。",
+    "sentence_furigana": "その帝国【ていこく】は滅亡【めつぼう】の運命【うんめい】にあった。",
+    "meaning": "That empire was destined for ruin."
+  },
+  {
+    "sentence": "彼は亡父の教えを常に心に留めていた。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の教【おし】えを常【つね】に心【こころ】に留【と】めていた。",
+    "meaning": "He always kept his late father's teachings in his heart."
+  },
+  {
+    "sentence": "その文明は滅亡した。",
+    "sentence_furigana": "その文明【ぶんめい】は滅亡【めつぼう】した。",
+    "meaning": "That civilization perished."
+  },
+  {
+    "sentence": "彼は亡き祖父の遺志を継ぐ決意をした。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖父【そふ】の遺志【いし】を継【つ】ぐ決意【けつい】をした。",
+    "meaning": "He decided to carry on his late grandfather's will."
+  },
+  {
+    "sentence": "全てが無駄になり、亡くなった。",
+    "sentence_furigana": "全【すべ】てが無駄【むだ】になり、亡【なく】なった。",
+    "meaning": "Everything became futile and was lost."
+  },
+  {
+    "sentence": "彼は亡くなった友の冥福を祈った。",
+    "sentence_furigana": "彼【かれ】は亡【な】くなった友人【ゆうじん】の冥福【めいふく】を祈【いの】った。",
+    "meaning": "He prayed for the repose of his deceased friend's soul."
+  },
+  {
+    "sentence": "彼女は亡父の遺志を継いで事業を興した。",
+    "sentence_furigana": "彼女【かのじょ】は亡【な】き父【ちち】の遺志【いし】を継【つ】いで事業【じぎょう】を興【おこ】した。",
+    "meaning": "She inherited her deceased father's will and started a business."
+  },
+  {
+    "sentence": "その計画は abort され、亡くなった。",
+    "sentence_furigana": "その計画【けいかく】は abort され、亡【なく】なった。",
+    "meaning": "That plan was aborted and lost."
+  },
+  {
+    "sentence": "彼は亡き母の愛情を胸に生きていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き母【はは】の愛情【あいじょう】を胸【むね】に生【い】きていた。",
+    "meaning": "He lived with his deceased mother's love in his heart."
+  },
+  {
+    "sentence": "多くの命が失われた。",
+    "sentence_furigana": "多【おお】くの命【いのち】が失【うしな】われた。",
+    "meaning": "Many lives were lost."
+  },
+  {
+    "sentence": "彼は亡父の遺志を継ぎ、平和を築いた。",
+    "sentence_furigana": "彼【かれ】は亡【ぼう】父【ふ】の遺志【いし】を継【つ】ぎ、平和【へいわ】を築【きず】いた。",
+    "meaning": "He inherited his late father's will and built peace."
+  },
+  {
+    "sentence": "その王国は滅亡の歴史を持つ。",
+    "sentence_furigana": "その王国【おうこく】は滅亡【めつぼう】の歴史【れきし】を持【も】つ。",
+    "meaning": "That kingdom has a history of ruin."
+  },
+  {
+    "sentence": "彼は亡き祖母の思い出を胸に抱いていた。",
+    "sentence_furigana": "彼【かれ】は亡【な】き祖母【そぼ】の思【おも】い出【で】を胸【むね】に抱【いだ】いていた。",
+    "meaning": "He held the memories of his late grandmother in his heart."
+  }
+]

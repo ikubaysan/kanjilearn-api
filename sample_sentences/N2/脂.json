@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "この肉には脂身が多くついている。",
+    "sentence_furigana": "この肉【にく】には脂身【あぶらみ】が多く【おお】くついている。",
+    "meaning": "This meat has a lot of fat on it."
+  },
+  {
+    "sentence": "豚の脂は体に良いとされている。",
+    "sentence_furigana": "豚【ぶた】の脂【あぶら】は体【からだ】に良【よ】いとされている。",
+    "meaning": "Pork fat is said to be good for the body."
+  },
+  {
+    "sentence": "魚の脂にはEPAが豊富に含まれている。",
+    "sentence_furigana": "魚【さかな】の脂【あぶら】にはEPAが豊富【ほうふ】に含ま【ふく】まれている。",
+    "meaning": "Fish oil is rich in EPA."
+  },
+  {
+    "sentence": "古い油は酸化して不純物が多くなる。",
+    "sentence_furigana": "古【ふる】い油【あぶら】は酸化【さんか】して不純物【ふじゅんぶつ】が多く【おお】くなる。",
+    "meaning": "Old oil oxidizes and becomes impure."
+  },
+  {
+    "sentence": "顔に脂が浮いてきたので、洗顔したい。",
+    "sentence_furigana": "顔【かお】に脂【あぶら】が浮【う】いてきたので、洗顔【せんがん】したい。",
+    "meaning": "There's oil on my face, so I want to wash it."
+  },
+  {
+    "sentence": "木工用塗料には天然の脂が多く含まれている。",
+    "sentence_furigana": "木工用塗料【もっこうようとりょう】には天然【てんねん】の脂【やに】が多く【おお】く含【ふく】まれている。",
+    "meaning": "Wood finishing paints contain a lot of natural resin."
+  },
+  {
+    "sentence": "火をつけるために、松脂を少し集めた。",
+    "sentence_furigana": "火【ひ】をつけるために、松脂【まつやに】を少少【すこ】し集【あつ】めた。",
+    "meaning": "I gathered some pine resin to start the fire."
+  },
+  {
+    "sentence": "タイヤのグリップ力を高めるために、特別なグリスが使用される。",
+    "sentence_furigana": "タイヤのグリップ力【りょく】を高【たか】めるために、特別【とくべつ】なグリスが使用【しよう】される。",
+    "meaning": "Special grease is used to increase tire grip."
+  },
+  {
+    "sentence": "バターは動物性脂肪の一種である。",
+    "sentence_furigana": "バターは動物性脂肪【どうぶつせいしぼう】の一種【いっしゅ】である。",
+    "meaning": "Butter is a type of animal fat."
+  },
+  {
+    "sentence": "このクリームは肌に潤いを与え、脂っぽさを抑える。",
+    "sentence_furigana": "このクリームは肌【はだ】に潤【うるお】いを与【あた】え、脂っぽ【あぶらっぽ】さを抑【おさ】える。",
+    "meaning": "This cream moisturizes the skin and controls oiliness."
+  },
+  {
+    "sentence": "揚げ物の衣は脂を吸ってカリッとする。",
+    "sentence_furigana": "揚物【あげもの】の衣【ころも】は脂【あぶら】を吸【す】ってカリッとする。",
+    "meaning": "The coating of fried food absorbs oil and becomes crispy."
+  },
+  {
+    "sentence": "動物の皮下脂肪は保温の役割を果たす。",
+    "sentence_furigana": "動物【どうぶつ】の皮下脂肪【ひかしぼう】は保温【ほおん】の役割【やくわり】を果【は】たす。",
+    "meaning": "Subcutaneous fat in animals serves to keep them warm."
+  },
+  {
+    "sentence": "石鹸は油とアルカリを反応させて作られる。",
+    "sentence_furigana": "石鹸【せっけん】は油【あぶら】とアルカリを反応【はんのう】させて作【つく】られる。",
+    "meaning": "Soap is made by reacting oil with alkali."
+  },
+  {
+    "sentence": "この塗料は乾きが遅いが、光沢が出る。",
+    "sentence_furigana": "この塗料【とりょう】は乾【かわ】きが遅【おそ】いが、光沢【こうたく】が出【で】る。",
+    "meaning": "This paint dries slowly but has a glossy finish."
+  },
+  {
+    "sentence": "食用油の取りすぎは健康に良くない。",
+    "sentence_furigana": "食用油【しょくようあぶら】の取【と】りすぎは健康【けんこう】に良【よ】くない。",
+    "meaning": "Taking too much cooking oil is not good for your health."
+  },
+  {
+    "sentence": "彼女の髪は少し脂っぽい。",
+    "sentence_furigana": "彼女【かのじょ】の髪【かみ】は少少【すこ】し脂っぽい【あぶらっぽい】。",
+    "meaning": "Her hair is a bit oily."
+  },
+  {
+    "sentence": "薪に火をつけるために、松脂を燃やす。",
+    "sentence_furigana": "薪【まき】に火【ひ】をつけるために、松脂【まつやに】を燃【も】やす。",
+    "meaning": "Burn pine resin to light the firewood."
+  },
+  {
+    "sentence": "革製品の手入れには専用のクリームが必要だ。",
+    "sentence_furigana": "革製品【かわせいひん】の手入【てい】れには専用【せんよう】のクリームが必要【ひつよう】だ。",
+    "meaning": "Leather products require special cream for maintenance."
+  },
+  {
+    "sentence": "そのエンジンの部品には特殊な潤滑油が塗られている。",
+    "sentence_furigana": "そのエンジンの部品【ぶひん】には特殊【とくしゅ】な潤滑油【じゅんかんゆ】が塗【ぬ】られている。",
+    "meaning": "Special lubricating oil is applied to the engine parts."
+  },
+  {
+    "sentence": "コレステロールは体に必要な脂質の一つである。",
+    "sentence_furigana": "コレステロールは体【からだ】に必要な【ひつよう】な脂質【ししつ】の一【ひと】つである。",
+    "meaning": "Cholesterol is one of the essential lipids for the body."
+  },
+  {
+    "sentence": "この地域では動物の脂を燃料として利用している。",
+    "sentence_furigana": "この地域【ちいき】では動物【どうぶつ】の脂【あぶら】を燃料【ねんりょう】として利用【りよう】している。",
+    "meaning": "In this region, animal fat is used as fuel."
+  },
+  {
+    "sentence": "魚の皮の周りには旨味のある脂がついている。",
+    "sentence_furigana": "魚【さかな】の皮【かわ】の周【まわ】りには旨味【うまみ】のある脂【あぶら】がついている。",
+    "meaning": "There is flavorful fat around the fish skin."
+  },
+  {
+    "sentence": "古い油は冷めると白く固まる。",
+    "sentence_furigana": "古【ふる】い油【あぶら】は冷【さ】めると白【しろ】く固【かた】まる。",
+    "meaning": "Old oil solidifies and turns white when it cools."
+  },
+  {
+    "sentence": "彼女は顔のテカリを気にして、ティッシュで押さえている。",
+    "sentence_furigana": "彼女【かのじょ】は顔【かお】のテカリを気【き】にして、ティッシュで押【おさ】えている。",
+    "meaning": "She is concerned about the shine on her face and dabs it with a tissue."
+  },
+  {
+    "sentence": "松脂を精製してテレピン油を作ることができる。",
+    "sentence_furigana": "松脂【まつやに】を精製【せいせい】してテレピン油【ゆ】を作【つく】ることができる。",
+    "meaning": "Turpentine can be made by refining pine resin."
+  },
+  {
+    "sentence": "この塗料は乾燥後も若干の柔軟性を保つ。",
+    "sentence_furigana": "この塗料【とりょう】は乾燥後【かんそうご】も若干【じゃっかん】の柔軟性【じゅうなんせい】を保【たも】つ。",
+    "meaning": "This paint retains some flexibility after drying."
+  },
+  {
+    "sentence": "機械の可動部分には定期的に注油が必要だ。",
+    "sentence_furigana": "機械【きかい】の可動部分【かどうぶぶん】には定期的【ていきてき】に注油【ちゅうゆ】が必要【ひつよう】だ。",
+    "meaning": "Moving parts of machinery require regular lubrication."
+  },
+  {
+    "sentence": "この料理は脂が多いが、とても美味しい。",
+    "sentence_furigana": "この料理【りょうり】は脂【あぶら】が多【おお】いが、とても美味【おい】しい。",
+    "meaning": "This dish is fatty but very delicious."
+  },
+  {
+    "sentence": "豚肉の脂は低温で固まりやすい。",
+    "sentence_furigana": "豚肉【ぶたにく】の脂【あぶら】は低温【ていおん】で固【かた】まりやすい。",
+    "meaning": "Pork fat tends to solidify at low temperatures."
+  },
+  {
+    "sentence": "魚の脂にはDHAも含まれており、健康に良い。",
+    "sentence_furigana": "魚【さかな】の脂【あぶら】にはDHAも含ま【ふくま】れており、健康【けんこう】に良【よ】い。",
+    "meaning": "Fish oil also contains DHA and is good for health."
+  },
+  {
+    "sentence": "この木材は樹脂が多く、加工が難しい。",
+    "sentence_furigana": "この木材【もくざい】は樹脂【じゅし】が多く【おお】く、加工【かこう】が難【むずか】しい。",
+    "meaning": "This wood has a lot of resin and is difficult to process."
+  },
+  {
+    "sentence": "顔の脂を取り除くために、洗顔料を使う。",
+    "sentence_furigana": "顔【かお】の脂【あぶら】を取【と】り除【のぞ】くために、洗顔料【せんがんりょう】を使【つか】う。",
+    "meaning": "Use facial cleanser to remove oil from the face."
+  },
+  {
+    "sentence": "子供の肌は大人よりも皮脂が多い傾向がある。",
+    "sentence_furigana": "子供【こども】の肌【はだ】は大人【おとな】よりも皮脂【ひし】が多【おお】い傾向【けいこう】がある。",
+    "meaning": "Children's skin tends to have more sebum than adults'."
+  },
+  {
+    "sentence": "このソースはバターの脂でコクが出ている。",
+    "sentence_furigana": "このソースはバターの脂【あぶら】でコクが出【で】ている。",
+    "meaning": "This sauce has richness from butterfat."
+  },
+  {
+    "sentence": "古い家具の艶出しには、天然のワックスが使われる。",
+    "sentence_furigana": "古【ふる】い家具【かぐ】の艶出【つやだ】しには、天然【てんねん】のワックスが使【つか】われる。",
+    "meaning": "Natural wax is used to polish old furniture."
+  },
+  {
+    "sentence": "この石鹸は天然油脂から作られています。",
+    "sentence_furigana": "この石鹸【せっけん】は天然油脂【てんねんゆし】から作【つく】られています。",
+    "meaning": "This soap is made from natural oils and fats."
+  },
+  {
+    "sentence": "揚げ物の油切りが不十分だと、脂っぽくなる。",
+    "sentence_furigana": "揚物【あげもの】の油切【あぶらぎ】りが不十分【ふじゅうぶん】だと、脂っぽ【あぶらっぽ】くなる。",
+    "meaning": "If fried food is not drained of oil properly, it becomes greasy."
+  },
+  {
+    "sentence": "木工用の接着剤には樹脂が使われる。",
+    "sentence_furigana": "木工用【もっこうよう】の接着剤【せっちゃくざい】には樹脂【じゅし】が使【つか】われる。",
+    "meaning": "Resin is used in adhesives for woodworking."
+  },
+  {
+    "sentence": "このオイルは粘性が高く、潤滑性に優れている。",
+    "sentence_furigana": "このオイルは粘性【ねんせい】が高【たか】く、潤滑性【じゅんかんせい】に優【すぐ】れている。",
+    "meaning": "This oil has high viscosity and excellent lubricity."
+  },
+  {
+    "sentence": "動物性脂肪の摂りすぎは生活習慣病のリスクを高める。",
+    "sentence_furigana": "動物性脂肪【どうぶつせいしぼう】の摂【と】りすぎは生活習慣病【せいかつしゅうかんびょう】のリスクを高【たか】める。",
+    "meaning": "Excessive intake of animal fat increases the risk of lifestyle-related diseases."
+  },
+  {
+    "sentence": "顔にできたニキビは皮脂の過剰分泌が原因だ。",
+    "sentence_furigana": "顔【かお】にできたニキビは皮脂【ひし】の過剰分泌【かじょうぶんぴつ】が原因【げんいん】だ。",
+    "meaning": "Acne on the face is caused by excessive sebum secretion."
+  },
+  {
+    "sentence": "この調理法は食材の脂を活かすものである。",
+    "sentence_furigana": "この調理法【ちょうりほう】は食材【しょくざい】の脂【あぶら】を活【い】かすものである。",
+    "meaning": "This cooking method utilizes the fat of the ingredients."
+  },
+  {
+    "sentence": "船の帆に塗る防水剤には、動物の脂が使われることがある。",
+    "sentence_furigana": "船【ふね】の帆【ほ】に塗【ぬ】る防水剤【ぼうすいざい】には、動物【どうぶつ】の脂【あぶら】が使【つか】われることがある。",
+    "meaning": "Animal fat is sometimes used as a waterproofing agent for ship sails."
+  },
+  {
+    "sentence": "肌の乾燥を防ぐために、保湿クリームを塗る。",
+    "sentence_furigana": "肌【はだ】の乾燥【かんそう】を防【ふせ】ぐために、保湿クリームを塗【ぬ】る。",
+    "meaning": "Apply moisturizing cream to prevent dry skin."
+  },
+  {
+    "sentence": "油絵具は乾きが遅いが、色合いを重ねやすい。",
+    "sentence_furigana": "油絵具【あぶらえのぐ】は乾【かわ】きが遅【おそ】いが、色合【いろあ】いを重【かさ】ねやすい。",
+    "meaning": "Oil paints dry slowly but allow for easy layering of colors."
+  },
+  {
+    "sentence": "このエンジンのグリスアップは定期的に行う必要がある。",
+    "sentence_furigana": "このエンジン の グリスアップ は 定期的【ていきてき】に 行【おこな】う 必要【ひつよう】がある。",
+    "meaning": "This engine needs to be greased regularly."
+  },
+  {
+    "sentence": "肉の脂身はエネルギー源となる。",
+    "sentence_furigana": "肉【にく】の脂身【あぶらみ】はエネルギー源【エネルギーげん】となる。",
+    "meaning": "Fat in meat serves as an energy source."
+  },
+  {
+    "sentence": "魚を焼くと、脂が溶け出して香ばしい匂いがする。",
+    "sentence_furigana": "魚【さかな】を焼【や】くと、脂【あぶら】が溶【と】け出【だ】して香【こう】ばしい匂【にお】いがする。",
+    "meaning": "When fish is grilled, the fat melts and gives off a fragrant aroma."
+  },
+  {
+    "sentence": "この塗料は耐水性に優れている。",
+    "sentence_furigana": "この塗料【とりょう】は耐水性【たいすいせい】に優【すぐ】れている。",
+    "meaning": "This paint has excellent water resistance."
+  },
+  {
+    "sentence": "顔の脂はニキビの原因になることがある。",
+    "sentence_furigana": "顔【かお】の脂【あぶら】はニキビの原因【げんいん】になることがある。",
+    "meaning": "Facial oil can cause acne."
+  },
+  {
+    "sentence": "彼の絵画には独特の油絵の技法が見られる。",
+    "sentence_furigana": "彼【かれ】の絵画【かいが】には独特【どくとく】の油絵【あぶらえ】の技法【ぎほう】が見【み】られる。",
+    "meaning": "His paintings show a unique oil painting technique."
+  },
+  {
+    "sentence": "木から採れる樹脂は様々な用途に使われる。",
+    "sentence_furigana": "木【き】から採【と】れる樹脂【じゅし】は様々【さまざ】な用途【ようと】に使【つか】われる。",
+    "meaning": "Resin obtained from trees is used for various purposes."
+  },
+  {
+    "sentence": "この製菓には動物性の脂が多く使われている。",
+    "sentence_furigana": "この製菓【せいか】には動物性【どうぶつせい】の脂【あぶら】が多く【おお】く使【つか】われている。",
+    "meaning": "A lot of animal fat is used in this confectionery."
+  },
+  {
+    "sentence": "彼女は肌の脂っぽさを気にして、頻繁に洗顔している。",
+    "sentence_furigana": "彼女【かのじょ】は肌【はだ】の脂っぽ【あぶらっぽ】さを気【き】にして、頻繁【ひんぱん】に洗顔【せんがん】している。",
+    "meaning": "She is conscious of her oily skin and washes her face frequently."
+  },
+  {
+    "sentence": "魚の脂は悪玉コレステロールを減らす効果がある。",
+    "sentence_furigana": "魚【さかな】の脂【あぶら】は悪玉コレステロールを減【へ】らす効果【こうか】がある。",
+    "meaning": "Fish oil has the effect of reducing bad cholesterol."
+  },
+  {
+    "sentence": "この機械の潤滑油は特殊なものが使われている。",
+    "sentence_furigana": "この機械【きかい】の潤滑油【じゅんかんゆ】は特殊【とくしゅ】なものが使【つか】われている。",
+    "meaning": "Special lubricating oil is used for this machine."
+  },
+  {
+    "sentence": "焼いた肉の表面には旨味のある脂がついている。",
+    "sentence_furigana": "焼【や】いた肉【にく】の表面【ひょうめん】には旨味【うまみ】のある脂【あぶら】がついている。",
+    "meaning": "There is flavorful fat on the surface of the grilled meat."
+  },
+  {
+    "sentence": "この塗料は木材の保護に効果的だ。",
+    "sentence_furigana": "この塗料【とりょう】は木材【もくざい】の保護【ほご】に効果的【こうかてき】だ。",
+    "meaning": "This paint is effective for protecting wood."
+  },
+  {
+    "sentence": "子供の肌は皮脂の分泌が多いので、清潔に保つことが大切だ。",
+    "sentence_furigana": "子供【こども】の肌【はだ】は皮脂【ひし】の分泌【ぶんぴつ】が多【おお】いので、清潔【せいけつ】に保【たも】つことが大切【たいせつ】だ。",
+    "meaning": "Children's skin secretes a lot of sebum, so it's important to keep it clean."
+  },
+  {
+    "sentence": "バターの脂は料理にコクと風味を加える。",
+    "sentence_furigana": "バターの脂【あぶら】は料理【りょうり】にコクと風味【ふうみ】を加【くわ】える。",
+    "meaning": "Butterfat adds richness and flavor to dishes."
+  },
+  {
+    "sentence": "古い油は熱を加えると泡立ちやすくなる。",
+    "sentence_furigana": "古【ふる】い油【あぶら】は熱【ねつ】を加【くわ】えると泡立【あわだ】ちやすくなる。",
+    "meaning": "Old oil tends to foam when heated."
+  },
+  {
+    "sentence": "彼女は肌のテカリを抑えるために、オイルコントロール効果のある化粧品を使っている。",
+    "sentence_furigana": "彼女【かのじょ】は肌【はだ】のテカリを抑【おさ】えるために、オイルコントロール効果【こうか】のある化粧品【けしょうひん】を使【つか】っている。",
+    "meaning": "She uses cosmetics with oil-controlling effects to manage her shiny skin."
+  },
+  {
+    "sentence": "このキャンドルは天然の蜜蝋と植物性油脂で作られている。",
+    "sentence_furigana": "このキャンドルは天然【てんねん】の蜜蝋【みつろう】と植物性油脂【しょくぶつせいゆし】で作【つく】られている。",
+    "meaning": "This candle is made from natural beeswax and vegetable oils."
+  },
+  {
+    "sentence": "魚の脂には不飽和脂肪酸が多く含まれている。",
+    "sentence_furigana": "魚【さかな】の脂【あぶら】には不飽和脂肪酸【ふほうかしぼうさん】が多く【おお】く含ま【ふくま】れている。",
+    "meaning": "Fish oil is rich in unsaturated fatty acids."
+  },
+  {
+    "sentence": "この木材は樹脂分が多いので、屋外での使用に適している。",
+    "sentence_furigana": "この木材【もくざい】は樹脂分【じゅしぶん】が多【おお】いので、屋外【おくがい】での使用【しよう】に適【てき】している。",
+    "meaning": "This wood has a high resin content, making it suitable for outdoor use."
+  },
+  {
+    "sentence": "このオイルは粘度が低く、サラサラしている。",
+    "sentence_furigana": "このオイルは粘度【ねんど】が低【ひく】く、サラサラしている。",
+    "meaning": "This oil has low viscosity and feels smooth."
+  },
+  {
+    "sentence": "動物の皮下脂肪は体温維持に役立つ。",
+    "sentence_furigana": "動物【どうぶつ】の皮下脂肪【ひかしぼう】は体温維持【たいおんいじ】に役立【やくた】つ。",
+    "meaning": "Subcutaneous fat in animals helps maintain body temperature."
+  },
+  {
+    "sentence": "この料理は脂っこいが、ビールによく合う。",
+    "sentence_furigana": "この料理【りょうり】は脂っこ【あぶらっこ】いが、ビールによく合【あ】う。",
+    "meaning": "This dish is greasy but goes well with beer."
+  },
+  {
+    "sentence": "彼女は肌の脂を拭き取るために、フェイスシートを使っている。",
+    "sentence_furigana": "彼女【かのじょ】は肌【はだ】の脂【あぶら】を拭【ぬぐ】き取【と】るために、フェイスシートを使【つか】っている。",
+    "meaning": "She uses face sheets to wipe away the oil from her skin."
+  },
+  {
+    "sentence": "油絵の具は乾きにくいので、長期間作業できる。",
+    "sentence_furigana": "油絵の具【あぶらえのぐ】は乾【かわ】きにくいので、長期間【ちょうきかん】作業【さぎょう】できる。",
+    "meaning": "Oil paints are slow to dry, allowing for long periods of work."
+  },
+  {
+    "sentence": "この自転車のチェーンには専用のオイルを注す。",
+    "sentence_furigana": "この自転車【じてんしゃ】のチェーンには専用【せんよう】のオイルを注【そそ】ぐ。",
+    "meaning": "Pour special oil onto this bicycle's chain."
+  },
+  {
+    "sentence": "肉の赤身の部分には筋肉を作るタンパク質が豊富だ。",
+    "sentence_furigana": "肉【にく】の赤身【あかみ】の部分【ぶぶん】には筋肉【きんにく】を作【つく】るタンパク質【しつ】が豊富【ほうふ】だ。",
+    "meaning": "Lean meat is rich in protein that builds muscle."
+  },
+  {
+    "sentence": "魚の腹部には良質な脂が多く含まれている。",
+    "sentence_furigana": "魚【さかな】の腹部【ふくぶ】には良質【りょうしつ】な脂【あぶら】が多く【おお】く含ま【ふくま】れている。",
+    "meaning": "The belly of a fish contains a lot of high-quality fat."
+  },
+  {
+    "sentence": "この木材は樹脂が多く、加工に適している。",
+    "sentence_furigana": "この木材【もくざい】は樹脂【じゅし】が多く【おお】く、加工【かこう】に適【てき】している。",
+    "meaning": "This wood has a lot of resin and is suitable for processing."
+  },
+  {
+    "sentence": "顔に塗る日焼け止めには、肌に優しい成分を選ぶ。",
+    "sentence_furigana": "顔【かお】に塗【ぬ】る日焼【ひや】け止【ど】めには、肌【はだ】に優【やさ】しい成分【せいぶん】を選【えら】ぶ。",
+    "meaning": "Choose gentle ingredients for sunscreen applied to the face."
+  },
+  {
+    "sentence": "この塗料は木材の保護と艶出しに用いられる。",
+    "sentence_furigana": "この塗料【とりょう】は木材【もくざい】の保護【ほご】と艶出【つやだ】しに用【もち】いられる。",
+    "meaning": "This paint is used for protecting and polishing wood."
+  },
+  {
+    "sentence": "彼女の肌は、皮脂のバランスが取れていて健康的だ。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】は、皮脂【ひし】のバランスが取【と】れていて健康的【けんこうてき】だ。",
+    "meaning": "Her skin has a good balance of sebum and is healthy."
+  },
+  {
+    "sentence": "この油は酸化しにくく、保存性に優れている。",
+    "sentence_furigana": "この油【あぶら】は酸化【さんか】しにくく、保存性【ほぞんせい】に優【すぐ】れている。",
+    "meaning": "This oil is resistant to oxidation and has excellent shelf life."
+  },
+  {
+    "sentence": "揚げ物の衣は、油を吸いすぎてベタつかないように注意が必要だ。",
+    "sentence_furigana": "揚物【あげもの】の衣【ころも】は、油【あぶら】を吸【す】いすぎてもベタつかないように注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Care must be taken so that the coating of fried food does not become greasy by absorbing too much oil."
+  },
+  {
+    "sentence": "木材の表面を滑らかにするために、サンドペーパーで磨く。",
+    "sentence_furigana": "木材【もくざい】の表面【ひょうめん】を滑【なめ】らかにするために、サンドペーパーで磨【みが】く。",
+    "meaning": "Sand the wood surface to make it smooth."
+  },
+  {
+    "sentence": "このクリームは肌に潤いを与え、脂分を補う。",
+    "sentence_furigana": "このクリームは肌【はだ】に潤【うるお】いを与【あた】え、脂分【あぶらぶん】を補【おぎな】う。",
+    "meaning": "This cream moisturizes the skin and supplements its oil content."
+  },
+  {
+    "sentence": "魚の脂は体に良いとされている栄養素を多く含んでいる。",
+    "sentence_furigana": "魚【さかな】の脂【あぶら】は体【からだ】に良【よ】いとされている栄養素【えいようそ】を多く【おお】く含【ふく】んでいる。",
+    "meaning": "Fish oil contains many nutrients that are said to be good for the body."
+  },
+  {
+    "sentence": "古い油は不純物が増え、品質が低下する。",
+    "sentence_furigana": "古【ふる】い油【あぶら】は不純物【ふじゅんぶつ】が増【ふ】え、品質【ひんしつ】が低下【ていか】する。",
+    "meaning": "Old oil increases in impurities and its quality deteriorates."
+  },
+  {
+    "sentence": "彼女の肌はオイリーで、すぐにテカリが出てしまう。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】はオイリーで、すぐにテカリが出【で】てしまう。",
+    "meaning": "Her skin is oily and quickly becomes shiny."
+  },
+  {
+    "sentence": "この塗料は木材に深く浸透し、保護効果を高める。",
+    "sentence_furigana": "この塗料【とりょう】は木材【もくざい】に深【ふか】く浸透【しんとう】し、保護効果【ほごこうか】を高【たか】める。",
+    "meaning": "This paint penetrates deeply into the wood, enhancing its protective effect."
+  },
+  {
+    "sentence": "木工用の接着剤は、乾燥後に強度が増す。",
+    "sentence_furigana": "木工用【もっこうよう】の接着剤【せっちゃくざい】は、乾燥後【かんそうご】に強度【きょうど】が増【ま】す。",
+    "meaning": "Adhesives for woodworking increase in strength after drying."
+  },
+  {
+    "sentence": "この石鹸は、肌に必要な油分を残しながら洗浄する。",
+    "sentence_furigana": "この石鹸【せっけん】は、肌【はだ】に必要な【ひつよう】な油分【あぶらぶん】を残【のこ】しながら洗浄【せんじょう】する。",
+    "meaning": "This soap cleanses while leaving the necessary oils on the skin."
+  },
+  {
+    "sentence": "動物性の脂は控えめに摂取することが推奨されている。",
+    "sentence_furigana": "動物性【どうぶつせい】の脂【あぶら】は控【ひか】えめに摂取【せっしゅ】することが推奨【すいしょう】されている。",
+    "meaning": "It is recommended to consume animal fats in moderation."
+  },
+  {
+    "sentence": "肌の脂をきれいに拭き取ったので、さっぱりした。",
+    "sentence_furigana": "肌【はだ】の脂【あぶら】をきれいに拭【ぬぐ】き取【と】ったので、さっぱりした。",
+    "meaning": "I wiped away the oil from my skin cleanly, and it feels refreshed."
+  },
+  {
+    "sentence": "魚の脂は消化吸収されやすい。",
+    "sentence_furigana": "魚【さかな】の脂【あぶら】は消化吸収【しょうかきゅうしゅう】されやすい。",
+    "meaning": "Fish oil is easily digested and absorbed."
+  },
+  {
+    "sentence": "この油は加熱しても品質が劣化しにくい。",
+    "sentence_furigana": "この油【あぶら】は加熱【かねつ】しても品質【ひんしつ】が劣化【れっか】しにくい。",
+    "meaning": "This oil does not easily degrade in quality even when heated."
+  },
+  {
+    "sentence": "彼女の髪はシャンプー afterwards、べたつきがなくサラサラになった。",
+    "sentence_furigana": "彼女【かのじょ】の髪【かみ】はシャンプー afterwards、べたつきがなくサラサラになった。",
+    "meaning": "After shampooing, her hair became smooth and non-greasy."
+  },
+  {
+    "sentence": "この塗料は木材の保護に加えて、美しい光沢も与える。",
+    "sentence_furigana": "この塗料【とりょう】は木材【もくざい】の保護【ほご】に加【くわ】えて、美【うつく】しい光沢【こうたく】も与【あた】える。",
+    "meaning": "This paint not only protects wood but also gives it a beautiful sheen."
+  },
+  {
+    "sentence": "子供の肌は皮脂が多く分泌されるので、清潔に保つ必要がある。",
+    "sentence_furigana": "子供【こども】の肌【はだ】は皮脂【ひし】が多く【おお】く分泌【ぶんぴつ】されるので、清潔【せいけつ】に保【たも】つ必要【ひつよう】がある。",
+    "meaning": "Children's skin secretes a lot of sebum, so it needs to be kept clean."
+  },
+  {
+    "sentence": "この料理は脂が多めだが、調理法でヘルシーに仕上げている。",
+    "sentence_furigana": "この料理【りょうり】は脂【あぶら】が多【おお】めだが、調理法【ちょうりほう】でヘルシーに仕上【しあ】げている。",
+    "meaning": "This dish is a bit fatty, but it's prepared healthily through the cooking method."
+  },
+  {
+    "sentence": "バターは牛乳から分離された脂肪分である。",
+    "sentence_furigana": "バターは牛乳【ぎゅうにゅう】から分離【ぶんり】された脂肪分【しぼうぶん】である。",
+    "meaning": "Butter is the fat separated from milk."
+  },
+  {
+    "sentence": "古い油は酸化が進み、風味や色が変化する。",
+    "sentence_furigana": "古【ふる】い油【あぶら】は酸化【さんか】が進【すす】み、風味【ふうみ】と色【いろ】が変化【へんか】する。",
+    "meaning": "Old oil oxidizes, changing its flavor and color."
+  }
+]

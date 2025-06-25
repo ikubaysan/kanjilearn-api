@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "この本は厚いので、持ち運ぶのが少し大変です。",
+    "sentence_furigana": "この本【ほん】は厚【あつ】いので、持【も】ち運【はこ】ぶのが少【すこ】し大変【たいへん】です。",
+    "meaning": "This book is thick, so it's a bit difficult to carry around."
+  },
+  {
+    "sentence": "彼はその件について厚い信頼を寄せている。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について厚【あつ】い信頼【しんらい】を寄【よ】せている。",
+    "meaning": "He places deep trust in that matter."
+  },
+  {
+    "sentence": "厚かましいお願いで恐縮ですが、ご協力をお願いいたします。",
+    "sentence_furigana": "厚【あつ】かましいお願いで恐縮【きょうしゅく】ですが、ご協力【きょうりょく】をお願いいたします。",
+    "meaning": "I apologize for this impudent request, but I would appreciate your cooperation."
+  },
+  {
+    "sentence": "厚意あるご支援に心から感謝申し上げます。",
+    "sentence_furigana": "厚意【こうい】あるご支援【しえん】に心【こころ】から感謝【かんしゃ】申【もう】し上【あ】げます。",
+    "meaning": "I sincerely thank you for your kind support."
+  },
+  {
+    "sentence": "彼は非常に厚い人柄の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は非常【ひじょう】に厚【あつ】い人柄【ひとがら】の持【も】ち主【ぬし】だ。",
+    "meaning": "He has a very warm personality."
+  },
+  {
+    "sentence": "厚手の生地は冬の防寒に適している。",
+    "sentence_furigana": "厚手【あつで】の生地【きじ】は冬【ふゆ】の防寒【ぼうかん】に適【てき】している。",
+    "meaning": "Thick fabric is suitable for cold protection in winter."
+  },
+  {
+    "sentence": "厚顔無恥な態度には誰もが呆れる。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な態度【たいど】には誰【だれ】もが呆【あき】れる。",
+    "meaning": "Everyone is taken aback by their brazen and shameless attitude."
+  },
+  {
+    "sentence": "厚みのあるガラスは割れにくい。",
+    "sentence_furigana": "厚み【あつみ】のあるガラスは割【わ】れにくい。",
+    "meaning": "Glass with thickness is difficult to break."
+  },
+  {
+    "sentence": "厚い友情は簡単には壊れない。",
+    "sentence_furigana": "厚【あつ】い友情【ゆうじょう】は簡単【かんたん】には壊【こわ】れない。",
+    "meaning": "Deep friendship is not easily broken."
+  },
+  {
+    "sentence": "厚切りの牛肉はとてもジューシーだ。",
+    "sentence_furigana": "厚切【あつぎ】りの牛肉【ぎゅうにく】はとてもジューシーだ。",
+    "meaning": "Thickly sliced beef is very juicy."
+  },
+  {
+    "sentence": "このスープは味が濃く、非常に厚みがある。",
+    "sentence_furigana": "このスープは味【あじ】が濃【こ】く、非常【ひじょう】に厚【あつ】みがある。",
+    "meaning": "This soup has a rich flavor and is very full-bodied."
+  },
+  {
+    "sentence": "厚礼を尽くして接待した。",
+    "sentence_furigana": "厚礼【こうれい】を尽【つく】して接待【せったい】した。",
+    "meaning": "We entertained them with lavish gifts."
+  },
+  {
+    "sentence": "厚藤四郎は日本の刀剣の一つである。",
+    "sentence_furigana": "厚藤四郎【あつとうしろう】は日本【にほん】の刀剣【とうけん】の一つである。",
+    "meaning": "Atsutōshirō is one of Japan's swords."
+  },
+  {
+    "sentence": "厚い雲が空を覆っていた。",
+    "sentence_furigana": "厚【あつ】い雲【くも】が空【そら】を覆【おお】っていた。",
+    "meaning": "Thick clouds covered the sky."
+  },
+  {
+    "sentence": "厚紙に印刷すると、よりしっかりした仕上がりになる。",
+    "sentence_furigana": "厚紙【あつがみ】に印刷【いんさつ】すると、よりしっかりした仕上【しあ】がりになる。",
+    "meaning": "Printing on thick paper results in a more solid finish."
+  },
+  {
+    "sentence": "彼の厚情に感謝しています。",
+    "sentence_furigana": "彼【かれ】の厚情【こうじょう】に感謝【かんしゃ】しています。",
+    "meaning": "I am grateful for his kindness."
+  },
+  {
+    "sentence": "厚意で送ってくださった品です。",
+    "sentence_furigana": "厚意【こうい】で送【おく】ってくださった品【しな】です。",
+    "meaning": "This is a gift sent out of kindness."
+  },
+  {
+    "sentence": "厚かましいとは存じておりますが、再度お伺いします。",
+    "sentence_furigana": "厚【あつ】かましいとは存【そん】じておりますが、再度【さいど】お伺【うかが】いします。",
+    "meaning": "I know it's presumptuous, but I'll ask again."
+  },
+  {
+    "sentence": "厚い氷が湖を覆っていた。",
+    "sentence_furigana": "厚【あつ】い氷【こおり】が湖【みずうみ】を覆【おお】っていた。",
+    "meaning": "Thick ice covered the lake."
+  },
+  {
+    "sentence": "厚顔無恥な男だ。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な男【おとこ】だ。",
+    "meaning": "He is a brazen and shameless man."
+  },
+  {
+    "sentence": "厚手のセーターは暖かい。",
+    "sentence_furigana": "厚手【あつで】のセーターは暖【あたた】かい。",
+    "meaning": "Thick sweaters are warm."
+  },
+  {
+    "sentence": "厚い層の岩石が観察された。",
+    "sentence_furigana": "厚【あつ】い層【そう】の岩石【がんせき】が観察【かんさつ】された。",
+    "meaning": "Thick layers of rock were observed."
+  },
+  {
+    "sentence": "厚手のカーテンは遮光性が高い。",
+    "sentence_furigana": "厚手【あつで】のカーテンは遮光性【しゃこうせい】が高【たか】い。",
+    "meaning": "Thick curtains have high light-blocking properties."
+  },
+  {
+    "sentence": "厚い友情で結ばれた二人だ。",
+    "sentence_furigana": "厚【あつ】い友情【ゆうじょう】で結【むす】ばれた二人【ふたり】だ。",
+    "meaning": "They are two people bound by deep friendship."
+  },
+  {
+    "sentence": "厚切りベーコンは朝食にぴったりだ。",
+    "sentence_furigana": "厚切【あつぎ】りベーコンは朝食【ちょうしょく】にぴったりだ。",
+    "meaning": "Thick-cut bacon is perfect for breakfast."
+  },
+  {
+    "sentence": "彼は厚恩を忘れないだろう。",
+    "sentence_furigana": "彼【かれ】は厚恩【こうおん】を忘【わす】れないだろう。",
+    "meaning": "He will not forget the great favor."
+  },
+  {
+    "sentence": "厚い壁は音を遮断する。",
+    "sentence_furigana": "厚【あつ】い壁【かべ】は音【おと】を遮断【しゃだん】する。",
+    "meaning": "A thick wall blocks sound."
+  },
+  {
+    "sentence": "厚かましいことですが、もう一杯いただけますか。",
+    "sentence_furigana": "厚【あつ】かましいことですが、もう一杯【いっぱい】いただけますか。",
+    "meaning": "I know it's rude, but could I have another cup?"
+  },
+  {
+    "sentence": "厚意をお受け取りください。",
+    "sentence_furigana": "厚意【こうい】をお受【う】け取【と】りください。",
+    "meaning": "Please accept my kind gesture."
+  },
+  {
+    "sentence": "厚みのある声で挨拶をした。",
+    "sentence_furigana": "厚み【あつみ】のある声【こえ】で挨拶【あいさつ】をした。",
+    "meaning": "He greeted me with a deep voice."
+  },
+  {
+    "sentence": "厚い綿入れの着物は暖かい。",
+    "sentence_furigana": "厚【あつ】い綿入【わた】れの着物【きもの】は暖【あたた】かい。",
+    "meaning": "A thick cotton-filled kimono is warm."
+  },
+  {
+    "sentence": "厚顔無恥な態度は非難されるべきだ。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な態度【たいど】は非難【ひなん】されるべきだ。",
+    "meaning": "A brazen and shameless attitude should be condemned."
+  },
+  {
+    "sentence": "厚い絆で家族は繋がっている。",
+    "sentence_furigana": "厚【あつ】い絆【きずな】で家族【かぞく】は繋【つな】がっている。",
+    "meaning": "The family is connected by a strong bond."
+  },
+  {
+    "sentence": "彼は非常に厚い心を持っている。",
+    "sentence_furigana": "彼【かれ】は非常【ひじょう】に厚【あつ】い心【こころ】を持【も】っている。",
+    "meaning": "He has a very kind heart."
+  },
+  {
+    "sentence": "厚紙にカリグラフィーで書く。",
+    "sentence_furigana": "厚紙【あつがみ】にカリグラフィーで書【か】く。",
+    "meaning": "Write calligraphy on thick paper."
+  },
+  {
+    "sentence": "厚地のカーテンが窓を飾る。",
+    "sentence_furigana": "厚地【あつじ】のカーテンが窓【まど】を飾【かざ】る。",
+    "meaning": "Heavy curtains adorn the window."
+  },
+  {
+    "sentence": "厚く御礼申し上げます。",
+    "sentence_furigana": "厚【あつ】く御礼【おんれい】申【もう】し上【あ】げます。",
+    "meaning": "Thank you very much."
+  },
+  {
+    "sentence": "この料理は風味が豊かで、厚みがある。",
+    "sentence_furigana": "この料理【りょうり】は風味【ふうみ】が豊【ゆた】かで、厚み【あつみ】がある。",
+    "meaning": "This dish is rich in flavor and has depth."
+  },
+  {
+    "sentence": "厚かましいとは思うが、これを試してほしい。",
+    "sentence_furigana": "厚【あつ】かましいとは思【おも】うが、これ【を】試【ため】してほしい。",
+    "meaning": "I know it's forward, but I want you to try this."
+  },
+  {
+    "sentence": "厚い信頼関係を築きましょう。",
+    "sentence_furigana": "厚【あつ】い信頼関係【しんらいかんけい】を築【きず】きましょう。",
+    "meaning": "Let's build a deep relationship of trust."
+  },
+  {
+    "sentence": "厚手のキャンバスは丈夫だ。",
+    "sentence_furigana": "厚手【あつで】のキャンバスは丈夫【じょうぶ】だ。",
+    "meaning": "Thick canvas is durable."
+  },
+  {
+    "sentence": "厚意の贈り物を受け取りました。",
+    "sentence_furigana": "厚意【こうい】の贈【おく】り物【もの】を受【う】け取【と】りました。",
+    "meaning": "I received a gift of kindness."
+  },
+  {
+    "sentence": "厚顔無恥な振る舞いに一同は怒った。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な振【ふ】る舞【ま】いに一同【いちどう】は怒【おこ】った。",
+    "meaning": "Everyone was angered by the brazen and shameless behavior."
+  },
+  {
+    "sentence": "厚切りのパンは食べ応えがある。",
+    "sentence_furigana": "厚切【あつぎ】りのパンは食【た】べ応【こた】えがある。",
+    "meaning": "Thickly sliced bread is satisfying to eat."
+  },
+  {
+    "sentence": "厚い雪が積もっていた。",
+    "sentence_furigana": "厚【あつ】い雪【ゆき】が積【つ】もっていた。",
+    "meaning": "A thick layer of snow had accumulated."
+  },
+  {
+    "sentence": "厚い冊子は多くの情報を含んでいる。",
+    "sentence_furigana": "厚【あつ】い冊子【さっし】は多【おお】くの情報【じょうほう】を含【ふく】んでいる。",
+    "meaning": "The thick booklet contains a lot of information."
+  },
+  {
+    "sentence": "厚かましいとは存じますが、もう一度チャンスをください。",
+    "sentence_furigana": "厚【あつ】かましいとは存【そん】じますが、もう一度【いちど】チャンスをください。",
+    "meaning": "I know it's presumptuous, but please give me one more chance."
+  },
+  {
+    "sentence": "厚い愛情を感じる。",
+    "sentence_furigana": "厚【あつ】い愛情【あいじょう】を感【かん】じる。",
+    "meaning": "I feel deep affection."
+  },
+  {
+    "sentence": "厚手のコートはとても暖かい。",
+    "sentence_furigana": "厚手【あつで】のコートはとても暖【あたた】かい。",
+    "meaning": "A thick coat is very warm."
+  },
+  {
+    "sentence": "厚い恩に着せられる。",
+    "sentence_furigana": "厚【あつ】い恩【おん】に着【き】せられる。",
+    "meaning": "To be indebted for a great kindness."
+  },
+  {
+    "sentence": "厚顔無恥とはまさにこのことだ。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】とはまさにこのことだ。",
+    "meaning": "This is exactly what brazenness and shamelessness means."
+  },
+  {
+    "sentence": "厚手の絨毯は足音が響かない。",
+    "sentence_furigana": "厚手【あつで】の絨毯【じゅうたん】は足音【あしおと】が響【ひび】かない。",
+    "meaning": "Thick carpets do not echo footsteps."
+  },
+  {
+    "sentence": "厚い友情は人生の宝だ。",
+    "sentence_furigana": "厚【あつ】い友情【ゆうじょう】は人生【じんせい】の宝【たから】だ。",
+    "meaning": "Deep friendship is a treasure in life."
+  },
+  {
+    "sentence": "厚切りのステーキを注文した。",
+    "sentence_furigana": "厚切【あつぎ】りのステーキを注文【ちゅうもん】した。",
+    "meaning": "I ordered a thick-cut steak."
+  },
+  {
+    "sentence": "厚手の毛布は冬に欠かせない。",
+    "sentence_furigana": "厚手【あつで】の毛布【もうふ】は冬【ふゆ】に欠【か】かせない。",
+    "meaning": "Thick blankets are essential in winter."
+  },
+  {
+    "sentence": "厚かましいとは承知しておりますが、アドバイスをお願いします。",
+    "sentence_furigana": "厚【あつ】かましいとは承知【しょうち】しておりますが、アドバイスをお願いします。",
+    "meaning": "I know it's forward, but please give me some advice."
+  },
+  {
+    "sentence": "厚い信頼に基づいて取引を進める。",
+    "sentence_furigana": "厚【あつ】い信頼【しんらい】に基【もと】づいて取引【とりひき】を進【すす】める。",
+    "meaning": "We proceed with the transaction based on deep trust."
+  },
+  {
+    "sentence": "厚い紙を使うと高級感が増す。",
+    "sentence_furigana": "厚【あつ】い紙【かみ】を使【つか】うと高級感【こうきゅうかん】が増【ま】す。",
+    "meaning": "Using thick paper increases the sense of luxury."
+  },
+  {
+    "sentence": "彼は人に対して厚い心遣いを見せる。",
+    "sentence_furigana": "彼【かれ】は人【ひと】に対して【たい】して厚【あつ】い心遣【こころづか】いを見【み】せる。",
+    "meaning": "He shows deep consideration towards people."
+  },
+  {
+    "sentence": "厚顔無恥な発言はやめろ。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な発言【はつげん】はやめろ。",
+    "meaning": "Stop making brazen and shameless remarks."
+  },
+  {
+    "sentence": "厚手のカーテンが部屋を暖かく保つ。",
+    "sentence_furigana": "厚手【あつで】のカーテンが部屋【へや】を暖【あたた】かく保【たも】つ。",
+    "meaning": "Thick curtains keep the room warm."
+  },
+  {
+    "sentence": "厚い本のページをめくる。",
+    "sentence_furigana": "厚【あつ】い本【ほん】のページをめくる。",
+    "meaning": "Turn the pages of the thick book."
+  },
+  {
+    "sentence": "厚い友人の付き合いを大切にする。",
+    "sentence_furigana": "厚【あつ】い友人【ゆうじん】の付【つ】き合【あ】いを大切【たいせつ】にする。",
+    "meaning": "Cherish close friendships."
+  },
+  {
+    "sentence": "厚手の生地でドレスを作る。",
+    "sentence_furigana": "厚手【あつで】の生地【きじ】でドレスを製【つく】る。",
+    "meaning": "Make a dress out of thick fabric."
+  },
+  {
+    "sentence": "厚かましいお願いですが、もう少し時間をいただけますか。",
+    "sentence_furigana": "厚【あつ】かましいお願いですが、もう少し【すこ】し時間【じかん】をいただけますか。",
+    "meaning": "I know it's a bit forward, but could I have a little more time?"
+  },
+  {
+    "sentence": "厚い信頼関係がなければ仕事は進まない。",
+    "sentence_furigana": "厚【あつ】い信頼関係【しんらいかんけい】がなければ仕事【しごと】は進【すす】まない。",
+    "meaning": "Work cannot progress without a deep relationship of trust."
+  },
+  {
+    "sentence": "彼は厚顔無恥にも謝罪を要求した。",
+    "sentence_furigana": "彼【かれ】は厚顔無恥【こうがんむち】にも謝罪【しゃざい】を要求【ようきゅう】した。",
+    "meaning": "He brazenly and shamelessly demanded an apology."
+  },
+  {
+    "sentence": "厚みのある木材は高級家具に使われる。",
+    "sentence_furigana": "厚み【あつみ】のある木材【もくざい】は高級家具【こうきゅうかぐ】に使【つか】われる。",
+    "meaning": "Thick wood is used for high-end furniture."
+  },
+  {
+    "sentence": "厚いコートを着て外出した。",
+    "sentence_furigana": "厚【あつ】いコートを着【き】て外出【がいしゅつ】した。",
+    "meaning": "I went out wearing a thick coat."
+  },
+  {
+    "sentence": "厚紙に絵を描く。",
+    "sentence_furigana": "厚紙【あつがみ】に絵【え】を描【か】く。",
+    "meaning": "Draw a picture on thick paper."
+  },
+  {
+    "sentence": "厚意あるご助言に感謝いたします。",
+    "sentence_furigana": "厚意【こうい】あるご助言【じょげん】に感謝【かんしゃ】いたします。",
+    "meaning": "I am grateful for your kind advice."
+  },
+  {
+    "sentence": "厚い友情を育むためには努力が必要だ。",
+    "sentence_furigana": "厚【あつ】い友情【ゆうじょう】を育【はぐく】むためには努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "Effort is necessary to foster deep friendship."
+  },
+  {
+    "sentence": "厚顔無恥にも自分の非を認めない。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】にも自分【じぶん】の非【ひ】を認【みと】めない。",
+    "meaning": "Shamelessly, he does not admit his fault."
+  },
+  {
+    "sentence": "厚手のマフラーは首元を暖かくしてくれる。",
+    "sentence_furigana": "厚手【あつで】のマフラーは首元【くびもと】を暖【あたた】かくしてくれる。",
+    "meaning": "A thick muffler keeps your neck warm."
+  },
+  {
+    "sentence": "厚い愛情を注いで育てられた。",
+    "sentence_furigana": "厚【あつ】い愛情【あいじょう】を注【そそ】いで育【そだ】てられた。",
+    "meaning": "I was raised with a lot of love."
+  },
+  {
+    "sentence": "彼はそのプロジェクトに厚い関心を寄せている。",
+    "sentence_furigana": "彼【かれ】はそのプロジェクトに厚【あつ】い関心【かんしん】を寄【よ】せている。",
+    "meaning": "He has a keen interest in that project."
+  },
+  {
+    "sentence": "厚い氷に覆われた川。",
+    "sentence_furigana": "厚【あつ】い氷【こおり】に覆【おお】われた川【かわ】。",
+    "meaning": "A river covered in thick ice."
+  },
+  {
+    "sentence": "厚手のシャツは一枚でも暖かい。",
+    "sentence_furigana": "厚手【あつで】のシャツは一枚【いちまい】でも暖【あたた】かい。",
+    "meaning": "A thick shirt is warm even by itself."
+  },
+  {
+    "sentence": "厚顔無恥な態度で要求を繰り返した。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な態度【たいど】で要求【ようきゅう】を繰【く】り返【かえ】した。",
+    "meaning": "He repeatedly made demands with a brazen and shameless attitude."
+  },
+  {
+    "sentence": "厚い信頼関係は時間をかけて築かれる。",
+    "sentence_furigana": "厚【あつ】い信頼関係【しんらいかんけい】は時間【じかん】をかけて築【きず】かれる。",
+    "meaning": "Deep relationships of trust are built over time."
+  },
+  {
+    "sentence": "厚切りのサーモンは絶品だ。",
+    "sentence_furigana": "厚切【あつぎ】りのサーモンは絶品【ぜっぴん】だ。",
+    "meaning": "Thick-cut salmon is exquisite."
+  },
+  {
+    "sentence": "厚い壁紙は部屋の雰囲気を変える。",
+    "sentence_furigana": "厚【あつ】い壁紙【かべがみ】は部屋【へや】の雰囲気【ふんいき】を変【か】える。",
+    "meaning": "Thick wallpaper changes the atmosphere of the room."
+  },
+  {
+    "sentence": "厚かましいお願いですが、少し手伝っていただけませんか。",
+    "sentence_furigana": "厚【あつ】かましいお願いですが、少【すこ】し手伝【てつだ】っていただけませんか。",
+    "meaning": "I know it's forward, but could you help me a little?"
+  },
+  {
+    "sentence": "厚い友情に感謝しています。",
+    "sentence_furigana": "厚【あつ】い友情【ゆうじょう】に感謝【かんしゃ】しています。",
+    "meaning": "I am grateful for our deep friendship."
+  },
+  {
+    "sentence": "厚手のブランケットは冬の夜に最適だ。",
+    "sentence_furigana": "厚手【あつで】のブランケットは冬【ふゆ】の夜【よる】に最適【さいてき】だ。",
+    "meaning": "A thick blanket is ideal for winter nights."
+  },
+  {
+    "sentence": "厚い氷の上を歩くのは危険だ。",
+    "sentence_furigana": "厚【あつ】い氷【こおり】の上【うえ】を歩【ある】くのは危険【きけん】だ。",
+    "meaning": "Walking on thick ice is dangerous."
+  },
+  {
+    "sentence": "厚い層の砂が堆積していた。",
+    "sentence_furigana": "厚【あつ】い層【そう】の砂【すな】が堆積【たいせき】していた。",
+    "meaning": "Thick layers of sand had accumulated."
+  },
+  {
+    "sentence": "厚顔無恥な態度で開き直った。",
+    "sentence_furigana": "厚顔無恥【こうがんむち】な態度【たいど】で開【ひら】き直【なお】った。",
+    "meaning": "He shamelessly became defiant."
+  },
+  {
+    "sentence": "厚い期待を背負って、彼は試合に臨んだ。",
+    "sentence_furigana": "厚【あつ】い期待【きたい】を背負【せお】って、彼【かれ】は試合【しあい】に臨【のぞ】んだ。",
+    "meaning": "He faced the match carrying great expectations."
+  },
+  {
+    "sentence": "厚切りのリンゴはデザートに良い。",
+    "sentence_furigana": "厚切【あつぎ】りのリンゴはデザートに良【よ】い。",
+    "meaning": "Thickly sliced apples are good for dessert."
+  },
+  {
+    "sentence": "厚手の封筒は内容物を保護する。",
+    "sentence_furigana": "厚手【あつで】の封筒【ふうとう】は内容物【ないようぶつ】を保護【ほご】する。",
+    "meaning": "Thick envelopes protect the contents."
+  },
+  {
+    "sentence": "厚かましいお願いで恐縮ですが、いくつか質問があります。",
+    "sentence_furigana": "厚【あつ】かましいお願いで恐縮【きょうしゅく】ですが、いくつか質問【しつもん】があります。",
+    "meaning": "I apologize for being forward, but I have a few questions."
+  },
+  {
+    "sentence": "厚い石積みの壁。",
+    "sentence_furigana": "厚【あつ】い石積【いしづ】みの壁【かべ】。",
+    "meaning": "A thick stone wall."
+  },
+  {
+    "sentence": "厚い信頼は多くの努力によって築かれる。",
+    "sentence_furigana": "厚【あつ】い信頼【しんらい】は多【おお】くの努力【どりょく】によって築【きず】かれる。",
+    "meaning": "Deep trust is built through much effort."
+  },
+  {
+    "sentence": "厚手のノートは書き込みが多い人に向いている。",
+    "sentence_furigana": "厚手【あつで】のノートは書【か】き込【こ】みが多い【おお】い人【ひと】に向【む】いている。",
+    "meaning": "A thick notebook is suitable for people who write a lot."
+  },
+  {
+    "sentence": "厚い友情を育んだ日々。",
+    "sentence_furigana": "厚【あつ】い友情【ゆうじょう】を育【はぐく】んだ日々【ひび】。",
+    "meaning": "Days of fostering deep friendship."
+  },
+  {
+    "sentence": "厚かましいお願いとは存じますが、ご一考ください。",
+    "sentence_furigana": "厚【あつ】かましいお願いとは存【そん】じますが、ご一考【いっこう】ください。",
+    "meaning": "I know it's forward, but please consider it."
+  },
+  {
+    "sentence": "厚い層の雲が空を覆っていた。",
+    "sentence_furigana": "厚【あつ】い層【そう】の雲【くも】が空【そら】を覆【おお】っていた。",
+    "meaning": "Thick layers of clouds covered the sky."
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "この説明は冗長すぎる。",
+    "sentence_furigana": "この説明【せつめい】は冗長【じょうちょう】すぎる。",
+    "meaning": "This explanation is too verbose."
+  },
+  {
+    "sentence": "冗談だよ、本気にしないで。",
+    "sentence_furigana": "冗談【じょうだん】だよ、本気【ほんき】にしないで。",
+    "meaning": "It's a joke, don't take it seriously."
+  },
+  {
+    "sentence": "無駄な費用を削減する。",
+    "sentence_furigana": "無駄【むだ】な費用【ひよう】を削減【さくげん】する。",
+    "meaning": "Reduce unnecessary expenses."
+  },
+  {
+    "sentence": "彼の話はいつも冗長で退屈だ。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも冗長【じょうちょう】で退屈【たいくつ】だ。",
+    "meaning": "His stories are always long-winded and boring."
+  },
+  {
+    "sentence": "冗文を避けるように心がけてください。",
+    "sentence_furigana": "冗文【じょうぶん】を避【さ】けるように心【こころ】がけてください。",
+    "meaning": "Please try to avoid redundant sentences."
+  },
+  {
+    "sentence": "冗費を削る必要がある。",
+    "sentence_furigana": "冗費【じょうひ】を削【けず】る必要【ひつよう】がある。",
+    "meaning": "It is necessary to cut down on unnecessary expenses."
+  },
+  {
+    "sentence": "この文書は冗長な表現が多い。",
+    "sentence_furigana": "この文書【ぶんしょ】は冗長【じょうちょう】な表現【ひょうげん】が多【おお】い。",
+    "meaning": "This document contains many verbose expressions."
+  },
+  {
+    "sentence": "冗談は顔だけにしてくれ。",
+    "sentence_furigana": "冗談【じょうだん】は顔【かお】だけにしてくれ。",
+    "meaning": "Stick to jokes about your face."
+  },
+  {
+    "sentence": "冗員を削減してコストを抑える。",
+    "sentence_furigana": "冗員【じょういん】を削減【さくげん】してコストを抑【おさ】える。",
+    "meaning": "Reduce surplus staff to control costs."
+  },
+  {
+    "sentence": "彼の弁論は冗長で分かりにくかった。",
+    "sentence_furigana": "彼【かれ】の弁論【べんろん】は冗長【じょうちょう】で分【わ】かりにくかった。",
+    "meaning": "His speech was verbose and difficult to understand."
+  },
+  {
+    "sentence": "無駄な装飾は省いた方が良い。",
+    "sentence_furigana": "無駄【むだ】な装飾【そうしょく】は省【はぶ】いた方【ほう】が良い【よい】。",
+    "meaning": "It is better to omit unnecessary decorations."
+  },
+  {
+    "sentence": "このレポートは冗長な部分が多いので修正します。",
+    "sentence_furigana": "このレポートは冗長【じょうちょう】な部分【ぶぶん】が多【おお】いので修正【しゅうせい】します。",
+    "meaning": "This report has many verbose parts, so I will revise it."
+  },
+  {
+    "sentence": "冗談めかして話したが、本当の気持ちだ。",
+    "sentence_furigana": "冗談【じょうだん】めかして話【はな】したが、本当【ほんとう】の気持【きも】ちだ。",
+    "meaning": "I said it jokingly, but it's how I really feel."
+  },
+  {
+    "sentence": "余分な文字を削除して、文章を短くする。",
+    "sentence_furigana": "余分【よぶん】な文字【もじ】を削除【さくじょ】して、文章【ぶんしょう】を短【みじか】くする。",
+    "meaning": "Delete extra characters and shorten the text."
+  },
+  {
+    "sentence": "冗談が通じなくて気まずい雰囲気になった。",
+    "sentence_furigana": "冗談【じょうだん】が通【つ】じなくて気まずい雰囲気【ふんいき】になった。",
+    "meaning": "The joke didn't land, creating an awkward atmosphere."
+  },
+  {
+    "sentence": "冗長な言い回しは、読者に負担をかける。",
+    "sentence_furigana": "冗長【じょうちょう】な言回【いいまわ】しは、読者【どくしゃ】に負担【ふたん】をかける。",
+    "meaning": "Verbose expressions burden the reader."
+  },
+  {
+    "sentence": "冗談半分で言ったことが、真に受け止められた。",
+    "sentence_furigana": "冗談【じょうだん】半分【はんぶん】で言【い】ったことが、真【ま】に受【う】け止【と】められた。",
+    "meaning": "What I said half-jokingly was taken seriously."
+  },
+  {
+    "sentence": "不要な情報を削除し、簡潔にまとめる。",
+    "sentence_furigana": "不要【ふよう】な情報【じょうほう】を削除【さくじょ】し、簡潔【かんけつ】にまとめる。",
+    "meaning": "Remove unnecessary information and summarize concisely."
+  },
+  {
+    "sentence": "彼のスピーチは内容が薄く冗長だった。",
+    "sentence_furigana": "彼【かれ】のスピーチは内容【ないよう】が薄【うす】く冗長【じょうちょう】だった。",
+    "meaning": "His speech was shallow and verbose."
+  },
+  {
+    "sentence": "冗談めかして言ったのに、彼は真剣な顔をした。",
+    "sentence_furigana": "冗談【じょうだん】めかして言【い】ったのに、彼【かれ】は真剣【しんけん】な顔【かお】をした。",
+    "meaning": "Even though I said it jokingly, he made a serious face."
+  },
+  {
+    "sentence": "この会議は冗長で時間がかかりすぎた。",
+    "sentence_furigana": "この会議【かいぎ】は冗長【じょうちょう】で時間【じかん】がかかりすぎた。",
+    "meaning": "This meeting was verbose and took too long."
+  },
+  {
+    "sentence": "冗文を避けることで、文章は読みやすくなる。",
+    "sentence_furigana": "冗文【じょうぶん】を避【さ】けることで、文章【ぶんしょう】は読【よ】みやすくなる。",
+    "meaning": "Avoiding redundant sentences makes the text easier to read."
+  },
+  {
+    "sentence": "冗談だと言っても信じてもらえなかった。",
+    "sentence_furigana": "冗談【じょうだん】だと言【い】っても信【しん】じてもらえなかった。",
+    "meaning": "Even when I said it was a joke, they didn't believe me."
+  },
+  {
+    "sentence": "無駄な説明は省き、要点だけを伝える。",
+    "sentence_furigana": "無駄【むだ】な説明【せつめい】は省【はぶ】き、要点【ようてん】だけを伝【つた】える。",
+    "meaning": "Omit unnecessary explanations and convey only the main points."
+  },
+  {
+    "sentence": "彼の話し方は冗長で、結論にたどり着かない。",
+    "sentence_furigana": "彼【かれ】の話【はな】し方【かた】は冗長【じょうちょう】で、結論【けつろん】に辿【たど】り着【つ】かない。",
+    "meaning": "His way of speaking is verbose and he never gets to the conclusion."
+  },
+  {
+    "sentence": "冗長な表現は、かえって誤解を招く。",
+    "sentence_furigana": "冗長【じょうちょう】な表現【ひょうげん】は、かえって誤解【ごかい】を招【まね】く。",
+    "meaning": "Verbose expressions, on the contrary, invite misunderstanding."
+  },
+  {
+    "sentence": "冗談交じりに話したが、本心だった。",
+    "sentence_furigana": "冗談【じょうだん】交【ま】じりに話【はな】したが、本心【ほんしん】だった。",
+    "meaning": "I spoke in a joking manner, but it was my true feeling."
+  },
+  {
+    "sentence": "このマニュアルは冗長な説明が多い。",
+    "sentence_furigana": "このマニュアルは冗長【じょうちょう】な説明【せつめい】が多【おお】い。",
+    "meaning": "This manual contains many verbose explanations."
+  },
+  {
+    "sentence": "冗談で言ったことなので、気にしないでください。",
+    "sentence_furigana": "冗談【じょうだん】で言【い】ったことなので、気【き】にしないでください。",
+    "meaning": "I said it as a joke, so please don't worry about it."
+  },
+  {
+    "sentence": "冗費を削減するため、経費の見直しを行った。",
+    "sentence_furigana": "冗費【じょうひ】を削減【さくげん】するため、経費【けいひ】の見直【みなお】しを行【おこな】った。",
+    "meaning": "To reduce unnecessary expenses, we reviewed expenditures."
+  },
+  {
+    "sentence": "彼のメールは冗長で、要点が掴みにくい。",
+    "sentence_furigana": "彼【かれ】のメールは冗長【じょうちょう】で、要点【ようてん】が掴【つか】みにくい。",
+    "meaning": "His emails are verbose and it's hard to grasp the main points."
+  },
+  {
+    "sentence": "冗談半分で応募してみたが、まさか合格するとは思わなかった。",
+    "sentence_furigana": "冗談【じょうだん】半分【はんぶん】で応募【おうぼ】してみたが、まさか合格【ごうかく】するとは思【おも】わなかった。",
+    "meaning": "I applied half-jokingly, but I never thought I would pass."
+  },
+  {
+    "sentence": "この文章は冗長な表現が多く、読みにくい。",
+    "sentence_furigana": "この文章【ぶんしょう】は冗長【じょうちょう】な表現【ひょうげん】が多く【おお】く、読みにくい【よみにくい】。",
+    "meaning": "This text has many verbose expressions and is difficult to read."
+  },
+  {
+    "sentence": "冗談で始めたことが、いつの間にか趣味になった。",
+    "sentence_furigana": "冗談【じょうだん】で始【はじ】めたことが、いつの間【ま】にか趣味【しゅみ】になった。",
+    "meaning": "Something I started as a joke eventually became a hobby."
+  },
+  {
+    "sentence": "無駄な言葉を削ぎ落とし、核心に迫る。",
+    "sentence_furigana": "無駄【むだ】な言葉【ことば】を削【そ】ぎ落【お】とし、核心【かくしん】に迫【せま】る。",
+    "meaning": "Cut away unnecessary words and get to the core."
+  },
+  {
+    "sentence": "彼のプレゼンは冗長だったが、情熱は伝わってきた。",
+    "sentence_furigana": "彼【かれ】のプレゼンは冗長【じょうちょう】だったが、情熱【じょうねつ】は伝【つた】わってきた。",
+    "meaning": "His presentation was verbose, but his passion came across."
+  },
+  {
+    "sentence": "冗談で誘った友人だが、今では大切な仲間だ。",
+    "sentence_furigana": "冗談【じょうだん】で誘【さそ】った友人【ゆうじん】だが、今【いま】では大切【たいせつ】な仲間【なかま】だ。",
+    "meaning": "The friend I invited jokingly is now an important companion."
+  },
+  {
+    "sentence": "この報告書は冗長な部分を削除する必要がある。",
+    "sentence_furigana": "この報告書【ほうこくしょ】は冗長【じょうちょう】な部分【ぶぶん】を削除【さくじょ】する必要【ひつよう】がある。",
+    "meaning": "This report needs verbose parts removed."
+  },
+  {
+    "sentence": "冗談が通じたようで、彼は微笑んだ。",
+    "sentence_furigana": "冗談【じょうだん】が通【つ】じたようで、彼【かれ】は微笑【ほほえ】んだ。",
+    "meaning": "It seems the joke landed, as he smiled."
+  },
+  {
+    "sentence": "冗長な説明は省き、要点を簡潔に述べよ。",
+    "sentence_furigana": "冗長【じょうちょう】な説明【せつめい】は省【はぶ】き、要点【ようてん】を簡潔【かんけつ】に述【の】べよ。",
+    "meaning": "Omit verbose explanations and state the main points concisely."
+  },
+  {
+    "sentence": "冗談を言って場を和ませようとした。",
+    "sentence_furigana": "冗談【じょうだん】を言【い】って場【ば】を和【なご】ませようとした。",
+    "meaning": "I tried to liven up the atmosphere by telling a joke."
+  },
+  {
+    "sentence": "冗談じゃない、これは真面目な話なんだ。",
+    "sentence_furigana": "冗談【じょうだん】じゃない、これは真面目【まじめ】な話【はな】しなんだ。",
+    "meaning": "This is not a joke, this is a serious matter."
+  },
+  {
+    "sentence": "無駄な要素を排除し、シンプルに仕上げる。",
+    "sentence_furigana": "無駄【むだ】な要素【ようそ】を排除【はいじょ】し、シンプルに仕上【しあ】げる。",
+    "meaning": "Eliminate unnecessary elements and finish it simply."
+  },
+  {
+    "sentence": "彼のスピーチは冗長で、聞いているのが辛かった。",
+    "sentence_furigana": "彼【かれ】のスピーチは冗長【じょうちょう】で、聞【き】いているのが辛【つら】かった。",
+    "meaning": "His speech was verbose, and it was painful to listen to."
+  },
+  {
+    "sentence": "冗談で言ったことが、彼を傷つけてしまった。",
+    "sentence_furigana": "冗談【じょうだん】で言【い】ったことが、彼【かれ】を傷【きず】つけてしまった。",
+    "meaning": "What I said as a joke ended up hurting him."
+  },
+  {
+    "sentence": "このメールは冗長なので、要約して送り返す。",
+    "sentence_furigana": "このメールは冗長【じょうちょう】なので、要約【ようやく】して送【おく】り返【かえ】す。",
+    "meaning": "This email is verbose, so I will summarize and send it back."
+  },
+  {
+    "sentence": "冗談めかした口調で、彼女は本心を伝えた。",
+    "sentence_furigana": "冗談【じょうだん】めかした口調【くちょう】で、彼女【かのじょ】は本心【ほんしん】を伝【つた】えた。",
+    "meaning": "In a joking tone, she conveyed her true feelings."
+  },
+  {
+    "sentence": "冗長な文章は読者の集中力を削ぐ。",
+    "sentence_furigana": "冗長【じょうちょう】な文章【ぶんしょう】は読者【どくしゃ】の集中力【しゅうちゅうりょく】を削【けず】ぐ。",
+    "meaning": "Verbose texts diminish the reader's concentration."
+  },
+  {
+    "sentence": "冗談はやめて、真面目に話し合おう。",
+    "sentence_furigana": "冗談【じょうだん】はやめて、真面目【まじめ】に話【はな】し合【あ】おう。",
+    "meaning": "Stop joking and let's talk seriously."
+  },
+  {
+    "sentence": "無駄な装飾を排し、機能性を重視したデザイン。",
+    "sentence_furigana": "無駄【むだ】な装飾【そうしょく】を排【はい】し、機能性【きのうせい】を重視【じゅうし】したデザイン。",
+    "meaning": "A design that omits unnecessary ornamentation and emphasizes functionality."
+  },
+  {
+    "sentence": "彼の説明は冗長で、言っていることがよく分からなかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は冗長【じょうちょう】で、言【い】っていることがよく分【わ】からなかった。",
+    "meaning": "His explanation was verbose, and I didn't understand what he was saying."
+  },
+  {
+    "sentence": "冗談で送ったメッセージが、思いがけず相手に喜ばれた。",
+    "sentence_furigana": "冗談【じょうだん】で送【おく】ったメッセージが、思【おも】いがけず相手【あいて】に喜【よろこ】ばれた。",
+    "meaning": "The message I sent as a joke was unexpectedly well-received by the other person."
+  },
+  {
+    "sentence": "この企画は冗長な部分が多いので、改善が必要だ。",
+    "sentence_furigana": "この企画【きかく】は冗長【じょうちょう】な部分【ぶぶん】が多【おお】いので、改善【かいぜん】が必要【ひつよう】だ。",
+    "meaning": "This plan has many verbose parts, so improvement is necessary."
+  },
+  {
+    "sentence": "冗談を言っても、彼の表情は変わらなかった。",
+    "sentence_furigana": "冗談【じょうだん】を言【い】っても、彼【かれ】の表情【ひょうじょう】は変【か】わらなかった。",
+    "meaning": "Even when I told a joke, his expression didn't change."
+  },
+  {
+    "sentence": "冗長な言い回しをやめ、もっと直接的に伝えよう。",
+    "sentence_furigana": "冗長【じょうちょう】な言回【いいまわ】しをやめ、もっと直接的【ちょくせつてき】に伝【つた】えよう。",
+    "meaning": "Let's stop using verbose phrasing and communicate more directly."
+  },
+  {
+    "sentence": "冗談半分で写真を投稿したら、予想外に反響があった。",
+    "sentence_furigana": "冗談【じょうだん】半分【はんぶん】で写真【しゃしん】を投稿【とうこう】したら、予想外【よそうがい】に反響【はんきょう】があった。",
+    "meaning": "When I posted the photo half-jokingly, it received an unexpected response."
+  },
+  {
+    "sentence": "このマニュアルは冗長な記述が多く、理解しにくい。",
+    "sentence_furigana": "このマニュアルは冗長【じょうちょう】な記述【きじゅつ】が多く【おお】く、理解【りかい】しにくい。",
+    "meaning": "This manual has many verbose descriptions and is difficult to understand."
+  },
+  {
+    "sentence": "冗談を真に受けて、彼は怒り出した。",
+    "sentence_furigana": "冗談【じょうだん】を真【ま】に受【う】けて、彼【かれ】は怒【おこ】り出【だ】した。",
+    "meaning": "Taking the joke seriously, he got angry."
+  },
+  {
+    "sentence": "無駄な努力は、ときに貴重な経験となる。",
+    "sentence_furigana": "無駄【むだ】な努力【どりょく】は、ときに貴重【きちょう】な経験【けいけん】となる。",
+    "meaning": "Useless efforts sometimes become valuable experiences."
+  },
+  {
+    "sentence": "彼の話し方は冗長で、時間がかかっても結論に至らない。",
+    "sentence_furigana": "彼【かれ】の話【はな】し方【かた】は冗長【じょうちょう】で、時間【じかん】がかかっても結論【けつろん】に至【いた】らない。",
+    "meaning": "His way of speaking is verbose, and even with the time spent, he doesn't reach a conclusion."
+  },
+  {
+    "sentence": "冗長な表現を避け、簡潔に要点をまとめなさい。",
+    "sentence_furigana": "冗長【じょうちょう】な表現【ひょうげん】を避【さ】け、簡潔【かんけつ】に要点【ようてん】をまとみなさい。",
+    "meaning": "Avoid verbose expressions and summarize the main points concisely."
+  },
+  {
+    "sentence": "冗談で言ったことが、相手に深く誤解された。",
+    "sentence_furigana": "冗談【じょうだん】で言【い】ったことが、相手【あいて】に深【ふか】く誤解【ごかい】された。",
+    "meaning": "What I said as a joke was deeply misunderstood by the other person."
+  },
+  {
+    "sentence": "このレポートは冗長なので、もっと短くまとめるべきだ。",
+    "sentence_furigana": "このレポートは冗長【じょうちょう】なので、もっと短【みじか】くまとめるべきだ。",
+    "meaning": "This report is verbose, so it should be summarized more concisely."
+  },
+  {
+    "sentence": "冗談のつもりだったが、相手は本気で怒っていた。",
+    "sentence_furigana": "冗談【じょうだん】のつもりだったが、相手【あいて】は本気【ほんき】で怒【おこ】っていた。",
+    "meaning": "I meant it as a joke, but the other person was genuinely angry."
+  },
+  {
+    "sentence": "無駄な議論を避けて、効率的に進めたい。",
+    "sentence_furigana": "無駄【むだ】な議論【ぎろん】を避【さ】けて、効率的【こうりつてき】に進【すす】めたい。",
+    "meaning": "I want to avoid unnecessary discussions and proceed efficiently."
+  },
+  {
+    "sentence": "彼の説明は冗長すぎて、結局何を言いたいのか分からなかった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は冗長【じょうちょう】すぎて、結局【けっきょく】何【なに】を言いたいのか分【わ】からなかった。",
+    "meaning": "His explanation was too verbose, and in the end, I didn't understand what he wanted to say."
+  },
+  {
+    "sentence": "冗談めかして言ったことだが、それは彼の本音だった。",
+    "sentence_furigana": "冗談【じょうだん】めかして言【い】ったことだが、それは彼【かれ】の本音【ほんね】だった。",
+    "meaning": "Although I said it jokingly, it was his true intention."
+  },
+  {
+    "sentence": "この企画書は冗長な表現を削り、より分かりやすくする。",
+    "sentence_furigana": "この企画書【きかくしょ】は冗長【じょうちょう】な表現【ひょうげん】を削【けず】り、より分【わ】かりやすくする。",
+    "meaning": "This proposal will remove verbose expressions to make it easier to understand."
+  },
+  {
+    "sentence": "冗談で試したことが、思わぬ才能の開花につながった。",
+    "sentence_furigana": "冗談【じょうだん】で試【ため】したことが、思【おも】わぬ才能【さいのう】の開花【かいか】につながった。",
+    "meaning": "Something I tried as a joke led to the unexpected blossoming of talent."
+  },
+  {
+    "sentence": "冗長な会話は時間の無駄である。",
+    "sentence_furigana": "冗長【じょうちょう】な会話【かいわ】は時間【じかん】の無駄【むだ】である。",
+    "meaning": "Verbose conversations are a waste of time."
+  },
+  {
+    "sentence": "冗談じゃない、これは絶対に許せない。",
+    "sentence_furigana": "冗談【じょうだん】じゃない、これは絶対【ぜったい】に許【ゆる】せない。",
+    "meaning": "This is not a joke; I absolutely cannot forgive this."
+  },
+  {
+    "sentence": "無駄な情報を排除し、情報を整理する。",
+    "sentence_furigana": "無駄【むだ】な情報【じょうほう】を排除【はいじょ】し、情報【じょうほう】を整理【せいり】する。",
+    "meaning": "Eliminate unnecessary information and organize the data."
+  },
+  {
+    "sentence": "彼のプレゼンテーションは冗長で、重要な点が伝わりにくかった。",
+    "sentence_furigana": "彼【かれ】のプレゼンテーションは冗長【じょうちょう】で、重要【じゅうよう】な点【てん】が伝【つた】わりにくかった。",
+    "meaning": "His presentation was verbose, and it was difficult for the important points to get across."
+  },
+  {
+    "sentence": "冗談で送った手紙が、彼女の心を動かしたらしい。",
+    "sentence_furigana": "冗談【じょうだん】で送【おく】った手紙【てがみ】が、彼女【かのじょ】の心【こころ】を動【うご】かしたらしい。",
+    "meaning": "It seems the letter I sent as a joke moved her heart."
+  },
+  {
+    "sentence": "この文書は冗長な表現を多く含んでいるため、修正が必要です。",
+    "sentence_furigana": "この文書【ぶんしょ】は冗長【じょうちょう】な表現【ひょうげん】を多【おお】く含【ふく】んでいるため、修正【しゅうせい】が必要【ひつよう】です。",
+    "meaning": "This document contains many verbose expressions, so revision is necessary."
+  },
+  {
+    "sentence": "冗談だと言っているのに、なぜ怒るのか理解できない。",
+    "sentence_furigana": "冗談【じょうだん】だと言【い】っているのに、なぜ怒【おこ】るのか理解【りかい】できない。",
+    "meaning": "I don't understand why you're getting angry when I'm telling you it's a joke."
+  },
+  {
+    "sentence": "冗長な言い回しは、簡潔さを損なう。",
+    "sentence_furigana": "冗長【じょうちょう】な言回【いいまわ】しは、簡潔【かんけつ】さを損【そこな】う。",
+    "meaning": "Verbose phrasing compromises conciseness."
+  },
+  {
+    "sentence": "冗談半分で始めた副業が、今では本業になっている。",
+    "sentence_furigana": "冗談【じょうだん】半分【はんぶん】で始【はじ】めた副業【ふくぎょう】が、今【いま】では本業【ほんぎょう】になっている。",
+    "meaning": "The side job I started half-jokingly has now become my main occupation."
+  },
+  {
+    "sentence": "このマニュアルは冗長で読みにくいので、内容を整理し直す。",
+    "sentence_furigana": "このマニュアルは冗長【じょうちょう】で読みにくい【よみにくい】ので、内容【ないよう】を整理【せいり】し直【なお】す。",
+    "meaning": "This manual is verbose and difficult to read, so I will reorganize the content."
+  },
+  {
+    "sentence": "冗談で言ったことが、彼との間に溝を作ってしまった。",
+    "sentence_furigana": "冗談【じょうだん】で言【い】ったことが、彼【かれ】との間【あいだ】に溝【みぞ】を作【つく】ってしまった。",
+    "meaning": "What I said as a joke created a rift between him and me."
+  },
+  {
+    "sentence": "無駄な時間を過ごすのは避けたい。",
+    "sentence_furigana": "無駄【むだ】な時間【じかん】を過【す】ごすのは避【さ】けたい。",
+    "meaning": "I want to avoid spending time uselessly."
+  },
+  {
+    "sentence": "彼の長話は冗長で、聞いているだけで疲れた。",
+    "sentence_furigana": "彼【かれ】の長話【ながばなし】は冗長【じょうちょう】で、聞【き】いているだけで疲【つか】れた。",
+    "meaning": "His long speech was verbose, and just listening to it was tiring."
+  },
+  {
+    "sentence": "冗長な説明はせず、要点を分かりやすく伝えます。",
+    "sentence_furigana": "冗長【じょうちょう】な説明【せつめい】はせず、要点【ようてん】を分【わ】かりやすく伝【つた】えます。",
+    "meaning": "I will convey the main points clearly without verbose explanations."
+  },
+  {
+    "sentence": "冗談で始めたことが、専門分野になった。",
+    "sentence_furigana": "冗談【じょうだん】で始【はじ】めたことが、専門分野【せんもんぶんや】になった。",
+    "meaning": "Something I started as a joke became my specialty."
+  },
+  {
+    "sentence": "この会議は冗長で進行が遅い。",
+    "sentence_furigana": "この会議【かいぎ】は冗長【じょうちょう】で進行【しんこう】が遅【おく】い。",
+    "meaning": "This meeting is verbose and progressing slowly."
+  },
+  {
+    "sentence": "冗談では済まされない深刻な問題だ。",
+    "sentence_furigana": "冗談【じょうだん】では済【す】まされない深刻【しんこく】な問題【もんだい】だ。",
+    "meaning": "This is a serious problem that cannot be dismissed as a joke."
+  },
+  {
+    "sentence": "無駄な書き込みは、ストレージ容量を圧迫する。",
+    "sentence_furigana": "無駄【むだ】な書込【かきこ】みは、ストレージ容量【ようりょう】を圧迫【あっぱく】する。",
+    "meaning": "Useless writings occupy storage space."
+  },
+  {
+    "sentence": "彼の弁論は冗長で、論点がぼやけていた。",
+    "sentence_furigana": "彼【かれ】の弁論【べんろん】は冗長【じょうちょう】で、論点【ろんてん】がぼやけていた。",
+    "meaning": "His speech was verbose, and the points were blurry."
+  },
+  {
+    "sentence": "冗談めかして言ったのに、彼は真顔で反論してきた。",
+    "sentence_furigana": "冗談【じょうだん】めかして言【い】ったのに、彼【かれ】は真顔【まがお】で反論【はんろん】してきた。",
+    "meaning": "Even though I said it jokingly, he retorted with a straight face."
+  },
+  {
+    "sentence": "この文章は冗長なので、もっと簡潔に書き直したい。",
+    "sentence_furigana": "この文章【ぶんしょう】は冗長【じょうちょう】なので、もっと簡潔【かんけつ】に書【か】き直【なお】したい。",
+    "meaning": "This text is verbose, so I want to rewrite it more concisely."
+  },
+  {
+    "sentence": "冗談で言ったことが、思わぬ展開を招いた。",
+    "sentence_furigana": "冗談【じょうだん】で言【い】ったことが、思【おも】わぬ展開【てんかい】を招【まね】いた。",
+    "meaning": "What I said as a joke led to an unexpected development."
+  },
+  {
+    "sentence": "冗長な会議は、参加者の意欲を削ぐ。",
+    "sentence_furigana": "冗長【じょうちょう】な会議【かいぎ】は、参加者【さんかしゃ】の意欲【いよく】を削【けず】ぐ。",
+    "meaning": "Verbose meetings dampen participants' motivation."
+  }
+]

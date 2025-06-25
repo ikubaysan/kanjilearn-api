@@ -1,0 +1,567 @@
+[
+  {
+    "sentence": "消防隊が火災現場に急行した。",
+    "sentence_furigana": "消防隊【しょうぼうたい】が火災【かさい】現場【げんば】に急行【きゅうこう】した。",
+    "meaning": "The fire brigade rushed to the scene of the fire."
+  },
+  {
+    "sentence": "彼は優秀な兵士として歩兵隊に所属していた。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】な兵士【へいし】として歩兵隊【ほへいたい】に所属【しょぞく】していた。",
+    "meaning": "He belonged to the infantry as an excellent soldier."
+  },
+  {
+    "sentence": "救助隊が瓦礫の中から生存者を探した。",
+    "sentence_furigana": "救助隊【きゅうじょたい】が瓦礫【がれき】の中【なか】から生存者【せいぞんしゃ】を探【さが】した。",
+    "meaning": "The rescue team searched for survivors among the rubble."
+  },
+  {
+    "sentence": "その部隊は敵陣に深く侵入した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵陣【てきじん】に深【ふか】く侵入【しんにゅう】した。",
+    "meaning": "The unit infiltrated deep into enemy lines."
+  },
+  {
+    "sentence": "探検隊はアマゾン奥地へと旅立った。",
+    "sentence_furigana": "探検隊【たんけんたい】はアマゾン奥地【おくち】へと旅立【たびだ】った。",
+    "meaning": "The expedition set off for the depths of the Amazon."
+  },
+  {
+    "sentence": "医療チームが被災地へ派遣された。",
+    "sentence_furigana": "医療【いりょう】チームが被災地【ひさいち】へ派遣【はけん】された。",
+    "meaning": "A medical team was dispatched to the disaster-stricken area."
+  },
+  {
+    "sentence": "私たちは数人の友人と共にパーティーに参加した。",
+    "sentence_furigana": "私【わたし】たち は数人【すうにん】の友人【ゆうじん】と共【とも】にパーティーに参加【さんか】した。",
+    "meaning": "We attended the party with several friends."
+  },
+  {
+    "sentence": "警察の特殊部隊がテロリストを制圧した。",
+    "sentence_furigana": "警察【けいさつ】の特殊部隊【とくしゅぶたい】がテロリストを制圧【せいあつ】した。",
+    "meaning": "The police special forces suppressed the terrorists."
+  },
+  {
+    "sentence": "その研究チームは新しい発見をした。",
+    "sentence_furigana": "その研究【けんきゅう】チームは新【あたら】しい発見【はっけん】をした。",
+    "meaning": "The research team made a new discovery."
+  },
+  {
+    "sentence": "学生のグループがボランティア活動に参加した。",
+    "sentence_furigana": "学生【がくせい】のグループがボランティア活動【かつどう】に参加【さんか】した。",
+    "meaning": "A group of students participated in volunteer activities."
+  },
+  {
+    "sentence": "彼は警備隊の一員として職務を遂行した。",
+    "sentence_furigana": "彼【かれ】は警備隊【けいびたい】の一員【いちいん】として職務【しょくむ】を遂行【すいこう】した。",
+    "meaning": "He performed his duties as a member of the security team."
+  },
+  {
+    "sentence": "医療班が患者の元へ急行した。",
+    "sentence_furigana": "医療班【いりょうはん】が患者【かんじゃ】の元【もと】へ急行【きゅうこう】した。",
+    "meaning": "The medical team rushed to the patient's side."
+  },
+  {
+    "sentence": "その動物保護団体は保護活動を展開している。",
+    "sentence_furigana": "その動物【どうぶつ】保護【ほご】団体【だんたい】は保護【ほご】活動【かつどう】を展開【てんかい】している。",
+    "meaning": "The animal protection group is carrying out conservation activities."
+  },
+  {
+    "sentence": "彼は経験豊富な調査隊のリーダーだった。",
+    "sentence_furigana": "彼【かれ】は経験豊富【けいけんほうふ】な調査隊【ちょうさたい】のリーダーだった。",
+    "meaning": "He was the leader of an experienced survey team."
+  },
+  {
+    "sentence": "私たちは親善試合を行うために派遣された。",
+    "sentence_furigana": "私【わたし】たち は親善試合【しんぜんじあい】を行うために派遣【はけん】された。",
+    "meaning": "We were dispatched to play a friendly match."
+  },
+  {
+    "sentence": "登山隊は悪天候のため頂上への到達を断念した。",
+    "sentence_furigana": "登山隊【とざんたい】は悪天候【あくてんこう】のため頂上【ちょうじょう】への到達【とうたつ】を断念【だんねん】した。",
+    "meaning": "The climbing team abandoned their ascent to the summit due to bad weather."
+  },
+  {
+    "sentence": "彼は有名なロックバンドのメンバーである。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】なロックバンドのメンバーである。",
+    "meaning": "He is a member of a famous rock band."
+  },
+  {
+    "sentence": "消防団は地域社会の安全を守るために活動している。",
+    "sentence_furigana": "消防団【しょうぼうだん】は地域社会【ちいきしゃかい】の安全【あんぜん】を守【まも】るために活動【かつどう】している。",
+    "meaning": "The fire corps works to protect the safety of the local community."
+  },
+  {
+    "sentence": "その調査隊は未踏の地を探査した。",
+    "sentence_furigana": "その調査隊【ちょうさたい】は未踏【みとう】の地【ち】を探査【たんさ】した。",
+    "meaning": "The survey team explored uncharted territory."
+  },
+  {
+    "sentence": "彼は精鋭部隊の一員として訓練を受けた。",
+    "sentence_furigana": "彼【かれ】は精鋭部隊【せいえいぶたい】の一員【いちいん】として訓練【くんれん】を受【う】けた。",
+    "meaning": "He received training as a member of an elite unit."
+  },
+  {
+    "sentence": "私たちは友好訪問団として訪れた。",
+    "sentence_furigana": "私【わたし】たち は友好訪問団【ゆうこうほうもんだん】として訪【おとず】れた。",
+    "meaning": "We visited as a goodwill delegation."
+  },
+  {
+    "sentence": "その部隊は前線で激しい戦闘を繰り広げた。",
+    "sentence_furigana": "その部隊【ぶたい】は前線【ぜんせん】で激【はげ】しい戦闘【せんとう】を繰【く】り広【ひろ】げた。",
+    "meaning": "The unit engaged in fierce fighting on the front lines."
+  },
+  {
+    "sentence": "彼は楽団の指揮者として才能を発揮した。",
+    "sentence_furigana": "彼【かれ】は楽団【がくだん】の指揮者【しきしゃ】として才能【さいのう】を発揮【はっき】した。",
+    "meaning": "He demonstrated his talent as the conductor of the orchestra."
+  },
+  {
+    "sentence": "私たちは合同訓練のために集まった。",
+    "sentence_furigana": "私【わたし】たち は合同訓練【ごうどうくんれん】のために集【あつ】まった。",
+    "meaning": "We gathered for joint training."
+  },
+  {
+    "sentence": "彼女は国際的な平和維持隊に参加した。",
+    "sentence_furigana": "彼女【かのじょ】は国際的【こくさいてき】な平和維持隊【へいわいちたい】に参加【さんか】した。",
+    "meaning": "She joined an international peacekeeping force."
+  },
+  {
+    "sentence": "その建設隊は予定通りに工事を進めた。",
+    "sentence_furigana": "その建設隊【けんせつたい】は予定通【よていどお】り に工事【こうじ】を進【すす】めた。",
+    "meaning": "The construction team proceeded with the work as scheduled."
+  },
+  {
+    "sentence": "彼は秘密工作隊の一員として任務を遂行した。",
+    "sentence_furigana": "彼【かれ】は秘密工作隊【ひみつこうさくたい】の一員【いちいん】として任務【にんむ】を遂行【すいこう】した。",
+    "meaning": "He carried out his mission as a member of a covert operations unit."
+  },
+  {
+    "sentence": "感染症対策チームが設置された。",
+    "sentence_furigana": "感染症対策【かんせんしょうたいさく】チームが設置【せっち】された。",
+    "meaning": "An infectious disease control team was established."
+  },
+  {
+    "sentence": "その部隊は敵の補給線を遮断した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の補給線【ほきゅうせん】を遮断【しゃだん】した。",
+    "meaning": "The unit cut off the enemy's supply lines."
+  },
+  {
+    "sentence": "私たちは文化交流団の一員として参加した。",
+    "sentence_furigana": "私【わたし】たち は文化交流団【ぶんかこうりゅうだん】の一員【いちいん】として参加【さんか】した。",
+    "meaning": "We participated as members of a cultural exchange group."
+  },
+  {
+    "sentence": "彼は特別捜査隊のリーダーを務めた。",
+    "sentence_furigana": "彼【かれ】は特別捜査隊【とくべつそうさたい】のリーダーを務【つと】めた。",
+    "meaning": "He served as the leader of the special investigation team."
+  },
+  {
+    "sentence": "私たちはエキストラとして映画に出演した。",
+    "sentence_furigana": "私【わたし】たち はエキストラとして映画【えいが】に出演【しゅつえん】した。",
+    "meaning": "We appeared in the movie as extras."
+  },
+  {
+    "sentence": "医療支援隊が遠隔地へ派遣された。",
+    "sentence_furigana": "医療支援隊【いりょうしえんたい】が遠隔地【えんかくち】へ派遣【はけん】された。",
+    "meaning": "A medical support team was dispatched to a remote area."
+  },
+  {
+    "sentence": "その偵察隊は敵情を視察した。",
+    "sentence_furigana": "その偵察隊【ていさつたい】は敵情【てきじょう】を視察【しさつ】した。",
+    "meaning": "The reconnaissance team surveyed the enemy situation."
+  },
+  {
+    "sentence": "彼女は犯罪捜査チームの一員である。",
+    "sentence_furigana": "彼女【かのじょ】は犯罪捜査【はんざいそうさ】チームの一員【いちいん】である。",
+    "meaning": "She is a member of the criminal investigation team."
+  },
+  {
+    "sentence": "私たちは合同演習に参加した。",
+    "sentence_furigana": "私【わたし】たち は合同演習【ごうどうえんしゅう】に参加【さんか】した。",
+    "meaning": "We participated in joint exercises."
+  },
+  {
+    "sentence": "彼は軍隊の広報部隊に所属していた。",
+    "sentence_furigana": "彼【かれ】は軍隊【ぐんたい】の広報部隊【こうほうぶたい】に所属【しょぞく】していた。",
+    "meaning": "He belonged to the army's public relations unit."
+  },
+  {
+    "sentence": "その部隊は都市部での作戦を遂行した。",
+    "sentence_furigana": "その部隊【ぶたい】は都市部【としぶ】での作戦【さくせん】を遂行【すいこう】した。",
+    "meaning": "The unit conducted operations in urban areas."
+  },
+  {
+    "sentence": "私たちは友好親善を目的とした訪問団を結成した。",
+    "sentence_furigana": "私【わたし】たち は友好親善【ゆうこうしんぜん】を目的【もくてき】とした訪問団【ほうもんだん】を結成【けっせい】した。",
+    "meaning": "We formed a delegation for the purpose of friendly relations."
+  },
+  {
+    "sentence": "彼は特殊部隊の訓練を受けた。",
+    "sentence_furigana": "彼【かれ】は特殊部隊【とくしゅぶたい】の訓練【くんれん】を受【う】けた。",
+    "meaning": "He underwent training for special forces."
+  },
+  {
+    "sentence": "その捜索隊は山中で遭難者を発見した。",
+    "sentence_furigana": "その捜索隊【そうさくたい】は山中【さんちゅう】で遭難者【そうなんしゃ】を発見【はっけん】した。",
+    "meaning": "The search party found the stranded person in the mountains."
+  },
+  {
+    "sentence": "彼女は支援隊のリーダーとして貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は支援隊【しえんたい】のリーダーとして貢献【こうけん】した。",
+    "meaning": "She contributed as the leader of the support team."
+  },
+  {
+    "sentence": "私たちは科学調査隊に参加した。",
+    "sentence_furigana": "私【わたし】たち は科学調査隊【かがくちょうさたい】に参加【さんか】した。",
+    "meaning": "We participated in the scientific expedition."
+  },
+  {
+    "sentence": "その部隊は敵の包囲網を突破した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の包囲網【ほういもう】を突破【とっぱ】した。",
+    "meaning": "The unit broke through the enemy's encirclement."
+  },
+  {
+    "sentence": "彼は軍楽隊の演奏を聴いた。",
+    "sentence_furigana": "彼【かれ】は軍楽隊【ぐんがくたい】の演奏【えんそう】を聴【き】いた。",
+    "meaning": "He listened to the military band's performance."
+  },
+  {
+    "sentence": "私たちは環境保護運動のボランティアチームに参加した。",
+    "sentence_furigana": "私【わたし】たち は環境保護運動【かんきょうほごうんどう】のボランティアチームに参加【さんか】した。",
+    "meaning": "We joined the environmental protection volunteer team."
+  },
+  {
+    "sentence": "その部隊はゲリラ戦術で敵を翻弄した。",
+    "sentence_furigana": "その部隊【ぶたい】はゲリラ戦術【せんじゅつ】で敵【てき】を翻弄【ほんろう】した。",
+    "meaning": "The unit toyed with the enemy using guerrilla tactics."
+  },
+  {
+    "sentence": "彼は航空隊のパイロットだった。",
+    "sentence_furigana": "彼【かれ】は航空隊【こうくうたい】のパイロットだった。",
+    "meaning": "He was an aviation corps pilot."
+  },
+  {
+    "sentence": "私たちは友好親善大使団として派遣された。",
+    "sentence_furigana": "私【わたし】たち は友好親善大使団【ゆうこうしんぜんたいしだん】として派遣【はけん】された。",
+    "meaning": "We were dispatched as goodwill ambassadors."
+  },
+  {
+    "sentence": "その部隊は前哨基地を確保した。",
+    "sentence_furigana": "その部隊【ぶたい】は前哨基地【ぜんしょうきち】を確保【かくほ】した。",
+    "meaning": "The unit secured the forward outpost."
+  },
+  {
+    "sentence": "彼は大学のサークル活動のリーダーを務めている。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】のサークル活動【かつどう】のリーダーを務【つと】めている。",
+    "meaning": "He serves as the leader of a university club activity."
+  },
+  {
+    "sentence": "私たちは遭難者を救助するために山に入った。",
+    "sentence_furigana": "私【わたし】たち は遭難者【そうなんしゃ】を救助【きゅうじょ】するために山【やま】に入【はい】った。",
+    "meaning": "We entered the mountains to rescue the stranded person."
+  },
+  {
+    "sentence": "その部隊は河川を渡って進撃した。",
+    "sentence_furigana": "その部隊【ぶたい】は河川【かせん】を渡【わた】って進撃【しんげき】した。",
+    "meaning": "The unit advanced across the river."
+  },
+  {
+    "sentence": "彼は外交官チームの一員として活躍した。",
+    "sentence_furigana": "彼【かれ】は外交官【がいこうかん】チームの一員【いちいん】として活躍【かつやく】した。",
+    "meaning": "He was active as a member of the diplomatic team."
+  },
+  {
+    "sentence": "私たちは救援物資を運ぶために協力した。",
+    "sentence_furigana": "私【わたし】たち は救援物資【きゅうえんぶっし】を運【はこ】ぶために協力【きょうりょく】した。",
+    "meaning": "We cooperated to transport relief supplies."
+  },
+  {
+    "sentence": "その部隊は夜間作戦を敢行した。",
+    "sentence_furigana": "その部隊【ぶたい】は夜間作戦【やかんさくせん】を敢行【かんこう】した。",
+    "meaning": "The unit carried out night operations."
+  },
+  {
+    "sentence": "彼は遠征隊の記録係を務めた。",
+    "sentence_furigana": "彼【かれ】は遠征隊【えんせいたい】の記録係【きろくがかり】を務【つと】めた。",
+    "meaning": "He served as the record keeper for the expedition."
+  },
+  {
+    "sentence": "私たちは国際平和会議の参加者グループの一員だった。",
+    "sentence_furigana": "私【わたし】たち は国際平和会議【こくさいへいわかいぎ】の参加者グループの一員【いちいん】だった。",
+    "meaning": "We were part of a group of participants in the international peace conference."
+  },
+  {
+    "sentence": "その部隊は敵の通信網を遮断した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の通信網【つうしんもう】を遮断【しゃだん】した。",
+    "meaning": "The unit jammed the enemy's communication network."
+  },
+  {
+    "sentence": "彼は軍事演習の視察団に参加した。",
+    "sentence_furigana": "彼【かれ】は軍事演習【ぐんじえんしゅう】の視察団【しさつだん】に参加【さんか】した。",
+    "meaning": "He joined the observation group for the military exercise."
+  },
+  {
+    "sentence": "私たちは自然保護活動を行うチームの一員として参加した。",
+    "sentence_furigana": "私【わたし】たち は自然保護活動【しぜんほごかつどう】を行うチームの一員【いちいん】として参加【さんか】した。",
+    "meaning": "We participated as members of a team carrying out nature conservation activities."
+  },
+  {
+    "sentence": "その部隊は敵の前哨基地を攻撃した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の前哨基地【ぜんしょうきち】を攻撃【こうげき】した。",
+    "meaning": "The unit attacked the enemy's forward outpost."
+  },
+  {
+    "sentence": "彼は文化財保護隊のメンバーだった。",
+    "sentence_furigana": "彼【かれ】は文化財保護隊【ぶんかざいほごたい】のメンバーだった。",
+    "meaning": "He was a member of the cultural property protection team."
+  },
+  {
+    "sentence": "私たちは合同調査チームを結成した。",
+    "sentence_furigana": "私【わたし】たち は合同調査チーム【ごうどうちょうさチーム】を結成【けっせい】した。",
+    "meaning": "We formed a joint research team."
+  },
+  {
+    "sentence": "その部隊は偵察任務を遂行した。",
+    "sentence_furigana": "その部隊【ぶたい】は偵察任務【ていさつにんむ】を遂行【すいこう】した。",
+    "meaning": "The unit carried out a reconnaissance mission."
+  },
+  {
+    "sentence": "彼は音楽祭の実行委員会のメンバーである。",
+    "sentence_furigana": "彼【かれ】は音楽祭【おんがくさい】の実行委員会【じっこういいんかい】のメンバーである。",
+    "meaning": "He is a member of the music festival executive committee."
+  },
+  {
+    "sentence": "私たちはボランティアチームとして活動した。",
+    "sentence_furigana": "私【わたし】たち はボランティアチームとして活動【かつどう】した。",
+    "meaning": "We worked as a volunteer team."
+  },
+  {
+    "sentence": "その部隊は山岳地帯での作戦を完了した。",
+    "sentence_furigana": "その部隊【ぶたい】は山岳地帯【さんがくちたい】での作戦【さくせん】を完了【かんりょう】した。",
+    "meaning": "The unit completed operations in the mountainous region."
+  },
+  {
+    "sentence": "彼は遠洋調査隊のメンバーだった。",
+    "sentence_furigana": "彼【かれ】は遠洋調査隊【えんようちょうさたい】のメンバーだった。",
+    "meaning": "He was a member of the oceanic research team."
+  },
+  {
+    "sentence": "私たちは友好親善団体の一員として訪問した。",
+    "sentence_furigana": "私【わたし】たち は友好親善団体【ゆうこうしんぜんだんたい】の一員【いちいん】として訪問【ほうもん】した。",
+    "meaning": "We visited as members of a goodwill organization."
+  },
+  {
+    "sentence": "その部隊は敵の側面を突いた。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の側面【そくめん】を突【つ】いた。",
+    "meaning": "The unit attacked the enemy's flank."
+  },
+  {
+    "sentence": "彼は大学の調査団に参加した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】の調査団【ちょうさだん】に参加【さんか】した。",
+    "meaning": "He joined the university's research group."
+  },
+  {
+    "sentence": "私たちは災害救援隊に志願した。",
+    "sentence_furigana": "私【わたし】たち は災害救援隊【さいがいきゅうえんたい】に志願【しがん】した。",
+    "meaning": "We volunteered for the disaster relief team."
+  },
+  {
+    "sentence": "その部隊は橋を爆破した。",
+    "sentence_furigana": "その部隊【ぶたい】は橋【はし】を爆破【ばくは】した。",
+    "meaning": "The unit blew up the bridge."
+  },
+  {
+    "sentence": "彼は演奏隊の一員として参加した。",
+    "sentence_furigana": "彼【かれ】は演奏隊【えんそうたい】の一員【いちいん】として参加【さんか】した。",
+    "meaning": "He participated as a member of the performance team."
+  },
+  {
+    "sentence": "私たちは科学探査チームの一員として旅に出た。",
+    "sentence_furigana": "私【わたし】たち は科学探査チーム【かがくたんさチーム】の一員【いちいん】として旅【たび】に出【で】た。",
+    "meaning": "We set out on a journey as members of a scientific exploration team."
+  },
+  {
+    "sentence": "その部隊は敵の集結地を攻撃した。",
+    "sentence_furigana": "その部隊【ぶ隊】は敵【てき】の集結地【しゅうけつち】を攻撃【こうげき】した。",
+    "meaning": "The unit attacked the enemy's assembly point."
+  },
+  {
+    "sentence": "彼は自衛隊の航空部隊に所属していた。",
+    "sentence_furigana": "彼【かれ】は自衛隊【じえいたい】の航空部隊【こうくうぶたい】に所属【しょぞく】していた。",
+    "meaning": "He belonged to the Air Self-Defense Force's aviation unit."
+  },
+  {
+    "sentence": "私たちは緊急対応チームとして召集された。",
+    "sentence_furigana": "私【わたし】たち は緊急対応チーム【きんきゅうたいおうチーム】として召集【しょうしゅう】された。",
+    "meaning": "We were mobilized as an emergency response team."
+  },
+  {
+    "sentence": "その部隊は敵の陣地を占領した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の陣地【じんち】を占領【せんりょう】した。",
+    "meaning": "The unit occupied the enemy's position."
+  },
+  {
+    "sentence": "彼は平和維持活動隊に参加した。",
+    "sentence_furigana": "彼【かれ】は平和維持活動隊【へいわいじかつどうたい】に参加【さんか】した。",
+    "meaning": "He participated in peacekeeping activities."
+  },
+  {
+    "sentence": "私たちは医療支援班として活動した。",
+    "sentence_furigana": "私【わたし】たち は医療支援班【いりょうしえんはん】として活動【かつどう】した。",
+    "meaning": "We worked as a medical support team."
+  },
+  {
+    "sentence": "その部隊は偵察任務のため敵地深く潜入した。",
+    "sentence_furigana": "その部隊【ぶたい】は偵察任務【ていさつにんむ】のため敵地深【てきちぶか】く潜入【せんりゅう】した。",
+    "meaning": "The unit infiltrated deep into enemy territory for a reconnaissance mission."
+  },
+  {
+    "sentence": "彼は軍隊の慰問団に参加した。",
+    "sentence_furigana": "彼【かれ】は軍隊【ぐんたい】の慰問団【いもんだん】に参加【さんか】した。",
+    "meaning": "He joined the army's morale-boosting group."
+  },
+  {
+    "sentence": "私たちは環境保護隊の一員として活動した。",
+    "sentence_furigana": "私【わたし】たち は環境保護隊【かんきょうほごたい】の一員【いちいん】として活動【かつどう】した。",
+    "meaning": "We worked as members of the environmental protection team."
+  },
+  {
+    "sentence": "その部隊は撤退する敵を追撃した。",
+    "sentence_furigana": "その部隊【ぶたい】は撤退【てったい】する敵【てき】を追撃【ついげき】した。",
+    "meaning": "The unit pursued the retreating enemy."
+  },
+  {
+    "sentence": "彼は消防隊の隊長を務めた。",
+    "sentence_furigana": "彼【かれ】は消防隊【しょうぼうたい】の隊長【たいちょう】を務【つと】めた。",
+    "meaning": "He served as the captain of the fire brigade."
+  },
+  {
+    "sentence": "私たちは支援団体の一員として活動した。",
+    "sentence_furigana": "私【わたし】たち は支援団体【しえんだんたい】の一員【いちいん】として活動【かつどう】した。",
+    "meaning": "We worked as members of a support organization."
+  },
+  {
+    "sentence": "その部隊は敵の補給部隊を襲撃した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の補給部隊【ほきゅうぶたい】を襲撃【しゅうげき】した。",
+    "meaning": "The unit attacked the enemy's supply unit."
+  },
+  {
+    "sentence": "彼は災害派遣部隊の一員として現地に赴いた。",
+    "sentence_furigana": "彼【かれ】は災害派遣部隊【さいがいけんぶたい】の一員【いちいん】として現地【げんち】に赴【おもむ】いた。",
+    "meaning": "He went to the scene as a member of a disaster relief unit."
+  },
+  {
+    "sentence": "私たちは緊急支援チームとして派遣された。",
+    "sentence_furigana": "私【わたし】たち は緊急支援チーム【きんきゅうしえんチーム】として派遣【はけん】された。",
+    "meaning": "We were dispatched as an emergency support team."
+  },
+  {
+    "sentence": "その部隊は占領地を警備した。",
+    "sentence_furigana": "その部隊【ぶたい】は占領地【せんりょうち】を警備【けいび】した。",
+    "meaning": "The unit guarded the occupied territory."
+  },
+  {
+    "sentence": "彼は調査チームのリーダーを務めた。",
+    "sentence_furigana": "彼【かれ】は調査チーム【ちょうさチーム】のリーダーを務【つと】めた。",
+    "meaning": "He served as the leader of the investigation team."
+  },
+  {
+    "sentence": "私たちはボランティアグループとして活動した。",
+    "sentence_furigana": "私【わたし】たち はボランティアグループとして活動【かつどう】した。",
+    "meaning": "We worked as a volunteer group."
+  },
+  {
+    "sentence": "その部隊は迂回して敵の背後に出た。",
+    "sentence_furigana": "その部隊【ぶたい】は迂回【うかい】して敵【てき】の背後【はいご】に出【で】た。",
+    "meaning": "The unit outflanked the enemy and appeared behind them."
+  },
+  {
+    "sentence": "彼は軍楽隊でトランペットを演奏した。",
+    "sentence_furigana": "彼【かれ】は軍楽隊【ぐんがくたい】でトランペットを演奏【えんそう】した。",
+    "meaning": "He played the trumpet in the military band."
+  },
+  {
+    "sentence": "私たちは友好訪問団として外国を訪れた。",
+    "sentence_furigana": "私【わたし】たち は友好訪問団【ゆうこうほうもんだん】として外国【がいこく】を訪【おとず】れた。",
+    "meaning": "We visited a foreign country as a goodwill delegation."
+  },
+  {
+    "sentence": "その部隊は敵の戦車を撃破した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の戦車【せんしゃ】を撃破【げきは】した。",
+    "meaning": "The unit destroyed enemy tanks."
+  },
+  {
+    "sentence": "彼は航空支援隊の一員として任務に当たった。",
+    "sentence_furigana": "彼【かれ】は航空支援隊【こうくうしえんたい】の一員【いちいん】として任務【にんむ】に当【あ】たった。",
+    "meaning": "He was on duty as a member of the air support team."
+  },
+  {
+    "sentence": "私たちは国際協力隊に参加した。",
+    "sentence_furigana": "私【わたし】たち は国際協力隊【こくさいきょうりょくたい】に参加【さんか】した。",
+    "meaning": "We participated in the Japan International Cooperation Agency (JICA)."
+  },
+  {
+    "sentence": "その部隊は山岳地帯でゲリラ掃討作戦を行った。",
+    "sentence_furigana": "その部隊【ぶたい】は山岳地帯【さんがくちたい】でゲリラ掃討作戦【そうとうさくせん】を行【おこな】った。",
+    "meaning": "The unit conducted anti-guerrilla operations in the mountainous region."
+  },
+  {
+    "sentence": "彼は医療チームのリーダーだった。",
+    "sentence_furigana": "彼【かれ】は医療チーム【いりょうチーム】のリーダーだった。",
+    "meaning": "He was the leader of the medical team."
+  },
+  {
+    "sentence": "私たちは環境保護ボランティアチームに参加した。",
+    "sentence_furigana": "私【わたし】たち は環境保護ボランティアチーム【かんきょうほごボランティアチーム】に参加【さんか】した。",
+    "meaning": "We participated in the environmental protection volunteer team."
+  },
+  {
+    "sentence": "その部隊は敵の包囲網を突破した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の包囲網【ほういもう】を突破【とっぱ】した。",
+    "meaning": "The unit broke through the enemy's encirclement."
+  },
+  {
+    "sentence": "彼はレスキュー隊の一員として訓練を受けた。",
+    "sentence_furigana": "彼【かれ】はレスキュー隊の一員【いちいん】として訓練【くんれん】を受【う】けた。",
+    "meaning": "He received training as a member of the rescue team."
+  },
+  {
+    "sentence": "私たちは災害救助チームとして派遣された。",
+    "sentence_furigana": "私【わたし】たち は災害救助チーム【さいがいきゅうじょチーム】として派遣【はけん】された。",
+    "meaning": "We were dispatched as a disaster relief team."
+  },
+  {
+    "sentence": "その部隊は夜間に敵陣へ潜入した。",
+    "sentence_furigana": "その部隊【ぶたい】は夜間【やかん】に敵陣【てきじん】へ潜入【せんりゅう】した。",
+    "meaning": "The unit infiltrated enemy territory at night."
+  },
+  {
+    "sentence": "彼は外交使節団の一員として参加した。",
+    "sentence_furigana": "彼【かれ】は外交使節団【がいこうしせつだん】の一員【いちいん】として参加【さんか】した。",
+    "meaning": "He participated as a member of the diplomatic delegation."
+  },
+  {
+    "sentence": "私たちは科学調査チームの一員として活動した。",
+    "sentence_furigana": "私【わたし】たち は科学調査チーム【かがくちょうさチーム】の一員【いちいん】として活動【かつどう】した。",
+    "meaning": "We worked as members of the scientific research team."
+  },
+  {
+    "sentence": "その部隊は敵の武器弾薬を鹵獲した。",
+    "sentence_furigana": "その部隊【ぶたい】は敵【てき】の武器弾薬【ぶきだんやく】を鹵獲【ろかく】した。",
+    "meaning": "The unit captured enemy weapons and ammunition."
+  },
+  {
+    "sentence": "彼は自衛隊の化学防護隊に所属している。",
+    "sentence_furigana": "彼【かれ】は自衛隊【じえいたい】の化学防護隊【かがくぼうごたい】に所属【しょぞく】している。",
+    "meaning": "He belongs to the CBRN defense unit of the Self-Defense Forces."
+  },
+  {
+    "sentence": "私たちは緊急出動部隊として指定された。",
+    "sentence_furigana": "私【わたし】たち は緊急出動部隊【きんきゅうしゅつどうぶたい】として指定【してい】された。",
+    "meaning": "We were designated as an emergency response unit."
+  },
+  {
+    "sentence": "その部隊は市街地での掃討作戦を完了した。",
+    "sentence_furigana": "その部隊【ぶたい】は市街地【しがいち】での掃討作戦【そうとうさくせん】を完了【かんりょう】した。",
+    "meaning": "The unit completed the mopping-up operation in the urban area."
+  }
+]

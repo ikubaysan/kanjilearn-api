@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "この道具はとても便利で使いやすい。",
+    "sentence_furigana": "この道具【どうぐ】はとても便利【べんり】で使【つか】いやす【やす】い。",
+    "meaning": "This tool is very convenient and easy to use."
+  },
+  {
+    "sentence": "仕事で使うための新しいパソコンを買った。",
+    "sentence_furigana": "仕事【しごと】で使【つか】うための新【あたら】しいパソコンを買【か】った。",
+    "meaning": "I bought a new computer for work use."
+  },
+  {
+    "sentence": "緊急の用事があるので、すぐに帰ります。",
+    "sentence_furigana": "緊急【きんきゅう】の用事【ようじ】があるので、すぐに帰【かえ】ります。",
+    "meaning": "I have an urgent matter, so I will return immediately."
+  },
+  {
+    "sentence": "彼は新しい事業を始めるために資金を集めている。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい事業【じぎょう】を始【はじ】めるために資金【しきん】を集【あつ】めている。",
+    "meaning": "He is raising funds to start a new business."
+  },
+  {
+    "sentence": "この薬は毎日飲む必要があります。",
+    "sentence_furigana": "この薬【くすり】は毎日【まいにち】飲【の】む必要【ひつよう】があります。",
+    "meaning": "It is necessary to take this medicine every day."
+  },
+  {
+    "sentence": "会議で使用する資料を準備してください。",
+    "sentence_furigana": "会議【かいぎ】で使用【しよう】する資料【しりょう】を準備【じゅんび】してください。",
+    "meaning": "Please prepare the materials to be used in the meeting."
+  },
+  {
+    "sentence": "お客様にご利用いただけるサービスが充実しています。",
+    "sentence_furigana": "お客様【きゃくさま】にご利用【ごりよう】いただけるサービスが充実【じゅうじつ】しています。",
+    "meaning": "We offer a wide range of services for our customers."
+  },
+  {
+    "sentence": "この部屋は普段は使われていません。",
+    "sentence_furigana": "この部屋【へや】は普段【ふだん】は使【つか】われていません。",
+    "meaning": "This room is not usually used."
+  },
+  {
+    "sentence": "彼の話はいつも役に立つ。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも役【やく】に立【た】つ。",
+    "meaning": "His stories are always useful."
+  },
+  {
+    "sentence": "必要なものはすべて揃っています。",
+    "sentence_furigana": "必要【ひつよう】なものはすべて揃【そろ】っています。",
+    "meaning": "Everything that is needed is available."
+  },
+  {
+    "sentence": "このペンは使い心地が良い。",
+    "sentence_furigana": "このペンは使【つか】い心地【ごこち】が良い【よい】。",
+    "meaning": "This pen feels good to use."
+  },
+  {
+    "sentence": "業務を効率化するために新しいシステムを導入した。",
+    "sentence_furigana": "業務【ぎょうむ】を効率化【こうりつか】するために新【あら】しいシステムを導入【どうにゅう】した。",
+    "meaning": "We introduced a new system to improve operational efficiency."
+  },
+  {
+    "sentence": "彼は大学で経済学を専攻した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で経済学【けいざいがく】を専攻【せんこう】した。",
+    "meaning": "He majored in economics at university."
+  },
+  {
+    "sentence": "この道具は用途が広い。",
+    "sentence_furigana": "この道具【どうぐ】は用途【ようと】が広【ひろ】い。",
+    "meaning": "This tool has a wide range of uses."
+  },
+  {
+    "sentence": "子供用の自転車を買いに行った。",
+    "sentence_furigana": "子供用【こどもよう】の自転車【じてんしゃ】を買【か】いに行【い】った。",
+    "meaning": "I went to buy a bicycle for children."
+  },
+  {
+    "sentence": "彼女はいつも自分の意見をはっきりと言う。",
+    "sentence_furigana": "彼女【かのじょ】はいつも自分【じぶん】の意見【いけん】をはっきりと言【い】う。",
+    "meaning": "She always states her opinion clearly."
+  },
+  {
+    "sentence": "この情報は今後のビジネスに役立つだろう。",
+    "sentence_furigana": "この情報【じょうほう】は今後【こんご】のビジネスに役【やく】に立【た】つだろう。",
+    "meaning": "This information will be useful for future business."
+  },
+  {
+    "sentence": "彼は長年の経験を活かして新しい会社を興した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かして新【あら】しい会社【かいしゃ】を興【おこ】した。",
+    "meaning": "He leveraged his many years of experience to found a new company."
+  },
+  {
+    "sentence": "このサービスは無料で利用できます。",
+    "sentence_furigana": "このサービスは無料【むりょう】で利用【りよう】できます。",
+    "meaning": "This service is available for free."
+  },
+  {
+    "sentence": "彼は普段から健康に気を使っている。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から健康【けんこう】に気【き】を使【つか】っている。",
+    "meaning": "He usually takes care of his health."
+  },
+  {
+    "sentence": "このファイルは使用禁止です。",
+    "sentence_furigana": "このファイルは使用禁止【しようきんし】です。",
+    "meaning": "This file is prohibited from use."
+  },
+  {
+    "sentence": "彼女は仕事に集中している。",
+    "sentence_furigana": "彼女【かのじょ】は仕事【しごと】に集中【しゅうちゅう】している。",
+    "meaning": "She is concentrating on her work."
+  },
+  {
+    "sentence": "この薬はどのような用途に使われますか？",
+    "sentence_furigana": "この薬【くすり】はどのような用途【ようと】に使【つか】われますか？",
+    "meaning": "What is this medicine used for?"
+  },
+  {
+    "sentence": "彼はビジネスのためにニューヨークに引っ越した。",
+    "sentence_furigana": "彼【かれ】はビジネスのためにニューヨークに引っ越【ひっこ】した。",
+    "meaning": "He moved to New York for business."
+  },
+  {
+    "sentence": "子供が使うので、安全なものを選びました。",
+    "sentence_furigana": "子供【こども】が使【つか】うので、安全【あんぜん】なものを選【えら】びました。",
+    "meaning": "Since children will use it, I chose a safe one."
+  },
+  {
+    "sentence": "この装置は非常用電源を備えています。",
+    "sentence_furigana": "この装置【そうち】は非常用【ひじょうよう】電源【でんげん】を備【そな】えています。",
+    "meaning": "This device is equipped with an emergency power source."
+  },
+  {
+    "sentence": "そのサービスは非常に人気がある。",
+    "sentence_furigana": "そのサービスは非常【ひじょう】に人気【にんき】がある。",
+    "meaning": "That service is very popular."
+  },
+  {
+    "sentence": "彼は普段から時間に正確だ。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から時間【じかん】に正確【せいかく】だ。",
+    "meaning": "He is always punctual."
+  },
+  {
+    "sentence": "この道具は様々な用途に使えます。",
+    "sentence_furigana": "この道具【どうぐ】は様々【さまざま】な用途【ようと】に使【つか】えます。",
+    "meaning": "This tool can be used for various purposes."
+  },
+  {
+    "sentence": "彼女はビジネスの成功のために努力を惜しまない。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスの成功【せいこう】のために努力【どりょく】を惜【お】しまない。",
+    "meaning": "She spares no effort for business success."
+  },
+  {
+    "sentence": "この建物は地震に耐えうるように設計されている。",
+    "sentence_furigana": "この建物【たてもの】は地震【じしん】に耐【た】えうるように設計【せっけい】されている。",
+    "meaning": "This building is designed to withstand earthquakes."
+  },
+  {
+    "sentence": "彼はこの会社で重要な役割を担っている。",
+    "sentence_furigana": "彼【かれ】はこの会社【かいしゃ】で重要【じゅうよう】な役割【やくわり】を担【にな】っている。",
+    "meaning": "He plays an important role in this company."
+  },
+  {
+    "sentence": "この薬は使用期限が過ぎているので使えません。",
+    "sentence_furigana": "この薬【くすり】は使用期限【しようきげん】が過【す】ぎているので使【つか】えません。",
+    "meaning": "This medicine has passed its expiration date, so it cannot be used."
+  },
+  {
+    "sentence": "彼女は新しいビジネスモデルを考案した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいビジネスモデルを考案【こうあん】した。",
+    "meaning": "She devised a new business model."
+  },
+  {
+    "sentence": "この道具は様々な場面で利用できる。",
+    "sentence_furigana": "この道具【どうぐ】は様々【さまざま】な場面【ばめん】で利用【りよう】できる。",
+    "meaning": "This tool can be used in various situations."
+  },
+  {
+    "sentence": "彼は普段から健康的な生活を心がけている。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から健康的【けんこうてき】な生活【せいかつ】を心【こころ】がけている。",
+    "meaning": "He usually strives for a healthy lifestyle."
+  },
+  {
+    "sentence": "会議で使うための資料をコピーしてください。",
+    "sentence_furigana": "会議【かいぎ】で使【つか】うための資料【しりょう】をコピーしてください。",
+    "meaning": "Please copy the documents for use in the meeting."
+  },
+  {
+    "sentence": "そのサービスはすでに利用されていますか？",
+    "sentence_furigana": "そのサービスはすでに利用【りよう】されていますか？",
+    "meaning": "Is that service already being used?"
+  },
+  {
+    "sentence": "彼女はビジネスで成功するために日々努力している。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスで成功【せいこう】するために日々【ひび】努力【どりょく】している。",
+    "meaning": "She works hard every day to succeed in business."
+  },
+  {
+    "sentence": "この情報は今後のビジネスに大いに役立つだろう。",
+    "sentence_furigana": "この情報【じょうほう】は今後【こんご】のビジネスに大いに【おおい】に役【やく】に立【た】つだろう。",
+    "meaning": "This information will be of great help to future business."
+  },
+  {
+    "sentence": "彼は多くの人が利用するサービスを開発した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】が利用【りよう】するサービスを開発【かいはつ】した。",
+    "meaning": "He developed a service used by many people."
+  },
+  {
+    "sentence": "この道具は使用方法が簡単です。",
+    "sentence_furigana": "この道具【どうぐ】は使用方法【しようほうほう】が簡単【かんたん】です。",
+    "meaning": "This tool is easy to use."
+  },
+  {
+    "sentence": "彼女は常に新しい知識を吸収しようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あら】しい知識【ちしき】を吸収【きゅうしゅう】しようとしている。",
+    "meaning": "She is always trying to absorb new knowledge."
+  },
+  {
+    "sentence": "この薬は指示通りに使用してください。",
+    "sentence_furigana": "この薬【くすり】は指示通【しじどお】りに使用【しよう】してください。",
+    "meaning": "Please use this medicine as directed."
+  },
+  {
+    "sentence": "彼は仕事で多くの人々と交流している。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】で多【おお】くの人々【ひとびと】と交流【こうりゅう】している。",
+    "meaning": "He interacts with many people through his work."
+  },
+  {
+    "sentence": "このサービスは海外でも利用できます。",
+    "sentence_furigana": "このサービスは海外【かいがい】でも利用【りよう】できます。",
+    "meaning": "This service is available overseas as well."
+  },
+  {
+    "sentence": "彼女はいつも公私混同しない。",
+    "sentence_furigana": "彼女【かのじょ】はいつも公私混同【こうしこんどう】しない。",
+    "meaning": "She never mixes public and private matters."
+  },
+  {
+    "sentence": "彼は日常的に運動を利用してストレスを発散している。",
+    "sentence_furigana": "彼【かれ】は日常的【にちじょうてき】に運動【うんどう】を利用【りよう】してストレスを発散【はっさん】している。",
+    "meaning": "He uses exercise in his daily life to relieve stress."
+  },
+  {
+    "sentence": "この薬品は特定の用途にのみ使用してください。",
+    "sentence_furigana": "この薬品【やくひん】は特定【とくてい】の用途【ようと】にのみ使用【しよう】してください。",
+    "meaning": "Please use this chemical only for its specific purpose."
+  },
+  {
+    "sentence": "彼女は自分のビジネスをさらに拡大することを目指している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】のビジネスをさらに拡大【かくだい】することを目指【めざ】している。",
+    "meaning": "She aims to further expand her business."
+  },
+  {
+    "sentence": "この製品は、ご家庭での使用に適しています。",
+    "sentence_furigana": "この製品【せいひん】は、ご家庭【ごかてい】での使用【しよう】に適【てき】しています。",
+    "meaning": "This product is suitable for home use."
+  },
+  {
+    "sentence": "彼は常に相手の立場になって考える。",
+    "sentence_furigana": "彼【かれ】は常【つね】に相手【あいて】の立場【たちば】になって考【かんが】える。",
+    "meaning": "He always considers things from the other person's perspective."
+  },
+  {
+    "sentence": "この情報は今後の業務に役立つでしょう。",
+    "sentence_furigana": "この情報【じょうほう】は今後【こんご】の業務【ぎょうむ】に役【やく】に立【た】つでしょう。",
+    "meaning": "This information will likely be useful for future operations."
+  },
+  {
+    "sentence": "彼女は新しいビジネスのアイデアをいくつか持っている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいビジネスのアイデアをいくつか持【も】っている。",
+    "meaning": "She has several new business ideas."
+  },
+  {
+    "sentence": "この道具は、さまざまな用途に活用できます。",
+    "sentence_furigana": "この道具【どうぐ】は、様々【さまざま】な用途【ようと】に活用【かつよう】できます。",
+    "meaning": "This tool can be utilized for various purposes."
+  },
+  {
+    "sentence": "彼は常に努力を惜しまない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に努力【どりょく】を惜【お】しまない。",
+    "meaning": "He never spares any effort."
+  },
+  {
+    "sentence": "この薬は指定された量だけ使用してください。",
+    "sentence_furigana": "この薬【くすり】は指定【してい】された量【りょう】だけ使用【しよう】してください。",
+    "meaning": "Please use only the specified amount of this medicine."
+  },
+  {
+    "sentence": "彼女はビジネスパートナーを探している。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスパートナーを探【さが】している。",
+    "meaning": "She is looking for a business partner."
+  },
+  {
+    "sentence": "このサービスは、多くの人に利用されている。",
+    "sentence_furigana": "このサービスは、多【おお】くの人【ひと】に利用【りよう】されている。",
+    "meaning": "This service is used by many people."
+  },
+  {
+    "sentence": "彼は自分の時間を有効に活用している。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の時間【じかん】を有効【ゆうこう】に活用【かつよう】している。",
+    "meaning": "He makes effective use of his time."
+  },
+  {
+    "sentence": "この薬品は慎重に使用する必要があります。",
+    "sentence_furigana": "この薬品【やくひん】は慎重【しんちょう】に使用【しよう】する必【ひつ】要【よう】があります。",
+    "meaning": "It is necessary to use this chemical carefully."
+  },
+  {
+    "sentence": "彼女は新しいビジネスの展開を計画している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいビジネスの展開【てんかい】を計画【けいかく】している。",
+    "meaning": "She is planning the expansion of a new business."
+  },
+  {
+    "sentence": "この道具は、あなたの仕事に役立つでしょう。",
+    "sentence_furigana": "この道具【どうぐ】は、あなた仕事【しごと】に役【やく】に立【た】つでしょう。",
+    "meaning": "This tool will be useful for your work."
+  },
+  {
+    "sentence": "彼は常に目標達成のために努力している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に目標達成【もくひょうたっせい】のために努力【どりょく】している。",
+    "meaning": "He always strives to achieve his goals."
+  },
+  {
+    "sentence": "この薬は医師の指示なしに使用しないでください。",
+    "sentence_furigana": "この薬【くすり】は医師【いし】の指示【しじ】なしに使用【しよう】しないでください。",
+    "meaning": "Do not use this medicine without a doctor's instruction."
+  },
+  {
+    "sentence": "彼女はビジネスで成功し、多くの人に影響を与えている。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスで成功【せいこう】し、多【おお】くの人【ひと】に影響【えいきょう】を与【あた】えている。",
+    "meaning": "She has succeeded in business and influences many people."
+  },
+  {
+    "sentence": "このサービスは、まだあまり利用されていません。",
+    "sentence_furigana": "このサービスは、まだあまり利用【りよう】されていません。",
+    "meaning": "This service is not yet widely used."
+  },
+  {
+    "sentence": "彼は普段から身だしなみに気を配っている。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から身だしなみ**に**気**き**を配**くば**っている。",
+    "meaning": "He usually pays attention to his appearance."
+  },
+  {
+    "sentence": "この薬品は指定された方法で使用してください。",
+    "sentence_furigana": "この薬品【やくひん】は指定【してい】された方法【ほうほう】で使用【しよう】してください。",
+    "meaning": "Please use this chemical in the specified manner."
+  },
+  {
+    "sentence": "彼女は新しいビジネスの可能性を探っている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいビジネスの可能性【かのうせい】を探【さが】っている。",
+    "meaning": "She is exploring new business possibilities."
+  },
+  {
+    "sentence": "この道具は、家庭での使用に最適です。",
+    "sentence_furigana": "この道具【どうぐ】は、家庭【かてい】での使用【しよう】に最適【さいてき】です。",
+    "meaning": "This tool is ideal for home use."
+  },
+  {
+    "sentence": "彼は常に改善の余地を探っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に改善【かいぜん】の余地【よち】を探【さが】っている。",
+    "meaning": "He is always looking for room for improvement."
+  },
+  {
+    "sentence": "この薬は、使用量を守って服用してください。",
+    "sentence_furigana": "この薬【くすり】は、使用量【しようりょう】を守【まも】って服用【ふくよう】してください。",
+    "meaning": "Please take this medicine while adhering to the dosage."
+  },
+  {
+    "sentence": "彼女は自身のビジネスを拡大するために、海外進出も視野に入れている。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】のビジネスを拡大【かくだい】するために、海外進出【かいがंしんしゅつ】も視野【しや】に入【い】れている。",
+    "meaning": "She is considering expanding overseas to grow her business."
+  },
+  {
+    "sentence": "このサービスは、多くの用途に使えます。",
+    "sentence_furigana": "このサービスは、多【おお】くの用途【ようと】に使【つか】えます。",
+    "meaning": "This service can be used for many purposes."
+  },
+  {
+    "sentence": "彼は普段から自己啓発のために多くの時間を費やしている。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から自己啓発【じこけいはつ】のために多【おお】くの時間【じかん】を費【つい】やしている。",
+    "meaning": "He usually spends a lot of time on self-improvement."
+  },
+  {
+    "sentence": "この薬品は専門家の指示に従って使用してください。",
+    "sentence_furigana": "この薬品【やくひん】は専門家【せんもんか】の指示【しじ】に従【したが】って使用【しよう】してください。",
+    "meaning": "Please use this chemical according to the instructions of a specialist."
+  },
+  {
+    "sentence": "彼女は新しいビジネスの機会を常に探している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいビジネスの機会【きかい】を常【つね】に探【さが】している。",
+    "meaning": "She is always looking for new business opportunities."
+  },
+  {
+    "sentence": "この道具は家庭での使用に最適化されています。",
+    "sentence_furigana": "この道具【どうぐ】は家庭【かてい】での使用【しよう】に最適化【さいてきか】されています。",
+    "meaning": "This tool is optimized for home use."
+  },
+  {
+    "sentence": "彼は常に新しいビジネスのトレンドを学んでいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あら】しいビジネスのトレンドを学【まな】んでいる。",
+    "meaning": "He is always learning about new business trends."
+  },
+  {
+    "sentence": "この薬は、使用方法をよく読んでから使ってください。",
+    "sentence_furigana": "この薬【くすり】は、使用方法【しようほうほう】をよく読【よ】んでから使【つか】ってください。",
+    "meaning": "Please read the instructions carefully before using this medicine."
+  },
+  {
+    "sentence": "彼女は自身のビジネスをさらに発展させるために、新しい戦略を立てている。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】のビジネスをさらに発展【はってん】させるために、新【あら】しい戦略【せんりゃく】を立**た**てている。",
+    "meaning": "She is formulating new strategies to further develop her business."
+  },
+  {
+    "sentence": "このサービスは、様々な用途に活用できる汎用性の高いものです。",
+    "sentence_furigana": "このサービスは、様々【さまざま】な用途【ようと】に活用【かつよう】できる汎用性【はんようせい】の高**い**もの**です**。",
+    "meaning": "This service is highly versatile and can be used for various purposes."
+  },
+  {
+    "sentence": "彼は普段から健康的な食生活を心がけている。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から健康【けんこう】的**な**食生活**しょくせいかつ**を心**こころ**がけている。",
+    "meaning": "He usually pays attention to a healthy diet."
+  },
+  {
+    "sentence": "この薬品は定められた用途以外には絶対に使用しないでください。",
+    "sentence_furigana": "この薬品【やくひん】は定**め**られた用途【ようと】以外【いがい】には絶対【ぜったい】に使用【しよう】しないでください。",
+    "meaning": "Never use this chemical for purposes other than those specified."
+  },
+  {
+    "sentence": "彼女は自分のビジネスを成功させるために、あらゆる手段を講じている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】のビジネスを成功【せいこう】させるために、あらゆる手段【しゅだん】を講**じ**ている。",
+    "meaning": "She is taking all necessary measures to make her business successful."
+  },
+  {
+    "sentence": "この道具は、家庭での使用に際して特別な注意は必要ありません。",
+    "sentence_furigana": "この道具【どうぐ】は、家庭【かてい】での使用【しよう】に際**し**て特別**な**注意**ちゅうい**は必要**ひつよう**ありません。",
+    "meaning": "No special precautions are necessary when using this tool at home."
+  },
+  {
+    "sentence": "彼は常に新しいビジネスの知識をアップデートしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あら】しいビジネスの知識【ちしき】をアップデートしている。",
+    "meaning": "He is constantly updating his knowledge of business."
+  },
+  {
+    "sentence": "この薬は指示された用法・用量を厳守してください。",
+    "sentence_furigana": "この薬【くすり】は指示【しじ】された用法【ようほう】・用量【ようりょう】を厳守【げんしゅ】してください。",
+    "meaning": "Please strictly adhere to the prescribed usage and dosage of this medicine."
+  },
+  {
+    "sentence": "彼女は自分のビジネスをさらに成長させるために、新しい市場を開拓している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】のビジネスをさらに成長【せいちょう】させるために、新【あら】しい市場【しじょう】を開拓【かいたく】している。",
+    "meaning": "She is developing new markets to further grow her business."
+  },
+  {
+    "sentence": "このサービスは、緊急時の使用にも適しています。",
+    "sentence_furigana": "このサービスは、緊急時【きんきゅうじ】の使用【しよう】にも適**しています**。",
+    "meaning": "This service is also suitable for emergency use."
+  },
+  {
+    "sentence": "彼は普段から健康維持のために定期的に運動している。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から健康維持【けんこういじ】のために定期的**な**運動**うんどう**している。",
+    "meaning": "He regularly exercises to maintain his health."
+  },
+  {
+    "sentence": "この薬品は指定された用途以外には使用しないでください。",
+    "sentence_furigana": "この薬品【やくひん】は指定【してい】された用途【ようと】以外【いがい】には使用【しよう】しないでください。",
+    "meaning": "Please do not use this chemical for any purpose other than the specified one."
+  },
+  {
+    "sentence": "彼女はビジネスの成功に向けて、日々努力を続けている。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスの成功【せいこう】に向けて【むけて】、日々【ひび】努力【どりょく】を続**けて**いる。",
+    "meaning": "She continues to work hard every day towards business success."
+  },
+  {
+    "sentence": "この道具は、様々な作業に利用できる。",
+    "sentence_furigana": "この道具【どうぐ】は、様々【さまざま】な作業【さぎょう】に利用【りよう】できる。",
+    "meaning": "This tool can be used for various tasks."
+  },
+  {
+    "sentence": "彼は常に自分の能力を最大限に活用しようとしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分【じぶん】の能力【のうりょく】を最大限【さいだいげん】に活用【かつよう】しようとしている。",
+    "meaning": "He is always trying to make the most of his abilities."
+  },
+  {
+    "sentence": "この薬は、定められた用法・用量を守って使用してください。",
+    "sentence_furigana": "この薬【くすり】は、定**め**られた用法【ようほう】・用量【ようりょう】を守**って**使用【しよう】してください。",
+    "meaning": "Please use this medicine according to the prescribed usage and dosage."
+  },
+  {
+    "sentence": "彼女はビジネスの成功のために、常に最新の情報を収集している。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスの成功【せいこう】のために、常【つね】に最新【さいしん】の情報を収集【しゅうしゅう】している。",
+    "meaning": "She is constantly gathering the latest information for business success."
+  },
+  {
+    "sentence": "このサービスは、子供用の安全な設計となっています。",
+    "sentence_furigana": "このサービスは、子供用【こどもよう】の安全【あんぜん】な設計【せっけい】となっています。",
+    "meaning": "This service has a safe design for children."
+  },
+  {
+    "sentence": "彼は普段から健康に良いとされる食品を積極的に摂取している。",
+    "sentence_furigana": "彼【かれ】は普段【ふだん】から健康【けんこう】に良**い**とされ**る**食品**しょくひん**を積極的**な**摂取**せっしゅ**している。",
+    "meaning": "He actively consumes foods considered healthy."
+  },
+  {
+    "sentence": "この薬品は特定の用途にのみ使用されるべきです。",
+    "sentence_furigana": "この薬品【やくひん】は特定【とくてい】の用途【ようと】にのみ使用【しよう】されるべきです。",
+    "meaning": "This chemical should only be used for its specific purpose."
+  },
+  {
+    "sentence": "彼女は自分のビジネスを軌道に乗せるために懸命に働いている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】のビジネスを軌道【きどう】に乗**せる**ために懸命**けんめい**に働**はたら**いている。",
+    "meaning": "She is working hard to get her business on track."
+  },
+  {
+    "sentence": "この道具は、専門的な用途にも使用できます。",
+    "sentence_furigana": "この道具【どうぐ】は、専門的【せんもんてき】な用途【ようと】にも使用【しよう】できます。",
+    "meaning": "This tool can also be used for professional purposes."
+  },
+  {
+    "sentence": "彼は常に自分の限界に挑戦している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分【じぶん】の限界【げんかい】に挑戦**ちょうせん**している。",
+    "meaning": "He is always challenging his limits."
+  },
+  {
+    "sentence": "この薬は、使用前に必ず医師に相談してください。",
+    "sentence_furigana": "この薬【くすり】は、使用前【しようまえ】に必ず**かならず**医師【いし】に相談**そうだん**してください。",
+    "meaning": "Please consult a doctor before using this medicine."
+  },
+  {
+    "sentence": "彼女はビジネスの成功のために、常に自己投資を怠らない。",
+    "sentence_furigana": "彼女【かのじょ】はビジネスの成功【せいこう】のために、常【つね】に自己投資【じことうし】を怠**らない**。",
+    "meaning": "She never neglects self-investment for business success."
+  },
+  {
+    "sentence": "このサービスは、特別な用途にも対応可能です。",
+    "sentence_furigana": "このサービスは、特別【とくべつ】な用途【ようと】にも対応可能【たいおうかのう】です。",
+    "meaning": "This service can also accommodate special uses."
+  }
+]

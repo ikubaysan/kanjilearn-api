@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "そのパーティには多くのVIPが招待されていた。",
+    "sentence_furigana": "そのパーティには多【おお】くのVIPが招待【しょうたい】されていた。",
+    "meaning": "Many VIPs were invited to the party."
+  },
+  {
+    "sentence": "彼は会社の重要賓客として歓迎された。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の重要賓客【じゅうようひんきゃく】として歓迎【かんげい】された。",
+    "meaning": "He was welcomed as an important guest of the company."
+  },
+  {
+    "sentence": "会場には各国からの賓客が集まった。",
+    "sentence_furigana": "会場【かいじょう】には各国【かっこく】からの賓客【ひんきゃく】が集【あつ】まった。",
+    "meaning": "Guests from various countries gathered at the venue."
+  },
+  {
+    "sentence": "このホテルは特別な賓客をもてなすことで知られている。",
+    "sentence_furigana": "このホテルは特別【とくべつ】な賓客【ひんきゃく】をもてなすことで知【し】られている。",
+    "meaning": "This hotel is known for entertaining special guests."
+  },
+  {
+    "sentence": "彼は会議の賓として講演を行った。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の賓【ひん】として講演【こうえん】を行【おこな】った。",
+    "meaning": "He gave a lecture as a guest at the conference."
+  },
+  {
+    "sentence": "政府は多くの賓客を迎え入れる準備を進めている。",
+    "sentence_furigana": "政府【せいふ】は多【おお】くの賓客【ひんきゃく】を迎【むか】え入【い】れる準備【じゅんび】を進【すす】めている。",
+    "meaning": "The government is making preparations to welcome many guests."
+  },
+  {
+    "sentence": "彼は歓迎会の賓だった。",
+    "sentence_furigana": "彼【かれ】は歓迎会【かんげいかい】の賓【ひん】だった。",
+    "meaning": "He was the guest of honor at the welcome party."
+  },
+  {
+    "sentence": "このお祭りは全国から賓客を呼び込む。",
+    "sentence_furigana": "このお祭【まつ】りは全国【ぜんこく】から賓客【ひんきゃく】を呼【よ】び込【こ】む。",
+    "meaning": "This festival attracts guests from all over the country."
+  },
+  {
+    "sentence": "彼女は海外からの賓客を案内した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】を案内【あんない】した。",
+    "meaning": "She guided the guests from abroad."
+  },
+  {
+    "sentence": "イベントの最高賓は有名な俳優だった。",
+    "sentence_furigana": "イベントの最高賓【さいこうひん】は有名【ゆうめい】な俳優【はいゆう】だった。",
+    "meaning": "The top guest at the event was a famous actor."
+  },
+  {
+    "sentence": "ホテルはVIPのための特別なサービスを提供している。",
+    "sentence_furigana": "ホテルはVIPのための特別【とくべつ】なサービスを提供【ていきょう】している。",
+    "meaning": "The hotel offers special services for VIPs."
+  },
+  {
+    "sentence": "彼は表賓として挨拶した。",
+    "sentence_furigana": "彼【かれ】は表賓【ひょうひん】として挨拶【あいさつ】した。",
+    "meaning": "He greeted as the main guest."
+  },
+  {
+    "sentence": "多くの著名人がこの式典の賓として出席した。",
+    "sentence_furigana": "多【おお】くの著名人【ちょめいじん】がこの式典【しきてん】の賓【ひん】として出席【しゅっせき】した。",
+    "meaning": "Many celebrities attended the ceremony as guests."
+  },
+  {
+    "sentence": "大使は賓客たちに感謝の意を表した。",
+    "sentence_furigana": "大使【たいし】は賓客【ひんきゃく】たちに感謝【かんしゃ】の意【い】を表【ひょう】した。",
+    "meaning": "The ambassador expressed his gratitude to the guests."
+  },
+  {
+    "sentence": "彼はそのイベントの特別賓として招かれた。",
+    "sentence_furigana": "彼【かれ】はそのイベントの特別賓【とくべつひん】として招【まね】かれた。",
+    "meaning": "He was invited as a special guest to the event."
+  },
+  {
+    "sentence": "この地域は多くの観光賓客が訪れる。",
+    "sentence_furigana": "この地域【ちいき】は多【おお】くの観光賓客【かんこうひんきゃく】が訪【おとず】れる。",
+    "meaning": "This region is visited by many tourist guests."
+  },
+  {
+    "sentence": "私たちは賓客を丁重にもてなす必要がある。",
+    "sentence_furigana": "私【わたし】たち は賓客【ひんきゃく】を丁重【ていちょう】にもてなす必要【ひつよう】がある。",
+    "meaning": "We need to entertain the guests courteously."
+  },
+  {
+    "sentence": "彼女はいつも丁寧な言葉遣いで賓客に接する。",
+    "sentence_furigana": "彼女【かのじょ】はいつも丁寧【ていねい】な言葉遣【ことばづか】いで賓客【ひんきゃく】に接【せっ】する。",
+    "meaning": "She always treats guests with polite language."
+  },
+  {
+    "sentence": " VIPルームは特別な顧客のために用意されている。",
+    "sentence_furigana": "VIPルームは特別【とくべつ】な顧客【こきゃく】のために用意【ようい】されている。",
+    "meaning": "The VIP room is prepared for special customers."
+  },
+  {
+    "sentence": "彼は栄誉賓として式典の開会を宣言した。",
+    "sentence_furigana": "彼【かれ】は栄誉賓【えいよひん】として式典【しきてん】の開会【かいかい】を宣言【せんげん】した。",
+    "meaning": "He declared the opening of the ceremony as the guest of honor."
+  },
+  {
+    "sentence": "式典には多くの招待賓客が出席した。",
+    "sentence_furigana": "式典【しきてん】には多【おお】くの招待賓客【しょうたいひんきゃく】が出席【しゅっせき】した。",
+    "meaning": "Many invited guests attended the ceremony."
+  },
+  {
+    "sentence": "彼のスピーチは会衆の心を掴み、賓客たちも感動していた。",
+    "sentence_furigana": "彼【かれ】のスピーチは会衆【かいしゅう】の心【こころ】を掴【つか】み、賓客【ひんきゃく】たちも感動【かんどう】していた。",
+    "meaning": "His speech captured the hearts of the audience, and the guests were also moved."
+  },
+  {
+    "sentence": "ホテルは海外からのVIPを対象としたサービスを拡充した。",
+    "sentence_furigana": "ホテルは海外【かいがい】からのVIPを対象【たいしょう】としたサービスを拡充【かくじゅう】した。",
+    "meaning": "The hotel expanded its services for VIPs from overseas."
+  },
+  {
+    "sentence": "彼は会社の重要な賓客である彼女を丁重に迎えた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の重要【じゅうよう】な賓客【ひんきゃく】である彼女【かのじょ】を丁重【ていちょう】に迎【むか】えた。",
+    "meaning": "He courteously welcomed her, who is an important guest of the company."
+  },
+  {
+    "sentence": "そのイベントは多くの著名な賓客を魅了した。",
+    "sentence_furigana": "そのイベントは多【おお】くの著名【ちょめい】な賓客【ひんきゃく】を魅了【みりょう】した。",
+    "meaning": "The event attracted many distinguished guests."
+  },
+  {
+    "sentence": "彼はその会議の唯一の賓客だった。",
+    "sentence_furigana": "彼【かれ】はその会議【かいぎ】の唯一【ゆいいつ】の賓客【ひんきゃく】だった。",
+    "meaning": "He was the sole guest at the conference."
+  },
+  {
+    "sentence": "この特別な部屋はVIP専用です。",
+    "sentence_furigana": "この特別【とくべつ】な部屋【へや】はVIP専用【せんよう】です。",
+    "meaning": "This special room is for VIPs only."
+  },
+  {
+    "sentence": "私たちは新しい賓客を温かく迎え入れるべきだ。",
+    "sentence_furigana": "私【わたし】たち は新【あたら】しい賓客【ひんきゃく】を温【あたた】かく迎【むか】え入【い】れるべきだ。",
+    "meaning": "We should warmly welcome new guests."
+  },
+  {
+    "sentence": "彼はその晩餐会の主賓として招待された。",
+    "sentence_furigana": "彼【かれ】はその晩餐会【ばんさんかい】の主賓【しゅひん】として招待【しょうたい】された。",
+    "meaning": "He was invited as the guest of honor to the banquet."
+  },
+  {
+    "sentence": "彼女は海外からの賓客を手厚くもてなした。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】を手厚【てあつ】くもてなした。",
+    "meaning": "She generously entertained the guests from abroad."
+  },
+  {
+    "sentence": "このホテルはVIP顧客向けの会員制サービスを提供しています。",
+    "sentence_furigana": "このホテルはVIP顧客【こきゃく】向【む】けの会員制【かいいんせい】サービスを提供【ていきょう】しています。",
+    "meaning": "This hotel offers membership services for VIP customers."
+  },
+  {
+    "sentence": "会議の賓として、彼は貴重な意見を述べた。",
+    "sentence_furigana": "会議【かいぎ】の賓【ひん】として、彼【かれ】は貴重【きちょう】な意見【いけん】を述【の】べた。",
+    "meaning": "As a guest at the conference, he offered valuable opinions."
+  },
+  {
+    "sentence": "多くの賓客が今回の展示会に訪れた。",
+    "sentence_furigana": "多【おお】くの賓客【ひんきゃく】が今回【こんかい】の展示会【てんじかい】に訪【おとず】れた。",
+    "meaning": "Many guests visited this exhibition."
+  },
+  {
+    "sentence": "VIP待遇は、特別な顧客に対するサービスです。",
+    "sentence_furigana": "VIP待遇【たいぐう】は、特別【とくべつ】な顧客【こきゃく】に対【たい】するサービスです。",
+    "meaning": "VIP treatment is a service for special customers."
+  },
+  {
+    "sentence": "彼は学校の重要な賓客として迎えられた。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】の重要【じゅうよう】な賓客【ひんきゃく】として迎【むか】えられた。",
+    "meaning": "He was welcomed as an important guest of the school."
+  },
+  {
+    "sentence": "この式典は全国から賓客を招きます。",
+    "sentence_furigana": "この式典【しきてん】は全国【ぜんこく】から賓客【ひんきゃく】を招【まね】きます。",
+    "meaning": "This ceremony invites guests from all over the country."
+  },
+  {
+    "sentence": "彼は大使館でのレセプションの賓だった。",
+    "sentence_furigana": "彼【かれ】は大使館【たいしかん】でのレセプションの賓【ひん】だった。",
+    "meaning": "He was a guest at the reception at the embassy."
+  },
+  {
+    "sentence": "彼女は海外からの賓客を空港で出迎えた。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】を空港【くうこう】で出迎【でむか】えた。",
+    "meaning": "She met the guests from overseas at the airport."
+  },
+  {
+    "sentence": "VIPラウンジは特別な方々にご利用いただけます。",
+    "sentence_furigana": "VIPラウンジは特別【とくべつ】な方々【かた々】にご利用【ごりよう】いただけます。",
+    "meaning": "The VIP lounge is available for special individuals."
+  },
+  {
+    "sentence": "多くの有名人がこのイベントの賓として集まった。",
+    "sentence_furigana": "多【おお】くの有名人【ゆうめいじん】がこのイベントの賓【ひん】として集【あつ】まった。",
+    "meaning": "Many celebrities gathered as guests for this event."
+  },
+  {
+    "sentence": "彼は地域の名誉賓として表彰された。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】の名誉賓【めいよひん】として表彰【ひょうしょう】された。",
+    "meaning": "He was honored as a distinguished guest of the region."
+  },
+  {
+    "sentence": "このホテルはVIP向けの豪華なスイートルームを提供しています。",
+    "sentence_furigana": "このホテルはVIP向【む】けの豪華【ごうか】なスイートルームを提供【ていきょう】しています。",
+    "meaning": "This hotel offers luxurious suites for VIPs."
+  },
+  {
+    "sentence": "彼は会議の特別賓として招待された。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の特別賓【とくべつひん】として招待【しょうたい】された。",
+    "meaning": "He was invited as a special guest to the conference."
+  },
+  {
+    "sentence": "多くの賓客が新しい美術館を訪れた。",
+    "sentence_furigana": "多【おお】くの賓客【ひんきゃく】が新【あたら】しい美術館【びじゅつかん】を訪【おとず】れた。",
+    "meaning": "Many guests visited the new art museum."
+  },
+  {
+    "sentence": "VIPサービスは、お客様を特別に扱うためのものです。",
+    "sentence_furigana": "VIPサービスは、お客様【おきゃくさま】を特別【とくべつ】に扱【あつか】うためのものです。",
+    "meaning": "VIP service is for treating customers specially."
+  },
+  {
+    "sentence": "彼は国際会議の賓として、会議の成功に貢献した。",
+    "sentence_furigana": "彼【かれ】は国際会議【こくさいかいぎ】の賓【ひん】として、会議【かいぎ】の成功【せいこう】に貢献【こうけん】した。",
+    "meaning": "As a guest at the international conference, he contributed to its success."
+  },
+  {
+    "sentence": "彼女は外国からの賓客を丁寧に案内した。",
+    "sentence_furigana": "彼女【かのじょ】は外国【がいこく】からの賓客【ひんきゃく】を丁寧【ていねい】に案内【あんない】した。",
+    "meaning": "She carefully guided the guests from foreign countries."
+  },
+  {
+    "sentence": "VIPルームは、特別な体験を求めるお客様のために設計されています。",
+    "sentence_furigana": "VIPルームは、特別【とくべつ】な体験【たいけん】を求【もと】めるお客様【おきゃくさま】のために設計【せっけい】されています。",
+    "meaning": "The VIP room is designed for customers seeking a special experience."
+  },
+  {
+    "sentence": "彼は今回のお祭りの主要賓として招かれた。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】のお祭【まつ】りの主要賓【しゅようひん】として招【まね】かれた。",
+    "meaning": "He was invited as the main guest for this festival."
+  },
+  {
+    "sentence": "その展示会は多くの美術愛好家や賓客を集めた。",
+    "sentence_furigana": "その展示会【てんじかい】は多【おお】くの美術愛好家【びじゅつあいこうか】や賓客【ひんきゃく】を集【あつ】めた。",
+    "meaning": "The exhibition attracted many art lovers and guests."
+  },
+  {
+    "sentence": "VIPサービスは、私たちの最上級のお客様にご提供します。",
+    "sentence_furigana": "VIPサービスは、私達【わたしたち】の最上級【さいじょうきゅう】のお客様【おきゃくさま】にご提供【ごていきょう】します。",
+    "meaning": "VIP service is provided to our top-tier customers."
+  },
+  {
+    "sentence": "彼は地域の文化大使として賓客と交流した。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】の文化大使【ぶんかたいし】として賓客【ひんきゃく】と交流【こうりゅう】した。",
+    "meaning": "He interacted with guests as a cultural ambassador for the region."
+  },
+  {
+    "sentence": "このイベントは全国からVIPを招待する。",
+    "sentence_furigana": "このイベントは全国【ぜんこく】からVIPを招待【しょうたい】する。",
+    "meaning": "This event invites VIPs from all over the country."
+  },
+  {
+    "sentence": "彼女は海外からの賓客に観光案内を行った。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】に観光案内【かんこうあんない】を行【おこな】った。",
+    "meaning": "She provided sightseeing guidance to guests from abroad."
+  },
+  {
+    "sentence": "VIPルームでは、静かでプライベートな空間を提供しています。",
+    "sentence_furigana": "VIPルームでは、静【しず】かでプライベートな空間【くうかん】を提供【ていきょう】しています。",
+    "meaning": "The VIP room offers a quiet and private space."
+  },
+  {
+    "sentence": "彼は今回の記念式典の賓としてスピーチを行った。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】の記念式典【きねんしきてん】の賓【ひん】としてスピーチを行【おこな】った。",
+    "meaning": "He gave a speech as a guest at this memorial ceremony."
+  },
+  {
+    "sentence": "多くの著名な賓客がディナーパーティーに参加した。",
+    "sentence_furigana": "多【おお】くの著名【ちょめい】な賓客【ひんきゃく】がディナーパーティーに参加【さんか】した。",
+    "meaning": "Many distinguished guests participated in the dinner party."
+  },
+  {
+    "sentence": "この施設はVIP向けの専用駐車場を備えています。",
+    "sentence_furigana": "この施設【しせつ】はVIP向【む】けの専用駐車【せんようちゅうしゃ】場【じょう】を備【そな】えています。",
+    "meaning": "This facility has a dedicated parking lot for VIPs."
+  },
+  {
+    "sentence": "彼は地域の発展に貢献した賓客として感謝された。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】の発展【はってん】に貢献【こうけん】した賓客【ひんきゃく】として感謝【かんしゃ】された。",
+    "meaning": "He was thanked as a guest who contributed to the development of the region."
+  },
+  {
+    "sentence": "このホテルはVIP顧客のために特別なアメニティを用意しています。",
+    "sentence_furigana": "このホテルはVIP顧客【こきゃく】のために特別【とくべつ】なアメニティを用意【ようい】しています。",
+    "meaning": "This hotel provides special amenities for VIP customers."
+  },
+  {
+    "sentence": "彼は学術会議の著名な賓として招待された。",
+    "sentence_furigana": "彼【かれ】は学術会議【がくじゅつかいぎ】の著名【ちょめい】な賓【ひん】として招待【しょうたい】された。",
+    "meaning": "He was invited as a distinguished guest to the academic conference."
+  },
+  {
+    "sentence": "多くの賓客が文化交流イベントを楽しんだ。",
+    "sentence_furigana": "多【おお】くの賓客【ひんきゃく】が文化交流【ぶんかこうりゅう】イベントを楽し【たの】んだ。",
+    "meaning": "Many guests enjoyed the cultural exchange event."
+  },
+  {
+    "sentence": "VIPサービスは、最高の顧客体験を提供することを目指しています。",
+    "sentence_furigana": "VIPサービスは、最高【さいこう】の顧客体験【こきゃくたいけん】を提供【ていきょう】することを目指【めざ】しています。",
+    "meaning": "VIP service aims to provide the best customer experience."
+  },
+  {
+    "sentence": "彼は学校の創立記念式典の賓として招かれた。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】の創立記念式典【そうりつきねんしきてん】の賓【ひん】として招【まね】かれた。",
+    "meaning": "He was invited as a guest to the school's anniversary ceremony."
+  },
+  {
+    "sentence": "その展覧会は国内外から多くの賓客を惹きつけた。",
+    "sentence_furigana": "その展覧会【てんらんかい】は国内外【こくないがい】から多【おお】くの賓客【ひんきゃく】を惹【ひ】きつけた。",
+    "meaning": "The exhibition attracted many guests from home and abroad."
+  },
+  {
+    "sentence": "VIPゲストには専用のコンシェルジュサービスが付帯します。",
+    "sentence_furigana": "VIPゲストには専用【せんよう】のコンシェルジュサービスが付帯【ふたい】します。",
+    "meaning": "VIP guests are provided with exclusive concierge services."
+  },
+  {
+    "sentence": "彼はその祝賀会の主賓として挨拶を行った。",
+    "sentence_furigana": "彼【かれ】はそのまま祝賀会【しゅくがかい】の主賓【しゅひん】として挨拶【あいさつ】を行【おこな】った。",
+    "meaning": "He gave a greeting as the guest of honor at the celebratory party."
+  },
+  {
+    "sentence": "彼女は海外からの賓客に対して親切に対応した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】に対【たい】して親切【しんせつ】に対応【たいおう】した。",
+    "meaning": "She kindly attended to the guests from abroad."
+  },
+  {
+    "sentence": "このクラブはVIPメンバー限定の特典を用意しています。",
+    "sentence_furigana": "このクラブはVIPメンバー限定【げんてい】の特典【とくてん】を用意【ようい】しています。",
+    "meaning": "This club offers exclusive benefits for VIP members."
+  },
+  {
+    "sentence": "彼はその地域コミュニティの重要な賓客として表彰された。",
+    "sentence_furigana": "彼【かれ】はその地域【ちいき】コミュニティの重要【じゅうよう】な賓客【ひんきゃく】として表彰【ひょうしょう】された。",
+    "meaning": "He was honored as an important guest of the local community."
+  },
+  {
+    "sentence": "多くの賓客が新しいショッピングモールを訪れました。",
+    "sentence_furigana": "多【おお】くの賓客【ひんきゃく】が新【あたら】しいショッピングモールを訪【おとず】れました。",
+    "meaning": "Many guests visited the new shopping mall."
+  },
+  {
+    "sentence": "このホテルはVIPのためのプライベートダイニングルームを提供しています。",
+    "sentence_furigana": "このホテルはVIPのためのプライベートダイニングルームを提供【ていきょう】しています。",
+    "meaning": "This hotel offers private dining rooms for VIPs."
+  },
+  {
+    "sentence": "彼は国際的なイベントのVIPゲストとして招待された。",
+    "sentence_furigana": "彼【かれ】は国際的【こくさいてき】なイベントのVIPゲストとして招待【しょうたい】された。",
+    "meaning": "He was invited as a VIP guest to an international event."
+  },
+  {
+    "sentence": "彼女は海外からの賓客に日本語を教えた。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】に日本語【にほんご】を教【おし】えた。",
+    "meaning": "She taught Japanese to guests from abroad."
+  },
+  {
+    "sentence": "VIPラウンジは、搭乗前の特別な時間を提供します。",
+    "sentence_furigana": "VIPラウンジは、搭乗前【とうじょうまえ】の特別【とくべつ】な時間【じかん】を提供【ていきょう】します。",
+    "meaning": "The VIP lounge offers a special time before boarding."
+  },
+  {
+    "sentence": "彼は今回のフォーラムの主賓として基調講演を行った。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】のフォーラムの主賓【しゅひん】として基調講演【きちょうこうえん】を行【おこな】った。",
+    "meaning": "He gave the keynote speech as the guest of honor at this forum."
+  },
+  {
+    "sentence": "多くの文化人や賓客がその発表会に集まった。",
+    "sentence_furigana": "多【おお】くの文化人【ぶんかじん】や賓客【ひんきゃく】がその発表会【はっぴょうかい】に集【あつ】まった。",
+    "meaning": "Many cultural figures and guests gathered at the presentation."
+  },
+  {
+    "sentence": "この劇場はVIP席を設けています。",
+    "sentence_furigana": "この劇場【げきじょう】はVIP席【せき】を設【もう】けています。",
+    "meaning": "This theater has VIP seats."
+  },
+  {
+    "sentence": "彼はその国際会議で賓として発言する機会を得た。",
+    "sentence_furigana": "彼【かれ】はその国際会議【こくさいかいぎ】で賓【ひん】として発言【はつげん】する機会【きかい】を得【え】た。",
+    "meaning": "He got the chance to speak as a guest at that international conference."
+  },
+  {
+    "sentence": "彼女は海外からの賓客を市場に案内した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】を市場【しじょう】に案内【あんない】した。",
+    "meaning": "She guided guests from abroad to the market."
+  },
+  {
+    "sentence": "VIPラウンジは、旅行中の快適な滞在をサポートします。",
+    "sentence_furigana": "VIPラウンジは、旅行中【りょこうちゅう】の快適【かいてき】な滞在【たいざい】をサポートします。",
+    "meaning": "The VIP lounge supports a comfortable stay during travel."
+  },
+  {
+    "sentence": "彼はその記念イベントの最重要賓客として注目された。",
+    "sentence_furigana": "彼【かれ】はその記念イベントの最重要賓客【さいじゅうようひんきゃく】として注目【ちゅうもく】された。",
+    "meaning": "He was highlighted as the most important guest at that commemorative event."
+  },
+  {
+    "sentence": "多くの投資家や賓客がそのビジネスイベントに参加した。",
+    "sentence_furigana": "多【おお】くの投資家【とうしか】や賓客【ひんきゃく】がそのビジネスイベントに参加【さんか】した。",
+    "meaning": "Many investors and guests participated in that business event."
+  },
+  {
+    "sentence": "このリゾートはVIP顧客向けに特別なパッケージを提供しています。",
+    "sentence_furigana": "このリゾートはVIP顧客【こきゃく】向【む】けに特別【とくべつ】なパッケージを提供【ていきょう】しています。",
+    "meaning": "This resort offers special packages for VIP customers."
+  },
+  {
+    "sentence": "彼は大学のオープンキャンパスの賓として招かれた。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】のオープンキャンパスの賓【ひん】として招【まね】かれた。",
+    "meaning": "He was invited as a guest to the university's open campus."
+  },
+  {
+    "sentence": "その展覧会は、アート愛好家やVIPゲストで賑わった。",
+    "sentence_furigana": "その展覧会【てんらんかい】は、アート愛好家【あいこうか】やVIPゲストで賑【にぎ】わった。",
+    "meaning": "The exhibition was bustling with art lovers and VIP guests."
+  },
+  {
+    "sentence": "VIPサービスは、お客様に特別な満足感を提供することを目指しています。",
+    "sentence_furigana": "VIPサービスは、お客様【おきゃくさま】に特別【とくべつ】な満足感【まんぞくかん】を提供【ていきょう】することを目指【めざ】しています。",
+    "meaning": "VIP service aims to provide customers with special satisfaction."
+  },
+  {
+    "sentence": "彼はその国の元首の賓として歓迎された。",
+    "sentence_furigana": "彼【かれ】はその国【くに】の元首【げんしゅ】の賓【ひん】として歓迎【かんげい】された。",
+    "meaning": "He was welcomed as a guest of the country's head of state."
+  },
+  {
+    "sentence": "多くの地元住民と賓客がその祭りを楽しんだ。",
+    "sentence_furigana": "多【おお】くの地元住民【じもとじゅうみん】と賓客【ひんきゃく】がその祭【まつ】りを楽し【たの】んだ。",
+    "meaning": "Many local residents and guests enjoyed the festival."
+  },
+  {
+    "sentence": "この飛行機にはVIP専用のラウンジがあります。",
+    "sentence_furigana": "この飛行機【ひこうき】にはVIP専用【せんよう】のラウンジがあります。",
+    "meaning": "This airplane has a lounge exclusively for VIPs."
+  },
+  {
+    "sentence": "彼女は海外からの賓客に日本の文化を紹介した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】に日本【にほん】の文化【ぶんか】を紹介【しょうかい】した。",
+    "meaning": "She introduced Japanese culture to guests from abroad."
+  },
+  {
+    "sentence": "VIPゲストは、特別な待遇を受ける権利があります。",
+    "sentence_furigana": "VIPゲストは、特別【とくべつ】な待遇【たいぐう】を受【う】ける権利【けんり】があります。",
+    "meaning": "VIP guests have the right to receive special treatment."
+  },
+  {
+    "sentence": "彼は今回の講演会の主賓として、参加者からの質問に答えた。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】の講演会【こうえんかい】の主賓【しゅひん】として、参加者【さんかしゃ】からの質問【しつもん】に答【こた】えた。",
+    "meaning": "He answered questions from participants as the guest of honor at this lecture."
+  },
+  {
+    "sentence": "多くの賓客が式典の開会を祝った。",
+    "sentence_furigana": "多【おお】くの賓客【ひんきゃく】が式典【しきてん】の開会【かいかい】を祝【いわ】った。",
+    "meaning": "Many guests celebrated the opening of the ceremony."
+  },
+  {
+    "sentence": "この会議室はVIP会議のために用意されている。",
+    "sentence_furigana": "この会議室【かいぎしつ】はVIP会議【かいぎ】のために用意【ようい】されている。",
+    "meaning": "This conference room is prepared for VIP meetings."
+  },
+  {
+    "sentence": "彼は今回のチャリティーイベントの賓として参加した。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】のチャリティーイベントの賓【ひん】として参加【さんか】した。",
+    "meaning": "He participated as a guest in this charity event."
+  },
+  {
+    "sentence": "彼女は海外からの賓客を地域の見どころに案内した。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】からの賓客【ひんきゃく】を地域【ちいき】の見どころに案内【あんない】した。",
+    "meaning": "She guided guests from abroad to the region's highlights."
+  },
+  {
+    "sentence": "VIPラウンジでは、特別なサービスを受けることができます。",
+    "sentence_furigana": "VIPラウンジでは、特別【とくべつ】なサービスを受【う】けることができます。",
+    "meaning": "In the VIP lounge, you can receive special services."
+  },
+  {
+    "sentence": "彼はその国際芸術祭の賓として招待された。",
+    "sentence_furigana": "彼【かれ】はその国際芸術祭【こくさいげいじゅつさい】の賓【ひん】として招待【しょうたい】された。",
+    "meaning": "He was invited as a guest to that international art festival."
+  },
+  {
+    "sentence": "多くの政府関係者と賓客が会議に出席した。",
+    "sentence_furigana": "多【おお】くの政府関係者【せいふかんけいしゃ】と賓客【ひんきゃく】が会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "Many government officials and guests attended the conference."
+  }
+]

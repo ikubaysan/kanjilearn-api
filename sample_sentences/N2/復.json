@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "復興のために多くの支援が集まった。",
+    "sentence_furigana": "復興【ふっこう】のため【ため】に多【おお】くの支援【しえん】が集【あつ】まった。",
+    "meaning": "Much support was gathered for the reconstruction."
+  },
+  {
+    "sentence": "彼は長年の病気から回復した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の病気【びょうき】から回復【かいふく】した。",
+    "meaning": "He recovered from a long illness."
+  },
+  {
+    "sentence": "古い家を復元することにした。",
+    "sentence_furigana": "古【ふる】い家【いえ】を復元【ふくげん】することにした。",
+    "meaning": "We decided to restore the old house."
+  },
+  {
+    "sentence": "状況は以前の状態に復帰した。",
+    "sentence_furigana": "状況【じょうきょう】は以前【いぜん】の状態【じょうたい】に復帰【ふっき】した。",
+    "meaning": "The situation returned to its previous state."
+  },
+  {
+    "sentence": "この問題は前にも復唱された。",
+    "sentence_furigana": "この問題【もんだい】は前【まえ】にも復唱【ふくしょう】された。",
+    "meaning": "This problem was repeated before."
+  },
+  {
+    "sentence": "彼は会社を復帰した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】を復帰【ふっき】した。",
+    "meaning": "He returned to the company."
+  },
+  {
+    "sentence": "この事件の真相を復元する。",
+    "sentence_furigana": "この事件【じけん】の真相【しんそう】を復元【ふくげん】する。",
+    "meaning": "To reconstruct the truth of this incident."
+  },
+  {
+    "sentence": "文化財の復旧作業が進められている。",
+    "sentence_furigana": "文化財【ぶんかざい】の復旧【ふっきゅう】作業【さぎょう】が進【すす】められている。",
+    "meaning": "Restoration work on the cultural property is progressing."
+  },
+  {
+    "sentence": "彼はかつての栄光を取り戻そうとした。",
+    "sentence_furigana": "彼【かれ】はかつての栄光【えいこう】を取り戻【と】そうとした。",
+    "meaning": "He tried to regain his former glory."
+  },
+  {
+    "sentence": "失われた記憶を呼び戻す。",
+    "sentence_furigana": "失【う】われた記憶【きおく】を呼【よ】び戻【もど】す。",
+    "meaning": "To recall lost memories."
+  },
+  {
+    "sentence": "彼は過去の過ちを悔いた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを悔【く】いた。",
+    "meaning": "He regretted his past mistakes."
+  },
+  {
+    "sentence": "この技術は再び注目されている。",
+    "sentence_furigana": "この技術【ぎじゅつ】は再び【ふたたび】注目【ちゅうもく】されている。",
+    "meaning": "This technology is gaining attention again."
+  },
+  {
+    "sentence": "彼は昔の友人との関係を復縁したい。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の友人【ゆうじん】との関係【かんけい】を復縁【ふくえん】したい。",
+    "meaning": "He wants to resume his relationship with an old friend."
+  },
+  {
+    "sentence": "戦争で失われたものを復興する。",
+    "sentence_furigana": "戦争【せんそう】で失【う】われたものを復興【ふっこう】する。",
+    "meaning": "To rebuild what was lost in the war."
+  },
+  {
+    "sentence": "彼は健康を回復させた。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】を回復【かいふく】させた。",
+    "meaning": "He regained his health."
+  },
+  {
+    "sentence": "この城は往時の姿に復元された。",
+    "sentence_furigana": "この城【しろ】は往時【おうじ】の姿【すがた】に復元【ふくげん】された。",
+    "meaning": "This castle was restored to its former appearance."
+  },
+  {
+    "sentence": "会議は午後一時から再開された。",
+    "sentence_furigana": "会議【かいぎ】は午後一時【ごごいちじ】から再開【さいかい】された。",
+    "meaning": "The meeting resumed from 1 PM."
+  },
+  {
+    "sentence": "彼の名誉は回復された。",
+    "sentence_furigana": "彼【かれ】の名誉【めいよ】は回復【かいふく】された。",
+    "meaning": "His honor was restored."
+  },
+  {
+    "sentence": "この地域は急速に復興しつつある。",
+    "sentence_furigana": "この地域【ちいき】は急速【きゅうそく】に復興【ふっこう】しつつある。",
+    "meaning": "This region is rapidly recovering."
+  },
+  {
+    "sentence": "彼は失業から復帰した。",
+    "sentence_furigana": "彼【かれ】は失業【しつぎょう】から復帰【ふっき】した。",
+    "meaning": "He returned to work after unemployment."
+  },
+  {
+    "sentence": "元の状態に戻すことを復元という。",
+    "sentence_furigana": "元【もと】の状態【じょうたい】に戻【もど】すことを復元【ふくげん】という。",
+    "meaning": "Returning to the original state is called restoration."
+  },
+  {
+    "sentence": "災害からの復興はまだ道半ばだ。",
+    "sentence_furigana": "災害【さいがい】からの復興【ふっこう】はまだ道半【みちはん】ばだ。",
+    "meaning": "The recovery from the disaster is still halfway."
+  },
+  {
+    "sentence": "彼は休暇から復帰したばかりだ。",
+    "sentence_furigana": "彼【かれ】は休暇【きゅうか】から復帰【ふっき】したばかりだ。",
+    "meaning": "He just returned from vacation."
+  },
+  {
+    "sentence": "失われた技術を復興させる必要がある。",
+    "sentence_furigana": "失【う】われた技術【ぎじゅつ】を復興【ふっこう】させる必要【ひつよう】がある。",
+    "meaning": "It is necessary to revive the lost technology."
+  },
+  {
+    "sentence": "彼は以前の職務に復帰した。",
+    "sentence_furigana": "彼【かれ】は以前【いぜん】の職務【しょくむ】に復帰【ふっき】した。",
+    "meaning": "He returned to his previous duties."
+  },
+  {
+    "sentence": "この伝統は再び復興されるべきだ。",
+    "sentence_furigana": "この伝統【でんとう】は再び【ふたたび】復興【ふっこう】されるべきだ。",
+    "meaning": "This tradition should be revived again."
+  },
+  {
+    "sentence": "事故の後、彼は無事に帰還した。",
+    "sentence_furigana": "事故【じこ】の後【あと】、彼【かれ】は無事【ぶじ】に帰還【きかん】した。",
+    "meaning": "After the accident, he returned safely."
+  },
+  {
+    "sentence": "彼は再び健康を回復した。",
+    "sentence_furigana": "彼【かれ】は再び【ふたたび】健康【けんこう】を回復【かいふく】した。",
+    "meaning": "He regained his health again."
+  },
+  {
+    "sentence": "古い家並みを復元するプロジェクトが始まった。",
+    "sentence_furigana": "古【ふる】い家並【いえな】みを復元【ふくげん】するプロジェクトが始【はじ】まった。",
+    "meaning": "A project to restore the old streetscape has begun."
+  },
+  {
+    "sentence": "彼の健康状態は徐々に回復している。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は徐々【じょじょ】に回復【かいふく】している。",
+    "meaning": "His health condition is gradually recovering."
+  },
+  {
+    "sentence": "被災地は復興の途上にある。",
+    "sentence_furigana": "被災地【ひさいち】は復興【ふっこう】の途上【とじょう】にある。",
+    "meaning": "The disaster-stricken area is in the process of reconstruction."
+  },
+  {
+    "sentence": "彼は海外赴任から帰国した。",
+    "sentence_furigana": "彼【かれ】は海外赴任【かいがいふにん】から帰国【きこく】した。",
+    "meaning": "He returned to Japan from an overseas assignment."
+  },
+  {
+    "sentence": "古い習慣が復興しつつある。",
+    "sentence_furigana": "古【ふる】い習慣【しゅうかん】が復興【ふっこう】しつつある。",
+    "meaning": "Old customs are being revived."
+  },
+  {
+    "sentence": "彼は職場に復帰した。",
+    "sentence_furigana": "彼【かれ】は職場【しょくば】に復帰【ふっき】した。",
+    "meaning": "He returned to work."
+  },
+  {
+    "sentence": "記憶を呼び戻すことができた。",
+    "sentence_furigana": "記憶【きおく】を呼【よ】び戻【もど】すことができた。",
+    "meaning": "I was able to recall the memories."
+  },
+  {
+    "sentence": "この制度は廃止されたが、復帰の議論がある。",
+    "sentence_furigana": "この制度【せいど】は廃止【はいし】されたが、復帰【ふっき】の議論【ぎろん】がある。",
+    "meaning": "This system was abolished, but there is discussion about its reinstatement."
+  },
+  {
+    "sentence": "彼は過去の栄光を再び手に入れようとしている。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】を再び【ふたたび】手に入【てにい】れようとしている。",
+    "meaning": "He is trying to get his past glory back."
+  },
+  {
+    "sentence": "この地域経済は復興の兆しを見せている。",
+    "sentence_furigana": "この地域経済【ちいけいけいざい】は復興【ふっこう】の兆【きざ】しを見【み】せている。",
+    "meaning": "The local economy is showing signs of recovery."
+  },
+  {
+    "sentence": "彼は病気を克服して回復した。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】を克服【こくふく】して回復【かいふく】した。",
+    "meaning": "He overcame his illness and recovered."
+  },
+  {
+    "sentence": "失われた文化を復元することが重要だ。",
+    "sentence_furigana": "失【う】われた文化【ぶんか】を復元【ふくげん】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to restore lost culture."
+  },
+  {
+    "sentence": "この建物はかつての姿に復元される予定だ。",
+    "sentence_furigana": "この建物【たてもの】はかつての姿【すがた】に復元【ふくげん】される予定【よてい】だ。",
+    "meaning": "This building is scheduled to be restored to its former appearance."
+  },
+  {
+    "sentence": "経済の復興には時間がかかるだろう。",
+    "sentence_furigana": "経済【けいざい】の復興【ふっこう】には時間【じかん】がかかるだろう。",
+    "meaning": "Economic recovery will take time."
+  },
+  {
+    "sentence": "彼は事故現場から無事に帰還した。",
+    "sentence_furigana": "彼【かれ】は事故現場【じこげんば】から無事【ぶじ】に帰還【きかん】した。",
+    "meaning": "He returned safely from the accident scene."
+  },
+  {
+    "sentence": "復讐心から彼は行動した。",
+    "sentence_furigana": "復讐心【ふくしゅうしん】から彼【かれ】は行動【こうどう】した。",
+    "meaning": "He acted out of a desire for revenge."
+  },
+  {
+    "sentence": "失われた調和を取り戻したい。",
+    "sentence_furigana": "失【う】われた調和【ちょうわ】を取り戻【と】したい。",
+    "meaning": "I want to regain lost harmony."
+  },
+  {
+    "sentence": "彼の健康は完全に回復した。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】は完全【かんぜん】に回復【かいふく】した。",
+    "meaning": "His health has fully recovered."
+  },
+  {
+    "sentence": "古い伝統を復興させる動きがある。",
+    "sentence_furigana": "古【ふる】い伝統【でんとう】を復興【ふっこう】させる動【うご】きがある。",
+    "meaning": "There is a movement to revive old traditions."
+  },
+  {
+    "sentence": "彼は職務に復帰したばかりだ。",
+    "sentence_furigana": "彼【かれ】は職務【しょくむ】に復帰【ふっき】したばかりだ。",
+    "meaning": "He just returned to his duties."
+  },
+  {
+    "sentence": "この地域は戦後復興を遂げた。",
+    "sentence_furigana": "この地域【ちいき】は戦後復興【せんごふっこう】を遂【と】げた。",
+    "meaning": "This region achieved post-war reconstruction."
+  },
+  {
+    "sentence": "記憶の断片を呼び戻す。",
+    "sentence_furigana": "記憶【きおく】の断片【だんぺん】を呼【よ】び戻【もど】す。",
+    "meaning": "To recall fragments of memory."
+  },
+  {
+    "sentence": "彼はかつての威厳を取り戻そうとしない。",
+    "sentence_furigana": "彼【かれ】はかつての威厳【いげん】を取り戻【と】そうとしない。",
+    "meaning": "He does not try to regain his former dignity."
+  },
+  {
+    "sentence": "この都市は劇的な復興を遂げた。",
+    "sentence_furigana": "この都市【とし】は劇的【げきてき】な復興【ふっこう】を遂【と】げた。",
+    "meaning": "This city achieved a dramatic recovery."
+  },
+  {
+    "sentence": "彼は病気から回復するのに時間がかかった。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】から回復【かいふく】するのに時間【じかん】がかかった。",
+    "meaning": "It took him time to recover from his illness."
+  },
+  {
+    "sentence": "失われた信頼を回復するのは難しい。",
+    "sentence_furigana": "失【う】われた信頼【しんらい】を回復【かいふく】するのは難【むずか】しい。",
+    "meaning": "It is difficult to restore lost trust."
+  },
+  {
+    "sentence": "古城の復元が進められている。",
+    "sentence_furigana": "古城【こじょう】の復元【ふくげん】が進【すす】められている。",
+    "meaning": "The restoration of the old castle is being advanced."
+  },
+  {
+    "sentence": "彼は再び社会に復帰した。",
+    "sentence_furigana": "彼【かれ】は再び【ふたたび】社会【しゃかい】に復帰【ふっき】した。",
+    "meaning": "He returned to society again."
+  },
+  {
+    "sentence": "失われた秩序を回復させる。",
+    "sentence_furigana": "失【う】われた秩序【ちつじょ】を回復【かいふく】させる。",
+    "meaning": "To restore lost order."
+  },
+  {
+    "sentence": "彼は再び故郷に帰還した。",
+    "sentence_furigana": "彼【かれ】は再び【ふたたび】故郷【こきょう】に帰還【きかん】した。",
+    "meaning": "He returned to his hometown again."
+  },
+  {
+    "sentence": "この地域の復興は順調に進んでいる。",
+    "sentence_furigana": "この地域【ちいき】の復興【ふっこう】は順調【じゅんちょう】に進【すす】んでいる。",
+    "meaning": "The recovery of this region is progressing smoothly."
+  },
+  {
+    "sentence": "彼はかつての勢いを取り戻した。",
+    "sentence_furigana": "彼【かれ】はかつての勢【いきお】いを取り戻【と】した。",
+    "meaning": "He regained his former momentum."
+  },
+  {
+    "sentence": "失業から復帰するための訓練を受けている。",
+    "sentence_furigana": "失業【しつぎょう】から復帰【ふっき】するための訓練【くんれん】を受【う】けている。",
+    "meaning": "He is undergoing training to return to work after unemployment."
+  },
+  {
+    "sentence": "この古い町は復元されることになった。",
+    "sentence_furigana": "この古【ふる】い町【まち】は復元【ふくげん】されることになった。",
+    "meaning": "This old town has been decided to be restored."
+  },
+  {
+    "sentence": "彼は健康を回復し、元気に働いている。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】を回復【かいふく】し、元気【げんき】に働【はたら】いている。",
+    "meaning": "He recovered his health and is working energetically."
+  },
+  {
+    "sentence": "復興への道のりは長い。",
+    "sentence_furigana": "復興【ふっこう】への道【みち】のり は長【なが】い。",
+    "meaning": "The road to recovery is long."
+  },
+  {
+    "sentence": "彼は復讐のために生きていた。",
+    "sentence_furigana": "彼【かれ】は復讐【ふくしゅう】のため【ため】に生【い】きていた。",
+    "meaning": "He lived for revenge."
+  },
+  {
+    "sentence": "失ったものを取り戻す。",
+    "sentence_furigana": "失【う】ったものを取り戻【と】す。",
+    "meaning": "To regain what was lost."
+  },
+  {
+    "sentence": "彼は事故から回復した。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】から回復【かいふく】した。",
+    "meaning": "He recovered from the accident."
+  },
+  {
+    "sentence": "古い建物を復元することは文化保存に繋がる。",
+    "sentence_furigana": "古【ふる】い建物【たてもの】を復元【ふくげん】することは文化保存【ぶんかほぞん】に繋【つな】がる。",
+    "meaning": "Restoring old buildings leads to cultural preservation."
+  },
+  {
+    "sentence": "彼は故郷に帰還した。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】に帰還【きかん】した。",
+    "meaning": "He returned to his hometown."
+  },
+  {
+    "sentence": "この病気は治癒の後に後遺症が残ることがある。",
+    "sentence_furigana": "この病気【びょうき】は治癒【ちゆ】の後【あと】に後遺症【こういしょう】が残【のこ】ることがある。",
+    "meaning": "This disease may leave after-effects after recovery."
+  },
+  {
+    "sentence": "彼は復職の準備を進めている。",
+    "sentence_furigana": "彼【かれ】は復職【ふくしょく】の準備【じゅんび】を進【すす】めている。",
+    "meaning": "He is preparing to return to work."
+  },
+  {
+    "sentence": "失われた歴史を復元する試み。",
+    "sentence_furigana": "失【う】われた歴史【れきし】を復元【ふくげん】する試【こころ】み。",
+    "meaning": "An attempt to restore lost history."
+  },
+  {
+    "sentence": "この国は経済復興を最優先課題としている。",
+    "sentence_furigana": "この国【くに】は経済復興【けいざいふっこう】を最優先課題【さいゆうせんかだい】としている。",
+    "meaning": "This country prioritizes economic recovery."
+  },
+  {
+    "sentence": "彼は復帰後、新しいアイデアを提案した。",
+    "sentence_furigana": "彼【かれ】は復帰後【ふっきご】、新【あたら】しいアイデアを提案【ていあん】した。",
+    "meaning": "After returning, he proposed a new idea."
+  },
+  {
+    "sentence": "失われた祖先の知恵を復興したい。",
+    "sentence_furigana": "失【う】われた祖先【そせん】の知恵【ちえ】を復興【ふっこう】したい。",
+    "meaning": "I want to revive the lost wisdom of our ancestors."
+  },
+  {
+    "sentence": "彼の健康状態は安定している。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は安定【あんてい】している。",
+    "meaning": "His health condition is stable."
+  },
+  {
+    "sentence": "この古い物語は現代に復元された。",
+    "sentence_furigana": "この古【ふる】い物語【ものがたり】は現代【げんだい】に復元【ふくげん】された。",
+    "meaning": "This old story was recreated in modern times."
+  },
+  {
+    "sentence": "彼は復帰を待ち望んでいる。",
+    "sentence_furigana": "彼【かれ】は復帰【ふっき】を待【ま】ち望【のぞ】んでいる。",
+    "meaning": "He is looking forward to returning."
+  },
+  {
+    "sentence": "失われた伝統文化の復興を目指す。",
+    "sentence_furigana": "失【う】われた伝統文化【でんとうぶんか】の復興【ふっこう】を目指【めざ】す。",
+    "meaning": "Aiming to revive lost traditional culture."
+  },
+  {
+    "sentence": "彼は健康を回復し、以前よりも元気になった。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】を回復【かいふく】し、以前【いぜん】よりも元気【げんき】になった。",
+    "meaning": "He recovered his health and became more energetic than before."
+  },
+  {
+    "sentence": "この街の復興には多くのボランティアが参加した。",
+    "sentence_furigana": "この街【まち】の復興【ふっこう】には多【おお】くのボランティアが参加【さんか】した。",
+    "meaning": "Many volunteers participated in the reconstruction of this town."
+  },
+  {
+    "sentence": "記憶を呼び戻すための催眠療法を受けた。",
+    "sentence_furigana": "記憶【きおく】を呼【よ】び戻【もど】すための催眠療法【さいみんりょうほう】を受【う】けた。",
+    "meaning": "He underwent hypnotherapy to recall memories."
+  },
+  {
+    "sentence": "彼は再びかつての場所に戻った。",
+    "sentence_furigana": "彼【かれ】は再び【ふたたび】かつての場所【ばしょ】に戻【もど】った。",
+    "meaning": "He returned to his former place again."
+  },
+  {
+    "sentence": "失われた文明の復元は不可能に近い。",
+    "sentence_furigana": "失【う】われた文明【ぶんめい】の復元【ふくげん】は不可能【ふかのう】に近【ちか】い。",
+    "meaning": "The restoration of a lost civilization is nearly impossible."
+  },
+  {
+    "sentence": "彼は回復後もリハビリを続けている。",
+    "sentence_furigana": "彼【かれ】は回復後【かいふくご】もリハビリを続【つづ】けている。",
+    "meaning": "He continues rehabilitation even after recovery."
+  },
+  {
+    "sentence": "この製品は復刻版として発売された。",
+    "sentence_furigana": "この製品【せいひん】は復刻版【ふっこくばん】として発売【はつばい】された。",
+    "meaning": "This product was released as a复刻版."
+  },
+  {
+    "sentence": "彼は失ったものをすべて取り戻した。",
+    "sentence_furigana": "彼【かれ】は失【う】ったものをすべて取り戻【と】した。",
+    "meaning": "He regained everything he had lost."
+  },
+  {
+    "sentence": "復興支援のための募金活動が行われた。",
+    "sentence_furigana": "復興支援【ふっこうしえん】のため【ため】の募金活動【ぼきんかつどう】が行【おこな】われた。",
+    "meaning": "A fundraising campaign for reconstruction support was held."
+  },
+  {
+    "sentence": "彼は復職して新たな気持ちで頑張っている。",
+    "sentence_furigana": "彼【かれ】は復職【ふくしょく】して新【あら】たな気持【きも】ちで頑張【がんば】っている。",
+    "meaning": "He has returned to work and is working hard with a new feeling."
+  },
+  {
+    "sentence": "失われた技術を復興させることは未来への投資だ。",
+    "sentence_furigana": "失【う】われた技術【ぎじゅつ】を復興【ふっこう】させることは未来【みらい】への投資【とうし】だ。",
+    "meaning": "Reviving lost technology is an investment in the future."
+  },
+  {
+    "sentence": "彼は体調を回復させた。",
+    "sentence_furigana": "彼【かれ】は体調【たいちょう】を回復【かいふく】させた。",
+    "meaning": "He recovered his physical condition."
+  },
+  {
+    "sentence": "この古い図書館は復元される予定だ。",
+    "sentence_furigana": "この古【ふる】い図書館【としょかん】は復元【ふくげん】される予定【よてい】だ。",
+    "meaning": "This old library is scheduled to be restored."
+  },
+  {
+    "sentence": "失われた栄光を取り戻すことを誓った。",
+    "sentence_furigana": "失【う】われた栄光【えいこう】を取り戻【と】すことを誓【ちか】った。",
+    "meaning": "He vowed to regain lost glory."
+  },
+  {
+    "sentence": "彼は病気の後遺症から回復しつつある。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の後遺症【こういしょう】から回復【かいふく】しつつある。",
+    "meaning": "He is recovering from the after-effects of his illness."
+  },
+  {
+    "sentence": "復興のため、地域住民が協力している。",
+    "sentence_furigana": "復興【ふっこう】のため【ため】、地域住民【ちいきじゅうみん】が協力【きょうりょく】している。",
+    "meaning": "Community residents are cooperating for reconstruction."
+  },
+  {
+    "sentence": "失われた自信を取り戻したい。",
+    "sentence_furigana": "失【う】われた自信【じしん】を取り戻【と】したい。",
+    "meaning": "I want to regain lost confidence."
+  },
+  {
+    "sentence": "彼は復帰後、チームを牽引した。",
+    "sentence_furigana": "彼【かれ】は復帰後【ふっきご】、チームを牽引【けんいん】した。",
+    "meaning": "After returning, he led the team."
+  },
+  {
+    "sentence": "失われた平和を取り戻すための努力。",
+    "sentence_furigana": "失【う】われた平和【へいわ】を取り戻【と】すための努力【どりょく】。",
+    "meaning": "Efforts to regain lost peace."
+  },
+  {
+    "sentence": "彼は事故から完全に回復した。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】から完全【かんぜん】に回復【かいふく】した。",
+    "meaning": "He completely recovered from the accident."
+  },
+  {
+    "sentence": "復興計画が発表された。",
+    "sentence_furigana": "復興計画【ふっこうけいかく】が発表【はっぴょう】された。",
+    "meaning": "The reconstruction plan was announced."
+  },
+  {
+    "sentence": "失われた技術を復元し、未来に活かす。",
+    "sentence_furigana": "失【う】われた技術【ぎじゅつ】を復元【ふくげん】し、未来【みらい】に活【い】かす。",
+    "meaning": "Restore lost technology and utilize it for the future."
+  }
+]

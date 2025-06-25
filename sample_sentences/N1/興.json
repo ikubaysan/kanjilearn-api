@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "この映画は多くの観客を興奮させた。",
+    "sentence_furigana": "この映画【えいが】は多【おお】くの観客【かんきゃく】を興奮【こうふん】させた。",
+    "meaning": "This movie excited many audience members."
+  },
+  {
+    "sentence": "新しい事業を興すことは大きな挑戦だ。",
+    "sentence_furigana": "新【あたら】しい事業【じぎょう】を興【おこ】すことは大【おお】きな挑戦【ちょうせん】だ。",
+    "meaning": "Starting a new business is a big challenge."
+  },
+  {
+    "sentence": "彼は歴史に深い興味を持っている。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】に深【ふか】い興味【きょうみ】を持【も】っている。",
+    "meaning": "He has a deep interest in history."
+  },
+  {
+    "sentence": "音楽は私の人生に喜びを与えてくれる。",
+    "sentence_furigana": "音楽【おんがく】は私【わたし】の人生【じんせい】に喜【よろこ】びを与【あた】えてくれる。",
+    "meaning": "Music brings joy to my life."
+  },
+  {
+    "sentence": "古い伝統を復興させることが重要だ。",
+    "sentence_furigana": "古【ふる】い伝統【でんとう】を復興【ふっこう】させることが重要【じゅうよう】だ。",
+    "meaning": "It is important to revive old traditions."
+  },
+  {
+    "sentence": "その計画は多くの人々の関心を引いた。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの人々【ひとびと】の関心【かんしん】を引【ひ】いた。",
+    "meaning": "The plan attracted the interest of many people."
+  },
+  {
+    "sentence": "彼の話は聴衆を大いに興じさせた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は聴衆【ちょうしゅう】を大【おお】いに興【きょう】じさせた。",
+    "meaning": "His speech greatly amused the audience."
+  },
+  {
+    "sentence": "古い建物を復元し、地域を活性化させたい。",
+    "sentence_furigana": "古【ふる】い建物【たてもの】を復元【ふくげん】し、地域【ちいき】を活性化【かっせいか】させたい。",
+    "meaning": "I want to restore the old building and revitalize the area."
+  },
+  {
+    "sentence": "この小説は読者の想像力を刺激する。",
+    "sentence_furigana": "この小説【しょうせつ】は読者【どくしゃ】の想像力【そうぞうりょく】を刺激【しげき】する。",
+    "meaning": "This novel stimulates the reader's imagination."
+  },
+  {
+    "sentence": "彼らは新しい文化を発興させた。",
+    "sentence_furigana": "彼【かれ】ら は 新【あたら】しい 文化【ぶんか】を 発興【はっこう】させた。",
+    "meaning": "They initiated a new culture."
+  },
+  {
+    "sentence": "その展示会は多くの来場者の興を引いた。",
+    "sentence_furigana": "その展示会【てんじかい】は多【おお】くの来場者【らいじょうしゃ】の興【きょう】を引【ひ】いた。",
+    "meaning": "The exhibition drew the interest of many visitors."
+  },
+  {
+    "sentence": "彼は事業を興し、成功を収めた。",
+    "sentence_furigana": "彼【かれ】は事業【じぎょう】を興【おこ】し、成功【せいこう】を収【おさ】めた。",
+    "meaning": "He started a business and achieved success."
+  },
+  {
+    "sentence": "失われた技術を復興させることが課題だ。",
+    "sentence_furigana": "失【うしな】われた技術【ぎじゅつ】を復興【ふっこう】させることが課題【かだい】だ。",
+    "meaning": "The challenge is to revive the lost technology."
+  },
+  {
+    "sentence": "新しい趣味を見つけて、生活に活気を取り戻したい。",
+    "sentence_furigana": "新【あたら】しい趣味【しゅみ】を見【み】つけて、生活【せいかつ】に活気【かっき】を取り戻【と】り戻【もど】したい。",
+    "meaning": "I want to find a new hobby and bring vitality back to my life."
+  },
+  {
+    "sentence": "子供たちの好奇心を刺激する教育方法が求められている。",
+    "sentence_furigana": "子供【こども】たち の 好奇心【こうきしん】を刺激【しげき】する教育方法【きょういくほうほう】が求【もと】められている。",
+    "meaning": "Educational methods that stimulate children's curiosity are needed."
+  },
+  {
+    "sentence": "彼が提案したプロジェクトは皆の興味を引いた。",
+    "sentence_furigana": "彼【かれ】が提案【ていあん】したプロジェクトは皆【みな】の興味【きょうみ】を引【ひ】いた。",
+    "meaning": "The project he proposed attracted everyone's interest."
+  },
+  {
+    "sentence": "古い都市を復興させる計画が始まった。",
+    "sentence_furigana": "古【ふる】い都市【とし】を復興【ふっこう】させる計画【けいかく】が始【はじ】まった。",
+    "meaning": "A plan to revive the old city has begun."
+  },
+  {
+    "sentence": "この本は読む者に深い感動を与える。",
+    "sentence_furigana": "この本【ほん】は読【よ】む者【もの】に深【ふか】い感動【かんどう】を与【あた】える。",
+    "meaning": "This book gives readers a deep impression."
+  },
+  {
+    "sentence": "彼は大学で新しい学問分野を興した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で新【あたら】しい学問分野【がくもんぶんや】を興【おこ】した。",
+    "meaning": "He established a new field of study at the university."
+  },
+  {
+    "sentence": "そのスポーツは若い世代の間で人気を集めている。",
+    "sentence_furigana": "そのスポーツは若【わか】い世代【せだい】の間【あいだ】で人気【にんき】を集【あつ】めている。",
+    "meaning": "That sport is gaining popularity among the younger generation."
+  },
+  {
+    "sentence": "古い祭りを復興させ、地域の伝統を守りたい。",
+    "sentence_furigana": "古【ふる】い祭【まつ】りを復興【ふっこう】させ、地域【ちいき】の伝統【でんとう】を守【まも】りたい。",
+    "meaning": "We want to revive the old festival and protect the local tradition."
+  },
+  {
+    "sentence": "彼の芸術作品は多くの人々を楽しませる。",
+    "sentence_furigana": "彼【かれ】の芸術作品【げいじゅつさくひん】は多【おお】くの人々【ひとびと】を楽し【たの】ませる。",
+    "meaning": "His artwork entertains many people."
+  },
+  {
+    "sentence": "この地域の産業を再興する必要がある。",
+    "sentence_furigana": "この地域【ちいき】の産業【さんぎょう】を再興【さいこう】する必要【ひつよう】がある。",
+    "meaning": "There is a need to revive the industry in this region."
+  },
+  {
+    "sentence": "彼のユーモアは場の雰囲気を和ませた。",
+    "sentence_furigana": "彼【かれ】のユーモアは場【ば】の雰囲気【ふんいき】を和【なご】ませた。",
+    "meaning": "His humor eased the atmosphere of the place."
+  },
+  {
+    "sentence": "そのニュースは人々の間に新たな関心を呼び起こした。",
+    "sentence_furigana": "そのニュースは人々【ひとびと】の 間【あいだ】に新【あら】たな関心【かんしん】を呼【よ】び起【お】こした。",
+    "meaning": "The news sparked new interest among people."
+  },
+  {
+    "sentence": "古い慣習を復活させることが議論されている。",
+    "sentence_furigana": "古【ふる】い慣習【かんしゅう】を復活【ふっかつ】させることが議論【ぎろん】されている。",
+    "meaning": "The revival of old customs is being discussed."
+  },
+  {
+    "sentence": "彼は商才に長けており、新しいビジネスを興すのが得意だ。",
+    "sentence_furigana": "彼【かれ】は商才【しょうさい】に長【た】けており、新【あたら】しいビジネスを興【おこ】すのが得意【とくい】だ。",
+    "meaning": "He is talented in business and good at starting new ventures."
+  },
+  {
+    "sentence": "この地域は過去の栄光を取り戻そうとしている。",
+    "sentence_furigana": "この地域【ちいき】は過去【かこ】の栄光【えいこう】を取り戻【と】り戻【もど】そうとしている。",
+    "meaning": "This region is trying to retrieve its past glory."
+  },
+  {
+    "sentence": "彼の講演は聴衆を魅了し、大きな反響を呼んだ。",
+    "sentence_furigana": "彼【かれ】の講演【こうえん】は聴衆【ちょうしゅう】を魅了【みりょう】し、大【おお】きな反響【はんきょう】を呼【よ】んだ。",
+    "meaning": "His lecture captivated the audience and received a great response."
+  },
+  {
+    "sentence": "新しい市場を開拓し、事業を拡大する計画だ。",
+    "sentence_furigana": "新【あたら】しい市場【しじょう】を開拓【かいたく】し、事業【じぎょう】を拡大【かくだい】する計画【けいかく】だ。",
+    "meaning": "The plan is to develop new markets and expand the business."
+  },
+  {
+    "sentence": "彼は古い寺を再建し、地域の活性化に貢献した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い寺【てら】を再建【さいけん】し、地域【ちいき】の活性化【かっせいか】に貢献【こうけん】した。",
+    "meaning": "He rebuilt the old temple and contributed to the revitalization of the region."
+  },
+  {
+    "sentence": "その物語は子供たちの想像力を掻き立てる。",
+    "sentence_furigana": "その物語【ものがたり】は子供【こども】たち の 想像力【そうぞうりょく】を掻【か】き立【た】てる。",
+    "meaning": "That story stimulates children's imagination."
+  },
+  {
+    "sentence": "彼は失われた友との友情を回復しようとした。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた友【とも】との友情【ゆうじょう】を回復【かいふく】しようとした。",
+    "meaning": "He tried to retrieve the friendship with his lost friend."
+  },
+  {
+    "sentence": "新しいアイデアは常に私たちの興味をそそる。",
+    "sentence_furigana": "新【あたら】しいアイデアは常【つね】に 私【わたし】たち の 興味【きょうみ】をそそる。",
+    "meaning": "New ideas always pique our interest."
+  },
+  {
+    "sentence": "古都を復興させ、観光客を呼び戻す計画が進んでいる。",
+    "sentence_furigana": "古都【こと】を復興【ふっこう】させ、観光客【かんこうきゃく】を呼【よ】び戻【もど】す計画【けいかく】が進【すす】んでいる。",
+    "meaning": "A plan to revive the ancient capital and bring back tourists is progressing."
+  },
+  {
+    "sentence": "彼の演奏は聴衆に深い感動を与えた。",
+    "sentence_furigana": "彼【かれ】の演奏【えんそう】は聴衆【ちょうしゅう】に深【ふか】い感動【かんどう】を与【あた】えた。",
+    "meaning": "His performance gave the audience a deep impression."
+  },
+  {
+    "sentence": "彼は新しい事業を立ち上げ、成功を収めた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業【じぎょう】を立【た】ち上【あ】げ、成功【せいこう】を収【おさ】めた。",
+    "meaning": "He launched a new business and achieved success."
+  },
+  {
+    "sentence": "この地域は文化遺産を復興させる努力を続けている。",
+    "sentence_furigana": "この地域【ちいき】は文化遺産【ぶんかいさん】を復興【ふっこう】させる努力【どりょく】を続【つづ】けている。",
+    "meaning": "This region continues its efforts to revive its cultural heritage."
+  },
+  {
+    "sentence": "その改革は多くの人々の関心を集めるだろう。",
+    "sentence_furigana": "その改革【かいかく】は多【おお】くの人々【ひとびと】の関心【かんしん】を集【あつ】めるだろう。",
+    "meaning": "The reform will likely gather the interest of many people."
+  },
+  {
+    "sentence": "彼の話は人々を楽しませ、元気を与えた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は人々【ひとびと】を楽【たの】しませ、元気【げんき】を与【あた】えた。",
+    "meaning": "His story entertained people and gave them energy."
+  },
+  {
+    "sentence": "失われた経済を復興させるための政策が検討されている。",
+    "sentence_furigana": "失【うしな】われた経済【けいざい】を復興【ふっこう】させるための政策【せいさく】が検討【けんとう】されている。",
+    "meaning": "Policies are being considered to revive the lost economy."
+  },
+  {
+    "sentence": "このゲームはプレイヤーに多くの楽しみを提供する。",
+    "sentence_furigana": "このゲームはプレイヤーに多【おお】くの楽【たの】しみを提供【ていきょう】する。",
+    "meaning": "This game provides a lot of pleasure to players."
+  },
+  {
+    "sentence": "彼は古い友人を訪ね、関係を修復した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い友人【ゆうじん】を訪【たず】ね、関係【かんけい】を修復【しゅうふく】した。",
+    "meaning": "He visited an old friend and repaired their relationship."
+  },
+  {
+    "sentence": "その新しい技術は産業界に大きな興奮をもたらした。",
+    "sentence_furigana": "その新【あたら】しい技術【ぎじゅつ】は産業界【さんぎょうかい】に大【おお】きな興奮【こうふん】をもたらした。",
+    "meaning": "The new technology brought great excitement to the industry."
+  },
+  {
+    "sentence": "彼は新しい事業を興すために多額の資金を調達した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業【じぎょう】を興【おこ】すために多額【たがく】の資金【しきん】を調達【ちょうたつ】した。",
+    "meaning": "He raised a large amount of funds to start a new business."
+  },
+  {
+    "sentence": "この地域の歴史的建造物を復元する必要がある。",
+    "sentence_furigana": "この地域【ちいき】の歴史的建造物【れきしてきけんぞうぶつ】を復元【ふくげん】する必要【ひつよう】がある。",
+    "meaning": "There is a need to restore the historical buildings of this region."
+  },
+  {
+    "sentence": "彼の弁論は聴衆の心を強く揺さぶった。",
+    "sentence_furigana": "彼【かれ】の弁論【べんろん】は聴衆【ちょうしゅう】の心【こころ】を強【つよ】く揺【ゆ】さぶった。",
+    "meaning": "His speech strongly moved the audience."
+  },
+  {
+    "sentence": "この文学作品は読者の知的好奇心を刺激する。",
+    "sentence_furigana": "この文学作品【ぶんがくさくひん】は読者【どくしゃ】の知的好奇心【ちてきこうきしん】を刺激【しげき】する。",
+    "meaning": "This literary work stimulates the reader's intellectual curiosity."
+  },
+  {
+    "sentence": "彼は古い遺産を保存し、未来へ継承したいと考えている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い遺産【いさん】を保存【ほぞん】し、未来【みらい】へ継承【けいしょう】したいと思【おも】っている。",
+    "meaning": "He wants to preserve the old heritage and pass it on to the future."
+  },
+  {
+    "sentence": "新しいビジネスモデルを開発し、市場を活性化させたい。",
+    "sentence_furigana": "新【あたら】しいビジネスモデルを開発【かいはつ】し、市場【しじょう】を活性化【かっせいか】させたい。",
+    "meaning": "I want to develop a new business model and revitalize the market."
+  },
+  {
+    "sentence": "その出来事は多くの人々に深い感動を与えた。",
+    "sentence_furigana": "その出来事【できごと】は多【おお】くの人々【ひとびと】に深【ふか】い感動【かんどう】を与【あた】えた。",
+    "meaning": "The event gave many people a deep impression."
+  },
+  {
+    "sentence": "彼は失われた文明の痕跡を復元しようとした。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた文明【ぶんめい】の痕跡【こんせき】を復元【ふくげん】しようとした。",
+    "meaning": "He tried to restore the traces of a lost civilization."
+  },
+  {
+    "sentence": "この地域の経済を再び興すための努力が必要です。",
+    "sentence_furigana": "この地域【ちいき】の経済【けいざい】を再【ふたた】び興【おこ】すための努力【どりょく】が必要【ひつよう】です。",
+    "meaning": "Efforts are needed to revive the economy of this region again."
+  },
+  {
+    "sentence": "彼の話は退屈な会議を少しでも楽しくした。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は退屈【たいくつ】な会議【かいぎ】を少【すこ】しでも楽【たの】しくした。",
+    "meaning": "His story made the boring meeting a little more enjoyable."
+  },
+  {
+    "sentence": "新しいイベントは多くの参加者の興味を引くでしょう。",
+    "sentence_furigana": "新【あたら】しいイベントは多【おお】くの参加者【さんかしゃ】の興味【きょうみ】を引【ひ】くでしょう。",
+    "meaning": "The new event will likely attract the interest of many participants."
+  },
+  {
+    "sentence": "彼は失われた芸術を復興させるために力を尽くした。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた芸術【げいじゅつ】を復興【ふっこう】させるために力【ちから】を尽【つ】くした。",
+    "meaning": "He devoted his efforts to revive the lost art."
+  },
+  {
+    "sentence": "この本は読む者に新しい視点を与える。",
+    "sentence_furigana": "この本【ほん】は読【よ】む者【もの】に新【あら】たな視点【してん】を与【あた】える。",
+    "meaning": "This book gives readers a new perspective."
+  },
+  {
+    "sentence": "彼らは地域の文化を復興させるために協力した。",
+    "sentence_furigana": "彼【かれ】ら は 地域【ちいき】の文化【ぶんか】を復興【ふっこう】させるために協力【きょうりょく】した。",
+    "meaning": "They cooperated to revive the local culture."
+  },
+  {
+    "sentence": "その計画は多くの人々に希望を与えた。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの人々【ひとびと】に希望【きぼう】を与【あた】えた。",
+    "meaning": "The plan gave hope to many people."
+  },
+  {
+    "sentence": "彼は古い商売を復活させ、成功を収めようとしている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い商売【しょうばい】を復活【ふっかつ】させ、成功【せいこう】を収【おさ】めようとしている。",
+    "meaning": "He is trying to revive an old business and achieve success."
+  },
+  {
+    "sentence": "このアニメは子供たちを楽しませるために作られた。",
+    "sentence_furigana": "このアニメは子供【こども】たちを楽し【たの】ませるために作【つく】られた。",
+    "meaning": "This anime was made to entertain children."
+  },
+  {
+    "sentence": "彼のスピーチは聴衆の興味を強く引きつけた。",
+    "sentence_furigana": "彼【かれ】のスピーチは聴衆【ちょうしゅう】の興味【きょうみ】を強【つよ】く引【ひ】きつけた。",
+    "meaning": "His speech strongly attracted the audience's interest."
+  },
+  {
+    "sentence": "失われた王国の歴史を復元することは困難だ。",
+    "sentence_furigana": "失【うしな】われた王国【おうこく】の歴史【れきし】を復元【ふくげん】することは困難【こんなん】だ。",
+    "meaning": "Restoring the history of the lost kingdom is difficult."
+  },
+  {
+    "sentence": "新しい事業を興すためには、十分な準備が必要だ。",
+    "sentence_furigana": "新【あたら】しい事業【じぎょう】を興【おこ】すためには、十分【じゅうぶん】な準備【じゅんび】が必要【ひつよう】だ。",
+    "meaning": "Sufficient preparation is necessary to start a new business."
+  },
+  {
+    "sentence": "その芸術祭は多くの文化的な関心を呼び起こした。",
+    "sentence_furigana": "その芸術祭【げいじゅつさい】は多【おお】くの文化的【ぶんかてき】な関心【かんしん】を呼【よ】び起【お】こした。",
+    "meaning": "The art festival aroused much cultural interest."
+  },
+  {
+    "sentence": "彼は失われた記憶を取り戻すために努力を続けた。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた記憶【きおく】を取り戻【と】り戻【もど】すために努力【どりょく】を続【つづ】けた。",
+    "meaning": "He continued to strive to retrieve his lost memories."
+  },
+  {
+    "sentence": "この詩は読む者の心を和ませる効果がある。",
+    "sentence_furigana": "この詩【し】は読【よ】む者【もの】の心【こころ】を和【なご】ませる効果【こうか】がある。",
+    "meaning": "This poem has the effect of soothing the reader's heart."
+  },
+  {
+    "sentence": "古い伝統的な技術を復興させ、継承していくことが大切だ。",
+    "sentence_furigana": "古【ふる】い伝統的【でんとうてき】な技術【ぎじゅつ】を復興【ふっこう】させ、継承【けいしょう】していくことが大切【たいせつ】だ。",
+    "meaning": "It is important to revive and pass on old traditional techniques."
+  },
+  {
+    "sentence": "彼の新しい小説は読者の興味を引くに違いない。",
+    "sentence_furigana": "彼【かれ】の 新【あたら】しい小説【しょうせつ】は読者【どくしゃ】の興味【きょうみ】を引【ひ】くに違【ちが】いない。",
+    "meaning": "His new novel is sure to attract the reader's interest."
+  },
+  {
+    "sentence": "この地域の経済を再興するために、新しい産業を興す必要がある。",
+    "sentence_furigana": "この地域【ちいき】の経済【けいざい】を再興【さいこう】するために、新【あたら】しい産業【さんぎょう】を興【おこ】す必要【ひつよう】がある。",
+    "meaning": "New industries need to be established to revive the region's economy."
+  },
+  {
+    "sentence": "そのパフォーマンスは観客を楽しませ、大きな拍手を浴びた。",
+    "sentence_furigana": "そのパフォーマンスは観客【かんきゃく】を楽し【たの】ませ、大【おお】きな拍手【はくしゅ】を浴【あ】びた。",
+    "meaning": "The performance entertained the audience and received great applause."
+  },
+  {
+    "sentence": "彼は失われた機会を取り戻すために再び努力を始めた。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた機会【きかい】を取り戻【と】り戻【もど】すために再【ふたた】び努力【どりょく】を始【はじ】めた。",
+    "meaning": "He started striving again to retrieve the lost opportunity."
+  },
+  {
+    "sentence": "新しい発見は科学者たちの間に大きな興奮をもたらした。",
+    "sentence_furigana": "新【あたら】しい発見【はっけん】は科学者【かがくしゃ】たち の 間【あいだ】に大【おお】きな興奮【こうふん】をもたらした。",
+    "meaning": "The new discovery brought great excitement among scientists."
+  },
+  {
+    "sentence": "古い城を復元し、観光名所にしたいと考えている。",
+    "sentence_furigana": "古【ふる】い城【しろ】を復元【ふくげん】し、観光名所【かんこうめいしょ】にしたいと思【おも】っている。",
+    "meaning": "We want to restore the old castle and make it a tourist attraction."
+  },
+  {
+    "sentence": "彼の言葉は聴衆の心を動かした。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は聴衆【ちょうしゅう】の心【こころ】を動【うご】かした。",
+    "meaning": "His words moved the audience's hearts."
+  },
+  {
+    "sentence": "この新しい音楽ジャンルは多くの若者の興味を引いている。",
+    "sentence_furigana": "この新【あたら】しい音楽ジャンルは多【おお】くの若者【わかもの】の興味【きょうみ】を引【ひ】いている。",
+    "meaning": "This new music genre is attracting the interest of many young people."
+  },
+  {
+    "sentence": "彼は事業を興し、成功を収めるために日々努力している。",
+    "sentence_furigana": "彼【かれ】は事業【じぎょう】を興【おこ】し、成功【せいこう】を収【おさ】めるために日々【ひび】努力【どりょく】している。",
+    "meaning": "He strives every day to start a business and achieve success."
+  },
+  {
+    "sentence": "失われた知識を復興させることが学術界の目標の一つだ。",
+    "sentence_furigana": "失【うしな】われた知識【ちしき】を復興【ふっこう】させることが学術界【がくじゅつかい】の目標【もくひょう】の一つだ。",
+    "meaning": "Reviving lost knowledge is one of the goals of the academic world."
+  },
+  {
+    "sentence": "その物語は子供たちの想像力をかき立て、冒険心を芽生えさせた。",
+    "sentence_furigana": "その物語【ものがたり】は子供【こども】たち の 想像力【そうぞうりょく】をかき立【た】て、冒険心【ぼうけんしん】を芽生【めば】えさせた。",
+    "meaning": "The story stimulated the children's imagination and sparked a sense of adventure."
+  },
+  {
+    "sentence": "彼のユーモアはパーティーの雰囲気をとても明るくした。",
+    "sentence_furigana": "彼【かれ】のユーモアはパーティーの雰囲気【ふんいき】をとても明【あか】るくした。",
+    "meaning": "His humor made the party atmosphere very bright."
+  },
+  {
+    "sentence": "この伝統的な祭りを復興させ、地域を活性化させたい。",
+    "sentence_furigana": "この伝統的【でんとうてき】な祭【まつ】りを復興【ふっこう】させ、地域【ちいき】を活性化【かっせいか】させたい。",
+    "meaning": "We want to revive this traditional festival and revitalize the region."
+  },
+  {
+    "sentence": "彼は失われた名誉を取り戻すために戦った。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた名誉【めいよ】を取り戻【と】り戻【もど】すために戦【たたか】った。",
+    "meaning": "He fought to retrieve his lost honor."
+  },
+  {
+    "sentence": "この新しい展示は多くの来場者の興味を引くだろう。",
+    "sentence_furigana": "この新【あたら】しい展示【てんじ】は多【おお】くの来場者【らいじょうしゃ】の興味【きょうみ】を引【ひ】くだろう。",
+    "meaning": "This new exhibition will likely attract the interest of many visitors."
+  },
+  {
+    "sentence": "彼の劇は観客を楽しませ、感動させた。",
+    "sentence_furigana": "彼【かれ】の劇【げき】は観客【かんきゃく】を楽し【たの】ませ、感動【かんどう】させた。",
+    "meaning": "His play entertained and moved the audience."
+  },
+  {
+    "sentence": "古い産業を復活させ、経済を活性化させることが重要だ。",
+    "sentence_furigana": "古【ふる】い産業【さんぎょう】を復活【ふっかつ】させ、経済【けいざい】を活性化【かっせいか】させることが重要【じゅうよう】だ。",
+    "meaning": "It is important to revive old industries and revitalize the economy."
+  },
+  {
+    "sentence": "そのプロジェクトは多くの人々の関心を呼び起こした。",
+    "sentence_furigana": "そのプロジェクトは多【おお】くの人々【ひとびと】の関心【かんしん】を呼【よ】び起【お】こした。",
+    "meaning": "The project aroused the interest of many people."
+  },
+  {
+    "sentence": "彼は新しい会社を興し、成功への道を歩み始めた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい会社【かいしゃ】を興【おこ】し、成功【せいこう】への道【みち】を歩【あゆ】み始【はじ】めた。",
+    "meaning": "He started a new company and began his path to success."
+  },
+  {
+    "sentence": "失われた技術を復興させ、未来に伝えていく必要がある。",
+    "sentence_furigana": "失【うしな】われた技術【ぎじゅつ】を復興【ふっこう】させ、未来【みらい】に伝【つた】えていく必要【ひつよう】がある。",
+    "meaning": "There is a need to revive lost technologies and pass them on to the future."
+  },
+  {
+    "sentence": "この地域の文化遺産を復元し、観光客を誘致したい。",
+    "sentence_furigana": "この地域【ちいき】の文化遺産【ぶんかいさん】を復元【ふくげん】し、観光客【かんこうきゃく】を誘致【ゆうち】したい。",
+    "meaning": "We want to restore the cultural heritage of this region and attract tourists."
+  },
+  {
+    "sentence": "彼の講演は聴衆に新たな視点を与えた。",
+    "sentence_furigana": "彼【かれ】の講演【こうえん】は聴衆【ちょうしゅう】に新【あら】たな視点【してん】を与【あた】えた。",
+    "meaning": "His lecture gave the audience a new perspective."
+  },
+  {
+    "sentence": "この自然公園は多くの人々に癒しと安らぎを提供している。",
+    "sentence_furigana": "この自然公園【しぜんこうえん】は多【おお】くの人々【ひとびと】に癒【いや】しと安【やす】らぎを提供【ていきょう】している。",
+    "meaning": "This nature park offers healing and peace to many people."
+  },
+  {
+    "sentence": "彼は失われた市場を取り戻すために新しい戦略を立てた。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた市場【しじょう】を取り戻【と】り戻【もど】すために新【あたら】しい戦略【せんりゃく】を立【た】てた。",
+    "meaning": "He devised a new strategy to regain the lost market."
+  },
+  {
+    "sentence": "その劇は観客を楽しませ、満足させた。",
+    "sentence_furigana": "その劇【げき】は観客【かんきゃく】を楽し【たの】ませ、満足【まんぞく】させた。",
+    "meaning": "The play entertained and satisfied the audience."
+  },
+  {
+    "sentence": "新しいプロジェクトは多くの人々の関心を集めている。",
+    "sentence_furigana": "新【あたら】しいプロジェクトは多【おお】くの人々【ひとびと】の関心【かんしん】を集【あつ】めている。",
+    "meaning": "The new project is attracting the interest of many people."
+  },
+  {
+    "sentence": "彼は失われた友情を回復するために連絡を取った。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた友情【ゆうじょう】を回復【かいふく】するために連絡【れんらく】を取【と】った。",
+    "meaning": "He contacted them to retrieve their lost friendship."
+  },
+  {
+    "sentence": "この地域は古い文化を復興させ、観光客を呼び込むことを目指している。",
+    "sentence_furigana": "この地域【ちいき】は古【ふる】い文化【ぶんか】を復興【ふっこう】させ、観光客【かんこうきゃく】を呼【よ】び込【こ】むことを目指【めざ】している。",
+    "meaning": "This region aims to revive its old culture and attract tourists."
+  },
+  {
+    "sentence": "彼の話は聴衆に活力を与え、元気付けた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は聴衆【ちょうしゅう】に活力【かつりょく】を与【あた】え、元気付【げんきづ】けた。",
+    "meaning": "His talk gave the audience vitality and cheered them up."
+  },
+  {
+    "sentence": "この映画は観客に多くの楽しみと感動を与えた。",
+    "sentence_furigana": "この映画【えいが】は観客【かんきゃく】に多【おお】くの楽【たの】しみと感動【かんどう】を与【あた】えた。",
+    "meaning": "This movie gave the audience a lot of pleasure and emotion."
+  },
+  {
+    "sentence": "彼は新しい事業を興すために多大な努力を要した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業【じぎょう】を興【おこ】すために多大【ただい】な努力【どりょく】を要【よう】した。",
+    "meaning": "It required great effort for him to start a new business."
+  },
+  {
+    "sentence": "失われた王国を復興させ、その歴史を研究することは学者の夢だ。",
+    "sentence_furigana": "失【うしな】われた王国【おうこく】を復興【ふっこう】させ、その歴史【れきし】を研究【けんきゅう】することは学者【がくしゃ】の夢【ゆめ】だ。",
+    "meaning": "Reviving a lost kingdom and studying its history is a scholar's dream."
+  },
+  {
+    "sentence": "その提案は多くの投資家の興味を引いた。",
+    "sentence_furigana": "その提案【ていあん】は多【おお】くの投資家【とうしか】の興味【きょうみ】を引【ひ】いた。",
+    "meaning": "The proposal attracted the interest of many investors."
+  },
+  {
+    "sentence": "彼は失われた家族との絆を取り戻したいと願っている。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた家族【かぞく】との絆【きずな】を取り戻【と】り戻【もど】したいと願【ねが】っている。",
+    "meaning": "He wishes to retrieve the bonds with his lost family."
+  },
+  {
+    "sentence": "この新しいアイデアは私たちの関心を強く刺激した。",
+    "sentence_furigana": "この新【あたら】しいアイデアは 私【わたし】たち の 関心【かんしん】を強【つよ】く刺激【しげき】した。",
+    "meaning": "This new idea strongly stimulated our interest."
+  },
+  {
+    "sentence": "古い伝統を復興させ、地域に活気を取り戻すことが重要だ。",
+    "sentence_furigana": "古【ふる】い伝統【でんとう】を復興【ふっこう】させ、地域【ちいき】に活気【かっき】を取り戻【と】り戻【もど】すことが重要【じゅうよう】だ。",
+    "meaning": "It is important to revive old traditions and bring vitality back to the region."
+  },
+  {
+    "sentence": "彼の話は聴衆に喜びと感動を与えた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は聴衆【ちょうしゅう】に喜【よろこ】びと感動【かんどう】を与【あた】えた。",
+    "meaning": "His talk gave the audience joy and emotion."
+  },
+  {
+    "sentence": "この新しい技術は多くの企業にとって大きなチャンスとなるだろう。",
+    "sentence_furigana": "この新【あたら】しい技術【ぎじゅつ】は多【おお】くの企業【きぎょう】にとって大【おお】きなチャンスとなるだろう。",
+    "meaning": "This new technology will be a great opportunity for many companies."
+  },
+  {
+    "sentence": "彼は失われた名声を取り戻すために懸命に努力した。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた名声【めいせい】を取り戻【と】り戻【もど】すために懸命【けんめい】に努力【どりょく】した。",
+    "meaning": "He worked hard to retrieve his lost fame."
+  },
+  {
+    "sentence": "その文学作品は読者の想像力を豊かに刺激する。",
+    "sentence_furigana": "その文学作品【ぶんがくさくひん】は読者【どくしゃ】の想像力【そうぞうりょく】を豊【ゆた】かに刺激【しげき】する。",
+    "meaning": "That literary work richly stimulates the reader's imagination."
+  },
+  {
+    "sentence": "彼は失われた技術を復興させ、その価値を再認識させた。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた技術【ぎじゅつ】を復興【ふっこう】させ、その価値【かち】を再認識【さいにんしき】させた。",
+    "meaning": "He revived the lost technology and made people recognize its value again."
+  },
+  {
+    "sentence": "この地域は古い活気を取り戻すために、新しい祭りを企画している。",
+    "sentence_furigana": "この地域【ちいき】は古【ふる】い活気【かっき】を取り戻【と】り戻【もど】すために、新【あたら】しい祭【まつ】りを企画【きかく】している。",
+    "meaning": "This region is planning a new festival to bring back its old vitality."
+  }
+]

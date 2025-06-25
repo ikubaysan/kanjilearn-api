@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "彼は部下を率いて前進した。",
+    "sentence_furigana": "彼【かれ】は部下【ぶか】を率【ひき】いて前進【ぜんしん】した。",
+    "meaning": "He led his subordinates forward."
+  },
+  {
+    "sentence": "この商品の売上率は高い。",
+    "sentence_furigana": "この商品【しょうひん】の売上率【うりあげりつ】は高【たか】い。",
+    "meaning": "The sales rate of this product is high."
+  },
+  {
+    "sentence": "平均失業率は低下傾向にある。",
+    "sentence_furigana": "平均失業率【へいきんしつぎょうりつ】は低下傾向【ていかけいこう】にある。",
+    "meaning": "The average unemployment rate is on a downward trend."
+  },
+  {
+    "sentence": "その会社の成長率は著しい。",
+    "sentence_furigana": "その会社【かいしゃ】の成長率【せいちょうりつ】は著【いちじる】しい。",
+    "meaning": "The company's growth rate is remarkable."
+  },
+  {
+    "sentence": "参加率は予想を上回った。",
+    "sentence_furigana": "参加率【さんかりつ】は予想【よそう】を上回【うわまわ】った。",
+    "meaning": "The participation rate exceeded expectations."
+  },
+  {
+    "sentence": "合格率は過去最高を記録した。",
+    "sentence_furigana": "合格率【ごうかくりつ】は過去最高【かこさいこう】を記録【きろく】した。",
+    "meaning": "The pass rate recorded the highest ever."
+  },
+  {
+    "sentence": "この地域は人口増加率が高い。",
+    "sentence_furigana": "この地域【ちいき】は人口増加率【じんこうぞうかりつ】が高【たか】い。",
+    "meaning": "This region has a high population growth rate."
+  },
+  {
+    "sentence": "新製品の普及率はまだ低い。",
+    "sentence_furigana": "新製品【しんせいひん】の普及率【ふきゅうりつ】はまだ低【ひく】い。",
+    "meaning": "The penetration rate of the new product is still low."
+  },
+  {
+    "sentence": "彼はチームを率いるキャプテンだ。",
+    "sentence_furigana": "彼【かれ】はチームを率【ひき】いるキャプテンだ。",
+    "meaning": "He is the captain leading the team."
+  },
+  {
+    "sentence": "投資収益率は非常に良好です。",
+    "sentence_furigana": "投資収益率【とうししゅうえきりつ】は非常【ひじょう】に良好【りょうこう】です。",
+    "meaning": "The investment return rate is very good."
+  },
+  {
+    "sentence": "この国の生産性率は世界でもトップクラスだ。",
+    "sentence_furigana": "この国【くに】の生産性率【せいさんせいりつ】は世界【せかい】でもトップクラスだ。",
+    "meaning": "The productivity rate of this country is top-class in the world."
+  },
+  {
+    "sentence": "イベントの成功率は高く見積もられている。",
+    "sentence_furigana": "イベントの成功率【せいこうりつ】は高【たか】く見積【みつ】もられている。",
+    "meaning": "The success rate of the event is estimated to be high."
+  },
+  {
+    "sentence": "彼はプロジェクトの責任者を率いた。",
+    "sentence_furigana": "彼【かれ】はプロジェクトの責任者【せきにんしゃ】を率【ひき】いた。",
+    "meaning": "He led the person in charge of the project."
+  },
+  {
+    "sentence": "この株の配当率は年々増加している。",
+    "sentence_furigana": "この株【かぶ】の配当率【はいとうりつ】は年々【ねんねん】増加【ぞうか】している。",
+    "meaning": "The dividend rate of this stock is increasing year by year."
+  },
+  {
+    "sentence": "その事故による死亡率は低かった。",
+    "sentence_furigana": "その事故【じこ】による死亡率【しぼうりつ】は低【ひく】かった。",
+    "meaning": "The mortality rate from the accident was low."
+  },
+  {
+    "sentence": "彼は改革を率いるリーダーシップを発揮した。",
+    "sentence_furigana": "彼【かれ】は改革【かいかく】を率【ひき】いるリーダーシップを発揮【はっき】した。",
+    "meaning": "He demonstrated leadership in leading the reform."
+  },
+  {
+    "sentence": "この製品の不良率は許容範囲内です。",
+    "sentence_furigana": "この製品【せいひん】の不良率【ふりょうりつ】は許容範囲内【きょようはんいない】です。",
+    "meaning": "The defect rate of this product is within the acceptable range."
+  },
+  {
+    "sentence": "退職率は過去10年間で最も低い。",
+    "sentence_furigana": "退職率【たいしょくりつ】は過去10年間【かこじゅうねんかん】で最も低【もっともひく】い。",
+    "meaning": "The turnover rate is the lowest in the past 10 years."
+  },
+  {
+    "sentence": "彼は多くの支持者を率いてデモを行った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの支持者【しじしゃ】を率【ひき】いてデモを行【おこな】った。",
+    "meaning": "He led many supporters in a demonstration."
+  },
+  {
+    "sentence": "この車の燃費率は非常に良い。",
+    "sentence_furigana": "この車【くるま】の燃費率【ねんぴりつ】は非常【ひじょう】に良【よ】い。",
+    "meaning": "The fuel efficiency of this car is very good."
+  },
+  {
+    "sentence": "教育への投資率は経済成長と相関がある。",
+    "sentence_furigana": "教育【きょういく】への投資率【とうしりつ】は経済成長【けいざいせいちょう】と相関【そうかん】がある。",
+    "meaning": "The investment rate in education is correlated with economic growth."
+  },
+  {
+    "sentence": "彼女は経験豊富なチームを率いた。",
+    "sentence_furigana": "彼女【かのじょ】は経験豊富【けいけんほうふ】なチームを率【ひき】いた。",
+    "meaning": "She led an experienced team."
+  },
+  {
+    "sentence": "この国のiteracy rate is still high.",
+    "sentence_furigana": "この国【くに】のiteracy rate is still high.",
+    "meaning": "The illiteracy rate of this country is still high."
+  },
+  {
+    "sentence": "率直な意見を求めています。",
+    "sentence_furigana": "率直【そっちょく】な意見【いけん】を求【もと】めています。",
+    "meaning": "We are seeking frank opinions."
+  },
+  {
+    "sentence": "彼は率先して行動を開始した。",
+    "sentence_furigana": "彼【かれ】は率先【そっせん】して行動【こうどう】を開始【かいし】した。",
+    "meaning": "He took the initiative to start the action."
+  },
+  {
+    "sentence": "その会社の業績率は驚異的だ。",
+    "sentence_furigana": "その会社【かいしゃ】の業績率【ぎょうせきりつ】は驚異的【きょういてき】だ。",
+    "meaning": "The company's performance rate is astonishing."
+  },
+  {
+    "sentence": "この政策の成功率は不確実です。",
+    "sentence_furigana": "この政策【せいさく】の成功率【せいこうりつ】は不確実【ふかくじつ】です。",
+    "meaning": "The success rate of this policy is uncertain."
+  },
+  {
+    "sentence": "彼は数千人を率いる指揮官だ。",
+    "sentence_furigana": "彼【かれ】は数千人【すうせんにん】を率【ひき】いる指揮官【しきかん】だ。",
+    "meaning": "He is a commander leading thousands of people."
+  },
+  {
+    "sentence": "このプロジェクトの完了率は90%に達した。",
+    "sentence_furigana": "このプロジェクトの完了率【かんりょうりつ】は90%に達【たっ】した。",
+    "meaning": "The completion rate of this project reached 90%."
+  },
+  {
+    "sentence": "失業率は依然として高い水準にある。",
+    "sentence_furigana": "失業率【しつぎょうりつ】は依然【いぜん】として高【たか】い水準【すいじゅん】にある。",
+    "meaning": "The unemployment rate remains at a high level."
+  },
+  {
+    "sentence": "彼は大勢の観衆を率いてパレードを行った。",
+    "sentence_furigana": "彼【かれ】は多勢【たぜい】の観衆【かんしゅう】を率【ひき】いてパレードを行【おこな】った。",
+    "meaning": "He led a large crowd in a parade."
+  },
+  {
+    "sentence": "この地域での疾病率は増加傾向にある。",
+    "sentence_furigana": "この地域【ちいき】での疾病率【しっぺいりつ】は増加傾向【ぞうかけいこう】にある。",
+    "meaning": "The disease rate in this region is on the rise."
+  },
+  {
+    "sentence": "彼は新しいビジネスモデルを率いる。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいビジネスモデルを率【ひき】いる。",
+    "meaning": "He leads a new business model."
+  },
+  {
+    "sentence": "この車の販売率は市場でトップだ。",
+    "sentence_furigana": "この車【くるま】の販売率【はんばいりつ】は市場【しじょう】でトップだ。",
+    "meaning": "The sales rate of this car is top in the market."
+  },
+  {
+    "sentence": "その団体の組織率は非常に高い。",
+    "sentence_furigana": "その団体【だんたい】の組織率【そしきりつ】は非常【ひじょう】に高【たか】い。",
+    "meaning": "The organization rate of that group is very high."
+  },
+  {
+    "sentence": "彼は改革運動を率いた指導者だった。",
+    "sentence_furigana": "彼【かれ】は改革運動【かいかくうんどう】を率【ひき】いた指導者【しどうしゃ】だった。",
+    "meaning": "He was a leader who spearheaded the reform movement."
+  },
+  {
+    "sentence": "この薬の有効率は95%です。",
+    "sentence_furigana": "この薬【くすり】の有効率【ゆうこうりつ】は95%です。",
+    "meaning": "The efficacy rate of this medicine is 95%."
+  },
+  {
+    "sentence": "この地域は人口密度率が低い。",
+    "sentence_furigana": "この地域【ちいき】は人口密度率【じんこうみつどりつ】が低【ひく】い。",
+    "meaning": "This region has a low population density rate."
+  },
+  {
+    "sentence": "彼は兵を率いて戦場に向かった。",
+    "sentence_furigana": "彼【かれ】は兵【へい】を率【ひき】いて戦場【せんじょう】に向【む】かった。",
+    "meaning": "He led his soldiers to the battlefield."
+  },
+  {
+    "sentence": "このサービスの解約率は増加している。",
+    "sentence_furigana": "このサービスのアyakuyōrituは増加している。",
+    "meaning": "The cancellation rate for this service is increasing."
+  },
+  {
+    "sentence": "彼は会社の未来を率いていく。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の未来【みらい】を率【ひき】いていく。",
+    "meaning": "He will lead the future of the company."
+  },
+  {
+    "sentence": "この国の識字率は徐々に向上している。",
+    "sentence_furigana": "この国【くに】の識字率【しきじりつ】は徐々【じょじょ】に向上【こうじょう】している。",
+    "meaning": "The literacy rate of this country is gradually improving."
+  },
+  {
+    "sentence": "彼はチームの得点率を向上させた。",
+    "sentence_furigana": "彼【かれ】はチームの得点率【とくてんりつ】を向上【こうじょう】させた。",
+    "meaning": "He improved the team's scoring rate."
+  },
+  {
+    "sentence": "この製品の回収率は目標を超えた。",
+    "sentence_furigana": "この製品【せいひん】の回収率【かいしゅうりつ】は目標【もくひょう】を超【こ】えた。",
+    "meaning": "The recovery rate for this product exceeded the target."
+  },
+  {
+    "sentence": "彼はグループのリーダーとして率いている。",
+    "sentence_furigana": "彼【かれ】はグループのリーダーとして率【ひき】いている。",
+    "meaning": "He is leading as the leader of the group."
+  },
+  {
+    "sentence": "この国の経済成長率は鈍化している。",
+    "sentence_furigana": "この国【くに】の経済成長率【けいざいせいちょうりつ】は鈍化【どんか】している。",
+    "meaning": "The economic growth rate of this country is slowing down."
+  },
+  {
+    "sentence": "彼は多くのボランティアを率いて清掃活動を行った。",
+    "sentence_furigana": "彼【かれ】は多【おお】くのボランティアを率【ひき】いて清掃活動【せいそうかつどう】を行【おこな】った。",
+    "meaning": "He led many volunteers in a cleanup activity."
+  },
+  {
+    "sentence": "この会議の出席率は非常に高い。",
+    "sentence_furigana": "この会議【かいぎ】の出席率【しゅっせきりつ】は非常【ひじょう】に高【たか】い。",
+    "meaning": "The attendance rate for this meeting is very high."
+  },
+  {
+    "sentence": "彼は探検隊を率いて未踏の地へ向かった。",
+    "sentence_furigana": "彼【かれ】は探検隊【たんけんたい】を率【ひき】いて未踏【みとう】の地【ち】へ向【む】かった。",
+    "meaning": "He led an expedition to an unexplored land."
+  },
+  {
+    "sentence": "この地域での犯罪率は低下している。",
+    "sentence_furigana": "この地域【ちいき】での犯罪率【はんざいりつ】は低下【ていか】している。",
+    "meaning": "The crime rate in this region is decreasing."
+  },
+  {
+    "sentence": "彼は企業の経営を率いる。",
+    "sentence_furigana": "彼【かれ】は企業【きぎょう】の経営【けいえい】を率【ひき】いる。",
+    "meaning": "He leads the management of the company."
+  },
+  {
+    "sentence": "この商品のリピート率は高い。",
+    "sentence_furigana": "この商品【しょうひん】のリピート率は高【たか】い。",
+    "meaning": "The repeat purchase rate for this product is high."
+  },
+  {
+    "sentence": "彼は運動会で選手団を率いた。",
+    "sentence_furigana": "彼【かれ】は運動会【うんどうかい】で選手団【せんしゅだん】を率【ひき】いた。",
+    "meaning": "He led the team of athletes at the sports festival."
+  },
+  {
+    "sentence": "この島の観光客増加率は顕著だ。",
+    "sentence_furigana": "この島【しま】の観光客増加率【かんこうきゃくぞうかりつ】は顕著【けんちょ】だ。",
+    "meaning": "The tourist growth rate of this island is remarkable."
+  },
+  {
+    "sentence": "彼は平和のために人々を率いた。",
+    "sentence_furigana": "彼【かれ】は平和【へいわ】のために人々【ひとびと】を率【ひき】いた。",
+    "meaning": "He led people for peace."
+  },
+  {
+    "sentence": "この調査の回答率は予想以上に良かった。",
+    "sentence_furigana": "この調査【ちょうさ】の回答率【かいとうりつ】は予想以上【よそういじょう】に良【よ】かった。",
+    "meaning": "The response rate for this survey was better than expected."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトのリーダーとして率いている。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいプロジェクトのリーダーとして率【ひき】いている。",
+    "meaning": "He is leading as the leader of the new project."
+  },
+  {
+    "sentence": "この国の平均寿命率は上昇している。",
+    "sentence_furigana": "この国【くに】の平均寿命率【へいきんじゅみょうりつ】は上昇【じょうしょう】している。",
+    "meaning": "The average life expectancy rate of this country is increasing."
+  },
+  {
+    "sentence": "彼は歴史上の人物として多くの人々を率いた。",
+    "sentence_furigana": "彼【かれ】は歴史上【れきしじょう】の人物【じんぶつ】として多【おお】くの人々【ひとびと】を率【ひき】いた。",
+    "meaning": "He led many people as a historical figure."
+  },
+  {
+    "sentence": "この統計における誤差率は小さい。",
+    "sentence_furigana": "この統計【とうけい】における誤差率【ごさりつ】は小【ちい】さい。",
+    "meaning": "The error rate in this statistic is small."
+  },
+  {
+    "sentence": "彼は会社を設立し、自身で率いている。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】を設立【せつりつ】し、自身【じしん】で率【ひき】いている。",
+    "meaning": "He founded the company and leads it himself."
+  },
+  {
+    "sentence": "この地域でのインフレ率は制御されている。",
+    "sentence_furigana": "この地域【ちいき】でのインフレ率は制御【せいぎょ】されている。",
+    "meaning": "The inflation rate in this region is under control."
+  },
+  {
+    "sentence": "彼は運動チームのキャプテンとして率いる。",
+    "sentence_furigana": "彼【かれ】は運動チーム【うんどうチーム】のキャプテンとして率【ひき】いる。",
+    "meaning": "He leads as the captain of the sports team."
+  },
+  {
+    "sentence": "この商品の満足率は顧客調査で明らかになった。",
+    "sentence_furigana": "この商品【しょうひん】の満足率【まんぞくりつ】は顧客調査【こきゃくちょうさ】で明【あき】らかになった。",
+    "meaning": "The customer satisfaction rate for this product became clear in a customer survey."
+  },
+  {
+    "sentence": "彼は新しい政党を率いることを決意した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい政党【せいとう】を率【ひき】いることを決意【けつい】した。",
+    "meaning": "He decided to lead a new political party."
+  },
+  {
+    "sentence": "この国の輸出率は増加傾向にある。",
+    "sentence_furigana": "この国【くに】の輸出率【ゆしゅつりつ】は増加傾向【ぞうかけいこう】にある。",
+    "meaning": "The export rate of this country is on the rise."
+  },
+  {
+    "sentence": "彼は自身の会社を率いて成功を収めた。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の会社【かいしゃ】を率【ひき】いて成功【せいこう】を収【おさ】めた。",
+    "meaning": "He led his own company to success."
+  },
+  {
+    "sentence": "このデータセットにおける外れ値率は低い。",
+    "sentence_furigana": "このデータセットにおける外れ値率【はずるねりつ】は低【ひく】い。",
+    "meaning": "The outlier rate in this dataset is low."
+  },
+  {
+    "sentence": "彼は学生たちを率いてボランティア活動に参加した。",
+    "sentence_furigana": "彼【かれ】は学生【がくせい】たちを率【ひき】いてボランティア活動【かつどう】に参加【さんか】した。",
+    "meaning": "He led students to participate in volunteer activities."
+  },
+  {
+    "sentence": "このプロジェクトの完了率は予定通りだ。",
+    "sentence_furigana": "このプロジェクトの完了率【かんりょうりつ】は予定通【よていどお】りだ。",
+    "meaning": "The completion rate of this project is as scheduled."
+  },
+  {
+    "sentence": "彼は文化交流の先駆者として人々を率いた。",
+    "sentence_furigana": "彼【かれ】は文化交流【ぶんかこうりゅう】の先駆者【せんくしゃ】として人々【ひとびと】を率【ひき】いた。",
+    "meaning": "He led people as a pioneer of cultural exchange."
+  },
+  {
+    "sentence": "この製品の返品率は予想より多かった。",
+    "sentence_furigana": "この製品【せいひん】の返品率【へんぴんりつ】は予想【よそう】より多【おお】かった。",
+    "meaning": "The return rate for this product was higher than expected."
+  },
+  {
+    "sentence": "彼は地域住民を率いて街の美化に努めた。",
+    "sentence_furigana": "彼【かれ】は地域住民【ちいきじゅうみん】を率【ひき】いて街【まち】の美化【びか】に努【つと】めた。",
+    "meaning": "He led the local residents and strived for the beautification of the town."
+  },
+  {
+    "sentence": "この国の平均賃金率は上昇傾向にある。",
+    "sentence_furigana": "この国【くに】の平均賃金率【へいきんちんぎんりつ】は上昇傾向【じょうしょうけいこう】にある。",
+    "meaning": "The average wage rate of this country is on the rise."
+  },
+  {
+    "sentence": "彼は家族を率いて新しい生活を始めた。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】を率【ひき】いて新【あら】しい生活【せいかつ】を始【はじ】めた。",
+    "meaning": "He led his family and started a new life."
+  },
+  {
+    "sentence": "この調査における欠損値率は無視できるほど小さい。",
+    "sentence_furigana": "この調査【ちょうさ】における欠損値率【けっそんちりつ】は無視【むし】できるほど小【ちい】さい。",
+    "meaning": "The missing value rate in this survey is negligibly small."
+  },
+  {
+    "sentence": "彼は多くの患者を率いて治療法を開発した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの患者【かんじゃ】を率【ひき】いて治療法【ちりょうほう】を開発【かいはつ】した。",
+    "meaning": "He led many patients to develop a treatment method."
+  },
+  {
+    "sentence": "この店の顧客維持率は非常に高い。",
+    "sentence_furigana": "この店【みせ】の顧客維持率【こきゃくいじりつ】は非常【ひじょう】に高【たか】い。",
+    "meaning": "The customer retention rate of this store is very high."
+  },
+  {
+    "sentence": "彼は改革を率いる強力なリーダーシップを持っていた。",
+    "sentence_furigana": "彼【かれ】は改革【かいかく】を率【ひき】いる強力【きょうりょく】なリーダーシップを持【も】っていた。",
+    "meaning": "He had strong leadership to spearhead reforms."
+  },
+  {
+    "sentence": "この国の貿易収支率は黒字だ。",
+    "sentence_furigana": "この国【くに】の貿易収支率【ぼうえきしゅうしりつ】は黒字【くろじ】だ。",
+    "meaning": "The trade balance rate of this country is in surplus."
+  },
+  {
+    "sentence": "彼は自らの軍隊を率いて勝利を収めた。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの軍隊【ぐんたい】を率【ひき】いて勝利【しょうり】を収【おさ】めた。",
+    "meaning": "He led his own army to victory."
+  },
+  {
+    "sentence": "この施設の稼働率は計画通りだ。",
+    "sentence_furigana": "この施設【しせつ】の稼働率【かどうりつ】は計画通【けいかくどお】りだ。",
+    "meaning": "The operating rate of this facility is as planned."
+  },
+  {
+    "sentence": "彼はチームを率いることに情熱を燃やしている。",
+    "sentence_furigana": "彼【かれ】はチームを率【ひき】いることに情熱【じょうねつ】を燃【も】やしている。",
+    "meaning": "He is passionate about leading the team."
+  },
+  {
+    "sentence": "この国の失業率は他の国々と比較して低い。",
+    "sentence_furigana": "この国【くに】の失業率【しつぎょうりつ】は他【ほか】の国々【くにぐに】と比【くら】べて低【ひく】い。",
+    "meaning": "The unemployment rate of this country is low compared to other countries."
+  },
+  {
+    "sentence": "彼は芸術家たちを率いて展覧会を企画した。",
+    "sentence_furigana": "彼【かれ】は芸術家【げいじゅつか】たちを率【ひき】いて展覧会【てんらんかい】を企画【きかく】した。",
+    "meaning": "He led artists to plan an exhibition."
+  },
+  {
+    "sentence": "この株の配当率が上昇する見込みです。",
+    "sentence_furigana": "この株【かぶ】の配当率【はいとうりつ】が上昇【じょうしょう】する見込【みこ】みです。",
+    "meaning": "The dividend rate of this stock is expected to rise."
+  },
+  {
+    "sentence": "彼はその会社の経営陣を率いた。",
+    "sentence_furigana": "彼【かれ】は社【しゃ】の経営陣【けいえいじん】を率【ひき】いた。",
+    "meaning": "He led the management of that company."
+  },
+  {
+    "sentence": "この地域の治安率は改善されている。",
+    "sentence_furigana": "この地域【ちいき】の治安率【ちあんりつ】は改善【かいぜん】されている。",
+    "meaning": "The public safety rate in this region is improving."
+  },
+  {
+    "sentence": "彼は多数の支持者を率いて選挙運動を行った。",
+    "sentence_furigana": "彼【かれ】は多数【たすう】の支持者【しじしゃ】を率【ひき】いて選挙運動【せんきゅうんどう】を行【おこな】った。",
+    "meaning": "He led many supporters in his election campaign."
+  },
+  {
+    "sentence": "この製品の耐久率は非常に高い。",
+    "sentence_furigana": "この製品【せいひん】の耐久率【たいきゅうりつ】は非常【ひじょう】に高【たか】い。",
+    "meaning": "The durability rate of this product is very high."
+  },
+  {
+    "sentence": "彼は組合員を率いて交渉を進めた。",
+    "sentence_furigana": "彼【かれ】は組合員【くみあいいん】を率【ひき】いて交渉【こうしょう】を進【すす】めた。",
+    "meaning": "He led the union members and proceeded with negotiations."
+  },
+  {
+    "sentence": "この国の出生率は低下傾向にある。",
+    "sentence_furigana": "この国【くに】の出生率【しゅっしょうりつ】は低下傾向【ていかけいこう】にある。",
+    "meaning": "The birth rate of this country is on a downward trend."
+  },
+  {
+    "sentence": "彼は調査チームを率いて現場に向かった。",
+    "sentence_furigana": "彼【かれ】は調査チーム【ちょうさチーム】を率【ひき】いて現場【げんば】に向【む】かった。",
+    "meaning": "He led the investigation team to the site."
+  },
+  {
+    "sentence": "このプロジェクトの成功率は向上すると予測される。",
+    "sentence_furigana": "このプロジェクトの成功率【せいこうりつ】は向上【こうじょう】すると予測【よそく】される。",
+    "meaning": "The success rate of this project is expected to improve."
+  },
+  {
+    "sentence": "彼は改革を率いる強い意志を持っていた。",
+    "sentence_furigana": "彼【かれ】は改革【かいかく】を率【ひき】いる強【つよ】い意志【いし】を持【も】っていた。",
+    "meaning": "He had a strong will to lead the reform."
+  },
+  {
+    "sentence": "この統計の信頼率は95%です。",
+    "sentence_furigana": "この統計【とうけい】の信頼率【しんらいりつ】は95%です。",
+    "meaning": "The reliability rate of this statistic is 95%."
+  },
+  {
+    "sentence": "彼は従業員を率いて会社の目標達成を目指した。",
+    "sentence_furigana": "彼【かれ】は従業員【じゅうぎょういん】を率【ひき】いて会社【かいしゃ】の目標達成【もくひょうたっせい】を目指【めざ】した。",
+    "meaning": "He led the employees towards achieving the company's goals."
+  },
+  {
+    "sentence": "この地域の開発率は順調に進んでいる。",
+    "sentence_furigana": "この地域【ちいき】の開発率【かいはつりつ】は順調【じゅんちょう】に進【すす】んでいる。",
+    "meaning": "The development rate of this region is progressing smoothly."
+  },
+  {
+    "sentence": "彼はチームを率いるリーダーとして尊敬されている。",
+    "sentence_furigana": "彼【かれ】はチームを率【ひき】いるリーダーとして尊敬【そんけい】されている。",
+    "meaning": "He is respected as the leader leading the team."
+  },
+  {
+    "sentence": "この株のPER率は市場平均より低い。",
+    "sentence_furigana": "この株【かぶ】のPER率は市場平均【しじょうへいきん】より低【ひく】い。",
+    "meaning": "The P/E ratio of this stock is lower than the market average."
+  },
+  {
+    "sentence": "彼は市民を率いて平和的な抗議活動を行った。",
+    "sentence_furigana": "彼【かれ】は市民【しみん】を率【ひき】いて平和的【へいわてき】な抗議活動【こうぎかつどう】を行【おこな】った。",
+    "meaning": "He led the citizens in a peaceful protest."
+  },
+  {
+    "sentence": "このファイルの圧縮率は高い。",
+    "sentence_furigana": "このファイルのアッシュくりつは高【たか】い。",
+    "meaning": "The compression rate of this file is high."
+  },
+  {
+    "sentence": "彼はチームを率いる経験豊富だ。",
+    "sentence_furigana": "彼【かれ】はチームを率【ひき】いる経験豊富【けいけんほうふ】だ。",
+    "meaning": "He is experienced in leading a team."
+  },
+  {
+    "sentence": "この地域の観光客誘致率は成功している。",
+    "sentence_furigana": "この地域【ちいき】の観光客誘致率【かんこうきゃくゆうちりつ】は成功【せいこう】している。",
+    "meaning": "The tourist attraction rate of this region is successful."
+  },
+  {
+    "sentence": "彼はプロジェクトの成功を率いた。",
+    "sentence_furigana": "彼【かれ】はプロジェクトの成功【せいこう】を率【ひき】いた。",
+    "meaning": "He led the success of the project."
+  },
+  {
+    "sentence": "この企業のROE率は業界平均を上回っている。",
+    "sentence_furigana": "この企業【きぎょう】のROE率は業界平均【ぎょうかいへいきん】を上回【うわまわ】っている。",
+    "meaning": "The ROE of this company exceeds the industry average."
+  }
+]

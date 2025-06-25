@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "老人は公園で将棋を指していた。",
+    "sentence_furigana": "老人【ろうじん】は公園【こうえん】で将棋【しょうぎ】を指【さ】していた。",
+    "meaning": "The old man was playing shogi in the park."
+  },
+  {
+    "sentence": "彼は老いてもなお元気だ。",
+    "sentence_furigana": "彼【かれ】は老【お】いてもなお元気【げんき】だ。",
+    "meaning": "He is still energetic even though he has grown old."
+  },
+  {
+    "sentence": "老人ホームに入居する。",
+    "sentence_furigana": "老人【ろうじん】ホームに入居【にゅうきょ】する。",
+    "meaning": "To move into a nursing home."
+  },
+  {
+    "sentence": "彼女は年齢に似合わず老けて見える。",
+    "sentence_furigana": "彼女【かのじょ】は年齢【ねんれい】に似合【にあ】わず老【ふ】けて見【み】える。",
+    "meaning": "She looks old for her age."
+  },
+  {
+    "sentence": "老夫婦は仲睦まじく暮らしていた。",
+    "sentence_furigana": "老夫婦【ろうふうふ】は仲睦【なかむつ】まじく暮【く】らしていた。",
+    "meaning": "The elderly couple lived together in harmony."
+  },
+  {
+    "sentence": "老朽化したビルを取り壊す。",
+    "sentence_furigana": "老朽化【ろうきゅうか】したビルを取【と】り壊【こわ】す。",
+    "meaning": "To demolish the dilapidated building."
+  },
+  {
+    "sentence": "老体に鞭打って働く。",
+    "sentence_furigana": "老体【ろいたい】に鞭【むち】打【う】って働【はたら】く。",
+    "meaning": "To work hard despite one's old age."
+  },
+  {
+    "sentence": "老いの春を迎える。",
+    "sentence_furigana": "老【お】いの春【はる】を迎【むか】える。",
+    "meaning": "To greet the spring of old age."
+  },
+  {
+    "sentence": "老眼で新聞を読むのが辛い。",
+    "sentence_furigana": "老眼【ろうがん】で新聞【しんぶん】を読【よ】むのが辛【つら】い。",
+    "meaning": "It is difficult to read the newspaper due to presbyopia."
+  },
+  {
+    "sentence": "老舗の店は趣がある。",
+    "sentence_furigana": "老舗【しにせ】の店【みせ】は趣【おもむき】がある。",
+    "meaning": "The long-established shop has a certain charm."
+  },
+  {
+    "sentence": "老いた犬がゆっくりと歩いていた。",
+    "sentence_furigana": "老【お】いた犬【いぬ】がゆっくりと歩【ある】いていた。",
+    "meaning": "The old dog was walking slowly."
+  },
+  {
+    "sentence": "老親の世話をする。",
+    "sentence_furigana": "老親【ろうしん】の世話【せわ】をする。",
+    "meaning": "To take care of one's elderly parents."
+  },
+  {
+    "sentence": "老子の思想に触れる。",
+    "sentence_furigana": "老子【ろうし】の思想【しそう】に触【ふ】れる。",
+    "meaning": "To learn about the philosophy of Lao Tzu."
+  },
+  {
+    "sentence": "老いてますます盛んになる。",
+    "sentence_furigana": "老【お】いてますます盛【さか】んになる。",
+    "meaning": "To become more prosperous in old age."
+  },
+  {
+    "sentence": "老若男女が集まるイベント。",
+    "sentence_furigana": "老若男女【ろうにゃくなんにょ】が集【あつ】まるイベント。",
+    "meaning": "An event that gathers people of all ages and genders."
+  },
+  {
+    "sentence": "老いを重ねるごとに知恵が増す。",
+    "sentence_furigana": "老【お】いを重【かさ】ねるごとにより知恵【ちえ】が増【ま】す。",
+    "meaning": "Wisdom increases with each passing year of old age."
+  },
+  {
+    "sentence": "老いたる馬は道を忘れず。",
+    "sentence_furigana": "老【お】いたる馬【うま】は道【みち】を忘【わす】れず。",
+    "meaning": "An old horse does not forget its way."
+  },
+  {
+    "sentence": "老木が幹を太くしていた。",
+    "sentence_furigana": "老木【ろうぼく】が幹【みき】を太【ふと】くしていた。",
+    "meaning": "The old tree had a thick trunk."
+  },
+  {
+    "sentence": "老いてもなお青春の情熱を持つ。",
+    "sentence_furigana": "老【お】いてもなお青春【せいしゅん】の情熱【じょうねつ】を持【も】つ。",
+    "meaning": "To still have youthful passion even in old age."
+  },
+  {
+    "sentence": "老朽化した橋を修繕する。",
+    "sentence_furigana": "老朽化【ろうきゅうか】した橋【はし】を修繕【しゅうぜん】する。",
+    "meaning": "To repair the dilapidated bridge."
+  },
+  {
+    "sentence": "老いては子に従え。",
+    "sentence_furigana": "老【お】いては子【こ】に従【したが】え。",
+    "meaning": "When you get old, obey your children."
+  },
+  {
+    "sentence": "老人が若い人に道を譲る。",
+    "sentence_furigana": "老人【ろうじん】が若【わか】い人【ひと】に道【みち】を譲【ゆず】る。",
+    "meaning": "An old person gives way to a young person."
+  },
+  {
+    "sentence": "老いたる知識も役に立つことがある。",
+    "sentence_furigana": "老【お】いたる知識【ちしき】も役【やく】に立【た】つことがある。",
+    "meaning": "Even old knowledge can be useful."
+  },
+  {
+    "sentence": "老人性の皮膚疾患。",
+    "sentence_furigana": "老人性【ろうじんせい】の皮膚疾患【ひふしっかん】。",
+    "meaning": "Age-related skin disease."
+  },
+  {
+    "sentence": "老人が子供に昔話を聞かせる。",
+    "sentence_furigana": "老人【ろうじん】が子供【こども】に昔話【むかしばなし】を聞【き】かせる。",
+    "meaning": "An old man tells a child an old tale."
+  },
+  {
+    "sentence": "老いることは避けられない。",
+    "sentence_furigana": "老【お】いることは避【さ】けられない。",
+    "meaning": "Growing old is unavoidable."
+  },
+  {
+    "sentence": "老若男女が楽しめる祭り。",
+    "sentence_furigana": "老若男女【ろうにゃくなんにょ】が楽【たの】しめる祭【まつ】り。",
+    "meaning": "A festival that people of all ages and genders can enjoy."
+  },
+  {
+    "sentence": "老いたる猿も木から落ちる。",
+    "sentence_furigana": "老【お】いたる猿【さる】も木【き】から落【お】ちる。",
+    "meaning": "Even an old monkey can fall from a tree."
+  },
+  {
+    "sentence": "老いても学ぶ意欲を失わない。",
+    "sentence_furigana": "老【お】いても学【まな】ぶ意欲【いよく】を失【うしな】わない。",
+    "meaning": "To not lose the desire to learn even in old age."
+  },
+  {
+    "sentence": "老人の知恵袋から教訓を得る。",
+    "sentence_furigana": "老人【ろうじん】の知恵袋【ちえぶくろ】から教訓【きょうくん】を得【え】る。",
+    "meaning": "To gain lessons from an old person's wisdom."
+  },
+  {
+    "sentence": "老夫婦は穏やかな日々を送っていた。",
+    "sentence_furigana": "老夫婦【ろうふうふ】は穏【おだ】やかな日々【ひび】を送【おく】っていた。",
+    "meaning": "The elderly couple was living peaceful days."
+  },
+  {
+    "sentence": "老いた顔に深い皺が刻まれていた。",
+    "sentence_furigana": "老【お】いた顔【かお】に深【ふか】い皺【しわ】が刻【きざ】まれていた。",
+    "meaning": "Deep wrinkles were etched on the old face."
+  },
+  {
+    "sentence": "老人は昔を懐かしんでいた。",
+    "sentence_furigana": "老人【ろうじん】は昔【むかし】を懐【なつ】かしんでいた。",
+    "meaning": "The old man was reminiscing about the past."
+  },
+  {
+    "sentence": "老人のための福祉サービス。",
+    "sentence_furigana": "老人【ろうじん】のための福祉【ふくし】サービス。",
+    "meaning": "Welfare services for the elderly."
+  },
+  {
+    "sentence": "老いてなお壮健を保つ。",
+    "sentence_furigana": "老【お】いてなお壮健【そうけん】を保【たも】つ。",
+    "meaning": "To maintain good health even in old age."
+  },
+  {
+    "sentence": "老母が病気になった。",
+    "sentence_furigana": "老母【ろうぼ】が病気【びょうき】になった。",
+    "meaning": "My elderly mother became ill."
+  },
+  {
+    "sentence": "老人の落ち着いた話し方。",
+    "sentence_furigana": "老人【ろうじん】の落【お】ち着【つ】いた話【はな】し方【かた】。",
+    "meaning": "The old person's calm way of speaking."
+  },
+  {
+    "sentence": "老いた牛がのんびりと草を食んでいた。",
+    "sentence_furigana": "老【お】いた牛【うし】がのんびりと草【くさ】を食【く】んでいた。",
+    "meaning": "The old cow was leisurely eating grass."
+  },
+  {
+    "sentence": "老いても気力は衰えていない。",
+    "sentence_furigana": "老【お】いても気力【きりょく】は衰【おとろ】えていない。",
+    "meaning": "His vitality has not waned even in old age."
+  },
+  {
+    "sentence": "老舗の味を守り続ける。",
+    "sentence_furigana": "老舗【しにせ】の味【あじ】を守【まも】り続【つづ】ける。",
+    "meaning": "To continue to preserve the taste of the long-established shop."
+  },
+  {
+    "sentence": "老人は人生の経験が豊富だ。",
+    "sentence_furigana": "老人【ろうじん】は人生【じんせい】の経験【けいけん】が豊富【ほうふ】だ。",
+    "meaning": "Old people have abundant life experience."
+  },
+  {
+    "sentence": "老いるにつれて体が衰える。",
+    "sentence_furigana": "老【お】いるにつれて体【からだ】が衰【おとろ】える。",
+    "meaning": "The body weakens as one gets older."
+  },
+  {
+    "sentence": "老女が杖をついて歩いていた。",
+    "sentence_furigana": "老女【ろうじょ】が杖【つえ】をついて歩【ある】いていた。",
+    "meaning": "The old woman was walking with a cane."
+  },
+  {
+    "sentence": "老いた木に新しい芽が出た。",
+    "sentence_furigana": "老【お】いた木【き】に新【あたら】しい芽【め】が出【で】た。",
+    "meaning": "New buds appeared on the old tree."
+  },
+  {
+    "sentence": "老人の顔には人生の年輪が刻まれている。",
+    "sentence_furigana": "老人【ろうじん】の顔【かお】には人生【じんせい】の年輪【ねんりん】が刻【きざ】まれている。",
+    "meaning": "The rings of life are engraved on the old person's face."
+  },
+  {
+    "sentence": "老いてもなお情熱を燃やす。",
+    "sentence_furigana": "老【お】いてもなお情熱【じょうねつ】を燃【も】やす。",
+    "meaning": "To burn with passion even in old age."
+  },
+  {
+    "sentence": "老人が子供のように無邪気な笑顔を見せた。",
+    "sentence_furigana": "老人【ろうじん】が子供【こども】のように無邪気【むじゃき】な笑顔【えがお】を見【み】せた。",
+    "meaning": "The old man showed an innocent smile like a child."
+  },
+  {
+    "sentence": "老いることを恐れない。",
+    "sentence_furigana": "老【お】いることを恐【おそ】れない。",
+    "meaning": "Not to fear growing old."
+  },
+  {
+    "sentence": "老親の願いを聞き入れる。",
+    "sentence_furigana": "老親【ろうしん】の願【ねが】いを聞【き】き入【い】れる。",
+    "meaning": "To grant the wishes of one's elderly parents."
+  },
+  {
+    "sentence": "老人が若い世代に道を譲る。",
+    "sentence_furigana": "老人【ろうじん】が若【わか】い世代【せだい】に道【みち】を譲【ゆず】る。",
+    "meaning": "An old person yields the way to the younger generation."
+  },
+  {
+    "sentence": "老いてもその輝きは失われていない。",
+    "sentence_furigana": "老【お】いてもその輝【かがや】きは失【うしな】われていない。",
+    "meaning": "Even in old age, that brilliance has not been lost."
+  },
+  {
+    "sentence": "老いたる馬には鞭打たず。",
+    "sentence_furigana": "老【お】いたる馬【うま】には鞭【むち】打【う】たず。",
+    "meaning": "Do not whip an old horse."
+  },
+  {
+    "sentence": "老人が昔の歌を口ずさんでいた。",
+    "sentence_furigana": "老人【ろうじん】が昔【むかし】の歌【うた】を口ず【くちず】さんでいた。",
+    "meaning": "The old man was humming an old song."
+  },
+  {
+    "sentence": "老朽化が進んだ建物。",
+    "sentence_furigana": "老朽化【ろうきゅうか】が進【すす】んだ建物【たてもの】。",
+    "meaning": "A building that has deteriorated significantly."
+  },
+  {
+    "sentence": "老いてもなお心は若々しい。",
+    "sentence_furigana": "老【お】いてもなお心【こころ】は若々【わかわか】しい。",
+    "meaning": "The heart is still youthful even in old age."
+  },
+  {
+    "sentence": "老人の知恵は国の宝だ。",
+    "sentence_furigana": "老人【ろうじん】の知恵【ちえ】は国【くに】の宝【たから】だ。",
+    "meaning": "The wisdom of the elderly is a treasure for the country."
+  },
+  {
+    "sentence": "老夫婦は静かに寄り添っていた。",
+    "sentence_furigana": "老夫婦【ろうふうふ】は静【しず】かに寄【よ】り添【そ】っていた。",
+    "meaning": "The elderly couple was quietly leaning against each other."
+  },
+  {
+    "sentence": "老いることで人生の深みが増す。",
+    "sentence_furigana": "老【お】いることで人生【じんせい】の深【ふか】みが増【ま】す。",
+    "meaning": "The depth of life increases with age."
+  },
+  {
+    "sentence": "老いた顔に皺が寄っている。",
+    "sentence_furigana": "老【お】いた顔【かお】に皺【しわ】が寄【よ】っている。",
+    "meaning": "Wrinkles are forming on the old face."
+  },
+  {
+    "sentence": "老いても学ぶことは尽きない。",
+    "sentence_furigana": "老【お】いても学【まな】ぶことは尽【つ】きない。",
+    "meaning": "There is no end to learning, even in old age."
+  },
+  {
+    "sentence": "老人は子供に優しい。",
+    "sentence_furigana": "老人【ろうじん】は子供【こども】に優【やさ】しい。",
+    "meaning": "Old people are kind to children."
+  },
+  {
+    "sentence": "老いたる知識も、いまだ健在なり。",
+    "sentence_furigana": "老【お】いたる知識【ちしき】も、いまだ健在【けんざい】なり。",
+    "meaning": "Even old knowledge is still robust."
+  },
+  {
+    "sentence": "老いてますます元気が出る。",
+    "sentence_furigana": "老【お】いてますます元気【げんき】が出【で】る。",
+    "meaning": "To become more energetic as one gets older."
+  },
+  {
+    "sentence": "老夫婦が手をつないで歩いていた。",
+    "sentence_furigana": "老夫婦【ろうふうふ】が手【て】を繋【つな】いで歩【ある】いていた。",
+    "meaning": "The elderly couple was walking hand in hand."
+  },
+  {
+    "sentence": "老いることに抵抗しない。",
+    "sentence_furigana": "老【お】いることに抵抗【ていこう】しない。",
+    "meaning": "Not to resist aging."
+  },
+  {
+    "sentence": "老いた馬も道を忘れない。",
+    "sentence_furigana": "老【お】いた馬【うま】も道【みち】を忘【わす】れない。",
+    "meaning": "An old horse never forgets its way."
+  },
+  {
+    "sentence": "老人が静かに読書を楽しんでいる。",
+    "sentence_furigana": "老人【ろうじん】が静【しず】かに読書【どくしょ】を楽【たの】しんでいる。",
+    "meaning": "The old man is quietly enjoying reading."
+  },
+  {
+    "sentence": "老いても学ぶ心は大切だ。",
+    "sentence_furigana": "老【お】いても学【まな】ぶ心【こころ】は大切【たいせつ】だ。",
+    "meaning": "The desire to learn is important, even in old age."
+  },
+  {
+    "sentence": "老親の介護に専念する。",
+    "sentence_furigana": "老親【ろうしん】の介護【かいご】に専念【せんねん】する。",
+    "meaning": "To devote oneself to caring for elderly parents."
+  },
+  {
+    "sentence": "老いてもなお活気に満ちている。",
+    "sentence_furigana": "老【お】いてもなお活気【かっき】に満【み】ちている。",
+    "meaning": "To be full of vitality even in old age."
+  },
+  {
+    "sentence": "老人が昔の写真を眺めている。",
+    "sentence_furigana": "老人【ろうじん】が昔【むかし】の写真【しゃしん】を眺【なが】めている。",
+    "meaning": "The old man is looking at old photographs."
+  },
+  {
+    "sentence": "老いてますます充実した人生を送る。",
+    "sentence_furigana": "老【お】いてますます充実【じゅうじつ】した人生【じんせい】を送【おく】る。",
+    "meaning": "To live a more fulfilling life in old age."
+  },
+  {
+    "sentence": "老いた心に安らぎを求める。",
+    "sentence_furigana": "老【お】いた心【こころ】に安【やす】らぎを求【もと】める。",
+    "meaning": "To seek peace for an old heart."
+  },
+  {
+    "sentence": "老いては子に従えというが、そうばかりでもない。",
+    "sentence_furigana": "老【お】いては子【こ】に従【したが】えというが、そうばかりでもない。",
+    "meaning": "They say to obey your children when you get old, but that's not always the case."
+  },
+  {
+    "sentence": "老人の知恵を借りる。",
+    "sentence_furigana": "老人【ろうじん】の知恵【ちえ】を借【か】りる。",
+    "meaning": "To borrow the wisdom of the elderly."
+  },
+  {
+    "sentence": "老いてもなお青春の夢を追いかける。",
+    "sentence_furigana": "老【お】いてもなお青春【せいしゅん】の夢【ゆめ】を追【お】いかける。",
+    "meaning": "To chase youthful dreams even in old age."
+  },
+  {
+    "sentence": "老いた木に新しい命が宿る。",
+    "sentence_furigana": "老【お】いた木【き】に新【あら】たな命【いのち】が宿【やど】る。",
+    "meaning": "New life resides in the old tree."
+  },
+  {
+    "sentence": "老人の経験は貴重だ。",
+    "sentence_furigana": "老人【ろうじん】の経験【けいけん】は貴重【きちょう】だ。",
+    "meaning": "The experience of the elderly is valuable."
+  },
+  {
+    "sentence": "老いてますます盛んになることを願う。",
+    "sentence_furigana": "老【お】いてますます盛【さか】んになることを願【ねが】う。",
+    "meaning": "To wish to become more prosperous in old age."
+  },
+  {
+    "sentence": "老いてもなお、その熱意は変わらない。",
+    "sentence_furigana": "老【お】いてもなお、その熱意【ねつい】は変【か】わらない。",
+    "meaning": "Even in old age, his enthusiasm has not changed."
+  },
+  {
+    "sentence": "老親が一人で暮らしている。",
+    "sentence_furigana": "老親【ろうしん】が一人【ひとり】で暮【く】らしている。",
+    "meaning": "My elderly parent lives alone."
+  },
+  {
+    "sentence": "老いたる知恵は経験から生まれる。",
+    "sentence_furigana": "老【お】いたる知恵【ちえ】は経験【けいけん】から生【う】まれる。",
+    "meaning": "Old wisdom is born from experience."
+  },
+  {
+    "sentence": "老人の目には深い愛情が宿っていた。",
+    "sentence_furigana": "老人【ろうじん】の目【め】には深【ふか】い愛情【あいじょう】が宿【やど】っていた。",
+    "meaning": "Deep affection resided in the old man's eyes."
+  },
+  {
+    "sentence": "老いてなお、人生を楽しむ。",
+    "sentence_furigana": "老【お】いてなお、人生【じんせい】を楽【たの】しむ。",
+    "meaning": "To enjoy life even in old age."
+  },
+  {
+    "sentence": "老人の集まるサロン。",
+    "sentence_furigana": "老人【ろうじん】の集【あつ】まるサロン。",
+    "meaning": "A salon where elderly people gather."
+  },
+  {
+    "sentence": "老いてもなお、その経験は生きている。",
+    "sentence_furigana": "老【お】いてもなお、その経験【けいけん】は生【い】きている。",
+    "meaning": "Even in old age, that experience is still alive."
+  },
+  {
+    "sentence": "老いた馬も道を譲る。",
+    "sentence_furigana": "老【お】いた馬【うま】も道【みち】を譲【ゆず】る。",
+    "meaning": "Even an old horse yields the way."
+  },
+  {
+    "sentence": "老人の静かな微笑み。",
+    "sentence_furigana": "老人【ろうじん】の静【しず】かな微笑【ほほえ】み。",
+    "meaning": "The old person's quiet smile."
+  },
+  {
+    "sentence": "老いてもなお、学ぶことをやめない。",
+    "sentence_furigana": "老【お】いてもなお、学【まな】ぶことをやめない。",
+    "meaning": "To not stop learning, even in old age."
+  },
+  {
+    "sentence": "老親の介護は大変だ。",
+    "sentence_furigana": "老親【ろうしん】の介護【かいご】は大変【たいへん】だ。",
+    "meaning": "Caring for elderly parents is difficult."
+  },
+  {
+    "sentence": "老いてもなお、その知識は健在だ。",
+    "sentence_furigana": "老【お】いてもなお、その知識【ちしき】は健在【けんざい】だ。",
+    "meaning": "Even in old age, that knowledge is still sound."
+  },
+  {
+    "sentence": "老人が若い世代にアドバイスを与える。",
+    "sentence_furigana": "老人【ろうじん】が若【わか】い世代【せだい】にアドバイスを与【あた】える。",
+    "meaning": "An old person gives advice to the younger generation."
+  },
+  {
+    "sentence": "老いてもなお、情熱を失わない。",
+    "sentence_furigana": "老【お】いてもなお、情熱【じょうねつ】を失【うしな】わない。",
+    "meaning": "To not lose passion even in old age."
+  },
+  {
+    "sentence": "老いたる木は幹が太い。",
+    "sentence_furigana": "老【お】いたる木【き】は幹【みき】が太【ふと】い。",
+    "meaning": "The old tree has a thick trunk."
+  },
+  {
+    "sentence": "老人の目に映る人生の重み。",
+    "sentence_furigana": "老人【ろうじん】の目【め】に映【うつ】る人生【じんせい】の重【おも】み。",
+    "meaning": "The weight of life reflected in the old person's eyes."
+  },
+  {
+    "sentence": "老いてもなお、希望を持ち続ける。",
+    "sentence_furigana": "老【お】いてもなお、希望【きぼう】を持【も】ち続【つづ】ける。",
+    "meaning": "To continue to have hope even in old age."
+  },
+  {
+    "sentence": "老人が昔を懐かしむように語る。",
+    "sentence_furigana": "老人【ろうじん】が昔【むかし】を懐【なつ】かしむように語【かた】る。",
+    "meaning": "The old man talks as if reminiscing about the past."
+  },
+  {
+    "sentence": "老いてもなお、人生の喜びを見出す。",
+    "sentence_furigana": "老【お】いてもなお、人生【じんせい】の喜【よろこ】びを見【み】いだす。",
+    "meaning": "To find joy in life even in old age."
+  },
+  {
+    "sentence": "老人の顔に刻まれた歴史。",
+    "sentence_furigana": "老人【ろうじん】の顔【かお】に刻【きざ】まれた歴史【れきし】。",
+    "meaning": "The history engraved on the old person's face."
+  },
+  {
+    "sentence": "老いてもなお、学ぶ意欲がある。",
+    "sentence_furigana": "老【お】いてもなお、学【まな】ぶ意欲【いよく】がある。",
+    "meaning": "To have the desire to learn, even in old age."
+  },
+  {
+    "sentence": "老親に感謝の気持ちを伝える。",
+    "sentence_furigana": "老親【ろうしん】に感謝【かんしゃ】の気持【きも】ちを伝【つた】える。",
+    "meaning": "To express gratitude to one's elderly parents."
+  },
+  {
+    "sentence": "老いてもなお、人生を楽しむことを忘れない。",
+    "sentence_furigana": "老【お】いてもなお、人生【じんせい】を楽【たの】しむことを忘【わす】れない。",
+    "meaning": "Not to forget to enjoy life, even in old age."
+  }
+]

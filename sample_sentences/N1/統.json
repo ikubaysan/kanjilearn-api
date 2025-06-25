@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "この会社は新しい経営方針を導入して、業績を向上させた。",
+    "sentence_furigana": "この会社【かいしゃ】は新【あたら】しい経営方針【けいえいほうしん】を導入【どうにゅう】して、業績【ぎょうせき】を向上【こうじょう】させた。",
+    "meaning": "This company introduced new management policies and improved its performance."
+  },
+  {
+    "sentence": "彼は学校の生徒会長として、生徒たちの意見をまとめた。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】の生徒会長【せいとかいちょう】として、生徒【せいと】たちの意見【いけん】をまとめた。",
+    "meaning": "As the student council president of the school, he summarized the students' opinions."
+  },
+  {
+    "sentence": "国は国民の安全を守るために、法律を制定する。",
+    "sentence_furigana": "国【くに】は国民【こくみん】の安全【あんぜん】を守【まも】るために、法律【ほうりつ】を制定【せいてい】する。",
+    "meaning": "The country enacts laws to protect the safety of its citizens."
+  },
+  {
+    "sentence": "このプロジェクトは、多くの部署が協力して進められた。",
+    "sentence_furigana": "このプロジェクトは、多【おお】くの部署【ぶしょ】が協力【きょうりょく】して進【すす】められた。",
+    "meaning": "This project was advanced through the cooperation of many departments."
+  },
+  {
+    "sentence": "彼女はチームを率いて、見事に優勝を果たした。",
+    "sentence_furigana": "彼女【かのじょ】はチームを率【ひき】いて、見事【みごと】に優勝【ゆうしょう】を果た【はた】した。",
+    "meaning": "She led the team and brilliantly achieved victory."
+  },
+  {
+    "sentence": "経済成長を持続可能なものにするためには、環境保護が不可欠だ。",
+    "sentence_furigana": "経済成長【けいざいせいちょう】を持続可能【じぞくかのう】なものにするためには、環境保護【かんきょうほご】が不可欠【ふかけつ】だ。",
+    "meaning": "Environmental protection is essential to make economic growth sustainable."
+  },
+  {
+    "sentence": "歴史的な建造物を保存し、後世に伝えることが重要だ。",
+    "sentence_furigana": "歴史的【れきしてき】な建造物【けんぞうぶつ】を保存【ほぞん】し、後世【こうせい】に伝【つた】えることが重要【じゅうよう】だ。",
+    "meaning": "It is important to preserve historical buildings and pass them on to future generations."
+  },
+  {
+    "sentence": "政府は国民生活の安定を図るための政策を打ち出した。",
+    "sentence_furigana": "政府【せいふ】は国民生活【こくみんせいかつ】の安定【あんてい】を図【はか】るための政策【せいさく】を打【う】ち出【だ】した。",
+    "meaning": "The government launched policies to stabilize the lives of its citizens."
+  },
+  {
+    "sentence": "彼女は長年にわたり、地域社会の発展に貢献してきた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】にわたり、地域社会【ちいきしゃかい】の発展【はってん】に貢献【こうけん】してきた。",
+    "meaning": "She has contributed to the development of the local community for many years."
+  },
+  {
+    "sentence": "この会社の組織体制は非常に効率的だ。",
+    "sentence_furigana": "この会社【かいしゃ】の組織体制【そしきたいせい】は非常【ひじょう】に効率的【こうりつてき】だ。",
+    "meaning": "This company's organizational structure is very efficient."
+  },
+  {
+    "sentence": "彼は世界的な視野を持って、グローバルなビジネスを展開している。",
+    "sentence_furigana": "彼【かれ】は世界的【せかいてき】な視野【しや】を持【も】って、グローバルなビジネスを展開【てんかい】している。",
+    "meaning": "He is developing a global business with a worldwide perspective."
+  },
+  {
+    "sentence": "大学は学術研究の発展を推進する役割を担っている。",
+    "sentence_furigana": "大学【だいがく】は学術研究【がくじゅつけんきゅう】の発展【はってん】を推進【すいしん】する役割【やくわり】を担【にな】っている。",
+    "meaning": "Universities play a role in promoting the development of academic research."
+  },
+  {
+    "sentence": "彼女は組織のリーダーとして、メンバーを鼓舞した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】のリーダーとして、メンバーを鼓舞【こぶ】した。",
+    "meaning": "As the organization's leader, she inspired the members."
+  },
+  {
+    "sentence": "国の未来を担う若者たちの育成が急務である。",
+    "sentence_furigana": "国【くに】の未来【みらい】を担【にな】う若者【わかもの】たちの育成【いくせい】が急務【きゅうむ】である。",
+    "meaning": "The development of young people who will carry the future of the country is an urgent task."
+  },
+  {
+    "sentence": "この法律は国民の権利と義務を定めている。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の権利【けんり】と義務【ぎむ】を定【さだ】めている。",
+    "meaning": "This law defines the rights and obligations of citizens."
+  },
+  {
+    "sentence": "彼の指導の下で、チームは大きな進歩を遂げた。",
+    "sentence_furigana": "彼【かれ】の指導【しどう】の下【もと】で、チームは非常【ひじょう】な進歩【しんぽ】を遂【と】げた。",
+    "meaning": "Under his guidance, the team made great progress."
+  },
+  {
+    "sentence": "文化遺産の保護と活用は、私たちの責務である。",
+    "sentence_furigana": "文化遺産【ぶんかいさん】の保護【ほご】と活用【かつよう】は、我々【われわれ】の責務【せきむ】である。",
+    "meaning": "The protection and utilization of cultural heritage is our responsibility."
+  },
+  {
+    "sentence": "彼女は国際的な会議で、平和維持活動について発表した。",
+    "sentence_furigana": "彼女【かのじょ】は国際的【こくさいてき】な会議【かいぎ】で、平和維持活動【へいわいじかつどう】について発表【はっぴょう】した。",
+    "meaning": "She presented on peacekeeping activities at an international conference."
+  },
+  {
+    "sentence": "この組織は、多様な人材が集まるハブとなっている。",
+    "sentence_furigana": "この組織【そしき】は、多様【たよう】な人材【じんざい】が集【あつ】まるハブとなっている。",
+    "meaning": "This organization serves as a hub where diverse talent gathers."
+  },
+  {
+    "sentence": "彼の統率力は、チームを勝利に導く上で不可欠だった。",
+    "sentence_furigana": "彼【かれ】の統率力【とうそつりょく】は、チームを勝利【しょうり】に導【みちび】く上【うえ】で不可欠【ふかけつ】だった。",
+    "meaning": "His leadership was indispensable in leading the team to victory."
+  },
+  {
+    "sentence": "国家の統治には、公正で透明性のある政治が必要だ。",
+    "sentence_furigana": "国家【こっか】の統治【とうち】には、公正【こうせい】で透明性【とうめいせい】のある政治【せいじ】が必要【ひつよう】だ。",
+    "meaning": "Governing a nation requires fair and transparent politics."
+  },
+  {
+    "sentence": "彼女は地域経済の活性化のために、新しい事業を立ち上げた。",
+    "sentence_furigana": "彼女【かのじょ】は地域経済【ちいけいけいざい】の活性化【かっせいか】のために、新【あら】しい事業【じぎょう】を立【た】ち上【あ】げた。",
+    "meaning": "She launched a new business to revitalize the local economy."
+  },
+  {
+    "sentence": "この法律は、社会全体の調和を目的としている。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の調和【ちょうわ】を目的【もくてき】としている。",
+    "meaning": "This law aims for the harmony of the entire society."
+  },
+  {
+    "sentence": "彼は長年培ってきた経験を活かして、組織を率いた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】培【つちか】ってきた経験【けいけん】を活【い】かして、組織【そしき】を率【ひき】いた。",
+    "meaning": "He led the organization by utilizing his years of accumulated experience."
+  },
+  {
+    "sentence": "グローバル化が進む中で、国際的な連携が重要性を増している。",
+    "sentence_furigana": "グローバル化【グローバルか】が進【すす】む中【なか】で、国際的【こくさいてき】な連携【れんけい】が重要性【じゅうようせい】を増【ま】している。",
+    "meaning": "As globalization progresses, international cooperation is becoming increasingly important."
+  },
+  {
+    "sentence": "彼女は新しい教育システムを導入し、教育の質を向上させた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しい教育システム【きょういくシステム】を導入【どうにゅう】し、教育【きょういく】の質【しつ】を向上【こうじょう】させた。",
+    "meaning": "She introduced a new educational system and improved the quality of education."
+  },
+  {
+    "sentence": "国の安全保障体制は、常に強化される必要がある。",
+    "sentence_furigana": "国【くに】の安全保障体制【あんぜんほしょうたいせい】は、常【つね】に強化【きょうか】される必要【ひつよう】がある。",
+    "meaning": "The nation's security system needs to be constantly strengthened."
+  },
+  {
+    "sentence": "彼はその分野における権威として、多くの研究者を指導した。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】における権威【けんい】として、多【おお】くの研究者【けんきゅうしゃ】を指導【しどう】した。",
+    "meaning": "As an authority in that field, he guided many researchers."
+  },
+  {
+    "sentence": "組織全体の目標達成に向けて、皆が協力した。",
+    "sentence_furigana": "組織全体【そしきたいぜんたい】の目標達成【もくひょうたっせい】に向けて【むけて】、皆【みな】が協力【きょうりょく】した。",
+    "meaning": "Everyone cooperated towards achieving the organization's overall goals."
+  },
+  {
+    "sentence": "彼女はリーダーシップを発揮し、困難な状況を乗り越えた。",
+    "sentence_furigana": "彼女【かのじょ】はリーダーシップを発揮【はっき】し、困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えた。",
+    "meaning": "She demonstrated leadership and overcame the difficult situation."
+  },
+  {
+    "sentence": "この法律は、社会の安定と発展を促進することを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会【しゃかい】の安定【あんてい】と発展【はってん】を促進【そくしん】することを目的【もくてき】としています。",
+    "meaning": "This law aims to promote social stability and development."
+  },
+  {
+    "sentence": "彼は新しい政策を導入し、経済の活性化を目指した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい政策【せいさく】を導入【どうにゅう】し、経済【けいざい】の活性化【かっせいか】を目指【めざ】した。",
+    "meaning": "He introduced new policies and aimed to revitalize the economy."
+  },
+  {
+    "sentence": "彼女は組織の変革を主導し、成功に導いた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の変革【へんかく】を主導【しゅどう】し、成功【せいこう】に導【みちび】いた。",
+    "meaning": "She led the organization's transformation and guided it to success."
+  },
+  {
+    "sentence": "この大学は、幅広い分野の研究を統括している。",
+    "sentence_furigana": "この大学【だいがく】は、幅広【はばひろ】い分野【ぶんや】の研究【けんきゅう】を統括【とうかつ】している。",
+    "meaning": "This university oversees research in a wide range of fields."
+  },
+  {
+    "sentence": "彼の統率力は、チームを一つにまとめる上で重要だ。",
+    "sentence_furigana": "彼【かれ】の統率力【とうそつりょく】は、チームを一つにまとめる上【うえ】で重要【じゅうよう】だ。",
+    "meaning": "His leadership is important for uniting the team."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトの全体を管理した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいプロジェクトの全体【ぜんたい】を管理【かんり】した。",
+    "meaning": "She managed the entirety of the new project."
+  },
+  {
+    "sentence": "この法律は、国民の権利を守るためのものである。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民【こくみん】の権利【けんり】を守【まも】るためのものである。",
+    "meaning": "This law is intended to protect the rights of citizens."
+  },
+  {
+    "sentence": "彼は長年の経験を活かし、組織の運営を任された。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かし、組織【そしき】の運営【うんえい】を任【まか】された。",
+    "meaning": "He was entrusted with the management of the organization, utilizing his many years of experience."
+  },
+  {
+    "sentence": "彼女は国際社会における平和と安定の維持に貢献している。",
+    "sentence_furigana": "彼女【かのじょ】は国際社会【こくさいしゃかい】における平和【へいわ】と安定【あんてい】の維持【いじ】に貢献【こうけん】している。",
+    "meaning": "She contributes to the maintenance of peace and stability in the international community."
+  },
+  {
+    "sentence": "この企業は、グローバル市場での競争力を強化している。",
+    "sentence_furigana": "この企業【きぎょう】は、グローバル市場【グローバルしじょう】での競争力【きょうそうりょく】を強化【きょうか】している。",
+    "meaning": "This company is strengthening its competitiveness in the global market."
+  },
+  {
+    "sentence": "彼は新しい戦略を立案し、チームを成功に導いた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい戦略【せんりゃく】を立案【りつあん】し、チームを成功【せいこう】に導【みちび】いた。",
+    "meaning": "He formulated a new strategy and led the team to success."
+  },
+  {
+    "sentence": "彼女は組織の将来を見据え、長期的な計画を立てた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の将来【しょうらい】を見据【みす】え、長期【ちょうき】的【てき】な計画【けいかく】を立【た】てた。",
+    "meaning": "She looked to the future of the organization and made long-term plans."
+  },
+  {
+    "sentence": "この法律は、社会全体の利益を考慮して制定された。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の利益【りえき】を考慮【こうりょ】して制定【せいてい】された。",
+    "meaning": "This law was enacted considering the benefit of the entire society."
+  },
+  {
+    "sentence": "彼は長年にわたり、大学の運営に貢献してきた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】にわたり、大学【だいがく】の運営【うんえい】に貢献【こうけん】してきた。",
+    "meaning": "He has contributed to the university's administration for many years."
+  },
+  {
+    "sentence": "彼女はチームのリーダーとして、メンバーを鼓舞し続けた。",
+    "sentence_furigana": "彼女【かのじょ】はチームのリーダーとして、メンバーを鼓舞【こぶ】し続【つづ】けた。",
+    "meaning": "As the team leader, she continued to inspire the members."
+  },
+  {
+    "sentence": "この組織は、グローバルなネットワークを構築している。",
+    "sentence_furigana": "この組織【そしき】は、グローバルなネットワークを構築【こうちく】している。",
+    "meaning": "This organization is building a global network."
+  },
+  {
+    "sentence": "彼は国の発展のために、新しい政策を提唱した。",
+    "sentence_furigana": "彼【かれ】は国【くに】の発展【はってん】のために、新【あら】しい政策【せいさく】を提唱【ていしょう】した。",
+    "meaning": "He advocated new policies for the development of the country."
+  },
+  {
+    "sentence": "彼女は組織の目標達成のために、献身的に働いた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の目標達成【もくひょうたっせい】のために、献身【けんしん】的【てき】に働【はたら】いた。",
+    "meaning": "She worked dedicatedly to achieve the organization's goals."
+  },
+  {
+    "sentence": "この法律は、国民生活の安定を図ることを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】の安定【あんてい】を図【はか】ることを目的【もくてき】としています。",
+    "meaning": "This law aims to ensure the stability of citizens' lives."
+  },
+  {
+    "sentence": "彼はチームをまとめ、大会優勝という目標を達成した。",
+    "sentence_furigana": "彼【かれ】はチームをまとを、大会優勝【たいかいゆうしょう】という目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He united the team and achieved the goal of winning the tournament."
+  },
+  {
+    "sentence": "彼女は組織の将来を見据え、新たな事業展開を進めている。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の将来【しょうらい】を見据【みす】え、新【あら】たな事業展開【じぎょうてんかい】を進【すす】めている。",
+    "meaning": "She is advancing new business development with an eye on the organization's future."
+  },
+  {
+    "sentence": "この大学は、学術研究の分野で全国をリードしている。",
+    "sentence_furigana": "この大学【だいがく】は、学術研究【がくじつけんきゅう】の分野【ぶんや】で全国【ぜんこく】をリードしている。",
+    "meaning": "This university leads the nation in the field of academic research."
+  },
+  {
+    "sentence": "彼は統治者として、国民の幸福を最優先に考えた。",
+    "sentence_furigana": "彼【かれ】は統治者【とうちしゃ】として、国民【こくみん】の幸福【こうふく】を最優先【さいゆうせん】に考【かんが】えた。",
+    "meaning": "As a ruler, he prioritized the happiness of his people."
+  },
+  {
+    "sentence": "彼女は新しいアイデアを提唱し、組織の活性化に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいアイデアを提唱【ていしょう】し、組織【そしき】の活性化【かっせいか】に貢献【こうけん】した。",
+    "meaning": "She proposed new ideas and contributed to the revitalization of the organization."
+  },
+  {
+    "sentence": "この法律は、社会全体の調和を保つために制定された。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の調和【ちょうわ】を保【たも】つために制定【せいてい】された。",
+    "meaning": "This law was enacted to maintain the harmony of the entire society."
+  },
+  {
+    "sentence": "彼はグローバルな視点で、国際社会の発展に貢献しようとしている。",
+    "sentence_furigana": "彼【かれ】はグローバルな視点【してん】で、国際社会【こくさいしゃかい】の発展【はってん】に貢献【こうけん】しようとしている。",
+    "meaning": "He is trying to contribute to the development of the international community from a global perspective."
+  },
+  {
+    "sentence": "彼女は長年の経験を活かして、チームを成功に導いた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の経験【けいけん】を活【い】かして、チームを成功【せいこう】に導【みちび】いた。",
+    "meaning": "She led the team to success by utilizing her years of experience."
+  },
+  {
+    "sentence": "この組織は、社会的な課題の解決に取り組んでいる。",
+    "sentence_furigana": "この組織【そしき】は、社会的【しゃかいてき】な課題【かだい】の解決【かいけつ】に取り組【とりく】んでいる。",
+    "meaning": "This organization is working on solving social issues."
+  },
+  {
+    "sentence": "彼は新しい経営方針を打ち出し、会社の業績を向上させた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい経営方針【けいえいほうしん】を打【う】ち出【だ】し、会社【かいしゃ】の業績【ぎょうせき】を向上【こうじょう】させた。",
+    "meaning": "He launched new management policies and improved the company's performance."
+  },
+  {
+    "sentence": "彼女は組織のリーダーとして、メンバーの意見を尊重した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】のリーダーとして、メンバーの意見【いけん】を尊重【そんちょう】した。",
+    "meaning": "As the organization's leader, she respected the members' opinions."
+  },
+  {
+    "sentence": "この法律は、国民の生活を豊かにすることを目指しています。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民【こくみん】の生活【せいかつ】を豊【ゆた】かにすることを目指【めざ】しています。",
+    "meaning": "This law aims to enrich the lives of citizens."
+  },
+  {
+    "sentence": "彼は長年にわたり、研究分野の発展に貢献してきた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】にわたり、研究分野【けんきゅうぶんや】の発展【はってん】に貢献【こうけん】してきた。",
+    "meaning": "He has contributed to the development of the research field for many years."
+  },
+  {
+    "sentence": "彼女は組織の全体像を把握し、効率的な運営を実現した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の全体像【ぜんたいぞう】を把握【はあく】し、効率的【こうりつてき】な運営【うんえい】を実現【じつげん】した。",
+    "meaning": "She grasped the overall picture of the organization and achieved efficient operation."
+  },
+  {
+    "sentence": "この国の統治システムは、国民の意思を反映している。",
+    "sentence_furigana": "この国【くに】の統治システム【とうちシステム】は、国民【こくみん】の意思【いし】を反映【はんえい】している。",
+    "meaning": "This country's governance system reflects the will of the people."
+  },
+  {
+    "sentence": "彼は新しい技術を導入し、生産性を向上させた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい技術【ぎじゅつ】を導入【どうにゅう】し、生産性【せいさんせい】を向上【こうじょう】させた。",
+    "meaning": "He introduced new technologies and improved productivity."
+  },
+  {
+    "sentence": "彼女は組織の目標を達成するために、チームを鼓舞した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の目標【もくひょう】を達成【たっせい】するために、チームを鼓舞【こぶ】した。",
+    "meaning": "She inspired the team to achieve the organization's goals."
+  },
+  {
+    "sentence": "この法律は、社会全体の安全を守ることを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の安全【あんぜん】を守【まも】ることを目的【もくてき】としています。",
+    "meaning": "This law aims to protect the safety of the entire society."
+  },
+  {
+    "sentence": "彼は長年の経験を活かし、国際的なビジネスを展開した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かし、国際的【こくさいてき】なビジネスを展開【てんかい】した。",
+    "meaning": "He developed an international business by utilizing his many years of experience."
+  },
+  {
+    "sentence": "彼女は組織のリーダーとして、メンバーの成長を支援した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】のリーダーとして、メンバーの成長【せいちょう】を支援【しえん】した。",
+    "meaning": "As the organization's leader, she supported the members' growth."
+  },
+  {
+    "sentence": "この組織は、持続可能な社会の実現に貢献することを目指している。",
+    "sentence_furigana": "この組織【そしき】は、持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】に貢献【こうけん】することを目指【めざ】している。",
+    "meaning": "This organization aims to contribute to the realization of a sustainable society."
+  },
+  {
+    "sentence": "彼は新しい戦略を立案し、会社の業績向上に貢献した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい戦略【せんりゃく】を立案【りつあん】し、会社【かいしゃ】の業績向上【ぎょうせきこうじょう】に貢献【こうけん】した。",
+    "meaning": "He formulated a new strategy and contributed to the improvement of the company's performance."
+  },
+  {
+    "sentence": "彼女は組織の将来を見据え、長期的なビジョンを掲げた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の将来【しょうらい】を見据【みす】え、長期【ちょうき】的【てき】なビジョンを掲【かか】げた。",
+    "meaning": "She looked to the future of the organization and presented a long-term vision."
+  },
+  {
+    "sentence": "この法律は、社会全体の進歩を促進するものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の進歩【しんぽ】を促進【そくしん】するものです。",
+    "meaning": "This law promotes the progress of the entire society."
+  },
+  {
+    "sentence": "彼は長年の経験を活かして、組織の発展に貢献した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かして、組織【そしき】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "He contributed to the development of the organization by utilizing his years of experience."
+  },
+  {
+    "sentence": "彼女は組織のリーダーシップを発揮し、プロジェクトを成功に導いた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】のリーダーシップを発揮【はっき】し、プロジェクトを成功【せいこう】に導【みちび】いた。",
+    "meaning": "She demonstrated leadership in the organization and led the project to success."
+  },
+  {
+    "sentence": "この組織は、グローバルな視点で地域社会に貢献している。",
+    "sentence_furigana": "この組織【そしき】は、グローバルな視点【してん】で地域社会【ちいきしゃかい】に貢献【こうけん】している。",
+    "meaning": "This organization contributes to the local community from a global perspective."
+  },
+  {
+    "sentence": "彼は新しい政策を立案し、国の発展に貢献した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい政策【せいさく】を立案【りつあん】し、国【くに】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "He formulated new policies and contributed to the development of the country."
+  },
+  {
+    "sentence": "彼女は組織の目標達成のために、チームを鼓舞し続けた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の目標達成【もくひょうたっせい】のために、チームを鼓舞【こぶ】し続【つづ】けた。",
+    "meaning": "She continued to inspire the team to achieve the organization's goals."
+  },
+  {
+    "sentence": "この法律は、国民生活の向上を図るためのものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】の向上【こうじょう】を図【はか】るためのものです。",
+    "meaning": "This law is intended to improve the lives of citizens."
+  },
+  {
+    "sentence": "彼は長年の経験を活かし、チームを勝利に導いた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かし、チームを勝利【しょうり】に導【みちび】いた。",
+    "meaning": "He led the team to victory by utilizing his years of experience."
+  },
+  {
+    "sentence": "彼女は組織の将来を見据え、長期的な戦略を策定した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の将来【しょうらい】を見据【みす】え、長期【ちょうき】的【てき】な戦略【せんりゃく】を策定【さくてい】した。",
+    "meaning": "She looked to the future of the organization and formulated a long-term strategy."
+  },
+  {
+    "sentence": "この大学は、学術研究の分野で国際的に高い評価を得ている。",
+    "sentence_furigana": "この大学【だいがく】は、学術研究【がくじつけんきゅう】の分野【ぶんや】で国際的【こくさいてき】に高【たか】い評価【ひょうか】を得【え】ている。",
+    "meaning": "This university has received high international評価 in the field of academic research."
+  },
+  {
+    "sentence": "彼は統治者として、国民の平和な暮らしを守ることに尽力した。",
+    "sentence_furigana": "彼【かれ】は統治者【とうちしゃ】として、国民【こくみん】の平和【へいわ】な暮【く】らしを守【まも】ることに尽力【じんりょく】した。",
+    "meaning": "As a ruler, he worked hard to protect the peaceful lives of his people."
+  },
+  {
+    "sentence": "彼女は新しいアイデアを提唱し、組織の発展に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいアイデアを提唱【ていしょう】し、組織【そしき】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "She proposed new ideas and contributed to the development of the organization."
+  },
+  {
+    "sentence": "この法律は、社会全体の安定を保つためのものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の安定【あんてい】を保【たも】つためのものです。",
+    "meaning": "This law is intended to maintain the stability of the entire society."
+  },
+  {
+    "sentence": "彼はグローバルな視点で、国際社会との連携を強化している。",
+    "sentence_furigana": "彼【かれ】はグローバルな視点【してん】で、国際社会【こくさいしゃかい】との連携【れんけい】を強化【きょうか】している。",
+    "meaning": "He is strengthening cooperation with the international community from a global perspective."
+  },
+  {
+    "sentence": "彼女は長年の経験を活かして、組織を成功に導いた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の経験【けいけん】を活【い】かして、組織【そしき】を成功【せいこう】に導【みちび】いた。",
+    "meaning": "She led the organization to success by utilizing her years of experience."
+  },
+  {
+    "sentence": "この組織は、社会的な課題解決に積極的に取り組んでいる。",
+    "sentence_furigana": "この組織【そしき】は、社会的【しゃかいてき】な課題解決【かだいかいけつ】に積極的【せっきょくてき】に取り組【とりく】んでいる。",
+    "meaning": "This organization is actively working on solving social issues."
+  },
+  {
+    "sentence": "彼は新しい経営方針を打ち出し、会社の成長を加速させた。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい経営方針【けいえいほうしん】を打【う】ち出【だ】し、会社【かいしゃ】の成長【せいちょう】を加速【かそく】させた。",
+    "meaning": "He launched new management policies and accelerated the company's growth."
+  },
+  {
+    "sentence": "彼女は組織のリーダーとして、メンバーの意見を集約した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】のリーダーとして、メンバーの意見【いけん】を集約【しゅうやく】した。",
+    "meaning": "As the organization's leader, she consolidated the members' opinions."
+  },
+  {
+    "sentence": "この法律は、国民生活の安定と発展を両立させることを目指しています。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】の安定【あんてい】と発展【はってん】を両立【りょうりつ】させることを目指【めざ】しています。",
+    "meaning": "This law aims to achieve both stability and development in the lives of citizens."
+  },
+  {
+    "sentence": "彼は長年の経験を活かし、チームの士気を高めた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かし、チームの士気【しき】を高【たか】めた。",
+    "meaning": "He boosted the team's morale by utilizing his years of experience."
+  },
+  {
+    "sentence": "彼女は組織の将来を見据え、大胆な改革を進めた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の将来【しょうらい】を見据【みす】え、大胆【だいたん】な改革【かいかく】を進【すす】めた。",
+    "meaning": "She looked to the future of the organization and pushed for bold reforms."
+  },
+  {
+    "sentence": "この大学は、学術研究の分野で世界をリードする存在を目指している。",
+    "sentence_furigana": "この大学【だいがく】は、学術研究【がくじつけんきゅう】の分野【ぶんや】で世界【せかい】をリードする存在【そんざい】を目指【めざ】している。",
+    "meaning": "This university aims to be a world leader in the field of academic research."
+  },
+  {
+    "sentence": "彼は統治者として、国民の団結を呼びかけた。",
+    "sentence_furigana": "彼【かれ】は統治者【とうちしゃ】として、国民【こくみん】の団結【だんけつ】を呼【よ】びかけた。",
+    "meaning": "As a ruler, he called for the unity of his people."
+  },
+  {
+    "sentence": "彼女は新しいアイデアを提唱し、組織の革新を推進した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しいアイデアを提唱【ていしょう】し、組織【そしき】の革新【かくしん】を推進【すいしん】した。",
+    "meaning": "She proposed new ideas and promoted innovation within the organization."
+  },
+  {
+    "sentence": "この法律は、社会全体の調和と発展を促進するものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の調和【ちょうわ】と発展【はってん】を促進【そくしん】するものです。",
+    "meaning": "This law promotes the harmony and development of the entire society."
+  },
+  {
+    "sentence": "彼はグローバルな視点で、国際社会との協調を図っている。",
+    "sentence_furigana": "彼【かれ】はグローバルな視点【してん】で、国際社会【こくさいしゃかい】との協調【きょうちょう】を図【はか】っている。",
+    "meaning": "He is seeking cooperation with the international community from a global perspective."
+  },
+  {
+    "sentence": "彼女は長年の経験を活かして、組織の業績を向上させた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の経験【けいけん】を活【い】かして、組織【そしき】の業績【ぎょうせき】を向上【こうじょう】させた。",
+    "meaning": "She improved the organization's performance by utilizing her years of experience."
+  },
+  {
+    "sentence": "この組織は、社会的な課題解決に向けて積極的に取り組んでいる。",
+    "sentence_furigana": "この組織【そしき】は、社会的【しゃかいてき】な課題解決【かだいかいけつ】に向けて積極的【せっきょくてき】に取り組【とりく】んでいる。",
+    "meaning": "This organization is actively working towards solving social issues."
+  },
+  {
+    "sentence": "彼は新しい経営方針を打ち出し、会社の競争力を強化した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい経営方針【けいえいほうしん】を打【う】ち出【だ】し、会社【かいしゃ】の競争力【きょうそうりょく】を強化【きょうか】した。",
+    "meaning": "He launched new management policies and strengthened the company's competitiveness."
+  },
+  {
+    "sentence": "彼女は組織のリーダーとして、チームの結束力を高めた。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】のリーダーとして、チームの結束力【けっそくりょく】を高【たか】めた。",
+    "meaning": "As the organization's leader, she enhanced the team's cohesion."
+  },
+  {
+    "sentence": "この法律は、国民生活の安定と向上を図るものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】の安定【あんてい】と向上【こうじょう】を図【はか】るものです。",
+    "meaning": "This law is intended to ensure the stability and improvement of citizens' lives."
+  },
+  {
+    "sentence": "彼は長年の経験を活かし、プロジェクトを成功に導いた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】を活【い】かし、プロジェクトを成功【せいこう】に導【みちび】いた。",
+    "meaning": "He led the project to success by utilizing his years of experience."
+  },
+  {
+    "sentence": "彼女は組織の将来を見据え、大胆な事業展開を計画した。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の将来【しょうらい】を見据【みす】え、大胆【だいたん】な事業展開【じぎょうてんかい】を計画【けいかく】した。",
+    "meaning": "She looked to the future of the organization and planned for bold business development."
+  },
+  {
+    "sentence": "この大学は、学術研究の分野で国内をリードする存在を目指している。",
+    "sentence_furigana": "この大学【だいがく】は、学術研究【がくじつけんきゅう】の分野【ぶんや】で国内【こくない】をリードする存在【そんざい】を目指【めざ】している。",
+    "meaning": "This university aims to be a leading presence in the country in the field of academic research."
+  }
+]

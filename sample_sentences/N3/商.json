@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "商人は商品を売って利益を得た。",
+    "sentence_furigana": "商人【しょうにん】は商品【しょうひん】を売【う】って利益【りえき】を得【え】た。",
+    "meaning": "The merchant sold the goods and made a profit."
+  },
+  {
+    "sentence": "このビジネスは大きな商取引につながった。",
+    "sentence_furigana": "このビジネスは大切【おお】きな商取引【しょうとりひき】につながった。",
+    "meaning": "This business led to a major commercial transaction."
+  },
+  {
+    "sentence": "彼は新しい商法を学んでいる。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい商法【しょうほう】を学【まな】んでいる。",
+    "meaning": "He is studying new commercial law."
+  },
+  {
+    "sentence": "商売は世の倣いという。",
+    "sentence_furigana": "商売【しょうばい】は世【よ】の倣【なら】いという。",
+    "meaning": "They say business is a reflection of the world."
+  },
+  {
+    "sentence": "彼らは共同で事業を展開している。",
+    "sentence_furigana": "彼【かれ】ら は共同【きょうどう】で事業【じぎょう】を展開【てんかい】している。",
+    "meaning": "They are developing the business jointly."
+  },
+  {
+    "sentence": "これは貴重な商談の機会です。",
+    "sentence_furigana": "これ は貴重【きちょう】な商談【しょうだん】の機会【きかい】です。",
+    "meaning": "This is a valuable business negotiation opportunity."
+  },
+  {
+    "sentence": "商店街は多くの人々で賑わっていた。",
+    "sentence_furigana": "商店街【しょうてんがい】は多【おお】くの人々【ひとびと】で賑【にぎ】わっていた。",
+    "meaning": "The shopping street was bustling with many people."
+  },
+  {
+    "sentence": "商品の品質は非常に高い。",
+    "sentence_furigana": "商品【しょうひん】の品質【ひんしつ】は非常【ひじょう】に高【たか】い。",
+    "meaning": "The quality of the merchandise is very high."
+  },
+  {
+    "sentence": "交渉の結果、合意に至った。",
+    "sentence_furigana": "交渉【こうしょう】の結果【けっか】、合意【ごうい】に至【いた】った。",
+    "meaning": "As a result of the negotiation, an agreement was reached."
+  },
+  {
+    "sentence": "政府は新しい商業政策を発表した。",
+    "sentence_furigana": "政府【せいふ】は新【あたら】しい商業政策【しょうぎょうせいさく】を発表【はっぴょう】した。",
+    "meaning": "The government announced a new commercial policy."
+  },
+  {
+    "sentence": "彼は商学部で経営学を専攻した。",
+    "sentence_furigana": "彼【かれ】は商学部【しょうがくぶ】で経営学【けいえいがく】を専攻【せんこう】した。",
+    "meaning": "He majored in business administration at the Faculty of Commerce."
+  },
+  {
+    "sentence": "この商品は海外でも人気がある。",
+    "sentence_furigana": "この商品【しょうひん】は海外【かいがい】でも人気【にんき】がある。",
+    "meaning": "This product is also popular overseas."
+  },
+  {
+    "sentence": "商業的な成功を目指して努力する。",
+    "sentence_furigana": "商業的【しょうぎょうてき】な成功【せいこう】を目指【めざ】して努力【どりょく】する。",
+    "meaning": "I will strive for commercial success."
+  },
+  {
+    "sentence": "この取引は大きな利益をもたらした。",
+    "sentence_furigana": "この取引【とりひき】は大切【おお】きな利益【りえき】をもたらした。",
+    "meaning": "This deal brought significant profits."
+  },
+  {
+    "sentence": "商社は世界中でビジネスを展開している。",
+    "sentence_furigana": "商社【しょうしゃ】は世界中【せかいじゅう】でビジネスを展開【てんかい】している。",
+    "meaning": "Trading companies operate businesses all over the world."
+  },
+  {
+    "sentence": "商務部は新しい市場を開拓している。",
+    "sentence_furigana": "商務部【しょうむぶ】は新【あたら】しい市場【しじょう】を開拓【かいたく】している。",
+    "meaning": "The commerce department is developing new markets."
+  },
+  {
+    "sentence": "この商品の販売戦略は成功した。",
+    "sentence_furigana": "この商品【しょうひん】の販売戦略【はんばいせんりゃく】は成功【せいこう】した。",
+    "meaning": "The sales strategy for this product was successful."
+  },
+  {
+    "sentence": "彼は商才に長けている。",
+    "sentence_furigana": "彼【かれ】は商才【しょうさい】に長【た】けている。",
+    "meaning": "He is gifted with business acumen."
+  },
+  {
+    "sentence": "この件について商談したいのですが。",
+    "sentence_furigana": "この件【けん】について商談【しょうだん】したいのですが。",
+    "meaning": "I would like to discuss business regarding this matter."
+  },
+  {
+    "sentence": "彼らは共同で新しい商品を開発した。",
+    "sentence_furigana": "彼【かれ】ら は共同【きょうどう】で新【あたら】しい商品【しょうひん】を開発【かいはつ】した。",
+    "meaning": "They jointly developed a new product."
+  },
+  {
+    "sentence": "商人は法を守り、正直に商売をするべきだ。",
+    "sentence_furigana": "商人【しょうにん】は法【ほう】を守【まも】り、正直【しょうじき】に商売【しょうばい】をするべきだ。",
+    "meaning": "Merchants should obey the law and conduct business honestly."
+  },
+  {
+    "sentence": "この商品は品質が保証されています。",
+    "sentence_furigana": "この商品【しょうひん】は品質【ひんしつ】が保証【ほしょう】されています。",
+    "meaning": "The quality of this product is guaranteed."
+  },
+  {
+    "sentence": "商業的な成功は容易ではない。",
+    "sentence_furigana": "商業的【しょうぎょうてき】な成功【せいこう】は容易【ようい】ではない。",
+    "meaning": "Commercial success is not easy."
+  },
+  {
+    "sentence": "彼らは多くの商品を扱っている。",
+    "sentence_furigana": "彼【かれ】ら は多【おお】くの商品【しょうひん】を扱【あつか】っている。",
+    "meaning": "They deal in many products."
+  },
+  {
+    "sentence": "この取引は成功裏に終わった。",
+    "sentence_furigana": "この取引【とりひき】は成功裏【せいこうり】に終【お】わった。",
+    "meaning": "The transaction ended successfully."
+  },
+  {
+    "sentence": "彼らは新しい事業を始める計画を立てている。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい事業【じぎょう】を始【はじ】める計画【けいかく】を立【た】てている。",
+    "meaning": "They are planning to start a new business."
+  },
+  {
+    "sentence": "商売繁盛を祈る。",
+    "sentence_furigana": "商売繁盛【しょうばいはんじょう】を祈【いの】る。",
+    "meaning": "I pray for prosperity in business."
+  },
+  {
+    "sentence": "この商品は市場で高い評価を得ている。",
+    "sentence_furigana": "この商品【しょうひん】は市場【しじょう】で高【たか】い評価【ひょうか】を得【え】ている。",
+    "meaning": "This product is highly rated in the market."
+  },
+  {
+    "sentence": "彼は商取引の専門家だ。",
+    "sentence_furigana": "彼【かれ】は商取引【しょうとりひき】の専門家【せんもんか】だ。",
+    "meaning": "He is an expert in commercial transactions."
+  },
+  {
+    "sentence": "彼らは国際的な商取引を行っている。",
+    "sentence_furigana": "彼【かれ】ら は国際的【こくさいてき】な商取引【しょうとりひき】を行【おこな】っている。",
+    "meaning": "They conduct international commercial transactions."
+  },
+  {
+    "sentence": "この商店は長年営業している。",
+    "sentence_furigana": "この商店【しょうてん】は長年【ながねん】営業【えいぎょう】している。",
+    "meaning": "This shop has been in business for many years."
+  },
+  {
+    "sentence": "商品の改良に努めています。",
+    "sentence_furigana": "商品【しょうひん】の改良【かいりょう】に努【つと】めている。",
+    "meaning": "We are working on improving the product."
+  },
+  {
+    "sentence": "商人は時代の変化に対応する必要がある。",
+    "sentence_furigana": "商人【しょうにん】は時代【じだい】の変化【へんか】に対応【たいおう】する必要【ひつよう】がある。",
+    "meaning": "Merchants need to adapt to changing times."
+  },
+  {
+    "sentence": "新しい商習慣を導入する。",
+    "sentence_furigana": "新【あたら】しい商習慣【しょうしゅうかん】を導入【どうにゅう】する。",
+    "meaning": "We will introduce new business practices."
+  },
+  {
+    "sentence": "この商品はセール中です。",
+    "sentence_furigana": "この商品【しょうひん】はセール中【ちゅう】です。",
+    "meaning": "This product is on sale."
+  },
+  {
+    "sentence": "彼らは多くの商談を進めている。",
+    "sentence_furigana": "彼【かれ】ら は多【おお】くの商談【しょうだん】を進【すす】めている。",
+    "meaning": "They are proceeding with many business negotiations."
+  },
+  {
+    "sentence": "商工会議所は地域経済の発展に貢献している。",
+    "sentence_furigana": "商工会議所【しょうこうかいぎしょ】は地域経済【ちいきけいざい】の発展【はってん】に貢献【こうけん】している。",
+    "meaning": "The Chamber of Commerce and Industry contributes to regional economic development."
+  },
+  {
+    "sentence": "この取引は非常に有利だった。",
+    "sentence_furigana": "この取引【とりひき】は非常【ひじょう】に有利【ゆうり】だった。",
+    "meaning": "This deal was very advantageous."
+  },
+  {
+    "sentence": "商品の陳列方法を工夫する。",
+    "sentence_furigana": "商品【しょうひん】の陳列方法【ちんれつほうほう】を工夫【くふう】する。",
+    "meaning": "We will devise a way to display the products."
+  },
+  {
+    "sentence": "彼は商社に勤務している。",
+    "sentence_furigana": "彼【かれ】は商社【しょうしゃ】に勤務【きんむ】している。",
+    "meaning": "He works for a trading company."
+  },
+  {
+    "sentence": "この商品は大変人気がある。",
+    "sentence_furigana": "この商品【しょうひん】は大変【たいへん】人気【にんき】がある。",
+    "meaning": "This product is very popular."
+  },
+  {
+    "sentence": "彼らは新しい商品を市場に投入した。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい商品【しょうひん】を市場【しじょう】に投入【とうにゅう】した。",
+    "meaning": "They launched new products into the market."
+  },
+  {
+    "sentence": "商取引における信頼は最も重要だ。",
+    "sentence_furigana": "商取引【しょうとりひき】における信頼【しんらい】は最重要【もっともじゅうよう】だ。",
+    "meaning": "Trust is most important in commercial transactions."
+  },
+  {
+    "sentence": "彼らはこの商品の販売権を獲得した。",
+    "sentence_furigana": "彼【かれ】ら はこの商品【しょうひん】の販売権【はんばいけん】を獲得【かくとく】した。",
+    "meaning": "They acquired the distribution rights for this product."
+  },
+  {
+    "sentence": "商人は公正な取引を心がけるべきだ。",
+    "sentence_furigana": "商人【しょうにん】は公正【こうせい】な取引【とりひき】を心【こころ】がけるべきだ。",
+    "meaning": "Merchants should strive for fair trade."
+  },
+  {
+    "sentence": "この商品は多くの顧客に支持されている。",
+    "sentence_furigana": "この商品【しょうひん】は多【おお】くの顧客【こきゃく】に支持【しじ】されている。",
+    "meaning": "This product is supported by many customers."
+  },
+  {
+    "sentence": "彼らは新しい販売促進策を講じた。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい販売促進策【はんばいそくしんさく】を講【こう】じた。",
+    "meaning": "They implemented new sales promotion measures."
+  },
+  {
+    "sentence": "商慣習に従って取引を進める。",
+    "sentence_furigana": "商慣習【しょうかんしゅう】に従【したが】って取引【とりひき】を進【すす】める。",
+    "meaning": "We will proceed with the transaction in accordance with business customs."
+  },
+  {
+    "sentence": "この商品の価格は適正だ。",
+    "sentence_furigana": "この商品【しょうひん】の価格【かかく】は適正【てきせい】だ。",
+    "meaning": "The price of this product is reasonable."
+  },
+  {
+    "sentence": "彼らは国際的な商社と契約を結んだ。",
+    "sentence_furigana": "彼【かれ】ら は国際的【こくさいてき】な商社【しょうしゃ】と契約【けいやく】を結【むす】んだ。",
+    "meaning": "They entered into a contract with an international trading company."
+  },
+  {
+    "sentence": "この商品は好評を得ています。",
+    "sentence_furigana": "この商品【しょうひん】は好評【こうひょう】を得【え】ています。",
+    "meaning": "This product is well received."
+  },
+  {
+    "sentence": "商取引におけるリスク管理は重要である。",
+    "sentence_furigana": "商取引【しょうとりひき】におけるリスク管理【かんり】は重要【じゅうよう】である。",
+    "meaning": "Risk management in commercial transactions is important."
+  },
+  {
+    "sentence": "彼らは海外市場への進出を計画している。",
+    "sentence_furigana": "彼【かれ】ら は海外市場【かいがいしじょう】への進出【しんしゅつ】を計画【けいかく】している。",
+    "meaning": "They are planning to advance into overseas markets."
+  },
+  {
+    "sentence": "商人は常に顧客のニーズを理解する必要がある。",
+    "sentence_furigana": "商人【しょうにん】は常【つね】に顧客【こきゃく】のニーズを理解【りかい】する必要【ひつよう】がある。",
+    "meaning": "Merchants must always understand customer needs."
+  },
+  {
+    "sentence": "この商品は品質と価格のバランスが良い。",
+    "sentence_furigana": "この商品【しょうひん】は品質【ひんしつ】と価格【かかく】のバランスが良い【よい】。",
+    "meaning": "This product has a good balance of quality and price."
+  },
+  {
+    "sentence": "彼らは新しいビジネスモデルを構築した。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しいビジネスモデルを構築【こうちく】した。",
+    "meaning": "They built a new business model."
+  },
+  {
+    "sentence": "商取引は双方の合意に基づいて行われるべきだ。",
+    "sentence_furigana": "商取引【しょうとりひき】は双方【そうほう】の合意【ごうい】に基づいて【もとづ】いて行【おこな】われるべきだ。",
+    "meaning": "Commercial transactions should be based on mutual agreement."
+  },
+  {
+    "sentence": "この商品は多くの賞賛を受けている。",
+    "sentence_furigana": "この商品【しょうひん】は多【おお】くの賞賛【しょうさん】を受【う】けている。",
+    "meaning": "This product has received much praise."
+  },
+  {
+    "sentence": "彼らはこの商品の改良に成功した。",
+    "sentence_furigana": "彼【かれ】ら はこの商品【しょうひん】の改良【かいりょう】に成功【せいこう】した。",
+    "meaning": "They succeeded in improving this product."
+  },
+  {
+    "sentence": "商人の倫理はビジネスの基盤となる。",
+    "sentence_furigana": "商人【しょうにん】の倫理【りんり】はビジネスの基盤【きばん】となる。",
+    "meaning": "Merchant ethics form the foundation of business."
+  },
+  {
+    "sentence": "この商品は環境に配慮して製造された。",
+    "sentence_furigana": "この商品【しょうひん】は環境【かんきょう】に配慮【はいりょ】して製造【せいぞう】された。",
+    "meaning": "This product was manufactured with consideration for the environment."
+  },
+  {
+    "sentence": "彼らは新しい店舗を開設した。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい店舗【てんぽ】を開設【かいせつ】した。",
+    "meaning": "They opened a new store."
+  },
+  {
+    "sentence": "商取引においては、契約内容の確認が不可欠である。",
+    "sentence_furigana": "商取引【しょうとりひき】においては、契約内容【けいやくないよう】の確認【かくにん】が不可欠【ふかけつ】である。",
+    "meaning": "In commercial transactions, confirmation of contract details is essential."
+  },
+  {
+    "sentence": "この商品は高い満足度を提供します。",
+    "sentence_furigana": "この商品【しょうひん】は高【たか】い満足度【まんぞくど】を提供【ていきょう】します。",
+    "meaning": "This product offers high satisfaction."
+  },
+  {
+    "sentence": "彼らは地域社会との良好な関係を築いている。",
+    "sentence_furigana": "彼【かれ】ら は地域社会【ちいきしゃかい】との良好【りょうこう】な関係【かんけい】を築【きず】いている。",
+    "meaning": "They are building good relationships with the local community."
+  },
+  {
+    "sentence": "商才のある人は、市場の動向を敏感に察知する。",
+    "sentence_furigana": "商才【しょうさい】のある人【ひと】は、市場【しじょう】の動向【どうこう】を敏感【びんかん】に察知【さっち】する。",
+    "meaning": "People with business acumen are sensitive to market trends."
+  },
+  {
+    "sentence": "この商品は持続可能な方法で生産されている。",
+    "sentence_furigana": "この商品【しょうひん】は持続可能【じぞくかのう】な方法【ほうほう】で生産【せいさん】されている。",
+    "meaning": "This product is produced in a sustainable way."
+  },
+  {
+    "sentence": "彼らはグローバルな市場で競争している。",
+    "sentence_furigana": "彼【かれ】ら はグローバルな市場【しじょう】で競争【きょうそう】している。",
+    "meaning": "They are competing in the global market."
+  },
+  {
+    "sentence": "商取引においては、誠実さが何よりも大切だ。",
+    "sentence_furigana": "商取引【しょうとりひき】においては、誠実【せいじつ】さが何【なに】よりも大切【たいせつ】だ。",
+    "meaning": "Honesty is paramount in commercial transactions."
+  },
+  {
+    "sentence": "この商品は革新的な技術を取り入れている。",
+    "sentence_furigana": "この商品【しょうひん】は革新的【かくしんてき】な技術【ぎじゅつ】を取【と】り入【い】れている。",
+    "meaning": "This product incorporates innovative technology."
+  },
+  {
+    "sentence": "彼らは新しい流通チャネルを開拓した。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい流通チャネルを開拓【かいたく】した。",
+    "meaning": "They developed new distribution channels."
+  },
+  {
+    "sentence": "商売は信頼関係の上に成り立つ。",
+    "sentence_furigana": "商売【しょうばい】は信頼関係【しんらいかんけい】の上に成【な】り立【た】つ。",
+    "meaning": "Business is built on trust."
+  },
+  {
+    "sentence": "この商品は顧客の期待に応えている。",
+    "sentence_furigana": "この商品【しょうひん】は顧客【こきゃく】の期待【きたい】に応【こた】えている。",
+    "meaning": "This product meets customer expectations."
+  },
+  {
+    "sentence": "彼らは迅速な顧客サービスを提供している。",
+    "sentence_furigana": "彼【かれ】ら は迅速【じんそく】な顧客サービスを提供【ていきょう】している。",
+    "meaning": "They provide prompt customer service."
+  },
+  {
+    "sentence": "商取引の円滑な遂行のために、情報共有が重要だ。",
+    "sentence_furigana": "商取引【しょうとりひき】の円滑【えんかつ】な遂行【すいこう】のため に 、情報共有【じょうほうきょうゆう】が重要【じゅうよう】だ。",
+    "meaning": "Information sharing is important for the smooth execution of commercial transactions."
+  },
+  {
+    "sentence": "この商品は時代のニーズに合わせて改良された。",
+    "sentence_furigana": "この商品【しょうひん】は時代【じだい】のニーズに合わせて改良【かいりょう】された。",
+    "meaning": "This product has been improved to meet the needs of the times."
+  },
+  {
+    "sentence": "彼らは国際的な商慣習を尊重する。",
+    "sentence_furigana": "彼【かれ】ら は国際的【こくさいてき】な商慣習【しょうかんしゅう】を尊重【そんちょう】する。",
+    "meaning": "They respect international business customs."
+  },
+  {
+    "sentence": "商売はリスクを伴うが、それに見合う報酬も期待できる。",
+    "sentence_furigana": "商売【しょうばい】はリスクを伴【ともな】うが、それに見合【みあ】う報酬【ほうしゅう】も期待【きたい】できる。",
+    "meaning": "Business involves risks, but commensurate rewards can also be expected."
+  },
+  {
+    "sentence": "この商品は多くの消費者に愛されている。",
+    "sentence_furigana": "この商品【しょうひん】は多【おお】くの消費者【しょうひしゃ】に愛【あい】されている。",
+    "meaning": "This product is loved by many consumers."
+  },
+  {
+    "sentence": "彼らは持続可能な成長を目指している。",
+    "sentence_furigana": "彼【かれ】ら は持続可能【じぞくかのう】な成長【せいちょう】を目指【めざ】している。",
+    "meaning": "They are aiming for sustainable growth."
+  },
+  {
+    "sentence": "商取引における契約書は、権利と義務を明確にするために重要である。",
+    "sentence_furigana": "商取引【しょうとりひき】における契約書【けいやくしょ】は、権利【けんり】と義務【ぎむ】を明確【めいかく】にするため に重要【じゅうよう】である。",
+    "meaning": "Contracts in commercial transactions are important for clarifying rights and obligations."
+  },
+  {
+    "sentence": "この商品は市場で確固たる地位を築いている。",
+    "sentence_furigana": "この商品【しょうひん】は市場【しじょう】で確固【かっこ】たる地位【ちい】を築【きず】いている。",
+    "meaning": "This product has established a firm position in the market."
+  },
+  {
+    "sentence": "彼らは新しいビジネスパートナーを探している。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しいビジネスパートナーを探【さが】している。",
+    "meaning": "They are looking for new business partners."
+  },
+  {
+    "sentence": "商売においては、変化への適応力が求められる。",
+    "sentence_furigana": "商売【しょうばい】においては、変化【へんか】への適応力【てきおうりょく】が求【もと】められる。",
+    "meaning": "In business, adaptability to change is required."
+  },
+  {
+    "sentence": "この商品は世界中の人々に利用されている。",
+    "sentence_furigana": "この商品【しょうひん】は世界中【せかいじゅう】の人々【ひとびと】に利用【りよう】されている。",
+    "meaning": "This product is used by people all over the world."
+  },
+  {
+    "sentence": "彼らは輸出入に関する専門知識を持っている。",
+    "sentence_furigana": "彼【かれ】ら は輸出入【ゆしゅつにゅう】に関する専門知識【せんもんちしき】を持っている。",
+    "meaning": "They have expertise in import and export."
+  },
+  {
+    "sentence": "商取引においては、法律を遵守することが必須である。",
+    "sentence_furigana": "商取引【しょうとりひき】においては、法律【ほうりつ】を遵守【じゅんしゅ】することが必須【ひっす】である。",
+    "meaning": "Compliance with the law is essential in commercial transactions."
+  },
+  {
+    "sentence": "この商品は優れたコストパフォーマンスを発揮する。",
+    "sentence_furigana": "この商品【しょうひん】は優【すぐ】れたコストパフォーマンスを発揮【はっき】する。",
+    "meaning": "This product offers excellent cost performance."
+  },
+  {
+    "sentence": "彼らは新しい市場を開拓するための戦略を練っている。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい市場【しじょう】を開拓【かいたく】するための戦略【せんりゃく】を練【ね】っている。",
+    "meaning": "They are devising strategies to develop new markets."
+  },
+  {
+    "sentence": "商売の成功は、顧客との信頼関係にかかっている。",
+    "sentence_furigana": "商売【しょうばい】の成功【せいこう】は、顧客【こきゃく】との信頼関係【しんらいかんけい】にかかっている。",
+    "meaning": "Business success depends on the trust relationship with customers."
+  },
+  {
+    "sentence": "この商品は、革新的なデザインで注目を集めている。",
+    "sentence_furigana": "この商品【しょうひん】は、革新的【かくしんてき】なデザインで注目【ちゅうもく】を集【あつ】めている。",
+    "meaning": "This product is attracting attention with its innovative design."
+  },
+  {
+    "sentence": "彼らはグローバルネットワークを活用してビジネスを展開している。",
+    "sentence_furigana": "彼【かれ】ら はグローバルネットワークを活用【かつよう】してビジネスを展開【てんかい】している。",
+    "meaning": "They are developing business by utilizing their global network."
+  },
+  {
+    "sentence": "商取引においては、迅速な意思決定が求められる。",
+    "sentence_furigana": "商取引【しょうとりひき】においては、迅速【じんそく】な意思決定【いしけってい】が求【もと】められる。",
+    "meaning": "Prompt decision-making is required in commercial transactions."
+  },
+  {
+    "sentence": "この商品は、顧客の多様なニーズに応えることができる。",
+    "sentence_furigana": "この商品【しょうひん】は、顧客【こきゃく】の多様【たよう】なニーズに応【こた】えることができる。",
+    "meaning": "This product can meet the diverse needs of customers."
+  },
+  {
+    "sentence": "彼らは地域経済の活性化に貢献している。",
+    "sentence_furigana": "彼【かれ】ら は地域経済【ちいきけいざい】の活性化【かっせいか】に貢献【こうけん】している。",
+    "meaning": "They are contributing to the revitalization of the regional economy."
+  },
+  {
+    "sentence": "商売の基本は、顧客満足を追求することにある。",
+    "sentence_furigana": "商売【しょうばい】の基本【きほん】は、顧客満足【こきゃくまんぞく】を追求【ついきゅう】することにある。",
+    "meaning": "The basic principle of business is to pursue customer satisfaction."
+  },
+  {
+    "sentence": "この商品は、最新の技術動向を反映している。",
+    "sentence_furigana": "この商品【しょうひん】は、最新【さいしん】の技術動向【ぎじゅつどうこう】を反映【はんえい】している。",
+    "meaning": "This product reflects the latest technological trends."
+  },
+  {
+    "sentence": "彼らは国際的なビジネスフレームワークを理解している。",
+    "sentence_furigana": "彼【かれ】ら は国際的【こくさいてき】なビジネスフレームワークを理解【りかい】している。",
+    "meaning": "They understand international business frameworks."
+  },
+  {
+    "sentence": "商取引においては、予期せぬ事態に備えることが重要だ。",
+    "sentence_furigana": "商取引【しょうとりひき】においては、予期せぬ【よきせぬ】事態【じたい】に備【そな】えることが重要【じゅうよう】だ。",
+    "meaning": "It is important to prepare for unforeseen circumstances in commercial transactions."
+  },
+  {
+    "sentence": "この商品は、持続可能な社会の実現に貢献する。",
+    "sentence_furigana": "この商品【しょうひん】は、持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】に貢献【こうけん】する。",
+    "meaning": "This product contributes to the realization of a sustainable society."
+  },
+  {
+    "sentence": "彼らは新しい市場への参入戦略を検討している。",
+    "sentence_furigana": "彼【かれ】ら は新【あたら】しい市場【しじょう】への参入戦略【さんにゅうせんりゃく】を検討【けんとう】している。",
+    "meaning": "They are considering strategies for entering new markets."
+  },
+  {
+    "sentence": "商売の拡大には、革新的なアイデアが不可欠である。",
+    "sentence_furigana": "商売【しょうばい】の拡大【かくだい】には、革新的【かくしんてき】なアイデアが不可欠【ふかけつ】である。",
+    "meaning": "Innovative ideas are essential for business expansion."
+  }
+]

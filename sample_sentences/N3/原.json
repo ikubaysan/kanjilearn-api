@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "彼女は広い原野を駆け抜けた。",
+    "sentence_furigana": "彼女【かのじょ】は広【ひろ】い原野【げんや】を駆【か】け抜【ぬ】けた。",
+    "meaning": "She ran through the vast wilderness."
+  },
+  {
+    "sentence": "この土地は元々原野だった。",
+    "sentence_furigana": "この土地【とち】は元々【もともと】原野【げんや】だった。",
+    "meaning": "This land was originally a wilderness."
+  },
+  {
+    "sentence": "その高原は広大な原っぱが広がっていた。",
+    "sentence_furigana": "その高原【こうげん】は広大【こうだい】な原っぱが広【ひろ】がっていた。",
+    "meaning": "The plateau had a vast meadow spreading out."
+  },
+  {
+    "sentence": "彼は原っぱで子供たちと遊んだ。",
+    "sentence_furigana": "彼【かれ】は原っぱで子供【こども】たちと遊【あそ】んだ。",
+    "meaning": "He played with the children in the field."
+  },
+  {
+    "sentence": "その町は元の姿を取り戻した。",
+    "sentence_furigana": "その町【まち】は元【もと】の姿【すがた】を取【と】り戻【もど】した。",
+    "meaning": "The town regained its original appearance."
+  },
+  {
+    "sentence": "事件の原点を調査する必要がある。",
+    "sentence_furigana": "事件【じけん】の原点【げんてん】を調査【ちょうさ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to investigate the origin of the incident."
+  },
+  {
+    "sentence": "これは私の元の住まいです。",
+    "sentence_furigana": "これ summand 私【わたし】の元【もと】の住まい summand です。",
+    "meaning": "This is my original home."
+  },
+  {
+    "sentence": "その議論は本題から外れている。",
+    "sentence_furigana": "その議論【ぎろん】は本題【ほんだい】から外【はず】れている。",
+    "meaning": "That discussion is deviating from the main topic."
+  },
+  {
+    "sentence": "彼は元の会社に戻った。",
+    "sentence_furigana": "彼【かれ】は元【もと】の会社【かいしゃ】に戻【もど】った。",
+    "meaning": "He returned to his original company."
+  },
+  {
+    "sentence": "これは原始時代の道具です。",
+    "sentence_furigana": "これ summand 原始時代【げんしじだい】の道具【どうぐ】です。",
+    "meaning": "These are tools from the primitive era."
+  },
+  {
+    "sentence": "原始的な生活を送っていた。",
+    "sentence_furigana": "原始的【げんしてき】な生活【せいかつ】を送【おく】っていた。",
+    "meaning": "They were living a primitive life."
+  },
+  {
+    "sentence": "その文明は原始のままだった。",
+    "sentence_furigana": "その文明【ぶんめい】は原始【げんし】のままだった。",
+    "meaning": "That civilization remained primitive."
+  },
+  {
+    "sentence": "この広大な平野は農耕に適している。",
+    "sentence_furigana": "この広大【こうだい】な平野【へいや】は農耕【のうこう】に適【てき】している。",
+    "meaning": "This vast plain is suitable for agriculture."
+  },
+  {
+    "sentence": "平野部では農業が盛んに行われている。",
+    "sentence_furigana": "平野部【へいやぶ】では農業【のうぎょう】が盛【さか】んに行【おこな】われている。",
+    "meaning": "Agriculture is thriving in the plains."
+  },
+  {
+    "sentence": "その車は原色の塗装が施されていた。",
+    "sentence_furigana": "その車【くるま】は原色【げんしょく】の塗装【とそう】が施【ほどこ】されていた。",
+    "meaning": "The car was painted in primary colors."
+  },
+  {
+    "sentence": "彼は原点に戻って努力した。",
+    "sentence_furigana": "彼【かれ】は原点【げんてん】に戻【もど】って努力【どりょく】した。",
+    "meaning": "He returned to the starting point and worked hard."
+  },
+  {
+    "sentence": "草原に牛が放牧されていた。",
+    "sentence_furigana": "草原【そうげん】に牛【うし】が放牧【ほうぼく】されていた。",
+    "meaning": "Cows were grazing in the meadow."
+  },
+  {
+    "sentence": "広大な草原が広がっていた。",
+    "sentence_furigana": "広大【こうだい】な草原【そうげん】が広【ひろ】がっていた。",
+    "meaning": "A vast meadow stretched out."
+  },
+  {
+    "sentence": "原作者に敬意を表します。",
+    "sentence_furigana": "原作者【げんさくしゃ】に敬意【けいい】を表【ひょう】します。",
+    "meaning": "I pay respect to the original author."
+  },
+  {
+    "sentence": "元の計画通りに進める。",
+    "sentence_furigana": "元【もと】の計画【けいかく】通【どお】りに進【すす】める。",
+    "meaning": "We will proceed as per the original plan."
+  },
+  {
+    "sentence": "これはその事件の原報です。",
+    "sentence_furigana": "これ summand その事件【じけん】の原報【げんぽう】です。",
+    "meaning": "This is the original report of the incident."
+  },
+  {
+    "sentence": "その原始林は手つかずの自然が残っていた。",
+    "sentence_furigana": "その原始林【げんしりん】は手つかずの自然【しぜん】が残【のこ】っていた。",
+    "meaning": "The primeval forest retained its untouched nature."
+  },
+  {
+    "sentence": "原始的な道具しか持っていなかった。",
+    "sentence_furigana": "原始的【げんしてき】な道具【どうぐ】しか持【も】っていなかった。",
+    "meaning": "They only had primitive tools."
+  },
+  {
+    "sentence": "この原稿は未完成です。",
+    "sentence_furigana": "この原稿【げんこう】は未完成【みかんせい】です。",
+    "meaning": "This manuscript is unfinished."
+  },
+  {
+    "sentence": "彼は原爆の悲劇を語った。",
+    "sentence_furigana": "彼【かれ】は原爆【げんばく】の悲劇【ひげき】を語【かた】った。",
+    "meaning": "He spoke of the tragedy of the atomic bomb."
+  },
+  {
+    "sentence": "原発の安全性が議論されている。",
+    "sentence_furigana": "原発【げんぱつ】の安全性【あんぜんせい】が議論【ぎろん】されている。",
+    "meaning": "The safety of nuclear power plants is being debated."
+  },
+  {
+    "sentence": "原油価格が上昇した。",
+    "sentence_furigana": "原油価格【げんゆかかく】が上昇【じょうしょう】した。",
+    "meaning": "The crude oil price has risen."
+  },
+  {
+    "sentence": "元の住んでいた場所に戻る。",
+    "sentence_furigana": "元【もと】の住 summand いた場所【ばしょ】に戻【もど】る。",
+    "meaning": "Return to the place where I originally lived."
+  },
+  {
+    "sentence": "原野を開墾して農地にした。",
+    "sentence_furigana": "原野【げんや】を開墾【かいこん】して農地【のうち】にした。",
+    "meaning": "The wilderness was reclaimed and turned into farmland."
+  },
+  {
+    "sentence": "この地域の原住民について学んだ。",
+    "sentence_furigana": "この地域【ちいき】の原住民【げんじゅうみん】について学【まな】んだ。",
+    "meaning": "I learned about the indigenous people of this region."
+  },
+  {
+    "sentence": "彼女は原稿用紙に小説を書いている。",
+    "sentence_furigana": "彼女【かのじょ】は原稿用紙【げんこうようし】に小説【しょうせつ】を書【か】いている。",
+    "meaning": "She is writing a novel on manuscript paper."
+  },
+  {
+    "sentence": "原爆ドームは平和の象徴です。",
+    "sentence_furigana": "原爆ドーム【げんばくドーム】は平和【へいわ】の象徴【しょうちょう】です。",
+    "meaning": "The Atomic Bomb Dome is a symbol of peace."
+  },
+  {
+    "sentence": "原爆による被害は甚大だった。",
+    "sentence_furigana": "原爆【げんばく】による被害【ひがい】は甚大【じんだい】だった。",
+    "meaning": "The damage caused by the atomic bomb was immense."
+  },
+  {
+    "sentence": "原油取引が活発に行われている。",
+    "sentence_furigana": "原油取引【げんゆとりひき】が活発【かっぱつ】に行【おこな】われている。",
+    "meaning": "Crude oil trading is actively taking place."
+  },
+  {
+    "sentence": "原住民の文化を守る必要がある。",
+    "sentence_furigana": "原住民【げんじゅうみん】の文化【ぶんか】を守【まも】る必要がある。",
+    "meaning": "It is necessary to protect the culture of the indigenous people."
+  },
+  {
+    "sentence": "その原動力は彼の情熱だった。",
+    "sentence_furigana": "その原動力【げんどうりょく】は彼【かれ】の情熱【じょうねつ】だった。",
+    "meaning": "The driving force was his passion."
+  },
+  {
+    "sentence": "原始時代の洞窟壁画が見つかった。",
+    "sentence_furigana": "原始時代【げんしじだい】の洞窟壁画【どうくつへきが】が見【み】つかった。",
+    "meaning": "Cave paintings from the primitive era were found."
+  },
+  {
+    "sentence": "原住民の暮らしは自然と共にある。",
+    "sentence_furigana": "原住民【げんじゅうみん】の暮【く】らしは自然【しぜん】と共【とも】にある。",
+    "meaning": "The lives of indigenous people are in harmony with nature."
+  },
+  {
+    "sentence": "この分野の原点は古代ギリシャにある。",
+    "sentence_furigana": "この分野【ぶんや】の原点【げんてん】は古代ギリシャにある。",
+    "meaning": "The origin of this field lies in ancient Greece."
+  },
+  {
+    "sentence": "原爆投下の歴史について学んでいる。",
+    "sentence_furigana": "原爆投下【げんばくとおか】の歴史【れきし】について学【まな】んでいる。",
+    "meaning": "I am learning about the history of the atomic bombing."
+  },
+  {
+    "sentence": "原油市場の動向を注視している。",
+    "sentence_furigana": "原油市場【げんゆしじょう】の動向【どうこう】を注視【ちゅうし】している。",
+    "meaning": "We are closely watching the trends in the crude oil market."
+  },
+  {
+    "sentence": "彼女は原稿の校正を行っている。",
+    "sentence_furigana": "彼女【かのじょ】は原稿【げんこう】の校正【こうせい】を行【おこな】っている。",
+    "meaning": "She is proofreading the manuscript."
+  },
+  {
+    "sentence": "原始人の生活を再現する。",
+    "sentence_furigana": "原始人【げんしじん】の生活【せいかつ】を再現【さいげん】する。",
+    "meaning": "Reproduce the life of primitive humans."
+  },
+  {
+    "sentence": "原点からの距離を測る。",
+    "sentence_furigana": "原点【げんてん】からの距離【きょり】を測【はか】る。",
+    "meaning": "Measure the distance from the origin."
+  },
+  {
+    "sentence": "この平原には多くの野生動物が生息している。",
+    "sentence_furigana": "この平原【へいげん】には多【おお】くの野生動物【やせいどうぶつ】が生息【せいそく】している。",
+    "meaning": "Many wild animals inhabit this plain."
+  },
+  {
+    "sentence": "元の場所に戻してください。",
+    "sentence_furigana": "元【もと】の場所【ばしょ】に戻【もど】してください。",
+    "meaning": "Please return it to its original place."
+  },
+  {
+    "sentence": "原作者の意図を尊重するべきだ。",
+    "sentence_furigana": "原作者【げんさくしゃ】の意図【いと】を尊重【そんちょう】すべきだ。",
+    "meaning": "One should respect the author's intentions."
+  },
+  {
+    "sentence": "原爆反対のデモが行われた。",
+    "sentence_furigana": "原爆反対【げんばくはんたい】のデモが行【おこな】われた。",
+    "meaning": "A demonstration against the atomic bomb was held."
+  },
+  {
+    "sentence": "原油価格の変動が激しい。",
+    "sentence_furigana": "原油価格【げんゆかかく】の変動【へんどう】が激【はげ】しい。",
+    "meaning": "Crude oil prices are volatile."
+  },
+  {
+    "sentence": "原案を基に改良を加える。",
+    "sentence_furigana": "原案【げんあん】を基【もと】に改良【かいりょう】を加【くわ】える。",
+    "meaning": "Improvement will be made based on the original draft."
+  },
+  {
+    "sentence": "原住民の言語は貴重な遺産です。",
+    "sentence_furigana": "原住民【げんじゅうみん】の言語【げんご】は貴重【きちょう】な遺産【いさん】です。",
+    "meaning": "The language of the indigenous people is a valuable heritage."
+  },
+  {
+    "sentence": "この土地は元々原野だった。",
+    "sentence_furigana": "この土地【とち】は元々【もともと】原野【げんや】だった。",
+    "meaning": "This land was originally wilderness."
+  },
+  {
+    "sentence": "原稿を締め切りまでに提出する必要がある。",
+    "sentence_furigana": "原稿【げんこう】を締切【しめきり】までに提出【ていしゅつ】する必要【ひつよう】がある。",
+    "meaning": "The manuscript must be submitted by the deadline."
+  },
+  {
+    "sentence": "原爆の悲惨さを後世に伝える。",
+    "sentence_furigana": "原爆【げんばく】の悲惨【ひさん】さを後世【こうせい】に伝【つた】える。",
+    "meaning": "Convey the misery of the atomic bomb to future generations."
+  },
+  {
+    "sentence": "原油の生産量が減少した。",
+    "sentence_furigana": "原油【げんゆ】の生産量【せいさんりょう】が減少【げんしょう】した。",
+    "meaning": "The production volume of crude oil decreased."
+  },
+  {
+    "sentence": "原点回帰を目指す。",
+    "sentence_furigana": "原点回帰【げんてんかいき】を目指【めざ】す。",
+    "meaning": "Aim to return to the origin."
+  },
+  {
+    "sentence": "広大な原野が広がる景色は美しい。",
+    "sentence_furigana": "広大【こうだい】な原野【げんや】が広【ひろ】がる景色【けしき】は美【うつく】しい。",
+    "meaning": "The scenery of the vast wilderness spreading out is beautiful."
+  },
+  {
+    "sentence": "元の状態に戻す。",
+    "sentence_furigana": "元【もと】の状態【じょうたい】に戻【もど】す。",
+    "meaning": "Return to the original state."
+  },
+  {
+    "sentence": "彼は原始的な狩猟生活を送っていた。",
+    "sentence_furigana": "彼【かれ】は原始的【げんしてき】な狩猟生活【しゅりょうせいかつ】を送【おく】っていた。",
+    "meaning": "He lived a primitive hunting life."
+  },
+  {
+    "sentence": "原作者へのリスペクトを表す。",
+    "sentence_furigana": "原作者【げんさくしゃ】へのリスペクトを表【あらわ】す。",
+    "meaning": "Show respect to the original author."
+  },
+  {
+    "sentence": "原爆の記憶を風化させない。",
+    "sentence_furigana": "原爆【げんばく】の記憶【きおく】を風化【ふうか】させない。",
+    "meaning": "Do not let the memory of the atomic bomb fade."
+  },
+  {
+    "sentence": "原油市場は不安定だ。",
+    "sentence_furigana": "原油市場【げんゆしじょう】は不安定【ふあんてい】だ。",
+    "meaning": "The crude oil market is unstable."
+  },
+  {
+    "sentence": "これは原案の段階です。",
+    "sentence_furigana": "これ summand 原案【げんあん】の段階【だんかい】です。",
+    "meaning": "This is the stage of the original draft."
+  },
+  {
+    "sentence": "原住民の伝統を守り続ける。",
+    "sentence_furigana": "原住民【げんじゅうみん】の伝統【でんとう】を守【まも】り続【つづ】ける。",
+    "meaning": "Continue to protect the traditions of the indigenous people."
+  },
+  {
+    "sentence": "原野を馬で疾走する。",
+    "sentence_furigana": "原野【げんや】を馬【うま】で疾走【しっそう】する。",
+    "meaning": "Gallop through the wilderness on horseback."
+  },
+  {
+    "sentence": "元の場所に返す。",
+    "sentence_furigana": "元【もと】の場所【ばしょ】に返【かえ】す。",
+    "meaning": "Return it to its original place."
+  },
+  {
+    "sentence": "原爆の悲劇を二度と繰り返さない。",
+    "sentence_furigana": "原爆【げんばく】の悲劇【ひげき】を二度【にど】と繰【く】り返【かえ】さない。",
+    "meaning": "Never repeat the tragedy of the atomic bomb."
+  },
+  {
+    "sentence": "原油価格の急騰に警戒が必要だ。",
+    "sentence_furigana": "原油価格【げんゆかかく】の急騰【きゅうとう】に警戒【けいかい】が必要【ひつよう】だ。",
+    "meaning": "Caution is needed due to the sharp rise in crude oil prices."
+  },
+  {
+    "sentence": "原始時代の人々は火を使っていた。",
+    "sentence_furigana": "原始時代【げんしじだい】の人々【ひとびと】は火【ひ】を使【つか】っていた。",
+    "meaning": "People in primitive times used fire."
+  },
+  {
+    "sentence": "原作者はペンネームで活動している。",
+    "sentence_furigana": "原作者【げんさくしゃ】はペンネームで活動【かつどう】している。",
+    "meaning": "The original author is active under a pen name."
+  },
+  {
+    "sentence": "原案から大幅な変更があった。",
+    "sentence_furigana": "原案【げんあん】から大幅【おおはば】な変更【へんこう】があった。",
+    "meaning": "There were significant changes from the original draft."
+  },
+  {
+    "sentence": "この原稿は歴史的価値が高い。",
+    "sentence_furigana": "この原稿【げんこう】は歴史的価値【れきしてきかち】が高【たか】い。",
+    "meaning": "This manuscript has high historical value."
+  },
+  {
+    "sentence": "原爆の子の像は平和への願いを込めている。",
+    "sentence_furigana": "原爆の子【げんばくのこ】の像【ぞう】は平和【へいわ】への願【ねが】いを込【こ】めている。",
+    "meaning": "The statue of the atomic bomb victim conveys a wish for peace."
+  },
+  {
+    "sentence": "原油取引の動向が注目されている。",
+    "sentence_furigana": "原油取引【げんゆとりひき】の動向【どうこう】が注目【ちゅうもく】されている。",
+    "meaning": "The trends in crude oil trading are drawing attention."
+  },
+  {
+    "sentence": "原住民の信仰は自然崇拝に基づいている。",
+    "sentence_furigana": "原住民【げんじゅうみん】の信仰【しんこう】は自然崇拝【しぜんすうはい】に基づ【もとづ】いている。",
+    "meaning": "The faith of indigenous people is based on nature worship."
+  },
+  {
+    "sentence": "これは原爆が投下された場所です。",
+    "sentence_furigana": "これ summand 原爆【げんばく】が投下【とうか】された場所【ばしょ】です。",
+    "meaning": "This is the place where the atomic bomb was dropped."
+  },
+  {
+    "sentence": "原始時代の火起こし器を見つけた。",
+    "sentence_furigana": "原始時代【げんしじだい】の火起【ひお】こし器【き】を見【み】つけた。",
+    "meaning": "I found a fire-starting tool from the primitive era."
+  },
+  {
+    "sentence": "原著の論文を読んだ。",
+    "sentence_furigana": "原著【げんちょ】の論文【ろんぶん】を読【よ】んだ。",
+    "meaning": "I read the original paper."
+  },
+  {
+    "sentence": "原稿の校正をお願いします。",
+    "sentence_furigana": "原稿【げんこう】の校正【こうせい】をお願いします。",
+    "meaning": "Please proofread the manuscript."
+  },
+  {
+    "sentence": "草原でピクニックを楽しんだ。",
+    "sentence_furigana": "草原【そうげん】でピクニックを楽【たの】しんだ。",
+    "meaning": "We enjoyed a picnic in the meadow."
+  },
+  {
+    "sentence": "原点はここから始まる。",
+    "sentence_furigana": "原点【げんてん】はここから始【はじ】まる。",
+    "meaning": "The origin starts from here."
+  },
+  {
+    "sentence": "原爆犠牲者の慰霊碑が建てられた。",
+    "sentence_furigana": "原爆犠牲者【げんばくぎせいしゃ】の慰霊碑【いれいひ】が建【た】てられた。",
+    "meaning": "A memorial monument for the victims of the atomic bomb was erected."
+  },
+  {
+    "sentence": "原油価格の急落が経済に影響を与えた。",
+    "sentence_furigana": "原油価格【げんゆかかく】の急落【きゅうらく】が経済【けいざい】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "The sharp drop in crude oil prices affected the economy."
+  },
+  {
+    "sentence": "この原野は開発が進んでいる。",
+    "sentence_furigana": "この原野【げんや】は開発【かいはつ】が進【すす】んでいる。",
+    "meaning": "Development is progressing in this wilderness."
+  },
+  {
+    "sentence": "原住民の言語は絶滅の危機にある。",
+    "sentence_furigana": "原住民【げんじゅうみん】の言語【げんご】は絶滅【ぜつめつ】の危機【きき】にある。",
+    "meaning": "The language of the indigenous people is on the verge of extinction."
+  },
+  {
+    "sentence": "元の姿に戻してくれ。",
+    "sentence_furigana": "元【もと】の姿【すがた】に戻【もど】してくれ。",
+    "meaning": "Return it to its original form."
+  },
+  {
+    "sentence": "原稿用紙の使い方を学んだ。",
+    "sentence_furigana": "原稿用紙【げんこうようし】の使い方【つか】い方【かた】を学【まな】んだ。",
+    "meaning": "I learned how to use manuscript paper."
+  },
+  {
+    "sentence": "原爆の記録映画を観た。",
+    "sentence_furigana": "原爆【げんばく】の記録映画【きろくえいが】を観【み】た。",
+    "meaning": "I watched a documentary film about the atomic bomb."
+  },
+  {
+    "sentence": "原油の在庫が積み上がっている。",
+    "sentence_furigana": "原油【げんゆ】の在庫【ざいこ】が積【つ】み上【あ】がっている。",
+    "meaning": "Crude oil inventories are piling up."
+  },
+  {
+    "sentence": "原作者へのリスペクトが欠けている。",
+    "sentence_furigana": "原作者【げんさくしゃ】へのリスペクトが欠【か】けている。",
+    "meaning": "Respect for the original author is lacking."
+  },
+  {
+    "sentence": "原案に忠実に再現する。",
+    "sentence_furigana": "原案【げんあん】に忠実【ちゅうじつ】に再現【さいげん】する。",
+    "meaning": "Reproduce faithfully to the original draft."
+  },
+  {
+    "sentence": "この平原は多様な生態系を育んでいる。",
+    "sentence_furigana": "この平原【へいげん】は多様【たよう】な生態系【せいたいけい】を育【はぐく】んでいる。",
+    "meaning": "This plain fosters a diverse ecosystem."
+  },
+  {
+    "sentence": "原爆投下の是非が問われている。",
+    "sentence_furigana": "原爆投下【げんばくとおか】の是非【ぜひ】が問【と】われている。",
+    "meaning": "The pros and cons of the atomic bombing are being questioned."
+  }
+]

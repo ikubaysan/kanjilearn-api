@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "彼は気持ち悪そうにえずいた。",
+    "sentence_furigana": "彼【かれ】は気【き】持【も】ち悪【わる】そうにえずいた。",
+    "meaning": "He seemed nauseous and gagged."
+  },
+  {
+    "sentence": "子供が急に吐き始めた。",
+    "sentence_furigana": "子供【こども】が急【きゅう】に吐【は】き始【はじ】めた。",
+    "meaning": "The child suddenly started vomiting."
+  },
+  {
+    "sentence": "無理に食べさせられて吐いてしまった。",
+    "sentence_furigana": "無理【むり】に食【た】べさせられて吐【は】いてしまった。",
+    "meaning": "I was forced to eat and ended up vomiting."
+  },
+  {
+    "sentence": "その匂いで思わず吐きそうになった。",
+    "sentence_furigana": "その匂【にお】いで思【おも】わず吐【は】きそうになった。",
+    "meaning": "That smell made me feel like I was going to vomit."
+  },
+  {
+    "sentence": "彼は口から何かを吐き出した。",
+    "sentence_furigana": "彼【かれ】は口【くち】から何か【なにか】を吐【は】き出【だ】した。",
+    "meaning": "He spat something out of his mouth."
+  },
+  {
+    "sentence": "彼は嘘を吐くのが得意だ。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】くのが得意【とくい】だ。",
+    "meaning": "He is good at telling lies."
+  },
+  {
+    "sentence": "彼は悪い冗談を吐いた。",
+    "sentence_furigana": "彼【かれ】は悪【わる】い冗談【じょうだん】を吐【は】いた。",
+    "meaning": "He made a bad joke."
+  },
+  {
+    "sentence": "彼はついに秘密を吐露した。",
+    "sentence_furigana": "彼【かれ】はついに秘密【ひみつ】を吐【と】露【ろ】した。",
+    "meaning": "He finally confessed his secrets."
+  },
+  {
+    "sentence": "彼女は秘密を吐くことができなかった。",
+    "sentence_furigana": "彼女【かのじょ】は秘密【ひみつ】を吐【は】くことができなかった。",
+    "meaning": "She couldn't confess her secrets."
+  },
+  {
+    "sentence": "彼は空気を吐き出した。",
+    "sentence_furigana": "彼【かれ】は空気【くうき】を吐【は】き出【だ】した。",
+    "meaning": "He exhaled air."
+  },
+  {
+    "sentence": "タバコの煙を吐く。",
+    "sentence_furigana": "タバコ【たばこ】の煙【けむり】を吐【は】く。",
+    "meaning": "To smoke a cigarette."
+  },
+  {
+    "sentence": "彼は腹いせに悪態を吐いた。",
+    "sentence_furigana": "彼【かれ】は腹立【はらだ】てに悪態【あくたい】を吐【は】いた。",
+    "meaning": "He swore out of spite."
+  },
+  {
+    "sentence": "吐き気で何も食べられない。",
+    "sentence_furigana": "吐【は】き気【け】で何【なに】も食【た】べられない。",
+    "meaning": "I can't eat anything because of nausea."
+  },
+  {
+    "sentence": "彼は激しく吐いた。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しく吐【は】いた。",
+    "meaning": "He vomited violently."
+  },
+  {
+    "sentence": "これは彼が吐いた言葉だ。",
+    "sentence_furigana": "これ【これ】は彼【かれ】が吐【は】いた言葉【ことば】だ。",
+    "meaning": "These are the words he spoke."
+  },
+  {
+    "sentence": "彼女は恨みを吐き出した。",
+    "sentence_furigana": "彼女【かのじょ】は恨【うら】みを吐【は】き出【だ】した。",
+    "meaning": "She vented her resentment."
+  },
+  {
+    "sentence": "彼は嘘を吐き続けた。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】き続【つづ】けた。",
+    "meaning": "He continued to tell lies."
+  },
+  {
+    "sentence": "彼は過去の過ちを吐露した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを吐【と】露【ろ】した。",
+    "meaning": "He confessed his past mistakes."
+  },
+  {
+    "sentence": "彼は吐き気を催している。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を催【もよお】している。",
+    "meaning": "He is feeling nauseous."
+  },
+  {
+    "sentence": "彼は苦しそうに吐き気を訴えた。",
+    "sentence_furigana": "彼【かれ】は苦【くる】しそうに吐【は】き気【け】を訴【うった】えた。",
+    "meaning": "He complained of nausea with great distress."
+  },
+  {
+    "sentence": "彼はビールをゲップで吐き出した。",
+    "sentence_furigana": "彼【かれ】はビール【びーる】をゲップ【げっぷ】で吐【は】き出【だ】した。",
+    "meaning": "He burped out beer."
+  },
+  {
+    "sentence": "彼は嘘を吐いている。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】いている。",
+    "meaning": "He is lying."
+  },
+  {
+    "sentence": "彼は秘密を吐き出すことができなかった。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】き出【だ】すことができなかった。",
+    "meaning": "He couldn't get his secret out."
+  },
+  {
+    "sentence": "吐き出す息が白かった。",
+    "sentence_furigana": "吐【は】き出【だ】す息【いき】が白【しろ】かった。",
+    "meaning": "His exhaled breath was white."
+  },
+  {
+    "sentence": "彼は苦しくて吐いた。",
+    "sentence_furigana": "彼【かれ】は苦【くる】しくて吐【は】いた。",
+    "meaning": "He vomited because he was in pain."
+  },
+  {
+    "sentence": "その薬は副作用で吐き気を起こす。",
+    "sentence_furigana": "その薬【くすり】は副作用【ふくさよう】で吐【は】き気【け】を起【お】こす。",
+    "meaning": "That medicine causes nausea as a side effect."
+  },
+  {
+    "sentence": "彼は全てを吐き出した。",
+    "sentence_furigana": "彼【かれ】は全【すべ】てを吐【は】き出【だ】した。",
+    "meaning": "He got everything out."
+  },
+  {
+    "sentence": "彼の言葉を吐き出す。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】を吐【は】き出【だ】す。",
+    "meaning": "To spit out his words."
+  },
+  {
+    "sentence": "彼は秘密を吐くことをためらっていた。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】くことをためらっていた。",
+    "meaning": "He hesitated to confess his secrets."
+  },
+  {
+    "sentence": "彼は酔って吐いてしまった。",
+    "sentence_furigana": "彼【かれ】は酔【よ】って吐【は】いてしまった。",
+    "meaning": "He got drunk and vomited."
+  },
+  {
+    "sentence": "彼は全てを正直に吐いた。",
+    "sentence_furigana": "彼【かれ】は全【すべ】てを正直【しょうじき】に吐【は】いた。",
+    "meaning": "He confessed everything honestly."
+  },
+  {
+    "sentence": "彼は本心を吐露した。",
+    "sentence_furigana": "彼【かれ】は本心【ほんしん】を吐【と】露【ろ】した。",
+    "meaning": "He revealed his true feelings."
+  },
+  {
+    "sentence": "彼は嘘をついて吐くのをやめた。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】をついて吐【つ】くのをやめた。",
+    "meaning": "He stopped telling lies."
+  },
+  {
+    "sentence": "船酔いで吐きそうだった。",
+    "sentence_furigana": "船酔【ふなよ】いで吐【は】きそうだった。",
+    "meaning": "I felt like I was going to vomit from seasickness."
+  },
+  {
+    "sentence": "彼はその話を吐露した。",
+    "sentence_furigana": "彼【かれ】はその話【はなし】を吐【と】露【ろ】した。",
+    "meaning": "He confessed that story."
+  },
+  {
+    "sentence": "彼は秘密を吐くことを決意した。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】くことを決意【けつい】した。",
+    "meaning": "He decided to confess his secrets."
+  },
+  {
+    "sentence": "彼は吐き気がする。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】がする。",
+    "meaning": "He feels nauseous."
+  },
+  {
+    "sentence": "彼は吐き気を我慢した。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を我慢【がまん】した。",
+    "meaning": "He endured the nausea."
+  },
+  {
+    "sentence": "彼は本当のことを吐いた。",
+    "sentence_furigana": "彼【かれ】は本当【ほんとう】のこと【こと】を吐【は】いた。",
+    "meaning": "He told the truth."
+  },
+  {
+    "sentence": "彼は吐き気を抑えようとした。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を押【おさ】えようとした。",
+    "meaning": "He tried to suppress his nausea."
+  },
+  {
+    "sentence": "彼は秘密を吐き出すのに苦労した。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】き出【だ】すのに苦労【くろう】した。",
+    "meaning": "He had a hard time getting his secret out."
+  },
+  {
+    "sentence": "吐き出した息は冷たかった。",
+    "sentence_furigana": "吐【は】き出【だ】した息【いき】は冷【つめ】たかった。",
+    "meaning": "The breath he exhaled was cold."
+  },
+  {
+    "sentence": "彼は秘密を吐くことを恐れていた。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】くことを恐【おそ】れていた。",
+    "meaning": "He was afraid to confess his secrets."
+  },
+  {
+    "sentence": "彼は罪の意識を吐露した。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】の意識【いしき】を吐【と】露【ろ】した。",
+    "meaning": "He confessed his guilt."
+  },
+  {
+    "sentence": "彼は吐き気を催しているようだ。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を催【もよお】しているようだ。",
+    "meaning": "He seems to be feeling nauseous."
+  },
+  {
+    "sentence": "彼は秘密を吐く勇気がなかった。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】く勇気【ゆうき】がなかった。",
+    "meaning": "He didn't have the courage to confess his secrets."
+  },
+  {
+    "sentence": "彼は吐きそうになったので、すぐにトイレに行った。",
+    "sentence_furigana": "彼【かれ】は吐【は】きそうになったので、すぐにトイレ【といれ】に行【い】った。",
+    "meaning": "He felt like vomiting, so he went to the toilet immediately."
+  },
+  {
+    "sentence": "彼は隠していたことを全て吐いた。",
+    "sentence_furigana": "彼【かれ】は隠【かく】していたこと【こと】を全【すべ】て吐【は】いた。",
+    "meaning": "He revealed everything he had been hiding."
+  },
+  {
+    "sentence": "彼は息を吐いた。",
+    "sentence_furigana": "彼【かれ】は息【いき】を吐【は】いた。",
+    "meaning": "He exhaled."
+  },
+  {
+    "sentence": "彼はついにすべてを吐露した。",
+    "sentence_furigana": "彼【かれ】はついにすべてを吐【と】露【ろ】した。",
+    "meaning": "He finally confessed everything."
+  },
+  {
+    "sentence": "彼は吐き気をこらえた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】をこらえた。",
+    "meaning": "He held back his nausea."
+  },
+  {
+    "sentence": "彼は嘘を吐くのをやめるべきだ。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】くのをやめるべきだ。",
+    "meaning": "He should stop telling lies."
+  },
+  {
+    "sentence": "彼は秘密を吐き出すのに時間がかかった。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】き出【だ】すのに時間【じかん】がかかった。",
+    "meaning": "It took him time to get his secret out."
+  },
+  {
+    "sentence": "彼は不満を吐き出した。",
+    "sentence_furigana": "彼【かれ】は不満【ふまん】を吐【は】き出【だ】した。",
+    "meaning": "He expressed his dissatisfaction."
+  },
+  {
+    "sentence": "彼はもう吐きたくない。",
+    "sentence_furigana": "彼【かれ】はもう吐【は】きたくない。",
+    "meaning": "He doesn't want to vomit anymore."
+  },
+  {
+    "sentence": "彼は吐き気を必死に抑えた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を必死【ひっし】に抑【おさ】えた。",
+    "meaning": "He desperately suppressed his nausea."
+  },
+  {
+    "sentence": "彼は真実を吐くことを決意した。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】を吐【は】くことを決意【けつい】した。",
+    "meaning": "He decided to tell the truth."
+  },
+  {
+    "sentence": "彼は吐いた。",
+    "sentence_furigana": "彼【かれ】は吐【は】いた。",
+    "meaning": "He vomited."
+  },
+  {
+    "sentence": "彼は嘘を吐くことの罪悪感に苦しんだ。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】くことの罪悪感【ざいあくかん】に苦【くる】しんだ。",
+    "meaning": "He suffered from the guilt of telling lies."
+  },
+  {
+    "sentence": "彼は吐き気で顔面蒼白だった。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】で顔面蒼白【がんめんそうはく】だった。",
+    "meaning": "His face was pale due to nausea."
+  },
+  {
+    "sentence": "彼は全てを吐き出す覚悟を決めた。",
+    "sentence_furigana": "彼【かれ】は全【すべ】てを吐【は】き出【だ】す覚悟【かくご】を決【き】めた。",
+    "meaning": "He resolved to get everything out."
+  },
+  {
+    "sentence": "彼は吐き気を押さえきれなかった。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を押【おさ】えきれなかった。",
+    "meaning": "He couldn't suppress his nausea."
+  },
+  {
+    "sentence": "彼は秘密を吐露するのに長けた人だ。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【と】露【ろ】するのに長【た】けた人【ひと】だ。",
+    "meaning": "He is good at confessing secrets."
+  },
+  {
+    "sentence": "彼は吐きそうだと訴えた。",
+    "sentence_furigana": "彼【かれ】は吐【は】きそうだと訴【うった】えた。",
+    "meaning": "He complained that he felt like vomiting."
+  },
+  {
+    "sentence": "彼はすべてを吐露する準備ができていた。",
+    "sentence_furigana": "彼【かれ】はすべてを吐【と】露【ろ】する準備【じゅんび】ができ【でき】ていた。",
+    "meaning": "He was ready to confess everything."
+  },
+  {
+    "sentence": "彼は無理やり秘密を吐き出した。",
+    "sentence_furigana": "彼【かれ】は無理【むり】やり秘密【ひみつ】を吐【は】き出【だ】した。",
+    "meaning": "He was forced to reveal the secret."
+  },
+  {
+    "sentence": "彼は吐き気でぐったりしていた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】でぐったりしていた。",
+    "meaning": "He was listless due to nausea."
+  },
+  {
+    "sentence": "彼は嘘を吐くことで自分を傷つけた。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】くことで自分【じぶん】を傷【きず】つけた。",
+    "meaning": "He hurt himself by telling lies."
+  },
+  {
+    "sentence": "彼は吐き気を我慢しながら仕事を続けた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を我慢【がまん】しながら仕事【しごと】を続【つづ】けた。",
+    "meaning": "He continued working while enduring his nausea."
+  },
+  {
+    "sentence": "彼は悪態を吐いた。",
+    "sentence_furigana": "彼【かれ】は悪態【あくたい】を吐【は】いた。",
+    "meaning": "He swore."
+  },
+  {
+    "sentence": "彼は吐き気を覚えた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を覚【おぼ】えた。",
+    "meaning": "He felt nauseous."
+  },
+  {
+    "sentence": "彼は秘密を吐き出すことができた。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】き出【だ】すことができた。",
+    "meaning": "He was able to get his secret out."
+  },
+  {
+    "sentence": "彼は吐き気を抑えるために安静にしていた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を押【おさ】えるために安静【あんせい】にしていた。",
+    "meaning": "He rested to suppress his nausea."
+  },
+  {
+    "sentence": "彼は嘘を吐いたために罰せられた。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】いたために罰【ばっ】せられた。",
+    "meaning": "He was punished for telling lies."
+  },
+  {
+    "sentence": "彼は吐き気を止めるために薬を飲んだ。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を止【と】めるために薬【くすり】を飲【の】んだ。",
+    "meaning": "He took medicine to stop his nausea."
+  },
+  {
+    "sentence": "彼は恨み言を吐いた。",
+    "sentence_furigana": "彼【かれ】は恨【うら】み言【ごと】を吐【は】いた。",
+    "meaning": "He uttered words of resentment."
+  },
+  {
+    "sentence": "彼は秘密を吐露するよう説得された。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【と】露【ろ】するよう説得【せっとく】された。",
+    "meaning": "He was persuaded to confess his secrets."
+  },
+  {
+    "sentence": "彼は吐き気で座り込んだ。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】で座【すわ】り込【こ】んだ。",
+    "meaning": "He sat down due to nausea."
+  },
+  {
+    "sentence": "彼は吐き気を催すようなものを食べた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を催【もよお】すようなもの【もの】を食【た】べた。",
+    "meaning": "He ate something that made him feel nauseous."
+  },
+  {
+    "sentence": "彼はついに本音を吐いた。",
+    "sentence_furigana": "彼【かれ】はついに本音【ほんね】を吐【は】いた。",
+    "meaning": "He finally spoke his true feelings."
+  },
+  {
+    "sentence": "彼は吐き気でふらついていた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】でふらついていた。",
+    "meaning": "He was staggering due to nausea."
+  },
+  {
+    "sentence": "彼は過去の過ちを吐露した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを吐【と】露【ろ】した。",
+    "meaning": "He confessed his past mistakes."
+  },
+  {
+    "sentence": "彼は吐き気を我慢して歩いた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を我慢【がまん】して歩【ある】いた。",
+    "meaning": "He walked while enduring his nausea."
+  },
+  {
+    "sentence": "彼は嘘を吐き続けることはできなかった。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】き続【つづ】けることはできなかった。",
+    "meaning": "He couldn't continue to tell lies."
+  },
+  {
+    "sentence": "彼は吐き気を抑えるために深呼吸をした。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を押【おさ】えるために深呼吸【しんこきゅう】をした。",
+    "meaning": "He took deep breaths to suppress his nausea."
+  },
+  {
+    "sentence": "彼は秘密を吐露するよう促された。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【と】露【ろ】するよう促【うなが】された。",
+    "meaning": "He was urged to confess his secrets."
+  },
+  {
+    "sentence": "彼は吐き気を催しながらも無理をした。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を催【もよお】しながらも無理【むり】をした。",
+    "meaning": "He pushed himself despite feeling nauseous."
+  },
+  {
+    "sentence": "彼はついにすべてを吐き出した。",
+    "sentence_furigana": "彼【かれ】はついにすべてを吐【は】き出【だ】した。",
+    "meaning": "He finally got everything out."
+  },
+  {
+    "sentence": "彼は吐き気を我慢するのがつらかった。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を我慢【がまん】するのがつらかった。",
+    "meaning": "It was difficult for him to endure his nausea."
+  },
+  {
+    "sentence": "彼は秘密を吐き出すことを決断した。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【は】き出【だ】すことを決断【けつだん】した。",
+    "meaning": "He decided to reveal the secret."
+  },
+  {
+    "sentence": "彼は吐き気を催して横になった。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を催【もよお】して横【よこ】になった。",
+    "meaning": "He lay down because he felt nauseous."
+  },
+  {
+    "sentence": "彼は過去の過ちを吐くことを恐れていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを吐【は】くことを恐【おそ】れていた。",
+    "meaning": "He was afraid to confess his past mistakes."
+  },
+  {
+    "sentence": "彼は吐き気を押さえるために水を飲んだ。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を押【おさ】えるために水【みず】を飲【の】んだ。",
+    "meaning": "He drank water to suppress his nausea."
+  },
+  {
+    "sentence": "彼は嘘を吐くことで評判を落とした。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】くことで評判【ひょうばん】を落【お】とした。",
+    "meaning": "He lost his reputation by telling lies."
+  },
+  {
+    "sentence": "彼は吐き気を我慢しながら会議に出席した。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を我慢【がまん】しながら会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "He attended the meeting while enduring his nausea."
+  },
+  {
+    "sentence": "彼は秘密を吐露するよう説得された。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を吐【と】露【ろ】するよう説得【せっとく】された。",
+    "meaning": "He was persuaded to confess his secrets."
+  },
+  {
+    "sentence": "彼は吐き気を催していて、青ざめていた。",
+    "sentence_furigana": "彼【かれ】は吐【は】き気【け】を催【もよお】していて、青【あお】ざめていた。",
+    "meaning": "He felt nauseous and looked pale."
+  },
+  {
+    "sentence": "彼は嘘を吐くのをやめることを誓った。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を吐【つ】くのをやめることを誓【ちか】った。",
+    "meaning": "He vowed to stop telling lies."
+  }
+]

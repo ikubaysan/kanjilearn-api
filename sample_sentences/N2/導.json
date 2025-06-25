@@ -1,0 +1,467 @@
+[
+  {
+    "sentence": "彼は私を正しい道に導いてくれた。",
+    "sentence_furigana": "彼【かれ】は私【わたし】を正【ただ】しい道【みち】に導【みちび】いてくれた。",
+    "meaning": "He guided me to the right path."
+  },
+  {
+    "sentence": "先生は生徒たちを卒業へと導いた。",
+    "sentence_furigana": "先生【せんせい】は生徒【せいと】たちを卒業【そつぎょう】へと導【みちび】いた。",
+    "meaning": "The teacher led the students to graduation."
+  },
+  {
+    "sentence": "その経験が私を成長へと導いた。",
+    "sentence_furigana": "その経験【けいけん】が私【わたし】を成長【せいちょう】へと導【みちび】いた。",
+    "meaning": "That experience led me to growth."
+  },
+  {
+    "sentence": "古い書物が新しい知識を導いた。",
+    "sentence_furigana": "古【ふる】い書物【しょもつ】が新【あたら】しい知識【ちしき】を導【みちび】いた。",
+    "meaning": "Old books led to new knowledge."
+  },
+  {
+    "sentence": "彼女のリーダーシップはチームを勝利に導いた。",
+    "sentence_furigana": "彼女【かのじょ】のリーダーシップはチームを勝利【しょうり】に導【みちび】いた。",
+    "meaning": "Her leadership guided the team to victory."
+  },
+  {
+    "sentence": "最新の技術が人類を未来へ導く。",
+    "sentence_furigana": "最新【さいしん】の技術【ぎじゅつ】が人類【じんるい】を未来【みらい】へ導【みちび】く。",
+    "meaning": "The latest technology leads humanity to the future."
+  },
+  {
+    "sentence": "彼の助言は私を成功に導いた。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は私【わたし】を成功【せいこう】に導【みちび】いた。",
+    "meaning": "His advice led me to success."
+  },
+  {
+    "sentence": "自然の摂理は我々をどこへ導くのだろうか。",
+    "sentence_furigana": "自然【しぜん】の摂理【せつり】は我々【われわれ】をどこへ導【みちび】くのだろうか。",
+    "meaning": "Where will the laws of nature lead us?"
+  },
+  {
+    "sentence": "この地図は私たちを目的地の入口へと導く。",
+    "sentence_furigana": "この地図【ちず】は私たち【わたしたち】を目的【もくてき】地の入口【いりぐち】へと導【みちび】く。",
+    "meaning": "This map leads us to the entrance of our destination."
+  },
+  {
+    "sentence": "彼は多くの人々をボランティア活動に導いた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】をボランティア活動【かつどう】に導【みちび】いた。",
+    "meaning": "He led many people into volunteer activities."
+  },
+  {
+    "sentence": "先導者は常に進むべき方向を示す。",
+    "sentence_furigana": "先導者【せんどうしゃ】は常【つね】に進【すす】むべき方向【ほうこう】を示【しめ】す。",
+    "meaning": "A leader always shows the direction to proceed."
+  },
+  {
+    "sentence": "その発見は科学の進歩を導いた。",
+    "sentence_furigana": "その発見【はっけん】は科学【かがく】の進歩【しんぽ】を導【みちび】いた。",
+    "meaning": "That discovery led to the progress of science."
+  },
+  {
+    "sentence": "ガイドは観光客を名所旧跡へと導いた。",
+    "sentence_furigana": "ガイドは観光客【かんこうきゃく】を名所旧跡【めいしょきゅうせき】へと導【みちび】いた。",
+    "meaning": "The guide led the tourists to historical sites."
+  },
+  {
+    "sentence": "彼らは新しい時代を導く存在だ。",
+    "sentence_furigana": "彼ら【かれら】は新【あたら】しい時代【じだい】を導【みちび】く存在【そんざい】だ。",
+    "meaning": "They are the ones who will lead the new era."
+  },
+  {
+    "sentence": "経験豊富な指導者がチームをまとめ上げた。",
+    "sentence_furigana": "経験豊富【けいけんほうふ】な指導者【しどうしゃ】がチームをまとめた。",
+    "meaning": "An experienced leader united the team."
+  },
+  {
+    "sentence": "道徳的な指針は私たちの行動を導く。",
+    "sentence_furigana": "道徳的【どうとくてき】な指針【ししん】は私【わたし】たちの行動【こうどう】を導【みちび】く。",
+    "meaning": "Moral guidelines guide our actions."
+  },
+  {
+    "sentence": "その芸術作品は鑑賞者を深い瞑想へと導いた。",
+    "sentence_furigana": "その芸術作品【げいじゅつさくひん】は鑑賞者【かんしょうしゃ】を深【ふか】い瞑想【めいそう】へと導【みちび】いた。",
+    "meaning": "The artwork led the viewer into deep meditation."
+  },
+  {
+    "sentence": "彼は若い才能を育成し、プロの世界へ導いた。",
+    "sentence_furigana": "彼【かれ】は若【わか】い才能【さいのう】を育成【いくせい】し、プロの世界【せかい】へ導【みちび】いた。",
+    "meaning": "He nurtured young talent and led them into the professional world."
+  },
+  {
+    "sentence": "この道は隠された滝へと導いている。",
+    "sentence_furigana": "この道【みち】は隠【かく】された滝【たき】へと導【みちび】いている。",
+    "meaning": "This path leads to a hidden waterfall."
+  },
+  {
+    "sentence": "人生の岐路で、彼は賢者の導きを求めた。",
+    "sentence_furigana": "人生【じんせい】の岐路【きろ】で、彼【かれ】は賢者【けんじゃ】の導【みちび】きを求【もと】めた。",
+    "meaning": "At a crossroads in life, he sought the guidance of a sage."
+  },
+  {
+    "sentence": "その計画は成功へと導く可能性が高い。",
+    "sentence_furigana": "その計画【けいかく】は成功【せいこう】へと導【みちび】く可能性【かのうせい】が高【たか】い。",
+    "meaning": "That plan has a high probability of leading to success."
+  },
+  {
+    "sentence": "コーチは選手を勝利に導くために全力を尽くした。",
+    "sentence_furigana": "コーチは選手【せんしゅ】を勝利【しょうり】に導【みちび】くために全【ぜん】力【りょく】を尽【つ】くした。",
+    "meaning": "The coach did his best to lead the players to victory."
+  },
+  {
+    "sentence": "この教えは人々を幸福へと導く。",
+    "sentence_furigana": "この教【おし】えは人々【ひとびと】を幸福【こうふく】へと導【みちび】く。",
+    "meaning": "These teachings lead people to happiness."
+  },
+  {
+    "sentence": "歴史は未来への教訓を導き出す。",
+    "sentence_furigana": "歴史【れきし】は未来【みらい】への教訓【きょうくん】を導【みちび】き出【だ】す。",
+    "meaning": "History derives lessons for the future."
+  },
+  {
+    "sentence": "彼の言葉は迷っている私を励まし、正しい方向へと導いてくれた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は迷【まよ】っている私【わたし】を励【はげ】まし、正【ただ】しい方向【ほうこう】へと導【みちび】いてくれた。",
+    "meaning": "His words encouraged me when I was lost and guided me in the right direction."
+  },
+  {
+    "sentence": "その芸術家は革新的なスタイルで業界をリードした。",
+    "sentence_furigana": "その芸術家【げいじゅつか】は革新的【かくしんてき】なスタイルで業界【ぎょうかい】をリードした。",
+    "meaning": "The artist led the industry with an innovative style."
+  },
+  {
+    "sentence": "このガイドブックは初めての旅行者を適切に案内します。",
+    "sentence_furigana": "このガイドブックは初【はじ】めての旅行者【りょこうしゃ】を適切【てきせつ】に案内【あんない】します。",
+    "meaning": "This guidebook appropriately guides first-time travelers."
+  },
+  {
+    "sentence": "彼はチームを優勝に導いた立役者だった。",
+    "sentence_furigana": "彼【かれ】はチームを優勝【ゆうしょう】に導【みちび】いた立役者【たてやくしゃ】だった。",
+    "meaning": "He was the key figure who led the team to championship."
+  },
+  {
+    "sentence": "親の導きは子供の成長に不可欠です。",
+    "sentence_furigana": "親【おや】の導【みちび】きは子供【こども】の成長【せいちょう】に不可欠【ふかけつ】です。",
+    "meaning": "Parental guidance is essential for a child's development."
+  },
+  {
+    "sentence": "その哲学は人々を真理へと導く。",
+    "sentence_furigana": "その哲学【てつがく】は人々【ひとびと】を真理【しんり】へと導【みちび】く。",
+    "meaning": "That philosophy leads people to truth."
+  },
+  {
+    "sentence": "科学的根拠がその結論を導き出した。",
+    "sentence_furigana": "科学的根拠【かがくてきこんきょ】がその結論【けつろん】を導【みちび】き出【だ】した。",
+    "meaning": "Scientific evidence led to that conclusion."
+  },
+  {
+    "sentence": "この道順はあなたを駅まで案内します。",
+    "sentence_furigana": "この道順【みちじゅん】はあなたを駅【えき】まで案内【あんない】します。",
+    "meaning": "These directions will guide you to the station."
+  },
+  {
+    "sentence": "彼はそのプロジェクトの成功を導いた。",
+    "sentence_furigana": "彼【かれ】はそのプロジェクトの成功【せいこう】を導【みちび】いた。",
+    "meaning": "He led that project to success."
+  },
+  {
+    "sentence": "指導力のあるリーダーシップが求められている。",
+    "sentence_furigana": "指導力【しどうりょく】のあるリーダーシップが求【もと】められている。",
+    "meaning": "Leadership with guidance is required."
+  },
+  {
+    "sentence": "この情報は正しい結論へ導くはずだ。",
+    "sentence_furigana": "この情報【じょうほう】は正【ただ】しい結論【けつろん】へ導【みちび】くはずだ。",
+    "meaning": "This information should lead to the correct conclusion."
+  },
+  {
+    "sentence": "彼は多くの人々をこの活動に参加するように導いた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】をこの活動【かつどう】に参加【さんか】するように導【みちび】いた。",
+    "meaning": "He led many people to participate in this activity."
+  },
+  {
+    "sentence": "善意の心は人々を助け合う方向へと導く。",
+    "sentence_furigana": "善意【ぜんい】の心【こころ】は人々【ひとびと】を助【たす】け合【あ】う方向【ほうこう】へと導【みちび】く。",
+    "meaning": "A good heart leads people to help each other."
+  },
+  {
+    "sentence": "その歴史的出来事は社会の変革を導いた。",
+    "sentence_furigana": "その歴史的出来事【れきしてきできごと】は社会【しゃかい】の変革【へんかく】を導【みちび】いた。",
+    "meaning": "That historical event led to social change."
+  },
+  {
+    "sentence": "彼はチームをまとめる指導者として頼りにされている。",
+    "sentence_furigana": "彼【かれ】はチームをまとめる指導者【しどうしゃ】として頼【たの】りにされている。",
+    "meaning": "He is relied upon as a leader who brings the team together."
+  },
+  {
+    "sentence": "この教訓は将来、君を正しい道へと導くだろう。",
+    "sentence_furigana": "この教訓【きょうくん】は将来【しょうらい】、君【きみ】を正【ただ】しい道【みち】へと導【みちび】くだろう。",
+    "meaning": "This lesson will guide you to the right path in the future."
+  },
+  {
+    "sentence": "彼女の献身的な姿勢は、周囲の人々を鼓舞し、前進へと導いた。",
+    "sentence_furigana": "彼女【かのじょ】の献身的【けんしんてき】な姿勢【しせい】は、周囲【しゅうい】の人々【ひとびと】を鼓舞【こぶ】し、前進【ぜんしん】へと導【みちび】いた。",
+    "meaning": "Her dedicated attitude inspired those around her and led them forward."
+  },
+  {
+    "sentence": "科学技術の進歩は、私たちの生活を豊かに導いてきた。",
+    "sentence_furigana": "科学技術【かがくぎじゅつ】の進歩【しんぽ】は、私【わたし】たちの生活【せいかつ】を豊【ゆた】かに導【みちび】いてきた。",
+    "meaning": "The progress of science and technology has enriched our lives."
+  },
+  {
+    "sentence": "その指導者はチームを幾度かの困難を乗り越えさせた。",
+    "sentence_furigana": "その指導者【しどうしゃ】はチームを幾度【いくど】かの困難【こんなん】を乗【の】り越【こ】えさせた。",
+    "meaning": "That leader made the team overcome several difficulties."
+  },
+  {
+    "sentence": "新しい理論は、更なる研究を導く可能性がある。",
+    "sentence_furigana": "新【あたら】しい理論【りろん】は、更【さら】なる研究【けんきゅう】を導【みちび】く可能性【かのうせい】がある。",
+    "meaning": "The new theory may lead to further research."
+  },
+  {
+    "sentence": "親の導きなしに、私はここまで来られなかっただろう。",
+    "sentence_furigana": "親【おや】の導【みちび】きなしに、私【わたし】はここまで来【こ】られなかっただろう。",
+    "meaning": "Without my parents' guidance, I probably wouldn't have come this far."
+  },
+  {
+    "sentence": "この経験は私たちをより良い人間へと導いてくれる。",
+    "sentence_furigana": "この経験【けいけん】は私たち【わたしたち】をより良【よ】い人間【にんげん】へと導【みちび】いてくれる。",
+    "meaning": "This experience will guide us to be better people."
+  },
+  {
+    "sentence": "彼の指示はプロジェクトの成功に不可欠だった。",
+    "sentence_furigana": "彼【かれ】の指示【しじ】はプロジェクトの成功【せいこう】に不可欠【ふかけつ】だった。",
+    "meaning": "His instructions were essential to the project's success."
+  },
+  {
+    "sentence": "善導会は地域社会の発展を目的としています。",
+    "sentence_furigana": "善導会【ぜんどうか】は地域社会【ちいきしゃかい】の発展【はってん】を目的【もくてき】としています。",
+    "meaning": "The Zen Do Kai aims for the development of the local community."
+  },
+  {
+    "sentence": "その洞察力は新しい発見へと導いた。",
+    "sentence_furigana": "その洞察力【どうさつりょく】は新【あたら】しい発見【はっけん】へと導【みちび】いた。",
+    "meaning": "That insight led to a new discovery."
+  },
+  {
+    "sentence": "彼の丁寧な説明は、理解を深めるように導いた。",
+    "sentence_furigana": "彼【かれ】の丁寧【ていねい】な説明【せつめい】は、理解【りかい】を深【ふか】めるように導【みちび】いた。",
+    "meaning": "His thorough explanation led to a deeper understanding."
+  },
+  {
+    "sentence": "この研究は将来の医療に大きく貢献するだろう。",
+    "sentence_furigana": "この研究【けんきゅう】は将来【しょうらい】の医療【いりょう】に大【おお】きく貢献【こうけん】するだろう。",
+    "meaning": "This research will likely contribute greatly to future medicine."
+  },
+  {
+    "sentence": "指導者は常に進むべき道を示す必要がある。",
+    "sentence_furigana": "指導者【しどうしゃ】は常【つね】に進【すす】むべき道【みち】を示【しめ】す必要【ひつよう】がある。",
+    "meaning": "A leader must always show the way forward."
+  },
+  {
+    "sentence": "その芸術は、観る者の心を浄化へと導く力がある。",
+    "sentence_furigana": "その芸術【げいじゅつ】は、観【み】る者【もの】の心【こころ】を浄化【じょうか】へと導【みちび】く力【ちから】がある。",
+    "meaning": "That art has the power to lead the viewer's heart to purification."
+  },
+  {
+    "sentence": "このマニュアルは初心者を正しく導くように書かれている。",
+    "sentence_furigana": "このマニュアルは初心【しょしん】者【しゃ】を正【ただ】しく導【みちび】くように書【か】かれている。",
+    "meaning": "This manual is written to guide beginners correctly."
+  },
+  {
+    "sentence": "彼のカリスマ性は多くの人々を惹きつけ、新しい運動を導いた。",
+    "sentence_furigana": "彼【かれ】のカリスマ性は多【おお】くの人々【ひとびと】を惹【ひ】きつけ、新【あたら】しい運動【うんどう】を導【みちび】いた。",
+    "meaning": "His charisma attracted many people and led a new movement."
+  },
+  {
+    "sentence": "困難な状況を乗り越えるための指導を求めています。",
+    "sentence_furigana": "困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えるための指導【しどう】を求【もと】めています。",
+    "meaning": "We are seeking guidance to overcome difficult situations."
+  },
+  {
+    "sentence": "その啓示は私を人生の目的へと導いた。",
+    "sentence_furigana": "その啓示【けいじ】は私【わたし】を人生【じんせい】の目的【もくてき】へと導【みちび】いた。",
+    "meaning": "That revelation led me to my life's purpose."
+  },
+  {
+    "sentence": "彼はチームに戦略的なアドバイスを提供し、勝利に導いた。",
+    "sentence_furigana": "彼【かれ】はチームに戦略的【せんりゃくてき】なアドバイスを提出し、勝利【しょうり】に導【みちび】いた。",
+    "meaning": "He provided strategic advice to the team and led them to victory."
+  },
+  {
+    "sentence": "自然との触れ合いは心を癒し、穏やかな気持ちに導く。",
+    "sentence_furigana": "自然【しぜん】との触【ふ】れ合【あ】いは心【こころ】を癒【いや】し、穏【おだ】やかな気持【きも】ちに導【みちび】く。",
+    "meaning": "Interacting with nature heals the heart and leads to a peaceful feeling."
+  },
+  {
+    "sentence": "彼のリーダーシップは、組織を危機から救い出した。",
+    "sentence_furigana": "彼【かれ】のリーダーシップは、組織【そしき】を危機【きき】から救【すく】い出【だ】した。",
+    "meaning": "His leadership saved the organization from crisis."
+  },
+  {
+    "sentence": "この書物は読者を深い洞察へと導くでしょう。",
+    "sentence_furigana": "この書物【しょもつ】は読者【どくしゃ】を深【ふか】い洞察【どうさつ】へと導【みちび】くでしょう。",
+    "meaning": "This book will guide the reader to deep insight."
+  },
+  {
+    "sentence": "彼女の経験は、後輩たちに良い手本となった。",
+    "sentence_furigana": "彼女【かのじょ】の経験【けいけん】は、後輩【こうはい】たちに良【よ】い手本【てほん】となった。",
+    "meaning": "Her experience became a good example for her juniors."
+  },
+  {
+    "sentence": "この標識は正しい方向を指示しています。",
+    "sentence_furigana": "この標識【ひょうしき】は正【ただ】しい方向【ほうこう】を指示【しじ】しています。",
+    "meaning": "This sign indicates the correct direction."
+  },
+  {
+    "sentence": "彼の功績は、後世に大きな影響を与えた。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は、後世【こうせい】に大【おお】きな影響【えいきょう】を与【あた】えた。",
+    "meaning": "His achievements had a great impact on posterity."
+  },
+  {
+    "sentence": "この薬は症状の緩和に効果的である。",
+    "sentence_furigana": "この薬【くすり】は症状【しょうじょう】の緩和【かんわ】に効果的【こうかてき】である。",
+    "meaning": "This medicine is effective in alleviating symptoms."
+  },
+  {
+    "sentence": "その経験は彼を成長させるきっかけとなった。",
+    "sentence_furigana": "その経験【けいけん】は彼【かれ】を成長【せいちょう】させるきっかけとなった。",
+    "meaning": "That experience was an opportunity for him to grow."
+  },
+  {
+    "sentence": "彼の助言は、困難な状況を乗り越えるための指針となった。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は、困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えるための指針【ししん】となった。",
+    "meaning": "His advice became a guideline for overcoming difficult situations."
+  },
+  {
+    "sentence": "私たちはこの歴史的な瞬間を共に迎えた。",
+    "sentence_furigana": "私【わたし】たちはこの歴史的瞬間【れきしてきしゅんかん】を共【とも】に迎【むか】えた。",
+    "meaning": "We welcomed this historic moment together."
+  },
+  {
+    "sentence": "彼は常に最善の方法を追求する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】の方法【ほうほう】を追求【ついきゅう】する。",
+    "meaning": "He always pursues the best method."
+  },
+  {
+    "sentence": "この情報は正しい判断を導くために必要です。",
+    "sentence_furigana": "この情報【じょうほう】は正【ただ】しい判断【はんだん】を導【みちび】くために必要【ひつよう】です。",
+    "meaning": "This information is necessary to guide correct judgment."
+  },
+  {
+    "sentence": "彼女のリーダーシップは、プロジェクトを成功に導いた。",
+    "sentence_furigana": "彼女【かのじょ】のリーダーシップは、プロジェクトを成功【せいこう】に導【みちび】いた。",
+    "meaning": "Her leadership led the project to success."
+  },
+  {
+    "sentence": "その教えは、我々を精神的な平和へと導く。",
+    "sentence_furigana": "その教【おし】えは、我々【われわれ】を精神的【せいしんてき】な平和【へいわ】へと導【みちび】く。",
+    "meaning": "Those teachings lead us to spiritual peace."
+  },
+  {
+    "sentence": "彼は次世代のリーダーを育成することに力を注いでいる。",
+    "sentence_furigana": "彼【かれ】は次世代【じせだい】のリーダーを育成【いくせい】することに力【ちから】を注【そそ】いでいる。",
+    "meaning": "He is focusing his efforts on nurturing the next generation of leaders."
+  },
+  {
+    "sentence": "この道は静かな森の奥へと続いている。",
+    "sentence_furigana": "この道【みち】は静【しず】かな森【もり】の奥【おく】へと続【つづ】いている。",
+    "meaning": "This path continues into the depths of a quiet forest."
+  },
+  {
+    "sentence": "彼の指導の下で、チームは大きく成長した。",
+    "sentence_furigana": "彼【かれ】の指導【しどう】の下【もと】で、チームは⼤きく成長【せいちょう】した。",
+    "meaning": "Under his guidance, the team grew significantly."
+  },
+  {
+    "sentence": "この知識は、問題解決への糸口を導き出した。",
+    "sentence_furigana": "この知識【ちしき】は、問題解決【もんだいかいけつ】への糸口【いとぐち】を導【みちび】き出【だ】した。",
+    "meaning": "This knowledge led to a clue for problem-solving."
+  },
+  {
+    "sentence": "彼は多くの若い人々を芸術の世界に導きました。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの若【わか】い人々【ひとびと】を芸術【げいじゅつ】の世界【せかい】に導【みちび】きました。",
+    "meaning": "He led many young people into the world of art."
+  },
+  {
+    "sentence": "その経験は彼に多くの教訓を与えた。",
+    "sentence_furigana": "その経験【けいけん】は彼【かれ】に多【おお】くの教訓【きょうくん】を与【あた】えた。",
+    "meaning": "That experience gave him many lessons."
+  },
+  {
+    "sentence": "この地図は目的地への正確な道筋を示しています。",
+    "sentence_furigana": "この地図【ちず】は目的【もくてき】地【ち】への正確【せいかく】な道筋【みちすじ】を示【しめ】しています。",
+    "meaning": "This map shows the correct route to the destination."
+  },
+  {
+    "sentence": "彼はその困難な状況を巧みに導いた。",
+    "sentence_furigana": "彼【かれ】はその困難【こんなん】な状況【じょうきょう】を巧【たく】みに導【みちび】いた。",
+    "meaning": "He skillfully navigated that difficult situation."
+  },
+  {
+    "sentence": "彼のリーダーシップは、チームを一つにまとめた。",
+    "sentence_furigana": "彼【かれ】のリーダーシップは、チームを一つにまとめた。",
+    "meaning": "His leadership united the team."
+  },
+  {
+    "sentence": "この哲学は、人々をより良い人生へと導く。",
+    "sentence_furigana": "この哲学【てつがく】は、人々【ひとびと】をより良【よ】い人生【じんせい】へと導【みちび】く。",
+    "meaning": "This philosophy leads people to a better life."
+  },
+  {
+    "sentence": "彼はそのプロジェクトを成功に導いた立役者です。",
+    "sentence_furigana": "彼【かれ】はそのプロジェクトを成功【せいこう】に導【みちび】いた立役者【たてやくしゃ】です。",
+    "meaning": "He is the key figure who led the project to success."
+  },
+  {
+    "sentence": "その経験は彼を精神的に強くさせた。",
+    "sentence_furigana": "その経験【けいけん】は彼【かれ】を精神的【せいしんてき】に強【つよ】くさせた。",
+    "meaning": "That experience made him mentally strong."
+  },
+  {
+    "sentence": "彼女は新しい分野を開拓し、多くの人を導いた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい分野【ぶんや】を開拓【かい taku】し、多【おお】くの人を導【みちび】いた。",
+    "meaning": "She pioneered a new field and led many people."
+  },
+  {
+    "sentence": "この情報は真実への道筋を示すだろう。",
+    "sentence_furigana": "この情報【じょうほう】は真実【しんじつ】への道筋【みちすじ】を示【しめ】すだろう。",
+    "meaning": "This information will show the path to truth."
+  },
+  {
+    "sentence": "彼の行動は、多くの人々に模範となった。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は、多【おお】くの人々【ひとびと】に模範【もはん】となった。",
+    "meaning": "His actions became an example for many people."
+  },
+  {
+    "sentence": "そのリーダーはチームを困難から勝利へと導いた。",
+    "sentence_furigana": "そのリーダーはチームを困難【こんなん】から勝利【しょうり】へと導【みちび】いた。",
+    "meaning": "The leader guided the team from difficulty to victory."
+  },
+  {
+    "sentence": "親の教えは子供の成長を導く。",
+    "sentence_furigana": "親【おや】の教【おし】えは子供【こども】の成長【せいちょう】を導【みちび】く。",
+    "meaning": "Parental teachings guide a child's growth."
+  },
+  {
+    "sentence": "彼の経験は、私を正しい道に導いてくれた。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は、私【わたし】を正【ただ】しい道【みち】に導【みちび】いてくれた。",
+    "meaning": "His experience guided me to the right path."
+  },
+  {
+    "sentence": "その発見は、科学の新たな地平を切り開いた。",
+    "sentence_furigana": "その発見【はっけん】は、科学【かがく】の新た【あらた】な地平【ちへい】を切【き】り開【ひら】いた。",
+    "meaning": "That discovery opened up new horizons in science."
+  },
+  {
+    "sentence": "彼の指導はチームの士気を高めた。",
+    "sentence_furigana": "彼【かれ】の指導【しどう】はチームの士気【しき】を高【たか】めた。",
+    "meaning": "His guidance boosted the team's morale."
+  },
+  {
+    "sentence": "この情報は真実に至るための重要な手がかりとなるだろう。",
+    "sentence_furigana": "この情報【じょうほう】は真実【しんじつ】に至【いた】るための重要【じゅうよう】な手がかりとなるだろう。",
+    "meaning": "This information will likely serve as an important clue to the truth."
+  }
+]

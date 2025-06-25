@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "この本はよく売れている。",
+    "sentence_furigana": "この本【ほん】はよく売【う】れている。",
+    "meaning": "This book is selling well."
+  },
+  {
+    "sentence": "彼は店で商品を売っている。",
+    "sentence_furigana": "彼【かれ】は店【みせ】で商品【しょうひん】を売【う】っている。",
+    "meaning": "He is selling products in the store."
+  },
+  {
+    "sentence": "新しい薬が発売される予定です。",
+    "sentence_furigana": "新【あたら】しい薬【くすり】が発売【はつばい】される予定【よてい】です。",
+    "meaning": "A new medicine is scheduled to be released."
+  },
+  {
+    "sentence": "古い家を売ることにした。",
+    "sentence_furigana": "古【ふる】い家【いえ】を売【う】ることにした。",
+    "meaning": "I decided to sell the old house."
+  },
+  {
+    "sentence": "この果物は市場で高く売れる。",
+    "sentence_furigana": "この果物【くだもの】は市場【しじょう】で高【たか】く売【う】れる。",
+    "meaning": "These fruits sell for a high price in the market."
+  },
+  {
+    "sentence": "彼女は宝石を売って生計を立てている。",
+    "sentence_furigana": "彼女【かのじょ】は宝石【ほうせき】を売【う】って生計【せいけい】を立【た】てている。",
+    "meaning": "She makes a living by selling jewelry."
+  },
+  {
+    "sentence": "中古品は安く売られることが多い。",
+    "sentence_furigana": "中古品【ちゅうこひん】は安【やす】く売【う】られることが多【おお】い。",
+    "meaning": "Used goods are often sold cheaply."
+  },
+  {
+    "sentence": "彼は絵を描いて売っている。",
+    "sentence_furigana": "彼【かれ】は絵【え】を描【か】いて売【う】っている。",
+    "meaning": "He draws and sells pictures."
+  },
+  {
+    "sentence": "この商品は海外でも人気がある。",
+    "sentence_furigana": "この商品【しょうひん】は海外【かいがい】でも人気【にんき】がある。",
+    "meaning": "This product is also popular overseas."
+  },
+  {
+    "sentence": "彼は美術品を売る仕事をしている。",
+    "sentence_furigana": "彼【かれ】は美術品【びじゅつひん】を売【う】る仕事【しごと】をしている。",
+    "meaning": "He works in selling art."
+  },
+  {
+    "sentence": "子供服は季節ごとに新しいものが売られる。",
+    "sentence_furigana": "子供服【こどもふく】は季節【きせつ】ごとことに新【あたら】しいものが売【う】られる。",
+    "meaning": "Children's clothes are sold according to the season."
+  },
+  {
+    "sentence": "この小説はベストセラーになった。",
+    "sentence_furigana": "この小説【しょうせつ】はベストセラーになった。",
+    "meaning": "This novel became a bestseller."
+  },
+  {
+    "sentence": "彼は自分で作ったパンを売っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】で作【つく】ったパンを売【う】っている。",
+    "meaning": "He sells bread he made himself."
+  },
+  {
+    "sentence": "その店では輸入品を扱っている。",
+    "sentence_furigana": "その店【みせ】では輸入品【ゆにゅうひん】を扱【あつか】っている。",
+    "meaning": "That store deals in imported goods."
+  },
+  {
+    "sentence": "この商品はすぐに売り切れた。",
+    "sentence_furigana": "この商品【しょうひん】はすぐに売【う】り切【き】れた。",
+    "meaning": "This product sold out quickly."
+  },
+  {
+    "sentence": "彼は古本屋を開いた。",
+    "sentence_furigana": "彼【かれ】は古本屋【ふるほんや】を開【ひら】いた。",
+    "meaning": "He opened a used bookstore."
+  },
+  {
+    "sentence": "この切手は限定販売されている。",
+    "sentence_furigana": "この切手【きって】は限定販売【げんていはんばい】されている。",
+    "meaning": "These stamps are sold in a limited edition."
+  },
+  {
+    "sentence": "彼女は手作りのアクセサリーを売っている。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りのアクセサリーを売【う】っている。",
+    "meaning": "She sells handmade accessories."
+  },
+  {
+    "sentence": "このCDはどこで買えますか？",
+    "sentence_furigana": "このCDはどこで買【か】えますか？",
+    "meaning": "Where can I buy this CD?"
+  },
+  {
+    "sentence": "彼は骨董品を売買している。",
+    "sentence_furigana": "彼【かれ】は骨董品【こっとうひん】を売買【ばいばい】している。",
+    "meaning": "He buys and sells antiques."
+  },
+  {
+    "sentence": "彼女は野菜を直売している。",
+    "sentence_furigana": "彼女【かのじょ】は野菜【やさい】を直売【ちょくばい】している。",
+    "meaning": "She sells vegetables directly."
+  },
+  {
+    "sentence": "このお菓子はとても人気がある。",
+    "sentence_furigana": "このお菓子【がし】はとても人気【にんき】がある。",
+    "meaning": "These sweets are very popular."
+  },
+  {
+    "sentence": "彼は中古車を売るのが得意だ。",
+    "sentence_furigana": "彼【かれ】は中古車【ちゅうこしゃ】を売【う】るのが得意【とくい】だ。",
+    "meaning": "He is good at selling used cars."
+  },
+  {
+    "sentence": "彼女は手紙を書いてお金を稼いでいる。",
+    "sentence_furigana": "彼女【かのじょ】は手紙【てがみ】を書【か】いてお金【かね】を稼【かせ】いでいる。",
+    "meaning": "She earns money by writing letters."
+  },
+  {
+    "sentence": "この商品は再販される予定です。",
+    "sentence_furigana": "この商品【しょうひん】は再販【さいはん】される予定【よてい】です。",
+    "meaning": "This product is scheduled to be resold."
+  },
+  {
+    "sentence": "彼は美術品オークションで絵を売った。",
+    "sentence_furigana": "彼【かれ】は美術品【びじゅつひん】オークションで絵【え】を売【う】った。",
+    "meaning": "He sold a painting at an art auction."
+  },
+  {
+    "sentence": "彼女は自作の小説を販売している。",
+    "sentence_furigana": "彼女【かのじょ】は自作【じさく】の小説【しょうせつ】を販売【はんばい】している。",
+    "meaning": "She sells novels she wrote herself."
+  },
+  {
+    "sentence": "この薬は処方箋なしで売っている。",
+    "sentence_furigana": "この薬【くすり】は処方箋【しょほうせん】なしで売【う】っている。",
+    "meaning": "This medicine is sold without a prescription."
+  },
+  {
+    "sentence": "彼は不要になった本を売った。",
+    "sentence_furigana": "彼【かれ】は不要【ふよう】になった本【ほん】を売【う】った。",
+    "meaning": "He sold books he no longer needed."
+  },
+  {
+    "sentence": "彼女は焼き菓子を販売する店を開いた。",
+    "sentence_furigana": "彼女【かのじょ】は焼【や】き菓子【がし】を販売【はんばい】する店【みせ】を開【ひら】いた。",
+    "meaning": "She opened a shop selling baked goods."
+  },
+  {
+    "sentence": "この商品は大変人気があり、品切れです。",
+    "sentence_furigana": "この商品【しょうひん】は大変【たいへん】人気【にんき】があり、品切【しなぎ】れです。",
+    "meaning": "This product is very popular and is out of stock."
+  },
+  {
+    "sentence": "彼は古い家具を売って生活費を稼いでいる。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い家具【かぐ】を売【う】って生活費【せいかつひ】を稼【かせ】いでいる。",
+    "meaning": "He earns living expenses by selling old furniture."
+  },
+  {
+    "sentence": "彼女は手編みのセーターを売っている。",
+    "sentence_furigana": "彼女【かのじょ】は手編【てあ】みのセーターを売【う】っている。",
+    "meaning": "She sells hand-knitted sweaters."
+  },
+  {
+    "sentence": "この雑誌は定価で売られている。",
+    "sentence_furigana": "この雑誌【ざっし】は定価【ていか】で売【う】られている。",
+    "meaning": "This magazine is sold at the fixed price."
+  },
+  {
+    "sentence": "彼は手作りの木工品を販売している。",
+    "sentence_furigana": "彼【かれ】は手作【てづく】りの木工品【もっこうひん】を販売【はんばい】している。",
+    "meaning": "He sells handmade woodwork."
+  },
+  {
+    "sentence": "彼女は彼女の絵をオンラインで売っている。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の絵【え】をオンラインで売【う】っている。",
+    "meaning": "She sells her paintings online."
+  },
+  {
+    "sentence": "この本は図書館で借りることができます。",
+    "sentence_furigana": "この本【ほん】は図書館【としょかん】で借【か】りることができます。",
+    "meaning": "This book can be borrowed from the library."
+  },
+  {
+    "sentence": "彼は海外から商品を輸入して売っている。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】から商品【しょうひん】を輸入【ゆにゅう】して売【う】っている。",
+    "meaning": "He imports and sells goods from overseas."
+  },
+  {
+    "sentence": "彼女は自分で育てた野菜を売っている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】で育【そだ】てた野菜【やさい】を売【う】っている。",
+    "meaning": "She sells vegetables she grew herself."
+  },
+  {
+    "sentence": "このテレビは特別価格で売られている。",
+    "sentence_furigana": "このテレビは特別価格【とくべつかかく】で売【う】られている。",
+    "meaning": "This TV is being sold at a special price."
+  },
+  {
+    "sentence": "彼は古い切手を売って収集家になった。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い切手【きって】を売【う】って収集家【しゅうしゅうか】になった。",
+    "meaning": "He became a collector by selling old stamps."
+  },
+  {
+    "sentence": "彼女は手工芸品を販売するオンラインストアを開設した。",
+    "sentence_furigana": "彼女【かのじょ】は手工芸品【しゅこうげいひん】を販売【はんばい】するオンラインストアを開設【かいせつ】した。",
+    "meaning": "She launched an online store selling handicrafts."
+  },
+  {
+    "sentence": "この商品は期間限定で販売されます。",
+    "sentence_furigana": "この商品【しょうひん】は期間限定【きかんげんてい】で販売【はんばい】されます。",
+    "meaning": "This product will be sold for a limited time."
+  },
+  {
+    "sentence": "彼は古い道具を売って生計を立てている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い道具【どうぐ】を売【う】って生計【せいけい】を立【た】てている。",
+    "meaning": "He makes a living by selling old tools."
+  },
+  {
+    "sentence": "彼女は自作の焼き菓子を大学祭で販売した。",
+    "sentence_furigana": "彼女【かのじょ】は自作【じさく】の焼【や】き菓子【がし】を大学祭【だいがくさい】で販売【はんばい】した。",
+    "meaning": "She sold homemade baked goods at the university festival."
+  },
+  {
+    "sentence": "この車は中古車市場で人気が高い。",
+    "sentence_furigana": "この車【くるま】は中古車市場【ちゅうこしゃじょう】で人気【にんき】が高【たか】い。",
+    "meaning": "This car is popular in the used car market."
+  },
+  {
+    "sentence": "彼は収集品をオンラインで売買している。",
+    "sentence_furigana": "彼【かれ】は収集品【しゅうしゅうひん】をオンラインで売買【ばいばい】している。",
+    "meaning": "He buys and sells collectibles online."
+  },
+  {
+    "sentence": "彼女は手編みの帽子を露店で売っている。",
+    "sentence_furigana": "彼女【かのじょ】は手編【てあ】みの帽子【ぼうし】を露店【ろてん】で売【う】っている。",
+    "meaning": "She sells hand-knitted hats at a street stall."
+  },
+  {
+    "sentence": "この DVD は通常価格より安く売られている。",
+    "sentence_furigana": "この DVD は通常価格【つうじょうかかく】より安【やす】く売【う】られている。",
+    "meaning": "This DVD is sold at a lower price than usual."
+  },
+  {
+    "sentence": "彼は自分の作った工芸品を売っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の作【つく】った工芸品【こうげいひん】を売【う】っている。",
+    "meaning": "He sells handicrafts he made himself."
+  },
+  {
+    "sentence": "彼女はオンラインで彼女の作品を販売している。",
+    "sentence_furigana": "彼女【かのじょ】はオンラインで彼女【かのじょ】の作品【さくひん】を販売【はんばい】している。",
+    "meaning": "She sells her works online."
+  },
+  {
+    "sentence": "この本は既に完売した。",
+    "sentence_furigana": "この本【ほん】は既【すで】に完売【かんぱい】した。",
+    "meaning": "This book has already sold out."
+  },
+  {
+    "sentence": "彼は新しいモデルのスマートフォンを販売している。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいモデルのスマートフォンを販売【はんばい】している。",
+    "meaning": "He sells the new model smartphone."
+  },
+  {
+    "sentence": "彼女は手作りのジャムを地元の市場で売っている。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りのジャムを地元【じもと】の市場【しじょう】で売【う】っている。",
+    "meaning": "She sells homemade jam at the local market."
+  },
+  {
+    "sentence": "この商品は人気があるため、品薄です。",
+    "sentence_furigana": "この商品【しょうひん】は人気【にんき】があるため、品薄【しなう】です。",
+    "meaning": "This product is popular, so it is in short supply."
+  },
+  {
+    "sentence": "彼は古い機械を修理して売っている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い機械【きかい】を修理【しゅうり】して売【う】っている。",
+    "meaning": "He repairs and sells old machinery."
+  },
+  {
+    "sentence": "彼女は自分でデザインした服を販売している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】でデザインした服【ふく】を販売【はんばい】している。",
+    "meaning": "She sells clothes she designed herself."
+  },
+  {
+    "sentence": "この CD はセール価格で売られています。",
+    "sentence_furigana": "この CD はセール価格【かかく】で売【う】られています。",
+    "meaning": "This CD is sold at a sale price."
+  },
+  {
+    "sentence": "彼はアンティーク家具を専門に売っている。",
+    "sentence_furigana": "彼【かれ】はアンティーク家具【かぐ】を専門【せんもん】に売【う】っている。",
+    "meaning": "He specializes in selling antique furniture."
+  },
+  {
+    "sentence": "彼女は手作りのパンをカフェで販売している。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りのパンをカフェで販売【はんばい】している。",
+    "meaning": "She sells homemade bread at a cafe."
+  },
+  {
+    "sentence": "この雑誌は定期的に販売されている。",
+    "sentence_furigana": "この雑誌【ざっし】は定期的【ていきてき】に販売【はんばい】されている。",
+    "meaning": "This magazine is sold regularly."
+  },
+  {
+    "sentence": "彼は海外の珍しい商品を輸入して売っている。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】の珍【めずら】しい商品【しょうひん】を輸入【ゆにゅう】して売【う】っている。",
+    "meaning": "He imports and sells rare goods from abroad."
+  },
+  {
+    "sentence": "彼女は手編みのマフラーを冬に販売している。",
+    "sentence_furigana": "彼女【かのじょ】は手編【てあ】みのマフラーを冬【ふゆ】に販売【はんばい】している。",
+    "meaning": "She sells hand-knitted scarves in winter."
+  },
+  {
+    "sentence": "この商品は人気投票で一位になった。",
+    "sentence_furigana": "この商品【しょうひん】は人気投票【にんきとうひょう】で一位【いちい】になった。",
+    "meaning": "This product became number one in the popularity poll."
+  },
+  {
+    "sentence": "彼は古美術品を売買する店を開業した。",
+    "sentence_furigana": "彼【かれ】は古美術品【こびじゅつひん】を売買【ばいばい】する店【みせ】を開業【かいぎょう】した。",
+    "meaning": "He opened a shop that buys and sells old art."
+  },
+  {
+    "sentence": "彼女は自分で栽培したハーブを販売している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】で栽培【さいばい】したハーブを販売【はんばい】している。",
+    "meaning": "She sells herbs she grew herself."
+  },
+  {
+    "sentence": "この切手は珍しいものとして売られている。",
+    "sentence_furigana": "この切手【きって】は珍【めずら】しいものとして売【う】られている。",
+    "meaning": "These stamps are sold as rare items."
+  },
+  {
+    "sentence": "彼は子供向けの絵本を販売している。",
+    "sentence_furigana": "彼【かれ】は子供向【こどもむ】けの絵本【えほん】を販売【はんばい】している。",
+    "meaning": "He sells picture books for children."
+  },
+  {
+    "sentence": "彼女は手作りの石鹸をオンラインで売っている。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りの石鹸【せっけん】をオンラインで売【う】っている。",
+    "meaning": "She sells handmade soap online."
+  },
+  {
+    "sentence": "この商品は品切れのため、予約を受け付けている。",
+    "sentence_furigana": "この商品【しょうひん】は品切【しなぎ】れのため、予約【よやく】を受【う】け付【つ】けている。",
+    "meaning": "This product is out of stock, so we are accepting reservations."
+  },
+  {
+    "sentence": "彼は古い着物をリメイクして売っている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い着物【きもの】をリメイクして売【う】っている。",
+    "meaning": "He remakes and sells old kimonos."
+  },
+  {
+    "sentence": "彼女は彼女の詩を本にして販売している。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の詩【し】を本【ほん】にして販売【はんばい】している。",
+    "meaning": "She publishes and sells her poems as books."
+  },
+  {
+    "sentence": "この商品は海外でも販売されていますか？",
+    "sentence_furigana": "この商品【しょうひん】は海外【かいがい】でも販売【はんばい】されていますか？",
+    "meaning": "Is this product also sold overseas?"
+  },
+  {
+    "sentence": "彼は自分で栽培したオーガニック野菜を売っている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】で栽培【さいばい】したオーガニック野菜【やさい】を売【う】っている。",
+    "meaning": "He sells organic vegetables he grew himself."
+  },
+  {
+    "sentence": "彼女は手作りのキャンドルを販売するウェブサイトを開設した。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りのキャンドルを販売【はんばい】するウェブサイトを開設【かいせつ】した。",
+    "meaning": "She launched a website selling handmade candles."
+  },
+  {
+    "sentence": "このテレビは最新モデルで、人気商品だ。",
+    "sentence_furigana": "このテレビは最新モデル【さいしんモデル】で、人気商品【にんきしょうひん】だ。",
+    "meaning": "This TV is the latest model and a popular product."
+  },
+  {
+    "sentence": "彼は古い楽器を買い取って販売している。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い楽器【がっき】を買【か】い取【と】って販売【はんばい】している。",
+    "meaning": "He buys and sells old musical instruments."
+  },
+  {
+    "sentence": "彼女は自分でデザインしたアクセサリーをオンラインで売っている。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】でデザインしたアクセサリーをオンラインで売【う】っている。",
+    "meaning": "She sells accessories she designed herself online."
+  },
+  {
+    "sentence": "このDVDは限定版として販売された。",
+    "sentence_furigana": "この DVD は限定版【げんていばん】として販売【はんばい】された。",
+    "meaning": "This DVD was sold as a limited edition."
+  },
+  {
+    "sentence": "彼は古い地図を収集して売っている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い地図【ちず】を収集【しゅうしゅう】して売【う】っている。",
+    "meaning": "He collects and sells old maps."
+  },
+  {
+    "sentence": "彼女は手作りの石鹸を地元の店舗で販売している。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りの石鹸【せっけん】を地元【じもと】の店舗【てんぽ】で販売【はんばい】している。",
+    "meaning": "She sells handmade soap at local stores."
+  },
+  {
+    "sentence": "この商品は再入荷の予定はありません。",
+    "sentence_furigana": "この商品【しょうひん】は再入荷【さいにゅうか】の予定【よてい】はありません。",
+    "meaning": "This product is not scheduled to be restocked."
+  },
+  {
+    "sentence": "彼は自分で作った木工品を販売している。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】で作【つく】った木工品【もっこうひん】を販売【はんばい】している。",
+    "meaning": "He sells woodwork he made himself."
+  },
+  {
+    "sentence": "彼女は彼女の小説を電子書籍として販売している。",
+    "sentence_furigana": "彼女【かのじょ】は彼女【かのじょ】の小説【しょうせつ】を電子書籍【でんししょせき】として販売【はんばい】している。",
+    "meaning": "She sells her novels as e-books."
+  },
+  {
+    "sentence": "この本は書店で広く販売されている。",
+    "sentence_furigana": "この本【ほん】は書店【しょてん】で広【ひろ】く販売【はんばい】されている。",
+    "meaning": "This book is widely sold in bookstores."
+  },
+  {
+    "sentence": "彼は中古のカメラを買い取って販売している。",
+    "sentence_furigana": "彼【かれ】は中古【ちゅうこ】のカメラを買【か】い取【と】って販売【はんばい】している。",
+    "meaning": "He buys and sells used cameras."
+  },
+  {
+    "sentence": "彼女は手作りのアクセサリーをイベントで販売した。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りのアクセサリーをイベントで販売【はんばい】した。",
+    "meaning": "She sold handmade accessories at an event."
+  },
+  {
+    "sentence": "この商品は限定数のみ販売されます。",
+    "sentence_furigana": "この商品【しょうひん】は限定数【げんていすう】のみ販売【はんばい】されます。",
+    "meaning": "This product will be sold in limited quantities only."
+  },
+  {
+    "sentence": "彼は古いレコードを買い集めて売っている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】いレコードを買【か】い集【あつ】めて売【う】っている。",
+    "meaning": "He collects and sells old records."
+  },
+  {
+    "sentence": "彼女は自分で作った文房具をオンラインで販売している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】で作【つく】った文房具【ぶんぼうぐ】をオンラインで販売【はんばい】している。",
+    "meaning": "She sells stationery she made herself online."
+  },
+  {
+    "sentence": "この雑誌は定期購読で販売されている。",
+    "sentence_furigana": "この雑誌【ざっし】は定期購読【ていきていこうどく】で販売【はんばい】されている。",
+    "meaning": "This magazine is sold by subscription."
+  },
+  {
+    "sentence": "彼は海外の珍しい書籍を輸入して売っている。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】の珍【めずら】しい書籍【しょせき】を輸入【ゆにゅう】して売【う】っている。",
+    "meaning": "He imports and sells rare books from abroad."
+  },
+  {
+    "sentence": "彼女は手編みのセーターを展示会で販売した。",
+    "sentence_furigana": "彼女【かのじょ】は手編【てあ】みのセーターを展示会【てんじかい】で販売【はんばい】した。",
+    "meaning": "She sold hand-knitted sweaters at an exhibition."
+  },
+  {
+    "sentence": "この商品は人気のため、品薄状態が続いている。",
+    "sentence_furigana": "この商品【しょうひん】は人気【にんき】のため、品薄状態【しなうすじょうたい】が続【つづ】いている。",
+    "meaning": "Due to its popularity, this product remains in short supply."
+  },
+  {
+    "sentence": "彼は古い陶器を買い取って販売している。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い陶器【とうき】を買【か】い取【と】って販売【はんばい】している。",
+    "meaning": "He buys and sells old pottery."
+  },
+  {
+    "sentence": "彼女は自分でデザインしたジュエリーを販売している。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】でデザインしたジュエリーを販売【はんばい】している。",
+    "meaning": "She sells jewelry she designed herself."
+  },
+  {
+    "sentence": "この商品は再販の予定がありますか？",
+    "sentence_furigana": "この商品【しょうひん】は再販【さいはん】の予定【よてい】がありますか？",
+    "meaning": "Is there a plan to resell this product?"
+  }
+]

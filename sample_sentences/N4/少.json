@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "この本は少部数しか印刷されなかった。",
+    "sentence_furigana": "この本【ほん】は少【しょう】部数【ぶすう】しか印刷【いんさつ】されなかった。",
+    "meaning": "This book was printed in only a small quantity."
+  },
+  {
+    "sentence": "彼女はあまり物事を気にしない、少々図太いところがある。",
+    "sentence_furigana": "彼女【かのじょ】はあまり物事【ものごと】を気【き】にしない、少々【しょうしょう】図太【ずぶと】いところがある。",
+    "meaning": "She doesn't care much about things; she's a bit thick-skinned."
+  },
+  {
+    "sentence": "朝食は少なめに摂るようにしている。",
+    "sentence_furigana": "朝食【ちょうしょく】は少【すこ】なめに摂【と】るようにしている。",
+    "meaning": "I try to eat a small breakfast."
+  },
+  {
+    "sentence": "この地域は人口が少ない。",
+    "sentence_furigana": "この地域【ちいき】は人口【じんこう】が少【すく】ない。",
+    "meaning": "The population in this region is small."
+  },
+  {
+    "sentence": "少しだけ味見をさせてください。",
+    "sentence_furigana": "少【すこ】しだけ味見【あじみ】をさせてください。",
+    "meaning": "Please let me taste just a little."
+  },
+  {
+    "sentence": "少年の目は希望に満ちていた。",
+    "sentence_furigana": "少年【しょうねん】の目【め】は希望【きぼう】に満【み】ちていた。",
+    "meaning": "The boy's eyes were filled with hope."
+  },
+  {
+    "sentence": "会議には少数の参加者しかいなかった。",
+    "sentence_furigana": "会議【かいぎ】には少数【しょうすう】の参加者【さんかしゃ】しかいなかった。",
+    "meaning": "There were only a few participants in the meeting."
+  },
+  {
+    "sentence": "彼は少し疲れているようだ。",
+    "sentence_furigana": "彼【かれ】は少【すこ】し疲【つか】れているようだ。",
+    "meaning": "He seems a little tired."
+  },
+  {
+    "sentence": "この薬は少量でも効果がある。",
+    "sentence_furigana": "この薬【くすり】は少量【しょうりょう】でも効果【こうか】がある。",
+    "meaning": "This medicine is effective even in small amounts."
+  },
+  {
+    "sentence": "彼は口数が少ない。",
+    "sentence_furigana": "彼【かれ】は口数【くちかず】が少【すく】ない。",
+    "meaning": "He doesn't talk much."
+  },
+  {
+    "sentence": "子供は少しかんしゃくを起こしやすい。",
+    "sentence_furigana": "子供【こども】は少【すこ】しかんしゃくを起【お】こしやすい。",
+    "meaning": "Children tend to have tantrums easily."
+  },
+  {
+    "sentence": "少年の頃を思い出す。",
+    "sentence_furigana": "少年【しょうねん】の頃【ころ】を思【おも】い出【だ】す。",
+    "meaning": "I remember my childhood days."
+  },
+  {
+    "sentence": "食料が少ないので、節約しなければならない。",
+    "sentence_furigana": "食料【しょくりょう】が少【すく】ないので、節約【せつやく】しなければならない。",
+    "meaning": "Since food is scarce, we have to conserve it."
+  },
+  {
+    "sentence": "彼は少々内気な性格だ。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】内気【うちき】な性格【せいかく】だ。",
+    "meaning": "He has a rather shy personality."
+  },
+  {
+    "sentence": "この町には若い人が少ない。",
+    "sentence_furigana": "この町【まち】には若【わか】い人【ひと】が少【すく】ない。",
+    "meaning": "There are few young people in this town."
+  },
+  {
+    "sentence": "少しだけ休憩しましょう。",
+    "sentence_furigana": "少【すこ】しだけ休憩【きゅうけい】しましょう。",
+    "meaning": "Let's take a short break."
+  },
+  {
+    "sentence": "少年犯罪が増加している。",
+    "sentence_furigana": "少年【しょうねん】犯罪【はんざい】が増加【ぞうか】している。",
+    "meaning": "Juvenile delinquency is on the rise."
+  },
+  {
+    "sentence": "彼女は少々遅れて到着した。",
+    "sentence_furigana": "彼女【かのじょ】は少々【しょうしょう】遅【おく】れて到着【とうちゃく】した。",
+    "meaning": "She arrived a little late."
+  },
+  {
+    "sentence": "この料理は塩分が少ない。",
+    "sentence_furigana": "この料理【りょうり】は塩分【えんぶん】が少【すく】ない。",
+    "meaning": "This dish is low in salt."
+  },
+  {
+    "sentence": "少々お待ちください。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください。",
+    "meaning": "Please wait a moment."
+  },
+  {
+    "sentence": "少人数でのパーティは気楽だ。",
+    "sentence_furigana": "少人数【しょうにんずう】でのパーティは気楽【きらく】だ。",
+    "meaning": "Parties with a small number of people are relaxed."
+  },
+  {
+    "sentence": "彼は少々見栄っ張りなところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】見栄【み】っぱりなところがある。",
+    "meaning": "He's a bit of a show-off."
+  },
+  {
+    "sentence": "この果物は酸味が少ない。",
+    "sentence_furigana": "この果物【くだもの】は酸味【さんみ】が少【すく】ない。",
+    "meaning": "This fruit is not very sour."
+  },
+  {
+    "sentence": "少しだけ助けてもらえますか？",
+    "sentence_furigana": "少【すこ】しだけ助【たす】けてもらえますか？",
+    "meaning": "Can you help me a little?"
+  },
+  {
+    "sentence": "少年の頃は野球が好きだった。",
+    "sentence_furigana": "少年【しょうねん】の頃【ころ】は野球【やきゅう】が好き【す】きだった。",
+    "meaning": "I liked baseball when I was a boy."
+  },
+  {
+    "sentence": "彼は少々頑固な一面を持っている。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】頑固【がんこ】な一面【いちめん】を持【も】っている。",
+    "meaning": "He has a somewhat stubborn side."
+  },
+  {
+    "sentence": "この本は少部数しか出版されていない。",
+    "sentence_furigana": "この本【ほん】は少部数【しょうぶすう】しか出版【しゅっぱん】されていない。",
+    "meaning": "This book has only been published in a small quantity."
+  },
+  {
+    "sentence": "彼は少々興奮していた。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】興奮【こうふん】していた。",
+    "meaning": "He was a little excited."
+  },
+  {
+    "sentence": "公園には人が少ない。",
+    "sentence_furigana": "公園【こうえん】には人【ひと】が少【すく】ない。",
+    "meaning": "There are few people in the park."
+  },
+  {
+    "sentence": "少額でも寄付を歓迎します。",
+    "sentence_furigana": "少額【しょうがく】でも寄付【きふ】を歓迎【かんげい】します。",
+    "meaning": "Donations, even small amounts, are welcome."
+  },
+  {
+    "sentence": "少年の日の思い出。",
+    "sentence_furigana": "少年【しょうねん】の日【ひ】の思【おも】い出【で】。",
+    "meaning": "Memories of boyhood."
+  },
+  {
+    "sentence": "この地域は歴史が浅い。",
+    "sentence_furigana": "この地域【ちいき】は歴史【れきし】が少【すく】ない。",
+    "meaning": "This region has a short history."
+  },
+  {
+    "sentence": "彼は少し日本語を話せます。",
+    "sentence_furigana": "彼【かれ】は少【すこ】し日本語【にほんご】を話【はな】せます。",
+    "meaning": "He can speak a little Japanese."
+  },
+  {
+    "sentence": "少々お待ちいただけますでしょうか。",
+    "sentence_furigana": "少々【しょうしょう】お待ちいただけますでしょうか。",
+    "meaning": "Could you please wait a moment?"
+  },
+  {
+    "sentence": "彼女は少々神経質だ。",
+    "sentence_furigana": "彼女【かのじょ】は少々【しょうしょう】神経質【しんけいしつ】だ。",
+    "meaning": "She is a bit neurotic."
+  },
+  {
+    "sentence": "この計画は少数の賛成者しかいない。",
+    "sentence_furigana": "この計画【けいかく】は少数【しょうすう】の賛成者【さんせいしゃ】しかいない。",
+    "meaning": "This plan only has a few supporters."
+  },
+  {
+    "sentence": "少しでも参考になれば幸いです。",
+    "sentence_furigana": "少【すこ】しでも参考【さんこう】になれば幸【さいわ】いです。",
+    "meaning": "I hope it is of some help."
+  },
+  {
+    "sentence": "少年期の悩みはつきものだ。",
+    "sentence_furigana": "少年期【しょうねんき】の悩【なや】みはつきものだ。",
+    "meaning": "Worries are common during adolescence."
+  },
+  {
+    "sentence": "彼は少々変わった人だ。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】変【か】わった人【ひと】だ。",
+    "meaning": "He is a rather peculiar person."
+  },
+  {
+    "sentence": "このレシピは砂糖が少ない。",
+    "sentence_furigana": "このレシピは砂糖【さとう】が少【すく】ない。",
+    "meaning": "This recipe uses little sugar."
+  },
+  {
+    "sentence": "少人数で作業を進める。",
+    "sentence_furigana": "少人数【しょうにんずう】で作業【さぎょう】を進【すす】める。",
+    "meaning": "We will proceed with the work with a small number of people."
+  },
+  {
+    "sentence": "彼の発言は少々過激だ。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は少々【しょうしょう】過激【かげき】だ。",
+    "meaning": "His remarks are a bit extreme."
+  },
+  {
+    "sentence": "この果物は糖分が少ない。",
+    "sentence_furigana": "この果物【くだもの】は糖分【とうぶん】が少【すく】ない。",
+    "meaning": "This fruit is low in sugar."
+  },
+  {
+    "sentence": "少しずつ進歩している。",
+    "sentence_furigana": "少【すこ】しずつ進歩【しんぽ】している。",
+    "meaning": "Progress is being made little by little."
+  },
+  {
+    "sentence": "少年の純粋な心。",
+    "sentence_furigana": "少年【しょうねん】の純粋【じゅんすい】な心【こころ】。",
+    "meaning": "A boy's pure heart."
+  },
+  {
+    "sentence": "この店は客が少ない。",
+    "sentence_furigana": "この店【みせ】は客【きゃく】が少【すく】ない。",
+    "meaning": "This shop has few customers."
+  },
+  {
+    "sentence": "少々お待ちください、すぐに参ります。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください、すぐ【すぐ】に参【まい】ります。",
+    "meaning": "Please wait a moment, I'll be right there."
+  },
+  {
+    "sentence": "彼女は少々おっちょこちょいなところがある。",
+    "sentence_furigana": "彼女【かのじょ】は少々【しょうしょう】おっちょこちょいなところがある。",
+    "meaning": "She's a bit of a scatterbrain."
+  },
+  {
+    "sentence": "この商品は少々値段が高い。",
+    "sentence_furigana": "この商品【しょうひん】は少々【しょうしょう】値段【ねだん】が⾼【たか】い。",
+    "meaning": "This product is a little expensive."
+  },
+  {
+    "sentence": "会議では少人数のグループに分かれた。",
+    "sentence_furigana": "会議【かいぎ】では少人数【しょうにんずう】のグループに分【わ】かれた。",
+    "meaning": "We were divided into small groups in the meeting."
+  },
+  {
+    "sentence": "彼は少々感情的になりやすい。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】感情的【かんじょうてき】になりやすい。",
+    "meaning": "He tends to get a bit emotional."
+  },
+  {
+    "sentence": "この薬は副作用が少ない。",
+    "sentence_furigana": "この薬【くすり】は副作用【ふくさよう】が少【すく】ない。",
+    "meaning": "This medicine has few side effects."
+  },
+  {
+    "sentence": "少々お待ちください、確認いたします。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください、確認【かくにん】いたします。",
+    "meaning": "Please wait a moment while I check."
+  },
+  {
+    "sentence": "少年鑑別所。",
+    "sentence_furigana": "少年【しょうねん】鑑別所【かんべつじょ】。",
+    "meaning": "Juvenile detention center."
+  },
+  {
+    "sentence": "彼は少々無責任なところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】無責任【むせきにん】なところがある。",
+    "meaning": "He's a bit irresponsible."
+  },
+  {
+    "sentence": "この地域は桜の木が少ない。",
+    "sentence_furigana": "この地域【ちいき】は桜【さくら】の木【き】が少【すく】ない。",
+    "meaning": "There are few cherry trees in this area."
+  },
+  {
+    "sentence": "少しばかりのお礼です。",
+    "sentence_furigana": "少【すこ】しばかりのお礼【れい】です。",
+    "meaning": "This is just a small token of my gratitude."
+  },
+  {
+    "sentence": "少年法。",
+    "sentence_furigana": "少年法【しょうねんほう】。",
+    "meaning": "Juvenile law."
+  },
+  {
+    "sentence": "彼は少々不器用なところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】不器用【ぶきよう】なところがある。",
+    "meaning": "He's a bit clumsy."
+  },
+  {
+    "sentence": "この資料は部数が少ない。",
+    "sentence_furigana": "この資料【しりょう】は部数【ぶすう】が少【すく】ない。",
+    "meaning": "This material has a small print run."
+  },
+  {
+    "sentence": "少々お待ちください。担当者が参ります。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください。担当者【たんとうしゃ】が参【まい】ります。",
+    "meaning": "Please wait a moment. The person in charge will be with you shortly."
+  },
+  {
+    "sentence": "彼は少々頑なな態度を示した。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】頑な【つよ】かな態度【たいど】を示【しめ】した。",
+    "meaning": "He showed a somewhat stubborn attitude."
+  },
+  {
+    "sentence": "この公園は広さが少ない。",
+    "sentence_furigana": "この公園【こうえん】は広【ひろ】さが少【すく】ない。",
+    "meaning": "This park is not very large."
+  },
+  {
+    "sentence": "少しずつでも努力を続けよう。",
+    "sentence_furigana": "少【すこ】しずつでも努力【どりょく】を続【つづ】けよう。",
+    "meaning": "Let's continue to make an effort, even if it's little by little."
+  },
+  {
+    "sentence": "少年時代の夢。",
+    "sentence_furigana": "少年時代【しょうねんじだい】の夢【ゆめ】。",
+    "meaning": "Dreams of youth."
+  },
+  {
+    "sentence": "彼は少々口数が少ないタイプだ。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】口数【くちかず】が少【すく】ないタイプだ。",
+    "meaning": "He's the type who doesn't talk much."
+  },
+  {
+    "sentence": "この本は図書館に少ない。",
+    "sentence_furigana": "この本【ほん】は図書館【としょかん】に少【すく】ない。",
+    "meaning": "This book is scarce in the library."
+  },
+  {
+    "sentence": "少々お待ちください、確認いたします。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください、確認【かくにん】いたします。",
+    "meaning": "Please wait a moment, I will confirm."
+  },
+  {
+    "sentence": "彼は少々気難しいところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】気難【きむずか】しいところがある。",
+    "meaning": "He's a bit difficult to deal with."
+  },
+  {
+    "sentence": "このコースは難易度が少ない。",
+    "sentence_furigana": "このコースは難易度【なんいど】が少【すく】ない。",
+    "meaning": "This course has a low degree of difficulty."
+  },
+  {
+    "sentence": "少しでもお役に立てれば幸いです。",
+    "sentence_furigana": "少【すこ】しでもお役【やく】に立【た】てれば幸【さいわ】いです。",
+    "meaning": "I would be happy if I could be of even a little help."
+  },
+  {
+    "sentence": "少年犯罪の防止策。",
+    "sentence_furigana": "少年【しょうねん】犯罪【はんざい】の防止策【ぼうしさく】。",
+    "meaning": "Measures to prevent juvenile delinquency."
+  },
+  {
+    "sentence": "彼は少々皮肉屋なところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】皮肉屋【ひにくや】なところがある。",
+    "meaning": "He's a bit cynical."
+  },
+  {
+    "sentence": "この野菜はビタミンが少ない。",
+    "sentence_furigana": "この野菜【やさい】はビタミンが少【すく】ない。",
+    "meaning": "This vegetable is low in vitamins."
+  },
+  {
+    "sentence": "少人数での開催となります。",
+    "sentence_furigana": "少人数【しょうにんずう】での開催【かいさい】となります。",
+    "meaning": "It will be held with a small number of participants."
+  },
+  {
+    "sentence": "彼は少々自己中心的だ。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】自己中心的【じこちゅうしんてき】だ。",
+    "meaning": "He is a bit self-centered."
+  },
+  {
+    "sentence": "この地域の住人の数は少ない。",
+    "sentence_furigana": "この地域【ちいき】の住人【じゅうにん】の数【かず】は少【すく】ない。",
+    "meaning": "The number of residents in this area is small."
+  },
+  {
+    "sentence": "少し時間をください。",
+    "sentence_furigana": "少【すこ】し時間【じかん】をください。",
+    "meaning": "Please give me some time."
+  },
+  {
+    "sentence": "少年期特有の悩み。",
+    "sentence_furigana": "少年期【しょうねんき】特有【とくゆう】の悩【なや】み。",
+    "meaning": "Worries specific to adolescence."
+  },
+  {
+    "sentence": "彼は少々見通しが甘い。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】見通【みとお】しが甘【あま】い。",
+    "meaning": "His foresight is a bit lacking."
+  },
+  {
+    "sentence": "この製品は需要が少ない。",
+    "sentence_furigana": "この製品【せいひん】は需要【じゅよう】が少【すく】ない。",
+    "meaning": "There is little demand for this product."
+  },
+  {
+    "sentence": "少額紙幣。",
+    "sentence_furigana": "少額紙幣【しょうがくしへい】。",
+    "meaning": "Small denomination bills."
+  },
+  {
+    "sentence": "彼は少々空理空論に走りやすい。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】空理空論【くうりくうろん】に走【はし】りやすい。",
+    "meaning": "He tends to get carried away with abstract theories."
+  },
+  {
+    "sentence": "この料理は油分が少ない。",
+    "sentence_furigana": "この料理【りょうり】は油分【ゆぶん】が少【すく】ない。",
+    "meaning": "This dish is low in oil."
+  },
+  {
+    "sentence": "少しずつですが、進歩しています。",
+    "sentence_furigana": "少【すこ】しずつですが、進歩【しんぽ】しています。",
+    "meaning": "We are making progress, albeit little by little."
+  },
+  {
+    "sentence": "少年院。",
+    "sentence_furigana": "少年院【しょうねんいん】。",
+    "meaning": "Juvenile correctional institution."
+  },
+  {
+    "sentence": "彼は少々神経質で心配性だ。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】神経質【しんけいしつ】で心配性【しんぱいしょう】だ。",
+    "meaning": "He is a bit neurotic and prone to worrying."
+  },
+  {
+    "sentence": "この辺りは喫茶店が少ない。",
+    "sentence_furigana": "この辺【あた】りは喫茶店【きっさてん】が少【すく】ない。",
+    "meaning": "There are few coffee shops in this area."
+  },
+  {
+    "sentence": "少々お待ちください、資料をお持ちします。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください、資料【しりょう】をお持【も】ちします。",
+    "meaning": "Please wait a moment, I will bring the documents."
+  },
+  {
+    "sentence": "彼は少々強情なところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】強情【ごうじょう】なところがある。",
+    "meaning": "He is a bit stubborn."
+  },
+  {
+    "sentence": "この畑は作付け面積が少ない。",
+    "sentence_furigana": "この畑【はたけ】は作付面積【さくつけめんせき】が少【すく】ない。",
+    "meaning": "The cultivated area of this field is small."
+  },
+  {
+    "sentence": "少しでも多くの人に知ってほしい。",
+    "sentence_furigana": "少【すこ】しでも多【おお】くの人【ひと】に知【し】ってほしい。",
+    "meaning": "I want as many people as possible to know."
+  },
+  {
+    "sentence": "少年団の活動。",
+    "sentence_furigana": "少年団【しょうねんだん】の活動【かつどう】。",
+    "meaning": "Activities of a youth group."
+  },
+  {
+    "sentence": "彼は少々おしゃべりなところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】おしゃべりなところがある。",
+    "meaning": "He's a bit of a chatterbox."
+  },
+  {
+    "sentence": "この川の水量は少ない。",
+    "sentence_furigana": "この川【かわ】の水量【すいりょう】は少【すく】ない。",
+    "meaning": "The water level of this river is low."
+  },
+  {
+    "sentence": "少々お待ちください、確認しております。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください、確認【かくにん】しております。",
+    "meaning": "Please wait a moment, we are checking."
+  },
+  {
+    "sentence": "彼は少々見栄を張る傾向がある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】見栄【み】を張【は】る傾向【けいこう】がある。",
+    "meaning": "He tends to show off a bit."
+  },
+  {
+    "sentence": "この教室は生徒が少ない。",
+    "sentence_furigana": "この教室【きょうしつ】は生徒【せいと】が少【すく】ない。",
+    "meaning": "There are few students in this classroom."
+  },
+  {
+    "sentence": "少しは落ち着いてください。",
+    "sentence_furigana": "少【すこ】しは落【お】ち着【つ】いてください。",
+    "meaning": "Please calm down a little."
+  },
+  {
+    "sentence": "少年時代に戻りたい。",
+    "sentence_furigana": "少年時代【しょうねんじだい】に戻【もど】りたい。",
+    "meaning": "I want to go back to my childhood."
+  },
+  {
+    "sentence": "彼は少々理想主義的なところがある。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】理想主義的【りそうしゅぎてき】なところがある。",
+    "meaning": "He's a bit of an idealist."
+  },
+  {
+    "sentence": "この雑誌は発行部数が少ない。",
+    "sentence_furigana": "この雑誌【ざっし】は発行部数【はっこうぶすう】が少【すく】ない。",
+    "meaning": "This magazine has a small circulation."
+  },
+  {
+    "sentence": "少々お待ちください、まもなく準備が整います。",
+    "sentence_furigana": "少々【しょうしょう】お待ちください、まもなく準備【じゅんび】が整【ととの】います。",
+    "meaning": "Please wait a moment, preparations will be ready shortly."
+  },
+  {
+    "sentence": "彼は少々皮肉めいた口調で話した。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】皮肉【ひにく】めいた口調【くちょう】で話【はな】した。",
+    "meaning": "He spoke in a rather sarcastic tone."
+  },
+  {
+    "sentence": "この地域では雨量が少ない。",
+    "sentence_furigana": "この地域【ちいき】では雨量【うりょう】が少【すく】ない。",
+    "meaning": "The rainfall in this region is scarce."
+  },
+  {
+    "sentence": "少しでも早く着きたい。",
+    "sentence_furigana": "少【すこ】しでも早【はや】く着【つ】きたい。",
+    "meaning": "I want to arrive as early as possible."
+  }
+]

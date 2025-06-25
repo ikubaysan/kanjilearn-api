@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "この法律の第一条を読んでください。",
+    "sentence_furigana": "この法律【ほうりつ】の第一条【だいいちじょう】を読【よ】んでください。",
+    "meaning": "Please read the first article of this law."
+  },
+  {
+    "sentence": "契約書の各条項を確認しました。",
+    "sentence_furigana": "契約書【けいやくしょ】の各条項【かくじょうこう】を確認【かくにん】しました。",
+    "meaning": "I confirmed each clause of the contract."
+  },
+  {
+    "sentence": "会議の議題はこの箇条書きの通りです。",
+    "sentence_furigana": "会議【かいぎ】の議題【ぎだい】はこの箇条書【かじょうが】きの通【とお】りです。",
+    "meaning": "The agenda for the meeting is as per these items."
+  },
+  {
+    "sentence": "タイガーには一本の縞模様がある。",
+    "sentence_furigana": "タイガーには一本【いっぽん】の縞模様【しまもよう】がある。",
+    "meaning": "A tiger has a stripe."
+  },
+  {
+    "sentence": "長年連れ添った夫婦には、長い一本の絆がある。",
+    "sentence_furigana": "長年連【ながねんつ】れ添【そ】った夫婦【ふうふ】には、長【なが】い一本【いっぽん】の絆【きずな】がある。",
+    "meaning": "A couple who have been together for many years have a long streak of bonding."
+  },
+  {
+    "sentence": "彼女の顔には血の筋が見えた。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】には血【ち】の筋【すじ】が見【み】えた。",
+    "meaning": "A streak of blood was visible on her face."
+  },
+  {
+    "sentence": "火災報知器の条令を確認してください。",
+    "sentence_furigana": "火災報知器【かさいほうちき】の条令【じょうれい】を確認【かくにん】してください。",
+    "meaning": "Please check the regulations for the fire alarm."
+  },
+  {
+    "sentence": "この法律はいくつかの条文から成っています。",
+    "sentence_furigana": "この法律【ほうりつ】はいくつか条文【じょうぶん】から成【な】っています。",
+    "meaning": "This law consists of several articles."
+  },
+  {
+    "sentence": "彼は規則の第〇〇条を引用した。",
+    "sentence_furigana": "彼【かれ】は規則【きそく】の第〇〇条【だいまるまるじょう】を引用【いんよう】した。",
+    "meaning": "He quoted Article XX of the rules."
+  },
+  {
+    "sentence": "会社の諸条項について説明します。",
+    "sentence_furigana": "会社【かいしゃ】の諸条項【しょじょうこう】について説明【せつめい】します。",
+    "meaning": "I will explain the various clauses of the company."
+  },
+  {
+    "sentence": "この商品は特別価格の一条販売です。",
+    "sentence_furigana": "この商品【しょうひん】は特別価格【とくべつかかく】の一条販売【いちじょうはんばい】です。",
+    "meaning": "This product is sold at a special price per item."
+  },
+  {
+    "sentence": "彼の言葉には深い条理があった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には深【ふか】い条理【じょうり】があった。",
+    "meaning": "There was deep reasoning in his words."
+  },
+  {
+    "sentence": "彼女の着物には細い縞模様があった。",
+    "sentence_furigana": "彼女【かのじょ】の着物【きもの】には細【ほそ】い縞模様【しまもよう】があった。",
+    "meaning": "Her kimono had fine stripes."
+  },
+  {
+    "sentence": "その船の甲板に長い木の条があった。",
+    "sentence_furigana": "その船【ふね】の甲板【かんぱん】に長【なが】い木【き】の条【じょう】があった。",
+    "meaning": "There was a long wooden strip on the ship's deck."
+  },
+  {
+    "sentence": "その医師は患者の症状の条目を読み上げた。",
+    "sentence_furigana": "その医師【いし】は患者【かんじゃ】の症状【しょうじょう】の条目【じょうもく】を読【よ】み上【あ】げた。",
+    "meaning": "The doctor read out the items of the patient's symptoms."
+  },
+  {
+    "sentence": "この箇条書きのリストは分かりやすい。",
+    "sentence_furigana": "この箇条書【かじょうが】きのリストは分【わ】かりやすい。",
+    "meaning": "This bulleted list is easy to understand."
+  },
+  {
+    "sentence": "法案の各条項を精査している。",
+    "sentence_furigana": "法案【ほうあん】の各条項【かくじょうこう】を精査【せいさ】している。",
+    "meaning": "We are scrutinizing each clause of the bill."
+  },
+  {
+    "sentence": "彼は新しい条約の批准について語った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい条約【じょうやく】の批准【ひじゅん】について語【かた】った。",
+    "meaning": "He spoke about the ratification of the new treaty."
+  },
+  {
+    "sentence": "この生地には縦に細い筋が入っている。",
+    "sentence_furigana": "この生地【きじ】には縦【たて】に細【ほそ】い筋【すじ】が入【はい】っている。",
+    "meaning": "This fabric has fine vertical streaks."
+  },
+  {
+    "sentence": "彼の提案は論理的な条理を備えていた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は論理的【ろんりてき】な条理【じょうり】を備【そな】えていた。",
+    "meaning": "His proposal possessed logical reasoning."
+  },
+  {
+    "sentence": "この細長い物体は、何かの条に似ている。",
+    "sentence_furigana": "この細長【ほそなが】い物体【ぶったい】は、何【なに】かの条【すじ】に似【に】ている。",
+    "meaning": "This elongated object resembles some kind of streak."
+  },
+  {
+    "sentence": "最新の条令に従ってください。",
+    "sentence_furigana": "最新【さいしん】の条令【じょうれい】に従【したが】ってください。",
+    "meaning": "Please follow the latest regulations."
+  },
+  {
+    "sentence": "その小説の第百条の描写は鮮明だった。",
+    "sentence_furigana": "その小説【しょうせつ】の第百条【だいひゃくじょう】の描写【びょうしゃ】は鮮明【せんめい】だった。",
+    "meaning": "The description in the hundredth article of that novel was vivid."
+  },
+  {
+    "sentence": "契約の条件は第十三条に詳述されている。",
+    "sentence_furigana": "契約【けいやく】の条件【じょうけん】は第十三条【だいじゅうさんじょう】に詳述【しょうじゅつ】されている。",
+    "meaning": "The conditions of the contract are detailed in Article 13."
+  },
+  {
+    "sentence": "このリストの各項目について説明します。",
+    "sentence_furigana": "このリストの各項目【かくこうもく】について説明【せつめい】します。",
+    "meaning": "I will explain each item on this list."
+  },
+  {
+    "sentence": "彼のシャツには、数本の細い縞が入っていた。",
+    "sentence_furigana": "彼【かれ】のシャツには、数本【すうほん】の細【ほそ】い縞【しま】が入【はい】っていた。",
+    "meaning": "His shirt had several thin stripes."
+  },
+  {
+    "sentence": "その馬のたてがみには白い筋が一本あった。",
+    "sentence_furigana": "その馬【うま】のたてがみには白【しろ】い筋【すじ】が一本【いっぽん】あった。",
+    "meaning": "There was a white streak in the horse's mane."
+  },
+  {
+    "sentence": "この条約は平和を促進することを目的としている。",
+    "sentence_furigana": "この条約【じょうやく】は平和【へいわ】を促進【そくしん】することを目的【もくてき】としている。",
+    "meaning": "This treaty aims to promote peace."
+  },
+  {
+    "sentence": "新しい法律の条文を検討中だ。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】の条文【じょうぶん】を検討中【けんとうちゅう】だ。",
+    "meaning": "We are examining the articles of the new law."
+  },
+  {
+    "sentence": "彼女は箇条書きでアイデアを提示した。",
+    "sentence_furigana": "彼女【かのじょ】は箇条書【かじょうが】きでアイデアを提示【ていじ】した。",
+    "meaning": "She presented her ideas in a bulleted list."
+  },
+  {
+    "sentence": "この条項は後日変更される可能性がある。",
+    "sentence_furigana": "この条項【じょうこう】は後日【ごじつ】変更【へんこう】される可能性【かのうせい】がある。",
+    "meaning": "This clause may be changed at a later date."
+  },
+  {
+    "sentence": "彼は長い髭の筋を撫でた。",
+    "sentence_furigana": "彼【かれ】は長【なが】い髭【ひげ】の筋【すじ】を撫【な】でた。",
+    "meaning": "He stroked the streaks of his long beard."
+  },
+  {
+    "sentence": "このドレスには縦縞が一本入っている。",
+    "sentence_furigana": "このドレスには縦縞【たてじま】が一本【いっぽん】入【はい】っている。",
+    "meaning": "This dress has a single vertical stripe."
+  },
+  {
+    "sentence": "その法律の第二条は明確である。",
+    "sentence_furigana": "その法律【ほうりつ】の第二条【だいニじょう】は明確【めいかく】である。",
+    "meaning": "The second article of that law is clear."
+  },
+  {
+    "sentence": "彼は会議の議事条項を読み上げた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の議事条項【ぎじじょうこう】を読【よ】み上【あ】げた。",
+    "meaning": "He read out the agenda items for the meeting."
+  },
+  {
+    "sentence": "この取引にはいくつかの条約がある。",
+    "sentence_furigana": "この取引【とりひき】にはいくつか条約【じょうやく】がある。",
+    "meaning": "There are several clauses in this transaction."
+  },
+  {
+    "sentence": "この絵には幾何学的な筋が見られる。",
+    "sentence_furigana": "この絵【え】には幾何学【きかがく】的【てき】な筋【すじ】が見【み】られる。",
+    "meaning": "Geometric streaks can be seen in this painting."
+  },
+  {
+    "sentence": "彼の提案は条理に欠けていた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は条理【じょうり】に欠【か】けていた。",
+    "meaning": "His proposal lacked reasoning."
+  },
+  {
+    "sentence": "この箇条書きのファイルは非常に便利です。",
+    "sentence_furigana": "この箇条書【かじょうが】きのファイルは非常【ひじょう】に便利【べんり】です。",
+    "meaning": "This bulleted file is very convenient."
+  },
+  {
+    "sentence": "その箇条書きの項目を追加しました。",
+    "sentence_furigana": "その箇条書【かじょうが】きの項目【こうもく】を追加【ついか】しました。",
+    "meaning": "I added the items in the bulleted list."
+  },
+  {
+    "sentence": "彼は法律の第一条を引用して弁論した。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の第一条【だいいちじょう】を引用【いんよう】して弁論【べんろん】した。",
+    "meaning": "He argued by quoting the first article of the law."
+  },
+  {
+    "sentence": "この生地には細かい条（線）が入っている。",
+    "sentence_furigana": "この生地【きじ】には細【ほそ】かい条【すじ】（線【せん】）が入【はい】っている。",
+    "meaning": "This fabric has fine streaks (lines)."
+  },
+  {
+    "sentence": "彼は条約の改正案について説明した。",
+    "sentence_furigana": "彼【かれ】は条約【じょうやく】の改正案【かいせいあん】について説明【せつめい】した。",
+    "meaning": "He explained the amendment proposal for the treaty."
+  },
+  {
+    "sentence": "その条令は地域住民の権利を保護している。",
+    "sentence_furigana": "その条令【じょうれい】は地域住民【ちいきじゅうみん】の権利【けんり】を保護【ほご】している。",
+    "meaning": "The regulation protects the rights of local residents."
+  },
+  {
+    "sentence": "彼は契約書に署名する前に、全ての条項を読んだ。",
+    "sentence_furigana": "彼【かれ】は契約書【けいやくしょ】に署名【しょめい】する前【まえ】に、全【すべ】ての条項【じょうこう】を読【よ】んだ。",
+    "meaning": "He read all the clauses before signing the contract."
+  },
+  {
+    "sentence": "この規則の第十四条を確認する必要があります。",
+    "sentence_furigana": "この規則【きそく】の第十四条【だいじゅうよじょう】を確認【かくにん】する必要があります。",
+    "meaning": "We need to check Article 14 of these rules."
+  },
+  {
+    "sentence": "彼女の顔には喜びの筋が走った。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】には喜【よろこ】びの筋【すじ】が走【はし】った。",
+    "meaning": "A streak of joy ran across her face."
+  },
+  {
+    "sentence": "この商品は一つずつ販売されます。",
+    "sentence_furigana": "この商品【しょうひん】は一つずつ販売【はんばい】されます。",
+    "meaning": "This product is sold one item at a time."
+  },
+  {
+    "sentence": "その判決にはいくつかの論理的な条項があった。",
+    "sentence_furigana": "その判決【はんけつ】にはいくつか論理的【ろんりてき】な条項【じょうこう】があった。",
+    "meaning": "There were several logical clauses in that judgment."
+  },
+  {
+    "sentence": "この服には細かい横縞がある。",
+    "sentence_furigana": "この服【ふく】には細【ほそ】かい横縞【よこじま】がある。",
+    "meaning": "This clothing has fine horizontal stripes."
+  },
+  {
+    "sentence": "彼は条約締結の経緯を説明した。",
+    "sentence_furigana": "彼【かれ】は条約締結【じょうやくテイけつ】の経緯【けいい】を説明【せつめい】した。",
+    "meaning": "He explained the circumstances of the treaty conclusion."
+  },
+  {
+    "sentence": "この法律の第５条は非常に重要です。",
+    "sentence_furigana": "この法律【ほうりつ】の第５条【だいごじょう】は非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "Article 5 of this law is very important."
+  },
+  {
+    "sentence": "彼女は箇条書きのメモを作成した。",
+    "sentence_furigana": "彼女【かのじょ】は箇条書【かじょうが】きのメモを作成【さくせい】した。",
+    "meaning": "She created a bulleted memo."
+  },
+  {
+    "sentence": "この条項に関するご質問はありますか？",
+    "sentence_furigana": "この条項【じょうこう】に関【かん】するご質問【しつもん】はありますか？",
+    "meaning": "Do you have any questions regarding this clause?"
+  },
+  {
+    "sentence": "その絵のキャンバスには、かすかな金の筋が見えた。",
+    "sentence_furigana": "その絵【え】のキャンバスには、かすかな金【きん】の筋【すじ】が見【み】えた。",
+    "meaning": "Faint golden streaks were visible on the painting's canvas."
+  },
+  {
+    "sentence": "彼の提案は筋が通っている。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は筋【すじ】が通【とお】っている。",
+    "meaning": "His proposal makes sense."
+  },
+  {
+    "sentence": "この生地は縦に細い縞模様が入っている。",
+    "sentence_furigana": "この生地【きじ】は縦【たて】に細【ほそ】い縞模様【しまもよう】が入【はい】っている。",
+    "meaning": "This fabric has fine vertical stripes."
+  },
+  {
+    "sentence": "彼はその条約の第１条を引用した。",
+    "sentence_furigana": "彼【かれ】は条約【じょうやく】の第１条【だいいちじょう】を引用【いんよう】した。",
+    "meaning": "He quoted Article 1 of the treaty."
+  },
+  {
+    "sentence": "この箇条書きは分かりやすく書かれています。",
+    "sentence_furigana": "この箇条書【かじょうが】きは分【わ】かりやすく書【か】かれています。",
+    "meaning": "This bulleted list is written clearly."
+  },
+  {
+    "sentence": "彼は最新の条令を遵守することを約束した。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の条令【じょうれい】を遵守【じゅんしゅ】することを約束【やくそく】した。",
+    "meaning": "He promised to comply with the latest regulations."
+  },
+  {
+    "sentence": "この商品の条コードをスキャンしてください。",
+    "sentence_furigana": "この商品【しょうひん】の条コード【じょうこーど】をスキャンしてください。",
+    "meaning": "Please scan the barcode of this product."
+  },
+  {
+    "sentence": "彼女は条約の草案を精読した。",
+    "sentence_furigana": "彼女【かのじょ】は条約【じょうやく】の草案【そうあん】を精読【せいどく】した。",
+    "meaning": "She carefully read the draft of the treaty."
+  },
+  {
+    "sentence": "この法律には第１０条の規定がある。",
+    "sentence_furigana": "この法律【ほうりつ】には第１０条【だいじゅうじょう】の規定【きてい】がある。",
+    "meaning": "This law has provisions in Article 10."
+  },
+  {
+    "sentence": "彼は箇条書きで要点をまとめた。",
+    "sentence_furigana": "彼【かれ】は箇条書【かじょうが】きで要点【ようてん】をまとめた。",
+    "meaning": "He summarized the main points in a bulleted list."
+  },
+  {
+    "sentence": "この条項は多くの人に影響を与えるだろう。",
+    "sentence_furigana": "この条項【じょうこう】は多【おお】くの人【ひと】に影響【えいきょう】を与【あた】えるだろう。",
+    "meaning": "This clause will affect many people."
+  },
+  {
+    "sentence": "その馬の毛には白い筋があった。",
+    "sentence_furigana": "その馬【うま】の毛【け】には白【しろ】い筋【すじ】があった。",
+    "meaning": "There were white streaks in the horse's coat."
+  },
+  {
+    "sentence": "この生地の縞模様はとても美しい。",
+    "sentence_furigana": "この生地【きじ】の縞模様【しまもよう】はとても美【うつく】しい。",
+    "meaning": "The stripes on this fabric are very beautiful."
+  },
+  {
+    "sentence": "彼は新しい条約の交渉に参加した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい条約【じょうやく】の交渉【こうしょう】に参加【さんか】した。",
+    "meaning": "He participated in the negotiations for the new treaty."
+  },
+  {
+    "sentence": "この法案の第２条について議論が行われた。",
+    "sentence_furigana": "この法案【ほうあん】の第２条【だいニじょう】について議論【ぎろん】が行【おこな】われた。",
+    "meaning": "Discussion was held on Article 2 of this bill."
+  },
+  {
+    "sentence": "彼はこの箇条書きの項目をすべて確認した。",
+    "sentence_furigana": "彼【かれ】はこの箇条書【かじょうが】きの項目【こうもく】をすべて確認【かくにん】した。",
+    "meaning": "He checked all the items in this bulleted list."
+  },
+  {
+    "sentence": "この条約は両国間の関係を改善するだろう。",
+    "sentence_furigana": "この条約【じょうやく】は両国間【りょうこくかん】の関係【かんけい】を改善【かいぜん】するだろう。",
+    "meaning": "This treaty will improve relations between the two countries."
+  },
+  {
+    "sentence": "その条令は都市計画に関するものだ。",
+    "sentence_furigana": "その条令【じょうれい】は都市計画【としかしけい】に関する【かん】するものだ。",
+    "meaning": "The regulation concerns urban planning."
+  },
+  {
+    "sentence": "彼は法律の第７条を参照して説明を始めた。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の第７条【だいななじょう】を参照【さんしょう】して説明【せつめい】を始【はじ】めた。",
+    "meaning": "He started his explanation by referring to Article 7 of the law."
+  },
+  {
+    "sentence": "その箇条書きは簡潔にまとめられている。",
+    "sentence_furigana": "その箇条書【かじょうが】きは簡潔【かんけつ】にまと     められている。",
+    "meaning": "That bulleted list is summarized concisely."
+  },
+  {
+    "sentence": "彼は契約書の第1条から第5条までを読んだ。",
+    "sentence_furigana": "彼【かれ】は契約書【けいやくしょ】の第1条【だいいちじょう】から第5条【だいごじょう】までを読【よ】んだ。",
+    "meaning": "He read Articles 1 through 5 of the contract."
+  },
+  {
+    "sentence": "このセーターには細い横縞がある。",
+    "sentence_furigana": "このセーターには細【ほそ】い横縞【よこじま】がある。",
+    "meaning": "This sweater has fine horizontal stripes."
+  },
+  {
+    "sentence": "彼の顔には疲労の筋が見えた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には疲労【ひろう】の筋【すじ】が見【み】えた。",
+    "meaning": "Streaks of fatigue were visible on his face."
+  },
+  {
+    "sentence": "この箇条書きのリストは非常に役立つ。",
+    "sentence_furigana": "この箇条書【かじょうが】きのリストは非常【ひじょう】に役立【やくた】つ。",
+    "meaning": "This bulleted list is very helpful."
+  },
+  {
+    "sentence": "彼は法律の第11条について質問した。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の第11条【だいじゅういちじょう】について質問【しつもん】した。",
+    "meaning": "He asked about Article 11 of the law."
+  },
+  {
+    "sentence": "その条約は世界平和に貢献するだろう。",
+    "sentence_furigana": "その条約【じょうやく】は世界平和【せかいへいわ】に貢献【こうけん】するだろう。",
+    "meaning": "That treaty will contribute to world peace."
+  },
+  {
+    "sentence": "彼女は箇条書きで進捗状況を報告した。",
+    "sentence_furigana": "彼女【かのじょ】は箇条書【かじょうが】きで進捗状況【しんちょくじょうきょう】を報告【ほうこく】した。",
+    "meaning": "She reported the progress in a bulleted list."
+  },
+  {
+    "sentence": "この条項は今回の件には適用されない。",
+    "sentence_furigana": "この条項【じょうこう】は今回【こんかい】の件【けん】には適用【てきよう】されない。",
+    "meaning": "This clause does not apply to this matter."
+  },
+  {
+    "sentence": "その生地には微妙な縞模様がある。",
+    "sentence_furigana": "その生地【きじ】には微妙【びみょう】な縞模様【しまもよう】がある。",
+    "meaning": "There are subtle stripes on that fabric."
+  },
+  {
+    "sentence": "彼は会社の規則の第三条を確認した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の規則【きそく】の第三条【だいさんじょう】を確認【かくにん】した。",
+    "meaning": "He checked Article 3 of the company rules."
+  },
+  {
+    "sentence": "この箇条書きの項目を修正しました。",
+    "sentence_furigana": "この箇条書【かじょうが】きの項目【こうもく】を修正【しゅうせい】しました。",
+    "meaning": "I revised the items in this bulleted list."
+  },
+  {
+    "sentence": "この条約は国際社会に大きな影響を与えている。",
+    "sentence_furigana": "この条約【じょうやく】は国際社会【こくさいしゃかい】に大【おお】きな影響【えいきょう】を与【あた】えている。",
+    "meaning": "This treaty has a significant impact on the international community."
+  },
+  {
+    "sentence": "その条令は公共の安全を確保することを目的としている。",
+    "sentence_furigana": "その条令【じょうれい】は公共【こうきょう】の安全【あんぜん】を確保【かくほ】することを目的【もくてき】としている。",
+    "meaning": "The regulation aims to ensure public safety."
+  },
+  {
+    "sentence": "彼は提案の第１０条について説明した。",
+    "sentence_furigana": "彼【かれ】は提案【ていあん】の第１０条【だいじゅうじょう】について説明【せつめい】した。",
+    "meaning": "He explained Article 10 of the proposal."
+  },
+  {
+    "sentence": "彼女の古い着物には縦縞が一本あった。",
+    "sentence_furigana": "彼女【かのじょ】の古【ふる】い着物【きもの】には縦縞【たてじま】が一本【いっぽん】あった。",
+    "meaning": "Her old kimono had a single vertical stripe."
+  },
+  {
+    "sentence": "この法律の第十二条は特に重要視されている。",
+    "sentence_furigana": "この法律【ほうりつ】の第十二条【だいじゅうにじょう】は特【とく】に重要視【じゅうようし】されている。",
+    "meaning": "Article 12 of this law is considered particularly important."
+  },
+  {
+    "sentence": "その箇条書きのリストを印刷してください。",
+    "sentence_furigana": "その箇条書【かじょうが】きのリストを印刷【いんさつ】してください。",
+    "meaning": "Please print that bulleted list."
+  },
+  {
+    "sentence": "彼は契約書の各条項の履行を確認した。",
+    "sentence_furigana": "彼【かれ】は契約書【けいやくしょ】の各条項【かくじょうこう】の履行【りこう】を確認【かくにん】した。",
+    "meaning": "He confirmed the fulfillment of each clause of the contract."
+  },
+  {
+    "sentence": "この条約は相互理解を深めることを目指している。",
+    "sentence_furigana": "この条約【じょうやく】は相互理解【そうごりかい】を深【ふか】めることを目指【めざ】している。",
+    "meaning": "This treaty aims to deepen mutual understanding."
+  },
+  {
+    "sentence": "彼は法律の第3条を引用して、自分の意見を述べた。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の第3条【だいさんじょう】を引用【いんよう】して、自分【じぶん】の意見【いけん】を述【の】べた。",
+    "meaning": "He stated his opinion by quoting Article 3 of the law."
+  },
+  {
+    "sentence": "その箇条書きの項目には、重要な情報が含まれている。",
+    "sentence_furigana": "その箇条書【かじょうが】きの項目【こうもく】には、重要【じゅうよう】な情報【じょうほう】が含ま【ふく】まれている。",
+    "meaning": "Important information is included in the items of that bulleted list."
+  },
+  {
+    "sentence": "この生地には横に長い筋が見える。",
+    "sentence_furigana": "この生地【きじ】には横【よこ】に長【なが】い筋【すじ】が見【み】える。",
+    "meaning": "Long horizontal streaks are visible on this fabric."
+  },
+  {
+    "sentence": "彼は法案の第15条について質問した。",
+    "sentence_furigana": "彼【かれ】は法案【ほうあん】の第15条【だいじゅうごじょう】について質問【しつもん】した。",
+    "meaning": "He asked about Article 15 of the bill."
+  },
+  {
+    "sentence": "その条令は、特定の活動を規制している。",
+    "sentence_furigana": "その条令【じょうれい】は、特定【とくてい】の活動【かつどう】を規制【きせい】している。",
+    "meaning": "The regulation restricts specific activities."
+  },
+  {
+    "sentence": "彼は新しい契約書の条項を確認しています。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい契約書【けいやくしょ】の条項【じょうこう】を確認【かくにん】しています。",
+    "meaning": "He is checking the clauses of the new contract."
+  },
+  {
+    "sentence": "この箇条書きは、計画の概要を示している。",
+    "sentence_furigana": "この箇条書【かじょうが】きは、計画【けいかく】の概要【がいよう】を示【しめ】している。",
+    "meaning": "This bulleted list shows the outline of the plan."
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "中央公園は市の中心にあります。",
+    "sentence_furigana": "中央【ちゅうおう】公園【こうえん】は市【し】の中心的【ちゅうしん】にあります。",
+    "meaning": "The central park is in the center of the city."
+  },
+  {
+    "sentence": "会議は午後の真央に行われます。",
+    "sentence_furigana": "会議【かいぎ】は午後【ごご】の真央【まお】に行【おこな】われます。",
+    "meaning": "The meeting will be held in the afternoon."
+  },
+  {
+    "sentence": "その事件の中心人物が逮捕された。",
+    "sentence_furigana": "その事件【じけん】の中心人物【ちゅうしんじんぶつ】が逮捕【たいほ】された。",
+    "meaning": "The central figure in the incident was arrested."
+  },
+  {
+    "sentence": "彼は物事の中心を捉えるのが得意だ。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】の中心【ちゅうしん】を捉【とら】えるのが得意【とくい】だ。",
+    "meaning": "He is good at grasping the core of things."
+  },
+  {
+    "sentence": "その新しい建物は街の真央に位置している。",
+    "sentence_furigana": "その新【あたら】しい建物【たてもの】は街【まち】の真央【まお】に位置【いち】している。",
+    "meaning": "The new building is located in the middle of the town."
+  },
+  {
+    "sentence": "彼はいつも議論の中心にいる。",
+    "sentence_furigana": "彼【かれ】はいつも議論【ぎろん】の中心【ちゅうしん】にいる。",
+    "meaning": "He is always at the center of the discussion."
+  },
+  {
+    "sentence": "この絵画は空間の中央に飾られている。",
+    "sentence_furigana": "この絵画【かいが】は空間【くうかん】の中央【ちゅうおう】に飾【かざ】られている。",
+    "meaning": "This painting is displayed in the center of the space."
+  },
+  {
+    "sentence": "彼女はパーティーの中心的存在だった。",
+    "sentence_furigana": "彼女【かのじょ】はパーティーの中心的存在【ちゅうしんてきそんざい】だった。",
+    "meaning": "She was the center of attention at the party."
+  },
+  {
+    "sentence": "その音楽は曲の中央で転調する。",
+    "sentence_furigana": "その音楽【おんがく】は曲【きょく】の中央【ちゅうおう】で転調【てんちょう】する。",
+    "meaning": "The music changes key in the middle of the piece."
+  },
+  {
+    "sentence": "彼は常に物事の中央を狙っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】の中央【ちゅうおう】を狙【ねら】っている。",
+    "meaning": "He is always aiming for the center of things."
+  },
+  {
+    "sentence": "地図の中央に印をつけなさい。",
+    "sentence_furigana": "地図【ちず】の中央【ちゅうおう】に印【しるし】をつけなさい。",
+    "meaning": "Put a mark in the center of the map."
+  },
+  {
+    "sentence": "会議の中心的な議題について話し合った。",
+    "sentence_furigana": "会議【かいぎ】の中心的【ちゅうしんてき】な議題【ぎだい】について話【はな】し合【あ】った。",
+    "meaning": "We discussed the central agenda of the meeting."
+  },
+  {
+    "sentence": "その競技は円の中央で行われた。",
+    "sentence_furigana": "その競技【きょうぎ】は円【えん】の中央【ちゅうおう】で行【おこな】われた。",
+    "meaning": "The competition took place in the center of the circle."
+  },
+  {
+    "sentence": "彼はグループの中心人物として頼られている。",
+    "sentence_furigana": "彼【かれ】はグループの中心人物【ちゅうしんじんぶつ】として頼【たよ】られている。",
+    "meaning": "He is relied upon as the central figure of the group."
+  },
+  {
+    "sentence": "中央アジアは広大な地域です。",
+    "sentence_furigana": "中央アジア【ちゅうおうアジア】は広大【こうだい】な地域【ちいき】です。",
+    "meaning": "Central Asia is a vast region."
+  },
+  {
+    "sentence": "その計画の中心的なアイデアを説明してください。",
+    "sentence_furigana": "その計画【けいかく】の中心的【ちゅうしんてき】なアイデアを説明【せつめい】してください。",
+    "meaning": "Please explain the central idea of the plan."
+  },
+  {
+    "sentence": "彼はいつも話題の中心にいる。",
+    "sentence_furigana": "彼【かれ】はいつも話題【わだい】の中心【ちゅうしん】にいる。",
+    "meaning": "He is always at the center of attention."
+  },
+  {
+    "sentence": "彼女は劇の中心的な役割を担った。",
+    "sentence_furigana": "彼女【かのじょ】は劇【げき】の中心的【ちゅうしんてき】な役割【やくわり】を担【にな】った。",
+    "meaning": "She played the central role in the play."
+  },
+  {
+    "sentence": "その問題の中心には何があるのか？",
+    "sentence_furigana": "その問題【もんだい】の中心【ちゅうしん】には何【なに】があるのか？",
+    "meaning": "What lies at the heart of that problem?"
+  },
+  {
+    "sentence": "彼は常に集団の中心で輝いている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に集団【しゅうだん】の中心【ちゅうしん】で輝【かがや】いている。",
+    "meaning": "He always shines at the center of the group."
+  },
+  {
+    "sentence": "中央線は東京都心を走っている。",
+    "sentence_furigana": "中央線【ちゅうおうせん】は東京都心【とうきょうとしん】を走【はし】っている。",
+    "meaning": "The Chuo Line runs through the center of Tokyo."
+  },
+  {
+    "sentence": "その論文の中心的な主張は何か。",
+    "sentence_furigana": "その論文【ろんぶん】の中心的【ちゅうしんてき】な主張【しゅちょう】は何か【なにか】。",
+    "meaning": "What is the central thesis of the paper?"
+  },
+  {
+    "sentence": "彼は交渉の中心で糸を引いていた。",
+    "sentence_furigana": "彼【かれ】は交渉【こうしょう】の中心【ちゅうしん】で糸【いと】を引【ひ】いていた。",
+    "meaning": "He was pulling the strings at the center of the negotiations."
+  },
+  {
+    "sentence": "この地域の中央部には大きな川が流れている。",
+    "sentence_furigana": "この地域【ちいき】の中央部【ちゅうおうぶ】には大【おお】きな川【かわ】が流【なが】れている。",
+    "meaning": "A large river flows through the central part of this region."
+  },
+  {
+    "sentence": "彼はプロジェクトの成功の中心的な役割を果たした。",
+    "sentence_furigana": "彼【かれ】はプロジェクトの成功【せいこう】の中心的【ちゅうしんてき】な役割【やくわり】を果た【はた】した。",
+    "meaning": "He played a central role in the success of the project."
+  },
+  {
+    "sentence": "真央さんが今日の主役です。",
+    "sentence_furigana": "真央【まお】さんが今日【きょう】の主役【しゅやく】です。",
+    "meaning": "Mao is the star of today."
+  },
+  {
+    "sentence": "中央政府は新しい政策を発表した。",
+    "sentence_furigana": "中央政府【ちゅうおうせいふ】は新【あら】しい政策【せいさく】を発表【はっぴょう】した。",
+    "meaning": "The central government announced a new policy."
+  },
+  {
+    "sentence": "彼は組織の中核を担っている。",
+    "sentence_furigana": "彼【かれ】は組織【そしき】の中核【ちゅうかく】を担【にな】っている。",
+    "meaning": "He is in charge of the core of the organization."
+  },
+  {
+    "sentence": "この都市の中央広場は多くの人々で賑わっている。",
+    "sentence_furigana": "この都市【とし】の中央広場【ちゅうおうひろば】は多【おお】くの人々【ひとびと】で賑【にぎ】わっている。",
+    "meaning": "The central square of this city is bustling with many people."
+  },
+  {
+    "sentence": "彼は常に議論の中心にいようとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に議論【ぎろん】の中心【ちゅうしん】にいようとする。",
+    "meaning": "He always tries to be at the center of the discussion."
+  },
+  {
+    "sentence": "この地域の中心的な産業は何ですか？",
+    "sentence_furigana": "この地域【ちいき】の中心的【ちゅうしんてき】な産業【さんぎょう】は何【なに】ですか？",
+    "meaning": "What is the main industry of this region?"
+  },
+  {
+    "sentence": "彼女は会議の中央で発言した。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の中央【ちゅうおう】で発言【はつげん】した。",
+    "meaning": "She spoke in the middle of the meeting."
+  },
+  {
+    "sentence": "彼は常に注目の中央にいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に注目【ちゅうもく】の中心【ちゅうしん】にいる。",
+    "meaning": "He is always the center of attention."
+  },
+  {
+    "sentence": "中央アフリカは多様な文化を持つ地域です。",
+    "sentence_furigana": "中央アフリカ【ちゅうおうアフリカ】は多様【たよう】な文化【ぶんか】を持【も】つ地域【ちいき】です。",
+    "meaning": "Central Africa is a region with diverse cultures."
+  },
+  {
+    "sentence": "この本は物語の中心人物を描いている。",
+    "sentence_furigana": "この本【ほん】は物語【ものがたり】の中心人物【ちゅうしんじんぶつ】を描【えが】いている。",
+    "meaning": "This book depicts the central character of the story."
+  },
+  {
+    "sentence": "彼はチームの中心選手として活躍している。",
+    "sentence_furigana": "彼【かれ】はチームの中心選手【ちゅうしんせんしゅ】として活躍【かつやく】している。",
+    "meaning": "He is active as a key player for the team."
+  },
+  {
+    "sentence": "その出来事の中心には、彼の行動があった。",
+    "sentence_furigana": "その出来事【できごと】の中心【ちゅうしん】には、彼【かれ】の行動【こうどう】があった。",
+    "meaning": "His actions were at the center of that event."
+  },
+  {
+    "sentence": "中央ヨーロッパの歴史は複雑だ。",
+    "sentence_furigana": "中央ヨーロッパ【ちゅうおうヨーロッパ】の歴史【れきし】は複雑【ふくざつ】だ。",
+    "meaning": "The history of Central Europe is complex."
+  },
+  {
+    "sentence": "彼女はプロジェクトの中核を担う人材だ。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトの中核【ちゅうかく】を担【にな】う人材【じんざい】だ。",
+    "meaning": "She is a person who plays a core role in the project."
+  },
+  {
+    "sentence": "円の中央に点を打ちなさい。",
+    "sentence_furigana": "円【えん】の中央【ちゅうおう】に点【てん】を打【う】ちなさい。",
+    "meaning": "Make a dot in the center of the circle."
+  },
+  {
+    "sentence": "彼は常に家族の中心にいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に家族【かぞく】の中心【ちゅうしん】にいる。",
+    "meaning": "He is always the center of the family."
+  },
+  {
+    "sentence": "その都市の中心部は再開発が進んでいる。",
+    "sentence_furigana": "その都市【とし】の中心部【ちゅうしんぶ】は再開発【さいかいはつ】が進【すす】んでいる。",
+    "meaning": "Urban redevelopment is progressing in the central part of the city."
+  },
+  {
+    "sentence": "中央銀行は金融政策を決定する。",
+    "sentence_furigana": "中央銀行【ちゅうおうぎんこう】は金融政策【きんゆうせいさく】を決定【けってい】する。",
+    "meaning": "The central bank decides monetary policy."
+  },
+  {
+    "sentence": "彼は会話の中心を担っていた。",
+    "sentence_furigana": "彼【かれ】は会話【かいわ】の中心【ちゅうしん】を担【にな】っていた。",
+    "meaning": "He was at the center of the conversation."
+  },
+  {
+    "sentence": "この絵の中心に、静かな湖が描かれている。",
+    "sentence_furigana": "この絵【え】の中心【ちゅうしん】に、静【しず】かな湖【みずうみ】が描【か】かれている。",
+    "meaning": "A quiet lake is depicted in the center of this painting."
+  },
+  {
+    "sentence": "彼女は組織の中核をなす存在だ。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の中核【ちゅうかく】をなす存在【そんざい】だ。",
+    "meaning": "She is a core presence in the organization."
+  },
+  {
+    "sentence": "中央構造線は日本の主要な断層です。",
+    "sentence_furigana": "中央構造線【ちゅうおうこうぞうせん】は日本【にほん】の主要【しゅよう】な断層【だんそう】です。",
+    "meaning": "The Median Tectonic Line is a major fault in Japan."
+  },
+  {
+    "sentence": "彼は常に討論の中心に立っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に討論【とうろん】の中心【ちゅうしん】に立【た】っている。",
+    "meaning": "He is always at the center of the debate."
+  },
+  {
+    "sentence": "その事件の中心人物が公判に出廷した。",
+    "sentence_furigana": "その事件【じけん】の中心人物【ちゅうしんじんぶつ】が公判【こうはん】に出廷【しゅってい】した。",
+    "meaning": "The central figure of the incident appeared in court."
+  },
+  {
+    "sentence": "中央アフリカ共和国は内陸国です。",
+    "sentence_furigana": "中央アフリカ共和国【ちゅうおうアフリカきょうわこく】は内陸国【ないりくこく】です。",
+    "meaning": "The Central African Republic is a landlocked country."
+  },
+  {
+    "sentence": "彼女は活動の中心となって皆をまとめた。",
+    "sentence_furigana": "彼女【かのじょ】は活動【かつどう】の中心【ちゅうしん】となって皆【みな】をまとめた。",
+    "meaning": "She became the center of activities and brought everyone together."
+  },
+  {
+    "sentence": "この公園の中央には噴水があります。",
+    "sentence_furigana": "この公園【こうえん】の中央【ちゅうおう】には噴水【ふんすい】があります。",
+    "meaning": "There is a fountain in the center of this park."
+  },
+  {
+    "sentence": "彼は常に会話の中心にいる人気者だ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に会話【かいわ】の中心【ちゅうしん】にいる人気者【にんきもの】だ。",
+    "meaning": "He is a popular person who is always at the center of conversations."
+  },
+  {
+    "sentence": "中央アジアの遊牧民は伝統的な生活を送っている。",
+    "sentence_furigana": "中央アジア【ちゅうおうアジア】の遊牧民【ゆうぼくみん】は伝統的【でんとうてき】な生活【せいかつ】を送【おく】っている。",
+    "meaning": "Nomads in Central Asia live traditional lives."
+  },
+  {
+    "sentence": "その絵の中央に描かれた花が印象的だ。",
+    "sentence_furigana": "その絵【え】の中央【ちゅうおう】に描【か】かれた花【はな】が印象的【いんしょうてき】だ。",
+    "meaning": "The flower drawn in the center of the painting is impressive."
+  },
+  {
+    "sentence": "彼は改革の中心人物として期待されている。",
+    "sentence_furigana": "彼【かれ】は改革【かいかく】の中心人物【ちゅうしんじんぶつ】として期待【きたい】されている。",
+    "meaning": "He is expected to be a central figure in the reform."
+  },
+  {
+    "sentence": "中央公論は日本の有名な月刊誌です。",
+    "sentence_furigana": "中央公論【ちゅうおうこうろん】は日本【にほん】の有名【ゆうめい】な月刊誌【げっかんし】です。",
+    "meaning": "Chuo Koron is a famous monthly magazine in Japan."
+  },
+  {
+    "sentence": "彼はチームの中心としてチームを引っ張っている。",
+    "sentence_furigana": "彼【かれ】はチームの中心【ちゅうしん】としてチームを引【ひ】っ張【ぱ】っている。",
+    "meaning": "He is pulling the team along as its center."
+  },
+  {
+    "sentence": "その都市の中央駅は非常に大きい。",
+    "sentence_furigana": "その都市【とし】の中央駅【ちゅうおうえき】は非常【ひじょう】に大【おお】きい。",
+    "meaning": "The central station of that city is very large."
+  },
+  {
+    "sentence": "彼女は家族の中心的な存在です。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の中心的【ちゅうしんてき】な存在【そんざい】です。",
+    "meaning": "She is a central figure in the family."
+  },
+  {
+    "sentence": "中央アジアの気候は大陸性気候が多い。",
+    "sentence_furigana": "中央アジア【ちゅうおうアジア】の気候【きこう】は大陸性気候【たいりくせいきこう】が多【おお】い。",
+    "meaning": "The climate of Central Asia is often continental."
+  },
+  {
+    "sentence": "その事件の中心にあるのは誤解だ。",
+    "sentence_furigana": "その事件【じけん】の中心【ちゅうしん】にあるのは誤解【ごかい】だ。",
+    "meaning": "Misunderstanding is at the heart of that incident."
+  },
+  {
+    "sentence": "彼は議論の中心で堂々と話した。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】の中心【ちゅうしん】で堂々【どうどう】と話【はな】した。",
+    "meaning": "He spoke confidently at the center of the discussion."
+  },
+  {
+    "sentence": "中央大学は東京都内にキャンパスがあります。",
+    "sentence_furigana": "中央大学【ちゅうおうだいがく】は東京都内【とうきょうとない】にキャンパスがあります。",
+    "meaning": "Chuo University has campuses within Tokyo."
+  },
+  {
+    "sentence": "その物語の中心的なテーマは愛です。",
+    "sentence_furigana": "その物語【ものがたり】の中心的【ちゅうしんてき】なテーマは愛【あい】です。",
+    "meaning": "The central theme of that story is love."
+  },
+  {
+    "sentence": "彼女は人々の注目の中央に立った。",
+    "sentence_furigana": "彼女【かのじょ】は人々【ひとびと】の注目【ちゅうもく】の中央【ちゅうおう】に立【た】った。",
+    "meaning": "She stood at the center of people's attention."
+  },
+  {
+    "sentence": "中央銀行の決定が市場に影響を与えた。",
+    "sentence_furigana": "中央銀行【ちゅうおうぎんこう】の決定【けってい】が市場【しじょう】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "The central bank's decision affected the market."
+  },
+  {
+    "sentence": "彼は常に会社の中心人物として頼りにされている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に会社【かいしゃ】の中心人物【ちゅうしんじんぶつ】として頼【たよ】りにされている。",
+    "meaning": "He is always relied upon as a central figure in the company."
+  },
+  {
+    "sentence": "この建物の中心部はがらんとしている。",
+    "sentence_furigana": "この建物【たてもの】の中心部【ちゅうしんぶ】はがらんとしている。",
+    "meaning": "The central part of this building is vacant."
+  },
+  {
+    "sentence": "彼は常にプロジェクトの中心にいなければならない。",
+    "sentence_furigana": "彼【かれ】は常【つね】にプロジェクトの中心【ちゅうしん】にいなければならない。",
+    "meaning": "He must always be at the center of the project."
+  },
+  {
+    "sentence": "中央アフリカの野生動物は豊富だ。",
+    "sentence_furigana": "中央アフリカ【ちゅうおうアフリカ】の野生動物【やせいどうぶつ】は豊富【ほうふ】だ。",
+    "meaning": "The wildlife of Central Africa is abundant."
+  },
+  {
+    "sentence": "その会議の中心的な役割を彼女が担った。",
+    "sentence_furigana": "その会議【かいぎ】の中心的【ちゅうしんてき】な役割【やくわり】を彼女【かのじょ】が担【にな】った。",
+    "meaning": "She took on the central role of that meeting."
+  },
+  {
+    "sentence": "彼は常に群衆の中心で目を引く。",
+    "sentence_furigana": "彼【かれ】は常【つね】に群衆【ぐんしゅう】の中心【ちゅうしん】で目【め】を引【ひ】く。",
+    "meaning": "He always stands out in the center of the crowd."
+  },
+  {
+    "sentence": "中央ヨーロッパの国々は歴史的に繋がっている。",
+    "sentence_furigana": "中央ヨーロッパ【ちゅうおうヨーロッパ】の国々【くにぐに】は歴史的【れきしてき】に繋【つな】がっている。",
+    "meaning": "The countries of Central Europe are historically connected."
+  },
+  {
+    "sentence": "その議論の中心にいるのは彼だ。",
+    "sentence_furigana": "その議論【ぎろん】の中心【ちゅうしん】にいるのは彼【かれ】だ。",
+    "meaning": "He is at the center of that discussion."
+  },
+  {
+    "sentence": "中央大学の卒業生は様々な分野で活躍しています。",
+    "sentence_furigana": "中央大学【ちゅうおうだいがく】の卒業生【そつぎょうせい】は様々【さまざま】な分野【ぶんや】で活躍【かつやく】しています。",
+    "meaning": "Graduates of Chuo University are active in various fields."
+  },
+  {
+    "sentence": "彼の言葉は会議の中心的な意味を持っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は会議【かいぎ】の中心的【ちゅうしんてき】な意味【いみ】を持【も】っていた。",
+    "meaning": "His words held central importance for the meeting."
+  },
+  {
+    "sentence": "彼女は常に家族の中心として支えている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に家族【かぞく】の中心【ちゅうしん】として支【ささ】えている。",
+    "meaning": "She always supports the family as its center."
+  },
+  {
+    "sentence": "中央アフリカには多くの民族が住んでいる。",
+    "sentence_furigana": "中央アフリカ【ちゅうおうアフリカ】には多【おお】くの民族【みんぞく】が住【す】んでいる。",
+    "meaning": "Many ethnic groups live in Central Africa."
+  },
+  {
+    "sentence": "そのイベントの中心は舞台でした。",
+    "sentence_furigana": "そのイベント【イベント】の中心【ちゅうしん】は舞台【ぶたい】でした。",
+    "meaning": "The center of the event was the stage."
+  },
+  {
+    "sentence": "彼は常に学問の中心を探求している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に学問【がくもん】の中心【ちゅうしん】を探求【たんきゅう】している。",
+    "meaning": "He is always exploring the core of learning."
+  },
+  {
+    "sentence": "中央自動車道は日本の主要な高速道路です。",
+    "sentence_furigana": "中央自動車道【ちゅうおうじどうしゃどう】は日本【にほん】の主要【しゅよう】な高速道路【こうそくどうろ】です。",
+    "meaning": "The Chuo Expressway is a major highway in Japan."
+  },
+  {
+    "sentence": "その組織の中心人物が辞任した。",
+    "sentence_furigana": "その組織【そしき】の中心人物【ちゅうしんじんぶつ】が辞任【じにん】した。",
+    "meaning": "The central figure of that organization resigned."
+  },
+  {
+    "sentence": "彼女はいつも会話の中心にいるように話す。",
+    "sentence_furigana": "彼女【かのじょ】はいつも会話【かいわ】の中心【ちゅうしん】にいるように話【はな】す。",
+    "meaning": "She always speaks as if she is at the center of the conversation."
+  },
+  {
+    "sentence": "この地域の中央広場は待ち合わせ場所になっている。",
+    "sentence_furigana": "この地域【ちいき】の中央広場【ちゅうおうひろば】は待合合場所【まちあわせばしょ】になっている。",
+    "meaning": "The central square of this area is a meeting place."
+  },
+  {
+    "sentence": "彼は常に文化の中心で活躍している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に文化【ぶんか】の中心【ちゅうしん】で活躍【かつやく】している。",
+    "meaning": "He is always active at the center of culture."
+  },
+  {
+    "sentence": "中央アジアの砂漠地帯は非常に乾燥している。",
+    "sentence_furigana": "中央アジア【ちゅうおうアジア】の砂漠地帯【さばくちたい】は非常【ひじょう】に乾燥【かんそう】している。",
+    "meaning": "The desert regions of Central Asia are very dry."
+  },
+  {
+    "sentence": "その論文の中心的な貢献は新しい発見にある。",
+    "sentence_furigana": "その論文【ろんぶん】の中心的【ちゅうしんてき】な貢献【こうけん】は新【あら】しい発見【はっけん】にある。",
+    "meaning": "The central contribution of that paper lies in the new discovery."
+  },
+  {
+    "sentence": "彼女はプロジェクトの中心人物としてチームを率いた。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトの中心人物【ちゅうしんじんぶつ】としてチームを率【ひき】いた。",
+    "meaning": "She led the team as the central figure of the project."
+  },
+  {
+    "sentence": "中央アフリカの自然は豊かだ。",
+    "sentence_furigana": "中央アフリカ【ちゅうおうアフリカ】の自然【しぜん】は豊【ゆた】かだ。",
+    "meaning": "The nature of Central Africa is rich."
+  },
+  {
+    "sentence": "この絵の中心に何が見える？",
+    "sentence_furigana": "この絵【え】の中心【ちゅうしん】に何【なに】が見【み】える？",
+    "meaning": "What do you see in the center of this painting?"
+  },
+  {
+    "sentence": "彼は常に物事の中心を理解しようとしている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に物事【ものごと】の中心【ちゅうしん】を理解【りかい】しようとしている。",
+    "meaning": "He is always trying to understand the core of things."
+  },
+  {
+    "sentence": "中央ヨーロッパの森林は美しい。",
+    "sentence_furigana": "中央ヨーロッパ【ちゅうおうヨーロッパ】の森林【しんりん】は美【うつく】しい。",
+    "meaning": "The forests of Central Europe are beautiful."
+  },
+  {
+    "sentence": "その事件の中心には、複雑な人間関係があった。",
+    "sentence_furigana": "その事件【じけん】の中心【ちゅうしん】には、複雑【ふくざつ】な人間関係【にんげんかんけい】があった。",
+    "meaning": "Complex human relationships were at the heart of that incident."
+  },
+  {
+    "sentence": "彼女は常に社会の中心で活動している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に社会【しゃかい】の中心【ちゅうしん】で活動【かつどう】している。",
+    "meaning": "She is always active at the center of society."
+  },
+  {
+    "sentence": "中央線沿線には多くの大学がある。",
+    "sentence_furigana": "中央線沿線【ちゅうおうせんえんせん】には多【おお】くの大学【だいがく】がある。",
+    "meaning": "There are many universities along the Chuo Line."
+  },
+  {
+    "sentence": "この歌の中心的なメッセージは平和です。",
+    "sentence_furigana": "この歌【うた】の中心的【ちゅうしんてき】なメッセージは平和【へいわ】です。",
+    "meaning": "The central message of this song is peace."
+  },
+  {
+    "sentence": "彼は常に問題の中心にいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に問題【もんだい】の中心【ちゅうしん】にいる。",
+    "meaning": "He is always at the center of the problem."
+  },
+  {
+    "sentence": "中央大学の学園祭は有名です。",
+    "sentence_furigana": "中央大学【ちゅうおうだいがく】の学園祭【がくえんさい】は有名【ゆうめい】です。",
+    "meaning": "Chuo University's school festival is famous."
+  },
+  {
+    "sentence": "彼女は会議の中心で発言を求めた。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の中心【ちゅうしん】で発言【はつげん】を求【もと】めた。",
+    "meaning": "She requested to speak at the center of the meeting."
+  },
+  {
+    "sentence": "中央銀行は経済の安定に努めている。",
+    "sentence_furigana": "中央銀行【ちゅうおうぎんこう】は経済【けいざい】の安定【あんてい】に努【つと】めている。",
+    "meaning": "The central bank strives for economic stability."
+  },
+  {
+    "sentence": "その事件の中心人物が記者会見を行った。",
+    "sentence_furigana": "その事件【じけん】の中心人物【ちゅうしんじんぶつ】が記者会見【きしゃかいけん】を行【おこな】った。",
+    "meaning": "The central figure of the incident held a press conference."
+  },
+  {
+    "sentence": "彼は常に議論の中心で活発に意見を交換する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に議論【ぎろん】の中心【ちゅうしん】で活発【かっぱつ】に意見【いけん】を交換【こうかん】する。",
+    "meaning": "He always actively exchanges opinions at the center of discussions."
+  },
+  {
+    "sentence": "中央アジアの文化は多様性に富んでいる。",
+    "sentence_furigana": "中央アジア【ちゅうおうアジア】の文化【ぶんか】は多様性【たようせい】に富【と】んでいる。",
+    "meaning": "The culture of Central Asia is rich in diversity."
+  },
+  {
+    "sentence": "彼女は組織の中央で重要な役割を果たしている。",
+    "sentence_furigana": "彼女【かのじょ】は組織【そしき】の中央【ちゅうおう】で重要【じゅうよう】な役割【やくわり】を果た【はた】している。",
+    "meaning": "She plays an important role at the center of the organization."
+  }
+]

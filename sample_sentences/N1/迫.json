@@ -1,0 +1,577 @@
+[
+  {
+    "sentence": "締め切りが迫っているので、急いでレポートを完成させなければならない。",
+    "sentence_furigana": "締【し】め切【き】り【が】迫【せま】っているので、急【いそ】いでレポートを完成【かんせい】させなければならない。",
+    "meaning": "As the deadline is approaching, I must hurry to complete the report."
+  },
+  {
+    "sentence": "彼の言葉は私を追い詰めるように迫ってきた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】を追【お】い詰【つ】めるように迫【せま】ってきた。",
+    "meaning": "His words seemed to corner me, forcing me."
+  },
+  {
+    "sentence": "迫り来る危機に私たちは団結しなければならない。",
+    "sentence_furigana": "迫【せま】り来【く】る危機【きき】に私【わたし】たち【は】団結【だんけつ】しなければならない。",
+    "meaning": "We must unite against the imminent crisis."
+  },
+  {
+    "sentence": "その政治家は国民に改革を迫る演説を行った。",
+    "sentence_furigana": "その政治家【せいじか】は国民【こくみん】に改革【かいかく】を迫【せま】る演説【えんぜつ】を行【おこな】った。",
+    "meaning": "The politician gave a speech urging the people to reform."
+  },
+  {
+    "sentence": "緊迫した状況の中、冷静さを保つことが重要だ。",
+    "sentence_furigana": "緊迫【きんぱく】した状況【じょうきょう】の中【なか】、冷静【れいせい】さを保【たも】つことが重要【じゅうよう】だ。",
+    "meaning": "In a tense situation, it is important to remain calm."
+  },
+  {
+    "sentence": "子供たちは遊びに夢中になり、親の呼び声を迫っても聞こうとしなかった。",
+    "sentence_furigana": "子供【こども】たち【は】遊【あそ】びに夢中【むちゅう】になり、親【おや】の呼【よ】び声【ごえ】を迫【せま】っても聞【き】こうとしなかった。",
+    "meaning": "The children were absorbed in their play and did not heed their parents' calls."
+  },
+  {
+    "sentence": "時間が迫っているのに、彼はまだ準備ができていない。",
+    "sentence_furigana": "時間【じかん】が迫【せま】っているのに、彼【かれ】はまだ準備【じゅんび】ができていない。",
+    "meaning": "Time is running out, but he is still not ready."
+  },
+  {
+    "sentence": "警察は容疑者に自白を迫った。",
+    "sentence_furigana": "警察【けいさつ】は容疑者【ようぎしゃ】に自白【じはく】を迫【せま】った。",
+    "meaning": "The police pressed the suspect for a confession."
+  },
+  {
+    "sentence": "その事故は予期せず突然に迫ってきた。",
+    "sentence_furigana": "その事故【じこ】は予期【よき】せず突然【とつぜん】に迫【せま】ってきた。",
+    "meaning": "The accident approached suddenly and unexpectedly."
+  },
+  {
+    "sentence": "激しい雨が街を迫るように降り始めた。",
+    "sentence_furigana": "激【はげ】しい雨【あめ】が街【まち】を迫【せま】るように降【ふ】り始【はじ】めた。",
+    "meaning": "Heavy rain began to fall, as if pressing down on the city."
+  },
+  {
+    "sentence": "彼は経済的な困難に迫られ、仕事を辞めざるを得なかった。",
+    "sentence_furigana": "彼【かれ】は経済的【けいざいてき】な困難【こんなん】に迫【せま】られ、仕事【しごと】を辞【や】めざるを得【え】なかった。",
+    "meaning": "Forced by financial difficulties, he had no choice but to quit his job."
+  },
+  {
+    "sentence": "暗闇が徐々に彼らを迫ってきた。",
+    "sentence_furigana": "暗闇【くらやみ】が徐々【じょじょ】に彼【かれ】らを迫【せま】ってきた。",
+    "meaning": "Darkness gradually closed in on them."
+  },
+  {
+    "sentence": "迫られた選択肢は少なく、彼は最善を尽くすしかなかった。",
+    "sentence_furigana": "迫【せま】られた選択肢【せんたくし】は少【すく】なく、彼【かれ】は最善【さいぜん】を尽【つ】くすしかなかった。",
+    "meaning": "The options presented were few, and he could only do his best."
+  },
+  {
+    "sentence": "未来への希望が彼を突き迫った。",
+    "sentence_furigana": "未来【みらい】への希望【きぼう】が彼【かれ】を突【つ】き迫【せま】った。",
+    "meaning": "Hope for the future spurred him on."
+  },
+  {
+    "sentence": "敵は包囲網を狭め、退路を迫ってきた。",
+    "sentence_furigana": "敵【てき】は包囲網【ほういもう】を狭【せま】め、退路【たいろ】を迫【せま】ってきた。",
+    "meaning": "The enemy tightened the encirclement, forcing them into a corner."
+  },
+  {
+    "sentence": "緊急の事態が状況を緊迫させた。",
+    "sentence_furigana": "緊急【きんきゅう】の事態【じたい】が状況【じょうきょう】を緊迫【きんぱく】させた。",
+    "meaning": "The emergency situation created a tense atmosphere."
+  },
+  {
+    "sentence": "彼の熱意は、チームメンバーにも同様の努力を迫った。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は、チームメンバーにも同様【どうよう】の努力【どりょく】を迫【せま】った。",
+    "meaning": "His enthusiasm spurred the team members to similar efforts."
+  },
+  {
+    "sentence": "迫り来る嵐に、人々は避難を急いだ。",
+    "sentence_furigana": "迫【せま】り来【く】る嵐【あらし】に、人々【ひとびと】は避難【ひなん】を急【いそ】いだ。",
+    "meaning": "As the storm approached, people hurried to evacuate."
+  },
+  {
+    "sentence": "その弁論は聴衆の心を深く迫った。",
+    "sentence_furigana": "その弁論【べんろん】は聴衆【ちょうしゅう】の心【こころ】を深【ふか】く迫【せま】った。",
+    "meaning": "The speech deeply moved the audience."
+  },
+  {
+    "sentence": "彼は最終通告を迫られ、苦渋の決断を下した。",
+    "sentence_furigana": "彼【かれ】は最終通告【さいしゅうつうこく】を迫【せま】られ、苦渋【くじゅう】の決断【けつだん】を下【くだ】した。",
+    "meaning": "He was forced to give an ultimatum and made a difficult decision."
+  },
+  {
+    "sentence": "夜が迫り、静寂が辺りを包み込んだ。",
+    "sentence_furigana": "夜【よる】が迫【せま】り、静寂【せいじゃく】が辺【あた】りを包【つつ】み込【こ】んだ。",
+    "meaning": "Night approached, and silence enveloped the surroundings."
+  },
+  {
+    "sentence": "追い詰められた状況で、彼は最後の力を振り絞った。",
+    "sentence_furigana": "追【お】い詰【つ】められた状況【じょうきょう】で、彼【かれ】は最後【さいご】の力【ちから】を振【ふ】り絞【しぼ】った。",
+    "meaning": "In a cornered situation, he mustered his last strength."
+  },
+  {
+    "sentence": "状況は日に日に緊迫の度を増していた。",
+    "sentence_furigana": "状況【じょうきょう】は日【ひ】に日【ひ】に緊迫【きんぱく】の度【ど】を増【ま】していた。",
+    "meaning": "The situation became more tense with each passing day."
+  },
+  {
+    "sentence": "彼は不正を正すよう強く迫った。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】を正【ただ】すよう強【つよ】く迫【せま】った。",
+    "meaning": "He strongly urged for the correction of the injustice."
+  },
+  {
+    "sentence": "運命の時が迫り来るのを感じた。",
+    "sentence_furigana": "運命【うんめい】の時【とき】が迫【せま】り来【く】るのを感じた【かんじた】。",
+    "meaning": "He felt the moment of fate approaching."
+  },
+  {
+    "sentence": "その悲劇は人々の心に深い影を迫った。",
+    "sentence_furigana": "その悲劇【ひげき】は人々【ひとびと】の心【こころ】に深【ふか】い影【かげ】を迫【せま】った。",
+    "meaning": "The tragedy cast a deep shadow on people's hearts."
+  },
+  {
+    "sentence": "時間との戦いが彼を駆り立てた。",
+    "sentence_furigana": "時間【じかん】との戦【たたか】いが彼【かれ】を駆【か】り立【た】てた。",
+    "meaning": "The race against time spurred him on."
+  },
+  {
+    "sentence": "政治的な圧力は、企業に決断を迫った。",
+    "sentence_furigana": "政治的【せいじてき】な圧力【あつりょく】は、企業【きぎょう】に決断【けつだん】を迫【せま】った。",
+    "meaning": "Political pressure forced the company to make a decision."
+  },
+  {
+    "sentence": "彼は理想の実現のために、自分自身を追い詰めた。",
+    "sentence_furigana": "彼【かれ】は理想【りそう】の実現【じつげん】のために、自分自身【じぶんじしん】を追【お】い詰【つ】めた。",
+    "meaning": "He pushed himself to the limit for the realization of his ideals."
+  },
+  {
+    "sentence": "迫る危険に備えて、避難訓練が行われた。",
+    "sentence_furigana": "迫【せま】る危険【きけん】に備【そな】えて、避難訓練【ひなんくんれん】が行【おこな】われた。",
+    "meaning": "Evacuation drills were conducted in preparation for the approaching danger."
+  },
+  {
+    "sentence": "彼女の励ましが、彼の挑戦を後押しした。",
+    "sentence_furigana": "彼女【かのじょ】の励【はげ】ましが、彼【かれ】の挑戦【ちょうせん】を後押【あとお】しした。",
+    "meaning": "Her encouragement spurred him on to take on the challenge."
+  },
+  {
+    "sentence": "その知らせは、私に大きな衝撃を迫った。",
+    "sentence_furigana": "その知【し】らせは、私【わたし】に大【おお】きな衝撃【しょうげき】を迫【せま】った。",
+    "meaning": "That news struck me with great impact."
+  },
+  {
+    "sentence": "夜明けが迫る中、彼は最後のメッセージを送った。",
+    "sentence_furigana": "夜明【よあ】けが迫【せま】る中【なか】、彼【かれ】は最後【さいご】のメッセージを送【おく】った。",
+    "meaning": "As dawn approached, he sent his final message."
+  },
+  {
+    "sentence": "彼の鋭い指摘は、会議の参加者たちをうならせた。",
+    "sentence_furigana": "彼【かれ】の鋭【するど】い指摘【してき】は、会議【かいぎ】の参加者【さんかしゃ】たちをうならせた。",
+    "meaning": "His sharp points forced the meeting participants to acknowledge."
+  },
+  {
+    "sentence": "炎が迫りくる中、彼は必死で人々を避難させた。",
+    "sentence_furigana": "炎【ほのお】が迫【せま】りくる中【なか】、彼【かれ】は必死【ひっし】で人々【ひとびと】を避難【ひなん】させた。",
+    "meaning": "As the flames approached, he desperately evacuated people."
+  },
+  {
+    "sentence": "国民の不満は、政府に政策変更を迫った。",
+    "sentence_furigana": "国民【こくみん】の不満【ふまん】は、政府【せいふ】に政策変更【せいさくへんこう】を迫【せま】った。",
+    "meaning": "Public dissatisfaction forced the government to change its policies."
+  },
+  {
+    "sentence": "時間は刻々と迫っていた。",
+    "sentence_furigana": "時間【じかん】は刻々【こっこく】と迫【せま】っていた。",
+    "meaning": "Time was pressing relentlessly."
+  },
+  {
+    "sentence": "その事件は社会に大きな衝撃を与え、改革を迫る形となった。",
+    "sentence_furigana": "その事件【じけん】は社会【しゃかい】に大【おお】きな衝撃【しょうげき】を与【あた】え、改革【かいかく】を迫【せま】る形【かたち】となった。",
+    "meaning": "The incident caused a great shock to society, forcing reforms."
+  },
+  {
+    "sentence": "彼は目標達成のために、自分を追い詰めるタイプだ。",
+    "sentence_furigana": "彼【かれ】は目標達成【もくひょうたっせい】のために、自分【じぶん】を追【お】い詰【つ】めるタイプだ。",
+    "meaning": "He is the type of person who pushes himself to achieve his goals."
+  },
+  {
+    "sentence": "夜の帳がゆっくりと世界を迫ってきた。",
+    "sentence_furigana": "夜【よる】の帳【とばり】がゆっくりと世界【せかい】を迫【せま】ってきた。",
+    "meaning": "The veil of night slowly closed in on the world."
+  },
+  {
+    "sentence": "緊迫した空気の中、誰もが息をのんだ。",
+    "sentence_furigana": "緊迫【きんぱく】した空気【くうき】の中【なか】、誰【だれ】もが息【いき】をのんだ。",
+    "meaning": "In the tense atmosphere, everyone held their breath."
+  },
+  {
+    "sentence": "彼は逆境に立ち向かうよう自分を励ました。",
+    "sentence_furigana": "彼【かれ】は逆境【ぎゃっきょう】に立【た】ち向【む】かうよう自分【じぶん】を励【はげ】ました。",
+    "meaning": "He spurred himself on to face adversity."
+  },
+  {
+    "sentence": "その知らせは、彼の心を不安にさせ、焦りを迫った。",
+    "sentence_furigana": "その知【し】らせは、彼【かれ】の心【こころ】を不安【ふあん】にさせ、焦【あせ】りを迫【せま】った。",
+    "meaning": "The news made him anxious and pressed him with impatience."
+  },
+  {
+    "sentence": "締め切りが迫る中、彼は集中力を高めた。",
+    "sentence_furigana": "締【し】め切【き】りが迫【せま】る中【なか】、彼【かれ】は集中力【しゅうちゅうりょく】を高【たか】めた。",
+    "meaning": "With the deadline approaching, he increased his concentration."
+  },
+  {
+    "sentence": "迫りくる脅威に対し、国は警戒を強めた。",
+    "sentence_furigana": "迫【せま】り来【く】る脅威【きょうい】に対し【たいし】、国【くに】は警戒【けいかい】を強【つよ】めた。",
+    "meaning": "In the face of the approaching threat, the country strengthened its vigilance."
+  },
+  {
+    "sentence": "彼の要求は、我々に断固たる行動を迫るものだった。",
+    "sentence_furigana": "彼【かれ】の要求【ようきゅう】は、我々【われわれ】に断固【だんこ】たる行動【こうどう】を迫【せま】るものだった。",
+    "meaning": "His demands compelled us to take firm action."
+  },
+  {
+    "sentence": "時間は有限であり、選択を迫られる。",
+    "sentence_furigana": "時間【じかん】は有限【ゆうげん】であり、選択【せんたく】を迫【せま】られる。",
+    "meaning": "Time is limited, and we are forced to make choices."
+  },
+  {
+    "sentence": "その激しい圧力は、彼に妥協を強いた。",
+    "sentence_furigana": "その激【はげ】しい圧力【あつりょく】は、彼【かれ】に妥協【だきょう】を強【し】いた。",
+    "meaning": "That intense pressure forced him to compromise."
+  },
+  {
+    "sentence": "夜の闇が迫ってくるのを感じながら、彼は歩き続けた。",
+    "sentence_furigana": "夜【よる】の闇【やみ】が迫【せま】ってくるのを感じながら【かんじながら】、彼【かれ】は歩【ある】き続【つづ】けた。",
+    "meaning": "Feeling the night darkness approaching, he kept walking."
+  },
+  {
+    "sentence": "新しい挑戦が彼を駆り立てた。",
+    "sentence_furigana": "新【あたら】しい挑戦【ちょうせん】が彼【かれ】を駆【か】り立【た】てた。",
+    "meaning": "A new challenge spurred him on."
+  },
+  {
+    "sentence": "彼は困難な状況を打開するために、あらゆる手を尽くした。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】を打開【だかい】するために、あらゆる手【て】を尽【つ】くした。",
+    "meaning": "He did everything he could to overcome the difficult situation."
+  },
+  {
+    "sentence": "迫る危機に際し、彼は冷静な判断を下した。",
+    "sentence_furigana": "迫【せま】る危機【きき】に際【さい】し、彼【かれ】は冷静【れいせい】な判断【はんだん】を下【くだ】した。",
+    "meaning": "In the face of the approaching crisis, he made a calm judgment."
+  },
+  {
+    "sentence": "そのニュースは人々に希望を抱かせ、未来への期待を迫った。",
+    "sentence_furigana": "そのニュースは人々【ひとびと】に希望【きぼう】を抱【いだ】かせ、未来【みらい】への期待【きたい】を迫【せま】った。",
+    "meaning": "The news gave people hope and pressed them to look forward to the future."
+  },
+  {
+    "sentence": "時は刻々と過ぎ、最後の瞬間が迫っていた。",
+    "sentence_furigana": "時【とき】は刻々【こっこく】と過【す】ぎ、最後【さいご】の瞬間【しゅんかん】が迫【せま】っていた。",
+    "meaning": "Time passed moment by moment, and the final moment was approaching."
+  },
+  {
+    "sentence": "彼の熱意は、聴衆の心を強く揺さぶった。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は、聴衆【ちょうしゅう】の心【こころ】を強【つよ】く揺【ゆ】さぶった。",
+    "meaning": "His passion strongly stirred the audience's hearts."
+  },
+  {
+    "sentence": "迫り来る敵に対して、彼は勇敢に立ち向かった。",
+    "sentence_furigana": "迫【せま】り来【く】る敵【てき】に対【たい】し、彼【かれ】は勇敢【ゆうかん】に立【た】ち向【む】かった。",
+    "meaning": "He bravely confronted the approaching enemy."
+  },
+  {
+    "sentence": "緊迫した状況下で、彼は冷静さを失わなかった。",
+    "sentence_furigana": "緊迫【きんぱく】した状況下【じょうきょうか】で、彼【かれ】は冷静【れいせい】さを失【うしな】わなかった。",
+    "meaning": "Under the tense circumstances, he did not lose his composure."
+  },
+  {
+    "sentence": "彼は自身の限界を押し広げようとした。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の限界【げんかい】を押【お】し広【ひろ】げようとした。",
+    "meaning": "He tried to push his own limits."
+  },
+  {
+    "sentence": "その状況は彼に厳しい選択を迫った。",
+    "sentence_furigana": "その状況【じょうきょう】は彼【かれ】に厳【きび】しい選択【せんたく】を迫【せま】った。",
+    "meaning": "That situation forced him into a difficult choice."
+  },
+  {
+    "sentence": "夜が更け、静寂が辺りを支配した。",
+    "sentence_furigana": "夜【よる】が更【ふ】け、静寂【せいじゃく】が辺【あた】りを支配【しはい】した。",
+    "meaning": "As the night deepened, silence dominated the surroundings."
+  },
+  {
+    "sentence": "彼は目標達成のため、自分を鼓舞した。",
+    "sentence_furigana": "彼【かれ】は目標達成【もくひょうたっせい】のため、自分【じぶん】を鼓舞【こぶ】した。",
+    "meaning": "He spurred himself on to achieve his goal."
+  },
+  {
+    "sentence": "迫る締め切りに、彼は徹夜で作業した。",
+    "sentence_furigana": "迫【せま】る締【し】め切【き】りに、彼【かれ】は徹夜【てつや】で作業【さぎょう】した。",
+    "meaning": "Facing the approaching deadline, he worked through the night."
+  },
+  {
+    "sentence": "その知らせは会議室の空気を一変させた。",
+    "sentence_furigana": "その知【し】らせは会議室【かいぎしつ】の空気【くうき】を一変【いっぺん】させた。",
+    "meaning": "The news dramatically changed the atmosphere in the conference room."
+  },
+  {
+    "sentence": "彼は自分自身をより一層努力するように追い込んだ。",
+    "sentence_furigana": "彼【かれ】は自分自身【じぶんじしん】をより一層【いっそう】努力【どりょく】するように追【お】い込【こ】んだ。",
+    "meaning": "He drove himself to work even harder."
+  },
+  {
+    "sentence": "迫る決断の時、彼は落ち着いていた。",
+    "sentence_furigana": "迫【せま】る決断【けつだん】の時【とき】、彼【かれ】は落【お】ち着【つ】いていた。",
+    "meaning": "At the time of the impending decision, he was calm."
+  },
+  {
+    "sentence": "その悲劇は人々に深い悲しみを抱かせた。",
+    "sentence_furigana": "その悲劇【ひげき】は人々に【ひとびとに】深【ふか】い悲【かな】しみを抱【いだ】かせた。",
+    "meaning": "The tragedy made people feel deep sorrow."
+  },
+  {
+    "sentence": "時は容赦なく過ぎ、彼は焦燥感に駆られた。",
+    "sentence_furigana": "時【とき】は容赦【ようしゃ】なく過【す】ぎ、彼【かれ】は焦燥感【しょうそうかん】に駆【か】られた。",
+    "meaning": "Time passed unforgivingly, and he was driven by impatience."
+  },
+  {
+    "sentence": "迫りくる障害を乗り越えるために、彼は決意を固めた。",
+    "sentence_furigana": "迫【せま】り来【く】る障害【しょうがい】を乗【の】り越【こ】えるために、彼【かれ】は決意【けつい】を固【かた】めた。",
+    "meaning": "To overcome the approaching obstacles, he solidified his determination."
+  },
+  {
+    "sentence": "彼の言葉は、私たちに即座の行動を促した。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、私たち【わたしたち】に即座【そくざ】の行動【こうどう】を促【うな】がした。",
+    "meaning": "His words prompted us to take immediate action."
+  },
+  {
+    "sentence": "迫る時間との戦いの中で、彼は力を振り絞った。",
+    "sentence_furigana": "迫【せま】る時間【じかん】との戦【たたか】いの中【なか】で、彼【かれ】は力【ちから】を振【ふ】り絞【しぼ】った。",
+    "meaning": "In the race against time, he exerted all his strength."
+  },
+  {
+    "sentence": "その事件は社会に大きな波紋を広げ、改革を求める声を高めた。",
+    "sentence_furigana": "その事件【じけん】は社会【しゃかい】に大【おお】きな波紋【はもん】を広【ひろ】げ、改革【かいかく】を求【もと】める声【こえ】を高【たか】めた。",
+    "meaning": "The incident caused a great stir in society, raising calls for reform."
+  },
+  {
+    "sentence": "彼は自分を追い込み、限界を超えようとした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】を追【お】い込【こ】み、限界【げんかい】を超【こ】えようとした。",
+    "meaning": "He pushed himself to exceed his limits."
+  },
+  {
+    "sentence": "迫る夜明けを待ちながら、彼は希望を抱き続けた。",
+    "sentence_furigana": "迫【せま】る夜明【よあ】けを待【ま】ちながら、彼【かれ】は希望【きぼう】を抱【いだ】き続【つづ】けた。",
+    "meaning": "Waiting for the approaching dawn, he continued to hold onto hope."
+  },
+  {
+    "sentence": "緊迫した空気は、張り詰めた静けさをもたらした。",
+    "sentence_furigana": "緊迫【きんぱく】した空気【くうき】は、張【は】り詰【つ】めた静【しず】けさをもたらした。",
+    "meaning": "The tense atmosphere brought a strained silence."
+  },
+  {
+    "sentence": "彼は自身の限界に挑戦することをやめなかった。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の限界【げんかい】に挑戦【ちょうせん】することをやめなかった。",
+    "meaning": "He did not stop challenging his own limits."
+  },
+  {
+    "sentence": "その知らせは、私の心をさらに追い詰めた。",
+    "sentence_furigana": "その知【し】らせは、私【わたし】の心【こころ】をさらに追【お】い詰【つ】めた。",
+    "meaning": "That news further cornered my mind."
+  },
+  {
+    "sentence": "迫り来る困難に立ち向かう決意を固めた。",
+    "sentence_furigana": "迫【せま】り来【く】る困難【こんなん】に立【た】ち向【む】かう決意【けつい】を固【かた】めた。",
+    "meaning": "He resolved to face the approaching difficulties."
+  },
+  {
+    "sentence": "彼の言葉は、私たちをより良い方向へと導いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、私たち【わたしたち】をより良【よ】い方向【ほうこう】へと導【みちび】いた。",
+    "meaning": "His words guided us in a better direction."
+  },
+  {
+    "sentence": "時間は待ってくれず、彼は急がなければならなかった。",
+    "sentence_furigana": "時間【じかん】は待【ま】ってくれず、彼【かれ】は急【いそ】がなければならなかった。",
+    "meaning": "Time did not wait, and he had to hurry."
+  },
+  {
+    "sentence": "緊迫した状況下でも、彼は冷静沈着だった。",
+    "sentence_furigana": "緊迫【きんぱく】した状況下【じょうきょうか】でも、彼【かれ】は冷静沈着【れいせいちんちゃく】だった。",
+    "meaning": "Even in the tense situation, he remained calm and collected."
+  },
+  {
+    "sentence": "迫る夕暮れの中、彼は家路を急いだ。",
+    "sentence_furigana": "迫【せま】る夕暮【ゆうぐ】れの中【なか】、彼【かれ】は家路【いえじ】を急【いそ】いだ。",
+    "meaning": "As dusk approached, he hurried home."
+  },
+  {
+    "sentence": "その出来事は社会に大きな影響を与え、変化を促した。",
+    "sentence_furigana": "その出来事【できごと】は社会【しゃかい】に大【おお】きな影響【えいきょう】を与【あた】え、変化【へんか】を促【うな】がした。",
+    "meaning": "The event had a significant impact on society and prompted change."
+  },
+  {
+    "sentence": "彼は自分を追い込み、目標を達成した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】を追【お】い込【こ】み、目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He pushed himself and achieved his goal."
+  },
+  {
+    "sentence": "夜の帳が降り、静けさが都市を包んだ。",
+    "sentence_furigana": "夜【よる】の帳【とばり】が降【お】り、静【しず】けさが都市【とし】を包【つつ】んだ。",
+    "meaning": "The veil of night fell, and silence enveloped the city."
+  },
+  {
+    "sentence": "迫る危機を前に、彼は冷静に対処した。",
+    "sentence_furigana": "迫【せま】る危機【きき】を前【まえ】に、彼【かれ】は冷静【れいせい】に対処【たいしょ】した。",
+    "meaning": "Faced with the approaching crisis, he dealt with it calmly."
+  },
+  {
+    "sentence": "彼の情熱は、周りの人々の心にも火をつけた。",
+    "sentence_furigana": "彼【かれ】の情熱【じょうねつ】は、周【まわ】りの人々【ひとびと】の心【こころ】にも火【ひ】をつけた。",
+    "meaning": "His passion ignited the hearts of those around him."
+  },
+  {
+    "sentence": "時間は残酷なほど早く過ぎ去る。",
+    "sentence_furigana": "時間【じかん】は残酷【ざんこく】なほど早【はや】く過【す】ぎ去【さ】る。",
+    "meaning": "Time passes cruelly fast."
+  },
+  {
+    "sentence": "迫りくる現実から目を背けることはできない。",
+    "sentence_furigana": "迫【せま】り来【く】る現実【げんじつ】から目【め】を背【そむ】けることはできない。",
+    "meaning": "We cannot turn away from the approaching reality."
+  },
+  {
+    "sentence": "彼は強い意志で自分を鼓舞し続けた。",
+    "sentence_furigana": "彼【かれ】は強【つよ】い意志【いし】で自分【じぶん】を鼓舞【こぶ】し続【つづ】けた。",
+    "meaning": "He continued to spur himself on with a strong will."
+  },
+  {
+    "sentence": "その要求は、私たちに即座の対応を迫った。",
+    "sentence_furigana": "その要求【ようきゅう】は、私たち【わたしたち】に即座【そくざ】の対応【たいおう】を迫【せま】った。",
+    "meaning": "The demand forced us to respond immediately."
+  },
+  {
+    "sentence": "緊迫した状況下での彼の行動は、賞賛に値した。",
+    "sentence_furigana": "緊迫【きんぱく】した状況下【じょうきょうか】での彼【かれ】の行動【こうどう】は、賞賛【しょうさん】に値【あたい】した。",
+    "meaning": "His actions in the tense situation were praiseworthy."
+  },
+  {
+    "sentence": "迫る夜の訪れに、彼は家路を急いだ。",
+    "sentence_furigana": "迫【せま】る夜【よる】の訪【おとず】れに、彼【かれ】は家路【いえじ】を急【いそ】いだ。",
+    "meaning": "As night approached, he hurried home."
+  },
+  {
+    "sentence": "その決定は、企業に大きな変革を迫るものだった。",
+    "sentence_furigana": "その決定【けってい】は、企業【きぎょう】に大【おお】きな変革【へんかく】を迫【せま】るものだった。",
+    "meaning": "That decision forced significant changes upon the company."
+  },
+  {
+    "sentence": "彼は自身を追い込み、新たな可能性を切り開いた。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】を追【お】い込【こ】み、新【あら】たな可能性【かのうせい】を切【き】り開【ひら】いた。",
+    "meaning": "He pushed himself and opened up new possibilities."
+  },
+  {
+    "sentence": "時は流れるように過ぎ、あっという間に夜になった。",
+    "sentence_furigana": "時【とき】は流【なが】れるように過【す】ぎ、あっという間【ま】に夜【よる】になった。",
+    "meaning": "Time flowed by like a stream, and it was night before we knew it."
+  },
+  {
+    "sentence": "迫る決戦に備え、兵士たちは士気を高めた。",
+    "sentence_furigana": "迫【せま】る決戦【けっせん】に備【そな】え、兵士【へいし】たち【は】士気【しき】を高【たか】めた。",
+    "meaning": "In preparation for the approaching decisive battle, the soldiers boosted their morale."
+  },
+  {
+    "sentence": "彼の強い信念は、私たちに同じ道を選ぶよう促した。",
+    "sentence_furigana": "彼【かれ】の強【つよ】い信念【しんねん】は、私たち【わたしたち】に同【おな】じ道【みち】を選【え】ぶよう促【うな】がした。",
+    "meaning": "His strong conviction urged us to choose the same path."
+  },
+  {
+    "sentence": "迫りくる困難な状況に、彼はどう立ち向かうべきか考えていた。",
+    "sentence_furigana": "迫【せま】り来【く】る困難【こんなん】な状況【じょうきょう】に、彼【かれ】はどう立【た】ち向【む】かうべきか考【かんが】えていた。",
+    "meaning": "He was thinking about how to confront the approaching difficult situation."
+  },
+  {
+    "sentence": "時間は刻々と過ぎ去り、猶予はほとんどなかった。",
+    "sentence_furigana": "時間【じかん】は刻々【こっこく】と過【す】ぎ去【さ】り、猶予【ゆうよ】はほとんどなかった。",
+    "meaning": "Time was passing moment by moment, and there was almost no room for delay."
+  },
+  {
+    "sentence": "その出来事は社会に大きな転換を迫るものとなった。",
+    "sentence_furigana": "その出来事【できごと】は社会【しゃかい】に大【おお】きな転換【てんかん】を迫【せま】るものとなった。",
+    "meaning": "That event forced a major turning point upon society."
+  },
+  {
+    "sentence": "彼は自分自身を追い込み、最高のパフォーマンスを発揮した。",
+    "sentence_furigana": "彼【かれ】は自分自身【じぶんじしん】を追【お】い込【こ】み、最高【さいこう】のパフォーマンスを発揮【はっき】した。",
+    "meaning": "He pushed himself to perform at his best."
+  },
+  {
+    "sentence": "迫る夕闇の中、彼は一人で歩いていた。",
+    "sentence_furigana": "迫【せま】る夕闇【ゆうやみ】の中【なか】、彼【かれ】は一人【ひとり】で歩【ある】いていた。",
+    "meaning": "In the approaching twilight, he was walking alone."
+  },
+  {
+    "sentence": "その知らせは、会議室の雰囲気を一変させた。",
+    "sentence_furigana": "その知【し】らせは、会議室【かいぎしつ】の雰囲気【ふんいき】を一変【いっぺん】させた。",
+    "meaning": "The news completely changed the atmosphere in the conference room."
+  },
+  {
+    "sentence": "彼は自身の限界に挑戦し、不可能を可能にした。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の限界【げんかい】に挑戦【ちょうせん】し、不可能【ふかのう】を可能【かのう】にした。",
+    "meaning": "He challenged his own limits and made the impossible possible."
+  },
+  {
+    "sentence": "迫る時限に、彼は最後の力を振り絞った。",
+    "sentence_furigana": "迫【せま】る時限【じげん】に、彼【かれ】は最後【さいご】の力【ちから】を振【ふ】り絞【しぼ】った。",
+    "meaning": "Facing the approaching deadline, he exerted his last strength."
+  },
+  {
+    "sentence": "彼の熱意は、周りの人々を巻き込んでいった。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は、周【まわ】りの人々【ひとびと】を巻【ま】き込【こ】んでいった。",
+    "meaning": "His enthusiasm drew in the people around him."
+  },
+  {
+    "sentence": "その状況は彼に迅速な行動を迫った。",
+    "sentence_furigana": "その状況【じょうきょう】は彼【かれ】に迅速【じんそく】な行動【こうどう】を迫【せま】った。",
+    "meaning": "The situation forced him to take swift action."
+  },
+  {
+    "sentence": "時間は容赦なく過ぎ去り、彼は焦りを感じた。",
+    "sentence_furigana": "時間【じかん】は容赦【ようしゃ】なく過【す】ぎ去【さ】り、彼【かれ】は焦【あせ】りを感じた【かんじた】。",
+    "meaning": "Time passed unforgivingly, and he felt impatient."
+  },
+  {
+    "sentence": "迫り来る困難に立ち向かうため、彼は決意を新たにした。",
+    "sentence_furigana": "迫【せま】り来【く】る困難【こんなん】に立【た】ち向【む】かうため、彼【かれ】は決意【けつい】を新た【あら】にした。",
+    "meaning": "To confront the approaching difficulties, he renewed his determination."
+  },
+  {
+    "sentence": "彼の言葉は、私たちに深い感動を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は、私たち【わたしたち】に深【ふか】い感動【かんどう】を与【あた】えた。",
+    "meaning": "His words gave us deep emotion."
+  },
+  {
+    "sentence": "迫る朝を前に、彼は最後の仕事を終えた。",
+    "sentence_furigana": "迫【せま】る朝【あさ】を前【まえ】に、彼【かれ】は最後【さいご】の仕事【しごと】を終【お】えた。",
+    "meaning": "Facing the approaching morning, he finished his last task."
+  },
+  {
+    "sentence": "緊迫した状況下でも、彼は決して諦めなかった。",
+    "sentence_furigana": "緊迫【きんぱく】した状況下【じょうきょうか】でも、彼【かれ】は決【けっ】して諦【あきら】めなかった。",
+    "meaning": "Even in the tense situation, he never gave up."
+  },
+  {
+    "sentence": "その知らせは、彼に大きな衝撃を与えた。",
+    "sentence_furigana": "その知【し】らせは、彼【かれ】に大【おお】きな衝撃【しょうげき】を与【あた】えた。",
+    "meaning": "The news gave him a great shock."
+  },
+  {
+    "sentence": "迫り来る脅威を前に、彼は最善を尽くした。",
+    "sentence_furigana": "迫【せま】り来【く】る脅威【きょうい】を前【まえ】に、彼【かれ】は最善【さいぜん】を尽【つ】くした。",
+    "meaning": "Faced with the approaching threat, he did his best."
+  },
+  {
+    "sentence": "彼の決断は、事態をより緊迫させた。",
+    "sentence_furigana": "彼【かれ】の決断【けつだん】は、事態【じたい】をより緊迫【きんぱく】させた。",
+    "meaning": "His decision made the situation more tense."
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "夕日が美しい。",
+    "sentence_furigana": "夕日【ゆうひ】が美【うつく】しい。",
+    "meaning": "The evening sun is beautiful."
+  },
+  {
+    "sentence": "夕食は何ですか。",
+    "sentence_furigana": "夕食【ゆうしょく】は何【なん】ですか。",
+    "meaning": "What is for dinner?"
+  },
+  {
+    "sentence": "夕暮れ時がきれいだ。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】がきれいだ。",
+    "meaning": "The twilight time is beautiful."
+  },
+  {
+    "sentence": "明日の夕方、会議があります。",
+    "sentence_furigana": "明日【あす】の夕方【ゆうがた】、会議【かいぎ】があります。",
+    "meaning": "There is a meeting tomorrow evening."
+  },
+  {
+    "sentence": "夕刊を取りに行った。",
+    "sentence_furigana": "夕刊【ゆうかん】を取【と】りに行【い】った。",
+    "meaning": "I went to get the evening paper."
+  },
+  {
+    "sentence": "夕べは早く寝ました。",
+    "sentence_furigana": "夕べ【ゆうべ】は早【はや】く寝【ね】ました。",
+    "meaning": "I went to bed early last night."
+  },
+  {
+    "sentence": "夕焼け空が素晴らしい。",
+    "sentence_furigana": "夕焼【ゆうや】け空【ぞら】が素晴【すば】らしい。",
+    "meaning": "The sunset sky is wonderful."
+  },
+  {
+    "sentence": "夕食の準備をしています。",
+    "sentence_furigana": "夕食【ゆうしょく】の準備【じゅんび】をしています。",
+    "meaning": "I am preparing dinner."
+  },
+  {
+    "sentence": "夕べのニュースを見ましたか。",
+    "sentence_furigana": "夕べ【ゆうべ】のニュースを見【み】ましたか。",
+    "meaning": "Did you watch last night's news?"
+  },
+  {
+    "sentence": "この辺りは夕方になると静かになる。",
+    "sentence_furigana": "この辺【あた】りは夕方【ゆうがた】になると静【しず】かになる。",
+    "meaning": "This area becomes quiet in the evening."
+  },
+  {
+    "sentence": "夕焼けが海に映っている。",
+    "sentence_furigana": "夕焼【ゆうや】けが海【うみ】に映【うつ】っている。",
+    "meaning": "The sunset is reflected on the sea."
+  },
+  {
+    "sentence": "夕食の時間です。",
+    "sentence_furigana": "夕食【ゆうしょく】の時間【じかん】です。",
+    "meaning": "It is time for dinner."
+  },
+  {
+    "sentence": "夕刊を購読している。",
+    "sentence_furigana": "夕刊【ゆうかん】を購読【こうどく】している。",
+    "meaning": "I subscribe to the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時が近づいている。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】が近【ちか】づいている。",
+    "meaning": "Twilight is approaching."
+  },
+  {
+    "sentence": "夕べは友人と食事をした。",
+    "sentence_furigana": "夕べ【ゆうべ】は友人【ゆうじん】と食事【しょくじ】をした。",
+    "meaning": "I had a meal with a friend last night."
+  },
+  {
+    "sentence": "夕焼けがきれいに見える。",
+    "sentence_furigana": "夕焼【ゆうや】けがきれいに見【み】える。",
+    "meaning": "The sunset looks beautiful."
+  },
+  {
+    "sentence": "夕食後、散歩に出かけた。",
+    "sentence_furigana": "夕食【ゆうしょく】後【ご】、散歩【さんぽ】に出【で】かけた。",
+    "meaning": "I went for a walk after dinner."
+  },
+  {
+    "sentence": "夕刊はまだ来ていない。",
+    "sentence_furigana": "夕刊【ゆうかん】はまだ来【き】ていない。",
+    "meaning": "The evening paper has not arrived yet."
+  },
+  {
+    "sentence": "夕暮れ時になると寂しくなる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】になると寂【さび】しくなる。",
+    "meaning": "I feel lonely when evening comes."
+  },
+  {
+    "sentence": "夕べの出来事を話します。",
+    "sentence_furigana": "夕べ【ゆうべ】の出来事【できごと】を話【はな】します。",
+    "meaning": "I will talk about last night's events."
+  },
+  {
+    "sentence": "夕焼けが空を染めている。",
+    "sentence_furigana": "夕焼【ゆうや】けが空【そら】を染【そ】めている。",
+    "meaning": "The sunset is dyeing the sky."
+  },
+  {
+    "sentence": "夕食の支度ができました。",
+    "sentence_furigana": "夕食【ゆうしょく】の支度【したく】ができました。",
+    "meaning": "Dinner is ready."
+  },
+  {
+    "sentence": "夕刊を買うのを忘れた。",
+    "sentence_furigana": "夕刊【ゆうかん】を買【か】うのを忘【わす】れた。",
+    "meaning": "I forgot to buy the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には鳥が巣に戻る。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には鳥【とり】が巣【す】に戻【もど】る。",
+    "meaning": "Birds return to their nests at dusk."
+  },
+  {
+    "sentence": "夕べは星がきれいに見えた。",
+    "sentence_furigana": "夕べ【ゆうべ】は星【ほし】がきれいに見【み】えた。",
+    "meaning": "The stars were beautiful last night."
+  },
+  {
+    "sentence": "夕焼けが山の端に消えた。",
+    "sentence_furigana": "夕焼【ゆうや】けが山【やま】の端【は】に消【き】えた。",
+    "meaning": "The sunset disappeared behind the mountains."
+  },
+  {
+    "sentence": "夕食に魚を食べた。",
+    "sentence_furigana": "夕食【ゆうしょく】に魚【さかな】を食べ【た】。",
+    "meaning": "I ate fish for dinner."
+  },
+  {
+    "sentence": "夕刊を読んでから寝る。",
+    "sentence_furigana": "夕刊【ゆうかん】を読【よ】んでから寝【ね】る。",
+    "meaning": "I will read the evening paper before sleeping."
+  },
+  {
+    "sentence": "夕暮れ時になると、灯りが灯る。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】になると、灯【あか】りが灯【とも】る。",
+    "meaning": "Lights come on at dusk."
+  },
+  {
+    "sentence": "夕べはラジオを聞いた。",
+    "sentence_furigana": "夕べ【ゆうべ】はラジオを聞【き】いた。",
+    "meaning": "I listened to the radio last night."
+  },
+  {
+    "sentence": "夕焼けが燃えるように赤かった。",
+    "sentence_furigana": "夕焼【ゆうや】けが燃【も】えるように赤【あか】かった。",
+    "meaning": "The sunset was burning red."
+  },
+  {
+    "sentence": "夕食はパスタにします。",
+    "sentence_furigana": "夕食【ゆうしょく】はパスタにします。",
+    "meaning": "We will have pasta for dinner."
+  },
+  {
+    "sentence": "夕刊に新しい記事が出た。",
+    "sentence_furigana": "夕刊【ゆうかん】に新【あたら】しい記事【きじ】が出【で】た。",
+    "meaning": "A new article appeared in the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には虫の声が聞こえる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には虫【むし】の声【こえ】が聞【き】こえる。",
+    "meaning": "You can hear insects at dusk."
+  },
+  {
+    "sentence": "夕べは少し寒かった。",
+    "sentence_furigana": "夕べ【ゆうべ】は少【すこ】し寒【さむ】かった。",
+    "meaning": "It was a little cold last night."
+  },
+  {
+    "sentence": "夕焼けが山の向こうに沈んだ。",
+    "sentence_furigana": "夕焼【ゆうや】けが山【やま】の向【む】こうに沈【しず】んだ。",
+    "meaning": "The sunset sank beyond the mountains."
+  },
+  {
+    "sentence": "夕食のデザートは何ですか。",
+    "sentence_furigana": "夕食【ゆうしょく】のデザートは何【なん】ですか。",
+    "meaning": "What is the dessert for dinner?"
+  },
+  {
+    "sentence": "夕刊はもう来た。",
+    "sentence_furigana": "夕刊【ゆうかん】はもう来【き】た。",
+    "meaning": "The evening paper has already arrived."
+  },
+  {
+    "sentence": "夕暮れ時には空の色が変わる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には空【そら】の色【いろ】が変わ【か】わる。",
+    "meaning": "The color of the sky changes at dusk."
+  },
+  {
+    "sentence": "夕べはぐっすり眠れた。",
+    "sentence_furigana": "夕べ【ゆうべ】はぐっすり眠【ねむ】れた。",
+    "meaning": "I slept soundly last night."
+  },
+  {
+    "sentence": "夕焼けが美しい瞬間。",
+    "sentence_furigana": "夕焼【ゆうや】けが美【うつく】しい瞬間【しゅんかん】。",
+    "meaning": "A beautiful moment of sunset."
+  },
+  {
+    "sentence": "夕食前に宿題を終わらせた。",
+    "sentence_furigana": "夕食【ゆうしょく】前【まえ】に宿題【しゅくだい】を終【お】わらせた。",
+    "meaning": "I finished my homework before dinner."
+  },
+  {
+    "sentence": "夕刊を新聞受けに入れた。",
+    "sentence_furigana": "夕刊【ゆうかん】を新聞受【しんぶんう】けに入【い】れた。",
+    "meaning": "I put the evening paper in the mailbox."
+  },
+  {
+    "sentence": "夕暮れ時には静寂が訪れる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には静寂【せいじゃく】が訪【おとず】れる。",
+    "meaning": "Silence arrives at dusk."
+  },
+  {
+    "sentence": "夕べは友人の家に遊びに行った。",
+    "sentence_furigana": "夕べ【ゆうべ】は友人【ゆうじん】の家【いえ】に遊【あそ】びに行【い】った。",
+    "meaning": "I went to my friend's house to play last night."
+  },
+  {
+    "sentence": "夕焼けが街を照らしていた。",
+    "sentence_furigana": "夕焼【ゆうや】けが街【まち】を照【て】らしていた。",
+    "meaning": "The sunset was illuminating the town."
+  },
+  {
+    "sentence": "夕食は何時ですか。",
+    "sentence_furigana": "夕食【ゆうしょく】は何時【なんじ】ですか。",
+    "meaning": "What time is dinner?"
+  },
+  {
+    "sentence": "夕刊を読むのが日課だ。",
+    "sentence_furigana": "夕刊【ゆうかん】を読む【よ】むのが日課【にっか】だ。",
+    "meaning": "Reading the evening paper is my daily routine."
+  },
+  {
+    "sentence": "夕暮れ時には犬の散歩をする。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には犬【いぬ】の散歩【さんぽ】をする。",
+    "meaning": "I walk the dog at dusk."
+  },
+  {
+    "sentence": "夕べは早く帰宅した。",
+    "sentence_furigana": "夕べ【ゆうべ】は早【はや】く帰宅【きたく】した。",
+    "meaning": "I returned home early last night."
+  },
+  {
+    "sentence": "夕焼けに染まる空。",
+    "sentence_furigana": "夕焼【ゆうや】けに染【そ】まる空【そら】。",
+    "meaning": "Sky dyed by the sunset."
+  },
+  {
+    "sentence": "夕食のメニューを決めましょう。",
+    "sentence_furigana": "夕食【ゆうしょく】のメニューを決【き】めましょう。",
+    "meaning": "Let's decide on the dinner menu."
+  },
+  {
+    "sentence": "夕刊に挟まっていたチラシ。",
+    "sentence_furigana": "夕刊【ゆうかん】に挟【はさ】まっていたチラシ。",
+    "meaning": "A flyer that was tucked into the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時になると、人々は家に帰る。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】になると、人々【ひとびと】は家【いえ】に帰【かえ】る。",
+    "meaning": "People go home at dusk."
+  },
+  {
+    "sentence": "夕べは家族と過ごした。",
+    "sentence_furigana": "夕べ【ゆうべ】は家族【かぞく】と過【す】ごした。",
+    "meaning": "I spent time with my family last night."
+  },
+  {
+    "sentence": "夕焼けを見ながら夕食を食べた。",
+    "sentence_furigana": "夕焼【ゆうや】けを見【み】ながら夕食【ゆうしょく】を食べ【た】。",
+    "meaning": "I ate dinner while watching the sunset."
+  },
+  {
+    "sentence": "夕食の準備はもういいですか。",
+    "sentence_furigana": "夕食【ゆうしょく】の準備【じゅんび】はもういいですか。",
+    "meaning": "Is the dinner preparation ready?"
+  },
+  {
+    "sentence": "夕刊に載っていた情報。",
+    "sentence_furigana": "夕刊【ゆうかん】に載【の】っていた情報【じょうほう】。",
+    "meaning": "Information that appeared in the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には静かな時間が流れる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には静【しず】かな時間【じかん】が流【なが】れる。",
+    "meaning": "Quiet time flows at dusk."
+  },
+  {
+    "sentence": "夕べは少し遅くまで起きていた。",
+    "sentence_furigana": "夕べ【ゆうべ】は少【すこ】し遅【おそ】くまで起【お】きていた。",
+    "meaning": "I stayed up a little late last night."
+  },
+  {
+    "sentence": "夕焼けが地平線に沈む。",
+    "sentence_furigana": "夕焼【ゆうや】けが地平線【ちへいせん】に沈【しず】む。",
+    "meaning": "The sunset sinks below the horizon."
+  },
+  {
+    "sentence": "夕食の献立を考える。",
+    "sentence_furigana": "夕食【ゆうしょく】の献立【こんだて】を考【かんが】える。",
+    "meaning": "I am thinking about the dinner menu."
+  },
+  {
+    "sentence": "夕刊に興味深い記事があった。",
+    "sentence_furigana": "夕刊【ゆうかん】に興味深【きょうみぶか】い記事【きじ】があった。",
+    "meaning": "There was an interesting article in the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には空気が澄んでくる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には空気【くうき】が澄【す】んでくる。",
+    "meaning": "The air becomes clear at dusk."
+  },
+  {
+    "sentence": "夕べは友人と映画を見た。",
+    "sentence_furigana": "夕べ【ゆうべ】は友人【ゆうじん】と映画【えいが】を見【み】た。",
+    "meaning": "I watched a movie with a friend last night."
+  },
+  {
+    "sentence": "夕焼け雲が広がっている。",
+    "sentence_furigana": "夕焼【ゆうや】け雲【ぐも】が広【ひろ】がっている。",
+    "meaning": "Sunset clouds are spreading."
+  },
+  {
+    "sentence": "夕食前に少し休憩する。",
+    "sentence_furigana": "夕食【ゆうしょく】前【まえ】に少【すこ】し休憩【きゅうけい】する。",
+    "meaning": "I will take a short break before dinner."
+  },
+  {
+    "sentence": "夕刊を読む時間はありますか。",
+    "sentence_furigana": "夕刊【ゆうかん】を読む【よ】む時間【じかん】はありますか。",
+    "meaning": "Do you have time to read the evening paper?"
+  },
+  {
+    "sentence": "夕暮れ時には虫たちが鳴き始める。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には虫【むし】たちが鳴【な】き始【はじ】める。",
+    "meaning": "Insects start to chirp at dusk."
+  },
+  {
+    "sentence": "夕べは久しぶりに故郷の歌を聴いた。",
+    "sentence_furigana": "夕べ【ゆうべ】は久し振【ひさしぶ】りに故郷【こきょう】の歌【うた】を聴【き】いた。",
+    "meaning": "Last night I listened to a song from my hometown for the first time in a while."
+  },
+  {
+    "sentence": "夕焼けが空を幻想的に染める。",
+    "sentence_furigana": "夕焼【ゆうや】けが空【そら】を幻想的【げんそうてき】に染【そ】める。",
+    "meaning": "The sunset colors the sky fantastically."
+  },
+  {
+    "sentence": "夕食の材料を買いに行く。",
+    "sentence_furigana": "夕食【ゆうしょく】の材料【ざいりょう】を買【か】いに行【い】く。",
+    "meaning": "I am going to buy ingredients for dinner."
+  },
+  {
+    "sentence": "夕刊に挟まっていた広告。",
+    "sentence_furigana": "夕刊【ゆうかん】に挟【はさ】まっていた広告【こうこく】。",
+    "meaning": "An advertisement that was tucked into the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には空が紫色になる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には空【そら】が紫【むらさき】色【いろ】になる。",
+    "meaning": "The sky turns purple at dusk."
+  },
+  {
+    "sentence": "夕べは疲れていたので早く寝た。",
+    "sentence_furigana": "夕べ【ゆうべ】は疲【つか】れていたので早【はや】く寝【ね】た。",
+    "meaning": "I was tired last night, so I went to bed early."
+  },
+  {
+    "sentence": "夕焼けが水平線に近づく。",
+    "sentence_furigana": "夕焼【ゆうや】けが水平線【すいへいせん】に近【ちか】づく。",
+    "meaning": "The sunset approaches the horizon."
+  },
+  {
+    "sentence": "夕食の片付けを手伝う。",
+    "sentence_furigana": "夕食【ゆうしょく】の片付【かたづ】けを手伝【てつだ】う。",
+    "meaning": "I will help clean up after dinner."
+  },
+  {
+    "sentence": "夕刊の配達が遅れている。",
+    "sentence_furigana": "夕刊【ゆうかん】の配達【はいたつ】が遅【おく】れている。",
+    "meaning": "The delivery of the evening paper is delayed."
+  },
+  {
+    "sentence": "夕暮れ時には街灯が灯り始める。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には街灯【がいとう】が灯【あ】かり始【はじ】める。",
+    "meaning": "Streetlights begin to turn on at dusk."
+  },
+  {
+    "sentence": "夕べは地震があった。",
+    "sentence_furigana": "夕べ【ゆうべ】は地震【じしん】があった。",
+    "meaning": "There was an earthquake last night."
+  },
+  {
+    "sentence": "夕焼けが目に焼き付く。",
+    "sentence_furigana": "夕焼【ゆうや】けが目【め】に焼【や】き付【つ】く。",
+    "meaning": "The sunset is imprinted on my eyes."
+  },
+  {
+    "sentence": "夕食の準備を始めます。",
+    "sentence_furigana": "夕食【ゆうしょく】の準備【じゅんび】を始【はじ】めます。",
+    "meaning": "I will start preparing dinner."
+  },
+  {
+    "sentence": "夕刊を読み終わった。",
+    "sentence_furigana": "夕刊【ゆうかん】を読【よ】み終【お】わった。",
+    "meaning": "I finished reading the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には空が茜色になる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には空【そら】が茜色【あかねいろ】になる。",
+    "meaning": "The sky turns madder red at dusk."
+  },
+  {
+    "sentence": "夕べはとても楽しかった。",
+    "sentence_furigana": "夕べ【ゆうべ】はとても楽【たの】しかった。",
+    "meaning": "It was very enjoyable last night."
+  },
+  {
+    "sentence": "夕焼けが地平線に消えていく。",
+    "sentence_furigana": "夕焼【ゆうや】けが地平線【ちへいせん】に消【き】えていく。",
+    "meaning": "The sunset disappears below the horizon."
+  },
+  {
+    "sentence": "夕食の後にデザートを食べた。",
+    "sentence_furigana": "夕食【ゆうしょく】の後【あと】にデザートを食べ【た】。",
+    "meaning": "I ate dessert after dinner."
+  },
+  {
+    "sentence": "夕刊に写真が載っていた。",
+    "sentence_furigana": "夕刊【ゆうかん】に写真【しゃしん】が載【の】っていた。",
+    "meaning": "There was a photo in the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には星が見え始める。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には星【ほし】が見【み】え始【はじ】める。",
+    "meaning": "Stars begin to appear at dusk."
+  },
+  {
+    "sentence": "夕べは友人と電話で話した。",
+    "sentence_furigana": "夕べ【ゆうべ】は友人【ゆうじん】と電話【でんわ】で話【はな】した。",
+    "meaning": "I talked with a friend on the phone last night."
+  },
+  {
+    "sentence": "夕焼けが山の稜線を彩る。",
+    "sentence_furigana": "夕焼【ゆうや】けが山【やま】の稜線【りょうせん】を彩【いろど】る。",
+    "meaning": "The sunset colors the ridgelines of the mountains."
+  },
+  {
+    "sentence": "夕食の食材を買いに来た。",
+    "sentence_furigana": "夕食【ゆうしょく】の食材【しょくりょう】を買【か】いに来【き】た。",
+    "meaning": "I came to buy ingredients for dinner."
+  },
+  {
+    "sentence": "夕刊に気になる記事があった。",
+    "sentence_furigana": "夕刊【ゆうかん】に気【き】になる記事【きじ】があった。",
+    "meaning": "There was an article that caught my eye in the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には月の光が強くなる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には月【つき】の光【ひかり】が強【つよ】くなる。",
+    "meaning": "The moonlight becomes stronger at dusk."
+  },
+  {
+    "sentence": "夕べは少し雨が降った。",
+    "sentence_furigana": "夕べ【ゆうべ】は少【すこ】し雨【あめ】が降【ふ】った。",
+    "meaning": "It rained a little last night."
+  },
+  {
+    "sentence": "夕焼けが空一面に広がる。",
+    "sentence_furigana": "夕焼【ゆうや】けが空一面【そらいちめん】に広【ひろ】がる。",
+    "meaning": "The sunset spreads across the entire sky."
+  },
+  {
+    "sentence": "夕食の準備は手伝いましょうか。",
+    "sentence_furigana": "夕食【ゆうしょく】の準備【じゅんび】は手伝【てつだ】いましょうか。",
+    "meaning": "Shall I help with dinner preparations?"
+  },
+  {
+    "sentence": "夕刊を早く読んでしまった。",
+    "sentence_furigana": "夕刊【ゆうかん】を読【よ】み早【はや】く読んでしまった。",
+    "meaning": "I read the evening paper too quickly."
+  },
+  {
+    "sentence": "夕暮れ時には鳥がさえずる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には鳥【とり】がさえずる。",
+    "meaning": "Birds chirp at dusk."
+  },
+  {
+    "sentence": "夕べは友人と一緒に飲みに行った。",
+    "sentence_furigana": "夕べ【ゆうべ】は友人【ゆうじん】と一緒【いっしょ】に飲【の】みに行【い】った。",
+    "meaning": "I went drinking with a friend last night."
+  },
+  {
+    "sentence": "夕焼けが海の彼方に沈む。",
+    "sentence_furigana": "夕焼【ゆうや】けが海【うみ】の彼方【かなた】に沈【しず】む。",
+    "meaning": "The sunset sinks into the distance over the sea."
+  },
+  {
+    "sentence": "夕食の後にテレビを見た。",
+    "sentence_furigana": "夕食【ゆうしょく】の後【あと】にテレビを見【み】た。",
+    "meaning": "I watched TV after dinner."
+  },
+  {
+    "sentence": "夕刊に広告がたくさん入っていた。",
+    "sentence_furigana": "夕刊【ゆうかん】に広告【こうこく】がたくさん入【はい】っていた。",
+    "meaning": "There were many advertisements in the evening paper."
+  },
+  {
+    "sentence": "夕暮れ時には空がオレンジ色になる。",
+    "sentence_furigana": "夕暮【ゆうぐ】れ時【どき】には空【そら】がオレンジ色【いろ】になる。",
+    "meaning": "The sky turns orange at dusk."
+  },
+  {
+    "sentence": "夕べは友人の誕生日を祝った。",
+    "sentence_furigana": "夕べ【ゆうべ】は友人【ゆうじん】の誕生日【たんじょうび】を祝【いわ】った。",
+    "meaning": "We celebrated a friend's birthday last night."
+  }
+]

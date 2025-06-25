@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "彼は贅沢な生活を送っている。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な生活【せいかつ】を送【おく】っている。",
+    "meaning": "He is living a luxurious life."
+  },
+  {
+    "sentence": "この水は不純物を除去するためにろ過する必要がある。",
+    "sentence_furigana": "この水【みず】は不純物【ふじゅんぶつ】を除去【じょきょ】するためにろ過【ろか】する必要【ひつよう】がある。",
+    "meaning": "This water needs to be filtered to remove impurities."
+  },
+  {
+    "sentence": "彼女は新しい職を見つけるために、多くの応募者の中から選ばれた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい職【しょく】を見【み】つけるために、多【おお】くの応募者【おうぼしゃ】の中【なか】から選【えら】ばれた。",
+    "meaning": "She was chosen from many applicants to find a new job."
+  },
+  {
+    "sentence": "古いものを捨てて、新しいものを取り入れる。",
+    "sentence_furigana": "古【ふる】いものを捨【す】てて、新【あたら】しいものを取り入【い】れる。",
+    "meaning": "Discard the old and adopt the new."
+  },
+  {
+    "sentence": "彼は贅沢に溺れてしまった。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】に溺【おぼ】れてしまった。",
+    "meaning": "He became immersed in luxury."
+  },
+  {
+    "sentence": "コーヒーを飲む前に、コーヒーかすを取り除く。",
+    "sentence_furigana": "コーヒーを飲【の】む前【まえ】に、コーヒーかすを取り除【のぞ】く。",
+    "meaning": "Remove the coffee grounds before drinking the coffee."
+  },
+  {
+    "sentence": "多くの候補者がいたが、最終的に彼だけが残った。",
+    "sentence_furigana": "多【おお】くの候補者【こうほしゃ】がいたが、最終的【さいしゅうてき】に彼【かれ】だけが残【のこ】った。",
+    "meaning": "There were many candidates, but in the end, only he remained."
+  },
+  {
+    "sentence": "不要な部分を切り捨てる。",
+    "sentence_furigana": "不要【ふよう】な部分【ぶぶん】を切【き】り捨【す】てる。",
+    "meaning": "Cut away unnecessary parts."
+  },
+  {
+    "sentence": "贅沢品はほとんど持っていない。",
+    "sentence_furigana": "贅沢品【ぜいたくひん】はほとんど持【も】っていない。",
+    "meaning": "I don't have many luxury goods."
+  },
+  {
+    "sentence": "この機械は液体をろ過する。",
+    "sentence_furigana": "この機械【きかい】は液体【えきたい】をろ過【ろか】する。",
+    "meaning": "This machine filters liquids."
+  },
+  {
+    "sentence": "優秀な人材を選抜する。",
+    "sentence_furigana": "優秀【ゆうしゅう】な人材【じんざい】を選抜【せんばつ】する。",
+    "meaning": "Select excellent human resources."
+  },
+  {
+    "sentence": "彼は豪遊しすぎた。",
+    "sentence_furigana": "彼【かれ】は豪遊【ごうゆう】しすぎた。",
+    "meaning": "He indulged in extravagance too much."
+  },
+  {
+    "sentence": "このフィルターは微細な粒子をろ過できます。",
+    "sentence_furigana": "このフィルターは微細【びさい】な粒子【りゅうし】をろ過【ろか】できます。",
+    "meaning": "This filter can remove fine particles."
+  },
+  {
+    "sentence": "チームの中から優秀な選手を選び出す。",
+    "sentence_furigana": "チームの中【なか】から優秀【ゆうしゅう】な選手【せんしゅ】を選【えら】び出【だ】す。",
+    "meaning": "Select outstanding players from the team."
+  },
+  {
+    "sentence": "過剰な装飾は排除すべきだ。",
+    "sentence_furigana": "過剰【かじょう】な装飾【そうしょく】は排除【はいじょ】すべきだ。",
+    "meaning": "Excessive ornamentation should be eliminated."
+  },
+  {
+    "sentence": "彼は贅沢な暮らしに慣れている。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な暮【く】らしに慣【な】れている。",
+    "meaning": "He is accustomed to a luxurious lifestyle."
+  },
+  {
+    "sentence": "川の水が濁っている。",
+    "sentence_furigana": "川【かわ】の水【みず】が濁【にご】っている。",
+    "meaning": "The river water is cloudy."
+  },
+  {
+    "sentence": "このふるいを通して砂を分けます。",
+    "sentence_furigana": "このふるいをとおして砂【すな】を分【わ】けます。",
+    "meaning": "We will separate the sand through this sieve."
+  },
+  {
+    "sentence": "不要な情報を削除する。",
+    "sentence_furigana": "不要【ふよう】な情報【じょうほう】を削除【さくじょ】する。",
+    "meaning": "Delete unnecessary information."
+  },
+  {
+    "sentence": "彼女は贅沢な宝石を身につけている。",
+    "sentence_furigana": "彼女【かのじょ】は贅沢【ぜいたく】な宝石【ほうせき】を身【み】につけている。",
+    "meaning": "She is wearing luxurious jewelry."
+  },
+  {
+    "sentence": "このシステムは無駄を省く。",
+    "sentence_furigana": "このシステムは無駄【むだ】を省【はぶ】く。",
+    "meaning": "This system eliminates waste."
+  },
+  {
+    "sentence": "選りすぐりの食材を使用する。",
+    "sentence_furigana": "選【え】りすぐりの食材【しょくざい】を使用【しよう】する。",
+    "meaning": "Use carefully selected ingredients."
+  },
+  {
+    "sentence": "彼は大いに贅沢をした。",
+    "sentence_furigana": "彼【かれ】は大【おお】いに贅沢【ぜいたく】をした。",
+    "meaning": "He indulged in great luxury."
+  },
+  {
+    "sentence": "この装置で水を浄化する。",
+    "sentence_furigana": "この装置【そうち】で水【みず】を浄化【じょうか】する。",
+    "meaning": "Purify the water with this device."
+  },
+  {
+    "sentence": "応募者の中から最も優秀な一人を選ぶ。",
+    "sentence_furigana": "応募者【おうぼしゃ】の中【なか】から最【もっと】も優秀【ゆうしゅう】な一人【ひとり】を選【えら】ぶ。",
+    "meaning": "Choose the most outstanding person from the applicants."
+  },
+  {
+    "sentence": "無駄遣いをやめなければならない。",
+    "sentence_furigana": "無駄遣【むだづか】いをやめなければならない。",
+    "meaning": "We must stop wasting money."
+  },
+  {
+    "sentence": "彼女は贅沢な趣味を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は贅沢【ぜいたく】な趣味【しゅみ】を持【も】っている。",
+    "meaning": "She has luxurious hobbies."
+  },
+  {
+    "sentence": "このフィルターは非常に細かい塵も除去する。",
+    "sentence_furigana": "このフィルターは非常【ひじょう】に細【こま】かい塵【ちり】も除去【じょきょ】する。",
+    "meaning": "This filter also removes very fine dust."
+  },
+  {
+    "sentence": "多くの候補者から最良の案を選び出す。",
+    "sentence_furigana": "多【おお】くの候補者【こうほしゃ】から最良【さいりょう】の案【あん】を選【えら】び出【だ】す。",
+    "meaning": "Select the best plan from many candidates."
+  },
+  {
+    "sentence": "彼はその経験から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】はその経験【けいけん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned a lot from that experience."
+  },
+  {
+    "sentence": "贅沢な食事を楽しむ。",
+    "sentence_furigana": "贅沢【ぜいたく】な食事【しょくじ】を楽し【たの】しむ。",
+    "meaning": "Enjoy a luxurious meal."
+  },
+  {
+    "sentence": "この網で魚をすくい上げる。",
+    "sentence_furigana": "この網【あみ】で魚【さかな】をすくい上【あ】げる。",
+    "meaning": "Scoop up the fish with this net."
+  },
+  {
+    "sentence": "彼は派手に振る舞った。",
+    "sentence_furigana": "彼【かれ】は派手【はで】に振【ふ】る舞【まった】った。",
+    "meaning": "He acted extravagantly."
+  },
+  {
+    "sentence": "プログラムから不要なコードを削除する。",
+    "sentence_furigana": "プログラムから不要【ふよう】なコードを削除【さくじょ】する。",
+    "meaning": "Delete unnecessary code from the program."
+  },
+  {
+    "sentence": "この生地は水を通しにくい。",
+    "sentence_furigana": "この生地【きじ】は水【みず】を通【とお】しにくい。",
+    "meaning": "This fabric does not let water pass through easily."
+  },
+  {
+    "sentence": "彼は才能を無駄にした。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】を無駄【むだ】にした。",
+    "meaning": "He wasted his talent."
+  },
+  {
+    "sentence": "選抜された選手たちが集まった。",
+    "sentence_furigana": "選抜【せんばつ】された選手【せんしゅ】たちが集【あつ】まった。",
+    "meaning": "The selected players gathered."
+  },
+  {
+    "sentence": "贅沢な贈り物を受け取る。",
+    "sentence_furigana": "贅沢【ぜいたく】な贈【おく】り物【もの】を受【う】け取【と】る。",
+    "meaning": "Receive a luxurious gift."
+  },
+  {
+    "sentence": "このふるいで小麦粉をふるいにかける。",
+    "sentence_furigana": "このふるいで小麦粉【こむぎこ】をふるいにかける。",
+    "meaning": "Sift the flour with this sieve."
+  },
+  {
+    "sentence": "彼は無駄な努力を繰り返した。",
+    "sentence_furigana": "彼【かれ】は無駄【むだ】な努力【どりょく】を繰【く】り返【かえ】した。",
+    "meaning": "He repeated futile efforts."
+  },
+  {
+    "sentence": "多くの意見の中から最善のものを選ぶ。",
+    "sentence_furigana": "多【おお】くの意見【いけん】の中【なか】から最善【さいぜん】のものを選【えら】ぶ。",
+    "meaning": "Choose the best from many opinions."
+  },
+  {
+    "sentence": "この装置は水をろ過する機能がある。",
+    "sentence_furigana": "この装置【そうち】は水【みず】をろ過【ろか】する機能【きのう】がある。",
+    "meaning": "This device has a function to filter water."
+  },
+  {
+    "sentence": "彼は贅沢な生活を楽しんでいる。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な生活【せいかつ】を楽し【たの】しんでいる。",
+    "meaning": "He is enjoying a luxurious life."
+  },
+  {
+    "sentence": "不要なデータを削除する必要がある。",
+    "sentence_furigana": "不要【ふよう】なデータを削除【さくじょ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to delete unnecessary data."
+  },
+  {
+    "sentence": "多くの応募者の中から最適任者を選ぶ。",
+    "sentence_furigana": "多【おお】くの応募者【おうぼしゃ】の中【なか】から最適任者【てきにんしゃ】を選【えら】ぶ。",
+    "meaning": "Select the most suitable person from many applicants."
+  },
+  {
+    "sentence": "彼女は贅沢な香水をつけた。",
+    "sentence_furigana": "彼女【かのじょ】は贅沢【ぜいたく】な香水【こうすい】をつけた。",
+    "meaning": "She put on luxurious perfume."
+  },
+  {
+    "sentence": "このフィルターは空気中の塵を取り除く。",
+    "sentence_furigana": "このフィルターは空気中【くうきじゅう】の塵【ちり】を取り除【のぞ】く。",
+    "meaning": "This filter removes dust from the air."
+  },
+  {
+    "sentence": "彼は無駄遣いばかりしている。",
+    "sentence_furigana": "彼【かれ】は無駄遣【むだづか】いばかりしている。",
+    "meaning": "He only wastes money."
+  },
+  {
+    "sentence": "優秀な人材を発掘する。",
+    "sentence_furigana": "優秀【ゆうしゅう】な人材【じんざい】を発掘【はっくつ】する。",
+    "meaning": "Discover talented people."
+  },
+  {
+    "sentence": "この茶葉は贅沢な味わいだ。",
+    "sentence_furigana": "この茶葉【ちゃよう】は贅沢【ぜいたく】な味わ【あじわ】いだ。",
+    "meaning": "These tea leaves have a luxurious taste."
+  },
+  {
+    "sentence": "川の水が濁ってしまった。",
+    "sentence_furigana": "川【かわ】の水【みず】が濁【にご】ってしまった。",
+    "meaning": "The river water has become cloudy."
+  },
+  {
+    "sentence": "不要なプロセスを排除する。",
+    "sentence_furigana": "不要【ふよう】なプロセスを排除【はいじょ】する。",
+    "meaning": "Eliminate unnecessary processes."
+  },
+  {
+    "sentence": "多くの候補者から最適な候補者を選び出す。",
+    "sentence_furigana": "多【おお】くの候補者【こうほしゃ】から最適【さいてき】な候補者【こうほしゃ】を選【えら】び出【だ】す。",
+    "meaning": "Select the most suitable candidate from many applicants."
+  },
+  {
+    "sentence": "彼は贅沢な装飾品を好む。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な装飾品【そうしょくひん】を好【この】む。",
+    "meaning": "He likes luxurious decorations."
+  },
+  {
+    "sentence": "このふるいは非常に細かい。",
+    "sentence_furigana": "このふるいは非常【ひじょう】に細【こま】かい。",
+    "meaning": "This sieve is very fine."
+  },
+  {
+    "sentence": "彼はその機会を無駄にした。",
+    "sentence_furigana": "彼【かれ】はその機会【きかい】を無駄【むだ】にした。",
+    "meaning": "He wasted that opportunity."
+  },
+  {
+    "sentence": "優秀な選手だけが選抜される。",
+    "sentence_furigana": "優秀【ゆうしゅう】な選手【せんしゅ】だけが選抜【せんばつ】される。",
+    "meaning": "Only outstanding players are selected."
+  },
+  {
+    "sentence": "贅沢な家具で部屋を飾る。",
+    "sentence_furigana": "贅沢【ぜいたく】な家具【かぐ】で部屋【へや】を飾【かざ】る。",
+    "meaning": "Decorate the room with luxurious furniture."
+  },
+  {
+    "sentence": "このフィルターで水をろ過する。",
+    "sentence_furigana": "このフィルターで水【みず】をろ過【ろか】する。",
+    "meaning": "Filter the water with this filter."
+  },
+  {
+    "sentence": "彼は無駄なことを言った。",
+    "sentence_furigana": "彼【かれ】は無駄【むだ】なことを言【い】った。",
+    "meaning": "He said something futile."
+  },
+  {
+    "sentence": "選りすぐりの才能が集まっている。",
+    "sentence_furigana": "選【え】りすぐりの才能【さいのう】が集【あつ】まっている。",
+    "meaning": "Carefully selected talents are gathered."
+  },
+  {
+    "sentence": "贅沢な休暇を過ごした。",
+    "sentence_furigana": "贅沢【ぜいたく】な休暇【きゅうか】を過【す】ごした。",
+    "meaning": "I spent a luxurious vacation."
+  },
+  {
+    "sentence": "このふるいにかけて、不純物を取り除く。",
+    "sentence_furigana": "このふるいにかけ【か】けて、不純物【ふじゅんぶつ】を取り除【のぞ】く。",
+    "meaning": "Pass it through this sieve and remove impurities."
+  },
+  {
+    "sentence": "彼は過去の栄光にすがっているだけだ。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】にすがっているだけだ。",
+    "meaning": "He is just clinging to past glory."
+  },
+  {
+    "sentence": "多くの情報の中から必要なものを抽出する。",
+    "sentence_furigana": "多【おお】くの情報【じょうほう】の中【なか】から必要【ひつよう】なものを抽出【ちゅうしゅつ】する。",
+    "meaning": "Extract necessary information from a lot of data."
+  },
+  {
+    "sentence": "この生地は水を通さない。",
+    "sentence_furigana": "この生地【きじ】は水【みず】を通【とお】さない。",
+    "meaning": "This fabric is waterproof."
+  },
+  {
+    "sentence": "彼は無駄な労力を費やした。",
+    "sentence_furigana": "彼【かれ】は無駄【むだ】な労力【ろりょく】を費【つい】やした。",
+    "meaning": "He spent futile effort."
+  },
+  {
+    "sentence": "選抜チームの発表が行われた。",
+    "sentence_furigana": "選抜【せんばつ】チームの発表【はっぴょう】が行【おこな】われた。",
+    "meaning": "The selected team was announced."
+  },
+  {
+    "sentence": "彼は贅沢な食事を求めた。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な食事【しょくじ】を求【もと】めた。",
+    "meaning": "He demanded a luxurious meal."
+  },
+  {
+    "sentence": "この装置で油をろ過する。",
+    "sentence_furigana": "この装置【そうち】で油【あぶら】をろ過【ろか】する。",
+    "meaning": "Filter the oil with this device."
+  },
+  {
+    "sentence": "彼は贅沢な暮らしを享受している。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な暮【く】らしを享受【きょうじゅ】している。",
+    "meaning": "He is enjoying a luxurious life."
+  },
+  {
+    "sentence": "このふるいは目が細かい。",
+    "sentence_furigana": "このふるいは目【め】が細【こま】かい。",
+    "meaning": "The mesh of this sieve is fine."
+  },
+  {
+    "sentence": "不要な会員を除名する。",
+    "sentence_furigana": "不要【ふよう】な会員【かいいん】を除名【じょめい】する。",
+    "meaning": "Remove unnecessary members."
+  },
+  {
+    "sentence": "彼は贅沢な旅行を楽しんだ。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な旅行【りょこう】を楽し【たの】んだ。",
+    "meaning": "He enjoyed a luxurious trip."
+  },
+  {
+    "sentence": "川の濁りを取り除く。",
+    "sentence_furigana": "川【かわ】の濁【にご】りを取り除【のぞ】く。",
+    "meaning": "Remove the turbidity of the river."
+  },
+  {
+    "sentence": "多くのアイデアから最良のものを選ぶ。",
+    "sentence_furigana": "多【おお】くのアイデアから最良【さいりょう】のものを選【えら】ぶ。",
+    "meaning": "Choose the best from many ideas."
+  },
+  {
+    "sentence": "彼は贅沢な装飾を施した。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な装飾【そうしょく】を施【ほどこ】した。",
+    "meaning": "He applied luxurious decorations."
+  },
+  {
+    "sentence": "不要な枝を刈り込む。",
+    "sentence_furigana": "不要【ふよう】な枝【えだ】を刈【か】り込【こ】む。",
+    "meaning": "Prune unnecessary branches."
+  },
+  {
+    "sentence": "このフィルターは空気のろ過に使われる。",
+    "sentence_furigana": "このフィルターは空気【くうき】のろ過【ろか】に使【つか】われる。",
+    "meaning": "This filter is used for air filtration."
+  },
+  {
+    "sentence": "彼は贅沢な時間を過ごした。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な時間【じかん】を過【す】ごした。",
+    "meaning": "He spent a luxurious time."
+  },
+  {
+    "sentence": "多くの候補者の中から最適な一人を選ぶ。",
+    "sentence_furigana": "多【おお】くの候補者【こうほしゃ】の中【なか】から最適【さいてき】な一人【ひとり】を選【えら】ぶ。",
+    "meaning": "Choose the most suitable person from many candidates."
+  },
+  {
+    "sentence": "彼は無駄な会議にうんざりしている。",
+    "sentence_furigana": "彼【かれ】は無駄【むだ】な会議【かいぎ】にうんざりしている。",
+    "meaning": "He is tired of useless meetings."
+  },
+  {
+    "sentence": "選りすぐりの品々が並んでいる。",
+    "sentence_furigana": "選【え】りすぐりの品々【しなじな】が並【なら】んでいる。",
+    "meaning": "Carefully selected items are lined up."
+  },
+  {
+    "sentence": "このワインは贅沢な味わいだ。",
+    "sentence_furigana": "このワインは贅沢【ぜいたく】な味わ【あじわ】いだ。",
+    "meaning": "This wine has a luxurious taste."
+  },
+  {
+    "sentence": "彼女は贅沢な生活を満喫している。",
+    "sentence_furigana": "彼女【かのじょ】は贅沢【ぜいたく】な生活【せいかつ】を満喫【まんきつ】している。",
+    "meaning": "She is fully enjoying a luxurious life."
+  },
+  {
+    "sentence": "このふるいを通して不純物を取り除く。",
+    "sentence_furigana": "このふるいをとおして不純物【ふじゅんぶつ】を取り除【のぞ】く。",
+    "meaning": "Remove impurities through this sieve."
+  },
+  {
+    "sentence": "彼は贅沢な暮らしに満足している。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な暮【く】らしに満足【まんぞく】している。",
+    "meaning": "He is satisfied with his luxurious life."
+  },
+  {
+    "sentence": "不要な情報をフィルタリングする。",
+    "sentence_furigana": "不要【ふよう】な情報【じょうほう】をフィルタリングする。",
+    "meaning": "Filter out unnecessary information."
+  },
+  {
+    "sentence": "彼は無駄な時間を過ごした。",
+    "sentence_furigana": "彼【かれ】は無駄【むだ】な時間【じかん】を過【す】ごした。",
+    "meaning": "He wasted his time."
+  },
+  {
+    "sentence": "この装置は水をろ過するのに適している。",
+    "sentence_furigana": "この装置【そうち】は水【みず】をろ過【ろか】するのに適【てき】している。",
+    "meaning": "This device is suitable for filtering water."
+  },
+  {
+    "sentence": "彼は贅沢な休日を過ごす。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な休日【きゅうじつ】を過【す】ごす。",
+    "meaning": "He spends a luxurious holiday."
+  },
+  {
+    "sentence": "選抜されたメンバーが意気込みを語った。",
+    "sentence_furigana": "選抜【せんばつ】されたメンバーが意気込【いきご】みを見【み】せた。",
+    "meaning": "The selected members expressed their enthusiasm."
+  },
+  {
+    "sentence": "このふるいは網目が細かいので、細かいものも分けられる。",
+    "sentence_furigana": "このふるいは網目【あみめ】が細【こま】かいので、細【こま】かいものも分【わ】けられる。",
+    "meaning": "This sieve has a fine mesh, so it can also separate fine things."
+  },
+  {
+    "sentence": "彼は贅沢な装いをしていた。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な装【よそお】いをしていた。",
+    "meaning": "He was dressed luxuriously."
+  },
+  {
+    "sentence": "不要なものを排除し、本質に集中する。",
+    "sentence_furigana": "不要【ふよう】なものを排除【はいじょ】し、本質【ほんしつ】に集中【しゅうちゅう】する。",
+    "meaning": "Eliminate what is unnecessary and focus on the essence."
+  },
+  {
+    "sentence": "彼は贅沢な生活に憧れている。",
+    "sentence_furigana": "彼【かれ】は贅沢【ぜいたく】な生活【せいかつ】に憧【あこが】れている。",
+    "meaning": "He longs for a luxurious life."
+  },
+  {
+    "sentence": "このフィルターで空気を浄化する。",
+    "sentence_furigana": "このフィルターで空気【くうき】を浄化【じょうか】する。",
+    "meaning": "Purify the air with this filter."
+  },
+  {
+    "sentence": "彼は無駄な議論を避けた。",
+    "sentence_furigana": "彼【かれ】は無駄【むだ】な議論【ぎろん】を避【さ】けた。",
+    "meaning": "He avoided useless arguments."
+  },
+  {
+    "sentence": "多くの候補者の中から最適な人材を選ぶ。",
+    "sentence_furigana": "多【おお】くの候補者【こうほしゃ】の中【なか】から最適【さいてき】な人材【じんざい】を選【えら】ぶ。",
+    "meaning": "Select the most suitable talent from many candidates."
+  },
+  {
+    "sentence": "贅沢な暮らしは必ずしも幸せとは限らない。",
+    "sentence_furigana": "贅沢【ぜいたく】な暮【く】らしは必【かなら】ずしも幸福【しあわせ】とは限【かぎ】らない。",
+    "meaning": "A luxurious life is not necessarily happiness."
+  }
+]

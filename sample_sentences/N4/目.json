@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "彼は新しいプロジェクトの目標を達成しました。",
+    "sentence_furigana": "彼【かれ】は新【あら】しいプロジェクトの目標【もくひょう】を達成【たっせい】しました。",
+    "meaning": "He achieved the goals of the new project."
+  },
+  {
+    "sentence": "この本は私の目に留まりました。",
+    "sentence_furigana": "この本【ほん】は私【わたし】の目【め】に留【と】まりました。",
+    "meaning": "This book caught my eye."
+  },
+  {
+    "sentence": "彼女は鋭い観察力を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は鋭【するど】い観察力【かんさつりょく】を持【も】っています。",
+    "meaning": "She has sharp observation skills."
+  },
+  {
+    "sentence": "会議で発言する機会を得ました。",
+    "sentence_furigana": "会議【かいぎ】で発言【はつげん】する機会【きかい】を得【え】ました。",
+    "meaning": "I got a chance to speak at the meeting."
+  },
+  {
+    "sentence": "彼は多くの経験を積んできました。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を積【つ】んできました。",
+    "meaning": "He has accumulated a lot of experience."
+  },
+  {
+    "sentence": "先生は生徒たちに目をかけていました。",
+    "sentence_furigana": "先生【せんせい】は生徒【せいと】たちに目【め】をかけていました。",
+    "meaning": "The teacher was looking out for the students."
+  },
+  {
+    "sentence": "この製品は消費者の間で人気を集めています。",
+    "sentence_furigana": "この製品【せいひん】は消費者【しょうひしゃ】の間【あいだ】で人気【にんき】を集【あつ】めています。",
+    "meaning": "This product is gaining popularity among consumers."
+  },
+  {
+    "sentence": "子供たちは目を輝かせて物語を聞いていました。",
+    "sentence_furigana": "子供【こども】たちは目【め】を輝【かがや】かせて物語【ものがた】りを聞【き】いていました。",
+    "meaning": "The children listened to the story with sparkling eyes."
+  },
+  {
+    "sentence": "彼は自分の目で真実を確認しました。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の目【め】で真実【しんじつ】を確認【かくにん】しました。",
+    "meaning": "He confirmed the truth with his own eyes."
+  },
+  {
+    "sentence": "この映画は多くの人々の心を動かしました。",
+    "sentence_furigana": "この映画【えいが】は多【おお】くの人々【ひとびと】の心【こころ】を動【うご】かしました。",
+    "meaning": "This movie moved the hearts of many people."
+  },
+  {
+    "sentence": "彼女は細部にまで注意を払います。",
+    "sentence_furigana": "彼女【かのじょ】は細部【さいぶ】にまで注意【ちゅうい】を払【はら】います。",
+    "meaning": "She pays attention to even the smallest details."
+  },
+  {
+    "sentence": "この分野での経験が豊富です。",
+    "sentence_furigana": "この分野【ぶんや】での経験【けいけん】が豊富【ほうふ】です。",
+    "meaning": "I have abundant experience in this field."
+  },
+  {
+    "sentence": "彼は上司から特別な目をかけられていた。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】から特別【とくべつ】な目【め】をかけられていた。",
+    "meaning": "He was favored by his boss."
+  },
+  {
+    "sentence": "この事件は多くの教訓を残しました。",
+    "sentence_furigana": "この事件【じけん】は多【おお】くの教訓【きょうくん】を残【のこ】しました。",
+    "meaning": "This incident left many lessons."
+  },
+  {
+    "sentence": "彼の発言は会議の雰囲気を変えた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は会議【かいぎ】の雰囲気【ふんいき】を変【か】えた。",
+    "meaning": "His remarks changed the atmosphere of the meeting."
+  },
+  {
+    "sentence": "新しい事業の目玉商品です。",
+    "sentence_furigana": "新【あら】しい事業【じぎょう】の目玉商品【めだましょうひん】です。",
+    "meaning": "It is the flagship product of the new business."
+  },
+  {
+    "sentence": "彼の目はまるで宝石のように輝いていた。",
+    "sentence_furigana": "彼【かれ】の目【め】はまるで宝石【ほうせき】のように輝【かがや】いていた。",
+    "meaning": "His eyes shone like jewels."
+  },
+  {
+    "sentence": "彼女は常に一歩先を見据えている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に一歩先【いっぽさき】を見据【みす】えている。",
+    "meaning": "She always looks one step ahead."
+  },
+  {
+    "sentence": "この経験から多くのことを学びました。",
+    "sentence_furigana": "この経験【けいけん】から多【おお】くのことを学【まな】びました。",
+    "meaning": "I learned many things from this experience."
+  },
+  {
+    "sentence": "彼は皆の注目を集める人物だ。",
+    "sentence_furigana": "彼【かれ】は皆【みな】の注目【ちゅうもく】を集【あつ】める人物【じんぶつ】だ。",
+    "meaning": "He is a person who attracts everyone's attention."
+  },
+  {
+    "sentence": "この絵は見る者の心を捉える。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】の心【こころ】を捉【とら】える。",
+    "meaning": "This painting captures the viewer's heart."
+  },
+  {
+    "sentence": "彼はその分野での第一人者と目されている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】での第一人者【だいいちにんしゃ】と目【め】されている。",
+    "meaning": "He is regarded as the leading figure in that field."
+  },
+  {
+    "sentence": "彼女は将来有望な人材として注目されている。",
+    "sentence_furigana": "彼女【かのじょ】は将来有望【しょうらいゆうぼう】な人材【じんざい】として注目【ちゅうもく】されている。",
+    "meaning": "She is being watched as a promising talent for the future."
+  },
+  {
+    "sentence": "この件については、さらに検討が必要です。",
+    "sentence_furigana": "この件【けん】については、さらに検討【けんとう】が必要です【ひつよう】。",
+    "meaning": "Further consideration is needed regarding this matter."
+  },
+  {
+    "sentence": "彼の目は希望に満ちていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は希望【きぼう】に満【み】ちていた。",
+    "meaning": "His eyes were full of hope."
+  },
+  {
+    "sentence": "この本は読む価値がある。",
+    "sentence_furigana": "この本【ほん】は読【よ】む価値【かち】がある。",
+    "meaning": "This book is worth reading."
+  },
+  {
+    "sentence": "彼女は経験豊富で頼りになる。",
+    "sentence_furigana": "彼女【かのじょ】は経験豊富【けいけんほうふ】で頼【たよ】りになる。",
+    "meaning": "She is experienced and reliable."
+  },
+  {
+    "sentence": "彼は常に自分の限界に挑戦する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分【じぶん】の限界【げんかい】に挑戦【ちょうせん】する。",
+    "meaning": "He always challenges his own limits."
+  },
+  {
+    "sentence": "その出来事は私の目に焼き付いている。",
+    "sentence_furigana": "その出来事【できごと】は私【わたし】の目【め】に焼【や】き付【つ】いている。",
+    "meaning": "That event is etched in my memory."
+  },
+  {
+    "sentence": "彼は細部までこだわり抜く職人だ。",
+    "sentence_furigana": "彼【かれ】は細部【さいぶ】までこだわりの職人【しょくにん】だ。",
+    "meaning": "He is a craftsman who goes to great lengths for detail."
+  },
+  {
+    "sentence": "この経験は今後の人生に大きな影響を与えるだろう。",
+    "sentence_furigana": "この経験【けいけん】は今後【こんご】の人生【じんせい】に大【おお】きな影響【えいきょう】を与えるだろう。",
+    "meaning": "This experience will likely have a big impact on my future life."
+  },
+  {
+    "sentence": "彼女はクラスの模範となる生徒です。",
+    "sentence_furigana": "彼女【かのじょ】はクラスの模範【もはん】となる生徒【せいと】です。",
+    "meaning": "She is a model student in the class."
+  },
+  {
+    "sentence": "彼は的確なアドバイスをくれた。",
+    "sentence_furigana": "彼【かれ】は的確【てきかく】なアドバイスをくれた。",
+    "meaning": "He gave me precise advice."
+  },
+  {
+    "sentence": "その商品は多くの顧客の目を引いた。",
+    "sentence_furigana": "その商品【しょうひん】は多【おお】くの顧客【こきゃく】の目【め】を引【ひ】いた。",
+    "meaning": "The product attracted the attention of many customers."
+  },
+  {
+    "sentence": "彼女は常に新しい視点を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あら】しい視点【してん】を持【も】っている。",
+    "meaning": "She always has a fresh perspective."
+  },
+  {
+    "sentence": "この経験は彼に多くの学びをもたらした。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】に多【おお】くの学【まな】びをもたらした。",
+    "meaning": "This experience brought him much learning."
+  },
+  {
+    "sentence": "彼は周りの人々に良い影響を与えている。",
+    "sentence_furigana": "彼【かれ】は周【まわ】りの人々【ひとびと】に良【よ】い影響【えいきょう】を与【あた】えている。",
+    "meaning": "He has a good influence on the people around him."
+  },
+  {
+    "sentence": "彼女は物事の本質を見抜く力がある。",
+    "sentence_furigana": "彼女【かのじょ】は物事【ものごと】の本質【ほんしつ】を見抜【みぬ】く力【ちから】がある。",
+    "meaning": "She has the power to see through the essence of things."
+  },
+  {
+    "sentence": "この結果は期待を大きく上回った。",
+    "sentence_furigana": "この結果【けっか】は期待【きたい】を大【おお】きく上回【うわまわ】った。",
+    "meaning": "This result greatly exceeded expectations."
+  },
+  {
+    "sentence": "彼は常に自分自身の成長を意識している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分自身【じぶんじしん】の成長【せいちょう】を意識【いしき】している。",
+    "meaning": "He is always conscious of his own growth."
+  },
+  {
+    "sentence": "彼女の目は優しさに満ちていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は優【やさ】しさに満【み】ちていた。",
+    "meaning": "Her eyes were full of kindness."
+  },
+  {
+    "sentence": "この本は多くの知識を与えてくれる。",
+    "sentence_furigana": "この本【ほん】は多【おお】くの知識【ちしき】を与【あた】えてくれる。",
+    "meaning": "This book gives a lot of knowledge."
+  },
+  {
+    "sentence": "彼は常に状況を冷静に分析する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に状況【じょうきょう】を冷静【れいせい】に分析【ぶんせき】する。",
+    "meaning": "He always analyzes the situation calmly."
+  },
+  {
+    "sentence": "この経験は彼女の人生の転機となった。",
+    "sentence_furigana": "この経験【けいけん】は彼女【かのじょ】の人生【じんせい】の転機【てんき】となった。",
+    "meaning": "This experience became a turning point in her life."
+  },
+  {
+    "sentence": "彼は常に客観的な視点を保つ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に客観的【きゃっかんてき】な視点【してん】を保【たも】つ。",
+    "meaning": "He always maintains an objective perspective."
+  },
+  {
+    "sentence": "そのニュースは多くの人々の目を疑わせた。",
+    "sentence_furigana": "そのニュースは多【おお】くの人々【ひとびと】の目【め】を疑【うたが】わせた。",
+    "meaning": "The news made many people doubt their eyes."
+  },
+  {
+    "sentence": "彼女は細かい作業にも集中できる。",
+    "sentence_furigana": "彼女【かのじょ】は細【こま】かい作業【さぎょう】にも集中【しゅうちゅう】できる。",
+    "meaning": "She can concentrate even on detailed work."
+  },
+  {
+    "sentence": "この経験は彼の視野を広げた。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】の視野【しや】を広【ひろ】げた。",
+    "meaning": "This experience broadened his horizons."
+  },
+  {
+    "sentence": "彼は常に変化に目を向けている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に変化【へんか】に目【め】を向【む】けている。",
+    "meaning": "He is always looking at changes."
+  },
+  {
+    "sentence": "その作家は独自の視点で世界を描く。",
+    "sentence_furigana": "その作家【さっか】は独特【どくとく】の視点【してん】で世界【せかい】を描【えが】く。",
+    "meaning": "That writer depicts the world from a unique perspective."
+  },
+  {
+    "sentence": "彼女は常に新しいアイデアを求めている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あら】しいアイデアを求【もと】めている。",
+    "meaning": "She is always seeking new ideas."
+  },
+  {
+    "sentence": "この経験は私に多くのことを教えてくれた。",
+    "sentence_furigana": "この経験【けいけん】は私【わたし】に多【おお】くのことを教【おし】えてくれた。",
+    "meaning": "This experience taught me a lot."
+  },
+  {
+    "sentence": "彼は周りの意見に耳を傾ける。",
+    "sentence_furigana": "彼【かれ】は周【まわ】りの意見【いけん】に耳【みみ】を傾【かたむ】ける。",
+    "meaning": "He listens to the opinions of those around him."
+  },
+  {
+    "sentence": "その目はまだ若さを物語っていた。",
+    "sentence_furigana": "その目【め】はまだ若【わか】さを物語【ものがた】っていた。",
+    "meaning": "Those eyes still told of youth."
+  },
+  {
+    "sentence": "彼女は常に状況を把握しようと努める。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に状況【じょうきょう】を把握【はあく】しようと努【つと】める。",
+    "meaning": "She always strives to grasp the situation."
+  },
+  {
+    "sentence": "この本は私の視野を広げるのに役立った。",
+    "sentence_furigana": "この本【ほん】は私【わたし】の視野【しや】を広【ひろ】げるのに役立【やくだ】った。",
+    "meaning": "This book helped broaden my horizons."
+  },
+  {
+    "sentence": "彼は常に前向きな姿勢を保つ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな姿勢【しせい】を保【たも】つ。",
+    "meaning": "He always maintains a positive attitude."
+  },
+  {
+    "sentence": "その経験は彼女の成長にとって大きな一歩となった。",
+    "sentence_furigana": "その経験【けいけん】は彼女【かのじょ】の成長【せいちょう】にとって大【おお】きな一歩【いっぽ】となった。",
+    "meaning": "That experience became a big step for her growth."
+  },
+  {
+    "sentence": "彼は常に未来を見据えている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に未来【みらい】を見据【みす】えている。",
+    "meaning": "He is always looking towards the future."
+  },
+  {
+    "sentence": "その目は深い悲しみを湛えていた。",
+    "sentence_furigana": "その目【め】は深【ふか】い悲【かな】しみを湛【たた】えていた。",
+    "meaning": "Those eyes held deep sorrow."
+  },
+  {
+    "sentence": "彼女は常に物事の裏側を見ようとする。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に物事【ものごと】の裏側【うらがわ】を見【み】ようとする。",
+    "meaning": "She always tries to see the other side of things."
+  },
+  {
+    "sentence": "この経験は私に多くの教訓を与えた。",
+    "sentence_furigana": "この経験【けいけん】は私【わたし】に多【おお】くの教訓【きょうくん】を与【あた】えた。",
+    "meaning": "This experience gave me many lessons."
+  },
+  {
+    "sentence": "彼は常に状況を正確に把握する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に状況【じょうきょう】を正確【せいかく】に把握【はあく】する。",
+    "meaning": "He always grasps the situation accurately."
+  },
+  {
+    "sentence": "その目は強い意志を宿していた。",
+    "sentence_furigana": "その目【め】は強【つよ】い意志【いし】を宿【やど】していた。",
+    "meaning": "Those eyes held a strong will."
+  },
+  {
+    "sentence": "彼女は常に新しい発見を求めている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あら】しい発見【はっけん】を求【もと】めている。",
+    "meaning": "She is always seeking new discoveries."
+  },
+  {
+    "sentence": "この経験は彼の人生観を変えた。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】の人生観【じんせいかん】を変【か】えた。",
+    "meaning": "This experience changed his outlook on life."
+  },
+  {
+    "sentence": "彼は常に改善点を探している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に改善点【かいぜんてん】を探【さが】している。",
+    "meaning": "He is always looking for areas of improvement."
+  },
+  {
+    "sentence": "その目は何かを探しているようだった。",
+    "sentence_furigana": "その目【め】は何か【なにか】を探【さが】しているようだった。",
+    "meaning": "Those eyes seemed to be looking for something."
+  },
+  {
+    "sentence": "彼女は常に物事の全体像を掴もうとする。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に物事【ものごと】の全体像【ぜんたいぞう】を掴【つか】もうとする。",
+    "meaning": "She always tries to grasp the big picture."
+  },
+  {
+    "sentence": "この経験は彼女の自信を高めた。",
+    "sentence_furigana": "この経験【けいけん】は彼女【かのじょ】の自信【じしん】を高【たか】めた。",
+    "meaning": "This experience boosted her confidence."
+  },
+  {
+    "sentence": "彼は常に最善を尽くす。",
+    "sentence_furigana": "彼【かれ】は常【つね】に最善【さいぜん】を尽【つ】くす。",
+    "meaning": "He always does his best."
+  },
+  {
+    "sentence": "その目は未来への希望に満ちていた。",
+    "sentence_furigana": "その目【め】は未来【みらい】への希望【きぼう】に満【み】ちていた。",
+    "meaning": "Those eyes were filled with hope for the future."
+  },
+  {
+    "sentence": "彼女は常にリスクを考慮に入れる。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】にリスクを考慮【こうりょ】に入【い】れる。",
+    "meaning": "She always takes risks into consideration."
+  },
+  {
+    "sentence": "この経験は彼の進むべき道を示してくれた。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】の進【すす】むべき道【みち】を示【しめ】してくれた。",
+    "meaning": "This experience showed him the way forward."
+  },
+  {
+    "sentence": "彼は常に変化する状況に対応する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に変化【へんか】する状況【じょうきょう】に対応【たいおう】する。",
+    "meaning": "He always responds to changing circumstances."
+  },
+  {
+    "sentence": "その目は子供のような純粋さを持っていた。",
+    "sentence_furigana": "その目【め】は子供【こども】のような純粋【じゅんすい】さを持【も】っていた。",
+    "meaning": "Those eyes had a childlike purity."
+  },
+  {
+    "sentence": "彼女は常に客観的な事実に基づいて判断する。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に客観的【きゃっかんてき】な事実【じじつ】に基づいて【もとづ】いて判断【はんだん】する。",
+    "meaning": "She always judges based on objective facts."
+  },
+  {
+    "sentence": "この経験は彼女に多くの可能性を見せた。",
+    "sentence_furigana": "この経験【けいけん】は彼女【かのじょ】に多【おお】くの可能性【かのうせい】を見【み】せた。",
+    "meaning": "This experience showed her many possibilities."
+  },
+  {
+    "sentence": "彼は常に自己改善を目指す。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己改善【じこかいぜん】を目指【めざ】す。",
+    "meaning": "He always aims for self-improvement."
+  },
+  {
+    "sentence": "その目は知的好奇心に満ちていた。",
+    "sentence_furigana": "その目【め】は知的好奇心【ちてきこうきしん】に満【み】ちていた。",
+    "meaning": "Those eyes were full of intellectual curiosity."
+  },
+  {
+    "sentence": "彼女は常に他者の視点を理解しようとする。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】の視点【してん】を理解【りかい】しようとする。",
+    "meaning": "She always tries to understand others' perspectives."
+  },
+  {
+    "sentence": "この経験は彼の視野を広げる貴重な機会となった。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】の視野【しや】を広【ひろ】げる貴重【きちょう】な機会【きかい】となった。",
+    "meaning": "This experience became a valuable opportunity to broaden his horizons."
+  },
+  {
+    "sentence": "彼は常に新しい知識を吸収しようとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あら】しい知識【ちしき】を吸収【きゅうしゅう】しようとする。",
+    "meaning": "He always tries to absorb new knowledge."
+  },
+  {
+    "sentence": "その目は真実を追求する情熱を帯びていた。",
+    "sentence_furigana": "その目【め】は真実【しんじつ】を追求【ついきゅう】する情熱【じょうねつ】を帯【お】びていた。",
+    "meaning": "Those eyes carried a passion for pursuing truth."
+  },
+  {
+    "sentence": "彼女は常に物事の長所と短所を見極める。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に物事【ものごと】の長所【ちょうしょ】と短所【たんしょ】を見極【みきわ】める。",
+    "meaning": "She always discerns the strengths and weaknesses of things."
+  },
+  {
+    "sentence": "この経験は彼女に多くのことを学ばせてくれた。",
+    "sentence_furigana": "この経験【けいけん】は彼女【かのじょ】に多【おお】くのことを学【まな】ばせてくれた。",
+    "meaning": "This experience taught her many things."
+  },
+  {
+    "sentence": "彼は常に状況を俯瞰的に見る。",
+    "sentence_furigana": "彼【かれ】は常【つね】に状況【じょうきょう】を俯瞰的【ふかんてき】に見【み】る。",
+    "meaning": "He always views the situation from a bird's-eye view."
+  },
+  {
+    "sentence": "その目は人生の厳しさを物語っていた。",
+    "sentence_furigana": "その目【め】は人生【じんせい】の厳【きび】しさを物語【ものがた】っていた。",
+    "meaning": "Those eyes told of the harshness of life."
+  },
+  {
+    "sentence": "彼女は常に新しいアイデアを生み出す。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あら】しいアイデアを生【う】み出【だ】す。",
+    "meaning": "She always creates new ideas."
+  },
+  {
+    "sentence": "この経験は彼の成長を大きく促した。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】の成長【せいちょう】を大【おお】きく促【うなが】した。",
+    "meaning": "This experience greatly promoted his growth."
+  },
+  {
+    "sentence": "彼は常に他者の気持ちを理解しようと努める。",
+    "sentence_furigana": "彼【かれ】は常【つね】に他者【たしゃ】の気持【きも】ちを理解【りかい】しようと努【つと】める。",
+    "meaning": "He always tries to understand the feelings of others."
+  },
+  {
+    "sentence": "その目は将来への期待に輝いていた。",
+    "sentence_furigana": "その目【め】は将来【しょうらい】への期待【きたい】に輝【かがや】いていた。",
+    "meaning": "Those eyes shone with anticipation for the future."
+  },
+  {
+    "sentence": "彼女は常に物事の関連性を見出す。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に物事【ものごと】の関連性【かんれんせい】を見出【みいだ】す。",
+    "meaning": "She always finds the connections between things."
+  },
+  {
+    "sentence": "この経験は彼に多くの自信を与えた。",
+    "sentence_furigana": "この経験【けいけん】は彼【かれ】に多【おお】くの自信【じしん】を与【あた】えた。",
+    "meaning": "This experience gave him a lot of confidence."
+  },
+  {
+    "sentence": "彼は常に変化を恐れずに挑戦する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に変化【へんか】を恐【おそ】れずに挑戦【ちょうせん】する。",
+    "meaning": "He always challenges himself without fearing change."
+  },
+  {
+    "sentence": "その目は過去の経験を物語っていた。",
+    "sentence_furigana": "その目【め】は過去【かこ】の経験【けいけん】を物語【ものがた】っていた。",
+    "meaning": "Those eyes told of past experiences."
+  },
+  {
+    "sentence": "彼女は常に物事の本質を見抜く洞察力がある。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に物事【ものごと】の本質【ほんしつ】を見抜【みぬ】く洞察力【どうさつりょく】がある。",
+    "meaning": "She always has the insight to see through the essence of things."
+  }
+]

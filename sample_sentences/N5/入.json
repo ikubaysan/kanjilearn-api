@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "会議室に入ってください。",
+    "sentence_furigana": "会議室【かいぎしつ】に入【はい】ってください。",
+    "meaning": "Please enter the conference room."
+  },
+  {
+    "sentence": "新入生が入学する。",
+    "sentence_furigana": "新入生【しんにゅうせい】が入学【にゅうがく】する。",
+    "meaning": "New students enter the school."
+  },
+  {
+    "sentence": "彼は会社に入ったばかりだ。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】に入【はい】ったばかりだ。",
+    "meaning": "He has just joined the company."
+  },
+  {
+    "sentence": "温泉に入るのは気持ちがいい。",
+    "sentence_furigana": "温泉【おんせん】に入【はい】るのは気持【きも】ちがいい。",
+    "meaning": "It feels good to enter a hot spring."
+  },
+  {
+    "sentence": "詳細を入力してください。",
+    "sentence_furigana": "詳細【しょうさい】を入力【にゅうりょく】してください。",
+    "meaning": "Please enter the details."
+  },
+  {
+    "sentence": "データが入力された。",
+    "sentence_furigana": "データが入力【にゅうりょく】された。",
+    "meaning": "Data has been entered."
+  },
+  {
+    "sentence": "情報が耳に入った。",
+    "sentence_furigana": "情報【じょうほう】が耳【みみ】に入【はい】った。",
+    "meaning": "Information came to my ears."
+  },
+  {
+    "sentence": "川に石を投げ入れる。",
+    "sentence_furigana": "川【かわ】に石【いし】を投【な】げ入【い】れる。",
+    "meaning": "Throw a stone into the river."
+  },
+  {
+    "sentence": "部屋に入る前にノックしてください。",
+    "sentence_furigana": "部屋【へや】に入【はい】る前【まえ】にノックしてください。",
+    "meaning": "Please knock before entering the room."
+  },
+  {
+    "sentence": "会員登録に入会する。",
+    "sentence_furigana": "会員登録【かいいんとうろく】に入会【にゅうかい】する。",
+    "meaning": "Join as a member."
+  },
+  {
+    "sentence": "深呼吸して空気を取り入れる。",
+    "sentence_furigana": "深呼吸【しんこきゅう】して空気【くうき】を取【と】り入【い】れる。",
+    "meaning": "Take a deep breath and inhale air."
+  },
+  {
+    "sentence": "新しいアイデアを取り入れる。",
+    "sentence_furigana": "新【あたら】しいアイデアを取【と】り入【い】れる。",
+    "meaning": "Incorporate new ideas."
+  },
+  {
+    "sentence": "彼は政治の世界に入った。",
+    "sentence_furigana": "彼【かれ】は政治【せいじ】の世界【せかい】に入【はい】った。",
+    "meaning": "He entered the world of politics."
+  },
+  {
+    "sentence": "試合に出場するために練習に励む。",
+    "sentence_furigana": "試合【しあい】に出場【しゅつじょう】するために練習【れんしゅう】に励【はげ】む。",
+    "meaning": "To participate in the competition, I will devote myself to practice."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトに参入した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトに参入【さんにゅう】した。",
+    "meaning": "He joined a new project."
+  },
+  {
+    "sentence": "チームに入って一緒に頑張ろう。",
+    "sentence_furigana": "チームに入【はい】って一緒【いっしょ】に頑張【がんば】ろう。",
+    "meaning": "Let's join the team and work hard together."
+  },
+  {
+    "sentence": "私はそのサークルに入りたい。",
+    "sentence_furigana": "私【わたし】はそのサークルに入【はい】りたい。",
+    "meaning": "I want to join that club."
+  },
+  {
+    "sentence": "彼らは新しい段階に入った。",
+    "sentence_furigana": "彼【かれ】らは新【あたら】しい段階【だんかい】に入【はい】った。",
+    "meaning": "They entered a new stage."
+  },
+  {
+    "sentence": "私は彼らの会話に入りたくなかった。",
+    "sentence_furigana": "私【わたし】は彼【かれ】らの会話【かいわ】に入【はい】りたくなかった。",
+    "meaning": "I didn't want to enter their conversation."
+  },
+  {
+    "sentence": "彼は議論に入ろうとしなかった。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】に入【はい】ろうとしなかった。",
+    "meaning": "He didn't try to enter the discussion."
+  },
+  {
+    "sentence": "彼女は家に入るのをためらった。",
+    "sentence_furigana": "彼女【かのじょ】は家【いえ】に入【はい】るのをためらった。",
+    "meaning": "She hesitated to enter the house."
+  },
+  {
+    "sentence": "彼は迷わず川に入った。",
+    "sentence_furigana": "彼【かれ】は迷【まよ】わず川【かわ】に入【はい】った。",
+    "meaning": "He entered the river without hesitation."
+  },
+  {
+    "sentence": "彼女は部屋にそっと入った。",
+    "sentence_furigana": "彼女【かのじょ】は部屋【へや】にそっと入【はい】った。",
+    "meaning": "She quietly entered the room."
+  },
+  {
+    "sentence": "彼はグループに入ることを決めた。",
+    "sentence_furigana": "彼【かれ】はグループに入【はい】ることを決【き】めた。",
+    "meaning": "He decided to join the group."
+  },
+  {
+    "sentence": "彼女は競争に入った。",
+    "sentence_furigana": "彼女【かのじょ】は競争【きょうそう】に入【はい】った。",
+    "meaning": "She entered the competition."
+  },
+  {
+    "sentence": "彼はその計画に深く入り込んでいる。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】に深【ふか】く入【はい】り込【こ】んでいる。",
+    "meaning": "He is deeply involved in the plan."
+  },
+  {
+    "sentence": "彼女は夢の世界に入り込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は夢【ゆめ】の世界【せかい】に入【はい】り込【こ】んだ。",
+    "meaning": "She entered a dream world."
+  },
+  {
+    "sentence": "彼は罠に入ってしまった。",
+    "sentence_furigana": "彼【かれ】は罠【わな】に入【はい】ってしまった。",
+    "meaning": "He fell into the trap."
+  },
+  {
+    "sentence": "彼女は議論に割り入った。",
+    "sentence_furigana": "彼女【かのじょ】は議論【ぎろん】に割【わ】り入【はい】った。",
+    "meaning": "She interrupted the discussion."
+  },
+  {
+    "sentence": "彼は事件の調査に入った。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の調査【ちょうさ】に入【はい】った。",
+    "meaning": "He started investigating the case."
+  },
+  {
+    "sentence": "彼女は研究の道に入った。",
+    "sentence_furigana": "彼女【かのじょ】は研究【けんきゅう】の道【みち】に入【はい】った。",
+    "meaning": "She entered the path of research."
+  },
+  {
+    "sentence": "彼は会社を退職して、新しい事業に入った。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】を退職【たいしょく】して、新【あたら】しい事業【じぎょう】に入【はい】った。",
+    "meaning": "He retired from the company and started a new business."
+  },
+  {
+    "sentence": "新しいメンバーがチームに入った。",
+    "sentence_furigana": "新【あたら】しいメンバーがチームに入【はい】った。",
+    "meaning": "A new member joined the team."
+  },
+  {
+    "sentence": "彼は大学に入学した。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】に入学【にゅうがく】した。",
+    "meaning": "He entered the university."
+  },
+  {
+    "sentence": "私はそのイベントに参加するために申し込んだ。",
+    "sentence_furigana": "私【わたし】はそのイベントに参加【さんか】するために申【もう】し込【こ】んだ。",
+    "meaning": "I applied to participate in the event."
+  },
+  {
+    "sentence": "データを入力する。",
+    "sentence_furigana": "データを入【にゅう】力【りょく】する。",
+    "meaning": "Enter the data."
+  },
+  {
+    "sentence": "彼は会議に参加した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に参加【さんか】した。",
+    "meaning": "He participated in the meeting."
+  },
+  {
+    "sentence": "私は新しいクラブに入りたいと思っています。",
+    "sentence_furigana": "私【わたし】は新【あたら】しいクラブに入【はい】りたいと思【おも】っています。",
+    "meaning": "I am thinking of joining a new club."
+  },
+  {
+    "sentence": "彼はグループに入ることを希望した。",
+    "sentence_furigana": "彼【かれ】はグループに入【はい】ることを希望【きぼう】した。",
+    "meaning": "He hoped to join the group."
+  },
+  {
+    "sentence": "彼女は議論に参加することを避けた。",
+    "sentence_furigana": "彼女【かのじょ】は議論【ぎろん】に参加【さんか】することを避【さ】けた。",
+    "meaning": "She avoided participating in the discussion."
+  },
+  {
+    "sentence": "彼は事件の捜査に入った。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の捜査【そうさ】に入【はい】った。",
+    "meaning": "He began investigating the case."
+  },
+  {
+    "sentence": "私はコンテストに参加することにした。",
+    "sentence_furigana": "私【わたし】はコンテストに参加【さんか】することにした。",
+    "meaning": "I decided to participate in the contest."
+  },
+  {
+    "sentence": "彼は迷路に入り込んでしまった。",
+    "sentence_furigana": "彼【かれ】は迷路【めいろ】に入【はい】り込【こ】んでしまった。",
+    "meaning": "He got lost in the maze."
+  },
+  {
+    "sentence": "彼女は物語の世界に入り込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は物語【ものがたり】の世界【せかい】に入【はい】り込【こ】んだ。",
+    "meaning": "She entered the world of the story."
+  },
+  {
+    "sentence": "彼はそのゲームに夢中に入り込んでいる。",
+    "sentence_furigana": "彼【かれ】はそのゲームに夢中【むちゅう】に入【はい】り込【こ】んでいる。",
+    "meaning": "He is absorbed in the game."
+  },
+  {
+    "sentence": "彼女は新しい部署に入る。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい部署【ぶしょ】に入【はい】る。",
+    "meaning": "She will join a new department."
+  },
+  {
+    "sentence": "彼は新しい仕事に入る。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい仕事【しごと】に入【はい】る。",
+    "meaning": "He will start a new job."
+  },
+  {
+    "sentence": "彼女は新しい趣味に足を踏み入れた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい趣味【しゅみ】に足【あし】を踏【ふ】み入【い】れた。",
+    "meaning": "She stepped into a new hobby."
+  },
+  {
+    "sentence": "彼は危険な状況に足を踏み入れた。",
+    "sentence_furigana": "彼【かれ】は危険【きけん】な状況【じょうきょう】に足【あし】を踏【ふ】み入【い】れた。",
+    "meaning": "He stepped into a dangerous situation."
+  },
+  {
+    "sentence": "新しい技術を取り入れる。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】を取【と】り入【い】れる。",
+    "meaning": "Incorporate new technologies."
+  },
+  {
+    "sentence": "顧客の意見を取り入れる。",
+    "sentence_furigana": "顧客【こきゃく】の意見【いけん】を取【と】り入【い】れる。",
+    "meaning": "Incorporate customer feedback."
+  },
+  {
+    "sentence": "新しい要素を取り入れる。",
+    "sentence_furigana": "新【あたら】しい要素【ようそ】を取【と】り入【い】れる。",
+    "meaning": "Incorporate new elements."
+  },
+  {
+    "sentence": "彼は会社に新しい風を吹き入れた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】に新【あたら】しい風【かぜ】を吹【ふ】き入【い】れた。",
+    "meaning": "He brought a breath of fresh air into the company."
+  },
+  {
+    "sentence": "彼はプロジェクトに新しい視点を吹き入れた。",
+    "sentence_furigana": "彼【かれ】はプロジェクトに新【あたら】しい視点【してん】を吹【ふ】き入【い】れた。",
+    "meaning": "He brought a new perspective to the project."
+  },
+  {
+    "sentence": "彼は部屋に新しいエネルギーを吹き入れた。",
+    "sentence_furigana": "彼【かれ】は部屋【へや】に新【あたら】しいエネルギーを吹【ふ】き入【い】れた。",
+    "meaning": "He brought a new energy into the room."
+  },
+  {
+    "sentence": "彼はチームに新しいアイデアを吹き入れた。",
+    "sentence_furigana": "彼【かれ】はチームに新【あたら】しいアイデアを吹【ふ】き入【い】れた。",
+    "meaning": "He injected new ideas into the team."
+  },
+  {
+    "sentence": "彼は会議に新しい議論を吹き入れた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に新【あたら】しい議論【ぎろん】を吹【ふ】き入【い】れた。",
+    "meaning": "He injected new discussion into the meeting."
+  },
+  {
+    "sentence": "彼は音楽に情熱を注ぎ入れた。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】に情熱【じょうねつ】を注【そそ】ぎ入【い】れた。",
+    "meaning": "He poured his passion into the music."
+  },
+  {
+    "sentence": "彼女は料理に愛情を注ぎ入れた。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】に愛情【あいじょう】を注【そそ】ぎ入【い】れた。",
+    "meaning": "She poured her love into the cooking."
+  },
+  {
+    "sentence": "彼は仕事に全力を注ぎ入れた。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】に全力【ぜんりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "He poured all his energy into his work."
+  },
+  {
+    "sentence": "彼女はプロジェクトに努力を注ぎ入れた。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトに努力【どりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "She put her effort into the project."
+  },
+  {
+    "sentence": "彼は研究に時間を注ぎ入れた。",
+    "sentence_furigana": "彼【かれ】は研究【けんきゅう】に時間【じかん】を注【そそ】ぎ入【い】れた。",
+    "meaning": "He dedicated his time to the research."
+  },
+  {
+    "sentence": "彼はチームに新しいメンバーを迎え入れた。",
+    "sentence_furigana": "彼【かれ】はチームに新【あたら】しいメンバーを迎【むか】え入【い】れた。",
+    "meaning": "He welcomed a new member to the team."
+  },
+  {
+    "sentence": "彼女は新しい生徒を教室に迎え入れた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい生徒【せいと】を教室【きょうしつ】に迎【むか】え入【い】れた。",
+    "meaning": "She welcomed a new student to the classroom."
+  },
+  {
+    "sentence": "彼は会社に新しい投資家を迎え入れた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】に新【あたら】しい投資家【とうしか】を迎【むか】え入【い】れた。",
+    "meaning": "He welcomed a new investor to the company."
+  },
+  {
+    "sentence": "彼女は家に新しいペットを迎え入れた。",
+    "sentence_furigana": "彼女【かのじょ】は家【いえ】に新【あたら】しいペットを迎【むか】え入【い】れた。",
+    "meaning": "She welcomed a new pet into the house."
+  },
+  {
+    "sentence": "彼はコミュニティに新しい参加者を迎え入れた。",
+    "sentence_furigana": "彼【かれ】はコミュニティに新【あたら】しい参加者【さんかしゃ】を迎【むか】え入【い】れた。",
+    "meaning": "He welcomed a new participant into the community."
+  },
+  {
+    "sentence": "彼は企画に入念な準備をした。",
+    "sentence_furigana": "彼【かれ】は企画【きかく】に入念【にゅうねん】な準備【じゅんび】をした。",
+    "meaning": "He made careful preparations for the project."
+  },
+  {
+    "sentence": "彼女は会議に入念な計画を立てた。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】に入念【にゅうねん】な計画【けいかく】を立【た】てた。",
+    "meaning": "She made a careful plan for the meeting."
+  },
+  {
+    "sentence": "彼は研究に入念な調査を行った。",
+    "sentence_furigana": "彼【かれ】は研究【けんきゅう】に入念【にゅうねん】な調査【ちょうさ】を行【おこな】った。",
+    "meaning": "He conducted a careful investigation for the research."
+  },
+  {
+    "sentence": "彼女はプレゼンテーションに入念な練習をした。",
+    "sentence_furigana": "彼女【かのじょ】はプレゼンテーションに入念【にゅうねん】な練習【れんしゅう】をした。",
+    "meaning": "She practiced carefully for the presentation."
+  },
+  {
+    "sentence": "彼は交渉に入念な戦略を立てた。",
+    "sentence_furigana": "彼【かれ】は交渉【こうしょう】に入念【にゅうねん】な戦略【せんりゃく】を立【た】てた。",
+    "meaning": "He made a careful strategy for the negotiation."
+  },
+  {
+    "sentence": "彼は議論に積極的に参加した。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】に積極的【せっきょくてき】に参加【さんか】した。",
+    "meaning": "He actively participated in the discussion."
+  },
+  {
+    "sentence": "彼女はプロジェクトに積極的に参加した。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトに積極的【せっきょくてき】に参加【さんか】した。",
+    "meaning": "She actively participated in the project."
+  },
+  {
+    "sentence": "彼はボランティア活動に積極的に参加した。",
+    "sentence_furigana": "彼【かれ】はボランティア活動【かつどう】に積極的【せっきょくてき】に参加【さんか】した。",
+    "meaning": "He actively participated in volunteer activities."
+  },
+  {
+    "sentence": "彼女はイベントに積極的に参加した。",
+    "sentence_furigana": "彼女【かのじょ】はイベントに積極的【せっきょくてき】に参加【さんか】した。",
+    "meaning": "She actively participated in the event."
+  },
+  {
+    "sentence": "彼はコミュニティ活動に積極的に参加した。",
+    "sentence_furigana": "彼【かれ】はコミュニティ活動【かつどう】に積極的【せっきょくてき】に参加【さんか】した。",
+    "meaning": "He actively participated in community activities."
+  },
+  {
+    "sentence": "彼は会社に新しいシステムを導入した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】に新【あたら】しいシステムを導入【どうにゅう】した。",
+    "meaning": "He introduced a new system to the company."
+  },
+  {
+    "sentence": "彼女は学校に新しいプログラムを導入した。",
+    "sentence_furigana": "彼女【かのじょ】は学校【がっこう】に新【あたら】しいプログラムを導入【どうにゅう】した。",
+    "meaning": "She introduced a new program to the school."
+  },
+  {
+    "sentence": "彼はプロジェクトに新しい技術を導入した。",
+    "sentence_furigana": "彼【かれ】はプロジェクトに新【あたら】しい技術【ぎじゅつ】を導入【どうにゅう】した。",
+    "meaning": "He introduced new technology to the project."
+  },
+  {
+    "sentence": "彼女はチームに新しい戦略を導入した。",
+    "sentence_furigana": "彼女【かのじょ】はチームに新【あたら】しい戦略【せんりゃく】を導入【どうにゅう】した。",
+    "meaning": "She introduced a new strategy to the team."
+  },
+  {
+    "sentence": "彼は地域に新しいサービスを導入した。",
+    "sentence_furigana": "彼【かれ】は地域【ちいき】に新【あたら】しいサービスを導入【どうにゅう】した。",
+    "meaning": "He introduced a new service to the area."
+  },
+  {
+    "sentence": "彼は仕事に集中力を注ぎ入れた。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】に集中力【しゅうちゅうりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "He put all his concentration into his work."
+  },
+  {
+    "sentence": "彼女は勉強に集中力を注ぎ入れた。",
+    "sentence_furigana": "彼女【かのじょ】は勉強【べんきょう】に集中力【しゅうちゅうりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "She put all her concentration into studying."
+  },
+  {
+    "sentence": "彼はスポーツに集中力を注ぎ入れた。",
+    "sentence_furigana": "彼【かれ】はスポーツに集中力【しゅうちゅうりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "He put all his concentration into sports."
+  },
+  {
+    "sentence": "彼女は芸術に集中力を注ぎ入れた。",
+    "sentence_furigana": "彼女【かのじょ】は芸術【げいじゅつ】に集中力【しゅうちゅうりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "She put all her concentration into art."
+  },
+  {
+    "sentence": "彼は研究に集中力を注ぎ入れた。",
+    "sentence_furigana": "彼【かれ】は研究【けんきゅう】に集中力【しゅうちゅうりょく】を注【そそ】ぎ入【い】れた。",
+    "meaning": "He put all his concentration into research."
+  },
+  {
+    "sentence": "彼は議論に積極的に介入した。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】に積極的【せっきょくてき】に介入【かいにゅう】した。",
+    "meaning": "He actively intervened in the discussion."
+  },
+  {
+    "sentence": "彼女は紛争に積極的に介入した。",
+    "sentence_furigana": "彼女【かのじょ】は紛争【ふんそう】に積極的【せっきょくてき】に介入【かいにゅう】した。",
+    "meaning": "She actively intervened in the conflict."
+  },
+  {
+    "sentence": "彼は問題解決に積極的に介入した。",
+    "sentence_furigana": "彼【かれ】は問題解決【もんだいかいけつ】に積極的【せっきょくてき】に介入【かいにゅう】した。",
+    "meaning": "He actively intervened in problem solving."
+  },
+  {
+    "sentence": "彼女はプロジェクトの遅延に積極的に介入した。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトの遅延【ちえん】に積極的【せっきょくてき】に介入【かいにゅう】した。",
+    "meaning": "She actively intervened in the project delay."
+  },
+  {
+    "sentence": "彼は危機管理に積極的に介入した。",
+    "sentence_furigana": "彼【かれ】は危機管理【ききかんり】に積極的【せっきょくてき】に介入【かいにゅう】した。",
+    "meaning": "He actively intervened in crisis management."
+  },
+  {
+    "sentence": "彼は会議室に入った。",
+    "sentence_furigana": "彼【かれ】は会議室【かいぎしつ】に入【はい】った。",
+    "meaning": "He entered the conference room."
+  },
+  {
+    "sentence": "彼女は部屋に入った。",
+    "sentence_furigana": "彼女【かのじょ】は部屋【へや】に入【はい】った。",
+    "meaning": "She entered the room."
+  },
+  {
+    "sentence": "彼らは学校に入った。",
+    "sentence_furigana": "彼【かれ】らは学校【がっこう】に入【はい】った。",
+    "meaning": "They entered the school."
+  },
+  {
+    "sentence": "私は店に入った。",
+    "sentence_furigana": "私【わたし】は店【みせ】に入【はい】った。",
+    "meaning": "I entered the store."
+  },
+  {
+    "sentence": "私たちは家に入った。",
+    "sentence_furigana": "私【わたし】たちは家【いえ】に入【はい】った。",
+    "meaning": "We entered the house."
+  },
+  {
+    "sentence": "彼はグループに入った。",
+    "sentence_furigana": "彼【かれ】はグループに入【はい】った。",
+    "meaning": "He joined the group."
+  },
+  {
+    "sentence": "彼女はチームに入った。",
+    "sentence_furigana": "彼女【かのじょ】はチームに入【はい】った。",
+    "meaning": "She joined the team."
+  },
+  {
+    "sentence": "彼らは組織に入った。",
+    "sentence_furigana": "彼【かれ】らは組織【そしき】に入【はい】った。",
+    "meaning": "They joined the organization."
+  },
+  {
+    "sentence": "私はクラブに入った。",
+    "sentence_furigana": "私【わたし】はクラブに入【はい】った。",
+    "meaning": "I joined the club."
+  },
+  {
+    "sentence": "私たちはコミュニティに入った。",
+    "sentence_furigana": "私【わたし】たちはコミュニティに入【はい】った。",
+    "meaning": "We joined the community."
+  }
+]

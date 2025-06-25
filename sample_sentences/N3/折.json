@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "彼は枝を折った。",
+    "sentence_furigana": "彼【かれ】は枝【えだ】を折ઓত্ত。",
+    "meaning": "He broke a branch."
+  },
+  {
+    "sentence": "紙を折って鶴を作った。",
+    "sentence_furigana": "紙【かみ】を折ōōて鶴【つる】を作ōōた。",
+    "meaning": "I folded paper to make a crane."
+  },
+  {
+    "sentence": "傘が折れてしまった。",
+    "sentence_furigana": "傘【かさ】が折ōōてしまった。",
+    "meaning": "The umbrella broke."
+  },
+  {
+    "sentence": "足を骨折した。",
+    "sentence_furigana": "足【あし】を骨折【こっせつ】した。",
+    "meaning": "I broke my leg."
+  },
+  {
+    "sentence": "彼は意見を曲げなかった。",
+    "sentence_furigana": "彼【かれ】は意見【いけん】を曲【ま】げなかった。",
+    "meaning": "He did not bend his opinion."
+  },
+  {
+    "sentence": "相手に折れることにした。",
+    "sentence_furigana": "相手【あいて】に折ōōることにした。",
+    "meaning": "I decided to yield to the other party."
+  },
+  {
+    "sentence": "彼は戦いを避けて降伏した。",
+    "sentence_furigana": "彼【かれ】は戦【たたか】いを避ōōて降伏【こうふく】した。",
+    "meaning": "He avoided the fight and submitted."
+  },
+  {
+    "sentence": "手紙を二つに折った。",
+    "sentence_furigana": "手紙【てがみ】を二つ【ふたつ】に折ōōた。",
+    "meaning": "I folded the letter in two."
+  },
+  {
+    "sentence": "船が難破して折れた。",
+    "sentence_furigana": "船【ふね】が難破【なんぱ】して折ōōた。",
+    "meaning": "The ship was wrecked and broke."
+  },
+  {
+    "sentence": "彼の提案に折れた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】に折ōōた。",
+    "meaning": "I yielded to his proposal."
+  },
+  {
+    "sentence": "雨で木の枝が折れた。",
+    "sentence_furigana": "雨【あめ】で木【き】の枝【えだ】が折ōōた。",
+    "meaning": "The tree branch broke due to the rain."
+  },
+  {
+    "sentence": "折り紙で船を作った。",
+    "sentence_furigana": "折ōōり紙【がみ】で船【ふね】を作ōōた。",
+    "meaning": "I made a boat out of origami."
+  },
+  {
+    "sentence": "彼は簡単に屈した。",
+    "sentence_furigana": "彼【かれ】は簡単【かんたん】に屈【くっ】した。",
+    "meaning": "He yielded easily."
+  },
+  {
+    "sentence": "新しい考えに折れやすい。",
+    "sentence_furigana": "新【あたら】しい考【かんが】えに折ōōれやすい。",
+    "meaning": "It's easy to bend to new ideas."
+  },
+  {
+    "sentence": "彼は折れない心を持っていた。",
+    "sentence_furigana": "彼【かれ】は折ōōれない心【こころ】を持ōōっていた。",
+    "meaning": "He had an indomitable spirit."
+  },
+  {
+    "sentence": "約束を破ってしまった。",
+    "sentence_furigana": "約束【やくそく】を破ōōてしまった。",
+    "meaning": "I broke my promise."
+  },
+  {
+    "sentence": "机の脚が折れた。",
+    "sentence_furigana": "机【つくえ】の脚【あし】が折ōōた。",
+    "meaning": "The leg of the desk broke."
+  },
+  {
+    "sentence": "彼は折衝に長けている。",
+    "sentence_furigana": "彼【かれ】は折衝【せっしょう】に長ōōけている。",
+    "meaning": "He is skilled at negotiation."
+  },
+  {
+    "sentence": "この布は折り目がつきにくい。",
+    "sentence_furigana": "この布【ぬの】は折ōōり目【め】がつきにくい。",
+    "meaning": "This cloth is resistant to creasing."
+  },
+  {
+    "sentence": "彼は最後まで抵抗した。",
+    "sentence_furigana": "彼【かれ】は最【さい】後【ご】まで抵抗【ていこう】した。",
+    "meaning": "He resisted until the end."
+  },
+  {
+    "sentence": "飛行機が途中で折れた。",
+    "sentence_furigana": "飛行機【ひこうき】が途中【とちゅう】で折ōōた。",
+    "meaning": "The airplane broke in mid-flight."
+  },
+  {
+    "sentence": "彼女は意見を変えなかった。",
+    "sentence_furigana": "彼女【かのじょ】は意見【いけん】を変ōōえなかった。",
+    "meaning": "She did not change her opinion."
+  },
+  {
+    "sentence": "彼は議論で折れた。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】で折ōōた。",
+    "meaning": "He yielded in the argument."
+  },
+  {
+    "sentence": "このペンはもう折れた。",
+    "sentence_furigana": "このペンはもう折ōōた。",
+    "meaning": "This pen is already broken."
+  },
+  {
+    "sentence": "子供が積み木を折った。",
+    "sentence_furigana": "子供【こども】が積ōōき木【ぎ】を折ōōた。",
+    "meaning": "The child broke the building blocks."
+  },
+  {
+    "sentence": "彼は折よく現れた。",
+    "sentence_furigana": "彼【かれ】は折ōōよく現ōōれた。",
+    "meaning": "He appeared at a opportune moment."
+  },
+  {
+    "sentence": "刀が途中で折れた。",
+    "sentence_furigana": "刀【かたな】が途中【とちゅう】で折ōōた。",
+    "meaning": "The sword broke in the middle."
+  },
+  {
+    "sentence": "彼は敵に降参した。",
+    "sentence_furigana": "彼【かれ】は敵【てき】に降参【こうさん】した。",
+    "meaning": "He surrendered to the enemy."
+  },
+  {
+    "sentence": "窓ガラスが割れてしまった。",
+    "sentence_furigana": "窓【まど】ガラスが割ōōてしまった。",
+    "meaning": "The window pane broke."
+  },
+  {
+    "sentence": "彼は自分の過ちに折れた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過ōōち折ōōた。",
+    "meaning": "He yielded to his own mistake."
+  },
+  {
+    "sentence": "この曲は折れ線グラフで表される。",
+    "sentence_furigana": "この曲ōōは折ōō線【せん】グラフで表ōōされる。",
+    "meaning": "This song is represented by a broken line graph."
+  },
+  {
+    "sentence": "彼の意志は決して折れない。",
+    "sentence_furigana": "彼【かれ】の意志【いし】は決ōōして折ōōれない。",
+    "meaning": "His will is unbreakable."
+  },
+  {
+    "sentence": "彼女は厳しい要求に屈した。",
+    "sentence_furigana": "彼女【かのじょ】は厳ōōしい要求【ようきゅう】に屈ōōした。",
+    "meaning": "She yielded to the strict demands."
+  },
+  {
+    "sentence": "紙飛行機を折って遊んだ。",
+    "sentence_furigana": "紙【かみ】飛行機【ひこうき】を折ōōて遊ōōた。",
+    "meaning": "I folded a paper airplane and played."
+  },
+  {
+    "sentence": "彼は反対意見に屈服した。",
+    "sentence_furigana": "彼【かれ】は反対【はんたい】意見【いけん】に屈服【くっぷく】した。",
+    "meaning": "He submitted to the opposing opinion."
+  },
+  {
+    "sentence": "ペンが折れてしまったので書き直した。",
+    "sentence_furigana": "ペンが折ōōてしまったので書ōōき直ōōた。",
+    "meaning": "Since the pen broke, I rewrote it."
+  },
+  {
+    "sentence": "相手の要求を呑むことにした。",
+    "sentence_furigana": "相手【あいて】の要求【ようきゅう】を呑ōōことにした。",
+    "meaning": "I decided to accept the other party's demands."
+  },
+  {
+    "sentence": "彼の頑固な性格は折れない。",
+    "sentence_furigana": "彼【かれ】の頑固【がんこ】な性格【せいかく】は折ōōれない。",
+    "meaning": "His stubborn personality cannot be broken."
+  },
+  {
+    "sentence": "包装紙をきれいに折った。",
+    "sentence_furigana": "包装紙【ほうそうし】を綺麗【きれい】に折ōōた。",
+    "meaning": "I folded the wrapping paper neatly."
+  },
+  {
+    "sentence": "彼はプレッシャーに耐えきれなかった。",
+    "sentence_furigana": "彼【かれ】はプレッシャーに耐ōōきれなかった。",
+    "meaning": "He couldn't withstand the pressure."
+  },
+  {
+    "sentence": "彼女は批判に屈しなかった。",
+    "sentence_furigana": "彼女【かのじょ】は批判【ひはん】に屈ōōしなかった。",
+    "meaning": "She did not yield to criticism."
+  },
+  {
+    "sentence": "古いタオルはもう折れない。",
+    "sentence_furigana": "古ōōいタオルはもう折ōōれない。",
+    "meaning": "The old towel can no longer be folded."
+  },
+  {
+    "sentence": "彼は何度も頭を下げた。",
+    "sentence_furigana": "彼【かれ】は何度【なんど】も頭【あたま】を下げた。",
+    "meaning": "He bowed his head many times."
+  },
+  {
+    "sentence": "この地図は折りたたむことができる。",
+    "sentence_furigana": "この地図【ちず】は折ōōたたむことができōō。",
+    "meaning": "This map can be folded."
+  },
+  {
+    "sentence": "彼は困難に屈しなかった。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】に屈ōōしなかった。",
+    "meaning": "He did not yield to hardship."
+  },
+  {
+    "sentence": "木の枝が風で折れた。",
+    "sentence_furigana": "木【き】の枝【えだ】が風【かぜ】で折ōōた。",
+    "meaning": "The tree branch broke in the wind."
+  },
+  {
+    "sentence": "彼は交渉で譲歩した。",
+    "sentence_furigana": "彼【かれ】は交渉【こうしょう】で譲歩【じょうほ】した。",
+    "meaning": "He made concessions in the negotiation."
+  },
+  {
+    "sentence": "書類を半分に折った。",
+    "sentence_furigana": "書類【しょるい】を半分【はんぶん】に折ōōた。",
+    "meaning": "I folded the documents in half."
+  },
+  {
+    "sentence": "彼女は圧力に屈した。",
+    "sentence_furigana": "彼女【かのじょ】は圧力【あつりょく】に屈ōōした。",
+    "meaning": "She yielded to the pressure."
+  },
+  {
+    "sentence": "この紙は折りやすい。",
+    "sentence_furigana": "この紙【かみ】は折ōōりやすい。",
+    "meaning": "This paper is easy to fold."
+  },
+  {
+    "sentence": "彼は命令に服従した。",
+    "sentence_furigana": "彼【かれ】は命令【めいれい】に服従【ふくじゅう】した。",
+    "meaning": "He obeyed the order."
+  },
+  {
+    "sentence": "ギターの弦が切れた。",
+    "sentence_furigana": "ギターの弦【げん】が切ōōた。",
+    "meaning": "The guitar string snapped."
+  },
+  {
+    "sentence": "彼は敵前逃亡した。",
+    "sentence_furigana": "彼【かれ】は敵前【てきぜん】逃亡【とうぼう】した。",
+    "meaning": "He deserted from the front lines."
+  },
+  {
+    "sentence": "彼女は要求を認めさせた。",
+    "sentence_furigana": "彼女【かのじょ】は要求【ようきゅう】を認ōōさせた。",
+    "meaning": "She made them accept her demands."
+  },
+  {
+    "sentence": "この箱は折りたたむことができる。",
+    "sentence_furigana": "この箱【はこ】は折ōōたたむことができōō。",
+    "meaning": "This box can be folded."
+  },
+  {
+    "sentence": "彼は自分の間違いを認めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の間違ōōを認ōōた。",
+    "meaning": "He admitted his mistake."
+  },
+  {
+    "sentence": "子供がおもちゃの車を壊した。",
+    "sentence_furigana": "子供【こども】がおもちゃの車【くるま】を壊ōōた。",
+    "meaning": "The child broke the toy car."
+  },
+  {
+    "sentence": "彼は権威に屈した。",
+    "sentence_furigana": "彼【かれ】は権威【けんい】に屈ōōした。",
+    "meaning": "He yielded to authority."
+  },
+  {
+    "sentence": "このレポートは折り返し送り返してください。",
+    "sentence_furigana": "このレポートは折ōō返ōōし送ōōり返ōōしてください。",
+    "meaning": "Please fold this report and send it back."
+  },
+  {
+    "sentence": "彼は苦境に立たされた。",
+    "sentence_furigana": "彼【かれ】は苦境【くきょう】に立ōōされた。",
+    "meaning": "He was put in a difficult situation."
+  },
+  {
+    "sentence": "彼女は要求を撤回した。",
+    "sentence_furigana": "彼女【かのじょ】は要求【ようきゅう】を撤回【てっかい】した。",
+    "meaning": "She withdrew her demands."
+  },
+  {
+    "sentence": "彼は命令に従った。",
+    "sentence_furigana": "彼【かれ】は命令【めいれい】に従ōōた。",
+    "meaning": "He complied with the order."
+  },
+  {
+    "sentence": "このシャツは折り目がつきやすい。",
+    "sentence_furigana": "このシャツは折ōōり目【め】がつきやすい。",
+    "meaning": "This shirt creases easily."
+  },
+  {
+    "sentence": "彼は敵の攻撃に屈した。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の攻撃【こうげき】に屈ōōした。",
+    "meaning": "He yielded to the enemy's attack."
+  },
+  {
+    "sentence": "彼女は約束を破った。",
+    "sentence_furigana": "彼女【かのじょ】は約束【やくそく】を破ōōた。",
+    "meaning": "She broke the promise."
+  },
+  {
+    "sentence": "彼は粘り強く交渉した。",
+    "sentence_furigana": "彼【かれ】は粘ōōり強ōōく交渉【こうしょう】した。",
+    "meaning": "He negotiated persistently."
+  },
+  {
+    "sentence": "この手紙を三つ折りにしてください。",
+    "sentence_furigana": "この手紙【てがみ】を三つ【みっつ】折ōōりにしてください。",
+    "meaning": "Please fold this letter into three."
+  },
+  {
+    "sentence": "彼は抵抗を諦めた。",
+    "sentence_furigana": "彼【かれ】は抵抗【ていこう】を諦ōōた。",
+    "meaning": "He gave up resisting."
+  },
+  {
+    "sentence": "彼女は要求を譲らなかった。",
+    "sentence_furigana": "彼女【かのじょ】は要求【ようきゅう】を譲ōōらなかった。",
+    "meaning": "She did not yield on her demands."
+  },
+  {
+    "sentence": "彼は圧力に屈服した。",
+    "sentence_furigana": "彼【かれ】は圧力【あつりょく】に屈服【くっぷく】した。",
+    "meaning": "He succumbed to the pressure."
+  },
+  {
+    "sentence": "この箱は簡単に壊れる。",
+    "sentence_furigana": "この箱【はこ】は簡単【かんたん】に壊ōōれる。",
+    "meaning": "This box breaks easily."
+  },
+  {
+    "sentence": "彼は最終的に折れた。",
+    "sentence_furigana": "彼【かれ】は最終的【さいしゅうてき】に折ōōた。",
+    "meaning": "He eventually yielded."
+  },
+  {
+    "sentence": "彼女は提案を受け入れた。",
+    "sentence_furigana": "彼女【かのじょ】は提案【ていあん】を受ōōけ入ōōた。",
+    "meaning": "She accepted the proposal."
+  },
+  {
+    "sentence": "彼は脅迫に屈した。",
+    "sentence_furigana": "彼【かれ】は脅迫【きょうはく】に屈ōōした。",
+    "meaning": "He yielded to the threat."
+  },
+  {
+    "sentence": "この紙は折りたたみに便利だ。",
+    "sentence_furigana": "この紙【かみ】は折ōōたたみに便利【べんり】だ。",
+    "meaning": "This paper is convenient for folding."
+  },
+  {
+    "sentence": "彼は抵抗せず降伏した。",
+    "sentence_furigana": "彼【かれ】は抵抗【ていこう】せず降伏【こうふく】した。",
+    "meaning": "He surrendered without resistance."
+  },
+  {
+    "sentence": "彼女は厳しい状況に折れた。",
+    "sentence_furigana": "彼女【かのじょ】は厳ōōしい状況【じょうきょう】に折ōōた。",
+    "meaning": "She yielded to the difficult situation."
+  },
+  {
+    "sentence": "この生地は折り目が綺麗につく。",
+    "sentence_furigana": "この生地【きじ】は折ōōり目【め】が綺麗【きれい】につく。",
+    "meaning": "This fabric creases nicely."
+  },
+  {
+    "sentence": "彼は断固として抵抗した。",
+    "sentence_furigana": "彼【かれ】は断固【だんこ】として抵抗【ていこう】した。",
+    "meaning": "He resisted resolutely."
+  },
+  {
+    "sentence": "彼女は要求を却下した。",
+    "sentence_furigana": "彼女【かのじょ】は要求【ようきゅう】を却下【きゃっか】した。",
+    "meaning": "She rejected the demands."
+  },
+  {
+    "sentence": "彼は折れない心を保っていた。",
+    "sentence_furigana": "彼【かれ】は折ōōれない心【こころ】を保ōōっていた。",
+    "meaning": "He maintained an unbreakable spirit."
+  },
+  {
+    "sentence": "この地図は小さく折れる。",
+    "sentence_furigana": "この地図【ちず】は小ōōさく折ōōれる。",
+    "meaning": "This map can be folded small."
+  },
+  {
+    "sentence": "彼は相手の譲歩を引き出した。",
+    "sentence_furigana": "彼【かれ】は相手【あいて】の譲歩【じょうほ】を引き出ōōた。",
+    "meaning": "He drew concessions from the other party."
+  },
+  {
+    "sentence": "彼女はプレッシャーに屈服しなかった。",
+    "sentence_furigana": "彼女【かのじょ】はプレッシャーに屈服【くっぷく】しなかった。",
+    "meaning": "She did not succumb to the pressure."
+  },
+  {
+    "sentence": "木の枝が風で折れてしまった。",
+    "sentence_furigana": "木【き】の枝【えだ】が風【かぜ】で折ōōてしまった。",
+    "meaning": "The tree branch broke in the wind."
+  },
+  {
+    "sentence": "彼は頑固だったが、最終的に折れた。",
+    "sentence_furigana": "彼【かれ】は頑固ōōだったが、最終的【さいしゅうてき】に折ōōた。",
+    "meaning": "He was stubborn, but eventually yielded."
+  },
+  {
+    "sentence": "彼女は批判に屈しなかった。",
+    "sentence_furigana": "彼女【かのじょ】は批判【ひはん】に屈ōōしなかった。",
+    "meaning": "She did not yield to criticism."
+  },
+  {
+    "sentence": "この折り紙はとても折りやすい。",
+    "sentence_furigana": "この折ōōり紙【がみ】はとても折ōōりやすい。",
+    "meaning": "This origami paper is very easy to fold."
+  },
+  {
+    "sentence": "彼は要求を呑まざるを得なかった。",
+    "sentence_furigana": "彼【かれ】は要求【ようきゅう】を呑ōōざるを得ōōなかった。",
+    "meaning": "He had no choice but to accept the demands."
+  },
+  {
+    "sentence": "彼女は意見を曲げた。",
+    "sentence_furigana": "彼女【かのじょ】は意見【いけん】を曲ōōた。",
+    "meaning": "She bent her opinion."
+  },
+  {
+    "sentence": "彼は敵に降伏を勧告した。",
+    "sentence_furigana": "彼【かれ】は敵【てき】に降伏【こうふく】を勧告【かんこく】した。",
+    "meaning": "He advised the enemy to surrender."
+  },
+  {
+    "sentence": "この書類はきれいに折りたたんでください。",
+    "sentence_furigana": "この書類【しょるい】は綺麗【きれい】に折ōōたたんでください。",
+    "meaning": "Please fold this document neatly."
+  },
+  {
+    "sentence": "彼は最後通牒に屈した。",
+    "sentence_furigana": "彼【かれ】は最後通牒【さいごつうちょう】に屈ōōした。",
+    "meaning": "He yielded to the ultimatum."
+  },
+  {
+    "sentence": "彼女は折れない心を貫いた。",
+    "sentence_furigana": "彼女【かのじょ】は折ōōれない心【こころ】を貫ōōた。",
+    "meaning": "She maintained an unbreakable spirit."
+  },
+  {
+    "sentence": "この傘はすぐ折れてしまう。",
+    "sentence_furigana": "この傘【かさ】はすぐ折ōōれてしまう。",
+    "meaning": "This umbrella breaks easily."
+  },
+  {
+    "sentence": "彼は交渉で妥協した。",
+    "sentence_furigana": "彼【かれ】は交渉【こうしょう】で妥協【だきょう】した。",
+    "meaning": "He compromised in the negotiation."
+  },
+  {
+    "sentence": "彼女は彼の要求を飲んだ。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】の要求【ようきゅう】を呑ōōた。",
+    "meaning": "She accepted his demands."
+  },
+  {
+    "sentence": "この紙は折り目が消えにくい。",
+    "sentence_furigana": "この紙【かみ】は折ōōり目【め】が消ōōえにくい。",
+    "meaning": "Creases are difficult to remove from this paper."
+  },
+  {
+    "sentence": "彼は屈辱に耐えた。",
+    "sentence_furigana": "彼【かれ】は屈辱【くつじょく】に耐ōōた。",
+    "meaning": "He endured the humiliation."
+  },
+  {
+    "sentence": "彼女は最後まで抵抗した。",
+    "sentence_furigana": "彼女【かのじょ】は最【さい】後【ご】まで抵抗【ていこう】した。",
+    "meaning": "She resisted until the end."
+  },
+  {
+    "sentence": "彼は脅迫に屈服した。",
+    "sentence_furigana": "彼【かれ】は脅迫【きょうはく】に屈服【くっぷく】した。",
+    "meaning": "He submitted to the threat."
+  },
+  {
+    "sentence": "この地図は携帯に便利だ。",
+    "sentence_furigana": "この地図【ちず】は携帯【けいたい】に便利【べんり】だ。",
+    "meaning": "This map is convenient to carry."
+  },
+  {
+    "sentence": "彼女は妥協を受け入れた。",
+    "sentence_furigana": "彼女【かのじょ】は妥協【だきょう】を受ōōけ入ōōた。",
+    "meaning": "She accepted the compromise."
+  }
+]

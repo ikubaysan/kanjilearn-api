@@ -1,0 +1,632 @@
+[
+  {
+    "sentence": "銑鉄は鉄鉱石から作られます。",
+    "sentence_furigana": "銑鉄【せんてつ】は鉄鉱石【てっこうせき】から作られます。",
+    "meaning": "Pig iron is made from iron ore."
+  },
+  {
+    "sentence": "この工場では銑鉄を精錬しています。",
+    "sentence_furigana": "この工場【こうじょう】では銑鉄【せんてつ】を精錬【せいれん】しています。",
+    "meaning": "This factory refines pig iron."
+  },
+  {
+    "sentence": "銑鉄の価格が上昇しました。",
+    "sentence_furigana": "銑鉄【せんてつ】の価格【かかく】が上昇【じょうしょう】しました。",
+    "meaning": "The price of pig iron has increased."
+  },
+  {
+    "sentence": "銑鉄は鋳物の原料となります。",
+    "sentence_furigana": "銑鉄【せんてつ】は鋳物【いもの】の原料【げんりょう】となります。",
+    "meaning": "Pig iron is a raw material for casting."
+  },
+  {
+    "sentence": "銑鉄の生産量は世界的に多いです。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産量【せいさんりょう】は世界的【せかいてき】に多【おお】いです。",
+    "meaning": "The production volume of pig iron is large globally."
+  },
+  {
+    "sentence": "高炉で銑鉄が生産されます。",
+    "sentence_furigana": "高炉【こうろ】で銑鉄【せんてつ】が生産【せいさん】されます。",
+    "meaning": "Pig iron is produced in a blast furnace."
+  },
+  {
+    "sentence": "銑鉄の品質管理は重要です。",
+    "sentence_furigana": "銑鉄【せんてつ】の品質管理【ひんしつかんり】は重要【じゅうよう】です。",
+    "meaning": "Quality control of pig iron is important."
+  },
+  {
+    "sentence": "銑鉄は炭素含有量が高いです。",
+    "sentence_furigana": "銑鉄【せんてつ】は炭素含有量【たんそがんゆうりょう】が多【おお】いです。",
+    "meaning": "Pig iron has a high carbon content."
+  },
+  {
+    "sentence": "新しい銑鉄の製法が開発されました。",
+    "sentence_furigana": "新【あたら】しい銑鉄【せんてつ】の製法【せいほう】が開発【かいはつ】されました。",
+    "meaning": "A new method for producing pig iron has been developed."
+  },
+  {
+    "sentence": "銑鉄の輸出入が増加しています。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸出入【ゆしゅつにゅう】が増加【ぞうか】しています。",
+    "meaning": "The import and export of pig iron are increasing."
+  },
+  {
+    "sentence": "その機械は銑鉄で作られている。",
+    "sentence_furigana": "その機械【きかい】は銑鉄【せんてつ】で作【つく】られている。",
+    "meaning": "That machine is made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の用途は多岐にわたります。",
+    "sentence_furigana": "銑鉄【せんてつ】の用途【ようと】は多岐【たき】にわたります。",
+    "meaning": "The uses of pig iron are diverse."
+  },
+  {
+    "sentence": "彼は銑鉄の専門家です。",
+    "sentence_furigana": "彼【かれ】は銑鉄【せんてつ】の専門家【せんもんか】です。",
+    "meaning": "He is an expert in pig iron."
+  },
+  {
+    "sentence": "銑鉄の鋳造は難しい。",
+    "sentence_furigana": "銑鉄【せんてつ】の鋳造【ちゅうぞう】は難【むずか】しい。",
+    "meaning": "Casting pig iron is difficult."
+  },
+  {
+    "sentence": "この橋は銑鉄で作られている。",
+    "sentence_furigana": "この橋【はし】は銑鉄【せんてつ】で作【つく】られている。",
+    "meaning": "This bridge is made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の製錬には多くのエネルギーが必要です。",
+    "sentence_furigana": "銑鉄【せんてつ】の製錬【せいれん】には多【おお】くのエネルギーが必【ひつ】ようです。",
+    "meaning": "A lot of energy is required for the smelting of pig iron."
+  },
+  {
+    "sentence": "銑鉄の取引市場が活発です。",
+    "sentence_furigana": "銑鉄【せんてつ】の取引市場【とりひきしじょう】が活発【かっぱつ】です。",
+    "meaning": "The pig iron trading market is active."
+  },
+  {
+    "sentence": "銑鉄は鋼鉄を作るための基礎材料です。",
+    "sentence_furigana": "銑鉄【せんてつ】は鋼鉄【こうてつ】を作【つく】るための基礎材料【きそざいりょう】です。",
+    "meaning": "Pig iron is a basic material for making steel."
+  },
+  {
+    "sentence": "彼は銑鉄の在庫を管理しています。",
+    "sentence_furigana": "彼【かれ】は銑鉄【せんてつ】の在庫【ざいこ】を管理【かんり】しています。",
+    "meaning": "He manages the inventory of pig iron."
+  },
+  {
+    "sentence": "銑鉄の融点は比較的高いです。",
+    "sentence_furigana": "銑鉄【せんてつ】の融点【ゆうてん】は比較的【ひかくてき】高【たか】いです。",
+    "meaning": "The melting point of pig iron is relatively high."
+  },
+  {
+    "sentence": "この彫刻は銑鉄で作られている。",
+    "sentence_furigana": "この彫刻【ちょうこく】は銑鉄【せんてつ】で作【つく】られている。",
+    "meaning": "This sculpture is made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の価格変動が業界に影響を与えています。",
+    "sentence_furigana": "銑鉄【せんてつ】の価格変動【かかくへんどう】が業界【ぎょうかい】に影響【えいきょう】を与【あた】えています。",
+    "meaning": "Pig iron price fluctuations are affecting the industry."
+  },
+  {
+    "sentence": "銑鉄の成分分析を行いました。",
+    "sentence_furigana": "銑鉄【せんてつ】の成分分析【せいぶんぶんせき】を行【おこな】いました。",
+    "meaning": "We performed a chemical analysis of the pig iron."
+  },
+  {
+    "sentence": "銑鉄の運搬には特別な設備が必要です。",
+    "sentence_furigana": "銑鉄【せんてつ】の運搬【うんぱん】には特別【とくべつ】な設備【せつび】が必要です。",
+    "meaning": "Special equipment is required for transporting pig iron."
+  },
+  {
+    "sentence": "この鉄骨は銑鉄から作られた。",
+    "sentence_furigana": "この鉄骨【てっこつ】は銑鉄【せんてつ】から作【つく】られた。",
+    "meaning": "This steel frame was made from pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場動向を調査しています。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場動向【しじょうどうこう】を調査【ちょうさ】しています。",
+    "meaning": "We are investigating market trends for pig iron."
+  },
+  {
+    "sentence": "銑鉄の純度を高める技術が開発されています。",
+    "sentence_furigana": "銑鉄【せんてつ】の純度【じゅんど】を高【たか】める技術【ぎじゅつ】が開発【かいはつ】されています。",
+    "meaning": "Technology to increase the purity of pig iron is being developed."
+  },
+  {
+    "sentence": "銑鉄の熱処理について学びました。",
+    "sentence_furigana": "銑鉄【せんてつ】の熱処理【ねつしょり】について学【まな】びました。",
+    "meaning": "I learned about the heat treatment of pig iron."
+  },
+  {
+    "sentence": "その船は銑鉄を積んで運航しています。",
+    "sentence_furigana": "その船【ふね】は銑鉄【せんてつ】を積【つ】んで運航【うんこう】しています。",
+    "meaning": "That ship is operating with a load of pig iron."
+  },
+  {
+    "sentence": "銑鉄の供給が安定しない。",
+    "sentence_furigana": "銑鉄【せんてつ】の供給【きょうきゅう】が安定【あんてい】しない。",
+    "meaning": "The supply of pig iron is unstable."
+  },
+  {
+    "sentence": "新しいタイプの銑鉄が開発された。",
+    "sentence_furigana": "新【あたら】しいタイプの銑鉄【せんてつ】が開発【かいはつ】された。",
+    "meaning": "A new type of pig iron has been developed."
+  },
+  {
+    "sentence": "銑鉄の成形加工は容易ではない。",
+    "sentence_furigana": "銑鉄【せんてつ】の成形加工【せいけいかこう】は容易【ようい】ではない。",
+    "meaning": "Forming and processing of pig iron is not easy."
+  },
+  {
+    "sentence": "銑鉄の精錬プロセスは複雑です。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬プロセス【せいれんプロセス】は複雑【ふくざつ】です。",
+    "meaning": "The smelting process of pig iron is complex."
+  },
+  {
+    "sentence": "この建物の骨組みは銑鉄で作られている。",
+    "sentence_furigana": "この建物【たてもの】の骨組【ほねぐ】みは銑鉄【せんてつ】で作【つく】られている。",
+    "meaning": "The framework of this building is made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の国際市場が注目されています。",
+    "sentence_furigana": "銑鉄【せんてつ】の国際市場【こくさいしじょう】が注目【ちゅうもく】されています。",
+    "meaning": "The international market for pig iron is attracting attention."
+  },
+  {
+    "sentence": "銑鉄の製造コストを削減する方法を研究しています。",
+    "sentence_furigana": "銑鉄【せんてつ】の製造コスト【せいぞうコスト】を削減【さくげん】する方法【ほうほう】を研究【けんきゅう】しています。",
+    "meaning": "We are researching ways to reduce the manufacturing cost of pig iron."
+  },
+  {
+    "sentence": "銑鉄は融解して型に流し込まれる。",
+    "sentence_furigana": "銑鉄【せんてつ】は融解【ゆうかい】して型【かた】に流【なが】し込【こ】まれる。",
+    "meaning": "Pig iron is melted and poured into molds."
+  },
+  {
+    "sentence": "銑鉄の貯蔵方法について学びたいです。",
+    "sentence_furigana": "銑鉄【せんてつ】の貯蔵方法【ちょぞうほうほう】について学【まな】びたいです。",
+    "meaning": "I want to learn about the storage methods for pig iron."
+  },
+  {
+    "sentence": "この古い農具は銑鉄製です。",
+    "sentence_furigana": "この古【ふる】い農具【のうぐ】は銑鉄製【せんてつせい】です。",
+    "meaning": "These old farm tools are made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の需要が世界的に高まっています。",
+    "sentence_furigana": "銑鉄【せんてつ】の需要【じゅよう】が世界的【せかいてき】に高【たか】まっています。",
+    "meaning": "The demand for pig iron is increasing globally."
+  },
+  {
+    "sentence": "銑鉄の輸送コストを削減したい。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送コスト【ゆそうコスト】を削減【さくげん】したい。",
+    "meaning": "I want to reduce the transportation cost of pig iron."
+  },
+  {
+    "sentence": "銑鉄の取り扱いには注意が必要です。",
+    "sentence_furigana": "銑鉄【せんてつ】の取扱【とりあつか】いには注意【ちゅうい】が必要です。",
+    "meaning": "Care is required when handling pig iron."
+  },
+  {
+    "sentence": "銑鉄は鋳造に適した素材です。",
+    "sentence_furigana": "銑鉄【せんてつ】は鋳造【ちゅうぞう】に適【てき】した素材【そざい】です。",
+    "meaning": "Pig iron is a material suitable for casting."
+  },
+  {
+    "sentence": "この機械部品は銑鉄で作られています。",
+    "sentence_furigana": "この機械部品【きかいぶひん】は銑鉄【せんてつ】で作【つく】られています。",
+    "meaning": "These machine parts are made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の品質検査が行われています。",
+    "sentence_furigana": "銑鉄【せんてつ】の品質検査【ひんしつけんさ】が行【おこな】われています。",
+    "meaning": "Quality inspection of pig iron is being carried out."
+  },
+  {
+    "sentence": "銑鉄の精製方法について研究しています。",
+    "sentence_furigana": "銑鉄【せんてつ】の精製方法【せいせいほうほう】について研究【けんきゅう】しています。",
+    "meaning": "We are researching methods for refining pig iron."
+  },
+  {
+    "sentence": "銑鉄は鉄鋼業の基盤です。",
+    "sentence_furigana": "銑鉄【せんてつ】は鉄鋼業【てっこうぎょう】の基盤【きばん】です。",
+    "meaning": "Pig iron is the foundation of the steel industry."
+  },
+  {
+    "sentence": "この貨物は銑鉄で満載されています。",
+    "sentence_furigana": "この貨物【かもつ】は銑鉄【せんてつ】で満載【まんさい】されています。",
+    "meaning": "This cargo is fully loaded with pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場価格が安定化しました。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場価格【しじょうかかく】が安定化【あんていか】しました。",
+    "meaning": "The market price of pig iron has stabilized."
+  },
+  {
+    "sentence": "銑鉄の輸送には大型船が使われます。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】には大型船【おおがたせん】が使【つか】われます。",
+    "meaning": "Large ships are used for transporting pig iron."
+  },
+  {
+    "sentence": "銑鉄の鋳造温度を管理することが重要です。",
+    "sentence_furigana": "銑鉄【せんてつ】の鋳造温度【ちゅうぞうおんど】を管理【かんり】することが重要【じゅうよう】です。",
+    "meaning": "It is important to control the casting temperature of pig iron."
+  },
+  {
+    "sentence": "銑鉄の生産技術の進歩が期待されています。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産技術【せいさんぎじゅつ】の進歩【しんぽ】が期待【きたい】されています。",
+    "meaning": "Advancement in pig iron production technology is expected."
+  },
+  {
+    "sentence": "この橋の構造材は銑鉄です。",
+    "sentence_furigana": "この橋【はし】の構造材【こうぞうざい】は銑鉄【せんてつ】です。",
+    "meaning": "The structural material of this bridge is pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場分析レポートを作成しました。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場分析【しじょうぶんせき】レポートを作成【さくせい】しました。",
+    "meaning": "We created a market analysis report for pig iron."
+  },
+  {
+    "sentence": "銑鉄の供給網を強化する必要があります。",
+    "sentence_furigana": "銑鉄【せんてつ】の供給網【きょうきゅうもう】を強化【きょうか】する必【ひつ】ようがあります。",
+    "meaning": "We need to strengthen the supply chain for pig iron."
+  },
+  {
+    "sentence": "銑鉄の融解温度を一定に保つ。",
+    "sentence_furigana": "銑鉄【せんてつ】の融解温度【ゆうかいおんど】を一定【いってい】に保【たも】つ。",
+    "meaning": "Maintain the melting temperature of pig iron at a constant level."
+  },
+  {
+    "sentence": "銑鉄の保管には適切な場所が必要です。",
+    "sentence_furigana": "銑鉄【せんてつ】の保管【ほかん】には適切【てきせつ】な場所【ばしょ】が必要です。",
+    "meaning": "A suitable place is needed for storing pig iron."
+  },
+  {
+    "sentence": "銑鉄の精錬効率を改善する方法。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬効率【せいれんこうりつ】を改善【かいぜん】する方法【ほうほう】。",
+    "meaning": "Methods to improve the smelting efficiency of pig iron."
+  },
+  {
+    "sentence": "銑鉄は強度が高く、加工しやすい。",
+    "sentence_furigana": "銑鉄【せんてつ】は強度【きょうど】が高【たか】く、加工【かこう】しやすい。",
+    "meaning": "Pig iron is strong and easy to process."
+  },
+  {
+    "sentence": "この工場の主力製品は銑鉄です。",
+    "sentence_furigana": "この工場【こうじょう】の主力製品【しゅりょくせいひん】は銑鉄【せんてつ】です。",
+    "meaning": "The main product of this factory is pig iron."
+  },
+  {
+    "sentence": "銑鉄の取引に関する法規制。",
+    "sentence_furigana": "銑鉄【せんてつ】の取引【とりひき】に関【かん】する法規制【ほうきせい】。",
+    "meaning": "Legal regulations related to the trade of pig iron."
+  },
+  {
+    "sentence": "銑鉄の輸送中の安全対策。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送中【ゆそうちゅう】の安全対策【あんぜんたいさく】。",
+    "meaning": "Safety measures during the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の製錬方法の比較。",
+    "sentence_furigana": "銑鉄【せんてつ】の製錬方法【せいれんほうほう】の比較【ひかく】。",
+    "meaning": "Comparison of pig iron smelting methods."
+  },
+  {
+    "sentence": "銑鉄の市場における競争が激化しています。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における競争【きょうそう】が激化【げきか】しています。",
+    "meaning": "Competition in the pig iron market is intensifying."
+  },
+  {
+    "sentence": "この古い鋳物は銑鉄で作られている。",
+    "sentence_furigana": "この古【ふる】い鋳物【いもの】は銑鉄【せんてつ】で作【つく】られている。",
+    "meaning": "This old casting is made of pig iron."
+  },
+  {
+    "sentence": "銑鉄の供給安定化に向けた取り組み。",
+    "sentence_furigana": "銑鉄【せんてつ】の供給安定化【きょうきゅうあんていか】に向け【む】けた取【と】り組【く】み。",
+    "meaning": "Efforts towards stabilizing the supply of pig iron."
+  },
+  {
+    "sentence": "銑鉄の取引量が増加傾向にあります。",
+    "sentence_furigana": "銑鉄【せんてつ】の取引量【とりひきりょう】が増加傾向【ぞうかけいこう】にあります。",
+    "meaning": "The trading volume of pig iron is on the rise."
+  },
+  {
+    "sentence": "銑鉄の精錬における省エネルギー技術。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】における省エネルギー技術【しょうエネルギーぎじゅつ】。",
+    "meaning": "Energy-saving technology in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の市場予測に関する調査。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場予測【しじょうよそく】に関【かん】する調査【ちょうさ】。",
+    "meaning": "Research on market forecasts for pig iron."
+  },
+  {
+    "sentence": "銑鉄の製造プロセスにおける課題。",
+    "sentence_furigana": "銑鉄【せんてつ】の製造プロセス【せいぞうプロセス】における課題【かだい】。",
+    "meaning": "Challenges in the pig iron manufacturing process."
+  },
+  {
+    "sentence": "銑鉄の品質向上に向けた新技術。",
+    "sentence_furigana": "銑鉄【せんてつ】の品質向上【ひんしつこうじょう】に向け【む】けた新技術【しんぎじゅつ】。",
+    "meaning": "New technologies for improving the quality of pig iron."
+  },
+  {
+    "sentence": "銑鉄の輸送効率を高める方法。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送効率【ゆそうこうりつ】を高【たか】める方法【ほうほう】。",
+    "meaning": "Ways to increase the transportation efficiency of pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場動向と価格見通し。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場動向【しじょうどうこう】と価格見通【かかくみとお】し。",
+    "meaning": "Market trends and price outlook for pig iron."
+  },
+  {
+    "sentence": "銑鉄の精錬技術の進展。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬技術【せいれんぎじゅつ】の進展【しんてん】。",
+    "meaning": "Developments in pig iron smelting technology."
+  },
+  {
+    "sentence": "銑鉄の生産量と世界経済の関係。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産量【せいさんりょう】と世界経済【せかいけいざい】の関係【かんけい】。",
+    "meaning": "The relationship between pig iron production and the global economy."
+  },
+  {
+    "sentence": "銑鉄の取り扱いに関する安全マニュアル。",
+    "sentence_furigana": "銑鉄【せんてつ】の取扱【とりあつか】いに関【かん】する安全マニュアル【あんぜんマニュアル】。",
+    "meaning": "Safety manual for handling pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場における供給と需要のバランス。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における供給【きょうきゅう】と需要【じゅよう】のバランス。",
+    "meaning": "The balance of supply and demand in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の精錬における環境負荷低減。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】における環境負荷低減【かんきょうふからていげん】。",
+    "meaning": "Reduction of environmental impact in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の市場における価格決定要因。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における価格決定要因【かかくけっていよういん】。",
+    "meaning": "Price determinants in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の輸送ルートの最適化。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送ルート【ゆそうルート】の最適化【さいてきか】。",
+    "meaning": "Optimization of pig iron transportation routes."
+  },
+  {
+    "sentence": "銑鉄の製錬プロセスにおけるエネルギー効率。",
+    "sentence_furigana": "銑鉄【せんてつ】の製錬プロセス【せいれんプロセス】におけるエネルギー効率【エネルギーこうりつ】。",
+    "meaning": "Energy efficiency in the pig iron smelting process."
+  },
+  {
+    "sentence": "銑鉄の市場における将来展望。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における将来展望【しょうらいてんぼう】。",
+    "meaning": "Future outlook for the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の品質管理体制の構築。",
+    "sentence_furigana": "銑鉄【せんてつ】の品質管理体制【ひんしつかんりたいせい】の構築【こうちく】。",
+    "meaning": "Establishment of a quality control system for pig iron."
+  },
+  {
+    "sentence": "銑鉄の輸送におけるリスク管理。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】におけるリスク管理【リスクかんり】。",
+    "meaning": "Risk management in the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の精錬技術の国際比較。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬技術【せいれんぎじゅつ】の国際比較【こくさいひかく】。",
+    "meaning": "International comparison of pig iron smelting technology."
+  },
+  {
+    "sentence": "銑鉄の市場における需給バランスの変化。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における需給バランス【じゅきゅうバランス】の変化【へんか】。",
+    "meaning": "Changes in the supply-demand balance in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における技術革新。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における技術革新【ぎじゅつかくしん】。",
+    "meaning": "Technological innovation in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の市場における価格変動要因の分析。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における価格変動要因【かかくへんどうよういん】の分析【ぶんせき】。",
+    "meaning": "Analysis of price fluctuation factors in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の精錬プロセスにおける不純物除去。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬プロセス【せいれんプロセス】における不純物除去【ふじゅんぶつじょきょ】。",
+    "meaning": "Removal of impurities in the pig iron smelting process."
+  },
+  {
+    "sentence": "銑鉄の輸送におけるCO2排出削減。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】におけるCO2排出削減【CO2はいしゅつさくげん】。",
+    "meaning": "Reduction of CO2 emissions in the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場における価格形成メカニズム。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における価格形成メカニズム【かかくけいせいメカニズム】。",
+    "meaning": "Price formation mechanism in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の精錬技術における最新動向。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬技術【せいれんぎじゅつ】における最新動向【さいしんどうこう】。",
+    "meaning": "Latest trends in pig iron smelting technology."
+  },
+  {
+    "sentence": "銑鉄の生産におけるエネルギー消費量削減。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】におけるエネルギー消費量削減【エネルギーしょうひりょうさくげん】。",
+    "meaning": "Reduction of energy consumption in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の市場における国際的な取引慣行。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における国際的【こくさいてき】な取引慣行【とりひきかんこう】。",
+    "meaning": "International trading practices in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の精錬における品質管理基準。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】における品質管理基準【ひんしつかんりきじゅん】。",
+    "meaning": "Quality control standards in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送コスト削減に向けた戦略。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送コスト【ゆそうコスト】削減【さくげん】に向け【む】けた戦略【せんりゃく】。",
+    "meaning": "Strategies for reducing pig iron transportation costs."
+  },
+  {
+    "sentence": "銑鉄の市場における将来的な需要予測。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における将来的【しょうらいてき】な需要予測【じゅようよそく】。",
+    "meaning": "Future demand forecast in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における持続可能性。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における持続可能性【じぞくかのうせい】。",
+    "meaning": "Sustainability in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬プロセスにおける最適化。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬プロセス【せいれんプロセス】における最適化【さいてきか】。",
+    "meaning": "Optimization in the pig iron smelting process."
+  },
+  {
+    "sentence": "銑鉄の輸送における安全性向上。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】における安全性向上【あんぜんせいこうじょう】。",
+    "meaning": "Improvement of safety in pig iron transportation."
+  },
+  {
+    "sentence": "銑鉄の市場におけるリスク評価。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】におけるリスク評価【リスクひょうか】。",
+    "meaning": "Risk assessment in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における資源効率。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における資源効率【しげんこうりつ】。",
+    "meaning": "Resource efficiency in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬における新材料の使用。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】における新材料【しんざいりょう】の使用【しよう】。",
+    "meaning": "Use of new materials in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送におけるモーダルシフト。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】におけるモーダルシフト。",
+    "meaning": "Modal shift in the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場における規制緩和。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における規制緩和【きせいかんわ】。",
+    "meaning": "Deregulation in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における環境規制。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における環境規制【かんきょうきせい】。",
+    "meaning": "Environmental regulations in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬における触媒技術。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】における触媒技術【しょくばいぎじゅつ】。",
+    "meaning": "Catalyst technology in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送における燃料効率。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】における燃料効率【ねんりょうこうりつ】。",
+    "meaning": "Fuel efficiency in the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場における情報開示。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における情報開示【じょうほうかいじ】。",
+    "meaning": "Information disclosure in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における品質保証。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における品質保証【ひんしつほしょう】。",
+    "meaning": "Quality assurance in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬におけるプロセス制御。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】におけるプロセス制御【プロセスせいぎょ】。",
+    "meaning": "Process control in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送におけるロジスティクス最適化。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】におけるロジスティクス最適化【ロジスティクスさいてきか】。",
+    "meaning": "Logistics optimization in the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場における競争優位性。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における競争優位性【きょうそうゆういせい】。",
+    "meaning": "Competitive advantage in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における歩留まり向上。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における歩留まり向上【ぶどまりこうじょう】。",
+    "meaning": "Yield improvement in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬におけるエネルギー回収。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】におけるエネルギー回収【エネルギーかいしゅう】。",
+    "meaning": "Energy recovery in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送におけるサプライチェーン管理。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】におけるサプライチェーン管理【サプライチェーンかんり】。",
+    "meaning": "Supply chain management in the transportation of pig iron."
+  },
+  {
+    "sentence": "銑鉄の市場における価格変動の影響。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における価格変動【かかくへんどう】の影響【えいきょう】。",
+    "meaning": "Impact of price fluctuations in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における品質改善。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における品質改善【ひんしつかいぜん】。",
+    "meaning": "Quality improvement in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬における副産物の活用。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】における副産物【ふくさんぶつ】の活用【かつよう】。",
+    "meaning": "Utilization of by-products in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送における環境負荷低減策。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】における環境負荷低減策【かんきょうふからていげんさく】。",
+    "meaning": "Measures to reduce environmental impact in pig iron transportation."
+  },
+  {
+    "sentence": "銑鉄の市場における技術開発動向。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における技術開発動向【ぎじゅつかいはつどうこう】。",
+    "meaning": "Trends in technological development in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における原料調達。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における原料調達【げんりょうちょうたつ】。",
+    "meaning": "Raw material procurement in pig iron production."
+  },
+  {
+    "sentence": "銑鉄の精錬におけるエネルギー最適化。",
+    "sentence_furigana": "銑鉄【せんてつ】の精錬【せいれん】におけるエネルギー最適化【エネルギーさいてきか】。",
+    "meaning": "Energy optimization in pig iron smelting."
+  },
+  {
+    "sentence": "銑鉄の輸送における国際的動向。",
+    "sentence_furigana": "銑鉄【せんてつ】の輸送【ゆそう】における国際的動向【こくさいてきどうこう】。",
+    "meaning": "International trends in pig iron transportation."
+  },
+  {
+    "sentence": "銑鉄の市場における企業戦略。",
+    "sentence_furigana": "銑鉄【せんてつ】の市場【しじょう】における企業戦略【きぎょうせんりゃく】。",
+    "meaning": "Corporate strategy in the pig iron market."
+  },
+  {
+    "sentence": "銑鉄の生産における自動化。",
+    "sentence_furigana": "銑鉄【せんてつ】の生産【せいさん】における自動化【じどうか】。",
+    "meaning": "Automation in pig iron production."
+  }
+]

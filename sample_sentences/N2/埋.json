@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "彼は宝を埋めた。",
+    "sentence_furigana": "彼【かれ】は宝【たから】を埋【う】めた。",
+    "meaning": "He buried the treasure."
+  },
+  {
+    "sentence": "子供が穴を埋めた。",
+    "sentence_furigana": "子供【こども】が穴【あな】を埋【う】めた。",
+    "meaning": "The child filled the hole."
+  },
+  {
+    "sentence": "彼は罪を埋めようとした。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】を埋【う】めようとした。",
+    "meaning": "He tried to cover up his crime."
+  },
+  {
+    "sentence": "ゴミを土に埋めた。",
+    "sentence_furigana": "ゴミを土【つち】に埋【う】めた。",
+    "meaning": "I buried the trash in the soil."
+  },
+  {
+    "sentence": "彼は秘密を埋めている。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】を埋【う】めている。",
+    "meaning": "He is keeping a secret."
+  },
+  {
+    "sentence": "予算を埋めるために増税が必要だ。",
+    "sentence_furigana": "予算【よさん】を埋【う】めるために増税【ぞうぜい】が必要【ひつよう】だ。",
+    "meaning": "Tax increases are necessary to cover the budget deficit."
+  },
+  {
+    "sentence": "彼は過去を埋めようと必死だった。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】を埋【う】めようと必死【ひっし】だった。",
+    "meaning": "He was desperate to bury his past."
+  },
+  {
+    "sentence": "彼はその借金を埋めるために懸命に働いた。",
+    "sentence_furigana": "彼【かれ】はその借金【しゃっきん】を埋【う】めるために懸命【けんめい】に働【はたら】いた。",
+    "meaning": "He worked hard to cover that debt."
+  },
+  {
+    "sentence": "彼女は悲しみを埋めるために仕事に没頭した。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しみを埋【う】めるために仕事【しごと】に没頭【ぼっとう】した。",
+    "meaning": "She immersed herself in work to fill the void of her grief."
+  },
+  {
+    "sentence": "その箱は書類で埋められていた。",
+    "sentence_furigana": "その箱【はこ】は書類【しょるい】で埋【う】められていた。",
+    "meaning": "The box was filled with documents."
+  },
+  {
+    "sentence": "彼は自分の過ちを埋めるために何かをしたいと思った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過【あやま】ちを埋【う】めるために何【なに】かをしたと思【おも】った。",
+    "meaning": "He wanted to do something to make up for his mistakes."
+  },
+  {
+    "sentence": "彼女は寂しさを埋めるように歌った。",
+    "sentence_furigana": "彼女【かのじょ】は寂【さび】しさを埋【う】めるように歌【うた】った。",
+    "meaning": "She sang as if to fill her loneliness."
+  },
+  {
+    "sentence": "彼はその失われた時間を埋めようと努めた。",
+    "sentence_furigana": "彼【かれ】はその失【うしな】われた時間【じかん】を埋【う】めようと努【つと】めた。",
+    "meaning": "He tried to make up for the lost time."
+  },
+  {
+    "sentence": "その隙間は粘土で埋められた。",
+    "sentence_furigana": "その隙間【すきま】は粘土【ねんど】で埋【う】められた。",
+    "meaning": "The gap was filled with clay."
+  },
+  {
+    "sentence": "彼は故郷の思い出を心の穴に埋めようとした。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の思【おも】い出【で】を心【こころ】の穴【あな】に埋【う】めようとした。",
+    "meaning": "He tried to bury the memories of his hometown in the hole in his heart."
+  },
+  {
+    "sentence": "彼女は過去の過ちを償うために寄付をした。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の過【あやま】ちを償【つぐな】うために寄付【きふ】をした。",
+    "meaning": "She made donations to atone for past mistakes."
+  },
+  {
+    "sentence": "彼はその穴を土で埋めてしまった。",
+    "sentence_furigana": "彼【かれ】はそのためを土【つち】で埋【う】めてしまった。",
+    "meaning": "He filled that hole with dirt."
+  },
+  {
+    "sentence": "彼女は彼との思い出を心の奥底に埋め込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】との思【おも】い出【で】を心【こころ】の奥底【おくそこ】に埋【う】めこんだ。",
+    "meaning": "She buried the memories with him deep in her heart."
+  },
+  {
+    "sentence": "その計画は多くの困難を埋め合わせるものだった。",
+    "sentence_furigana": "その計画【けいかく】は多【おお】くの困難【こんなん】を埋【う】め合【あ】わせるものだった。",
+    "meaning": "That plan was to compensate for many difficulties."
+  },
+  {
+    "sentence": "彼は沈黙で多くのことを埋めた。",
+    "sentence_furigana": "彼【かれ】は沈黙【ちんもく】で多【おお】くのこと【こと】を埋【う】めた。",
+    "meaning": "He filled in many things with silence."
+  },
+  {
+    "sentence": "その壁には絵が埋め込まれていた。",
+    "sentence_furigana": "その壁【かべ】には絵【え】が埋【う】めこまれていた。",
+    "meaning": "Pictures were embedded in the wall."
+  },
+  {
+    "sentence": "彼は失われた時間を埋め合わせるように懸命に勉強した。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた時間【じかん】を埋【う】め合【あ】わせるように懸命【けんめい】に勉強【べんきょう】した。",
+    "meaning": "He studied hard as if to make up for lost time."
+  },
+  {
+    "sentence": "彼女はその穴を埋めるために急いでいた。",
+    "sentence_furigana": "彼女【かのじょ】はその穴【あな】を埋【う】めるために急【いそ】いでいた。",
+    "meaning": "She was in a hurry to fill the hole."
+  },
+  {
+    "sentence": "彼は自分の弱さを埋めるために強がっていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の弱【よわ】さを埋【う】めるために強【つよ】がっていた。",
+    "meaning": "He pretended to be strong to cover his weakness."
+  },
+  {
+    "sentence": "この土地は先祖の墓で埋まっている。",
+    "sentence_furigana": "この土地【とち】は先祖【せんぞ】の墓【はか】で埋【う】まっている。",
+    "meaning": "This land is filled with ancestral graves."
+  },
+  {
+    "sentence": "彼は過去の過ちを埋め合わせるための方法を探していた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを埋【う】め合【あ】わせるための方法【ほうほう】を探【さが】していた。",
+    "meaning": "He was looking for a way to make up for past mistakes."
+  },
+  {
+    "sentence": "その隙間は慎重に埋められた。",
+    "sentence_furigana": "その隙間【すきま】は慎重【しんちょう】に埋【う】められた。",
+    "meaning": "The gap was carefully filled."
+  },
+  {
+    "sentence": "彼女は彼の無関心を埋めようと話しかけた。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】の無関心【むかんしん】を埋【う】めようと話【はな】しかけた。",
+    "meaning": "She tried to fill his indifference by talking to him."
+  },
+  {
+    "sentence": "彼はその穴を埋めるためにシャベルを使った。",
+    "sentence_furigana": "彼【かれ】はそのためを埋【う】めるためにシャベルを使【つか】った。",
+    "meaning": "He used a shovel to fill the hole."
+  },
+  {
+    "sentence": "子供たちは秘密の場所を地面に埋めた。",
+    "sentence_furigana": "子供【こども】たちは秘密【ひみつ】の場所【ばしょ】を地面【じめん】に埋【う】めた。",
+    "meaning": "The children buried the secret place in the ground."
+  },
+  {
+    "sentence": "彼は過去の苦い経験を心の奥に埋め込んだ。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の苦【にが】い経験【けいけん】を心【こころ】の奥【おく】に埋【う】めこんだ。",
+    "meaning": "He buried the bitter past experiences deep in his heart."
+  },
+  {
+    "sentence": "その空き缶はゴミ箱に埋めるように捨てられた。",
+    "sentence_furigana": "その空【あ】き缶【かん】はゴミ箱【ばこ】に埋【う】めるように捨【す】てられた。",
+    "meaning": "The empty can was thrown away as if to bury it in the trash can."
+  },
+  {
+    "sentence": "彼女はその間違いを埋め合わせようと必死だった。",
+    "sentence_furigana": "彼女【かのじょ】はその間違【まちが】いを埋【う】め合【あ】わせようと必死【ひっし】だった。",
+    "meaning": "She was desperate to make up for that mistake."
+  },
+  {
+    "sentence": "この壁には宝石が埋め込まれている。",
+    "sentence_furigana": "この壁【かべ】には宝石【ほうせき】が埋【う】めこまれている。",
+    "meaning": "Jewels are embedded in this wall."
+  },
+  {
+    "sentence": "彼は失ったものを取り戻すために努力を埋め合わせた。",
+    "sentence_furigana": "彼【かれ】は失【うしな】ったものを取り戻【と】り戻【もど】すために努力【どりょく】を埋【う】め合【あ】わせた。",
+    "meaning": "He compensated for his efforts to get back what he lost."
+  },
+  {
+    "sentence": "彼女は寂しさを紛らわすために本を読んだ。",
+    "sentence_furigana": "彼女【かのじょ】は寂【さび】しさを紛【まぎ】らわすために本【ほん】を読【よ】んだ。",
+    "meaning": "She read a book to distract herself from loneliness."
+  },
+  {
+    "sentence": "彼は埋められた宝を探しに行った。",
+    "sentence_furigana": "彼【かれ】は埋【う】められた宝【たから】を探【さが】しに行【い】った。",
+    "meaning": "He went to look for the buried treasure."
+  },
+  {
+    "sentence": "その欠陥は巧妙に隠されていた。",
+    "sentence_furigana": "その欠陥【けっかん】は巧妙【こうみょう】に隠【かく】されていた。",
+    "meaning": "The defect was cleverly hidden."
+  },
+  {
+    "sentence": "彼女は空虚感を埋めるために買い物をした。",
+    "sentence_furigana": "彼女【かのじょ】は空虚感【くうきょかん】を埋【う】めるために買【か】い物【もの】をした。",
+    "meaning": "She went shopping to fill her feeling of emptiness."
+  },
+  {
+    "sentence": "彼は過去を埋めたいと願った。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】を埋【う】めたいと願【ねが】った。",
+    "meaning": "He wished to bury the past."
+  },
+  {
+    "sentence": "その傷跡はほとんど見えなくなっていた。",
+    "sentence_furigana": "その傷跡【きずあと】はほとんど見【み】えなくなっていた。",
+    "meaning": "The scar had become almost invisible."
+  },
+  {
+    "sentence": "彼は失われた時間を埋め合わせるかのように懸命に働いた。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた時間【じかん】を埋【う】め合【あ】わせるかのように懸命【けんめい】に働【はたら】いた。",
+    "meaning": "He worked hard as if to make up for lost time."
+  },
+  {
+    "sentence": "彼女は埋もれた記憶を掘り起こした。",
+    "sentence_furigana": "彼女【かのじょ】は埋【う】もれた記憶【きおく】を掘【ほ】り起【お】こした。",
+    "meaning": "She unearthed buried memories."
+  },
+  {
+    "sentence": "この仕事は私の穴を埋めてくれる。",
+    "sentence_furigana": "この仕事【しごと】は私【わたし】の穴【あな】を埋【う】めてくれる。",
+    "meaning": "This job fills my void."
+  },
+  {
+    "sentence": "彼は罪悪感を埋めるために善行を積んだ。",
+    "sentence_furigana": "彼【かれ】は罪悪感【ざいあくかん】を埋【う】めるために善行【ぜんこう】を積【つ】んだ。",
+    "meaning": "He accumulated good deeds to atone for his guilt."
+  },
+  {
+    "sentence": "その宝石は指輪に埋め込まれていた。",
+    "sentence_furigana": "その宝石【ほうせき】は指輪【ゆびわ】に埋【う】めこまれていた。",
+    "meaning": "The jewel was embedded in the ring."
+  },
+  {
+    "sentence": "彼は埋もれた才能を持っていた。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた才能【さいのう】を持【も】っていた。",
+    "meaning": "He possessed a hidden talent."
+  },
+  {
+    "sentence": "彼女はその失われた機会を埋め合わせようと必死だった。",
+    "sentence_furigana": "彼女【かのじょ】はその失【うしな】われた機会【きかい】を埋【う】め合【あ】わせようと必死【ひっし】だった。",
+    "meaning": "She was desperate to make up for the lost opportunity."
+  },
+  {
+    "sentence": "彼は自分の弱点を隠すために強がった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の弱点【じゃくてん】を隠【かく】すために強【つよ】がった。",
+    "meaning": "He put on a brave face to hide his weaknesses."
+  },
+  {
+    "sentence": "埋葬された宝物はまだ見つかっていない。",
+    "sentence_furigana": "埋葬【まいそう】された宝物【たからもの】はまだ見【み】つかっていない。",
+    "meaning": "The buried treasure has not yet been found."
+  },
+  {
+    "sentence": "彼女は孤独を埋めるために人と話した。",
+    "sentence_furigana": "彼女【かのじょ】は孤独【こどく】を埋【う】めるために人【ひと】と話【はな】した。",
+    "meaning": "She talked to people to fill her loneliness."
+  },
+  {
+    "sentence": "彼はその借金の穴を埋めようとした。",
+    "sentence_furigana": "彼【かれ】はそのためくの穴【あな】を埋【う】めようとした。",
+    "meaning": "He tried to cover the hole of that debt."
+  },
+  {
+    "sentence": "この箱には古い手紙が埋められている。",
+    "sentence_furigana": "この箱【はこ】には古【ふる】い手紙【てがみ】が埋【う】められている。",
+    "meaning": "Old letters are buried in this box."
+  },
+  {
+    "sentence": "彼は失われた時間を埋めるために懸命に努力した。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた時間【じかん】を埋【う】めるために懸命【けんめい】に努力【どりょく】した。",
+    "meaning": "He worked hard to make up for lost time."
+  },
+  {
+    "sentence": "彼女はその失敗を埋め合わせるために全力を尽くした。",
+    "sentence_furigana": "彼女【かのじょ】はその失敗【しっぱい】を埋【う】め合【あ】わせるために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "She did her best to compensate for that failure."
+  },
+  {
+    "sentence": "彼はその埋められた宝を探している。",
+    "sentence_furigana": "彼【かれ】は埋【う】められた宝【たから】を探【さが】している。",
+    "meaning": "He is looking for the buried treasure."
+  },
+  {
+    "sentence": "彼女は秘密を埋め続けることはできないと思った。",
+    "sentence_furigana": "彼女【かのじょ】は秘密【ひみつ】を埋【う】め続【つづ】けることはできないと思【おも】った。",
+    "meaning": "She thought she couldn't keep burying the secret."
+  },
+  {
+    "sentence": "彼は過去を埋め去るように旅に出た。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】を埋【う】め去【さ】るように旅【たび】に出【で】た。",
+    "meaning": "He went on a journey as if to bury the past."
+  },
+  {
+    "sentence": "その穴は迅速に埋められた。",
+    "sentence_furigana": "その穴【あな】は迅速【じんそく】に埋【う】められた。",
+    "meaning": "The hole was filled quickly."
+  },
+  {
+    "sentence": "彼女は寂しさを埋めるためにペットを飼った。",
+    "sentence_furigana": "彼女【かのじょ】は寂【さび】しさを埋【う】めるためにペットを飼【か】った。",
+    "meaning": "She got a pet to fill her loneliness."
+  },
+  {
+    "sentence": "彼は埋もれた歴史を研究している。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた歴史【れきし】を研究【けんきゅう】している。",
+    "meaning": "He is studying buried history."
+  },
+  {
+    "sentence": "その欠点を埋め合わせるために、彼は懸命に努力した。",
+    "sentence_furigana": "その欠点【けってん】を埋【う】め合【あ】わせるために、彼【かれ】は懸命【けんめい】に努力【どりょく】した。",
+    "meaning": "To make up for that flaw, he worked hard."
+  },
+  {
+    "sentence": "彼女は過去の誤りを埋めようとした。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の誤【あやま】りを埋【う】めようとした。",
+    "meaning": "She tried to make up for past mistakes."
+  },
+  {
+    "sentence": "彼はその借金を埋めるために必死だった。",
+    "sentence_furigana": "彼【かれ】はその借金【しゃっきん】を埋【う】めるために必死【ひっし】だった。",
+    "meaning": "He was desperate to cover the debt."
+  },
+  {
+    "sentence": "その土地は先祖の墓で埋め尽くされていた。",
+    "sentence_furigana": "その土地【とち】は先祖【せんぞ】の墓【はか】で埋【う】めつくされていた。",
+    "meaning": "The land was filled with ancestral graves."
+  },
+  {
+    "sentence": "彼女は空虚感を埋めるために音楽を聴いた。",
+    "sentence_furigana": "彼女【かのじょ】は空虚感【くうきょかん】を埋【う】めるために音楽【おんがく】を聴【き】いた。",
+    "meaning": "She listened to music to fill her feeling of emptiness."
+  },
+  {
+    "sentence": "彼は埋もれた宝物を掘り当てた。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた宝物【たからもの】を掘【ほ】り当【あ】てた。",
+    "meaning": "He unearthed buried treasure."
+  },
+  {
+    "sentence": "その隙間は丁寧に埋められた。",
+    "sentence_furigana": "その隙間【すきま】は丁寧【ていねい】に埋【う】められた。",
+    "meaning": "The gap was filled carefully."
+  },
+  {
+    "sentence": "彼女は彼への愛情を言葉で埋めようとした。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】への愛情【あいじょう】を言葉【ことば】で埋【う】めようとした。",
+    "meaning": "She tried to fill her love for him with words."
+  },
+  {
+    "sentence": "彼は過去の失敗を埋め合わせるために努力した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】を埋【う】め合【あ】わせるために努力【どりょく】した。",
+    "meaning": "He worked to make up for past failures."
+  },
+  {
+    "sentence": "その壁には模様が埋め込まれていた。",
+    "sentence_furigana": "その壁【かべ】には模様【もよう】が埋【う】めこまれていた。",
+    "meaning": "Patterns were embedded in the wall."
+  },
+  {
+    "sentence": "彼女は埋もれた才能を開花させた。",
+    "sentence_furigana": "彼女【かのじょ】は埋【う】もれた才能【さいのう】を開花【かいか】させた。",
+    "meaning": "She made her hidden talents bloom."
+  },
+  {
+    "sentence": "彼はその穴を掘り、そして埋めた。",
+    "sentence_furigana": "彼【かれ】はその穴【あな】を掘【ほ】り、そして埋【う】めた。",
+    "meaning": "He dug the hole and then filled it."
+  },
+  {
+    "sentence": "その隙間は早く埋めなければならない。",
+    "sentence_furigana": "その隙間【すきま】は早【はや】く埋【う】めなければならない。",
+    "meaning": "That gap must be filled quickly."
+  },
+  {
+    "sentence": "彼女は過去を埋めるように静かに微笑んだ。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】を埋【う】めるように静【しず】かに微笑【ほほえ】んだ。",
+    "meaning": "She smiled quietly as if to bury the past."
+  },
+  {
+    "sentence": "彼は埋められた宝を掘り起こすことを夢見ていた。",
+    "sentence_furigana": "彼【かれ】は埋【う】められた宝【たから】を掘【ほ】り起【お】こすことを夢【ゆめ】見ていた。",
+    "meaning": "He dreamed of digging up the buried treasure."
+  },
+  {
+    "sentence": "その欠点は巧妙に隠蔽された。",
+    "sentence_furigana": "その欠点【けってん】は巧妙【こうみょう】に隠蔽【いんぺい】された。",
+    "meaning": "The flaw was cleverly concealed."
+  },
+  {
+    "sentence": "彼女は空虚感を埋めるために友人に電話した。",
+    "sentence_furigana": "彼女【かのじょ】は空虚感【くうきょかん】を埋【う】めるために友人【ゆうじん】に電話【でんわ】した。",
+    "meaning": "She called a friend to fill her feeling of emptiness."
+  },
+  {
+    "sentence": "彼は埋もれた才能を開花させたいと願った。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた才能【さいのう】を開花【かいか】させたいと願【ねが】った。",
+    "meaning": "He wished to make his hidden talents bloom."
+  },
+  {
+    "sentence": "彼は過去の過ちを埋めるために、もう一度やり直すことを決意した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやま】ちを埋【う】めるために、もう一度【いちど】やり直【なお】すことを決意【けつい】した。",
+    "meaning": "He decided to start over to make up for past mistakes."
+  },
+  {
+    "sentence": "その壁には細かな細工が埋め込まれていた。",
+    "sentence_furigana": "その壁【かべ】には細【こま】かな細工【さいく】が埋【う】めこまれていた。",
+    "meaning": "Intricate craftsmanship was embedded in the wall."
+  },
+  {
+    "sentence": "彼女は失われた青春を埋め合わせるように、人生を楽しんだ。",
+    "sentence_furigana": "彼女【かのじょ】は失【うしな】われた青春【せいしゅん】を埋【う】め合【あ】わせるように、人生【じんせい】を楽し【たの】んだ。",
+    "meaning": "She enjoyed life as if to make up for her lost youth."
+  },
+  {
+    "sentence": "彼は埋もれた秘密を暴こうとした。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた秘密【ひみつ】を暴【あば】こうとした。",
+    "meaning": "He tried to expose the buried secret."
+  },
+  {
+    "sentence": "その空きはすぐに埋められた。",
+    "sentence_furigana": "その空【あ】きはすぐに埋【う】められた。",
+    "meaning": "The vacancy was filled quickly."
+  },
+  {
+    "sentence": "彼女は彼との別れを心の傷に埋め込んだ。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】との別【わか】れを心【こころ】の傷【きず】に埋【う】めこんだ。",
+    "meaning": "She buried the breakup with him as a wound in her heart."
+  },
+  {
+    "sentence": "彼は埋もれた歴史の断片を発見した。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた歴史【れきし】の断片【だんぺん】を発見【はっけん】した。",
+    "meaning": "He discovered fragments of buried history."
+  },
+  {
+    "sentence": "その穴は砂で埋められていた。",
+    "sentence_furigana": "その穴【あな】は砂【すな】で埋【う】められていた。",
+    "meaning": "The hole was filled with sand."
+  },
+  {
+    "sentence": "彼女は失われた愛を埋めるために新しい恋を探した。",
+    "sentence_furigana": "彼女【かのじょ】は失【うしな】われた愛【あい】を埋【う】めるために新【あたら】しい恋【こい】を探【さが】した。",
+    "meaning": "She looked for a new love to fill her lost love."
+  },
+  {
+    "sentence": "彼は埋められた宝を探す冒険に出かけた。",
+    "sentence_furigana": "彼【かれ】は埋【う】められた宝【たから】を探【さが】す冒険【ぼうけん】に出【で】かけた。",
+    "meaning": "He went on an adventure to find buried treasure."
+  },
+  {
+    "sentence": "その仕事は多くの時間を埋め合わせる必要があった。",
+    "sentence_furigana": "その仕事【しごと】は多【おお】くの時間【じかん】を埋【う】め合【あ】わせる必要【ひつよう】があった。",
+    "meaning": "That job required making up for a lot of time."
+  },
+  {
+    "sentence": "彼女は過去の過ちを埋めるためにボランティア活動をした。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の過【あやま】ちを埋【う】めるためにボランティア活動【かつどう】をした。",
+    "meaning": "She did volunteer work to atone for past mistakes."
+  },
+  {
+    "sentence": "彼はその埋もれた才能を高く評価した。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた才能【さいのう】を高く評価【ひょうか】した。",
+    "meaning": "He highly valued the hidden talent."
+  },
+  {
+    "sentence": "その箱は貴重品で埋められていた。",
+    "sentence_furigana": "その箱【はこ】は貴重品【きちょうひん】で埋【う】められていた。",
+    "meaning": "The box was filled with valuables."
+  },
+  {
+    "sentence": "彼女は埋められたゴミを掘り起こした。",
+    "sentence_furigana": "彼女【かのじょ】は埋【う】められたゴミを掘【ほ】り起【お】こした。",
+    "meaning": "She dug up the buried trash."
+  },
+  {
+    "sentence": "彼は失われた機会を埋め合わせるために懸命だった。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた機会【きかい】を埋【う】め合【あ】わせるために懸命【けんめい】だった。",
+    "meaning": "He was desperate to make up for the lost opportunity."
+  },
+  {
+    "sentence": "その隙間は丁寧に埋めるべきだ。",
+    "sentence_furigana": "その隙間【すきま】は丁寧【ていねい】に埋【う】めるべきだ。",
+    "meaning": "That gap should be filled carefully."
+  },
+  {
+    "sentence": "彼女は寂しさを紛らわすために日記をつけた。",
+    "sentence_furigana": "彼女【かのじょ】は寂【さび】しさを紛【まぎ】らわすために日記【にっき】をつけた。",
+    "meaning": "She kept a diary to distract herself from loneliness."
+  },
+  {
+    "sentence": "彼は埋もれた宝の地図を見つけた。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた宝【たから】の地図【ちず】を見【み】つけた。",
+    "meaning": "He found a map to buried treasure."
+  },
+  {
+    "sentence": "その穴はすぐに埋められたため、誰も気づかなかった。",
+    "sentence_furigana": "その穴【あな】はすぐに埋【う】められたため、誰【だれ】も気【き】づかなかった。",
+    "meaning": "The hole was filled so quickly that no one noticed."
+  },
+  {
+    "sentence": "彼女は過去の過ちを埋めるように、自分を責めた。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の過【あやま】ちを埋【う】めるように、自分【じぶん】を責【せ】めた。",
+    "meaning": "She blamed herself as if to atone for past mistakes."
+  },
+  {
+    "sentence": "彼はその借金を埋め合わせるために、さらに働くことを決めた。",
+    "sentence_furigana": "彼【かれ】はその借金【しゃっきん】を埋【う】め合【あ】わせるために、さらに働【はたら】くことを決【き】めた。",
+    "meaning": "He decided to work more to cover that debt."
+  },
+  {
+    "sentence": "埋められた宝はついに発見された。",
+    "sentence_furigana": "埋【う】められた宝【たから】はついに発見【はっけん】された。",
+    "meaning": "The buried treasure was finally discovered."
+  },
+  {
+    "sentence": "彼女はその失われた機会を埋めるために必死で行動した。",
+    "sentence_furigana": "彼女【かのじょ】は失【うしな】われた機会【きかい】を埋【う】めるために必死【ひっし】で行動【こうどう】した。",
+    "meaning": "She acted desperately to make up for the lost opportunity."
+  },
+  {
+    "sentence": "彼は埋もれた才能を世に知らしめた。",
+    "sentence_furigana": "彼【かれ】は埋【う】もれた才能【さいのう】を世【よ】に知【し】らしめた。",
+    "meaning": "He brought his hidden talents to light."
+  }
+]

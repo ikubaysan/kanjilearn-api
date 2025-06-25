@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "彼は山に登りました。",
+    "sentence_furigana": "彼【かれ】は山【やま】に登【のぼ】りました。",
+    "meaning": "He climbed the mountain."
+  },
+  {
+    "sentence": "明日、富士山に登る予定です。",
+    "sentence_furigana": "明日【あした】、富士山【ふじさん】に登【のぼ】る予定【よてい】です。",
+    "meaning": "I plan to climb Mt. Fuji tomorrow."
+  },
+  {
+    "sentence": "階段を登るのは大変だ。",
+    "sentence_furigana": "階段【かいだん】を登【のぼ】るのは大変【たいへん】だ。",
+    "meaning": "Climbing the stairs is difficult."
+  },
+  {
+    "sentence": "校長先生が壇上に登壇した。",
+    "sentence_furigana": "校長先生【こうちょうせんせい】が壇上【だんじょう】に登壇【とうだん】した。",
+    "meaning": "The principal ascended the platform."
+  },
+  {
+    "sentence": "彼は新しい役職に登用された。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい役職【やくしょく】に登用【とうよう】された。",
+    "meaning": "He was appointed to a new position."
+  },
+  {
+    "sentence": "参加者はリストに名前を登録した。",
+    "sentence_furigana": "参加者【さんかしゃ】はリストに名前【なまえ】を登録【とうろく】した。",
+    "meaning": "The participants registered their names on the list."
+  },
+  {
+    "sentence": "この本はベストセラーランキングに登場した。",
+    "sentence_furigana": "この本【ほん】はベストセラーランキングに登場【とうじょう】した。",
+    "meaning": "This book appeared on the bestseller list."
+  },
+  {
+    "sentence": "彼女はエスカレーターを登っていった。",
+    "sentence_furigana": "彼女【かのじょ】はエスカレーターを登【のぼ】っていった。",
+    "meaning": "She went up the escalator."
+  },
+  {
+    "sentence": "山の頂上まで登るのは長旅だった。",
+    "sentence_furigana": "山【やま】の頂上【ちょうじょう】まで登【のぼ】るのは長旅【ながたび】だった。",
+    "meaning": "It was a long journey to climb to the summit of the mountain."
+  },
+  {
+    "sentence": "彼は高い目標を掲げて登り続けた。",
+    "sentence_furigana": "彼【かれ】は高【たか】い目標【もくひょう】を掲【かか】げて登【のぼ】り続【つづ】けた。",
+    "meaning": "He kept climbing with high goals."
+  },
+  {
+    "sentence": "その花は壁を登っていった。",
+    "sentence_furigana": "その花【はな】は壁【かべ】を登【のぼ】っていった。",
+    "meaning": "The flower climbed up the wall."
+  },
+  {
+    "sentence": "新しい記録が樹立された。",
+    "sentence_furigana": "新【あたら】しい記録【きろく】が樹立【じゅりつ】された。",
+    "meaning": "A new record was established."
+  },
+  {
+    "sentence": "彼は歴史に名を刻んだ。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】に名【な】を刻【きざ】んだ。",
+    "meaning": "He engraved his name in history."
+  },
+  {
+    "sentence": "その登山家は世界中の山に登った。",
+    "sentence_furigana": "その登山家【とざんか】は世界中【せかいじゅう】の山【やま】に登【のぼ】った。",
+    "meaning": "The mountaineer climbed mountains all over the world."
+  },
+  {
+    "sentence": "彼は順調に階段を登っていった。",
+    "sentence_furigana": "彼【かれ】は順調【じゅんちょう】に階段【かいだん】を登【のぼ】っていった。",
+    "meaning": "He went up the stairs smoothly."
+  },
+  {
+    "sentence": "この情報は公表されるべきだ。",
+    "sentence_furigana": "この情報【じょうほう】は公表【こうひょう】されるべきだ。",
+    "meaning": "This information should be made public."
+  },
+  {
+    "sentence": "彼はその役職に昇進した。",
+    "sentence_furigana": "彼【かれ】はそ の役職【やくしょく】に昇進【しょうしん】した。",
+    "meaning": "He was promoted to that position."
+  },
+  {
+    "sentence": "その歌はヒットチャートに登場した。",
+    "sentence_furigana": "その歌【うた】はヒットチャートに登場【とうじょう】した。",
+    "meaning": "That song appeared on the hit charts."
+  },
+  {
+    "sentence": "彼女は難関を突破して合格した。",
+    "sentence_furigana": "彼女【かのじょ】は難関【なんかん】を突破【とっぱ】して合格【ごうかく】した。",
+    "meaning": "She passed by breaking through the difficult barrier."
+  },
+  {
+    "sentence": "私たちは山頂を目指して登った。",
+    "sentence_furigana": "私【わたし】たち は山頂【さんちょう】を目指【めざ】して登【のぼ】った。",
+    "meaning": "We climbed towards the summit."
+  },
+  {
+    "sentence": "彼はそのリストのトップに名を連ねた。",
+    "sentence_furigana": "彼【かれ】はそ のリストのトップに名【な】を連【つら】ねた。",
+    "meaning": "He joined the top of that list."
+  },
+  {
+    "sentence": "新しい選手がチームに加入した。",
+    "sentence_furigana": "新【あたら】しい選手【せんしゅ】がチームに加入【かにゅう】した。",
+    "meaning": "A new player joined the team."
+  },
+  {
+    "sentence": "彼は順調にキャリアを積み上げた。",
+    "sentence_furigana": "彼【かれ】は順調【じゅんちょう】にキャリアを積【つ】み上【あ】げた。",
+    "meaning": "He steadily built his career."
+  },
+  {
+    "sentence": "その商品は市場に投入された。",
+    "sentence_furigana": "その商品【しょうひん】は市場【しじょう】に投入【とうにゅう】された。",
+    "meaning": "That product was launched into the market."
+  },
+  {
+    "sentence": "彼は大きな成果を上げて昇進した。",
+    "sentence_furigana": "彼【かれ】は 大【おお】きな成果【せいか】を上【あ】げて昇進【しょうしん】した。",
+    "meaning": "He was promoted after achieving great results."
+  },
+  {
+    "sentence": "その建物は１０階建てだ。",
+    "sentence_furigana": "その建物【たてもの】は１０階建【かいだ】てだ。",
+    "meaning": "That building is 10 stories high."
+  },
+  {
+    "sentence": "彼は目標達成のために努力を続けた。",
+    "sentence_furigana": "彼【かれ】は目標達成【もくひょうたっせい】のために努力【どりょく】を続【つづ】けた。",
+    "meaning": "He continued to work hard to achieve his goals."
+  },
+  {
+    "sentence": "彼女は成功への道を登っていった。",
+    "sentence_furigana": "彼女【かのじょ】は成功【せいこう】への道【みち】を登【のぼ】っていった。",
+    "meaning": "She climbed her way to success."
+  },
+  {
+    "sentence": "その事件は世間の注目を集めた。",
+    "sentence_furigana": "その事件【じけん】は世間【せけん】の注目【ちゅうもく】を集【あつ】めた。",
+    "meaning": "The incident attracted public attention."
+  },
+  {
+    "sentence": "彼は困難を乗り越えて成功した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を乗【の】り越【こ】えて成功【せいこう】した。",
+    "meaning": "He succeeded by overcoming difficulties."
+  },
+  {
+    "sentence": "その登山者は山の頂上に到達した。",
+    "sentence_furigana": "その登山者【とざんしゃ】は山頂【さんちょう】に到達【とうたつ】した。",
+    "meaning": "The climber reached the summit of the mountain."
+  },
+  {
+    "sentence": "彼はその分野で第一人者となった。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】で第一人者【だいいちにんしゃ】となった。",
+    "meaning": "He became the leading authority in that field."
+  },
+  {
+    "sentence": "彼は社会の階段を登り始めた。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の階段【かいだん】を登【のぼ】り始【はじ】めた。",
+    "meaning": "He started climbing the social ladder."
+  },
+  {
+    "sentence": "そのプロジェクトは順調に進んでいる。",
+    "sentence_furigana": "そのプロジェクトは順調【じゅんちょう】に進【すす】んでいる。",
+    "meaning": "That project is progressing smoothly."
+  },
+  {
+    "sentence": "彼はその困難な課題に挑戦した。",
+    "sentence_furigana": "彼【かれ】はそ の困難【こんなん】な課題【かだい】に挑戦【ちょうせん】した。",
+    "meaning": "He challenged that difficult task."
+  },
+  {
+    "sentence": "その商品は多くの人々に受け入れられた。",
+    "sentence_furigana": "その商品【しょうひん】は多【おお】くの人々【ひとびと】に受【う】け入【い】れられた。",
+    "meaning": "That product was accepted by many people."
+  },
+  {
+    "sentence": "彼は多くの障害を乗り越えて成功を収めた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの障害【しょうがい】を乗【の】り越【こ】えて成功【せいこう】を収【おさ】めた。",
+    "meaning": "He achieved success by overcoming many obstacles."
+  },
+  {
+    "sentence": "その記録はギネスブックに登録された。",
+    "sentence_furigana": "その記録【きろく】はギネスブックに登録【とうろく】された。",
+    "meaning": "That record was registered in the Guinness Book."
+  },
+  {
+    "sentence": "彼は自らの力で頂点に立った。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの力【ちから】で頂点【ちょうてん】に立【た】った。",
+    "meaning": "He reached the top by his own efforts."
+  },
+  {
+    "sentence": "その塔は高くそびえ立っている。",
+    "sentence_furigana": "その塔【とう】は高【たか】くそびえ立【た】っている。",
+    "meaning": "That tower stands tall."
+  },
+  {
+    "sentence": "彼は常に向上心を持って努力している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】って努力【どりょく】している。",
+    "meaning": "He is always striving with a desire for improvement."
+  },
+  {
+    "sentence": "その作家は新しい作品を発表した。",
+    "sentence_furigana": "その作家【さっか】は新【あたら】しい作品【さくひん】を発表【はっぴょう】した。",
+    "meaning": "The writer released a new work."
+  },
+  {
+    "sentence": "彼は困難な状況でも諦めなかった。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】でも諦【あきら】めなかった。",
+    "meaning": "He did not give up even in difficult situations."
+  },
+  {
+    "sentence": "彼女は多くの挑戦を経験してきた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの挑戦【ちょうせん】を経験【けいけん】してきた。",
+    "meaning": "She has experienced many challenges."
+  },
+  {
+    "sentence": "そのデータはデータベースに登録されている。",
+    "sentence_furigana": "そのデータはデータベースに登録【とうろく】されている。",
+    "meaning": "That data is registered in the database."
+  },
+  {
+    "sentence": "彼は目標を高く設定し、努力を続けた。",
+    "sentence_furigana": "彼【かれ】は目標【もくひょう】を高く設定【せってい】し、努力【どりょく】を続【つづ】けた。",
+    "meaning": "He set high goals and continued to work hard."
+  },
+  {
+    "sentence": "その登山家はエベレスト登頂を目指している。",
+    "sentence_furigana": "その登山家【とざんか】はエベレスト登頂【とうちょう】を目指【めざ】している。",
+    "meaning": "The mountaineer aims to climb Mount Everest."
+  },
+  {
+    "sentence": "彼は数々の賞を受賞した。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "He received numerous awards."
+  },
+  {
+    "sentence": "彼女は高い評価を得て昇進した。",
+    "sentence_furigana": "彼女【かのじょ】は高【たか】い評価【ひょうか】を得【え】て昇進【しょうしん】した。",
+    "meaning": "She was promoted after receiving high praise."
+  },
+  {
+    "sentence": "その会社は上場を目指している。",
+    "sentence_furigana": "その会社【かいしゃ】は上場【じょうじょう】を目指【めざ】している。",
+    "meaning": "That company aims to go public."
+  },
+  {
+    "sentence": "彼は多くの困難を克服した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】を克服【こくふく】した。",
+    "meaning": "He overcame many difficulties."
+  },
+  {
+    "sentence": "その建物は街のランドマークとなっている。",
+    "sentence_furigana": "その建物【たてもの】は街【まち】のランドマークとなっている。",
+    "meaning": "That building has become a landmark in the city."
+  },
+  {
+    "sentence": "彼は人生の階段を一段一段登っていった。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の階段【かいだん】を一段一段【いちだんいちだん】登【のぼ】っていった。",
+    "meaning": "He climbed the ladder of life step by step."
+  },
+  {
+    "sentence": "その情報は多くの人に共有された。",
+    "sentence_furigana": "その情報【じょうほう】は多【おお】くの人に共有【きょうゆう】された。",
+    "meaning": "That information was shared with many people."
+  },
+  {
+    "sentence": "彼は常に前向きな姿勢で努力する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな姿勢【しせい】で努力【どりょく】する。",
+    "meaning": "He always makes efforts with a positive attitude."
+  },
+  {
+    "sentence": "その商品は市場で好評を博した。",
+    "sentence_furigana": "その商品【しょうひん】は市場【しじょう】で好評【こうひょう】を博【はく】した。",
+    "meaning": "That product received good reviews in the market."
+  },
+  {
+    "sentence": "彼は数々の困難を乗り越えて栄光を掴んだ。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の困難【こんなん】を乗【の】り越【こ】えて栄光【えいこう】を掴【つか】んだ。",
+    "meaning": "He achieved glory by overcoming many difficulties."
+  },
+  {
+    "sentence": "その新しい技術は広く普及した。",
+    "sentence_furigana": "その新【あたら】しい技術【ぎじゅつ】は広【ひろ】く普及【ふきゅう】した。",
+    "meaning": "That new technology spread widely."
+  },
+  {
+    "sentence": "彼は目標達成のために日々精進している。",
+    "sentence_furigana": "彼【かれ】は目標達成【もくひょうたっせい】のために日々【ひび】精進【しょうじん】している。",
+    "meaning": "He is striving daily to achieve his goals."
+  },
+  {
+    "sentence": "その登山隊は無事に山頂に登頂した。",
+    "sentence_furigana": "その登山隊【とざんたい】は無事【ぶじ】に山頂【さんちょう】に登頂【とうちょう】した。",
+    "meaning": "The climbing team safely reached the summit."
+  },
+  {
+    "sentence": "彼は常に自己ベストを更新している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己ベストを更新【こうしん】している。",
+    "meaning": "He is always updating his personal best."
+  },
+  {
+    "sentence": "その成果は公表される予定です。",
+    "sentence_furigana": "その成果【せいか】は公表【こうひょう】される予定【よてい】です。",
+    "meaning": "The results are scheduled to be announced."
+  },
+  {
+    "sentence": "彼は目標に向かって着実に歩みを進める。",
+    "sentence_furigana": "彼【かれ】は目標【もくひょう】に向【む】かって着実【ちゃくちゃく】に歩【あゆ】みを進【すす】める。",
+    "meaning": "He steadily moves forward towards his goals."
+  },
+  {
+    "sentence": "その物語は多くの読者の心を掴んだ。",
+    "sentence_furigana": "その物語【ものがたり】は多【おお】くの読者【どくしゃ】の心【こころ】を掴【つか】んだ。",
+    "meaning": "The story captured the hearts of many readers."
+  },
+  {
+    "sentence": "彼は人生のあらゆる場面で努力を惜しまない。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】のあらゆ る場面【ばめん】で努力【どりょく】を惜【お】しまない。",
+    "meaning": "He spares no effort in all aspects of life."
+  },
+  {
+    "sentence": "そのプロジェクトは大きな注目を集めた。",
+    "sentence_furigana": "そのプロジェクトは 大【おお】きな注目【ちゅうもく】を集【あつ】めた。",
+    "meaning": "That project attracted a lot of attention."
+  },
+  {
+    "sentence": "彼は社会に貢献するために尽力している。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】に貢献【こうけん】するために尽力【じんりょく】している。",
+    "meaning": "He is making efforts to contribute to society."
+  },
+  {
+    "sentence": "その製品は市場で高い評価を得た。",
+    "sentence_furigana": "その製品【せいひん】は市場【しじょう】で高【たか】い評価【ひょうか】を得【え】た。",
+    "meaning": "That product received high praise in the market."
+  },
+  {
+    "sentence": "彼は順調にキャリアアップを果たした。",
+    "sentence_furigana": "彼【かれ】は順調【じゅんちょう】にキャリアアップを果た【はた】した。",
+    "meaning": "He successfully advanced his career smoothly."
+  },
+  {
+    "sentence": "その歌手はトップチャートに登場した。",
+    "sentence_furigana": "その歌手【かしゅ】はトップチャートに登場【とうじょう】した。",
+    "meaning": "That singer appeared on the top charts."
+  },
+  {
+    "sentence": "彼は困難な状況でも希望を捨てなかった。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を捨【す】てなかった。",
+    "meaning": "He did not abandon hope even in difficult situations."
+  },
+  {
+    "sentence": "その建物は町の新しいシンボルとなった。",
+    "sentence_furigana": "その建物【たてもの】は町【まち】の 新【あたら】しいシンボルとなった。",
+    "meaning": "That building became the town's new symbol."
+  },
+  {
+    "sentence": "彼は常に自己成長を目指して努力を怠らない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己成長【じこせいちょう】を目指【めざ】して努力【どりょく】を怠【おこた】らない。",
+    "meaning": "He never neglects his efforts to achieve self-growth."
+  },
+  {
+    "sentence": "その発明は広く社会に貢献した。",
+    "sentence_furigana": "その発明【はつめい】は広【ひろ】く社会【しゃかい】に貢献【こうけん】した。",
+    "meaning": "That invention greatly contributed to society."
+  },
+  {
+    "sentence": "彼は目標達成のために情熱を燃やし続けた。",
+    "sentence_furigana": "彼【かれ】は目標達成【もくひょうたっせい】のために情熱【じょうねつ】を燃【も】やし続【つづ】けた。",
+    "meaning": "He continued to burn with passion to achieve his goals."
+  },
+  {
+    "sentence": "その商品は多くの消費者の支持を得た。",
+    "sentence_furigana": "その商品【しょうひん】は多【おお】くの消費者【しょうひしゃ】の支持【しじ】を得【え】た。",
+    "meaning": "That product gained the support of many consumers."
+  },
+  {
+    "sentence": "彼は常に高い目標に挑戦し続ける。",
+    "sentence_furigana": "彼【かれ】は常【つね】に高【たか】い目標【もくひょう】に挑戦【ちょうせん】し続【つづ】ける。",
+    "meaning": "He always continues to challenge high goals."
+  },
+  {
+    "sentence": "その記録は歴史に名を残すだろう。",
+    "sentence_furigana": "その記録【きろく】は歴史【れきし】に名【な】を残【のこ】すだろう。",
+    "meaning": "That record will leave its mark on history."
+  },
+  {
+    "sentence": "彼は数々の困難を乗り越え、ついに頂点に達した。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の困難【こんなん】を乗【の】り越【こ】え、ついに頂点【ちょうてん】に達【たっ】した。",
+    "meaning": "He overcame numerous difficulties and finally reached the summit."
+  },
+  {
+    "sentence": "その新しい政策は国民の支持を得た。",
+    "sentence_furigana": "その新【あたら】しい政策【せいさく】は国民【こくみん】の支持【しじ】を得【え】た。",
+    "meaning": "That new policy gained the support of the people."
+  },
+  {
+    "sentence": "彼はその分野で先駆者となった。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】で先駆者【せんくしゃ】となった。",
+    "meaning": "He became a pioneer in that field."
+  },
+  {
+    "sentence": "その会議は上層部で開催された。",
+    "sentence_furigana": "その会議【かいぎ】は上層部【じょうそうぶ】で開催【かいさい】された。",
+    "meaning": "The meeting was held by upper management."
+  },
+  {
+    "sentence": "彼は常に向上を目指して努力を惜しまない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上【こうじょう】を目指【めざ】して努力【どりょく】を惜【お】しまない。",
+    "meaning": "He spares no effort, always aiming for improvement."
+  },
+  {
+    "sentence": "その情報は速やかに公表された。",
+    "sentence_furigana": "その情報【じょうほう】は速【すみ】やかに公表【こうひょう】された。",
+    "meaning": "The information was promptly released."
+  },
+  {
+    "sentence": "彼は社会の階段を駆け上がっていった。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の階段【かいだん】を駆【か】け上【あ】がっていった。",
+    "meaning": "He rapidly climbed the social ladder."
+  },
+  {
+    "sentence": "その商品は市場で爆発的な人気を得た。",
+    "sentence_furigana": "その商品【しょうひん】は市場【しじょう】で爆発的【ばくはつてき】な人気【にんき】を得【え】た。",
+    "meaning": "That product gained explosive popularity in the market."
+  },
+  {
+    "sentence": "彼は困難を乗り越え、ついに成功を収めた。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を乗【の】り越【こ】え、ついに成功【せいこう】を収【おさ】めた。",
+    "meaning": "He overcame difficulties and finally achieved success."
+  },
+  {
+    "sentence": "その大学は全国から学生を募集している。",
+    "sentence_furigana": "その大学【だいがく】は全国【ぜんこく】から学生【がくせい】を募集【ぼしゅう】している。",
+    "meaning": "That university is recruiting students from all over the country."
+  },
+  {
+    "sentence": "彼は常に自己ベストを超えるために努力する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己ベストを超【こ】えるために努力【どりょく】する。",
+    "meaning": "He always strives to surpass his personal best."
+  },
+  {
+    "sentence": "その建物はランドマークとして多くの人に認識されている。",
+    "sentence_furigana": "その建物【たてもの】はランドマークとして多【おお】くの人に認識【にんしき】されている。",
+    "meaning": "That building is recognized by many people as a landmark."
+  },
+  {
+    "sentence": "彼は数々の困難を乗り越えて、ついに夢を叶えた。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の困難【こんなん】を乗【の】り越【こ】えて、ついに夢【ゆめ】を叶【かな】えた。",
+    "meaning": "He overcame many difficulties and finally realized his dream."
+  },
+  {
+    "sentence": "その情報は速やかに公開された。",
+    "sentence_furigana": "その情報【じょうほう】は速【すみ】やかに公開【こうかい】された。",
+    "meaning": "The information was promptly disclosed."
+  },
+  {
+    "sentence": "彼は社会的な地位を向上させた。",
+    "sentence_furigana": "彼【かれ】は社会的【しゃかいてき】な地位【ちい】を向上【こうじょう】させた。",
+    "meaning": "He improved his social status."
+  },
+  {
+    "sentence": "その商品は市場で高いシェアを獲得した。",
+    "sentence_furigana": "その商品【しょうひん】は市場【しじょう】で高【たか】いシェアを獲得【かくとく】した。",
+    "meaning": "That product gained a high market share."
+  },
+  {
+    "sentence": "彼は常に高い目標を設定し、努力を続ける。",
+    "sentence_furigana": "彼【かれ】は常【つね】に高【たか】い目標【もくひょう】を設定【せってい】し、努力【どりょく】を続【つづ】ける。",
+    "meaning": "He always sets high goals and continues to work hard."
+  },
+  {
+    "sentence": "その登山家は世界最高峰に登頂した。",
+    "sentence_furigana": "その登山家【とざんか】は世界最高峰【せかいさいこうほう】に登頂【とうちょう】した。",
+    "meaning": "The mountaineer reached the highest peak in the world."
+  },
+  {
+    "sentence": "彼は数々の困難を克服し、成功への道を切り開いた。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の困難【こんなん】を克服【こくふく】し、成功【せいこう】への道【みち】を切【き】り開【ひら】いた。",
+    "meaning": "He overcame numerous difficulties and paved his way to success."
+  },
+  {
+    "sentence": "その記録は歴史的な偉業となった。",
+    "sentence_furigana": "その記録【きろく】は歴史的【れきしてき】な偉業【いぎょう】となった。",
+    "meaning": "That record became a historic achievement."
+  },
+  {
+    "sentence": "彼は困難を乗り越え、ついに目標を達成した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】を乗【の】り越【こ】え、ついに目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He overcame difficulties and finally achieved his goal."
+  },
+  {
+    "sentence": "その商品は市場で成功を収めた。",
+    "sentence_furigana": "その商品【しょうひん】は市場【しじょう】で成功【せいこう】を収【おさ】めた。",
+    "meaning": "That product achieved success in the market."
+  },
+  {
+    "sentence": "彼は常に自己の限界を超えようと努力している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己【じこ】の限界【げんかい】を超【こ】えようと努力【どりょく】している。",
+    "meaning": "He is always striving to exceed his own limits."
+  },
+  {
+    "sentence": "その情報は世界中に配信された。",
+    "sentence_furigana": "その情報【じょうほう】は世界中【せかいじゅう】に配信【はいしん】された。",
+    "meaning": "The information was distributed worldwide."
+  },
+  {
+    "sentence": "彼は社会の階段を力強く登っていった。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の階段【かいだん】を力強【ちからづよ】く登【のぼ】っていった。",
+    "meaning": "He powerfully climbed the social ladder."
+  },
+  {
+    "sentence": "その商品は多くの人々に愛された。",
+    "sentence_furigana": "その商品【しょうひん】は多【おお】くの人々に愛【あい】された。",
+    "meaning": "That product was loved by many people."
+  }
+]

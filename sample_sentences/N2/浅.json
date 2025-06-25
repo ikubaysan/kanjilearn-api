@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "彼は浅い川を渡った。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い川【かわ】を渡【わた】った。",
+    "meaning": "He crossed the shallow river."
+  },
+  {
+    "sentence": "その知識はあまりにも浅い。",
+    "sentence_furigana": "その知識【ちしき】はあまりにも浅【あさ】い。",
+    "meaning": "That knowledge is too superficial."
+  },
+  {
+    "sentence": "彼の意見は浅薄だ。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は浅薄【せんぱく】だ。",
+    "meaning": "His opinion is frivolous."
+  },
+  {
+    "sentence": "それは浅ましい行為だった。",
+    "sentence_furigana": "それは浅【あさ】ましい行為【こうい】だった。",
+    "meaning": "That was a wretched act."
+  },
+  {
+    "sentence": "彼の裏切りは浅ましい。",
+    "sentence_furigana": "彼【かれ】の裏切【うらぎ】り は浅【あさ】ましい。",
+    "meaning": "His betrayal is shameful."
+  },
+  {
+    "sentence": "池の水は浅かった。",
+    "sentence_furigana": "池【いけ】の水【みず】は浅【あさ】かった。",
+    "meaning": "The pond water was shallow."
+  },
+  {
+    "sentence": "彼は浅い眠りについていた。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い眠【ねむ】りについていた。",
+    "meaning": "He was in a light sleep."
+  },
+  {
+    "sentence": "彼の理解はまだ浅い。",
+    "sentence_furigana": "彼【かれ】の理解【りかい】はまだ浅【あさ】い。",
+    "meaning": "His understanding is still superficial."
+  },
+  {
+    "sentence": "それは浅慮な計画だ。",
+    "sentence_furigana": "それは浅慮【せんりょ】な計画【けいかく】だ。",
+    "meaning": "That is a frivolous plan."
+  },
+  {
+    "sentence": "彼の行動は浅ましい。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は浅【あさ】ましい。",
+    "meaning": "His actions are wretched."
+  },
+  {
+    "sentence": "その川は浅瀬が多い。",
+    "sentence_furigana": "その川【かわ】は浅瀬【あさせ】が多【おお】い。",
+    "meaning": "That river has many shallow parts."
+  },
+  {
+    "sentence": "彼女の趣味は浅薄に見える。",
+    "sentence_furigana": "彼女【かのじょ】の趣味【しゅみ】は浅薄【せんぱく】に見【み】える。",
+    "meaning": "Her hobbies seem superficial."
+  },
+  {
+    "sentence": "彼は浅い愛情しか持てない。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い愛情【あいじょう】しか持【も】てない。",
+    "meaning": "He can only have shallow affection."
+  },
+  {
+    "sentence": "彼の目は浅い憎しみを湛えていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は浅【あさ】い憎【にく】しみを湛【たた】えていた。",
+    "meaning": "His eyes held a superficial hatred."
+  },
+  {
+    "sentence": "それは浅はかな考えだった。",
+    "sentence_furigana": "それは浅【あさ】はかな考【かんが】えだった。",
+    "meaning": "That was a frivolous thought."
+  },
+  {
+    "sentence": "彼らは浅ましい欲望に駆られていた。",
+    "sentence_furigana": "彼【かれ】ら は浅【あさ】ましい欲望【よくぼう】に駆【か】られていた。",
+    "meaning": "They were driven by wretched desires."
+  },
+  {
+    "sentence": "湖の岸辺は浅くなっていた。",
+    "sentence_furigana": "湖【みずうみ】の岸辺【きしべ】は浅【あさ】くなっていた。",
+    "meaning": "The lake shore had become shallow."
+  },
+  {
+    "sentence": "この本は内容が浅い。",
+    "sentence_furigana": "この本【ほん】は内容【ないよう】が浅【あさ】い。",
+    "meaning": "This book's content is superficial."
+  },
+  {
+    "sentence": "彼の計画は浅い。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は浅【あさ】い。",
+    "meaning": "His plan is superficial."
+  },
+  {
+    "sentence": "この川は流れが浅い。",
+    "sentence_furigana": "この川【かわ】は流【なが】れが浅【あさ】い。",
+    "meaning": "This river has shallow currents."
+  },
+  {
+    "sentence": "彼の友情は浅いものだった。",
+    "sentence_furigana": "彼【かれ】の友情【ゆうじょう】は浅【あさ】いものだった。",
+    "meaning": "His friendship was superficial."
+  },
+  {
+    "sentence": "それは浅ましい見栄だった。",
+    "sentence_furigana": "それは浅【あさ】ましい見栄【みえ】だった。",
+    "meaning": "It was a wretched display of pride."
+  },
+  {
+    "sentence": "彼は浅い知識で語る。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い知識【ちしき】で語【かた】る。",
+    "meaning": "He speaks with superficial knowledge."
+  },
+  {
+    "sentence": "浅い傷で済んだ。",
+    "sentence_furigana": "浅【あさ】い傷【きず】で済【す】んだ。",
+    "meaning": "It was only a shallow wound."
+  },
+  {
+    "sentence": "彼の考えは浅慮に過ぎない。",
+    "sentence_furigana": "彼【かれ】の考【かんが】えは浅慮【せんりょ】に過【す】ぎない。",
+    "meaning": "His thinking is nothing but frivolous."
+  },
+  {
+    "sentence": "彼は浅ましさから嘘をついた。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】ましさから嘘【うそ】をついた。",
+    "meaning": "He lied out of wretchedness."
+  },
+  {
+    "sentence": "その湖は最も浅い所で1メートルしかない。",
+    "sentence_furigana": "その湖【みずうみ】は最も【もっとも】浅【あさ】い所【ところ】で1メートルしかない。",
+    "meaning": "The lake is only 1 meter deep at its shallowest point."
+  },
+  {
+    "sentence": "彼の意見は浅い。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は浅【あさ】い。",
+    "meaning": "His opinion is shallow."
+  },
+  {
+    "sentence": "この本は読者層が浅い。",
+    "sentence_furigana": "この本【ほん】は読者層【どくしゃそう】が浅【あさ】い。",
+    "meaning": "This book has a superficial readership."
+  },
+  {
+    "sentence": "彼の愛情は浅かった。",
+    "sentence_furigana": "彼【かれ】の愛情【あいじょう】は浅【あさ】かった。",
+    "meaning": "His love was shallow."
+  },
+  {
+    "sentence": "それは浅ましい行動だ。",
+    "sentence_furigana": "それは浅【あさ】ましい行動【こうどう】だ。",
+    "meaning": "That is a wretched action."
+  },
+  {
+    "sentence": "彼は浅い海で泳いだ。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い海【うみ】で泳【およ】いだ。",
+    "meaning": "He swam in the shallow sea."
+  },
+  {
+    "sentence": "その研究は浅い。",
+    "sentence_furigana": "その研究【けんきゅう】は浅【あさ】い。",
+    "meaning": "That research is superficial."
+  },
+  {
+    "sentence": "浅い川には魚が少ない。",
+    "sentence_furigana": "浅【あさ】い川【かわ】には魚【さかな】が少【すく】ない。",
+    "meaning": "There are few fish in shallow rivers."
+  },
+  {
+    "sentence": "彼の経験は浅い。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は浅【あさ】い。",
+    "meaning": "His experience is shallow."
+  },
+  {
+    "sentence": "これは浅い水溜まりだ。",
+    "sentence_furigana": "これ は浅【あさ】い水溜【みずた】まりだ。",
+    "meaning": "This is a shallow puddle."
+  },
+  {
+    "sentence": "浅い関係に過ぎなかった。",
+    "sentence_furigana": "浅【あさ】い関係【かんけい】に過【す】ぎなかった。",
+    "meaning": "It was nothing more than a superficial relationship."
+  },
+  {
+    "sentence": "彼の態度は浅薄だった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は浅薄【せんぱく】だった。",
+    "meaning": "His attitude was superficial."
+  },
+  {
+    "sentence": "浅ましいことを考えるな。",
+    "sentence_furigana": "浅【あさ】ましいこと を考【かんが】えるな。",
+    "meaning": "Don't think wretched thoughts."
+  },
+  {
+    "sentence": "水の流れが浅くなった。",
+    "sentence_furigana": "水【みず】の流【なが】れが浅【あさ】くなった。",
+    "meaning": "The water flow became shallow."
+  },
+  {
+    "sentence": "彼は浅い眠りから覚めた。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い眠【ねむ】りから覚【さ】めた。",
+    "meaning": "He woke from a light sleep."
+  },
+  {
+    "sentence": "その川はとても浅い。",
+    "sentence_furigana": "その川【かわ】はとても浅【あさ】い。",
+    "meaning": "That river is very shallow."
+  },
+  {
+    "sentence": "彼の知識は浅い。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は浅【あさ】い。",
+    "meaning": "His knowledge is shallow."
+  },
+  {
+    "sentence": "浅い溝を飛び越えた。",
+    "sentence_furigana": "浅【あさ】い溝【みぞ】を飛【と】び越【こ】えた。",
+    "meaning": "He jumped over the shallow ditch."
+  },
+  {
+    "sentence": "浅はかな希望を抱いていた。",
+    "sentence_furigana": "浅【あさ】はかな希望【きぼう】を抱【いだ】いていた。",
+    "meaning": "He harbored frivolous hopes."
+  },
+  {
+    "sentence": "その行為は浅ましい。",
+    "sentence_furigana": "その行為【こうい】は浅【あさ】ましい。",
+    "meaning": "That act is wretched."
+  },
+  {
+    "sentence": "浅い海を歩いて渡る。",
+    "sentence_furigana": "浅【あさ】い海【うみ】を歩【ある】いて渡【わた】る。",
+    "meaning": "To walk across the shallow sea."
+  },
+  {
+    "sentence": "彼の意見は浅薄に聞こえる。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は浅薄【せんぱく】に聞【き】こえる。",
+    "meaning": "His opinion sounds superficial."
+  },
+  {
+    "sentence": "この分野の理解が浅い。",
+    "sentence_furigana": "この分野【ぶんや】の理解【りかい】が浅【あさ】い。",
+    "meaning": "My understanding of this field is shallow."
+  },
+  {
+    "sentence": "それは浅い川なので、歩いて渡れる。",
+    "sentence_furigana": "それは浅【あさ】い川【かわ】なので、歩【ある】いて渡【わた】れる。",
+    "meaning": "It is a shallow river, so we can walk across it."
+  },
+  {
+    "sentence": "彼の人生経験は浅い。",
+    "sentence_furigana": "彼【かれ】の人生経験【じんせいけいけん】は浅【あさ】い。",
+    "meaning": "His life experience is shallow."
+  },
+  {
+    "sentence": "浅い水溜まりに足を滑らせた。",
+    "sentence_furigana": "浅【あさ】い水溜【みずた】まりに足【あし】を滑【す】らせた。",
+    "meaning": "I slipped my foot in a shallow puddle."
+  },
+  {
+    "sentence": "浅い感情しか持てなかった。",
+    "sentence_furigana": "浅【あさ】い感情【かんじょう】しか持【も】てなかった。",
+    "meaning": "I could only have shallow emotions."
+  },
+  {
+    "sentence": "浅はかな希望はすぐに消えた。",
+    "sentence_furigana": "浅【あさ】はかな希望【きぼう】はすぐ に消【き】えた。",
+    "meaning": "The frivolous hopes quickly disappeared."
+  },
+  {
+    "sentence": "その誘惑は浅ましい。",
+    "sentence_furigana": "その誘惑【ゆうわく】は浅【あさ】ましい。",
+    "meaning": "That temptation is wretched."
+  },
+  {
+    "sentence": "浅いところを泳いでいる。",
+    "sentence_furigana": "浅【あさ】いところを泳【およ】いでいる。",
+    "meaning": "Swimming in the shallow part."
+  },
+  {
+    "sentence": "彼の分析は浅い。",
+    "sentence_furigana": "彼【かれ】の分析【ぶんせき】は浅【あさ】い。",
+    "meaning": "His analysis is superficial."
+  },
+  {
+    "sentence": "川の水面が浅くなっている。",
+    "sentence_furigana": "川【かわ】の水面【すいめん】が浅【あさ】くなっている。",
+    "meaning": "The river's surface has become shallow."
+  },
+  {
+    "sentence": "浅い知識では役に立たない。",
+    "sentence_furigana": "浅【あさ】い知識【ちしき】では役【やく】に立【た】たない。",
+    "meaning": "Shallow knowledge is useless."
+  },
+  {
+    "sentence": "その計画は浅い。",
+    "sentence_furigana": "その計画【けいかく】は浅【あさ】い。",
+    "meaning": "That plan is superficial."
+  },
+  {
+    "sentence": "彼は浅い傷を負った。",
+    "sentence_furigana": "彼【かれ】は浅【あさ】い傷【きず】を負【お】った。",
+    "meaning": "He suffered a shallow wound."
+  },
+  {
+    "sentence": "浅い眠りでうとうとしていた。",
+    "sentence_furigana": "浅【あさ】い眠【ねむ】りでうとうとしていた。",
+    "meaning": "He was dozing in a light sleep."
+  },
+  {
+    "sentence": "彼の理解はまだ浅い。",
+    "sentence_furigana": "彼【かれ】の理解【りかい】はまだ浅【あさ】い。",
+    "meaning": "His comprehension is still superficial."
+  },
+  {
+    "sentence": "浅い川で子供たちが遊んでいる。",
+    "sentence_furigana": "浅【あさ】い川【かわ】で子供【こども】たち が遊【あそ】んでいる。",
+    "meaning": "Children are playing in the shallow river."
+  },
+  {
+    "sentence": "それは浅はかな野心だ。",
+    "sentence_furigana": "それは浅【あさ】はかな野心【やしん】だ。",
+    "meaning": "It is a frivolous ambition."
+  },
+  {
+    "sentence": "浅ましい欲望に打ち勝った。",
+    "sentence_furigana": "浅【あさ】ましい欲望【よくぼう】に打【う】ち勝【か】った。",
+    "meaning": "He overcame his wretched desires."
+  },
+  {
+    "sentence": "この湖は一部が浅い。",
+    "sentence_furigana": "この湖【みずうみ】は一部【いちぶ】が浅【あさ】い。",
+    "meaning": "This lake is shallow in parts."
+  },
+  {
+    "sentence": "彼の知識は表面的で浅い。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は表面的【ひょうめんてき】で浅【あさ】い。",
+    "meaning": "His knowledge is superficial and shallow."
+  },
+  {
+    "sentence": "浅い溝を掘った。",
+    "sentence_furigana": "浅【あさ】い溝【みぞ】を掘【ほ】った。",
+    "meaning": "He dug a shallow trench."
+  },
+  {
+    "sentence": "彼の感情は浅かった。",
+    "sentence_furigana": "彼【かれ】の感情【かんじょう】は浅【あさ】かった。",
+    "meaning": "His emotions were shallow."
+  },
+  {
+    "sentence": "浅い海の底を歩く。",
+    "sentence_furigana": "浅【あさ】い海【うみ】の底【そこ】を歩【ある】く。",
+    "meaning": "Walking on the bottom of the shallow sea."
+  },
+  {
+    "sentence": "彼の理解は浅かった。",
+    "sentence_furigana": "彼【かれ】の理解【りかい】は浅【あさ】かった。",
+    "meaning": "His understanding was shallow."
+  },
+  {
+    "sentence": "浅い眠りについた。",
+    "sentence_furigana": "浅【あさ】い眠【ねむ】りについた。",
+    "meaning": "He fell into a light sleep."
+  },
+  {
+    "sentence": "浅い考えしか持てない。",
+    "sentence_furigana": "浅【あさ】い考【かんが】えしか持【も】てない。",
+    "meaning": "I can only have shallow thoughts."
+  },
+  {
+    "sentence": "この川は浅くて危険だ。",
+    "sentence_furigana": "この川【かわ】は浅【あさ】くて危険【きけん】だ。",
+    "meaning": "This river is shallow and dangerous."
+  },
+  {
+    "sentence": "彼の友情は浅薄だった。",
+    "sentence_furigana": "彼【かれ】の友情【ゆうじょう】は浅薄【せんぱく】だった。",
+    "meaning": "His friendship was superficial."
+  },
+  {
+    "sentence": "浅ましい根性だ。",
+    "sentence_furigana": "浅【あさ】ましい根性【こんじょう】だ。",
+    "meaning": "It's a wretched spirit."
+  },
+  {
+    "sentence": "浅い池には水草が多い。",
+    "sentence_furigana": "浅【あさ】い池【いけ】には水草【みずくさ】が多【おお】い。",
+    "meaning": "There is a lot of aquatic plants in the shallow pond."
+  },
+  {
+    "sentence": "彼の知識は浅い。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は浅【あさ】い。",
+    "meaning": "His knowledge is superficial."
+  },
+  {
+    "sentence": "浅い傷を手当てした。",
+    "sentence_furigana": "浅【あさ】い傷【きず】を手当【てあ】てした。",
+    "meaning": "He treated a shallow wound."
+  },
+  {
+    "sentence": "この本は内容が浅薄だ。",
+    "sentence_furigana": "この本【ほん】は内容【ないよう】が浅薄【せんぱく】だ。",
+    "meaning": "This book's content is superficial."
+  },
+  {
+    "sentence": "浅い川で魚を捕った。",
+    "sentence_furigana": "浅【あさ】い川【かわ】で魚【さかな】を捕【と】った。",
+    "meaning": "He caught fish in the shallow river."
+  },
+  {
+    "sentence": "彼の思いは浅い。",
+    "sentence_furigana": "彼【かれ】の思【おも】いは浅【あさ】い。",
+    "meaning": "His thoughts are shallow."
+  },
+  {
+    "sentence": "浅い眠りから目が覚めた。",
+    "sentence_furigana": "浅【あさ】い眠【ねむ】りから目【め】が覚【さ】めた。",
+    "meaning": "I woke up from a light sleep."
+  },
+  {
+    "sentence": "その溝は浅かった。",
+    "sentence_furigana": "その溝【みぞ】は浅【あさ】かった。",
+    "meaning": "That ditch was shallow."
+  },
+  {
+    "sentence": "彼の計画は浅慮に終わった。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は浅慮【せんりょ】に終【お】わった。",
+    "meaning": "His plan ended in frivolity."
+  },
+  {
+    "sentence": "浅ましい行為は恥ずべきだ。",
+    "sentence_furigana": "浅【あさ】ましい行為【こうい】は恥【は】ずべきだ。",
+    "meaning": "Wretched acts are shameful."
+  },
+  {
+    "sentence": "浅い知識で語らない方がいい。",
+    "sentence_furigana": "浅【あさ】い知識【ちしき】で語【かた】らない方【ほう】がいい。",
+    "meaning": "It's better not to speak with shallow knowledge."
+  },
+  {
+    "sentence": "浅い愛情しか感じられなかった。",
+    "sentence_furigana": "浅【あさ】い愛情【あいじょう】しか感【かん】じられなかった。",
+    "meaning": "I could only feel shallow affection."
+  },
+  {
+    "sentence": "湖の浅い場所で魚を釣った。",
+    "sentence_furigana": "湖【みずうみ】の浅【あさ】い場所【ばしょ】で魚【さかな】を釣【つ】った。",
+    "meaning": "He fished in the shallow part of the lake."
+  },
+  {
+    "sentence": "彼の理解は浅薄である。",
+    "sentence_furigana": "彼【かれ】の理解【りかい】は浅薄【せんぱく】である。",
+    "meaning": "His understanding is superficial."
+  },
+  {
+    "sentence": "浅はかな考えは捨てるべきだ。",
+    "sentence_furigana": "浅【あさ】はかな考【かんが】えは捨【す】てるべきだ。",
+    "meaning": "Frivolous thoughts should be discarded."
+  },
+  {
+    "sentence": "浅ましい願いは叶わない。",
+    "sentence_furigana": "浅【あさ】ましい願【ねが】いは叶【かな】わない。",
+    "meaning": "Wretched desires will not be fulfilled."
+  },
+  {
+    "sentence": "浅い水たまりに波紋が広がった。",
+    "sentence_furigana": "浅【あさ】い水たまりに波紋【はもん】が広【ひろ】がった。",
+    "meaning": "Ripples spread across the shallow puddle."
+  },
+  {
+    "sentence": "この川の深さは浅い。",
+    "sentence_furigana": "この川【かわ】の深【ふか】さは浅【あさ】い。",
+    "meaning": "The depth of this river is shallow."
+  },
+  {
+    "sentence": "浅い経験しか持っていない。",
+    "sentence_furigana": "浅【あさ】い経験【けいけん】しか持【も】っていない。",
+    "meaning": "I only have shallow experience."
+  },
+  {
+    "sentence": "彼のコメントは浅薄に聞こえた。",
+    "sentence_furigana": "彼【かれ】のコメントは浅薄【せんぱく】に聞【き】こえた。",
+    "meaning": "His comment sounded superficial."
+  },
+  {
+    "sentence": "浅い眠りから無理に目を覚ました。",
+    "sentence_furigana": "浅【あさ】い眠【ねむ】りから無理【むり】に目【め】を覚【さ】ました。",
+    "meaning": "I forced myself awake from a light sleep."
+  },
+  {
+    "sentence": "浅いところで足を止めた。",
+    "sentence_furigana": "浅【あさ】いところで足【あし】を止【と】めた。",
+    "meaning": "I stopped my feet in the shallow area."
+  },
+  {
+    "sentence": "彼の友情は浅かったため、すぐに終わった。",
+    "sentence_furigana": "彼【かれ】の友情【ゆうじょう】は浅【あさ】かったため、すぐ に終【お】わった。",
+    "meaning": "His friendship was shallow, so it ended quickly."
+  },
+  {
+    "sentence": "浅い知識では議論にならない。",
+    "sentence_furigana": "浅【あさ】い知識【ちしき】では議論【ぎろん】に ならない。",
+    "meaning": "There's no point in debating with shallow knowledge."
+  },
+  {
+    "sentence": "浅はかな考えで行動した結果、失敗した。",
+    "sentence_furigana": "浅【あさ】はかな考【かんが】えで行動【こうどう】した結果【けっか】、失敗【しっぱい】した。",
+    "meaning": "As a result of acting on frivolous thoughts, I failed."
+  },
+  {
+    "sentence": "浅ましい欲望に身を任せるな。",
+    "sentence_furigana": "浅【あさ】ましい欲望【よくぼう】に身【み】を任【まか】せるな。",
+    "meaning": "Don't surrender yourself to wretched desires."
+  },
+  {
+    "sentence": "この川は流れが浅い。",
+    "sentence_furigana": "この川【かわ】は流【なが】れが浅【あさ】い。",
+    "meaning": "The current of this river is shallow."
+  }
+]

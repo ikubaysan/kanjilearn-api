@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "彼はその会社の部長として司っていた。",
+    "sentence_furigana": "彼【かれ】ははその会社【かいしゃ】の部長【ぶちょう】として司【つかさど】っていた。",
+    "meaning": "He was managing the company as its director."
+  },
+  {
+    "sentence": "政府は新しい政策を司るための専門部署を設置した。",
+    "sentence_furigana": "政府【せいふ】は新【あたら】しい政策【せいさく】を司【つかさど】るための専門部署【せんもんぶしょ】を設置【せっち】した。",
+    "meaning": "The government established a specialized department to administer the new policy."
+  },
+  {
+    "sentence": "彼女は部署の業務全般を司る責任者です。",
+    "sentence_furigana": "彼女【かのじょ】は部署【ぶしょ】の業務全般【ぎょうむぜんぱん】を司【つかさど】る責任者【せきにんしゃ】です。",
+    "meaning": "She is the person in charge of managing all departmental operations."
+  },
+  {
+    "sentence": "このプロジェクトの成功は、君の司る手腕にかかっている。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】は、君【きみ】の司【つかさど】る手腕【しゅわん】にかかっている。",
+    "meaning": "The success of this project depends on your management skills."
+  },
+  {
+    "sentence": "法務省は国の司法制度を司る重要な機関です。",
+    "sentence_furigana": "法務省【ほうむしょう】は国【くに】の司法制度【しほうせいど】を司【つかさど】る重要【じゅうよう】な機関【きかん】です。",
+    "meaning": "The Ministry of Justice is an important institution that administers the country's judicial system."
+  },
+  {
+    "sentence": "彼は会議の進行をスムーズに司った。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の進行【しんこう】をスムーズに司【つかさど】った。",
+    "meaning": "He smoothly managed the progress of the meeting."
+  },
+  {
+    "sentence": "その官僚は多くの公務を司っていた。",
+    "sentence_furigana": "その官僚【かんりょう】は多【おお】くの公務【こうむ】を司【つかさど】っていた。",
+    "meaning": "That official administered many public affairs."
+  },
+  {
+    "sentence": "経済産業省は日本の産業政策を司る。",
+    "sentence_furigana": "経済産業省【けいざいさんぎょうしょう】は日本【にほん】の産業政策【さんぎょうせいさく】を司【つかさど】る。",
+    "meaning": "The Ministry of Economy, Trade and Industry administers Japan's industrial policy."
+  },
+  {
+    "sentence": "彼はチームリーダーとして、チーム全体の活動を司る役割を担っている。",
+    "sentence_furigana": "彼【かれ】はチームリーダーとして、チーム全体【ぜんたい】の活動【かつどう】を司【つかさど】る役割【やくわり】を担【にな】っている。",
+    "meaning": "As team leader, he plays the role of managing the team's overall activities."
+  },
+  {
+    "sentence": "この組織では、人事部は採用活動を司ります。",
+    "sentence_furigana": "この組織【そしき】では、人事部【じんじぶ】は採用活動【さいようかつどう】を司【つかさど】ります。",
+    "meaning": "In this organization, the HR department manages recruitment activities."
+  },
+  {
+    "sentence": "国家の安全保障は、国防省が司る重要な任務です。",
+    "sentence_furigana": "国家【こっか】の安全保障【あんぜんほしょう】は、国防省【こくぼうしょう】が司【つかさど】る重要【じゅうよう】な任務【にんむ】です。",
+    "meaning": "National security is an important mission administered by the Ministry of Defense."
+  },
+  {
+    "sentence": "イベントの運営は、専門のイベント会社が司っていました。",
+    "sentence_furigana": "イベントの運営【うんえい】は、専門【せんもん】のイベント会社【がいしゃ】が司【つかさど】っていました。",
+    "meaning": "The event operations were managed by a specialized event company."
+  },
+  {
+    "sentence": "彼は新しい事業計画の策定と実施を司る。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業計画【じぎょうけいかく】の策定【さくてい】と実施【じっし】を司【つかさど】る。",
+    "meaning": "He manages the formulation and implementation of the new business plan."
+  },
+  {
+    "sentence": "内閣府は日本の多くの行政を司っている。",
+    "sentence_furigana": "内閣府【ないかくふ】は日本【にほん】の多【おお】くの行政【ぎょうせい】を司【つかさど】っている。",
+    "meaning": "The Cabinet Office administers much of Japan's government."
+  },
+  {
+    "sentence": "彼女はプロジェクトの予算管理を司る担当者です。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトの予算管理【よさんかんり】を司【つかさど】る担当者【たんとうしゃ】です。",
+    "meaning": "She is the person in charge of managing the project's budget."
+  },
+  {
+    "sentence": "この部門は、研究開発の全プロセスを司る責任があります。",
+    "sentence_furigana": "この部門【ぶもん】は、研究開発【けんきゅうかいはつ】の全プロセス【ぜんぷろせす】を司【つかさど】る責任【せきにん】があります。",
+    "meaning": "This department is responsible for managing the entire R&D process."
+  },
+  {
+    "sentence": "彼は海外支店の運営を円滑に司る。",
+    "sentence_furigana": "彼【かれ】は海外支店【かいがいしてん】の運営【うんえい】を円滑【えんかつ】に司【つかさど】る。",
+    "meaning": "He smoothly manages the operations of overseas branches."
+  },
+  {
+    "sentence": "その施設は、高度な技術を司る専門家によって管理されている。",
+    "sentence_furigana": "その施設【しせつ】は、高度【こうど】な技術【ぎじゅつ】を司【つかさど】る専門家【せんもんか】によって管理【かんり】されている。",
+    "meaning": "The facility is managed by experts who handle advanced technology."
+  },
+  {
+    "sentence": "彼は、新しいソフトウェアの導入を司るチームを率いている。",
+    "sentence_furigana": "彼【かれ】は、新【あたら】しいソフトウェアの導入【どうにゅう】を司【つかさど】るチームを率【ひき】いている。",
+    "meaning": "He leads the team responsible for implementing the new software."
+  },
+  {
+    "sentence": "この大学の図書館は、学術情報の管理を司っています。",
+    "sentence_furigana": "この大学【だいがく】の図書館【としょかん】は、学術情報【がくじゅつじょうほう】の管理【かんり】を司【つかさど】っています。",
+    "meaning": "This university's library manages academic information."
+  },
+  {
+    "sentence": "政府は国民の生活の安全を司る義務がある。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の生活【せいかつ】の安全【あんぜん】を司【つかさど】る義務【ぎむ】がある。",
+    "meaning": "The government has a duty to administer the safety of citizens' lives."
+  },
+  {
+    "sentence": "彼女は、会社の広報戦略を司る部門のトップです。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の広報戦略【こうほうせんりゃく】を司【つかさど】る部門【ぶもん】のトップです。",
+    "meaning": "She is the head of the department that manages the company's public relations strategy."
+  },
+  {
+    "sentence": "彼はイベントの企画から実行までを全て司った。",
+    "sentence_furigana": "彼【かれ】はイベントの企画【きかく】から実行【じっこう】までを全【すべ】て司【つかさど】った。",
+    "meaning": "He managed everything from the planning to the execution of the event."
+  },
+  {
+    "sentence": "この法律は、企業の活動を規制し、司るためのものです。",
+    "sentence_furigana": "この法律【ほうりつ】は、企業【きぎょう】の活動【かつどう】を規制【きせい】し、司【つかさど】るためのものです。",
+    "meaning": "This law is intended to regulate and administer corporate activities."
+  },
+  {
+    "sentence": "彼は、チームの士気を高めるための活動を司っていた。",
+    "sentence_furigana": "彼【かれ】は、チームの士気【しき】を高【たか】めるための活動【かつどう】を司【つかさど】っていた。",
+    "meaning": "He was managing activities to boost team morale."
+  },
+  {
+    "sentence": "その都市の交通システムは、専門の管理官が司っている。",
+    "sentence_furigana": "その都市【とし】の交通システム【こうつうしすてむ】は、専門【せんもん】の管理官【かんりかん】が司【つかさど】っている。",
+    "meaning": "The city's transportation system is managed by a specialized administrator."
+  },
+  {
+    "sentence": "彼女は、会社の危機管理体制を司る役割を担っています。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の危機管理体制【ききかんりたいせい】を司【つかさど】る役割【やくわり】を担【にな】っています。",
+    "meaning": "She is responsible for managing the company's crisis management system."
+  },
+  {
+    "sentence": "彼は、新しいウェブサイトのデザインと開発を司る。",
+    "sentence_furigana": "彼【かれ】は、新【あたら】しいウェブサイトのデザインと開発【かいはつ】を司【つかさど】る。",
+    "meaning": "He manages the design and development of the new website."
+  },
+  {
+    "sentence": "この工場では、生産ラインの全てを経験豊富な監督が司っている。",
+    "sentence_furigana": "この工場【こうじょう】では、生産ライン【せいさんらいん】の全【すべ】てを経験豊富【けいけんほうふ】な監督【かんとく】が司【つかさど】っている。",
+    "meaning": "In this factory, the entire production line is managed by an experienced supervisor."
+  },
+  {
+    "sentence": "彼女は、国際的な会議の運営を円滑に司りました。",
+    "sentence_furigana": "彼女【かのじょ】は、国際的【こくさいてき】な会議【かいぎ】の運営【うんえい】を円滑【えんかつ】に司【つかさど】りました。",
+    "meaning": "She smoothly managed the operations of the international conference."
+  },
+  {
+    "sentence": "彼は、自社の物流網の効率的な運用を司る。",
+    "sentence_furigana": "彼【かれ】は、自社【じしゃ】の物流網【ぶつりゅうもう】の効率的【こうりつてき】な運用【うんよう】を司【つかさど】る。",
+    "meaning": "He manages the efficient operation of his company's logistics network."
+  },
+  {
+    "sentence": "裁判所の書記官は、裁判手続きを司る重要な役割を担う。",
+    "sentence_furigana": "裁判所【さいばんしょ】の書記官【しょきかん】は、裁判手続き【さいばんてつづき】を司【つかさど】る重要【じゅうよう】な役割【やくわり】を担【にな】う。",
+    "meaning": "Court clerks play an important role in administering court proceedings."
+  },
+  {
+    "sentence": "彼女は、地域の活性化のためのプロジェクトを司る。",
+    "sentence_furigana": "彼女【かのじょ】は、地域【ちいき】の活性化【かっせいか】のためのプロジェクトを司【つかさど】る。",
+    "meaning": "She manages projects for regional revitalization."
+  },
+  {
+    "sentence": "彼は、音楽祭の全体的な進行を司るディレクターです。",
+    "sentence_furigana": "彼【かれ】は、音楽祭【おんがくさい】の全体的【ぜんたいてき】な進行【しんこう】を司【つかさど】るディレクターです。",
+    "meaning": "He is the director who manages the overall progress of the music festival."
+  },
+  {
+    "sentence": "この会社の最高財務責任者は、財務全般を司る。",
+    "sentence_furigana": "この会社【かいしゃ】の最高財務責任者【さいこうざいむせきにんしゃ】は、財務全般【ざいむぜんぱん】を司【つかさど】る。",
+    "meaning": "The CFO of this company administers all financial matters."
+  },
+  {
+    "sentence": "彼女は、プロジェクトの品質管理部門を司っています。",
+    "sentence_furigana": "彼女【かのじょ】は、プロジェクトの品質管理部門【ひんしつかんりぶもん】を司【つかさど】っています。",
+    "meaning": "She manages the quality control department for the project."
+  },
+  {
+    "sentence": "彼は、この展示会の会場設営を司る責任者です。",
+    "sentence_furigana": "彼【かれ】は、この展示会【てんじかい】の会場設営【かいじょうせつえい】を司【つかさど】る責任者【せきにんしゃ】です。",
+    "meaning": "He is the person in charge of managing the venue setup for this exhibition."
+  },
+  {
+    "sentence": "彼女は、顧客サービス部門の業務を司っています。",
+    "sentence_furigana": "彼女【かのじょ】は、顧客サービス部門【こきゃくサービスぶもん】の業務【ぎょうむ】を司【つかさど】っています。",
+    "meaning": "She manages the operations of the customer service department."
+  },
+  {
+    "sentence": "彼は、このチームの日常業務を司るリーダーです。",
+    "sentence_furigana": "彼【かれ】は、このチームの日常業務【にちじょうぎょうむ】を司【つかさど】るリーダーです。",
+    "meaning": "He is the leader who manages the daily operations of this team."
+  },
+  {
+    "sentence": "彼女は、イベントの進行と出演者のスケジュールを司る。",
+    "sentence_furigana": "彼女【かのじょ】は、イベントの進行【しんこう】と出演者【しゅつえんしゃ】のスケジュールを司【つかさど】る。",
+    "meaning": "She manages the event's progress and the performers' schedules."
+  },
+  {
+    "sentence": "この研究所では、先進技術の研究開発を司るチームがあります。",
+    "sentence_furigana": "この研究所【けんきゅうじょ】では、先進技術【せんしんぎじゅつ】の研究開発【けんきゅうかいはつ】を司【つかさど】るチームがあります。",
+    "meaning": "This research institute has a team that manages the R&D of advanced technologies."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの広報活動を全て司る。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの広報活動【こうほうかつどう】を全【すべ】て司【つかさど】る。",
+    "meaning": "He manages all the public relations activities for this project."
+  },
+  {
+    "sentence": "彼女は、企業の社会的責任に関する活動を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、企業【きぎょう】の社会的責任【しゃかいてきせきにん】に関【かん】する活動【かつどう】を司【つかさど】る。",
+    "meaning": "She manages corporate social responsibility activities."
+  },
+  {
+    "sentence": "彼は、展示会の成功を確実にするために、全てを司った。",
+    "sentence_furigana": "彼【かれ】は、展示会【てんじかい】の成功【せいこう】を確実【かくじつ】にするために、全【すべ】てを司【つかさど】った。",
+    "meaning": "He managed everything to ensure the success of the exhibition."
+  },
+  {
+    "sentence": "この法律は、国内の金融市場を司ることを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は、国内【こくない】の金融市場【きんゆうしじょう】を司【つかさど】ることを目的【もくてき】としています。",
+    "meaning": "This law aims to administer the domestic financial market."
+  },
+  {
+    "sentence": "彼は、会社の海外支社の運営を任されている。",
+    "sentence_furigana": "彼【かれ】は、会社【かいしゃ】の海外支社【かいがいししゃ】の運営【うんえい】を任【まか】されている。",
+    "meaning": "He is in charge of managing the company's overseas branches."
+  },
+  {
+    "sentence": "彼女は、イベントの予算とスケジュールを管理する責任者です。",
+    "sentence_furigana": "彼女【かのじょ】は、イベントの予算【よさん】とスケジュールを管理【かんり】する責任者【せきにんしゃ】です。",
+    "meaning": "She is the person in charge of managing the event's budget and schedule."
+  },
+  {
+    "sentence": "彼は、新しいシステム導入プロジェクトの責任者を務める。",
+    "sentence_furigana": "彼【かれ】は、新【あたら】しいシステム導入【どうにゅう】プロジェクトの責任者【せきにんしゃ】を務【つと】める。",
+    "meaning": "He serves as the person in charge of the new system implementation project."
+  },
+  {
+    "sentence": "この省庁は、国の文化財を保護・管理する役割を担っています。",
+    "sentence_furigana": "この省庁【しょうちょう】は、国【くに】の文化財【ぶんかざい】を保護【ほご】・管理【かんり】する役割【やくわり】を担【にな】っています。",
+    "meaning": "This ministry is responsible for protecting and administering the nation's cultural properties."
+  },
+  {
+    "sentence": "彼は、この音楽フェスティバルの全体的な運営を司ります。",
+    "sentence_furigana": "彼【かれ】は、この音楽フェスティバルの全体的【ぜんたいてき】な運営【うんえい】を司【つかさど】ります。",
+    "meaning": "He manages the overall operations of this music festival."
+  },
+  {
+    "sentence": "彼女は、会社の重要な契約の交渉を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の重要【じゅうよう】な契約【けいやく】の交渉【こうしょう】を司【つかさど】る。",
+    "meaning": "She negotiates important company contracts."
+  },
+  {
+    "sentence": "彼は、国際的なビジネス交渉を円滑に進めるための戦略を司る。",
+    "sentence_furigana": "彼【かれ】は、国際的【こくさいてき】なビジネス交渉【こうしょう】を円滑【えんかつ】に進【すす】めるための戦略【せんりゃく】を司【つかさど】る。",
+    "meaning": "He manages the strategy for smoothly advancing international business negotiations."
+  },
+  {
+    "sentence": "この役所は、市民からの問い合わせに対応する部署を司っています。",
+    "sentence_furigana": "この役所【やくしょ】は、市民【しみん】からの問合せ【といあわせ】に対応【たいおう】する部署【ぶしょ】を司【つかさど】っています。",
+    "meaning": "This government office manages the department that handles inquiries from citizens."
+  },
+  {
+    "sentence": "彼女は、会社の広報資料作成を司るチームのリーダーです。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の広報資料作成【こうほうしりょうさくせい】を司【つかさど】るチームのリーダーです。",
+    "meaning": "She is the leader of the team that manages the creation of company promotional materials."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの技術的な側面を全て司っています。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの技術的【ぎじゅつてき】な側面【そくめん】を全【すべ】て司【つかさど】っています。",
+    "meaning": "He manages all the technical aspects of this project."
+  },
+  {
+    "sentence": "彼女は、国際的なイベントの計画と実行を管理する。",
+    "sentence_furigana": "彼女【かのじょ】は、国際的【こくさいてき】なイベントの計画【けいかく】と実行【じっこう】を管理【かんり】する。",
+    "meaning": "She manages the planning and execution of international events."
+  },
+  {
+    "sentence": "彼は、企業の合併・買収に関する交渉を司る。",
+    "sentence_furigana": "彼【かれ】は、企業【きぎょう】の合併買収【がっぺい・ばいしゅう】に関【かん】する交渉【こうしょう】を司【つかさど】る。",
+    "meaning": "He manages negotiations related to corporate mergers and acquisitions."
+  },
+  {
+    "sentence": "この部署は、新しいマーケティング戦略の立案と実行を司っています。",
+    "sentence_furigana": "この部署【ぶしょ】は、新【あたら】しいマーケティング戦略【せんりゃく】の立案【りつあん】と実行【じっこう】を司【つかさど】っています。",
+    "meaning": "This department manages the planning and execution of new marketing strategies."
+  },
+  {
+    "sentence": "彼女は、チーム内のコミュニケーションを円滑に司る。",
+    "sentence_furigana": "彼女【かのじょ】は、チーム内【ない】のコミュニケーションを円滑【えんかつ】に司【つかさど】る。",
+    "meaning": "She smoothly manages communication within the team."
+  },
+  {
+    "sentence": "彼は、重要な会議の議事進行を司る。",
+    "sentence_furigana": "彼【かれ】は、重要【じゅうよう】な会議【かいぎ】の議事進行【ぎじしんこう】を司【つかさど】る。",
+    "meaning": "He manages the proceedings of important meetings."
+  },
+  {
+    "sentence": "彼女は、プロジェクトの成果を最大化するための計画を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、プロジェクトの成果【せいか】を最大化【さいだいか】するための計画【けいかく】を司【つかさど】る。",
+    "meaning": "She manages the plan to maximize the project's results."
+  },
+  {
+    "sentence": "彼は、この研究の最終的な意思決定を司る立場にある。",
+    "sentence_furigana": "彼【かれ】は、この研究【けんきゅう】の最終的【さいしゅうてき】な意思決定【いしけってい】を司【つかさど】る立場【たちば】にある。",
+    "meaning": "He is in a position to manage the final decision-making for this research."
+  },
+  {
+    "sentence": "彼女は、会社の重要な顧客との関係を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の重要【じゅうよう】な顧客【こきゃく】との関係【かんけい】を司【つかさど】る。",
+    "meaning": "She manages relationships with the company's important clients."
+  },
+  {
+    "sentence": "彼は、このチームのパフォーマンスを向上させるための施策を司る。",
+    "sentence_furigana": "彼【かれ】は、このチームのパフォーマンスを向上【こうじょう】させるための施策【しさく】を司【つかさど】る。",
+    "meaning": "He manages measures to improve this team's performance."
+  },
+  {
+    "sentence": "彼女は、イベントの会場予約と手配を司っています。",
+    "sentence_furigana": "彼女【かのじょ】は、イベントの会場予約【かいじょうよやく】と手配【てはい】を司【つかさど】っています。",
+    "meaning": "She manages venue reservations and arrangements for the event."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの進捗状況を常に司っている。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの進捗状況【しんちょうじょうきょう】を常【つね】に司【つかさど】っている。",
+    "meaning": "He is constantly managing the progress of this project."
+  },
+  {
+    "sentence": "彼女は、新しい事業の立ち上げを全面的に司る。",
+    "sentence_furigana": "彼女【かのじょ】は、新【あたら】しい事業【じぎょう】の立【た】ち上【あ】げを全面的【ぜんめんてき】に司【つかさど】る。",
+    "meaning": "She manages the launch of a new business comprehensively."
+  },
+  {
+    "sentence": "彼は、この会議の議題設定と進行を司る。",
+    "sentence_furigana": "彼【かれ】は、この会議【かいぎ】の議題設定【ぎだいせってい】と進行【しんこう】を司【つかさど】る。",
+    "meaning": "He manages the agenda setting and progress of this meeting."
+  },
+  {
+    "sentence": "彼女は、会社の重要な広報活動を司る部署の責任者です。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の重要【じゅうよう】な広報活動【こうほうかつどう】を司【つかさど】る部署【ぶしょ】の責任者【せきにんしゃ】です。",
+    "meaning": "She is the person in charge of the department that manages the company's important public relations activities."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの予算執行を厳格に司る。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの予算執行【よさんしっこう】を厳格【げんかく】に司【つかさど】る。",
+    "meaning": "He strictly manages the budget execution of this project."
+  },
+  {
+    "sentence": "彼女は、会社の将来的な戦略を立案し、司る。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の将来的【しょうらいてき】な戦略【せんりゃく】を立案【りつあん】し、司【つかさど】る。",
+    "meaning": "She formulates and manages the company's future strategy."
+  },
+  {
+    "sentence": "彼は、このプロジェクトチームの目標達成を司る。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトチームの目標達成【もくひょうたっせい】を司【つかさど】る。",
+    "meaning": "He manages the achievement of goals for this project team."
+  },
+  {
+    "sentence": "彼女は、このイベントの全ての側面を円滑に司りました。",
+    "sentence_furigana": "彼女【かのじょ】は、このイベントの全【すべ】ての部分【ぶぶん】を円滑【えんかつ】に司【つかさど】りました。",
+    "meaning": "She smoothly managed all aspects of this event."
+  },
+  {
+    "sentence": "彼は、この都市のインフラ整備計画を司る公務員です。",
+    "sentence_furigana": "彼【かれ】は、この都市【とし】のインフラ整備計画【せいびけいかく】を司【つかさど】る公務員【こうむいん】です。",
+    "meaning": "He is a public official who manages the infrastructure development plan for this city."
+  },
+  {
+    "sentence": "彼女は、会社のコンプライアンス体制を司る部門の責任者です。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】のコンプライアンス体制【たいせい】を司【つかさど】る部門【ぶもん】の責任者【せきにんしゃ】です。",
+    "meaning": "She is the person in charge of the department that manages the company's compliance system."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの成功を確実にするために、チームを率いて司った。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの成功【せいこう】を確実【かくじつ】にするために、チームを率【ひき】いて司【つかさど】った。",
+    "meaning": "He led and managed the team to ensure the success of this project."
+  },
+  {
+    "sentence": "彼女は、企業の持続可能な成長戦略を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、企業【きぎょう】の持続可能【じぞくかのう】な成長戦略【せいちょうせんりゃく】を司【つかさど】る。",
+    "meaning": "She manages the sustainable growth strategy of the company."
+  },
+  {
+    "sentence": "彼は、このチームの成果を最大化するために、効果的な管理を行います。",
+    "sentence_furigana": "彼【かれ】は、このチームの成果【せいか】を最大化【さいだいか】するために、効果的【こうかてき】な管理【かんり】を行【おこな】います。",
+    "meaning": "He provides effective management to maximize this team's results."
+  },
+  {
+    "sentence": "彼女は、国際的なビジネス交渉において、両国の関係を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、国際的【こくさいてき】なビジネス交渉【こうしょう】において、両国【りょうこく】の関係【かんけい】を司【つかさど】る。",
+    "meaning": "She manages the relationship between both countries in international business negotiations."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの技術的な進捗を常に管理し、司っています。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの技術的【ぎじゅつてき】な進捗【しんちょく】を常【つね】に管理【かんり】し、司【つかさど】っています。",
+    "meaning": "He constantly manages and oversees the technical progress of this project."
+  },
+  {
+    "sentence": "彼女は、会社の新しい製品開発プロジェクトの全体を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の新【あたら】しい製品開発プロジェクト【せいひんかいはつぷろじぇくと】の全体【ぜんたい】を司【つかさど】る。",
+    "meaning": "She manages the entire new product development project of the company."
+  },
+  {
+    "sentence": "彼は、このチームの日常業務の円滑な運営を司る。",
+    "sentence_furigana": "彼【かれ】は、このチームの日常業務【にちじょうぎょうむ】の円滑【えんかつ】な運営【うんえい】を司【つかさど】る。",
+    "meaning": "He manages the smooth operation of this team's daily tasks."
+  },
+  {
+    "sentence": "彼女は、このイベントの全ての側面を確実に成功させるために尽力する。",
+    "sentence_furigana": "彼女【かのじょ】は、このイベントの全【すべ】ての部分【ぶぶん】を確実【かくじつ】に成功【せいこう】させるために尽力【じんりょく】する。",
+    "meaning": "She strives to ensure the success of all aspects of this event."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの成功のために、チーム全体を管理し、率いる。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの成功【せいこう】のために、チーム全体【ぜんたい】を管理【かんり】し、率【ひき】いる。",
+    "meaning": "He manages and leads the entire team for the success of this project."
+  },
+  {
+    "sentence": "彼女は、会社の重要な顧客との関係を維持・発展させるための戦略を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の重要【じゅうよう】な顧客【こきゃく】との関係【かんけい】を維持【いじ】・発展【はってん】させるための戦略【せんりゃく】を司【つかさど】る。",
+    "meaning": "She manages the strategy for maintaining and developing relationships with important company clients."
+  },
+  {
+    "sentence": "彼は、このチームのパフォーマンスを最大化するために、効果的な戦略を実行する。",
+    "sentence_furigana": "彼【かれ】は、このチームのパフォーマンスを最大化【さいだいか】するために、効果的【こうかてき】な戦略【せんりゃく】を実行【じっこう】する。",
+    "meaning": "He implements effective strategies to maximize this team's performance."
+  },
+  {
+    "sentence": "彼女は、この国際会議の円滑な運営を保証する。",
+    "sentence_furigana": "彼女【かのじょ】は、この国際会議【こくさいかいぎ】の円滑【えんかつ】な運営【うんえい】を保証【ほしょう】する。",
+    "meaning": "She ensures the smooth operation of this international conference."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの全ての側面を成功させるために尽力する。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの全【すべ】ての部分【ぶぶん】を成功【せいこう】させるために尽力【じんりょく】する。",
+    "meaning": "He strives to ensure the success of all aspects of this project."
+  },
+  {
+    "sentence": "彼女は、会社の持続可能な開発目標達成に向けた活動を司る。",
+    "sentence_furigana": "彼女【かのじょ】は、会社【かいしゃ】の持続可能【じぞくかのう】な開発目標【かいはつもくひょう】達成【たっせい】に向け【む】けた活動【かつどう】を司【つかさど】る。",
+    "meaning": "She manages activities towards achieving the company's sustainable development goals."
+  },
+  {
+    "sentence": "彼は、このチームの目標達成に向けて、最適な管理体制を構築する。",
+    "sentence_furigana": "彼【かれ】は、このチームの目標達成【もくひょうたっせい】に向けて【む】けて、最適【さいてき】な管理体制【かんりたいせい】を構築【こうちく】する。",
+    "meaning": "He builds an optimal management system to achieve this team's goals."
+  },
+  {
+    "sentence": "彼女は、このプロジェクトの全体的な進捗を監督し、管理する。",
+    "sentence_furigana": "彼女【かのじょ】は、このプロジェクトの全体的【ぜんたいてき】な進捗【しんちょく】を監督【かんとく】し、管理【かんり】する。",
+    "meaning": "She oversees and manages the overall progress of this project."
+  },
+  {
+    "sentence": "彼は、この会社の将来を左右する重要な決断を下す。",
+    "sentence_furigana": "彼【かれ】は、この会社【かいしゃ】の将来【しょうらい】を左右【さゆう】する重要【じゅうよう】な決断【けつだん】を下【くだ】す。",
+    "meaning": "He makes important decisions that will affect the company's future."
+  },
+  {
+    "sentence": "彼女は、このプロジェクトの成功を確実にするためのあらゆる側面を管理する。",
+    "sentence_furigana": "彼女【かのじょ】は、このプロジェクトの成功【せいこう】を確実【かくじつ】にするためのあらゆる側面【そくめん】を管理【かんり】する。",
+    "meaning": "She manages all aspects to ensure the success of this project."
+  },
+  {
+    "sentence": "彼は、このチームの効率的な運営のために、リソースを最適に配分する。",
+    "sentence_furigana": "彼【かれ】は、このチームの効率的【こうりつてき】な運営【うんえい】のために、リソースを最適【さいてき】に配分【はいぶん】する。",
+    "meaning": "He optimally allocates resources for the efficient operation of this team."
+  },
+  {
+    "sentence": "彼女は、この国際的なイベントの成功を確実にするためのすべての要素を調整する。",
+    "sentence_furigana": "彼女【かのじょ】は、この国際的【こくさいてき】なイベントの成功【せいこう】を確実【かくじつ】にするための全【すべ】ての要素【ようそ】を調整【ちょうせい】する。",
+    "meaning": "She coordinates all elements to ensure the success of this international event."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの成果を最大化するために、チームメンバーの能力を最大限に引き出す。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの成果【せいか】を最大化【さいだいか】するために、チームメンバーの能力【のうりょく】を最大限【さいだいげん】に引【ひ】き出【だ】す。",
+    "meaning": "He draws out the maximum potential of team members to maximize the results of this project."
+  },
+  {
+    "sentence": "彼女は、この会社の将来的な成長戦略を立案し、実行する。",
+    "sentence_furigana": "彼女【かのじょ】は、この会社【かいしゃ】の将来的【しょうらいてき】な成長戦略【せいちょうせんりゃく】を立案【りつあん】し、実行【じっこう】する。",
+    "meaning": "She formulates and executes the company's future growth strategy."
+  },
+  {
+    "sentence": "彼は、このチームの目標達成のために、必要なリソースを確保する。",
+    "sentence_furigana": "彼【かれ】は、このチームの目標達成【もくひょうたっせい】のために、必要【ひつよう】なリソースを確保【かくほ】する。",
+    "meaning": "He secures the necessary resources for this team to achieve its goals."
+  },
+  {
+    "sentence": "彼女は、このプロジェクトの成功を確実にするためのリスク管理を行う。",
+    "sentence_furigana": "彼女【かのじょ】は、このプロジェクトの成功【せいこう】を確実【かくじつ】にするためのリスク管理【かんり】を行【おこな】う。",
+    "meaning": "She performs risk management to ensure the success of this project."
+  },
+  {
+    "sentence": "彼は、このチームのパフォーマンスを継続的に改善するための計画を実行する。",
+    "sentence_furigana": "彼【かれ】は、このチームのパフォーマンスを継続的【けいぞくてき】に改善【かいぜん】するための計画【けいかく】を実行【じっこう】する。",
+    "meaning": "He executes plans for the continuous improvement of this team's performance."
+  },
+  {
+    "sentence": "彼女は、この重要な交渉を成功裏に終えるための戦略を練る。",
+    "sentence_furigana": "彼女【かのじょ】は、この重要【じゅうよう】な交渉【こうしょう】を成功裏【せいこうり】に終【お】えるための戦略【せんりゃく】を練【ね】る。",
+    "meaning": "She devises a strategy to successfully conclude this important negotiation."
+  },
+  {
+    "sentence": "彼は、このプロジェクトの成功を確実にするために、チーム全体を鼓舞し、導く。",
+    "sentence_furigana": "彼【かれ】は、このプロジェクトの成功【せいこう】を確実【かくじつ】にするために、チーム全体【ぜんたい】を鼓舞【こぶ】し、導【みちび】く。",
+    "meaning": "He inspires and guides the entire team to ensure the success of this project."
+  },
+  {
+    "sentence": "彼女は、この会社の持続的な成長を支えるための新しいビジネスモデルを開発する。",
+    "sentence_furigana": "彼女【かのじょ】は、この会社【かいしゃ】の持続的【じぞくてき】な成長【せいちょう】を支【ささ】えるための新【あたら】しいビジネスモデルを開発【かいはつ】する。",
+    "meaning": "She develops a new business model to support the company's sustainable growth."
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "風が強く吹いている。",
+    "sentence_furigana": "風【かぜ】が強【つよ】く吹【ふ】いている。",
+    "meaning": "The wind is blowing strongly."
+  },
+  {
+    "sentence": "春一番の風が心地よい。",
+    "sentence_furigana": "春一番【はるいちばん】の風【かぜ】が心地【ここち】よい。",
+    "meaning": "The first spring wind is pleasant."
+  },
+  {
+    "sentence": "北風が冷たい。",
+    "sentence_furigana": "北風【きたかぜ】が冷【つめ】たい。",
+    "meaning": "The north wind is cold."
+  },
+  {
+    "sentence": "窓を開けて風を入れる。",
+    "sentence_furigana": "窓【まど】を開【あ】けて風【かぜ】を入【い】れる。",
+    "meaning": "Open the window to let in the wind."
+  },
+  {
+    "sentence": "その店の雰囲気はとても良い。",
+    "sentence_furigana": "その店【みせ】の雰囲気【ふんいき】はとても良【よ】い。",
+    "meaning": "The atmosphere of that store is very good."
+  },
+  {
+    "sentence": "流行のスタイルを取り入れる。",
+    "sentence_furigana": "流行【りゅうこう】のスタイルを取【と】り入【い】れる。",
+    "meaning": "Incorporate the latest style."
+  },
+  {
+    "sentence": "彼は独特の風貌をしている。",
+    "sentence_furigana": "彼【かれ】は独特【どくとく】の風貌【ふうぼう】をしている。",
+    "meaning": "He has a unique appearance."
+  },
+  {
+    "sentence": "台風が接近しているらしい。",
+    "sentence_furigana": "台風【たいふう】が接近【せっきん】しているらしい。",
+    "meaning": "It seems a typhoon is approaching."
+  },
+  {
+    "sentence": "風邪をひかないように気をつけよう。",
+    "sentence_furigana": "風邪【かぜ】をひかないように気【き】をつけよう。",
+    "meaning": "Let's be careful not to catch a cold."
+  },
+  {
+    "sentence": "その国の文化的な風習を学んだ。",
+    "sentence_furigana": "その国【くに】の文化【ぶんか】的【てき】な風習【ふうしゅう】を学【まな】んだ。",
+    "meaning": "I learned about the cultural customs of that country."
+  },
+  {
+    "sentence": "風物詩を感じさせる風景だ。",
+    "sentence_furigana": "風物詩【ふうぶつし】を感【かん】じさせる風景【ふうけい】だ。",
+    "meaning": "It's a landscape that evokes the mood of the season."
+  },
+  {
+    "sentence": "風の便りで聞いた。",
+    "sentence_furigana": "風【かぜ】の便【たよ】りで聞【き】いた。",
+    "meaning": "I heard it through the grapevine."
+  },
+  {
+    "sentence": "風車が回っている。",
+    "sentence_furigana": "風車【かざぐるま】が回【まわ】っている。",
+    "meaning": "The windmill is spinning."
+  },
+  {
+    "sentence": "風俗について学ぶ。",
+    "sentence_furigana": "風俗【ふうぞく】について学【まな】ぶ。",
+    "meaning": "Learn about customs and manners."
+  },
+  {
+    "sentence": "風見鶏が風向きを示す。",
+    "sentence_furigana": "風見鶏【かざみどり】が風向【ふうこう】きを示【しめ】す。",
+    "meaning": "The weathercock shows the wind direction."
+  },
+  {
+    "sentence": "風紀を乱す行為。",
+    "sentence_furigana": "風紀【ふうき】を乱【みだ】す行【おこな】い。",
+    "meaning": "An act that disrupts public order."
+  },
+  {
+    "sentence": "風光明媚な場所だ。",
+    "sentence_furigana": "風光明媚【ふうこうめいび】な場所【ばしょ】だ。",
+    "meaning": "It's a place with beautiful scenery and a pleasant atmosphere."
+  },
+  {
+    "sentence": "風情のある街並み。",
+    "sentence_furigana": "風情【ふぜい】のある街並【まちな】み。",
+    "meaning": "A townscape with a unique charm."
+  },
+  {
+    "sentence": "風評被害にあう。",
+    "sentence_furigana": "風評被害【ふうひょうひがい】にあう。",
+    "meaning": "Suffer from damage due to rumors."
+  },
+  {
+    "sentence": "微風が頬を撫でる。",
+    "sentence_furigana": "微風【びふう】が頬【ほほ】を撫【な】でる。",
+    "meaning": "A gentle breeze strokes my cheek."
+  },
+  {
+    "sentence": "強風注意報が出ている。",
+    "sentence_furigana": "強風注意報【きょうふうちゅういほう】が出【で】ている。",
+    "meaning": "A strong wind advisory has been issued."
+  },
+  {
+    "sentence": "無風状態が続いている。",
+    "sentence_furigana": "無風状態【むふうじょうたい】が続【つづ】いている。",
+    "meaning": "A state of no wind continues."
+  },
+  {
+    "sentence": "風物詩を味わう。",
+    "sentence_furigana": "風物詩【ふうぶつし】を味【あじ】わう。",
+    "meaning": "Savor the seasonal sights and sounds."
+  },
+  {
+    "sentence": "風習の違いに戸惑う。",
+    "sentence_furigana": "風習【ふうしゅう】の違い【ちがい】に戸惑【とまど】う。",
+    "meaning": "Be bewildered by the difference in customs."
+  },
+  {
+    "sentence": "風通しの良い部屋。",
+    "sentence_furigana": "風通【かぜとお】しの良【よ】い部屋【へや】。",
+    "meaning": "A well-ventilated room."
+  },
+  {
+    "sentence": "突風が突然吹いた。",
+    "sentence_furigana": "突風【とっぷう】が突然【とつぜん】吹【ふ】いた。",
+    "meaning": "A gust of wind suddenly blew."
+  },
+  {
+    "sentence": "風車が風を受けて回る。",
+    "sentence_furigana": "風車【かざぐるま】が風【かぜ】を受【う】けて回【まわ】る。",
+    "meaning": "The windmill turns by receiving the wind."
+  },
+  {
+    "sentence": "彼の話し方には独特の風格がある。",
+    "sentence_furigana": "彼【かれ】の ಮಾತನಾಡ【はなしかた】には独特【どくとく】の風格【ふうかく】がある。",
+    "meaning": "His way of speaking has a unique style."
+  },
+  {
+    "sentence": "この服のデザインは現代風だ。",
+    "sentence_furigana": "この服【ふく】のデザインは現代風【げんだいふう】だ。",
+    "meaning": "This clothing design is modern in style."
+  },
+  {
+    "sentence": "風邪薬を飲んだ。",
+    "sentence_furigana": "風邪薬【かぜぐすり】を飲【の】んだ。",
+    "meaning": "I took cold medicine."
+  },
+  {
+    "sentence": "風俗習慣の違いを理解する。",
+    "sentence_furigana": "風俗習慣【ふうぞくしゅうかん】の違い【ちがい】を理解【りかい】する。",
+    "meaning": "Understand the differences in customs and manners."
+  },
+  {
+    "sentence": "風の中を進む。",
+    "sentence_furigana": "風【かぜ】の中【なか】を進【すす】む。",
+    "meaning": "Advance into the wind."
+  },
+  {
+    "sentence": "風鈴の音が涼しげだ。",
+    "sentence_furigana": "風鈴【ふうりん】の音【おと】が涼【すず】しげだ。",
+    "meaning": "The sound of the wind chime sounds refreshing."
+  },
+  {
+    "sentence": "風の盆という祭りがある。",
+    "sentence_furigana": "風【かぜ】の盆【ぼん】という祭【まつ】りがある。",
+    "meaning": "There is a festival called Kaze no Bon."
+  },
+  {
+    "sentence": "風習に従う。",
+    "sentence_furigana": "風習【ふうしゅう】に従【したが】う。",
+    "meaning": "Follow the customs."
+  },
+  {
+    "sentence": "その地域の風土を調査する。",
+    "sentence_furigana": "その地域【ちいき】の風土【ふうど】を調査【ちょうさ】する。",
+    "meaning": "Investigate the climate and local environment of that region."
+  },
+  {
+    "sentence": "風情のある茶室。",
+    "sentence_furigana": "風情【ふぜい】のある茶室【ちゃしつ】。",
+    "meaning": "A tea room with a unique charm."
+  },
+  {
+    "sentence": "風力発電の施設。",
+    "sentence_furigana": "風力発電【ふうりょくはつでん】の施設【しせつ】。",
+    "meaning": "Wind power generation facilities."
+  },
+  {
+    "sentence": "風変わりな人物。",
+    "sentence_furigana": "風変【ふうが】わりな人物【じんぶつ】。",
+    "meaning": "An eccentric person."
+  },
+  {
+    "sentence": "風が海面を渡ってくる。",
+    "sentence_furigana": "風【かぜ】が海面【かいめん】を渡【わた】ってくる。",
+    "meaning": "The wind crosses the sea surface."
+  },
+  {
+    "sentence": "風邪の症状が出始めた。",
+    "sentence_furigana": "風邪【かぜ】の症状【しょうじょう】が出【で】始【はじ】めた。",
+    "meaning": "Symptoms of a cold began to appear."
+  },
+  {
+    "sentence": "伝統的な様式を重んじる。",
+    "sentence_furigana": "伝統的【でんとうてき】な様式【ようしき】を重【おも】んじる。",
+    "meaning": "Emphasize traditional style."
+  },
+  {
+    "sentence": "風潮に逆らって進む。",
+    "sentence_furigana": "風潮【ふうちょう】に逆【さか】らって進【すす】む。",
+    "meaning": "Go against the trend."
+  },
+  {
+    "sentence": "風のように去っていく。",
+    "sentence_furigana": "風【かぜ】のように去【さ】っていく。",
+    "meaning": "To leave like the wind."
+  },
+  {
+    "sentence": "風物詩を心に刻む。",
+    "sentence_furigana": "風物詩【ふうぶつし】を心【こころ】に刻【きざ】む。",
+    "meaning": "Engrave the seasonal sights and sounds in my heart."
+  },
+  {
+    "sentence": "風説の流布に注意する。",
+    "sentence_furigana": "風説【ふうせつ】の流布【るふ】に注意【ちゅうい】する。",
+    "meaning": "Be careful about the spread of false rumors."
+  },
+  {
+    "sentence": "風が凪いだ。",
+    "sentence_furigana": "風【かぜ】が凪【な】いだ。",
+    "meaning": "The wind died down."
+  },
+  {
+    "sentence": "風に舞う桜の花びら。",
+    "sentence_furigana": "風【かぜ】に舞【ま】う桜【さくら】の花【はな】びら。",
+    "meaning": "Cherry blossom petals dancing in the wind."
+  },
+  {
+    "sentence": "風上から声をかける。",
+    "sentence_furigana": "風上【かざかみ】から声【こえ】をかける。",
+    "meaning": "Call out from upwind."
+  },
+  {
+    "sentence": "風下へと漂流する。",
+    "sentence_furigana": "風下【かざしも】へと漂流【ひょうりゅう】する。",
+    "meaning": "Drift downstream."
+  },
+  {
+    "sentence": "風物詩が始まる季節。",
+    "sentence_furigana": "風物詩【ふうぶつし】が始【はじ】まる季節【きせつ】。",
+    "meaning": "The season when seasonal sights and sounds begin."
+  },
+  {
+    "sentence": "風邪をこじらせた。",
+    "sentence_furigana": "風邪【かぜ】をこじらせた。",
+    "meaning": "I made my cold worse."
+  },
+  {
+    "sentence": "この服装は時代遅れだ。",
+    "sentence_furigana": "この服装【ふくそう】は時代遅【じだいお】くれだ。",
+    "meaning": "This attire is out of date."
+  },
+  {
+    "sentence": "風雪に耐える。",
+    "sentence_furigana": "風雪【ふうせつ】に耐【た】える。",
+    "meaning": "Endure wind and snow."
+  },
+  {
+    "sentence": "風俗を描写する小説。",
+    "sentence_furigana": "風俗【ふうぞく】を描写【びょうしゃ】する小説【しょうせつ】。",
+    "meaning": "A novel that depicts customs and manners."
+  },
+  {
+    "sentence": "風車草が揺れている。",
+    "sentence_furigana": "風車草【かざぐるまそう】が揺【ゆ】れている。",
+    "meaning": "The windmill grass is swaying."
+  },
+  {
+    "sentence": "風の音を聞く。",
+    "sentence_furigana": "風【かぜ】の音【おと】を聞【き】く。",
+    "meaning": "Listen to the sound of the wind."
+  },
+  {
+    "sentence": "強風で物が飛ばされた。",
+    "sentence_furigana": "強風【きょうふう】で物【もの】が飛【と】ばされた。",
+    "meaning": "Objects were blown away by the strong wind."
+  },
+  {
+    "sentence": "風邪をひきやすい体質。",
+    "sentence_furigana": "風邪【かぜ】をひきやすい体質【たいしつ】。",
+    "meaning": "A constitution prone to catching colds."
+  },
+  {
+    "sentence": "風土記を読む。",
+    "sentence_furigana": "風土記【ふどき】を読【よ】む。",
+    "meaning": "Read the Fudoki (records of local customs and geography)."
+  },
+  {
+    "sentence": "風情ある庭園。",
+    "sentence_furigana": "風情【ふぜい】ある庭園【ていえん】。",
+    "meaning": "A garden with a unique charm."
+  },
+  {
+    "sentence": "風習の違いを尊重する。",
+    "sentence_furigana": "風習【ふうしゅう】の違い【ちがい】を尊重【そんちょう】する。",
+    "meaning": "Respect the differences in customs."
+  },
+  {
+    "sentence": "風に乗って運ばれる種子。",
+    "sentence_furigana": "風【かぜ】に乗【の】って運【はこ】ばれる種子【しゅし】。",
+    "meaning": "Seeds carried by the wind."
+  },
+  {
+    "sentence": "風の盆流し。",
+    "sentence_furigana": "風【かぜ】の盆流【ぼんなが】し。",
+    "meaning": "Kaze no Bon Nagashi (a ritual)."
+  },
+  {
+    "sentence": "風物詩を歌にする。",
+    "sentence_furigana": "風物詩【ふうぶつし】を歌【うた】にする。",
+    "meaning": "Turn seasonal sights and sounds into a song."
+  },
+  {
+    "sentence": "風任せに旅をする。",
+    "sentence_furigana": "風任【かぜまか】せに旅【たび】をする。",
+    "meaning": "Travel at the mercy of the wind."
+  },
+  {
+    "sentence": "風邪の予防にうがいをする。",
+    "sentence_furigana": "風邪【かぜ】の予防【よぼう】にうがいをする。",
+    "meaning": "Gargle to prevent colds."
+  },
+  {
+    "sentence": "風雅な趣。",
+    "sentence_furigana": "風雅【ふうが】な趣【おもむ】き。",
+    "meaning": "An elegant atmosphere."
+  },
+  {
+    "sentence": "風袋を計算に入れる。",
+    "sentence_furigana": "風袋【ふうたい】を計算【けいさん】に入【い】れる。",
+    "meaning": "Take tare weight into account for calculation."
+  },
+  {
+    "sentence": "風に乗って花が散る。",
+    "sentence_furigana": "風【かぜ】に乗【の】って花【はな】が散【ち】る。",
+    "meaning": "Flowers fall, carried by the wind."
+  },
+  {
+    "sentence": "風雲児と呼ばれる男。",
+    "sentence_furigana": "風雲児【ふううんじ】と呼【よ】ばれる男【おとこ】。",
+    "meaning": "A man called a meteoric riser."
+  },
+  {
+    "sentence": "風情のある喫茶店。",
+    "sentence_furigana": "風情【ふぜい】のある喫茶店【きっさてん】。",
+    "meaning": "A cafe with a unique charm."
+  },
+  {
+    "sentence": "風向きが変わった。",
+    "sentence_furigana": "風向【ふうこう】きが変わ【か】わった。",
+    "meaning": "The wind direction has changed."
+  },
+  {
+    "sentence": "風雪に立ち向かう。",
+    "sentence_furigana": "風雪【ふうせつ】に立【た】ち向【む】かう。",
+    "meaning": "Face the wind and snow."
+  },
+  {
+    "sentence": "風のいたずらで髪が乱れる。",
+    "sentence_furigana": "風【かぜ】のいたずらで髪【かみ】が乱【みだ】れる。",
+    "meaning": "My hair gets messy due to the wind's mischief."
+  },
+  {
+    "sentence": "風刺画を描く。",
+    "sentence_furigana": "風刺画【ふうしが】を描【か】く。",
+    "meaning": "Draw a satirical cartoon."
+  },
+  {
+    "sentence": "風土病について調べる。",
+    "sentence_furigana": "風土病【ふうどびょう】について調【しら】べる。",
+    "meaning": "Research endemic diseases."
+  },
+  {
+    "sentence": "風物詩に心を寄せる。",
+    "sentence_furigana": "風物詩【ふうぶつし】に心【こころ】を寄【よ】せる。",
+    "meaning": "Devote one's heart to seasonal sights and sounds."
+  },
+  {
+    "sentence": "風が窓を叩く。",
+    "sentence_furigana": "風【かぜ】が窓【まど】を叩【たた】く。",
+    "meaning": "The wind knocks on the window."
+  },
+  {
+    "sentence": "風邪の完治には時間がかかる。",
+    "sentence_furigana": "風邪【かぜ】の完治【かんち】には時間【じかん】がかかる。",
+    "meaning": "It takes time to fully recover from a cold."
+  },
+  {
+    "sentence": "風潮に乗って流行する。",
+    "sentence_furigana": "風潮【ふうちょう】に乗【の】って流行【りゅうこう】する。",
+    "meaning": "Become popular by following the trend."
+  },
+  {
+    "sentence": "風車がゆっくり回る。",
+    "sentence_furigana": "風車【かざぐるま】がゆっくり回【まわ】る。",
+    "meaning": "The windmill turns slowly."
+  },
+  {
+    "sentence": "風の便りが多い。",
+    "sentence_furigana": "風【かぜ】の便【たよ】りが多い【おお】い。",
+    "meaning": "There is a lot of gossip."
+  },
+  {
+    "sentence": "風俗を乱す。",
+    "sentence_furigana": "風俗【ふうぞく】を乱【みだ】す。",
+    "meaning": "Disturb public morals."
+  },
+  {
+    "sentence": "風水で家を建てる。",
+    "sentence_furigana": "風水【ふうすい】で家【いえ】を建【た】てる。",
+    "meaning": "Build a house according to feng shui."
+  },
+  {
+    "sentence": "風光明媚な海岸線。",
+    "sentence_furigana": "風光明媚【ふうこうめいび】な海岸線【かいがんせん】。",
+    "meaning": "A scenic coastline."
+  },
+  {
+    "sentence": "風の音を聞きながら眠る。",
+    "sentence_furigana": "風【かぜ】の音【おと】を聞【き】きながら眠【ねむ】る。",
+    "meaning": "Sleep while listening to the sound of the wind."
+  },
+  {
+    "sentence": "風邪の引き始めに温かくする。",
+    "sentence_furigana": "風邪【かぜ】の引【ひ】き始【はじ】めに温【あたた】かくする。",
+    "meaning": "Keep warm at the beginning of a cold."
+  },
+  {
+    "sentence": "風の強い日。",
+    "sentence_furigana": "風【かぜ】の強【つよ】い日【ひ】。",
+    "meaning": "A windy day."
+  },
+  {
+    "sentence": "風俗産業について考察する。",
+    "sentence_furigana": "風俗産業【ふうぞくさんぎょう】について考察【こうさつ】する。",
+    "meaning": "Consider the sex industry."
+  },
+  {
+    "sentence": "風任せの船旅。",
+    "sentence_furigana": "風任【かぜまか】せの船旅【ふなたび】。",
+    "meaning": "A sea voyage at the mercy of the wind."
+  },
+  {
+    "sentence": "風物詩の俳句を作る。",
+    "sentence_furigana": "風物詩【ふうぶつし】の俳句【はいく】を作【つく】る。",
+    "meaning": "Write a haiku about seasonal sights and sounds."
+  },
+  {
+    "sentence": "風邪の菌を殺す。",
+    "sentence_furigana": "風邪【かぜ】の菌【きん】を殺【ころ】す。",
+    "meaning": "Kill cold germs."
+  },
+  {
+    "sentence": "風雲を読み解く。",
+    "sentence_furigana": "風雲【ふううん】を読【よ】み解【と】く。",
+    "meaning": "Understand the changing situation."
+  },
+  {
+    "sentence": "風の盆恋唄。",
+    "sentence_furigana": "風【かぜ】の盆恋唄【ぼんこいうた】。",
+    "meaning": "Kaze no Bon Koiuta (a love song)."
+  },
+  {
+    "sentence": "風力が強い。",
+    "sentence_furigana": "風力【ふうりょく】が強【つよ】い。",
+    "meaning": "The wind power is strong."
+  },
+  {
+    "sentence": "風化する岩。",
+    "sentence_furigana": "風化【ふうか】する岩【いわ】。",
+    "meaning": "Weathered rocks."
+  },
+  {
+    "sentence": "風船が空高く上がる。",
+    "sentence_furigana": "風船【ふうせん】が空高【そらたか】く上【あ】がる。",
+    "meaning": "The balloon rises high into the sky."
+  },
+  {
+    "sentence": "風船を飛ばす。",
+    "sentence_furigana": "風船【ふうせん】を飛【と】ばす。",
+    "meaning": "Let go of the balloon."
+  },
+  {
+    "sentence": "風船ガムを膨らませる。",
+    "sentence_furigana": "風船ガム【ふうせんガム】を膨【ふく】らませる。",
+    "meaning": "Blow up bubble gum."
+  },
+  {
+    "sentence": "風船のように軽やかだ。",
+    "sentence_furigana": "風船【ふうせん】のように軽【かる】やかだ。",
+    "meaning": "It's as light as a balloon."
+  }
+]

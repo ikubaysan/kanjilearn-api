@@ -1,0 +1,592 @@
+[
+  {
+    "sentence": "この問題は非常に困っています。",
+    "sentence_furigana": "この問題【もんだい】は非常【ひじょう】に困【こま】っています。",
+    "meaning": "I am in great difficulty with this problem."
+  },
+  {
+    "sentence": "彼は仕事で困っているようだ。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】で困【こま】っているようだ。",
+    "meaning": "He seems to be in trouble at work."
+  },
+  {
+    "sentence": "締め切りに間に合わず、困ってしまった。",
+    "sentence_furigana": "締【し】め切【き】りに間【ま】に合【あ】わず、困【こま】ってしまった。",
+    "meaning": "I was unable to meet the deadline and got into trouble."
+  },
+  {
+    "sentence": "道に迷ってしまい、困っています。",
+    "sentence_furigana": "道【みち】に迷【まよ】ってしまい、困【こま】っています。",
+    "meaning": "I am lost and in trouble."
+  },
+  {
+    "sentence": "お金が足りなくて困っています。",
+    "sentence_furigana": "お金がお金が足【た】りなくて困【こま】っています。",
+    "meaning": "I am in trouble because I don't have enough money."
+  },
+  {
+    "sentence": "健康上の問題で困っています。",
+    "sentence_furigana": "健康上【けんこうじょう】の問題【もんだい】で困【こま】っています。",
+    "meaning": "I am having problems with my health."
+  },
+  {
+    "sentence": "彼女は突然のキャンセルで困っている。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】のキャンセルで困【こま】っている。",
+    "meaning": "She is in a predicament due to the sudden cancellation."
+  },
+  {
+    "sentence": "この状況ではどうすればいいか困っている。",
+    "sentence_furigana": "この状況【じょうきょう】ではどうすればいいか困【こま】っている。",
+    "meaning": "I am at a loss as to what to do in this situation."
+  },
+  {
+    "sentence": "子供が熱を出してしまい、親は困っています。",
+    "sentence_furigana": "子供【こども】が熱【ねつ】を出【だ】してしまい、親【おや】は困【こま】っています。",
+    "meaning": "The parents are worried because their child has a fever."
+  },
+  {
+    "sentence": "雨が降っていて、遠足が中止になり困った。",
+    "sentence_furigana": "雨【あめ】が降【ふ】っていて、遠足【えんそく】が中止【ちゅうし】になり困【こま】った。",
+    "meaning": "It rained, and the excursion was canceled, which was troublesome."
+  },
+  {
+    "sentence": "彼は引っ越し先が見つからず困っている。",
+    "sentence_furigana": "彼【かれ】は引【ひ】っ越【こ】し先【さき】が見【み】つからず困【こま】っている。",
+    "meaning": "He is struggling to find a new place to live."
+  },
+  {
+    "sentence": "突然の来客で、冷蔵庫の中身が足りず困っている。",
+    "sentence_furigana": "突然【とつぜん】の来客【らいきゃく】で、冷蔵庫【れいぞうこ】の中身【なかみ】が足【た】りず困【こま】っている。",
+    "meaning": "We are in a bind because we don't have enough food in the refrigerator for the sudden guests."
+  },
+  {
+    "sentence": "古いパソコンが壊れてしまい、仕事に困っています。",
+    "sentence_furigana": "古【ふる】いパソコンが壊【こわ】れてしまい、仕事【しごと】に困【こま】っています。",
+    "meaning": "My old computer broke down, and I'm having trouble with my work."
+  },
+  {
+    "sentence": "日本語がわからなくて、旅行中に困ったことがあった。",
+    "sentence_furigana": "日本語【にほんご】がわからなくて、旅行中【りょこうちゅう】に困【こま】ったことがあった。",
+    "meaning": "I had trouble during my trip because I didn't understand Japanese."
+  },
+  {
+    "sentence": "電気製品がすべて使えなくなり、本当に困っている。",
+    "sentence_furigana": "電気製品【でんきせいひん】がすべて使【つか】えなくなり、本当【ほんとう】に困【こま】っている。",
+    "meaning": "All the electrical appliances have stopped working, and we are really in a bind."
+  },
+  {
+    "sentence": "彼は借金で困窮している。",
+    "sentence_furigana": "彼【かれ】は借金【しゃっきん】で困窮【こんきゅう】している。",
+    "meaning": "He is in financial distress due to debt."
+  },
+  {
+    "sentence": "この情報は古く、役に立たず困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、役【やく】に立【た】たず困【こま】った。",
+    "meaning": "This information is old and useless, which was troublesome."
+  },
+  {
+    "sentence": "交通渋滞で会議に遅刻しそうで困っています。",
+    "sentence_furigana": "交通渋滞【こうつうじゅうたい】で会議【かいぎ】に遅刻【ちこく】しそうで困【こま】っています。",
+    "meaning": "I'm worried about being late for the meeting due to traffic congestion."
+  },
+  {
+    "sentence": "彼は一人でこの問題を解決できず困っている。",
+    "sentence_furigana": "彼【かれ】は一人【ひとり】でこの問題【もんだい】を解決【かいけつ】できず困【こま】っている。",
+    "meaning": "He is struggling to solve this problem alone."
+  },
+  {
+    "sentence": "部屋の予約が取れず、宿泊先を探すのに困っています。",
+    "sentence_furigana": "部屋【へや】の予約【よやく】が取【と】れず、宿泊先【しゅくはくさき】を探【さが】すのに困【こま】っています。",
+    "meaning": "I am having trouble finding accommodation as I couldn't book a room."
+  },
+  {
+    "sentence": "母が病気で、看病するのに困っています。",
+    "sentence_furigana": "母【はは】が病気【びょうき】で、看病【かんびょう】するのに困【こま】っています。",
+    "meaning": "My mother is sick, and I am having difficulty nursing her."
+  },
+  {
+    "sentence": "新しい環境に慣れるのに時間がかかり、困っています。",
+    "sentence_furigana": "新【あたら】しい環境【かんきょう】に慣【な】れるのに時間【じかん】がかかり、困【こま】っています。",
+    "meaning": "I am struggling to get used to the new environment."
+  },
+  {
+    "sentence": "冷蔵庫が壊れたので、食べ物の保存に困っています。",
+    "sentence_furigana": "冷蔵庫【れいぞうこ】が壊【こわ】れたので、食【た】べ物【もの】の保存【ほぞん】に困【こま】っています。",
+    "meaning": "My refrigerator broke down, so I am having trouble storing food."
+  },
+  {
+    "sentence": "彼は約束の時間に間に合うかどうか困っている。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】の時間【じかん】に間【ま】に合【あ】うかどうか困【こま】っている。",
+    "meaning": "He is worried about whether he will make it to the appointment on time."
+  },
+  {
+    "sentence": "言葉が通じないので、現地の食材を買うのに困った。",
+    "sentence_furigana": "言葉【ことば】が通【つ】じないので、現地【げんち】の食材【しょくざい】を買【か】うのに困【こま】った。",
+    "meaning": "I had trouble buying local ingredients because we couldn't communicate."
+  },
+  {
+    "sentence": "彼は将来の進路について困っている。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】の進路【しんろ】について困【こま】っている。",
+    "meaning": "He is unsure about his future career path."
+  },
+  {
+    "sentence": "必要な書類が見つからず、困った状況です。",
+    "sentence_furigana": "必要【ひつよう】な書類【しょるい】が見【み】つからず、困【こま】った状況【じょうきょう】です。",
+    "meaning": "It's a difficult situation because I can't find the necessary documents."
+  },
+  {
+    "sentence": "彼は仕事のストレスで精神的に困っている。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】のストレスで精神的【せいしんてき】に困【こま】っている。",
+    "meaning": "He is mentally distressed by work stress."
+  },
+  {
+    "sentence": "台風の影響で交通機関が麻痺し、移動できず困っています。",
+    "sentence_furigana": "台風【たいふう】の影響【えいきょう】で交通機関【こうつうきかん】が麻痺【まひ】し、移動【いどう】できず困【こま】っています。",
+    "meaning": "Transportation has been paralyzed due to the typhoon, and I am unable to travel."
+  },
+  {
+    "sentence": "古い家には冷暖房設備がなく、冬はとても困ります。",
+    "sentence_furigana": "古【ふる】い家【いえ】には冷暖房設備【れいだんぼうせつび】がなく、冬【ふゆ】はとても困【こま】ります。",
+    "meaning": "The old house has no heating or cooling facilities, which is very troublesome in winter."
+  },
+  {
+    "sentence": "彼は突然の病気で入院し、看病してくれる人がいなくて困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の病気【びょうき】で入院【にゅういん】し、看病【かんびょう】してくれる人【ひと】がいなくて困【こま】っています。",
+    "meaning": "He was hospitalized due to a sudden illness, and he is in trouble because there is no one to look after him."
+  },
+  {
+    "sentence": "資料の整理に時間がかかり、締め切りに間に合うか困っています。",
+    "sentence_furigana": "資料【しりょう】の整理【せいり】に時間【じかん】がかかり、締【し】め切【き】りに間【ま】に合【あ】うか困【こま】っています。",
+    "meaning": "It's taking a long time to organize the materials, and I'm worried if I can meet the deadline."
+  },
+  {
+    "sentence": "子供がお腹を空かせて泣き止まず、親は困ってしまった。",
+    "sentence_furigana": "子供【こども】がお腹【なか】を空【す】かせて泣【な】き止【や】まず、親【おや】は困【こま】ってしまった。",
+    "meaning": "The child wouldn't stop crying from hunger, and the parents were at a loss."
+  },
+  {
+    "sentence": "彼は外国での生活に慣れず、困った経験がある。",
+    "sentence_furigana": "彼【かれ】は外国【がいこく】での生活【せいかつ】に慣【な】れず、困【こま】った経験【けいけん】がある。",
+    "meaning": "He has had the experience of struggling to get used to life in a foreign country."
+  },
+  {
+    "sentence": "この地域の水道が止まっており、生活に困っています。",
+    "sentence_furigana": "この地域【ちいき】の水道【すいどう】が止【と】まっており、生活【せいかつ】に困【こま】っています。",
+    "meaning": "The water supply in this area has stopped, and we are having trouble with daily life."
+  },
+  {
+    "sentence": "彼は一人暮らしで病気になると、何もできず困る。",
+    "sentence_furigana": "彼【かれ】は一人暮【ひとりぐ】らしで病気【びょうき】になると、何【なに】もできず困【こま】る。",
+    "meaning": "When he gets sick while living alone, he is unable to do anything and is troubled."
+  },
+  {
+    "sentence": "突然の停電で、仕事のデータが失われるのではないかと困っています。",
+    "sentence_furigana": "突然【とつぜん】の停電【ていでん】で、仕事【しごと】のデータが失【うしな】われるのではないかと困【こま】っています。",
+    "meaning": "I'm worried that work data might be lost due to the sudden power outage."
+  },
+  {
+    "sentence": "彼は新しい言語を習得するのに苦労しており、困っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい言語【げんご】を習得【しゅうとく】するのに苦労【くろう】しており、困【こま】っている。",
+    "meaning": "He is struggling to learn a new language and is having a difficult time."
+  },
+  {
+    "sentence": "猫が家から逃げ出してしまい、探すのに困っています。",
+    "sentence_furigana": "猫【ねこ】が家【いえ】から逃【に】げ出【だ】してしまい、探【さが】すのに困【こま】っています。",
+    "meaning": "My cat ran away from home, and I'm having trouble finding it."
+  },
+  {
+    "sentence": "彼は人間関係で悩み、どうすれば良いか困っている。",
+    "sentence_furigana": "彼【かれ】は人間関係【にんげんかんけい】で悩【なや】み、どうすれば良【よ】いか困【こま】っている。",
+    "meaning": "He is troubled by his relationships with people and doesn't know what to do."
+  },
+  {
+    "sentence": "この地域はインフラが未整備で、生活をする上で困ることが多い。",
+    "sentence_furigana": "この地域【ちいき】はインフラが未整備【みせいび】で、生活【せいかつ】をする上【うえ】で困【こま】ることが多【おお】い。",
+    "meaning": "The infrastructure in this area is underdeveloped, causing many difficulties in daily life."
+  },
+  {
+    "sentence": "彼は突然の解雇で、次の仕事探しに困っている。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の解雇【かいこ】で、次【つぎ】の仕事探【しごとさが】しに困【こま】っている。",
+    "meaning": "He was suddenly laid off and is having trouble finding his next job."
+  },
+  {
+    "sentence": "この情報は古く、現状に即しておらず困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、現状【げんじょう】に即【そく】しておらず困【こま】った。",
+    "meaning": "This information is old and does not reflect the current situation, which was troublesome."
+  },
+  {
+    "sentence": "彼は突然の病気で倒れ、周囲の助けなしでは立ち直れず困っている。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の病気【びょうき】で倒【たお】れ、周囲【しゅうい】の助【たす】けなしでは立【た】ち直【な】おれず困【こま】っている。",
+    "meaning": "He collapsed due to a sudden illness and is struggling to recover without the help of those around him."
+  },
+  {
+    "sentence": "新しい土地での生活は、言葉の壁もあり、大変困っています。",
+    "sentence_furigana": "新【あたら】しい土地【とち】での生活【せいかつ】は、言葉【ことば】の壁【かべ】もあり、大変【たいへん】困【こま】っています。",
+    "meaning": "Life in a new land is very difficult due to the language barrier."
+  },
+  {
+    "sentence": "彼は借金返済のために夜遅くまで働いており、体が困っている。",
+    "sentence_furigana": "彼【かれ】は借金返済【しゃっきんへんさい】のために夜遅【よるおそ】くまで働【はたら】いており、体【からだ】が困【こま】っている。",
+    "meaning": "He is working late into the night to repay his debts, and his body is suffering."
+  },
+  {
+    "sentence": "急な雨で洗濯物が濡れてしまい、困ってしまった。",
+    "sentence_furigana": "急【きゅう】な雨【あめ】で洗濯物【せんたくもの】が濡【ぬ】れてしまい、困【こま】ってしまった。",
+    "meaning": "The laundry got wet due to the sudden rain, which was troublesome."
+  },
+  {
+    "sentence": "彼は古いシステムを使い続けているが、度々困っている。",
+    "sentence_furigana": "彼【かれ】は古【ふる】いシステムを使【つか】い続【つづ】けているが、度々【たびたび】困【こま】っている。",
+    "meaning": "He continues to use the old system but often finds himself in trouble."
+  },
+  {
+    "sentence": "この件については、私には判断がつかず困っています。",
+    "sentence_furigana": "この件【けん】については、私【わたし】には判断【はんだん】がつかず困【こま】っています。",
+    "meaning": "I am at a loss regarding this matter and cannot make a judgment."
+  },
+  {
+    "sentence": "彼は新しい技術に対応できず、仕事で困っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】に対応【たいおう】できず、仕事【しごと】で困【こま】っている。",
+    "meaning": "He cannot keep up with new technologies and is having trouble with his work."
+  },
+  {
+    "sentence": "彼は子供の教育費について悩んでおり、どうすれば良いか困っている。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の教育費【きょういくひ】について悩【なや】んでおり、どうすれば良【よ】いか困【こま】っている。",
+    "meaning": "He is worried about his children's education expenses and doesn't know what to do."
+  },
+  {
+    "sentence": "彼女は突然のプロジェクトリーダーの交代で、業務が混乱し困っている。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】のプロジェクトリーダーの交代【こうたい】で、業務【ぎょうむ】が混乱【こんらん】し困【こま】っている。",
+    "meaning": "She is in a difficult situation due to the sudden change in project leader, causing operational confusion."
+  },
+  {
+    "sentence": "彼は高齢の親の介護に追われ、自身の生活もままならず困っている。",
+    "sentence_furigana": "彼【かれ】は高齢【こうれい】の親【おや】の介護【かいご】に追【お】われ、自身【じしん】の生活【せいかつ】もままならず困【こま】っている。",
+    "meaning": "He is overwhelmed with caring for his elderly parent and is struggling to manage his own life."
+  },
+  {
+    "sentence": "この地域では公共交通機関が少なく、移動手段がなく困っています。",
+    "sentence_furigana": "この地域【ちいき】では公共交通機関【こうきょうこうつうきかん】が少【すく】なく、移動手段【いどうしゅだん】がなく困【こま】っています。",
+    "meaning": "There are few public transportation options in this area, and I am having trouble with how to get around."
+  },
+  {
+    "sentence": "彼は昔の友人に偶然会ったが、連絡先が変わっており困った。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の友人【ゆうじん】に偶然【ぐうぜん】会【あ】ったが、連絡先【れんらくさき】が変わ【か】わっており困【こま】った。",
+    "meaning": "He unexpectedly met an old friend, but their contact information had changed, which was troublesome."
+  },
+  {
+    "sentence": "彼は突然の病気で動けなくなり、一人で生活するのが困難で困っている。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の病気【びょうき】で動【うご】けなくなり、一人【ひとり】で生活【せいかつ】するのが困難【こんなん】で困【こま】っている。",
+    "meaning": "He became unable to move due to a sudden illness and is struggling to live alone."
+  },
+  {
+    "sentence": "この地域は過疎化が進んでおり、生活に必要なサービスが利用できず困っています。",
+    "sentence_furigana": "この地域【ちいき】は過疎化【かそか】が進【すす】んでおり、生活【せいかつ】に必要な【ひつような】サービスが利用【りよう】できず困【こま】っています。",
+    "meaning": "Depopulation is progressing in this area, and we are having trouble accessing essential services for daily life."
+  },
+  {
+    "sentence": "彼は仕事で大きなミスを犯し、その処理にどうすれば良いか困っている。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】で大【おお】きなミスを犯【おか】し、その処理【しょり】にどうすれば良【よ】いか困【こま】っている。",
+    "meaning": "He made a big mistake at work and is at a loss as to how to handle it."
+  },
+  {
+    "sentence": "彼女は突然の解雇通告を受け、次の仕事探しに困っている。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の解雇通告【かいこつうこく】を受【う】け、次【つぎ】の仕事探【しごとさが】しに困【こま】っている。",
+    "meaning": "She received a sudden notice of dismissal and is struggling to find her next job."
+  },
+  {
+    "sentence": "この情報は古く、実情と異なっており困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、実情【じつじょう】と異【こと】なっており困【こま】った。",
+    "meaning": "This information is old and differs from the actual situation, which was troublesome."
+  },
+  {
+    "sentence": "彼は長年勤めた会社を突然解雇され、今後の生活に困っている。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】勤【つと】めた会社【かいしゃ】を突然【とつぜん】解雇【かいこ】され、今後【こんご】の生活【せいかつ】に困【こま】っている。",
+    "meaning": "He was suddenly laid off from the company where he had worked for many years and is having trouble with his future life."
+  },
+  {
+    "sentence": "急な出張で、ペットの世話をしてくれる人がおらず困っている。",
+    "sentence_furigana": "急【きゅう】な出張【しゅっちょう】で、ペットの世話【せわ】をしてくれる人【ひと】がおらず困【こま】っている。",
+    "meaning": "Due to a sudden business trip, I am having trouble finding someone to take care of my pet."
+  },
+  {
+    "sentence": "彼は老朽化した建物の耐震性に問題があるのではないかと懸念しており困っている。",
+    "sentence_furigana": "彼【かれ】は老朽化【ろうきゅうか】した建物【たてもの】の耐震性【たいしんせい】に問題【もんだい】があるのではないかと懸念【けねん】しており困【こま】っている。",
+    "meaning": "He is concerned about the seismic resistance of the aging building and is in a difficult situation."
+  },
+  {
+    "sentence": "新しい法律の施行により、多くの企業が対応に困っています。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】の施行【せこう】により、多【おお】くの企業【きぎょう】が対応【たいおう】に困【こま】っています。",
+    "meaning": "Many companies are having trouble adapting due to the enforcement of the new law."
+  },
+  {
+    "sentence": "彼は病気で休職しており、収入がなくなり困っています。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】で休職【きゅうしょく】しており、収入【しゅうにゅう】がなくなり困【こま】っています。",
+    "meaning": "He is on leave due to illness and is having trouble because he has no income."
+  },
+  {
+    "sentence": "この地域の水道が長期間止まっており、衛生状態が悪化して困っています。",
+    "sentence_furigana": "この地域【ちいき】の水道【すいどう】が長期間【ちょうきかん】止【と】まっており、衛生状態【えいせいじょうたい】が悪化【あっか】して困【こま】っています。",
+    "meaning": "The water supply in this area has been stopped for a long time, and the sanitary conditions have worsened, causing difficulties."
+  },
+  {
+    "sentence": "彼は突然の災害で家を失い、当面の生活費にも困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の災害【さいがい】で家【いえ】を失【うしな】い、当面【とうめん】の生活費【せいかつひ】にも困【こま】っています。",
+    "meaning": "He lost his home due to a sudden disaster and is struggling even for immediate living expenses."
+  },
+  {
+    "sentence": "新しいソフトウェアの導入で、使い方がわからず困っています。",
+    "sentence_furigana": "新【あたら】しいソフトウェアの導入【どうにゅう】で、使【つか】い方【かた】がわからず困【こま】っています。",
+    "meaning": "We are having trouble understanding how to use the new software."
+  },
+  {
+    "sentence": "彼は高齢の親の介護に加えて、自身の病気も重なり、非常に困っている。",
+    "sentence_furigana": "彼【かれ】は高齢【こうれい】の親【おや】の介護【かいご】に加【くわ】え、自身【じしん】の病気【びょうき】も重【かさ】なり、非常【ひじょう】に困【こま】っている。",
+    "meaning": "In addition to caring for his elderly parent, he is also ill, which puts him in a very difficult situation."
+  },
+  {
+    "sentence": "この地域はバス路線が少なく、通院に困っています。",
+    "sentence_furigana": "この地域【ちいき】はバス路線【ろせん】が少【すく】なく、通院【つういん】に困【こま】っています。",
+    "meaning": "There are few bus routes in this area, and I am having trouble getting to the hospital."
+  },
+  {
+    "sentence": "彼は突然の家族の病気で、仕事と看病の両立に困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の家族【かぞく】の病気【びょうき】で、仕事【しごと】と看病【かんびょう】の পক্ষপাত【ひいき】に困【こま】っています。",
+    "meaning": "Due to a sudden family illness, he is struggling to balance work and caregiving."
+  },
+  {
+    "sentence": "この情報は古く、現状の正確な把握ができず困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、現状【げんじょう】の正確【せいかく】な把握【はあく】ができず困【こま】った。",
+    "meaning": "This information is old, and I was unable to accurately grasp the current situation, which was troublesome."
+  },
+  {
+    "sentence": "彼は突然の事故で怪我をし、しばらくの間、日常生活に困っています。",
+    "sentence_furigana": "彼【かれ】は突然【つつ】の事故【じこ】で怪我【けが】をを、しばらくの間【あいだ】、日常生活【にちじょうせいかつ】に困【こま】っています。",
+    "meaning": "He was injured in a sudden accident and is having trouble with daily life for a while."
+  },
+  {
+    "sentence": "彼女は突然のリストラで職を失い、次の仕事探しに困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】のリストラで職【しょく】を失【うしな】い、次【つぎ】の仕事探【しごとさが】しに困【こま】っています。",
+    "meaning": "She lost her job due to sudden restructuring and is struggling to find her next job."
+  },
+  {
+    "sentence": "彼は高齢の親の介護と自身の仕事との両立に苦慮しており、困っています。",
+    "sentence_furigana": "彼【かれ】は高齢【こうれい】の親【おや】の介護【かいご】と自身【じしん】の仕事【しごと】との両立【りょうりつ】に苦慮【くりょ】しており、困【こま】っています。",
+    "meaning": "He is struggling to balance caring for his elderly parent with his own job and is in a difficult situation."
+  },
+  {
+    "sentence": "この地域は過疎化が進み、医療機関へのアクセスが悪化し困っています。",
+    "sentence_furigana": "この地域【ちいき】は過疎化【かそか】が進【すす】み、医療機関【いりょうきかん】へのアクセスが悪化【あっか】し困【こま】っています。",
+    "meaning": "Depopulation is progressing in this area, and access to medical facilities has worsened, causing difficulties."
+  },
+  {
+    "sentence": "彼は突然の親族の病状悪化で、遠方から駆けつけるのに交通手段がなく困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の病状悪化【びょうじょうあっか】で、遠方【えんぽう】から駆【か】けつけるのに交通手段【こうつうしゅだん】がなく困【こま】っています。",
+    "meaning": "Due to the sudden deterioration of a relative's condition, he is struggling to find transportation to rush from afar."
+  },
+  {
+    "sentence": "新しい税制への対応で、経理担当者は困惑しています。",
+    "sentence_furigana": "新【あたら】しい税制【ぜいせい】への対応【たいおう】で、経理担当者【けいりたんとうしゃ】は困惑【こんわく】しています。",
+    "meaning": "The accounting staff are perplexed by the response to the new tax system."
+  },
+  {
+    "sentence": "彼は突然の病気で出社できなくなり、業務の引き継ぎができず困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の病気【びょうき】で出社【しゅっしゃ】できなくなり、業務【ぎょうむ】の引【ひ】き継【つ】ぎができず困【こま】っています。",
+    "meaning": "He cannot come to work due to a sudden illness and is struggling to hand over his work."
+  },
+  {
+    "sentence": "この情報は古く、現在の市場動向と乖離しており困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、現在【げんざい】の市場動向【しじょうどうこう】と乖離【かいり】しており困【こま】った。",
+    "meaning": "This information is old and deviates from current market trends, which was troublesome."
+  },
+  {
+    "sentence": "彼は突然の親族の葬儀のため、仕事を休むことになり困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の葬儀【そうぎ】のため、仕事【しごと】を休【やす】むことになり困【こま】っています。",
+    "meaning": "He has to take time off work due to the sudden funeral of a relative and is having trouble."
+  },
+  {
+    "sentence": "彼女は突然の自然災害で自宅が被災し、生活必需品の確保に困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の自然災害【しぜんさいがい】で自宅【じたく】が被災【ひさい】し、生活必需品【せいかつひつじゅひん】の確保【かくほ】に困【こま】っています。",
+    "meaning": "Her home was affected by a sudden natural disaster, and she is struggling to secure daily necessities."
+  },
+  {
+    "sentence": "彼は突然の体調不良で会議に出席できず、その旨を伝えるのに困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の体調不良【たいちょうふりょう】で会議【かいぎ】に出席【しゅっせき】できず、その旨【むね】を伝【つた】えるのに困【こま】っています。",
+    "meaning": "He cannot attend the meeting due to sudden poor health and is having trouble conveying this."
+  },
+  {
+    "sentence": "この地域は高齢者が多く、日常生活における様々な支援の必要性を感じ、困っています。",
+    "sentence_furigana": "この地域【ちいき】は高齢者【こうれいしゃ】が多【おお】く、日常生活【にちじょうせいかつ】における様々【さまざま】な支援【しえん】の必要性【ひつようせい】を感【かん】じ、困【こま】っています。",
+    "meaning": "There are many elderly people in this area, and we feel the need for various support in daily life, causing difficulties."
+  },
+  {
+    "sentence": "彼は突然のトラブルで予定が変更になり、関係各所への連絡に困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】のトラブルで予定【よてい】が変更【へんこう】になり、関係各所【かんけいかくしょ】への連絡【れんらく】に困【こま】っています。",
+    "meaning": "His schedule changed due to a sudden problem, and he is having trouble contacting all relevant parties."
+  },
+  {
+    "sentence": "彼女は突然の急病で、子供の世話を頼める人がいなくて困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の急病【きゅうびょう】で、子供【こども】の世話【せわ】を頼【たの】める人【ひと】がいなくて困【こま】っています。",
+    "meaning": "She is suddenly ill and has no one to ask to look after her children."
+  },
+  {
+    "sentence": "この情報は古く、現在の状況を正確に反映しておらず困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、現在【げんざい】の状況【じょうきょう】を正確【せいかく】に反映【はんえい】しておらず困【こま】った。",
+    "meaning": "This information is old and does not accurately reflect the current situation, which was troublesome."
+  },
+  {
+    "sentence": "彼は突然の業務命令で、休暇を取ることができず困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の業務命令【ぎょうむめいれい】で、休暇【きゅうか】を取【と】ることができず困【こま】っています。",
+    "meaning": "He received a sudden work order and is unable to take leave, causing difficulties."
+  },
+  {
+    "sentence": "この地域は自然災害のリスクが高く、いざという時の避難方法に困っています。",
+    "sentence_furigana": "この地域【ちいき】は自然災害【しぜんさいがい】のリスクが高【たか】く、いざという時【とき】の避難方法【ひなんほうほう】に困【こま】っています。",
+    "meaning": "This area has a high risk of natural disasters, and we are having trouble with evacuation procedures in case of an emergency."
+  },
+  {
+    "sentence": "彼は突然のシステム障害で、データ復旧作業に追われて困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】のシステム障害【しょうがい】で、データ復旧作業【ふっきゅうさぎょう】に追【お】われて困【こま】っています。",
+    "meaning": "He is overwhelmed with data recovery work due to a sudden system failure."
+  },
+  {
+    "sentence": "彼女は突然の怪我で、長期間の療養が必要となり困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の怪我【けが】で、長期間【ちょうきかん】の療養【りょうよう】が必要【ひつよう】となり困【こま】っています。",
+    "meaning": "She sustained a sudden injury and requires a long period of medical treatment, causing difficulties."
+  },
+  {
+    "sentence": "彼は突然の病気で入院し、仕事の遅れを取り戻すのに困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の病気【びょうき】で入院【にゅういん】し、仕事【しごと】の遅【おく】れを取り戻【と】すのに困【こま】っています。",
+    "meaning": "He was hospitalized due to a sudden illness and is struggling to catch up on his work."
+  },
+  {
+    "sentence": "この地域は積雪が多く、冬場の除雪作業に困っています。",
+    "sentence_furigana": "この地域【ちいき】は積雪【せきせつ】が多【おお】く、冬場【ふゆば】の除雪作業【じょせつさぎょう】に困【こま】っています。",
+    "meaning": "There is heavy snowfall in this area, and we are having trouble with snow removal in winter."
+  },
+  {
+    "sentence": "彼は突然の海外転勤で、家族をどうするか困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の海外転勤【かいがいてんきん】で、家族【かぞく】をどうするか困【こま】っています。",
+    "meaning": "He has been suddenly transferred overseas and is unsure what to do about his family."
+  },
+  {
+    "sentence": "彼女は突然の予定変更で、参加できなくなり困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の予定変更【よていへんこう】で、参加【さんか】できなくなり困【こま】っています。",
+    "meaning": "She is having trouble because her plans have suddenly changed, preventing her from participating."
+  },
+  {
+    "sentence": "この情報は古く、参考にならないと困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、参考【さんこう】にならないと困【こま】った。",
+    "meaning": "This information is old, and it was troublesome that it was not useful."
+  },
+  {
+    "sentence": "彼は突然の休業で、収入源を失い困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の休業【きゅうぎょう】で、収入源【しゅうにゅうげん】を失【うしな】い困【こま】っています。",
+    "meaning": "He lost his source of income due to a sudden business suspension and is having trouble."
+  },
+  {
+    "sentence": "彼女は突然の事故で怪我をし、しばらくの間、日常生活に支障が出て困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の事故【じこ】で怪我【けが】をを、しばらくの間【あいだ】、日常生活【にちじょうせいかつ】に支障【ししょう】が出【で】て困【こま】っています。",
+    "meaning": "She was injured in a sudden accident and is having trouble with daily life for a while."
+  },
+  {
+    "sentence": "彼は突然の業務縮小で、自身の立場が危うくなり困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の業務縮小【ぎょうむしゅくしょう】で、自身【じしん】の立場【たちば】が危【あや】うくなり困【こま】っています。",
+    "meaning": "Due to a sudden downsizing of operations, his position has become precarious, and he is in trouble."
+  },
+  {
+    "sentence": "この地域は高齢化が進んでおり、医療や介護サービスの不足に困っています。",
+    "sentence_furigana": "この地域【ちいき】は高齢化【こうれいか】が進【すす】んでおり、医療【いりょう】や介護サービス【かいごサービス】の不足【ふそく】に困【こま】っています。",
+    "meaning": "The aging of the population is progressing in this area, and we are having trouble with the lack of medical and nursing care services."
+  },
+  {
+    "sentence": "彼は突然の親族の急病で、仕事を休まざるを得ず困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の急病【きゅうびょう】で、仕事【しごと】を休【やす】まざるを得【え】ず困【こま】っています。",
+    "meaning": "He had to take time off work due to a relative's sudden serious illness and is having trouble."
+  },
+  {
+    "sentence": "彼女は突然の自然災害で交通網が寸断され、移動手段がなく困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の自然災害【しぜんさいがい】で交通網【こうつうもう】が寸断【すんだん】され、移動手段【いどうしゅだん】がなく困【こま】っています。",
+    "meaning": "Her transportation routes were cut off by a sudden natural disaster, and she is struggling to find ways to travel."
+  },
+  {
+    "sentence": "彼は突然のシステム障害で、業務が一時停止し困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】のシステム障害【しょうがい】で、業務【ぎょうむ】が一時停止【いちじていし】し困【こま】っています。",
+    "meaning": "Operations have been temporarily suspended due to a sudden system failure, causing difficulties."
+  },
+  {
+    "sentence": "この地域はインフラ整備が遅れており、生活の利便性が悪く困っています。",
+    "sentence_furigana": "この地域【ちいき】はインフラ整備【せいび】が遅【おく】れており、生活【せいかつ】の利便性【りべんせい】が悪【わる】く困【こま】っています。",
+    "meaning": "Infrastructure development is delayed in this area, and the convenience of daily life is poor, causing difficulties."
+  },
+  {
+    "sentence": "彼は突然の親族の死亡により、相続手続きで困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の死亡【しぼう】により、相続手続き【そうぞくてつづき】で困【こま】っています。",
+    "meaning": "He is having trouble with inheritance procedures due to the sudden death of a relative."
+  },
+  {
+    "sentence": "彼女は突然の風邪で体調を崩し、楽しみにしていたイベントに参加できず困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の風邪【かぜ】で体調【たいちょう】を崩【くず】し、楽【たの】しみにしていたイベントに参加【さんか】できず困【こま】っています。",
+    "meaning": "She suddenly caught a cold, and is unable to participate in an event she was looking forward to."
+  },
+  {
+    "sentence": "彼は突然の株価暴落で大きな損失を被り、今後の投資戦略に困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の株価暴落【かぶかぼうらく】で大【おお】きな損失【そんしつ】を被【こうむ】り、今後【こんご】の投資戦略【とうしせんりゃく】に困【こま】っています。",
+    "meaning": "He suffered significant losses due to a sudden stock market crash and is having trouble with his future investment strategy."
+  },
+  {
+    "sentence": "この情報は古く、現在の技術動向と乖離しており困った。",
+    "sentence_furigana": "この情報【じょうほう】は古【ふる】く、現在【げんざい】の技術動向【ぎじゅつどうこう】と乖離【かいり】しており困【こま】った。",
+    "meaning": "This information is old and deviates from current technological trends, which was troublesome."
+  },
+  {
+    "sentence": "彼は突然の親族の入院で、付き添うために仕事を休む必要があり困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の入院【にゅういん】で、付【つ】き添【そ】うために仕事【しごと】を休【やす】む必要【ひつよう】があり困【こま】っています。",
+    "meaning": "Due to a relative's sudden hospitalization, he needs to take time off work to accompany them and is having trouble."
+  },
+  {
+    "sentence": "彼女は突然の病気で声が出なくなり、コミュニケーションに困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の病気【びょうき】で声【こえ】が出【で】なくなり、コミュニケーションに困【こま】っています。",
+    "meaning": "She suddenly lost her voice due to illness and is having trouble communicating."
+  },
+  {
+    "sentence": "彼は突然の事故で長期間の休業を余儀なくされ、生活基盤が脅かされ困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の事故【じこ】で長期間【ちょうきかん】の休業【きゅうぎょう】を余儀【よぎ】なくされ、生活基盤【せいかつきばん】が脅【おびや】かされ困【こま】っています。",
+    "meaning": "He was forced into a long period of leave due to a sudden accident, and his livelihood is threatened, causing difficulties."
+  },
+  {
+    "sentence": "この地域は物価が高く、生活費の捻出に困っています。",
+    "sentence_furigana": "この地域【ちいき】は物価【ぶっか】が高【たか】く、生活費【せいかつひ】の捻出【ねんしゅつ】に困【こま】っています。",
+    "meaning": "The cost of living in this area is high, and we are having trouble making ends meet."
+  },
+  {
+    "sentence": "彼は突然の親族の病状急変で、駆けつけるための交通手段がなく困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の病状急変【びょうじょうきゅうへん】で、駆【か】けつけるための交通手段【こうつうしゅだん】がなく困【こま】っています。",
+    "meaning": "Due to a relative's sudden change in condition, he is struggling to find transportation to rush to their side."
+  },
+  {
+    "sentence": "彼女は突然の故障で、重要な会議に参加できず困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の故障【こしょう】で、重要【じゅうよう】な会議【かいぎ】に参加【さんか】できず困【こま】っています。",
+    "meaning": "She is having trouble participating in an important meeting due to a sudden breakdown."
+  },
+  {
+    "sentence": "彼は突然の病気で動けなくなり、自宅での療養に困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の病気【びょうき】で動【うご】けなくなり、自宅【じたく】での療養【りょうよう】に困【こま】っています。",
+    "meaning": "He became unable to move due to a sudden illness and is having trouble with home care."
+  },
+  {
+    "sentence": "この地域は災害リスクが高く、避難計画の策定に困っています。",
+    "sentence_furigana": "この地域【ちいき】は災害リスク【さいがいリスク】が高【たか】く、避難計画【ひなんけいかく】の策定【さくてい】に困【こま】っています。",
+    "meaning": "This area has a high risk of disasters, and we are having trouble formulating an evacuation plan."
+  },
+  {
+    "sentence": "彼は突然の親族の急病で、付き添うために仕事を休むことになり困っています。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の親族【しんぞく】の急病【きゅうびょう】で、付【つ】き添【そ】うために仕事【しごと】を休【やす】むことになり困【こま】っています。",
+    "meaning": "Due to a relative's sudden serious illness, he has to take time off work to accompany them and is having trouble."
+  },
+  {
+    "sentence": "彼女は突然の病気で声が出なくなり、仕事の指示を伝えるのに困っています。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の病気【びょうき】で声【こえ】が出【で】なくなり、仕事【しごと】の指示【しじ】を伝【つた】えるのに困【こま】っています。",
+    "meaning": "She suddenly lost her voice due to illness and is having trouble conveying work instructions."
+  }
+]

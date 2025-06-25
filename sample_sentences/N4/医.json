@@ -1,0 +1,567 @@
+[
+  {
+    "sentence": "医者は患者に薬を処方した。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】に薬【くすり】を処方【しょほう】した。",
+    "meaning": "The doctor prescribed medicine to the patient."
+  },
+  {
+    "sentence": "この病院は有名な医者がいる。",
+    "sentence_furigana": "この病院【びょういん】は有名【ゆうめい】な医者【いしゃ】がいる。",
+    "meaning": "This hospital has a famous doctor."
+  },
+  {
+    "sentence": "彼は医学を学んでいる。",
+    "sentence_furigana": "彼【かれ】は医学【いがく】を学【まな】んでいる。",
+    "meaning": "He is studying medicine."
+  },
+  {
+    "sentence": "医薬品の副作用に注意してください。",
+    "sentence_furigana": "医薬品【いやくひん】の副作用【ふくさよう】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of the side effects of the medicine."
+  },
+  {
+    "sentence": "私の父は医者です。",
+    "sentence_furigana": "私【わたし】の父【ちち】は医者【いしゃ】です。",
+    "meaning": "My father is a doctor."
+  },
+  {
+    "sentence": "彼は医務官として働いている。",
+    "sentence_furigana": "彼【かれ】は医務官【いむかん】として働【はたら】いている。",
+    "meaning": "He works as a medical officer."
+  },
+  {
+    "sentence": "医者の診断は正確だった。",
+    "sentence_furigana": "医者【いしゃ】の診断【しんだん】は正確【せいかく】だった。",
+    "meaning": "The doctor's diagnosis was accurate."
+  },
+  {
+    "sentence": "医学の進歩は目覚ましい。",
+    "sentence_furigana": "医学【いがく】の進歩【しんぽ】は目覚【めざ】ましくい。",
+    "meaning": "The progress of medicine is remarkable."
+  },
+  {
+    "sentence": "この薬は医者の処方が必要です。",
+    "sentence_furigana": "この薬【くすり】は医者【いしゃ】の処方【しょほう】が必要【ひつよう】です。",
+    "meaning": "This medicine requires a doctor's prescription."
+  },
+  {
+    "sentence": "彼は医者になることを夢見ている。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】になることを夢見【ゆめみ】ている。",
+    "meaning": "He dreams of becoming a doctor."
+  },
+  {
+    "sentence": "医療技術は日々進歩している。",
+    "sentence_furigana": "医療【いりょう】技術【ぎじゅつ】は日々【ひび】進歩【しんぽ】している。",
+    "meaning": "Medical technology is advancing day by day."
+  },
+  {
+    "sentence": "医者は患者の健康を第一に考える。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の健康【けんこう】を第一【だいいち】に考【かんが】える。",
+    "meaning": "Doctors consider the patient's health to be paramount."
+  },
+  {
+    "sentence": "その病気は専門医でなければ治療できない。",
+    "sentence_furigana": "その病気【びょうき】は専門医【せんもんい】でなければ治療【ちりょう】できない。",
+    "meaning": "That disease can only be treated by a specialist doctor."
+  },
+  {
+    "sentence": "彼は子供の頃から医者になりたかった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】から医者【いしゃ】になりたかった。",
+    "meaning": "He wanted to be a doctor since he was a child."
+  },
+  {
+    "sentence": "医薬分業が進んでいる。",
+    "sentence_furigana": "医薬分業【いやくぶんぎょう】が進【すす】んでいる。",
+    "meaning": "The separation of prescribing and dispensing drugs is progressing."
+  },
+  {
+    "sentence": "医者の指示に従ってください。",
+    "sentence_furigana": "医者【いしゃ】の指示【しじ】に従【したが】ってください。",
+    "meaning": "Please follow the doctor's instructions."
+  },
+  {
+    "sentence": "医学部は非常に厳しい。",
+    "sentence_furigana": "医学部【いがくぶ】は非常【ひじょう】に厳【きび】しい。",
+    "meaning": "Medical school is very demanding."
+  },
+  {
+    "sentence": "彼は名医として知られている。",
+    "sentence_furigana": "彼【かれ】は名医【めいい】として知【し】られている。",
+    "meaning": "He is known as a skilled doctor."
+  },
+  {
+    "sentence": "医者の質問に正直に答えてください。",
+    "sentence_furigana": "医者【いしゃ】の質問【しつもん】に正直【しょうじき】に答【こた】えてください。",
+    "meaning": "Please answer the doctor's questions honestly."
+  },
+  {
+    "sentence": "現代医学は多くの病気を克服した。",
+    "sentence_furigana": "現代医学【げんだいいがく】は多【おお】くの病気【びょうき】を克服【こくふく】した。",
+    "meaning": "Modern medicine has overcome many diseases."
+  },
+  {
+    "sentence": "彼は医薬品の副作用で悩んでいる。",
+    "sentence_furigana": "彼【かれ】は医薬品【いやくひん】の副作用【ふくさよう】で悩【なや】んでいる。",
+    "meaning": "He is suffering from the side effects of the medicine."
+  },
+  {
+    "sentence": "医者は的確な治療法を見出した。",
+    "sentence_furigana": "医者【いしゃ】は的確【てきかく】な治療法【ちりょうほう】を見出【みいだ】した。",
+    "meaning": "The doctor found the correct treatment method."
+  },
+  {
+    "sentence": "この薬は医師の処方箋が必要です。",
+    "sentence_furigana": "この薬【くすり】は医師【いし】の処方箋【しょほうせん】が必要【ひつよう】です。",
+    "meaning": "This medicine requires a doctor's prescription."
+  },
+  {
+    "sentence": "彼は医者一家の出身だ。",
+    "sentence_furigana": "彼【かれ】は医者一家【いしゃいっか】の出身【しゅっしん】だ。",
+    "meaning": "He comes from a family of doctors."
+  },
+  {
+    "sentence": "医学研究は日進月歩である。",
+    "sentence_furigana": "医学研究【いがくけんきゅう】は日進月歩【にっしんげっぽ】である。",
+    "meaning": "Medical research is advancing rapidly."
+  },
+  {
+    "sentence": "医者は患者の話をよく聞く。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の話【はなし】をよく聞【き】く。",
+    "meaning": "Doctors listen carefully to patients' stories."
+  },
+  {
+    "sentence": "医薬品の管理には注意が必要だ。",
+    "sentence_furigana": "医薬品【いやくひん】の管理【かんり】には注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Care must be taken in managing medicines."
+  },
+  {
+    "sentence": "彼は医術の才能に恵まれている。",
+    "sentence_furigana": "彼【かれ】は医術【いじゅつ】の才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "He is blessed with talent in medical art."
+  },
+  {
+    "sentence": "医者のアドバイスに従って療養します。",
+    "sentence_furigana": "医者【いしゃ】のアドバイスに従【したが】って療養【りょうよう】します。",
+    "meaning": "I will recuperate following the doctor's advice."
+  },
+  {
+    "sentence": "医学雑誌を購読している。",
+    "sentence_furigana": "医学雑誌【いがくざっし】を購読【こうどく】している。",
+    "meaning": "I subscribe to a medical journal."
+  },
+  {
+    "sentence": "彼は開業医として成功した。",
+    "sentence_furigana": "彼【かれ】は開業医【かいぎょうい】として成功【せいこう】した。",
+    "meaning": "He succeeded as a private practice doctor."
+  },
+  {
+    "sentence": "医者は患者の苦痛を和らげた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の苦痛【くつう】を和【やわ】らげた。",
+    "meaning": "The doctor alleviated the patient's suffering."
+  },
+  {
+    "sentence": "医学は人々の健康を守るための学問だ。",
+    "sentence_furigana": "医学【いがく】は人々【ひとびと】の健康【けんこう】を守【まも】るための学問【がくもん】だ。",
+    "meaning": "Medicine is the study of protecting people's health."
+  },
+  {
+    "sentence": "彼は医者の資格を取得した。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】の資格【しかく】を取得【しゅとく】した。",
+    "meaning": "He obtained his medical license."
+  },
+  {
+    "sentence": "医薬品の販売には免許が必要だ。",
+    "sentence_furigana": "医薬品【いやくひん】の販売【はんばい】には免許【めんきょ】が必要【ひつよう】だ。",
+    "meaning": "A license is required to sell medicine."
+  },
+  {
+    "sentence": "医者は病気の原因を特定しようとした。",
+    "sentence_furigana": "医者【いしゃ】は病気【びょうき】の原因【げんいん】を特定【とくてい】しようとした。",
+    "meaning": "The doctor tried to identify the cause of the illness."
+  },
+  {
+    "sentence": "この手術は経験豊富な医者にしかできない。",
+    "sentence_furigana": "この手術【しゅじゅつ】は経験豊富【けいけんほうふ】な医者【いしゃ】にしかできない。",
+    "meaning": "This surgery can only be performed by an experienced doctor."
+  },
+  {
+    "sentence": "医学教育は厳しい。",
+    "sentence_furigana": "医学教育【いがくきょういく】は厳【きび】しい。",
+    "meaning": "Medical education is rigorous."
+  },
+  {
+    "sentence": "医薬品の有効期限を確認してください。",
+    "sentence_furigana": "医薬品【いやくひん】の有効期限【ゆうこうきげん】を確認【かくにん】してください。",
+    "meaning": "Please check the expiration date of the medicine."
+  },
+  {
+    "sentence": "医者は患者の容態を注意深く観察した。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の容態【ようだい】を注意深【ちゅういぶか】く観察【かんさつ】した。",
+    "meaning": "The doctor carefully observed the patient's condition."
+  },
+  {
+    "sentence": "彼は医者ではなく、研究者だ。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】ではなく、研究者【けんきゅうしゃ】だ。",
+    "meaning": "He is not a doctor, but a researcher."
+  },
+  {
+    "sentence": "医学会で発表する予定です。",
+    "sentence_furigana": "医学会【いがくかい】で発表【はっぴょう】する予定【よてい】です。",
+    "meaning": "I plan to present at the medical conference."
+  },
+  {
+    "sentence": "医者の紹介状が必要ですか？",
+    "sentence_furigana": "医者【いしゃ】の紹介状【しょうかいじょう】が必要【ひつよう】ですか？",
+    "meaning": "Do I need a doctor's referral letter?"
+  },
+  {
+    "sentence": "彼は医薬分業について学んでいる。",
+    "sentence_furigana": "彼【かれ】は医薬分業【いやくぶんぎょう】について学【まな】んでいる。",
+    "meaning": "He is studying the separation of prescribing and dispensing drugs."
+  },
+  {
+    "sentence": "医者は迅速な処置を行った。",
+    "sentence_furigana": "医者【いしゃ】は迅速【じんそく】な処置【しょち】を行【おこな】った。",
+    "meaning": "The doctor performed a swift treatment."
+  },
+  {
+    "sentence": "この病気は専門医の治療が必要だ。",
+    "sentence_furigana": "この病気【びょうき】は専門医【せんもんい】の治療【ちりょう】が必要【ひつよう】だ。",
+    "meaning": "This disease requires treatment by a specialist doctor."
+  },
+  {
+    "sentence": "医学部は非常に競争率が高い。",
+    "sentence_furigana": "医学部【いがくぶ】は非常【ひじょう】に競争率【きょうそうりつ】が高【たか】い。",
+    "meaning": "Medical school has very high competition."
+  },
+  {
+    "sentence": "医薬品の個人輸入には注意が必要です。",
+    "sentence_furigana": "医薬品【いやくひん】の個人輸入【こじんゆにゅう】には注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Caution is necessary for the personal importation of medicine."
+  },
+  {
+    "sentence": "医者は患者の訴えに耳を傾けた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の訴【うった】えに耳【みみ】を傾【かたむ】けた。",
+    "meaning": "The doctor listened to the patient's complaints."
+  },
+  {
+    "sentence": "彼は一流の医者になることを目指している。",
+    "sentence_furigana": "彼【かれ】は一流【いちりゅう】の医者【いしゃ】になることを目指【めざ】している。",
+    "meaning": "He aims to become a top doctor."
+  },
+  {
+    "sentence": "医学の歴史は長い。",
+    "sentence_furigana": "医学【いがく】の歴史【れきし】は長【なが】い。",
+    "meaning": "The history of medicine is long."
+  },
+  {
+    "sentence": "医者は患者に安心感を与えた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】に安心感【あんしんかん】を与【あた】えた。",
+    "meaning": "The doctor gave the patient a sense of security."
+  },
+  {
+    "sentence": "医薬品の適正使用が重要です。",
+    "sentence_furigana": "医薬品【いやくひん】の適正使用【てきせいしよう】が重要【じゅうよう】です。",
+    "meaning": "The proper use of medicine is important."
+  },
+  {
+    "sentence": "彼は医者としての使命感を持っている。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】としての使命感【しめいかん】を持【も】っている。",
+    "meaning": "He has a sense of mission as a doctor."
+  },
+  {
+    "sentence": "この症状は専門医に相談した方がいい。",
+    "sentence_furigana": "この症状【しょうじょう】は専門医【せんもんい】に相談【そうだん】したほうがいい。",
+    "meaning": "It is better to consult a specialist doctor for this symptom."
+  },
+  {
+    "sentence": "医学部は優秀な人材を育成している。",
+    "sentence_furigana": "医学部【いがくぶ】は優秀【ゆうしゅう】な人材【じんざい】を育成【いくせい】している。",
+    "meaning": "The medical school is training excellent human resources."
+  },
+  {
+    "sentence": "医薬品の偽造品に注意。",
+    "sentence_furigana": "医薬品【いやくひん】の偽造品【ぎぞうひん】に注意【ちゅうい】。",
+    "meaning": "Beware of counterfeit medicines."
+  },
+  {
+    "sentence": "医者は患者の状態を詳しく説明した。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の状態【じょうたい】を詳【くわ】しく説明【せつめい】した。",
+    "meaning": "The doctor explained the patient's condition in detail."
+  },
+  {
+    "sentence": "彼は国際的な医療支援に携わっている。",
+    "sentence_furigana": "彼【かれ】は国際的【こくさいてき】な医療支援【いりょうしえん】に携【たずさ】わっている。",
+    "meaning": "He is involved in international medical aid."
+  },
+  {
+    "sentence": "医学は常に進歩し続けている分野です。",
+    "sentence_furigana": "医学【いがく】は常【つね】に進歩【しんぽ】し続【つづ】けている分野【ぶんや】です。",
+    "meaning": "Medicine is a field that is constantly advancing."
+  },
+  {
+    "sentence": "医者の指示なしに薬を服用しないでください。",
+    "sentence_furigana": "医者【いしゃ】の指示【しじ】なしに薬【くすり】を服用【ふよう】しないでください。",
+    "meaning": "Do not take the medicine without a doctor's instruction."
+  },
+  {
+    "sentence": "彼は医学生として勉学に励んでいる。",
+    "sentence_furigana": "彼【かれ】は医学生【いがくせい】として勉学【べんがく】に励【はげ】んでいる。",
+    "meaning": "He is diligently studying as a medical student."
+  },
+  {
+    "sentence": "医薬品の副作用に関する情報を提供します。",
+    "sentence_furigana": "医薬品【いやくひん】の副作用【ふくさよう】に関する情報【じょうほう】を提供【ていきょう】します。",
+    "meaning": "We provide information on the side effects of medicine."
+  },
+  {
+    "sentence": "医者は患者に寄り添って話を聞く。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】に寄【よ】り添【そ】って話【はなし】を聞【き】く。",
+    "meaning": "The doctor listens to the patient with empathy."
+  },
+  {
+    "sentence": "彼は海外で医学を学んだ。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】で医学【いがく】を学【まな】んだ。",
+    "meaning": "He studied medicine overseas."
+  },
+  {
+    "sentence": "医薬品の安全性が確認された。",
+    "sentence_furigana": "医薬品【いやくひん】の安全性【あんぜんせい】が確認【かくにん】された。",
+    "meaning": "The safety of the medicine was confirmed."
+  },
+  {
+    "sentence": "医者は迅速な対応で患者の命を救った。",
+    "sentence_furigana": "医者【いしゃ】は迅速【じんそく】な対応【たいおう】で患者【かんじゃ】の命【いのち】を救【すく】った。",
+    "meaning": "The doctor saved the patient's life with a prompt response."
+  },
+  {
+    "sentence": "彼は医師会に所属している。",
+    "sentence_furigana": "彼【かれ】は医師会【いしかい】に所属【しょぞく】している。",
+    "meaning": "He belongs to the medical association."
+  },
+  {
+    "sentence": "医学の進歩により多くの病気が治療可能になった。",
+    "sentence_furigana": "医学【いがく】の進歩【しんぽ】により多【おお】くの病気【びょうき】が治療可能【ちりょうかのう】になった。",
+    "meaning": "Many diseases have become treatable due to advances in medicine."
+  },
+  {
+    "sentence": "医者は患者の病状を詳しく把握した。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の病状【びょうじょう】を詳【くわ】しく把握【はあく】した。",
+    "meaning": "The doctor grasped the patient's condition in detail."
+  },
+  {
+    "sentence": "医薬品の保管方法に注意してください。",
+    "sentence_furigana": "医薬品【いやくひん】の保管方法【ほかんほうほう】に注意【ちゅうい】してください。",
+    "meaning": "Please pay attention to the storage method of the medicine."
+  },
+  {
+    "sentence": "彼は名誉ある医師となった。",
+    "sentence_furigana": "彼【かれ】は名誉【めいよ】ある医師【いし】となった。",
+    "meaning": "He became an honorable doctor."
+  },
+  {
+    "sentence": "医学部への入学は容易ではない。",
+    "sentence_furigana": "医学部【いがくぶ】への入学【にゅうがく】は容易【ようい】ではない。",
+    "meaning": "Entering medical school is not easy."
+  },
+  {
+    "sentence": "医者は患者の質問に丁寧に答えた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の質問【しつもん】に丁寧【ていねい】に答【こた】えた。",
+    "meaning": "The doctor answered the patient's questions politely."
+  },
+  {
+    "sentence": "彼は医薬品開発に携わっている。",
+    "sentence_furigana": "彼【かれ】は医薬品開発【いやくひんかいはつ】に携【たずさ】わっている。",
+    "meaning": "He is involved in drug development."
+  },
+  {
+    "sentence": "この病気は早期発見が重要です。",
+    "sentence_furigana": "この病気【びょうき】は早期発見【そうきはっけん】が重要【じゅうよう】です。",
+    "meaning": "Early detection of this disease is important."
+  },
+  {
+    "sentence": "医者は患者に適切なアドバイスをした。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】に適切【てきせつ】なアドバイスをした。",
+    "meaning": "The doctor gave appropriate advice to the patient."
+  },
+  {
+    "sentence": "彼は医療現場で働くことを選んだ。",
+    "sentence_furigana": "彼【かれ】は医療現場【いりょうげんば】で働【はたら】くことを選【えら】んだ。",
+    "meaning": "He chose to work in the medical field."
+  },
+  {
+    "sentence": "医学は日々進化している。",
+    "sentence_furigana": "医学【いがく】は日々【ひび】進化【しんか】している。",
+    "meaning": "Medicine is evolving day by day."
+  },
+  {
+    "sentence": "医者は患者の回復を願った。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の回復【かいふく】を願【ねが】った。",
+    "meaning": "The doctor wished for the patient's recovery."
+  },
+  {
+    "sentence": "医薬品の有効活用が求められている。",
+    "sentence_furigana": "医薬品【いやくひん】の有効活用【ゆうこうかつよう】が求【もと】められている。",
+    "meaning": "Effective utilization of medicine is required."
+  },
+  {
+    "sentence": "彼は医師としての経験が豊富だ。",
+    "sentence_furigana": "彼【かれ】は医師【いし】としての経験【けいけん】が豊富【ほうふ】だ。",
+    "meaning": "He has abundant experience as a doctor."
+  },
+  {
+    "sentence": "この病院には多くの専門医がいます。",
+    "sentence_furigana": "この病院【びょういん】には多【おお】くの専門医【せんもんい】がいます。",
+    "meaning": "There are many specialist doctors in this hospital."
+  },
+  {
+    "sentence": "医学を学ぶには多大な努力が必要だ。",
+    "sentence_furigana": "医学【いがく】を学【まな】ぶには多大【ただい】な努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "Learning medicine requires great effort."
+  },
+  {
+    "sentence": "医薬品の安全管理は重要です。",
+    "sentence_furigana": "医薬品【いやくひん】の安全管理【あんぜんかんり】は重要【じゅうよう】です。",
+    "meaning": "Safety management of medicine is important."
+  },
+  {
+    "sentence": "医者は患者の心にも寄り添う。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の心【こころ】にも寄【よ】り添【そ】う。",
+    "meaning": "Doctors also empathize with the patient's heart."
+  },
+  {
+    "sentence": "彼は医薬品の副作用について警告した。",
+    "sentence_furigana": "彼【かれ】は医薬品【いやくひん】の副作用【ふくさよう】について警告【けいこく】した。",
+    "meaning": "He warned about the side effects of the medicine."
+  },
+  {
+    "sentence": "医学の歴史的発展は人類の福祉に貢献してきた。",
+    "sentence_furigana": "医学【いがく】の歴史的発展【れきしてきはってん】は人類【じんるい】の福祉【ふくし】に貢献【こうけん】してきた。",
+    "meaning": "The historical development of medicine has contributed to human welfare."
+  },
+  {
+    "sentence": "医者は患者に希望を与えた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】に希望【きぼう】を与【あた】えた。",
+    "meaning": "The doctor gave the patient hope."
+  },
+  {
+    "sentence": "医薬品の品質管理は厳格に行われる。",
+    "sentence_furigana": "医薬品【いやくひん】の品質管理【ひんしつかんり】は厳格【げんかく】に行【おこな】われる。",
+    "meaning": "Quality control of medicine is performed strictly."
+  },
+  {
+    "sentence": "彼は医師免許を取得するために猛勉強した。",
+    "sentence_furigana": "彼【かれ】は医師免許【いしみんきょ】を取得【しゅとく】するために猛勉強【もうべんきょう】した。",
+    "meaning": "He studied hard to obtain his medical license."
+  },
+  {
+    "sentence": "医学の最新情報に常にアクセスしている。",
+    "sentence_furigana": "医学【いがく】の最新情報【さいしんじょうほう】に常【つね】にアクセスしている。",
+    "meaning": "I always access the latest information in medicine."
+  },
+  {
+    "sentence": "医者は患者の状態に合わせて治療法を変えた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の状態【じょうたい】に合【あ】わせて治療法【ちりょうほう】を変【か】えた。",
+    "meaning": "The doctor changed the treatment method according to the patient's condition."
+  },
+  {
+    "sentence": "彼は医療分野での革新を目指している。",
+    "sentence_furigana": "彼【かれ】は医療分野【いりょうぶんや】での革新【かくしん】を目指【めざ】している。",
+    "meaning": "He aims for innovation in the medical field."
+  },
+  {
+    "sentence": "医薬品の正しい使用法を学ぶことが大切です。",
+    "sentence_furigana": "医薬品【いやくひん】の正【ただ】しい使用法【しようほう】を学【まな】ぶことが大切【たいせつ】です。",
+    "meaning": "It is important to learn the correct way to use medicine."
+  },
+  {
+    "sentence": "医者は患者の痛みを理解しようとした。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の痛【いた】みを理解【りかい】しようとした。",
+    "meaning": "The doctor tried to understand the patient's pain."
+  },
+  {
+    "sentence": "医学は人の命を救う崇高な学問です。",
+    "sentence_furigana": "医学【いがく】は人【ひと】の命【いのち】を救【すく】う崇高【すうこう】な学問【がくもん】です。",
+    "meaning": "Medicine is a noble study that saves human lives."
+  },
+  {
+    "sentence": "医薬品の副作用は個人差があります。",
+    "sentence_furigana": "医薬品【いやくひん】の副作用【ふくさよう】は個人差【こじんさ】があります。",
+    "meaning": "Side effects of medicine vary among individuals."
+  },
+  {
+    "sentence": "彼は医者としての責任を強く感じている。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】としての責任【せきにん】を強【つよ】く感【かん】じている。",
+    "meaning": "He feels a strong sense of responsibility as a doctor."
+  },
+  {
+    "sentence": "この病気の治療には専門医の診察が必要です。",
+    "sentence_furigana": "この病気【びょうき】の治療【ちりょう】には専門医【せんもんい】の診察【しんさつ】が必要【ひつよう】です。",
+    "meaning": "Consultation with a specialist doctor is necessary for the treatment of this disease."
+  },
+  {
+    "sentence": "医学研究の成果が実を結び始めた。",
+    "sentence_furigana": "医学研究【いがくけんきゅう】の成果【せいか】が実を結【み】び始【はじ】まった。",
+    "meaning": "The results of medical research have begun to bear fruit."
+  },
+  {
+    "sentence": "医者は患者の回復を祈った。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の回復【かいふく】を祈【いの】った。",
+    "meaning": "The doctor prayed for the patient's recovery."
+  },
+  {
+    "sentence": "医薬品の正確な計量が重要です。",
+    "sentence_furigana": "医薬品【いやくひん】の正確【せいかく】な計量【けいりょう】が重要【じゅうよう】です。",
+    "meaning": "Accurate measurement of medicine is important."
+  },
+  {
+    "sentence": "彼は医者の道を歩むことを決意した。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】の道【みち】を歩【あゆ】むことを決意【けつい】した。",
+    "meaning": "He decided to follow the path of a doctor."
+  },
+  {
+    "sentence": "医学の進歩は目覚ましいものがあります。",
+    "sentence_furigana": "医学【いがく】の進歩【しんぽ】は目覚【めざ】ましいものがあります。",
+    "meaning": "The progress of medicine is remarkable."
+  },
+  {
+    "sentence": "医者は患者に適切な治療計画を立てた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】に適切【てきせつ】な治療計画【ちりょうけいかく】を立【た】てた。",
+    "meaning": "The doctor made an appropriate treatment plan for the patient."
+  },
+  {
+    "sentence": "彼は医薬品の知識が豊富だ。",
+    "sentence_furigana": "彼【かれ】は医薬品【いやくひん】の知識【ちしき】が豊富【ほうふ】だ。",
+    "meaning": "He has extensive knowledge of medicine."
+  },
+  {
+    "sentence": "医者の指示通りに薬を服用してください。",
+    "sentence_furigana": "医者【いしゃ】の指示通【しじどお】り薬【くすり】を服用【ふよう】してください。",
+    "meaning": "Please take the medicine as directed by the doctor."
+  },
+  {
+    "sentence": "彼は医業に専念している。",
+    "sentence_furigana": "彼【かれ】は医業【いぎょう】に専念【せんねん】している。",
+    "meaning": "He is dedicated to the medical profession."
+  },
+  {
+    "sentence": "医学は人間の健康と病気に関する学問です。",
+    "sentence_furigana": "医学【いがく】は人間【にんげん】の健康【けんこう】と病気【びょうき】に関【かん】する学問【がくもん】です。",
+    "meaning": "Medicine is the study of human health and disease."
+  },
+  {
+    "sentence": "医者は患者の不安を取り除いた。",
+    "sentence_furigana": "医者【いしゃ】は患者【かんじゃ】の不安【ふあん】を取り除【とりのぞ】いた。",
+    "meaning": "The doctor eased the patient's anxiety."
+  },
+  {
+    "sentence": "彼は医薬品の有効性を評価している。",
+    "sentence_furigana": "彼【かれ】は医薬品【いやくひん】の有効性【ゆうこうせい】を評価【ひょうか】している。",
+    "meaning": "He is evaluating the effectiveness of the medicine."
+  },
+  {
+    "sentence": "医者のアドバイスはいつも的確だ。",
+    "sentence_furigana": "医者【いしゃ】のアドバイスはいつも的確【てきかく】だ。",
+    "meaning": "The doctor's advice is always accurate."
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "sentence": "犯人は被害者を殺した。",
+    "sentence_furigana": "犯人【はんにん】は被害者【ひがいしゃ】を殺【ころ】した。",
+    "meaning": "The criminal killed the victim."
+  },
+  {
+    "sentence": "彼は友人を殺す計画を立てた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】を殺【ころ】す計画【けいかく】を立【た】てた。",
+    "meaning": "He planned to kill his friend."
+  },
+  {
+    "sentence": "この刀は人を殺すのに使われた。",
+    "sentence_furigana": "この刀【かたな】は人【ひと】を殺【ころ】すのに使【つか】われた。",
+    "meaning": "This sword was used to kill people."
+  },
+  {
+    "sentence": "無駄に命を殺してはいけない。",
+    "sentence_furigana": "無駄【むだ】に命【いのち】を殺【ころ】してはいけない。",
+    "meaning": "You should not kill lives in vain."
+  },
+  {
+    "sentence": "その獣は獲物を殺して食べた。",
+    "sentence_furigana": "その獣【けもの】は獲物【えもの】を殺【ころ】して食【た】べた。",
+    "meaning": "The beast killed and ate its prey."
+  },
+  {
+    "sentence": "殺されるのは怖い。",
+    "sentence_furigana": "殺【ころ】されるのは怖【こわ】い。",
+    "meaning": "It is scary to be killed."
+  },
+  {
+    "sentence": "暗殺者は素早くターゲットを殺した。",
+    "sentence_furigana": "暗殺者【あんさつしゃ】は素早【すばや】くターゲットを殺【ころ】した。",
+    "meaning": "The assassin quickly killed the target."
+  },
+  {
+    "sentence": "この薬は細菌を殺す効果がある。",
+    "sentence_furigana": "この薬【くすり】は細菌【さいきん】を殺【ころ】す効果【こうか】がある。",
+    "meaning": "This medicine has the effect of killing bacteria."
+  },
+  {
+    "sentence": "殺意を抱く。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】く。",
+    "meaning": "To harbor intent to kill."
+  },
+  {
+    "sentence": "殺傷能力のある武器。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】のある武器【ぶき】。",
+    "meaning": "Weapons with killing and wounding capabilities."
+  },
+  {
+    "sentence": "殺虫剤で害虫を殺す。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】で害虫【がいちゅう】を殺【ころ】す。",
+    "meaning": "To kill harmful insects with insecticide."
+  },
+  {
+    "sentence": "殺風景な部屋。",
+    "sentence_furigana": "殺風景【さっぷうけい】な部屋【へや】。",
+    "meaning": "A bleak and cheerless room."
+  },
+  {
+    "sentence": "殺菌効果のある石鹸。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある石鹸【せっけん】。",
+    "meaning": "Soap with antibacterial effects."
+  },
+  {
+    "sentence": "殺伐とした世の中。",
+    "sentence_furigana": "殺伐【さつばつ】とした世【よ】の中【なか】。",
+    "meaning": "A brutal and violent world."
+  },
+  {
+    "sentence": "彼の言葉は私の心を殺した。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】の心【こころ】を殺【ころ】した。",
+    "meaning": "His words killed my spirit."
+  },
+  {
+    "sentence": "殺伐とした雰囲気。",
+    "sentence_furigana": "殺伐【さつばつ】とした雰囲気【ふんいき】。",
+    "meaning": "A grim atmosphere."
+  },
+  {
+    "sentence": "殺虫剤を散布する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】を散布【さんぷ】する。",
+    "meaning": "To spray insecticide."
+  },
+  {
+    "sentence": "殺菌作用のある飲み物。",
+    "sentence_furigana": "殺菌作用【さっきんさよう】のある飲【の】み物【もの】。",
+    "meaning": "A drink with antiseptic properties."
+  },
+  {
+    "sentence": "殺伐とした空気が流れる。",
+    "sentence_furigana": "殺伐【さつばつ】とした空気【くうき】が流【なが】れる。",
+    "meaning": "A grim atmosphere pervades."
+  },
+  {
+    "sentence": "殺意を抱かせるような眼差し。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】かせるような眼差【まなざ】し。",
+    "meaning": "A gaze that suggests intent to kill."
+  },
+  {
+    "sentence": "殺菌消毒を行う。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】を行【おこな】う。",
+    "meaning": "To sterilize and disinfect."
+  },
+  {
+    "sentence": "殺し屋が雇われた。",
+    "sentence_furigana": "殺【ころ】し屋【や】が雇【やと】われた。",
+    "meaning": "A hitman was hired."
+  },
+  {
+    "sentence": "殺伐とした時代に生まれた。",
+    "sentence_furigana": "殺伐【さつばつ】とした時代【じだい】に生【う】まれた。",
+    "meaning": "Born in a brutal era."
+  },
+  {
+    "sentence": "殺意を隠す。",
+    "sentence_furigana": "殺意【さつい】を隠【かく】す。",
+    "meaning": "To hide the intent to kill."
+  },
+  {
+    "sentence": "殺虫剤を散布する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】を散布【さんぷ】する。",
+    "meaning": "To spray insecticide."
+  },
+  {
+    "sentence": "殺伐とした光景が広がっていた。",
+    "sentence_furigana": "殺伐【さつばつ】とした光景【こうけい】が広【ひろ】がっていた。",
+    "meaning": "A grim scene spread out before them."
+  },
+  {
+    "sentence": "殺菌効果のある食品。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある食品【しょくひん】。",
+    "meaning": "Foods with antibacterial effects."
+  },
+  {
+    "sentence": "殺意を抱いたまま近づいた。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】いたまま近【ちか】づいた。",
+    "meaning": "He approached with the intent to kill."
+  },
+  {
+    "sentence": "殺し屋は冷静だった。",
+    "sentence_furigana": "殺【ころ】し屋【や】は冷静【れいせい】だった。",
+    "meaning": "The hitman was calm."
+  },
+  {
+    "sentence": "殺伐とした雰囲気の中で彼は生きていた。",
+    "sentence_furigana": "殺伐【さつばつ】とした雰囲気【ふんいき】の中【なか】で彼【かれ】は生【い】きていた。",
+    "meaning": "He lived in a brutal atmosphere."
+  },
+  {
+    "sentence": "殺虫剤の効果を確認する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の効果【こうか】を確認【かくにん】する。",
+    "meaning": "To check the effectiveness of the insecticide."
+  },
+  {
+    "sentence": "殺意を隠しきれなかった。",
+    "sentence_furigana": "殺意【さつい】を隠【かく】しきれなかった。",
+    "meaning": "He couldn't completely hide his intent to kill."
+  },
+  {
+    "sentence": "殺菌作用のある水。",
+    "sentence_furigana": "殺菌作用【さっきんさよう】のある水【みず】。",
+    "meaning": "Water with antiseptic properties."
+  },
+  {
+    "sentence": "殺伐とした現実に直面する。",
+    "sentence_furigana": "殺伐【さつばつ】とした現実【げんじつ】に直面【ちょくめん】する。",
+    "meaning": "To face a brutal reality."
+  },
+  {
+    "sentence": "殺虫剤が効かない。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】が効【き】かない。",
+    "meaning": "The insecticide is not effective."
+  },
+  {
+    "sentence": "殺意のこもった一撃。",
+    "sentence_furigana": "殺意【さつい】の込【こ】もった一撃【いちげき】。",
+    "meaning": "A blow filled with intent to kill."
+  },
+  {
+    "sentence": "殺傷事件が発生した。",
+    "sentence_furigana": "殺傷事件【さっしょうじけん】が発生【はっせい】した。",
+    "meaning": "An incident involving killing and wounding occurred."
+  },
+  {
+    "sentence": "殺菌効果のある洗浄液。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある洗浄液【せんじょうえき】。",
+    "meaning": "A cleaning solution with antibacterial effects."
+  },
+  {
+    "sentence": "殺伐とした街並み。",
+    "sentence_furigana": "殺伐【さつばつ】とした街並【まちな】み。",
+    "meaning": "Grim cityscapes."
+  },
+  {
+    "sentence": "殺虫剤を散布した。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】を散布【さんぷ】した。",
+    "meaning": "Insecticide was sprayed."
+  },
+  {
+    "sentence": "殺意を胸に秘めていた。",
+    "sentence_furigana": "殺意【さつい】を胸【むね】に秘【ひ】めていた。",
+    "meaning": "He harbored the intent to kill."
+  },
+  {
+    "sentence": "殺菌効果を確認する。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】を確認【かくにん】する。",
+    "meaning": "To confirm the antibacterial effect."
+  },
+  {
+    "sentence": "殺伐とした状況下での生存。",
+    "sentence_furigana": "殺伐【さつばつ】とした状況下【じょうきょうか】での生存【せいぞん】。",
+    "meaning": "Survival under brutal circumstances."
+  },
+  {
+    "sentence": "殺虫剤の成分を調べる。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の成分【せいぶん】を調【しら】べる。",
+    "meaning": "To examine the ingredients of the insecticide."
+  },
+  {
+    "sentence": "殺意に満ちた表情。",
+    "sentence_furigana": "殺意【さつい】に満【み】ちた表情【ひょうじょう】。",
+    "meaning": "A face full of murderous intent."
+  },
+  {
+    "sentence": "殺傷能力を奪う。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を奪【うば】う。",
+    "meaning": "To disarm."
+  },
+  {
+    "sentence": "殺菌消毒を徹底する。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】を徹底【てってい】する。",
+    "meaning": "To thoroughly sterilize and disinfect."
+  },
+  {
+    "sentence": "殺伐とした雰囲気は消え去った。",
+    "sentence_furigana": "殺伐【さつばつ】とした雰囲気【ふんいき】は消【き】え去【さ】った。",
+    "meaning": "The grim atmosphere disappeared."
+  },
+  {
+    "sentence": "殺虫剤の臭いがする。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の臭【にお】いがする。",
+    "meaning": "It smells like insecticide."
+  },
+  {
+    "sentence": "殺意を抱かせないように注意する。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】かせないように注意【ちゅうい】する。",
+    "meaning": "To be careful not to provoke murderous intent."
+  },
+  {
+    "sentence": "殺傷事件の捜査を開始する。",
+    "sentence_furigana": "殺傷事件【さっしょうじけん】の捜査【そうさ】を開始【かいし】する。",
+    "meaning": "To start the investigation of the killing and wounding incident."
+  },
+  {
+    "sentence": "殺菌効果のある液体。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある液体【えきたい】。",
+    "meaning": "A liquid with antibacterial properties."
+  },
+  {
+    "sentence": "殺伐とした世の中を変えたい。",
+    "sentence_furigana": "殺伐【さつばつ】とした世【よ】の中【なか】を変【か】えたい。",
+    "meaning": "I want to change this brutal world."
+  },
+  {
+    "sentence": "殺虫剤を使用する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】を使用【しよう】する。",
+    "meaning": "To use insecticide."
+  },
+  {
+    "sentence": "殺意を抱いたまま突進する。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】いたまま突進【とっしん】する。",
+    "meaning": "He charged forward with murderous intent."
+  },
+  {
+    "sentence": "殺傷能力を無効化する。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を無効化【むこうか】する。",
+    "meaning": "To disable lethal capability."
+  },
+  {
+    "sentence": "殺菌消毒の重要性。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】の重要性【じゅうようせい】。",
+    "meaning": "The importance of sterilization and disinfection."
+  },
+  {
+    "sentence": "殺伐とした時代でも希望はある。",
+    "sentence_furigana": "殺伐【さつばつ】とした時代【じだい】でも希望【きぼう】はある。",
+    "meaning": "There is hope even in brutal times."
+  },
+  {
+    "sentence": "殺虫剤をまく。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】をまく。",
+    "meaning": "To scatter insecticide."
+  },
+  {
+    "sentence": "殺意を露わにする。",
+    "sentence_furigana": "殺意【さつい】を露【あら】わにする。",
+    "meaning": "To reveal murderous intent."
+  },
+  {
+    "sentence": "殺傷事件の原因を究明する。",
+    "sentence_furigana": "殺傷事件【さっしょうじけん】の原因【げんいん】を究明【きゅうめい】する。",
+    "meaning": "To investigate the cause of the killing and wounding incident."
+  },
+  {
+    "sentence": "殺菌効果のあるマスク。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のあるマスク。",
+    "meaning": "A mask with antibacterial effects."
+  },
+  {
+    "sentence": "殺伐とした競争社会。",
+    "sentence_furigana": "殺伐【さつばつ】とした競争社会【きょうそうしゃかい】。",
+    "meaning": "A fiercely competitive society."
+  },
+  {
+    "sentence": "殺虫剤が散布された。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】が散布【さんぷ】された。",
+    "meaning": "Insecticide was sprayed."
+  },
+  {
+    "sentence": "殺意を抱きながら微笑む。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】きながら微笑【ほほえ】む。",
+    "meaning": "To smile while harboring murderous intent."
+  },
+  {
+    "sentence": "殺傷能力のある銃。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】のある銃【じゅう】。",
+    "meaning": "A lethal firearm."
+  },
+  {
+    "sentence": "殺菌効果のある消毒薬。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある消毒薬【しょうどくやく】。",
+    "meaning": "An antiseptic disinfectant."
+  },
+  {
+    "sentence": "殺伐とした雰囲気の中で生き残る。",
+    "sentence_furigana": "殺伐【さつばつ】とした雰囲気【ふんいき】の中【なか】で生【い】き残【のこ】る。",
+    "meaning": "To survive in a grim atmosphere."
+  },
+  {
+    "sentence": "殺虫剤の匂いがきつい。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の匂【にお】いがきつい。",
+    "meaning": "The smell of insecticide is strong."
+  },
+  {
+    "sentence": "殺意を隠し続ける。",
+    "sentence_furigana": "殺意【さつい】を隠【かく】し続【つづ】ける。",
+    "meaning": "To continue to hide the intent to kill."
+  },
+  {
+    "sentence": "殺傷事件の再発防止。",
+    "sentence_furigana": "殺傷事件【さっしょうじけん】の再発防止【さいはつぼうし】。",
+    "meaning": "Prevention of recurrence of killing and wounding incidents."
+  },
+  {
+    "sentence": "殺菌効果のある調理器具。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある調理器具【ちょうりきぐ】。",
+    "meaning": "Cooking utensils with antibacterial properties."
+  },
+  {
+    "sentence": "殺伐とした現実を受け入れる。",
+    "sentence_furigana": "殺伐【さつばつ】とした現実【げんじつ】を受【う】け入【い】れる。",
+    "meaning": "To accept the brutal reality."
+  },
+  {
+    "sentence": "殺虫剤を吸い込まないように注意する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】を吸【す】い込【こ】まないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to inhale insecticide."
+  },
+  {
+    "sentence": "殺意のこもった視線。",
+    "sentence_furigana": "殺意【さつい】の込【こ】もった視線【しせん】。",
+    "meaning": "A look full of murderous intent."
+  },
+  {
+    "sentence": "殺傷能力を放棄する。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を放棄【ほうき】する。",
+    "meaning": "To renounce lethal capability."
+  },
+  {
+    "sentence": "殺菌消毒を怠らない。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】を怠【おこた】らない。",
+    "meaning": "Not to neglect sterilization and disinfection."
+  },
+  {
+    "sentence": "殺伐とした社会情勢。",
+    "sentence_furigana": "殺伐【さつばつ】とした社会情勢【しゃかいじょうせい】。",
+    "meaning": "Grim social conditions."
+  },
+  {
+    "sentence": "殺虫剤が漏れ出た。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】が漏【も】れ出【だ】した。",
+    "meaning": "Insecticide leaked out."
+  },
+  {
+    "sentence": "殺意を抑えきれなかった。",
+    "sentence_furigana": "殺意【さつい】を抑【おさ】えきれなかった。",
+    "meaning": "He couldn't suppress his intent to kill."
+  },
+  {
+    "sentence": "殺傷能力のある爆弾。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】のある爆弾【ばくだん】。",
+    "meaning": "A bomb with lethal capabilities."
+  },
+  {
+    "sentence": "殺菌効果のある石鹸で手を洗う。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある石鹸【せっけん】で手【て】を洗【あら】う。",
+    "meaning": "Wash hands with antibacterial soap."
+  },
+  {
+    "sentence": "殺伐とした世界で生き抜くための知恵。",
+    "sentence_furigana": "殺伐【さつばつ】とした世界【せかい】で生【い】き抜【ぬ】くための知恵【ちえ】。",
+    "meaning": "Wisdom for survival in a brutal world."
+  },
+  {
+    "sentence": "殺虫剤の成分が肌に悪影響を与える。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の成分【せいぶん】が肌【はだ】に悪影響【あくえいきょう】を与【あた】える。",
+    "meaning": "The ingredients of the insecticide adversely affect the skin."
+  },
+  {
+    "sentence": "殺意を秘めた微笑み。",
+    "sentence_furigana": "殺意【さつい】を秘【ひ】めた微笑【ほほえ】み。",
+    "meaning": "A smile hiding murderous intent."
+  },
+  {
+    "sentence": "殺傷能力のある化学兵器。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】のある化学兵器【かがくへいき】。",
+    "meaning": "Chemical weapons with lethal capabilities."
+  },
+  {
+    "sentence": "殺菌消毒が徹底されている。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】が徹底【てってい】されている。",
+    "meaning": "Sterilization and disinfection are thoroughly carried out."
+  },
+  {
+    "sentence": "殺伐とした状況を打開する。",
+    "sentence_furigana": "殺伐【さつばつ】とした状況【じょうきょう】を打開【だかい】する。",
+    "meaning": "To break through a grim situation."
+  },
+  {
+    "sentence": "殺虫剤を散布する際は換気を行う。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】を散布【さんぷ】する際【さい】は換気【かんき】を行【おこな】う。",
+    "meaning": "Ventilate when spraying insecticide."
+  },
+  {
+    "sentence": "殺意を抑えることができなかった。",
+    "sentence_furigana": "殺意【さつい】を抑【おさ】えることができなかった。",
+    "meaning": "He could not suppress his intent to kill."
+  },
+  {
+    "sentence": "殺傷能力の高い武器。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】の高【たか】い武器【ぶき】。",
+    "meaning": "Weapons with high lethal capability."
+  },
+  {
+    "sentence": "殺菌効果のある歯磨き粉。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある歯磨【はみが】き粉【こ】。",
+    "meaning": "Toothpaste with antibacterial effects."
+  },
+  {
+    "sentence": "殺伐とした雰囲気に飲まれる。",
+    "sentence_furigana": "殺伐【さつばつ】とした雰囲気【ふんいき】に飲【の】まれる。",
+    "meaning": "To be overwhelmed by a grim atmosphere."
+  },
+  {
+    "sentence": "殺虫剤の取り扱いには注意が必要だ。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の取【と】り扱【あつか】いには注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Care must be taken when handling insecticide."
+  },
+  {
+    "sentence": "殺意を抱きながらも平静を装う。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】きながらも平静【へいせい】を装【よそお】う。",
+    "meaning": "He feigned calmness while harboring murderous intent."
+  },
+  {
+    "sentence": "殺傷能力を持つ兵器。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を持【も】つ兵器【へいき】。",
+    "meaning": "Weapons possessing lethal capabilities."
+  },
+  {
+    "sentence": "殺菌消毒は感染予防に不可欠だ。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】は感染予防【かんせんよぼう】に不可欠【ふかけつ】だ。",
+    "meaning": "Sterilization and disinfection are essential for preventing infection."
+  },
+  {
+    "sentence": "殺伐とした争いを終わらせる。",
+    "sentence_furigana": "殺伐【さつばつ】とした争【あらそ】いを終【お】わらせる。",
+    "meaning": "To end a brutal conflict."
+  },
+  {
+    "sentence": "殺虫剤が体に付着する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】が体【からだ】に付着【ふちゃく】する。",
+    "meaning": "Insecticide adhered to the body."
+  },
+  {
+    "sentence": "殺意を悟られるわけにはいかない。",
+    "sentence_furigana": "殺意【さつい】を悟【さと】られるわけにはいかない。",
+    "meaning": "I cannot let my murderous intent be perceived."
+  },
+  {
+    "sentence": "殺傷能力の低い武器。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】の低【ひく】い武器【ぶき】。",
+    "meaning": "Weapons with low lethal capability."
+  },
+  {
+    "sentence": "殺菌効果のある空間。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のある空間【くうかん】。",
+    "meaning": "An environment with antibacterial effects."
+  },
+  {
+    "sentence": "殺伐とした状況でも希望を見出す。",
+    "sentence_furigana": "殺伐【さつばつ】とした状況【じょうきょう】でも希望【きぼう】を見出【みだ】す。",
+    "meaning": "To find hope even in a grim situation."
+  },
+  {
+    "sentence": "殺虫剤の成分について学ぶ。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の成分【せいぶん】について学【まな】ぶ。",
+    "meaning": "To learn about the ingredients of insecticide."
+  },
+  {
+    "sentence": "殺意を隠し通すことは困難だ。",
+    "sentence_furigana": "殺意【さつい】を隠【かく】し通【とお】すことは困難【こんなん】だ。",
+    "meaning": "It is difficult to hide one's intent to kill."
+  },
+  {
+    "sentence": "殺傷能力を無効にする装置。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を無効【むこう】にする装置【そうち】。",
+    "meaning": "A device that neutralizes lethal capability."
+  },
+  {
+    "sentence": "殺菌消毒を習慣づける。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】を習慣付【しゅうかんづ】ける。",
+    "meaning": "To make sterilization and disinfection a habit."
+  },
+  {
+    "sentence": "殺伐とした競争に勝ち抜く。",
+    "sentence_furigana": "殺伐【さつばつ】とした競争【きょうそう】に勝【か】ち抜【ぬ】く。",
+    "meaning": "To win through fierce competition."
+  },
+  {
+    "sentence": "殺虫剤は有害な場合がある。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】は有害【ゆうがい】な場合【ばあい】がある。",
+    "meaning": "Insecticide can be harmful."
+  },
+  {
+    "sentence": "殺意を抱く人を避ける。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】く人【ひと】を避【さ】ける。",
+    "meaning": "To avoid people with murderous intent."
+  },
+  {
+    "sentence": "殺傷能力を完全に除去する。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を完全【かんぜん】に除去【じょきょ】する。",
+    "meaning": "To completely remove lethal capability."
+  },
+  {
+    "sentence": "殺菌効果のあるワイプ。",
+    "sentence_furigana": "殺菌効果【さっきんこうか】のあるワイプ。",
+    "meaning": "Wipes with antibacterial effects."
+  },
+  {
+    "sentence": "殺伐とした環境を改善する。",
+    "sentence_furigana": "殺伐【さつばつ】とした環境【かんきょう】を改善【かいぜん】する。",
+    "meaning": "To improve a grim environment."
+  },
+  {
+    "sentence": "殺虫剤の使用方法を確認する。",
+    "sentence_furigana": "殺虫剤【さっちゅうざい】の使用方法【しようほうほう】を確認【かくにん】する。",
+    "meaning": "To confirm the usage method of insecticide."
+  },
+  {
+    "sentence": "殺意を抱かせるような威圧感。",
+    "sentence_furigana": "殺意【さつい】を抱【いだ】かせるような威圧感【いあつかん】。",
+    "meaning": "An intimidating presence that suggests murderous intent."
+  },
+  {
+    "sentence": "殺傷能力を制限する。",
+    "sentence_furigana": "殺傷能力【さっしょうのうりょく】を制限【せいげん】する。",
+    "meaning": "To limit lethal capability."
+  },
+  {
+    "sentence": "殺菌消毒の徹底が求められる。",
+    "sentence_furigana": "殺菌消毒【さっきんしょうどく】の徹底【てってい】が求【もと】められる。",
+    "meaning": "Thorough sterilization and disinfection are required."
+  }
+]

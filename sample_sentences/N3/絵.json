@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "子供たちは楽しそうに絵を描いています。",
+    "sentence_furigana": "子供【こども】たちは楽【たの】しそうに絵【え】を描【か】いています。",
+    "meaning": "The children are drawing pictures happily."
+  },
+  {
+    "sentence": "この絵はとても有名です。",
+    "sentence_furigana": "この絵【え】はとても有名【ゆうめい】です。",
+    "meaning": "This painting is very famous."
+  },
+  {
+    "sentence": "壁に美しい絵が飾ってありました。",
+    "sentence_furigana": "壁【かべ】に美【うつく】しい絵【え】が飾【かざ】ってありました。",
+    "meaning": "A beautiful picture was hanging on the wall."
+  },
+  {
+    "sentence": "彼の描く絵は独特なスタイルを持っている。",
+    "sentence_furigana": "彼【かれ】の描【か】く絵【え】は独特【どくとく】なスタイルを持【も】っている。",
+    "meaning": "The drawings he makes have a unique style."
+  },
+  {
+    "sentence": "絵本は子供の想像力を育む。",
+    "sentence_furigana": "絵【え】本【ほん】は子供【こども】の想像力【そうぞうりょく】を育【はぐく】む。",
+    "meaning": "Picture books foster children's imagination."
+  },
+  {
+    "sentence": "美術館で多くの絵画を見ました。",
+    "sentence_furigana": "美術館【びじゅつかん】で多【おお】くの絵画【かいが】を見【み】ました。",
+    "meaning": "I saw many paintings at the art museum."
+  },
+  {
+    "sentence": "彼女は才能のある画家で、絵が上手い。",
+    "sentence_furigana": "彼女【かのじょ】は才能【さいのう】のある画家【がか】で、絵【え】が上手【うま】い。",
+    "meaning": "She is a talented artist and is good at painting."
+  },
+  {
+    "sentence": "この絵の具でどんな絵が描けるだろうか？",
+    "sentence_furigana": "この絵具【えのぐ】でどんな絵【え】が描【か】けるだろうか？",
+    "meaning": "What kind of picture can I draw with these paints?"
+  },
+  {
+    "sentence": "彼女は昔から絵を描くのが好きだった。",
+    "sentence_furigana": "彼女【かのじょ】は昔【むかし】から絵【え】を描【か】くのが好【す】きだった。",
+    "meaning": "She has liked drawing pictures since she was young."
+  },
+  {
+    "sentence": "その絵は見る人の心を和ませる。",
+    "sentence_furigana": "その絵【え】は見【み】る人【ひと】の心【こころ】を和【なご】ませる。",
+    "meaning": "The painting soothes the viewer's heart."
+  },
+  {
+    "sentence": "彼は一枚の絵に感動し、涙を流した。",
+    "sentence_furigana": "彼【かれ】は一枚【いちまい】の絵【え】に感動【かんどう】し、涙【なみだ】を流【なが】した。",
+    "meaning": "He was moved by a painting and shed tears."
+  },
+  {
+    "sentence": "この絵の題名は「希望」です。",
+    "sentence_furigana": "この絵【え】の題名【だいめい】は「希望【きぼう】」です。",
+    "meaning": "The title of this painting is 'Hope'."
+  },
+  {
+    "sentence": "彼女は自分の感情を絵で表現する。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の感情【かんじょう】を絵【え】で表現【ひょうげん】する。",
+    "meaning": "She expresses her emotions through her paintings."
+  },
+  {
+    "sentence": "絵画教室でデッサンを学びました。",
+    "sentence_furigana": "絵画教室【かいがきょうしつ】でデッサンを学【まな】びました。",
+    "meaning": "I learned drawing in an art class."
+  },
+  {
+    "sentence": "彼の描いた風景画はまるで写真のようだ。",
+    "sentence_furigana": "彼【かれ】の描【か】いた風景画【ふうけいが】はまるで写真【しゃしん】のようだ。",
+    "meaning": "The landscape painting he drew is just like a photograph."
+  },
+  {
+    "sentence": "子供の頃、よく空想の絵を描いたものです。",
+    "sentence_furigana": "子供の頃【こどものころ】、よく空想【くうそう】の絵【え】を描【か】いたものです。",
+    "meaning": "When I was a child, I often drew imaginary pictures."
+  },
+  {
+    "sentence": "その絵は非常に繊細なタッチで描かれている。",
+    "sentence_furigana": "その絵【え】は非常【ひじょう】に繊細【せんさい】なタッチで描【か】かれている。",
+    "meaning": "The painting is rendered with a very delicate touch."
+  },
+  {
+    "sentence": "絵馬に願い事を書いて奉納しました。",
+    "sentence_furigana": "絵馬【えま】に願【ねが】い事【ごと】を書【か】いて奉納【ほうのう】しました。",
+    "meaning": "I wrote my wish on an Ema tablet and dedicated it."
+  },
+  {
+    "sentence": "彼は油絵を描くのが得意です。",
+    "sentence_furigana": "彼【かれ】は油絵【あぶらえ】を描【か】くのが得意【とくい】です。",
+    "meaning": "He is good at oil painting."
+  },
+  {
+    "sentence": "この絵は見る角度によって色が違って見える。",
+    "sentence_furigana": "この絵【え】は見【み】る角度【かくど】によって色【いろ】が違【ちが】って見【み】える。",
+    "meaning": "The colors of this painting look different depending on the viewing angle."
+  },
+  {
+    "sentence": "彼女は水彩画で美しい花を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は水彩画【すいさいが】で美【うつく】しい花【はな】を描【か】いた。",
+    "meaning": "She painted beautiful flowers with watercolors."
+  },
+  {
+    "sentence": "絵日記をつけると、思い出が鮮明に残る。",
+    "sentence_furigana": "絵日記【えにっき】をつけると、思【おも】い出【で】が鮮明【せんめい】に残【のこ】る。",
+    "meaning": "Keeping a picture diary keeps memories vivid."
+  },
+  {
+    "sentence": "この絵は平和への願いが込められている。",
+    "sentence_furigana": "この絵【え】は平和【へいわ】への願【ねが】いが込【こ】められている。",
+    "meaning": "This painting expresses a wish for peace."
+  },
+  {
+    "sentence": "子供たちが描いた絵が廊下に飾られている。",
+    "sentence_furigana": "子供たち【こどもたち】が描【か】いた絵【え】が廊下【ろうか】に飾【かざ】られている。",
+    "meaning": "The children's drawings are displayed in the hallway."
+  },
+  {
+    "sentence": "彼の絵は見る者に強い印象を与える。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】る者【もの】に強【つよ】い印象【いんしょう】を与【あた】える。",
+    "meaning": "His paintings leave a strong impression on the viewer."
+  },
+  {
+    "sentence": "この絵の具は発色がとても良い。",
+    "sentence_furigana": "この絵具【えのぐ】は発色【はっしょく】がとても良【よ】い。",
+    "meaning": "These paints have very good color saturation."
+  },
+  {
+    "sentence": "彼女は物語の挿絵を描く仕事をしている。",
+    "sentence_furigana": "彼女【かのじょ】は物語【ものがたり】の挿絵【さしえ】を描【か】く仕事【しごと】をしている。",
+    "meaning": "She works as an illustrator for stories."
+  },
+  {
+    "sentence": "その絵は光と影のコントラストが美しい。",
+    "sentence_furigana": "その絵【え】は光【ひかり】と影【かげ】のコントラストが美【うつく】しい。",
+    "meaning": "The contrast of light and shadow in that painting is beautiful."
+  },
+  {
+    "sentence": "私は絵を学ぶために絵画教室に通っている。",
+    "sentence_furigana": "私【わたし】は絵【え】を学【まな】ぶために絵画教室【かいがきょうしつ】に通【かよ】っている。",
+    "meaning": "I am attending an art class to learn painting."
+  },
+  {
+    "sentence": "この絵の具箱には様々な色が揃っています。",
+    "sentence_furigana": "この絵具箱【えのぐばこ】には様々【さまざま】な色【いろ】が揃【そろ】っています。",
+    "meaning": "This paint box has a variety of colors."
+  },
+  {
+    "sentence": "彼の絵はユーモアに満ちている。",
+    "sentence_furigana": "彼【かれ】の絵【え】はユーモアに満【み】ちている。",
+    "meaning": "His paintings are full of humor."
+  },
+  {
+    "sentence": "子供たちはクレヨンで自由に絵を描いた。",
+    "sentence_furigana": "子供たち【こどもたち】はクレヨンで自由【じゆう】に絵【え】を描【か】いた。",
+    "meaning": "The children drew pictures freely with crayons."
+  },
+  {
+    "sentence": "この絵は見るほどに味わいが増す。",
+    "sentence_furigana": "この絵【え】は見【み】るほどに味わ【あじわ】いが増【ま】す。",
+    "meaning": "This painting becomes more profound the more you look at it."
+  },
+  {
+    "sentence": "彼女は依頼されて肖像画を描いた。",
+    "sentence_furigana": "彼女【かのじょ】は依頼【いらい】されて肖像画【しょうぞうが】を描【か】いた。",
+    "meaning": "She painted a portrait by commission."
+  },
+  {
+    "sentence": "絵画展でたくさんの新しい発見があった。",
+    "sentence_furigana": "絵画展【かいがてん】でたくさん新【あたら】しい発見【はっけん】があった。",
+    "meaning": "I made many new discoveries at the art exhibition."
+  },
+  {
+    "sentence": "彼の絵は見る人の心を温かくする。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】る人【ひと】の心【こころ】を温【あたた】かくする。",
+    "meaning": "His paintings warm the hearts of viewers."
+  },
+  {
+    "sentence": "この絵の具セットは初心者にも使いやすい。",
+    "sentence_furigana": "この絵具セット【えのぐセット】は初心者【しょしんしゃ】にも使【つか】いやすい。",
+    "meaning": "This paint set is easy for beginners to use."
+  },
+  {
+    "sentence": "彼女は想像力を働かせて絵を描くのが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】は想像力【そうぞうりょく】を働【はた】かせて絵【え】を描【か】くのが得意【とくい】だ。",
+    "meaning": "She is good at painting by using her imagination."
+  },
+  {
+    "sentence": "その絵の構図は非常に計算されている。",
+    "sentence_furigana": "その絵【え】の構図【こうず】は非常【ひじょう】に計算【けいさん】されている。",
+    "meaning": "The composition of that painting is very well calculated."
+  },
+  {
+    "sentence": "子供たちは絵を描くことで自己表現を学ぶ。",
+    "sentence_furigana": "子供たち【こどもたち】は絵【え】を描【か】くことで自己表現【じこひょうげん】を学【まな】ぶ。",
+    "meaning": "Children learn self-expression by drawing pictures."
+  },
+  {
+    "sentence": "彼の絵画は力強い筆致が特徴だ。",
+    "sentence_furigana": "彼【かれ】の絵画【かいが】は力強【ちからづよ】い筆致【ひっち】が特徴【とくちょう】だ。",
+    "meaning": "His paintings are characterized by powerful brushstrokes."
+  },
+  {
+    "sentence": "この絵は見る者の想像力を掻き立てる。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】の想像力【そうぞうりょく】を掻【か】き立【た】てる。",
+    "meaning": "This painting stimulates the viewer's imagination."
+  },
+  {
+    "sentence": "彼女は絵を額縁に入れて飾った。",
+    "sentence_furigana": "彼女【かのじょ】は絵【え】を額縁【がくぶち】に入【い】れて飾【かざ】った。",
+    "meaning": "She framed and hung the painting."
+  },
+  {
+    "sentence": "その絵は、暗闇の中に一筋の光を描いているようだ。",
+    "sentence_furigana": "その絵【え】は、暗闇【くらやみ】の中【なか】に一筋【ひとすじ】の光【ひかり】を描【か】いているようだ。",
+    "meaning": "That painting seems to depict a ray of light in the darkness."
+  },
+  {
+    "sentence": "絵を描くことは、私にとって瞑想のような時間です。",
+    "sentence_furigana": "絵【え】を描【か】くことは、私【わたし】にとって瞑想【めいそう】のような時間【じかん】です。",
+    "meaning": "Painting is a meditative time for me."
+  },
+  {
+    "sentence": "彼の描いた絵は、多くの人々に感動を与えた。",
+    "sentence_furigana": "彼【かれ】の描【か】いた絵【え】は、多【おお】くの人々【ひとびと】に感動【かんどう】を与【あた】えた。",
+    "meaning": "The painting he drew moved many people."
+  },
+  {
+    "sentence": "この絵は、作者の深い悲しみを表している。",
+    "sentence_furigana": "この絵【え】は、作者【さくしゃ】の深【ふか】い悲【かな】しみを表【あらわ】している。",
+    "meaning": "This painting expresses the artist's deep sadness."
+  },
+  {
+    "sentence": "彼女はデジタル絵画の技術を習得した。",
+    "sentence_furigana": "彼女【かのじょ】はデジタル絵画【デジタルかいが】の技術【ぎじゅつ】を習得【しゅうとく】した。",
+    "meaning": "She mastered the techniques of digital painting."
+  },
+  {
+    "sentence": "その絵はまるで命が吹き込まれているかのようだ。",
+    "sentence_furigana": "その絵【え】はまるで命【いのち】が吹【ふ】き込【こ】まれているかのようだ。",
+    "meaning": "That painting seems as if it is infused with life."
+  },
+  {
+    "sentence": "絵を描くことは、私のストレス解消法です。",
+    "sentence_furigana": "絵【え】を描【か】くことは、私【わたし】のストレス解消法【かいしょうほう】です。",
+    "meaning": "Painting is my way of relieving stress."
+  },
+  {
+    "sentence": "彼の絵は、見る者の心に静けさをもたらす。",
+    "sentence_furigana": "彼【かれ】の絵【え】は、見【み】る者【もの】の心【こころ】に静【しず】けさをもたらす。",
+    "meaning": "His paintings bring serenity to the viewer's mind."
+  },
+  {
+    "sentence": "この絵の具は水に溶かして使う。",
+    "sentence_furigana": "この絵具【えのぐ】は水【みず】に溶【と】かして使【つか】う。",
+    "meaning": "These paints are used by dissolving them in water."
+  },
+  {
+    "sentence": "彼女は絵日記を毎日つけている。",
+    "sentence_furigana": "彼女【かのじょ】は絵日記【えにっき】を毎日【まいにち】つけている。",
+    "meaning": "She keeps a picture diary every day."
+  },
+  {
+    "sentence": "その絵は見る者の心を揺さぶる力を持っている。",
+    "sentence_furigana": "その絵【え】は見【み】る者【もの】の心【こころ】を揺【ゆ】さぶる力【ちから】を持【も】っている。",
+    "meaning": "That painting has the power to move the viewer's heart."
+  },
+  {
+    "sentence": "絵を描くことに没頭していた。",
+    "sentence_furigana": "絵【え】を描【か】くことに没頭【ぼっとう】していた。",
+    "meaning": "I was absorbed in painting."
+  },
+  {
+    "sentence": "彼の描く絵はいつも独創的だ。",
+    "sentence_furigana": "彼【かれ】の描【か】く絵【え】はいつも独創的【どくそうてき】だ。",
+    "meaning": "The pictures he draws are always original."
+  },
+  {
+    "sentence": "この絵は日本の伝統的な技法を用いて描かれている。",
+    "sentence_furigana": "この絵【え】は日本【にほん】の伝統的【でんとうてき】な技法【ぎほう】を用【もち】いて描【か】かれている。",
+    "meaning": "This painting is drawn using traditional Japanese techniques."
+  },
+  {
+    "sentence": "彼女は絵を描く才能に恵まれている。",
+    "sentence_furigana": "彼女【かのじょ】は絵【え】を描【か】く才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "She is blessed with talent for drawing."
+  },
+  {
+    "sentence": "その絵の具は乾くとつやが出る。",
+    "sentence_furigana": "その絵具【えのぐ】は乾【かわ】くとつやが出【で】る。",
+    "meaning": "Those paints become glossy when dry."
+  },
+  {
+    "sentence": "絵画は世界共通の言語だ。",
+    "sentence_furigana": "絵画【かいが】は世界共通【せかいきょうつう】の言語【げんご】だ。",
+    "meaning": "Painting is a universal language."
+  },
+  {
+    "sentence": "彼は繊細なタッチで人物画を描く。",
+    "sentence_furigana": "彼【かれ】は繊細【せんさい】なタッチで人物画【じんぶつが】を描【か】く。",
+    "meaning": "He paints portraits with delicate touches."
+  },
+  {
+    "sentence": "この絵は見る者に安らぎを与える。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】に安楽【やす】ぎを与【あた】える。",
+    "meaning": "This painting gives peace to the viewer."
+  },
+  {
+    "sentence": "彼女はアクリル絵の具で大胆な絵を描いた。",
+    "sentence_furigana": "彼女【かのじょ】はアクリル絵具【アクリルえのぐ】で大胆【だいたん】な絵【え】を描【か】いた。",
+    "meaning": "She painted a bold picture with acrylic paints."
+  },
+  {
+    "sentence": "絵を描く過程そのものが楽しい。",
+    "sentence_furigana": "絵【え】を描【か】く過程【かてい】そのもの楽【たの】しい。",
+    "meaning": "The process of painting itself is enjoyable."
+  },
+  {
+    "sentence": "彼の絵は力強さと繊細さを併せ持っている。",
+    "sentence_furigana": "彼【かれ】の絵【え】は力強【ちからづよ】さと繊細【せんさい】さを併【あわ】せ持【も】っている。",
+    "meaning": "His paintings possess both strength and delicacy."
+  },
+  {
+    "sentence": "この絵は作者の感情が色濃く反映されている。",
+    "sentence_furigana": "この絵【え】は作者【さくしゃ】の感情【かんじょう】が色濃【いろこ】く反映【はんえい】されている。",
+    "meaning": "This painting strongly reflects the artist's emotions."
+  },
+  {
+    "sentence": "彼女は絵画展で賞を受賞した。",
+    "sentence_furigana": "彼女【かのじょ】は絵画展【かいがてん】で賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "She won an award at the art exhibition."
+  },
+  {
+    "sentence": "その絵は見る人の心を明るくする。",
+    "sentence_furigana": "その絵【え】は見【み】る人【ひと】の心【こころ】を明【あか】るくする。",
+    "meaning": "That painting brightens the viewer's mood."
+  },
+  {
+    "sentence": "絵を描くことは私の人生の一部です。",
+    "sentence_furigana": "絵【え】を描【か】くことは私【わたし】の人生【じんせい】の一部【いちぶ】です。",
+    "meaning": "Painting is a part of my life."
+  },
+  {
+    "sentence": "彼の絵は非常に写実的だ。",
+    "sentence_furigana": "彼【かれ】の絵【え】は非常【ひじょう】に写実的【しゃじつてき】だ。",
+    "meaning": "His paintings are very realistic."
+  },
+  {
+    "sentence": "この絵は見る者の心を穏やかにする効果がある。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】の心【こころ】を穏【おだ】やかにする効果【こうか】がある。",
+    "meaning": "This painting has the effect of calming the viewer's mind."
+  },
+  {
+    "sentence": "彼女は子供の頃から絵を描くのが好きだった。",
+    "sentence_furigana": "彼女【かのじょ】は子供の頃【こどものころ】から絵【え】を描【か】くのが好【す】きだった。",
+    "meaning": "She has liked drawing pictures since she was a child."
+  },
+  {
+    "sentence": "その絵は見る者の想像力をかき立てる。",
+    "sentence_furigana": "その絵【え】は見【み】る者【もの】の想像力【そうぞうりょく】をかき立【た】てる。",
+    "meaning": "That painting stimulates the viewer's imagination."
+  },
+  {
+    "sentence": "絵を描く練習を毎日欠かさない。",
+    "sentence_furigana": "絵【え】を描【か】く練習【れんしゅう】を毎日【まいにち】欠【か】かさない。",
+    "meaning": "I never miss practicing drawing every day."
+  },
+  {
+    "sentence": "彼の絵は見る者の心を癒す力がある。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】る者【もの】の心【こころ】を癒【いや】す力【ちから】がある。",
+    "meaning": "His paintings have the power to heal the viewer's mind."
+  },
+  {
+    "sentence": "この絵は明るい色彩で満たされている。",
+    "sentence_furigana": "この絵【え】は明【あか】るい色彩【しきさい】で満【み】たされている。",
+    "meaning": "This painting is filled with bright colors."
+  },
+  {
+    "sentence": "彼女は絵を描くことで自分の感情を表現する。",
+    "sentence_furigana": "彼女【かのじょ】は絵【え】を描【か】くことで自分【じぶん】の感情【かんじょう】を表現【ひょうげん】する。",
+    "meaning": "She expresses her emotions by painting."
+  },
+  {
+    "sentence": "その絵は見る者の心を惹きつける。",
+    "sentence_furigana": "その絵【え】は見【み】る者【もの】の心【こころ】を惹【ひ】きつける。",
+    "meaning": "That painting attracts the viewer's attention."
+  },
+  {
+    "sentence": "絵を描くことは私の情熱です。",
+    "sentence_furigana": "絵【え】を描【か】くことは私【わたし】の情熱【じょうねつ】です。",
+    "meaning": "Painting is my passion."
+  },
+  {
+    "sentence": "彼の絵は、見る者の心に深く響く。",
+    "sentence_furigana": "彼【かれ】の絵【え】は、見【み】る者【もの】の心【こころ】に深【ふか】く響【ひび】く。",
+    "meaning": "His paintings deeply resonate with the viewer's heart."
+  },
+  {
+    "sentence": "この絵は見る者に希望を与える。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】に希望【きぼう】を与【あた】える。",
+    "meaning": "This painting gives hope to the viewer."
+  },
+  {
+    "sentence": "彼女は絵を描くことを楽しんでいる。",
+    "sentence_furigana": "彼女【かのじょ】は絵【え】を描【か】くことを楽【たの】しんでいる。",
+    "meaning": "She enjoys painting."
+  },
+  {
+    "sentence": "その絵は見る者の心を和ませる。",
+    "sentence_furigana": "その絵【え】は見【み】る者【もの】の心【こころ】を和【なご】ませる。",
+    "meaning": "That painting soothes the viewer's heart."
+  },
+  {
+    "sentence": "絵を描くことは創造的な活動だ。",
+    "sentence_furigana": "絵【え】を描【か】くことは創造的【そうぞうてき】な活動【かつどう】だ。",
+    "meaning": "Painting is a creative activity."
+  },
+  {
+    "sentence": "彼の絵は見る者の心に活力を与える。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】る者【もの】の心【こころ】に活力【かつりょく】を与【あた】える。",
+    "meaning": "His paintings invigorate the viewer's mind."
+  },
+  {
+    "sentence": "この絵は見る者の想像力を刺激する。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】の想像力【そうぞうりょく】を刺激【しげき】する。",
+    "meaning": "This painting stimulates the viewer's imagination."
+  },
+  {
+    "sentence": "彼女は絵を描くことで内なる世界を表現する。",
+    "sentence_furigana": "彼女【かのじょ】は絵【え】を描【か】くことで内【うち】なる世界【せかい】を表現【ひょうげん】する。",
+    "meaning": "She expresses her inner world through painting."
+  },
+  {
+    "sentence": "その絵は見る者の心を豊かにする。",
+    "sentence_furigana": "その絵【え】は見【み】る者【もの】の心【こころ】を豊【ゆた】かにする。",
+    "meaning": "That painting enriches the viewer's soul."
+  },
+  {
+    "sentence": "絵を描くことは私にとって自己発見の旅です。",
+    "sentence_furigana": "絵【え】を描【か】くことは私【わたし】にとって自己発見【じこはっけん】の旅【たび】です。",
+    "meaning": "Painting is a journey of self-discovery for me."
+  },
+  {
+    "sentence": "彼の絵は見る者の心を静める。",
+    "sentence_furigana": "彼【かれ】の絵【え】は見【み】る者【もの】の心【こころ】を静【しず】める。",
+    "meaning": "His paintings calm the viewer's mind."
+  },
+  {
+    "sentence": "この絵は見る者に喜びを与える。",
+    "sentence_furigana": "この絵【え】は見【み】る者【もの】に喜【よろこ】びを与【あた】える。",
+    "meaning": "This painting brings joy to the viewer."
+  },
+  {
+    "sentence": "彼女は絵を描くことで世界をより良く見ることができる。",
+    "sentence_furigana": "彼女【かのじょ】は絵【え】を描【か】くことで世界【せかい】をより良【よ】く見【み】ることができる。",
+    "meaning": "She can see the world better through painting."
+  },
+  {
+    "sentence": "その絵は見る者の心を温かくする。",
+    "sentence_furigana": "その絵【え】は見【み】る者【もの】の心【こころ】を温【あたた】かくする。",
+    "meaning": "That painting warms the viewer's heart."
+  },
+  {
+    "sentence": "絵を描くことは私の最も好きなことの一つです。",
+    "sentence_furigana": "絵【え】を描【か】くことは私【わたし】の最も好【もっともす】きなことの一つ【ひとつ】です。",
+    "meaning": "Painting is one of my favorite things to do."
+  }
+]

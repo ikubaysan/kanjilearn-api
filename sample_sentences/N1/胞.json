@@ -1,0 +1,567 @@
+[
+  {
+    "sentence": "胎児は母親の胎盤を通じて栄養を得る。",
+    "sentence_furigana": "胎児【たいじ】は母親【ははおや】の胎盤【たいばん】を通【つう】じて栄養【えいよう】を得【え】る。",
+    "meaning": "The fetus obtains nutrients through the mother's placenta."
+  },
+  {
+    "sentence": "胞子によって植物は繁殖する。",
+    "sentence_furigana": "胞子【ほうし】によって植物【しょくぶつ】は繁殖【はんしょく】する。",
+    "meaning": "Plants reproduce through spores."
+  },
+  {
+    "sentence": "細胞分裂によって個体は成長する。",
+    "sentence_furigana": "細胞分裂【さいぼうぶんれつ】によって個体【こたい】は成長【せいちょう】する。",
+    "meaning": "Individuals grow through cell division."
+  },
+  {
+    "sentence": "細胞壁は植物細胞を保護する。",
+    "sentence_furigana": "細胞壁【さいぼうへき】は植物細胞【しょくぶつさいぼう】を保護【ほご】する。",
+    "meaning": "The cell wall protects plant cells."
+  },
+  {
+    "sentence": "細胞膜は物質の出入りを調節する。",
+    "sentence_furigana": "細胞膜【さいぼうまく】は物質【ぶっしつ】の出入【でい】りを調節【ちょうせつ】する。",
+    "meaning": "The cell membrane regulates the passage of substances."
+  },
+  {
+    "sentence": "彼の体は多くの細胞からできている。",
+    "sentence_furigana": "彼【かれ】の体【からだ】は多【おお】くの細胞【さいぼう】からできている。",
+    "meaning": "His body is made up of many cells."
+  },
+  {
+    "sentence": "胞状奇胎という病気がある。",
+    "sentence_furigana": "胞状奇胎【ほうじょうきたい】という病気【びょうき】がある。",
+    "meaning": "There is a disease called hydatidiform mole."
+  },
+  {
+    "sentence": "胞子嚢菌類はカビの一種だ。",
+    "sentence_furigana": "胞子嚢菌類【ほうしのうきんるい】はカビの一種【いっしゅ】だ。",
+    "meaning": "Ascomycetes are a type of mold."
+  },
+  {
+    "sentence": "肺胞でガス交換が行われる。",
+    "sentence_furigana": "肺胞【はいほう】でガス交換【こうかん】が行【おこな】われる。",
+    "meaning": "Gas exchange occurs in the alveoli."
+  },
+  {
+    "sentence": "細菌は単細胞生物である。",
+    "sentence_furigana": "細菌【さいきん】は単細胞生物【たんさいぼうせいぶつ】である。",
+    "meaning": "Bacteria are single-celled organisms."
+  },
+  {
+    "sentence": "彼の論文は細胞生物学に関するものだ。",
+    "sentence_furigana": "彼【かれ】の論文【ろんぶん】は細胞生物学【さいぼうせいぶつがく】に関【かん】するものだ。",
+    "meaning": "His paper is about cell biology."
+  },
+  {
+    "sentence": "胞帯という言葉を聞いたことがありますか？",
+    "sentence_furigana": "胞帯【ほうたい】という言葉【ことば】を聞【き】いたことがありますか？",
+    "meaning": "Have you heard the word '胞帯'?"
+  },
+  {
+    "sentence": "細胞学は細胞の研究である。",
+    "sentence_furigana": "細胞学【さいぼうがく】は細胞【さいぼう】の研究【けんきゅう】である。",
+    "meaning": "Cytology is the study of cells."
+  },
+  {
+    "sentence": "この植物は胞子で増える。",
+    "sentence_furigana": "この植物【しょくぶつ】は胞子【ほうし】で増【ふ】える。",
+    "meaning": "This plant reproduces by spores."
+  },
+  {
+    "sentence": "胎盤は胎児と母体を繋ぐ。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】と母体【ぼたい】を繋【つな】ぐ。",
+    "meaning": "The placenta connects the fetus and the mother."
+  },
+  {
+    "sentence": "彼女は細胞診の検査を受けた。",
+    "sentence_furigana": "彼女【かのじょ】は細胞診【さいぼうしん】の検査【けんさ】を受【う】けた。",
+    "meaning": "She underwent a cytology examination."
+  },
+  {
+    "sentence": "胞子を吸い込むとアレルギー反応が起こる。",
+    "sentence_furigana": "胞子【ほうし】を吸【す】い込【こ】むとアレルギー反応【はんのう】が起【お】こる。",
+    "meaning": "Inhaling spores can cause an allergic reaction."
+  },
+  {
+    "sentence": "生体膜は細胞の境界をなす。",
+    "sentence_furigana": "生体膜【せいたいまく】は細胞【さいぼう】の境界【きょうかい】をなす。",
+    "meaning": "The biological membrane forms the boundary of the cell."
+  },
+  {
+    "sentence": "胎盤機能不全は深刻な問題だ。",
+    "sentence_furigana": "胎盤機能不全【たいばんきのうふぜん】は深刻【しんこく】な問題【もんだい】だ。",
+    "meaning": "Placental insufficiency is a serious problem."
+  },
+  {
+    "sentence": "細胞膜の透過性は重要である。",
+    "sentence_furigana": "細胞膜【さいぼうまく】の透過性【とうかせい】は重要【じゅうよう】である。",
+    "meaning": "The permeability of the cell membrane is important."
+  },
+  {
+    "sentence": "胞子形成は特定の条件下で起こる。",
+    "sentence_furigana": "胞子形成【ほうしけいせい】は特定【とくてい】の条件下【じょうけんか】で起【お】こる。",
+    "meaning": "Spore formation occurs under specific conditions."
+  },
+  {
+    "sentence": "細胞小器官は細胞内で特定の機能を持つ。",
+    "sentence_furigana": "細胞小器官【さいぼう小器官】は細胞内【さいぼうない】で特定【とくてい】の機能【きのう】を持【も】つ。",
+    "meaning": "Organelles have specific functions within the cell."
+  },
+  {
+    "sentence": "彼は胎盤性腫瘍について研究している。",
+    "sentence_furigana": "彼【かれ】は胎盤性腫瘍【たいばんせいしゅよう】について研究【けんきゅう】している。",
+    "meaning": "He is researching placental tumors."
+  },
+  {
+    "sentence": "この菌類は胞子によって媒介される。",
+    "sentence_furigana": "この菌類【きんるい】は胞子【ほうし】によって媒介【ばいかい】される。",
+    "meaning": "This fungus is transmitted by spores."
+  },
+  {
+    "sentence": "細胞接着は組織形成に不可欠である。",
+    "sentence_furigana": "細胞接着【さいぼうせっちゃく】は組織形成【そしきけいせい】に不可欠【ふかけつ】である。",
+    "meaning": "Cell adhesion is essential for tissue formation."
+  },
+  {
+    "sentence": "胞子性疾患は感染力が強い。",
+    "sentence_furigana": "胞子性疾患【ほうしせいしっかん】は感染力【かんせんりょく】が強【つよ】い。",
+    "meaning": "Sporadic diseases are highly contagious."
+  },
+  {
+    "sentence": "胎盤の未熟さは胎児の発育に影響を与える。",
+    "sentence_furigana": "胎盤【たいばん】の未熟さ【みじゅくさ】は胎児【たいじ】の発育【はついく】に影響【えいきょう】を与【あた】える。",
+    "meaning": "Placental immaturity affects fetal development."
+  },
+  {
+    "sentence": "細胞周期の制御はがん治療の鍵となる。",
+    "sentence_furigana": "細胞周期【さいぼうしゅうき】の制御【せいぎょ】はがん治療【ちりょう】の鍵【かぎ】となる。",
+    "meaning": "The control of the cell cycle is key to cancer treatment."
+  },
+  {
+    "sentence": "彼は胞状奇胎の診断を受けた。",
+    "sentence_furigana": "彼【かれ】は胞状奇胎【ほうじょうきたい】の診断【しんだん】を受【う】けた。",
+    "meaning": "He was diagnosed with a hydatidiform mole."
+  },
+  {
+    "sentence": "植物は胞子や種子で繁殖する。",
+    "sentence_furigana": "植物【しょくぶつ】は胞子【ほうし】や種子【しゅし】で繁殖【はんしょく】する。",
+    "meaning": "Plants reproduce by spores and seeds."
+  },
+  {
+    "sentence": "彼女の細胞は異常な増殖を示した。",
+    "sentence_furigana": "彼女【かのじょ】の細胞【さいぼう】は異常【いじょう】な増殖【ぞうしょく】を示【しめ】した。",
+    "meaning": "Her cells showed abnormal proliferation."
+  },
+  {
+    "sentence": "胎盤早期剥離は緊急の処置を要する。",
+    "sentence_furigana": "胎盤早期剥離【たいばんそうきはくり】は緊急【きんきゅう】の処置【しょち】を要【よう】する。",
+    "meaning": "Placental abruption requires emergency treatment."
+  },
+  {
+    "sentence": "細胞間物質は細胞同士の結合を助ける。",
+    "sentence_furigana": "細胞間物質【さいぼうかんぶっしつ】は細胞同士【さいぼうどうし】の結合【けつごう】を助【たす】ける。",
+    "meaning": "Intercellular substances help cells bind together."
+  },
+  {
+    "sentence": "胞子性の真菌は空気感染しやすい。",
+    "sentence_furigana": "胞子性【ほうしせい】の真菌【しんきん】は空気感染【くうきかんせん】しやすい。",
+    "meaning": "Sporadic fungi are easily transmitted through the air."
+  },
+  {
+    "sentence": "胎児の発育には胎盤の機能が不可欠だ。",
+    "sentence_furigana": "胎児【たいじ】の発育【はついく】には胎盤【たいばん】の機能【きのう】が不可欠【ふかけつ】だ。",
+    "meaning": "Placental function is essential for fetal development."
+  },
+  {
+    "sentence": "細胞壁の構造は種の特性を示す。",
+    "sentence_furigana": "細胞壁【さいぼうへき】の構造【こうぞう】は種【しゅ】の特性【とくせい】を示【しめ】す。",
+    "meaning": "The structure of the cell wall indicates species characteristics."
+  },
+  {
+    "sentence": "彼は胞子症の疑いで入院した。",
+    "sentence_furigana": "彼【かれ】は胞子症【ほうししょう】の疑【うたが】いで入院【にゅういん】した。",
+    "meaning": "He was hospitalized on suspicion of sporotrichosis."
+  },
+  {
+    "sentence": "この菌は胞子で増殖する。",
+    "sentence_furigana": "この菌【きん】は胞子【ほうし】で増殖【ぞうしょく】する。",
+    "meaning": "This fungus proliferates by spores."
+  },
+  {
+    "sentence": "細胞膜には多くのタンパク質が存在する。",
+    "sentence_furigana": "細胞膜【さいぼうまく】には多【おお】くのタンパク質【しつ】が存在【そんざい】する。",
+    "meaning": "Many proteins exist in the cell membrane."
+  },
+  {
+    "sentence": "胎盤は胎児の成長に必要な物質を運ぶ。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】の成長【せいちょう】に必要な物質【ひつようなぶっしつ】を運【はこ】ぶ。",
+    "meaning": "The placenta carries substances necessary for fetal growth."
+  },
+  {
+    "sentence": "細胞分裂の過程は非常に複雑である。",
+    "sentence_furigana": "細胞分裂【さいぼうぶんれつ】の過程【かてい】は非常【ひじょう】に複雑【ふくざつ】である。",
+    "meaning": "The process of cell division is very complex."
+  },
+  {
+    "sentence": "胞子散布は植物の生殖戦略の一つである。",
+    "sentence_furigana": "胞子散布【ほうしさふ】は植物【しょくぶつ】の生殖戦略【せいしょくせんりゃく】の一【ひと】つである。",
+    "meaning": "Spore dispersal is one of the plant's reproductive strategies."
+  },
+  {
+    "sentence": "細胞の形態は機能と密接に関連している。",
+    "sentence_furigana": "細胞【さいぼう】の形態【けいたい】は機能【きのう】と密接【みっせつ】に関連【かんれん】している。",
+    "meaning": "The morphology of a cell is closely related to its function."
+  },
+  {
+    "sentence": "彼女は胞状奇胎の合併症を経験した。",
+    "sentence_furigana": "彼女【かのじょ】は胞状奇胎【ほうじょうきたい】の合併症【がっぺいしょう】を経験【けいけん】した。",
+    "meaning": "She experienced complications from a hydatidiform mole."
+  },
+  {
+    "sentence": "この細菌は胞子を形成して乾燥に耐える。",
+    "sentence_furigana": "この細菌【さいきん】は胞子【ほうし】を形成【けいせい】して乾燥【かんそう】に耐【た】える。",
+    "meaning": "This bacterium forms spores and withstands drying."
+  },
+  {
+    "sentence": "胎盤の血管は胎児に酸素を供給する。",
+    "sentence_furigana": "胎盤【たいばん】の血管【けっかん】は胎児【たいじ】に酸素【さんそ】を供給【きょうきゅう】する。",
+    "meaning": "Placental blood vessels supply oxygen to the fetus."
+  },
+  {
+    "sentence": "彼は細胞治療の研究に取り組んでいる。",
+    "sentence_furigana": "彼【かれ】は細胞治療【さいぼうちりょう】の研究【けんきゅう】に取り組【とりく】んでいる。",
+    "meaning": "He is engaged in research on cell therapy."
+  },
+  {
+    "sentence": "胞子性肺炎は免疫不全の人々に影響を与える。",
+    "sentence_furigana": "胞子性肺炎【ほうしせいはいえん】は免疫不全【めんえきふぜん】の人々【ひとびと】に影響【えいきょう】を与【あた】える。",
+    "meaning": "Pneumonia caused by spores affects people with immunodeficiency."
+  },
+  {
+    "sentence": "細胞膜の流動性は膜機能を維持する上で重要である。",
+    "sentence_furigana": "細胞膜【さいぼうまく】の流動性【りゅうどうせい】は膜機能【まくきのう】を維持【いじ】する上【うえ】で重要【じゅうよう】である。",
+    "meaning": "The fluidity of the cell membrane is important for maintaining membrane function."
+  },
+  {
+    "sentence": "胞子で増殖する植物はシダ類である。",
+    "sentence_furigana": "胞子【ほうし】で増殖【ぞうしょく】する植物【しょくぶつ】はシダ類【るい】である。",
+    "meaning": "Plants that reproduce by spores are ferns."
+  },
+  {
+    "sentence": "胎盤炎は妊娠中の合併症を引き起こす可能性がある。",
+    "sentence_furigana": "胎盤炎【たいばんえん】は妊娠中【にんしんちゅう】の合併症【がっぺいしょう】を引き起【ひきおこ】す可能性【かのうせい】がある。",
+    "meaning": "Placentitis can cause complications during pregnancy."
+  },
+  {
+    "sentence": "彼は細胞内共生説を支持している。",
+    "sentence_furigana": "彼【かれ】は細胞内共生説【さいぼうないきょうせいせつ】を支持【しじ】している。",
+    "meaning": "He supports the theory of endosymbiosis."
+  },
+  {
+    "sentence": "この岩石には胞子のような化石が含まれている。",
+    "sentence_furigana": "この岩石【がんせき】には胞子【ほうし】のような化石【かせき】が含ま【ふくま】れている。",
+    "meaning": "This rock contains fossil-like spores."
+  },
+  {
+    "sentence": "細胞の分化は発生過程で重要である。",
+    "sentence_furigana": "細胞【さいぼう】の分化【ぶんか】は発生過程【はっせいかてい】で重要【じゅうよう】である。",
+    "meaning": "Cell differentiation is important in the developmental process."
+  },
+  {
+    "sentence": "胎盤はホルモンを産生する内分泌器官でもある。",
+    "sentence_furigana": "胎盤【たいばん】はホルモンを産生【さんせい】する内分泌器官【ないぶんぴきかん】でもある。",
+    "meaning": "The placenta is also an endocrine organ that produces hormones."
+  },
+  {
+    "sentence": "胞子カビは食品に悪影響を与える。",
+    "sentence_furigana": "胞子カビ【ほうしかび】は食品【しょくひん】に悪影響【あくえいきょう】を与【あた】える。",
+    "meaning": "Mold spores have a negative impact on food."
+  },
+  {
+    "sentence": "彼は細胞骨格の動態を研究している。",
+    "sentence_furigana": "彼【かれ】は細胞骨格【さいぼうこっかく】の動態【どうたい】を研究【けんきゅう】している。",
+    "meaning": "He is studying the dynamics of the cytoskeleton."
+  },
+  {
+    "sentence": "胞状奇胎の組織検査が必要だ。",
+    "sentence_furigana": "胞状奇胎【ほうじょうきたい】の組織検査【そしきけんさ】が必要【ひつよう】だ。",
+    "meaning": "A tissue examination for hydatidiform mole is necessary."
+  },
+  {
+    "sentence": "肺胞は肺の基本的な構造単位である。",
+    "sentence_furigana": "肺胞【はいほう】は肺【はい】の基本的【きほんてき】な構造単位【こうぞうたんい】である。",
+    "meaning": "Alveoli are the basic structural units of the lungs."
+  },
+  {
+    "sentence": "細胞周期の異常はがんの原因となることがある。",
+    "sentence_furigana": "細胞周期【さいぼうしゅうき】の異常【いじょう】はがんの原因【げんいん】となることがある。",
+    "meaning": "Abnormalities in the cell cycle can cause cancer."
+  },
+  {
+    "sentence": "胎盤ヘルペスは新生児に重篤な影響を与える可能性がある。",
+    "sentence_furigana": "胎盤ヘルペス【たいばん】は新生児【しんせいじ】に重篤【じゅうとく】な影響【えいきょう】を与【あた】える可能性【かのうせい】がある。",
+    "meaning": "Placental herpes can have serious effects on newborns."
+  },
+  {
+    "sentence": "この植物は地下茎で増殖する。",
+    "sentence_furigana": "この植物【しょくぶつ】は地下茎【ちかけい】で増殖【ぞうしょく】する。",
+    "meaning": "This plant propagates by underground stems."
+  },
+  {
+    "sentence": "細胞膜の構造はサンドイッチモデルで説明される。",
+    "sentence_furigana": "細胞膜【さいぼうまく】の構造【こうぞう】はサンドイッチモデルで説明【せつめい】される。",
+    "meaning": "The structure of the cell membrane is explained by the sandwich model."
+  },
+  {
+    "sentence": "胞子で増える菌類は多数存在する。",
+    "sentence_furigana": "胞子【ほうし】で増【ふ】える菌類【きんるい】は多数【たすう】存在する【そんざいする】。",
+    "meaning": "There are many fungi that reproduce by spores."
+  },
+  {
+    "sentence": "胎盤からの出血は母体の健康を脅かす。",
+    "sentence_furigana": "胎盤【たいばん】からの出血【しゅっけつ】は母体【ぼたい】の健康【けんこう】を脅【おびや】かす。",
+    "meaning": "Bleeding from the placenta threatens the mother's health."
+  },
+  {
+    "sentence": "彼は細胞工学の分野で活躍している。",
+    "sentence_furigana": "彼【かれ】は細胞工学【さいぼうこうがく】の分野【ぶんや】で活躍【かつやく】している。",
+    "meaning": "He is active in the field of cell engineering."
+  },
+  {
+    "sentence": "胞子性の病原体は環境中に広く分布している。",
+    "sentence_furigana": "胞子性【ほうしせい】の病原体【びょうげんたい】は環境中【かんきょうちゅう】に広【ひろ】く分布【ぶんぷ】している。",
+    "meaning": "Sporadic pathogens are widely distributed in the environment."
+  },
+  {
+    "sentence": "細胞死は生命現象の一部である。",
+    "sentence_furigana": "細胞死【さいぼうし】は生命現象【せいめいげんしょう】の一部【いちぶ】である。",
+    "meaning": "Cell death is part of life phenomena."
+  },
+  {
+    "sentence": "胎盤は胎児に必要な栄養を貯蔵する。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】に必要な栄養【ひつようなえいよう】を貯蔵【ちょぞう】する。",
+    "meaning": "The placenta stores nutrients necessary for the fetus."
+  },
+  {
+    "sentence": "彼は胞子沈着症の治療について調べている。",
+    "sentence_furigana": "彼【かれ】は胞子沈着症【ほうしちんちゃくしょう】の治療【ちりょう】について調【しら】べている。",
+    "meaning": "He is researching the treatment for sporotrichosis."
+  },
+  {
+    "sentence": "細胞分裂には多くのエネルギーが必要である。",
+    "sentence_furigana": "細胞分裂【さいぼうぶんれつ】には多【おお】くのエネルギーが必要【ひつよう】である。",
+    "meaning": "Cell division requires a lot of energy."
+  },
+  {
+    "sentence": "胞子形成は特定の菌類に見られる。",
+    "sentence_furigana": "胞子形成【ほうしけいせい】は特定【とくてい】の菌類【きんるい】に見【み】られる。",
+    "meaning": "Spore formation is seen in specific fungi."
+  },
+  {
+    "sentence": "胎盤の機能障害は妊娠合併症につながることがある。",
+    "sentence_furigana": "胎盤【たいばん】の機能障害【きのうしょうがい】は妊娠合併症【にんしんがっぺいしょう】につながることがある。",
+    "meaning": "Placental dysfunction can lead to pregnancy complications."
+  },
+  {
+    "sentence": "彼は細胞信号伝達の研究をしている。",
+    "sentence_furigana": "彼【かれ】は細胞信号伝達【さいぼうしんごうでんたつ】の研究【けんきゅう】をしている。",
+    "meaning": "He is researching cell signal transduction."
+  },
+  {
+    "sentence": "胞子の飛散時期には注意が必要である。",
+    "sentence_furigana": "胞子【ほうし】の飛散時期【ひさんじき】には注意【ちゅうい】が必要【ひつよう】である。",
+    "meaning": "Care must be taken during the period of spore dispersal."
+  },
+  {
+    "sentence": "細胞壁は植物細胞の形状を維持する。",
+    "sentence_furigana": "細胞壁【さいぼうへき】は植物細胞【しょくぶつさいぼう】の形状【けいじょう】を維持【いじ】する。",
+    "meaning": "The cell wall maintains the shape of plant cells."
+  },
+  {
+    "sentence": "胎盤の絨毛は栄養吸収に重要な役割を果たす。",
+    "sentence_furigana": "胎盤【たいばん】の絨毛【じゅうもう】は栄養吸収【えいようきゅうしゅう】に重要【じゅうよう】な役割【やくわり】を果た【はた】す。",
+    "meaning": "Placental villi play an important role in nutrient absorption."
+  },
+  {
+    "sentence": "彼は細胞融合の実験を行った。",
+    "sentence_furigana": "彼【かれ】は細胞融合【さいぼうゆうごう】の実験【じっけん】を行【おこな】った。",
+    "meaning": "He conducted an experiment on cell fusion."
+  },
+  {
+    "sentence": "胞子性の感染症には注意が必要です。",
+    "sentence_furigana": "胞子性【ほうしせい】の感染症【かんせんしょう】には注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Caution is needed for infections caused by spores."
+  },
+  {
+    "sentence": "胎盤は胎児の免疫システムにも影響を与える。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】の免疫システムにも影響【えいきょう】を与【あた】える。",
+    "meaning": "The placenta also affects the fetal immune system."
+  },
+  {
+    "sentence": "細胞増殖の制御は生命維持に不可欠である。",
+    "sentence_furigana": "細胞増殖【さいぼうぞうしょく】の制御【せいぎょ】は生命維持【せいめいいじ】に不可欠【ふかけつ】である。",
+    "meaning": "Control of cell proliferation is essential for maintaining life."
+  },
+  {
+    "sentence": "このカビは胞子によって空気中に広がります。",
+    "sentence_furigana": "このカビは胞子【ほうし】によって空気中【くうきちゅう】に広【ひろ】がります。",
+    "meaning": "This mold spreads through the air by spores."
+  },
+  {
+    "sentence": "胎盤剥離は早期診断と治療が重要である。",
+    "sentence_furigana": "胎盤剥離【たいばんはり】は早期診断【そうきしんだん】と治療【ちりょう】が重要【じゅうよう】である。",
+    "meaning": "Early diagnosis and treatment of placental detachment are important."
+  },
+  {
+    "sentence": "彼は細胞移植の可能性について研究している。",
+    "sentence_furigana": "彼【かれ】は細胞移植【さいぼういしょく】の可能性【かのうせい】について研究【けんきゅう】している。",
+    "meaning": "He is researching the potential of cell transplantation."
+  },
+  {
+    "sentence": "胞子の構造は分類学において重要である。",
+    "sentence_furigana": "胞子【ほうし】の構造【こうぞう】は分類学【ぶんるいがく】において重要【じゅうよう】である。",
+    "meaning": "The structure of spores is important in taxonomy."
+  },
+  {
+    "sentence": "胎盤性癌は妊娠中に発生することがある。",
+    "sentence_furigana": "胎盤性癌【たいばんせいがん】は妊娠中【にんしんちゅう】に発生【はっせい】することがある。",
+    "meaning": "Gestational trophoblastic neoplasia can occur during pregnancy."
+  },
+  {
+    "sentence": "彼は細胞膜のイオンチャネルの研究をしている。",
+    "sentence_furigana": "彼【かれ】は細胞膜【さいぼうまく】のイオンチャネルの研究【けんきゅう】をしている。",
+    "meaning": "He is researching ion channels in the cell membrane."
+  },
+  {
+    "sentence": "胞子の発芽には適切な湿度が必要である。",
+    "sentence_furigana": "胞子【ほうし】の発芽【はつが】には適切【てきせつ】な湿度【しつど】が必要【ひつよう】である。",
+    "meaning": "Proper humidity is required for spore germination."
+  },
+  {
+    "sentence": "胎盤は胎児の腎臓の機能の一部を代行する。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】の腎臓【じんぞう】の機能【きのう】の一部【いちぶ】を代行【だいこう】する。",
+    "meaning": "The placenta acts as a substitute for some functions of the fetal kidneys."
+  },
+  {
+    "sentence": "彼は細胞内での代謝経路を研究している。",
+    "sentence_furigana": "彼【かれ】は細胞内【さいぼうない】での代謝経路【たいしゃけいろ】を研究【けんきゅう】している。",
+    "meaning": "He is researching metabolic pathways within the cell."
+  },
+  {
+    "sentence": "胞子によって感染する病気は数多い。",
+    "sentence_furigana": "胞子【ほうし】によって感染【かんせん】する病気【びょうき】は数多【かずおお】い。",
+    "meaning": "There are many diseases that are transmitted by spores."
+  },
+  {
+    "sentence": "胎盤の異常は胎児の発育遅延を引き起こすことがある。",
+    "sentence_furigana": "胎盤【たいばん】の異常【いじょう】は胎児【たいじ】の発育遅延【はついくちえん】を引き起【ひきおこ】すことがある。",
+    "meaning": "Placental abnormalities can cause fetal growth retardation."
+  },
+  {
+    "sentence": "彼は再生医療における細胞の利用を研究している。",
+    "sentence_furigana": "彼【かれ】は再生医療【さいせいいりょう】における細胞【さいぼう】の利用【りよう】を研究【けんきゅう】している。",
+    "meaning": "He is researching the use of cells in regenerative medicine."
+  },
+  {
+    "sentence": "胞子のうは胞子を生成する器官である。",
+    "sentence_furigana": "胞子【ほうし】のうは胞子【ほうし】を生成【せいせい】する器官【きかん】である。",
+    "meaning": "The sporangium is an organ that produces spores."
+  },
+  {
+    "sentence": "胎盤は胎児の生命維持に不可欠な役割を果たす。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】の生命維持【せいめいいじ】に不可欠【ふかけつ】な役割【やくわり】を果た【はた】す。",
+    "meaning": "The placenta plays an indispensable role in maintaining fetal life."
+  },
+  {
+    "sentence": "彼は細胞シグナル伝達のメカニズムを解明しようとしている。",
+    "sentence_furigana": "彼【かれ】は細胞シグナル伝達【さいぼう】のメカニズムを解明【かいめい】しようとしている。",
+    "meaning": "He is trying to elucidate the mechanisms of cell signal transduction."
+  },
+  {
+    "sentence": "胞子の分布は環境要因に影響される。",
+    "sentence_furigana": "胞子【ほうし】の分布【ぶんぷ】は環境要因【かんきょうよういん】に影響【えいきょう】される。",
+    "meaning": "Spore distribution is influenced by environmental factors."
+  },
+  {
+    "sentence": "胎盤の血流が悪化すると胎児の発育に影響が出る。",
+    "sentence_furigana": "胎盤【たいばん】の血流【けつりゅう】が悪化【あっか】すると胎児【たいじ】の発育【はついく】に影響【えいきょう】が出【で】る。",
+    "meaning": "Poor placental blood flow can affect fetal development."
+  },
+  {
+    "sentence": "彼は細胞外マトリックスの機能を研究している。",
+    "sentence_furigana": "彼【かれ】は細胞外マトリックス【さいぼうがい】の機能【きのう】を研究【けんきゅう】している。",
+    "meaning": "He is studying the functions of the extracellular matrix."
+  },
+  {
+    "sentence": "胞子性菌類は分解者として重要である。",
+    "sentence_furigana": "胞子性菌類【ほうしせいきんるい】は分解者【ぶんかいしゃ】として重要【じゅうよう】である。",
+    "meaning": "Sporadic fungi are important as decomposers."
+  },
+  {
+    "sentence": "胎盤は母体と胎児の間で物質交換を行う。",
+    "sentence_furigana": "胎盤【たいばん】は母体【ぼたい】と胎児【たいじ】の間【あいだ】で物質交換【ぶっしつこうかん】を行【おこな】う。",
+    "meaning": "The placenta performs material exchange between the mother and fetus."
+  },
+  {
+    "sentence": "彼は幹細胞の研究に力を入れている。",
+    "sentence_furigana": "彼【かれ】は幹細胞【かんさいぼう】の研究【けんきゅう】に力【ちから】を入【い】れている。",
+    "meaning": "He is focusing on research on stem cells."
+  },
+  {
+    "sentence": "胞子を吸い込むことは健康上のリスクとなることがある。",
+    "sentence_furigana": "胞子【ほうし】を吸【す】い込【こ】むことは健康上【けんこうじょう】のリスクとなることがある。",
+    "meaning": "Inhaling spores can be a health risk."
+  },
+  {
+    "sentence": "胎盤の成長異常は妊娠高血圧症候群と関連がある。",
+    "sentence_furigana": "胎盤【たいばん】の成長異常【せいちょういじょう】は妊娠高血圧症候群【にんしんこうけつあつしょうこうぐん】と関連【かんれん】がある。",
+    "meaning": "Placental growth abnormalities are associated with hypertensive disorders of pregnancy."
+  },
+  {
+    "sentence": "彼は植物の胞子形成メカニズムを解明しようとしている。",
+    "sentence_furigana": "彼【かれ】は植物【しょくぶつ】の胞子形成メカニズムを解明【かいめい】しようとしている。",
+    "meaning": "He is trying to elucidate the spore formation mechanism in plants."
+  },
+  {
+    "sentence": "胎盤は胎児の免疫寛容にも寄与している。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】の免疫寛容【めんえきかんよう】にも寄与【きよ】している。",
+    "meaning": "The placenta also contributes to fetal immune tolerance."
+  },
+  {
+    "sentence": "細胞内共生説は生物進化の重要な説である。",
+    "sentence_furigana": "細胞内共生説【さいぼうないきょうせいせつ】は生物進化【せいぶつしんか】の重要【じゅうよう】な説【せつ】である。",
+    "meaning": "The theory of endosymbiosis is an important theory in biological evolution."
+  },
+  {
+    "sentence": "胞子性肺炎はしばしば日和見感染として現れる。",
+    "sentence_furigana": "胞子性肺炎【ほうしせいはいえん】はしばしば日和見感染【ひよりみかんせん】として現【あらわ】れる。",
+    "meaning": "Pneumonia caused by spores often appears as an opportunistic infection."
+  },
+  {
+    "sentence": "胎盤は胎児の呼吸器系の一部としても機能する。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】の呼吸器系【こきゅうきけい】の一部【いちぶ】としても機能【きのう】する。",
+    "meaning": "The placenta also functions as part of the fetal respiratory system."
+  },
+  {
+    "sentence": "彼は細胞の老化メカニズムを研究している。",
+    "sentence_furigana": "彼【かれ】は細胞【さいぼう】の老化メカニズムを研究【けんきゅう】している。",
+    "meaning": "He is studying the mechanisms of cell aging."
+  },
+  {
+    "sentence": "胞子のうは菌類やシダ植物に見られる。",
+    "sentence_furigana": "胞子【ほうし】のうは菌類【きんるい】やシダ植物【しょくぶつ】に見【み】られる。",
+    "meaning": "Sporangia are found in fungi and ferns."
+  },
+  {
+    "sentence": "胎盤は胎児のホルモンバランスにも影響を与える。",
+    "sentence_furigana": "胎盤【たいばん】は胎児【たいじ】のホルモンバランスにも影響【えいきょう】を与【あた】える。",
+    "meaning": "The placenta also affects the fetal hormone balance."
+  },
+  {
+    "sentence": "彼は細胞膜輸送のメカニズムを研究している。",
+    "sentence_furigana": "彼【かれ】は細胞膜輸送【さいぼうまくゆそう】のメカニズムを研究【けんきゅう】している。",
+    "meaning": "He is studying the mechanisms of cell membrane transport."
+  }
+]

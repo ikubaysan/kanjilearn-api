@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "どちらの方向に向かっていますか？",
+    "sentence_furigana": "どちら【】の【】方向【ほうこう】に向【む】かっていますか？",
+    "meaning": "Which direction are you heading?"
+  },
+  {
+    "sentence": "これは私のやり方です。",
+    "sentence_furigana": "これ【】は【】私【わたし】の【】やり方【かた】です。",
+    "meaning": "This is my way of doing things."
+  },
+  {
+    "sentence": "彼は親切な方です。",
+    "sentence_furigana": "彼【かれ】は【】親切【しんせつ】な【】方【かた】です。",
+    "meaning": "He is a kind person."
+  },
+  {
+    "sentence": "どちらか一方を選んでください。",
+    "sentence_furigana": "どちらか【】一方【いっぽう】を選【えら】んでください。",
+    "meaning": "Please choose one side."
+  },
+  {
+    "sentence": "この方法で試してみましょう。",
+    "sentence_furigana": "この【】方法【ほうほう】で【】試【こころ】してみましょう。",
+    "meaning": "Let's try this method."
+  },
+  {
+    "sentence": "上の方を見てください。",
+    "sentence_furigana": "上【うえ】の【】方【ほう】を見【み】てください。",
+    "meaning": "Look towards the top."
+  },
+  {
+    "sentence": "彼女はとても賢い方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】とても【】賢【かしこ】い【】方【かた】だ。",
+    "meaning": "She is a very intelligent person."
+  },
+  {
+    "sentence": "この件に関して、何か方法がありますか？",
+    "sentence_furigana": "この【】件【けん】に【】関【かん】して、何か【なにか】方法【ほうほう】がありますか？",
+    "meaning": "Is there any way to handle this matter?"
+  },
+  {
+    "sentence": "彼は私の知り合いの方です。",
+    "sentence_furigana": "彼【かれ】は【】私【わたし】の【】知【し】り合【あ】い【】の方【かた】です。",
+    "meaning": "He is someone I know."
+  },
+  {
+    "sentence": "反対の方角に進みましょう。",
+    "sentence_furigana": "反対【はんたい】の【】方角【ほうがく】に進【すす】みましょう。",
+    "meaning": "Let's proceed in the opposite direction."
+  },
+  {
+    "sentence": "これは私が考えた方法です。",
+    "sentence_furigana": "これ【】は【】私【わたし】が【】考【かんが】えた【】方法【ほうほう】です。",
+    "meaning": "This is a method I devised."
+  },
+  {
+    "sentence": "彼は大変な方だと聞きました。",
+    "sentence_furigana": "彼【かれ】は【】大変【たいへん】な【】方【かた】だと【】聞【き】きました。",
+    "meaning": "I heard he is quite a remarkable person."
+  },
+  {
+    "sentence": "どちらか一方しか選べません。",
+    "sentence_furigana": "どちらか【】一方【いっぽう】しか【】選【えら】べません。",
+    "meaning": "You can only choose one."
+  },
+  {
+    "sentence": "このやり方は少し古い。",
+    "sentence_furigana": "この【】やり方【かた】は【】少【すこ】し【】古【ふる】い。",
+    "meaning": "This method is a bit old-fashioned."
+  },
+  {
+    "sentence": "北の方に家があります。",
+    "sentence_furigana": "北【きた】の【】方【ほう】に【】家【いえ】があります。",
+    "meaning": "There is a house to the north."
+  },
+  {
+    "sentence": "その方はどなたですか？",
+    "sentence_furigana": "その【】方【かた】は【】どなたですか？",
+    "meaning": "Who is that person?"
+  },
+  {
+    "sentence": "この問題には別の方法があるはずだ。",
+    "sentence_furigana": "この【】問題【もんだい】には【】別【べつ】の【】方法【ほうほう】があるはずだ。",
+    "meaning": "There must be another way to solve this problem."
+  },
+  {
+    "sentence": "彼は来る方ではない。",
+    "sentence_furigana": "彼【かれ】は【】来【く】る【】方【ほう】ではない。",
+    "meaning": "He is not the type to come."
+  },
+  {
+    "sentence": "どちらの道を選んでも同じ方向です。",
+    "sentence_furigana": "どちらの【】道【みち】を【】選【えら】んでも【】同【おな】じ【】方向【ほうこう】です。",
+    "meaning": "Whichever road you choose, it's in the same direction."
+  },
+  {
+    "sentence": "彼女は皆から慕われる方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】皆【みな】から【】慕【した】われる【】方【かた】だ。",
+    "meaning": "She is a person admired by everyone."
+  },
+  {
+    "sentence": "この進め方では時間がかかる。",
+    "sentence_furigana": "この【】進【すす】め方【かた】では【】時間【じかん】がかかる。",
+    "meaning": "This approach will take time."
+  },
+  {
+    "sentence": "西の方角へ進んでください。",
+    "sentence_furigana": "西【にし】の【】方角【ほうがく】へ【】進【すす】んでください。",
+    "meaning": "Please proceed in the westward direction."
+  },
+  {
+    "sentence": "あの女性は有名な方だ。",
+    "sentence_furigana": "あの【】女性【じょせい】は【】有名【ゆうめい】な【】方【かた】だ。",
+    "meaning": "That woman is a famous person."
+  },
+  {
+    "sentence": "これより上記の方法を実行してください。",
+    "sentence_furigana": "これより【】上記【じょうき】の【】方法【ほうほう】を【】実行【じっこう】してください。",
+    "meaning": "Please execute the above method from now on."
+  },
+  {
+    "sentence": "彼は話の分かる方です。",
+    "sentence_furigana": "彼【かれ】は【】話【はな】し【】の【】分【わ】かる【】方【かた】です。",
+    "meaning": "He is a reasonable person."
+  },
+  {
+    "sentence": "どちらの方に住んでいますか？",
+    "sentence_furigana": "どちらの【】方【ほう】に【】住【す】んでいますか？",
+    "meaning": "In which direction do you live?"
+  },
+  {
+    "sentence": "新しい方法を試したい。",
+    "sentence_furigana": "新【あたら】しい【】方法【ほうほう】を【】試【こころ】したい。",
+    "meaning": "I want to try a new method."
+  },
+  {
+    "sentence": "彼は大変お世話になった方です。",
+    "sentence_furigana": "彼【かれ】は【】大変【たいへん】お【】世話【せわ】になった【】方【かた】です。",
+    "meaning": "He is someone who helped me a lot."
+  },
+  {
+    "sentence": "このやり方には賛成です。",
+    "sentence_furigana": "この【】やり方【かた】には【】賛成【さんせい】です。",
+    "meaning": "I agree with this way of doing things."
+  },
+  {
+    "sentence": "南の方へ進んでください。",
+    "sentence_furigana": "南【みなみ】の【】方【ほう】へ【】進【すす】んでください。",
+    "meaning": "Please proceed to the south."
+  },
+  {
+    "sentence": "彼女は落ち着いた方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】落【お】ち着【つ】いた【】方【かた】だ。",
+    "meaning": "She is a calm person."
+  },
+  {
+    "sentence": "この本は読み方が難しい。",
+    "sentence_furigana": "この【】本【ほん】は【】読【よ】み方【かた】が【】難【むずか】しい。",
+    "meaning": "This book is difficult to read."
+  },
+  {
+    "sentence": "どちらの方向を選ぶべきか迷っている。",
+    "sentence_furigana": "どちらの【】方向【ほうこう】を【】選【えら】ぶべきか【】迷【まよ】っている。",
+    "meaning": "I am undecided about which direction to choose."
+  },
+  {
+    "sentence": "彼は仕事のやり方が丁寧だ。",
+    "sentence_furigana": "彼【かれ】は【】仕事【しごと】の【】やり方【かた】が【】丁寧【ていねい】だ。",
+    "meaning": "His way of working is thorough."
+  },
+  {
+    "sentence": "あの 사람은尊敬できる方です。",
+    "sentence_furigana": "あの【】人【ひと】は【】尊敬【そんけい】できる【】方【かた】です。",
+    "meaning": "That person is someone I can respect."
+  },
+  {
+    "sentence": "この問題に対するより良い方法を探しています。",
+    "sentence_furigana": "この【】問題【もんだい】に【】対【たい】する【】より【】良【よ】い【】方法【ほうほう】を【】探【さが】しています。",
+    "meaning": "I am looking for a better way to address this problem."
+  },
+  {
+    "sentence": "彼は人の気持ちが分かる方だ。",
+    "sentence_furigana": "彼【かれ】は【】人【ひと】の【】気持【きも】ちが【】分【わ】かる【】方【かた】だ。",
+    "meaning": "He is someone who understands people's feelings."
+  },
+  {
+    "sentence": "どちらの方角から風が吹いていますか？",
+    "sentence_furigana": "どちらの【】方角【ほうがく】から【】風【かぜ】が【】吹【ふ】いていますか？",
+    "meaning": "From which direction is the wind blowing?"
+  },
+  {
+    "sentence": "このやり方で進めるのが一番早い。",
+    "sentence_furigana": "この【】やり方【かた】で【】進【すす】めるのが【】一番【いちばん】早【はや】い。",
+    "meaning": "Proceeding this way is the fastest."
+  },
+  {
+    "sentence": "彼女は料理が上手な方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】料理【りょうり】が【】上手【じょうず】な【】方【かた】だ。",
+    "meaning": "She is a skilled cook."
+  },
+  {
+    "sentence": "この件について、どちらか一方にご連絡ください。",
+    "sentence_furigana": "この【】件【けん】について、どちらか【】一方【いっぽう】に【】連絡【れんらく】ください。",
+    "meaning": "Regarding this matter, please contact either one."
+  },
+  {
+    "sentence": "彼はいつも笑顔の方です。",
+    "sentence_furigana": "彼【かれ】は【】いつも【】笑顔【えがお】の【】方【かた】です。",
+    "meaning": "He is always smiling."
+  },
+  {
+    "sentence": "この方法が最も効果的です。",
+    "sentence_furigana": "この【】方法【ほうほう】が【】最【もっと】も【】効果的【こうかてき】です。",
+    "meaning": "This method is the most effective."
+  },
+  {
+    "sentence": "反対方向に進んでしまった。",
+    "sentence_furigana": "反対【はんたい】方向【ほうこう】に【】進【すす】んでしまった。",
+    "meaning": "I proceeded in the opposite direction."
+  },
+  {
+    "sentence": "彼は歌が上手な方ではない。",
+    "sentence_furigana": "彼【かれ】は【】歌【うた】が【】上手【じょうず】な【】方【かた】ではない。",
+    "meaning": "He is not a good singer."
+  },
+  {
+    "sentence": "どちらの方でも構いません。",
+    "sentence_furigana": "どちらの【】方【ほう】でも【】構【かま】いません。",
+    "meaning": "Either way is fine."
+  },
+  {
+    "sentence": "このやり方で成功できるか心配だ。",
+    "sentence_furigana": "この【】やり方【かた】で【】成功【せいこう】できるか【】心配【しんぱい】だ。",
+    "meaning": "I'm worried if we can succeed with this method."
+  },
+  {
+    "sentence": "彼女はいつも親切にしてくれる方です。",
+    "sentence_furigana": "彼女【かのじょ】は【】いつも【】親切【しんせつ】に【】してくれる【】方【かた】です。",
+    "meaning": "She is always kind to me."
+  },
+  {
+    "sentence": "この問題を解決する別の方法を考えます。",
+    "sentence_furigana": "この【】問題【もんだい】を【】解決【かいけつ】する【】別【べつ】の【】方法【ほうほう】を【】考【かんが】えます。",
+    "meaning": "I will think of another way to solve this problem."
+  },
+  {
+    "sentence": "彼は礼儀正しい方だ。",
+    "sentence_furigana": "彼【かれ】は【】礼儀【れいぎ】正【ただ】しい【】方【かた】だ。",
+    "meaning": "He is a polite person."
+  },
+  {
+    "sentence": "東の方角へ進みましょう。",
+    "sentence_furigana": "東【ひがし】の【】方角【ほうがく】へ【】進【すす】みましょう。",
+    "meaning": "Let's proceed in the eastward direction."
+  },
+  {
+    "sentence": "この方法の利点は何ですか？",
+    "sentence_furigana": "この【】方法【ほうほう】の【】利点【りてん】は【】何【なん】ですか？",
+    "meaning": "What are the advantages of this method?"
+  },
+  {
+    "sentence": "彼女は人前で話すのが得意な方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】人前【ひとまえ】で【】話【はな】すのが【】得意【とくい】な【】方【かた】だ。",
+    "meaning": "She is good at speaking in front of people."
+  },
+  {
+    "sentence": "どちらの方向からも入れます。",
+    "sentence_furigana": "どちらの【】方向【ほうこう】からでも【】入【はい】れます。",
+    "meaning": "You can enter from either direction."
+  },
+  {
+    "sentence": "彼のやり方はとても効率的だ。",
+    "sentence_furigana": "彼【かれ】の【】やり方【かた】は【】とても【】効率的【こうりつてき】だ。",
+    "meaning": "His way of working is very efficient."
+  },
+  {
+    "sentence": "この方は以前にもお会いしたことがあります。",
+    "sentence_furigana": "この【】方【かた】は【】以前【いぜん】にも【】お【】会【あ】いした【】こと【】があります。",
+    "meaning": "I have met this person before."
+  },
+  {
+    "sentence": "この方法ではうまくいかない。",
+    "sentence_furigana": "この【】方法【ほうほう】では【】うまくいかない。",
+    "meaning": "This method won't work."
+  },
+  {
+    "sentence": "彼は友達が多い方だ。",
+    "sentence_furigana": "彼【かれ】は【】友達【ともだち】が【】多【おお】い【】方【かた】だ。",
+    "meaning": "He has many friends."
+  },
+  {
+    "sentence": "どちらか一方だけご協力ください。",
+    "sentence_furigana": "どちらか【】一方【いっぽう】だけ【】協力【きょうりょく】ください。",
+    "meaning": "Please cooperate with only one side."
+  },
+  {
+    "sentence": "北西の方角に家を探しています。",
+    "sentence_furigana": "北西【ほくせい】の【】方角【ほうがく】に【】家【いえ】を【】探【さが】しています。",
+    "meaning": "I am looking for a house in the northwest direction."
+  },
+  {
+    "sentence": "彼女は才能のある方です。",
+    "sentence_furigana": "彼女【かのじょ】は【】才能【さいのう】の【】ある【】方【かた】です。",
+    "meaning": "She is a talented person."
+  },
+  {
+    "sentence": "このやり方を変える必要がある。",
+    "sentence_furigana": "この【】やり方【かた】を【】変【か】える【】必要【ひつよう】がある。",
+    "meaning": "There is a need to change this method."
+  },
+  {
+    "sentence": "彼は皆に好かれる方だ。",
+    "sentence_furigana": "彼【かれ】は【】皆【みな】に【】好【す】かれる【】方【かた】だ。",
+    "meaning": "He is well-liked by everyone."
+  },
+  {
+    "sentence": "この方法の欠点は何ですか？",
+    "sentence_furigana": "この【】方法【ほうほう】の【】欠点【けってん】は【】何【なん】ですか？",
+    "meaning": "What are the disadvantages of this method?"
+  },
+  {
+    "sentence": "どちらか一方に決めなければならない。",
+    "sentence_furigana": "どちらか【】一方【いっぽう】に【】決【き】めなければならない。",
+    "meaning": "I have to decide on one side."
+  },
+  {
+    "sentence": "彼女は説明が上手な方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】説明【せつめい】が【】上手【じょうず】な【】方【かた】だ。",
+    "meaning": "She is good at explaining."
+  },
+  {
+    "sentence": "このやり方では時間がかかりすぎる。",
+    "sentence_furigana": "この【】やり方【かた】では【】時間【じかん】がかかりすぎる。",
+    "meaning": "This method takes too much time."
+  },
+  {
+    "sentence": "彼はいつも前向きな方だ。",
+    "sentence_furigana": "彼【かれ】は【】いつも【】前向【まえむ】きな【】方【かた】だ。",
+    "meaning": "He is always positive."
+  },
+  {
+    "sentence": "この方法以外に選択肢はない。",
+    "sentence_furigana": "この【】方法【ほうほう】以外【いがい】に【】選択肢【せんたくし】は【】ない。",
+    "meaning": "There are no other options besides this method."
+  },
+  {
+    "sentence": "どちらの方にお住まいですか？",
+    "sentence_furigana": "どちらの【】方【ほう】に【】お【】住【す】まいですか？",
+    "meaning": "In which area do you live?"
+  },
+  {
+    "sentence": "彼女は新しいことを学ぶのが好きな方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】新【あたら】しい【】こと【】を【】学【まな】ぶのが【】好【す】きな【】方【かた】だ。",
+    "meaning": "She likes learning new things."
+  },
+  {
+    "sentence": "このやり方で大丈夫ですか？",
+    "sentence_furigana": "この【】やり方【かた】で【】大丈夫【だいじょうぶ】ですか？",
+    "meaning": "Is this way of doing things okay?"
+  },
+  {
+    "sentence": "彼は誠実な方だと評判だ。",
+    "sentence_furigana": "彼【かれ】は【】誠実【せいじつ】な【】方【かた】だと【】評判【ひょうばん】だ。",
+    "meaning": "He is reputed to be a sincere person."
+  },
+  {
+    "sentence": "この方法を試す価値はある。",
+    "sentence_furigana": "この【】方法【ほうほう】を【】試【こころ】す【】価値【かち】は【】ある。",
+    "meaning": "It is worth trying this method."
+  },
+  {
+    "sentence": "どちらか一方に絞り込んでください。",
+    "sentence_furigana": "どちらか【】一方【いっぽう】に【】絞【しぼ】り込【こ】んでください。",
+    "meaning": "Please narrow it down to one."
+  },
+  {
+    "sentence": "彼女は話し相手になってくれる方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】話【はな】し相手【あいて】に【】なってくれる【】方【かた】だ。",
+    "meaning": "She is someone who listens to me."
+  },
+  {
+    "sentence": "彼のやり方を真似てみよう。",
+    "sentence_furigana": "彼【かれ】の【】やり方【かた】を【】真似【まね】てみよう。",
+    "meaning": "Let's try to imitate his way of doing things."
+  },
+  {
+    "sentence": "南東の方角に美しい夕日が見える。",
+    "sentence_furigana": "南東【なんとう】の【】方角【ほうがく】に【】美【うつく】しい【】夕日【ゆうひ】が【】見【み】える。",
+    "meaning": "A beautiful sunset can be seen in the southeast direction."
+  },
+  {
+    "sentence": "彼は周りの人に気を配る方だ。",
+    "sentence_furigana": "彼【かれ】は【】周【まわ】り【】の【】人【ひと】に【】気【き】を【】配【くば】る【】方【かた】だ。",
+    "meaning": "He is considerate of those around him."
+  },
+  {
+    "sentence": "この方法を改善する必要がある。",
+    "sentence_furigana": "この【】方法【ほうほう】を【】改善【かいぜん】する【】必要【ひつよう】がある。",
+    "meaning": "This method needs to be improved."
+  },
+  {
+    "sentence": "どちらの選択肢がより良いですか？",
+    "sentence_furigana": "どちらの【】選択肢【せんたくし】が【】より【】良【よ】いですか？",
+    "meaning": "Which option is better?"
+  },
+  {
+    "sentence": "彼女は思いやりのある方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】思【おも】いやり【】の【】ある【】方【かた】だ。",
+    "meaning": "She is a compassionate person."
+  },
+  {
+    "sentence": "このやり方でうまくいくと思う。",
+    "sentence_furigana": "この【】やり方【かた】で【】うまくいくと【】思【おも】う。",
+    "meaning": "I think this method will work."
+  },
+  {
+    "sentence": "彼は常に学ぶ姿勢を持っている方だ。",
+    "sentence_furigana": "彼【かれ】は【】常【つね】に【】学【まな】ぶ【】姿勢【しせい】を【】持【も】っている【】方【かた】だ。",
+    "meaning": "He always has a learning attitude."
+  },
+  {
+    "sentence": "この方法は簡単です。",
+    "sentence_furigana": "この【】方法【ほうほう】は【】簡単【かんたん】です。",
+    "meaning": "This method is easy."
+  },
+  {
+    "sentence": "どちらの方でも結構です。",
+    "sentence_furigana": "どちらの【】方【ほう】でも【】結構【けっこう】です。",
+    "meaning": "Either way is fine."
+  },
+  {
+    "sentence": "彼女は人の話をしっかり聞く方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】人【ひと】の【】話【はな】しを【】しっかり【】聞【き】く【】方【かた】だ。",
+    "meaning": "She is someone who listens carefully to what people say."
+  },
+  {
+    "sentence": "このやり方では時間がかかりすぎない。",
+    "sentence_furigana": "この【】やり方【かた】では【】時間【じかん】がかかりすぎない。",
+    "meaning": "This method does not take too much time."
+  },
+  {
+    "sentence": "彼は新しいことに挑戦する方だ。",
+    "sentence_furigana": "彼【かれ】は【】新【あたら】しい【】こと【】に【】挑戦【ちょうせん】する【】方【かた】だ。",
+    "meaning": "He is the type to take on new challenges."
+  },
+  {
+    "sentence": "この方法が最善だと考えられます。",
+    "sentence_furigana": "この【】方法【ほうほう】が【】最善【さいぜん】だと【】考【かんが】えられます。",
+    "meaning": "This method can be considered the best."
+  },
+  {
+    "sentence": "どちらか一方に決めてください。",
+    "sentence_furigana": "どちらか【】一方【いっぽう】に【】決【き】めてください。",
+    "meaning": "Please decide on one side."
+  },
+  {
+    "sentence": "彼女はいつも元気に挨拶してくれる方です。",
+    "sentence_furigana": "彼女【かのじょ】は【】いつも【】元気【げんき】に【】挨拶【あいさつ】して【】くれる【】方【かた】です。",
+    "meaning": "She always greets me cheerfully."
+  },
+  {
+    "sentence": "このやり方には誰も反対しないだろう。",
+    "sentence_furigana": "この【】やり方【かた】には【】誰【だれ】も【】反対【はんたい】しないだろう。",
+    "meaning": "Nobody will oppose this way of doing things."
+  },
+  {
+    "sentence": "彼は周りのことをよく考えてくれる方だ。",
+    "sentence_furigana": "彼【かれ】は【】周【まわ】り【】の【】こと【】を【】よく【】考【かんが】えてくれる【】方【かた】だ。",
+    "meaning": "He always thinks about others."
+  },
+  {
+    "sentence": "この方法で多くの人が助けられた。",
+    "sentence_furigana": "この【】方法【ほうほう】で【】多【おお】く【】の【】人【ひと】が【】助【たす】けられた。",
+    "meaning": "Many people were helped by this method."
+  },
+  {
+    "sentence": "どちらの方向へ行けばいいですか？",
+    "sentence_furigana": "どちらの【】方向【ほうこう】へ【】行【い】けばいいですか？",
+    "meaning": "Which direction should I go?"
+  },
+  {
+    "sentence": "彼女は周りの意見を聞く方だ。",
+    "sentence_furigana": "彼女【かのじょ】は【】周【まわ】り【】の【】意見【いけん】を【】聞【き】く【】方【かた】だ。",
+    "meaning": "She is someone who listens to the opinions of others."
+  },
+  {
+    "sentence": "このやり方で進むしかありません。",
+    "sentence_furigana": "この【】やり方【かた】で【】進【すす】む【】しかありません。",
+    "meaning": "We have no choice but to proceed this way."
+  },
+  {
+    "sentence": "彼は常に感謝の気持ちを持つ方だ。",
+    "sentence_furigana": "彼【かれ】は【】常【つね】に【】感謝【かんしゃ】の【】気持【きも】ちを【】持【も】つ【】方【かた】だ。",
+    "meaning": "He always has a feeling of gratitude."
+  },
+  {
+    "sentence": "この方法で問題は解決した。",
+    "sentence_furigana": "この【】方法【ほうほう】で【】問題【もんだい】は【】解決【かいけつ】した。",
+    "meaning": "The problem was solved by this method."
+  }
+]

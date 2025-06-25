@@ -1,0 +1,567 @@
+[
+  {
+    "sentence": "彼は腕を大きく振って応援した。",
+    "sentence_furigana": "彼【かれ】は腕【うで】を大【おお】きく振【ふ】って応援【おうえん】した。",
+    "meaning": "He waved his arm widely to cheer."
+  },
+  {
+    "sentence": "旗を高く掲げて振った。",
+    "sentence_furigana": "旗【はた】を高【たか】く掲【かか】げて振【ふ】った。",
+    "meaning": "He held the flag high and waved it."
+  },
+  {
+    "sentence": "指揮者がタクトを振って演奏を始めた。",
+    "sentence_furigana": "指揮者【しきしゃ】がタクトを振【ふ】って演奏【えんそう】を始【はじ】めた。",
+    "meaning": "The conductor waved his baton and began the performance."
+  },
+  {
+    "sentence": "彼は激しく頭を振った。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しく頭【あたま】を振【ふ】った。",
+    "meaning": "He shook his head violently."
+  },
+  {
+    "sentence": "子供がおもちゃの剣を振っていた。",
+    "sentence_furigana": "子供【こども】がおもちゃの剣【けん】を振【ふ】っていた。",
+    "meaning": "The child was waving a toy sword."
+  },
+  {
+    "sentence": "彼は挨拶代わりに手を振った。",
+    "sentence_furigana": "彼【かれ】は挨拶代【あいさつが】わりに手【て】を振【ふ】った。",
+    "meaning": "He waved his hand as a greeting."
+  },
+  {
+    "sentence": "波が激しく打ち振っていた。",
+    "sentence_furigana": "波【なみ】が激【はげ】しく打【う】ち振【ふ】っていた。",
+    "meaning": "The waves were crashing violently."
+  },
+  {
+    "sentence": "彼女はショールを優雅に振った。",
+    "sentence_furigana": "彼女【かのじょ】はショールを優雅【ゆうが】に振【ふ】った。",
+    "meaning": "She waved her shawl elegantly."
+  },
+  {
+    "sentence": "彼は剣を抜き、刀を振るった。",
+    "sentence_furigana": "彼【かれ】は剣【けん】を抜【ぬ】き、刀【かたな】を振【ふ】るった。",
+    "meaning": "He drew his sword and swung it."
+  },
+  {
+    "sentence": "風が木々を激しく揺らしていた。",
+    "sentence_furigana": "風【かぜ】が木々【きぎ】を激【はげ】しく揺【ゆ】らしていた。",
+    "meaning": "The wind was shaking the trees vigorously."
+  },
+  {
+    "sentence": "選手がバンザイをして手を振った。",
+    "sentence_furigana": "選手【せんしゅ】がバンザイをして手【て】を振【ふ】った。",
+    "meaning": "The player cheered and waved their hands."
+  },
+  {
+    "sentence": "彼は怒って手を振り払った。",
+    "sentence_furigana": "彼【かれ】は怒【おこ】って手【て】を振【ふ】り払【はら】った。",
+    "meaning": "He angrily waved his hand away."
+  },
+  {
+    "sentence": "猫が尻尾を振って甘えてきた。",
+    "sentence_furigana": "猫【ねこ】が尻尾【しっぽ】を振【ふ】って甘【あま】えてきた。",
+    "meaning": "The cat wagged its tail and came to us affectionately."
+  },
+  {
+    "sentence": "監督が選手に指示を振っていた。",
+    "sentence_furigana": "監督【かんとく】が選手【せんしゅ】に指示【しじ】を振【ふ】っていた。",
+    "meaning": "The coach was signaling instructions to the players."
+  },
+  {
+    "sentence": "彼は首を振って否定した。",
+    "sentence_furigana": "彼【かれ】は首【くび】を振【ふ】って否定【ひてい】した。",
+    "meaning": "He shook his head in denial."
+  },
+  {
+    "sentence": "彼女は髪を振り乱して走った。",
+    "sentence_furigana": "彼女【かのじょ】は髪【かみ】を振【ふ】り乱【みだ】して走【はし】った。",
+    "meaning": "She ran with her hair flying."
+  },
+  {
+    "sentence": "彼は力強くハンマーを振るった。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】くハンマーを振【ふ】るった。",
+    "meaning": "He swung the hammer with strength."
+  },
+  {
+    "sentence": "子供たちが公園でブランコを振っていた。",
+    "sentence_furigana": "子供【こども】たちが公園【こうえん】でブランコを振【ふ】っていた。",
+    "meaning": "Children were swinging on the swings in the park."
+  },
+  {
+    "sentence": "彼は大きく腕を振って歩いていた。",
+    "sentence_furigana": "彼【かれ】は大き【おお】く腕【うで】を振【ふ】って歩【ある】いていた。",
+    "meaning": "He walked with his arms swinging widely."
+  },
+  {
+    "sentence": "彼女は悲しそうに首を振った。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しそうに首【くび】を振【ふ】った。",
+    "meaning": "She shook her head sadly."
+  },
+  {
+    "sentence": "彼はペンを振って話を進めた。",
+    "sentence_furigana": "彼【かれ】はペンを振【ふ】って話【はな】しを進【すす】めた。",
+    "meaning": "He gestured with his pen to move the conversation forward."
+  },
+  {
+    "sentence": "風で旗が勢いよく振られている。",
+    "sentence_furigana": "風【かぜ】で旗【はた】が勢【いきお】いよく振【ふ】られている。",
+    "meaning": "The flag is waving vigorously in the wind."
+  },
+  {
+    "sentence": "彼は手を振って別れを告げた。",
+    "sentence_furigana": "彼【かれ】は手【て】を振【ふ】って別【わか】れを告【つ】げた。",
+    "meaning": "He waved goodbye."
+  },
+  {
+    "sentence": "彼女は歓声に応えて手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は歓声【かんせい】に応【こた】えて手【て】を振【ふ】った。",
+    "meaning": "She waved in response to the cheers."
+  },
+  {
+    "sentence": "彼は帽子を振って挨拶した。",
+    "sentence_furigana": "彼【かれ】は帽子【ぼうし】を振【ふ】って挨拶【あいさつ】した。",
+    "meaning": "He greeted by waving his hat."
+  },
+  {
+    "sentence": "彼は太鼓を振ってリズムを取っていた。",
+    "sentence_furigana": "彼【かれ】は太鼓【たいこ】を振【ふ】ってリズムを取【と】っていた。",
+    "meaning": "He was keeping the rhythm by shaking a drum."
+  },
+  {
+    "sentence": "彼はナイフを振るって脅かしてきた。",
+    "sentence_furigana": "彼【かれ】はナイフを振【ふ】るって脅【おど】かしてきた。",
+    "meaning": "He threatened us by brandishing a knife."
+  },
+  {
+    "sentence": "彼女は喜んで手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は喜【よろこ】んで手【て】を振【ふ】った。",
+    "meaning": "She waved happily."
+  },
+  {
+    "sentence": "彼は悲しみに耐えかねて首を振った。",
+    "sentence_furigana": "彼【かれ】は悲【かな】しみに耐【た】えかねて首【くび】を振【ふ】った。",
+    "meaning": "Unable to bear the sadness, he shook his head."
+  },
+  {
+    "sentence": "彼は悔しそうに頭を振った。",
+    "sentence_furigana": "彼【かれ】は悔【くや】しそうに頭【あたま】を振【ふ】った。",
+    "meaning": "He shook his head as if frustrated."
+  },
+  {
+    "sentence": "彼女は興奮して旗を振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は興奮【こうふん】して旗【はた】を振【ふ】っていた。",
+    "meaning": "She was waving a flag excitedly."
+  },
+  {
+    "sentence": "彼は失望して首を振った。",
+    "sentence_furigana": "彼【かれ】は失望【しつぼう】して首【くび】を振【ふ】った。",
+    "meaning": "He shook his head in disappointment."
+  },
+  {
+    "sentence": "彼女は教師に呼ばれて手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は教師【きょうし】に呼【よ】ばれて手【て】を振【ふ】った。",
+    "meaning": "The teacher called her, and she waved."
+  },
+  {
+    "sentence": "彼は無言で首を振った。",
+    "sentence_furigana": "彼【かれ】は無言【むごん】で首【くび】を振【ふ】った。",
+    "meaning": "He shook his head wordlessly."
+  },
+  {
+    "sentence": "彼女は手を振って子供たちを呼んだ。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って子供【こども】たちを呼【よ】んだ。",
+    "meaning": "She waved to call the children."
+  },
+  {
+    "sentence": "彼は斧を振るって木を切った。",
+    "sentence_furigana": "彼【かれ】は斧【おの】を振【ふ】るって木【き】を切【き】った。",
+    "meaning": "He chopped down the tree by swinging an axe."
+  },
+  {
+    "sentence": "彼女は楽しそうに手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は楽【たの】しそうに手【て】を振【ふ】った。",
+    "meaning": "She waved cheerfully."
+  },
+  {
+    "sentence": "彼は懐から何かを取り出して振った。",
+    "sentence_furigana": "彼【かれ】は懐【ふところ】から何【なに】かを取【と】り出【だ】して振【ふ】った。",
+    "meaning": "He took something out of his pocket and waved it."
+  },
+  {
+    "sentence": "彼女は困ったように首を振った。",
+    "sentence_furigana": "彼女【かのじょ】は困【こま】ったように首【くび】を振【ふ】った。",
+    "meaning": "She shook her head as if troubled."
+  },
+  {
+    "sentence": "彼は扇子を振って涼をとっていた。",
+    "sentence_furigana": "彼【かれ】は扇子【せんす】を振【ふ】って涼【すず】をとっていた。",
+    "meaning": "He was cooling himself by fanning with a fan."
+  },
+  {
+    "sentence": "彼女は別れを惜しんで手を振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は別【わか】れを惜【お】しんで手【て】を振【ふ】っていた。",
+    "meaning": "She was waving goodbye, reluctant to part."
+  },
+  {
+    "sentence": "彼は激しく肩を振った。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しく肩【かた】を振【ふ】った。",
+    "meaning": "He shook his shoulders vigorously."
+  },
+  {
+    "sentence": "彼女は微笑んで手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は微笑【ほほえ】んで手【て】を振【ふ】った。",
+    "meaning": "She smiled and waved."
+  },
+  {
+    "sentence": "彼は力いっぱい棒を振るった。",
+    "sentence_furigana": "彼【かれ】は力いっぱい棒【ぼう】を振【ふ】るった。",
+    "meaning": "He swung the stick with all his might."
+  },
+  {
+    "sentence": "彼女は驚いて首を振った。",
+    "sentence_furigana": "彼女【かのじょ】は驚【おどろ】いて首【くび】を振【ふ】った。",
+    "meaning": "She shook her head in surprise."
+  },
+  {
+    "sentence": "彼は手を振り回して歩いていた。",
+    "sentence_furigana": "彼【かれ】は手【て】を振【ふ】り回【まわ】して歩【ある】いていた。",
+    "meaning": "He walked with his hands swinging."
+  },
+  {
+    "sentence": "彼女は応援のために旗を振った。",
+    "sentence_furigana": "彼女【かのじょ】は応援【おうえん】のために旗【はた】を振【ふ】った。",
+    "meaning": "She waved a flag to cheer."
+  },
+  {
+    "sentence": "彼は無関心そうに首を振った。",
+    "sentence_furigana": "彼【かれ】は無関心【むかんしん】そうに首【くび】を振【ふ】った。",
+    "meaning": "He shook his head indifferently."
+  },
+  {
+    "sentence": "彼女は興奮で体を揺らしていた。",
+    "sentence_furigana": "彼女【かのじょ】は興奮【こうふん】で体【からだ】を揺【ゆ】らしていた。",
+    "meaning": "She was shaking her body with excitement."
+  },
+  {
+    "sentence": "彼は指示に従って旗を振った。",
+    "sentence_furigana": "彼【かれ】は指示【しじ】に従【したが】って旗【はた】を振【ふ】った。",
+    "meaning": "He waved the flag according to instructions."
+  },
+  {
+    "sentence": "彼女は否定するように首を振った。",
+    "sentence_furigana": "彼女【かのじょ】は否定【ひてい】するように首【くび】を振【ふ】った。",
+    "meaning": "She shook her head as if to deny it."
+  },
+  {
+    "sentence": "彼は大きな声を出しながら手を振った。",
+    "sentence_furigana": "彼【かれ】は大き【おお】い声【こえ】を出【だ】しながら手【て】を振【ふ】った。",
+    "meaning": "He waved his hands while shouting loudly."
+  },
+  {
+    "sentence": "彼女は失望したようにため息をついた。",
+    "sentence_furigana": "彼女【かのじょ】は失望【しつぼう】したようにため息【いき】をついた。",
+    "meaning": "She sighed as if disappointed."
+  },
+  {
+    "sentence": "彼は剣を振るって敵に立ち向かった。",
+    "sentence_furigana": "彼【かれ】は剣【けん】を振【ふ】るって敵【てき】に立【た】ち向【む】かった。",
+    "meaning": "He faced the enemy, swinging his sword."
+  },
+  {
+    "sentence": "彼女は微笑みながら手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は微笑【ほほえ】みながら手【て】を振【ふ】った。",
+    "meaning": "She smiled and waved."
+  },
+  {
+    "sentence": "彼は力強く腕を振って走った。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】く腕【うで】を振【ふ】って走【はし】った。",
+    "meaning": "He ran with his arms swinging powerfully."
+  },
+  {
+    "sentence": "彼女は別れを惜しんで、ずっと手を振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は別【わか】れを惜【お】しんで、ずっと手【て】を振【ふ】っていた。",
+    "meaning": "She was reluctant to part and kept waving her hand."
+  },
+  {
+    "sentence": "彼は指揮者の指示に従って動いた。",
+    "sentence_furigana": "彼【かれ】は指揮者【しきしゃ】の指示【しじ】に従【したが】って動【うご】いた。",
+    "meaning": "He moved according to the conductor's instructions."
+  },
+  {
+    "sentence": "彼女は歓声に応えて手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は歓声【かんせい】に応【こた】えて手【て】を振【ふ】った。",
+    "meaning": "She waved in response to the cheers."
+  },
+  {
+    "sentence": "彼は興奮してマイクを振った。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】してマイクを振【ふ】った。",
+    "meaning": "He waved the microphone in excitement."
+  },
+  {
+    "sentence": "彼女は首を振って、もう必要ないと言った。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って、もう必要【ひつよう】ないと言【い】った。",
+    "meaning": "She shook her head and said it was no longer necessary."
+  },
+  {
+    "sentence": "彼は悔しさを噛み殺して首を振った。",
+    "sentence_furigana": "彼【かれ】は悔【くや】しさを噛【か】み殺【ころ】して首【くび】を振【ふ】った。",
+    "meaning": "He swallowed his frustration and shook his head."
+  },
+  {
+    "sentence": "彼女は教師に呼ばれ、手を振って応えた。",
+    "sentence_furigana": "彼女【かのじょ】は教師【きょうし】に呼【よ】ばれ、手【て】を振【ふ】って応【こた】えた。",
+    "meaning": "The teacher called her, and she waved in response."
+  },
+  {
+    "sentence": "彼は無言で首を振り、立ち去った。",
+    "sentence_furigana": "彼【かれ】は無言【むごん】で首【くび】を振【ふ】り、立【た】ち去【さ】った。",
+    "meaning": "He shook his head wordlessly and left."
+  },
+  {
+    "sentence": "彼女は手を振って子供たちの注意を引いた。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って子供【こども】たちの注意【ちゅうい】を引【ひ】いた。",
+    "meaning": "She waved her hands to get the children's attention."
+  },
+  {
+    "sentence": "彼は力強く斧を振るった。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】く斧【おの】を振【ふ】るった。",
+    "meaning": "He swung the axe powerfully."
+  },
+  {
+    "sentence": "彼女は楽しそうにブランコを振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は楽【たの】しそうにブランコを振【ふ】っていた。",
+    "meaning": "She was swinging on the swing joyfully."
+  },
+  {
+    "sentence": "彼は扇子を扇いで暑さをしのいだ。",
+    "sentence_furigana": "彼【かれ】は扇子【せんす】を扇【あお】いで暑【あつ】さをしのいだ。",
+    "meaning": "He fanned himself with a fan to escape the heat."
+  },
+  {
+    "sentence": "彼女は別れを惜しみ、長い間手を振っていた。",
+    "sentence_furigana": "彼女【かのじょ】は別【わか】れを惜【お】しみ、長【なが】い間【あいだ】手【て】を振【ふ】っていた。",
+    "meaning": "She was reluctant to part and waved her hand for a long time."
+  },
+  {
+    "sentence": "彼は肩をすくめて、知らないとでも言うように首を振った。",
+    "sentence_furigana": "彼【かれ】は肩【かた】をすくめて、知【し】らないとでも言【い】うように首【くび】を振【ふ】った。",
+    "meaning": "He shrugged and shook his head as if to say he didn't know."
+  },
+  {
+    "sentence": "彼女は優雅に手を振り、挨拶した。",
+    "sentence_furigana": "彼女【かのじょ】は優雅【ゆうが】に手【て】を振【ふ】り、挨拶【あいさつ】した。",
+    "meaning": "She waved gracefully and greeted."
+  },
+  {
+    "sentence": "彼は興奮してボールを振った。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】してボールを振【ふ】った。",
+    "meaning": "He swung the ball excitedly."
+  },
+  {
+    "sentence": "彼女は困惑して首を振った。",
+    "sentence_furigana": "彼女【かのじょ】は困惑【こんわく】して首【くび】を振【ふ】った。",
+    "meaning": "She shook her head in confusion."
+  },
+  {
+    "sentence": "彼は杖を振って歩道を歩いていた。",
+    "sentence_furigana": "彼【かれ】は杖【つえ】を振【ふ】って歩道【ほどう】を歩【ある】いていた。",
+    "meaning": "He walked along the sidewalk, swinging his cane."
+  },
+  {
+    "sentence": "彼女は手を振って、元気でと伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、元気【げんき】でと伝【つた】えた。",
+    "meaning": "She waved and told him to take care."
+  },
+  {
+    "sentence": "彼は雨が降るのを待って首を振った。",
+    "sentence_furigana": "彼【かれ】は雨【あめ】が降【ふ】るのを待【ま】って首【くび】を振【ふ】った。",
+    "meaning": "He shook his head, waiting for it to rain."
+  },
+  {
+    "sentence": "彼女は軽やかに髪を振って歩いた。",
+    "sentence_furigana": "彼女【かのじょ】は軽【かる】やかに髪【かみ】を振【ふ】って歩【ある】いた。",
+    "meaning": "She walked with her hair lightly swaying."
+  },
+  {
+    "sentence": "彼は激しく頭を振って否定した。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しく頭【あたま】を振【ふ】って否定【ひてい】した。",
+    "meaning": "He shook his head vigorously in denial."
+  },
+  {
+    "sentence": "彼女は微笑んで手を振って別れた。",
+    "sentence_furigana": "彼女【かのじょ】は微笑【ほほえ】んで手【て】を振【ふ】って別【わか】れた。",
+    "meaning": "She smiled and waved goodbye."
+  },
+  {
+    "sentence": "彼は悔しそうに剣を振るった。",
+    "sentence_furigana": "彼【かれ】は悔【くや】しそうに剣【けん】を振【ふ】るった。",
+    "meaning": "He swung his sword as if frustrated."
+  },
+  {
+    "sentence": "彼女は応援席に向かって手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は応援席【おうえんせき】に向【む】かって手【て】を振【ふ】った。",
+    "meaning": "She waved towards the cheering section."
+  },
+  {
+    "sentence": "彼は満足そうに頷いた後、首を振った。",
+    "sentence_furigana": "彼【かれ】は満足【まんぞく】そうに頷【うなず】いた後【あと】、首【くび】を振【ふ】った。",
+    "meaning": "After nodding with satisfaction, he shook his head."
+  },
+  {
+    "sentence": "彼女は手を振って、また会おうと言った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、また会【あ】おうと言【い】った。",
+    "meaning": "She waved and said, 'Let's meet again.'"
+  },
+  {
+    "sentence": "彼は剣を振るう練習をした。",
+    "sentence_furigana": "彼【かれ】は剣【けん】を振【ふ】るう練習【れんしゅう】をした。",
+    "meaning": "He practiced swinging a sword."
+  },
+  {
+    "sentence": "彼女は手を振って、自分に気づいてくれるのを待った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、自分【じぶん】に気付【きづ】いてくれるのを待【ま】った。",
+    "meaning": "She waved, waiting to be noticed."
+  },
+  {
+    "sentence": "彼は悲しげに首を振って、過去を振り返った。",
+    "sentence_furigana": "彼【かれ】は悲【かな】しげに首【くび】を振【ふ】って、過去【かこ】を振【ふ】り返【かえ】った。",
+    "meaning": "He shook his head sadly and looked back on the past."
+  },
+  {
+    "sentence": "彼女は軽やかに手を振って、走り去った。",
+    "sentence_furigana": "彼女【かのじょ】は軽【かる】やかに手【て】を振【ふ】って、走【はし】り去【さ】った。",
+    "meaning": "She waved lightly and ran off."
+  },
+  {
+    "sentence": "彼は力強くハンマーを振り下ろした。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】くハンマーを振【ふ】り下【お】ろした。",
+    "meaning": "He brought the hammer down with force."
+  },
+  {
+    "sentence": "彼女は手を振って、遠くへ行ってしまった。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、遠【とお】くへ行【い】ってしまった。",
+    "meaning": "She waved her hand and went far away."
+  },
+  {
+    "sentence": "彼は興奮してバットを振った。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】してバットを振【ふ】った。",
+    "meaning": "He swung the bat excitedly."
+  },
+  {
+    "sentence": "彼女は首を振って、申し訳ないと伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って、申【もう】し訳【わけ】ないと伝【つた】えた。",
+    "meaning": "She shook her head to convey her apology."
+  },
+  {
+    "sentence": "彼は力強く斧を振りかぶった。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】く斧【おの】を振【ふ】りかぶった。",
+    "meaning": "He raised the axe high with strength."
+  },
+  {
+    "sentence": "彼女は手を振って、別れを惜しんだ。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、別【わか】れを惜【お】しんだ。",
+    "meaning": "She waved her hand, reluctant to part."
+  },
+  {
+    "sentence": "彼は激しく剣を振るって戦った。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しく剣【けん】を振【ふ】るって戦【たたか】った。",
+    "meaning": "He fought, swinging his sword fiercely."
+  },
+  {
+    "sentence": "彼女は大きく手を振って、歓声に応えた。",
+    "sentence_furigana": "彼女【かのじょ】は大き【おお】く手【て】を振【ふ】って、歓声【かんせい】に応【こた】えた。",
+    "meaning": "She waved her hands widely in response to the cheers."
+  },
+  {
+    "sentence": "彼は怒りに任せて首を振った。",
+    "sentence_furigana": "彼【かれ】は怒【いか】りに任【まか】せて首【くび】を振【ふ】った。",
+    "meaning": "He shook his head in anger."
+  },
+  {
+    "sentence": "彼女は幸せそうに手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は幸【しあわ】せそうに手【て】を振【ふ】った。",
+    "meaning": "She waved happily."
+  },
+  {
+    "sentence": "彼は力強くハンマーを振るって物を作っていた。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】くハンマーを振【ふ】るって物【もの】を造【つく】っていた。",
+    "meaning": "He was making things by swinging a hammer powerfully."
+  },
+  {
+    "sentence": "彼女は手を振って、元気でねと伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、元気【げんき】でねと伝【つた】えた。",
+    "meaning": "She waved and said, 'Take care.'"
+  },
+  {
+    "sentence": "彼は悔しそうに地面を蹴って首を振った。",
+    "sentence_furigana": "彼【かれ】は悔【くや】しそうに地面【じめん】を蹴【け】って首【くび】を振【ふ】った。",
+    "meaning": "He kicked the ground in frustration and shook his head."
+  },
+  {
+    "sentence": "彼女は別れを惜しむように、何度も手を振った。",
+    "sentence_furigana": "彼女【かのじょ】は別【わか】れを惜【お】しむように、何度【なんど】も手【て】を振【ふ】った。",
+    "meaning": "She waved her hands repeatedly, reluctant to part."
+  },
+  {
+    "sentence": "彼は興奮して手を振り回しながら話した。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】して手【て】を振【ふ】り回【まわ】しながら話【はな】した。",
+    "meaning": "He spoke with his hands waving excitedly."
+  },
+  {
+    "sentence": "彼女は手を振って、早く来てと合図した。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、早【はや】く来【く】てと合図【あいず】した。",
+    "meaning": "She waved to signal him to come quickly."
+  },
+  {
+    "sentence": "彼は力強く斧を振るって、薪を作った。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】く斧【おの】を振【ふ】るって薪【まき】を作【つく】った。",
+    "meaning": "He chopped wood by swinging an axe powerfully."
+  },
+  {
+    "sentence": "彼女は大きく手を振って、別れを告げた。",
+    "sentence_furigana": "彼女【かのじょ】は大き【おお】く手【て】を振【ふ】って、別【わか】れを告【つ】げた。",
+    "meaning": "She waved her hands widely and said goodbye."
+  },
+  {
+    "sentence": "彼は興奮してバットを振るう音が響いた。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】してバットを振【ふ】るう音【おと】が響【ひび】いた。",
+    "meaning": "The sound of him swinging the bat excitedly echoed."
+  },
+  {
+    "sentence": "彼女は悲しげに首を振り、うつむいた。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しげに首【くび】を振【ふ】り、うつむいた。",
+    "meaning": "She shook her head sadly and looked down."
+  },
+  {
+    "sentence": "彼は力強く腕を振って、山道を登っていった。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】く腕【うで】を振【ふ】って、山道【やまみち】を登【のぼ】っていった。",
+    "meaning": "He climbed the mountain path, swinging his arms powerfully."
+  },
+  {
+    "sentence": "彼女は手を振って、またすぐに会えることを願った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、またすぐ会【あ】えることを願【ねが】った。",
+    "meaning": "She waved, hoping to meet again soon."
+  },
+  {
+    "sentence": "彼は興奮して自分の計画を振りかざした。",
+    "sentence_furigana": "彼【かれ】は興奮【こうふん】して自分【じぶん】の計画【けいかく】を振【ふ】りかざした。",
+    "meaning": "He excitedly brandished his plan."
+  },
+  {
+    "sentence": "彼女は首を振って、そんなことはないと否定した。",
+    "sentence_furigana": "彼女【かのじょ】は首【くび】を振【ふ】って、そんなことはないと否定【ひてい】した。",
+    "meaning": "She shook her head and denied that."
+  },
+  {
+    "sentence": "彼は力強く槍を振るった。",
+    "sentence_furigana": "彼【かれ】は力強【ちからづよ】く槍【やり】を振【ふ】るった。",
+    "meaning": "He swung the spear powerfully."
+  },
+  {
+    "sentence": "彼女は手を振って、元気でねと言いながら去った。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を振【ふ】って、元気【げんき】でねと言【い】いながら去【さ】った。",
+    "meaning": "She waved and said, 'Take care,' as she departed."
+  }
+]

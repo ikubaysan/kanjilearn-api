@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "雌鶏がコッコと鳴いている。",
+    "sentence_furigana": "雌【め】鶏【どり】がコッコと鳴【な】いている。",
+    "meaning": "The hen is clucking."
+  },
+  {
+    "sentence": "雌牛は子牛を産んだ。",
+    "sentence_furigana": "雌【め】牛【うし】は子牛【こうし】を産【う】んだ。",
+    "meaning": "The cow gave birth to a calf."
+  },
+  {
+    "sentence": "この動物の雌は美しい。",
+    "sentence_furigana": "この動物【どうぶつ】の雌【め】は美【うつく】しい。",
+    "meaning": "The female of this animal is beautiful."
+  },
+  {
+    "sentence": "彼は雄々しく、彼女は雌として優雅だ。",
+    "sentence_furigana": "彼【かれ】は雄々【おお】しく、彼女【かのじょ】は雌【め】として優雅【ゆうが】だ。",
+    "meaning": "He is masculine, and she is feminine and elegant."
+  },
+  {
+    "sentence": "雌のライオンは狩りをする。",
+    "sentence_furigana": "雌【め】のライオンは狩【か】りをする。",
+    "meaning": "Lionesses hunt."
+  },
+  {
+    "sentence": "雌蜂は巣作りに忙しい。",
+    "sentence_furigana": "雌【め】蜂【ばち】は巣作【すづく】りに忙【いそが】しい。",
+    "meaning": "The female bees are busy building the hive."
+  },
+  {
+    "sentence": "雌猿は子供を抱きかかえている。",
+    "sentence_furigana": "雌【め】猿【ざる】は子供【こども】を抱【いだ】きかかえている。",
+    "meaning": "The female monkey is holding her child."
+  },
+  {
+    "sentence": "雌の蝶が花に止まった。",
+    "sentence_furigana": "雌【め】の蝶【ちょう】が花【はな】に止【と】まった。",
+    "meaning": "A female butterfly landed on the flower."
+  },
+  {
+    "sentence": "この鳥は雌雄同体ではない。",
+    "sentence_furigana": "この鳥【とり】は雌雄同体【しゆうどうたい】ではない。",
+    "meaning": "This bird is not hermaphroditic."
+  },
+  {
+    "sentence": "雌犬は子犬を九匹産んだ。",
+    "sentence_furigana": "雌【め】犬【いぬ】は子犬【こいぬ】を九匹【きゅうひき】産【う】んだ。",
+    "meaning": "The female dog gave birth to nine puppies."
+  },
+  {
+    "sentence": "雌猫が日向で昼寝をしている。",
+    "sentence_furigana": "雌【め】猫【ねこ】が日向【ひなた】で昼寝【ひるね】をしている。",
+    "meaning": "The female cat is napping in the sun."
+  },
+  {
+    "sentence": "雌馬はとても速く走る。",
+    "sentence_furigana": "雌【め】馬【うま】はとても速【はや】く走【はし】る。",
+    "meaning": "The mare runs very fast."
+  },
+  {
+    "sentence": "雌のイルカが赤ちゃんを連れて泳いでいた。",
+    "sentence_furigana": "雌【め】のイルカが赤【あか】ちゃんを連【つ】れて泳【およ】いでいた。",
+    "meaning": "The female dolphin was swimming with her baby."
+  },
+  {
+    "sentence": "彼女は男性的なキャラクターと雌的なキャラクターの両方を演じることができる。",
+    "sentence_furigana": "彼女【かのじょ】は男性【だんせい】的【てき】なキャラクターと雌【め】的【てき】なキャラクターの両方【りょうほう】を演【えん】じることができる。",
+    "meaning": "She can play both masculine and feminine characters."
+  },
+  {
+    "sentence": "その動物の性別は雌です。",
+    "sentence_furigana": "その動物【どうぶつ】の性別【せいべつ】は雌【め】です。",
+    "meaning": "The sex of that animal is female."
+  },
+  {
+    "sentence": "雌の象は群れを率いることが多い。",
+    "sentence_furigana": "雌【め】の象【ぞう】は群【む】れを率【ひき】いることが多【おお】い。",
+    "meaning": "Female elephants often lead the herd."
+  },
+  {
+    "sentence": "雌のオオカミは子育てに参加する。",
+    "sentence_furigana": "雌【め】のオオカミは子育【こそだ】てに参加【さんか】する。",
+    "meaning": "Female wolves participate in raising the young."
+  },
+  {
+    "sentence": "雌のクジャクの羽は地味だ。",
+    "sentence_furigana": "雌【め】のクジャクの羽【はね】は地味【じみ】だ。",
+    "meaning": "The feathers of a peahen are plain."
+  },
+  {
+    "sentence": "この虫は雌雄で形が違う。",
+    "sentence_furigana": "この虫【むし】は雌雄【しゆう】で形【かたち】が違【ちが】う。",
+    "meaning": "The shape of this insect differs between male and female."
+  },
+  {
+    "sentence": "雌ヤギが子ヤギを舐めている。",
+    "sentence_furigana": "雌【め】ヤギが子ヤギを舐【な】めている。",
+    "meaning": "The female goat is licking her kid."
+  },
+  {
+    "sentence": "その絵画は雄と雌の鳥を描いている。",
+    "sentence_furigana": "その絵画【かいが】は雄【ゆう】と雌【め】の鳥【とり】を描【か】いている。",
+    "meaning": "The painting depicts a male and female bird."
+  },
+  {
+    "sentence": "雌の馬は特に穏やかな性格をしている。",
+    "sentence_furigana": "雌【め】の馬【うま】は特【とく】に穏【おだ】やかな性格【せいかく】をしている。",
+    "meaning": "The mare has a particularly calm temperament."
+  },
+  {
+    "sentence": "雌のカンガルーは育児嚢で子供を運ぶ。",
+    "sentence_furigana": "雌【め】のカンガルーは育児嚢【いくじのう】で子供【こども】を運【はこ】ぶ。",
+    "meaning": "The female kangaroo carries her joey in her pouch."
+  },
+  {
+    "sentence": "雌はより大きな声で鳴いた。",
+    "sentence_furigana": "雌【め】はより大【おお】きな声【こえ】で鳴【な】いた。",
+    "meaning": "The female made a louder cry."
+  },
+  {
+    "sentence": "野生の雌ライオンの生態を研究している。",
+    "sentence_furigana": "野生【やせい】の雌【め】ライオンの生態【せいたい】を研究【けんきゅう】している。",
+    "meaning": "I am studying the ecology of wild lionesses."
+  },
+  {
+    "sentence": "この魚は雌雄で模様が違う。",
+    "sentence_furigana": "この魚【さかな】は雌雄【しゆう】で模様【もよう】が違【ちが】う。",
+    "meaning": "The pattern of this fish differs between male and female."
+  },
+  {
+    "sentence": "雌のゾウリムシは単為生殖をする。",
+    "sentence_furigana": "雌【め】のゾウリムシは単為生殖【たんいせいしょく】をする。",
+    "meaning": "Female paramecia reproduce asexually."
+  },
+  {
+    "sentence": "雌は雄よりも体が小さい傾向がある。",
+    "sentence_furigana": "雌【め】は雄【ゆう】よりも体【からだ】が小【ちい】さい傾向【けいこう】がある。",
+    "meaning": "Females tend to be smaller than males."
+  },
+  {
+    "sentence": "雌のキツネは巣穴で子育てをする。",
+    "sentence_furigana": "雌【め】のキツネは巣穴【すあな】で子育【こそだ】てをする。",
+    "meaning": "The vixen raises her cubs in the den."
+  },
+  {
+    "sentence": "雌鳥が卵を温めている。",
+    "sentence_furigana": "雌【め】鳥【どり】が卵【たまご】を温【あたた】めている。",
+    "meaning": "The hen is incubating the eggs."
+  },
+  {
+    "sentence": "雌のペンギンは魚を捕りに行く。",
+    "sentence_furigana": "雌【め】のペンギンは魚【さかな】を捕【と】りに行【い】く。",
+    "meaning": "The female penguin goes to catch fish."
+  },
+  {
+    "sentence": "雌狼は獲物を牽引した。",
+    "sentence_furigana": "雌【め】狼【おおかみ】は獲物【えもの】を牽引【けんいん】した。",
+    "meaning": "The she-wolf pulled the prey."
+  },
+  {
+    "sentence": "この花は雌蕊が発達している。",
+    "sentence_furigana": "この花【はな】は雌【め】しべが発達【はったつ】している。",
+    "meaning": "The pistil of this flower is well-developed."
+  },
+  {
+    "sentence": "雌の馬のたてがみは滑らかだ。",
+    "sentence_furigana": "雌【め】の馬【うま】のたてがみは滑【なめ】らかだ。",
+    "meaning": "The mare's mane is smooth."
+  },
+  {
+    "sentence": "雌の象徴は生命力を表す。",
+    "sentence_furigana": "雌【め】の象徴【しょうちょう】は生命力【せいめいりょく】を表【あらわ】す。",
+    "meaning": "The feminine symbol represents vitality."
+  },
+  {
+    "sentence": "雌ライオンは狩りの主導権を握っている。",
+    "sentence_furigana": "雌【め】ライオンは狩【か】りの主導権【しゅどうけん】を握【にぎ】っている。",
+    "meaning": "Lionesses take the lead in hunting."
+  },
+  {
+    "sentence": "雌のキリンは首が短い。",
+    "sentence_furigana": "雌【め】のキリンは首【くび】が短【みじか】い。",
+    "meaning": "Female giraffes have shorter necks."
+  },
+  {
+    "sentence": "雌雄の違いを学ぶ。",
+    "sentence_furigana": "雌雄【しゆう】の違い【ちがい】を学【まな】ぶ。",
+    "meaning": "Learn the differences between males and females."
+  },
+  {
+    "sentence": "雌の鶏が雛を連れている。",
+    "sentence_furigana": "雌【め】の鶏【にわとり】が雛【ひな】を連【つ】れている。",
+    "meaning": "The hen is leading her chicks."
+  },
+  {
+    "sentence": "雌の馬に乗って駆け出した。",
+    "sentence_furigana": "雌【め】の馬【うま】に乗【の】って駆【か】け出【だ】した。",
+    "meaning": "I rode the mare and galloped away."
+  },
+  {
+    "sentence": "雌のクジラは繁殖期に特定の場所へ移動する。",
+    "sentence_furigana": "雌【め】のクジラは繁殖期【はんしょくき】に特定【とくてい】の場所【ばしょ】へ移動【いどう】する。",
+    "meaning": "Female whales migrate to specific locations during the breeding season."
+  },
+  {
+    "sentence": "この植物は雌雄異株です。",
+    "sentence_furigana": "この植物【しょくぶつ】は雌雄異株【しゆういかぶ】です。",
+    "meaning": "This plant is dioecious."
+  },
+  {
+    "sentence": "雌のオオカミは群れの中で尊敬されている。",
+    "sentence_furigana": "雌【め】のオオカミは群【む】の中【なか】で尊敬【そんけい】されている。",
+    "meaning": "The female wolf is respected within the pack."
+  },
+  {
+    "sentence": "雌のリスは木の実を集めている。",
+    "sentence_furigana": "雌【め】のリスは木の実【きのみ】を集【あつ】めている。",
+    "meaning": "The female squirrel is gathering nuts."
+  },
+  {
+    "sentence": "雌の馬は穏やかな性格で知られている。",
+    "sentence_furigana": "雌【め】の馬【うま】は穏【おだ】やかな性格【せいかく】で知【し】られている。",
+    "meaning": "The mare is known for its gentle nature."
+  },
+  {
+    "sentence": "雌の鹿は子供を守る。",
+    "sentence_furigana": "雌【め】の鹿【しか】は子供【こども】を守【まも】る。",
+    "meaning": "The doe protects her fawn."
+  },
+  {
+    "sentence": "雌のオウムは色鮮やかだ。",
+    "sentence_furigana": "雌【め】のオウムは色鮮【いろあざ】やかだ。",
+    "meaning": "The female parrot is colorful."
+  },
+  {
+    "sentence": "雌のウサギは巣穴を掘る。",
+    "sentence_furigana": "雌【め】のウサギは巣穴【すあな】を掘【ほ】る。",
+    "meaning": "The doe rabbit digs a burrow."
+  },
+  {
+    "sentence": "雌のパンサーは子供たちに狩りを教えている。",
+    "sentence_furigana": "雌【め】のパンサーは子供【こども】たちに狩【か】りを教【おし】えている。",
+    "meaning": "The female panther is teaching her cubs to hunt."
+  },
+  {
+    "sentence": "その動物の雌は珍しい。",
+    "sentence_furigana": "その動物【どうぶつ】の雌【め】は珍【めずら】しい。",
+    "meaning": "The female of that animal is rare."
+  },
+  {
+    "sentence": "雌の豚が子豚を連れて歩いている。",
+    "sentence_furigana": "雌【め】の豚【ぶた】が子豚【こぶた】を連【つ】れて歩【ある】いている。",
+    "meaning": "The sow is walking with her piglets."
+  },
+  {
+    "sentence": "雌の馬は雄馬より乗りやすい。",
+    "sentence_furigana": "雌【め】の馬【うま】は雄馬【おうま】より乗【の】りやすい。",
+    "meaning": "The mare is easier to ride than the stallion."
+  },
+  {
+    "sentence": "雌のライオンは群れを率いる役割を担っている。",
+    "sentence_furigana": "雌【め】のライオンは群【む】れを率【ひき】いる役割【やくわり】を担【にな】っている。",
+    "meaning": "Lionesses play a role in leading the pride."
+  },
+  {
+    "sentence": "雌雄の違いに着目する。",
+    "sentence_furigana": "雌雄【しゆう】の違い【ちがい】に着目【ちゃくもく】する。",
+    "meaning": "Focus on the differences between males and females."
+  },
+  {
+    "sentence": "雌の猫が子猫を優しく舐めている。",
+    "sentence_furigana": "雌【め】の猫【ねこ】が子猫【こねこ】を優【やさ】しく舐【な】めている。",
+    "meaning": "The female cat is gently licking her kitten."
+  },
+  {
+    "sentence": "雌のイルカは愛情深く子育てをする。",
+    "sentence_furigana": "雌【め】のイルカは愛情深【あいじょうぶか】く子育【こそだ】てをする。",
+    "meaning": "Female dolphins are affectionate mothers."
+  },
+  {
+    "sentence": "雌雄のコントラストが魅力的だ。",
+    "sentence_furigana": "雌雄【しゆう】のコントラストが魅力的【みりょくてき】だ。",
+    "meaning": "The contrast between masculine and feminine is attractive."
+  },
+  {
+    "sentence": "雌のオオカミは獲物を守る。",
+    "sentence_furigana": "雌【め】のオオカミは獲物【えもの】を守【まも】る。",
+    "meaning": "The she-wolf guards the prey."
+  },
+  {
+    "sentence": "雌の馬の嘶きが響いた。",
+    "sentence_furigana": "雌【め】の馬【うま】の嘶【いな】なきが響【ひび】いた。",
+    "meaning": "The mare's neigh echoed."
+  },
+  {
+    "sentence": "雌のキツネは賢い。",
+    "sentence_furigana": "雌【め】のキツネは賢【かしこ】い。",
+    "meaning": "The vixen is clever."
+  },
+  {
+    "sentence": "この鳥は雌雄で鳴き声が違う。",
+    "sentence_furigana": "この鳥【とり】は雌雄【しゆう】で鳴【な】き声【ごえ】が違【ちが】う。",
+    "meaning": "The calls of this bird differ between male and female."
+  },
+  {
+    "sentence": "雌のライオンは子ライオンを守るために戦った。",
+    "sentence_furigana": "雌【め】のライオンは子ライオンを守【まも】るために戦【たたか】った。",
+    "meaning": "The lioness fought to protect her cubs."
+  },
+  {
+    "sentence": "雌の牛は乳を出す。",
+    "sentence_furigana": "雌【め】の牛【うし】は乳【ちち】を出【だ】す。",
+    "meaning": "The cow produces milk."
+  },
+  {
+    "sentence": "雌のネコ科動物は子育てに専念する。",
+    "sentence_furigana": "雌【め】のネコ科【か】動物【どうぶつ】は子育【こそだ】てに専念【せんにん】する。",
+    "meaning": "Female felines concentrate on raising their young."
+  },
+  {
+    "sentence": "雌のサルは子供を背負って移動する。",
+    "sentence_furigana": "雌【め】のサルは子供【こども】を背負【せ】おいして移動【いどう】する。",
+    "meaning": "The female monkey moves with her baby on her back."
+  },
+  {
+    "sentence": "雌雄のペアが仲良く暮らしている。",
+    "sentence_furigana": "雌雄【しゆう】のペアが仲良【なかよ】く暮【く】らしている。",
+    "meaning": "The male and female pair live together amicably."
+  },
+  {
+    "sentence": "雌のゾウは群れのリーダーになることが多い。",
+    "sentence_furigana": "雌【め】のゾウは群【む】れのリーダーになることが多【おお】い。",
+    "meaning": "Female elephants often become the leaders of the herd."
+  },
+  {
+    "sentence": "雌のワシは巣作りをする。",
+    "sentence_furigana": "雌【め】のワシは巣作【すづく】りをする。",
+    "meaning": "The female eagle builds the nest."
+  },
+  {
+    "sentence": "雌雄の区別は重要だ。",
+    "sentence_furigana": "雌雄【しゆう】の区別【くべつ】は重要【じゅうよう】だ。",
+    "meaning": "The distinction between male and female is important."
+  },
+  {
+    "sentence": "雌のクマは子を守る。",
+    "sentence_furigana": "雌【め】のクマは子【こ】を守【まも】る。",
+    "meaning": "The she-bear protects her cub."
+  },
+  {
+    "sentence": "雌のライオンの目は鋭い。",
+    "sentence_furigana": "雌【め】のライオンの目【め】は鋭【するど】い。",
+    "meaning": "The eyes of the lioness are sharp."
+  },
+  {
+    "sentence": "雌の馬は穏やかで従順だ。",
+    "sentence_furigana": "雌【め】の馬【うま】は穏【おだ】やかで従順【じゅうじゅん】だ。",
+    "meaning": "The mare is gentle and obedient."
+  },
+  {
+    "sentence": "雌のオオカミは社会性が高い。",
+    "sentence_furigana": "雌【め】のオオカミは社会性【しゃかいせい】が高【たか】い。",
+    "meaning": "Female wolves are highly social."
+  },
+  {
+    "sentence": "雌の鳥は雄よりも地味な羽毛をしている。",
+    "sentence_furigana": "雌【め】の鳥【とり】は雄【ゆう】よりも地味【じみ】な羽毛【うもう】をしている。",
+    "meaning": "Female birds have duller plumage than males."
+  },
+  {
+    "sentence": "雌のジャガーは単独で生活する。",
+    "sentence_furigana": "雌【め】のジャガーは単独【たんどく】で生活【せいかつ】する。",
+    "meaning": "Female jaguars live solitarily."
+  },
+  {
+    "sentence": "雌の牛は子牛に乳を与える。",
+    "sentence_furigana": "雌【め】の牛【うし】は子牛【こうし】に乳【ちち】を与【あた】える。",
+    "meaning": "The cow gives milk to her calf."
+  },
+  {
+    "sentence": "雌の馬は穏やかな性格で知られる。",
+    "sentence_furigana": "雌【め】の馬【うま】は穏【おだ】やかな性格【せいかく】で知【し】られる。",
+    "meaning": "The mare is known for its calm temperament."
+  },
+  {
+    "sentence": "雌のライオンは狩りの戦術を熟知している。",
+    "sentence_furigana": "雌【め】のライオンは狩【か】りの戦術【せんじゅつ】を熟知【じゅくち】している。",
+    "meaning": "Lionesses are well-versed in hunting tactics."
+  },
+  {
+    "sentence": "雌雄の区別なく、全ての生き物は尊い。",
+    "sentence_furigana": "雌雄【しゆう】の区別【くべつ】なく、全【すべ】ての生【い】き物【もの】は尊【とうと】い。",
+    "meaning": "All living creatures are precious, regardless of sex."
+  },
+  {
+    "sentence": "雌のオオカミは子育てのリーダーシップを発揮する。",
+    "sentence_furigana": "雌【め】のオオカミは子育【こそだ】てのリーダーシップを発揮【はっき】する。",
+    "meaning": "The she-wolf demonstrates leadership in raising the pups."
+  },
+  {
+    "sentence": "雌のキツネは子育てに専念する。",
+    "sentence_furigana": "雌【め】のキツネは子育【こそだ】てに専念【せんにん】する。",
+    "meaning": "The vixen focuses on raising her cubs."
+  },
+  {
+    "sentence": "雌の鳥はより目立たない保護色を持つ。",
+    "sentence_furigana": "雌【め】の鳥【とり】はより目立【めだ】たない保護色【ほごしょく】を持【も】つ。",
+    "meaning": "Female birds have more inconspicuous camouflage."
+  },
+  {
+    "sentence": "雌のパンサーは狩りの獲物を子に分け与える。",
+    "sentence_furigana": "雌【め】のパンサーは狩【か】りの獲物【えもの】を子【こ】に分【わ】け与【あた】える。",
+    "meaning": "The female panther shares her hunted prey with her cubs."
+  },
+  {
+    "sentence": "雌のクジャクは地味な姿をしている。",
+    "sentence_furigana": "雌【め】のクジャクは地味【じみ】な姿【すがた】をしている。",
+    "meaning": "The peahen has a plain appearance."
+  },
+  {
+    "sentence": "雌牛はのんびりと草を食べている。",
+    "sentence_furigana": "雌【め】牛【うし】はのんびりと草【くさ】を食【た】べている。",
+    "meaning": "The cow is leisurely eating grass."
+  },
+  {
+    "sentence": "雌の馬は穏やかで、乗りやすい。",
+    "sentence_furigana": "雌【め】の馬【うま】は穏【おだ】やかで、乗【の】りやすい。",
+    "meaning": "The mare is calm and easy to ride."
+  },
+  {
+    "sentence": "雌ライオンは家族を守る。",
+    "sentence_furigana": "雌【め】ライオンは家族【かぞく】を守【まも】る。",
+    "meaning": "The lioness protects her family."
+  },
+  {
+    "sentence": "雌雄の違いを理解することは大切だ。",
+    "sentence_furigana": "雌雄【しゆう】の違い【ちがい】を理解【りかい】することは大切【たいせつ】だ。",
+    "meaning": "It is important to understand the differences between males and females."
+  },
+  {
+    "sentence": "雌オオカミは群れの調和を保つ。",
+    "sentence_furigana": "雌【め】オオカミは群【む】れの調和【ちょうわ】を保【たも】つ。",
+    "meaning": "The she-wolf maintains the harmony of the pack."
+  },
+  {
+    "sentence": "雌キツネは用心深い。",
+    "sentence_furigana": "雌【め】キツネは用心深【ようじんぶか】い。",
+    "meaning": "The vixen is cautious."
+  },
+  {
+    "sentence": "雌鳥は巣で静かに待っている。",
+    "sentence_furigana": "雌【め】鳥【どり】は巣【す】で静【しず】かに待【ま】っている。",
+    "meaning": "The hen is waiting quietly in the nest."
+  },
+  {
+    "sentence": "雌ペンギンは必死に餌を探す。",
+    "sentence_furigana": "雌【め】ペンギンは必死【ひっし】に餌【えさ】を探【さが】す。",
+    "meaning": "The female penguin desperately searches for food."
+  },
+  {
+    "sentence": "雌狼は子供を巣穴に連れ帰った。",
+    "sentence_furigana": "雌【め】狼【おおかみ】は子供【こども】を巣穴【すあな】に連【つ】れ帰【かえ】った。",
+    "meaning": "The she-wolf brought her cubs back to the den."
+  },
+  {
+    "sentence": "雌しべの先に花粉が付いている。",
+    "sentence_furigana": "雌【め】しべの先【さき】に花粉【かふん】が付【つ】いている。",
+    "meaning": "Pollen is attached to the tip of the pistil."
+  },
+  {
+    "sentence": "雌馬は上品な姿をしている。",
+    "sentence_furigana": "雌【め】馬【うま】は上品【じょうひん】な姿【すがた】をしている。",
+    "meaning": "The mare has an elegant appearance."
+  },
+  {
+    "sentence": "雌の象徴としての役割。",
+    "sentence_furigana": "雌【め】の象徴【しょうちょう】としての役割【やくわり】。",
+    "meaning": "The role as a symbol of femininity."
+  },
+  {
+    "sentence": "雌ライオンは協力して狩りをする。",
+    "sentence_furigana": "雌【め】ライオンは協力【きょうりょく】して狩【か】りをする。",
+    "meaning": "Lionesses cooperate in hunting."
+  },
+  {
+    "sentence": "雌キリンは子供と一緒にいる。",
+    "sentence_furigana": "雌【め】キリンは子供【こども】と一緒【いっしょ】にいる。",
+    "meaning": "The female giraffe is with her young."
+  },
+  {
+    "sentence": "雌雄の鳴き声の違い。",
+    "sentence_furigana": "雌雄【しゆう】の鳴【な】き声【ごえ】の違い【ちがい】。",
+    "meaning": "The difference in calls between males and females."
+  },
+  {
+    "sentence": "雌鶏は元気によく鳴く。",
+    "sentence_furigana": "雌【め】鶏【にわとり】は元気【げんき】によく鳴【な】く。",
+    "meaning": "The hen crows energetically."
+  },
+  {
+    "sentence": "雌馬は優雅に走る。",
+    "sentence_furigana": "雌【め】馬【うま】は優雅【ゆうが】に走【はし】る。",
+    "meaning": "The mare runs gracefully."
+  },
+  {
+    "sentence": "雌クジラは子育てに専念する時期がある。",
+    "sentence_furigana": "雌【め】クジラは子育【こそだ】てに専念【せんにん】する時期【じき】がある。",
+    "meaning": "Female whales have periods dedicated to raising their young."
+  },
+  {
+    "sentence": "この植物は雌雄同株で、一つの株に雄花と雌花が咲く。",
+    "sentence_furigana": "この植物【しょくぶつ】は雌雄同株【しゆうどうしゅ】で、一個【いっこ】の株【かぶ】に雄花【おばな】と雌花【めばな】が咲【さ】く。",
+    "meaning": " This plant is monoecious, with male and female flowers blooming on the same plant."
+  },
+  {
+    "sentence": "雌オオカミは群れの安全を守る。",
+    "sentence_furigana": "雌【め】オオカミは群【む】れの安全【あんぜん】を守【まも】る。",
+    "meaning": "The she-wolf protects the safety of the pack."
+  },
+  {
+    "sentence": "雌リスは冬に備えて食料を蓄える。",
+    "sentence_furigana": "雌【め】リスは冬【ふゆ】に備【そな】えて食料【しょくりょう】を蓄【たくわ】える。",
+    "meaning": "The female squirrel stores food for winter."
+  },
+  {
+    "sentence": "雌の馬は、穏やかな性質で人に愛される。",
+    "sentence_furigana": "雌【め】の馬【うま】は、穏【おだ】やかな性質【せいしつ】で人【ひと】に愛【あい】される。",
+    "meaning": "The mare is loved by people for its gentle disposition."
+  },
+  {
+    "sentence": "雌鹿は子鹿を守るために鋭い警戒心を持つ。",
+    "sentence_furigana": "雌【め】鹿【しか】は子鹿【こじか】を守【まも】るために鋭【するど】い警戒心【けいかいしん】を持【も】つ。",
+    "meaning": "The doe possesses sharp vigilance to protect her fawn."
+  },
+  {
+    "sentence": "雌のオウムは、鮮やかな色合いとは対照的に控えめな声で鳴く。",
+    "sentence_furigana": "雌【め】のオウムは、鮮【あざ】やかな色合【いろあ】いとは対照的【たいしょうてき】に控【ひか】えめな声【こえ】で鳴【な】く。",
+    "meaning": "The female parrot calls with a modest voice, in contrast to its vibrant colors."
+  },
+  {
+    "sentence": "雌ウサギは、安全な場所に巣穴を掘り、子育てをする。",
+    "sentence_furigana": "雌【め】ウサギは、安全【あんぜん】な場所【ばしょ】に巣穴【すあな】を掘【ほ】り、子育【こそだ】てをする。",
+    "meaning": "The doe rabbit digs a burrow in a safe place to raise her young."
+  },
+  {
+    "sentence": "雌パンサーは、獲物を捕らえると、まず子供に分け与える。",
+    "sentence_furigana": "雌【め】パンサーは、獲物【えもの】を捕【と】らえると、まず子供【こども】に分【わ】け与【あた】える。",
+    "meaning": "When the female panther catches prey, she first shares it with her cubs."
+  }
+]

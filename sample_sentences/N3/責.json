@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "彼はその過ちを責任をもって償った。",
+    "sentence_furigana": "彼【かれ】はその過【あやまち】ちを責任【せきにん】をもって償【つぐな】った。",
+    "meaning": "He atoned for the mistake with responsibility."
+  },
+  {
+    "sentence": "教師は生徒の怠惰を厳しく責めた。",
+    "sentence_furigana": "教師【きょうし】は生徒【せいと】の怠惰【たいだ】を厳【きび】しく責【せ】めた。",
+    "meaning": "The teacher harshly blamed the student's laziness."
+  },
+  {
+    "sentence": "そのプロジェクトの失敗の責任は私にある。",
+    "sentence_furigana": "そのプロジェクトの失敗【しっぱい】の責任【せきにん】は私【わたし】にある。",
+    "meaning": "The responsibility for the failure of that project lies with me."
+  },
+  {
+    "sentence": "彼は部下を責めるのではなく、励ました。",
+    "sentence_furigana": "彼【かれ】は部下【ぶか】を責【せ】めるのではなく、励【はげ】ました。",
+    "meaning": "He encouraged his subordinates instead of blaming them."
+  },
+  {
+    "sentence": "政府は経済の停滞について非難を浴びた。",
+    "sentence_furigana": "政府【せいふ】は経済【けいざい】の停滞【ていたい】について非難【ひなん】を浴【あ】びた。",
+    "meaning": "The government was blamed for the economic stagnation."
+  },
+  {
+    "sentence": "子供の怪我は、保護者の責任です。",
+    "sentence_furigana": "子供【こども】の怪我【けが】は、保護者【ほごしゃ】の責任【せきにん】です。",
+    "meaning": "The child's injury is the guardian's responsibility."
+  },
+  {
+    "sentence": "彼は親を責めるようなことは言わなかった。",
+    "sentence_furigana": "彼【かれ】は親【おや】を責【せ】めるようなことは言【い】わなかった。",
+    "meaning": "He didn't say anything that would blame his parents."
+  },
+  {
+    "sentence": "この結果に対する責任を誰が負うべきか。",
+    "sentence_furigana": "この結果【けっか】に対する【たいする】責任【せきにん】を誰【だれ】が負【お】うべきか。",
+    "meaning": "Who should bear the responsibility for this result?"
+  },
+  {
+    "sentence": "彼女は自分の行動を深く反省し、責任を取った。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の行動【こうどう】を深【ふか】く反省【はんせい】し、責任【せきにん】を取【と】った。",
+    "meaning": "She deeply reflected on her actions and took responsibility."
+  },
+  {
+    "sentence": "会議では、彼の意見が少数派だったため、彼は非難された。",
+    "sentence_furigana": "会議【かいぎ】では、彼【かれ】の意見【いけん】が少数派【しょうすうは】だったため、彼【かれ】は非難【ひなん】された。",
+    "meaning": "In the meeting, his opinion was in the minority, so he was criticized."
+  },
+  {
+    "sentence": "彼はプロジェクトの遅延の責任を回避しようとした。",
+    "sentence_furigana": "彼【かれ】はプロジェクトの遅延【ちえん】の責任【せきにん】を回避【かいひ】しようとした。",
+    "meaning": "He tried to evade responsibility for the project's delay."
+  },
+  {
+    "sentence": "親は子供の教育に責任がある。",
+    "sentence_furigana": "親【おや】は子供【こども】の教育【きょういく】に責任【せきにん】がある。",
+    "meaning": "Parents have a responsibility for their children's education."
+  },
+  {
+    "sentence": "その事故の原因究明と責任の所在が問われている。",
+    "sentence_furigana": "その事故【じこ】の原因究明【げんいんきゅうめい】と責任【せきにん】の所在【しょざい】が問【と】われている。",
+    "meaning": "The cause of the accident and the location of responsibility are being questioned."
+  },
+  {
+    "sentence": "彼は他人を責める前に、自分自身を責めるべきだ。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】を責【せ】める前【まえ】に、自分自身【じぶんじしん】を責【せ】めるべきだ。",
+    "meaning": "He should blame himself before blaming others."
+  },
+  {
+    "sentence": "この問題は皆で責め合うのではなく、解決策を見つけるべきだ。",
+    "sentence_furigana": "この問題【もんだい】は皆【みな】で責【せ】め合【あ】うのではなく、解決策【かいけつさく】を見【み】つけるべきだ。",
+    "meaning": "We should find a solution to this problem instead of blaming each other."
+  },
+  {
+    "sentence": "彼の提案は多くの人から批判された。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は多【おお】くの人【ひと】から批判【ひはん】された。",
+    "meaning": "His proposal was criticized by many people."
+  },
+  {
+    "sentence": "責任ある行動が求められている。",
+    "sentence_furigana": "責任【せきにん】ある行動【こうどう】が求【もと】められている。",
+    "meaning": "Responsible action is required."
+  },
+  {
+    "sentence": "彼は失態を演じ、上司から責められた。",
+    "sentence_furigana": "彼【かれ】は失態【しったい】を演【えん】じ、上司【じょうし】から責【せ】められた。",
+    "meaning": "He made a mistake and was blamed by his boss."
+  },
+  {
+    "sentence": "責任転嫁は許されない。",
+    "sentence_furigana": "責任転嫁【せきにんてんか】は許【ゆる】されない。",
+    "meaning": "Shifting responsibility is not allowed."
+  },
+  {
+    "sentence": "リーダーはチームの失敗に責任を持つべきだ。",
+    "sentence_furigana": "リーダーはチームの失敗【しっぱい】に責任【せきにん】を持【も】つべきだ。",
+    "meaning": "The leader should take responsibility for the team's failure."
+  },
+  {
+    "sentence": "彼は不正行為の責任を追及された。",
+    "sentence_furigana": "彼【かれ】は不正行為【ふせいこうい】の責任【せきにん】を追及【ついきゅう】された。",
+    "meaning": "He was pursued for responsibility for the fraudulent act."
+  },
+  {
+    "sentence": "彼女は家族の面倒を見る責任がある。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】の面倒【めんどう】を見【み】る責任【せきにん】がある。",
+    "meaning": "She has a responsibility to take care of her family."
+  },
+  {
+    "sentence": "彼はその間違いを認め、責任を取ると約束した。",
+    "sentence_furigana": "彼【かれ】はその間違【まちが】いを認【みと】め、責任【せきにん】を取【と】ると約束【やくそく】した。",
+    "meaning": "He admitted his mistake and promised to take responsibility."
+  },
+  {
+    "sentence": "この問題の責任を誰かに押し付けることはできない。",
+    "sentence_furigana": "この問題【もんだい】の責任【せきにん】を誰【だれ】かに押【お】し付【つ】けることはできない。",
+    "meaning": "We cannot push the responsibility for this problem onto someone."
+  },
+  {
+    "sentence": "彼は無責任な行動で多くの人を失望させた。",
+    "sentence_furigana": "彼【かれ】は無責任【むせきにん】な行動【こうどう】で多【おお】くの人【ひと】を失望【しつぼう】させた。",
+    "meaning": "He disappointed many people with his irresponsible behavior."
+  },
+  {
+    "sentence": "会社は社員の安全に責任を負う。",
+    "sentence_furigana": "会社【かいしゃ】は社員【しゃいん】の安全【あんぜん】に責任【せきにん】を負【お】う。",
+    "meaning": "The company bears responsibility for the safety of its employees."
+  },
+  {
+    "sentence": "彼は過去の過ちを責められることにうんざりしていた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやまち】ちを責【せ】められることにうんざりしていた。",
+    "meaning": "He was tired of being blamed for his past mistakes."
+  },
+  {
+    "sentence": "その計画の成功は、彼の努力に大きくかかっている。",
+    "sentence_furigana": "その計画【けいかく】の成功【せいこう】は、彼【かれ】の努力【どりょく】に大【おお】きくかかっている。",
+    "meaning": "The success of the plan depends largely on his efforts."
+  },
+  {
+    "sentence": "私たちは地球環境を守る責任があります。",
+    "sentence_furigana": "我々【われわれ】は地球環境【ちきゅうかんきょう】を守【まも】る責任【せきにん】があります。",
+    "meaning": "We have a responsibility to protect the global environment."
+  },
+  {
+    "sentence": "彼はなぜその命令に背いたのか説明を求められた。",
+    "sentence_furigana": "彼【かれ】はなぜその命令【めいれい】に背【そむ】いたのか説明【せつめい】を求【もと】められた。",
+    "meaning": "He was asked to explain why he disobeyed the order."
+  },
+  {
+    "sentence": "この失敗は誰の責任でもない。",
+    "sentence_furigana": "この失敗【しっぱい】は誰【だれ】の責任【せきにん】でもない。",
+    "meaning": "This failure is no one's responsibility."
+  },
+  {
+    "sentence": "彼は社会に対する責任を果たすべく努力した。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】に対する【たいする】責任【せきにん】を果【は】たすべく努力【どりょく】した。",
+    "meaning": "He worked hard to fulfill his responsibility to society."
+  },
+  {
+    "sentence": "彼女は子供の将来に責任を感じている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の将来【しょうらい】に責任【せきにん】を感じ【かんじ】ている。",
+    "meaning": "She feels responsible for her child's future."
+  },
+  {
+    "sentence": "不正を正すのは、社会全体の責任だ。",
+    "sentence_furigana": "不正【ふせい】を正【ただ】すのは、社会全体【しゃかいぜんたい】の責任【せきにん】だ。",
+    "meaning": "Correcting injustice is the responsibility of society as a whole."
+  },
+  {
+    "sentence": "彼は自分の発言の責任を認めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の発言【はつげん】の責任【せきにん】を認【みと】めた。",
+    "meaning": "He acknowledged responsibility for his statements."
+  },
+  {
+    "sentence": "その出来事の責任者は誰ですか？",
+    "sentence_furigana": "その出来事【できごと】の責任者【せきにんしゃ】は誰【だれ】ですか？",
+    "meaning": "Who is responsible for that event?"
+  },
+  {
+    "sentence": "子供のしつけは親の責任です。",
+    "sentence_furigana": "子供【こども】のしつけは親【おや】の責任【せきにん】です。",
+    "meaning": "Disciplining children is the parents' responsibility."
+  },
+  {
+    "sentence": "彼は軽率な行動を責められた。",
+    "sentence_furigana": "彼【かれ】は軽率【けいそつ】な行動【こうどう】を責【せ】められた。",
+    "meaning": "He was blamed for his rash behavior."
+  },
+  {
+    "sentence": "このプロジェクトの成功は君にかかっている。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】は君【きみ】にかかっている。",
+    "meaning": "The success of this project depends on you."
+  },
+  {
+    "sentence": "彼はその失敗の責任をすべて一人で負った。",
+    "sentence_furigana": "彼【かれ】はその失敗【しっぱい】の責任【せきにん】をすべて一人【ひとり】で負【お】った。",
+    "meaning": "He took all the responsibility for that failure by himself."
+  },
+  {
+    "sentence": "両親は子供の進路に責任を感じている。",
+    "sentence_furigana": "両親【りょうしん】は子供【こども】の進路【しんろ】に責任【せきにん】を感じ【かんじ】ている。",
+    "meaning": "The parents feel responsible for their child's career path."
+  },
+  {
+    "sentence": "私はこのミスに対する責任を取ります。",
+    "sentence_furigana": "私【わたし】はこのミスに対する【たいする】責任【せきにん】を取【と】ります。",
+    "meaning": "I will take responsibility for this mistake."
+  },
+  {
+    "sentence": "彼は自分の行動に責任を持つべきだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の行動【こうどう】に責任【せきにん】を持【も】つべきだ。",
+    "meaning": "He should take responsibility for his actions."
+  },
+  {
+    "sentence": "その事件の責任者はまだ特定されていない。",
+    "sentence_furigana": "その事件【じけん】の責任者【せきにんしゃ】はまだ特定【とくてい】されていない。",
+    "meaning": "The person responsible for the incident has not yet been identified."
+  },
+  {
+    "sentence": "彼女は仕事のミスを部下に押し付けた。",
+    "sentence_furigana": "彼女【かのじょ】は仕事【しごと】のミスを部下【ぶか】に押【お】し付【つ】けた。",
+    "meaning": "She shifted the blame for her work mistake to her subordinate."
+  },
+  {
+    "sentence": "子供の健全な成長は、社会全体の責任です。",
+    "sentence_furigana": "子供【こども】の健全【けんぜん】な成長【せいちょう】は、社会全体【しゃかいぜんたい】の責任【せきにん】です。",
+    "meaning": "The healthy development of children is the responsibility of society as a whole."
+  },
+  {
+    "sentence": "彼は謝罪したが、責任を認めることはなかった。",
+    "sentence_furigana": "彼【かれ】は謝罪【しゃざい】したが、責任【せきにん】を認【みと】めることはなかった。",
+    "meaning": "He apologized, but did not admit responsibility."
+  },
+  {
+    "sentence": "この問題は、あなたにも責任があります。",
+    "sentence_furigana": "この問題【もんだい】は、あなたにも責任【せきにん】があります。",
+    "meaning": "You also have responsibility for this problem."
+  },
+  {
+    "sentence": "彼はその計画の失敗を他人になすりつけた。",
+    "sentence_furigana": "彼【かれ】はが計画【けいかく】の失敗【しっぱい】を他人【たにん】になすりつけた。",
+    "meaning": "He blamed others for the failure of the plan."
+  },
+  {
+    "sentence": "その失敗の責任をどのように取るか、検討中です。",
+    "sentence_furigana": "その失敗【しっぱい】の責任【せきにん】をどのよう取【と】るか、検討中【けんとうちゅう】です。",
+    "meaning": "We are considering how to take responsibility for that failure."
+  },
+  {
+    "sentence": "彼は自分の言動に責任を持つことを学んだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の言動【げんどう】に責任【せきにん】を持【も】つことを学【まな】んだ。",
+    "meaning": "He learned to take responsibility for his words and actions."
+  },
+  {
+    "sentence": "この件に関しては、私が全責任を負います。",
+    "sentence_furigana": "この件【けん】に関しては、私【わたし】が全責任【ぜんせきにん】を負【お】います。",
+    "meaning": "I will take full responsibility for this matter."
+  },
+  {
+    "sentence": "彼は上司から理不尽に責められた。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】から理不尽【りふじん】に責【せ】められた。",
+    "meaning": "He was unreasonably blamed by his boss."
+  },
+  {
+    "sentence": "子供の成長に親の協力は不可欠である。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】に親【おや】の協力【きょうりょく】は不可欠【ふかけつ】である。",
+    "meaning": "Parental cooperation is indispensable for a child's growth."
+  },
+  {
+    "sentence": "彼は過ちを犯したが、それを認めようとしなかった。",
+    "sentence_furigana": "彼【かれ】は過【あやまち】ちを犯【おか】したが、それを認【みと】めようとしなかった。",
+    "meaning": "He made a mistake, but did not try to admit it."
+  },
+  {
+    "sentence": "この問題の責任を誰かに押し付けることは間違っている。",
+    "sentence_furigana": "この問題【もんだい】の責任【せきにん】を誰【だれ】かに押【お】し付【つ】けることは間違【まちが】っている。",
+    "meaning": "It is wrong to push the responsibility for this problem onto someone."
+  },
+  {
+    "sentence": "彼は責任感の強い人物だ。",
+    "sentence_furigana": "彼【かれ】は責任感【せきにんかん】の強【つよ】い人物【じんぶつ】だ。",
+    "meaning": "He is a person with a strong sense of responsibility."
+  },
+  {
+    "sentence": "責任ある大人として行動しなければならない。",
+    "sentence_furigana": "責任【せきにん】ある大人【おとな】として行動【こうどう】しなければならない。",
+    "meaning": "You must act as a responsible adult."
+  },
+  {
+    "sentence": "彼女はチームの勝利に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】はチームの勝利【しょうり】に貢献【こうけん】した。",
+    "meaning": "She contributed to the team's victory."
+  },
+  {
+    "sentence": "彼はその遅延の責任を問われ、解雇された。",
+    "sentence_furigana": "彼【かれ】はその遅延【ちえん】の責任【せきにん】を問【と】われ、解雇【かいこ】された。",
+    "meaning": "He was held responsible for the delay and was fired."
+  },
+  {
+    "sentence": "この状況に誰も責任を負いたがらない。",
+    "sentence_furigana": "この状況【じょうきょう】に誰【だれ】も責任【せきにん】を負【お】いたがらない。",
+    "meaning": "No one wants to take responsibility for this situation."
+  },
+  {
+    "sentence": "彼は会議での発言を強く非難された。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】での発言【はつげん】を強【つよ】く非難【ひなん】された。",
+    "meaning": "He was strongly criticized for his remarks at the meeting."
+  },
+  {
+    "sentence": "その不正行為の責任者は厳しく罰せられた。",
+    "sentence_furigana": "その不正行為【ふせいこうい】の責任者【せきにんしゃ】は厳【きび】しく罰【ばっ】せられた。",
+    "meaning": "The person responsible for the fraudulent act was severely punished."
+  },
+  {
+    "sentence": "子供の教育は親の責務である。",
+    "sentence_furigana": "子供【こども】の教育【きょういく】は親【おや】の責務【せきむ】である。",
+    "meaning": "The education of children is the duty of parents."
+  },
+  {
+    "sentence": "彼は失敗を認め、責任を取る姿勢を示した。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】を認【みと】め、責任【せきにん】を取【と】る姿勢【しせい】を示【しめ】した。",
+    "meaning": "He admitted his failure and showed a willingness to take responsibility."
+  },
+  {
+    "sentence": "このプロジェクトの成功は彼にかかっている。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】は彼【かれ】にかかっている。",
+    "meaning": "The success of this project depends on him."
+  },
+  {
+    "sentence": "彼は自分のミスを認め、責任を回避しなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のミスを認【みと】め、責任【せきにん】を回避【かいひ】しなかった。",
+    "meaning": "He admitted his mistake and did not avoid responsibility."
+  },
+  {
+    "sentence": "責任ある仕事をするためには、多くの努力が必要だ。",
+    "sentence_furigana": "責任【せきにん】ある仕事【しごと】をするためには、多【おお】くの努力【どりょく】が必要【ひつよう】だ。",
+    "meaning": "A lot of effort is required to do responsible work."
+  },
+  {
+    "sentence": "彼は過ちを責められることを恐れていた。",
+    "sentence_furigana": "彼【かれ】は過【あやまち】ちを責【せ】められることを恐【おそ】れていた。",
+    "meaning": "He was afraid of being blamed for his mistake."
+  },
+  {
+    "sentence": "その事件の責任の所在を明らかにする必要がある。",
+    "sentence_furigana": "その事件【じけん】の責任【せきにん】の所在【しょざい】を明【あき】らかにする必要【ひつよう】がある。",
+    "meaning": "It is necessary to clarify who is responsible for that incident."
+  },
+  {
+    "sentence": "彼女は最後まで責任を果たした。",
+    "sentence_furigana": "彼女【かのじょ】は最期【さいご】まで責任【せきにん】を果【は】たした。",
+    "meaning": "She fulfilled her responsibility until the end."
+  },
+  {
+    "sentence": "彼は無責任な発言で非難された。",
+    "sentence_furigana": "彼【かれ】は無責任【むせきにん】な発言【はつげん】で非難【ひなん】された。",
+    "meaning": "He was criticized for his irresponsible remarks."
+  },
+  {
+    "sentence": "社会の一員として責任を果たすことが重要です。",
+    "sentence_furigana": "社会【しゃかい】の一員【いちいん】として責任【せきにん】を果【は】たすことが重要【じゅうよう】です。",
+    "meaning": "It is important to fulfill one's responsibilities as a member of society."
+  },
+  {
+    "sentence": "彼は自分のミスを認め、責任を取った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のミスを認【みと】め、責任【せきにん】を取【と】った。",
+    "meaning": "He admitted his mistake and took responsibility."
+  },
+  {
+    "sentence": "彼女は子供の安全に対して責任がある。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の安全【あんぜん】に対して【たいして】責任【せきにん】がある。",
+    "meaning": "She is responsible for the safety of her child."
+  },
+  {
+    "sentence": "この問題の責任は、誰か一人に帰することはできない。",
+    "sentence_furigana": "この問題【もんだい】の責任【せきにん】は、誰【だれ】か一人【ひとり】に帰【き】することはできない。",
+    "meaning": "The responsibility for this problem cannot be attributed to any single person."
+  },
+  {
+    "sentence": "彼は失敗を他人のせいにした。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】を他人【たにん】のせいした。",
+    "meaning": "He blamed others for the failure."
+  },
+  {
+    "sentence": "その出来事の責任は誰にあるのか。",
+    "sentence_furigana": "その出来事【できごと】の責任【せきにん】は誰【だれ】にあるのか。",
+    "meaning": "Who is responsible for that event?"
+  },
+  {
+    "sentence": "彼は責任感を持って仕事に取り組んだ。",
+    "sentence_furigana": "彼【かれ】は責任感【せきにんかん】を持【も】って仕事【しごと】に取り組【とりく】んだ。",
+    "meaning": "He tackled the job with a sense of responsibility."
+  },
+  {
+    "sentence": "彼女は自分の選択に責任を持つ。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の選択【せんたく】に責任【せきにん】を持【も】つ。",
+    "meaning": "She takes responsibility for her choices."
+  },
+  {
+    "sentence": "責任者を明確にすることが重要だ。",
+    "sentence_furigana": "責任者【せきにんしゃ】を明確【めいかく】にすることが重要【じゅうよう】だ。",
+    "meaning": "It is important to clarify who is responsible."
+  },
+  {
+    "sentence": "彼は過去の過ちを責めないでほしい。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の過【あやまち】ちを責【せ】めないでほしい。",
+    "meaning": "I don't want him to be blamed for his past mistakes."
+  },
+  {
+    "sentence": "この問題は皆で責任を分担すべきだ。",
+    "sentence_furigana": "この問題【もんだい】は皆【みな】で責任【せきにん】を分担【ぶんたん】すべきだ。",
+    "meaning": "We should share the responsibility for this problem."
+  },
+  {
+    "sentence": "彼女は自分の役割に責任を持った。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の役割【やくわり】に責任【せきにん】を持【も】った。",
+    "meaning": "She took responsibility for her role."
+  },
+  {
+    "sentence": "彼は無責任な態度を批判された。",
+    "sentence_furigana": "彼【かれ】は無責任【むせきにん】な態度【たいど】を批判【ひはん】された。",
+    "meaning": "He was criticized for his irresponsible attitude."
+  },
+  {
+    "sentence": "親は子供の行動に責任を持つ必要がある。",
+    "sentence_furigana": "親【おや】は子供【こども】の行動【こうどう】に責任【せきにん】を持【も】つ必要【ひつよう】がある。",
+    "meaning": "Parents need to take responsibility for their children's behavior."
+  },
+  {
+    "sentence": "責任ある行動が社会を良くする。",
+    "sentence_furigana": "責任【せきにん】ある行動【こうどう】が社会【しゃかい】を良【よ】くする。",
+    "meaning": "Responsible actions improve society."
+  },
+  {
+    "sentence": "彼はその誤りを個人的に責任を取ると言った。",
+    "sentence_furigana": "彼【かれ】はその誤【あやま】りを個人的【こじんてき】に責任【せきにん】を取【と】ると言【い】った。",
+    "meaning": "He said he would take personal responsibility for that error."
+  },
+  {
+    "sentence": "彼女はチームのために責任を負った。",
+    "sentence_furigana": "彼女【かのじょ】はチームのために責任【せきにん】を負【お】った。",
+    "meaning": "She took responsibility for the team."
+  },
+  {
+    "sentence": "責任回避は、問題解決の妨げとなる。",
+    "sentence_furigana": "責任回避【せきにんかいひ】は、問題解決【もんだいかいけつ】の妨【さまた】げとなる。",
+    "meaning": "Avoiding responsibility hinders problem-solving."
+  },
+  {
+    "sentence": "彼は自分の行動の結果に責任を感じていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の行動【こうどう】の結果【けっか】に責任【せきにん】を感【かん】じていた。",
+    "meaning": "He felt responsible for the outcome of his actions."
+  },
+  {
+    "sentence": "その失敗は彼の責任ではない。",
+    "sentence_furigana": "その失敗【しっぱい】は彼【かれ】の責任【せきにん】ではない。",
+    "meaning": "That failure is not his responsibility."
+  }
+]

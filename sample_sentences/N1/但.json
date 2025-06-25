@@ -1,0 +1,587 @@
+[
+  {
+    "sentence": "彼は優秀だが、少し短気なところがある。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】だが、少【すこ】し短気【たんき】なところがある。",
+    "meaning": "He is excellent, but a little short-tempered."
+  },
+  {
+    "sentence": "この製品は高品質だが、価格も高い。",
+    "sentence_furigana": "この製品【せいひん】は高品質【こうひんしつ】だが、価格【かかく】も高【たか】い。",
+    "meaning": "This product is of high quality, but the price is also high."
+  },
+  {
+    "sentence": "明日は晴れるだろうが、念のため傘を持っていく。",
+    "sentence_furigana": "明日【あした】は晴【は】れるだろうが、念【ねん】のため傘【かさ】を持【も】っていく。",
+    "meaning": "It will likely be sunny tomorrow, but I'll bring an umbrella just in case."
+  },
+  {
+    "sentence": "彼は努力家だが、なかなか成果が出ない。",
+    "sentence_furigana": "彼【かれ】は努力家【どりょくか】だが、なかなか成果【せいか】が出【で】ない。",
+    "meaning": "He is a hard worker, but he hasn't seen much results."
+  },
+  {
+    "sentence": "この映画は面白いが、少し長すぎる。",
+    "sentence_furigana": "この映画【えいが】は面白【おもしろ】いが、少【すこ】し長過【ながす】ぎる。",
+    "meaning": "This movie is interesting, but it's a bit too long."
+  },
+  {
+    "sentence": "彼女は美人だが、性格があまり良くない。",
+    "sentence_furigana": "彼女【かのじょ】は美人【びじん】だが、性格【せいかく】があまり良【よ】くない。",
+    "meaning": "She is beautiful, but her personality is not very good."
+  },
+  {
+    "sentence": "この本は簡単だが、内容は深い。",
+    "sentence_furigana": "この本【ほん】は簡単【かんたん】だが、内容【ないよう】は深【ふか】い。",
+    "meaning": "This book is easy to read, but its content is profound."
+  },
+  {
+    "sentence": "彼は親切だが、時々お節介だ。",
+    "sentence_furigana": "彼【かれ】は親切【しんせつ】だが、時々【ときどき】お節介【おせっかい】だ。",
+    "meaning": "He is kind, but sometimes meddlesome."
+  },
+  {
+    "sentence": "このレストランは人気だが、予約が取りにくい。",
+    "sentence_furigana": "このレストランは人気【にんき】だが、予約【よやく】が取【と】りにくい。",
+    "meaning": "This restaurant is popular, but it's hard to get a reservation."
+  },
+  {
+    "sentence": "彼は頭が良いが、怠け者だ。",
+    "sentence_furigana": "彼【かれ】は頭【あたま】が良【よ】いが、怠【なま】け者【もの】だ。",
+    "meaning": "He is intelligent, but lazy."
+  },
+  {
+    "sentence": "この絵は美しいが、描くのは難しい。",
+    "sentence_furigana": "この絵【え】は美【うつく】しいが、描【か】くのは難【むずか】しい。",
+    "meaning": "This painting is beautiful, but difficult to draw."
+  },
+  {
+    "sentence": "彼女は話が面白いが、聞き役には向いていない。",
+    "sentence_furigana": "彼女【かのじょ】は話【はな】が面白【おもしろ】いが、聞【き】き役【やく】には向【む】いていない。",
+    "meaning": "She is an interesting speaker, but not suited to be a listener."
+  },
+  {
+    "sentence": "この車は燃費が良いが、デザインが古臭い。",
+    "sentence_furigana": "この車【くるま】は燃費【ねんぴ】が良い【よ】いが、デザインが古臭【ふるくさ】い。",
+    "meaning": "This car has good fuel efficiency, but its design is old-fashioned."
+  },
+  {
+    "sentence": "彼は真面目だが、ユーモアのセンスがない。",
+    "sentence_furigana": "彼【かれ】は真面目【まじめ】だが、ユーモアのセンスがない。",
+    "meaning": "He is serious, but lacks a sense of humor."
+  },
+  {
+    "sentence": "この料理は健康的だが、味がいまいちだ。",
+    "sentence_furigana": "この料理【りょうり】は健康的【けんこうてき】だが、味【あじ】がいまいちだ。",
+    "meaning": "This dish is healthy, but the taste is not great."
+  },
+  {
+    "sentence": "彼女は物静かだが、芯は強い。",
+    "sentence_furigana": "彼女【かのじょ】は物静【ものしず】かだが、芯【しん】は強【つよ】い。",
+    "meaning": "She is quiet, but strong-willed."
+  },
+  {
+    "sentence": "この小説は感動的だが、読了するのに時間がかかる。",
+    "sentence_furigana": "この小説【しょうせつ】は感動的【かんどうてき】だが、読了【どくりょう】するのに時間【じかん】がかかる。",
+    "meaning": "This novel is moving, but it takes time to finish reading."
+  },
+  {
+    "sentence": "彼は社交的だが、秘密を漏らしやすい。",
+    "sentence_furigana": "彼【かれ】は社交的【しゃこうてき】だが、秘密【ひみつ】を漏【も】らしやすい。",
+    "meaning": "He is sociable, but tends to leak secrets."
+  },
+  {
+    "sentence": "この公園は広いが、設備が古い。",
+    "sentence_furigana": "この公園【こうえん】は広【ひろ】いが、設備【せつび】が古【ふる】い。",
+    "meaning": "This park is spacious, but the facilities are old."
+  },
+  {
+    "sentence": "彼女は料理上手だが、片付けが苦手だ。",
+    "sentence_furigana": "彼女【かのじょ】は料理上手【りょうりじょうず】だが、片付【かたづ】けが苦手【にがて】だ。",
+    "meaning": "She is a good cook, but bad at cleaning up."
+  },
+  {
+    "sentence": "この薬は効果があるが、副作用がある。",
+    "sentence_furigana": "この薬【くすり】は効果【こうか】があるが、副作用【ふくさよう】がある。",
+    "meaning": "This medicine is effective, but has side effects."
+  },
+  {
+    "sentence": "彼は正直者だが、交渉が下手だ。",
+    "sentence_furigana": "彼【かれ】は正直者【しょうじきもの】だが、交渉【こうしょう】が下手【へた】だ。",
+    "meaning": "He is an honest person, but poor at negotiation."
+  },
+  {
+    "sentence": "このスーツは格好良いが、値段が高い。",
+    "sentence_furigana": "このスーツは格好良【かっこよ】いが、値段【ねだん】が高【たか】い。",
+    "meaning": "This suit looks good, but it is expensive."
+  },
+  {
+    "sentence": "彼女は親切だが、少々おせっかいだ。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】だが、少々【しょうしょう】おせっかいだ。",
+    "meaning": "She is kind, but a little too helpful."
+  },
+  {
+    "sentence": "この映画は話題だが、内容は理解しにくい。",
+    "sentence_furigana": "この映画【えいが】は話題【わだい】だが、内容【ないよう】は理解【りかい】しにくい。",
+    "meaning": "This movie is talked about, but its content is difficult to understand."
+  },
+  {
+    "sentence": "彼は博識だが、融通が利かない。",
+    "sentence_furigana": "彼【かれ】は博識【はくしき】だが、融通【ゆうずう】が利【き】かない。",
+    "meaning": "He is knowledgeable, but inflexible."
+  },
+  {
+    "sentence": "このタオルは肌触りが良いが、乾きにくい。",
+    "sentence_furigana": "このタオルは肌触【はだざわ】りが良【よ】いが、乾【かわ】きにくい。",
+    "meaning": "This towel feels good on the skin, but it's hard to dry."
+  },
+  {
+    "sentence": "彼女は度胸があるが、無謀なところもある。",
+    "sentence_furigana": "彼女【かのじょ】は度胸【どきょう】があるが、無謀【むぼう】なところもある。",
+    "meaning": "She is courageous, but also reckless."
+  },
+  {
+    "sentence": "この企画は斬新だが、実現が難しい。",
+    "sentence_furigana": "この企画【きかく】は斬新【ざんしん】だが、実現【じつげん】が難【むずか】しい。",
+    "meaning": "This plan is innovative, but difficult to implement."
+  },
+  {
+    "sentence": "彼は大胆だが、慎重さに欠ける。",
+    "sentence_furigana": "彼【かれ】は大胆【だいたん】だが、慎重【しんちょう】さに欠【か】ける。",
+    "meaning": "He is bold, but lacks caution."
+  },
+  {
+    "sentence": "このコーヒーは香りが良いが、味が薄い。",
+    "sentence_furigana": "このコーヒーは香【かお】りが良【よ】いが、味【あじ】が薄【うす】い。",
+    "meaning": "This coffee smells good, but the taste is weak."
+  },
+  {
+    "sentence": "彼女は努力するが、結果が出ないことが多い。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】するが、結果【けっか】が出【で】ないことが多【おお】い。",
+    "meaning": "She tries hard, but often doesn't get results."
+  },
+  {
+    "sentence": "この情報は正確だが、古いかもしれない。",
+    "sentence_furigana": "この情報【じょうほう】は正確【せいかく】だが、古【ふる】いかもしれない。",
+    "meaning": "This information is accurate, but might be old."
+  },
+  {
+    "sentence": "彼は気前が良いが、計画性がない。",
+    "sentence_furigana": "彼【かれ】は気前【きまえ】が良い【よ】いが、計画性【けいかくせい】がない。",
+    "meaning": "He is generous, but lacks planning."
+  },
+  {
+    "sentence": "この服は可愛いが、洗濯が面倒だ。",
+    "sentence_furigana": "この服【ふく】は可愛【かわい】いが、洗濯【せんたく】が面倒【めんどう】だ。",
+    "meaning": "These clothes are cute, but troublesome to wash."
+  },
+  {
+    "sentence": "彼女は話術に長けているが、話が長い。",
+    "sentence_furigana": "彼女【かのじょ】は話術【わじゅつ】に長【た】けているが、話【はな】しが長【なが】い。",
+    "meaning": "She is skilled in speech, but her talks are long."
+  },
+  {
+    "sentence": "このペンは書きやすいが、インクの持ちが悪い。",
+    "sentence_furigana": "このペンは書【か】きやすいが、インクの持【も】ちが悪【わる】い。",
+    "meaning": "This pen is easy to write with, but the ink doesn't last long."
+  },
+  {
+    "sentence": "彼は才能があるが、傲慢なところがある。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】があるが、傲慢【ごうまん】なところがある。",
+    "meaning": "He is talented, but arrogant."
+  },
+  {
+    "sentence": "この絵は有名だが、あまり好きではない。",
+    "sentence_furigana": "この絵【え】は有名【ゆうめい】だが、あまり好【す】きではない。",
+    "meaning": "This painting is famous, but I don't like it much."
+  },
+  {
+    "sentence": "彼女は好奇心旺盛だが、飽きっぽい。",
+    "sentence_furigana": "彼女【かのじょ】は好奇心旺盛【こうきしんおうせい】だが、飽【あ】きっぽい。",
+    "meaning": "She is very curious, but gets bored easily."
+  },
+  {
+    "sentence": "この土地は安いが、交通の便が悪い。",
+    "sentence_furigana": "この土地【とち】は安【やす】いが、交通【こうつう】の便【べん】が悪【わる】い。",
+    "meaning": "This land is cheap, but inconvenient for transportation."
+  },
+  {
+    "sentence": "彼は経験豊富だが、新しい発想が少ない。",
+    "sentence_furigana": "彼【かれ】は経験豊富【けいけんほうふ】だが、新【あたら】しい発想【はっそう】が少【すく】ない。",
+    "meaning": "He is experienced, but lacks new ideas."
+  },
+  {
+    "sentence": "この機械は高性能だが、使い方が難しい。",
+    "sentence_furigana": "この機械【きかい】は高性能【こうせいのう】だが、使【つか】い方【かた】が難【むずか】しい。",
+    "meaning": "This machine has high performance, but it is difficult to use."
+  },
+  {
+    "sentence": "彼女は忍耐強いが、時に頑固になる。",
+    "sentence_furigana": "彼女【かのじょ】は忍耐強【にんたいづよ】いが、時【とき】に頑固【がんこ】になる。",
+    "meaning": "She is patient, but can be stubborn at times."
+  },
+  {
+    "sentence": "この薬は効き目があるが、飲むのを忘れる。",
+    "sentence_furigana": "この薬【くすり】は効【き】き目【め】があるが、飲【の】むのを忘【わす】れる。",
+    "meaning": "This medicine is effective, but I forget to take it."
+  },
+  {
+    "sentence": "彼は知識が豊富だが、実践経験が少ない。",
+    "sentence_furigana": "彼【かれ】は知識【ちしき】が豊富【ほうふ】だが、実践経験【じっせんけいけん】が少【すく】ない。",
+    "meaning": "He is knowledgeable, but lacks practical experience."
+  },
+  {
+    "sentence": "この店は品揃えが良いが、店員が少ない。",
+    "sentence_furigana": "この店【みせ】は品揃【しなぞろ】えが良い【よ】いが、店員【ていいん】が少【すく】ない。",
+    "meaning": "This store has a good selection, but few staff."
+  },
+  {
+    "sentence": "彼女は記憶力が良いが、忘れっぽいところもある。",
+    "sentence_furigana": "彼女【かのじょ】は記憶力【きおくりょく】が良い【よ】いが、忘【わす】れっぽいところもある。",
+    "meaning": "She has a good memory, but also tends to forget things."
+  },
+  {
+    "sentence": "この地域は治安が良いが、物価が高い。",
+    "sentence_furigana": "この地域【ちいき】は治安【ちあん】が良い【よ】いが、物価【ぶっか】が高【たか】い。",
+    "meaning": "This area has good public safety, but prices are high."
+  },
+  {
+    "sentence": "彼は率直だが、時に言葉がきつい。",
+    "sentence_furigana": "彼【かれ】は率直【そっちょく】だが、時【とき】に言葉【ことば】がきつい。",
+    "meaning": "He is frank, but sometimes his words are harsh."
+  },
+  {
+    "sentence": "この楽器は美しい音色だが、演奏が難しい。",
+    "sentence_furigana": "この楽器【がっき】は美【うつく】しい音色【ねいろ】だが、演奏【えんそう】が難【むずか】しい。",
+    "meaning": "This instrument has a beautiful sound, but is difficult to play."
+  },
+  {
+    "sentence": "彼女は独立心が強いが、孤立しやすい。",
+    "sentence_furigana": "彼女【かのじょ】は独立心【どくりつしん】が強【つよ】いが、孤立【こりつ】しやすい。",
+    "meaning": "She is independent, but tends to be isolated."
+  },
+  {
+    "sentence": "この山は登りやすいが、頂上からの眺めは良くない。",
+    "sentence_furigana": "この山【やま】は登【のぼ】りやすいが、頂上【ちょうじょう】からの眺【なが】めは良【よ】くない。",
+    "meaning": "This mountain is easy to climb, but the view from the summit is not good."
+  },
+  {
+    "sentence": "彼は分析力が高いが、決断が遅い。",
+    "sentence_furigana": "彼【かれ】は分析力【ぶんせきりょく】が高【たか】いが、決断【けつだん】が遅【おそ】い。",
+    "meaning": "He has strong analytical skills, but is slow to make decisions."
+  },
+  {
+    "sentence": "このソフトウェアは機能が多いが、操作が複雑だ。",
+    "sentence_furigana": "このソフトウェアは機能【きのう】が多【おお】いが、操作【そうさ】が複雑【ふくざつ】だ。",
+    "meaning": "This software has many functions, but its operation is complicated."
+  },
+  {
+    "sentence": "彼女は協調性があるが、自分の意見をあまり言わない。",
+    "sentence_furigana": "彼女【かのじょ】は協調性【きょうちょうせい】があるが、自分【じぶん】の意見【いけん】をあまり言【い】わない。",
+    "meaning": "She is cooperative, but doesn't express her own opinions much."
+  },
+  {
+    "sentence": "この街は静かだが、娯楽施設が少ない。",
+    "sentence_furigana": "この街【まち】は静【しず】かだが、娯楽施設【ごらくしせつ】が少【すく】ない。",
+    "meaning": "This town is quiet, but lacks entertainment facilities."
+  },
+  {
+    "sentence": "彼は粘り強いが、時に頑固に見える。",
+    "sentence_furigana": "彼【かれ】は粘【ねば】り強【づよ】いが、時【とき】に頑固【がんこ】に見【み】える。",
+    "meaning": "He is persistent, but sometimes appears stubborn."
+  },
+  {
+    "sentence": "この果物は甘いが、酸味も少しある。",
+    "sentence_furigana": "この果物【くだもの】は甘【あま】いが、酸味【さんみ】も少【すこ】しある。",
+    "meaning": "This fruit is sweet, but also a little tart."
+  },
+  {
+    "sentence": "彼女は繊細な感覚を持っているが、傷つきやすい。",
+    "sentence_furigana": "彼女【かのじょ】は繊細【せんさい】な感覚【かんかく】を持【も】っているが、傷【きず】つきやすい。",
+    "meaning": "She has a delicate sensibility, but is easily hurt."
+  },
+  {
+    "sentence": "この建物は歴史があるが、老朽化が進んでいる。",
+    "sentence_furigana": "この建物【たてもの】は歴史【れきし】があるが、老朽化【ろうきゅうか】が進【すす】んでいる。",
+    "meaning": "This building has a history, but is becoming dilapidated."
+  },
+  {
+    "sentence": "彼は洞察力があるが、それを言葉で表現するのが苦手だ。",
+    "sentence_furigana": "彼【かれ】は洞察力【どうさつりょく】があるが、それを使葉【ことば】で表現【ひょうげん】するのが苦手【にがて】だ。",
+    "meaning": "He has insight, but is not good at expressing it in words."
+  },
+  {
+    "sentence": "この車は速いが、燃費が悪い。",
+    "sentence_furigana": "この車【くるま】は速【はや】いが、燃費【ねんぴ】が悪【わる】い。",
+    "meaning": "This car is fast, but has poor fuel efficiency."
+  },
+  {
+    "sentence": "彼女は楽観的だが、危機管理能力に欠ける。",
+    "sentence_furigana": "彼女【かのじょ】は楽観的【らっかんてき】だが、危機管理能力【ききかんりｎｏｕｒｙｏｋｕ】に欠【か】ける。",
+    "meaning": "She is optimistic, but lacks crisis management skills."
+  },
+  {
+    "sentence": "この道具は便利だが、少し重い。",
+    "sentence_furigana": "この道具【どうぐ】は便利【べんり】だが、少【すこ】し重【おも】い。",
+    "meaning": "This tool is convenient, but a little heavy."
+  },
+  {
+    "sentence": "彼は誠実だが、少々不器用だ。",
+    "sentence_furigana": "彼【かれ】は誠実【せいじつ】だが、少々【しょうしょう】不器用【ぶきよう】だ。",
+    "meaning": "He is sincere, but a bit clumsy."
+  },
+  {
+    "sentence": "この資料は詳しいが、情報が多すぎる。",
+    "sentence_furigana": "この資料【しりょう】は詳【くわ】しいが、情報【じょうほう】が多【おお】すぎる。",
+    "meaning": "This document is detailed, but there is too much information."
+  },
+  {
+    "sentence": "彼女は努力家だが、休息も必要だ。",
+    "sentence_furigana": "彼女【かのじょ】は努力家【どりょくか】だが、休息【きゅうそく】も必要【ひつよう】だ。",
+    "meaning": "She is a hard worker, but rest is also necessary."
+  },
+  {
+    "sentence": "このレストランは雰囲気が良いが、値段が高い。",
+    "sentence_furigana": "このレストランは雰囲気【ふんいき】が良い【よ】いが、値段【ねだん】が高【たか】い。",
+    "meaning": "This restaurant has a good atmosphere, but the prices are high."
+  },
+  {
+    "sentence": "彼は行動力があるが、計画性に乏しい。",
+    "sentence_furigana": "彼【かれ】は行動力【こうどうりょく】があるが、計画性【けいかくせい】に乏【とぼ】しい。",
+    "meaning": "He is action-oriented, but lacks planning."
+  },
+  {
+    "sentence": "この生地は肌触りが良いが、丈夫ではない。",
+    "sentence_furigana": "この生地【きじ】は肌触【はだざわ】りが良【よ】いが、丈夫【じょうぶ】ではない。",
+    "meaning": "This fabric feels good on the skin, but it is not durable."
+  },
+  {
+    "sentence": "彼女は責任感が強いが、一人で抱え込みやすい。",
+    "sentence_furigana": "彼女【かのじょ】は責任感【せきにんかん】が強【つよ】いが、一人【ひとり】で抱【かか】え込【こ】みやすい。",
+    "meaning": "She has a strong sense of responsibility, but tends to take on too much by herself."
+  },
+  {
+    "sentence": "この本は学びが多いが、読むのに集中力が必要だ。",
+    "sentence_furigana": "この本【ほん】は学【まな】びが多い【おお】いが、読【よ】むのに集中力【しゅうちゅうりょく】が必要【ひつよう】だ。",
+    "meaning": "There is much to learn from this book, but concentration is required to read it."
+  },
+  {
+    "sentence": "彼は柔軟な考え方ができるが、変化を嫌うこともある。",
+    "sentence_furigana": "彼【かれ】は柔軟【じゅうなん】な考【かんが】え方【かた】ができるが、変化【へんか】を嫌【きら】うこともある。",
+    "meaning": "He can think flexibly, but sometimes dislikes change."
+  },
+  {
+    "sentence": "この薬は効き目があるが、苦くて飲みにくい。",
+    "sentence_furigana": "この薬【くすり】は効【き】き目【め】があるが、苦【にが】くて飲【の】みにくい。",
+    "meaning": "This medicine is effective, but it is bitter and difficult to swallow."
+  },
+  {
+    "sentence": "彼女は感情豊かだが、時に感情的になりすぎる。",
+    "sentence_furigana": "彼女【かのじょ】は感情豊【かんじょうゆた】かだが、時【とき】に感情的【かんじょうてき】になりすぎる。",
+    "meaning": "She is emotionally expressive, but sometimes becomes too emotional."
+  },
+  {
+    "sentence": "この商品はデザインが良いが、機能性が低い。",
+    "sentence_furigana": "この商品【しょうひん】はデザインが良い【よ】いが、機能性【きのうせい】が低【ひく】い。",
+    "meaning": "This product has a good design, but low functionality."
+  },
+  {
+    "sentence": "彼は冒険心があるが、計画を立てるのが苦手だ。",
+    "sentence_furigana": "彼【かれ】は冒険心【ぼうけんしん】があるが、計画【けいかく】を立【た】てるのが苦手【にがて】だ。",
+    "meaning": "He is adventurous, but bad at planning."
+  },
+  {
+    "sentence": "この小説は感動的だが、登場人物が多い。",
+    "sentence_furigana": "この小説【しょうせつ】は感動的【かんどうてき】だが、登場人物【とうじょうじんぶつ】が多【おお】い。",
+    "meaning": "This novel is moving, but has many characters."
+  },
+  {
+    "sentence": "彼女は明るいが、少しおしゃべりすぎる。",
+    "sentence_furigana": "彼女【かのじょ】は明【あか】るいが、少【すこ】しおしゃべりすぎる。",
+    "meaning": "She is cheerful, but talks a little too much."
+  },
+  {
+    "sentence": "この部屋は広いが、日当たりが悪い。",
+    "sentence_furigana": "この部屋【へや】は広【ひろ】いが、日当【ひあ】たりが悪【わる】い。",
+    "meaning": "This room is spacious, but does not get much sunlight."
+  },
+  {
+    "sentence": "彼は熱心だが、時々やりすぎる。",
+    "sentence_furigana": "彼【かれ】は熱心【ねっしん】だが、時々【ときどき】やりすぎる。",
+    "meaning": "He is enthusiastic, but sometimes overdoes it."
+  },
+  {
+    "sentence": "この絵は個性的だが、好みが分かれるだろう。",
+    "sentence_furigana": "この絵【え】は個性的【こせいてき】だが、好【この】みが分【わ】かれるだろう。",
+    "meaning": "This painting is unique, but will likely be divisive."
+  },
+  {
+    "sentence": "彼女は聡明だが、少し引っ込み思案だ。",
+    "sentence_furigana": "彼女【かのじょ】は聡明【そうめい】だが、少【すこ】し引【ひっ】込【こ】み思案【しあん】だ。",
+    "meaning": "She is intelligent, but a bit retiring."
+  },
+  {
+    "sentence": "この土地は景観が良いが、開発が進んでいない。",
+    "sentence_furigana": "この土地【とち】は景観【けいかん】が良い【よ】いが、開発【かいはつ】が進【すす】んでいない。",
+    "meaning": "This land has good scenery, but development has not progressed."
+  },
+  {
+    "sentence": "彼はユーモアのセンスがあるが、真面目な話にはあまり乗ってこない。",
+    "sentence_furigana": "彼【かれ】はユーモアのセンスがあるが、真面目【まじめ】な話【はな】しにはあまり乗【の】ってこない。",
+    "meaning": "He has a sense of humor, but doesn't engage much in serious conversations."
+  },
+  {
+    "sentence": "この道具は使いやすいが、耐久性が低い。",
+    "sentence_furigana": "この道具【どうぐ】は使【つか】いやすいが、耐久性【たいきゅうせい】が低【ひく】い。",
+    "meaning": "This tool is easy to use, but its durability is low."
+  },
+  {
+    "sentence": "彼女は意志が強いが、頑固な一面もある。",
+    "sentence_furigana": "彼女【かのじょ】は意志【いし】が強【つよ】いが、頑固【がんこ】な一面【いちめん】もある。",
+    "meaning": "She has a strong will, but also a stubborn side."
+  },
+  {
+    "sentence": "この料理は美味しいが、量が少ない。",
+    "sentence_furigana": "この料理【りょうり】は美味【おい】しいが、量【りょう】が少【すく】ない。",
+    "meaning": "This dish is delicious, but the portion is small."
+  },
+  {
+    "sentence": "彼は発想が豊かだが、それを形にするのは苦手だ。",
+    "sentence_furigana": "彼【かれ】は発想【はっそう】が豊【ゆた】かだが、それを形【かたち】にするのは苦手【にがて】だ。",
+    "meaning": "He has abundant ideas, but is not good at shaping them."
+  },
+  {
+    "sentence": "このソフトウェアは高機能だが、初心者には難しい。",
+    "sentence_furigana": "このソフトウェアは高機能【こうきのう】だが、初心者【しょしんしゃ】には難【むずか】しい。",
+    "meaning": "This software has high functionality, but is difficult for beginners."
+  },
+  {
+    "sentence": "彼女はリーダーシップがあるが、時に独断的になる。",
+    "sentence_furigana": "彼女【かのじょ】はリーダーシップがあるが、時【とき】に独断的【どくだんてき】になる。",
+    "meaning": "She has leadership, but can be dictatorial at times."
+  },
+  {
+    "sentence": "このタオルは肌触りが良いが、値段が高い。",
+    "sentence_furigana": "このタオルは肌触【はだざわ】りが良【よ】いが、値段【ねだん】が高【たか】い。",
+    "meaning": "This towel feels good on the skin, but it is expensive."
+  },
+  {
+    "sentence": "彼は社交的だが、内面は繊細だ。",
+    "sentence_furigana": "彼【かれ】は社交的【しゃこうてき】だが、内面【ないめん】は繊細【せんさい】だ。",
+    "meaning": "He is sociable, but sensitive on the inside."
+  },
+  {
+    "sentence": "この企画は魅力的だが、予算が足りない。",
+    "sentence_furigana": "この企画【きかく】は魅力的【みりょくてき】だが、予算【よさん】が足【た】りない。",
+    "meaning": "This plan is attractive, but the budget is insufficient."
+  },
+  {
+    "sentence": "彼女は忍耐強いが、たまに爆発する。",
+    "sentence_furigana": "彼女【かのじょ】は忍耐強【にんたいづよ】いが、たまに爆発【ばくはつ】する。",
+    "meaning": "She is patient, but explodes occasionally."
+  },
+  {
+    "sentence": "この商品は使い勝手が良いが、デザイン性が低い。",
+    "sentence_furigana": "この商品【しょうひん】は使【つか】い勝手【がっ】てが良い【よ】いが、デザイン性が低【ひく】い。",
+    "meaning": "This product is user-friendly, but lacks design appeal."
+  },
+  {
+    "sentence": "彼は慎重だが、時々行動が遅れる。",
+    "sentence_furigana": "彼【かれ】は慎重【しんちょう】だが、時々【ときどき】行動【こうどう】が遅【おく】れる。",
+    "meaning": "He is cautious, but sometimes his actions are delayed."
+  },
+  {
+    "sentence": "この映画は感動的だが、結末が悲しい。",
+    "sentence_furigana": "この映画【えいが】は感動的【かんどうてき】だが、結末【けつまつ】が悲【かな】しい。",
+    "meaning": "This movie is moving, but the ending is sad."
+  },
+  {
+    "sentence": "彼女は行動力があるが、計画を立てるのが少し苦手だ。",
+    "sentence_furigana": "彼女【かのじょ】は行動力【こうどうりょく】があるが、計画【けいかく】を立【た】てるのが少【すこ】し苦手【にがて】だ。",
+    "meaning": "She is action-oriented, but a little bad at planning."
+  },
+  {
+    "sentence": "この本は読みやすいが、内容は薄い。",
+    "sentence_furigana": "この本【ほん】は読【よ】みやすいが、内容【ないよう】は薄【うす】い。",
+    "meaning": "This book is easy to read, but its content is shallow."
+  },
+  {
+    "sentence": "彼は分析力は高いが、実行力が伴わない。",
+    "sentence_furigana": "彼【かれ】は分析力【ぶんせきりょく】は高【たか】いが、実行力【じっこうりょく】が伴【ともな】わない。",
+    "meaning": "He has strong analytical skills, but lacks execution power."
+  },
+  {
+    "sentence": "この料理は健康的だが、味が単調だ。",
+    "sentence_furigana": "この料理【りょうり】は健康的【けんこうてき】だが、味【あじ】が単調【たんちょう】だ。",
+    "meaning": "This dish is healthy, but the taste is monotonous."
+  },
+  {
+    "sentence": "彼女は思いやりがあるが、優柔不断なところがある。",
+    "sentence_furigana": "彼女【かのじょ】は思【おも】いやりがあるが、優柔不断【ゆうじゅうふだん】なところがある。",
+    "meaning": "She is considerate, but can be indecisive."
+  },
+  {
+    "sentence": "この地域は自然が豊かだが、生活の便は悪い。",
+    "sentence_furigana": "この地域【ちいき】は自然【しぜん】が豊か【ゆたか】だが、生活【せいかつ】の便【べん】は悪【わる】い。",
+    "meaning": "This area is rich in nature, but inconvenient for daily life."
+  },
+  {
+    "sentence": "彼は誠実で信頼できるが、やや保守的だ。",
+    "sentence_furigana": "彼【かれ】は誠実【せいじつ】で信頼【しんらい】できるが、やや保守的【ほしゅてき】だ。",
+    "meaning": "He is sincere and trustworthy, but somewhat conservative."
+  },
+  {
+    "sentence": "この製品は優れているが、価格が高い。",
+    "sentence_furigana": "この製品【せいひん】は優【すぐ】れているが、価格【かかく】が高【たか】い。",
+    "meaning": "This product is excellent, but expensive."
+  },
+  {
+    "sentence": "彼女は明るく元気だが、少し騒がしい。",
+    "sentence_furigana": "彼女【かのじょ】は明【あか】るく元気【げんき】だが、少【すこ】し騒【さわ】がしい。",
+    "meaning": "She is bright and energetic, but a bit noisy."
+  },
+  {
+    "sentence": "このソフトウェアは使いやすいが、機能が少ない。",
+    "sentence_furigana": "このソフトウェアは使【つか】いやすいが、機能【きのう】が少【すく】ない。",
+    "meaning": "This software is easy to use, but has limited functions."
+  },
+  {
+    "sentence": "彼は努力家で勤勉だが、運に恵まれない。",
+    "sentence_furigana": "彼【かれ】は努力家【どりょくか】で勤勉【きんべん】だが、運【うん】に恵【めぐ】まれない。",
+    "meaning": "He is a hard worker and diligent, but not blessed with luck."
+  },
+  {
+    "sentence": "この映画は有名だが、私はあまり面白いと思わなかった。",
+    "sentence_furigana": "この映画【えいが】は有名【ゆうめい】だが、私【わたし】はあまり面白【おもしろ】いと思【おも】わなかった。",
+    "meaning": "This movie is famous, but I didn't find it very interesting."
+  },
+  {
+    "sentence": "彼女は親切で丁寧だが、話すスピードが速い。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】で丁寧【ていねい】だが、話【はな】すスピードが速【はや】い。",
+    "meaning": "She is kind and polite, but speaks fast."
+  },
+  {
+    "sentence": "この商品は品質が良いが、値段が高い。",
+    "sentence_furigana": "この商品【しょうひん】は品質【ひんしつ】が良い【よ】いが、値段【ねだん】が高【たか】い。",
+    "meaning": "This product is of good quality, but expensive."
+  },
+  {
+    "sentence": "彼は大胆で行動力があるが、時に無謀だ。",
+    "sentence_furigana": "彼【かれ】は大胆【だいたん】で行動力【こうどうりょく】があるが、時【とき】に無謀【むぼう】だ。",
+    "meaning": "He is bold and action-oriented, but sometimes reckless."
+  },
+  {
+    "sentence": "このレストランは料理が美味しいが、サービスが遅い。",
+    "sentence_furigana": "このレストランは料理【りょうり】が美味【おい】しいが、サービスが遅【おそ】い。",
+    "meaning": "The food at this restaurant is delicious, but the service is slow."
+  },
+  {
+    "sentence": "彼女は細部にまで注意を払うが、それが時間を要する。",
+    "sentence_furigana": "彼女【かのじょ】は細部【さいぶ】にまで注意【ちゅうい】を払【はら】うが、それが時間【じかん】を要【よう】する。",
+    "meaning": "She pays attention to detail, but it takes time."
+  },
+  {
+    "sentence": "彼は理論に強いが、実地経験が少ない。",
+    "sentence_furigana": "彼【かれ】は理論【りろん】に強【つよ】いが、実地経験【じっちけいけん】が少【すく】ない。",
+    "meaning": "He is strong in theory, but lacks practical experience."
+  }
+]

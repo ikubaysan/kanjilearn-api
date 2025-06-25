@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "この手紙は急いで送ってください。",
+    "sentence_furigana": "この手紙【てがみ】は急【いそ】いで送【おく】ってください。",
+    "meaning": "Please send this letter quickly."
+  },
+  {
+    "sentence": "彼は使い魔を派遣した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い魔【ま】を派遣【はけん】しました。",
+    "meaning": "He dispatched a familiar."
+  },
+  {
+    "sentence": "学校に寄付をしました。",
+    "sentence_furigana": "学校【がっこう】に寄付【きふ】をしました。",
+    "meaning": "I made a donation to the school."
+  },
+  {
+    "sentence": "彼は遠い国へ旅をした。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い国【くに】へ旅【たび】をしました。",
+    "meaning": "He traveled to a distant country."
+  },
+  {
+    "sentence": "彼女は遣い手を雇った。",
+    "sentence_furigana": "彼女【かのじょ】は遣【つか】い手【て】を雇【やと】いました。",
+    "meaning": "She hired a messenger."
+  },
+  {
+    "sentence": "使徒は各地を巡った。",
+    "sentence_furigana": "使徒【しと】は各地【かくち】を巡【めぐ】りました。",
+    "meaning": "The apostle traveled to various places."
+  },
+  {
+    "sentence": "彼らは無駄遣いをやめた。",
+    "sentence_furigana": "彼【かれ】らは無駄遣【むだづか】いをやめました。",
+    "meaning": "They stopped wasting money."
+  },
+  {
+    "sentence": "この荷物は明日発送されます。",
+    "sentence_furigana": "この荷物【にもつ】は明日【あす】発送【はっそう】されます。",
+    "meaning": "This luggage will be dispatched tomorrow."
+  },
+  {
+    "sentence": "彼は人々を遣わした。",
+    "sentence_furigana": "彼【かれ】は人々【ひとびと】を遣【つか】わしました。",
+    "meaning": "He sent people."
+  },
+  {
+    "sentence": "彼女は親切に物を与えた。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】に物【もの】をを与【あた】えました。",
+    "meaning": "She kindly gave things."
+  },
+  {
+    "sentence": "彼は任務を遂行した。",
+    "sentence_furigana": "彼【かれ】は任務【にんむ】を遂行【すいこう】しました。",
+    "meaning": "He carried out the mission."
+  },
+  {
+    "sentence": "この船はアメリカへ向かう。",
+    "sentence_furigana": "この船【ふね】はアメリカへ向【む】かいます。",
+    "meaning": "This ship is bound for America."
+  },
+  {
+    "sentence": "彼は使い道を考えた。",
+    "sentence_furigana": "彼【かれ】は使【つか】い道【みち】を考【かんが】えました。",
+    "meaning": "He thought about how to use it."
+  },
+  {
+    "sentence": "彼女は寄付を募った。",
+    "sentence_furigana": "彼女【かのじょ】は寄付【きふ】を募【つの】りました。",
+    "meaning": "She solicited donations."
+  },
+  {
+    "sentence": "彼は使い古した靴を捨てた。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】した靴【くつ】を捨【す】てました。",
+    "meaning": "He threw away his worn-out shoes."
+  },
+  {
+    "sentence": "使者は王の命令を伝えた。",
+    "sentence_furigana": "使者【ししゃ】は王【おう】の命令【めいれい】を伝【つた】えました。",
+    "meaning": "The envoy conveyed the king's orders."
+  },
+  {
+    "sentence": "彼は無駄遣いをしない。",
+    "sentence_furigana": "彼【かれ】は無駄遣【むだづか】いをしません。",
+    "meaning": "He does not waste."
+  },
+  {
+    "sentence": "彼女は遠い親戚に手紙を送った。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い親戚【しんせき】に手紙【てがみ】を送【おく】りました。",
+    "meaning": "She sent a letter to a distant relative."
+  },
+  {
+    "sentence": "彼は遠征隊を組織した。",
+    "sentence_furigana": "彼【かれ】は遠征隊【えんせいたい】を組織【そしき】しました。",
+    "meaning": "He organized an expeditionary force."
+  },
+  {
+    "sentence": "使われなくなった道具は片付けられた。",
+    "sentence_furigana": "使【つか】われなくなった道具【どうぐ】は片付【かたづ】けられました。",
+    "meaning": "The unused tools were put away."
+  },
+  {
+    "sentence": "彼は使いやすい道具を選んだ。",
+    "sentence_furigana": "彼【かれ】は使【つか】いやすい道具【どうぐ】を選【えら】びました。",
+    "meaning": "He chose easy-to-use tools."
+  },
+  {
+    "sentence": "彼女は寄付品を集めた。",
+    "sentence_furigana": "彼女【かのじょ】は寄付品【きふひん】を集【あつ】めました。",
+    "meaning": "She collected donated items."
+  },
+  {
+    "sentence": "彼は使いの者を派遣した。",
+    "sentence_furigana": "彼【かれ】は使【つか】いの者【もの】を派遣【はけん】しました。",
+    "meaning": "He dispatched a servant."
+  },
+  {
+    "sentence": "使徒たちは宣教のために旅をした。",
+    "sentence_furigana": "使徒【しと】たちは宣教【せんきょう】のために旅【たび】をしました。",
+    "meaning": "The apostles traveled for evangelism."
+  },
+  {
+    "sentence": "彼は古い家具を処分した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い家具【かぐ】を処分【しょぶん】しました。",
+    "meaning": "He disposed of the old furniture."
+  },
+  {
+    "sentence": "彼女は寄付を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は寄付【きふ】を受【う】け取【と】りました。",
+    "meaning": "She received a donation."
+  },
+  {
+    "sentence": "彼は遣わされた。",
+    "sentence_furigana": "彼【かれ】は遣【つか】わされました。",
+    "meaning": "He was sent."
+  },
+  {
+    "sentence": "使い捨てのコップは便利だ。",
+    "sentence_furigana": "使【つか】い捨【す】てのコップは便利【べんり】だ。",
+    "meaning": "Disposable cups are convenient."
+  },
+  {
+    "sentence": "彼は国連の平和維持軍を派遣した。",
+    "sentence_furigana": "彼【かれ】は国連【こくれん】の平和維持軍【へいわいじぐん】を派遣【はけん】しました。",
+    "meaning": "He dispatched UN peacekeepers."
+  },
+  {
+    "sentence": "彼女は慈善活動に寄付をした。",
+    "sentence_furigana": "彼女【かのじょ】は慈善活動【じぜんかつどう】に寄付【きふ】をしました。",
+    "meaning": "She donated to charity."
+  },
+  {
+    "sentence": "彼は使いの者を呼び寄せた。",
+    "sentence_furigana": "彼【かれ】は使【つか】いの者【もの】を呼【よ】び寄【よ】せました。",
+    "meaning": "He called for a messenger."
+  },
+  {
+    "sentence": "彼女は使い道のないお金を寄付した。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い道【みち】のないお金を寄付【きふ】しました。",
+    "meaning": "She donated money that had no use."
+  },
+  {
+    "sentence": "彼は遠い地へ旅立った。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い地【ち】へ旅立【たびだ】ちました。",
+    "meaning": "He departed for a distant land."
+  },
+  {
+    "sentence": "使者は王に謁見した。",
+    "sentence_furigana": "使者【ししゃ】は王【おう】に謁見【えっけん】しました。",
+    "meaning": "The envoy had an audience with the king."
+  },
+  {
+    "sentence": "彼女は使い古した布を再利用した。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い古【ふる】した布【ぬの】を再利用【さいりよう】しました。",
+    "meaning": "She reused old cloth."
+  },
+  {
+    "sentence": "彼は親善使節団を派遣した。",
+    "sentence_furigana": "彼【かれ】は親善使節団【しんぜんしせつだん】を派遣【はけん】しました。",
+    "meaning": "He dispatched a goodwill delegation."
+  },
+  {
+    "sentence": "彼女は孤児院に寄付をした。",
+    "sentence_furigana": "彼女【かのじょ】は孤児院【こじいん】に寄付【きふ】をしました。",
+    "meaning": "She made a donation to the orphanage."
+  },
+  {
+    "sentence": "彼は使い魔を召唤した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い魔【ま】を召喚【しょうかん】しました。",
+    "meaning": "He summoned a familiar."
+  },
+  {
+    "sentence": "使い道が分からなかった。",
+    "sentence_furigana": "使【つか】い道【みち】が分【わ】からなかった。",
+    "meaning": "I didn't know how to use it."
+  },
+  {
+    "sentence": "彼女は遠い故郷を思った。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い故郷【こきょう】を思【おも】いました。",
+    "meaning": "She thought of her distant homeland."
+  },
+  {
+    "sentence": "彼は使い捨ての道具を嫌った。",
+    "sentence_furigana": "彼【かれ】は使【つか】い捨【す】ての道具【どうぐ】を嫌【きら】いました。",
+    "meaning": "He disliked disposable tools."
+  },
+  {
+    "sentence": "使臣は国王に謁見を求めた。",
+    "sentence_furigana": "使臣【ししん】は国王【こくおう】に謁見【えっけん】を求【もと】めました。",
+    "meaning": "The envoy requested an audience with the king."
+  },
+  {
+    "sentence": "彼は寄付金を集めた。",
+    "sentence_furigana": "彼【かれ】は寄付金【きふきん】を集【あつ】めました。",
+    "meaning": "He collected donations."
+  },
+  {
+    "sentence": "彼女は使い古したものを寄付した。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い古【ふる】したものを寄付【きふ】しました。",
+    "meaning": "She donated worn-out items."
+  },
+  {
+    "sentence": "彼は使い道を工夫した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い道【みち】を工夫【くふう】しました。",
+    "meaning": "He devised a way to use it."
+  },
+  {
+    "sentence": "使徒は平和を説いた。",
+    "sentence_furigana": "使徒【しと】は平和【へいわ】を説【と】きました。",
+    "meaning": "The apostle preached peace."
+  },
+  {
+    "sentence": "彼女は遠くの友人へ手紙を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】くの友人【ゆうじん】へ手紙【てがみ】を書【か】きました。",
+    "meaning": "She wrote a letter to a friend far away."
+  },
+  {
+    "sentence": "彼は使い魔を使役した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い魔【ま】を使役【しえき】しました。",
+    "meaning": "He commanded a familiar."
+  },
+  {
+    "sentence": "彼女は孤児たちに寄付をした。",
+    "sentence_furigana": "彼女【かのじょ】は孤児【こじ】たちに寄付【きふ】をしました。",
+    "meaning": "She made a donation to the orphans."
+  },
+  {
+    "sentence": "彼は使い道の難しいお金を寄付した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い道【みち】の難【むずか】しいお金を寄付【きふ】しました。",
+    "meaning": "He donated money that was difficult to use."
+  },
+  {
+    "sentence": "使節団は友好の証として品物を贈った。",
+    "sentence_furigana": "使節団【しせつだん】は友好【ゆうこう】の証【あかし】として品物【しなもの】を贈【おく】りました。",
+    "meaning": "The delegation presented gifts as a token of friendship."
+  },
+  {
+    "sentence": "彼は無駄遣いしない人だ。",
+    "sentence_furigana": "彼【かれ】は無駄遣【むだづか】いしない人【ひと】だ。",
+    "meaning": "He is not a wasteful person."
+  },
+  {
+    "sentence": "彼女は遠い国へ派遣された。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い国【くに】へ派遣【はけん】されました。",
+    "meaning": "She was dispatched to a distant country."
+  },
+  {
+    "sentence": "使徒は各地に教会を設立した。",
+    "sentence_furigana": "使徒【しと】は各地【かくち】に教会【きょうかい】を設立【せつりつ】しました。",
+    "meaning": "The apostle established churches in various regions."
+  },
+  {
+    "sentence": "彼は古い道具を修理した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い道具【どうぐ】を修理【しゅうり】しました。",
+    "meaning": "He repaired old tools."
+  },
+  {
+    "sentence": "彼女は学校に文房具を寄付した。",
+    "sentence_furigana": "彼女【かのじょ】は学校【がっこう】に文房具【ぶんぼうぐ】を寄付【きふ】しました。",
+    "meaning": "She donated stationery to the school."
+  },
+  {
+    "sentence": "彼は使い古した紙を再利用した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】した紙【かみ】を再利用【さいりよう】しました。",
+    "meaning": "He reused old paper."
+  },
+  {
+    "sentence": "彼女は遠い親戚を訪ねた。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い親戚【しんせき】を訪【たず】ねました。",
+    "meaning": "She visited distant relatives."
+  },
+  {
+    "sentence": "彼は使いの者を急いで行かせた。",
+    "sentence_furigana": "彼【かれ】は使【つか】いの者【もの】を急【いそ】いで行かせた。",
+    "meaning": "He sent the messenger in a hurry."
+  },
+  {
+    "sentence": "使者が王に進物を贈った。",
+    "sentence_furigana": "使者【ししゃ】は王【おう】に進物【しんぶつ】を贈【おく】りました。",
+    "meaning": "The envoy presented gifts to the king."
+  },
+  {
+    "sentence": "彼女は使い道がないので寄付した。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い道【みち】がないので寄付【きふ】しました。",
+    "meaning": "She donated because she had no use for it."
+  },
+  {
+    "sentence": "彼は使い魔を使役して物を運ばせた。",
+    "sentence_furigana": "彼【かれ】は使【つか】い魔【ま】を使役【しえき】して物【もの】を運【はこ】ばせました。",
+    "meaning": "He had his familiar transport items."
+  },
+  {
+    "sentence": "彼女は遠い昔を懐かしんだ。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い昔【むかし】を懐【なつ】かしみました。",
+    "meaning": "She reminisced about the distant past."
+  },
+  {
+    "sentence": "彼は使い古した服を寄付した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】した服【ふく】を寄付【きふ】しました。",
+    "meaning": "He donated his worn-out clothes."
+  },
+  {
+    "sentence": "使節は和平の使者として送られた。",
+    "sentence_furigana": "使節【しせつ】は和平【わへい】の使者【ししゃ】として送【おく】られました。",
+    "meaning": "The envoy was sent as a messenger of peace."
+  },
+  {
+    "sentence": "彼は使い道を考える前に使ってしまった。",
+    "sentence_furigana": "彼【かれ】は使【つか】い道【みち】を考【かんが】える前【まえ】に使【つか】ってしまいました。",
+    "meaning": "He used it before thinking about how to use it."
+  },
+  {
+    "sentence": "彼女は寄付を受け入れる部署に連絡した。",
+    "sentence_furigana": "彼女【かのじょ】は寄付【きふ】を受【う】け入【い】れる部署【ぶしょ】に連絡【れんらく】しました。",
+    "meaning": "She contacted the department that accepts donations."
+  },
+  {
+    "sentence": "彼は遠い親戚に仕送りをした。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い親戚【しんせき】に仕送【しお】りしました。",
+    "meaning": "He sent remittances to distant relatives."
+  },
+  {
+    "sentence": "彼女は使い捨ての医療器具を廃棄した。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い捨【す】ての医療器具【いりょうきぐ】を廃棄【はいき】しました。",
+    "meaning": "She disposed of single-use medical equipment."
+  },
+  {
+    "sentence": "彼は使い道のない品物を寄付した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い道【みち】のない品物【しなもの】を寄付【きふ】しました。",
+    "meaning": "He donated items that had no use."
+  },
+  {
+    "sentence": "使者は平和のメッセージを届けた。",
+    "sentence_furigana": "使者【ししゃ】は平和【へいわ】のメッセージを届【とど】けました。",
+    "meaning": "The envoy delivered a message of peace."
+  },
+  {
+    "sentence": "彼女は遠い戦地へ物資を送った。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い戦地【せんち】へ物資【ぶっし】を送【おく】りました。",
+    "meaning": "She sent supplies to a distant battlefield."
+  },
+  {
+    "sentence": "彼は使い古したカバンを寄付した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】したカバンを寄付【きふ】しました。",
+    "meaning": "He donated his worn-out bag."
+  },
+  {
+    "sentence": "派遣された兵士たちは勇ましく戦った。",
+    "sentence_furigana": "派遣【はけん】された兵士【へいし】たちは勇【いさ】ましく戦【たたか】いました。",
+    "meaning": "The dispatched soldiers fought bravely."
+  },
+  {
+    "sentence": "彼女は使いの者を待っていた。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】いの者【もの】を待【ま】っていました。",
+    "meaning": "She was waiting for a messenger."
+  },
+  {
+    "sentence": "彼は遠い国に住む友人に手紙を送った。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い国【くに】に住【す】む友人【ゆうじん】に手紙【てがみ】を送【おく】りました。",
+    "meaning": "He sent a letter to a friend living in a distant country."
+  },
+  {
+    "sentence": "使徒はキリストの教えを広めた。",
+    "sentence_furigana": "使徒【しと】はキリストの教【おし】えを広【ひろ】めました。",
+    "meaning": "The apostle spread the teachings of Christ."
+  },
+  {
+    "sentence": "彼女は寄付された品物を整理した。",
+    "sentence_furigana": "彼女【かのじょ】は寄付【きふ】された品物【しなもの】を整理【せいり】しました。",
+    "meaning": "She organized the donated items."
+  },
+  {
+    "sentence": "彼は使い古したノートをリサイクルした。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】したノートをリサイクルしました。",
+    "meaning": "He recycled his old notebooks."
+  },
+  {
+    "sentence": "使者は平和条約を締結した。",
+    "sentence_furigana": "使者【ししゃ】は平和条約【へいわじょうやく】を締結【ていけつ】しました。",
+    "meaning": "The envoy concluded a peace treaty."
+  },
+  {
+    "sentence": "彼女は使い道を考えずに物を買った。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い道【みち】を考【かんが】えずに物【もの】を買【か】いました。",
+    "meaning": "She bought things without considering their use."
+  },
+  {
+    "sentence": "彼は寄付金募集のボランティアをした。",
+    "sentence_furigana": "彼【かれ】は寄付金募集【きふきんぼしゅう】のボランティアをしました。",
+    "meaning": "He volunteered to collect donations."
+  },
+  {
+    "sentence": "彼女は使い古したタオルを寄付した。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い古【ふる】したタオルを寄付【きふ】しました。",
+    "meaning": "She donated used towels."
+  },
+  {
+    "sentence": "彼は使いの者を派遣して情報を集めさせた。",
+    "sentence_furigana": "彼【かれ】は使【つか】いの者【もの】を派遣【はけん】して情報【じょうほう】を集【あつ】めさせました。",
+    "meaning": "He dispatched messengers to gather information."
+  },
+  {
+    "sentence": "使徒は多くの奇跡を行った。",
+    "sentence_furigana": "使徒【しと】は多【おお】くの奇跡【きせき】を行【おこな】いました。",
+    "meaning": "The apostle performed many miracles."
+  },
+  {
+    "sentence": "彼女は遠い親戚から手紙を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い親戚【しんせき】から手紙【てがみ】を受【う】け取【と】りました。",
+    "meaning": "She received a letter from a distant relative."
+  },
+  {
+    "sentence": "彼は使い古した靴を修理に出した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】した靴【くつ】を修理【しゅうり】に出【だ】しました。",
+    "meaning": "He sent his worn-out shoes for repair."
+  },
+  {
+    "sentence": "彼女は寄付金で学校を建てた。",
+    "sentence_furigana": "彼女【かのじょ】は寄付金【きふきん】で学校【がっこう】を建【た】てました。",
+    "meaning": "She built a school with donations."
+  },
+  {
+    "sentence": "彼は使い古した衣類を寄付した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】した衣類【いるい】を寄付【きふ】しました。",
+    "meaning": "He donated used clothing."
+  },
+  {
+    "sentence": "使節団は友好関係を築いた。",
+    "sentence_furigana": "使節団【しせつだん】は友好関係【ゆうこうかんけい】を築【きず】きました。",
+    "meaning": "The delegation built friendly relations."
+  },
+  {
+    "sentence": "彼女は使い古したものを再利用することにした。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】い古【ふる】したものを再利用【さいりよう】することにしました。",
+    "meaning": "She decided to reuse worn-out items."
+  },
+  {
+    "sentence": "彼は寄付を呼びかけた。",
+    "sentence_furigana": "彼【かれ】は寄付【きふ】を呼【よ】びかけました。",
+    "meaning": "He appealed for donations."
+  },
+  {
+    "sentence": "彼女は使いの者を信頼していた。",
+    "sentence_furigana": "彼女【かのじょ】は使【つか】いの者【もの】を信頼【しんらい】していました。",
+    "meaning": "She trusted her messenger."
+  },
+  {
+    "sentence": "彼は遠い地から来た旅人だった。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い地【ち】から来【き】た旅人【たびびと】でした。",
+    "meaning": "He was a traveler from a distant land."
+  },
+  {
+    "sentence": "使徒は弟子たちに命令を伝えた。",
+    "sentence_furigana": "使徒【しと】は弟子【でし】たちに命令【めいれい】を伝【つた】えました。",
+    "meaning": "The apostle conveyed orders to his disciples."
+  },
+  {
+    "sentence": "彼女は寄付された食料を配った。",
+    "sentence_furigana": "彼女【かのじょ】は寄付【きふ】された食料【しょくりょう】を配【くば】りました。",
+    "meaning": "She distributed the donated food."
+  },
+  {
+    "sentence": "彼は使い古した毛布を寄付した。",
+    "sentence_furigana": "彼【かれ】は使【つか】い古【ふる】した毛布【もうふ】を寄付【きふ】しました。",
+    "meaning": "He donated worn-out blankets."
+  },
+  {
+    "sentence": "彼女は遠い銀河系を探検した。",
+    "sentence_furigana": "彼女【かのじょ】は遠【とお】い銀河系【ぎんがけい】を探検【たんけん】しました。",
+    "meaning": "She explored a distant galaxy."
+  }
+]

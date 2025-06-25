@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "彼はアルコールに弱い。",
+    "sentence_furigana": "彼【かれ】はアルコールに弱【よわ】い。",
+    "meaning": "He is weak to alcohol."
+  },
+  {
+    "sentence": "アルゼンチンは南米にある国です。",
+    "sentence_furigana": "アルゼンチンは南米【なんべい】にある国【くに】です。",
+    "meaning": "Argentina is a country in South America."
+  },
+  {
+    "sentence": "その部屋の隅に小さな机があった。",
+    "sentence_furigana": "その部屋【へや】の隅【すみ】に小【ちい】さな机【つくえ】があった。",
+    "meaning": "There was a small desk in the corner of the room."
+  },
+  {
+    "sentence": "彼は上司にいつもおべっかを使っている。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】にいつもおべっかを使【つか】っている。",
+    "meaning": "He is always flattering his boss."
+  },
+  {
+    "sentence": "子供はお母さんの顔色をうかがっていた。",
+    "sentence_furigana": "子供【こども】はお母【おかあ】さんの顔色【かおいろ】をうかがっていた。",
+    "meaning": "The child was watching their mother's expression."
+  },
+  {
+    "sentence": "南アフリカには多様な野生生物が生息している。",
+    "sentence_furigana": "南アフリカには多様【たよう】な野生生物【やせいせいぶつ】が生息【せいそく】している。",
+    "meaning": "Diverse wildlife inhabits South Africa."
+  },
+  {
+    "sentence": "彼女はいつも人の機嫌を取ろうとする。",
+    "sentence_furigana": "彼女【かのじょ】はいつも人【ひと】の機嫌【きげん】を取【と】ろうとする。",
+    "meaning": "She always tries to please others."
+  },
+  {
+    "sentence": "この建物には休憩用の alcove がいくつかある。",
+    "sentence_furigana": "この建物【たてもの】には休憩用【きゅうけいよう】の alcove がいくつかある。",
+    "meaning": "This building has several alcoves for resting."
+  },
+  {
+    "sentence": "彼は先生に気に入られようと必死だった。",
+    "sentence_furigana": "彼【かれ】は先生【せんせい】に気【き】に入【い】られようと必死【ひっし】だった。",
+    "meaning": "He was desperate to be liked by the teacher."
+  },
+  {
+    "sentence": "庭の片隅にベンチが置かれていた。",
+    "sentence_furigana": "庭【にわ】の片隅【かたすみ】にベンチが置【お】かれていた。",
+    "meaning": "A bench was placed in a corner of the garden."
+  },
+  {
+    "sentence": "彼はアイルランド出身のアーティストです。",
+    "sentence_furigana": "彼【かれ】はアイルランド出身【しゅっしん】のアーティストです。",
+    "meaning": "He is an artist from Ireland."
+  },
+  {
+    "sentence": "そのプロジェクトは多くの困難を伴った。",
+    "sentence_furigana": "そのプロジェクトは多【おお】くの困難【こんなん】を伴【ともな】った。",
+    "meaning": "The project involved many difficulties."
+  },
+  {
+    "sentence": "壁の alcove には古い彫刻が飾られていた。",
+    "sentence_furigana": "壁【かべ】の alcove には古【ふる】い彫刻【ちょうこく】が飾【かざ】られていた。",
+    "meaning": "An old sculpture was displayed in the alcove of the wall."
+  },
+  {
+    "sentence": "子供は母親に甘えていた。",
+    "sentence_furigana": "子供【こども】は母親【ははおや】に甘【あま】えていた。",
+    "meaning": "The child was being pampered by their mother."
+  },
+  {
+    "sentence": "彼は昇進するために、上司にへつらっていた。",
+    "sentence_furigana": "彼【かれ】は昇進【しょうしん】するため、【ため】に、上司【じょうし】にへつらっていた。",
+    "meaning": "He was fawning over his boss to get a promotion."
+  },
+  {
+    "sentence": "この村は山の奥まった場所にある。",
+    "sentence_furigana": "この村【むら】は山【やま】の奥【おく】まった場所【ばしょ】にある。",
+    "meaning": "This village is located in a remote mountain area."
+  },
+  {
+    "sentence": "彼女はいつも他人からの賞賛を求めている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも他人【たにん】からの賞賛【しょうさん】を求【もと】めている。",
+    "meaning": "She always seeks praise from others."
+  },
+  {
+    "sentence": "彼は何でも上司の言うことを鵜呑みにする。",
+    "sentence_furigana": "彼【かれ】は何【なに】でも上司【じょうし】の言【い】うこと【こと】を鵜呑【うの】みにする。",
+    "meaning": "He takes everything his boss says at face value."
+  },
+  {
+    "sentence": "その老人は隅で静かに本を読んでいた。",
+    "sentence_furigana": "その老人【ろうじん】は隅【すみ】で静【しず】かに本【ほん】を読【よ】んでいた。",
+    "meaning": "The old man was quietly reading a book in the corner."
+  },
+  {
+    "sentence": "アフガニスタンは中央アジアに位置しています。",
+    "sentence_furigana": "アフガニスタンは中央アジア【ちゅうおうアジア】に位置【いち】しています。",
+    "meaning": "Afghanistan is located in Central Asia."
+  },
+  {
+    "sentence": "彼はいつも甘い言葉で人を惑わす。",
+    "sentence_furigana": "彼【かれ】はいつも甘【あま】い言葉【ことば】で人【ひと】を惑【まど】わす。",
+    "meaning": "He always deceives people with sweet words."
+  },
+  {
+    "sentence": "机の alcove にはペンが数本入っている。",
+    "sentence_furigana": "机【つくえ】の alcove にはペンが数本【すうほん】入【はい】っている。",
+    "meaning": "There are several pens in the desk's alcove."
+  },
+  {
+    "sentence": "彼女は父親に言いなりになっていた。",
+    "sentence_furigana": "彼女【かのじょ】は父親【ちちおや】に言いなりになっていた。",
+    "meaning": "She was completely obedient to her father."
+  },
+  {
+    "sentence": "その alcove は隠れ家として使われていたようだ。",
+    "sentence_furigana": "その alcove は隠【かく】れ家【や】として使【つか】われていたようだ。",
+    "meaning": "The alcove seemed to be used as a hideout."
+  },
+  {
+    "sentence": "彼はどんな時も人の機嫌を取ろうとする。",
+    "sentence_furigana": "彼【かれ】はどんな時【とき】も人【ひと】の機嫌【きげん】を取【と】ろうとする。",
+    "meaning": "He always tries to please people no matter what."
+  },
+  {
+    "sentence": "この部屋の隅には小さな棚がある。",
+    "sentence_furigana": "この部屋【へや】の隅【すみ】には小【ちい】さな棚【たな】がある。",
+    "meaning": "There is a small shelf in the corner of this room."
+  },
+  {
+    "sentence": "彼はアルジェリアの文化に興味を持っている。",
+    "sentence_furigana": "彼【かれ】はアルジェリアの文化【ぶんか】に興味【きょうみ】を持【も】っている。",
+    "meaning": "He is interested in Algerian culture."
+  },
+  {
+    "sentence": "彼女は親に逆らうことができなかった。",
+    "sentence_furigana": "彼女【かのじょ】は親【おや】に逆【さか】らうことができなかった。",
+    "meaning": "She couldn't go against her parents."
+  },
+  {
+    "sentence": "その alcove は読書のために作られた。",
+    "sentence_furigana": "その alcove は読書【どくしょ】のために作【つく】られた。",
+    "meaning": "The alcove was made for reading."
+  },
+  {
+    "sentence": "彼はいつも目上の人に媚びへつらっていた。",
+    "sentence_furigana": "彼【かれ】はいつも目上【めうえ】の人【ひと】に媚【こ】びへつらっていた。",
+    "meaning": "He always fawned over his superiors."
+  },
+  {
+    "sentence": "この alcove はアンティーク家具で飾られている。",
+    "sentence_furigana": "この alcove はアンティーク家具【かぐ】で飾【かざ】られている。",
+    "meaning": "This alcove is decorated with antique furniture."
+  },
+  {
+    "sentence": "彼女は自分の意見を言わず、ただうなずいていた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の意見【いけん】を言【い】わず、ただうなずいていた。",
+    "meaning": "She didn't state her opinion and just nodded."
+  },
+  {
+    "sentence": "この alcove は静かで落ち着ける場所だ。",
+    "sentence_furigana": "この alcove は静【しず】かで落【お】ち着【つ】ける場所【ばしょ】だ。",
+    "meaning": "This alcove is a quiet and relaxing place."
+  },
+  {
+    "sentence": "彼は上司の顔色をうかがって仕事をする。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】の顔色【かおいろ】をうかがって仕事【しごと】をする。",
+    "meaning": "He works by watching his boss's expression."
+  },
+  {
+    "sentence": "隅の部屋はあまり使われていない。",
+    "sentence_furigana": "隅【すみ】の部屋【へや】はあまり使【つか】われていない。",
+    "meaning": "The room in the corner is not used much."
+  },
+  {
+    "sentence": "彼はいつも人の良いところばかり見てしまう。",
+    "sentence_furigana": "彼【かれ】はいつも人【ひと】の良い【よ】いところばかり見【み】てしまう。",
+    "meaning": "He always focuses only on people's good points."
+  },
+  {
+    "sentence": "この alcove は装飾のために作られた。",
+    "sentence_furigana": "この alcove は装飾【そうしょく】のために作【つく】られた。",
+    "meaning": "This alcove was made for decoration."
+  },
+  {
+    "sentence": "彼女は常に親の期待に応えようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に親【おや】の期待【きたい】に応【こた】えようとしている。",
+    "meaning": "She is always trying to meet her parents' expectations."
+  },
+  {
+    "sentence": "彼は先生に気に入られようと必死で勉強した。",
+    "sentence_furigana": "彼【かれ】は先生【せんせい】に気【き】に入【い】られようと必死【ひっし】で勉強【べんきょう】した。",
+    "meaning": "He studied hard to be liked by the teacher."
+  },
+  {
+    "sentence": " alcove には古い本が並べられていた。",
+    "sentence_furigana": " alcove には古【ふる】い本【ほん】が並【なら】べられていた。",
+    "meaning": "Old books were lined up in the alcove."
+  },
+  {
+    "sentence": "彼は周りの空気を読んで行動するタイプだ。",
+    "sentence_furigana": "彼【かれ】は周【まわ】りの空気【くうき】を読【よ】んで行動【こうどう】するタイプだ。",
+    "meaning": "He is the type of person who acts after reading the room."
+  },
+  {
+    "sentence": "その家は山の奥深くにひっそりと建っていた。",
+    "sentence_furigana": "その家【いえ】は山【やま】の奥深【おくふか】くにひっそりと建【た】っていた。",
+    "meaning": "That house stood quietly deep in the mountains."
+  },
+  {
+    "sentence": "彼女はいつも自分をよく見せようと取り繕う。",
+    "sentence_furigana": "彼女【かのじょ】はいつも自分【じぶん】を良【よ】く見【み】せようと取【と】り繕【つろ】う。",
+    "meaning": "She always tries to present herself favorably."
+  },
+  {
+    "sentence": "彼はアルコール依存症に苦しんでいる。",
+    "sentence_furigana": "彼【かれ】はアルコール依存症【いぞんしょう】に苦【くる】しんでいる。",
+    "meaning": "He is suffering from alcoholism."
+  },
+  {
+    "sentence": "この alcove は特別な目的のために設計された。",
+    "sentence_furigana": "この alcove は特別【とくべつ】な目的【もくてき】のために設計【せっけい】された。",
+    "meaning": "This alcove was designed for a special purpose."
+  },
+  {
+    "sentence": "子供は親の言うことを何でも信じてしまう。",
+    "sentence_furigana": "子供【こども】は親【おや】の言【い】うことを何【なに】でも信【しん】じてしまう。",
+    "meaning": "Children believe anything their parents say."
+  },
+  {
+    "sentence": "彼は他人からの評価を気にするあまり、自分の意見が言えない。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】からの評価【ひょうか】を気【き】にするあまり、自分【じぶん】の意見【いけん】が言【い】えない。",
+    "meaning": "He is so concerned about others' opinions that he can't state his own."
+  },
+  {
+    "sentence": "その alcove は壁に埋め込まれていた。",
+    "sentence_furigana": "その alcove は壁【かべ】に埋【う】め込【こ】まれていた。",
+    "meaning": "The alcove was built into the wall."
+  },
+  {
+    "sentence": "彼女はいつも微笑んで、相手の機嫌を取っていた。",
+    "sentence_furigana": "彼女【かのじょ】はいつも微笑【ほほえ】んで、相手【あいて】の機嫌【きげん】を取【と】っていた。",
+    "meaning": "She always smiled and pleased the other person."
+  },
+  {
+    "sentence": "彼はアルプスの山々をハイキングした。",
+    "sentence_furigana": "彼【かれ】はアルプスの山々【やまやま】をハイキングした。",
+    "meaning": "He hiked in the Alps."
+  },
+  {
+    "sentence": " alcove の装飾は非常に繊細だった。",
+    "sentence_furigana": " alcove の装飾【そうしょく】は非常【ひじょう】に繊細【せんさい】だった。",
+    "meaning": "The alcove's decoration was very delicate."
+  },
+  {
+    "sentence": "彼は上司に気に入られようと、必死に努力した。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】に気【き】に入【い】られようと、必死【ひっし】に努力【どりょく】した。",
+    "meaning": "He made a desperate effort to be liked by his boss."
+  },
+  {
+    "sentence": " alcove は秘密の通路への入り口だった。",
+    "sentence_furigana": " alcove は秘密【ひみつ】の通路【つうろ】への入口【いりぐち】だった。",
+    "meaning": "The alcove was an entrance to a secret passage."
+  },
+  {
+    "sentence": "彼は何事にも迎合する癖がある。",
+    "sentence_furigana": "彼【かれ】は何事【なにごと】にも迎合【げいごう】する癖【くせ】がある。",
+    "meaning": "He has a habit of conforming to everything."
+  },
+  {
+    "sentence": " alcove には小さな祭壇が設けられていた。",
+    "sentence_furigana": " alcove には小【ちい】さな祭壇【さいだん】が設【もう】けられていた。",
+    "meaning": "A small altar was set up in the alcove."
+  },
+  {
+    "sentence": "彼女はいつも人の顔色をうかがっている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも人【ひと】の顔色【かおいろ】をうかがっている。",
+    "meaning": "She is always watching people's expressions."
+  },
+  {
+    "sentence": "彼は隅で静かに読書を楽しんでいた。",
+    "sentence_furigana": "彼【かれ】は隅【すみ】で静【しず】かに読書【どくしょ】を楽し【たの】しんでいた。",
+    "meaning": "He was quietly enjoying reading in the corner."
+  },
+  {
+    "sentence": "アルジェリアは北アフリカに位置する。",
+    "sentence_furigana": "アルジェリアは北アフリカ【きたアフリカ】に位置【いち】する。",
+    "meaning": "Algeria is located in North Africa."
+  },
+  {
+    "sentence": "彼は先生におもねるために必死だった。",
+    "sentence_furigana": "彼【かれ】は先生【せんせい】におもねるために必死【ひっし】だった。",
+    "meaning": "He was desperate to flatter the teacher."
+  },
+  {
+    "sentence": " alcove は古い図書館の一角にあった。",
+    "sentence_furigana": " alcove は古【ふる】い図書館【としょかん】の一角【いっかく】にあった。",
+    "meaning": "The alcove was in a corner of the old library."
+  },
+  {
+    "sentence": "彼女は両親に逆らうことを恐れていた。",
+    "sentence_furigana": "彼女【かのじょ】は両親【りょうしん】に逆【さか】らうことを恐【おそ】れていた。",
+    "meaning": "She was afraid of going against her parents."
+  },
+  {
+    "sentence": "彼はいつも人の良いところだけを見てしまう。",
+    "sentence_furigana": "彼【かれ】はいつも人【ひと】の良い【よ】いところだけを見【み】てしまう。",
+    "meaning": "He always only sees the good in people."
+  },
+  {
+    "sentence": " alcove の壁には美しい絵が描かれていた。",
+    "sentence_furigana": " alcove の壁【かべ】には美【うつく】しい絵【え】が描【か】かれていた。",
+    "meaning": "Beautiful paintings were drawn on the alcove's walls."
+  },
+  {
+    "sentence": "彼はアルコールを摂取する習慣をやめたい。",
+    "sentence_furigana": "彼【かれ】はアルコールを摂取【せっしゅ】する習慣【しゅうかん】をやめたい。",
+    "meaning": "He wants to stop the habit of consuming alcohol."
+  },
+  {
+    "sentence": " alcove は自然光が入るように設計されている。",
+    "sentence_furigana": " alcove は自然光【しぜんこう】が入【はい】るように設計【せっけい】されている。",
+    "meaning": "The alcove is designed to let in natural light."
+  },
+  {
+    "sentence": "彼はいつも上司にへつらい、ご機嫌を取っていた。",
+    "sentence_furigana": "彼【かれ】はいつも上司【じょうし】にへつらい、ご機嫌【きげん】を取【と】っていた。",
+    "meaning": "He always fawned over his boss and tried to please him."
+  },
+  {
+    "sentence": "その部屋の alcove は隠し扉になっていた。",
+    "sentence_furigana": "その部屋【へや】の alcove は隠【かく】し扉【とびら】になっていた。",
+    "meaning": "The alcove in that room was a hidden door."
+  },
+  {
+    "sentence": "彼女はいつも親の顔色をうかがっている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも親【おや】の顔色【かおいろ】をうかがっている。",
+    "meaning": "She is always watching her parents' expressions."
+  },
+  {
+    "sentence": "彼はアルゼンチンの文化に深く魅了されている。",
+    "sentence_furigana": "彼【かれ】はアルゼンチンの文化【ぶんか】に深【ふか】く魅了【みりょう】されている。",
+    "meaning": "He is deeply fascinated by Argentinian culture."
+  },
+  {
+    "sentence": " alcove は暖炉の上に設けられていた。",
+    "sentence_furigana": " alcove は暖炉【だんろ】の上【うえ】に設【もう】けられていた。",
+    "meaning": "The alcove was situated above the fireplace."
+  },
+  {
+    "sentence": "彼はいつも人の意見に合わせようとする。",
+    "sentence_furigana": "彼【かれ】はいつも人【ひと】の意見【いけん】に合【あ】わせようとする。",
+    "meaning": "He always tries to go along with other people's opinions."
+  },
+  {
+    "sentence": " alcove は読書や瞑想に最適な場所です。",
+    "sentence_furigana": " alcove は読書【どくしょ】や瞑想【めいそう】に最適【さいてき】な場所【ばしょ】です。",
+    "meaning": "The alcove is an ideal place for reading and meditation."
+  },
+  {
+    "sentence": "彼は先生に気に入られようと、必死でアピールした。",
+    "sentence_furigana": "彼【かれ】は先生【せんせい】に気【き】に入【い】られようと、必死【ひっし】でアピールした。",
+    "meaning": "He desperately tried to appeal to the teacher to be liked."
+  },
+  {
+    "sentence": "この alcove は非常に装飾的です。",
+    "sentence_furigana": "この alcove は非常【ひじょう】に装飾的【そうしょくてき】です。",
+    "meaning": "This alcove is very decorative."
+  },
+  {
+    "sentence": "彼は常に親の期待に応えるために最善を尽くす。",
+    "sentence_furigana": "彼【かれ】は常【つね】に親【おや】の期待【きたい】に応【こた】えるために最善【さいぜん】を尽【つ】くす。",
+    "meaning": "He always does his best to meet his parents' expectations."
+  },
+  {
+    "sentence": "彼はアルコールなしではやっていけないと訴えた。",
+    "sentence_furigana": "彼【かれ】はアルコールなしではやっていけないと訴【うった】えた。",
+    "meaning": "He pleaded that he couldn't go on without alcohol."
+  },
+  {
+    "sentence": " alcove には小さな聖書が置かれていた。",
+    "sentence_furigana": " alcove には小【ちい】さな聖書【せいしょ】が置【お】かれていた。",
+    "meaning": "A small Bible was placed in the alcove."
+  },
+  {
+    "sentence": "彼女はいつも人の顔色を見て、それに合わせる。",
+    "sentence_furigana": "彼女【かのじょ】はいつも人【ひと】の顔色【かおいろ】を見【み】て、それに合【あ】わせる。",
+    "meaning": "She always looks at people's expressions and adapts accordingly."
+  },
+  {
+    "sentence": " alcove は古代の寺院の一部でした。",
+    "sentence_furigana": " alcove は古代【こだい】の寺院【じいん】の一部【いちぶ】でした。",
+    "meaning": "The alcove was part of an ancient temple."
+  },
+  {
+    "sentence": "彼はいつも先生に媚びへつらう。",
+    "sentence_furigana": "彼【かれ】はいつも先生【せんせい】に媚【こ】びへつらう。",
+    "meaning": "He always fawns over the teacher."
+  },
+  {
+    "sentence": " alcove は静かな瞑想のための空間だった。",
+    "sentence_furigana": " alcove は静【しず】かな瞑想【めいそう】のための空間【くうかん】だった。",
+    "meaning": "The alcove was a space for quiet meditation."
+  },
+  {
+    "sentence": "彼はいつも上司の指示を鵜呑みにする。",
+    "sentence_furigana": "彼【かれ】はいつも上司【じょうし】の指示【しじ】を鵜呑【うの】みにする。",
+    "meaning": "He always takes his boss's instructions at face value."
+  },
+  {
+    "sentence": "彼女はいつも親の機嫌を取ろうとしている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも親【おや】の機嫌【きげん】を取【と】ろうとしている。",
+    "meaning": "She is always trying to please her parents."
+  },
+  {
+    "sentence": " alcove には古い彫像が安置されていた。",
+    "sentence_furigana": " alcove には古【ふる】い彫像【ちょうぞう】が安置【あんち】されていた。",
+    "meaning": "An old statue was enshrined in the alcove."
+  },
+  {
+    "sentence": "彼は常に人の顔色をうかがって行動する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に人【ひと】の顔色【かおいろ】をうかがって行動【こうどう】する。",
+    "meaning": "He always acts by observing people's expressions."
+  },
+  {
+    "sentence": " alcove は聖なる空間として崇拝されていた。",
+    "sentence_furigana": " alcove は聖【せい】なる空間【くうかん】として崇拝【すうはい】されていた。",
+    "meaning": "The alcove was revered as a sacred space."
+  },
+  {
+    "sentence": "彼はアルコール依存症の治療を受けている。",
+    "sentence_furigana": "彼【かれ】はアルコール依存症【いぞんしょう】の治療【ちりょう】を受【う】けている。",
+    "meaning": "He is receiving treatment for alcoholism."
+  },
+  {
+    "sentence": " alcove は隠れた聖域であった。",
+    "sentence_furigana": " alcove は隠【かく】れた聖域【せいいき】であった。",
+    "meaning": "The alcove was a hidden sanctuary."
+  },
+  {
+    "sentence": "彼は上司に気に入られようと、何でもした。",
+    "sentence_furigana": "彼【かれ】は上司【じょうし】に気【き】に入【い】られようと、何【なに】でもした。",
+    "meaning": "He did anything to be liked by his boss."
+  },
+  {
+    "sentence": " alcove には小さな噴水があった。",
+    "sentence_furigana": " alcove には小【ちい】さな噴水【ふんすい】があった。",
+    "meaning": "There was a small fountain in the alcove."
+  },
+  {
+    "sentence": "彼はいつも人の意見に迎合してしまう。",
+    "sentence_furigana": "彼【かれ】はいつも人【ひと】の意見【いけん】に迎合【げいごう】してしまう。",
+    "meaning": "He always ends up conforming to other people's opinions."
+  },
+  {
+    "sentence": " alcove は祭壇として使用されていた。",
+    "sentence_furigana": " alcove は祭壇【さいだん】として使用【しよう】されていた。",
+    "meaning": "The alcove was used as an altar."
+  },
+  {
+    "sentence": "彼は常に親の顔色をうかがい、行動を決定する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に親【おや】の顔色【かおいろ】をうかがい、行動【こうどう】を決定【けってい】する。",
+    "meaning": "He always observes his parents' expressions and makes decisions."
+  },
+  {
+    "sentence": "彼はアルコール飲料をほとんど口にしない。",
+    "sentence_furigana": "彼【かれ】はアルコール飲料【いんりょう】をほとんど口【くち】にしない。",
+    "meaning": "He hardly drinks alcoholic beverages."
+  },
+  {
+    "sentence": " alcove は神聖な場所として尊重されていた。",
+    "sentence_furigana": " alcove は神聖【しんせい】な場所【ばしょ】として尊重【そんちょう】されていた。",
+    "meaning": "The alcove was respected as a holy place."
+  },
+  {
+    "sentence": "彼は常に人の良いところを見つけようとする。",
+    "sentence_furigana": "彼【かれ】は常【つね】に人【ひと】の良い【よ】いところを見【み】つけようとする。",
+    "meaning": "He always tries to find the good in people."
+  }
+]

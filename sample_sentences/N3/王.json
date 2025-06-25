@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "その国は賢い王によって統治されていた。",
+    "sentence_furigana": "その国【くに】は賢【かしこ】い王【おう】によって統治【とうち】されていた。",
+    "meaning": "That country was ruled by a wise king."
+  },
+  {
+    "sentence": "王は国民の幸福を願った。",
+    "sentence_furigana": "王【おう】は国民【こくみん】の幸福【こうふく】を願【ねが】った。",
+    "meaning": "The king wished for the happiness of his people."
+  },
+  {
+    "sentence": "彼は王冠をかぶった。",
+    "sentence_furigana": "彼【かれ】は王冠【おうかん】をかぶった。",
+    "meaning": "He wore the crown."
+  },
+  {
+    "sentence": "王様は臣下に命令を下した。",
+    "sentence_furigana": "王様【おうさま】は臣下【しんか】に命令【めいれい】を下【くだ】した。",
+    "meaning": "The king gave an order to his subjects."
+  },
+  {
+    "sentence": "彼は次期王として育てられた。",
+    "sentence_furigana": "彼【かれ】は次期王【じきおう】として育【そだ】てられた。",
+    "meaning": "He was raised as the next king."
+  },
+  {
+    "sentence": "その王は勇敢で知られていた。",
+    "sentence_furigana": "その王【おう】は勇敢【ゆうかん】で知【し】られていた。",
+    "meaning": "That king was known for his bravery."
+  },
+  {
+    "sentence": "王女は優雅な微笑みをたたえていた。",
+    "sentence_furigana": "王女【おうじょ】は優雅【ゆうが】な微笑【ほほえ】みをたたえていた。",
+    "meaning": "The princess had an elegant smile."
+  },
+  {
+    "sentence": "王室の伝統を守ることは重要だ。",
+    "sentence_furigana": "王室【おうしつ】の伝統【でんとう】を守【まも】ることは重要【じゅうよう】だ。",
+    "meaning": "It is important to preserve the royal family's traditions."
+  },
+  {
+    "sentence": "王の手紙が届いた。",
+    "sentence_furigana": "王【おう】の手紙【てがみ】が届【とど】いた。",
+    "meaning": "The king's letter arrived."
+  },
+  {
+    "sentence": "王国の未来は明るいだろう。",
+    "sentence_furigana": "王国【おうこく】の未来【みらい】は明【あか】るいだろう。",
+    "meaning": "The kingdom's future will be bright."
+  },
+  {
+    "sentence": "王座は空席だった。",
+    "sentence_furigana": "王座【おうざ】は空席【くうせき】だった。",
+    "meaning": "The throne was vacant."
+  },
+  {
+    "sentence": "王は国民に感謝の言葉を述べた。",
+    "sentence_furigana": "王【おう】は国民【こくみん】に感謝【かんしゃ】の言葉【ことば】を述【の】べた。",
+    "meaning": "The king expressed his gratitude to the people."
+  },
+  {
+    "sentence": "彼は小さな王国の支配者となった。",
+    "sentence_furigana": "彼【かれ】は小【ちい】さな王国【おうこく】の支配者【しはいしゃ】となった。",
+    "meaning": "He became the ruler of a small kingdom."
+  },
+  {
+    "sentence": "王は戦争を避けるよう努めた。",
+    "sentence_furigana": "王【おう】は戦争【せんそう】を避【さ】けるよう努【つと】めた。",
+    "meaning": "The king strove to avoid war."
+  },
+  {
+    "sentence": "女王は宝物庫を訪れた。",
+    "sentence_furigana": "女王【じょおう】は宝物庫【ほうもつこ】を訪【おとず】れた。",
+    "meaning": "The queen visited the treasure vault."
+  },
+  {
+    "sentence": "王家は長い歴史を持つ。",
+    "sentence_furigana": "王家【おうけ】は長【なが】い歴史【れきし】を持【も】つ。",
+    "meaning": "The royal family has a long history."
+  },
+  {
+    "sentence": "王冠は宝石で飾られていた。",
+    "sentence_furigana": "王冠【おうかん】は宝石【ほうせき】で飾【かざ】られていた。",
+    "meaning": "The crown was adorned with jewels."
+  },
+  {
+    "sentence": "王は公正な裁判を保証した。",
+    "sentence_furigana": "王【おう】は公正【こうせい】な裁判【さいばん】を保証【ほしょう】した。",
+    "meaning": "The king guaranteed a fair trial."
+  },
+  {
+    "sentence": "その王は偉大な征服者だった。",
+    "sentence_furigana": "その王【おう】は偉大【いだい】な征服者【せいふくしゃ】だった。",
+    "meaning": "That king was a great conqueror."
+  },
+  {
+    "sentence": "王の言葉は絶対的なものだった。",
+    "sentence_furigana": "王【おう】の言葉【ことば】は絶対的【ぜったいてき】なものだった。",
+    "meaning": "The king's word was absolute."
+  },
+  {
+    "sentence": "王は改革を断行した。",
+    "sentence_furigana": "王【おう】は改革【かいかく】を断行【だんこう】した。",
+    "meaning": "The king carried out reforms."
+  },
+  {
+    "sentence": "王女は美しい姿で現れた。",
+    "sentence_furigana": "王女【おうじょ】は美【うつく】しい姿【すがた】で現【あらわ】れた。",
+    "meaning": "The princess appeared in beautiful attire."
+  },
+  {
+    "sentence": "王は領土を拡大した。",
+    "sentence_furigana": "王【おう】は領土【りょうど】を拡大【かくだい】した。",
+    "meaning": "The king expanded his territory."
+  },
+  {
+    "sentence": "王室の紋章はライオンだった。",
+    "sentence_furigana": "王室【おうしつ】の紋章【もんしょう】はライオンだった。",
+    "meaning": "The royal crest was a lion."
+  },
+  {
+    "sentence": "王は国民の信望を集めた。",
+    "sentence_furigana": "王【おう】は国民【こくみん】の信望【しんぼう】を集【あつ】めた。",
+    "meaning": "The king gained the trust of his people."
+  },
+  {
+    "sentence": "彼は王の座を狙っていた。",
+    "sentence_furigana": "彼【かれ】は王【おう】の座【ざ】を狙【ねら】っていた。",
+    "meaning": "He was aiming for the king's throne."
+  },
+  {
+    "sentence": "王は賢明な決断を下した。",
+    "sentence_furigana": "王【おう】は賢明【けんめい】な決断【けつだん】を下【くだ】した。",
+    "meaning": "The king made a wise decision."
+  },
+  {
+    "sentence": "王国の平和は王の統治にかかっている。",
+    "sentence_furigana": "王国【おうこく】の平和【へいわ】は王【おう】の統治【とうち】にかかっている。",
+    "meaning": "The peace of the kingdom depends on the king's rule."
+  },
+  {
+    "sentence": "王は新しい法律を制定した。",
+    "sentence_furigana": "王【おう】は新【あたら】しい法律【ほうりつ】を制定【せいてい】した。",
+    "meaning": "The king enacted new laws."
+  },
+  {
+    "sentence": "王の肖像画が飾られていた。",
+    "sentence_furigana": "王【おう】の肖像画【しょうぞうが】が飾【かざ】られていた。",
+    "meaning": "A portrait of the king was displayed."
+  },
+  {
+    "sentence": "彼は王国の宝を守った。",
+    "sentence_furigana": "彼【かれ】は王国【おうこく】の宝【たから】を守【まも】った。",
+    "meaning": "He protected the kingdom's treasures."
+  },
+  {
+    "sentence": "王は遠い国を旅した。",
+    "sentence_furigana": "王【おう】は遠【とお】い国【くに】を旅【たび】した。",
+    "meaning": "The king traveled to a distant country."
+  },
+  {
+    "sentence": "王の حكمは公平だった。",
+    "sentence_furigana": "王【おう】の حكم【はんけい】は公平【こうへい】だった。",
+    "meaning": "The king's judgment was fair."
+  },
+  {
+    "sentence": "王は国民に慈悲を示した。",
+    "sentence_furigana": "王【おう】は国民【こくみん】に慈悲【じひ】を示【しめ】した。",
+    "meaning": "The king showed mercy to his people."
+  },
+  {
+    "sentence": "王の威厳は明らかだった。",
+    "sentence_furigana": "王【おう】の威厳【いげん】は明【あき】らかだった。",
+    "meaning": "The king's dignity was evident."
+  },
+  {
+    "sentence": "王女は騎士と結婚した。",
+    "sentence_furigana": "王女【おうじょ】は騎士【きし】と結婚【けっこん】した。",
+    "meaning": "The princess married a knight."
+  },
+  {
+    "sentence": "王の軍隊は強力だった。",
+    "sentence_furigana": "王【おう】の軍隊【ぐんたい】は強力【きょうりょく】だった。",
+    "meaning": "The king's army was powerful."
+  },
+  {
+    "sentence": "王は民のために尽くした。",
+    "sentence_furigana": "王【おう】は民【たみ】のために尽【つ】くした。",
+    "meaning": "The king devoted himself to his people."
+  },
+  {
+    "sentence": "王の権威は揺るぎなかった。",
+    "sentence_furigana": "王【おう】の権威【けんい】は揺【ゆる】ぎなかった。",
+    "meaning": "The king's authority was unshakable."
+  },
+  {
+    "sentence": "王は戦略的な思考を持っていた。",
+    "sentence_furigana": "王【おう】は戦略的【せんりゃくてき】な思考【しこう】を持【も】っていた。",
+    "meaning": "The king had strategic thinking."
+  },
+  {
+    "sentence": "王国の繁栄は王のリーダーシップにかかっていた。",
+    "sentence_furigana": "王国【おうこく】の繁栄【はんえい】は王【おう】のリーダーシップにかかっていた。",
+    "meaning": "The kingdom's prosperity depended on the king's leadership."
+  },
+  {
+    "sentence": "王は国民の安全を確保した。",
+    "sentence_furigana": "王【おう】は国民【こくみん】の安全【あんぜん】を確保【かくほ】した。",
+    "meaning": "The king ensured the safety of his people."
+  },
+  {
+    "sentence": "王は新しい貿易ルートを開拓した。",
+    "sentence_furigana": "王【おう】は新【あたら】しい貿易ルートを開拓【かいたく】した。",
+    "meaning": "The king opened up new trade routes."
+  },
+  {
+    "sentence": "王の財産は莫大だった。",
+    "sentence_furigana": "王【おう】の財産【ざいさん】は莫大【ばくだい】だった。",
+    "meaning": "The king's wealth was immense."
+  },
+  {
+    "sentence": "王はしばしば庭園を散歩した。",
+    "sentence_furigana": "王【おう】はしばしば庭園【ていえん】を散歩【さんぽ】した。",
+    "meaning": "The king often walked in the gardens."
+  },
+  {
+    "sentence": "王の決断が戦争の運命を分けた。",
+    "sentence_furigana": "王【おう】の決断【けつだん】が戦争【せんそう】の運命【うんめい】を分【わ】けた。",
+    "meaning": "The king's decision determined the fate of the war."
+  },
+  {
+    "sentence": "王は学者たちを尊敬した。",
+    "sentence_furigana": "王【おう】は学者【がくしゃ】たちを尊敬【そんけい】した。",
+    "meaning": "The king respected scholars."
+  },
+  {
+    "sentence": "王女は民に愛されていた。",
+    "sentence_furigana": "王女【おうじょ】は民【たみ】に愛【あい】されていた。",
+    "meaning": "The princess was loved by the people."
+  },
+  {
+    "sentence": "王は芸術を奨励した。",
+    "sentence_furigana": "王【おう】は芸術【げいじゅつ】を奨励【しょうれい】した。",
+    "meaning": "The king encouraged the arts."
+  },
+  {
+    "sentence": "王の臣下は忠実だった。",
+    "sentence_furigana": "王【おう】の臣下【しんか】は忠実【ちゅうじつ】だった。",
+    "meaning": "The king's subjects were loyal."
+  },
+  {
+    "sentence": "王は次期後継者を指名した。",
+    "sentence_furigana": "王【おう】は次期後継者【じきこうけいしゃ】を指名【しめい】した。",
+    "meaning": "The king nominated the next successor."
+  },
+  {
+    "sentence": "王国の法律は厳格だった。",
+    "sentence_furigana": "王国【おうこく】の法律【ほうりつ】は厳格【げんかく】だった。",
+    "meaning": "The kingdom's laws were strict."
+  },
+  {
+    "sentence": "王は広い視野を持っていた。",
+    "sentence_furigana": "王【おう】は広【ひろ】い視野【しや】を持【も】っていた。",
+    "meaning": "The king had a broad perspective."
+  },
+  {
+    "sentence": "王の誕生日を祝う祭りが行われた。",
+    "sentence_furigana": "王【おう】の誕生日【たんじょうび】を祝【いわ】う祭【まつ】りが行【おこな】われた。",
+    "meaning": "A festival was held to celebrate the king's birthday."
+  },
+  {
+    "sentence": "王は外国の王と会談した。",
+    "sentence_furigana": "王【おう】は外国【がいこく】の王【おう】と会談【かいだん】した。",
+    "meaning": "The king met with the king of a foreign country."
+  },
+  {
+    "sentence": "王の力は絶大だった。",
+    "sentence_furigana": "王【おう】の力【ちから】は絶大【ぜつだい】だった。",
+    "meaning": "The king's power was immense."
+  },
+  {
+    "sentence": "王は平和な統治を約束した。",
+    "sentence_furigana": "王【おう】は平和【へいわ】な統治【とうち】を約束【やくそく】した。",
+    "meaning": "The king promised peaceful rule."
+  },
+  {
+    "sentence": "王は新しい建築プロジェクトを命じた。",
+    "sentence_furigana": "王【おう】は新【あたら】しい建築プロジェクトを命【めい】じた。",
+    "meaning": "The king ordered a new construction project."
+  },
+  {
+    "sentence": "王女は音楽の才能があった。",
+    "sentence_furigana": "王女【おうじょ】は音楽【おんがく】の才能【さいのう】があった。",
+    "meaning": "The princess had a talent for music."
+  },
+  {
+    "sentence": "王は市場を視察した。",
+    "sentence_furigana": "王【おう】は市場【しじょう】を視察【しさつ】した。",
+    "meaning": "The king inspected the market."
+  },
+  {
+    "sentence": "王の命令は絶対服従だった。",
+    "sentence_furigana": "王【おう】の命令【めいれい】は絶対服従【ぜったいふくじゅう】だった。",
+    "meaning": "The king's command was absolute obedience."
+  },
+  {
+    "sentence": "王は厳しい時代を乗り越えた。",
+    "sentence_furigana": "王【おう】は厳【きび】しい時代【じだい】を乗【の】り越【こ】えた。",
+    "meaning": "The king overcame difficult times."
+  },
+  {
+    "sentence": "王の忠告は非常に役立った。",
+    "sentence_furigana": "王【おう】の忠告【ちゅうこく】は非常【ひじょう】に役立【やくた】った。",
+    "meaning": "The king's advice was very helpful."
+  },
+  {
+    "sentence": "王は貧しい人々に施しを与えた。",
+    "sentence_furigana": "王【おう】は貧【まず】しい人々【ひとびと】に施【ほどこ】しを与【あた】えた。",
+    "meaning": "The king gave alms to the poor."
+  },
+  {
+    "sentence": "王の紋章は金色の鷲だった。",
+    "sentence_furigana": "王【おう】の紋章【もんしょう】は金色【きんいろ】の鷲【わし】だった。",
+    "meaning": "The king's emblem was a golden eagle."
+  },
+  {
+    "sentence": "王は王族の教育に力を入れた。",
+    "sentence_furigana": "王【おう】は王族【おうぞく】の教育【きょういく】に力【ちから】を入【い】れた。",
+    "meaning": "The king focused on the education of the royal family."
+  },
+  {
+    "sentence": "王は多くの都市を建設した。",
+    "sentence_furigana": "王【おう】は多【おお】くの都市【とし】を建設【けんせつ】した。",
+    "meaning": "The king built many cities."
+  },
+  {
+    "sentence": "王は国民の意見を聞いた。",
+    "sentence_furigana": "王【おう】は国民【こくみん】の意見【いけん】を聞【き】いた。",
+    "meaning": "The king listened to the opinions of his people."
+  },
+  {
+    "sentence": "王の支配は長く続いた。",
+    "sentence_furigana": "王【おう】の支配【しはい】は長【なが】く続【つづ】いた。",
+    "meaning": "The king's reign lasted a long time."
+  },
+  {
+    "sentence": "王は外交政策を重視した。",
+    "sentence_furigana": "王【おう】は外交政策【がいこうせいさく】を重視【じゅうし】した。",
+    "meaning": "The king emphasized foreign policy."
+  },
+  {
+    "sentence": "王の指示は正確だった。",
+    "sentence_furigana": "王【おう】の指示【しじ】は正確【せいかく】だった。",
+    "meaning": "The king's instructions were precise."
+  },
+  {
+    "sentence": "王は新しい制度を導入した。",
+    "sentence_furigana": "王【おう】は新【あたら】しい制度【せいど】を導入【どうにゅう】した。",
+    "meaning": "The king introduced a new system."
+  },
+  {
+    "sentence": "王女は魔法の力を持っていた。",
+    "sentence_furigana": "王女【おうじょ】は魔法【まほう】の力【ちから】を持【も】っていた。",
+    "meaning": "The princess possessed magical powers."
+  },
+  {
+    "sentence": "王は国民に尊敬されていた。",
+    "sentence_furigana": "王【おう】は国民【こくみん】に尊敬【そんけい】されていた。",
+    "meaning": "The king was respected by his people."
+  },
+  {
+    "sentence": "王の治世は平和だった。",
+    "sentence_furigana": "王【おう】の治世【ちせい】は平和【へいわ】だった。",
+    "meaning": "The king's reign was peaceful."
+  },
+  {
+    "sentence": "王は祖国の発展に貢献した。",
+    "sentence_furigana": "王【おう】は祖国【そこく】の発展【はってん】に貢献【こうけん】した。",
+    "meaning": "The king contributed to the development of his homeland."
+  },
+  {
+    "sentence": "王の決断は王国全体に影響を与えた。",
+    "sentence_furigana": "王【おう】の決断【けつだん】は王国【おうこく】全体【ぜんたい】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "The king's decision affected the entire kingdom."
+  },
+  {
+    "sentence": "王は平和条約に署名した。",
+    "sentence_furigana": "王【おう】は平和条約【へいわじょうやく】に署名【しょめい】した。",
+    "meaning": "The king signed the peace treaty."
+  },
+  {
+    "sentence": "王は芸術家を支援した。",
+    "sentence_furigana": "王【おう】は芸術家【げいじゅつか】を支援【しえん】した。",
+    "meaning": "The king supported artists."
+  },
+  {
+    "sentence": "王は戦略的な同盟を結んだ。",
+    "sentence_furigana": "王【おう】は戦略的【せんりゃくてき】な同盟【どうめい】を結【むす】んだ。",
+    "meaning": "The king formed strategic alliances."
+  },
+  {
+    "sentence": "王の言葉は人々に希望を与えた。",
+    "sentence_furigana": "王【おう】の言葉【ことば】は人々【ひとびと】に希望【きぼう】を与【あた】えた。",
+    "meaning": "The king's words gave people hope."
+  },
+  {
+    "sentence": "王は新しい音楽の様式を導入した。",
+    "sentence_furigana": "王【おう】は新【あたら】しい音楽【おんがく】の様式【ようしき】を導入【どうにゅう】した。",
+    "meaning": "The king introduced a new musical style."
+  },
+  {
+    "sentence": "王の政策は国民に恩恵をもたらした。",
+    "sentence_furigana": "王【おう】の政策【せいさく】は国民【こくみん】に恩恵【おんけい】をもたらした。",
+    "meaning": "The king's policies brought benefits to the people."
+  },
+  {
+    "sentence": "王は探検家を派遣した。",
+    "sentence_furigana": "王【おう】は探検家【たんけんか】を派遣【はけん】した。",
+    "meaning": "The king dispatched explorers."
+  },
+  {
+    "sentence": "王は自身の王国を誇りに思っていた。",
+    "sentence_furigana": "王【おう】は自身【じしん】の王国【おうこく】を誇【ほこ】りに思【おも】っていた。",
+    "meaning": "The king was proud of his kingdom."
+  },
+  {
+    "sentence": "王の公正さは称賛された。",
+    "sentence_furigana": "王【おう】の公正【こうせい】さは称賛【しょうさん】された。",
+    "meaning": "The king's fairness was praised."
+  },
+  {
+    "sentence": "王は国の未来を熱心に計画した。",
+    "sentence_furigana": "王【おう】は国【くに】の未来【みらい】を熱心【ねっしん】に計画【けいかく】した。",
+    "meaning": "The king eagerly planned for the country's future."
+  },
+  {
+    "sentence": "王の玉座は黄金でできていた。",
+    "sentence_furigana": "王【おう】の玉座【ぎょくざ】は黄金【おうごん】でできていた。",
+    "meaning": "The king's throne was made of gold."
+  },
+  {
+    "sentence": "王は多くの功績を残した。",
+    "sentence_furigana": "王【おう】は多【おお】くの功績【こうせき】を残【のこ】した。",
+    "meaning": "The king left many achievements."
+  },
+  {
+    "sentence": "王は科学の発展を奨励した。",
+    "sentence_furigana": "王【おう】は科学【かがく】の発展【はってん】を奨励【しょうれい】した。",
+    "meaning": "The king encouraged scientific advancement."
+  },
+  {
+    "sentence": "王の言葉は国民の心を捉えた。",
+    "sentence_furigana": "王【おう】の言葉【ことば】は国民【こくみん】の心【こころ】を捉【とら】えた。",
+    "meaning": "The king's words captured the hearts of the people."
+  },
+  {
+    "sentence": "王は次の世代のために王国を築いた。",
+    "sentence_furigana": "王【おう】は次【つぎ】の世代【せだい】のために王国【おうこく】を築【きず】いた。",
+    "meaning": "The king built the kingdom for the next generation."
+  },
+  {
+    "sentence": "王は国民との対話を重視した。",
+    "sentence_furigana": "王【おう】は国民【こくみん】との対話【たいわ】を重視【じゅうし】した。",
+    "meaning": "The king valued dialogue with his people."
+  },
+  {
+    "sentence": "王の威光は遠くまで届いた。",
+    "sentence_furigana": "王【おう】の威光【いこう】は遠【とお】くまで届【とど】いた。",
+    "meaning": "The king's prestige reached far and wide."
+  },
+  {
+    "sentence": "王は新しい地図を作成させた。",
+    "sentence_furigana": "王【おう】は新【あたら】しい地図【ちず】を作成【さくせい】させた。",
+    "meaning": "The king had new maps created."
+  },
+  {
+    "sentence": "王の正義感は多くの人々に知られていた。",
+    "sentence_furigana": "王【おう】の正義感【せいぎかん】は多【おお】くの人々【ひとびと】に知【し】られていた。",
+    "meaning": "The king's sense of justice was known to many."
+  }
+]

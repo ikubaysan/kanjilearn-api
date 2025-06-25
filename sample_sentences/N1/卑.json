@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "その態度は卑しい。",
+    "sentence_furigana": "その態【たい】度は卑【いや】しい。",
+    "meaning": "That attitude is base."
+  },
+  {
+    "sentence": "卑劣な行為だ。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な行為【こうい】だ。",
+    "meaning": "It's a vile act."
+  },
+  {
+    "sentence": "卑屈な性格をしている。",
+    "sentence_furigana": "卑【ひ】屈【くつ】な性格【せいかく】をしている。",
+    "meaning": "He has a servile personality."
+  },
+  {
+    "sentence": "卑しい根性だ。",
+    "sentence_furigana": "卑【いや】しい根性【こんじょう】だ。",
+    "meaning": "He has a lowly spirit."
+  },
+  {
+    "sentence": "卑しい食べ物しか手に入らない。",
+    "sentence_furigana": "卑【いや】しい食【た】べ物【もの】しか手【て】に入【はい】らない。",
+    "meaning": "Only vulgar food is available."
+  },
+  {
+    "sentence": "彼は卑怯者だ。",
+    "sentence_furigana": "彼【かれ】は卑【ひ】怯【きょう】者【もの】だ。",
+    "meaning": "He is a coward."
+  },
+  {
+    "sentence": "卑しくも盗みはしない。",
+    "sentence_furigana": "卑【いや】しくも盗【ぬす】みはしない。",
+    "meaning": "He is not so base as to steal."
+  },
+  {
+    "sentence": "卑屈な笑みを浮かべる。",
+    "sentence_furigana": "卑【ひ】屈【くつ】な笑【わら】みを浮【う】かべる。",
+    "meaning": "He offers a servile smile."
+  },
+  {
+    "sentence": "卑しい欲望に駆られる。",
+    "sentence_furigana": "卑【いや】しい欲【よく】望【ぼう】に駆【か】られる。",
+    "meaning": "To be driven by base desires."
+  },
+  {
+    "sentence": "卑怯な手を使うな。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な手【て】を使【つか】うな。",
+    "meaning": "Don't use dirty tricks."
+  },
+  {
+    "sentence": "卑しい考えはやめろ。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えはやめろ。",
+    "meaning": "Stop with the vulgar thoughts."
+  },
+  {
+    "sentence": "卑怯者のくせに生意気だ。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】のくせに生【なま】意【い】気【き】だ。",
+    "meaning": "He's cheeky for a coward."
+  },
+  {
+    "sentence": "卑しい身分でも誇りは失わない。",
+    "sentence_furigana": "卑【いや】しい身【み】分【ぶん】でも誇【ほこ】りは失【うしな】わない。",
+    "meaning": "Even from a lowly status, he doesn't lose his pride."
+  },
+  {
+    "sentence": "卑怯な戦法は通用しない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な戦【せん】法【ほう】は通【つう】用【よう】しない。",
+    "meaning": "Cowardly tactics won't work."
+  },
+  {
+    "sentence": "卑しい身なりをしている。",
+    "sentence_furigana": "卑【いや】しい身【み】な りをして いる。",
+    "meaning": "He has a vulgar appearance."
+  },
+  {
+    "sentence": "卑しくても誇り高く生きる。",
+    "sentence_furigana": "卑【いや】しくても誇【ほこ】り高【たか】く生【い】きる。",
+    "meaning": "To live with pride, even if one is lowly."
+  },
+  {
+    "sentence": "卑劣漢に騙された。",
+    "sentence_furigana": "卑【ひ】劣【れつ】漢【かん】に騙【だま】された。",
+    "meaning": "I was deceived by a vile man."
+  },
+  {
+    "sentence": "卑しい行いを恥じるべきだ。",
+    "sentence_furigana": "卑【いや】しい行【おこな】いを恥【はじ】じるべきだ。",
+    "meaning": "One should be ashamed of base deeds."
+  },
+  {
+    "sentence": "卑怯なやり方で勝った。",
+    "sentence_furigana": "卑【ひ】怯【きょう】なやり方【かた】で勝【か】った。",
+    "meaning": "He won by a dirty method."
+  },
+  {
+    "sentence": "彼の態度は卑屈に見えた。",
+    "sentence_furigana": "彼【かれ】の態【たい】度は卑【ひ】屈【くつ】に見【み】えた。",
+    "meaning": "His attitude seemed servile."
+  },
+  {
+    "sentence": "卑しい心を持つ者は多い。",
+    "sentence_furigana": "卑【いや】しい心【こころ】を持【も】つ者【もの】は多【おお】い。",
+    "meaning": "There are many people with base hearts."
+  },
+  {
+    "sentence": "卑怯な攻撃は許されない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な攻撃【こうげき】は許【ゆる】されない。",
+    "meaning": "Cowardly attacks are not allowed."
+  },
+  {
+    "sentence": "卑しい言葉遣いを控える。",
+    "sentence_furigana": "卑【いや】しい言葉遣【ことばづか】いを控【ひか】える。",
+    "meaning": "Refrain from vulgar language."
+  },
+  {
+    "sentence": "卑劣な策略に陥った。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な策略【さくりゃく】に陥【おちい】った。",
+    "meaning": "I fell into a vile plot."
+  },
+  {
+    "sentence": "卑しい考えに取り憑かれている。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えに取【と】り憑【つ】かれている。",
+    "meaning": "He is obsessed with base thoughts."
+  },
+  {
+    "sentence": "卑怯な手段で目的を達成する。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な手段【しゅだん】で目的【もくてき】を達【たっ】成【せい】する。",
+    "meaning": "To achieve one's goal by dirty means."
+  },
+  {
+    "sentence": "卑しい者でも人は人だ。",
+    "sentence_furigana": "卑【いや】しい者【もの】でも人【ひと】は人【ひと】だ。",
+    "meaning": "Even a lowly person is still a person."
+  },
+  {
+    "sentence": "卑怯な笑みを隠す。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な笑【わら】いを隠【かく】す。",
+    "meaning": "To hide a cowardly smile."
+  },
+  {
+    "sentence": "卑しい根性に負けない。",
+    "sentence_furigana": "卑【いや】しい根性【こんじょう】に負【ま】けない。",
+    "meaning": "I won't lose to a base spirit."
+  },
+  {
+    "sentence": "卑劣な裏切りは許せない。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な裏切【うらぎ】りは許【ゆる】せない。",
+    "meaning": "Vile betrayal is unforgivable."
+  },
+  {
+    "sentence": "卑しい噂が流れている。",
+    "sentence_furigana": "卑【いや】しい噂【うわさ】が流【なが】れている。",
+    "meaning": "Vulgar rumors are spreading."
+  },
+  {
+    "sentence": "卑怯な態度をとるな。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な態度【たいど】をとるな。",
+    "meaning": "Don't take a cowardly attitude."
+  },
+  {
+    "sentence": "卑しく生きることはない。",
+    "sentence_furigana": "卑【いや】しく生【い】きることはない。",
+    "meaning": "There's no need to live basely."
+  },
+  {
+    "sentence": "卑劣な策略で成功した。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な策略【さくりゃく】で成【せい】功【こう】した。",
+    "meaning": "He succeeded through vile stratagems."
+  },
+  {
+    "sentence": "卑しい考えは捨てなさい。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えは捨【す】てなさい。",
+    "meaning": "Discard your vulgar thoughts."
+  },
+  {
+    "sentence": "卑怯な選択肢を選んだ。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な選択肢【せんたくし】を選【えら】んだ。",
+    "meaning": "He chose the cowardly option."
+  },
+  {
+    "sentence": "卑しい身なりでも心は清らかだ。",
+    "sentence_furigana": "卑【いや】しい身【み】な りでも心【こころ】は清【きよ】らかだ。",
+    "meaning": "Even with a vulgar appearance, his heart is pure."
+  },
+  {
+    "sentence": "卑怯な手口で相手を出し抜いた。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な手口【てぐち】で相手【あいて】を出【だ】し抜【ぬ】いた。",
+    "meaning": "He outmaneuvered the opponent with dirty tricks."
+  },
+  {
+    "sentence": "卑しい欲望に満ちている。",
+    "sentence_furigana": "卑【いや】しい欲【よく】望【ぼう】に満【み】ちている。",
+    "meaning": "He is filled with base desires."
+  },
+  {
+    "sentence": "卑劣な手段に訴える。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な手段【しゅだん】に訴【うった】える。",
+    "meaning": "To resort to vile means."
+  },
+  {
+    "sentence": "卑しい根性を見せるな。",
+    "sentence_furigana": "卑【いや】しい根性【こんじょう】を見【み】せるな。",
+    "meaning": "Don't show your base nature."
+  },
+  {
+    "sentence": "卑怯者は罰せられる。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は罰【ばっ】せられる。",
+    "meaning": "Cowards will be punished."
+  },
+  {
+    "sentence": "卑しい考えに囚われている。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えに囚【とら】われている。",
+    "meaning": "He is trapped by vulgar thoughts."
+  },
+  {
+    "sentence": "卑劣な行為は断じて許さない。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な行為【こうい】は断【だん】じ て許【ゆる】さない。",
+    "meaning": "Vile actions are absolutely unforgivable."
+  },
+  {
+    "sentence": "卑しく働くことは恥ではない。",
+    "sentence_furigana": "卑【いや】しく働【はたら】くことは恥【はじ】ではない。",
+    "meaning": "There is no shame in working lowly."
+  },
+  {
+    "sentence": "卑怯な言い訳はやめなさい。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な言【い】い訳【わけ】はやめなさい。",
+    "meaning": "Stop making cowardly excuses."
+  },
+  {
+    "sentence": "卑しい感情に流されるな。",
+    "sentence_furigana": "卑【いや】しい感情【かんじょう】に流【なが】されるな。",
+    "meaning": "Don't be swayed by base emotions."
+  },
+  {
+    "sentence": "卑劣な攻撃を仕掛ける。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な攻撃【こうげき】を仕掛【しか】ける。",
+    "meaning": "To launch a vile attack."
+  },
+  {
+    "sentence": "卑しい心が生んだ悲劇。",
+    "sentence_furigana": "卑【いや】しい心【こころ】が生【う】んだ悲劇【ひげき】。",
+    "meaning": "A tragedy born from a base heart."
+  },
+  {
+    "sentence": "卑怯な戦い方をしていた。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な戦【たたか】い方【かた】をしていた。",
+    "meaning": "He fought in a cowardly manner."
+  },
+  {
+    "sentence": "卑しい誘惑に負けた。",
+    "sentence_furigana": "卑【いや】しい誘惑【ゆうわく】に負【ま】けた。",
+    "meaning": "He succumbed to a base temptation."
+  },
+  {
+    "sentence": "卑劣な計略を用いた。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な計略【けいりゃく】を用【もち】いた。",
+    "meaning": "He used vile schemes."
+  },
+  {
+    "sentence": "卑しい考えは人の価値を下げる。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えは人【ひと】の価値【かち】を下【さ】げる。",
+    "meaning": "Base thoughts lower a person's value."
+  },
+  {
+    "sentence": "卑怯者は臆病者でもある。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は臆病【おくびょう】者【もの】でもある。",
+    "meaning": "A coward is also a timid person."
+  },
+  {
+    "sentence": "卑しい身分から成り上がる。",
+    "sentence_furigana": "卑【いや】しい身【み】分【ぶん】から成【な】り上【あ】がる。",
+    "meaning": "To rise from a lowly status."
+  },
+  {
+    "sentence": "卑劣な嘘で塗り固めている。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な嘘【うそ】で塗【ぬ】り固【かた】めている。",
+    "meaning": "He is covering it up with vile lies."
+  },
+  {
+    "sentence": "卑しい心を捨て、誠実であれ。",
+    "sentence_furigana": "卑【いや】しい心【こころ】を捨【す】て、誠実【せいじつ】であれ。",
+    "meaning": "Abandon base thoughts and be sincere."
+  },
+  {
+    "sentence": "卑怯な手段に頼らない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な手段【しゅだん】に頼【たよ】らない。",
+    "meaning": "Do not rely on cowardly means."
+  },
+  {
+    "sentence": "卑しい発言は周りを不快にさせる。",
+    "sentence_furigana": "卑【いや】しい発言【はつげん】は周【まわ】りを不快【ふかい】にさせる。",
+    "meaning": "Vulgar remarks make others uncomfortable."
+  },
+  {
+    "sentence": "卑劣な噂を流した犯人を捜す。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な噂【うわさ】を流【なが】した犯人【はんにん】を捜【さが】す。",
+    "meaning": "To find the culprit who spread vile rumors."
+  },
+  {
+    "sentence": "卑しい者は卑しいことをする。",
+    "sentence_furigana": "卑【いや】しい者【もの】は卑【いや】しいことをする。",
+    "meaning": "Base people do base things."
+  },
+  {
+    "sentence": "卑怯な手で勝利を得ても喜べない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な手【て】で勝利【しょうり】を得【え】ても喜【よろこ】べない。",
+    "meaning": "Even if victory is gained through dirty means, it cannot be celebrated."
+  },
+  {
+    "sentence": "卑しい欲望に溺れる。",
+    "sentence_furigana": "卑【いや】しい欲【よく】望【ぼう】に溺【おぼ】れる。",
+    "meaning": "To drown in base desires."
+  },
+  {
+    "sentence": "卑劣な行為は社会を蝕む。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な行為【こうい】は社会【しゃかい】を蝕【むしば】む。",
+    "meaning": "Vile actions erode society."
+  },
+  {
+    "sentence": "卑しい感情に支配されないように注意する。",
+    "sentence_furigana": "卑【いや】しい感情【かんじょう】に支配【しはい】されないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to be dominated by base emotions."
+  },
+  {
+    "sentence": "卑怯な者は決して尊敬されない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は決【けっ】して尊敬【そんけい】されない。",
+    "meaning": "Cowards are never respected."
+  },
+  {
+    "sentence": "卑しい根性から抜け出す。",
+    "sentence_furigana": "卑【いや】しい根性【こんじょう】から抜【ぬ】け出【だ】す。",
+    "meaning": "To break free from a base spirit."
+  },
+  {
+    "sentence": "卑劣な方法で目的を達する。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な方法【ほうほう】で目的【もくてき】を達【たっ】する。",
+    "meaning": "To achieve a goal by vile methods."
+  },
+  {
+    "sentence": "卑しい言葉は使わない方がいい。",
+    "sentence_furigana": "卑【いや】しい言葉【ことば】は使【つか】わない方【ほう】がいい。",
+    "meaning": "It's better not to use vulgar words."
+  },
+  {
+    "sentence": "卑怯なやり方で人気を得た。",
+    "sentence_furigana": "卑【ひ】怯【きょう】なやり方【かた】で人気【にんき】を得【え】た。",
+    "meaning": "He gained popularity through dirty tactics."
+  },
+  {
+    "sentence": "卑しい心がすべてを台無しにする。",
+    "sentence_furigana": "卑【いや】しい心【こころ】がすべてを台無【だいな】しにする。",
+    "meaning": "A base heart ruins everything."
+  },
+  {
+    "sentence": "卑劣な手段は道徳に反する。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な手段【しゅだん】は道徳【どうとく】に反【はん】する。",
+    "meaning": "Vile means are against morality."
+  },
+  {
+    "sentence": "卑しい考えに打ち勝つ。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えに打【う】ち勝【か】つ。",
+    "meaning": "To overcome base thoughts."
+  },
+  {
+    "sentence": "卑怯な者は、常に恐れている。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は、常【つね】に恐【おそ】れている。",
+    "meaning": "Cowards are always afraid."
+  },
+  {
+    "sentence": "卑しい身の上でも、気高く生きられる。",
+    "sentence_furigana": "卑【いや】しい身【み】の 上【うえ】でも、気高【きだか】く生【い】きられる。",
+    "meaning": "Even from a lowly background, one can live nobly."
+  },
+  {
+    "sentence": "卑劣な企みは必ず露見する。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な企【たくら】みは必ず【かならず】露見【ろけん】する。",
+    "meaning": "Vile schemes will inevitably be exposed."
+  },
+  {
+    "sentence": "卑しい噂を信じてはいけない。",
+    "sentence_furigana": "卑【いや】しい噂【うわさ】を信【しん】じてはいけない。",
+    "meaning": "You should not believe vulgar rumors."
+  },
+  {
+    "sentence": "卑怯な手段で勝利を収めることを良しとしない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な手段【しゅだん】で勝利【しょうり】を収【おさ】めることを良【よ】しとしない。",
+    "meaning": "It is not good to achieve victory by cowardly means."
+  },
+  {
+    "sentence": "卑しい欲望を抑えることは難しい。",
+    "sentence_furigana": "卑【いや】しい欲【よく】望【ぼう】を抑【おさ】えることは難【むずか】しい。",
+    "meaning": "It is difficult to suppress base desires."
+  },
+  {
+    "sentence": "卑劣な行為に加担しない。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な行為【こうい】に加担【かたん】しない。",
+    "meaning": "Do not participate in vile actions."
+  },
+  {
+    "sentence": "卑しい心が彼の人生を狂わせた。",
+    "sentence_furigana": "卑【いや】しい心【こころ】が彼【かれ】の人生【じんせい】を狂【くる】わせた。",
+    "meaning": "His base heart ruined his life."
+  },
+  {
+    "sentence": "卑怯な者は、常に後ろめたさを感じる。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は、常【つね】に後【うし】ろめたさを感【かん】じる。",
+    "meaning": "Cowards always feel guilty."
+  },
+  {
+    "sentence": "卑しい食べ物ばかりでは栄養が偏る。",
+    "sentence_furigana": "卑【いや】しい食【た】べ物【もの】ばかりでは栄養【えいよう】が偏【かたよ】る。",
+    "meaning": "Eating only vulgar food leads to nutritional imbalance."
+  },
+  {
+    "sentence": "卑劣な言葉で人を傷つける。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な言葉【ことば】で人【ひと】を傷【きず】つける。",
+    "meaning": "To hurt people with vile words."
+  },
+  {
+    "sentence": "卑しい考えを乗り越え、成長する。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えを乗【の】り越【こ】え、成【せい】長【ちょう】する。",
+    "meaning": "To overcome base thoughts and grow."
+  },
+  {
+    "sentence": "卑怯な態度で責められた。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な態度【たいど】で責【せ】められた。",
+    "meaning": "I was blamed for my cowardly attitude."
+  },
+  {
+    "sentence": "卑しい欲望に屈しない。",
+    "sentence_furigana": "卑【いや】しい欲【よく】望【ぼう】に屈【くっ】しない。",
+    "meaning": "Do not yield to base desires."
+  },
+  {
+    "sentence": "卑劣な手段で窮地を脱した。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な手段【しゅだん】で窮地【きゅうち】を脱【だっ】した。",
+    "meaning": "He escaped the predicament by vile means."
+  },
+  {
+    "sentence": "卑しい考えから自由になる。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えから自由【じゆう】になる。",
+    "meaning": "To become free from base thoughts."
+  },
+  {
+    "sentence": "卑怯者は決して正義の味方ではない。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は決【けっ】して正義【せいぎ】の味方【みかた】ではない。",
+    "meaning": "Cowards are never on the side of justice."
+  },
+  {
+    "sentence": "卑しい欲望に支配された結果だ。",
+    "sentence_furigana": "卑【いや】しい欲【よく】望【ぼう】に支配【しはい】された結果【けっか】だ。",
+    "meaning": "It is the result of being dominated by base desires."
+  },
+  {
+    "sentence": "卑劣な行為は記憶に残る。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な行為【こうい】は記憶【きおく】に残【のこ】る。",
+    "meaning": "Vile actions are remembered."
+  },
+  {
+    "sentence": "卑しい考えは捨て、誇りを持って生きなさい。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えは捨【す】て、誇【ほこ】りを持【も】って生【い】きなさい。",
+    "meaning": "Discard base thoughts and live with pride."
+  },
+  {
+    "sentence": "卑怯な戦いはスポーツマンシップに反する。",
+    "sentence_furigana": "卑【ひ】怯【きょう】な戦【たたか】いはスポーツマンシップに反【はん】する。",
+    "meaning": "Cowardly fighting goes against sportsmanship."
+  },
+  {
+    "sentence": "卑しい考えから解放される。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えから解放【かいほう】される。",
+    "meaning": "To be freed from base thoughts."
+  },
+  {
+    "sentence": "卑劣な陰謀を暴く。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な陰謀【いんぼう】を暴【あば】く。",
+    "meaning": "To expose a vile conspiracy."
+  },
+  {
+    "sentence": "卑しい心で人を妬む。",
+    "sentence_furigana": "卑【いや】しい心【こころ】で人【ひと】を妬【ねた】む。",
+    "meaning": "To envy others with a base heart."
+  },
+  {
+    "sentence": "卑怯な者は常に臆病である。",
+    "sentence_furigana": "卑【ひ】怯【きょう】者【もの】は常【つね】に臆病【おくびょう】である。",
+    "meaning": "Cowards are always timid."
+  },
+  {
+    "sentence": "卑しい考えに囚われず、前向きに進む。",
+    "sentence_furigana": "卑【いや】しい考【かんが】えに囚【とら】われず、前向【まえむ】きに進【すす】む。",
+    "meaning": "Do not be trapped by base thoughts, but move forward positively."
+  },
+  {
+    "sentence": "卑劣な手段で利益を得る。",
+    "sentence_furigana": "卑【ひ】劣【れつ】な手段【しゅだん】で利益【りえき】を得【え】る。",
+    "meaning": "To gain profit by vile means."
+  }
+]

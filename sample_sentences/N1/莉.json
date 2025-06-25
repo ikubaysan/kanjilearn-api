@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "莉子は花屋で白いジャスミンの花を買った。",
+    "sentence_furigana": "莉【り】子【こ】は花【はな】屋【や】で白【しろ】いジャスミン【ー】の【ー】花【はな】を【を】買【か】った【った】。",
+    "meaning": "Riko bought white jasmine flowers at the flower shop."
+  },
+  {
+    "sentence": "庭にジャスミンの木が植えられている。",
+    "sentence_furigana": "庭【にわ】に【に】ジャスミン【ー】の【ー】木【き】が【が】植【う】えられています【えています】。",
+    "meaning": "A jasmine tree is planted in the garden."
+  },
+  {
+    "sentence": "ジャスミンの香りが部屋いっぱいに広がった。",
+    "sentence_furigana": "ジャスミン【ー】の【ー】香【かお】りが【が】部屋【へや】いっぱいに【に】広【ひろ】がった【がった】。",
+    "meaning": "The scent of jasmine filled the room."
+  },
+  {
+    "sentence": "彼女の名前は莉奈です。",
+    "sentence_furigana": "彼女【かのじょ】の名前【なまえ】は【は】莉【り】奈【な】です【です】。",
+    "meaning": "Her name is Rina."
+  },
+  {
+    "sentence": "この香水はジャスミンの香りがする。",
+    "sentence_furigana": "この【この】香水【こうすい】は【は】ジャスミン【ー】の【ー】香【かお】りが【が】します【します】。",
+    "meaning": "This perfume smells like jasmine."
+  },
+  {
+    "sentence": "莉央は新しい学校に慣れてきたようだ。",
+    "sentence_furigana": "莉【り】央【お】は【は】新【あたら】しい【しい】学校【がっこう】に【に】慣【な】れてきた【きた】よう【よう】だ【だ】。",
+    "meaning": "Rio seems to have gotten used to the new school."
+  },
+  {
+    "sentence": "ジャスミンの花は夜に咲く。",
+    "sentence_furigana": "ジャスミン【ー】の【ー】花【はな】は【は】夜【よる】に【に】咲【さ】く【く】。",
+    "meaning": "Jasmine flowers bloom at night."
+  },
+  {
+    "sentence": "莉乃は絵を描くのが得意だ。",
+    "sentence_furigana": "莉【り】乃【の】は【は】絵【え】を【を】描【か】く【く】のが【が】得意【とくい】だ【だ】。",
+    "meaning": "Rino is good at drawing pictures."
+  },
+  {
+    "sentence": "ジャスミン茶はリラックス効果がある。",
+    "sentence_furigana": "ジャスミン【ー】茶【ちゃ】は【は】リラックス【す】効果【こうか】が【が】ある【ある】。",
+    "meaning": "Jasmine tea has a relaxing effect."
+  },
+  {
+    "sentence": "莉恵は来週、海外へ行く予定だ。",
+    "sentence_furigana": "莉【り】恵【え】は【は】来週【らいしゅう】、【、】海外【かいがい】へ【へ】行【ゆ】く【く】予定【よてい】だ【だ】。",
+    "meaning": "Rie is scheduled to go abroad next week."
+  },
+  {
+    "sentence": "ジャスミンの絵が描かれた美しい壁紙だ。",
+    "sentence_furigana": "ジャスミン【ー】の【ー】絵【え】が【が】描【か】かれた【かれた】美【うつく】しい【しい】壁紙【かべがみ】だ【だ】。",
+    "meaning": "It's a beautiful wallpaper with jasmine flowers painted on it."
+  },
+  {
+    "sentence": "莉愛は読書が好きで、よく図書館に通っている。",
+    "sentence_furigana": "莉【り】愛【あ】は【は】読書【どくしょ】が【が】好【す】きで【で】、【、】よく【よく】図書館【としょかん】に【に】通【かよ】っている【っている】。",
+    "meaning": "Ria likes reading and often goes to the library."
+  },
+  {
+    "sentence": "この石鹸は天然のジャスミンの香りがします。",
+    "sentence_furigana": "この【この】石鹸【せっけん】は【は】天然【てんねん】の【の】ジャスミン【ー】の【ー】香【かお】りが【が】します【します】。",
+    "meaning": "This soap has a natural jasmine scent."
+  },
+  {
+    "sentence": "莉央さんはピアノを弾くのが上手だ。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】ピアノ【ー】を【を】弾【ひ】く【く】のが【が】上手【じょうず】だ【だ】。",
+    "meaning": "Rina is good at playing the piano."
+  },
+  {
+    "sentence": "ジャスミンの花束を母の誕生日に贈った。",
+    "sentence_furigana": "ジャスミン【ー】の【ー】花束【はなたば】を【を】母【はは】の【の】誕生日【たんじょうび】に【に】贈【おく】った【った】。",
+    "meaning": "I gave my mother a bouquet of jasmine for her birthday."
+  },
+  {
+    "sentence": "莉子ちゃんの将来が楽しみだ。",
+    "sentence_furigana": "莉【り】子【こ】ちゃん【ちゃん】の【の】将来【しょうらい】が【が】楽【たの】しみだ【だ】。",
+    "meaning": "I'm looking forward to Riko-chan's future."
+  },
+  {
+    "sentence": "この地域ではジャスミンの栽培が盛んである。",
+    "sentence_furigana": "この【この】地域【ちいき】では【では】ジャスミン【ー】の【の】栽培【さいばい】が【が】盛【さか】んだ【んだ】。",
+    "meaning": "Jasmine cultivation is popular in this region."
+  },
+  {
+    "sentence": "莉央はいつも笑顔で、周りを明るくする。",
+    "sentence_furigana": "莉【り】央【お】は【は】いつも【いつも】笑顔【えがお】で【で】、【、】周【まわ】りを【りを】明【あか】るくする【する】。",
+    "meaning": "Rio always smiles and brightens up those around her."
+  },
+  {
+    "sentence": "ジャスミンの花の香りは心を落ち着かせる。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】香【かお】りは【は】心【こころ】を【を】落【お】ち着【つ】かせる【せる】。",
+    "meaning": "The scent of jasmine flowers calms the mind."
+  },
+  {
+    "sentence": "莉奈さんは仕事が丁寧で信頼できる。",
+    "sentence_furigana": "莉【り】奈【な】さん【さん】は【は】仕事【しごと】が【が】丁寧【ていねい】で【で】信頼【しんらい】できる【できる】。",
+    "meaning": "Rina is meticulous and reliable in her work."
+  },
+  {
+    "sentence": "ジャスミンの香りがする紅茶を飲む。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】紅茶【こうちゃ】を【を】飲【の】む【む】。",
+    "meaning": "I drink jasmine-scented black tea."
+  },
+  {
+    "sentence": "莉愛は新しい友達がたくさんできたようだ。",
+    "sentence_furigana": "莉【り】愛【あ】は【は】新【あたら】しい【しい】友達【ともだち】が【が】たくさん【たくさん】できた【できた】よう【よう】だ【だ】。",
+    "meaning": "Ria seems to have made many new friends."
+  },
+  {
+    "sentence": "ジャスミンの香りがするろうそくを灯した。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】ろうそく【ー】を【を】灯【とぼ】した【した】。",
+    "meaning": "I lit a jasmine-scented candle."
+  },
+  {
+    "sentence": "莉子は将来、医者になりたいと言っていた。",
+    "sentence_furigana": "莉【り】子【こ】は【は】将来【しょうらい】、【、】医者【いしゃ】に【に】なりたい【たい】と【と】言【い】っていた【いた】。",
+    "meaning": "Riko said she wants to become a doctor in the future."
+  },
+  {
+    "sentence": "ジャスミンの柄の浴衣が気に入った。",
+    "sentence_furigana": "ジャスミン【ー】の【の】柄【がら】の【の】浴衣【ゆかた】が【が】気【き】に入【い】った【った】。",
+    "meaning": "I liked the yukata with the jasmine pattern."
+  },
+  {
+    "sentence": "莉央さんは落ち着いた雰囲気を持っている。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】落【お】ち着【つ】いた【いた】雰囲気【ふんいき】を【を】持【も】っている【っている】。",
+    "meaning": "Rio has a calm demeanor."
+  },
+  {
+    "sentence": "ジャスミンの香りの入浴剤を使った。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】入浴剤【にゅうよくざい】を【を】使【つか】った【った】。",
+    "meaning": "I used jasmine-scented bath salts."
+  },
+  {
+    "sentence": "莉乃は歌うことが大好きで、いつも楽しそうに歌っている。",
+    "sentence_furigana": "莉【り】乃【の】は【は】歌【うた】う【う】こと【こと】が【が】大好【だいす】きで【で】、【、】いつも【いつも】楽【たの】しそうに【に】歌【うた】っている【っている】。",
+    "meaning": "Rino loves to sing and always sings happily."
+  },
+  {
+    "sentence": "このジャスミンティーはとても香りが良い。",
+    "sentence_furigana": "この【この】ジャスミン【ー】ティー【ー】は【は】とても【とても】香【かお】りが【が】良【よ】い【い】。",
+    "meaning": "This jasmine tea has a very good aroma."
+  },
+  {
+    "sentence": "莉恵さんはいつも周りの人を気遣っている。",
+    "sentence_furigana": "莉【り】恵【え】さん【さん】は【は】いつも【いつも】周【まわ】りの【りの】人【ひと】を【を】気遣【きづか】っている【っている】。",
+    "meaning": "Rie always cares about the people around her."
+  },
+  {
+    "sentence": "ジャスミンの花は白い小さな花をたくさんつける。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】は【は】白【しろ】い【い】小【ちい】さな【な】花【はな】を【を】たくさん【たくさん】つける【ける】。",
+    "meaning": "Jasmine flowers produce many small white flowers."
+  },
+  {
+    "sentence": "莉子は新しいスキルを学ぶことに意欲的だ。",
+    "sentence_furigana": "莉【り】子【こ】は【は】新【あたら】しい【しい】スキル【ー】を【を】学【まな】ぶ【ぶ】こと【こと】に【に】意欲的【いよくてき】だ【だ】。",
+    "meaning": "Riko is eager to learn new skills."
+  },
+  {
+    "sentence": "ジャスミンの香りのアロマオイルを探している。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】アロマ【ー】オイル【ー】を【を】探【さが】している【いる】。",
+    "meaning": "I am looking for jasmine-scented aroma oil."
+  },
+  {
+    "sentence": "莉央さんはとても親切で、誰にでも優しい。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】とても【とても】親切【しんせつ】で【で】、【、】誰【だれ】にでも【でも】優【やさ】しい【しい】。",
+    "meaning": "Rio is very kind and gentle to everyone."
+  },
+  {
+    "sentence": "このクッキーはジャスミンの風味がする。",
+    "sentence_furigana": "この【この】クッキー【ー】は【は】ジャスミン【ー】の【の】風味【ふうみ】が【が】する【する】。",
+    "meaning": "These cookies have a jasmine flavor."
+  },
+  {
+    "sentence": "莉奈は友達と一緒に映画を見に行った。",
+    "sentence_furigana": "莉【り】奈【な】は【は】友達【ともだち】と【と】一緒【いっしょ】に【に】映画【えいが】を【を】見【み】に【に】行【い】った【った】。",
+    "meaning": "Rina went to see a movie with her friends."
+  },
+  {
+    "sentence": "ジャスミンの香りがするハンドクリームは人気がある。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】ハンドクリーム【ー】は【は】人気【にんき】が【が】ある【ある】。",
+    "meaning": "Jasmine-scented hand cream is popular."
+  },
+  {
+    "sentence": "莉愛は将来、世界中を旅したいと思っている。",
+    "sentence_furigana": "莉【り】愛【あ】は【は】将来【しょうらい】、【、】世界中【せかいじゅう】を【を】旅【たび】したい【たい】と【と】思【おも】っている【いる】。",
+    "meaning": "Ria wants to travel around the world in the future."
+  },
+  {
+    "sentence": "ジャスミンの花を髪に飾った。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】を【を】髪【かみ】に【に】飾【かざ】った【った】。",
+    "meaning": "She decorated her hair with jasmine flowers."
+  },
+  {
+    "sentence": "莉子は新しいビジネスを立ち上げた。",
+    "sentence_furigana": "莉【り】子【こ】は【は】新【あたら】しい【しい】ビジネス【ー】を【を】立【た】ち上【あ】げた【た】。",
+    "meaning": "Riko launched a new business."
+  },
+  {
+    "sentence": "ジャスミンの香りのするキャンドルはリラックスできます。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】キャンドル【ー】は【は】リラックス【す】できます【ます】。",
+    "meaning": "Jasmine-scented candles can help you relax."
+  },
+  {
+    "sentence": "莉央さんはどんなことにも一生懸命取り組む。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】どんな【どんな】こと【こと】にも【にも】一生懸命【いっしょうけんめい】取【と】り組【く】む【む】。",
+    "meaning": "Rio tackles everything with great effort."
+  },
+  {
+    "sentence": "ジャスミンの香りのするお香を焚いた。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】お香【こう】を【を】焚【た】いた【いた】。",
+    "meaning": "I burned jasmine-scented incense."
+  },
+  {
+    "sentence": "莉乃は将来、教師になりたいと考えている。",
+    "sentence_furigana": "莉【り】乃【の】は【は】将来【しょうらい】、【、】教師【きょうし】に【に】なりたい【たい】と【と】考【かんが】えている【いる】。",
+    "meaning": "Rino is thinking of becoming a teacher in the future."
+  },
+  {
+    "sentence": "このネックレスにはジャスミンの花のチャームがついている。",
+    "sentence_furigana": "この【この】ネックレス【ー】には【には】ジャスミン【ー】の【の】花【はな】の【の】チャーム【ー】が【が】ついている【いる】。",
+    "meaning": "This necklace has a jasmine flower charm attached."
+  },
+  {
+    "sentence": "莉恵さんはいつも明るく、周りの人を元気づける。",
+    "sentence_furigana": "莉【り】恵【え】さん【さん】は【は】いつも【いつも】明【あか】るく【く】、【、】周【まわ】りの【りの】人【ひと】を【を】元気【げんき】づける【ける】。",
+    "meaning": "Rie is always cheerful and cheers up people around her."
+  },
+  {
+    "sentence": "ジャスミンの香りがする石鹸はプレゼントに最適だ。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】石鹸【せっけん】は【は】プレゼント【ー】に【に】最適【さいてき】だ【だ】。",
+    "meaning": "Jasmine-scented soap is perfect for gifts."
+  },
+  {
+    "sentence": "莉子は学校のイベントでダンスを披露した。",
+    "sentence_furigana": "莉【り】子【こ】は【は】学校【がっこう】の【の】イベント【ー】で【で】ダンス【ー】を【を】披露【ひろう】した【した】。",
+    "meaning": "Riko performed a dance at the school event."
+  },
+  {
+    "sentence": "ジャスミンの花は白くて小さな可憐な花だ。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】は【は】白【しろ】くて【て】小【ちい】さな【な】可憐【かれん】な【な】花【はな】だ【だ】。",
+    "meaning": "Jasmine flowers are small, white, and lovely."
+  },
+  {
+    "sentence": "莉央さんは芸術に造詣が深い。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】芸術【げいじゅつ】に【に】造詣【ぞうけい】が【が】深【ふか】い【い】。",
+    "meaning": "Rio has a deep understanding of art."
+  },
+  {
+    "sentence": "ジャスミンの香りのするルームフレグランスを置いた。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】ルームフレグランス【ー】を【を】置【お】いた【いた】。",
+    "meaning": "I placed a jasmine-scented room fragrance."
+  },
+  {
+    "sentence": "莉奈は常に新しい知識を吸収しようとしている。",
+    "sentence_furigana": "莉【り】奈【な】は【は】常【つね】に【に】新【あたら】しい【しい】知識【ちしき】を【を】吸収【きゅうしゅう】しよう【よう】としている【いる】。",
+    "meaning": "Rina is always trying to absorb new knowledge."
+  },
+  {
+    "sentence": "ジャスミンの香りがする枕カバーは心地よい眠りを誘う。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】枕カバー【ー】は【は】心地【ここち】よい【よい】眠【ねむ】り【り】を【を】誘【いざな】う【う】。",
+    "meaning": "Jasmine-scented pillowcases invite restful sleep."
+  },
+  {
+    "sentence": "莉愛はボランティア活動に熱心に参加している。",
+    "sentence_furigana": "莉【り】愛【あ】は【は】ボランティア【ー】活動【かつどう】に【に】熱心【ねっしん】に【に】参加【さんか】している【いる】。",
+    "meaning": "Ria actively participates in volunteer activities."
+  },
+  {
+    "sentence": "ジャスミンの花のドライフラワーを作った。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】ドライフラワー【ー】を【を】作【つく】った【った】。",
+    "meaning": "I made dried jasmine flowers."
+  },
+  {
+    "sentence": "莉子は地域の清掃活動に参加した。",
+    "sentence_furigana": "莉【り】子【こ】は【は】地域【ちいき】の【の】清掃活動【せいそうかつどう】に【に】参加【さんか】した【した】。",
+    "meaning": "Riko participated in a local cleanup activity."
+  },
+  {
+    "sentence": "ジャスミンの香りは心をリフレッシュさせる。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りは【は】心【こころ】を【を】リフレッシュ【ー】させる【せる】。",
+    "meaning": "The scent of jasmine refreshes the mind."
+  },
+  {
+    "sentence": "莉央さんはいつも前向きで、周りの人に元気を与える。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】いつも【いつも】前向【まえむ】きで【で】、【、】周【まわ】りの【りの】人【ひと】に【に】元気【げんき】を【を】与【あた】える【る】。",
+    "meaning": "Rio is always positive and energizes people around her."
+  },
+  {
+    "sentence": "ジャスミンの香りのするボディローションを使った。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】ボディローション【ー】を【を】使【つか】った【った】。",
+    "meaning": "I used jasmine-scented body lotion."
+  },
+  {
+    "sentence": "莉乃は新しいレシピに挑戦するのが好きだ。",
+    "sentence_furigana": "莉【り】乃【の】は【は】新【あたら】しい【しい】レシピ【ー】に【に】挑戦【ちょうせん】する【する】の【の】が【が】好【す】きだ【だ】。",
+    "meaning": "Rino likes trying new recipes."
+  },
+  {
+    "sentence": "ジャスミンの絵柄の扇子を母にプレゼントした。",
+    "sentence_furigana": "ジャスミン【ー】の【の】絵柄【えがら】の【の】扇子【せんす】を【を】母【はは】に【に】プレゼント【ー】した【した】。",
+    "meaning": "I gave my mother a fan with a jasmine pattern as a gift."
+  },
+  {
+    "sentence": "莉恵さんは常に自己研鑽を怠らない。",
+    "sentence_furigana": "莉【り】恵【え】さん【さん】は【は】常【つね】に【に】自己研鑽【じこけんさん】を【を】怠【おこた】らない【ない】。",
+    "meaning": "Rie never neglects self-improvement."
+  },
+  {
+    "sentence": "ジャスミンの香りのするリップクリームは保湿力がある。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】リップクリーム【ー】は【は】保湿力【ほしつりょく】が【が】ある【ある】。",
+    "meaning": "Jasmine-scented lip cream is moisturizing."
+  },
+  {
+    "sentence": "莉子は友人との時間を大切にしている。",
+    "sentence_furigana": "莉【り】子【こ】は【は】友人【ゆうじん】と【と】の【の】時間【じかん】を【を】大切【たいせつ】に【に】している【いる】。",
+    "meaning": "Riko cherishes her time with friends."
+  },
+  {
+    "sentence": "ジャスミンの花の香りはリラックス効果が高いと言われている。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】香【かお】りは【は】リラックス【す】効果【こうか】が【が】高【たか】い【い】と【と】言【い】われている【いる】。",
+    "meaning": "The scent of jasmine flowers is said to have a high relaxing effect."
+  },
+  {
+    "sentence": "莉央さんは新しいことに挑戦するのを恐れない。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】新【あたら】しい【しい】こと【こと】に【に】挑戦【ちょうせん】する【する】の【の】を【を】恐【おそ】れない【ない】。",
+    "meaning": "Rio is not afraid to try new things."
+  },
+  {
+    "sentence": "ジャスミンの香りのするアロマディフューザーを購入した。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】アロマディフューザー【ー】を【を】購入【こうにゅう】した【した】。",
+    "meaning": "I purchased a jasmine-scented aroma diffuser."
+  },
+  {
+    "sentence": "莉奈は常に学ぶ姿勢を忘れない。",
+    "sentence_furigana": "莉【り】奈【な】は【は】常【つね】に【に】学【まな】ぶ【ぶ】姿勢【しせい】を【を】忘【わす】れない【ない】。",
+    "meaning": "Rina never forgets to maintain a learning attitude."
+  },
+  {
+    "sentence": "ジャスミンの花の香りがする線香は心を落ち着かせる。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】香【かお】りが【が】する【する】線香【せんこう】は【は】心【こころ】を【を】落【お】ち着【つ】かせる【せる】。",
+    "meaning": "Jasmine-scented incense calms the mind."
+  },
+  {
+    "sentence": "莉愛は家族との時間を大切にしている。",
+    "sentence_furigana": "莉【り】愛【あ】は【は】家族【かぞく】と【と】の【の】時間【じかん】を【を】大切【たいせつ】に【に】している【いる】。",
+    "meaning": "Ria cherishes her time with her family."
+  },
+  {
+    "sentence": "ジャスミンの花の絵が描かれた美しいクッションだ。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】絵【え】が【が】描【か】かれた【かれた】美【うつく】しい【しい】クッション【ー】だ【だ】。",
+    "meaning": "It's a beautiful cushion with jasmine flowers painted on it."
+  },
+  {
+    "sentence": "莉子は新しいプロジェクトのリーダーに選ばれた。",
+    "sentence_furigana": "莉【り】子【こ】は【は】新【あたら】しい【しい】プロジェクト【ー】の【の】リーダー【ー】に【に】選【え】ばれた【た】。",
+    "meaning": "Riko was chosen as the leader of the new project."
+  },
+  {
+    "sentence": "ジャスミンの香りのハンドソープは良い香りがする。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】ハンドソープ【ー】は【は】良【よ】い【い】香【かお】りが【が】する【する】。",
+    "meaning": "Jasmine-scented hand soap smells good."
+  },
+  {
+    "sentence": "莉央さんは困難な状況でも諦めない。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】困難【こんなん】な【な】状況【じょうきょう】でも【でも】諦【あきら】めない【ない】。",
+    "meaning": "Rio doesn't give up even in difficult situations."
+  },
+  {
+    "sentence": "ジャスミンの香りのするルームスプレーを使っている。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】ルームスプレー【ー】を【を】使【つか】っている【いる】。",
+    "meaning": "I'm using a jasmine-scented room spray."
+  },
+  {
+    "sentence": "莉奈は新しいスキルを習得するために努力している。",
+    "sentence_furigana": "莉【り】奈【な】は【は】新【あたら】しい【しい】スキル【ー】を【を】習得【しゅうとく】する【する】ため【ため】に【に】努力【どりょく】している【いる】。",
+    "meaning": "Rina is making an effort to acquire new skills."
+  },
+  {
+    "sentence": "ジャスミンの花の絵柄の小物入れは可愛らしい。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】絵柄【えがら】の【の】小物入【こものい】れ【れ】は【は】可愛【かわい】らしい【らしい】。",
+    "meaning": "The small case with the jasmine flower pattern is lovely."
+  },
+  {
+    "sentence": "莉子は常に前向きな姿勢で物事に臨む。",
+    "sentence_furigana": "莉【り】子【こ】は【は】常【つね】に【に】前向【まえむ】きな【な】姿勢【しせい】で【で】物事【ものごと】に【に】臨【のぞ】む【む】。",
+    "meaning": "Riko always approaches things with a positive attitude."
+  },
+  {
+    "sentence": "ジャスミンの香りのするバスオイルはリラックス効果がある。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】バスオイル【ー】は【は】リラックス【す】効果【こうか】が【が】ある【ある】。",
+    "meaning": "Jasmine-scented bath oil has a relaxing effect."
+  },
+  {
+    "sentence": "莉央さんは周囲の人々を大切にする。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】周囲【しゅうい】の【の】人々【ひとびと】を【を】大切【たいせつ】に【に】する【する】。",
+    "meaning": "Rio cherishes the people around her."
+  },
+  {
+    "sentence": "ジャスミンの香りがする柔軟剤は衣類に良い香りを残す。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】柔軟剤【じゅうなんざい】は【は】衣類【いるい】に【に】良【よ】い【い】香【かお】りを【を】残【のこ】す【す】。",
+    "meaning": "Jasmine-scented fabric softener leaves a nice fragrance on clothes."
+  },
+  {
+    "sentence": "莉奈は新しい挑戦に意欲的だ。",
+    "sentence_furigana": "莉【り】奈【な】は【は】新【あたら】しい【しい】挑戦【ちょうせん】に【に】意欲的【いよくてき】だ【だ】。",
+    "meaning": "Rina is eager to take on new challenges."
+  },
+  {
+    "sentence": "ジャスミンの花束を飾って、部屋を華やかにした。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花束【はなたば】を【を】飾【かざ】って【って】、【、】部屋【へや】を【を】華【はな】やかにした【した】。",
+    "meaning": "I decorated the room with a bouquet of jasmine, making it more vibrant."
+  },
+  {
+    "sentence": "莉子は新しい本を読み始めた。",
+    "sentence_furigana": "莉【り】子【こ】は【は】新【あたら】しい【しい】本【ほん】を【を】読【よ】み始【はじ】めた【た】。",
+    "meaning": "Riko started reading a new book."
+  },
+  {
+    "sentence": "ジャスミンの香りのする入浴剤でリラックスした。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】入浴剤【にゅうよくざい】で【で】リラックス【す】した【した】。",
+    "meaning": "I relaxed with jasmine-scented bath salts."
+  },
+  {
+    "sentence": "莉央さんは常に向上心を持っている。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】常【つね】に【に】向上心【こうじょうしん】を【を】持【も】っている【っている】。",
+    "meaning": "Rio always has a desire for self-improvement."
+  },
+  {
+    "sentence": "ジャスミンの香りがするルームフレッシュナーは気分を転換させる。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】ルームフレッシュナー【ー】は【は】気分【きぶん】を【を】転換【てんかん】させる【せる】。",
+    "meaning": "Jasmine-scented room freshener can change your mood."
+  },
+  {
+    "sentence": "莉奈は常に新しいアイデアを求めている。",
+    "sentence_furigana": "莉【り】奈【な】は【は】常【つね】に【に】新【あたら】しい【しい】アイデア【ー】を【を】求【もと】めている【いる】。",
+    "meaning": "Rina is always seeking new ideas."
+  },
+  {
+    "sentence": "ジャスミンの花をモチーフにしたアクセサリーは人気がある。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】を【を】モチーフ【ー】に【に】した【した】アクセサリー【ー】は【は】人気【にんき】が【が】ある【ある】。",
+    "meaning": "Accessories with jasmine flowers as a motif are popular."
+  },
+  {
+    "sentence": "莉子は学業に専念している。",
+    "sentence_furigana": "莉【り】子【こ】は【は】学業【がくぎょう】に【に】専念【せんねん】している【いる】。",
+    "meaning": "Riko is concentrating on her studies."
+  },
+  {
+    "sentence": "ジャスミンの香りのするキャンドルを灯してリラックスした。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りの【りの】する【する】キャンドル【ー】を【を】灯【とぼ】して【して】リラックス【す】した【した】。",
+    "meaning": "I lit a jasmine-scented candle and relaxed."
+  },
+  {
+    "sentence": "莉央さんは常に学習意欲が高い。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】常【つね】に【に】学習意欲【がくしゅういよく】が【が】高【たか】い【い】。",
+    "meaning": "Rio always has a high desire to learn."
+  },
+  {
+    "sentence": "ジャスミンの香りがするボディミストは良い香りがする。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】ボディミスト【ー】は【は】良【よ】い【い】香【かお】りが【が】する【する】。",
+    "meaning": "Jasmine-scented body mist smells good."
+  },
+  {
+    "sentence": "莉奈は常に新しい知識を吸収しようと努めている。",
+    "sentence_furigana": "莉【り】奈【な】は【は】常【つね】に【に】新【あたら】しい【しい】知識【ちしき】を【を】吸収【きゅうしゅう】しよう【よう】と【と】努【つと】めている【いる】。",
+    "meaning": "Rina is always striving to absorb new knowledge."
+  },
+  {
+    "sentence": "ジャスミンの花の絵柄のポーチはとても可愛らしい。",
+    "sentence_furigana": "ジャスミン【ー】の【の】花【はな】の【の】絵柄【えがら】の【の】ポーチ【ー】は【は】とても【とても】可愛【かわい】らしい【らしい】。",
+    "meaning": "The pouch with the jasmine flower pattern is very lovely."
+  },
+  {
+    "sentence": "莉子は新しいことに挑戦することを楽しんでいる。",
+    "sentence_furigana": "莉【り】子【こ】は【は】新【あたら】しい【しい】こと【こと】に【に】挑戦【ちょうせん】する【する】こと【こと】を【を】楽【たの】しんでいる【いる】。",
+    "meaning": "Riko enjoys taking on new challenges."
+  },
+  {
+    "sentence": "ジャスミンの香りがするシャンプーは髪に良い。",
+    "sentence_furigana": "ジャスミン【ー】の【の】香【かお】りが【が】する【する】シャンプー【ー】は【は】髪【かみ】に【に】良【よ】い【い】。",
+    "meaning": "Jasmine-scented shampoo is good for hair."
+  },
+  {
+    "sentence": "莉央さんは常に改善点を探している。",
+    "sentence_furigana": "莉【り】央【お】さん【さん】は【は】常【つね】に【に】改善点【かいぜんてん】を【を】探【さが】している【いる】。",
+    "meaning": "Rio is always looking for areas to improve."
+  }
+]

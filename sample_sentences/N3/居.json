@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "私は東京に住んでいます。",
+    "sentence_furigana": "私【わたし】は東京【とうきょう】に住【す】んでいます。",
+    "meaning": "I live in Tokyo."
+  },
+  {
+    "sentence": "彼はまだここに居ますか？",
+    "sentence_furigana": "彼【かれ】はまだここ【ここ】に居【い】ますか？",
+    "meaning": "Is he still here?"
+  },
+  {
+    "sentence": "その問題は解決済みです。",
+    "sentence_furigana": "その問題【もんだい】は解決済【かいけつず】みです。",
+    "meaning": "That problem has already been solved."
+  },
+  {
+    "sentence": "彼女は今、家にいる。",
+    "sentence_furigana": "彼女【かのじょ】は今【いま】、家【いえ】にいる。",
+    "meaning": "She is at home now."
+  },
+  {
+    "sentence": "この部屋には誰も居ない。",
+    "sentence_furigana": "この部屋【へや】には誰【だれ】も居【い】ない。",
+    "meaning": "There is no one in this room."
+  },
+  {
+    "sentence": "彼はいつも落ち着いています。",
+    "sentence_furigana": "彼【かれ】はいつも落【お】ち着【つ】いています。",
+    "meaning": "He is always calm."
+  },
+  {
+    "sentence": "その場所は静かで落ち着きました。",
+    "sentence_furigana": "その場所【ばしょ】は静【しず】かで落【お】ち着【つ】きました。",
+    "meaning": "The place was quiet and I felt at ease."
+  },
+  {
+    "sentence": "彼は長年外国に居住していた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】外国【がいこく】に居住【きょじゅう】していました。",
+    "meaning": "He resided abroad for many years."
+  },
+  {
+    "sentence": "この店は駅の近くにあります。",
+    "sentence_furigana": "この店【みせ】は駅【えき】の近【ちか】くにあります。",
+    "meaning": "This shop is located near the station."
+  },
+  {
+    "sentence": "彼女は学校にいます。",
+    "sentence_furigana": "彼女【かのじょ】は学校【がっこう】にいます。",
+    "meaning": "She is at school."
+  },
+  {
+    "sentence": "彼は家にいますか？",
+    "sentence_furigana": "彼【かれ】は家【いえ】にいますか？",
+    "meaning": "Is he home?"
+  },
+  {
+    "sentence": "私たちは新しい家に住んでいます。",
+    "sentence_furigana": "私【わたし】たち【たち】は新【あたら】しい家【いえ】に住【す】んでいます。",
+    "meaning": "We are living in a new house."
+  },
+  {
+    "sentence": "この問題はすでに解決されています。",
+    "sentence_furigana": "この問題【もんだい】はすでに解決【かいけつ】されています。",
+    "meaning": "This problem has already been resolved."
+  },
+  {
+    "sentence": "彼は海外に長期滞在していました。",
+    "sentence_furigana": "彼【かれ】は海外【かいがい】に長期滞在【ちょうきたいざい】していました。",
+    "meaning": "He stayed abroad for a long time."
+  },
+  {
+    "sentence": "この会議には多数の人が出席しています。",
+    "sentence_furigana": "この会議【かいぎ】には多数【たすう】の人【ひと】が出席【しゅっせき】しています。",
+    "meaning": "Many people are attending this meeting."
+  },
+  {
+    "sentence": "彼女は今、職場にいる。",
+    "sentence_furigana": "彼女【かのじょ】は今【いま】、職場【しょくば】にいる。",
+    "meaning": "She is at her workplace now."
+  },
+  {
+    "sentence": "他に質問はありますか？",
+    "sentence_furigana": "他【ほか】に質問【しつもん】はありますか？",
+    "meaning": "Are there any other questions?"
+  },
+  {
+    "sentence": "彼はその仕事に満足しています。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の仕事【しごと】に満足【まんぞく】しています。",
+    "meaning": "He is satisfied with that job."
+  },
+  {
+    "sentence": "この本は図書館にありますか？",
+    "sentence_furigana": "この本【ほん】は図書館【としょかん】にありますか？",
+    "meaning": "Is this book available at the library?"
+  },
+  {
+    "sentence": "彼女は一人暮らしです。",
+    "sentence_furigana": "彼女【かのじょ】は一人暮【ひとりぐ】らしです。",
+    "meaning": "She lives alone."
+  },
+  {
+    "sentence": "彼はもう帰りましたか？",
+    "sentence_furigana": "彼【かれ】はもう帰【かえ】りましたか？",
+    "meaning": "Has he already returned?"
+  },
+  {
+    "sentence": "この状況に慣れています。",
+    "sentence_furigana": "この状況【じょうきょう】に慣【な】れています。",
+    "meaning": "I am used to this situation."
+  },
+  {
+    "sentence": "彼は会議に出席していました。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に出席【しゅっせき】していました。",
+    "meaning": "He was attending the meeting."
+  },
+  {
+    "sentence": "この建物は古いですが、まだ使われています。",
+    "sentence_furigana": "この建物【たてもの】は古【ふる】いですが、まだ使【つか】われています。",
+    "meaning": "This building is old, but it is still in use."
+  },
+  {
+    "sentence": "彼は将来、自分で店を出すつもりです。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】、自分【じぶん】で店【みせ】を出【だ】すつもりです。",
+    "meaning": "He plans to open his own store in the future."
+  },
+  {
+    "sentence": "彼女は海外に住んだ経験がある。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】に住【す】んだ経験【けいけん】がある。",
+    "meaning": "She has experience living abroad."
+  },
+  {
+    "sentence": "この件についてはすでに話し合い済みです。",
+    "sentence_furigana": "この件【けん】についてはすでに話【はな】し合【あ】い済【ず】みです。",
+    "meaning": "This matter has already been discussed."
+  },
+  {
+    "sentence": "彼は今、役所にいます。",
+    "sentence_furigana": "彼【かれ】は今【いま】、役所【やくしょ】にいます。",
+    "meaning": "He is at the city hall now."
+  },
+  {
+    "sentence": "この土地は私の所有です。",
+    "sentence_furigana": "この土地【とち】は私【わたし】の所有【しょゆう】です。",
+    "meaning": "This land is owned by me."
+  },
+  {
+    "sentence": "彼は新しい仕事に就きました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい仕事【しごと】に就【つ】きました。",
+    "meaning": "He got a new job."
+  },
+  {
+    "sentence": "この資料はどこにありますか？",
+    "sentence_furigana": "この資料【しりょう】はどこにありますか？",
+    "meaning": "Where is this document?"
+  },
+  {
+    "sentence": "彼はもう出かけました。",
+    "sentence_furigana": "彼【かれ】はもう出【で】かけました。",
+    "meaning": "He has already left."
+  },
+  {
+    "sentence": "私たちは今週末、家にいます。",
+    "sentence_furigana": "私【わたし】たち【たち】は今週末【こんしゅうまつ】、家【いえ】にいます。",
+    "meaning": "We will be home this weekend."
+  },
+  {
+    "sentence": "この商品は在庫があります。",
+    "sentence_furigana": "この商品【しょうひん】は在庫【ざいこ】があります。",
+    "meaning": "This product is in stock."
+  },
+  {
+    "sentence": "彼は故郷に帰る予定です。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】に帰【かえ】る予定【よてい】です。",
+    "meaning": "He plans to return to his hometown."
+  },
+  {
+    "sentence": "この件は彼に一任します。",
+    "sentence_furigana": "この件【けん】は彼【かれ】に一任【いちにん】します。",
+    "meaning": "I will leave this matter entirely to him."
+  },
+  {
+    "sentence": "彼女は今、海外旅行中です。",
+    "sentence_furigana": "彼女【かのじょ】は今【いま】、海外旅行中【かいがいりょこうちゅう】です。",
+    "meaning": "She is currently traveling abroad."
+  },
+  {
+    "sentence": "彼は子供の頃からここに住んでいる。",
+    "sentence_furigana": "彼【かれ】は子供の頃【こどものころ】からここ【ここ】に住【す】んでいる。",
+    "meaning": "He has lived here since childhood."
+  },
+  {
+    "sentence": "この情報は正しいですか？",
+    "sentence_furigana": "この情報【じょうほう】は正【ただ】しいですか？",
+    "meaning": "Is this information correct?"
+  },
+  {
+    "sentence": "彼は会議室にいます。",
+    "sentence_furigana": "彼【かれ】は会議室【かいぎしつ】にいます。",
+    "meaning": "He is in the conference room."
+  },
+  {
+    "sentence": "この問題は解決されるべきです。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】されるべきです。",
+    "meaning": "This problem should be solved."
+  },
+  {
+    "sentence": "彼は長年この町に住んでいる。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】この町【まち】に住【す】んでいる。",
+    "meaning": "He has lived in this town for many years."
+  },
+  {
+    "sentence": "その情報は誤りです。",
+    "sentence_furigana": "そ【そ】の情報【じょうほう】は誤【あやま】りです。",
+    "meaning": "That information is incorrect."
+  },
+  {
+    "sentence": "彼は今、不在です。",
+    "sentence_furigana": "彼【かれ】は今【いま】、不在【ふざい】です。",
+    "meaning": "He is absent now."
+  },
+  {
+    "sentence": "この部屋には誰もいない。",
+    "sentence_furigana": "この部屋【へや】には誰【だれ】もいない。",
+    "meaning": "There is nobody in this room."
+  },
+  {
+    "sentence": "彼は落ち着いた様子です。",
+    "sentence_furigana": "彼【かれ】は落【お】ち着【つ】いた様子【ようす】です。",
+    "meaning": "He looks calm."
+  },
+  {
+    "sentence": "彼女は以前、海外に住んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は以前【いぜん】、海外【かいがい】に住【す】んでいた。",
+    "meaning": "She used to live abroad."
+  },
+  {
+    "sentence": "この本はまだ利用可能です。",
+    "sentence_furigana": "この本【ほん】はまだ利用可能【りようかのう】です。",
+    "meaning": "This book is still available."
+  },
+  {
+    "sentence": "彼は今朝、家を出ました。",
+    "sentence_furigana": "彼【かれ】は今朝【けさ】、家【いえ】を出【で】ました。",
+    "meaning": "He left home this morning."
+  },
+  {
+    "sentence": "この件は進行中です。",
+    "sentence_furigana": "この件【けん】は進行中【しんこうちゅう】です。",
+    "meaning": "This matter is in progress."
+  },
+  {
+    "sentence": "彼は故郷を離れて暮らしている。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】を離【はな】れて暮【く】らしている。",
+    "meaning": "He lives away from his hometown."
+  },
+  {
+    "sentence": "この情報は本当ですか？",
+    "sentence_furigana": "この情報【じょうほう】は本当【ほんとう】ですか？",
+    "meaning": "Is this information true?"
+  },
+  {
+    "sentence": "彼はすでに到着しました。",
+    "sentence_furigana": "彼【かれ】はすでに到着【とうちゃく】しました。",
+    "meaning": "He has already arrived."
+  },
+  {
+    "sentence": "彼女は新しい家に引っ越しました。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい家【いえ】に引【ひ】っ越【こ】しました。",
+    "meaning": "She moved to a new house."
+  },
+  {
+    "sentence": "この会議には彼は出席していません。",
+    "sentence_furigana": "この会議【かいぎ】には彼【かれ】は出席【しゅっせき】していません。",
+    "meaning": "He is not attending this meeting."
+  },
+  {
+    "sentence": "彼はまだその会社にいますか？",
+    "sentence_furigana": "彼【かれ】はまだそ【そ】の会社【かいしゃ】にいますか？",
+    "meaning": "Is he still with that company?"
+  },
+  {
+    "sentence": "この情報は最新です。",
+    "sentence_furigana": "この情報【じょうほう】は最新【さいしん】です。",
+    "meaning": "This information is up-to-date."
+  },
+  {
+    "sentence": "彼は長年ロンドンに居住していた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】ロンドンに居住【きょじゅう】していました。",
+    "meaning": "He resided in London for many years."
+  },
+  {
+    "sentence": "その知らせはすでに届いています。",
+    "sentence_furigana": "そ【そ】の知【し】らせはすでに届【とど】いています。",
+    "meaning": "That news has already arrived."
+  },
+  {
+    "sentence": "彼は今、休憩中です。",
+    "sentence_furigana": "彼【かれ】は今【いま】、休憩中【きゅうけいちゅう】です。",
+    "meaning": "He is on a break now."
+  },
+  {
+    "sentence": "この問題は未解決です。",
+    "sentence_furigana": "この問題【もんだい】は未解決【みかいけつ】です。",
+    "meaning": "This problem is unresolved."
+  },
+  {
+    "sentence": "彼は故郷に帰ることを決めた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】に帰【かえ】ることを決【き】めた。",
+    "meaning": "He decided to return to his hometown."
+  },
+  {
+    "sentence": "この情報は正確ですか？",
+    "sentence_furigana": "この情報【じょうほう】は正確【せいかく】ですか？",
+    "meaning": "Is this information accurate?"
+  },
+  {
+    "sentence": "彼は来週、東京に戻ります。",
+    "sentence_furigana": "彼【かれ】は来週【らいしゅう】、東京【とうきょう】に戻【もど】ります。",
+    "meaning": "He will return to Tokyo next week."
+  },
+  {
+    "sentence": "この部屋にはまだ明かりが灯っています。",
+    "sentence_furigana": "この部屋【へや】にはまだ明【あ】かりが灯【とも】っています。",
+    "meaning": "There is still a light on in this room."
+  },
+  {
+    "sentence": "彼はその状況に慣れました。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の状況【じょうきょう】に慣【な】れました。",
+    "meaning": "He got used to that situation."
+  },
+  {
+    "sentence": "この書類はどこに保管されていますか？",
+    "sentence_furigana": "この書類【しょるい】はどこに保管【ほかん】されていますか？",
+    "meaning": "Where is this document stored?"
+  },
+  {
+    "sentence": "彼は以前、この場所に住んでいた。",
+    "sentence_furigana": "彼【かれ】は以前【いぜん】、この場所【ばしょ】に住【す】んでいた。",
+    "meaning": "He used to live in this place."
+  },
+  {
+    "sentence": "この情報は秘密です。",
+    "sentence_furigana": "この情報【じょうほう】は秘密【ひみつ】です。",
+    "meaning": "This information is confidential."
+  },
+  {
+    "sentence": "彼は会議に出席するためにここに来た。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に出席【しゅっせき】するためにここ【ここ】に来【き】た。",
+    "meaning": "He came here to attend the meeting."
+  },
+  {
+    "sentence": "この品物はまだ在庫がありますか？",
+    "sentence_furigana": "この品物【しなもの】はまだ在庫【ざいこ】がありますか？",
+    "meaning": "Is this item still in stock?"
+  },
+  {
+    "sentence": "彼は新しい住居を探しています。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい住居【じゅうきょ】を探【さが】しています。",
+    "meaning": "He is looking for a new residence."
+  },
+  {
+    "sentence": "この情報は広く知られています。",
+    "sentence_furigana": "この情報【じょうほう】は広【ひろ】く知【し】られています。",
+    "meaning": "This information is widely known."
+  },
+  {
+    "sentence": "彼は故郷での生活を楽しんでいます。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】での生活【せいかつ】を楽し【たの】しんでいます。",
+    "meaning": "He is enjoying life in his hometown."
+  },
+  {
+    "sentence": "このデータはまだ有効です。",
+    "sentence_furigana": "このデータはまだ有効【ゆうこう】です。",
+    "meaning": "This data is still valid."
+  },
+  {
+    "sentence": "彼は今、出張中です。",
+    "sentence_furigana": "彼【かれ】は今【いま】、出張中【しゅっちょうちゅう】です。",
+    "meaning": "He is on a business trip now."
+  },
+  {
+    "sentence": "この件に関する情報はすべて揃っています。",
+    "sentence_furigana": "この件【けん】に関【かん】する情報【じょうほう】はすべて揃【そろ】っています。",
+    "meaning": "All information regarding this matter is available."
+  },
+  {
+    "sentence": "彼は長年教会に通っている。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】教会【きょうかい】に通【かよ】っている。",
+    "meaning": "He has been attending church for many years."
+  },
+  {
+    "sentence": "この情報は正確に記述されています。",
+    "sentence_furigana": "この情報【じょうほう】は正確【せいかく】に記述【きじゅつ】されています。",
+    "meaning": "This information is accurately described."
+  },
+  {
+    "sentence": "彼は子供の頃から俳優になることを夢見ていた。",
+    "sentence_furigana": "彼【かれ】は子供の頃【こどものころ】から俳優【はいゆう】になることを夢【ゆ】見ていた。",
+    "meaning": "He dreamed of becoming an actor since childhood."
+  },
+  {
+    "sentence": "この商品はまだ販売されています。",
+    "sentence_furigana": "この商品【しょうひん】はまだ販売【はんばい】されています。",
+    "meaning": "This product is still on sale."
+  },
+  {
+    "sentence": "彼は故郷に家を建てた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】に家【いえ】を建【た】てた。",
+    "meaning": "He built a house in his hometown."
+  },
+  {
+    "sentence": "この情報は機密事項です。",
+    "sentence_furigana": "この情報【じょうほう】は機密事項【きみつじこう】です。",
+    "meaning": "This information is classified."
+  },
+  {
+    "sentence": "彼は来月、新しい家に引っ越す予定です。",
+    "sentence_furigana": "彼【かれ】は来月【らいげつ】、新【あたら】しい家【いえ】に引【ひ】っ越【こ】す予定【よてい】です。",
+    "meaning": "He plans to move to a new house next month."
+  },
+  {
+    "sentence": "この問題は既に解決されたと聞きました。",
+    "sentence_furigana": "この問題【もんだい】は既【すで】に解決【かいけつ】されたと聞【き】きました。",
+    "meaning": "I heard this problem has already been solved."
+  },
+  {
+    "sentence": "彼は今、自宅で仕事をしています。",
+    "sentence_furigana": "彼【かれ】は今【いま】、自宅【じたく】で仕事【しごと】をしています。",
+    "meaning": "He is working from home now."
+  },
+  {
+    "sentence": "この情報は公開されていません。",
+    "sentence_furigana": "この情報【じょうほう】は公開【こうかい】されていません。",
+    "meaning": "This information is not public."
+  },
+  {
+    "sentence": "彼はかつて世界を旅していた。",
+    "sentence_furigana": "彼【かれ】はかつて世界【せかい】を旅【たび】していた。",
+    "meaning": "He used to travel the world."
+  },
+  {
+    "sentence": "この情報はに変更がありますか？",
+    "sentence_furigana": "この情報【じょうほう】は変更【へんこう】がありますか？",
+    "meaning": "Is there any change in this information?"
+  },
+  {
+    "sentence": "彼は今、公園にいます。",
+    "sentence_furigana": "彼【かれ】は今【いま】、公園【こうえん】にいます。",
+    "meaning": "He is in the park now."
+  },
+  {
+    "sentence": "この資料はどこに保存されていますか？",
+    "sentence_furigana": "この資料【しりょう】はどこに保存【ほぞん】されていますか？",
+    "meaning": "Where is this document saved?"
+  },
+  {
+    "sentence": "彼はその会議に出席する予定です。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の会議【かいぎ】に出席【しゅっせき】する予定【よてい】です。",
+    "meaning": "He is scheduled to attend that meeting."
+  },
+  {
+    "sentence": "この本はまだ入手可能ですか？",
+    "sentence_furigana": "この本【ほん】はまだ入手可能【にゅうしゅかのう】ですか？",
+    "meaning": "Is this book still available?"
+  },
+  {
+    "sentence": "彼は子供の頃からずっと音楽を続けている。",
+    "sentence_furigana": "彼【かれ】は子供の頃【こどものころ】からずっと音楽【おんがく】を続【つづ】けている。",
+    "meaning": "He has continued with music since childhood."
+  },
+  {
+    "sentence": "この商品はすでに売り切れました。",
+    "sentence_furigana": "この商品【しょうひん】はすでに売【う】り切【き】れました。",
+    "meaning": "This product is already sold out."
+  },
+  {
+    "sentence": "彼は今週末、故郷に帰省します。",
+    "sentence_furigana": "彼【かれ】は今週末【こんしゅうまつ】、故郷【こきょう】に帰省【きせい】します。",
+    "meaning": "He will return to his hometown this weekend."
+  },
+  {
+    "sentence": "この情報はまだ更新されていません。",
+    "sentence_furigana": "この情報【じょうほう】はまだ更新【こうしん】されていません。",
+    "meaning": "This information has not been updated yet."
+  },
+  {
+    "sentence": "彼はその仕事に就くことを決めた。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の仕事【しごと】に就【つ】くことを決【き】めた。",
+    "meaning": "He decided to take on that job."
+  },
+  {
+    "sentence": "この資料はどこにありますか？",
+    "sentence_furigana": "この資料【しりょう】はどこにありますか？",
+    "meaning": "Where can I find this document?"
+  },
+  {
+    "sentence": "彼は今、不在にする予定です。",
+    "sentence_furigana": "彼【かれ】は今【いま】、不在【ふざい】にする予定【よてい】です。",
+    "meaning": "He will be absent now."
+  }
+]

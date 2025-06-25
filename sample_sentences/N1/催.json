@@ -1,0 +1,447 @@
+[
+  {
+    "sentence": "会議を催すことになった。",
+    "sentence_furigana": "会議【かいぎ】を催【もよお】すことになった。",
+    "meaning": "It has been decided to hold a meeting."
+  },
+  {
+    "sentence": "文化祭を催す。",
+    "sentence_furigana": "文化祭【ぶんかさい】を催【もよお】す。",
+    "meaning": "To hold a cultural festival."
+  },
+  {
+    "sentence": "展示会を催したいと考えています。",
+    "sentence_furigana": "展示会【てんじかい】を催【もよお】したいと思【おも】っています。",
+    "meaning": "We are thinking of holding an exhibition."
+  },
+  {
+    "sentence": "彼はパーティーを催した。",
+    "sentence_furigana": "彼【かれ】はパーティーを催【もよお】した。",
+    "meaning": "He held a party."
+  },
+  {
+    "sentence": "チャリティーコンサートが開催される予定です。",
+    "sentence_furigana": "チャリティーコンサートが開催【かいさい】される予定【よてい】です。",
+    "meaning": "A charity concert is scheduled to be held."
+  },
+  {
+    "sentence": "同窓会を催す予定です。",
+    "sentence_furigana": "同窓会【どうそうかい】を催【もよお】す予定【よてい】です。",
+    "meaning": "We plan to hold a class reunion."
+  },
+  {
+    "sentence": "会合を催す。",
+    "sentence_furigana": "会合【かいごう】を催【もよお】す。",
+    "meaning": "To hold a meeting."
+  },
+  {
+    "sentence": "試験を催す。",
+    "sentence_furigana": "試験【しけん】を催【もよお】す。",
+    "meaning": "To hold an examination."
+  },
+  {
+    "sentence": "懇親会を催す。",
+    "sentence_furigana": "懇親会【こんしんかい】を催【もよお】す。",
+    "meaning": "To hold a social gathering."
+  },
+  {
+    "sentence": "講演会を催す。",
+    "sentence_furigana": "講演会【こうえんかい】を催【もよお】す。",
+    "meaning": "To hold a lecture."
+  },
+  {
+    "sentence": "そのイベントは弊社が主催しました。",
+    "sentence_furigana": "そのイベントは弊社【へいしゃ】が主催【しゅさい】しました。",
+    "meaning": "Our company sponsored that event."
+  },
+  {
+    "sentence": "彼はイベントの開催に尽力した。",
+    "sentence_furigana": "彼【かれ】はイベントの開催【かいさい】に尽力【じんりょく】した。",
+    "meaning": "He worked hard to hold the event."
+  },
+  {
+    "sentence": "記念行事を催す。",
+    "sentence_furigana": "記念行事【きねんぎょうじ】を催【もよお】す。",
+    "meaning": "To hold commemorative events."
+  },
+  {
+    "sentence": "展覧会を催す。",
+    "sentence_furigana": "展覧会【てんらんかい】を催【もよお】す。",
+    "meaning": "To hold an exhibition."
+  },
+  {
+    "sentence": "新製品発表会を催します。",
+    "sentence_furigana": "新製品発表会【しんせいひん はっぴょうかい】を催【もよお】します。",
+    "meaning": "We will hold a new product launch event."
+  },
+  {
+    "sentence": "彼らは集会を催した。",
+    "sentence_furigana": "彼【かれ】らは集会【しゅうかい】を催【もよお】した。",
+    "meaning": "They held a gathering."
+  },
+  {
+    "sentence": "美術展を催す。",
+    "sentence_furigana": "美術展【びじゅつてん】を催【もよお】す。",
+    "meaning": "To hold an art exhibition."
+  },
+  {
+    "sentence": "学会を催す。",
+    "sentence_furigana": "学会【がっかい】を催【もよお】す。",
+    "meaning": "To hold an academic conference."
+  },
+  {
+    "sentence": "彼がパーティーを催す。",
+    "sentence_furigana": "彼【かれ】がパーティーを催【もよお】す。",
+    "meaning": "He holds a party."
+  },
+  {
+    "sentence": "スポーツ大会を催す。",
+    "sentence_furigana": "スポーツ大会【スポーツたいかい】を催【もよお】す。",
+    "meaning": "To hold a sports competition."
+  },
+  {
+    "sentence": "会議の開催が決定された。",
+    "sentence_furigana": "会議【かいぎ】の開催【かいさい】が決定【けってい】された。",
+    "meaning": "The holding of the meeting was decided."
+  },
+  {
+    "sentence": "文化祭の開催に向けて準備を進めている。",
+    "sentence_furigana": "文化祭【ぶんかさい】の開催【かいさい】に向【む】けて準備【じゅんび】を進【すす】めている。",
+    "meaning": "Preparations are underway for the cultural festival."
+  },
+  {
+    "sentence": "彼は大規模なイベントを催すことを計画している。",
+    "sentence_furigana": "彼【かれ】は大規模【だいきぼ】なイベントを催【もよお】すことを計画【けいかく】している。",
+    "meaning": "He is planning to hold a large-scale event."
+  },
+  {
+    "sentence": "音楽祭を催す。",
+    "sentence_furigana": "音楽祭【おんがくさい】を催【もよお】す。",
+    "meaning": "To hold a music festival."
+  },
+  {
+    "sentence": "パーティーを催します。",
+    "sentence_furigana": "パーティーを催【もよお】します。",
+    "meaning": "We will hold a party."
+  },
+  {
+    "sentence": "会議を催すことになりました。",
+    "sentence_furigana": "会議【かいぎ】を催【もよお】すことになりました。",
+    "meaning": "It has been decided that a meeting will be held."
+  },
+  {
+    "sentence": "彼がイベントを主催した。",
+    "sentence_furigana": "彼【かれ】がイベントを主催【しゅさい】した。",
+    "meaning": "He sponsored the event."
+  },
+  {
+    "sentence": "会議の開催について話し合った。",
+    "sentence_furigana": "会議【かいぎ】の開催【かいさい】について話【はな】し合【あ】った。",
+    "meaning": "We discussed the holding of the meeting."
+  },
+  {
+    "sentence": "技術発表会を催す。",
+    "sentence_furigana": "技術発表会【ぎじゅつ はっぴょうかい】を催【もよお】す。",
+    "meaning": "To hold a technical presentation."
+  },
+  {
+    "sentence": "彼はその会議を主催した。",
+    "sentence_furigana": "彼【かれ】はその会議【かいぎ】を主催【しゅさい】した。",
+    "meaning": "He sponsored that meeting."
+  },
+  {
+    "sentence": "展示会を主催する。",
+    "sentence_furigana": "展示会【てんじかい】を主催【しゅさい】する。",
+    "meaning": "To sponsor an exhibition."
+  },
+  {
+    "sentence": "彼の主催でパーティーが開かれた。",
+    "sentence_furigana": "彼【かれ】の主催【しゅさい】でパーティーが開【ひら】かれた。",
+    "meaning": "A party was held under his sponsorship."
+  },
+  {
+    "sentence": "学園祭を催す。",
+    "sentence_furigana": "学園祭【がくえんさい】を催【もよお】す。",
+    "meaning": "To hold a school festival."
+  },
+  {
+    "sentence": "彼はその会を催すことを提案した。",
+    "sentence_furigana": "彼【かれ】はその会【かい】を催【もよお】すことを提案【ていあん】した。",
+    "meaning": "He proposed holding that meeting."
+  },
+  {
+    "sentence": "芸術祭を催す。",
+    "sentence_furigana": "芸術祭【げいじゅつさい】を催【もよお】す。",
+    "meaning": "To hold an arts festival."
+  },
+  {
+    "sentence": "彼はその集まりを催した。",
+    "sentence_furigana": "彼【かれ】はその集【あつ】まりを催【もよお】した。",
+    "meaning": "He held that gathering."
+  },
+  {
+    "sentence": "国際会議を催す。",
+    "sentence_furigana": "国際会議【こくさい かいぎ】を催【もよお】す。",
+    "meaning": "To hold an international conference."
+  },
+  {
+    "sentence": "彼は夕食会を催すつもりです。",
+    "sentence_furigana": "彼【かれ】は夕食会【ゆうしょくかい】を催【もよお】すつもりです。",
+    "meaning": "He intends to host a dinner party."
+  },
+  {
+    "sentence": "慈善事業を催す。",
+    "sentence_furigana": "慈善事業【じぜんじぎょう】を催【もよお】す。",
+    "meaning": "To hold charitable activities."
+  },
+  {
+    "sentence": "彼らは大規模な式典を催した。",
+    "sentence_furigana": "彼【かれ】らは大規模【だいきぼ】な式典【しきてん】を催【もよお】した。",
+    "meaning": "They held a large-scale ceremony."
+  },
+  {
+    "sentence": "記念式典を催す。",
+    "sentence_furigana": "記念式典【きねんしきてん】を催【もよお】す。",
+    "meaning": "To hold a commemorative ceremony."
+  },
+  {
+    "sentence": "彼は家族だけのパーティーを催す予定です。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】だけ の パーティーを催【もよお】す予定【よてい】です。",
+    "meaning": "He plans to hold a party just for his family."
+  },
+  {
+    "sentence": "祭りを催す。",
+    "sentence_furigana": "祭【まつ】り を 催【もよお】す。",
+    "meaning": "To hold a festival."
+  },
+  {
+    "sentence": "彼はパーティーを催すために多くの準備をした。",
+    "sentence_furigana": "彼【かれ】はパーティーを催【もよお】すために多【おお】くの準備【じゅんび】をした。",
+    "meaning": "He made a lot of preparations to hold the party."
+  },
+  {
+    "sentence": "地域のお祭りを催す。",
+    "sentence_furigana": "地域【ちいき】の お祭【まつ】り を 催【もよお】す。",
+    "meaning": "To hold a local festival."
+  },
+  {
+    "sentence": "彼は会社の創立記念パーティーを催した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の創立記念【そうりつ きねん】パーティーを催【もよお】した。",
+    "meaning": "He held a party to commemorate the company's founding."
+  },
+  {
+    "sentence": "彼は友人の誕生パーティーを催すことを決めました。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の誕生日【たんじょうび】パーティーを催【もよお】すことを決【き】めました。",
+    "meaning": "He decided to hold a birthday party for his friend."
+  },
+  {
+    "sentence": "彼らの主催で、チャリティーイベントが開催された。",
+    "sentence_furigana": "彼【かれ】らの主催【しゅさい】で、チャリティーイベントが開催【かいさい】された。",
+    "meaning": "A charity event was held under their sponsorship."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトのキックオフミーティングを催した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトのキックオフミーティングを催【もよお】した。",
+    "meaning": "He held a kickoff meeting for the new project."
+  },
+  {
+    "sentence": "彼は同窓会を主催した。",
+    "sentence_furigana": "彼【かれ】は同窓会【どうそうかい】を主催【しゅさい】した。",
+    "meaning": "He sponsored the class reunion."
+  },
+  {
+    "sentence": "彼の主催で、地域交流会が開かれた。",
+    "sentence_furigana": "彼【かれ】の主催【しゅさい】で、地域交流会【ちいき こうりゅうかい】が開【ひら】かれた。",
+    "meaning": "A community exchange meeting was held under his sponsorship."
+  },
+  {
+    "sentence": "彼は新しいビジネスパートナーとの会食を催した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいビジネスパートナーとの会食【かいしょく】を催【もよお】した。",
+    "meaning": "He hosted a dinner with new business partners."
+  },
+  {
+    "sentence": "彼はホームパーティーを催すのが好きです。",
+    "sentence_furigana": "彼【かれ】はホームパーティーを催【もよお】すのが好【す】きです。",
+    "meaning": "He likes to host house parties."
+  },
+  {
+    "sentence": "彼女は友人の結婚祝いのパーティーを催した。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】の結婚祝【けっこんいわ】いのパーティーを催【もよお】した。",
+    "meaning": "She held a party to celebrate her friend's marriage."
+  },
+  {
+    "sentence": "彼は慈善オークションを主催した。",
+    "sentence_furigana": "彼【かれ】は慈善オークション【じぜんオークション】を主催【しゅさい】した。",
+    "meaning": "He sponsored a charity auction."
+  },
+  {
+    "sentence": "彼はその会合を催すことを決定した。",
+    "sentence_furigana": "彼【かれ】はその会合【かいごう】を催【もよお】すことを決定【けってい】した。",
+    "meaning": "He decided to hold that meeting."
+  },
+  {
+    "sentence": "彼は会社の新年会を催す予定です。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の新年会【しんねんかい】を催【もよお】す予定【よてい】です。",
+    "meaning": "He plans to hold the company's New Year's party."
+  },
+  {
+    "sentence": "彼は新しいチームメンバーのための歓迎会を催しました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいチームメンバーのための歓迎会【かんげいかい】を催【もよお】しました。",
+    "meaning": "He held a welcome party for the new team members."
+  },
+  {
+    "sentence": "彼は家族と感謝祭のディナーを催した。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】と感謝祭【かんしゃさい】のディナーを催【もよお】した。",
+    "meaning": "He hosted a Thanksgiving dinner with his family."
+  },
+  {
+    "sentence": "彼は古い友人を招いてディナーパーティーを催した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い友人【ゆうじん】を招【まね】いてディナーパーティーを催【もよお】した。",
+    "meaning": "He hosted a dinner party for his old friends."
+  },
+  {
+    "sentence": "彼は定期的な勉強会を催している。",
+    "sentence_furigana": "彼【かれ】は定期的【ていきてき】な勉強会【べんきょうかい】を催【もよお】している。",
+    "meaning": "He holds regular study sessions."
+  },
+  {
+    "sentence": "彼は卒業生の集まりを催す計画を立てている。",
+    "sentence_furigana": "彼【かれ】は卒業生【そつぎょうせい】の集【あつ】まりを催【もよお】す計画【けいかく】を立【た】てている。",
+    "meaning": "He is planning to hold an alumni gathering."
+  },
+  {
+    "sentence": "彼は親睦を深めるための懇親会を催すことを提案しました。",
+    "sentence_furigana": "彼【かれ】は親睦【しんぼく】を深【ふか】めるための懇親会【こんしんかい】を催【もよお】すことを提案【ていあん】しました。",
+    "meaning": "He proposed holding a social gathering to deepen fellowship."
+  },
+  {
+    "sentence": "彼は新しい事業を祝うためのパーティーを催しました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい事業【じぎょう】を祝【いわ】うためのパーティーを催【もよお】しました。",
+    "meaning": "He held a party to celebrate the new business."
+  },
+  {
+    "sentence": "彼は長年の友人の結婚披露宴を催した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の友人【ゆうじん】の結婚披露宴【けっこんひろうえん】を催【もよお】した。",
+    "meaning": "He hosted a wedding reception for a long-time friend."
+  },
+  {
+    "sentence": "彼は自身の誕生日パーティーを催すことにした。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の誕生日【たんじょうび】パーティーを催【もよお】すことにした。",
+    "meaning": "He decided to hold his own birthday party."
+  },
+  {
+    "sentence": "彼は会社の記念式典を主催した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の記念式典【きねんしきてん】を主催【しゅさい】した。",
+    "meaning": "He sponsored the company's anniversary ceremony."
+  },
+  {
+    "sentence": "彼は地域住民のための交流会を催すことを計画しています。",
+    "sentence_furigana": "彼【かれ】は地域住民【ちいき じゅうみん】のための交流会【こうりゅうかい】を催【もよお】すことを計画【けいかく】しています。",
+    "meaning": "He is planning to hold an exchange meeting for local residents."
+  },
+  {
+    "sentence": "彼は親しい友人たちを集めてカジュアルなディナーを催した。",
+    "sentence_furigana": "彼【かれ】は親【した】しい友人【ゆうじん】たちを集【あつ】めてカジュアルなディナーを催【もよお】した。",
+    "meaning": "He gathered close friends and hosted a casual dinner."
+  },
+  {
+    "sentence": "彼は才能あるアーティストの作品展を催す予定です。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】あるアーティストの作品展【さくひんてん】を催【もよお】す予定【よてい】です。",
+    "meaning": "He plans to hold an exhibition of works by talented artists."
+  },
+  {
+    "sentence": "彼は新しいメンバーを歓迎するためのランチ会を催した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいメンバーを歓迎【かんげい】するためのランチ会【ランチかい】を催【もよお】した。",
+    "meaning": "He held a lunch meeting to welcome new members."
+  },
+  {
+    "sentence": "彼は彼の功績を称えるための記念パーティーを催した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の功績【こうせき】を称【たた】えるための記念パーティーを催【もよお】した。",
+    "meaning": "He held a commemorative party to celebrate his achievements."
+  },
+  {
+    "sentence": "彼はホームパーティーを催すための準備を始めた。",
+    "sentence_furigana": "彼【かれ】はホームパーティーを催【もよお】すための準備【じゅんび】を始【はじ】めた。",
+    "meaning": "He started preparations to hold a house party."
+  },
+  {
+    "sentence": "彼は昇進を祝うために夕食会を催した。",
+    "sentence_furigana": "彼【かれ】は昇進【しょうしん】を祝【いわ】うために夕食会【ゆうしょくかい】を催【もよお】した。",
+    "meaning": "He hosted a dinner party to celebrate his promotion."
+  },
+  {
+    "sentence": "彼は自身の主催で、地域貢献活動を行った。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の主催【しゅさい】で、地域貢献活動【ちいき こうけん かつどう】を行【おこな】った。",
+    "meaning": "He carried out community contribution activities under his own sponsorship."
+  },
+  {
+    "sentence": "彼はクリエイティブな人々のためのネットワーキングイベントを催すことを決めた。",
+    "sentence_furigana": "彼【かれ】はクリエイティブな人々【ひとびと】のためのネットワーキングイベントを催【もよお】すことを決【き】めた。",
+    "meaning": "He decided to hold a networking event for creative people."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトの成功を祝うためのパーティーを催した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトの成功【せいこう】を祝【いわ】うためのパーティーを催【もよお】した。",
+    "meaning": "He held a party to celebrate the success of the new project."
+  },
+  {
+    "sentence": "彼は長年の友人たちを招いて特別なディナーを催した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の友人【ゆうじん】たちを招【まね】いて特別【とくべつ】なディナーを催【もよお】した。",
+    "meaning": "He invited his long-time friends and hosted a special dinner."
+  },
+  {
+    "sentence": "彼は会社の創立記念式典を催すことを決定しました。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の創立記念式典【そうりつ きねんしきてん】を催【もよお】すことを決定【けってい】しました。",
+    "meaning": "He decided to hold the company's anniversary ceremony."
+  },
+  {
+    "sentence": "彼はボランティア活動を主催し、多くの人々が参加した。",
+    "sentence_furigana": "彼【かれ】はボランティア活動【ボランティア かつどう】を主催【しゅさい】し、多【おお】くの人々【ひとびと】が参加【さんか】した。",
+    "meaning": "He sponsored volunteer activities, and many people participated."
+  },
+  {
+    "sentence": "彼は新しい趣味のグループの最初の会合を催した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい趣味【しゅみ】のグループの最初【さいしょ】の会合【かいごう】を催【もよお】した。",
+    "meaning": "He held the first meeting of his new hobby group."
+  },
+  {
+    "sentence": "彼は才能のある若手作家の個展を催すための資金を集めている。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】ある若手作家【わかて さっか】の個展【こてん】を催【もよお】すための資金【しきん】を集【あつ】めている。",
+    "meaning": "He is raising funds to hold a solo exhibition for a talented young writer."
+  },
+  {
+    "sentence": "彼は来週、クライアントとの懇親会を催す予定です。",
+    "sentence_furigana": "彼【かれ】は来週【らいしゅう】、クライアントとの懇親会【こんしんかい】を催【もよお】す予定【よてい】です。",
+    "meaning": "He plans to hold a social gathering with clients next week."
+  },
+  {
+    "sentence": "彼は感謝祭のディナーパーティーを催すことにした。",
+    "sentence_furigana": "彼【かれ】は感謝祭【かんしゃさい】のディナーパーティーを催【もよお】すことにした。",
+    "meaning": "He decided to host a Thanksgiving dinner party."
+  },
+  {
+    "sentence": "彼は自身のスキルを披露するためのワークショップを催しました。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】のスキルを披露【ひろう】するためのワークショップを催【もよお】しました。",
+    "meaning": "He held a workshop to showcase his skills."
+  },
+  {
+    "sentence": "彼は新しいビジネスを成功させるための戦略会議を催した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいビジネスを成功【せいこう】させるための戦略会議【せんりゃく かいぎ】を催【もよお】した。",
+    "meaning": "He held a strategy meeting to make the new business successful."
+  },
+  {
+    "sentence": "彼は長年の目標であった個展を催すことができた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の目標【もくひょう】であった個展【こてん】を催【もよお】すことができた。",
+    "meaning": "He was able to hold a solo exhibition, which had been his long-time goal."
+  },
+  {
+    "sentence": "彼は彼の貢献を称えるための祝賀会を催した。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の貢献【こうけん】を称【たた】えるための祝賀会【しゅくがかい】を催【もよお】した。",
+    "meaning": "He held a celebration to honor his contributions."
+  },
+  {
+    "sentence": "彼は卒業記念パーティーを主催した。",
+    "sentence_furigana": "彼【かれ】は卒業記念パーティー【そつぎょう きねん パーティー】を主催【しゅさい】した。",
+    "meaning": "He sponsored the graduation commemorative party."
+  }
+]

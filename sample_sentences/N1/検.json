@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "この問題は詳細な検討が必要です。",
+    "sentence_furigana": "この問題【もんだい】は詳細【しょうさい】な検討【けんとう】が必要です【ひつよう】。",
+    "meaning": "This problem requires detailed examination."
+  },
+  {
+    "sentence": "健康診断の結果を待ち望んでいます。",
+    "sentence_furigana": "健康診断【けんこうしんだん】の結果【けっか】を待ち望【まちのぞ】んでいます。",
+    "meaning": "I am eagerly awaiting the results of the health examination."
+  },
+  {
+    "sentence": "彼は警察の捜査を受けている。",
+    "sentence_furigana": "彼【かれ】は警察【けいさつ】の捜査【そうさ】を受【う】けている。",
+    "meaning": "He is under police investigation."
+  },
+  {
+    "sentence": "会議で案件の検査が行われた。",
+    "sentence_furigana": "会議【かいぎ】で案件【あんけん】の検査【けんさ】が行【おこな】われた。",
+    "meaning": "The inspection of the case was carried out at the meeting."
+  },
+  {
+    "sentence": "最新の技術を検証する。",
+    "sentence_furigana": "最新【さいしん】の技術【ぎじゅつ】を検証【けんしょう】する。",
+    "meaning": "To verify the latest technology."
+  },
+  {
+    "sentence": "彼は検査官として働いている。",
+    "sentence_furigana": "彼【かれ】は検査官【けんさかん】として働【はたら】いている。",
+    "meaning": "He works as an inspector."
+  },
+  {
+    "sentence": "この書類には専門家の検閲が必要だ。",
+    "sentence_furigana": "この書類【しょるい】には専門家【せんもんか】の検閲【けんえつ】が必要だ【ひつよう】。",
+    "meaning": "This document requires expert censorship."
+  },
+  {
+    "sentence": "選挙の公正さを確保するために、厳格な検査を行う。",
+    "sentence_furigana": "選挙【せんきょ】の公正【こうせい】さを確保【かくほ】するために、厳格【げんかく】な検査【けんさ】を行【おこな】う。",
+    "meaning": "To ensure the fairness of the election, a strict inspection will be conducted."
+  },
+  {
+    "sentence": "事故の原因を調査する。",
+    "sentence_furigana": "事故【じこ】の原因【げんいん】を調査【ちょうさ】する。",
+    "meaning": "To investigate the cause of the accident."
+  },
+  {
+    "sentence": "品質検査は合格した。",
+    "sentence_furigana": "品質検査【ひんしつけんさ】は合格【ごうかく】した。",
+    "meaning": "The quality inspection passed."
+  },
+  {
+    "sentence": "環境検査の結果は良好だった。",
+    "sentence_furigana": "環境検査【かんきょうけんさ】の結果【けっか】は良好【りょうこう】だった。",
+    "meaning": "The environmental inspection results were good."
+  },
+  {
+    "sentence": "新しい薬の臨床試験が開始された。",
+    "sentence_furigana": "新【あら】しい薬【くすり】の臨床試験【りんしょうしけん】が開始【かいし】された。",
+    "meaning": "Clinical trials for the new drug have started."
+  },
+  {
+    "sentence": "彼はその件について詳しく調べた。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について詳【くわ】しく調【しら】べた。",
+    "meaning": "He investigated the matter in detail."
+  },
+  {
+    "sentence": "このシステムは安全性の検討が必要だ。",
+    "sentence_furigana": "このシステムは安全【あんぜん】性の検討【けんとう】が必要だ【ひつよう】。",
+    "meaning": "This system requires an examination of its safety."
+  },
+  {
+    "sentence": "火災の原因を検査中だ。",
+    "sentence_furigana": "火災【かさい】の原因【げんいん】を検査中【けんさちゅう】だ。",
+    "meaning": "The cause of the fire is under inspection."
+  },
+  {
+    "sentence": "政府は国民の意見を検討している。",
+    "sentence_furigana": "政府【せいふ】は国民【こくみん】の意見【いけん】を検討【けんとう】している。",
+    "meaning": "The government is considering the opinions of the people."
+  },
+  {
+    "sentence": "彼は専門的な検査を行った。",
+    "sentence_furigana": "彼【かれ】は専門的【せんもんてき】な検査【けんさ】を行【おこな】った。",
+    "meaning": "He conducted a specialized examination."
+  },
+  {
+    "sentence": "この地域では定期的な検査が行われる。",
+    "sentence_furigana": "この地域【ちいき】では定期的【ていきてき】な検査【けんさ】が行【おこな】われる。",
+    "meaning": "Regular inspections are carried out in this area."
+  },
+  {
+    "sentence": "犯罪捜査はまだ続いている。",
+    "sentence_furigana": "犯罪捜査【はんざいそうさ】はまだ続【つづ】いている。",
+    "meaning": "The criminal investigation is still ongoing."
+  },
+  {
+    "sentence": "新しい法律の施行前に検討が必要だ。",
+    "sentence_furigana": "新【あら】しい法律【ほうりつ】の施行【しこう】前【まえ】に検討【けんとう】が必要だ【ひつよう】。",
+    "meaning": "Consideration is needed before the enforcement of the new law."
+  },
+  {
+    "sentence": "医療検査を受ける必要がある。",
+    "sentence_furigana": "医療検査【いりょうけんさ】を受【う】ける必要【ひつよう】がある。",
+    "meaning": "It is necessary to undergo medical examination."
+  },
+  {
+    "sentence": "この件は詳細に調査すべきだ。",
+    "sentence_furigana": "この件【けん】は詳細【しょうさい】に調査【ちょうさ】すべきだ。",
+    "meaning": "This matter should be investigated in detail."
+  },
+  {
+    "sentence": "彼はその情報源を調べている。",
+    "sentence_furigana": "彼【かれ】はその情報源【じょうほうげん】を調【しら】べている。",
+    "meaning": "He is investigating the source of that information."
+  },
+  {
+    "sentence": "設備の定期点検を実施する。",
+    "sentence_furigana": "設備【せつび】の定期的点検【ていきてきてんけん】を実施【じっし】する。",
+    "meaning": "To implement regular equipment inspection."
+  },
+  {
+    "sentence": "彼らの行動を検査した結果、異常はなかった。",
+    "sentence_furigana": "彼ら【かれら】の行動【こうどう】を検査【けんさ】した結果【けっか】、異常【いじょう】はなかった。",
+    "meaning": "As a result of inspecting their actions, there were no abnormalities."
+  },
+  {
+    "sentence": "この提案を検討する価値がある。",
+    "sentence_furigana": "この提案【ていあん】を検討【けんとう】する価値【かち】がある。",
+    "meaning": "This proposal is worth considering."
+  },
+  {
+    "sentence": "犯罪現場の検分が行われた。",
+    "sentence_furigana": "犯罪現場【はんざいげんば】の検分【けんぶん】が行【おこな】われた。",
+    "meaning": "An inspection of the crime scene was conducted."
+  },
+  {
+    "sentence": "私は医師の診察を受けた。",
+    "sentence_furigana": "私【わたし】は医師【いし】の診察【しんさつ】を受【う】けた。",
+    "meaning": "I received a medical examination from a doctor."
+  },
+  {
+    "sentence": "彼はすべての可能性を検討した。",
+    "sentence_furigana": "彼【かれ】はすべての日能性【すべてのかのうせい】を検討【けんとう】した。",
+    "meaning": "He considered all possibilities."
+  },
+  {
+    "sentence": "この検査は非常に重要です。",
+    "sentence_furigana": "この検査【けんさ】は非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "This examination is very important."
+  },
+  {
+    "sentence": "彼はその事件の真相を調査している。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の真相【しんそう】を調査【ちょうさ】している。",
+    "meaning": "He is investigating the truth of the incident."
+  },
+  {
+    "sentence": "工場では厳格な品質管理が行われている。",
+    "sentence_furigana": "工場【こうじょう】では厳格【げんかく】な品質管理【ひんしつかんり】が行【おこな】われている。",
+    "meaning": "Strict quality control is carried out in the factory."
+  },
+  {
+    "sentence": "この申請は検討段階にある。",
+    "sentence_furigana": "この申請【しんせい】は検討段階【けんとうだんかい】にある。",
+    "meaning": "This application is under consideration."
+  },
+  {
+    "sentence": "彼は医者の検査を受けなければならない。",
+    "sentence_furigana": "彼【かれ】は医者【いしゃ】の検査【けんさ】を受【う】けなければならない。",
+    "meaning": "He must undergo a doctor's examination."
+  },
+  {
+    "sentence": "事故の原因究明を進める。",
+    "sentence_furigana": "事故【じこ】の原因究明【げんいんきゅうめい】を進【すす】める。",
+    "meaning": "To proceed with the investigation into the cause of the accident."
+  },
+  {
+    "sentence": "その提案について検討する。",
+    "sentence_furigana": "その提案【ていあん】について検討【けんとう】する。",
+    "meaning": "To consider the proposal."
+  },
+  {
+    "sentence": "彼は検査結果を詳しく分析した。",
+    "sentence_furigana": "彼【かれ】は検査結果【けんさけっか】を詳【くわ】しく分析【ぶんせき】した。",
+    "meaning": "He analyzed the test results in detail."
+  },
+  {
+    "sentence": "この新しい治療法を検討したい。",
+    "sentence_furigana": "この新【あら】しい治療法【ちりょうほう】を検討【けんとう】したい。",
+    "meaning": "I want to consider this new treatment method."
+  },
+  {
+    "sentence": "検疫所での検査は厳しかった。",
+    "sentence_furigana": "検疫所【けんえきじょ】での検査【けんさ】は厳【きび】しかった。",
+    "meaning": "The examination at the quarantine station was strict."
+  },
+  {
+    "sentence": "彼は犯罪の証拠を調査している。",
+    "sentence_furigana": "彼【かれ】は犯罪【はんざい】の証拠【しょうこ】を調査【ちょうさ】している。",
+    "meaning": "He is investigating the evidence of the crime."
+  },
+  {
+    "sentence": "この設計は綿密な検討を経ている。",
+    "sentence_furigana": "この設計【せっけい】は綿密【めんみつ】な検討【けんとう】を経【へ】ている。",
+    "meaning": "This design has undergone meticulous consideration."
+  },
+  {
+    "sentence": "検視官が現場を調査した。",
+    "sentence_furigana": "検視官【けんしかん】が現場【げんば】を調査【ちょうさ】した。",
+    "meaning": "The coroner investigated the scene."
+  },
+  {
+    "sentence": "彼は健康診断の予約をした。",
+    "sentence_furigana": "彼【かれ】は健康診断【けんこうしんだん】の予約【よやく】をした。",
+    "meaning": "He made an appointment for a health check-up."
+  },
+  {
+    "sentence": "その件は再度検討する必要がある。",
+    "sentence_furigana": "その件【けん】は再度検討【さいどけんとう】する必要【ひつよう】がある。",
+    "meaning": "That matter needs to be reconsidered."
+  },
+  {
+    "sentence": "彼は裁判での証拠を検証した。",
+    "sentence_furigana": "彼【かれ】は裁判【さいばん】での証拠【しょうこ】を検証【けんしょう】した。",
+    "meaning": "He verified the evidence in court."
+  },
+  {
+    "sentence": "この薬は厳格な検査を通過した。",
+    "sentence_furigana": "この薬【くすり】は厳格【げんかく】な検査【けんさ】を通過【つうか】した。",
+    "meaning": "This medicine passed strict inspection."
+  },
+  {
+    "sentence": "彼は調査報告書を作成している。",
+    "sentence_furigana": "彼【かれ】は調査報告書【ちょうさほうこくしょ】を作成【さくせい】している。",
+    "meaning": "He is preparing the investigation report."
+  },
+  {
+    "sentence": "この新しい計画を検討しましょう。",
+    "sentence_furigana": "この新【あら】しい計画【けいかく】を検討【けんとう】しましょう。",
+    "meaning": "Let's consider this new plan."
+  },
+  {
+    "sentence": "彼は会社の監査を行った。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の監査【かんさ】を行【おこな】った。",
+    "meaning": "He conducted a company audit."
+  },
+  {
+    "sentence": "このデータの正確性を検査する必要がある。",
+    "sentence_furigana": "このデータ【データ】の正確性【せいかくせい】を検査【けんさ】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to examine the accuracy of this data."
+  },
+  {
+    "sentence": "彼は事件の詳細を調べた。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の詳細【しょうさい】を調【しら】べた。",
+    "meaning": "He investigated the details of the incident."
+  },
+  {
+    "sentence": "この製品は厳密な検査を受ける。",
+    "sentence_furigana": "この製品【せいひん】は厳密【げんみつ】な検査【けんさ】を受【う】ける。",
+    "meaning": "This product undergoes strict inspection."
+  },
+  {
+    "sentence": "彼は秘密の調査を進めている。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】の調査【ちょうさ】を進【すす】めている。",
+    "meaning": "He is proceeding with a secret investigation."
+  },
+  {
+    "sentence": "この論文は専門家による検討が必要だ。",
+    "sentence_furigana": "この論文【ろんぶん】は専門家【せんもんか】による検討【けんとう】が必要だ【ひつよう】。",
+    "meaning": "This paper requires examination by an expert."
+  },
+  {
+    "sentence": "彼は法廷で証拠を検証している。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】で証拠【しょうこ】を検証【けんしょう】している。",
+    "meaning": "He is verifying the evidence in court."
+  },
+  {
+    "sentence": "健康診断の結果は異常なしでした。",
+    "sentence_furigana": "健康診断【けんこうしんだん】の結果【けっか】は異常【いじょう】なしでした。",
+    "meaning": "The results of the health examination showed no abnormalities."
+  },
+  {
+    "sentence": "このシステムは定期的な検査が必要です。",
+    "sentence_furigana": "このシステム【システム】は定期的【ていきてき】な検査【けんさ】が必要です【ひつよう】。",
+    "meaning": "This system requires regular inspection."
+  },
+  {
+    "sentence": "彼はその企業の不正を調査した。",
+    "sentence_furigana": "彼【かれ】はその企業【きぎょう】の不正【ふせい】を調査【ちょうさ】した。",
+    "meaning": "He investigated the irregularities of the company."
+  },
+  {
+    "sentence": "この設計図を検討してください。",
+    "sentence_furigana": "この設計図【せっけいず】を検討【けんとう】してください。",
+    "meaning": "Please examine this design drawing."
+  },
+  {
+    "sentence": "彼は検査官の質問に答えた。",
+    "sentence_furigana": "彼【かれ】は検査官【けんさかん】の質問【しつもん】に答【こた】えた。",
+    "meaning": "He answered the inspector's questions."
+  },
+  {
+    "sentence": "この計画の実現可能性を検討する。",
+    "sentence_furigana": "この計画【けいかく】の実現可能性【じつげんかのうせい】を検討【けんとう】する。",
+    "meaning": "To consider the feasibility of this plan."
+  },
+  {
+    "sentence": "彼は事故の原因を究明しようとしている。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】の原因【げんいん】を究明【きゅうめい】しようとしている。",
+    "meaning": "He is trying to investigate the cause of the accident."
+  },
+  {
+    "sentence": "そのニュースは検証されていない。",
+    "sentence_furigana": "そのニュース【ニュース】は検証【けんしょう】されていない。",
+    "meaning": "That news has not been verified."
+  },
+  {
+    "sentence": "彼は詳細な検査記録を保管している。",
+    "sentence_furigana": "彼【かれ】は詳細【しょうさい】な検査記録【けんさきろく】を保管【ほかん】している。",
+    "meaning": "He keeps detailed inspection records."
+  },
+  {
+    "sentence": "この案件は慎重な検討を要する。",
+    "sentence_furigana": "この案件【あんけん】は慎重【しんちょう】な検討【けんとう】を要【よう】する。",
+    "meaning": "This case requires careful consideration."
+  },
+  {
+    "sentence": "彼は新しい検査機器を導入した。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい検査機器【けんさきき】を導入【どうにゅう】した。",
+    "meaning": "He introduced new inspection equipment."
+  },
+  {
+    "sentence": "この方法は科学的に検証されている。",
+    "sentence_furigana": "この方法【ほうほう】は科学的【かがくてき】に検証【けんしょう】されている。",
+    "meaning": "This method has been scientifically verified."
+  },
+  {
+    "sentence": "彼は不正行為の調査を担当している。",
+    "sentence_furigana": "彼【かれ】は不正行為【ふせいこうい】の調査【ちょうさ】を担当【たんとう】している。",
+    "meaning": "He is in charge of investigating the fraudulent act."
+  },
+  {
+    "sentence": "この提案は再検討されるべきだ。",
+    "sentence_furigana": "この提案【ていあん】は再検討【さいけんとう】されるべきだ。",
+    "meaning": "This proposal should be reconsidered."
+  },
+  {
+    "sentence": "彼は厳格な検査官の指示に従った。",
+    "sentence_furigana": "彼【かれ】は厳格【げんかく】な検査官【けんさかん】の指示【しじ】に従【したが】った。",
+    "meaning": "He followed the strict inspector's instructions."
+  },
+  {
+    "sentence": "この論文は査読者の検討を待っている。",
+    "sentence_furigana": "この論文【ろんぶん】は査読者【さどくしゃ】の検討【けんとう】を待【ま】っている。",
+    "meaning": "This paper is awaiting review by a peer reviewer."
+  },
+  {
+    "sentence": "彼は犯罪捜査の専門家だ。",
+    "sentence_furigana": "彼【かれ】は犯罪捜査【はんざいそうさ】の専門家【せんもんか】だ。",
+    "meaning": "He is an expert in criminal investigation."
+  },
+  {
+    "sentence": "この新しいシステムは徹底的な検査が必要だ。",
+    "sentence_furigana": "この新【あら】しいシステム【システム】は徹底的【てっていてき】な検査【けんさ】が必要だ【ひつよう】。",
+    "meaning": "This new system requires thorough inspection."
+  },
+  {
+    "sentence": "彼は会社の財務状況を精査している。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の財務状況【ざいぎゅじょうきょう】を精査【せいさ】している。",
+    "meaning": "He is scrutinizing the company's financial situation."
+  },
+  {
+    "sentence": "この調査はまだ完了していない。",
+    "sentence_furigana": "この調査【ちょうさ】はまだ完了【かんりょう】していない。",
+    "meaning": "This investigation is not yet complete."
+  },
+  {
+    "sentence": "彼は検査のために空港で足止めされた。",
+    "sentence_furigana": "彼【かれ】は検査【けんさ】のため空港【くうこう】で足止【あしど】めされた。",
+    "meaning": "He was detained at the airport for inspection."
+  },
+  {
+    "sentence": "この提案は十分に検討された。",
+    "sentence_furigana": "この提案【ていあん】は十分【じゅうぶん】に検討【けんとう】された。",
+    "meaning": "This proposal has been sufficiently considered."
+  },
+  {
+    "sentence": "彼は科学的な検証方法を学んだ。",
+    "sentence_furigana": "彼【かれ】は科学的【かがくてき】な検証方法【けんしょうほうほう】を学【まな】んだ。",
+    "meaning": "He learned scientific verification methods."
+  },
+  {
+    "sentence": "この事件の徹底的な調査が行われる。",
+    "sentence_furigana": "この事件【じけん】の徹底的【てっていてき】な調査【ちょうさ】が行【おこな】われる。",
+    "meaning": "A thorough investigation of this incident will be conducted."
+  },
+  {
+    "sentence": "彼は健康診断の結果を待っている。",
+    "sentence_furigana": "彼【かれ】は健康診断【けんこうしんだん】の結果【けっか】を待【ま】っている。",
+    "meaning": "He is waiting for the results of his health examination."
+  },
+  {
+    "sentence": "この企画は多くの検討を必要とする。",
+    "sentence_furigana": "この企画【きかく】は多【おお】くの検討【けんとう】を必要【ひつよう】とする。",
+    "meaning": "This project requires much consideration."
+  },
+  {
+    "sentence": "彼は過去の事件を調査している。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の事件【じけん】を調査【ちょうさ】している。",
+    "meaning": "He is investigating past incidents."
+  },
+  {
+    "sentence": "この新しい法律は綿密な検討を経て制定された。",
+    "sentence_furigana": "この新【あら】しい法律【ほうりつ】は綿密【めんみつ】な検討【けんとう】を経【へ】て制定【せいてい】された。",
+    "meaning": "This new law was enacted after thorough consideration."
+  },
+  {
+    "sentence": "彼は検査の結果に満足していた。",
+    "sentence_furigana": "彼【かれ】は検査【けんさ】の結果【けっか】に満足【まんぞく】していた。",
+    "meaning": "He was satisfied with the results of the examination."
+  },
+  {
+    "sentence": "この問題は慎重に検討すべきだ。",
+    "sentence_furigana": "この問題【もんだい】は慎重【しんちょう】に検討【けんとう】すべきだ。",
+    "meaning": "This problem should be carefully considered."
+  },
+  {
+    "sentence": "彼は犯罪の証拠隠滅を調査している。",
+    "sentence_furigana": "彼【かれ】は犯罪【はんざい】の証拠隠滅【しょうこいんめつ】を調査【ちょうさ】している。",
+    "meaning": "He is investigating the destruction of evidence of the crime."
+  },
+  {
+    "sentence": "この報告書は詳細な検討を要する。",
+    "sentence_furigana": "この報告書【ほうこくしょ】は詳細【しょうさい】な検討【けんとう】を要【よう】する。",
+    "meaning": "This report requires detailed consideration."
+  },
+  {
+    "sentence": "彼は検査官の指示に従い、作業を進めた。",
+    "sentence_furigana": "彼【かれ】は検査官【けんさかん】の指示【しじ】に従【したが】い、作業【さぎょう】を進【すす】めた。",
+    "meaning": "He proceeded with the work according to the inspector's instructions."
+  },
+  {
+    "sentence": "この新しい技術の検証が必要だ。",
+    "sentence_furigana": "この新【あら】しい技術【ぎじゅつ】の検証【けんしょう】が必要だ【ひつよう】。",
+    "meaning": "Verification of this new technology is necessary."
+  },
+  {
+    "sentence": "彼はその事件の真相究明に努めている。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】の真相究明【しんそうきゅうめい】に努【つと】めている。",
+    "meaning": "He is striving to uncover the truth of the incident."
+  },
+  {
+    "sentence": "この薬品は厳格な品質検査を通過しなければならない。",
+    "sentence_furigana": "この薬品【やくひん】は厳格【げんかく】な品質検査【ひんしつけんさ】を通過【つうか】しなければならない。",
+    "meaning": "This medicine must pass strict quality inspection."
+  },
+  {
+    "sentence": "彼は事件の検証結果を報告した。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の検証結果【けんしょうけっか】を報告【ほうこく】した。",
+    "meaning": "He reported the results of the incident verification."
+  },
+  {
+    "sentence": "この提案は再検討される予定だ。",
+    "sentence_furigana": "この提案【ていあん】は再検討【さいけんとう】される予定【よてい】だ。",
+    "meaning": "This proposal is scheduled for reconsideration."
+  },
+  {
+    "sentence": "彼は証拠品を詳しく調査した。",
+    "sentence_furigana": "彼【かれ】は証拠品【しょうこひん】を詳【くわ】しく調査【ちょうさ】した。",
+    "meaning": "He investigated the evidence in detail."
+  }
+]

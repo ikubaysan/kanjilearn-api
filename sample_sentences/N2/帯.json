@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼女は着物に合う帯を選んだ。",
+    "sentence_furigana": "彼女【かのじょ】は着物【きもの】に合【あ】う帯【おび】を選【えら】んだ。",
+    "meaning": "She chose an obi that matched her kimono."
+  },
+  {
+    "sentence": "ベルトはズボンを固定するために使用されます。",
+    "sentence_furigana": "ベルトはズボンを固定【こてい】するために使用【しよう】されます。",
+    "meaning": "A belt is used to secure trousers."
+  },
+  {
+    "sentence": "彼は帯状の傷を負った。",
+    "sentence_furigana": "彼【かれ】は帯状【おびじょう】の傷【きず】を負【お】った。",
+    "meaning": "He suffered a band-like wound."
+  },
+  {
+    "sentence": "この地域は人口が多い。",
+    "sentence_furigana": "この地域【ちいき】は人口【じんこう】が多【おお】い。",
+    "meaning": "This region has a large population."
+  },
+  {
+    "sentence": "彼は背中に帯を巻いていた。",
+    "sentence_furigana": "彼【かれ】は背中【せなか】に帯【おび】を巻【ま】いていた。",
+    "meaning": "He had a sash wrapped around his back."
+  },
+  {
+    "sentence": "この帯は非常に柔らかい。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に柔【やわ】らかい。",
+    "meaning": "This belt is very soft."
+  },
+  {
+    "sentence": "彼は空手の黒帯を持っている。",
+    "sentence_furigana": "彼【かれ】は空手【からて】の黒帯【くろおび】を持【も】っている。",
+    "meaning": "He holds a black belt in karate."
+  },
+  {
+    "sentence": "このエリアは商業地帯です。",
+    "sentence_furigana": "このエリアは商業地帯【しょうぎょうちたい】です。",
+    "meaning": "This area is a commercial zone."
+  },
+  {
+    "sentence": "彼女はドレスに豪華な帯を締めた。",
+    "sentence_furigana": "彼女【かのじょ】はドレスに豪華【ごうか】な帯【おび】を締【し】めた。",
+    "meaning": "She fastened a luxurious sash to her dress."
+  },
+  {
+    "sentence": "彼はズボンが落ちないように帯を締めた。",
+    "sentence_furigana": "彼【かれ】はズボンが落【お】ちないように帯【おび】を締【し】めた。",
+    "meaning": "He tightened his belt so his pants wouldn't fall."
+  },
+  {
+    "sentence": "この帯は簡単に緩む。",
+    "sentence_furigana": "この帯【おび】は簡単【かんたん】に緩【ゆる】む。",
+    "meaning": "This belt loosens easily."
+  },
+  {
+    "sentence": "彼女は美しい帯の着物を着ていた。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい帯【おび】の着物【きもの】を着【き】ていた。",
+    "meaning": "She wore a kimono with a beautiful obi."
+  },
+  {
+    "sentence": "この地域は非常に発展している。",
+    "sentence_furigana": "この地域【ちいき】は非常【ひじょう】に発展【はってん】している。",
+    "meaning": "This region is highly developed."
+  },
+  {
+    "sentence": "彼は帯状疱疹を患っている。",
+    "sentence_furigana": "彼【かれ】は帯状疱疹【たいじょうほうしん】を患【わずら】っている。",
+    "meaning": "He is suffering from shingles."
+  },
+  {
+    "sentence": "その帯は絹でできていた。",
+    "sentence_furigana": "その帯【おび】は絹【きぬ】でできていた。",
+    "meaning": "The obi was made of silk."
+  },
+  {
+    "sentence": "彼は服の上から帯を締めた。",
+    "sentence_furigana": "彼【かれ】は服【ふく】の上【うえ】から帯【おび】を締【し】めた。",
+    "meaning": "He wore the sash over his clothes."
+  },
+  {
+    "sentence": "このゾーンは住宅地として指定されている。",
+    "sentence_furigana": "このゾーンは住宅地【じゅうたくち】として指定【してい】されている。",
+    "meaning": "This zone is designated as a residential area."
+  },
+  {
+    "sentence": "彼女は帯をしっかりと結んだ。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】をしっかりとに結【むす】んだ。",
+    "meaning": "She tied the sash tightly."
+  },
+  {
+    "sentence": "彼はベルトを緩めた。",
+    "sentence_furigana": "彼【かれ】はベルトを緩【ゆる】めた。",
+    "meaning": "He loosened his belt."
+  },
+  {
+    "sentence": "この地域は観光客に人気がある。",
+    "sentence_furigana": "この地域【ちいき】は観光客【かんこうきゃく】に人気【にんき】がある。",
+    "meaning": "This region is popular with tourists."
+  },
+  {
+    "sentence": "彼女は古い帯を収集している。",
+    "sentence_furigana": "彼女【かのじょ】は古【ふる】い帯【おび】を収集【しゅうしゅう】している。",
+    "meaning": "She collects antique obi."
+  },
+  {
+    "sentence": "この帯は非常に耐久性がある。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に耐久性【たいきゅうせい】がある。",
+    "meaning": "This belt is very durable."
+  },
+  {
+    "sentence": "彼は帯職人になった。",
+    "sentence_furigana": "彼【かれ】は帯職人【おびしょくにん】になった。",
+    "meaning": "He became a sash craftsman."
+  },
+  {
+    "sentence": "その地域は温暖な気候で知られている。",
+    "sentence_furigana": "その地域【ちいき】は温暖【おんだん】な気候【きこう】で知【し】られている。",
+    "meaning": "The region is known for its warm climate."
+  },
+  {
+    "sentence": "彼女は帯の柄を気に入った。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の柄【がら】を気に入った。",
+    "meaning": "She liked the pattern of the obi."
+  },
+  {
+    "sentence": "この帯は簡単に調整できる。",
+    "sentence_furigana": "この帯【おび】は簡単【かんたん】に調整【ちょうせい】できる。",
+    "meaning": "This belt can be easily adjusted."
+  },
+  {
+    "sentence": "彼は帯刀することを許可された。",
+    "sentence_furigana": "彼【かれ】は帯刀【たいとう】することを許可【きょか】された。",
+    "meaning": "He was permitted to wear a sword."
+  },
+  {
+    "sentence": "このエリアは緑地帯だ。",
+    "sentence_furigana": "このエリアは緑地帯【りょくちたい】だ。",
+    "meaning": "This area is a green belt."
+  },
+  {
+    "sentence": "彼女は新しい帯を注文した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい帯【おび】を注文【ちゅうもん】した。",
+    "meaning": "She ordered a new obi."
+  },
+  {
+    "sentence": "彼はズボンがずれないようにベルトをした。",
+    "sentence_furigana": "彼【かれ】はズボンがずれないようにベルトをした。",
+    "meaning": "He wore a belt to keep his pants from slipping."
+  },
+  {
+    "sentence": "この地域は豊かな自然に恵まれている。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然【しぜん】に恵【めぐ】まれている。",
+    "meaning": "This region is blessed with abundant nature."
+  },
+  {
+    "sentence": "彼女は帯の結び方を習った。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の結【むす】び方【かた】を習【なら】った。",
+    "meaning": "She learned how to tie an obi."
+  },
+  {
+    "sentence": "この帯は非常に丈夫だ。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に丈夫【じょうぶ】だ。",
+    "meaning": "This belt is very strong."
+  },
+  {
+    "sentence": "彼は戦闘で帯刀していた。",
+    "sentence_furigana": "彼【かれ】は戦闘【せんとう】で帯刀【たいとう】していた。",
+    "meaning": "He wore a sword in battle."
+  },
+  {
+    "sentence": "このゾーンは騒音規制区域です。",
+    "sentence_furigana": "このゾーンは騒音規制区域【そうおんきせいくいき】です。",
+    "meaning": "This zone is a noise control area."
+  },
+  {
+    "sentence": "彼女は帯留めがおしゃれだ。",
+    "sentence_furigana": "彼女【かのじょ】は帯留【おびど】めがおしゃれだ。",
+    "meaning": "Her obi clasp is stylish."
+  },
+  {
+    "sentence": "彼は帯をプレゼントされた。",
+    "sentence_furigana": "彼【かれ】は帯【おび】をプレゼントされた。",
+    "meaning": "He was given a sash as a gift."
+  },
+  {
+    "sentence": "この地域は歴史的な建造物が多い。",
+    "sentence_furigana": "この地域【ちいき】は歴史的【れきしてき】な建造物【けんぞうぶつ】が多【おお】い。",
+    "meaning": "This region has many historical buildings."
+  },
+  {
+    "sentence": "彼女は帯締めを選んだ。",
+    "sentence_furigana": "彼女【かのじょ】は帯締【おびし】めを選【えら】んだ。",
+    "meaning": "She chose an obi cord."
+  },
+  {
+    "sentence": "彼は幅広の帯を締めている。",
+    "sentence_furigana": "彼【かれ】は幅広【はばひろ】の帯【おび】を締【し】めている。",
+    "meaning": "He is wearing a wide belt."
+  },
+  {
+    "sentence": "この帯は洗濯機で洗えますか？",
+    "sentence_furigana": "この帯【おび】は洗濯機【せんたくき】で洗【あら】えますか？",
+    "meaning": "Can this obi be washed in a washing machine?"
+  },
+  {
+    "sentence": "彼は帯揚げをするのが得意だ。",
+    "sentence_furigana": "彼【かれ】は帯揚【おびあ】げをするのが得意【とくい】だ。",
+    "meaning": "He is good at tying the obi-age."
+  },
+  {
+    "sentence": "この地域は農業が盛んです。",
+    "sentence_furigana": "この地域【ちいき】は農業【のうぎょう】が盛【さか】んです。",
+    "meaning": "Agriculture is prosperous in this region."
+  },
+  {
+    "sentence": "彼女は帯の後ろで結びました。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の後ろ【うしろ】で結【むす】びました。",
+    "meaning": "She tied the obi at the back."
+  },
+  {
+    "sentence": "この帯は調節可能です。",
+    "sentence_furigana": "この帯【おび】は調節【ちょうせつ】可能【かのう】です。",
+    "meaning": "This belt is adjustable."
+  },
+  {
+    "sentence": "彼は新しい帯を購入した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい帯【おび】を購【こう】入【にゅう】した。",
+    "meaning": "He bought a new obi."
+  },
+  {
+    "sentence": "この地域は寒冷な気候です。",
+    "sentence_furigana": "この地域【ちいき】は寒冷【かんれい】な気候【きこう】です。",
+    "meaning": "This region has a cold climate."
+  },
+  {
+    "sentence": "彼女は帯の模様に魅了された。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の模様【もよう】に魅了【みりょう】された。",
+    "meaning": "She was fascinated by the obi's pattern."
+  },
+  {
+    "sentence": "彼は帯を締めるのに苦労していた。",
+    "sentence_furigana": "彼【かれ】は帯【おび】を締【し】めるのに苦労【くろう】していた。",
+    "meaning": "He struggled to fasten the belt."
+  },
+  {
+    "sentence": "この帯は高品質の素材で作られています。",
+    "sentence_furigana": "この帯【おび】は高品質【こうひんしつ】の素材【そざい】でできています。",
+    "meaning": "This obi is made of high-quality material."
+  },
+  {
+    "sentence": "彼は帯の伝統的なスタイルを好む。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の伝統的【でんとうてき】なスタイルを好【この】む。",
+    "meaning": "He prefers traditional obi styles."
+  },
+  {
+    "sentence": "この地域は森林が多い。",
+    "sentence_furigana": "この地域【ちいき】は森林【しんりん】が多【おお】い。",
+    "meaning": "This region has many forests."
+  },
+  {
+    "sentence": "彼女は帯留めをなくした。",
+    "sentence_furigana": "彼女【かのじょ】は帯留【おびど】めをなくした。",
+    "meaning": "She lost her obi clasp."
+  },
+  {
+    "sentence": "彼は帯をプレゼントとして贈った。",
+    "sentence_furigana": "彼【かれ】は帯【おび】をプレゼントとして贈【おく】った。",
+    "meaning": "He presented a sash as a gift."
+  },
+  {
+    "sentence": "この帯は非常に個性的だ。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に個性的【こせいてき】だ。",
+    "meaning": "This obi is very distinctive."
+  },
+  {
+    "sentence": "彼は帯の結び方をマスターした。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の結【むす】び方【かた】をマスターした。",
+    "meaning": "He mastered how to tie the obi."
+  },
+  {
+    "sentence": "この地域は海岸線が長い。",
+    "sentence_furigana": "この地域【ちいき】は海岸線【かいがんせん】が長【なが】い。",
+    "meaning": "This region has a long coastline."
+  },
+  {
+    "sentence": "彼女は帯の結び方を工夫した。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の結【むす】び方【かた】を工夫【くふう】した。",
+    "meaning": "She devised a new way to tie the obi."
+  },
+  {
+    "sentence": "彼は幅の狭い帯を選んだ。",
+    "sentence_furigana": "彼【かれ】は幅狭【はばせま】の帯【おび】を選【えら】んだ。",
+    "meaning": "He chose a narrow belt."
+  },
+  {
+    "sentence": "この帯は非常にエレガントだ。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】にエレガントだ。",
+    "meaning": "This obi is very elegant."
+  },
+  {
+    "sentence": "彼は帯の修理を依頼した。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の修理【しゅうり】を依頼【いらい】した。",
+    "meaning": "He requested repairs for the obi."
+  },
+  {
+    "sentence": "この地域は鉱物資源が豊富です。",
+    "sentence_furigana": "この地域【ちいき】は鉱物資源【こうぶつしげん】が豊富【ほうふ】です。",
+    "meaning": "This region is rich in mineral resources."
+  },
+  {
+    "sentence": "彼女は帯の合わせ方を学んだ。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の合【あ】わせ方【かた】を学【まな】んだ。",
+    "meaning": "She learned how to coordinate the obi."
+  },
+  {
+    "sentence": "彼は帯をしっかりと締めた。",
+    "sentence_furigana": "彼【かれ】は帯【おび】をしっかりとに締【し】めた。",
+    "meaning": "He fastened the belt securely."
+  },
+  {
+    "sentence": "この帯は非常に用途が広い。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に用途【ようと】が広【ひろ】い。",
+    "meaning": "This obi is very versatile."
+  },
+  {
+    "sentence": "彼は新しい帯を買った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい帯【おび】を買【か】った。",
+    "meaning": "He bought a new belt."
+  },
+  {
+    "sentence": "この地域は風光明媚だ。",
+    "sentence_furigana": "この地域【ちいき】は風光明媚【ふうこうめいび】だ。",
+    "meaning": "This region is scenic."
+  },
+  {
+    "sentence": "彼女は帯のコーディネートに悩んでいた。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】のコーディネートに悩【なや】んでいた。",
+    "meaning": "She was worried about coordinating the obi."
+  },
+  {
+    "sentence": "彼は帯をリサイクルに出した。",
+    "sentence_furigana": "彼【かれ】は帯【おび】をリサイクルに出【だ】した。",
+    "meaning": "He put the obi out for recycling."
+  },
+  {
+    "sentence": "この帯は非常にユニークだ。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】にユニークだ。",
+    "meaning": "This obi is very unique."
+  },
+  {
+    "sentence": "彼は帯の製造方法を学んだ。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の製造方法【せいぞうほうほう】を学【まな】んだ。",
+    "meaning": "He learned the manufacturing method of obi."
+  },
+  {
+    "sentence": "この地域は産業が発達している。",
+    "sentence_furigana": "この地域【ちいき】は産業【さんぎょう】が発達【はったつ】している。",
+    "meaning": "This region has a developed industry."
+  },
+  {
+    "sentence": "彼女は帯の着付け方を教わった。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の着付【きつ】け方【かた】を教【おそ】わった。",
+    "meaning": "She was taught how to dress the obi."
+  },
+  {
+    "sentence": "彼は幅広のベルトを使用している。",
+    "sentence_furigana": "彼【かれ】は幅広【はばひろ】のベルトを使用【しよう】している。",
+    "meaning": "He is using a wide belt."
+  },
+  {
+    "sentence": "この帯は非常に快適だ。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に快適【かいてき】だ。",
+    "meaning": "This obi is very comfortable."
+  },
+  {
+    "sentence": "彼は帯の生地にこだわった。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の生地【きじ】にこだわった。",
+    "meaning": "He was particular about the fabric of the obi."
+  },
+  {
+    "sentence": "この地域は交通の便が良い。",
+    "sentence_furigana": "この地域【ちいき】は交通【こうつう】の便【べん】が良【よ】い。",
+    "meaning": "This region has good transportation access."
+  },
+  {
+    "sentence": "彼女は帯揚げと帯締めを揃えた。",
+    "sentence_furigana": "彼女【かのじょ】は帯揚【おびあ】げと帯締【おびし】めを揃【そろ】えた。",
+    "meaning": "She matched the obi-age and obi-jime."
+  },
+  {
+    "sentence": "彼は帯を自分で作った。",
+    "sentence_furigana": "彼【かれ】は帯【おび】を自分【じぶん】で作成【さくせい】した。",
+    "meaning": "He made the obi himself."
+  },
+  {
+    "sentence": "この帯は非常に人気がある。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に人気【にんき】がある。",
+    "meaning": "This obi is very popular."
+  },
+  {
+    "sentence": "彼は帯を結ぶ練習をした。",
+    "sentence_furigana": "彼【かれ】は帯【おび】を結【むす】ぶ練習【れんしゅう】をした。",
+    "meaning": "He practiced tying the obi."
+  },
+  {
+    "sentence": "この地域は歴史が深い。",
+    "sentence_furigana": "この地域【ちいき】は歴史【れきし】が深【ふか】い。",
+    "meaning": "This region has a deep history."
+  },
+  {
+    "sentence": "彼女は帯の染め方に興味を持った。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の染【そ】め方【かた】に興味【きょうみ】を持【も】った。",
+    "meaning": "She became interested in the dyeing method of obi."
+  },
+  {
+    "sentence": "彼は帯の飾りをつけた。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の飾【かざ】りをつけた。",
+    "meaning": "He attached an ornament to the obi."
+  },
+  {
+    "sentence": "この帯は洗濯できます。",
+    "sentence_furigana": "この帯【おび】は洗濯【せんたく】できます。",
+    "meaning": "This obi can be washed."
+  },
+  {
+    "sentence": "彼は帯の柄を選ぶのに迷った。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の柄【がら】を選【えら】ぶのに迷【まよ】った。",
+    "meaning": "He hesitated in choosing the pattern of the obi."
+  },
+  {
+    "sentence": "この地域は温泉が有名です。",
+    "sentence_furigana": "この地域【ちいき】は温泉【おんせん】が有名【ゆうめい】です。",
+    "meaning": "This region is famous for its hot springs."
+  },
+  {
+    "sentence": "彼女は帯の結び方を習得した。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の結【むす】び方【かた】を習得【しゅうとく】した。",
+    "meaning": "She acquired the skill of tying an obi."
+  },
+  {
+    "sentence": "彼は帯を締めるためにウエストバンドを使った。",
+    "sentence_furigana": "彼【かれ】は帯【おび】を締【し】めるためにウエストバンドを使【つか】った。",
+    "meaning": "He used a waistband to secure his belt."
+  },
+  {
+    "sentence": "この帯は非常に個性的で美しい。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に個性的【こせいてき】で美【うつく】しい。",
+    "meaning": "This obi is very unique and beautiful."
+  },
+  {
+    "sentence": "彼は帯の歴史について研究している。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の歴史【れきし】について研究【けんきゅう】している。",
+    "meaning": "He is researching the history of obi."
+  },
+  {
+    "sentence": "この地域は独自の文化を持っている。",
+    "sentence_furigana": "この地域【ちいき】は独自【どくじ】の文化【ぶんか】を持【も】っている。",
+    "meaning": "This region has its own unique culture."
+  },
+  {
+    "sentence": "彼女は帯留めの代わりに帯締めを使用した。",
+    "sentence_furigana": "彼女【かのじょ】は帯留【おびど】めの代【か】わりに帯締【おびし】めを使【つか】った。",
+    "meaning": "She used an obi-jime instead of an obi clasp."
+  },
+  {
+    "sentence": "彼は帯の織り方を見学した。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の織【お】り方【かた】を見学【みのがく】した。",
+    "meaning": "He observed the weaving method of obi."
+  },
+  {
+    "sentence": "この帯は非常に幅が広い。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に幅【はば】が広【ひろ】い。",
+    "meaning": "This obi is very wide."
+  },
+  {
+    "sentence": "彼は帯に特別な意味を見出した。",
+    "sentence_furigana": "彼【かれ】は帯【おび】に特別【とくべつ】な意味【いみ】を見出【みいだ】した。",
+    "meaning": "He found a special meaning in the obi."
+  },
+  {
+    "sentence": "この地域は多様な動植物が生息している。",
+    "sentence_furigana": "この地域【ちいき】は多様【たよう】な動植物【どうしょくぶつ】が生息【せいそく】している。",
+    "meaning": "This region is inhabited by diverse flora and fauna."
+  },
+  {
+    "sentence": "彼女は帯の素材について詳しく説明した。",
+    "sentence_furigana": "彼女【かのじょ】は帯【おび】の素材【そざい】について詳【くわ】しく説明【せつめい】した。",
+    "meaning": "She explained in detail about the material of the obi."
+  },
+  {
+    "sentence": "彼は帯を締めるためにバックルを使った。",
+    "sentence_furigana": "彼【かれ】は帯【おび】を締【し】めるためにバックルを使【つか】った。",
+    "meaning": "He used a buckle to fasten the belt."
+  },
+  {
+    "sentence": "この帯は非常に珍しい。",
+    "sentence_furigana": "この帯【おび】は非常【ひじょう】に珍【めずら】しい。",
+    "meaning": "This obi is very rare."
+  },
+  {
+    "sentence": "彼は帯の文様をデザインした。",
+    "sentence_furigana": "彼【かれ】は帯【おび】の文様【もんよう】をデザインした。",
+    "meaning": "He designed the pattern of the obi."
+  }
+]

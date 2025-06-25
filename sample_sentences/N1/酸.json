@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "レモンは酸っぱい味がする。",
+    "sentence_furigana": "レモン【れもん】は酸【さん】っ【っ】ぱ【ぱ】い【い】味【あじ】がする【する】。",
+    "meaning": "Lemons have a sour taste."
+  },
+  {
+    "sentence": "このドリンクは酸味が強い。",
+    "sentence_furigana": "この【この】ドリンク【どりんく】は酸【さん】味【み】が強【つよ】い【い】。",
+    "meaning": "This drink has a strong sourness."
+  },
+  {
+    "sentence": "胃酸過多は不快な症状を引き起こす。",
+    "sentence_furigana": "胃【い】酸【さん】過【か】多【た】は不【ふ】快【かい】な【な】症【しょう】状【じょう】を引【ひ】き起【お】こす【こす】。",
+    "meaning": "Gastric hyperacidity causes uncomfortable symptoms."
+  },
+  {
+    "sentence": "電池には酸が入っている。",
+    "sentence_furigana": "電【でん】池【ち】に【に】は酸【さん】が【が】入【はい】って【って】いる【いる】。",
+    "meaning": "Batteries contain acid."
+  },
+  {
+    "sentence": "酸性雨は環境に悪影響を与える。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】は環【かん】境【きょう】に【に】悪【あく】影【えい】響【きょう】を【を】与【あた】える【える】。",
+    "meaning": "Acid rain has a negative impact on the environment."
+  },
+  {
+    "sentence": "彼は酸いも甘いも噛み分ける経験をしている。",
+    "sentence_furigana": "彼【かれ】は酸【すい】い【い】も【も】甘【あま】い【い】も【も】噛【か】み【み】分【わ】け【け】る【る】経【けい】験【けん】を【を】し【し】て【て】い【い】る【る】。",
+    "meaning": "He has the experience to discern both the good and the bad."
+  },
+  {
+    "sentence": "この果物は酸っぱくて美味しい。",
+    "sentence_furigana": "この【この】果【くだ】物【もの】は酸【す】っ【っ】ぱ【ぱ】く【く】て【て】美【おい】し【し】い【い】。",
+    "meaning": "This fruit is sour and delicious."
+  },
+  {
+    "sentence": "炭酸飲料は歯に悪い。",
+    "sentence_furigana": "炭【たん】酸【さん】飲【いん】料【りょう】は歯【は】に【に】悪【わる】い【い】。",
+    "meaning": "Carbonated drinks are bad for teeth."
+  },
+  {
+    "sentence": "酸塩基反応は化学の基本です。",
+    "sentence_furigana": "酸【さん】塩【えん】基【き】反【はん】応【のう】は化【か】学【がく】の【の】基【き】本【ほん】で【で】す【す】。",
+    "meaning": "Acid-base reactions are fundamental to chemistry."
+  },
+  {
+    "sentence": "彼の意見は酸っぱいぶどうのようだった。",
+    "sentence_furigana": "彼【かれ】の【の】意【い】見【けん】は酸【す】っ【っ】ぱ【ぱ】い【い】ぶ【ぶ】ど【ど】う【う】の【の】よ【よ】う【う】だ【だ】っ【っ】た【た】。",
+    "meaning": "His opinion was like the sour grapes."
+  },
+  {
+    "sentence": "このソースは酸味が効いている。",
+    "sentence_furigana": "この【この】ソ【そ】ー【ー】ス【す】は酸【さん】味【み】が【が】効【き】い【い】て【て】い【い】る【る】。",
+    "meaning": "This sauce has a pronounced sourness."
+  },
+  {
+    "sentence": "酸欠状態にならないように注意してください。",
+    "sentence_furigana": "酸【さん】欠【けつ】状【じょう】態【たい】に【に】な【な】ら【ら】な【な】い【い】よ【よ】う【う】に【に】注【ちゅう】意【い】し【し】て【て】く【く】だ【だ】さ【さ】い【い】。",
+    "meaning": "Please be careful not to become hypoxic."
+  },
+  {
+    "sentence": "酸っぱいものが食べたい。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】が【が】食【た】べ【べ】た【た】い【い】。",
+    "meaning": "I want to eat something sour."
+  },
+  {
+    "sentence": "有機酸は多くの生物で重要な役割を果たします。",
+    "sentence_furigana": "有【ゆう】機【き】酸【さん】は多【おお】く【く】の【の】生【せい】物【ぶつ】で【で】重【じゅう】要【よう】な【な】役【やく】割【わり】を【を】果【は】た【た】し【し】ま【ま】す【す】。",
+    "meaning": "Organic acids play important roles in many organisms."
+  },
+  {
+    "sentence": "このキャンディーは酸っぱくて甘い。",
+    "sentence_furigana": "この【この】キ【キ】ャ【ャ】ン【ン】デ【デ】ィ【ィー】は酸【す】っ【っ】ぱ【ぱ】く【く】て【て】甘【あま】い【い】。",
+    "meaning": "This candy is sour and sweet."
+  },
+  {
+    "sentence": "酸性食品を摂りすぎないようにしましょう。",
+    "sentence_furigana": "酸【さん】性【せい】食【しょく】品【ひん】を【を】摂【と】り【り】す【す】ぎ【ぎ】な【な】い【い】よ【よ】う【う】に【に】し【し】ま【ま】し【し】ょ【ょ】う【う】。",
+    "meaning": "Let's try not to consume too many acidic foods."
+  },
+  {
+    "sentence": "彼女は酸いも甘いも経験した人生を送ってきた。",
+    "sentence_furigana": "彼【かれ】女【じょ】は酸【すい】い【い】も【も】甘【あま】い【い】も【も】経【けい】験【けん】し【し】た【た】人【じん】生【せい】を【を】送【おく】っ【っ】て【て】き【き】た【た】。",
+    "meaning": "She has lived a life that has experienced both the bitter and the sweet."
+  },
+  {
+    "sentence": "この料理は酸味が足りない。",
+    "sentence_furigana": "この【この】料【りょう】理【り】は酸【さん】味【み】が【が】足【た】り【り】な【な】い【い】。",
+    "meaning": "This dish lacks sourness."
+  },
+  {
+    "sentence": "酸性度を測定する。",
+    "sentence_furigana": "酸【さん】性【せい】度【ど】を【を】測【そく】定【てい】す【す】る【る】。",
+    "meaning": "Measure the acidity."
+  },
+  {
+    "sentence": "酸っぱいレモネードは夏にぴったりだ。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】レ【レ】モ【モ】ネ【ネ】ー【ー】ド【ド】は夏【なつ】に【に】ぴ【ぴ】っ【っ】た【た】り【り】だ【だ】。",
+    "meaning": "Sour lemonade is perfect for summer."
+  },
+  {
+    "sentence": "疲労回復には酸性の食品が良いと言われている。",
+    "sentence_furigana": "疲【ひ】労【ろう】回【かい】復【ふく】に【に】は酸【さん】性【せい】の【の】食【しょく】品【ひん】が【が】良【よ】い【い】と【と】言【い】わ【わ】れ【れ】て【て】い【い】る【る】。",
+    "meaning": "It is said that acidic foods are good for fatigue recovery."
+  },
+  {
+    "sentence": "酸っぱいものが食べたくなる時がある。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】が【が】食【た】べ【べ】た【た】く【く】な【な】る【る】時【とき】が【が】あ【あ】る【る】。",
+    "meaning": "There are times when I crave sour things."
+  },
+  {
+    "sentence": "このタルトは酸味と甘みが絶妙なバランスだ。",
+    "sentence_furigana": "この【この】タ【タ】ル【ル】ト【ト】は酸【さん】味【み】と【と】甘【あま】味【み】が【が】絶【ぜっ】妙【みょう】な【な】バ【バ】ラ【ラ】ン【ン】ス【ス】だ【だ】。",
+    "meaning": "This tart has an exquisite balance of sourness and sweetness."
+  },
+  {
+    "sentence": "酸性雨は石像を溶解させる。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】は石【せっ】像【ぞう】を【を】溶【よう】解【かい】さ【さ】せ【せ】る【る】。",
+    "meaning": "Acid rain dissolves stone statues."
+  },
+  {
+    "sentence": "強酸性物質に触れないように注意する。",
+    "sentence_furigana": "強【きょう】酸【さん】性【せい】物【ぶっ】質【しつ】に【に】触【ふ】れ【れ】な【な】い【い】よ【よ】う【う】に【に】注【ちゅう】意【い】す【す】る【る】。",
+    "meaning": "Be careful not to touch strong acidic substances."
+  },
+  {
+    "sentence": "酸っぱい顔をする。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】を【を】す【す】る【る】。",
+    "meaning": "Make a sour face."
+  },
+  {
+    "sentence": "この料理には酸味を加える必要がある。",
+    "sentence_furigana": "この【この】料【りょう】理【り】に【に】は酸【さん】味【み】を【を】加【くわ】え【え】る【る】必【ひつ】要【よう】が【が】あ【あ】る【る】。",
+    "meaning": "This dish needs added sourness."
+  },
+  {
+    "sentence": "酸性飲料の過剰摂取は体に良くない。",
+    "sentence_furigana": "酸【さん】性【せい】飲【いん】料【りょう】の【の】過【か】剰【じょう】摂【せっ】取【しゅ】は体【からだ】に【に】良【よ】く【く】な【な】い【い】。",
+    "meaning": "Excessive intake of acidic beverages is not good for the body."
+  },
+  {
+    "sentence": "胃酸は食物の消化を助ける。",
+    "sentence_furigana": "胃【い】酸【さん】は食【しょく】物【ぶつ】の【の】消【しょう】化【か】を【を】助【たす】け【け】る【る】。",
+    "meaning": "Gastric acid aids in the digestion of food."
+  },
+  {
+    "sentence": "彼は酸っぱい顔で頷いた。",
+    "sentence_furigana": "彼【かれ】は酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】で【で】頷【うなず】い【い】た【た】。",
+    "meaning": "He nodded with a sour face."
+  },
+  {
+    "sentence": "このジャムは酸味があって美味しい。",
+    "sentence_furigana": "この【この】ジ【ジ】ャ【ャ】ム【ム】は酸【さん】味【み】が【が】あ【あ】っ【っ】て【て】美【おい】し【し】い【い】。",
+    "meaning": "This jam is delicious with its sourness."
+  },
+  {
+    "sentence": "酸性雨による被害が報告されている。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】に【に】よ【よ】る【る】被【ひ】害【がい】が【が】報【ほう】告【こく】さ【さ】れ【れ】て【て】い【い】る【る】。",
+    "meaning": "Damage caused by acid rain is being reported."
+  },
+  {
+    "sentence": "彼は酸いも甘いも経験したベテランだ。",
+    "sentence_furigana": "彼【かれ】は酸【すい】い【い】も【も】甘【あま】い【い】も【も】経【けい】験【けん】し【し】た【た】ベ【ベ】テ【テ】ラ【ラ】ン【ン】だ【だ】。",
+    "meaning": "He is a veteran who has experienced both the bitter and the sweet."
+  },
+  {
+    "sentence": "この果物は酸味が強く、そのまま食べるのは難しい。",
+    "sentence_furigana": "この【この】果【くだ】物【もの】は酸【さん】味【み】が【が】強【つよ】く【く】、そのまま【そのまま】食【た】べ【べ】る【る】の【の】は【は】難【むずか】し【し】い【い】。",
+    "meaning": "This fruit is very sour, making it difficult to eat as is."
+  },
+  {
+    "sentence": "酸っぱすぎると感じた。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】す【す】ぎ【ぎ】る【る】と【と】感【かん】じ【じ】た【た】。",
+    "meaning": "I felt it was too sour."
+  },
+  {
+    "sentence": "酸性土壌を改良する必要がある。",
+    "sentence_furigana": "酸【さん】性【せい】土【ど】壌【じょう】を【を】改【かい】良【りょう】す【す】る【る】必【ひつ】要【よう】が【が】あ【あ】る【る】。",
+    "meaning": "It is necessary to improve acidic soil."
+  },
+  {
+    "sentence": "彼女は酸っぱい顔でため息をついた。",
+    "sentence_furigana": "彼【かれ】女【じょ】は酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】で【で】た【た】め【め】息【いき】を【を】つ【つ】い【い】た【た】。",
+    "meaning": "She sighed with a sour expression."
+  },
+  {
+    "sentence": "ビタミンCは酸性です。",
+    "sentence_furigana": "ビ【ビ】タ【タ】ミ【ミ】ン【ン】C【シー】は酸【さん】性【せい】で【で】す【す】。",
+    "meaning": "Vitamin C is acidic."
+  },
+  {
+    "sentence": "酸っぱいものを食べると唾液が出る。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】を【を】食【た】べ【べ】る【る】と【と】唾【だ】液【えき】が【が】出【で】る【る】。",
+    "meaning": "Eating sour things stimulates saliva production."
+  },
+  {
+    "sentence": "酸性溶液は金属を腐食させる。",
+    "sentence_furigana": "酸【さん】性【せい】溶【よう】液【えき】は金【きん】属【ぞく】を【を】腐【ふ】食【しょく】さ【さ】せ【せ】る【る】。",
+    "meaning": "Acidic solutions corrode metals."
+  },
+  {
+    "sentence": "酸っぱい梅干しが好きだ。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】梅【うめ】干【ぼ】し【し】が【が】好【す】き【き】だ【だ】。",
+    "meaning": "I like sour pickled plums."
+  },
+  {
+    "sentence": "この飲み物は酸味が強すぎて飲みにくい。",
+    "sentence_furigana": "この【この】飲【の】み【み】物【もの】は酸【さん】味【み】が【が】強【つよ】す【す】ぎ【ぎ】て【て】飲【の】み【み】に【に】く【く】い【い】。",
+    "meaning": "This drink is too sour and hard to drink."
+  },
+  {
+    "sentence": "彼は酸っぱい顔をして注文をキャンセルした。",
+    "sentence_furigana": "彼【かれ】は酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】を【を】し【し】て【て】注【ちゅう】文【もん】を【を】キ【キ】ャ【ャ】ン【ン】セ【セ】ル【ル】し【し】た【た】。",
+    "meaning": "He made a sour face and canceled the order."
+  },
+  {
+    "sentence": "酸性雨から文化財を守る必要がある。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】か【か】ら【ら】文【ぶん】化【か】財【ざい】を【を】守【まも】る【る】必【ひつ】要【よう】が【が】あ【あ】る【る】。",
+    "meaning": "Cultural properties need to be protected from acid rain."
+  },
+  {
+    "sentence": "彼の話は酸いも甘いも経験したからこそ、重みがある。",
+    "sentence_furigana": "彼【かれ】の【の】話【はな】し【し】は酸【すい】い【い】も【も】甘【あま】い【い】も【も】経【けい】験【けん】し【し】た【た】か【か】ら【ら】こ【こ】そ【そ】、重【おも】み【み】が【が】あ【あ】る【る】。",
+    "meaning": "His words carry weight precisely because he has experienced both the bitter and the sweet."
+  },
+  {
+    "sentence": "このヨーグルトは酸味がちょうど良い。",
+    "sentence_furigana": "この【この】ヨ【ヨ】ー【ー】グ【グ】ル【ル】ト【ト】は酸【さん】味【み】が【が】ち【ち】ょ【ょ】う【う】ど【ど】良【よ】い【い】。",
+    "meaning": "This yogurt has just the right amount of sourness."
+  },
+  {
+    "sentence": "酸っぱい食べ物で食欲を刺激する。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】食【た】べ【べ】物【もの】で【で】食【しょく】欲【よく】を【を】刺【し】激【げき】す【す】る【る】。",
+    "meaning": "Stimulate appetite with sour foods."
+  },
+  {
+    "sentence": "酸性水溶液のpHは7未満である。",
+    "sentence_furigana": "酸【さん】性【せい】水【すい】溶【よう】液【えき】の【の】pH【ピーエイチ】は7【セブン】未【み】満【まん】で【で】あ【あ】る【る】。",
+    "meaning": "The pH of acidic aqueous solutions is less than 7."
+  },
+  {
+    "sentence": "酸っぱさと苦味を同時に感じる。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】さ【さ】と【と】苦【にが】味【み】を【を】同【どう】時【じ】に【に】感【かん】じ【じ】る【る】。",
+    "meaning": "To feel sourness and bitterness at the same time."
+  },
+  {
+    "sentence": "彼女は酸っぱいものばかり好んで食べる。",
+    "sentence_furigana": "彼【かれ】女【じょ】は酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】ば【ば】か【か】り【り】好【この】ん【ん】で【で】食【た】べ【べ】る【る】。",
+    "meaning": "She only likes to eat sour things."
+  },
+  {
+    "sentence": "このパイナップルは酸味が強い。",
+    "sentence_furigana": "この【この】パ【パ】イ【イ】ナ【ナ】ッ【ッ】プ【プ】ル【ル】は酸【さん】味【み】が【が】強【つよ】い【い】。",
+    "meaning": "This pineapple is very sour."
+  },
+  {
+    "sentence": "酸で歯が溶けるのを防ぐ方法。",
+    "sentence_furigana": "酸【さん】で【で】歯【は】が【が】溶【と】け【け】る【る】の【の】を【を】防【ふせ】ぐ【ぐ】方【ほう】法【ほう】。",
+    "meaning": "Ways to prevent teeth from dissolving due to acid."
+  },
+  {
+    "sentence": "酸っぱい匂いがする。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】匂【にお】い【い】が【が】す【す】る【る】。",
+    "meaning": "It smells sour."
+  },
+  {
+    "sentence": "酸性肥料を使うと土壌が酸性化する。",
+    "sentence_furigana": "酸【さん】性【せい】肥【ひ】料【りょう】を【を】使【つか】う【う】と【と】土【ど】壌【じょう】が【が】酸【さん】性【せい】化【か】す【す】る【る】。",
+    "meaning": "Using acidic fertilizers acidifies the soil."
+  },
+  {
+    "sentence": "酸いも甘いも経験したから、人の気持ちがわかる。",
+    "sentence_furigana": "酸【すい】い【い】も【も】甘【あま】い【い】も【も】経【けい】験【けん】し【し】た【た】か【か】ら【ら】、人【ひと】の【の】気【き】持【も】ち【ち】が【が】わ【わ】か【か】る【る】。",
+    "meaning": "Because I have experienced both the bitter and the sweet, I understand people's feelings."
+  },
+  {
+    "sentence": "このベリーは酸味が強いが、砂糖を加えれば食べやすい。",
+    "sentence_furigana": "この【この】ベ【ベ】リ【リ】ー【ー】は酸【さん】味【み】が【が】強【つよ】い【い】が【が】、砂【さ】糖【とう】を【を】加【くわ】え【え】れ【れ】ば【ば】食【た】べ【べ】や【や】す【す】い【い】。",
+    "meaning": "These berries are very sour, but they are easier to eat if you add sugar."
+  },
+  {
+    "sentence": "酸味のある料理が好きだ。",
+    "sentence_furigana": "酸【さん】味【み】の【の】あ【あ】る【る】料【りょう】理【り】が【が】好【す】き【き】だ【だ】。",
+    "meaning": "I like dishes with sourness."
+  },
+  {
+    "sentence": "彼は酸っぱい顔で黙り込んだ。",
+    "sentence_furigana": "彼【かれ】は酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】で【で】黙【だま】り【り】込【こ】ん【ん】だ【だ】。",
+    "meaning": "He fell silent with a sour face."
+  },
+  {
+    "sentence": "酸性食品とアルカリ性食品のバランスを取る。",
+    "sentence_furigana": "酸【さん】性【せい】食【しょく】品【ひん】と【と】ア【ア】ル【ル】カ【カ】リ【リ】性【せい】食【しょく】品【ひん】の【の】バ【バ】ラ【ラ】ン【ン】ス【ス】を【を】取【と】る【る】。",
+    "meaning": "Balance acidic and alkaline foods."
+  },
+  {
+    "sentence": "酸っぱい匂いは腐敗のサインかもしれない。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】匂【にお】い【い】は腐【ふ】敗【はい】の【の】サ【サ】イ【イ】ン【ン】か【か】も【も】し【し】れ【れ】な【な】い【い】。",
+    "meaning": "A sour smell could be a sign of decay."
+  },
+  {
+    "sentence": "酸性雨は森林を破壊する。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】は森【しん】林【りん】を【を】破【は】壊【かい】す【す】る【る】。",
+    "meaning": "Acid rain destroys forests."
+  },
+  {
+    "sentence": "彼は酸っぱい意見を述べた。",
+    "sentence_furigana": "彼【かれ】は酸【す】っ【っ】ぱ【ぱ】い【い】意【い】見【けん】を【を】述【の】べ【べ】た【た】。",
+    "meaning": "He expressed a sour opinion."
+  },
+  {
+    "sentence": "このソースは酸味が強すぎる。",
+    "sentence_furigana": "この【この】ソ【ソ】ー【ー】ス【ス】は酸【さん】味【み】が【が】強【つよ】す【す】ぎ【ぎ】る【る】。",
+    "meaning": "This sauce is too sour."
+  },
+  {
+    "sentence": "酸っぱいものが欲しくなった。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】が【が】欲【ほ】し【し】く【く】な【な】っ【っ】た【た】。",
+    "meaning": "I started craving sour things."
+  },
+  {
+    "sentence": "彼女は酸いも甘いも噛み分ける知恵がある。",
+    "sentence_furigana": "彼【かれ】女【じょ】は酸【すい】い【い】も【も】甘【あま】い【い】も【も】噛【か】み【み】分【わ】け【け】る【る】知【ち】恵【え】が【が】あ【あ】る【る】。",
+    "meaning": "She has the wisdom to discern both the good and the bad."
+  },
+  {
+    "sentence": "酸性雨の防止策が求められている。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】の【の】防【ぼう】止【し】策【さく】が【が】求【もと】め【め】ら【ら】れ【れ】て【て】い【い】る【る】。",
+    "meaning": "Preventive measures against acid rain are being sought."
+  },
+  {
+    "sentence": "この酸味は自然なものですか？",
+    "sentence_furigana": "この【この】酸【さん】味【み】は自【し】然【ぜん】な【な】も【も】の【の】で【で】す【す】か【か】？",
+    "meaning": "Is this sourness natural?"
+  },
+  {
+    "sentence": "酸性体質を改善するために、アルカリ性食品を多く摂る。",
+    "sentence_furigana": "酸【さん】性【せい】体【たい】質【しつ】を【を】改【かい】善【ぜん】す【す】る【る】た【た】め【め】に【に】、ア【ア】ル【ル】カ【カ】リ【リ】性【せい】食【しょく】品【ひん】を【を】多【おお】く【く】摂【と】る【る】。",
+    "meaning": "To improve an acidic constitution, eat more alkaline foods."
+  },
+  {
+    "sentence": "酸っぱい表情を見せる。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】表【ひょう】情【じょう】を【を】見【み】せ【せ】る【る】。",
+    "meaning": "Show a sour expression."
+  },
+  {
+    "sentence": "酸性溶液を中和する。",
+    "sentence_furigana": "酸【さん】性【せい】溶【よう】液【えき】を【を】中【ちゅう】和【わ】す【す】る【る】。",
+    "meaning": "Neutralize the acidic solution."
+  },
+  {
+    "sentence": "酸っぱいものを食べると元気になる。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】を【を】食【た】べ【べ】る【る】と【と】元【げん】気【き】に【に】な【な】る【る】。",
+    "meaning": "Eating sour things makes me feel energetic."
+  },
+  {
+    "sentence": "酸性雨は湖や河川の生態系に影響を与える。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】は湖【こ】や【や】河【か】川【せん】の【の】生【せい】態【たい】系【けい】に【に】影【えい】響【きょう】を【を】与【あた】え【え】る【る】。",
+    "meaning": "Acid rain affects the ecosystems of lakes and rivers."
+  },
+  {
+    "sentence": "酸っぱいカシスリキュールを作った。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】カ【カ】シ【シ】ス【ス】リ【リ】キ【キ】ュ【ュ】ー【ー】ル【ル】を【を】作【つく】っ【っ】た【た】。",
+    "meaning": "I made a sour blackcurrant liqueur."
+  },
+  {
+    "sentence": "彼の酸っぱい顔が面白かった。",
+    "sentence_furigana": "彼【かれ】の【の】酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】が【が】面【おも】白【しろ】か【か】っ【っ】た【た】。",
+    "meaning": "His sour face was amusing."
+  },
+  {
+    "sentence": "酸っぱくて甘いキャンディーが好きだ。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】く【く】て【て】甘【あま】い【い】キ【キ】ャ【ャ】ン【ン】デ【デ】ィ【ィー】が【が】好【す】き【き】だ【だ】。",
+    "meaning": "I like sour and sweet candy."
+  },
+  {
+    "sentence": "酸性の強い食品は、歯のエナメル質を傷つける。",
+    "sentence_furigana": "酸【さん】性【せい】の【の】強【つよ】い【い】食【しょく】品【ひん】は【は】、歯【は】の【の】エ【エ】ナ【ナ】メ【メ】ル【ル】質【しつ】を【を】傷【きず】つ【つ】け【け】る【る】。",
+    "meaning": "Highly acidic foods damage tooth enamel."
+  },
+  {
+    "sentence": "酸っぱいものが食べたい気分だ。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】が【が】食【た】べ【べ】た【た】い【い】気【き】分【ぶん】だ【だ】。",
+    "meaning": "I feel like eating something sour."
+  },
+  {
+    "sentence": "酸性雨は建築物を劣化させる。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】は建【けん】築【ちく】物【ぶつ】を【を】劣【れっ】化【か】さ【さ】せ【せ】る【る】。",
+    "meaning": "Acid rain causes buildings to deteriorate."
+  },
+  {
+    "sentence": "彼は酸っぱい顔で返事をした。",
+    "sentence_furigana": "彼【かれ】は酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】で【で】返【へん】事【じ】を【を】し【し】た【た】。",
+    "meaning": "He replied with a sour face."
+  },
+  {
+    "sentence": "酸っぱい果物を使ったデザート。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】果【くだ】物【もの】を【を】使【つか】っ【っ】た【た】デ【デ】ザ【ザ】ー【ー】ト【ト】。",
+    "meaning": "Dessert made with sour fruits."
+  },
+  {
+    "sentence": "このスープは酸味が足りないように思う。",
+    "sentence_furigana": "この【この】ス【ス】ー【ー】プ【プ】は酸【さん】味【み】が【が】足【た】り【り】な【な】い【い】よ【よ】う【う】に【に】思【おも】う【う】。",
+    "meaning": "I think this soup lacks sourness."
+  },
+  {
+    "sentence": "酸性溶液とアルカリ性溶液を混ぜ合わせると中和が起こる。",
+    "sentence_furigana": "酸【さん】性【せい】溶【よう】液【えき】と【と】ア【ア】ル【ル】カ【カ】リ【リ】性【せい】溶【よう】液【えき】を【を】混【ま】ぜ【ぜ】合【あ】わ【わ】せ【せ】る【る】と【と】中【ちゅう】和【わ】が【が】起【お】こ【こ】る【る】。",
+    "meaning": "Neutralization occurs when acidic and alkaline solutions are mixed."
+  },
+  {
+    "sentence": "酸っぱいものを見るとよだれが出る。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】を【を】見【み】る【る】と【と】よ【よ】だ【だ】れ【れ】が【が】出【で】る【る】。",
+    "meaning": "Seeing sour things makes my mouth water."
+  },
+  {
+    "sentence": "酸っぱいヨーグルトは体に良い。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】ヨ【ヨ】ー【ー】グ【グ】ル【ル】ト【ト】は体【からだ】に【に】良【よ】い【い】。",
+    "meaning": "Sour yogurt is good for the body."
+  },
+  {
+    "sentence": "酸性雨による被害を防ぐための国際的な取り組みが必要だ。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】に【に】よ【よ】る【る】被【ひ】害【がい】を【を】防【ふせ】ぐ【ぐ】た【た】め【め】の【の】国【こく】際【さい】的【てき】な【な】取【と】り【り】組【く】み【み】が【が】必【ひつ】要【よう】だ【だ】。",
+    "meaning": "International efforts are needed to prevent damage from acid rain."
+  },
+  {
+    "sentence": "彼は酸いも甘いも知らない。",
+    "sentence_furigana": "彼【かれ】は酸【すい】い【い】も【も】甘【あま】い【い】も【も】知【し】ら【ら】な【な】い【い】。",
+    "meaning": "He knows neither the bitter nor the sweet."
+  },
+  {
+    "sentence": "このドレッシングは酸味が控えめだ。",
+    "sentence_furigana": "この【この】ド【ド】レ【レ】ッ【ッ】シ【シ】ン【ン】グ【グ】は酸【さん】味【み】が【が】控【ひか】え【え】め【め】だ【だ】。",
+    "meaning": "This dressing has a mild sourness."
+  },
+  {
+    "sentence": "酸っぱい果実をジャムにする。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】果【かじつ】を【を】ジ【ジ】ャ【ャ】ム【ム】に【に】す【す】る【る】。",
+    "meaning": "Make jam from sour fruits."
+  },
+  {
+    "sentence": "胃酸の分泌を抑える薬。",
+    "sentence_furigana": "胃【い】酸【さん】の【の】分【ぶん】泌【ぴつ】を【を】抑【おさ】え【え】る【る】薬【くすり】。",
+    "meaning": "Medicine to suppress gastric acid secretion."
+  },
+  {
+    "sentence": "酸っぱい味覚を刺激する飲み物。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】味【みか】覚【かく】を【を】刺【し】激【げき】す【す】る【る】飲【の】み【み】物【もの】。",
+    "meaning": "A drink that stimulates the sour taste buds."
+  },
+  {
+    "sentence": "酸性雨は土壌の栄養分を流出させる。",
+    "sentence_furigana": "酸【さん】性【せい】雨【あめ】は土【ど】壌【じょう】の【の】栄【えい】養【よう】分【ぶん】を【を】流【りゅう】出【しゅつ】さ【さ】せ【せ】る【る】。",
+    "meaning": "Acid rain leaches nutrients from the soil."
+  },
+  {
+    "sentence": "このワインは酸味が強い。",
+    "sentence_furigana": "この【この】ワ【ワ】イ【イ】ン【ン】は酸【さん】味【み】が【が】強【つよ】い【い】。",
+    "meaning": "This wine is very acidic."
+  },
+  {
+    "sentence": "酸っぱい顔をしない。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】顔【かお】を【を】し【し】な【な】い【い】。",
+    "meaning": "Don't make a sour face."
+  },
+  {
+    "sentence": "酸っぱいものが食べたくなった。",
+    "sentence_furigana": "酸【す】っ【っ】ぱ【ぱ】い【い】も【も】の【の】が【が】食【た】べ【べ】た【た】く【く】な【な】っ【っ】た【た】。",
+    "meaning": "I felt like eating something sour."
+  }
+]

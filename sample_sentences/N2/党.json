@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "彼は政党の党員です。",
+    "sentence_furigana": "彼【かれ】は政党【せいとう】の党員【とういん】です。",
+    "meaning": "He is a member of a political party."
+  },
+  {
+    "sentence": "その党は国民の支持を得ています。",
+    "sentence_furigana": "その党【とう】は国民【こくみん】の支持【しじ】を得【え】ています。",
+    "meaning": "That party has gained the support of the people."
+  },
+  {
+    "sentence": "彼は党首として選ばれました。",
+    "sentence_furigana": "彼【かれ】は党首【とうしゅ】として選【え】ばれました。",
+    "meaning": "He was elected as the party leader."
+  },
+  {
+    "sentence": "党大会が開催されました。",
+    "sentence_furigana": "党大会【とうたいかい】が開催【かいさい】されました。",
+    "meaning": "The party convention was held."
+  },
+  {
+    "sentence": "この党は革新的な政策を掲げています。",
+    "sentence_furigana": "この党【とう】は革新的【かくしんてき】な政策【せいさく】を掲【かか】げています。",
+    "meaning": "This party advocates for innovative policies."
+  },
+  {
+    "sentence": "彼は長年その党に所属していました。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】その党【とう】に所属【しょぞく】していました。",
+    "meaning": "He belonged to that party for many years."
+  },
+  {
+    "sentence": "その党の政策には賛否両論があります。",
+    "sentence_furigana": "その党【とう】の政策【せいさく】には賛否両論【さんぴりょうろん】があります。",
+    "meaning": "There are both pros and cons to that party's policies."
+  },
+  {
+    "sentence": "彼は党の方針に反対しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の方針【ほうしん】に反対【はんたい】しました。",
+    "meaning": "He opposed the party's policy."
+  },
+  {
+    "sentence": "私たちは同じ党の仲間です。",
+    "sentence_furigana": "私【わたし】たちはい同【おな】じ党【とう】の仲間【なかま】です。",
+    "meaning": "We are comrades of the same party."
+  },
+  {
+    "sentence": "党の歴史は非常に古い。",
+    "sentence_furigana": "党【とう】の歴史【れきし】は非常【ひじょう】に古【ふる】い。",
+    "meaning": "The party's history is very old."
+  },
+  {
+    "sentence": "彼は無所属の政治家です。",
+    "sentence_furigana": "彼【かれ】は無所属【むしょぞく】の政治家【せいじか】です。",
+    "meaning": "He is an independent politician."
+  },
+  {
+    "sentence": "党内での議論が白熱しています。",
+    "sentence_furigana": "党内【とうない】での議論【ぎろん】が白熱【はくねつ】しています。",
+    "meaning": "Debate within the party is heating up."
+  },
+  {
+    "sentence": "彼は新しい党を結成しました。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい党【とう】を結成【けっせい】しました。",
+    "meaning": "He formed a new party."
+  },
+  {
+    "sentence": "その党は分裂の危機に瀕しています。",
+    "sentence_furigana": "その党【とう】は分裂【ぶんれつ】の危機【きき】に瀕【ひん】しています。",
+    "meaning": "That party is on the verge of splitting."
+  },
+  {
+    "sentence": "党の広報担当者が声明を発表しました。",
+    "sentence_furigana": "党【とう】の広報担当者【こうほうたんとうしゃ】が声明【せいめい】を発表【はっぴょう】しました。",
+    "meaning": "The party's spokesperson issued a statement."
+  },
+  {
+    "sentence": "彼は政党政治に疑問を呈しています。",
+    "sentence_furigana": "彼【かれ】は政党政治【せいとうせいじ】に疑問【ぎもん】を呈【てい】しています。",
+    "meaning": "He questions party politics."
+  },
+  {
+    "sentence": "どの党を支持しますか？",
+    "sentence_furigana": "どの党【とう】を支持【しじ】しますか？",
+    "meaning": "Which party do you support?"
+  },
+  {
+    "sentence": "彼女は政党の幹部です。",
+    "sentence_furigana": "彼女【かのじょ】は政党【せいとう】の幹部【かんぶ】です。",
+    "meaning": "She is an executive of the political party."
+  },
+  {
+    "sentence": "党の改革が求められています。",
+    "sentence_furigana": "党【とう】の改革【かいかく】が求【もと】められています。",
+    "meaning": "Reform of the party is demanded."
+  },
+  {
+    "sentence": "彼は党派を超えて協力を呼びかけました。",
+    "sentence_furigana": "彼【かれ】は党派【とうは】を超【こ】えて協力【きょうりょく】を呼【よ】びかけました。",
+    "meaning": "He called for cooperation beyond party lines."
+  },
+  {
+    "sentence": "その党は結党以来多くの変遷を経てきました。",
+    "sentence_furigana": "その党【とう】は結党以来【けっとういらい】多【おお】くの変遷【へんせん】を経【へ】てきました。",
+    "meaning": "That party has gone through many changes since its founding."
+  },
+  {
+    "sentence": "党首討論会が行われました。",
+    "sentence_furigana": "党首討論会【とうしゅとうろんかい】が行【おこな】われました。",
+    "meaning": "A debate among party leaders was held."
+  },
+  {
+    "sentence": "彼は党の代表として出席しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の代表【だいひょう】として出席【しゅっせき】しました。",
+    "meaning": "He attended as the party's representative."
+  },
+  {
+    "sentence": "党員は新しい党則に同意しました。",
+    "sentence_furigana": "党員【とういん】は新【あら】しい党則【とうそく】に同意【どうい】しました。",
+    "meaning": "The party members agreed to the new party rules."
+  },
+  {
+    "sentence": "この小さな集団は友党と呼ばれることがあります。",
+    "sentence_furigana": "この小【ちい】さな集団【しゅうだん】は友党【ゆうとう】と呼【よ】ばれることがあります。",
+    "meaning": "This small group may be called a friendly party."
+  },
+  {
+    "sentence": "彼は党の公認候補者です。",
+    "sentence_furigana": "彼【かれ】は党【とう】の公認候補者【こうにんこうほしゃ】です。",
+    "meaning": "He is the party's endorsed candidate."
+  },
+  {
+    "sentence": "党の基盤は若年層にあります。",
+    "sentence_furigana": "党【とう】の基盤【きばん】は若年層【じゃくねんそう】にあります。",
+    "meaning": "The party's base is among the younger generation."
+  },
+  {
+    "sentence": "彼は反党的な言動で処分されました。",
+    "sentence_furigana": "彼【かれ】は反党的【はんとうてき】な言動【げんどう】で処分【しょぶん】されました。",
+    "meaning": "He was disciplined for anti-party conduct."
+  },
+  {
+    "sentence": "党幹部は記者会見を開きました。",
+    "sentence_furigana": "党幹部【とうかんぶ】は記者会見【きしゃかいけん】を開【ひら】きました。",
+    "meaning": "Party executives held a press conference."
+  },
+  {
+    "sentence": "彼は党の機関紙を購読しています。",
+    "sentence_furigana": "彼【かれ】は党【とう】の機関紙【きかんし】を購読【こうどく】しています。",
+    "meaning": "He subscribes to the party's official newspaper."
+  },
+  {
+    "sentence": "その党は中道左派を標榜しています。",
+    "sentence_furigana": "その党【とう】は中道左派【ちゅうどうさは】を標榜【ひょうぼう】しています。",
+    "meaning": "That party positions itself as center-left."
+  },
+  {
+    "sentence": "党の綱領が改定されました。",
+    "sentence_furigana": "党【とう】の綱領【こうりょう】が改定【かいてい】されました。",
+    "meaning": "The party's platform was revised."
+  },
+  {
+    "sentence": "彼は異なる派閥の党員を集めました。",
+    "sentence_furigana": "彼【かれ】は異【こと】なる派閥【はばつ】の党員【とういん】を集【あつ】めました。",
+    "meaning": "He gathered members from different factions of the party."
+  },
+  {
+    "sentence": "党の意思決定プロセスは透明性が低い。",
+    "sentence_furigana": "党【とう】の意思決定プロセス【いしけっていぷろせす】は透明性【とうめいせい】が低【ひく】い。",
+    "meaning": "The party's decision-making process lacks transparency."
+  },
+  {
+    "sentence": "彼女は党の広報活動に貢献しています。",
+    "sentence_furigana": "彼女【かのじょ】は党【とう】の広報活動【こうほうかつどう】に貢献【こうけん】しています。",
+    "meaning": "She contributes to the party's public relations activities."
+  },
+  {
+    "sentence": "党の資金源は不明瞭です。",
+    "sentence_furigana": "党【とう】の資金源【しきんげん】は不明瞭【ふめいりょう】です。",
+    "meaning": "The party's sources of funding are unclear."
+  },
+  {
+    "sentence": "彼は党の政策立案に深く関わっています。",
+    "sentence_furigana": "彼【かれ】は党【とう】の政策立案【せいさくりつあん】に深【ふか】く関【かか】わっています。",
+    "meaning": "He is deeply involved in the party's policy-making."
+  },
+  {
+    "sentence": "その党は選挙で惨敗しました。",
+    "sentence_furigana": "その党【とう】は選挙【せんきょ】で惨敗【さんぱい】しました。",
+    "meaning": "That party suffered a crushing defeat in the election."
+  },
+  {
+    "sentence": "党のロゴはシンプルで覚えやすい。",
+    "sentence_furigana": "党【とう】のロゴはシンプルで覚【おぼ】えやすい。",
+    "meaning": "The party's logo is simple and memorable."
+  },
+  {
+    "sentence": "彼は党の結束を訴えました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の結束【けっそく】を訴【うった】えました。",
+    "meaning": "He appealed for party unity."
+  },
+  {
+    "sentence": "党のイメージカラーは何色ですか？",
+    "sentence_furigana": "党【とう】のイメージカラーは何色【なにいろ】ですか？",
+    "meaning": "What is the party's image color?"
+  },
+  {
+    "sentence": "彼女は党の組織強化を目指しています。",
+    "sentence_furigana": "彼女【かのじょ】は党【とう】の組織強化【そしききょうか】を目指【めざ】しています。",
+    "meaning": "She aims to strengthen the party's organization."
+  },
+  {
+    "sentence": "党の規約は厳格に守られるべきです。",
+    "sentence_furigana": "党【とう】の規約【きやく】は厳格【げんかく】に守【まも】られるべきです。",
+    "meaning": "The party's rules should be strictly adhered to."
+  },
+  {
+    "sentence": "彼は党の原則を曲げることはありません。",
+    "sentence_furigana": "彼【かれ】は党【とう】の原則【げんそく】を曲【ま】げることはありません。",
+    "meaning": "He never compromises the party's principles."
+  },
+  {
+    "sentence": "その党は幅広い層から支持を集めています。",
+    "sentence_furigana": "その党【とう】は幅広【はばひろ】い層【そう】から支持【しじ】を集【あつ】めています。",
+    "meaning": "That party attracts support from a wide range of people."
+  },
+  {
+    "sentence": "党の名称変更が検討されています。",
+    "sentence_furigana": "党【とう】の名称変更【めいしょうへんこう】が検討【けんとう】されています。",
+    "meaning": "A change in the party's name is being considered."
+  },
+  {
+    "sentence": "彼は党の活動に熱心に参加しています。",
+    "sentence_furigana": "彼【かれ】は党【とう】の活動【かつどう】に熱心【ねっしん】に参加【さんか】しています。",
+    "meaning": "He actively participates in party activities."
+  },
+  {
+    "sentence": "党の綱領は社会正義を重視しています。",
+    "sentence_furigana": "党【とう】の綱領【こうりょう】は社会正義【しゃかいせいぎ】を重視【じゅうし】しています。",
+    "meaning": "The party's platform emphasizes social justice."
+  },
+  {
+    "sentence": "彼女は所属する党に対して忠誠を誓いました。",
+    "sentence_furigana": "彼女【かのじょ】は所属【しょぞく】する党【とう】に対【たい】して忠誠【ちゅうせい】を誓【ちか】いました。",
+    "meaning": "She pledged loyalty to the party she belongs to."
+  },
+  {
+    "sentence": "党の資金管理には問題があるという指摘があります。",
+    "sentence_furigana": "党【とう】の資金管理【しきんかんり】には問題【もんだい】があるという指摘【してき】があります。",
+    "meaning": "There are suggestions that there are problems with the party's financial management."
+  },
+  {
+    "sentence": "彼は党の離党届を提出しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の離党届【りとうとどけ】を提出【ていしゅつ】しました。",
+    "meaning": "He submitted his resignation from the party."
+  },
+  {
+    "sentence": "党の支持率が上昇しています。",
+    "sentence_furigana": "党【とう】の支持率【しじりつ】が上昇【じょうしょう】しています。",
+    "meaning": "The party's approval rating is increasing."
+  },
+  {
+    "sentence": "党は新しいスローガンを発表しました。",
+    "sentence_furigana": "党【とう】は新【あら】しいスローガンを発表【はっぴょう】しました。",
+    "meaning": "The party announced a new slogan."
+  },
+  {
+    "sentence": "彼は党の会合で演説しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の会合【かいごう】で演説【えんぜつ】しました。",
+    "meaning": "He gave a speech at the party meeting."
+  },
+  {
+    "sentence": "党の改革は急務です。",
+    "sentence_furigana": "党【とう】の改革【かいかく】は急務【きゅうむ】です。",
+    "meaning": "Party reform is an urgent task."
+  },
+  {
+    "sentence": "彼は党の組織図を作成しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の組織図【そしきず】を作成【さくせい】しました。",
+    "meaning": "He created an organizational chart for the party."
+  },
+  {
+    "sentence": "党は過去の過ちを認めました。",
+    "sentence_furigana": "党【とう】は過去【かこ】の過誤【あやまち】を認【みと】めました。",
+    "meaning": "The party admitted its past mistakes."
+  },
+  {
+    "sentence": "彼女は党のウェブサイトを管理しています。",
+    "sentence_furigana": "彼女【かのじょ】は党【とう】のウェブサイトを管理【かんり】しています。",
+    "meaning": "She manages the party's website."
+  },
+  {
+    "sentence": "党の広報活動が活発に行われています。",
+    "sentence_furigana": "党【とう】の広報活動【こうほうかつどう】が活発【かっぱつ】に行【おこな】われています。",
+    "meaning": "The party's public relations activities are being actively carried out."
+  },
+  {
+    "sentence": "彼は党の広報資料を配布しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の広報資料【こうほうしりょう】を配布【はいふ】しました。",
+    "meaning": "He distributed the party's promotional materials."
+  },
+  {
+    "sentence": "党の歴史博物館を訪れました。",
+    "sentence_furigana": "党【とう】の歴史博物館【れきしはくぶつかん】を訪【おとず】れました。",
+    "meaning": "I visited the party's history museum."
+  },
+  {
+    "sentence": "彼は党の資金調達パーティーに参加しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の資金調達パーティー【しきんちょうたつぱーてぃー】に参加【さんか】しました。",
+    "meaning": "He attended the party's fundraising event."
+  },
+  {
+    "sentence": "党の政策は経済成長を重視している。",
+    "sentence_furigana": "党【とう】の政策【せいさく】は経済成長【けいざいせいちょう】を重視【じゅうし】しています。",
+    "meaning": "The party's policies focus on economic growth."
+  },
+  {
+    "sentence": "党は社会保障制度の拡充を訴えています。",
+    "sentence_furigana": "党【とう】は社会保障制度【しゃかいほしょうせいど】の拡充【かくじゅう】を訴【うった】えています。",
+    "meaning": "The party advocates for the expansion of the social security system."
+  },
+  {
+    "sentence": "彼は党のウェブサイトで最新情報を確認しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】のウェブサイトで最新情報【さいしんじょうほう】を確認【かくにん】しました。",
+    "meaning": "He checked the latest information on the party's website."
+  },
+  {
+    "sentence": "党は次の選挙に向けて準備を進めています。",
+    "sentence_furigana": "党【とう】は次【つぎ】の選挙【せんきょ】に向【む】けて準備【じゅんび】を進【すす】めています。",
+    "meaning": "The party is preparing for the next election."
+  },
+  {
+    "sentence": "彼女は党の顔として活躍しています。",
+    "sentence_furigana": "彼女【かのじょ】は党【とう】の顔【かお】として活躍【かつやく】しています。",
+    "meaning": "She is active as the face of the party."
+  },
+  {
+    "sentence": "党の支持基盤は高齢者層に厚いです。",
+    "sentence_furigana": "党【とう】の支持基盤【しじきばん】は高齢者層【こうれいしゃそう】に厚【あつ】いです。",
+    "meaning": "The party's support base is strong among the elderly."
+  },
+  {
+    "sentence": "彼は党の機関紙に記事を投稿しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の機関紙【きかんし】に記事【きじ】を投稿【とうこう】しました。",
+    "meaning": "He submitted an article to the party's newsletter."
+  },
+  {
+    "sentence": "党は環境保護政策を重視する姿勢を示しています。",
+    "sentence_furigana": "党【とう】は環境保護政策【かんきょうほごせいさく】を重視【じゅうし】する姿勢【しせい】を示【しめ】しています。",
+    "meaning": "The party shows a stance that emphasizes environmental protection policies."
+  },
+  {
+    "sentence": "党の歴史的背景は複雑です。",
+    "sentence_furigana": "党【とう】の歴史的背景【れきしてきはいけい】は複雑【ふくざつ】です。",
+    "meaning": "The party's historical background is complex."
+  },
+  {
+    "sentence": "彼は党の会合で重要な役割を果たしました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の会合【かいごう】で重要【じゅうよう】な役割【やくわり】を果た【はた】しました。",
+    "meaning": "He played an important role at the party meeting."
+  },
+  {
+    "sentence": "党は国民の声を真摯に受け止めます。",
+    "sentence_furigana": "党【とう】は国民【こくみん】の声【こえ】を真摯【しんし】に受【う】け止【と】めます。",
+    "meaning": "The party sincerely listens to the voices of the people."
+  },
+  {
+    "sentence": "党の綱領は時代に即したものへと更新されるべきだ。",
+    "sentence_furigana": "党【とう】の綱領【こうりょう】は時代【じだい】に即【そく】したものへと更新【こうしん】されるべきだ。",
+    "meaning": "The party's platform should be updated to suit the times."
+  },
+  {
+    "sentence": "彼は党内改革を強く主張しています。",
+    "sentence_furigana": "彼【かれ】は党内改革【とうないかいかく】を強【つよ】く主張【しゅちょう】しています。",
+    "meaning": "He strongly advocates for party reform."
+  },
+  {
+    "sentence": "党の代表団が海外を訪問しました。",
+    "sentence_furigana": "党【とう】の代表団【だいひょうだん】が海外【かいがい】を訪問【ほうもん】しました。",
+    "meaning": "A party delegation visited overseas."
+  },
+  {
+    "sentence": "党は新たな政策を発表する予定です。",
+    "sentence_furigana": "党【とう】は新【あら】たな政策【せいさく】を発表【はっぴょう】する予定【よてい】です。",
+    "meaning": "The party plans to announce new policies."
+  },
+  {
+    "sentence": "彼は党の政策に賛同しています。",
+    "sentence_furigana": "彼【かれ】は党【とう】の政策【せいさく】に賛同【さんどう】しています。",
+    "meaning": "He agrees with the party's policies."
+  },
+  {
+    "sentence": "党は国民との対話を重視します。",
+    "sentence_furigana": "党【とう】は国民【こくみん】との対話【たいわ】を重視【じゅうし】します。",
+    "meaning": "The party emphasizes dialogue with the people."
+  },
+  {
+    "sentence": "党首は国民へのメッセージを発表しました。",
+    "sentence_furigana": "党首【とうしゅ】は国民【こくみん】へのメッセージを発表【はっぴょう】しました。",
+    "meaning": "The party leader issued a message to the public."
+  },
+  {
+    "sentence": "彼は党の規約を熟読しました。",
+    "sentence_furigana": "彼【かれ】は党【とう】の規約【きやく】を熟読【じゅくどく】しました。",
+    "meaning": "He carefully read the party's rules."
+  },
+  {
+    "sentence": "党は社会全体の利益を追求します。",
+    "sentence_furigana": "党【とう】は社会全体【しゃかいぜんたい】の利益【りえき】を追求【ついきゅう】します。",
+    "meaning": "The party pursues the interests of society as a whole."
+  },
+  {
+    "sentence": "党は常に国民の声に耳を傾けています。",
+    "sentence_furigana": "党【とう】は常【つね】に国民【こくみん】の声【こえ】に耳【みみ】を傾【かたむ】けています。",
+    "meaning": "The party always listens to the voices of the people."
+  },
+  {
+    "sentence": "党の活動は多岐にわたります。",
+    "sentence_furigana": "党【とう】の活動【かつどう】は多岐【たき】にわたります。",
+    "meaning": "The party's activities are diverse."
+  },
+  {
+    "sentence": "党は国民の多様な意見を尊重します。",
+    "sentence_furigana": "党【とう】は国民【こくみん】の多様【たよう】な意見【いけん】を尊重【そんちょう】します。",
+    "meaning": "The party respects the diverse opinions of the people."
+  },
+  {
+    "sentence": "彼は党の広報戦略を練っています。",
+    "sentence_furigana": "彼【かれ】は党【とう】の広報戦略【こうほうせんりゃく】を練【ね】っています。",
+    "meaning": "He is refining the party's public relations strategy."
+  },
+  {
+    "sentence": "党は国民との間に信頼関係を築きたいと考えています。",
+    "sentence_furigana": "党【とう】は国民【こくみん】との間【あいだ】に信頼関係【しんらいかんけい】を築【きず】きたいと思【おも】っています。",
+    "meaning": "The party wants to build a relationship of trust with the people."
+  },
+  {
+    "sentence": "党の政策は国民生活の向上を目指しています。",
+    "sentence_furigana": "党【とう】の政策【せいさく】は国民生活【こくみんせいかつ】の向上【こうじょう】を目指【めざ】しています。",
+    "meaning": "The party's policies aim to improve the lives of the people."
+  },
+  {
+    "sentence": "党は将来の世代のために責任ある行動をとります。",
+    "sentence_furigana": "党【とう】は将来【しょうらい】の世代【せだい】のために責任【せきにん】ある行動【こうどう】をとります。",
+    "meaning": "The party takes responsible action for future generations."
+  },
+  {
+    "sentence": "彼は党の理念に深く共感しています。",
+    "sentence_furigana": "彼【かれ】は党【とう】の理念【りねん】に深【ふか】く共感【きょうかん】しています。",
+    "meaning": "He deeply sympathizes with the party's ideals."
+  },
+  {
+    "sentence": "党は国民の幸福を最優先します。",
+    "sentence_furigana": "党【とう】は国民【こくみん】の幸福【こうふく】を最優先【さいゆうせん】します。",
+    "meaning": "The party prioritizes the happiness of the people."
+  },
+  {
+    "sentence": "党は平和と安定の実現を目指します。",
+    "sentence_furigana": "党【とう】は平和【へいわ】と安定【あんてい】の実現【じつげん】を目指【めざ】します。",
+    "meaning": "The party aims to achieve peace and stability."
+  },
+  {
+    "sentence": "党は持続可能な社会の実現に貢献します。",
+    "sentence_furigana": "党【とう】は持続可能【じぞくかのう】な社会【しゃかい】の実現【じつげん】に貢献【こうけん】します。",
+    "meaning": "The party contributes to the realization of a sustainable society."
+  },
+  {
+    "sentence": "党は教育改革を重要な課題と位置づけています。",
+    "sentence_furigana": "党【とう】は教育改革【きょういくかいかく】を重要【じゅうよう】な課題【かだい】と位置【いち】づけています。",
+    "meaning": "The party considers educational reform an important issue."
+  },
+  {
+    "sentence": "党は地域社会の発展に力を入れています。",
+    "sentence_furigana": "党【とう】は地域社会【ちいきしゃかい】の発展【はってん】に力【ちから】を入【い】れています。",
+    "meaning": "The party focuses on the development of local communities."
+  },
+  {
+    "sentence": "党は国民一人ひとりの声を大切にします。",
+    "sentence_furigana": "党【とう】は国民【こくみん】一人ひとり【ひとりひとり】の声【こえ】を大切【たいせつ】にします。",
+    "meaning": "The party values the voice of each individual citizen."
+  }
+]

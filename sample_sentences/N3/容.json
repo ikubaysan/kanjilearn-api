@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "この部屋は広くて開放的な容をしている。",
+    "sentence_furigana": "この部屋【へや】は広【ひろ】くて開放的【かいほうてき】な容【よう】をしている。",
+    "meaning": "This room has a spacious and open form."
+  },
+  {
+    "sentence": "彼は容姿端麗で多くの人を魅了した。",
+    "sentence_furigana": "彼【かれ】は容姿端麗【ようしたんれい】で多【おお】くの人【ひと】を魅了【みりょう】した。",
+    "meaning": "He was handsome and captivated many people."
+  },
+  {
+    "sentence": "その事件の容疑者は逃走した。",
+    "sentence_furigana": "その事件【じけん】の容疑者【ようぎしゃ】は逃走【とうそう】した。",
+    "meaning": "The suspect in the case fled."
+  },
+  {
+    "sentence": "この容器は冷蔵庫に入れても大丈夫です。",
+    "sentence_furigana": "この容器【ようき】は冷蔵庫【れいぞうこ】に入【い】れても大丈夫【だいじょうぶ】です。",
+    "meaning": "This container is fine to put in the refrigerator."
+  },
+  {
+    "sentence": "彼は容赦なく敵を倒した。",
+    "sentence_furigana": "彼【かれ】は容赦【ようしゃ】なく敵【てき】を倒【たお】した。",
+    "meaning": "He mercilessly defeated the enemy."
+  },
+  {
+    "sentence": "この問題は解決が容易だ。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】が容易【ようい】だ。",
+    "meaning": "This problem is easy to solve."
+  },
+  {
+    "sentence": "彼女の要望を聞き入れてくれた。",
+    "sentence_furigana": "彼女【かのじょ】の要望【ようぼう】を聞【き】き入【い】れてくれた。",
+    "meaning": "They listened to her request."
+  },
+  {
+    "sentence": "その顔はあまりにも恐ろしい容貌だった。",
+    "sentence_furigana": "その顔【かお】はあまりにも恐【おそ】ろしい容貌【ようぼう】だった。",
+    "meaning": "That face had a terrifying appearance."
+  },
+  {
+    "sentence": "火災の際は、消火器を容易に使えるようにしておいてください。",
+    "sentence_furigana": "火災【かさい】の際【さい】は、消火器【しょうかき】を容易【ようい】に使える【つかえる】ようにしておいてください。",
+    "meaning": "In case of fire, please make the fire extinguisher easily accessible."
+  },
+  {
+    "sentence": "彼の表情は読みにくかった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は読【よ】みにくかった。",
+    "meaning": "It was hard to read his expression."
+  },
+  {
+    "sentence": "この書類には記入する欄がたくさんある。",
+    "sentence_furigana": "この書類【しょるい】には記入【きにゅう】する欄【らん】がたくさんある。",
+    "meaning": "There are many spaces to fill in on this document."
+  },
+  {
+    "sentence": "彼の説明は分かりやすく、容易に理解できた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は分【わ】かりやすく、容易【ようい】に理解【りかい】できた。",
+    "meaning": "His explanation was easy to understand."
+  },
+  {
+    "sentence": "この展示物はガラスケースの中に容れられている。",
+    "sentence_furigana": "この展示物【てんじぶつ】はガラスケースの中【なか】に容【い】れられている。",
+    "meaning": "This exhibit is contained within a glass case."
+  },
+  {
+    "sentence": "容積が大きいため、多くの荷物を運べる。",
+    "sentence_furigana": "容積【ようせき】が大【おお】きいため、多【おお】くの荷物【にもつ】を運【はこ】べる。",
+    "meaning": "Because the volume is large, it can carry a lot of luggage."
+  },
+  {
+    "sentence": "容疑者の供述は信用できない。",
+    "sentence_furigana": "容疑者【ようぎしゃ】の供述【きょうじゅつ】は信用【しんよう】できない。",
+    "meaning": "The suspect's testimony cannot be trusted."
+  },
+  {
+    "sentence": "その人物は厳しい容疑に直面している。",
+    "sentence_furigana": "その人物【じんぶつ】は厳【きび】しい容疑【ようぎ】に直面【ちょくめん】している。",
+    "meaning": "That person is facing serious accusations."
+  },
+  {
+    "sentence": "彼の容態は安定している。",
+    "sentence_furigana": "彼【かれ】の容態【ようだい】は安定【あんてい】している。",
+    "meaning": "His condition is stable."
+  },
+  {
+    "sentence": "容子を詳しく教えてください。",
+    "sentence_furigana": "容子【ようす】を詳【くわ】しく教【おし】えてください。",
+    "meaning": "Please tell me the details of the situation."
+  },
+  {
+    "sentence": "この建物は多くの人々を収容できる。",
+    "sentence_furigana": "この建物【たてもの】は多【おお】くの人々【ひとびと】を収容【しゅうよう】できる。",
+    "meaning": "This building can accommodate many people."
+  },
+  {
+    "sentence": "彼は自分のミスを容認しなかった。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のミスを容認【ようにん】しなかった。",
+    "meaning": "He did not tolerate his own mistakes."
+  },
+  {
+    "sentence": "この容器には蓋が付いている。",
+    "sentence_furigana": "この容器【ようき】には蓋【ふた】が付【つ】いている。",
+    "meaning": "This container has a lid."
+  },
+  {
+    "sentence": "容赦のない状況に彼は追い込まれた。",
+    "sentence_furigana": "容赦【ようしゃ】のない状況【じょうきょう】に彼【かれ】は追【お】い込【こ】まれた。",
+    "meaning": "He was cornered into a situation with no mercy."
+  },
+  {
+    "sentence": "この瓶には何を入れますか？",
+    "sentence_furigana": "この瓶【びん】には何【なに】を入【い】れますか？",
+    "meaning": "What will you put in this bottle?"
+  },
+  {
+    "sentence": "彼女の見た目は非常に印象的だった。",
+    "sentence_furigana": "彼女【かのじょ】の見た目【みため】は非常【ひじょう】に印象的【いんしょうてき】だった。",
+    "meaning": "Her appearance was very impressive."
+  },
+  {
+    "sentence": "その書類の内容を確認してください。",
+    "sentence_furigana": "その書類【しょるい】の内容【ないよう】を確認【かくにん】してください。",
+    "meaning": "Please check the content of that document."
+  },
+  {
+    "sentence": "容疑者は弁護士を求めた。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は弁護士【べんごし】を求【もと】めた。",
+    "meaning": "The suspect requested a lawyer."
+  },
+  {
+    "sentence": "このデザインは非常に優美な容をしている。",
+    "sentence_furigana": "このデザインは非常【ひじょう】に優美【ゆうび】な容【よう】をしている。",
+    "meaning": "This design has a very elegant form."
+  },
+  {
+    "sentence": "容子を詳しく聞かせてください。",
+    "sentence_furigana": "容子【ようす】を詳【くわ】しく聞【き】かせてください。",
+    "meaning": "Please tell me the details of the situation."
+  },
+  {
+    "sentence": "容積計算の単位は何ですか？",
+    "sentence_furigana": "容積計算【ようせきけいさん】の単位【たんい】は何【なん】ですか？",
+    "meaning": "What is the unit for volume calculation?"
+  },
+  {
+    "sentence": "この器には液体を容れることができますか？",
+    "sentence_furigana": "この器【うつわ】には液体【えきたい】を容【い】れることができますか？",
+    "meaning": "Can this container hold liquid?"
+  },
+  {
+    "sentence": "彼はその場を容易に切り抜けた。",
+    "sentence_furigana": "彼【かれ】はその場【ば】を容易【ようい】に切【き】り抜【ぬ】けた。",
+    "meaning": "He easily got out of that situation."
+  },
+  {
+    "sentence": "容疑者は黙秘権を行使した。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は黙秘権【もくひけん】を行使【こうし】した。",
+    "meaning": "The suspect exercised their right to remain silent."
+  },
+  {
+    "sentence": "彼女の表情からは何も読み取れなかった。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】からは何【なに】も読【よ】み取【と】れなかった。",
+    "meaning": "Nothing could be read from her expression."
+  },
+  {
+    "sentence": "この箱は多くの物を容れることができる。",
+    "sentence_furigana": "この箱【はこ】は多【おお】くの物【もの】を容【い】れることができる。",
+    "meaning": "This box can contain many things."
+  },
+  {
+    "sentence": "容子の変化に注意してください。",
+    "sentence_furigana": "容子【ようす】の変化【へんか】に注意【ちゅうい】してください。",
+    "meaning": "Please pay attention to changes in the situation."
+  },
+  {
+    "sentence": "彼の容疑は晴れた。",
+    "sentence_furigana": "彼【かれ】の容疑【ようぎ】は晴【は】れた。",
+    "meaning": "He was cleared of suspicion."
+  },
+  {
+    "sentence": "この容物は貴重な品々を収容している。",
+    "sentence_furigana": "この容物【ようぶつ】は貴重【きちょう】な品々【しなじな】を収容【しゅうよう】している。",
+    "meaning": "This container holds valuable items."
+  },
+  {
+    "sentence": "容疑者は取調べに協力的だった。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は取調【とりしら】べに協力的【きょうりょくてき】だった。",
+    "meaning": "The suspect was cooperative with the investigation."
+  },
+  {
+    "sentence": "容赦ない言葉が彼女の心を傷つけた。",
+    "sentence_furigana": "容赦【ようしゃ】ない言葉【ことば】が彼女【かのじょ】の心【こころ】を傷【きず】つけた。",
+    "meaning": "Merciless words hurt her heart."
+  },
+  {
+    "sentence": "この封筒にはA4サイズの書類が入りますか？",
+    "sentence_furigana": "この封筒【ふうとう】にはA4サイズ【さいず】の書類【しょるい】が入【はい】りますか？",
+    "meaning": "Does this envelope fit A4 size documents?"
+  },
+  {
+    "sentence": "容姿だけでなく、内面も大切だ。",
+    "sentence_furigana": "容姿【ようし】だけでなく、内面【ないめん】も大切【たいせつ】だ。",
+    "meaning": "Not only appearance, but inner qualities are also important."
+  },
+  {
+    "sentence": "容積の問題を解くのは容易だった。",
+    "sentence_furigana": "容積問題【ようせきもんだい】を解【と】くのは容易【ようい】だった。",
+    "meaning": "Solving the volume problem was easy."
+  },
+  {
+    "sentence": "彼は不正を容認しない。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】を容認【ようにん】しない。",
+    "meaning": "He does not tolerate injustice."
+  },
+  {
+    "sentence": "この箱の容積を教えてください。",
+    "sentence_furigana": "この箱【はこ】の容積【ようせき】を教【おし】えてください。",
+    "meaning": "Please tell me the volume of this box."
+  },
+  {
+    "sentence": "彼の表情は穏やかだった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は穏【おだ】やかだった。",
+    "meaning": "His expression was calm."
+  },
+  {
+    "sentence": "容疑者として任意同行を求められた。",
+    "sentence_furigana": "容疑者【ようぎしゃ】として任意同行【にんいどうこう】を求【もと】められた。",
+    "meaning": "He was asked to accompany them voluntarily as a suspect."
+  },
+  {
+    "sentence": "この入れ物には何を入れますか？",
+    "sentence_furigana": "この入【い】れ物【もの】には何【なに】を入【い】れますか？",
+    "meaning": "What will you put in this container?"
+  },
+  {
+    "sentence": "容姿に自信がない。",
+    "sentence_furigana": "容姿【ようし】に自信【じしん】がない。",
+    "meaning": "I don't have confidence in my appearance."
+  },
+  {
+    "sentence": "容疑者は自供した。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は自供【じきょう】した。",
+    "meaning": "The suspect confessed."
+  },
+  {
+    "sentence": "容子は日ごとに悪化していった。",
+    "sentence_furigana": "容子【ようす】は日【ひ】ごと悪化【あっか】していった。",
+    "meaning": "The condition worsened day by day."
+  },
+  {
+    "sentence": "彼女の顔には満足そうな容があった。",
+    "sentence_furigana": "彼女【かのじょ】の顔【かお】には満足【まんぞく】そうな容【よう】があった。",
+    "meaning": "There was a satisfied look on her face."
+  },
+  {
+    "sentence": "この建物は多くの観客を収容できる。",
+    "sentence_furigana": "この建物【たてもの】は多【おお】くの観客【かんきゃく】を収容【しゅうよう】できる。",
+    "meaning": "This building can accommodate many spectators."
+  },
+  {
+    "sentence": "容疑者は黙秘を続けた。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は黙秘【もくひ】を続【つづ】けた。",
+    "meaning": "The suspect continued to remain silent."
+  },
+  {
+    "sentence": "その容器は非常に頑丈な作りをしている。",
+    "sentence_furigana": "その容器【ようき】は非常【ひじょう】に頑丈【がんじょう】な作【つく】りをしておる。",
+    "meaning": "That container is very sturdily made."
+  },
+  {
+    "sentence": "容赦なく取り調べは続けられた。",
+    "sentence_furigana": "容赦【ようしゃ】なく取調【とりしら】べは続【つづ】けられた。",
+    "meaning": "The investigation continued relentlessly."
+  },
+  {
+    "sentence": "彼女の要望を叶えることは容易ではない。",
+    "sentence_furigana": "彼女【かのじょ】の要望【ようぼう】を叶【かな】えることは容易【ようい】ではない。",
+    "meaning": "It is not easy to fulfill her request."
+  },
+  {
+    "sentence": "この瓶に水を入れてください。",
+    "sentence_furigana": "この瓶【びん】に水【みず】を入【い】れてください。",
+    "meaning": "Please put water in this bottle."
+  },
+  {
+    "sentence": "彼の容疑は法廷で争われることになった。",
+    "sentence_furigana": "彼【かれ】の容疑【ようぎ】は法廷【ほうてい】で争【あらそ】われることになった。",
+    "meaning": "His charges will be contested in court."
+  },
+  {
+    "sentence": "容子は急激に悪化した。",
+    "sentence_furigana": "容子【ようす】は急激【きゅうげき】に悪化【あっか】した。",
+    "meaning": "The condition deteriorated rapidly."
+  },
+  {
+    "sentence": "このケースには多くの証拠品が容れられている。",
+    "sentence_furigana": "このケースには多【おお】くの証拠品【しょうこひん】が容【い】れられている。",
+    "meaning": "This case contains a lot of evidence."
+  },
+  {
+    "sentence": "容疑者は犯行を否認した。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は犯行【はんこう】を否認【ひにん】した。",
+    "meaning": "The suspect denied the crime."
+  },
+  {
+    "sentence": "この容器は食洗機に入れられますか？",
+    "sentence_furigana": "この容器【ようき】は食洗機【しょくせんき】に入【い】れられますか？",
+    "meaning": "Can this container be put in the dishwasher?"
+  },
+  {
+    "sentence": "彼の表情は硬かった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は硬【かた】かった。",
+    "meaning": "His expression was stiff."
+  },
+  {
+    "sentence": "容姿がすべてではない。",
+    "sentence_furigana": "容姿【ようし】がすべてではない。",
+    "meaning": "Appearance is not everything."
+  },
+  {
+    "sentence": "この容積のタンクが必要です。",
+    "sentence_furigana": "この容積【ようせき】のタンクが必要【ひつよう】です。",
+    "meaning": "We need a tank of this volume."
+  },
+  {
+    "sentence": "容疑者は尋問に耐えられなかった。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は尋問【じんもん】に耐【た】えられなかった。",
+    "meaning": "The suspect could not endure the interrogation."
+  },
+  {
+    "sentence": "容赦なく進め。",
+    "sentence_furigana": "容赦【ようしゃ】なく進【すす】め。",
+    "meaning": "Proceed without mercy."
+  },
+  {
+    "sentence": "彼女の要求は簡単だった。",
+    "sentence_furigana": "彼女【かのじょ】の要求【ようきゅう】は簡単【かんたん】だった。",
+    "meaning": "Her demand was simple."
+  },
+  {
+    "sentence": "この箱には何が入りますか？",
+    "sentence_furigana": "この箱【はこ】には何【なに】が入【はい】りますか？",
+    "meaning": "What fits in this box?"
+  },
+  {
+    "sentence": "容子の変化を詳細に記録した。",
+    "sentence_furigana": "容子【ようす】の変化【へんか】を詳細【しょうさい】に記録【きろく】した。",
+    "meaning": "I recorded the changes in the situation in detail."
+  },
+  {
+    "sentence": "その人物の容疑は重大だ。",
+    "sentence_furigana": "その人物【じんぶつ】の容疑【ようぎ】は重大【じゅうだい】だ。",
+    "meaning": "The suspicion against that person is serious."
+  },
+  {
+    "sentence": "容赦願います。",
+    "sentence_furigana": "容赦【ようしゃ】願【ねが】います。",
+    "meaning": "Please forgive me."
+  },
+  {
+    "sentence": "彼の表情は明るかった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は明【あか】るかった。",
+    "meaning": "His expression was bright."
+  },
+  {
+    "sentence": "この瓶は密閉容器です。",
+    "sentence_furigana": "この瓶【びん】は密閉容器【みっぺいようき】です。",
+    "meaning": "This bottle is an airtight container."
+  },
+  {
+    "sentence": "容疑者は証拠を隠滅しようとした。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は証拠【しょうこ】を隠滅【いんめつ】しようとした。",
+    "meaning": "The suspect attempted to destroy evidence."
+  },
+  {
+    "sentence": "彼の容体は思わしくない。",
+    "sentence_furigana": "彼【かれ】の容体【ようだい】は思【おも】わしくない。",
+    "meaning": "His condition is not favorable."
+  },
+  {
+    "sentence": "この文書には多くの情報が含まれている。",
+    "sentence_furigana": "この文書【ぶんしょ】には多【おお】くの情報【じょうほう】が含ま【ふくま】れている。",
+    "meaning": "This document contains a lot of information."
+  },
+  {
+    "sentence": "容子を聞かせてください。",
+    "sentence_furigana": "容子【ようす】を聞【き】かせてください。",
+    "meaning": "Tell me about the situation."
+  },
+  {
+    "sentence": "彼女の容姿は母に似ていた。",
+    "sentence_furigana": "彼女【かのじょ】の容姿【ようし】は母【はは】に似【に】ていた。",
+    "meaning": "Her appearance resembled her mother's."
+  },
+  {
+    "sentence": "容疑者は逃亡の恐れがある。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は逃亡【とうぼう】の恐【おそ】れがある。",
+    "meaning": "There is a risk of the suspect fleeing."
+  },
+  {
+    "sentence": "この作業は容易に進んだ。",
+    "sentence_furigana": "この作業【さぎょう】は容易【ようい】に進【すす】んだ。",
+    "meaning": "This task proceeded smoothly."
+  },
+  {
+    "sentence": "彼の表情は読み取れなかった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は読【よ】み取【と】れなかった。",
+    "meaning": "His expression could not be read."
+  },
+  {
+    "sentence": "容疑者は取り調べに対し沈黙を守った。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は取調【とりしら】べに対【たい】し沈黙【ちんもく】を守【まも】った。",
+    "meaning": "The suspect remained silent during the interrogation."
+  },
+  {
+    "sentence": "その容器は洗浄が容易である。",
+    "sentence_furigana": "その容器【ようき】は洗浄【せんじょう】が容易【ようい】である。",
+    "meaning": "That container is easy to clean."
+  },
+  {
+    "sentence": "容疑者は勾留されている。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は勾留【こうりゅう】されている。",
+    "meaning": "The suspect is in custody."
+  },
+  {
+    "sentence": "彼は容子を詳しく説明した。",
+    "sentence_furigana": "彼【かれ】は容子【ようす】を詳【くわ】しく説明【せつめい】した。",
+    "meaning": "He explained the situation in detail."
+  },
+  {
+    "sentence": "容疑者にはアリバイがあった。",
+    "sentence_furigana": "容疑者【ようぎしゃ】にはアリバイがあった。",
+    "meaning": "The suspect had an alibi."
+  },
+  {
+    "sentence": "その表情はとても自然だった。",
+    "sentence_furigana": "その表情【ひょうじょう】はとても自然【しぜん】だった。",
+    "meaning": "That expression was very natural."
+  },
+  {
+    "sentence": "この封筒の容積は十分です。",
+    "sentence_furigana": "この封筒【ふうとう】の容積【ようせき】は十分【じゅうぶん】です。",
+    "meaning": "The volume of this envelope is sufficient."
+  },
+  {
+    "sentence": "容疑者は逃亡を図った。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は逃亡【とうぼう】を図【はか】った。",
+    "meaning": "The suspect attempted to escape."
+  },
+  {
+    "sentence": "この容器はリサイクル可能ですか？",
+    "sentence_furigana": "この容器【ようき】はリサイクル可能【かのう】ですか？",
+    "meaning": "Is this container recyclable?"
+  },
+  {
+    "sentence": "彼の容疑は証明されなかった。",
+    "sentence_furigana": "彼【かれ】の容疑【ようぎ】は証明【しょうめい】されなかった。",
+    "meaning": "His guilt was not proven."
+  },
+  {
+    "sentence": "容子は改善の兆しを見せていない。",
+    "sentence_furigana": "容子【ようす】は改善【かいぜん】の兆【きざ】しを見【み】せていない。",
+    "meaning": "The condition shows no signs of improvement."
+  },
+  {
+    "sentence": "容疑者は終始無言だった。",
+    "sentence_furigana": "容疑者【ようぎしゃ】は終始無言【しゅうしむごん】だった。",
+    "meaning": "The suspect was silent throughout."
+  }
+]

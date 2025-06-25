@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は新しいマンションの10階に住んでいる。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいマンションの10階【かい】に住【す】んでいる。",
+    "meaning": "He lives on the 10th floor of the new apartment building."
+  },
+  {
+    "sentence": "この建物は地上5階建てです。",
+    "sentence_furigana": "この建物【たてもの】は地上【ちじょう】5階【かい】建【だ】てです。",
+    "meaning": "This building has 5 stories above ground."
+  },
+  {
+    "sentence": "エレベーターで上の階へ行きましょう。",
+    "sentence_furigana": "エレベーターで上【うえ】の階【かい】へ行【い】きましょう。",
+    "meaning": "Let's go to the upper floor by elevator."
+  },
+  {
+    "sentence": "階段を上るのが健康に良い。",
+    "sentence_furigana": "階段【かいだん】を上【のぼ】るのが健康【けんこう】に良【よ】い。",
+    "meaning": "Climbing the stairs is good for your health."
+  },
+  {
+    "sentence": "このビルは低層階が商業施設になっている。",
+    "sentence_furigana": "このビルは低層階【ていそうかい】が商業施設【しょうぎょうしせつ】になっている。",
+    "meaning": "The lower floors of this building are commercial facilities."
+  },
+  {
+    "sentence": "次の階には特別な展示がある。",
+    "sentence_furigana": "次【つぎ】の階【かい】には特別【とくべつ】な展示【てんじ】がある。",
+    "meaning": "There is a special exhibition on the next floor."
+  },
+  {
+    "sentence": "非常階段は通常、建物の外側に設置されている。",
+    "sentence_furigana": "非常階段【ひじょうかいだん】は通常【つうじょう】、建物【たてもの】の外側【そとがわ】に設置【せっち】されている。",
+    "meaning": "Emergency stairs are usually installed on the outside of the building."
+  },
+  {
+    "sentence": "最上階からの眺めは素晴らしい。",
+    "sentence_furigana": "最上階【さいじょうかい】からの眺【なが】めは素晴【すば】らしい。",
+    "meaning": "The view from the top floor is wonderful."
+  },
+  {
+    "sentence": "彼は階段を踏み外してしまった。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を踏【ふ】み外【はず】してしまった。",
+    "meaning": "He missed a step on the stairs."
+  },
+  {
+    "sentence": "このホテルは全15階建てです。",
+    "sentence_furigana": "このホテルは全15階【かい】建【だ】てです。",
+    "meaning": "This hotel is 15 stories high."
+  },
+  {
+    "sentence": "階を間違えて違う部屋に入ってしまった。",
+    "sentence_furigana": "階【かい】を間違【まちが】えて違【ちが】う部屋【へや】に入【はい】ってしまった。",
+    "meaning": "I mistook the floor and entered the wrong room."
+  },
+  {
+    "sentence": "地下階には駐車場がある。",
+    "sentence_furigana": "地下階【ちかけ】には駐車場【ちゅうしゃじょう】がある。",
+    "meaning": "There is a parking lot on the basement floor."
+  },
+  {
+    "sentence": "建物の各階には非常口があります。",
+    "sentence_furigana": "建物【たてもの】の各階【かくかい】には非常口【ひじょうぐち】があります。",
+    "meaning": "There is an emergency exit on each floor of the building."
+  },
+  {
+    "sentence": "階段の踊り場は広くなっている。",
+    "sentence_furigana": "階段【かいだん】の踊場【おどりば】は広【ひろ】くなっている。",
+    "meaning": "The landing of the stairs is wide."
+  },
+  {
+    "sentence": "彼は4階のオフィスの担当者です。",
+    "sentence_furigana": "彼【かれ】は4階【かい】のオフィス担当者【たんとうしゃ】です。",
+    "meaning": "He is in charge of the office on the 4th floor."
+  },
+  {
+    "sentence": "高層階では風が強い。",
+    "sentence_furigana": "高層階【こうそうかい】では風【かぜ】が強【つよ】い。",
+    "meaning": "The wind is strong on the upper floors."
+  },
+  {
+    "sentence": "この階段はとても急だ。",
+    "sentence_furigana": "この階段【かいだん】はとても急【きゅう】だ。",
+    "meaning": "These stairs are very steep."
+  },
+  {
+    "sentence": "昇降機で上がりますか、それとも階段を使いますか。",
+    "sentence_furigana": "昇降機【しょうこうき】で上【あ】がりますか、それとも階段【かいだん】を使【つか】いますか。",
+    "meaning": "Will you go up by elevator, or use the stairs?"
+  },
+  {
+    "sentence": "階層構造を理解することが重要だ。",
+    "sentence_furigana": "階層構造【かいそうこうぞう】を理解【りかい】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to understand hierarchical structures."
+  },
+  {
+    "sentence": "新しいビルは12階建てで、最上階にはレストランがある。",
+    "sentence_furigana": "新【あたら】しいビルは12階【かい】建【だ】てで、最上階【さいじょうかい】にはレストランがある。",
+    "meaning": "The new building is 12 stories high, with a restaurant on the top floor."
+  },
+  {
+    "sentence": "彼は建物の3階から飛び降りた。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の3階【かい】から飛【と】び降【お】りた。",
+    "meaning": "He jumped from the 3rd floor of the building."
+  },
+  {
+    "sentence": "階段の手すりが壊れている。",
+    "sentence_furigana": "階段【かいだん】の手摺【てす】りが壊【こわ】れている。",
+    "meaning": "The handrail of the stairs is broken."
+  },
+  {
+    "sentence": "このフロアには誰もいない、一つ上の階に行こう。",
+    "sentence_furigana": "このフロアには誰【だれ】もいない、一【ひと】つ上【うえ】の階【かい】に行【い】こう。",
+    "meaning": "There is no one on this floor, let's go to the next floor up."
+  },
+  {
+    "sentence": "建物の階層ごとに異なる機能がある。",
+    "sentence_furigana": "建物【たてもの】の階層【かいそう】ごとに行【おこな】われる機能【きのう】がある。",
+    "meaning": "Each floor of the building has a different function."
+  },
+  {
+    "sentence": "彼は階段を駆け上がった。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を駆【か】け上【あ】がった。",
+    "meaning": "He ran up the stairs."
+  },
+  {
+    "sentence": "この図書館は地下1階から地上5階まであります。",
+    "sentence_furigana": "この図書館【としょかん】は地下1階【かい】から地上【ちじょう】5階【かい】まであります。",
+    "meaning": "This library has from the 1st basement floor to the 5th above-ground floor."
+  },
+  {
+    "sentence": "火災時には非常階段を使用してください。",
+    "sentence_furigana": "火災時【かさいじ】には非常階段【ひじょうかいだん】を使用【しよう】してください。",
+    "meaning": "In case of fire, please use the emergency stairs."
+  },
+  {
+    "sentence": "彼は最上階のペントハウスに住んでいる。",
+    "sentence_furigana": "彼【かれ】は最上階【さいじょうかい】のペントハウスに住【す】んでいる。",
+    "meaning": "He lives in the penthouse on the top floor."
+  },
+  {
+    "sentence": "このビルの階数は数えるのが難しい。",
+    "sentence_furigana": "このビルのかいすうは数【かぞ】えるのが難【むずか】しい。",
+    "meaning": "It's difficult to count the number of floors in this building."
+  },
+  {
+    "sentence": "階段の滑り止めを設置する。",
+    "sentence_furigana": "階段【かいだん】の滑【す】り止【ど】めを設置【せっち】する。",
+    "meaning": "Install non-slip treads on the stairs."
+  },
+  {
+    "sentence": "彼は1階の受付で用件を伝えた。",
+    "sentence_furigana": "彼【かれ】は1階【かい】の受付【うけつけ】で用件【ようけん】を伝【つた】えた。",
+    "meaning": "He stated his business at the reception on the first floor."
+  },
+  {
+    "sentence": "この建物は全部で6階建てです。",
+    "sentence_furigana": "この建物【たてもの】は全部【ぜんぶ】で6階【かい】建【だ】てです。",
+    "meaning": "This building is 6 stories in total."
+  },
+  {
+    "sentence": "次の階に進んでください。",
+    "sentence_furigana": "次【つぎ】の階【かい】に進【すす】んでください。",
+    "meaning": "Please proceed to the next floor."
+  },
+  {
+    "sentence": "階段の踊り場にベンチがある。",
+    "sentence_furigana": "階段【かいだん】の踊場【おどりば】にベンチがある。",
+    "meaning": "There is a bench on the landing of the stairs."
+  },
+  {
+    "sentence": "彼は3階の事務所で働いている。",
+    "sentence_furigana": "彼【かれ】は3階【かい】の事務所【じむしょ】で働【はたら】いている。",
+    "meaning": "He works in the office on the 3rd floor."
+  },
+  {
+    "sentence": "高層階からの見晴らしは最高だ。",
+    "sentence_furigana": "高層階【こうそうかい】からの見晴【みは】らしは最高【さいこう】だ。",
+    "meaning": "The view from the high floors is the best."
+  },
+  {
+    "sentence": "この階段は木の素材で作られている。",
+    "sentence_furigana": "この階段【かいだん】は木【き】の素材【そざい】で作成【さくせい】されている。",
+    "meaning": "These stairs are made of wood."
+  },
+  {
+    "sentence": "私はその建物の最上階にいる。",
+    "sentence_furigana": "私【わたし】はその建物【たてもの】の最上階【さいじょうかい】にいる。",
+    "meaning": "I am on the top floor of that building."
+  },
+  {
+    "sentence": "彼は非常階段を降りていった。",
+    "sentence_furigana": "彼【かれ】は非常階段【ひじょうかいだん】を降【お】りていった。",
+    "meaning": "He went down the emergency stairs."
+  },
+  {
+    "sentence": "このホテルは全部で20階建てです。",
+    "sentence_furigana": "このホテルは全部【ぜんぶ】で20階【かい】建【だ】てです。",
+    "meaning": "This hotel is 20 stories high."
+  },
+  {
+    "sentence": "階級社会は過去のものとなった。",
+    "sentence_furigana": "階級社会【かいきゅうしゃかい】は過去【かこ】のものとなった。",
+    "meaning": "Class society has become a thing of the past."
+  },
+  {
+    "sentence": "彼は階段で足を滑らせた。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】で足【あし】を滑【すべ】らせた。",
+    "meaning": "He slipped on the stairs."
+  },
+  {
+    "sentence": "このビルには地下2階まであります。",
+    "sentence_furigana": "このビルには地下2階【かい】まであります。",
+    "meaning": "This building has up to the 2nd basement floor."
+  },
+  {
+    "sentence": "上の階へどうぞ。",
+    "sentence_furigana": "上【うえ】の階【かい】へどうぞ。",
+    "meaning": "Please go to the upper floor."
+  },
+  {
+    "sentence": "階段の横に非常口がある。",
+    "sentence_furigana": "階段【かいだん】の横【よこ】に非常口【ひじょうぐち】がある。",
+    "meaning": "There is an emergency exit next to the stairs."
+  },
+  {
+    "sentence": "彼女は新しい会社の5階で働いている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい会社【かいしゃ】の5階【かい】で働【はたら】いている。",
+    "meaning": "She works on the 5th floor of the new company."
+  },
+  {
+    "sentence": "この建物は低層階と高層階に分かれている。",
+    "sentence_furigana": "この建物【たてもの】は低層階【ていそうかい】と高層階【こうそうかい】に分【わ】かれている。",
+    "meaning": "This building is divided into lower and upper floors."
+  },
+  {
+    "sentence": "彼は階段をゆっくりと降りてきた。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】をゆっくりと降【お】りてきた。",
+    "meaning": "He slowly descended the stairs."
+  },
+  {
+    "sentence": "この美術館は全6階で、各階に異なるテーマの展示がある。",
+    "sentence_furigana": "この美術館【びじゅつかん】は全6階【かい】で、各階【かくかい】に異【こと】なるテーマの展示【てんじ】がある。",
+    "meaning": "This art museum has 6 floors in total, with exhibits on different themes on each floor."
+  },
+  {
+    "sentence": "彼は階段から落ちそうになった。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】から落【お】ちそうになった。",
+    "meaning": "He almost fell down the stairs."
+  },
+  {
+    "sentence": "このビルは地上7階建てです。",
+    "sentence_furigana": "このビルは地上【ちじょう】7階【かい】建【だ】てです。",
+    "meaning": "This building has 7 stories above ground."
+  },
+  {
+    "sentence": "階段の幅は十分に広い。",
+    "sentence_furigana": "階段【かいだん】の幅【はば】は十分【じゅうぶん】に広【ひろ】い。",
+    "meaning": "The width of the stairs is sufficiently wide."
+  },
+  {
+    "sentence": "彼は建物の最上階に向かった。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の最上階【さいじょうかい】に向【む】かった。",
+    "meaning": "He headed for the top floor of the building."
+  },
+  {
+    "sentence": "このビルは全部で15階あります。",
+    "sentence_furigana": "このビルは全部【ぜんぶ】で15階【かい】あります。",
+    "meaning": "This building has 15 floors in total."
+  },
+  {
+    "sentence": "彼は階段の途中で休憩した。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】の途中【とちゅう】で休憩【きゅうけい】した。",
+    "meaning": "He took a break midway up the stairs."
+  },
+  {
+    "sentence": "次の階にカフェがあります。",
+    "sentence_furigana": "次【つぎ】の階【かい】にカフェがあります。",
+    "meaning": "There is a cafe on the next floor."
+  },
+  {
+    "sentence": "この建物は地下階を含めると8階建てになる。",
+    "sentence_furigana": "この建物【たてもの】は地下階【ちかけ】を含【ふく】めると8階【かい】建【だ】てになる。",
+    "meaning": "This building has 8 stories including the basement floors."
+  },
+  {
+    "sentence": "階段の段差に注意してください。",
+    "sentence_furigana": "階段【かいだん】の段差【だんさ】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of the steps on the stairs."
+  },
+  {
+    "sentence": "彼は建物の4階で会議に出席した。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の4階【かい】で会議【かいぎ】に出席【しゅっせき】した。",
+    "meaning": "He attended a meeting on the 4th floor of the building."
+  },
+  {
+    "sentence": "高層階では静かに過ごすことができる。",
+    "sentence_furigana": "高層階【こうそうかい】では静【しず】かに過【す】ごすことができる。",
+    "meaning": "One can spend time peacefully on the upper floors."
+  },
+  {
+    "sentence": "この階段は非常用のものです。",
+    "sentence_furigana": "この階段【かいだん】は非常用【ひじょうよう】のものです。",
+    "meaning": "These stairs are for emergency use."
+  },
+  {
+    "sentence": "彼は階段を駆け下りてきた。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を駆【か】け降【お】りてきた。",
+    "meaning": "He ran down the stairs."
+  },
+  {
+    "sentence": "このビルは全部で10階建てのオフィスビルです。",
+    "sentence_furigana": "このビルは全部【ぜんぶ】で10階【かい】建【だ】てのオフィスビルです。",
+    "meaning": "This building is a 10-story office building."
+  },
+  {
+    "sentence": "彼は建物の最上階にあるバーに行った。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の最上階【さいじょうかい】にあるバーに行【い】った。",
+    "meaning": "He went to the bar on the top floor of the building."
+  },
+  {
+    "sentence": "この階段はとても急で危険です。",
+    "sentence_furigana": "この階段【かいだん】はとても急【きゅう】で危険【きけん】です。",
+    "meaning": "These stairs are very steep and dangerous."
+  },
+  {
+    "sentence": "彼は建物の3階にオフィスを構えている。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の3階【かい】にオフィスを構【かま】えている。",
+    "meaning": "He has an office on the 3rd floor of the building."
+  },
+  {
+    "sentence": "低層階は一般公開されている。",
+    "sentence_furigana": "低層階【ていそうかい】は一般公開【いっぱんこうかい】されている。",
+    "meaning": "The lower floors are open to the public."
+  },
+  {
+    "sentence": "彼は階段を降りるのが得意だ。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を降【お】りるのが得意【とくい】だ。",
+    "meaning": "He is good at going down stairs."
+  },
+  {
+    "sentence": "このビルは全部で25階まであります。",
+    "sentence_furigana": "このビルは全部【ぜんぶ】で25階【かい】まであります。",
+    "meaning": "This building has up to 25 floors."
+  },
+  {
+    "sentence": "彼は階段に荷物を置いた。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】に荷物【にもつ】を置【お】いた。",
+    "meaning": "He placed luggage on the stairs."
+  },
+  {
+    "sentence": "次の階には会議室があります。",
+    "sentence_furigana": "次【つぎ】の階【かい】には会議室【かいぎしつ】があります。",
+    "meaning": "There is a meeting room on the next floor."
+  },
+  {
+    "sentence": "彼は建物の最上階からの景色を楽しんだ。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の最上階【さいじょうかい】からの景色【けしき】を楽し【たの】しんだ。",
+    "meaning": "He enjoyed the view from the top floor of the building."
+  },
+  {
+    "sentence": "この階段は滑りやすいので注意してください。",
+    "sentence_furigana": "この階段【かいだん】は滑【す】りやすいので注意【ちゅうい】してください。",
+    "meaning": "Please be careful as these stairs are slippery."
+  },
+  {
+    "sentence": "彼は建物の地上階に駐車場を設けている。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の地上階【ちじょうかい】に駐車場【ちゅうしゃじょう】を設【もう】けている。",
+    "meaning": "He has set up parking on the ground floor of the building."
+  },
+  {
+    "sentence": "このホテルは全部で12階建てです。",
+    "sentence_furigana": "このホテルは全部【ぜんぶ】で12階【かい】建【だ】てです。",
+    "meaning": "This hotel is 12 stories high."
+  },
+  {
+    "sentence": "彼は階段を一段ずつ上がっていった。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を一段【いちだん】ずつ上【あ】がっていった。",
+    "meaning": "He went up the stairs one step at a time."
+  },
+  {
+    "sentence": "建物の階層が複雑で迷子になりそうだ。",
+    "sentence_furigana": "建物【たてもの】の階層【かいそう】が複雑【ふくざつ】で迷子【まいご】になりそうだ。",
+    "meaning": "The building's layout is complex, and I feel like I might get lost."
+  },
+  {
+    "sentence": "彼は階段の途中で足を止めないでください。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】の途中【とちゅう】で足【あし】を止【と】めないでください。",
+    "meaning": "Please do not stop on the stairs."
+  },
+  {
+    "sentence": "このビルは全部で8階建てです。",
+    "sentence_furigana": "このビルは全部【ぜんぶ】で8階【かい】建【だ】てです。",
+    "meaning": "This building is 8 stories high."
+  },
+  {
+    "sentence": "彼は最上階の部屋からの眺めを堪能した。",
+    "sentence_furigana": "彼【かれ】は最上階【さいじょうかい】の部屋【へや】からの眺【なが】めを堪能【たんのう】した。",
+    "meaning": "He enjoyed the view from the room on the top floor."
+  },
+  {
+    "sentence": "階段の手すりが滑りやすくなっている。",
+    "sentence_furigana": "階段【かいだん】の手摺【てす】りが滑【す】りやすくなっている。",
+    "meaning": "The handrail of the stairs has become slippery."
+  },
+  {
+    "sentence": "この建物は地上4階建てです。",
+    "sentence_furigana": "この建物【たてもの】は地上【ちじょう】4階【かい】建【だ】てです。",
+    "meaning": "This building has 4 stories above ground."
+  },
+  {
+    "sentence": "彼は階段を上がるのが好きだ。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を上【あ】がるのが好【す】きだ。",
+    "meaning": "He likes going up the stairs."
+  },
+  {
+    "sentence": "このビルは全部で5階建てです。",
+    "sentence_furigana": "このビルは全部【ぜんぶ】で5階【かい】建【だ】てです。",
+    "meaning": "This building is 5 stories high."
+  },
+  {
+    "sentence": "彼は建物の最上階に特別な部屋を見つけた。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の最上階【さいじょうかい】に特別【とくべつ】な部屋【へや】を見付【み】つけた。",
+    "meaning": "He found a special room on the top floor of the building."
+  },
+  {
+    "sentence": "階段の踊り場に注意。",
+    "sentence_furigana": "階段【かいだん】の踊場【おどりば】に注意【ちゅうい】。",
+    "meaning": "Caution on the stair landing."
+  },
+  {
+    "sentence": "彼はこの建物の6階に勤めている。",
+    "sentence_furigana": "彼【かれ】はこの建物【たてもの】の6階【かい】に勤【つと】めている。",
+    "meaning": "He works on the 6th floor of this building."
+  },
+  {
+    "sentence": "建物の階層ごとに異なるデザインが施されている。",
+    "sentence_furigana": "建物【たてもの】の階層【かいそう】ごとになされるデザインが施【ほどこ】されている。",
+    "meaning": "Different designs are applied to each floor of the building."
+  },
+  {
+    "sentence": "彼は階段を踏み外さないように気をつけた。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を踏【ふ】み外【はず】さないように気【き】をつけた。",
+    "meaning": "He was careful not to miss a step on the stairs."
+  },
+  {
+    "sentence": "このビルは全部で7階建てです。",
+    "sentence_furigana": "このビルは全部【ぜんぶ】で7階【かい】建【だ】てです。",
+    "meaning": "This building is 7 stories high."
+  },
+  {
+    "sentence": "彼は建物の最上階に住みたいと思っている。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の最上階【さいじょうかい】に住【す】みたいと思【おも】っている。",
+    "meaning": "He wants to live on the top floor of the building."
+  },
+  {
+    "sentence": "階段の照明が暗い。",
+    "sentence_furigana": "階段【かいだん】の照明【しょうめい】が暗【くら】い。",
+    "meaning": "The lighting on the stairs is dim."
+  },
+  {
+    "sentence": "彼は階段を上る速さが速い。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】を上【あ】がる速【はや】さが速【はや】い。",
+    "meaning": "He is fast at climbing stairs."
+  },
+  {
+    "sentence": "この建物は全部で10階建てです。",
+    "sentence_furigana": "この建物【たてもの】は全部【ぜんぶ】で10階【かい】建【だ】てです。",
+    "meaning": "This building is 10 stories high."
+  },
+  {
+    "sentence": "彼は建物の2階にいる。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の2階【かい】にいる。",
+    "meaning": "He is on the 2nd floor of the building."
+  },
+  {
+    "sentence": "このビルには地上階と地下階があります。",
+    "sentence_furigana": "このビルには地上階【ちじょうかい】と地下階【ちかけ】があります。",
+    "meaning": "This building has ground floors and basement floors."
+  },
+  {
+    "sentence": "彼は階段をゆっくりと上がっていった。",
+    "sentence_furigana": "彼【かれ】は階段【かいだん】をゆっくりと上【あ】がっていった。",
+    "meaning": "He slowly went up the stairs."
+  },
+  {
+    "sentence": "この建物は全部で15階建てです。",
+    "sentence_furigana": "この建物【たてもの】は全部【ぜんぶ】で15階【かい】建【だ】てです。",
+    "meaning": "This building is 15 stories high."
+  },
+  {
+    "sentence": "彼は建物の最上階までたどり着いた。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の最上階【さいじょうかい】までたどり着【つ】いた。",
+    "meaning": "He finally reached the top floor of the building."
+  },
+  {
+    "sentence": "階段に注意。滑りやすい所があります。",
+    "sentence_furigana": "階段【かいだん】に注意【ちゅうい】。滑【す】りやすい所【ところ】があります。",
+    "meaning": "Caution on the stairs. Some parts are slippery."
+  },
+  {
+    "sentence": "彼は建物の1階に案内された。",
+    "sentence_furigana": "彼【かれ】は建物【たてもの】の1階【かい】に案内【あんない】された。",
+    "meaning": "He was guided to the 1st floor of the building."
+  }
+]

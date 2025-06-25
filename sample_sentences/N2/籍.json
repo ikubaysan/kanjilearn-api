@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "彼は戸籍謄本を取りに行った。",
+    "sentence_furigana": "彼【かれ】は戸籍謄本【こせきとうほん】を取【と】りに行【い】った。",
+    "meaning": "He went to get a copy of his family register."
+  },
+  {
+    "sentence": "彼女は歴史的文献の籍を探している。",
+    "sentence_furigana": "彼女【かのじょ】は歴史的文献【れきしてきぶんけん】の籍【せき】を探【さが】している。",
+    "meaning": "She is looking for the register of historical documents."
+  },
+  {
+    "sentence": "この本は図書館の籍に登録されている。",
+    "sentence_furigana": "この本【ほん】は図書館【としょかん】の籍【せき】に登録【とうろく】されている。",
+    "meaning": "This book is registered in the library's catalog."
+  },
+  {
+    "sentence": "入学手続きのため、住民票の写しが必要だ。",
+    "sentence_furigana": "入学手続き【にゅうがくてつづき】のため、住民票【じゅうみんひょう】の写【うつ】しが必要【ひつよう】だ。",
+    "meaning": "A copy of the resident certificate is required for enrollment procedures."
+  },
+  {
+    "sentence": "彼は新しい籍に名前を移した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい籍【せき】に名前【なまえ】を移【うつ】した。",
+    "meaning": "He transferred his name to the new register."
+  },
+  {
+    "sentence": "その会員は籍を抹消された。",
+    "sentence_furigana": "その会員【かいいん】は籍【せき】を抹消【まっしょう】された。",
+    "meaning": "The member's registration was cancelled."
+  },
+  {
+    "sentence": "大学の籍を置いている。",
+    "sentence_furigana": "大学【だいがく】の籍【せき】を置【お】いている。",
+    "meaning": "He is affiliated with the university."
+  },
+  {
+    "sentence": "籍に記載されている情報が古い。",
+    "sentence_furigana": "籍【せき】に記載【きさい】されている情報【じょうほう】が古【ふる】い。",
+    "meaning": "The information recorded in the register is old."
+  },
+  {
+    "sentence": "籍を調べる必要がある。",
+    "sentence_furigana": "籍【せき】を調【しら】べる必要【ひつよう】がある。",
+    "meaning": "It is necessary to check the register."
+  },
+  {
+    "sentence": "彼は古い籍から新しい籍へと移った。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い籍【せき】から新【あたら】しい籍【せき】へと移【うつ】った。",
+    "meaning": "He moved from the old register to the new one."
+  },
+  {
+    "sentence": "戸籍に関する手続きは複雑だ。",
+    "sentence_furigana": "戸籍【こせき】に関【かん】する手続き【てつづき】は複雑【ふくざつ】だ。",
+    "meaning": "Procedures related to the family register are complicated."
+  },
+  {
+    "sentence": "籍の変更を届け出た。",
+    "sentence_furigana": "籍【せき】の変更【へんこう】を届【とど】け出【だ】した。",
+    "meaning": "I reported the change in registration."
+  },
+  {
+    "sentence": "籍を有する者が限られている。",
+    "sentence_furigana": "籍【せき】を有する【ゆうする】者【もの】が限【かぎ】られている。",
+    "meaning": "Only those with registration are eligible."
+  },
+  {
+    "sentence": "新しい籍が発行された。",
+    "sentence_furigana": "新【あたら】しい籍【せき】が発行【はっこう】された。",
+    "meaning": "A new register has been issued."
+  },
+  {
+    "sentence": "彼は籍を登録することにした。",
+    "sentence_furigana": "彼【かれ】は籍【せき】を登録【とうろく】することにした。",
+    "meaning": "He decided to register."
+  },
+  {
+    "sentence": "籍に誤りがないか確認してください。",
+    "sentence_furigana": "籍【せき】に誤【あやま】りがないか確認【かくにん】してください。",
+    "meaning": "Please check if there are any errors in the register."
+  },
+  {
+    "sentence": "籍を元に身元を確認する。",
+    "sentence_furigana": "籍【せき】を元【もと】に身元【みもと】を確認【かくにん】する。",
+    "meaning": "Confirm identity based on the register."
+  },
+  {
+    "sentence": "籍を保持している。",
+    "sentence_furigana": "籍【せき】を保持【ほじ】している。",
+    "meaning": "Holding the registration."
+  },
+  {
+    "sentence": "籍を抹消する手続き。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】する手続き【てつづき】。",
+    "meaning": "Procedure to cancel registration."
+  },
+  {
+    "sentence": "籍の更新が必要になる。",
+    "sentence_furigana": "籍【せき】の更新【こうしん】が必要【ひつよう】になる。",
+    "meaning": "Registration renewal will be necessary."
+  },
+  {
+    "sentence": "籍がなければサービスを受けられない。",
+    "sentence_furigana": "籍【せき】がなければサービスを受【う】けられない。",
+    "meaning": "You cannot receive the service without registration."
+  },
+  {
+    "sentence": "籍の内容を確認しました。",
+    "sentence_furigana": "籍【せき】の内容【ないよう】を確認【かくにん】しました。",
+    "meaning": "I have confirmed the contents of the register."
+  },
+  {
+    "sentence": "籍を移す手続きを進める。",
+    "sentence_furigana": "籍【せき】を移【うつ】す手続き【てつづき】を進【すす】める。",
+    "meaning": "Proceed with the procedure to transfer registration."
+  },
+  {
+    "sentence": "籍簿を閲覧する。",
+    "sentence_furigana": "籍簿【せきぼ】を閲覧【えつらん】する。",
+    "meaning": "To browse the register book."
+  },
+  {
+    "sentence": "籍に古い情報が残っている。",
+    "sentence_furigana": "籍【せき】に古【ふる】い情報【じょうほう】が残【のこ】っている。",
+    "meaning": "Old information remains in the register."
+  },
+  {
+    "sentence": "籍を新たに作成する。",
+    "sentence_furigana": "籍【せき】を新【あら】たに作成【さくせい】する。",
+    "meaning": "Create a new register."
+  },
+  {
+    "sentence": "籍の証明書を申請する。",
+    "sentence_furigana": "籍【せき】の証明書【しょうめいしょ】を申請【しんせい】する。",
+    "meaning": "Apply for a certificate of registration."
+  },
+  {
+    "sentence": "籍を抹消してほしい。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】してほしい。",
+    "meaning": "I want the registration to be cancelled."
+  },
+  {
+    "sentence": "籍の記録を確認する。",
+    "sentence_furigana": "籍【せき】の記録【きろく】を確認【かくにん】する。",
+    "meaning": "Check the records of the register."
+  },
+  {
+    "sentence": "籍がないと証明できない。",
+    "sentence_furigana": "籍【せき】がないと証明【しょうめい】できない。",
+    "meaning": "Cannot prove without registration."
+  },
+  {
+    "sentence": "籍を整理する。",
+    "sentence_furigana": "籍【せき】を整理【せいり】する。",
+    "meaning": "Organize the register."
+  },
+  {
+    "sentence": "籍の氏名が一致しない。",
+    "sentence_furigana": "籍【せき】の氏名【しめい】が一致【いっち】しない。",
+    "meaning": "The name in the register does not match."
+  },
+  {
+    "sentence": "籍を移動する。",
+    "sentence_furigana": "籍【せき】を移動【いどう】する。",
+    "meaning": "Move the registration."
+  },
+  {
+    "sentence": "籍の情報を更新する。",
+    "sentence_furigana": "籍【せき】の情報【じょうほう】を更新【こうしん】する。",
+    "meaning": "Update the registration information."
+  },
+  {
+    "sentence": "籍がないために困っている。",
+    "sentence_furigana": "籍【せき】がないために困【こま】っている。",
+    "meaning": "I am having trouble because I have no registration."
+  },
+  {
+    "sentence": "籍に登録されている。",
+    "sentence_furigana": "籍【せき】に登録【とうろく】されている。",
+    "meaning": "It is registered in the register."
+  },
+  {
+    "sentence": "籍を抹消された。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】された。",
+    "meaning": "The registration was cancelled."
+  },
+  {
+    "sentence": "籍を調べる。",
+    "sentence_furigana": "籍【せき】を調【しら】べる。",
+    "meaning": "To look up the register."
+  },
+  {
+    "sentence": "籍の変更。",
+    "sentence_furigana": "籍【せき】の変更【へんこう】。",
+    "meaning": "Change of registration."
+  },
+  {
+    "sentence": "籍を保持する。",
+    "sentence_furigana": "籍【せき】を保持【ほじ】する。",
+    "meaning": "To maintain registration."
+  },
+  {
+    "sentence": "籍がない。",
+    "sentence_furigana": "籍【せき】がない。",
+    "meaning": "There is no registration."
+  },
+  {
+    "sentence": "籍を調べる必要がある。",
+    "sentence_furigana": "籍【せき】を調【しら】べる必要【ひつよう】がある。",
+    "meaning": "It is necessary to check the register."
+  },
+  {
+    "sentence": "彼は籍を抹消された。",
+    "sentence_furigana": "彼【かれ】は籍【せき】を抹消【まっしょう】された。",
+    "meaning": "His registration was cancelled."
+  },
+  {
+    "sentence": "籍の記載事項を確認してください。",
+    "sentence_furigana": "籍【せき】の記載事項【きさいじこう】を確認【かくにん】してください。",
+    "meaning": "Please check the registered items."
+  },
+  {
+    "sentence": "籍がないと住民票が発行されない。",
+    "sentence_furigana": "籍【せき】がないと住民票【じゅうみんひょう】が発行【はっこう】されない。",
+    "meaning": "A resident certificate cannot be issued without registration."
+  },
+  {
+    "sentence": "籍に登録された情報。",
+    "sentence_furigana": "籍【せき】に登録【とうろく】された情報【じょうほう】。",
+    "meaning": "Information registered in the register."
+  },
+  {
+    "sentence": "籍を移動する手続き。",
+    "sentence_furigana": "籍【せき】を移動【いどう】する手続き【てつづき】。",
+    "meaning": "Procedure for transferring registration."
+  },
+  {
+    "sentence": "籍を抹消するには理由が必要だ。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】するには理由【りゆう】が必要【ひつよう】だ。",
+    "meaning": "A reason is required to cancel the registration."
+  },
+  {
+    "sentence": "籍を変更した。",
+    "sentence_furigana": "籍【せき】を変更【へんこう】した。",
+    "meaning": "Changed the registration."
+  },
+  {
+    "sentence": "籍に新しい名前が追加された。",
+    "sentence_furigana": "籍【せき】に新【あたら】しい名前【なまえ】が追加【ついか】された。",
+    "meaning": "A new name was added to the register."
+  },
+  {
+    "sentence": "籍を抹消する。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】する。",
+    "meaning": "To cancel registration."
+  },
+  {
+    "sentence": "籍の情報を更新しました。",
+    "sentence_furigana": "籍【せき】の情報【じょうほう】を更新【こうしん】しました。",
+    "meaning": "Updated the registration information."
+  },
+  {
+    "sentence": "籍がないと困る。",
+    "sentence_furigana": "籍【せき】がないと困【こま】る。",
+    "meaning": "It's a problem not to have registration."
+  },
+  {
+    "sentence": "籍の記録。",
+    "sentence_furigana": "籍【せき】の記録【きろく】。",
+    "meaning": "Register records."
+  },
+  {
+    "sentence": "籍を調べたい。",
+    "sentence_furigana": "籍【せき】を調【しら】べたい。",
+    "meaning": "I want to look up the register."
+  },
+  {
+    "sentence": "籍に登録する。",
+    "sentence_furigana": "籍【せき】に登録【とうろく】する。",
+    "meaning": "To register in the register."
+  },
+  {
+    "sentence": "籍の変更手続き。",
+    "sentence_furigana": "籍【せき】の変更【へんこう】手続き【てつづき】。",
+    "meaning": "Registration change procedure."
+  },
+  {
+    "sentence": "籍がない人は手続きができない。",
+    "sentence_furigana": "籍【せき】がない人【ひと】は手続き【てつづき】ができない。",
+    "meaning": "People without registration cannot complete the procedure."
+  },
+  {
+    "sentence": "籍の抹消。",
+    "sentence_furigana": "籍【せき】の抹消【まっしょう】。",
+    "meaning": "Cancellation of registration."
+  },
+  {
+    "sentence": "籍に記載されている。",
+    "sentence_furigana": "籍【せき】に記載【きさい】されている。",
+    "meaning": "It is recorded in the register."
+  },
+  {
+    "sentence": "籍を移動した。",
+    "sentence_furigana": "籍【せき】を移動【いどう】した。",
+    "meaning": "Moved the registration."
+  },
+  {
+    "sentence": "籍を変更する必要がある。",
+    "sentence_furigana": "籍【せき】を変更【へんこう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to change the registration."
+  },
+  {
+    "sentence": "籍の登録。",
+    "sentence_furigana": "籍【せき】の登録【とうろく】。",
+    "meaning": "Registration."
+  },
+  {
+    "sentence": "籍がない場合。",
+    "sentence_furigana": "籍【せき】がない場合【ばあい】。",
+    "meaning": "In case of no registration."
+  },
+  {
+    "sentence": "籍の記録が残っている。",
+    "sentence_furigana": "籍【せき】の記録【きろく】が残【のこ】っている。",
+    "meaning": "The records of the register remain."
+  },
+  {
+    "sentence": "籍を抹消してください。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】してください。",
+    "meaning": "Please cancel the registration."
+  },
+  {
+    "sentence": "籍がないと証明書が取れない。",
+    "sentence_furigana": "籍【せき】がないと証明書【しょうめいしょ】が取【と】れない。",
+    "meaning": "A certificate cannot be obtained without registration."
+  },
+  {
+    "sentence": "籍に登録。",
+    "sentence_furigana": "籍【せき】に登録【とうろく】。",
+    "meaning": "Registration in the register."
+  },
+  {
+    "sentence": "籍がない。",
+    "sentence_furigana": "籍【せき】がない。",
+    "meaning": "There is no registration."
+  },
+  {
+    "sentence": "籍が抹消された。",
+    "sentence_furigana": "籍【せき】が抹消【まっしょう】された。",
+    "meaning": "The registration was cancelled."
+  },
+  {
+    "sentence": "籍を更新する。",
+    "sentence_furigana": "籍【せき】を更新【こうしん】する。",
+    "meaning": "To update the registration."
+  },
+  {
+    "sentence": "籍がないと進められない。",
+    "sentence_furigana": "籍【せき】がないと進【すす】められない。",
+    "meaning": "Cannot proceed without registration."
+  },
+  {
+    "sentence": "籍の変更。",
+    "sentence_furigana": "籍【せき】の変更【へんこう】。",
+    "meaning": "Change of registration."
+  },
+  {
+    "sentence": "籍を抹消された。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】された。",
+    "meaning": "The registration was cancelled."
+  },
+  {
+    "sentence": "籍の移動。",
+    "sentence_furigana": "籍【せき】の移動【いどう】。",
+    "meaning": "Transfer of registration."
+  },
+  {
+    "sentence": "籍の登録情報。",
+    "sentence_furigana": "籍【せき】の登録情報【とうろくじょうほう】。",
+    "meaning": "Registration information."
+  },
+  {
+    "sentence": "籍がない。",
+    "sentence_furigana": "籍【せき】がない。",
+    "meaning": "There is no registration."
+  },
+  {
+    "sentence": "籍を抹消する。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】する。",
+    "meaning": "To cancel registration."
+  },
+  {
+    "sentence": "籍の更新。",
+    "sentence_furigana": "籍【せき】の更新【こうしん】。",
+    "meaning": "Renewal of registration."
+  },
+  {
+    "sentence": "籍がない。",
+    "sentence_furigana": "籍【せき】がない。",
+    "meaning": "There is no registration."
+  },
+  {
+    "sentence": "籍を抹消されました。",
+    "sentence_furigana": "籍【せき】を抹消【まっしょう】されました。",
+    "meaning": "The registration was cancelled."
+  },
+  {
+    "sentence": "籍の変更について質問があります。",
+    "sentence_furigana": "籍【せき】の変更【へんこう】について質問【しつもん】があります。",
+    "meaning": "I have a question about the change of registration."
+  },
+  {
+    "sentence": "籍に記録されている。",
+    "sentence_furigana": "籍【せき】に記録【きろく】されている。",
+    "meaning": "It is recorded in the register."
+  },
+  {
+    "sentence": "籍の抹消はできません。",
+    "sentence_furigana": "籍【せき】の抹消【まっしょう】はできません。",
+    "meaning": "Cancellation of registration is not possible."
+  },
+  {
+    "sentence": "籍を移動しました。",
+    "sentence_furigana": "籍【せき】を移動【いどう】しました。",
+    "meaning": "Moved the registration."
+  },
+  {
+    "sentence": "籍の更新は必要ですか。",
+    "sentence_furigana": "籍【せき】の更新【こうしん】は必要【ひつよう】ですか。",
+    "meaning": "Is registration renewal necessary?"
+  },
+  {
+    "sentence": "籍の抹消に関する手続き。",
+    "sentence_furigana": "籍【せき】の抹消【まっしょう】に関【かん】する手続き【てつづき】。",
+    "meaning": "Procedures regarding cancellation of registration."
+  },
+  {
+    "sentence": "籍がない。",
+    "sentence_furigana": "籍【せき】がない。",
+    "meaning": "There is no registration."
+  },
+  {
+    "sentence": "籍を変更する必要がある。",
+    "sentence_furigana": "籍【せき】を変更【へんこう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to change the registration."
+  },
+  {
+    "sentence": "籍の登録内容を確認する。",
+    "sentence_furigana": "籍【せき】の登録内容【とうろくないよう】を確認【かくにん】する。",
+    "meaning": "Confirm the registration details."
+  },
+  {
+    "sentence": "籍の抹消について問い合わせた。",
+    "sentence_furigana": "籍【せき】の抹消【まっしょう】について問【と】い合【あ】わせた。",
+    "meaning": "Inquired about the cancellation of registration."
+  },
+  {
+    "sentence": "籍に新しい情報を登録した。",
+    "sentence_furigana": "籍【せき】に新【あたら】しい情報【じょうほう】を登録【とうろく】した。",
+    "meaning": "Registered new information in the register."
+  }
+]

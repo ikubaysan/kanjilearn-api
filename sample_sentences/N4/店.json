@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "この店は品揃えが豊富だ。",
+    "sentence_furigana": "この店【みせ】は品揃【しなぞろ】えが豊富【ほうふ】だ。",
+    "meaning": "This shop has a rich selection of goods."
+  },
+  {
+    "sentence": "新しいレストランの店員が足りない。",
+    "sentence_furigana": "新【あたら】しいレストランの店員【てんいん】が足【た】りない。",
+    "meaning": "The new restaurant is short-staffed."
+  },
+  {
+    "sentence": "彼は駅前の店で働いている。",
+    "sentence_furigana": "彼【かれ】は駅前【えきまえ】の店【みせ】で働【はたら】いている。",
+    "meaning": "He works at a shop in front of the station."
+  },
+  {
+    "sentence": "本屋の店先で立ち読みをした。",
+    "sentence_furigana": "本屋【ほんや】の店先【みせさき】で立【た】ち読【よ】みをした。",
+    "meaning": "I did some window shopping at the bookstore."
+  },
+  {
+    "sentence": "あの店はいつも行列ができている。",
+    "sentence_furigana": "あの店【みせ】はいつも行列【ぎょうれつ】ができている。",
+    "meaning": "That shop always has a line of people."
+  },
+  {
+    "sentence": "店を開ける前に掃除をしなければならない。",
+    "sentence_furigana": "店【みせ】を開【あ】ける前【まえ】に掃除【そうじ】をしなければならない。",
+    "meaning": "I have to clean before opening the shop."
+  },
+  {
+    "sentence": "古着屋の店主は親切だった。",
+    "sentence_furigana": "古着屋【ふるぎや】の店主【てんしゅ】は親切【しんせつ】だった。",
+    "meaning": "The owner of the used clothing store was kind."
+  },
+  {
+    "sentence": "店が閉まる時間になった。",
+    "sentence_furigana": "店【みせ】が閉【しま】る時間【じかん】になった。",
+    "meaning": "It's time for the shop to close."
+  },
+  {
+    "sentence": "コンビニエンスストアは24時間営業している。",
+    "sentence_furigana": "コンビニエンスストアは24時間【じかん】営業【えいぎょう】している。",
+    "meaning": "Convenience stores are open 24 hours."
+  },
+  {
+    "sentence": "駅構内の売店で軽食を買った。",
+    "sentence_furigana": "駅構内【えきこうない】の売店【ばいてん】で軽食【けいしょく】を買【か】った。",
+    "meaning": "I bought a snack at a store inside the station."
+  },
+  {
+    "sentence": "この店のコーヒーはとても美味しい。",
+    "sentence_furigana": "この店【みせ】のコーヒーはとても美味【おい】しい。",
+    "meaning": "The coffee at this shop is very delicious."
+  },
+  {
+    "sentence": "彼女は小さなお菓子屋さんを開いた。",
+    "sentence_furigana": "彼女【かのじょ】は小【ちい】さなお菓子屋【おかしや】さんを開【ひら】いた。",
+    "meaning": "She opened a small confectionery shop."
+  },
+  {
+    "sentence": "店の看板が新しくなった。",
+    "sentence_furigana": "店【みせ】の看板【かんばん】が新【あたら】しくなった。",
+    "meaning": "The shop's signboard has been renewed."
+  },
+  {
+    "sentence": "本日は閉店いたしました。",
+    "sentence_furigana": "本日【ほんじつ】は閉店【へいてん】いたしました。",
+    "meaning": "We are closed today."
+  },
+  {
+    "sentence": "デパートの店員は制服を着ている。",
+    "sentence_furigana": "デパートの店員【てんいん】は制服【せいふく】を着【き】ている。",
+    "meaning": "The department store employees are wearing uniforms."
+  },
+  {
+    "sentence": "この店は週末は特に混む。",
+    "sentence_furigana": "この店【みせ】は週末【しゅうまつ】は特【とく】に混【こ】む。",
+    "meaning": "This shop gets particularly crowded on weekends."
+  },
+  {
+    "sentence": "店で探していた本が見つかった。",
+    "sentence_furigana": "店【みせ】で探【さが】していた本【ほん】が見【み】つかった。",
+    "meaning": "I found the book I was looking for at the store."
+  },
+  {
+    "sentence": "彼は店の名前を覚えている。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の名前【なまえ】を覚【おぼ】えている。",
+    "meaning": "He remembers the name of the shop."
+  },
+  {
+    "sentence": "本店は都心部にあります。",
+    "sentence_furigana": "本店【ほんてん】は都心部【としんぶ】にあります。",
+    "meaning": "The main store is located in the city center."
+  },
+  {
+    "sentence": "明日は朝早く店を開ける。",
+    "sentence_furigana": "明日【あした】は朝早【あさはや】く店【みせ】を開【あ】ける。",
+    "meaning": "Tomorrow, we will open the shop early in the morning."
+  },
+  {
+    "sentence": "この店の商品は全て日本製だ。",
+    "sentence_furigana": "この店【みせ】の商品【しょうひん】は全【すべ】て日本製【にほんせい】だ。",
+    "meaning": "All the products in this shop are made in Japan."
+  },
+  {
+    "sentence": "彼は店の入り口で客を迎えた。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の入口【いりぐち】で客【きゃく】を迎【むか】えた。",
+    "meaning": "He welcomed the customers at the store entrance."
+  },
+  {
+    "sentence": "店は早めに閉店することが多い。",
+    "sentence_furigana": "店【みせ】は早【はや】めに閉店【へいてん】することが多【おお】い。",
+    "meaning": "The shop often closes early."
+  },
+  {
+    "sentence": "閉店セールで掘り出し物を見つけた。",
+    "sentence_furigana": "閉店【へいてん】セールで掘【ほ】り出【だ】し物【もの】を見【み】つけた。",
+    "meaning": "I found a bargain at the closing sale."
+  },
+  {
+    "sentence": "彼女は新しい店を探している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい店【みせ】を探【さが】している。",
+    "meaning": "She is looking for a new shop."
+  },
+  {
+    "sentence": "その店はもう潰れてしまった。",
+    "sentence_furigana": "その店【みせ】はもう潰【つぶ】れてしまった。",
+    "meaning": "That shop has already gone out of business."
+  },
+  {
+    "sentence": "店の名前は何ですか。",
+    "sentence_furigana": "店【みせ】の名前【なまえ】は何【なん】ですか。",
+    "meaning": "What is the name of the shop?"
+  },
+  {
+    "sentence": "この店は私の家の近くにある。",
+    "sentence_furigana": "この店【みせ】は私【わたし】の家【いえ】の近【ちか】くにあります。",
+    "meaning": "This shop is near my house."
+  },
+  {
+    "sentence": "店の明かりが灯っている。",
+    "sentence_furigana": "店【みせ】の明【あ】かりが灯【とも】っている。",
+    "meaning": "The shop lights are on."
+  },
+  {
+    "sentence": "彼は店の商品を丁寧に陳列した。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の商品【しょうひん】を丁寧【ていねい】に陳列【ちんれつ】した。",
+    "meaning": "He carefully displayed the shop's merchandise."
+  },
+  {
+    "sentence": "この店は一度も行ったことがない。",
+    "sentence_furigana": "この店【みせ】は一度【いちど】も行【い】ったことがない。",
+    "meaning": "I have never been to this shop before."
+  },
+  {
+    "sentence": "店の改装が終わった。",
+    "sentence_furigana": "店【みせ】の改装【かいそう】が終【お】わった。",
+    "meaning": "The renovation of the shop is finished."
+  },
+  {
+    "sentence": "彼女は小さな花屋の店員だ。",
+    "sentence_furigana": "彼女【かのじょ】は小【ちい】さな花屋【はなや】の店員【てんいん】だ。",
+    "meaning": "She is a clerk at a small flower shop."
+  },
+  {
+    "sentence": "店の場所は地図で確認してください。",
+    "sentence_furigana": "店【みせ】の場所【ばしょ】は地図【ちず】で確認【かくにん】してください。",
+    "meaning": "Please confirm the shop's location on the map."
+  },
+  {
+    "sentence": "この店ではポイントカードが使える。",
+    "sentence_furigana": "この店【みせ】ではポイントカードが使【つか】える。",
+    "meaning": "You can use a point card at this shop."
+  },
+  {
+    "sentence": "彼は自分の店を開くことを夢見ている。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の店【みせ】を開【ひら】くことを夢見【ゆめみ】ている。",
+    "meaning": "He dreams of opening his own shop."
+  },
+  {
+    "sentence": "店の周りは静かだ。",
+    "sentence_furigana": "店【みせ】の周【まわ】りは静【しず】かだ。",
+    "meaning": "It is quiet around the shop."
+  },
+  {
+    "sentence": "閉店時間まであと少しだ。",
+    "sentence_furigana": "閉店【へいてん】時間【じかん】まであと少【すこ】しだ。",
+    "meaning": "There is only a little time left until closing."
+  },
+  {
+    "sentence": "この店の商品はすべて手作りです。",
+    "sentence_furigana": "この店【みせ】の商品は【しょうひん】はすべて手作【てづく】りです。",
+    "meaning": "All the products in this shop are handmade."
+  },
+  {
+    "sentence": "彼は以前この店で働いていた。",
+    "sentence_furigana": "彼【かれ】は以前【いぜん】この店【みせ】で働【はたら】いていた。",
+    "meaning": "He used to work at this shop."
+  },
+  {
+    "sentence": "店の外にベンチがあった。",
+    "sentence_furigana": "店【みせ】の外【そと】にベンチがあった。",
+    "meaning": "There was a bench outside the shop."
+  },
+  {
+    "sentence": "彼女は小さな店の経営者だ。",
+    "sentence_furigana": "彼女【かのじょ】は小【ちい】さな店【みせ】の経営者【けいえいしゃ】だ。",
+    "meaning": "She is the owner of a small shop."
+  },
+  {
+    "sentence": "店に入るときは靴を脱いでください。",
+    "sentence_furigana": "店【みせ】に入【はい】るときは靴【くつ】を脱【ぬ】いでください。",
+    "meaning": "Please take off your shoes when entering the shop."
+  },
+  {
+    "sentence": "この店は午前10時に開店する。",
+    "sentence_furigana": "この店【みせ】は午前【ごぜん】10時【じ】に開店【かいきん】する。",
+    "meaning": "This shop opens at 10 AM."
+  },
+  {
+    "sentence": "店の前の通りはいつも賑わっている。",
+    "sentence_furigana": "店【みせ】の前【まえ】の通【とお】りはいつも賑【にぎ】わっている。",
+    "meaning": "The street in front of the shop is always bustling."
+  },
+  {
+    "sentence": "彼は友人の店を手伝っている。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の店【みせ】を手伝【てつだ】っている。",
+    "meaning": "He is helping out at his friend's shop."
+  },
+  {
+    "sentence": "この店で一番人気の商品はこれです。",
+    "sentence_furigana": "この店【みせ】で一番人気【いちばん にんき】の商品は【しょうひん】はこれです。",
+    "meaning": "This is the most popular product in this shop."
+  },
+  {
+    "sentence": "店の内装はとてもおしゃれだ。",
+    "sentence_furigana": "店【みせ】の内装【ないそう】はとてもおしゃれだ。",
+    "meaning": "The interior of the shop is very stylish."
+  },
+  {
+    "sentence": "彼女は店の裏口から入った。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の裏口【うらぐち】から入【はい】った。",
+    "meaning": "She entered the shop through the back door."
+  },
+  {
+    "sentence": "この店はセール中でお買い得だ。",
+    "sentence_furigana": "この店【みせ】はセール中【ちゅう】でお買【かい】い得【とく】だ。",
+    "meaning": "This shop is having a sale, so it's a good deal."
+  },
+  {
+    "sentence": "彼は店のオーナーになることを目標にしている。",
+    "sentence_furigana": "彼【かれ】は店【みせ】のオーナーになることを目標【もくひょう】にしている。",
+    "meaning": "He aims to become a shop owner."
+  },
+  {
+    "sentence": "店の電話番号を教えてください。",
+    "sentence_furigana": "店【みせ】の電話番号【でんわばんごう】を教【おし】えてください。",
+    "meaning": "Please tell me the shop's phone number."
+  },
+  {
+    "sentence": "その店はもう存在しない。",
+    "sentence_furigana": "その店【みせ】はもう存在【そんざい】しない。",
+    "meaning": "That shop no longer exists."
+  },
+  {
+    "sentence": "店員が笑顔で迎えてくれた。",
+    "sentence_furigana": "店員【てんいん】が笑顔【えがお】で迎【むか】えてくれた。",
+    "meaning": "The shop staff greeted me with a smile."
+  },
+  {
+    "sentence": "この店には珍しい商品がたくさんある。",
+    "sentence_furigana": "この店【みせ】には珍【めずら】しい商品【しょうひん】がたくさんある。",
+    "meaning": "There are many rare items in this shop."
+  },
+  {
+    "sentence": "店の奥に休憩スペースがある。",
+    "sentence_furigana": "店【みせ】の奥【おく】に休憩【きゅうけい】スペースがある。",
+    "meaning": "There is a resting space in the back of the shop."
+  },
+  {
+    "sentence": "彼女は新しい店を開店する準備をしている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい店【みせ】を開店【かいきん】する準備【じゅんび】をしている。",
+    "meaning": "She is preparing to open a new shop."
+  },
+  {
+    "sentence": "店は夜遅くまで開いている。",
+    "sentence_furigana": "店【みせ】は夜遅【よるおそ】くまで開【あ】いている。",
+    "meaning": "The shop is open until late at night."
+  },
+  {
+    "sentence": "彼は店の売上を伸ばすために努力している。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の売上【うりあ】げを伸【の】ばすために努力【どりょく】している。",
+    "meaning": "He is working hard to increase the shop's sales."
+  },
+  {
+    "sentence": "この店の商品はデザインが良い。",
+    "sentence_furigana": "この店【みせ】の商品は【しょうひん】はデザインが良い【よい】。",
+    "meaning": "The products in this shop have good designs."
+  },
+  {
+    "sentence": "店のカーテンが開いていた。",
+    "sentence_furigana": "店【みせ】のカーテンが開【あ】いていた。",
+    "meaning": "The shop's curtains were open."
+  },
+  {
+    "sentence": "彼女は店の裏で作業をしている。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の裏【うら】で作業【さぎょう】をしている。",
+    "meaning": "She is working in the back of the shop."
+  },
+  {
+    "sentence": "この店は創業以来、一度も移転していない。",
+    "sentence_furigana": "この店【みせ】は創業以来【そうぎょう いらい】、一度【いちど】も移転【いてん】していない。",
+    "meaning": "This shop has not moved since its establishment."
+  },
+  {
+    "sentence": "彼は店の経営に専念している。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の経営【けいえい】に専念【せんねん】している。",
+    "meaning": "He is fully dedicated to managing the shop."
+  },
+  {
+    "sentence": "店の前の花壇が綺麗に手入れされている。",
+    "sentence_furigana": "店【みせ】の前【まえ】の花壇【かだん】が綺麗【きれい】に手入【てい】れされている。",
+    "meaning": "The flower bed in front of the shop is beautifully maintained."
+  },
+  {
+    "sentence": "彼女は新しい店を出す計画を立てている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい店【みせ】を出【だ】す計画【けいかく】を立【た】てている。",
+    "meaning": "She is planning to open a new shop."
+  },
+  {
+    "sentence": "この店は昔からある老舗だ。",
+    "sentence_furigana": "この店【みせ】は昔【むかし】からある老舗【しにせ】だ。",
+    "meaning": "This shop is a long-established one that has been here for a long time."
+  },
+  {
+    "sentence": "彼は店のロゴをデザインした。",
+    "sentence_furigana": "彼【かれ】は店【みせ】のロゴをデザインした。",
+    "meaning": "He designed the shop's logo."
+  },
+  {
+    "sentence": "店の品物は全て検品済みです。",
+    "sentence_furigana": "店【みせ】の品物【しなもの】はすべて検品済【けんぴんず】みです。",
+    "meaning": "All merchandise in the shop has been inspected."
+  },
+  {
+    "sentence": "彼女は店の在庫を管理している。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の在庫【ざいこ】を管理【かんり】している。",
+    "meaning": "She manages the shop's inventory."
+  },
+  {
+    "sentence": "この店は顧客のニーズに応えている。",
+    "sentence_furigana": "この店【みせ】は顧客【こきゃく】のニーズに応【こた】えている。",
+    "meaning": "This shop responds to customer needs."
+  },
+  {
+    "sentence": "彼は店の従業員を募集している。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の従業員【じゅうぎょういん】を募集【ぼしゅう】している。",
+    "meaning": "He is recruiting shop employees."
+  },
+  {
+    "sentence": "店の外観がとても魅力的だ。",
+    "sentence_furigana": "店【みせ】の外観【がいかん】がとても魅力的【みりょくてき】だ。",
+    "meaning": "The exterior of the shop is very attractive."
+  },
+  {
+    "sentence": "彼女は店の運営について学んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の運営【うんえい】について学【まな】んでいる。",
+    "meaning": "She is learning about shop management."
+  },
+  {
+    "sentence": "この店は地域に愛されている。",
+    "sentence_furigana": "この店【みせ】は地域【ちいき】に愛【あい】されている。",
+    "meaning": "This shop is loved by the community."
+  },
+  {
+    "sentence": "彼は店の改装を手伝った。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の改装【かいそう】を手伝【てつだ】った。",
+    "meaning": "He helped with the shop renovation."
+  },
+  {
+    "sentence": "店の名は「〇〇堂」という。",
+    "sentence_furigana": "店【みせ】の名【な】は「〇〇堂【どう】」という。",
+    "meaning": "The shop's name is 'XX-do'."
+  },
+  {
+    "sentence": "彼女は店の入り口で呼び込みをしている。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の入口【いりぐち】で呼【よ】び込【こ】みをしている。",
+    "meaning": "She is soliciting customers at the shop entrance."
+  },
+  {
+    "sentence": "この店は予約なしでも入れる。",
+    "sentence_furigana": "この店【みせ】は予約【よやく】なしでも入【はい】れる。",
+    "meaning": "You can enter this shop without a reservation."
+  },
+  {
+    "sentence": "彼は店の経営を安定させた。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の経営【けいえい】を安定【あんてい】させた。",
+    "meaning": "He stabilized the shop's management."
+  },
+  {
+    "sentence": "店のショーウィンドウが新しくなった。",
+    "sentence_furigana": "店【みせ】のショーウィンドウが新【あたら】しくなった。",
+    "meaning": "The shop's show window has been updated."
+  },
+  {
+    "sentence": "彼女は店の窓を拭いている。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の窓【まど】を拭【ふ】いている。",
+    "meaning": "She is wiping the shop's windows."
+  },
+  {
+    "sentence": "この店は夜も営業している。",
+    "sentence_furigana": "この店【みせ】は夜【よる】も営業【えいぎょう】している。",
+    "meaning": "This shop is also open at night."
+  },
+  {
+    "sentence": "彼は店の金を横領した。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の金【かね】を横領【おうりょう】した。",
+    "meaning": "He embezzled the shop's money."
+  },
+  {
+    "sentence": "店の名前が大きくと書かれている。",
+    "sentence_furigana": "店【みせ】の名前【なまえ】が大【おお】きくと書【か】かれている。",
+    "meaning": "The shop's name is written in large letters."
+  },
+  {
+    "sentence": "彼女は店のディスプレイを工夫している。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】のディスプレイを工夫【くふう】している。",
+    "meaning": "She is devising the shop's display."
+  },
+  {
+    "sentence": "この店は特別な品揃えをしている。",
+    "sentence_furigana": "この店【みせ】は特別【とくべつ】な品揃【しなぞろ】えをしている。",
+    "meaning": "This shop has a special selection of goods."
+  },
+  {
+    "sentence": "彼は店のレジを打った。",
+    "sentence_furigana": "彼【かれ】は店【みせ】のレジを打【う】った。",
+    "meaning": "He operated the shop's register."
+  },
+  {
+    "sentence": "店の外にメニューが置いてあった。",
+    "sentence_furigana": "店【みせ】の外【そと】にメニューが置【お】いてあった。",
+    "meaning": "There was a menu placed outside the shop."
+  },
+  {
+    "sentence": "彼女は店の歴史について語った。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の歴史【れきし】について語【かた】った。",
+    "meaning": "She talked about the shop's history."
+  },
+  {
+    "sentence": "この店はキャッシュレス決済に対応している。",
+    "sentence_furigana": "この店【みせ】はキャッシュレス決済【けっさい】に対応【たいおう】している。",
+    "meaning": "This shop supports cashless payments."
+  },
+  {
+    "sentence": "彼は店の存続のために奮闘している。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の存続【そんぞく】のために奮闘【ふんとう】している。",
+    "meaning": "He is struggling for the shop's survival."
+  },
+  {
+    "sentence": "店の名前はひらがなで書かれていた。",
+    "sentence_furigana": "店【みせ】の名前【なまえ】はひらがなで書【か】かれていた。",
+    "meaning": "The shop's name was written in hiragana."
+  },
+  {
+    "sentence": "彼女は店の窓にポスターを貼った。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の窓【まど】にポスターを貼【は】った。",
+    "meaning": "She put a poster on the shop window."
+  },
+  {
+    "sentence": "この店は早くから開いている。",
+    "sentence_furigana": "この店【みせ】は早【はや】くから開【あ】いている。",
+    "meaning": "This shop opens early."
+  },
+  {
+    "sentence": "彼は店の仕入れを担当している。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の仕入【しい】れを担当【たんとう】している。",
+    "meaning": "He is in charge of the shop's procurement."
+  },
+  {
+    "sentence": "店の照明が明るくなった。",
+    "sentence_furigana": "店【みせ】の照明【しょうめい】が明【あか】るくなった。",
+    "meaning": "The shop's lighting has become brighter."
+  },
+  {
+    "sentence": "彼女は店の鍵を忘れた。",
+    "sentence_furigana": "彼女【かのじょ】は店【みせ】の鍵【かぎ】を忘【わ】すれた。",
+    "meaning": "She forgot the shop's key."
+  },
+  {
+    "sentence": "この店はいつも清潔に保たれている。",
+    "sentence_furigana": "この店【みせ】はいつも清潔【せいけつ】に保【たも】たれている。",
+    "meaning": "This shop is always kept clean."
+  },
+  {
+    "sentence": "彼は店の電話をかけた。",
+    "sentence_furigana": "彼【かれ】は店【みせ】の電話【でんわ】をかけた。",
+    "meaning": "He made a call from the shop."
+  },
+  {
+    "sentence": "店の外観が特徴的だ。",
+    "sentence_furigana": "店【みせ】の外観【がいかん】が特徴的【とくちょうてき】だ。",
+    "meaning": "The shop's exterior is distinctive."
+  }
+]

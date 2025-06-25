@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "私は毎朝公園を歩きます。",
+    "sentence_furigana": "私【わたし】は毎朝【まいあさ】公園【こうえん】を歩【ある】きます。",
+    "meaning": "I walk in the park every morning."
+  },
+  {
+    "sentence": "彼は速く歩くのが得意だ。",
+    "sentence_furigana": "彼【かれ】は速【はや】く歩【ある】くのが得意【とくい】だ。",
+    "meaning": "He is good at walking fast."
+  },
+  {
+    "sentence": "この道は歩きやすい。",
+    "sentence_furigana": "この道【みち】は歩【ある】きやすい。",
+    "meaning": "This road is easy to walk on."
+  },
+  {
+    "sentence": "犬の散歩に公園へ行った。",
+    "sentence_furigana": "犬【いぬ】の散歩【さんぽ】に公園【こうえん】へ行【い】った。",
+    "meaning": "I went to the park to walk the dog."
+  },
+  {
+    "sentence": "歩道橋を渡ってください。",
+    "sentence_furigana": "歩道橋【ほどうきょう】を渡【わた】ってください。",
+    "meaning": "Please cross the pedestrian bridge."
+  },
+  {
+    "sentence": "健康のために一日に一万歩歩くことを目指しています。",
+    "sentence_furigana": "健康【けんこう】のため【ため】に一日【いちにち】に一万歩【いちまんぽ】歩【ある】くこと【こと】を目指【めざ】しています。",
+    "meaning": "I aim to walk 10,000 steps a day for my health."
+  },
+  {
+    "sentence": "赤ちゃんが初めて歩いた。",
+    "sentence_furigana": "赤ちゃん【あかちゃん】が初【はじ】めて歩【ある】いた。",
+    "meaning": "The baby walked for the first time."
+  },
+  {
+    "sentence": "この街は徒歩で観光するのが楽しい。",
+    "sentence_furigana": "この街【まち】は徒歩【とほ】で観光【かんこう】するのが楽【たの】しい。",
+    "meaning": "It's fun to sightsee this city on foot."
+  },
+  {
+    "sentence": "彼は足が悪く、歩くのに苦労している。",
+    "sentence_furigana": "彼【かれ】は足【あし】が悪【わる】く、歩【ある】くのに苦労【くろう】している。",
+    "meaning": "His legs are bad, and he has trouble walking."
+  },
+  {
+    "sentence": "学校まで歩いて通っています。",
+    "sentence_furigana": "学校【がっこう】まで歩【ある】いて通【かよ】っています。",
+    "meaning": "I walk to school."
+  },
+  {
+    "sentence": "歩きながら考え事をしていた。",
+    "sentence_furigana": "歩【ある】きながら考【かんが】え事【ごと】をしていた。",
+    "meaning": "I was thinking while walking."
+  },
+  {
+    "sentence": "この辺りは歩いて楽しめる場所が多い。",
+    "sentence_furigana": "この辺【あた】りは歩【ある】いて楽【たの】しめる場所【ばしょ】が多【おお】い。",
+    "meaning": "There are many places to enjoy on foot around here."
+  },
+  {
+    "sentence": "歩幅を大きくして歩くと、速く進める。",
+    "sentence_furigana": "歩幅【ふくろはぎ】を大【おお】きくして歩【ある】くと、速【はや】く進【すす】める。",
+    "meaning": "If you walk with a larger stride, you can move faster."
+  },
+  {
+    "sentence": "道に迷って、しばらく歩き続けた。",
+    "sentence_furigana": "道【みち】に迷【まよ】って、しばらく歩【ある】き続【つづ】けた。",
+    "meaning": "I got lost and kept walking for a while."
+  },
+  {
+    "sentence": "雨の中を歩くのは大変だ。",
+    "sentence_furigana": "雨【あめ】の中【なか】を歩【ある】くのは大変【たいへん】だ。",
+    "meaning": "It's tough to walk in the rain."
+  },
+  {
+    "sentence": "彼は自信に満ちた足取りで歩いていた。",
+    "sentence_furigana": "彼【かれ】は自信【じしん】に満【み】ちた足取【あしど】りで歩【ある】いていた。",
+    "meaning": "He was walking with a confident stride."
+  },
+  {
+    "sentence": "歩行者信号が青になってから横断歩道を渡りましょう。",
+    "sentence_furigana": "歩行者信号【ほこうしゃしんごう】が青【あお】になってから横断歩道【おうだんほどう】を渡【わた】りましょう。",
+    "meaning": "Let's cross the crosswalk after the pedestrian signal turns green."
+  },
+  {
+    "sentence": "古い街並みを歩くのは趣がある。",
+    "sentence_furigana": "古【ふる】い街並【まちな】みを歩【ある】くのは趣【おもむき】がある。",
+    "meaning": "Walking through the old townscape has a special charm."
+  },
+  {
+    "sentence": "歩き方を変えてみたら、腰痛が改善した。",
+    "sentence_furigana": "歩【ある】き方【かた】を変【か】えてみたら、腰痛【ようつう】が改善【かいぜん】した。",
+    "meaning": "Changing my way of walking improved my lower back pain."
+  },
+  {
+    "sentence": "この山道は歩きにくい。",
+    "sentence_furigana": "この山道【やまみち】は歩【ある】きにくい。",
+    "meaning": "This mountain path is difficult to walk on."
+  },
+  {
+    "sentence": "彼は疲れて歩くのがやっとだった。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れて歩【ある】くのがやっとだった。",
+    "meaning": "He was so tired he could barely walk."
+  },
+  {
+    "sentence": "一人で歩くのが好きな人もいる。",
+    "sentence_furigana": "一人【ひとり】で歩【ある】くのが好【す】きな人【ひと】もいる。",
+    "meaning": "Some people like walking alone."
+  },
+  {
+    "sentence": "踏切を歩いて渡るな。",
+    "sentence_furigana": "踏切【ふみきり】を歩【ある】いて渡【わた】るな。",
+    "meaning": "Do not walk across the railroad crossing."
+  },
+  {
+    "sentence": "彼は新しい靴を履いて歩いた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい靴【くつ】を履【は】いて歩【ある】いた。",
+    "meaning": "He walked in new shoes."
+  },
+  {
+    "sentence": "歩くことは良い運動になる。",
+    "sentence_furigana": "歩【ある】くこと【こと】は良【よ】い運動【うんどう】になる。",
+    "meaning": "Walking is good exercise."
+  },
+  {
+    "sentence": "砂浜を歩くのは少し大変だ。",
+    "sentence_furigana": "砂浜【すなはま】を歩【ある】くのは少【すこ】し大変【たいへん】だ。",
+    "meaning": "Walking on the sandy beach is a bit difficult."
+  },
+  {
+    "sentence": "歩道には自転車を止めないでください。",
+    "sentence_furigana": "歩道【ほどう】には自転車【じてんしゃ】を止【と】めないでください。",
+    "meaning": "Please do not park bicycles on the sidewalk."
+  },
+  {
+    "sentence": "夜道を一人で歩くのは怖い。",
+    "sentence_furigana": "夜道【よみち】を一人【ひとり】で歩【ある】くのは怖【こわ】い。",
+    "meaning": "It's scary to walk alone on a dark street at night."
+  },
+  {
+    "sentence": "彼はリハビリのために歩く練習をしている。",
+    "sentence_furigana": "彼【かれ】はリハビリのため【ため】に歩【ある】く練習【れんしゅう】をしている。",
+    "meaning": "He is practicing walking for rehabilitation."
+  },
+  {
+    "sentence": "週末はよくハイキングを歩きます。",
+    "sentence_furigana": "週末【しゅうまつ】はよくハイキングを歩【ある】きます。",
+    "meaning": "I often go hiking on weekends."
+  },
+  {
+    "sentence": "歩行困難な人々のためのバリアフリー化を進めている。",
+    "sentence_furigana": "歩行困難【ほこうこんなん】な人々【ひとびと】のため【ため】のバリアフリー化【か】を進【すす】めている。",
+    "meaning": "We are promoting barrier-free access for people with walking difficulties."
+  },
+  {
+    "sentence": "彼の歩く姿は堂々としている。",
+    "sentence_furigana": "彼【かれ】の歩【ある】く姿【すがた】は堂々【どうどう】としている。",
+    "meaning": "His way of walking is dignified."
+  },
+  {
+    "sentence": "階段を歩いて昇る。",
+    "sentence_furigana": "階段【かいだん】を歩【ある】いて昇【のぼ】る。",
+    "meaning": "I walk up the stairs."
+  },
+  {
+    "sentence": "歩き疲れて、ベンチに座った。",
+    "sentence_furigana": "歩【ある】き疲【つか】れて、ベンチに座【すわ】った。",
+    "meaning": "I got tired of walking and sat on the bench."
+  },
+  {
+    "sentence": "彼は歩くスピードが速い。",
+    "sentence_furigana": "彼【かれ】の歩【ある】くスピードが速【はや】い。",
+    "meaning": "His walking speed is fast."
+  },
+  {
+    "sentence": "歩道でタバコを吸わないでください。",
+    "sentence_furigana": "歩道【ほどう】でタバコを吸【す】わないでください。",
+    "meaning": "Please do not smoke on the sidewalk."
+  },
+  {
+    "sentence": "山歩きは良い気分転換になる。",
+    "sentence_furigana": "山歩【やまある】きは良【よ】い気分転換【きぶんてんかん】になる。",
+    "meaning": "Mountain walking is a good change of pace."
+  },
+  {
+    "sentence": "彼の歩みは力強かった。",
+    "sentence_furigana": "彼【かれ】の歩【あゆ】みは力強【ちからづよ】かった。",
+    "meaning": "His steps were powerful."
+  },
+  {
+    "sentence": "歩いて行ける距離だ。",
+    "sentence_furigana": "歩【ある】いて行【い】ける距離【きょり】だ。",
+    "meaning": "It's a walkable distance."
+  },
+  {
+    "sentence": "彼は歩くたびに新しい発見をしている。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くたびに新【あら】たな発見【はっけん】をしている。",
+    "meaning": "He makes new discoveries with every walk."
+  },
+  {
+    "sentence": "雨の中を歩くのはちょっと憂鬱だ。",
+    "sentence_furigana": "雨【あめ】の中【なか】を歩【ある】くのはちょっと憂鬱【ゆううつ】だ。",
+    "meaning": "Walking in the rain is a bit gloomy."
+  },
+  {
+    "sentence": "歩行者優先の道路です。",
+    "sentence_furigana": "歩行者優先【ほこうしゃゆうせん】の道路【どうろ】です。",
+    "meaning": "This is a pedestrian-priority road."
+  },
+  {
+    "sentence": "彼は足音も立てずに歩いた。",
+    "sentence_furigana": "彼【かれ】は足音【あしおと】も立【た】てずに歩【ある】いた。",
+    "meaning": "He walked without making a sound."
+  },
+  {
+    "sentence": "歩くことが習慣になった。",
+    "sentence_furigana": "歩【ある】くこと【こと】が習慣【しゅうかん】になった。",
+    "meaning": "Walking became a habit."
+  },
+  {
+    "sentence": "この橋は歩いて渡れますか？",
+    "sentence_furigana": "この橋【はし】は歩【ある】いて渡【わた】れますか？",
+    "meaning": "Can I walk across this bridge?"
+  },
+  {
+    "sentence": "彼は元気よく歩いていた。",
+    "sentence_furigana": "彼【かれ】は元気【げんき】よく歩【ある】いていた。",
+    "meaning": "He was walking energetically."
+  },
+  {
+    "sentence": "歩く距離が長くて疲れた。",
+    "sentence_furigana": "歩【ある】く距離【きょり】が長【なが】くて疲【つか】れた。",
+    "meaning": "I was tired because the walking distance was long."
+  },
+  {
+    "sentence": "歩いて行ける範囲に良い店がある。",
+    "sentence_furigana": "歩【ある】いて行【い】ける範囲【はんい】に良【よ】い店【みせ】がある。",
+    "meaning": "There are good shops within walking distance."
+  },
+  {
+    "sentence": "彼はゆっくりと歩みを進めた。",
+    "sentence_furigana": "彼【かれ】はゆっくりと歩【あゆ】みを進【すす】めた。",
+    "meaning": "He advanced his steps slowly."
+  },
+  {
+    "sentence": "歩道はきれいに整備されている。",
+    "sentence_furigana": "歩道【ほどう】はきれいに整備【せいび】されている。",
+    "meaning": "The sidewalk is neatly maintained."
+  },
+  {
+    "sentence": "歩くのが楽しみでならない。",
+    "sentence_furigana": "歩【ある】くのが楽【たの】しみでならない。",
+    "meaning": "I can't wait to walk."
+  },
+  {
+    "sentence": "彼は歩くことに集中していた。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くことに集中【しゅうちゅう】していた。",
+    "meaning": "He was focused on walking."
+  },
+  {
+    "sentence": "この道は車の往来が多いので歩行には注意が必要です。",
+    "sentence_furigana": "この道【みち】は車【くるま】の往来【おうらい】が多【おお】いので歩行【ほこう】には注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "There is a lot of car traffic on this road, so caution is required when walking."
+  },
+  {
+    "sentence": "子供は好奇心旺盛に歩き回っていた。",
+    "sentence_furigana": "子供【こども】は好奇心旺盛【こうきしんおうせい】に歩【ある】き回【まわ】っていた。",
+    "meaning": "The children were walking around with great curiosity."
+  },
+  {
+    "sentence": "彼女の歩く姿は優雅だった。",
+    "sentence_furigana": "彼女【かのじょ】の歩【ある】く姿【すがた】は優雅【ゆうが】だった。",
+    "meaning": "Her way of walking was elegant."
+  },
+  {
+    "sentence": "歩くペースを落とす。",
+    "sentence_furigana": "歩【ある】くペースを落【お】とす。",
+    "meaning": "To slow down the walking pace."
+  },
+  {
+    "sentence": "この公園は歩いて一周するのにちょうど良い距離だ。",
+    "sentence_furigana": "この公園【こうえん】は歩【ある】いて一周【いっしゅう】するのにちょうど良【よ】い距離【きょり】だ。",
+    "meaning": "This park is just the right distance for a walk around."
+  },
+  {
+    "sentence": "彼は歩道で携帯電話を操作していた。",
+    "sentence_furigana": "彼【かれ】は歩道【ほどう】で携帯電話【けいたいでんわ】を操作【そうさ】していた。",
+    "meaning": "He was operating his mobile phone on the sidewalk."
+  },
+  {
+    "sentence": "歩くたびに体が軽くなるのを感じる。",
+    "sentence_furigana": "歩【ある】くたびに体【からだ】が軽【かる】くなるのを感じ【かんじ】る。",
+    "meaning": "I feel lighter with every step."
+  },
+  {
+    "sentence": "新しい街を歩くのは楽しい。",
+    "sentence_furigana": "新【あたら】しい街【まち】を歩【ある】くのは楽【たの】しい。",
+    "meaning": "It's enjoyable to walk in a new town."
+  },
+  {
+    "sentence": "歩きながら食事をするのはマナー違反です。",
+    "sentence_furigana": "歩【ある】きながら食事【しょくじ】をするのはマナー違反【いはん】です。",
+    "meaning": "It is bad manners to eat while walking."
+  },
+  {
+    "sentence": "彼は歩き方に特徴がある。",
+    "sentence_furigana": "彼【かれ】は歩【ある】き方【かた】に特徴【とくちょう】がある。",
+    "meaning": "He has a distinctive way of walking."
+  },
+  {
+    "sentence": "歩行者は信号が青でも左右を確認してから渡りましょう。",
+    "sentence_furigana": "歩行者【ほこうしゃ】は信号【しんごう】が青【あお】でも左右【さゆう】を確認【かくにん】してから渡【わた】りましょう。",
+    "meaning": "Pedestrians should check both ways before crossing, even when the light is green."
+  },
+  {
+    "sentence": "早歩きで健康維持に努めている。",
+    "sentence_furigana": "早歩【はやあ】きで健康維持【けんこういじ】に努【つと】めている。",
+    "meaning": "I am trying to maintain my health by walking briskly."
+  },
+  {
+    "sentence": "彼は歩くたびに遠くの景色を眺めていた。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くたびに遠【とお】くの景色【けしき】を眺【なが】めていた。",
+    "meaning": "He gazed at the distant scenery with every step."
+  },
+  {
+    "sentence": "歩くのが好きなので、駅まで歩いて帰った。",
+    "sentence_furigana": "歩【ある】くのが好【す】きなので、駅【えき】まで歩【ある】いて帰【かえ】った。",
+    "meaning": "I like walking, so I walked home from the station."
+  },
+  {
+    "sentence": "彼女は小走り（こばしり）でこちらに向かって歩いてきた。",
+    "sentence_furigana": "彼女【かのじょ】は小走【こば】しり【り】でこちらに向【む】かって歩【ある】いてきた。",
+    "meaning": "She walked towards me at a light trot."
+  },
+  {
+    "sentence": "この辺りは車が少なく、歩くには安全だ。",
+    "sentence_furigana": "この辺【あた】りは車【くるま】が少【すく】なく、歩【ある】くには安全【あんぜん】だ。",
+    "meaning": "There are few cars around here, so it's safe to walk."
+  },
+  {
+    "sentence": "彼は人生の岐路に立たされ、立ち止まって考えていた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の岐路【きろ】に立【た】たされ、立【た】ち止【ど】まって考【かんが】えていた。",
+    "meaning": "He was at a crossroads in his life and stood still, thinking."
+  },
+  {
+    "sentence": "歩行者天国でイベントが開催された。",
+    "sentence_furigana": "歩行者天国【ほこうしゃてんごく】でイベントが開催【かいさい】された。",
+    "meaning": "An event was held in the pedestrian paradise."
+  },
+  {
+    "sentence": "歩くたびに新しい発見がある。",
+    "sentence_furigana": "歩【ある】くたびに新【あら】たな発見【はっけん】がある。",
+    "meaning": "There are new discoveries with every walk."
+  },
+  {
+    "sentence": "彼は歩く速度を落として、妻を待った。",
+    "sentence_furigana": "彼【かれ】は歩【ある】く速度【そくど】を落【お】として、妻【つま】を待【ま】った。",
+    "meaning": "He slowed his walking pace and waited for his wife."
+  },
+  {
+    "sentence": "歩き始めてから健康になった。",
+    "sentence_furigana": "歩【ある】き始【はじ】めてから健康【けんこう】になった。",
+    "meaning": "I became healthier after I started walking."
+  },
+  {
+    "sentence": "彼は歩くのが楽しくて、ついつい遠回りしてしまう。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くのが楽【たの】しくて、ついつい遠回【とおまわ】りしてしまう。",
+    "meaning": "He enjoys walking so much that he often takes detours."
+  },
+  {
+    "sentence": "歩く姿も絵になる人だ。",
+    "sentence_furigana": "歩【ある】く姿【すがた】も絵【え】になる人【ひと】だ。",
+    "meaning": "He/She is someone who looks picturesque even when walking."
+  },
+  {
+    "sentence": "この道は歩行者が少ない。",
+    "sentence_furigana": "この道【みち】は歩行者【ほこうしゃ】が少【すく】ない。",
+    "meaning": "There are few pedestrians on this road."
+  },
+  {
+    "sentence": "彼はリラックスするために散歩を歩く。",
+    "sentence_furigana": "彼【かれ】はリラックスするため【ため】に散歩【さんぽ】を歩【ある】く。",
+    "meaning": "He walks for a stroll to relax."
+  },
+  {
+    "sentence": "歩くたびに地面の小石が靴に挟まる。",
+    "sentence_furigana": "歩【ある】くたびに地面【じめん】の小石【こいし】が靴【くつ】に挟【はさ】まる。",
+    "meaning": "Pebbles from the ground get stuck in my shoes with every step."
+  },
+  {
+    "sentence": "彼は歩くべき道を見つけた。",
+    "sentence_furigana": "彼【かれ】は歩【ある】べき道【みち】を見【み】つけた。",
+    "meaning": "He found the path he should walk."
+  },
+  {
+    "sentence": "歩いて買い物に行きます。",
+    "sentence_furigana": "歩【ある】いて買【か】い物【もの】に行【い】きます。",
+    "meaning": "I walk to go shopping."
+  },
+  {
+    "sentence": "彼は人生の歩みを止めることはない。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の歩【あゆ】みを止【と】めることはない。",
+    "meaning": "He never stops the progress of his life."
+  },
+  {
+    "sentence": "この地域は徒歩での移動が便利だ。",
+    "sentence_furigana": "この地域【ちいき】は徒歩【とほ】での移動【いどう】が便利【べんり】だ。",
+    "meaning": "Getting around on foot is convenient in this area."
+  },
+  {
+    "sentence": "彼は歩くのが遅いので、いつも遅刻してしまう。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くのが遅【おそ】いので、いつも遅刻【ちこく】してしまう。",
+    "meaning": "He is slow at walking, so he is always late."
+  },
+  {
+    "sentence": "歩くことは地球環境にも良い影響を与える。",
+    "sentence_furigana": "歩【ある】くこと【こと】は地球環境【ちきゅうかんきょう】にも良【よ】い影響【えいきょう】を与【あた】える。",
+    "meaning": "Walking also has a good effect on the global environment."
+  },
+  {
+    "sentence": "彼は目標に向かって着実に歩みを進めている。",
+    "sentence_furigana": "彼【かれ】は目標【もくひょう】に向【む】かって着実【ちゃくじつ】に歩【あゆ】みを進【すす】めている。",
+    "meaning": "He is steadily moving towards his goal."
+  },
+  {
+    "sentence": "彼は歩くのが速くてついていくのが大変だ。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くのが速【はや】くてついていくのが大変【たいへん】だ。",
+    "meaning": "He walks so fast it's hard to keep up."
+  },
+  {
+    "sentence": "歩道に水たまりができていた。",
+    "sentence_furigana": "歩道【ほどう】に水たまり【みずたまり】ができ<ruby>て<rt></rt></ruby>いた。",
+    "meaning": "There were puddles on the sidewalk."
+  },
+  {
+    "sentence": "彼は歩く瞑想をしている。",
+    "sentence_furigana": "彼【かれ】は歩【ある】く瞑想【めいそう】をしている。",
+    "meaning": "He practices walking meditation."
+  },
+  {
+    "sentence": "歩くことでストレスを解消している。",
+    "sentence_furigana": "歩【ある】くことでストレスを解消【かいしょう】している。",
+    "meaning": "I relieve stress by walking."
+  },
+  {
+    "sentence": "彼は歩くたびに地面に影を落としていた。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くたびに地面【じめん】に影【かげ】を落【お】としていた。",
+    "meaning": "His shadow fell on the ground with every step."
+  },
+  {
+    "sentence": "歩く旅を楽しんでいる。",
+    "sentence_furigana": "歩【ある】く旅【たび】を楽し【たの】しんでいる。",
+    "meaning": "I am enjoying a walking journey."
+  },
+  {
+    "sentence": "彼は足元に注意して歩いていた。",
+    "sentence_furigana": "彼【かれ】は足元【あしもと】に注意【ちゅうい】して歩【ある】いていた。",
+    "meaning": "He was walking carefully, paying attention to his footing."
+  },
+  {
+    "sentence": "歩くスキーの大会が開かれた。",
+    "sentence_furigana": "歩【ある】くスキーの大会【たいかい】が開【ひら】かれた。",
+    "meaning": "A cross-country skiing competition was held."
+  },
+  {
+    "sentence": "彼は人生の新たな一歩を踏み出した。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の新た【あら】な一歩【いっぽ】を踏【ふ】み出【だ】した。",
+    "meaning": "He took a new step in his life."
+  },
+  {
+    "sentence": "この道は歩道が狭いので注意してください。",
+    "sentence_furigana": "この道【みち】は歩道【ほどう】が狭【せま】いので注意【ちゅうい】してください。",
+    "meaning": "Please be careful as the sidewalk is narrow on this road."
+  },
+  {
+    "sentence": "歩くことは心を落ち着かせる効果がある。",
+    "sentence_furigana": "歩【ある】くこと【こと】は心【こころ】を落【お】ち着【つ】かせる効果【こうか】がある。",
+    "meaning": "Walking has a calming effect on the mind."
+  },
+  {
+    "sentence": "彼は疲れ果てて、歩くことすら困難だった。",
+    "sentence_furigana": "彼【かれ】は疲【つか】れ果【は】てて、歩【ある】くことすら困難【こんなん】だった。",
+    "meaning": "He was exhausted and could barely walk."
+  },
+  {
+    "sentence": "歩くたびに季節の移ろいを感じる。",
+    "sentence_furigana": "歩【ある】くたびに季節【きせつ】の移【うつ】ろいを感じ【かんじ】る。",
+    "meaning": "I feel the changing seasons with every step."
+  },
+  {
+    "sentence": "彼は足腰が弱り、歩くのが難しくなってきた。",
+    "sentence_furigana": "彼【かれ】は足腰【あしこし】が弱【よわ】り、歩【ある】くのが難【むずか】しくなってきた。",
+    "meaning": "His legs and hips have weakened, and walking has become difficult."
+  },
+  {
+    "sentence": "歩行訓練のために毎日公園を散歩している。",
+    "sentence_furigana": "歩行訓練【ほこうくんれん】のため【ため】に毎日【まいにち】公園【こうえん】を散歩【さんぽ】している。",
+    "meaning": "I take a walk in the park every day for walking training."
+  },
+  {
+    "sentence": "彼は人生の歩みを止めずに進み続けた。",
+    "sentence_furigana": "彼【かれ】は人生【じんせい】の歩【あゆ】みを止【と】めずに進【すす】み続【つづ】けた。",
+    "meaning": "He continued to move forward without stopping the progress of his life."
+  },
+  {
+    "sentence": "歩くことで健康を維持しています。",
+    "sentence_furigana": "歩【ある】くことで健康【けんこう】を維持【いじ】しています。",
+    "meaning": "I maintain my health by walking."
+  },
+  {
+    "sentence": "彼は自信に満ちた足取りで歩き始めた。",
+    "sentence_furigana": "彼【かれ】は自信【じしん】に満【み】ちた足取【あしど】りで歩【ある】き始【はじ】めた。",
+    "meaning": "He began to walk with confident steps."
+  },
+  {
+    "sentence": "この道は歩行者に優しい。",
+    "sentence_furigana": "この道【みち】は歩行者【ほこうしゃ】に優【やさ】しい。",
+    "meaning": "This road is pedestrian-friendly."
+  },
+  {
+    "sentence": "彼は歩くたびに、その土地の歴史を感じていた。",
+    "sentence_furigana": "彼【かれ】は歩【ある】くたびにその土地【とち】の歴史【れきし】を感じ【かんじ】ていた。",
+    "meaning": "He felt the history of the land with every step."
+  }
+]

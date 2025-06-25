@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "彼は宝物を獲た。",
+    "sentence_furigana": "彼【かれ】は宝物【たからもの】を獲【え】た。",
+    "meaning": "He obtained the treasure."
+  },
+  {
+    "sentence": "この賞を獲るために努力した。",
+    "sentence_furigana": "この賞【しょう】を獲【と】るために努力【どりょく】した。",
+    "meaning": "I worked hard to win this award."
+  },
+  {
+    "sentence": "彼は貴重な情報を獲た。",
+    "sentence_furigana": "彼【かれ】は貴重【きちょう】な情報【じょうほう】を獲【え】た。",
+    "meaning": "He acquired valuable information."
+  },
+  {
+    "sentence": "そのチャンスを獲すべきだ。",
+    "sentence_furigana": "そのチャンスを獲【とる】べきだ。",
+    "meaning": "You should seize that chance."
+  },
+  {
+    "sentence": "彼は平和を獲するために戦った。",
+    "sentence_furigana": "彼【かれ】は平和【へいわ】を獲【え】るために戦【たたか】った。",
+    "meaning": "He fought to gain peace."
+  },
+  {
+    "sentence": "目標を獲するために、毎日練習する。",
+    "sentence_furigana": "目標【もくひょう】を獲【と】るために、毎日【まいにち】練習【れんしゅう】する。",
+    "meaning": "I practice every day to achieve my goal."
+  },
+  {
+    "sentence": "彼は栄光を獲した。",
+    "sentence_furigana": "彼【かれ】は栄光【えいこう】を獲【え】した。",
+    "meaning": "He earned glory."
+  },
+  {
+    "sentence": "この試合で勝つことができれば、優勝を獲るだろう。",
+    "sentence_furigana": "この試合【しあい】で勝【か】つことができれば、優勝【ゆうしょう】を獲【とる】だろう。",
+    "meaning": "If we can win this match, we will likely win the championship."
+  },
+  {
+    "sentence": "彼は難病を克服し、健康を獲した。",
+    "sentence_furigana": "彼【かれ】は難病【なんびょう】を克服【こくふく】し、健康【けんこう】を獲【え】た。",
+    "meaning": "He overcame a serious illness and regained his health."
+  },
+  {
+    "sentence": "貴重な経験を獲た。",
+    "sentence_furigana": "貴重【きちょう】な経験【けいけん】を獲【え】た。",
+    "meaning": "I gained valuable experience."
+  },
+  {
+    "sentence": "彼は新しいスキルを獲得した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいスキルを獲【とく】した。",
+    "meaning": "He acquired new skills."
+  },
+  {
+    "sentence": "そのチャンスを逃してはならない。",
+    "sentence_furigana": "そのチャンスを逃【のが】してはならない。",
+    "meaning": "We must not miss that opportunity."
+  },
+  {
+    "sentence": "彼は少ないチャンスを獲た。",
+    "sentence_furigana": "彼【かれ】は少【すく】ないチャンスを獲【と】った。",
+    "meaning": "He seized a slim chance."
+  },
+  {
+    "sentence": "彼は勝利を獲るために全力を尽くした。",
+    "sentence_furigana": "彼【かれ】は勝利【しょうり】を獲【とる】ために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "He did his best to win."
+  },
+  {
+    "sentence": "この機会に多くの知識を獲たい。",
+    "sentence_furigana": "この機会【きかい】に多【おお】くの知識【ちしき】を獲【え】たい。",
+    "meaning": "I want to acquire a lot of knowledge on this occasion."
+  },
+  {
+    "sentence": "彼は多くのファンを獲得した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くのファンを獲【かく】得【とく】した。",
+    "meaning": "He gained many fans."
+  },
+  {
+    "sentence": "この大会で優勝を獲ることは私の夢だ。",
+    "sentence_furigana": "この大会【たいかい】で優勝【ゆうしょう】を獲【とる】ことは私【わたし】の夢【ゆめ】だ。",
+    "meaning": "Winning this tournament is my dream."
+  },
+  {
+    "sentence": "彼は多くの賛成票を獲た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの賛成票【さんせいひょう】を獲【え】た。",
+    "meaning": "He got many votes of approval."
+  },
+  {
+    "sentence": "我々は有利な立場を獲た。",
+    "sentence_furigana": "我々【われわれ】は有利【ゆうり】な立場【たちば】を獲【え】た。",
+    "meaning": "We gained an advantageous position."
+  },
+  {
+    "sentence": "彼はその役を射止めることができるだろうか。",
+    "sentence_furigana": "彼【かれ】はその役【やく】を射止【いと】めることができるだろうか。",
+    "meaning": "Will he be able to win that role?"
+  },
+  {
+    "sentence": "このプロジェクトの成功を獲る。",
+    "sentence_furigana": "このプロジェクトの成功【せいこう】を獲【とる】。",
+    "meaning": "Achieve success in this project."
+  },
+  {
+    "sentence": "彼は重要な秘密を掴んだ。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な秘密【ひみつ】を掴【つか】んだ。",
+    "meaning": "He seized important information."
+  },
+  {
+    "sentence": "彼はこの分野での名声を獲得した。",
+    "sentence_furigana": "彼【かれ】はこの分野【ぶんや】での名声【めいせい】を獲【かく】得【とく】した。",
+    "meaning": "He gained fame in this field."
+  },
+  {
+    "sentence": "彼はライバルから勝利を奪った。",
+    "sentence_furigana": "彼【かれ】はライバルから勝利【しょうり】を奪【うば】った。",
+    "meaning": "He snatched victory from his rival."
+  },
+  {
+    "sentence": "幸運を獲ることができる。",
+    "sentence_furigana": "幸運【こううん】を獲【とる】ことができる。",
+    "meaning": "You can get lucky."
+  },
+  {
+    "sentence": "彼は多くの支持を獲た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの支持【しじ】を獲【え】た。",
+    "meaning": "He gained a lot of support."
+  },
+  {
+    "sentence": "彼はその希少な品物を手に入れた。",
+    "sentence_furigana": "彼【かれ】はその希少【きしょう】な品物【しなもの】を手【て】に入【い】れた。",
+    "meaning": "He got his hands on that rare item."
+  },
+  {
+    "sentence": "我々は勝利の機会を掴んだ。",
+    "sentence_furigana": "我々【われわれ】は勝利【しょうり】の機会【きかい】を掴【つか】んだ。",
+    "meaning": "We seized the opportunity for victory."
+  },
+  {
+    "sentence": "彼は多くの賞賛を浴びた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの賞賛【しょうさん】を浴【あ】びた。",
+    "meaning": "He received much praise."
+  },
+  {
+    "sentence": "そのチャンスを掴むんだ！",
+    "sentence_furigana": "そのチャンスを掴【つか】むんだ！",
+    "meaning": "Seize that chance!"
+  },
+  {
+    "sentence": "彼は多くの善行を積んだ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの善行【ぜんこう】を積【つ】んだ。",
+    "meaning": "He earned many good deeds."
+  },
+  {
+    "sentence": "私はその仕事を得た。",
+    "sentence_furigana": "私【わたし】はその仕事【しごと】を得【え】た。",
+    "meaning": "I got the job."
+  },
+  {
+    "sentence": "彼は激戦を制した。",
+    "sentence_furigana": "彼【かれ】は激戦【げきせん】を制【せい】した。",
+    "meaning": "He won the fierce battle."
+  },
+  {
+    "sentence": "彼は今回の選挙で勝利を収めた。",
+    "sentence_furigana": "彼【かれ】は今回【こんかい】の選挙【せんきょ】で勝利【しょうり】を収【おさ】めた。",
+    "meaning": "He achieved victory in this election."
+  },
+  {
+    "sentence": "彼は多くの生徒を教えることができた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの生徒【せいと】を教【おし】えることができた。",
+    "meaning": "He was able to teach many students."
+  },
+  {
+    "sentence": "彼は貴重なデータを獲得した。",
+    "sentence_furigana": "彼【かれ】は貴重【きちょう】なデータを獲【かく】得【とく】した。",
+    "meaning": "He acquired valuable data."
+  },
+  {
+    "sentence": "あなたはそれを達成できる。",
+    "sentence_furigana": "あなたはそれを達成【たいせい】できる。",
+    "meaning": "You can achieve that."
+  },
+  {
+    "sentence": "彼はその秘密の情報を入手した。",
+    "sentence_furigana": "彼【かれ】はそ の秘密【ひみつ】の 情報【じょうほう】を入手【にゅうしゅ】した。",
+    "meaning": "He obtained the secret information."
+  },
+  {
+    "sentence": "我々はその困難な状況を乗り越えることができる。",
+    "sentence_furigana": "我々【われわれ】はそ の困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えることができる。",
+    "meaning": "We can overcome this difficult situation."
+  },
+  {
+    "sentence": "彼は多くの人々の心を掴んだ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の心【こころ】を掴【つか】んだ。",
+    "meaning": "He captured the hearts of many people."
+  },
+  {
+    "sentence": "彼女は賞を獲得するために一生懸命働いた。",
+    "sentence_furigana": "彼女【かのじょ】は賞【しょう】を獲【かく】得【とく】するために一生懸命【いっしょうけんめい】働【はたら】いた。",
+    "meaning": "She worked hard to win the award."
+  },
+  {
+    "sentence": "彼はその知らせをいち早く掴んだ。",
+    "sentence_furigana": "彼【かれ】はそ の知らせ【しらせ】をいち早く掴【つか】んだ。",
+    "meaning": "He was the first to get the news."
+  },
+  {
+    "sentence": "その目標を達成できる可能性はある。",
+    "sentence_furigana": "そ の目標【もくひょう】を達成【たいせい】できる可能性【かのうせい】はある。",
+    "meaning": "There is a possibility of achieving that goal."
+  },
+  {
+    "sentence": "彼はその情報源を突き止めた。",
+    "sentence_furigana": "彼【かれ】はそ の情報源【じょうほうげん】を突【つ】き止【と】めた。",
+    "meaning": "He found the source of information."
+  },
+  {
+    "sentence": "このチャンスを逃すことはできない。",
+    "sentence_furigana": "こ のチャンスを逃【のが】すことはできない。",
+    "meaning": "I cannot miss this chance."
+  },
+  {
+    "sentence": "彼は栄誉を勝ち取った。",
+    "sentence_furigana": "彼【かれ】は栄誉【えいよ】を勝【か】ち取【と】った。",
+    "meaning": "He won honor."
+  },
+  {
+    "sentence": "私たちはその問題を解決できた。",
+    "sentence_furigana": "私【わたし】たち はそ の問題【もんだい】を解決【かいけつ】できた。",
+    "meaning": "We were able to solve the problem."
+  },
+  {
+    "sentence": "彼は彼女の注意を引くことに成功した。",
+    "sentence_furigana": "彼【かれ】は彼女【かのじょ】の注意【ちゅうい】を引【ひ】くことに成功【せいこう】した。",
+    "meaning": "He succeeded in getting her attention."
+  },
+  {
+    "sentence": "私はそれを得る資格がある。",
+    "sentence_furigana": "私【わたし】はそれ を得【え】る資格【しかく】がある。",
+    "meaning": "I am qualified to get that."
+  },
+  {
+    "sentence": "彼は数々の困難を乗り越えた。",
+    "sentence_furigana": "彼【かれ】は数々【かずかず】の困難【こんなん】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame numerous difficulties."
+  },
+  {
+    "sentence": "彼は優秀な人材を獲得した。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】な人材【じんざい】を獲【かく】得【とく】した。",
+    "meaning": "He acquired excellent human resources."
+  },
+  {
+    "sentence": "この機会を活かさなければならない。",
+    "sentence_furigana": "こ の機会【きかい】を活【い】かさなければならない。",
+    "meaning": "We must make use of this opportunity."
+  },
+  {
+    "sentence": "彼は多くの票を得ることができた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの票【ひょう】を獲【え】ることができた。",
+    "meaning": "He was able to get many votes."
+  },
+  {
+    "sentence": "彼はその地位を確保した。",
+    "sentence_furigana": "彼【かれ】はそ の地位【ちい】を確保【かくほ】した。",
+    "meaning": "He secured that position."
+  },
+  {
+    "sentence": "この目標を達成できると信じている。",
+    "sentence_furigana": "こ の目標【もくひょう】を達成【たいせい】できると信【しん】じている。",
+    "meaning": "I believe we can achieve this goal."
+  },
+  {
+    "sentence": "彼は獲物を狙っていた。",
+    "sentence_furigana": "彼【かれ】は獲物【えもの】を狙【ねら】っていた。",
+    "meaning": "He was aiming for prey."
+  },
+  {
+    "sentence": "私はその情報にアクセスできた。",
+    "sentence_furigana": "私【わたし】はそ の情報【じょうほう】にアクセスできた。",
+    "meaning": "I was able to access that information."
+  },
+  {
+    "sentence": "彼は多くの愛を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの愛【あい】を獲【え】た。",
+    "meaning": "He gained a lot of love."
+  },
+  {
+    "sentence": "この計画を成功させることができる。",
+    "sentence_furigana": "こ の計画【けいかく】を成功【せいこう】させることができる。",
+    "meaning": "We can make this plan succeed."
+  },
+  {
+    "sentence": "彼はその秘密を暴いた。",
+    "sentence_furigana": "彼【かれ】はそ の秘密【ひみつ】を暴【あば】いた。",
+    "meaning": "He uncovered the secret."
+  },
+  {
+    "sentence": "あなたはそれを掴むことができるはずだ。",
+    "sentence_furigana": "あなた はそれを掴【つか】むことができるはずだ。",
+    "meaning": "You should be able to seize that."
+  },
+  {
+    "sentence": "彼は多くの人の尊敬を集めた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人【ひと】の尊敬【そんけい】を集【あつ】めた。",
+    "meaning": "He earned the respect of many people."
+  },
+  {
+    "sentence": "この報酬を得るために頑張った。",
+    "sentence_furigana": "こ の報酬【ほうしゅう】を得【え】るために頑張【がんば】った。",
+    "meaning": "I worked hard to get this reward."
+  },
+  {
+    "sentence": "彼は貴重な経験を積んだ。",
+    "sentence_furigana": "彼【かれ】は貴重【きちょう】な経験【けいけん】を積【つ】んだ。",
+    "meaning": "He gained valuable experience."
+  },
+  {
+    "sentence": "我々は勝利を掴むことができる。",
+    "sentence_furigana": "我々【われわれ】は勝利【しょうり】を掴【つか】むことができる。",
+    "meaning": "We can seize victory."
+  },
+  {
+    "sentence": "彼は多くの知見を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知見【ちけん】を獲【え】た。",
+    "meaning": "He acquired much knowledge."
+  },
+  {
+    "sentence": "このチャンスを活かして進む。",
+    "sentence_furigana": "こ のチャンスを活【い】かして進【すす】む。",
+    "meaning": "I will move forward by utilizing this chance."
+  },
+  {
+    "sentence": "彼は多くの人々の心を掴んで離さない。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の心【こころ】を掴【つか】んで離【はな】さない。",
+    "meaning": "He captures and holds the hearts of many people."
+  },
+  {
+    "sentence": "彼は勝利を掴むことを決意した。",
+    "sentence_furigana": "彼【かれ】は勝利【しょうり】を掴【つか】むことを決意【けつい】した。",
+    "meaning": "He resolved to seize victory."
+  },
+  {
+    "sentence": "この難局を乗り越えることができるだろうか。",
+    "sentence_furigana": "こ の難局【なんきょく】を乗【の】り越【こ】えることができるだろうか。",
+    "meaning": "Will we be able to overcome this difficult situation?"
+  },
+  {
+    "sentence": "彼はその知らせを一番早く手に入れた。",
+    "sentence_furigana": "彼【かれ】はそ の知らせ【しらせ】を一番早【いちばんはや】く手【て】に入【い】れた。",
+    "meaning": "He was the first to get the news."
+  },
+  {
+    "sentence": "私はその役を得た。",
+    "sentence_furigana": "私【わたし】はそ の役【やく】を獲【え】た。",
+    "meaning": "I got the role."
+  },
+  {
+    "sentence": "彼は多くのファンを魅了した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くのファンを魅了【みりょう】した。",
+    "meaning": "He captivated many fans."
+  },
+  {
+    "sentence": "彼は掴むべきものを掴んだ。",
+    "sentence_furigana": "彼【かれ】は掴【つか】むべきものを掴【つか】んだ。",
+    "meaning": "He seized what he should have seized."
+  },
+  {
+    "sentence": "私はこのチャンスを掴む。",
+    "sentence_furigana": "私【わたし】はこ のチャンスを掴【つか】む。",
+    "meaning": "I will seize this opportunity."
+  },
+  {
+    "sentence": "彼は彼の敵からその土地を奪った。",
+    "sentence_furigana": "彼【かれ】は彼【かれ】の敵【てき】からそ の土地【とち】を奪【うば】った。",
+    "meaning": "He took the land from his enemies."
+  },
+  {
+    "sentence": "この機会に学ぶことができる。",
+    "sentence_furigana": "こ の機会【きかい】に学【まな】ぶことができる。",
+    "meaning": "You can learn on this occasion."
+  },
+  {
+    "sentence": "彼は多くのお金を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くのお金【かね】を獲【え】た。",
+    "meaning": "He earned a lot of money."
+  },
+  {
+    "sentence": "彼はその獲物を仕留めた。",
+    "sentence_furigana": "彼【かれ】はそ の獲物【えもの】を仕留【しと】めた。",
+    "meaning": "He killed his prey."
+  },
+  {
+    "sentence": "彼らは勝利を収めることができた。",
+    "sentence_furigana": "彼【かれ】ら は勝利【しょうり】を収【おさ】めることができた。",
+    "meaning": "They were able to achieve victory."
+  },
+  {
+    "sentence": "彼は多くの尊敬を得るに値する。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの尊敬【そんけい】を得【え】るに値【あたい】する。",
+    "meaning": "He deserves to gain much respect."
+  },
+  {
+    "sentence": "この目標を達成する。",
+    "sentence_furigana": "こ の目標【もくひょう】を達成【たいせい】する。",
+    "meaning": "Achieve this goal."
+  },
+  {
+    "sentence": "彼はその知らせを掴むために急いだ。",
+    "sentence_furigana": "彼【かれ】はそ の知らせ【しらせ】を掴【つか】むために急【いそ】いだ。",
+    "meaning": "He hurried to get the news."
+  },
+  {
+    "sentence": "この経験から多くを学べた。",
+    "sentence_furigana": "こ の経験【けいけん】から多【おお】くを学【まな】べた。",
+    "meaning": "I learned a lot from this experience."
+  },
+  {
+    "sentence": "彼は多くの困難を乗り越えた経験を持つ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの困難【こんなん】を乗【の】り越【こ】えた経験【けいけん】を持【も】つ。",
+    "meaning": "He has experience overcoming many difficulties."
+  },
+  {
+    "sentence": "我々はそれを獲得できる。",
+    "sentence_furigana": "我々【われわれ】はそれを獲得【かくとく】できる。",
+    "meaning": "We can acquire that."
+  },
+  {
+    "sentence": "彼は多くのお褒めの言葉を頂戴した。",
+    "sentence_furigana": "彼【かれ】は多【おお】くのお褒【ほ】めの言葉【ことば】を頂戴【ちょうだい】した。",
+    "meaning": "He received many words of praise."
+  },
+  {
+    "sentence": "彼はその賞を手にすることに成功した。",
+    "sentence_furigana": "彼【かれ】はそ の賞【しょう】を手【て】にすることに成功【せいこう】した。",
+    "meaning": "He succeeded in getting the award."
+  },
+  {
+    "sentence": "この困難な状況を乗り越えることができると信じている。",
+    "sentence_furigana": "こ の困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えることができると信【しん】じている。",
+    "meaning": "I believe we can overcome this difficult situation."
+  },
+  {
+    "sentence": "彼は多くの人々の共感を呼んだ。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の共感【きょうかん】を呼【よ】んだ。",
+    "meaning": "He garnered the sympathy of many people."
+  },
+  {
+    "sentence": "彼はその栄誉を掴んだ。",
+    "sentence_furigana": "彼【かれ】はそ の栄誉【えいよ】を掴【つか】んだ。",
+    "meaning": "He seized the honor."
+  },
+  {
+    "sentence": "私はその機会を活かした。",
+    "sentence_furigana": "私【わたし】はそ の機会【きかい】を活【い】かした。",
+    "meaning": "I utilized that opportunity."
+  },
+  {
+    "sentence": "彼は多くの人々の信頼を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の信頼【しんらい】を獲【え】た。",
+    "meaning": "He gained the trust of many people."
+  },
+  {
+    "sentence": "このチャンスを掴み取る。",
+    "sentence_furigana": "こ のチャンスを掴【つか】み取【と】る。",
+    "meaning": "Seize this chance."
+  },
+  {
+    "sentence": "彼は勝利の味を噛み締めた。",
+    "sentence_furigana": "彼【かれ】は勝利【しょうり】の味【あじ】を噛【か】み締【し】めた。",
+    "meaning": "He savored the taste of victory."
+  },
+  {
+    "sentence": "彼は多くの知識を得ることができた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】を得【え】ることができた。",
+    "meaning": "He was able to gain a lot of knowledge."
+  },
+  {
+    "sentence": "私たちはその困難を乗り越えることができる。",
+    "sentence_furigana": "私【わたし】たち はそ の困難【こんなん】を乗【の】り越【こ】えることができる。",
+    "meaning": "We can overcome that difficulty."
+  },
+  {
+    "sentence": "彼はその機会を掴み取った。",
+    "sentence_furigana": "彼【かれ】はそ の機会【きかい】を掴【つか】み取【と】った。",
+    "meaning": "He seized the opportunity."
+  },
+  {
+    "sentence": "この勝利は我々が掴んだものだ。",
+    "sentence_furigana": "こ の勝利【しょうり】は我々【われわれ】が掴【つか】んだものだ。",
+    "meaning": "This victory is something we seized."
+  },
+  {
+    "sentence": "彼は多くの人々の支持を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の支持【しじ】を獲【え】た。",
+    "meaning": "He gained the support of many people."
+  },
+  {
+    "sentence": "彼は獲物を狩るために森へ行った。",
+    "sentence_furigana": "彼【かれ】は獲物【えもの】を狩【か】るために森【もり】へ行【い】った。",
+    "meaning": "He went into the forest to hunt prey."
+  },
+  {
+    "sentence": "彼はその情報を手に入れることができた。",
+    "sentence_furigana": "彼【かれ】はそ の情報【じょうほう】を手【て】に入【い】れることができた。",
+    "meaning": "He was able to obtain that information."
+  },
+  {
+    "sentence": "彼は多くの批評を得た。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの批評【ひひょう】を獲【え】た。",
+    "meaning": "He received much criticism."
+  },
+  {
+    "sentence": "このチャンスを活かす。",
+    "sentence_furigana": "こ のチャンスを活【い】かす。",
+    "meaning": "Utilize this chance."
+  },
+  {
+    "sentence": "彼はその栄光を掴み取った。",
+    "sentence_furigana": "彼【かれ】はそ の栄光【えいこう】を掴【つか】み取【と】った。",
+    "meaning": "He seized the glory."
+  },
+  {
+    "sentence": "私たちはそれを達成できる。",
+    "sentence_furigana": "私【わたし】たち はそれを達成【たいせい】できる。",
+    "meaning": "We can achieve that."
+  },
+  {
+    "sentence": "彼は多くの人々の注目を集めた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の注目【ちゅうもく】を集【あつ】めた。",
+    "meaning": "He attracted the attention of many people."
+  },
+  {
+    "sentence": "この仕事を得るために努力した。",
+    "sentence_furigana": "こ の仕事【しごと】を得【え】るために努力【どりょく】した。",
+    "meaning": "I worked hard to get this job."
+  },
+  {
+    "sentence": "彼はそのチャンスを掴んだ。",
+    "sentence_furigana": "彼【かれ】はそ のチャンスを掴【つか】んだ。",
+    "meaning": "He seized the chance."
+  }
+]

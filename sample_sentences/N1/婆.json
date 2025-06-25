@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "その老婆は親切でした。",
+    "sentence_furigana": "その老【ろう】婆【ば】は親切【しんせつ】でした。",
+    "meaning": "That old woman was kind."
+  },
+  {
+    "sentence": "婆の昔話は面白い。",
+    "sentence_furigana": "婆【ばあ】の昔話【むかしばなし】は面白【おもしろ】い。",
+    "meaning": "Grandma's old tales are interesting."
+  },
+  {
+    "sentence": "婆やが子供をあやしていた。",
+    "sentence_furigana": "婆【ばあ】やが子供【こども】をあやしていました。",
+    "meaning": "The wet nurse was soothing the child."
+  },
+  {
+    "sentence": "彼女は婆のようだった。",
+    "sentence_furigana": "彼女【かのじょ】は婆【ばば】のようでした。",
+    "meaning": "She was like an old woman."
+  },
+  {
+    "sentence": "婆は孫のためにケーキを作った。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】のためにケーキを作【つく】った。",
+    "meaning": "Grandma made a cake for her grandchild."
+  },
+  {
+    "sentence": "老婆の知恵は深い。",
+    "sentence_furigana": "老【ろう】婆【ば】の知恵【ちえ】は深【ふか】い。",
+    "meaning": "The old woman's wisdom is deep."
+  },
+  {
+    "sentence": "婆の思い出は宝物です。",
+    "sentence_furigana": "婆【ばあ】の思【おも】い出【で】は宝物【たからもの】です。",
+    "meaning": "Grandma's memories are treasures."
+  },
+  {
+    "sentence": "彼は婆に育てられた。",
+    "sentence_furigana": "彼【かれ】は婆【ばあ】に育【そだ】てられた。",
+    "meaning": "He was raised by his grandmother."
+  },
+  {
+    "sentence": "老婆はゆっくり歩いていた。",
+    "sentence_furigana": "老【ろう】婆【ば】はゆっくり歩【ある】いていました。",
+    "meaning": "The old woman was walking slowly."
+  },
+  {
+    "sentence": "婆はいつも笑顔だった。",
+    "sentence_furigana": "婆【ばあ】はいつも笑顔【えがお】でした。",
+    "meaning": "Grandma was always smiling."
+  },
+  {
+    "sentence": "昔、婆が住んでいました。",
+    "sentence_furigana": "昔【むかし】、婆【ばば】が住【す】んでいました。",
+    "meaning": "Once upon a time, an old woman lived there."
+  },
+  {
+    "sentence": "婆の声は優しい。",
+    "sentence_furigana": "婆【ばあ】の声【こえ】は優【やさ】しい。",
+    "meaning": "Grandma's voice is gentle."
+  },
+  {
+    "sentence": "老婆は物語を語った。",
+    "sentence_furigana": "老【ろう】婆【ば】は物語【ものがたり】を語【かた】った。",
+    "meaning": "The old woman told a story."
+  },
+  {
+    "sentence": "婆の料理は絶品だ。",
+    "sentence_furigana": "婆【ばあ】の料理【りょうり】は絶品【ぜっぴん】だ。",
+    "meaning": "Grandma's cooking is exquisite."
+  },
+  {
+    "sentence": "その婆は呪いをかけた。",
+    "sentence_furigana": "その婆【ばば】は呪【のろ】いをかけた。",
+    "meaning": "That old woman cast a curse."
+  },
+  {
+    "sentence": "老婆の顔には皺が刻まれていた。",
+    "sentence_furigana": "老【ろう】婆【ば】の顔【かお】には皺【しわ】が刻【きざ】まれていました。",
+    "meaning": "Wrinkles were etched on the old woman's face."
+  },
+  {
+    "sentence": "婆は静かに編み物をしていた。",
+    "sentence_furigana": "婆【ばあ】は静【しず】かに編【あ】み物【もの】をしていました。",
+    "meaning": "Grandma was quietly knitting."
+  },
+  {
+    "sentence": "彼は婆に着物を着せてもらった。",
+    "sentence_furigana": "彼【かれ】は婆【ばあ】に着物【きもの】を着【き】せてもらった。",
+    "meaning": "He had his grandmother dress him in a kimono."
+  },
+  {
+    "sentence": "老婆は遠くを見つめていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は遠【とお】くを見【み】つめていました。",
+    "meaning": "The old woman was gazing into the distance."
+  },
+  {
+    "sentence": "婆の教えは忘れられない。",
+    "sentence_furigana": "婆【ばあ】の教【おし】えは忘【わす】れられない。",
+    "meaning": "Grandma's teachings are unforgettable."
+  },
+  {
+    "sentence": "老婆は町を歩き回っていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は町【まち】を歩【ある】き回【まわ】っていました。",
+    "meaning": "The old woman was wandering around town."
+  },
+  {
+    "sentence": "その婆は何かを隠している。",
+    "sentence_furigana": "その婆【ばば】は何か【なにか】を隠【かく】している。",
+    "meaning": "That old woman is hiding something."
+  },
+  {
+    "sentence": "婆の笑顔が心を温めた。",
+    "sentence_furigana": "婆【ばあ】の笑顔【えがお】が心【こころ】を温【あたた】めた。",
+    "meaning": "Grandma's smile warmed my heart."
+  },
+  {
+    "sentence": "老婆は村で一番の賢者だった。",
+    "sentence_furigana": "老【ろう】婆【ば】は村【むら】で一番【いちばん】の賢者【けんじゃ】でした。",
+    "meaning": "The old woman was the wisest person in the village."
+  },
+  {
+    "sentence": "婆は子供たちに物語を聞かせた。",
+    "sentence_furigana": "婆【ばあ】は子供【こども】たちに物語【ものがたり】を聞【き】かせた。",
+    "meaning": "Grandma told stories to the children."
+  },
+  {
+    "sentence": "老婆は椅子に座って休んでいた。",
+    "sentence_furigana": "老【ろう】婆【ば】は椅子【いす】に座【すわ】って休【やす】んでいました。",
+    "meaning": "The old woman was sitting and resting on a chair."
+  },
+  {
+    "sentence": "婆は花を育てている。",
+    "sentence_furigana": "婆【ばあ】は花【はな】を育【そだ】てています。",
+    "meaning": "Grandma is growing flowers."
+  },
+  {
+    "sentence": "老婆の目は優しく輝いていた。",
+    "sentence_furigana": "老【ろう】婆【ば】の目【め】は優【やさ】しく輝【かがや】いていました。",
+    "meaning": "The old woman's eyes shone kindly."
+  },
+  {
+    "sentence": "婆は私たちに歓迎してくれた。",
+    "sentence_furigana": "婆【ばあ】は私たち【わたしたち】に歓迎【かんげい】してくれました。",
+    "meaning": "Grandma welcomed us."
+  },
+  {
+    "sentence": "老婆の髪は白かった。",
+    "sentence_furigana": "老【ろう】婆【ば】の髪【かみ】は白【しろ】かった。",
+    "meaning": "The old woman's hair was white."
+  },
+  {
+    "sentence": "婆は庭で働いていた。",
+    "sentence_furigana": "婆【ばあ】は庭【にわ】で働【はたら】いていました。",
+    "meaning": "Grandma was working in the garden."
+  },
+  {
+    "sentence": "老婆は静かな生活を送っていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は静【しず】かな生活【せいかつ】を送【おく】っていました。",
+    "meaning": "The old woman lived a quiet life."
+  },
+  {
+    "sentence": "婆は孫娘に人形をくれた。",
+    "sentence_furigana": "婆【ばあ】は孫娘【まごむすめ】に人形【にんぎょう】をくれました。",
+    "meaning": "Grandma gave a doll to her granddaughter."
+  },
+  {
+    "sentence": "老婆は教会へ行った。",
+    "sentence_furigana": "老【ろう】婆【ば】は教会【きょうかい】へ行【い】った。",
+    "meaning": "The old woman went to church."
+  },
+  {
+    "sentence": "婆の家は山の麓にあった。",
+    "sentence_furigana": "婆【ばあ】の家【いえ】は山【やま】の麓【ふもと】にあった。",
+    "meaning": "Grandma's house was at the foot of the mountain."
+  },
+  {
+    "sentence": "老婆は昔話を語ってくれた。",
+    "sentence_furigana": "老【ろう】婆【ば】は昔話【むかしばなし】を語【かた】ってくれました。",
+    "meaning": "The old woman told us an old story."
+  },
+  {
+    "sentence": "婆の手は温かかった。",
+    "sentence_furigana": "婆【ばあ】の手【て】は温【あたた】かかった。",
+    "meaning": "Grandma's hands were warm."
+  },
+  {
+    "sentence": "老婆は祈りを捧げていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は祈【いの】りを捧【ささ】げていました。",
+    "meaning": "The old woman was offering prayers."
+  },
+  {
+    "sentence": "婆は子供を抱きしめた。",
+    "sentence_furigana": "婆【ばあ】は子供【こども】を抱【いだ】きしめた。",
+    "meaning": "Grandma hugged the child."
+  },
+  {
+    "sentence": "老婆は窓の外を見ていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は窓【まど】の外【そと】を見【み】ていました。",
+    "meaning": "The old woman was looking out the window."
+  },
+  {
+    "sentence": "婆は私たちに助言を与えた。",
+    "sentence_furigana": "婆【ばあ】は私たち【わたしたち】に助言【じょげん】を与【あた】えた。",
+    "meaning": "Grandma gave us advice."
+  },
+  {
+    "sentence": "老婆は若い頃の話をした。",
+    "sentence_furigana": "老【ろう】婆【ば】は若【わか】い頃【ころ】の話【はなし】をした。",
+    "meaning": "The old woman talked about her youth."
+  },
+  {
+    "sentence": "婆はいつも元気が良い。",
+    "sentence_furigana": "婆【ばあ】はいつも元気【げんき】が良い【い】い。",
+    "meaning": "Grandma is always energetic."
+  },
+  {
+    "sentence": "老婆は道端に座っていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は道端【みちばた】に座【すわ】っていました。",
+    "meaning": "The old woman was sitting by the roadside."
+  },
+  {
+    "sentence": "婆は新しい服を着ていた。",
+    "sentence_furigana": "婆【ばあ】は新【あたら】しい服【ふく】を着【き】ていました。",
+    "meaning": "Grandma was wearing new clothes."
+  },
+  {
+    "sentence": "老婆は魔法の力を持っていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は魔法【まほう】の力【ちから】を持【も】っていました。",
+    "meaning": "The old woman possessed magical powers."
+  },
+  {
+    "sentence": "婆は昔の歌を歌った。",
+    "sentence_furigana": "婆【ばあ】は昔【むかし】の歌【うた】を歌【うた】った。",
+    "meaning": "Grandma sang an old song."
+  },
+  {
+    "sentence": "老婆はゆっくりと立ち上がった。",
+    "sentence_furigana": "老【ろう】婆【ば】はゆっくりと立【た】ち上が【あ】がった。",
+    "meaning": "The old woman slowly stood up."
+  },
+  {
+    "sentence": "婆は子供に絵本を読んでくれた。",
+    "sentence_furigana": "婆【ばあ】は子供【こども】に絵本【えほん】を読【よ】んでくれました。",
+    "meaning": "Grandma read a picture book to the child."
+  },
+  {
+    "sentence": "老婆は穏やかな表情をしていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は穏【おだ】やかな表情【ひょうじょう】をしていました。",
+    "meaning": "The old woman had a gentle expression."
+  },
+  {
+    "sentence": "婆の料理はいつも美味しい。",
+    "sentence_furigana": "婆【ばあ】の料理【りょうり】はいつも美味【おい】しい。",
+    "meaning": "Grandma's cooking is always delicious."
+  },
+  {
+    "sentence": "老婆は古い家を建てた。",
+    "sentence_furigana": "老【ろう】婆【ば】は古【ふる】い家【いえ】を建【た】てた。",
+    "meaning": "The old woman built an old house."
+  },
+  {
+    "sentence": "婆は私たちに別れを告げた。",
+    "sentence_furigana": "婆【ばあ】は私たち【わたしたち】に別【わか】れを告【つ】げた。",
+    "meaning": "Grandma said goodbye to us."
+  },
+  {
+    "sentence": "老婆は長い旅に出た。",
+    "sentence_furigana": "老【ろう】婆【ば】は長【なが】い旅【たび】に出【で】た。",
+    "meaning": "The old woman went on a long journey."
+  },
+  {
+    "sentence": "婆は孫の成長を見守っていた。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】の成長【せいちょう】を見守【みまも】っていました。",
+    "meaning": "Grandma watched over her grandchild's growth."
+  },
+  {
+    "sentence": "老婆は穏やかに微笑んだ。",
+    "sentence_furigana": "老【ろう】婆【ば】は穏【おだ】やかに微笑【ほほえ】んだ。",
+    "meaning": "The old woman smiled serenely."
+  },
+  {
+    "sentence": "婆は病気の人を看護した。",
+    "sentence_furigana": "婆【ばば】は病気【びょうき】の人【ひと】を看護【かんご】した。",
+    "meaning": "The old woman nursed the sick person."
+  },
+  {
+    "sentence": "老婆は力強く歩いていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は力強【ちからづよ】く歩【ある】いていました。",
+    "meaning": "The old woman walked strongly."
+  },
+  {
+    "sentence": "婆は静かに祈っていた。",
+    "sentence_furigana": "婆【ばあ】は静【しず】かに祈【いの】っていました。",
+    "meaning": "Grandma was praying quietly."
+  },
+  {
+    "sentence": "老婆は若い頃の写真を大切にしていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は若【わか】い頃【ころ】の写真【しゃしん】を大切【たいせつ】にしていました。",
+    "meaning": "The old woman cherished photos from her youth."
+  },
+  {
+    "sentence": "婆は皆に慕われていた。",
+    "sentence_furigana": "婆【ばあ】は皆【みな】に慕【した】われていました。",
+    "meaning": "Grandma was loved by everyone."
+  },
+  {
+    "sentence": "老婆は古い物語を信じていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は古【ふる】い物語【ものがたり】を信【しん】じていました。",
+    "meaning": "The old woman believed in old tales."
+  },
+  {
+    "sentence": "婆は子供たちの遊び相手になった。",
+    "sentence_furigana": "婆【ばあ】は子供【こども】たちの遊【あそ】び相手【あいて】になった。",
+    "meaning": "Grandma became playmates with the children."
+  },
+  {
+    "sentence": "老婆は市場で買い物をした。",
+    "sentence_furigana": "老【ろう】婆【ば】は市場【いちば】で買【か】い物【もの】をした。",
+    "meaning": "The old woman went shopping at the market."
+  },
+  {
+    "sentence": "婆は孫に昔の話を聞かせた。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】に昔【むかし】の話【はなし】を聞【き】かせた。",
+    "meaning": "Grandma told her grandchild old stories."
+  },
+  {
+    "sentence": "老婆はゆっくりと微笑んだ。",
+    "sentence_furigana": "老【ろう】婆【ば】はゆっくりと微笑【ほほえ】んだ。",
+    "meaning": "The old woman smiled slowly."
+  },
+  {
+    "sentence": "婆は私たちに優しく語りかけた。",
+    "sentence_furigana": "婆【ばあ】は私たち【わたしたち】に優【やさ】しく語【かた】りかけました。",
+    "meaning": "Grandma spoke to us kindly."
+  },
+  {
+    "sentence": "老婆は静かに読書をしていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は静【しず】かに読書【どくしょ】をしていました。",
+    "meaning": "The old woman was quietly reading."
+  },
+  {
+    "sentence": "婆は美しいドレスを着ていた。",
+    "sentence_furigana": "婆【ばあ】は美【うつく】しいドレスを着【き】ていました。",
+    "meaning": "Grandma was wearing a beautiful dress."
+  },
+  {
+    "sentence": "老婆は遠い昔を思い出していた。",
+    "sentence_furigana": "老【ろう】婆【ば】は遠【とお】い昔【むかし】を思【おも】い出【だ】していました。",
+    "meaning": "The old woman was remembering the distant past."
+  },
+  {
+    "sentence": "婆は私たちに贈り物をくれた。",
+    "sentence_furigana": "婆【ばあ】は私たち【わたしたち】に贈【おく】り物【もの】をくれました。",
+    "meaning": "Grandma gave us a gift."
+  },
+  {
+    "sentence": "老婆は健康に気を配っていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は健康【けんこう】に気【き】を配【くば】っていました。",
+    "meaning": "The old woman took care of her health."
+  },
+  {
+    "sentence": "婆はいつも元気な様子だった。",
+    "sentence_furigana": "婆【ばあ】はいつも元気【げんき】な様子【ようす】でした。",
+    "meaning": "Grandma always seemed energetic."
+  },
+  {
+    "sentence": "老婆は長い間一人で暮らしていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は長【なが】い間【あいだ】一人【ひとり】で暮【く】らしていました。",
+    "meaning": "The old woman lived alone for a long time."
+  },
+  {
+    "sentence": "婆は私たちに感謝の言葉を述べた。",
+    "sentence_furigana": "婆【ばあ】は私たち【わたしたち】に感謝【かんしゃ】の言葉【ことば】を述【の】べた。",
+    "meaning": "Grandma expressed her gratitude to us."
+  },
+  {
+    "sentence": "老婆は神聖な場所を訪れた。",
+    "sentence_furigana": "老【ろう】婆【ば】は神聖【しんせい】な場所【ばしょ】を訪【おとず】れた。",
+    "meaning": "The old woman visited a sacred place."
+  },
+  {
+    "sentence": "婆は孫にベルトを締めてくれた。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】にベルトを締【し】めてくれました。",
+    "meaning": "Grandma fastened the belt for her grandchild."
+  },
+  {
+    "sentence": "老婆は穏やかな表情で空を見上げた。",
+    "sentence_furigana": "老【ろう】婆【ば】は穏【おだ】やかな表情【ひょうじょう】で空【そら】を見上【みあ】げた。",
+    "meaning": "The old woman looked up at the sky with a gentle expression."
+  },
+  {
+    "sentence": "婆は昔の歌を口ずさんでいた。",
+    "sentence_furigana": "婆【ばあ】は昔【むかし】の歌【うた】を口ず【くちず】さんでいました。",
+    "meaning": "Grandma was humming an old song."
+  },
+  {
+    "sentence": "老婆は子供たちに良いことを教えた。",
+    "sentence_furigana": "老【ろう】婆【ば】は子供【こども】たちに良【よ】いことを教【おし】えた。",
+    "meaning": "The old woman taught good things to the children."
+  },
+  {
+    "sentence": "婆は孫娘を抱きしめてキスをした。",
+    "sentence_furigana": "婆【ばあ】は孫娘【まごむすめ】を抱【いだ】きしめてキスをした。",
+    "meaning": "Grandma hugged and kissed her granddaughter."
+  },
+  {
+    "sentence": "老婆は優しい言葉をかけた。",
+    "sentence_furigana": "老【ろう】婆【ば】は優【やさ】しい言葉【ことば】をかけた。",
+    "meaning": "The old woman spoke kind words."
+  },
+  {
+    "sentence": "婆はいつも私たちを待っている。",
+    "sentence_furigana": "婆【ばあ】はいつも私たち【わたしたち】を待【ま】っている。",
+    "meaning": "Grandma is always waiting for us."
+  },
+  {
+    "sentence": "老婆は静かに瞑想していた。",
+    "sentence_furigana": "老【ろう】婆【ば】は静【しず】かに瞑想【めいそう】していました。",
+    "meaning": "The old woman was meditating quietly."
+  },
+  {
+    "sentence": "婆は病気の孫のそばにいた。",
+    "sentence_furigana": "婆【ばあ】は病気【びょうき】の孫【まご】のそばにいました。",
+    "meaning": "Grandma was by her sick grandchild's side."
+  },
+  {
+    "sentence": "老婆は美しい花束を贈った。",
+    "sentence_furigana": "老【ろう】婆【ば】は美【うつく】しい花束【はなたば】を贈【おく】った。",
+    "meaning": "The old woman gave a beautiful bouquet."
+  },
+  {
+    "sentence": "婆は祖母から昔の衣装を受け継いだ。",
+    "sentence_furigana": "婆【ばあ】は祖母【そぼ】から昔【むかし】の衣装【いしょう】を受【う】け継【つ】いだ。",
+    "meaning": "Grandma inherited old attire from her grandmother."
+  },
+  {
+    "sentence": "老婆は窓辺に座って外を眺めていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は窓辺【まどべ】に座【すわ】って外【そと】を眺【なが】めていました。",
+    "meaning": "The old woman sat by the window gazing outside."
+  },
+  {
+    "sentence": "婆は若い頃、踊りを習っていた。",
+    "sentence_furigana": "婆【ばあ】は若【わか】い頃【ころ】、踊【おど】りを習【なら】っていました。",
+    "meaning": "Grandma used to learn dancing when she was young."
+  },
+  {
+    "sentence": "老婆は神秘的な力を持っていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は神秘的【しんぴてき】な力【ちから】を持【も】っていました。",
+    "meaning": "The old woman possessed mysterious powers."
+  },
+  {
+    "sentence": "婆は孫に励ましの言葉をかけた。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】に励【はげ】ましの言葉【ことば】をかけた。",
+    "meaning": "Grandma gave words of encouragement to her grandchild."
+  },
+  {
+    "sentence": "老婆は静かに手を合わせていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は静【しず】かに手【て】を合【あ】わせていました。",
+    "meaning": "The old woman was quietly joining her hands."
+  },
+  {
+    "sentence": "婆は孫に編み方を教えた。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】に編【あ】み方【かた】を教【おし】えた。",
+    "meaning": "Grandma taught her grandchild how to knit."
+  },
+  {
+    "sentence": "老婆は古びた鏡を見ていた。",
+    "sentence_furigana": "老【ろう】婆【ば】は古【ふる】びた鏡【かがみ】を見【み】ていました。",
+    "meaning": "The old woman was looking at an old mirror."
+  },
+  {
+    "sentence": "婆は孫たちに愛情を注いだ。",
+    "sentence_furigana": "婆【ばあ】は孫【まご】たちに愛情【あいじょう】を注【そそ】いだ。",
+    "meaning": "Grandma poured love into her grandchildren."
+  },
+  {
+    "sentence": "老婆は古い書物を読んでいた。",
+    "sentence_furigana": "老【ろう】婆【ば】は古【ふる】い書物【しょもつ】を読【よ】んでいました。",
+    "meaning": "The old woman was reading old books."
+  },
+  {
+    "sentence": "婆はいつも穏やかな笑顔だった。",
+    "sentence_furigana": "婆【ばあ】はいつも穏【おだ】やかな笑顔【えがお】でした。",
+    "meaning": "Grandma always had a gentle smile."
+  },
+  {
+    "sentence": "老婆は静かに微笑みながら子供の話を聞いた。",
+    "sentence_furigana": "老【ろう】婆【ば】は静【しず】かに微笑【ほほえ】みながら子供【こども】の話【はなし】を聞【き】いた。",
+    "meaning": "The old woman listened to the child's story while smiling quietly."
+  }
+]

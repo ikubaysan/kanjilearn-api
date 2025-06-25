@@ -1,0 +1,597 @@
+[
+  {
+    "sentence": "彼の昇進を心から欣慶しました。",
+    "sentence_furigana": "彼【かれ】の昇進【しょうしん】を心【こころ】から欣慶【きんけい】しました。",
+    "meaning": "I sincerely rejoiced at his promotion."
+  },
+  {
+    "sentence": "新しいプロジェクトの成功を欣喜しています。",
+    "sentence_furigana": "新【あら】しいプロジェクトの成功【せいこう】を欣喜【きんき】しています。",
+    "meaning": "I am delighted about the success of the new project."
+  },
+  {
+    "sentence": "遠い故郷に帰れることを欣快に思っています。",
+    "sentence_furigana": "遠【とお】い故郷【こきょう】に帰【かえ】れることを欣快【きんかい】に思【おも】っています。",
+    "meaning": "I feel overjoyed to be able to return to my distant hometown."
+  },
+  {
+    "sentence": "待ちに待った休暇が始まり、欣然として出かけました。",
+    "sentence_furigana": "待【ま】ち望【のぞ】んだ休暇【きゅうか】が始【はじ】まり、欣然【きんぜん】として出【で】かけました。",
+    "meaning": "The long-awaited vacation began, and I happily set out."
+  },
+  {
+    "sentence": "長年の夢が叶い、欣喜雀躍しています。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、欣喜雀躍【きんきじゃくやく】しています。",
+    "meaning": "My long-held dream has come true, and I am jumping for joy."
+  },
+  {
+    "sentence": "友人の結婚を心から欣んでおります。",
+    "sentence_furigana": "友人【ゆうじん】の結婚【けっこん】を心【こころ】から欣【よろこ】んでおります。",
+    "meaning": "I sincerely congratulate my friend on their marriage."
+  },
+  {
+    "sentence": "予想以上の結果に欣喜しています。",
+    "sentence_furigana": "予想以上【よそういじょう】の結果【けっか】に欣喜【きんき】しています。",
+    "meaning": "I am thrilled with the results, which exceeded expectations."
+  },
+  {
+    "sentence": "再会の日を欣求していました。",
+    "sentence_furigana": "再会【さいかい】の日【ひ】を欣求【きんく】していました。",
+    "meaning": "I was eagerly anticipating the day of our reunion."
+  },
+  {
+    "sentence": "子供の成長を欣んで見守っています。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】を欣【よろこ】んで見守【みまも】っています。",
+    "meaning": "I watch over my children's growth with joy."
+  },
+  {
+    "sentence": "合格の知らせに欣喜しました。",
+    "sentence_furigana": "合格【ごうかく】の知【し】らせに欣喜【きんき】しました。",
+    "meaning": "I was overjoyed at the news of my passing."
+  },
+  {
+    "sentence": "来たるべき祭りを欣喜に待ち望んでいる。",
+    "sentence_furigana": "来【く】るべき祭【まつ】りを欣喜【きんき】に待【ま】ち望【のぞ】んでいる。",
+    "meaning": "We are eagerly awaiting the upcoming festival."
+  },
+  {
+    "sentence": "長年の努力が実を結び、欣喜に堪えません。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が実【み】を結【むす】び、欣喜【きんき】に堪【た】えません。",
+    "meaning": "My many years of effort have borne fruit, and I cannot contain my joy."
+  },
+  {
+    "sentence": "優勝カップを受け取り、欣喜の声を上げた。",
+    "sentence_furigana": "優勝カップを受【う】け取【と】り、欣喜【きんき】の声【こえ】を上【あ】げた。",
+    "meaning": "He received the championship cup and cried out with joy."
+  },
+  {
+    "sentence": "久しぶりの休日に欣然とベッドから起きた。",
+    "sentence_furigana": "久しぶりの休日【きゅうじつ】に欣然【きんぜん】とベッドから起【お】きた。",
+    "meaning": "On the long-awaited day off, I happily got out of bed."
+  },
+  {
+    "sentence": "恩師との再会に、欣喜するばかりであった。",
+    "sentence_furigana": "恩師【おんし】との再会【さいかい】に、欣喜【きんき】するばかりであった。",
+    "meaning": "I was nothing but overjoyed at reuniting with my respected teacher."
+  },
+  {
+    "sentence": "彼女の到着を欣喜して待っていた。",
+    "sentence_furigana": "彼女【かのじょ】の到着【とうちゃく】を欣喜【きんき】して待【ま】っていた。",
+    "meaning": "I was waiting with joy for her arrival."
+  },
+  {
+    "sentence": "素晴らしいギフトに欣喜しました。",
+    "sentence_furigana": "素晴【すば】らしいギフトに欣喜【きんき】しました。",
+    "meaning": "I was delighted with the wonderful gift."
+  },
+  {
+    "sentence": "今日の幸運を欣んでおります。",
+    "sentence_furigana": "今日【きょう】の幸運【こううん】を欣【よろこ】んでおります。",
+    "meaning": "I am rejoicing in today's good fortune."
+  },
+  {
+    "sentence": "新しい挑戦に欣然と取り組む。",
+    "sentence_furigana": "新【あら】しい挑戦【ちょうせん】に欣然【きんぜん】と取【と】り組【く】む。",
+    "meaning": "I will happily tackle the new challenge."
+  },
+  {
+    "sentence": "この美しい景色に欣喜いたしました。",
+    "sentence_furigana": "この美【うつく】しい景色【けしき】に欣喜【きんき】いたしました。",
+    "meaning": "I was delighted by this beautiful scenery."
+  },
+  {
+    "sentence": "長年の恋が実り、欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の恋【こい】が実【み】り、欣喜【きんき】しています。",
+    "meaning": "My long-cherished love has come to fruition, and I am overjoyed."
+  },
+  {
+    "sentence": "再会した友人と欣喜しました。",
+    "sentence_furigana": "再会【さいかい】した友人【ゆうじん】と欣喜【きんき】しました。",
+    "meaning": "I rejoiced with the friend I reunited with."
+  },
+  {
+    "sentence": "平和な日々を欣んで過ごしています。",
+    "sentence_furigana": "平和【へいわ】な日々【ひび】を欣【よろこ】んで過【す】ごしています。",
+    "meaning": "I am spending my days in peace and joy."
+  },
+  {
+    "sentence": "昇進の知らせを聞き、欣喜雀躍した。",
+    "sentence_furigana": "昇進【しょうしん】の知【し】らせを聞【き】き、欣喜雀躍【きんきじゃくやく】した。",
+    "meaning": "Upon hearing the news of the promotion, he jumped for joy."
+  },
+  {
+    "sentence": "故郷からの便りに欣快の念を抱いた。",
+    "sentence_furigana": "故郷【こきょう】からの便【たよ】りに欣快【きんかい】の念【ねん】を抱【いだ】いた。",
+    "meaning": "I felt overjoyed at the news from my hometown."
+  },
+  {
+    "sentence": "彼の快復を心より欣んでおります。",
+    "sentence_furigana": "彼【かれ】の快復【かいふく】を心【こころ】より欣【よろこ】んでおります。",
+    "meaning": "I am sincerely delighted at his recovery."
+  },
+  {
+    "sentence": "宝くじに当たった知らせに欣喜しました。",
+    "sentence_furigana": "宝くじに当【あ】たった知【し】らせに欣喜【きんき】しました。",
+    "meaning": "I was overjoyed at the news of winning the lottery."
+  },
+  {
+    "sentence": "彼の成功を欣慶いたします。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を欣慶【きんけい】いたします。",
+    "meaning": "I congratulate him on his success."
+  },
+  {
+    "sentence": "新しい家族の一員を迎える喜びを欣喜しています。",
+    "sentence_furigana": "新【あら】しい家族【かぞく】の一員【いっちん】を迎【むか】える喜【よろこ】びを欣喜【きんき】しています。",
+    "meaning": "I am delighted by the joy of welcoming a new member into the family."
+  },
+  {
+    "sentence": "待ち望んだ休暇が始まり、欣然として出発した。",
+    "sentence_furigana": "待【ま】ち望【のぞ】んだ休暇【きゅうか】が始【はじ】まり、欣然【きんぜん】として出発【しゅっぱつ】した。",
+    "meaning": "The long-awaited vacation began, and I happily departed."
+  },
+  {
+    "sentence": "彼の活躍を欣喜で見守っている。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣喜【きんき】で見守【みまも】っている。",
+    "meaning": "I am watching his achievements with joy."
+  },
+  {
+    "sentence": "素晴らしい成果を上げ、欣喜に沸いた。",
+    "sentence_furigana": "素晴【すば】らしい成果【せいか】を上【あ】げ、欣喜【きんき】に沸【わ】いた。",
+    "meaning": "They achieved wonderful results and were filled with joy."
+  },
+  {
+    "sentence": "祖父母との再会を欣求していました。",
+    "sentence_furigana": "祖父母【そふぼ】との再会【さいかい】を欣求【きんく】していました。",
+    "meaning": "I was eagerly anticipating the reunion with my grandparents."
+  },
+  {
+    "sentence": "長年の友人との再会に欣喜しました。",
+    "sentence_furigana": "長年【ながねん】の友人【ゆうじん】との再会【さいかい】に欣喜【きんき】しました。",
+    "meaning": "I was overjoyed at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "勝利の知らせに欣喜雀躍した。",
+    "sentence_furigana": "勝利【しょうり】の知【し】らせに欣喜雀躍【きんきじゃくやく】した。",
+    "meaning": "He jumped for joy at the news of victory."
+  },
+  {
+    "sentence": "新しい発見に欣喜しました。",
+    "sentence_furigana": "新【あら】しい発見【はっけん】に欣喜【きんき】しました。",
+    "meaning": "I was delighted by the new discovery."
+  },
+  {
+    "sentence": "彼の快進撃を欣んで見ています。",
+    "sentence_furigana": "彼【かれ】の快進撃【かいしんげき】を欣【よろこ】んで見【み】ています。",
+    "meaning": "I am watching his triumphant advance with joy."
+  },
+  {
+    "sentence": "希望の光を見出し、欣喜しています。",
+    "sentence_furigana": "希望【きぼう】の光【ひかり】を見出【みいだ】し、欣喜【きんき】しています。",
+    "meaning": "I have found a ray of hope and am overjoyed."
+  },
+  {
+    "sentence": "故郷の土を踏む喜びを欣快に思っています。",
+    "sentence_furigana": "故郷【こきょう】の土【つち】を踏【ふ】む喜【よろこ】びを欣快【きんかい】に思【おも】っています。",
+    "meaning": "I feel overjoyed at the pleasure of stepping on my hometown's soil."
+  },
+  {
+    "sentence": "卒業の日を欣喜に待ち望んだ。",
+    "sentence_furigana": "卒業【そつぎょう】の日【ひ】を欣喜【きんき】に待【ま】ち望【のぞ】んだ。",
+    "meaning": "I eagerly awaited the day of graduation."
+  },
+  {
+    "sentence": "彼の努力が実を結び、欣喜いたしました。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が実【み】を結【むす】び、欣喜【きんき】いたしました。",
+    "meaning": "His efforts bore fruit, and I was delighted."
+  },
+  {
+    "sentence": "新しい挑戦に欣然と向き合う。",
+    "sentence_furigana": "新【あら】しい挑戦【ちょうせん】に欣然【きんぜん】と向【む】き合【あ】う。",
+    "meaning": "I will happily face the new challenge."
+  },
+  {
+    "sentence": "友人の成功を心から欣慶しています。",
+    "sentence_furigana": "友人【ゆうじん】の成功【せいこう】を心【こころ】から欣慶【きんけい】しています。",
+    "meaning": "I sincerely rejoice in my friend's success."
+  },
+  {
+    "sentence": "待ちに待った休日を欣然と過ごす。",
+    "sentence_furigana": "待【ま】ち望【のぞ】んだ休日【きゅうじつ】を欣然【きんぜん】と過【す】ごす。",
+    "meaning": "I will happily spend the long-awaited holiday."
+  },
+  {
+    "sentence": "彼の復帰を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の復帰【ふっき】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted at his comeback."
+  },
+  {
+    "sentence": "長年の夢が叶い、欣喜に満ち溢れている。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】い、欣喜【きんき】に満【み】ち溢【あふ】れている。",
+    "meaning": "My long-held dream has come true, and I am overflowing with joy."
+  },
+  {
+    "sentence": "彼の努力が実を結んだことに欣喜しました。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が実【み】を結【むす】んだことに欣喜【きんき】しました。",
+    "meaning": "I was delighted that his efforts bore fruit."
+  },
+  {
+    "sentence": "新しい人生の門出を欣んで祝います。",
+    "sentence_furigana": "新【あら】しい人生【じんせい】の門出【かどで】を欣【よろこ】んで祝【いわ】います。",
+    "meaning": "I happily celebrate the start of a new life."
+  },
+  {
+    "sentence": "長年の懸案事項が解決し、欣快の念に浸る。",
+    "sentence_furigana": "長年【ながねん】の懸案事項【けんあんじこう】が解決【かいけつ】し、欣快【きんかい】の念【ねん】に浸【ひた】る。",
+    "meaning": "The long-standing issue has been resolved, and I am immersed in a feeling of relief and joy."
+  },
+  {
+    "sentence": "彼の活躍を欣喜して見ていました。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣喜【きんき】して見【み】ていました。",
+    "meaning": "I was watching his achievements with joy."
+  },
+  {
+    "sentence": "突然の訪問を欣然と受け入れた。",
+    "sentence_furigana": "突然【とつぜん】の訪問【ほうもん】を欣然【きんぜん】と受【う】け入【い】れた。",
+    "meaning": "I happily accepted the sudden visit."
+  },
+  {
+    "sentence": "彼の成長を欣んで見守っています。",
+    "sentence_furigana": "彼【かれ】の成長【せいちょう】を欣【よろこ】んで見守【みまも】っています。",
+    "meaning": "I watch his growth with joy."
+  },
+  {
+    "sentence": "この成果に欣喜しています。",
+    "sentence_furigana": "この成果【せいか】に欣喜【きんき】しています。",
+    "meaning": "I am delighted with this achievement."
+  },
+  {
+    "sentence": "長年の夢が実現し、欣喜に堪えない。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が実現【じつげん】し、欣喜【きんき】に堪【た】えない。",
+    "meaning": "My long-held dream has come true, and I cannot contain my joy."
+  },
+  {
+    "sentence": "彼の再起を心から欣んでおります。",
+    "sentence_furigana": "彼【かれ】の再起【さいき】を心【こころ】から欣【よろこ】んでおります。",
+    "meaning": "I sincerely rejoice in his comeback."
+  },
+  {
+    "sentence": "素晴らしい機会を与えられ、欣喜しています。",
+    "sentence_furigana": "素晴【すば】らしい機会【きかい】を与【あた】えられ、欣喜【きんき】しています。",
+    "meaning": "I am delighted to be given this wonderful opportunity."
+  },
+  {
+    "sentence": "彼の功績を欣慶いたします。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】を欣慶【きんけい】いたします。",
+    "meaning": "I congratulate him on his achievements."
+  },
+  {
+    "sentence": "長年の願いが叶い、欣喜しました。",
+    "sentence_furigana": "長年【ながねん】の願【ねが】い叶【かな】い、欣喜【きんき】しました。",
+    "meaning": "My long-held wish has come true, and I was overjoyed."
+  },
+  {
+    "sentence": "新しい生活に欣然と踏み出した。",
+    "sentence_furigana": "新【あら】しい生活【せいかつ】に欣然【きんぜん】と踏【ふ】み出【だ】した。",
+    "meaning": "I happily stepped into my new life."
+  },
+  {
+    "sentence": "彼の快挙を欣喜で見守った。",
+    "sentence_furigana": "彼【かれ】の快挙【かいきょ】を欣喜【きんき】で見守【みまも】った。",
+    "meaning": "I watched his great feat with joy."
+  },
+  {
+    "sentence": "長年の友との再会を欣喜に思った。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を欣喜【きんき】に思【おも】った。",
+    "meaning": "I felt delighted at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の努力が報われ、欣喜しています。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】が報【むく】われ、欣喜【きんき】しています。",
+    "meaning": "His efforts have paid off, and I am overjoyed."
+  },
+  {
+    "sentence": "故郷の景色を懐かしく欣んでいます。",
+    "sentence_furigana": "故郷【こきょう】の景色【けしき】を懐【なつ】かしく欣【よろこ】んでいます。",
+    "meaning": "I fondly rejoice in the scenery of my hometown."
+  },
+  {
+    "sentence": "彼の成功を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted by his success."
+  },
+  {
+    "sentence": "素晴らしい知らせに欣喜いたしました。",
+    "sentence_furigana": "素晴【すば】らしい知【し】らせに欣喜【きんき】いたしました。",
+    "meaning": "I was delighted by the wonderful news."
+  },
+  {
+    "sentence": "新しい旅立ちを欣んで見送る。",
+    "sentence_furigana": "新【あら】しい旅立【たびだ】ちを欣【よろこ】んで見送【みおく】る。",
+    "meaning": "I happily see them off on their new journey."
+  },
+  {
+    "sentence": "長年の夢が叶ったことに欣喜しました。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】ったことに欣喜【きんき】しました。",
+    "meaning": "I was overjoyed that my long-held dream came true."
+  },
+  {
+    "sentence": "彼の活躍を欣喜しています。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣喜【きんき】しています。",
+    "meaning": "I am delighted by his achievements."
+  },
+  {
+    "sentence": "新しい道に進むことを欣然と決意した。",
+    "sentence_furigana": "新【あら】しい道【みち】に進【すす】むことを欣然【きんぜん】と決意【けつい】した。",
+    "meaning": "I resolutely decided to proceed on a new path."
+  },
+  {
+    "sentence": "長年の友人との再会を心から欣んでいる。",
+    "sentence_furigana": "長年【ながねん】の友人【ゆうじん】との再会【さいかい】を心【こころ】から欣【よろこ】んでいる。",
+    "meaning": "I am sincerely rejoicing at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の勝利を欣喜に待ち望んでいた。",
+    "sentence_furigana": "彼【かれ】の勝利【しょうり】を欣喜【きんき】に待【ま】ち望【のぞ】んでいた。",
+    "meaning": "I was eagerly awaiting his victory."
+  },
+  {
+    "sentence": "素晴らしい結果に欣喜しました。",
+    "sentence_furigana": "素晴【すば】らしい結果【けっか】に欣喜【きんき】しました。",
+    "meaning": "I was delighted with the wonderful results."
+  },
+  {
+    "sentence": "彼の健康を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted by his good health."
+  },
+  {
+    "sentence": "新しい章の始まりを欣喜しています。",
+    "sentence_furigana": "新【あら】しい章【しょう】の始【はじ】まりを欣喜【きんき】しています。",
+    "meaning": "I am delighted by the beginning of a new chapter."
+  },
+  {
+    "sentence": "長年の努力が報われる日を欣求していました。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が報【むく】われる日【ひ】を欣求【きんく】していました。",
+    "meaning": "I was eagerly awaiting the day when my long-standing efforts would be rewarded."
+  },
+  {
+    "sentence": "彼の復帰戦を欣喜で見守った。",
+    "sentence_furigana": "彼【かれ】の復帰戦【ふっきせん】を欣喜【きんき】で見守【みまも】った。",
+    "meaning": "I watched his comeback match with joy."
+  },
+  {
+    "sentence": "新しい門出を欣んで祝います。",
+    "sentence_furigana": "新【あら】しい門出【かどで】を欣【よろこ】んで祝【いわ】います。",
+    "meaning": "I happily celebrate the new beginning."
+  },
+  {
+    "sentence": "彼の活躍に欣喜しています。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】に欣喜【きんき】しています。",
+    "meaning": "I am delighted by his achievements."
+  },
+  {
+    "sentence": "長年の友との再会を欣快に思った。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を欣快【きんかい】に思【おも】った。",
+    "meaning": "I felt pleased at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の朗報に欣喜しました。",
+    "sentence_furigana": "彼【かれ】の朗報【ろうほう】に欣喜【きんき】しました。",
+    "meaning": "I was overjoyed by his good news."
+  },
+  {
+    "sentence": "新しいプロジェクトの成功を欣んでおります。",
+    "sentence_furigana": "新【あら】しいプロジェクトの成功【せいこう】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted about the success of the new project."
+  },
+  {
+    "sentence": "長年の夢が現実となり、欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が現実【げんじつ】ととなり、欣喜【きんき】しています。",
+    "meaning": "My long-held dream has become a reality, and I am overjoyed."
+  },
+  {
+    "sentence": "彼の再会を欣求していました。",
+    "sentence_furigana": "彼【かれ】の再会【さいかい】を欣求【きんく】していました。",
+    "meaning": "I was eagerly anticipating his reunion."
+  },
+  {
+    "sentence": "新しい生活の始まりを欣喜しています。",
+    "sentence_furigana": "新【あら】しい生活【せいかつ】の始【はじ】まりを欣喜【きんき】しています。",
+    "meaning": "I am delighted by the start of the new life."
+  },
+  {
+    "sentence": "長年の努力が報われたことに欣喜しました。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が報【むく】われたことに欣喜【きんき】しました。",
+    "meaning": "I was overjoyed that my long-standing efforts were rewarded."
+  },
+  {
+    "sentence": "彼の活躍を欣んで迎えます。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣【よろこ】んで迎【むか】えます。",
+    "meaning": "We happily welcome his achievements."
+  },
+  {
+    "sentence": "新しい章の始まりに欣喜しました。",
+    "sentence_furigana": "新【あら】しい章【しょう】の始【はじ】まりに欣喜【きんき】しました。",
+    "meaning": "I was delighted by the beginning of the new chapter."
+  },
+  {
+    "sentence": "長年の友との再会を心から欣んでいます。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を心【こころ】から欣【よろこ】んでいます。",
+    "meaning": "I am sincerely rejoicing at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の成功を欣んで見ています。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を欣【よろこ】んで見【み】ています。",
+    "meaning": "I am watching his success with joy."
+  },
+  {
+    "sentence": "新しい旅立ちを欣んで祝福する。",
+    "sentence_furigana": "新【あら】しい旅立【たびだ】ちを欣【よろこ】んで祝福【しゅくふく】する。",
+    "meaning": "I happily bless their new journey."
+  },
+  {
+    "sentence": "長年の夢が実現したことに欣喜しました。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が実現【じつげん】したことに欣喜【きんき】しました。",
+    "meaning": "I was overjoyed that my long-held dream was realized."
+  },
+  {
+    "sentence": "彼の活躍を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted by his achievements."
+  },
+  {
+    "sentence": "新しい門出を欣喜して祝福します。",
+    "sentence_furigana": "新【あら】しい門出【かどで】を欣喜【きんき】して祝福【しゅくふく】します。",
+    "meaning": "I joyfully celebrate the new beginning."
+  },
+  {
+    "sentence": "長年の友との再会を欣喜に待ち望んでいた。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を欣喜【きんき】に待【ま】ち望【のぞ】んでいた。",
+    "meaning": "I was eagerly anticipating reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の朗報を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の朗報【ろうほう】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted by his good news."
+  },
+  {
+    "sentence": "新しいプロジェクトの成功を欣喜しています。",
+    "sentence_furigana": "新【あら】しいプロジェクトの成功【せいこう】を欣喜【きんき】しています。",
+    "meaning": "I am delighted with the success of the new project."
+  },
+  {
+    "sentence": "長年の夢が現実となったことに欣喜しました。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が現実【げんじつ】となったことに欣喜【きんき】しました。",
+    "meaning": "I was overjoyed that my long-held dream became a reality."
+  },
+  {
+    "sentence": "彼の再会を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の再会【さいかい】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted about his reunion."
+  },
+  {
+    "sentence": "新しい生活の始まりを欣んで祝福します。",
+    "sentence_furigana": "新【あら】しい生活【せいかつ】の始【はじ】まりを欣【よろこ】んで祝福【しゅくふく】します。",
+    "meaning": "I happily bless the start of the new life."
+  },
+  {
+    "sentence": "長年の努力が報われたことを欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が報【むく】われたことを欣喜【きんき】しています。",
+    "meaning": "I am delighted that my long-standing efforts were rewarded."
+  },
+  {
+    "sentence": "彼の活躍を欣んでおります。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted by his achievements."
+  },
+  {
+    "sentence": "新しい章の始まりを欣んで祝います。",
+    "sentence_furigana": "新【あら】しい章【しょう】の始【はじ】まりを欣【よろこ】んで祝【いわ】います。",
+    "meaning": "I happily celebrate the beginning of the new chapter."
+  },
+  {
+    "sentence": "長年の友との再会を欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を欣喜【きんき】しています。",
+    "meaning": "I am delighted at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の成功を心から欣んでおります。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を心【こころ】から欣【よろこ】んでおります。",
+    "meaning": "I sincerely rejoice in his success."
+  },
+  {
+    "sentence": "新しい旅立ちを欣喜して見送ります。",
+    "sentence_furigana": "新【あら】しい旅立【たびだ】ちを欣喜【きんき】して見送【みおく】ります。",
+    "meaning": "I joyfully see them off on their new journey."
+  },
+  {
+    "sentence": "長年の夢が叶ったことを欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が叶【かな】ったことを欣喜【きんき】しています。",
+    "meaning": "I am delighted that my long-held dream came true."
+  },
+  {
+    "sentence": "彼の活躍を欣喜して祝います。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣喜【きんき】して祝【いわ】います。",
+    "meaning": "I joyfully celebrate his achievements."
+  },
+  {
+    "sentence": "新しい門出を欣んでおります。",
+    "sentence_furigana": "新【あら】しい門出【かどで】を欣【よろこ】んでおります。",
+    "meaning": "I am delighted about the new beginning."
+  },
+  {
+    "sentence": "長年の友との再会を欣んで祝福します。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を欣【よろこ】んで祝福【しゅくふく】します。",
+    "meaning": "I happily bless the reunion with my long-time friend."
+  },
+  {
+    "sentence": "彼の朗報を欣喜しております。",
+    "sentence_furigana": "彼【かれ】の朗報【ろうほう】を欣喜【きんき】しております。",
+    "meaning": "I am delighted with his good news."
+  },
+  {
+    "sentence": "新しいプロジェクトの成功を心から欣んでおります。",
+    "sentence_furigana": "新【あら】しいプロジェクトの成功【せいこう】を心【こころ】から欣【よろこ】んでおります。",
+    "meaning": "I sincerely rejoice in the success of the new project."
+  },
+  {
+    "sentence": "長年の夢が現実となったことを欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の夢【ゆめ】が現実【げんじつ】となったことを欣喜【きんき】しています。",
+    "meaning": "I am delighted that my long-held dream became a reality."
+  },
+  {
+    "sentence": "彼の再会を欣喜しております。",
+    "sentence_furigana": "彼【かれ】の再会【さいかい】を欣喜【きんき】しております。",
+    "meaning": "I am delighted about his reunion."
+  },
+  {
+    "sentence": "新しい生活の始まりを欣んでおります。",
+    "sentence_furigana": "新【あら】しい生活【せいかつ】の始【はじ】まりを欣【よろこ】んでおります。",
+    "meaning": "I am delighted about the start of the new life."
+  },
+  {
+    "sentence": "長年の努力が報われたことを心から欣んでいます。",
+    "sentence_furigana": "長年【ながねん】の努力【どりょく】が報【むく】われたことを心【こころ】から欣【よろこ】んでいます。",
+    "meaning": "I sincerely rejoice that my long-standing efforts were rewarded."
+  },
+  {
+    "sentence": "彼の活躍を欣喜して見守ります。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】を欣喜【きんき】して見守【みまも】ります。",
+    "meaning": "I will watch his achievements with joy."
+  },
+  {
+    "sentence": "新しい章の始まりを心から欣んでおります。",
+    "sentence_furigana": "新【あら】しい章【しょう】の始【はじ】まりを心【こころ】から欣【よろこ】んでおります。",
+    "meaning": "I sincerely rejoice in the beginning of the new chapter."
+  },
+  {
+    "sentence": "長年の友との再会を心から欣喜しています。",
+    "sentence_furigana": "長年【ながねん】の友【とも】との再会【さいかい】を心【こころ】から欣喜【きんき】しています。",
+    "meaning": "I am sincerely delighted at reuniting with my long-time friend."
+  },
+  {
+    "sentence": "彼の成功を欣喜して祝います。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】を欣喜【きんき】して祝【いわ】います。",
+    "meaning": "I joyfully celebrate his success."
+  }
+]

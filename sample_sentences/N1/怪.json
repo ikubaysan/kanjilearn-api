@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "その怪奇現象は説明がつかない。",
+    "sentence_furigana": "その【その】怪奇現象【かいきげんしょう】は説明【せつめい】がつかない。",
+    "meaning": "The strange phenomenon is unexplainable."
+  },
+  {
+    "sentence": "彼は何か怪しいことを企んでいるようだ。",
+    "sentence_furigana": "彼【かれ】は何か【なにか】怪【あや】しいこと【こと】を企【たくら】んでいるようだ。",
+    "meaning": "He seems to be planning something suspicious."
+  },
+  {
+    "sentence": "森の奥に怪しい人影が見えた。",
+    "sentence_furigana": "森【もり】の奥【おく】に怪【あや】しい人影【ひとかげ】が見【み】えた。",
+    "meaning": "A suspicious silhouette was seen deep in the forest."
+  },
+  {
+    "sentence": "この事件には多くの謎が怪せられている。",
+    "sentence_furigana": "この【この】事件【じけん】には多【おお】くの謎【なぞ】が怪【かい】せられている。",
+    "meaning": "Many mysteries are associated with this incident."
+  },
+  {
+    "sentence": "子供たちは怪談話に耳を澄ませた。",
+    "sentence_furigana": "子供【こども】たちは怪談話【かいだんばなし】に耳【みみ】を澄【す】ませた。",
+    "meaning": "The children listened intently to ghost stories."
+  },
+  {
+    "sentence": "怪我をしないように注意してください。",
+    "sentence_furigana": "怪我【けが】をしないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to get injured."
+  },
+  {
+    "sentence": "その建物の雰囲気はどこか怪しかった。",
+    "sentence_furigana": "その【その】建物【たてもの】の雰囲気【ふんいき】はどこか怪【あや】しかった。",
+    "meaning": "The atmosphere of that building was somehow suspicious."
+  },
+  {
+    "sentence": "化け物が現れるという怪談が有名だ。",
+    "sentence_furigana": "化【ば】け物【もの】が現【あらわ】れるという怪談【かいだん】が有名【ゆうめい】だ。",
+    "meaning": "A ghost story about a monster appearing is famous."
+  },
+  {
+    "sentence": "彼の行動には怪しい点が多い。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】には怪【あや】しい点【てん】が多【おお】い。",
+    "meaning": "There are many suspicious aspects to his behavior."
+  },
+  {
+    "sentence": "事故の原因は未だに怪である。",
+    "sentence_furigana": "事故【じこ】の原因【げんいん】は未【いまだ】だに怪【かい】である。",
+    "meaning": "The cause of the accident remains a mystery."
+  },
+  {
+    "sentence": "夜の公園で怪しい影を見た。",
+    "sentence_furigana": "夜【よる】の公園【こうえん】で怪【あや】しい影【かげ】を見【み】た。",
+    "meaning": "I saw a suspicious shadow in the park at night."
+  },
+  {
+    "sentence": "この地図は怪しい情報を含んでいる可能性がある。",
+    "sentence_furigana": "この【この】地図【ちず】は怪【あや】しい情報【じょうほう】を含【ふく】んでいる可能性【かのうせい】がある。",
+    "meaning": "This map may contain suspicious information."
+  },
+  {
+    "sentence": "怪獣映画を見るのが好きです。",
+    "sentence_furigana": "怪獣映画【かいじゅうえいが】を見【み】るのが好【す】きです。",
+    "meaning": "I like watching monster movies."
+  },
+  {
+    "sentence": "その話はあまりにも怪奇すぎて信じがたい。",
+    "sentence_furigana": "その【その】話【はなし】はあまりにも怪奇【かいき】すぎて信【しん】じがたい。",
+    "meaning": "That story is too bizarre to believe."
+  },
+  {
+    "sentence": "彼は怪訝な顔をして私を見た。",
+    "sentence_furigana": "彼【かれ】は怪訝【けいげん】な顔【かお】をして私【わたし】を見【み】た。",
+    "meaning": "He looked at me with a puzzled expression."
+  },
+  {
+    "sentence": "怪我をした鳥を保護した。",
+    "sentence_furigana": "怪我【けが】をした鳥【とり】を保護【ほご】した。",
+    "meaning": "I protected an injured bird."
+  },
+  {
+    "sentence": "この手紙は誰からのものか怪しい。",
+    "sentence_furigana": "この【この】手紙【てがみ】は誰【だれ】から【から】のもの【もの】か怪【あや】しい。",
+    "meaning": "It's suspicious who this letter is from."
+  },
+  {
+    "sentence": "怪しい人物が敷地内を徘徊していた。",
+    "sentence_furigana": "怪【あや】しい人物【じんぶつ】が敷地内【しきちない】を徘徊【はいかい】していた。",
+    "meaning": "A suspicious person was wandering around the premises."
+  },
+  {
+    "sentence": "彼女は怪しむ目でそれを見ていた。",
+    "sentence_furigana": "彼女【かのじょ】は怪【あや】しむ目【め】でそれを見【み】ていた。",
+    "meaning": "She was looking at it with suspicious eyes."
+  },
+  {
+    "sentence": "怪しい電話がかかってきた。",
+    "sentence_furigana": "怪【あや】しい電話【でんわ】がかかってきた。",
+    "meaning": "I received a suspicious phone call."
+  },
+  {
+    "sentence": "この状況は非常に怪奇だ。",
+    "sentence_furigana": "この【この】状況【じょうきょう】は非常【ひじょう】に怪奇【かいき】だ。",
+    "meaning": "This situation is very bizarre."
+  },
+  {
+    "sentence": "怪我をしないように気をつけて歩きなさい。",
+    "sentence_furigana": "怪我【けが】をしないように気【き】をつけて歩【ある】きなさい。",
+    "meaning": "Walk carefully so you don't get injured."
+  },
+  {
+    "sentence": "夜中に聞こえる怪しい物音に怯えていた。",
+    "sentence_furigana": "夜中【よなか】に聞【き】こえる怪【あや】しい物音【ものおと】に怯【おび】えていた。",
+    "meaning": "I was frightened by the strange noises heard in the middle of the night."
+  },
+  {
+    "sentence": "その古い屋敷には怪談がまつわる。",
+    "sentence_furigana": "その【その】古【ふる】い屋敷【やしき】には怪談【かいだん】がまつわる。",
+    "meaning": "Ghost stories are associated with that old mansion."
+  },
+  {
+    "sentence": "怪しげな商人が怪しい商品を売っていた。",
+    "sentence_furigana": "怪【あや】しげな商人【しょうにん】が怪【あや】しい商品【しょうひん】を売【う】っていた。",
+    "meaning": "A suspicious merchant was selling strange goods."
+  },
+  {
+    "sentence": "警察は怪しい男を逮捕した。",
+    "sentence_furigana": "警察【けいさつ】は怪【あや】しい男【おとこ】を逮捕【たいほ】した。",
+    "meaning": "The police arrested a suspicious man."
+  },
+  {
+    "sentence": "怪獣映画は子供たちに人気がある。",
+    "sentence_furigana": "怪獣映画【かいじゅうえいが】は子供【こども】たちに人気【にんき】がある。",
+    "meaning": "Monster movies are popular with children."
+  },
+  {
+    "sentence": "この事件の真相は未だ怪しい。",
+    "sentence_furigana": "この【この】事件【じけん】の真相【しんそう】は未だ【いまだ】怪【あや】しい。",
+    "meaning": "The truth of this incident is still a mystery."
+  },
+  {
+    "sentence": "彼は私の様子を怪訝そうに見ていた。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の様子【ようす】を怪訝【けいげん】そうに見【み】ていた。",
+    "meaning": "He was looking at my condition with a puzzled look."
+  },
+  {
+    "sentence": "その怪しい光は何だろうか。",
+    "sentence_furigana": "その【その】怪【あや】しい光【ひかり】は何【なん】だろうか。",
+    "meaning": "What could that strange light be?"
+  },
+  {
+    "sentence": "怪しい動きをする物体を発見した。",
+    "sentence_furigana": "怪【あや】しい動【うご】きをする物体【ぶったい】を発見【はっけん】した。",
+    "meaning": "I discovered an object moving strangely."
+  },
+  {
+    "sentence": "怪談話を聞いて子供は眠れなくなった。",
+    "sentence_furigana": "怪談話【かいだんばなし】を聞【き】いて子供【こども】は眠【ねむ】れなくなった。",
+    "meaning": "The child couldn't sleep after hearing the ghost story."
+  },
+  {
+    "sentence": "怪しい雲行きになってきたので、早めに帰宅した。",
+    "sentence_furigana": "怪【あや】しい雲行【くもゆ】きになってきたので、早【はや】めに帰宅【きたく】した。",
+    "meaning": "The weather started to look ominous, so I returned home early."
+  },
+  {
+    "sentence": "怪我をした兵士は病院へ運ばれた。",
+    "sentence_furigana": "怪我【けが】をした兵士【へいし】は病院【びょういん】へ運【はこ】ばれた。",
+    "meaning": "The injured soldier was taken to the hospital."
+  },
+  {
+    "sentence": "その噂は怪しい情報に基づいている。",
+    "sentence_furigana": "その【その】噂【うわさ】は怪【あや】しい情報【じょうほう】に基【もと】づいている。",
+    "meaning": "That rumor is based on dubious information."
+  },
+  {
+    "sentence": "怪しい足音に注意を払った。",
+    "sentence_furigana": "怪【あや】しい足音【あしおと】に注意【ちゅうい】を払【はら】った。",
+    "meaning": "I paid attention to the suspicious footsteps."
+  },
+  {
+    "sentence": "怪奇な出来事が頻繁に起こる。",
+    "sentence_furigana": "怪奇【かいき】な出来事【できごと】が頻繁【ひんぱん】に起【お】こる。",
+    "meaning": "Bizarre events happen frequently."
+  },
+  {
+    "sentence": "彼は怪しげな薬を飲んでいた。",
+    "sentence_furigana": "彼【かれ】は怪【あや】しげな薬【くすり】を飲【の】んでいた。",
+    "meaning": "He was drinking a suspicious medicine."
+  },
+  {
+    "sentence": "怪獣が都市を破壊した。",
+    "sentence_furigana": "怪獣【かいじゅう】が都市【とし】を破壊【はかい】した。",
+    "meaning": "A monster destroyed the city."
+  },
+  {
+    "sentence": "怪しい取引が行われているとの情報がある。",
+    "sentence_furigana": "怪【あや】しい取引【とりひき】が行【おこな】われているとの情報【じょうほう】がある。",
+    "meaning": "There is information that suspicious transactions are taking place."
+  },
+  {
+    "sentence": "怪しい者は近寄らないでください。",
+    "sentence_furigana": "怪【あや】しい者【もの】は近寄【ちかよ】らないでください。",
+    "meaning": "Please do not approach suspicious persons."
+  },
+  {
+    "sentence": "怪物の伝説は多くの人々を魅了する。",
+    "sentence_furigana": "怪物【かいぶつ】の伝説【でんせつ】は多【おお】くの人々【ひとびと】を魅了【みりょう】する。",
+    "meaning": "The legend of the monster fascinates many people."
+  },
+  {
+    "sentence": "彼女は怪我の功名で賞を獲得した。",
+    "sentence_furigana": "彼女【かのじょ】は怪我【けが】の功名【こうみょう】で賞【しょう】を獲得【かくとく】した。",
+    "meaning": "She won an award due to an accidental success."
+  },
+  {
+    "sentence": "この計画には怪しい点が多い。",
+    "sentence_furigana": "この【この】計画【けいかく】には怪【あや】しい点【てん】が多【おお】い。",
+    "meaning": "There are many suspicious points in this plan."
+  },
+  {
+    "sentence": "怪しい船が港に停泊していた。",
+    "sentence_furigana": "怪【あや】しい船【ふね】が港【みなと】に停泊【ていはく】していた。",
+    "meaning": "A suspicious ship was anchored in the harbor."
+  },
+  {
+    "sentence": "その事件は奇妙で怪奇なものであった。",
+    "sentence_furigana": "その【その】事件【じけん】は奇妙【きみょう】で怪奇【かいき】なものであった。",
+    "meaning": "The incident was strange and bizarre."
+  },
+  {
+    "sentence": "怪しむべき理由は何もない。",
+    "sentence_furigana": "怪【あや】しむべき理由【りゆう】は何【なん】もない。",
+    "meaning": "There is no reason to be suspicious."
+  },
+  {
+    "sentence": "怪我をしないように、足元に注意してください。",
+    "sentence_furigana": "怪我【けが】をしないように、足元【あしもと】に注意【ちゅうい】してください。",
+    "meaning": "Please watch your step so you don't get injured."
+  },
+  {
+    "sentence": "怪談を聞いた後、彼は部屋から出られなくなった。",
+    "sentence_furigana": "怪談【かいだん】を聞【き】いた後【あと】、彼【かれ】は部屋【へや】から出【で】られなくなった。",
+    "meaning": "After hearing the ghost story, he couldn't leave the room."
+  },
+  {
+    "sentence": "怪しい挙動の人物を見かけた。",
+    "sentence_furigana": "怪【あや】しい挙動【きょどう】の人物【じんぶつ】を見【み】かけた。",
+    "meaning": "I saw a person acting suspiciously."
+  },
+  {
+    "sentence": "その古い書物には怪しげな記述がある。",
+    "sentence_furigana": "その【その】古【ふる】い書物【しょもつ】には怪【あや】しげな記述【きじゅつ】がある。",
+    "meaning": "That old book contains strange descriptions."
+  },
+  {
+    "sentence": "怪獣が現れたため、街はパニックに陥った。",
+    "sentence_furigana": "怪獣【かいじゅう】が現【あらわ】れたため、街【まち】はパニックに陥【おちい】った。",
+    "meaning": "The city fell into panic because a monster appeared."
+  },
+  {
+    "sentence": "怪しい薬品の製造工場が発見された。",
+    "sentence_furigana": "怪【あや】しい薬品【やくひん】の製造工場【せいぞうこうじょう】が発見【はっけん】された。",
+    "meaning": "A factory producing suspicious chemicals was discovered."
+  },
+  {
+    "sentence": "怪我人を助け出すために、救助隊が派遣された。",
+    "sentence_furigana": "怪我人【けがにん】を助【たす】け出【だ】すために、救助隊【きゅうじょたい】が派遣【はけん】された。",
+    "meaning": "A rescue team was dispatched to help the injured."
+  },
+  {
+    "sentence": "その光景は非常に怪奇であった。",
+    "sentence_furigana": "その【その】光景【こうけい】は非常【ひじょう】に怪奇【かいき】であった。",
+    "meaning": "The sight was very bizarre."
+  },
+  {
+    "sentence": "彼は怪しんで、その箱を開けなかった。",
+    "sentence_furigana": "彼【かれ】は怪【あや】しんで、その【その】箱【はこ】を開【あ】けなかった。",
+    "meaning": "He was suspicious and didn't open the box."
+  },
+  {
+    "sentence": "怪盗は夜陰に乗じて姿を消した。",
+    "sentence_furigana": "怪盗【かいとう】は夜陰【やいん】に乗【の】じて姿【すがた】を消【け】した。",
+    "meaning": "The phantom thief disappeared into the night."
+  },
+  {
+    "sentence": "怪しいメッセージが届いた。",
+    "sentence_furigana": "怪【あや】しいメッセージが届【とど】いた。",
+    "meaning": "I received a suspicious message."
+  },
+  {
+    "sentence": "怪物は子供たちの想像力を掻き立てる。",
+    "sentence_furigana": "怪物【かいぶつ】は子供【こども】たちの想像力【そうぞうりょく】を掻【か】き立【た】てる。",
+    "meaning": "Monsters stimulate children's imaginations."
+  },
+  {
+    "sentence": "怪我のないことを確認してください。",
+    "sentence_furigana": "怪我【けが】のないこと【こと】を確認【かくにん】してください。",
+    "meaning": "Please confirm that there are no injuries."
+  },
+  {
+    "sentence": "この変化は何か怪しい。",
+    "sentence_furigana": "この【この】変化【へんか】は何か【なにか】怪【あや】しい。",
+    "meaning": "This change is somehow suspicious."
+  },
+  {
+    "sentence": "怪奇な事件が相次いで発生している。",
+    "sentence_furigana": "怪奇【かいき】な事件【じけん】が相次【あいこ】いで発生【はっせい】している。",
+    "meaning": "Bizarre incidents are occurring one after another."
+  },
+  {
+    "sentence": "怪しげな男が近づいてきたので、注意した。",
+    "sentence_furigana": "怪【あや】しげな男【おとこ】が近【ちか】づいてきたので、注意【ちゅうい】した。",
+    "meaning": "A suspicious man approached, so I was cautious."
+  },
+  {
+    "sentence": "怪盗キッドはマジックが得意だ。",
+    "sentence_furigana": "怪盗【かいとう】キッドはマジックが得意【とくい】だ。",
+    "meaning": "Kaitou Kid is good at magic."
+  },
+  {
+    "sentence": "怪しい粉末が発見された。",
+    "sentence_furigana": "怪【あや】しい粉末【ふんまつ】が発見【はっけん】された。",
+    "meaning": "Suspicious powder was discovered."
+  },
+  {
+    "sentence": "怪談を語る会が開催された。",
+    "sentence_furigana": "怪談【かいだん】を語【かた】る会【かい】が開催【かいさい】された。",
+    "meaning": "A ghost storytelling gathering was held."
+  },
+  {
+    "sentence": "怪我の手当てをする。",
+    "sentence_furigana": "怪我【けが】の手当【てあ】てをする。",
+    "meaning": "To treat an injury."
+  },
+  {
+    "sentence": "彼の話は怪しい点が多かった。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は怪【あや】しい点【てん】が多【おお】かった。",
+    "meaning": "His story had many suspicious points."
+  },
+  {
+    "sentence": "怪しい訪問者が訪ねてきた。",
+    "sentence_furigana": "怪【あや】しい訪問者【ほうもんしゃ】が訪【たず】ねてきた。",
+    "meaning": "A suspicious visitor came."
+  },
+  {
+    "sentence": "怪獣映画のポスターは迫力がある。",
+    "sentence_furigana": "怪獣映画【かいじゅうえいが】のポスターは迫力【はくりょく】がある。",
+    "meaning": "The monster movie poster is powerful."
+  },
+  {
+    "sentence": "怪訝な表情で首を傾げた。",
+    "sentence_furigana": "怪訝【けいげん】な表情【ひょうじょう】で首【くび】を傾【かし】げた。",
+    "meaning": "He tilted his head with a puzzled expression."
+  },
+  {
+    "sentence": "怪しい取引が行われているという噂がある。",
+    "sentence_furigana": "怪【あや】しい取引【とりひき】が行【おこな】われているという噂【うわさ】がある。",
+    "meaning": "There is a rumor of suspicious transactions taking place."
+  },
+  {
+    "sentence": "怪獣が街を襲った。",
+    "sentence_furigana": "怪獣【かいじゅう】が街【まち】を襲【おそ】った。",
+    "meaning": "A monster attacked the city."
+  },
+  {
+    "sentence": "怪しむような目でこちらを見ていた。",
+    "sentence_furigana": "怪【あや】しむような目【め】でこちらを見【み】ていた。",
+    "meaning": "He was looking at me with suspicious eyes."
+  },
+  {
+    "sentence": "怪奇な現象が頻発している。",
+    "sentence_furigana": "怪奇【かいき】な現象【げんしょう】が頻発【ひんぱつ】している。",
+    "meaning": "Bizarre phenomena are occurring frequently."
+  },
+  {
+    "sentence": "彼は怪訝そうに私に尋ねた。",
+    "sentence_furigana": "彼【かれ】は怪訝【けいげん】そうに私【わたし】に尋【たず】ねた。",
+    "meaning": "He asked me with a puzzled look."
+  },
+  {
+    "sentence": "怪しい雲が空を覆っていた。",
+    "sentence_furigana": "怪【あや】しい雲【くも】が空【そら】を覆【おお】っていた。",
+    "meaning": "Suspicious clouds covered the sky."
+  },
+  {
+    "sentence": "怪我をしないように、十分注意してください。",
+    "sentence_furigana": "怪我【けが】をしないように、十分【じゅうぶん】注意【ちゅうい】してください。",
+    "meaning": "Please be very careful not to get injured."
+  },
+  {
+    "sentence": "怪しい人影が夜道を歩いていた。",
+    "sentence_furigana": "怪【あや】しい人影【ひとかげ】が夜道【よみち】を歩【ある】いていた。",
+    "meaning": "A suspicious figure was walking on the night road."
+  },
+  {
+    "sentence": "この状況は非常に怪奇だと言わざるを得ない。",
+    "sentence_furigana": "この【この】状況【じょうきょう】は非常【ひじょう】に怪奇【かいき】だと言【い】わざるを得【え】ない。",
+    "meaning": "One cannot help but say that this situation is very bizarre."
+  },
+  {
+    "sentence": "怪談話は恐怖を煽る。",
+    "sentence_furigana": "怪談話【かいだんばなし】は恐怖【きょうふ】を煽【あお】る。",
+    "meaning": "Ghost stories incite fear."
+  },
+  {
+    "sentence": "怪しい取引の証拠が見つかった。",
+    "sentence_furigana": "怪【あや】しい取引【とりひき】の証拠【しょうこ】が見【み】つかった。",
+    "meaning": "Evidence of suspicious transactions was found."
+  },
+  {
+    "sentence": "怪獣の咆哮が響き渡った。",
+    "sentence_furigana": "怪獣【かいじゅう】の咆哮【ほうこう】が響【ひび】き渡【わた】った。",
+    "meaning": "The monster's roar echoed."
+  },
+  {
+    "sentence": "怪我をした子供を慰めた。",
+    "sentence_furigana": "怪我【けが】をした子供【こども】を慰【なぐさ】めた。",
+    "meaning": "I comforted the injured child."
+  },
+  {
+    "sentence": "怪訝な顔で私を見ていた。",
+    "sentence_furigana": "怪訝【けいげん】な顔【かお】で私【わたし】を見【み】ていた。",
+    "meaning": "He was looking at me with a puzzled face."
+  },
+  {
+    "sentence": "怪しい者が街に侵入した。",
+    "sentence_furigana": "怪【あや】しい者【もの】が街【まち】に侵入【しんにゅう】した。",
+    "meaning": "Suspicious individuals infiltrated the city."
+  },
+  {
+    "sentence": "怪談を聞いて鳥肌が立った。",
+    "sentence_furigana": "怪談【かいだん】を聞【き】いて鳥肌【とりはだ】が立【た】った。",
+    "meaning": "I got goosebumps after hearing the ghost story."
+  },
+  {
+    "sentence": "怪物の目撃情報が相次いでいる。",
+    "sentence_furigana": "怪物【かいぶつ】の目撃情報【もくげきじょうほう】が相次【あいこ】いでいる。",
+    "meaning": "There have been successive reports of monster sightings."
+  },
+  {
+    "sentence": "怪我をしないように、安全な場所を選びましょう。",
+    "sentence_furigana": "怪我【けが】をしないように、安全【あんぜん】な場所【ばしょ】を選【えら】びましょう。",
+    "meaning": "Let's choose a safe place so we don't get injured."
+  },
+  {
+    "sentence": "怪しい光が夜空に浮かんでいた。",
+    "sentence_furigana": "怪【あや】しい光【ひかり】が夜空【よぞら】に浮か【うか】んでいた。",
+    "meaning": "A strange light was floating in the night sky."
+  },
+  {
+    "sentence": "この本は怪しげな情報でいっぱいだ。",
+    "sentence_furigana": "この【この】本【ほん】は怪【あや】しげな情報【じょうほう】でいっぱいだ。",
+    "meaning": "This book is full of dubious information."
+  },
+  {
+    "sentence": "怪盗は宝石を盗んだ。",
+    "sentence_furigana": "怪盗【かいとう】は宝石【ほうせき】を盗【ぬす】んだ。",
+    "meaning": "The phantom thief stole the jewels."
+  },
+  {
+    "sentence": "怪しい商談が進んでいるらしい。",
+    "sentence_furigana": "怪【あや】しい商談【しょうだん】が進【すす】んでいるらしい。",
+    "meaning": "It seems that suspicious business talks are progressing."
+  },
+  {
+    "sentence": "怪獣映画は子供たちに人気があるジャンルだ。",
+    "sentence_furigana": "怪獣映画【かいじゅうえいが】は子供【こども】たちに人気【にんき】があるジャンルだ。",
+    "meaning": "Monster movies are a popular genre for children."
+  },
+  {
+    "sentence": "怪しい人物がアパートに入っていった。",
+    "sentence_furigana": "怪【あや】しい人物【じんぶつ】がアパートに入【はい】っていった。",
+    "meaning": "A suspicious person entered the apartment."
+  },
+  {
+    "sentence": "怪盗は巧妙な手口で犯行を重ねる。",
+    "sentence_furigana": "怪盗【かいとう】は巧妙【こうみょう】な手口【てぐち】で犯行【はんこう】を重【かさ】ねる。",
+    "meaning": "The phantom thief commits crimes with clever methods."
+  },
+  {
+    "sentence": "怪しい噂が広まっている。",
+    "sentence_furigana": "怪【あや】しい噂【うわさ】が広【ひろ】まっている。",
+    "meaning": "Suspicious rumors are spreading."
+  },
+  {
+    "sentence": "怪奇な出来事は科学では説明できない。",
+    "sentence_furigana": "怪奇【かいき】な出来事【できごと】は科学【かがく】では説明【せつめい】できない。",
+    "meaning": "Bizarre events cannot be explained by science."
+  },
+  {
+    "sentence": "怪我をした動物を保護センターに届けた。",
+    "sentence_furigana": "怪我【けが】をした動物【どうぶつ】を保護センター【ほごセンター】に届【とど】けた。",
+    "meaning": "I took the injured animal to a protection center."
+  },
+  {
+    "sentence": "彼は怪訝な表情で画面を見ていた。",
+    "sentence_furigana": "彼【かれ】は怪訝【けいげん】な表情【ひょうじょう】で画面【がめん】を見【み】ていた。",
+    "meaning": "He was looking at the screen with a puzzled expression."
+  },
+  {
+    "sentence": "怪しい信号が受信された。",
+    "sentence_furigana": "怪【あや】しい信号【しんごう】が受信【じゅしん】された。",
+    "meaning": "A suspicious signal was received."
+  },
+  {
+    "sentence": "怪獣映画のサウンドトラックは壮大だ。",
+    "sentence_furigana": "怪獣映画【かいじゅうえいが】のサウンドトラックは壮大【そうだい】だ。",
+    "meaning": "The monster movie soundtrack is grand."
+  }
+]

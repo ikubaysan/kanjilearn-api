@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "太陽の光が水面に映った。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】が水面【すいめん】に映【うつ】った。",
+    "meaning": "The sun's light was reflected on the water's surface."
+  },
+  {
+    "sentence": "彼は鏡に映った自分の姿を見た。",
+    "sentence_furigana": "彼【かれ】は鏡【かがみ】に映【うつ】った自分【じぶん】の姿【すがた】を見【み】た。",
+    "meaning": "He saw his own reflection in the mirror."
+  },
+  {
+    "sentence": "その映画は人間の心理を映し出している。",
+    "sentence_furigana": "その映画【えいが】は人間【にんげん】の心理【しんり】を映【うつ】し出【だ】している。",
+    "meaning": "That movie reflects human psychology."
+  },
+  {
+    "sentence": "彼女の瞳には星が映っていた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】には星【ほし】が映【うつ】っていた。",
+    "meaning": "Stars were reflected in her eyes."
+  },
+  {
+    "sentence": "この作品は現代社会を映している。",
+    "sentence_furigana": "この作品【さくひん】は現代社会【げんだいしゃかい】を映【うつ】している。",
+    "meaning": "This work reflects modern society."
+  },
+  {
+    "sentence": "壁に映像が映し出された。",
+    "sentence_furigana": "壁【かべ】に映像【えいぞう】が映【うつ】し出【だ】された。",
+    "meaning": "An image was projected onto the wall."
+  },
+  {
+    "sentence": "彼の言葉は真実を映していた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】を映【うつ】していた。",
+    "meaning": "His words reflected the truth."
+  },
+  {
+    "sentence": "湖は空を映す鏡のようだった。",
+    "sentence_furigana": "湖【みずうみ】は空【そら】を映【うつ】す鏡【かがみ】のようだった。",
+    "meaning": "The lake was like a mirror reflecting the sky."
+  },
+  {
+    "sentence": "子供たちの笑顔が目に映った。",
+    "sentence_furigana": "子供【こども】たちの笑顔【えがお】が目【め】に映【うつ】った。",
+    "meaning": "The children's smiles appeared in my eyes."
+  },
+  {
+    "sentence": "彼女の表情が悲しみを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】が悲【かな】しみを映【うつ】していた。",
+    "meaning": "Her expression reflected sadness."
+  },
+  {
+    "sentence": "古い写真は当時の暮らしを映している。",
+    "sentence_furigana": "古【ふる】い写真【しゃしん】は当時【とうじ】の暮【く】らしを映【うつ】している。",
+    "meaning": "The old photographs reflect the life of that time."
+  },
+  {
+    "sentence": "窓の外の景色が部屋に映った。",
+    "sentence_furigana": "窓【まど】の外【そと】の景色【けしき】が部屋【へや】に映【うつ】った。",
+    "meaning": "The scenery outside the window was reflected in the room."
+  },
+  {
+    "sentence": "彼の演技はキャラクターの本質を映し出していた。",
+    "sentence_furigana": "彼【かれ】の演技【えんぎ】はキャラクターの本質【ほんしつ】を映【うつ】し出【だ】していた。",
+    "meaning": "His acting portrayed the essence of the character."
+  },
+  {
+    "sentence": "テレビ画面に彼の顔が映った。",
+    "sentence_furigana": "テレビ画面【がめん】に彼【かれ】の顔【かお】が映【うつ】った。",
+    "meaning": "His face appeared on the TV screen."
+  },
+  {
+    "sentence": "この歌は私の気持ちを映している。",
+    "sentence_furigana": "この歌【うた】は私【わたし】の気持【きも】ちを映【うつ】している。",
+    "meaning": "This song reflects my feelings."
+  },
+  {
+    "sentence": "水たまりに月が映っていた。",
+    "sentence_furigana": "水たまり【みずたまり】に月【つき】が映【うつ】っていた。",
+    "meaning": "The moon was reflected in the puddle."
+  },
+  {
+    "sentence": "プロジェクターで壁に映像を映した。",
+    "sentence_furigana": "プロジェクターで壁【かべ】に映像【えいぞう】を映【うつ】した。",
+    "meaning": "We projected an image onto the wall with a projector."
+  },
+  {
+    "sentence": "彼の言葉は彼女の心を映していた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は彼女【かのじょ】の心【こころ】を映【うつ】していた。",
+    "meaning": "His words mirrored her heart."
+  },
+  {
+    "sentence": "この絵は作者の感情を映し出している。",
+    "sentence_furigana": "この絵【え】は作者【さくしゃ】の感情【かんじょう】を映【うつ】し出【だ】している。",
+    "meaning": "This painting reflects the artist's emotions."
+  },
+  {
+    "sentence": "月の光が静かな夜に映えた。",
+    "sentence_furigana": "月【つき】の光【ひかり】が静【しず】かな夜【よる】に映【は】えた。",
+    "meaning": "The moonlight shone brightly on the quiet night."
+  },
+  {
+    "sentence": "彼の顔には疲れが映っていた。",
+    "sentence_furigana": "彼【かれ】の顔【かお】には疲【つか】れが映【うつ】っていた。",
+    "meaning": "His face reflected fatigue."
+  },
+  {
+    "sentence": "画面に文字が映し出された。",
+    "sentence_furigana": "画面【がめん】に文字【もじ】が映【うつ】し出【だ】された。",
+    "meaning": "Text was displayed on the screen."
+  },
+  {
+    "sentence": "その建物は歴史を映しているようだ。",
+    "sentence_furigana": "その建物【たてもの】は歴史【れきし】を映【うつ】しているようだ。",
+    "meaning": "That building seems to reflect history."
+  },
+  {
+    "sentence": "彼女の目は希望を映していた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は希望【きぼう】を映【うつ】していた。",
+    "meaning": "Her eyes reflected hope."
+  },
+  {
+    "sentence": "テレビ画面に番組が映っている。",
+    "sentence_furigana": "テレビ画面【がめん】に番組【ばんぐみ】が映【うつ】っている。",
+    "meaning": "A program is being shown on the TV screen."
+  },
+  {
+    "sentence": "この物語は人間の弱さを映している。",
+    "sentence_furigana": "この物語【ものがたり】は人間【にんげん】の弱【よわ】さを映【うつ】している。",
+    "meaning": "This story reflects human weakness."
+  },
+  {
+    "sentence": "水面に映る景色がとても美しかった。",
+    "sentence_furigana": "水面【すいめん】に映【うつ】る景色【けしき】がとても美【うつく】しかった。",
+    "meaning": "The scenery reflected on the water's surface was very beautiful."
+  },
+  {
+    "sentence": "彼の言葉は周りの空気を映し出した。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は周【まわ】りの空気【くうき】を映【うつ】し出【だ】した。",
+    "meaning": "His words reflected the surrounding atmosphere."
+  },
+  {
+    "sentence": "鏡に映った自分の顔を見て、少し驚いた。",
+    "sentence_furigana": "鏡【かがみ】に映【うつ】った自分【じぶん】の顔【かお】を見【み】て、少【すこ】し驚【おどろ】いた。",
+    "meaning": "Looking at my reflection in the mirror, I was a little surprised."
+  },
+  {
+    "sentence": "彼女の笑顔は太陽のように輝き、部屋を明るく映えた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は太陽【たいよう】のように輝【かがや】き、部屋【へや】を明【あか】るく映【は】えた。",
+    "meaning": "Her smile shone like the sun, brightly illuminating the room."
+  },
+  {
+    "sentence": "その映画は現代の若者の心理を映し出している。",
+    "sentence_furigana": "その映画【えいが】は現代【げんだい】の若者【わかもの】の心理【しんり】を映【うつ】し出【だ】している。",
+    "meaning": "That movie reflects the psychology of modern youth."
+  },
+  {
+    "sentence": "湖面に映る山々の姿が絵画のようだった。",
+    "sentence_furigana": "湖面【こめん】に映【うつ】る山々【やまやま】の姿【すがた】が絵画【かいが】のようだった。",
+    "meaning": "The reflection of the mountains on the lake surface was like a painting."
+  },
+  {
+    "sentence": "彼の声は興奮を映していた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は興奮【こうふん】を映【うつ】していた。",
+    "meaning": "His voice reflected excitement."
+  },
+  {
+    "sentence": "窓ガラスに雨粒が映っていた。",
+    "sentence_furigana": "窓ガラス【まどガラス】に雨粒【あまつぶ】が映【うつ】っていた。",
+    "meaning": "Raindrops were reflected on the window pane."
+  },
+  {
+    "sentence": "この小説は時代の空気をよく映している。",
+    "sentence_furigana": "この小説【しょうせつ】は時代【じだい】の空気【くうき】をよく映【うつ】している。",
+    "meaning": "This novel captures the atmosphere of the era well."
+  },
+  {
+    "sentence": "彼女の目は深い悲しみを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は深【ふか】い悲【かな】しみを映【うつ】していた。",
+    "meaning": "Her eyes reflected deep sorrow."
+  },
+  {
+    "sentence": "プロジェクターで校庭に星空を映した。",
+    "sentence_furigana": "プロジェクターで校庭【こうてい】に星空【ほしぞら】を映【うつ】した。",
+    "meaning": "We projected a starry sky onto the schoolyard with a projector."
+  },
+  {
+    "sentence": "この曲は青春の輝きを映し出している。",
+    "sentence_furigana": "この曲【きょく】は青春【せいしゅん】の輝【かがや】きを映【うつ】し出【だ】している。",
+    "meaning": "This song reflects the brilliance of youth."
+  },
+  {
+    "sentence": "彼の行動は彼の本心を映していた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は彼【かれ】の本当【ほんとう】の心【こころ】を映【うつ】していた。",
+    "meaning": "His actions reflected his true intentions."
+  },
+  {
+    "sentence": "古いアルバムには家族の思い出が映っている。",
+    "sentence_furigana": "古【ふる】いアルバムには家族【かぞく】の思【おも】い出【で】が映【うつ】っている。",
+    "meaning": "The old album reflects family memories."
+  },
+  {
+    "sentence": "彼女の言葉は優しさを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は優【やさ】しさを映【うつ】していた。",
+    "meaning": "Her words reflected kindness."
+  },
+  {
+    "sentence": "水面に映る月影がきれいに見えた。",
+    "sentence_furigana": "水面【すいめん】に映【うつ】る月影【つきかげ】がきれいに見【み】えた。",
+    "meaning": "The moon's reflection on the water's surface looked beautiful."
+  },
+  {
+    "sentence": "そのドキュメンタリーは社会問題を映し出している。",
+    "sentence_furigana": "そのドキュメンタリーは社会問題【しゃかいもんだい】を映【うつ】し出【だ】している。",
+    "meaning": "That documentary portrays social issues."
+  },
+  {
+    "sentence": "彼の表情は安心感を映していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は安心感【あんしんかん】を映【うつ】していた。",
+    "meaning": "His expression reflected a sense of relief."
+  },
+  {
+    "sentence": "壁に映った影が揺れていた。",
+    "sentence_furigana": "壁【かべ】に映【うつ】った影【かげ】が揺【ゆ】れていた。",
+    "meaning": "The shadow projected on the wall was swaying."
+  },
+  {
+    "sentence": "この絵は作者の人生を映している。",
+    "sentence_furigana": "この絵【え】は作者【さくしゃ】の人生【じんせい】を映【うつ】している。",
+    "meaning": "This painting reflects the artist's life."
+  },
+  {
+    "sentence": "彼の目は好奇心を映していた。",
+    "sentence_furigana": "彼【かれ】の目【め】は好奇心【こうきしん】を映【うつ】していた。",
+    "meaning": "His eyes reflected curiosity."
+  },
+  {
+    "sentence": "テレビの画面に子供たちが映っていた。",
+    "sentence_furigana": "テレビの画面【がめん】に子供【こども】たちが映【うつ】っていた。",
+    "meaning": "Children were visible on the TV screen."
+  },
+  {
+    "sentence": "彼女の言葉は真実を映し出していた。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は真実【しんじつ】を映【うつ】し出【だ】していた。",
+    "meaning": "Her words revealed the truth."
+  },
+  {
+    "sentence": "湖の水面に映る青空が綺麗だった。",
+    "sentence_furigana": "湖【みずうみ】の水面【すいめん】に映【うつ】る青空【あおぞら】が綺麗【きれい】だった。",
+    "meaning": "The blue sky reflected on the lake's surface was beautiful."
+  },
+  {
+    "sentence": "この歌は青春の思い出を映している。",
+    "sentence_furigana": "この歌【うた】は青春【せいしゅん】の思【おも】い出【で】を映【うつ】している。",
+    "meaning": "This song reflects memories of youth."
+  },
+  {
+    "sentence": "彼の表情は喜びを映していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は喜【よろこ】びを映【うつ】していた。",
+    "meaning": "His expression reflected joy."
+  },
+  {
+    "sentence": "窓の外の景色がテレビ画面に映った。",
+    "sentence_furigana": "窓【まど】の外【そと】の景色【けしき】がテレビ画面【がめん】に映【うつ】った。",
+    "meaning": "The scenery outside the window appeared on the TV screen."
+  },
+  {
+    "sentence": "彼女の瞳は澄んだ水のように映っていた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は澄【す】んだ水【みず】のように映【うつ】っていた。",
+    "meaning": "Her eyes shone like clear water."
+  },
+  {
+    "sentence": "その彫刻は伝統的な技術を映し出している。",
+    "sentence_furigana": "その彫刻【ちょうこく】は伝統的【でんとうてき】な技術【ぎじゅつ】を映【うつ】し出【だ】している。",
+    "meaning": "That sculpture embodies traditional techniques."
+  },
+  {
+    "sentence": "彼の言葉は周りの人々の気持ちを映していた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は周【まわ】りの人々【ひとびと】の気持【きも】ちを映【うつ】していた。",
+    "meaning": "His words mirrored the feelings of those around him."
+  },
+  {
+    "sentence": "公園の池に鳥の姿が映っていた。",
+    "sentence_furigana": "公園【こうえん】の池【いけ】に鳥【とり】の姿【すがた】が映【うつ】っていた。",
+    "meaning": "The reflection of a bird was visible in the park pond."
+  },
+  {
+    "sentence": "この映画は現代社会の闇を映し出している。",
+    "sentence_furigana": "この映画【えいが】は現代社会【げんだいしゃかい】の闇【やみ】を映【うつ】し出【だ】している。",
+    "meaning": "This movie reflects the darkness of modern society."
+  },
+  {
+    "sentence": "彼女の表情は喜びと悲しみを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】は喜【よろこ】びと悲【かな】しみを映【うつ】していた。",
+    "meaning": "Her expression reflected both joy and sadness."
+  },
+  {
+    "sentence": "壁に映る炎の揺らめきが印象的だった。",
+    "sentence_furigana": "壁【かべ】に映【うつ】る炎【ほのお】の揺【ゆ】らめきが印象的【いんしょうてき】だった。",
+    "meaning": "The flickering of the flames reflected on the wall was impressive."
+  },
+  {
+    "sentence": "彼のスピーチは熱意を映していた。",
+    "sentence_furigana": "彼【かれ】のスピーチは熱意【ねつい】を映【うつ】していた。",
+    "meaning": "His speech reflected his enthusiasm."
+  },
+  {
+    "sentence": "テレビ画面に映るニュースを見て、彼は考え込んだ。",
+    "sentence_furigana": "テレビ画面【がめん】に映【うつ】るニュースを見【み】て、彼【かれ】は考【かんが】え込【こ】んだ。",
+    "meaning": "Watching the news on the TV screen, he fell into thought."
+  },
+  {
+    "sentence": "この歌は失われた愛を映しているようだ。",
+    "sentence_furigana": "この歌【うた】は失【うしな】われた愛【あい】を映【うつ】しているようだ。",
+    "meaning": "This song seems to reflect lost love."
+  },
+  {
+    "sentence": "湖面に映る紅葉が美しかった。",
+    "sentence_furigana": "湖面【こめん】に映【うつ】る紅葉【こうよう】が美【うつく】しかった。",
+    "meaning": "The autumn leaves reflected on the lake's surface were beautiful."
+  },
+  {
+    "sentence": "彼の言葉は周りの空気を和らげた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は周【まわ】りの空気【くうき】を和【やわ】らげた。",
+    "meaning": "His words softened the surrounding atmosphere."
+  },
+  {
+    "sentence": "彼女の目は穏やかさを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は穏【おだ】やかさを映【うつ】していた。",
+    "meaning": "Her eyes reflected serenity."
+  },
+  {
+    "sentence": "投影機で大きな画面に画像を映した。",
+    "sentence_furigana": "投影機【とうえいき】で大【おお】きな画面【がめん】に画像【がぞう】を映【うつ】した。",
+    "meaning": "We projected an image onto a large screen with a projector."
+  },
+  {
+    "sentence": "このドキュメンタリーは社会の現実を映し出している。",
+    "sentence_furigana": "このドキュメンタリーは社会【しゃかい】の現実【げんじつ】を映【うつ】し出【だ】している。",
+    "meaning": "This documentary portrays the realities of society."
+  },
+  {
+    "sentence": "彼の声は緊張を映していた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は緊張【きんちょう】を映【うつ】していた。",
+    "meaning": "His voice reflected nervousness."
+  },
+  {
+    "sentence": "水面に映る星空が幻想的だった。",
+    "sentence_furigana": "水面【すいめん】に映【うつ】る星空【ほしぞら】が幻想的【げんそうてき】だった。",
+    "meaning": "The starry sky reflected on the water's surface was fantastical."
+  },
+  {
+    "sentence": "彼女の笑顔は希望の光を映していた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は希望【きぼう】の光【ひかり】を映【うつ】していた。",
+    "meaning": "Her smile reflected the light of hope."
+  },
+  {
+    "sentence": "この映画は現代の若者の葛藤を映し出している。",
+    "sentence_furigana": "この映画【えいが】は現代【げんだい】の若者【わかもの】の葛藤【かっとう】を映【うつ】し出【だ】している。",
+    "meaning": "This movie portrays the struggles of modern youth."
+  },
+  {
+    "sentence": "彼の言葉は真摯さを映していた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真摯【しんし】さを映【うつ】していた。",
+    "meaning": "His words reflected sincerity."
+  },
+  {
+    "sentence": "窓の外の景色が静かに映った。",
+    "sentence_furigana": "窓【まど】の外【そと】の景色【けしき】が静【しず】かに映【うつ】った。",
+    "meaning": "The scenery outside the window was quietly reflected."
+  },
+  {
+    "sentence": "彼女の瞳は優しさを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は優【やさ】しさを映【うつ】していた。",
+    "meaning": "Her eyes reflected gentleness."
+  },
+  {
+    "sentence": "プロジェクターで壁に子供の絵を映した。",
+    "sentence_furigana": "プロジェクターで壁【かべ】に子供【こども】の絵【え】を映【うつ】した。",
+    "meaning": "We projected a child's drawing onto the wall with a projector."
+  },
+  {
+    "sentence": "この音楽は穏やかな気分を映している。",
+    "sentence_furigana": "この音楽【おんがく】は穏【おだ】やかな気分【きぶん】を映【うつ】している。",
+    "meaning": "This music reflects a peaceful mood."
+  },
+  {
+    "sentence": "彼の表情は驚きを映していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は驚【おどろ】きを映【うつ】していた。",
+    "meaning": "His expression reflected surprise."
+  },
+  {
+    "sentence": "テレビ画面に映る自分の姿を見て、彼はため息をついた。",
+    "sentence_furigana": "テレビ画面【がめん】に映【うつ】る自分【じぶん】の姿【すがた】を見【み】て、彼【かれ】はため息【いき】をついた。",
+    "meaning": "Looking at his reflection on the TV screen, he sighed."
+  },
+  {
+    "sentence": "彼女の言葉は温かさを映していた。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は温【あたた】かさを映【うつ】していた。",
+    "meaning": "Her words reflected warmth."
+  },
+  {
+    "sentence": "湖面に映る夕焼けがとても綺麗だった。",
+    "sentence_furigana": "湖面【こめん】に映【うつ】る夕焼【ゆうや】けがとても綺麗【きれい】だった。",
+    "meaning": "The sunset reflected on the lake's surface was very beautiful."
+  },
+  {
+    "sentence": "この絵は自然の美しさを映している。",
+    "sentence_furigana": "この絵【え】は自然【しぜん】の美【うつく】しさを映【うつ】している。",
+    "meaning": "This painting reflects the beauty of nature."
+  },
+  {
+    "sentence": "彼の目は希望の光を映していた。",
+    "sentence_furigana": "彼【かれ】の目【め】は希望【きぼう】の光【ひかり】を映【うつ】していた。",
+    "meaning": "His eyes reflected the light of hope."
+  },
+  {
+    "sentence": "壁に映った影が寂しそうに見えた。",
+    "sentence_furigana": "壁【かべ】に映【うつ】った影【かげ】が寂【さび】しそうに見【み】えた。",
+    "meaning": "The shadow projected on the wall looked lonely."
+  },
+  {
+    "sentence": "彼女の表情は不安を映していた。",
+    "sentence_furigana": "彼女【かのじょ】の表情【ひょうじょう】は不安【ふあん】を映【うつ】していた。",
+    "meaning": "Her expression reflected anxiety."
+  },
+  {
+    "sentence": "その映画は現代社会の複雑さを映し出している。",
+    "sentence_furigana": "その映画【えいが】は現代社会【げんだいしゃかい】の複雑【ふくざつ】さを映【うつ】し出【だ】している。",
+    "meaning": "That movie reflects the complexity of modern society."
+  },
+  {
+    "sentence": "彼の言葉は誠実さを映していた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は誠実【せいじつ】さを映【うつ】していた。",
+    "meaning": "His words reflected sincerity."
+  },
+  {
+    "sentence": "テレビ画面に映る風景が目に飛び込んできた。",
+    "sentence_furigana": "テレビ画面【がめん】に映【うつ】る風景【ふうけい】が目【め】に飛【と】び込【こ】んできた。",
+    "meaning": "The scenery appearing on the TV screen caught my eye."
+  },
+  {
+    "sentence": "彼女の目は静かな海のように映っていた。",
+    "sentence_furigana": "彼女【かのじょ】の目【め】は静【しず】かな海【うみ】のように映【うつ】っていた。",
+    "meaning": "Her eyes shone like a calm sea."
+  },
+  {
+    "sentence": "この楽曲は力強さを映し出している。",
+    "sentence_furigana": "この楽曲【がっきょく】は力強【ちからづよ】さを映【うつ】し出【だ】している。",
+    "meaning": "This musical piece embodies strength."
+  },
+  {
+    "sentence": "彼の表情は喜びと感動を映していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は喜【よろこ】びと感動【かんどう】を映【うつ】していた。",
+    "meaning": "His expression reflected joy and emotion."
+  },
+  {
+    "sentence": "水面に映る月が神秘的だった。",
+    "sentence_furigana": "水面【すいめん】に映【うつ】る月【つき】が神秘的【しんぴてき】だった。",
+    "meaning": "The moon reflected on the water's surface was mystical."
+  },
+  {
+    "sentence": "彼女の言葉は理解を示していた。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は理解【りかい】を示【しめ】していた。",
+    "meaning": "Her words showed understanding."
+  },
+  {
+    "sentence": "映画館のスクリーンに映像が映し出された。",
+    "sentence_furigana": "映画館【えいがかん】のスクリーンに映像【えいぞう】が映【うつ】し出【だ】された。",
+    "meaning": "An image was projected onto the movie theater screen."
+  },
+  {
+    "sentence": "彼の声は自信を映していた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は自信【じしん】を映【うつ】していた。",
+    "meaning": "His voice reflected confidence."
+  },
+  {
+    "sentence": "この小説は人間の心の闇を映し出している。",
+    "sentence_furigana": "この小説【しょうせつ】は人間【にんげん】の心【こころ】の闇【やみ】を映【うつ】し出【だ】している。",
+    "meaning": "This novel portrays the darkness of the human heart."
+  },
+  {
+    "sentence": "彼女の笑顔は周りを明るく映えた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は周【まわ】りを明【あか】るく映【は】えた。",
+    "meaning": "Her smile brightly illuminated the surroundings."
+  },
+  {
+    "sentence": "湖面に映る雲の流れが速かった。",
+    "sentence_furigana": "湖面【こめん】に映【うつ】る雲【くも】の流【なが】れが速【はや】かった。",
+    "meaning": "The clouds reflected on the lake's surface were moving quickly."
+  },
+  {
+    "sentence": "彼の言葉は強い意志を映していた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は強【つよ】い意志【いし】を映【うつ】していた。",
+    "meaning": "His words reflected a strong will."
+  },
+  {
+    "sentence": "テレビ画面に自分の姿が映るのを見て、彼は苦笑いをした。",
+    "sentence_furigana": "テレビ画面【がめん】に自分【じぶん】の姿【すがた】が映【うつ】るのを見【み】て、彼【かれ】は苦笑【にがわら】いをした。",
+    "meaning": "Seeing his reflection on the TV screen, he gave a wry smile."
+  },
+  {
+    "sentence": "彼女の瞳は深い知性を映していた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は深【ふか】い知性【ちせい】を映【うつ】していた。",
+    "meaning": "Her eyes reflected deep intelligence."
+  },
+  {
+    "sentence": "この作品は現代社会の矛盾を映し出している。",
+    "sentence_furigana": "この作品【さくひん】は現代社会【げんだいしゃかい】の矛盾【むじゅん】を映【うつ】し出【だ】している。",
+    "meaning": "This work portrays the contradictions of modern society."
+  },
+  {
+    "sentence": "彼の表情は決意を映していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は決意【けつい】を映【うつ】していた。",
+    "meaning": "His expression reflected determination."
+  },
+  {
+    "sentence": "窓ガラスに映った夜景が美しかった。",
+    "sentence_furigana": "窓ガラス【まどガラス】に映【うつ】った夜景【やけい】が美【うつく】しかった。",
+    "meaning": "The night view reflected on the window pane was beautiful."
+  }
+]

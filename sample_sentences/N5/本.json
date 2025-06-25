@@ -1,0 +1,437 @@
+[
+  {
+    "sentence": "この本はとても面白いです。",
+    "sentence_furigana": "この本【ほん】はとても面白【おもしろ】いですね。",
+    "meaning": "This book is very interesting."
+  },
+  {
+    "sentence": "彼は私の本を借りました。",
+    "sentence_furigana": "彼【かれ】は私【わたし】の本【ほん】を借【か】りました。",
+    "meaning": "He borrowed my book."
+  },
+  {
+    "sentence": "本を読み終わりました。",
+    "sentence_furigana": "本【ほん】を読【よ】み終【お】わりました。",
+    "meaning": "I finished reading the book."
+  },
+  {
+    "sentence": "図書館で本を借りました。",
+    "sentence_furigana": "図書館【としょかん】で本【ほん】を借【か】りました。",
+    "meaning": "I borrowed a book from the library."
+  },
+  {
+    "sentence": "この本は私のものです。",
+    "sentence_furigana": "この本【ほん】は私【わたし】のものでしょう。",
+    "meaning": "This book is mine."
+  },
+  {
+    "sentence": "彼は本を読んでいる。",
+    "sentence_furigana": "彼【かれ】は本【ほん】を読【よ】んでいる。",
+    "meaning": "He is reading a book."
+  },
+  {
+    "sentence": "本棚に本がたくさんあります。",
+    "sentence_furigana": "本棚【ほんだな】に本【ほん】がたくさんあります。",
+    "meaning": "There are many books on the bookshelf."
+  },
+  {
+    "sentence": "彼女は本が好きです。",
+    "sentence_furigana": "彼女【かのじょ】は本【ほん】が好【す】きです。",
+    "meaning": "She likes books."
+  },
+  {
+    "sentence": "新しい本を買いました。",
+    "sentence_furigana": "新【あたら】しい本【ほん】を買【か】いました。",
+    "meaning": "I bought a new book."
+  },
+  {
+    "sentence": "この本は歴史について書かれています。",
+    "sentence_furigana": "この本【ほん】は歴史【れきし】について書【か】かれています。",
+    "meaning": "This book is about history."
+  },
+  {
+    "sentence": "本をきれいに整理してください。",
+    "sentence_furigana": "本【ほん】をきれいに整理【せいり】してください。",
+    "meaning": "Please organize the books neatly."
+  },
+  {
+    "sentence": "本のページをめくってください。",
+    "sentence_furigana": "本【ほん】のページをめくってください。",
+    "meaning": "Please turn the pages of the book."
+  },
+  {
+    "sentence": "この本はとても人気があります。",
+    "sentence_furigana": "この本【ほん】はとても人気【にんき】があります。",
+    "meaning": "This book is very popular."
+  },
+  {
+    "sentence": "本の裏表紙に著者名が書いてあります。",
+    "sentence_furigana": "本【ほん】の裏表紙【うらびょうし】に著者名【ちょしゃめい】が書【か】いてあります。",
+    "meaning": "The author's name is written on the back cover of the book."
+  },
+  {
+    "sentence": "本をなくしてしまいました。",
+    "sentence_furigana": "本【ほん】をなくしてしまいました。",
+    "meaning": "I lost the book."
+  },
+  {
+    "sentence": "本を返す日を忘れました。",
+    "sentence_furigana": "本【ほん】を返【か】す日【ひ】を忘【わす】れました。",
+    "meaning": "I forgot the day to return the book."
+  },
+  {
+    "sentence": "この本は日本語で書かれています。",
+    "sentence_furigana": "この本【ほん】は日本語【にほんご】で書【か】かれています。",
+    "meaning": "This book is written in Japanese."
+  },
+  {
+    "sentence": "本を友達にプレゼントしました。",
+    "sentence_furigana": "本【ほん】を友達【ともだち】にプレゼントしました。",
+    "meaning": "I gave the book as a present to my friend."
+  },
+  {
+    "sentence": "本は私の人生の宝です。",
+    "sentence_furigana": "本【ほん】は私【わたし】の人生【じんせい】の宝【たから】です。",
+    "meaning": "Books are a treasure in my life."
+  },
+  {
+    "sentence": "この本のタイトルは何ですか？",
+    "sentence_furigana": "この本【ほん】のタイトルは何【なん】ですか？",
+    "meaning": "What is the title of this book?"
+  },
+  {
+    "sentence": "本を読めば読むほど、知識が増えます。",
+    "sentence_furigana": "本【ほん】を読【よ】めば読【よ】むほど、知識【ちしき】が増【ふ】えます。",
+    "meaning": "The more you read books, the more your knowledge increases."
+  },
+  {
+    "sentence": "彼は多くの本を持っています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの本【ほん】を持【も】っています。",
+    "meaning": "He has many books."
+  },
+  {
+    "sentence": "本を貸してくれてありがとう。",
+    "sentence_furigana": "本【ほん】を貸【か】してくれてありがとう。",
+    "meaning": "Thank you for lending me the book."
+  },
+  {
+    "sentence": "本を大切にしてください。",
+    "sentence_furigana": "本【ほん】を大切【たいせつ】にしてください。",
+    "meaning": "Please take good care of the book."
+  },
+  {
+    "sentence": "この本は私のお気に入りです。",
+    "sentence_furigana": "この本【ほん】は私【わたし】のお気【き】に入【い】りです。",
+    "meaning": "This book is my favorite."
+  },
+  {
+    "sentence": "本を読みながらコーヒーを飲む。",
+    "sentence_furigana": "本【ほん】を読【よ】みながらコーヒーを飲【の】む。",
+    "meaning": "I drink coffee while reading a book."
+  },
+  {
+    "sentence": "本は人生を豊かにする。",
+    "sentence_furigana": "本【ほん】は人生【じんせい】を豊【ゆた】かにする。",
+    "meaning": "Books enrich life."
+  },
+  {
+    "sentence": "本屋で新しい本を探しています。",
+    "sentence_furigana": "本屋【ほんや】で新【あたら】しい本【ほん】を探【さが】しています。",
+    "meaning": "I am looking for a new book at the bookstore."
+  },
+  {
+    "sentence": "本の感想を聞かせてください。",
+    "sentence_furigana": "本【ほん】の感想【かんそう】を聞【き】かせてください。",
+    "meaning": "Please tell me your impressions of the book."
+  },
+  {
+    "sentence": "本を閉じて、休憩しましょう。",
+    "sentence_furigana": "本【ほん】を閉【と】じて、休憩【きゅうけい】しましょう。",
+    "meaning": "Let's close the book and take a break."
+  },
+  {
+    "sentence": "これは本当の話です。",
+    "sentence_furigana": "これは本当【ほんとう】の話【はなし】です。",
+    "meaning": "This is a true story."
+  },
+  {
+    "sentence": "彼の発言は本当だった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は本当【ほんとう】だった。",
+    "meaning": "His statement was true."
+  },
+  {
+    "sentence": "本当のことを教えてください。",
+    "sentence_furigana": "本当【ほんとう】のことを教【おし】えてください。",
+    "meaning": "Please tell me the truth."
+  },
+  {
+    "sentence": "これは本当のダイヤモンドです。",
+    "sentence_furigana": "これは本当【ほんとう】のダイヤモンドです。",
+    "meaning": "This is a real diamond."
+  },
+  {
+    "sentence": "彼は本当の友達です。",
+    "sentence_furigana": "彼【かれ】は本当【ほんとう】の友達【ともだち】です。",
+    "meaning": "He is a true friend."
+  },
+  {
+    "sentence": "その話は本当ですか？",
+    "sentence_furigana": "その話【はなし】は本当【ほんとう】ですか？",
+    "meaning": "Is that story true?"
+  },
+  {
+    "sentence": "本当の幸せとは何だろうか。",
+    "sentence_furigana": "本当【ほんとう】の幸【しあわ】せとは何【なん】だろうか。",
+    "meaning": "What is true happiness?"
+  },
+  {
+    "sentence": "これは私の本当の姿です。",
+    "sentence_furigana": "これは私【わたし】の本当【ほんとう】の姿【すがた】です。",
+    "meaning": "This is my true form."
+  },
+  {
+    "sentence": "彼は本当の自分を隠している。",
+    "sentence_furigana": "彼【かれ】は本当【ほんとう】の自分【じぶん】を隠【かく】している。",
+    "meaning": "He is hiding his true self."
+  },
+  {
+    "sentence": "この絵は本物ですか？",
+    "sentence_furigana": "この絵【え】は本物【ほんもの】ですか？",
+    "meaning": "Is this painting real?"
+  },
+  {
+    "sentence": "本物の宝石は輝きが違う。",
+    "sentence_furigana": "本物【ほんもの】の宝石【ほうせき】は輝【かがや】きが違【ちが】う。",
+    "meaning": "Real jewels have a different brilliance."
+  },
+  {
+    "sentence": "これは本物の木で作られています。",
+    "sentence_furigana": "これは本物【ほんもの】の木【き】で製【つく】られています。",
+    "meaning": "This is made of real wood."
+  },
+  {
+    "sentence": "本物の味を楽しんでください。",
+    "sentence_furigana": "本物【ほんもの】の味【あじ】を楽し【たの】んでください。",
+    "meaning": "Please enjoy the authentic taste."
+  },
+  {
+    "sentence": "彼は本物のプロだ。",
+    "sentence_furigana": "彼【かれ】は本物【ほんもの】のプロだ。",
+    "meaning": "He is a true professional."
+  },
+  {
+    "sentence": "本物の芸術作品は心を打つ。",
+    "sentence_furigana": "本物【ほんもの】の芸術作品【げいじゅつさくひん】は心【こころ】を打【う】つ。",
+    "meaning": "Real works of art move the soul."
+  },
+  {
+    "sentence": "これが本当の目的です。",
+    "sentence_furigana": "これが本当【ほんとう】の目的【もくてき】です。",
+    "meaning": "This is the real objective."
+  },
+  {
+    "sentence": "本人はまだ来ていません。",
+    "sentence_furigana": "本人【ほんにん】はまだ来て【き】ていません。",
+    "meaning": "The person concerned has not arrived yet."
+  },
+  {
+    "sentence": "本人確認が必要です。",
+    "sentence_furigana": "本人【ほんにん】確認【かくにん】が必【ひつ】ようです。",
+    "meaning": "Identity verification is required."
+  },
+  {
+    "sentence": "本人が直接話したいと言っています。",
+    "sentence_furigana": "本人【ほんにん】が直接【ちょくせつ】話【はな】したいと言【い】っています。",
+    "meaning": "The person concerned wants to speak directly."
+  },
+  {
+    "sentence": "本人の意思を尊重します。",
+    "sentence_furigana": "本人【ほんにん】の意思【いし】を尊重【そんちょう】します。",
+    "meaning": "We respect the person's wishes."
+  },
+  {
+    "sentence": "彼は本件について詳しく知っている。",
+    "sentence_furigana": "彼【かれ】は本件【ほんけん】について詳【くわ】しく知【し】っている。",
+    "meaning": "He knows about this matter in detail."
+  },
+  {
+    "sentence": "本件に関する資料を提出してください。",
+    "sentence_furigana": "本件【ほんけん】に関【かん】する資料【しりょう】を提出【ていしゅつ】してください。",
+    "meaning": "Please submit the documents related to this matter."
+  },
+  {
+    "sentence": "本件は緊急を要します。",
+    "sentence_furigana": "本件【ほんけん】は緊急【きんきゅう】を要【よう】します。",
+    "meaning": "This matter requires urgency."
+  },
+  {
+    "sentence": "本日はお忙しいところありがとうございます。",
+    "sentence_furigana": "本日【ほんじつ】はお忙【いそが】しいところありがとうございます。",
+    "meaning": "Thank you for coming today despite your busy schedule."
+  },
+  {
+    "sentence": "本日、会議が行われます。",
+    "sentence_furigana": "本日【ほんじつ】、会議【かいぎ】が行【おこな】われます。",
+    "meaning": "A meeting will be held today."
+  },
+  {
+    "sentence": "本日は晴天なり。",
+    "sentence_furigana": "本日【ほんじつ】は晴天【せいてん】なり。",
+    "meaning": "It is fine weather today."
+  },
+  {
+    "sentence": "本日の予定を確認してください。",
+    "sentence_furigana": "本日【ほんじつ】の予定【よてい】を確認【かくにん】してください。",
+    "meaning": "Please check today's schedule."
+  },
+  {
+    "sentence": "本日は格別のご厚情を賜り、厚く御礼申し上げます。",
+    "sentence_furigana": "本日【ほんじつ】は格別【かくべつ】のご厚情【こうじょう】を賜【たまわ】り、厚【あつ】く御礼申【おんれいもう】し上【あ】げます。",
+    "meaning": "We are deeply grateful for your exceptional kindness today."
+  },
+  {
+    "sentence": "本日はこれで失礼いたします。",
+    "sentence_furigana": "本日【ほんじつ】はこれで失礼【しつれい】いたします。",
+    "meaning": "I will take my leave now."
+  },
+  {
+    "sentence": "本日は大変勉強になりました。",
+    "sentence_furigana": "本日【ほんじつ】は大変【たいへん】勉強【べんきょう】になりました。",
+    "meaning": "I learned a lot today."
+  },
+  {
+    "sentence": "本日は雨が降っています。",
+    "sentence_furigana": "本日【ほんじつ】は雨【あめ】が降【ふ】っています。",
+    "meaning": "It is raining today."
+  },
+  {
+    "sentence": "本日はお疲れ様でした。",
+    "sentence_furigana": "本日【ほんじつ】はお疲【つか】れ様【さま】でした。",
+    "meaning": "You must be tired today."
+  },
+  {
+    "sentence": "彼の本名は田中です。",
+    "sentence_furigana": "彼【かれ】の本名【ほんみょう】は田中【たなか】です。",
+    "meaning": "His real name is Tanaka."
+  },
+  {
+    "sentence": "本名で登録してください。",
+    "sentence_furigana": "本名【ほんみょう】で登録【とうろく】してください。",
+    "meaning": "Please register with your real name."
+  },
+  {
+    "sentence": "この商品は本土からのものです。",
+    "sentence_furigana": "この商品【しょうひん】は本土【ほんど】からのものです。",
+    "meaning": "This product is from the mainland."
+  },
+  {
+    "sentence": "本土復帰運動が盛んだった。",
+    "sentence_furigana": "本土【ほんど】復帰【ふっき】運動【うんどう】が盛【さか】んだった。",
+    "meaning": "The movement for the return to the mainland was vigorous."
+  },
+  {
+    "sentence": "本人が署名する必要があります。",
+    "sentence_furigana": "本人【ほんにん】が署名【しょめい】する必要【ひつよう】があります。",
+    "meaning": "The person concerned needs to sign."
+  },
+  {
+    "sentence": "本日はどのようなご用件でしょうか。",
+    "sentence_furigana": "本日【ほんじつ】はどのようなご用件【ようけん】でしょうか。",
+    "meaning": "What can I do for you today?"
+  },
+  {
+    "sentence": "本棚が倒れてしまった。",
+    "sentence_furigana": "本棚【ほんだな】が倒【たお】れてしまった。",
+    "meaning": "The bookshelf fell over."
+  },
+  {
+    "sentence": "本棚はまだ空いていますか？",
+    "sentence_furigana": "本棚【ほんだな】はまだ空【あ】いていますか？",
+    "meaning": "Is the bookshelf still empty?"
+  },
+  {
+    "sentence": "本日は何曜日ですか？",
+    "sentence_furigana": "本日【ほんじつ】は何曜日【なんようび】ですか？",
+    "meaning": "What day of the week is it today?"
+  },
+  {
+    "sentence": "本日は定休日です。",
+    "sentence_furigana": "本日【ほんじつ】は定休日【ていきゅうび】です。",
+    "meaning": "Today is a regular holiday."
+  },
+  {
+    "sentence": "本人がこの件について知っています。",
+    "sentence_furigana": "本人【ほんにん】がこの件【けん】について知【し】っています。",
+    "meaning": "The person concerned knows about this matter."
+  },
+  {
+    "sentence": "この本は本当に価値があります。",
+    "sentence_furigana": "この本【ほん】は本当【ほんとう】に価値【かち】があります。",
+    "meaning": "This book is truly valuable."
+  },
+  {
+    "sentence": "本を片付けるのを手伝ってください。",
+    "sentence_furigana": "本【ほん】を片付【かたづ】けるのを手伝【てつだ】ってください。",
+    "meaning": "Please help me tidy up the books."
+  },
+  {
+    "sentence": "本日は特別な日です。",
+    "sentence_furigana": "本日【ほんじつ】は特別【とくべつ】な日【ひ】です。",
+    "meaning": "Today is a special day."
+  },
+  {
+    "sentence": "この本は私が所有するものです。",
+    "sentence_furigana": "この本【ほん】は私【わたし】が所有【しょゆう】するものです。",
+    "meaning": "This book belongs to me."
+  },
+  {
+    "sentence": "本屋さんで新しい本を見つけました。",
+    "sentence_furigana": "本屋【ほんや】さんで新【あたら】しい本【ほん】を見【み】つけました。",
+    "meaning": "I found a new book at the bookstore."
+  },
+  {
+    "sentence": "本を丁寧に扱うべきだ。",
+    "sentence_furigana": "本【ほん】を丁寧【ていねい】に扱【あつか】うべきだ。",
+    "meaning": "Books should be handled with care."
+  },
+  {
+    "sentence": "本を読んでから寝ます。",
+    "sentence_furigana": "本【ほん】を読【よ】んでから寝【ね】ます。",
+    "meaning": "I will read a book before sleeping."
+  },
+  {
+    "sentence": "これは本物の証拠です。",
+    "sentence_furigana": "これは本物【ほんもの】の証拠【しょうこ】です。",
+    "meaning": "This is real evidence."
+  },
+  {
+    "sentence": "本日は良き日となりました。",
+    "sentence_furigana": "本日【ほんじつ】は良【よ】き日【ひ】となりました。",
+    "meaning": "Today has been a good day."
+  },
+  {
+    "sentence": "本日は遠いところお越しいただき、感謝いたします。",
+    "sentence_furigana": "本日【ほんじつ】は遠【とお】いところお越【こ】しいただき、感謝【かんしゃ】いたします。",
+    "meaning": "Thank you for coming from afar today."
+  },
+  {
+    "sentence": "本日はこれで終了といたします。",
+    "sentence_furigana": "本日【ほんじつ】はこれで終了【しゅうりょう】といたします。",
+    "meaning": "We will conclude for today."
+  },
+  {
+    "sentence": "本を読みふけっている。",
+    "sentence_furigana": "本【ほん】を読【よ】みふけっている。",
+    "meaning": "I am engrossed in reading a book."
+  },
+  {
+    "sentence": "本日は快晴です。",
+    "sentence_furigana": "本日【ほんじつ】は快晴【かいせい】です。",
+    "meaning": "It is clear and fine today."
+  },
+  {
+    "sentence": "本日は会議のため、留守にいたします。",
+    "sentence_furigana": "本日【ほんじつ】は会議【かいぎ】のため、留守【るす】にいたします。",
+    "meaning": "I will be out for a meeting today."
+  }
+]

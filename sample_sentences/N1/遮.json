@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼の説明は私の理解を遮るものだった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は私【わたし】の理解【りかい】を遮【さえぎ】るものだった。",
+    "meaning": "His explanation obstructed my understanding."
+  },
+  {
+    "sentence": "新しい法律がその計画の実行を遮った。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】がその計画【けいかく】の実行【じっこう】を遮【さえぎ】った。",
+    "meaning": "The new law interrupted the execution of the plan."
+  },
+  {
+    "sentence": "高い壁が太陽の光を遮っていた。",
+    "sentence_furigana": "高【たか】い壁【かべ】が太陽【たいよう】の光【ひかり】を遮【さえぎ】っていた。",
+    "meaning": "The tall wall blocked the sunlight."
+  },
+  {
+    "sentence": "車のクラクションが会話を遮った。",
+    "sentence_furigana": "車【くるま】のクラクションが会話【かいわ】を遮【さえぎ】った。",
+    "meaning": "The car horn interrupted the conversation."
+  },
+  {
+    "sentence": "突然の雨が私たちのピクニックを遮った。",
+    "sentence_furigana": "突然【とつぜん】の雨【あめ】が私【わたし】たちのピクニックを遮【さえぎ】った。",
+    "meaning": "The sudden rain obstructed our picnic."
+  },
+  {
+    "sentence": "厚いカーテンが外の音を遮断した。",
+    "sentence_furigana": "厚【あつ】いカーテンが外【そと】の音【おと】を遮断【しゃだん】した。",
+    "meaning": "Thick curtains blocked out the noise from outside."
+  },
+  {
+    "sentence": "彼は視界を遮るように腕を上げた。",
+    "sentence_furigana": "彼【かれ】は視界【しかい】を遮【さえぎ】るように腕【うで】を上【あ】げた。",
+    "meaning": "He raised his arm as if to block the view."
+  },
+  {
+    "sentence": "騒音が彼の集中を遮った。",
+    "sentence_furigana": "騒音【そうおん】が彼【かれ】の集中【しゅうちゅう】を遮【さえぎ】った。",
+    "meaning": "The noise interrupted his concentration."
+  },
+  {
+    "sentence": "その情報は機密性を遮る恐れがある。",
+    "sentence_furigana": "その情報【じょうほう】は機密性【きみつせい】を遮【さえぎ】る恐【おそ】れがある。",
+    "meaning": "That information risks compromising confidentiality."
+  },
+  {
+    "sentence": "風が私の声を遮った。",
+    "sentence_furigana": "風【かぜ】が私【わたし】の声【こえ】を遮【さえぎ】った。",
+    "meaning": "The wind blocked my voice."
+  },
+  {
+    "sentence": "邪魔な建物が景色を遮っている。",
+    "sentence_furigana": "邪魔【じゃま】な建物【たてもの】が景色【けしき】を遮【さえぎ】っている。",
+    "meaning": "The unsightly building obstructs the view."
+  },
+  {
+    "sentence": "彼はドアを閉めて私達の会話を遮った。",
+    "sentence_furigana": "彼【かれ】はドアを閉【し】めて私達【わたし】の会話【かいわ】を遮【さえぎ】った。",
+    "meaning": "He closed the door, interrupting our conversation."
+  },
+  {
+    "sentence": "霧が遠くの景色を遮った。",
+    "sentence_furigana": "霧【きり】が遠【とお】くの景色【けしき】を遮【さえぎ】った。",
+    "meaning": "The fog obscured the distant view."
+  },
+  {
+    "sentence": "古い木が通路を遮っていた。",
+    "sentence_furigana": "古【ふる】い木【き】が通路【つうろ】を遮【さえぎ】っていた。",
+    "meaning": "An old tree blocked the path."
+  },
+  {
+    "sentence": "彼の存在が私の進行を遮ることはない。",
+    "sentence_furigana": "彼【かれ】の存在【そんざい】が私【わたし】の進行【しんこう】を遮【さえぎ】ることはない。",
+    "meaning": "His presence will not intercept my progress."
+  },
+  {
+    "sentence": "この木は窓からの眺めを遮っている。",
+    "sentence_furigana": "この木【き】は窓【まど】から眺【なが】めを遮【さえぎ】っている。",
+    "meaning": "This tree blocks the view from the window."
+  },
+  {
+    "sentence": "議論は予期せぬ質問によって遮られた。",
+    "sentence_furigana": "議論【ぎろん】は予期【よき】せぬ質問【しつもん】によって遮【さえぎ】られた。",
+    "meaning": "The discussion was interrupted by an unexpected question."
+  },
+  {
+    "sentence": "高い山脈が視界を遮っていた。",
+    "sentence_furigana": "高【たか】い山脈【さんみゃく】が視界【しかい】を遮【さえぎ】っていた。",
+    "meaning": "High mountain ranges obstructed the view."
+  },
+  {
+    "sentence": "工事中の看板が歩道を遮っていた。",
+    "sentence_furigana": "工事中【こうじちゅう】の看板【かんばん】が歩道【ほどう】を遮【さえぎ】っていた。",
+    "meaning": "A construction sign blocked the sidewalk."
+  },
+  {
+    "sentence": "彼の提案は会議の流れを遮った。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は会議【かいぎ】の流れ【ながれ】を遮【さえぎ】った。",
+    "meaning": "His proposal interrupted the flow of the meeting."
+  },
+  {
+    "sentence": "雨漏りが部屋の明るさを遮っていた。",
+    "sentence_furigana": "雨漏【あまも】りが部屋【へや】の明【あか】るさを遮【さえぎ】っていた。",
+    "meaning": "The leaky roof obstructed the room's brightness."
+  },
+  {
+    "sentence": "その広告はウェブサイトの閲覧を遮る。",
+    "sentence_furigana": "その広告【こうこく】はウェブサイトの閲覧【えつらん】を遮【さえぎ】る。",
+    "meaning": "That advertisement intercepts website browsing."
+  },
+  {
+    "sentence": "カーテンが光を遮るために引かれた。",
+    "sentence_furigana": "カーテンが光【ひかり】を遮【さえぎ】るために引【ひ】かれた。",
+    "meaning": "The curtains were drawn to block the light."
+  },
+  {
+    "sentence": "古い塔は町の景観を遮っていた。",
+    "sentence_furigana": "古【ふる】い塔【とう】は町【まち】の景観【けいかん】を遮【さえぎ】っていた。",
+    "meaning": "The old tower obstructed the town's scenery."
+  },
+  {
+    "sentence": "彼の返事は私の質問を遮るものだった。",
+    "sentence_furigana": "彼【かれ】の返事【へんじ】は私【わたし】の質問【しつもん】を遮【さえぎ】るものだった。",
+    "meaning": "His reply intercepted my question."
+  },
+  {
+    "sentence": "工事中の音は静寂を遮っていた。",
+    "sentence_furigana": "工事中【こうじちゅう】の音【おと】は静寂【せいじゃく】を遮【さえぎ】っていた。",
+    "meaning": "The construction noise interrupted the silence."
+  },
+  {
+    "sentence": "この建物は隣の家の窓からの眺めを遮る。",
+    "sentence_furigana": "この建物【たてもの】は隣【となり】の家【いえ】の窓【まど】から眺【なが】めを遮【さえぎ】る。",
+    "meaning": "This building obstructs the view from the neighbor's window."
+  },
+  {
+    "sentence": "彼女の声はマイクの故障で遮られた。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】はマイクの故障【こしょう】で遮【さえぎ】られた。",
+    "meaning": "Her voice was interrupted by a microphone failure."
+  },
+  {
+    "sentence": "大きな木が私たちの写真を撮るのを遮っていた。",
+    "sentence_furigana": "大【おお】きな木【き】が私達【わたし】の写真【しゃしん】を撮【と】るのを遮【さえぎ】っていた。",
+    "meaning": "A large tree blocked us from taking our photo."
+  },
+  {
+    "sentence": "その法律は自由な貿易を遮断する可能性がある。",
+    "sentence_furigana": "その法律【ほうりつ】は自由【じゆう】な貿易【ぼうえき】を遮断【しゃだん】する可能性【かのうせい】がある。",
+    "meaning": "That law could intercept free trade."
+  },
+  {
+    "sentence": "高い棚が私の視界を遮っていた。",
+    "sentence_furigana": "高【たか】い棚【たな】が私【わたし】の視界【しかい】を遮【さえぎ】っていた。",
+    "meaning": "The high shelf blocked my vision."
+  },
+  {
+    "sentence": "彼の発言は議論を遮るように聞こえた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は議論【ぎろん】を遮【さえぎ】るように聞【き】こえた。",
+    "meaning": "His statement sounded like it was interrupting the discussion."
+  },
+  {
+    "sentence": "山の陰が太陽の暖かさを遮っていた。",
+    "sentence_furigana": "山【やま】の陰【かげ】が太陽【たいよう】の暖【あたた】かさを遮【さえぎ】っていた。",
+    "meaning": "The mountain's shadow obstructed the sun's warmth."
+  },
+  {
+    "sentence": "騒々しい音楽が会話を遮ってしまった。",
+    "sentence_furigana": "騒々【そうぞう】しい音楽【おんがく】が会話【かいわ】を遮【さえぎ】ってしまった。",
+    "meaning": "The loud music interrupted the conversation."
+  },
+  {
+    "sentence": "厚いカーテンは外界の音を遮断するために使われる。",
+    "sentence_furigana": "厚【あつ】いカーテンは外界【がいかい】の音【おと】を遮断【しゃだん】するために使【つか】われる。",
+    "meaning": "Thick curtains are used to block out external sounds."
+  },
+  {
+    "sentence": "彼の質問は会議の進行を遮った。",
+    "sentence_furigana": "彼【かれ】の質問【しつもん】は会議【かいぎ】の進行【しんこう】を遮【さえぎ】った。",
+    "meaning": "His question interrupted the progress of the meeting."
+  },
+  {
+    "sentence": "新しいビルの建設が古い建物の日照を遮る。",
+    "sentence_furigana": "新【あたら】しいビルの一【けん】設【せつ】が古【ふる】い建物【たてもの】の日照【にっしょう】を遮【さえぎ】る。",
+    "meaning": "The construction of the new building obstructs the sunlight for the old building."
+  },
+  {
+    "sentence": "カーテンを閉めて部屋を暗くした。",
+    "sentence_furigana": "カーテンを閉【し】めて部屋【へや】を暗【くら】くした。",
+    "meaning": "I closed the curtains to darken the room."
+  },
+  {
+    "sentence": "突然のサイレンが私の考えを遮った。",
+    "sentence_furigana": "突然【とつぜん】のサイレンが私【わたし】の考【かんが】えを遮【さえぎ】った。",
+    "meaning": "The sudden siren interrupted my thoughts."
+  },
+  {
+    "sentence": "大きな岩が山の斜面を遮っていた。",
+    "sentence_furigana": "大【おお】きな岩【いわ】が山【やま】の斜面【しゃめん】を遮【さえぎ】っていた。",
+    "meaning": "A large rock obstructed the mountainside."
+  },
+  {
+    "sentence": "彼の話は私の集中力を遮った。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は私【わたし】の集中力【しゅうちゅうりょく】を遮【さえぎ】った。",
+    "meaning": "His story interrupted my concentration."
+  },
+  {
+    "sentence": "その樹木は窓からの眺めを遮断している。",
+    "sentence_furigana": "その樹木【じゅもく】は窓【まど】から眺【なが】めを遮断【しゃだん】している。",
+    "meaning": "Those trees block the view from the window."
+  },
+  {
+    "sentence": "車のヘッドライトが私の視界を遮った。",
+    "sentence_furigana": "車【くるま】のヘッドライトが私【わたし】の視界【しかい】を遮【さえぎ】った。",
+    "meaning": "The car's headlights blocked my vision."
+  },
+  {
+    "sentence": "彼の不注意な発言は議論を遮った。",
+    "sentence_furigana": "彼【かれ】の不注意【ふちゅうい】な発言【はつげん】は議論【ぎろん】を遮【さえぎ】った。",
+    "meaning": "His careless remark interrupted the debate."
+  },
+  {
+    "sentence": "突然の来客が私の仕事を遮った。",
+    "sentence_furigana": "突然【とつぜん】の来客【らいきゃく】が私【わたし】の仕事【しごと】を遮【さえぎ】った。",
+    "meaning": "The unexpected visitor interrupted my work."
+  },
+  {
+    "sentence": "厚い雲が太陽の光を遮った。",
+    "sentence_furigana": "厚【あつ】い雲【くも】が太陽【たいよう】の光【ひかり】を遮【さえぎ】った。",
+    "meaning": "Thick clouds blocked the sunlight."
+  },
+  {
+    "sentence": "この構造物は景観を遮るものとみなされた。",
+    "sentence_furigana": "この構造物【こうぞうぶつ】は景観【けいかん】を遮【さえぎ】るものとみなされた。",
+    "meaning": "This structure was considered to obstruct the scenery."
+  },
+  {
+    "sentence": "彼の遮るような態度に私は苛立った。",
+    "sentence_furigana": "彼【かれ】の遮【さえぎ】るような態度【たいど】に私【わたし】は苛立【いらだ】った。",
+    "meaning": "I was annoyed by his interrupting manner."
+  },
+  {
+    "sentence": "この障害物は進路を遮っている。",
+    "sentence_furigana": "この障害物【しょうがいぶつ】は進路【しんろ】を遮【さえぎ】っている。",
+    "meaning": "This obstacle obstructs the path."
+  },
+  {
+    "sentence": "突然の騒音が会議を遮った。",
+    "sentence_furigana": "突然【とつぜん】の騒音【そうおん】が会議【かいぎ】を遮【さえぎ】った。",
+    "meaning": "Sudden noise interrupted the meeting."
+  },
+  {
+    "sentence": "その建物は海岸線の眺めを遮っていた。",
+    "sentence_furigana": "その建物【たてもの】は海岸線【かいがんせん】の眺【なが】めを遮【さえぎ】っていた。",
+    "meaning": "The building obstructed the view of the coastline."
+  },
+  {
+    "sentence": "彼の横やりは話の進行を遮った。",
+    "sentence_furigana": "彼【かれ】の横【よこ】やりは話【はなし】の進行【しんこう】を遮【さえぎ】った。",
+    "meaning": "His interjection interrupted the progress of the talk."
+  },
+  {
+    "sentence": "壁が私の視界を遮っていた。",
+    "sentence_furigana": "壁【かべ】が私【わたし】の視界【しかい】を遮【さえぎ】っていた。",
+    "meaning": "The wall blocked my view."
+  },
+  {
+    "sentence": "彼らは私たちの進路を遮るために立ちふさがった。",
+    "sentence_furigana": "彼【かれ】ら は 私達【わたし】の進路【しんろ】を遮【さえぎ】るために立【た】ちふさがった。",
+    "meaning": "They stood in our way to obstruct our path."
+  },
+  {
+    "sentence": "工事中のフェンスが歩行者を遮断していた。",
+    "sentence_furigana": "工事中【こうじちゅう】のフェンスが歩行者【ほこうしゃ】を遮断【しゃだん】していた。",
+    "meaning": "A construction fence blocked pedestrians."
+  },
+  {
+    "sentence": "突然の電話が彼の作業を遮った。",
+    "sentence_furigana": "突然【とつぜん】の電話【でんわ】が彼【かれ】の作業【さぎょう】を遮【さえぎ】った。",
+    "meaning": "The sudden phone call interrupted his work."
+  },
+  {
+    "sentence": "この法律は検閲を遮断することを目的としている。",
+    "sentence_furigana": "この法律【ほうりつ】は検閲【けんえつ】を遮断【しゃだん】することを目的【もくてき】としている。",
+    "meaning": "This law aims to intercept censorship."
+  },
+  {
+    "sentence": "彼の冗談は真剣な議論を遮った。",
+    "sentence_furigana": "彼【かれ】の冗談【じょうだん】は真剣【しんけん】な議論【ぎろん】を遮【さえぎ】った。",
+    "meaning": "His joke interrupted the serious discussion."
+  },
+  {
+    "sentence": "その木は窓からの眺望を遮っていた。",
+    "sentence_furigana": "その木【き】は窓【まど】からの眺望【ちょうぼう】を遮【さえぎ】っていた。",
+    "meaning": "The tree obstructed the view from the window."
+  },
+  {
+    "sentence": "騒音が彼のスピーチを遮った。",
+    "sentence_furigana": "騒音【そうおん】が彼【かれ】のスピーチを遮【さえぎ】った。",
+    "meaning": "The noise interrupted his speech."
+  },
+  {
+    "sentence": "厚い雪が道路を遮断した。",
+    "sentence_furigana": "厚【あつ】い雪【ゆき】が道路【どうろ】を遮断【しゃだん】した。",
+    "meaning": "Heavy snow blocked the road."
+  },
+  {
+    "sentence": "彼の計画は予期せぬ困難によって遮られた。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】は予期【よき】せぬ困難【こんなん】によって遮【さえぎ】られた。",
+    "meaning": "His plan was interrupted by unforeseen difficulties."
+  },
+  {
+    "sentence": "この壁は光を遮断するために建てられた。",
+    "sentence_furigana": "この壁【かべ】は光【ひかり】を遮断【しゃだん】するために建【た】てられた。",
+    "meaning": "This wall was built to block light."
+  },
+  {
+    "sentence": "突然の雷鳴が平和を遮った。",
+    "sentence_furigana": "突然【とつぜん】の雷鳴【らいめい】が平和【へいわ】を遮【さえぎ】った。",
+    "meaning": "The sudden thunder interrupted the peace."
+  },
+  {
+    "sentence": "彼の背丈は私の視界を遮った。",
+    "sentence_furigana": "彼【かれ】の背丈【せたけ】は私【わたし】の視界【しかい】を遮【さえぎ】った。",
+    "meaning": "His height blocked my view."
+  },
+  {
+    "sentence": "大きな箱が通路を遮っていた。",
+    "sentence_furigana": "大【おお】きな箱【はこ】が通路【つうろ】を遮【さえぎ】っていた。",
+    "meaning": "A large box obstructed the aisle."
+  },
+  {
+    "sentence": "この法案は国民の権利を遮る可能性がある。",
+    "sentence_furigana": "この法案【ほうあん】は国民【こくみん】の権利【けんり】を遮【さえぎ】る可能性【かのうせい】がある。",
+    "meaning": "This bill may intercept citizens' rights."
+  },
+  {
+    "sentence": "彼の言葉は私の話を遮った。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】の話【はなし】を遮【さえぎ】った。",
+    "meaning": "His words interrupted my story."
+  },
+  {
+    "sentence": "カーテンが窓からの光を遮断した。",
+    "sentence_furigana": "カーテンが窓【まど】から光【ひかり】を遮断【しゃだん】した。",
+    "meaning": "The curtains blocked the light from the window."
+  },
+  {
+    "sentence": "彼の傲慢な態度はチームワークを遮る。",
+    "sentence_furigana": "彼【かれ】の傲慢【ごうまん】な態度【たいど】はチームワークを遮【さえぎ】る。",
+    "meaning": "His arrogant attitude obstructs teamwork."
+  },
+  {
+    "sentence": "突然の強風が飛行機の発着を遮った。",
+    "sentence_furigana": "突然【とつぜん】の強風【きょうふう】が飛行機【ひこうき】の発着【はっちゃく】を遮【さえぎ】った。",
+    "meaning": "Sudden strong winds interrupted the aircraft's take-off and landing."
+  },
+  {
+    "sentence": "この建物は隣家の採光を遮る。",
+    "sentence_furigana": "この建物【たてもの】は隣家【りんか】の採光【さいこう】を遮【さえぎ】る。",
+    "meaning": "This building obstructs the natural light for the neighboring house."
+  },
+  {
+    "sentence": "彼の割り込みは議論を遮った。",
+    "sentence_furigana": "彼【かれ】の割込【わりこ】みは議論【ぎろん】を遮【さえぎ】った。",
+    "meaning": "His interruption blocked the discussion."
+  },
+  {
+    "sentence": "厚い霧が視界を遮っていた。",
+    "sentence_furigana": "厚【あつ】い霧【きり】が視界【しかい】を遮【さえぎ】っていた。",
+    "meaning": "The thick fog obstructed the view."
+  },
+  {
+    "sentence": "この遮蔽物は敵の進軍を遮るために設置された。",
+    "sentence_furigana": "この遮蔽物【しゃへいぶつ】は敵【てき】の進軍【しんぐん】を遮【さえぎ】るために設置【せっち】された。",
+    "meaning": "This cover was set up to intercept the enemy's advance."
+  },
+  {
+    "sentence": "突然の停電が私の作業を遮った。",
+    "sentence_furigana": "突然【とつぜん】の停電【ていでん】が私【わたし】の作業【さぎょう】を遮【さえぎ】った。",
+    "meaning": "The sudden power outage interrupted my work."
+  },
+  {
+    "sentence": "彼の見解は私の視点を遮るものだった。",
+    "sentence_furigana": "彼【かれ】の見解【けんかい】は私【わたし】の視点【してん】を遮【さえぎ】るものだった。",
+    "meaning": "His view obstructed my perspective."
+  },
+  {
+    "sentence": "大きな木が庭の向こう側を遮っていた。",
+    "sentence_furigana": "大【おお】きな木【き】が庭【にわ】の向【む】こう側【がわ】を遮【さえぎ】っていた。",
+    "meaning": "A large tree blocked the view across the garden."
+  },
+  {
+    "sentence": "この規則は自由な発言を遮る。",
+    "sentence_furigana": "この規則【きそく】は自由【じゆう】な発言【はつげん】を遮【さえぎ】る。",
+    "meaning": "This rule intercepts free speech."
+  },
+  {
+    "sentence": "彼の遅刻が会議の開始を遮った。",
+    "sentence_furigana": "彼【かれ】の遅刻【ちこく】が会議【かいぎ】の開始【かいし】を遮【さえぎ】った。",
+    "meaning": "His lateness interrupted the start of the meeting."
+  },
+  {
+    "sentence": "カーテンは外からの光を遮断するのに役立つ。",
+    "sentence_furigana": "カーテンは外【そと】から光【ひかり】を遮断【しゃだん】するのに役立【やくた】つ。",
+    "meaning": "Curtains help to block light from outside."
+  },
+  {
+    "sentence": "彼の発言は議論の進行を遮った。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は議論【ぎろん】の進行【しんこう】を遮【さえぎ】った。",
+    "meaning": "His remarks interrupted the progress of the discussion."
+  },
+  {
+    "sentence": "突然の雷雨が屋外での活動を遮った。",
+    "sentence_furigana": "突然【とつぜん】の雷雨【らいう】が屋外【おくがい】での活動【かつどう】を遮【さえぎ】った。",
+    "meaning": "The sudden thunderstorm interrupted outdoor activities."
+  },
+  {
+    "sentence": "この建物は、かつての海の眺めを遮る。",
+    "sentence_furigana": "この建物【たてもの】は、かつて の 海【うみ】の眺【なが】めを遮【さえぎ】る。",
+    "meaning": "This building obstructs the view of the former sea."
+  },
+  {
+    "sentence": "彼の軽率な行動が計画の遂行を遮った。",
+    "sentence_furigana": "彼【かれ】の軽率【けいそつ】な行動【こうどう】が計画【けいかく】の遂行【すいこう】を遮【さえぎ】った。",
+    "meaning": "His rash action interrupted the execution of the plan."
+  },
+  {
+    "sentence": "厚い煙が視界を遮断した。",
+    "sentence_furigana": "厚【あつ】い煙【けむり】が視界【しかい】を遮断【しゃだん】した。",
+    "meaning": "Thick smoke blocked the view."
+  },
+  {
+    "sentence": "突然の訪問者が私たちの邪魔をした。",
+    "sentence_furigana": "突然【とつぜん】の訪問者【ほうもんしゃ】が私達【わたし】の邪魔【じゃま】をした。",
+    "meaning": "The sudden visitor interrupted us."
+  },
+  {
+    "sentence": "この木は私の窓からの眺めを遮っている。",
+    "sentence_furigana": "この木【き】は私【わたし】の窓【まど】から眺【なが】めを遮【さえぎ】っている。",
+    "meaning": "This tree obstructs the view from my window."
+  },
+  {
+    "sentence": "彼の質問は議論を中断させた。",
+    "sentence_furigana": "彼【かれ】の質問【しつもん】は議論【ぎろん】を中断【ちゅうだん】させた。",
+    "meaning": "His question interrupted the discussion."
+  },
+  {
+    "sentence": "騒音は彼の集中を遮っていた。",
+    "sentence_furigana": "騒音【そうおん】は彼【かれ】の集中【しゅうちゅう】を遮【さえぎ】っていた。",
+    "meaning": "The noise obstructed his concentration."
+  },
+  {
+    "sentence": "厚いカーテンは光を遮断する。",
+    "sentence_furigana": "厚【あつ】いカーテンは光【ひかり】を遮断【しゃだん】する。",
+    "meaning": "Thick curtains block light."
+  },
+  {
+    "sentence": "彼の出現は計画の進行を遮った。",
+    "sentence_furigana": "彼【かれ】の出現【しゅつげん】は計画【けいかく】の進行【しんこう】を遮【さえぎ】った。",
+    "meaning": "His appearance interrupted the progress of the plan."
+  },
+  {
+    "sentence": "突然のニュースが会議を中断させた。",
+    "sentence_furigana": "突然【とつぜん】のニュースが会議【かいぎ】を中断【ちゅうだん】させた。",
+    "meaning": "The sudden news interrupted the meeting."
+  },
+  {
+    "sentence": "この建物が提供する遮蔽は十分ではない。",
+    "sentence_furigana": "この建物【たてもの】が提供【ていきょう】する遮蔽【しゃへい】は十分【じゅうぶん】ではない。",
+    "meaning": "The cover this building provides is not enough."
+  },
+  {
+    "sentence": "彼の邪魔な行動は私たちの進歩を遮った。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】な行動【こうどう】は私達【わたし】の進歩【しんぽ】を遮【さえぎ】った。",
+    "meaning": "His disruptive behavior obstructed our progress."
+  },
+  {
+    "sentence": "厚い葉が太陽光を遮っていた。",
+    "sentence_furigana": "厚【あつ】い葉【は】が太陽光【たいようこう】を遮【さえぎ】っていた。",
+    "meaning": "The thick leaves blocked the sunlight."
+  },
+  {
+    "sentence": "彼の発言は、話の流れを遮った。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、話【はなし】の流れ【ながれ】を遮【さえぎ】った。",
+    "meaning": "His statement interrupted the flow of the conversation."
+  },
+  {
+    "sentence": "突然の雨がピクニックを台無しにした。",
+    "sentence_furigana": "突然【つぜん】の雨【あめ】がピクニックを台無【だいな】しにした。",
+    "meaning": "The sudden rain spoiled the picnic."
+  },
+  {
+    "sentence": "この壁は景観を遮るものだ。",
+    "sentence_furigana": "この壁【かべ】は景観【けいかん】を遮【さえぎ】るものだ。",
+    "meaning": "This wall obstructs the scenery."
+  },
+  {
+    "sentence": "彼の返答は私の質問の核心を遮断した。",
+    "sentence_furigana": "彼【かれ】の返答【へんとう】は私【わたし】の質問【しつもん】の核心【かくしん】を遮断【しゃだん】した。",
+    "meaning": "His response intercepted the core of my question."
+  },
+  {
+    "sentence": "厚い雲が太陽を遮った。",
+    "sentence_furigana": "厚【あつ】い雲【くも】が太陽【たいよう】を遮【さえぎ】った。",
+    "meaning": "The thick clouds blocked the sun."
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "sentence": "この本は私の手に及ばない。",
+    "sentence_furigana": "この本【ほん】は私【わたし】の手【て】に及【およ】ばない。",
+    "meaning": "This book is beyond my reach."
+  },
+  {
+    "sentence": "彼の手腕は及ばない。",
+    "sentence_furigana": "彼【かれ】の手腕【てわん】は及【およ】ばない。",
+    "meaning": "His skill is not good enough."
+  },
+  {
+    "sentence": "その影響は広範囲に及んだ。",
+    "sentence_furigana": "その影響【えいきょう】は広範囲【こうはんい】に及【およ】んだ。",
+    "meaning": "The influence spread over a wide area."
+  },
+  {
+    "sentence": "彼の能力はまだ大学レベルに及ばない。",
+    "sentence_furigana": "彼【かれ】の能力【のうりょく】はまだ大学【だいがく】レベルに及【およ】ばない。",
+    "meaning": "His ability does not yet reach the university level."
+  },
+  {
+    "sentence": "その成果は期待に及ばなかった。",
+    "sentence_furigana": "その成果【せいか】は期待【きたい】に及【およ】ばなかった。",
+    "meaning": "The results did not meet expectations."
+  },
+  {
+    "sentence": "経済成長は予測に及ばない。",
+    "sentence_furigana": "経済成長【けいざいせいちょう】は予測【よそく】に及【およ】ばない。",
+    "meaning": "Economic growth does not reach predictions."
+  },
+  {
+    "sentence": "彼の言葉は私の心を及んだ。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】の心【こころ】を及【およ】んだ。",
+    "meaning": "His words reached my heart."
+  },
+  {
+    "sentence": "その事件は国民の間に及んだ。",
+    "sentence_furigana": "その事件【じけん】は国民【こくみん】の間【あいだ】に及【およ】んだ。",
+    "meaning": "The incident spread among the citizens."
+  },
+  {
+    "sentence": "この薬は効果が及ばない。",
+    "sentence_furigana": "この薬【くすり】は効果【こうか】が及【およ】ばない。",
+    "meaning": "This medicine has no effect."
+  },
+  {
+    "sentence": "彼女の美しさは誰も及ばない。",
+    "sentence_furigana": "彼女【かのじょ】の美【うつく】しさは誰【だれ】も及【およ】ばない。",
+    "meaning": "No one can match her beauty."
+  },
+  {
+    "sentence": "その計画は予算の範囲に及ばない。",
+    "sentence_furigana": "その計画【けいかく】は予算【よさん】の範囲【はんい】に及【およ】ばない。",
+    "meaning": "The plan does not fall within the budget."
+  },
+  {
+    "sentence": "彼の才能は我々の想像を超えた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は我々【われわれ】の想像【そうぞう】を超【こ】えた。",
+    "meaning": "His talent exceeded our imagination."
+  },
+  {
+    "sentence": "その法律は一般市民に及ぶ。",
+    "sentence_furigana": "その法律【ほうりつ】は一般市民【いっぱんしみん】に及【およ】ぶ。",
+    "meaning": "The law applies to the general public."
+  },
+  {
+    "sentence": "彼の声は教室全体に及んだ。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は教室【きょうしつ】全体【ぜんたい】に及【およ】んだ。",
+    "meaning": "His voice reached the whole classroom."
+  },
+  {
+    "sentence": "この件は私の権限に及ばない。",
+    "sentence_furigana": "この件【けん】は私【わたし】の権限【けんげん】に及【およ】ばない。",
+    "meaning": "This matter is beyond my authority."
+  },
+  {
+    "sentence": "彼の知識は広範囲に及んでいる。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は広範囲【こうはんい】に及【およ】んでいる。",
+    "meaning": "His knowledge covers a wide range."
+  },
+  {
+    "sentence": "その影響は将来に及ぶだろう。",
+    "sentence_furigana": "その影響【えいきょう】は将来【しょうらい】に及【およ】ぶだろう。",
+    "meaning": "The impact will likely extend into the future."
+  },
+  {
+    "sentence": "彼の行動は多くの人に影響を及ぼした。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は多【おお】くの人【ひと】に影響【えいきょう】を及【およ】ぼした。",
+    "meaning": "His actions affected many people."
+  },
+  {
+    "sentence": "このキャンペーンは社会全体に及んだ。",
+    "sentence_furigana": "このキャンペーンは社会【しゃかい】全体【ぜんたい】に及【およ】んだ。",
+    "meaning": "This campaign reached society as a whole."
+  },
+  {
+    "sentence": "彼の意見は会議の参加者に及んだ。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は会議【かいぎ】の参加者【さんかしゃ】に及【およ】んだ。",
+    "meaning": "His opinion reached the meeting participants."
+  },
+  {
+    "sentence": "この病気は全世界に及んだ。",
+    "sentence_furigana": "この病気【びょうき】は全世界【ぜんせかい】に及【およ】んだ。",
+    "meaning": "This disease spread worldwide."
+  },
+  {
+    "sentence": "その知らせは彼の心に及んだ。",
+    "sentence_furigana": "その知【し】らせは彼【かれ】の心【こころ】に及【およ】んだ。",
+    "meaning": "The news reached his heart."
+  },
+  {
+    "sentence": "彼の技術は師匠の域に及ばない。",
+    "sentence_furigana": "彼【かれ】の技術【ぎじゅつ】は師匠【ししょう】の域【いき】に及【およ】ばない。",
+    "meaning": "His technique does not reach the level of his master."
+  },
+  {
+    "sentence": "その議論は多岐に及んだ。",
+    "sentence_furigana": "その議論【ぎろん】は多岐【たき】に及【およ】んだ。",
+    "meaning": "The discussion covered many topics."
+  },
+  {
+    "sentence": "彼の貢献は計り知れない。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は計【はか】り知【し】れない。",
+    "meaning": "His contribution is immeasurable."
+  },
+  {
+    "sentence": "この状況は私の手に及ばない。",
+    "sentence_furigana": "この状況【じょうきょう】は私【わたし】の手に及【およ】ばない。",
+    "meaning": "This situation is beyond my control."
+  },
+  {
+    "sentence": "その教えは子供たちに及んだ。",
+    "sentence_furigana": "その教【おし】えは子供【こども】たちに及【およ】んだ。",
+    "meaning": "Those teachings reached the children."
+  },
+  {
+    "sentence": "彼の声援は選手たちに力を及ぼした。",
+    "sentence_furigana": "彼【かれ】の声援【せいえん】は選手【せんしゅ】たちに力【ちから】を及【およ】ぼした。",
+    "meaning": "His cheers gave strength to the athletes."
+  },
+  {
+    "sentence": "この政策は国民生活に影響を及ぼす。",
+    "sentence_furigana": "この政策【せいさく】は国民生活【こくみんせいかつ】に影響【えいきょう】を及【およ】ぼす。",
+    "meaning": "This policy affects the lives of the people."
+  },
+  {
+    "sentence": "彼の研究は学界に及んだ。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は学界【がっかい】に及【およ】んだ。",
+    "meaning": "His research reached the academic world."
+  },
+  {
+    "sentence": "その改革は社会の隅々に及んだ。",
+    "sentence_furigana": "その改革【かいかく】は社会【しゃかい】の隅々【すみずみ】に及【およ】んだ。",
+    "meaning": "The reform reached every corner of society."
+  },
+  {
+    "sentence": "彼の提案は皆の賛同を得た。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は皆【みな】の賛同【さんどう】を得【え】た。",
+    "meaning": "His proposal gained everyone's approval."
+  },
+  {
+    "sentence": "この技術は世界に普及した。",
+    "sentence_furigana": "この技術【ぎじゅつ】は世界【せかい】に普及【ふきゅう】した。",
+    "meaning": "This technology spread throughout the world."
+  },
+  {
+    "sentence": "彼の影響力は計り知れない。",
+    "sentence_furigana": "彼【かれ】の影響力【えいきょうりょく】は計【はか】り知【し】れない。",
+    "meaning": "His influence is immeasurable."
+  },
+  {
+    "sentence": "その波紋は水面全体に及んだ。",
+    "sentence_furigana": "その波紋【はもん】は水面【すいめん】全体【ぜんたい】に及【およ】んだ。",
+    "meaning": "The ripples spread across the entire water surface."
+  },
+  {
+    "sentence": "彼の功績は後世に及ぶだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は後世【こうせい】に及【およ】ぶだろう。",
+    "meaning": "His achievements will likely extend to future generations."
+  },
+  {
+    "sentence": "この問題は私の専門分野に及ばない。",
+    "sentence_furigana": "この問題【もんだい】は私【わたし】の専門分野【せんもんぶんや】に及【およ】ばない。",
+    "meaning": "This problem does not fall within my area of expertise."
+  },
+  {
+    "sentence": "彼の努力は目標達成に及んだ。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は目標達成【もくひょうたっせい】に及【およ】んだ。",
+    "meaning": "His efforts reached the goal."
+  },
+  {
+    "sentence": "その法案は国民に影響を及ぼす可能性がある。",
+    "sentence_furigana": "その法案【ほうあん】は国民【こくみん】に影響【えいきょう】を及【およ】ぼす可能性【かのうせい】がある。",
+    "meaning": "The bill may affect the citizens."
+  },
+  {
+    "sentence": "彼の熱意はチーム全体に伝わった。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】はチーム全体【ぜんたい】に伝【つた】わった。",
+    "meaning": "His enthusiasm was conveyed to the whole team."
+  },
+  {
+    "sentence": "その改革は国民生活に及んだ。",
+    "sentence_furigana": "その改革【かいかく】は国民生活【こくみんせいかつ】に及【およ】んだ。",
+    "meaning": "The reform affected the lives of the people."
+  },
+  {
+    "sentence": "彼の声は遠くまで及んだ。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は遠【とお】くまで及【およ】んだ。",
+    "meaning": "His voice reached far away."
+  },
+  {
+    "sentence": "この事件の余波は広範囲に及んだ。",
+    "sentence_furigana": "この事件【じけん】の余波【よは】は広範囲【こうはんい】に及【およ】んだ。",
+    "meaning": "The aftermath of this incident spread widely."
+  },
+  {
+    "sentence": "彼の功績は歴史に刻まれる。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に刻【きざ】まれる。",
+    "meaning": "His achievements will be etched in history."
+  },
+  {
+    "sentence": "その影響は私たちの生活に及ぶ。",
+    "sentence_furigana": "その影響【えいきょう】は私達【わたしたち】の生活【せいかつ】に及【およ】ぶ。",
+    "meaning": "The impact affects our lives."
+  },
+  {
+    "sentence": "彼の知識は並外れている。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は並外【なみはず】れている。",
+    "meaning": "His knowledge is extraordinary."
+  },
+  {
+    "sentence": "その薬の効果は体に及んだ。",
+    "sentence_furigana": "その薬【くすり】の効果【こうか】は体【からだ】に及【およ】んだ。",
+    "meaning": "The effect of the medicine reached the body."
+  },
+  {
+    "sentence": "彼の指導は多くの者に及んだ。",
+    "sentence_furigana": "彼【かれ】の指導【しどう】は多【おお】くの者【もの】に及【およ】んだ。",
+    "meaning": "His guidance reached many people."
+  },
+  {
+    "sentence": "この決定は将来に影響を及ぼすだろう。",
+    "sentence_furigana": "この決定【けってい】は将来【しょうらい】に影響【えいきょう】を及【およ】ぼすだろう。",
+    "meaning": "This decision will likely affect the future."
+  },
+  {
+    "sentence": "彼の活躍は世界に及んだ。",
+    "sentence_furigana": "彼【かれ】の活躍【かつやく】は世界【せかい】に及【およ】んだ。",
+    "meaning": "His success reached the world."
+  },
+  {
+    "sentence": "その出来事は社会に波紋を及ぼした。",
+    "sentence_furigana": "その出来事【できごと】は社会【しゃかい】に波紋【はもん】を及【およ】ぼした。",
+    "meaning": "The event caused ripples in society."
+  },
+  {
+    "sentence": "彼の才能は多くの人に認められた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は多【おお】くの人【ひと】に認【みと】められた。",
+    "meaning": "His talent was recognized by many people."
+  },
+  {
+    "sentence": "その声は会場の隅々まで及んだ。",
+    "sentence_furigana": "その声【こえ】は会場【かいじょう】の隅々【すみずみ】まで及【およ】んだ。",
+    "meaning": "The voice reached every corner of the venue."
+  },
+  {
+    "sentence": "彼の言葉は深く心に響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は深【ふか】く心【こころ】に響【ひび】いた。",
+    "meaning": "His words deeply resonated with my heart."
+  },
+  {
+    "sentence": "この薬は病状に効果を及ぼす。",
+    "sentence_furigana": "この薬【くすり】は病状【びょうじょう】に効果【こうか】を及【およ】ぼす。",
+    "meaning": "This medicine affects the patient's condition."
+  },
+  {
+    "sentence": "彼の協力は計画遂行に不可欠だった。",
+    "sentence_furigana": "彼【かれ】の協力【きょうりょく】は計画遂行【けいかくすいこう】に不可欠【ふかけつ】だった。",
+    "meaning": "His cooperation was essential for the execution of the plan."
+  },
+  {
+    "sentence": "その影響は経済全体に及んだ。",
+    "sentence_furigana": "その影響【えいきょう】は経済【けいざい】全体【ぜんたい】に及【およ】んだ。",
+    "meaning": "The impact affected the entire economy."
+  },
+  {
+    "sentence": "彼の業績は世界中に知られている。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は世界中【せかいじゅう】に知【し】られている。",
+    "meaning": "His achievements are known worldwide."
+  },
+  {
+    "sentence": "そのニュースは国中に広がった。",
+    "sentence_furigana": "そのニュースは国中【くにじゅう】に広【ひろ】がった。",
+    "meaning": "The news spread throughout the country."
+  },
+  {
+    "sentence": "彼の技術は師匠の域に達しない。",
+    "sentence_furigana": "彼【かれ】の技術【ぎじゅつ】は師匠【ししょう】の域【いき】に達【たっ】しない。",
+    "meaning": "His technique does not reach his master's level."
+  },
+  {
+    "sentence": "その法律は国民に直接影響する。",
+    "sentence_furigana": "その法律【ほうりつ】は国民【こくみん】に直接【ちょくせつ】影響【えいきょう】する。",
+    "meaning": "The law directly affects the citizens."
+  },
+  {
+    "sentence": "彼の熱意はプロジェクト全体に及びました。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】はプロジェクト全体【ぜんたい】に及【およ】びました。",
+    "meaning": "His enthusiasm extended to the entire project."
+  },
+  {
+    "sentence": "その影響は地球全体に及ぶ可能性がある。",
+    "sentence_furigana": "その影響【えいきょう】は地球【ちきゅう】全体【ぜんたい】に及【およ】ぶ可能性【かのうせい】がある。",
+    "meaning": "The impact could affect the entire globe."
+  },
+  {
+    "sentence": "彼の指導は多くの学生に影響を与えた。",
+    "sentence_furigana": "彼【かれ】の指導【しどう】は多【おお】くの学生【がくせい】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "His guidance influenced many students."
+  },
+  {
+    "sentence": "そのキャンペーンは社会全体に浸透した。",
+    "sentence_furigana": "そのキャンペーンは社会【しゃかい】全体【ぜんたい】に浸透【しんとう】した。",
+    "meaning": "The campaign permeated society as a whole."
+  },
+  {
+    "sentence": "彼の声援は選手たちの士気を高めた。",
+    "sentence_furigana": "彼【かれ】の声援【せいえん】は選手達【せんしゅたち】の士気【しき】を高【たか】めた。",
+    "meaning": "His cheers boosted the morale of the athletes."
+  },
+  {
+    "sentence": "この措置は国民生活に悪影響を及ぼす。",
+    "sentence_furigana": "この措置【そち】は国民生活【こくみんせいかつ】に悪影響【あくえいきょう】を及【およ】ぼす。",
+    "meaning": "These measures adversely affect the lives of the people."
+  },
+  {
+    "sentence": "彼の研究成果は学界に大きな影響を与えた。",
+    "sentence_furigana": "彼【かれ】の研究成果【けんきゅうせいか】は学界【がっかい】に大【おお】きな影響【えいきょう】を与【あた】えた。",
+    "meaning": "His research findings had a significant impact on the academic world."
+  },
+  {
+    "sentence": "その改革は国全体に波及した。",
+    "sentence_furigana": "その改革【かいかく】は国全体【くにぜんたい】に波及【はきゅう】した。",
+    "meaning": "The reform spread throughout the country."
+  },
+  {
+    "sentence": "彼の提案は皆に受け入れられた。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は皆【みな】に受【う】け入【い】れられた。",
+    "meaning": "His proposal was accepted by everyone."
+  },
+  {
+    "sentence": "この技術は世界の産業に貢献した。",
+    "sentence_furigana": "この技術【ぎじゅつ】は世界【せかい】の産業【さんぎょう】に貢献【こうけん】した。",
+    "meaning": "This technology contributed to global industry."
+  },
+  {
+    "sentence": "彼の知識は私には及びもつかない。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は私【わたし】には及【およ】びもつかない。",
+    "meaning": "His knowledge is beyond me."
+  },
+  {
+    "sentence": "その計画は当初の目標を達成した。",
+    "sentence_furigana": "その計画【けいかく】は当初【とうしょ】の目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "The plan achieved its initial goals."
+  },
+  {
+    "sentence": "彼の言葉は希望を抱かせた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は希望【きぼう】を抱【いだ】かせた。",
+    "meaning": "His words gave us hope."
+  },
+  {
+    "sentence": "その法案は国民生活に恩恵を及ぼす。",
+    "sentence_furigana": "その法案【ほうあん】は国民生活【こくみんせいかつ】に恩恵【おんけい】を及【およ】ぼす。",
+    "meaning": "The bill benefits the lives of the people."
+  },
+  {
+    "sentence": "彼の声は会場中に響き渡った。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は会場中【かいじょうじゅう】に響【ひび】きわたった。",
+    "meaning": "His voice resounded throughout the venue."
+  },
+  {
+    "sentence": "その出来事は社会全体に波及効果をもたらした。",
+    "sentence_furigana": "その出来事【できごと】は社会全体【しゃかぜんたい】に波及効果【はきゅうこうか】をもたらした。",
+    "meaning": "The event brought about ripple effects throughout society."
+  },
+  {
+    "sentence": "彼の功績は後世に語り継がれるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は後世【こうせい】に語【かた】り継【つ】がれるだろう。",
+    "meaning": "His achievements will likely be passed down to future generations."
+  },
+  {
+    "sentence": "この方針は多くの人に影響を与える。",
+    "sentence_furigana": "この方針【ほうしん】は多【おお】くの人【ひと】に影響【えいきょう】を与【あた】える。",
+    "meaning": "This policy affects many people."
+  },
+  {
+    "sentence": "彼の知識は私の理解を超えている。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】は私【わたし】の理解【りかい】を超【こ】えている。",
+    "meaning": "His knowledge is beyond my understanding."
+  },
+  {
+    "sentence": "その波紋は遠くまで広がった。",
+    "sentence_furigana": "その波紋【はもん】は遠【とお】くまで広【ひろ】がった。",
+    "meaning": "The ripples spread far and wide."
+  },
+  {
+    "sentence": "彼の熱意は周りの人々を動かした。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は周【まわ】りの人々【ひとびと】を動【うご】かした。",
+    "meaning": "His enthusiasm moved those around him."
+  },
+  {
+    "sentence": "その知らせは全土に及んだ。",
+    "sentence_furigana": "その知【し】らせは全土【ぜんど】に及【およ】んだ。",
+    "meaning": "The news reached the entire country."
+  },
+  {
+    "sentence": "彼の貢献は計り知れないほど大きい。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は計【はか】り知【し】れないほど大【おお】きい。",
+    "meaning": "His contribution is immeasurably great."
+  },
+  {
+    "sentence": "この政策は経済に少なからず影響を及ぼした。",
+    "sentence_furigana": "この政策【せいさく】は経済【けいざい】に少【すく】なからず影響【えいきょう】を及【およ】ぼした。",
+    "meaning": "This policy had a considerable impact on the economy."
+  },
+  {
+    "sentence": "彼の声援はチームの勝利に貢献した。",
+    "sentence_furigana": "彼【かれ】の声援【せいえん】はチームの勝利【しょうり】に貢献【こうけん】した。",
+    "meaning": "His cheers contributed to the team's victory."
+  },
+  {
+    "sentence": "その知らせは人々の間に急速に広がった。",
+    "sentence_furigana": "その知【し】らせは人々【ひとびと】の間【あいだ】に急速【きゅうそく】に広【ひろ】がった。",
+    "meaning": "The news spread rapidly among the people."
+  },
+  {
+    "sentence": "彼の言葉は私に大きな影響を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】に大【おお】きな影響【えいきょう】を与【あた】えた。",
+    "meaning": "His words had a great impact on me."
+  },
+  {
+    "sentence": "この技術は多くの分野に及んでいる。",
+    "sentence_furigana": "この技術【ぎじゅつ】は多【おお】くの分野【ぶんや】に及【およ】んでいる。",
+    "meaning": "This technology extends to many fields."
+  },
+  {
+    "sentence": "彼の功績は長きにわたって語り継がれるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は長【なが】きにわたって語【かた】り継【つ】がれるだろう。",
+    "meaning": "His achievements will likely be passed down for a long time."
+  },
+  {
+    "sentence": "その影響は地球規模で及んでいる。",
+    "sentence_furigana": "その影響【えいきょう】は地球規模【ちきゅうきぼ】で及【およ】んでいる。",
+    "meaning": "The impact is global."
+  },
+  {
+    "sentence": "彼の熱意は会議の参加者全員に伝播した。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は会議【かいぎ】の参加者全員【さんかしゃぜんいん】に伝播【でんぱ】した。",
+    "meaning": "His enthusiasm spread to all meeting participants."
+  },
+  {
+    "sentence": "その法案は国民生活に多大な影響を及ぼす可能性がある。",
+    "sentence_furigana": "その法案【ほうあん】は国民生活【こくみんせいかつ】に多大【ただい】な影響【えいきょう】を及【およ】ぼす可能性【かのうせい】がある。",
+    "meaning": "The bill may have a significant impact on the lives of the people."
+  },
+  {
+    "sentence": "彼の努力は目標達成の域に達した。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】は目標達成【もくひょうたっせい】の域【いき】に達【たっ】した。",
+    "meaning": "His efforts reached the level of goal achievement."
+  },
+  {
+    "sentence": "この問題は私の能力の範囲を超えている。",
+    "sentence_furigana": "この問題【もんだい】は私【わたし】の能力【のうりょく】の範囲【はんい】を超【こ】えている。",
+    "meaning": "This problem is beyond the scope of my abilities."
+  },
+  {
+    "sentence": "彼の声援は選手たちの士気を大いに高めた。",
+    "sentence_furigana": "彼【かれ】の声援【せいえん】は選手達【せんしゅたち】の士気【しき】を大【おお】いに高【たか】めた。",
+    "meaning": "His cheers greatly boosted the athletes' morale."
+  },
+  {
+    "sentence": "その改革は社会全体に恩恵を及ぼした。",
+    "sentence_furigana": "その改革【かいかく】は社会全体【しゃかぜんたい】に恩恵【おんけい】を及【およ】ぼした。",
+    "meaning": "The reform benefited society as a whole."
+  },
+  {
+    "sentence": "彼の研究は学界に一石を投じた。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は学界【がっかい】に一石【いっせき】を投【な】じた。",
+    "meaning": "His research caused a stir in the academic world."
+  },
+  {
+    "sentence": "その決定は多くの人々に影響を及ぼしました。",
+    "sentence_furigana": "その決定【けってい】は多【おお】くの人々【ひとびと】に影響【えいきょう】を及【およ】ぼしました。",
+    "meaning": "The decision affected many people."
+  },
+  {
+    "sentence": "彼の言葉は私を励ましてくれた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は私【わたし】を励【はげ】ましてくれた。",
+    "meaning": "His words encouraged me."
+  },
+  {
+    "sentence": "この法案は国民生活に大きな恩恵をもたらす。",
+    "sentence_furigana": "この法案【ほうあん】は国民生活【こくみんせいかつ】に大【おお】きな恩恵【おんけい】をもたらす。",
+    "meaning": "This bill brings great benefits to the lives of the people."
+  },
+  {
+    "sentence": "彼の功績は歴史に永く残るだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に永【なが】く残【のこ】るだろう。",
+    "meaning": "His achievements will likely remain in history for a long time."
+  },
+  {
+    "sentence": "その波紋は遠くの海岸にまで及んだ。",
+    "sentence_furigana": "その波紋【はもん】は遠【とお】くの海岸【かいがん】にまで及【およ】んだ。",
+    "meaning": "The ripples reached distant shores."
+  },
+  {
+    "sentence": "彼の熱意は周囲の人々に伝染した。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は周囲【しゅうい】の人々【ひとびと】に伝染【でんせん】した。",
+    "meaning": "His enthusiasm was contagious to those around him."
+  },
+  {
+    "sentence": "その影響は世界中に波及している。",
+    "sentence_furigana": "その影響【えいきょう】は世界中【せかいじゅう】に波及【はきゅう】している。",
+    "meaning": "The impact is spreading worldwide."
+  },
+  {
+    "sentence": "彼の声援はチームを勝利に導いた。",
+    "sentence_furigana": "彼【かれ】の声援【せいえん】はチームを勝利【しょうり】に導【みちび】いた。",
+    "meaning": "His cheers led the team to victory."
+  },
+  {
+    "sentence": "この政策は国民経済に及ぶ影響が大きい。",
+    "sentence_furigana": "この政策【せいさく】は国民経済【こくみんけいざい】に及【およ】ぶ影響【えいきょう】が大【おお】きい。",
+    "meaning": "The impact of this policy on the national economy is significant."
+  },
+  {
+    "sentence": "彼の研究は学術界に多大な貢献をした。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は学術界【がくじゅつかい】に多大【ただい】な貢献【こうけん】をした。",
+    "meaning": "His research made a significant contribution to academia."
+  },
+  {
+    "sentence": "その法案は国民生活に好影響を及ぼすだろう。",
+    "sentence_furigana": "その法案【ほうあん】は国民生活【こくみんせいかつ】に好影響【こうえいきょう】を及【およ】ぼすだろう。",
+    "meaning": "The bill will likely have a positive impact on the lives of the people."
+  },
+  {
+    "sentence": "彼の言葉は多くの人に勇気を与えた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は多【おお】くの人【ひと】に勇気【ゆうき】を与【あた】えた。",
+    "meaning": "His words gave courage to many people."
+  },
+  {
+    "sentence": "この決定は将来世代にまで影響を及ぼす。",
+    "sentence_furigana": "この決定【けってい】は将来世代【しょうらいせだい】にまで影響【えいきょう】を及【およ】ぼす。",
+    "meaning": "This decision affects future generations."
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "sentence": "新生児にミルクをあげた。",
+    "sentence_furigana": "新生児【しんせいじ】にミルクをあげた。",
+    "meaning": "I gave milk to the newborn baby."
+  },
+  {
+    "sentence": "その子供はとても元気だ。",
+    "sentence_furigana": "その子供【こども】はとても元気【げんき】だ。",
+    "meaning": "That child is very energetic."
+  },
+  {
+    "sentence": "これは私の幼い頃の写真です。",
+    "sentence_furigana": "これ【これ】は私【わたし】の幼【おさな】い頃【ころ】の写真【しゃしん】です。",
+    "meaning": "This is a photo from my childhood."
+  },
+  {
+    "sentence": "猿の赤ちゃんは可愛かった。",
+    "sentence_furigana": "猿【さる】の赤ちゃん【あかちゃん】は可愛【かわい】かった。",
+    "meaning": "The baby monkey was cute."
+  },
+  {
+    "sentence": "児童手当の申請をした。",
+    "sentence_furigana": "児童【じどう】手当【てあて】の申請【しんせい】をした。",
+    "meaning": "I applied for child allowance."
+  },
+  {
+    "sentence": "彼の息子はまだ幼い。",
+    "sentence_furigana": "彼【かれ】の息子【むすこ】はまだ幼【おさな】い。",
+    "meaning": "His son is still young."
+  },
+  {
+    "sentence": "子犬が生まれた。",
+    "sentence_furigana": "子犬【こいぬ】がうまれた。",
+    "meaning": "A puppy was born."
+  },
+  {
+    "sentence": "育児は大変だが楽しい。",
+    "sentence_furigana": "育児【いくじ】は大変【たいへん】だが楽【たの】しい。",
+    "meaning": "Child-rearing is difficult but enjoyable."
+  },
+  {
+    "sentence": "彼女は３人の子供がいる。",
+    "sentence_furigana": "彼女【かのじょ】は３人【さんにん】の子供【こども】がいる。",
+    "meaning": "She has three children."
+  },
+  {
+    "sentence": "高齢者の医療費助成制度。",
+    "sentence_furigana": "高齢者【こうれいしゃ】の医療費【いりょうひ】助成【じょせい】制度【せいど】。",
+    "meaning": "Medical expense subsidy system for the elderly."
+  },
+  {
+    "sentence": "この子は将来有望だ。",
+    "sentence_furigana": "この子【こ】は将来【しょうらい】有望【ゆうぼう】だ。",
+    "meaning": "This child has a promising future."
+  },
+  {
+    "sentence": "児童文学を読むのが好きだ。",
+    "sentence_furigana": "児童【じどう】文学【ぶんがく】を読む【よむ】のが好【す】きだ。",
+    "meaning": "I like reading children's literature."
+  },
+  {
+    "sentence": "子供の頃、虫取りに夢中になった。",
+    "sentence_furigana": "子供【こども】の頃【ころ】、虫取【むしと】りに夢中【むちゅう】になった。",
+    "meaning": "When I was a child, I was obsessed with catching insects."
+  },
+  {
+    "sentence": "彼はまだ幼児だ。",
+    "sentence_furigana": "彼【かれ】はまだ幼児【ようじ】だ。",
+    "meaning": "He is still a toddler."
+  },
+  {
+    "sentence": "乳児期の栄養管理は重要だ。",
+    "sentence_furigana": "乳児期【にゅうじき】の栄養管理【えいようかんり】は重要【じゅうよう】だ。",
+    "meaning": "Nutritional management in infancy is important."
+  },
+  {
+    "sentence": "子供部屋を片付けた。",
+    "sentence_furigana": "子供部屋【こどもべや】を片付【かたづ】けた。",
+    "meaning": "I tidied up the children's room."
+  },
+  {
+    "sentence": "障害児の教育について考える。",
+    "sentence_furigana": "障害児【しょうがいじ】の教育【きょういく】について考【かんが】える。",
+    "meaning": "Thinking about the education of children with disabilities."
+  },
+  {
+    "sentence": "幼少期に読み聞かせをすることが大切だ。",
+    "sentence_furigana": "幼少期【ようしょうき】に読聞【よみき】かせをすることが大切【たいせつ】だ。",
+    "meaning": "It is important to read to children from an early age."
+  },
+  {
+    "sentence": "児童養護施設でボランティアをした。",
+    "sentence_furigana": "児童養護施設【じどうようごしせつ】でボランティアをした。",
+    "meaning": "I did volunteer work at a children's care facility."
+  },
+  {
+    "sentence": "その赤ちゃんはとても小さい。",
+    "sentence_furigana": "その赤ちゃん【あかちゃん】はとても小【ちい】さい。",
+    "meaning": "That baby is very small."
+  },
+  {
+    "sentence": "この子は才能がある。",
+    "sentence_furigana": "この子【こ】は才能【さいのう】がある。",
+    "meaning": "This child has talent."
+  },
+  {
+    "sentence": "子育て支援に関する情報。",
+    "sentence_furigana": "子育【こそだ】て支援【しえん】に関する【かんする】情報【じょうほう】。",
+    "meaning": "Information on child-rearing support."
+  },
+  {
+    "sentence": "子供料金はいくらですか？",
+    "sentence_furigana": "子供料金【こどもりょうきん】はいくらですか？",
+    "meaning": "How much is the child's fare?"
+  },
+  {
+    "sentence": "彼は子供の頃から絵を描くのが好きだった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】から絵【え】を描【か】くのが好【す】きだった。",
+    "meaning": "He liked drawing pictures from when he was a child."
+  },
+  {
+    "sentence": "乳児湿疹に悩んでいる。",
+    "sentence_furigana": "乳児湿疹【にゅうじしっしん】に悩【なや】んでいる。",
+    "meaning": "I am suffering from infant eczema."
+  },
+  {
+    "sentence": "児童公園はいつも賑やかだ。",
+    "sentence_furigana": "児童公園【じどうこうえん】はいつも賑【にぎ】やかだ。",
+    "meaning": "The children's park is always lively."
+  },
+  {
+    "sentence": "彼女は子供好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は子供好【こどもず】きだ。",
+    "meaning": "She likes children."
+  },
+  {
+    "sentence": "この絵は子供の絵らしい。",
+    "sentence_furigana": "この絵【え】は子供【こども】の絵【え】らしい。",
+    "meaning": "This painting looks like a child's drawing."
+  },
+  {
+    "sentence": "新生児の世話は大変だ。",
+    "sentence_furigana": "新生児【しんせいじ】の世話【せわ】は大変【たいへん】だ。",
+    "meaning": "Taking care of a newborn is difficult."
+  },
+  {
+    "sentence": "彼の子供はまだ小さい。",
+    "sentence_furigana": "彼【かれ】の子供【こども】はまだ小【ちい】さい。",
+    "meaning": "His child is still small."
+  },
+  {
+    "sentence": "幼い子供が遊んでいる。",
+    "sentence_furigana": "幼【おさな】い子供【こども】が遊【あそ】んでいる。",
+    "meaning": "Young children are playing."
+  },
+  {
+    "sentence": "乳児向けの保険に入った。",
+    "sentence_furigana": "乳児向【にゅうじむ】けの保険【ほけん】に入【はい】った。",
+    "meaning": "I took out insurance for infants."
+  },
+  {
+    "sentence": "子供の将来のために貯金している。",
+    "sentence_furigana": "子供【こども】の将来【しょうらい】のために貯金【ちょきん】している。",
+    "meaning": "I am saving money for my child's future."
+  },
+  {
+    "sentence": "この本は子供にも分かりやすい。",
+    "sentence_furigana": "この本【ほん】は子供【こども】にも分【わ】かりやすい。",
+    "meaning": "This book is easy for children to understand."
+  },
+  {
+    "sentence": "児童相談所の職員です。",
+    "sentence_furigana": "児童相談所【じどうそうだんじょ】の職員【しょくいん】です。",
+    "meaning": "I am a staff member of the child consultation center."
+  },
+  {
+    "sentence": "子供が一人で歩いている。",
+    "sentence_furigana": "子供【こども】が一人【ひとり】で歩【ある】いている。",
+    "meaning": "A child is walking alone."
+  },
+  {
+    "sentence": "彼女は子供を抱いている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】を抱【いだ】いている。",
+    "meaning": "She is holding a child."
+  },
+  {
+    "sentence": "幼児教育の重要性について語る。",
+    "sentence_furigana": "幼児教育【ようじきょういく】の重要性【じゅうようせい】について語【かた】る。",
+    "meaning": "Talk about the importance of early childhood education."
+  },
+  {
+    "sentence": "この服は子供用だ。",
+    "sentence_furigana": "この服【ふく】は子供用【こどもよう】だ。",
+    "meaning": "These clothes are for children."
+  },
+  {
+    "sentence": "新生児の顔はまだ未熟だ。",
+    "sentence_furigana": "新生児【しんせいじ】の顔【かお】はまだ未熟【みじゅく】だ。",
+    "meaning": "The newborn's face is still immature."
+  },
+  {
+    "sentence": "子供の成長は早い。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】は早【はや】い。",
+    "meaning": "Children grow up fast."
+  },
+  {
+    "sentence": "私は四人兄弟の末っ子だ。",
+    "sentence_furigana": "私【わたし】は四人兄弟【よにんきょうだい】の末っ子【すえっこ】だ。",
+    "meaning": "I am the youngest of four siblings."
+  },
+  {
+    "sentence": "彼は小さい頃から音楽の才能があった。",
+    "sentence_furigana": "彼【かれ】は小【ちい】さい頃【ころ】から音楽【おんがく】の才能【さいのう】があった。",
+    "meaning": "He had a talent for music from a young age."
+  },
+  {
+    "sentence": "子供が学校でいじめられているらしい。",
+    "sentence_furigana": "子供【こども】が学校【がっこう】でいじめられているらしい。",
+    "meaning": "It seems a child is being bullied at school."
+  },
+  {
+    "sentence": "乳児がいるので静かにしてください。",
+    "sentence_furigana": "乳児【にゅうじ】がいるので静【しず】かにしてください。",
+    "meaning": "Please be quiet as there is an infant."
+  },
+  {
+    "sentence": "子供の頃の夢を思い出した。",
+    "sentence_furigana": "子供【こども】の頃【ころ】の夢【ゆめ】を思【おも】い出【だ】した。",
+    "meaning": "I remembered my childhood dream."
+  },
+  {
+    "sentence": "その動物の子供は縞模様があった。",
+    "sentence_furigana": "その動物【どうぶつ】の子供【こども】は縞模様【しまもよう】があった。",
+    "meaning": "The young of that animal had stripes."
+  },
+  {
+    "sentence": "子供の健やかな成長を願う。",
+    "sentence_furigana": "子供【こども】の健【すこ】やかな成長【せいちょう】を願【ねが】う。",
+    "meaning": "I wish for the healthy growth of my child."
+  },
+  {
+    "sentence": "幼児の手本となるように。",
+    "sentence_furigana": "幼児【ようじ】の手本【てほん】となるように。",
+    "meaning": "To be a role model for young children."
+  },
+  {
+    "sentence": "この地域には児童福祉施設が多い。",
+    "sentence_furigana": "この地域【ちいき】には児童福祉施設【じどうふくししせつ】が多【おお】い。",
+    "meaning": "There are many child welfare facilities in this area."
+  },
+  {
+    "sentence": "子供は親の宝だ。",
+    "sentence_furigana": "子供【こども】は親【おや】の宝【たから】だ。",
+    "meaning": "Children are a parent's treasure."
+  },
+  {
+    "sentence": "彼女は子育てに奮闘している。",
+    "sentence_furigana": "彼女【かのじょ】は子育【こそだ】てに奮闘【ふんとう】している。",
+    "meaning": "She is struggling with child-rearing."
+  },
+  {
+    "sentence": "子供が遊ぶための広い庭。",
+    "sentence_furigana": "子供【こども】が遊【あそ】ぶための広【ひろ】い庭【にわ】。",
+    "meaning": "A spacious garden for children to play in."
+  },
+  {
+    "sentence": "これは乳児用のベッドです。",
+    "sentence_furigana": "これ【これ】は乳児用【にゅうじよう】のベッドです。",
+    "meaning": "This is a baby bed."
+  },
+  {
+    "sentence": "彼の子供時代は貧しかった。",
+    "sentence_furigana": "彼【かれ】の子供時代【こどもじだい】は貧【まず】しかった。",
+    "meaning": "His childhood was poor."
+  },
+  {
+    "sentence": "児童虐待は許されない。",
+    "sentence_furigana": "児童虐待【じどうぎゃくたい】は許【ゆる】されない。",
+    "meaning": "Child abuse is not allowed."
+  },
+  {
+    "sentence": "子供の教育費はかかる。",
+    "sentence_furigana": "子供【こども】の教育費【きょういくひ】はかかる。",
+    "meaning": "Education expenses for children are incurred."
+  },
+  {
+    "sentence": "彼は子供に優しい。",
+    "sentence_furigana": "彼【かれ】は子供【こども】に優【やさ】しい。",
+    "meaning": "He is kind to children."
+  },
+  {
+    "sentence": "新生児期は特に注意が必要だ。",
+    "sentence_furigana": "新生児期【しんせいじき】は特【とく】に注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Special attention is required during the neonatal period."
+  },
+  {
+    "sentence": "子供の絵本を読んであげる。",
+    "sentence_furigana": "子供【こども】の絵本【えほん】を読【よ】んであげる。",
+    "meaning": "I will read a picture book to the child."
+  },
+  {
+    "sentence": "彼女は三人の子供を育てている。",
+    "sentence_furigana": "彼女【かのじょ】は三人【さんにん】の子供【こども】を育【そだ】てている。",
+    "meaning": "She is raising three children."
+  },
+  {
+    "sentence": "子供服のセールが行われている。",
+    "sentence_furigana": "子供服【こどもふく】のセールが行【おこな】われている。",
+    "meaning": "A children's clothing sale is being held."
+  },
+  {
+    "sentence": "その猫の子供は可愛らしい。",
+    "sentence_furigana": "その猫【ねこ】の子供【こども】は可愛【かわい】らしい。",
+    "meaning": "The kitten is lovely."
+  },
+  {
+    "sentence": "子供たちの歓声が響く。",
+    "sentence_furigana": "子供【こども】たちのお城【かんせい】が響【ひび】く。",
+    "meaning": "The cheers of the children resound."
+  },
+  {
+    "sentence": "幼児の安全を確保する。",
+    "sentence_furigana": "幼児【ようじ】の安全【あんぜん】を確保【かくほ】する。",
+    "meaning": "Ensure the safety of young children."
+  },
+  {
+    "sentence": "彼は子供の頃から読書が好きだった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】から読書【どくしょ】が好【す】きだった。",
+    "meaning": "He liked reading from childhood."
+  },
+  {
+    "sentence": "この本は子供向けに書かれている。",
+    "sentence_furigana": "この本【ほん】は子供向【こどもむ】けに書【か】かれている。",
+    "meaning": "This book is written for children."
+  },
+  {
+    "sentence": "児童手当は毎月支給される。",
+    "sentence_furigana": "児童手当【じどうてあて】は毎月【まいげつ】支給【しきゅう】される。",
+    "meaning": "Child allowance is paid monthly."
+  },
+  {
+    "sentence": "彼女は子供を寝かしつけた。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】を寝付【ねつ】けつけた。",
+    "meaning": "She put her child to sleep."
+  },
+  {
+    "sentence": "新生児の聴力検査を行った。",
+    "sentence_furigana": "新生児【しんせいじ】の聴力検査【ちょうりょくけんさ】を行【おこな】った。",
+    "meaning": "A hearing test was conducted on the newborn."
+  },
+  {
+    "sentence": "子供が描いた絵。",
+    "sentence_furigana": "子供【こども】が描【か】いた絵【え】。",
+    "meaning": "A drawing by a child."
+  },
+  {
+    "sentence": "その母親は子供に愛情を注いでいる。",
+    "sentence_furigana": "その母親【ははおや】は子供【こども】に愛情【あいじょう】を注【そそ】いでいる。",
+    "meaning": "The mother is pouring love into her child."
+  },
+  {
+    "sentence": "子供の歯磨きをさせる。",
+    "sentence_furigana": "子供【こども】の歯磨【はみが】きをさせる。",
+    "meaning": "Make the child brush their teeth."
+  },
+  {
+    "sentence": "幼児の言葉の発達は著しい。",
+    "sentence_furigana": "幼児【ようじ】の言葉【ことば】の発達【はったつ】は著【いちじる】しい。",
+    "meaning": "The language development of toddlers is remarkable."
+  },
+  {
+    "sentence": "彼は子供の頃、病弱だった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、病弱【びょうじゃく】だった。",
+    "meaning": "He was sickly when he was a child."
+  },
+  {
+    "sentence": "子供の安全な遊び場を提供します。",
+    "sentence_furigana": "子供【こども】の安全【あんぜん】な遊場【あそびば】を提供【ていきょう】します。",
+    "meaning": "We provide a safe playground for children."
+  },
+  {
+    "sentence": "乳児の睡眠時間を確保する。",
+    "sentence_furigana": "乳児【にゅうじ】の睡眠時間【すいみんじかん】を確保【かくほ】する。",
+    "meaning": "Ensure adequate sleep time for infants."
+  },
+  {
+    "sentence": "子供の教育方針について話し合った。",
+    "sentence_furigana": "子供【こども】の教育方針【きょういくほうしん】について話【はな】しあった。",
+    "meaning": "We discussed our child-rearing policies."
+  },
+  {
+    "sentence": "彼は子供のように無邪気だ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】のように無邪気【むじゃき】だ。",
+    "meaning": "He is innocent like a child."
+  },
+  {
+    "sentence": "児童文学の翻訳に取り組む。",
+    "sentence_furigana": "児童文学【じどうぶんがく】の翻訳【ほんやく】に取り組【とりく】む。",
+    "meaning": "Engage in translating children's literature."
+  },
+  {
+    "sentence": "その子供は親に似ている。",
+    "sentence_furigana": "その子供【こども】は親【おや】に似【に】ている。",
+    "meaning": "That child resembles their parent."
+  },
+  {
+    "sentence": "子供達は学校の帰り道で遊んでいる。",
+    "sentence_furigana": "子供達【こどもたち】は学校【がっこう】の帰道【かえりみち】で遊【あそ】んでいる。",
+    "meaning": "The children are playing on their way home from school."
+  },
+  {
+    "sentence": "幼児の安全運転を心がける。",
+    "sentence_furigana": "幼児【ようじ】の安全運転【あんぜんうんてん】を心掛【こころが】ける。",
+    "meaning": "Strive for safe driving for toddlers."
+  },
+  {
+    "sentence": "子供の絵を飾る。",
+    "sentence_furigana": "子供【こども】の絵【え】を飾【かざ】る。",
+    "meaning": "Decorate the child's drawing."
+  },
+  {
+    "sentence": "これは新生児用の抱っこ紐です。",
+    "sentence_furigana": "これ【これ】は新生児用【しんせいじよう】の抱っこ紐【だっこひも】です。",
+    "meaning": "This is a baby carrier for newborns."
+  },
+  {
+    "sentence": "子供の頃の思い出を語り合う。",
+    "sentence_furigana": "子供【こども】の頃【ころ】の思出【おもいで】を語【かた】り合【あ】う。",
+    "meaning": "We talk about memories from our childhood."
+  },
+  {
+    "sentence": "児童館で工作教室が開かれる。",
+    "sentence_furigana": "児童館【じどうか】で工作教室【こうさくきょうしつ】が開【ひら】かれる。",
+    "meaning": "A craft class will be held at the children's center."
+  },
+  {
+    "sentence": "彼女は子供の将来を案じている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】の将来【しょうらい】を案【あん】じている。",
+    "meaning": "She is worried about her child's future."
+  },
+  {
+    "sentence": "この子は活発で元気だ。",
+    "sentence_furigana": "この子【こ】は活発【かっぱつ】で元気【げんき】だ。",
+    "meaning": "This child is lively and energetic."
+  },
+  {
+    "sentence": "幼い子供に読み聞かせをする。",
+    "sentence_furigana": "幼【おさな】い子供【こども】に読聞【よみき】かせをする。",
+    "meaning": "Read to young children."
+  },
+  {
+    "sentence": "新生児の体重が増えた。",
+    "sentence_furigana": "新生児【しんせいじ】の体重【たいじゅう】が増【ふ】えた。",
+    "meaning": "The newborn's weight has increased."
+  },
+  {
+    "sentence": "子供は国の宝である。",
+    "sentence_furigana": "子供【こども】は国【くに】の宝【たから】である。",
+    "meaning": "Children are the treasure of a nation."
+  },
+  {
+    "sentence": "彼女は子育てに悩んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は子育【こそだ】てに悩【なや】んでいる。",
+    "meaning": "She is struggling with parenting."
+  },
+  {
+    "sentence": "子供の成長記録を写真に収める。",
+    "sentence_furigana": "子供【こども】の成長記録【せいちょうきろく】を写真【しゃしん】に収【おさ】める。",
+    "meaning": "Capture the child's growth record in photographs."
+  },
+  {
+    "sentence": "幼児の事故を防ぐ対策を講じる。",
+    "sentence_furigana": "幼児【ようじ】の事故【じこ】を防【ふせ】ぐ対策【たいさく】を講【こう】じる。",
+    "meaning": "Take measures to prevent accidents involving toddlers."
+  },
+  {
+    "sentence": "児童手当の所得制限が撤廃された。",
+    "sentence_furigana": "児童手当【じどうてあて】の所得制限【しょとくせいげん】が撤廃【てっぱい】された。",
+    "meaning": "The income limit for child allowance has been abolished."
+  },
+  {
+    "sentence": "彼は子供の頃、よくこの公園で遊んだ。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】、よくこの公園【こうえん】で遊【あそ】んだ。",
+    "meaning": "He often played in this park when he was a child."
+  },
+  {
+    "sentence": "この商品は乳児には適しません。",
+    "sentence_furigana": "この商品【しょうひん】は乳児【にゅうじ】には適【てき】しません。",
+    "meaning": "This product is not suitable for infants."
+  },
+  {
+    "sentence": "子供の寝顔は天使のようだ。",
+    "sentence_furigana": "子供【こども】の寝顔【ねがお】は天使【てんし】のようだ。",
+    "meaning": "A sleeping child looks like an angel."
+  },
+  {
+    "sentence": "彼女は子供に読み聞かせを楽しんでいる。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に読聞【よみき】かせを楽し【たの】しんでいる。",
+    "meaning": "She enjoys reading to her children."
+  },
+  {
+    "sentence": "子供服を買いに行った。",
+    "sentence_furigana": "子供服【こどもふく】を買【か】いに行【い】った。",
+    "meaning": "I went to buy children's clothes."
+  },
+  {
+    "sentence": "その動物の幼獣はまだ弱い。",
+    "sentence_furigana": "その動物【どうぶつ】の幼獣【ようじゅう】はまだ弱【よわ】い。",
+    "meaning": "The young of that animal is still weak."
+  },
+  {
+    "sentence": "子供たちの無邪気な笑顔。",
+    "sentence_furigana": "子供達【こどもたち】の無邪気【むじゃき】な笑顔【えがお】。",
+    "meaning": "The innocent smiles of the children."
+  },
+  {
+    "sentence": "幼児の健やかな成長を願う。",
+    "sentence_furigana": "幼児【ようじ】の健【すこ】やかな成長【せいちょう】を願【ねが】う。",
+    "meaning": "I wish for the healthy growth of toddlers."
+  },
+  {
+    "sentence": "児童福祉法について学ぶ。",
+    "sentence_furigana": "児童福祉法【じどうふくしほう】について学【まな】ぶ。",
+    "meaning": "Learn about the Child Welfare Act."
+  },
+  {
+    "sentence": "子供は親の背中を見て育つ。",
+    "sentence_furigana": "子供【こども】は親【おや】の背中【せなか】を見【み】て育【そだ】つ。",
+    "meaning": "Children grow up watching their parents' backs."
+  },
+  {
+    "sentence": "彼女は子育て経験が豊富だ。",
+    "sentence_furigana": "彼女【かのじょ】は子育【こそだ】て経験【けいけん】が豊富【ほうふ】だ。",
+    "meaning": "She has extensive parenting experience."
+  },
+  {
+    "sentence": "子供の遊び場に最適な場所。",
+    "sentence_furigana": "子供【こども】の遊場【あそびば】に最適【さいてき】な場所【ばしょ】。",
+    "meaning": "An ideal place for children to play."
+  },
+  {
+    "sentence": "新生児の世話をするのは初めてだ。",
+    "sentence_furigana": "新生児【しんせいじ】の世話【せわ】をするのは初【はじ】めてだ。",
+    "meaning": "It is my first time taking care of a newborn."
+  },
+  {
+    "sentence": "子供の成長を祝う会。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】を祝【いわ】う会【かい】。",
+    "meaning": "A party to celebrate a child's growth."
+  },
+  {
+    "sentence": "この子達は皆、将来有望だ。",
+    "sentence_furigana": "この子達【こどもたち】は皆【みな】、将来【しょうらい】有望【ゆうぼう】だ。",
+    "meaning": "All of these children have promising futures."
+  },
+  {
+    "sentence": "幼児の安全を守るための規則。",
+    "sentence_furigana": "幼児【ようじ】の安全【あんぜん】を守【まも】るための規則【きそく】。",
+    "meaning": "Rules to protect the safety of toddlers."
+  },
+  {
+    "sentence": "児童相談所の役割は大きい。",
+    "sentence_furigana": "児童相談所【じどうそうだんじょ】の役割【やくわり】は大き【おお】い。",
+    "meaning": "The role of the child consultation center is significant."
+  },
+  {
+    "sentence": "子供はかすがいに等しい。",
+    "sentence_furigana": "子供【こども】はかすがいに等【ひと】しい。",
+    "meaning": "Children are like supporters."
+  },
+  {
+    "sentence": "彼女は子供に英語を教えている。",
+    "sentence_furigana": "彼女【かのじょ】は子供【こども】に英語【えいご】を教【おし】えている。",
+    "meaning": "She is teaching English to her children."
+  },
+  {
+    "sentence": "子供の将来設計を考える。",
+    "sentence_furigana": "子供【こども】の将来設計【しょうらいせっけい】を考【かんが】える。",
+    "meaning": "Consider the child's future planning."
+  },
+  {
+    "sentence": "その子供は生まれつき体が弱い。",
+    "sentence_furigana": "その子供【こども】は生付【うまれつ】き体【からだ】が弱【よわ】い。",
+    "meaning": "That child is naturally frail."
+  },
+  {
+    "sentence": "新生児集中治療室。",
+    "sentence_furigana": "新生児集中治療室【しんせいじしゅうちゅうちりょうしつ】。",
+    "meaning": "Neonatal intensive care unit."
+  },
+  {
+    "sentence": "子供の教育は親の義務である。",
+    "sentence_furigana": "子供【こども】の教育【きょういく】は親【おや】の義務【ぎむ】である。",
+    "meaning": "The education of children is a parent's duty."
+  }
+]

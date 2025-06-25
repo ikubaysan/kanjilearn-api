@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "この劇は観客を感動させる素晴らしい演劇だ。",
+    "sentence_furigana": "この劇【げき】は観客【かんきゃく】を感動【かんどう】させる素晴【すば】らしい演劇【えんげき】だ。",
+    "meaning": "This play is a wonderful performance that moves the audience."
+  },
+  {
+    "sentence": "彼は舞台で力強い演説を行った。",
+    "sentence_furigana": "彼【かれ】は舞台【ぶたい】で力強【ちからづよ】い演説【えんぜつ】を行【おこな】った。",
+    "meaning": "He delivered a powerful speech on stage."
+  },
+  {
+    "sentence": "彼女は演技が上手で、いつも観客を魅了する。",
+    "sentence_furigana": "彼女【かのじょ】は演技【えんぎ】が上手【じょうず】で、いつも観客【かんきゃく】を魅了【みりょう】する。",
+    "meaning": "Her acting is excellent, and she always captivates the audience."
+  },
+  {
+    "sentence": "今回の講演は非常に参考になった。",
+    "sentence_furigana": "今回【こんかい】の講演【こうえん】は非常【ひじょう】に参考【さんこう】になった。",
+    "meaning": "This lecture was very helpful."
+  },
+  {
+    "sentence": "その科学者は新しい理論を発表した。",
+    "sentence_furigana": "その科学者【かがくしゃ】は新【あら】たな理論【りろん】を発表【はっぴょう】した。",
+    "meaning": "The scientist presented a new theory."
+  },
+  {
+    "sentence": "映画の配役が発表され、多くの期待が集まっている。",
+    "sentence_furigana": "映画【えいが】の配役【はいやく】が発表【はっぴょう】され、多【おお】くの期待【きたい】が集【あつ】まっている。",
+    "meaning": "The movie's casting has been announced, and much anticipation is building."
+  },
+  {
+    "sentence": "歴史的な出来事を再現するドラマを演じるのは難しい。",
+    "sentence_furigana": "歴史的【れきしてき】な出来事【できごと】を再現【さいげん】するドラマを演【えん】じるのは難【むずか】しい。",
+    "meaning": "It's difficult to act in a drama that recreates historical events."
+  },
+  {
+    "sentence": "会議では活発な議論が展開された。",
+    "sentence_furigana": "会議【かいぎ】では活発【かっぱつ】な議論【ぎろん】が展開【てんかい】された。",
+    "meaning": "Lively discussion unfolded at the meeting."
+  },
+  {
+    "sentence": "彼は様々な役柄を演じ分けることができる。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な役柄【やくがら】を演【えん】じ分【わ】けることができる。",
+    "meaning": "He can portray various roles effectively."
+  },
+  {
+    "sentence": "新しいソフトウェアのデモンストレーションが行われた。",
+    "sentence_furigana": "新【あら】たなソフトウェアのデモンストレーションが行【おこな】われた。",
+    "meaning": "A demonstration of the new software was performed."
+  },
+  {
+    "sentence": "舞台裏では、俳優たちが次の出番に備えていた。",
+    "sentence_furigana": "舞台裏【ぶたいうら】では、俳優【はいゆう】たちが出番【でばん】に備【そな】えていた。",
+    "meaning": "Behind the scenes, the actors were preparing for their next appearance."
+  },
+  {
+    "sentence": "政府は経済活性化策を発表した。",
+    "sentence_furigana": "政府【せいふ】は経済活性化策【けいざいかっせいかさく】を発表【はっぴょう】した。",
+    "meaning": "The government announced measures to stimulate the economy."
+  },
+  {
+    "sentence": "彼は歴史の授業で古代文明の発展について説明した。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】の授業【じゅぎょう】で古代文明【こだいぶんめい】の発展【はってん】について説明【せつめい】した。",
+    "meaning": "He explained the development of ancient civilizations in his history class."
+  },
+  {
+    "sentence": "その芸術家は独特なパフォーマンスで観客を驚かせた。",
+    "sentence_furigana": "その芸術家【げいじゅつか】は独特【どくとく】なパフォーマンスで観客【かんきゃく】を驚【おどろ】かせた。",
+    "meaning": "The artist surprised the audience with his unique performance."
+  },
+  {
+    "sentence": "今回の展示会では、多くの著名な作家が出展した。",
+    "sentence_furigana": "今回【こんかい】の展示会【てんじかい】では、多【おお】くの著名【ちょめい】な作家【さっか】が出展【しゅってん】した。",
+    "meaning": "Many renowned writers exhibited at this exhibition."
+  },
+  {
+    "sentence": "彼はロールプレイングゲームで様々なキャラクターを演じている。",
+    "sentence_furigana": "彼【かれ】はロールプレイングゲームで様々【さまざま】なキャラクターを演【えん】じている。",
+    "meaning": "He plays various characters in the role-playing game."
+  },
+  {
+    "sentence": "この計画は綿密に練られ、着実に実行されている。",
+    "sentence_furigana": "この計画【けいかく】は綿密【めんみつ】に練【ね】られ、着実【ちゃくじつ】に実行【じっこう】されている。",
+    "meaning": "This plan has been meticulously developed and is being steadily executed."
+  },
+  {
+    "sentence": "彼女は舞台上で感情豊かに歌い上げた。",
+    "sentence_furigana": "彼女【かのじょ】は舞台上【ぶたいじょう】で感情豊【かんじょうゆた】かに歌【うた】い上【あ】げた。",
+    "meaning": "She sang expressively on stage."
+  },
+  {
+    "sentence": "裁判官は被告人の陳述を聞いた。",
+    "sentence_furigana": "裁判官【さいばんかん】は被告人【ひこくにん】の陳述【ちんじゅつ】を聞【き】いた。",
+    "meaning": "The judge heard the defendant's statement."
+  },
+  {
+    "sentence": "新しい技術のデモンストレーションは成功裏に終わった。",
+    "sentence_furigana": "新【あら】たな技術【ぎじゅつ】のデモンストレーションは成功裏【せいこうり】に終【お】わった。",
+    "meaning": "The demonstration of the new technology concluded successfully."
+  },
+  {
+    "sentence": "彼は歴史上の人物になりきって演じた。",
+    "sentence_furigana": "彼【かれ】は歴史上【れきしじょう】の人物【じんぶつ】になりきって演【えん】じた。",
+    "meaning": "He acted as if he were a historical figure."
+  },
+  {
+    "sentence": "今回の公演は大変好評でした。",
+    "sentence_furigana": "今回【こんかい】の公演【こうえん】は大変好評【たいへんこうひょう】でした。",
+    "meaning": "This performance was very well-received."
+  },
+  {
+    "sentence": "彼は学術会議で研究成果を発表した。",
+    "sentence_furigana": "彼【かれ】は学術会議【がくじゅつかいぎ】で研究成果【けんきゅうせいか】を発表【はっぴょう】した。",
+    "meaning": "He presented his research findings at the academic conference."
+  },
+  {
+    "sentence": "子供たちは演劇教室で様々な役を演じる練習をした。",
+    "sentence_furigana": "子供【こども】たちは演劇教室【えんげききょうしつ】で様々【さまざま】な役【やく】を演【えん】じる練習【れんしゅう】をした。",
+    "meaning": "The children practiced playing various roles in the drama class."
+  },
+  {
+    "sentence": "その政治家は国民に希望を語る演説を行った。",
+    "sentence_furigana": "その政治家【せいじか】は国民【こくみん】に希望【きぼう】を語【かた】る演説【えんぜつ】を行【おこな】った。",
+    "meaning": "The politician delivered a speech to the nation, speaking of hope."
+  },
+  {
+    "sentence": "映画館では最新の映画が上映されていた。",
+    "sentence_furigana": "映画館【えいがかん】では最新【さいしん】の映画【えいが】が上映【じょうえい】されていた。",
+    "meaning": "The latest movie was being shown at the cinema."
+  },
+  {
+    "sentence": "彼女は感情を抑えながら静かに話した。",
+    "sentence_furigana": "彼女【かのじょ】は感情【かんじょう】を抑【おさ】えながら静【しず】かに話【はな】した。",
+    "meaning": "She spoke quietly, suppressing her emotions."
+  },
+  {
+    "sentence": "このオペラは壮大なスケールで展開される。",
+    "sentence_furigana": "このオペラは壮大【そうだい】なスケールで展開【てんかい】される。",
+    "meaning": "This opera unfolds on a grand scale."
+  },
+  {
+    "sentence": "彼らは自分たちの経験を基に劇を創作した。",
+    "sentence_furigana": "彼ら【かれら】は自分たちの経験【けいけん】を基【もと】に劇【げき】を創作【そうさく】した。",
+    "meaning": "They created a play based on their own experiences."
+  },
+  {
+    "sentence": "今日のセミナーでは、最新のマーケティング戦略について講演があった。",
+    "sentence_furigana": "今日【きょう】のセミナーでは、最新【さいしん】のマーケティング戦略【せんりゃく】について講演【こうえん】があった。",
+    "meaning": "Today's seminar featured a lecture on the latest marketing strategies."
+  },
+  {
+    "sentence": "その小説は人間の心の闇を深く描いている。",
+    "sentence_furigana": "その小説【しょうせつ】は人間【にんげん】の心【こころ】の闇【やみ】を深【ふか】く描【か】いている。",
+    "meaning": "The novel deeply depicts the darkness of the human heart."
+  },
+  {
+    "sentence": "彼はステージ上で聴衆を惹きつけるパフォーマンスを見せた。",
+    "sentence_furigana": "彼【かれ】はステージ上【じょう】で聴衆【ちょうしゅう】を惹【ひ】きつけるパフォーマンスを見【み】せた。",
+    "meaning": "He showed a captivating performance on stage."
+  },
+  {
+    "sentence": "この絵画は非常に繊細な筆致で描かれている。",
+    "sentence_furigana": "この絵画【かいが】は非常【ひじょう】に繊細【せんさい】な筆致【ひっち】で描【か】かれている。",
+    "meaning": "This painting is rendered with very delicate brushstrokes."
+  },
+  {
+    "sentence": "彼は会議で自社の新製品を紹介した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で自社【じしゃ】の新製品【しんせいひん】を紹介【しょうかい】した。",
+    "meaning": "He introduced his company's new product at the meeting."
+  },
+  {
+    "sentence": "彼女は物語を読み聞かせ、子供たちは熱心に耳を傾けた。",
+    "sentence_furigana": "彼女【かのじょ】は物語【ものがたり】を読【よ】み聞【き】かせ、子供【こども】たちは熱心【ねっしん】に耳【みみ】を傾【かたむ】けた。",
+    "meaning": "She read a story, and the children listened attentively."
+  },
+  {
+    "sentence": "今回の展示は、日本の伝統文化の奥深さを伝えている。",
+    "sentence_furigana": "今回【こんかい】の展示【てんじ】は、日本【にほん】の伝統文化【でんとうぶんか】の奥深【おくぶか】さを伝【つた】えている。",
+    "meaning": "This exhibition conveys the profound depth of Japanese traditional culture."
+  },
+  {
+    "sentence": "彼は舞台上で感情を込めて歌った。",
+    "sentence_furigana": "彼【かれ】は舞台上【ぶたいじょう】で感情【かんじょう】を込【こ】めて歌【うた】った。",
+    "meaning": "He sang with emotion on stage."
+  },
+  {
+    "sentence": "研究チームは実験結果を発表する準備を進めている。",
+    "sentence_furigana": "研究チーム【けんきゅうチーム】は実験結果【じっけんけっか】を発表【はっぴょう】する準備【じゅんび】を進【すす】めている。",
+    "meaning": "The research team is preparing to present the experimental results."
+  },
+  {
+    "sentence": "彼女は歴史上の人物の役を演じることに挑戦した。",
+    "sentence_furigana": "彼女【かのじょ】は歴史上【れきしじょう】の人物【じんぶつ】の役【やく】を演【えん】じることに挑戦【ちょうせん】した。",
+    "meaning": "She challenged herself to play a historical figure."
+  },
+  {
+    "sentence": "このアニメーションは非常に滑らかに描かれている。",
+    "sentence_furigana": "このアニメーションは非常【ひじょう】に滑【なめ】らかに描【か】かれている。",
+    "meaning": "This animation is rendered very smoothly."
+  },
+  {
+    "sentence": "彼は学校のイベントでギターを演奏した。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】のイベントでギターを演奏【えんそう】した。",
+    "meaning": "He performed guitar at the school event."
+  },
+  {
+    "sentence": "その女優は複雑な役柄を見事に演じきった。",
+    "sentence_furigana": "その女優【じょゆう】は複雑【ふくざつ】な役柄【やくがら】を見事【みごと】に演【えん】じきった。",
+    "meaning": "The actress brilliantly played the complex role."
+  },
+  {
+    "sentence": "会議では活発な意見交換が行われた。",
+    "sentence_furigana": "会議【かいぎ】では活発【かっぱつ】な意見交換【いけんこうかん】が行【おこな】われた。",
+    "meaning": "A lively exchange of opinions took place at the meeting."
+  },
+  {
+    "sentence": "彼はスピーチで会場を沸かせた。",
+    "sentence_furigana": "彼【かれ】はスピーチで会場【かいじょう】を沸【わ】かせた。",
+    "meaning": "He electrified the venue with his speech."
+  },
+  {
+    "sentence": "新しいドラマの放送が開始された。",
+    "sentence_furigana": "新【あら】たなドラマの放送【ほうそう】が開始【かいし】された。",
+    "meaning": "The broadcast of the new drama has begun."
+  },
+  {
+    "sentence": "彼女はオペラで難しいアリアを歌いこなした。",
+    "sentence_furigana": "彼女【かのじょ】はオペラで難【むずか】しいアリアを歌【うた】いこなした。",
+    "meaning": "She sang a difficult aria masterfully in the opera."
+  },
+  {
+    "sentence": "このプロジェクトは多くの困難を乗り越えて実現した。",
+    "sentence_furigana": "このプロジェクトは多【おお】くの困難【こんなん】を乗【の】り越【こ】えて実現【じつげん】した。",
+    "meaning": "This project was realized after overcoming many difficulties."
+  },
+  {
+    "sentence": "彼は会議で会社の将来計画を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で会社【かいしゃ】の将来計画【しょうらいけいかく】を発表【はっぴょう】した。",
+    "meaning": "He announced the company's future plans at the meeting."
+  },
+  {
+    "sentence": "その学生は発表会で自分の研究を紹介した。",
+    "sentence_furigana": "その学生【がくせい】は発表会【はっぴょうかい】で自分【じぶん】の研究【けんきゅう】を紹介【しょうかい】した。",
+    "meaning": "The student presented his research at the presentation session."
+  },
+  {
+    "sentence": "彼女は新しい役を演じるために役作りをしている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たな役【やく】を演【えん】じるために役作【やくづ】りをして いる。",
+    "meaning": "She is preparing for her new role."
+  },
+  {
+    "sentence": "舞台美術は非常に精巧に作られていた。",
+    "sentence_furigana": "舞台美術【ぶたいびじゅつ】は非常【ひじょう】に精巧【せいこう】に作【つく】られていた。",
+    "meaning": "The stage design was very elaborately made."
+  },
+  {
+    "sentence": "彼は様々な種類の音楽を演奏できる。",
+    "sentence_furigana": "彼【かれ】は様々【さまざま】な種類【しゅるい】の音楽【おんがく】を演奏【えんそう】できる。",
+    "meaning": "He can perform various kinds of music."
+  },
+  {
+    "sentence": "この劇団は毎回独創的な演出で観客を魅了する。",
+    "sentence_furigana": "この劇団【げきだん】は毎回【まいかい】独創的【どくそうてき】な演出【えんしゅつ】で観客【かんきゃく】を魅了【みりょう】する。",
+    "meaning": "This theater company fascinates its audience with original direction every time."
+  },
+  {
+    "sentence": "彼は歴史的な事件について講演を行った。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な事件【じけん】について講演【こうえん】を行【おこな】った。",
+    "meaning": "He gave a lecture on a historical event."
+  },
+  {
+    "sentence": "子供たちは演劇の授業で楽しそうに演技をしていた。",
+    "sentence_furigana": "子供【こども】たちは演劇【えんげき】の授業【じゅぎょう】で楽【たの】しそうに演技【えんぎ】をしていた。",
+    "meaning": "The children were acting with enjoyment in the drama class."
+  },
+  {
+    "sentence": "彼のプレゼンテーションは非常に分かりやすかった。",
+    "sentence_furigana": "彼【かれ】のプレゼンテーションは非常【ひじょう】に分【わ】かりやすかった。",
+    "meaning": "His presentation was very easy to understand."
+  },
+  {
+    "sentence": "彼女は舞台上で力強く歌声を響かせた。",
+    "sentence_furigana": "彼女【かのじょ】は舞台上【ぶたいじょう】で力強【ちからづよ】く歌声【うたごえ】を響【ひび】かせた。",
+    "meaning": "She made her voice resonate powerfully on stage."
+  },
+  {
+    "sentence": "この作品は作者の人生経験が色濃く反映されている。",
+    "sentence_furigana": "この作品【さくひん】は作者【さくしゃ】の人生経験【じんせいけいけん】が色濃【いろこ】く反映【はんえい】されている。",
+    "meaning": "The author's life experiences are strongly reflected in this work."
+  },
+  {
+    "sentence": "彼は会議で新しいプロジェクトの概要を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で新【あら】たなプロジェクトの概要【がいよう】を発表【はっぴょう】した。",
+    "meaning": "He presented the outline of the new project at the meeting."
+  },
+  {
+    "sentence": "彼女は演説で聴衆の心を掴んだ。",
+    "sentence_furigana": "彼女【かのじょ】は演説【えんぜつ】で聴衆【ちょうしゅう】の心【こころ】を掴【つか】んだ。",
+    "meaning": "She captured the audience's hearts with her speech."
+  },
+  {
+    "sentence": "そのオペラ歌手は素晴らしい声量で観客を魅了した。",
+    "sentence_furigana": "そのオペラ歌手【かしゅ】は素晴【すば】らしい声量【せいりょう】で観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "The opera singer captivated the audience with her magnificent vocal power."
+  },
+  {
+    "sentence": "彼は会議の進行をスムーズに進めた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の進行【しんこう】をスムーズに進【すす】めた。",
+    "meaning": "He advanced the meeting smoothly."
+  },
+  {
+    "sentence": "この映画は感動的なストーリーで多くの人の心を打った。",
+    "sentence_furigana": "この映画【えいが】は感動的【かんどうてき】なストーリーで多【おお】くの人【ひと】の心【こころ】を打【う】った。",
+    "meaning": "This movie touched many people's hearts with its moving story."
+  },
+  {
+    "sentence": "彼はステージ上で情熱的なパフォーマンスを披露した。",
+    "sentence_furigana": "彼【かれ】はステージ上【じょう】で情熱的【じょうねつてき】なパフォーマンスを披露【ひろう】した。",
+    "meaning": "He showcased a passionate performance on stage."
+  },
+  {
+    "sentence": "彼女は会議で新しいアイデアを発表した。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】で新【あら】たなアイデアを発表【はっぴょう】した。",
+    "meaning": "She presented a new idea at the meeting."
+  },
+  {
+    "sentence": "その演劇は歴史的な事件を題材にしていた。",
+    "sentence_furigana": "その演劇【えんげき】は歴史的【れきしてき】な事件【じけん】を題材【だいざい】にしていた。",
+    "meaning": "The play was based on a historical event."
+  },
+  {
+    "sentence": "彼は会議で今後の計画について説明を行った。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で今後【こんご】の計画【けいかく】について説明【せつめい】を行【おこな】った。",
+    "meaning": "He explained the future plans at the meeting."
+  },
+  {
+    "sentence": "彼女は舞台上で繊細な感情表現を見せた。",
+    "sentence_furigana": "彼女【かのじょ】は舞台上【ぶたいじょう】で繊細【せんさい】な感情表現【かんじょうひょうげん】を見【み】せた。",
+    "meaning": "She showed delicate emotional expression on stage."
+  },
+  {
+    "sentence": "その研究者は実験結果を丁寧に記述した。",
+    "sentence_furigana": "その研究者【けんきゅうしゃ】は実験結果【じっけんけっか】を丁寧【ていねい】に記述【きじゅつ】した。",
+    "meaning": "The researcher meticulously described the experimental results."
+  },
+  {
+    "sentence": "彼は会議で会社の方針を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で会社【かいしゃ】の方針【ほうしん】を発表【はっぴょう】した。",
+    "meaning": "He presented the company's policy at the meeting."
+  },
+  {
+    "sentence": "彼女は新しい役を完璧に演じきった。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】たな役【やく】を完璧【かんぺき】に演【えん】じきった。",
+    "meaning": "She perfectly portrayed the new role."
+  },
+  {
+    "sentence": "このドキュメンタリーは、その出来事を詳細に描写している。",
+    "sentence_furigana": "このドキュメンタリーは、その出来事【できごと】を詳細【しょうさい】に描写【びょうしゃ】している。",
+    "meaning": "This documentary vividly depicts the event."
+  },
+  {
+    "sentence": "彼は会議で来期の目標を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で来期【らいき】の目標【もくひょう】を発表【はっぴょう】した。",
+    "meaning": "He announced the goals for the next term at the meeting."
+  },
+  {
+    "sentence": "その演説は多くの聴衆の心を動かした。",
+    "sentence_furigana": "その演説【えんぜつ】は多【おお】くの聴衆【ちょうしゅう】の心【こころ】を動【うご】かした。",
+    "meaning": "The speech moved many in the audience."
+  },
+  {
+    "sentence": "彼女はオペラで感情を込めた歌唱を披露した。",
+    "sentence_furigana": "彼女【かのじょ】はオペラで感情【かんじょう】を込【こ】めた歌唱【かしょう】を披露【ひろう】した。",
+    "meaning": "She delivered an emotional vocal performance in the opera."
+  },
+  {
+    "sentence": "この舞台演出は非常に創造的だ。",
+    "sentence_furigana": "この舞台演出【ぶたいえんしゅつ】は非常【ひじょう】に創造的【そうぞうてき】だ。",
+    "meaning": "This stage direction is highly creative."
+  },
+  {
+    "sentence": "彼は会議で新製品のプロモーション計画を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で新製品【しんせいひん】のプロモーション計画【けいかく】を発表【はっぴょう】した。",
+    "meaning": "He presented the promotion plan for the new product at the meeting."
+  },
+  {
+    "sentence": "彼女は子供たちのために童話を読み聞かせた。",
+    "sentence_furigana": "彼女【かのじょ】は子供たち【こどもたち】のために童話【どうわ】を読【よ】み聞【き】かせた。",
+    "meaning": "She read fairy tales to the children."
+  },
+  {
+    "sentence": "その俳優は、キャラクターの感情を繊細に演じた。",
+    "sentence_furigana": "その俳優【はいゆう】は、キャラクターの感情【かんじょう】を繊細【せんさい】に演【えん】じた。",
+    "meaning": "The actor subtly portrayed the character's emotions."
+  },
+  {
+    "sentence": "彼は学校の文化祭でギターの演奏を披露した。",
+    "sentence_furigana": "彼【かれ】は学校【がっこう】の文化祭【ぶんかさい】でギターの演奏【えんそう】を披露【ひろう】した。",
+    "meaning": "He performed guitar at the school cultural festival."
+  },
+  {
+    "sentence": "この演説は多くの人々の心に響きました。",
+    "sentence_furigana": "この演説【えんぜつ】は多【おお】くの人々【ひとびと】の心【こころ】に響【ひび】きました。",
+    "meaning": "This speech resonated with many people."
+  },
+  {
+    "sentence": "彼女は演劇の授業で様々な役を演じる経験をした。",
+    "sentence_furigana": "彼女【かのじょ】は演劇【えんげき】の授業【じゅぎょう】で様々【さまざま】な役【やく】を演【えん】じる経験【けいけん】をした。",
+    "meaning": "She gained experience playing various roles in drama class."
+  },
+  {
+    "sentence": "その会議では重要な発表が行われた。",
+    "sentence_furigana": "その会議【かいぎ】では重要【じゅうよう】な発表【はっぴょう】が行【おこな】われた。",
+    "meaning": "An important announcement was made at the meeting."
+  },
+  {
+    "sentence": "彼は会議で会社の現状について説明した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で会社【かいしゃ】の現状【げんじょう】について説明【せつめい】した。",
+    "meaning": "He explained the company's current situation at the meeting."
+  },
+  {
+    "sentence": "彼女は舞台上で感情を爆発させる演技を見せた。",
+    "sentence_furigana": "彼女【かのじょ】は舞台上【ぶたいじょう】で感情【かんじょう】を爆発【ばくはつ】させる演技【えんぎ】を見【み】せた。",
+    "meaning": "She showed an acting performance that exploded with emotion on stage."
+  },
+  {
+    "sentence": "この歴史的建造物は丁寧に修復された。",
+    "sentence_furigana": "この歴史的建造物【れきしてきけんぞうぶつ】は丁寧【ていねい】に修復【しゅうふく】された。",
+    "meaning": "This historical building was carefully restored."
+  },
+  {
+    "sentence": "彼は会議で新商品の開発状況を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で新商品【しんしょうひん】の開発状況【かいはつじょうきょう】を発表【はっぴょう】した。",
+    "meaning": "He presented the development status of the new product at the meeting."
+  },
+  {
+    "sentence": "その公演は非常に感動的で、涙なしには見られなかった。",
+    "sentence_furigana": "その公演【こうえん】は非常【ひじょう】に感動的【かんどうてき】で、涙【なみだ】なしには見【み】られなかった。",
+    "meaning": "The performance was so moving that I couldn't watch it without tears."
+  },
+  {
+    "sentence": "彼女は舞台上で力強いメッセージを伝えた。",
+    "sentence_furigana": "彼女【かのじょ】は舞台上【ぶたいじょう】で力強【ちからづよ】いメッセージを伝【つた】えた。",
+    "meaning": "She conveyed a powerful message on stage."
+  },
+  {
+    "sentence": "彼は演劇で様々な役柄を演じる。",
+    "sentence_furigana": "彼【かれ】は演劇【えんげき】で様々【さまざま】な役柄【やくがら】を演【えん】じる。",
+    "meaning": "He plays various roles in plays."
+  },
+  {
+    "sentence": "この報告は、詳細なデータに基づいて展開されている。",
+    "sentence_furigana": "この報告【ほうこく】は、詳細【しょうさい】なデータに基づいて展開【てんかい】されている。",
+    "meaning": "This report is developed based on detailed data."
+  },
+  {
+    "sentence": "彼女は会議で会社の業績を発表した。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】で会社【かいしゃ】の業績【ぎょうせき】を発表【はっぴょう】した。",
+    "meaning": "She presented the company's performance at the meeting."
+  },
+  {
+    "sentence": "その政治家は国民に熱い演説を行った。",
+    "sentence_furigana": "その政治家【せいじか】は国民【こくみん】に熱【あつ】い演説【えんぜつ】を行【おこな】った。",
+    "meaning": "The politician delivered a passionate speech to the nation."
+  },
+  {
+    "sentence": "彼は会議で新しい市場戦略を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で新【あら】たな市場戦略【しじょうせんりゃく】を発表【はっぴょう】した。",
+    "meaning": "He announced a new market strategy at the meeting."
+  },
+  {
+    "sentence": "彼女は舞台上で感情を表現することに長けている。",
+    "sentence_furigana": "彼女【かのじょ】は舞台上【ぶたいじょう】で感情【かんじょう】を表現【ひょうげん】することに長【た】けている。",
+    "meaning": "She excels at expressing emotions on stage."
+  },
+  {
+    "sentence": "このドラマは展開が早く、最後まで目が離せない。",
+    "sentence_furigana": "このドラマは展開【てんかい】が早【はや】く、最後【さいご】まで目【め】が離【はな】せない。",
+    "meaning": "This drama has a fast-paced plot, making it impossible to look away until the end."
+  },
+  {
+    "sentence": "彼は会議で来期の事業計画を発表した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で来期【らいき】の事業計画【じぎょうけいかく】を発表【はっぴょう】した。",
+    "meaning": "He announced the business plan for the next term at the meeting."
+  },
+  {
+    "sentence": "彼女は子供たちに物語を語り聞かせた。",
+    "sentence_furigana": "彼女【かのじょ】は子供たち【こどもたち】に物語【ものがたり】を語【かた】り聞【き】かせた。",
+    "meaning": "She told stories to the children."
+  },
+  {
+    "sentence": "その俳優は複雑な感情を繊細に演じ分けた。",
+    "sentence_furigana": "その俳優【はいゆう】は複雑【ふくざつ】な感情【かんじょう】を繊細【せんさい】に演【えん】じ分【わ】けた。",
+    "meaning": "The actor subtly portrayed complex emotions."
+  }
+]

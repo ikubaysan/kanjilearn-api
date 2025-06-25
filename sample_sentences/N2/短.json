@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "この映画は短すぎて途中で眠ってしまった。",
+    "sentence_furigana": "この【】映画【えいが】は【】短【みじか】すぎて【】途中【とちゅう】で【】眠っ【ねむっ】て【】しまっ【しまっ】た【】。",
+    "meaning": "This movie was too short, so I fell asleep halfway through."
+  },
+  {
+    "sentence": "彼の話は短くまとまっていて分かりやすかった。",
+    "sentence_furigana": "彼【かれ】の【】話【はな】しは【】短【みじか】く【】まとまっ【まとまっ】て【】いて【】分かり【わかり】やすかっ【やすかっ】た【】。",
+    "meaning": "His story was short and well-organized, making it easy to understand."
+  },
+  {
+    "sentence": "短い時間でしたが、とても楽しかったです。",
+    "sentence_furigana": "短【みじか】い【】時間【じかん】でしたが【】、【】とても【】楽【たの】しかった【しかったです】。",
+    "meaning": "Although it was a short time, I had a lot of fun."
+  },
+  {
+    "sentence": "人生は短いのだから、後悔しないように生きよう。",
+    "sentence_furigana": "人生【じんせい】は【】短【みじか】い【】の【】だから【】、【】後悔【こうかい】しないように【】生きよう【いきよう】。",
+    "meaning": "Life is short, so let's live without regrets."
+  },
+  {
+    "sentence": "短所を改善するために努力します。",
+    "sentence_furigana": "短所【たんしょ】を【】改善【かいぜん】するために【】努力【どりょく】します【します】。",
+    "meaning": "I will strive to improve my shortcomings."
+  },
+  {
+    "sentence": "そのニュースは短報として伝えられた。",
+    "sentence_furigana": "その【】ニュースは【】短報【たんぽう】として【】伝え【つた】られた【られた】。",
+    "meaning": "The news was reported as a brief report."
+  },
+  {
+    "sentence": "彼女は短期間で多くのことを学びました。",
+    "sentence_furigana": "彼女【かのじょ】は【】短期間【たんきかん】で【】多く【おおく】の【】こと【】を【】学び【まなび】ました【ました】。",
+    "meaning": "She learned a lot in a short period."
+  },
+  {
+    "sentence": "この道は短いが、急な坂道だ。",
+    "sentence_furigana": "この【】道【みち】は【】短【みじか】いが【】、【】急【きゅう】な【】坂道【さかみち】だ【だ】。",
+    "meaning": "This road is short, but it's a steep slope."
+  },
+  {
+    "sentence": "文章の最後に短いコメントを添えた。",
+    "sentence_furigana": "文章【ぶんしょう】の【】最後【さいご】に【】短【みじか】い【】コメント【】を【】添え【そ】えた【た】。",
+    "meaning": "I added a short comment at the end of the text."
+  },
+  {
+    "sentence": "彼の言葉は短かったが、重みがあった。",
+    "sentence_furigana": "彼【かれ】の【】言葉【ことば】は【】短かっ【みじか】た【た】が【】、【】重み【おもみ】が【】あっ【あっ】た【た】。",
+    "meaning": "His words were brief, but they carried weight."
+  },
+  {
+    "sentence": "睡眠時間が短いと、集中力が低下する。",
+    "sentence_furigana": "睡眠時間【すいみんじかん】が【】短【みじか】い【】と【】、【】集中力【しゅうちゅうりょく】が【】低下【ていか】する【する】。",
+    "meaning": "When sleep duration is short, concentration decreases."
+  },
+  {
+    "sentence": "その店の営業時間は短い。",
+    "sentence_furigana": "その【】店【みせ】の【】営業時間【えいぎょうじかん】は【】短【みじか】い【】。",
+    "meaning": "That store's business hours are short."
+  },
+  {
+    "sentence": "短編小説を読むのが好きだ。",
+    "sentence_furigana": "短編小説【たんぺんしょうせつ】を【】読む【よむ】の【】が【】好き【す】だ【だ】。",
+    "meaning": "I like reading short stories."
+  },
+  {
+    "sentence": "彼の演技には短所が見当たらない。",
+    "sentence_furigana": "彼【かれ】の【】演技【えんぎ】には【】短所【たんしょ】が【】見当た【みた】らない【ない】。",
+    "meaning": "No flaws can be found in his acting."
+  },
+  {
+    "sentence": "髪を短く切った。",
+    "sentence_furigana": "髪【かみ】を【】短【みじか】く【】切っ【き】た【た】。",
+    "meaning": "I cut my hair short."
+  },
+  {
+    "sentence": "彼は短命だったと言われている。",
+    "sentence_furigana": "彼【かれ】は【】短命【たんめい】だった【た】と【】言わ【い】れて【られ】る【る】。",
+    "meaning": "He is said to have had a short life."
+  },
+  {
+    "sentence": "その期間は非常に短かった。",
+    "sentence_furigana": "その【】期間【きかん】は【】非常【ひじょう】に【】短かっ【みじか】た【た】。",
+    "meaning": "That period was very short."
+  },
+  {
+    "sentence": "この納期は短すぎる。",
+    "sentence_furigana": "この【】納期【のうき】は【】短【みじか】すぎる【すぎる】。",
+    "meaning": "This delivery time is too short."
+  },
+  {
+    "sentence": "彼は短気な性格で、すぐに怒る。",
+    "sentence_furigana": "彼【かれ】は【】短気【たんき】な【】性格【せいかく】で【】、【】すぐ【】に【】怒る【おこる】。",
+    "meaning": "He has a short temper and gets angry easily."
+  },
+  {
+    "sentence": "これは私の力の短所です。",
+    "sentence_furigana": "これ【】は【】私【わたし】の【】力【ちから】の【】短所【たんしょ】です【です】。",
+    "meaning": "This is a weakness of my ability."
+  },
+  {
+    "sentence": "短距離走で一位になった。",
+    "sentence_furigana": "短距離走【たんきょりそう】で【】一位【いちい】に【】なっ【なっ】た【た】。",
+    "meaning": "I came in first place in the short-distance race."
+  },
+  {
+    "sentence": "会議の時間は短く設定された。",
+    "sentence_furigana": "会議【かいぎ】の【】時間【じかん】は【】短【みじか】く【】設定【せってい】され【され】た【た】。",
+    "meaning": "The meeting time was set to be short."
+  },
+  {
+    "sentence": "短時間で大量の情報を覚えるのは難しい。",
+    "sentence_furigana": "短時間【たんじかん】で【】大量【たいりょう】の【】情報【じょうほう】を【】覚える【おぼえる】の【】は【】難【むずか】しい【しい】。",
+    "meaning": "It is difficult to memorize a large amount of information in a short time."
+  },
+  {
+    "sentence": "その事件は短時間で解決した。",
+    "sentence_furigana": "その【】事件【じけん】は【】短時間【たんじかん】で【】解決【かいけつ】し【し】た【た】。",
+    "meaning": "The incident was resolved in a short period."
+  },
+  {
+    "sentence": "彼の応答は非常に短かった。",
+    "sentence_furigana": "彼【かれ】の【】応答【おうとう】は【】非常【ひじょう】に【】短かっ【みじか】た【た】。",
+    "meaning": "His response was very brief."
+  },
+  {
+    "sentence": "短大を卒業して就職した。",
+    "sentence_furigana": "短大【たんだい】を【】卒業【そつぎょう】し【し】て【】就職【しゅうしょく】し【し】た【た】。",
+    "meaning": "I graduated from junior college and found employment."
+  },
+  {
+    "sentence": "この本は短めの小説集だ。",
+    "sentence_furigana": "この【】本【ほん】は【】短め【みじか】の【】小説集【しょうせつしゅう】だ【だ】。",
+    "meaning": "This book is a collection of rather short novels."
+  },
+  {
+    "sentence": "短眠で活動する人を研究している。",
+    "sentence_furigana": "短眠【たんみん】で【】活動【かつどう】する【する】人【ひと】を【】研究【けんきゅう】し【し】て【て】いる【いる】。",
+    "meaning": "I am researching people who function on short sleep."
+  },
+  {
+    "sentence": "彼女の声は短く途切れた。",
+    "sentence_furigana": "彼女【かのじょ】の【】声【こえ】は【】短【みじか】く【】途切れ【とぎ】た【た】。",
+    "meaning": "Her voice was cut off briefly."
+  },
+  {
+    "sentence": "短足なのがコンプレックスだ。",
+    "sentence_furigana": "短足【たんそく】な【】の【】が【】コンプレックス【】だ【だ】。",
+    "meaning": "Having short legs is my complex."
+  },
+  {
+    "sentence": "このケーブルは短すぎるので、延長コードが必要だ。",
+    "sentence_furigana": "この【】ケーブル【】は【】短【みじか】すぎる【すぎる】の【】で【】、【】延長コード【えんちょうコード】が【】必要【ひつよう】だ【だ】。",
+    "meaning": "This cable is too short, so an extension cord is needed."
+  },
+  {
+    "sentence": "短期間で効果が出る薬。",
+    "sentence_furigana": "短期間【たんきかん】で【】効果【こうか】が【】出【で】る【る】薬【くすり】。",
+    "meaning": "Medicine that shows effects in a short period."
+  },
+  {
+    "sentence": "彼の欠点は短気なところだ。",
+    "sentence_furigana": "彼【かれ】の【】欠点【けってん】は【】短気【たんき】な【】ところ【】だ【だ】。",
+    "meaning": "His flaw is his short temper."
+  },
+  {
+    "sentence": "この文章は短く要点をまとめなさい。",
+    "sentence_furigana": "この【】文章【ぶんしょう】は【】短【みじか】く【】要点【ようてん】を【】まとめなさい【なさい】。",
+    "meaning": "Summarize the main points of this text briefly."
+  },
+  {
+    "sentence": "短い髪型が似合っている。",
+    "sentence_furigana": "短【みじか】い【】髪型【かみがた】が【】似合【にあ】って【あっ】いる【いる】。",
+    "meaning": "The short hairstyle suits her."
+  },
+  {
+    "sentence": "短時間で多くの仕事をこなした。",
+    "sentence_furigana": "短時間【たんじかん】で【】多く【おおく】の【】仕事【しごと】を【】こな【こな】し【し】た【た】。",
+    "meaning": "I completed a lot of work in a short time."
+  },
+  {
+    "sentence": "彼女の人生は短かったが、多くの人に影響を与えた。",
+    "sentence_furigana": "彼女【かのじょ】の【】人生【じんせい】は【】短かっ【みじか】た【た】が【】、【】多く【おおく】の【】人【ひと】に【】影響【えいきょう】を【】与え【あた】えた【た】。",
+    "meaning": "Her life was short, but she influenced many people."
+  },
+  {
+    "sentence": "この橋は短い距離だが、重要な役割を担っている。",
+    "sentence_furigana": "この【】橋【はし】は【】短【みじか】い【】距離【きょり】だ【だ】が【】、【】重要【じゅうよう】な【】役割【やくわり】を【】担っ【になっ】て【て】いる【いる】。",
+    "meaning": "This bridge is short in distance but plays an important role."
+  },
+  {
+    "sentence": "短距離の移動には自転車が便利だ。",
+    "sentence_furigana": "短距離【たんきょり】の【】移動【いどう】に【】は【】自転車【じてんしゃ】が【】便利【べんり】だ【だ】。",
+    "meaning": "Bicycles are convenient for short-distance travel."
+  },
+  {
+    "sentence": "彼は短い言葉でしか返事をしなかった。",
+    "sentence_furigana": "彼【かれ】は【】短【みじか】い【】言葉【ことば】で【】しか【】返事【へんじ】を【】し【し】なかっ【なかっ】た【た】。",
+    "meaning": "He only replied in a few words."
+  },
+  {
+    "sentence": "短所を克服するために日々努力している。",
+    "sentence_furigana": "短所【たんしょ】を【】克服【こくふく】する【する】ため【ため】に【】日々【ひび】努力【どりょく】し【し】て【て】いる【いる】。",
+    "meaning": "I am striving every day to overcome my shortcomings."
+  },
+  {
+    "sentence": "彼女は短いコメントを投稿した。",
+    "sentence_furigana": "彼女【かのじょ】は【】短【みじか】い【】コメント【】を【】投稿【とうこう】し【し】た【た】。",
+    "meaning": "She posted a short comment."
+  },
+  {
+    "sentence": "この製品は短期間で市場に普及した。",
+    "sentence_furigana": "この【】製品【せいひん】は【】短期間【たんきかん】で【】市場【しじょう】に【】普及【ふきゅう】し【し】た【た】。",
+    "meaning": "This product became widespread in the market in a short period."
+  },
+  {
+    "sentence": "短時間の拘束で済んだ。",
+    "sentence_furigana": "短時間【たんじかん】の【】拘束【こうそく】で【】済【す】ん【ん】だ【た】。",
+    "meaning": "It only required a short detention."
+  },
+  {
+    "sentence": "彼の返事は短かった。",
+    "sentence_furigana": "彼【かれ】の【】返事【へんじ】は【】短かっ【みじか】た【た】。",
+    "meaning": "His reply was brief."
+  },
+  {
+    "sentence": "この論文は短くまとめられている。",
+    "sentence_furigana": "この【】論文【ろんぶん】は【】短【みじか】く【】まとめられ【まとめられ】て【て】いる【いる】。",
+    "meaning": "This paper is summarized concisely."
+  },
+  {
+    "sentence": "短命な人間が多い理由を教えてください。",
+    "sentence_furigana": "短命【たんめい】な【】人間【にんげん】が【】多【おお】い【い】理由【りゆう】を【】教え【おしえ】て【て】ください【ください】。",
+    "meaning": "Please tell me the reason why many people have short lives."
+  },
+  {
+    "sentence": "短い間でしたが、大変お世話になりました。",
+    "sentence_furigana": "短【みじか】い【】間【あいだ】で【】し【し】た【た】が【】、【】大変【たいへん】お世話【おせわ】に【】なり【なり】まし【まし】た【た】。",
+    "meaning": "Although it was for a short time, thank you very much for your help."
+  },
+  {
+    "sentence": "短所を長所に変えることは可能だ。",
+    "sentence_furigana": "短所【たんしょ】を【】長所【ちょうしょ】に【】変える【かえる】こと【】は【】可能【かのう】だ【だ】。",
+    "meaning": "It is possible to turn shortcomings into strengths."
+  },
+  {
+    "sentence": "短時間で多くのことを経験できた。",
+    "sentence_furigana": "短時間【たんじかん】で【】多く【おおく】の【】こと【】を【】経験【けいけん】でき【でき】た【た】。",
+    "meaning": "I was able to experience many things in a short time."
+  },
+  {
+    "sentence": "この道は短いが、抜け道として使われている。",
+    "sentence_furigana": "この【】道【みち】は【】短【みじか】いが【】、【】抜け道【ぬけみち】として【】使わ【つかわ】れて【れて】いる【いる】。",
+    "meaning": "This road is short but is used as a shortcut."
+  },
+  {
+    "sentence": "短編映画のコンテストに応募した。",
+    "sentence_furigana": "短編映画【たんぺんえいが】の【】コンテスト【】に【】応募【おうぼ】し【し】た【た】。",
+    "meaning": "I applied for a short film contest."
+  },
+  {
+    "sentence": "彼の説明は短くても分かりやすかった。",
+    "sentence_furigana": "彼【かれ】の【】説明【せつめい】は【】短【みじか】く【】て【て】も【】分かり【わかり】やすかっ【やすかっ】た【た】。",
+    "meaning": "His explanation was easy to understand, even though it was brief."
+  },
+  {
+    "sentence": "短距離の移動に便利な乗り物。",
+    "sentence_furigana": "短距離【たんきょり】の【】移動【いどう】に【】便利【べんり】な【】乗【の】り物【もの】。",
+    "meaning": "A convenient vehicle for short-distance travel."
+  },
+  {
+    "sentence": "彼女の欠点は少し短気なところです。",
+    "sentence_furigana": "彼女【かのじょ】の【】欠点【けってん】は【】少し【すこ】し【し】短気【たんき】な【】ところ【】です【です】。",
+    "meaning": "Her flaw is that she's a bit short-tempered."
+  },
+  {
+    "sentence": "短時間で多くのことを習得する能力。",
+    "sentence_furigana": "短時間【たんじかん】で【】多く【おおく】の【】こと【】を【】習得【しゅうとく】する【する】能力【のうりょく】。",
+    "meaning": "The ability to acquire many things in a short time."
+  },
+  {
+    "sentence": "短命の原因は遺伝だけでなく環境も関係する。",
+    "sentence_furigana": "短命【たんめい】の【】原因【げんいん】は【】遺伝【いでん】だけ【だけ】で【で】は【】なく【なく】環境【かんきょう】も【】関係【かんけい】する【する】。",
+    "meaning": "The cause of short life is related not only to genes but also to environment."
+  },
+  {
+    "sentence": "短い文章で感想を述べてください。",
+    "sentence_furigana": "短【みじか】い【】文章【ぶんしょう】で【】感想【かんそう】を【】述べ【の】て【て】ください【ください】。",
+    "meaning": "Please state your thoughts in a short text."
+  },
+  {
+    "sentence": "彼は短納期で仕事を完成させた。",
+    "sentence_furigana": "彼【かれ】は【】短納期【たんのうき】で【】仕事【しごと】を【】完成【かんせい】させ【させ】た【た】。",
+    "meaning": "He completed the work by the short deadline."
+  },
+  {
+    "sentence": "この計画は短期間で実現可能だろうか。",
+    "sentence_furigana": "この【】計画【けいかく】は【】短期間【たんきかん】で【】実現【じつげん】可能【かのう】だろ【だろ】う【う】か【か】。",
+    "meaning": "Will this plan be feasible in a short period?"
+  },
+  {
+    "sentence": "彼女は短くて便利な道具を使った。",
+    "sentence_furigana": "彼女【かのじょ】は【】短【みじか】く【】て【て】便利【べんり】な【】道具【どうぐ】を【】使っ【つか】た【た】。",
+    "meaning": "She used a short and convenient tool."
+  },
+  {
+    "sentence": "短い間にたくさんのことを学んだ。",
+    "sentence_furigana": "短【みじか】い【】間【あいだ】に【】たくさん【たくさん】の【】こと【】を【】学ん【まん】だ【だ】。",
+    "meaning": "I learned a lot in a short time."
+  },
+  {
+    "sentence": "短所を隠しても何も解決しない。",
+    "sentence_furigana": "短所【たんしょ】を【】隠し【かくし】ても【ても】何【なん】も【も】解決【かいけつ】し【し】ない【ない】。",
+    "meaning": "Hiding shortcomings solves nothing."
+  },
+  {
+    "sentence": "このケーブルは短すぎます。",
+    "sentence_furigana": "この【】ケーブル【】は【】短【みじか】すぎ【すぎ】ます【ます】。",
+    "meaning": "This cable is too short."
+  },
+  {
+    "sentence": "彼女は短時間で仕事を片付けた。",
+    "sentence_furigana": "彼女【かのじょ】は【】短時間【たんじかん】で【】仕事【しごと】を【】片付け【かたづけ】た【た】。",
+    "meaning": "She finished her work in a short time."
+  },
+  {
+    "sentence": "短い人生だったけれど、充実していた。",
+    "sentence_furigana": "短【みじか】い【】人生【じんせい】だっ【だっ】た【た】けれど【けれど】、【】充実【じゅうじつ】し【し】て【て】い【い】た【た】。",
+    "meaning": "It was a short life, but it was fulfilling."
+  },
+  {
+    "sentence": "短時間の休憩を取る。",
+    "sentence_furigana": "短時間【たんじかん】の【】休憩【きゅうけい】を【】取る【とる】。",
+    "meaning": "Take a short break."
+  },
+  {
+    "sentence": "短期間の旅行だったが、楽しかった。",
+    "sentence_furigana": "短期間【たんきかん】の【】旅行【りょこう】だっ【だっ】た【た】が【】、【】楽しかっ【たのしかっ】た【た】。",
+    "meaning": "It was a short trip, but it was enjoyable."
+  },
+  {
+    "sentence": "彼の短所は少し短気なところだ。",
+    "sentence_furigana": "彼【かれ】の【】短所【たんしょ】は【】少し【すこ】し【し】短気【たんき】な【】ところ【】だ【だ】。",
+    "meaning": "His flaw is his short temper."
+  },
+  {
+    "sentence": "短編小説をいくつか読んだ。",
+    "sentence_furigana": "短編小説【たんぺんしょうせつ】を【】いくつか【いくつか】読ん【よん】だ【だ】。",
+    "meaning": "I read several short stories."
+  },
+  {
+    "sentence": "この道は短いが、交通量が多い。",
+    "sentence_furigana": "この【】道【みち】は【】短【みじか】いが【】、【】交通量【こうつうりょう】が【】多【おお】い【い】。",
+    "meaning": "This road is short but has heavy traffic."
+  },
+  {
+    "sentence": "短時間で多くを学ぶのは難しい。",
+    "sentence_furigana": "短時間【たんじかん】で【】多く【おおく】を【】学ぶ【まなぶ】の【】は【】難【むずか】しい【しい】。",
+    "meaning": "It is difficult to learn much in a short time."
+  },
+  {
+    "sentence": "彼の話は短かったので、もっと聞きたかった。",
+    "sentence_furigana": "彼【かれ】の【】話【はな】しは【】短かっ【みじか】た【た】の【】で【で】、【】もっと【もっと】聞きたかっ【ききたかっ】た【た】。",
+    "meaning": "His story was brief, so I wanted to hear more."
+  },
+  {
+    "sentence": "短期間で結果を出すのは大変だ。",
+    "sentence_furigana": "短期間【たんきかん】で【】結果【けっか】を【】出す【だ】す【す】の【】は【】大変【たいへん】だ【だ】。",
+    "meaning": "It is difficult to produce results in a short period."
+  },
+  {
+    "sentence": "彼女は短いヘアスタイルに変えた。",
+    "sentence_furigana": "彼女【かのじょ】は【】短【みじか】い【】ヘアスタイル【】に【】変え【かえ】た【た】。",
+    "meaning": "She changed to a short hairstyle."
+  },
+  {
+    "sentence": "短所を認めることから始めよう。",
+    "sentence_furigana": "短所【たんしょ】を【】認める【みとめる】こと【】から【】始め【はじめ】よう【よう】。",
+    "meaning": "Let's start by acknowledging our shortcomings."
+  },
+  {
+    "sentence": "短命な生物は進化が早い。",
+    "sentence_furigana": "短命【たんめい】な【】生物【せいぶつ】は【】進化【しんか】が【】早【はや】い【い】。",
+    "meaning": "Short-lived organisms evolve quickly."
+  },
+  {
+    "sentence": "この期間は非常に短かった。",
+    "sentence_furigana": "この【】期間【きかん】は【】非常【ひじょう】に【】短かっ【みじか】た【た】。",
+    "meaning": "This period was very short."
+  },
+  {
+    "sentence": "短時間で多くの情報を処理する。",
+    "sentence_furigana": "短時間【たんじかん】で【】多く【おおく】の【】情報【じょうほう】を【】処理【しょり】する【する】。",
+    "meaning": "Process a lot of information in a short time."
+  },
+  {
+    "sentence": "彼女は短い手紙を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は【】短【みじか】い【】手紙【てがみ】を【】書い【かい】た【た】。",
+    "meaning": "She wrote a short letter."
+  },
+  {
+    "sentence": "短期間で成長した選手。",
+    "sentence_furigana": "短期間【たんきかん】で【】成長【せいちょう】し【し】た【た】選手【せんしゅ】。",
+    "meaning": "An athlete who grew in a short period."
+  },
+  {
+    "sentence": "この道は短いが、近道だ。",
+    "sentence_furigana": "この【】道【みち】は【】短【みじか】いが【】、【】近道【ちかみち】だ【だ】。",
+    "meaning": "This road is short but is a shortcut."
+  },
+  {
+    "sentence": "彼は短く挨拶をした。",
+    "sentence_furigana": "彼【かれ】は【】短【みじか】く【】挨拶【あいさつ】を【】し【し】た【た】。",
+    "meaning": "He gave a brief greeting."
+  },
+  {
+    "sentence": "短所を改善すれば、もっと良くなるだろう。",
+    "sentence_furigana": "短所【たんしょ】を【】改善【かいぜん】すれ【すれ】ば【ば】、【】もっと【もっと】良【よ】く【く】なる【なる】だろ【だろ】う【う】。",
+    "meaning": "If you improve your shortcomings, you will become better."
+  },
+  {
+    "sentence": "短い時間で多くの知識を得られた。",
+    "sentence_furigana": "短【みじか】い【】時間【じかん】で【】多く【おおく】の【】知識【ちしき】を【】得【え】られ【られ】た【た】。",
+    "meaning": "I gained a lot of knowledge in a short time."
+  },
+  {
+    "sentence": "短期間でできる仕事ではない。",
+    "sentence_furigana": "短期間【たんきかん】で【】できる【できる】仕事【しごと】で【で】は【】ない【ない】。",
+    "meaning": "This is not a job that can be done in a short period."
+  },
+  {
+    "sentence": "彼女のコメントは短かった。",
+    "sentence_furigana": "彼女【かのじょ】の【】コメント【】は【】短かっ【みじか】た【た】。",
+    "meaning": "Her comment was brief."
+  },
+  {
+    "sentence": "このケーブルは短くて使いにくい。",
+    "sentence_furigana": "この【】ケーブル【】は【】短【みじか】く【】て【て】使【つか】い【い】にくい【にくい】。",
+    "meaning": "This cable is short and inconvenient to use."
+  },
+  {
+    "sentence": "短い間ですが、よろしくお願いします。",
+    "sentence_furigana": "短【みじか】い【】間【あいだ】で【】し【し】た【た】が【】、【】よろしく【よろしく】お願い【ねがい】し【し】ます【ます】。",
+    "meaning": "Although it's a short time, please take care of me."
+  },
+  {
+    "sentence": "短時間でこれだけの成果を出せるなんて素晴らしい。",
+    "sentence_furigana": "短時間【たんじかん】で【】これ【】だけ【だけ】の【】成果【せいか】を【】出せる【だせる】なんて【なんて】素晴らしい【すばらしい】。",
+    "meaning": "It's wonderful to be able to achieve this much in such a short time."
+  },
+  {
+    "sentence": "短所を長所に変える努力をしましょう。",
+    "sentence_furigana": "短所【たんしょ】を【】長所【ちょうしょ】に【】変える【かえる】努力【どりょく】を【】し【し】まし【まし】ょう【よう】。",
+    "meaning": "Let's make an effort to turn our shortcomings into strengths."
+  },
+  {
+    "sentence": "彼の人生は短かったが、多くのことを成し遂げた。",
+    "sentence_furigana": "彼【かれ】の【】人生【じんせい】は【】短かっ【みじか】た【た】が【】、【】多く【おおく】の【】こと【】を【】成し遂げ【なしとげ】た【た】。",
+    "meaning": "His life was short, but he accomplished many things."
+  },
+  {
+    "sentence": "短時間で集中して作業を進める。",
+    "sentence_furigana": "短時間【たんじかん】で【】集中【しゅうちゅう】し【し】て【て】作業【さぎょう】を【】進める【すすめる】。",
+    "meaning": "Focus and proceed with the work in a short time."
+  },
+  {
+    "sentence": "短距離の移動には便利な乗り物がある。",
+    "sentence_furigana": "短距離【たんきょり】の【】移動【いどう】に【】は【】便利【べんり】な【】乗【の】り物【もの】が【】ある【ある】。",
+    "meaning": "There are convenient vehicles for short-distance travel."
+  },
+  {
+    "sentence": "彼は短気なので、冷静に対応する必要がある。",
+    "sentence_furigana": "彼【かれ】は【】短気【たんき】な【】ので【ので】、【】冷静【れいせい】に【】対応【たいおう】する【する】必要【ひつよう】が【】ある【ある】。",
+    "meaning": "Since he is short-tempered, it is necessary to respond calmly."
+  },
+  {
+    "sentence": "短い言葉で感謝の意を表した。",
+    "sentence_furigana": "短【みじか】い【】言葉【ことば】で【】感謝【かんしゃ】の【】意【い】を【】表し【あらわし】た【た】。",
+    "meaning": "I expressed my gratitude in a few words."
+  }
+]

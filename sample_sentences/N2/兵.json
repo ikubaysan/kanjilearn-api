@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "兵士は勇敢に戦った。",
+    "sentence_furigana": "兵【へい】士【し】は勇【ゆう】敢【かん】に戦【たたか】った。",
+    "meaning": "The soldier fought bravely."
+  },
+  {
+    "sentence": "敵の兵が迫っている。",
+    "sentence_furigana": "敵【てき】の兵【へい】が迫【せ】っている。",
+    "meaning": "Enemy troops are approaching."
+  },
+  {
+    "sentence": "軍隊は兵を集結させた。",
+    "sentence_furigana": "軍【ぐん】隊【たい】は兵【へい】を急【きゅう】結【けつ】させた。",
+    "meaning": "The army assembled its soldiers."
+  },
+  {
+    "sentence": "彼は兵役に就いた。",
+    "sentence_furigana": "彼【かれ】は兵【へい】役【えき】に就【つ】いた。",
+    "meaning": "He entered military service."
+  },
+  {
+    "sentence": "戦場には多くの兵がいた。",
+    "sentence_furigana": "戦【せん】場【じょう】には多【おお】くの兵【へい】がいた。",
+    "meaning": "There were many soldiers on the battlefield."
+  },
+  {
+    "sentence": "兵器の製造が進んでいる。",
+    "sentence_furigana": "兵【へい】器【き】の製【せい】造【ぞう】が進【すす】んでいる。",
+    "meaning": "The production of weapons is progressing."
+  },
+  {
+    "sentence": "兵法書を読んだ。",
+    "sentence_furigana": "兵【へい】法【ほう】書【しょ】を読【よ】んだ。",
+    "meaning": "I read a book on military strategy."
+  },
+  {
+    "sentence": "兵士たちは訓練に励んだ。",
+    "sentence_furigana": "兵【へい】士【し】たちは訓【くん】練【れん】に励【はげ】んだ。",
+    "meaning": "The soldiers practiced diligently."
+  },
+  {
+    "sentence": "兵力が増強された。",
+    "sentence_furigana": "兵【へい】力【りょく】が増【ぞう】強【きょう】された。",
+    "meaning": "The troop strength was reinforced."
+  },
+  {
+    "sentence": "兵士は前線に配置された。",
+    "sentence_furigana": "兵【へい】士【し】は前【ぜん】線【せん】に配【はい】置【ち】された。",
+    "meaning": "The soldiers were deployed to the front line."
+  },
+  {
+    "sentence": "彼は歩兵の隊長になった。",
+    "sentence_furigana": "彼【かれ】は歩【ほ】兵【へい】の隊【たい】長【ちょう】になった。",
+    "meaning": "He became a captain of infantry."
+  },
+  {
+    "sentence": "兵隊がパレードを行進した。",
+    "sentence_furigana": "兵【へい】隊【たい】がパレードを行【こう】進【しん】した。",
+    "meaning": "The troops marched in a parade."
+  },
+  {
+    "sentence": "兵糧が不足していた。",
+    "sentence_furigana": "兵【へい】糧【りょう】が不【ふ】足【そく】していた。",
+    "meaning": "Rations were insufficient."
+  },
+  {
+    "sentence": "兵馬俑は有名だ。",
+    "sentence_furigana": "兵【へい】馬【ば】俑【よう】は有【ゆう】名【めい】だ。",
+    "meaning": "The Terracotta Army is famous."
+  },
+  {
+    "sentence": "兵器開発が進む。",
+    "sentence_furigana": "兵【へい】器【き】開【かい】発【はつ】が進【すす】む。",
+    "meaning": "Weapon development is advancing."
+  },
+  {
+    "sentence": "兵士の士気は高かった。",
+    "sentence_furigana": "兵【へい】士【し】の士【し】気【き】は高【たか】かった。",
+    "meaning": "The soldiers' morale was high."
+  },
+  {
+    "sentence": "これは兵器として使われる。",
+    "sentence_furigana": "これらは兵【へい】器【き】として使【つか】われる。",
+    "meaning": "These are used as weapons."
+  },
+  {
+    "sentence": "兵隊の規律は厳しかった。",
+    "sentence_furigana": "兵【へい】隊【たい】の規【き】律【りつ】は厳【きび】しかった。",
+    "meaning": "The discipline of the troops was strict."
+  },
+  {
+    "sentence": "彼は兵棋演習に参加した。",
+    "sentence_furigana": "彼【かれ】は兵【へい】棋【き】演【えん】習【しゅう】に参加【さんか】した。",
+    "meaning": "He participated in a wargame exercise."
+  },
+  {
+    "sentence": "兵隊は命令に従った。",
+    "sentence_furigana": "兵【へい】隊【たい】は命【めい】令【れい】に従【したが】った。",
+    "meaning": "The soldiers obeyed the orders."
+  },
+  {
+    "sentence": "兵士一人ひとりが重要だ。",
+    "sentence_furigana": "兵【へい】士【し】一人【ひとり】ひとりが重【じゅう】要【よう】だ。",
+    "meaning": "Each soldier is important."
+  },
+  {
+    "sentence": "兵士が武器を手に取った。",
+    "sentence_furigana": "兵【へい】士【し】が武【ぶ】器【き】を手【て】に取【と】った。",
+    "meaning": "The soldier took up his weapon."
+  },
+  {
+    "sentence": "兵士は敵の動きを監視した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の動【うご】きを監【かん】視【し】した。",
+    "meaning": "The soldier monitored the enemy's movements."
+  },
+  {
+    "sentence": "兵力差は明らかだった。",
+    "sentence_furigana": "兵【へい】力【りょく】差【さ】は明【あき】らからだった。",
+    "meaning": "The difference in troop strength was clear."
+  },
+  {
+    "sentence": "彼は兵士としての訓練を受けた。",
+    "sentence_furigana": "彼【かれ】は兵【へい】士【し】としての訓【くん】練【れん】を受【う】けた。",
+    "meaning": "He received training as a soldier."
+  },
+  {
+    "sentence": "兵士たちは作戦行動を開始した。",
+    "sentence_furigana": "兵【へい】士【し】たちは作【さく】戦【せん】行【こう】動【どう】を開始【かいし】した。",
+    "meaning": "The soldiers began their operation."
+  },
+  {
+    "sentence": "兵器の性能が向上した。",
+    "sentence_furigana": "兵【へい】器【き】の性【せい】能【のう】が向【こう】上【じょう】した。",
+    "meaning": "The performance of the weapons has improved."
+  },
+  {
+    "sentence": "兵士は祖国を守るために戦う。",
+    "sentence_furigana": "兵【へい】士【し】は祖【そ】国【こく】をを守【まも】るために戦【たたか】う。",
+    "meaning": "Soldiers fight to defend their homeland."
+  },
+  {
+    "sentence": "兵站線が維持された。",
+    "sentence_furigana": "兵【へい】站【たん】線【せん】が維【い】持【じ】された。",
+    "meaning": "The supply lines were maintained."
+  },
+  {
+    "sentence": "彼は兵隊を指揮した。",
+    "sentence_furigana": "彼【かれ】は兵【へい】隊【たい】を指【し】揮【き】した。",
+    "meaning": "He commanded the troops."
+  },
+  {
+    "sentence": "兵士は夜間でも警戒を怠らなかった。",
+    "sentence_furigana": "兵【へい】士【し】は夜【よる】間【かん】でも警【けい】戒【かい】を怠【おこた】らなかった。",
+    "meaning": "The soldiers remained vigilant even at night."
+  },
+  {
+    "sentence": "兵士が負傷した。",
+    "sentence_furigana": "兵【へい】士【し】が負【ふ】傷【しょう】した。",
+    "meaning": "A soldier was wounded."
+  },
+  {
+    "sentence": "兵力は増強される見込みだ。",
+    "sentence_furigana": "兵【へい】力【りょく】は増【ぞう】強【きょう】される見【み】込【こ】みだ。",
+    "meaning": "The troop strength is expected to increase."
+  },
+  {
+    "sentence": "兵士は休息を取った。",
+    "sentence_furigana": "兵【へい】士【し】は休【きゅう】息【そく】を摂【と】った。",
+    "meaning": "The soldiers took a rest."
+  },
+  {
+    "sentence": "この戦略は兵士の命を救った。",
+    "sentence_furigana": "この戦【せん】略【りゃく】は兵【へい】士【し】の命【いのち】を救【すく】った。",
+    "meaning": "This strategy saved the soldiers' lives."
+  },
+  {
+    "sentence": "兵器は近代化されている。",
+    "sentence_furigana": "兵【へい】器【き】は近【きん】代【だい】化【か】されている。",
+    "meaning": "The weapons are being modernized."
+  },
+  {
+    "sentence": "兵士は勇気を持って戦った。",
+    "sentence_furigana": "兵【へい】士【し】は勇【ゆう】気【き】を持【も】って戦【たたか】った。",
+    "meaning": "The soldiers fought with courage."
+  },
+  {
+    "sentence": "彼は兵士としての義務を果たした。",
+    "sentence_furigana": "彼【かれ】は兵【へい】士【し】としての義【ぎ】務【む】を果【は】たした。",
+    "meaning": "He fulfilled his duty as a soldier."
+  },
+  {
+    "sentence": "兵站物資が到着した。",
+    "sentence_furigana": "兵【へい】站【たん】物【ぶっ】資【し】が到【とう】着【ちゃく】した。",
+    "meaning": "The logistical supplies arrived."
+  },
+  {
+    "sentence": "兵士の数は多かった。",
+    "sentence_furigana": "兵【へい】士【し】の数【かず】は多【おお】かった。",
+    "meaning": "The number of soldiers was large."
+  },
+  {
+    "sentence": "兵器の展示会が開かれた。",
+    "sentence_furigana": "兵【へい】器【き】の展【てん】示【じ】会【かい】が開【ひら】かれた。",
+    "meaning": "A weapons exhibition was held."
+  },
+  {
+    "sentence": "兵士は前進を続けた。",
+    "sentence_furigana": "兵【へい】士【し】は前【ぜん】進【しん】を続【つづ】けた。",
+    "meaning": "The soldiers continued to advance."
+  },
+  {
+    "sentence": "兵の練度が高い。",
+    "sentence_furigana": "兵【へい】の練【れん】度【ど】が高【たか】い。",
+    "meaning": "The soldiers are highly trained."
+  },
+  {
+    "sentence": "兵士は敵兵を捕虜にした。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】兵【へい】を捕【ほ】虜【りょ】にした。",
+    "meaning": "The soldier captured enemy soldiers."
+  },
+  {
+    "sentence": "兵隊は宿営地に戻った。",
+    "sentence_furigana": "兵【へい】隊【たい】は宿【しゅく】営【えい】地【ち】に戻【もど】った。",
+    "meaning": "The troops returned to their camp."
+  },
+  {
+    "sentence": "兵士の待遇改善が求められている。",
+    "sentence_furigana": "兵【へい】士【し】の待【たい】遇【ぐう】改【かい】善【ぜん】が求【もと】められている。",
+    "meaning": "Improvement in the treatment of soldiers is required."
+  },
+  {
+    "sentence": "兵器の密輸が問題になっている。",
+    "sentence_furigana": "兵【へい】器【き】の密【みっ】輸【ゆ】が問【もん】題【だい】になっている。",
+    "meaning": "The smuggling of weapons has become a problem."
+  },
+  {
+    "sentence": "兵士は休息中に攻撃を受けた。",
+    "sentence_furigana": "兵【へい】士【し】は休【きゅう】息【そく】中【ちゅう】に攻【こう】撃【げき】を受【う】けた。",
+    "meaning": "The soldiers were attacked during their rest."
+  },
+  {
+    "sentence": "兵士の数は十分だった。",
+    "sentence_furigana": "兵【へい】士【し】の数【かず】は十【じゅう】分【ぶん】だった。",
+    "meaning": "The number of soldiers was sufficient."
+  },
+  {
+    "sentence": "兵站の確保が重要だ。",
+    "sentence_furigana": "兵【へい】站【たん】の確【かく】保【ほ】が重【じゅう】要【よう】だ。",
+    "meaning": "Securing supplies is important."
+  },
+  {
+    "sentence": "兵士は厳しい訓練を受けた。",
+    "sentence_furigana": "兵【へい】士【し】は厳【きび】しい訓【くん】練【れん】を受【う】けた。",
+    "meaning": "The soldiers underwent rigorous training."
+  },
+  {
+    "sentence": "兵士は配置転換された。",
+    "sentence_furigana": "兵【へい】士【し】は配【はい】置【ち】転【てん】換【かん】された。",
+    "meaning": "The soldiers were reassigned."
+  },
+  {
+    "sentence": "兵器は安全に保管されている。",
+    "sentence_furigana": "兵【へい】器【き】は安【あん】全【ぜん】に保【ほ】管【かん】されている。",
+    "meaning": "The weapons are stored safely."
+  },
+  {
+    "sentence": "兵士の忠誠心は揺るがなかった。",
+    "sentence_furigana": "兵【へい】士【し】の忠【ちゅう】誠【せい】心【しん】は揺【ゆる】がなかった。",
+    "meaning": "The soldiers' loyalty did not waver."
+  },
+  {
+    "sentence": "兵士は陣地を構築した。",
+    "sentence_furigana": "兵【へい】士【し】は陣【じん】地【ち】を構【こう】築【ちく】した。",
+    "meaning": "The soldiers built fortifications."
+  },
+  {
+    "sentence": "兵士たちは疲労していた。",
+    "sentence_furigana": "兵【へい】士【し】たちは疲【ひ】労【ろう】していた。",
+    "meaning": "The soldiers were exhausted."
+  },
+  {
+    "sentence": "兵士は敵の襲撃に備えた。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の襲【しゅう】撃【げき】に備【そな】えた。",
+    "meaning": "The soldiers prepared for the enemy attack."
+  },
+  {
+    "sentence": "兵隊は行進を停止した。",
+    "sentence_furigana": "兵【へい】隊【たい】は行【こう】進【しん】を停【てい】止【し】した。",
+    "meaning": "The troops stopped marching."
+  },
+  {
+    "sentence": "兵士は戦場で名誉を称えられた。",
+    "sentence_furigana": "兵【へい】士【し】は戦【せん】場【じょう】で名【めい】誉【よ】を称【たた】えられた。",
+    "meaning": "The soldier was honored on the battlefield."
+  },
+  {
+    "sentence": "兵士は味方に合図を送った。",
+    "sentence_furigana": "兵【へい】士【し】は味【み】方【がた】に合【あい】図【ず】を送【おく】った。",
+    "meaning": "The soldier signaled to his comrades."
+  },
+  {
+    "sentence": "兵士は偵察任務を遂行した。",
+    "sentence_furigana": "兵【へい】士【し】は偵【てい】察【さつ】任【にん】務【む】を遂【すい】行【こう】した。",
+    "meaning": "The soldier carried out a reconnaissance mission."
+  },
+  {
+    "sentence": "兵士は寒さの中で待機していた。",
+    "sentence_furigana": "兵【へい】士【し】は寒【さむ】さの中【なか】で待【たい】機【き】していた。",
+    "meaning": "The soldiers were waiting in the cold."
+  },
+  {
+    "sentence": "兵士は敵の武器を発見した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の武【ぶ】器【き】を発【はっ】見【けん】した。",
+    "meaning": "The soldier discovered enemy weapons."
+  },
+  {
+    "sentence": "兵士は上官の指示を待っていた。",
+    "sentence_furigana": "兵【へい】士【し】は上【じょう】官【かん】の指【し】示【じ】を待【ま】っていた。",
+    "meaning": "The soldier was waiting for orders from his superior."
+  },
+  {
+    "sentence": "兵士は疲労のため交代した。",
+    "sentence_furigana": "兵【へい】士【し】は疲【ひ】労【ろう】のため交【こう】代【たい】した。",
+    "meaning": "The soldier was replaced due to fatigue."
+  },
+  {
+    "sentence": "兵士は緊急事態に備えていた。",
+    "sentence_furigana": "兵【へい】士【し】は緊【きん】急【きゅう】事【じ】態【たい】に備【そな】えていた。",
+    "meaning": "The soldier was prepared for the emergency."
+  },
+  {
+    "sentence": "兵士は仲間の死を悼んだ。",
+    "sentence_furigana": "兵【へい】士【し】は仲【なか】間【ま】の死【し】を悼【いた】んだ。",
+    "meaning": "The soldier mourned the death of his comrade."
+  },
+  {
+    "sentence": "兵士は敵の包囲を突破した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の包【ほう】囲【い】を突【とっ】破【ぱ】した。",
+    "meaning": "The soldier broke through the enemy's encirclement."
+  },
+  {
+    "sentence": "兵士は基地に帰還した。",
+    "sentence_furigana": "兵【へい】士【し】は基【き】地【ち】に帰【き】還【かん】した。",
+    "meaning": "The soldier returned to the base."
+  },
+  {
+    "sentence": "兵士は戦場での経験を語った。",
+    "sentence_furigana": "兵【へい】士【し】は戦【せん】場【じょう】での経【けい】験【けん】を語【かた】った。",
+    "meaning": "The soldier recounted his battlefield experience."
+  },
+  {
+    "sentence": "兵士は勲章を授与された。",
+    "sentence_furigana": "兵【へい】士【し】は勲【くん】章【しょう】を授【じゅ】与【よ】された。",
+    "meaning": "The soldier was awarded a medal."
+  },
+  {
+    "sentence": "兵士は作戦計画を練った。",
+    "sentence_furigana": "兵【へい】士【し】は作【さく】戦【せん】計【けい】画【かく】を練【ね】った。",
+    "meaning": "The soldier devised an operation plan."
+  },
+  {
+    "sentence": "兵士は負傷者を後方に運んだ。",
+    "sentence_furigana": "兵【へい】士【し】は負【ふ】傷【しょう】者【しゃ】を後【こう】方【ほう】に運【はこ】んだ。",
+    "meaning": "The soldier carried the wounded to the rear."
+  },
+  {
+    "sentence": "兵士は秘密裏に任務を遂行した。",
+    "sentence_furigana": "兵【へい】士【し】は秘【ひ】密【みつ】裏【り】に任【にん】務【む】を遂【すい】行【こう】した。",
+    "meaning": "The soldier carried out the mission in secret."
+  },
+  {
+    "sentence": "兵士は敵の通信を傍受した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の通【つう】信【しん】を傍【ぼう】受【じゅ】した。",
+    "meaning": "The soldier intercepted enemy communications."
+  },
+  {
+    "sentence": "兵士は基地の警備にあたった。",
+    "sentence_furigana": "兵【へい】士【し】は基【き】地【ち】の警【けい】備【び】にあたった。",
+    "meaning": "The soldier guarded the base."
+  },
+  {
+    "sentence": "兵士は家族に手紙を書いた。",
+    "sentence_furigana": "兵【へい】士【し】は家【か】族【ぞく】に手【て】紙【がみ】を書【か】いた。",
+    "meaning": "The soldier wrote a letter to his family."
+  },
+  {
+    "sentence": "兵士は敵の攻撃を撃退した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の攻【こう】撃【げき】を撃【げき】退【たい】した。",
+    "meaning": "The soldier repelled the enemy attack."
+  },
+  {
+    "sentence": "兵士は命令を待たずに進んだ。",
+    "sentence_furigana": "兵【へい】士【し】は命【めい】令【れい】を待【ま】たずに進【すす】んだ。",
+    "meaning": "The soldier advanced without waiting for orders."
+  },
+  {
+    "sentence": "兵士は戦術的な優位性を確保した。",
+    "sentence_furigana": "兵【へい】士【し】は戦【せん】術【じゅつ】的【てき】な優【ゆう】位【い】性【せい】を確【かく】保【ほ】した。",
+    "meaning": "The soldier secured tactical superiority."
+  },
+  {
+    "sentence": "兵士は厳しい寒さにも耐えた。",
+    "sentence_furigana": "兵【へい】士【し】は厳【きび】しい寒【さむ】さにも耐【た】えた。",
+    "meaning": "The soldier endured the severe cold."
+  },
+  {
+    "sentence": "兵士は援軍を要請した。",
+    "sentence_furigana": "兵【へい】士【し】は援【えん】軍【ぐん】を要【よう】請【せい】した。",
+    "meaning": "The soldier requested reinforcements."
+  },
+  {
+    "sentence": "兵士は敵の陣地を占領した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の陣【じん】地【ち】を占【せん】領【りょう】した。",
+    "meaning": "The soldier captured the enemy's position."
+  },
+  {
+    "sentence": "兵士は休息する間もなく戦い続けた。",
+    "sentence_furigana": "兵【へい】士【し】は休【きゅう】息【そく】する間【ま】もなく戦【たたか】い続【つづ】けた。",
+    "meaning": "The soldiers continued fighting without rest."
+  },
+  {
+    "sentence": "兵士は敵兵の投降を受け入れた。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】兵【へい】の投【とう】降【こう】を受【う】け入【い】れた。",
+    "meaning": "The soldier accepted the surrender of the enemy soldiers."
+  },
+  {
+    "sentence": "兵士は仲間を助けるために進んだ。",
+    "sentence_furigana": "兵【へい】士【し】は仲【なか】間【ま】を助【たす】けるために進【すす】んだ。",
+    "meaning": "The soldier advanced to help his comrades."
+  },
+  {
+    "sentence": "兵士は敵の増援を阻止した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の増【ぞう】援【えん】を阻【そ】止【し】した。",
+    "meaning": "The soldier prevented enemy reinforcements."
+  },
+  {
+    "sentence": "兵士は戦術的な撤退を行った。",
+    "sentence_furigana": "兵【へい】士【し】は戦【せん】術【じゅつ】的【てき】な撤【てっ】退【たい】を行【おこな】った。",
+    "meaning": "The soldier made a tactical retreat."
+  },
+  {
+    "sentence": "兵士は仲間からの連絡を待っていた。",
+    "sentence_furigana": "兵【へい】士【し】は仲【なか】間【ま】からの連【れん】絡【らく】を待【ま】っていた。",
+    "meaning": "The soldier was waiting for contact from his comrades."
+  },
+  {
+    "sentence": "兵士は攻撃目標を特定した。",
+    "sentence_furigana": "兵【へい】士【し】は攻【こう】撃【げき】目【もく】標【ひょう】を特【とく】定【てい】した。",
+    "meaning": "The soldier identified the attack target."
+  },
+  {
+    "sentence": "兵士は暗闇の中で前進した。",
+    "sentence_furigana": "兵【へい】士【し】は暗【くら】闇【やみ】の中【なか】で前【ぜん】進【しん】した。",
+    "meaning": "The soldier advanced in the darkness."
+  },
+  {
+    "sentence": "兵士は戦術を駆使して敵を撃破した。",
+    "sentence_furigana": "兵【へい】士【し】は戦【せん】術【じゅつ】を駆【く】使【し】して敵【てき】を撃【げき】破【は】した。",
+    "meaning": "The soldier defeated the enemy using tactics."
+  },
+  {
+    "sentence": "兵士は敵の攻撃に備えるために陣地を強化した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の攻【こう】撃【げき】に備【そな】えるために陣【じん】地【ち】を強【きょう】化【か】した。",
+    "meaning": "The soldiers reinforced their positions to prepare for the enemy attack."
+  },
+  {
+    "sentence": "兵士は味方の支援を受けて進撃した。",
+    "sentence_furigana": "兵【へい】士【し】は味【み】方【がた】の支【し】援【えん】を受【う】けて進【しん】撃【げき】した。",
+    "meaning": "The soldiers advanced with the support of their comrades."
+  },
+  {
+    "sentence": "兵士は敵の弱点を見抜いた。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の弱【じゃく】点【てん】を見【み】抜【ぬ】いた。",
+    "meaning": "The soldier saw through the enemy's weakness."
+  },
+  {
+    "sentence": "兵士は有利な地形を占拠した。",
+    "sentence_furigana": "兵【へい】士【し】は有【ゆう】利【り】な地【ち】形【けい】を占【せん】拠【きょ】した。",
+    "meaning": "The soldier occupied advantageous terrain."
+  },
+  {
+    "sentence": "兵士は敵の偽装を見破った。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の偽【ぎ】装【そう】を見【み】破【やぶ】った。",
+    "meaning": "The soldier saw through the enemy's camouflage."
+  },
+  {
+    "sentence": "兵士は巧みな戦術で敵を欺いた。",
+    "sentence_furigana": "兵【へい】士【し】は巧【こう】みは戦【せん】術【じゅつ】で敵【てき】を欺【あざむ】いた。",
+    "meaning": "The soldier deceived the enemy with clever tactics."
+  },
+  {
+    "sentence": "兵士は決死の覚悟で戦った。",
+    "sentence_furigana": "兵【へい】士【し】は決【けつ】死【し】の覚【かく】悟【ご】で戦【たたか】った。",
+    "meaning": "The soldier fought with a resolve to die."
+  },
+  {
+    "sentence": "兵士は包囲網を突破する決断を下した。",
+    "sentence_furigana": "兵【へい】士【し】は包【ほう】囲【い】網【もう】を突【とっ】破【ぱ】する決【けつ】断【だん】を下【くだ】した。",
+    "meaning": "The soldier decided to break through the encirclement."
+  },
+  {
+    "sentence": "兵士は敵の心理攻撃に屈しなかった。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の心【しん】理【り】攻【こう】撃【げき】に屈【くっ】しなかった。",
+    "meaning": "The soldier did not yield to the enemy's psychological warfare."
+  },
+  {
+    "sentence": "兵士は敵の補給線を断った。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の補【ほ】給【きゅう】線【せん】を断【た】った。",
+    "meaning": "The soldier cut off the enemy's supply lines."
+  },
+  {
+    "sentence": "兵士は敵の罠を回避した。",
+    "sentence_furigana": "兵【へい】士【し】は敵【てき】の罠【わな】を回【かい】避【ひ】した。",
+    "meaning": "The soldier avoided the enemy's trap."
+  },
+  {
+    "sentence": "兵士は情報戦を制した。",
+    "sentence_furigana": "兵【へい】士【し】は情【じょう】報【ほう】戦【せん】を制【せい】した。",
+    "meaning": "The soldier won the information war."
+  },
+  {
+    "sentence": "兵士は奇襲攻撃を計画した。",
+    "sentence_furigana": "兵【へい】士【し】は奇【き】襲【しゅう】攻【こう】撃【げき】を計【けい】画【かく】した。",
+    "meaning": "The soldier planned a surprise attack."
+  },
+  {
+    "sentence": "兵士は撤退する敵を追撃した。",
+    "sentence_furigana": "兵【へい】士【し】は撤【てっ】退【たい】する敵【てき】を追【つい】撃【げき】した。",
+    "meaning": "The soldier pursued the retreating enemy."
+  }
+]

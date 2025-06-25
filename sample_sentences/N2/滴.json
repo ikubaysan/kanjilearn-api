@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "雨がポツポツと滴っていた。",
+    "sentence_furigana": "雨【あめ】がポツポツと滴【たれ】っていた。",
+    "meaning": "The rain was dripping sporadically."
+  },
+  {
+    "sentence": "机の上にインクの滴が落ちた。",
+    "sentence_furigana": "机【つくえ】の上【うえ】にインクの滴【しずく】が落【お】ちた。",
+    "meaning": "A drop of ink fell on the desk."
+  },
+  {
+    "sentence": "彼の汗が滴り落ちていた。",
+    "sentence_furigana": "彼【かれ】の汗【あせ】が滴【したた】り落【お】ちていた。",
+    "meaning": "His sweat was dripping down."
+  },
+  {
+    "sentence": "水滴が窓ガラスを伝って流れた。",
+    "sentence_furigana": "水滴【すいてき】が窓【まど】ガラスを伝【つた】って流【なが】れた。",
+    "meaning": "Water droplets ran down the window pane."
+  },
+  {
+    "sentence": "この薬は一滴も無駄にしてはいけない。",
+    "sentence_furigana": "この薬【くすり】は一滴【いってき】も無駄【むだ】にしてはいけない。",
+    "meaning": "We must not waste a single drop of this medicine."
+  },
+  {
+    "sentence": "喉が渇いて、唾液を一滴も感じなかった。",
+    "sentence_furigana": "喉【のど】が渇【かわ】いて、唾液【だえき】を一滴【いってき】も感【かん】じなかった。",
+    "meaning": "My throat was so dry I didn't feel a single drop of saliva."
+  },
+  {
+    "sentence": "真珠のような汗が彼女の額から滴った。",
+    "sentence_furigana": "真珠【しんじゅ】のような汗【あせ】が彼女【かのじょ】の額【ひたい】から滴【したた】った。",
+    "meaning": "Pearls of sweat dripped from her forehead."
+  },
+  {
+    "sentence": "醤油が一滴垂れた。",
+    "sentence_furigana": "醤油【しょうゆ】が一滴【いってき】垂【た】れた。",
+    "meaning": "A drop of soy sauce was spilled."
+  },
+  {
+    "sentence": "彼の声は喜びの滴で満ちていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】は喜【よろこ】びの滴【しずく】で満【み】ちていた。",
+    "meaning": "His voice was filled with drops of joy."
+  },
+  {
+    "sentence": "蛇口から水が滴り落ちている。",
+    "sentence_furigana": "蛇口【じゃぐち】から水【みず】が滴【したた】り落【お】ちている。",
+    "meaning": "Water is dripping from the faucet."
+  },
+  {
+    "sentence": "コーヒーが一滴も残っていなかった。",
+    "sentence_furigana": "コーヒーが一滴【いってき】も残【のこ】っていなかった。",
+    "meaning": "There wasn't a drop of coffee left."
+  },
+  {
+    "sentence": "その絵は悲しみの滴で濡れていた。",
+    "sentence_furigana": "その絵【え】は悲【かな】しみの滴【しずく】で濡【ぬ】れていた。",
+    "meaning": "The painting was wet with drops of sadness."
+  },
+  {
+    "sentence": "天井から水が滴ってくる。",
+    "sentence_furigana": "天井【てんじょう】から水【みず】が滴【したた】ってくる。",
+    "meaning": "Water is dripping from the ceiling."
+  },
+  {
+    "sentence": "指先から血の滴が落ちた。",
+    "sentence_furigana": "指先【ゆびさき】から血【ち】の滴【しずく】が落【お】ちた。",
+    "meaning": "A drop of blood fell from his fingertip."
+  },
+  {
+    "sentence": "彼は一滴の汗も流さなかった。",
+    "sentence_furigana": "彼【かれ】は一滴【いってき】の汗【あせ】も流【なが】さなかった。",
+    "meaning": "He didn't shed a single drop of sweat."
+  },
+  {
+    "sentence": "雨粒が地面に滴っていた。",
+    "sentence_furigana": "雨粒【あまつぶ】が地面【じめん】に滴【したた】っていた。",
+    "meaning": "Raindrops were dripping onto the ground."
+  },
+  {
+    "sentence": "花びらに露の滴が光っていた。",
+    "sentence_furigana": "花びら【はなびら】に露【つゆ】の滴【しずく】が光【ひか】っていた。",
+    "meaning": "Dewdrops sparkled on the petals."
+  },
+  {
+    "sentence": "彼は涙の滴を拭った。",
+    "sentence_furigana": "彼【かれ】は涙【なみだ】の滴【しずく】を拭【ぬぐ】った。",
+    "meaning": "He wiped away a tear."
+  },
+  {
+    "sentence": "インクが紙の上に滴った。",
+    "sentence_furigana": "インクが紙【かみ】の上【うえ】に滴【たれ】った。",
+    "meaning": "Ink dripped onto the paper."
+  },
+  {
+    "sentence": "このワインは芳醇な香りの滴を含んでいる。",
+    "sentence_furigana": "このワインは芳醇【ほうじゅん】な香【かお】りの滴【しずく】を含【ふく】んでいる。",
+    "meaning": "This wine contains drops of rich aroma."
+  },
+  {
+    "sentence": "冷たい水が一滴ずつ落ちてくる。",
+    "sentence_furigana": "冷【つめ】たい水【みず】が一滴【いってき】ずつ落【お】ちてくる。",
+    "meaning": "Cold water is dropping one drop at a time."
+  },
+  {
+    "sentence": "窓の外は雨で、水滴が窓を覆っていた。",
+    "sentence_furigana": "窓【まど】の外【そと】は雨【あめ】で、水滴【すいてき】が窓【まど】を覆【おお】っていた。",
+    "meaning": "It was raining outside, and water droplets covered the window."
+  },
+  {
+    "sentence": "彼の額から汗が滴り落ちていた。",
+    "sentence_furigana": "彼【かれ】の額【ひたい】から汗【あせ】が滴【したた】り落【お】ちていた。",
+    "meaning": "Sweat was dripping from his forehead."
+  },
+  {
+    "sentence": "彼女は感謝の滴を口にした。",
+    "sentence_furigana": "彼女【かのじょ】は感謝【かんしゃ】の滴【しずく】を口【くち】にした。",
+    "meaning": "She expressed drops of gratitude."
+  },
+  {
+    "sentence": "蜂蜜が一滴喉に落ちた。",
+    "sentence_furigana": "蜂蜜【はちみつ】が一滴【いってき】喉【のど】に落【お】ちた。",
+    "meaning": "A drop of honey fell into his throat."
+  },
+  {
+    "sentence": "ビールの泡が一滴ずつ消えていった。",
+    "sentence_furigana": "ビールの泡【あわ】が一滴【いってき】ずつ消【き】えていった。",
+    "meaning": "The beer foam disappeared drop by drop."
+  },
+  {
+    "sentence": "雨の滴が葉っぱの上で輝いていた。",
+    "sentence_furigana": "雨【あめ】の滴【しずく】が葉っぱの上【うえ】で輝【かがや】いていた。",
+    "meaning": "Raindrops glistened on the leaves."
+  },
+  {
+    "sentence": "彼の言葉は慰めの滴だった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は慰【なぐさ】めの滴【しずく】だった。",
+    "meaning": "His words were drops of comfort."
+  },
+  {
+    "sentence": "蛇口から止まることなく水が滴っている。",
+    "sentence_furigana": "蛇口【じゃぐち】から止【と】まることなく水【みず】が滴【したた】っている。",
+    "meaning": "Water is dripping continuously from the faucet."
+  },
+  {
+    "sentence": "絵の具が一滴床に落ちた。",
+    "sentence_furigana": "絵【え】の具【ぐ】が一滴【いってき】床【ゆか】に落【お】ちた。",
+    "meaning": "A drop of paint fell on the floor."
+  },
+  {
+    "sentence": "彼の目に希望の滴が見えた。",
+    "sentence_furigana": "彼【かれ】の目【め】に希望【きぼう】の滴【しずく】が見【み】えた。",
+    "meaning": "I saw drops of hope in his eyes."
+  },
+  {
+    "sentence": "冷却水が一滴ずつ蒸発していた。",
+    "sentence_furigana": "冷却水【れいきゃくすい】が一滴【いってき】ずつ蒸発【じょうはつ】していた。",
+    "meaning": "The cooling water was evaporating drop by drop."
+  },
+  {
+    "sentence": "雨音が静かに滴っていた。",
+    "sentence_furigana": "雨音【あまおと】が静【しず】かに滴【したた】っていた。",
+    "meaning": "The sound of rain was softly dripping."
+  },
+  {
+    "sentence": "彼女の瞳から涙の滴がこぼれた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】から涙【なみだ】の滴【しずく】がこぼれた。",
+    "meaning": "Drops of tears spilled from her eyes."
+  },
+  {
+    "sentence": "ワインの滴がテーブルクロスに染みた。",
+    "sentence_furigana": "ワインの滴【しずく】がテーブルクロスに染【し】みた。",
+    "meaning": "Drops of wine stained the tablecloth."
+  },
+  {
+    "sentence": "彼は満足の一滴も感じなかった。",
+    "sentence_furigana": "彼【かれ】は満足【まんぞく】の一滴【いってき】も感【かん】じなかった。",
+    "meaning": "He didn't feel a single drop of satisfaction."
+  },
+  {
+    "sentence": "点滴で栄養を補給している。",
+    "sentence_furigana": "点滴【てんてき】で栄養【えいよう】を補給【ほきゅう】している。",
+    "meaning": "He is supplementing nutrition with an IV drip."
+  },
+  {
+    "sentence": "水滴が床に落ちてシミになった。",
+    "sentence_furigana": "水滴【すいてき】が床【ゆか】に落【お】ちてシミになった。",
+    "meaning": "Water droplets fell on the floor and made a stain."
+  },
+  {
+    "sentence": "彼女の息子の顔には汗の滴が光っていた。",
+    "sentence_furigana": "彼女【かのじょ】の息子【むすこ】の顔【かお】には汗【あせ】の滴【しずく】が光【ひか】っていた。",
+    "meaning": "Drops of sweat glistened on her son's face."
+  },
+  {
+    "sentence": "この香水は数滴で十分です。",
+    "sentence_furigana": "この香水【こうすい】は数滴【すうてき】で十分【じゅうぶん】です。",
+    "meaning": "A few drops of this perfume are enough."
+  },
+  {
+    "sentence": "夜露が一滴ずつ葉の上に溜まっていた。",
+    "sentence_furigana": "夜露【よつゆ】が一滴【いってき】ずつ葉【は】の上【うえ】に溜【た】まっていた。",
+    "meaning": "Night dew was gathering drop by drop on the leaves."
+  },
+  {
+    "sentence": "彼の言葉は希望の滴のように響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は希望【きぼう】の滴【しずく】のように響【ひび】いた。",
+    "meaning": "His words echoed like drops of hope."
+  },
+  {
+    "sentence": "水道管から絶えず水が滴っていた。",
+    "sentence_furigana": "水道管【すいどうかん】から絶【た】えず水【みず】が滴【したた】っていた。",
+    "meaning": "Water was constantly dripping from the water pipe."
+  },
+  {
+    "sentence": "オイルが一滴、機械に落ちた。",
+    "sentence_furigana": "オイルが一滴【いってき】、機械【きかい】に落【お】ちた。",
+    "meaning": "A drop of oil fell onto the machine."
+  },
+  {
+    "sentence": "彼の額には緊張の滴が浮かんでいた。",
+    "sentence_furigana": "彼【かれ】の額【ひたい】には緊張【きんちょう】の滴【しずく】が浮【う】かんでいた。",
+    "meaning": "Drops of tension were visible on his forehead."
+  },
+  {
+    "sentence": "この注射は一滴ずつゆっくりと投与されます。",
+    "sentence_furigana": "この注射【ちゅうしゃ】は一滴【いってき】ずつゆっくりと投与【とうよ】されます。",
+    "meaning": "This injection is administered drop by drop slowly."
+  },
+  {
+    "sentence": "窓ガラスに水滴の模様ができていた。",
+    "sentence_furigana": "窓【まど】ガラスに水滴【すいてき】の模様【もよう】ができいた。",
+    "meaning": "Patterns of water droplets had formed on the window glass."
+  },
+  {
+    "sentence": "彼女の髪から香水の滴が漂っていた。",
+    "sentence_furigana": "彼女【かのじょ】の髪【かみ】から香水【こうすい】の滴【しずく】が漂【ただよ】っていた。",
+    "meaning": "Drops of perfume wafted from her hair."
+  },
+  {
+    "sentence": "この料理は愛情の滴で作られています。",
+    "sentence_furigana": "この料理【りょうり】は愛情【あいじょう】の滴【しずく】で作【つく】られています。",
+    "meaning": "This dish is made with drops of love."
+  },
+  {
+    "sentence": "一滴の油が鍋から落ちた。",
+    "sentence_furigana": "一滴【いってき】の油【あぶら】が鍋【なべ】から落【お】ちた。",
+    "meaning": "A drop of oil fell from the pan."
+  },
+  {
+    "sentence": "彼の声には不安の滴が混じっていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】には不安【ふあん】の滴【しずく】が混【ま】じっていた。",
+    "meaning": "Drops of anxiety were mixed in his voice."
+  },
+  {
+    "sentence": "点滴バッグが空になった。",
+    "sentence_furigana": "点滴【てんてき】バッグが空【から】になった。",
+    "meaning": "The IV drip bag became empty."
+  },
+  {
+    "sentence": "滝の水滴がキラキラと輝いていた。",
+    "sentence_furigana": "滝【たき】の水滴【すいてき】がキラキラと輝【かがや】いていた。",
+    "meaning": "The water droplets of the waterfall were sparkling."
+  },
+  {
+    "sentence": "彼の話にはユーモアの滴が含まれていた。",
+    "sentence_furigana": "彼【かれ】の話【はなし】にはユーモアの滴【しずく】が含ま【ふくま】れていた。",
+    "meaning": "His story contained drops of humor."
+  },
+  {
+    "sentence": "天井から水が滴り落ちる音が聞こえた。",
+    "sentence_furigana": "天井【てんじょう】から水【みず】が滴【したた】り落【お】ちる音【おと】が聞【き】こえた。",
+    "meaning": "The sound of water dripping from the ceiling could be heard."
+  },
+  {
+    "sentence": "彼女の瞳は悲しみの滴で潤んでいた。",
+    "sentence_furigana": "彼女【かのじょ】の瞳【ひとみ】は悲【かな】しみの滴【しずく】で潤【うるお】っていた。",
+    "meaning": "Her eyes were moist with drops of sadness."
+  },
+  {
+    "sentence": "このスープは出汁の滴が凝縮されている。",
+    "sentence_furigana": "このスープは出汁【だし】の滴【しずく】が凝縮【ぎょうしゅく】されている。",
+    "meaning": "This soup is concentrated with drops of broth."
+  },
+  {
+    "sentence": "彼の言葉には皮肉の滴が感じられた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には皮肉【ひにく】の滴【しずく】が感【かん】じられた。",
+    "meaning": "Drops of sarcasm were felt in his words."
+  },
+  {
+    "sentence": "雨が一滴、窓ガラスを叩いた。",
+    "sentence_furigana": "雨【あめ】が一滴【いってき】、窓【まど】ガラスを叩【たた】いた。",
+    "meaning": "A drop of rain hit the window pane."
+  },
+  {
+    "sentence": "その光は希望の滴のように見えた。",
+    "sentence_furigana": "その光【ひかり】は希望【きぼう】の滴【しずく】のように見【み】えた。",
+    "meaning": "The light looked like drops of hope."
+  },
+  {
+    "sentence": "彼の汗が地面に滴っていた。",
+    "sentence_furigana": "彼【かれ】の汗【あせ】が地面【じめん】に滴【したた】っていた。",
+    "meaning": "His sweat was dripping onto the ground."
+  },
+  {
+    "sentence": "このインクは一滴でも強く発色する。",
+    "sentence_furigana": "このインクは一滴【いってき】でも強【つよ】く発色【はっしょく】する。",
+    "meaning": "This ink develops strong color even with a single drop."
+  },
+  {
+    "sentence": "彼女の歌声は魂の滴が宿っていた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は魂【たましい】の滴【しずく】が宿【やど】っていた。",
+    "meaning": "Her singing voice held drops of soul."
+  },
+  {
+    "sentence": "水滴が氷柱から滴り落ちていた。",
+    "sentence_furigana": "水滴【すいてき】が氷柱【つらら】から滴【したた】り落【お】ちていた。",
+    "meaning": "Water droplets were dripping from the icicle."
+  },
+  {
+    "sentence": "この紅茶は深い味わいの滴を含んでいる。",
+    "sentence_furigana": "この紅茶【こうちゃ】は深【ふか】い味【あじ】わいの滴【しずく】を含【ふく】んでいる。",
+    "meaning": "This black tea contains drops of deep flavor."
+  },
+  {
+    "sentence": "彼の目は疲労の滴で赤くなっていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は疲労【ひろう】の滴【しずく】で赤【あか】くなっていた。",
+    "meaning": "His eyes were red with drops of fatigue."
+  },
+  {
+    "sentence": "一滴の血が彼の白いシャツについた。",
+    "sentence_furigana": "一滴【いってき】の血【ち】が彼【かれ】の白【しろ】いシャツについた。",
+    "meaning": "A drop of blood got on his white shirt."
+  },
+  {
+    "sentence": "彼女の声は慰めの滴のように聞こえた。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】は慰【なぐさ】めの滴【しずく】のように聞【き】こえた。",
+    "meaning": "Her voice sounded like drops of comfort."
+  },
+  {
+    "sentence": "雨の滴が窓ガラスに模様を描いていた。",
+    "sentence_furigana": "雨【あめ】の滴【しずく】が窓【まど】ガラスに模様【もよう】を描【えが】いていた。",
+    "meaning": "Raindrops drew patterns on the window glass."
+  },
+  {
+    "sentence": "彼の作品には情熱の滴が込められている。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】には情熱【じょうねつ】の滴【しずく】が込【こ】められている。",
+    "meaning": "His work is imbued with drops of passion."
+  },
+  {
+    "sentence": "水道から絶えず水滴が落ちていた。",
+    "sentence_furigana": "水道【すいどう】から絶【た】えず水滴【すいてき】が落【お】ちていた。",
+    "meaning": "Water droplets were constantly falling from the tap."
+  },
+  {
+    "sentence": "そのニュースは驚きの滴をもたらした。",
+    "sentence_furigana": "そのニュースは驚【おどろ】きの滴【しずく】をもたらした。",
+    "meaning": "The news brought drops of surprise."
+  },
+  {
+    "sentence": "彼女は一滴も水を無駄にしなかった。",
+    "sentence_furigana": "彼女【かのじょ】は一滴【いってき】も水【みず】を無駄【むだ】にしなかった。",
+    "meaning": "She didn't waste a single drop of water."
+  },
+  {
+    "sentence": "彼の目に希望の滴が灯っていた。",
+    "sentence_furigana": "彼【かれ】の目【め】に希望【きぼう】の滴【しずく】が灯【とも】っていた。",
+    "meaning": "Drops of hope were lit in his eyes."
+  },
+  {
+    "sentence": "天井の染みから水滴が滴っていた。",
+    "sentence_furigana": "天井【てんじょう】の染【し】みから水滴【すいてき】が滴【したた】っていた。",
+    "meaning": "Water droplets were dripping from the stain on the ceiling."
+  },
+  {
+    "sentence": "彼の言葉には励ましの滴が含まれていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】には励【はげ】ましの滴【しずく】が含ま【ふくま】れていた。",
+    "meaning": "His words contained drops of encouragement."
+  },
+  {
+    "sentence": "雨の滴が地面に吸い込まれていった。",
+    "sentence_furigana": "雨【あめ】の滴【しずく】が地面【じめん】に吸【す】い込【こ】まれていった。",
+    "meaning": "Raindrops were absorbed into the ground."
+  },
+  {
+    "sentence": "この香りは記憶の滴を呼び覚ます。",
+    "sentence_furigana": "この香【かお】りは記憶【きおく】の滴【しずく】を呼【よ】び覚【さ】ます。",
+    "meaning": "This scent awakens drops of memory."
+  },
+  {
+    "sentence": "彼の額からは止むことなく汗が滴っていた。",
+    "sentence_furigana": "彼【かれ】の額【ひたい】からは止【や】むことなく汗【あせ】が滴【したた】っていた。",
+    "meaning": "Sweat was incessantly dripping from his forehead."
+  },
+  {
+    "sentence": "その宝石は露の滴のように輝いていた。",
+    "sentence_furigana": "その宝石【ほうせき】は露【つゆ】の滴【しずく】のように輝【かがや】いていた。",
+    "meaning": "The jewel shone like a drop of dew."
+  },
+  {
+    "sentence": "彼の声には悲しみの滴が滲んでいた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】には悲【かな】しみの滴【しずく】が滲【にじ】んでいた。",
+    "meaning": "Drops of sadness were seeping into his voice."
+  },
+  {
+    "sentence": "このクリームは潤いの滴が豊富だ。",
+    "sentence_furigana": "このクリームは潤【うるお】いの滴【しずく】が豊富【ほうふ】だ。",
+    "meaning": "This cream is rich with drops of moisture."
+  },
+  {
+    "sentence": "彼の言葉は真実の滴を語っていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は真実【しんじつ】の滴【しずく】を語【かた】っていた。",
+    "meaning": "His words spoke drops of truth."
+  },
+  {
+    "sentence": "雨漏りの跡が一滴ずつ壁に広がっていた。",
+    "sentence_furigana": "雨漏【あまも】りの跡【あと】が一滴【いってき】ずつ壁【かべ】に広【ひろ】がっていた。",
+    "meaning": "Traces of a leak were spreading drop by drop on the wall."
+  },
+  {
+    "sentence": "その光景は感動の滴を呼び起こした。",
+    "sentence_furigana": "その光景【こうけい】は感動【かんどう】の滴【しずく】を呼【よ】び起【お】こした。",
+    "meaning": "The scene evoked drops of emotion."
+  },
+  {
+    "sentence": "彼女の笑顔は喜びの滴に満ちていた。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は喜【よろこ】びの滴【しずく】に満【み】ちていた。",
+    "meaning": "Her smile was full of drops of joy."
+  },
+  {
+    "sentence": "このスープは旨味の滴が凝縮されている。",
+    "sentence_furigana": "このスープは旨味【うまみ】の滴【しずく】が凝縮【ぎょうしゅく】されている。",
+    "meaning": "This soup is concentrated with drops of umami."
+  },
+  {
+    "sentence": "彼の目は安堵の滴で輝いていた。",
+    "sentence_furigana": "彼【かれ】の目【め】は安堵【あんど】の滴【しずく】で輝【かがや】いていた。",
+    "meaning": "His eyes shone with drops of relief."
+  },
+  {
+    "sentence": "一点の曇りもなく、空は澄み渡っていた。",
+    "sentence_furigana": "一点【いってん】の曇【くも】りもなく、空【そら】は澄【す】み渡っていた。",
+    "meaning": "The sky was clear without a single drop of cloudiness."
+  },
+  {
+    "sentence": "彼女の涙は止まることなく滴っていた。",
+    "sentence_furigana": "彼女【かのじょ】の涙【なみだ】は止【や】まることなく滴【したた】っていた。",
+    "meaning": "Her tears were dripping ceaselessly."
+  },
+  {
+    "sentence": "この蜂蜜は濃厚な甘さの滴を含んでいる。",
+    "sentence_furigana": "この蜂蜜【はちみつ】は濃厚【のうこう】な甘【あま】さの滴【しずく】を含【ふく】んでいる。",
+    "meaning": "This honey contains drops of rich sweetness."
+  },
+  {
+    "sentence": "彼の言葉は知恵の滴のように響いた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は知恵【ちえ】の滴【しずく】のように響【ひび】いた。",
+    "meaning": "His words echoed like drops of wisdom."
+  },
+  {
+    "sentence": "雨の滴が静かに庭に落ちていた。",
+    "sentence_furigana": "雨【あめ】の滴【しずく】が静【しず】かに庭【にわ】に落【お】ちていた。",
+    "meaning": "Raindrops were falling quietly in the garden."
+  },
+  {
+    "sentence": "彼の声には優しさの滴が満ちていた。",
+    "sentence_furigana": "彼【かれ】の声【こえ】には優【やさ】しさの滴【しずく】が満【み】ちていた。",
+    "meaning": "His voice was filled with drops of kindness."
+  },
+  {
+    "sentence": "この紅茶は爽やかな香りの滴を含んでいる。",
+    "sentence_furigana": "この紅茶【こうちゃ】は爽【さわ】やかな香【かお】りの滴【しずく】を含【ふく】んでいる。",
+    "meaning": "This black tea contains drops of refreshing aroma."
+  },
+  {
+    "sentence": "彼の額には努力の滴が浮かんでいた。",
+    "sentence_furigana": "彼【かれ】の額【ひたい】には努力【どりょく】の滴【しずく】が浮【う】かんでいた。",
+    "meaning": "Drops of effort were visible on his forehead."
+  }
+]

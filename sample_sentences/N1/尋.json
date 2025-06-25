@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "探偵は事件の真相を尋ねた。",
+    "sentence_furigana": "探偵【たんてい】は事件【じけん】の真相【しんそう】を尋【たず】ねた。",
+    "meaning": "The detective inquired about the truth of the case."
+  },
+  {
+    "sentence": "彼は友人の住所を尋ねている。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の住所【じゅうしょ】を尋【たず】ねている。",
+    "meaning": "He is looking for his friend's address."
+  },
+  {
+    "sentence": "道を聞くために人に尋ねた。",
+    "sentence_furigana": "道【みち】を聞【き】くために人【ひと】に尋【たず】ねた。",
+    "meaning": "I asked someone to inquire about the way."
+  },
+  {
+    "sentence": "彼の考えを尋ねてみよう。",
+    "sentence_furigana": "彼【かれ】の考【かんが】えを尋【たず】ねてみよう。",
+    "meaning": "Let's try to fathom his thoughts."
+  },
+  {
+    "sentence": "失われた宝を探している。",
+    "sentence_furigana": "失【うしな】われた宝【たから】を探【さが】している。",
+    "meaning": "I am looking for the lost treasure."
+  },
+  {
+    "sentence": "彼女は彼の居場所を尋ねた。",
+    "sentence_furigana": "彼女【かのじょ】は彼【かれ】の居場所【いばしょ】を尋【たず】ねた。",
+    "meaning": "She inquired about his whereabouts."
+  },
+  {
+    "sentence": "詳細を尋ねるために電話した。",
+    "sentence_furigana": "詳細【しょうさい】を尋【たず】ねるために電話【でんわ】した。",
+    "meaning": "I called to inquire about the details."
+  },
+  {
+    "sentence": "この件について詳しい情報を尋ねたい。",
+    "sentence_furigana": "この件【けん】について詳【くわ】しい情報【じょうほう】を尋【たず】ねたい。",
+    "meaning": "I want to inquire about detailed information regarding this matter."
+  },
+  {
+    "sentence": "彼の意図を尋ねることは難しい。",
+    "sentence_furigana": "彼【かれ】の意図【いと】を尋【たず】ねることは難【むずか】しい。",
+    "meaning": "It is difficult to fathom his intentions."
+  },
+  {
+    "sentence": "行方不明の子供を探しています。",
+    "sentence_furigana": "行方不明【ゆくえふめい】の子供【こども】を探【さが】しています。",
+    "meaning": "We are looking for the missing child."
+  },
+  {
+    "sentence": "尋ね人広告が出ていた。",
+    "sentence_furigana": "尋【たず】ね人【びと】広告【こうこく】が出【で】ていた。",
+    "meaning": "There was a missing person advertisement."
+  },
+  {
+    "sentence": "問題の原因を探る。",
+    "sentence_furigana": "問題【もんだい】の原因【げんいん】を探【さぐ】る。",
+    "meaning": "To fathom the cause of the problem."
+  },
+  {
+    "sentence": "遠い親戚を探しに出かけた。",
+    "sentence_furigana": "遠【とお】い親戚【しんせき】を探【さが】しに出【で】かけた。",
+    "meaning": "I went out to look for a distant relative."
+  },
+  {
+    "sentence": "彼の本当の気持ちを尋ねたい。",
+    "sentence_furigana": "彼【かれ】の本当【ほんとう】の気持【きも】ちを尋【たず】ねたい。",
+    "meaning": "I want to inquire about his true feelings."
+  },
+  {
+    "sentence": "この情報はどこで尋ねられますか？",
+    "sentence_furigana": "この情報【じょうほう】はどこで尋【たず】ねられますか？",
+    "meaning": "Where can I inquire for this information?"
+  },
+  {
+    "sentence": "彼は答えを尋ねた。",
+    "sentence_furigana": "彼【かれ】は答【こた】えを尋【たず】ねた。",
+    "meaning": "He inquired for the answer."
+  },
+  {
+    "sentence": "失われた過去を探求する。",
+    "sentence_furigana": "失【うしな】われた過去【かこ】を探求【たんきゅう】する。",
+    "meaning": "To seek out the lost past."
+  },
+  {
+    "sentence": "その秘密を尋ねることは禁じられている。",
+    "sentence_furigana": "その秘密【ひみつ】を尋【たず】ねることは禁【きん】じられている。",
+    "meaning": "It is forbidden to inquire about that secret."
+  },
+  {
+    "sentence": "彼は真実を探し求めている。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】を探【さが】し求【もと】めている。",
+    "meaning": "He is seeking the truth."
+  },
+  {
+    "sentence": "彼の健康状態を尋ねた。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】を尋【たず】ねた。",
+    "meaning": "I inquired about his health condition."
+  },
+  {
+    "sentence": "探し物が見つかった。",
+    "sentence_furigana": "探【さが】し物【もの】が見【み】つかった。",
+    "meaning": "The lost item was found."
+  },
+  {
+    "sentence": "彼女は昔の友人を尋ねた。",
+    "sentence_furigana": "彼女【かのじょ】は昔【むかし】の友人【ゆうじん】を尋【たず】ねた。",
+    "meaning": "She visited her old friend."
+  },
+  {
+    "sentence": "真相を探り当てる。",
+    "sentence_furigana": "真相【しんそう】を探【さぐ】り当【あ】てる。",
+    "meaning": "To fathom the truth."
+  },
+  {
+    "sentence": "彼は失業手当を尋ねた。",
+    "sentence_furigana": "彼【かれ】は失業手当【しつぎょうてあて】を尋【たず】ねた。",
+    "meaning": "He inquired about unemployment benefits."
+  },
+  {
+    "sentence": "行方不明の猫を探している。",
+    "sentence_furigana": "行方不明【ゆくえふめい】の猫【ねこ】を探【さが】している。",
+    "meaning": "I am looking for the missing cat."
+  },
+  {
+    "sentence": "彼の考えの根拠を尋ねたい。",
+    "sentence_furigana": "彼【かれ】の考【かんが】えの根拠【こんきょ】を尋【たず】ねたい。",
+    "meaning": "I want to inquire about the basis of his idea."
+  },
+  {
+    "sentence": "失われた記憶を探し出す。",
+    "sentence_furigana": "失【うしな】われた記憶【きおく】を探【さが】し出【だ】す。",
+    "meaning": "To search for lost memories."
+  },
+  {
+    "sentence": "彼は旅行の計画を尋ねた。",
+    "sentence_furigana": "彼【かれ】は旅行【りょこう】の計画【けいかく】を尋【たず】ねた。",
+    "meaning": "He inquired about the travel plans."
+  },
+  {
+    "sentence": "その場所への行き方を尋ねる。",
+    "sentence_furigana": "その場所【ばしょ】への行【い】き方【かた】を尋【たず】ねる。",
+    "meaning": "To inquire about the way to that place."
+  },
+  {
+    "sentence": "彼は長年の夢を探求していた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】を探求【たんきゅう】していた。",
+    "meaning": "He was seeking his long-cherished dream."
+  },
+  {
+    "sentence": "尋常でない努力を払った。",
+    "sentence_furigana": "尋常【じんじょう】でない努力【どりょく】を払【はら】った。",
+    "meaning": "He made an extraordinary effort."
+  },
+  {
+    "sentence": "事件の目撃者を尋ねる。",
+    "sentence_furigana": "事件【じけん】の目撃者【もくげきしゃ】を尋【たず】ねる。",
+    "meaning": "To inquire about the eyewitness of the incident."
+  },
+  {
+    "sentence": "失われた協調を探す。",
+    "sentence_furigana": "失【うしな】われた協調【きょうちょう】を探【さが】す。",
+    "meaning": "To search for lost cooperation."
+  },
+  {
+    "sentence": "彼の意見を尋ねた。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】を尋【たず】ねた。",
+    "meaning": "I inquired about his opinion."
+  },
+  {
+    "sentence": "彼女は進路を尋ねた。",
+    "sentence_furigana": "彼女【かのじょ】は進路【しんろ】を尋【たず】ねた。",
+    "meaning": "She asked for directions."
+  },
+  {
+    "sentence": "探偵は手がかりを探していた。",
+    "sentence_furigana": "探偵【たんてい】は手掛【てが】かりを探【さが】していた。",
+    "meaning": "The detective was looking for clues."
+  },
+  {
+    "sentence": "失われた技術を探求する。",
+    "sentence_furigana": "失【うしな】われた技術【ぎじゅつ】を探求【たんきゅう】する。",
+    "meaning": "To seek lost technology."
+  },
+  {
+    "sentence": "彼の過去を尋ねた。",
+    "sentence_furigana": "彼【かれ】の過去【かこ】を尋【たず】ねた。",
+    "meaning": "I inquired about his past."
+  },
+  {
+    "sentence": "尋常なことではない。",
+    "sentence_furigana": "尋常【じんじょう】なことではない。",
+    "meaning": "It is not an ordinary matter."
+  },
+  {
+    "sentence": "彼の安否を尋ねる。",
+    "sentence_furigana": "彼【かれ】の安否【あんぴ】を尋【たず】ねる。",
+    "meaning": "To inquire about his safety."
+  },
+  {
+    "sentence": "失われたものを取り戻す。",
+    "sentence_furigana": "失【うしな】われたものを取り戻【と】り戻【もど】す。",
+    "meaning": "To recover what was lost."
+  },
+  {
+    "sentence": "彼は図書館で情報を尋ねた。",
+    "sentence_furigana": "彼【かれ】は図書館【としょかん】で情報【じょうほう】を尋【たず】ねた。",
+    "meaning": "He inquired for information at the library."
+  },
+  {
+    "sentence": "失業原因を探る。",
+    "sentence_furigana": "失業原因【しつぎょうげんいん】を探【さぐ】る。",
+    "meaning": "To fathom the cause of unemployment."
+  },
+  {
+    "sentence": "彼は遠い親戚を尋ねた。",
+    "sentence_furigana": "彼【かれ】は遠【とお】い親戚【しんせき】を尋【たず】ねた。",
+    "meaning": "He visited a distant relative."
+  },
+  {
+    "sentence": "尋常ではない事態が発生した。",
+    "sentence_furigana": "尋常【じんじょう】ではない事態【じたい】が発生【はっせい】した。",
+    "meaning": "An unusual situation occurred."
+  },
+  {
+    "sentence": "彼の健康状態を尋ねる。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】を尋【たず】ねる。",
+    "meaning": "To inquire about his health condition."
+  },
+  {
+    "sentence": "失われた友情を取り戻す。",
+    "sentence_furigana": "失【うしな】われた友情【ゆうじょう】を取り戻【と】り戻【もど】す。",
+    "meaning": "To regain lost friendship."
+  },
+  {
+    "sentence": "彼はその店の場所を尋ねた。",
+    "sentence_furigana": "彼【かれ】はその店【みせ】の場所【ばしょ】を尋【たず】ねた。",
+    "meaning": "He asked for the location of that store."
+  },
+  {
+    "sentence": "失われた平和を探求する。",
+    "sentence_furigana": "失【うしな】われた平和【へいわ】を探求【たんきゅう】する。",
+    "meaning": "To seek lost peace."
+  },
+  {
+    "sentence": "尋ね人の捜索が始まった。",
+    "sentence_furigana": "尋【たず】ね人【びと】の捜索【そうさく】が始【はじ】まった。",
+    "meaning": "The search for the missing person has begun."
+  },
+  {
+    "sentence": "彼の専門知識を尋ねたい。",
+    "sentence_furigana": "彼【かれ】の専門知識【せんもんちしき】を尋【たず】ねたい。",
+    "meaning": "I want to inquire about his specialized knowledge."
+  },
+  {
+    "sentence": "失われた絆を探す。",
+    "sentence_furigana": "失【うしな】われた絆【きずな】を探【さが】す。",
+    "meaning": "To search for lost bonds."
+  },
+  {
+    "sentence": "彼は新しい仕事を探している。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい仕事【しごと】を探【さが】している。",
+    "meaning": "He is looking for a new job."
+  },
+  {
+    "sentence": "尋常な冷静さを失った。",
+    "sentence_furigana": "尋常【じんじょう】な冷静【れいせい】さを失【うしな】った。",
+    "meaning": "He lost his usual composure."
+  },
+  {
+    "sentence": "彼の決意を尋ねた。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】を尋【たず】ねた。",
+    "meaning": "I inquired about his determination."
+  },
+  {
+    "sentence": "失われた文明を探る。",
+    "sentence_furigana": "失【うしな】われた文明【ぶんめい】を探【さぐ】る。",
+    "meaning": "To fathom a lost civilization."
+  },
+  {
+    "sentence": "彼は遠方の友人を尋ねるために旅行した。",
+    "sentence_furigana": "彼【かれ】は遠方【えんぽう】の友人【ゆうじん】を尋【たず】ねるために旅行【りょこう】した。",
+    "meaning": "He traveled to visit a distant friend."
+  },
+  {
+    "sentence": "失われた栄光を探求する。",
+    "sentence_furigana": "失【うしな】われた栄光【えいこう】を探求【たんきゅう】する。",
+    "meaning": "To seek lost glory."
+  },
+  {
+    "sentence": "尋ね人の手がかりを探す。",
+    "sentence_furigana": "尋【たず】ね人【びと】の手掛【てが】かりを探【さが】す。",
+    "meaning": "To look for clues about the missing person."
+  },
+  {
+    "sentence": "彼の才能を尋ねる。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】を尋【たず】ねる。",
+    "meaning": "To inquire about his talent."
+  },
+  {
+    "sentence": "失われた希望を探す。",
+    "sentence_furigana": "失【うしな】われた希望【きぼう】を探【さが】す。",
+    "meaning": "To search for lost hope."
+  },
+  {
+    "sentence": "彼は子供の頃の夢を尋ねた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】の夢【ゆめ】を尋【たず】ねた。",
+    "meaning": "He inquired about his childhood dreams."
+  },
+  {
+    "sentence": "失われた楽園を探求する。",
+    "sentence_furigana": "失【うしな】われた楽園【らくえん】を探求【たんきゅう】する。",
+    "meaning": "To seek a lost paradise."
+  },
+  {
+    "sentence": "彼は秘密の場所を探している。",
+    "sentence_furigana": "彼【かれ】は秘密【ひみつ】の場所【ばしょ】を探【さが】している。",
+    "meaning": "He is looking for a secret place."
+  },
+  {
+    "sentence": "尋常ならざる努力を要する。",
+    "sentence_furigana": "尋常【じんじょう】ならざる努力【どりょく】を要【よう】する。",
+    "meaning": "Requires extraordinary effort."
+  },
+  {
+    "sentence": "彼の見解を尋ねたい。",
+    "sentence_furigana": "彼【かれ】の見解【けんかい】を尋【たず】ねたい。",
+    "meaning": "I want to inquire about his view."
+  },
+  {
+    "sentence": "失われた王国を探る。",
+    "sentence_furigana": "失【うしな】われた王国【おうこく】を探【さぐ】る。",
+    "meaning": "To fathom a lost kingdom."
+  },
+  {
+    "sentence": "彼は旧友を尋ねた。",
+    "sentence_furigana": "彼【かれ】は旧友【きゅうゆう】を尋【たず】ねた。",
+    "meaning": "He visited an old friend."
+  },
+  {
+    "sentence": "失われた伝承を探求する。",
+    "sentence_furigana": "失【うしな】われた伝承【でんしょう】を探求【たんきゅう】する。",
+    "meaning": "To seek lost legends."
+  },
+  {
+    "sentence": "尋常な精神状態ではなかった。",
+    "sentence_furigana": "尋常【じんじょう】な精神状態【せいしんじょうたい】ではなかった。",
+    "meaning": "It was not a normal state of mind."
+  },
+  {
+    "sentence": "彼の状況を尋ねる。",
+    "sentence_furigana": "彼【かれ】の状況【じょうきょう】を尋【たず】ねる。",
+    "meaning": "To inquire about his situation."
+  },
+  {
+    "sentence": "失われた物語を探す。",
+    "sentence_furigana": "失【うしな】われた物語【ものがたり】を探【さが】す。",
+    "meaning": "To search for lost stories."
+  },
+  {
+    "sentence": "彼は新しいビジネスチャンスを探している。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいビジネスチャンスを探【さが】している。",
+    "meaning": "He is looking for new business opportunities."
+  },
+  {
+    "sentence": "失われた価値観を探求する。",
+    "sentence_furigana": "失【うしな】われた価値観【かちかん】を探求【たんきゅう】する。",
+    "meaning": "To seek lost values."
+  },
+  {
+    "sentence": "尋ね人の捜索に協力する。",
+    "sentence_furigana": "尋【たず】ね人【びと】の捜索【そうさく】に協力【きょうりょく】する。",
+    "meaning": "To cooperate in the search for the missing person."
+  },
+  {
+    "sentence": "彼の功績を尋ねたい。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】を尋【たず】ねたい。",
+    "meaning": "I want to inquire about his achievements."
+  },
+  {
+    "sentence": "失われた技術を探る。",
+    "sentence_furigana": "失【うしな】われた技術【ぎじゅつ】を探【さぐ】る。",
+    "meaning": "To fathom lost technology."
+  },
+  {
+    "sentence": "彼は故郷の親を尋ねた。",
+    "sentence_furigana": "彼【かれ】は故郷【こきょう】の親【おや】を尋【たず】ねた。",
+    "meaning": "He visited his parents in his hometown."
+  },
+  {
+    "sentence": "失われた伝統を探求する。",
+    "sentence_furigana": "失【うしな】われた伝統【でんとう】を探求【たんきゅう】する。",
+    "meaning": "To seek lost traditions."
+  },
+  {
+    "sentence": "尋常な状況ではない。",
+    "sentence_furigana": "尋常【じんじょう】な状況【じょうきょう】ではない。",
+    "meaning": "It is not a normal situation."
+  },
+  {
+    "sentence": "彼の悩み事を尋ねた。",
+    "sentence_furigana": "彼【かれ】の悩【なや】み事【ごと】を尋【たず】ねた。",
+    "meaning": "I inquired about his troubles."
+  },
+  {
+    "sentence": "失われた知識を探す。",
+    "sentence_furigana": "失【うしな】われた知識【ちしき】を探【さが】す。",
+    "meaning": "To search for lost knowledge."
+  },
+  {
+    "sentence": "彼は長年の友人を尋ねた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の友人【ゆうじん】を尋【たず】ねた。",
+    "meaning": "He visited a friend of many years."
+  },
+  {
+    "sentence": "失われた真実を探求する。",
+    "sentence_furigana": "失【うしな】われた真実【しんじつ】を探求【たんきゅう】する。",
+    "meaning": "To seek lost truth."
+  },
+  {
+    "sentence": "尋ね人の情報を提供する。",
+    "sentence_furigana": "尋【たず】ね人【びと】の情報【じょうほう】を提供【ていきょう】する。",
+    "meaning": "To provide information about the missing person."
+  },
+  {
+    "sentence": "彼の経験を尋ねたい。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】を尋【たず】ねたい。",
+    "meaning": "I want to inquire about his experience."
+  },
+  {
+    "sentence": "失われた秩序を探す。",
+    "sentence_furigana": "失【うしな】われた秩序【ちつじょ】を探【さが】す。",
+    "meaning": "To search for lost order."
+  },
+  {
+    "sentence": "彼は失われた遺産を探している。",
+    "sentence_furigana": "彼【かれ】は失【うしな】われた遺産【いさん】を探【さが】している。",
+    "meaning": "He is looking for the lost heritage."
+  },
+  {
+    "sentence": "尋常ならざる気配を感じた。",
+    "sentence_furigana": "尋常【じんじょう】ならざる気配【きはい】を感じ【かん】じた。",
+    "meaning": "I felt an unusual presence."
+  },
+  {
+    "sentence": "彼の考えの深さを尋ねた。",
+    "sentence_furigana": "彼【かれ】の考【かんが】えの深【ふか】さを尋【たず】ねた。",
+    "meaning": "I inquired about the depth of his thoughts."
+  },
+  {
+    "sentence": "失われた愛を探求する。",
+    "sentence_furigana": "失【うしな】われた愛【あい】を探求【たんきゅう】する。",
+    "meaning": "To seek lost love."
+  },
+  {
+    "sentence": "彼はかつての指導者を尋ねた。",
+    "sentence_furigana": "彼【かれ】はかつての指導者【しどうしゃ】を尋【たず】ねた。",
+    "meaning": "He visited his former mentor."
+  }
+]

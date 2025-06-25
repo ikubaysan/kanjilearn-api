@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は会議から退席した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】から退席【たいせき】した。",
+    "meaning": "He withdrew from the meeting."
+  },
+  {
+    "sentence": "敵は後退を始めた。",
+    "sentence_furigana": "敵【てき】は後退【こうたい】を始【はじ】めた。",
+    "meaning": "The enemy began to retreat."
+  },
+  {
+    "sentence": "彼は会社を退職した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】を退職【たいしょく】した。",
+    "meaning": "He retired from the company."
+  },
+  {
+    "sentence": "その考えを退ける。",
+    "sentence_furigana": "その考【かんが】えを退【しりぞ】ける。",
+    "meaning": "To reject that idea."
+  },
+  {
+    "sentence": "邪魔なものを退けてください。",
+    "sentence_furigana": "邪魔【じゃま】なもの退【ど】けてください。",
+    "meaning": "Please move the obstructive things aside."
+  },
+  {
+    "sentence": "彼は役職を退いた。",
+    "sentence_furigana": "彼【かれ】は役職【やくしょく】を退【しりぞ】いた。",
+    "meaning": "He retired from his post."
+  },
+  {
+    "sentence": "波が岸辺を退いていった。",
+    "sentence_furigana": "波【なみ】が岸辺【きしべ】を退【ひ】いていった。",
+    "meaning": "The waves receded from the shore."
+  },
+  {
+    "sentence": "彼は健康上の理由で退職した。",
+    "sentence_furigana": "彼【かれ】は健康上【けんこうじょう】の理由【りゆう】で退職【たいしょく】した。",
+    "meaning": "He retired for health reasons."
+  },
+  {
+    "sentence": "無理な要求は退けるべきだ。",
+    "sentence_furigana": "無理【むり】な要求【ようきゅう】は退【しりぞ】けるべきだ。",
+    "meaning": "Unreasonable demands should be rejected."
+  },
+  {
+    "sentence": "退屈な話は聞きたくない。",
+    "sentence_furigana": "退屈【たいくつ】な話【はなし】は聞【き】きたくない。",
+    "meaning": "I don't want to hear boring stories."
+  },
+  {
+    "sentence": "正面から退く。",
+    "sentence_furigana": "正面【しょうめん】から退【しりぞ】く。",
+    "meaning": "To retreat from the front."
+  },
+  {
+    "sentence": "その提案を退けた。",
+    "sentence_furigana": "その提案【ていあん】を退【しりぞ】けた。",
+    "meaning": "I rejected the proposal."
+  },
+  {
+    "sentence": "彼は社長を退任した。",
+    "sentence_furigana": "彼【かれ】は社長【しゃちょう】を退任【たいにん】した。",
+    "meaning": "He retired as president."
+  },
+  {
+    "sentence": "水が引いていった。",
+    "sentence_furigana": "水【みず】が引【ひ】いていった。",
+    "meaning": "The water receded."
+  },
+  {
+    "sentence": "彼女は反対意見を退けた。",
+    "sentence_furigana": "彼女【かのじょ】は反対意見【はんたいけん】を退【しりぞ】けた。",
+    "meaning": "She rejected the opposing opinion."
+  },
+  {
+    "sentence": "彼は政界から引退した。",
+    "sentence_furigana": "彼【かれ】は政界【せいかい】から引退【いんたい】した。",
+    "meaning": "He retired from politics."
+  },
+  {
+    "sentence": "敵を撃退する。",
+    "sentence_furigana": "敵【てき】を撃退【げきたい】する。",
+    "meaning": "To repel the enemy."
+  },
+  {
+    "sentence": "部屋の隅に退く。",
+    "sentence_furigana": "部屋【へや】の隅【すみ】に退【ど】く。",
+    "meaning": "To move to the corner of the room."
+  },
+  {
+    "sentence": "彼は全ての要求を退けた。",
+    "sentence_furigana": "彼【かれ】は全【すべ】ての要求【ようきゅう】を退【しりぞ】けた。",
+    "meaning": "He rejected all demands."
+  },
+  {
+    "sentence": "子供が道を退いた。",
+    "sentence_furigana": "子供【こども】が道【みち】を退【ど】いた。",
+    "meaning": "The child moved out of the way."
+  },
+  {
+    "sentence": "退学はしたくない。",
+    "sentence_furigana": "退学【たいがく】はしたくない。",
+    "meaning": "I don't want to drop out of school."
+  },
+  {
+    "sentence": "彼は軍隊から退いた。",
+    "sentence_furigana": "彼【かれ】は軍隊【ぐんたい】から退【しりぞ】いた。",
+    "meaning": "He withdrew from the army."
+  },
+  {
+    "sentence": "会議は予定より早く退席した。",
+    "sentence_furigana": "会議【かいぎ】は予定【よてい】より早【はや】く退席【たいせき】した。",
+    "meaning": "The meeting ended early."
+  },
+  {
+    "sentence": "その批判は退けるべきではない。",
+    "sentence_furigana": "その批判【ひはん】は退【しりぞ】けるべきではない。",
+    "meaning": "That criticism should not be rejected."
+  },
+  {
+    "sentence": "引退後の生活を考えている。",
+    "sentence_furigana": "引退後【いんたいご】の生活【せいかつ】を考【かんが】えている。",
+    "meaning": "I am thinking about life after retirement."
+  },
+  {
+    "sentence": "敵の攻撃を退けた。",
+    "sentence_furigana": "敵【てき】の攻撃【こうげき】を退【しりぞ】けた。",
+    "meaning": "We repelled the enemy's attack."
+  },
+  {
+    "sentence": "彼は会社の経営から退いた。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の経営【けいえい】から退【しりぞ】いた。",
+    "meaning": "He withdrew from the management of the company."
+  },
+  {
+    "sentence": "その提案は却下された。",
+    "sentence_furigana": "その提案【ていあん】は却下【きゃっか】された。",
+    "meaning": "The proposal was rejected."
+  },
+  {
+    "sentence": "邪魔なものはどけてください。",
+    "sentence_furigana": "邪魔【じゃま】なもの退【ど】けてください。",
+    "meaning": "Please move the obstructing things."
+  },
+  {
+    "sentence": "彼は王位を退いた。",
+    "sentence_furigana": "彼【かれ】は王位【おうい】を退【しりぞ】いた。",
+    "meaning": "He abdicated the throne."
+  },
+  {
+    "sentence": "退官後の計画がある。",
+    "sentence_furigana": "退官後【たいかんご】の計画【けいかく】がある。",
+    "meaning": "There are plans after retirement."
+  },
+  {
+    "sentence": "彼は地位から退いた。",
+    "sentence_furigana": "彼【かれ】は地位【ちい】から退【しりぞ】いた。",
+    "meaning": "He retired from his position."
+  },
+  {
+    "sentence": "退院したばかりです。",
+    "sentence_furigana": "退院【たいいん】したばかりです。",
+    "meaning": "I just got out of the hospital."
+  },
+  {
+    "sentence": "彼は提案を退けた。",
+    "sentence_furigana": "彼【かれ】は提案【ていあん】を退【しりぞ】けた。",
+    "meaning": "He rejected the proposal."
+  },
+  {
+    "sentence": "後退するのは恥ではない。",
+    "sentence_furigana": "後退【こうたい】するのは恥【はじ】ではない。",
+    "meaning": "It is not shameful to retreat."
+  },
+  {
+    "sentence": "彼は不正を退けた。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】を退【しりぞ】けた。",
+    "meaning": "He rejected the dishonesty."
+  },
+  {
+    "sentence": "退学届を提出した。",
+    "sentence_furigana": "退学届【たいがくとどけ】を提出【ていしゅつ】した。",
+    "meaning": "I submitted my withdrawal papers."
+  },
+  {
+    "sentence": "退職金を受け取った。",
+    "sentence_furigana": "退職金【たいしょくきん】を受【う】け取【と】った。",
+    "meaning": "I received my retirement pay."
+  },
+  {
+    "sentence": "彼は全ての非難を退けた。",
+    "sentence_furigana": "彼【かれ】は全【すべ】ての非難【ひなん】を退【しりぞ】けた。",
+    "meaning": "He dismissed all the criticism."
+  },
+  {
+    "sentence": "退屈しのぎに本を読む。",
+    "sentence_furigana": "退屈【たいくつ】しのぎに本【ほん】を読【よ】む。",
+    "meaning": "I read a book to pass the time."
+  },
+  {
+    "sentence": "彼は軍務から退いた。",
+    "sentence_furigana": "彼【かれ】は軍務【ぐんむ】から退【しりぞ】いた。",
+    "meaning": "He retired from military service."
+  },
+  {
+    "sentence": "退院祝いを贈ります。",
+    "sentence_furigana": "退院祝【たいいんおいわ】いを贈【おく】ります。",
+    "meaning": "I will give a get-well gift."
+  },
+  {
+    "sentence": "退任の挨拶をする。",
+    "sentence_furigana": "退任【たいにん】の挨拶【あいさつ】をする。",
+    "meaning": "To give a farewell speech."
+  },
+  {
+    "sentence": "彼は上級職を退いた。",
+    "sentence_furigana": "彼【かれ】は上級職【じょうきゅうしょく】を退【しりぞ】いた。",
+    "meaning": "He retired from a senior position."
+  },
+  {
+    "sentence": "退職後の生活設計を立てる。",
+    "sentence_furigana": "退職後【たいしょくご】の生活設計【せいかつせっけい】を立【た】てる。",
+    "meaning": "To plan for life after retirement."
+  },
+  {
+    "sentence": "この計画は却下されました。",
+    "sentence_furigana": "この計画【けいかく】は却下【きゃっか】されました。",
+    "meaning": "This plan was rejected."
+  },
+  {
+    "sentence": "退屈で仕方がない。",
+    "sentence_furigana": "退屈【たいくつ】で仕方【しかた】がない。",
+    "meaning": "I can't help being bored."
+  },
+  {
+    "sentence": "彼は職務を退いた。",
+    "sentence_furigana": "彼【かれ】は職務【しょくむ】を退【しりぞ】いた。",
+    "meaning": "He resigned from his post."
+  },
+  {
+    "sentence": "後退車線に進路を取る。",
+    "sentence_furigana": "後退車線【こうたいしゃせん】に進路【しんろ】を取【と】る。",
+    "meaning": "To take the receding lane."
+  },
+  {
+    "sentence": "退職を決意した。",
+    "sentence_furigana": "退職【たいしょく】を決意【けつい】した。",
+    "meaning": "I decided to retire."
+  },
+  {
+    "sentence": "退役軍人への配慮。",
+    "sentence_furigana": "退役軍人【たいえきぐんじん】への配慮【はいりょ】。",
+    "meaning": "Consideration for veterans."
+  },
+  {
+    "sentence": "退治する。",
+    "sentence_furigana": "退治【たいじ】する。",
+    "meaning": "To defeat."
+  },
+  {
+    "sentence": "退勤時間を過ぎた。",
+    "sentence_furigana": "退勤時間【たいきんじかん】を過【す】ぎた。",
+    "meaning": "I passed my quitting time."
+  },
+  {
+    "sentence": "退学の理由を説明する。",
+    "sentence_furigana": "退学【たいがく】の理由【りゆう】を説明【せつめい】する。",
+    "meaning": "Explain the reason for dropping out."
+  },
+  {
+    "sentence": "退官まであと二年だ。",
+    "sentence_furigana": "退官【たいかん】まであと二年【にねん】だ。",
+    "meaning": "There are two years left until retirement."
+  },
+  {
+    "sentence": "退会手続きをする。",
+    "sentence_furigana": "退会手続【たいかいてつづ】きをする。",
+    "meaning": "To go through the withdrawal procedure."
+  },
+  {
+    "sentence": "退職願を提出する。",
+    "sentence_furigana": "退職願【たいしょくねがい】を提出【ていしゅつ】する。",
+    "meaning": "To submit a letter of resignation."
+  },
+  {
+    "sentence": "退院後の静養が必要です。",
+    "sentence_furigana": "退院後【たいいんご】の静養【せいよう】が必要【ひつよう】です。",
+    "meaning": "Convalescence after discharge is necessary."
+  },
+  {
+    "sentence": "退学する前に相談してください。",
+    "sentence_furigana": "退学【たいがく】する前【まえ】に相談【そうだん】してください。",
+    "meaning": "Please consult before dropping out."
+  },
+  {
+    "sentence": "退会を希望します。",
+    "sentence_furigana": "退会【たいかい】を希望【きぼう】します。",
+    "meaning": "I wish to withdraw."
+  },
+  {
+    "sentence": "退職の手続きについて聞く。",
+    "sentence_furigana": "退職【たいしょく】の手続【てつづ】きについて聞【き】く。",
+    "meaning": "Ask about the retirement procedures."
+  },
+  {
+    "sentence": "退屈な会議を抜け出す。",
+    "sentence_furigana": "退屈【たいくつ】な会議【かいぎ】を抜【ぬ】け出【だ】す。",
+    "meaning": "To sneak out of a boring meeting."
+  },
+  {
+    "sentence": "退職年齢に達する。",
+    "sentence_furigana": "退職年齢【たいしょくねんれい】に達【たっ】する。",
+    "meaning": "To reach retirement age."
+  },
+  {
+    "sentence": "退院手続きを済ませる。",
+    "sentence_furigana": "退院手続【たいいんてつづ】きを済【す】ませる。",
+    "meaning": "Complete the discharge procedures."
+  },
+  {
+    "sentence": "退会届を提出した。",
+    "sentence_furigana": "退会届【たいかいとどけ】を提出【ていしゅつ】した。",
+    "meaning": "I submitted my withdrawal notice."
+  },
+  {
+    "sentence": "退職祝いのプレゼントを買う。",
+    "sentence_furigana": "退職祝【たいしょくいわ】いのプレゼントを買【か】う。",
+    "meaning": "Buy a retirement gift."
+  },
+  {
+    "sentence": "退官後も社会に貢献する。",
+    "sentence_furigana": "退官後【たいかんご】も社会【しゃかい】に貢献【こうけん】する。",
+    "meaning": "Contribute to society even after retirement."
+  },
+  {
+    "sentence": "退学しないように説得する。",
+    "sentence_furigana": "退学【たいがく】しないように説得【せっとく】する。",
+    "meaning": "Persuade someone not to drop out."
+  },
+  {
+    "sentence": "退職後に趣味を見つける。",
+    "sentence_furigana": "退職後【たいしょくご】に趣味【しゅみ】を見【み】つける。",
+    "meaning": "Find a hobby after retirement."
+  },
+  {
+    "sentence": "退屈な時間は早く過ぎない。",
+    "sentence_furigana": "退屈【たいくつ】な時間【じかん】は早【はや】く過【す】ぎない。",
+    "meaning": "Boring times do not pass quickly."
+  },
+  {
+    "sentence": "退職届を提出し、新しい道へ進む。",
+    "sentence_furigana": "退職届【たいしょくとどけ】を提出【ていしゅつ】し、新【あたら】しい道【みち】へ進【すす】む。",
+    "meaning": "Submit resignation and move on to a new path."
+  },
+  {
+    "sentence": "退院した患者がリハビリを行う。",
+    "sentence_furigana": "退院【たいいん】した患者【かんじゃ】がリハビリを行【おこな】う。",
+    "meaning": "The discharged patient undergoes rehabilitation."
+  },
+  {
+    "sentence": "退学を思いとどまらせる。",
+    "sentence_furigana": "退学【たいがく】を思【おも】いとどまらせる。",
+    "meaning": "To dissuade someone from dropping out."
+  },
+  {
+    "sentence": "退職して悠々自適な生活を送る。",
+    "sentence_furigana": "退職【たいしょく】して悠々自適【ゆうゆうじてき】な生活【せいかつ】を送【おく】る。",
+    "meaning": "To retire and live a leisurely life."
+  },
+  {
+    "sentence": "退官記念のパーティーを開く。",
+    "sentence_furigana": "退官記念【たいかんきねん】のパーティーを開【ひら】く。",
+    "meaning": "Hold a party to commemorate retirement."
+  },
+  {
+    "sentence": "退会したメンバーのリスト。",
+    "sentence_furigana": "退会【たいかい】したメンバーのリスト。",
+    "meaning": "A list of members who have withdrawn."
+  },
+  {
+    "sentence": "退職後のキャリアプランを練る。",
+    "sentence_furigana": "退職後【たいしょくご】のキャリアプランを練【ね】る。",
+    "meaning": "To plan a post-retirement career."
+  },
+  {
+    "sentence": "退院後の生活に慣れる。",
+    "sentence_furigana": "退院後【たいいんご】の生活【せいかつ】に慣【な】れる。",
+    "meaning": "To get used to life after leaving the hospital."
+  },
+  {
+    "sentence": "退学する学生が増えている。",
+    "sentence_furigana": "退学【たいがく】する学生【がくせい】が増【ふ】えている。",
+    "meaning": "The number of students dropping out is increasing."
+  },
+  {
+    "sentence": "退職した同僚を祝う。",
+    "sentence_furigana": "退職【たいしょく】した同僚【どうりょう】を祝【いわ】う。",
+    "meaning": "Congratulate a retired colleague."
+  },
+  {
+    "sentence": "退官を機に趣味を始める。",
+    "sentence_furigana": "退官【たいかん】を機【き】に趣味【しゅみ】を始【はじ】める。",
+    "meaning": "Start a hobby upon retirement."
+  },
+  {
+    "sentence": "退会手続きはオンラインでできます。",
+    "sentence_furigana": "退会手続【たいかいてつづ】きはオンラインでできます。",
+    "meaning": "Withdrawal procedures can be done online."
+  },
+  {
+    "sentence": "退職金を計算する。",
+    "sentence_furigana": "退職金【たいしょくきん】を計算【けいさん】する。",
+    "meaning": "Calculate retirement pay."
+  },
+  {
+    "sentence": "退院祝いに花を贈る。",
+    "sentence_furigana": "退院祝【たいいんおいわ】いに花【はな】を贈【おく】る。",
+    "meaning": "Send flowers as a get-well gift."
+  },
+  {
+    "sentence": "退学届の記入例。",
+    "sentence_furigana": "退学届【たいがくとどけ】の記入例【きにゅうれい】。",
+    "meaning": "Example of a dropout application."
+  },
+  {
+    "sentence": "退職後も健康を維持する。",
+    "sentence_furigana": "退職後【たいしょくご】も健康【けんこう】を維持【いじ】する。",
+    "meaning": "Maintain health after retirement."
+  },
+  {
+    "sentence": "退官後の生活を充実させる。",
+    "sentence_furigana": "退官後【たいかんご】の生活【せいかつ】を充実【じゅうじつ】させる。",
+    "meaning": "Enrich life after retirement."
+  },
+  {
+    "sentence": "退会します。",
+    "sentence_furigana": "退会【たいかい】します。",
+    "meaning": "I will withdraw."
+  },
+  {
+    "sentence": "退職者のためのセミナーを開催する。",
+    "sentence_furigana": "退職者【たいしょくしゃ】のためSeminar開催【かいさい】する。",
+    "meaning": "Hold a seminar for retirees."
+  },
+  {
+    "sentence": "退院後の食事に気をつける。",
+    "sentence_furigana": "退院後【たいいんご】の食事【しょくじ】に気【き】をつける。",
+    "meaning": "Pay attention to diet after discharge."
+  },
+  {
+    "sentence": "退学を思いとどまり、大学に残る。",
+    "sentence_furigana": "退学【たいがく】を思【おも】いとどまり、大学【だいがく】に残【のこ】る。",
+    "meaning": "Decide not to drop out and remain at university."
+  },
+  {
+    "sentence": "退職して田舎で暮らす。",
+    "sentence_furigana": "退職【たいしょく】して田舎【いなか】で暮【く】らす。",
+    "meaning": "Retire and live in the countryside."
+  },
+  {
+    "sentence": "退官の挨拶は感動的だった。",
+    "sentence_furigana": "退官【たいかん】の挨拶【あいさつ】は感動的【かんどうてき】だった。",
+    "meaning": "The farewell speech upon retirement was moving."
+  },
+  {
+    "sentence": "退会手続きが完了しました。",
+    "sentence_furigana": "退会手続【たいかいてつづ】きが完了【かんりょう】しました。",
+    "meaning": "The withdrawal procedure has been completed."
+  },
+  {
+    "sentence": "退職金制度について調べる。",
+    "sentence_furigana": "退職金制度【たいしょくきんせいど】について調【しら】べる。",
+    "meaning": "Research the retirement pay system."
+  },
+  {
+    "sentence": "退院おめでとうございます。",
+    "sentence_furigana": "退院【たいいん】おめでとうございます。",
+    "meaning": "Congratulations on your discharge from the hospital."
+  },
+  {
+    "sentence": "退学の危機を乗り越える。",
+    "sentence_furigana": "退学【たいがく】の危機【きき】を乗【の】り越【こ】える。",
+    "meaning": "Overcome the risk of dropping out."
+  },
+  {
+    "sentence": "退職後も定期的に健康診断を受ける。",
+    "sentence_furigana": "退職後【たいしょくご】も定期的【ていきてき】に健康診断【けんこうしんだん】を受【う】ける。",
+    "meaning": "Get regular health checkups even after retirement."
+  },
+  {
+    "sentence": "退官記念に時計を贈る。",
+    "sentence_furigana": "退官記念【たいかんきねん】に時計【とけい】を贈【おく】る。",
+    "meaning": "Give a watch to commemorate retirement."
+  },
+  {
+    "sentence": "退会会員への連絡。",
+    "sentence_furigana": "退会会員【たいかいかいいん】への連絡【れんらく】。",
+    "meaning": "Contact for withdrawn members."
+  },
+  {
+    "sentence": "退職金は一時金で支払われる。",
+    "sentence_furigana": "退職金【たいしょくきん】は一時金【いちじきん】で支払【しはら】われる。",
+    "meaning": "Retirement pay is paid as a lump sum."
+  }
+]

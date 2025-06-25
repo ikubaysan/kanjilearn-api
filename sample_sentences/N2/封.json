@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "その手紙は封筒に入れられた。",
+    "sentence_furigana": "その手紙【てがみ】は封筒【ふうとう】に入【い】れられた。",
+    "meaning": "The letter was put in an envelope."
+  },
+  {
+    "sentence": "会議室のドアが封鎖された。",
+    "sentence_furigana": "会議室【かいぎしつ】のドアが封鎖【ふうさ】された。",
+    "meaning": "The conference room door was sealed off."
+  },
+  {
+    "sentence": "彼は古い書物を封印した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い書物【しょもつ】を封印【ふういん】した。",
+    "meaning": "He sealed the ancient book."
+  },
+  {
+    "sentence": "この箱は厳重に封がされている。",
+    "sentence_furigana": "この箱【はこ】は厳重【げんじゅう】に封【ふう】がされている。",
+    "meaning": "This box is securely sealed."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトを開始するために、古い契約を封印した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいプロジェクトを開【かい】始【し】するために、古【ふる】い契約【けいやく】を封印【ふういん】した。",
+    "meaning": "She sealed the old contract to start a new project."
+  },
+  {
+    "sentence": "この封筒には特別な印鑑が押されている。",
+    "sentence_furigana": "この封筒【ふうとう】には特別【とくべつ】な印鑑【いんかん】が押【お】されている。",
+    "meaning": "This envelope has a special seal on it."
+  },
+  {
+    "sentence": "国境は一時的に封鎖された。",
+    "sentence_furigana": "国境【こっきょう】は一時的【いちじてき】に封鎖【ふうさ】された。",
+    "meaning": "The border was temporarily closed."
+  },
+  {
+    "sentence": "伝説は地下室に封じ込められている。",
+    "sentence_furigana": "伝説【でんせつ】は地下室【ちかしつ】に封【ふう】じ込【こ】められている。",
+    "meaning": "The legend is sealed away in the basement."
+  },
+  {
+    "sentence": "彼はその秘密を永遠に封じたい。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を永遠【えいえん】に封【ふう】じたい。",
+    "meaning": "He wants to seal that secret forever."
+  },
+  {
+    "sentence": "封筒を開けずにそのまま返送してください。",
+    "sentence_furigana": "封筒【ふうとう】を開【あ】けずにそのまま返送【へんそう】してください。",
+    "meaning": "Please return the envelope without opening it."
+  },
+  {
+    "sentence": "感染地域は封鎖命令を受けた。",
+    "sentence_furigana": "感染地域【かんせんちいき】は封鎖【ふうさ】命令【めいれい】を受【う】けた。",
+    "meaning": "The infected area received a sealing order."
+  },
+  {
+    "sentence": "その部屋は長い間封印されていた。",
+    "sentence_furigana": "その部屋【へや】は長【なが】い間【あいだ】封印【ふういん】されていた。",
+    "meaning": "That room had been sealed for a long time."
+  },
+  {
+    "sentence": "彼の感情は厚く封じられていた。",
+    "sentence_furigana": "彼【かれ】の感情【かんじょう】は厚【あつ】く封【ふう】じられていた。",
+    "meaning": "His emotions were deeply sealed."
+  },
+  {
+    "sentence": "この文書は機密事項として封じられています。",
+    "sentence_furigana": "この文書【ぶんしょ】は機密事項【きみつじこう】として封【ふう】じられています。",
+    "meaning": "This document is sealed as confidential information."
+  },
+  {
+    "sentence": "彼は昔の恋の思い出を封印した。",
+    "sentence_furigana": "彼【かれ】は昔【むかし】の恋【こい】の思【おも】い出【で】を封印【ふういん】した。",
+    "meaning": "He sealed away memories of his past love."
+  },
+  {
+    "sentence": "封筒の糊しろが乾いていなかった。",
+    "sentence_furigana": "封筒【ふうとう】の糊しろが乾【かわ】いていなかった。",
+    "meaning": "The adhesive on the envelope was not dry."
+  },
+  {
+    "sentence": "町の入り口は封鎖されている。",
+    "sentence_furigana": "町【まち】の入【い】り口【ぐち】は封鎖【ふうさ】されている。",
+    "meaning": "The town entrance is blocked."
+  },
+  {
+    "sentence": "古い呪文で扉を封じた。",
+    "sentence_furigana": "古【ふる】い呪文【じゅもん】で扉【とびら】を封【ふう】じた。",
+    "meaning": "He sealed the door with an ancient spell."
+  },
+  {
+    "sentence": "彼の言葉は心に深く封じられていた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は心【こころ】に深【ふか】く封【ふう】じられていた。",
+    "meaning": "His words were deeply sealed in his heart."
+  },
+  {
+    "sentence": "この遺産は法的に封印されるべきだ。",
+    "sentence_furigana": "この遺産【いさん】は法例的【ほうれいてき】に封印【ふういん】されるべきだ。",
+    "meaning": "This inheritance should be legally sealed."
+  },
+  {
+    "sentence": "封筒に切手を貼るのを忘れないでください。",
+    "sentence_furigana": "封筒【ふうとう】に切手【きって】を貼【は】るのを忘【わす】れないでください。",
+    "meaning": "Please don't forget to put a stamp on the envelope."
+  },
+  {
+    "sentence": "暴動のため、都市の一部が封鎖された。",
+    "sentence_furigana": "暴動【ぼうどう】のため、都市【とし】の一【いち】部【ぶ】が封鎖【ふうさ】された。",
+    "meaning": "Part of the city was sealed off due to riots."
+  },
+  {
+    "sentence": "その秘密は永遠に封じられるだろう。",
+    "sentence_furigana": "その秘密【ひみつ】は永遠【えいえん】に封【ふう】じられるだろう。",
+    "meaning": "That secret will likely be sealed forever."
+  },
+  {
+    "sentence": "彼は古い記憶を封印し、前に進むことを決めた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い記憶【きおく】を封印【ふういん】し、前【まえ】に進【すす】むことを決【き】めた。",
+    "meaning": "He decided to seal away old memories and move forward."
+  },
+  {
+    "sentence": "この箱は特別な方法で封がされています。",
+    "sentence_furigana": "この箱【はこ】は特別【とくべつ】な方法【ほうほう】で封【ふう】がされています。",
+    "meaning": "This box is sealed in a special way."
+  },
+  {
+    "sentence": "事件現場は警察によって封鎖された。",
+    "sentence_furigana": "事件現場【じけんげんば】は警察【けいさつ】によって封鎖【ふうさ】された。",
+    "meaning": "The crime scene was cordoned off by the police."
+  },
+  {
+    "sentence": "彼女は過去の過ちを封印しようとした。",
+    "sentence_furigana": "彼女【かのじょ】は過去【かこ】の過【あやま】ちを封印【ふういん】しようとした。",
+    "meaning": "She tried to seal away her past mistakes."
+  },
+  {
+    "sentence": "封筒の裏書きを確認してください。",
+    "sentence_furigana": "封筒【ふうとう】の裏書【うらがき】を確認【かくにん】してください。",
+    "meaning": "Please check the writing on the back of the envelope."
+  },
+  {
+    "sentence": "その通路は危険のため封鎖されました。",
+    "sentence_furigana": "その通路【つうろ】は危険【きけん】のため封鎖【ふうさ】されました。",
+    "meaning": "That passage was blocked off due to danger."
+  },
+  {
+    "sentence": "彼は怒りを心に封じ込めた。",
+    "sentence_furigana": "彼【かれ】は怒【いか】りを心【こころ】に封【ふう】じ込【こ】めた。",
+    "meaning": "He bottled up his anger."
+  },
+  {
+    "sentence": "この手紙は正式な封がされている。",
+    "sentence_furigana": "この手紙【てがみ】は正式【せいしき】な封【ふう】がされている。",
+    "meaning": "This letter has an official seal on it."
+  },
+  {
+    "sentence": "封筒の中身は秘密にしてください。",
+    "sentence_furigana": "封筒【ふうとう】の中身【なかみ】は秘密【ひみつ】にしてください。",
+    "meaning": "Keep the contents of the envelope a secret."
+  },
+  {
+    "sentence": "その地域は疫病のために封鎖された。",
+    "sentence_furigana": "その地域【ちいき】は疫病【えきびょう】のために封鎖【ふうさ】された。",
+    "meaning": "The area was quarantined due to an epidemic."
+  },
+  {
+    "sentence": "彼は自分の感情を封印することで自分を守っていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】を封印【ふういん】することで自分【じぶん】を守【まも】っていた。",
+    "meaning": "He protected himself by sealing away his emotions."
+  },
+  {
+    "sentence": "この封印は古代の魔法で作られている。",
+    "sentence_furigana": "この封印【ふういん】は古代【こだい】の魔法【まほう】で作成【さくせい】されている。",
+    "meaning": "This seal is made with ancient magic."
+  },
+  {
+    "sentence": "郵便配達員は封筒をポストに投函した。",
+    "sentence_furigana": "郵便配達員【ゆうびんはいたついん】は封筒【ふうとう】をポストに投函【とうかん】した。",
+    "meaning": "The mailman put the envelope in the mailbox."
+  },
+  {
+    "sentence": "火災のため、ビルは一時的に封鎖された。",
+    "sentence_furigana": "火災【かさい】のため、ビルは一時的【いちじてき】に封鎖【ふうさ】された。",
+    "meaning": "The building was temporarily closed due to a fire."
+  },
+  {
+    "sentence": "彼は過去の傷を封じ、新しい人生を始めた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の傷【きず】を封【ふう】じ、新【あたら】しい人生【じんせい】を始【はじ】めた。",
+    "meaning": "He sealed his past wounds and started a new life."
+  },
+  {
+    "sentence": "この箱には特別な封が施されている。",
+    "sentence_furigana": "この箱【はこ】には特別【とくべつ】な封【ふう】が施【ほどこ】されている。",
+    "meaning": "This box has a special seal applied to it."
+  },
+  {
+    "sentence": "封筒の宛名がかすれて読みにくい。",
+    "sentence_furigana": "封筒【ふうとう】の宛名【あてな】がかすれて読【よ】みにくい。",
+    "meaning": "The address on the envelope is blurred and difficult to read."
+  },
+  {
+    "sentence": "テロの脅威により、主要な施設は封鎖された。",
+    "sentence_furigana": "テロの脅威【きょうい】により、主要【しゅよう】な施設【しせつ】は封鎖【ふうさ】された。",
+    "meaning": "Major facilities were sealed off due to the threat of terrorism."
+  },
+  {
+    "sentence": "その真実は長い間封印されていた。",
+    "sentence_furigana": "その真実【しんじつ】は長【なが】い間【あいだ】封印【ふういん】されていた。",
+    "meaning": "The truth had been sealed away for a long time."
+  },
+  {
+    "sentence": "封筒に名前を書き忘れた。",
+    "sentence_furigana": "封筒【ふうとう】に名前【なまえ】を書【か】き忘【わす】れた。",
+    "meaning": "I forgot to write my name on the envelope."
+  },
+  {
+    "sentence": "選挙運動は公式に封鎖された。",
+    "sentence_furigana": "選挙運動【せんきゅうんどう】は公式【こうしき】に封鎖【ふうさ】された。",
+    "meaning": "The election campaign was officially closed."
+  },
+  {
+    "sentence": "彼の才能は才能不足によって封じられた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は才能不足【さいのうぶそく】によって封【ふう】じられた。",
+    "meaning": "His talent was stifled by a lack of ability."
+  },
+  {
+    "sentence": "この古い巻物は厳重に封じられている。",
+    "sentence_furigana": "この古【ふる】い巻物【まきもの】は厳重【げんじゅう】に封【ふう】じられている。",
+    "meaning": "This ancient scroll is heavily sealed."
+  },
+  {
+    "sentence": "封筒に住所を正しく記入してください。",
+    "sentence_furigana": "封筒【ふうとう】に住所【じゅうしょ】を正【ただ】しく記入【きにゅう】してください。",
+    "meaning": "Please fill in the address correctly on the envelope."
+  },
+  {
+    "sentence": "ストライキのため、工場の操業は封鎖された。",
+    "sentence_furigana": "ストライキのため、工場【こうじょう】の操業【そうぎょう】は封鎖【ふうさ】された。",
+    "meaning": "Factory operations were suspended due to a strike."
+  },
+  {
+    "sentence": "彼は過去のトラウマを封印して生きてきた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】のトラウマを封印【ふういん】して生【い】きてきた。",
+    "meaning": "He has lived by sealing away past traumas."
+  },
+  {
+    "sentence": "これは特別な封がされた箱です。",
+    "sentence_furigana": "これは特別【とくべつ】な封【ふう】がされた箱【はこ】です。",
+    "meaning": "This is a box with a special seal."
+  },
+  {
+    "sentence": "その手紙は破られた封筒に入っていた。",
+    "sentence_furigana": "その手紙【てがみ】は破【やぶ】られた封筒【ふうとう】に入【い】っていた。",
+    "meaning": "The letter was in a torn envelope."
+  },
+  {
+    "sentence": "抗議活動のため、政府庁舎は封鎖された。",
+    "sentence_furigana": "抗議活動【こうぎかつどう】のため、政府庁舎【せいふちょうしゃ】は封鎖【ふうさ】された。",
+    "meaning": "The government building was sealed off due to protests."
+  },
+  {
+    "sentence": "彼女は悲しみを心に封じ込めた。",
+    "sentence_furigana": "彼女【かのじょ】は悲【かな】しみを心【こころ】に封【ふう】じ込【こ】めた。",
+    "meaning": "She suppressed her sadness."
+  },
+  {
+    "sentence": "この封印は千年もの間保たれている。",
+    "sentence_furigana": "この封印【ふういん】は千年【せんねん】もの間【あいだ】保【たも】たれている。",
+    "meaning": "This seal has been maintained for a thousand years."
+  },
+  {
+    "sentence": "封筒が濡れて文字が滲んでしまった。",
+    "sentence_furigana": "封筒【ふうとう】が濡【ぬ】れて文字【もじ】が滲【にじ】んでしまった。",
+    "meaning": "The envelope got wet and the writing smeared."
+  },
+  {
+    "sentence": "非常事態宣言により、全土が封鎖された。",
+    "sentence_furigana": "非常事態宣言【ひじょうじたいせんげん】により、全土【ぜんど】が封鎖【ふうさ】された。",
+    "meaning": "The entire country was sealed off due to the state of emergency."
+  },
+  {
+    "sentence": "彼は自分の過去を完全に封印した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】を完全【かんぜん】に封印【ふういん】した。",
+    "meaning": "He completely sealed off his past."
+  },
+  {
+    "sentence": "この木箱は古風な金具で封がされている。",
+    "sentence_furigana": "この木箱【きばこ】は古風【こふう】な金具【かなぐ】で封【ふう】がされている。",
+    "meaning": "This wooden box is sealed with old-fashioned metal fittings."
+  },
+  {
+    "sentence": "封筒に料金分の切手が貼られていない。",
+    "sentence_furigana": "封筒【ふうとう】に料金分【りょうきんぶん】の切手【きって】が貼【は】られていない。",
+    "meaning": "The correct postage is not affixed to the envelope."
+  },
+  {
+    "sentence": "道路工事のため、この道は封鎖されています。",
+    "sentence_furigana": "道路工事【どうろこうじ】のため、この道【みち】は封鎖【ふうさ】されています。",
+    "meaning": "This road is closed due to road construction."
+  },
+  {
+    "sentence": "彼は自身の能力を封印し、普通の人になろうとした。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の能力【のうりょく】を封印【ふういん】し、普通【ふつう】の人【ひと】になろうとした。",
+    "meaning": "He tried to become an ordinary person by sealing away his abilities."
+  },
+  {
+    "sentence": "封筒の表面には何も書かれていなかった。",
+    "sentence_furigana": "封筒【ふうとう】の表面【ひょうめん】には何【なに】も書【か】かれていなかった。",
+    "meaning": "Nothing was written on the front of the envelope."
+  },
+  {
+    "sentence": "封鎖された区域には近づかないでください。",
+    "sentence_furigana": "封鎖【ふうさ】された区域【くいき】には近【ちか】づかないでください。",
+    "meaning": "Please do not approach the sealed-off area."
+  },
+  {
+    "sentence": "この伝説は秘密裏に封じられていた。",
+    "sentence_furigana": "この伝説【でんせつ】は秘密裏【ひみつり】に封【ふう】じられていた。",
+    "meaning": "This legend was kept secret."
+  },
+  {
+    "sentence": "封筒の角が少し折れていた。",
+    "sentence_furigana": "封筒【ふうとう】の角【かど】が少【すこ】し折【お】れていた。",
+    "meaning": "The corner of the envelope was slightly bent."
+  },
+  {
+    "sentence": "感染拡大を防ぐため、その島は封鎖された。",
+    "sentence_furigana": "感染拡大【かんせんかくだい】を防【ふせ】ぐため、その島【しま】は封鎖【ふうさ】された。",
+    "meaning": "The island was sealed off to prevent the spread of infection."
+  },
+  {
+    "sentence": "彼は心の扉を固く封じた。",
+    "sentence_furigana": "彼【かれ】は心【こころ】の扉【とびら】を固【かた】く封【ふう】じた。",
+    "meaning": "He firmly closed the door of his heart."
+  },
+  {
+    "sentence": "この文書には特別な封印が必要だ。",
+    "sentence_furigana": "この文書【ぶんしょ】には特別【とくべつ】な封印【ふういん】が必要【ひつよう】だ。",
+    "meaning": "This document requires a special seal."
+  },
+  {
+    "sentence": "封筒の中には招待状が入っていた。",
+    "sentence_furigana": "封筒【ふうとう】の中【なか】には招待状【しょうたいじょう】が入【はい】っていた。",
+    "meaning": "There was an invitation inside the envelope."
+  },
+  {
+    "sentence": "その地域では集会が禁止され、厳しく封鎖されている。",
+    "sentence_furigana": "その地域【ちいき】では集会【しゅうかい】が禁止【きんし】され、厳【きび】しく封鎖【ふうさ】されている。",
+    "meaning": "Gatherings are prohibited in that area and it is strictly sealed off."
+  },
+  {
+    "sentence": "彼は過去の苦しみを封印し、前向きに生きることを誓った。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の苦【くる】しみを封印【ふういん】し、前向【まえむ】きに生【い】きることを誓【ちか】った。",
+    "meaning": "He vowed to live positively by sealing away his past suffering."
+  },
+  {
+    "sentence": "この宝箱は魔法の封で守られている。",
+    "sentence_furigana": "この宝箱【たからばこ】は魔法【まほう】の封【ふう】で守【まも】られている。",
+    "meaning": "This treasure chest is protected by a magical seal."
+  },
+  {
+    "sentence": "封筒の裏側にサインをしてください。",
+    "sentence_furigana": "封筒【ふうとう】の裏側【うらがわ】にサインをしてください。",
+    "meaning": "Please sign on the back of the envelope."
+  },
+  {
+    "sentence": "伝染病の疑いがあるため、村は封鎖された。",
+    "sentence_furigana": "伝染病【でんせんびょう】の疑【うたが】いがあるため、村【むら】は封鎖【ふうさ】された。",
+    "meaning": "The village was sealed off due to suspected infectious disease."
+  },
+  {
+    "sentence": "彼は長年抱えていた問題を封印しようと努めた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】抱【いだ】えていた問題【もんだい】を封印【ふういん】しようと努【つと】めた。",
+    "meaning": "He strove to seal away the problems he had carried for many years."
+  },
+  {
+    "sentence": "封筒の封を開けるのに苦労した。",
+    "sentence_furigana": "封筒【ふうとう】の封【ふう】を開【あ】けるのに苦労【くろう】した。",
+    "meaning": "I had trouble opening the seal of the envelope."
+  },
+  {
+    "sentence": "テロリストの侵入を防ぐため、空港は封鎖された。",
+    "sentence_furigana": "テロリストの侵入【しんにゅう】を防【ふせ】ぐため、空港【くうこう】は封鎖【ふうさ】された。",
+    "meaning": "The airport was sealed off to prevent terrorist infiltration."
+  },
+  {
+    "sentence": "彼は心の奥底に感情を封じ込めていた。",
+    "sentence_furigana": "彼【かれ】は心【こころ】の奥底【おくそこ】に感情【かんじょう】を封【ふう】じ込【こ】めていた。",
+    "meaning": "He kept his emotions locked deep inside his heart."
+  },
+  {
+    "sentence": "この手紙は重要な情報が含まれているため、厳重に封されています。",
+    "sentence_furigana": "この手紙【てがみ】は重要【じゅうよう】な情報【じょうほう】が含ま【ふくま】れているため、厳重【げんじゅう】に封【ふう】されています。",
+    "meaning": "This letter contains important information and is therefore securely sealed."
+  },
+  {
+    "sentence": "彼はその秘密を墓場まで持っていくと誓い、封印した。",
+    "sentence_furigana": "彼【かれ】はそんな秘密【ひみつ】を墓場【はかば】まで持【も】っていくと誓【ちか】い、封印【ふういん】した。",
+    "meaning": "He swore to take that secret to his grave and sealed it away."
+  },
+  {
+    "sentence": "封筒の宛名書きが間違っていた。",
+    "sentence_furigana": "封筒【ふうとう】の宛名書【あてなが】きが間違【まちが】っていた。",
+    "meaning": "The address on the envelope was incorrect."
+  },
+  {
+    "sentence": "検疫のため、地域は一時的に封鎖された。",
+    "sentence_furigana": "検疫【けんえき】のため、地域【ちいき】は一時的【いちじてき】に封鎖【ふうさ】された。",
+    "meaning": "The area was temporarily sealed off for quarantine."
+  },
+  {
+    "sentence": "彼は過去の自分を完全に封印した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の自分【じぶん】を完全【かんぜん】に封印【ふういん】した。",
+    "meaning": "He completely sealed away his former self."
+  },
+  {
+    "sentence": "この封筒は特別なセキュリティ封が施されている。",
+    "sentence_furigana": "この封筒【ふうとう】は特別【とくべつ】なセキュリティ封【ふう】が施【ほどこ】されている。",
+    "meaning": "This envelope has a special security seal applied."
+  },
+  {
+    "sentence": "その古い寺院は伝説によって封じられている。",
+    "sentence_furigana": "その古【ふる】い寺院【じいん】は伝説【でんせつ】によって封【ふう】じられている。",
+    "meaning": "That ancient temple is sealed by legend."
+  },
+  {
+    "sentence": "封筒に料金分の切手を貼ってください。",
+    "sentence_furigana": "封筒【ふうとう】に料金分【りょうきんぶん】の切手【きって】を貼ってください。",
+    "meaning": "Please affix the correct postage to the envelope."
+  },
+  {
+    "sentence": "事故現場周辺は安全確保のため封鎖された。",
+    "sentence_furigana": "事故現場周辺【じこげんばしゅうへん】は安全確保【あんぜんかくほ】のため封鎖【ふうさ】された。",
+    "meaning": "The area around the accident site was sealed off for safety."
+  },
+  {
+    "sentence": "彼女は自分の才能を世間から封印した。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の才能【さいのう】を世間【せけん】から封印【ふういん】した。",
+    "meaning": "She hid her talent from the world."
+  },
+  {
+    "sentence": "この瓶は空気を遮断するように封がされている。",
+    "sentence_furigana": "この瓶【びん】は空気【くうき】を遮断【しゃだん】するように封【ふう】がされている。",
+    "meaning": "This bottle is sealed to block out air."
+  },
+  {
+    "sentence": "封筒を折り曲げないでください。",
+    "sentence_furigana": "封筒【ふうとう】を折【お】り曲【ま】げないでください。",
+    "meaning": "Please do not fold the envelope."
+  },
+  {
+    "sentence": "危険区域は完全に封鎖された。",
+    "sentence_furigana": "危険区域【きけんくいき】は完全【かんぜん】に封鎖【ふうさ】された。",
+    "meaning": "The danger zone was completely sealed off."
+  },
+  {
+    "sentence": "彼は過去の出来事を心の中に封印した。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の出来事【できごと】を心【こころ】の中【なか】に封印【ふういん】した。",
+    "meaning": "He sealed away past events in his heart."
+  },
+  {
+    "sentence": "この箱は特別な鍵で封がされていた。",
+    "sentence_furigana": "この箱【はこ】は特別【とくべつ】な鍵【かぎ】で封【ふう】がされていた。",
+    "meaning": "This box was sealed with a special key."
+  },
+  {
+    "sentence": "封筒に記載された金額は正しいですか？",
+    "sentence_furigana": "封筒【ふうとう】に記載【きさい】された金額【きんがく】は正【ただ】しいですか？",
+    "meaning": "Is the amount written on the envelope correct?"
+  },
+  {
+    "sentence": "デモ隊の接近を防ぐため、政府庁舎は封鎖された。",
+    "sentence_furigana": "デモ隊【デモたい】の接近【せっきん】を防【ふせ】ぐため、政府庁舎【せいふちょうしゃ】は封鎖【ふうさ】された。",
+    "meaning": "The government building was sealed off to prevent protesters from approaching."
+  },
+  {
+    "sentence": "彼女は自分の本当の気持ちを封印して、笑顔を繕った。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の本当【ほんとう】の気持【きも】ちを封印【ふういん】して、笑顔【えがお】を繕【つと】った。",
+    "meaning": "She hid her true feelings and put on a smile."
+  },
+  {
+    "sentence": "封筒の封を開けて中身を確認しました。",
+    "sentence_furigana": "封筒【ふうとう】の封【ふう】を開【あ】けて中身【なかみ】を確認【かくにん】しました。",
+    "meaning": "I opened the seal of the envelope and checked the contents."
+  },
+  {
+    "sentence": "その古い都市は疫病のために封鎖された。",
+    "sentence_furigana": "その古【ふる】い都市【とし】は疫病【えきびょう】のために封鎖【ふうさ】された。",
+    "meaning": "That ancient city was sealed off due to an epidemic."
+  },
+  {
+    "sentence": "彼は自身の才能を社会から封印した。",
+    "sentence_furigana": "彼【かれ】は自身【じしん】の才能【さいのう】を社会【しゃかい】から封印【ふういん】した。",
+    "meaning": "He sealed his talent away from society."
+  },
+  {
+    "sentence": "この封筒は特別な保護封がされている。",
+    "sentence_furigana": "この封筒【ふうとう】は特別【とくべつ】な保護封【ほごふう】がされている。",
+    "meaning": "This envelope has a special protective seal."
+  },
+  {
+    "sentence": "封筒の切手代が不足していた。",
+    "sentence_furigana": "封筒【ふうとう】の切手代【きってだい】が不足【ふそく】していた。",
+    "meaning": "The postage on the envelope was insufficient."
+  },
+  {
+    "sentence": "その伝説は長い間封印されてきた。",
+    "sentence_furigana": "その伝説【でんせつ】は長【なが】い間【あいだ】封印【ふういん】されてきた。",
+    "meaning": "That legend has been sealed away for a long time."
+  },
+  {
+    "sentence": "彼は過去の失敗を封印し、再起を図った。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の失敗【しっぱい】を封印【ふういん】し、再起【さいき】を図【はか】った。",
+    "meaning": "He sealed away his past failures and tried to make a comeback."
+  },
+  {
+    "sentence": "封筒に書かれた文字が消えかかっている。",
+    "sentence_furigana": "封筒【ふうとう】に書【か】かれた文字【もじ】が消【き】えかかっている。",
+    "meaning": "The writing on the envelope is fading."
+  },
+  {
+    "sentence": "そのエリアは緊急事態のため封鎖された。",
+    "sentence_furigana": "そのエリアは緊急事態【きんきゅうじたい】のため封鎖【ふうさ】された。",
+    "meaning": "The area was sealed off due to the emergency."
+  },
+  {
+    "sentence": "彼は心の傷を封印し、表面上は平静を装っていた。",
+    "sentence_furigana": "彼【かれ】は心【こころ】の傷【きず】を封印【ふういん】し、表面上【ひょうめんじょう】は平静【へいせい】を装【よそお】っていた。",
+    "meaning": "He sealed his emotional wounds and appeared calm on the surface."
+  }
+]

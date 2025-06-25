@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "その会議は午後3時に終了しました。",
+    "sentence_furigana": "その会議【かいぎ】は午後【ごご】3時【じ】に終了【しゅうりょう】しました。",
+    "meaning": "That meeting ended at 3 PM."
+  },
+  {
+    "sentence": "物語は悲しい結末で終わった。",
+    "sentence_furigana": "物語【ものがたり】は悲【かな】しい結末【けつまつ】で終わった【おわった】。",
+    "meaning": "The story ended with a sad conclusion."
+  },
+  {
+    "sentence": "今日の授業はもうすぐ終わります。",
+    "sentence_furigana": "今日【きょう】の授業【じゅぎょう】はもうすぐ終わります【おわります】。",
+    "meaning": "Today's class will end soon."
+  },
+  {
+    "sentence": "試合が終了するまで、席を立たないでください。",
+    "sentence_furigana": "試合【しあい】が終了【しゅうりょう】するまで、席【せき】を立たないでください。",
+    "meaning": "Please do not leave your seat until the game is over."
+  },
+  {
+    "sentence": "長かった旅がようやく終わりを迎えました。",
+    "sentence_furigana": "長かった【ながかった】旅【たび】がようやく終【お】わりを迎【むか】えましました。",
+    "meaning": "The long journey has finally come to an end."
+  },
+  {
+    "sentence": "この仕事は来週中に終えたいです。",
+    "sentence_furigana": "この仕事【しごと】は来週中【らいしゅうちゅう】に終【お】えたいです。",
+    "meaning": "I want to finish this work by next week."
+  },
+  {
+    "sentence": "卒業式をもって学校生活は終了です。",
+    "sentence_furigana": "卒業式【そつぎょうしき】をもって学校生活【がっこうせいかつ】は終了【しゅうりょう】です。",
+    "meaning": "School life ends with the graduation ceremony."
+  },
+  {
+    "sentence": "ついに待ちに待った週末が終わった。",
+    "sentence_furigana": "ついに待【ま】ちに待【ま】った週末【しゅうまつ】が終わった【おわった】。",
+    "meaning": "Finally, the much-awaited weekend is over."
+  },
+  {
+    "sentence": "彼は最終電車に間に合わず、タクシーで帰宅した。",
+    "sentence_furigana": "彼【かれ】は最終【さいしゅう】電車【でんしゃ】に間【ま】に合わず、タクシーで帰宅【きたく】した。",
+    "meaning": "He missed the last train and went home by taxi."
+  },
+  {
+    "sentence": "このプロジェクトは期限までに必ず終えます。",
+    "sentence_furigana": "このプロジェクトは期限【きげん】までに必【かな】らず終【お】えます。",
+    "meaning": "I will definitely finish this project by the deadline."
+  },
+  {
+    "sentence": "映画の終盤になって、犯人が明らかになった。",
+    "sentence_furigana": "映画【えいが】の終盤【しゅうばん】になって、犯人【はんにん】が明【あき】らかになった。",
+    "meaning": "The culprit was revealed towards the end of the movie."
+  },
+  {
+    "sentence": "夏休みが終わり、子供たちは学校に戻った。",
+    "sentence_furigana": "夏休み【なつやすみ】が終【お】わり、子供たち【こどもたち】は学校【がっこう】に戻った【もどった】。",
+    "meaning": "Summer vacation ended, and the children returned to school."
+  },
+  {
+    "sentence": "期末試験が終われば、すぐに夏休みだ。",
+    "sentence_furigana": "期末試験【きまつしけん】が終われば【おわれば】、すぐに夏休みだ。",
+    "meaning": "As soon as the final exams are over, it's summer vacation."
+  },
+  {
+    "sentence": "私たちは共に多くの時間を過ごし、そして別れが来た。",
+    "sentence_furigana": "私【わたし】たちは共【とも】に多【おお】くの時間【じかん】を過【す】ごし、そして別【わか】れが来【き】た。",
+    "meaning": "We spent a lot of time together, and then came the parting."
+  },
+  {
+    "sentence": "この連載小説はついに完結しました。",
+    "sentence_furigana": "この連載小説【れんさいしょうせつ】はついに完結【かんけつ】しました。",
+    "meaning": "This serialized novel has finally concluded."
+  },
+  {
+    "sentence": "彼の熱意は最後まで衰えなかった。",
+    "sentence_furigana": "彼【かれ】の熱意【ねつい】は最後【さいご】まで衰【おとろ】えなかった。",
+    "meaning": "His enthusiasm did not wane until the very end."
+  },
+  {
+    "sentence": "全てのタスクを終え、彼は休息を取った。",
+    "sentence_furigana": "全【すべ】てのタスクを終【お】え、彼【かれ】は休息【きゅうそく】を取った【とった】。",
+    "meaning": "Having finished all the tasks, he took a rest."
+  },
+  {
+    "sentence": "その劇は観客の感動を最後に残して幕を閉じた。",
+    "sentence_furigana": "その劇【げき】は観客【かんきゃく】の感動【かんどう】を最後【さいご】に残【のこ】して幕【まく】を閉じた【とじた】。",
+    "meaning": "The play closed with the audience's emotions lingering."
+  },
+  {
+    "sentence": "この工事は月末に完了する予定です。",
+    "sentence_furigana": "この工事【こうじ】は月末【げつまつ】に完了【かんりょう】する予定【よてい】です。",
+    "meaning": "This construction is scheduled to be completed by the end of the month."
+  },
+  {
+    "sentence": "朝のランニングを終えてから、朝食を食べます。",
+    "sentence_furigana": "朝【あさ】のランニングを終【お】えてから、朝食【ちょうしょく】を食べます。",
+    "meaning": "After finishing my morning run, I eat breakfast."
+  },
+  {
+    "sentence": "彼の人生の最後の数年間は静かに過ごされた。",
+    "sentence_furigana": "彼【かれ】の人生【じんせい】の最後【さいご】の数年【すうねん】間【かん】は静【しず】かに過【す】ごされた。",
+    "meaning": "The last few years of his life were spent peacefully."
+  },
+  {
+    "sentence": "この本を読み終えるのに時間がかかった。",
+    "sentence_furigana": "この本【ほん】を読【よ】み終える【おえる】のに時間【じかん】がかかった。",
+    "meaning": "It took time to finish reading this book."
+  },
+  {
+    "sentence": "ついに目標を達成し、長い道のりが終わった。",
+    "sentence_furigana": "ついに目標【もくひょう】を達成【たっせい】し、長【なが】い道程【みちのり】が終わった【おわった】。",
+    "meaning": "Finally, the goal was achieved, and the long journey ended."
+  },
+  {
+    "sentence": "閉店時間になったので、店を閉めます。",
+    "sentence_furigana": "閉店時間【へいてんじかん】になったので、店【みせ】を閉めます【しめます】。",
+    "meaning": "It's closing time, so we are closing the store."
+  },
+  {
+    "sentence": "イベントは盛況のうちに終了しました。",
+    "sentence_furigana": "イベントは盛況【せいきょう】のうちに終了【しゅうりょう】しました。",
+    "meaning": "The event concluded successfully."
+  },
+  {
+    "sentence": "彼の career は意外な結末を迎えた。",
+    "sentence_furigana": "彼【かれ】の career は意外【いがい】な結末【けつまつ】を迎【むか】えた。",
+    "meaning": "His career came to an unexpected end."
+  },
+  {
+    "sentence": "私はこのプロジェクトを定刻までに完了させる。",
+    "sentence_furigana": "私【わたし】はこのプロジェクトを定刻【ていこく】までに完了【かんりょう】させる。",
+    "meaning": "I will complete this project by the scheduled time."
+  },
+  {
+    "sentence": "人生の終盤には、多くの教訓を学んだ。",
+    "sentence_furigana": "人生【じんせい】の終盤【しゅうばん】には、多【おお】くの教訓【きょうくん】を学【まな】んだ。",
+    "meaning": "In the later stages of life, I learned many lessons."
+  },
+  {
+    "sentence": "そのコンサートは熱狂のうちに幕を閉じた。",
+    "sentence_furigana": "そのコンサートは熱狂【ねっきょう】のうちに幕【まく】を閉じた【とじた】。",
+    "meaning": "The concert ended in a frenzy."
+  },
+  {
+    "sentence": "夏期講習が終わり次第、休暇に入る予定です。",
+    "sentence_furigana": "夏期講習【かきこうしゅう】が終【お】わり次第【しだい】、休暇【きゅうか】に入【はい】る予定【よてい】です。",
+    "meaning": "I plan to go on vacation as soon as the summer course ends."
+  },
+  {
+    "sentence": "彼の熱弁はついに終わった。",
+    "sentence_furigana": "彼【かれ】の熱弁【ねつべん】はついに終った【おわった】。",
+    "meaning": "His passionate speech finally ended."
+  },
+  {
+    "sentence": "この長い一日もようやく終わりを告げようとしている。",
+    "sentence_furigana": "この長【なが】い一日【いちにち】もようやく終【お】わりを告【つ】げようとしている。",
+    "meaning": "This long day is finally about to come to an end."
+  },
+  {
+    "sentence": "映画のエンドロールが流れると、観客は拍手を送った。",
+    "sentence_furigana": "映画【えいが】のエンドロールが流【なが】れると、観客【かんきゃく】は拍手【はくしゅ】を送った【おくった】。",
+    "meaning": "When the end credits of the movie rolled, the audience applauded."
+  },
+  {
+    "sentence": "最終的な決定は来週発表されます。",
+    "sentence_furigana": "最終的【さいしゅうてき】な決定【けってい】は来週【らいしゅう】発表【はっぴょう】されます。",
+    "meaning": "The final decision will be announced next week."
+  },
+  {
+    "sentence": "この小説の結末は予想外でした。",
+    "sentence_furigana": "この小説【しょうせつ】の結末【けつまつ】は予想外【よそうがい】でした。",
+    "meaning": "The ending of this novel was unexpected."
+  },
+  {
+    "sentence": "会議が長引いたため、終了時刻を過ぎてしまった。",
+    "sentence_furigana": "会議【かいぎ】が長引いた【ながびいた】ため、終了時刻【しゅうりょうじこく】を過【す】ぎてしまった。",
+    "meaning": "The meeting dragged on, so we went past the end time."
+  },
+  {
+    "sentence": "このコースは来月で終了となります。",
+    "sentence_furigana": "このコースは来月【らいげつ】で終了【しゅうりょう】となります。",
+    "meaning": "This course will end next month."
+  },
+  {
+    "sentence": "彼は疲労困憊していたが、仕事を終えるまで頑張った。",
+    "sentence_furigana": "彼【かれ】は疲労困憊【ひろうこんぱい】していたが、仕事【しごと】を終【お】えるまで頑張った【がんばった】。",
+    "meaning": "He was exhausted, but he persevered until the work was finished."
+  },
+  {
+    "sentence": "この歴史的な瞬間はついに終わりを迎えた。",
+    "sentence_furigana": "この歴史的【れきしてき】な瞬間【しゅんかん】はついに終【お】わりを迎【むか】えた。",
+    "meaning": "This historic moment has finally come to an end."
+  },
+  {
+    "sentence": "プロジェクトの最終段階に入りました。",
+    "sentence_furigana": "プロジェクトの最終段階【さいしゅうだんかい】に入りました【はいりました】。",
+    "meaning": "We have entered the final stage of the project."
+  },
+  {
+    "sentence": "私たちは計画を予定通りに終了させることができた。",
+    "sentence_furigana": "私【わたし】たちは計画【けいかく】を予定通【よていどお】り終了【しゅうりょう】させることができた。",
+    "meaning": "We were able to finish the plan as scheduled."
+  },
+  {
+    "sentence": "その劇作家は晩年、創作活動を終えた。",
+    "sentence_furigana": "その劇作家【げきさっか】は晩年【ばんねん】、創作活動【そうさくかつどう】を終えた【おえた】。",
+    "meaning": "The playwright finished his creative activities in his later years."
+  },
+  {
+    "sentence": "この困難な時期も、いつか終わるだろう。",
+    "sentence_furigana": "この困難【こんなん】な時期【じき】も、いつか終る【おわる】だろう。",
+    "meaning": "This difficult period will also end someday."
+  },
+  {
+    "sentence": "彼は全ての責任を終えた後、静かに引退した。",
+    "sentence_furigana": "彼【かれ】は全【すべ】ての責任【せきにん】を終えた【おえた】後【あと】、静【しず】かに引退【いんたい】した。",
+    "meaning": "After finishing all his responsibilities, he quietly retired."
+  },
+  {
+    "sentence": "卒業旅行の終わりは寂しかった。",
+    "sentence_furigana": "卒業旅行【そつぎょうりょこう】の終【お】わりは寂【さび】しかった。",
+    "meaning": "The end of the graduation trip was sad."
+  },
+  {
+    "sentence": "ついに彼の長いキャリアが終わった。",
+    "sentence_furigana": "ついに彼【かれ】の長【なが】いキャリアが終わった【おわった】。",
+    "meaning": "Finally, his long career ended."
+  },
+  {
+    "sentence": "この運動は本日をもって終了します。",
+    "sentence_furigana": "この運動【うんどう】は本日【ほんじつ】をもって終了【しゅうりょう】します。",
+    "meaning": "This campaign ends today."
+  },
+  {
+    "sentence": "私は彼が最後の言葉を言い終えるのを聞いた。",
+    "sentence_furigana": "私【わたし】は彼【かれ】が最後【さいご】の言葉【ことば】を言い終える【おえる】のを聞いた【きいた】。",
+    "meaning": "I heard him finish saying his last words."
+  },
+  {
+    "sentence": "その地域の戦乱はついに終結した。",
+    "sentence_furigana": "その地域【ちいき】の戦乱【せんらん】はついに終結【しゅうけつ】した。",
+    "meaning": "The conflict in that region finally came to an end."
+  },
+  {
+    "sentence": "夏休みが終わったので、勉強を再開しなければならない。",
+    "sentence_furigana": "夏休み【なつやすみ】が終わった【おわった】ので、勉強【べんきょう】を再開【さいかい】しなければならない。",
+    "meaning": "Summer vacation is over, so I have to resume my studies."
+  },
+  {
+    "sentence": "この件はこれで一旦終わりにしましょう。",
+    "sentence_furigana": "この件【けん】はこれで一旦【いったん】終わりにしましょう。",
+    "meaning": "Let's put this matter aside for now."
+  },
+  {
+    "sentence": "彼は全ての作品を完成させてから、満足げに微笑んだ。",
+    "sentence_furigana": "彼【かれ】は全【すべ】ての作品【さくひん】を完成【かんせい】させてから、満足げに微笑んだ【ほほえんだ】。",
+    "meaning": "He smiled with satisfaction after completing all his works."
+  },
+  {
+    "sentence": "そのドラマは感動的な結末で視聴者を魅了した。",
+    "sentence_furigana": "そのドラマは感動的【かんどうてき】な結末【けつまつ】で視聴者【しちょうしゃ】を魅了【みりょう】した。",
+    "meaning": "The drama captivated viewers with its moving ending."
+  },
+  {
+    "sentence": "この古い建物は取り壊されることになった。",
+    "sentence_furigana": "この古【ふる】い建物【たてもの】は取【と】り壊【こ】わされることになった。",
+    "meaning": "This old building will be demolished."
+  },
+  {
+    "sentence": "彼は最後の力を振り絞ってゴールを駆け抜けた。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】の力【ちから】を振【ふ】り絞ってゴールを駆抜【かけぬ】けた。",
+    "meaning": "He mustered his last strength and sprinted to the finish line."
+  },
+  {
+    "sentence": "長い協議の末、ようやく合意に達した。",
+    "sentence_furigana": "長【なが】い協議【きょうぎ】の末【すえ】、ようやく合意【ごうい】に達した【たっした】。",
+    "meaning": "After long negotiations, an agreement was finally reached."
+  },
+  {
+    "sentence": "この期間の業務は全て完了しました。",
+    "sentence_furigana": "この期間【きかん】の業務【ぎょうむ】は全【すべ】て完了【かんりょう】しました。",
+    "meaning": "All operations for this period have been completed."
+  },
+  {
+    "sentence": "イベントは午後5時に終了する予定です。",
+    "sentence_furigana": "イベントは午後【ごご】5時【じ】に終了【しゅうりょう】する予定【よてい】です。",
+    "meaning": "The event is scheduled to end at 5 PM."
+  },
+  {
+    "sentence": "彼の物語は幸せな結末を迎えた。",
+    "sentence_furigana": "彼【かれ】の物語【ものがたり】は幸【しあわ】せな結末【けつまつ】を迎【むか】えた。",
+    "meaning": "His story had a happy ending."
+  },
+  {
+    "sentence": "この仕事は今日中に終わらせなければなりません。",
+    "sentence_furigana": "この仕事【しごと】は今日中【きょうじゅう】に終らせなければなりません。",
+    "meaning": "I must finish this work by the end of today."
+  },
+  {
+    "sentence": "ついに旅の終わりが近づいてきた。",
+    "sentence_furigana": "ついに旅【たび】の終【お】わりが近付いてきた【ちかづいてきた】。",
+    "meaning": "The end of the journey is finally approaching."
+  },
+  {
+    "sentence": "私たちはプロジェクトを予定より早く終えた。",
+    "sentence_furigana": "私【わたし】たちはプロジェクトを予定【よてい】より早【はや】く終えた【おえた】。",
+    "meaning": "We finished the project earlier than scheduled."
+  },
+  {
+    "sentence": "この契約は年度末をもって終了します。",
+    "sentence_furigana": "この契約【けいやく】は年度末【ねんどまつ】をもって終了【しゅうりょう】します。",
+    "meaning": "This contract expires at the end of the fiscal year."
+  },
+  {
+    "sentence": "彼の努力はついに実を結び、成功した。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】はついに実を結び【みをむすび】、成功した【せいこうした】。",
+    "meaning": "His efforts finally bore fruit, and he succeeded."
+  },
+  {
+    "sentence": "この登山は険しい道のりだったが、頂上で終わった。",
+    "sentence_furigana": "この登山【とざん】は険【けわ】しい道程【みちのり】だったが、頂上【ちょうじょう】で終った【おわった】。",
+    "meaning": "This climb was arduous, but it ended at the summit."
+  },
+  {
+    "sentence": "会議は予定通り終了しました。",
+    "sentence_furigana": "会議【かいぎ】は予定通【よていどお】り終了【しゅうりょう】しました。",
+    "meaning": "The meeting ended as scheduled."
+  },
+  {
+    "sentence": "新しい章が始まり、古い章は終わった。",
+    "sentence_furigana": "新【あたら】しい章【しょう】が始【はじ】まり、古【ふる】い章【しょう】は終った【おわった】。",
+    "meaning": "A new chapter began, and the old one ended."
+  },
+  {
+    "sentence": "彼は最後の瞬間まで諦めなかった。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】の瞬間【しゅんかん】まで諦【あき】らめなかった。",
+    "meaning": "He didn't give up until the very last moment."
+  },
+  {
+    "sentence": "この騒動はついに収束に向かった。",
+    "sentence_furigana": "この騒動【そうどう】はついに収束【しゅうそく】に向かった【むかった】。",
+    "meaning": "This commotion finally headed towards resolution."
+  },
+  {
+    "sentence": "この歴史的な偉業はついに達成された。",
+    "sentence_furigana": "この歴史的【れきしてき】な偉業【いぎょう】はついに達成【たっせい】された。",
+    "meaning": "This historic achievement was finally accomplished."
+  },
+  {
+    "sentence": "卒業式をもって、この学校での生活は全て終わりました。",
+    "sentence_furigana": "卒業式【そつぎょうしき】をもって、この学校【がっこう】での生活【せいかつ】は全【すべ】て終りました【おわりました】。",
+    "meaning": "With the graduation ceremony, all life at this school has ended."
+  },
+  {
+    "sentence": "彼は最後まで責任を果たした。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】まで責任【せきにん】を果【は】たした。",
+    "meaning": "He fulfilled his responsibilities until the end."
+  },
+  {
+    "sentence": "この長い旅が終わったら、ゆっくり休みたい。",
+    "sentence_furigana": "この長【なが】い旅【たび】が終わった【おわった】ら、ゆっくり休みたい。",
+    "meaning": "After this long journey ends, I want to rest well."
+  },
+  {
+    "sentence": "彼の career はこの試合で終止符を打った。",
+    "sentence_furigana": "彼【かれ】の career はこの試合【しあい】で終止符【しゅうしふ】を打った【うった】。",
+    "meaning": "His career came to a close with this match."
+  },
+  {
+    "sentence": "この困難なプロジェクトも、もうすぐ終わりだ。",
+    "sentence_furigana": "この困難【こんなん】なプロジェクトも、もうすぐ終【お】わりだ。",
+    "meaning": "This difficult project will also end soon."
+  },
+  {
+    "sentence": "彼女はついに作家としてのキャリアを終えた。",
+    "sentence_furigana": "彼女【かのじょ】はついに作家【さっか】としてのキャリアを終えた【おえた】。",
+    "meaning": "She finally ended her career as a writer."
+  },
+  {
+    "sentence": "この祭りは、盛大な花火をもって終了しました。",
+    "sentence_furigana": "この祭【まつ】りは、盛大【せいだい】な花火【はなび】をもって終了【しゅうりょう】しました。",
+    "meaning": "This festival concluded with a grand fireworks display."
+  },
+  {
+    "sentence": "彼は全てをやり終えた後、満足そうだった。",
+    "sentence_furigana": "彼【かれ】は全【すべ】てをやり終えた【おえた】後【あと】、満足【まんぞく】そうだった。",
+    "meaning": "He looked satisfied after finishing everything."
+  },
+  {
+    "sentence": "この研修は本日をもって終了となります。",
+    "sentence_furigana": "この研修【けんしゅう】は本日【ほんじつ】をもって終了【しゅうりょう】となります。",
+    "meaning": "This training ends today."
+  },
+  {
+    "sentence": "長年続いた戦争はついに終結した。",
+    "sentence_furigana": "長年続いた【ながねんつづいた】戦争【せんそう】はついに終結【しゅうけつ】した。",
+    "meaning": "The long-standing war finally ended."
+  },
+  {
+    "sentence": "彼は最後の最後まで希望を捨てなかった。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】の最後【さいご】まで希望【きぼう】を捨【す】てなかった。",
+    "meaning": "He did not give up hope until the very end."
+  },
+  {
+    "sentence": "このプロジェクトは期日までに必ず完了させます。",
+    "sentence_furigana": "このプロジェクトは期日【きじつ】までに必【かな】らず完了【かんりょう】させます。",
+    "meaning": "I will definitely complete this project by the due date."
+  },
+  {
+    "sentence": "物語の結末は読者の想像に委ねられた。",
+    "sentence_furigana": "物語【ものがたり】の結末【けつまつ】は読者【どくしゃ】の想像【そうぞう】に委【ゆだ】ねられた。",
+    "meaning": "The ending of the story was left to the reader's imagination."
+  },
+  {
+    "sentence": "この長い一日が終わった。",
+    "sentence_furigana": "この長【なが】い一日【いちにち】が終わった【おわった】。",
+    "meaning": "This long day has ended."
+  },
+  {
+    "sentence": "彼は最後の力を振り絞って立ち上がった。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】の力【ちから】を振【ふ】り絞って立【た】ち上がった。",
+    "meaning": "He mustered his last strength and stood up."
+  },
+  {
+    "sentence": "ついにゴールテープを切った。",
+    "sentence_furigana": "ついにゴールテープを切った【きった】。",
+    "meaning": "Finally, I crossed the finish line."
+  },
+  {
+    "sentence": "この事件はついに解決を見た。",
+    "sentence_furigana": "この事件【じけん】はついに解決【かいけつ】を見【み】た。",
+    "meaning": "This case has finally been solved."
+  },
+  {
+    "sentence": "夏休みも今日で終わりです。",
+    "sentence_furigana": "夏休み【なつやすみ】も今日【きょう】で終り【おわり】です。",
+    "meaning": "Summer vacation ends today."
+  },
+  {
+    "sentence": "彼は全ての仕事を終え、満足げに頷いた。",
+    "sentence_furigana": "彼【かれ】は全【すべ】ての仕事【しごと】を終え【おえ】、満足げに頷いた【うなずいた】。",
+    "meaning": "He nodded with satisfaction after finishing all his work."
+  },
+  {
+    "sentence": "この長い戦いはついに終結した。",
+    "sentence_furigana": "この長【なが】い戦【たたか】いはついに終結【しゅうけつ】した。",
+    "meaning": "This long war finally ended."
+  },
+  {
+    "sentence": "彼は最後の手紙を書き終えた。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】の手紙【てがみ】を書【か】き終えた【おえた】。",
+    "meaning": "He finished writing his last letter."
+  },
+  {
+    "sentence": "この物語はハッピーエンドで終わる予定です。",
+    "sentence_furigana": "この物語【ものがたり】はハッピーエンドで終る【おわる】予定【よてい】です。",
+    "meaning": "This story is planned to end with a happy ending."
+  },
+  {
+    "sentence": "全ての困難を乗り越え、ついに目標を達成した。",
+    "sentence_furigana": "全【すべ】ての困難【こんなん】を乗【の】り越え【こえ】、ついに目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "Overcoming all difficulties, I finally achieved my goal."
+  },
+  {
+    "sentence": "彼は最後まで自分の信念を貫いた。",
+    "sentence_furigana": "彼【かれ】は最後【さいご】まで自分【じぶん】の信念【しんねん】を貫【つらぬ】いた。",
+    "meaning": "He stuck to his beliefs until the very end."
+  }
+]

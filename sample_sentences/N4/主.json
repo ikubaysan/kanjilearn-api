@@ -1,0 +1,432 @@
+[
+  {
+    "sentence": "この家は私の主人に属しています。",
+    "sentence_furigana": "この家【いえ】は私【わたし】の主人【しゅじん】に属【ぞく】しています。",
+    "meaning": "This house belongs to my master."
+  },
+  {
+    "sentence": "彼女は会社の主人です。",
+    "sentence_furigana": "彼女【かのじょ】は会社【かいしゃ】の主人【しゅじん】です。",
+    "meaning": "She is the head of the company."
+  },
+  {
+    "sentence": "主人は忙しいです。",
+    "sentence_furigana": "主人【しゅじん】は忙【いそが】しいです。",
+    "meaning": "The master is busy."
+  },
+  {
+    "sentence": "あなたは私の主人です。",
+    "sentence_furigana": "あなたはこの私の主人【しゅじん】です。",
+    "meaning": "You are my master."
+  },
+  {
+    "sentence": "主人はとても優しいです。",
+    "sentence_furigana": "主人【しゅじん】はとても優【やさ】しいです。",
+    "meaning": "The master is very kind."
+  },
+  {
+    "sentence": "主人は新しい車を買いました。",
+    "sentence_furigana": "主人【しゅじん】は新【あたら】しい車【くるま】を買【か】いました。",
+    "meaning": "The master bought a new car."
+  },
+  {
+    "sentence": "主人は子供が好きです。",
+    "sentence_furigana": "主人【しゅじん】は子供【こども】が好【す】きです。",
+    "meaning": "The master likes children."
+  },
+  {
+    "sentence": "主人は猫を飼っています。",
+    "sentence_furigana": "主人【しゅじん】は猫【ねこ】を飼【か】っています。",
+    "meaning": "The master has a cat."
+  },
+  {
+    "sentence": "主人は料理が得意です。",
+    "sentence_furigana": "主人【しゅじん】は料理【りょうり】が得意【とくい】です。",
+    "meaning": "The master is good at cooking."
+  },
+  {
+    "sentence": "主人は音楽を聴くのが好きです。",
+    "sentence_furigana": "主人【しゅじん】は音楽【おんがく】を聴【き】くのが好【す】きです。",
+    "meaning": "The master likes listening to music."
+  },
+  {
+    "sentence": "主人は読書を趣味にしています。",
+    "sentence_furigana": "主人【しゅじん】は読書【どくしょ】を趣味【しゅみ】にしています。",
+    "meaning": "The master's hobby is reading."
+  },
+  {
+    "sentence": "主人は旅行が好きです。",
+    "sentence_furigana": "主人【しゅじん】は旅行【りょこう】が好【す】きです。",
+    "meaning": "The master likes to travel."
+  },
+  {
+    "sentence": "主人は絵を描くのが好きです。",
+    "sentence_furigana": "主人【しゅじん】は絵【え】を描【か】くのが好【す】きです。",
+    "meaning": "The master likes to draw pictures."
+  },
+  {
+    "sentence": "主人は映画を見るのが好きです。",
+    "sentence_furigana": "主人【しゅじん】は映画【えいが】を見【み】るのが好【す】きです。",
+    "meaning": "The master likes watching movies."
+  },
+  {
+    "sentence": "主人はスポーツが好きです。",
+    "sentence_furigana": "主人【しゅじん】はスポーツが好【す】きです。",
+    "meaning": "The master likes sports."
+  },
+  {
+    "sentence": "主人はペットを飼いたいです。",
+    "sentence_furigana": "主人【しゅじん】はペットを飼【か】いたいですか。",
+    "meaning": "Does the master want to have a pet?"
+  },
+  {
+    "sentence": "主人は健康に気を使っています。",
+    "sentence_furigana": "主人【しゅじん】は健康【けんこう】に気【き】を使【つか】っています。",
+    "meaning": "The master is mindful of their health."
+  },
+  {
+    "sentence": "主人は早起きです。",
+    "sentence_furigana": "主人【しゅじん】は早起【はやお】きです。",
+    "meaning": "The master is an early riser."
+  },
+  {
+    "sentence": "主人は遅くまで起きています。",
+    "sentence_furigana": "主人【しゅじん】は遅【おく】くまで起【お】きています。",
+    "meaning": "The master stays up late."
+  },
+  {
+    "sentence": "主人は仕事熱心です。",
+    "sentence_furigana": "主人【しゅじん】は仕事熱心【しごとねっしん】です。",
+    "meaning": "The master is devoted to their work."
+  },
+  {
+    "sentence": "主人はあまり話しません。",
+    "sentence_furigana": "主人【しゅじん】はあまり話【はな】しません。",
+    "meaning": "The master doesn't talk much."
+  },
+  {
+    "sentence": "主人は私のことを大切に思ってくれます。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】のことを大切【たいせつ】に思【おも】ってくれます。",
+    "meaning": "The master cares about me."
+  },
+  {
+    "sentence": "主人は私の話を聞いてくれます。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】の話【はな】しを聞【き】いてくれます。",
+    "meaning": "The master listens to me."
+  },
+  {
+    "sentence": "主人は私の夢を応援してくれます。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】の夢【ゆめ】を応援【おうえん】してくれます。",
+    "meaning": "The master supports my dreams."
+  },
+  {
+    "sentence": "主人は私の誕生日を覚えていてくれました。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】の誕生日【たんじょうび】を覚【おぼ】えていてくれました。",
+    "meaning": "The master remembered my birthday."
+  },
+  {
+    "sentence": "主人は私にプレゼントをくれました。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】にプレゼントをくれました。",
+    "meaning": "The master gave me a present."
+  },
+  {
+    "sentence": "主人は私に料理を教えてくれました。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】に料理【りょうり】を教【おし】えてくれました。",
+    "meaning": "The master taught me how to cook."
+  },
+  {
+    "sentence": "主人は私に英語を教えてくれました。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】に英語【えいご】を教【おし】えてくれました。",
+    "meaning": "The master taught me English."
+  },
+  {
+    "sentence": "主人は私に仕事を教えてくれました。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】に仕事【しごと】を教【おし】えてくれました。",
+    "meaning": "The master taught me the job."
+  },
+  {
+    "sentence": "主人は私に大切なことを教えてくれました。",
+    "sentence_furigana": "主人【しゅじん】は私【わたし】に大切【たいせつ】なことを教【おし】えてくれました。",
+    "meaning": "The master taught me important things."
+  },
+  {
+    "sentence": "この店は主人が経営しています。",
+    "sentence_furigana": "この店【みせ】は主人【しゅじん】が経営【けいえい】しています。",
+    "meaning": "This shop is managed by the owner."
+  },
+  {
+    "sentence": "これは主人のおすすめの本です。",
+    "sentence_furigana": "これは主人【しゅじん】のおすすめの本【ほん】です。",
+    "meaning": "This is a book recommended by the master."
+  },
+  {
+    "sentence": "これは主人が書いた本です。",
+    "sentence_furigana": "これは主人【しゅじん】が書【か】いた本【ほん】です。",
+    "meaning": "This is a book written by the master."
+  },
+  {
+    "sentence": "これは主人の大切なものです。",
+    "sentence_furigana": "これは主人【しゅじん】の大切【たいせつ】なものです。",
+    "meaning": "This is something important to the master."
+  },
+  {
+    "sentence": "これは主人の作品です。",
+    "sentence_furigana": "これは主人【しゅじん】の作品【さくひん】です。",
+    "meaning": "This is the master's work."
+  },
+  {
+    "sentence": "主人は自分の時間を大切にします。",
+    "sentence_furigana": "主人【しゅじん】は自分【じぶん】の時間【じかん】を大切【たいせつ】にします。",
+    "meaning": "The master cherishes their own time."
+  },
+  {
+    "sentence": "主人は規則を重んじます。",
+    "sentence_furigana": "主人【しゅじん】は規則【きそく】を重【おも】んじます。",
+    "meaning": "The master values rules."
+  },
+  {
+    "sentence": "主人は勤勉で有名です。",
+    "sentence_furigana": "主人【しゅじん】は勤勉【きんべん】で有名【ゆうめい】です。",
+    "meaning": "The master is famous for their diligence."
+  },
+  {
+    "sentence": "主人は成功の秘訣を知っています。",
+    "sentence_furigana": "主人【しゅじん】は成功【せいこう】の秘訣【ひけつ】を知【し】っています。",
+    "meaning": "The master knows the secret to success."
+  },
+  {
+    "sentence": "主人は目標を達成しました。",
+    "sentence_furigana": "主人【しゅじん】は目標【もくひょう】を達成【たっせい】しました。",
+    "meaning": "The master achieved their goal."
+  },
+  {
+    "sentence": "主人はリーダーシップがあります。",
+    "sentence_furigana": "主人【しゅじん】はリーダーシップがあります。",
+    "meaning": "The master has leadership qualities."
+  },
+  {
+    "sentence": "主人は責任感が強いです。",
+    "sentence_furigana": "主人【しゅじん】は責任感【せきにんかん】が強【つよ】いです。",
+    "meaning": "The master has a strong sense of responsibility."
+  },
+  {
+    "sentence": "主人は決断力があります。",
+    "sentence_furigana": "主人【しゅじん】は決断力【けつだんりょく】があります。",
+    "meaning": "The master is decisive."
+  },
+  {
+    "sentence": "主人は忍耐強いです。",
+    "sentence_furigana": "主人【しゅじん】は忍耐強【にんたいづよ】いです。",
+    "meaning": "The master is patient."
+  },
+  {
+    "sentence": "主人は革新的な考えを持っています。",
+    "sentence_furigana": "主人【しゅじん】は革新【かくしん】的【てき】な考【かんが】えを持【も】っています。",
+    "meaning": "The master has innovative ideas."
+  },
+  {
+    "sentence": "主人は問題解決能力が高いです。",
+    "sentence_furigana": "主人【しゅじん】は問題解決能力【もんだいかいけつ のうりょく】が高【たか】いです。",
+    "meaning": "The master has high problem-solving skills."
+  },
+  {
+    "sentence": "主人は常に学び続けています。",
+    "sentence_furigana": "主人【しゅじん】は常【つね】に学【まな】び続【つづ】けています。",
+    "meaning": "The master is constantly learning."
+  },
+  {
+    "sentence": "主人は多くの人に慕われています。",
+    "sentence_furigana": "主人【しゅじん】は多【おお】くの人【ひと】に慕【した】われています。",
+    "meaning": "The master is admired by many people."
+  },
+  {
+    "sentence": "主人は皆から信頼されています。",
+    "sentence_furigana": "主人【しゅじん】は皆【みな】から信頼【しんらい】されています。",
+    "meaning": "The master is trusted by everyone."
+  },
+  {
+    "sentence": "主人は周囲の人々を大切にします。",
+    "sentence_furigana": "主人【しゅじん】は周囲【しゅうい】の人々【ひとびと】を大切【たいせつ】にします。",
+    "meaning": "The master values the people around them."
+  },
+  {
+    "sentence": "主人は従業員を大切にします。",
+    "sentence_furigana": "主人【しゅじん】は従業員【じゅうぎょういん】を大切【たいせつ】にします。",
+    "meaning": "The master values their employees."
+  },
+  {
+    "sentence": "主人はチームワークを重視します。",
+    "sentence_furigana": "主人【しゅじん】はチームワークを重視【じゅうし】します。",
+    "meaning": "The master emphasizes teamwork."
+  },
+  {
+    "sentence": "主人は会議で重要な発言をしました。",
+    "sentence_furigana": "主人【しゅじん】は会議【かいぎ】で重要【じゅうよう】な発言【はつげん】をしました。",
+    "meaning": "The master made an important statement at the meeting."
+  },
+  {
+    "sentence": "主人は会議の進行を管理します。",
+    "sentence_furigana": "主人【しゅじん】は会議【かいぎ】の進行【しんこう】を管理【かんり】します。",
+    "meaning": "The master manages the meeting's progress."
+  },
+  {
+    "sentence": "主人は会議の議事録を作成します。",
+    "sentence_furigana": "主人【しゅじん】は会議【かいぎ】の議事録【ぎじろく】を作成【さくせい】します。",
+    "meaning": "The master creates the meeting minutes."
+  },
+  {
+    "sentence": "主人は会議の結果を報告します。",
+    "sentence_furigana": "主人【しゅじん】は会議【かいぎ】の結果【けっか】を報告【ほうこく】します。",
+    "meaning": "The master reports the meeting results."
+  },
+  {
+    "sentence": "主人は会議の議題を設定します。",
+    "sentence_furigana": "主人【しゅじん】は会議【かいぎ】の議題【ぎだい】を設定【せってい】します。",
+    "meaning": "The master sets the meeting agenda."
+  },
+  {
+    "sentence": "主人は会議の結論をまとめます。",
+    "sentence_furigana": "主人【しゅじん】は会議【かいぎ】の結論【けつろん】をまとます。",
+    "meaning": "The master summarizes the meeting's conclusion."
+  },
+  {
+    "sentence": "主人は会社の主要な人物です。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】な人物【じんぶつ】です。",
+    "meaning": "The master is a key figure in the company."
+  },
+  {
+    "sentence": "主人は会社の成長に貢献しています。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の成長【せいちょう】に貢献【こうけん】しています。",
+    "meaning": "The master contributes to the company's growth."
+  },
+  {
+    "sentence": "主人は会社の将来を担っています。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の将来【しょうらい】を担【にな】っています。",
+    "meaning": "The master is responsible for the company's future."
+  },
+  {
+    "sentence": "主人は会社の方向性を決めます。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の方向性【ほうこうせい】を決【き】めます。",
+    "meaning": "The master determines the company's direction."
+  },
+  {
+    "sentence": "主人は会社のビジョンを持っています。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】のビジョンを持【も】っています。",
+    "meaning": "The master has a vision for the company."
+  },
+  {
+    "sentence": "主人は会社の経営方針を説明しました。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の経営方針【けいえいほうしん】を説明【せつめい】しました。",
+    "meaning": "The master explained the company's management policy."
+  },
+  {
+    "sentence": "主人は会社の戦略を立てます。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の戦略【せんりゃく】を立【た】てます。",
+    "meaning": "The master formulates the company's strategy."
+  },
+  {
+    "sentence": "主人は会社の評判を守ります。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の評判【ひょうばん】を守【まも】ります。",
+    "meaning": "The master protects the company's reputation."
+  },
+  {
+    "sentence": "主人は会社の利益を最大化します。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の利益【りえき】を最大化【さいだいか】します。",
+    "meaning": "The master maximizes the company's profit."
+  },
+  {
+    "sentence": "主人は会社の活動を監督します。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の活動【かつどう】を監督【かんとく】します。",
+    "meaning": "The master oversees the company's activities."
+  },
+  {
+    "sentence": "主人は会社の業績を向上させます。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の業績【ぎょうせき】を向上【こうじょう】させます。",
+    "meaning": "The master improves the company's performance."
+  },
+  {
+    "sentence": "主人は会社のプロジェクトを主導します。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】のプロジェクトを主導【しゅどう】します。",
+    "meaning": "The master leads the company's projects."
+  },
+  {
+    "sentence": "主人は会社の重要な決定を下しました。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の重要【じゅうよう】な決定【けってい】を下【くだ】しました。",
+    "meaning": "The master made an important decision for the company."
+  },
+  {
+    "sentence": "主人は会社の成功の鍵です。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の成功【せいこう】の鍵【かぎ】です。",
+    "meaning": "The master is the key to the company's success."
+  },
+  {
+    "sentence": "主人は会社の主要なスポンサーです。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】なスポンサーです。",
+    "meaning": "The master is the main sponsor of the company."
+  },
+  {
+    "sentence": "主人は会社の主要な顧客です。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】な顧客【こきゃく】です。",
+    "meaning": "The master is a major customer of the company."
+  },
+  {
+    "sentence": "主人は会社の主要な株主です。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】な株主【かぶぬし】です。",
+    "meaning": "The master is a major shareholder of the company."
+  },
+  {
+    "sentence": "主人は会社の主要なパートナーです。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】なパートナーです。",
+    "meaning": "The master is a key partner of the company."
+  },
+  {
+    "sentence": "主人は会社の主要な製品です。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】な製品【せいひん】です。",
+    "meaning": "The master is the company's main product."
+  },
+  {
+    "sentence": "主人はこのプロジェクトの責任者です。",
+    "sentence_furigana": "主人【しゅじん】はこのプロジェクトの責任者【せきにんしゃ】です。",
+    "meaning": "The master is in charge of this project."
+  },
+  {
+    "sentence": "主人はこの会議の議長です。",
+    "sentence_furigana": "主人【しゅじん】はこの会議【かいぎ】の議長【ぎちょう】です。",
+    "meaning": "The master is the chairman of this meeting."
+  },
+  {
+    "sentence": "主人はこのイベントの主催者です。",
+    "sentence_furigana": "主人【しゅじん】はこのイベントの主催者【しゅさいしゃ】です。",
+    "meaning": "The master is the organizer of this event."
+  },
+  {
+    "sentence": "主人はこの施設の管理者です。",
+    "sentence_furigana": "主人【しゅじん】はこの施設【しせつ】の管理者【かんりしゃ】です。",
+    "meaning": "The master is the administrator of this facility."
+  },
+  {
+    "sentence": "主人はこの組織の長です。",
+    "sentence_furigana": "主人【しゅじん】はこの組織【そしき】の長【おさ】です。",
+    "meaning": "The master is the head of this organization."
+  },
+  {
+    "sentence": "主人はこの団体の中心人物です。",
+    "sentence_furigana": "主人【しゅじん】はこの団体【だんたい】の中心人物【ちゅうしんじんぶつ】です。",
+    "meaning": "The master is the central figure of this group."
+  },
+  {
+    "sentence": "主人はこの分野の権威です。",
+    "sentence_furigana": "主人【しゅじん】はこの分野【ぶんや】の権威【けんい】です。",
+    "meaning": "The master is an authority in this field."
+  },
+  {
+    "sentence": "主人はこの国の将来を担っています。",
+    "sentence_furigana": "主人【しゅじん】はこの国【くに】の将来【しょうらい】を担【にな】っています。",
+    "meaning": "The master is responsible for the future of this country."
+  },
+  {
+    "sentence": "主人はこの会社の主要な株主です。",
+    "sentence_furigana": "主人【しゅじん】は会社【かいしゃ】の主要【しゅよう】な株主【かぶぬし】です。",
+    "meaning": "The master is the main shareholder of this company."
+  }
+]

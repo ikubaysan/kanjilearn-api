@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "この車はとても速いです。",
+    "sentence_furigana": "この車【くるま】はとても速【はや】いです。",
+    "meaning": "This car is very fast."
+  },
+  {
+    "sentence": "駅まで車で送ってくれますか？",
+    "sentence_furigana": "駅【えき】まで車【くるま】で送【おく】ってくれますか？",
+    "meaning": "Can you give me a ride to the station by car?"
+  },
+  {
+    "sentence": "新しい車を買いました。",
+    "sentence_furigana": "新【あたら】しい車【くるま】を買【か】いました。",
+    "meaning": "I bought a new car."
+  },
+  {
+    "sentence": "車の運転は好きですか？",
+    "sentence_furigana": "車【くるま】の運転【うんてん】は好【す】きですか？",
+    "meaning": "Do you like driving cars?"
+  },
+  {
+    "sentence": "駐車場はどこにありますか？",
+    "sentence_furigana": "駐車【ちゅうしゃ】場【じょう】はどこにありますか？",
+    "meaning": "Where is the parking lot?"
+  },
+  {
+    "sentence": "彼の車は赤色です。",
+    "sentence_furigana": "彼【かれ】の車【くるま】は赤色【あかいろ】です。",
+    "meaning": "His car is red."
+  },
+  {
+    "sentence": "電車と車のどちらが便利ですか？",
+    "sentence_furigana": "電車【でんしゃ】と車【くるま】のどちらが便利【べんり】ですか？",
+    "meaning": "Which is more convenient, the train or the car?"
+  },
+  {
+    "sentence": "車の免許を持っていますか？",
+    "sentence_furigana": "車【くるま】の免許【めんきょ】を持【も】っていますか？",
+    "meaning": "Do you have a driver's license?"
+  },
+  {
+    "sentence": "この道路は車がたくさん通ります。",
+    "sentence_furigana": "この道路【どうろ】は車【くるま】がたくさん通【とお】ります。",
+    "meaning": "Many cars pass on this road."
+  },
+  {
+    "sentence": "車の鍵をなくしてしまいました。",
+    "sentence_furigana": "車【くるま】の鍵【かぎ】をなくしてしまいました。",
+    "meaning": "I lost my car keys."
+  },
+  {
+    "sentence": "車を修理に出しました。",
+    "sentence_furigana": "車【くるま】を修理【しゅうり】に出【だ】しました。",
+    "meaning": "I took the car in for repair."
+  },
+  {
+    "sentence": "電気自動車に乗りたいです。",
+    "sentence_furigana": "電気自動車【でんきじどうしゃ】に乗【の】りたいです。",
+    "meaning": "I want to ride an electric car."
+  },
+  {
+    "sentence": "車の保険について教えてください。",
+    "sentence_furigana": "車【くるま】の保険【ほけん】について教【おし】えてください。",
+    "meaning": "Please tell me about car insurance."
+  },
+  {
+    "sentence": "子供を車に乗せました。",
+    "sentence_furigana": "子供【こども】を車【くるま】に乗【の】せました。",
+    "meaning": "I put the child in the car."
+  },
+  {
+    "sentence": "車の色は黒が好きです。",
+    "sentence_furigana": "車【くるま】の色【いろ】は黒【くろ】が好【す】きです。",
+    "meaning": "I like black as the color of the car."
+  },
+  {
+    "sentence": "リモコンで車を動かします。",
+    "sentence_furigana": "リモコンで車【くるま】を動【うご】かします。",
+    "meaning": "I move the car with the remote control."
+  },
+  {
+    "sentence": "車のエンジン音が静かです。",
+    "sentence_furigana": "車【くるま】のエンジン音【おと】が静【しず】かです。",
+    "meaning": "The car's engine sound is quiet."
+  },
+  {
+    "sentence": "この車は中古です。",
+    "sentence_furigana": "この車【くるま】は中古【ちゅうこ】です。",
+    "meaning": "This car is used."
+  },
+  {
+    "sentence": "車のタイヤがパンクしました。",
+    "sentence_furigana": "車【くるま】のタイヤがパンクしました。",
+    "meaning": "The car's tire went flat."
+  },
+  {
+    "sentence": "自転車で駅まで行きましたが、車で行く方が早いです。",
+    "sentence_furigana": "自転車【じてんしゃ】で駅【えき】まで行【い】きましたが、車【くるま】で行【い】く方【ほう】が早【はや】いです。",
+    "meaning": "I went to the station by bicycle, but it is faster to go by car."
+  },
+  {
+    "sentence": "車のスピード違反で捕まりました。",
+    "sentence_furigana": "車【くるま】のスピード違反【いはん】で捕【つか】まりました。",
+    "meaning": "I was caught for speeding in a car."
+  },
+  {
+    "sentence": "車椅子で移動しやすい建物です。",
+    "sentence_furigana": "車椅子【くるまいす】で移動【いどう】しやすい建物【たてもの】です。",
+    "meaning": "This is a building that is easy to move around in with a wheelchair."
+  },
+  {
+    "sentence": "この車は燃費が良いです。",
+    "sentence_furigana": "この車【くるま】は燃費【ねんぴ】が良【よ】いです。",
+    "meaning": "This car has good fuel efficiency."
+  },
+  {
+    "sentence": "車から荷物を降ろします。",
+    "sentence_furigana": "車【くるま】から荷物【にもつ】を降【お】ろします。",
+    "meaning": "I unload the luggage from the car."
+  },
+  {
+    "sentence": "彼は赤い車を運転しています。",
+    "sentence_furigana": "彼【かれ】は赤【あか】い車【くるま】を運転【うんてん】しています。",
+    "meaning": "He is driving a red car."
+  },
+  {
+    "sentence": "車のワイパーが壊れました。",
+    "sentence_furigana": "車【くるま】のワイパーが壊【こわ】れました。",
+    "meaning": "The car's wipers broke."
+  },
+  {
+    "sentence": "この車は静かに走ります。",
+    "sentence_furigana": "この車【くるま】は静【しず】かに走【はし】ります。",
+    "meaning": "This car runs quietly."
+  },
+  {
+    "sentence": "車に忘れ物をしました。",
+    "sentence_furigana": "車【くるま】に忘【わ】れ物【もの】をしました。",
+    "meaning": "I left something in the car."
+  },
+  {
+    "sentence": "車の掃除をしました。",
+    "sentence_furigana": "車【くるま】の掃除【そうじ】をしました。",
+    "meaning": "I cleaned the car."
+  },
+  {
+    "sentence": "車のドアが開かなくなりました。",
+    "sentence_furigana": "車【くるま】のドアが開【あ】かなくなりました。",
+    "meaning": "The car door won't open."
+  },
+  {
+    "sentence": "古い車を処分しました。",
+    "sentence_furigana": "古【ふる】い車【くるま】を処分【しょぶん】しました。",
+    "meaning": "I disposed of the old car."
+  },
+  {
+    "sentence": "車で旅行に行く計画です。",
+    "sentence_furigana": "車【くるま】で旅行【りょこう】に行【い】く計画【けいかく】です。",
+    "meaning": "I plan to go on a trip by car."
+  },
+  {
+    "sentence": "車のライトが点灯しません。",
+    "sentence_furigana": "車【くるま】のライトが点灯【てんとう】しません。",
+    "meaning": "The car's lights don't turn on."
+  },
+  {
+    "sentence": "この車は最新のモデルです。",
+    "sentence_furigana": "この車【くるま】は最新【さいしん】のモデルです。",
+    "meaning": "This car is the latest model."
+  },
+  {
+    "sentence": "車のバッテリーが上がりました。",
+    "sentence_furigana": "車【くるま】のバッテリーが上【あ】がりました。",
+    "meaning": "The car battery died."
+  },
+  {
+    "sentence": "車のナンバープレートを交換しました。",
+    "sentence_furigana": "車【くるま】のナンバープレートを交換【こうかん】しました。",
+    "meaning": "I changed the car's license plate."
+  },
+  {
+    "sentence": "車の後ろに大きなトラックが来ています。",
+    "sentence_furigana": "車【くるま】の後ろ【うしろ】に大【おお】きなトラックが来【き】ています。",
+    "meaning": "A large truck is coming behind the car."
+  },
+  {
+    "sentence": "車のオイル交換をしました。",
+    "sentence_furigana": "車【くるま】のオイル交換【こうかん】をしました。",
+    "meaning": "I changed the car's oil."
+  },
+  {
+    "sentence": "この車は乗り心地が良いです。",
+    "sentence_furigana": "この車【くるま】は乗【の】り心地【ごこち】が良いです。",
+    "meaning": "This car is comfortable to ride."
+  },
+  {
+    "sentence": "車のワイパーを動かしてください。",
+    "sentence_furigana": "車【くるま】のワイパーを動【うご】かしてください。",
+    "meaning": "Please operate the car's wipers."
+  },
+  {
+    "sentence": "車の部品を探しています。",
+    "sentence_furigana": "車【くるま】の部品【ぶひん】を探【さが】しています。",
+    "meaning": "I am looking for car parts."
+  },
+  {
+    "sentence": "車のヘッドライトが暗いです。",
+    "sentence_furigana": "車【くるま】のヘッドライトが暗【くら】いです。",
+    "meaning": "The car's headlights are dim."
+  },
+  {
+    "sentence": "車のシートベルトを締めてください。",
+    "sentence_furigana": "車【くるま】のシートベルトを締【し】めてください。",
+    "meaning": "Please fasten your seatbelt."
+  },
+  {
+    "sentence": "車のガソリンがほとんどありません。",
+    "sentence_furigana": "車【くるま】のガソリンがほとんどありません。",
+    "meaning": "The car has almost no gasoline."
+  },
+  {
+    "sentence": "彼は車で通勤しています。",
+    "sentence_furigana": "彼【かれ】は車【くるま】で通勤【つうきん】しています。",
+    "meaning": "He commutes by car."
+  },
+  {
+    "sentence": "車のキーを中に置いたままドアを閉めてしまった。",
+    "sentence_furigana": "車【くるま】のキーを中【なか】に置【お】いたままドアを閉【し】めてしまった。",
+    "meaning": "I closed the door with the car keys inside."
+  },
+  {
+    "sentence": "この車は安全性が高いです。",
+    "sentence_furigana": "この車【くるま】は安全【あんぜん】性【せい】が高【たか】いです。",
+    "meaning": "This car has high safety."
+  },
+  {
+    "sentence": "車の運転席に座りました。",
+    "sentence_furigana": "車【くるま】の運転席【うんてんせき】に座【すわ】りました。",
+    "meaning": "I sat in the driver's seat of the car."
+  },
+  {
+    "sentence": "車のマフラーから黒い煙が出ています。",
+    "sentence_furigana": "車【くるま】のマフラーから黒【くろ】い煙【けむり】が出【で】ています。",
+    "meaning": "Black smoke is coming out of the car's muffler."
+  },
+  {
+    "sentence": "車の後部座席に子供がいます。",
+    "sentence_furigana": "車【くるま】の後部座席【こうぶざせき】に子供【こども】がいます。",
+    "meaning": "There is a child in the back seat of the car."
+  },
+  {
+    "sentence": "車の排気ガスが問題になっています。",
+    "sentence_furigana": "車【くるま】の排気ガス【はいきガス】が問題【もんだい】になっています。",
+    "meaning": "Car exhaust gas is becoming a problem."
+  },
+  {
+    "sentence": "車のボンネットが開いています。",
+    "sentence_furigana": "車【くるま】のボンネットが開【あ】いています。",
+    "meaning": "The car's hood is open."
+  },
+  {
+    "sentence": "車のガラスをきれいに拭きました。",
+    "sentence_furigana": "車【くるま】のガラスをきれいに拭【ふ】きました。",
+    "meaning": "I wiped the car's glass clean."
+  },
+  {
+    "sentence": "この車は電気で動きます。",
+    "sentence_furigana": "この車【くるま】は電気【でんき】で動【うご】きます。",
+    "meaning": "This car runs on electricity."
+  },
+  {
+    "sentence": "車のワイパーがうまく動きません。",
+    "sentence_furigana": "車【くるま】のワイパーがうまく動【うご】きません。",
+    "meaning": "The car's wipers are not working well."
+  },
+  {
+    "sentence": "車を運転する時は注意が必要です。",
+    "sentence_furigana": "車【くるま】を運転【うんてん】する時【とき】は注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Caution is necessary when driving a car."
+  },
+  {
+    "sentence": "車のブレーキが効きません。",
+    "sentence_furigana": "車【くるま】のブレーキが効【き】きません。",
+    "meaning": "The car's brakes don't work."
+  },
+  {
+    "sentence": "車のナンバーを覚えられません。",
+    "sentence_furigana": "車【くるま】のナンバーを覚【おぼ】えられません。",
+    "meaning": "I can't remember the car's number."
+  },
+  {
+    "sentence": "車のエンジンをかけました。",
+    "sentence_furigana": "車【くるま】のエンジンを掛【か】けました。",
+    "meaning": "I started the car's engine."
+  },
+  {
+    "sentence": "車に乗って景色を楽しんでいます。",
+    "sentence_furigana": "車【くるま】に乗【の】って景色【けしき】を楽【たの】しんでいます。",
+    "meaning": "I am enjoying the scenery while riding in the car."
+  },
+  {
+    "sentence": "車の色が気に入りました。",
+    "sentence_furigana": "車【くるま】の色【いろ】が気【き】に入【い】りました。",
+    "meaning": "I liked the color of the car."
+  },
+  {
+    "sentence": "車の窓を開けて換気しました。",
+    "sentence_furigana": "車【くるま】の窓【まど】を開【あ】けて換気【かんき】しました。",
+    "meaning": "I opened the car window for ventilation."
+  },
+  {
+    "sentence": "車の修理代が高かったです。",
+    "sentence_furigana": "車【くるま】の修理代【しゅうりだい】が高【たか】かったです。",
+    "meaning": "The car repair cost was high."
+  },
+  {
+    "sentence": "車の外観がとても美しいです。",
+    "sentence_furigana": "車【くるま】の外観【がいかん】がとても美【うつく】しいです。",
+    "meaning": "The car's exterior is very beautiful."
+  },
+  {
+    "sentence": "車のダッシュボードに物を置かないでください。",
+    "sentence_furigana": "車【くるま】のダッシュボードに物【もの】を置【お】かないでください。",
+    "meaning": "Please do not put things on the car's dashboard."
+  },
+  {
+    "sentence": "車のヘッドレストを調整しました。",
+    "sentence_furigana": "車【くるま】のヘッドレストを調整【ちょうせい】しました。",
+    "meaning": "I adjusted the car's headrest."
+  },
+  {
+    "sentence": "車の後部座席に荷物を積みました。",
+    "sentence_furigana": "車【くるま】の後部座席【こうぶざせき】に荷物【にもつ】を積【つ】みました。",
+    "meaning": "I loaded luggage into the back seat of the car."
+  },
+  {
+    "sentence": "車のドアミラーが壊れています。",
+    "sentence_furigana": "車【くるま】のドアミラーが壊【こわ】れています。",
+    "meaning": "The car's door mirror is broken."
+  },
+  {
+    "sentence": "車のシートカバーを付けました。",
+    "sentence_furigana": "車【くるま】のシートカバーを付【つ】けました。",
+    "meaning": "I put on seat covers for the car."
+  },
+  {
+    "sentence": "車の排気管から異音がします。",
+    "sentence_furigana": "車【くるま】の排気管【はいきかん】から異音【いおん】がします。",
+    "meaning": "There is an unusual noise from the car's exhaust pipe."
+  },
+  {
+    "sentence": "車のラジオから音楽が流れています。",
+    "sentence_furigana": "車【くるま】のラジオから音楽【おんがく】が流【なが】れています。",
+    "meaning": "Music is playing on the car radio."
+  },
+  {
+    "sentence": "車のフロントガラスにひびが入りました。",
+    "sentence_furigana": "車【くるま】のフロントガラスにひびが入【はい】りました。",
+    "meaning": "The car's windshield cracked."
+  },
+  {
+    "sentence": "車の燃料計が空っぽです。",
+    "sentence_furigana": "車【くるま】の燃料計【ねんりょうけい】が空【から】っぽです。",
+    "meaning": "The car's fuel gauge is empty."
+  },
+  {
+    "sentence": "車の運転席のドアが開きます。",
+    "sentence_furigana": "車【くるま】の運転席【うんてんせき】のドアが開【あ】きます。",
+    "meaning": "The car's driver's side door opens."
+  },
+  {
+    "sentence": "車の助手席に友人が乗っています。",
+    "sentence_furigana": "車【くるま】の助手席【じょしゅせき】に友人【ゆうじん】が乗【の】っています。",
+    "meaning": "A friend is riding in the passenger seat of the car."
+  },
+  {
+    "sentence": "車のタイヤの空気が減っています。",
+    "sentence_furigana": "車【くるま】のタイヤの空気【くうき】が減【へ】っています。",
+    "meaning": "The air in the car's tires is low."
+  },
+  {
+    "sentence": "車のメーターが異常を示しています。",
+    "sentence_furigana": "車【くるま】のメーターが異常【いじょう】を示【しめ】しています。",
+    "meaning": "The car's meter indicates an abnormality."
+  },
+  {
+    "sentence": "車の座席に座ってリラックスします。",
+    "sentence_furigana": "車【くるま】の座席【ざせき】に座【すわ】ってリラックスします。",
+    "meaning": "I sit in the car seat and relax."
+  },
+  {
+    "sentence": "車のハンドルが重いです。",
+    "sentence_furigana": "車【くるま】のハンドルが重【おも】いです。",
+    "meaning": "The car's steering wheel is heavy."
+  },
+  {
+    "sentence": "車のダッシュボードに時計があります。",
+    "sentence_furigana": "車【くるま】のダッシュボードに時計【とけい】があります。",
+    "meaning": "There is a clock on the car's dashboard."
+  },
+  {
+    "sentence": "車のワイパーが動かなくなりました。",
+    "sentence_furigana": "車【くるま】のワイパーが動【うご】かなくなりました。",
+    "meaning": "The car's wipers stopped working."
+  },
+  {
+    "sentence": "車のキーをどこかに置き忘れました。",
+    "sentence_furigana": "車【くるま】のキーをどこかに置【お】き忘【わ】れました。",
+    "meaning": "I forgot the car keys somewhere."
+  },
+  {
+    "sentence": "車のエンジンがかかりません。",
+    "sentence_furigana": "車【くるま】のエンジンがかかりません。",
+    "meaning": "The car's engine won't start."
+  },
+  {
+    "sentence": "車の窓に雨が当たっています。",
+    "sentence_furigana": "車【くるま】の窓【まど】に雨【あめ】が当【あ】たっています。",
+    "meaning": "Rain is hitting the car window."
+  },
+  {
+    "sentence": "車のシートをきれいにしました。",
+    "sentence_furigana": "車【くるま】のシートをきれいにしました。",
+    "meaning": "I cleaned the car seats."
+  },
+  {
+    "sentence": "車のバッテリーが弱いです。",
+    "sentence_furigana": "車【くるま】のバッテリーが弱【よわ】いです。",
+    "meaning": "The car's battery is weak."
+  },
+  {
+    "sentence": "車の運転には慣れています。",
+    "sentence_furigana": "車【くるま】の運転【うんてん】には慣【な】れています。",
+    "meaning": "I am used to driving a car."
+  },
+  {
+    "sentence": "車のヘッドレストが邪魔です。",
+    "sentence_furigana": "車【くるま】のヘッドレストが邪魔【じゃま】です。",
+    "meaning": "The car's headrest is in the way."
+  },
+  {
+    "sentence": "車のガソリンスタンドで給油しました。",
+    "sentence_furigana": "車【くるま】のガソリンスタンドで給油【きゅうゆ】しました。",
+    "meaning": "I refueled at the gas station."
+  },
+  {
+    "sentence": "車のバンパーに傷がつきました。",
+    "sentence_furigana": "車【くるま】のバンパーに傷【きず】がつきました。",
+    "meaning": "The car's bumper got scratched."
+  },
+  {
+    "sentence": "車のエンジンオイルを交換する必要があります。",
+    "sentence_furigana": "車【くるま】のエンジンオイルを交換【こうかん】する必要【ひつよう】があります。",
+    "meaning": "The car's engine oil needs to be changed."
+  },
+  {
+    "sentence": "車のドアロックが作動しません。",
+    "sentence_furigana": "車【くるま】のドアロックが作動【さどう】しません。",
+    "meaning": "The car's door locks are not working."
+  },
+  {
+    "sentence": "車のハンドルの位置を調整します。",
+    "sentence_furigana": "車【くるま】のハンドルの位置【いち】を調整【ちょうせい】します。",
+    "meaning": "I adjust the position of the car's steering wheel."
+  },
+  {
+    "sentence": "車のナビゲーションシステムが便利です。",
+    "sentence_furigana": "車【くるま】のナビゲーションシステムが便利【べんり】です。",
+    "meaning": "The car's navigation system is convenient."
+  },
+  {
+    "sentence": "車のクラクションが鳴りました。",
+    "sentence_furigana": "車【くるま】のクラクションが鳴【な】りました。",
+    "meaning": "The car's horn honked."
+  },
+  {
+    "sentence": "車の後部には積載スペースがあります。",
+    "sentence_furigana": "車【くるま】の後部【こうぶ】には積載【せきさい】スペースがあります。",
+    "meaning": "There is cargo space in the rear of the car."
+  }
+]

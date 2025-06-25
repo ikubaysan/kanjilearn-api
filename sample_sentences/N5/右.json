@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "右に曲がってください。",
+    "sentence_furigana": "右【みぎ】に曲【ま】がってください。",
+    "meaning": "Please turn right."
+  },
+  {
+    "sentence": "彼の家は私の家の右側にあります。",
+    "sentence_furigana": "彼【かれ】の家【いえ】は私【わたし】の家【いえ】の右側【みぎがわ】にあります。",
+    "meaning": "His house is to the right of my house."
+  },
+  {
+    "sentence": "右利きの人は多いです。",
+    "sentence_furigana": "右利【みぎき】きの人は多【おお】いです。",
+    "meaning": "There are many right-handed people."
+  },
+  {
+    "sentence": "右手に鉛筆を持っています。",
+    "sentence_furigana": "右【みぎ】に鉛筆【えんぴつ】を持【も】っています。",
+    "meaning": "He is holding a pencil in his right hand."
+  },
+  {
+    "sentence": "右折禁止の標識があります。",
+    "sentence_furigana": "右折禁止【うせつきんし】の標識【ひょうしき】があります。",
+    "meaning": "There is a no right turn sign."
+  },
+  {
+    "sentence": "右翼の政治家が演説を行いました。",
+    "sentence_furigana": "右翼【うよく】の政治家【せいじか】が演説【えんぜつ】を行【おこな】いました。",
+    "meaning": "A right-wing politician gave a speech."
+  },
+  {
+    "sentence": "右側の席に座ってください。",
+    "sentence_furigana": "右側【みぎがわ】の席【せき】に座【すわ】ってください。",
+    "meaning": "Please sit in the seat on the right side."
+  },
+  {
+    "sentence": "右から二番目のドアを開けてください。",
+    "sentence_furigana": "右【みぎ】から二番目【にばんめ】のドアを開【あ】けてください。",
+    "meaning": "Please open the second door from the right."
+  },
+  {
+    "sentence": "彼はいつも右を向いています。",
+    "sentence_furigana": "彼【かれ】はいつも右【みぎ】を向【む】いています。",
+    "meaning": "He is always looking to the right."
+  },
+  {
+    "sentence": "右へ進むと公園があります。",
+    "sentence_furigana": "右【みぎ】へ進【すす】むと公園【こうえん】があります。",
+    "meaning": "If you go right, there is a park."
+  },
+  {
+    "sentence": "右足に怪我をしました。",
+    "sentence_furigana": "右足【みぎあし】に怪我【けが】をしました。",
+    "meaning": "I injured my right leg."
+  },
+  {
+    "sentence": "右手に持っているのは何ですか？",
+    "sentence_furigana": "右【みぎ】に持【も】っているのは何【なん】ですか？",
+    "meaning": "What are you holding in your right hand?"
+  },
+  {
+    "sentence": "右側の車線を選びました。",
+    "sentence_furigana": "右側【みぎがわ】の車線【しゃせん】を選【えら】びました。",
+    "meaning": "I chose the right lane."
+  },
+  {
+    "sentence": "右折する際は十分に注意してください。",
+    "sentence_furigana": "右折【うせつ】する際【さい】に十分【じゅうぶん】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful when turning right."
+  },
+  {
+    "sentence": "彼は右派の新聞をよく読みます。",
+    "sentence_furigana": "彼【かれ】は右派【うは】の新聞【しんぶん】をよく読【よ】みます。",
+    "meaning": "He often reads right-wing newspapers."
+  },
+  {
+    "sentence": "右のページをご覧ください。",
+    "sentence_furigana": "右【みぎ】のページをご覧【らん】ください。",
+    "meaning": "Please look at the right page."
+  },
+  {
+    "sentence": "右にばかり目を向けていてはいけません。",
+    "sentence_furigana": "右【みぎ】ばかりに目【め】を向【む】けていてはいけません。",
+    "meaning": "You shouldn't always look only to the right."
+  },
+  {
+    "sentence": "右手を挙げて返事をしてください。",
+    "sentence_furigana": "右【みぎ】を挙【あ】げて返事【へんじ】をしてください。",
+    "meaning": "Please raise your right hand and answer."
+  },
+  {
+    "sentence": "右の方角に太陽が沈んでいきます。",
+    "sentence_furigana": "右【みぎ】の方角【ほうかく】に太陽【たいよう】が沈【しず】んでいきます。",
+    "meaning": "The sun is setting in the right direction."
+  },
+  {
+    "sentence": "右にいくらでも駐車できます。",
+    "sentence_furigana": "右【みぎ】にいくらでも駐車【ちゅうしゃ】できます。",
+    "meaning": "You can park as much as you want on the right."
+  },
+  {
+    "sentence": "右端のボタンを押してください。",
+    "sentence_furigana": "右端【みぎはし】のボタンを押【お】してください。",
+    "meaning": "Please press the button on the far right."
+  },
+  {
+    "sentence": "右足でボールを蹴りました。",
+    "sentence_furigana": "右足【みぎあし】でボールを蹴【け】りました。",
+    "meaning": "I kicked the ball with my right foot."
+  },
+  {
+    "sentence": "右折する車は歩行者に注意が必要です。",
+    "sentence_furigana": "右折【うせつ】する車【くるま】は歩行者【ほこうしゃ】に注意【ちゅうい】が必要です。",
+    "meaning": "Cars turning right must be careful of pedestrians."
+  },
+  {
+    "sentence": "右側通行にご協力ください。",
+    "sentence_furigana": "右側通行【みぎがわつうこう】にご協力【きょうりょく】ください。",
+    "meaning": "Please cooperate with keeping to the right."
+  },
+  {
+    "sentence": "右手を前に伸ばしてください。",
+    "sentence_furigana": "右【みぎ】を前【まえ】に伸【の】ばしてください。",
+    "meaning": "Please extend your right hand forward."
+  },
+  {
+    "sentence": "彼は右派の意見に賛成しています。",
+    "sentence_furigana": "彼【かれ】は右派【うは】の意見【いけん】に賛成【さんせい】しています。",
+    "meaning": "He agrees with the right-wing opinion."
+  },
+  {
+    "sentence": "右のページに私の名前が書いてあります。",
+    "sentence_furigana": "右【みぎ】のページに私【わたし】の名前【なまえ】が書【か】いてあります。",
+    "meaning": "My name is written on the right page."
+  },
+  {
+    "sentence": "右腕を骨折しました。",
+    "sentence_furigana": "右腕【みぎうで】を骨折【こっせつ】しました。",
+    "meaning": "I broke my right arm."
+  },
+  {
+    "sentence": "右手にナイフを持っています。",
+    "sentence_furigana": "右【みぎ】にナイフを持【も】っています。",
+    "meaning": "I am holding a knife in my right hand."
+  },
+  {
+    "sentence": "右側通行は基本です。",
+    "sentence_furigana": "右側通行【みぎがわつうこう】は基本【きほん】です。",
+    "meaning": "Keeping to the right is fundamental."
+  },
+  {
+    "sentence": "右の数字を見てください。",
+    "sentence_furigana": "右【みぎ】の数字【すうじ】を見【み】てください。",
+    "meaning": "Please look at the numbers on the right."
+  },
+  {
+    "sentence": "右手の指が痛いです。",
+    "sentence_furigana": "右【みぎ】の指【ゆび】が痛【いた】いです。",
+    "meaning": "My right finger hurts."
+  },
+  {
+    "sentence": "右の信号が青に変わりました。",
+    "sentence_furigana": "右【みぎ】の信号【しんごう】が青【あお】に変わ【か】わりました。",
+    "meaning": "The traffic light on the right turned green."
+  },
+  {
+    "sentence": "右向きに寝てください。",
+    "sentence_furigana": "右向【みぎむ】きに寝【ね】てください。",
+    "meaning": "Please lie on your right side."
+  },
+  {
+    "sentence": "右の席は空いていますか？",
+    "sentence_furigana": "右【みぎ】の席【せき】は空【あ】いていますか？",
+    "meaning": "Is the seat on the right empty?"
+  },
+  {
+    "sentence": "彼は右左もわからない。",
+    "sentence_furigana": "彼【かれ】は右左【うさ】もわからない。",
+    "meaning": "He doesn't know right from wrong."
+  },
+  {
+    "sentence": "右折レーンに入ります。",
+    "sentence_furigana": "右折【うせつ】レーンに入【はい】ります。",
+    "meaning": "I will enter the right-turn lane."
+  },
+  {
+    "sentence": "右の角を曲がるとコンビニがあります。",
+    "sentence_furigana": "右【みぎ】の角【かど】を曲【ま】がるとコンビニがあります。",
+    "meaning": "There is a convenience store if you turn at the right corner."
+  },
+  {
+    "sentence": "右足で立つのが難しいです。",
+    "sentence_furigana": "右足【みぎあし】で立【た】つのが難【むずか】しいです。",
+    "meaning": "It is difficult to stand on my right foot."
+  },
+  {
+    "sentence": "右の方向に進むべきです。",
+    "sentence_furigana": "右【みぎ】の方向【ほうこう】に進【すす】むべきです。",
+    "meaning": "You should proceed in the right direction."
+  },
+  {
+    "sentence": "右手を上げて?",
+    "sentence_furigana": "右【みぎ】を挙【あ】げて？",
+    "meaning": "Raise your right hand?"
+  },
+  {
+    "sentence": "右折専用レーンです。",
+    "sentence_furigana": "右折専用【うせつせんよう】レーンです。",
+    "meaning": "This is a right-turn only lane."
+  },
+  {
+    "sentence": "右の方に歩いてください。",
+    "sentence_furigana": "右【みぎ】の方【ほう】に歩【ある】いてください。",
+    "meaning": "Please walk to the right."
+  },
+  {
+    "sentence": "右手が少し痺れています。",
+    "sentence_furigana": "右【みぎ】が少【すこ】し痺【しび】れています。",
+    "meaning": "My right hand is a little numb."
+  },
+  {
+    "sentence": "右側には大きな木があります。",
+    "sentence_furigana": "右側【みぎがわ】には大【おお】きな木【き】があります。",
+    "meaning": "There is a big tree on the right side."
+  },
+  {
+    "sentence": "右と左、どちらを選びますか？",
+    "sentence_furigana": "右【みぎ】と左【ひだり】、どちらを選【えら】びますか？",
+    "meaning": "Which do you choose, right or left?"
+  },
+  {
+    "sentence": "右へ曲がる車は信号を守ってください。",
+    "sentence_furigana": "右【みぎ】へ曲【ま】がる車【くるま】は信号【しんごう】を守【まも】ってください。",
+    "meaning": "Cars turning right, please obey the traffic signal."
+  },
+  {
+    "sentence": "彼は右手を怪我したようだ。",
+    "sentence_furigana": "彼【かれ】は右【みぎ】を怪我【けが】したようだ。",
+    "meaning": "It seems he injured his right hand."
+  },
+  {
+    "sentence": "右折信号が点灯しました。",
+    "sentence_furigana": "右折信号【うせつしんごう】が点灯【てんとう】しました。",
+    "meaning": "The right-turn signal has turned on."
+  },
+  {
+    "sentence": "右のページに書いてあります。",
+    "sentence_furigana": "右【みぎ】のページに書【か】いてあります。",
+    "meaning": "It is written on the right page."
+  },
+  {
+    "sentence": "右に進んでください。",
+    "sentence_furigana": "右【みぎ】に進【すす】んでください。",
+    "meaning": "Please proceed to the right."
+  },
+  {
+    "sentence": "右手の小指が痛い。",
+    "sentence_furigana": "右【みぎ】の小指【こゆび】が痛【いた】い。",
+    "meaning": "My right little finger hurts."
+  },
+  {
+    "sentence": "右側通行は世界の多くの国で行われています。",
+    "sentence_furigana": "右側通行【みぎがわつうこう】は世界【せかい】の多【おお】くの国【くに】で行【おこな】われています。",
+    "meaning": "Driving on the right is practiced in many countries around the world."
+  },
+  {
+    "sentence": "右手が少し腫れています。",
+    "sentence_furigana": "右【みぎ】が少【すこ】し腫【は】れています。",
+    "meaning": "My right hand is a little swollen."
+  },
+  {
+    "sentence": "右手を怪我したので、左手で字を書きました。",
+    "sentence_furigana": "右【みぎ】を怪我【けが】したので、左【ひだり】で字【じ】を書【か】きました。",
+    "meaning": "Since I injured my right hand, I wrote with my left."
+  },
+  {
+    "sentence": "右に回ってください。",
+    "sentence_furigana": "右【みぎ】に回【まわ】ってください。",
+    "meaning": "Please turn right."
+  },
+  {
+    "sentence": "右足の親指をぶつけました。",
+    "sentence_furigana": "右足【みぎあし】の親指【おやゆび】をぶつけました。",
+    "meaning": "I hit my right big toe."
+  },
+  {
+    "sentence": "右側の席にどうぞ。",
+    "sentence_furigana": "右側【みぎがわ】の席【せき】にどうぞ。",
+    "meaning": "Please take the seat on the right side."
+  },
+  {
+    "sentence": "右折する車は待機してください。",
+    "sentence_furigana": "右折【うせつ】する車【くるま】は待機【たいき】してください。",
+    "meaning": "Cars turning right, please wait."
+  },
+  {
+    "sentence": "右手を高く上げてください。",
+    "sentence_furigana": "右【みぎ】を高く【たかく】上【あ】げてください。",
+    "meaning": "Please raise your right hand high."
+  },
+  {
+    "sentence": "右端に名前を記入してください。",
+    "sentence_furigana": "右端【みぎはし】に名前【なまえ】を記入【きにゅう】してください。",
+    "meaning": "Please write your name on the far right."
+  },
+  {
+    "sentence": "右にそっと体を向けました。",
+    "sentence_furigana": "右【みぎ】にそっと体【からだ】を向【む】けました。",
+    "meaning": "I gently turned my body to the right."
+  },
+  {
+    "sentence": "右足の小指が痛む。",
+    "sentence_furigana": "右足【みぎあし】の小指【こゆび】が痛【いた】む。",
+    "meaning": "My right little toe hurts."
+  },
+  {
+    "sentence": "右側通行は安全運転の基本です。",
+    "sentence_furigana": "右側通行【みぎがわつうこう】は安全運転【あんぜんうんてん】の基本【きほん】です。",
+    "meaning": "Keeping to the right is fundamental to safe driving."
+  },
+  {
+    "sentence": "右手を負傷しました。",
+    "sentence_furigana": "右【みぎ】を負傷【ふしょう】しました。",
+    "meaning": "I injured my right hand."
+  },
+  {
+    "sentence": "右端の文字を読んでください。",
+    "sentence_furigana": "右端【みぎはし】の文字【もじ】を読【よ】んでください。",
+    "meaning": "Please read the character on the far right."
+  },
+  {
+    "sentence": "右手に持ったペンが滑り落ちた。",
+    "sentence_furigana": "右【みぎ】に持【も】ったペンが滑【すべ】り落【お】ちた。",
+    "meaning": "The pen in my right hand slipped and fell."
+  },
+  {
+    "sentence": "右に曲がる必要があります。",
+    "sentence_furigana": "右【みぎ】に曲【ま】がる必要【ひつよう】があります。",
+    "meaning": "It is necessary to turn right."
+  },
+  {
+    "sentence": "右足の指を骨折しました。",
+    "sentence_furigana": "右足【みぎあし】の指【ゆび】を骨折【こっせつ】しました。",
+    "meaning": "I broke my right toe."
+  },
+  {
+    "sentence": "右側の列に並んでください。",
+    "sentence_furigana": "右側【みぎがわ】の列【れつ】に並【なら】んでください。",
+    "meaning": "Please line up in the right column."
+  },
+  {
+    "sentence": "右折禁止区域です。",
+    "sentence_furigana": "右折禁止【うせつきんし】区域【くいき】です。",
+    "meaning": "This is a no right turn zone."
+  },
+  {
+    "sentence": "右手を前に突き出してください。",
+    "sentence_furigana": "右【みぎ】を前【まえ】に突【つ】き出【だ】してください。",
+    "meaning": "Please thrust your right hand forward."
+  },
+  {
+    "sentence": "右の数字が一番大きいです。",
+    "sentence_furigana": "右【みぎ】の数字【すうじ】が一番【いちばん】大【おお】きいです。",
+    "meaning": "The number on the right is the largest."
+  },
+  {
+    "sentence": "右足に体重をかけてください。",
+    "sentence_furigana": "右足【みぎあし】に体重【たいじゅう】をかけてください。",
+    "meaning": "Please put your weight on your right foot."
+  },
+  {
+    "sentence": "右側のドアからお入りください。",
+    "sentence_furigana": "右側【みぎがわ】のドアからお入【はい】りください。",
+    "meaning": "Please enter through the door on the right side."
+  },
+  {
+    "sentence": "右足が少し腫れているので、歩きにくい。",
+    "sentence_furigana": "右足【みぎあし】が少【すこ】し腫【は】れているので、歩【ある】きにくい。",
+    "meaning": "My right foot is a little swollen, so it's hard to walk."
+  },
+  {
+    "sentence": "右手が痺れてきた。",
+    "sentence_furigana": "右【みぎ】が痺【しび】れてきた。",
+    "meaning": "My right hand has become numb."
+  },
+  {
+    "sentence": "右側の道を進んでください。",
+    "sentence_furigana": "右側【みぎがわ】の道【みち】を進【すす】んでください。",
+    "meaning": "Please proceed on the right side of the road."
+  },
+  {
+    "sentence": "右足を少し高く上げてください。",
+    "sentence_furigana": "右足【みぎあし】を少【すこ】し高く【たかく】上【あ】げてください。",
+    "meaning": "Please raise your right foot slightly."
+  },
+  {
+    "sentence": "右手を軽く握ってください。",
+    "sentence_furigana": "右【みぎ】を軽【かる】く握【にぎ】ってください。",
+    "meaning": "Please lightly grip your right hand."
+  },
+  {
+    "sentence": "右手の甲にアザができた。",
+    "sentence_furigana": "右【みぎ】の甲【こう】にアザができだ。",
+    "meaning": "I got a bruise on the back of my right hand."
+  },
+  {
+    "sentence": "右側通行のご協力をお願いします。",
+    "sentence_furigana": "右側通行【みぎがわつうこう】のご協力【きょうりょく】をお願【ねが】いします。",
+    "meaning": "We ask for your cooperation in keeping to the right."
+  },
+  {
+    "sentence": "右足の裏に何か刺さった。",
+    "sentence_furigana": "右足【みぎあし】の裏【うら】に何【なに】か刺【さ】さった。",
+    "meaning": "Something pricked the sole of my right foot."
+  },
+  {
+    "sentence": "右手を前に伸ばしたままにしてください。",
+    "sentence_furigana": "右【みぎ】を前【まえ】に伸【の】ばしたままにしてください。",
+    "meaning": "Please keep your right hand extended forward."
+  },
+  {
+    "sentence": "右側の席は予約済みです。",
+    "sentence_furigana": "右側【みぎがわ】の席【せき】は予約済【よやくず】みです。",
+    "meaning": "The seats on the right side are reserved."
+  },
+  {
+    "sentence": "右手を少し振ってみてください。",
+    "sentence_furigana": "右【みぎ】を少【すこ】し振【ふ】ってみてください。",
+    "meaning": "Please wave your right hand a little."
+  },
+  {
+    "sentence": "右足の薬指を痛めた。",
+    "sentence_furigana": "右足【みぎあし】の薬指【くすりゆび】を痛【いた】めた。",
+    "meaning": "I hurt my right ring finger."
+  },
+  {
+    "sentence": "右側通行ルールを教えてください。",
+    "sentence_furigana": "右側通行【みぎがわつうこう】ルールを教【おし】えてください。",
+    "meaning": "Please tell me the rules for keeping to the right."
+  },
+  {
+    "sentence": "右手を上げて、質問してください。",
+    "sentence_furigana": "右【みぎ】を上【あ】げて、質問【しつもん】してください。",
+    "meaning": "Please raise your right hand and ask a question."
+  },
+  {
+    "sentence": "右側の車は追い越さないでください。",
+    "sentence_furigana": "右側【みぎがわ】の車【くるま】は追越【おいこ】さないでください。",
+    "meaning": "Please do not overtake the cars on the right."
+  },
+  {
+    "sentence": "右手を休ませてください。",
+    "sentence_furigana": "右【みぎ】を休【やす】ませてください。",
+    "meaning": "Please rest your right hand."
+  },
+  {
+    "sentence": "右側の歩道を利用してください。",
+    "sentence_furigana": "右側【みぎがわ】の歩道【ほどう】を利用【りよう】してください。",
+    "meaning": "Please use the sidewalk on the right side."
+  },
+  {
+    "sentence": "右手を前に出し、止まってください。",
+    "sentence_furigana": "右【みぎ】を前【まえ】に出【だ】し、止【と】まってください。",
+    "meaning": "Please put your right hand forward and stop."
+  },
+  {
+    "sentence": "右足の甲を擦りむいた。",
+    "sentence_furigana": "右足【みぎあし】の甲【こう】を擦【す】りむいた。",
+    "meaning": "I scraped the top of my right foot."
+  },
+  {
+    "sentence": "右側から順番にお入りください。",
+    "sentence_furigana": "右側【みぎがわ】から順番【じゅんばん】にお入【はい】りください。",
+    "meaning": "Please enter in order from the right side."
+  },
+  {
+    "sentence": "右手の親指に絆創膏を貼った。",
+    "sentence_furigana": "右【みぎ】の親指【おやゆび】に絆創膏【ばんそうこう】を貼【は】った。",
+    "meaning": "I put a bandage on my right thumb."
+  },
+  {
+    "sentence": "右足を引きずって歩いた。",
+    "sentence_furigana": "右足【みぎあし】を引【ひ】きずって歩【ある】いた。",
+    "meaning": "I dragged my right foot as I walked."
+  },
+  {
+    "sentence": "右折信号を待っています。",
+    "sentence_furigana": "右折信号【うせつしんごう】を待【ま】っています。",
+    "meaning": "I am waiting for the right-turn signal."
+  },
+  {
+    "sentence": "右手の指を数える。",
+    "sentence_furigana": "右【みぎ】の指【ゆび】を数【かぞ】える。",
+    "meaning": "Count the fingers on your right hand."
+  },
+  {
+    "sentence": "右足のくるぶしを捻挫した。",
+    "sentence_furigana": "右足【みぎあし】のくるぶしを捻挫【ねんざ】した。",
+    "meaning": "I sprained my right ankle."
+  }
+]

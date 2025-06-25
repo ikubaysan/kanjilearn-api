@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "彼は東京に在住しています。",
+    "sentence_furigana": "彼【かれ】は東京【とうきょう】に在【ざい】住【じゅう】しています。",
+    "meaning": "He resides in Tokyo."
+  },
+  {
+    "sentence": "その問題は現在も解決されていません。",
+    "sentence_furigana": "その問題【もんだい】は現在【げんざい】も解決【かいけつ】されていません。",
+    "meaning": "That problem has not yet been resolved."
+  },
+  {
+    "sentence": "彼女は海外に滞在している。",
+    "sentence_furigana": "彼女【かのじょ】は海外【かいがい】に滞在【たいざい】している。",
+    "meaning": "She is staying abroad."
+  },
+  {
+    "sentence": "図書館には多くの本が存在する。",
+    "sentence_furigana": "図書館【としょかん】には多【おお】くの本【ほん】が存在【そんざい】する。",
+    "meaning": "There are many books in the library."
+  },
+  {
+    "sentence": "この地域は自然が豊かに存在している。",
+    "sentence_furigana": "この地域【ちいき】は自然【しぜん】が豊【ゆた】かに存在【そんざい】している。",
+    "meaning": "This area has abundant nature."
+  },
+  {
+    "sentence": "彼は過去の栄光に在る。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の栄光【えいこう】に在【あ】る。",
+    "meaning": "He exists in past glories."
+  },
+  {
+    "sentence": "その事実は歴史に在る。",
+    "sentence_furigana": "その事実【じじつ】は歴史【れきし】に在【あ】る。",
+    "meaning": "That fact exists in history."
+  },
+  {
+    "sentence": "彼は今、日本に在る。",
+    "sentence_furigana": "彼【かれ】は今【いま】、日本【にほん】に在【あ】る。",
+    "meaning": "He is in Japan now."
+  },
+  {
+    "sentence": "彼女はここに在る。",
+    "sentence_furigana": "彼女【かのじょ】はここに在【あ】る。",
+    "meaning": "She is here."
+  },
+  {
+    "sentence": "この計画は成功の可能性を秘めている。",
+    "sentence_furigana": "この計画【けいかく】は成功【せいこう】の可能性【かのうせい】を秘【ひ】めている。",
+    "meaning": "This plan holds the possibility of success."
+  },
+  {
+    "sentence": "彼はその分野で高い評価を得ている。",
+    "sentence_furigana": "彼【かれ】はその分野【ぶんや】で高【たか】い評価【ひょうか】を得【え】ている。",
+    "meaning": "He has received high評価 in that field."
+  },
+  {
+    "sentence": "彼女は大学で教鞭をとっている。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で教鞭【きょうべん】をとっている。",
+    "meaning": "She is teaching at the university."
+  },
+  {
+    "sentence": "この法律は多くの人々に影響を与えている。",
+    "sentence_furigana": "この法律【ほうりつ】は多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えている。",
+    "meaning": "This law affects many people."
+  },
+  {
+    "sentence": "彼はその企業で長年勤めている。",
+    "sentence_furigana": "彼【かれ】はその企業【きぎょう】で長年【ながねん】勤【つと】めている。",
+    "meaning": "He has worked for that company for many years."
+  },
+  {
+    "sentence": "彼女は常に前向きな姿勢を保っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に前向【まえむ】きな姿勢【しせい】を保【たも】っている。",
+    "meaning": "She always maintains a positive attitude."
+  },
+  {
+    "sentence": "この技術は未来を切り開いている。",
+    "sentence_furigana": "この技術【ぎじゅつ】は未来【みらい】を切【き】り開【ひら】いている。",
+    "meaning": "This technology is opening up the future."
+  },
+  {
+    "sentence": "彼はその芸術作品に魅了されている。",
+    "sentence_furigana": "彼【かれ】はその芸術作品【げいじゅつさくひん】に魅了【みりょう】されている。",
+    "meaning": "He is fascinated by that work of art."
+  },
+  {
+    "sentence": "彼女は多くの人々に尊敬されている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人々【ひとびと】に尊敬【そんけい】されている。",
+    "meaning": "She is respected by many people."
+  },
+  {
+    "sentence": "この情報は広く知られている。",
+    "sentence_furigana": "この情報【じょうほう】は広【ひろ】く知【し】られている。",
+    "meaning": "This information is widely known."
+  },
+  {
+    "sentence": "彼はその困難を乗り越えている。",
+    "sentence_furigana": "彼【かれ】はその困難【こんなん】を乗【の】り越【こ】えている。",
+    "meaning": "He has overcome that difficulty."
+  },
+  {
+    "sentence": "彼女は常に成長し続けている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に成長【せいちょう】し続【つづ】けている。",
+    "meaning": "She is constantly continuing to grow."
+  },
+  {
+    "sentence": "この政策は多くの国民に恩恵を与えている。",
+    "sentence_furigana": "この政策【せいさく】は多【おお】くの国民【こくみん】に恩恵【おんけい】を与【あた】えている。",
+    "meaning": "This policy benefits many citizens."
+  },
+  {
+    "sentence": "彼はその課題に集中している。",
+    "sentence_furigana": "彼【かれ】はその課題【かだい】に集中【しゅうちゅう】している。",
+    "meaning": "He is concentrating on that task."
+  },
+  {
+    "sentence": "彼女は常に新しい知識を吸収している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】している。",
+    "meaning": "She is always absorbing new knowledge."
+  },
+  {
+    "sentence": "この革新は社会に大きな変化をもたらしている。",
+    "sentence_furigana": "この革新【かくしん】は社会【しゃかい】に大【おお】きな変化【へんか】をもたらしている。",
+    "meaning": "This innovation is bringing about great change in society."
+  },
+  {
+    "sentence": "彼はその経験から多くを学んでいる。",
+    "sentence_furigana": "彼【かれ】はその経験【けいけん】から多【おお】くを学【まな】んでいる。",
+    "meaning": "He is learning a lot from that experience."
+  },
+  {
+    "sentence": "彼女は常に人々のために尽くしている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に人々【ひとびと】のために尽【つ】くしている。",
+    "meaning": "She is always dedicating herself to people."
+  },
+  {
+    "sentence": "このプロジェクトは成功に向かっている。",
+    "sentence_furigana": "このプロジェクトは成功【せいこう】に向【む】かっている。",
+    "meaning": "This project is heading towards success."
+  },
+  {
+    "sentence": "彼はその目標達成に尽力している。",
+    "sentence_furigana": "彼【かれ】はその目標達成【もくひょうたっせい】に尽力【じんりょく】している。",
+    "meaning": "He is making efforts to achieve that goal."
+  },
+  {
+    "sentence": "彼女は常に状況を把握している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に状況【じょうきょう】を把握【はあく】している。",
+    "meaning": "She always grasps the situation."
+  },
+  {
+    "sentence": "この文化は長年にわたり存在している。",
+    "sentence_furigana": "この文化【ぶんか】は長年【ながねん】にわたり存在【そんざい】している。",
+    "meaning": "This culture has existed for many years."
+  },
+  {
+    "sentence": "彼はその秘密を共有している。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を共有【きょうゆう】している。",
+    "meaning": "He is sharing that secret."
+  },
+  {
+    "sentence": "彼女は常に感謝の気持ちを表している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に感謝【かんしゃ】の気持【きも】ちを表【あらわ】している。",
+    "meaning": "She always expresses her gratitude."
+  },
+  {
+    "sentence": "この制度は多くの人々に利用されている。",
+    "sentence_furigana": "この制度【せいど】は多【おお】くの人々【ひとびと】に利用【りよう】されている。",
+    "meaning": "This system is used by many people."
+  },
+  {
+    "sentence": "彼はその出来事について知らされている。",
+    "sentence_furigana": "彼【かれ】はその出来事【できごと】について知【し】らされている。",
+    "meaning": "He has been informed about that event."
+  },
+  {
+    "sentence": "彼女は常に冷静さを保っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に冷静【れいせい】さを保【たも】っている。",
+    "meaning": "She always maintains her composure."
+  },
+  {
+    "sentence": "この作品は時代を超えて存在している。",
+    "sentence_furigana": "この作品【さくひん】は時代【じだい】を超【こ】えて存在【そんざい】している。",
+    "meaning": "This work exists across generations."
+  },
+  {
+    "sentence": "彼はその事件に関与している。",
+    "sentence_furigana": "彼【かれ】はその事件【じけん】に関与【かんよ】している。",
+    "meaning": "He is involved in that incident."
+  },
+  {
+    "sentence": "彼女は常に希望を抱いている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に希望【きぼう】を抱【いだ】いている。",
+    "meaning": "She always holds onto hope."
+  },
+  {
+    "sentence": "この戦略は成功を収めている。",
+    "sentence_furigana": "この戦略【せんりゃく】は成功【せいこう】を収【おさ】めている。",
+    "meaning": "This strategy is achieving success."
+  },
+  {
+    "sentence": "彼はその事実を隠蔽している。",
+    "sentence_furigana": "彼【かれ】はその事実【じじつ】を隠蔽【いんぺい】している。",
+    "meaning": "He is concealing that fact."
+  },
+  {
+    "sentence": "彼女は常に情熱を燃やしている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に情熱【じょうねつ】を燃【も】やしている。",
+    "meaning": "She always burns with passion."
+  },
+  {
+    "sentence": "この研究は人類の進歩に貢献している。",
+    "sentence_furigana": "この研究【けんきゅう】は人類【じんるい】の進歩【しんぽ】に貢献【こうけん】している。",
+    "meaning": "This research contributes to human progress."
+  },
+  {
+    "sentence": "彼はその問題解決に貢献している。",
+    "sentence_furigana": "彼【かれ】はその問題解決【もんだいかいけつ】に貢献【こうけん】している。",
+    "meaning": "He is contributing to the solution of that problem."
+  },
+  {
+    "sentence": "彼女は常に他者に配慮している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】に配慮【はいりょ】している。",
+    "meaning": "She always shows consideration for others."
+  },
+  {
+    "sentence": "この法律は社会の安定に寄与している。",
+    "sentence_furigana": "この法律【ほうりつ】は社会【しゃかい】の安定【あんてい】に寄与【きよ】している。",
+    "meaning": "This law contributes to social stability."
+  },
+  {
+    "sentence": "彼はその成果を誇りにしている。",
+    "sentence_furigana": "彼【かれ】はその成果【せいか】を誇【ほこ】りにしている。",
+    "meaning": "He is proud of that achievement."
+  },
+  {
+    "sentence": "彼女は常に真実を追求している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に真実【しんじつ】を追求【ついきゅう】している。",
+    "meaning": "She is always pursuing the truth."
+  },
+  {
+    "sentence": "この技術は未来の社会を支えている。",
+    "sentence_furigana": "この技術【ぎじゅつ】は未来【みらい】の社会【しゃかい】を支【ささ】えている。",
+    "meaning": "This technology supports future society."
+  },
+  {
+    "sentence": "彼はその決定に反対している。",
+    "sentence_furigana": "彼【かれ】はその決定【けってい】に反対【はんたい】している。",
+    "meaning": "He opposes that decision."
+  },
+  {
+    "sentence": "彼女は常に向上心を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に向上心【こうじょうしん】を持【も】っている。",
+    "meaning": "She always has ambition for self-improvement."
+  },
+  {
+    "sentence": "この政策は経済の活性化に寄与している。",
+    "sentence_furigana": "この政策【せいさく】は経済【けいざい】の活性化【かっせいか】に寄与【きよ】している。",
+    "meaning": "This policy contributes to economic revitalization."
+  },
+  {
+    "sentence": "彼はその計画の実現に尽力している。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】の実現【じつげん】に尽力【じんりょく】している。",
+    "meaning": "He is making efforts for the realization of that plan."
+  },
+  {
+    "sentence": "彼女は常に困難に立ち向かっている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に困難【こんなん】に立【た】ち向【む】かっている。",
+    "meaning": "She always confronts difficulties."
+  },
+  {
+    "sentence": "この出来事は歴史に記録されている。",
+    "sentence_furigana": "この出来事【できごと】は歴史【れきし】に記録【きろく】されている。",
+    "meaning": "This event is recorded in history."
+  },
+  {
+    "sentence": "彼はその状況を理解している。",
+    "sentence_furigana": "彼【かれ】はその状況【じょうきょう】を理解【りかい】している。",
+    "meaning": "He understands that situation."
+  },
+  {
+    "sentence": "彼女は常に周りに気を配っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に周【まわ】りに気【き】を配【くば】っている。",
+    "meaning": "She always pays attention to those around her."
+  },
+  {
+    "sentence": "このシステムは広く普及している。",
+    "sentence_furigana": "このシステムは広【ひろ】く普及【ふきゅう】している。",
+    "meaning": "This system is widespread."
+  },
+  {
+    "sentence": "彼はその秘密を暴露している。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を暴露【ばくろ】している。",
+    "meaning": "He is revealing that secret."
+  },
+  {
+    "sentence": "彼女は常に新しいアイデアを求めている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あたら】しいアイデアを求【もと】めている。",
+    "meaning": "She is always seeking new ideas."
+  },
+  {
+    "sentence": "この投資は大きな利益を生んでいる。",
+    "sentence_furigana": "この投資【とうし】は大【おお】きな利益【りえき】を生【う】んでいる。",
+    "meaning": "This investment is yielding significant profits."
+  },
+  {
+    "sentence": "彼はその罪を犯している。",
+    "sentence_furigana": "彼【かれ】はその罪【つみ】を犯【おこ】している。",
+    "meaning": "He is committing that crime."
+  },
+  {
+    "sentence": "彼女は常に自己改善に努めている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に自己改善【じこかいぜん】に努【つと】めている。",
+    "meaning": "She is always striving for self-improvement."
+  },
+  {
+    "sentence": "この研究は科学の発展に寄与している。",
+    "sentence_furigana": "この研究【けんきゅう】は科学【かがく】の発展【はってん】に寄与【きよ】している。",
+    "meaning": "This research contributes to the advancement of science."
+  },
+  {
+    "sentence": "彼はその問題を解決しようとしている。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】を解決【かいけつ】しようとしている。",
+    "meaning": "He is trying to solve that problem."
+  },
+  {
+    "sentence": "彼女は常に人々の役に立とうとしている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に人々【ひとびと】の役【やく】に立【た】とうとしている。",
+    "meaning": "She is always trying to be useful to people."
+  },
+  {
+    "sentence": "この法律は国民の権利を守っている。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の権利【けんり】を守【まも】っている。",
+    "meaning": "This law protects the rights of citizens."
+  },
+  {
+    "sentence": "彼はその計画の成功を確信している。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】の成功【せいこう】を確信【かくしん】している。",
+    "meaning": "He is confident in the success of that plan."
+  },
+  {
+    "sentence": "彼女は常に最善を尽くそうとしている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に最善【さいぜん】を尽【つ】くそうとしている。",
+    "meaning": "She is always trying to do her best."
+  },
+  {
+    "sentence": "この技術は多くの問題を解決している。",
+    "sentence_furigana": "この技術【ぎじゅつ】は多【おお】くの問題【もんだい】を解決【かいけつ】している。",
+    "meaning": "This technology solves many problems."
+  },
+  {
+    "sentence": "彼はその目標に向かって進んでいる。",
+    "sentence_furigana": "彼【かれ】はその目標【もくひょう】に向【む】かって進【すす】んでいる。",
+    "meaning": "He is advancing towards that goal."
+  },
+  {
+    "sentence": "彼女は常に感謝の言葉を述べている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に感謝【かんしゃ】の言葉【ことば】を述【の】べている。",
+    "meaning": "She always says words of gratitude."
+  },
+  {
+    "sentence": "この情報は広く利用可能である。",
+    "sentence_furigana": "この情報【じょうほう】は広【ひろ】く利用可能【りようかのう】である。",
+    "meaning": "This information is widely available."
+  },
+  {
+    "sentence": "彼はその計画の遅延に不満を持っている。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】の遅延【ちえん】に不満【ふまん】を持【も】っている。",
+    "meaning": "He is dissatisfied with the delay of that plan."
+  },
+  {
+    "sentence": "彼女は常に新しい知識を求めている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に新【あたら】しい知識【ちしき】を求【もと】めている。",
+    "meaning": "She is always seeking new knowledge."
+  },
+  {
+    "sentence": "この地域は豊かな自然が存在する。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然【しぜん】が存在【そんざい】する。",
+    "meaning": "This area has abundant nature."
+  },
+  {
+    "sentence": "彼はその仕事に専念している。",
+    "sentence_furigana": "彼【かれ】はその仕事【しごと】に専念【せんねん】している。",
+    "meaning": "He is devoted to that work."
+  },
+  {
+    "sentence": "彼女は常に他者に思いやりを示している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】に思【おも】いやりを示【しめ】している。",
+    "meaning": "She always shows compassion to others."
+  },
+  {
+    "sentence": "この製品は市場に投入されている。",
+    "sentence_furigana": "この製品【せいひん】は市場【しじょう】に投入【とうにゅう】されている。",
+    "meaning": "This product has been launched into the market."
+  },
+  {
+    "sentence": "彼はその問題の解決策を見出している。",
+    "sentence_furigana": "彼【かれ】はその問題【もんだい】の解決策【かいけつさく】を見出【みいだ】している。",
+    "meaning": "He is finding a solution to that problem."
+  },
+  {
+    "sentence": "彼女は常に未来に希望を抱いている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に未来【みらい】に希望【きぼう】を抱【いだ】いている。",
+    "meaning": "She always holds hope for the future."
+  },
+  {
+    "sentence": "この法律は社会の公正を保障している。",
+    "sentence_furigana": "この法律【ほうりつ】は社会【しゃかい】の公正【こうせい】を保障【ほしょう】している。",
+    "meaning": "This law guarantees social justice."
+  },
+  {
+    "sentence": "彼はその偉業を成し遂げている。",
+    "sentence_furigana": "彼【かれ】はその偉業【いぎょう】を成【な】し遂【と】げている。",
+    "meaning": "He has accomplished that great feat."
+  },
+  {
+    "sentence": "彼女は常に人々の幸福を願っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に人々【ひとびと】の幸福【こうふく】を願【ねが】っている。",
+    "meaning": "She always wishes for the happiness of people."
+  },
+  {
+    "sentence": "この技術は社会に大きく貢献している。",
+    "sentence_furigana": "この技術【ぎじゅつ】は社会【しゃかい】に大【おお】きく貢献【こうけん】している。",
+    "meaning": "This technology greatly contributes to society."
+  },
+  {
+    "sentence": "彼はその目標達成に貢献している。",
+    "sentence_furigana": "彼【かれ】はその目標達成【もくひょうたっせい】に貢献【こうけん】している。",
+    "meaning": "He is contributing to the achievement of that goal."
+  },
+  {
+    "sentence": "彼女は常に勇気を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に勇気【ゆうき】を持【も】っている。",
+    "meaning": "She always has courage."
+  },
+  {
+    "sentence": "この出来事は歴史に刻まれている。",
+    "sentence_furigana": "この出来事【できごと】は歴史【れきし】に刻【きざ】まれている。",
+    "meaning": "This event is engraved in history."
+  },
+  {
+    "sentence": "彼はその秘密を共有していない。",
+    "sentence_furigana": "彼【かれ】はその秘密【ひみつ】を共有【きょうゆう】していない。",
+    "meaning": "He is not sharing that secret."
+  },
+  {
+    "sentence": "彼女は常に誠実である。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】である。",
+    "meaning": "She is always sincere."
+  },
+  {
+    "sentence": "この商品は広く知られている。",
+    "sentence_furigana": "この商品【しょうひん】は広【ひろ】く知【し】られている。",
+    "meaning": "This product is widely known."
+  },
+  {
+    "sentence": "彼はその計画の成功を祈っている。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】の成功【せいこう】を祈【いの】っている。",
+    "meaning": "He is praying for the success of that plan."
+  },
+  {
+    "sentence": "彼女は常に困難に立ち向かう勇気を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に困難【こんなん】に立【た】ち向【む】かう勇気【ゆうき】を持【も】っている。",
+    "meaning": "She always has the courage to face difficulties."
+  },
+  {
+    "sentence": "この研究は人類の未来に貢献している。",
+    "sentence_furigana": "この研究【けんきゅう】は人類【じんるい】の未来【みらい】に貢献【こうけん】している。",
+    "meaning": "This research contributes to the future of humanity."
+  },
+  {
+    "sentence": "彼はその情報を提供している。",
+    "sentence_furigana": "彼【かれ】はその情報【じょうほう】を提供【ていきょう】している。",
+    "meaning": "He is providing that information."
+  },
+  {
+    "sentence": "彼女は常に周りの人々に感謝している。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に周【まわ】りの人々【ひとびと】に感謝【かんしゃ】している。",
+    "meaning": "She is always grateful to the people around her."
+  }
+]

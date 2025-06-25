@@ -1,0 +1,452 @@
+[
+  {
+    "sentence": "静かな時間を過ごすのは私の趣味です。",
+    "sentence_furigana": "静【しず】かな時間【じかん】を過【す】ごすのは私【わたし】の趣味【しゅみ】です。",
+    "meaning": "Spending quiet time is my hobby."
+  },
+  {
+    "sentence": "彼は仕事がないので、閑な日々を送っていた。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】がないので、閑【かん】な日々【ひび】を送【おく】っていた。",
+    "meaning": "He was living idle days because he had no work."
+  },
+  {
+    "sentence": "閑な時は読書をするのが好きだ。",
+    "sentence_furigana": "閑【かん】な時【とき】は読書【どくしょ】をするのが好【す】きだ。",
+    "meaning": "I like reading when I have free time."
+  },
+  {
+    "sentence": "閑職に就いたが、特に不満はない。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いたが、特【とく】に不満【ふまん】はない。",
+    "meaning": "I took a sinecure, but I have no particular complaints."
+  },
+  {
+    "sentence": "最近は仕事が忙しく、閑を弄する暇もない。",
+    "sentence_furigana": "最近【さいきん】は仕事【しごと】が忙【いそが】しく、閑【ひま】を弄【ろう】する暇【ひま】もない。",
+    "meaning": "Recently, work has been busy, and I don't even have time to be idle."
+  },
+  {
+    "sentence": "退職後は、閑な時間を楽しんでいる。",
+    "sentence_furigana": "退職後【たいしょくご】は、閑【かん】な時間【じかん】を楽【たの】しんでいる。",
+    "meaning": "After retirement, I am enjoying my leisure time."
+  },
+  {
+    "sentence": "彼女は趣味が多く、閑な時間を持て余すことはない。",
+    "sentence_furigana": "彼女【かのじょ】は趣味【しゅみ】が多【おお】く、閑【かん】な時間【じかん】を持【も】て余【あま】すことはない。",
+    "meaning": "She has many hobbies and never has too much leisure time."
+  },
+  {
+    "sentence": "閑な時間を利用して、新しいスキルを学んでいる。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を利用【りよう】して、新【あたら】しいスキルを学【まな】んでいる。",
+    "meaning": "I am learning new skills by utilizing my leisure time."
+  },
+  {
+    "sentence": "閑な生活を送るのが彼の夢だった。",
+    "sentence_furigana": "閑【かん】な生活【せいかつ】を送【おく】るのが彼【かれ】の夢【ゆめ】だった。",
+    "meaning": "Living a leisurely life was his dream."
+  },
+  {
+    "sentence": "閑な時に家族と過ごすのが一番の幸せだ。",
+    "sentence_furigana": "閑【かん】な時【とき】に家族【かぞく】と過【す】ごすのが一番【いちばん】の幸【しあわ】せだ。",
+    "meaning": "Spending time with family in my leisure time is the greatest happiness."
+  },
+  {
+    "sentence": "閑古鳥が鳴くとは、閑な状況を表す言葉だ。",
+    "sentence_furigana": "閑古鳥【かんこどり】が鳴【な】くとは、閑【かん】な状況【じょうきょう】を表【あらわ】す言葉【ことば】だ。",
+    "meaning": "The phrase 'Kan-ko-dori' sings means a quiet situation."
+  },
+  {
+    "sentence": "閑散とした街並みが印象的だった。",
+    "sentence_furigana": "閑散【かんさん】とした街並【まちな】みが印象的【いんしょうてき】だった。",
+    "meaning": "The deserted townscape was impressive."
+  },
+  {
+    "sentence": "閑散とした市場には、わずかな客しかいなかった。",
+    "sentence_furigana": "閑散【かんさん】とした市場【しじょう】には、わずかな客【きゃく】しかいなかった。",
+    "meaning": "There were only a few customers in the deserted market."
+  },
+  {
+    "sentence": "閑散期の観光地は静かで落ち着く。",
+    "sentence_furigana": "閑散期【かんさんき】の観光地【かんこうち】は静【しず】かで落【お】ち着く。",
+    "meaning": "Tourist spots during the off-season are quiet and calming."
+  },
+  {
+    "sentence": "彼は無為閑却な生活を望んでいた。",
+    "sentence_furigana": "彼【かれ】は無為閑却【むいかんきゃく】な生活【せいかつ】を望【のぞ】んでいた。",
+    "meaning": "He desired a life of idleness and inactivity."
+  },
+  {
+    "sentence": "閑暇を利用して旅行に出かけた。",
+    "sentence_furigana": "閑暇【かんか】を利用【りよう】して旅行【りょこう】に出【で】かけた。",
+    "meaning": "I took advantage of my leisure time to go on a trip."
+  },
+  {
+    "sentence": "閑暇があれば、趣味に没頭したい。",
+    "sentence_furigana": "閑暇【かんか】があれば、趣味【しゅみ】に没頭【ぼっとう】したい。",
+    "meaning": "If I have leisure time, I want to immerse myself in my hobbies."
+  },
+  {
+    "sentence": "閑暇を楽しむための計画を立てた。",
+    "sentence_furigana": "閑暇【かんか】を楽【たの】しむための計画【けいかく】を立【た】てた。",
+    "meaning": "I made a plan to enjoy my leisure time."
+  },
+  {
+    "sentence": "彼は閑職に甘んじることなく、自己啓発に励んだ。",
+    "sentence_furigana": "彼【かれ】は閑職【かんしょく】に甘【あま】んじることなく、自己啓発【じこけいはつ】に励【はげ】んだ。",
+    "meaning": "He did not settle for a sinecure and devoted himself to self-improvement."
+  },
+  {
+    "sentence": "この時期は観光客が少なく閑静だ。",
+    "sentence_furigana": "この時期【じき】は観光客【かんこうきゃく】が少【すく】なく閑静【かんせい】だ。",
+    "meaning": "There are few tourists during this season, and it is quiet."
+  },
+  {
+    "sentence": "閑静な住宅街で、穏やかな生活を送っている。",
+    "sentence_furigana": "閑静【かんせい】な住宅街【じゅうたくがい】で、穏【おだ】やかな生活【せいかつ】を送【おく】っている。",
+    "meaning": "I live a peaceful life in a quiet residential area."
+  },
+  {
+    "sentence": "彼女は閑な時間を読書に費やしている。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時間【じかん】を読書【どくしょ】に費【つい】やしている。",
+    "meaning": "She spends her leisure time reading."
+  },
+  {
+    "sentence": "閑な時に、新しいレシピを試してみる。",
+    "sentence_furigana": "閑【かん】な時【とき】に、新【あたら】しいレシピを試【ため】してみる。",
+    "meaning": "I try new recipes in my spare time."
+  },
+  {
+    "sentence": "閑職に就いた彼は、時間を持て余していた。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いた彼【かれ】は、時間【じかん】を持【も】て余【あま】していた。",
+    "meaning": "He took a sinecure and had too much time on his hands."
+  },
+  {
+    "sentence": "退職後は閑な日を過ごす予定だ。",
+    "sentence_furigana": "退職後【たいしょくご】は閑【かん】な日【ひ】を過【す】ごす予定【よてい】だ。",
+    "meaning": "After retirement, I plan to spend idle days."
+  },
+  {
+    "sentence": "彼は閑な時間にガーデニングを楽しんでいる。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時間【じかん】にガーデニングを楽【たの】しんでいる。",
+    "meaning": "He enjoys gardening in his leisure time."
+  },
+  {
+    "sentence": "閑な時を利用して、溜まった仕事を片付けた。",
+    "sentence_furigana": "閑【かん】な時【とき】を利用【りよう】して、溜【た】まった仕事【しごと】を片付【かたづ】けた。",
+    "meaning": "I took advantage of my idle time to catch up on my work."
+  },
+  {
+    "sentence": "閑な時に、家族と旅行に行く計画を立てよう。",
+    "sentence_furigana": "閑【かん】な時【とき】に、家族【かぞく】と旅行【りょこう】に行【い】く計画【けいかく】を立【た】てよう。",
+    "meaning": "Let's make plans to travel with family in our leisure time."
+  },
+  {
+    "sentence": "閑な時間をどう過ごすかは、個人の自由である。",
+    "sentence_furigana": "閑【かん】な時間【じかん】をどう過【す】ごすかは、個人【こじん】の自由【じゆう】である。",
+    "meaning": "How to spend one's leisure time is a matter of personal freedom."
+  },
+  {
+    "sentence": "彼女は仕事がない間、閑に過ごしていた。",
+    "sentence_furigana": "彼女【かのじょ】は仕事【しごと】がない間【あいだ】、閑【かん】に過【す】ごしていた。",
+    "meaning": "She was idle while she had no work."
+  },
+  {
+    "sentence": "閑な時間を使って、資格の勉強をしている。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を使【つか】って、資格【しかく】の勉強【べんきょう】をしている。",
+    "meaning": "I am studying for qualifications in my leisure time."
+  },
+  {
+    "sentence": "閑な時に、友人と会って話すのが好きだ。",
+    "sentence_furigana": "閑【かん】な時【とき】に、友人【ゆうじん】と会【あ】って話【はな】すのが好【す】きだ。",
+    "meaning": "I like meeting and talking with friends in my leisure time."
+  },
+  {
+    "sentence": "この季節は観光客が少なく閑散としている。",
+    "sentence_furigana": "この季節【きせつ】は観光客【かんこうきゃく】が少【すく】なく閑散【かんさん】としている。",
+    "meaning": "There are few tourists this season, and it is deserted."
+  },
+  {
+    "sentence": "閑な時間に、ボランティア活動に参加した。",
+    "sentence_furigana": "閑【かん】な時間【じかん】に、ボランティア活動【かつどう】に参加【さんか】した。",
+    "meaning": "I participated in volunteer activities during my leisure time."
+  },
+  {
+    "sentence": "閑な時の過ごし方を見つけることが大切だ。",
+    "sentence_furigana": "閑【かん】な時【とき】の過【す】ごし方【かた】を見【み】つけることが大切【たいせつ】だ。",
+    "meaning": "It is important to find ways to spend your leisure time."
+  },
+  {
+    "sentence": "閑な時間を有効活用して、自己投資をしたい。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を有効活用【ゆうこうかつよう】して、自己投資【じことうし】をしたい。",
+    "meaning": "I want to make good use of my leisure time and invest in myself."
+  },
+  {
+    "sentence": "閑散とした商店街は、かつての賑わいが嘘のようだ。",
+    "sentence_furigana": "閑散【かんさん】とした商店街【しょうてんがい】は、かつての賑【にぎ】わいが嘘【うそ】のようだ。",
+    "meaning": "The deserted shopping street is like a lie compared to its former liveliness."
+  },
+  {
+    "sentence": "閑職に就いても、スキルアップを怠ってはいけない。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いても、スキルアップを怠【おこた】ってはいけない。",
+    "meaning": "Even if you take a sinecure, you should not neglect skill improvement."
+  },
+  {
+    "sentence": "彼女は閑な時間に絵を描くことを楽しんでいる。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時間【じかん】に絵【え】を描【か】くことを楽【たの】しんでいる。",
+    "meaning": "She enjoys painting in her leisure time."
+  },
+  {
+    "sentence": "閑な時に家でリラックスするのが好きだ。",
+    "sentence_furigana": "閑【かん】な時【とき】に家【いえ】でリラックスするのが好【す】きだ。",
+    "meaning": "I like to relax at home in my leisure time."
+  },
+  {
+    "sentence": "閑な時間を利用して、家族の写真を整理した。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を利用【りよう】して、家族【かぞく】の写真【しゃしん】を整理【せいり】した。",
+    "meaning": "I organized family photos during my leisure time."
+  },
+  {
+    "sentence": "閑散とした場所は、一人で考え事をするのに適している。",
+    "sentence_furigana": "閑散【かんさん】とした場所【ばしょ】は、一人【ひとり】で考【かんが】え事【ごと】をするのに適【てき】している。",
+    "meaning": "Quiet places are suitable for thinking alone."
+  },
+  {
+    "sentence": "彼は仕事がないので、閑な時間を過ごしていた。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】がないので、閑【かん】な時間【じかん】を過【す】ごしていた。",
+    "meaning": "He was spending idle time because he had no work."
+  },
+  {
+    "sentence": "閑な時間は、自分自身と向き合う良い機会だ。",
+    "sentence_furigana": "閑【かん】な時間【じかん】は、自分自身【じぶんじしん】と向【む】き合【あ】う良【よ】い機会【きかい】だ。",
+    "meaning": "Leisure time is a good opportunity to face oneself."
+  },
+  {
+    "sentence": "彼女は閑な時に新しい言語を学んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に新【あたら】しい言語【げんご】を学【まな】んでいる。",
+    "meaning": "She is learning a new language in her spare time."
+  },
+  {
+    "sentence": "閑職に就いた後も、彼は学習意欲を失わなかった。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いた後【あと】も、彼【かれ】は学習意欲【がくしゅういよく】を失【うしな】わなかった。",
+    "meaning": "Even after taking a sinecure, he did not lose his desire to learn."
+  },
+  {
+    "sentence": "閑な時間を使って、部屋の掃除をした。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を使【つか】って、部屋【へや】の掃除【そうじ】をした。",
+    "meaning": "I cleaned my room during my leisure time."
+  },
+  {
+    "sentence": "閑散とした夜の街を一人で歩いた。",
+    "sentence_furigana": "閑散【かんさん】とした夜【よる】の街【まち】を一人【ひとり】で歩【ある】いた。",
+    "meaning": "I walked alone through the deserted night city."
+  },
+  {
+    "sentence": "閑な時間があれば、海外旅行に行きたい。",
+    "sentence_furigana": "閑【かん】な時間【じかん】があれば、海外旅行【かいがいりょこう】に行【い】きたい。",
+    "meaning": "If I have leisure time, I want to go on an overseas trip."
+  },
+  {
+    "sentence": "彼女は閑な時に音楽を聴くのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に音楽【おんがく】を聴【き】くのが好【す】きだ。",
+    "meaning": "She likes listening to music in her leisure time."
+  },
+  {
+    "sentence": "閑な時間は、心と体を休めるために重要だ。",
+    "sentence_furigana": "閑【かん】な時間【じかん】は、心【こころ】と体【からだ】を休【やす】めるために重要【じゅうよう】だ。",
+    "meaning": "Leisure time is important for resting the mind and body."
+  },
+  {
+    "sentence": "彼は閑な時に読書三昧の日々を送っている。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に読書三昧【どくしょざんまい】の日々【ひび】を送【おく】っている。",
+    "meaning": "He spends his leisure days indulging in reading."
+  },
+  {
+    "sentence": "閑職に就いたが、やりがいを感じる仕事を探している。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いたが、やりがいを感【かん】じる仕事【しごと】を探【さが】している。",
+    "meaning": "I took a sinecure, but I am looking for a job that I find rewarding."
+  },
+  {
+    "sentence": "閑な時に自宅でヨガをする。",
+    "sentence_furigana": "閑【かん】な時【とき】に自宅【じたく】でヨガをする。",
+    "meaning": "I do yoga at home in my leisure time."
+  },
+  {
+    "sentence": "閑静な環境で執筆活動に集中する。",
+    "sentence_furigana": "閑静【かんせい】な環境【かんきょう】で執筆活動【しっぴつかつどう】に集中【しゅうちゅう】する。",
+    "meaning": "I concentrate on my writing in a quiet environment."
+  },
+  {
+    "sentence": "彼は閑な時に瞑想を始めた。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に瞑想【めいそう】を始【はじ】めた。",
+    "meaning": "He started meditating in his leisure time."
+  },
+  {
+    "sentence": "閑な時間を利用して、スキルアップを図る。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を利用【りよう】して、スキルアップを図【はか】る。",
+    "meaning": "I aim to improve my skills by utilizing my leisure time."
+  },
+  {
+    "sentence": "閑散とした場所で、心を落ち着かせたい。",
+    "sentence_furigana": "閑散【かんさん】とした場所【ばしょ】で、心【こころ】を落【お】ちつかせたい。",
+    "meaning": "I want to calm my mind in a quiet place."
+  },
+  {
+    "sentence": "彼女は閑な時に友人と手紙のやり取りをしている。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に友人【ゆうじん】と手紙【てがみ】のやり取【と】りをして【いる】。",
+    "meaning": "She exchanges letters with her friends in her leisure time."
+  },
+  {
+    "sentence": "閑な時間は、人生を豊かにするために不可欠だ。",
+    "sentence_furigana": "閑【かん】な時間【じかん】は、人生【じんせい】を豊【ゆた】かにするために不可欠【ふかけつ】だ。",
+    "meaning": "Leisure time is essential for enriching life."
+  },
+  {
+    "sentence": "閑職に就いても、自分の成長を止めないようにしたい。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いても、自分【じぶん】の成長【せいちょう】を止【と】めないようにしたい。",
+    "meaning": "Even if I take a sinecure, I want to continue my personal growth."
+  },
+  {
+    "sentence": "彼は閑な時に新しいレシピを試すのが好きだ。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に新【あたら】しいレシピを試【ため】すのが好【す】きだ。",
+    "meaning": "He likes trying new recipes in his leisure time."
+  },
+  {
+    "sentence": "閑な時間を利用して、家族のために料理を作る。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を利用【りよう】して、家族【かぞく】のために料理【りょうり】をを作【つく】る。",
+    "meaning": "I cook for my family by utilizing my leisure time."
+  },
+  {
+    "sentence": "閑静な場所で、心ゆくまでリラックスしたい。",
+    "sentence_furigana": "閑静【かんせい】な場所【ばしょ】で、心【こころ】ゆくまでリラックスしたい。",
+    "meaning": "I want to relax to my heart's content in a quiet place."
+  },
+  {
+    "sentence": "彼は閑な時に絵画教室に通っている。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に絵画教室【かいが きょうしつ】に通【かよ】っている。",
+    "meaning": "He attends a painting class in his leisure time."
+  },
+  {
+    "sentence": "閑な時間を使って、新しい趣味を見つけたい。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を使【つか】って、新【あたら】しい趣味【しゅみ】を見【み】つけたい。",
+    "meaning": "I want to find a new hobby by using my leisure time."
+  },
+  {
+    "sentence": "閑散とした通りに、一人の女性が歩いていた。",
+    "sentence_furigana": "閑散【かんさん】とした通【とお】りに、一人【ひとり】の女性【じょせい】が歩【ある】いていた。",
+    "meaning": "A lone woman was walking on the deserted street."
+  },
+  {
+    "sentence": "彼女は閑な時にガーデニングを楽しむ。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】にガーデニングを楽【たの】しむ。",
+    "meaning": "She enjoys gardening in her leisure time."
+  },
+  {
+    "sentence": "閑な時間を読書や映画鑑賞に費やしている。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を読書【どくしょ】や映画鑑賞【えいがかんしょう】に費【つい】やしている。",
+    "meaning": "I spend my leisure time reading and watching movies."
+  },
+  {
+    "sentence": "彼は閑な時にギターを弾くのが好きだ。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】にギターを弾【ひ】くのが好【す】きだ。",
+    "meaning": "He likes playing the guitar in his leisure time."
+  },
+  {
+    "sentence": "閑な時間を利用して、友人に手紙を書いた。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を利用【りよう】して、友人【ゆうじん】に手紙【てがみ】を書【か】いた。",
+    "meaning": "I wrote a letter to my friend by utilizing my leisure time."
+  },
+  {
+    "sentence": "閑な時に家族とボードゲームをする。",
+    "sentence_furigana": "閑【かん】な時【とき】に家族【かぞく】とボードゲームをする。",
+    "meaning": "I play board games with my family in my leisure time."
+  },
+  {
+    "sentence": "彼女は閑な時間に瞑想を続けることを決めた。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に瞑想【めいそう】を続【つづ】けることを決【き】めた。",
+    "meaning": "She decided to continue meditating in her leisure time."
+  },
+  {
+    "sentence": "閑な時間を使って、自分の好きなことを追求する。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を使【つか】って、自分【じぶん】の好【す】きなことを追求【ついきゅう】する。",
+    "meaning": "I pursue what I like by using my leisure time."
+  },
+  {
+    "sentence": "閑職に就いても、新しい挑戦を続けることが大切だ。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いても、新【あたら】しい挑戦【ちょうせん】を続【つづ】けることが大切【たいせつ】だ。",
+    "meaning": "Even if you take a sinecure, it is important to continue new challenges."
+  },
+  {
+    "sentence": "彼は閑な時間に、将来の計画を立てている。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に、将来【しょうらい】の計画【けいかく】を立【た】てている。",
+    "meaning": "He is making future plans in his leisure time."
+  },
+  {
+    "sentence": "閑な時間は、心の健康を保つために重要です。",
+    "sentence_furigana": "閑【かん】な時間【じかん】は、心【こころ】の健康【けんこう】を保【たも】つために重要【じゅうよう】です。",
+    "meaning": "Leisure time is important for maintaining mental health."
+  },
+  {
+    "sentence": "彼女は閑な時間に、友人とのおしゃべりを楽しんだ。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に友人【ゆうじん】とのおしゃべりを楽し【たの】んだ。",
+    "meaning": "She enjoyed chatting with friends in her leisure time."
+  },
+  {
+    "sentence": "閑な時間を活用して、新しい言語の学習を始めた。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を活用【かつよう】して、新【あたら】しい言語【げんご】の学習【がくしゅう】を始【はじ】めた。",
+    "meaning": "I started learning a new language by utilizing my leisure time."
+  },
+  {
+    "sentence": "閑職に就いているが、自分のスキルを向上させたい。",
+    "sentence_furigana": "閑職【かんしょく】に就【つ】いているが、自分【じぶん】のスキルを向上【こうじょう】させたい。",
+    "meaning": "I have a sinecure, but I want to improve my skills."
+  },
+  {
+    "sentence": "彼は閑な時に、家族の写真をアルバムにまとめた。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に、家族【かぞく】の写真【しゃしん】をアルバムにまとめた。",
+    "meaning": "He compiled family photos into an album in his leisure time."
+  },
+  {
+    "sentence": "閑な時間は、心身のリフレッシュに不可欠です。",
+    "sentence_furigana": "閑【かん】な時間【じかん】は、心身【しんしん】のリフレッシュに不可欠【ふかけつ】です。",
+    "meaning": "Leisure time is essential for refreshing the mind and body."
+  },
+  {
+    "sentence": "彼女は閑な時に、自宅で映画鑑賞を楽しんでいる。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に、自宅【じたく】で映画鑑賞【えいがかんしょう】を楽【たの】しんでいる。",
+    "meaning": "She enjoys watching movies at home in her leisure time."
+  },
+  {
+    "sentence": "閑な時間を有効に使って、読書に没頭する。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を有効【ゆうこう】に使【つか】って、読書【どくしょ】に没頭【ぼっとう】する。",
+    "meaning": "I immerse myself in reading by effectively using my leisure time."
+  },
+  {
+    "sentence": "彼は閑な時に、新しい趣味として陶芸を始めた。",
+    "sentence_furigana": "彼【かれ】は閑【かん】な時【とき】に、新【あたら】しい趣味【しゅみ】として陶芸【とうげい】を始【はじ】めた。",
+    "meaning": "He started pottery as a new hobby in his leisure time."
+  },
+  {
+    "sentence": "閑な時間を使って、友人へのプレゼントを手作りした。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を使【つか】って、友人【ゆうじん】へのプレゼントを手作【てづく】りした。",
+    "meaning": "I made a handmade gift for my friend using my leisure time."
+  },
+  {
+    "sentence": "閑な時こそ、自分のための時間を大切にしたい。",
+    "sentence_furigana": "閑【かん】な時【とき】こそ、自分【じぶん】のための時間【じかん】を大切【たいせつ】にしたい。",
+    "meaning": "Especially in leisure time, I want to cherish time for myself."
+  },
+  {
+    "sentence": "彼女は閑な時に、音楽制作に時間を費やしている。",
+    "sentence_furigana": "彼女【かのじょ】は閑【かん】な時【とき】に、音楽制作【おんがくせいさく】に時間【じかん】を費【つい】やしている。",
+    "meaning": "She spends her leisure time on music production."
+  },
+  {
+    "sentence": "閑な時間を無駄にせず、自己成長に繋げたい。",
+    "sentence_furigana": "閑【かん】な時間【じかん】を無駄【むだ】にせず、自己成長【じこせいちょう】に繋【つな】げたい。",
+    "meaning": "I want to make my leisure time productive and lead to self-growth."
+  },
+  {
+    "sentence": "彼は閑職に就いても、常に学び続ける姿勢を崩さない。",
+    "sentence_furigana": "彼【かれ】は閑職【かんしょく】に就【つ】いても、常【つね】に学【まな】び続【つづ】ける姿勢【しせい】を崩【くず】さない。",
+    "meaning": "Even when in a sinecure, he maintains a stance of continuous learning."
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は禅の道を歩んでいる。",
+    "sentence_furigana": "彼【かれ】は禅【ぜん】の道【みち】を歩【あゆ】んでいる。",
+    "meaning": "He is walking the path of Zen."
+  },
+  {
+    "sentence": "禅寺で心を静める。",
+    "sentence_furigana": "禅【ぜん】寺【じ】で心【こころ】を静【しず】める。",
+    "meaning": "To calm the mind at a Zen temple."
+  },
+  {
+    "sentence": "禅の精神を理解しよう。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を理解【りかい】しよう。",
+    "meaning": "Let's try to understand the spirit of Zen."
+  },
+  {
+    "sentence": "座禅を組むことは難しい。",
+    "sentence_furigana": "座禅【ざぜん】を組【く】むことは難【むずか】しい。",
+    "meaning": "Sitting in Zen meditation is difficult."
+  },
+  {
+    "sentence": "禅の教えは深い。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えは深【ふか】い。",
+    "meaning": "The teachings of Zen are profound."
+  },
+  {
+    "sentence": "彼女は禅画に魅了された。",
+    "sentence_furigana": "彼女【かのじょ】は禅画【ぜんが】に魅了【みりょう】された。",
+    "meaning": "She was fascinated by Zen painting."
+  },
+  {
+    "sentence": "禅問答は興味深い。",
+    "sentence_furigana": "禅問答【ぜんもんどう】は興味深【きょうみぶか】い。",
+    "meaning": "Zen dialogues are interesting."
+  },
+  {
+    "sentence": "禅の心境に至る。",
+    "sentence_furigana": "禅【ぜん】の心境【しんきょう】に至【いた】る。",
+    "meaning": "To reach the state of mind of Zen."
+  },
+  {
+    "sentence": "禅の世界に浸る。",
+    "sentence_furigana": "禅【ぜん】の世界【せかい】に浸【ひた】る。",
+    "meaning": "To immerse oneself in the world of Zen."
+  },
+  {
+    "sentence": "彼は禅の達人だ。",
+    "sentence_furigana": "彼【かれ】は禅【ぜん】の達人【たつじん】だ。",
+    "meaning": "He is a master of Zen."
+  },
+  {
+    "sentence": "禅の公案を解く。",
+    "sentence_furigana": "禅【ぜん】の公案【こうあん】を解【と】く。",
+    "meaning": "To solve a Zen koan."
+  },
+  {
+    "sentence": "禅の静寂を感じる。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】を感じ【かんじ】る。",
+    "meaning": "To feel the silence of Zen."
+  },
+  {
+    "sentence": "禅の修行を積む。",
+    "sentence_furigana": "禅【ぜん】の修行【しゅぎょう】を積【つ】む。",
+    "meaning": "To practice Zen training."
+  },
+  {
+    "sentence": "禅の悟りを目指す。",
+    "sentence_furigana": "禅【ぜん】の悟【さと】りを目指【めざ】す。",
+    "meaning": "To aim for Zen enlightenment."
+  },
+  {
+    "sentence": "禅の思想はシンプルだ。",
+    "sentence_furigana": "禅【ぜん】の思想【しそう】はシンプルだ。",
+    "meaning": "The philosophy of Zen is simple."
+  },
+  {
+    "sentence": "禅の美学を学ぶ。",
+    "sentence_furigana": "禅【ぜん】の美学【びがく】を学【まな】ぶ。",
+    "meaning": "To learn the aesthetics of Zen."
+  },
+  {
+    "sentence": "禅の生活を送る。",
+    "sentence_furigana": "禅【ぜん】の生活【せいかつ】を送【おく】る。",
+    "meaning": "To lead a Zen life."
+  },
+  {
+    "sentence": "禅の庭園は静かだ。",
+    "sentence_furigana": "禅【ぜん】の庭園【ていえん】は静【しず】かだ。",
+    "meaning": "The Zen garden is quiet."
+  },
+  {
+    "sentence": "禅の境地に至った。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】に至【いた】った。",
+    "meaning": "He reached a state of Zen."
+  },
+  {
+    "sentence": "禅の言葉は短い。",
+    "sentence_furigana": "禅【ぜん】の言葉【ことば】は短【みじか】い。",
+    "meaning": "Zen words are short."
+  },
+  {
+    "sentence": "禅の精神を発見する。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を発見【はっけん】する。",
+    "meaning": "To discover the spirit of Zen."
+  },
+  {
+    "sentence": "禅の瞑想を行う。",
+    "sentence_furigana": "禅【ぜん】の瞑想【めいそう】を行【おこな】う。",
+    "meaning": "To perform Zen meditation."
+  },
+  {
+    "sentence": "禅の哲学に触れる。",
+    "sentence_furigana": "禅【ぜん】の哲学【てつがく】に触【ふ】れる。",
+    "meaning": "To touch upon Zen philosophy."
+  },
+  {
+    "sentence": "禅の真髄を追求する。",
+    "sentence_furigana": "禅【ぜん】の真髄【しんずい】を追求【ついきゅう】する。",
+    "meaning": "To pursue the essence of Zen."
+  },
+  {
+    "sentence": "禅の動きは滑らかだ。",
+    "sentence_furigana": "禅【ぜん】の動【うご】きは滑【なめ】らかだ。",
+    "meaning": "The movements of Zen are smooth."
+  },
+  {
+    "sentence": "禅の静けさに心を落ち着かせる。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさに心【こころ】を落【お】ちつかせる。",
+    "meaning": "To calm one's mind with the stillness of Zen."
+  },
+  {
+    "sentence": "禅の修行を始める。",
+    "sentence_furigana": "禅【ぜん】の修行【しゅぎょう】を始【はじ】める。",
+    "meaning": "To start Zen practice."
+  },
+  {
+    "sentence": "禅の教えを実践する。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えを実践【じっせん】する。",
+    "meaning": "To practice the teachings of Zen."
+  },
+  {
+    "sentence": "禅の芸術を鑑賞する。",
+    "sentence_furigana": "禅【ぜん】の芸術【げいじゅつ】を鑑賞【かんしょう】する。",
+    "meaning": "To appreciate Zen art."
+  },
+  {
+    "sentence": "禅の道を探求する。",
+    "sentence_furigana": "禅【ぜん】の道【みち】を探求【たんきゅう】する。",
+    "meaning": "To explore the path of Zen."
+  },
+  {
+    "sentence": "禅の境地を味わう。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】を味【あじ】わう。",
+    "meaning": "To savor the state of Zen."
+  },
+  {
+    "sentence": "禅の静寂が心地よい。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】が心地【ここち】よい。",
+    "meaning": "The tranquility of Zen is pleasant."
+  },
+  {
+    "sentence": "禅の心を養う。",
+    "sentence_furigana": "禅【ぜん】の心【こころ】を養【やしな】う。",
+    "meaning": "To cultivate a Zen mind."
+  },
+  {
+    "sentence": "禅の技法を習得する。",
+    "sentence_furigana": "禅【ぜん】の技法【ぎほう】を習得【しゅうとく】する。",
+    "meaning": "To master Zen techniques."
+  },
+  {
+    "sentence": "禅の教理を学ぶ。",
+    "sentence_furigana": "禅【ぜん】の教理【きょうり】を学【まな】ぶ。",
+    "meaning": "To study Zen doctrine."
+  },
+  {
+    "sentence": "禅の修行は厳しい。",
+    "sentence_furigana": "禅【ぜん】の修行【しゅぎょう】は厳【きび】しい。",
+    "meaning": "Zen training is strict."
+  },
+  {
+    "sentence": "禅の概念を理解する。",
+    "sentence_furigana": "禅【ぜん】の概念【がいねん】を理解【りかい】する。",
+    "meaning": "To understand the concept of Zen."
+  },
+  {
+    "sentence": "禅の静けさに身を任せる。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさに身【み】を任【まか】せる。",
+    "meaning": "To surrender oneself to the stillness of Zen."
+  },
+  {
+    "sentence": "禅の哲学を深める。",
+    "sentence_furigana": "禅【ぜん】の哲学【てつがく】を深【ふか】める。",
+    "meaning": "To deepen one's understanding of Zen philosophy."
+  },
+  {
+    "sentence": "禅の精神が宿る。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】が宿【やど】る。",
+    "meaning": "The spirit of Zen resides here."
+  },
+  {
+    "sentence": "禅の道を進む。",
+    "sentence_furigana": "禅【ぜん】の道【みち】を進【すす】む。",
+    "meaning": "To proceed on the path of Zen."
+  },
+  {
+    "sentence": "禅の静けさを享受する。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさを享受【きょうじゅ】する。",
+    "meaning": "To enjoy the serenity of Zen."
+  },
+  {
+    "sentence": "禅の奥義を探る。",
+    "sentence_furigana": "禅【ぜん】の奥義【おうぎ】を探【さぐ】る。",
+    "meaning": "To explore the mysteries of Zen."
+  },
+  {
+    "sentence": "禅の修業を終える。",
+    "sentence_furigana": "禅【ぜん】の修業【しゅぎょう】を終【お】える。",
+    "meaning": "To complete Zen training."
+  },
+  {
+    "sentence": "禅の心を表現する。",
+    "sentence_furigana": "禅【ぜん】の心【こころ】を表現【ひょうげん】する。",
+    "meaning": "To express the Zen mind."
+  },
+  {
+    "sentence": "禅の静寂に包まれる。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】に包【つつ】まれる。",
+    "meaning": "To be enveloped by the silence of Zen."
+  },
+  {
+    "sentence": "禅の教えを説く。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えを説【と】く。",
+    "meaning": "To preach the teachings of Zen."
+  },
+  {
+    "sentence": "禅の境地に達する。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】に達【たっ】する。",
+    "meaning": "To reach a state of Zen."
+  },
+  {
+    "sentence": "禅の精神を体得する。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を体得【たいとく】する。",
+    "meaning": "To embody the spirit of Zen."
+  },
+  {
+    "sentence": "禅の静けさを愛でる。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさを愛【め】でる。",
+    "meaning": "To admire the tranquility of Zen."
+  },
+  {
+    "sentence": "禅の修行に励む。",
+    "sentence_furigana": "禅【ぜん】の修行【しゅぎょう】に励【はげ】む。",
+    "meaning": "To strive in Zen practice."
+  },
+  {
+    "sentence": "禅の思想に共感する。",
+    "sentence_furigana": "禅【ぜん】の思想【しそう】に共感【きょうかん】する。",
+    "meaning": "To empathize with Zen philosophy."
+  },
+  {
+    "sentence": "禅の真髄を悟る。",
+    "sentence_furigana": "禅【ぜん】の真髄【しんずい】を悟【さと】る。",
+    "meaning": "To realize the essence of Zen."
+  },
+  {
+    "sentence": "禅の庭に心を鎮める。",
+    "sentence_furigana": "禅【ぜん】の庭【にわ】に心【こころ】を鎮【しず】める。",
+    "meaning": "To calm the mind in a Zen garden."
+  },
+  {
+    "sentence": "禅の教えは実践的だ。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えは実践的【じっせんてき】だ。",
+    "meaning": "Zen teachings are practical."
+  },
+  {
+    "sentence": "禅の精神を追求する。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を追求【ついきゅう】する。",
+    "meaning": "To pursue the spirit of Zen."
+  },
+  {
+    "sentence": "禅の静寂に心を委ねる。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】に心【こころ】を委【ゆだ】ねる。",
+    "meaning": "To entrust one's mind to the silence of Zen."
+  },
+  {
+    "sentence": "禅の道に生きる。",
+    "sentence_furigana": "禅【ぜん】の道【みち】に生【い】きる。",
+    "meaning": "To live the way of Zen."
+  },
+  {
+    "sentence": "禅の公案に挑む。",
+    "sentence_furigana": "禅【ぜん】の公案【こうあん】に挑【いど】む。",
+    "meaning": "To take on a Zen koan."
+  },
+  {
+    "sentence": "禅の芸術に触れる。",
+    "sentence_furigana": "禅【ぜん】の芸術【げいじゅつ】に触【ふ】れる。",
+    "meaning": "To experience Zen art."
+  },
+  {
+    "sentence": "禅の境地を深める。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】を深【ふか】める。",
+    "meaning": "To deepen one's Zen state of mind."
+  },
+  {
+    "sentence": "禅の教えを尊ぶ。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えを尊【とうと】ぶ。",
+    "meaning": "To revere the teachings of Zen."
+  },
+  {
+    "sentence": "禅の静けさに心を澄ます。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさに心【こころ】を澄【す】ます。",
+    "meaning": "To clear one's mind with the stillness of Zen."
+  },
+  {
+    "sentence": "禅の修行に専念する。",
+    "sentence_furigana": "禅【ぜん】の修行【しゅぎょう】に専念【せんねん】する。",
+    "meaning": "To devote oneself to Zen practice."
+  },
+  {
+    "sentence": "禅の精神を体感する。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を体感【たいかん】する。",
+    "meaning": "To experience the spirit of Zen firsthand."
+  },
+  {
+    "sentence": "禅の悟りに近づく。",
+    "sentence_furigana": "禅【ぜん】の悟【さと】りに近【ちか】づく。",
+    "meaning": "To get closer to Zen enlightenment."
+  },
+  {
+    "sentence": "禅の道は開かれている。",
+    "sentence_furigana": "禅【ぜん】の道【みち】は開【ひら】かれている。",
+    "meaning": "The path of Zen is open."
+  },
+  {
+    "sentence": "禅の静寂に身を置く。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】に身【み】を置【お】く。",
+    "meaning": "To place oneself in the silence of Zen."
+  },
+  {
+    "sentence": "禅の教えを胸に刻む。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えを胸【むね】に刻【きざ】む。",
+    "meaning": "To engrave the teachings of Zen in one's heart."
+  },
+  {
+    "sentence": "禅の境地を垣間見る。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】を垣間見【かいまみ】る。",
+    "meaning": "To glimpse a state of Zen."
+  },
+  {
+    "sentence": "禅の精神を共有する。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を共有【きょうゆう】する。",
+    "meaning": "To share the spirit of Zen."
+  },
+  {
+    "sentence": "禅の静寂に心を委ねる。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】に心【こころ】を委【ゆだ】ねる。",
+    "meaning": "To entrust one's mind to the silence of Zen."
+  },
+  {
+    "sentence": "禅の道は無限だ。",
+    "sentence_furigana": "禅【ぜん】の道【みち】は無限【むげん】だ。",
+    "meaning": "The path of Zen is infinite."
+  },
+  {
+    "sentence": "禅の公案を考える。",
+    "sentence_furigana": "禅【ぜん】の公案【こうあん】を考【かんが】える。",
+    "meaning": "To contemplate a Zen koan."
+  },
+  {
+    "sentence": "禅の芸術は奥深い。",
+    "sentence_furigana": "禅【ぜん】の芸術【げいじゅつ】は奥深【おくふか】い。",
+    "meaning": "Zen art is profound."
+  },
+  {
+    "sentence": "禅の境地に静まる。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】に静【しず】まる。",
+    "meaning": "To become calm in a state of Zen."
+  },
+  {
+    "sentence": "禅の教えはシンプルである。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えはシンプルである。",
+    "meaning": "The teachings of Zen are simple."
+  },
+  {
+    "sentence": "禅の精神を深く学ぶ。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を深【ふか】く学【まな】ぶ。",
+    "meaning": "To learn the spirit of Zen deeply."
+  },
+  {
+    "sentence": "禅の静けさが心を癒す。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさが心【こころ】を癒【いや】す。",
+    "meaning": "The tranquility of Zen heals the mind."
+  },
+  {
+    "sentence": "禅の道を行く。",
+    "sentence_furigana": "禅【ぜん】の道【みち】を行【ゆ】く。",
+    "meaning": "To walk the path of Zen."
+  },
+  {
+    "sentence": "禅の修行僧。",
+    "sentence_furigana": "禅【ぜん】の修行僧【しゅぎょうそう】。",
+    "meaning": "A Zen ascetic monk."
+  },
+  {
+    "sentence": "禅の芸術作品。",
+    "sentence_furigana": "禅【ぜん】の芸術作品【げいじゅつさくひん】。",
+    "meaning": "Zen artwork."
+  },
+  {
+    "sentence": "禅の庭園の美。",
+    "sentence_furigana": "禅【ぜん】の庭園【ていえん】の美【び】。",
+    "meaning": "The beauty of a Zen garden."
+  },
+  {
+    "sentence": "禅の思想家。",
+    "sentence_furigana": "禅【ぜん】の思想家【しそうか】。",
+    "meaning": "A Zen thinker."
+  },
+  {
+    "sentence": "禅の境地を求める。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】を求【もと】める。",
+    "meaning": "To seek a state of Zen."
+  },
+  {
+    "sentence": "禅の教えは普遍的だ。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えは普遍的【ふへんてき】だ。",
+    "meaning": "The teachings of Zen are universal."
+  },
+  {
+    "sentence": "禅の精神を極める。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を極【きわ】める。",
+    "meaning": "To master the spirit of Zen."
+  },
+  {
+    "sentence": "禅の静けさを探求する。",
+    "sentence_furigana": "禅【ぜん】の静【しず】けさを探求【たんきゅう】する。",
+    "meaning": "To explore the stillness of Zen."
+  },
+  {
+    "sentence": "禅の道は平坦ではない。",
+    "sentence_furigana": "禅【ぜん】の道【みち】は平坦【へいたん】ではない。",
+    "meaning": "The path of Zen is not smooth."
+  },
+  {
+    "sentence": "禅の公案は謎めいている。",
+    "sentence_furigana": "禅【ぜん】の公案【こうあん】は謎【なぞ】めいている。",
+    "meaning": "Zen koans are mysterious."
+  },
+  {
+    "sentence": "禅の芸術性と静けさ。",
+    "sentence_furigana": "禅【ぜん】の芸術性【げいじゅつせい】と静【しず】けさ。",
+    "meaning": "The artistry and tranquility of Zen."
+  },
+  {
+    "sentence": "禅の境地に至る道。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】に至【いた】る道【みち】。",
+    "meaning": "The path to a state of Zen."
+  },
+  {
+    "sentence": "禅の教えを人生に活かす。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えを人生【じんせい】に活【い】かす。",
+    "meaning": "To apply the teachings of Zen in life."
+  },
+  {
+    "sentence": "禅の精神を表現した絵。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】を表現【ひょうげん】した絵【え】。",
+    "meaning": "A painting that expresses the spirit of Zen."
+  },
+  {
+    "sentence": "禅の静けさを内に求める。",
+    "sentence_furigana": "禅【ぜん】の静寂【せいじゃく】を内【うち】に求【もと】める。",
+    "meaning": "To seek the stillness of Zen within."
+  },
+  {
+    "sentence": "禅の道は奥深く、広大だ。",
+    "sentence_furigana": "禅【ぜん】の道【みち】は奥深【おくふか】く、広大【こうだい】だ。",
+    "meaning": "The path of Zen is profound and vast."
+  },
+  {
+    "sentence": "禅の公案は自己探求を促す。",
+    "sentence_furigana": "禅【ぜん】の公案【こうあん】は自己探求【じこたんきゅう】を促【うなが】す。",
+    "meaning": "Zen koans encourage self-inquiry."
+  },
+  {
+    "sentence": "禅の芸術は簡潔さが魅力だ。",
+    "sentence_furigana": "禅【ぜん】の芸術【げいじゅつ】は簡潔【かんけつ】さが魅了【みりょ】だ。",
+    "meaning": "The appeal of Zen art lies in its simplicity."
+  },
+  {
+    "sentence": "禅の境地を悟る喜び。",
+    "sentence_furigana": "禅【ぜん】の境地【きょうち】を悟【さと】る喜【よろこ】び。",
+    "meaning": "The joy of realizing a state of Zen."
+  },
+  {
+    "sentence": "禅の教えは人生を豊かにする。",
+    "sentence_furigana": "禅【ぜん】の教【おし】えは人生【じんせい】を豊【ゆた】かにする。",
+    "meaning": "The teachings of Zen enrich life."
+  },
+  {
+    "sentence": "禅の精神は現代社会でも重要だ。",
+    "sentence_furigana": "禅【ぜん】の精神【せいしん】は現代社会【げんだいしゃかい】でも重要【じゅうよう】だ。",
+    "meaning": "The spirit of Zen is important even in modern society."
+  }
+]

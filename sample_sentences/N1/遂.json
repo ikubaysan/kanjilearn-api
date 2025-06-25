@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "計画は無事に遂行された。",
+    "sentence_furigana": "計画【けいかく】は無事【ぶじ】に遂行【すいこう】された。",
+    "meaning": "The plan was carried out without incident."
+  },
+  {
+    "sentence": "彼は長年の夢を遂げた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の夢【ゆめ】を遂げた【とげた】。",
+    "meaning": "He achieved his long-cherished dream."
+  },
+  {
+    "sentence": "ついに目標を達成した。",
+    "sentence_furigana": "つい【つい】に目標【もくひょう】を達成【たいせい】した。",
+    "meaning": "Finally, I achieved my goal."
+  },
+  {
+    "sentence": "事故は未遂に終わった。",
+    "sentence_furigana": "事故【じこ】は未遂【みすい】に終わった【おわった】。",
+    "meaning": "The accident ended in failure (was not completed)."
+  },
+  {
+    "sentence": "彼の偉業は後世に伝えられるだろう。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は後世【こうせい】に伝【つた】えられるだろう。",
+    "meaning": "His great achievement will be passed down to future generations."
+  },
+  {
+    "sentence": "ついに彼の念願が叶った。",
+    "sentence_furigana": "つい【つい】に彼【かれ】の念願【ねんがん】が叶【かな】った。",
+    "meaning": "Finally, his long-held wish came true."
+  },
+  {
+    "sentence": "その計画は成功裏に遂行された。",
+    "sentence_furigana": "その計画【けいかく】は成功裏【せいこうり】に遂行【すいこう】された。",
+    "meaning": "The plan was carried out successfully."
+  },
+  {
+    "sentence": "彼女は悲劇的な最期を遂げた。",
+    "sentence_furigana": "彼女【かのじょ】は悲劇的【ひげきてき】な最期【さいご】を遂げた【とげた】。",
+    "meaning": "She met a tragic end."
+  },
+  {
+    "sentence": "目標を達成するために努力を続けた。",
+    "sentence_furigana": "目標【もくひょう】を達成【たいせい】するために努力【どりょく】を続【つづ】けた。",
+    "meaning": "I continued to work hard to achieve the goal."
+  },
+  {
+    "sentence": "ついに彼らは和解に至った。",
+    "sentence_furigana": "つい【つい】に彼【かれ】らは和解【わかい】に至【いた】った。",
+    "meaning": "Finally, they reached a reconciliation."
+  },
+  {
+    "sentence": "この任務は彼によって遂行される。",
+    "sentence_furigana": "この任務【にんむ】は彼【かれ】によって遂行【すいこう】される。",
+    "meaning": "This mission will be carried out by him."
+  },
+  {
+    "sentence": "偉大な功績を遂げた人物。",
+    "sentence_furigana": "偉大【いだい】な功績【こうせき】を遂げた【とげた】人物【じんぶつ】。",
+    "meaning": "A person who achieved great merit."
+  },
+  {
+    "sentence": "ついにその日が来た。",
+    "sentence_furigana": "つい【つい】にその日【ひ】が来【き】た。",
+    "meaning": "Finally, that day came."
+  },
+  {
+    "sentence": "計画は順調に遂行されている。",
+    "sentence_furigana": "計画【けいかく】は順調【じゅんちょう】に遂行【すいこう】されている。",
+    "meaning": "The plan is being carried out smoothly."
+  },
+  {
+    "sentence": "彼は自殺を遂げた。",
+    "sentence_furigana": "彼【かれ】は自殺【じさつ】を遂げた【とげた】。",
+    "meaning": "He committed suicide."
+  },
+  {
+    "sentence": "努力が実を結び、夢を達成した。",
+    "sentence_furigana": "努力【どりょく】が実【み】を結【むす】び、夢【ゆめ】を達成【たいせい】した。",
+    "meaning": "My efforts bore fruit, and I achieved my dream."
+  },
+  {
+    "sentence": "ついに事件は解決した。",
+    "sentence_furigana": "つい【つい】に事件【じけん】は解決【かいけつ】した。",
+    "meaning": "Finally, the case was solved."
+  },
+  {
+    "sentence": "この困難な仕事を遂行するのは難しい。",
+    "sentence_furigana": "この困難【こんなん】な仕事【しごと】を遂行【すいこう】するのは難【むずか】しい。",
+    "meaning": "It is difficult to carry out this difficult task."
+  },
+  {
+    "sentence": "ついにその時が来た。",
+    "sentence_furigana": "つい【つい】にその時【とき】が来【き】た。",
+    "meaning": "Finally, the time has come."
+  },
+  {
+    "sentence": "長年の苦労が報われ、目標を遂げた。",
+    "sentence_furigana": "長年【ながねん】の苦労【くろう】が報【むく】われ、目標【もくひょう】を遂げた【とげた】。",
+    "meaning": "After many years of hardship, my efforts were rewarded, and I achieved my goal."
+  },
+  {
+    "sentence": "計画を完璧に遂行する。",
+    "sentence_furigana": "計画【けいかく】を完璧【かんぺき】に遂行【すいこう】する。",
+    "meaning": "To carry out the plan perfectly."
+  },
+  {
+    "sentence": "ついに彼はその決断を下した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその決断【けつだん】を下【くだ】した。",
+    "meaning": "Finally, he made that decision."
+  },
+  {
+    "sentence": "目標達成のために全力を尽くした。",
+    "sentence_furigana": "目標達成【もくひょうたいせい】のために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "I did my best to achieve the goal."
+  },
+  {
+    "sentence": "彼の遺志を遂げることができた。",
+    "sentence_furigana": "彼【かれ】の遺志【いし】を遂げることができた【とげることができた】。",
+    "meaning": "I was able to fulfill his last wish."
+  },
+  {
+    "sentence": "ついに彼女は夢を実現させた。",
+    "sentence_furigana": "つい【つい】に彼女【かのじょ】は夢【ゆめ】を実現【じつげん】させた。",
+    "meaning": "Finally, she made her dream come true."
+  },
+  {
+    "sentence": "迅速に任務を遂行した。",
+    "sentence_furigana": "迅速【じんそく】に任務【にんむ】を遂行【すいこう】した。",
+    "meaning": "The mission was carried out promptly."
+  },
+  {
+    "sentence": "ついに彼は犯罪を犯した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は犯罪【はんざい】を犯【おか】した。",
+    "meaning": "Finally, he committed a crime."
+  },
+  {
+    "sentence": "長年の研究が実り、ついに目的を達成した。",
+    "sentence_furigana": "長年【ながねん】の研究【けんきゅう】が実【み】り、つい【つい】に目的【もくてき】を達成【たいせい】した。",
+    "meaning": "After many years of research, my efforts paid off, and I finally achieved my objective."
+  },
+  {
+    "sentence": "この事業は彼によって遂行される。",
+    "sentence_furigana": "この事業【じぎょう】は彼【かれ】によって遂行【すいこう】される。",
+    "meaning": "This project will be carried out by him."
+  },
+  {
+    "sentence": "ついに待ち望んだ時が来た。",
+    "sentence_furigana": "つい【つい】に待【ま】ち望【のぞ】んだ時【とき】が来【き】た。",
+    "meaning": "Finally, the long-awaited time has come."
+  },
+  {
+    "sentence": "彼は自分の信念を貫き、目的を遂げた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の信念【しんねん】を貫【つらぬ】き、目的【もくてき】を遂げた【とげた】。",
+    "meaning": "He stuck to his beliefs and achieved his goal."
+  },
+  {
+    "sentence": "ついに目標を達成したのだ。",
+    "sentence_furigana": "つい【つい】に目標【もくひょう】を達成【たいせい】したのだ。",
+    "meaning": "I finally achieved the goal."
+  },
+  {
+    "sentence": "計画は予定通り遂行された。",
+    "sentence_furigana": "計画【けいかく】は予定通【よていどお】り遂行【すいこう】された。",
+    "meaning": "The plan was carried out as scheduled."
+  },
+  {
+    "sentence": "ついに彼の計画は成功した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】の計画【けいかく】は成功【せいこう】した。",
+    "meaning": "Finally, his plan succeeded."
+  },
+  {
+    "sentence": "彼の偉業は伝説となった。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は伝説【でんせつ】となった。",
+    "meaning": "His great achievement became a legend."
+  },
+  {
+    "sentence": "ついに我々は勝利を収めた。",
+    "sentence_furigana": "つい【つい】に我々【われわれ】は勝利【しょうり】を収【おさ】めた。",
+    "meaning": "Finally, we achieved victory."
+  },
+  {
+    "sentence": "計画を迅速に遂行しなければならない。",
+    "sentence_furigana": "計画【けいかく】を迅速【じんそく】に遂行【すいこう】しなければならない。",
+    "meaning": "We must carry out the plan promptly."
+  },
+  {
+    "sentence": "ついに彼は故郷に錦を飾った。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は故郷【こきょう】に錦【にしき】を飾【かざ】った。",
+    "meaning": "Finally, he returned to his hometown in glory."
+  },
+  {
+    "sentence": "目標達成は容易ではない。",
+    "sentence_furigana": "目標達成【もくひょうたいせい】は容易【ようい】ではない。",
+    "meaning": "Achieving the goal is not easy."
+  },
+  {
+    "sentence": "ついに彼はその約束を果たした。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその約束【やくそく】を果た【はた】した。",
+    "meaning": "Finally, he fulfilled that promise."
+  },
+  {
+    "sentence": "計画の遂行には多くの困難が伴う。",
+    "sentence_furigana": "計画【けいかく】の遂行【すいこう】には多【おお】くの困難【こんなん】が伴【ともな】う。",
+    "meaning": "Carrying out the plan involves many difficulties."
+  },
+  {
+    "sentence": "ついにその真相が明らかになった。",
+    "sentence_furigana": "つい【つい】にその真相【しんそう】が明【あき】らかになった。",
+    "meaning": "Finally, the truth became clear."
+  },
+  {
+    "sentence": "彼は夢を遂げるために努力し続けた。",
+    "sentence_furigana": "彼【かれ】は夢【ゆめ】を遂げる【とげる】ために努力【どりょく】し続【つづ】けた。",
+    "meaning": "He continued to work hard to achieve his dream."
+  },
+  {
+    "sentence": "ついに彼は目標を達成した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は目標【もくひょう】を達成【たいせい】した。",
+    "meaning": "Finally, he achieved his goal."
+  },
+  {
+    "sentence": "計画を遂行するには、多くの資源が必要だ。",
+    "sentence_furigana": "計画【けいかく】を遂行【すいこう】するには、多【おお】くの資源【しげん】が必要【ひつよう】だ。",
+    "meaning": "Carrying out the plan requires many resources."
+  },
+  {
+    "sentence": "ついに彼はその地位を確立した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその地位【ちい】を確立【かくりつ】した。",
+    "meaning": "Finally, he established that position."
+  },
+  {
+    "sentence": "彼の功績は称賛に値する。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "His achievements deserve praise."
+  },
+  {
+    "sentence": "ついに彼の悲願が達成された。",
+    "sentence_furigana": "つい【つい】に彼【かれ】の悲願【ひがん】が達成【たいせい】された。",
+    "meaning": "Finally, his earnest wish was achieved."
+  },
+  {
+    "sentence": "計画は綿密に遂行された。",
+    "sentence_furigana": "計画【けいかく】は綿密【めんみつ】に遂行【すいこう】された。",
+    "meaning": "The plan was carried out meticulously."
+  },
+  {
+    "sentence": "ついに彼はその目標を達成した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目標【もくひょう】を達成【たいせい】した。",
+    "meaning": "Finally, he achieved that goal."
+  },
+  {
+    "sentence": "彼の偉業を達成するために、私たちは全力を尽くす。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】を達成【たいせい】するために、私【わたし】たち は全力【ぜんりょく】を尽【つ】くす。",
+    "meaning": "We will do our best to achieve his great deed."
+  },
+  {
+    "sentence": "ついに我々の努力は実を結んだ。",
+    "sentence_furigana": "つい【つい】に我々【われわれ】の努力【どりょく】は実【み】を結【むす】んだ。",
+    "meaning": "Finally, our efforts bore fruit."
+  },
+  {
+    "sentence": "計画は滞りなく遂行された。",
+    "sentence_furigana": "計画【けいかく】は滞【とどこお】りなく遂行【すいこう】された。",
+    "meaning": "The plan was carried out without delay."
+  },
+  {
+    "sentence": "ついに彼はその夢を現実のものとした。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその夢【ゆめ】を現実【げんじつ】のものとした。",
+    "meaning": "Finally, he made that dream a reality."
+  },
+  {
+    "sentence": "彼の功績は歴史に刻まれるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に刻【きざ】まれるだろう。",
+    "meaning": "His achievements will be engraved in history."
+  },
+  {
+    "sentence": "ついに彼は自らの命を絶った。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は自【みずか】ら の命【いのち】を絶【た】った。",
+    "meaning": "Finally, he took his own life."
+  },
+  {
+    "sentence": "計画を達成するためには、犠牲が伴う。",
+    "sentence_furigana": "計画【けいかく】を達成【たいせい】するためには、犠牲【ぎせい】が伴【ともな】う。",
+    "meaning": "Achieving the plan involves sacrifice."
+  },
+  {
+    "sentence": "ついに彼は真実を明らかにした。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は真実【しんじつ】を明【あき】らかにした。",
+    "meaning": "Finally, he revealed the truth."
+  },
+  {
+    "sentence": "彼の成し遂げた偉業は数多い。",
+    "sentence_furigana": "彼【かれ】の成【な】し遂げた【とげた】偉業【いぎょう】は数多【かずおお】い。",
+    "meaning": "The great deeds he accomplished are numerous."
+  },
+  {
+    "sentence": "ついにその時は来た。",
+    "sentence_furigana": "つい【つい】にその時【とき】は来【き】た。",
+    "meaning": "Finally, the time has come."
+  },
+  {
+    "sentence": "計画を遂行するためのリソースを確保した。",
+    "sentence_furigana": "計画【けいかく】を遂行【すいこう】するためのリソースを確保【かくほ】した。",
+    "meaning": "We secured the resources to carry out the plan."
+  },
+  {
+    "sentence": "ついに彼はその約束を果たすことができた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその約束【やくそく】を果【は】たすことができた。",
+    "meaning": "Finally, he was able to fulfill that promise."
+  },
+  {
+    "sentence": "彼の偉業は多くの人々に影響を与えた。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "His great achievement influenced many people."
+  },
+  {
+    "sentence": "ついに彼はその目的を達成した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目的【もくてき】を達成【たいせい】した。",
+    "meaning": "Finally, he achieved that objective."
+  },
+  {
+    "sentence": "計画は慎重に遂行された。",
+    "sentence_furigana": "計画【けいかく】は慎重【しんちょう】に遂行【すいこう】された。",
+    "meaning": "The plan was carried out carefully."
+  },
+  {
+    "sentence": "ついに彼は故郷へ帰った。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は故郷【こきょう】へ帰【かえ】った。",
+    "meaning": "Finally, he returned to his hometown."
+  },
+  {
+    "sentence": "彼の功績は称賛されるべきだ。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は称賛【しょうさん】されるべきだ。",
+    "meaning": "His achievements should be praised."
+  },
+  {
+    "sentence": "ついに彼女は望みを叶えた。",
+    "sentence_furigana": "つい【つい】に彼女【かのじょ】は望【のぞ】みを叶【かな】えた。",
+    "meaning": "Finally, she fulfilled her wish."
+  },
+  {
+    "sentence": "計画を遂行するための準備が整った。",
+    "sentence_furigana": "計画【けいかく】を遂行【すいこう】するための準備【じゅんび】が整【ととの】った。",
+    "meaning": "Preparations for carrying out the plan are complete."
+  },
+  {
+    "sentence": "ついに彼はその偉業を成し遂げた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその偉業【いぎょう】を成【な】し遂げた【とげた】。",
+    "meaning": "Finally, he accomplished that great deed."
+  },
+  {
+    "sentence": "彼の功績は後世に語り継がれるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は後世【こうせい】に語【かた】り継【つ】がれるだろう。",
+    "meaning": "His achievements will be passed down to future generations."
+  },
+  {
+    "sentence": "ついに彼は自らの手で事を成した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】は自【みずか】ら の手【て】で事【こと】を成【な】した。",
+    "meaning": "Finally, he accomplished the task with his own hands."
+  },
+  {
+    "sentence": "計画遂行における重要な局面。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】における重要【じゅうよう】な局面【きょくめん】。",
+    "meaning": "A crucial phase in the execution of the plan."
+  },
+  {
+    "sentence": "ついに彼はその秘密を打ち明けた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその秘密【ひみつ】を打【う】ち明【あ】けた。",
+    "meaning": "Finally, he revealed that secret."
+  },
+  {
+    "sentence": "彼の偉業は誰もが認めるだろう。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は誰【だれ】もが認【みと】めるだろう。",
+    "meaning": "Everyone will recognize his great achievement."
+  },
+  {
+    "sentence": "ついに彼はその夢を掴んだ。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその夢【ゆめ】を掴【つか】んだ。",
+    "meaning": "Finally, he grasped that dream."
+  },
+  {
+    "sentence": "計画遂行の責任者として任命された。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】の責任者【せきにんしゃ】として任命【にんめい】された。",
+    "meaning": "I was appointed as the person responsible for carrying out the plan."
+  },
+  {
+    "sentence": "ついに彼はその目標を達成する。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目標【もくひょう】を達成【たいせい】する。",
+    "meaning": "Finally, he will achieve that goal."
+  },
+  {
+    "sentence": "彼の功績は永く記憶されるだろう。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は永【なが】く記憶【きおく】されるだろう。",
+    "meaning": "His achievements will be remembered for a long time."
+  },
+  {
+    "sentence": "ついに彼はその約束を果たす。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその約束【やくそく】を果【は】たす。",
+    "meaning": "Finally, he will fulfill that promise."
+  },
+  {
+    "sentence": "計画の遂行は我々の使命だ。",
+    "sentence_furigana": "計画【けいかく】の遂行【すいこう】は我々【われわれ】の使命【しめい】だ。",
+    "meaning": "Carrying out the plan is our mission."
+  },
+  {
+    "sentence": "ついに彼はその難関を突破した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその難関【なんかん】を突破【とっぱ】した。",
+    "meaning": "Finally, he broke through that difficult barrier."
+  },
+  {
+    "sentence": "彼の偉業は語り草となった。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は語【かた】り草【ぐさ】となった。",
+    "meaning": "His great achievement became a topic of conversation."
+  },
+  {
+    "sentence": "ついに彼はその目標に到達した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目標【もくひょう】に到達【とうたつ】した。",
+    "meaning": "Finally, he reached that goal."
+  },
+  {
+    "sentence": "計画遂行の遅延は許されない。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】の遅延【ちえん】は許【ゆる】されない。",
+    "meaning": "Delay in carrying out the plan is not permitted."
+  },
+  {
+    "sentence": "ついに彼はその目標を果たす。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目標【もくひょう】を果【は】たす。",
+    "meaning": "Finally, he will achieve that goal."
+  },
+  {
+    "sentence": "彼の功績を称える。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】を称【たた】える。",
+    "meaning": "To praise his achievements."
+  },
+  {
+    "sentence": "ついに彼はその地位に就いた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその地位【ちい】に就【つ】いた。",
+    "meaning": "Finally, he took that position."
+  },
+  {
+    "sentence": "計画遂行のため、チーム一丸となって取り組む。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】のため、チーム一丸【いちがん】となって取【と】り組【く】む。",
+    "meaning": "We will work as one team to carry out the plan."
+  },
+  {
+    "sentence": "ついに彼はその目的を果たす。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目的【もくてき】を果【は】たす。",
+    "meaning": "Finally, he will achieve that objective."
+  },
+  {
+    "sentence": "彼の偉業は歴史に名を残すだろう。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は歴史【れきし】に名【な】を残【のこ】すだろう。",
+    "meaning": "His great achievement will leave its mark on history."
+  },
+  {
+    "sentence": "ついに彼はその夢を実現した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその夢【ゆめ】を実現【じつげん】した。",
+    "meaning": "Finally, he made that dream come true."
+  },
+  {
+    "sentence": "計画遂行における彼の貢献は大きい。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】における彼【かれ】の貢献【こうけん】は大きい【おおきい】。",
+    "meaning": "His contribution to carrying out the plan is significant."
+  },
+  {
+    "sentence": "ついに彼はその約束を果たしたのだ。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその約束【やくそく】を果た【はた】したのだ。",
+    "meaning": "Finally, he fulfilled that promise."
+  },
+  {
+    "sentence": "彼の功績は称賛に値する。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は称賛【しょうさん】に値【あたい】する。",
+    "meaning": "His achievements are worthy of praise."
+  },
+  {
+    "sentence": "ついに彼はその目標を達成し終えた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目標【もくひょう】を達成【たいせい】し終【お】えた。",
+    "meaning": "Finally, he finished achieving that goal."
+  },
+  {
+    "sentence": "計画遂行の鍵は、協力にある。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】の鍵【かぎ】は、協力【きょうりょく】にある。",
+    "meaning": "The key to carrying out the plan lies in cooperation."
+  },
+  {
+    "sentence": "ついに彼はその夢を叶えた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその夢【ゆめ】を叶【かな】えた。",
+    "meaning": "Finally, he fulfilled that dream."
+  },
+  {
+    "sentence": "彼の偉業は多くの人々に尊敬されている。",
+    "sentence_furigana": "彼【かれ】の偉業【いぎょう】は多【おお】くの人々【ひとびと】に尊敬【そんけい】されている。",
+    "meaning": "His great achievement is respected by many people."
+  },
+  {
+    "sentence": "ついに彼はその目的を達成した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその目的【もくてき】を達成【たいせい】した。",
+    "meaning": "Finally, he achieved his objective."
+  },
+  {
+    "sentence": "計画遂行は私の責任です。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】は私【わたし】の責任【せきにん】です。",
+    "meaning": "Carrying out the plan is my responsibility."
+  },
+  {
+    "sentence": "ついに彼はその頂点に達した。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその頂点【ちょうてん】に達【たっ】した。",
+    "meaning": "Finally, he reached that summit."
+  },
+  {
+    "sentence": "彼の功績は称賛に値すると言える。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は称賛【しょうさん】に値【あたい】すると言【い】える。",
+    "meaning": "It can be said that his achievements are worthy of praise."
+  },
+  {
+    "sentence": "ついに彼はその夢を現実に biến đổi た。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその夢【ゆめ】を現実【げんじつ】に biến đổi た【へんかんした】。",
+    "meaning": "Finally, he transformed that dream into reality."
+  },
+  {
+    "sentence": "計画遂行のため、あらゆる手段を講じた。",
+    "sentence_furigana": "計画遂行【けいかくすいこう】のため、あらゆる手段【しゅだん】を講【こう】じた。",
+    "meaning": "We took all measures to carry out the plan."
+  },
+  {
+    "sentence": "ついに彼はその偉業を成し遂げることができた。",
+    "sentence_furigana": "つい【つい】に彼【かれ】はその偉業【いぎょう】を成【な】し遂げることができた【とげることができた】。",
+    "meaning": "Finally, he was able to accomplish that great deed."
+  }
+]

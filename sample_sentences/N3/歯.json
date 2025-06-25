@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "歯が痛いので、歯医者に行きました。",
+    "sentence_furigana": "歯【は】が痛【いた】いので、歯【は】医者【いしゃ】に行【い】きました。",
+    "meaning": "My tooth hurt, so I went to the dentist."
+  },
+  {
+    "sentence": "虫歯を治療してもらいました。",
+    "sentence_furigana": "虫歯【むしば】を治療【ちりょう】してもらいました。",
+    "meaning": "I had my cavity treated."
+  },
+  {
+    "sentence": "歯磨きは毎日するべきです。",
+    "sentence_furigana": "歯磨【はみが】きは毎日【まいにち】するべきです。",
+    "meaning": "You should brush your teeth every day."
+  },
+  {
+    "sentence": "子供の歯が生え始めました。",
+    "sentence_furigana": "子供【こども】の歯【は】が生【は】え始【はじ】めました。",
+    "meaning": "My child's teeth started to come in."
+  },
+  {
+    "sentence": "入れ歯が合わなくなりました。",
+    "sentence_furigana": "入【い】れ歯【は】が合【あ】わなくなりました。",
+    "meaning": "My dentures no longer fit."
+  },
+  {
+    "sentence": "彼女は歯が綺麗ですね。",
+    "sentence_furigana": "彼女【かのじょ】は歯【は】が綺麗【きれい】ですね。",
+    "meaning": "Her teeth are beautiful, aren't they?"
+  },
+  {
+    "sentence": "歯車が回って動いています。",
+    "sentence_furigana": "歯車【はぐるま】が回【まわ】って動【うご】いています。",
+    "meaning": "The gears are turning and moving."
+  },
+  {
+    "sentence": "この時計は歯車の仕組みで動いています。",
+    "sentence_furigana": "この時計【とけい】は歯車【はぐるま】の仕組【しく】みで動【うご】いています。",
+    "meaning": "This clock is driven by a gear mechanism."
+  },
+  {
+    "sentence": "歯周病にならないように注意しています。",
+    "sentence_furigana": "歯周病【ししゅうびょう】にならないように注意【ちゅうい】しています。",
+    "meaning": "I am careful not to get periodontal disease."
+  },
+  {
+    "sentence": "乳歯が抜けて永久歯に生え変わりました。",
+    "sentence_furigana": "乳歯【にゅうし】が抜【ぬ】けて永久歯【えいきゅうし】に生【は】え変【か】わりました。",
+    "meaning": "My baby tooth fell out and was replaced by an adult tooth."
+  },
+  {
+    "sentence": "歯切れの良い話し方をする人です。",
+    "sentence_furigana": "歯切【はぎ】れの良【よ】い話【はな】し方【かた】をする人【ひと】です。",
+    "meaning": "He is a person who speaks clearly."
+  },
+  {
+    "sentence": "歯ごたえのある食べ物が好きです。",
+    "sentence_furigana": "歯ごたえのある食【た】べ物【もの】が好【す】きです。",
+    "meaning": "I like food with a good texture."
+  },
+  {
+    "sentence": "歯垢を取るために定期的に歯石除去を受けています。",
+    "sentence_furigana": "歯垢【しこう】を取【と】るために定期【ていき】に歯石【しせき】除去【じょきょ】を受【う】けています。",
+    "meaning": "I regularly get dental cleanings to remove plaque."
+  },
+  {
+    "sentence": "歯が抜けてしまい、食べにくいです。",
+    "sentence_furigana": "歯【は】が抜【ぬ】けてしまい、食【た】べにくいです。",
+    "meaning": "A tooth has fallen out, making it difficult to eat."
+  },
+  {
+    "sentence": "子供の頃、歯が丈夫だと褒められました。",
+    "sentence_furigana": "子供【こども】の頃【ころ】、歯【は】が丈夫【じょうぶ】だと褒【ほ】められました。",
+    "meaning": "When I was a child, I was praised for having strong teeth."
+  },
+  {
+    "sentence": "歯茎が腫れて痛みます。",
+    "sentence_furigana": "歯茎【はぐき】が腫【は】れて痛【いた】みます。",
+    "meaning": "My gums are swollen and painful."
+  },
+  {
+    "sentence": "歯のホワイトニングに興味があります。",
+    "sentence_furigana": "歯【は】のホワイトニングに興味【きょうみ】があります。",
+    "meaning": "I am interested in teeth whitening."
+  },
+  {
+    "sentence": "この機械は多くの歯車で動いています。",
+    "sentence_furigana": "この機械【きかい】は多【おお】くの歯車【はぐるま】で動【うご】いています。",
+    "meaning": "This machine is operated by many gears."
+  },
+  {
+    "sentence": "歯列矯正をすることにしました。",
+    "sentence_furigana": "歯列矯正【しれつきょうせい】をすることにしました。",
+    "meaning": "I decided to get braces."
+  },
+  {
+    "sentence": "歯が欠けてしまいました。",
+    "sentence_furigana": "歯【は】が欠【か】けてしまいました。",
+    "meaning": "A tooth has chipped."
+  },
+  {
+    "sentence": "歯の健康を保つことは大切です。",
+    "sentence_furigana": "歯【は】の健康【けんこう】を保【たも】つことは大切【たいせつ】です。",
+    "meaning": "Maintaining dental health is important."
+  },
+  {
+    "sentence": "歯の詰め物が取れてしまいました。",
+    "sentence_furigana": "歯【は】の詰【つ】め物【もの】が取【と】れてしまいました。",
+    "meaning": "My dental filling has come out."
+  },
+  {
+    "sentence": "歯の裏側も丁寧に磨きましょう。",
+    "sentence_furigana": "歯【は】の裏側【うらがわ】も丁寧【ていねい】に磨【みが】きましょう。",
+    "meaning": "Let's brush the backs of our teeth carefully too."
+  },
+  {
+    "sentence": "歯がしみやすい体質です。",
+    "sentence_furigana": "歯【は】がしみやすい体質【たいしつ】です。",
+    "meaning": "I have a constitution where my teeth are sensitive."
+  },
+  {
+    "sentence": "歯並びを良くしたいと思っています。",
+    "sentence_furigana": "歯並【はなら】びを良【よ】くしたいと思【おも】っています。",
+    "meaning": "I want to improve my teeth alignment."
+  },
+  {
+    "sentence": "歯ブラシを新しいものに交換しました。",
+    "sentence_furigana": "歯ブラシ【はぶらし】を新【あたら】しいものに交換【こうかん】しました。",
+    "meaning": "I replaced my toothbrush with a new one."
+  },
+  {
+    "sentence": "歯がグラグラしています。",
+    "sentence_furigana": "歯【は】がグラグラしています。",
+    "meaning": "My tooth is loose."
+  },
+  {
+    "sentence": "歯は噛むために必要不可欠です。",
+    "sentence_furigana": "歯【は】は噛【か】むために必要不可欠【ひつようふかけつ】です。",
+    "meaning": "Teeth are essential for chewing."
+  },
+  {
+    "sentence": "歯の神経が痛んでいます。",
+    "sentence_furigana": "歯【は】の神経【しんけい】が痛【いた】んでいます。",
+    "meaning": "The nerve in my tooth hurts."
+  },
+  {
+    "sentence": "虫歯にならないよう、砂糖の摂取を控えています。",
+    "sentence_furigana": "虫歯【むしば】にならないよう、砂糖【さとう】の摂取【せっしゅ】を控【ひか】えています。",
+    "meaning": "I am limiting my sugar intake to prevent cavities."
+  },
+  {
+    "sentence": "歯茎からの出血が止まりません。",
+    "sentence_furigana": "歯茎【はぐき】から出血【しゅっけつ】が止【と】まりません。",
+    "meaning": "Bleeding from my gums will not stop."
+  },
+  {
+    "sentence": "歯医者で定期検診を受けています。",
+    "sentence_furigana": "歯医者【はいしゃ】で定期検診【ていFebruary】を受【う】けています。",
+    "meaning": "I get regular checkups at the dentist."
+  },
+  {
+    "sentence": "歯を食いしばって耐えました。",
+    "sentence_furigana": "歯【は】を食【く】いしばって耐【た】えました。",
+    "meaning": "I gritted my teeth and endured it."
+  },
+  {
+    "sentence": "歯は体の健康のバロメーターです。",
+    "sentence_furigana": "歯【は】は体【からだ】の健康【けんこう】のバロメーターです。",
+    "meaning": "Teeth are a barometer of bodily health."
+  },
+  {
+    "sentence": "歯が黄色くなるのを防ぎたいです。",
+    "sentence_furigana": "歯【は】が黄色【きいろ】くなるのを防【ふせ】ぎたいです。",
+    "meaning": "I want to prevent my teeth from turning yellow."
+  },
+  {
+    "sentence": "歯間ブラシを使うと歯垢がよく取れます。",
+    "sentence_furigana": "歯間ブラシ【しかんぶらし】を使【つか】うと歯垢【しこう】がよく取【と】れます。",
+    "meaning": "Using an interdental brush removes plaque well."
+  },
+  {
+    "sentence": "歯を強くするためにカルシウムを摂っています。",
+    "sentence_furigana": "歯【は】を強【つよ】くするためにカルシウムを摂【と】っています。",
+    "meaning": "I am taking calcium to strengthen my teeth."
+  },
+  {
+    "sentence": "歯周病の初期症状に気づきました。",
+    "sentence_furigana": "歯周病【ししゅうびょう】の初期症状【しょきしょうじょう】に気【き】づきました。",
+    "meaning": "I noticed the early symptoms of periodontal disease."
+  },
+  {
+    "sentence": "歯の治療には保険が適用されますか？",
+    "sentence_furigana": "歯【は】の治療【ちりょう】には保険【ほけん】が適用【てきよう】されますか？",
+    "meaning": "Is dental treatment covered by insurance?"
+  },
+  {
+    "sentence": "歯が抜ける夢を見ました。",
+    "sentence_furigana": "歯【は】が抜【ぬ】ける夢【ゆめ】を見【み】ました。",
+    "meaning": "I had a dream about losing my teeth."
+  },
+  {
+    "sentence": "歯のメンテナンスは欠かせません。",
+    "sentence_furigana": "歯【は】のメンテナンスは欠【か】かせません。",
+    "meaning": "Dental maintenance is indispensable."
+  },
+  {
+    "sentence": "歯がしみる原因は何でしょうか？",
+    "sentence_furigana": "歯【は】がしみる原因【げんいん】は何【なん】でしょうか？",
+    "meaning": "What is the cause of tooth sensitivity?"
+  },
+  {
+    "sentence": "歯茎からの出血は歯周病のサインかもしれません。",
+    "sentence_furigana": "歯茎【はぐき】から出血【しゅっけつ】は歯周病【ししゅうびょう】のサインかもしれません。",
+    "meaning": "Bleeding from the gums may be a sign of periodontal disease."
+  },
+  {
+    "sentence": "歯の健康のためにフロスを使用しています。",
+    "sentence_furigana": "歯【は】の健康【けんこう】のためにフロスを使用【しよう】しています。",
+    "meaning": "I use floss for the health of my teeth."
+  },
+  {
+    "sentence": "歯の神経を取る治療を受けました。",
+    "sentence_furigana": "歯【は】の神経【しんけい】を取【と】る治療【ちりょう】を受【う】けました。",
+    "meaning": "I underwent treatment to remove the nerve from my tooth."
+  },
+  {
+    "sentence": "歯が丈夫だと、何でも美味しく食べられます。",
+    "sentence_furigana": "歯【は】が丈夫【じょうぶ】だと、何【なん】でも美味【おい】しく食【た】べられます。",
+    "meaning": "When your teeth are strong, you can eat anything deliciously."
+  },
+  {
+    "sentence": "歯を磨くときは、歯茎も優しくマッサージするように。",
+    "sentence_furigana": "歯【は】を磨【みが】くときは、歯茎【はぐき】も優【やさ】しくマッサージするように。",
+    "meaning": "When brushing your teeth, gently massage your gums too."
+  },
+  {
+    "sentence": "歯のクリーニングをしました。",
+    "sentence_furigana": "歯【は】のクリーニングをしました。",
+    "meaning": "I had my teeth cleaned."
+  },
+  {
+    "sentence": "歯が抜けるのは歳をとった証拠です。",
+    "sentence_furigana": "歯【は】が抜【ぬ】けるのは歳【とし】をとった証拠【しょうこ】です。",
+    "meaning": "Losing teeth is a sign of aging."
+  },
+  {
+    "sentence": "歯のホワイトニング効果はどれくらい続きますか？",
+    "sentence_furigana": "歯【は】のホワイトニング効果【こうか】はどれくらい続【つづ】きますか？",
+    "meaning": "How long do the effects of teeth whitening last?"
+  },
+  {
+    "sentence": "歯の健康診断を受けました。",
+    "sentence_furigana": "歯【は】の健康診断【けんこうしんだん】を受【う】けました。",
+    "meaning": "I had a dental health checkup."
+  },
+  {
+    "sentence": "歯茎の病気は全身の健康にも影響します。",
+    "sentence_furigana": "歯茎【はぐき】の病気【びょうき】は全身【ぜんしん】の健康【けんこう】にも影響【えいきょう】します。",
+    "meaning": "Gum disease can also affect overall health."
+  },
+  {
+    "sentence": "歯の治療跡が残っています。",
+    "sentence_furigana": "歯【は】の治療跡【ちりょうあと】が残【のこ】っています。",
+    "meaning": "There is a dental treatment mark remaining."
+  },
+  {
+    "sentence": "歯の形を整える矯正治療を受けました。",
+    "sentence_furigana": "歯【は】の形【かたち】を整【ととの】える矯正治療【きょうせいちりょう】を受【う】けました。",
+    "meaning": "I received orthodontic treatment to straighten my teeth."
+  },
+  {
+    "sentence": "歯がしみないように、冷たいものは控えています。",
+    "sentence_furigana": "歯【は】がしみないように、冷【つめ】たいもの は控【ひか】えています。",
+    "meaning": "I refrain from cold things so my teeth don't feel sensitive."
+  },
+  {
+    "sentence": "歯の健康は食生活にも関わっています。",
+    "sentence_furigana": "歯【は】の健康【けんこう】は食生活【しょくせいかつ】にも関【かか】わっています。",
+    "meaning": "Dental health is also related to diet."
+  },
+  {
+    "sentence": "歯の根っこまで虫歯が進行していました。",
+    "sentence_furigana": "歯【は】の根【ね】っこまで虫歯【むしば】が進行【しんこう】していました。",
+    "meaning": "The cavity had progressed to the root of the tooth."
+  },
+  {
+    "sentence": "歯茎が下がってきています。",
+    "sentence_furigana": "歯茎【はぐき】が下【さ】がってきています。",
+    "meaning": "My gums are receding."
+  },
+  {
+    "sentence": "歯のぐらつきを治してもらいました。",
+    "sentence_furigana": "歯【は】のぐらつきを治【なお】してもらいました。",
+    "meaning": "I had my loose tooth fixed."
+  },
+  {
+    "sentence": "歯の黄ばみを気にする人が増えています。",
+    "sentence_furigana": "歯【は】の黄ば【き】みを気【き】にする人【ひと】が増【ふ】えています。",
+    "meaning": "More people are concerned about yellow teeth."
+  },
+  {
+    "sentence": "歯の定期検診は年に2回受けるのが良い。",
+    "sentence_furigana": "歯【は】の定期検診【ていFebruary】は年【ねん】に2回【かい】受【う】けるのが良【よ】い。",
+    "meaning": "It is good to have dental checkups twice a year."
+  },
+  {
+    "sentence": "歯の表面を保護する薬剤を塗布しました。",
+    "sentence_furigana": "歯【は】の表面【ひょうめん】を保護【ほご】する薬剤【やくざい】を塗布【とふ】しました。",
+    "meaning": "A medicine to protect the tooth surface was applied."
+  },
+  {
+    "sentence": "歯周ポケットの深さを測ってもらいました。",
+    "sentence_furigana": "歯周ポケット【ししゅうぽけっと】の深【ふか】さを測【はか】ってもらいました。",
+    "meaning": "My periodontal pocket depth was measured."
+  },
+  {
+    "sentence": "歯茎に炎症が起きています。",
+    "sentence_furigana": "歯茎【はぐき】に炎症【えんしょう】が起【お】きています。",
+    "meaning": "There is inflammation in my gums."
+  },
+  {
+    "sentence": "歯の治療のために麻酔をしました。",
+    "sentence_furigana": "歯【は】の治療【ちりょう】のために麻酔【ますい】をしました。",
+    "meaning": "I received anesthesia for dental treatment."
+  },
+  {
+    "sentence": "歯に食べカスが挟まってしまいました。",
+    "sentence_furigana": "歯【は】に食【た】べカスが挟【はさ】まってしまいました。",
+    "meaning": "Food debris got stuck between my teeth."
+  },
+  {
+    "sentence": "歯茎の腫れがひどくなりました。",
+    "sentence_furigana": "歯茎【はぐき】の腫【は】れがひどくなりました。",
+    "meaning": "The swelling of my gums has worsened."
+  },
+  {
+    "sentence": "歯の数え方は「本」です。",
+    "sentence_furigana": "歯【は】の数【かぞ】え方【かた】は「本【ほん】」です。",
+    "meaning": "The counter for teeth is 'hon'."
+  },
+  {
+    "sentence": "歯を一本失ってしまいました。",
+    "sentence_furigana": "歯【は】を一本【いっぽん】失【うしな】ってしまいました。",
+    "meaning": "I lost a tooth."
+  },
+  {
+    "sentence": "歯の表面のエナメル質はとても硬いです。",
+    "sentence_furigana": "歯【は】の表面【ひょうめん】のエナメル質【しつ】はとても硬【かた】いです。",
+    "meaning": "The enamel on the surface of teeth is very hard."
+  },
+  {
+    "sentence": "歯肉炎の症状が出ているようです。",
+    "sentence_furigana": "歯肉炎【しにくえん】の症状【しょうじょう】が出【で】ているようです。",
+    "meaning": "It seems I have symptoms of gingivitis."
+  },
+  {
+    "sentence": "歯が欠けた場合はすぐに歯医者へ。",
+    "sentence_furigana": "歯【は】が欠【か】けた場合【ばあい】はすぐに歯医者【はいしゃ】へ。",
+    "meaning": "If a tooth chips, go to the dentist immediately."
+  },
+  {
+    "sentence": "歯の模型を作りました。",
+    "sentence_furigana": "歯【は】の模型【もけい】を作【つく】りました。",
+    "meaning": "I made a dental model."
+  },
+  {
+    "sentence": "歯ブラシを交換する時期だと思います。",
+    "sentence_furigana": "歯ブラシ【はぶらし】を交換【こうかん】する時期【じき】だと 思【おも】います。",
+    "meaning": "I think it's time to replace my toothbrush."
+  },
+  {
+    "sentence": "歯列不整を治すために矯正を始めました。",
+    "sentence_furigana": "歯列不整【しれつふせい】を治【なお】すために矯正【きょうせい】を始【はじ】めました。",
+    "meaning": "I started orthodontic treatment to fix my misaligned teeth."
+  },
+  {
+    "sentence": "歯が抜ける夢は、何か変化の兆候らしいです。",
+    "sentence_furigana": "歯【は】が抜【ぬ】ける夢【ゆめ】は、何【なに】か変化【へんか】の兆候【ちょうこう】らしいです。",
+    "meaning": "Dreams about losing teeth are said to be a sign of some change."
+  },
+  {
+    "sentence": "歯の神経を取る処置を受けました。",
+    "sentence_furigana": "歯【は】の神経【しんけい】を取【と】る処置【しょち】を受【う】けました。",
+    "meaning": "I had a procedure to remove the tooth nerve."
+  },
+  {
+    "sentence": "歯の噛み合わせが悪いです。",
+    "sentence_furigana": "歯【は】の噛【か】み合【あ】わせが悪【わる】いです。",
+    "meaning": "My bite is bad."
+  },
+  {
+    "sentence": "歯が丈夫だと、硬いものも食べられます。",
+    "sentence_furigana": "歯【は】が丈夫【じょうぶ】だと、硬【かた】い物【もの】も食【た】べられます。",
+    "meaning": "When your teeth are strong, you can eat hard things too."
+  },
+  {
+    "sentence": "歯茎のマッサージも大切です。",
+    "sentence_furigana": "歯茎【はぐき】のマッサージも大切【たいせつ】です。",
+    "meaning": "Massaging your gums is also important."
+  },
+  {
+    "sentence": "歯にものが挟まったので取りました。",
+    "sentence_furigana": "歯【は】に物【もの】が挟【はさ】まったので取【と】りました。",
+    "meaning": "Something got stuck between my teeth, so I removed it."
+  },
+  {
+    "sentence": "歯の表面にフッ素を塗布してもらいました。",
+    "sentence_furigana": "歯【は】の表面【ひょうめん】にフッ素を塗布【とふ】してもらいました。",
+    "meaning": "I had fluoride applied to the surface of my teeth."
+  },
+  {
+    "sentence": "歯が抜けた穴にインプラントを埋め込みました。",
+    "sentence_furigana": "歯【は】が抜【ぬ】けた穴【あな】にインプラントを埋【う】め込【こ】みました。",
+    "meaning": "An implant was placed in the gap where a tooth was missing."
+  },
+  {
+    "sentence": "歯茎の健康を守るために、しっかり歯磨きをします。",
+    "sentence_furigana": "歯茎【はぐき】の健康【けんこう】を守【まも】るために、しっかり歯磨【はみが】きをします。",
+    "meaning": "I brush my teeth thoroughly to protect gum health."
+  },
+  {
+    "sentence": "歯が欠けても、治療すれば元通りになります。",
+    "sentence_furigana": "歯【は】が欠【か】けても、治療【ちりょう】すれば元通【もとどお】りになります。",
+    "meaning": "Even if a tooth chips, it can be restored with treatment."
+  },
+  {
+    "sentence": "歯の噛み合わせを調整してもらいました。",
+    "sentence_furigana": "歯【は】の噛【か】み合【あ】わせを調整【ちょうせい】してもらいました。",
+    "meaning": "My bite was adjusted."
+  },
+  {
+    "sentence": "歯の裏側も綺麗に磨きましょう。",
+    "sentence_furigana": "歯【は】の裏側【うらがわ】も綺麗【きれい】に磨【みが】きましょう。",
+    "meaning": "Let's brush the backs of our teeth cleanly too."
+  },
+  {
+    "sentence": "歯が丈夫だと、食事を存分に楽しめます。",
+    "sentence_furigana": "歯【は】が丈夫【じょうぶ】だと、食事【しょくじ】を存分【ぞんぶん】に楽【たの】しめます。",
+    "meaning": "When your teeth are strong, you can fully enjoy your meals."
+  },
+  {
+    "sentence": "歯周病は早期発見・早期治療が大切です。",
+    "sentence_furigana": "歯周病【ししゅうびょう】は早期発見【そうきはっけん】・早期治療【そうきちりょう】が大切【たいせつ】です。",
+    "meaning": "Early detection and early treatment of periodontal disease are important."
+  },
+  {
+    "sentence": "歯のレントゲン写真を撮りました。",
+    "sentence_furigana": "歯【は】のレントゲン写真【しゃしん】を撮【と】りました。",
+    "meaning": "I had dental X-rays taken."
+  },
+  {
+    "sentence": "歯茎からの出血は放置しない方が良い。",
+    "sentence_furigana": "歯茎【はぐき】から出血【しゅっけつ】は放置【ほうち】しない方【ほう】が良い【よい】。",
+    "meaning": "It is better not to ignore bleeding from the gums."
+  },
+  {
+    "sentence": "歯に詰め物をする治療を受けました。",
+    "sentence_furigana": "歯【は】に詰【つ】め物【もの】をする治療【ちりょう】を受【う】けました。",
+    "meaning": "I received treatment to put a filling in my tooth."
+  },
+  {
+    "sentence": "歯の衛生状態を良く保ちたいです。",
+    "sentence_furigana": "歯【は】の衛生状態【えいせいじょうたい】を良【よ】く保【たも】ちたいです。",
+    "meaning": "I want to maintain good oral hygiene."
+  },
+  {
+    "sentence": "歯列矯正の装置をつけました。",
+    "sentence_furigana": "歯列矯正【しれつきょうせい】の装置【そうち】をつけました。",
+    "meaning": "I had orthodontic appliances fitted."
+  },
+  {
+    "sentence": "歯がグラグラして、うまく噛めません。",
+    "sentence_furigana": "歯【は】がグラグラして、うま<ruby>噛</ruby>めません。",
+    "meaning": "My teeth are loose, and I can't chew properly."
+  },
+  {
+    "sentence": "歯の健康のために、バランスの取れた食事を心がけています。",
+    "sentence_furigana": "歯【は】の健康【けんこう】のために、バランスの取【と】れた食事【しょくじ】を心【こころ】がけています。",
+    "meaning": "I try to eat a balanced diet for the health of my teeth."
+  },
+  {
+    "sentence": "歯の根の治療をしました。",
+    "sentence_furigana": "歯【は】の根【ね】の治療【ちりょう】をしました。",
+    "meaning": "I had root canal treatment."
+  },
+  {
+    "sentence": "歯茎のケアも忘れずに行いましょう。",
+    "sentence_furigana": "歯茎【はぐき】のケアも忘【わす】れずに行【おこな】いましょう。",
+    "meaning": "Let's not forget to care for our gums too."
+  },
+  {
+    "sentence": "歯が黄色くなるのは、着色汚れが原因かもしれません。",
+    "sentence_furigana": "歯【は】が黄色【きいろ】くなるのは、着色汚【ちゃくしょくよご】れが原因【げんいん】かもしれません。",
+    "meaning": "Yellowing of teeth may be due to staining."
+  },
+  {
+    "sentence": "歯の神経が露出してしまい、痛みがあります。",
+    "sentence_furigana": "歯【は】の神経【しんけい】が露出【ろじゅつ】してしまい、痛【いた】みがあります。",
+    "meaning": "The nerve of my tooth has been exposed, and it hurts."
+  },
+  {
+    "sentence": "歯周病の進行を抑えるために、特別な歯磨き粉を使っています。",
+    "sentence_furigana": "歯周病【ししゅうびょう】の進行【しんこう】を抑【おさ】えるために、特別【とくべつ】な歯磨【はみが】き粉【こ】を使【つか】っています。",
+    "meaning": "I use special toothpaste to control the progression of periodontal disease."
+  },
+  {
+    "sentence": "歯が抜ける夢を見ると、不安になります。",
+    "sentence_furigana": "歯【は】が抜【ぬ】ける夢【ゆめ】を見ると、不安【ふあん】になります。",
+    "meaning": "I feel anxious when I dream about losing my teeth."
+  },
+  {
+    "sentence": "歯の噛み合わせの悪さが顎関節症の原因になることがあります。",
+    "sentence_furigana": "歯【は】の噛【か】み合【あ】わせの悪【わる】さが顎関節症【がくかんせつしょう】の原因【げんいん】になることがあります。",
+    "meaning": "A bad bite can sometimes cause temporomandibular joint disorder."
+  },
+  {
+    "sentence": "歯の健康は、全身の健康にもつながっています。",
+    "sentence_furigana": "歯【は】の健康【けんこう】は、全身【ぜんしん】の健康【けんこう】にもつながっています。",
+    "meaning": "Dental health is also linked to overall health."
+  },
+  {
+    "sentence": "歯がしみるのを防ぐには、知覚過敏用の歯磨き粉が良い。",
+    "sentence_furigana": "歯【は】がしみるのを防【ふせ】ぐには、知覚過敏用【ちかくかびんよう】の歯磨【はみが】き粉【こ】が良い【よい】。",
+    "meaning": "Toothpaste for sensitive teeth is good for preventing tooth sensitivity."
+  }
+]

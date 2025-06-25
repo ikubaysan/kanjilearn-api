@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "彼はシャツを丁寧に濯いだ。",
+    "sentence_furigana": "彼【かれ】はシャツを丁寧【ていねい】に濯【すす】いだ。",
+    "meaning": "He carefully rinsed the shirt."
+  },
+  {
+    "sentence": "洗濯機が衣類を濯いでいる。",
+    "sentence_furigana": "洗濯機【せんたくき】が衣類【いるい】を濯【すす】いでいる。",
+    "meaning": "The washing machine is rinsing the clothes."
+  },
+  {
+    "sentence": "川の水で野菜を濯ぐ。",
+    "sentence_furigana": "川【かわ】の水【みず】で野菜【やさい】を濯【すす】ぐ。",
+    "meaning": "Rinse the vegetables with river water."
+  },
+  {
+    "sentence": "石鹸を濯ぎ落とす。",
+    "sentence_furigana": "石鹸【せっけん】を濯【すす】ぎ落【お】とす。",
+    "meaning": "Rinse off the soap."
+  },
+  {
+    "sentence": "顔を濯ぐために水を汲んだ。",
+    "sentence_furigana": "顔【かお】を濯【すす】ぐために水【みず】を汲【く】んだ。",
+    "meaning": "I drew water to rinse my face."
+  },
+  {
+    "sentence": "洗濯の最後に濯ぎの工程がある。",
+    "sentence_furigana": "洗濯【せんたく】の最後【さいご】に濯【すす】ぎの工程【こうてい】がある。",
+    "meaning": "There is a rinsing process at the end of laundry."
+  },
+  {
+    "sentence": "お皿を綺麗に濯ぎましょう。",
+    "sentence_furigana": "お皿【さら】を綺麗【きれい】に濯【すす】ぎましょう。",
+    "meaning": "Let's rinse the plates clean."
+  },
+  {
+    "sentence": "彼女は花に水を濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は花【はな】に水【みず】を濯【そそ】いだ。",
+    "meaning": "She poured water on the flowers."
+  },
+  {
+    "sentence": "雨が地面を濯ぐように降っている。",
+    "sentence_furigana": "雨【あめ】が地面【じめん】を濯【すす】ぐように降【ふ】っている。",
+    "meaning": "The rain is pouring down as if to wash the ground."
+  },
+  {
+    "sentence": "子供が手を濯いでいる。",
+    "sentence_furigana": "子供【こども】が手【て】を濯【すす】いでいる。",
+    "meaning": "The child is rinsing their hands."
+  },
+  {
+    "sentence": "彼は洗濯物を丁寧に濯いだ。",
+    "sentence_furigana": "彼【かれ】は洗濯物【せんたくぶつ】を丁寧【ていねい】に濯【すす】いだ。",
+    "meaning": "He rinsed the laundry carefully."
+  },
+  {
+    "sentence": "汚れを濯ぎ落とす。",
+    "sentence_furigana": "汚【よご】れを濯【すす】ぎ落【お】とす。",
+    "meaning": "Rinse off the dirt."
+  },
+  {
+    "sentence": "洗濯機の最後の濯ぎが終わった。",
+    "sentence_furigana": "洗濯機【せんたくき】の最後【さいご】の濯【すす】ぎが終わ【お】わった。",
+    "meaning": "The washing machine's final rinse is finished."
+  },
+  {
+    "sentence": "この生地は何度も濯ぐ必要がある。",
+    "sentence_furigana": "この生地【きじ】は何度【なんど】も濯【すす】ぐ必要【ひつよう】がある。",
+    "meaning": "This fabric needs to be rinsed many times."
+  },
+  {
+    "sentence": "彼は足を濯ぐために海に入った。",
+    "sentence_furigana": "彼【かれ】は足【あし】を濯【すす】ぐために海【うみ】に入【はい】った。",
+    "meaning": "He went into the sea to rinse his feet."
+  },
+  {
+    "sentence": "新しい服を最初の洗濯で濯ぐ。",
+    "sentence_furigana": "新【あたら】しい服【ふく】を最初【さいしょ】の洗濯【せんたく】で濯【すす】ぐ。",
+    "meaning": "Rinse the new clothes in the first wash."
+  },
+  {
+    "sentence": "彼は喉を濯ぐために水を飲んだ。",
+    "sentence_furigana": "彼【かれ】は喉【のど】を濯【すす】ぐために水【みず】を飲【の】んだ。",
+    "meaning": "He drank water to rinse his throat."
+  },
+  {
+    "sentence": "洗濯物の柔軟剤の濯ぎ残しがないか確認する。",
+    "sentence_furigana": "洗濯物【せんたくぶつ】の柔軟剤【じゅうなんざい】の濯【すす】ぎ残【のこ】しがないか確認【かくにん】する。",
+    "meaning": "Check if there is any residual fabric softener left from rinsing the laundry."
+  },
+  {
+    "sentence": "この石鹸はよく濯げる。",
+    "sentence_furigana": "この石鹸【せっけん】はよく濯【すす】げる。",
+    "meaning": "This soap rinses well."
+  },
+  {
+    "sentence": "彼女は目にゴミが入ったので、水で濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は目【め】にゴミが入【はい】ったので、水【みず】で濯【すす】いだ。",
+    "meaning": "Her eyes got something in them, so she rinsed them with water."
+  },
+  {
+    "sentence": "洗濯機が濯ぎの動作を始めた。",
+    "sentence_furigana": "洗濯機【せんたくき】が濯【すす】ぎの動作【どうさ】を始【はじ】めた。",
+    "meaning": "The washing machine started its rinsing cycle."
+  },
+  {
+    "sentence": "農薬を洗い流すために野菜を濯ぐ。",
+    "sentence_furigana": "農薬【のうやく】を洗【あら】い流【なが】すために野菜【やさい】を濯【すす】ぐ。",
+    "meaning": "Rinse the vegetables to wash off pesticides."
+  },
+  {
+    "sentence": "彼は汗を濯ぐためにシャワーを浴びた。",
+    "sentence_furigana": "彼【かれ】は汗【あせ】を濯【すす】ぐためにシャワーを浴【あ】びた。",
+    "meaning": "He took a shower to rinse off the sweat."
+  },
+  {
+    "sentence": "洗濯が終わったら、全ての衣類を濯いでください。",
+    "sentence_furigana": "洗濯【せんたく】が終わ【お】わったら、全【すべて】の衣類【いるい】を濯【すす】いでください。",
+    "meaning": "After the wash is done, please rinse all the clothes."
+  },
+  {
+    "sentence": "彼女は髪を濯ぐのに苦労していた。",
+    "sentence_furigana": "彼女【かのじょ】は髪【かみ】を濯【すす】ぐのに苦労【くろう】していた。",
+    "meaning": "She was having trouble rinsing her hair."
+  },
+  {
+    "sentence": "この洗剤はすすぎが楽だ。",
+    "sentence_furigana": "この洗剤【せんざい】はすすぎが楽【らく】だ。",
+    "meaning": "This detergent is easy to rinse."
+  },
+  {
+    "sentence": "彼は口を濯ぐために水を一口飲んだ。",
+    "sentence_furigana": "彼【かれ】は口【くち】を濯【すす】ぐために水【みず】を一口【ひとくち】飲【の】んだ。",
+    "meaning": "He took a sip of water to rinse his mouth."
+  },
+  {
+    "sentence": "濯ぎ洗いを繰り返す。",
+    "sentence_furigana": "濯【すす】ぎ洗【あら】いを繰【く】り返【かえ】す。",
+    "meaning": "Repeat the rinsing wash."
+  },
+  {
+    "sentence": "洗濯機は自動で濯ぎ運転をする。",
+    "sentence_furigana": "洗濯機【せんたくき】は自動【じどう】で濯【すす】ぎ運転【うんてん】をする。",
+    "meaning": "The washing machine automatically performs the rinsing operation."
+  },
+  {
+    "sentence": "彼女は丁寧に服を濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に服【ふく】を濯【すす】いだ。",
+    "meaning": "She rinsed her clothes carefully."
+  },
+  {
+    "sentence": "顔を濯ぐための水を一杯用意した。",
+    "sentence_furigana": "顔【かお】を濯【すす】ぐための水【みず】を一杯【いっぱい】用意【ようい】した。",
+    "meaning": "I prepared a cup of water to rinse my face."
+  },
+  {
+    "sentence": "洗濯物の濯ぎが不十分だったようだ。",
+    "sentence_furigana": "洗濯物【せんたくぶつ】の濯【すす】ぎが不十分【ふじゅうぶん】だったようだ。",
+    "meaning": "It seems the rinsing of the laundry was insufficient."
+  },
+  {
+    "sentence": "彼は傷口を清潔な水で濯いだ。",
+    "sentence_furigana": "彼【かれ】は傷口【きずぐち】を清潔【せいけつ】な水【みず】で濯【すす】いだ。",
+    "meaning": "He rinsed the wound with clean water."
+  },
+  {
+    "sentence": "洗濯機は脱水の前にもう一度濯ぐ。",
+    "sentence_furigana": "洗濯機【せんたくき】は脱水【だっすい】の前【まえ】にもう一度【いちど】濯【すす】ぐ。",
+    "meaning": "The washing machine rinses one more time before spinning."
+  },
+  {
+    "sentence": "彼女は洗濯物を干す前にしっかり濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は洗濯物【せんたくぶつ】を干【ほ】す前【まえ】にしっかり濯【すす】いだ。",
+    "meaning": "She rinsed the laundry thoroughly before hanging it out to dry."
+  },
+  {
+    "sentence": "この地域は豊かな水源に恵まれている。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな水源【すいげん】に恵【めぐ】まれている。",
+    "meaning": "This region is blessed with abundant water sources."
+  },
+  {
+    "sentence": "彼は喉の渇きを癒すために川の水を濯いだ。",
+    "sentence_furigana": "彼【かれ】は喉【のど】の渇【かわ】きを癒【いや】すために川【かわ】の水【みず】を濯【すす】いだ。",
+    "meaning": "He rinsed his mouth with river water to quench his thirst."
+  },
+  {
+    "sentence": "洗濯のすすぎ時間を長くする。",
+    "sentence_furigana": "洗濯【せんたく】のすすぎ時間【じかん】を長【なが】くする。",
+    "meaning": "Increase the rinsing time for laundry."
+  },
+  {
+    "sentence": "彼女は手を洗った後、丁寧に濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は手【て】を洗【あら】った後【あと】、丁寧【ていねい】に濯【すす】いだ。",
+    "meaning": "She washed her hands and then rinsed them carefully."
+  },
+  {
+    "sentence": "この洗濯機はすすぎが早い。",
+    "sentence_furigana": "この洗濯機【せんたくき】はすすぎが早【はや】い。",
+    "meaning": "This washing machine rinses quickly."
+  },
+  {
+    "sentence": "彼は運動後、汗を濯ぐために水浴びをした。",
+    "sentence_furigana": "彼【かれ】は運動後【うんどうご】、汗【あせ】を濯【すす】ぐために水浴【みずあ】びをした。",
+    "meaning": "He took a dip in the water to rinse off sweat after exercising."
+  },
+  {
+    "sentence": "洗濯物を濯ぐ際に、柔軟剤を適量加える。",
+    "sentence_furigana": "洗濯物【せんたくぶつ】を濯【すす】ぐ際【さい】に、柔軟剤【じゅうなんざい】を適量【てきりょう】加【くわ】える。",
+    "meaning": "Add the appropriate amount of fabric softener when rinsing laundry."
+  },
+  {
+    "sentence": "彼女は顔の泥を綺麗に濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は顔【かお】の泥【どろ】を綺麗【きれい】に濯【すす】いだ。",
+    "meaning": "She thoroughly rinsed the mud from her face."
+  },
+  {
+    "sentence": "洗濯機はすすぎの水を排水した。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎの水【みず】を排水【はいすい】した。",
+    "meaning": "The washing machine drained the rinse water."
+  },
+  {
+    "sentence": "彼は足を洗い、その後井戸水で濯いだ。",
+    "sentence_furigana": "彼【かれ】は足【あし】を洗【あら】い、その後【そのご】井戸水【いどみず】で濯【すす】いだ。",
+    "meaning": "He washed his feet and then rinsed them with well water."
+  },
+  {
+    "sentence": "この服は手洗いで丁寧に濯ぐ必要があります。",
+    "sentence_furigana": "この服【ふく】は手洗【てあら】いで丁寧【ていねい】に濯【すす】ぐ必要【ひつよう】があります。",
+    "meaning": "This garment needs to be carefully hand-rinsed."
+  },
+  {
+    "sentence": "彼女は洗濯槽の洗剤を綺麗に濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は洗濯槽【せんたくそう】の洗剤【せんざい】を綺麗【きれい】に濯【すす】いだ。",
+    "meaning": "She rinsed the detergent from the washing tub cleanly."
+  },
+  {
+    "sentence": "洗濯機のすすぎ運転が終了した。",
+    "sentence_furigana": "洗濯機【せんたくき】のすすぎ運転【うんてん】が終了【しゅうりょう】した。",
+    "meaning": "The washing machine's rinse cycle has ended."
+  },
+  {
+    "sentence": "彼は喉を潤すために、わずかに水を濯いだ。",
+    "sentence_furigana": "彼【かれ】は喉【のど】を潤【うるお】すために、わずかに水【みず】を濯【すす】いだ。",
+    "meaning": "He lightly rinsed his mouth with water to moisten his throat."
+  },
+  {
+    "sentence": "この石鹸は泡切れが良く、すぐに濯げる。",
+    "sentence_furigana": "この石鹸【せっけん】は泡切【あわぎ】れが良【よ】く、すぐに濯【すす】げる。",
+    "meaning": "This soap lathers well and rinses off easily."
+  },
+  {
+    "sentence": "彼女は洗濯物を干す前に、最後の濯ぎを行った。",
+    "sentence_furigana": "彼女【かのじょ】は洗濯物【せんたくぶつ】を干【ほ】す前【まえ】に、最後【さいご】の濯【すす】ぎを行【おこな】った。",
+    "meaning": "She performed the final rinse before hanging out the laundry."
+  },
+  {
+    "sentence": "彼は目に埃が入ったので、冷たい水で濯いだ。",
+    "sentence_furigana": "彼【かれ】は目【め】に埃【ほこり】が入【はい】ったので、冷【つめ】たい水【みず】で濯【すす】いだ。",
+    "meaning": "He got dust in his eyes, so he rinsed them with cold water."
+  },
+  {
+    "sentence": "洗濯機はすすぎのために水を溜めている。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎのために水【みず】を溜【た】めている。",
+    "meaning": "The washing machine is filling with water for rinsing."
+  },
+  {
+    "sentence": "彼女は髪についたシャンプーを丁寧に濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は髪【かみ】についたシャンプーを丁寧【ていねい】に濯【すす】いだ。",
+    "meaning": "She carefully rinsed the shampoo from her hair."
+  },
+  {
+    "sentence": "濯ぎ残しのないように、洗濯物は二度濯ぐのが良い。",
+    "sentence_furigana": "濯【すす】ぎ残【のこ】しのないように、洗濯物【せんたくぶつ】は二度【にど】濯【すす】ぐのが良【よ】い。",
+    "meaning": "To avoid residue, it's good to rinse laundry twice."
+  },
+  {
+    "sentence": "彼は喉の不快感を洗い流すために、うがいをした。",
+    "sentence_furigana": "彼【かれ】は喉【のど】の不快感【ふかいかん】を洗【あら】い流【なが】すために、うがいをした。",
+    "meaning": "He gargled to rinse away throat discomfort."
+  },
+  {
+    "sentence": "洗濯機はすすぎ水で洗濯槽を綺麗にする。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ水【みず】で洗濯槽【せんたくそう】を綺麗【きれい】にする。",
+    "meaning": "The washing machine cleans the tub with rinse water."
+  },
+  {
+    "sentence": "彼女は畑から取ってきたばかりの野菜を綺麗に濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は畑【はたけ】から取【と】ってきたばかりの野菜【やさい】を綺麗【きれい】に濯【すす】いだ。",
+    "meaning": "She thoroughly rinsed the vegetables she had just picked from the field."
+  },
+  {
+    "sentence": "濯ぎ足りないと、洗剤が残ってしまう。",
+    "sentence_furigana": "濯【すす】ぎ足【た】りないと、洗剤【せんざい】が残【のこ】ってしまう。",
+    "meaning": "If you don't rinse enough, detergent will remain."
+  },
+  {
+    "sentence": "彼は顔を洗い、その後井戸水で濯いだ。",
+    "sentence_furigana": "彼【かれ】は顔【かお】を洗【あら】い、その後【その後】井戸水【いどみず】で濯【すす】いだ。",
+    "meaning": "He washed his face and then rinsed it with well water."
+  },
+  {
+    "sentence": "洗濯機はすすぎ運転を開始した。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ運転【うんてん】を開始【かいし】した。",
+    "meaning": "The washing machine started the rinsing operation."
+  },
+  {
+    "sentence": "彼女は食器についた食べかすを綺麗に濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は食器【しょっき】についた食【た】べかすを綺麗【きれい】に濯【すす】いだ。",
+    "meaning": "She thoroughly rinsed the food scraps from the dishes."
+  },
+  {
+    "sentence": "このタオルは何度濯いでも色が落ちない。",
+    "sentence_furigana": "このタオルは何度【なんど】濯【すす】いでも色【いろ】が落【お】ちない。",
+    "meaning": "This towel's color does not fade no matter how many times it is rinsed."
+  },
+  {
+    "sentence": "彼は喉の渇きを覚えたので、川の水を一杯口に含んだ。",
+    "sentence_furigana": "彼【かれ】は喉【のど】の渇【かわ】きを覚【おぼ】えたので、川【かわ】の水【みず】を一杯【いっぱい】口【くち】に含【ふく】んだ。",
+    "meaning": "He felt thirsty, so he took a mouthful of river water."
+  },
+  {
+    "sentence": "洗濯機はすすぎの水を注水している。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎの水【みず】を注水【ちゅうすい】している。",
+    "meaning": "The washing machine is filling with rinse water."
+  },
+  {
+    "sentence": "彼女は丁寧に衣服の汚れを濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に衣服【いふく】の汚【よご】れを濯【すす】いだ。",
+    "meaning": "She carefully rinsed the dirt from the clothes."
+  },
+  {
+    "sentence": "濯ぎの際の水の量を調整する。",
+    "sentence_furigana": "濯【すす】ぎの際【さい】の水の量【みずのりょう】を調整【ちょうせい】する。",
+    "meaning": "Adjust the amount of water during rinsing."
+  },
+  {
+    "sentence": "彼は顔を洗った後、冷たい水でさっぱりと濯いだ。",
+    "sentence_furigana": "彼【かれ】は顔【かお】を洗【あら】った後【あと】、冷【つめ】たい水【みず】でさっぱりと濯【すす】いだ。",
+    "meaning": "He washed his face and then rinsed it refreshingly with cold water."
+  },
+  {
+    "sentence": "洗濯機はすすぎ工程を終えた。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ工程【こうてい】を終【お】えた。",
+    "meaning": "The washing machine has finished the rinsing process."
+  },
+  {
+    "sentence": "彼女は喉が渇いていたので、川の水を一口飲んだ。",
+    "sentence_furigana": "彼女【かのじょ】は喉【のど】が渇【かわ】いていたので、川【かわ】の水【みず】を一口【ひとくち】飲【の】んだ。",
+    "meaning": "She was thirsty, so she took a sip of river water."
+  },
+  {
+    "sentence": "彼は手を石鹸で洗い、その後丁寧に濯いだ。",
+    "sentence_furigana": "彼【かれ】は手【て】を石鹸【せっけん】で洗【あら】い、その後【その後】丁寧【ていねい】に濯【すす】いだ。",
+    "meaning": "He washed his hands with soap and then rinsed them carefully."
+  },
+  {
+    "sentence": "洗濯機はすすぎ水で洗い終わった衣類をすすぐ。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ水【みず】で洗【あら】い終【お】わった衣類【いるい】をすすぐ。",
+    "meaning": "The washing machine rinses the washed clothes with rinse water."
+  },
+  {
+    "sentence": "彼女は顔の火照りを取るために、冷たい水で濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は顔【かお】の火照【ほて】りを取【と】るために、冷【つめ】たい水【みず】で濯【すす】いだ。",
+    "meaning": "She rinsed her face with cold water to relieve the heat."
+  },
+  {
+    "sentence": "濯ぎの回数を増やすと、生地が傷むことがある。",
+    "sentence_furigana": "濯【すす】ぎの回数【かいすう】を増【ふ】やすと、生地【きじ】が傷【いた】むことがある。",
+    "meaning": "Increasing the number of rinses can sometimes damage the fabric."
+  },
+  {
+    "sentence": "彼は口の中の不快な味を洗い流すために、水でうがいをした。",
+    "sentence_furigana": "彼【かれ】は口【くち】の中【なか】の不快【ふかい】な味【あじ】を洗【あら】い流【なが】すために、水【みず】でうがいをした。",
+    "meaning": "He gargled with water to wash away the unpleasant taste in his mouth."
+  },
+  {
+    "sentence": "洗濯機はすすぎが終わると、自動で脱水を始める。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎが終わ【お】わると、自動【じどう】で脱水【だっすい】を始【はじ】める。",
+    "meaning": "When the rinsing is finished, the washing machine automatically starts spinning."
+  },
+  {
+    "sentence": "彼女は丁寧に指の間を濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に指【ゆび】の間【あいだ】を濯【すす】いだ。",
+    "meaning": "She carefully rinsed between her fingers."
+  },
+  {
+    "sentence": "この洗剤はすすぎ残しが心配だ。",
+    "sentence_furigana": "この洗剤【せんざい】はすすぎ残【のこ】しが心配【しんぱい】だ。",
+    "meaning": "I'm worried about detergent residue with this detergent."
+  },
+  {
+    "sentence": "彼は熱いお湯で手を洗った後、冷たい水で濯いだ。",
+    "sentence_furigana": "彼【かれ】は熱【あつ】いお湯【ゆ】で手【て】を洗【あら】った後【あと】、冷【つめ】たい水【みず】で濯【すす】いだ。",
+    "meaning": "He washed his hands with hot water and then rinsed them with cold water."
+  },
+  {
+    "sentence": "洗濯機はすすぎの水を再利用することがある。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎの水【みず】を再利用【さいりよう】することがある。",
+    "meaning": "Washing machines may reuse rinse water."
+  },
+  {
+    "sentence": "彼女は口の中をさっぱりさせるために、水で濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は口【くち】の中【なか】をさっぱりさせるために、水【みず】で濯【すす】いだ。",
+    "meaning": "She rinsed her mouth with water to freshen it up."
+  },
+  {
+    "sentence": "濯ぎが不十分な場合は、もう一度濯ぐことを推奨します。",
+    "sentence_furigana": "濯【すす】ぎが不十分【ふじゅうぶん】な場合【ばあい】は、もう一度【いちど】濯【すす】ぐことを推奨【すいしょう】します。",
+    "meaning": "If rinsing is insufficient, we recommend rinsing again."
+  },
+  {
+    "sentence": "彼は喉の渇きを癒すために、川の水を口に含んだ。",
+    "sentence_furigana": "彼【かれ】は喉【のど】の渇【かわ】きを癒【いや】すために、川【かわ】の水【みず】を口【くち】に含【ふく】んだ。",
+    "meaning": "He took river water into his mouth to quench his thirst."
+  },
+  {
+    "sentence": "洗濯機はすすぎの泡を洗い流している。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎの泡【あわ】を洗【あら】い流【なが】している。",
+    "meaning": "The washing machine is washing away the rinse foam."
+  },
+  {
+    "sentence": "彼女は丁寧に顔を洗い、冷たい水で濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に顔【かお】を洗【あら】い、冷【つめ】たい水【みず】で濯【すす】いだ。",
+    "meaning": "She washed her face carefully and rinsed it with cold water."
+  },
+  {
+    "sentence": "濯ぎの水が綺麗になるまで繰り返す。",
+    "sentence_furigana": "濯【すす】ぎの水【みず】が綺麗【きれい】になるまで繰【く】り返【かえ】す。",
+    "meaning": "Repeat until the rinse water becomes clear."
+  },
+  {
+    "sentence": "彼は口の中の食べかすを洗い流すために、水でうがいをした。",
+    "sentence_furigana": "彼【かれ】は口【くち】の中【なか】の食【た】べかすを洗【あら】い流【なが】すために、水【みず】でうがいをした。",
+    "meaning": "He gargled with water to wash away food particles from his mouth."
+  },
+  {
+    "sentence": "洗濯機はすすぎ運転中に水を循環させる。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ運転【うんてん】中【ちゅう】に水【みず】を循環【じゅんかん】させる。",
+    "meaning": "The washing machine circulates water during the rinsing cycle."
+  },
+  {
+    "sentence": "彼女は丁寧に髪を洗い、何度も濯いだ。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に髪【かみ】を洗【あら】い、何度【なんど】も濯【すす】いだ。",
+    "meaning": "She washed her hair carefully and rinsed it many times."
+  },
+  {
+    "sentence": "濯ぎには綺麗な水を使うことが推奨される。",
+    "sentence_furigana": "濯【すす】ぎには綺麗【きれい】な水【みず】を使【つか】うことが推奨【すいしょう】される。",
+    "meaning": "It is recommended to use clean water for rinsing."
+  },
+  {
+    "sentence": "彼は手に付いたペンキを洗い流すために、溶剤を使った。",
+    "sentence_furigana": "彼【かれ】は手【て】についたペンキを洗【あら】い流【なが】すために、溶剤【ようざい】を使【つか】った。",
+    "meaning": "He used a solvent to wash off the paint on his hands."
+  },
+  {
+    "sentence": "洗濯機はすすぎ工程で洗剤を洗い落とす。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ工程【こうてい】で洗剤【せんざい】を洗【あら】い落【お】とす。",
+    "meaning": "The washing machine washes off detergent during the rinsing process."
+  },
+  {
+    "sentence": "彼女は丁寧に口を濯ぎ、さっぱりした。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に口【くち】を濯【すす】ぎ、さっぱりした。",
+    "meaning": "She rinsed her mouth carefully and felt refreshed."
+  },
+  {
+    "sentence": "濯ぎ終わったら、洗濯物をすぐに干してください。",
+    "sentence_furigana": "濯【すす】ぎ終【お】わったら、洗濯物【せんたくぶつ】をすぐに干【ほ】してください。",
+    "meaning": "Please hang the laundry to dry immediately after rinsing is complete."
+  },
+  {
+    "sentence": "彼は喉の渇きを覚えたので、川の水を口に含んでみた。",
+    "sentence_furigana": "彼【かれ】は喉【のど】の渇【かわ】きを覚【おぼ】えたので、川【かわ】の水【みず】を口【くち】に含【ふく】んでみた。",
+    "meaning": "He felt thirsty, so he tried taking river water into his mouth."
+  },
+  {
+    "sentence": "洗濯機はすすぎ水で衣類の汚れを落とす。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ水【みず】で衣類【いるい】の汚【よご】れを落【お】とす。",
+    "meaning": "The washing machine removes dirt from clothes with rinse water."
+  },
+  {
+    "sentence": "彼女は丁寧に野菜の泥を洗い流した。",
+    "sentence_furigana": "彼女【かのじょ】は丁寧【ていねい】に野菜【やさい】の泥【どろ】を洗【あら】い流【なが】した。",
+    "meaning": "She carefully washed away the dirt from the vegetables."
+  },
+  {
+    "sentence": "濯ぎの時間を短縮すると、節水になる。",
+    "sentence_furigana": "濯【すす】ぎの時間【じかん】を短縮【たんしゅく】すると、節水【せっすい】になる。",
+    "meaning": "Reducing rinsing time leads to water conservation."
+  },
+  {
+    "sentence": "彼は手を洗った後、綺麗に濯ぐことを心がけた。",
+    "sentence_furigana": "彼【かれ】は手【て】を洗【あら】った後【あと】、綺麗【きれい】に濯【すす】ぐことを心【こころ】がけた。",
+    "meaning": "He made sure to rinse his hands thoroughly after washing them."
+  },
+  {
+    "sentence": "洗濯機はすすぎ水で洗剤の泡を洗い流す。",
+    "sentence_furigana": "洗濯機【せんたくき】はすすぎ水【みず】で洗剤【せんざい】の泡【あわ】を洗【あら】い流【なが】す。",
+    "meaning": "The washing machine washes off detergent foam with rinse water."
+  }
+]

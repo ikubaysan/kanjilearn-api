@@ -1,0 +1,497 @@
+[
+  {
+    "sentence": "私の妻は料理が上手です。",
+    "sentence_furigana": "私【わたし】の妻【つま】は料理【りょうり】が上手【じょうず】です。",
+    "meaning": "My wife is good at cooking."
+  },
+  {
+    "sentence": "妻が病気になったので、看病しました。",
+    "sentence_furigana": "妻【つま】が病気【びょうき】になったので、看病【かんびょう】しました。",
+    "meaning": "My wife got sick, so I took care of her."
+  },
+  {
+    "sentence": "妻へのプレゼントを探しています。",
+    "sentence_furigana": "妻【つま】へのプレゼントを探【さが】しています。",
+    "meaning": "I am looking for a present for my wife."
+  },
+  {
+    "sentence": "妻と子供たちは田舎に住んでいます。",
+    "sentence_furigana": "妻【つま】と子供【こども】たちはず田舎【いなか】に住【す】んでいます。",
+    "meaning": "My wife and children live in the countryside."
+  },
+  {
+    "sentence": "彼は妻に先立たれた。",
+    "sentence_furigana": "彼【かれ】は妻【つま】に先立【さきだ】たれた。",
+    "meaning": "He was predeceased by his wife."
+  },
+  {
+    "sentence": "このアクセサリーは妻のために買いました。",
+    "sentence_furigana": "このアクセサリーは妻【つま】のために買【か】いました。",
+    "meaning": "I bought this accessory for my wife."
+  },
+  {
+    "sentence": "妻の誕生日にはケーキを作ります。",
+    "sentence_furigana": "妻【つま】の誕生日【たんじょうび】にはケーキを作【つく】ります。",
+    "meaning": "I will make a cake for my wife's birthday."
+  },
+  {
+    "sentence": "妻は穏やかな性格です。",
+    "sentence_furigana": "妻【つま】は穏【おだ】やかな性格【せいかく】です。",
+    "meaning": "My wife has a calm personality."
+  },
+  {
+    "sentence": "妻に相談してから決めます。",
+    "sentence_furigana": "妻【つま】に相談【そうだん】してから決【き】めます。",
+    "meaning": "I will decide after consulting with my wife."
+  },
+  {
+    "sentence": "妻は旅行が大好きです。",
+    "sentence_furigana": "妻【つま】は旅行【りょこう】が大好きです。",
+    "meaning": "My wife loves to travel."
+  },
+  {
+    "sentence": "妻と映画を見に行きました。",
+    "sentence_furigana": "妻【つま】と映画【えいが】を見【み】に行【い】きました。",
+    "meaning": "I went to see a movie with my wife."
+  },
+  {
+    "sentence": "このことは妻にも内緒です。",
+    "sentence_furigana": "このことは妻【つま】にも内緒【ないしょ】です。",
+    "meaning": "This is a secret even from my wife."
+  },
+  {
+    "sentence": "妻は新しい洋服を買いました。",
+    "sentence_furigana": "妻【つま】は新【あたら】しい洋服【ようふく】を買【か】いました。",
+    "meaning": "My wife bought new clothes."
+  },
+  {
+    "sentence": "妻の仕事を手伝っています。",
+    "sentence_furigana": "妻【つま】の仕事【しごと】を手伝【てつだ】っています。",
+    "meaning": "I am helping my wife with her work."
+  },
+  {
+    "sentence": "妻は読書が好きです。",
+    "sentence_furigana": "妻【つま】は読書【どくしょ】が好きです。",
+    "meaning": "My wife likes reading."
+  },
+  {
+    "sentence": "妻と初めて出会ったのは大学時代です。",
+    "sentence_furigana": "妻【つま】と初【はじ】めて出会【であ】ったのは大学【だいがく】時代【じだい】です。",
+    "meaning": "I first met my wife in college."
+  },
+  {
+    "sentence": "妻は家事を全てこなします。",
+    "sentence_furigana": "妻【つま】は家事【かじ】を全【すべ】てこなします。",
+    "meaning": "My wife does all the housework."
+  },
+  {
+    "sentence": "妻に似ていると言われます。",
+    "sentence_furigana": "妻【つま】に似【に】ていると言【い】われます。",
+    "meaning": "People say I resemble my wife."
+  },
+  {
+    "sentence": "妻は音楽が好きで、よくピアノを弾きます。",
+    "sentence_furigana": "妻【つま】は音楽【おんがく】が好きで、よくピアノを弾【ひ】きます。",
+    "meaning": "My wife likes music and often plays the piano."
+  },
+  {
+    "sentence": "妻の健康を気遣っています。",
+    "sentence_furigana": "妻【つま】の健康【けんこう】を気遣【きづか】っています。",
+    "meaning": "I am concerned about my wife's health."
+  },
+  {
+    "sentence": "妻は私の大切なパートナーです。",
+    "sentence_furigana": "妻【つま】は私【わたし】の大切【たいせつ】なパートナーです。",
+    "meaning": "My wife is my important partner."
+  },
+  {
+    "sentence": "妻に感謝の気持ちを伝えたいです。",
+    "sentence_furigana": "妻【つま】に感謝【かんしゃ】の気持【きも】ちを伝【つた】えたいです。",
+    "meaning": "I want to express my gratitude to my wife."
+  },
+  {
+    "sentence": "妻は都会よりも田舎暮らしを好みます。",
+    "sentence_furigana": "妻【つま】は都会【とかい】よりも田舎暮【いなかぐ】らしを好【この】みます。",
+    "meaning": "My wife prefers country living over city life."
+  },
+  {
+    "sentence": "妻は料理教室に通っています。",
+    "sentence_furigana": "妻【つま】は料理教室【りょうりきょうしつ】に通【かよ】っています。",
+    "meaning": "My wife attends cooking classes."
+  },
+  {
+    "sentence": "妻は私の話をいつも熱心に聞いてくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】の話【はな】しをいつも熱心【ねっしん】に聞【き】いてくれます。",
+    "meaning": "My wife always listens to me enthusiastically."
+  },
+  {
+    "sentence": "妻が作ってくれた料理は絶品でした。",
+    "sentence_furigana": "妻【つま】が作【つく】ってくれた料理【りょうり】は絶品【ぜっぴん】でした。",
+    "meaning": "The meal my wife made was exquisite."
+  },
+  {
+    "sentence": "妻の笑顔が私の一番の癒しです。",
+    "sentence_furigana": "妻【つま】の笑顔【えがお】が私【わたし】の一番【いちばん】の癒【いや】しです。",
+    "meaning": "My wife's smile is my greatest comfort."
+  },
+  {
+    "sentence": "妻と相談して、新しい車を買うことにしました。",
+    "sentence_furigana": "妻【つま】と相談【そうだん】して、新【あたら】しい車【くるま】を買【か】うことにしました。",
+    "meaning": "After consulting with my wife, we decided to buy a new car."
+  },
+  {
+    "sentence": "妻は私の趣味に理解を示してくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】の趣味【しゅみ】に理解【りかい】を示【しめ】してくれます。",
+    "meaning": "My wife shows understanding towards my hobbies."
+  },
+  {
+    "sentence": "妻と過ごす時間は宝物です。",
+    "sentence_furigana": "妻【つま】と過【す】ごす時間【じかん】は宝物【たからもの】です。",
+    "meaning": "The time I spend with my wife is precious."
+  },
+  {
+    "sentence": "妻は健康的な食生活を心がけています。",
+    "sentence_furigana": "妻【つま】は健康的【けんこうてき】な食生活【しょくせいかつ】を心【こころ】がけています。",
+    "meaning": "My wife strives for a healthy diet."
+  },
+  {
+    "sentence": "妻の友人たちも皆親切でした。",
+    "sentence_furigana": "妻【つま】の友人【ゆうじん】たちも皆【みな】親切【しんせつ】でした。",
+    "meaning": "My wife's friends were all kind too."
+  },
+  {
+    "sentence": "妻の母はとても元気なおばあさんです。",
+    "sentence_furigana": "妻【つま】の母【はは】はとても元気【げんき】なおばあさんです。",
+    "meaning": "My wife's mother is a very energetic grandmother."
+  },
+  {
+    "sentence": "妻は私にとってかけがえのない存在です。",
+    "sentence_furigana": "妻【つま】は私【わたし】にとってかけがえのない存在【そんざい】です。",
+    "meaning": "My wife is an irreplaceable presence in my life."
+  },
+  {
+    "sentence": "妻と一緒にお洒落なカフェに行きました。",
+    "sentence_furigana": "妻【つま】と一緒【いっしょ】にお洒落【しゃれ】なカフェに行【い】きました。",
+    "meaning": "I went to a stylish cafe with my wife."
+  },
+  {
+    "sentence": "妻はいつも私を応援してくれます。",
+    "sentence_furigana": "妻【つま】はいつも私【わたし】を応援【おうえん】してくれます。",
+    "meaning": "My wife always supports me."
+  },
+  {
+    "sentence": "妻の提案で、週末は近くの山へハイキングに行きました。",
+    "sentence_furigana": "妻【つま】の提案【ていあん】で、週末【しゅうまつ】は近【ちか】くの山【やま】へハイキングに行【い】きました。",
+    "meaning": "At my wife's suggestion, we went hiking in a nearby mountain on the weekend."
+  },
+  {
+    "sentence": "妻は芸術に造詣が深いです。",
+    "sentence_furigana": "妻【つま】は芸術【げいじゅつ】に造詣【ぞうけい】が深いです。",
+    "meaning": "My wife has a deep knowledge of art."
+  },
+  {
+    "sentence": "妻が淹れてくれたコーヒーは格別だ。",
+    "sentence_furigana": "妻【つま】が淹【い】れてくれたコーヒーは格別【かくべつ】だ。",
+    "meaning": "The coffee my wife made is exceptional."
+  },
+  {
+    "sentence": "妻のヘアスタイルが変わって、雰囲気が明るくなった。",
+    "sentence_furigana": "妻【つま】のヘアスタイルが変わって、雰囲気【ふんいき】が明【あか】るくなった。",
+    "meaning": "My wife's hairstyle changed, and her aura became brighter."
+  },
+  {
+    "sentence": "妻と子供たちの笑顔が私の原動力です。",
+    "sentence_furigana": "妻【つま】と子供【こども】たちの笑顔【えがお】が私【わたし】の原動力【げんどうりょく】です。",
+    "meaning": "My wife's and children's smiles are my driving force."
+  },
+  {
+    "sentence": "妻は新しい言語を学んでいます。",
+    "sentence_furigana": "妻【つま】は新【あたら】しい言語【げんご】を学【まな】んでいます。",
+    "meaning": "My wife is learning a new language."
+  },
+  {
+    "sentence": "妻の助言はいつも的確だ。",
+    "sentence_furigana": "妻【つま】の助言【じょげん】はいつも的確【てきかく】だ。",
+    "meaning": "My wife's advice is always accurate."
+  },
+  {
+    "sentence": "妻と一緒に家庭菜園を始めました。",
+    "sentence_furigana": "妻【つま】と一緒【いっしょ】に家庭菜園【かていさいえん】を始【はじ】めました。",
+    "meaning": "My wife and I started a home garden together."
+  },
+  {
+    "sentence": "妻は私に似ていると言われることがある。",
+    "sentence_furigana": "妻【つま】は私【わたし】に似【に】ていると言【い】われることがある。",
+    "meaning": "Sometimes people say I resemble my wife."
+  },
+  {
+    "sentence": "妻の書く手紙はいつも丁寧です。",
+    "sentence_furigana": "妻【つま】の書【か】く手紙【てがみ】はいつも丁寧【ていねい】です。",
+    "meaning": "My wife's letters are always polite."
+  },
+  {
+    "sentence": "妻は子供たちの教育に熱心です。",
+    "sentence_furigana": "妻【つま】は子供【こども】たちの教育【きょういく】に熱心【ねっしん】です。",
+    "meaning": "My wife is enthusiastic about her children's education."
+  },
+  {
+    "sentence": "妻は私のアドバイスを求めてきます。",
+    "sentence_furigana": "妻【つま】は私【わたし】のアドバイスを求【もと】めてきます。",
+    "meaning": "My wife seeks my advice."
+  },
+  {
+    "sentence": "妻と週末にアウトレットモールへ行きました。",
+    "sentence_furigana": "妻【つま】と週末【しゅうまつ】にアウトレットモールへ行【い】きました。",
+    "meaning": "I went to an outlet mall with my wife on the weekend."
+  },
+  {
+    "sentence": "妻の誕生日にサプライズパーティーを計画しました。",
+    "sentence_furigana": "妻【つま】の誕生日【たんじょうび】にサプライズパーティーを計画【けいかく】しました。",
+    "meaning": "I planned a surprise party for my wife's birthday."
+  },
+  {
+    "sentence": "妻は私にいつも励ましの言葉をくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】にいつも励【はげ】ましの言葉【ことば】をくれます。",
+    "meaning": "My wife always gives me words of encouragement."
+  },
+  {
+    "sentence": "妻はガーデニングが趣味です。",
+    "sentence_furigana": "妻【つま】はガーデニングが趣味【しゅみ】です。",
+    "meaning": "My wife's hobby is gardening."
+  },
+  {
+    "sentence": "妻と美術館巡りをしました。",
+    "sentence_furigana": "妻【つま】と美術館巡【びじゅつかんめぐ】りをしました。",
+    "meaning": "I toured art museums with my wife."
+  },
+  {
+    "sentence": "妻はクリエイティブな才能を持っています。",
+    "sentence_furigana": "妻【つま】はクリエイティブな才能【さいのう】を持っています。",
+    "meaning": "My wife has creative talent."
+  },
+  {
+    "sentence": "妻は私が落ち込んでいる時にそばにいてくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】が落【お】ち込んでいる時【とき】にそばにいてくれます。",
+    "meaning": "My wife stays by my side when I am feeling down."
+  },
+  {
+    "sentence": "妻の母校で講演会が行われた。",
+    "sentence_furigana": "妻【つま】の母校【ぼこう】で講演会【こうえんかい】が行【おこな】われた。",
+    "meaning": "A lecture was held at my wife's alma mater."
+  },
+  {
+    "sentence": "妻は新しいレシピを試すのが好きです。",
+    "sentence_furigana": "妻【つま】は新【あたら】しいレシピを試【ため】すのが好きです。",
+    "meaning": "My wife likes trying new recipes."
+  },
+  {
+    "sentence": "妻と協力して、家をきれいにしました。",
+    "sentence_furigana": "妻【つま】と協力【きょうりょく】して、家【いえ】をきれいにしました。",
+    "meaning": "My wife and I worked together to clean the house."
+  },
+  {
+    "sentence": "妻は社交的で、すぐに人と打ち解けます。",
+    "sentence_furigana": "妻【つま】は社交的【しゃこうてき】で、すぐに人【ひと】と打【う】ち解けます。",
+    "meaning": "My wife is sociable and gets along with people easily."
+  },
+  {
+    "sentence": "妻の運転技術は素晴らしい。",
+    "sentence_furigana": "妻【つま】の運転技術【うんてんぎじゅつ】は素晴【すば】らしい。",
+    "meaning": "My wife's driving skills are wonderful."
+  },
+  {
+    "sentence": "妻が選んでくれた服はとても似合っている。",
+    "sentence_furigana": "妻【つま】が選【えら】んでくれた服【ふく】はとても似合【にあ】っている。",
+    "meaning": "The clothes my wife chose for me suit me very well."
+  },
+  {
+    "sentence": "妻はキャリアウーマンです。",
+    "sentence_furigana": "妻【つま】はキャリアウーマンです。",
+    "meaning": "My wife is a career woman."
+  },
+  {
+    "sentence": "妻は子供の成長を温かく見守っています。",
+    "sentence_furigana": "妻【つま】は子供【こども】の成長【せいちょう】を温【あたた】かく見守【みまも】っています。",
+    "meaning": "My wife warmly watches over the children's growth."
+  },
+  {
+    "sentence": "妻の料理はいつも愛情がこもっている。",
+    "sentence_furigana": "妻【つま】の料理【りょうり】はいつも愛情【あいじょう】がこもっている。",
+    "meaning": "My wife's cooking always contains love."
+  },
+  {
+    "sentence": "妻と昔の話をして盛り上がった。",
+    "sentence_furigana": "妻【つま】と昔【むかし】の話【はな】しをして盛【も】り上【あ】がった。",
+    "meaning": "We talked about the old days and had a great time."
+  },
+  {
+    "sentence": "妻はとても聞き上手な人です。",
+    "sentence_furigana": "妻【つま】はとても聞【き】き上手【じょうず】な人です。",
+    "meaning": "My wife is a very good listener."
+  },
+  {
+    "sentence": "妻は私の夢を応援してくれている。",
+    "sentence_furigana": "妻【つま】は私【わたし】の夢【ゆめ】を応援【おうえん】してくれている。",
+    "meaning": "My wife supports my dreams."
+  },
+  {
+    "sentence": "妻と協力して家を建てる計画を立てています。",
+    "sentence_furigana": "妻【つま】と協力【きょうりょく】して家【いえ】を建【た】てる計画【けいかく】を立【た】てています。",
+    "meaning": "My wife and I are planning to build a house together."
+  },
+  {
+    "sentence": "妻は私にいつも優しく接してくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】にいつも優【やさ】しく接【せっ】してくれます。",
+    "meaning": "My wife always treats me kindly."
+  },
+  {
+    "sentence": "妻の母は私のことを息子のように可愛がってくれます。",
+    "sentence_furigana": "妻【つま】の母【はは】は私【わたし】のこと儿【むすこ】のように可愛【かわい】がってくれます。",
+    "meaning": "My wife's mother treats me like her own son."
+  },
+  {
+    "sentence": "妻はファッションセンスが良い。",
+    "sentence_furigana": "妻【つま】はファッションセンスが良い。",
+    "meaning": "My wife has a good sense of fashion."
+  },
+  {
+    "sentence": "妻と子供は私の人生のすべてです。",
+    "sentence_furigana": "妻【つま】と子供【こども】は私【わたし】の人生【じんせい】のすべてです。",
+    "meaning": "My wife and children are my everything."
+  },
+  {
+    "sentence": "妻は私の話を真剣に聞いてくれる。",
+    "sentence_furigana": "妻【つま】は私【わたし】の話【はな】しを真剣【しんけん】に聞【き】いてくれる。",
+    "meaning": "My wife listens to me seriously."
+  },
+  {
+    "sentence": "妻の笑顔を見ると元気になれる。",
+    "sentence_furigana": "妻【つま】の笑顔【えがお】を見【み】ると元気【げんき】になれる。",
+    "meaning": "Seeing my wife's smile cheers me up."
+  },
+  {
+    "sentence": "妻は私を理解してくれる唯一の人です。",
+    "sentence_furigana": "妻【つま】は私【わたし】を理解【りかい】してくれる唯一【ゆいいつ】の人です。",
+    "meaning": "My wife is the only one who understands me."
+  },
+  {
+    "sentence": "妻と初めて会った時、一目惚れしました。",
+    "sentence_furigana": "妻【つま】と初【はじ】めて会【あ】った時【とき】、一目惚【ひとめぼ】れしました。",
+    "meaning": "When I first met my wife, it was love at first sight."
+  },
+  {
+    "sentence": "妻は私の成功をいつも喜んでくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】の成功【せいこう】をいつも喜【よろこ】んでくれます。",
+    "meaning": "My wife always rejoices in my success."
+  },
+  {
+    "sentence": "妻は私に多くのことを教えてくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】に多【おお】くのことを教【おし】えてくれます。",
+    "meaning": "My wife teaches me many things."
+  },
+  {
+    "sentence": "妻と子供と一緒に新しい家に引っ越しました。",
+    "sentence_furigana": "妻【つま】と子供【こども】と一緒【いっしょ】に新【あたら】しい家【いえ】に引【ひ】っ越しました。",
+    "meaning": "I moved to a new house with my wife and children."
+  },
+  {
+    "sentence": "妻は私の人生のパートナーです。",
+    "sentence_furigana": "妻【つま】は私【わたし】の人生【じんせい】のパートナーです。",
+    "meaning": "My wife is my life partner."
+  },
+  {
+    "sentence": "妻と共有する時間は何よりも大切です。",
+    "sentence_furigana": "妻【つま】と共有【きょうゆう】する時間【じかん】は何【なに】よりも大切【たいせつ】です。",
+    "meaning": "The time I share with my wife is more important than anything."
+  },
+  {
+    "sentence": "妻は私の良き理解者です。",
+    "sentence_furigana": "妻【つま】は私【わたし】の良【よ】き理解者【りかいしゃ】です。",
+    "meaning": "My wife is a good supporter of mine."
+  },
+  {
+    "sentence": "妻が作ってくれた弁当はいつも美味しい。",
+    "sentence_furigana": "妻【つま】が作【つく】ってくれた弁当【べんとう】はいつも美味【おい】しい。",
+    "meaning": "The bento box my wife made is always delicious."
+  },
+  {
+    "sentence": "妻は私にとって特別な存在です。",
+    "sentence_furigana": "妻【つま】は私【わたし】にとって特別【とくべつ】な存在【そんざい】です。",
+    "meaning": "My wife is a special person to me."
+  },
+  {
+    "sentence": "妻と古いアルバムを見て思い出に浸っています。",
+    "sentence_furigana": "妻【つま】と古【ふる】いアルバムを見【み】て思【おも】い出【で】に浸【ひた】っています。",
+    "meaning": "My wife and I are looking at old albums and reminiscing."
+  },
+  {
+    "sentence": "妻は私の最大の応援者です。",
+    "sentence_furigana": "妻【つま】は私【わたし】の最大【さいだい】の応援者【おうえんしゃ】です。",
+    "meaning": "My wife is my biggest supporter."
+  },
+  {
+    "sentence": "妻は私にいつも元気を与えてくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】にいつも元気【げんき】を与【あた】えてくれます。",
+    "meaning": "My wife always gives me energy."
+  },
+  {
+    "sentence": "妻は私の人生をより豊かにしてくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】の人生【じんせい】をより豊【ゆた】かにしてくれます。",
+    "meaning": "My wife makes my life richer."
+  },
+  {
+    "sentence": "妻と初めてデートした場所を訪れました。",
+    "sentence_furigana": "妻【つま】と初【はじ】めてデートした場所【ばしょ】を訪【おとず】れました。",
+    "meaning": "We visited the place where my wife and I had our first date."
+  },
+  {
+    "sentence": "妻は私のことを深く理解してくれています。",
+    "sentence_furigana": "妻【つま】は私【わたし】のこと深【ふか】く理解【りかい】してくれています。",
+    "meaning": "My wife understands me deeply."
+  },
+  {
+    "sentence": "妻はいつも私の味方です。",
+    "sentence_furigana": "妻【つま】はいつも私【わたし】の味方【みかた】です。",
+    "meaning": "My wife is always on my side."
+  },
+  {
+    "sentence": "妻の存在は私にとって何よりの支えです。",
+    "sentence_furigana": "妻【つま】の存在【そんざい】は私【わたし】にとって何より【なにより】の支【ささ】えです。",
+    "meaning": "My wife's presence is my greatest support."
+  },
+  {
+    "sentence": "妻は私にいつも愛情をたくさんくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】にいつも愛情【あいじょう】をたくさんくれます。",
+    "meaning": "My wife always gives me a lot of love."
+  },
+  {
+    "sentence": "妻は私の人生の光です。",
+    "sentence_furigana": "妻【つま】は私【わたし】の人生【じんせい】の光【ひかり】です。",
+    "meaning": "My wife is the light of my life."
+  },
+  {
+    "sentence": "妻と初めて会った時のことを昨日のことのように思い出せます。",
+    "sentence_furigana": "妻【つま】と初【はじ】めて会【あ】った時【とき】のこと昨夜【きのう】のことのように思【おも】い出せます。",
+    "meaning": "I can recall meeting my wife for the first time as if it were yesterday."
+  },
+  {
+    "sentence": "妻は私にとってかけがえのない宝物です。",
+    "sentence_furigana": "妻【つま】は私【わたし】にとってかけがえのない宝物【たからもの】です。",
+    "meaning": "My wife is a treasure that cannot be replaced for me."
+  },
+  {
+    "sentence": "妻の優しさにいつも感謝しています。",
+    "sentence_furigana": "妻【つま】の優【やさ】しさにいつも感謝【かんしゃ】しています。",
+    "meaning": "I am always grateful for my wife's kindness."
+  },
+  {
+    "sentence": "妻は私の人生をより良いものにしてくれます。",
+    "sentence_furigana": "妻【つま】は私【わたし】の人生【じんせい】をより良【よ】いものにしてくれます。",
+    "meaning": "My wife makes my life better."
+  },
+  {
+    "sentence": "妻は私にとって最高のパートナーです。",
+    "sentence_furigana": "妻【つま】は私【わたし】にとって最高【さいこう】のパートナーです。",
+    "meaning": "My wife is the best partner for me."
+  }
+]

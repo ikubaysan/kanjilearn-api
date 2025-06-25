@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "この石鹸は肌に優しいです。",
+    "sentence_furigana": "この石鹸【せっけん】は肌【はだ】に優【やさ】しいです。",
+    "meaning": "This soap is gentle on the skin."
+  },
+  {
+    "sentence": "彼女の肌はとてもきめ細かいです。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】はとてもきめ細【こま】かいです。",
+    "meaning": "Her skin has a very fine texture."
+  },
+  {
+    "sentence": "日焼け止めは肌を守ります。",
+    "sentence_furigana": "日焼【ひや】け止【ど】めは肌【はだ】を守【まも】ります。",
+    "meaning": "Sunscreen protects the skin."
+  },
+  {
+    "sentence": "空気が乾燥しているので肌がカサつきます。",
+    "sentence_furigana": "空気【くうき】が乾燥【かんそう】しているので肌【はだ】がカサつきます。",
+    "meaning": "The air is dry, so my skin is getting rough."
+  },
+  {
+    "sentence": "彼の肌は日焼けで赤くなっていた。",
+    "sentence_furigana": "彼【かれ】の肌【はだ】は日焼【ひや】けで赤【あか】くなっていた。",
+    "meaning": "His skin was red from sunburn."
+  },
+  {
+    "sentence": "赤ちゃんの肌はとても柔らかい。",
+    "sentence_furigana": "赤【あか】ちゃん【ちゃん】の肌【はだ】はとても柔【やわ】らかい。",
+    "meaning": "A baby's skin is very soft."
+  },
+  {
+    "sentence": "肌荒れを防ぐために保湿クリームを塗っています。",
+    "sentence_furigana": "肌【はだ】荒【あ】れを防【ふせ】ぐために保湿【ほしつ】クリームを塗【ぬ】っています。",
+    "meaning": "I am applying moisturizing cream to prevent skin irritation."
+  },
+  {
+    "sentence": "この生地は肌触りが良い。",
+    "sentence_furigana": "この生地【きじ】は肌触【はだざわ】りが良【よ】い。",
+    "meaning": "This fabric feels good against the skin."
+  },
+  {
+    "sentence": "肌の色によって似合う服の色が変わる。",
+    "sentence_furigana": "肌【はだ】の色【いろ】によって似合【にあ】う服【ふく】の色【いろ】が変わ【か】わる。",
+    "meaning": "The colors of clothes that suit you change depending on your skin tone."
+  },
+  {
+    "sentence": "年齢とともに肌のハリが失われていく。",
+    "sentence_furigana": "年齢【ねんれい】とともに肌【はだ】のハリが失【うしな】われていく。",
+    "meaning": "As one gets older, the skin loses its firmness."
+  },
+  {
+    "sentence": "アレルギーで肌に湿疹が出た。",
+    "sentence_furigana": "アレルギーで肌【はだ】に湿疹【しっしん】が出【で】た。",
+    "meaning": "I developed a rash on my skin due to an allergy."
+  },
+  {
+    "sentence": "肌に直接触れるものは、清潔に保ちたい。",
+    "sentence_furigana": "肌【はだ】に直接【ちょくせつ】触【ふ】れるもの【もの】は、清潔【せいけつ】に保【たも】ちたい。",
+    "meaning": "I want to keep things that directly touch the skin clean."
+  },
+  {
+    "sentence": "このセーターは肌にチクチクして痛い。",
+    "sentence_furigana": "このセーターは肌【はだ】にチクチクして痛【いた】い。",
+    "meaning": "This sweater feels prickly and irritating to the skin."
+  },
+  {
+    "sentence": "新しい化粧品が肌に合うか心配だ。",
+    "sentence_furigana": "新【あたら】しい化粧品【けしょうひん】が肌【はだ】に合【あ】うか心配【しんぱい】だ。",
+    "meaning": "I'm worried if the new cosmetics will suit my skin."
+  },
+  {
+    "sentence": "肌を健康に保つためには、バランスの取れた食事が大切です。",
+    "sentence_furigana": "肌【はだ】を健康【けんこう】に保【たも】つためには、バランスの取【と】れた食事【しょくじ】が大切【たいせつ】です。",
+    "meaning": "To keep your skin healthy, a balanced diet is important."
+  },
+  {
+    "sentence": "彼の肌には深い傷跡があった。",
+    "sentence_furigana": "彼【かれ】の肌【はだ】には深【ふか】い傷跡【きずあと】があった。",
+    "meaning": "There was a deep scar on his skin."
+  },
+  {
+    "sentence": "この入浴剤は肌をしっとりさせてくれる。",
+    "sentence_furigana": "この入浴剤【にゅうよくざい】は肌【はだ】をしっとりさせてくれる。",
+    "meaning": "This bath additive makes the skin moist."
+  },
+  {
+    "sentence": "肌のターンオーバーを促進する化粧品を使っています。",
+    "sentence_furigana": "肌【はだ】のターンオーバーを促進【そくしん】する化粧品【けしょうひん】を使【つか】っています。",
+    "meaning": "I am using cosmetics that promote skin turnover."
+  },
+  {
+    "sentence": "彼女は肌が白くて、まるで陶器のようだ。",
+    "sentence_furigana": "彼女【かのじょ】は肌【はだ】が白【しろ】くて、まるで陶器【とうき】のようだ。",
+    "meaning": "Her skin is white, like porcelain."
+  },
+  {
+    "sentence": "肌の悩みについて皮膚科医に相談した。",
+    "sentence_furigana": "肌【はだ】の悩【なや】みについて皮膚科医【ひふかい】に相談【そうだん】した。",
+    "meaning": "I consulted a dermatologist about my skin concerns."
+  },
+  {
+    "sentence": "太陽の光は肌に良くない。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】は肌【はだ】に良【よ】くない。",
+    "meaning": "Sunlight is not good for the skin."
+  },
+  {
+    "sentence": "このスーツは肌に快適です。",
+    "sentence_furigana": "このスーツは肌【はだ】に快適【かいてき】です。",
+    "meaning": "This suit is comfortable against the skin."
+  },
+  {
+    "sentence": "肌の露出が多い服を着るには勇気がいる。",
+    "sentence_furigana": "肌【はだ】の露出【ろしゅつ】が多【おお】い服【ふく】を着【き】るには勇気【ゆうき】がいる。",
+    "meaning": "It takes courage to wear clothes that expose a lot of skin."
+  },
+  {
+    "sentence": "肌の調子が良いと気分も明るくなる。",
+    "sentence_furigana": "肌【はだ】の調子【ちょうし】が良い【よ】いと気分【きぶん】も明【あか】るくなる。",
+    "meaning": "When my skin is in good condition, I feel brighter too."
+  },
+  {
+    "sentence": "彼は肌が黒くて健康的に見える。",
+    "sentence_furigana": "彼【かれ】の肌【はだ】が黒【くろ】くて健康的【けんこうてき】に見【み】える。",
+    "meaning": "He has dark skin and looks healthy."
+  },
+  {
+    "sentence": "肌に異常がないかチェックしてください。",
+    "sentence_furigana": "肌【はだ】に異常【いじょう】がないかチェックしてください。",
+    "meaning": "Please check if there are any abnormalities on your skin."
+  },
+  {
+    "sentence": "このマスクは肌にフィットする。",
+    "sentence_furigana": "このマスクは肌【はだ】にフィットする。",
+    "meaning": "This mask fits snugly against the skin."
+  },
+  {
+    "sentence": "肌の色が白い人は日焼けしやすい。",
+    "sentence_furigana": "肌【はだ】の色【いろ】が白【しろ】い人【ひと】は日焼【ひや】けしやすい。",
+    "meaning": "People with fair skin tend to get sunburned easily."
+  },
+  {
+    "sentence": "肌の乾燥を防ぐために、加湿器を使っています。",
+    "sentence_furigana": "肌【はだ】の乾燥【かんそう】を防【ふせ】ぐために、加湿器【かしつき】を使【つか】っています。",
+    "meaning": "I am using a humidifier to prevent dry skin."
+  },
+  {
+    "sentence": "肌に優しい素材で作られた服を選びます。",
+    "sentence_furigana": "肌【はだ】に優【やさ】しい素材【そざい】で作【つく】られた服【ふく】を選【えら】びます。",
+    "meaning": "I choose clothes made from materials that are gentle on the skin."
+  },
+  {
+    "sentence": "彼女は肌の手入れにとても時間をかけている。",
+    "sentence_furigana": "彼女【かのじょ】は肌【はだ】の手入【てい】れにとても時間【じかん】をかけている。",
+    "meaning": "She spends a lot of time on her skincare."
+  },
+  {
+    "sentence": "このクリームは肌に浸透しやすい。",
+    "sentence_furigana": "このクリームは肌【はだ】に浸透【しんとう】しやすい。",
+    "meaning": "This cream is easily absorbed by the skin."
+  },
+  {
+    "sentence": "肌が炎症を起こしているようだ。",
+    "sentence_furigana": "肌【はだ】が炎症【えんしょう】を起こ【お】しているようだ。",
+    "meaning": "My skin seems to be inflamed."
+  },
+  {
+    "sentence": "夏は肌を露出する機会が増える。",
+    "sentence_furigana": "夏【なつ】は肌【はだ】を露出【ろしゅつ】する機会【きかい】が増【ふ】える。",
+    "meaning": "In the summer, there are more opportunities to expose skin."
+  },
+  {
+    "sentence": "肌の透明感を高める美容液を使ってみます。",
+    "sentence_furigana": "肌【はだ】の透明感【とうめいかん】を高【たか】める美容液【びようえき】を使【つか】ってみます。",
+    "meaning": "I will try using a serum that enhances skin clarity."
+  },
+  {
+    "sentence": "彼は日焼けした肌を自慢していた。",
+    "sentence_furigana": "彼【かれ】は日焼【ひや】けした肌【はだ】を自慢【じまん】していた。",
+    "meaning": "He was proud of his tanned skin."
+  },
+  {
+    "sentence": "このファンデーションは肌の悩みをカバーしてくれる。",
+    "sentence_furigana": "このファンデーションは肌【はだ】の悩【なや】みをカバーしてくれる。",
+    "meaning": "This foundation covers skin imperfections."
+  },
+  {
+    "sentence": "肌にハリがないと老けて見える。",
+    "sentence_furigana": "肌【はだ】にハリがないと老【ふ】けて見【み】える。",
+    "meaning": "Lack of skin firmness makes you look older."
+  },
+  {
+    "sentence": "この石鹸は肌に必要な油分まで洗い流してしまう。",
+    "sentence_furigana": "この石鹸【せっけん】は肌【はだ】に必要な油分【ゆぶん】まで洗【あら】い流【なが】してしまう。",
+    "meaning": "This soap washes away even the essential oils from the skin."
+  },
+  {
+    "sentence": "肌の調子を整えるために、規則正しい生活を心がけている。",
+    "sentence_furigana": "肌【はだ】の調子【ちょうし】を整【ととの】えるために、規則正【きそくただ】しい生活【せいかつ】を心【こころ】がけている。",
+    "meaning": "I try to lead a regular life to improve my skin condition."
+  },
+  {
+    "sentence": "肌に良い栄養素を多く含む食品を摂るようにしている。",
+    "sentence_furigana": "肌【はだ】に良【よ】い栄養素【えいようそ】を多【おお】く含【ふく】む食品【しょくひん】を摂【と】るようにしている。",
+    "meaning": "I try to eat foods rich in nutrients that are good for the skin."
+  },
+  {
+    "sentence": "彼は肌がとても滑らかだ。",
+    "sentence_furigana": "彼【かれ】の肌【はだ】がとても滑【なめ】らかだ。",
+    "meaning": "His skin is very smooth."
+  },
+  {
+    "sentence": "肌に刺激を与えないように、優しい言葉を選んだ。",
+    "sentence_furigana": "肌【はだ】に刺激【しげき】を与【あた】えないように、優【やさ】しい言葉【ことば】を選【えら】んだ。",
+    "meaning": "I chose gentle words so as not to irritate the skin."
+  },
+  {
+    "sentence": "この時期は肌の乾燥が気になる。",
+    "sentence_furigana": "この時期【じき】は肌【はだ】の乾燥【かんそう】が気【き】になる。",
+    "meaning": "I'm concerned about dry skin during this season."
+  },
+  {
+    "sentence": "彼女の肌は健康的な輝きを放っている。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】は健康的【けんこうてき】な輝【かがや】きを放【はな】っている。",
+    "meaning": "Her skin has a healthy glow."
+  },
+  {
+    "sentence": "肌が弱いため、新しい化粧品は慎重に試します。",
+    "sentence_furigana": "肌【はだ】が弱【よわ】いため、新【あたら】しい化粧品【けしょうひん】は慎重【しんちょう】に試【こころ】みます。",
+    "meaning": "Since my skin is sensitive, I try new cosmetics cautiously."
+  },
+  {
+    "sentence": "この服は肌触りが悪くて着ていられない。",
+    "sentence_furigana": "この服【ふく】は肌触【はだざわ】りが悪【わる】くて着【き】ていられない。",
+    "meaning": "This clothing feels unpleasant against the skin, and I can't wear it."
+  },
+  {
+    "sentence": "肌のくすみを改善するパックを使っている。",
+    "sentence_furigana": "肌【はだ】のくすみを改善【かいぜん】するパックを使【つか】っている。",
+    "meaning": "I am using a face mask to improve skin dullness."
+  },
+  {
+    "sentence": "彼の肌には深いシワが刻まれていた。",
+    "sentence_furigana": "彼【かれ】の肌【はだ】には深【ふか】いシワが刻【きざ】まれていた。",
+    "meaning": "Deep wrinkles were etched into his skin."
+  },
+  {
+    "sentence": "肌を滑らかにするために、毎日マッサージをしています。",
+    "sentence_furigana": "肌【はだ】を滑【なめ】らかにするために、毎日【まいにち】マッサージをしています。",
+    "meaning": "I massage my skin every day to make it smoother."
+  },
+  {
+    "sentence": "この石鹸は肌の油分を適度に保ってくれる。",
+    "sentence_furigana": "この石鹸【せっけん】は肌【はだ】の油分【ゆぶん】を適度【てきど】に保【たも】ってくれる。",
+    "meaning": "This soap retains the skin's natural oils moderately."
+  },
+  {
+    "sentence": "肌の色に合わせたファンデーションを選ぶことが大切です。",
+    "sentence_furigana": "肌【はだ】の色【いろ】に合【あ】わせたファンデーションを選【えら】ぶことが大切【たいせつ】です。",
+    "meaning": "It is important to choose foundation that matches your skin tone."
+  },
+  {
+    "sentence": "肌荒れがひどいので、病院で薬をもらった。",
+    "sentence_furigana": "肌【はだ】荒【あ】れがひどいので、病院【びょういん】で薬【くすり】をもらった。",
+    "meaning": "My skin irritation was severe, so I got medicine from the hospital."
+  },
+  {
+    "sentence": "この素材は肌に触れてもチクチクしない。",
+    "sentence_furigana": "この素材【そざい】は肌【はだ】に触【ふ】れてもチクチクしない。",
+    "meaning": "This material does not irritate the skin when touched."
+  },
+  {
+    "sentence": "肌の老化を防ぐには、紫外線対策が欠かせません。",
+    "sentence_furigana": "肌【はだ】の老化【ろうか】を防【ふせ】ぐには、紫外線対策【しがいせんたいさく】が欠【か】かせません。",
+    "meaning": "To prevent skin aging, protection from UV rays is essential."
+  },
+  {
+    "sentence": "彼女は自分の肌にとても自信があるようだ。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の肌【はだ】にとても自信【じしん】があるようだ。",
+    "meaning": "She seems very confident about her skin."
+  },
+  {
+    "sentence": "肌が乾燥すると、かゆみが出やすい。",
+    "sentence_furigana": "肌【はだ】が乾燥【かんそう】すると、かゆみが出【で】やすい。",
+    "meaning": "When the skin is dry, itching tends to occur."
+  },
+  {
+    "sentence": "このリップクリームは唇の肌に潤いを与えます。",
+    "sentence_furigana": "このリップクリームは唇【くちびる】の肌【はだ】に潤【うるお】いを与【あた】えます。",
+    "meaning": "This lip cream moisturizes the skin of the lips."
+  },
+  {
+    "sentence": "肌に赤みが出たので、使用を中止した。",
+    "sentence_furigana": "肌【はだ】に赤【あか】みが出【で】たので、使用【しよう】を中止【ちゅうし】した。",
+    "meaning": "Redness appeared on my skin, so I stopped using it."
+  },
+  {
+    "sentence": "肌のハリを保つために、コラーゲンを摂取しています。",
+    "sentence_furigana": "肌【はだ】のハリを保【たも】つために、コラーゲンを摂取【せっしゅ】しています。",
+    "meaning": "I am consuming collagen to maintain skin elasticity."
+  },
+  {
+    "sentence": "彼女の肌はとても滑らかで、触り心地が良い。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】はとても滑【なめ】らかで、触【さわ】り心地【ごこち】が良い【よ】い。",
+    "meaning": "Her skin is very smooth and pleasant to the touch."
+  },
+  {
+    "sentence": "肌に優しい洗顔料を使っています。",
+    "sentence_furigana": "肌【はだ】に優【やさ】しい洗顔料【せんがんりょう】を使【つか】っています。",
+    "meaning": "I am using a gentle facial cleanser."
+  },
+  {
+    "sentence": "肌の調子を見るために、鏡で顔をチェックした。",
+    "sentence_furigana": "肌【はだ】の調子【ちょうし】を見【み】るために、鏡【かがみ】で顔【かお】をチェックした。",
+    "meaning": "I checked my face in the mirror to see my skin condition."
+  },
+  {
+    "sentence": "このスーツは肌に当たる部分が柔らかい。",
+    "sentence_furigana": "このスーツは肌【はだ】に当【あ】たる部分【ぶぶん】が柔【やわ】らかい。",
+    "meaning": "The parts of this suit that touch the skin are soft."
+  },
+  {
+    "sentence": "肌の色が健康的な小麦色になっている。",
+    "sentence_furigana": "肌【はだ】の色【いろ】が健康的【けんこうてき】な小麦色【こむぎいろ】になっている。",
+    "meaning": "The skin tone has turned a healthy tan."
+  },
+  {
+    "sentence": "肌のくすみは睡眠不足が原因で起こることがあります。",
+    "sentence_furigana": "肌【はだ】のくすみは睡眠不足【すいみんぶそく】が原因【げんいん】で起【お】こることがあります。",
+    "meaning": "Skin dullness can be caused by lack of sleep."
+  },
+  {
+    "sentence": "彼女は天然素材の服を好み、肌に優しいものを選んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は天然素材【てんねんそざい】の服【ふく】を好【この】み、肌【はだ】に優【やさ】しいものを選【えら】んでいる。",
+    "meaning": "She prefers clothes made of natural materials, choosing those that are gentle on the skin."
+  },
+  {
+    "sentence": "肌の弾力を保つためには、ビタミンCが重要です。",
+    "sentence_furigana": "肌【はだ】の弾力【だんりょく】を保【たも】つためには、ビタミンCが重要【じゅうよう】です。",
+    "meaning": "Vitamin C is important for maintaining skin elasticity."
+  },
+  {
+    "sentence": "肌に合わない化粧品はすぐに使うのをやめるべきだ。",
+    "sentence_furigana": "肌【はだ】に合【あ】わない化粧品【けしょうひん】はすぐに使用【しよう】するのをやめるべきだ。",
+    "meaning": "You should stop using cosmetics that don't suit your skin immediately."
+  },
+  {
+    "sentence": "この入浴剤は肌をすべすべにしてくれる効果がある。",
+    "sentence_furigana": "この入浴剤【にゅうよくざい】は肌【はだ】をすべすべにしてくれる効果【こうか】がある。",
+    "meaning": "This bath additive has the effect of making the skin smooth."
+  },
+  {
+    "sentence": "肌の血色が悪いと、顔色が冴えないように見える。",
+    "sentence_furigana": "肌【はだ】の血色【けっしょく】が悪【わる】いと、顔色【かおいろ】が冴【さ】えないように見【み】える。",
+    "meaning": "If the skin has poor color, the complexion looks dull."
+  },
+  {
+    "sentence": "彼女は日焼け止めを肌に丁寧に塗っていた。",
+    "sentence_furigana": "彼女【かのじょ】は日焼【ひや】け止【ど】めを肌【はだ】に丁寧【ていねい】に塗【ぬ】っていた。",
+    "meaning": "She carefully applied sunscreen to her skin."
+  },
+  {
+    "sentence": "肌の潤いを保つために、加湿器を寝室に置いている。",
+    "sentence_furigana": "肌【はだ】の潤【うるお】いを保【たも】つために、加湿器【かしつき】を寝室【しんしつ】に置【お】いている。",
+    "meaning": "I have a humidifier in my bedroom to keep my skin moisturized."
+  },
+  {
+    "sentence": "このシャツは肌触りが良く、着心地が良い。",
+    "sentence_furigana": "このシャツは肌触【はだざわ】りが良【よ】く、着心地【きごこち】が良い【よ】い。",
+    "meaning": "This shirt feels good against the skin and is comfortable to wear."
+  },
+  {
+    "sentence": "肌のトラブルを防ぐためには、洗顔が重要です。",
+    "sentence_furigana": "肌【はだ】のトラブルを防【ふせ】ぐためには、洗顔【せんがん】が重要【じゅうよう】です。",
+    "meaning": "Washing your face is important to prevent skin problems."
+  },
+  {
+    "sentence": "彼は肌の色が浅黒く、ワイルドな魅力がある。",
+    "sentence_furigana": "彼【かれ】の肌【はだ】の色【いろ】が浅黒【あさぐろ】く、ワイルドな魅力【みりょく】がある。",
+    "meaning": "He has a dark complexion and a wild charm."
+  },
+  {
+    "sentence": "このクリームは肌の再生を助ける効果がある。",
+    "sentence_furigana": "このクリームは肌【はだ】の再生【さいせい】を助【たす】ける効果【こうか】がある。",
+    "meaning": "This cream has the effect of promoting skin regeneration."
+  },
+  {
+    "sentence": "肌のテカリを抑えるために、化粧直しをしました。",
+    "sentence_furigana": "肌【はだ】のテカリを抑【おさ】えるために、化粧直【けしょうなお】しをしました。",
+    "meaning": "I reapplied makeup to control skin shine."
+  },
+  {
+    "sentence": "肌に優しいコットンを選んで使っています。",
+    "sentence_furigana": "肌【はだ】に優【やさ】しいコットンを選【えら】んで使【つか】っています。",
+    "meaning": "I choose and use cotton that is gentle on the skin."
+  },
+  {
+    "sentence": "彼女は肌の手入れとして、週に一度パックをしている。",
+    "sentence_furigana": "彼女【かのじょ】は肌【はだ】の手入【てい】れとして、週【しゅう】に一度【いちど】パックをしている。",
+    "meaning": "She does a facial pack once a week as part of her skincare routine."
+  },
+  {
+    "sentence": "肌がくすんでいるのは、血行不良が原因かもしれない。",
+    "sentence_furigana": "肌【はだ】がくすんでいるのは、血行不良【けっこうふりょう】が原因【げんいん】かもしれない。",
+    "meaning": "The dullness of my skin might be due to poor blood circulation."
+  },
+  {
+    "sentence": "この生地は肌に直接触れると少しチクチクする。",
+    "sentence_furigana": "この生地【きじ】は肌【はだ】に直接【ちょくせつ】触【ふ】れると少【すこ】しチクチクする。",
+    "meaning": "This fabric feels a little prickly when it touches the skin directly."
+  },
+  {
+    "sentence": "肌のハリを取り戻すために、エステに通うことにした。",
+    "sentence_furigana": "肌【はだ】のハリを取り戻【と】すために、エステに通【かよ】うことにした。",
+    "meaning": "I decided to go to an aesthetic salon to regain skin elasticity."
+  },
+  {
+    "sentence": "肌の色が明るくなるようなメイクを心がけている。",
+    "sentence_furigana": "肌【はだ】の色【いろ】が明【あか】るくなるようなメイクを心【こころ】がけている。",
+    "meaning": "I try to do makeup that brightens my skin tone."
+  },
+  {
+    "sentence": "肌に優しい日焼け止めを選びましょう。",
+    "sentence_furigana": "肌【はだ】に優【やさ】しい日焼【ひや】け止【ど】めを選【えら】びましょう。",
+    "meaning": "Let's choose sunscreen that is gentle on the skin."
+  },
+  {
+    "sentence": "肌の乾燥を防ぐためには、化粧水でしっかり保湿することが大切です。",
+    "sentence_furigana": "肌【はだ】の乾燥【かんそう】を防【ふせ】ぐためには、化粧水【けしょうすい】でしっかり保湿【ほしつ】することが大切【たいせつ】です。",
+    "meaning": "To prevent dry skin, it is important to moisturize well with lotion."
+  },
+  {
+    "sentence": "肌に良い食品を摂るように心がけています。",
+    "sentence_furigana": "肌【はだ】に良【よ】い食品【しょくひん】を摂【と】るように心【こころ】がけています。",
+    "meaning": "I try to eat foods that are good for the skin."
+  },
+  {
+    "sentence": "彼女の肌はとてもきめ細かく、滑らかな触り心地です。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】はとてもきめ細【こま】かく、滑【なめ】らかな触【さわ】り心地【ごこち】です。",
+    "meaning": "Her skin is very fine-textured and has a smooth feel."
+  },
+  {
+    "sentence": "肌の調子が悪かったので、今日はメイクを控えます。",
+    "sentence_furigana": "肌【はだ】の調子【ちょうし】が悪【わる】かったので、今日【きょう】はメイクを控【ひか】えます。",
+    "meaning": "My skin condition was bad, so I will refrain from wearing makeup today."
+  },
+  {
+    "sentence": "このセーターは肌触りが良く、暖かい。",
+    "sentence_furigana": "このセーターは肌触【はだざわ】りが良【よ】く、暖【あたた】かい。",
+    "meaning": "This sweater feels good against the skin and is warm."
+  },
+  {
+    "sentence": "肌の明るさをアップする成分が入っている。",
+    "sentence_furigana": "肌【はだ】の明【あか】るさをアップする成分【せいぶん】が入【はい】っている。",
+    "meaning": "It contains ingredients that brighten the skin."
+  },
+  {
+    "sentence": "彼女の肌はまるで絹のように滑らかだ。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】はまるで絹【きぬ】のように滑【なめ】らかだ。",
+    "meaning": "Her skin is as smooth as silk."
+  },
+  {
+    "sentence": "肌に刺激を与えないような、刺激の少ない洗顔料を選ぶのが良い。",
+    "sentence_furigana": "肌【はだ】に刺激【しげき】を与【あた】えないような、刺激【しげき】の少【すく】ない洗顔料【せんがんりょう】を選【えら】ぶのが良【よ】い。",
+    "meaning": "It is good to choose a mild facial cleanser that does not irritate the skin."
+  },
+  {
+    "sentence": "肌の老化は避けられないものですが、ケアで遅らせることはできます。",
+    "sentence_furigana": "肌【はだ】の老化【ろうか】は避【さ】けられないものですが、ケアで遅【おく】らせることはできます。",
+    "meaning": "Skin aging is unavoidable, but it can be delayed with care."
+  },
+  {
+    "sentence": "彼女は肌が白く、繊細な美しさを持っている。",
+    "sentence_furigana": "彼女【かのじょ】の肌【はだ】は白【しろ】く、繊細【せんさい】な美しさ【うつく】しさを持【も】っている。",
+    "meaning": "Her skin is white and has a delicate beauty."
+  },
+  {
+    "sentence": "肌のコンディションを整えるために、十分な睡眠を取ることが大切です。",
+    "sentence_furigana": "肌【はだ】のコンディションを整【ととの】えるために、十分【じゅうぶん】な睡眠【すいみん】を取【と】ることが大切【たいせつ】です。",
+    "meaning": "It is important to get enough sleep to improve skin condition."
+  },
+  {
+    "sentence": "この生地は肌に優しく、着心地が良いです。",
+    "sentence_furigana": "この生地【きじ】は肌【はだ】に優【やさ】しく、着心地【きごこち】が良い【よ】いです。",
+    "meaning": "This fabric is gentle on the skin and comfortable to wear."
+  },
+  {
+    "sentence": "肌のハリを失うと、たるみの原因になります。",
+    "sentence_furigana": "肌【はだ】のハリを失【うしな】うと、たるみの原因【げんいん】になります。",
+    "meaning": "Losing skin elasticity can cause sagging."
+  },
+  {
+    "sentence": "彼女は自分の肌の色を生かしたメイクが得意だ。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の肌【はだ】の色【いろ】を生【い】かしたメイクが得意【とくい】だ。",
+    "meaning": "She is good at makeup that makes the most of her skin tone."
+  },
+  {
+    "sentence": "肌に潤いを与える保湿クリームを探しています。",
+    "sentence_furigana": "肌【はだ】に潤【うるお】いを与【あた】える保湿クリームを探【さが】しています。",
+    "meaning": "I am looking for a moisturizing cream that hydrates the skin."
+  },
+  {
+    "sentence": "肌荒れを防ぐために、ストレスを溜めないようにしています。",
+    "sentence_furigana": "肌【はだ】荒【あ】れを防【ふせ】ぐために、ストレスを溜【た】めないようにしています。",
+    "meaning": "I try not to accumulate stress to prevent skin irritation."
+  },
+  {
+    "sentence": "この衣類は肌に直接触れる部分が柔らかく作られている。",
+    "sentence_furigana": "この衣類【いるい】は肌【はだ】に直接【ちょくせつ】触【ふ】れる部分【ぶぶん】が柔【やわ】らかく作【つく】られている。",
+    "meaning": "The parts of this clothing that directly touch the skin are made soft."
+  },
+  {
+    "sentence": "肌の透明感を出すために、ビタミンC誘導体配合の化粧水を使っています。",
+    "sentence_furigana": "肌【はだ】の透明感【とうめいかん】を出【だ】すために、ビタミンC誘導体【ゆうどうたい】配合【はいごう】の化粧水【けしょうすい】を使【つか】っています。",
+    "meaning": "I am using a lotion containing Vitamin C derivatives to achieve skin clarity."
+  }
+]

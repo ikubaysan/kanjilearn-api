@@ -1,0 +1,542 @@
+[
+  {
+    "sentence": "この計画は多くの問題を総合的に検討する必要がある。",
+    "sentence_furigana": "この計画【けいかく】は多【おお】くの問題【もんだい】を総合【そうごう】的【てき】に検討【けんとう】する必要【ひつよう】がある。",
+    "meaning": "This plan needs to comprehensively examine many issues."
+  },
+  {
+    "sentence": "政府は経済を総合的に管理している。",
+    "sentence_furigana": "政府【せいふ】は経済【けいざい】を総合【そうごう】的【てき】に管理【かんり】している。",
+    "meaning": "The government is managing the economy comprehensively."
+  },
+  {
+    "sentence": "彼はあらゆる情報を収集し、分析した。",
+    "sentence_furigana": "彼【かれ】はあらゆる情報【じょうほう】を収集【しゅうしゅう】し、分析【ぶんせき】した。",
+    "meaning": "He gathered and analyzed all the information."
+  },
+  {
+    "sentence": "社会全体の調和を保つことが重要だ。",
+    "sentence_furigana": "社会【しゃかい】全体【ぜんたい】の調和【ちょうわ】を保【たも】つことが重要【じゅうよう】だ。",
+    "meaning": "It is important to maintain harmony for the entire society."
+  },
+  {
+    "sentence": "各部署の意見をまとめて結論を出した。",
+    "sentence_furigana": "各部署【かくぶしょ】の意見【いけん】をまと​​めて結論【けつろん】を出【だ】した。",
+    "meaning": "He summarized the opinions of each department and reached a conclusion."
+  },
+  {
+    "sentence": "この事件の全容を把握することが急務だ。",
+    "sentence_furigana": "この事件【じけん】の全容【ぜんよう】を把握【はあく】することが急務【きゅうむ】だ。",
+    "meaning": "It is urgent to grasp the full picture of this incident."
+  },
+  {
+    "sentence": "古いものを整理して、新しいものに買い替えよう。",
+    "sentence_furigana": "古【ふる】いものを整理【せいり】して、新【あたら】しいものに買【か】い替【か】えよう。",
+    "meaning": "Let's organize the old things and replace them with new ones."
+  },
+  {
+    "sentence": "今日の会議では、多くの課題が取り上げられた。",
+    "sentence_furigana": "今日【きょう】の会議【かいぎ】では、多【おお】くの課題【かだい】が取【と】り上【あ】げられた。",
+    "meaning": "Many issues were taken up at today's meeting."
+  },
+  {
+    "sentence": "彼の業績は多岐にわたっており、評価が難しい。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は多岐【たき】にわたっており、評価【ひょうか】が難【むずか】しい。",
+    "meaning": "His achievements are wide-ranging and difficult to evaluate."
+  },
+  {
+    "sentence": "この組織は、様々な分野を統括している。",
+    "sentence_furigana": "この組織【そしき】は、様々【さまざま】な分野【ぶんや】を統括【とうかつ】している。",
+    "meaning": "This organization oversees various fields."
+  },
+  {
+    "sentence": "すべての要素を統合して、一つの結論に至った。",
+    "sentence_furigana": "すべて​​の要素【ようそ】を統合【とうごう】して、一本【いっぽん】の結論【けつろん】に至【いた】った。",
+    "meaning": "All elements were integrated to reach a single conclusion."
+  },
+  {
+    "sentence": "今回のプロジェクトは、複数のチームが協力して進められた。",
+    "sentence_furigana": "今回【こんかい】のプロジェクトは、複数【ふくすう】のチームが協力【きょうりょく】して進【すす】められた。",
+    "meaning": "This project was advanced through the cooperation of multiple teams."
+  },
+  {
+    "sentence": "彼は過去の経験を総括し、将来の計画を立てた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】の経験【けいけん】を総括【そうかつ】し、将来【しょうらい】の計画【けいかく】を立【た】てた。",
+    "meaning": "He summarized his past experiences and made future plans."
+  },
+  {
+    "sentence": "この法律は、国民全体の生活を守ることを目的としている。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民【こくみん】全体【ぜんたい】の生活【せいかつ】を守【まも】ることを目的【もくてき】としている。",
+    "meaning": "This law aims to protect the lives of all citizens."
+  },
+  {
+    "sentence": "会議の議事を整理し、議事録を作成した。",
+    "sentence_furigana": "会議【かいぎ】の議事【ぎじ】を整理【せいり】し、議事録【ぎじろく】を作成【さくせい】した。",
+    "meaning": "I organized the minutes of the meeting and created the record."
+  },
+  {
+    "sentence": "これらの資料を総合して、報告書を作成してください。",
+    "sentence_furigana": "これら​​の資料【しりょう】を総合【そうごう】して、報告書【ほうこくしょ】を作成【さくせい】してください。",
+    "meaning": "Please synthesize these materials and create a report."
+  },
+  {
+    "sentence": "彼は多くの芸術作品を収集している。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの芸術作品【げいじゅつさくひん】を収集【しゅうしゅう】している。",
+    "meaning": "He collects many works of art."
+  },
+  {
+    "sentence": "このシステムは、すべてのデータを統合管理する。",
+    "sentence_furigana": "このシステムは、すべて​​のデータ​​を統合管理【とうごうかんり】する。",
+    "meaning": "This system comprehensively manages all data."
+  },
+  {
+    "sentence": "彼女は大学で様々な分野を研究した。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で様々【さまざま】な分野【ぶんや】を研究【けんきゅう】した。",
+    "meaning": "She researched various fields at university."
+  },
+  {
+    "sentence": "この本は、歴史上の出来事を総合的に解説している。",
+    "sentence_furigana": "この本【ほん】は、歴史上【れきしじょう】の出来事【できごと】を総合【そうごう】的【てき】に解説【かいせつ】している。",
+    "meaning": "This book comprehensively explains historical events."
+  },
+  {
+    "sentence": "問題点を整理し、解決策を提案する。",
+    "sentence_furigana": "問題点【もんだいてん】を整理【せいり】し、解決策【かいけつさく】を提案【ていあん】する。",
+    "meaning": "Organize the problem points and propose solutions."
+  },
+  {
+    "sentence": "この地域の発展を総合的に支援していく。",
+    "sentence_furigana": "この地域【ちいき】の発展【はってん】を総合【そうごう】的【てき】に支援【しえん】していく。",
+    "meaning": "We will comprehensively support the development of this region."
+  },
+  {
+    "sentence": "彼は世界の文化を幅広く学んだ。",
+    "sentence_furigana": "彼【かれ】は世界【せかい】の文化【ぶんか】を幅広【はばひろ】く学【まな】んだ。",
+    "meaning": "He learned about world culture extensively."
+  },
+  {
+    "sentence": "この法律は、国民生活全般を規定している。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】全般【ぜんぱん】を規定【きてい】している。",
+    "meaning": "This law stipulates the entire national life."
+  },
+  {
+    "sentence": "会議の意見をまとめ、次のステップを決定した。",
+    "sentence_furigana": "会議【かいぎ】の意見【いけん】をまとめ、次【つぎ】のステップを決定【けってい】した。",
+    "meaning": "I summarized the opinions from the meeting and decided the next step."
+  },
+  {
+    "sentence": "彼の手腕は、多くの分野で高く評価されている。",
+    "sentence_furigana": "彼【かれ】の手腕【てわん】は、多【おお】くの分野【ぶんや】で高【たか】く評価【ひょうか】されている。",
+    "meaning": "His skills are highly regarded in many fields."
+  },
+  {
+    "sentence": "このプロジェクトは、様々な技術を統合する必要がある。",
+    "sentence_furigana": "このプロジェクトは、様々【さまざま】な技術【ぎじゅつ】を統合【とうごう】する必要【ひつよう】がある。",
+    "meaning": "This project requires the integration of various technologies."
+  },
+  {
+    "sentence": "政府は、経済全体を安定させるための施策を講じた。",
+    "sentence_furigana": "政府【せいふ】は、経済【けいざい】全体【ぜんたい】を安定【あんてい】させるための施策【しさく】を講【こう】じた。",
+    "meaning": "The government took measures to stabilize the overall economy."
+  },
+  {
+    "sentence": "彼女は、収集した情報を整理して報告書を作成した。",
+    "sentence_furigana": "彼女【かのじょ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】して報告書【ほうこくしょ】を作成【さくせい】した。",
+    "meaning": "She organized the collected information and created a report."
+  },
+  {
+    "sentence": "この博物館には、世界中の美術品が展示されている。",
+    "sentence_furigana": "この博物館【はくぶつかん】には、世界中【せかいじゅう】の美術品【びじゅつひん】が展示【てんじ】されている。",
+    "meaning": "This museum exhibits art pieces from all over the world."
+  },
+  {
+    "sentence": "彼の経営手腕は、会社の業績向上に大きく貢献した。",
+    "sentence_furigana": "彼【かれ】の経営手腕【けいえいしゅわん】は、会社【かいしゃ】の業績向上【ぎょうせきこうじょう】に大【おお】きく貢献【こうけん】した。",
+    "meaning": "His business acumen greatly contributed to the company's performance improvement."
+  },
+  {
+    "sentence": "この計画は、社会全体の幸福を目指している。",
+    "sentence_furigana": "この計画【けいかく】は、社会【しゃかい】全体【ぜんたい】の幸福【こうふく】を目指【めざ】している。",
+    "meaning": "This plan aims for the happiness of society as a whole."
+  },
+  {
+    "sentence": "会議の結論をまとめる作業は、彼に任された。",
+    "sentence_furigana": "会議【かいぎ】の結論【けつろん】をまと​​める作業【さぎょう】は、彼【かれ】に任【まか】された。",
+    "meaning": "The task of summarizing the meeting's conclusion was entrusted to him."
+  },
+  {
+    "sentence": "この小説は、複数の登場人物の視点から描かれている。",
+    "sentence_furigana": "この小説【しょうせつ】は、複数【ふくすう】の登場人物【とうじょうじんぶつ】の視点【してん】から描【か】かれている。",
+    "meaning": "This novel is depicted from the perspectives of multiple characters."
+  },
+  {
+    "sentence": "彼は、収集したデータを分析し、報告書を作成した。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】したデータ​​を分析【ぶんせき】し、報告書【ほうこくしょ】を作成【さくせい】した。",
+    "meaning": "He analyzed the collected data and created a report."
+  },
+  {
+    "sentence": "この法律は、国民生活全般にわたる多くの規定を含んでいる。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】全般【ぜんぱん】にわたる多【おお】くの規定【きてい】を含【ふく】んでいる。",
+    "meaning": "This law contains many provisions covering overall national life."
+  },
+  {
+    "sentence": "彼女は、古い書物を整理し、図書館に寄贈した。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い書物【しょもつ】を整理【せいり】し、図書館【としょかん】に寄贈【きぞう】した。",
+    "meaning": "She organized old books and donated them to the library."
+  },
+  {
+    "sentence": "この映画は、多くのメッセージを総合的に伝えている。",
+    "sentence_furigana": "この映画【えいが】は、多【おお】くのメッセージを総合【そうごう】的【てき】に伝【つた】えている。",
+    "meaning": "This movie comprehensively conveys many messages."
+  },
+  {
+    "sentence": "彼は、この分野における多くの功績を称えられた。",
+    "sentence_furigana": "彼【かれ】は、この分野【ぶんや】における多【おお】くの功績【こうせき】を称【たた】えられた。",
+    "meaning": "He was honored for his many achievements in this field."
+  },
+  {
+    "sentence": "この組織は、様々な事業を統括し、運営している。",
+    "sentence_furigana": "この組織【そしき】は、様々【さまざま】な事業【じぎょう】を統括【とうかつ】し、運営【うんえい】している。",
+    "meaning": "This organization oversees and operates various businesses."
+  },
+  {
+    "sentence": "彼女は、過去の経験を活かし、新しい事業を興した。",
+    "sentence_furigana": "彼女【かのじょ】は、過去【かこ】の経験【けいけん】を活【い】かし、新【あたら】しい事業【じぎょう】を興【おこ】した。",
+    "meaning": "She leveraged her past experience and started a new business."
+  },
+  {
+    "sentence": "この法律は、社会全体の福祉向上を目指している。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会【しゃかい】全体【ぜんたい】の福祉向上【ふくしこうじょう】を目指【めざ】している。",
+    "meaning": "This law aims for the improvement of welfare for society as a whole."
+  },
+  {
+    "sentence": "会議での議論を総合し、最終的な方針を決定する。",
+    "sentence_furigana": "会議【かいぎ】での議論【ぎろん】を総合【そうごう】し、最終的【さいしゅうてき】な方針【ほうしん】を決定【けってい】する。",
+    "meaning": "Synthesize the discussions at the meeting and decide the final policy."
+  },
+  {
+    "sentence": "彼は、世界の歴史を幅広く学んでいる。",
+    "sentence_furigana": "彼【かれ】は、世界【せかい】の歴史【れきし】を幅広【はばひろ】く学【まな】んでいる。",
+    "meaning": "He is extensively studying world history."
+  },
+  {
+    "sentence": "この報告書は、多くのデータを総合的に分析している。",
+    "sentence_furigana": "この報告書【ほうこくしょ】は、多【おお】くのデータ​​を総合【そうごう】的【てき】に分析【ぶんせき】している。",
+    "meaning": "This report comprehensively analyzes a lot of data."
+  },
+  {
+    "sentence": "彼女は、古い文献を整理し、研究資料として活用した。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い文献【ぶんけん】を整理【せいり】し、研究資料【けんきゅうしりょう】として活用【かつよう】した。",
+    "meaning": "She organized old documents and utilized them as research materials."
+  },
+  {
+    "sentence": "このシステムは、複数の機器を統合して制御する。",
+    "sentence_furigana": "このシステムは、複数【ふくすう】の機器【きき】を統合【とうごう】して制御【せいぎょ】する。",
+    "meaning": "This system integrates and controls multiple devices."
+  },
+  {
+    "sentence": "彼は、様々な文化を理解し、国際的な視野を持つ。",
+    "sentence_furigana": "彼【かれ】は、様々【さまざま】な文化【ぶんか】を理解【りかい】し、国際的【こくさいてき】な視野【しや】を持【も】つ。",
+    "meaning": "He understands various cultures and has an international perspective."
+  },
+  {
+    "sentence": "この法律は、国民生活全般に関わる重要な規定を含んでいる。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民生活【こくみんせいかつ】全般【ぜんぱん】に関【かか】わる重要【じゅうよう】な規定【きてい】を含【ふく】んでいる。",
+    "meaning": "This law contains important provisions related to overall national life."
+  },
+  {
+    "sentence": "会議の決定事項を整理し、関係者に伝達した。",
+    "sentence_furigana": "会議【かいぎ】の決定事項【けっていじこう】を整理【せいり】し、関係者【かんけいしゃ】に伝達【でんたつ】した。",
+    "meaning": "I organized the decisions made at the meeting and communicated them to the relevant parties."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの心情を繊細に描き出している。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の心情【しんじょう】を繊細【せんさい】に描【か】き出【だ】している。",
+    "meaning": "This novel delicately portrays the feelings of the characters."
+  },
+  {
+    "sentence": "彼は、収集した証拠を総合して、事件の真相を解明した。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した証拠【しょうこ】を総合【そうごう】して、事件【じけん】の真相【しんそう】を解明【かいめい】した。",
+    "meaning": "He synthesized the collected evidence to clarify the truth of the incident."
+  },
+  {
+    "sentence": "この大学は、多くの学術分野を網羅している。",
+    "sentence_furigana": "この大学【だいがく】は、多【おお】くの学術分野【がくじゅつぶんや】を網羅【もうら】している。",
+    "meaning": "This university covers many academic fields."
+  },
+  {
+    "sentence": "彼女は、古い伝統を守りながら、新しい技術を取り入れた。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い伝統【でんとう】を守【まも】りながら、新【あたら】しい技術【ぎじゅつ】を取り入【い】れた。",
+    "meaning": "She incorporated new technologies while preserving old traditions."
+  },
+  {
+    "sentence": "この計画は、国民全体の生活の質を向上させることを目的としている。",
+    "sentence_furigana": "この計画【けいかく】は、国民【こくみん】全体【ぜんたい】の生活【せいかつ】の質【しつ】を向上【こうじょう】させることを目的【もくてき】としている。",
+    "meaning": "This plan aims to improve the quality of life for all citizens."
+  },
+  {
+    "sentence": "彼は、収集した情報を整理し、発表の準備をした。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】し、発表【はっぴょう】の準備【じゅんび】をした。",
+    "meaning": "He organized the collected information and prepared for the presentation."
+  },
+  {
+    "sentence": "この美術館には、世界各地の絵画が展示されている。",
+    "sentence_furigana": "この美術館【びじゅつかん】には、世界各地【せかいかくち】の絵画【かいが】が展示【てんじ】されている。",
+    "meaning": "This art museum exhibits paintings from various parts of the world."
+  },
+  {
+    "sentence": "彼の広範な知識は、多くの分野で役立っている。",
+    "sentence_furigana": "彼【かれ】の広範【こうはん】な知識【ちしき】は、多【おお】くの分野【ぶんや】で役立【やくだ】っている。",
+    "meaning": "His extensive knowledge is useful in many fields."
+  },
+  {
+    "sentence": "この法律は、国民経済の健全な発展を促進することを目的としている。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民経済【こくみんけいざい】の健全【けんぜん】な発展【はってん】を促進【そくしん】することを目的【もくてき】としている。",
+    "meaning": "This law aims to promote the sound development of the national economy."
+  },
+  {
+    "sentence": "会議の意見を集約し、共通の目標を設定する。",
+    "sentence_furigana": "会議【かいぎ】の意見【いけん】を集約【しゅうやく】し、共通【きょうつう】の目標【もくひょう】を設定【せってい】する。",
+    "meaning": "Summarize the opinions of the meeting and set common goals."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの心の葛藤を描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の心【こころ】の葛藤【かっとう】を描【か】いている。",
+    "meaning": "This novel depicts the inner conflicts of the characters."
+  },
+  {
+    "sentence": "彼は、収集したデータを統合し、新たな知見を得た。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】したデータ​​を統合【とうごう】し、新【あら】たな知見【ちけん】を得【え】た。",
+    "meaning": "He integrated the collected data and gained new insights."
+  },
+  {
+    "sentence": "この博物館は、世界中の工芸品を幅広く収集している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、世界中【せかいじゅう】の工芸品【こうげいひん】を幅広【はばひろ】く収集【しゅうしゅう】している。",
+    "meaning": "This museum extensively collects handicrafts from all over the world."
+  },
+  {
+    "sentence": "彼女は、古い書物から多くの知識を吸収した。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い書物【しょもつ】から多【おお】くの知識【ちしき】を吸収【きゅうしゅう】した。",
+    "meaning": "She absorbed a lot of knowledge from old books."
+  },
+  {
+    "sentence": "この計画は、地域社会全体の発展に貢献するものである。",
+    "sentence_furigana": "この計画【けいかく】は、地域社会【ちいきしゃかい】全体【ぜんたい】の発展【はってん】に貢献【こうけん】するものである。",
+    "meaning": "This plan contributes to the development of the entire local community."
+  },
+  {
+    "sentence": "彼は、様々な分野の専門家と協力してプロジェクトを進めた。",
+    "sentence_furigana": "彼【かれ】は、様々【さまざま】な分野【ぶんや】の専門家【せんもんか】と協力【きょうりょく】してプロジェクトを進【すす】めた。",
+    "meaning": "He proceeded with the project in cooperation with experts in various fields."
+  },
+  {
+    "sentence": "この法律は、国民全体の利益を守るために制定された。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民【こくみん】全体【ぜんたい】の利益【りえき】を守【まも】るために制定【せいてい】された。",
+    "meaning": "This law was enacted to protect the interests of all citizens."
+  },
+  {
+    "sentence": "会議で出された意見をまとめ、報告書を作成する必要がある。",
+    "sentence_furigana": "会議【かいぎ】で出【だ】された意見【いけん】をまとめ、報告書【ほうこくしょ】を作成【さくせい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to summarize the opinions presented at the meeting and create a report."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの感情の機微を描き出している。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の感情【かんじょう】の機微【きび】を描【か】き出【だ】している。",
+    "meaning": "This novel portrays the nuances of the characters' emotions."
+  },
+  {
+    "sentence": "彼は、集めた資料を整理し、展示の準備を進めた。",
+    "sentence_furigana": "彼【かれ】は、集【あつ】めた資料【しりょう】を整理【せいり】し、展示【てんじ】の準備【じゅんび】を進【すす】めた。",
+    "meaning": "He organized the collected materials and proceeded with preparations for the exhibition."
+  },
+  {
+    "sentence": "この美術館は、世界各国の芸術作品を所蔵している。",
+    "sentence_furigana": "この美術館【びじゅつかん】は、世界各国【せかいかっこく】の芸術作品【げいじゅつさくひん】を所蔵【しょぞう】している。",
+    "meaning": "This art museum houses works of art from various countries around the world."
+  },
+  {
+    "sentence": "彼の幅広い経験は、多くの場面で活かされている。",
+    "sentence_furigana": "彼【かれ】の幅広【はばひろ】い経験【けいけん】は、多【おお】くの場面【ばめん】で活【い】かされている。",
+    "meaning": "His extensive experience is utilized in many situations."
+  },
+  {
+    "sentence": "この法律は、国民の権利と義務を総合的に定めている。",
+    "sentence_furigana": "この法律【ほうりつ】は、国民【こくみん】の権利【けんり】と義務【ぎむ】を総合【そうごう】的【てき】に定【さだ】めている。",
+    "meaning": "This law comprehensively defines the rights and obligations of citizens."
+  },
+  {
+    "sentence": "会議の決定事項をまとめ、関係部署に周知徹底する。",
+    "sentence_furigana": "会議【かいぎ】の決定事項【けっていじこう】をまとめ、関係部署【かんけいぶしょ】に周知徹底【しゅうちてってい】する。",
+    "meaning": "Summarize the decisions made at the meeting and thoroughly communicate them to the relevant departments."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの心理描写が秀逸である。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の心理描写【しんりびょうしゃ】が秀逸【しゅういつ】である。",
+    "meaning": "This novel features excellent psychological depiction of its characters."
+  },
+  {
+    "sentence": "彼は、収集したデータを整理し、会議で発表した。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】したデータ​​を整理【せいり】し、会議【かいぎ】で発表【はっぴょう】した。",
+    "meaning": "He organized the collected data and presented it at the meeting."
+  },
+  {
+    "sentence": "この博物館は、日本の歴史に関する多くの資料を所蔵している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、日本【にほん】の歴史【れきし】に関する多【おお】くの資料【しりょう】を所蔵【しょぞう】している。",
+    "meaning": "This museum houses many materials related to Japanese history."
+  },
+  {
+    "sentence": "彼女は、古い慣習を守りつつ、新しい価値観を取り入れていく。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い慣習【かんしゅう】を守【まも】りつつ、新【あたら】しい価値観【かちかん】を取り入【い】れていく。",
+    "meaning": "She incorporates new values while preserving old customs."
+  },
+  {
+    "sentence": "この計画は、社会全体の持続可能な発展を目指している。",
+    "sentence_furigana": "この計画【けいかく】は、社会【しゃかい】全体【ぜんたい】の持続可能【じぞくかのう】な発展【はってん】を目指【めざ】している。",
+    "meaning": "This plan aims for the sustainable development of society as a whole."
+  },
+  {
+    "sentence": "彼は、会議で出された様々な意見を統合して、一つの結論を導き出した。",
+    "sentence_furigana": "彼【かれ】は、会議【かいぎ】で出【だ】された様々【さまざま】な意見【いけん】を統合【とうごう】して、一本【いっぽん】の結論【けつろん】を導【みちび】き出【だ】した。",
+    "meaning": "He integrated the various opinions expressed at the meeting to derive a single conclusion."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの内面を深く掘り下げている。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の内面【ないめん】を深【ふか】く掘【ほ】り下【さ】げている。",
+    "meaning": "This novel delves deeply into the inner lives of the characters."
+  },
+  {
+    "sentence": "彼は、収集した情報を整理し、報告書を作成する作業を進めている。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】し、報告書【ほうこくしょ】を作成【さくせい】する作業【さぎょう】を進【すす】めている。",
+    "meaning": "He is organizing the collected information and proceeding with the task of creating a report."
+  },
+  {
+    "sentence": "この博物館は、日本の伝統文化に関する多くの貴重な資料を所蔵している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、日本【にほん】の伝統文化【でんとうぶんか】に関する多【おお】くの貴重【きちょう】な資料【しりょう】を所蔵【しょぞう】している。",
+    "meaning": "This museum houses many valuable materials related to Japanese traditional culture."
+  },
+  {
+    "sentence": "彼女は、古い歴史を学ぶことで、現代社会を理解しようとしている。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い歴史【れきし】を学【まな】ぶことで、現代社会【げんだいしゃかい】を理解【りかい】しようとしている。",
+    "meaning": "She is trying to understand modern society by studying ancient history."
+  },
+  {
+    "sentence": "この計画は、地域全体の活性化に貢献することを目的としている。",
+    "sentence_furigana": "この計画【けいかく】は、地域【ちいき】全体【ぜんたい】の活性化【かっせいか】に貢献【こうけん】することを目的【もくてき】としている。",
+    "meaning": "This plan aims to contribute to the revitalization of the entire region."
+  },
+  {
+    "sentence": "彼は、会議で出された様々な意見を総合し、最適な解決策を提案した。",
+    "sentence_furigana": "彼【かれ】は、会議【かいぎ】で出【だ】された様々【さまざま】な意見【いけん】を総合【そうごう】し、最適【さいてき】な解決策【かいけつさく】を提案【ていあん】した。",
+    "meaning": "He synthesized the various opinions expressed at the meeting and proposed the optimal solution."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの成長の過程を描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の成長【せいちょう】の過程【かてい】を描【か】いている。",
+    "meaning": "This novel depicts the process of the characters' growth."
+  },
+  {
+    "sentence": "彼は、収集した情報を整理し、論文を作成する準備を進めている。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】し、論文【ろんぶん】を作成【さくせい】する準備【じゅんび】を進【すす】めている。",
+    "meaning": "He is organizing the collected information and preparing to write a paper."
+  },
+  {
+    "sentence": "この博物館は、古代文明に関する多くの遺物を所蔵している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、古代文明【こだいぶんめい】に関する多【おお】くの遺物【いぶつ】を所蔵【しょぞう】している。",
+    "meaning": "This museum houses many artifacts related to ancient civilizations."
+  },
+  {
+    "sentence": "彼女は、古い文献を整理し、新たな研究テーマを見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い文献【ぶんけん】を整理【せいり】し、新【あら】たな研究テーマ【けんきゅうテーマ】を見【み】つけた。",
+    "meaning": "She organized old documents and found a new research topic."
+  },
+  {
+    "sentence": "この計画は、国際社会全体の調和を促進することを目的としている。",
+    "sentence_furigana": "この計画【けいかく】は、国際社会【こくさいしゃかい】全体【ぜんたい】の調和【ちょうわ】を促進【そくしん】することを目的【もくてき】としている。",
+    "meaning": "This plan aims to promote harmony in the international community as a whole."
+  },
+  {
+    "sentence": "彼は、会議で出された様々な意見を統合し、行動計画を策定した。",
+    "sentence_furigana": "彼【かれ】は、会議【かいぎ】で出【だ】された様々【さまざま】な意見【いけん】を統合【とうごう】し、行動計画【こうどうけいかく】を策定【さくてい】した。",
+    "meaning": "He integrated the various opinions expressed at the meeting and formulated an action plan."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの人間関係の複雑さを描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の人間関係【にんげんかんけい】の複雑【ふくざつ】さを描【か】いている。",
+    "meaning": "This novel depicts the complexity of the relationships between the characters."
+  },
+  {
+    "sentence": "彼は、収集した情報を整理し、発表の準備を完了した。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】し、発表【はっぴょう】の準備【じゅんび】を完了【かんりょう】した。",
+    "meaning": "He organized the collected information and completed the preparations for the presentation."
+  },
+  {
+    "sentence": "この博物館は、世界中の民族衣装を幅広く収集している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、世界中【せかいじゅう】の民族衣装【みんぞくいしょう】を幅広【はばひろ】く収集【しゅうしゅう】している。",
+    "meaning": "This museum extensively collects ethnic costumes from all over the world."
+  },
+  {
+    "sentence": "彼女は、古い書物から多くのことを学び、自身の考えを深めている。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い書物【しょもつ】から多【おお】くのこと​​を学【まな】び、自身【じしん】の考【かんが】えを深【ふか】めている。",
+    "meaning": "She learns a lot from old books and deepens her own thoughts."
+  },
+  {
+    "sentence": "この計画は、地域全体の課題解決に貢献することを目的としている。",
+    "sentence_furigana": "この計画【けいかく】は、地域【ちいき】全体【ぜんたい】の課題解決【かだいかいけつ】に貢献【こうけん】することを目的【もくてき】としている。",
+    "meaning": "This plan aims to contribute to solving the challenges of the entire region."
+  },
+  {
+    "sentence": "彼は、会議で出された様々な意見を総合し、実行可能な計画を立案した。",
+    "sentence_furigana": "彼【かれ】は、会議【かいぎ】で出【だ】された様々【さまざま】な意見【いけん】を総合【そうごう】し、実行可能【じっこうかのう】な計画【けいかく】を立案【りつあん】した。",
+    "meaning": "He synthesized the various opinions expressed at the meeting and drafted a feasible plan."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの心情の変化を丁寧に描いている。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の心情【しんじょう】の変化【へんか】を丁寧【ていねい】に描【か】いている。",
+    "meaning": "This novel carefully depicts the changes in the characters' feelings."
+  },
+  {
+    "sentence": "彼は、収集した情報を整理し、最終的な報告書をまとめあげた。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】し、最終的【さいしゅうてき】な報告書【ほうこくしょ】をまとめあげた。",
+    "meaning": "He organized the collected information and compiled the final report."
+  },
+  {
+    "sentence": "この博物館は、世界中の楽器を幅広く収集している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、世界中【せかいじゅう】の楽器【がっき】を幅広【はばひろ】く収集【しゅうしゅう】している。",
+    "meaning": "This museum extensively collects musical instruments from all over the world."
+  },
+  {
+    "sentence": "彼女は、古い書物から多くのインスピレーションを得て、自身の創作活動に活かしている。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い書物【しょもつ】から多【おお】くのインスピレーションを得【え】て、自身【じしん】の創作活動【そうさくかつどう】に活【い】かしている。",
+    "meaning": "She gains much inspiration from old books and utilizes it in her creative activities."
+  },
+  {
+    "sentence": "この計画は、地域全体の安全確保に貢献することを目的としている。",
+    "sentence_furigana": "この計画【けいかく】は、地域【ちいき】全体【ぜんたい】の安全確保【あんぜんかくほ】に貢献【こうけん】することを目的【もくてき】としている。",
+    "meaning": "This plan aims to contribute to ensuring the safety of the entire region."
+  },
+  {
+    "sentence": "彼は、会議で出された様々な意見を統合し、プロジェクトの成功に向けた戦略を練った。",
+    "sentence_furigana": "彼【かれ】は、会議【かいぎ】で出【だ】された様々【さまざま】な意見【いけん】を統合【とうごう】し、プロジェクト​​の成功【せいこう】に向け【む】けた戦略【せんりゃく】を練【ね】った。",
+    "meaning": "He integrated the various opinions expressed at the meeting and devised a strategy for the project's success."
+  },
+  {
+    "sentence": "この小説は、登場人物たちの人間的な魅力を描き出している。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】たち​​の人間的【にんげんてき】な魅力【みりょく】を描【か】き出【だ】している。",
+    "meaning": "This novel portrays the human charm of its characters."
+  },
+  {
+    "sentence": "彼は、収集した情報を整理し、プレゼンテーション資料を作成した。",
+    "sentence_furigana": "彼【かれ】は、収集【しゅうしゅう】した情報【じょうほう】を整理【せいり】し、プレゼンテーション資料【プレゼンテーションしりょう】を作成【さくせい】した。",
+    "meaning": "He organized the collected information and created presentation materials."
+  },
+  {
+    "sentence": "この博物館は、世界中の民俗資料を幅広く収集している。",
+    "sentence_furigana": "この博物館【はくぶつかん】は、世界中【せかいじゅう】の民俗資料【みんぞくしりょう】を幅広【はばひろ】く収集【しゅうしゅう】している。",
+    "meaning": "This museum extensively collects folk materials from all over the world."
+  },
+  {
+    "sentence": "彼女は、古い書物を整理し、貴重な歴史的資料として保存した。",
+    "sentence_furigana": "彼女【かのじょ】は、古【ふる】い書物【しょもつ】を整理【せいり】し、貴重【きちょう】な歴史的資料【れきしてきしりょう】として保存【ほぞん】した。",
+    "meaning": "She organized old books and preserved them as valuable historical materials."
+  }
+]

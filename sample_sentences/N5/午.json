@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "正午に昼食をとります。",
+    "sentence_furigana": "正午【しょうご】に昼食【ちゅうしょく】をとります。",
+    "meaning": "I will have lunch at noon."
+  },
+  {
+    "sentence": "午前の会議は延期されました。",
+    "sentence_furigana": "午前【ごぜん】の会議【かいぎ】は延期【えんき】されました。",
+    "meaning": "The morning meeting was postponed."
+  },
+  {
+    "sentence": "午後の予定を確認します。",
+    "sentence_furigana": "午後【ごご】の予定【よてい】を確認【かくにん】します。",
+    "meaning": "I will check the afternoon schedule."
+  },
+  {
+    "sentence": "この時間は午前に当たります。",
+    "sentence_furigana": "この時間【じかん】は午前【ごぜん】に当【あ】たります。",
+    "meaning": "This time falls in the morning."
+  },
+  {
+    "sentence": "午後の遅い時間に到着しました。",
+    "sentence_furigana": "午後【ごご】の遅【おそ】い時間【じかん】に到着【とうちゃく】しました。",
+    "meaning": "I arrived in the late afternoon."
+  },
+  {
+    "sentence": "午前に出発し、午後に到着する予定です。",
+    "sentence_furigana": "午前【ごぜん】に出発【しゅっぱつ】し、午後【ごご】に到着【とうちゃく】する予定【よてい】です。",
+    "meaning": "I plan to depart in the morning and arrive in the afternoon."
+  },
+  {
+    "sentence": "正午過ぎに休憩を取ります。",
+    "sentence_furigana": "正午【しょうご】過【す】ぎに休憩【きゅうけい】を取【と】ります。",
+    "meaning": "I will take a break after noon."
+  },
+  {
+    "sentence": "午後の日差しが強くなってきた。",
+    "sentence_furigana": "午後【ごご】の日差【ひざ】しが強【つよ】くなってきた。",
+    "meaning": "The afternoon sun has become stronger."
+  },
+  {
+    "sentence": "午餐は午前11時頃に食べます。",
+    "sentence_furigana": "午餐【ごさん】は午前【ごぜん】11時【じ】頃【ごろ】に食【た】べます。",
+    "meaning": "I eat lunch around 11 AM."
+  },
+  {
+    "sentence": "午後のティータイムを楽しんでいます。",
+    "sentence_furigana": "午後【ごご】のティータイムを楽し【たの】しんでいます。",
+    "meaning": "I am enjoying my afternoon tea time."
+  },
+  {
+    "sentence": "午前の仕事は順調に進んでいます。",
+    "sentence_furigana": "午前【ごぜん】の仕事【しごと】は順調【じゅんちょう】に進【すす】んでいます。",
+    "meaning": "The morning work is progressing smoothly."
+  },
+  {
+    "sentence": "午後のドライブは気持ちがいいです。",
+    "sentence_furigana": "午後【ごご】のドライブは気持【きも】ちがいいです。",
+    "meaning": "Afternoon drives are pleasant."
+  },
+  {
+    "sentence": "正午は一番日が高い時間です。",
+    "sentence_furigana": "正午【しょうご】は一番日【いちばんひ】が高【たか】い時間【じかん】です。",
+    "meaning": "Noon is the time when the sun is highest."
+  },
+  {
+    "sentence": "午後の集まりは３時からです。",
+    "sentence_furigana": "午後【ごご】の集【あつ】まりは３時【じ】からです。",
+    "meaning": "The afternoon gathering starts at 3 o'clock."
+  },
+  {
+    "sentence": "午前の部はこれで終了です。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】はこれで終了【しゅうりょう】です。",
+    "meaning": "The morning session concludes here."
+  },
+  {
+    "sentence": "午後のニュースをチェックします。",
+    "sentence_furigana": "午後【ごご】のニュースをチェックします。",
+    "meaning": "I will check the afternoon news."
+  },
+  {
+    "sentence": "午後の３時間でこのレポートを完成させる必要があります。",
+    "sentence_furigana": "午後【ごご】の３時間【じかん】でこのレポートを完成【かんせい】させる必要【ひつよう】があります。",
+    "meaning": "I need to complete this report in the afternoon's three hours."
+  },
+  {
+    "sentence": "午後の訪問はキャンセルされました。",
+    "sentence_furigana": "午後【ごご】の訪問【ほうもん】はキャンセルされました。",
+    "meaning": "The afternoon visit was canceled."
+  },
+  {
+    "sentence": "午前の運動で汗をかきました。",
+    "sentence_furigana": "午前【ごぜん】の運動【うんどう】で汗【あせ】をかきました。",
+    "meaning": "I sweated during the morning exercise."
+  },
+  {
+    "sentence": "午後の天気が心配です。",
+    "sentence_furigana": "午後【ごご】の天気【てんき】が心配【しんぱい】です。",
+    "meaning": "I am worried about the afternoon weather."
+  },
+  {
+    "sentence": "午前に予約しました。",
+    "sentence_furigana": "午前【ごぜん】に予約【よやく】しました。",
+    "meaning": "I made a reservation in the morning."
+  },
+  {
+    "sentence": "午後の時間は自由に使ってください。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】は自由【じゆう】に使【つか】ってください。",
+    "meaning": "Please use the afternoon time freely."
+  },
+  {
+    "sentence": "正午の鐘が鳴り響く。",
+    "sentence_furigana": "正午【しょうご】の鐘【かね】が鳴【な】り響【ひび】く。",
+    "meaning": "The noon bell rings out."
+  },
+  {
+    "sentence": "午後の授業は１時から始まります。",
+    "sentence_furigana": "午後【ごご】の授業【じゅぎょう】は１時【じ】から始【はじ】まります。",
+    "meaning": "The afternoon class starts at 1 o'clock."
+  },
+  {
+    "sentence": "午前の部は盛況でした。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】は盛況【せいきょう】でした。",
+    "meaning": "The morning session was a great success."
+  },
+  {
+    "sentence": "午後の遅い時間に食事をとりました。",
+    "sentence_furigana": "午後【ごご】の遅【おそ】い時間【じかん】に食事【しょくじ】をとりました。",
+    "meaning": "I had a meal in the late afternoon."
+  },
+  {
+    "sentence": "午前の予定は全て完了しました。",
+    "sentence_furigana": "午前【ごぜん】の予定【よてい】は全【すべ】て完了【かんりょう】しました。",
+    "meaning": "All morning appointments have been completed."
+  },
+  {
+    "sentence": "午後の気温が上がってきました。",
+    "sentence_furigana": "午後【ごご】の気温【きおん】が上【あ】がってきました。",
+    "meaning": "The afternoon temperature has risen."
+  },
+  {
+    "sentence": "午前に会議が終わり、午後に移動しました。",
+    "sentence_furigana": "午前【ごぜん】に会議【かいぎ】が終【お】わり、午後【ごご】に移動【いどう】しました。",
+    "meaning": "The morning meeting ended, and I moved in the afternoon."
+  },
+  {
+    "sentence": "午後の講義は興味深かったです。",
+    "sentence_furigana": "午後【ごご】の講義【こうぎ】は興味深【きょうみぶか】かったです。",
+    "meaning": "The afternoon lecture was interesting."
+  },
+  {
+    "sentence": "正午にランチタイムが始まります。",
+    "sentence_furigana": "正午【しょうご】にランチタイムが始【はじ】まります。",
+    "meaning": "Lunchtime starts at noon."
+  },
+  {
+    "sentence": "午後の計画について話し合いました。",
+    "sentence_furigana": "午後【ごご】の計画【けいかく】について話【はな】し合【あ】いました。",
+    "meaning": "We discussed the afternoon plan."
+  },
+  {
+    "sentence": "午前の静けさは午後の喧騒に変わる。",
+    "sentence_furigana": "午前【ごぜん】の静【しず】けさは午後【ごご】の喧騒【けんそう】に変【か】わる。",
+    "meaning": "The morning quiet turns into afternoon hustle."
+  },
+  {
+    "sentence": "午前のタスクを片付けます。",
+    "sentence_furigana": "午前【ごぜん】のタスクを片付【かたづ】けます。",
+    "meaning": "I will finish the morning tasks."
+  },
+  {
+    "sentence": "午後の時間を有効に使いたい。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】を有効【ゆうこう】に使【つか】いたい。",
+    "meaning": "I want to make good use of the afternoon time."
+  },
+  {
+    "sentence": "午前の報告会は無事に終了しました。",
+    "sentence_furigana": "午前【ごぜん】の報告会【ほうこくかい】は無事【ぶじ】に終了【しゅうりょう】しました。",
+    "meaning": "The morning briefing ended safely."
+  },
+  {
+    "sentence": "午後のイベントに向けて準備を進めています。",
+    "sentence_furigana": "午後【ごご】のイベントに向【む】けて準備【じゅんび】を進【すす】めています。",
+    "meaning": "We are preparing for the afternoon event."
+  },
+  {
+    "sentence": "正午頃に昼食を済ませました。",
+    "sentence_furigana": "正午【しょうご】頃【ごろ】に昼食【ちゅうしょく】を済【す】ませました。",
+    "meaning": "I finished lunch around noon."
+  },
+  {
+    "sentence": "午後のコーヒーブレークを楽しみにしています。",
+    "sentence_furigana": "午後【ごご】のコーヒーブレークを楽し【たの】しみにしています。",
+    "meaning": "I am looking forward to the afternoon coffee break."
+  },
+  {
+    "sentence": "午前の部は終了し、午後から次の段階に進みます。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】は終了【しゅうりょう】し、午後【ごご】から次【つぎ】の段階【だんかい】に進【すす】みます。",
+    "meaning": "The morning session is over, and we will proceed to the next stage from the afternoon."
+  },
+  {
+    "sentence": "午後の休憩は３０分間です。",
+    "sentence_furigana": "午後【ごご】の休憩【きゅうけい】は３０分間【ふんかん】です。",
+    "meaning": "The afternoon break is 30 minutes long."
+  },
+  {
+    "sentence": "午前の遅い時間にメールを送りました。",
+    "sentence_furigana": "午前【ごぜん】の遅【おそ】い時間【じかん】にメールを送【おく】りました。",
+    "meaning": "I sent an email in the late morning."
+  },
+  {
+    "sentence": "午後の予定は未定です。",
+    "sentence_furigana": "午後【ごご】の予定【よてい】は未定【みてい】です。",
+    "meaning": "The afternoon schedule is undecided."
+  },
+  {
+    "sentence": "正午から午後２時までが昼食時間です。",
+    "sentence_furigana": "正午【しょうご】から午後【ごご】２時【じ】までが昼食時間【ちゅうしょくじかん】です。",
+    "meaning": "From noon to 2 PM is lunchtime."
+  },
+  {
+    "sentence": "午後の光が部屋に差し込んできた。",
+    "sentence_furigana": "午後【ごご】の光【ひかり】が部屋【へや】に差【さ】し込【こ】んできた。",
+    "meaning": "The afternoon light shone into the room."
+  },
+  {
+    "sentence": "午前の作業を終えて、午後の会議の準備をします。",
+    "sentence_furigana": "午前【ごぜん】の作業【さぎょう】を終【お】えて、午後【ごご】の会議【かいぎ】の準備【じゅんび】をします。",
+    "meaning": "I will finish the morning work and prepare for the afternoon meeting."
+  },
+  {
+    "sentence": "午後の活動は自由時間となります。",
+    "sentence_furigana": "午後【ごご】の活動【かつどう】は自由時間【じゆうじかん】となります。",
+    "meaning": "The afternoon activities will be free time."
+  },
+  {
+    "sentence": "午前の遅れを取り戻すために、午後は急いで作業を進めます。",
+    "sentence_furigana": "午前【ごぜん】の遅【おく】れを取【と】り戻【もど】すために、午後【ごご】は急【いそ】いで作業【さぎょう】を進【すす】めます。",
+    "meaning": "To make up for the morning delay, I will hurry with the work in the afternoon."
+  },
+  {
+    "sentence": "午後の公園は人が少ない。",
+    "sentence_furigana": "午後【ごご】の公園【こうえん】は人【ひと】が少【すく】ない。",
+    "meaning": "There are few people in the park in the afternoon."
+  },
+  {
+    "sentence": "午前のうちに宿題を済ませました。",
+    "sentence_furigana": "午前【ごぜん】のうちに宿題【しゅくだい】を済【す】ませました。",
+    "meaning": "I finished my homework during the morning."
+  },
+  {
+    "sentence": "午後の電車は混雑していました。",
+    "sentence_furigana": "午後【ごご】の電車【でんしゃ】は混雑【こんざつ】していました。",
+    "meaning": "The afternoon train was crowded."
+  },
+  {
+    "sentence": "正午の休憩時間はリフレッシュに最適です。",
+    "sentence_furigana": "正午【しょうご】の休憩時間【きゅうけいじかん】はリフレッシュに最適【さいてき】です。",
+    "meaning": "The noon break time is perfect for refreshing."
+  },
+  {
+    "sentence": "午後の時間を有効活用してください。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】を有効活用【ゆうこうかつよう】してください。",
+    "meaning": "Please make good use of the afternoon time."
+  },
+  {
+    "sentence": "午前の授業はこれで終わりです。",
+    "sentence_furigana": "午前【ごぜん】の授業【じゅぎょう】はこれで終【お】わりです。",
+    "meaning": "The morning class ends here."
+  },
+  {
+    "sentence": "午後の風が心地よい。",
+    "sentence_furigana": "午後【ごご】の風【かぜ】が心地【ここち】よい。",
+    "meaning": "The afternoon breeze is pleasant."
+  },
+  {
+    "sentence": "午前の仕事が終わり次第、午後の予定に移ります。",
+    "sentence_furigana": "午前【ごぜん】の仕事【しごと】が終【お】わり次第【しだい】、午後【ごご】の予定【よてい】に移【うつ】ります。",
+    "meaning": "As soon as the morning work is finished, I will move on to the afternoon schedule."
+  },
+  {
+    "sentence": "午後の時間は自由に過ごせます。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】は自由【じゆう】に過【す】ごせます。",
+    "meaning": "You can spend the afternoon time freely."
+  },
+  {
+    "sentence": "午前に約束したことを覚えていますか。",
+    "sentence_furigana": "午前【ごぜん】に約束【やくそく】したことを覚【おぼ】えていますか。",
+    "meaning": "Do you remember what we promised in the morning?"
+  },
+  {
+    "sentence": "午後のイベントは雨天のため中止となりました。",
+    "sentence_furigana": "午後【ごご】のイベントは雨天【うてん】のため中止【ちゅうし】となりました。",
+    "meaning": "The afternoon event was canceled due to rain."
+  },
+  {
+    "sentence": "正午の鐘が聞こえる。",
+    "sentence_furigana": "正午【しょうご】の鐘【かね】が聞【き】こえる。",
+    "meaning": "The noon bell can be heard."
+  },
+  {
+    "sentence": "午後の遅い時間に連絡します。",
+    "sentence_furigana": "午後【ごご】の遅【おそ】い時間【じかん】に連絡【れんらく】します。",
+    "meaning": "I will contact you in the late afternoon."
+  },
+  {
+    "sentence": "午前の部はこれで終了し、休憩に入ります。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】はこれで終了【しゅうりょう】し、休憩【きゅうけい】に入【はい】ります。",
+    "meaning": "The morning session ends here and we will go into a break."
+  },
+  {
+    "sentence": "午後の気温は昨日より高いでしょう。",
+    "sentence_furigana": "午後【ごご】の気温【きおん】は昨日【きのう】より高【たか】いでしょう。",
+    "meaning": "The afternoon temperature will be higher than yesterday."
+  },
+  {
+    "sentence": "午前に予約していた診察をキャンセルしました。",
+    "sentence_furigana": "午前【ごぜん】に予約【よやく】していた診察【しんさつ】をキャンセルしました。",
+    "meaning": "I canceled the appointment I had made in the morning."
+  },
+  {
+    "sentence": "午後の会議は３時から開催されます。",
+    "sentence_furigana": "午後【ごご】の会議【かいぎ】は３時【じ】から開催【かいさい】されます。",
+    "meaning": "The afternoon meeting will be held from 3 o'clock."
+  },
+  {
+    "sentence": "正午を過ぎると、日差しが強くなる。",
+    "sentence_furigana": "正午【しょうご】を過【す】ぎると、日差【ひざ】しが強【つよ】くなる。",
+    "meaning": "After noon, the sunlight gets stronger."
+  },
+  {
+    "sentence": "午後の活動を計画しましょう。",
+    "sentence_furigana": "午後【ごご】の活動【かつどう】を計画【けいかく】しましょう。",
+    "meaning": "Let's plan the afternoon activities."
+  },
+  {
+    "sentence": "午前の仕事が終わったので、午後の仕事に取り掛かります。",
+    "sentence_furigana": "午前【ごぜん】の仕事【しごと】が終わ【お】わったので、午後【ごご】の仕事【しごと】に取り組【とりかか】ります。",
+    "meaning": "Since the morning work is finished, I will start the afternoon work."
+  },
+  {
+    "sentence": "午後の時間は自由に使える。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】は自由【じゆう】に使【つか】える。",
+    "meaning": "The afternoon time can be used freely."
+  },
+  {
+    "sentence": "午前の部は盛況のうちに幕を閉じました。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】は盛況【せいきょう】のうちに幕【まく】を閉【と】じました。",
+    "meaning": "The morning session closed with great success."
+  },
+  {
+    "sentence": "午後のコーヒーはいかがですか。",
+    "sentence_furigana": "午後【ごご】のコーヒーはいかがですか。",
+    "meaning": "Would you like some coffee in the afternoon?"
+  },
+  {
+    "sentence": "午前の予定をこなしてから、午後にゆっくりします。",
+    "sentence_furigana": "午前【ごぜん】の予定【よてい】をこなしてから、午後【ごご】にゆっくりします。",
+    "meaning": "After finishing the morning schedule, I will relax in the afternoon."
+  },
+  {
+    "sentence": "午後の日差しが眩しい。",
+    "sentence_furigana": "午後【ごご】の日差【ひざ】しが眩【まぶ】しい。",
+    "meaning": "The afternoon sun is dazzling."
+  },
+  {
+    "sentence": "午前の報告は以上です。",
+    "sentence_furigana": "午前【ごぜん】の報告【ほうこく】は以上【いじょう】です。",
+    "meaning": "That concludes the morning report."
+  },
+  {
+    "sentence": "午後の計画は変更される可能性があります。",
+    "sentence_furigana": "午後【ごご】の計画【けいかく】は変更【へんこう】される可能性【かのうせい】があります。",
+    "meaning": "The afternoon plan may be changed."
+  },
+  {
+    "sentence": "正午過ぎに昼食をとるのが習慣です。",
+    "sentence_furigana": "正午【しょうご】過【す】ぎに昼食【ちゅうしょく】をとるのが習慣【しゅうかん】です。",
+    "meaning": "It is my habit to have lunch after noon."
+  },
+  {
+    "sentence": "午後の時間帯に活動します。",
+    "sentence_furigana": "午後【ごご】の時間帯【じかんたい】に活動【かつどう】します。",
+    "meaning": "I will be active in the afternoon time slot."
+  },
+  {
+    "sentence": "午前の部の参加者は多く、午後の部はさらに増える見込みです。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】の参加者【さんかしゃ】は多【おお】く、午後【ごご】の部【ぶ】はさらに増【ふ】える見込【みこ】みです。",
+    "meaning": "The number of participants in the morning session was large, and the afternoon session is expected to increase further."
+  },
+  {
+    "sentence": "午後の時間を有効活用してください。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】を有効活用【ゆうこうかつよう】してください。",
+    "meaning": "Please make effective use of your afternoon."
+  },
+  {
+    "sentence": "午前の仕事は無事に終わりました。",
+    "sentence_furigana": "午前【ごぜん】の仕事【しごと】は無事【ぶじ】に終【お】わりました。",
+    "meaning": "The morning work finished without incident."
+  },
+  {
+    "sentence": "午後のスケジュールを確認します。",
+    "sentence_furigana": "午後【ごご】のスケジュールを確認【かくにん】します。",
+    "meaning": "I will check the afternoon schedule."
+  },
+  {
+    "sentence": "正午を過ぎると涼しくなります。",
+    "sentence_furigana": "正午【しょうご】を過【す】ぎると涼【すず】しくなります。",
+    "meaning": "It gets cooler after noon."
+  },
+  {
+    "sentence": "午後の時間を楽しんでいますか。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】を楽し【たの】しんでいますか。",
+    "meaning": "Are you enjoying your afternoon?"
+  },
+  {
+    "sentence": "午前の授業が終わり、午後は自由行動です。",
+    "sentence_furigana": "午前【ごぜん】の授業【じゅぎょう】が終【お】わり、午後【ごご】は自由行動【じゆうこうどう】です。",
+    "meaning": "The morning class is over, and the afternoon is free time."
+  },
+  {
+    "sentence": "午後の気温は穏やかでしょう。",
+    "sentence_furigana": "午後【ごご】の気温【きおん】は穏【おだ】やかでしょう。",
+    "meaning": "The afternoon temperature will likely be mild."
+  },
+  {
+    "sentence": "午前の部は終わり、午後からの部が始まります。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】は終【お】わり、午後【ごご】からの部【ぶ】が始【はじ】まります。",
+    "meaning": "The morning session is over, and the afternoon session will begin."
+  },
+  {
+    "sentence": "午後の日差しは暖かい。",
+    "sentence_furigana": "午後【ごご】の日差【ひざ】しは暖【あたた】かい。",
+    "meaning": "The afternoon sun is warm."
+  },
+  {
+    "sentence": "午前の仕事を終えて、午後の休息に入ります。",
+    "sentence_furigana": "午前【ごぜん】の仕事【しごと】を終【お】えて、午後【ごご】の休息【きゅうそく】に入【はい】ります。",
+    "meaning": "After finishing the morning work, I will take an afternoon rest."
+  },
+  {
+    "sentence": "午後の会議は予定通り開催されます。",
+    "sentence_furigana": "午後【ごご】の会議【かいぎ】は予定通【よていどお】り開催【かいさい】されます。",
+    "meaning": "The afternoon meeting will be held as scheduled."
+  },
+  {
+    "sentence": "正午には必ず連絡します。",
+    "sentence_furigana": "正午【しょうご】には必ず【かならず】連絡【れんらく】します。",
+    "meaning": "I will contact you by noon without fail."
+  },
+  {
+    "sentence": "午後のドライブに出かけました。",
+    "sentence_furigana": "午後【ごご】のドライブに出掛【でか】けました。",
+    "meaning": "I went out for an afternoon drive."
+  },
+  {
+    "sentence": "午前の部は予定通り進んでいます。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】は予定通【よていどお】り進【すす】んでいます。",
+    "meaning": "The morning session is proceeding as planned."
+  },
+  {
+    "sentence": "午後の時間は有効に使いましょう。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】は有効【ゆうこう】にを使【つか】いましょう。",
+    "meaning": "Let's use the afternoon time effectively."
+  },
+  {
+    "sentence": "午前の予定は終了しました。",
+    "sentence_furigana": "午前【ごぜん】の予定【よてい】は終了【しゅうりょう】しました。",
+    "meaning": "The morning schedule has ended."
+  },
+  {
+    "sentence": "午後の空は澄み渡っている。",
+    "sentence_furigana": "午後【ごご】の空【そら】は澄【す】み渡【わた】っている。",
+    "meaning": "The afternoon sky is clear."
+  },
+  {
+    "sentence": "午前の遅れを取り戻すため、午後は急ぎます。",
+    "sentence_furigana": "午前【ごぜん】の遅【おく】れを取【と】り戻【もど】すため、午後【ごご】は急【いそ】ぎます。",
+    "meaning": "To make up for the morning delay, I will hurry in the afternoon."
+  },
+  {
+    "sentence": "午後のティータイムはリラックスできる時間です。",
+    "sentence_furigana": "午後【ごご】のティータイムはリラックスできる時間【じかん】です。",
+    "meaning": "Afternoon tea time is a time to relax."
+  },
+  {
+    "sentence": "午前の会議は正午まで続きました。",
+    "sentence_furigana": "午前【ごぜん】の会議【かいぎ】は正午【しょうご】まで続【つづ】きました。",
+    "meaning": "The morning meeting lasted until noon."
+  },
+  {
+    "sentence": "午後の時間は自由に過ごしてください。",
+    "sentence_furigana": "午後【ごご】の時間【じかん】は自由【じゆう】に過【す】ごしてください。",
+    "meaning": "Please spend the afternoon as you wish."
+  },
+  {
+    "sentence": "午前の部は無事に終了しました。",
+    "sentence_furigana": "午前【ごぜん】の部【ぶ】は無事【ぶじ】に終了【しゅうりょう】しました。",
+    "meaning": "The morning session concluded without incident."
+  },
+  {
+    "sentence": "午後の気配が強まってきた。",
+    "sentence_furigana": "午後【ごご】の気配【けはい】が強【つよ】まってきた。",
+    "meaning": "The afternoon atmosphere has intensified."
+  },
+  {
+    "sentence": "午前に届いた荷物を午後に出荷します。",
+    "sentence_furigana": "午前【ごぜん】に届【とど】いた荷物【にもつ】を午後【ごご】に出荷【しゅっか】します。",
+    "meaning": "I will ship the luggage that arrived in the morning this afternoon."
+  },
+  {
+    "sentence": "午後の部は午後１時から始まります。",
+    "sentence_furigana": "午後【ごご】の部【ぶ】は午後【ごご】１時【じ】から始【はじ】まります。",
+    "meaning": "The afternoon session starts at 1 PM."
+  }
+]

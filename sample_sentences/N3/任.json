@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "彼はこのプロジェクトの責任者として任された。",
+    "sentence_furigana": "彼【かれ】はこのプロジェクトの責任者【せきにんしゃ】として任【まか】された。",
+    "meaning": "He was appointed as the person in charge of this project."
+  },
+  {
+    "sentence": "新しい任務を遂行するために、彼は全力を尽くした。",
+    "sentence_furigana": "新【あたら】しい任務【にんむ】を遂行【すいこう】するために、彼【かれ】は全【ぜん】力【りょく】を尽【つ】くした。",
+    "meaning": "He did his best to carry out the new mission."
+  },
+  {
+    "sentence": "彼女は重要な仕事を任された。",
+    "sentence_furigana": "彼女【かのじょ】は重要【じゅうよう】な仕事【しごと】を任【まか】された。",
+    "meaning": "She was entrusted with an important job."
+  },
+  {
+    "sentence": "その任期は来年で終了する。",
+    "sentence_furigana": "その任期【にんき】は来年【らいねん】で終了【しゅうりょう】する。",
+    "meaning": "The term of office will end next year."
+  },
+  {
+    "sentence": "彼は委員会の委員長に任命された。",
+    "sentence_furigana": "彼【かれ】は委員会【いいんかい】の委員長【いいんちょう】に任命【にんめい】された。",
+    "meaning": "He was appointed chairman of the committee."
+  },
+  {
+    "sentence": "この仕事は君に任せよう。",
+    "sentence_furigana": "この仕事【しごと】は君【きみ】に任【まか】せよう。",
+    "meaning": "I will entrust this work to you."
+  },
+  {
+    "sentence": "無理な任務は受けられない。",
+    "sentence_furigana": "無理【むり】な任務【にんむ】は受【う】けられない。",
+    "meaning": "I cannot accept an unreasonable mission."
+  },
+  {
+    "sentence": "彼はその任務を果たすために努力した。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を果【は】たすために努力【どりょく】した。",
+    "meaning": "He worked hard to fulfill that mission."
+  },
+  {
+    "sentence": "大統領の任期は4年です。",
+    "sentence_furigana": "大統領【だいとうりょう】の任期【にんき】は4年【よねん】です。",
+    "meaning": "The presidential term is four years."
+  },
+  {
+    "sentence": "秘書には多くの責任が任されている。",
+    "sentence_furigana": "秘書【ひしょ】には多【おお】くの責任【せきにん】が任【まか】されている。",
+    "meaning": "The secretary is entrusted with many responsibilities."
+  },
+  {
+    "sentence": "彼は重要な役職を任された。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な役職【やくしょく】を任【まか】された。",
+    "meaning": "He was assigned an important post."
+  },
+  {
+    "sentence": "任務を完了するまで、ここを離れることはできない。",
+    "sentence_furigana": "任務【にんむ】を完了【かんりょう】するまで、ここを離【はな】れることはできない。",
+    "meaning": "I cannot leave here until the mission is completed."
+  },
+  {
+    "sentence": "彼女は新しい部署のリーダーに任命された。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい部署【ぶしょ】のリーダーに任命【にんめい】された。",
+    "meaning": "She was appointed leader of the new department."
+  },
+  {
+    "sentence": "その仕事は彼に任せるのが一番だ。",
+    "sentence_furigana": "その仕事【しごと】は彼【かれ】に任【まか】せるのが一番【いちばん】だ。",
+    "meaning": "It's best to leave that job to him."
+  },
+  {
+    "sentence": "彼は過去に数々の任務を経験してきた。",
+    "sentence_furigana": "彼【かれ】は過去【かこ】に数々【かずかず】の任務【にんむ】を経験【けいけん】してきた。",
+    "meaning": "He has experienced many missions in the past."
+  },
+  {
+    "sentence": "新しい任期が始まる。",
+    "sentence_furigana": "新【あたら】しい任期【にんき】が始【はじ】まる。",
+    "meaning": "A new term begins."
+  },
+  {
+    "sentence": "その責任は私が引き受けます。",
+    "sentence_furigana": "その責任【せきにん】は私【わたし】が引【ひ】き受【う】けます。",
+    "meaning": "I will take on that responsibility."
+  },
+  {
+    "sentence": "彼は困難な任務を遂行した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な任務【にんむ】を遂行【すいこう】した。",
+    "meaning": "He carried out a difficult mission."
+  },
+  {
+    "sentence": "この件は君に一任します。",
+    "sentence_furigana": "この件【けん】は君【きみ】に一任【いちにん】します。",
+    "meaning": "I will leave this matter entirely to you."
+  },
+  {
+    "sentence": "彼は大使に任命された。",
+    "sentence_furigana": "彼【かれ】は大使【たいし】に任命【にんめい】された。",
+    "meaning": "He was appointed ambassador."
+  },
+  {
+    "sentence": "その任務は危険を伴う。",
+    "sentence_furigana": "その任務【にんむ】は危険【きけん】を伴【ともな】う。",
+    "meaning": "That mission involves danger."
+  },
+  {
+    "sentence": "彼の任期中に多くの改革が行われた。",
+    "sentence_furigana": "彼【かれ】の任期【にんき】中【ちゅう】に多【おお】くの改革【かいかく】が行【おこな】われた。",
+    "meaning": "Many reforms were carried out during his term."
+  },
+  {
+    "sentence": "この仕事は彼に任せるべきだ。",
+    "sentence_furigana": "この仕事【しごと】は彼【かれ】に任【まか】せるべきだ。",
+    "meaning": "This job should be entrusted to him."
+  },
+  {
+    "sentence": "重要な任務を果たす。",
+    "sentence_furigana": "重要【じゅうよう】な任務【にんむ】を果【は】たす。",
+    "meaning": "To fulfill an important mission."
+  },
+  {
+    "sentence": "彼は会議の議長に任命された。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の議長【ぎちょう】に任命【にんめい】された。",
+    "meaning": "He was appointed chairman of the meeting."
+  },
+  {
+    "sentence": "その任務の遂行は成功した。",
+    "sentence_furigana": "その任務【にんむ】の遂行【すいこう】は成功【せいこう】した。",
+    "meaning": "The execution of the mission was successful."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトリーダーに任命された。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいプロジェクトリーダーに任命【にんめい】された。",
+    "meaning": "She was appointed the new project leader."
+  },
+  {
+    "sentence": "この責任を他に転嫁することはできない。",
+    "sentence_furigana": "この責任【せきにん】を他【た】に転嫁【てんか】することはできない。",
+    "meaning": "This responsibility cannot be transferred to others."
+  },
+  {
+    "sentence": "彼は将来の任務に備えている。",
+    "sentence_furigana": "彼【かれ】は将来【しょうらい】の任務【にんむ】に備【そな】えている。",
+    "meaning": "He is preparing for future missions."
+  },
+  {
+    "sentence": "その任は彼に与えられた。",
+    "sentence_furigana": "その任【じん】は彼【かれ】に与【あた】えられた。",
+    "meaning": "That duty was given to him."
+  },
+  {
+    "sentence": "彼は大学の教授に任命された。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】の教授【きょうじゅ】に任命【にんめい】された。",
+    "meaning": "He was appointed a university professor."
+  },
+  {
+    "sentence": "彼はその任務を忠実に果たした。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を忠実【ちゅうじつ】に果【は】たした。",
+    "meaning": "He faithfully carried out the mission."
+  },
+  {
+    "sentence": "彼女は市長に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は市長【しちょう】に任命【にんめい】された。",
+    "meaning": "She was appointed mayor."
+  },
+  {
+    "sentence": "この任務は非常に重要である。",
+    "sentence_furigana": "この任務【にんむ】は非常【ひじょう】に重要【じゅうよう】である。",
+    "meaning": "This mission is extremely important."
+  },
+  {
+    "sentence": "彼女は重要な責任を担っている。",
+    "sentence_furigana": "彼女【かのじょ】は重要【じゅうよう】な責任【せきにん】を担【にな】っている。",
+    "meaning": "She bears important responsibilities."
+  },
+  {
+    "sentence": "彼は調査委員会の委員長に任命された。",
+    "sentence_furigana": "彼【かれ】は調査委員会【ちょうさいいんかい】の委員長【いいんちょう】に任命【にんめい】された。",
+    "meaning": "He was appointed chairman of the investigation committee."
+  },
+  {
+    "sentence": "その任期は延長されないだろう。",
+    "sentence_furigana": "その任期【にんき】は延長【えんちょう】されないだろう。",
+    "meaning": "The term will likely not be extended."
+  },
+  {
+    "sentence": "彼は困難な任務を任された。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な任務【にんむ】を任【まか】された。",
+    "meaning": "He was assigned a difficult mission."
+  },
+  {
+    "sentence": "その任務を遂行するために、彼は訓練を受けた。",
+    "sentence_furigana": "その任務【にんむ】を遂行【すいこう】するために、彼【かれ】は訓練【くんれん】を受【う】けた。",
+    "meaning": "He underwent training to carry out the mission."
+  },
+  {
+    "sentence": "彼女はチームのリーダーに任命された。",
+    "sentence_furigana": "彼女【かのじょ】はチームのリーダーに任命【にんめい】された。",
+    "meaning": "She was appointed leader of the team."
+  },
+  {
+    "sentence": "彼の任期は無事に終了した。",
+    "sentence_furigana": "彼【かれ】の任期【にんき】は無事【ぶじ】に終了【しゅうりょう】した。",
+    "meaning": "His term ended safely."
+  },
+  {
+    "sentence": "この責任は私に任せてください。",
+    "sentence_furigana": "この責任【せきにん】は私【わたし】に任【まか】せてください。",
+    "meaning": "Please leave this responsibility to me."
+  },
+  {
+    "sentence": "彼は特殊任務の担当者に任命された。",
+    "sentence_furigana": "彼【かれ】は特殊任務【とくしゅにんむ】の担当者【たんとうしゃ】に任命【にんめい】された。",
+    "meaning": "He was appointed the person in charge of the special mission."
+  },
+  {
+    "sentence": "任務完了の報告。",
+    "sentence_furigana": "任務完了【にんむかんりょう】の報告【ほうこく】。",
+    "meaning": "Report of mission completion."
+  },
+  {
+    "sentence": "彼女は新たな責任を負うことになった。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】たな責任【せきにん】を負【お】うことになった。",
+    "meaning": "She came to bear new responsibilities."
+  },
+  {
+    "sentence": "彼は次期首相に任命されるだろう。",
+    "sentence_furigana": "彼【かれ】は次期首相【じきしゅしょう】に任命【にんめい】されるだろう。",
+    "meaning": "He will likely be appointed the next prime minister."
+  },
+  {
+    "sentence": "その任務は非常に困難だった。",
+    "sentence_furigana": "その任務【にんむ】は非常【ひじょう】に困難【こんなん】だった。",
+    "meaning": "The mission was very difficult."
+  },
+  {
+    "sentence": "私は彼に全てを任せた。",
+    "sentence_furigana": "私【わたし】は彼【かれ】に全【すべ】てを任【まか】せた。",
+    "meaning": "I entrusted everything to him."
+  },
+  {
+    "sentence": "新しい任務が彼に与えられた。",
+    "sentence_furigana": "新【あたら】しい任務【にんむ】が彼【かれ】に与【あた】えられた。",
+    "meaning": "A new mission was given to him."
+  },
+  {
+    "sentence": "彼女は国の代表として任命された。",
+    "sentence_furigana": "彼女【かのじょ】は国【くに】の代表【だいひょう】として任命【にんめい】された。",
+    "meaning": "She was appointed as a representative of the country."
+  },
+  {
+    "sentence": "その任期は５年間です。",
+    "sentence_furigana": "その任期【にんき】は５年間【ごねんかん】です。",
+    "meaning": "The term of office is five years."
+  },
+  {
+    "sentence": "彼は困難な状況下で任務を遂行した。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況下【じょうきょうか】で任務【にんむ】を遂行【すいこう】した。",
+    "meaning": "He carried out the mission under difficult circumstances."
+  },
+  {
+    "sentence": "この仕事は君に任せます。",
+    "sentence_furigana": "この仕事【しごと】は君【きみ】に任【まか】せます。",
+    "meaning": "I will entrust this job to you."
+  },
+  {
+    "sentence": "彼はその任務の重要性を理解していた。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】の重要性【じゅうようせい】を理解【りかい】していた。",
+    "meaning": "He understood the importance of the mission."
+  },
+  {
+    "sentence": "彼女は後任者にその職務を任せた。",
+    "sentence_furigana": "彼女【かのじょ】は後任者【こうにんしゃ】にその職務【しょくむ】を任【まか】せた。",
+    "meaning": "She handed over her duties to her successor."
+  },
+  {
+    "sentence": "彼は軍の最高司令官に任命された。",
+    "sentence_furigana": "彼【かれ】は軍【ぐん】の最高司令官【さいこうしれいかん】に任命【にんめい】された。",
+    "meaning": "He was appointed supreme commander of the army."
+  },
+  {
+    "sentence": "その任務は成功裏に終わった。",
+    "sentence_furigana": "その任務【にんむ】は成功裏【せいこうり】に終【お】わった。",
+    "meaning": "The mission ended successfully."
+  },
+  {
+    "sentence": "彼の任期中の功績は大きい。",
+    "sentence_furigana": "彼【かれ】の任期【にんき】中【ちゅう】の功績【こうせき】は დიდ.",
+    "meaning": "His achievements during his term are great."
+  },
+  {
+    "sentence": "このプロジェクトは私が引き継ぎます。",
+    "sentence_furigana": "このプロジェクトは私【わたし】が引【ひ】き継【つ】ぎます。",
+    "meaning": "I will take over this project."
+  },
+  {
+    "sentence": "彼は特命大使に任命された。",
+    "sentence_furigana": "彼【かれ】は特命大使【とくめいたいし】に任命【にんめい】された。",
+    "meaning": "He was appointed special envoy."
+  },
+  {
+    "sentence": "任務の遂行には細心の注意が必要だ。",
+    "sentence_furigana": "任務【にんむ】の遂行【すいこう】には細心【さいしん】の注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "The execution of the mission requires utmost care."
+  },
+  {
+    "sentence": "彼女は副社長に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は副社長【ふくしゃちょう】に任命【にんめい】された。",
+    "meaning": "She was appointed vice president."
+  },
+  {
+    "sentence": "彼はその責任を免れなかった。",
+    "sentence_furigana": "彼【かれ】はその責任【せきにん】を免【まぬが】れなかった。",
+    "meaning": "He could not escape that responsibility."
+  },
+  {
+    "sentence": "この任務は非常に重要です。",
+    "sentence_furigana": "この任務【にんむ】は非常【ひじょう】に重要【じゅうよう】です。",
+    "meaning": "This mission is very important."
+  },
+  {
+    "sentence": "彼は信頼できる人物に仕事を任せた。",
+    "sentence_furigana": "彼【かれ】は信頼【しんらい】できる人物【じんぶつ】に仕事【しごと】を任【まか】せた。",
+    "meaning": "He entrusted the work to a reliable person."
+  },
+  {
+    "sentence": "彼女は新たな任務を遂行するために出発した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】たな任務【にんむ】を遂行【すいこう】するために出発【しゅっぱつ】した。",
+    "meaning": "She departed to carry out the new mission."
+  },
+  {
+    "sentence": "彼の任期は満了した。",
+    "sentence_furigana": "彼【かれ】の任期【にんき】は満了【まんりょう】した。",
+    "meaning": "His term of office has expired."
+  },
+  {
+    "sentence": "その責任は大きい。",
+    "sentence_furigana": "その責任【せきにん】は დიდ.",
+    "meaning": "The responsibility is great."
+  },
+  {
+    "sentence": "彼はその任務を成功裏に完了した。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を成功裏【せいこうり】に完了【かんりょう】した。",
+    "meaning": "He successfully completed the mission."
+  },
+  {
+    "sentence": "彼女は国家の重要な任務に就いた。",
+    "sentence_furigana": "彼女【かのじょ】は国家【こっか】の重要【じゅうよう】な任務【にんむ】に就【つ】いた。",
+    "meaning": "She took on an important mission for the country."
+  },
+  {
+    "sentence": "彼はその職務を後任者に任せた。",
+    "sentence_furigana": "彼【かれ】はその職務【しょくむ】を後任者【こうにんしゃ】に任【まか】せた。",
+    "meaning": "He handed over the position to his successor."
+  },
+  {
+    "sentence": "その任務の遂行は困難を極めた。",
+    "sentence_furigana": "その任務【にんむ】の遂行【すいこう】は困難【こんなん】を極【きわ】めた。",
+    "meaning": "The execution of the mission was extremely difficult."
+  },
+  {
+    "sentence": "彼女は会議の議長に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は会議【かいぎ】の議長【ぎちょう】に任命【にんめい】された。",
+    "meaning": "She was appointed chairperson of the meeting."
+  },
+  {
+    "sentence": "彼は新たな任務を任された。",
+    "sentence_furigana": "彼【かれ】は新【あたら】たな任務【にんむ】を任【まか】された。",
+    "meaning": "He was assigned a new mission."
+  },
+  {
+    "sentence": "その任期は二年である。",
+    "sentence_furigana": "その任期【にんき】は二年【ねん】である。",
+    "meaning": "The term of office is two years."
+  },
+  {
+    "sentence": "彼はその責任を果たすべく努力した。",
+    "sentence_furigana": "彼【かれ】はその責任【せきにん】を果【は】たすべく努力【どりょく】した。",
+    "meaning": "He strove to fulfill that responsibility."
+  },
+  {
+    "sentence": "彼女はチームのリーダーに任命された。",
+    "sentence_furigana": "彼女【かのじょ】はチームのリーダーに任命【にんめい】された。",
+    "meaning": "She was appointed team leader."
+  },
+  {
+    "sentence": "この件は君に一任します。",
+    "sentence_furigana": "この件【けん】は君【きみ】に一任【いちにん】します。",
+    "meaning": "I leave this matter to you."
+  },
+  {
+    "sentence": "彼は重要な任務を遂行した。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な任務【にんむ】を遂行【すいこう】した。",
+    "meaning": "He carried out an important mission."
+  },
+  {
+    "sentence": "彼女は新しい役職に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい役職【やくしょく】に任命【にんめい】された。",
+    "meaning": "She was appointed to a new position."
+  },
+  {
+    "sentence": "その任務は成功を収めた。",
+    "sentence_furigana": "その任務【にんむ】は成功【せいこう】を収【おさ】めた。",
+    "meaning": "The mission achieved success."
+  },
+  {
+    "sentence": "彼はその任務を遂行する資格がある。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を遂行【すいこう】する資格【しかく】がある。",
+    "meaning": "He is qualified to carry out the mission."
+  },
+  {
+    "sentence": "彼女は国の代表に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は国【くに】の代表【だいひょう】に任命【にんめい】された。",
+    "meaning": "She was appointed as the nation's representative."
+  },
+  {
+    "sentence": "その任期は来月で終わる。",
+    "sentence_furigana": "その任期【にんき】は来月【らいげつ】で終【お】わる。",
+    "meaning": "The term of office ends next month."
+  },
+  {
+    "sentence": "彼は難しい任務を任された。",
+    "sentence_furigana": "彼【かれ】は難【むずか】しい任務【にんむ】を任【まか】された。",
+    "meaning": "He was given a difficult mission."
+  },
+  {
+    "sentence": "彼女は新しいプロジェクトのリーダーに任命された。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しいプロジェクトのリーダーに任命【にんめい】された。",
+    "meaning": "She was appointed leader of the new project."
+  },
+  {
+    "sentence": "この責任は私にあります。",
+    "sentence_furigana": "この責任【せきにん】は私【わたし】にあります。",
+    "meaning": "This responsibility lies with me."
+  },
+  {
+    "sentence": "彼はその任務を果たすために全力を尽くした。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を果【は】たすために全【ぜん】力【りょく】を尽【つ】くした。",
+    "meaning": "He did his utmost to fulfill the mission."
+  },
+  {
+    "sentence": "彼女は大臣に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は大臣【だいじん】に任命【にんめい】された。",
+    "meaning": "She was appointed minister."
+  },
+  {
+    "sentence": "その任務は成功しました。",
+    "sentence_furigana": "その任務【にんむ】は成功【せいこう】しました。",
+    "meaning": "The mission was successful."
+  },
+  {
+    "sentence": "彼はその任務の遂行に全力を注いだ。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】の遂行【すいこう】に全【ぜん】力【りょく】を注【そそ】いだ。",
+    "meaning": "He devoted all his energy to carrying out the mission."
+  },
+  {
+    "sentence": "彼女は重要な責任を担っている。",
+    "sentence_furigana": "彼女【かのじょ】は重要【じゅうよう】な責任【せきにん】を担【にな】っている。",
+    "meaning": "She carries significant responsibility."
+  },
+  {
+    "sentence": "彼は大使館の公使に任命された。",
+    "sentence_furigana": "彼【かれ】は大使館【たいしかん】の公使【こうし】に任命【にんめい】された。",
+    "meaning": "He was appointed minister at the embassy."
+  },
+  {
+    "sentence": "その任期は残り１年だ。",
+    "sentence_furigana": "その任期【にんき】は残【のこ】り１年【いちねん】だ。",
+    "meaning": "The term of office remaining is one year."
+  },
+  {
+    "sentence": "彼は特別な任務を任された。",
+    "sentence_furigana": "彼【かれ】は特別【とくべつ】な任務【にんむ】を任【まか】された。",
+    "meaning": "He was assigned a special mission."
+  },
+  {
+    "sentence": "彼女は新しい役職に就任した。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい役職【やくしょく】に就任【しゅうにん】した。",
+    "meaning": "She took up her new post."
+  },
+  {
+    "sentence": "その任務は非常に困難だった。",
+    "sentence_furigana": "その任務【にんむ】は非常【ひじょう】に困難【こんなん】だった。",
+    "meaning": "The mission was extremely difficult."
+  },
+  {
+    "sentence": "彼はその任務を完璧に遂行した。",
+    "sentence_furigana": "彼【かれ】はその任務【にんむ】を完璧【かんぺき】に遂行【すいこう】した。",
+    "meaning": "He executed the mission perfectly."
+  },
+  {
+    "sentence": "彼女は企業の重役に任命された。",
+    "sentence_furigana": "彼女【かのじょ】は企業【きぎょう】の重役【じゅうやく】に任命【にんめい】された。",
+    "meaning": "She was appointed as a corporate executive."
+  },
+  {
+    "sentence": "この任務は彼に任せるのが最適だ。",
+    "sentence_furigana": "この任務【にんむ】は彼【かれ】に任【まか】せるのが最適【さいてき】だ。",
+    "meaning": "It is optimal to entrust this mission to him."
+  },
+  {
+    "sentence": "彼の任期中は安定していた。",
+    "sentence_furigana": "彼【かれ】の任期【にんき】中【ちゅう】は安定【あんてい】していた。",
+    "meaning": "It was stable during his term."
+  },
+  {
+    "sentence": "彼女は重要な責任を担っている。",
+    "sentence_furigana": "彼女【かのじょ】は重要【じゅうよう】な責任【せきにん】を担【にな】っている。",
+    "meaning": "She is in charge of important responsibilities."
+  }
+]

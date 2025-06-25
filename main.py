@@ -5,6 +5,9 @@ from modules.KanjiAPIServer import KanjiAPIServer
 from modules.GoogleAIAPIClient import GoogleAIAPIClient
 import os
 from modules.Config import Config
+import logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 
 SAMPLE_SENTENCE_COUNT = 3
@@ -18,7 +21,8 @@ if __name__ == "__main__":
         kanji_data = json.load(file)
 
     # Create a KanjiCollection instance
-    collection = KanjiCollection()
+    sample_sentences_dir = os.path.join(base_dir, 'sample_sentences')
+    collection = KanjiCollection(sample_sentences_dir=sample_sentences_dir)
 
     # Populate the collection
     for character, data in kanji_data.items():
@@ -32,6 +36,5 @@ if __name__ == "__main__":
 
     # Initialize and run the API
     kanji_api = KanjiAPIServer(collection=collection,
-                               google_ai_api_client=google_ai_api_client,
                                sample_sentence_count=SAMPLE_SENTENCE_COUNT)
     kanji_api.app.run(host='0.0.0.0', port=config.port)

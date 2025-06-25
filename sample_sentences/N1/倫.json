@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "倫理とは、人間が社会生活を営む上で守るべき道徳の基準のことです。",
+    "sentence_furigana": "倫理【りんり】とは、人間【にんげん】が社会生活【しゃかいせいかつ】を営【いとな】む上【うえ】で守【まも】るべき道徳【どうとく】の基準【きじゅん】のことです。",
+    "meaning": "Ethics refers to the moral standards that humans should adhere to when living in society."
+  },
+  {
+    "sentence": "彼は人望が厚く、多くの人々に慕われていた。",
+    "sentence_furigana": "彼【かれ】は人望【じんぼう】が厚【あつ】く、多【おお】くの人々【ひとびと】に慕【した】われていた。",
+    "meaning": "He was highly respected and admired by many people."
+  },
+  {
+    "sentence": "この問題は、倫理的な観点から慎重に議論されるべきだ。",
+    "sentence_furigana": "この問題【もんだい】は、倫理的【りんりてき】な観点【かんてん】から慎重【しんちょう】に議論【ぎろん】されるべきだ。",
+    "meaning": "This issue should be carefully discussed from an ethical perspective."
+  },
+  {
+    "sentence": "彼女は常に公正な態度で人々と接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な態度【たいど】で人【ひと】々【びと】と接【せっ】していた。",
+    "meaning": "She always interacted with people in a fair manner."
+  },
+  {
+    "sentence": "倫理教育は、子供たちの健全な成長に不可欠です。",
+    "sentence_furigana": "倫理教育【りんりきょういく】は、子供【こども】たちの健全【けんぜん】な成長【せいちょう】に不可欠【ふかけつ】です。",
+    "meaning": "Ethics education is essential for the healthy development of children."
+  },
+  {
+    "sentence": "彼は周囲の人々との調和を大切にする人物だ。",
+    "sentence_furigana": "彼【かれ】は周囲【しゅうい】の人々【ひとびと】との調和【ちょうわ】を大切【たいせつ】にする人物【じんぶつ】だ。",
+    "meaning": "He is a person who values harmony with those around him."
+  },
+  {
+    "sentence": "その行為は、社会的な倫理に反している。",
+    "sentence_furigana": "その行為【こうい】は、社会【しゃかい】的【てき】な倫理【りんり】に反【はん】している。",
+    "meaning": "That act goes against social ethics."
+  },
+  {
+    "sentence": "彼女は道徳観念が強く、常に正しい行いを心がけている。",
+    "sentence_furigana": "彼女【かのじょ】は道徳観念【どうとくかんねん】が強【つよ】く、常【つね】に正【ただ】しい行【おこな】いを心【こころ】がけている。",
+    "meaning": "She has strong moral principles and always strives to do what is right."
+  },
+  {
+    "sentence": "私たちは、互いに尊敬し合える人間関係を築くべきだ。",
+    "sentence_furigana": "私【わたし】たち は、互【たが】いに尊敬【そんけい】し合【あ】える人間関係【にんげんかんけい】を築【きず】くべきだ。",
+    "meaning": "We should build relationships where we can respect each other."
+  },
+  {
+    "sentence": "彼は仲間との友情を何よりも大切にしていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との友情【ゆうじょう】を何【なに】よりも大切【たいせつ】にしていた。",
+    "meaning": "He valued friendship with his companions above all else."
+  },
+  {
+    "sentence": "この研究は、倫理委員会の承認を得て行われた。",
+    "sentence_furigana": "この研究【けんきゅう】は、倫理委員会【りんりいいんかい】の承認【しょうにん】を得【え】て行【おこな】われた。",
+    "meaning": "This research was conducted with the approval of the ethics committee."
+  },
+  {
+    "sentence": "彼女は常に誠実さを保ち、人々に信頼されていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】さを保【たも】ち、人々【ひとびと】に信頼【しんらい】されていた。",
+    "meaning": "She always maintained sincerity and was trusted by people."
+  },
+  {
+    "sentence": "人間関係における礼儀作法は、社会性を育む上で重要です。",
+    "sentence_furigana": "人間関係【にんげんかんけい】における礼儀作法【れいぎさほう】は、社会性【しゃかいせい】を育【はぐく】む上【うえ】で重要【じゅうよう】です。",
+    "meaning": "Etiquette in human relationships is important for fostering sociality."
+  },
+  {
+    "sentence": "彼は友人たちと良好な関係を維持していた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】たちと良好【りょうこう】な関係【かんけい】を維持【いじ】していた。",
+    "meaning": "He maintained good relationships with his friends."
+  },
+  {
+    "sentence": "この法律は、社会全体の倫理観を高めることを目的としています。",
+    "sentence_furigana": "この法律【ほうりつ】は、社会全体【しゃかいぜんたい】の倫理観【りんりかん】を高【たか】めることを目的【もくてき】としています。",
+    "meaning": "This law aims to enhance the ethical consciousness of society as a whole."
+  },
+  {
+    "sentence": "彼女は常に周囲の人々を思いやり、親切に接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に周囲【しゅうい】の人々【ひとびと】を思【おも】いやり、親切【しんせつ】に接【せっ】していた。",
+    "meaning": "She always showed consideration for those around her and treated them kindly."
+  },
+  {
+    "sentence": "彼らはお互いを尊重し、協力して困難を乗り越えた。",
+    "sentence_furigana": "彼【かれ】ら は お互【たが】い を 尊敬【そんけい】 し 、 協力【きょうりょく】 し て 困難【こんなん】 を 克服【こくふく】 した 。",
+    "meaning": "They respected each other and cooperated to overcome difficulties."
+  },
+  {
+    "sentence": "倫理的な判断を下すためには、多くの情報が必要です。",
+    "sentence_furigana": "倫理的【りんりてき】な判断【はんだん】を下【くだ】すためには、多【おお】くの情報【じょうほう】が必要です【ひつよう】です。",
+    "meaning": "To make an ethical judgment, a lot of information is needed."
+  },
+  {
+    "sentence": "彼は仲間との絆を非常に大切にしていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との絆【きずな】を非常【ひじょう】に大切【たいせつ】にしていた。",
+    "meaning": "He greatly valued the bond with his companions."
+  },
+  {
+    "sentence": "その会社は、従業員に対する倫理的な責任を果たしている。",
+    "sentence_furigana": "その会社【かいしゃ】は、従業員【じゅうぎょういん】に対【たい】する倫理的【りんりてき】な責任【せきにん】を果た【はた】している。",
+    "meaning": "The company fulfills its ethical responsibilities towards its employees."
+  },
+  {
+    "sentence": "彼女は常に公平な立場で物事を判断していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公平【こうへい】な立場【たちば】で物事【ものごと】を判断【はんだん】していた。",
+    "meaning": "She always judged matters from a fair standpoint."
+  },
+  {
+    "sentence": "この問題は、倫理と法律の両面から検討する必要があります。",
+    "sentence_furigana": "この問題【もんだい】は、倫理【りんり】と法律【ほうりつ】の双方【そうほう】から検討【けんとう】する必要があります【ひつよう】。",
+    "meaning": "This issue needs to be examined from both ethical and legal perspectives."
+  },
+  {
+    "sentence": "彼は人との関わり合いの中で多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は人【ひと】との関【かか】わり合【あ】いの中【なか】で多【おお】くのこと【こと】を学【まな】んだ。",
+    "meaning": "He learned many things through his interactions with people."
+  },
+  {
+    "sentence": "彼女は常に他人の気持ちを尊重する心を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他人【たにん】の気持【きも】ちを尊重【そんけい】する心【こころ】を持【も】っていた。",
+    "meaning": "She always had a heart that respected the feelings of others."
+  },
+  {
+    "sentence": "チームメンバーとの信頼関係は、プロジェクト成功の鍵です。",
+    "sentence_furigana": "チームメンバー【チームメンバー】との信頼関係【しんらいかんけい】は、プロジェクト成功【プロジェクトせいこう】の鍵【かぎ】です。",
+    "meaning": "The trust relationship with team members is key to project success."
+  },
+  {
+    "sentence": "倫理的なジレンマに直面した場合、冷静な判断が求められる。",
+    "sentence_furigana": "倫理的【りんりてき】なジレンマに直面【ちょくめん】した場合【ばあい】、冷静【れいせい】な判断【はんだん】が求【もと】められる。",
+    "meaning": "When faced with an ethical dilemma, calm judgment is required."
+  },
+  {
+    "sentence": "彼は周囲の友人たちから深く信頼されていた。",
+    "sentence_furigana": "彼【かれ】は周囲【しゅうい】の友人【ゆうじん】たちから深【ふか】く信頼【しんらい】されていた。",
+    "meaning": "He was deeply trusted by his friends around him."
+  },
+  {
+    "sentence": "彼女は常に道徳的な規律を守り、模範的な行動をとっていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に道徳的【どうとくてき】な規律【きりつ】を守【まも】り、模範的【もはんてき】な行動【こうどう】をとっていた。",
+    "meaning": "She always observed moral discipline and acted as a role model."
+  },
+  {
+    "sentence": "人との付き合いにおいては、誠実さが最も重要です。",
+    "sentence_furigana": "人【ひと】との付【つ】き合【あ】いにおいては、誠実【せいじつ】さが最【もっと】も重要【じゅうよう】です。",
+    "meaning": "Sincerity is the most important thing in dealing with people."
+  },
+  {
+    "sentence": "この件については、倫理的な見解を伺いたい。",
+    "sentence_furigana": "この件【けん】については、倫理的【りんりてき】な見解【けんかい】を伺【うかが】いたい。",
+    "meaning": "Regarding this matter, I would like to hear your ethical opinion."
+  },
+  {
+    "sentence": "彼は友人との友情を生涯大切にし続けた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を生涯【しょうがい】大切【たいせつ】にし続【つづ】けた。",
+    "meaning": "He continued to cherish his friendships with his friends throughout his life."
+  },
+  {
+    "sentence": "企業は、社会に対する倫理的な責任を果たすべきである。",
+    "sentence_furigana": "企業【きぎょう】は、社会【しゃかい】に対【たい】する倫理的【りんりてき】な責任【せきにん】を果【は】たすべきである。",
+    "meaning": "Companies should fulfill their ethical responsibilities to society."
+  },
+  {
+    "sentence": "彼女は常に公平無私な態度で人々に接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公平無私【こうへいむし】な態度【たいど】で人々【ひとびと】に接【せっ】していた。",
+    "meaning": "She always treated people with impartiality and selflessness."
+  },
+  {
+    "sentence": "この行動は、社会倫理の観点から問題がある。",
+    "sentence_furigana": "この行動【こうどう】は、社会倫理【しゃかいりんり】の観点【かんてん】から問題【もんだい】がある。",
+    "meaning": "This behavior is problematic from the perspective of social ethics."
+  },
+  {
+    "sentence": "彼は仲間との絆を何よりも重んじていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との絆【きずな】を何【なに】よりも重【おもん】じていた。",
+    "meaning": "He valued the bond with his companions above all else."
+  },
+  {
+    "sentence": "彼女は常に他者への配慮を忘れずにいた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】への配慮【はいりょ】を忘【わす】れずにいた。",
+    "meaning": "She never forgot to be considerate of others."
+  },
+  {
+    "sentence": "倫理的な問題を解決するためには、多くの議論が必要だ。",
+    "sentence_furigana": "倫理的【りんりてき】な問題【もんだい】を解決【かいけつ】するためには、多【おお】くの議論【ぎろん】が必要【ひつよう】だ。",
+    "meaning": "Many discussions are needed to resolve ethical issues."
+  },
+  {
+    "sentence": "彼は友人たちとの良好な関係を築くことに努めていた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】たちとの良好【りょうこう】な関係【かんけい】を築【きず】くことに努【つと】めていた。",
+    "meaning": "He strove to build good relationships with his friends."
+  },
+  {
+    "sentence": "彼女は常に公正な判断を心がけ、周囲からの信頼を得ていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な判断【はんだん】を心【こころ】がけ、周囲【しゅうい】からの信頼【しんらい】を得【え】ていた。",
+    "meaning": "She always tried to make fair judgments and earned trust from those around her."
+  },
+  {
+    "sentence": "この法案は、倫理的な議論を呼んでいる。",
+    "sentence_furigana": "この法案【ほうあん】は、倫理的【りんりてき】な議論【ぎろん】を呼【よ】んでいる。",
+    "meaning": "This bill is causing ethical debate."
+  },
+  {
+    "sentence": "彼は人としての道義心を大切にする人物であった。",
+    "sentence_furigana": "彼【かれ】は人【ひと】として の 道義心【どうぎしん】 を 大切【たいせつ】 に する 人物【じんぶつ】 であった。",
+    "meaning": "He was a person who valued moral conscience as a human being."
+  },
+  {
+    "sentence": "彼女は仲間との調和を保つために努力していた。",
+    "sentence_furigana": "彼女【かのじょ】は仲間【なかま】との調和【ちょうわ】を保【たも】つために努力【どりょく】していた。",
+    "meaning": "She worked to maintain harmony with her companions."
+  },
+  {
+    "sentence": "倫理的な行動は、社会全体の信頼を築く上で不可欠です。",
+    "sentence_furigana": "倫理的【りんりてき】な行動【こうどう】は、社会全体【しゃかいぜんたい】の信頼【しんらい】を築【きず】く上【うえ】で不可欠【ふかけつ】です。",
+    "meaning": "Ethical behavior is essential for building trust in society as a whole."
+  },
+  {
+    "sentence": "彼は友人との関係を大切にし、常に誠実に対応していた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との関係【かんけい】を大切【たいせつ】にし、常【つね】に誠実【せいじつ】に対応【たいおう】していた。",
+    "meaning": "He valued his relationships with his friends and always responded with sincerity."
+  },
+  {
+    "sentence": "この規則は、倫理的な問題を防ぐために設けられた。",
+    "sentence_furigana": "この規則【きそく】は、倫理的【りんりてき】な問題【もんだい】を防【ふせ】ぐために設【もう】けられた。",
+    "meaning": "These regulations were established to prevent ethical issues."
+  },
+  {
+    "sentence": "彼女は常に公正な視点を持ち、客観的な判断をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な視点【してん】を持【も】ち、客観的【きゃっかんてき】な判断【はんだん】をしていた。",
+    "meaning": "She always maintained a fair perspective and made objective judgments."
+  },
+  {
+    "sentence": "彼は人とのつながりを大切にし、温かい人間関係を育んでいた。",
+    "sentence_furigana": "彼【かれ】は人【ひと】とのつながりを大切【たいせつ】にし、温【あたた】かい人間関係【にんげんかんけい】を育【はぐく】んでいた。",
+    "meaning": "He valued connections with people and nurtured warm relationships."
+  },
+  {
+    "sentence": "倫理学は、善悪の基準を探求する学問です。",
+    "sentence_furigana": "倫理学【りんりがく】は、善悪【ぜんあく】の基準【きじゅん】を探求【たんきゅう】する学問【がくもん】です。",
+    "meaning": "Ethics is the study that explores the standards of good and evil."
+  },
+  {
+    "sentence": "彼女は常に誠実な態度で人々の信頼に応えていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】な態度【たいど】で人々【ひとびと】の信頼【しんらい】に応【こた】えていた。",
+    "meaning": "She always responded to people's trust with a sincere attitude."
+  },
+  {
+    "sentence": "この取引は、倫理的な観点から問題があると判断された。",
+    "sentence_furigana": "この取引【とりひき】は、倫理的【りんりてき】な観点【かんてん】から問題【もんだい】があると判断【はんだん】された。",
+    "meaning": "This transaction was deemed problematic from an ethical standpoint."
+  },
+  {
+    "sentence": "彼は仲間との協力関係を非常に重視していた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との協力関係【きょうりょくかんけい】を非常【ひじょう】に重視【じゅうし】していた。",
+    "meaning": "He placed great importance on the cooperative relationship with his companions."
+  },
+  {
+    "sentence": "彼女は常に正直であり、人々からの信頼を得ていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に正直【しょうじき】であり、人々【ひとびと】からの信頼【しんらい】を得【え】ていた。",
+    "meaning": "She was always honest and gained people's trust."
+  },
+  {
+    "sentence": "倫理的なリーダーシップは、組織の成功に不可欠です。",
+    "sentence_furigana": "倫理的【りんりてき】なリーダーシップは、組織【そしき】の成功【せいこう】に不可欠【ふかけつ】です。",
+    "meaning": "Ethical leadership is essential for organizational success."
+  },
+  {
+    "sentence": "彼は友人との友情を何よりも大切にし、それを守り続けた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を何【なに】よりも大切【たいせつ】にし、それを守【まも】り続【つづ】けた。",
+    "meaning": "He valued his friendships with his friends more than anything and continued to protect them."
+  },
+  {
+    "sentence": "彼女は常に他者への敬意を払い、礼儀正しく接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】への敬意【けいい】を払【はら】い、礼儀正【れいぎただ】しく接【せっ】していた。",
+    "meaning": "She always showed respect for others and treated them politely."
+  },
+  {
+    "sentence": "この研究は、倫理的な観点から高い評価を受けている。",
+    "sentence_furigana": "この研究【けんきゅう】は、倫理的【りんりてき】な観点【かんてん】から高【たか】い評価【ひょうか】を受【う】けている。",
+    "meaning": "This research is highly regarded from an ethical perspective."
+  },
+  {
+    "sentence": "彼は仲間との協調性を重んじ、円滑な人間関係を築いていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との協調性【きょうちょうせい】を重んじ【おもんじ】、円滑【えんかつ】な人間関係【にんげんかんけい】を築【きず】いていた。",
+    "meaning": "He valued cooperation with his companions and built smooth relationships."
+  },
+  {
+    "sentence": "彼女は常に誠実さをもって人々と接し、信頼を得ていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】さをもって人【ひと】々【びと】と接【せっ】し、信頼【しんらい】を得【え】ていた。",
+    "meaning": "She always treated people with sincerity and gained their trust."
+  },
+  {
+    "sentence": "その法律は、社会における倫理的な基準を定めている。",
+    "sentence_furigana": "その法律【ほうりつ】は、社会【しゃかい】における倫理的【りんりてき】な基準【きじゅん】を定【さだ】めている。",
+    "meaning": "That law establishes ethical standards in society."
+  },
+  {
+    "sentence": "彼は友人との絆を深め、互いに支え合っていた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との絆【きずな】を深【ふか】め、互【たが】いに支【ささ】え合【あ】っていた。",
+    "meaning": "He deepened his bonds with his friends and they supported each other."
+  },
+  {
+    "sentence": "彼女は常に公平な態度で、人々の意見を聞いていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公平【こうへい】な態度【たいど】で、人々【ひとびと】の意見【いけん】を聞【き】いていた。",
+    "meaning": "She always listened to people's opinions with a fair attitude."
+  },
+  {
+    "sentence": "倫理的なジレンマに対処するには、慎重な検討が必要だ。",
+    "sentence_furigana": "倫理的【りんりてき】なジレンマに対処【たいしょ】するには、慎重【しんちょう】な検討【けんとう】が必要【ひつよう】だ。",
+    "meaning": "Careful consideration is necessary to deal with ethical dilemmas."
+  },
+  {
+    "sentence": "彼は仲間との良好な関係を築き、共に目標達成を目指していた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との良好【りょうこう】な関係【かんけい】を築【きず】き、共【とも】に目標達成【もくひょうたっせい】を目指【めざ】していた。",
+    "meaning": "He built good relationships with his companions and aimed to achieve goals together."
+  },
+  {
+    "sentence": "彼女は常に道徳心を大切にし、正しい行いを心がけていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に道徳心【どうとくしん】を大切【たいせつ】にし、正【ただ】しい行【おこな】いを心【こころ】がけていた。",
+    "meaning": "She always valued her moral sense and tried to do what was right."
+  },
+  {
+    "sentence": "人とのコミュニケーションにおいては、相手への配慮が重要です。",
+    "sentence_furigana": "人【ひと】とのコミュニケーションにおいては、相手【あいて】への配慮【はいりょ】が重要【じゅうよう】です。",
+    "meaning": "Consideration for the other party is important in communication with people."
+  },
+  {
+    "sentence": "彼は友人との関係を大切にし、互いを尊重していた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との関係【かんけい】を大切【たいせつ】にし、互【たが】いを尊重【そんけい】していた。",
+    "meaning": "He valued his relationships with his friends and respected each other."
+  },
+  {
+    "sentence": "この企業は、倫理的な経営を心がけている。",
+    "sentence_furigana": "この企業【きぎょう】は、倫理的【りんりてき】な経営【けいえい】を心【こころ】がけている。",
+    "meaning": "This company strives for ethical management."
+  },
+  {
+    "sentence": "彼女は常に公正な判断を下し、周囲からの信頼を得ていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な判断【はんだん】を下【くだ】し、周囲【しゅうい】からの信頼【しんらい】を得【え】ていた。",
+    "meaning": "She always made fair judgments and earned the trust of those around her."
+  },
+  {
+    "sentence": "倫理的な行動規範は、社会の秩序を維持するために重要です。",
+    "sentence_furigana": "倫理的【りんりてき】な行動規範【こうどうきはん】は、社会【しゃかい】の秩序【ちつじょ】を維持【いじ】するために重要【じゅうよう】です。",
+    "meaning": "Ethical codes of conduct are important for maintaining social order."
+  },
+  {
+    "sentence": "彼は仲間との友情を大切にし、お互いを支え合っていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との友情【ゆうじょう】を大切【たいせつ】にし、お互【たが】いを支【ささ】え合【あ】っていた。",
+    "meaning": "He valued the friendship with his companions and supported each other."
+  },
+  {
+    "sentence": "彼女は常に誠実な態度で人々の期待に応えていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】な態度【たいど】で人々【ひとびと】の期待【きたい】に応【こた】えていた。",
+    "meaning": "She always met people's expectations with a sincere attitude."
+  },
+  {
+    "sentence": "この問題は、倫理的な側面から慎重に扱うべきだ。",
+    "sentence_furigana": "この問題【もんだい】は、倫理的【りんりてき】な側面【そくめん】から慎重【しんちょう】に扱【あつか】うべきだ。",
+    "meaning": "This issue should be handled carefully from an ethical aspect."
+  },
+  {
+    "sentence": "彼は人との関わりを大切にし、温かい人間関係を築いていた。",
+    "sentence_furigana": "彼【かれ】は人【ひと】との関【かか】わりを大切【たいせつ】にし、温【あたた】かい人間関係【にんげんかんけい】を築【きず】いていた。",
+    "meaning": "He valued his relationships with people and built warm connections."
+  },
+  {
+    "sentence": "彼女は常に公正な判断を下すよう努めていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な判断【はんだん】を下【くだ】すよう努【つと】めていた。",
+    "meaning": "She always tried to make fair judgments."
+  },
+  {
+    "sentence": "倫理的な規範に従うことは、社会的な責任です。",
+    "sentence_furigana": "倫理的【りんりてき】な規範【きはん】に従【したが】うことは、社会【しゃかい】的【てき】な責任【せきにん】です。",
+    "meaning": "Adhering to ethical norms is a social responsibility."
+  },
+  {
+    "sentence": "彼は仲間との信頼関係を最も重要視していた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との信頼関係【しんらいかんけい】を最【もっと】も重要視【じゅうようし】していた。",
+    "meaning": "He considered the trust relationship with his companions to be the most important."
+  },
+  {
+    "sentence": "彼女は常に他者への配慮を忘れず、思いやりの心を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】への配慮【はいりょ】を忘【わす】れず、思【おも】いやりの心【こころ】を持【も】っていた。",
+    "meaning": "She never forgot to be considerate of others and had a compassionate heart."
+  },
+  {
+    "sentence": "この件に関する倫理的な見解を教えてください。",
+    "sentence_furigana": "この件【けん】に関【かん】する倫理的【りんりてき】な見解【けんかい】を教【おし】えてください。",
+    "meaning": "Please tell me your ethical opinion regarding this matter."
+  },
+  {
+    "sentence": "彼は友人との友情を深め、共に成長していくことを望んでいた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を深【ふか】め、共【とも】に成長【せいちょう】していくことを望【のぞ】んでいた。",
+    "meaning": "He hoped to deepen his friendships with his friends and grow together."
+  },
+  {
+    "sentence": "彼女は常に正直に、そして倫理的に行動していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に正直【しょうじき】に、そして倫理的【りんりてき】に行【おこな】っていた。",
+    "meaning": "She always acted honestly and ethically."
+  },
+  {
+    "sentence": "この事業は、倫理的な観点から大きな議論を呼んだ。",
+    "sentence_furigana": "この事業【じぎょう】は、倫理的【りんりてき】な観点【かんてん】から大【おお】きな議論【ぎろん】を呼【よ】んだ。",
+    "meaning": "This project sparked significant debate from an ethical perspective."
+  },
+  {
+    "sentence": "彼は仲間との絆を大切にし、互いに助け合っていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との絆【きずな】を大切【たいせつ】にし、互【たが】いに助【たす】け合【あ】っていた。",
+    "meaning": "He valued the bond with his companions and helped each other."
+  },
+  {
+    "sentence": "彼女は常に公平な態度で、人々の意見を尊重していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公平【こうへい】な態度【たいど】で、人々【ひとびと】の意見【いけん】を尊重【そんけい】していた。",
+    "meaning": "She always respected people's opinions with a fair attitude."
+  },
+  {
+    "sentence": "倫理的な問題に直面した場合、正しい判断を下すことが重要です。",
+    "sentence_furigana": "倫理的【りんりてき】な問題【もんだい】に直面【ちょくめん】した場合【ばあい】、正【ただ】しい判断【はんだん】を下【くだ】すことが重要【じゅうよう】です。",
+    "meaning": "When faced with ethical issues, it is important to make the right judgment."
+  },
+  {
+    "sentence": "彼は友人との友情を何よりも大切にし、その関係を維持していた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を何【なに】よりも大切【たいせつ】にし、その関係【かんけい】を維持【いじ】していた。",
+    "meaning": "He valued his friendships with his friends more than anything and maintained those relationships."
+  },
+  {
+    "sentence": "彼女は常に他者への配慮を忘れず、思いやりの心で接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】への配慮【はいりょ】を忘【わす】れず、思【おも】いやりの心【こころ】で接【せっ】していた。",
+    "meaning": "She never forgot to be considerate of others and treated them with compassion."
+  },
+  {
+    "sentence": "この計画は、倫理的な観点から見直されるべきだ。",
+    "sentence_furigana": "この計画【けいかく】は、倫理的【りんりてき】な観点【かんてん】から見直【みなお】されるべきだ。",
+    "meaning": "This plan should be reviewed from an ethical perspective."
+  },
+  {
+    "sentence": "彼は仲間との信頼関係を築くことに全力を尽くしていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との信頼関係【しんらいかんけい】を築【きず】くことに全【ぜん】力【りょく】を尽【つ】くしていた。",
+    "meaning": "He did his best to build a trust relationship with his companions."
+  },
+  {
+    "sentence": "彼女は常に公正な判断を下し、人々の尊敬を集めていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な判断【はんだん】を下【くだ】し、人々【ひとびと】の尊敬【そんけい】を集【あつ】めていた。",
+    "meaning": "She always made fair judgments and earned the respect of people."
+  },
+  {
+    "sentence": "倫理的な意思決定は、組織の評判に大きく影響します。",
+    "sentence_furigana": "倫理的【りんりてき】な意思決定【いしけってい】は、組織【そしき】の評判【ひょうばん】に大【おお】きく影響【えいきょう】します。",
+    "meaning": "Ethical decision-making greatly affects an organization's reputation."
+  },
+  {
+    "sentence": "彼は友人との友情を深め、互いに助け合うことを大切にしていた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を深【ふか】め、互【たが】いに助【たす】け合【あ】うことを大切【たいせつ】にしていた。",
+    "meaning": "He deepened his friendships with his friends and valued helping each other."
+  },
+  {
+    "sentence": "彼女は常に誠実な態度で、人々の期待に応える努力をしていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に誠実【せいじつ】な態度【たいど】で、人々【ひとびと】の期待【きたい】に応【こた】える努力【どりょく】をしていた。",
+    "meaning": "She always strove to meet people's expectations with a sincere attitude."
+  },
+  {
+    "sentence": "この報告書は、倫理的な観点から詳細に検討された。",
+    "sentence_furigana": "この報告書【ほうこくしょ】は、倫理的【りんりてき】な観点【かんてん】から詳細【しょうさい】に検討【けんとう】された。",
+    "meaning": "This report was examined in detail from an ethical perspective."
+  },
+  {
+    "sentence": "彼は仲間との絆を大切にし、共に困難を乗り越えることを目指していた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との絆【きずな】を大切【たいせつ】にし、共【とも】に困難【こんなん】を乗【の】り越【こ】えることを目指【めざ】していた。",
+    "meaning": "He valued the bond with his companions and aimed to overcome difficulties together."
+  },
+  {
+    "sentence": "彼女は常に公正な判断を心がけ、人々の信頼を得ていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な判断【はんだん】を心【こころ】がけ、人々【ひとびと】の信頼【しんらい】を得【え】ていた。",
+    "meaning": "She always tried to make fair judgments and earned people's trust."
+  },
+  {
+    "sentence": "倫理的な問題の解決には、深い洞察力が必要とされる。",
+    "sentence_furigana": "倫理的【りんりてき】な問題【もんだい】の解決【かいけつ】には、深【ふか】い洞察力【どうさつりょく】が必要【ひつよう】とされる。",
+    "meaning": "Deep insight is required to resolve ethical issues."
+  },
+  {
+    "sentence": "彼は友人との友情を生涯大切にし、信頼関係を築いていた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を生涯【しょうがい】大切【たいせつ】にし、信頼関係【しんらいかんけい】を築【きず】いていた。",
+    "meaning": "He cherished his friendships throughout his life and built trust relationships."
+  },
+  {
+    "sentence": "彼女は常に他者への配慮を忘れず、思いやりを持って接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】への配慮【はいりょ】を忘【わす】れず、思【おも】いやりの心【こころ】を持【も】って接【せっ】していた。",
+    "meaning": "She never forgot to be considerate of others and treated them with compassion."
+  },
+  {
+    "sentence": "この政策は、倫理的な観点から議論の的となっている。",
+    "sentence_furigana": "この政策【せいさく】は、倫理的【りんりてき】な観点【かんてん】から議論【ぎろん】の的【まと】となっている。",
+    "meaning": "This policy is a subject of debate from an ethical perspective."
+  },
+  {
+    "sentence": "彼は仲間との調和を大切にし、協力して物事を進めていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との調和【ちょうわ】を大切【たいせつ】にし、協力【きょうりょく】して物事【ものごと】を進【すす】めていた。",
+    "meaning": "He valued harmony with his companions and proceeded with matters collaboratively."
+  },
+  {
+    "sentence": "彼女は常に正直であり、人々の信頼を裏切らないように努めていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に正直【しょうじき】であり、人々【ひとびと】の信頼【しんらい】を裏切【うらぎ】らないように努【つと】めていた。",
+    "meaning": "She was always honest and tried not to betray people's trust."
+  },
+  {
+    "sentence": "倫理的なリーダーシップは、組織の文化に大きな影響を与えます。",
+    "sentence_furigana": "倫理的【りんりてき】なリーダーシップは、組織【そしき】の文化【ぶんか】に大【おお】きな影響【えいきょう】を与【あた】えます。",
+    "meaning": "Ethical leadership has a significant impact on organizational culture."
+  },
+  {
+    "sentence": "彼は友人との友情を大切にし、その関係を永遠に保つことを願っていた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を大切【たいせつ】にし、その関係【かんけい】を永遠【えいえん】に保【たも】つことを願【ねが】っていた。",
+    "meaning": "He valued his friendships with his friends and wished to maintain those relationships forever."
+  },
+  {
+    "sentence": "彼女は常に他者への敬意を払い、誠実な態度で接していた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】への敬意【けいい】を払【はら】い、誠実【せいじつ】な態度【たいど】で接【せっ】していた。",
+    "meaning": "She always showed respect for others and treated them with sincerity."
+  },
+  {
+    "sentence": "この研究テーマは、倫理的な議論を深める必要がある。",
+    "sentence_furigana": "この研究テーマ【けんきゅうテーマ】は、倫理的【りんりてき】な議論【ぎろん】を深【ふか】める必要【ひつよう】がある。",
+    "meaning": "This research topic requires a deeper ethical discussion."
+  },
+  {
+    "sentence": "彼は仲間との協調性を重んじ、円滑なチームワークを築いていた。",
+    "sentence_furigana": "彼【かれ】は仲間【なかま】との協調性【きょうちょうせい】を重んじ【おもんじ】、円滑【えんかつ】なチームワークを築【きず】いていた。",
+    "meaning": "He valued cooperation with his companions and built smooth teamwork."
+  },
+  {
+    "sentence": "彼女は常に公正な判断を下すことに努め、人々の信頼を得ていた。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に公正【こうせい】な判断【はんだん】を下【くだ】すことに努【つと】め、人々【ひとびと】の信頼【しんらい】を得【え】ていた。",
+    "meaning": "She always strived to make fair judgments and earned people's trust."
+  },
+  {
+    "sentence": "倫理的な問題に対しては、常に誠実な対応が求められます。",
+    "sentence_furigana": "倫理的【りんりてき】な問題【もんだい】に対【たい】しては、常【つね】に誠実【せいじつ】な対応【たいおう】が求【もと】められます。",
+    "meaning": "Sincere handling is always required for ethical issues."
+  },
+  {
+    "sentence": "彼は友人との友情を大切にし、互いの関係を尊重していた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】との友情【ゆうじょう】を大切【たいせつ】にし、互【たが】いの関係【かんけい】を尊重【そんけい】していた。",
+    "meaning": "He valued his friendships with his friends and respected each other's relationships."
+  }
+]

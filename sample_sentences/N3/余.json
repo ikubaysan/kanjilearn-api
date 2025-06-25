@@ -1,0 +1,532 @@
+[
+  {
+    "sentence": "余は元気です。",
+    "sentence_furigana": "余【よ】は元気【げんき】です。",
+    "meaning": "I am fine."
+  },
+  {
+    "sentence": "余計なことを言わないでください。",
+    "sentence_furigana": "余計【よけい】なことを言【い】わないでください。",
+    "meaning": "Please do not say unnecessary things."
+  },
+  {
+    "sentence": "彼の話は余りにも長かった。",
+    "sentence_furigana": "彼【かれ】の話【はなし】は余【あま】りにも長【なが】かった。",
+    "meaning": "His speech was too long."
+  },
+  {
+    "sentence": "この問題は私には余りにも難しい。",
+    "sentence_furigana": "この問題【もんだい】は私【わたし】には余【あま】りにも難【むずか】しい。",
+    "meaning": "This problem is too difficult for me."
+  },
+  {
+    "sentence": "残りの時間は余りありません。",
+    "sentence_furigana": "残【のこ】りの時間【じかん】は余【あま】りありません。",
+    "meaning": "There is not much time left."
+  },
+  {
+    "sentence": "余分な荷物は持ち込めません。",
+    "sentence_furigana": "余分【よぶん】な荷物【にもつ】は持【も】ち込【こ】めません。",
+    "meaning": "You cannot bring in extra luggage."
+  },
+  {
+    "sentence": "その結果に余り満足していません。",
+    "sentence_furigana": "その結果【けっか】に余【あま】り満足【まんぞく】していません。",
+    "meaning": "I am not very satisfied with the result."
+  },
+  {
+    "sentence": "余生を静かに過ごしたい。",
+    "sentence_furigana": "余生【よせい】を静【しず】かに過【す】ごしたい。",
+    "meaning": "I want to spend the rest of my life peacefully."
+  },
+  {
+    "sentence": "余韻が長く残る音楽。",
+    "sentence_furigana": "余韻【よいん】が長【なが】く残【のこ】る音楽【おんがく】。",
+    "meaning": "Music with a long-lasting resonance."
+  },
+  {
+    "sentence": "予算を余らせてしまった。",
+    "sentence_furigana": "予算【よさん】を余【あま】らせてしまった。",
+    "meaning": "I had some budget left over."
+  },
+  {
+    "sentence": "余談ですが、彼は猫が好きです。",
+    "sentence_furigana": "余談【よだん】ですが、彼【かれ】は猫【ねこ】が好【す】きです。",
+    "meaning": "By the way, he likes cats."
+  },
+  {
+    "sentence": "余震に注意してください。",
+    "sentence_furigana": "余震【よしん】に注意【ちゅうい】してください。",
+    "meaning": "Please be aware of aftershocks."
+  },
+  {
+    "sentence": "余はかつて王であった。",
+    "sentence_furigana": "余【よ】はかつて王【おう】であった。",
+    "meaning": "I was once a king."
+  },
+  {
+    "sentence": "残りの食べ物は余った。",
+    "sentence_furigana": "残【のこ】りの食【た】べ物【もの】は余【あま】った。",
+    "meaning": "The remaining food was left over."
+  },
+  {
+    "sentence": "余計な心配は無用だ。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】は無用【むよう】だ。",
+    "meaning": "Unnecessary worries are useless."
+  },
+  {
+    "sentence": "この材料はまだ余っています。",
+    "sentence_furigana": "この材料【ざいりょう】はまだ余【あま】っています。",
+    "meaning": "There is still some of this material left."
+  },
+  {
+    "sentence": "余白を多く取ってください。",
+    "sentence_furigana": "余白【よはく】を多【おお】く取【と】ってください。",
+    "meaning": "Please leave plenty of white space."
+  },
+  {
+    "sentence": "余命宣告を受けた。",
+    "sentence_furigana": "余命【よめい】宣告【せんこく】を受【う】けた。",
+    "meaning": "I received a terminal diagnosis."
+  },
+  {
+    "sentence": "余りに暑くて外に出られない。",
+    "sentence_furigana": "余【あま】りに暑【あつ】くて外【そと】に出【で】られない。",
+    "meaning": "It's too hot to go outside."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "あまり嬉しくない知らせだった。",
+    "sentence_furigana": "あまり嬉【うれ】しくない知【し】らせだった。",
+    "meaning": "It was not very happy news."
+  },
+  {
+    "sentence": "余ったパンを犬にあげた。",
+    "sentence_furigana": "余【あま】ったパンを犬【いぬ】にあげた。",
+    "meaning": "I gave the leftover bread to the dog."
+  },
+  {
+    "sentence": "余波が続いている。",
+    "sentence_furigana": "余波【よは】が続【つづ】いている。",
+    "meaning": "The repercussions continue."
+  },
+  {
+    "sentence": "余生を送る場所を探している。",
+    "sentence_furigana": "余生【よせい】を送【おく】る場所【ばしょ】を探【さが】している。",
+    "meaning": "I am looking for a place to spend my remaining years."
+  },
+  {
+    "sentence": "余りある富を持っていた。",
+    "sentence_furigana": "余【あま】りある富【とみ】を持【も】っていた。",
+    "meaning": "He possessed more than enough wealth."
+  },
+  {
+    "sentence": "余計な心配はご無用です。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】はご無用【むよう】です。",
+    "meaning": "Unnecessary worries are not needed."
+  },
+  {
+    "sentence": "余は満足しております。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】しております。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余りある時間をどう使うか。",
+    "sentence_furigana": "余【あま】りある時間【じかん】をどう使【つか】うか。",
+    "meaning": "How to use the abundant time."
+  },
+  {
+    "sentence": "余命はあとわずかだ。",
+    "sentence_furigana": "余命【よめい】はあとわずかだ。",
+    "meaning": "My remaining lifespan is only a little."
+  },
+  {
+    "sentence": "その映画は余韻が残った。",
+    "sentence_furigana": "その映画【えいが】は余韻【よいん】が残【のこ】った。",
+    "meaning": "That movie left a lasting impression."
+  },
+  {
+    "sentence": "余分な注文は受け付けません。",
+    "sentence_furigana": "余分【よぶん】な注文【ちゅうもん】は受【う】け付【つ】けません。",
+    "meaning": "We do not accept extra orders."
+  },
+  {
+    "sentence": "余白は重要です。",
+    "sentence_furigana": "余白【よはく】は重要【じゅうよう】です。",
+    "meaning": "White space is important."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the remainder later."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "彼の才能は余りある。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は余【あま】りある。",
+    "meaning": "His talent is abundant."
+  },
+  {
+    "sentence": "余計な口出しはやめてください。",
+    "sentence_furigana": "余計【よけい】な口出【くちだ】しはやめてください。",
+    "meaning": "Please stop interfering unnecessarily."
+  },
+  {
+    "sentence": "余震がまだ続いていた。",
+    "sentence_furigana": "余震【よしん】がまだ続【つづ】いていた。",
+    "meaning": "Aftershocks were still continuing."
+  },
+  {
+    "sentence": "余りある資源を無駄にしている。",
+    "sentence_furigana": "余【あま】りある資源【しげん】を無駄【むだ】にしている。",
+    "meaning": "Abundant resources are being wasted."
+  },
+  {
+    "sentence": "余は満足して眠りについた。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】して眠【ねむ】りについた。",
+    "meaning": "I fell asleep content."
+  },
+  {
+    "sentence": "あまりにも残念な結果だった。",
+    "sentence_furigana": "あまりにも残念【ざんねん】な結果【けっか】だった。",
+    "meaning": "It was too disappointing a result."
+  },
+  {
+    "sentence": "余りの寒さに震えた。",
+    "sentence_furigana": "余【あま】りの寒【さむ】さに震【ふる】えた。",
+    "meaning": "I shivered from the extreme cold."
+  },
+  {
+    "sentence": "余白の美学。",
+    "sentence_furigana": "余白【よはく】の美学【びがく】。",
+    "meaning": "The aesthetics of white space."
+  },
+  {
+    "sentence": "余はこれで満足である。",
+    "sentence_furigana": "余【よ】はこれで満足【まんぞく】である。",
+    "meaning": "I am satisfied with this."
+  },
+  {
+    "sentence": "余計なことは言わない。",
+    "sentence_furigana": "余計【よけい】なことは言【い】わない。",
+    "meaning": "I will not say unnecessary things."
+  },
+  {
+    "sentence": "残金は余りました。",
+    "sentence_furigana": "残金【ざんきん】は余【あま】りました。",
+    "meaning": "The remaining balance was left over."
+  },
+  {
+    "sentence": "余命わずかと宣告された。",
+    "sentence_furigana": "余命【よめい】わずかと宣告【せんこく】された。",
+    "meaning": "I was told my remaining life was short."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "あまりに遅すぎます。",
+    "sentence_furigana": "あまりに遅【おそ】すぎます。",
+    "meaning": "It is too late."
+  },
+  {
+    "sentence": "余は満足して眠りについた。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】して眠【ねむ】りについた。",
+    "meaning": "He fell asleep content."
+  },
+  {
+    "sentence": "余分な言葉は必要ない。",
+    "sentence_furigana": "余分【よぶん】な言葉【ことば】は必要【ひつよう】ない。",
+    "meaning": "Extra words are not necessary."
+  },
+  {
+    "sentence": "余波がまだ収まらない。",
+    "sentence_furigana": "余波【よは】がまだ収【おさ】まらない。",
+    "meaning": "The aftereffects have not yet subsided."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "残った食べ物は余るほどあった。",
+    "sentence_furigana": "残【のこ】った食【た】べ物【もの】は余【あま】るほどあった。",
+    "meaning": "There was more than enough food left over."
+  },
+  {
+    "sentence": "余は王である。",
+    "sentence_furigana": "余【よ】は王【おう】である。",
+    "meaning": "I am the king."
+  },
+  {
+    "sentence": "余計な心配は無用だよ。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】は無用【むよう】だよ。",
+    "meaning": "Unnecessary worries are useless."
+  },
+  {
+    "sentence": "あまりにも美しい風景だった。",
+    "sentence_furigana": "あまりにも美【うつく】しい風景【ふうけい】だった。",
+    "meaning": "It was an overwhelmingly beautiful landscape."
+  },
+  {
+    "sentence": "余命宣告を受けた。",
+    "sentence_furigana": "余命【よめい】宣告【せんこく】を受【う】けた。",
+    "meaning": "I received a diagnosis of limited life expectancy."
+  },
+  {
+    "sentence": "余は満足して眠りについた。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】して眠【ねむ】りについた。",
+    "meaning": "I fell asleep peacefully."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りに暑くて外に出られない。",
+    "sentence_furigana": "余【あま】りに暑【あつ】くて外【そと】に出【で】られない。",
+    "meaning": "It's too hot to go out."
+  },
+  {
+    "sentence": "余分なスペースは必要ない。",
+    "sentence_furigana": "余分【よぶん】なスペースは必要【ひつよう】ない。",
+    "meaning": "Extra space is not needed."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I was satisfied."
+  },
+  {
+    "sentence": "余りに甘い物は食べすぎた。",
+    "sentence_furigana": "余【あま】りに甘【あま】い物【もの】は食【た】べすぎた。",
+    "meaning": "I ate too much sweets."
+  },
+  {
+    "sentence": "余波が続いている。",
+    "sentence_furigana": "余波【よは】が続【つづ】いている。",
+    "meaning": "The impact is still ongoing."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計なことは言うな。",
+    "sentence_furigana": "余計【よけい】なことは言【い】うな。",
+    "meaning": "Don't say unnecessary things."
+  },
+  {
+    "sentence": "余は満足して眠りについた。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】して眠【ねむ】りについた。",
+    "meaning": "He fell asleep in contentment."
+  },
+  {
+    "sentence": "余りに時間がかかる。",
+    "sentence_furigana": "余【あま】りに時間【じかん】がかかる。",
+    "meaning": "It takes too much time."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余った生地で袋を作った。",
+    "sentence_furigana": "余【あま】った生地【きじ】で袋【ふくろ】を作【つく】った。",
+    "meaning": "I made a bag with the leftover fabric."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計な心配はいらない。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】はいらない。",
+    "meaning": "Unnecessary worries are not needed."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りは後で処理する。",
+    "sentence_furigana": "余【あま】りは後【あと】で処理【しょり】する。",
+    "meaning": "I will deal with the remainder later."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the surplus later."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りある時間。",
+    "sentence_furigana": "余【あま】りある時間【じかん】。",
+    "meaning": "Abundant time."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計なことは言わないで。",
+    "sentence_furigana": "余計【よけい】なことは言【い】わないで。",
+    "meaning": "Don't say unnecessary things."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the surplus later."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計な心配は無用。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】は無用【むよう】。",
+    "meaning": "Unnecessary worries are useless."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the remainder later."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りある資源。",
+    "sentence_furigana": "余【あま】りある資源【しげん】。",
+    "meaning": "Abundant resources."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計なことを言わないで。",
+    "sentence_furigana": "余計【よけい】なことを言【い】わないで。",
+    "meaning": "Don't say anything unnecessary."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the surplus later."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計な心配はご無用です。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】はご無用【むよう】です。",
+    "meaning": "Unnecessary worries are not required."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the remainder later."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りある時間。",
+    "sentence_furigana": "余【あま】りある時間【じかん】。",
+    "meaning": "Abundant time."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計なことは言わないで。",
+    "sentence_furigana": "余計【よけい】なことは言【い】わないで。",
+    "meaning": "Don't say unnecessary things."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the surplus later."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計な心配は無用。",
+    "sentence_furigana": "余計【よけい】な心配【しんぱい】は無用【むよう】。",
+    "meaning": "Unnecessary worries are useless."
+  },
+  {
+    "sentence": "余りは後で使います。",
+    "sentence_furigana": "余【あま】りは後【あと】で使【つか】います。",
+    "meaning": "I will use the remainder later."
+  },
+  {
+    "sentence": "余は満足じゃ。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】じゃ。",
+    "meaning": "I am content."
+  },
+  {
+    "sentence": "余りある資源。",
+    "sentence_furigana": "余【あま】りある資源【しげん】。",
+    "meaning": "Abundant resources."
+  },
+  {
+    "sentence": "余は満足した。",
+    "sentence_furigana": "余【よ】は満足【まんぞく】した。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "余計なことは言わないで。",
+    "sentence_furigana": "余計【よけい】なことは言【い】わないで。",
+    "meaning": "Don't say unnecessary things."
+  }
+]

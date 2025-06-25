@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "この騒音は私の仕事の集中を妨げている。",
+    "sentence_furigana": "この騒音【そうおん】は私【わたし】の仕事【しごと】の集中【しゅうちゅう】を妨【さまた】げている。",
+    "meaning": "This noise is hindering my concentration on work."
+  },
+  {
+    "sentence": "彼の遅刻が会議の進行を妨げた。",
+    "sentence_furigana": "彼【かれ】の遅刻【ちこく】が会議【かいぎ】の進行【しんこう】を妨【さまた】げた。",
+    "meaning": "His lateness obstructed the progress of the meeting."
+  },
+  {
+    "sentence": "天候が悪いため、屋外での活動を妨げる可能性がある。",
+    "sentence_furigana": "天候【てんこう】が悪【わる】いため、屋外【おくがい】での活動【かつどう】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "Due to the bad weather, it may prevent outdoor activities."
+  },
+  {
+    "sentence": "彼女の邪魔をしないように、静かに部屋を出た。",
+    "sentence_furigana": "彼女【かのじょ】の邪魔【じゃま】をしないように、静【しず】かに部屋【へや】を出【で】た。",
+    "meaning": "I quietly left the room so as not to disturb her."
+  },
+  {
+    "sentence": "国の発展を妨げるような政策は受け入れられない。",
+    "sentence_furigana": "国【くに】の発展【はってん】を妨【さまた】げるような政策【せいさく】は受【う】け入【い】れられない。",
+    "meaning": "Policies that hinder the country's development are unacceptable."
+  },
+  {
+    "sentence": "工事のため、周辺の交通が妨げられています。",
+    "sentence_furigana": "工事【こうじ】のため、周辺【しゅうへん】の交通【こうつう】が妨【さまた】げられています。",
+    "meaning": "Traffic in the surrounding area is being obstructed due to construction."
+  },
+  {
+    "sentence": "彼の協力を得られないことが、計画の遂行を妨げている。",
+    "sentence_furigana": "彼【かれ】の協力【きょうりょく】を得【え】られないことが、計画【けいかく】の遂行【すいこう】を妨【さまた】げている。",
+    "meaning": "Not being able to get his cooperation is hampering the execution of the plan."
+  },
+  {
+    "sentence": "強い風が私たちのハイキングを妨げた。",
+    "sentence_furigana": "強【つよ】い風【かぜ】が私【わたし】たちのはイキングを妨【さまた】げた。",
+    "meaning": "The strong wind prevented our hiking."
+  },
+  {
+    "sentence": "親は子供の成長を妨げるべきではない。",
+    "sentence_furigana": "親【おや】は子供【こども】の成長【せいちょう】を妨【さまた】げるべきではない。",
+    "meaning": "Parents should not hamper their children's growth."
+  },
+  {
+    "sentence": "そのニュースは人々の平穏な生活を妨げた。",
+    "sentence_furigana": "そのニュースは人々【ひとびと】の平穏【へいおん】な生活【せいかつ】を妨【さまた】げた。",
+    "meaning": "The news disturbed people's peaceful lives."
+  },
+  {
+    "sentence": "睡眠不足は健康を妨げる要因となる。",
+    "sentence_furigana": "睡眠不足【すいみんぶそく】は健康【けんこう】を妨【さまた】げる要因【よういん】となる。",
+    "meaning": "Lack of sleep is a factor that hinders health."
+  },
+  {
+    "sentence": "彼の秘密主義がチームの連携を妨げている。",
+    "sentence_furigana": "彼【かれ】の秘密主義【ひみつしゅぎ】がチームの連携【れんけい】を妨【さまた】げている。",
+    "meaning": "His secrecy is obstructing the team's collaboration."
+  },
+  {
+    "sentence": "不確かな情報が議論を妨げた。",
+    "sentence_furigana": "不確実【ふたし】かな情報【じょうほう】が議論【ぎろん】を妨【さまた】げた。",
+    "meaning": "Uncertain information hampered the discussion."
+  },
+  {
+    "sentence": "病気は彼のキャリアの進展を妨げるかもしれない。",
+    "sentence_furigana": "病気【びょうき】は彼【かれ】のキャリアの進展【しんてん】を妨【さまた】げるかもしれない。",
+    "meaning": "Illness might obstruct the progress of his career."
+  },
+  {
+    "sentence": "外部からの干渉は、国の主権を妨げる。",
+    "sentence_furigana": "外部【がいぶ】からの干渉【かんしょう】は、国【くに】の主権【しゅけん】を妨【さまた】げる。",
+    "meaning": "External interference obstructs the nation's sovereignty."
+  },
+  {
+    "sentence": "この問題が解決されない限り、プロジェクトは進展しません。",
+    "sentence_furigana": "この問題【もんだい】が解決【かいけつ】されない限【かぎ】り、プロジェクトは進展【しんてん】しません。",
+    "meaning": "As long as this problem is not resolved, the project will not progress."
+  },
+  {
+    "sentence": "騒がしい環境は学習効率を妨げる。",
+    "sentence_furigana": "騒【さわ】がしい環境【かんきょう】は学習効率【がくしゅうこうりつ】を妨【さまた】げる。",
+    "meaning": "A noisy environment hinders learning efficiency."
+  },
+  {
+    "sentence": "彼の傲慢な態度は、人々の協力を妨げた。",
+    "sentence_furigana": "彼【かれ】の傲慢【ごうまん】な態度【たいど】は、人々【ひとびと】の協力【きょうりょく】を妨【さまた】げた。",
+    "meaning": "His arrogant attitude prevented people's cooperation."
+  },
+  {
+    "sentence": "古い規則が新しい技術の導入を妨げている。",
+    "sentence_furigana": "古【ふる】い規則【きそく】が新【あたら】しい技術【ぎじゅつ】の導入【どうにゅう】を妨【さまた】げている。",
+    "meaning": "Old regulations are hampering the introduction of new technologies."
+  },
+  {
+    "sentence": "予期せぬ出来事が彼の計画を妨げる可能性がある。",
+    "sentence_furigana": "予期【よき】せぬ出来事【できごと】が彼【かれ】の計画【けいかく】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "Unexpected events may prevent his plan."
+  },
+  {
+    "sentence": "その法律は自由な経済活動を妨げない。",
+    "sentence_furigana": "その法律【ほうりつ】は自由【じゆう】な経済活動【けいざいかつどう】を妨【さまた】げない。",
+    "meaning": "That law does not obstruct free economic activities."
+  },
+  {
+    "sentence": "会議の途中で電話が鳴り、議論を妨げた。",
+    "sentence_furigana": "会議【かいぎ】の途中【とちゅう】で電話【でんわ】が鳴【な】り、議論【ぎろん】を妨【さまた】げた。",
+    "meaning": "A phone call rang during the meeting, disturbing the discussion."
+  },
+  {
+    "sentence": "彼の無責任な行動はチームの士気を妨げた。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な行動【こうどう】はチームの士気【しき】を妨【さまた】げた。",
+    "meaning": "His irresponsible behavior hampered the team's morale."
+  },
+  {
+    "sentence": "感情的な対立が円滑なコミュニケーションを妨げている。",
+    "sentence_furigana": "感情的【かんじょうてき】な対立【たいりつ】が円滑【えんかつ】なコミュニケーションを妨【さまた】げている。",
+    "meaning": "Emotional conflict is obstructing smooth communication."
+  },
+  {
+    "sentence": "自然災害は開発の進展を妨げる要因の一つです。",
+    "sentence_furigana": "自然災害【しぜんさいがい】は開発【かいはつ】の進展【しんてん】を妨【さまた】げる要因【よういん】の一つです。",
+    "meaning": "Natural disasters are one of the factors that hinder development progress."
+  },
+  {
+    "sentence": "彼は周囲の意見を妨げることなく、自分の考えを述べた。",
+    "sentence_furigana": "彼【かれ】は周囲【しゅうい】の意見【いけん】を妨【さまた】げることなく、自分【じぶん】考【かんが】えを述【の】べた。",
+    "meaning": "He stated his opinion without disturbing the surrounding opinions."
+  },
+  {
+    "sentence": "この道路工事は交通の流れを妨げている。",
+    "sentence_furigana": "この道路工事【どうろこうじ】は交通【こうつう】の流れ【なが】れを妨【さまた】げている。",
+    "meaning": "This road construction is obstructing the flow of traffic."
+  },
+  {
+    "sentence": "彼女の才能は、彼の嫉妬によって妨げられた。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は、彼【かれ】の嫉妬【しっと】によって妨【さまた】げられた。",
+    "meaning": "Her talent was hindered by his jealousy."
+  },
+  {
+    "sentence": "過度な心配は、新しい挑戦を妨げる可能性がある。",
+    "sentence_furigana": "過度【かど】な心配【しんぱい】は、新【あたら】しい挑戦【ちょうせん】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "Excessive worry may prevent new challenges."
+  },
+  {
+    "sentence": "その騒音は、近隣住民の安眠を妨げた。",
+    "sentence_furigana": "その騒音【そうおん】は、近隣住民【きんりんじゅうみん】の安眠【あんみん】を妨【さまた】げた。",
+    "meaning": "The noise disturbed the neighbors' sleep."
+  },
+  {
+    "sentence": "法律違反は社会の秩序を妨げる。",
+    "sentence_furigana": "法律違反【ほうりついはん】は社会【しゃかい】の秩序【ちつじょ】を妨【さまた】げる。",
+    "meaning": "Law violations disturb social order."
+  },
+  {
+    "sentence": "彼は議論の進行を妨げないように静かにしていた。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】の進行【しんこう】を妨【さまた】げないように静【しず】かにしていた。",
+    "meaning": "He remained quiet so as not to disturb the progress of the discussion."
+  },
+  {
+    "sentence": "病気のため、彼はパーティーに参加できなかった。",
+    "sentence_furigana": "病気【びょうき】のため、彼【かれ】はパーティーに参加【さんか】できなかった。",
+    "meaning": "Due to illness, he could not attend the party."
+  },
+  {
+    "sentence": "不十分な準備は成功を妨げる原因となる。",
+    "sentence_furigana": "不十分【ふじゅうぶん】な準備【じゅんび】は成功【せいこう】を妨【さまた】げる原因【げんいん】となる。",
+    "meaning": "Insufficient preparation becomes a cause that hinders success."
+  },
+  {
+    "sentence": "彼らの対立は会議の結論を妨げている。",
+    "sentence_furigana": "彼ら【かれら】の対立【たいりつ】は会議【かいぎ】の結論【けつろん】を妨【さまた】げている。",
+    "meaning": "Their conflict is obstructing the conclusion of the meeting."
+  },
+  {
+    "sentence": "その知らせは、私の平静な心を妨げた。",
+    "sentence_furigana": "その知【し】らせは、私【わたし】の平静【へいせい】な心【こころ】を妨【さまた】げた。",
+    "meaning": "The news disturbed my calm mind."
+  },
+  {
+    "sentence": "この法律は企業の成長を妨げるものではない。",
+    "sentence_furigana": "この法律【ほうりつ】は企業【きぎょう】の成長【せいちょう】を妨【さまた】げるものではない。",
+    "meaning": "This law does not hinder corporate growth."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっとドアを閉めた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっとドアを閉【し】めた。",
+    "meaning": "I gently closed the door so as not to disturb him."
+  },
+  {
+    "sentence": "遅延はプロジェクトのタイムラインを妨げた。",
+    "sentence_furigana": "遅延【ちえん】はプロジェクトのタイムラインを妨【さまた】げた。",
+    "meaning": "The delay obstructed the project's timeline."
+  },
+  {
+    "sentence": "感情的な妨害は、合理的な判断を妨げる。",
+    "sentence_furigana": "感情的【かんじょうてき】な妨害【ぼうがい】は、合理的【ごうりてき】な判断【はんだん】を妨【さまた】げる。",
+    "meaning": "Emotional interference hinders rational judgment."
+  },
+  {
+    "sentence": "その新しいシステムは、以前の作業の流れを妨げている。",
+    "sentence_furigana": "その新【あたら】しいシステムは、以前【いぜん】の作業【さぎょう】の流れ【なが】れを妨【さまた】げている。",
+    "meaning": "The new system is obstructing the flow of previous work."
+  },
+  {
+    "sentence": "彼の協力不足は、全体の進捗を妨げている。",
+    "sentence_furigana": "彼【かれ】の協力不足【きょうりょくぶそく】は、全体【ぜんたい】の進捗【しんちょく】を妨【さまた】げている。",
+    "meaning": "His lack of cooperation is hampering overall progress."
+  },
+  {
+    "sentence": "予期せぬ訪問者が彼の静かな時間を妨げた。",
+    "sentence_furigana": "予期【よき】せぬ訪問者【ほうもんしゃ】が彼【かれ】の静【しず】かな時間【じかん】を妨【さまた】げた。",
+    "meaning": "An unexpected visitor disturbed his quiet time."
+  },
+  {
+    "sentence": "政府の介入は自由市場を妨げる可能性がある。",
+    "sentence_furigana": "政府【せいふ】の介入【かいにゅう】は自由市場【じゆうしじょう】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "Government intervention may obstruct the free market."
+  },
+  {
+    "sentence": "その騒動は、平和な雰囲気を妨げた。",
+    "sentence_furigana": "その騒動【そうどう】は、平和【へいわ】な雰囲気【ふんいき】を妨【さまた】げた。",
+    "meaning": "The commotion disturbed the peaceful atmosphere."
+  },
+  {
+    "sentence": "彼の無理解は、議論の発展を妨げている。",
+    "sentence_furigana": "彼【かれ】の無理解【むりかい】は、議論【ぎろん】の発展【はってん】を妨【さまた】げている。",
+    "meaning": "His lack of understanding is hindering the development of the discussion."
+  },
+  {
+    "sentence": "この規制は企業のイノベーションを妨げる。",
+    "sentence_furigana": "この規制【きせい】は企業【きぎょう】のイノベーションを妨【さまた】げる。",
+    "meaning": "These regulations obstruct corporate innovation."
+  },
+  {
+    "sentence": "彼の突然の行動が皆を驚かせ、会話を妨げた。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の行動【こうどう】が皆【みな】を驚【おどろ】かせ、会話【かいわ】を妨【さまた】げた。",
+    "meaning": "His sudden actions surprised everyone and disturbed the conversation."
+  },
+  {
+    "sentence": "不確実な状況は、計画の実行を妨げる。",
+    "sentence_furigana": "不確実【ふたし】かな状況【じょうきょう】は、計画【けいかく】の実行【じっこう】を妨【さまた】げる。",
+    "meaning": "Uncertain situations obstruct the execution of plans."
+  },
+  {
+    "sentence": "彼女の健康状態は、彼女の夢の追求を妨げるかもしれない。",
+    "sentence_furigana": "彼女【かのじょ】の健康状態【けんこうじょうたい】は、彼女【かのじょ】の夢【ゆめ】の追求【ついきゅう】を妨【さまた】げるかもしれない。",
+    "meaning": "Her health condition might hinder her pursuit of dreams."
+  },
+  {
+    "sentence": "その事故は交通の流れを著しく妨げた。",
+    "sentence_furigana": "その事故【じこ】は交通【こうつう】の流れ【なが】れを著【いちじる】しく妨【さまた】げた。",
+    "meaning": "The accident significantly obstructed the flow of traffic."
+  },
+  {
+    "sentence": "彼の妨害行為により、我々は目標を達成できなかった。",
+    "sentence_furigana": "彼【かれ】の妨害行為【ぼうがいこうい】により、我々【われわれ】は目標【もくひょう】を達成【たいせい】できなかった。",
+    "meaning": "Due to his obstructive actions, we could not achieve our goal."
+  },
+  {
+    "sentence": "騒音公害は住民の生活を妨げている。",
+    "sentence_furigana": "騒音公害【そうおんこうがい】は住民【じゅうみん】の生活【せいかつ】を妨【さまた】げている。",
+    "meaning": "Noise pollution is disturbing the residents' lives."
+  },
+  {
+    "sentence": "子供のいたずらは、大人の会話を妨げることがある。",
+    "sentence_furigana": "子供【こども】のいたずらは、大人【おとな】の会話【かいわ】を妨【さまた】げることがある。",
+    "meaning": "Children's mischief can sometimes disturb adult conversations."
+  },
+  {
+    "sentence": "その誤解は、関係を妨げる原因となった。",
+    "sentence_furigana": "その誤解【ごかい】は、関係【かんけい】を妨【さまた】げる原因【げんいん】となった。",
+    "meaning": "That misunderstanding became a cause that hindered the relationship."
+  },
+  {
+    "sentence": "彼の提案は、会議の効率性を妨げるものだった。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は、会議【かいぎ】の効率性【こうりつせい】を妨【さまた】げるものだった。",
+    "meaning": "His proposal was something that obstructed the efficiency of the meeting."
+  },
+  {
+    "sentence": "この法律は経済活動を妨げるものではない。",
+    "sentence_furigana": "この法律【ほうりつ】は経済活動【けいざいかつどう】を妨【さまた】げるものではない。",
+    "meaning": "This law does not hinder economic activities."
+  },
+  {
+    "sentence": "彼女の過度な心配は、子供の自立を妨げている。",
+    "sentence_furigana": "彼女【かのじょ】の過度【かど】な心配【しんぱい】は、子供【こども】の自立【じりつ】を妨【さまた】げている。",
+    "meaning": "Her excessive worry is hindering the child's independence."
+  },
+  {
+    "sentence": "その遅延は、予定されたスケジュールを妨げた。",
+    "sentence_furigana": "その遅延【ちえん】は、予定【よてい】されたスケジュールを妨【さまた】げた。",
+    "meaning": "The delay obstructed the scheduled timeline."
+  },
+  {
+    "sentence": "外部からの妨害がなければ、計画は成功しただろう。",
+    "sentence_furigana": "外部【がいぶ】からの妨害【ぼうがい】がなければ、計画【けいかく】は成功【せいこう】しただろう。",
+    "meaning": "If there had been no external interference, the plan would have succeeded."
+  },
+  {
+    "sentence": "彼は他の人の邪魔をしないように、静かに話した。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】の邪魔【じゃま】をしないように、静【しず】かに話【はな】した。",
+    "meaning": "He spoke quietly so as not to disturb others."
+  },
+  {
+    "sentence": "そのニュースは、人々の平穏な生活を妨げた。",
+    "sentence_furigana": "そのニュースは、人々【ひとびと】の平穏【へいおん】な生活【せいかつ】を妨【さまた】げた。",
+    "meaning": "The news disturbed people's peaceful lives."
+  },
+  {
+    "sentence": "彼の消極的な態度は、チームの進歩を妨げている。",
+    "sentence_furigana": "彼【かれ】の消極的【しょうきょくてき】な態度【たいど】は、チームの進歩【しんぽ】を妨【さまた】げている。",
+    "meaning": "His passive attitude is hampering the team's progress."
+  },
+  {
+    "sentence": "この規制は自由な経済活動を妨げる可能性があります。",
+    "sentence_furigana": "この規制【きせい】は自由【じゆう】な経済活動【けいざいかつどう】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "These regulations may prevent free economic activities."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっと部屋を出た。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっと部屋【へや】を出【で】た。",
+    "meaning": "I quietly left the room so as not to disturb him."
+  },
+  {
+    "sentence": "強い雨が私たちのピクニックを妨げた。",
+    "sentence_furigana": "強【つよ】い雨【あめ】が私達【わたしたち】のピクニックを妨【さまた】げた。",
+    "meaning": "The heavy rain prevented our picnic."
+  },
+  {
+    "sentence": "不適切な言動は、良好な人間関係を妨げる。",
+    "sentence_furigana": "不適切【ふてきせつ】な言動【げんどう】は、良好【りょうこう】な人間関係【にんげんかんけい】を妨【さまた】げる。",
+    "meaning": "Inappropriate words and actions disturb good human relationships."
+  },
+  {
+    "sentence": "その混乱は、作業の効率を妨げた。",
+    "sentence_furigana": "その混乱【こんらん】は、作業【さぎょう】の効率【こうりつ】を妨【さまた】げた。",
+    "meaning": "The confusion hindered work efficiency."
+  },
+  {
+    "sentence": "彼の病気は、学業の進歩を妨げる要因となった。",
+    "sentence_furigana": "彼【かれ】の病気【びょうき】は、学業【がくぎょう】の進歩【しんぽ】を妨【さまた】げる要因【よういん】となった。",
+    "meaning": "His illness became a factor that hindered academic progress."
+  },
+  {
+    "sentence": "この法律は、市民の自由な活動を妨げない。",
+    "sentence_furigana": "この法律【ほうりつ】は、市民【しみん】の自由【じゆう】な活動【かつどう】を妨【さまた】げない。",
+    "meaning": "This law does not obstruct citizens' free activities."
+  },
+  {
+    "sentence": "彼の干渉は、私たちの議論を妨げた。",
+    "sentence_furigana": "彼【かれ】の干渉【かんしょう】は、私達【わたしたち】の議論【ぎろん】を妨【さまた】げた。",
+    "meaning": "His interference disturbed our discussion."
+  },
+  {
+    "sentence": "騒がしい環境は集中力を妨げる。",
+    "sentence_furigana": "騒【さわ】がしい環境【かんきょう】は集中力【しゅうちゅうりょく】を妨【さまた】げる。",
+    "meaning": "A noisy environment hinders concentration."
+  },
+  {
+    "sentence": "この技術的な問題は、プロジェクトの進行を妨げている。",
+    "sentence_furigana": "この技術的【ぎじゅつてき】な問題【もんだい】は、プロジェクトの進行【しんこう】を妨【さまた】げている。",
+    "meaning": "This technical problem is obstructing the progress of the project."
+  },
+  {
+    "sentence": "彼の過度な干渉は、チームワークを妨げている。",
+    "sentence_furigana": "彼【かれ】の過度【かど】な干渉【かんしょう】は、チームワークを妨【さまた】げている。",
+    "meaning": "His excessive interference is hampering teamwork."
+  },
+  {
+    "sentence": "そのニュースは人々の心を妨げ、不安を引き起こした。",
+    "sentence_furigana": "そのニュースは人々【ひとびと】の心【こころ】を妨【さまた】げ、不安【ふあん】を引き起【ひきおこ】した。",
+    "meaning": "The news disturbed people's minds and caused anxiety."
+  },
+  {
+    "sentence": "彼の抵抗は、改革の進展を妨げるものだった。",
+    "sentence_furigana": "彼【かれ】の抵抗【ていこう】は、改革【かいかく】の進展【しんてん】を妨【さまた】げるものだった。",
+    "meaning": "His resistance was something that obstructed the progress of reform."
+  },
+  {
+    "sentence": "この法律は、企業の自由な発展を妨げません。",
+    "sentence_furigana": "この法律【ほうりつ】は、企業【きぎょう】の自由【じゆう】な発展【はってん】を妨【さまた】げません。",
+    "meaning": "This law does not prevent the free development of companies."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっと通り過ぎた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっと通【とお】り過【す】ぎた。",
+    "meaning": "I quietly passed by so as not to disturb him."
+  },
+  {
+    "sentence": "この騒音は、私の睡眠を妨げている。",
+    "sentence_furigana": "この騒音【そうおん】は、私【わたし】の睡眠【すいみん】を妨【さまた】げている。",
+    "meaning": "This noise is disturbing my sleep."
+  },
+  {
+    "sentence": "彼の妨害は、プロジェクトの完了を遅らせた。",
+    "sentence_furigana": "彼【かれ】の妨害【ぼうがい】は、プロジェクトの完了【かんりょう】を遅【おく】らせた。",
+    "meaning": "His obstruction delayed the completion of the project."
+  },
+  {
+    "sentence": "病気は彼のキャリア形成を妨げた。",
+    "sentence_furigana": "病気【びょうき】は彼【かれ】のキャリア形成【けいせい】を妨【さまた】げた。",
+    "meaning": "Illness hindered his career development."
+  },
+  {
+    "sentence": "その規則は、自由な議論を妨げる可能性がある。",
+    "sentence_furigana": "その規則【きそく】は、自由【じゆう】な議論【ぎろん】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "That regulation may prevent free discussion."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっとドアを開けた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっとドアを開【あ】けた。",
+    "meaning": "I quietly opened the door so as not to disturb him."
+  },
+  {
+    "sentence": "この不況は、企業の投資を妨げている。",
+    "sentence_furigana": "この不況【ふきょう】は、企業【きぎょう】の投資【とうし】を妨【さまた】げている。",
+    "meaning": "This recession is hindering corporate investment."
+  },
+  {
+    "sentence": "彼の無知は、問題解決を妨げる要因となった。",
+    "sentence_furigana": "彼【かれ】の無知【むち】は、問題解決【もんだいかいけつ】を妨【さまた】げる要因【よういん】となった。",
+    "meaning": "His ignorance became a factor that hindered problem-solving."
+  },
+  {
+    "sentence": "その計画は、多くの障害によって妨げられた。",
+    "sentence_furigana": "その計画【けいかく】は、多【おお】くの障害【しょうがい】によって妨【さまた】げられた。",
+    "meaning": "The plan was obstructed by many obstacles."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、静かに歩いた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、静【しず】かに歩【ある】いた。",
+    "meaning": "I walked quietly so as not to disturb him."
+  },
+  {
+    "sentence": "その事件は、平和な地域社会を妨げた。",
+    "sentence_furigana": "その事件【じけん】は、平和【へいわ】な地域社会【ちいきしゃかい】を妨【さまた】げた。",
+    "meaning": "The incident disturbed the peaceful community."
+  },
+  {
+    "sentence": "彼の妨害工作は、我々の試みを妨げた。",
+    "sentence_furigana": "彼【かれ】の妨害工作【ぼうがいこうさく】は、我々【われわれ】の試【こころ】みを妨【さまた】げた。",
+    "meaning": "His sabotage prevented our attempts."
+  },
+  {
+    "sentence": "この新しいルールは、以前のやり方を妨げる。",
+    "sentence_furigana": "この新【あたら】しいルールは、以前【いぜん】のやり方【かた】を妨【さまた】げる。",
+    "meaning": "This new rule obstructs the previous way of doing things."
+  },
+  {
+    "sentence": "彼の協力を得られないことが、プロジェクトの遅延を妨げている。",
+    "sentence_furigana": "彼【かれ】の協力【きょうりょく】を得【え】られないことが、プロジェクトの遅延【ちえん】を妨【さまた】げている。",
+    "meaning": "Not being able to get his cooperation is hindering project delays."
+  },
+  {
+    "sentence": "その噂は、人々の間に混乱を妨げた。",
+    "sentence_furigana": "その噂【うわさ】は、人々【ひとびと】の間【あいだ】に混乱【こんらん】を妨【さまた】げた。",
+    "meaning": "The rumor disturbed the people and caused confusion."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっと話しかけた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっと話【はな】しかけた。",
+    "meaning": "I spoke to him softly so as not to disturb him."
+  },
+  {
+    "sentence": "この法律は、経済成長を妨げる可能性があります。",
+    "sentence_furigana": "この法律【ほうりつ】は、経済成長【けいざいせいちょう】を妨【さまた】げる可能性【かのうせい】がある。",
+    "meaning": "This law may prevent economic growth."
+  },
+  {
+    "sentence": "彼の無責任な態度は、チームの士気を著しく妨げた。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な態度【たいど】は、チームの士気【しき】を著【いちじる】しく妨【さまた】げた。",
+    "meaning": "His irresponsible attitude significantly hampered the team's morale."
+  },
+  {
+    "sentence": "この問題は、我々の進歩を妨げる大きな障害です。",
+    "sentence_furigana": "この問題【もんだい】は、我々【われわれ】の進歩【しんぽ】を妨【さまた】げる大【おお】きな障害【しょうがい】です。",
+    "meaning": "This problem is a major obstacle hindering our progress."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、静かにドアを閉めた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、静【しず】かにドアを閉【し】めた。",
+    "meaning": "I quietly closed the door so as not to disturb him."
+  },
+  {
+    "sentence": "その事故は、交通の流れを妨げた。",
+    "sentence_furigana": "その事故【じこ】は、交通【こうつう】の流れ【なが】れを妨【さまた】げた。",
+    "meaning": "The accident obstructed the flow of traffic."
+  },
+  {
+    "sentence": "彼の妨害行為は、我々の計画の遂行を妨げた。",
+    "sentence_furigana": "彼【かれ】の妨害行為【ぼうがいこうい】は、我々【われわれ】の計画【けいかく】の遂行【すいこう】を妨【さまた】げた。",
+    "meaning": "His obstructive actions hindered the execution of our plan."
+  },
+  {
+    "sentence": "この新しいシステムは、以前の作業効率を妨げている。",
+    "sentence_furigana": "この新【あたら】しいシステムは、以前【いぜん】の作業効率【さぎょうこうりつ】を妨【さまた】げている。",
+    "meaning": "This new system is hindering previous work efficiency."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっと息を殺していた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっと息【いき】を殺【ころ】していた。",
+    "meaning": "I held my breath quietly so as not to disturb him."
+  },
+  {
+    "sentence": "その政治的な対立は、国の安定を妨げている。",
+    "sentence_furigana": "その政治的【せいじてき】な対立【たいりつ】は、国【くに】の安定【あんてい】を妨【さまた】げている。",
+    "meaning": "That political conflict is hindering the country's stability."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっと本を閉じた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっと本【ほん】を閉【と】じた。",
+    "meaning": "I quietly closed the book so as not to disturb him."
+  },
+  {
+    "sentence": "この不景気は、多くの企業の成長を妨げている。",
+    "sentence_furigana": "この不景気【ふけいき】は、多【おお】くの企業【きぎょう】の成長【せいちょう】を妨【さまた】げている。",
+    "meaning": "This recession is hindering the growth of many companies."
+  },
+  {
+    "sentence": "彼の邪魔をしないように、そっと窓を閉めた。",
+    "sentence_furigana": "彼【かれ】の邪魔【じゃま】をしないように、そっと窓【まど】を閉【し】めた。",
+    "meaning": "I quietly closed the window so as not to disturb him."
+  }
+]

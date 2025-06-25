@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "彼は新しい家に引っ越しました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい家【いえ】に引っ越【ひっこ】しました。",
+    "meaning": "He moved to a new house."
+  },
+  {
+    "sentence": "この店は古い屋根を持っています。",
+    "sentence_furigana": "この店【みせ】は古【ふる】い屋根【やね】を持【も】っています。",
+    "meaning": "This shop has an old roof."
+  },
+  {
+    "sentence": "彼は自動車のディーラーです。",
+    "sentence_furigana": "彼【かれ】は自動車【じどうしゃ】のディーラーです。",
+    "meaning": "He is a car dealer."
+  },
+  {
+    "sentence": "その屋根屋は仕事が速いです。",
+    "sentence_furigana": "その屋根屋【やねや】は仕事【しごと】が速【はや】いです。",
+    "meaning": "That roofer is fast at his job."
+  },
+  {
+    "sentence": "あの肉屋はいつも混んでいます。",
+    "sentence_furigana": "あの肉屋【にくや】はいつも混【こ】んでいます。",
+    "meaning": "That butcher shop is always crowded."
+  },
+  {
+    "sentence": "彼は正直なセールスマンです。",
+    "sentence_furigana": "彼【かれ】は正直【しょうじき】なセールスマンです。",
+    "meaning": "He is an honest salesman."
+  },
+  {
+    "sentence": "屋上からの眺めは素晴らしいです。",
+    "sentence_furigana": "屋上【おくじょう】からの眺【なが】めは素晴【すば】らしいです。",
+    "meaning": "The view from the rooftop is wonderful."
+  },
+  {
+    "sentence": "この家は築100年です。",
+    "sentence_furigana": "この家【いえ】は築【ちく】100年【ねん】です。",
+    "meaning": "This house is 100 years old."
+  },
+  {
+    "sentence": "彼はパン屋の息子です。",
+    "sentence_furigana": "彼【かれ】はパン屋【や】の息子【むすこ】です。",
+    "meaning": "He is the son of a baker."
+  },
+  {
+    "sentence": "その店は家具を売っています。",
+    "sentence_furigana": "その店【みせ】は家具【かぐ】を売【う】っています。",
+    "meaning": "That shop sells furniture."
+  },
+  {
+    "sentence": "彼は不動産屋で働いています。",
+    "sentence_furigana": "彼【かれ】は不動産屋【ふどうさんや】で働【はたら】いています。",
+    "meaning": "He works at a real estate agency."
+  },
+  {
+    "sentence": "雨漏りで屋根が傷んでいます。",
+    "sentence_furigana": "雨漏【あまも】りで屋根【やね】が傷【いた】んでいます。",
+    "meaning": "The roof is damaged by a leak."
+  },
+  {
+    "sentence": "彼は古美術品を扱う店を開きました。",
+    "sentence_furigana": "彼【かれ】は古美術品【こびじゅつひん】を扱【あつか】う店【みせ】を開【ひら】きました。",
+    "meaning": "He opened a shop dealing in antiques."
+  },
+  {
+    "sentence": "この家は屋根が低い。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が低【ひく】い。",
+    "meaning": "This house has a low roof."
+  },
+  {
+    "sentence": "彼は花屋でアルバイトをしています。",
+    "sentence_furigana": "彼【かれ】は花屋【はなや】でアルバイトをしています。",
+    "meaning": "He is working part-time at a flower shop."
+  },
+  {
+    "sentence": "その屋台は美味しい焼き鳥を売っています。",
+    "sentence_furigana": "その屋台【やたい】は美味【おい】しい焼【や】き鳥【とり】を売【う】っています。",
+    "meaning": "That food stall sells delicious yakitori."
+  },
+  {
+    "sentence": "彼は酒屋の主人です。",
+    "sentence_furigana": "彼【かれ】は酒屋【さかや】の主人【しゅじん】です。",
+    "meaning": "He is the owner of a liquor store."
+  },
+  {
+    "sentence": "屋根の上で猫が寝ています。",
+    "sentence_furigana": "屋根【やね】の上【うえ】で猫【ねこ】が寝【ね】ています。",
+    "meaning": "A cat is sleeping on the roof."
+  },
+  {
+    "sentence": "彼は靴屋の店長です。",
+    "sentence_furigana": "彼【かれ】は靴屋【くつや】の店長【てんちょう】です。",
+    "meaning": "He is the manager of a shoe store."
+  },
+  {
+    "sentence": "この家は屋根裏部屋があります。",
+    "sentence_furigana": "この家【いえ】は屋根裏部屋【やねうらべや】があります。",
+    "meaning": "This house has an attic."
+  },
+  {
+    "sentence": "彼は米屋の店員です。",
+    "sentence_furigana": "彼【かれ】は米屋【こめや】の店員【てんいん】です。",
+    "meaning": "He is a clerk at a rice shop."
+  },
+  {
+    "sentence": "屋根が雪で覆われています。",
+    "sentence_furigana": "屋根【やね】が雪【ゆき】で覆【おお】われています。",
+    "meaning": "The roof is covered with snow."
+  },
+  {
+    "sentence": "彼は時計屋で働いています。",
+    "sentence_furigana": "彼【かれ】は時計屋【とけいや】で働【はたら】いています。",
+    "meaning": "He works at a watch shop."
+  },
+  {
+    "sentence": "この家は屋根が平らです。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が平【たい】らです。",
+    "meaning": "This house has a flat roof."
+  },
+  {
+    "sentence": "彼は古本屋で本を探しています。",
+    "sentence_furigana": "彼【かれ】は古本屋【ふるほんや】で本【ほん】を探【さが】しています。",
+    "meaning": "He is looking for books at a used bookstore."
+  },
+  {
+    "sentence": "屋根職人は屋根を修理しています。",
+    "sentence_furigana": "屋根職人【やねしょくにん】は屋根【やね】を修理【しゅうり】しています。",
+    "meaning": "The roofer is repairing the roof."
+  },
+  {
+    "sentence": "彼は菓子屋の経営者です。",
+    "sentence_furigana": "彼【かれ】は菓子屋【かしや】の経営者【けいえいしゃ】です。",
+    "meaning": "He is the owner of a candy store."
+  },
+  {
+    "sentence": "この家は赤い屋根が特徴です。",
+    "sentence_furigana": "この家【いえ】は赤【あか】い屋根【やね】が特徴【とくちょう】です。",
+    "meaning": "This house is characterized by its red roof."
+  },
+  {
+    "sentence": "彼は自転車屋で新しい自転車を買いました。",
+    "sentence_furigana": "彼【かれ】は自転車屋【じてんしゃや】で新【あたら】しい自転車【じてんしゃ】を買【か】いました。",
+    "meaning": "He bought a new bicycle at a bicycle shop."
+  },
+  {
+    "sentence": "屋根には雪が積もっています。",
+    "sentence_furigana": "屋根【やね】には雪【ゆき】が積【つ】もっています。",
+    "meaning": "Snow is piled up on the roof."
+  },
+  {
+    "sentence": "彼は宝石屋で指輪を探しています。",
+    "sentence_furigana": "彼【かれ】は宝石屋【ほうせきや】で指輪【ゆびわ】を探【さが】しています。",
+    "meaning": "He is looking for a ring at a jewelry store."
+  },
+  {
+    "sentence": "この家は大きな屋根を持っています。",
+    "sentence_furigana": "この家【いえ】は大【おお】きな屋根【やね】を持【も】っています。",
+    "meaning": "This house has a large roof."
+  },
+  {
+    "sentence": "彼は魚屋で新鮮な魚を買いました。",
+    "sentence_furigana": "彼【かれ】は魚屋【さかなや】で新鮮【しんせん】な魚【さかな】を買【か】いました。",
+    "meaning": "He bought fresh fish at a fish market."
+  },
+  {
+    "sentence": "屋根から雨が漏っています。",
+    "sentence_furigana": "屋根【やね】から雨【あめ】が漏【も】っています。",
+    "meaning": "Rain is leaking from the roof."
+  },
+  {
+    "sentence": "彼は電器屋で新しいテレビを買いました。",
+    "sentence_furigana": "彼【かれ】は電器屋【でんきや】で新【あたら】しいテレビを買【か】いました。",
+    "meaning": "He bought a new TV at an electronics store."
+  },
+  {
+    "sentence": "この家は瓦屋根です。",
+    "sentence_furigana": "この家【いえ】は瓦屋根【かわらやね】です。",
+    "meaning": "This house has a tile roof."
+  },
+  {
+    "sentence": "彼は花屋で花束を買いました。",
+    "sentence_furigana": "彼【かれ】は花屋【はなや】で花束【はなたば】を買【か】いました。",
+    "meaning": "He bought a bouquet at a flower shop."
+  },
+  {
+    "sentence": "屋根の上には鳥がいます。",
+    "sentence_furigana": "屋根【やね】の上【うえ】には鳥【とり】がいます。",
+    "meaning": "There are birds on the roof."
+  },
+  {
+    "sentence": "彼は玩具屋でプレゼントを探しています。",
+    "sentence_furigana": "彼【かれ】は玩具屋【おもちゃや】でプレゼントを探【さが】しています。",
+    "meaning": "He is looking for a present at a toy store."
+  },
+  {
+    "sentence": "この家は古い屋根材を使っています。",
+    "sentence_furigana": "この家【いえ】は古【ふる】い屋根材【やねざい】を使【つか】っています。",
+    "meaning": "This house uses old roofing material."
+  },
+  {
+    "sentence": "彼は肉屋でステーキ用の肉を買いました。",
+    "sentence_furigana": "彼【かれ】は肉屋【にくや】でステーキ用【よう】の肉【にく】を買【か】いました。",
+    "meaning": "He bought steak at a butcher shop."
+  },
+  {
+    "sentence": "屋根から落ちないように注意してください。",
+    "sentence_furigana": "屋根【やね】から落【お】ちないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to fall from the roof."
+  },
+  {
+    "sentence": "彼は書店で新しい本を買いました。",
+    "sentence_furigana": "彼【かれ】は書店【しょてん】で新【あたら】しい本【ほん】を買【か】いました。",
+    "meaning": "He bought a new book at a bookstore."
+  },
+  {
+    "sentence": "この家は瓦屋根に葺き替える予定です。",
+    "sentence_furigana": "この家【いえ】は瓦屋根【かわらやね】に葺【ふ】き替【か】える予定【よてい】です。",
+    "meaning": "This house is scheduled to be re-roofed with tiles."
+  },
+  {
+    "sentence": "彼は新聞屋に新聞を配達してもらっています。",
+    "sentence_furigana": "彼【かれ】は新聞屋【しんぶんや】に新聞【しんぶん】を配達【はいたつ】してもらっています。",
+    "meaning": "He has newspapers delivered by the news delivery service."
+  },
+  {
+    "sentence": "屋根が青く塗られています。",
+    "sentence_furigana": "屋根【やね】が青【あお】く塗【ぬ】られています。",
+    "meaning": "The roof is painted blue."
+  },
+  {
+    "sentence": "彼は陶器屋でお皿を買いました。",
+    "sentence_furigana": "彼【かれ】は陶器屋【とうきや】でお皿【さら】を買【か】いました。",
+    "meaning": "He bought plates at a pottery shop."
+  },
+  {
+    "sentence": "この家は屋根が二つあります。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が二【ふた】つあります。",
+    "meaning": "This house has two roofs."
+  },
+  {
+    "sentence": "彼は米屋でコメを買っています。",
+    "sentence_furigana": "彼【かれ】は米屋【こめや】でコメを買【か】っています。",
+    "meaning": "He buys rice at a rice shop."
+  },
+  {
+    "sentence": "屋根には太陽電池が設置されています。",
+    "sentence_furigana": "屋根【やね】には太陽電池【たいようでんち】が設置【せっち】されています。",
+    "meaning": "Solar panels are installed on the roof."
+  },
+  {
+    "sentence": "彼は薬屋で風邪薬を買いました。",
+    "sentence_furigana": "彼【かれ】は薬屋【くすりや】で風邪薬【かぜぐすり】を買【か】いました。",
+    "meaning": "He bought cold medicine at a pharmacy."
+  },
+  {
+    "sentence": "この家は屋根の修理が必要です。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】の修理【しゅうり】が必要【ひつよう】です。",
+    "meaning": "This house needs roof repairs."
+  },
+  {
+    "sentence": "彼は酒屋で日本酒を買っています。",
+    "sentence_furigana": "彼【かれ】は酒屋【さかや】で日本酒【にほんしゅ】を買【か】っています。",
+    "meaning": "He buys sake at a liquor store."
+  },
+  {
+    "sentence": "屋根の上から下を見下ろしました。",
+    "sentence_furigana": "屋根【やね】から下【した】を見下【みお】ろしました。",
+    "meaning": "I looked down from the roof."
+  },
+  {
+    "sentence": "彼は靴屋で新しい靴を買いました。",
+    "sentence_furigana": "彼【かれ】は靴屋【くつや】で新【あたら】しい靴【くつ】を買【か】いました。",
+    "meaning": "He bought new shoes at a shoe store."
+  },
+  {
+    "sentence": "この家は屋根が重い。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が重【おも】い。",
+    "meaning": "This house has a heavy roof."
+  },
+  {
+    "sentence": "彼はパン屋でパンを買っています。",
+    "sentence_furigana": "彼【かれ】はパン屋【や】でパンを買【か】っています。",
+    "meaning": "He buys bread at a bakery."
+  },
+  {
+    "sentence": "屋根にはひびが入っています。",
+    "sentence_furigana": "屋根【やね】にはひびが入【はい】っています。",
+    "meaning": "The roof has cracks."
+  },
+  {
+    "sentence": "彼は自転車屋で自転車の修理をしてもらいました。",
+    "sentence_furigana": "彼【かれ】は自転車屋【じてんしゃや】で自転車【じてんしゃ】の修理【しゅうり】をしてもらいました。",
+    "meaning": "He had his bicycle repaired at a bicycle shop."
+  },
+  {
+    "sentence": "この家は板金屋根です。",
+    "sentence_furigana": "この家【いえ】は板金屋根【ばんきんやね】です。",
+    "meaning": "This house has a metal roof."
+  },
+  {
+    "sentence": "彼は布団屋で新しい布団を買いました。",
+    "sentence_furigana": "彼【かれ】は布団屋【ふとんや】で新【あたら】しい布団【ふとん】を買【か】いました。",
+    "meaning": "He bought new futons at a futon shop."
+  },
+  {
+    "sentence": "屋根のペンキ塗り替えをしました。",
+    "sentence_furigana": "屋根【やね】のペンキ塗【ぬ】り替【か】えをしました。",
+    "meaning": "I repainted the roof."
+  },
+  {
+    "sentence": "彼は米屋で米を精米してもらいました。",
+    "sentence_furigana": "彼【かれ】は米屋【こめや】で米【こめ】を精米【せいまい】してもらいました。",
+    "meaning": "He had his rice milled at a rice shop."
+  },
+  {
+    "sentence": "この家は屋根が傾いています。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が傾【かたむ】いています。",
+    "meaning": "The roof of this house is tilted."
+  },
+  {
+    "sentence": "彼は時計屋で古い時計を見つけました。",
+    "sentence_furigana": "彼【かれ】は時計屋【とけいや】で古【ふる】い時計【とけい】を見【み】つけました。",
+    "meaning": "He found an old watch at a watch shop."
+  },
+  {
+    "sentence": "屋根の上を歩くときは注意が必要です。",
+    "sentence_furigana": "屋根【やね】の上【うえ】を歩【ある】くときは注意【ちゅうい】が必要です【ひつよう】。",
+    "meaning": "Care must be taken when walking on the roof."
+  },
+  {
+    "sentence": "彼は果物屋で新鮮な果物を買いました。",
+    "sentence_furigana": "彼【かれ】は果物屋【くだものや】で新鮮【しんせん】な果物【くだもの】を買【か】いました。",
+    "meaning": "He bought fresh fruit at a fruit stand."
+  },
+  {
+    "sentence": "この家は屋根が低いので、背の高い人は注意が必要です。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が低【ひく】いので、背【せ】の的高【たか】い人【ひと】は注意【ちゅうい】が必要です【ひつよう】。",
+    "meaning": "The roof of this house is low, so tall people need to be careful."
+  },
+  {
+    "sentence": "彼は玩具屋で子供のおもちゃを買いました。",
+    "sentence_furigana": "彼【かれ】は玩具屋【おもちゃや】で子供【こども】のおもちゃを買【か】いました。",
+    "meaning": "He bought a toy for his child at a toy store."
+  },
+  {
+    "sentence": "屋根には太陽の光が当たっています。",
+    "sentence_furigana": "屋根【やね】には太陽【たいよう】の光【ひかり】が当【あ】たっています。",
+    "meaning": "Sunlight is hitting the roof."
+  },
+  {
+    "sentence": "彼は魚屋で刺身用の魚を買いました。",
+    "sentence_furigana": "彼【かれ】は魚屋【さかなや】で刺身【さしみ】用【よう】の魚【さかな】を買【か】いました。",
+    "meaning": "He bought fish for sashimi at a fish market."
+  },
+  {
+    "sentence": "この家は屋根が青いです。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が青【あお】いです。",
+    "meaning": "The roof of this house is blue."
+  },
+  {
+    "sentence": "彼は米屋で新米を買いました。",
+    "sentence_furigana": "彼【かれ】は米屋【こめや】で新米【しんまい】を買【か】いました。",
+    "meaning": "He bought new rice at a rice shop."
+  },
+  {
+    "sentence": "屋根の上は滑りやすいので注意してください。",
+    "sentence_furigana": "屋根【やね】の上【うえ】は滑【すべ】りやすいので注意【ちゅうい】してください。",
+    "meaning": "Please be careful as the roof is slippery."
+  },
+  {
+    "sentence": "彼は陶器屋で湯呑みを買いました。",
+    "sentence_furigana": "彼【かれ】は陶器屋【とうきや】で湯呑【ゆの】みを買【か】いました。",
+    "meaning": "He bought a teacup at a pottery shop."
+  },
+  {
+    "sentence": "この家は屋根の修理が必要です。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】の修理【しゅうり】が必要【ひつよう】です。",
+    "meaning": "This house needs roof repairs."
+  },
+  {
+    "sentence": "彼は靴屋でセール品を買いました。",
+    "sentence_furigana": "彼【かれ】は靴屋【くつや】でセール品【ひん】を買【か】いました。",
+    "meaning": "He bought sale items at a shoe store."
+  },
+  {
+    "sentence": "屋根には雪が積もっている。",
+    "sentence_furigana": "屋根【やね】には雪【ゆき】が積【つ】もっている。",
+    "meaning": "Snow is piled up on the roof."
+  },
+  {
+    "sentence": "彼は果物屋で季節の果物を買いました。",
+    "sentence_furigana": "彼【かれ】は果物屋【くだものや】で季節【きせつ】の果物【くだもの】を買【か】いました。",
+    "meaning": "He bought seasonal fruits at a fruit stand."
+  },
+  {
+    "sentence": "この家は屋根が傷んでいます。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が傷【いた】んでいます。",
+    "meaning": "The roof of this house is damaged."
+  },
+  {
+    "sentence": "彼は玩具屋で面白いおもちゃを見つけました。",
+    "sentence_furigana": "彼【かれ】は玩具屋【おもちゃや】で面白【おもしろ】いおもちゃを見【み】つけました。",
+    "meaning": "He found an interesting toy at a toy store."
+  },
+  {
+    "sentence": "屋根の上がとても暑いです。",
+    "sentence_furigana": "屋根【やね】の上【うえ】がとても暑【あつ】いです。",
+    "meaning": "It is very hot on the roof."
+  },
+  {
+    "sentence": "彼は魚屋で焼き魚を買いました。",
+    "sentence_furigana": "彼【かれ】は魚屋【さかなや】で焼【や】き魚【さかな】を買【か】いました。",
+    "meaning": "He bought grilled fish at a fish market."
+  },
+  {
+    "sentence": "この家は屋根が新しくなりました。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が新【あたら】しくなりました。",
+    "meaning": "The roof of this house has been renewed."
+  },
+  {
+    "sentence": "彼は米屋で美味しい米を買いました。",
+    "sentence_furigana": "彼【かれ】は米屋【こめや】で美味【おい】しい米【こめ】を買【か】いました。",
+    "meaning": "He bought delicious rice at a rice shop."
+  },
+  {
+    "sentence": "屋根から街並みを見渡せます。",
+    "sentence_furigana": "屋根【やね】から街並【まちな】みを見渡【みわた】せます。",
+    "meaning": "You can see the townscape from the roof."
+  },
+  {
+    "sentence": "彼は時計屋でアンティークの時計を見つけました。",
+    "sentence_furigana": "彼【かれ】は時計屋【とけいや】でアンティークの時計【とけい】を見【み】つけました。",
+    "meaning": "He found an antique watch at a watch shop."
+  },
+  {
+    "sentence": "この家は屋根に雪が積もっています。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】に雪【ゆき】が積【つ】もっています。",
+    "meaning": "Snow is piled up on the roof of this house."
+  },
+  {
+    "sentence": "彼は花屋で綺麗な花を買いました。",
+    "sentence_furigana": "彼【かれ】は花屋【はなや】で綺麗【きれい】な花【はな】を買【か】いました。",
+    "meaning": "He bought beautiful flowers at a flower shop."
+  },
+  {
+    "sentence": "屋根には太陽熱温水器が設置されています。",
+    "sentence_furigana": "屋根【やね】には太陽熱温水器【たいようねつおんすいき】が設置【せっち】されています。",
+    "meaning": "A solar water heater is installed on the roof."
+  },
+  {
+    "sentence": "彼は果物屋で旬の果物を買いました。",
+    "sentence_furigana": "彼【かれ】は果物屋【くだものや】で旬【しゅん】の果物【くだもの】を買【か】いました。",
+    "meaning": "He bought seasonal fruits at a fruit stand."
+  },
+  {
+    "sentence": "この家は屋根の工事中です。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】の工事中【こうじちゅう】です。",
+    "meaning": "This house is under roof construction."
+  },
+  {
+    "sentence": "彼はパン屋で焼き立てのパンを買いました。",
+    "sentence_furigana": "彼【かれ】はパン屋【や】で焼【や】きたて__の__パンを買【か】いました。",
+    "meaning": "He bought freshly baked bread at a bakery."
+  },
+  {
+    "sentence": "屋根が雨で濡れています。",
+    "sentence_furigana": "屋根【やね】が雨【あめ】で濡【ぬ】れています。",
+    "meaning": "The roof is wet from the rain."
+  },
+  {
+    "sentence": "彼は玩具屋で最新のおもちゃを買いました。",
+    "sentence_furigana": "彼【かれ】は玩具屋【おもちゃや】で最新【さいしん】のおもちゃを買【か】いました。",
+    "meaning": "He bought the latest toy at a toy store."
+  },
+  {
+    "sentence": "この家は屋根が緑色です。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が緑色【みどりいろ】です。",
+    "meaning": "The roof of this house is green."
+  },
+  {
+    "sentence": "彼は魚屋で調理済みの魚を買いました。",
+    "sentence_furigana": "彼【かれ】は魚屋【さかなや】で調理済【ちょうりず】み__の__魚【さかな】を買【か】いました。",
+    "meaning": "He bought cooked fish at a fish market."
+  },
+  {
+    "sentence": "屋根には藻が生えています。",
+    "sentence_furigana": "屋根【やね】には藻【も】が生【は】えています。",
+    "meaning": "Algae is growing on the roof."
+  },
+  {
+    "sentence": "彼は米屋で玄米を買いました。",
+    "sentence_furigana": "彼【かれ】は米屋【こめや】で玄米【げんまい】を買【か】いました。",
+    "meaning": "He bought brown rice at a rice shop."
+  },
+  {
+    "sentence": "この家は屋根が水平です。",
+    "sentence_furigana": "この家【いえ】は屋根【やね】が水平【すいへい】です。",
+    "meaning": "The roof of this house is horizontal."
+  },
+  {
+    "sentence": "彼は時計屋で電池を交換してもらいました。",
+    "sentence_furigana": "彼【かれ】は時計屋【とけいや】で電池【でんち】を交換【こうかん】してもらいました。",
+    "meaning": "He had the battery replaced at a watch shop."
+  },
+  {
+    "sentence": "屋根には多くの鳥がいます。",
+    "sentence_furigana": "屋根【やね】には多【おお】く__の__鳥【とり】がいます。",
+    "meaning": "There are many birds on the roof."
+  },
+  {
+    "sentence": "彼は果物屋で珍しい果物を買いました。",
+    "sentence_furigana": "彼【かれ】は果物屋【くだものや】で珍【めずら】しい果物【くだもの】を買【か】いました。",
+    "meaning": "He bought a rare fruit at a fruit stand."
+  }
+]

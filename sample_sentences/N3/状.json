@@ -1,0 +1,617 @@
+[
+  {
+    "sentence": "状況は刻一刻と変化している。",
+    "sentence_furigana": "状況【じょうきょう】は刻一刻【こくいっこく】と変化【へんか】している。",
+    "meaning": "The situation is changing moment by moment."
+  },
+  {
+    "sentence": "彼の健康状態は良好だ。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は良好【りょうこう】だ。",
+    "meaning": "His health condition is good."
+  },
+  {
+    "sentence": "この書類の形状を教えてください。",
+    "sentence_furigana": "この書類【しょるい】の形状【けいじょう】を教【おし】えてください。",
+    "meaning": "Please tell me the shape of this document."
+  },
+  {
+    "sentence": "その事件の状況を詳しく説明してください。",
+    "sentence_furigana": "その事件【じけん】の状況【じょうきょう】を詳【くわ】しく説明【せつめい】してください。",
+    "meaning": "Please explain the circumstances of the incident in detail."
+  },
+  {
+    "sentence": "事故の状況はまだ不明です。",
+    "sentence_furigana": "事故【じこ】の状況【じょうきょう】はまだ不明【ふめい】です。",
+    "meaning": "The situation of the accident is still unclear."
+  },
+  {
+    "sentence": "彼女の病状が悪化している。",
+    "sentence_furigana": "彼女【かのじょ】の病状【びょうじょう】が悪化【あっか】している。",
+    "meaning": "Her medical condition is worsening."
+  },
+  {
+    "sentence": "現在の状況を報告します。",
+    "sentence_furigana": "現在【げんざい】の状況【じょうきょう】を報告【ほうこく】します。",
+    "meaning": "I will report the current situation."
+  },
+  {
+    "sentence": "この書類の様式に従ってください。",
+    "sentence_furigana": "この書類【しょるい】の様式【ようしき】に従【したが】ってください。",
+    "meaning": "Please follow the format of this document."
+  },
+  {
+    "sentence": "彼の服装の奇妙な形状に人々は注目した。",
+    "sentence_furigana": "彼【かれ】の服装【ふくそう】の奇妙【きみょう】な形状【けいじょう】に人々【ひとびと】は注目【ちゅうもく】した。",
+    "meaning": "People noticed the strange shape of his clothing."
+  },
+  {
+    "sentence": "契約書の内容を確認してください。",
+    "sentence_furigana": "契約書【けいやくしょ】の内容【ないよう】を確認【かくにん】してください。",
+    "meaning": "Please confirm the contents of the contract."
+  },
+  {
+    "sentence": "災害の状況を把握する必要があります。",
+    "sentence_furigana": "災害【さいがい】の状況【じょうきょう】を把握【はあく】する必要があります。",
+    "meaning": "We need to grasp the situation of the disaster."
+  },
+  {
+    "sentence": "商品の状態を詳しく教えてください。",
+    "sentence_furigana": "商品【しょうひん】の状態【じょうたい】を詳【くわ】しく教【おし】えてください。",
+    "meaning": "Please tell me the condition of the product in detail."
+  },
+  {
+    "sentence": "彼は自分の状況を説明した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の状況【じょうきょう】を説明【せつめい】した。",
+    "meaning": "He explained his situation."
+  },
+  {
+    "sentence": "この絵の具の形状が変わっている。",
+    "sentence_furigana": "この絵【え】の具【ぐ】の形状【けいじょう】が変【か】わっている。",
+    "meaning": "The shape of this paint is unusual."
+  },
+  {
+    "sentence": "状況に応じて適切な対応を取りましょう。",
+    "sentence_furigana": "状況【じょうきょう】に応【おう】じて適切【てきせつ】な対応【たいおう】を取り【と】ましょう。",
+    "meaning": "Let's take appropriate action according to the situation."
+  },
+  {
+    "sentence": "彼女は良好な体調を維持している。",
+    "sentence_furigana": "彼女【かのじょ】は良好【りょうこう】な体調【たいちょう】を維持【いじ】している。",
+    "meaning": "She is maintaining good physical condition."
+  },
+  {
+    "sentence": "証拠の形状が事件の鍵を握っている。",
+    "sentence_furigana": "証拠【しょうこ】の形状【けいじょう】が事件【じけん】の鍵【かぎ】を握【にぎ】っている。",
+    "meaning": "The shape of the evidence holds the key to the incident."
+  },
+  {
+    "sentence": "社会情勢は常に変化している。",
+    "sentence_furigana": "社会情勢【しゃかいじょうせい】は常【つね】に変化【へんか】している。",
+    "meaning": "Social conditions are constantly changing."
+  },
+  {
+    "sentence": "この手紙の文面は丁寧だ。",
+    "sentence_furigana": "この手紙【てがみ】の文面【ぶんめん】は丁寧【ていねい】だ。",
+    "meaning": "The wording of this letter is polite."
+  },
+  {
+    "sentence": "彼の表情は読めない。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は読【よ】めない。",
+    "meaning": "His expression is unreadable."
+  },
+  {
+    "sentence": "状況説明を求める。",
+    "sentence_furigana": "状況説明【じょうきょうせつめい】を求【もと】める。",
+    "meaning": "We demand an explanation of the situation."
+  },
+  {
+    "sentence": "健康状態の確認が必要です。",
+    "sentence_furigana": "健康状態【けんこうじょうたい】の確認【かくにん】が必要【ひつよう】です。",
+    "meaning": "Confirmation of health status is necessary."
+  },
+  {
+    "sentence": "この物の形状は独特だ。",
+    "sentence_furigana": "この物【もの】の形状【けいじょう】は独特【どくとく】だ。",
+    "meaning": "The shape of this object is unique."
+  },
+  {
+    "sentence": "現在の経済状況は厳しい。",
+    "sentence_furigana": "現在【げんざい】の経済状況【けいざいじょうきょう】は厳【きび】しい。",
+    "meaning": "The current economic situation is severe."
+  },
+  {
+    "sentence": "彼は困難な状況を乗り越えた。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】を乗【の】り越【こ】えた。",
+    "meaning": "He overcame difficult circumstances."
+  },
+  {
+    "sentence": "この彫刻の形状は興味深い。",
+    "sentence_furigana": "この彫刻【ちょうこく】の形状【けいじょう】は興味深【きょうみぶか】い。",
+    "meaning": "The shape of this sculpture is interesting."
+  },
+  {
+    "sentence": "病状は安定している。",
+    "sentence_furigana": "病状【びょうじょう】は安定【あんてい】している。",
+    "meaning": "The patient's condition is stable."
+  },
+  {
+    "sentence": "この指示に従ってください。",
+    "sentence_furigana": "この指示【しじ】に従【したが】ってください。",
+    "meaning": "Please follow these instructions."
+  },
+  {
+    "sentence": "彼は感情をうまく表現できない。",
+    "sentence_furigana": "彼【かれ】は感情【かんじょう】をうまく表現【ひょうげん】できない。",
+    "meaning": "He cannot express his emotions well."
+  },
+  {
+    "sentence": "状況証拠は揃っている。",
+    "sentence_furigana": "状況証拠【じょうきょうしょうこ】は揃【そろ】っている。",
+    "meaning": "Circumstantial evidence is available."
+  },
+  {
+    "sentence": "この契約書の様式は一般的だ。",
+    "sentence_furigana": "この契約書【けいやくしょ】の様式【ようしき】は一般的【いっぱんてき】だ。",
+    "meaning": "The format of this contract is standard."
+  },
+  {
+    "sentence": "緊急事態の状況を伝える。",
+    "sentence_furigana": "緊急事態【きんきゅうじたい】の状況【じょうきょう】を伝【つた】える。",
+    "meaning": "Convey the state of the emergency."
+  },
+  {
+    "sentence": "彼の髪の毛の形状が面白い。",
+    "sentence_furigana": "彼【かれ】の髪【かみ】の毛【け】の形状【けいじょう】が面白【おもしろ】い。",
+    "meaning": "The shape of his hair is interesting."
+  },
+  {
+    "sentence": "現在の部署の状況を報告してください。",
+    "sentence_furigana": "現在【げんざい】の部署【ぶしょ】の状況【じょうきょう】を報告【ほうこく】してください。",
+    "meaning": "Please report the current situation of your department."
+  },
+  {
+    "sentence": "これは過去最高の状態です。",
+    "sentence_furigana": "これ【これ】は過去最高【かこさいこう】の状態【じょうたい】です。",
+    "meaning": "This is the best condition ever."
+  },
+  {
+    "sentence": "この手紙の筆跡は特徴的だ。",
+    "sentence_furigana": "この手紙【てがみ】の筆跡【ひっせき】は特徴的【とくちょうてき】だ。",
+    "meaning": "The handwriting of this letter is distinctive."
+  },
+  {
+    "sentence": "彼の表情から怒りを感じた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】から怒【いか】りを感じ【かんじ】た。",
+    "meaning": "I felt anger from his expression."
+  },
+  {
+    "sentence": "事故現場の状況は緊迫している。",
+    "sentence_furigana": "事故現場【じこげんば】の状況【じょうきょう】は緊迫【きんぱく】している。",
+    "meaning": "The situation at the accident scene is tense."
+  },
+  {
+    "sentence": "この商品の形状には改良の余地がある。",
+    "sentence_furigana": "この商品【しょうひん】の形状【けいじょう】には改良【かいりょう】の余地【よち】がある。",
+    "meaning": "There is room for improvement in the shape of this product."
+  },
+  {
+    "sentence": "状況証拠から犯人を特定する。",
+    "sentence_furigana": "状況証拠【じょうきょうしょうこ】から犯人【はんにん】を特定【とくてい】する。",
+    "meaning": "Identify the culprit from circumstantial evidence."
+  },
+  {
+    "sentence": "彼女は新しい環境に慣れた。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しい環境【かんきょう】に慣【な】れた。",
+    "meaning": "She got used to the new environment."
+  },
+  {
+    "sentence": "この書類の様式は変更されました。",
+    "sentence_furigana": "この書類【しょるい】の様式【ようしき】は変更【へんこう】されました。",
+    "meaning": "The format of this document has been changed."
+  },
+  {
+    "sentence": "病状が悪化しないように祈る。",
+    "sentence_furigana": "病状【びょうじょう】が悪化【あっか】しないように祈【いの】る。",
+    "meaning": "Pray that the condition does not worsen."
+  },
+  {
+    "sentence": "この設計図の形状は複雑だ。",
+    "sentence_furigana": "この設計図【せっけいず】の形状【けいじょう】は複雑【ふくざつ】だ。",
+    "meaning": "The shape of this blueprint is complex."
+  },
+  {
+    "sentence": "状況を詳しくお聞かせください。",
+    "sentence_furigana": "状況【じょうきょう】を詳【くわ】しくお聞【き】かせください。",
+    "meaning": "Please tell me the situation in detail."
+  },
+  {
+    "sentence": "彼は理想的な状態を求めている。",
+    "sentence_furigana": "彼【かれ】は理想的【りそうてき】な状態【じょうたい】を求【もと】めている。",
+    "meaning": "He is seeking an ideal state."
+  },
+  {
+    "sentence": "彼の言葉遣いには注意が必要です。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いには注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "Care is needed in his choice of words."
+  },
+  {
+    "sentence": "火災現場の状況報告。",
+    "sentence_furigana": "火災現場【かさいげんば】の状況報告【じょうきょうほうこく】。",
+    "meaning": "Situation report of the fire scene."
+  },
+  {
+    "sentence": "この宝石の形状は珍しい。",
+    "sentence_furigana": "この宝石【ほうせき】の形状【けいじょう】は珍【めずら】しい。",
+    "meaning": "The shape of this gem is rare."
+  },
+  {
+    "sentence": "現在の政治情勢は不安定だ。",
+    "sentence_furigana": "現在【げんざい】の政治情勢【せいじじょうせい】は不安定【ふあんてい】だ。",
+    "meaning": "The current political situation is unstable."
+  },
+  {
+    "sentence": "この指示書には従えない。",
+    "sentence_furigana": "この指示書【しじしょ】には従【したが】えない。",
+    "meaning": "I cannot follow these instructions."
+  },
+  {
+    "sentence": "彼女の健康状態は改善された。",
+    "sentence_furigana": "彼女【かのじょ】の健康状態【けんこうじょうたい】は改善【かいぜん】された。",
+    "meaning": "Her health condition has improved."
+  },
+  {
+    "sentence": "この機械の形状は合理的だ。",
+    "sentence_furigana": "この機械【きかい】の形状【けいじょう】は合理的【ごうりてき】だ。",
+    "meaning": "The shape of this machine is rational."
+  },
+  {
+    "sentence": "彼の説明は状況を悪化させた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は状況【じょうきょう】を悪化【あっか】させた。",
+    "meaning": "His explanation worsened the situation."
+  },
+  {
+    "sentence": "この書類の様式で作成してください。",
+    "sentence_furigana": "この書類【しょるい】の様式【ようしき】で作成【さくせい】してください。",
+    "meaning": "Please create it in the format of this document."
+  },
+  {
+    "sentence": "現在の社会状況は予測困難だ。",
+    "sentence_furigana": "現在【げんざい】の社会状況【しゃかいじょうきょう】は予測困難【よそくこんなん】だ。",
+    "meaning": "The current social conditions are difficult to predict."
+  },
+  {
+    "sentence": "病状の推移を記録する。",
+    "sentence_furigana": "病状【びょうじょう】の推移【すいい】を記録【きろく】する。",
+    "meaning": "Record the progression of the symptoms."
+  },
+  {
+    "sentence": "彼の言葉遣いは非常に丁寧だ。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは非常【ひじょう】に丁寧【ていねい】だ。",
+    "meaning": "His language is very polite."
+  },
+  {
+    "sentence": "この製品の形状はエルゴノミクスに基づいている。",
+    "sentence_furigana": "この製品【せいひん】の形状【けいじょう】はエルゴノミクスに基づ【もと】いている。",
+    "meaning": "The shape of this product is based on ergonomics."
+  },
+  {
+    "sentence": "状況に応じて対応を変える。",
+    "sentence_furigana": "状況【じょうきょう】に応【おう】じて対応【たいおう】を変【か】える。",
+    "meaning": "Change the response according to the situation."
+  },
+  {
+    "sentence": "彼の表情は晴れやかだった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は晴【は】れやかだった。",
+    "meaning": "His expression was cheerful."
+  },
+  {
+    "sentence": "事件の状況証拠を再調査する。",
+    "sentence_furigana": "事件【じけん】の状況証拠【じょうきょうしょうこ】を再調査【さいちょうさ】する。",
+    "meaning": "Re-examine the circumstantial evidence of the case."
+  },
+  {
+    "sentence": "この契約書の様式は国際標準に準拠している。",
+    "sentence_furigana": "この契約書【けいやくしょ】の様式【ようしき】は国際標準【こくさいひょうじゅん】に準拠【じゅんきょ】している。",
+    "meaning": "The format of this contract complies with international standards."
+  },
+  {
+    "sentence": "彼女の病状は深刻だ。",
+    "sentence_furigana": "彼女【かのじょ】の病状【びょうじょう】は深刻【しんこく】だ。",
+    "meaning": "Her medical condition is serious."
+  },
+  {
+    "sentence": "この建物の形状はユニークだ。",
+    "sentence_furigana": "この建物【たてもの】の形状【けいじょう】はユニークだ。",
+    "meaning": "The shape of this building is unique."
+  },
+  {
+    "sentence": "状況を楽観視することはできない。",
+    "sentence_furigana": "状況【じょうきょう】を楽観視【らっかんし】することはできない。",
+    "meaning": "We cannot be optimistic about the situation."
+  },
+  {
+    "sentence": "この書類の様式を変更する必要がある。",
+    "sentence_furigana": "この書類【しょるい】の様式【ようしき】を変更【へんこう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to change the format of this document."
+  },
+  {
+    "sentence": "彼の健康状態は非常に良い。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は非常【ひじょう】に良【よ】い。",
+    "meaning": "His health condition is very good."
+  },
+  {
+    "sentence": "この地図の形状は正確だ。",
+    "sentence_furigana": "この地図【ちず】の形状【けいじょう】は正確【せいかく】だ。",
+    "meaning": "The shape of this map is accurate."
+  },
+  {
+    "sentence": "状況によっては追加の措置が必要になる。",
+    "sentence_furigana": "状況【じょうきょう】によっては追加【ついか】の措置【そち】が必要【ひつよう】になる。",
+    "meaning": "Depending on the situation, additional measures may be required."
+  },
+  {
+    "sentence": "彼の表情はかすかに微笑んでいた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】はかすかに微笑【ほほえ】んでいた。",
+    "meaning": "His expression was faintly smiling."
+  },
+  {
+    "sentence": "病状についての詳細な報告書。",
+    "sentence_furigana": "病状【びょうじょう】についての詳細【しょうさい】な報告書【ほうこくしょ】。",
+    "meaning": "A detailed report on the patient's condition."
+  },
+  {
+    "sentence": "この封筒の形状は特殊だ。",
+    "sentence_furigana": "この封筒【ふうとう】の形状【けいじょう】は特殊【とくしゅ】だ。",
+    "meaning": "The shape of this envelope is special."
+  },
+  {
+    "sentence": "現在の業務状況を把握する。",
+    "sentence_furigana": "現在【げんざい】の業務状況【ぎょうむじょうきょう】を把握【はあく】する。",
+    "meaning": "Grasp the current business situation."
+  },
+  {
+    "sentence": "この指示には従うべきだ。",
+    "sentence_furigana": "この指示【しじ】には従【したが】うべきだ。",
+    "meaning": "You should follow these instructions."
+  },
+  {
+    "sentence": "彼の言葉遣いは相手を不快にさせた。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは相手【あいて】を不快【ふかい】にさせた。",
+    "meaning": "His choice of words made the other person uncomfortable."
+  },
+  {
+    "sentence": "この製品の形状は手に馴染む。",
+    "sentence_furigana": "この製品【せいひん】の形状【けいじょう】は手【て】に馴染【なじ】む。",
+    "meaning": "The shape of this product fits well in the hand."
+  },
+  {
+    "sentence": "社会情勢の変化に対応する。",
+    "sentence_furigana": "社会情勢【しゃかいじょうせい】の変化【へんか】に対応【たいおう】する。",
+    "meaning": "Respond to changes in social conditions."
+  },
+  {
+    "sentence": "状況証拠のみでは有罪とは言えない。",
+    "sentence_furigana": "状況証拠【じょうきょうしょうこ】のみでは有罪【ゆうざい】とは言【い】えない。",
+    "meaning": "We cannot say someone is guilty based solely on circumstantial evidence."
+  },
+  {
+    "sentence": "この申込書の様式が違います。",
+    "sentence_furigana": "この申込書【もうしこみしょ】の様式【ようしき】が違【ちが】います。",
+    "meaning": "The format of this application form is different."
+  },
+  {
+    "sentence": "彼の健康状態には懸念がある。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】には懸念【けねん】がある。",
+    "meaning": "There are concerns about his health condition."
+  },
+  {
+    "sentence": "このパッケージの形状は魅力的だ。",
+    "sentence_furigana": "このパッケージの形状【けいじょう】は魅力的【みりょくてき】だ。",
+    "meaning": "The shape of this package is attractive."
+  },
+  {
+    "sentence": "病状の悪化を防ぐための措置を講じる。",
+    "sentence_furigana": "病状【びょうじょう】の悪化【あっか】を防【ふせ】ぐための措置【そち】を講【こう】じる。",
+    "meaning": "Take measures to prevent the worsening of the condition."
+  },
+  {
+    "sentence": "状況を正確に把握することが重要だ。",
+    "sentence_furigana": "状況【じょうきょう】を正確【せいかく】に把握【はあく】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to accurately grasp the situation."
+  },
+  {
+    "sentence": "彼の表情は硬かった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は硬【かた】かった。",
+    "meaning": "His expression was stiff."
+  },
+  {
+    "sentence": "この書類の形状は標準的ではない。",
+    "sentence_furigana": "この書類【しょるい】の形状【けいじょう】は標準的【ひょうじゅんてき】ではない。",
+    "meaning": "The shape of this document is not standard."
+  },
+  {
+    "sentence": "現在の経済状況は依然として厳しい。",
+    "sentence_furigana": "現在【げんざい】の経済状況【けいざいじょうきょう】は依然【いぜん】として厳【きび】しい。",
+    "meaning": "The current economic situation remains severe."
+  },
+  {
+    "sentence": "彼女は新しい状況に戸惑っている。",
+    "sentence_furigana": "彼女【かのじょ】は新【あら】しい状況【じょうきょう】に戸惑【とまど】っている。",
+    "meaning": "She is bewildered by the new situation."
+  },
+  {
+    "sentence": "この法律の条文は明確だ。",
+    "sentence_furigana": "この法律【ほうりつ】の条文【じょうぶん】は明確【めいかく】だ。",
+    "meaning": "The provisions of this law are clear."
+  },
+  {
+    "sentence": "状況に応じて柔軟に対応する。",
+    "sentence_furigana": "状況【じょうきょう】に応【おう】じて柔軟【じゅうなん】に対応【たいおう】する。",
+    "meaning": "Respond flexibly according to the situation."
+  },
+  {
+    "sentence": "彼の言葉遣いは非常に丁寧で感銘を受けた。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは非常【ひじょう】に丁寧【ていねい】で感銘【かんめい】を受【う】けた。",
+    "meaning": "I was impressed by his very polite choice of words."
+  },
+  {
+    "sentence": "この機械の形状は特殊用途向けだ。",
+    "sentence_furigana": "この機械【きかい】の形状【けいじょう】は特殊用途【とくしゅようと】向【む】けだ。",
+    "meaning": "The shape of this machine is for special use."
+  },
+  {
+    "sentence": "病状の軽重は人によって異なる。",
+    "sentence_furigana": "病状【びょうじょう】の軽重【けいじゅう】は人【ひと】によって異【こと】なる。",
+    "meaning": "The severity of the condition varies from person to person."
+  },
+  {
+    "sentence": "現在の状況は深刻なものである。",
+    "sentence_furigana": "現在【げんざい】の状況【じょうきょう】は深刻【しんこく】なものである。",
+    "meaning": "The current situation is serious."
+  },
+  {
+    "sentence": "この契約書の様式はすべて同じです。",
+    "sentence_furigana": "この契約書【けいやくしょ】の様式【ようしき】はすべて同【おな】じです。",
+    "meaning": "The format of this contract is all the same."
+  },
+  {
+    "sentence": "彼の表情は喜びにあふれていた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は喜【よろこ】びに溢【あふ】れていた。",
+    "meaning": "His expression was full of joy."
+  },
+  {
+    "sentence": "この商品の形状は人間工学に基づいている。",
+    "sentence_furigana": "この商品【しょうひん】の形状【けいじょう】は人間工学【にんげんこうがく】に基づ【もと】いている。",
+    "meaning": "The shape of this product is based on ergonomics."
+  },
+  {
+    "sentence": "状況の改善は期待できるだろうか。",
+    "sentence_furigana": "状況【じょうきょう】の改善【かいぜん】は期待【きたい】できるだろうか。",
+    "meaning": "Can we expect an improvement in the situation?"
+  },
+  {
+    "sentence": "彼の健康状態は常にチェックする必要がある。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は常【つね】にチェックする必要【ひつよう】がある。",
+    "meaning": "It is necessary to constantly check his health condition."
+  },
+  {
+    "sentence": "この書類の様式に沿って記入してください。",
+    "sentence_furigana": "この書類【しょるい】の様式【ようしき】に沿【そ】って記入【きにゅう】してください。",
+    "meaning": "Please fill it out according to the format of this document."
+  },
+  {
+    "sentence": "彼の言葉遣いは非常に丁寧で、尊敬に値する。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは非常【ひじょう】に丁寧【ていねい】で、尊敬【そんけい】に値【あたい】する。",
+    "meaning": "His language is very polite and deserves respect."
+  },
+  {
+    "sentence": "この機械の形状はメンテナンスを容易にする。",
+    "sentence_furigana": "この機械【きかい】の形状【けいじょう】はメンテナンスを容易【ようい】にする。",
+    "meaning": "The shape of this machine facilitates maintenance."
+  },
+  {
+    "sentence": "病状が安定していることを確認した。",
+    "sentence_furigana": "病状【びょうじょう】が安定【あんてい】していることを確認【かくにん】した。",
+    "meaning": "I confirmed that the patient's condition is stable."
+  },
+  {
+    "sentence": "状況証拠は十分に集まった。",
+    "sentence_furigana": "状況証拠【じょうきょうしょうこ】は十分【じゅうぶん】に集【あつ】まった。",
+    "meaning": "Sufficient circumstantial evidence has been gathered."
+  },
+  {
+    "sentence": "彼の表情は緊張していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は緊張【きんちょう】していた。",
+    "meaning": "His expression was tense."
+  },
+  {
+    "sentence": "この建物の形状は独特な美しさを持っている。",
+    "sentence_furigana": "この建物【たてもの】の形状【けいじょう】は独特【どくとく】な美【うつく】しさを持【も】っている。",
+    "meaning": "The shape of this building has a unique beauty."
+  },
+  {
+    "sentence": "現在の国際情勢は複雑怪奇だ。",
+    "sentence_furigana": "現在【げんざい】の国際情勢【こくさいじょうせい】は複雑怪奇【ふくざつかいき】だ。",
+    "meaning": "The current international situation is complex and bizarre."
+  },
+  {
+    "sentence": "彼の言葉遣いは相手を不快にさせないように工夫されている。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは相手【あいて】を不快【ふかい】にさせないように工夫【くふう】されている。",
+    "meaning": "His choice of words is designed not to make the other person uncomfortable."
+  },
+  {
+    "sentence": "この書類の様式は最新のものに変更してください。",
+    "sentence_furigana": "この書類【しょるい】の様式【ようしき】は最新【さいしん】のものに変更【へんこう】してください。",
+    "meaning": "Please change the format of this document to the latest one."
+  },
+  {
+    "sentence": "状況把握のために現地調査を行う。",
+    "sentence_furigana": "状況把握【じょうきょうはあく】のために現地調査【げんちちょうさ】を行【おこな】う。",
+    "meaning": "Conduct an on-site survey to grasp the situation."
+  },
+  {
+    "sentence": "彼の健康状態は良好に推移している。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は良好【りょうこう】に推移【すいい】している。",
+    "meaning": "His health condition is proceeding favorably."
+  },
+  {
+    "sentence": "この製品の形状は従来の概念を覆すものだ。",
+    "sentence_furigana": "この製品【せいひん】の形状【けいじょう】は従来【じゅうらい】の概念【がいねん】を覆【くつがえ】すものだ。",
+    "meaning": "The shape of this product overturns conventional concepts."
+  },
+  {
+    "sentence": "病状が悪化した場合はすぐに連絡してください。",
+    "sentence_furigana": "病状【びょうじょう】が悪化【あっか】した場合はすぐ【すぐ】に連絡【れんらく】してください。",
+    "meaning": "Please contact me immediately if the condition worsens."
+  },
+  {
+    "sentence": "彼の表情は困惑していた。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は困惑【こんわく】していた。",
+    "meaning": "His expression was bewildered."
+  },
+  {
+    "sentence": "この書類の形状はA4サイズです。",
+    "sentence_furigana": "この書類【しょるい】の形状【けいじょう】はA4サイズです。",
+    "meaning": "The shape of this document is A4 size."
+  },
+  {
+    "sentence": "現在の状況は予断を許さない。",
+    "sentence_furigana": "現在【げんざい】の状況【じょうきょう】は予断【よだん】を許【ゆる】さない。",
+    "meaning": "The current situation does not allow for any assumptions."
+  },
+  {
+    "sentence": "この契約書の様式を変更することは可能ですか。",
+    "sentence_furigana": "この契約書【けいやくしょ】の様式【ようしき】を変更【へんこう】することは可能【かのう】ですか。",
+    "meaning": "Is it possible to change the format of this contract?"
+  },
+  {
+    "sentence": "彼の健康状態は順調に回復している。",
+    "sentence_furigana": "彼【かれ】の健康状態【けんこうじょうたい】は順調【じゅんちょう】に回復【かいふく】している。",
+    "meaning": "His health condition is recovering smoothly."
+  },
+  {
+    "sentence": "この製品の形状は非常にシンプルで使いやすい。",
+    "sentence_furigana": "この製品【せいひん】の形状【けいじょう】は非常【ひじょう】にシンプルで使【つか】いやすい。",
+    "meaning": "The shape of this product is very simple and easy to use."
+  },
+  {
+    "sentence": "彼の言葉遣いは尊敬に値するほど丁寧だ。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは尊敬【そんけい】に値【あたい】するほど丁寧【ていねい】だ。",
+    "meaning": "His choice of words is so polite that it deserves respect."
+  },
+  {
+    "sentence": "この彫刻の形状は見る角度によって変化する。",
+    "sentence_furigana": "この彫刻【ちょうこく】の形状【けいじょう】は見る角度【かくど】によって変化【へんか】する。",
+    "meaning": "The shape of this sculpture changes depending on the viewing angle."
+  },
+  {
+    "sentence": "病状に関する最新の情報を入手した。",
+    "sentence_furigana": "病状【びょうじょう】に関する最新【さいしん】の情報【じょうほう】を入手【にゅうしゅ】した。",
+    "meaning": "I obtained the latest information regarding the patient's condition."
+  },
+  {
+    "sentence": "現在の社会状況は楽観を許さない。",
+    "sentence_furigana": "現在【げんざい】の社会状況【しゃかいじょうきょう】は楽観【らっかん】を許【ゆる】さない。",
+    "meaning": "The current social conditions do not allow for optimism."
+  }
+]

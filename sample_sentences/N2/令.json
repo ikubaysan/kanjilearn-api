@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "社長は新しい方針を令した。",
+    "sentence_furigana": "社長【しゃちょう】は新【あたら】しい方針【ほうしん】を令【れい】した。",
+    "meaning": "The president ordered the new policy."
+  },
+  {
+    "sentence": "その命令は絶対的なものだった。",
+    "sentence_furigana": "その命令【めいれい】は絶対的【ぜったいてき】なものだった。",
+    "meaning": "That order was absolute."
+  },
+  {
+    "sentence": "法律を遵守することは国民の義務である。",
+    "sentence_furigana": "法律【ほうりつ】を遵守【じゅんしゅ】することは国民【こくみん】の義務【ぎむ】である。",
+    "meaning": "Obeying the law is the duty of the people."
+  },
+  {
+    "sentence": "裁判所は令状を発行した。",
+    "sentence_furigana": "裁判所【さいばんしょ】は令状【れいじょう】を発行【はっこう】した。",
+    "meaning": "The court issued a warrant."
+  },
+  {
+    "sentence": "学校は生徒に制服の着用を令した。",
+    "sentence_furigana": "学校【がっこう】は生徒【せいと】に制服【せいふく】の着用【ちゃくよう】を令【れい】した。",
+    "meaning": "The school ordered students to wear uniforms."
+  },
+  {
+    "sentence": "この法令は古いが、今も有効である。",
+    "sentence_furigana": "この法令【ほうれい】は古【ふる】いが、今【いま】も有効【ゆうこう】である。",
+    "meaning": "This ancient law is still valid today."
+  },
+  {
+    "sentence": "国王は平和令を発布した。",
+    "sentence_furigana": "国王【こくおう】は平和令【へいわれい】を発布【はっぷ】した。",
+    "meaning": "The king issued a decree of peace."
+  },
+  {
+    "sentence": "父は私に部屋を片付けるよう令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に部屋【へや】を片付【かたづ】けるよう令【れい】した。",
+    "meaning": "My father ordered me to clean my room."
+  },
+  {
+    "sentence": "彼は令状に従って行動した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】に従【したが】って行動【こうどう】した。",
+    "meaning": "He acted according to the warrant."
+  },
+  {
+    "sentence": "政府は緊急令を発令した。",
+    "sentence_furigana": "政府【せいふ】は緊急令【きんきゅうれい】を発令【はつれい】した。",
+    "meaning": "The government issued an emergency decree."
+  },
+  {
+    "sentence": "先生は授業中に静かにするよう令した。",
+    "sentence_furigana": "先生【せんせい】は授業中【じゅぎょうちゅう】に静【しず】かにするよう令【れい】した。",
+    "meaning": "The teacher ordered us to be quiet during class."
+  },
+  {
+    "sentence": "この命令は厳格に施行される。",
+    "sentence_furigana": "この命令【めいれい】は厳格【げんかく】に施行【しこう】される。",
+    "meaning": "This order will be strictly enforced."
+  },
+  {
+    "sentence": "古い法律には奇妙な条項が含まれている。",
+    "sentence_furigana": "古【ふる】い法律【ほうりつ】には奇妙【きみょう】な条項【じょうこう】が含ま【ふくま】れている。",
+    "meaning": "Old laws contain strange clauses."
+  },
+  {
+    "sentence": "司令官は部隊に前進を令した。",
+    "sentence_furigana": "司令官【しれいかん】は部隊【ぶたい】に前進【ぜんしん】を令【れい】した。",
+    "meaning": "The commander ordered the troops to advance."
+  },
+  {
+    "sentence": "令嬢は美しく、賢かった。",
+    "sentence_furigana": "令嬢【れいじょう】は美【うつく】しく、賢【かしこ】かった。",
+    "meaning": "The young lady was beautiful and intelligent."
+  },
+  {
+    "sentence": "彼は令状を提示した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】を提示【ていじ】した。",
+    "meaning": "He presented the warrant."
+  },
+  {
+    "sentence": "学校長は規律を守るよう令した。",
+    "sentence_furigana": "学校長【がっこうちょう】は規律【きりつ】を守【まも】るよう令【れい】した。",
+    "meaning": "The principal ordered adherence to discipline."
+  },
+  {
+    "sentence": "これは古代の法律に関する研究です。",
+    "sentence_furigana": "これ【これ】は古代【こだい】の法律【ほうりつ】に関する【かんする】研究【けんきゅう】です。",
+    "meaning": "This is a study of ancient laws."
+  },
+  {
+    "sentence": "父は私に宿題をさせるように令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に宿題【しゅくだい】をさせるように令【れい】した。",
+    "meaning": "My father ordered me to do my homework."
+  },
+  {
+    "sentence": "新しい法律が施行された。",
+    "sentence_furigana": "新【あたら】しい法律【ほうりつ】が施行【しこう】された。",
+    "meaning": "A new law was enacted."
+  },
+  {
+    "sentence": "警察は令状を取り寄せた。",
+    "sentence_furigana": "警察【けいさつ】は令状【れいじょう】を取り寄【とりよ】せた。",
+    "meaning": "The police obtained a warrant."
+  },
+  {
+    "sentence": "彼女は令嬢らしく振る舞った。",
+    "sentence_furigana": "彼女【かのじょ】は令嬢【れいじょう】らしく振【ふ】る舞【ま】った。",
+    "meaning": "She behaved like a young lady."
+  },
+  {
+    "sentence": "王は国民に平和を保つよう令した。",
+    "sentence_furigana": "王【おう】は国民【こくみん】に平和【へいわ】を保【たも】つよう令【れい】した。",
+    "meaning": "The king ordered the people to maintain peace."
+  },
+  {
+    "sentence": "この法律は時代遅れだ。",
+    "sentence_furigana": "この法律【ほうりつ】は時代遅【じだいおく】れだ。",
+    "meaning": "This law is outdated."
+  },
+  {
+    "sentence": "彼は裁判所の命令に従った。",
+    "sentence_furigana": "彼【かれ】は裁判所【さいばんしょ】の命令【めいれい】に従【したが】った。",
+    "meaning": "He complied with the court's order."
+  },
+  {
+    "sentence": "令状なしでは逮捕できない。",
+    "sentence_furigana": "令状【れいじょう】なしでは逮捕【たいほ】できない。",
+    "meaning": "You cannot arrest without a warrant."
+  },
+  {
+    "sentence": "社長は社員に早朝出勤を令した。",
+    "sentence_furigana": "社長【しゃちょう】は社員【しゃいん】に早朝出勤【そうちょうしゅっきん】を令【れい】した。",
+    "meaning": "The president ordered employees to come to work early."
+  },
+  {
+    "sentence": "その令は国民に広く知らされた。",
+    "sentence_furigana": "その令【れい】は国民【こくみん】に広【ひろ】く知【し】らされた。",
+    "meaning": "The decree was widely publicized to the people."
+  },
+  {
+    "sentence": "古代の法律は現代の我々には理解しにくい。",
+    "sentence_furigana": "古代【こだい】の法律【ほうりつ】は現代【げんだい】の我々【われわれ】には理解【りかい】しにくい。",
+    "meaning": "Ancient laws are difficult for us modern people to understand."
+  },
+  {
+    "sentence": "彼は令状を手に警察官に近づいた。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】を手【て】に警察官【けいさつかん】に近【ちか】づいた。",
+    "meaning": "He approached the police officer with the warrant in hand."
+  },
+  {
+    "sentence": "学校は始業時刻を令した。",
+    "sentence_furigana": "学校【がっこう】は始業時刻【しぎょうじこく】を令【れい】した。",
+    "meaning": "The school set the start time."
+  },
+  {
+    "sentence": "その命令は非常に厳しかった。",
+    "sentence_furigana": "その命令【めいれい】は非常【ひじょう】に厳【きび】しかった。",
+    "meaning": "That order was very strict."
+  },
+  {
+    "sentence": "彼は法に則って行動することを令された。",
+    "sentence_furigana": "彼【かれ】は法【ほう】に則【のっと】って行動【こうどう】することを令【れい】された。",
+    "meaning": "He was ordered to act in accordance with the law."
+  },
+  {
+    "sentence": "令嬢は舞踏会で輝いていた。",
+    "sentence_furigana": "令嬢【れいじょう】は舞踏会【ぶとうかい】で輝【かがや】いていた。",
+    "meaning": "The young lady shone at the ball."
+  },
+  {
+    "sentence": "裁判官は令状を破った。",
+    "sentence_furigana": "裁判官【さいばんかん】は令状【れいじょう】を破【やぶ】った。",
+    "meaning": "The judge tore up the warrant."
+  },
+  {
+    "sentence": "社長は会社の規則を改めるよう令した。",
+    "sentence_furigana": "社長【しゃちょう】は会社【かいしゃ】の規則【きそく】を改【あらた】めるよう令【れい】した。",
+    "meaning": "The president ordered the company rules to be revised."
+  },
+  {
+    "sentence": "この法律は国民の権利を守るために作られた。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の権利【けんり】を守【まも】るために作【つく】られた。",
+    "meaning": "This law was made to protect the people's rights."
+  },
+  {
+    "sentence": "彼は令状を見せろと要求した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】を見【み】せろと要求【ようきゅう】した。",
+    "meaning": "He demanded to see the warrant."
+  },
+  {
+    "sentence": "会議の議長は参加者に発言を令した。",
+    "sentence_furigana": "会議【かいぎ】の議長【ぎちょう】は参加者【さんかしゃ】に発言【はつげん】を令【れい】した。",
+    "meaning": "The chairman of the meeting ordered the participants to speak."
+  },
+  {
+    "sentence": "その法令は非常に古いが、まだ一部有効である。",
+    "sentence_furigana": "その法令【ほうれい】は非常【ひじょう】に古【ふる】いが、まだ一部【いちぶ】有効【ゆうこう】である。",
+    "meaning": "That ancient law is very old, but still partly valid."
+  },
+  {
+    "sentence": "彼は捜査のために令状を取得した。",
+    "sentence_furigana": "彼【かれ】は捜査【そうさ】のために令状【れいじょう】を取得【しゅとく】した。",
+    "meaning": "He obtained a warrant for the investigation."
+  },
+  {
+    "sentence": "父親は息子に正直であるよう令した。",
+    "sentence_furigana": "父親【ちちおや】は息子【むすこ】に正直【しょうじき】であるよう令【れい】した。",
+    "meaning": "The father ordered his son to be honest."
+  },
+  {
+    "sentence": "この命令は絶対服従を意味する。",
+    "sentence_furigana": "この命令【めいれい】は絶対服従【ぜったいふくじゅう】を意味【いみ】する。",
+    "meaning": "This order means absolute obedience."
+  },
+  {
+    "sentence": "法律は社会の秩序を維持するために存在する。",
+    "sentence_furigana": "法律【ほうりつ】は社会【しゃかい】の秩序【ちつじょ】を維持【いじ】するために存在【そんざい】する。",
+    "meaning": "Laws exist to maintain social order."
+  },
+  {
+    "sentence": "彼は令状に基づいて行動した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】に基づいて【もとづ】いて行動【こうどう】した。",
+    "meaning": "He acted based on the warrant."
+  },
+  {
+    "sentence": "校長先生は生徒達に礼儀正しく振る舞うよう令した。",
+    "sentence_furigana": "校長先生【こうちょうせんせい】は生徒達【せいとたち】に礼儀正【れいぎただ】しく振【ふ】る舞【ま】うよう令【れい】した。",
+    "meaning": "The principal ordered the students to behave politely."
+  },
+  {
+    "sentence": "彼女は王からの令状を受け取った。",
+    "sentence_furigana": "彼女【かのじょ】は王【おう】からの令状【れいじょう】を受【う】け取【と】った。",
+    "meaning": "She received a decree from the king."
+  },
+  {
+    "sentence": "これは非常に重要な命令だ。",
+    "sentence_furigana": "これ【これ】は非常【ひじょう】に重要【じゅうよう】な命令【めいれい】だ。",
+    "meaning": "This is a very important order."
+  },
+  {
+    "sentence": "法律は時代の変化とともに進化する。",
+    "sentence_furigana": "法律【ほうりつ】は時代【じだい】の変化【へんか】とともに進化【しんか】する。",
+    "meaning": "Laws evolve with the times."
+  },
+  {
+    "sentence": "彼は警察に令状を提示するように言われた。",
+    "sentence_furigana": "彼【かれ】は警察【けいさつ】に令状【れいじょう】を提示【ていじ】するように言【い】われた。",
+    "meaning": "He was told to show the warrant to the police."
+  },
+  {
+    "sentence": "親は子供に規則正しい生活を送るよう令した。",
+    "sentence_furigana": "親【おや】は子供【こども】に規則正【きそくただ】しい生活【せいかつ】を送【おく】るよう令【れい】した。",
+    "meaning": "Parents ordered their children to lead a regular life."
+  },
+  {
+    "sentence": "この法令は歴史的な価値がある。",
+    "sentence_furigana": "この法令【ほうれい】は歴史的【れきしてき】な価値【かち】がある。",
+    "meaning": "This ancient law has historical value."
+  },
+  {
+    "sentence": "裁判所は被告に法廷に出頭するよう令した。",
+    "sentence_furigana": "裁判所【さいばんしょ】は被告【ひこく】に法廷【ほうてい】に出頭【しゅっとう】するよう令【れい】した。",
+    "meaning": "The court ordered the defendant to appear in court."
+  },
+  {
+    "sentence": "彼は令状に従って捜索を行った。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】に従【したが】って捜索【そうさく】を行【おこな】った。",
+    "meaning": "He conducted the search according to the warrant."
+  },
+  {
+    "sentence": "父は私に部屋をきれいに保つよう令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に部屋【へや】をきれいに保【たも】つよう令【れい】した。",
+    "meaning": "My father ordered me to keep my room clean."
+  },
+  {
+    "sentence": "その命令は無効とされた。",
+    "sentence_furigana": "その命令【めいれい】は無効【むこう】とされた。",
+    "meaning": "That order was declared invalid."
+  },
+  {
+    "sentence": "法律の趣旨を理解することが重要だ。",
+    "sentence_furigana": "法律【ほうりつ】の趣旨【しゅし】を理解【りかい】することが重要【じゅうよう】だ。",
+    "meaning": "It is important to understand the intent of the law."
+  },
+  {
+    "sentence": "彼は令状なしに家に入った。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】なしに家【いえ】に入【はい】った。",
+    "meaning": "He entered the house without a warrant."
+  },
+  {
+    "sentence": "先生は生徒に宿題を提出するよう令した。",
+    "sentence_furigana": "先生【せんせい】は生徒【せいと】に宿題【しゅくだい】を提出【ていしゅつ】するよう令【れい】した。",
+    "meaning": "The teacher ordered the students to submit their homework."
+  },
+  {
+    "sentence": "この命令は多くの反対にあった。",
+    "sentence_furigana": "この命令【めいれい】は多【おお】くの反対【はんたい】にあった。",
+    "meaning": "This order met with much opposition."
+  },
+  {
+    "sentence": "昔の法律は現代とは大きく異なる。",
+    "sentence_furigana": "昔【むかし】の法律【ほうりつ】は現代【げんだい】とは大【おお】きく異【こと】なる。",
+    "meaning": "Ancient laws are very different from modern ones."
+  },
+  {
+    "sentence": "彼は令状の正当性を主張した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】の正当性【せいとうせい】を主張【しゅちょう】した。",
+    "meaning": "He asserted the validity of the warrant."
+  },
+  {
+    "sentence": "父は私に部屋を掃除するように令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に部屋【へや】を掃除【そうじ】するように令【れい】した。",
+    "meaning": "My father ordered me to clean my room."
+  },
+  {
+    "sentence": "この決定は法的な根拠に基づいている。",
+    "sentence_furigana": "この決定【けってい】は法的【ほうてき】な根拠【こんきょ】に基づ【もとづ】いている。",
+    "meaning": "This decision is based on legal grounds."
+  },
+  {
+    "sentence": "警察は令状を執行した。",
+    "sentence_furigana": "警察【けいさつ】は令状【れいじょう】を執行【しっこう】した。",
+    "meaning": "The police executed the warrant."
+  },
+  {
+    "sentence": "令嬢は优雅に紅茶を飲んでいた。",
+    "sentence_furigana": "令嬢【れいじょう】は优雅【ゆうが】に紅茶【こうちゃ】を飲【の】んでいた。",
+    "meaning": "The young lady was elegantly drinking tea."
+  },
+  {
+    "sentence": "その命令は突然下された。",
+    "sentence_furigana": "その命令【めいれい】は突然【とつぜん】下【くだ】された。",
+    "meaning": "That order was given suddenly."
+  },
+  {
+    "sentence": "法律は社会秩序の維持に不可欠だ。",
+    "sentence_furigana": "法律【ほうりつ】は社会秩序【しゃかいちつじょ】の維持【いじ】に不可欠【ふかけつ】だ。",
+    "meaning": "Laws are indispensable for maintaining social order."
+  },
+  {
+    "sentence": "彼は令状を携帯していた。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】を携帯【けいたい】していた。",
+    "meaning": "He was carrying the warrant."
+  },
+  {
+    "sentence": "校長は生徒達に校則を守るよう令した。",
+    "sentence_furigana": "校長【こうちょう】は生徒達【せいとたち】に校則【こうそく】を守【まも】るよう令【れい】した。",
+    "meaning": "The principal ordered the students to follow school rules."
+  },
+  {
+    "sentence": "この命令は即時有効となる。",
+    "sentence_furigana": "この命令【めいれい】は即時有効【そくじゆうこう】となる。",
+    "meaning": "This order takes effect immediately."
+  },
+  {
+    "sentence": "彼は命令に背くことはできなかった。",
+    "sentence_furigana": "彼【かれ】は命令【めいれい】に背【そむ】くことはできなかった。",
+    "meaning": "He could not disobey the order."
+  },
+  {
+    "sentence": "法律は公平でなければならない。",
+    "sentence_furigana": "法律【ほうりつ】は公平【こうへい】でなければならない。",
+    "meaning": "Laws must be fair."
+  },
+  {
+    "sentence": "令状は彼の持ち物の中にあった。",
+    "sentence_furigana": "令状【れいじょう】は彼【かれ】の持【も】ち物【もの】の中【なか】にあった。",
+    "meaning": "The warrant was among his belongings."
+  },
+  {
+    "sentence": "父は私に勉強するように令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に勉強【べんきょう】するように令【れい】した。",
+    "meaning": "My father ordered me to study."
+  },
+  {
+    "sentence": "この古代の法律は現代社会にも通じるものがある。",
+    "sentence_furigana": "この古代【こだい】の法律【ほうりつ】は現代社会【げんだいしゃかい】にも通【つ】じるものがある。",
+    "meaning": "This ancient law has relevance to modern society."
+  },
+  {
+    "sentence": "彼はその命令を丁寧に断った。",
+    "sentence_furigana": "彼【かれ】はその命令【めいれい】を丁寧【ていねい】に断【ことわ】った。",
+    "meaning": "He politely refused that order."
+  },
+  {
+    "sentence": "裁判所は令状なしの捜査を禁止した。",
+    "sentence_furigana": "裁判所【さいばんしょ】は令状【れいじょう】なしの捜査【そうさ】を禁止【きんし】した。",
+    "meaning": "The court prohibited searches without a warrant."
+  },
+  {
+    "sentence": "親は子供に正直に話すように令した。",
+    "sentence_furigana": "親【おや】は子供【こども】に正直【しょうじき】に話【はな】すように令【れい】した。",
+    "meaning": "Parents ordered their children to speak honestly."
+  },
+  {
+    "sentence": "この命令は直ちに実行されなければならない。",
+    "sentence_furigana": "この命令【めいれい】は直【ちょく】ちに実行【じっこう】されなければならない。",
+    "meaning": "This order must be carried out immediately."
+  },
+  {
+    "sentence": "彼は法律の条文を読んだ。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の条文【じょうぶん】を読【よ】んだ。",
+    "meaning": "He read the articles of the law."
+  },
+  {
+    "sentence": "令状は押収された証拠品の中にあった。",
+    "sentence_furigana": "令状【れいじょう】は押収【おうしゅう】された証拠品【しょうこひん】の中【なか】にあった。",
+    "meaning": "The warrant was among the seized evidence."
+  },
+  {
+    "sentence": "彼女は令嬢としての教育を受けていた。",
+    "sentence_furigana": "彼女【かのじょ】は令嬢【れいじょう】としての教育【きょういく】を受【う】けていた。",
+    "meaning": "She was educated as a young lady."
+  },
+  {
+    "sentence": "会社は新しい規定を令示した。",
+    "sentence_furigana": "会社【かいしゃ】は新【あたら】しい規定【きてい】を令示【れいじ】した。",
+    "meaning": "The company issued new regulations."
+  },
+  {
+    "sentence": "父は私に早起きするように令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に早起【はやお】きするように令【れい】した。",
+    "meaning": "My father ordered me to wake up early."
+  },
+  {
+    "sentence": "この命令は多くの議論を呼んだ。",
+    "sentence_furigana": "この命令【めいれい】は多【おお】くの議論【ぎろん】を呼【よ】んだ。",
+    "meaning": "This order sparked much debate."
+  },
+  {
+    "sentence": "法律は常に改正される必要がある。",
+    "sentence_furigana": "法律【ほうりつ】は常【つね】に改正【かいせい】される必要【ひつよう】がある。",
+    "meaning": "Laws always need to be revised."
+  },
+  {
+    "sentence": "彼は令状の提示を拒否した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】の提示【ていじ】を拒否【きょひ】した。",
+    "meaning": "He refused to present the warrant."
+  },
+  {
+    "sentence": "校長は生徒に校内での携帯電話の使用を禁じるよう令した。",
+    "sentence_furigana": "校長【こうちょう】は生徒【せいと】に校内【こうない】での携帯電話【けいたいでんわ】の使用【しよう】を禁【きん】じるよう令【れい】した。",
+    "meaning": "The principal ordered students to prohibit the use of mobile phones on campus."
+  },
+  {
+    "sentence": "その命令は絶対的なものであった。",
+    "sentence_furigana": "その命令【めいれい】は絶対的【ぜったいてき】なものであった。",
+    "meaning": "That order was absolute."
+  },
+  {
+    "sentence": "法律は国民の権利を守る。",
+    "sentence_furigana": "法律【ほうりつ】は国民【こくみん】の権利【けんり】を守【まも】る。",
+    "meaning": "The law protects the rights of the people."
+  },
+  {
+    "sentence": "彼は令状を無効だと主張した。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】を無効【むこう】だと主張【しゅちょう】した。",
+    "meaning": "He claimed the warrant was invalid."
+  },
+  {
+    "sentence": "父は私に宿題を終わらせるよう令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に宿題【しゅくだい】を終【お】わらせるよう令【れい】した。",
+    "meaning": "My father ordered me to finish my homework."
+  },
+  {
+    "sentence": "この命令は多くの人々に影響を与えた。",
+    "sentence_furigana": "この命令【めいれい】は多【おお】くの人々【ひとびと】に影響【えいきょう】を与【あた】えた。",
+    "meaning": "This order affected many people."
+  },
+  {
+    "sentence": "法律は社会の基盤である。",
+    "sentence_furigana": "法律【ほうりつ】は社会【しゃかい】の基盤【きばん】である。",
+    "meaning": "The law is the foundation of society."
+  },
+  {
+    "sentence": "彼は令状に基づいて家宅捜索を行った。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】に基づいて【もとづ】いて家宅捜索【かたくそうさく】を行【おこな】った。",
+    "meaning": "He conducted a house search based on the warrant."
+  },
+  {
+    "sentence": "父は私に正直に話すように令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に正直【しょうじき】に話【はな】すように令【れい】した。",
+    "meaning": "My father ordered me to speak honestly."
+  },
+  {
+    "sentence": "この法律は国民の安全を守るために制定された。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】の安全【あんぜん】を守【まも】るために制定【せいてい】された。",
+    "meaning": "This law was enacted to protect the safety of the people."
+  },
+  {
+    "sentence": "彼は令状を所持していた。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】を所持【しょじ】していた。",
+    "meaning": "He possessed the warrant."
+  },
+  {
+    "sentence": "校長は生徒達に勉学に励むよう令した。",
+    "sentence_furigana": "校長【こうちょう】は生徒達【せいとたち】に勉学【べんがく】に励【はげ】むよう令【れい】した。",
+    "meaning": "The principal ordered the students to devote themselves to their studies."
+  },
+  {
+    "sentence": "その命令は覆されるべきだ。",
+    "sentence_furigana": "その命令【めいれい】は覆【くつがえ】されるべきだ。",
+    "meaning": "That order should be overturned."
+  },
+  {
+    "sentence": "法律は社会の道徳観を反映する。",
+    "sentence_furigana": "法律【ほうりつ】は社会【しゃかい】の道徳観【どうとくかん】を反映【はんえい】する。",
+    "meaning": "Laws reflect the moral views of society."
+  },
+  {
+    "sentence": "彼は令状の提示を求められた。",
+    "sentence_furigana": "彼【かれ】は令状【れいじょう】の提示【ていじ】を求【もと】められた。",
+    "meaning": "He was asked to present the warrant."
+  },
+  {
+    "sentence": "父は私に部屋を整頓するように令した。",
+    "sentence_furigana": "父【ちち】は私【わたし】に部屋【へや】を整頓【せいとん】するように令【れい】した。",
+    "meaning": "My father ordered me to tidy up my room."
+  },
+  {
+    "sentence": "この古代の法律は時代の流れの中で忘れられてしまった。",
+    "sentence_furigana": "この古代【こだい】の法律【ほうりつ】は時代【じだい】の流【なが】れの中【なか】で忘【わす】れられてしまった。",
+    "meaning": "This ancient law was forgotten in the flow of time."
+  }
+]

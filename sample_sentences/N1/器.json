@@ -1,0 +1,542 @@
+[
+  {
+    "sentence": "この茶碗は美しい器だ。",
+    "sentence_furigana": "この茶碗【ちゃわん】は美【うつく】しい器【うつわ】だ。",
+    "meaning": "This teacup is a beautiful vessel."
+  },
+  {
+    "sentence": "彼は料理の器用さで知られている。",
+    "sentence_furigana": "彼【かれ】は料理【りょうり】の器用【きよう】さで知【し】られている。",
+    "meaning": "He is known for his skillful cooking."
+  },
+  {
+    "sentence": "新しい楽器の購入を検討している。",
+    "sentence_furigana": "新【あたら】しい楽器【がっき】の購入【こうにゅう】を検討【けんとう】している。",
+    "meaning": "I am considering purchasing a new musical instrument."
+  },
+  {
+    "sentence": "彼は才能のある人物だ。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】のある人物【じんぶつ】だ。",
+    "meaning": "He is a talented person."
+  },
+  {
+    "sentence": "この容器は電子レンジで使用できる。",
+    "sentence_furigana": "この容器【ようき】は電子レンジ【でんしれんじ】で使【つか】える。",
+    "meaning": "This container can be used in the microwave."
+  },
+  {
+    "sentence": "彼は大きなプロジェクトを任される器だ。",
+    "sentence_furigana": "彼【かれ】は大大【おお】きなプロジェクトを任【まか】される器【うつわ】だ。",
+    "meaning": "He is capable of handling a large project."
+  },
+  {
+    "sentence": "この器は壊れやすいので注意してください。",
+    "sentence_furigana": "この器【うつわ】は壊【こわ】れやすいので注意【ちゅうい】してください。",
+    "meaning": "This vessel is fragile, so please be careful."
+  },
+  {
+    "sentence": "彼女は多くの人をまとめる器を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人【ひと】をまとめる器【うつわ】を持【も】っている。",
+    "meaning": "She has the ability to bring many people together."
+  },
+  {
+    "sentence": "この道具は使いやすい。",
+    "sentence_furigana": "この道具【どうぐ】は使【つか】いやすい。",
+    "meaning": "This tool is easy to use."
+  },
+  {
+    "sentence": "彼は優れた指導者としての器を備えている。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた指導者【しどうしゃ】としての器【うつわ】を備【そな】えている。",
+    "meaning": "He possesses the qualities of an excellent leader."
+  },
+  {
+    "sentence": "古い器を修理して使うことにした。",
+    "sentence_furigana": "古【ふる】い器【うつわ】を修理【しゅうり】して使【つか】うことにした。",
+    "meaning": "I decided to repair and use the old utensil."
+  },
+  {
+    "sentence": "彼は新しい技術を習得する器がある。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい技術【ぎじゅつ】を習得【しゅうとく】する器【うつわ】がある。",
+    "meaning": "He has the ability to learn new technologies."
+  },
+  {
+    "sentence": "この容器にはたくさんの水が入っている。",
+    "sentence_furigana": "この容器【ようき】にはたくさん水【みず】が入【はい】っている。",
+    "meaning": "This container holds a lot of water."
+  },
+  {
+    "sentence": "彼女は才能豊かで、様々な分野で活躍している。",
+    "sentence_furigana": "彼女【かのじょ】は才能豊【さいのうゆた】かで、様々【さまざま】な分野【ぶんや】で活躍【かつやく】している。",
+    "meaning": "She is talented and active in various fields."
+  },
+  {
+    "sentence": "この包丁はよく切れる。",
+    "sentence_furigana": "この包丁【ほうちょう】はよく切【き】れる。",
+    "meaning": "This kitchen knife cuts well."
+  },
+  {
+    "sentence": "彼はリーダーシップを発揮できる器量を持っている。",
+    "sentence_furigana": "彼【かれ】はリーダーシップを発揮【はっき】できる器量【きりょう】を持【も】っている。",
+    "meaning": "He has the capacity to demonstrate leadership."
+  },
+  {
+    "sentence": "この箱は物を入れるのに便利な器です。",
+    "sentence_furigana": "この箱【はこ】は物【もの】を入【い】れるのに便利【べんり】な器【うつわ】です。",
+    "meaning": "This box is a convenient container for putting things in."
+  },
+  {
+    "sentence": "彼は困難に立ち向かう勇気と器を備えている。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】に立向【たちむ】かう勇気【ゆうき】と器【うつわ】を備【そな】えている。",
+    "meaning": "He possesses the courage and capacity to face difficulties."
+  },
+  {
+    "sentence": "この調理器具は高品質です。",
+    "sentence_furigana": "この調理器具【ちょうりきぐ】は高品質【こうひんしつ】です。",
+    "meaning": "This cooking utensil is of high quality."
+  },
+  {
+    "sentence": "彼は複雑な問題を解決する能力を持っている。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】な問題【もんだい】を解決【かいけつ】する能力【のうりょく】を持【も】っている。",
+    "meaning": "He has the ability to solve complex problems."
+  },
+  {
+    "sentence": "この植木鉢は植物を育てるのに適した器だ。",
+    "sentence_furigana": "この植木鉢【うえきばち】は植物【しょくぶつ】を育【そだ】てるのに適【てき】した器【うつわ】だ。",
+    "meaning": "This flower pot is a suitable container for growing plants."
+  },
+  {
+    "sentence": "彼女は指導力を発揮できる人物だ。",
+    "sentence_furigana": "彼女【かのじょ】は指導力【しどうりょく】を発揮【はっき】できる人物【じんぶつ】だ。",
+    "meaning": "She is a person who can demonstrate leadership."
+  },
+  {
+    "sentence": "この道具は非常に頑丈だ。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に頑丈【がんじょう】だ。",
+    "meaning": "This implement is very sturdy."
+  },
+  {
+    "sentence": "彼は新しい挑戦を受け入れる器を持っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい挑戦【ちょうせん】を受【う】け入【い】れる器【うつわ】を持【も】っている。",
+    "meaning": "He has the capacity to embrace new challenges."
+  },
+  {
+    "sentence": "この花瓶は部屋の装飾に最適だ。",
+    "sentence_furigana": "この花瓶【かびん】は部屋【へや】の装飾【そうしょく】に最適【さいてき】だ。",
+    "meaning": "This vase is perfect for room decoration."
+  },
+  {
+    "sentence": "彼はチームを勝利に導く能力がある。",
+    "sentence_furigana": "彼【かれ】はチームを勝利【しょうり】に導【みちび】く能力【のうりょく】がある。",
+    "meaning": "He has the ability to lead the team to victory."
+  },
+  {
+    "sentence": "このバケツは水をたくさん運ぶことができる。",
+    "sentence_furigana": "このバケツは水【みず】をたくさん運【はこ】ぶことができる。",
+    "meaning": "This bucket is a good container for carrying a lot of water."
+  },
+  {
+    "sentence": "彼女は困難な状況でも冷静さを保つことができる。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】な状況【じょうきょう】でも冷静【れいせい】さを保【たも】つことができる。",
+    "meaning": "She can maintain composure even in difficult situations."
+  },
+  {
+    "sentence": "この調理器具は使いやすく、掃除も簡単だ。",
+    "sentence_furigana": "この調理器具【ちょうりきぐ】は使【つか】いやすく、掃除【そうじ】も簡単【かんたん】だ。",
+    "meaning": "This cooking tool is easy to use and simple to clean."
+  },
+  {
+    "sentence": "彼は偉大なリーダーになる可能性を秘めている。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】なリーダーになる可能性【かのうせい】を秘【ひ】めている。",
+    "meaning": "He holds the potential to become a great leader."
+  },
+  {
+    "sentence": "この容器は食品を保存するのに適している。",
+    "sentence_furigana": "この容器【ようき】は食品【しょくひん】を保存【ほぞん】するのに適【てき】している。",
+    "meaning": "This container is suitable for storing food."
+  },
+  {
+    "sentence": "彼女は多くの人の意見を聞く耳を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの人【ひと】の意見【いけん】を聞【き】く耳【みみ】を持【も】っている。",
+    "meaning": "She has the ability to listen to the opinions of many people."
+  },
+  {
+    "sentence": "この道具は複雑な作業に使われる。",
+    "sentence_furigana": "この道具【どうぐ】は複雑【ふくざつ】な作業【さぎょう】に使【つか】われる。",
+    "meaning": "This instrument is used for complex tasks."
+  },
+  {
+    "sentence": "彼は才能を開花させるための環境を求めている。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】を開花【かいか】させるための環境【かんきょう】を求【もと】めている。",
+    "meaning": "He is seeking an environment to bring his talents to fruition."
+  },
+  {
+    "sentence": "この茶器は茶道に欠かせない。",
+    "sentence_furigana": "この茶器【ちゃき】は茶道【さどう】に欠【か】かせない。",
+    "meaning": "This tea utensil is essential for the tea ceremony."
+  },
+  {
+    "sentence": "彼女はリーダーシップを発揮できる資質を備えている。",
+    "sentence_furigana": "彼女【かのじょ】はリーダーシップを発揮【はっき】できる資質【ししつ】を備【そな】えている。",
+    "meaning": "She possesses the qualities to demonstrate leadership."
+  },
+  {
+    "sentence": "この容器は持ち運びやすい。",
+    "sentence_furigana": "この容器【ようき】は持運【もちはこ】びやすい。",
+    "meaning": "This container is easy to carry."
+  },
+  {
+    "sentence": "彼は物事を深く理解する能力を持っている。",
+    "sentence_furigana": "彼【かれ】は物事【ものごと】を深【ふか】く理解【りかい】する能力【のうりょく】を持【も】っている。",
+    "meaning": "He has the ability to deeply understand things."
+  },
+  {
+    "sentence": "この包丁は様々な食材を切るのに適している。",
+    "sentence_furigana": "この包丁【ほうちょう】は様々【さまざま】な食材【しょくざい】を切【き】るのに適【てき】している。",
+    "meaning": "This knife is suitable for cutting various ingredients."
+  },
+  {
+    "sentence": "彼女はチームをまとめ上げる力がある。",
+    "sentence_furigana": "彼女【かのじょ】はチームをまとめる力【ちから】がある。",
+    "meaning": "She has the strength to unite the team."
+  },
+  {
+    "sentence": "この道具は精密な作業に使用される。",
+    "sentence_furigana": "この道具【どうぐ】は精密【せいみつ】な作業【さぎょう】に使用【しよう】される。",
+    "meaning": "This instrument is used for precision work."
+  },
+  {
+    "sentence": "彼は新しい分野に挑戦する意欲を持っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい分野【ぶんや】に挑戦【ちょうせん】する意欲【いよく】を持【も】っている。",
+    "meaning": "He has the will to challenge new fields."
+  },
+  {
+    "sentence": "この花瓶はモダンなデザインだ。",
+    "sentence_furigana": "この花瓶【かびん】はモダンなデザインだ。",
+    "meaning": "This vase has a modern design."
+  },
+  {
+    "sentence": "彼女は多くの困難を乗り越えてきた。",
+    "sentence_furigana": "彼女【かのじょ】は多【おお】くの困難【こんなん】を乗【の】り越【こ】えてきた。",
+    "meaning": "She has overcome many difficulties."
+  },
+  {
+    "sentence": "この容器は再利用可能だ。",
+    "sentence_furigana": "この容器【ようき】は再利用可能【さいりようかのう】だ。",
+    "meaning": "This container is reusable."
+  },
+  {
+    "sentence": "彼は人を惹きつける魅力を持っている。",
+    "sentence_furigana": "彼【かれ】は人【ひと】を惹【ひ】きつける魅力【みりょく】を持【も】っている。",
+    "meaning": "He has an attractive charisma that draws people in."
+  },
+  {
+    "sentence": "この楽器は素晴らしい音色を奏でる。",
+    "sentence_furigana": "この楽器【がっき】は素晴【すば】らしい音色【ねいろ】を奏【かな】でる。",
+    "meaning": "This instrument produces a wonderful tone."
+  },
+  {
+    "sentence": "彼女は問題解決能力に長けている。",
+    "sentence_furigana": "彼女【かのじょ】は問題解決能力【もんだいかいけつのうりょく】に長【た】けている。",
+    "meaning": "She excels in problem-solving skills."
+  },
+  {
+    "sentence": "この道具は専門的な用途に用いられる。",
+    "sentence_furigana": "この道具【どうぐ】は専門的【せんもんてき】な用途【ようと】に用【もち】いられる。",
+    "meaning": "This tool is used for specialized purposes."
+  },
+  {
+    "sentence": "彼は成功するだけの才能と努力を持っている。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】するだけ才能【さいのう】と努力【どりょく】を持【も】っている。",
+    "meaning": "He has both the talent and the diligence to succeed."
+  },
+  {
+    "sentence": "この器は保温性に優れている。",
+    "sentence_furigana": "この器【うつわ】は保温性【ほおんせい】に優【すぐ】れている。",
+    "meaning": "This vessel has excellent heat retention."
+  },
+  {
+    "sentence": "彼女はチームをまとめるためのコミュニケーション能力が高い。",
+    "sentence_furigana": "彼女【かのじょ】はチームをまとめるためのコミュニケーション能力【のうりょく】が高【たか】い。",
+    "meaning": "She has high communication skills to bring the team together."
+  },
+  {
+    "sentence": "この容器は密閉性が高い。",
+    "sentence_furigana": "この容器【ようき】は密閉性【みっぺいせい】が高【たか】い。",
+    "meaning": "This container has a high sealability."
+  },
+  {
+    "sentence": "彼はリーダーとして必要な器量を持っている。",
+    "sentence_furigana": "彼【かれ】はリーダーとして必要【ひつよう】な器量【きりょう】を持【も】っている。",
+    "meaning": "He has the capacity needed to be a leader."
+  },
+  {
+    "sentence": "この包丁は切れ味が良い。",
+    "sentence_furigana": "この包丁【ほうちょう】は切味【きれあじ】が良い。",
+    "meaning": "This knife has a good sharpness."
+  },
+  {
+    "sentence": "彼女は芸術的な才能に恵まれている。",
+    "sentence_furigana": "彼女【かのじょ】は芸術的【げいじゅつてき】な才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "She is blessed with artistic talent."
+  },
+  {
+    "sentence": "この道具は様々な用途に使える。",
+    "sentence_furigana": "この道具【どうぐ】は様々【さまざま】な用途【ようと】にを使【つか】える。",
+    "meaning": "This tool can be used for various purposes."
+  },
+  {
+    "sentence": "彼は目標を達成するための能力を持っている。",
+    "sentence_furigana": "彼【かれ】は目標【もくひょう】を達成【たいせい】するための能力【のうりょく】を持【も】っている。",
+    "meaning": "He has the ability to achieve his goals."
+  },
+  {
+    "sentence": "この器は料理を美しく見せる。",
+    "sentence_furigana": "この器【うつわ】は料理【りょうり】を美【うつく】しく見【み】せる。",
+    "meaning": "This vessel makes the food look beautiful."
+  },
+  {
+    "sentence": "彼女は人を励ます才能を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は人【ひと】を励【はげ】ます才能【さいのう】を持【も】っている。",
+    "meaning": "She has the ability to encourage people."
+  },
+  {
+    "sentence": "この楽器は複雑な曲も演奏できる。",
+    "sentence_furigana": "この楽器【がっき】は複雑【ふくざつ】な曲【きょく】も演奏【えんそう】できる。",
+    "meaning": "This instrument can play complex melodies."
+  },
+  {
+    "sentence": "彼は変化に対応する能力がある。",
+    "sentence_furigana": "彼【かれ】は変化【へんか】に対応【たいおう】する能力【のうりょく】がある。",
+    "meaning": "He has the ability to adapt to change."
+  },
+  {
+    "sentence": "この容器は軽くて丈夫だ。",
+    "sentence_furigana": "この容器【ようき】は軽【かる】くて丈夫【じょうぶ】だ。",
+    "meaning": "This container is light and durable."
+  },
+  {
+    "sentence": "彼女は人々を惹きつけるカリスマを持っている。",
+    "sentence_furigana": "彼女【かのじょ】は人々【ひとびと】を惹【ひ】きつけるカリスマを持【も】っている。",
+    "meaning": "She has a charisma that attracts people."
+  },
+  {
+    "sentence": "この道具は細かい作業に適している。",
+    "sentence_furigana": "この道具【どうぐ】は細【こま】かい作業【さぎょう】に適【てき】している。",
+    "meaning": "This tool is suitable for fine work."
+  },
+  {
+    "sentence": "彼は困難な状況でも希望を失わない精神力を持っている。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】でも希望【きぼう】を失【うしな】わない精神力【せいしんりょく】を持【も】っている。",
+    "meaning": "He has the mental fortitude to not lose hope in difficult situations."
+  },
+  {
+    "sentence": "この器は熱いものにも耐えられる。",
+    "sentence_furigana": "この器【うつわ】は熱【あつ】いものにも耐【た】えられる。",
+    "meaning": "This vessel can withstand hot items."
+  },
+  {
+    "sentence": "彼女はチームに貢献する能力を持っている。",
+    "sentence_furigana": "彼女【かのじょ】はチームに貢献【こうけん】する能力【のうりょく】を持【も】っている。",
+    "meaning": "She has the ability to contribute to the team."
+  },
+  {
+    "sentence": "この楽器は美しい音色を奏でる。",
+    "sentence_furigana": "この楽器【がっき】は美【うつく】しい音色【ねいろ】を奏【かな】でる。",
+    "meaning": "This instrument plays beautiful tones."
+  },
+  {
+    "sentence": "彼はチームを率いる能力を備えている。",
+    "sentence_furigana": "彼【かれ】はチームを率【ひき】いる能力【のうりょく】を備【そな】えている。",
+    "meaning": "He possesses the ability to lead a team."
+  },
+  {
+    "sentence": "この容器は積み重ねることができる。",
+    "sentence_furigana": "この容器【ようき】は積【つ】み重【かさ】ねることができる。",
+    "meaning": "This container can be stacked."
+  },
+  {
+    "sentence": "彼女は創造的な才能を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は創造的【そうぞうてき】な才能【さいのう】を持【も】っている。",
+    "meaning": "She has creative talent."
+  },
+  {
+    "sentence": "この道具は非常に精密である。",
+    "sentence_furigana": "この道具【どうぐ】は非常【ひじょう】に精密【せいみつ】である。",
+    "meaning": "This implement is very precise."
+  },
+  {
+    "sentence": "彼は成功への強い意志を持っている。",
+    "sentence_furigana": "彼【かれ】は成功【せいこう】への強【つよ】い意志【いし】を持【も】っている。",
+    "meaning": "He has a strong will to succeed."
+  },
+  {
+    "sentence": "この器は見た目も良い。",
+    "sentence_furigana": "この器【うつわ】は見た目【みため】も良【よ】い。",
+    "meaning": "This vessel also looks good."
+  },
+  {
+    "sentence": "彼女は人とのコミュニケーションを大切にする。",
+    "sentence_furigana": "彼女【かのじょ】は人【ひと】とのコミュニケーションを大切【たいせつ】にする。",
+    "meaning": "She values communication with people."
+  },
+  {
+    "sentence": "この楽器は素晴らしい響きを持っている。",
+    "sentence_furigana": "この楽器【がっき】は素晴【すば】らしい響【ひび】きを持【も】っている。",
+    "meaning": "This instrument has a wonderful resonance."
+  },
+  {
+    "sentence": "彼は問題の本質を見抜く力がある。",
+    "sentence_furigana": "彼【かれ】は問題【もんだい】の本質【ほんしつ】を見抜【みぬ】く力【ちから】がある。",
+    "meaning": "He has the ability to see the essence of a problem."
+  },
+  {
+    "sentence": "この容器は冷たいものも温かいものも入れられる。",
+    "sentence_furigana": "この容器【ようき】は冷【つめ】たいものも温【あたた】かいものも入【い】れられる。",
+    "meaning": "This container can hold both cold and warm items."
+  },
+  {
+    "sentence": "彼女は人をまとめるリーダーシップがある。",
+    "sentence_furigana": "彼女【かのじょ】は人【ひと】をまとめるリーダーシップがある。",
+    "meaning": "She has leadership qualities to bring people together."
+  },
+  {
+    "sentence": "この道具は繊細な作業に使われる。",
+    "sentence_furigana": "この道具【どうぐ】は繊細【せんさい】な作業【さぎょう】に使【つか】われる。",
+    "meaning": "This implement is used for delicate work."
+  },
+  {
+    "sentence": "彼は新しいアイデアを生み出す才能を持っている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいアイデアを生【う】み出【だ】す才能【さいのう】を持【も】っている。",
+    "meaning": "He has the talent to generate new ideas."
+  },
+  {
+    "sentence": "この器は壊れにくく丈夫だ。",
+    "sentence_furigana": "この器【うつわ】は壊【こわ】れにくく丈夫【じょうぶ】だ。",
+    "meaning": "This vessel is durable and hard to break."
+  },
+  {
+    "sentence": "彼女は困難な状況でも前向きな姿勢を保つ。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】な状況【じょうきょう】でも前向【まえむ】きな姿勢【しせい】を保【たも】つ。",
+    "meaning": "She maintains a positive attitude even in difficult situations."
+  },
+  {
+    "sentence": "この容器は食品衛生に適している。",
+    "sentence_furigana": "この容器【ようき】は食品衛生【しょくひんえいせい】に適【てき】している。",
+    "meaning": "This container is suitable for food hygiene."
+  },
+  {
+    "sentence": "彼は人を動かす説得力を持っている。",
+    "sentence_furigana": "彼【かれ】は人【ひと】を動【うご】かす説得力【せっとくりょく】を持【も】っている。",
+    "meaning": "He has the persuasive power to move people."
+  },
+  {
+    "sentence": "この楽器は高度な演奏技術を必要とする。",
+    "sentence_furigana": "この楽器【がっき】は高度【こうど】な演奏技術【えんそうぎじゅつ】を必要【ひつよう】とする。",
+    "meaning": "This instrument requires advanced playing techniques."
+  },
+  {
+    "sentence": "彼女は状況を分析する能力が高い。",
+    "sentence_furigana": "彼女【かのじょ】は状況【じょうきょう】を分析【ぶんせき】する能力【のうりょく】が高【たか】い。",
+    "meaning": "She has a high ability to analyze situations."
+  },
+  {
+    "sentence": "この道具は修理やメンテナンスに不可欠だ。",
+    "sentence_furigana": "この道具【どうぐ】は修理【しゅうり】やメンテナンスに不可欠【ふかけつ】だ。",
+    "meaning": "This tool is indispensable for repair and maintenance."
+  },
+  {
+    "sentence": "彼はチームの目標達成に貢献する。",
+    "sentence_furigana": "彼【かれ】はチームの目標達成【もくひょうたいせい】に貢献【こうけん】する。",
+    "meaning": "He contributes to the team's goal achievement."
+  },
+  {
+    "sentence": "この器はシンプルで使いやすい。",
+    "sentence_furigana": "この器【うつわ】はシンプルで使【つか】いやすい。",
+    "meaning": "This vessel is simple and easy to use."
+  },
+  {
+    "sentence": "彼女は人を喜ばせる才能を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は人【ひと】を喜【よろこ】ばせる才能【さいのう】を持【も】っている。",
+    "meaning": "She has a talent for making people happy."
+  },
+  {
+    "sentence": "この容器は化学薬品の保管に適している。",
+    "sentence_furigana": "この容器【ようき】は化学薬品【かがくやくひん】の保管【ほかん】に適【てき】している。",
+    "meaning": "This container is suitable for storing chemicals."
+  },
+  {
+    "sentence": "彼は困難に立ち向かう強い意志を持つ。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】に立向【たちむ】かう強【つよ】い意志【いし】を持【も】つ。",
+    "meaning": "He possesses a strong will to face difficulties."
+  },
+  {
+    "sentence": "この包丁は魚をおろすのに最適だ。",
+    "sentence_furigana": "この包丁【ほうちょう】は魚【さかな】をおろすのに最適【さいてき】だ。",
+    "meaning": "This knife is ideal for filleting fish."
+  },
+  {
+    "sentence": "彼女はチームをまとめるリーダーシップを発揮する。",
+    "sentence_furigana": "彼女【かのじょ】はチームをまとめるリーダーシップを発揮【はっき】する。",
+    "meaning": "She demonstrates leadership that brings the team together."
+  },
+  {
+    "sentence": "この楽器は繊細な感情を表現できる。",
+    "sentence_furigana": "この楽器【がっき】は繊細【せんさい】な感情【かんじょう】を表現【ひょうげん】できる。",
+    "meaning": "This instrument can express delicate emotions."
+  },
+  {
+    "sentence": "彼は危機管理能力が高い。",
+    "sentence_furigana": "彼【かれ】は危機管理能力【ききかんり のうりょく】が高【たか】い。",
+    "meaning": "He has a high crisis management ability."
+  },
+  {
+    "sentence": "この道具は精密な測定に使われる。",
+    "sentence_furigana": "この道具【どうぐ】は精密【せいみつ】な測定【そくてい】に使【つか】われる。",
+    "meaning": "This instrument is used for precise measurement."
+  },
+  {
+    "sentence": "彼は逆境を乗り越える力を持っている。",
+    "sentence_furigana": "彼【かれ】は逆境【ぎゃっきょう】を乗【の】り越【こ】える力【ちから】を持【も】っている。",
+    "meaning": "He has the strength to overcome adversity."
+  },
+  {
+    "sentence": "この器は多様な用途に使える。",
+    "sentence_furigana": "この器【うつわ】は多様【たよう】な用途【ようと】にを使【つか】える。",
+    "meaning": "This vessel can be used for diverse purposes."
+  },
+  {
+    "sentence": "彼女は新しい知識を吸収する能力がある。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい知識【ちしき】を吸収【きゅうしゅう】する能力【のうりょく】がある。",
+    "meaning": "She has the ability to absorb new knowledge."
+  },
+  {
+    "sentence": "この容器は持ち運びに便利だ。",
+    "sentence_furigana": "この容器【ようき】は持運【もちはこ】びに便利【べんり】だ。",
+    "meaning": "This container is convenient for carrying."
+  },
+  {
+    "sentence": "彼はチームを成功に導く器を持っている。",
+    "sentence_furigana": "彼【かれ】はチームを成功【せいこう】に導【みちび】く器【うつわ】を持【も】っている。",
+    "meaning": "He has the capacity to lead the team to success."
+  },
+  {
+    "sentence": "この楽器は力強い演奏が可能だ。",
+    "sentence_furigana": "この楽器【がっき】は力強【ちからづよ】い演奏【えんそう】が可能【かのう】だ。",
+    "meaning": "This instrument allows for powerful performances."
+  },
+  {
+    "sentence": "彼女は状況に応じて適切な判断を下せる。",
+    "sentence_furigana": "彼女【かのじょ】は状況【じょうきょう】に応【おう】じて適切【てきせつ】な判断【はんだん】を下【くだ】せる。",
+    "meaning": "She can make appropriate judgments according to the situation."
+  },
+  {
+    "sentence": "この道具はメンテナンスが容易である。",
+    "sentence_furigana": "この道具【どうぐ】はメンテナンスが容易【ようい】である。",
+    "meaning": "This tool is easy to maintain."
+  },
+  {
+    "sentence": "彼は周りの意見を聞き入れる器を持っている。",
+    "sentence_furigana": "彼【かれ】は周【まわ】りの意見【いけん】を聞【き】き入【い】れる器【うつわ】を持【も】っている。",
+    "meaning": "He has the ability to listen to the opinions of others."
+  }
+]

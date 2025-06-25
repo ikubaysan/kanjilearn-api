@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "彼は会議に欠席した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に欠席【けっせき】した。",
+    "meaning": "He was absent from the meeting."
+  },
+  {
+    "sentence": "この制度には欠陥がある。",
+    "sentence_furigana": "この制度【せいど】には欠陥【けっかん】がある。",
+    "meaning": "There is a defect in this system."
+  },
+  {
+    "sentence": "才能が欠けている。",
+    "sentence_furigana": "才能【さいのう】が欠【か】けている。",
+    "meaning": "He lacks talent."
+  },
+  {
+    "sentence": "十分な睡眠が欠かせない。",
+    "sentence_furigana": "十分【じゅうぶん】な睡眠【すいみん】が欠【か】かせない。",
+    "meaning": "Sufficient sleep is indispensable."
+  },
+  {
+    "sentence": "この情報は欠落している。",
+    "sentence_furigana": "この情報【じょうほう】は欠落【けつらく】している。",
+    "meaning": "This information is missing."
+  },
+  {
+    "sentence": "歯が一本欠けている。",
+    "sentence_furigana": "歯【は】が一本【いっぽん】欠【か】けている。",
+    "meaning": "One tooth is missing."
+  },
+  {
+    "sentence": "彼は欠点が多い。",
+    "sentence_furigana": "彼【かれ】は欠点【けってん】が多【おお】い。",
+    "meaning": "He has many flaws."
+  },
+  {
+    "sentence": "発言が欠礼にあたる。",
+    "sentence_furigana": "発言【はつげん】が欠礼【けつれい】にあたる。",
+    "meaning": "The remark was impolite."
+  },
+  {
+    "sentence": "知識が不足している。",
+    "sentence_furigana": "知識【ちしき】が不足【ふそく】している。",
+    "meaning": "Knowledge is insufficient."
+  },
+  {
+    "sentence": "市場に供給が欠けている。",
+    "sentence_furigana": "市場【しじょう】に供給【きょうきゅう】が欠【か】けている。",
+    "meaning": "There is a lack of supply in the market."
+  },
+  {
+    "sentence": "彼は約束を欠いた。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を欠【か】いた。",
+    "meaning": "He failed to keep his promise."
+  },
+  {
+    "sentence": "会議の議事録が欠けている。",
+    "sentence_furigana": "会議【かいぎ】の議事録【ぎじろく】が欠【か】けている。",
+    "meaning": "The minutes of the meeting are missing."
+  },
+  {
+    "sentence": "その部分が欠落している。",
+    "sentence_furigana": "その部分【ぶぶん】が欠落【けつらく】している。",
+    "meaning": "That part is missing."
+  },
+  {
+    "sentence": "彼はいつも欠勤する。",
+    "sentence_furigana": "彼【かれ】はいつも欠勤【けっきん】する。",
+    "meaning": "He is always absent from work."
+  },
+  {
+    "sentence": "この計画には欠点がある。",
+    "sentence_furigana": "この計画【けいかく】には欠点【けってん】がある。",
+    "meaning": "This plan has flaws."
+  },
+  {
+    "sentence": "彼の説明にはいくつか欠点が見られる。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】にはいくつか欠点【けってん】が見【み】られる。",
+    "meaning": "His explanation has several flaws."
+  },
+  {
+    "sentence": "必要な資料が欠けている。",
+    "sentence_furigana": "必要【ひつよう】な資料【しりょう】が欠【か】けている。",
+    "meaning": "The necessary documents are missing."
+  },
+  {
+    "sentence": "欠席理由を教えてください。",
+    "sentence_furigana": "欠席理由【けっせきりゆう】を教【おし】えてください。",
+    "meaning": "Please tell me the reason for your absence."
+  },
+  {
+    "sentence": "この件については欠落が多く、詳細が不明です。",
+    "sentence_furigana": "この件【けん】については欠落【けつらく】が多く【おお】く、詳細【しょうさい】が不明【ふめい】です。",
+    "meaning": "There are many omissions regarding this matter, and the details are unknown."
+  },
+  {
+    "sentence": "彼女は約束を欠かさない。",
+    "sentence_furigana": "彼女【かのじょ】は約束【やくそく】を欠【か】かさない。",
+    "meaning": "She never fails to keep her promises."
+  },
+  {
+    "sentence": "チームに主力選手が欠けている。",
+    "sentence_furigana": "チームに主力選手【しゅりょくせんしゅ】が欠【か】けている。",
+    "meaning": "The team is missing its main player."
+  },
+  {
+    "sentence": "この報告書は情報が欠けている。",
+    "sentence_furigana": "この報告書【ほうこくしょ】は情報【じょうほう】が欠【か】けている。",
+    "meaning": "This report lacks information."
+  },
+  {
+    "sentence": "欠伸をしてしまった。",
+    "sentence_furigana": "欠伸【あくび】をしてしまった。",
+    "meaning": "I yawned."
+  },
+  {
+    "sentence": "彼の計画には致命的な欠陥があった。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】には致命的【ちめいてき】な欠陥【けっかん】があった。",
+    "meaning": "His plan had a fatal flaw."
+  },
+  {
+    "sentence": "必要な部品が欠けているため、修理ができない。",
+    "sentence_furigana": "必要【ひつよう】な部品【ぶひん】が欠【か】けているため、修理【しゅうり】ができない。",
+    "meaning": "We cannot repair it because the necessary parts are missing."
+  },
+  {
+    "sentence": "この作品は独創性が欠けている。",
+    "sentence_furigana": "この作品【さくひん】は独創性【どくそうせい】が欠【か】けている。",
+    "meaning": "This work lacks originality."
+  },
+  {
+    "sentence": "彼はいつも欠勤している。",
+    "sentence_furigana": "彼【かれ】はいつも欠勤【けっきん】している。",
+    "meaning": "He is always absent from work."
+  },
+  {
+    "sentence": "そのデータは一部欠落していた。",
+    "sentence_furigana": "そのデータは一部【いちぶ】欠落【けつらく】していた。",
+    "meaning": "Part of that data was missing."
+  },
+  {
+    "sentence": "彼女は欠席届を出した。",
+    "sentence_furigana": "彼女【かのじょ】は欠席届【けっせきとどけ】を出【だ】した。",
+    "meaning": "She submitted an absence notification."
+  },
+  {
+    "sentence": "この文章は接続が欠けている。",
+    "sentence_furigana": "この文章【ぶんしょう】は接続【せつぞく】が欠【か】けている。",
+    "meaning": "This text is lacking in cohesion."
+  },
+  {
+    "sentence": "欠かすことのできない人材だ。",
+    "sentence_furigana": "欠【か】かすことのできない人材【じんざい】だ。",
+    "meaning": "He is an indispensable person."
+  },
+  {
+    "sentence": "彼には冷静さが欠けていた。",
+    "sentence_furigana": "彼【かれ】には冷静【れいせい】さが欠【か】けていた。",
+    "meaning": "He lacked composure."
+  },
+  {
+    "sentence": "欠席者はおられますか？",
+    "sentence_furigana": "欠席者【けっせきしゃ】はおられますか？",
+    "meaning": "Are there any absentees?"
+  },
+  {
+    "sentence": "その情報伝達には大きな欠陥があった。",
+    "sentence_furigana": "その情報伝達【じょうほうでんたつ】には大【おお】きな欠陥【けっかん】があった。",
+    "meaning": "There was a major defect in the information transmission."
+  },
+  {
+    "sentence": "彼の知識はまだ不足している。",
+    "sentence_furigana": "彼【かれ】の知識【ちしき】はまだ不足【ふそく】している。",
+    "meaning": "His knowledge is still insufficient."
+  },
+  {
+    "sentence": "この機械は安全性が欠けている。",
+    "sentence_furigana": "この機械【きかい】は安全【あんぜん】せいが欠【か】けている。",
+    "meaning": "This machine lacks safety."
+  },
+  {
+    "sentence": "彼女は欠勤しない。",
+    "sentence_furigana": "彼女【かのじょ】は欠勤【けっきん】しない。",
+    "meaning": "She does not miss work."
+  },
+  {
+    "sentence": "欠けた部分を補う。",
+    "sentence_furigana": "欠【か】けた部分【ぶぶん】を補【おぎな】う。",
+    "meaning": "To supplement the missing part."
+  },
+  {
+    "sentence": "彼には責任感が欠けている。",
+    "sentence_furigana": "彼【かれ】には責任感【せきにんかん】が欠【か】けている。",
+    "meaning": "He lacks a sense of responsibility."
+  },
+  {
+    "sentence": "会議に欠席したことをお詫び申し上げます。",
+    "sentence_furigana": "会議【かいぎ】に欠席【けっせき】したことをお詫【わ】び申【もう】し上【あ】げます。",
+    "meaning": "I apologize for my absence from the meeting."
+  },
+  {
+    "sentence": "この設計には大きな欠陥が見つかった。",
+    "sentence_furigana": "この設計【せっけい】には大【おお】きな欠陥【けっかん】が見【み】つかった。",
+    "meaning": "A major defect was found in this design."
+  },
+  {
+    "sentence": "彼の行動は欠礼である。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は欠礼【けつれい】である。",
+    "meaning": "His behavior is impolite."
+  },
+  {
+    "sentence": "十分な栄養が欠けていた。",
+    "sentence_furigana": "十分【じゅうぶん】な栄養【えいよう】が欠【か】けていた。",
+    "meaning": "Sufficient nutrition was lacking."
+  },
+  {
+    "sentence": "彼は欠席していた。",
+    "sentence_furigana": "彼【かれ】は欠席【けっせき】していた。",
+    "meaning": "He was absent."
+  },
+  {
+    "sentence": "この資料は欠けている部分がある。",
+    "sentence_furigana": "この資料【しりょう】は欠【か】けている部分【ぶぶん】がある。",
+    "meaning": "This document has missing parts."
+  },
+  {
+    "sentence": "欠勤が多いと評価が下がる。",
+    "sentence_furigana": "欠勤【けっきん】が多【おお】いと評価【ひょうか】が下【さ】がる。",
+    "meaning": "Frequent absences lower your evaluation."
+  },
+  {
+    "sentence": "この商品は初期不良があった。",
+    "sentence_furigana": "この商品【しょうひん】は初期不良【しょきふりょう】があった。",
+    "meaning": "This product had a manufacturing defect."
+  },
+  {
+    "sentence": "彼のコメントは欠礼にあたる。",
+    "sentence_furigana": "彼【かれ】のコメントは欠礼【けつれい】にあたる。",
+    "meaning": "His comment was impolite."
+  },
+  {
+    "sentence": "この穴は欠陥です。",
+    "sentence_furigana": "この穴【あな】は欠陥【けっかん】です。",
+    "meaning": "This hole is a defect."
+  },
+  {
+    "sentence": "彼は授業を欠席した。",
+    "sentence_furigana": "彼【かれ】は授業【じゅぎょう】を欠席【けっせき】した。",
+    "meaning": "He was absent from class."
+  },
+  {
+    "sentence": "説明が不足している。",
+    "sentence_furigana": "説明【せつめい】が不足【ふそく】している。",
+    "meaning": "The explanation is insufficient."
+  },
+  {
+    "sentence": "この文章には論理的な欠陥がある。",
+    "sentence_furigana": "この文章【ぶんしょう】には論理的【ろんりてき】な欠陥【けっかん】がある。",
+    "meaning": "This text has a logical flaw."
+  },
+  {
+    "sentence": "必要な情報が欠落しています。",
+    "sentence_furigana": "必要【ひつよう】な情報【じょうほう】が欠落【けつらく】しています。",
+    "meaning": "Necessary information is missing."
+  },
+  {
+    "sentence": "彼女は欠勤した。",
+    "sentence_furigana": "彼女【かのじょ】は欠勤【けっきん】した。",
+    "meaning": "She was absent from work."
+  },
+  {
+    "sentence": "この製品の欠陥を直す。",
+    "sentence_furigana": "この製品【せいひん】の欠陥【けっかん】を直【なお】す。",
+    "meaning": "To fix the defect in this product."
+  },
+  {
+    "sentence": "彼の知識不足は明らかだ。",
+    "sentence_furigana": "彼【かれ】の知識不足【ちしきぶそく】は明【あき】らかだ。",
+    "meaning": "His lack of knowledge is evident."
+  },
+  {
+    "sentence": "欠伸が出た。",
+    "sentence_furigana": "欠伸【あくび】が出【で】た。",
+    "meaning": "I yawned."
+  },
+  {
+    "sentence": "この部分は欠落している。",
+    "sentence_furigana": "この部分【ぶぶん】は欠落【けつらく】している。",
+    "meaning": "This part is missing."
+  },
+  {
+    "sentence": "彼は会議を欠席した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】を欠席【けっせき】した。",
+    "meaning": "He was absent from the meeting."
+  },
+  {
+    "sentence": "この本は欠けているページがある。",
+    "sentence_furigana": "この本【ほん】は欠【か】けているページがある。",
+    "meaning": "This book has missing pages."
+  },
+  {
+    "sentence": "彼の計画には改善の余地がある。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】には改善【かいぜん】の余地【よち】がある。",
+    "meaning": "There is room for improvement in his plan."
+  },
+  {
+    "sentence": "この商品の品質に欠陥があった。",
+    "sentence_furigana": "この商品【しょうひん】の品質【ひんしつ】に欠陥【けっかん】があった。",
+    "meaning": "There was a defect in the quality of this product."
+  },
+  {
+    "sentence": "欠勤理由書を提出してください。",
+    "sentence_furigana": "欠勤理由書【けっきんりゆうしょ】を提出【ていしゅつ】してください。",
+    "meaning": "Please submit a written explanation for your absence."
+  },
+  {
+    "sentence": "彼の発言は欠礼だ。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は欠礼【けつれい】だ。",
+    "meaning": "His statement is impolite."
+  },
+  {
+    "sentence": "この地域では水不足が深刻だ。",
+    "sentence_furigana": "この地域【ちいき】では水不足【みずぶそく】が深刻【しんこく】だ。",
+    "meaning": "Water shortage is serious in this region."
+  },
+  {
+    "sentence": "才能が欠けている点が残念だ。",
+    "sentence_furigana": "才能【さいのう】が欠【か】けている点【てん】が残念【ざんねん】だ。",
+    "meaning": "It is regrettable that talent is lacking."
+  },
+  {
+    "sentence": "彼は常に努力を欠かさない。",
+    "sentence_furigana": "彼【かれ】は常【つね】に努力【どりょく】を欠【か】かさない。",
+    "meaning": "He never fails to make an effort."
+  },
+  {
+    "sentence": "この情報は欠落している。",
+    "sentence_furigana": "この情報【じょうほう】は欠落【けつらく】している。",
+    "meaning": "This information is missing."
+  },
+  {
+    "sentence": "彼らはチームワークが欠けている。",
+    "sentence_furigana": "彼【かれ】らはチームワークが欠【か】けている。",
+    "meaning": "They lack teamwork."
+  },
+  {
+    "sentence": "欠勤による遅延が発生した。",
+    "sentence_furigana": "欠勤【けっきん】による遅延【ちえん】が発生【はっせい】した。",
+    "meaning": "A delay occurred due to absence."
+  },
+  {
+    "sentence": "このレシピは塩が欠けている。",
+    "sentence_furigana": "このレシピは塩【しお】が欠【か】けている。",
+    "meaning": "This recipe is lacking salt."
+  },
+  {
+    "sentence": "彼の説明は一部欠落していた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は一部【いちぶ】欠落【けつらく】していた。",
+    "meaning": "His explanation was partially missing."
+  },
+  {
+    "sentence": "この状態は異常である。",
+    "sentence_furigana": "この状態【じょうたい】は異常【いじょう】である。",
+    "meaning": "This condition is abnormal."
+  },
+  {
+    "sentence": "彼は仕事に欠勤が多い。",
+    "sentence_furigana": "彼【かれ】は仕事【しごと】に欠勤【けっきん】が多【おお】い。",
+    "meaning": "He is often absent from work."
+  },
+  {
+    "sentence": "この部品は製造上の欠陥がある。",
+    "sentence_furigana": "この部品【ぶひん】は製造上【せいぞうじょう】の欠陥【けっかん】がある。",
+    "meaning": "This part has a manufacturing defect."
+  },
+  {
+    "sentence": "彼は重要な情報を欠いていた。",
+    "sentence_furigana": "彼【かれ】は重要【じゅうよう】な情報【じょうほう】を欠【か】いていた。",
+    "meaning": "He was missing important information."
+  },
+  {
+    "sentence": "彼女は欠席した。",
+    "sentence_furigana": "彼女【かのじょ】は欠席【けっせき】した。",
+    "meaning": "She was absent."
+  },
+  {
+    "sentence": "この計画は多くの欠点を含んでいる。",
+    "sentence_furigana": "この計画【けいかく】は多【おお】くの欠点【けってん】を含【ふく】んでいる。",
+    "meaning": "This plan includes many flaws."
+  },
+  {
+    "sentence": "必要な部品が欠落している。",
+    "sentence_furigana": "必要【ひつよう】な部品【ぶひん】が欠落【けつらく】している。",
+    "meaning": "The necessary parts are missing."
+  },
+  {
+    "sentence": "彼は約束を欠いた。",
+    "sentence_furigana": "彼【かれ】は約束【やくそく】を欠【か】いた。",
+    "meaning": "He broke his promise."
+  },
+  {
+    "sentence": "この文章の論理に欠陥がある。",
+    "sentence_furigana": "この文章【ぶんしょう】の論理【ろんり】に欠陥【けっかん】がある。",
+    "meaning": "There is a flaw in the logic of this text."
+  },
+  {
+    "sentence": "彼は欠伸をした。",
+    "sentence_furigana": "彼【かれ】は欠伸【あくび】をした。",
+    "meaning": "He yawned."
+  },
+  {
+    "sentence": "会議に欠席者はいなかった。",
+    "sentence_furigana": "会議【かいぎ】に欠席者【けっせきしゃ】はいなかった。",
+    "meaning": "There were no absentees at the meeting."
+  },
+  {
+    "sentence": "彼女は常に努力を欠かさない。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に努力【どりょく】を欠【か】かさない。",
+    "meaning": "She never fails to make an effort."
+  },
+  {
+    "sentence": "そのデータには欠落がある。",
+    "sentence_furigana": "そのデータには欠落【けつらく】がある。",
+    "meaning": "There is a missing part in that data."
+  },
+  {
+    "sentence": "彼はその件について欠席した。",
+    "sentence_furigana": "彼【かれ】はその件【けん】について欠席【けっせき】した。",
+    "meaning": "He was absent concerning that matter."
+  },
+  {
+    "sentence": "この製品は品質に欠陥がある。",
+    "sentence_furigana": "この製品【せいひん】は品質【ひんしつ】に欠陥【けっかん】がある。",
+    "meaning": "This product has a quality defect."
+  },
+  {
+    "sentence": "彼は欠勤したことを後悔している。",
+    "sentence_furigana": "彼【かれ】は欠勤【けっきん】したこと【を】後悔【こうかい】している。",
+    "meaning": "He regrets being absent from work."
+  },
+  {
+    "sentence": "この情報は欠落していた。",
+    "sentence_furigana": "この情報【じょうほう】は欠落【けつらく】していた。",
+    "meaning": "This information was missing."
+  },
+  {
+    "sentence": "彼女は欠席届を提出しなかった。",
+    "sentence_furigana": "彼女【かのじょ】は欠席届【けっせきとどけ】を提出【ていしゅつ】しなかった。",
+    "meaning": "She did not submit an absence notification."
+  },
+  {
+    "sentence": "彼の発言は欠礼に当たらない。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は欠礼【けつれい】に当【あ】たらない。",
+    "meaning": "His remark is not impolite."
+  },
+  {
+    "sentence": "この計画には多くの欠陥がある。",
+    "sentence_furigana": "この計画【けいかく】には多【おお】くの欠陥【けっかん】がある。",
+    "meaning": "This plan has many defects."
+  },
+  {
+    "sentence": "彼は必要なものを欠いていた。",
+    "sentence_furigana": "彼【かれ】は必要【ひつよう】なもの【を】欠【か】いていた。",
+    "meaning": "He was missing the necessary things."
+  },
+  {
+    "sentence": "この書類は一部欠落している。",
+    "sentence_furigana": "この書類【しょるい】は一部【いちぶ】欠落【けつらく】している。",
+    "meaning": "This document has some missing parts."
+  },
+  {
+    "sentence": "欠勤することは許されない。",
+    "sentence_furigana": "欠勤【けっきん】すること【は】許【ゆる】されない。",
+    "meaning": "Being absent from work is not allowed."
+  },
+  {
+    "sentence": "彼の説明には誤りが欠けている。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】には誤【あやま】りが欠【か】けている。",
+    "meaning": "His explanation is lacking in errors."
+  },
+  {
+    "sentence": "このサービスには欠点が多い。",
+    "sentence_furigana": "このサービスには欠点【けってん】が多【おお】い。",
+    "meaning": "This service has many flaws."
+  }
+]

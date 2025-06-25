@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "猫が大好きです。",
+    "sentence_furigana": "猫【ねこ】が大好き【だいす】きです。",
+    "meaning": "I love cats."
+  },
+  {
+    "sentence": "彼は音楽が好きだ。",
+    "sentence_furigana": "彼【かれ】は音楽【おんがく】が好き【す】きだ。",
+    "meaning": "He likes music."
+  },
+  {
+    "sentence": "この本はとても面白い。",
+    "sentence_furigana": "この本【ほん】はとても面白【おもしろ】い。",
+    "meaning": "This book is very interesting."
+  },
+  {
+    "sentence": "彼女はきれいな花が好き。",
+    "sentence_furigana": "彼女【かのじょ】はきれいな花【はな】が好き【す】き。",
+    "meaning": "She likes pretty flowers."
+  },
+  {
+    "sentence": "私はコーヒーを好みます。",
+    "sentence_furigana": "私【わたし】はコーヒーを好【この】みます。",
+    "meaning": "I prefer coffee."
+  },
+  {
+    "sentence": "良い結果が出た。",
+    "sentence_furigana": "良【よ】い結果【けっか】が出【で】た。",
+    "meaning": "Good results came out."
+  },
+  {
+    "sentence": "子供は遊ぶのが好き。",
+    "sentence_furigana": "子供【こども】は遊【あそ】ぶのが好き【す】き。",
+    "meaning": "Children like to play."
+  },
+  {
+    "sentence": "健康的な食事を心がけています。",
+    "sentence_furigana": "健康的【けんこうてき】な食事【しょくじ】を心【こころ】がけています。",
+    "meaning": "I am trying to eat healthy."
+  },
+  {
+    "sentence": "この味はとても良い。",
+    "sentence_furigana": "この味【あじ】はとても良【よ】い。",
+    "meaning": "This taste is very good."
+  },
+  {
+    "sentence": "彼女は親切で優しい。",
+    "sentence_furigana": "彼女【かのじょ】は親切【しんせつ】で優【やさ】しい。",
+    "meaning": "She is kind and gentle."
+  },
+  {
+    "sentence": "彼はスポーツを好む。",
+    "sentence_furigana": "彼【かれ】はスポーツを好【この】む。",
+    "meaning": "He likes sports."
+  },
+  {
+    "sentence": "新しい経験が好きです。",
+    "sentence_furigana": "新【あたら】しい経験【けいけん】が好き【す】きです。",
+    "meaning": "I like new experiences."
+  },
+  {
+    "sentence": "この料理は美味しい。",
+    "sentence_furigana": "この料理【りょうり】は美味【おい】しい。",
+    "meaning": "This dish is delicious."
+  },
+  {
+    "sentence": "読書は良い趣味だ。",
+    "sentence_furigana": "読書【どくしょ】は良【よ】い趣味【しゅみ】だ。",
+    "meaning": "Reading is a good hobby."
+  },
+  {
+    "sentence": "自然が好きで、よく山へ行きます。",
+    "sentence_furigana": "自然【しぜん】が好き【す】きで、よく山【やま】へ行【い】きます。",
+    "meaning": "I like nature, so I often go to the mountains."
+  },
+  {
+    "sentence": "彼は物静かな人が好みだ。",
+    "sentence_furigana": "彼【かれ】は物静【ものしず】かな人【ひと】が好【この】みだ。",
+    "meaning": "He prefers quiet people."
+  },
+  {
+    "sentence": "彼女は良い友達です。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い友達【ともだち】です。",
+    "meaning": "She is a good friend."
+  },
+  {
+    "sentence": "この音楽は心地よい。",
+    "sentence_furigana": "この音楽【おんがく】は心地【ここち】よい。",
+    "meaning": "This music is pleasant."
+  },
+  {
+    "sentence": "彼は甘いものが好き。",
+    "sentence_furigana": "彼【かれ】は甘【あま】いものが好き【す】き。",
+    "meaning": "He likes sweets."
+  },
+  {
+    "sentence": "良いアドバイスをありがとう。",
+    "sentence_furigana": "良【よ】いアドバイスをありがとう。",
+    "meaning": "Thank you for the good advice."
+  },
+  {
+    "sentence": "私は犬を飼うのが好きです。",
+    "sentence_furigana": "私【わたし】は犬【いぬ】を飼【か】うのが好き【す】きです。",
+    "meaning": "I like to keep dogs."
+  },
+  {
+    "sentence": "この映画は気に入りました。",
+    "sentence_furigana": "この映画【えいが】は気【き】に入【い】りました。",
+    "meaning": "I liked this movie."
+  },
+  {
+    "sentence": "彼女は健康的なライフスタイルを送っている。",
+    "sentence_furigana": "彼女【かのじょ】は健康【けんこう】的なライフスタイルを送【おく】っている。",
+    "meaning": "She leads a healthy lifestyle."
+  },
+  {
+    "sentence": "好きな色は何ですか。",
+    "sentence_furigana": "好き【す】きな色【いろ】は何【なん】ですか。",
+    "meaning": "What is your favorite color?"
+  },
+  {
+    "sentence": "彼は勤勉で良い働きをする。",
+    "sentence_furigana": "彼【かれ】は勤勉【きんべん】で良【よ】い働【はたら】きをする。",
+    "meaning": "He is diligent and works well."
+  },
+  {
+    "sentence": "この絵は見る人を和ませる。",
+    "sentence_furigana": "この絵【え】は見る【みる】人【ひと】を和【なご】ませる。",
+    "meaning": "This painting soothes the viewer."
+  },
+  {
+    "sentence": "彼女は歌うのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は歌【うた】うのが好き【す】きだ。",
+    "meaning": "She likes to sing."
+  },
+  {
+    "sentence": "この果物は味が良い。",
+    "sentence_furigana": "この果物【くだもの】は味【あじ】が良【よ】い。",
+    "meaning": "This fruit tastes good."
+  },
+  {
+    "sentence": "彼は新しいことを学ぶのが好きだ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいこと【を】学【まな】ぶのが好き【す】きだ。",
+    "meaning": "He likes to learn new things."
+  },
+  {
+    "sentence": "友達と過ごす時間が好きです。",
+    "sentence_furigana": "友達【ともだち】と過【す】ごす時間【じかん】が好き【す】きです。",
+    "meaning": "I like spending time with friends."
+  },
+  {
+    "sentence": "このコーヒーはとても美味しい。",
+    "sentence_furigana": "このコーヒーはとても美味【おい】しい。",
+    "meaning": "This coffee is very tasty."
+  },
+  {
+    "sentence": "彼女は良い性格をしている。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い性格【せいかく】をしている。",
+    "meaning": "She has a good personality."
+  },
+  {
+    "sentence": "彼は読書を好む人だ。",
+    "sentence_furigana": "彼【かれ】は読書【どくしょ】を好【この】む人【ひと】だ。",
+    "meaning": "He is a person who likes reading."
+  },
+  {
+    "sentence": "この庭は心が落ち着く。",
+    "sentence_furigana": "この庭【にわ】は心【こころ】が落【お】ち着【つ】く。",
+    "meaning": "This garden is calming."
+  },
+  {
+    "sentence": "彼女は旅行が好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は旅行【りょこう】が好き【す】きだ。",
+    "meaning": "She likes to travel."
+  },
+  {
+    "sentence": "良いアイデアを思いついた。",
+    "sentence_furigana": "良【よ】いアイデアを思【おも】い付【つ】いた。",
+    "meaning": "I came up with a good idea."
+  },
+  {
+    "sentence": "彼は絵を描くのが好きだ。",
+    "sentence_furigana": "彼【かれ】は絵【え】を描【か】くのが好き【す】きだ。",
+    "meaning": "He likes to draw pictures."
+  },
+  {
+    "sentence": "この音楽は私の好みに合う。",
+    "sentence_furigana": "この音楽【おんがく】は私【わたし】の好【この】みに合【あ】う。",
+    "meaning": "This music suits my taste."
+  },
+  {
+    "sentence": "彼女は子供好きな先生だ。",
+    "sentence_furigana": "彼女【かのじょ】は子供好【こどもす】きな先生【せんせい】だ。",
+    "meaning": "She is a teacher who likes children."
+  },
+  {
+    "sentence": "この本は読みやすい。",
+    "sentence_furigana": "この本【ほん】は読【よ】みやすい。",
+    "meaning": "This book is easy to read."
+  },
+  {
+    "sentence": "彼は良い機会を逃さない。",
+    "sentence_furigana": "彼【かれ】は良【よ】い機会【きかい】を逃【に】がさない。",
+    "meaning": "He doesn't miss good opportunities."
+  },
+  {
+    "sentence": "彼女は犬を好む。",
+    "sentence_furigana": "彼女【かのじょ】は犬【いぬ】を好【この】む。",
+    "meaning": "She prefers dogs."
+  },
+  {
+    "sentence": "この場所は雰囲気が良い。",
+    "sentence_furigana": "この場所【ばしょ】は雰囲気【ふんいき】が良【よ】い。",
+    "meaning": "This place has a good atmosphere."
+  },
+  {
+    "sentence": "彼は新しい服を買うのが好きだ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい服【ふく】を買【か】うのが好き【す】きだ。",
+    "meaning": "He likes buying new clothes."
+  },
+  {
+    "sentence": "良い一日をお過ごしください。",
+    "sentence_furigana": "良【よ】い一日【いちにち】をお過【す】ごしください。",
+    "meaning": "Please have a good day."
+  },
+  {
+    "sentence": "彼女は料理が上手だ。",
+    "sentence_furigana": "彼女【かのじょ】は料理【りょうり】が上手【じょうず】だ。",
+    "meaning": "She is good at cooking."
+  },
+  {
+    "sentence": "この映画は非常に面白い。",
+    "sentence_furigana": "この映画【えいが】は非常【ひじょう】に面白【おもしろ】い。",
+    "meaning": "This movie is very interesting."
+  },
+  {
+    "sentence": "彼は友人を大切にする。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】を大切【たいせつ】にする。",
+    "meaning": "He cherishes his friends."
+  },
+  {
+    "sentence": "この果物は甘くて美味しい。",
+    "sentence_furigana": "この果物【くだもの】は甘【あま】くて美味【おい】しい。",
+    "meaning": "This fruit is sweet and delicious."
+  },
+  {
+    "sentence": "彼女は良い母親です。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い母親【ははおや】です。",
+    "meaning": "She is a good mother."
+  },
+  {
+    "sentence": "彼は新しい言語を学ぶのが好きだ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい言語【げんご】を学【まな】ぶのが好き【す】きだ。",
+    "meaning": "He likes learning new languages."
+  },
+  {
+    "sentence": "この静かな環境は心地よい。",
+    "sentence_furigana": "この静【しず】かな環境【かんきょう】は心地【ここち】よい。",
+    "meaning": "This quiet environment is pleasant."
+  },
+  {
+    "sentence": "彼女は音楽を聴くのが好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は音楽【おんがく】を聴【き】くのが好き【す】きだ。",
+    "meaning": "She likes listening to music."
+  },
+  {
+    "sentence": "このお店は雰囲気が良い。",
+    "sentence_furigana": "この店【みせ】は雰囲気【ふんいき】が良【よ】い。",
+    "meaning": "This shop has a good atmosphere."
+  },
+  {
+    "sentence": "彼は親切な人に好かれる。",
+    "sentence_furigana": "彼【かれ】は親切【しんせつ】な人【ひと】に好【す】かれる。",
+    "meaning": "He is liked by kind people."
+  },
+  {
+    "sentence": "この花はとても良い香りだ。",
+    "sentence_furigana": "この花【はな】はとても良【よ】い香【かお】りだ。",
+    "meaning": "This flower has a very good scent."
+  },
+  {
+    "sentence": "彼女は読書が好き。",
+    "sentence_furigana": "彼女【かのじょ】は読書【どくしょ】が好き【す】き。",
+    "meaning": "She likes reading."
+  },
+  {
+    "sentence": "彼は良い運転手だ。",
+    "sentence_furigana": "彼【かれ】は良【よ】い運転手【うんてんしゅ】だ。",
+    "meaning": "He is a good driver."
+  },
+  {
+    "sentence": "この味は私の好みです。",
+    "sentence_furigana": "この味【あじ】は私【わたし】の好【この】みです。",
+    "meaning": "This taste is to my liking."
+  },
+  {
+    "sentence": "彼女は海が好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は海【うみ】が好き【す】きだ。",
+    "meaning": "She likes the sea."
+  },
+  {
+    "sentence": "良い計画を立てましょう。",
+    "sentence_furigana": "良【よ】い計画【けいかく】を立【た】てましょう。",
+    "meaning": "Let's make a good plan."
+  },
+  {
+    "sentence": "彼は子供の頃から絵が好きだった。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の頃【ころ】から絵【え】が好き【す】きだった。",
+    "meaning": "He liked drawing since he was a child."
+  },
+  {
+    "sentence": "この歌はとても心地よい。",
+    "sentence_furigana": "この歌【うた】はとても心地【ここち】よい。",
+    "meaning": "This song is very pleasant."
+  },
+  {
+    "sentence": "彼女は良い人を見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い人【ひと】を見【み】つけた。",
+    "meaning": "She found a good person."
+  },
+  {
+    "sentence": "彼は甘い食べ物を好みます。",
+    "sentence_furigana": "彼【かれ】は甘【あま】い食【た】べ物【もの】を好【この】みます。",
+    "meaning": "He prefers sweet foods."
+  },
+  {
+    "sentence": "この風景は心を和ませる。",
+    "sentence_furigana": "この風景【ふうけい】は心【こころ】を和【なご】ませる。",
+    "meaning": "This scenery is calming."
+  },
+  {
+    "sentence": "彼女は良い生徒だった。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い生徒【せいと】だった。",
+    "meaning": "She was a good student."
+  },
+  {
+    "sentence": "彼は新しい帽子を買った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい帽子【ぼうし】を買【か】った。",
+    "meaning": "He bought a new hat."
+  },
+  {
+    "sentence": "良い結果を期待しています。",
+    "sentence_furigana": "良【よ】い結果【けっか】を期待【きたい】しています。",
+    "meaning": "I am expecting good results."
+  },
+  {
+    "sentence": "彼女は良い人生を送っている。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い人生【じんせい】を送【おく】っている。",
+    "meaning": "She is living a good life."
+  },
+  {
+    "sentence": "彼は良い友達に恵まれている。",
+    "sentence_furigana": "彼【かれ】は良【よ】い友達【ともだち】に恵【めぐ】まれている。",
+    "meaning": "He is blessed with good friends."
+  },
+  {
+    "sentence": "この店はサービスが良い。",
+    "sentence_furigana": "この店【みせ】はサービスが良【よ】い。",
+    "meaning": "The service at this shop is good."
+  },
+  {
+    "sentence": "彼女は花が好きだ。",
+    "sentence_furigana": "彼女【かのじょ】は花【はな】が好き【す】きだ。",
+    "meaning": "She likes flowers."
+  },
+  {
+    "sentence": "彼は良い声を持っている。",
+    "sentence_furigana": "彼【かれ】は良【よ】い声【こえ】を持【も】っている。",
+    "meaning": "He has a good voice."
+  },
+  {
+    "sentence": "この料理はなかなか良い。",
+    "sentence_furigana": "この料理【りょうり】はなかなか良【よ】い。",
+    "meaning": "This dish is quite good."
+  },
+  {
+    "sentence": "彼女は良い仕事を見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い仕事【しごと】を見【み】つけた。",
+    "meaning": "She found a good job."
+  },
+  {
+    "sentence": "彼は良い関係を築いた。",
+    "sentence_furigana": "彼【かれ】は良【よ】い関係【かんけい】を築【きず】いた。",
+    "meaning": "He built a good relationship."
+  },
+  {
+    "sentence": "この音楽は私の好みだ。",
+    "sentence_furigana": "この音楽【おんがく】は私【わたし】の好【この】みだ。",
+    "meaning": "This music is to my liking."
+  },
+  {
+    "sentence": "彼女は良い助言をくれた。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い助言【じょげん】をくれた。",
+    "meaning": "She gave me good advice."
+  },
+  {
+    "sentence": "彼は良い家を見つけた。",
+    "sentence_furigana": "彼【かれ】は良【よ】い家【いえ】を見【み】つけた。",
+    "meaning": "He found a good house."
+  },
+  {
+    "sentence": "この景色は素晴らしい。",
+    "sentence_furigana": "この景色【けしき】は素晴【すば】らしい。",
+    "meaning": "This scenery is wonderful."
+  },
+  {
+    "sentence": "彼女は良い夫を見つけるだろう。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い夫【おっと】を見【み】つけるだろう。",
+    "meaning": "She will find a good husband."
+  },
+  {
+    "sentence": "彼は良い車を持っている。",
+    "sentence_furigana": "彼【かれ】は良【よ】い車【くるま】を持【も】っている。",
+    "meaning": "He has a good car."
+  },
+  {
+    "sentence": "この果物は味が良い。",
+    "sentence_furigana": "この果物【くだもの】は味【あじ】が良【よ】い。",
+    "meaning": "This fruit has a good taste."
+  },
+  {
+    "sentence": "彼女は良い教師になりたい。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い教師【きょうし】になりたい。",
+    "meaning": "She wants to be a good teacher."
+  },
+  {
+    "sentence": "彼は良い知らせを聞いた。",
+    "sentence_furigana": "彼【かれ】は良【よ】い知【し】らせを聞【き】いた。",
+    "meaning": "He heard good news."
+  },
+  {
+    "sentence": "この曲は私の好みにぴったりだ。",
+    "sentence_furigana": "この曲【きょく】は私【わたし】の好【この】みにぴったりだ。",
+    "meaning": "This song is perfect for my taste."
+  },
+  {
+    "sentence": "彼女は良い写真家だ。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い写真家【しゃしんか】だ。",
+    "meaning": "She is a good photographer."
+  },
+  {
+    "sentence": "彼は良いアイデアを提案した。",
+    "sentence_furigana": "彼【かれ】は良【よ】いアイデアを提案【ていあん】した。",
+    "meaning": "He proposed a good idea."
+  },
+  {
+    "sentence": "この部屋は良い眺めだ。",
+    "sentence_furigana": "この部屋【へや】は良【よ】い眺【なが】めだ。",
+    "meaning": "This room has a good view."
+  },
+  {
+    "sentence": "彼女は良いパートナーを見つけた。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】いパートナーを見【み】つけた。",
+    "meaning": "She found a good partner."
+  },
+  {
+    "sentence": "彼は良い選手として活躍している。",
+    "sentence_furigana": "彼【かれ】は良【よ】い選手【せんしゅ】として活躍【かつやく】している。",
+    "meaning": "He is active as a good player."
+  },
+  {
+    "sentence": "このコーヒーは私の好みだ。",
+    "sentence_furigana": "このコーヒーは私【わたし】の好【この】みだ。",
+    "meaning": "This coffee is to my liking."
+  },
+  {
+    "sentence": "彼女は良い結果を出した。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い結果【けっか】を出【だ】した。",
+    "meaning": "She achieved good results."
+  },
+  {
+    "sentence": "彼は良い提案をしてくれた。",
+    "sentence_furigana": "彼【かれ】は良【よ】い提案【ていあん】をしてくれた。",
+    "meaning": "He made a good suggestion."
+  },
+  {
+    "sentence": "この場所はとても快適だ。",
+    "sentence_furigana": "この場所【ばしょ】はとても快適【かいてき】だ。",
+    "meaning": "This place is very comfortable."
+  },
+  {
+    "sentence": "彼女は良い本を書いた。",
+    "sentence_furigana": "彼女【かのじょ】は良【よ】い本【ほん】を書【か】いた。",
+    "meaning": "She wrote a good book."
+  },
+  {
+    "sentence": "彼は良いコメントをくれた。",
+    "sentence_furigana": "彼【かれ】は良【よ】いコメントをくれた。",
+    "meaning": "He gave me good comments."
+  }
+]

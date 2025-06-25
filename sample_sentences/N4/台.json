@@ -1,0 +1,587 @@
+[
+  {
+    "sentence": "この台の上に本を置きました。",
+    "sentence_furigana": "この台【だい】の上【うえ】に本【ほん】を置【お】きました。",
+    "meaning": "I placed the book on this stand."
+  },
+  {
+    "sentence": "彼は新しい会社の社長になった。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい会社【かいしゃ】の社長【しゃちょう】になった。",
+    "meaning": "He became the president of the new company."
+  },
+  {
+    "sentence": "この機械は使い方が簡単です。",
+    "sentence_furigana": "この機械【きかい】は使【つか】い方【かた】が簡単【かんたん】です。",
+    "meaning": "This machine is easy to use."
+  },
+  {
+    "sentence": "彼女は素晴らしい才能を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい才能【さいのう】を持【も】っています。",
+    "meaning": "She possesses a wonderful talent."
+  },
+  {
+    "sentence": "新しい車を購入しました。",
+    "sentence_furigana": "新【あら】しい車【くるま】を購【こう】入【にゅう】しました。",
+    "meaning": "I purchased a new car."
+  },
+  {
+    "sentence": "この建物はとても大きいです。",
+    "sentence_furigana": "この建物【たてもの】はとても大【おお】きいです。",
+    "meaning": "This building is very large."
+  },
+  {
+    "sentence": "彼は国の将来を担っています。",
+    "sentence_furigana": "彼【かれ】は国【くに】の将来【しょうらい】を担【にな】っています。",
+    "meaning": "He bears the future of the country."
+  },
+  {
+    "sentence": "この机の上には何もありません。",
+    "sentence_furigana": "この机【つくえ】の上【うえ】には何【なに】もありません。",
+    "meaning": "There is nothing on this desk."
+  },
+  {
+    "sentence": "彼は会議で重要な役割を果たしました。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で重要【じゅうよう】な役割【やくわり】を果た【はた】しました。",
+    "meaning": "He played an important role in the meeting."
+  },
+  {
+    "sentence": "この島は豊かな自然に恵まれています。",
+    "sentence_furigana": "この島【しま】は豊【ゆた】かな自然【しぜん】に恵【めぐ】まれています。",
+    "meaning": "This island is blessed with abundant nature."
+  },
+  {
+    "sentence": "彼の提案は会社の発展に貢献しました。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は会社【かいしゃ】の発展【はってん】に貢献【こうけん】しました。",
+    "meaning": "His proposal contributed to the company's development."
+  },
+  {
+    "sentence": "このコンピューターは最新のモデルです。",
+    "sentence_furigana": "このコンピューターは最新【さいしん】のモデルです。",
+    "meaning": "This computer is the latest model."
+  },
+  {
+    "sentence": "彼はチームのリーダーとして活躍しています。",
+    "sentence_furigana": "彼【かれ】はチームのリーダーとして活躍【かつやく】しています。",
+    "meaning": "He is active as the team leader."
+  },
+  {
+    "sentence": "この台車は重い荷物を運ぶのに使われます。",
+    "sentence_furigana": "この台車【だいしゃ】は重【おも】い荷物【にもつ】を運【はこ】ぶのに使【つか】われます。",
+    "meaning": "This trolley is used to carry heavy luggage."
+  },
+  {
+    "sentence": "彼は多くの人々に尊敬されています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】に尊敬【そんけい】されています。",
+    "meaning": "He is respected by many people."
+  },
+  {
+    "sentence": "このカウンターはとても使いやすいです。",
+    "sentence_furigana": "このカウンターはとても使【つか】いやすいです。",
+    "meaning": "This counter is very easy to use."
+  },
+  {
+    "sentence": "彼の話はいつも興味深いです。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも興味深【きょうみぶか】いです。",
+    "meaning": "His stories are always interesting."
+  },
+  {
+    "sentence": "この台紙に写真を貼ってください。",
+    "sentence_furigana": "この台紙【だいし】に写真【しゃしん】を貼【は】ってください。",
+    "meaning": "Please paste the photo on this mount."
+  },
+  {
+    "sentence": "彼は大学で経済学を専攻しています。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で経済学【けいざいがく】を専攻【せんこう】しています。",
+    "meaning": "He majors in economics at university."
+  },
+  {
+    "sentence": "この展示台は革新的です。",
+    "sentence_furigana": "この展示台【てんじだい】は革新【かくしん】的【てき】です。",
+    "meaning": "This display stand is innovative."
+  },
+  {
+    "sentence": "彼は将来有望な若者です。",
+    "sentence_furigana": "彼【かれ】は将来有望【しょうらいゆうぼう】な若者【わかもの】です。",
+    "meaning": "He is a promising young man for the future."
+  },
+  {
+    "sentence": "このテーブルはとても頑丈です。",
+    "sentence_furigana": "このテーブルはとても頑丈【がんじょう】です。",
+    "meaning": "This table is very sturdy."
+  },
+  {
+    "sentence": "彼は国際的な舞台で活躍しています。",
+    "sentence_furigana": "彼【かれ】は国際的【こくさいてき】な舞台【ぶたい】で活躍【かつやく】しています。",
+    "meaning": "He is active on the international stage."
+  },
+  {
+    "sentence": "この台所は広々としています。",
+    "sentence_furigana": "この台所【だいどころ】は広々【ひろびろ】としています。",
+    "meaning": "This kitchen is spacious."
+  },
+  {
+    "sentence": "彼は自分の意見をしっかり持っています。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】をしっかり持【も】っています。",
+    "meaning": "He firmly holds his own opinions."
+  },
+  {
+    "sentence": "この台本を練習してください。",
+    "sentence_furigana": "この台本【だいほん】を練習【れんしゅう】してください。",
+    "meaning": "Please practice this script."
+  },
+  {
+    "sentence": "彼は国民の期待に応えました。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】の期待【きたい】に応【こた】えました。",
+    "meaning": "He responded to the people's expectations."
+  },
+  {
+    "sentence": "このプラットフォームは非常に便利です。",
+    "sentence_furigana": "このプラットフォームは非常【ひじょう】に便利【べんり】です。",
+    "meaning": "This platform is very convenient."
+  },
+  {
+    "sentence": "彼は歴史的な偉業を成し遂げました。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な偉業【いぎょう】を成【な】し遂【と】げました。",
+    "meaning": "He accomplished a historic feat."
+  },
+  {
+    "sentence": "この台座に彫刻を置きます。",
+    "sentence_furigana": "この台座【だいざ】に彫刻【ちょうこく】を置【お】きます。",
+    "meaning": "We will place the sculpture on this pedestal."
+  },
+  {
+    "sentence": "彼は大学で教鞭をとっています。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で教鞭【きょうべん】をとっています。",
+    "meaning": "He teaches at university."
+  },
+  {
+    "sentence": "この台帳に記録しました。",
+    "sentence_furigana": "この台帳【だいちょう】に記録【きろく】しました。",
+    "meaning": "I recorded it in this ledger."
+  },
+  {
+    "sentence": "彼は多くの知識を持っています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】を持【も】っています。",
+    "meaning": "He has a lot of knowledge."
+  },
+  {
+    "sentence": "この台紙は非常に丈夫です。",
+    "sentence_furigana": "この台紙【だいし】は非常【ひじょう】に丈夫【じょうぶ】です。",
+    "meaning": "This mount is very durable."
+  },
+  {
+    "sentence": "彼は平和のために尽力しています。",
+    "sentence_furigana": "彼【かれ】は平和【へいわ】のため尽【つ】くしています。",
+    "meaning": "He is working hard for peace."
+  },
+  {
+    "sentence": "このカウンターはシンプルで美しいです。",
+    "sentence_furigana": "このカウンターはシンプルで美【うつく】しいです。",
+    "meaning": "This counter is simple and beautiful."
+  },
+  {
+    "sentence": "彼は困難に立ち向かいました。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】に立【た】ち向【む】かいました。",
+    "meaning": "He faced the difficulties."
+  },
+  {
+    "sentence": "この台車は運搬に便利です。",
+    "sentence_furigana": "この台車【だいしゃ】は運搬【うんぱん】に便利【べんり】です。",
+    "meaning": "This trolley is convenient for transport."
+  },
+  {
+    "sentence": "彼は多くの人々に慕われています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】に慕【した】われています。",
+    "meaning": "He is admired by many people."
+  },
+  {
+    "sentence": "この台本は感動的です。",
+    "sentence_furigana": "この台本【だいほん】は感動的【かんどうてき】です。",
+    "meaning": "This script is moving."
+  },
+  {
+    "sentence": "彼は社会の発展に貢献しました。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】の発展【はってん】に貢献【こうけん】しました。",
+    "meaning": "He contributed to the development of society."
+  },
+  {
+    "sentence": "この台座は彫刻を引き立てます。",
+    "sentence_furigana": "この台座【だいざ】は彫刻【ちょうこく】を引き立【ひきた】てます。",
+    "meaning": "This pedestal enhances the sculpture."
+  },
+  {
+    "sentence": "彼は国民のリーダーです。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】のリーダーです。",
+    "meaning": "He is the leader of the nation."
+  },
+  {
+    "sentence": "この台所は非常に使いやすい。",
+    "sentence_furigana": "この台所【だいどころ】は非常【ひじょう】に使いやすい。",
+    "meaning": "This kitchen is very easy to use."
+  },
+  {
+    "sentence": "彼は国際会議で発表しました。",
+    "sentence_furigana": "彼【かれ】は国際会議【こくさいかいぎ】で発表【はっぴょう】しました。",
+    "meaning": "He presented at the international conference."
+  },
+  {
+    "sentence": "この台本はとても面白いです。",
+    "sentence_furigana": "この台本【だいほん】はとても面白【おもしろ】いです。",
+    "meaning": "This script is very interesting."
+  },
+  {
+    "sentence": "彼は時代の流れに乗っています。",
+    "sentence_furigana": "彼【かれ】は時代【じだい】の流【なが】れに乗【の】っています。",
+    "meaning": "He is in tune with the times."
+  },
+  {
+    "sentence": "この台車は非常に軽いです。",
+    "sentence_furigana": "この台車【だいしゃ】は非常【ひじょう】に軽【かる】いです。",
+    "meaning": "This trolley is very light."
+  },
+  {
+    "sentence": "彼はチームの勝利に貢献しました。",
+    "sentence_furigana": "彼【かれ】はチームの勝利【しょうり】に貢献【こうけん】しました。",
+    "meaning": "He contributed to the team's victory."
+  },
+  {
+    "sentence": "この台紙は絵画用です。",
+    "sentence_furigana": "この台紙【だいし】は絵画【かいが】用【よう】です。",
+    "meaning": "This mount is for paintings."
+  },
+  {
+    "sentence": "彼は多くの経験を積んでいます。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの経験【けいけん】を積【つ】んでいます。",
+    "meaning": "He has a lot of experience."
+  },
+  {
+    "sentence": "この台所は近代的な設備を備えています。",
+    "sentence_furigana": "この台所【だいどころ】は近代的【きんだいてき】な設備【せつび】を備【そな】えています。",
+    "meaning": "This kitchen is equipped with modern facilities."
+  },
+  {
+    "sentence": "彼は会社の代表として挨拶しました。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の代表【だいひょう】として挨拶【あいさつ】しました。",
+    "meaning": "He gave a greeting as the company's representative."
+  },
+  {
+    "sentence": "この台本を覚えるのは大変でした。",
+    "sentence_furigana": "この台本【だいほん】を覚【お】えるのは大変【たいへん】でした。",
+    "meaning": "It was difficult to memorize this script."
+  },
+  {
+    "sentence": "彼は国を豊かにしました。",
+    "sentence_furigana": "彼【かれ】は国【くに】を豊【ゆた】かにしました。",
+    "meaning": "He enriched the country."
+  },
+  {
+    "sentence": "この台座は美術品にふさわしいです。",
+    "sentence_furigana": "この台座【だいざ】は美術品【びじゅつひん】にふさわしいです。",
+    "meaning": "This pedestal is suitable for the artwork."
+  },
+  {
+    "sentence": "彼は常に向上心を持っています。",
+    "sentence_furigana": "彼【かれ】は常【つね】に向上心【こうじょうしん】を持【も】っています。",
+    "meaning": "He always has a desire for improvement."
+  },
+  {
+    "sentence": "この台帳は重要な記録です。",
+    "sentence_furigana": "この台帳【だいちょう】は重要【じゅうよう】な記録【きろく】です。",
+    "meaning": "This ledger is an important record."
+  },
+  {
+    "sentence": "彼は多くの人々のために働いています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】のため働【はたら】いています。",
+    "meaning": "He works for many people."
+  },
+  {
+    "sentence": "この台紙は写真の保護に役立ちます。",
+    "sentence_furigana": "この台紙【だいし】は写真【しゃしん】の保護【ほご】に役立【やくた】ちます。",
+    "meaning": "This mount helps protect the photo."
+  },
+  {
+    "sentence": "彼は新しい技術を導入しました。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい技術【ぎじゅつ】を導入【どうにゅう】しました。",
+    "meaning": "He introduced new technology."
+  },
+  {
+    "sentence": "このカウンターは整理整頓されています。",
+    "sentence_furigana": "このカウンターは整理整頓【せいりせいとん】されています。",
+    "meaning": "This counter is neat and tidy."
+  },
+  {
+    "sentence": "彼は歴史に名を残しました。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】に名【な】を残【のこ】しました。",
+    "meaning": "He left his mark on history."
+  },
+  {
+    "sentence": "この台車は静かに動きます。",
+    "sentence_furigana": "この台車【だいしゃ】は静【しず】かに動【うご】きます。",
+    "meaning": "This trolley moves quietly."
+  },
+  {
+    "sentence": "彼は多くの芸術作品を所有しています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの芸術作品【げいじゅつさくひん】を所有【しょゆう】しています。",
+    "meaning": "He owns many works of art."
+  },
+  {
+    "sentence": "この台本は映画で使われました。",
+    "sentence_furigana": "この台本【だいほん】は映画【えいが】で使【つか】われました。",
+    "meaning": "This script was used in the movie."
+  },
+  {
+    "sentence": "彼は国民の信頼を得ています。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】の信頼【しんらい】を得【え】ています。",
+    "meaning": "He has earned the trust of the people."
+  },
+  {
+    "sentence": "この台所は清潔に保たれています。",
+    "sentence_furigana": "この台所【だいどころ】は清潔【せいけつ】に保【たも】たれています。",
+    "meaning": "This kitchen is kept clean."
+  },
+  {
+    "sentence": "彼は改革を推進しました。",
+    "sentence_furigana": "彼【かれ】は改革【かいかく】を推進【すいしん】しました。",
+    "meaning": "He promoted reforms."
+  },
+  {
+    "sentence": "この台座は安定しています。",
+    "sentence_furigana": "この台座【だいざ】は安定【あんてい】しています。",
+    "meaning": "This pedestal is stable."
+  },
+  {
+    "sentence": "彼は常に努力を惜しみません。",
+    "sentence_furigana": "彼【かれ】は常【つね】に努力【どりょく】を惜【お】しみません。",
+    "meaning": "He never spares his efforts."
+  },
+  {
+    "sentence": "この台車は積載量が多いです。",
+    "sentence_furigana": "この台車【だいしゃ】は積載量【せきさいりょう】が多【おお】いです。",
+    "meaning": "This trolley has a large load capacity."
+  },
+  {
+    "sentence": "彼は教育の普及に尽力しました。",
+    "sentence_furigana": "彼【かれ】は教育【きょういく】の普及【ふきゅう】に尽【つ】くしました。",
+    "meaning": "He worked hard to spread education."
+  },
+  {
+    "sentence": "この台紙にサインをお願いします。",
+    "sentence_furigana": "この台紙【だいし】にサインをお願【ねが】いします。",
+    "meaning": "Please sign on this mount."
+  },
+  {
+    "sentence": "彼は新しい事業を始めました。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい事業【じぎょう】を始【はじ】めました。",
+    "meaning": "He started a new business."
+  },
+  {
+    "sentence": "このカウンターは店舗の顔です。",
+    "sentence_furigana": "このカウンターは店舗【てんぽ】の顔【かお】です。",
+    "meaning": "This counter is the face of the store."
+  },
+  {
+    "sentence": "彼は文化の発展に貢献しました。",
+    "sentence_furigana": "彼【かれ】は文化【ぶんか】の発展【はってん】に貢献【こうけん】しました。",
+    "meaning": "He contributed to cultural development."
+  },
+  {
+    "sentence": "この台本は脚本賞を受賞しました。",
+    "sentence_furigana": "この台本【だいほん】は脚本賞【きゃくほんしょう】を受賞【じゅしょう】しました。",
+    "meaning": "This script won a screenplay award."
+  },
+  {
+    "sentence": "彼は国の代表団の一員です。",
+    "sentence_furigana": "彼【かれ】は国【くに】の代表団【だいひょうだん】の一員【いちいん】です。",
+    "meaning": "He is a member of the national delegation."
+  },
+  {
+    "sentence": "この台所は明るく清潔です。",
+    "sentence_furigana": "この台所【だいどころ】は明【あか】るく清潔【せいけつ】です。",
+    "meaning": "This kitchen is bright and clean."
+  },
+  {
+    "sentence": "彼は時代の証人です。",
+    "sentence_furigana": "彼【かれ】は時代【じだい】の証人【しょうにん】です。",
+    "meaning": "He is a witness to the times."
+  },
+  {
+    "sentence": "この台座はシンプルで上品です。",
+    "sentence_furigana": "この台座【だいざ】はシンプルで上品【じょうひん】です。",
+    "meaning": "This pedestal is simple and elegant."
+  },
+  {
+    "sentence": "彼は常に正確な情報を伝えます。",
+    "sentence_furigana": "彼【かれ】は常【つね】に正確【せいかく】な情報【じょうほう】を伝【つた】えます。",
+    "meaning": "He always conveys accurate information."
+  },
+  {
+    "sentence": "この台車は丈夫で長持ちします。",
+    "sentence_furigana": "この台車【だいしゃ】は丈夫【じょうぶ】で長持【ながも】ちします。",
+    "meaning": "This trolley is durable and long-lasting."
+  },
+  {
+    "sentence": "彼は芸術の発展に貢献しました。",
+    "sentence_furigana": "彼【かれ】は芸術【げいじゅつ】の発展【はってん】に貢献【こうけん】しました。",
+    "meaning": "He contributed to the development of art."
+  },
+  {
+    "sentence": "この台紙はアルバムに最適です。",
+    "sentence_furigana": "この台紙【だいし】はアルバムに最適【さいてき】です。",
+    "meaning": "This mount is ideal for albums."
+  },
+  {
+    "sentence": "彼は社会のためにボランティアをしています。",
+    "sentence_furigana": "彼【かれ】は社会【しゃかい】のためボランティアをしています。",
+    "meaning": "He volunteers for society."
+  },
+  {
+    "sentence": "このカウンターは顧客の対応に使われます。",
+    "sentence_furigana": "このカウンターは顧客【こきゃく】の対応【たいおう】に使【つか】われます。",
+    "meaning": "This counter is used for customer service."
+  },
+  {
+    "sentence": "彼は歴史的な事件を目撃しました。",
+    "sentence_furigana": "彼【かれ】は歴史的【れきしてき】な事件【じけん】を目撃【もくげき】しました。",
+    "meaning": "He witnessed a historical event."
+  },
+  {
+    "sentence": "この台本は多くの人に感動を与えました。",
+    "sentence_furigana": "この台本【だいほん】は多【おお】くの人に感動【かんどう】を与【あた】えました。",
+    "meaning": "This script moved many people."
+  },
+  {
+    "sentence": "彼は国の発展に貢献した人物です。",
+    "sentence_furigana": "彼【かれ】は国【くに】の発展【はってん】に貢献【こうけん】した人物【じんぶつ】です。",
+    "meaning": "He is a person who contributed to the country's development."
+  },
+  {
+    "sentence": "この台所は広くて使いやすいです。",
+    "sentence_furigana": "この台所【だいどころ】は広【ひろ】くて使いやすいです。",
+    "meaning": "This kitchen is spacious and easy to use."
+  },
+  {
+    "sentence": "彼は平和的な解決を求めました。",
+    "sentence_furigana": "彼【かれ】は平和的【へいわてき】な解決【かいけつ】を求【もと】めました。",
+    "meaning": "He sought a peaceful resolution."
+  },
+  {
+    "sentence": "この台座は非常に頑丈です。",
+    "sentence_furigana": "この台座【だいざ】は非常【ひじょう】に頑丈【がんじょう】です。",
+    "meaning": "This pedestal is very sturdy."
+  },
+  {
+    "sentence": "彼は常に誠実に行動します。",
+    "sentence_furigana": "彼【かれ】は常【つね】に誠実【せいじつ】に行【おこな】います。",
+    "meaning": "He always acts with sincerity."
+  },
+  {
+    "sentence": "この台車は運ぶのに便利です。",
+    "sentence_furigana": "この台車【だいしゃ】は運【はこ】ぶのに便利【べんり】です。",
+    "meaning": "This trolley is convenient to carry."
+  },
+  {
+    "sentence": "彼は多くの人々の模範となっています。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの人々【ひとびと】の模範【もはん】となっています。",
+    "meaning": "He is a model for many people."
+  },
+  {
+    "sentence": "この台紙は絵を飾るのに適しています。",
+    "sentence_furigana": "この台紙【だいし】は絵【え】を飾【かざ】るのに適【てき】しています。",
+    "meaning": "This mount is suitable for decorating pictures."
+  },
+  {
+    "sentence": "彼は偉大な功績を残しました。",
+    "sentence_furigana": "彼【かれ】は偉大【いだい】な功績【こうせき】を残【のこ】しました。",
+    "meaning": "He left behind great achievements."
+  },
+  {
+    "sentence": "この台所は最新の設備が整っています。",
+    "sentence_furigana": "この台所【だいどころ】は最新【さいしん】の設備【せつび】が整【ととの】っています。",
+    "meaning": "This kitchen is equipped with the latest facilities."
+  },
+  {
+    "sentence": "彼は国の重要な政策を決定しました。",
+    "sentence_furigana": "彼【かれ】は国【くに】の重要【じゅうよう】な政策【せいさく】を決定【けってい】しました。",
+    "meaning": "He decided on important national policies."
+  },
+  {
+    "sentence": "この台本は高く評価されました。",
+    "sentence_furigana": "この台本【だいほん】は高【たか】く評価【ひょうか】されました。",
+    "meaning": "This script was highly praised."
+  },
+  {
+    "sentence": "彼は技術革新のリーダーです。",
+    "sentence_furigana": "彼【かれ】は技術革新【ぎじゅつかくしん】のリーダーです。",
+    "meaning": "He is a leader in technological innovation."
+  },
+  {
+    "sentence": "この台座は芸術作品を際立たせます。",
+    "sentence_furigana": "この台座【だいざ】は芸術作品【げいじゅつさくひん】を際立【きわだ】たせます。",
+    "meaning": "This pedestal makes the artwork stand out."
+  },
+  {
+    "sentence": "彼は常に前向きな姿勢でいます。",
+    "sentence_furigana": "彼【かれ】は常【つね】に前向【まえむ】きな姿勢【しせい】でいます。",
+    "meaning": "He always maintains a positive attitude."
+  },
+  {
+    "sentence": "この台車は多くの荷物を運べます。",
+    "sentence_furigana": "この台車【だいしゃ】は多【おお】くの荷物【にもつ】を運【はこ】べます。",
+    "meaning": "This trolley can carry a lot of luggage."
+  },
+  {
+    "sentence": "彼は社会問題の解決に貢献しました。",
+    "sentence_furigana": "彼【かれ】は社会問題【しゃかいもんだい】の解決【かいけつ】に貢献【こうけん】しました。",
+    "meaning": "He contributed to solving social problems."
+  },
+  {
+    "sentence": "この台紙は写真の保存に適しています。",
+    "sentence_furigana": "この台紙【だいし】は写真【しゃしん】の保存【ほぞん】に適【てき】しています。",
+    "meaning": "This mount is suitable for preserving photos."
+  },
+  {
+    "sentence": "彼は新しい時代を切り開きました。",
+    "sentence_furigana": "彼【かれ】は新【あら】しい時代【じだい】を切【き】り開【ひら】きました。",
+    "meaning": "He pioneered a new era."
+  },
+  {
+    "sentence": "このカウンターは清潔で衛生的です。",
+    "sentence_furigana": "このカウンターは清潔【せいけつ】で衛生的【えいせいてき】です。",
+    "meaning": "This counter is clean and hygienic."
+  },
+  {
+    "sentence": "彼は歴史に名を残す偉人です。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】に名【な】を遺【のこ】す偉人【いじん】です。",
+    "meaning": "He is a great man who left his name in history."
+  },
+  {
+    "sentence": "この台本は多くの賞を受賞しました。",
+    "sentence_furigana": "この台本【だいほん】は多【おお】くの賞【しょう】を受賞【じゅしょう】しました。",
+    "meaning": "This script won many awards."
+  },
+  {
+    "sentence": "彼は国民の安全を守っています。",
+    "sentence_furigana": "彼【かれ】は国民【こくみん】の安全【あんぜん】を守【まも】っています。",
+    "meaning": "He protects the safety of the people."
+  },
+  {
+    "sentence": "この台所は機能的で使いやすいです。",
+    "sentence_furigana": "この台所【だいどころ】は機能的【きのうてき】で使いやすいです。",
+    "meaning": "This kitchen is functional and easy to use."
+  },
+  {
+    "sentence": "彼は国の未来を担う存在です。",
+    "sentence_furigana": "彼【かれ】は国【くに】の未来【みらい】を担【にな】う存在【そんざい】です。",
+    "meaning": "He is someone who shoulders the country's future."
+  },
+  {
+    "sentence": "この台座は装飾的です。",
+    "sentence_furigana": "この台座【だいざ】は装飾的【そうしょくてき】です。",
+    "meaning": "This pedestal is decorative."
+  },
+  {
+    "sentence": "彼は常に新しい知識を求めています。",
+    "sentence_furigana": "彼【かれ】は常【つね】に新【あら】しい知識【ちしき】を求【もと】めています。",
+    "meaning": "He is always seeking new knowledge."
+  }
+]

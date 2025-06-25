@@ -1,0 +1,422 @@
+[
+  {
+    "sentence": "この俳句は五七五の句で構成されている。",
+    "sentence_furigana": "この俳句【はいく】は五七五【ごひちご】の句【く】で構成【こうせい】されている。",
+    "meaning": "This haiku is composed of five, seven, and five phrases."
+  },
+  {
+    "sentence": "彼は会議で短い句を発言した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で短【みじか】い句【く】を発言【はつげん】した。",
+    "meaning": "He made a short remark in the meeting."
+  },
+  {
+    "sentence": "先生は生徒たちに新しい句を作らせた。",
+    "sentence_furigana": "先生【せんせい】は生徒【せいと】たちに新【あたら】しい句【く】を作【つく】らせた。",
+    "meaning": "The teacher had the students create a new sentence."
+  },
+  {
+    "sentence": "この詩は多くの象徴的な句を含んでいる。",
+    "sentence_furigana": "この詩【し】は多【おお】くの象徴的【しょうちょうてき】な句【く】を含【ふく】んでいる。",
+    "meaning": "This poem contains many symbolic phrases."
+  },
+  {
+    "sentence": "会話の途中で、彼女は少し言葉に詰まった句があった。",
+    "sentence_furigana": "会話【かいわ】の途中【とちゅう】で、彼女【かのじょ】は少【すこ】し言葉【ことば】に詰【つ】まった句【く】があった。",
+    "meaning": "In the middle of the conversation, she had a phrase where she stumbled on her words a little."
+  },
+  {
+    "sentence": "彼は難しい句を簡単に説明した。",
+    "sentence_furigana": "彼【かれ】は難【むずか】しい句【く】を簡単【かんたん】に説明【せつめい】した。",
+    "meaning": "He explained the difficult sentence easily."
+  },
+  {
+    "sentence": "この文章は一つの長い句から成り立っている。",
+    "sentence_furigana": "この文章【ぶんしょう】は一つ【ひとつ】の長【なが】い句【く】から成【な】り立【た】っている。",
+    "meaning": "This passage consists of one long sentence."
+  },
+  {
+    "sentence": "彼はその言葉を印象的な句として覚えている。",
+    "sentence_furigana": "彼【かれ】はその言葉【ことば】を印象的【いんしょうてき】な句【く】として覚【おぼ】えている。",
+    "meaning": "He remembers that phrase as a memorable one."
+  },
+  {
+    "sentence": "この詩集には魅力的な句がたくさん載っている。",
+    "sentence_furigana": "この詩集【ししゅう】には魅力的【みりょくてき】な句【く】がたくさん載【の】っている。",
+    "meaning": "This poetry collection contains many attractive verses."
+  },
+  {
+    "sentence": "彼女は短い物語をいくつかの句に分けて話した。",
+    "sentence_furigana": "彼女【かのじょ】は短【みじか】い物語【ものがたり】をいくつか句【く】に分【わ】けて話【はな】した。",
+    "meaning": "She told a short story divided into several sentences."
+  },
+  {
+    "sentence": "裁判官は弁護士の最後の句を聞き入った。",
+    "sentence_furigana": "裁判官【さいばんかん】は弁護士【べんごし】の最後【さいご】の句【く】を聞【き】き入【い】った。",
+    "meaning": "The judge listened to the lawyer's closing statement."
+  },
+  {
+    "sentence": "彼はことわざを引用して、その句の意味を説明した。",
+    "sentence_furigana": "彼【かれ】はことわざを引用【いんよう】して、その句【く】の意味【いみ】を説明【せつめい】した。",
+    "meaning": "He explained the meaning of the phrase by quoting a proverb."
+  },
+  {
+    "sentence": "この劇のセリフは文学的な句が多い。",
+    "sentence_furigana": "この劇【げき】のセリフは文学的【ぶんがくてき】な句【く】が多【おお】い。",
+    "meaning": "The lines in this play often contain literary phrases."
+  },
+  {
+    "sentence": "彼は詩の最後の句を何度も繰り返して読んだ。",
+    "sentence_furigana": "彼【かれ】は詩【し】の最後【さいご】の句【く】を何度【なんど】も繰【く】り返【かえ】して読【よ】んだ。",
+    "meaning": "He read the last line of the poem over and over."
+  },
+  {
+    "sentence": "その記事は非常に分かりやすい句で書かれていた。",
+    "sentence_furigana": "その記事【きじ】は非常【ひじょう】に分【わ】かりやすい句【く】で書【か】かれていた。",
+    "meaning": "The article was written in very easy-to-understand sentences."
+  },
+  {
+    "sentence": "彼はスピーチの冒頭で印象的な句を述べた。",
+    "sentence_furigana": "彼【かれ】はスピーチの冒頭【ぼうとう】で印象的【いんしょうてき】な句【く】を述【の】べた。",
+    "meaning": "He stated a memorable phrase at the beginning of his speech."
+  },
+  {
+    "sentence": "この歌の歌詞は美しい句で構成されている。",
+    "sentence_furigana": "この歌【うた】の歌詞【かし】は美【うつく】しい句【く】で構成【こうせい】されている。",
+    "meaning": "The lyrics of this song are composed of beautiful verses."
+  },
+  {
+    "sentence": "彼は自分の考えを簡潔な句で表現した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の考【かんが】えを簡潔【かんけつ】な句【く】で表現【ひょうげん】した。",
+    "meaning": "He expressed his thoughts in concise sentences."
+  },
+  {
+    "sentence": "彼女は詩を朗読する際に、各句の感情を込めて読んだ。",
+    "sentence_furigana": "彼女【かのじょ】は詩【し】を朗読【ろうどく】する際【さい】に、各句【かくく】の感情【かんじょう】を込【こ】めて読【よ】んだ。",
+    "meaning": "When reciting the poem, she read each line with emotion."
+  },
+  {
+    "sentence": "この古典文学は難解な句が多いが、読み応えがある。",
+    "sentence_furigana": "この古典文学【こてんぶんがく】は難解【なんかい】な句【く】が多【おお】いが、読【よ】み応【ご】えがある。",
+    "meaning": "This classical literature contains many difficult phrases, but it is rewarding to read."
+  },
+  {
+    "sentence": "彼は古い書物から興味深い句をいくつか見つけた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い書物【しょもつ】から興味深【きょうみぶか】い句【く】をいくつか見【み】つけた。",
+    "meaning": "He found some interesting phrases in old books."
+  },
+  {
+    "sentence": "この小説は情景が目に浮かぶような句で満ちている。",
+    "sentence_furigana": "この小説【しょうせつ】は情景【じょうけい】が目【め】に浮【う】かぶような句【く】で満【み】ちている。",
+    "meaning": "This novel is filled with phrases that evoke vivid scenes."
+  },
+  {
+    "sentence": "彼女は演説の締めくくりに力強い句を放った。",
+    "sentence_furigana": "彼女【かのじょ】は演説【えんぜつ】の締【し】めくくりに力強【ちからづよ】い句【く】を放【はな】った。",
+    "meaning": "She delivered a powerful closing statement in her speech."
+  },
+  {
+    "sentence": "その映画のセリフには、忘れられない句がたくさんあった。",
+    "sentence_furigana": "その映画【えいが】のセリフには、忘【わ】れられない句【く】がたくさんあった。",
+    "meaning": "The movie had many unforgettable lines."
+  },
+  {
+    "sentence": "彼は新しい単語を覚えるために、短い句を作った。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい単語【たんご】を覚【おぼ】えるために、短【みじか】い句【く】を作【つく】った。",
+    "meaning": "He made short phrases to memorize new words."
+  },
+  {
+    "sentence": "この詩は、自然の美しさを描写する句で溢れている。",
+    "sentence_furigana": "この詩【し】は、自然【しぜん】の美【うつく】しさを描写【びょうしゃ】する句【く】で溢【あふ】れている。",
+    "meaning": "This poem is full of phrases that describe the beauty of nature."
+  },
+  {
+    "sentence": "彼女は日記にその日の出来事を数句でまとめた。",
+    "sentence_furigana": "彼女【かのじょ】は日記【にっき】にその日【ひ】の出来事【できごと】を数句【すうく】でまとめた。",
+    "meaning": "She summarized the day's events in a few sentences in her diary."
+  },
+  {
+    "sentence": "その古い歌には、心に響く句が多く含まれている。",
+    "sentence_furigana": "その古【ふる】い歌【うた】には、心【こころ】に響【ひび】く句【く】が多【おお】く含【ふく】まれている。",
+    "meaning": "That old song contains many touching verses."
+  },
+  {
+    "sentence": "彼は複雑なアイデアを簡単な句に言い換えた。",
+    "sentence_furigana": "彼【かれ】は複雑【ふくざつ】なアイデアを簡単【かんた】んな句【く】に言【い】い換【か】えた。",
+    "meaning": "He rephrased the complex idea into a simple sentence."
+  },
+  {
+    "sentence": "この文章は、読者の注意を引く導入句から始まる。",
+    "sentence_furigana": "この文章【ぶんしょう】は、読者【どくしゃ】の注意【ちゅうい】を引【ひ】く導入句【どうにゅうく】から始【はじ】まる。",
+    "meaning": "This article begins with an introductory phrase that grabs the reader's attention."
+  },
+  {
+    "sentence": "彼女は失恋の悲しみを表現する句を書き綴った。",
+    "sentence_furigana": "彼女【かのじょ】は失恋【しつれん】の悲【かな】しみを表現【ひょうげん】する句【く】を書【か】き綴【つづ】った。",
+    "meaning": "She wrote down phrases expressing the sadness of heartbreak."
+  },
+  {
+    "sentence": "彼はユーモアのある句を交えて話を進めた。",
+    "sentence_furigana": "彼【かれ】はユーモアのある句【く】を交【ま】じえて話【はな】を進【すす】めた。",
+    "meaning": "He proceeded with the talk, incorporating humorous remarks."
+  },
+  {
+    "sentence": "この詩には、秋の情景を詠んだ句が数多く見られる。",
+    "sentence_furigana": "この詩【し】には、秋【あき】の情景【じょうけい】を詠【よ】んだ句【く】が数多【かずおお】く見【み】られる。",
+    "meaning": "This poem features many verses that capture the autumn scenery."
+  },
+  {
+    "sentence": "彼女は大切なメッセージを短い句に凝縮した。",
+    "sentence_furigana": "彼女【かのじょ】は大切【たいせつ】なメッセージを短【みじか】い句【く】に凝縮【ぎょうしゅく】した。",
+    "meaning": "She condensed an important message into a short phrase."
+  },
+  {
+    "sentence": "彼は卒業論文の要点を分かりやすい句でまとめた。",
+    "sentence_furigana": "彼【かれ】は卒業論文【そつぎょうろんぶん】の要点【ようてん】を分【わ】かりやすい句【く】でまとめた。",
+    "meaning": "He summarized the key points of his graduation thesis in easy-to-understand sentences."
+  },
+  {
+    "sentence": "この物語は、人生の教訓となるような句が散りばめられている。",
+    "sentence_furigana": "この物語【ものがたり】は、人生【じんせい】の教訓【きょうくん】となるような句【く】が散【ち】りばめられている。",
+    "meaning": "This story is interspersed with phrases that serve as life lessons."
+  },
+  {
+    "sentence": "彼女は友人の結婚式で感動的な句を贈った。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】の結婚式【けっこんしき】で感動的【かんどうてき】な句【く】を贈【おく】った。",
+    "meaning": "She gave an touching verse as a gift at her friend's wedding."
+  },
+  {
+    "sentence": "彼は会議で発言を求められた際に、的確な句を述べた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で発言【はつげん】を求【もと】められた際【さい】に、的確【てきかく】な句【く】を述【の】べた。",
+    "meaning": "When asked to speak at the meeting, he made an appropriate remark."
+  },
+  {
+    "sentence": "この詩集には、季節の移ろいを描いた句が多く含まれている。",
+    "sentence_furigana": "この詩集【ししゅう】には、季節【きせつ】の移【うつ】ろいを描【えが】いた句【く】が多【おお】く含【ふく】まれている。",
+    "meaning": "This poetry collection contains many verses depicting the changing seasons."
+  },
+  {
+    "sentence": "彼女は旅の思い出を写真と共に短い句で表現した。",
+    "sentence_furigana": "彼女【かのじょ】は旅【たび】の思【おも】い出【で】を写真【しゃしん】と共【とも】に短【みじか】い句【く】で表現【ひょうげん】した。",
+    "meaning": "She expressed her travel memories with photos in short sentences."
+  },
+  {
+    "sentence": "彼は先生に褒められたことで、さらに意欲的な句を作ろうと思った。",
+    "sentence_furigana": "彼【かれ】は先生【せんせい】に褒【ほ】められたことで、さらに意欲的【いよくてき】な句【く】を作【つく】ろうと思【おも】った。",
+    "meaning": "Being praised by the teacher, he decided to try and create even more ambitious verses."
+  },
+  {
+    "sentence": "この短歌は、恋心を歌った切ない句が特徴的だ。",
+    "sentence_furigana": "この短歌【たんか】は、恋心【こいごころ】を歌【うた】った切【せつ】ない句【く】が特徴的【とくちょうてき】だ。",
+    "meaning": "This tanka is characterized by poignant verses about love."
+  },
+  {
+    "sentence": "彼女は長年の研究成果を一つの句に集約した。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の研究成果【けんきゅうせいか】を一つ【ひとつ】の句【く】に集約【しゅうやく】した。",
+    "meaning": "She summarized her many years of research results into a single sentence."
+  },
+  {
+    "sentence": "彼は子供の頃に読んだ本の印象的な句を今でも覚えている。",
+    "sentence_furigana": "彼【かれ】は子供の頃【こどものころ】に読【よ】んだ本【ほん】の印象的【いんしょうてき】な句【く】を今【いま】でも覚【おぼ】えている。",
+    "meaning": "He still remembers the impressive phrases from a book he read as a child."
+  },
+  {
+    "sentence": "この詩は、人生の無常観を表す静かな句で綴られている。",
+    "sentence_furigana": "この詩【し】は、人生【じんせい】の無常観【むじょうかん】を表【あらわ】す静【しず】かな句【く】で綴【つづ】られている。",
+    "meaning": "This poem is written with quiet verses that express the impermanence of life."
+  },
+  {
+    "sentence": "彼女はプレゼンテーションの最後に、聴衆の心に残る句を選んだ。",
+    "sentence_furigana": "彼女【かのじょ】はプレゼンテーションの最後【さいご】に、聴衆【ちょうしゅう】の心【こころ】に残【のこ】る句【く】を選【え】らんだ。",
+    "meaning": "She chose a memorable phrase for the audience at the end of her presentation."
+  },
+  {
+    "sentence": "彼はこの格言を、人生の指針となる句として大切にしている。",
+    "sentence_furigana": "彼【かれ】はこの格言【かくげん】を、人生【じんせい】の指針【ししん】となる句【く】として大切【たいせつ】にしている。",
+    "meaning": "He cherishes this proverb as a guiding principle in his life."
+  },
+  {
+    "sentence": "この短編集には、人間の心理を描写した秀逸な句が多く収録されている。",
+    "sentence_furigana": "この短編集【たんぺんしゅう】には、人間【にんげん】の心理【しんり】を描写【びょうしゃ】した秀逸【しゅういつ】な句【く】が多【おお】く収録【しゅうろく】されている。",
+    "meaning": "This collection of short stories contains many excellent phrases that depict human psychology."
+  },
+  {
+    "sentence": "彼女は言葉選びに苦労し、ようやく一つ一つの句を完成させた。",
+    "sentence_furigana": "彼女【かのじょ】は言葉選【ことばえ】び苦労【くろう】し、ようやく一つ一つ【ひとつひとつ】の句【く】を完成【かんせい】させた。",
+    "meaning": "She struggled with word choice and finally completed each sentence one by one."
+  },
+  {
+    "sentence": "彼は古い教訓を現代的な言葉遣いの句にアレンジし直した。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い教訓【きょうくん】を現代的【げんだいてき】な言葉遣【ことばづか】いの句【く】にアレンジし直【なお】した。",
+    "meaning": "He rearranged the old lessons into phrases with modern phrasing."
+  },
+  {
+    "sentence": "この映画の脚本には、観客の心に深く訴えかける句が豊富に含まれている。",
+    "sentence_furigana": "この映画【えいが】の脚本【きゃくほん】には、観客【かんきゃく】の心【こころ】に深【ふか】く訴【うった】えかける句【く】が豊富【ほうふ】に含ま【ふく】まれている。",
+    "meaning": "The script of this movie is rich with phrases that deeply appeal to the audience's hearts."
+  },
+  {
+    "sentence": "彼女は失言を繕うために、必死で適切な句を探した。",
+    "sentence_furigana": "彼女【かのじょ】は失言【しつげん】を繕【つぐな】うために、必死【ひっし】で適切【てきせつ】な句【く】を探【さが】した。",
+    "meaning": "She desperately searched for the right words to cover up her slip of the tongue."
+  },
+  {
+    "sentence": "彼はこの詩のテーマを最もよく表している句を選び出した。",
+    "sentence_furigana": "彼【かれ】はこの詩【し】のテーマを最【もっと】もよく表【あらわ】している句【く】を選【え】び出【だ】した。",
+    "meaning": "He picked out the phrase that best represents the theme of this poem."
+  },
+  {
+    "sentence": "この教材は、学習者が理解しやすいように短い句で構成されている。",
+    "sentence_furigana": "この教材【きょうざい】は、学習者【がくしゅうしゃ】が理解【りかい】しやすいように短【みじか】い句【く】で構成【こうせい】されている。",
+    "meaning": "This teaching material is composed of short sentences to make it easy for learners to understand."
+  },
+  {
+    "sentence": "彼女は人生の苦悩を表現する象徴的な句を紡ぎ出した。",
+    "sentence_furigana": "彼女【かのじょ】は人生【じんせい】の苦悩【くのう】を表現【ひょうげん】する象徴的【しょうちょうてき】な句【く】を紡【つむ】ぎ出【だ】した。",
+    "meaning": "She spun out symbolic phrases expressing life's suffering."
+  },
+  {
+    "sentence": "彼は新しい料理のレシピを、ステップごとに短い句で説明した。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい料理【りょうり】のレシピを、ステップごとに短【みじか】い句【く】で説明【せつめい】した。",
+    "meaning": "He explained the new cooking recipe step by step in short sentences."
+  },
+  {
+    "sentence": "この歌の歌詞には、故郷を懐かしむ切ない句が数多く登場する。",
+    "sentence_furigana": "この歌【うた】の歌詞【かし】には、故郷【こきょう】を懐【なつ】かしむ切【せつ】ない句【く】が数多【かずおお】く登場【とうじょう】する。",
+    "meaning": "The lyrics of this song feature many poignant verses that evoke longing for one's hometown."
+  },
+  {
+    "sentence": "彼女は弁論大会で、聴衆の心を掴む導入句を披露した。",
+    "sentence_furigana": "彼女【かのじょ】は弁論大会【べんろんたいかい】で、聴衆【ちょうしゅう】の心【こころ】を掴【つか】む導入句【どうにゅうく】を披露【ひろう】した。",
+    "meaning": "She presented an attention-grabbing opening phrase at the debate competition."
+  },
+  {
+    "sentence": "彼はその会社の理念を、記憶に残るキャッチフレーズのような句で表現した。",
+    "sentence_furigana": "彼【かれ】はそ会社【がいしゃ】の理念【りねん】を、記憶【きおく】に残【のこ】るキャッチフレーズのような句【く】で表現【ひょうげん】した。",
+    "meaning": "He expressed the company's philosophy in a memorable, slogan-like phrase."
+  },
+  {
+    "sentence": "この伝記には、偉人の生涯を象徴する印象的な句が数多く引用されている。",
+    "sentence_furigana": "この伝記【でんき】には、偉人【いじん】の生涯【しょうがい】を象徴【しょうちょう】する印象的【いんしょうてき】な句【く】が数多【かずおお】く引用【いんよう】されている。",
+    "meaning": "This biography frequently quotes impressive phrases that symbolize the lives of great people."
+  },
+  {
+    "sentence": "彼女は日々の感情の変化を、短い詩的な句で記録していた。",
+    "sentence_furigana": "彼女【かのじょ】は日々【ひび】の感情【かんじょう】の変化【へんか】を、短【みじか】い詩的【してき】な句【く】で記録【きろく】していた。",
+    "meaning": "She recorded her daily emotional changes in short, poetic verses."
+  },
+  {
+    "sentence": "彼は議論のポイントを明確にするために、簡潔な句をいくつか提示した。",
+    "sentence_furigana": "彼【かれ】は議論【ぎろん】のポイントを明確【めいかく】にするために、簡潔【かんけつ】な句【く】をいくつか提示【ていじ】した。",
+    "meaning": "He presented a few concise phrases to clarify the points of the discussion."
+  },
+  {
+    "sentence": "この俳句は、自然の静けさを表す美しい句で締めくくられている。",
+    "sentence_furigana": "この俳句【はいく】は、自然【しぜん】の静【しず】けさを表【あらわ】す美【うつく】しい句【く】で締【し】めくくられている。",
+    "meaning": "This haiku concludes with a beautiful phrase expressing the tranquility of nature."
+  },
+  {
+    "sentence": "彼女は、家族への感謝の気持ちを込めて、心温まる句を作った。",
+    "sentence_furigana": "彼女【かのじょ】は家族【かぞく】への感謝【かんしゃ】の気持ち【きもち】を込【こ】めて、心温【こころあたた】まる句【く】を作【つく】った。",
+    "meaning": "She crafted a heartwarming verse filled with gratitude towards her family."
+  },
+  {
+    "sentence": "彼は新しいプロジェクトの目標を、覚えやすい一つの句にまとめた。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいプロジェクトの目標【もくひょう】を、覚【おぼ】えやすい一つ【ひとつ】の句【く】にまとめた。",
+    "meaning": "He condensed the goals of the new project into one easy-to-remember phrase."
+  },
+  {
+    "sentence": "この歴史書は、当時の人々の生活を生き生きと描写する句が豊富だ。",
+    "sentence_furigana": "この歴史書【れきししょ】は、当時【とうじ】の人々【ひとびと】の生活【せいかつ】を生【い】き生【い】きと描写【びょうしゃ】する句【く】が豊富【ほうふ】だ。",
+    "meaning": "This history book is rich with phrases that vividly depict the lives of people at that time."
+  },
+  {
+    "sentence": "彼女は友人との別れを惜しむ、悲しい句を詠んだ。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】との別【わか】れを惜【お】しむ、悲【かな】しい句【く】を詠【よ】んだ。",
+    "meaning": "She composed a sad verse, lamenting the parting with her friend."
+  },
+  {
+    "sentence": "彼は難しい哲学的な概念を、理解可能な句に分解して説明した。",
+    "sentence_furigana": "彼【かれ】は難【むずか】しい哲学【てつがく】的【てき】な概念【がいねん】を、理解可能【りかいかのう】な句【く】に分解【ぶんかい】して説明【せつめい】した。",
+    "meaning": "He broke down complex philosophical concepts into understandable sentences to explain them."
+  },
+  {
+    "sentence": "この広告のキャッチコピーは、非常に印象的な句で構成されている。",
+    "sentence_furigana": "この広告【こうこく】のキャッチコピーは、非常【ひじょう】に印象的【いんしょうてき】な句【く】で構成【こうせい】されている。",
+    "meaning": "This advertisement's catchphrase is composed of very memorable phrases."
+  },
+  {
+    "sentence": "彼女は卒業式で、未来への希望を歌う感動的な句を述べた。",
+    "sentence_furigana": "彼女【かのじょ】は卒業式【そつぎょうしき】で、未来【みらい】への希望【きぼう】を歌【うた】う感動的【かんどうてき】な句【く】を述【の】べた。",
+    "meaning": "She delivered a moving verse singing of hope for the future at the graduation ceremony."
+  },
+  {
+    "sentence": "彼はその状況を的確に表現する句を即座に思いついた。",
+    "sentence_furigana": "彼【かれ】はそ状況【じょうきょう】を的確【てきかく】に表現【ひょうげん】する句【く】を即座【そくざ】に思【おも】いついた。",
+    "meaning": "He immediately thought of a phrase that accurately described the situation."
+  },
+  {
+    "sentence": "この小説は、登場人物の内面を深く掘り下げる思索的な句が多い。",
+    "sentence_furigana": "この小説【しょうせつ】は、登場人物【とうじょうじんぶつ】の内面【ないめん】を深【ふか】く掘【ほ】り下【さ】げる思索的【しさくてき】な句【く】が多【おお】い。",
+    "meaning": "This novel contains many contemplative phrases that deeply explore the inner lives of the characters."
+  },
+  {
+    "sentence": "彼女は祖母から教わった古いことわざを、大切な句として心に留めている。",
+    "sentence_furigana": "彼女【かのじょ】は祖母【そぼ】から教【おそ】わった古【ふる】いことわざを、大切【たいせつ】な句【く】として心【こころ】に留【と】めている。",
+    "meaning": "She keeps an old proverb taught by her grandmother in her heart as a precious phrase."
+  },
+  {
+    "sentence": "彼は会議での自分の発言を、より簡潔で分かりやすい句に修正した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】での自分【じぶん】の発言【はつげん】を、より簡潔【かんけつ】で分【わ】かりやすい句【く】に修正【しゅうせい】した。",
+    "meaning": "He revised his remarks at the meeting into more concise and understandable sentences."
+  },
+  {
+    "sentence": "この短詩集には、人生の喜びや悲しみを表現した美しい句が詰まっている。",
+    "sentence_furigana": "この短詩集【たんししゅう】には、人生【じんせい】の喜【よろこ】びや悲【かな】しみを表現【ひょうげん】した美【うつく】しい句【く】が詰【つ】まっている。",
+    "meaning": "This collection of short poems is filled with beautiful verses expressing the joys and sorrows of life."
+  },
+  {
+    "sentence": "彼女は友人の推薦で、その文学作品を読み始めたが、すぐにその魅力的な句に引き込まれた。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】の推薦【すいせん】で、そ文学作品【ぶんがくさくひん】を読【よ】み始【はじ】めたが、すぐその魅力的【みりょくてき】な句【く】に引【ひ】き込【こ】まれた。",
+    "meaning": "She started reading that literary work on her friend's recommendation and was immediately drawn in by its captivating phrases."
+  },
+  {
+    "sentence": "彼は新しいビジネスのアイデアを、人々に伝わりやすい短い句で説明する必要があった。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しいビジネスのアイデアを、人々【ひとびと】に伝【つた】わりやすい短【みじか】い句【く】で説明【せつめい】する必要【ひつよう】があった。",
+    "meaning": "He needed to explain his new business idea in short sentences that people could easily understand."
+  },
+  {
+    "sentence": "この詩は、都会の喧騒から離れた静寂な情景を詠んだ穏やかな句で構成されている。",
+    "sentence_furigana": "この詩【し】は、都会【とかい】の喧騒【けんそう】から離【はな】れた静寂【せいじゃく】な情景【じょうけい】を詠【よ】んだ穏【おだ】やかな句【く】で構成【こうせい】されている。",
+    "meaning": "This poem is composed of tranquil verses depicting a quiet scene away from the city's hustle and bustle."
+  },
+  {
+    "sentence": "彼女は祖母の思い出を語る際に、時折、祖母がよく使っていた懐かしい句を引用した。",
+    "sentence_furigana": "彼女【かのじょ】は祖母【そぼ】の思【おも】い出【で】を語【かた】る際【さい】に、時折【ときおり】、祖母【そぼ】がよく使【つか】っていた懐【なつ】かしい句【く】を引用【いんよう】した。",
+    "meaning": "When talking about her grandmother, she occasionally quoted a nostalgic phrase that her grandmother often used."
+  },
+  {
+    "sentence": "彼はこの古典的な寓話を、現代の子供たちにも理解できるように、平易な句で書き直した。",
+    "sentence_furigana": "彼【かれ】はこ古典的【こてんてき】な寓話【ぐうわ】を、現代【げんだい】の子供【こども】たちにも理解【りかい】できるように、平易【へいい】な句【く】で書【か】き直【なお】した。",
+    "meaning": "He rewrote this classical fable in simple sentences so that modern children could understand it."
+  },
+  {
+    "sentence": "この詩集には、人間の心の機微を捉えた繊細な句が多く、読者の共感を呼ぶだろう。",
+    "sentence_furigana": "この詩集【ししゅう】には、人間【にんげん】の心【こころ】の機微【きび】を捉【とら】えた繊細【せんさい】な句【く】が多【おお】く、読者【どくしゃ】の共感【きょうかん】を呼【よ】ぶだろう。",
+    "meaning": "This poetry collection contains many delicate verses that capture the nuances of the human heart, likely to resonate with readers."
+  },
+  {
+    "sentence": "彼女は長年温めてきたプロジェクトの理念を、人々の記憶に残る力強い句で発表した。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】温【あたた】めてきたプロジェクトの理念【りねん】を、人々【ひとびと】の記憶【きおく】に残【のこ】る力強【ちからづよ】い句【く】で発表【はっぴょう】した。",
+    "meaning": "She announced the philosophy of her long-cherished project with a powerful phrase that would remain in people's memories."
+  },
+  {
+    "sentence": "彼は友人の結婚式のスピーチで、二人の門出を祝う感動的でユーモアのある句を披露し、会場を和ませた。",
+    "sentence_furigana": "彼【かれ】は友人【ゆうじん】の結婚式【けっこんしき】のスピーチで、二人【ふたり】の門出【かどで】を祝【いわ】う感動的【かんどうてき】でユーモアのある句【く】を披露【ひろう】し、会場【かいじょう】を和【なご】ませた。",
+    "meaning": "In his speech at his friend's wedding, he presented moving and humorous verses celebrating their new beginning, which warmed the atmosphere."
+  },
+  {
+    "sentence": "この文学作品は、作者の深い人間洞察に基づいた、示唆に富む句の連続で構成されており、読者に多くのことを考えさせる。",
+    "sentence_furigana": "この文学作品【ぶんがくさくひん】は、作者【さくしゃ】の深【ふか】い人間洞察【にんげんどうさつ】に基づ【もと】いた、示唆【しさ】に富【と】む句【く】の連続【れんぞく】で構成【こうせい】されており、読者【どくしゃ】に多【おお】くのこと考【かんが】えさせる。",
+    "meaning": "This literary work, composed of a series of thought-provoking phrases based on the author's deep human insight, makes readers think a lot."
+  }
+]

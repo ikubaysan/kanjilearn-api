@@ -1,0 +1,557 @@
+[
+  {
+    "sentence": "この素材は高い耐久性を持っている。",
+    "sentence_furigana": "この素材【そざい】は高【たか】い耐久性【たいきゅうせい】を持【も】っている。",
+    "meaning": "This material has high durability."
+  },
+  {
+    "sentence": "彼は厳しい訓練に耐えた。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい訓練【くんれん】に耐【た】えた。",
+    "meaning": "He endured the harsh training."
+  },
+  {
+    "sentence": "長時間の労働に耐えることは難しい。",
+    "sentence_furigana": "長時間【ちょうじかん】の労働【ろうどう】に耐【た】えることは難【むずか】しい。",
+    "meaning": "It is difficult to endure long hours of work."
+  },
+  {
+    "sentence": "この製品は耐熱性に優れている。",
+    "sentence_furigana": "この製品【せいひん】は耐熱性【たいねつせい】に優【すぐ】れている。",
+    "meaning": "This product excels in heat resistance."
+  },
+  {
+    "sentence": "彼は苦痛に耐えながらも任務を続けた。",
+    "sentence_furigana": "彼【かれ】は苦痛【くつう】に耐【た】えながらも任務【にんむ】を続【つづ】けた。",
+    "meaning": "He continued his mission while enduring the pain."
+  },
+  {
+    "sentence": "この壁は防水性があり、水に強い。",
+    "sentence_furigana": "この壁【かべ】は防水性【ぼうすいせい】があり、水【みず】に強【つよ】い。",
+    "meaning": "This wall is waterproof and resistant to water."
+  },
+  {
+    "sentence": "彼は周囲の批判に耐え抜いた。",
+    "sentence_furigana": "彼【かれ】は周囲【しゅうい】の批判【ひはん】に耐【た】え抜【ぬ】いた。",
+    "meaning": "He weathered the surrounding criticism."
+  },
+  {
+    "sentence": "この接着剤は高い強度に耐えられる。",
+    "sentence_furigana": "この接着剤【せっちゃくざい】は高【たか】い強度【きょうど】に耐【た】えられる。",
+    "meaning": "This adhesive can withstand high strength."
+  },
+  {
+    "sentence": "彼女は困難に耐える強い精神力を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は困難【こんなん】に耐【た】える強【つよ】い精神力【せいしんりょく】を持【も】っている。",
+    "meaning": "She has the strong mental fortitude to endure hardship."
+  },
+  {
+    "sentence": "この合金は耐食性に優れている。",
+    "sentence_furigana": "この合金【ごうきん】は耐食性【たいしょくせい】に優【すぐ】れている。",
+    "meaning": "This alloy excels in corrosion resistance."
+  },
+  {
+    "sentence": "彼は忍耐強く、目標達成のために努力し続けた。",
+    "sentence_furigana": "彼【かれ】は忍耐強【にんたいづよ】く、目標達成【もくひょうたっせい】のため努力【どりょく】し続【つづ】けた。",
+    "meaning": "He was patient and continued to strive to achieve his goals."
+  },
+  {
+    "sentence": "このフィルムは耐衝撃性に優れている。",
+    "sentence_furigana": "このフィルムは耐衝撃性【たいしょうげきせい】に優【すぐ】れている。",
+    "meaning": "This film has excellent shock resistance."
+  },
+  {
+    "sentence": "彼は家族のために多くの困難に耐えた。",
+    "sentence_furigana": "彼【かれ】は家族【かぞく】のため多【おお】くの困難【こんなん】に耐【た】えた。",
+    "meaning": "He endured many hardships for his family."
+  },
+  {
+    "sentence": "この塗料は耐候性に優れている。",
+    "sentence_furigana": "この塗料【とりょう】は耐候性【たいこうせい】に優【すぐ】れている。",
+    "meaning": "This paint has excellent weather resistance."
+  },
+  {
+    "sentence": "人生の苦しみは耐え忍ぶことが美徳とされることがある。",
+    "sentence_furigana": "人生【じんせい】の苦悩【くのう】は耐【た】え忍【しの】ぶことが美徳【びとく】とされることがあ。",
+    "meaning": "Enduring life's suffering is sometimes considered a virtue."
+  },
+  {
+    "sentence": "このガラスは耐熱ガラス製である。",
+    "sentence_furigana": "このガラスは耐熱ガラス製【たいねつガラスせい】である。",
+    "meaning": "This glass is made of heat-resistant glass."
+  },
+  {
+    "sentence": "彼は長い間、その状況に耐えなければならなかった。",
+    "sentence_furigana": "彼【かれ】は長【なが】い間【あいだ】、その状況【じょうきょう】に耐【た】えなければならなかった。",
+    "meaning": "He had to endure that situation for a long time."
+  },
+  {
+    "sentence": "この製品は耐摩耗性に優れている。",
+    "sentence_furigana": "この製品【せいひん】は耐摩耗性【たいまもうせい】に優【すぐ】れている。",
+    "meaning": "This product has excellent wear resistance."
+  },
+  {
+    "sentence": "彼女は子供たちのために辛抱強く待った。",
+    "sentence_furigana": "彼女【かのじょ】は子供達【こどもたち】のため辛抱強【しんぼうづよ】く待【ま】った。",
+    "meaning": "She waited patiently for her children."
+  },
+  {
+    "sentence": "この素材は酸に耐性がある。",
+    "sentence_furigana": "この素材【そざい】は酸【さん】に耐性【たいせい】がある。",
+    "meaning": "This material is resistant to acid."
+  },
+  {
+    "sentence": "彼は長い間、孤独に耐えてきた。",
+    "sentence_furigana": "彼【かれ】は長【なが】い間【あいだ】、孤独【こどく】に耐【た】えてきた。",
+    "meaning": "He has endured loneliness for a long time."
+  },
+  {
+    "sentence": "このインクは耐水性がある。",
+    "sentence_furigana": "このインクは耐水性【たいすいせい】がある。",
+    "meaning": "This ink is water-resistant."
+  },
+  {
+    "sentence": "彼は病気の苦しみに耐え続けた。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の苦悩【くのう】に耐【た】え続【つづ】けた。",
+    "meaning": "He continued to endure the suffering of his illness."
+  },
+  {
+    "sentence": "この材料は腐食に強い。",
+    "sentence_furigana": "この材料【ざいりょう】は腐食【ふしょく】に強【つよ】い。",
+    "meaning": "This material is strong against corrosion."
+  },
+  {
+    "sentence": "彼女はプレッシャーに耐えることができる。",
+    "sentence_furigana": "彼女【かのじょ】はプレッシャーに耐【た】えることができる。",
+    "meaning": "She can withstand pressure."
+  },
+  {
+    "sentence": "このケーブルは耐油性に優れている。",
+    "sentence_furigana": "このケーブルは耐油性【たいゆうせい】に優【すぐ】れている。",
+    "meaning": "This cable has excellent oil resistance."
+  },
+  {
+    "sentence": "彼は冷たい環境に耐えることができる。",
+    "sentence_furigana": "彼【かれ】は冷【つめ】たい環境【かんきょう】に耐【た】えることができる。",
+    "meaning": "He can endure cold environments."
+  },
+  {
+    "sentence": "この靴下は耐久性に富んでいる。",
+    "sentence_furigana": "この靴下【くつした】は耐久性【たいきゅうせい】に富【と】んでいる。",
+    "meaning": "These socks are rich in durability."
+  },
+  {
+    "sentence": "彼は絶え間ない努力を続けた。",
+    "sentence_furigana": "彼【かれ】は絶【た】え間【ま】ない努力【どりょく】を続【つづ】けた。",
+    "meaning": "He continued his unceasing efforts."
+  },
+  {
+    "sentence": "この壁紙は汚れに強い。",
+    "sentence_furigana": "この壁紙【かべがみ】は汚【よご】れに強【つよ】い。",
+    "meaning": "This wallpaper is resistant to dirt."
+  },
+  {
+    "sentence": "彼女は痛みに耐えながらも笑顔を見せた。",
+    "sentence_furigana": "彼女【かのじょ】は痛【いた】みに耐【た】えながらも笑顔【えがお】を見【み】せた。",
+    "meaning": "She showed a smile while enduring the pain."
+  },
+  {
+    "sentence": "この接着剤は強力な力に耐える。",
+    "sentence_furigana": "この接着剤【せっちゃくざい】は強力【きょうりょく】な力【ちから】に耐【た】える。",
+    "meaning": "This adhesive withstands strong forces."
+  },
+  {
+    "sentence": "彼は長年の経験から耐えることを学んだ。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】から耐【た】えること学【まな】んだ。",
+    "meaning": "He learned to endure from many years of experience."
+  },
+  {
+    "sentence": "この断熱材は熱を遮断する能力に優れている。",
+    "sentence_furigana": "この断熱材【だんねつざい】は熱【ねつ】を遮断【しゃだん】する能力【のうりょく】に優【すぐ】れている。",
+    "meaning": "This insulation material excels in its ability to block heat."
+  },
+  {
+    "sentence": "彼は激しい風雨に耐えた。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しい風雨【ふうう】に耐【た】えた。",
+    "meaning": "He endured the severe wind and rain."
+  },
+  {
+    "sentence": "この容器は衝撃に強い構造になっている。",
+    "sentence_furigana": "この容器【ようき】は衝撃【しょうげき】に強【つよ】い構造【こうぞう】になっている。",
+    "meaning": "This container has a structure that is resistant to impact."
+  },
+  {
+    "sentence": "彼女は長期間の孤独に耐えることができた。",
+    "sentence_furigana": "彼女【かのじょ】は長期間【ちょうきかん】の孤独【こどく】に耐【た】えることができた。",
+    "meaning": "She was able to endure long periods of loneliness."
+  },
+  {
+    "sentence": "この合金は高温に耐える。",
+    "sentence_furigana": "この合金【ごうきん】は高温【こうおん】に耐【た】える。",
+    "meaning": "This alloy withstands high temperatures."
+  },
+  {
+    "sentence": "彼は逆境に耐える強い意志を持っていた。",
+    "sentence_furigana": "彼【かれ】は逆境【ぎゃっきょう】に耐【た】える強【つよ】い意志【いし】を持【も】っていた。",
+    "meaning": "He had a strong will to endure adversity."
+  },
+  {
+    "sentence": "この塗料は耐候性に優れているため、屋外での使用に適している。",
+    "sentence_furigana": "この塗料【とりょう】は耐候性【たいこうせい】に優【すぐ】れているため、屋外【おくがい】での使用【しよう】に適【てき】している。",
+    "meaning": "Because this paint has excellent weather resistance, it is suitable for outdoor use."
+  },
+  {
+    "sentence": "彼は厳しい状況下で忍耐を示した。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい状況下【じょうきょうか】で忍耐【にんたい】を示【しめ】した。",
+    "meaning": "He showed patience under difficult circumstances."
+  },
+  {
+    "sentence": "この布は摩擦に強い。",
+    "sentence_furigana": "この布【ぬの】は摩擦【まさつ】に強【つよ】い。",
+    "meaning": "This fabric is resistant to friction."
+  },
+  {
+    "sentence": "彼女は疲労に耐えながらも仕事を続けた。",
+    "sentence_furigana": "彼女【かのじょ】は疲労【ひろう】に耐【た】えながらも仕事【しごと】を続【つづ】けた。",
+    "meaning": "She continued working while enduring fatigue."
+  },
+  {
+    "sentence": "この接着剤は化学薬品に耐性がある。",
+    "sentence_furigana": "この接着剤【せっちゃくざい】は化学薬品【かがくやくひん】に耐性【たいせい】がある。",
+    "meaning": "This adhesive is resistant to chemicals."
+  },
+  {
+    "sentence": "彼は批判に耐える心の強さを持っていた。",
+    "sentence_furigana": "彼【かれ】は批判【ひはん】に耐【た】える心【こころ】の強【つよ】さを持【も】っていた。",
+    "meaning": "He had the mental strength to withstand criticism."
+  },
+  {
+    "sentence": "この窓ガラスは防犯性が高い。",
+    "sentence_furigana": "この窓ガラス【まどガラス】は防犯性【ぼうはんせい】が高【たか】い。",
+    "meaning": "This window glass has high security features."
+  },
+  {
+    "sentence": "彼女は自分の限界に耐えようとした。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の限界【げんかい】に耐【た】えようとした。",
+    "meaning": "She tried to endure her own limits."
+  },
+  {
+    "sentence": "この素材は紫外線に強い。",
+    "sentence_furigana": "この素材【そざい】は紫外線【しがいせん】に強【つよ】い。",
+    "meaning": "This material is resistant to ultraviolet rays."
+  },
+  {
+    "sentence": "彼は長期にわたる困難に耐え抜いた。",
+    "sentence_furigana": "彼【かれ】は長期【ちょうき】にわたる困難【こんなん】に耐【た】え抜【ぬ】いた。",
+    "meaning": "He endured long-term hardship."
+  },
+  {
+    "sentence": "このゴムは伸縮性に優れている。",
+    "sentence_furigana": "このゴムは伸縮性【しんしゅくせい】に優【すぐ】れている。",
+    "meaning": "This rubber excels in elasticity."
+  },
+  {
+    "sentence": "彼女は忍耐強くチャンスを待った。",
+    "sentence_furigana": "彼女【かのじょ】は忍耐強【にんたいづよ】くチャンスを待【ま】った。",
+    "meaning": "She patiently waited for her chance."
+  },
+  {
+    "sentence": "この金属は高い引張強度を持つ。",
+    "sentence_furigana": "この金属【きんぞく】は高【たか】い引張強度【いんちょうきょうど】を持【も】つ。",
+    "meaning": "This metal has high tensile strength."
+  },
+  {
+    "sentence": "彼は寒さに耐えながら山を登った。",
+    "sentence_furigana": "彼【かれ】は寒【さむ】さに耐【た】えながら山【やま】を登【のぼ】った。",
+    "meaning": "He climbed the mountain while enduring the cold."
+  },
+  {
+    "sentence": "この材料は耐火性が高い。",
+    "sentence_furigana": "この材料【ざいりょう】は耐火性【たいかせい】が高【たか】い。",
+    "meaning": "This material has high fire resistance."
+  },
+  {
+    "sentence": "彼女は苦難を乗り越えるために必要な強さを持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は苦難【くなん】を乗【の】り越【こ】えるために必要【ひつよう】な強さを持【も】っていた。",
+    "meaning": "She had the strength necessary to overcome hardships."
+  },
+  {
+    "sentence": "このフィルターは微細な粒子に耐える。",
+    "sentence_furigana": "このフィルターは微細【びさい】な粒子【りゅうし】に耐【た】える。",
+    "meaning": "This filter withstands fine particles."
+  },
+  {
+    "sentence": "彼はひどい天候に耐え続けた。",
+    "sentence_furigana": "彼【かれ】はひどい天候【てんこう】に耐【た】え続【つづ】けた。",
+    "meaning": "He continued to endure the terrible weather."
+  },
+  {
+    "sentence": "この塗料は傷に強い。",
+    "sentence_furigana": "この塗料【とりょう】は傷【きず】に強【つよ】い。",
+    "meaning": "This paint is resistant to scratches."
+  },
+  {
+    "sentence": "彼女は長い間、困難な状況に耐えなければなりませんでした。",
+    "sentence_furigana": "彼女【かのじょ】は長【なが】い間【あいだ】、困難【こんなん】な状況【じょうきょう】に耐【た】えなければなりませんでした。",
+    "meaning": "She had to endure difficult situations for a long time."
+  },
+  {
+    "sentence": "このナイロンは耐摩耗性が高い。",
+    "sentence_furigana": "このナイロンは耐摩耗性【たいまもうせい】が高【たか】い。",
+    "meaning": "This nylon has high wear resistance."
+  },
+  {
+    "sentence": "彼は過酷な環境に耐えることができる。",
+    "sentence_furigana": "彼【かれ】は過酷【かこく】な環境【かんきょう】に耐【た】えることができる。",
+    "meaning": "He can endure harsh environments."
+  },
+  {
+    "sentence": "このガラスは飛散しにくい。",
+    "sentence_furigana": "このガラスは飛散【ひさん】しにくい。",
+    "meaning": "This glass is resistant to shattering."
+  },
+  {
+    "sentence": "彼女は病気の苦しみに耐えながら、希望を捨てなかった。",
+    "sentence_furigana": "彼女【かのじょ】は病気【びょうき】の苦悩【くのう】に耐【た】えながら、希望【きぼう】を捨【す】てなかった。",
+    "meaning": "She did not give up hope while enduring the suffering of her illness."
+  },
+  {
+    "sentence": "この合金は高い温度に耐えることができる。",
+    "sentence_furigana": "この合金【ごうきん】は高【たか】い温度【おんど】に耐【た】えることができる。",
+    "meaning": "This alloy can withstand high temperatures."
+  },
+  {
+    "sentence": "彼は逆境に耐えて成長した。",
+    "sentence_furigana": "彼【かれ】は逆境【ぎゃっきょう】に耐【た】えて成長【せいちょう】した。",
+    "meaning": "He endured adversity and grew."
+  },
+  {
+    "sentence": "このテープは耐久性に優れている。",
+    "sentence_furigana": "このテープは耐久性【たいきゅうせい】に優【すぐ】れている。",
+    "meaning": "This tape has excellent durability."
+  },
+  {
+    "sentence": "彼女は子供たちのために辛抱強く待つことができた。",
+    "sentence_furigana": "彼女【かのじょ】は子供達【こどもたち】のため辛抱強【しんぼうづよ】く待【ま】つことができた。",
+    "meaning": "She was able to wait patiently for her children."
+  },
+  {
+    "sentence": "この素材は熱膨張に耐える。",
+    "sentence_furigana": "この素材【そざい】は熱膨張【ねつぼうちょう】に耐【た】える。",
+    "meaning": "This material withstands thermal expansion."
+  },
+  {
+    "sentence": "彼は長い時間、その苦痛に耐え続けた。",
+    "sentence_furigana": "彼【かれ】は長【なが】い時間【じかん】、その苦痛【くつう】に耐【た】え続【つづ】けた。",
+    "meaning": "He continued to endure that pain for a long time."
+  },
+  {
+    "sentence": "この塗料は耐紫外線性がある。",
+    "sentence_furigana": "この塗料【とりょう】は耐紫外線性【たいしがいせんせい】がある。",
+    "meaning": "This paint has UV resistance."
+  },
+  {
+    "sentence": "彼女は失望に耐えながらも、前向きな姿勢を保った。",
+    "sentence_furigana": "彼女【かのじょ】は失望【しつぼう】に耐【た】えながらも、前向【まえむ】きな姿勢【しせい】を保【たも】った。",
+    "meaning": "She maintained a positive attitude while enduring disappointment."
+  },
+  {
+    "sentence": "この接着剤は高い温度でも性能を維持する。",
+    "sentence_furigana": "この接着剤【せっちゃくざい】は高【たか】い温度【おんど】でも性能【せいのう】を維持【いじ】する。",
+    "meaning": "This adhesive maintains its performance even at high temperatures."
+  },
+  {
+    "sentence": "彼は厳しい訓練に耐え、強くなった。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい訓練【くんれん】に耐【た】え、強【つよ】くなった。",
+    "meaning": "He endured the harsh training and became stronger."
+  },
+  {
+    "sentence": "この製品は耐薬品性に優れている。",
+    "sentence_furigana": "この製品【せいひん】は耐薬品性【たいやくひんせい】に優【すぐ】れている。",
+    "meaning": "This product has excellent chemical resistance."
+  },
+  {
+    "sentence": "彼女は疲労に耐えることができる。",
+    "sentence_furigana": "彼女【かのじょ】は疲労【ひろう】に耐【た】えることができる。",
+    "meaning": "She can endure fatigue."
+  },
+  {
+    "sentence": "この金属は熱に強い。",
+    "sentence_furigana": "この金属【きんぞく】は熱【ねつ】に強【つよ】い。",
+    "meaning": "This metal is resistant to heat."
+  },
+  {
+    "sentence": "彼は長い試練に耐え抜いた。",
+    "sentence_furigana": "彼【かれ】は長【なが】い試練【しれん】に耐【た】え抜【ぬ】いた。",
+    "meaning": "He endured a long ordeal."
+  },
+  {
+    "sentence": "この窓は耐衝撃性に優れている。",
+    "sentence_furigana": "この窓【まど】は耐衝撃性【たいしょうげきせい】に優【すぐ】れている。",
+    "meaning": "This window has excellent shock resistance."
+  },
+  {
+    "sentence": "彼女は長期間の困難に耐え抜いた。",
+    "sentence_furigana": "彼女【かのじょ】は長期間【ちょうきかん】の困難【こんなん】に耐【た】え抜【ぬ】いた。",
+    "meaning": "She endured long-term hardship."
+  },
+  {
+    "sentence": "この塗料は耐食性に優れている。",
+    "sentence_furigana": "この塗料【とりょう】は耐食性【たいしょくせい】に優【すぐ】れている。",
+    "meaning": "This paint has excellent corrosion resistance."
+  },
+  {
+    "sentence": "彼は忍耐強く状況を観察した。",
+    "sentence_furigana": "彼【かれ】は忍耐強【にんたいづよ】く状況【じょうきょう】を観察【かんさつ】した。",
+    "meaning": "He patiently observed the situation."
+  },
+  {
+    "sentence": "この素材は曲げに強い。",
+    "sentence_furigana": "この素材【そざい】は曲【ま】げに強【つよ】い。",
+    "meaning": "This material is resistant to bending."
+  },
+  {
+    "sentence": "彼女は苦痛に耐えながらも、平静を保った。",
+    "sentence_furigana": "彼女【かのじょ】は苦痛【くつう】に耐【た】えながらも、平静【へいせい】を保【たも】った。",
+    "meaning": "She remained calm while enduring the pain."
+  },
+  {
+    "sentence": "このケーブルは高圧に耐える。",
+    "sentence_furigana": "このケーブルは高圧【こうあつ】に耐【た】える。",
+    "meaning": "This cable withstands high pressure."
+  },
+  {
+    "sentence": "彼は長年の経験から忍耐力を養った。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】から忍耐力【にんたいりょく】を養【やしな】った。",
+    "meaning": "He cultivated endurance from many years of experience."
+  },
+  {
+    "sentence": "この素材は熱に強い特性を持っている。",
+    "sentence_furigana": "この素材【そざい】は熱【ねつ】に強【つよ】い特性【とくせい】を持【も】っている。",
+    "meaning": "This material has properties that make it resistant to heat."
+  },
+  {
+    "sentence": "彼女は長期間の困難に耐え抜くことを決意した。",
+    "sentence_furigana": "彼女【かのじょ】は長期間【ちょうきかん】の困難【こんなん】に耐【た】え抜【ぬ】くことを決意【けつい】した。",
+    "meaning": "She resolved to endure long-term hardship."
+  },
+  {
+    "sentence": "このガラスは傷がつきにくい。",
+    "sentence_furigana": "このガラスは傷【きず】がつきにくい。",
+    "meaning": "This glass is resistant to scratches."
+  },
+  {
+    "sentence": "彼は長期間、厳しい状況に耐えなければならなかった。",
+    "sentence_furigana": "彼【かれ】は長期間【ちょうきかん】、厳【きび】しい状況【じょうきょう】に耐【た】えなければならなかった。",
+    "meaning": "He had to endure difficult situations for a long time."
+  },
+  {
+    "sentence": "この塗料は耐久性に富んでいる。",
+    "sentence_furigana": "この塗料【とりょう】は耐久性【たいきゅうせい】に富【と】んでいる。",
+    "meaning": "This paint is rich in durability."
+  },
+  {
+    "sentence": "彼女はプレッシャーに耐える精神力を持っている。",
+    "sentence_furigana": "彼女【かのじょ】はプレッシャーに耐【た】える精神力【せいしんりょく】を持【も】っている。",
+    "meaning": "She possesses the mental strength to withstand pressure."
+  },
+  {
+    "sentence": "この素材は化学薬品に耐性がある。",
+    "sentence_furigana": "この素材【そざい】は化学薬品【かがくやくひん】に耐性【たいせい】がある。",
+    "meaning": "This material is resistant to chemicals."
+  },
+  {
+    "sentence": "彼は長年の経験から学ぶことをやめなかった。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】から学【まな】ぶことやめなかった。",
+    "meaning": "He never stopped learning from his many years of experience."
+  },
+  {
+    "sentence": "このフィルムは耐久性に優れている。",
+    "sentence_furigana": "このフィルムは耐久性【たいきゅうせい】に優【すぐ】れている。",
+    "meaning": "This film has excellent durability."
+  },
+  {
+    "sentence": "彼女は辛い状況に耐えながらも、希望を失わなかった。",
+    "sentence_furigana": "彼女【かのじょ】は辛【つら】い状況【じょうきょう】に耐【た】えながらも、希望【きぼう】を失【うしな】わなかった。",
+    "meaning": "She did not lose hope while enduring the painful situation."
+  },
+  {
+    "sentence": "この合金は腐食に強い。",
+    "sentence_furigana": "この合金【ごうきん】は腐食【ふしょく】に強【つよ】い。",
+    "meaning": "This alloy is resistant to corrosion."
+  },
+  {
+    "sentence": "彼は厳しい状況に耐え、乗り越えた。",
+    "sentence_furigana": "彼【かれ】は厳【きび】しい状況【じょうきょう】に耐【た】え、乗【の】り越【こ】えた。",
+    "meaning": "He endured the difficult situation and overcame it."
+  },
+  {
+    "sentence": "この接着剤は耐熱性が高い。",
+    "sentence_furigana": "この接着剤【せっちゃくざい】は耐熱性【たいねつせい】が高【たか】い。",
+    "meaning": "This adhesive has high heat resistance."
+  },
+  {
+    "sentence": "彼女は苦痛に耐えながらも、冷静さを保った。",
+    "sentence_furigana": "彼女【かのじょ】は苦痛【くつう】に耐【た】えながらも、冷静【れいせい】さを保【たも】った。",
+    "meaning": "She remained composed while enduring the pain."
+  },
+  {
+    "sentence": "この素材は衝撃に強い。",
+    "sentence_furigana": "この素材【そざい】は衝撃【しょうげき】に強【つよ】い。",
+    "meaning": "This material is resistant to impact."
+  },
+  {
+    "sentence": "彼は長年の経験から忍耐することを学んだ。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】から忍耐【にんたい】すること学【まな】んだ。",
+    "meaning": "He learned to endure from many years of experience."
+  },
+  {
+    "sentence": "この塗料は耐候性に優れており、長持ちする。",
+    "sentence_furigana": "この塗料【とりょう】は耐候性【たいこうせい】に優【すぐ】れており、長持【ながも】ちする。",
+    "meaning": "This paint excels in weather resistance and lasts long."
+  },
+  {
+    "sentence": "彼女はひどい天候に耐えながらも目的地に到着した。",
+    "sentence_furigana": "彼女【かのじょ】はひどい天候【てんこう】に耐【た】えながらも目的地【もくてきち】に着【つ】いた。",
+    "meaning": "She arrived at her destination while enduring the terrible weather."
+  },
+  {
+    "sentence": "この合金は高い強度に耐えられる。",
+    "sentence_furigana": "この合金【ごうきん】は高【たか】い強度【きょうど】に耐【た】えられる。",
+    "meaning": "This alloy can withstand high strength."
+  },
+  {
+    "sentence": "彼は長期間の困難に耐え抜く強さを持っていた。",
+    "sentence_furigana": "彼【かれ】は長期間【ちょうきかん】の困難【こんなん】に耐【た】え抜【ぬ】く強さを持【も】っていた。",
+    "meaning": "He had the strength to endure long-term hardship."
+  },
+  {
+    "sentence": "この窓ガラスは飛散防止加工が施されている。",
+    "sentence_furigana": "この窓ガラス【まどガラス】は飛散防止加工【ひさんぼうしかこう】が施【ほどこ】されている。",
+    "meaning": "This window glass has been treated to prevent shattering."
+  },
+  {
+    "sentence": "彼女は疲労に耐えながらも、任務を続行した。",
+    "sentence_furigana": "彼女【かのじょ】は疲労【ひろう】に耐【た】えながらも、任務【にんむ】を続行【ぞっこう】した。",
+    "meaning": "She continued the mission while enduring fatigue."
+  },
+  {
+    "sentence": "この素材は圧縮に強い。",
+    "sentence_furigana": "この素材【そざい】は圧縮【あっしゅく】に強【つよ】い。",
+    "meaning": "This material is resistant to compression."
+  },
+  {
+    "sentence": "彼は長年の経験から困難に耐える術を学んだ。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の経験【けいけん】から困難【こんなん】に耐【た】える術【すべ】を学【まな】んだ。",
+    "meaning": "He learned how to endure hardship from many years of experience."
+  },
+  {
+    "sentence": "この接着剤は高い耐久性を持つ。",
+    "sentence_furigana": "この接着剤【せっちゃくざい】は高【たか】い耐久性【たいきゅうせい】を持【も】つ。",
+    "meaning": "This adhesive has high durability."
+  },
+  {
+    "sentence": "彼女は苦痛に耐えながらも、希望を捨てずに行動した。",
+    "sentence_furigana": "彼女【かのじょ】は苦痛【くつう】に耐【た】えながらも、希望【きぼう】を捨【す】てずに行動【こうどう】した。",
+    "meaning": "She acted without giving up hope while enduring the pain."
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "sentence": "この家系図は古い歴史を持っています。",
+    "sentence_furigana": "この家系図【かけいず】は古【ふる】い歴史【れきし】を持【も】っています。",
+    "meaning": "This family tree has an old history."
+  },
+  {
+    "sentence": "彼は優秀な血筋を受け継いでいる。",
+    "sentence_furigana": "彼【かれ】は優秀【ゆうしゅう】な血筋【ちすじ】を受【う】け継【つ】いでいます。",
+    "meaning": "He has inherited excellent lineage."
+  },
+  {
+    "sentence": "このシステムは非常に安定しています。",
+    "sentence_furigana": "このシステムは非常【ひじょう】に安定【あんてい】しています。",
+    "meaning": "This system is very stable."
+  },
+  {
+    "sentence": "彼女は王家の末裔です。",
+    "sentence_furigana": "彼女【かのじょ】は王家【おうけ】の末裔【まつえい】です。",
+    "meaning": "She is a descendant of royalty."
+  },
+  {
+    "sentence": "これは複雑な組織系統です。",
+    "sentence_furigana": "これ複雑【ふくざつ】な組織系統【そしきけいとう】です。",
+    "meaning": "This is a complex organizational system."
+  },
+  {
+    "sentence": "彼の研究は最新の科学体系に基づいています。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は最新【さいしん】の科学体系【かがくたいけい】に基づ【もとづ】いています。",
+    "meaning": "His research is based on the latest scientific system."
+  },
+  {
+    "sentence": "この系図には多くの人物が含まれています。",
+    "sentence_furigana": "この系図【けいず】には多【おお】くの人物【じんぶつ】が含ま【ふくま】れています。",
+    "meaning": "Many people are included in this lineage chart."
+  },
+  {
+    "sentence": "彼は芸術的な才能を持つ家系です。",
+    "sentence_furigana": "彼【かれ】は芸術的【げいじゅつてき】な才能【さいのう】を持【も】つ家系【かけい】です。",
+    "meaning": "He comes from a family line with artistic talent."
+  },
+  {
+    "sentence": "この管理システムは効率的です。",
+    "sentence_furigana": "この管理【かんり】システムは効率的【こうりつてき】です。",
+    "meaning": "This management system is efficient."
+  },
+  {
+    "sentence": "彼女は歴史的な家柄の出身です。",
+    "sentence_furigana": "彼女【かのじょ】は歴史的【れきしてき】な家柄【いえがら】の出身【しゅっしん】です。",
+    "meaning": "She comes from a historical family line."
+  },
+  {
+    "sentence": "そのシステムは最新の技術を採用しています。",
+    "sentence_furigana": "そのシステムは最新【さいしん】の技術【ぎじゅつ】を採用【さいよう】しています。",
+    "meaning": "The system adopts the latest technology."
+  },
+  {
+    "sentence": "この血筋は長年にわたって続いています。",
+    "sentence_furigana": "この血筋【ちすじ】は長年【ながねん】にわたって続【つづ】いています。",
+    "meaning": "This lineage has continued for many years."
+  },
+  {
+    "sentence": "彼は代々続く医者の家系です。",
+    "sentence_furigana": "彼【かれ】は代々【だいだい】続【つづ】く医者【いしゃ】の家系【かけい】です。",
+    "meaning": "He comes from a family line of doctors that has continued for generations."
+  },
+  {
+    "sentence": "その報告書は詳細な分析システムに基づいています。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は詳細【しょうさい】な分析【ぶんせき】システムに基づ【もとづ】いています。",
+    "meaning": "The report is based on a detailed analysis system."
+  },
+  {
+    "sentence": "彼女は高貴な血統を受け継いでいます。",
+    "sentence_furigana": "彼女【かのじょ】は高貴【こうき】な血統【けっとう】を受【う】け継【つ】いでいます。",
+    "meaning": "She has inherited noble blood."
+  },
+  {
+    "sentence": "この会社は強固な経営システムを持っています。",
+    "sentence_furigana": "この会社【かいしゃ】は強固【きょうこ】な経営【けいえい】システムを持【も】っています。",
+    "meaning": "This company has a strong management system."
+  },
+  {
+    "sentence": "この系譜は日本の歴史と深く関わっています。",
+    "sentence_furigana": "この系譜【けいふ】は日本【にほん】の歴史【れきし】と深【ふか】く関【かか】わっています。",
+    "meaning": "This lineage is deeply involved with Japanese history."
+  },
+  {
+    "sentence": "彼女は有名な芸術家の家系です。",
+    "sentence_furigana": "彼女【かのじょ】は有名【ゆうめい】な芸術家【げいじゅつか】の家系【かけい】です。",
+    "meaning": "She comes from a family of famous artists."
+  },
+  {
+    "sentence": "そのシステムは最新の情報技術に基づいています。",
+    "sentence_furigana": "そのシステムは最新【さいしん】の情報技術【じょうほうぎじゅつ】に基づ【もとづ】いています。",
+    "meaning": "The system is based on the latest information technology."
+  },
+  {
+    "sentence": "この家系には多くの才能ある人々がいます。",
+    "sentence_furigana": "この家系【かけい】には多【おお】くの才能【さいのう】ある人々【ひとびと】がいます。",
+    "meaning": "There are many talented people in this family line."
+  },
+  {
+    "sentence": "彼女は優れた家柄の出身で、多くの尊敬を集めています。",
+    "sentence_furigana": "彼女【かのじょ】は優【すぐ】れた家柄【いえがら】の出身【しゅっしん】で、多【おお】くの尊敬【そんけい】を集【あつ】めています。",
+    "meaning": "She comes from an excellent family line and has garnered much respect."
+  },
+  {
+    "sentence": "このシステムは非常に使いやすいです。",
+    "sentence_furigana": "このシステムは非常【ひじょう】にを使【つか】いやすいです。",
+    "meaning": "This system is very easy to use."
+  },
+  {
+    "sentence": "彼の血筋には冒険好きな者が多い。",
+    "sentence_furigana": "彼【かれ】の血筋【ちすじ】には冒険好【ぼうけんず】きな者【もの】が多【おお】い。",
+    "meaning": "There are many adventurous people in his lineage."
+  },
+  {
+    "sentence": "この系図は、遠い祖先まで遡ることができます。",
+    "sentence_furigana": "この系図【けいず】は、遠【とお】い祖先【そせん】まで遡【さかのぼ】ることができます。",
+    "meaning": "This lineage chart can be traced back to distant ancestors."
+  },
+  {
+    "sentence": "その会社は強力な販売システムを持っています。",
+    "sentence_furigana": "その会社【かいしゃ】は強力【きょうりょく】な販売【はんばい】システムを持【も】っています。",
+    "meaning": "That company has a strong sales system."
+  },
+  {
+    "sentence": "彼女は著名な科学者の家系に生まれました。",
+    "sentence_furigana": "彼女【かのじょ】は著名【ちょめい】な科学者【かがくしゃ】の家系【かけい】に生【う】まれました。",
+    "meaning": "She was born into a family line of renowned scientists."
+  },
+  {
+    "sentence": "このシステムは、さまざまな問題を解決するために設計されました。",
+    "sentence_furigana": "このシステムは、さまざまな問題【もんだい】を解決【かいけつ】するために設計【せっけい】されました。",
+    "meaning": "This system was designed to solve various problems."
+  },
+  {
+    "sentence": "彼は由緒ある家柄の出身です。",
+    "sentence_furigana": "彼【かれ】は由緒【ゆいしょ】ある家柄【いえがら】の出身【しゅっしん】です。",
+    "meaning": "He comes from a family of good standing."
+  },
+  {
+    "sentence": "この学術体系は世界中で認められています。",
+    "sentence_furigana": "この学術体系【がくじゅつたいけい】は世界中【せかいじゅう】で認【みと】められています。",
+    "meaning": "This academic system is recognized worldwide."
+  },
+  {
+    "sentence": "彼女の血筋には優れた指揮官が多くいた。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】には優【すぐ】れた指揮官【しきかん】が多【おお】くいました。",
+    "meaning": "Her lineage included many excellent commanders."
+  },
+  {
+    "sentence": "この家系図は、多くの世代にわたる記録を含んでいます。",
+    "sentence_furigana": "この家系図【かけいず】は、多【おお】くの世代【せだい】にわたる記録【きろく】を含【ふく】んでいます。",
+    "meaning": "This family tree contains records spanning many generations."
+  },
+  {
+    "sentence": "そのシステムは、データの効率的な処理を可能にします。",
+    "sentence_furigana": "そのシステムは、データ【データ】の効率的【こうりつてき】な処理【しょり】を可能【かのう】にします。",
+    "meaning": "The system enables efficient processing of data."
+  },
+  {
+    "sentence": "彼は歴史に名を残す家系の末裔である。",
+    "sentence_furigana": "彼【かれ】は歴史【れきし】に名【な】を遺【のこ】す家系【かけい】の末裔【まつえい】である。",
+    "meaning": "He is a descendant of a lineage that made history."
+  },
+  {
+    "sentence": "この学習システムは非常に効果的です。",
+    "sentence_furigana": "この学習【がくしゅう】システムは非常【ひじょう】に効果的【こうかてき】です。",
+    "meaning": "This learning system is very effective."
+  },
+  {
+    "sentence": "彼女の家柄は古くから知られています。",
+    "sentence_furigana": "彼女【かのじょ】の家柄【いえがら】は古【ふる】くから知【し】られています。",
+    "meaning": "Her family line has been known for a long time."
+  },
+  {
+    "sentence": "この系譜は、ある特定の文化の発展を示しています。",
+    "sentence_furigana": "この系譜【けいふ】は、ある特定【とくてい】の文化【ぶんか】の発展【はってん】を示【しめ】しています。",
+    "meaning": "This lineage shows the development of a particular culture."
+  },
+  {
+    "sentence": "そのシステムは、あらゆる状況に対応できるように設計されています。",
+    "sentence_furigana": "そのシステムは、あらゆる状況【じょうきょう】に対応【たいおう】できるように設計【せっけい】されています。",
+    "meaning": "The system is designed to handle all situations."
+  },
+  {
+    "sentence": "彼は才能ある音楽家の家系に属しています。",
+    "sentence_furigana": "彼【かれ】は才能【さいのう】ある音楽家【おんがくか】の家系【かけい】に属【ぞく】しています。",
+    "meaning": "He belongs to a family line of talented musicians."
+  },
+  {
+    "sentence": "この組織系統は非常に明確です。",
+    "sentence_furigana": "この組織系統【そしきけいとう】は非常【ひじょう】に明確【めいかく】です。",
+    "meaning": "This organizational system is very clear."
+  },
+  {
+    "sentence": "彼女の血筋は学問に深く関係している。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】は学問【がくもん】に深【ふか】く関係【かんけい】しています。",
+    "meaning": "Her lineage is deeply related to scholarship."
+  },
+  {
+    "sentence": "この系図は、数世紀にわたる家族の歴史を物語っています。",
+    "sentence_furigana": "この系図【けいず】は、数世紀【すうせいき】にわたる家族【かぞく】の歴史【れきし】を物語【ものがた】っています。",
+    "meaning": "This family tree tells the history of the family over several centuries."
+  },
+  {
+    "sentence": "そのシステムは、ユーザーの要求に応えるように作られています。",
+    "sentence_furigana": "そのシステムは、ユーザー【ユーザー】の要求【ようきゅう】に応【こた】えるように作【つく】られています。",
+    "meaning": "The system is made to meet user requirements."
+  },
+  {
+    "sentence": "彼は著名な武士の家系の子孫です。",
+    "sentence_furigana": "彼【かれ】は著名【ちょめい】な武士【ぶし】の家系【かけい】の子孫【しそん】です。",
+    "meaning": "He is a descendant of a famous samurai family line."
+  },
+  {
+    "sentence": "この学説体系は多くの研究者によって支持されています。",
+    "sentence_furigana": "この学説体系【がくせつたいけい】は多【おお】くの研究者【けんきゅうしゃ】によって支持【しじ】されています。",
+    "meaning": "This theoretical system is supported by many researchers."
+  },
+  {
+    "sentence": "彼女の血統は純粋さを保っています。",
+    "sentence_furigana": "彼女【かのじょ】の血統【けっとう】は純粋【じゅんすい】さを保【たも】っています。",
+    "meaning": "Her bloodline has maintained its purity."
+  },
+  {
+    "sentence": "この系譜は、特定の民族の起源を示唆しています。",
+    "sentence_furigana": "この系譜【けいふ】は、特定【とくてい】の民族【みんぞく】の起源【きげん】を示唆【しさ】しています。",
+    "meaning": "This lineage suggests the origin of a specific ethnic group."
+  },
+  {
+    "sentence": "そのシステムは、効率的な情報共有を目的としています。",
+    "sentence_furigana": "そのシステムは、効率的【こうりつてき】な情報共有【じょうほうきょうゆう】を目的【もくてき】としています。",
+    "meaning": "The system aims for efficient information sharing."
+  },
+  {
+    "sentence": "彼は長い歴史を持つ家系の長男です。",
+    "sentence_furigana": "彼【かれ】は長【なが】い歴史【れきし】を持【も】つ家系【かけい】の長男【ちょうなん】です。",
+    "meaning": "He is the eldest son of a family line with a long history."
+  },
+  {
+    "sentence": "この教育システムは非常に優れています。",
+    "sentence_furigana": "この教育【きょういく】システムは非常【ひじょう】に優【すぐ】れています。",
+    "meaning": "This education system is excellent."
+  },
+  {
+    "sentence": "彼女の血筋には多くの有名な政治家が含まれています。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】には多【おお】くの有名【ゆうめい】な政治家【せいじか】が含ま【ふくま】れています。",
+    "meaning": "Her lineage includes many famous politicians."
+  },
+  {
+    "sentence": "この系図は、失われた記録の発見に役立ちました。",
+    "sentence_furigana": "この系図【けいず】は、失【うしな】われた記録【きろく】の発見【はっけん】に役立【やくだ】ちました。",
+    "meaning": "This family tree helped in discovering lost records."
+  },
+  {
+    "sentence": "そのシステムは、複雑な問題を単純化します。",
+    "sentence_furigana": "そのシステムは、複雑【ふくざつ】な問題【もんだい】を単純化【たんじゅんか】します。",
+    "meaning": "The system simplifies complex problems."
+  },
+  {
+    "sentence": "彼は伝説的な王の家系の子孫だ。",
+    "sentence_furigana": "彼【かれ】は伝説的【でんせつてき】な王【おう】の家系【かけい】の子孫【しそん】だ。",
+    "meaning": "He is a descendant of a legendary king's lineage."
+  },
+  {
+    "sentence": "この学術体系は、現代科学の基礎を築きました。",
+    "sentence_furigana": "この学術体系【がくじゅつたいけい】は、現代科学【げんだいかがく】の基礎【きそ】を築【きず】きました。",
+    "meaning": "This academic system laid the foundation for modern science."
+  },
+  {
+    "sentence": "彼女の家系は慈善活動で知られています。",
+    "sentence_furigana": "彼女【かのじょ】の家系【かけい】は慈善活動【じぜんかつどう】で知【し】られています。",
+    "meaning": "Her family line is known for its charitable activities."
+  },
+  {
+    "sentence": "この系譜は、文化の伝承において重要な役割を果たしています。",
+    "sentence_furigana": "この系譜【けいふ】は、文化【ぶんか】の伝承【でんしょう】において重要【じゅうよう】な役割【やくわり】を果た【はた】しています。",
+    "meaning": "This lineage plays an important role in cultural transmission."
+  },
+  {
+    "sentence": "そのシステムは、人間の行動パターンを分析するように設計されている。",
+    "sentence_furigana": "そのシステムは、人間【にんげん】の行動パターン【こうどうパターン】を分析【ぶんせき】するように設計【せっけい】されている。",
+    "meaning": "The system is designed to analyze human behavior patterns."
+  },
+  {
+    "sentence": "彼は学者を多く輩出した家系の出身です。",
+    "sentence_furigana": "彼【かれ】は学者【がくしゃ】を多【おお】く輩出【はいしゅつ】した家系【かけい】の出身【しゅっしん】です。",
+    "meaning": "He comes from a family line that has produced many scholars."
+  },
+  {
+    "sentence": "この系図は、氏族の起源に関する手がかりを提供します。",
+    "sentence_furigana": "この系図【けいず】は、氏族【しぞく】の起源【きげん】に関する【かんする】手がかり【てがかり】を提供【ていきょう】します。",
+    "meaning": "This family tree provides clues about the origin of the clan."
+  },
+  {
+    "sentence": "そのシステムは、ビジネスプロセスの自動化を支援します。",
+    "sentence_furigana": "そのシステムは、ビジネスプロセス【ビジネスプロセス】の自動化【じどう化】を支援【しえん】します。",
+    "meaning": "The system supports the automation of business processes."
+  },
+  {
+    "sentence": "彼女の血筋には、著名な作家が何人かいます。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】には、著名【ちょめい】な作家【さっか】が何人【なんにん】かいます。",
+    "meaning": "Her lineage includes several famous writers."
+  },
+  {
+    "sentence": "この家系は、その地域の歴史と密接に関連しています。",
+    "sentence_furigana": "この家系【かけい】は、その地域【ちいき】の歴史【れきし】と密接【みっせつ】に関連【かんれん】しています。",
+    "meaning": "This family line is closely related to the history of the region."
+  },
+  {
+    "sentence": "彼は軍人の家系に生まれた。",
+    "sentence_furigana": "彼【かれ】は軍人【ぐんじん】の家系【かけい】に生【う】まれた。",
+    "meaning": "He was born into a family line of military personnel."
+  },
+  {
+    "sentence": "この体系的なアプローチは成功をもたらした。",
+    "sentence_furigana": "この体系的【たいけいてき】なアプローチは成功【せいこう】をもたらした。",
+    "meaning": "This systematic approach brought success."
+  },
+  {
+    "sentence": "彼女の血統は古代王家につながっている。",
+    "sentence_furigana": "彼女【かのじょ】の血統【けっとう】は古代王家【こだいおうけ】につながっています。",
+    "meaning": "Her bloodline connects to an ancient royal family."
+  },
+  {
+    "sentence": "この系譜は、ある種の生物の進化の道筋を示している。",
+    "sentence_furigana": "この系譜【けいふ】は、ある種【しゅ】の生物【せいぶつ】の進化【しんか】の道筋【みちすじ】を示【しめ】しています。",
+    "meaning": "This lineage shows the evolutionary path of a certain type of organism."
+  },
+  {
+    "sentence": "そのシステムは、複雑な計算を簡単に行います。",
+    "sentence_furigana": "そのシステムは、複雑【ふくざつ】な計算【けいさん】を簡単【かんたん】に行【おこな】います。",
+    "meaning": "The system performs complex calculations easily."
+  },
+  {
+    "sentence": "彼は弁護士の家系に属している。",
+    "sentence_furigana": "彼【かれ】は弁護士【べんごし】の家系【かけい】に属【ぞく】しています。",
+    "meaning": "He belongs to a family line of lawyers."
+  },
+  {
+    "sentence": "この家系図は、多くの著名な人物の肖像画を含んでいる。",
+    "sentence_furigana": "この家系図【かけいず】は、多【おお】くの著名【ちょめい】な人物【じんぶつ】の肖像画【しょうぞうが】を含【ふく】んでいます。",
+    "meaning": "This family tree includes portraits of many famous figures."
+  },
+  {
+    "sentence": "そのシステムは、迅速な意思決定を支援する。",
+    "sentence_furigana": "そのシステムは、迅速【じんそく】な意思決定【いしけってい】を支援【しえん】する。",
+    "meaning": "The system supports rapid decision-making."
+  },
+  {
+    "sentence": "彼女の血筋は、長年にわたって学問に貢献してきた。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】は、長年【ながねん】にわたって学問【がくもん】に貢献【こうけん】してきました。",
+    "meaning": "Her lineage has contributed to scholarship for many years."
+  },
+  {
+    "sentence": "彼は有名な音楽家の家系で育った。",
+    "sentence_furigana": "彼【かれ】は有名【ゆうめい】な音楽家【おんがくか】の家系【かけい】で育【そだ】った。",
+    "meaning": "He grew up in a family line of famous musicians."
+  },
+  {
+    "sentence": "この体系は、芸術の歴史を深く理解するのに役立つ。",
+    "sentence_furigana": "この体系【たいけい】は、芸術【げいじゅつ】の歴史【れきし】を深【ふか】く理解【りかい】するのに役立【やくだ】つ。",
+    "meaning": "This system helps in deeply understanding art history."
+  },
+  {
+    "sentence": "彼女の家柄は、その地域の発展に大きく貢献した。",
+    "sentence_furigana": "彼女【かのじょ】の家柄【いえがら】は、その地域【ちいき】の発展【はってん】に大【おお】きく貢献【こうけん】した。",
+    "meaning": "Her family line greatly contributed to the development of the region."
+  },
+  {
+    "sentence": "この系図は、家臣たちの関係を示しています。",
+    "sentence_furigana": "この系図【けいず】は、家臣【かしん】たちの関係【かんけい】を示【しめ】しています。",
+    "meaning": "This family tree shows the relationships of the vassals."
+  },
+  {
+    "sentence": "そのシステムは、情報の流れを改善するように作られた。",
+    "sentence_furigana": "そのシステムは、情報【じょうほう】の流れ【ながれ】を改善【かいぜん】するように作【つく】られた。",
+    "meaning": "The system was made to improve the flow of information."
+  },
+  {
+    "sentence": "彼は優れた知性と教養を持つ家系です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた知性【ちせい】と教養【きょうよう】を持【も】つ家系【かけい】です。",
+    "meaning": "He comes from a family line with excellent intelligence and culture."
+  },
+  {
+    "sentence": "この系譜は、古代文明の構造を明らかにしている。",
+    "sentence_furigana": "この系譜【けいふ】は、古代文明【こだいぶんめい】の構造【こうぞう】を明【あき】らかにしています。",
+    "meaning": "This lineage reveals the structure of ancient civilizations."
+  },
+  {
+    "sentence": "彼女の血筋は、政治的な影響力を持つ。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】は、政治的【せいじてき】な影響力【えいきょうりょく】を持【も】つ。",
+    "meaning": "Her lineage has political influence."
+  },
+  {
+    "sentence": "この組織体系は、非常に論理的です。",
+    "sentence_furigana": "この組織体系【そしきたけい】は、非常【ひじょう】に論理的【ろんりてき】です。",
+    "meaning": "This organizational system is very logical."
+  },
+  {
+    "sentence": "そのシステムは、顧客のニーズに迅速に対応します。",
+    "sentence_furigana": "そのシステムは、顧客【こきゃく】のニーズ【ニーズ】に迅速【じんそく】に対応【たいおう】します。",
+    "meaning": "The system responds quickly to customer needs."
+  },
+  {
+    "sentence": "彼は著名な学者の一族です。",
+    "sentence_furigana": "彼【かれ】は著名【ちょめい】な学者【がくしゃ】の一族【いちぞく】です。",
+    "meaning": "He is from a family of famous scholars."
+  },
+  {
+    "sentence": "この系図は、過去の出来事を正確に記録しています。",
+    "sentence_furigana": "この系図【けいず】は、過去【かこ】の出来事【できごと】を正確【せいかく】に記録【きろく】しています。",
+    "meaning": "This family tree accurately records past events."
+  },
+  {
+    "sentence": "そのシステムは、新しい技術の導入を容易にします。",
+    "sentence_furigana": "そのシステムは、新【あたら】しい技術【ぎじゅつ】の導入【どうにゅう】を容易【ようい】にします。",
+    "meaning": "The system facilitates the introduction of new technologies."
+  },
+  {
+    "sentence": "彼女の血筋には、多くの起業家が含まれています。",
+    "sentence_furigana": "彼女【かのじょ】の血筋【ちすじ】には、多【おお】くの起業家【きぎょうか】が含ま【ふくま】れています。",
+    "meaning": "Her lineage includes many entrepreneurs."
+  },
+  {
+    "sentence": "この家系は、その国の歴史に大きな影響を与えました。",
+    "sentence_furigana": "この家系【かけい】は、その国【くに】の歴史【れきし】に大【おお】きな影響【えいきょう】を与【あた】えました。",
+    "meaning": "This family line had a great impact on the country's history."
+  },
+  {
+    "sentence": "彼は優れた軍事戦略家を輩出した家系の出身である。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた軍事戦略家【ぐんじせんりゃくか】を輩出【はいしゅつ】した家系【かけい】の出身【しゅっしん】である。",
+    "meaning": "He comes from a family line that produced excellent military strategists."
+  },
+  {
+    "sentence": "この学術体系は、多くの国の教育に影響を与えている。",
+    "sentence_furigana": "この学術体系【がくじゅつたいけい】は、多【おお】くの国【くに】の教育【きょういく】に影響【えいきょう】を与【あた】えています。",
+    "meaning": "This academic system influences education in many countries."
+  },
+  {
+    "sentence": "彼女の血統は、その種の生物学的な系統の一部です。",
+    "sentence_furigana": "彼女【かのじょ】の血統【けっとう】は、その種【しゅ】の生物学【せいぶつがく】的【てき】な系統【けいとう】の一部【いちぶ】です。",
+    "meaning": "Her bloodline is part of the biological lineage of that species."
+  }
+]

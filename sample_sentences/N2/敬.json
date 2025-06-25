@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "先輩を敬うことは大切です。",
+    "sentence_furigana": "先輩【せんぱい】を敬【けい】うことは大切【たいせつ】です。",
+    "meaning": "It is important to respect your seniors."
+  },
+  {
+    "sentence": "彼は先生に深い敬意を払った。",
+    "sentence_furigana": "彼【かれ】は先生【せんせい】に深【ふか】い敬意【けいい】を払【はら】った。",
+    "meaning": "He paid deep respect to his teacher."
+  },
+  {
+    "sentence": "祖父母を敬う気持ちを忘れてはならない。",
+    "sentence_furigana": "祖父母【そふぼ】を敬【けい】う気持【きも】ちを忘【わす】れてはならない。",
+    "meaning": "You must not forget the feeling of respecting your grandparents."
+  },
+  {
+    "sentence": "会議では静粛に、そして出席者全員に敬意を払ってください。",
+    "sentence_furigana": "会議【かいぎ】では静粛【せいしゅく】に、そして出席者全員【しゅっせきしゃぜんいん】に敬意【けいい】を払【はら】ってください。",
+    "meaning": "Please be quiet in the meeting and show respect to all attendees."
+  },
+  {
+    "sentence": "その行為は多くの人に敬意を表した。",
+    "sentence_furigana": "その行為【こうい】は多【おお】くの人【ひと】に敬意【けいい】を表【ひょう】した。",
+    "meaning": "That action showed respect to many people."
+  },
+  {
+    "sentence": "両親に敬意を払って育てられた。",
+    "sentence_furigana": "両親【りょうしん】に敬意【けいい】を払【はら】って育【そだ】てられた。",
+    "meaning": "I was raised to respect my parents."
+  },
+  {
+    "sentence": "年長者を敬うのは日本の文化の一部です。",
+    "sentence_furigana": "年長者【ねんちょうしゃ】を敬【けい】うのは日本【にほん】の文化【ぶんか】の一部【いちぶ】です。",
+    "meaning": "Respecting elders is part of Japanese culture."
+  },
+  {
+    "sentence": "彼の話術には敬服するばかりだ。",
+    "sentence_furigana": "彼【かれ】の話術【はなしじゅつ】には敬服【けいふく】するばかりだ。",
+    "meaning": "I can only admire his storytelling skills."
+  },
+  {
+    "sentence": "その功績は世界中から敬われている。",
+    "sentence_furigana": "その功績【こうせき】は世界中【せかいじゅう】から敬【けい】われている。",
+    "meaning": "That achievement is revered from all over the world."
+  },
+  {
+    "sentence": "私たちは自然を敬うべきだ。",
+    "sentence_furigana": "我々【われわれ】は自然【しぜん】を敬【けい】うべきだ。",
+    "meaning": "We should respect nature."
+  },
+  {
+    "sentence": "彼の勇気ある行動に敬意を表します。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】ある行動【こうどう】に敬意【けいい】を表【ひょう】します。",
+    "meaning": "I express my respect for his courageous actions."
+  },
+  {
+    "sentence": "長老たちは村の若者たちに敬意を持つように教えた。",
+    "sentence_furigana": "長老【ちょうろう】たちはい村【むら】の若者【わかもの】たちに敬意【けいい】を持【も】つように教【おし】えた。",
+    "meaning": "The elders taught the village youth to have respect."
+  },
+  {
+    "sentence": "彼女は常に他者に敬意をもって接する。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に他者【たしゃ】に敬意【けいい】をもって接【せっ】する。",
+    "meaning": "She always treats others with respect."
+  },
+  {
+    "sentence": "彼の決断は尊敬に値する。",
+    "sentence_furigana": "彼【かれ】の決断【けつだん】は尊敬【そんけい】に値【あたい】する。",
+    "meaning": "His decision is worthy of respect."
+  },
+  {
+    "sentence": "その歴史的建造物は多くの人々に敬われている。",
+    "sentence_furigana": "その歴史的建造物【れきしてきけんぞうぶつ】は多【おお】くの人々【ひとびと】に敬【けい】われている。",
+    "meaning": "That historical building is revered by many people."
+  },
+  {
+    "sentence": "子供たちは親の言うことを敬って聞くべきだ。",
+    "sentence_furigana": "子供【こども】たちはい親【おや】の言【い】うことを敬【けい】って聞【き】くべきだ。",
+    "meaning": "Children should listen to their parents with respect."
+  },
+  {
+    "sentence": "この記念碑は戦没者への敬意を表している。",
+    "sentence_furigana": "この記念碑【きねんひ】はい戦没者【せんぼつしゃ】への敬意【けいい】を表【ひょう】している。",
+    "meaning": "This monument expresses respect for the war dead."
+  },
+  {
+    "sentence": "私たちは先人の知恵を敬うべきだ。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の知恵【ちえ】を敬【けい】うべきだ。",
+    "meaning": "We should respect the wisdom of our predecessors."
+  },
+  {
+    "sentence": "彼は皆から敬愛されている人物だ。",
+    "sentence_furigana": "彼【かれ】はい皆【みな】から敬愛【けいあい】されている人物【じんぶつ】だ。",
+    "meaning": "He is a person who is loved and respected by everyone."
+  },
+  {
+    "sentence": "そのリーダーは国民から深い敬意を集めた。",
+    "sentence_furigana": "そのリーダーは国民【こくみん】から深【ふか】い敬意【けいい】を集【あつ】めた。",
+    "meaning": "That leader garnered deep respect from the people."
+  },
+  {
+    "sentence": "他国の文化を敬う姿勢が重要です。",
+    "sentence_furigana": "他国【たこく】の文化【ぶんか】を敬【けい】う姿勢【しせい】が重要【じゅうよう】です。",
+    "meaning": "An attitude of respecting other countries' cultures is important."
+  },
+  {
+    "sentence": "彼の長年の功績を称え、敬意を表します。",
+    "sentence_furigana": "彼【かれ】の長年【ながねん】の功績【こうせき】を称【たた】え、敬意【けいい】を表【ひょう】します。",
+    "meaning": "We honor his many years of achievement and express our respect."
+  },
+  {
+    "sentence": "裁判官は法に対して敬意を払う。",
+    "sentence_furigana": "裁判官【さいばんかん】は法【ほう】に対【たい】して敬意【けいい】を払【はら】う。",
+    "meaning": "Judges pay respect to the law."
+  },
+  {
+    "sentence": "敬語を使うことは、相手への敬意の表れです。",
+    "sentence_furigana": "敬語【けいご】を使【つか】うことは、相手【あいて】への敬意【けいい】の表【あらわ】れです。",
+    "meaning": "Using honorific language is an expression of respect for the other person."
+  },
+  {
+    "sentence": "彼女の音楽は多くの人々に愛され、敬われている。",
+    "sentence_furigana": "彼女【かのじょ】の音楽【おんがく】は多【おお】くの人々【ひとびと】に愛【あい】され、敬【けい】われている。",
+    "meaning": "Her music is loved and respected by many people."
+  },
+  {
+    "sentence": "先祖を敬う伝統は今も受け継がれている。",
+    "sentence_furigana": "先祖【せんぞ】を敬【けい】う伝統【でんとう】はい今【いま】も受【う】け継【つ】がれている。",
+    "meaning": "The tradition of respecting ancestors is still passed down."
+  },
+  {
+    "sentence": "この平和記念公園は犠牲になった人々への敬意を表しています。",
+    "sentence_furigana": "この平和記念公園【へいわきねんこうえん】は犠牲【ぎせい】になった人々【ひとびと】への敬意【けいい】を表【ひょう】しています。",
+    "meaning": "This peace memorial park shows respect for the people who were sacrificed."
+  },
+  {
+    "sentence": "私たちは教師の長年の指導に敬意を表します。",
+    "sentence_furigana": "我々【われわれ】は教師【きょうし】の長年【ながねん】の指導【しどう】に敬意【けいい】を表【ひょう】します。",
+    "meaning": "We express respect for the teacher's many years of guidance."
+  },
+  {
+    "sentence": "彼は相手の意見を敬って聞いていた。",
+    "sentence_furigana": "彼【かれ】はい相手【あいて】の意見【いけん】を敬【けい】って聞【き】いていた。",
+    "meaning": "He listened to the other person's opinion with respect."
+  },
+  {
+    "sentence": "その科学者の発見は、後世から高く評価され、敬われている。",
+    "sentence_furigana": "その科学者【かがくしゃ】の発見【はっけん】はい後世【こうせい】から高【たか】く評価【ひょうか】され、敬【けい】われている。",
+    "meaning": "That scientist's discovery is highly appreciated and revered by future generations."
+  },
+  {
+    "sentence": "子供の頃から両親を敬う心を養うことが大切だ。",
+    "sentence_furigana": "子供の頃【こどものころ】から両親【りょうしん】を敬【けい】う心【こころ】を養【やしな】うことが大切【たいせつ】だ。",
+    "meaning": "It is important to cultivate a spirit of respect for parents from childhood."
+  },
+  {
+    "sentence": "彼はその偉大な人物の遺徳を敬っている。",
+    "sentence_furigana": "彼【かれ】はいその偉大【いだい】な人物【じんぶつ】の遺徳【いとく】を敬【けい】っている。",
+    "meaning": "He reveres the virtue of that great person."
+  },
+  {
+    "sentence": "私たちは歴史上の人物の功績を敬う。",
+    "sentence_furigana": "我々【われわれ】は歴史上【れきしじょう】の人物【じんぶつ】の功績【こうせき】を敬【けい】う。",
+    "meaning": "We respect the achievements of historical figures."
+  },
+  {
+    "sentence": "その平和活動家は世界中から敬意を集めた。",
+    "sentence_furigana": "その平和活動家【へいわかつどうか】は世界中【せかいじゅう】から敬意【けいい】を集【あつ】めた。",
+    "meaning": "That peace activist garnered respect from around the world."
+  },
+  {
+    "sentence": "子供たちは先生に敬意を払い、授業を聞く。",
+    "sentence_furigana": "子供【こども】たちはい先生【せんせい】に敬意【けいい】を払【はら】い、授業【じゅぎょう】を聞【き】く。",
+    "meaning": "The children respect their teacher and listen to the lesson."
+  },
+  {
+    "sentence": "彼女の献身的な姿勢に敬意を表したい。",
+    "sentence_furigana": "彼女【かのじょ】の献身的【けんしんてき】な姿勢【しせい】に敬意【けいい】を表【ひょう】したい。",
+    "meaning": "I want to express my respect for her dedicated attitude."
+  },
+  {
+    "sentence": "私たちは歴史的な遺産を敬い、保護していく必要がある。",
+    "sentence_furigana": "我々【われわれ】は歴史的【れきしてき】な遺産【いさん】を敬【けい】い、保護【ほご】していく必要【ひつよう】がある。",
+    "meaning": "We need to respect and protect our historical heritage."
+  },
+  {
+    "sentence": "彼は常に年上の人を敬うように教えられた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に年上【としうえ】の人【ひと】を敬【けい】うように教【おし】えられた。",
+    "meaning": "He was taught to always respect older people."
+  },
+  {
+    "sentence": "その芸術家の作品は時代を超えて人々から敬われている。",
+    "sentence_furigana": "その芸術家【げいじゅつか】の作品【さくひん】はい時代【じだい】を超【こ】えて人々【ひとびと】から敬【けい】われている。",
+    "meaning": "That artist's works are revered by people across generations."
+  },
+  {
+    "sentence": "親孝行は親を敬うことから始まる。",
+    "sentence_furigana": "親孝行【おやこうこう】はい親【おや】を敬【けい】うことから始【はじ】まる。",
+    "meaning": "Filial piety begins with respecting one's parents."
+  },
+  {
+    "sentence": "私たちは師を敬い、その教えを学ぶ。",
+    "sentence_furigana": "我々【われわれ】は師【し】を敬【けい】い、その教【おし】えを学【まな】ぶ。",
+    "meaning": "We respect our teacher and learn their teachings."
+  },
+  {
+    "sentence": "彼の功績は多くの人々に尊敬されている。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】はい多【おお】くの人々【ひとびと】に尊敬【そんけい】されている。",
+    "meaning": "His achievements are respected by many people."
+  },
+  {
+    "sentence": "新しい文化を受け入れる際には、相手の文化を敬うことが大切だ。",
+    "sentence_furigana": "新【あら】しい文化【ぶんか】を受【う】け入【い】れる際【さい】には、相手【あいて】の文化【ぶんか】を敬【けい】うことが大切【たいせつ】だ。",
+    "meaning": "When accepting a new culture, it is important to respect the other culture."
+  },
+  {
+    "sentence": "その偉業は後世に語り継がれ、敬意を集めている。",
+    "sentence_furigana": "その偉業【いぎょう】はい後世【こうせい】に語【かた】り継【つ】がれ、敬意【けいい】を集【あつ】めている。",
+    "meaning": "That great achievement is passed down to future generations and has garnered respect."
+  },
+  {
+    "sentence": "私たちは地域社会のルールを敬って守る必要がある。",
+    "sentence_furigana": "我々【われわれ】は地域社会【ちいきしゃかい】のルールを敬【けい】って守【まも】る必要【ひつよう】がある。",
+    "meaning": "We need to respect and abide by the rules of the local community."
+  },
+  {
+    "sentence": "彼の誠実な人柄は、誰からも敬われる。",
+    "sentence_furigana": "彼【かれ】の誠実【せいじつ】な人柄【ひとがら】はい誰【だれ】からも敬【けい】われる。",
+    "meaning": "His sincere personality is respected by everyone."
+  },
+  {
+    "sentence": "私たちは先人の知恵と努力を敬うべきである。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の知恵【ちえ】と努力【どりょく】を敬【けい】うべきである。",
+    "meaning": "We should respect the wisdom and efforts of our predecessors."
+  },
+  {
+    "sentence": "そのリーダーシップは、多くの人々から尊敬を集めていた。",
+    "sentence_furigana": "そのリーダーシップはい多【おお】くの人々【ひとびと】から尊敬【そんけい】を集【あつ】めていた。",
+    "meaning": "That leadership gathered respect from many people."
+  },
+  {
+    "sentence": "家族を敬うことは、幸せな家庭を築くための基本です。",
+    "sentence_furigana": "家族【かぞく】を敬【けい】うことは、幸【しあわ】せな家庭【かてい】を築【きず】くための基本【きほん】です。",
+    "meaning": "Respecting your family is fundamental to building a happy home."
+  },
+  {
+    "sentence": "彼は常に礼節を重んじ、他者を敬っていた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に礼節【れいせつ】を重【おもん】じ、他者【たしゃ】を敬【けい】っていた。",
+    "meaning": "He always valued courtesy and respected others."
+  },
+  {
+    "sentence": "この記念碑は、偉大な功績を残した人々への敬意を表すために建てられました。",
+    "sentence_furigana": "この記念碑【きねんひ】はい偉大【いだい】な功績【こうせき】を残【のこ】した人々【ひとびと】への敬意【けいい】を表【ひょう】すために建【た】てられました。",
+    "meaning": "This monument was erected to show respect for those who left great achievements."
+  },
+  {
+    "sentence": "私たちは共に生きる全ての命を敬うべきです。",
+    "sentence_furigana": "我々【われわれ】は共【とも】に生【い】きる全【すべ】ての命【いのち】を敬【けい】うべきです。",
+    "meaning": "We should respect all life that coexists with us."
+  },
+  {
+    "sentence": "彼の学問に対する真摯な姿勢は、多くの学生から敬われている。",
+    "sentence_furigana": "彼【かれ】の学問【がくもん】に対【たい】する真摯【しんし】な姿勢【しせい】はい多【おお】くの学生【がくせい】から敬【けい】われている。",
+    "meaning": "His sincere attitude towards learning is respected by many students."
+  },
+  {
+    "sentence": "年長者を敬うことは、社会の秩序を保つ上で重要です。",
+    "sentence_furigana": "年長者【ねんちょうしゃ】を敬【けい】うことは、社会【しゃかい】の秩序【ちつじょ】を保【たも】つ上【うえ】で重要【じゅうよう】です。",
+    "meaning": "Respecting elders is important for maintaining social order."
+  },
+  {
+    "sentence": "彼女の芸術は、時代を超えて人々の心に響き、敬意を集めています。",
+    "sentence_furigana": "彼女【かのじょ】の芸術【げいじゅつ】はい時代【じだい】を超【こ】えて人々【ひとびと】の心【こころ】に響【ひび】き、敬意【けいい】を集【あつ】めています。",
+    "meaning": "Her art resonates with people across generations and garners respect."
+  },
+  {
+    "sentence": "私たちは先人の築いた文化遺産を敬い、次世代に伝えていく責任がある。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の築【きず】いた文化遺産【ぶんかいさん】を敬【けい】い、次世代【じせだい】に伝【つた】えていく責任【せきにん】がある。",
+    "meaning": "We have a responsibility to respect the cultural heritage built by our predecessors and pass it on to the next generation."
+  },
+  {
+    "sentence": "彼は常に正直であり、その誠実さは皆から敬われた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に正直【しょうじき】であり、その誠実さ【せいじつさ】はい皆【みな】から敬【けい】われた。",
+    "meaning": "He was always honest, and his integrity was respected by everyone."
+  },
+  {
+    "sentence": "その偉大な指導者の言葉は、今なお多くの人々に敬われている。",
+    "sentence_furigana": "その偉大【いだい】な指導者【しどうしゃ】の言葉【ことば】はい今【いま】なお多【おお】くの人々【ひとびと】に敬【けい】われている。",
+    "meaning": "The words of that great leader are still revered by many people today."
+  },
+  {
+    "sentence": "私たちは他者の意見を尊重し、敬意を持って議論すべきだ。",
+    "sentence_furigana": "我々【われわれ】は他者【たしゃ】の意見【いけん】を尊重【そんちょう】し、敬意【けいい】を持【も】って議論【ぎろん】すべきだ。",
+    "meaning": "We should respect the opinions of others and discuss them with respect."
+  },
+  {
+    "sentence": "彼女の経験と知識は、同僚から高く敬われている。",
+    "sentence_furigana": "彼女【かのじょ】の経験【けいけん】と知識【ちしき】はい同僚【どうりょう】から高【たか】く敬【けい】われている。",
+    "meaning": "Her experience and knowledge are highly respected by her colleagues."
+  },
+  {
+    "sentence": "祖先を敬う心を忘れるな。",
+    "sentence_furigana": "先祖【せんぞ】を敬【けい】う心【こころ】を忘【わす】れるな。",
+    "meaning": "Do not forget to respect your ancestors."
+  },
+  {
+    "sentence": "その功績は歴史に残り、後世から敬われている。",
+    "sentence_furigana": "その功績【こうせき】はい歴史【れきし】に残【のこ】り、後世【こうせい】から敬【けい】われている。",
+    "meaning": "That achievement remains in history and is revered by future generations."
+  },
+  {
+    "sentence": "私たちは互いを敬い、理解し合うことが大切です。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いを敬【けい】い、理解【りかい】し合【あ】うことが大切【たいせつ】です。",
+    "meaning": "It is important that we respect each other and understand one another."
+  },
+  {
+    "sentence": "彼は常に弱者を敬い、助けることを信条としていた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に弱者【じゃくしゃ】を敬【けい】い、助【たす】けることを信条【しんじょう】としていた。",
+    "meaning": "He always believed in respecting and helping the weak."
+  },
+  {
+    "sentence": "この記念碑は、国のために尽くした人々に敬意を表すものです。",
+    "sentence_furigana": "この記念碑【きねんひ】はい国【くに】のために尽【つ】くした人々【ひとびと】に敬意【けいい】を表【ひょう】すものです。",
+    "meaning": "This monument expresses respect for those who served the country."
+  },
+  {
+    "sentence": "彼の献身的な働きは、皆から高く評価され、敬われていた。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な働【はたら】きはい皆【みな】から高【たか】く評価【ひょうか】され、敬【けい】まれていた。",
+    "meaning": "His dedicated work was highly appreciated and respected by everyone."
+  },
+  {
+    "sentence": "私たちは自然の恵みに感謝し、敬意を持って利用すべきです。",
+    "sentence_furigana": "我々【われわれ】は自然【しぜん】の恵【めぐ】みに感謝【かんしゃ】し、敬意【けいい】を持【も】って利用【りよう】すべきです。",
+    "meaning": "We should be grateful for the blessings of nature and use them with respect."
+  },
+  {
+    "sentence": "その指導者のリーダーシップは、国民から深い敬愛を集めた。",
+    "sentence_furigana": "その指導者【しどうしゃ】のリーダーシップはい国民【こくみん】から深【ふか】い敬愛【けいあい】を集【あつ】めた。",
+    "meaning": "That leader's leadership garnered deep affection and respect from the people."
+  },
+  {
+    "sentence": "子供たちは、大人を敬い、お世話になることへの感謝を忘れないように。",
+    "sentence_furigana": "子供【こども】たちはい大人【おとな】を敬【けい】い、お世話【せわ】になることへの感謝【かんしゃ】を忘【わす】れないように。",
+    "meaning": "Children, please respect adults and do not forget to be grateful for their help."
+  },
+  {
+    "sentence": "彼の音楽は多くの人々の心を打ち、時代を超えて愛され、敬われている。",
+    "sentence_furigana": "彼【かれ】の音楽【おんがく】はい多【おお】くの人々【ひとびと】の心【こころ】を打【う】ち、時代【じだい】を超【こ】えて愛【あい】され、敬【けい】われている。",
+    "meaning": "His music touched many people's hearts and has been loved and revered across generations."
+  },
+  {
+    "sentence": "私たちは先人の遺した教えを敬い、現代に活かす必要がある。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の遺【い】した教【おし】えを敬【けい】い、現代【げんだい】に活【い】かす必要【ひつよう】がある。",
+    "meaning": "We need to respect the teachings left by our predecessors and apply them to the present day."
+  },
+  {
+    "sentence": "その偉大な業績は、後世に語り継がれ、尊敬を集めています。",
+    "sentence_furigana": "その偉大【いだい】な業績【ぎょうせき】はい後世【こうせい】に語【かた】り継【つ】がれ、尊敬【そんけい】を集【あつ】めています。",
+    "meaning": "That great achievement is passed down to future generations and has garnered respect."
+  },
+  {
+    "sentence": "私たちは互いを尊重し、敬意を持って平和に共存していくべきです。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いを尊重【そんちょう】し、敬意【けいい】を持【も】って平和【へいわ】に共存【きょうぞん】していくべきです。",
+    "meaning": "We should respect each other and coexist peacefully."
+  },
+  {
+    "sentence": "彼の誠実な人柄は、地域の人々から深く敬われている。",
+    "sentence_furigana": "彼【かれ】の誠実【せいじつ】な人柄【ひとがら】はい地域【ちいき】の人々【ひとびと】から深【ふか】く敬【けい】われている。",
+    "meaning": "His sincere personality is deeply respected by the people in the community."
+  },
+  {
+    "sentence": "親は子供の自主性を尊重し、敬意を持って見守るべきだ。",
+    "sentence_furigana": "親【おや】はい子供【こども】の自主性【じしゅせい】を尊重【そんちょう】し、敬意【けいい】を持【も】って見守【みまも】るべきだ。",
+    "meaning": "Parents should respect their children's autonomy and watch over them with respect."
+  },
+  {
+    "sentence": "その芸術家の革新的な作品は、美術界から高い評価と敬意を得ている。",
+    "sentence_furigana": "その芸術家【げいじゅつか】の革新的【かくしんてき】な作品【さくひん】はい美術界【びじゅつかい】から高【たか】い評価【ひょうか】と敬意【けいい】を得【え】ている。",
+    "meaning": "That artist's innovative works have earned high praise and respect from the art world."
+  },
+  {
+    "sentence": "私たちは先祖から受け継いだ大切なものを敬い、守っていく必要がある。",
+    "sentence_furigana": "我々【われわれ】は先祖【せんぞ】から受【う】け継【つ】いだ大切【たいせつ】なものを敬【けい】い、守【まも】っていく必要【ひつよう】がある。",
+    "meaning": "We need to respect and protect the precious things inherited from our ancestors."
+  },
+  {
+    "sentence": "彼は常に弱者への配慮を忘れず、敬意をもって接していた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に弱者【じゃくしゃ】への配慮【はいりょ】を忘【わす】れず、敬意【けいい】をもって接【せっ】していた。",
+    "meaning": "He always remembered to be considerate of the weak and treated them with respect."
+  },
+  {
+    "sentence": "その平和的な解決策は、世界中から敬意を集めた。",
+    "sentence_furigana": "その平和的【へいわてき】な解決策【かいけつさく】はい世界中【せかいじゅう】から敬意【けいい】を集【あつ】めた。",
+    "meaning": "That peaceful solution garnered respect from around the world."
+  },
+  {
+    "sentence": "私たちは師の教えを敬い、その精神を受け継いでいく。",
+    "sentence_furigana": "我々【われわれ】は師【し】の教【おし】えを敬【けい】い、その精神【せいしん】を受【う】け継【つ】いでいく。",
+    "meaning": "We respect our teacher's teachings and carry on their spirit."
+  },
+  {
+    "sentence": "彼の誠実な生き方は、多くの人々に感銘を与え、敬われている。",
+    "sentence_furigana": "彼【かれ】の誠実【せいじつ】な生【い】き方【かた】はい多【おお】くの人々【ひとびと】に感銘【かんめい】を与【あた】え、敬【けい】われている。",
+    "meaning": "His sincere way of life impressed many people and earned him respect."
+  },
+  {
+    "sentence": "親は子供の成長を尊重し、敬意を持って導くべきだ。",
+    "sentence_furigana": "親【おや】はい子供【こども】の成長【せいちょう】を尊重【そんちょう】し、敬意【けいい】を持【も】って導【みちび】くべきだ。",
+    "meaning": "Parents should respect their children's growth and guide them with respect."
+  },
+  {
+    "sentence": "その功績は、時代を超えて人々に記憶され、敬われている。",
+    "sentence_furigana": "その功績【こうせき】はい時代【じだい】を超【こ】えて人々【ひとびと】に記憶【きおく】され、敬【けい】われている。",
+    "meaning": "That achievement is remembered by people across generations and revered."
+  },
+  {
+    "sentence": "私たちは互いの違いを尊重し、敬意を持って共存することが大切です。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いの違【ちが】いを尊重【そんちょう】し、敬意【けいい】を持【も】って共存【きょうぞん】することが大切【たいせつ】です。",
+    "meaning": "It is important that we respect each other's differences and coexist with respect."
+  },
+  {
+    "sentence": "彼の献身的な奉仕活動は、地域社会から大きな敬意を集めた。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な奉仕活動【ほうしかつどう】はい地域社会【ちいきしゃかい】から大【おお】きな敬意【けいい】を集【あつ】めた。",
+    "meaning": "His dedicated volunteer activities garnered great respect from the community."
+  },
+  {
+    "sentence": "私たちは先人の知恵を敬い、未来を創造していくべきです。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の知恵【ちえ】を敬【けい】い、未来【みらい】を創造【そうぞう】していくべきです。",
+    "meaning": "We should respect the wisdom of our predecessors and create the future."
+  },
+  {
+    "sentence": "その偉大な遺産は、後世の人々によって敬われている。",
+    "sentence_furigana": "その偉大【いだい】な遺産【いさん】はい後世【こうせい】の人々【ひとびと】によって敬【けい】われている。",
+    "meaning": "That great heritage is revered by people of future generations."
+  },
+  {
+    "sentence": "彼は常に真実を追求し、その探求心は尊敬を集めている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に真実【しんじつ】を追求【ついきゅう】し、その探求心【たんきゅうしん】は尊敬【そんけい】を集【あつ】めている。",
+    "meaning": "He always pursues the truth, and his spirit of inquiry has garnered respect."
+  },
+  {
+    "sentence": "子供たちは、親の経験を敬い、そこから学ぶべきだ。",
+    "sentence_furigana": "子供【こども】たちはい親【おや】の経験【けいけん】を敬【けい】い、そこから学【まな】ぶべきだ。",
+    "meaning": "Children should respect their parents' experiences and learn from them."
+  },
+  {
+    "sentence": "その功績は、歴史に深く刻まれ、後世から称えられている。",
+    "sentence_furigana": "その功績【こうせき】はい歴史【れきし】に深【ふか】く刻【きざ】まれ、後世【こうせい】から称【たた】えられている。",
+    "meaning": "That achievement is deeply etched in history and is praised by future generations."
+  },
+  {
+    "sentence": "私たちは互いの尊厳を尊重し、敬意を持って接することが大切です。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いの尊厳【そんげん】を尊重【そんちょう】し、敬意【けいい】を持【も】って接【せっ】することが大切【たいせつ】です。",
+    "meaning": "It is important that we respect each other's dignity and treat each other with respect."
+  },
+  {
+    "sentence": "彼の献身的なリーダーシップは、組織全体から大きな敬意を集めた。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】なリーダーシップはい組織全体【そしきぜんたい】から大【おお】きな敬意【けいい】を集【あつ】めた。",
+    "meaning": "His dedicated leadership garnered great respect from the entire organization."
+  },
+  {
+    "sentence": "私たちは先人の遺産を敬い、未来のためにそれを守り育てていく必要がある。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の遺産【いさん】を敬【けい】い、未来【みらい】のためにそれを守【まも】り育【そだ】てていく必要【ひつよう】がある。",
+    "meaning": "We need to respect the heritage of our predecessors and protect and nurture it for the future."
+  },
+  {
+    "sentence": "その偉業は、永く人々に記憶され、高く評価されている。",
+    "sentence_furigana": "その偉業【いぎょう】はい永【なが】く人々【ひとびと】に記憶【きおく】され、高【たか】く評価【ひょうか】されている。",
+    "meaning": "That great achievement is long remembered by people and highly appreciated."
+  },
+  {
+    "sentence": "彼は常に公正であり、その公平さは皆から敬われた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公正【こうせい】であり、その公平さ【こうへいさ】はい皆【みな】から敬【けい】われた。",
+    "meaning": "He was always fair, and his fairness was respected by everyone."
+  },
+  {
+    "sentence": "子供たちは、年長者の経験や知恵を敬って聞くべきだ。",
+    "sentence_furigana": "子供【こども】たちはい年長者【ねんちょうしゃ】の経験【けいけん】や知恵【ちえ】を敬【けい】って聞【き】くべきだ。",
+    "meaning": "Children should listen to the experience and wisdom of elders with respect."
+  },
+  {
+    "sentence": "その功績は、未来にわたり語り継がれ、人々の尊敬を集めている。",
+    "sentence_furigana": "その功績【こうせき】はい未来【みらい】にわたり語【かた】り継【つ】がれ、人々【ひとびと】の尊敬【そんけい】を集【あつ】めている。",
+    "meaning": "That achievement is passed down through the future and has garnered the respect of people."
+  },
+  {
+    "sentence": "私たちは互いの人権を尊重し、敬意を持って共存することが大切です。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いの人権【じんけん】を尊重【そんちょう】し、敬意【けいい】を持【も】って共存【きょうぞん】することが大切【たいせつ】です。",
+    "meaning": "It is important that we respect each other's human rights and coexist with respect."
+  },
+  {
+    "sentence": "彼の献身的な努力は、多くの人々の模範となり、敬意を集めている。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な努力【どりょく】はい多【おお】くの人々【ひとびと】の模範【もはん】となり、敬意【けいい】を集【あつ】めている。",
+    "meaning": "His dedicated efforts have become a model for many people and garnered respect."
+  },
+  {
+    "sentence": "私たちは先人の遺志を敬い、その精神を受け継いで未来へ進む。",
+    "sentence_furigana": "我々【われわれ】は先人【せんじん】の遺志【いし】を敬【けい】い、その精神【せいしん】を受【う】け継【つ】いで未来【みらい】へ進【すす】む。",
+    "meaning": "We respect the will of our predecessors and carry on their spirit into the future."
+  },
+  {
+    "sentence": "その偉大な功績は、時代を超えて人々の心に深く刻まれている。",
+    "sentence_furigana": "その偉大【いだい】な功績【こうせき】はい時代【じだい】を超【こ】えて人々【ひとびと】の心【こころ】に深【ふか】く刻【きざ】まれている。",
+    "meaning": "That great achievement is deeply etched in people's hearts across generations."
+  },
+  {
+    "sentence": "彼は常に謙虚であり、その姿勢は皆から敬われた。",
+    "sentence_furigana": "彼【かれ】は常【つね】に謙虚【けんきょ】であり、その姿勢【しせい】はい皆【みな】から敬【けい】われた。",
+    "meaning": "He was always humble, and that attitude was respected by everyone."
+  }
+]

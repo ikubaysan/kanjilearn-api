@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "この手紙は片方の耳には届かなかった。",
+    "sentence_furigana": "この手紙【てがみ】は片方【かたほう】の耳【みみ】には届【とど】かなかった。",
+    "meaning": "This letter did not reach one ear."
+  },
+  {
+    "sentence": "彼は片方の靴を履き間違えた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の靴【くつ】を履【は】き間違【まちが】えた。",
+    "meaning": "He mistook one shoe for the other."
+  },
+  {
+    "sentence": "彼女は片方の翼で飛ぶことを学んだ。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の翼【つばさ】で飛【と】ぶことを学【まな】んだ。",
+    "meaning": "She learned to fly with one wing."
+  },
+  {
+    "sentence": "データの片側だけを見て判断するのは早計だ。",
+    "sentence_furigana": "データ【でーた】の片側【かたがわ】だけを見【み】て判断【はんだん】するのは早計【そうけい】だ。",
+    "meaning": "It is premature to judge by looking at only one side of the data."
+  },
+  {
+    "sentence": "片方の意見に偏らず、両方の意見を聞くべきだ。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】に偏【かたよ】らず、両方【りょうほう】の意見【いけん】を聞【き】くべきだ。",
+    "meaning": "You should listen to both opinions, not be biased towards one."
+  },
+  {
+    "sentence": "その本は紙の片が破れていた。",
+    "sentence_furigana": "その本【ほん】は紙【かみ】の片【かた】が破【やぶ】れていた。",
+    "meaning": "A corner of the paper of that book was torn."
+  },
+  {
+    "sentence": "写真の片隅に小さな女の子が写っていた。",
+    "sentence_furigana": "写真【しゃしん】の片隅【かたすみ】に小【ちい】さな女の子【おんなのこ】が写【うつ】っていた。",
+    "meaning": "A small girl was pictured in a corner of the photo."
+  },
+  {
+    "sentence": "彼は片手を失ったが、強く生きている。",
+    "sentence_furigana": "彼【かれ】は片手【かたて】を失【うしな】ったが、強【つよ】く生【い】きている。",
+    "meaning": "He lost one hand, but he is living strongly."
+  },
+  {
+    "sentence": "片方の窓が開いていたので、部屋が寒かった。",
+    "sentence_furigana": "片方【かたほう】の窓【まど】が開【あ】いていたので、部屋【へや】が寒【さむ】かった。",
+    "meaning": "Since one of the windows was open, the room was cold."
+  },
+  {
+    "sentence": "彼女は片耳にイヤリングをつけていた。",
+    "sentence_furigana": "彼女【かのじょ】は片耳【かたみみ】にイヤリング【いやりんぐ】をつけていた。",
+    "meaning": "She was wearing an earring on one ear."
+  },
+  {
+    "sentence": "このコインは片面に模様が入っている。",
+    "sentence_furigana": "このコイン【こいん】は片面【かたも】に模様【もよう】が入【はい】っている。",
+    "meaning": "This coin has a pattern on one side."
+  },
+  {
+    "sentence": "彼は片言の日本語で挨拶をした。",
+    "sentence_furigana": "彼【かれ】は片言【かたこと】の日本語【にほんご】で挨拶【あいさつ】をした。",
+    "meaning": "He greeted in broken Japanese."
+  },
+  {
+    "sentence": "片付けるのが苦手なので、部屋が散らかっている。",
+    "sentence_furigana": "片付【かたづ】けるのが苦手【にがて】なので、部屋【へや】が散【ち】らかっている。",
+    "meaning": "I'm not good at tidying up, so my room is messy."
+  },
+  {
+    "sentence": "片思いの恋は実りにくいと言われている。",
+    "sentence_furigana": "片思【かたおも】いの恋【こい】は実【み】りにくいと言【い】われている。",
+    "meaning": "Unrequited love is said to be difficult to bear fruit."
+  },
+  {
+    "sentence": "片側通行になっているため、渋滞が発生している。",
+    "sentence_furigana": "片側【かたがわ】通行【つうこう】になっているため、渋滞【じゅうたい】が発生【はっせい】している。",
+    "meaning": "Traffic congestion is occurring due to one-way traffic."
+  },
+  {
+    "sentence": "片言しか話せないので、意思疎通が難しい。",
+    "sentence_furigana": "片言【かたこと】しか話【はな】せないので、意思疎通【い s o tsuu】が難【むずか】しい。",
+    "meaning": "Communication is difficult because I can only speak a little."
+  },
+  {
+    "sentence": "この本は片手で読めるほど軽いです。",
+    "sentence_furigana": "この本【ほん】は片手【かたて】で読【よ】めるほど軽【かる】いです。",
+    "meaning": "This book is light enough to read with one hand."
+  },
+  {
+    "sentence": "彼女は片方の靴をなくしてしまった。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の靴【くつ】をなくしてしまった。",
+    "meaning": "She lost one of her shoes."
+  },
+  {
+    "sentence": "片方の意見だけを聞くのは危険だ。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】だけを聞【き】くのは危険【きけん】だ。",
+    "meaning": "It is dangerous to listen to only one opinion."
+  },
+  {
+    "sentence": "彼は片方の靴紐がほどけていることに気づかなかった。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の靴紐【くつひも】がほどけていることに気【き】づかなかった。",
+    "meaning": "He didn't notice that one of his shoelaces had come undone."
+  },
+  {
+    "sentence": "片面印刷だと紙の節約になる。",
+    "sentence_furigana": "片面【かためん】印刷【いんさつ】だと紙【かみ】の節約【せつやく】になる。",
+    "meaning": "Printing on one side saves paper."
+  },
+  {
+    "sentence": "片付けが終わらないと、出発できない。",
+    "sentence_furigana": "片付【かたづ】けが終わ【お】わらないと、出発【しゅっぱつ】できない。",
+    "meaning": "I can't depart until I finish tidying up."
+  },
+  {
+    "sentence": "片手で電話をしながら料理をするのは大変だ。",
+    "sentence_furigana": "片手【かたて】で電話【でんわ】をしながら料理【りょうり】をするのは大変【たいへん】だ。",
+    "meaning": "It is difficult to cook while talking on the phone with one hand."
+  },
+  {
+    "sentence": "彼は片道の切符を買った。",
+    "sentence_furigana": "彼【かれ】は片道【かたみち】の切符【きっぷ】を買【か】った。",
+    "meaning": "He bought a one-way ticket."
+  },
+  {
+    "sentence": "片方の腕を骨折したため、ギプスをしている。",
+    "sentence_furigana": "片方【かたほう】の腕【うで】を骨折【こっせつ】したため、ギプス【ぎぷす】をしている。",
+    "meaning": "He is wearing a cast because he fractured one of his arms."
+  },
+  {
+    "sentence": "彼女は片時も目を離さなかった。",
+    "sentence_furigana": "彼女【かのじょ】は片時【かたとき】も目【め】を離【はな】さなかった。",
+    "meaning": "She didn't take her eyes off it for a moment."
+  },
+  {
+    "sentence": "この件については片面的な情報しか持っていない。",
+    "sentence_furigana": "この件【けん】については片面的【かためんてき】な情報【じょうほう】しか持【も】っていない。",
+    "meaning": "I only have one-sided information about this matter."
+  },
+  {
+    "sentence": "片方のスピーカーからしか音が出ない。",
+    "sentence_furigana": "片方【かたほう】のスピーカー【すぴーかー】からしか音【おと】が出【で】ない。",
+    "meaning": "Sound only comes out of one speaker."
+  },
+  {
+    "sentence": "片親家庭が増加しているという統計がある。",
+    "sentence_furigana": "片親【かたおや】家庭【かてい】が増【ふ】加【か】しているという統計【とうけい】がある。",
+    "meaning": "There are statistics showing an increase in single-parent households."
+  },
+  {
+    "sentence": "彼は片手で重い箱を持ち上げた。",
+    "sentence_furigana": "彼【かれ】は片手【かたて】で重【おも】い箱【はこ】を持【も】ち上【あ】げた。",
+    "meaning": "He lifted the heavy box with one hand."
+  },
+  {
+    "sentence": "片側からの攻撃は容易に撃退できた。",
+    "sentence_furigana": "片側【かたがわ】からの攻撃【こうげき】は容易【ようい】に撃退【げきたい】できた。",
+    "meaning": "The attack from one side was easily repelled."
+  },
+  {
+    "sentence": "片方の意見に固執するのは良くない。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】に固執【こしゅう】するのは良【よ】くない。",
+    "meaning": "It is not good to cling to only one opinion."
+  },
+  {
+    "sentence": "彼女は片方のレンズが割れたサングラスをかけていた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】のレンズ【れんず】が割【わ】れたサングラス【さんぐらす】をかけていた。",
+    "meaning": "She was wearing sunglasses with one lens cracked."
+  },
+  {
+    "sentence": "この文書は片面印刷でお願いします。",
+    "sentence_furigana": "この文書【ぶんしょ】は片面【かためん】印刷【いんさつ】でお願いします【おねがいします】。",
+    "meaning": "Please print this document on one side."
+  },
+  {
+    "sentence": "片手で器用に茶碗を洗っていた。",
+    "sentence_furigana": "片手【かたて】で器用【きよう】に茶碗【ちゃわん】を洗【あら】っていた。",
+    "meaning": "He was skillfully washing the tea bowl with one hand."
+  },
+  {
+    "sentence": "片方の眉を上げて彼を見た。",
+    "sentence_furigana": "片方【かたほう】の眉【まゆ】を上【あ】げて彼【かれ】を見【み】た。",
+    "meaning": "She raised one eyebrow and looked at him."
+  },
+  {
+    "sentence": "片時もこの悲しみを忘れることはないだろう。",
+    "sentence_furigana": "片時【かたとき】もこの悲【かな】しみを忘【わす】れることはないだろう。",
+    "meaning": "I will probably never forget this sadness, not for a moment."
+  },
+  {
+    "sentence": "片面だけを見るのではなく、全体像を把握する必要がある。",
+    "sentence_furigana": "片面【かためん】だけを見【み】るのではなく、全体像【ぜんたいぞう】を把握【はあく】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to grasp the whole picture, not just look at one side."
+  },
+  {
+    "sentence": "彼は片方の肩に大きなバッグをかけていた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の肩【かた】に大【おお】きなバッグ【ばっぐ】をかけていた。",
+    "meaning": "He had a large bag slung over one shoulder."
+  },
+  {
+    "sentence": "片親に育てられた子供たちのための支援が必要だ。",
+    "sentence_furigana": "片親【かたおや】に育【そだ】てられた子供【こども】たちのための支援【しえん】が必要【ひつよう】だ。",
+    "meaning": "Support is needed for children raised by a single parent."
+  },
+  {
+    "sentence": "片方の靴下が片方だけ見つかった。",
+    "sentence_furigana": "片方【かたほう】の靴下【くつした】が片方【かたほう】だけ見【み】つかった。",
+    "meaning": "Only one of the pair of socks was found."
+  },
+  {
+    "sentence": "片方の声しか聞こえない。",
+    "sentence_furigana": "片方【かたほう】の声【こえ】しか聞【き】こえない。",
+    "meaning": "I can only hear one voice."
+  },
+  {
+    "sentence": "彼は片手でコーヒーカップを持っていた。",
+    "sentence_furigana": "彼【かれ】は片手【かたて】でコーヒーカップ【こーひーかっぷ】を持【も】っていた。",
+    "meaning": "He held the coffee cup in one hand."
+  },
+  {
+    "sentence": "片面には風景、もう片面には人物が描かれている。",
+    "sentence_furigana": "片面【かためん】には風景【ふうけい】、もう片面【かためん】には人物【じんぶつ】が描【か】かれている。",
+    "meaning": "A landscape is depicted on one side, and a person on the other."
+  },
+  {
+    "sentence": "片方のドアが開けっ放しだった。",
+    "sentence_furigana": "片方【かたほう】のドア【どあ】が開【あ】けっ放【ぱ】なしだった。",
+    "meaning": "One of the doors was left open."
+  },
+  {
+    "sentence": "片手で絵を描くのは難しいだろう。",
+    "sentence_furigana": "片手【かたて】で絵【え】を描【か】くのは難【むずか】しいだろう。",
+    "meaning": "It would probably be difficult to draw a picture with one hand."
+  },
+  {
+    "sentence": "彼は片言で感謝の意を伝えた。",
+    "sentence_furigana": "彼【かれ】は片言【かたこと】で感謝【かんしゃ】の意【い】を伝【つた】えた。",
+    "meaning": "He expressed his gratitude in broken words."
+  },
+  {
+    "sentence": "片方のタイヤがパンクしていた。",
+    "sentence_furigana": "片方【かたほう】のタイヤ【たいや】がパンク【ぱんく】していた。",
+    "meaning": "One of the tires was flat."
+  },
+  {
+    "sentence": "片付ける場所がないので、そのままにしておく。",
+    "sentence_furigana": "片付【かたづ】ける場所【ばしょ】がないので、そのままにしておく。",
+    "meaning": "Since there is no place to put it away, I'll leave it as it is."
+  },
+  {
+    "sentence": "片方のチームが圧倒的に強かった。",
+    "sentence_furigana": "片方【かたほう】のチーム【ちーむ】が圧倒的【あっとうてき】に強【つよ】かった。",
+    "meaning": "One of the teams was overwhelmingly strong."
+  },
+  {
+    "sentence": "彼は片手にナイフを持っていた。",
+    "sentence_furigana": "彼【かれ】は片手【かたて】にナイフ【ないふ】を持【も】っていた。",
+    "meaning": "He held a knife in one hand."
+  },
+  {
+    "sentence": "片方だけの発言を鵜呑みにしない方が良い。",
+    "sentence_furigana": "片方【かたほう】だけ の 発言【はつげん】を鵜呑【うの】みにしない方【ほう】が良い【よい】。",
+    "meaning": "It is better not to blindly accept statements from only one side."
+  },
+  {
+    "sentence": "片方の窓の外は雪が降っていた。",
+    "sentence_furigana": "片方【かたほう】の窓【まど】の外【そと】は雪【ゆき】が降【ふ】っていた。",
+    "meaning": "It was snowing outside one of the windows."
+  },
+  {
+    "sentence": "彼は片方の目をつぶって的を狙った。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の目【め】をつぶって的【まと】を狙【ねら】った。",
+    "meaning": "He closed one eye and aimed at the target."
+  },
+  {
+    "sentence": "この本は二冊組で、片方しか持っていない。",
+    "sentence_furigana": "この本【ほん】は二冊組【にさつぐみ】で、片方【かたほう】しか持【も】っていない。",
+    "meaning": "This book is a set of two, and I only have one."
+  },
+  {
+    "sentence": "彼女は片方だけ靴下を履いていた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】だけ靴下【くつした】を履【は】いていた。",
+    "meaning": "She was wearing socks on only one foot."
+  },
+  {
+    "sentence": "この材料は片面しか加工されていない。",
+    "sentence_furigana": "この材料【ざいりょう】は片面【かためん】しか加工【かこう】されていない。",
+    "meaning": "This material is processed on only one side."
+  },
+  {
+    "sentence": "片手にボール、片方の手にラケットを持っていた。",
+    "sentence_furigana": "片手【かたて】にボール【ぼーる】、片方【かたほう】の手にラケット【らけっと】を持【も】っていた。",
+    "meaning": "He held a ball in one hand and a racket in the other."
+  },
+  {
+    "sentence": "彼は片側の道を歩いていた。",
+    "sentence_furigana": "彼【かれ】は片側【かたがわ】の道【みち】を歩【ある】いていた。",
+    "meaning": "He was walking on one side of the road."
+  },
+  {
+    "sentence": "このカードは片面にしか情報が印刷されていない。",
+    "sentence_furigana": "このカード【かーど】は片面【かためん】にしか情報【じょうほう】が印刷【いんさつ】されていない。",
+    "meaning": "This card only has information printed on one side."
+  },
+  {
+    "sentence": "片方のドアノブが壊れていた。",
+    "sentence_furigana": "片方【かたほう】のドアノブ【どあのぶ】が壊【こわ】れていた。",
+    "meaning": "One of the doorknobs was broken."
+  },
+  {
+    "sentence": "彼女は片方の翼を怪我した鳥を保護した。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の翼【つばさ】を怪我【けが】した鳥【とり】を保護【ほご】した。",
+    "meaning": "She protected a bird that had injured one of its wings."
+  },
+  {
+    "sentence": "片手で器用にペンを回していた。",
+    "sentence_furigana": "片手【かたて】で器用【きよう】にペン【ぺん】を回【まわ】していた。",
+    "meaning": "He was skillfully twirling the pen with one hand."
+  },
+  {
+    "sentence": "この写真は片方に古い建物が写っている。",
+    "sentence_furigana": "この写真【しゃしん】は片方【かたほう】に古【ふる】い建物【たてもの】が写【うつ】っている。",
+    "meaning": "This photo shows an old building on one side."
+  },
+  {
+    "sentence": "片方のケーブルが断線していた。",
+    "sentence_furigana": "片方【かたほう】のケーブル【けーぶる】が断線【だんせん】していた。",
+    "meaning": "One of the cables was disconnected."
+  },
+  {
+    "sentence": "彼は片手で傘を差していた。",
+    "sentence_furigana": "彼【かれ】は片手【かたて】で傘【かさ】を差【さ】していた。",
+    "meaning": "He held an umbrella with one hand."
+  },
+  {
+    "sentence": "片親でも子供は幸せになれる。",
+    "sentence_furigana": "片親【かたおや】でも子供【こども】は幸【しあわ】せになれる。",
+    "meaning": "Children can be happy even with a single parent."
+  },
+  {
+    "sentence": "片方の窓から差し込む光が部屋を照らしていた。",
+    "sentence_furigana": "片方【かたほう】の窓【まど】から差【さ】し込【こ】む光【ひかり】が部屋【へや】を照【て】らしていた。",
+    "meaning": "Light coming through one of the windows illuminated the room."
+  },
+  {
+    "sentence": "この本は片手で持つのにちょうどいいサイズだ。",
+    "sentence_furigana": "この本【ほん】は片手【かたて】で持【も】つのにちょうどいいサイズ【さいず】だ。",
+    "meaning": "This book is just the right size to hold with one hand."
+  },
+  {
+    "sentence": "彼は片方のイヤホンで音楽を聴いていた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】のイヤホン【いやほん】で音楽【おんがく】を聴【き】いていた。",
+    "meaning": "He was listening to music with one earphone."
+  },
+  {
+    "sentence": "片方の意見に偏った報道は信頼できない。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】に偏【かたよ】った報道【ほうどう】は信頼【しんらい】できない。",
+    "meaning": "News coverage biased towards one opinion cannot be trusted."
+  },
+  {
+    "sentence": "彼女は片方の靴を履き替えた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の靴【くつ】を履【は】き替【か】えた。",
+    "meaning": "She changed one of her shoes."
+  },
+  {
+    "sentence": "片言しか話せないのに、よく旅行をしている。",
+    "sentence_furigana": "片言【かたこと】しか話【はな】せないのに、よく旅行【りょこう】をしている。",
+    "meaning": "Despite only being able to speak a little, they travel often."
+  },
+  {
+    "sentence": "この地図は片方にしか縮尺が表示されていない。",
+    "sentence_furigana": "この地図【ちず】は片方【かたほう】にしか縮尺【しゅくしゃく】が表示【ひょうじ】されていない。",
+    "meaning": "This map only shows the scale on one side."
+  },
+  {
+    "sentence": "彼は片方の袖をまくり上げていた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の袖【そで】をまくり上【あ】げていた。",
+    "meaning": "He had rolled up one of his sleeves."
+  },
+  {
+    "sentence": "片方だけの情報で判断してはいけない。",
+    "sentence_furigana": "片方【かたほう】だけの情報【じょうほう】で判断【はんだん】してはいけない。",
+    "meaning": "You should not judge based on information from only one side."
+  },
+  {
+    "sentence": "この箱は片手で運ぶのは無理だ。",
+    "sentence_furigana": "この箱【はこ】は片手【かたて】で運【はこ】ぶのは無理【むり】だ。",
+    "meaning": "It is impossible to carry this box with one hand."
+  },
+  {
+    "sentence": "彼女は片方の手を壁についた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の手【て】を壁【かべ】についた。",
+    "meaning": "She placed one hand on the wall."
+  },
+  {
+    "sentence": "片親の苦労は計り知れない。",
+    "sentence_furigana": "片親【かたおや】の苦労【くろう】は計【はか】り知【し】れない。",
+    "meaning": "The hardships of a single parent are immeasurable."
+  },
+  {
+    "sentence": "彼は片方のブーツを履いていなかった。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】のブーツ【ぶーつ】を履【は】いていなかった。",
+    "meaning": "He was not wearing one of his boots."
+  },
+  {
+    "sentence": "片方の考えに固執せず、柔軟に対応する必要がある。",
+    "sentence_furigana": "片方【かたほう】の考【かんが】えに固執【こしゅう】せず、柔軟【じゅうなん】に対応【たいおう】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to respond flexibly, not stubbornly adhering to one way of thinking."
+  },
+  {
+    "sentence": "この雑誌は片面印刷で十分だ。",
+    "sentence_furigana": "この雑誌【ざっし】は片面【かためん】印刷【いんさつ】で十分【じゅうぶん】だ。",
+    "meaning": "Single-sided printing is sufficient for this magazine."
+  },
+  {
+    "sentence": "彼女は片方の耳を覆った。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の耳【みみ】を覆【おお】った。",
+    "meaning": "She covered one of her ears."
+  },
+  {
+    "sentence": "片方の窓が開いていたので、風が入ってきた。",
+    "sentence_furigana": "片方【かたほう】の窓【まど】が開【あ】いていたので、風【かぜ】が入【はい】ってきた。",
+    "meaning": "Since one of the windows was open, the wind came in."
+  },
+  {
+    "sentence": "彼は片手でノートを取っていた。",
+    "sentence_furigana": "彼【かれ】は片手【かたて】でノート【のーと】を採【と】っていた。",
+    "meaning": "He was taking notes with one hand."
+  },
+  {
+    "sentence": "片方の意見を聞くだけでは、問題の本質は見えてこない。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】を聞【き】くだけでは、問題【もんだい】の本質【ほんしつ】は見【み】えてこない。",
+    "meaning": "The essence of the problem cannot be seen by only listening to one opinion."
+  },
+  {
+    "sentence": "このクーポンは片面のみ有効です。",
+    "sentence_furigana": "このクーポン【くーぽん】は片面【かためん】のみ有効【ゆうこう】です。",
+    "meaning": "This coupon is valid on one side only."
+  },
+  {
+    "sentence": "彼は片方の腕を怪我していた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の腕【うで】を怪我【けが】していた。",
+    "meaning": "He had injured one of his arms."
+  },
+  {
+    "sentence": "片方の電池が切れていた。",
+    "sentence_furigana": "片方【かたほう】の電池【でんち】が切【き】れていた。",
+    "meaning": "One of the batteries was dead."
+  },
+  {
+    "sentence": "彼女は片方のリップスティックを失くした。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】のリップスティック【りっぷすてぃっく】を失【な】くした。",
+    "meaning": "She lost one of her lipsticks."
+  },
+  {
+    "sentence": "片方の靴下がずれていた。",
+    "sentence_furigana": "片方【かたほう】の靴下【くつした】がずれていた。",
+    "meaning": "One of the socks had slipped down."
+  },
+  {
+    "sentence": "彼は片方の肩をすくめた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の肩【かた】をすくめた。",
+    "meaning": "He shrugged one of his shoulders."
+  },
+  {
+    "sentence": "この資料は片面印刷で結構です。",
+    "sentence_furigana": "この資料【しりょう】は片面【かためん】印刷【いんさつ】で結構【けっこう】です。",
+    "meaning": "Single-sided printing is fine for this document."
+  },
+  {
+    "sentence": "片方の電源が落ちていた。",
+    "sentence_furigana": "片方【かたほう】の電源【でんげん】が落【お】ちていた。",
+    "meaning": "One of the power supplies had failed."
+  },
+  {
+    "sentence": "彼女は片方の手で荷物を持っていた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の手【て】で荷物【にもつ】を持【も】っていた。",
+    "meaning": "She was holding luggage with one hand."
+  },
+  {
+    "sentence": "片方の意見に耳を貸すだけでは不十分だ。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】に耳【みみ】を貸【か】すだけでは不十分【ふじゅうぶん】だ。",
+    "meaning": "It is not enough to just listen to one opinion."
+  },
+  {
+    "sentence": "彼は片方の足に怪我をしていた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の足【あし】に怪我【けが】をしていた。",
+    "meaning": "He had injured one of his legs."
+  },
+  {
+    "sentence": "片面ばかり見ていては全体像が見えない。",
+    "sentence_furigana": "片面【かためん】ばかり見【み】ていては全体像【ぜんたいぞう】が見【み】えない。",
+    "meaning": "You cannot see the whole picture if you only look at one side."
+  },
+  {
+    "sentence": "彼女は片方の眼鏡のつるを直していた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の眼鏡【めがね】のつるを直【なお】していた。",
+    "meaning": "She was fixing the temple of one of her glasses."
+  },
+  {
+    "sentence": "片方の窓の外は嵐だった。",
+    "sentence_furigana": "片方【かたほう】の窓【まど】の外【そと】は嵐【あらし】だった。",
+    "meaning": "It was stormy outside one of the windows."
+  },
+  {
+    "sentence": "彼は片方のイヤリングを外した。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】のイヤリング【いやりんぐ】を外【はず】した。",
+    "meaning": "He took off one of his earrings."
+  },
+  {
+    "sentence": "片方の電池しか残っていなかった。",
+    "sentence_furigana": "片方【かたほう】の電池【でんち】しか残【のこ】っていなかった。",
+    "meaning": "Only one battery was left."
+  },
+  {
+    "sentence": "彼女は片方の靴を履くのに苦労していた。",
+    "sentence_furigana": "彼女【かのじょ】は片方【かたほう】の靴【くつ】を履【は】くのに苦労【くろう】していた。",
+    "meaning": "She was having trouble putting on one of her shoes."
+  },
+  {
+    "sentence": "彼は片方の指に指輪をしていた。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の指【ゆび】に指輪【ゆびわ】をしていた。",
+    "meaning": "He was wearing a ring on one of his fingers."
+  },
+  {
+    "sentence": "片方の意見だけを聞くのではなく、多角的に物事を捉えるべきだ。",
+    "sentence_furigana": "片方【かたほう】の意見【いけん】だけを聞【き】くのではなく、多角的【たかくてき】に物事【ものごと】を捉【とら】えるべきだ。",
+    "meaning": "One should grasp things from multiple perspectives, not just listen to one opinion."
+  }
+]

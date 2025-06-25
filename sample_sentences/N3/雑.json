@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "この部屋は雑然としている。",
+    "sentence_furigana": "この部屋【へや】は雑然【ざつぜん】としている。",
+    "meaning": "This room is messy."
+  },
+  {
+    "sentence": "雑な仕事はしたくない。",
+    "sentence_furigana": "雑【ざつ】な仕事【しごと】はしたくない。",
+    "meaning": "I don't want to do sloppy work."
+  },
+  {
+    "sentence": "雑踏の中で友達を見失った。",
+    "sentence_furigana": "雑踏【ざっとう】の中【なか】で友達【ともだち】を見失【みうしな】った。",
+    "meaning": "I lost sight of my friend in the crowd."
+  },
+  {
+    "sentence": "彼は雑学に詳しい。",
+    "sentence_furigana": "彼【かれ】は雑学【ざつがく】に詳【くわ】しい。",
+    "meaning": "He is knowledgeable about miscellaneous subjects."
+  },
+  {
+    "sentence": "雑菌が入らないように注意してください。",
+    "sentence_furigana": "雑菌【ざっきん】が入【はい】らないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to let in germs."
+  },
+  {
+    "sentence": "これは雑種の犬です。",
+    "sentence_furigana": "これ【これ】は雑種【ざっしゅ】の犬【いぬ】です。",
+    "meaning": "This is a mixed-breed dog."
+  },
+  {
+    "sentence": "食料品と雑品を一緒に買う。",
+    "sentence_furigana": "食料品【しょくりょうひん】と雑品【ざっぴん】を一緒【いっしょ】に買【か】う。",
+    "meaning": "I will buy groceries and miscellaneous goods together."
+  },
+  {
+    "sentence": "彼は雑談が好きだ。",
+    "sentence_furigana": "彼【かれ】は雑談【ざつだん】が好き【す】きだ。",
+    "meaning": "He likes casual conversation."
+  },
+  {
+    "sentence": "雑音がひどくて聞こえない。",
+    "sentence_furigana": "雑音【ざつおん】がひどくて聞【き】こえない。",
+    "meaning": "The noise is so bad I can't hear."
+  },
+  {
+    "sentence": "雑草を抜く作業は大変だ。",
+    "sentence_furigana": "雑草【ざっそう】を抜【ぬ】く作業【さぎょう】は大変【たいへん】だ。",
+    "meaning": "Pulling weeds is hard work."
+  },
+  {
+    "sentence": "この文章は文章が雑だ。",
+    "sentence_furigana": "この文章【ぶんしょう】は文章【ぶんしょう】が雑【ざつ】だ。",
+    "meaning": "The writing in this passage is rough."
+  },
+  {
+    "sentence": "彼は雑事を多く抱えている。",
+    "sentence_furigana": "彼【かれ】は雑事【ざつじ】を多【おお】く抱【かか】えている。",
+    "meaning": "He has a lot of miscellaneous tasks."
+  },
+  {
+    "sentence": "この料理は色々な香辛料が雑に入っている。",
+    "sentence_furigana": "この料理【りょうり】は色々【いろいろ】な香辛料【こうしんりょう】が雑【ざつ】に入【はい】っている。",
+    "meaning": "Various spices are mixed into this dish."
+  },
+  {
+    "sentence": "雑味のあるワインが好きだ。",
+    "sentence_furigana": "雑味【ざつみ】のあるワインが好き【す】きだ。",
+    "meaning": "I like wine with a complex flavor."
+  },
+  {
+    "sentence": "彼は雑言を浴びせた。",
+    "sentence_furigana": "彼【かれ】は雑言【ぞうげん】を浴【あ】びせた。",
+    "meaning": "He hurled abuse at him."
+  },
+  {
+    "sentence": "新しい技術を雑多な情報から見つけ出す。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】を雑多【ざった】な情報【じょうほう】から見【み】つけ出【だ】す。",
+    "meaning": "I will find new technologies from various information."
+  },
+  {
+    "sentence": "雑多な意見が飛び交った。",
+    "sentence_furigana": "雑多【ざった】な意見【いけん】が飛【と】び交【か】った。",
+    "meaning": "Various opinions flew around."
+  },
+  {
+    "sentence": "彼は雑技団で働いている。",
+    "sentence_furigana": "彼【かれ】は雑技団【ざつぎだん】で働【はたら】いている。",
+    "meaning": "He works for a circus troupe."
+  },
+  {
+    "sentence": "雑踏に紛れて逃げた。",
+    "sentence_furigana": "雑踏【ざっとう】に紛【まぎ】れて逃【に】げた。",
+    "meaning": "He blended into the crowd and escaped."
+  },
+  {
+    "sentence": "これは雑記帳です。",
+    "sentence_furigana": "これ【これ】は雑記帳【ざっきちょう】です。",
+    "meaning": "This is a notebook for miscellaneous entries."
+  },
+  {
+    "sentence": "彼は雑談で時間を過ごした。",
+    "sentence_furigana": "彼【かれ】は雑談【ざつだん】で時間【じかん】を過【す】ごした。",
+    "meaning": "He spent time chatting."
+  },
+  {
+    "sentence": "雑菌の繁殖を抑える。",
+    "sentence_furigana": "雑菌【ざっきん】の繁殖【はんしょく】を抑【おさ】える。",
+    "meaning": "To suppress the propagation of germs."
+  },
+  {
+    "sentence": "彼は雑学王と呼ばれる。",
+    "sentence_furigana": "彼【かれ】は雑学王【ざつがくおう】と呼【よ】ばれる。",
+    "meaning": "He is called the king of trivia."
+  },
+  {
+    "sentence": "この本は雑多な情報でいっぱいだ。",
+    "sentence_furigana": "この本【ほん】は雑多【ざった】な情報【じょうほう】でいっぱいだ。",
+    "meaning": "This book is full of miscellaneous information."
+  },
+  {
+    "sentence": "雑木林を抜けて進む。",
+    "sentence_furigana": "雑木林【ぞうぼくりん】を抜【ぬ】けて進【すす】む。",
+    "meaning": "We proceed through the mixed forest."
+  },
+  {
+    "sentence": "彼は雑駁な話し方をする。",
+    "sentence_furigana": "彼【かれ】は雑駁【ざっぱく】な話【はな】し方【かた】をする。",
+    "meaning": "He speaks in a rough manner."
+  },
+  {
+    "sentence": "雑踏の中から声が聞こえた。",
+    "sentence_furigana": "雑踏【ざっとう】の中【なか】から声【こえ】が聞【き】こえた。",
+    "meaning": "A voice was heard from the crowd."
+  },
+  {
+    "sentence": "雑な絵だが、味がある。",
+    "sentence_furigana": "雑【ざつ】な絵【え】だが、味【あじ】がある。",
+    "meaning": "The painting is rough, but it has character."
+  },
+  {
+    "sentence": "彼は雑用係を任された。",
+    "sentence_furigana": "彼【かれ】は雑用係【ざつようがかり】を任【まか】された。",
+    "meaning": "He was assigned to do odd jobs."
+  },
+  {
+    "sentence": "雑踏を避けて裏道を歩いた。",
+    "sentence_furigana": "雑踏【ざっとう】を避【さ】けて裏道【うらみち】を歩【ある】いた。",
+    "meaning": "I avoided the crowd and walked on the backstreets."
+  },
+  {
+    "sentence": "雑菌が繁殖しないように冷蔵庫に入れる。",
+    "sentence_furigana": "雑菌【ざっきん】が繁殖【はんしょく】しないように冷蔵庫【れいぞうこ】に入【い】れる。",
+    "meaning": "Put it in the refrigerator so that germs don't multiply."
+  },
+  {
+    "sentence": "彼は雑学を披露した。",
+    "sentence_furigana": "彼【かれ】は雑学【ざつがく】を披露【ひろう】した。",
+    "meaning": "He showed off his trivia."
+  },
+  {
+    "sentence": "雑踏の中で人々は行き交う。",
+    "sentence_furigana": "雑踏【ざっとう】の中【なか】で人々【ひとびと】は行【ゆ】き交【か】う。",
+    "meaning": "People come and go in the crowd."
+  },
+  {
+    "sentence": "彼は雑務をこなすのが得意だ。",
+    "sentence_furigana": "彼【かれ】は雑務【ざつむ】をこなすのが得意【とくい】だ。",
+    "meaning": "He is good at handling miscellaneous tasks."
+  },
+  {
+    "sentence": "雑音を除去する機能がついている。",
+    "sentence_furigana": "雑音【ざつおん】を除去【じょきょ】する機能【きのう】がついている。",
+    "meaning": "It has a function to remove noise."
+  },
+  {
+    "sentence": "雑草が生い茂った庭を片付ける。",
+    "sentence_furigana": "雑草【ざっそう】が生【な】おい茂【しげ】った庭【にわ】を片付【かたづ】ける。",
+    "meaning": "To clean up a garden overgrown with weeds."
+  },
+  {
+    "sentence": "この本は様々なジャンルの話が雑に入っている。",
+    "sentence_furigana": "この本【ほん】は様々【さまざま】なジャンルの話【はな】しが雑【ざつ】に入【はい】っている。",
+    "meaning": "This book contains a mixture of stories from various genres."
+  },
+  {
+    "sentence": "彼は雑駁な人物だ。",
+    "sentence_furigana": "彼【かれ】は雑駁【ざっぱく】な人物【じんぶつ】だ。",
+    "meaning": "He is a rough and ready person."
+  },
+  {
+    "sentence": "雑事を忘れて趣味に没頭する。",
+    "sentence_furigana": "雑事【ざつじ】を忘【わす】れて趣味【しゅみ】に没頭【ぼっとう】する。",
+    "meaning": "To forget about chores and immerse oneself in hobbies."
+  },
+  {
+    "sentence": "雑多な品物を陳列する店。",
+    "sentence_furigana": "雑多【ざった】な品物【しなもの】を陳列【ちんれつ】する店【みせ】。",
+    "meaning": "A shop that displays miscellaneous items."
+  },
+  {
+    "sentence": "雑踏を避けるために早朝に出発した。",
+    "sentence_furigana": "雑踏【ざっとう】を避【さ】けるために早朝【そうちょう】に出発【しゅっぱつ】した。",
+    "meaning": "I departed early in the morning to avoid the crowds."
+  },
+  {
+    "sentence": "この革製品は雑な作りだ。",
+    "sentence_furigana": "この革製品【かわせいひん】は雑【ざつ】な作【つく】りだ。",
+    "meaning": "This leather product is poorly made."
+  },
+  {
+    "sentence": "雑種であることを気にする必要はない。",
+    "sentence_furigana": "雑種【ざっしゅ】であることを気【き】にする必要【ひつよう】はない。",
+    "meaning": "There's no need to worry about being a mixed breed."
+  },
+  {
+    "sentence": "彼は雑菌に感染しやすい。",
+    "sentence_furigana": "彼【かれ】は雑菌【ざっきん】に感染【かんせん】しやすい。",
+    "meaning": "He is prone to infection by germs."
+  },
+  {
+    "sentence": "雑談から重要な情報が得られた。",
+    "sentence_furigana": "雑談【ざつだん】から重要【じゅうよう】な情報【じょうほう】が得【え】られた。",
+    "meaning": "Important information was obtained from casual conversation."
+  },
+  {
+    "sentence": "雑音が混じっているため、音声が不明瞭だ。",
+    "sentence_furigana": "雑音【ざつおん】が混【ま】じっているため、音声【おんせい】が不明瞭【ふめいりょう】だ。",
+    "meaning": "The audio is unclear due to mixed noise."
+  },
+  {
+    "sentence": "雑木を整理する。",
+    "sentence_furigana": "雑木【ざつぼく】を整理【せいり】する。",
+    "meaning": "To prune miscellaneous trees."
+  },
+  {
+    "sentence": "雑念を振り払って集中する。",
+    "sentence_furigana": "雑念【ざつねん】を振【ふ】り払【はら】って集中【しゅうちゅう】する。",
+    "meaning": "To clear one's mind and concentrate."
+  },
+  {
+    "sentence": "雑多な商品を扱う店。",
+    "sentence_furigana": "雑多【ざった】な商品【しょうひん】を扱【あつか】う店【みせ】。",
+    "meaning": "A shop dealing in various goods."
+  },
+  {
+    "sentence": "彼は雑な返事をした。",
+    "sentence_furigana": "彼【かれ】は雑【ざつ】な返事【へんじ】をした。",
+    "meaning": "He gave a careless reply."
+  },
+  {
+    "sentence": "雑草が多くて庭の手入れが大変だ。",
+    "sentence_furigana": "雑草【ざっそう】が多【おお】くて庭【にわ】の手入【てい】れが大変【たいへん】だ。",
+    "meaning": "Weeding the garden is difficult due to the abundance of weeds."
+  },
+  {
+    "sentence": "彼は雑音の中でもよく働く。",
+    "sentence_furigana": "彼【かれ】は雑音【ざつおん】の中【なか】でもよく働【はたら】く。",
+    "meaning": "He works well even amidst noise."
+  },
+  {
+    "sentence": "雑踏に飲まれて、出口が見えなくなった。",
+    "sentence_furigana": "雑踏【ざっとう】に飲【の】まれて、出口【でぐち】が見【み】えなくなった。",
+    "meaning": "I was swallowed by the crowd and couldn't see the exit."
+  },
+  {
+    "sentence": "雑多な情報を整理する。",
+    "sentence_furigana": "雑多【ざった】な情報【じょうほう】を整理【せいり】する。",
+    "meaning": "To organize miscellaneous information."
+  },
+  {
+    "sentence": "この料理は素材を雑に扱っている。",
+    "sentence_furigana": "この料理【りょうり】は素材【そざい】を雑【ざつ】に扱【あつか】っている。",
+    "meaning": "The ingredients are handled carelessly in this dish."
+  },
+  {
+    "sentence": "雑技を披露する。",
+    "sentence_furigana": "雑技【ざつぎ】を披露【ひろう】する。",
+    "meaning": "To perform acrobatic feats."
+  },
+  {
+    "sentence": "雑談を楽しんだ。",
+    "sentence_furigana": "雑談【ざつだん】を楽【たの】しんだ。",
+    "meaning": "I enjoyed chatting."
+  },
+  {
+    "sentence": "雑な扱いを受ける。",
+    "sentence_furigana": "雑【ざつ】な扱【あつか】いを受【う】ける。",
+    "meaning": "To be treated carelessly."
+  },
+  {
+    "sentence": "雑学を学ぶのは面白い。",
+    "sentence_furigana": "雑学【ざつがく】を学【まな】ぶのは面白【おもしろ】い。",
+    "meaning": "It's interesting to learn trivia."
+  },
+  {
+    "sentence": "雑菌が繁殖しやすい環境。",
+    "sentence_furigana": "雑菌【ざっきん】が繁殖【はんしょく】しやすい環境【かんきょう】。",
+    "meaning": "An environment where germs easily multiply."
+  },
+  {
+    "sentence": "雑踏の中で迷子になった。",
+    "sentence_furigana": "雑踏【ざっとう】の中【なか】で迷子【まいご】になった。",
+    "meaning": "I got lost in the crowd."
+  },
+  {
+    "sentence": "彼は雑な言葉遣いをする。",
+    "sentence_furigana": "彼【かれ】は雑【ざつ】な言葉遣【ことばづか】いをする。",
+    "meaning": "He uses crude language."
+  },
+  {
+    "sentence": "雑多な意見をまとめる。",
+    "sentence_furigana": "雑多【ざった】な意見【いけん】をまとめる。",
+    "meaning": "To consolidate various opinions."
+  },
+  {
+    "sentence": "雑音を遮断するヘッドホン。",
+    "sentence_furigana": "雑音【ざつおん】を遮断【しゃだん】するヘッドホン。",
+    "meaning": "Noise-canceling headphones."
+  },
+  {
+    "sentence": "雑草を抜きながら歩く。",
+    "sentence_furigana": "雑草【ざっそう】を抜【ぬ】きながら歩【ある】く。",
+    "meaning": "To walk while pulling weeds."
+  },
+  {
+    "sentence": "彼は雑な仕事ぶりだ。",
+    "sentence_furigana": "彼【かれ】は雑【ざつ】な仕事振【しごとぶ】りだ。",
+    "meaning": "His work ethic is sloppy."
+  },
+  {
+    "sentence": "雑踏の喧騒が耳につく。",
+    "sentence_furigana": "雑踏【ざっとう】の喧騒【けんそう】が耳【みみ】につく。",
+    "meaning": "The clamor of the crowd is bothersome."
+  },
+  {
+    "sentence": "雑多な品物で部屋があふれている。",
+    "sentence_furigana": "雑多【ざった】な品物【しなもの】で部屋【へや】があふれている。",
+    "meaning": "The room is overflowing with miscellaneous items."
+  },
+  {
+    "sentence": "彼は雑な性格をしている。",
+    "sentence_furigana": "彼【かれ】は雑【ざつ】な性格【せいかく】をしている。",
+    "meaning": "He has a rough personality."
+  },
+  {
+    "sentence": "雑学に関する本を読む。",
+    "sentence_furigana": "雑学【ざつがく】に関【かん】する本【ほん】を読【よ】む。",
+    "meaning": "I read books about trivia."
+  },
+  {
+    "sentence": "雑菌の侵入を防ぐ。",
+    "sentence_furigana": "雑菌【ざっきん】の侵入【しんにゅう】を防【ふせ】ぐ。",
+    "meaning": "To prevent the invasion of germs."
+  },
+  {
+    "sentence": "雑踏に紛れて人混みを歩く。",
+    "sentence_furigana": "雑踏【ざっとう】に紛【まぎ】れて人混【ひとご】みを見【み】て歩【ある】く。",
+    "meaning": "To walk through the crowd, blending in."
+  },
+  {
+    "sentence": "雑な梱包は商品に傷をつけやすい。",
+    "sentence_furigana": "雑【ざつ】な梱包【こんぽう】は商品【しょうひん】に傷【きず】をつけやすい。",
+    "meaning": "Careless packaging tends to damage the product."
+  },
+  {
+    "sentence": "彼は雑な料理を作る。",
+    "sentence_furigana": "彼【かれ】は雑【ざつ】な料理【りょうり】を செய்。",
+    "meaning": "He cooks carelessly."
+  },
+  {
+    "sentence": "雑談からヒントを得る。",
+    "sentence_furigana": "雑談【ざつだん】からヒントを得【え】る。",
+    "meaning": "To get a hint from casual conversation."
+  },
+  {
+    "sentence": "雑音が多くて作業に集中できない。",
+    "sentence_furigana": "雑音【ざつおん】が多【おお】くて作業【さぎょう】に集中【しゅうちゅう】できない。",
+    "meaning": "I can't concentrate on my work due to the noise."
+  },
+  {
+    "sentence": "雑草だらけの土地を耕す。",
+    "sentence_furigana": "雑草【ざっそう】だらけの土地【とち】を耕【たがや】す。",
+    "meaning": "To cultivate land full of weeds."
+  },
+  {
+    "sentence": "雑多な意見を収集する。",
+    "sentence_furigana": "雑多【ざった】な意見【いけん】を収集【しゅうしゅう】する。",
+    "meaning": "To collect various opinions."
+  },
+  {
+    "sentence": "彼は雑な性格なので、人に好かれない。",
+    "sentence_furigana": "彼【かれ】は雑【ざつ】な性格【せいかく】なので、人【ひと】に好【す】かれない。",
+    "meaning": "He is not liked by people because of his rough personality."
+  },
+  {
+    "sentence": "雑な仕事は信頼を失う。",
+    "sentence_furigana": "雑【ざつ】な仕事【しごと】は信頼【しんらい】を失【うしな】う。",
+    "meaning": "Sloppy work leads to a loss of trust."
+  },
+  {
+    "sentence": "雑踏の中から友人の声がした。",
+    "sentence_furigana": "雑踏【ざっとう】の中【なか】から友人【ゆうじん】の声【こえ】がした。",
+    "meaning": "I heard my friend's voice from the crowd."
+  },
+  {
+    "sentence": "雑多な情報の中から必要なものだけを選び出す。",
+    "sentence_furigana": "雑多【ざった】な情報【じょうほう】の中【なか】から必要【ひつよう】なものだけを選【え】び出【だ】す。",
+    "meaning": "To select only the necessary information from various sources."
+  },
+  {
+    "sentence": "彼は雑学をひけらかす。",
+    "sentence_furigana": "彼【かれ】は雑学【ざつがく】をひけらかす。",
+    "meaning": "He boasts about his trivia."
+  },
+  {
+    "sentence": "雑菌を殺菌する。",
+    "sentence_furigana": "雑菌【ざっきん】を殺菌【さっきん】する。",
+    "meaning": "To sterilize germs."
+  },
+  {
+    "sentence": "雑談が弾む。",
+    "sentence_furigana": "雑談【ざつだん】が弾【はず】む。",
+    "meaning": "The casual conversation is lively."
+  },
+  {
+    "sentence": "雑な筆遣いでも味がでる。",
+    "sentence_furigana": "雑【ざつ】な筆遣【ふでづか】いでも味【あじ】がでる。",
+    "meaning": "Even with rough brushstrokes, a taste can emerge."
+  },
+  {
+    "sentence": "雑草を見つけ次第抜く。",
+    "sentence_furigana": "雑草【ざっそう】を見【み】つけ次第【しだい】抜【ぬ】く。",
+    "meaning": "Pull up weeds as soon as you find them."
+  },
+  {
+    "sentence": "雑音に悩まされている。",
+    "sentence_furigana": "雑音【ざつおん】に悩【なや】まされている。",
+    "meaning": "I am troubled by noise."
+  },
+  {
+    "sentence": "雑踏に紛れて逃走する。",
+    "sentence_furigana": "雑踏【ざっとう】に紛【まぎ】れて逃走【とうそう】する。",
+    "meaning": "To escape into the crowd."
+  },
+  {
+    "sentence": "彼は雑務を効率的にこなす。",
+    "sentence_furigana": "彼【かれ】は雑務【ざつむ】を効率的【こうりつてき】にこなす。",
+    "meaning": "He handles miscellaneous tasks efficiently."
+  },
+  {
+    "sentence": "雑な考えは捨てなさい。",
+    "sentence_furigana": "雑【ざつ】な考【かんが】えは捨【す】てなさい。",
+    "meaning": "Discard your crude ideas."
+  },
+  {
+    "sentence": "雑多な人々に混じって歩く。",
+    "sentence_furigana": "雑多【ざった】な人々【ひとびと】に混【ま】じって歩【ある】く。",
+    "meaning": "To walk mixed with various people."
+  },
+  {
+    "sentence": "雑学は人生を豊かにする。",
+    "sentence_furigana": "雑学【ざつがく】は人生【じんせい】を豊【ゆた】かにする。",
+    "meaning": "Trivia enriches life."
+  },
+  {
+    "sentence": "雑な注文にも対応する。",
+    "sentence_furigana": "雑【ざつ】な注文【ちゅうもん】にも対応【たいおう】する。",
+    "meaning": "To handle even rough orders."
+  },
+  {
+    "sentence": "雑草が庭一面に生えている。",
+    "sentence_furigana": "雑草【ざっそう】が庭【にわ】一面【いちめん】に生【は】えている。",
+    "meaning": "Weeds are growing all over the garden."
+  },
+  {
+    "sentence": "雑音が気になって仕事に集中できない。",
+    "sentence_furigana": "雑音【ざつおん】が気【き】になって仕事【しごと】に集中【しゅうちゅう】できない。",
+    "meaning": "I can't concentrate on my work because the noise is bothering me."
+  },
+  {
+    "sentence": "雑多な色を混ぜ合わせる。",
+    "sentence_furigana": "雑多【ざった】な色【いろ】を混【ま】ぜ合【あ】わせる。",
+    "meaning": "To mix various colors."
+  },
+  {
+    "sentence": "雑言を慎む。",
+    "sentence_furigana": "雑言【ぞうげん】を慎【つつし】む。",
+    "meaning": "To refrain from abusive language."
+  },
+  {
+    "sentence": "雑踏の中で携帯電話が鳴った。",
+    "sentence_furigana": "雑踏【ざっとう】の中【なか】で携帯電話【けいたいでんわ】が鳴【な】った。",
+    "meaning": "My mobile phone rang in the crowd."
+  },
+  {
+    "sentence": "雑な仕事は信用を落とす。",
+    "sentence_furigana": "雑【ざつ】な仕事【しごと】は信用【しんよう】を落【お】とす。",
+    "meaning": "Sloppy work damages credibility."
+  },
+  {
+    "sentence": "雑菌の繁殖を防ぐための対策。",
+    "sentence_furigana": "雑菌【ざっきん】の繁殖【はんしょく】を防【ふせ】ぐための対策【たいさく】。",
+    "meaning": "Measures to prevent the proliferation of germs."
+  },
+  {
+    "sentence": "雑学博士と呼ばれるほど詳しい。",
+    "sentence_furigana": "雑学博士【ざつがくはかせ】と呼【よ】ばれるほど詳【くわ】しい。",
+    "meaning": "He is knowledgeable enough to be called a trivia expert."
+  }
+]

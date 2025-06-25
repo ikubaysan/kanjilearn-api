@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "美しい花が咲きました。",
+    "sentence_furigana": "美【うつく】しい花【はな】が咲【さ】きました。",
+    "meaning": "Beautiful flowers have bloomed."
+  },
+  {
+    "sentence": "その絵はとても美しいです。",
+    "sentence_furigana": "その絵【え】はとても美【うつく】しいです。",
+    "meaning": "That painting is very beautiful."
+  },
+  {
+    "sentence": "彼女の美しさに魅了されました。",
+    "sentence_furigana": "彼女【かのじょ】の美【うつく】しさに魅了【みりょう】されました。",
+    "meaning": "I was captivated by her beauty."
+  },
+  {
+    "sentence": "彼は美しい声を持っています。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい声【こえ】を持【も】っています。",
+    "meaning": "He has a beautiful voice."
+  },
+  {
+    "sentence": "美しさとは何でしょうか。",
+    "sentence_furigana": "美【うつく】しさとは何【なん】でしょうか。",
+    "meaning": "What is beauty?"
+  },
+  {
+    "sentence": "この景色は本当に美しい。",
+    "sentence_furigana": "この景色【けしき】は本当【ほんとう】に美【うつく】しい。",
+    "meaning": "This scenery is truly beautiful."
+  },
+  {
+    "sentence": "美しい心を持つことが大切です。",
+    "sentence_furigana": "美【うつく】しい心【こころ】を持【も】つことが大切【たいせつ】です。",
+    "meaning": "It is important to have a beautiful heart."
+  },
+  {
+    "sentence": "その音楽は美しくて感動的でした。",
+    "sentence_furigana": "その音楽【おんがく】は美【うつく】しくて感動的【かんどうてき】でした。",
+    "meaning": "That music was beautiful and moving."
+  },
+  {
+    "sentence": "彼は美術品を収集するのが趣味です。",
+    "sentence_furigana": "彼【かれ】は美術品【びじゅつひん】を収集【しゅうしゅう】するのが趣味【しゅみ】です。",
+    "meaning": "He collects works of art as a hobby."
+  },
+  {
+    "sentence": "この都市は美しい建築物で有名です。",
+    "sentence_furigana": "この都市【とし】は美【うつく】しい建築物【けんちくぶつ】で有名【ゆうめい】です。",
+    "meaning": "This city is famous for its beautiful architecture."
+  },
+  {
+    "sentence": "彼女は生まれながらの美人だ。",
+    "sentence_furigana": "彼女【かのじょ】は生【う】まれながらの美人【びじん】だ。",
+    "meaning": "She is a natural beauty."
+  },
+  {
+    "sentence": "美しい友情を育みましょう。",
+    "sentence_furigana": "美【うつく】しい友情【ゆうじょう】を育【はぐく】みましょう。",
+    "meaning": "Let's nurture a beautiful friendship."
+  },
+  {
+    "sentence": "その湖は鏡のように美しい。",
+    "sentence_furigana": "その湖【みずうみ】は鏡【かがみ】のように美【うつく】しい。",
+    "meaning": "That lake is as beautiful as a mirror."
+  },
+  {
+    "sentence": "彼女は美貌を保つために努力しています。",
+    "sentence_furigana": "彼女【かのじょ】は美貌【びぼう】を保【たも】つために努力【どりょく】しています。",
+    "meaning": "She strives to maintain her beauty."
+  },
+  {
+    "sentence": "この公園は四季折々の美しさがある。",
+    "sentence_furigana": "この公園【こうえん】は四季折々【しきおりおり】の美【うつく】しさがある。",
+    "meaning": "This park has beauty in every season."
+  },
+  {
+    "sentence": "彼は美しい詩を書く。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい詩【し】を書【か】く。",
+    "meaning": "He writes beautiful poetry."
+  },
+  {
+    "sentence": "この風景は絵のように美しい。",
+    "sentence_furigana": "この風景【ふうけい】は絵【え】のように美【うつく】しい。",
+    "meaning": "This landscape is picturesque."
+  },
+  {
+    "sentence": "美しい言葉を使いましょう。",
+    "sentence_furigana": "美【うつく】しい言葉【ことば】を使【つか】いましょう。",
+    "meaning": "Let's use beautiful words."
+  },
+  {
+    "sentence": "彼女の笑顔は美しい。",
+    "sentence_furigana": "彼女【かのじょ】の笑顔【えがお】は美【うつく】しい。",
+    "meaning": "Her smile is beautiful."
+  },
+  {
+    "sentence": "その彫刻は精巧で美しい。",
+    "sentence_furigana": "その彫刻【ちょうこく】は精巧【せいこう】で美【うつく】しい。",
+    "meaning": "That sculpture is intricate and beautiful."
+  },
+  {
+    "sentence": "彼は美容師を目指している。",
+    "sentence_furigana": "彼【かれ】は美容師【びようし】を目指【めざ】している。",
+    "meaning": "He aims to become a beautician."
+  },
+  {
+    "sentence": "美しい自然を守ることは重要です。",
+    "sentence_furigana": "美【うつく】しい自然【しぜん】を守【まも】ることは重要【じゅうよう】です。",
+    "meaning": "It is important to protect beautiful nature."
+  },
+  {
+    "sentence": "そのバレリーナは非常に美しい。",
+    "sentence_furigana": "そのバレリーナは非常【ひじょう】に美【うつく】しい。",
+    "meaning": "That ballerina is very beautiful."
+  },
+  {
+    "sentence": "美徳とは何かを考えている。",
+    "sentence_furigana": "美徳【びとく】とは何【なに】かを考【かんが】えている。",
+    "meaning": "I am thinking about what virtue is."
+  },
+  {
+    "sentence": "この料理は見た目も美しい。",
+    "sentence_furigana": "この料理【りょうり】は見た目【みた】も美【うつく】しい。",
+    "meaning": "This dish is also beautiful in appearance."
+  },
+  {
+    "sentence": "彼女は美しい姿勢を保っている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい姿勢【しせい】を保【たも】っている。",
+    "meaning": "She maintains a beautiful posture."
+  },
+  {
+    "sentence": "この宝石はまばゆいほど美しい。",
+    "sentence_furigana": "この宝石【ほうせき】はまばゆいほど美【うつく】しい。",
+    "meaning": "This jewel is dazzlingly beautiful."
+  },
+  {
+    "sentence": "彼は美しい文字を書く。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい文字【もじ】を書【か】く。",
+    "meaning": "He writes beautiful characters."
+  },
+  {
+    "sentence": "この伝統芸能は美しい。",
+    "sentence_furigana": "この伝統芸能【でんとうげいのう】は美【うつく】しい。",
+    "meaning": "This traditional art is beautiful."
+  },
+  {
+    "sentence": "彼女は美意識が高い。",
+    "sentence_furigana": "彼女【かのじょ】は美意識【びいしき】が高【たか】い。",
+    "meaning": "She has a high sense of beauty."
+  },
+  {
+    "sentence": "美しい愛を育む。",
+    "sentence_furigana": "美【うつく】しい愛【あい】を育【はぐく】む。",
+    "meaning": "Nurture beautiful love."
+  },
+  {
+    "sentence": "その庭園は非常に美しい。",
+    "sentence_furigana": "その庭園【ていえん】は非常【ひじょう】に美【うつく】しい。",
+    "meaning": "That garden is extremely beautiful."
+  },
+  {
+    "sentence": "彼女は美しさと優雅さを兼ね備えている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しさと優雅【ゆうが】さを兼【か】ね備【そな】えている。",
+    "meaning": "She possesses both beauty and elegance."
+  },
+  {
+    "sentence": "これはまさに美の結晶だ。",
+    "sentence_furigana": "これはまさに美【び】の結晶【けっしょう】だ。",
+    "meaning": "This is truly the epitome of beauty."
+  },
+  {
+    "sentence": "彼は美しい言葉で彼女を励ました。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい言葉【ことば】で彼女【かのじょ】を励【はげ】ました。",
+    "meaning": "He encouraged her with beautiful words."
+  },
+  {
+    "sentence": "その寺院は静かで美しい。",
+    "sentence_furigana": "その寺院【じいん】は静【しず】かで美【うつく】しい。",
+    "meaning": "That temple is quiet and beautiful."
+  },
+  {
+    "sentence": "彼女は美しい髪をしている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい髪【かみ】をしている。",
+    "meaning": "She has beautiful hair."
+  },
+  {
+    "sentence": "美男美女のカップルだ。",
+    "sentence_furigana": "美男美女【びなんびじょ】のカップルだ。",
+    "meaning": "It's a beautiful couple."
+  },
+  {
+    "sentence": "この山からの眺めは美しい。",
+    "sentence_furigana": "この山【やま】からの眺【なが】めは美【うつく】しい。",
+    "meaning": "The view from this mountain is beautiful."
+  },
+  {
+    "sentence": "彼女は美しく装っていた。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しく装【よそお】っていた。",
+    "meaning": "She was beautifully dressed."
+  },
+  {
+    "sentence": "美しい思い出をありがとう。",
+    "sentence_furigana": "美【うつく】しい思【おも】い出【で】をありがとう。",
+    "meaning": "Thank you for the beautiful memories."
+  },
+  {
+    "sentence": "この物語は美しい結末を迎えた。",
+    "sentence_furigana": "この物語【ものがたり】は美【うつく】しい結末【けつまつ】を迎【むか】えた。",
+    "meaning": "This story had a beautiful ending."
+  },
+  {
+    "sentence": "彼は美しい心を持っている。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい心【こころ】を持【も】っている。",
+    "meaning": "He has a beautiful heart."
+  },
+  {
+    "sentence": "その宝石の輝きは美しい。",
+    "sentence_furigana": "その宝石【ほうせき】の輝【かがや】きは美【うつく】しい。",
+    "meaning": "The sparkle of that jewel is beautiful."
+  },
+  {
+    "sentence": "彼女の演奏は美しく、聴衆を魅了した。",
+    "sentence_furigana": "彼女【かのじょ】の演奏【えんそう】は美【うつく】しく、聴衆【ちょうしゅう】を魅了【みりょう】した。",
+    "meaning": "Her performance was beautiful and captivated the audience."
+  },
+  {
+    "sentence": "この街並みはとても美しい。",
+    "sentence_furigana": "この街並【まちな】みはとても美【うつく】しい。",
+    "meaning": "This cityscape is very beautiful."
+  },
+  {
+    "sentence": "彼は美しい絵を描く。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい絵【え】を描【か】く。",
+    "meaning": "He draws beautiful pictures."
+  },
+  {
+    "sentence": "彼女の態度は美しい。",
+    "sentence_furigana": "彼女【かのじょ】の態度【たいど】は美【うつく】しい。",
+    "meaning": "Her attitude is beautiful."
+  },
+  {
+    "sentence": "美しい言葉は心を癒す。",
+    "sentence_furigana": "美【うつく】しい言葉【ことば】は心【こころ】を癒【いや】す。",
+    "meaning": "Beautiful words heal the heart."
+  },
+  {
+    "sentence": "この海は信じられないほど美しい。",
+    "sentence_furigana": "この海【うみ】は信【しん】じられないほど美【うつく】しい。",
+    "meaning": "This sea is incredibly beautiful."
+  },
+  {
+    "sentence": "彼女は美容に気を使っている。",
+    "sentence_furigana": "彼女【かのじょ】は美容【びよう】に気【き】を使【つか】っている。",
+    "meaning": "She pays attention to her beauty."
+  },
+  {
+    "sentence": "美しい友情は人生を豊かにする。",
+    "sentence_furigana": "美【うつく】しい友情【ゆうじょう】は人生【じんせい】を豊【ゆた】かにする。",
+    "meaning": "Beautiful friendship enriches life."
+  },
+  {
+    "sentence": "その風景は息をのむほど美しい。",
+    "sentence_furigana": "その風景【ふうけい】は息【いき】をのむほど美【うつく】しい。",
+    "meaning": "That scenery is breathtakingly beautiful."
+  },
+  {
+    "sentence": "彼は美しい歌を歌った。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい歌【うた】を歌【うた】った。",
+    "meaning": "He sang a beautiful song."
+  },
+  {
+    "sentence": "彼女の才能は美しく輝いている。",
+    "sentence_furigana": "彼女【かのじょ】の才能【さいのう】は美【うつく】しく輝【かがや】いている。",
+    "meaning": "Her talent shines beautifully."
+  },
+  {
+    "sentence": "この城は歴史的に美しい。",
+    "sentence_furigana": "この城【しろ】は歴史的【れきしてき】に美【うつく】しい。",
+    "meaning": "This castle is historically beautiful."
+  },
+  {
+    "sentence": "彼女は常に美しい。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に美【うつく】しい。",
+    "meaning": "She is always beautiful."
+  },
+  {
+    "sentence": "美しい自然環境を守りましょう。",
+    "sentence_furigana": "美【うつく】しい自然環境【しぜんかんきょう】を守【まも】りましょう。",
+    "meaning": "Let's protect the beautiful natural environment."
+  },
+  {
+    "sentence": "この芸術作品は非常に美しい。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は非常【ひじょう】に美【うつく】しい。",
+    "meaning": "This work of art is extremely beautiful."
+  },
+  {
+    "sentence": "彼女は美しい花束を贈られた。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい花束【はなたば】を贈【おく】られた。",
+    "meaning": "She was given a beautiful bouquet."
+  },
+  {
+    "sentence": "彼は美しい言葉で感謝を伝えた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい言葉【ことば】で感謝【かんしゃ】を伝【つた】えた。",
+    "meaning": "He expressed his gratitude with beautiful words."
+  },
+  {
+    "sentence": "この公園は四季折々の美しさがある。",
+    "sentence_furigana": "この公園【こうえん】は四季折々【しきおりおり】の美【うつく】しさがある。",
+    "meaning": "This park has beauty in every season."
+  },
+  {
+    "sentence": "彼女の心遣いは美しい。",
+    "sentence_furigana": "彼女【かのじょ】の心遣【こころづか】いは美【うつく】しい。",
+    "meaning": "Her thoughtfulness is beautiful."
+  },
+  {
+    "sentence": "美しい夕日が空を染めていた。",
+    "sentence_furigana": "美【うつく】しい夕日【ゆうひ】が空【そら】を染【そ】めていた。",
+    "meaning": "The beautiful sunset dyed the sky."
+  },
+  {
+    "sentence": "彼女は美しく着飾っていた。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しく着飾【きかざ】っていた。",
+    "meaning": "She was beautifully adorned."
+  },
+  {
+    "sentence": "この建築は非常に美しい。",
+    "sentence_furigana": "この建築【けんちく】は非常【ひじょう】に美【うつく】しい。",
+    "meaning": "This architecture is very beautiful."
+  },
+  {
+    "sentence": "彼は美しい声で歌い上げた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい声【こえ】で歌【うた】い上【あ】げた。",
+    "meaning": "He sang out with a beautiful voice."
+  },
+  {
+    "sentence": "彼女は美顔術に興味がある。",
+    "sentence_furigana": "彼女【かのじょ】は美顔術【びがんじゅつ】に興味【きょうみ】がある。",
+    "meaning": "She is interested in beauty treatments."
+  },
+  {
+    "sentence": "この音楽は美しく、心を落ち着かせる。",
+    "sentence_furigana": "この音楽【おんがく】は美【うつく】しく、心【こころ】を落【お】ち着【つ】かせる。",
+    "meaning": "This music is beautiful and calming."
+  },
+  {
+    "sentence": "彼女は美しい心を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい心【こころ】を持【も】っている。",
+    "meaning": "She has a beautiful heart."
+  },
+  {
+    "sentence": "彼は美しい宝石を贈った。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい宝石【ほうせき】を贈【おく】った。",
+    "meaning": "He gifted a beautiful jewel."
+  },
+  {
+    "sentence": "この花はとても美しい色をしている。",
+    "sentence_furigana": "この花【はな】はとても美【うつく】しい色【いろ】をしている。",
+    "meaning": "This flower has a very beautiful color."
+  },
+  {
+    "sentence": "彼女は美しい才能に恵まれている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい才能【さいのう】に恵【めぐ】まれている。",
+    "meaning": "She is blessed with beautiful talent."
+  },
+  {
+    "sentence": "この海は青く美しい。",
+    "sentence_furigana": "この海【うみ】は青【あお】く美【うつく】しい。",
+    "meaning": "This sea is blue and beautiful."
+  },
+  {
+    "sentence": "彼女は美しい姿勢で立っていた。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい姿勢【しせい】で立【た】っていた。",
+    "meaning": "She stood with a beautiful posture."
+  },
+  {
+    "sentence": "彼は美しい景色を写真に収めた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい景色【けしき】を写真【しゃしん】に収【おさ】めた。",
+    "meaning": "He captured the beautiful scenery in a photograph."
+  },
+  {
+    "sentence": "この模様はとても美しい。",
+    "sentence_furigana": "この模様【もよう】はとても美【うつく】しい。",
+    "meaning": "This pattern is very beautiful."
+  },
+  {
+    "sentence": "彼女は美しい心を持つ人間だ。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい心【こころ】を持【も】つ人間【にんげん】だ。",
+    "meaning": "She is a person with a beautiful heart."
+  },
+  {
+    "sentence": "彼は美しい文字で手紙を書いた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい文字【もじ】で手紙【てがみ】を書【か】いた。",
+    "meaning": "He wrote a letter with beautiful handwriting."
+  },
+  {
+    "sentence": "この絵画は美しさに満ちている。",
+    "sentence_furigana": "この絵画【かいが】は美【うつく】しさに満【み】ちている。",
+    "meaning": "This painting is full of beauty."
+  },
+  {
+    "sentence": "彼女は美しい声で歌を歌った。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい声【こえ】で歌【うた】を歌【うた】った。",
+    "meaning": "She sang a song with a beautiful voice."
+  },
+  {
+    "sentence": "この街は夜景が美しい。",
+    "sentence_furigana": "この街【まち】は夜景【やけい】が美【うつく】しい。",
+    "meaning": "The night view of this city is beautiful."
+  },
+  {
+    "sentence": "彼は美しい言葉で人を励ます。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい言葉【ことば】で人【ひと】を励【はげ】ます。",
+    "meaning": "He encourages people with beautiful words."
+  },
+  {
+    "sentence": "この舞は非常に美しい。",
+    "sentence_furigana": "この舞【まい】は非常【ひじょう】に美【うつく】しい。",
+    "meaning": "This dance is very beautiful."
+  },
+  {
+    "sentence": "彼女の美貌は伝説的だ。",
+    "sentence_furigana": "彼女【かのじょ】の美貌【びぼう】は伝説的【でんせつてき】だ。",
+    "meaning": "Her beauty is legendary."
+  },
+  {
+    "sentence": "美しい自然は心の安らぎを与える。",
+    "sentence_furigana": "美【うつく】しい自然【しぜん】は心【こころ】の安【やす】らぎを与【あた】える。",
+    "meaning": "Beautiful nature gives peace to the soul."
+  },
+  {
+    "sentence": "彼は美しい声楽を奏でる。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい声楽【せいがく】を奏【かな】でる。",
+    "meaning": "He performs beautiful vocal music."
+  },
+  {
+    "sentence": "この景色は絵画のように美しい。",
+    "sentence_furigana": "この景色【けしき】は絵画【かいが】のように美【うつく】しい。",
+    "meaning": "This scenery is like a painting."
+  },
+  {
+    "sentence": "彼女の文章は美しく、読みやすい。",
+    "sentence_furigana": "彼女【かのじょ】の文章【ぶんしょう】は美【うつく】しく、読【よ】みやすい。",
+    "meaning": "Her writing is beautiful and easy to read."
+  },
+  {
+    "sentence": "彼は美しい芸術を創造した。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい芸術【げいじゅつ】を創造【そうぞう】した。",
+    "meaning": "He created beautiful art."
+  },
+  {
+    "sentence": "この宝石は最高の美しさを持っている。",
+    "sentence_furigana": "この宝石【ほうせき】は最高【さいこう】の美【うつく】しさを持【も】っている。",
+    "meaning": "This jewel possesses the highest beauty."
+  },
+  {
+    "sentence": "彼女は美しい花を育てている。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい花【はな】を育【そだ】てている。",
+    "meaning": "She is growing beautiful flowers."
+  },
+  {
+    "sentence": "彼は美しい文字で詩を書いた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい文字【もじ】で詩【し】を書【か】いた。",
+    "meaning": "He wrote a poem with beautiful characters."
+  },
+  {
+    "sentence": "この城の建築様式は美しい。",
+    "sentence_furigana": "この城【しろ】の建築様式【けんちくようしき】は美【うつく】しい。",
+    "meaning": "The architectural style of this castle is beautiful."
+  },
+  {
+    "sentence": "彼女の話し方は美しい。",
+    "sentence_furigana": "彼女【かのじょ】の話【はな】し方【かた】は美【うつく】しい。",
+    "meaning": "Her way of speaking is beautiful."
+  },
+  {
+    "sentence": "美しい星空が広がっていた。",
+    "sentence_furigana": "美【うつく】しい星空【ほしぞら】が広【ひろ】がっていた。",
+    "meaning": "A beautiful starry sky spread out."
+  },
+  {
+    "sentence": "彼は美しい心を大切にしている。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい心【こころ】を大切【たいせつ】にしている。",
+    "meaning": "He cherishes a beautiful heart."
+  },
+  {
+    "sentence": "彼女は美しい女性になった。",
+    "sentence_furigana": "彼女【かのじょ】は美【うつく】しい女性【じょせい】になった。",
+    "meaning": "She has become a beautiful woman."
+  },
+  {
+    "sentence": "この泉の水はとても美しい。",
+    "sentence_furigana": "この泉【いずみ】の水【みず】はとても美【うつく】しい。",
+    "meaning": "The water of this spring is very beautiful."
+  },
+  {
+    "sentence": "彼は美しい声で歌を歌ってくれた。",
+    "sentence_furigana": "彼【かれ】は美【うつく】しい声【こえ】で歌【うた】を歌【うた】ってくれた。",
+    "meaning": "He sang a song for me with his beautiful voice."
+  }
+]

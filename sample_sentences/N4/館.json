@@ -1,0 +1,547 @@
+[
+  {
+    "sentence": "その建物は大きな図書館です。",
+    "sentence_furigana": "その建物【たてもの】は大きな図書館【としょかん】です。",
+    "meaning": "That building is a large library."
+  },
+  {
+    "sentence": "博物館は歴史的な建物で有名です。",
+    "sentence_furigana": "博物館【はくぶつかん】は歴史的【れきしてき】な建物【たてもの】で有名【ゆうめい】です。",
+    "meaning": "The museum is famous for its historic building."
+  },
+  {
+    "sentence": "大使館は都心にあります。",
+    "sentence_furigana": "大使館【たいしかん】は都心【としん】にあります。",
+    "meaning": "The embassy is located in the city center."
+  },
+  {
+    "sentence": "彼は古い洋館に住んでいます。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い洋館【ようかん】に住【す】んでいます。",
+    "meaning": "He lives in an old Western-style mansion."
+  },
+  {
+    "sentence": "図書館で本を借りました。",
+    "sentence_furigana": "図書館【としょかん】で本【ほん】を借【か】りました。",
+    "meaning": "I borrowed a book from the library."
+  },
+  {
+    "sentence": "このホテルは高級な建物です。",
+    "sentence_furigana": "このホテルは高級【こうきゅう】な建物【たてもの】です。",
+    "meaning": "This hotel is a high-class building."
+  },
+  {
+    "sentence": "彼女は公会堂で講演しました。",
+    "sentence_furigana": "彼女【かのじょ】は公会堂【こうかいどう】で講演【こうえん】しました。",
+    "meaning": "She gave a lecture at the public hall."
+  },
+  {
+    "sentence": "会議は国際会議館で行われます。",
+    "sentence_furigana": "会議【かいぎ】は国際会議館【こくさいかいぎかん】で行【おこな】われます。",
+    "meaning": "The conference will be held at the international conference center."
+  },
+  {
+    "sentence": "新しい美術館がオープンしました。",
+    "sentence_furigana": "新【あたら】しい美術館【びじゅつかん】がオープンしました。",
+    "meaning": "A new art museum has opened."
+  },
+  {
+    "sentence": "そのお屋敷はとても立派だ。",
+    "sentence_furigana": "そのお屋敷【やしき】はとても立派【りっぱ】だ。",
+    "meaning": "That mansion is very magnificent."
+  },
+  {
+    "sentence": "別館は本館の隣にあります。",
+    "sentence_furigana": "別館【べっかん】は本館【ほんかん】の隣【となり】にあります。",
+    "meaning": "The annex is next to the main building."
+  },
+  {
+    "sentence": "図書館司書は親切です。",
+    "sentence_furigana": "図書館司書【としょかんししょ】は親切【しんせつ】です。",
+    "meaning": "The librarian is kind."
+  },
+  {
+    "sentence": "子供たちは遊園地の建物に興味を持っています。",
+    "sentence_furigana": "子供【こども】たちは遊園地【ゆうえんち】の建物【たてもの】に興味【きょうみ】を持【も】っています。",
+    "meaning": "The children are interested in the amusement park buildings."
+  },
+  {
+    "sentence": "彼は古い館の主です。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い館【やかた】の主【ぬし】です。",
+    "meaning": "He is the owner of the old mansion."
+  },
+  {
+    "sentence": "この建物は国の重要文化財です。",
+    "sentence_furigana": "この建物【たてもの】は国【くに】の重要文化財【じゅうようぶんかざい】です。",
+    "meaning": "This building is a national important cultural property."
+  },
+  {
+    "sentence": "教会は大きな建物です。",
+    "sentence_furigana": "教会【きょうかい】は大きな建物【たてもの】です。",
+    "meaning": "The church is a large building."
+  },
+  {
+    "sentence": "図書館カードを忘れてしまいました。",
+    "sentence_furigana": "図書館【としょかん】カードを忘【わ】れてしまいました。",
+    "meaning": "I forgot my library card."
+  },
+  {
+    "sentence": "古い洋館が建っています。",
+    "sentence_furigana": "古【ふる】い洋館【ようかん】が建【た】っています。",
+    "meaning": "An old Western-style mansion stands there."
+  },
+  {
+    "sentence": "記念館は文化交流の場となります。",
+    "sentence_furigana": "記念館【きねんかん】は文化交流【ぶんかこうりゅう】の場【ば】となります。",
+    "meaning": "The memorial hall will be a place for cultural exchange."
+  },
+  {
+    "sentence": "その建物は耐震性に優れています。",
+    "sentence_furigana": "その建物【たてもの】は耐震性【たいしんせい】に優【すぐ】れています。",
+    "meaning": "That building has excellent earthquake resistance."
+  },
+  {
+    "sentence": "彼はお城のような館に住んでいる。",
+    "sentence_furigana": "彼【かれ】はお城【しろ】のような館【やかた】に住【す】んでいる。",
+    "meaning": "He lives in a mansion like a castle."
+  },
+  {
+    "sentence": "大使館員は外交官です。",
+    "sentence_furigana": "大使館員【たいしかんいん】は外交官【がいこうかん】です。",
+    "meaning": "Embassy staff are diplomats."
+  },
+  {
+    "sentence": "図書館の開館時間は何時ですか？",
+    "sentence_furigana": "図書館【としょかん】の開館時間【かいかんじかん】は何時【なんじ】ですか？",
+    "meaning": "What are the library's opening hours?"
+  },
+  {
+    "sentence": "古い建物は取り壊されました。",
+    "sentence_furigana": "古【ふる】い建物【たてもの】は取【と】り壊【こわ】されました。",
+    "meaning": "The old building was demolished."
+  },
+  {
+    "sentence": "私立大学の建物は近代的なデザインです。",
+    "sentence_furigana": "私立大学【しりつだいがく】の建物【たてもの】は近代的【きんだいてき】なデザインです。",
+    "meaning": "The private university's buildings have a modern design."
+  },
+  {
+    "sentence": "国会議事堂は大きな建物です。",
+    "sentence_furigana": "国会議事堂【こっかいぎじどう】は大きな建物【たてもの】です。",
+    "meaning": "The National Diet building is a large building."
+  },
+  {
+    "sentence": "博物館の展示品は非常に興味深いです。",
+    "sentence_furigana": "博物館【はくぶつかん】の展示品【てんじひん】は非常【ひじょう】に興味深【きょうみぶか】いです。",
+    "meaning": "The museum's exhibits are very interesting."
+  },
+  {
+    "sentence": "彼は博物館の館長です。",
+    "sentence_furigana": "彼【かれ】は博物館【はくぶつかん】の館長【かんちょう】です。",
+    "meaning": "He is the director of the museum."
+  },
+  {
+    "sentence": "古い館には幽霊が出るという噂がある。",
+    "sentence_furigana": "古【ふる】い館【やかた】には幽霊【ゆうれい】が出【で】るという噂【うわさ】がある。",
+    "meaning": "There is a rumor that a ghost appears in the old mansion."
+  },
+  {
+    "sentence": "大使館は外国との窓口です。",
+    "sentence_furigana": "大使館【たいしかん】は外国【がいこく】との窓口【まどぐち】です。",
+    "meaning": "The embassy is a point of contact with foreign countries."
+  },
+  {
+    "sentence": "この建物は著名な建築家によって設計されました。",
+    "sentence_furigana": "この建物【たてもの】は著名【ちょめい】な建築家【けんちくか】によって設計【せっけい】されました。",
+    "meaning": "This building was designed by a famous architect."
+  },
+  {
+    "sentence": "図書館で静かに勉強しました。",
+    "sentence_furigana": "図書館【としょかん】で静【しず】かに勉強【べんきょう】しました。",
+    "meaning": "I studied quietly in the library."
+  },
+  {
+    "sentence": "その洋館は海が見える素晴らしい場所にあります。",
+    "sentence_furigana": "その洋館【ようかん】は海【うみ】が見【み】える素晴【すば】らしい場所【ばしょ】にあります。",
+    "meaning": "That mansion is in a wonderful location with a view of the sea."
+  },
+  {
+    "sentence": "多くの人々が博物館を訪れます。",
+    "sentence_furigana": "多【おお】くの人々【ひとびと】が博物館【はくぶつかん】を訪【おとず】れます。",
+    "meaning": "Many people visit the museum."
+  },
+  {
+    "sentence": "彼は大使館で働いています。",
+    "sentence_furigana": "彼【かれ】は大使館【たいしかん】で働【はたら】いています。",
+    "meaning": "He works at the embassy."
+  },
+  {
+    "sentence": "この建物は歴史的な価値があります。",
+    "sentence_furigana": "この建物【たてもの】は歴史的【れきしてき】な価値【かち】があります。",
+    "meaning": "This building has historical value."
+  },
+  {
+    "sentence": "図書館は町の中心部にあります。",
+    "sentence_furigana": "図書館【としょかん】は町【まち】の中心部【ちゅうしんぶ】にあります。",
+    "meaning": "The library is located in the town center."
+  },
+  {
+    "sentence": "古い館は改装されました。",
+    "sentence_furigana": "古【ふる】い館【やかた】は改装【かいそう】されました。",
+    "meaning": "The old mansion was renovated."
+  },
+  {
+    "sentence": "彼はその建物の設計図を眺めている。",
+    "sentence_furigana": "彼【かれ】はその建物【たてもの】の設計図【せっけいず】を眺【なが】めています。",
+    "meaning": "He is looking at the architectural drawings of that building."
+  },
+  {
+    "sentence": "博物館の休館日は月曜日です。",
+    "sentence_furigana": "博物館【はくぶつかん】の休館日【きゅうかんび】は月曜日【げつようび】です。",
+    "meaning": "The museum is closed on Mondays."
+  },
+  {
+    "sentence": "大使館は厳重な警備下にありました。",
+    "sentence_furigana": "大使館【たいしかん】は厳重【げんじゅう】な警備下【けいびか】にありました。",
+    "meaning": "The embassy was under strict security."
+  },
+  {
+    "sentence": "この洋館は非常に美しい。",
+    "sentence_furigana": "この洋館【ようかん】は非常【ひじょう】に美【うつく】しい。",
+    "meaning": "This Western-style mansion is very beautiful."
+  },
+  {
+    "sentence": "図書館には多くの蔵書があります。",
+    "sentence_furigana": "図書館【としょかん】には多【おお】くの蔵書【ぞうしょ】があります。",
+    "meaning": "The library has a large collection of books."
+  },
+  {
+    "sentence": "彼の住んでいる館は緑に囲まれています。",
+    "sentence_furigana": "彼【かれ】の住【す】んでいる館【やかた】は緑【みどり】に囲【かこ】まれています。",
+    "meaning": "The mansion where he lives is surrounded by greenery."
+  },
+  {
+    "sentence": "その建物は新しい法律に適合していますか？",
+    "sentence_furigana": "その建物【たてもの】は新【あたら】しい法律【ほうりつ】に適合【てきごう】していますか？",
+    "meaning": "Does that building comply with the new law?"
+  },
+  {
+    "sentence": "博物館の建物はユニークな形をしています。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】はユニークな形【かたち】をしています。",
+    "meaning": "The museum building has a unique shape."
+  },
+  {
+    "sentence": "大使館の前にたくさんの人が集まっています。",
+    "sentence_furigana": "大使館【たいしかん】の前【まえ】にたくさんคนが集【あつ】まっています。",
+    "meaning": "Many people are gathered in front of the embassy."
+  },
+  {
+    "sentence": "彼らは古い館を買い取った。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】を買【か】い取【と】った。",
+    "meaning": "They bought the old mansion."
+  },
+  {
+    "sentence": "その建物は災害に強い構造です。",
+    "sentence_furigana": "その建物【たてもの】は災害【さいがい】に強【つよ】い構造【こうぞう】です。",
+    "meaning": "That building has a structure that is resistant to disasters."
+  },
+  {
+    "sentence": "図書館は学習者のための貴重な資源です。",
+    "sentence_furigana": "図書館【としょかん】は学習者【がくしゅうしゃ】のための貴重【きちょう】な資源【しげん】です。",
+    "meaning": "The library is a valuable resource for learners."
+  },
+  {
+    "sentence": "新しい洋館の建設が進んでいます。",
+    "sentence_furigana": "新【あたら】しい洋館【ようかん】の建設【けんせつ】が進【すす】んでいます。",
+    "meaning": "The construction of the new Western-style mansion is progressing."
+  },
+  {
+    "sentence": "博物館は子供たちに人気があります。",
+    "sentence_furigana": "博物館【はくぶつかん】は子供【こども】たちに人気【にんき】があります。",
+    "meaning": "The museum is popular with children."
+  },
+  {
+    "sentence": "大使館からの公式な発表がありました。",
+    "sentence_furigana": "大使館【たいしかん】からの公式【こうしき】な発表【はっぴょう】がありました。",
+    "meaning": "There was an official announcement from the embassy."
+  },
+  {
+    "sentence": "この建物は文化遺産として保存されています。",
+    "sentence_furigana": "この建物【たてもの】は文化遺産【ぶんかいさん】として保存【ほぞん】されています。",
+    "meaning": "This building is preserved as a cultural heritage."
+  },
+  {
+    "sentence": "彼は図書館で調べ物をしています。",
+    "sentence_furigana": "彼【かれ】は図書館【としょかん】で調【しら】べ了一【もの】をしています。",
+    "meaning": "He is doing research at the library."
+  },
+  {
+    "sentence": "古い館の周りには美しい庭園があります。",
+    "sentence_furigana": "古【ふる】い館【やかた】の周【まわ】りには美【うつく】しい庭園【ていえん】があります。",
+    "meaning": "There is a beautiful garden around the old mansion."
+  },
+  {
+    "sentence": "博物館の建物は特別な意味を持っています。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は特別【とくべつ】な意味【いみ】を持【も】っています。",
+    "meaning": "The museum building has a special meaning."
+  },
+  {
+    "sentence": "大使館の職員は外国語を話します。",
+    "sentence_furigana": "大使館【たいしかん】の職員【しょくいん】は外国語【がいこくご】を話【はな】します。",
+    "meaning": "Embassy staff speak foreign languages."
+  },
+  {
+    "sentence": "この建物は地域のランドマークです。",
+    "sentence_furigana": "この建物【たてもの】は地域【ちいき】のランドマークです。",
+    "meaning": "This building is a local landmark."
+  },
+  {
+    "sentence": "図書館のイベントに参加しました。",
+    "sentence_furigana": "図書館【としょかん】のイベントに参加【さんか】しました。",
+    "meaning": "I participated in a library event."
+  },
+  {
+    "sentence": "彼は古い洋館を復元しました。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い洋館【ようかん】を復元【ふくげん】しました。",
+    "meaning": "He restored the old Western-style mansion."
+  },
+  {
+    "sentence": "博物館のコレクションは非常に豊富です。",
+    "sentence_furigana": "博物館【はくぶつかん】のコレクションは非常【ひじょう】に豊富【ほうふ】です。",
+    "meaning": "The museum's collection is very rich."
+  },
+  {
+    "sentence": "大使館ではビザの申請を受け付けています。",
+    "sentence_furigana": "大使館【たいしかん】ではビザの申請【しんせい】を受【う】け付【つ】けています。",
+    "meaning": "The embassy accepts visa applications."
+  },
+  {
+    "sentence": "その建物は市の象徴です。",
+    "sentence_furigana": "その建物【たてもの】は市【し】の象徴【しょうちょう】です。",
+    "meaning": "That building is a symbol of the city."
+  },
+  {
+    "sentence": "図書館には休憩スペースがあります。",
+    "sentence_furigana": "図書館【としょかん】には休憩【けいけい】スペースがあります。",
+    "meaning": "The library has a rest area."
+  },
+  {
+    "sentence": "彼はその建物の管理を任されている。",
+    "sentence_furigana": "彼【かれ】はその建物【たてもの】の管理【かんり】を任【まか】されています。",
+    "meaning": "He is in charge of the management of that building."
+  },
+  {
+    "sentence": "博物館の建物は国の宝です。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は国【くに】の宝【たから】です。",
+    "meaning": "The museum building is a national treasure."
+  },
+  {
+    "sentence": "大使館は和平交渉の場を提供しました。",
+    "sentence_furigana": "大使館【たいしかん】は和平交渉【わへいこうしょう】の場【ば】を提供【ていきょう】しました。",
+    "meaning": "The embassy provided a venue for peace talks."
+  },
+  {
+    "sentence": "彼らは古い館を博物館に変えました。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】を博物館【はくぶつかん】に変【か】えました。",
+    "meaning": "They turned the old mansion into a museum."
+  },
+  {
+    "sentence": "この建物は省エネルギー設計です。",
+    "sentence_furigana": "この建物【たてもの】は省エネルギー設計【しょうエネルギーせっけい】です。",
+    "meaning": "This building has an energy-saving design."
+  },
+  {
+    "sentence": "図書館は地域住民の憩いの場となっています。",
+    "sentence_furigana": "図書館【としょかん】は地域住民【ちいきじゅうみん】の憩【いこ】いの場【ば】となっています。",
+    "meaning": "The library has become a place of relaxation for local residents."
+  },
+  {
+    "sentence": "彼らは古い館の歴史を調査している。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】の歴史【れきし】を調査【ちょうさ】しています。",
+    "meaning": "They are researching the history of the old mansion."
+  },
+  {
+    "sentence": "博物館の建物は多くの芸術作品を収蔵しています。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は多【おお】くの芸術作品【げいじゅつさくひん】を収蔵【しゅうぞう】しています。",
+    "meaning": "The museum building houses many works of art."
+  },
+  {
+    "sentence": "大使館は友好関係の促進に努めています。",
+    "sentence_furigana": "大使館【たいしかん】は友好関係【ゆうこうかんけい】の促進【そくしん】に努【つと】めています。",
+    "meaning": "The embassy strives to promote friendly relations."
+  },
+  {
+    "sentence": "その建物は町の景観を損ねていない。",
+    "sentence_furigana": "その建物【たてもの】は町【まち】の景観【けいかん】を損【そこな】っていません。",
+    "meaning": "That building does not detract from the town's scenery."
+  },
+  {
+    "sentence": "図書館の利用者は年々増加しています。",
+    "sentence_furigana": "図書館【としょかん】の利用者【りようしゃ】は年々【ねんねん】増加【ぞうか】しています。",
+    "meaning": "The number of library users is increasing year by year."
+  },
+  {
+    "sentence": "彼は古い洋館に住むことを夢見ていた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い洋館【ようかん】に住【す】むことを夢【ゆめ】見【み】ていました。",
+    "meaning": "He dreamed of living in an old Western-style mansion."
+  },
+  {
+    "sentence": "博物館の建物は国の重要文化財に指定されています。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は国【くに】の重要文化財【じゅうようぶんかざい】に指定【してい】されています。",
+    "meaning": "The museum building is designated as an important cultural property of the country."
+  },
+  {
+    "sentence": "大使館の外交官は国際会議に出席した。",
+    "sentence_furigana": "大使館【たいしかん】の外交官【がいこうかん】は国際会議【こくさいかいぎ】に出席【しゅっせき】しました。",
+    "meaning": "The embassy's diplomat attended the international conference."
+  },
+  {
+    "sentence": "この建物はバリアフリー設計です。",
+    "sentence_furigana": "この建物【たてもの】はバリアフリー設計【せっけい】です。",
+    "meaning": "This building has a barrier-free design."
+  },
+  {
+    "sentence": "図書館で郷土史を調べました。",
+    "sentence_furigana": "図書館【としょかん】で郷土史【きょうどし】を調【しら】べました。",
+    "meaning": "I researched local history at the library."
+  },
+  {
+    "sentence": "彼らは古い館を修復する計画を立てている。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】を修復【しゅうふく】する計画【けいかく】を立【た】てています。",
+    "meaning": "They are planning to restore the old mansion."
+  },
+  {
+    "sentence": "博物館の建物は地域に親しまれています。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は地域【ちいき】に親【した】しまれています。",
+    "meaning": "The museum building is popular with the local community."
+  },
+  {
+    "sentence": "大使館は文化交流イベントを主催しました。",
+    "sentence_furigana": "大使館【たいしかん】は文化交流【ぶんかこうりゅう】イベントを主催【しゅさい】しました。",
+    "meaning": "The embassy hosted a cultural exchange event."
+  },
+  {
+    "sentence": "その建物は地元の歴史を物語っています。",
+    "sentence_furigana": "その建物【たてもの】は地元【じもと】の歴史【れきし】を物語【ものがた】っています。",
+    "meaning": "That building tells the history of the local area."
+  },
+  {
+    "sentence": "図書館の利用方法について説明を受けました。",
+    "sentence_furigana": "図書館【としょかん】の利用方法【りようほうほう】について説明【せつめい】を受【う】けました。",
+    "meaning": "I received an explanation on how to use the library."
+  },
+  {
+    "sentence": "彼らは古い館を芸術作品の展示会場として使っている。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】を芸術作品【げいじゅつさくひん】の展示会場【てんじかいじょう】として使【つか】っています。",
+    "meaning": "They use the old mansion as an exhibition space for artworks."
+  },
+  {
+    "sentence": "博物館の建物は再建されました。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は再建【さいけん】されました。",
+    "meaning": "The museum building was rebuilt."
+  },
+  {
+    "sentence": "大使館の建物は厳重に管理されています。",
+    "sentence_furigana": "大使館【たいしかん】の建物【たてもの】は厳重【げんじゅう】に管理【かんり】されています。",
+    "meaning": "The embassy building is strictly managed."
+  },
+  {
+    "sentence": "この建物は歴史的な建築様式を持っています。",
+    "sentence_furigana": "この建物【たてもの】は歴史的【れきしてき】な建築様式【けんちくようしき】を持【も】っています。",
+    "meaning": "This building has a historic architectural style."
+  },
+  {
+    "sentence": "図書館には様々なジャンルの本があります。",
+    "sentence_furigana": "図書館【としょかん】には様々【さまざま】なジャンルの本【ほん】があります。",
+    "meaning": "The library has books of various genres."
+  },
+  {
+    "sentence": "彼らは古い館を文化財として保護している。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】を文化財【ぶんかざい】として保護【ほご】しています。",
+    "meaning": "They are protecting the old mansion as a cultural property."
+  },
+  {
+    "sentence": "博物館の建物は地域のシンボルです。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は地域【ちいき】のシンボルです。",
+    "meaning": "The museum building is a symbol of the region."
+  },
+  {
+    "sentence": "大使館は新しい担当者を任命しました。",
+    "sentence_furigana": "大使館【たいしかん】は新【あたら】しい担当者【たんとうしゃ】を任命【にんめい】しました。",
+    "meaning": "The embassy appointed a new person in charge."
+  },
+  {
+    "sentence": "この建物は地域の発展に貢献しています。",
+    "sentence_furigana": "この建物【たてもの】は地域【ちいき】の発展【はってん】に貢献【こうけん】しています。",
+    "meaning": "This building contributes to the development of the region."
+  },
+  {
+    "sentence": "図書館の司書は本の検索を手伝ってくれます。",
+    "sentence_furigana": "図書館【としょかん】の司書【ししょ】は本【ほん】の検索【けんさく】を手伝【てつだ】ってくれます。",
+    "meaning": "The librarian helps me search for books."
+  },
+  {
+    "sentence": "彼らは古い館でコンサートを開いた。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】でコンサートを開【ひら】きました。",
+    "meaning": "They held a concert in the old mansion."
+  },
+  {
+    "sentence": "博物館の建物は耐震補強工事が行われました。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は耐震補強工事【たいしんほきょうこうじ】が行【おこな】われました。",
+    "meaning": "Earthquake-resistant reinforcement work was carried out on the museum building."
+  },
+  {
+    "sentence": "大使館は領事サービスを提供します。",
+    "sentence_furigana": "大使館【たいしかん】は領事サービスを提供【ていきょう】します。",
+    "meaning": "The embassy provides consular services."
+  },
+  {
+    "sentence": "この建物は市の歴史の一部です。",
+    "sentence_furigana": "この建物【たてもの】は市【し】の歴史【れきし】の一部【いちぶ】です。",
+    "meaning": "This building is part of the city's history."
+  },
+  {
+    "sentence": "図書館は学習支援を提供しています。",
+    "sentence_furigana": "図書館【としょかん】は学習支援【がくしゅうしえん】を提供【ていきょう】しています。",
+    "meaning": "The library provides learning support."
+  },
+  {
+    "sentence": "彼らは古い館をアトリエとして使用している。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】をアトリエとして使用【しよう】しています。",
+    "meaning": "They are using the old mansion as an atelier."
+  },
+  {
+    "sentence": "博物館の建物は歴史的景観に調和しています。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は歴史的景観【れきしてきけいかん】に調和【ちょうわ】しています。",
+    "meaning": "The museum building harmonizes with the historical landscape."
+  },
+  {
+    "sentence": "大使館は二国間の関係強化に努めている。",
+    "sentence_furigana": "大使館【たいしかん】は二国間【にこくかん】の関係強化【かんけいきょうか】に努【つと】めています。",
+    "meaning": "The embassy is working to strengthen bilateral relations."
+  },
+  {
+    "sentence": "この建物は地域の文化の中心です。",
+    "sentence_furigana": "この建物【たてもの】は地域【ちいき】の文化【ぶんか】の中心【ちゅうしん】です。",
+    "meaning": "This building is the center of the region's culture."
+  },
+  {
+    "sentence": "図書館は情報提供の役割を担っています。",
+    "sentence_furigana": "図書館【としょかん】は情報提供【じょうほうていきょう】の役割【やくわり】を担【にな】っています。",
+    "meaning": "The library plays a role in providing information."
+  },
+  {
+    "sentence": "彼らは古い館の庭園を一般公開した。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】い館【やかた】の庭園【ていえん】を一般公開【いっぱんこうかい】しました。",
+    "meaning": "They opened the gardens of the old mansion to the public."
+  },
+  {
+    "sentence": "博物館の建物は改築されました。",
+    "sentence_furigana": "博物館【はくぶつかん】の建物【たてもの】は改築【かいちく】されました。",
+    "meaning": "The museum building was remodeled."
+  },
+  {
+    "sentence": "大使館は文化大使を派遣しました。",
+    "sentence_furigana": "大使館【たいしかん】は文化大使【ぶんかたいし】を派遣【はけん】しました。",
+    "meaning": "The embassy dispatched a cultural ambassador."
+  }
+]

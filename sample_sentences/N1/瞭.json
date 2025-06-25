@@ -1,0 +1,512 @@
+[
+  {
+    "sentence": "その計画は非常に瞭明である。",
+    "sentence_furigana": "その計画【けいかく】は非常【ひじょう】に瞭明【りょうめい】である。",
+    "meaning": "That plan is very clear."
+  },
+  {
+    "sentence": "彼の意図は瞭然としていた。",
+    "sentence_furigana": "彼【かれ】の意図【いと】は瞭然【りょうぜん】としていた。",
+    "meaning": "His intention was obvious."
+  },
+  {
+    "sentence": "事態はより瞭明になった。",
+    "sentence_furigana": "事態【じたい】はより瞭明【りょうめい】になった。",
+    "meaning": "The situation became clearer."
+  },
+  {
+    "sentence": "その報告書は瞭解を深めるのに役立った。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は瞭解【りょうかい】を深【ふか】めるのに役立【やくだ】った。",
+    "meaning": "The report helped deepen understanding."
+  },
+  {
+    "sentence": "彼女の態度は瞭察できるものだった。",
+    "sentence_furigana": "彼女【かのじょ】の態度【たいど】は瞭察【りょうさつ】できるものだった。",
+    "meaning": "Her attitude was observable."
+  },
+  {
+    "sentence": "状況は瞭明性を欠いていた。",
+    "sentence_furigana": "状況【じょうきょう】は瞭明性【りょうめいせい】を欠【か】いていた。",
+    "meaning": "The situation lacked clarity."
+  },
+  {
+    "sentence": "我々は問題の瞭明に努めた。",
+    "sentence_furigana": "我々【われわれ】は問題【もんだい】の瞭明【りょうめい】に努【つと】めた。",
+    "meaning": "We strived for clarity on the issue."
+  },
+  {
+    "sentence": "この資料はすべてを瞭示すている。",
+    "sentence_furigana": "この資料【しりょう】はすべてを瞭示【りょうじ】している。",
+    "meaning": "This document clarifies everything."
+  },
+  {
+    "sentence": "彼の発言は依然として瞭明ではない。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は依然【いぜん】として瞭明【りょうめい】ではない。",
+    "meaning": "His statement is still not clear."
+  },
+  {
+    "sentence": "事実関係は既に瞭明している。",
+    "sentence_furigana": "事実関係【じじつかんけい】は既【すで】に瞭明【りょうめい】している。",
+    "meaning": "The facts are already clear."
+  },
+  {
+    "sentence": "その事件は瞭望できる範囲内にある。",
+    "sentence_furigana": "その事件【じけん】は瞭望【りょうぼう】できる範囲内【はんいない】にある。",
+    "meaning": "The incident is within sight."
+  },
+  {
+    "sentence": "彼の功績は瞭明である。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は瞭明【りょうめい】である。",
+    "meaning": "His achievements are evident."
+  },
+  {
+    "sentence": "証拠がすべてを瞭明させた。",
+    "sentence_furigana": "証拠【しょうこ】がすべてを瞭明【りょうめい】させた。",
+    "meaning": "The evidence made everything clear."
+  },
+  {
+    "sentence": "遠景は非常に瞭視できた。",
+    "sentence_furigana": "遠景【えんけい】は非常【ひじょう】に瞭視【りょうし】できた。",
+    "meaning": "The distant view was very clear."
+  },
+  {
+    "sentence": "彼の決意は瞭々としていた。",
+    "sentence_furigana": "彼【かれ】の決意【けつい】は瞭々【りょうりょう】としていた。",
+    "meaning": "His determination was clear."
+  },
+  {
+    "sentence": "この情報は瞭明性を増すだろう。",
+    "sentence_furigana": "この情報【じょうほう】は瞭明性【りょうめいせい】を増【ま】すだろう。",
+    "meaning": "This information will increase clarity."
+  },
+  {
+    "sentence": "その目的は瞭然としている。",
+    "sentence_furigana": "その目的【もくてき】は瞭然【りょうぜん】としている。",
+    "meaning": "The purpose is obvious."
+  },
+  {
+    "sentence": "彼の説明は十分瞭明だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は十分【じゅうぶん】瞭明【りょうめい】だった。",
+    "meaning": "His explanation was sufficiently clear."
+  },
+  {
+    "sentence": "この地図は瞭明に描かれている。",
+    "sentence_furigana": "この地図【ちず】は瞭明【りょうめい】に描【か】かれている。",
+    "meaning": "This map is drawn clearly."
+  },
+  {
+    "sentence": "問題の本質を瞭明する必要がある。",
+    "sentence_furigana": "問題【もんだい】の本質【ほんしつ】を瞭明【りょうめい】する必要【ひつよう】がある。",
+    "meaning": "We need to clarify the essence of the problem."
+  },
+  {
+    "sentence": "彼の行動は瞭解を促した。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は瞭解【りょうかい】を促【うなが】した。",
+    "meaning": "His actions prompted understanding."
+  },
+  {
+    "sentence": "その風景は非常に瞭らかだった。",
+    "sentence_furigana": "その風景【ふうけい】は非常【ひじょう】に瞭（あきらか）らかだった。",
+    "meaning": "The scenery was very clear."
+  },
+  {
+    "sentence": "状況は次第に瞭明してきた。",
+    "sentence_furigana": "状況【じょうきょう】は次第【しだい】に瞭明【りょうめい】してきた。",
+    "meaning": "The situation gradually became clearer."
+  },
+  {
+    "sentence": "彼の発言は瞭然としていた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は瞭然【りょうぜん】としていた。",
+    "meaning": "His statement was obvious."
+  },
+  {
+    "sentence": "この文書で意図は瞭明された。",
+    "sentence_furigana": "この文書【ぶんしょ】で意図【いと】は瞭明【りょうめい】された。",
+    "meaning": "The intention was clarified by this document."
+  },
+  {
+    "sentence": "我々は事実を瞭明しようとした。",
+    "sentence_furigana": "我々【われわれ】は事実【じじつ】を瞭明【りょうめい】しようとした。",
+    "meaning": "We tried to clarify the facts."
+  },
+  {
+    "sentence": "この調査は事態を瞭明するだろう。",
+    "sentence_furigana": "この調査【ちょうさ】は事態【じたい】を瞭明【りょうめい】するだろう。",
+    "meaning": "This investigation will clarify the situation."
+  },
+  {
+    "sentence": "彼の表情は瞭明だった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】は瞭明【りょうめい】だった。",
+    "meaning": "His expression was clear."
+  },
+  {
+    "sentence": "その指示は十分瞭明だった。",
+    "sentence_furigana": "その指示【しじ】は十分【じゅうぶん】瞭明【りょうめい】だった。",
+    "meaning": "The instructions were sufficiently clear."
+  },
+  {
+    "sentence": "目的は瞭然と示されていた。",
+    "sentence_furigana": "目的【もくてき】は瞭然【りょうぜん】と示【しめ】されていた。",
+    "meaning": "The objective was clearly indicated."
+  },
+  {
+    "sentence": "その情報は瞭明性を欠いていた。",
+    "sentence_furigana": "その情報【じょうほう】は瞭明性【りょうめいせい】を欠【か】いていた。",
+    "meaning": "That information lacked clarity."
+  },
+  {
+    "sentence": "この設計図は瞭明に書かれている。",
+    "sentence_furigana": "この設計図【せっけいず】は瞭明【りょうめい】に書【か】かれている。",
+    "meaning": "This blueprint is clearly written."
+  },
+  {
+    "sentence": "彼の意図は瞭察できた。",
+    "sentence_furigana": "彼【かれ】の意図【いと】は瞭察【りょうさつ】できた。",
+    "meaning": "His intention could be understood."
+  },
+  {
+    "sentence": "この絵は明るく瞭らかだ。",
+    "sentence_furigana": "この絵【え】は明【あか】るく瞭（あきらか）らかだ。",
+    "meaning": "This picture is bright and clear."
+  },
+  {
+    "sentence": "状況は一段と瞭明になった。",
+    "sentence_furigana": "状況【じょうきょう】は一段【いちだん】と瞭明【りょうめい】になった。",
+    "meaning": "The situation became even clearer."
+  },
+  {
+    "sentence": "彼の説明は瞭明性を高めた。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は瞭明性【りょうめいせい】を高【たか】めた。",
+    "meaning": "His explanation increased clarity."
+  },
+  {
+    "sentence": "その発見は事態を瞭明させた。",
+    "sentence_furigana": "その発見【はっけん】は事態【じたい】を瞭明【りょうめい】させた。",
+    "meaning": "The discovery clarified the situation."
+  },
+  {
+    "sentence": "彼の態度は瞭然としていた。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は瞭然【りょうぜん】としていた。",
+    "meaning": "His attitude was obvious."
+  },
+  {
+    "sentence": "我々は真相を瞭明する。",
+    "sentence_furigana": "我々【われわれ】は真相【しんそう】を瞭明【りょうめい】する。",
+    "meaning": "We will clarify the truth."
+  },
+  {
+    "sentence": "この論文は理論を瞭明している。",
+    "sentence_furigana": "この論文【ろんぶん】は理論【りろん】を瞭明【りょうめい】している。",
+    "meaning": "This paper clarifies the theory."
+  },
+  {
+    "sentence": "彼の言葉は瞭明な示唆に富んでいた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は瞭明【りょうめい】な示唆【しさ】に富【と】んでいた。",
+    "meaning": "His words were full of clear suggestions."
+  },
+  {
+    "sentence": "この計画は瞭明な目標を持つ。",
+    "sentence_furigana": "この計画【けいかく】は瞭明【りょうめい】な目標【もくひょう】を持【も】つ。",
+    "meaning": "This plan has a clear objective."
+  },
+  {
+    "sentence": "状況はさらに瞭明になった。",
+    "sentence_furigana": "状況【じょうきょう】はさらに瞭明【りょうめい】になった。",
+    "meaning": "The situation became even clearer."
+  },
+  {
+    "sentence": "彼の意図は瞭瞭と見て取れた。",
+    "sentence_furigana": "彼【かれ】の意図【いと】は瞭瞭【りょうりょう】と見【み】て取【と】れた。",
+    "meaning": "His intention was clearly discernible."
+  },
+  {
+    "sentence": "その声明は事態を瞭明した。",
+    "sentence_furigana": "その声明【せいめい】は事態【じたい】を瞭明【りょうめい】した。",
+    "meaning": "The statement clarified the situation."
+  },
+  {
+    "sentence": "我々は事実関係を瞭明した。",
+    "sentence_furigana": "我々【われわれ】は事実関係【じじつかんけい】を瞭明【りょうめい】した。",
+    "meaning": "We clarified the facts."
+  },
+  {
+    "sentence": "この件はさらに瞭明されるべきだ。",
+    "sentence_furigana": "この件【けん】はさらに瞭明【りょうめい】されるべきだ。",
+    "meaning": "This matter should be further clarified."
+  },
+  {
+    "sentence": "彼の態度は瞭然たるものだった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は瞭然【りょうぜん】たるものだった。",
+    "meaning": "His attitude was obvious."
+  },
+  {
+    "sentence": "この文書は詳細を瞭明している。",
+    "sentence_furigana": "この文書【ぶんしょ】は詳細【しょうさい】を瞭明【りょうめい】している。",
+    "meaning": "This document clarifies the details."
+  },
+  {
+    "sentence": "彼の発言はより瞭明性を増した。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】はより瞭明性【りょうめいせい】を増【ま】した。",
+    "meaning": "His statement increased clarity."
+  },
+  {
+    "sentence": "その説明は極めて瞭明だった。",
+    "sentence_furigana": "その説明【せつめい】は極【きわ】めて瞭明【りょうめい】だった。",
+    "meaning": "That explanation was extremely clear."
+  },
+  {
+    "sentence": "我々は事実を瞭明するために集まった。",
+    "sentence_furigana": "我々【われわれ】は事実【じじつ】を瞭明【りょうめい】するために集【あつ】まった。",
+    "meaning": "We gathered to clarify the facts."
+  },
+  {
+    "sentence": "彼の貢献は瞭明である。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は瞭明【りょうめい】である。",
+    "meaning": "His contribution is clear."
+  },
+  {
+    "sentence": "この情報は状況を瞭明させる。",
+    "sentence_furigana": "この情報【じょうほう】は状況【じょうきょう】を瞭明【りょうめい】させる。",
+    "meaning": "This information clarifies the situation."
+  },
+  {
+    "sentence": "彼の意図は瞭察できるよう努めた。",
+    "sentence_furigana": "彼【かれ】の意図【いと】は瞭察【りょうさつ】できるよう努【つと】めた。",
+    "meaning": "We tried to make his intention observable."
+  },
+  {
+    "sentence": "その理由は瞭然としていた。",
+    "sentence_furigana": "その理由【りゆう】は瞭然【りょうぜん】としていた。",
+    "meaning": "The reason was obvious."
+  },
+  {
+    "sentence": "この報告は問題点を瞭明にした。",
+    "sentence_furigana": "この報告【ほうこく】は問題点【もんだいてん】を瞭明【りょうめい】にした。",
+    "meaning": "This report clarified the problem points."
+  },
+  {
+    "sentence": "彼の言葉遣いは非常に瞭明だった。",
+    "sentence_furigana": "彼【かれ】の言葉遣【ことばづか】いは非常【ひじょう】に瞭明【りょうめい】だった。",
+    "meaning": "His way of speaking was very clear."
+  },
+  {
+    "sentence": "状況はより瞭然とした。",
+    "sentence_furigana": "状況【じょうきょう】はより瞭然【りょうぜん】とした。",
+    "meaning": "The situation became more obvious."
+  },
+  {
+    "sentence": "我々は新しい情報を瞭明した。",
+    "sentence_furigana": "我々【われわれ】は新【あたら】しい情報【じょうほう】を瞭明【りょうめい】した。",
+    "meaning": "We clarified the new information."
+  },
+  {
+    "sentence": "この会議は認識を瞭明させる。",
+    "sentence_furigana": "この会議【かいぎ】は認識【にんしき】を瞭明【りょうめい】させる。",
+    "meaning": "This meeting clarifies recognition."
+  },
+  {
+    "sentence": "彼の行動様式は瞭明だった。",
+    "sentence_furigana": "彼【かれ】の行動様式【こうどうようしき】は瞭明【りょうめい】だった。",
+    "meaning": "His behavioral pattern was clear."
+  },
+  {
+    "sentence": "その原因は既に瞭明している。",
+    "sentence_furigana": "その原因【げんいん】は既【すで】に瞭明【りょうめい】している。",
+    "meaning": "The cause is already clear."
+  },
+  {
+    "sentence": "我々は証拠を瞭明する義務がある。",
+    "sentence_furigana": "我々【われわれ】は証拠【しょうこ】を瞭明【りょうめい】する義務【ぎむ】がある。",
+    "meaning": "We have a duty to clarify the evidence."
+  },
+  {
+    "sentence": "この論文は結果を瞭明している。",
+    "sentence_furigana": "この論文【ろんぶん】は結果【けっか】を瞭明【りょうめい】している。",
+    "meaning": "This paper clarifies the results."
+  },
+  {
+    "sentence": "彼の態度は瞭察可能だった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は瞭察可能【りょうさつかのう】だった。",
+    "meaning": "His attitude was observable."
+  },
+  {
+    "sentence": "状況はさらに瞭明されていく。",
+    "sentence_furigana": "状況【じょうきょう】はさらに瞭明【りょうめい】されていく。",
+    "meaning": "The situation is becoming clearer."
+  },
+  {
+    "sentence": "その説明は瞭明性を十分にもっていた。",
+    "sentence_furigana": "その説明【せつめい】は瞭明性【りょうめいせい】を十分【じゅうぶん】にもっていた。",
+    "meaning": "That explanation had sufficient clarity."
+  },
+  {
+    "sentence": "彼の決断は瞭然としていた。",
+    "sentence_furigana": "彼【かれ】の決断【けつだん】は瞭然【りょうぜん】としていた。",
+    "meaning": "His decision was obvious."
+  },
+  {
+    "sentence": "このデータは事実を瞭明する。",
+    "sentence_furigana": "このデータは事実【じじつ】を瞭明【りょうめい】する。",
+    "meaning": "This data clarifies the facts."
+  },
+  {
+    "sentence": "我々は彼の意図を瞭明しようとした。",
+    "sentence_furigana": "我々【われわれ】は彼【かれ】の意図【いと】を瞭明【りょうめい】しようとした。",
+    "meaning": "We tried to clarify his intention."
+  },
+  {
+    "sentence": "その指針は瞭明に示されていた。",
+    "sentence_furigana": "その指針【ししん】は瞭明【りょうめい】に示【しめ】されていた。",
+    "meaning": "Those guidelines were clearly indicated."
+  },
+  {
+    "sentence": "彼の言葉は誤解を瞭明させた。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は誤解【ごかい】を瞭明【りょうめい】させた。",
+    "meaning": "His words clarified the misunderstanding."
+  },
+  {
+    "sentence": "状況はより瞭明性を増した。",
+    "sentence_furigana": "状況【じょうきょう】はより瞭明性【りょうめいせい】を増【ま】した。",
+    "meaning": "The situation gained more clarity."
+  },
+  {
+    "sentence": "この分析は結論を瞭明する。",
+    "sentence_furigana": "この分析【ぶんせき】は結論【けつろん】を瞭明【りょうめい】する。",
+    "meaning": "This analysis clarifies the conclusion."
+  },
+  {
+    "sentence": "彼の表情から意図は瞭明だった。",
+    "sentence_furigana": "彼【かれ】の表情【ひょうじょう】から意図【いと】は瞭明【りょうめい】だった。",
+    "meaning": "His intention was clear from his expression."
+  },
+  {
+    "sentence": "その事実は瞭然としていた。",
+    "sentence_furigana": "その事実【じじつ】は瞭然【りょうぜん】としていた。",
+    "meaning": "That fact was obvious."
+  },
+  {
+    "sentence": "我々は問題点を瞭明する必要がある。",
+    "sentence_furigana": "我々【われわれ】は問題点【もんだいてん】を瞭明【りょうめい】する必要【ひつよう】がある。",
+    "meaning": "We need to clarify the problem points."
+  },
+  {
+    "sentence": "彼の態度は瞭明かつ率直だった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は瞭明【りょうめい】かつ率直【そっちょく】だった。",
+    "meaning": "His attitude was clear and frank."
+  },
+  {
+    "sentence": "この情報は進展を瞭明させる。",
+    "sentence_furigana": "この情報【じょうほう】は進展【しんてん】を瞭明【りょうめい】させる。",
+    "meaning": "This information clarifies the progress."
+  },
+  {
+    "sentence": "彼の説明はさらに瞭明になった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】はさらに瞭明【りょうめい】になった。",
+    "meaning": "His explanation became clearer."
+  },
+  {
+    "sentence": "状況は一目瞭然だった。",
+    "sentence_furigana": "状況【じょうきょう】は一目瞭然【いちもくりょうぜん】だった。",
+    "meaning": "The situation was self-evident."
+  },
+  {
+    "sentence": "その証拠は全てを瞭明した。",
+    "sentence_furigana": "その証拠【しょうこ】はすべてを瞭明【りょうめい】した。",
+    "meaning": "That evidence clarified everything."
+  },
+  {
+    "sentence": "我々は目的を瞭明しようとした。",
+    "sentence_furigana": "我々【われわれ】は目的【もくてき】を瞭明【りょうめい】しようとした。",
+    "meaning": "We tried to clarify the objective."
+  },
+  {
+    "sentence": "彼の発言は極めて瞭明だった。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は極【きわ】めて瞭明【りょうめい】だった。",
+    "meaning": "His statement was extremely clear."
+  },
+  {
+    "sentence": "この調査は進捗を瞭明した。",
+    "sentence_furigana": "この調査【ちょうさ】は進捗【しんちょく】を瞭明【りょうめい】した。",
+    "meaning": "This investigation clarified the progress."
+  },
+  {
+    "sentence": "彼の意図は瞭明であった。",
+    "sentence_furigana": "彼【かれ】の意図【いと】は瞭明【りょうめい】であった。",
+    "meaning": "His intention was clear."
+  },
+  {
+    "sentence": "その状況は瞭然としていた。",
+    "sentence_furigana": "その状況【じょうきょう】は瞭然【りょうぜん】としていた。",
+    "meaning": "The situation was obvious."
+  },
+  {
+    "sentence": "我々は誤解を瞭明する。",
+    "sentence_furigana": "我々【われわれ】は誤解【ごかい】を瞭明【りょうめい】する。",
+    "meaning": "We will clarify the misunderstanding."
+  },
+  {
+    "sentence": "この資料は状況を瞭明させている。",
+    "sentence_furigana": "この資料【しりょう】は状況【じょうきょう】を瞭明【りょうめい】させている。",
+    "meaning": "This document is clarifying the situation."
+  },
+  {
+    "sentence": "彼の態度は瞭明かつ簡潔だった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は瞭明【りょうめい】かつ簡潔【かんけつ】だった。",
+    "meaning": "His attitude was clear and concise."
+  },
+  {
+    "sentence": "その原因は次第に瞭明していく。",
+    "sentence_furigana": "その原因【げんいん】は次第【しだい】に瞭明【りょうめい】していく。",
+    "meaning": "The cause is gradually becoming clear."
+  },
+  {
+    "sentence": "我々は証拠に基づいて瞭明した。",
+    "sentence_furigana": "我々【われわれ】は証拠【しょうこ】に基づ【もとづ】いて瞭明【りょうめい】した。",
+    "meaning": "We clarified based on the evidence."
+  },
+  {
+    "sentence": "この分析は原因を瞭明した。",
+    "sentence_furigana": "この分析【ぶんせき】は原因【げんいん】を瞭明【りょうめい】した。",
+    "meaning": "This analysis clarified the cause."
+  },
+  {
+    "sentence": "彼の言葉は非常に瞭明なものだった。",
+    "sentence_furigana": "彼【かれ】の言葉【ことば】は非常【ひじょう】に瞭明【りょうめい】なものだった。",
+    "meaning": "His words were very clear."
+  },
+  {
+    "sentence": "状況は一目瞭然とする。",
+    "sentence_furigana": "状況【じょうきょう】は一目瞭然【いちもくりょうぜん】とする。",
+    "meaning": "The situation is self-evident."
+  },
+  {
+    "sentence": "その発見は事実に瞭明をもたらした。",
+    "sentence_furigana": "その発見【はっけん】は事実【じじつ】に瞭明【りょうめい】をもたらした。",
+    "meaning": "The discovery brought clarity to the facts."
+  },
+  {
+    "sentence": "我々は誤解の解消に瞭明を期した。",
+    "sentence_furigana": "我々【われわれ】は誤解【ごかい】の解消【かいしょう】に瞭明【りょうめい】を期【き】した。",
+    "meaning": "We aimed for clarity in resolving misunderstandings."
+  },
+  {
+    "sentence": "この情報で全体像は瞭明される。",
+    "sentence_furigana": "この情報【じょうほう】で全体像【ぜんたいぞう】は瞭明【りょうめい】される。",
+    "meaning": "With this information, the overall picture will be clarified."
+  },
+  {
+    "sentence": "彼の態度は瞭明であったと言える。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は瞭明【りょうめい】であったと言【い】える。",
+    "meaning": "It can be said that his attitude was clear."
+  },
+  {
+    "sentence": "その報告は結果を瞭明した。",
+    "sentence_furigana": "その報告【ほうこく】は結果【けっか】を瞭明【りょうめい】した。",
+    "meaning": "The report clarified the results."
+  },
+  {
+    "sentence": "我々は進捗状況を瞭明しようとした。",
+    "sentence_furigana": "我々【われわれ】は進捗状況【しんちょくじょうきょう】を瞭明【りょうめい】しようとした。",
+    "meaning": "We tried to clarify the progress."
+  }
+]

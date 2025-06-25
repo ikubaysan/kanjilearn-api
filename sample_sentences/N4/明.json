@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "明日は晴れるでしょう。",
+    "sentence_furigana": "明日【あす】は晴【は】れるでしょう。",
+    "meaning": "It will likely be sunny tomorrow."
+  },
+  {
+    "sentence": "明るい未来を信じたい。",
+    "sentence_furigana": "明【あか】るい未来【みらい】を信【しん】じたい。",
+    "meaning": "I want to believe in a bright future."
+  },
+  {
+    "sentence": "彼の説明は明らかだった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は明【あき】らかだった。",
+    "meaning": "His explanation was clear."
+  },
+  {
+    "sentence": "夜が明けるのを待った。",
+    "sentence_furigana": "夜【よる】が明【あ】けるのを待【ま】った。",
+    "meaning": "I waited for the night to end."
+  },
+  {
+    "sentence": "透明なガラスは光を反射する。",
+    "sentence_furigana": "透明【とうめい】なガラスは光【ひかり】を反射【はんしゃ】する。",
+    "meaning": "Transparent glass reflects light."
+  },
+  {
+    "sentence": "明朝、駅で会いましょう。",
+    "sentence_furigana": "明朝【みょうちょう】、駅【えき】で会【あ】いましょう。",
+    "meaning": "Let's meet at the station tomorrow morning."
+  },
+  {
+    "sentence": "その考えは明白だ。",
+    "sentence_furigana": "その考【かんが】えは明白【めいはく】だ。",
+    "meaning": "That idea is obvious."
+  },
+  {
+    "sentence": "彼はとても明るい人だ。",
+    "sentence_furigana": "彼【かれ】はとても明【あか】るい人【ひと】だ。",
+    "meaning": "He is a very cheerful person."
+  },
+  {
+    "sentence": "説明が明らかになってきた。",
+    "sentence_furigana": "説明【せつめい】が明【あき】らかになってきた。",
+    "meaning": "The explanation has become clear."
+  },
+  {
+    "sentence": "夜明け前は一番暗い。",
+    "sentence_furigana": "夜明【よあ】け前【まえ】は一番【いちばん】暗【くら】い。",
+    "meaning": "It's darkest before dawn."
+  },
+  {
+    "sentence": "照明が明るすぎる。",
+    "sentence_furigana": "照明【しょうめい】が明【あか】るすぎる。",
+    "meaning": "The lighting is too bright."
+  },
+  {
+    "sentence": "文明の光を見た。",
+    "sentence_furigana": "文明【ぶんめい】の光【ひかり】を見【み】た。",
+    "meaning": "I saw the light of civilization."
+  },
+  {
+    "sentence": "明日の予定を確認する。",
+    "sentence_furigana": "明日【あす】の予定【よてい】を確認【かくにん】する。",
+    "meaning": "I will confirm tomorrow's schedule."
+  },
+  {
+    "sentence": "彼の顔が明るくなった。",
+    "sentence_furigana": "彼【かれ】の顔【かお】が明【あか】るくなった。",
+    "meaning": "His face brightened."
+  },
+  {
+    "sentence": "問題点は明確にすべきだ。",
+    "sentence_furigana": "問題点【もんだいてん】は明確【めいかく】にすべきだ。",
+    "meaning": "The problem points should be clarified."
+  },
+  {
+    "sentence": "夜明けの空は美しい。",
+    "sentence_furigana": "夜明【よあ】けの空【そら】は美【うつく】しい。",
+    "meaning": "The dawn sky is beautiful."
+  },
+  {
+    "sentence": "明らかな間違いだ。",
+    "sentence_furigana": "明【あき】らかな間違【まちが】いだ。",
+    "meaning": "It is a clear mistake."
+  },
+  {
+    "sentence": "明太子が好きです。",
+    "sentence_furigana": "明【めん】太子【たい】こが好きです。",
+    "meaning": "I like mentaiko (spicy cod roe)."
+  },
+  {
+    "sentence": "照明を明るくしてください。",
+    "sentence_furigana": "照明【しょうめい】を明【あか】るくしてください。",
+    "meaning": "Please make the lighting brighter."
+  },
+  {
+    "sentence": "未来は明るいと信じている。",
+    "sentence_furigana": "未来【みらい】は明【あか】るいと信【しん】じている。",
+    "meaning": "I believe the future is bright."
+  },
+  {
+    "sentence": "説明がより明確になった。",
+    "sentence_furigana": "説明【せつめい】がより明確【めいかく】になった。",
+    "meaning": "The explanation became clearer."
+  },
+  {
+    "sentence": "明日は雨が降るそうだ。",
+    "sentence_furigana": "明日【あす】は雨【あめ】が降【ふ】るそうだ。",
+    "meaning": "I hear it will rain tomorrow."
+  },
+  {
+    "sentence": "彼の説明はあまりにも不明瞭だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】はあまりにも不明瞭【ふめいりょう】だった。",
+    "meaning": "His explanation was too unclear."
+  },
+  {
+    "sentence": "夜明けとともに活動を開始した。",
+    "sentence_furigana": "夜明【よあ】けとともに活動【かつどう】を開始【かいし】した。",
+    "meaning": "We started our activities at dawn."
+  },
+  {
+    "sentence": "明るい声で挨拶した。",
+    "sentence_furigana": "明【あか】るい声【こえ】で挨拶【あいさつ】した。",
+    "meaning": "He greeted with a bright voice."
+  },
+  {
+    "sentence": "この部屋は明るい。",
+    "sentence_furigana": "この部屋【へや】は明【あか】るい。",
+    "meaning": "This room is bright."
+  },
+  {
+    "sentence": "明らかな証拠が見つかった。",
+    "sentence_furigana": "明【あき】らかな証拠【しょうこ】が見【み】つかった。",
+    "meaning": "Clear evidence was found."
+  },
+  {
+    "sentence": "日の出を見るために早起きした。",
+    "sentence_furigana": "日の出【ひので】を見【み】るために早起【はやお】きした。",
+    "meaning": "I woke up early to see the sunrise."
+  },
+  {
+    "sentence": "明日は会議がある。",
+    "sentence_furigana": "明日【あす】は会議【かいぎ】がある。",
+    "meaning": "There is a meeting tomorrow."
+  },
+  {
+    "sentence": "この絵は光をよく捉えている。",
+    "sentence_furigana": "この絵【え】は光【ひかり】をよく捉【とら】えている。",
+    "meaning": "This painting captures light well."
+  },
+  {
+    "sentence": "彼の意見は明確だった。",
+    "sentence_furigana": "彼【かれ】の意見【いけん】は明確【めいかく】だった。",
+    "meaning": "His opinion was clear."
+  },
+  {
+    "sentence": "夜が明けていく。",
+    "sentence_furigana": "夜【よる】が明【あ】けていく。",
+    "meaning": "Dawn is breaking."
+  },
+  {
+    "sentence": "明るい未来のために努力しよう。",
+    "sentence_furigana": "明【あか】るい未来【みらい】のために努力【どりょく】しよう。",
+    "meaning": "Let's work hard for a bright future."
+  },
+  {
+    "sentence": "説明は明快だった。",
+    "sentence_furigana": "説明【せつめい】は明快【めいかい】だった。",
+    "meaning": "The explanation was lucid."
+  },
+  {
+    "sentence": "この部屋は自然光がたくさん入る。",
+    "sentence_furigana": "この部屋【へや】は自然光【しぜんこう】がたくさん入【はい】る。",
+    "meaning": "This room gets a lot of natural light."
+  },
+  {
+    "sentence": "明日は休みです。",
+    "sentence_furigana": "明日【あす】は休【やす】みです。",
+    "meaning": "Tomorrow is a holiday."
+  },
+  {
+    "sentence": "彼の説明は明らかでした。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は明【あき】らかでした。",
+    "meaning": "His explanation was clear."
+  },
+  {
+    "sentence": "夜明け前の空は静かだ。",
+    "sentence_furigana": "夜明【よあ】け前【まえ】の空【そら】は静【しず】かだ。",
+    "meaning": "The sky before dawn is quiet."
+  },
+  {
+    "sentence": "彼女の声は明るい。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】は明【あか】るい。",
+    "meaning": "Her voice is cheerful."
+  },
+  {
+    "sentence": "この度は誠にありがとうございました。",
+    "sentence_furigana": "この度【たび】は誠【まこと】にありがとうございました。",
+    "meaning": "Thank you very much for this occasion."
+  },
+  {
+    "sentence": "明日、また来てください。",
+    "sentence_furigana": "明日【あす】、また来【き】てください。",
+    "meaning": "Please come again tomorrow."
+  },
+  {
+    "sentence": "その理由を明確に教えてください。",
+    "sentence_furigana": "その理由【りゆう】を明確【めいかく】に教【おし】えてください。",
+    "meaning": "Please clearly tell me the reason."
+  },
+  {
+    "sentence": "光り輝く星が夜空に浮かんでいた。",
+    "sentence_furigana": "光【ひか】り輝【かがや】く星【ほし】が夜空【よぞら】に浮【う】かんでいた。",
+    "meaning": "Shining stars floated in the night sky."
+  },
+  {
+    "sentence": "夜明けとともに新しい一日が始まる。",
+    "sentence_furigana": "夜明【よあ】けとともに新【あら】しい一日【いちにち】が始【はじ】まる。",
+    "meaning": "A new day begins with the dawn."
+  },
+  {
+    "sentence": "彼の態度は明るかった。",
+    "sentence_furigana": "彼【かれ】の態度【たいど】は明【あか】るかった。",
+    "meaning": "His attitude was cheerful."
+  },
+  {
+    "sentence": "明日は特別な日だ。",
+    "sentence_furigana": "明日【あす】は特別【とくべつ】な日【ひ】だ。",
+    "meaning": "Tomorrow is a special day."
+  },
+  {
+    "sentence": "この状況は明らかだ。",
+    "sentence_furigana": "この状況【じょうきょう】は明【あき】らかだ。",
+    "meaning": "This situation is clear."
+  },
+  {
+    "sentence": "照明を少し暗くしてください。",
+    "sentence_furigana": "照明【しょうめい】を少【すこ】し暗【くら】くしてください。",
+    "meaning": "Please dim the lighting a bit."
+  },
+  {
+    "sentence": "明日の天気が気になる。",
+    "sentence_furigana": "明日【あす】の天気【てんき】が気【き】になる。",
+    "meaning": "I'm curious about tomorrow's weather."
+  },
+  {
+    "sentence": "説明は明確で分かりやすかった。",
+    "sentence_furigana": "説明【せつめい】は明確【めいかく】で分【わ】かりやすかった。",
+    "meaning": "The explanation was clear and easy to understand."
+  },
+  {
+    "sentence": "明るい未来を築こう。",
+    "sentence_furigana": "明【あか】るい未来【みらい】を築【きず】こう。",
+    "meaning": "Let's build a bright future."
+  },
+  {
+    "sentence": "彼は夜明け前に家を出た。",
+    "sentence_furigana": "彼【かれ】は夜明【よあ】け前【まえ】に家【いえ】を出【で】た。",
+    "meaning": "He left home before dawn."
+  },
+  {
+    "sentence": "この部屋は日当たりが良い。",
+    "sentence_furigana": "この部屋【へや】は日当【ひあ】たりが良い【よい】。",
+    "meaning": "This room gets good sunlight."
+  },
+  {
+    "sentence": "明日は休日です。",
+    "sentence_furigana": "明日【あす】は休日【きゅうじつ】です。",
+    "meaning": "Tomorrow is a holiday."
+  },
+  {
+    "sentence": "その意図は明白である。",
+    "sentence_furigana": "その意図【いと】は明白【めいはく】である。",
+    "meaning": "The intention is clear."
+  },
+  {
+    "sentence": "明るい性格の持ち主だ。",
+    "sentence_furigana": "明【あか】るい性格【せいかく】の持【も】ち主【ぬし】だ。",
+    "meaning": "She has a cheerful personality."
+  },
+  {
+    "sentence": "問題の所在を明らかにしてください。",
+    "sentence_furigana": "問題【もんだい】の所在【しょざい】を明【あき】らかにしてください。",
+    "meaning": "Please clarify the location of the problem."
+  },
+  {
+    "sentence": "夜明けの光が差し込んできた。",
+    "sentence_furigana": "夜明【よあ】けの光【ひかり】が差【さ】し込【こ】んできた。",
+    "meaning": "The dawn light streamed in."
+  },
+  {
+    "sentence": "明後日は友人の誕生日だ。",
+    "sentence_furigana": "明後日【あさって】は友人【ゆうじん】の誕生日【たんじょうび】だ。",
+    "meaning": "The day after tomorrow is my friend's birthday."
+  },
+  {
+    "sentence": "この情報は確かだ。",
+    "sentence_furigana": "この情報【じょうほう】は確か【たし】かだ。",
+    "meaning": "This information is certain."
+  },
+  {
+    "sentence": "照明を調節する。",
+    "sentence_furigana": "照明【しょうめい】を調節【ちょうせつ】する。",
+    "meaning": "I will adjust the lighting."
+  },
+  {
+    "sentence": "明日は大事な試験がある。",
+    "sentence_furigana": "明日【あす】は大事【だいじ】な試験【しけん】がある。",
+    "meaning": "I have an important exam tomorrow."
+  },
+  {
+    "sentence": "彼女は常に明るい。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に明【あか】るい。",
+    "meaning": "She is always cheerful."
+  },
+  {
+    "sentence": "説明は明確を期する。",
+    "sentence_furigana": "説明【せつめい】は明確【めいかく】を期【き】する。",
+    "meaning": "We aim for clarity in our explanations."
+  },
+  {
+    "sentence": "夜明け前の静寂。",
+    "sentence_furigana": "夜明【よあ】け前【まえ】の静寂【せいじゃく】。",
+    "meaning": "The silence before dawn."
+  },
+  {
+    "sentence": "明示的な指示が必要だ。",
+    "sentence_furigana": "明示的【めいじてき】な指示【しじ】が必要【ひつよう】だ。",
+    "meaning": "Explicit instructions are needed."
+  },
+  {
+    "sentence": "明るい希望を抱く。",
+    "sentence_furigana": "明【あか】るい希望【きぼう】を抱【いだ】く。",
+    "meaning": "I hold onto bright hope."
+  },
+  {
+    "sentence": "この結果は明らかだ。",
+    "sentence_furigana": "この結果【けっか】は明【あき】らかだ。",
+    "meaning": "This result is clear."
+  },
+  {
+    "sentence": "明日は早起きするつもりです。",
+    "sentence_furigana": "明日【あす】は早起【はやお】きするつもりです。",
+    "meaning": "I plan to wake up early tomorrow."
+  },
+  {
+    "sentence": "彼は明るく振る舞った。",
+    "sentence_furigana": "彼【かれ】は明【あか】るく振【ふ】る舞【ま】った。",
+    "meaning": "He behaved cheerfully."
+  },
+  {
+    "sentence": "明らかな間違いを犯した。",
+    "sentence_furigana": "明【あき】らかな間違【まちが】いを犯【おか】した。",
+    "meaning": "I made a clear mistake."
+  },
+  {
+    "sentence": "この部屋はいつも明るい。",
+    "sentence_furigana": "この部屋【へや】はいつも明【あか】るい。",
+    "meaning": "This room is always bright."
+  },
+  {
+    "sentence": "夜が明ける頃、鳥が鳴き始めた。",
+    "sentence_furigana": "夜【よる】が明【あ】ける頃【ころ】、鳥【とり】が鳴【な】き始【はじ】めた。",
+    "meaning": "Around dawn, birds began to sing."
+  },
+  {
+    "sentence": "明日の会議は中止になりました。",
+    "sentence_furigana": "明日【あす】の会議【かいぎ】は中止【ちゅうし】になりました。",
+    "meaning": "Tomorrow's meeting has been cancelled."
+  },
+  {
+    "sentence": "彼の顔色は明るくなった。",
+    "sentence_furigana": "彼【かれ】の顔色【かおいろ】は明【あか】るくなった。",
+    "meaning": "His complexion brightened."
+  },
+  {
+    "sentence": "この計画の目的は明確である。",
+    "sentence_furigana": "この計画【けいかく】の目的【もくてき】は明確【めいかく】である。",
+    "meaning": "The purpose of this plan is clear."
+  },
+  {
+    "sentence": "明日の天気予報を確認する。",
+    "sentence_furigana": "明日【あす】の天気予報【てんきよほう】を確認【かくにん】する。",
+    "meaning": "I will check tomorrow's weather forecast."
+  },
+  {
+    "sentence": "明るい日差しが差し込む。",
+    "sentence_furigana": "明【あか】るい日差【ひざ】しが差【さ】し込【こ】む。",
+    "meaning": "Bright sunlight streams in."
+  },
+  {
+    "sentence": "その違いは明らかだ。",
+    "sentence_furigana": "その違【ちが】いは明【あき】らかだ。",
+    "meaning": "The difference is obvious."
+  },
+  {
+    "sentence": "明示的な許可が必要。",
+    "sentence_furigana": "明示的【めいじてき】な許可【きょか】が必要【ひつよう】。",
+    "meaning": "Explicit permission is required."
+  },
+  {
+    "sentence": "明け方の空は茜色に染まっていた。",
+    "sentence_furigana": "明【あ】け方【がた】の空【そら】は茜色【あかねいろ】に染【そ】まっていた。",
+    "meaning": "The sky at dawn was dyed crimson."
+  },
+  {
+    "sentence": "彼女は常に明るく、前向きだ。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に明【あか】るく、前向【まえむ】きだ。",
+    "meaning": "She is always cheerful and positive."
+  },
+  {
+    "sentence": "明日は予定が詰まっている。",
+    "sentence_furigana": "明日【あす】は予定【よてい】が詰【つ】まっている。",
+    "meaning": "My schedule is full tomorrow."
+  },
+  {
+    "sentence": "この問題はもう明らかになっている。",
+    "sentence_furigana": "この問題【もんだい】はもう明【あき】らかになっている。",
+    "meaning": "This problem has already become clear."
+  },
+  {
+    "sentence": "照明を点ける。",
+    "sentence_furigana": "照明【しょうめい】を点【つ】ける。",
+    "meaning": "Turn on the light."
+  },
+  {
+    "sentence": "明るい未来を築くために頑張ろう。",
+    "sentence_furigana": "明【あか】るい未来【みらい】を築【きず】くために頑張【がんば】ろう。",
+    "meaning": "Let's do our best to build a bright future."
+  },
+  {
+    "sentence": "明日は大切な日です。",
+    "sentence_furigana": "明日【あす】は大切【たいせつ】な日【ひ】です。",
+    "meaning": "Tomorrow is an important day."
+  },
+  {
+    "sentence": "その秘密は明らかにはされなかった。",
+    "sentence_furigana": "その秘密【ひみつ】は明【あき】らかにはされなかった。",
+    "meaning": "The secret was not revealed."
+  },
+  {
+    "sentence": "夜明けと共に新しい日が昇った。",
+    "sentence_furigana": "夜明【よあ】けと共【とも】に新【あら】しい日【ひ】が昇【のぼ】った。",
+    "meaning": "A new day rose with the dawn."
+  },
+  {
+    "sentence": "明るい雰囲気の店だ。",
+    "sentence_furigana": "明【あか】るい雰囲気【ふんいき】の店【みせ】だ。",
+    "meaning": "It's a store with a cheerful atmosphere."
+  },
+  {
+    "sentence": "明日は雨の心配はない。",
+    "sentence_furigana": "明日【あす】は雨【あめ】の心配【しんぱい】はない。",
+    "meaning": "There is no worry of rain tomorrow."
+  },
+  {
+    "sentence": "説明不足で不明瞭だった。",
+    "sentence_furigana": "説明不足【せつめいぶそく】で不明瞭【ふめいりょう】だった。",
+    "meaning": "It was unclear due to lack of explanation."
+  },
+  {
+    "sentence": "この窓から明るい光が入る。",
+    "sentence_furigana": "この窓【まど】から明【あか】るい光【ひかり】が入【はい】る。",
+    "meaning": "Bright light enters through this window."
+  },
+  {
+    "sentence": "明瞭な発音が求められる。",
+    "sentence_furigana": "明瞭【めいりょう】な発音【はつおん】が求【もと】められる。",
+    "meaning": "Clear pronunciation is required."
+  },
+  {
+    "sentence": "明るい日曜日になった。",
+    "sentence_furigana": "明【あか】るい日曜日【にちようび】になった。",
+    "meaning": "It turned out to be a bright Sunday."
+  },
+  {
+    "sentence": "明日は友人と会う約束がある。",
+    "sentence_furigana": "明日【あす】は友人【ゆうじん】と会【あ】う約束【やくそく】がある。",
+    "meaning": "I have plans to meet a friend tomorrow."
+  },
+  {
+    "sentence": "彼の説明は非常に明確だった。",
+    "sentence_furigana": "彼【かれ】の説明【せつめい】は非常【ひじょう】に明確【めいかく】だった。",
+    "meaning": "His explanation was very clear."
+  },
+  {
+    "sentence": "夜明けと共に希望が生まれた。",
+    "sentence_furigana": "夜明【よあ】けと共【とも】に希望【きぼう】が生【う】まれた。",
+    "meaning": "Hope was born with the dawn."
+  },
+  {
+    "sentence": "この件については明らかにする必要がある。",
+    "sentence_furigana": "この件【けん】については明【あき】らかにする必要【ひつよう】がある。",
+    "meaning": "It is necessary to clarify this matter."
+  },
+  {
+    "sentence": "明日は良い天気になるといいな。",
+    "sentence_furigana": "明日【あす】は良【よ】い天気【てんき】になるといいな。",
+    "meaning": "I hope the weather will be good tomorrow."
+  },
+  {
+    "sentence": "明るい社会の実現を目指す。",
+    "sentence_furigana": "明【あか】るい社会【しゃかい】の実現【じつげん】を目指【めざ】す。",
+    "meaning": "We aim to realize a bright society."
+  },
+  {
+    "sentence": "明日は休みなのでゆっくりする。",
+    "sentence_furigana": "明日【あす】は休【やす】みなのでゆっくりする。",
+    "meaning": "Since tomorrow is a holiday, I will relax."
+  },
+  {
+    "sentence": "明確な指示を仰ぐ。",
+    "sentence_furigana": "明確【めいかく】な指示【しじ】を仰【あお】ぐ。",
+    "meaning": "I seek clear instructions."
+  },
+  {
+    "sentence": "夜明け前の薄明かり。",
+    "sentence_furigana": "夜明【よあ】け前【まえ】の薄明【うすあ】かり。",
+    "meaning": "The dim light before dawn."
+  }
+]

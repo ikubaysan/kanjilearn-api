@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "彼は水中に潜った。",
+    "sentence_furigana": "彼【かれ】は水【みず】中【ちゅう】に潜【もぐ】った。",
+    "meaning": "He dived into the water."
+  },
+  {
+    "sentence": "犯人はその証拠を隠滅しようと潜んだ。",
+    "sentence_furigana": "犯人【はんにん】はそ【そ】の証拠【しょうこ】を隠滅【いんめつ】しようと潜【かく】んだ。",
+    "meaning": "The criminal hid to destroy the evidence."
+  },
+  {
+    "sentence": "深海魚は暗闇に潜んでいる。",
+    "sentence_furigana": "深海魚【しんかいぎょ】は暗闇【くらやみ】に潜【も】んでいる。",
+    "meaning": "Deep-sea fish lurk in the darkness."
+  },
+  {
+    "sentence": "彼女は突然の質問に言葉を潜めた。",
+    "sentence_furigana": "彼女【かのじょ】は突然【とつぜん】の質問【しつもん】に言葉【ことば】を潜【ひそ】めた。",
+    "meaning": "She hushed her words in response to the sudden question."
+  },
+  {
+    "sentence": "彼は会議で声を潜めて話した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で声【こえ】を潜【ひそ】めて話【はな】した。",
+    "meaning": "He spoke in a low voice at the meeting."
+  },
+  {
+    "sentence": "危険が潜む場所には近づかない方が良い。",
+    "sentence_furigana": "危険【きけん】が潜【ひそ】む場所【ばしょ】には近【ちか】づかない方【ほう】が良い【よい】。",
+    "meaning": "It is better not to approach places where danger lurks."
+  },
+  {
+    "sentence": "海賊は宝の地図を潜ませていた。",
+    "sentence_furigana": "海賊【かいぞく】は宝【たから】の地図【ちず】を潜【かく】ませていた。",
+    "meaning": "The pirate had hidden the treasure map."
+  },
+  {
+    "sentence": "彼はその秘密を胸に潜んでいた。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の秘密【ひみつ】を胸【むね】に潜【ひそ】んでいた。",
+    "meaning": "He harbored that secret in his heart."
+  },
+  {
+    "sentence": "アサシンは影に潜んで獲物を待っていた。",
+    "sentence_furigana": "アサシンは影【かげ】に潜【ひそ】んで獲物【えもの】を待【ま】っていた。",
+    "meaning": "The assassin lay hidden in the shadows, waiting for prey."
+  },
+  {
+    "sentence": "彼は事故の責任を潜ませようとした。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】の責任【せきにん】を潜【かく】まそうとした。",
+    "meaning": "He tried to conceal his responsibility for the accident."
+  },
+  {
+    "sentence": "その言葉は深い意味を潜んでいた。",
+    "sentence_furigana": "そ【そ】の言葉【ことば】は深【ふか】い意味【いみ】を潜【ひそ】んでいた。",
+    "meaning": "Those words carried a deeper meaning."
+  },
+  {
+    "sentence": "彼は敵の目を潜んで逃げた。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の目【め】を潜【くぐ】って逃【に】げた。",
+    "meaning": "He slipped past the enemy's gaze and escaped."
+  },
+  {
+    "sentence": "潜水艦は水中に潜航した。",
+    "sentence_furigana": "潜水艦【せんすいかん】は水【みず】中【ちゅう】に潜【せん】こうした。",
+    "meaning": "The submarine submerged."
+  },
+  {
+    "sentence": "彼女は自分の悲しみを内に潜めていた。",
+    "sentence_furigana": "彼女【かのじょ】は自分【じぶん】の悲【かな】しみを通【うち】に潜【ひそ】めていた。",
+    "meaning": "She concealed her sadness within herself."
+  },
+  {
+    "sentence": "彼はその真実を世間から潜ませようとした。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の真実【しんじつ】を世間【せけん】から潜【かく】まそうとした。",
+    "meaning": "He tried to hide the truth from the public."
+  },
+  {
+    "sentence": "その書類は机の下に潜んでいる。",
+    "sentence_furigana": "そ【そ】の書類【しょるい】は机【つくえ】の下【した】に潜【ひそ】んでいる。",
+    "meaning": "That document is hidden under the desk."
+  },
+  {
+    "sentence": "彼は騒音を潜めて静かに歩いた。",
+    "sentence_furigana": "彼【かれ】は騒音【そうおん】を潜【ひそ】めて静【しず】かに歩【ある】いた。",
+    "meaning": "He walked quietly, muffling the noise."
+  },
+  {
+    "sentence": "彼らは地下に潜んで抵抗を続けた。",
+    "sentence_furigana": "彼【かれ】らは地下【ちか】に潜【ひそ】んで抵抗【ていこう】を続【つづ】けた。",
+    "meaning": "They continued their resistance, hiding underground."
+  },
+  {
+    "sentence": "その病気は静かに潜んでいる。",
+    "sentence_furigana": "そ【そ】の病気【びょうき】は静【しず】かに潜【ひそ】んでいる。",
+    "meaning": "The disease is silently lurking."
+  },
+  {
+    "sentence": "彼は怒りを顔に出さずに潜めていた。",
+    "sentence_furigana": "彼【かれ】は怒【いか】りを顔【かお】に出【だ】さずに潜【ひそ】めていた。",
+    "meaning": "He hid his anger, not showing it on his face."
+  },
+  {
+    "sentence": "彼女は水底に潜り、宝を探した。",
+    "sentence_furigana": "彼女【かのじょ】は水底【みずぞこ】に潜【もぐ】り、宝【たから】を探【さが】した。",
+    "meaning": "She dove to the bottom of the water and searched for treasure."
+  },
+  {
+    "sentence": "この文章は多くの隠喩を潜んでいる。",
+    "sentence_furigana": "この文章【ぶんしょう】は多【おお】くの隠喩【いんゆ】を潜【ひそ】んでいる。",
+    "meaning": "This passage contains many metaphors."
+  },
+  {
+    "sentence": "彼は密かに企みを潜めていた。",
+    "sentence_furigana": "彼【かれ】は密【ひそ】かに企【たくら】みを潜【ひそ】めていた。",
+    "meaning": "He was secretly harboring a scheme."
+  },
+  {
+    "sentence": "潜水士は海底を探検した。",
+    "sentence_furigana": "潜水士【せんすいし】は海底【かいてい】を探検【たんけん】した。",
+    "meaning": "The diver explored the seabed."
+  },
+  {
+    "sentence": "彼は音を立てずに部屋に潜入した。",
+    "sentence_furigana": "彼【かれ】は音【おと】を立【た】てずに部屋【へや】に潜入【せん】入【にゅう】した。",
+    "meaning": "He infiltrated the room without making a sound."
+  },
+  {
+    "sentence": "その脅威はまだ潜んでいる。",
+    "sentence_furigana": "そ【そ】の脅威【きょうい】はまだ潜【ひそ】んでいる。",
+    "meaning": "The threat still lurks."
+  },
+  {
+    "sentence": "彼は会議の議題を事前に潜めた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】の議題【ぎだい】を事前【じぜん】に潜【かく】めた。",
+    "meaning": "He kept the meeting agenda secret in advance."
+  },
+  {
+    "sentence": "彼は自分の感情を抑えて潜んでいた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】を抑【おさ】えて潜【ひそ】んでいた。",
+    "meaning": "He suppressed his emotions and hid them."
+  },
+  {
+    "sentence": "この地域は危険が潜んでいる可能性がある。",
+    "sentence_furigana": "この地域【ちいき】は危険【きけん】が潜【ひそ】んでいる可能性【かのうせい】がある。",
+    "meaning": "This area may harbor danger."
+  },
+  {
+    "sentence": "彼は沈黙の中に真実を潜めていた。",
+    "sentence_furigana": "彼【かれ】は沈黙【ちんもく】の中【なか】に真実【しんじつ】を潜【ひそ】めていた。",
+    "meaning": "He concealed the truth in his silence."
+  },
+  {
+    "sentence": "潜水艦は海底に潜り込んだ。",
+    "sentence_furigana": "潜水艦【せんすいかん】は海底【かいてい】に潜【もぐ】り込【こ】んだ。",
+    "meaning": "The submarine dived to the seabed."
+  },
+  {
+    "sentence": "彼はその秘密を口外しないと潜めた。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の秘密【ひみつ】を口外【こうがい】しないと潜【ひそ】めた。",
+    "meaning": "He kept the secret, implying he wouldn't reveal it."
+  },
+  {
+    "sentence": "その絵画には、暗いメッセージが潜んでいた。",
+    "sentence_furigana": "そ【そ】の絵画【かいが】には、暗【くら】いメッセージが潜【ひそ】んでいた。",
+    "meaning": "The painting contained a dark message."
+  },
+  {
+    "sentence": "彼は敵の監視を潜んで town に潜入した。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の監視【かんし】を潜【くぐ】って town に潜入【せん】入【にゅう】した。",
+    "meaning": "He slipped past enemy surveillance and infiltrated the town."
+  },
+  {
+    "sentence": "潜水夫は水深100メートルに達した。",
+    "sentence_furigana": "潜水夫【せんすいふ】は水深【すいしん】100メートルに達【たっ】した。",
+    "meaning": "The diver reached a depth of 100 meters."
+  },
+  {
+    "sentence": "彼は自分の間違いを隠そうと潜んだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の間違【まちが】いを隠【かく】そうと潜【ひそ】んだ。",
+    "meaning": "He hid, trying to conceal his mistake."
+  },
+  {
+    "sentence": "彼女の声は興奮で潜んでいた。",
+    "sentence_furigana": "彼女【かのじょ】の声【こえ】は興奮【こうふん】で潜【ひそ】んでいた。",
+    "meaning": "Her voice was hushed with excitement."
+  },
+  {
+    "sentence": "この計画にはリスクが潜んでいる。",
+    "sentence_furigana": "この計画【けいかく】にはリスクが潜【ひそ】んでいる。",
+    "meaning": "This plan carries risks."
+  },
+  {
+    "sentence": "彼は公にせず、秘密裏に活動を潜めていた。",
+    "sentence_furigana": "彼【かれ】は公【おおやけ】にせず、秘密裏【ひみつり】に活動【かつどう】を潜【ひそ】めていた。",
+    "meaning": "He kept his activities secret, operating covertly."
+  },
+  {
+    "sentence": "潜水艦が敵の領海に潜入した。",
+    "sentence_furigana": "潜水艦【せんすいかん】が敵【てき】の領海【りょうかい】に潜入【せん】入【にゅう】した。",
+    "meaning": "A submarine infiltrated enemy waters."
+  },
+  {
+    "sentence": "彼は静かにドアの隙間から覗き込んだ。",
+    "sentence_furigana": "彼【かれ】は静【しず】かにドアの隙間【すきま】から覗【のぞ】き潜【こ】んだ。",
+    "meaning": "He quietly peeked through the crack in the door."
+  },
+  {
+    "sentence": "その法律には抜け穴が潜んでいた。",
+    "sentence_furigana": "そ【そ】の法律【ほうりつ】には抜【ぬ】け穴【あな】が潜【ひそ】んでいた。",
+    "meaning": "The law had loopholes."
+  },
+  {
+    "sentence": "彼は人目を潜んで街を歩いた。",
+    "sentence_furigana": "彼【かれ】は人目【ひとめ】を潜【くぐ】って街【まち】を歩【ある】いた。",
+    "meaning": "He walked through the town, avoiding people's eyes."
+  },
+  {
+    "sentence": "水面に現れる前に魚は潜んでいた。",
+    "sentence_furigana": "水面【すいめん】に現【あらわ】れる前【まえ】に魚【さかな】は潜【もぐ】っていた。",
+    "meaning": "The fish were submerged before appearing on the surface."
+  },
+  {
+    "sentence": "彼は静かな声で話しかけた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かな声【こえ】で話【はな】しかけた。",
+    "meaning": "He spoke in a hushed voice."
+  },
+  {
+    "sentence": "この本は多くの示唆に富んでいる。",
+    "sentence_furigana": "この本【ほん】は多【おお】くの示唆【しさ】に富【と】んでいる。",
+    "meaning": "This book contains many suggestions."
+  },
+  {
+    "sentence": "彼は嘘を隠すために、さらに嘘を重ねた。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】を隠【かく】すために、さらに嘘【うそ】を重【かさ】ねた。",
+    "meaning": "He lied further to hide his lie."
+  },
+  {
+    "sentence": "潜水ボートは深海へと降りていった。",
+    "sentence_furigana": "潜水ボートは深海【しんかい】へと降【お】りていった。",
+    "meaning": "The submersible descended into the deep sea."
+  },
+  {
+    "sentence": "彼は敵の目を潜って城に侵入した。",
+    "sentence_furigana": "彼【かれ】は敵【てき】の目【め】を潜【くぐ】って城【しろ】に侵入【せい】入【にゅう】した。",
+    "meaning": "He infiltrated the castle, evading enemy observation."
+  },
+  {
+    "sentence": "その地域の安全は、まだ潜む脅威によって低下している。",
+    "sentence_furigana": "そ【そ】の地域【ちいき】の安全【あんぜん】は、まだ潜【ひそ】む脅威【きょうい】によって低下【ていか】している。",
+    "meaning": "The safety of the region is compromised by lurking threats."
+  },
+  {
+    "sentence": "彼は会話の音量を低く抑えた。",
+    "sentence_furigana": "彼【かれ】は会話【かいわ】の音量【おんりょう】を低【ひく】く抑【おさ】えた。",
+    "meaning": "He lowered the volume of the conversation."
+  },
+  {
+    "sentence": "彼らは隠れて反政府活動を続けた。",
+    "sentence_furigana": "彼【かれ】らは隠【かく】れて反政府活動【はんせいふかつどう】を続【つづ】けた。",
+    "meaning": "They continued their anti-government activities in hiding."
+  },
+  {
+    "sentence": "潜水艇は深海調査を開始した。",
+    "sentence_furigana": "潜水艇【せんすいてい】は深海調査【しんかいちょうさ】を開始【かいし】した。",
+    "meaning": "The submersible began its deep-sea survey."
+  },
+  {
+    "sentence": "彼は自分の過去を隠していた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の過去【かこ】を隠【かく】していた。",
+    "meaning": "He had concealed his past."
+  },
+  {
+    "sentence": "その言葉は鋭い批判を潜んでいた。",
+    "sentence_furigana": "そ【そ】の言葉【ことば】は鋭【するど】い批判【ひはん】を潜【ひそ】んでいた。",
+    "meaning": "Those words contained sharp criticism."
+  },
+  {
+    "sentence": "潜水艦が静かに港に近づいた。",
+    "sentence_furigana": "潜水艦【せんすいかん】が静【しず】かに港【みなと】に近【ちか】づいた。",
+    "meaning": "The submarine approached the port quietly."
+  },
+  {
+    "sentence": "彼は叫び声を押し殺した。",
+    "sentence_furigana": "彼【かれ】は叫【さけ】び声【ごえ】を押【お】し殺【ころ】した。",
+    "meaning": "He stifled a scream."
+  },
+  {
+    "sentence": "その物語は多くの教訓を潜んでいる。",
+    "sentence_furigana": "そ【そ】の物語【ものがたり】は多【おお】くの教訓【きょうくん】を潜【ひそ】んでいる。",
+    "meaning": "The story holds many lessons."
+  },
+  {
+    "sentence": "彼は調査官の目を潜んで証拠を隠した。",
+    "sentence_furigana": "彼【かれ】は調査官【ちょうさかん】の目【め】を潜【くぐ】って証拠【しょうこ】を隠【かく】した。",
+    "meaning": "He hid the evidence, evading the investigator's eyes."
+  },
+  {
+    "sentence": "潜水艦は敵艦に発見されないように進んだ。",
+    "sentence_furigana": "潜水艦【せんすいかん】は敵艦【てきかん】に発見【はっけん】されないように進【すす】んだ。",
+    "meaning": "The submarine advanced, unseen by enemy ships."
+  },
+  {
+    "sentence": "彼は静かに部屋を出て行った。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに部屋【へや】を出【で】ていった。",
+    "meaning": "He quietly left the room."
+  },
+  {
+    "sentence": "その計画の裏には陰謀が潜んでいる。",
+    "sentence_furigana": "そ【そ】の計画【けいかく】の裏【うら】には陰謀【いんぼう】が潜【ひそ】んでいる。",
+    "meaning": "There is a conspiracy lurking behind the plan."
+  },
+  {
+    "sentence": "彼は自分の感情を内に秘めていた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の感情【かんじょう】を内【うち】に秘【ひ】めていた。",
+    "meaning": "He kept his emotions hidden within."
+  },
+  {
+    "sentence": "潜水服を着て海に潜った。",
+    "sentence_furigana": "潜水服【せんすいふく】を着【き】て海【うみ】に潜【もぐ】った。",
+    "meaning": "He put on a diving suit and dived into the sea."
+  },
+  {
+    "sentence": "彼は真実を語るのをためらった。",
+    "sentence_furigana": "彼【かれ】は真実【しんじつ】を語【かた】るのをためらった。",
+    "meaning": "He hesitated to tell the truth."
+  },
+  {
+    "sentence": "この芸術作品は深い意味合いを潜んでいる。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は深【ふか】い意味合【いみあい】を潜【ひそ】んでいる。",
+    "meaning": "This work of art carries a deep significance."
+  },
+  {
+    "sentence": "彼は声を潜めて、そっと近づいた。",
+    "sentence_furigana": "彼【かれ】は声【こえ】を潜【ひそ】めて、そっと近【ちか】づいた。",
+    "meaning": "He approached quietly, lowering his voice."
+  },
+  {
+    "sentence": "潜水艦は秘密裏に敵地へ向かった。",
+    "sentence_furigana": "潜水艦【せんすいかん】は秘密裏【ひみつり】に敵地【てきち】へ向【む】かった。",
+    "meaning": "The submarine headed towards enemy territory covertly."
+  },
+  {
+    "sentence": "彼はその場を隠れてやり過ごした。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の場【ば】を隠【かく】れてやり過【す】ごした。",
+    "meaning": "He hid and let the situation pass."
+  },
+  {
+    "sentence": "そのニュースは多くの論争を巻き起こした。",
+    "sentence_furigana": "そ【そ】のニュースは多【おお】くの論争【ろんそう】を巻【ま】き起【お】こした。",
+    "meaning": "The news sparked much controversy."
+  },
+  {
+    "sentence": "彼は静かに人々の間をすり抜けた。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに人々【ひとびと】の間【あいだ】をすり抜【ぬ】けた。",
+    "meaning": "He slipped through the crowd quietly."
+  },
+  {
+    "sentence": "この町には未だ解決されていない問題が潜んでいる。",
+    "sentence_furigana": "この町【まち】には未【いまだ】解決【かいけつ】されてない問題【もんだい】が潜【ひそ】んでいる。",
+    "meaning": "Unresolved issues still exist in this town."
+  },
+  {
+    "sentence": "彼は子供の声でさえ、そっと潜めた。",
+    "sentence_furigana": "彼【かれ】は子供【こども】の声【こえ】でさえ、そっと潜【ひそ】めた。",
+    "meaning": "He even hushed the child's voice."
+  },
+  {
+    "sentence": "潜水艦が敵の哨戒網を潜り抜けた。",
+    "sentence_furigana": "潜水艦【せんすいかん】が敵【てき】の哨戒網【しょうかいもう】を潜【くぐ】り抜【ぬ】けた。",
+    "meaning": "The submarine slipped through the enemy's patrol network."
+  },
+  {
+    "sentence": "彼はすべてを語らず、秘密を抱えていた。",
+    "sentence_furigana": "彼【かれ】はすべてを語【かた】らず、秘密【ひみつ】を抱【いだ】いていた。",
+    "meaning": "He kept secrets, without telling everything."
+  },
+  {
+    "sentence": "その微笑みは多くの意味を潜んでいた。",
+    "sentence_furigana": "そ【そ】の微笑【ほほえ】みは多【おお】くの意味【いみ】を潜【ひそ】んでいた。",
+    "meaning": "That smile held many meanings."
+  },
+  {
+    "sentence": "彼は罪を隠すために山奥に潜んだ。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】を隠【かく】すために山奥【やまおく】に潜【ひそ】んだ。",
+    "meaning": "He hid deep in the mountains to conceal his crime."
+  },
+  {
+    "sentence": "潜水艦が海上に出た。",
+    "sentence_furigana": "潜水艦【せんすいかん】が海上【かいじょう】に出【で】た。",
+    "meaning": "The submarine surfaced."
+  },
+  {
+    "sentence": "彼は静かに、しかし着実に前進した。",
+    "sentence_furigana": "彼【かれ】は静【しず】かに、しかし着実【ちゃくちゃく】に前進【ぜんしん】した。",
+    "meaning": "He advanced quietly but steadily."
+  },
+  {
+    "sentence": "この古い物語は多くの教訓を含んでいる。",
+    "sentence_furigana": "この古【ふる】い物語【ものがたり】は多【おお】くの教訓【きょうくん】を含【ふく】んでいる。",
+    "meaning": "This old story contains many lessons."
+  },
+  {
+    "sentence": "彼は音を立てずに部屋に忍び込んだ。",
+    "sentence_furigana": "彼【かれ】は音【おと】を立【た】てずに部屋【へや】に忍【しの】び込【こ】んだ。",
+    "meaning": "He crept into the room without making a sound."
+  },
+  {
+    "sentence": "潜水艦は敵の探知を避けるために深い海に潜っていた。",
+    "sentence_furigana": "潜水艦【せんすいかん】は敵【てき】の探知【たんち】を避【さ】けるために深【ふか】い海【うみ】に潜【もぐ】っていた。",
+    "meaning": "The submarine submerged in the deep sea to avoid enemy detection."
+  },
+  {
+    "sentence": "彼はその事実を公表しなかった。",
+    "sentence_furigana": "彼【かれ】はそ【そ】の事実【じじつ】を公表【こうひょう】しなかった。",
+    "meaning": "He did not make the facts public."
+  },
+  {
+    "sentence": "彼女の歌声は静かに部屋に響いた。",
+    "sentence_furigana": "彼女【かのじょ】の歌声【うたごえ】は静【しず】かに部屋【へや】に響【ひび】いた。",
+    "meaning": "Her singing voice echoed softly in the room."
+  },
+  {
+    "sentence": "その行動の裏には別の意図が潜んでいる。",
+    "sentence_furigana": "そ【そ】の行動【こうどう】の裏【うら】には別【べつ】の意図【いと】が潜【ひそ】んでいる。",
+    "meaning": "There is another intention behind that action."
+  },
+  {
+    "sentence": "彼は公の場で声を低くして話した。",
+    "sentence_furigana": "彼【かれ】は公【おおやけ】の場【ば】で声【こえ】を低【ひく】くして話【はな】した。",
+    "meaning": "He spoke in a low voice in public."
+  },
+  {
+    "sentence": "潜水艦は静かに作戦地域へ移動した。",
+    "sentence_furigana": "潜水艦【せんすいかん】は静【しず】かに作戦地域【さくせんちいき】へ移動【いどう】した。",
+    "meaning": "The submarine moved to the operational area quietly."
+  },
+  {
+    "sentence": "彼は自分の本当の気持ちを隠していた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の本当【ほんとう】の気持【きも】ちを隠【かく】していた。",
+    "meaning": "He had hidden his true feelings."
+  },
+  {
+    "sentence": "この地域の住民は、未だ語られぬ歴史を潜んでいる。",
+    "sentence_furigana": "この地域【ちいき】の住民【じゅうみん】は、未【まだ】語【かた】られぬ歴史【れきし】を潜【ひそ】んでいる。",
+    "meaning": "The residents of this area harbor an untold history."
+  },
+  {
+    "sentence": "潜水士は水中でゆっくりと動いた。",
+    "sentence_furigana": "潜水士【せんすいし】は水中【すいちゅう】でゆっくりと動【うご】いた。",
+    "meaning": "The diver moved slowly underwater."
+  },
+  {
+    "sentence": "彼は事件の証拠を隠滅した。",
+    "sentence_furigana": "彼【かれ】は事件【じけん】の証拠【しょうこ】を隠滅【いんめつ】した。",
+    "meaning": "He destroyed the evidence of the incident."
+  },
+  {
+    "sentence": "潜水艦が海底に座礁した。",
+    "sentence_furigana": "潜水艦【せんすいかん】が海底【かいてい】に座礁【ざしょう】した。",
+    "meaning": "The submarine ran aground on the seabed."
+  },
+  {
+    "sentence": "彼は多くの知識をの中に秘めていた。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの知識【ちしき】をの中に秘【ひ】めていた。",
+    "meaning": "He kept a lot of knowledge within him."
+  },
+  {
+    "sentence": "潜水艇が深海の生物を観察した。",
+    "sentence_furigana": "潜水艇【せんすいてい】が深海【しんかい】の生物【せいぶつ】を観察【かんさつ】した。",
+    "meaning": "The submersible observed deep-sea creatures."
+  },
+  {
+    "sentence": "彼は自分の能力を誇示せず、静かに仕事をこなした。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の能力【のうりょく】を誇示【こじ】せず、静【しず】かに仕事【しごと】をこなした。",
+    "meaning": "He quietly did his work without showing off his abilities."
+  },
+  {
+    "sentence": "その声明は、批判を潜ませていた。",
+    "sentence_furigana": "そ【そ】の声明【せいめい】は、批判【ひはん】を潜【ひそ】ませていた。",
+    "meaning": "The statement contained criticism."
+  },
+  {
+    "sentence": "潜水艦はレーダーに映らないように進んだ。",
+    "sentence_furigana": "潜水艦【せんすいかん】はレーダーに映【うつ】らないように進【すす】んだ。",
+    "meaning": "The submarine proceeded so as not to be detected by radar."
+  }
+]

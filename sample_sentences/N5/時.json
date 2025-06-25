@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "時間は大切です。",
+    "sentence_furigana": "時間【じかん】は大切【たいせつ】です。",
+    "meaning": "Time is important."
+  },
+  {
+    "sentence": "今、何時ですか？",
+    "sentence_furigana": "今【いま】、何時【なんじ】ですか？",
+    "meaning": "What time is it now?"
+  },
+  {
+    "sentence": "会議は午後一時からです。",
+    "sentence_furigana": "会議【かいぎ】は午後一時【ごごいちじ】からです。",
+    "meaning": "The meeting is from 1 PM."
+  },
+  {
+    "sentence": "昔々の時、大きな城がありました。",
+    "sentence_furigana": "昔々【むかしむかし】の時【とき】、大【おお】きな城【しろ】がありました。",
+    "meaning": "In ancient times, there was a large castle."
+  },
+  {
+    "sentence": "その時、彼は何も言いませんでした。",
+    "sentence_furigana": "その時【とき】、彼【かれ】は何も【なに】も言【い】いませんでした。",
+    "meaning": "At that time, he said nothing."
+  },
+  {
+    "sentence": "忙しい時でも休憩は必要だ。",
+    "sentence_furigana": "忙【いそが】しい時【とき】でも休憩【きゅうけい】は必要【ひつよう】だ。",
+    "meaning": "Even when busy, rest is necessary."
+  },
+  {
+    "sentence": "時が経つのは早いですね。",
+    "sentence_furigana": "時【とき】が経【た】つのは早【はや】いですね。",
+    "meaning": "Time passes quickly, doesn't it?"
+  },
+  {
+    "sentence": "待ち合わせの時間に遅れないように。",
+    "sentence_furigana": "待合【まちあ】わせの時間【じかん】に遅【おく】れないように。",
+    "meaning": "Be on time for the meeting."
+  },
+  {
+    "sentence": "歴史の時間に日本のことを勉強しました。",
+    "sentence_furigana": "歴史【れきし】の時間【じかん】に日本【にほん】のこと勉強【べんきょう】しました。",
+    "meaning": "We studied about Japan in history class."
+  },
+  {
+    "sentence": "彼女はいつも時間に正確だ。",
+    "sentence_furigana": "彼女【かのじょ】はいつも時間【じかん】に正確【せいかく】だ。",
+    "meaning": "She is always punctual."
+  },
+  {
+    "sentence": "時給はいくらですか？",
+    "sentence_furigana": "時給【じきゅう】はいくらですか？",
+    "meaning": "What is the hourly wage?"
+  },
+  {
+    "sentence": "今の時代は情報化社会だ。",
+    "sentence_furigana": "今【いま】の時代【じだい】は情報化社会【じょうほうしゃかい】だ。",
+    "meaning": "The current era is an information society."
+  },
+  {
+    "sentence": "この薬は食後に飲む時間帯を守ってください。",
+    "sentence_furigana": "この薬【くすり】は食後【しょくご】に飲【の】む時間帯【じかんたい】を守【まも】ってください。",
+    "meaning": "Please follow the time of day for taking this medicine after meals."
+  },
+  {
+    "sentence": "子供の頃、よくここで遊びました。",
+    "sentence_furigana": "子供【こども】の頃【ころ】、よくここで遊【あそ】びました。",
+    "meaning": "I often played here when I was a child."
+  },
+  {
+    "sentence": "この仕事は時間がかかる。",
+    "sentence_furigana": "この仕事【しごと】は時間【じかん】がかかる。",
+    "meaning": "This job takes time."
+  },
+  {
+    "sentence": "彼が来る時間を見計らっていた。",
+    "sentence_furigana": "彼【かれ】が来【く】る時間【じかん】を見計【みはか】っていた。",
+    "meaning": "I was timing his arrival."
+  },
+  {
+    "sentence": "時には休息も必要です。",
+    "sentence_furigana": "時々【ときどき】には休息【きゅうそく】も必要【ひつよう】です。",
+    "meaning": "Sometimes rest is also necessary."
+  },
+  {
+    "sentence": "今の時代はテクノロジーが進んでいる。",
+    "sentence_furigana": "今【いま】の時代【じだい】はテクノロジーが進【すす】んでいる。",
+    "meaning": "Technology is advancing in this era."
+  },
+  {
+    "sentence": "時間は人を育てます。",
+    "sentence_furigana": "時間【じかん】は人【ひと】を育【そだ】てます。",
+    "meaning": "Time nurtures people."
+  },
+  {
+    "sentence": "待ち合わせの時間に間に合った。",
+    "sentence_furigana": "待合【まちあ】わせの時間【じかん】に間【ま】に合【あ】った。",
+    "meaning": "I made it in time for the meeting."
+  },
+  {
+    "sentence": "その時、私は学生でした。",
+    "sentence_furigana": "その時【とき】、私【わたし】は学生【がくせい】でした。",
+    "meaning": "At that time, I was a student."
+  },
+  {
+    "sentence": "時が金なり、という言葉がある。",
+    "sentence_furigana": "時【とき】が金【かね】なり、という言葉【ことば】がある。",
+    "meaning": "There is a saying that time is money."
+  },
+  {
+    "sentence": "仕事の時間は決まっていますか？",
+    "sentence_furigana": "仕事【しごと】の時間【じかん】は決【き】まっていますか？",
+    "meaning": "Are the work hours decided?"
+  },
+  {
+    "sentence": "この映画は何時間くらいですか？",
+    "sentence_furigana": "この映画【えいが】は何時間【なんじかん】くらいですか？",
+    "meaning": "How long is this movie?"
+  },
+  {
+    "sentence": "時間がないので、急ぎましょう。",
+    "sentence_furigana": "時間【じかん】がないので、急【いそ】ぎましょう。",
+    "meaning": "We have no time, so let's hurry."
+  },
+  {
+    "sentence": "彼はいつも時間通りに来る。",
+    "sentence_furigana": "彼【かれ】はいつも時間通【じかんどお】りに来【く】る。",
+    "meaning": "He always comes on time."
+  },
+  {
+    "sentence": "この時計は時間を正確に刻む。",
+    "sentence_furigana": "この時計【とけい】は時間【じかん】を正確【せいかく】に刻【きざ】む。",
+    "meaning": "This clock keeps accurate time."
+  },
+  {
+    "sentence": "次の電車は何時何分発ですか？",
+    "sentence_furigana": "次【つぎ】の電車【でんしゃ】は何時何分【なんじなんぷん】発【はっ】ですか？",
+    "meaning": "What time does the next train depart?"
+  },
+  {
+    "sentence": "昔の時間はゆっくり流れていた気がする。",
+    "sentence_furigana": "昔【むかし】の時間はゆっくり流【なが】れていた気【き】がする。",
+    "meaning": "I feel like time flowed more slowly in the past."
+  },
+  {
+    "sentence": "時間があれば、一緒に食事でもどうですか？",
+    "sentence_furigana": "時間【じかん】があれば、一緒【いっしょ】に食事【しょくじ】でもどうですか？",
+    "meaning": "If you have time, how about having a meal together?"
+  },
+  {
+    "sentence": "一日の始まりの時間を大切にしよう。",
+    "sentence_furigana": "一日【いちにち】の始【はじ】まりの時間【じかん】を大切【たいせつ】にしよう。",
+    "meaning": "Let's cherish the beginning of the day."
+  },
+  {
+    "sentence": "この問題は解決するのに時間がかかるだろう。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】するのに時間【じかん】がかかるだろう。",
+    "meaning": "It will likely take time to solve this problem."
+  },
+  {
+    "sentence": "時の流れは誰にも止められない。",
+    "sentence_furigana": "時【とき】の流れ【なが】れは誰【だれ】にも止【と】められない。",
+    "meaning": "The flow of time cannot be stopped by anyone."
+  },
+  {
+    "sentence": "彼はいつも少し遅れてくるので、時間に余裕を持って待ち合わせる。",
+    "sentence_furigana": "彼【かれ】はいつも少【すこ】し遅【おく】れて来【く】るので、時間【じかん】に余裕【よゆう】を持【も】って待合【まちあ】わせる。",
+    "meaning": "He always comes a little late, so we meet with plenty of time."
+  },
+  {
+    "sentence": "時の運命を感じさせる場所だ。",
+    "sentence_furigana": "時【とき】の運命【うんめい】を感じ【かん】じさせる場所【ばしょ】だ。",
+    "meaning": "It's a place that makes you feel the destiny of time."
+  },
+  {
+    "sentence": "このプロジェクトは完了するのに数ヶ月の時間が必要だ。",
+    "sentence_furigana": "このプロジェクトは完了【かんりょう】するのに数ヶ月【すうかげつ】の時間【じかん】が必要【ひつよう】だ。",
+    "meaning": "This project requires several months of time to complete."
+  },
+  {
+    "sentence": "授業の開始時間を確認してください。",
+    "sentence_furigana": "授業【じゅぎょう】の開始時間【かいしじかん】を確認【かくにん】してください。",
+    "meaning": "Please confirm the class start time."
+  },
+  {
+    "sentence": "時折、昔の友人に会いたくなる。",
+    "sentence_furigana": "時折【ときおり】、昔【むかし】の友人【ゆうじん】に会【あ】いたくなる。",
+    "meaning": "I sometimes feel like meeting old friends."
+  },
+  {
+    "sentence": "時間はあっという間に過ぎていく。",
+    "sentence_furigana": "時間【じかん】はあっという間【ま】に過【す】ぎていく。",
+    "meaning": "Time passes in the blink of an eye."
+  },
+  {
+    "sentence": "この時計は正確な時間を刻む。",
+    "sentence_furigana": "この時計【とけい】は正確【せいかく】な時間【じかん】を刻【きざ】む。",
+    "meaning": "This clock tells accurate time."
+  },
+  {
+    "sentence": "時間の無駄遣いはしないように注意している。",
+    "sentence_furigana": "時間【じかん】の無駄遣【むだづか】いはしないように注意【ちゅうい】している。",
+    "meaning": "I am careful not to waste time."
+  },
+  {
+    "sentence": "その時、私はまだ子供でした。",
+    "sentence_furigana": "その時【とき】、私【わたし】はまだ子供【こども】でした。",
+    "meaning": "At that time, I was still a child."
+  },
+  {
+    "sentence": "時間を有効に使う方法を学びたい。",
+    "sentence_furigana": "時間【じかん】を有効【ゆうこう】に使【つか】う方法【ほうほう】を学【まな】びたい。",
+    "meaning": "I want to learn how to use time effectively."
+  },
+  {
+    "sentence": "現代の時代は変化が激しい。",
+    "sentence_furigana": "現代【げんだい】の時代【じだい】は変化【へんか】が激【はげ】しい。",
+    "meaning": "Changes are rapid in the modern era."
+  },
+  {
+    "sentence": "彼が到着する時間まで待っていました。",
+    "sentence_furigana": "彼【かれ】が到着【とうちゃく】する時間【じかん】まで待【ま】っていました。",
+    "meaning": "I waited until the time he would arrive."
+  },
+  {
+    "sentence": "この時期は特に忙しい。",
+    "sentence_furigana": "この時期【じき】は特【とく】に忙【いそが】しい。",
+    "meaning": "This period is particularly busy."
+  },
+  {
+    "sentence": "時々、昔を思い出して懐かしくなる。",
+    "sentence_furigana": "時々【ときどき】、昔【むかし】を思【おも】い出【だ】して懐【なつ】かしくなる。",
+    "meaning": "Sometimes I recall the past and feel nostalgic."
+  },
+  {
+    "sentence": "約束の時間に遅れてごめんなさい。",
+    "sentence_furigana": "約束【やくそく】の時間【じかん】に遅【おく】れてごめんなさい。",
+    "meaning": "I'm sorry for being late for the appointed time."
+  },
+  {
+    "sentence": "次の時間までには終わらせたい。",
+    "sentence_furigana": "次【つぎ】の時間【じかん】までには終【お】わらせたい。",
+    "meaning": "I want to finish it by the next time."
+  },
+  {
+    "sentence": "時間を計るためにストップウォッチを使った。",
+    "sentence_furigana": "時間【じかん】を計【はか】るためにストップウォッチを使【つか】った。",
+    "meaning": "I used a stopwatch to measure the time."
+  },
+  {
+    "sentence": "この時間は静かで落ち着く。",
+    "sentence_furigana": "この時間【じかん】は静【しず】かで落【お】ち着【つ】く。",
+    "meaning": "This time is quiet and calming."
+  },
+  {
+    "sentence": "時がすべてを癒すと言われている。",
+    "sentence_furigana": "時【とき】がすべてを癒【い】やすと言【い】われている。",
+    "meaning": "It is said that time heals all."
+  },
+  {
+    "sentence": "彼女はいつも時間に余裕を持って行動する。",
+    "sentence_furigana": "彼女【かのじょ】はいつも時間【じかん】に余裕【よゆう】を持【も】って行動【こうどう】する。",
+    "meaning": "She always acts with plenty of time to spare."
+  },
+  {
+    "sentence": "時給計算で給料が決まる。",
+    "sentence_furigana": "時給計算【じきゅうけいさん】で給料【きゅうりょう】が決【き】まる。",
+    "meaning": "Salary is determined by hourly wage calculation."
+  },
+  {
+    "sentence": "現代の時代に生きる我々は、多くの情報に囲まれている。",
+    "sentence_furigana": "現代【げんだい】の時代【じだい】に生【い】きる我々【われわれ】は、多【おお】くの情報【じょうほう】に囲【かこ】まれている。",
+    "meaning": "We who live in modern times are surrounded by a lot of information."
+  },
+  {
+    "sentence": "待ち合わせの時間に遅れないように早めに出発した。",
+    "sentence_furigana": "待合【まちあ】わせの時間【じかん】に遅【おく】れないように早【はや】めに出発【しゅっぱつ】した。",
+    "meaning": "I left early so as not to be late for the meeting time."
+  },
+  {
+    "sentence": "当時の状況を詳しく教えてください。",
+    "sentence_furigana": "当時【とうじ】の状況【じょうきょう】を詳【くわ】しく教【おし】えてください。",
+    "meaning": "Please tell me about the situation at that time in detail."
+  },
+  {
+    "sentence": "時間は誰にでも平等に与えられている。",
+    "sentence_furigana": "時間【じかん】は誰【だれ】にでも平等【びょうどう】に与【あた】えられている。",
+    "meaning": "Time is given equally to everyone."
+  },
+  {
+    "sentence": "この作業はかなりの時間が必要だ。",
+    "sentence_furigana": "この作業【さぎょう】はかなりの時間【じかん】が必要【ひつよう】だ。",
+    "meaning": "This task requires a considerable amount of time."
+  },
+  {
+    "sentence": "時々、一人で静かに過ごす時間も大切だ。",
+    "sentence_furigana": "時々【ときどき】、一人【ひとり】で静【しず】かに過【す】ごす時間【じかん】も大切【たいせつ】だ。",
+    "meaning": "Sometimes, time spent alone quietly is also important."
+  },
+  {
+    "sentence": "終業時間まであと一時間です。",
+    "sentence_furigana": "終業時間【しゅうぎょうじかん】まであと一時間【いちじかん】です。",
+    "meaning": "There is one hour left until closing time."
+  },
+  {
+    "sentence": "彼は時間の使い方を工夫している。",
+    "sentence_furigana": "彼【かれ】は時間【じかん】の使【つか】い方【かた】を工夫【くふう】している。",
+    "meaning": "He is devising ways to use his time."
+  },
+  {
+    "sentence": "この博物館では、時間の流れを体験できます。",
+    "sentence_furigana": "この博物館【はくぶつかん】では、時間【とき】の流れ【なが】れを体験【たいけん】できます。",
+    "meaning": "In this museum, you can experience the flow of time."
+  },
+  {
+    "sentence": "次の会議はいつの時間帯が都合が良いですか？",
+    "sentence_furigana": "次【つぎ】の会議【かいぎ】はいつの時間帯【じかんたい】が都合【つごう】が良い【よい】ですか？",
+    "meaning": "What time slot is convenient for the next meeting?"
+  },
+  {
+    "sentence": "昔の人は時間の感覚が違ったのだろう。",
+    "sentence_furigana": "昔【むかし】の人【ひと】は時間【じかん】の感覚【かんかく】が違【ちが】ったのだろう。",
+    "meaning": "People in the past probably had a different sense of time."
+  },
+  {
+    "sentence": "この問題に費やした時間は決して無駄ではなかった。",
+    "sentence_furigana": "この問題【もんだい】に費【つい】やした時間【じかん】は決【けっ】して無駄【むだ】ではなかった。",
+    "meaning": "The time spent on this problem was by no means wasted."
+  },
+  {
+    "sentence": "彼は時間を盗むような存在だ。",
+    "sentence_furigana": "彼【かれ】は時間【じかん】を盗【ぬす】むような存在【そんざい】だ。",
+    "meaning": "He is someone who steals time."
+  },
+  {
+    "sentence": "毎時間、時計の針が進む音を聞く。",
+    "sentence_furigana": "毎時間【まいじかん】、時計【とけい】の針【はり】が進【すす】む音【おと】を聞【き】く。",
+    "meaning": "Every hour, I hear the sound of the clock's hands moving."
+  },
+  {
+    "sentence": "時間の制約があるため、迅速な対応が求められます。",
+    "sentence_furigana": "時間【じかん】の制約【せいやく】があるため、迅速【じんそく】な対応【たいおう】が求【もと】められます。",
+    "meaning": "Due to time constraints, prompt action is required."
+  },
+  {
+    "sentence": "この時代に生まれたことを幸せに思う。",
+    "sentence_furigana": "この時代【じだい】に生【う】まれたことを幸【しあわ】せに思【おも】う。",
+    "meaning": "I feel fortunate to have been born in this era."
+  },
+  {
+    "sentence": "次の予定の時間まで少し余裕がある。",
+    "sentence_furigana": "次【つぎ】の予定【よてい】の時間【じかん】まで少【すこ】し余裕【よゆう】がある。",
+    "meaning": "There is a little time to spare until the next appointment."
+  },
+  {
+    "sentence": "彼の話はいつも時間がかかる。",
+    "sentence_furigana": "彼【かれ】の話【はなし】はいつも時間【じかん】がかかる。",
+    "meaning": "His stories always take time."
+  },
+  {
+    "sentence": "時は金なり、だから時間を無駄にしてはいけない。",
+    "sentence_furigana": "時【とき】は金【かね】なり、だから時間【じかん】を無駄【むだ】にしてはいけない。",
+    "meaning": "Time is money, so you shouldn't waste time."
+  },
+  {
+    "sentence": "その時々で最適な方法を選びます。",
+    "sentence_furigana": "その時々【ときどき】で最適【さいてき】な方法【ほうほう】を選【えら】びます。",
+    "meaning": "We choose the best method for each occasion."
+  },
+  {
+    "sentence": "この仕事には十分な時間が必要です。",
+    "sentence_furigana": "この仕事【しごと】には十分【じゅうぶん】な時間【じかん】が必要【ひつよう】です。",
+    "meaning": "This job requires sufficient time."
+  },
+  {
+    "sentence": "子供の成長する時間を大切にしたい。",
+    "sentence_furigana": "子供【こども】の成長【せいちょう】する時間【とき】を大切【たいせつ】にしたい。",
+    "meaning": "I want to cherish the time of a child's growth."
+  },
+  {
+    "sentence": "会議は午後一時十分開始です。",
+    "sentence_furigana": "会議【かいぎ】は午後一時十分【ごごいちじじゅっぷん】開始【かいし】です。",
+    "meaning": "The meeting starts at 1:10 PM."
+  },
+  {
+    "sentence": "時間を遡ることはできない。",
+    "sentence_furigana": "時間【じかん】を遡【さかのぼ】ることはできない。",
+    "meaning": "One cannot go back in time."
+  },
+  {
+    "sentence": "彼が来るまでの時間を潰す必要がある。",
+    "sentence_furigana": "彼【かれ】が来【く】るまで的时间【じかん】を潰【つぶ】す必要【ひつよう】がある。",
+    "meaning": "I need to kill time until he arrives."
+  },
+  {
+    "sentence": "当時の記録を調べる時間はありませんでした。",
+    "sentence_furigana": "当時【とうじ】の記録【きろく】を調【しら】べる時間【じかん】はありませんでした。",
+    "meaning": "There was no time to check the records from that time."
+  },
+  {
+    "sentence": "時として、予期せぬ出来事が起こる。",
+    "sentence_furigana": "時【とき】として、予期【よき】せぬ出来事【できごと】が起【お】こる。",
+    "meaning": "At times, unexpected events occur."
+  },
+  {
+    "sentence": "この手続きには約三時間かかります。",
+    "sentence_furigana": "この手続き【てつづき】には約三時間【やくさんじかん】かかります。",
+    "meaning": "This procedure takes about three hours."
+  },
+  {
+    "sentence": "時間を有効に使えば、もっと多くのことができる。",
+    "sentence_furigana": "時間【じかん】を有効【ゆうこう】に使【つか】えば、もっと多【おお】くのこと、できる。",
+    "meaning": "If you use time effectively, you can do more."
+  },
+  {
+    "sentence": "彼らは時給1000円で働いている。",
+    "sentence_furigana": "彼【かれ】らは時給【じきゅう】1000円【えん】で働【はたら】いている。",
+    "meaning": "They are working for 1000 yen per hour."
+  },
+  {
+    "sentence": "この時間帯は交通量が多い。",
+    "sentence_furigana": "この時間帯【じかんたい】は交通量【こうつうりょう】が多【おお】い。",
+    "meaning": "Traffic volume is high during this time of day."
+  },
+  {
+    "sentence": "人生の時はあっという間に過ぎる。",
+    "sentence_furigana": "人生【じんせい】の時【とき】はあっという間に過【す】ぎる。",
+    "meaning": "The time of life passes in the blink of an eye."
+  },
+  {
+    "sentence": "次の時間まで休憩を取りましょう。",
+    "sentence_furigana": "次【つぎ】の授業【じゅぎょう】の時間【じかん】まで休憩【きゅうけい】を取【と】りましょう。",
+    "meaning": "Let's take a break until the next class time."
+  },
+  {
+    "sentence": "時間をかければ良いものができるはずだ。",
+    "sentence_furigana": "時間【じかん】をかければ良【よ】いもの、できるはずだ。",
+    "meaning": "If you take your time, you should be able to make something good."
+  },
+  {
+    "sentence": "時の流れは止められないが、思い出は残る。",
+    "sentence_furigana": "時【とき】の流れ【なが】れは止【と】められないが、思【おも】い出【で】は残【のこ】る。",
+    "meaning": "The flow of time cannot be stopped, but memories remain."
+  },
+  {
+    "sentence": "毎時、定刻通りに時計の鐘が鳴る。",
+    "sentence_furigana": "毎時【まいじ】、定刻通【ていこくどお】りに時計【とけい】の鐘【かね】が鳴【な】る。",
+    "meaning": "Every hour, the clock chimes on time."
+  },
+  {
+    "sentence": "時間の余裕を持って行動することが大切だ。",
+    "sentence_furigana": "時間【じかん】の余裕【よゆう】を持【も】って行動【こうどう】すること、大切【たいせつ】だ。",
+    "meaning": "It is important to act with plenty of time."
+  },
+  {
+    "sentence": "彼は時間を盗むような話し方をする。",
+    "sentence_furigana": "彼【かれ】は時間【じかん】を盗【ぬす】むような話【はな】し方【かた】をする。",
+    "meaning": "He has a way of talking that seems to steal time."
+  },
+  {
+    "sentence": "この仕事は時間がかかりますが、やりがいがあります。",
+    "sentence_furigana": "この仕事【しごと】は時間【じかん】がかかりますが、やりがいがあります。",
+    "meaning": "This job takes time, but it is rewarding."
+  },
+  {
+    "sentence": "彼は時間に正確な人だ。",
+    "sentence_furigana": "彼【かれ】は時間【じかん】に正確【せいかく】な人【ひと】だ。",
+    "meaning": "He is a person who is punctual."
+  },
+  {
+    "sentence": "時の流れの中で、多くのことが変わった。",
+    "sentence_furigana": "時【とき】の流れ【なが】れの中【なか】で、多【おお】くのこと、変【か】わった。",
+    "meaning": "Much has changed in the flow of time."
+  },
+  {
+    "sentence": "次の時間までには必ず終わらせる。",
+    "sentence_furigana": "次【つぎ】の時間【じかん】までには必【かな】らず終【お】わらせる。",
+    "meaning": "I will definitely finish by the next time."
+  },
+  {
+    "sentence": "時間を大切にしなさい。",
+    "sentence_furigana": "時間【じかん】を大切【たいせつ】にしなさい。",
+    "meaning": "Cherish your time."
+  },
+  {
+    "sentence": "この時計は時間を正確に教えてくれる。",
+    "sentence_furigana": "この時計【とけい】は時間【じかん】を正確【せいかく】に教【おし】えてくれる。",
+    "meaning": "This clock tells me the time accurately."
+  },
+  {
+    "sentence": "時給制のアルバイトを探しています。",
+    "sentence_furigana": "時給制【じきゅうせい】のアルバイトを探【さが】しています。",
+    "meaning": "I am looking for an hourly wage part-time job."
+  },
+  {
+    "sentence": "この時代はコンピュータが普及した。",
+    "sentence_furigana": "この時代【じだい】はコンピュータ普及【ふきゅう】した。",
+    "meaning": "Computers became widespread in this era."
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "この病気は体に様々な障礙を引き起こす。",
+    "sentence_furigana": "この病気【びょうき】は体【からだ】に様々【さまざま】な障礙【しょうがい】を引き【ひき】起こす【おこす】。",
+    "meaning": "This illness causes various hindrances to the body."
+  },
+  {
+    "sentence": "彼の発言は会議の進行を障った。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は会議【かいぎ】の進行【しんこう】を障【さわ】った。",
+    "meaning": "His remarks hindered the progress of the meeting."
+  },
+  {
+    "sentence": "法律の改正により、古い制度に障礙が生じた。",
+    "sentence_furigana": "法律【ほうりつ】の改正【かいせい】により、古【ふる】い制度【せいど】に障礙【しょうがい】が生【しょう】じた。",
+    "meaning": "Due to the revision of the law, hindrances arose in the old system."
+  },
+  {
+    "sentence": "精神的な障壁が、彼の成長を阻んでいる。",
+    "sentence_furigana": "精神的【せいしんてき】な障壁【しょうへき】が、彼【かれ】の成長【せいちょう】を阻【はば】んでいる。",
+    "meaning": "Psychological barriers are hindering his growth."
+  },
+  {
+    "sentence": "新しい事業は多くの障壁に直面している。",
+    "sentence_furigana": "新【あたら】しい事業【じぎょう】は多【おお】くの障壁【しょうへき】に直面【ちょくめん】している。",
+    "meaning": "The new business is facing many obstacles."
+  },
+  {
+    "sentence": "障害物を避けて進む必要がある。",
+    "sentence_furigana": "障害物【しょうがいぶつ】を避【さ】けて進【すす】む必要【ひつよう】がある。",
+    "meaning": "It is necessary to advance by avoiding obstacles."
+  },
+  {
+    "sentence": "彼の健康は目に見えない障りに苦しんでいる。",
+    "sentence_furigana": "彼【かれ】の健康【けんこう】は目【め】に見【み】えない障【さわ】りに苦【くる】しんでいる。",
+    "meaning": "His health is suffering from invisible ailments."
+  },
+  {
+    "sentence": "環境汚染は生態系に深刻な障いをもたらす。",
+    "sentence_furigana": "環境汚染【かんきょうおせん】は生態系【せいたいけい】に深刻【しんこく】な障【さわ】いをもたらす。",
+    "meaning": "Environmental pollution brings severe harm to the ecosystem."
+  },
+  {
+    "sentence": "予算不足がプロジェクトの進行を障げている。",
+    "sentence_furigana": "予算不足【よさんふそく】がプロジェクトの進行【しんこう】を障【さわ】げている。",
+    "meaning": "Lack of budget is hindering the progress of the project."
+  },
+  {
+    "sentence": "古い技術は最新の進歩に障となる。",
+    "sentence_furigana": "古【ふる】い技術【ぎじゅつ】は最新【さいしん】の進歩【しんぽ】に障【さわ】りとなる。",
+    "meaning": "Old technology becomes a hindrance to the latest progress."
+  },
+  {
+    "sentence": "この問題は解決にかなりの障りがある。",
+    "sentence_furigana": "この問題【もんだい】は解決【かいけつ】にかならい障【さわ】りがある。",
+    "meaning": "This problem presents considerable difficulty in solving it."
+  },
+  {
+    "sentence": "彼の度重なる遅刻は、チームの士気を障った。",
+    "sentence_furigana": "彼【かれ】の度重【たびかさ】なる遅刻【ちこく】は、チームの士気【しき】を障【さわ】った。",
+    "meaning": "His repeated lateness harmed the team's morale."
+  },
+  {
+    "sentence": "法律の穴を突くことで、課税を障ることは可能だ。",
+    "sentence_furigana": "法律【ほうりつ】の穴【あな】を突【つ】くことで、課税【かぜい】を障【さわ】ることは可能【かのう】だ。",
+    "meaning": "By exploiting loopholes in the law, it is possible to avoid taxation."
+  },
+  {
+    "sentence": "通信障害により、会議が一時中断された。",
+    "sentence_furigana": "通信障害【つうしんしょうがい】により、会議【かいぎ】が一時中断【いちじちゅうだん】された。",
+    "meaning": "Due to communication failure, the meeting was temporarily interrupted."
+  },
+  {
+    "sentence": "視覚障がいを持つ人々への配慮が必要だ。",
+    "sentence_furigana": "視覚障がい【しかくしょうがい】を持【も】つ人々【ひとびと】への配慮【はいりょ】が必要【ひつよう】だ。",
+    "meaning": "Consideration is needed for people with visual impairments."
+  },
+  {
+    "sentence": "インフラの未整備が経済発展の障壁となっている。",
+    "sentence_furigana": "インフラの未整備【みせいび】が経済発展【けいざいはったん】の障壁【しょうへき】となっている。",
+    "meaning": "Underdeveloped infrastructure is a barrier to economic development."
+  },
+  {
+    "sentence": "彼の無責任な行動がプロジェクトに障をきたした。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な行動【こうどう】がプロジェクトに障【さわ】りをきたした。",
+    "meaning": "His irresponsible actions caused trouble for the project."
+  },
+  {
+    "sentence": "その規則は自由な活動を大いに障っている。",
+    "sentence_furigana": "その規則【きそく】は自由【じゆう】な活動【かつどう】を大【おお】いに障【さわ】っている。",
+    "meaning": "That rule greatly hinders free activities."
+  },
+  {
+    "sentence": "天候の悪化が屋外イベントの開催を障げた。",
+    "sentence_furigana": "天候【てんこう】の悪化【あっか】が屋外イベント【おくがいイベント】の開催【かいさい】を障【さわ】げた。",
+    "meaning": "The worsening weather hindered the holding of the outdoor event."
+  },
+  {
+    "sentence": "技術的な問題がシステムの安定運用を障っている。",
+    "sentence_furigana": "技術的【ぎじゅつてき】な問題【もんだい】がシステムのア安定運用【あんていうんよう】を障【さわ】っている。",
+    "meaning": "Technical problems are hindering the stable operation of the system."
+  },
+  {
+    "sentence": "差別的な意識は社会の進歩を障げる。",
+    "sentence_furigana": "差別的【さべつてき】な意識【いしき】は社会【しゃかい】の進歩【しんぽ】を障【さわ】げる。",
+    "meaning": "Discriminatory attitudes hinder social progress."
+  },
+  {
+    "sentence": "彼女の言葉は私の決意を少なからず障った。",
+    "sentence_furigana": "彼女【かのじょ】の言葉【ことば】は私【わたし】の決意【けつい】を少【すく】なからず障【さわ】った。",
+    "meaning": "Her words hindered my resolve to no small extent."
+  },
+  {
+    "sentence": "教育の機会均等が保障されないと、才能の開花が障られる。",
+    "sentence_furigana": "教育【きょういく】の機会均等【きかいきんとう】が保障【ほしょう】されないと、才能【さいのう】の開花【かいか】が障【さわ】られる。",
+    "meaning": "If equal educational opportunities are not guaranteed, the blossoming of talent will be hindered."
+  },
+  {
+    "sentence": "この法案は経済活動に悪影響を障る可能性がある。",
+    "sentence_furigana": "この法案【ほうあん】は経済活動【けいざいかつどう】に悪影響【あくえいきょう】を障【さわ】る可能性【かのうせい】がある。",
+    "meaning": "This bill may adversely affect economic activities."
+  },
+  {
+    "sentence": "彼は病気のため、大会への出場を障らざるを得なかった。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】のため、大会【たいかい】への出場【しゅつじょう】を障【さわ】らざるを得【え】なかった。",
+    "meaning": "He had no choice but to refrain from participating in the tournament due to illness."
+  },
+  {
+    "sentence": "不十分な情報が意思決定を障げている。",
+    "sentence_furigana": "不十分【ふじゅうぶん】な情報【じょうほう】が意思決定【いしけってい】を障【さわ】げている。",
+    "meaning": "Insufficient information is hindering decision-making."
+  },
+  {
+    "sentence": "彼の傲慢な態度は、周囲との協調を障った。",
+    "sentence_furigana": "彼【かれ】の傲慢【ごうまん】な態度【たいど】は、周囲【しゅうい】との協調【きょうちょう】を障【さわ】った。",
+    "meaning": "His arrogant attitude hindered cooperation with those around him."
+  },
+  {
+    "sentence": "古いインフラは都市開発の大きな障壁となっている。",
+    "sentence_furigana": "古【ふる】いインフラは都市開発【としかいはつ】の μεγάλα 障壁【しょうへき】となっている。",
+    "meaning": "Old infrastructure is a major barrier to urban development."
+  },
+  {
+    "sentence": "この装置は操作が複雑で、一般の人には障りになる。",
+    "sentence_furigana": "この装置【そうち】は操作【そうさ】が複雑【ふくざつ】で、一般【いっぱん】の人【ひと】には障【さわ】りになる。",
+    "meaning": "This device is complex to operate and becomes a hindrance for general people."
+  },
+  {
+    "sentence": "過剰な規制は、中小企業の成長を障げている。",
+    "sentence_furigana": "過剰【かじょう】な規制【きせい】は、中小企業【ちゅうしょうきぎょう】の成長【せいちょう】を障【さわ】げている。",
+    "meaning": "Excessive regulations are hindering the growth of small and medium-sized enterprises."
+  },
+  {
+    "sentence": "自然災害は開発計画の実施を障ることがある。",
+    "sentence_furigana": "自然災害【しぜんさいがい】は開発計画【かいはつけいかく】の実施【じっし】を障【さわ】ることがある。",
+    "meaning": "Natural disasters can hinder the implementation of development plans."
+  },
+  {
+    "sentence": "彼のひどい咳は、講義の間、皆の集中を障った。",
+    "sentence_furigana": "彼【かれ】のひどい咳【せき】は、講義【こうぎ】の間【あいだ】、皆【みな】の集中【しゅうちゅう】を障【さわ】った。",
+    "meaning": "His terrible cough disturbed everyone's concentration during the lecture."
+  },
+  {
+    "sentence": "障がい者雇用を促進するための法整備が必要だ。",
+    "sentence_furigana": "障がい者雇用【しょうがいしゃこよう】を促進【そくしん】するための法整備【ほうせいび】が必要【ひつよう】だ。",
+    "meaning": "Legal frameworks are needed to promote the employment of people with disabilities."
+  },
+  {
+    "sentence": "その計画は予期せぬ問題によって障げられた。",
+    "sentence_furigana": "その計画【けいかく】は予期せぬ問題【よきせぬもんだい】によって障【さわ】げられた。",
+    "meaning": "That plan was hindered by unexpected problems."
+  },
+  {
+    "sentence": "古い慣習が新しい技術の導入を障っている。",
+    "sentence_furigana": "古【ふる】い慣習【かんしゅう】が新【あたら】しい技術【ぎじゅつ】の導入【どうにゅう】を障【さわ】っている。",
+    "meaning": "Old customs are hindering the introduction of new technology."
+  },
+  {
+    "sentence": "経済的な困難が彼の留学を障げた。",
+    "sentence_furigana": "経済的【けいざいてき】な困難【こんなん】が彼【かれ】の留学【りゅうがく】を障【さわ】げた。",
+    "meaning": "Financial difficulties hindered his study abroad."
+  },
+  {
+    "sentence": "彼の突然の病状は、大事なプレゼンテーションを障った。",
+    "sentence_furigana": "彼【かれ】の突然【とつぜん】の病状【びょうじょう】は、大事【だいじ】なプレゼンテーションを障【さわ】った。",
+    "meaning": "His sudden illness hindered an important presentation."
+  },
+  {
+    "sentence": "情報伝達の不備は、チームワークを著しく障る。",
+    "sentence_furigana": "情報伝達【じょうほうでんたつ】の不備【ふび】は、チームワークを著【いちじる】しく障【さわ】る。",
+    "meaning": "Poor information transmission significantly hinders teamwork."
+  },
+  {
+    "sentence": "交通渋滞が会議への遅刻を招く障因となった。",
+    "sentence_furigana": "交通渋滞【こうつうじゅうたい】が会議【かいぎ】への遅刻【ちこく】を招【まね】く障因【しょういん】となった。",
+    "meaning": "Traffic congestion became a cause that hindered being on time for the meeting."
+  },
+  {
+    "sentence": "精神的な障壁を乗り越えることが重要だ。",
+    "sentence_furigana": "精神的【せいしんてき】な障壁【しょうへき】を乗【の】り越【こ】えることが重要【じゅうよう】だ。",
+    "meaning": "It is important to overcome psychological barriers."
+  },
+  {
+    "sentence": "法律の改正が、企業の活動を多少なりとも障った。",
+    "sentence_furigana": "法律【ほうりつ】の改正【かいせい】が、企業【きぎょう】の活動【かつどう】を多少【たしょう】なりとも障【さわ】った。",
+    "meaning": "The revision of the law hindered the company's activities to some extent."
+  },
+  {
+    "sentence": "彼は身体的な障がいを抱えながらも、強く生きている。",
+    "sentence_furigana": "彼【かれ】は身体的【しんたいてき】な障がい【しょうがい】を抱【いだ】えながらも、強【つよ】く生【い】きている。",
+    "meaning": "He lives strongly despite having a physical disability."
+  },
+  {
+    "sentence": "政治的な不安定さが経済成長の障壁となっている。",
+    "sentence_furigana": "政治的【せいじてき】な不安定【ふあんてい】さが経済成長【けいざいせいちょう】の障壁【しょうへき】となっている。",
+    "meaning": "Political instability is a barrier to economic growth."
+  },
+  {
+    "sentence": "このソフトウェアは互換性の問題で導入を障っている。",
+    "sentence_furigana": "このソフトウェアは互換性【ごかんせい】の問題【もんだい】で導入【どうにゅう】を障【さわ】っている。",
+    "meaning": "This software is hindering its introduction due to compatibility issues."
+  },
+  {
+    "sentence": "彼の消極的な態度は、チームの士気を大いに障っていた。",
+    "sentence_furigana": "彼【かれ】の消極的【しょうきょくてき】な態度【たいど】は、チームの士気【しき】を大【おお】いに障【さわ】っていた。",
+    "meaning": "His passive attitude greatly hindered the team's morale."
+  },
+  {
+    "sentence": "突然の悪天候が運動会の実施を障げた。",
+    "sentence_furigana": "突然【とつぜん】の悪天候【あくてんこう】が運動会【うんどうかい】の実施【じっし】を障【さわ】げた。",
+    "meaning": "Sudden bad weather hindered the implementation of the sports day."
+  },
+  {
+    "sentence": "彼の無理解な言動は、周囲との関係を悪化させ、多くの障りを生んだ。",
+    "sentence_furigana": "彼【かれ】の無理解【むりかい】な言動【げんどう】は、周囲【しゅうい】との関係【かんけい】を悪化【あっか】させ、多【おお】くの障【さわ】りを生【う】んだ。",
+    "meaning": "His incomprehensible words and actions worsened relationships with those around him, causing much trouble."
+  },
+  {
+    "sentence": "その法律は市民の自由な活動を不当に障るものである。",
+    "sentence_furigana": "その法律【ほうりつ】は市民【しみん】の自由【じゆう】な活動【かつどう】を不当【ふとう】に障【さわ】るものである。",
+    "meaning": "That law unjustly hinders the free activities of citizens."
+  },
+  {
+    "sentence": "彼女は学習障害を抱えているが、懸命に努力している。",
+    "sentence_furigana": "彼女【かのじょ】は学習障害【がくしゅうしょうがい】を抱【いだ】えているが、懸命【けんめい】に努力【どりょく】している。",
+    "meaning": "She has a learning disability but is working hard."
+  },
+  {
+    "sentence": "インフラの老朽化が経済活動の障壁となっている。",
+    "sentence_furigana": "インフラの老朽化【ろうきゅうか】が経済活動【けいざいかつどう】の障壁【しょうへき】となっている。",
+    "meaning": "Aging infrastructure is a barrier to economic activity."
+  },
+  {
+    "sentence": "彼の不注意な行動が、計画全体に障りをきたした。",
+    "sentence_furigana": "彼【かれ】の不注意【ふちゅうい】な行動【こうどう】が、計画全体【けいかくぜんたい】に障【さわ】りをきたした。",
+    "meaning": "His careless actions caused trouble for the entire plan."
+  },
+  {
+    "sentence": "この新しいシステムは、既存の業務フローに障りを与えている。",
+    "sentence_furigana": "この新【あたら】しいシステムは、既存【きそん】の業務フローに障【さわ】りを与【あた】えている。",
+    "meaning": "This new system is causing trouble to the existing business flow."
+  },
+  {
+    "sentence": "彼の度重なる反対意見が、議論の進行を障った。",
+    "sentence_furigana": "彼【かれ】の度重【たびかさ】なる反対意見【はんたいけん】が、議論【ぎろん】の進行【しんこう】を障【さわ】った。",
+    "meaning": "His repeated opposing opinions hindered the progress of the discussion."
+  },
+  {
+    "sentence": "気象条件の悪化が、救援活動を大きく障った。",
+    "sentence_furigana": "気象条件【きしょうじょうけん】の悪化【あっか】が、救援活動【きゅうえんかつどう】を大【おお】きく障【さわ】った。",
+    "meaning": "The worsening weather conditions greatly hindered rescue activities."
+  },
+  {
+    "sentence": "その規則は自由な研究活動を不当に障る。",
+    "sentence_furigana": "その規則【きそく】は自由【じゆう】な研究活動【けんきゅうかつどう】を不当【ふとう】に障【さわ】る。",
+    "meaning": "That regulation unjustly hinders free research activities."
+  },
+  {
+    "sentence": "聴覚障がい者とのコミュニケーションには特別な配慮が必要だ。",
+    "sentence_furigana": "聴覚障がい者【ちょうかくしょうがいしゃ】とのコミュニケーションには特別【とくべつ】な配慮【はいりょ】が必要【ひつよう】だ。",
+    "meaning": "Special consideration is necessary for communication with hearing-impaired individuals."
+  },
+  {
+    "sentence": "彼の怠慢な態度は、チーム全体の士気を障った。",
+    "sentence_furigana": "彼【かれ】の怠慢【たいまん】な態度【たいど】は、チーム全体【ぜんたい】の士気【しき】を障【さわ】った。",
+    "meaning": "His negligent attitude harmed the morale of the entire team."
+  },
+  {
+    "sentence": "予期せぬ技術的問題がプロジェクトの遅延という障りを生んだ。",
+    "sentence_furigana": "予期せぬ技術的問題【よきせぬぎじゅつもんだい】がプロジェクトの遅延【ちえん】という障【さわ】りを生【う】んだ。",
+    "meaning": "Unexpected technical problems caused a hindrance in the form of project delays."
+  },
+  {
+    "sentence": "この地域は、自然環境の保護と開発の間で大きな障壁に直面している。",
+    "sentence_furigana": "この地域【ちいき】は、自然環境【しぜんかんきょう】の保護【ほご】と開発【かいはつ】の間【あいだ】で大【おお】きな障壁【しょうへき】に直面【ちょくめん】している。",
+    "meaning": "This region faces a major barrier between the protection of the natural environment and development."
+  },
+  {
+    "sentence": "彼の無関心な態度は、会議の活発な意見交換を障った。",
+    "sentence_furigana": "彼【かれ】の無関心【むかんしん】な態度【たいど】は、会議【かいぎ】の活発【かっぱつ】な意見交換【いけんこうかん】を障【さわ】った。",
+    "meaning": "His indifferent attitude hindered the lively exchange of opinions at the meeting."
+  },
+  {
+    "sentence": "その古い法律は、現代社会の進歩を不必要に障っている。",
+    "sentence_furigana": "その古【ふる】い法律【ほうりつ】は、現代社会【げんだいしゃかい】の進歩【しんぽ】を不必要【ふひつよう】に障【さわ】っている。",
+    "meaning": "That old law unnecessarily hinders the progress of modern society."
+  },
+  {
+    "sentence": "彼女は学習障害を乗り越え、学業で成功を収めた。",
+    "sentence_furigana": "彼女【かのじょ】は学習障害【がくしゅうしょうがい】を乗【の】り越【こ】え、学業【がくぎょう】で成功【せいこう】を収【おさ】めた。",
+    "meaning": "She overcame her learning disability and achieved academic success."
+  },
+  {
+    "sentence": "物理的な障壁は、多くの人々の移動の自由を制限する。",
+    "sentence_furigana": "物理的【ぶつりてき】な障壁【しょうへき】は、多【おお】くの人々【ひとびと】の移動【いどう】の自由【じゆう】を制限【せいげん】する。",
+    "meaning": "Physical barriers restrict the freedom of movement for many people."
+  },
+  {
+    "sentence": "彼の無計画な行動が、プロジェクトの進行を大いに障げた。",
+    "sentence_furigana": "彼【かれ】の無計画【むけいかく】な行動【こうどう】が、プロジェクトの進行【しんこう】を大【おお】いに障【さわ】げた。",
+    "meaning": "His unplanned actions greatly hindered the progress of the project."
+  },
+  {
+    "sentence": "この古いシステムは、新しい技術との互換性において障りがある。",
+    "sentence_furigana": "この古【ふる】いシステムは、新【あたら】しい技術【ぎじゅつ】との互換性【ごかんせい】において障【さわ】りがある。",
+    "meaning": "This old system has compatibility issues with new technologies."
+  },
+  {
+    "sentence": "コミュニケーション不足は、チーム内の連携を障る根本原因の一つだ。",
+    "sentence_furigana": "コミュニケーション不足【ぶそく】は、チーム内【うち】の連携【れんけい】を障【さわ】る根本原因【こんぽんげんいん】の一【ひと】つだ。",
+    "meaning": "Lack of communication is one of the root causes that hinder cooperation within the team."
+  },
+  {
+    "sentence": "彼の無責任な態度は、会議の生産性を著しく障った。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な態度【たいど】は、会議【かいぎ】の生産性【せいさんせい】を著【いちじる】しく障【さわ】った。",
+    "meaning": "His irresponsible attitude significantly hindered the productivity of the meeting."
+  },
+  {
+    "sentence": "天災は、経済活動の復興を大きく障る要因となる。",
+    "sentence_furigana": "天災【てんさい】は、経済活動【けいざいかつどう】の復興【ふっこう】を大【おお】きく障【さわ】る要因【よういん】となる。",
+    "meaning": "Natural disasters become factors that greatly hinder the recovery of economic activities."
+  },
+  {
+    "sentence": "その法律は、中小企業の自由な経営活動を障げているとの批判がある。",
+    "sentence_furigana": "その法律【ほうりつ】は、中小企業【ちゅうしょうきぎょう】の自由【じゆう】な経営活動【けいえいかつどう】を障【さわ】げているとの批判【ひはん】がある。",
+    "meaning": "There is criticism that the law hinders the free business activities of small and medium-sized enterprises."
+  },
+  {
+    "sentence": "彼は視覚障がいがあるにも関わらず、積極的に社会参加している。",
+    "sentence_furigana": "彼【かれ】は視覚障がい【しかくしょうがい】があるにも関【かか】わらず、積極的【せっきょくてき】に社会参加【しゃかいさんか】している。",
+    "meaning": "Despite having a visual impairment, he actively participates in society."
+  },
+  {
+    "sentence": "彼の無知ゆえの言動が、建設的な議論を障った。",
+    "sentence_furigana": "彼【かれ】の無知【むち】ゆえの言動【げんどう】が、建設的【けんせつてき】な議論【ぎろん】を障【さわ】った。",
+    "meaning": "His words and actions due to ignorance hindered constructive discussion."
+  },
+  {
+    "sentence": "古いインフラ整備の遅れが、都市機能の発展を障げている。",
+    "sentence_furigana": "古【ふる】いインフラ整備【せいび】の遅【おく】れが、都市機能【としきのう】の発展【はってん】を障【さわ】げている。",
+    "meaning": "The delay in old infrastructure development is hindering the development of urban functions."
+  },
+  {
+    "sentence": "この政治体制は、国民の自由な表現を障る可能性がある。",
+    "sentence_furigana": "この政治体制【せいじたいせい】は、国民【こくみん】の自由【じゆう】な表現【ひょうげん】を障【さわ】る可能性【かのうせい】がある。",
+    "meaning": "This political system may hinder the free expression of the people."
+  },
+  {
+    "sentence": "彼の不適切な発言が、会議の雰囲気を悪化させ、議論の進行を障った。",
+    "sentence_furigana": "彼【かれ】の不適切【ふてきせつ】な発言【はつげん】が、会議【かいぎ】の雰囲気【ふんいき】を悪化【あっか】させ、議論【ぎろん】の進行【しんこう】を障【さわ】った。",
+    "meaning": "His inappropriate remarks worsened the meeting atmosphere and hindered the progress of the discussion."
+  },
+  {
+    "sentence": "教育機会の不均等が、若者の可能性を大きく障っている。",
+    "sentence_furigana": "教育機会【きょういくきかい】の不均等【ふきんとう】が、若者【わかもの】の可能性【かのうせい】を大【おお】きく障【さわ】っている。",
+    "meaning": "Inequality in educational opportunities greatly hinders the potential of young people."
+  },
+  {
+    "sentence": "彼の病気は、長年の夢であった音楽活動を断念せざるを得ない障りとなった。",
+    "sentence_furigana": "彼【かれ】の病気【びょうき】は、長年【ながねん】の夢【ゆめ】であった音楽活動【おんがくかつどう】を断念【だんねん】せざるを得【え】ない障【さわ】りとなった。",
+    "meaning": "His illness became a hindrance, forcing him to give up his long-held dream of musical activities."
+  },
+  {
+    "sentence": "その規則は、企業の革新的な取り組みを不必要に障げている。",
+    "sentence_furigana": "その規則【きそく】は、企業【きぎょう】の革新的【かくしんてき】な取【と】り組【く】みを不必要【ふひつよう】に障【さわ】げている。",
+    "meaning": "That regulation unnecessarily hinders the innovative initiatives of companies."
+  },
+  {
+    "sentence": "彼の無理解な態度は、関係者との円滑なコミュニケーションを障った。",
+    "sentence_furigana": "彼【かれ】の無理解【むりかい】な態度【たいど】は、関係者【かんけいしゃ】との円滑【えんかつ】なコミュニケーションを障【さわ】った。",
+    "meaning": "His lack of understanding hindered smooth communication with the parties involved."
+  },
+  {
+    "sentence": "自然災害は、地域経済の復興を大きく障る要因となる。",
+    "sentence_furigana": "自然災害【しぜんさいがい】は、地域経済【ちいけいけいざい】の復興【ふっこう】を大【おお】きく障【さわ】る要因【よういん】となる。",
+    "meaning": "Natural disasters become factors that greatly hinder the recovery of the regional economy."
+  },
+  {
+    "sentence": "この法律は、個人の自由な経済活動を不当に障るものである。",
+    "sentence_furigana": "この法律【ほうりつ】は、個人【こじん】の自由【じゆう】な経済活動【けいざいかつどう】を不当【ふとう】に障【さわ】るものである。",
+    "meaning": "This law unjustly hinders the free economic activities of individuals."
+  },
+  {
+    "sentence": "彼の無責任な発言は、チーム内の信頼関係を損ない、協力体制を障った。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な発言【はつげん】は、チーム内【うち】の信頼関係【しんらいかんけい】を損【そこな】い、協力体制【きょうりょくたいせい】を障【さわ】った。",
+    "meaning": "His irresponsible remarks damaged trust within the team and hindered cooperation."
+  },
+  {
+    "sentence": "古いインフラの老朽化は、産業の発展を大きく障る要因となっている。",
+    "sentence_furigana": "古【ふる】いインフラの老朽化【ろうきゅうか】は、産業【さんぎょう】の発展【はってん】を大【おお】きく障【さわ】る要因【よういん】となっている。",
+    "meaning": "The aging of old infrastructure is a factor that greatly hinders industrial development."
+  },
+  {
+    "sentence": "彼の無知と無関心が、プロジェクトの円滑な進行を著しく障った。",
+    "sentence_furigana": "彼【かれ】の無知【むち】と無関心【むかんしん】が、プロジェクトの円滑【えんかつ】な進行【しんこう】を著【いちじる】しく障【さわ】った。",
+    "meaning": "His ignorance and indifference significantly hindered the smooth progress of the project."
+  },
+  {
+    "sentence": "その規則は、企業のイノベーションを不必要に障げている。",
+    "sentence_furigana": "その規則【きそく】は、企業【きぎょう】のイノベーションを不必要【ふひつよう】に障【さわ】げている。",
+    "meaning": "That regulation unnecessarily hinders corporate innovation."
+  },
+  {
+    "sentence": "彼の無配慮な言動は、会議の進行を妨げ、参加者の意欲を障った。",
+    "sentence_furigana": "彼【かれ】の無配慮【むはいりょ】な言動【げんどう】は、会議【かいぎ】の進行【しんこう】を妨【さまた】げ、参加者【さんかしゃ】の意欲【いよく】を障【さわ】った。",
+    "meaning": "His inconsiderate words and actions hampered the progress of the meeting and hindered the participants' motivation."
+  },
+  {
+    "sentence": "教育格差は、子供たちの将来の可能性を大きく障る社会問題である。",
+    "sentence_furigana": "教育格差【きょういくかくさ】は、子供【こども】たちの将来【しょうらい】の可能性【かのうせい】を大【おお】きく障【さわ】る社会問題【しゃかいもんだい】である。",
+    "meaning": "Educational disparity is a social problem that greatly hinders the future potential of children."
+  },
+  {
+    "sentence": "彼の持病は、職務遂行において常に障りとなっていた。",
+    "sentence_furigana": "彼【かれ】の持病【じびょう】は、職務遂行【しょくむすいこう】において常【つね】に障【さわ】りとなっていた。",
+    "meaning": "His chronic illness was always a hindrance in carrying out his duties."
+  },
+  {
+    "sentence": "その法律は、個人の自由な活動を不当に制限し、障っている。",
+    "sentence_furigana": "その法律【ほうりつ】は、個人【こじん】の自由【じゆう】な活動【かつどう】を不当【ふとう】に制限【せいげん】し、障【さわ】っている。",
+    "meaning": "That law unjustly restricts and hinders individual freedom of activities."
+  },
+  {
+    "sentence": "彼の無計画さは、プロジェクトの進行に遅れという障りを生じさせた。",
+    "sentence_furigana": "彼【かれ】の無計画【むけいかく】ささ、プロジェクトの進行【しんこう】に遅【おく】れという障【さわ】りを生【しょう】じさせた。",
+    "meaning": "His lack of planning caused a delay in the project's progress."
+  },
+  {
+    "sentence": "古いインフラの老朽化は、経済活動の阻害要因となり、障りとなっている。",
+    "sentence_furigana": "古【ふる】いインフラの老朽化【ろうきゅうか】は、経済活動【けいざいかつどう】の阻害要因【そがいよういん】となり、障【さわ】りとなっている。",
+    "meaning": "Aging infrastructure has become an inhibiting factor for economic activities, causing hindrances."
+  },
+  {
+    "sentence": "彼の無責任な態度は、チーム全体の目標達成を大きく障った。",
+    "sentence_furigana": "彼【かれ】の無責任【むせきにん】な態度【たいど】は、チーム全体【ぜんたい】の目標達成【もくひょうたっせい】を大【おお】きく障【さわ】った。",
+    "meaning": "His irresponsible attitude greatly hindered the achievement of the entire team's goals."
+  },
+  {
+    "sentence": "その規則は、企業の創造性を不必要に障げているという指摘がある。",
+    "sentence_furigana": "その規則【きそく】は、企業【きぎょう】の創造性【そうぞうせい】を不必要【ふひつよう】に障【さわ】げているとの指摘【してき】がある。",
+    "meaning": "There is a suggestion that the regulation unnecessarily hinders corporate creativity."
+  }
+]

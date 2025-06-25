@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "彼はその計画を高く評価した。",
+    "sentence_furigana": "彼【かれ】はその計画【けいかく】を高く評価【ひょうか】した。",
+    "meaning": "He highly evaluated the plan."
+  },
+  {
+    "sentence": "この小説は多くの批評を受けた。",
+    "sentence_furigana": "この小説【しょうせつ】は多【おお】くの批評【ひひょう】を受【う】けた。",
+    "meaning": "This novel received much criticism."
+  },
+  {
+    "sentence": "彼女の演技は評論家から絶賛された。",
+    "sentence_furigana": "彼女【かのじょ】の演技【えんぎ】は評論家【ひょうろんか】から絶賛【ぜっさん】された。",
+    "meaning": "Her acting was highly praised by critics."
+  },
+  {
+    "sentence": "会議で彼の意見を評価してください。",
+    "sentence_furigana": "会議【かいぎ】で彼【かれ】の意見【いけん】を評価【ひょうか】してください。",
+    "meaning": "Please evaluate his opinion at the meeting."
+  },
+  {
+    "sentence": "その製品の評判は非常に良い。",
+    "sentence_furigana": "その製品【せいひん】の評判【ひょうばん】は非常【ひじょう】に良【よ】い。",
+    "meaning": "The reputation of that product is very good."
+  },
+  {
+    "sentence": "彼はその件についてコメントを求められた。",
+    "sentence_furigana": "彼【かれ】はその件【けん】についてコメントを求【もと】められた。",
+    "meaning": "He was asked for comments on the matter."
+  },
+  {
+    "sentence": "この映画は批判的な評価が多い。",
+    "sentence_furigana": "この映画【えいが】は批判的【ひはんてき】な評価【ひょうか】が多【おお】い。",
+    "meaning": "This movie has a lot of critical evaluation."
+  },
+  {
+    "sentence": "彼の発言は多くの議論を呼んだ。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は多【おお】くの議論【ぎろん】を呼【よ】んだ。",
+    "meaning": "His remarks caused much discussion."
+  },
+  {
+    "sentence": "この作品は芸術的価値を高く評価されている。",
+    "sentence_furigana": "この作品【さくひん】は芸術的価値【げいじゅつてきかち】を高く評価【ひょうか】されている。",
+    "meaning": "This work is highly valued for its artistic merit."
+  },
+  {
+    "sentence": "彼女の貢献は高く評価されるべきだ。",
+    "sentence_furigana": "彼女【かのじょ】の貢献【こうけん】は高く評価【ひょうか】されるべきだ。",
+    "meaning": "Her contribution should be highly appreciated."
+  },
+  {
+    "sentence": "その批評は非常に鋭かった。",
+    "sentence_furigana": "その批評【ひひょう】は非常【ひじょう】に鋭【するど】かった。",
+    "meaning": "The criticism was very sharp."
+  },
+  {
+    "sentence": "この本は学術的な評価が高い。",
+    "sentence_furigana": "この本【ほん】は学術的評価【がくじゅつてきひょうか】が高い【たか】い。",
+    "meaning": "This book has high academic evaluation."
+  },
+  {
+    "sentence": "彼は常に客観的な評価を心がけている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に客観的評価【きゃっかんてきひょうか】を心【こころ】がけている。",
+    "meaning": "He always tries to make objective evaluations."
+  },
+  {
+    "sentence": "その店の評判は口コミで広がった。",
+    "sentence_furigana": "その店【みせ】の評判【ひょうばん】は口コミで広【ひろ】がった。",
+    "meaning": "The reputation of that shop spread by word of mouth."
+  },
+  {
+    "sentence": "彼のパフォーマンスは観客の評価を得た。",
+    "sentence_furigana": "彼【かれ】のパフォーマンスは観客【かんきゃく】の評価【ひょうか】を得【え】た。",
+    "meaning": "His performance earned the audience's approval."
+  },
+  {
+    "sentence": "このソフトウェアは使いやすさで評価されている。",
+    "sentence_furigana": "このソフトウェアは使【つか】いやすさで評価【ひょうか】されている。",
+    "meaning": "This software is evaluated for its ease of use."
+  },
+  {
+    "sentence": "彼女のコメントは的確だった。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは的確【てきかく】だった。",
+    "meaning": "Her comments were accurate."
+  },
+  {
+    "sentence": "その事件に関する報道は多岐にわたる評価を生んだ。",
+    "sentence_furigana": "その事件【じけん】に関【かん】する報道【ほうどう】は多岐【たき】にわたる評価【ひょうか】を生【う】んだ。",
+    "meaning": "The reporting on the incident generated a wide range of evaluations."
+  },
+  {
+    "sentence": "彼の論文は学界から高い評価を受けている。",
+    "sentence_furigana": "彼【かれ】の論文【ろんぶん】は学界【がっかい】から高【たか】い評価【ひょうか】を受【う】けている。",
+    "meaning": "His paper has received high praise from academia."
+  },
+  {
+    "sentence": "批評家のコメントを参考にする。",
+    "sentence_furigana": "批評家【ひひょうか】のコメントを参考【さんこう】にする。",
+    "meaning": "I will refer to the critic's comments."
+  },
+  {
+    "sentence": "この大学は教育の質で評価が高い。",
+    "sentence_furigana": "この大学【だいがく】は教育【きょういく】の質【しつ】で評価【ひょうか】が高【たか】い。",
+    "meaning": "This university is highly rated for the quality of its education."
+  },
+  {
+    "sentence": "彼の業績は高く評価されるべきだ。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は高く評価【ひょうか】されるべきだ。",
+    "meaning": "His achievements should be highly valued."
+  },
+  {
+    "sentence": "この新しいシステムは多くの批判を招いた。",
+    "sentence_furigana": "この新【あたら】しいシステムは多【おお】くの批判【ひはん】を招【まね】いた。",
+    "meaning": "This new system invited much criticism."
+  },
+  {
+    "sentence": "彼女は作品について率直なコメントをした。",
+    "sentence_furigana": "彼女【かのじょ】は作品【さくひん】について率直【そっちょく】なコメントをした。",
+    "meaning": "She made frank comments about the work."
+  },
+  {
+    "sentence": "この地域は治安の悪さで評判が悪い。",
+    "sentence_furigana": "この地域【ちいき】は治安【ちあん】の悪【わる】さで評判【ひょうばん】が悪【わる】い。",
+    "meaning": "This area has a bad reputation for its poor public safety."
+  },
+  {
+    "sentence": "その俳優の演技は高く評価されている。",
+    "sentence_furigana": "その俳優【はいゆう】の演技【えんぎ】は高く評価【ひょうか】されている。",
+    "meaning": "The actor's performance is highly praised."
+  },
+  {
+    "sentence": "彼の批判的なコメントに反論した。",
+    "sentence_furigana": "彼【かれ】の批判的【ひはんてき】なコメントに反論【はんろん】した。",
+    "meaning": "I rebutted his critical comments."
+  },
+  {
+    "sentence": "この本は一般読者からの評価も高い。",
+    "sentence_furigana": "この本【ほん】は一般読者【いっぱんどくしゃ】からの評価【ひょうか】も高【たか】い。",
+    "meaning": "This book also receives high marks from general readers."
+  },
+  {
+    "sentence": "政府の対応は国民から厳しい評価を受けた。",
+    "sentence_furigana": "政府【せいふ】の対応【たいおう】は国民【こくみん】から厳【きび】しい評価【ひょうか】を受【う】けた。",
+    "meaning": "The government's response received harsh criticism from the public."
+  },
+  {
+    "sentence": "彼の分析は専門家の評価を得た。",
+    "sentence_furigana": "彼【かれ】の分析【ぶんせき】は専門家【せんもんか】の評価【ひょうか】を得【え】た。",
+    "meaning": "His analysis earned the approval of experts."
+  },
+  {
+    "sentence": "この料理は多くの人々に好評である。",
+    "sentence_furigana": "この料理【りょうり】は多【おお】くの人々【ひとびと】に好評【こうひょう】である。",
+    "meaning": "This dish is popular with many people."
+  },
+  {
+    "sentence": "批評家はその映画を酷評した。",
+    "sentence_furigana": "批評家【ひひょうか】はその映画【えいが】を酷評【こくひょう】した。",
+    "meaning": "The critic panned the movie."
+  },
+  {
+    "sentence": "彼の発言には軽率な評価が見られた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】には軽率【けいそつ】な評価【ひょうか】が見【み】られた。",
+    "meaning": "His remarks showed careless judgment."
+  },
+  {
+    "sentence": "この新しいデザインは賛否両論を呼んでいる。",
+    "sentence_furigana": "この新【あたら】しいデザインは賛否両論【さんぴりょうろん】を呼【よ】んでいる。",
+    "meaning": "This new design is causing controversy."
+  },
+  {
+    "sentence": "彼女のプレゼンテーションは高く評価された。",
+    "sentence_furigana": "彼女【かのじょ】のプレゼンテーションは高く評価【ひょうか】された。",
+    "meaning": "Her presentation was highly praised."
+  },
+  {
+    "sentence": "この本に関する批評を読んだ。",
+    "sentence_furigana": "この本【ほん】に関【かん】する批評【ひひょう】を読【よ】んだ。",
+    "meaning": "I read the criticism about this book."
+  },
+  {
+    "sentence": "彼の功績は歴史に高く評価されている。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は歴史【れきし】に高く評価【ひょうか】されている。",
+    "meaning": "His achievements are highly regarded in history."
+  },
+  {
+    "sentence": "その計画に対する評価はまだ下されていない。",
+    "sentence_furigana": "その計画【けいかく】に対【たい】する評価【ひょうか】はまだ下【くだ】されていない。",
+    "meaning": "The evaluation of the plan has not yet been made."
+  },
+  {
+    "sentence": "彼のコメントは非常に的を得ている。",
+    "sentence_furigana": "彼【かれ】のコメントは非常【ひじょう】に的を得【まと】ている。",
+    "meaning": "His comments are very pertinent."
+  },
+  {
+    "sentence": "この技術は将来性が高いと評価されている。",
+    "sentence_furigana": "この技術【ぎじゅつ】は将来性【しょうらいせい】が高【たか】いと評価【ひょうか】されている。",
+    "meaning": "This technology is evaluated as having high future potential."
+  },
+  {
+    "sentence": "彼女は作品の芸術的価値を高く評価した。",
+    "sentence_furigana": "彼女【かのじょ】は作品【さくひん】の芸術的価値【げいじゅつてきかち】を高く評価【ひょうか】した。",
+    "meaning": "She highly valued the artistic merit of the work."
+  },
+  {
+    "sentence": "彼の批評は常に論理的だ。",
+    "sentence_furigana": "彼【かれ】の批評【ひひょう】は常【つね】に論理的【ろんりてき】だ。",
+    "meaning": "His criticism is always logical."
+  },
+  {
+    "sentence": "このレストランはサービスで評判が良い。",
+    "sentence_furigana": "このレストランはサービスで評判【ひょうばん】が良【よ】い。",
+    "meaning": "This restaurant has a good reputation for its service."
+  },
+  {
+    "sentence": "彼の提案は会議で高く評価された。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】は会議【かいぎ】で高く評価【ひょうか】された。",
+    "meaning": "His proposal was highly appreciated at the meeting."
+  },
+  {
+    "sentence": "彼女のコメントは会議の進行に役立った。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは会議【かいぎ】の進行【しんこう】に役立【やくた】った。",
+    "meaning": "Her comments were helpful for the progress of the meeting."
+  },
+  {
+    "sentence": "この映画に対する評価は賛否両論に分かれた。",
+    "sentence_furigana": "この映画【えいが】に対【たい】する評価【ひょうか】は賛否両論【さんぴりょうろん】に分【わ】かれた。",
+    "meaning": "The evaluation of this movie was divided into pros and cons."
+  },
+  {
+    "sentence": "彼の分析は的確で説得力があった。",
+    "sentence_furigana": "彼【かれ】の分析【ぶんせき】は的確【てきかく】で説得力【せっとくりょく】があった。",
+    "meaning": "His analysis was accurate and convincing."
+  },
+  {
+    "sentence": "この作品は批評家から多くの賛辞を受けた。",
+    "sentence_furigana": "この作品【さくひん】は批評家【ひひょうか】から多【おお】くの賛辞【さんじ】を受【う】けた。",
+    "meaning": "This work received much praise from critics."
+  },
+  {
+    "sentence": "彼の経験に基づいた評価は信頼できる。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】に基づ【もと】いた評価【ひょうか】は信頼【しんらい】できる。",
+    "meaning": "His evaluation based on experience is reliable."
+  },
+  {
+    "sentence": "この大学の評判は学内外で高い。",
+    "sentence_furigana": "この大学【だいがく】の評判【ひょうばん】は学内外【がくないがい】で高【たか】い。",
+    "meaning": "This university has a high reputation both inside and outside the academic community."
+  },
+  {
+    "sentence": "彼女はプロジェクトの進捗についてコメントした。",
+    "sentence_furigana": "彼女【かのじょ】はプロジェクトの進捗【しんちょく】についてコメントした。",
+    "meaning": "She commented on the progress of the project."
+  },
+  {
+    "sentence": "彼の批判的な視点は物事を深く理解するのに役立つ。",
+    "sentence_furigana": "彼【かれ】の批判的【ひはんてき】な視点【してん】は物事【ものごと】を深【ふか】く理解【りかい】するのに役立【やくた】つ。",
+    "meaning": "His critical perspective helps to deeply understand things."
+  },
+  {
+    "sentence": "このソフトウェアは多くのユーザーから好評を得ている。",
+    "sentence_furigana": "このソフトウェアは多【おお】くのユーザーから好評【こうひょう】を得【え】ている。",
+    "meaning": "This software is popular among many users."
+  },
+  {
+    "sentence": "その政治家の発言は国民から批判された。",
+    "sentence_furigana": "その政治家【せいじか】の発言【はつげん】は国民【こくみん】から批判【ひはん】された。",
+    "meaning": "The politician's remarks were criticized by the public."
+  },
+  {
+    "sentence": "彼女の評価は高く、多くの期待が寄せられている。",
+    "sentence_furigana": "彼女【かのじょ】の評価【ひょうか】は高く、多【おお】くの期待【きたい】が寄【よ】せられている。",
+    "meaning": "Her evaluation is high, and many expectations are placed on her."
+  },
+  {
+    "sentence": "この小説は文学界で高い評価を受けている。",
+    "sentence_furigana": "この小説【しょうせつ】は文学界【ぶんがくかい】で高【たか】い評価【ひょうか】を受【う】けている。",
+    "meaning": "This novel is highly praised in the literary world."
+  },
+  {
+    "sentence": "彼のコメントは建設的で有益だった。",
+    "sentence_furigana": "彼【かれ】のコメントは建設的【けんせつてき】で有益【ゆうえき】だった。",
+    "meaning": "His comments were constructive and beneficial."
+  },
+  {
+    "sentence": "この製品は機能性で評価されている。",
+    "sentence_furigana": "この製品【せいひん】は機能性【きのうせい】で評価【ひょうか】されている。",
+    "meaning": "This product is evaluated for its functionality."
+  },
+  {
+    "sentence": "彼女の批評は的確で、多くの示唆に富んでいた。",
+    "sentence_furigana": "彼女【かのじょ】の批評【ひひょう】は的確【てきかく】で、多【おお】くの示唆【しさ】に富【と】んでいた。",
+    "meaning": "Her criticism was accurate and insightful."
+  },
+  {
+    "sentence": "その会社の評判は非常に良い。",
+    "sentence_furigana": "その会社【かいしゃ】の評判【ひょうばん】は非常【ひじょう】に良【よ】い。",
+    "meaning": "The company's reputation is very good."
+  },
+  {
+    "sentence": "彼のコメントは物事の本質を突いていた。",
+    "sentence_furigana": "彼【かれ】のコメントは物事【ものごと】の本質【ほんしつ】を突【つ】いていた。",
+    "meaning": "His comments hit the essence of the matter."
+  },
+  {
+    "sentence": "この学校は教育方針で高い評価を得ている。",
+    "sentence_furigana": "この学校【がっこう】は教育方針【きょういくほうしん】で高【たか】い評価【ひょうか】を得【え】ている。",
+    "meaning": "This school has a high reputation for its educational policy."
+  },
+  {
+    "sentence": "彼女の業績は高く評価されるべきだ。",
+    "sentence_furigana": "彼女【かのじょ】の業績【ぎょうせき】は高く評価【ひょうか】されるべきだ。",
+    "meaning": "Her achievements should be highly valued."
+  },
+  {
+    "sentence": "彼の発言は会議に新たな視点をもたらした。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は会議【かいぎ】に新【あら】たな視点【してん】をもたらした。",
+    "meaning": "His remarks brought a new perspective to the meeting."
+  },
+  {
+    "sentence": "この映画の評論は賛否両論があった。",
+    "sentence_furigana": "この映画【えいが】の評論【ひょうろん】は賛否両論【さんぴりょうろん】があった。",
+    "meaning": "The reviews of this movie were mixed."
+  },
+  {
+    "sentence": "彼女のコメントは非常に参考になった。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは非常【ひじょう】に参考【さんこう】になった。",
+    "meaning": "Her comments were very helpful."
+  },
+  {
+    "sentence": "この製品はデザイン性で評価されている。",
+    "sentence_furigana": "この製品【せいひん】はデザイン性【せい】で評価【ひょうか】されている。",
+    "meaning": "This product is evaluated for its design."
+  },
+  {
+    "sentence": "彼の批評は客観的で公正だった。",
+    "sentence_furigana": "彼【かれ】の批評【ひひょう】は客観的【きゃっかんてき】で公正【こうせい】だった。",
+    "meaning": "His criticism was objective and fair."
+  },
+  {
+    "sentence": "そのレストランの評判は味とサービスの両方で良い。",
+    "sentence_furigana": "そのレストランの評判【ひょうばん】は味【あじ】とサービスの両方【りょうほう】で良【よ】い。",
+    "meaning": "The restaurant has a good reputation for both its taste and service."
+  },
+  {
+    "sentence": "彼女のコメントは状況を的確に分析していた。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは状況【じょうきょう】を的確【てきかく】に分析【ぶんせき】していた。",
+    "meaning": "Her comments accurately analyzed the situation."
+  },
+  {
+    "sentence": "彼の業績は広く評価されている。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は広【ひろ】く評価【ひょうか】されている。",
+    "meaning": "His achievements are widely appreciated."
+  },
+  {
+    "sentence": "この芸術作品は斬新な評価を得ている。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は斬新【ざんしん】な評価【ひょうか】を得【え】ている。",
+    "meaning": "This work of art is receiving innovative evaluations."
+  },
+  {
+    "sentence": "彼女の批判は的を射ていた。",
+    "sentence_furigana": "彼女【かのじょ】の批判【ひはん】は的【まと】を射【い】ていた。",
+    "meaning": "Her criticism was to the point."
+  },
+  {
+    "sentence": "彼のコメントは会議を活性化させた。",
+    "sentence_furigana": "彼【かれ】のコメントは会議【かいぎ】を活性化【かっせいか】させた。",
+    "meaning": "His comments energized the meeting."
+  },
+  {
+    "sentence": "この研究は学術界から高い評価を得た。",
+    "sentence_furigana": "この研究【けんきゅう】は学術界【がくじゅつかい】から高【たか】い評価【ひょうか】を得【え】た。",
+    "meaning": "This research received high praise from academia."
+  },
+  {
+    "sentence": "彼女の芸術的評価は非常に高い。",
+    "sentence_furigana": "彼女【かのじょ】の芸術的評価【げいじゅつてきひょうか】は非常【ひじょう】に高【たか】い。",
+    "meaning": "Her artistic evaluation is very high."
+  },
+  {
+    "sentence": "彼のコメントは率直で誠実だった。",
+    "sentence_furigana": "彼【かれ】のコメントは率直【そっちょく】で誠実【せいじつ】だった。",
+    "meaning": "His comments were frank and sincere."
+  },
+  {
+    "sentence": "この映画は批評家から多くの賞賛を受けた。",
+    "sentence_furigana": "この映画【えいが】は批評家【ひひょうか】から多【おお】くの賞賛【しょうさん】を受【う】けた。",
+    "meaning": "This movie received much praise from critics."
+  },
+  {
+    "sentence": "彼女のコメントは課題の本質を突いていた。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは課題【かだい】の本質【ほんしつ】を突【つ】いていた。",
+    "meaning": "Her comments captured the essence of the problem."
+  },
+  {
+    "sentence": "彼の業績は社会から高く評価されている。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は社会【しゃかい】から高く評価【ひょうか】されている。",
+    "meaning": "His achievements are highly valued by society."
+  },
+  {
+    "sentence": "この小説に対する評価は、文学的な深さにある。",
+    "sentence_furigana": "この小説【しょうせつ】に対【たい】する評価【ひょうか】は、文学的【ぶんがくてき】な深【ふか】さにある。",
+    "meaning": "The evaluation of this novel lies in its literary depth."
+  },
+  {
+    "sentence": "彼女のコメントは会議の結論を導くのに役立った。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは会議【かいぎ】の結論【けつろん】を導【みちび】くのに役立【やくた】った。",
+    "meaning": "Her comments helped to lead to the conclusion of the meeting."
+  },
+  {
+    "sentence": "彼の評価は客観的なデータに基づいている。",
+    "sentence_furigana": "彼【かれ】の評価【ひょうか】は客観的【きゃっかんてき】なデータに基づ【もと】いている。",
+    "meaning": "His evaluation is based on objective data."
+  },
+  {
+    "sentence": "この製品の評判は、品質の高さにある。",
+    "sentence_furigana": "この製品【せいひん】の評判【ひょうばん】は、品質【ひんしつ】の高さにある。",
+    "meaning": "The reputation of this product lies in its high quality."
+  },
+  {
+    "sentence": "彼女のコメントは非常に示唆に富んでいた。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは非常【ひじょう】に示唆【しさ】に富【と】んでいた。",
+    "meaning": "Her comments were very suggestive."
+  },
+  {
+    "sentence": "彼の批評は芸術の本質を捉えていた。",
+    "sentence_furigana": "彼【かれ】の批評【ひひょう】は芸術【げいじゅつ】の本質【ほんしつ】を捉【とら】えていた。",
+    "meaning": "His criticism captured the essence of art."
+  },
+  {
+    "sentence": "この料理店の評判は、美味しさと価格の両方で良い。",
+    "sentence_furigana": "この料理店【りょうりてん】の評判【ひょうばん】は、美味しさ【おいしさ】と価格【かかく】の両方【りょうほう】で良【よ】い。",
+    "meaning": "The restaurant's reputation is good for both its deliciousness and price."
+  },
+  {
+    "sentence": "彼女のコメントは、問題の解決に貢献した。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは、問題【もんだい】の解決【かいけつ】に貢献【こうけん】した。",
+    "meaning": "Her comments contributed to solving the problem."
+  },
+  {
+    "sentence": "彼の評価は、長年の経験に裏打ちされている。",
+    "sentence_furigana": "彼【かれ】の評価【ひょうか】は、長年【ながねん】の経験【けいけん】に裏打【うらう】ちされている。",
+    "meaning": "His evaluation is backed by many years of experience."
+  },
+  {
+    "sentence": "この新しい技術は、将来性で高く評価されている。",
+    "sentence_furigana": "この新【あたら】しい技術【ぎじゅつ】は、将来性【しょうらいせい】で高く評価【ひょうか】されている。",
+    "meaning": "This new technology is highly valued for its future potential."
+  },
+  {
+    "sentence": "彼女の批評は鋭く、多くの示唆を与えた。",
+    "sentence_furigana": "彼女【かのじょ】の批評【ひひょう】は鋭【するど】く、多【おお】くの示唆【しさ】を与【あた】えた。",
+    "meaning": "Her criticism was sharp and provided much insight."
+  },
+  {
+    "sentence": "彼のコメントは的確で、会議に集中をもたらした。",
+    "sentence_furigana": "彼【かれ】のコメントは的確【てきかく】で、会議【かいぎ】に集中【しゅうちゅう】をもたらした。",
+    "meaning": "His comments were accurate and brought focus to the meeting."
+  },
+  {
+    "sentence": "この作品の評価は、その独創性にある。",
+    "sentence_furigana": "この作品【さくひん】の評価【ひょうか】は、その独創性【どくそうせい】にある。",
+    "meaning": "The evaluation of this work lies in its originality."
+  },
+  {
+    "sentence": "彼女のコメントは、状況を正確に把握していた。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは、状況【じょうきょう】を正確【せいかく】に把握【はあく】していた。",
+    "meaning": "Her comments accurately grasped the situation."
+  },
+  {
+    "sentence": "彼の業績は、歴史的に高く評価されている。",
+    "sentence_furigana": "彼【かれ】の業績【ぎょうせき】は、歴史的【れきしてき】に高く評価【ひょうか】されている。",
+    "meaning": "His achievements are historically highly valued."
+  },
+  {
+    "sentence": "この本は、多くの読者から好評を得ている。",
+    "sentence_furigana": "この本【ほん】は、多【おお】くの読者【どくしゃ】から好評【こうひょう】を得【え】ている。",
+    "meaning": "This book is popular among many readers."
+  },
+  {
+    "sentence": "彼女のコメントは、会議の参加者に刺激を与えた。",
+    "sentence_furigana": "彼女【かのじょ】のコメントは、会議【かいぎ】の参加者【さんかしゃ】に刺激【しげき】を与【あた】えた。",
+    "meaning": "Her comments stimulated the meeting participants."
+  },
+  {
+    "sentence": "彼の批評は、作品の隠れた魅力を引き出した。",
+    "sentence_furigana": "彼【かれ】の批評【ひひょう】は、作品【さくひん】の隠【かく】れた魅力【みりょく】を引き出【ひきだ】した。",
+    "meaning": "His criticism brought out the hidden charm of the work."
+  },
+  {
+    "sentence": "この地域は、自然の豊かさで評判が良い。",
+    "sentence_furigana": "この地域【ちいき】は、自然【しぜん】の豊【ゆた】かさで評判【ひょうばん】が良い【よい】。",
+    "meaning": "This area has a good reputation for its natural richness."
+  },
+  {
+    "sentence": "彼女の評価は、その専門知識に基づいている。",
+    "sentence_furigana": "彼女【かのじょ】の評価【ひょうか】は、その専門知識【せんもんちしき】に基づ【もと】いている。",
+    "meaning": "Her evaluation is based on her expertise."
+  },
+  {
+    "sentence": "彼のコメントは、会議の雰囲気を和らげた。",
+    "sentence_furigana": "彼【かれ】のコメントは、会議【かいぎ】の雰囲気【ふんいき】を和【やわ】らげた。",
+    "meaning": "His comments eased the atmosphere of the meeting."
+  },
+  {
+    "sentence": "この映画は、批評家から高い評価を得ている。",
+    "sentence_furigana": "この映画【えいが】は、批評家【ひひょうか】から高【たか】い評価【ひょうか】を得【え】ている。",
+    "meaning": "This movie is highly praised by critics."
+  },
+  {
+    "sentence": "彼女の批評は的確で、多くの示唆を与えてくれた。",
+    "sentence_furigana": "彼女【かのじょ】の批評【ひひょう】は的確【てきかく】で、多【おお】くの示唆【しさ】を与【あた】えてくれた。",
+    "meaning": "Her criticism was accurate and gave us much insight."
+  }
+]

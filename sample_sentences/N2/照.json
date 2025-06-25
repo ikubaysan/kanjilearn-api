@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "太陽【たいよう】が窓【まど】から差【さ】し込【こ】んで部屋【へや】を照【て】らした。",
+    "sentence_furigana": "太陽【たいよう】が窓【まど】から差【さ】し込【こ】んで部屋【へや】を照【て】らした。",
+    "meaning": "The sun shone through the window, illuminating the room."
+  },
+  {
+    "sentence": "彼女【かのじょ】は恥【は】ずかしそうに顔【かお】を照【て】らした。",
+    "sentence_furigana": "彼女【かのじょ】は恥【は】ずかしそうに顔【かお】を照【て】らした。",
+    "meaning": "She bashfully blushed."
+  },
+  {
+    "sentence": "この地図【ちず】は、私【わたし】たちの進路【しんろ】を照【て】らす灯台【とうだい】のようだった。",
+    "sentence_furigana": "この地図【ちず】は、私【わたし】たちの進路【しんろ】を照【て】らす灯台【とうだい】のようだった。",
+    "meaning": "This map was like a lighthouse illuminating our path."
+  },
+  {
+    "sentence": "彼【かれ】は自分【じぶん】の行【おこな】いを他【た】の誰【だれ】かと照【て】らし合【あ】わせた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の行【おこな】いを他【た】の誰【だれ】かと照【て】らし合【あ】わせた。",
+    "meaning": "He compared his actions with someone else's."
+  },
+  {
+    "sentence": "月明【つきあ】かりが夜道【よみち】をぼんやりと照【て】らしていた。",
+    "sentence_furigana": "月明【つきあ】かりが夜道【よみち】をぼんやりと照【て】らしていた。",
+    "meaning": "The moonlight dimly lit the night road."
+  },
+  {
+    "sentence": "その事故【じこ】の真相【しんそう】を明【あ】かす新【あら】たな証拠【しょうこ】が出【で】てきた。",
+    "sentence_furigana": "その事故【じこ】の真相【しんそう】を明【あ】かす新【あら】たな証拠【しょうこ】が出【で】てきた。",
+    "meaning": "New evidence has emerged to shed light on the truth of the accident."
+  },
+  {
+    "sentence": "彼【かれ】は、その質問【しつもん】に対して【たい】はにかみながら答【こた】えた。",
+    "sentence_furigana": "彼【かれ】は、その質問【しつもん】に対して【たい】はにかみながら答【こた】えた。",
+    "meaning": "He answered the question bashfully."
+  },
+  {
+    "sentence": "写真【しゃしん】を始【はじ】めとした様々な資料【しりょう】で過去【かこ】を照【て】らす。",
+    "sentence_furigana": "写真【しゃしん】を始【はじ】めとした様々【さまざ】な資料【しりょう】で過去【かこ】を照【て】らす。",
+    "meaning": "We illuminate the past with various materials, starting with photographs."
+  },
+  {
+    "sentence": "新開発【しんかいはつ】の技術【ぎじゅつ】が産業【さんぎょう】の未来【みらい】を照【て】らす。",
+    "sentence_furigana": "新開発【しんかいはつ】の技術【ぎじゅつ】が産業【さんぎょう】の未来【みらい】を照【て】らす。",
+    "meaning": "Newly developed technology illuminates the future of industry."
+  },
+  {
+    "sentence": "子供【こども】は好奇心旺盛【こうきしんおうせい】で、何【なに】でも知【し】りたがって目を輝【かがや】かせた。",
+    "sentence_furigana": "子供【こども】は好奇心旺盛【こうきしんおうせい】で、何【なに】でも知【し】りたがって目を輝【かがや】かせた。",
+    "meaning": "The child was full of curiosity and his eyes shone wanting to know everything."
+  },
+  {
+    "sentence": "この本【ほん】は、その問題【もんだい】の解決策【かいけつさく】を示【しめ】している。",
+    "sentence_furigana": "この本【ほん】は、その問題【もんだい】の解決策【かいけつさく】を示【しめ】している。",
+    "meaning": "This book indicates a solution to the problem."
+  },
+  {
+    "sentence": "彼【かれ】は、彼女【かのじょ】の提案【ていあん】と自分【じぶん】の計画【けいかく】を比較【ひかく】した。",
+    "sentence_furigana": "彼【かれ】は、彼女【かのじょ】の提案【ていあん】と自分【じぶん】の計画【けいかく】を比較【ひかく】した。",
+    "meaning": "He compared her proposal with his own plan."
+  },
+  {
+    "sentence": "ろうそくの灯【ひ】が暗闇【くらやみ】をわずかに照【て】らした。",
+    "sentence_furigana": "ろうそくの灯【ひ】が暗闇【くらやみ】をわずかに照【て】らした。",
+    "meaning": "The candle's light faintly illuminated the darkness."
+  },
+  {
+    "sentence": "昔話【むかしばなし】は、昔【むかし】の生活【せいかつ】を想像【そうぞう】させてくれる。",
+    "sentence_furigana": "昔話【むかしばなし】は、昔【むかし】の生活【せいかつ】を想像【そうぞう】させてくれる。",
+    "meaning": "Folk tales let us imagine life in the past."
+  },
+  {
+    "sentence": "そのニュースは、世間【せけん】の注目【ちゅうもく】を浴【あ】びた。",
+    "sentence_furigana": "そのニュースは、世間【せけん】の注目【ちゅうもく】を浴【あ】びた。",
+    "meaning": "The news garnered public attention."
+  },
+  {
+    "sentence": "ライトが舞台【ぶたい】全体【ぜんたい】を明るく照【て】らしている。",
+    "sentence_furigana": "ライトが舞台【ぶたい】全体【ぜんたい】を明るく照【て】らしている。",
+    "meaning": "The lights illuminate the entire stage brightly."
+  },
+  {
+    "sentence": "彼女【かのじょ】は少々【しょうしょう】内気【うちき】で、人前【ひとまえ】ではあまり話【はな】したがらない。",
+    "sentence_furigana": "彼女【かのじょ】は少々【しょうしょう】内気【うちき】で、人前【ひとまえ】ではあまり話【はな】したがらない。",
+    "meaning": "She is rather shy and doesn't like to talk much in front of people."
+  },
+  {
+    "sentence": "この科学的発見【かがくてきはっけん】は、人類【じんるい】の歴史【れきし】を新【あら】たな視点【してん】から照【て】らすものである。",
+    "sentence_furigana": "この科学的発見【かがくてきはっけん】は、人類【じんるい】の歴史【れきし】を新【あら】たな視点【してん】から照【て】らすものである。",
+    "meaning": "This scientific discovery sheds new light on human history from a new perspective."
+  },
+  {
+    "sentence": "私【わたし】の経験【けいけん】は、彼【かれ】の主張【しゅちょう】とは著【いちじる】しく異【こと】なっていた。",
+    "sentence_furigana": "私【わたし】の経験【けいけん】は、彼【かれ】の主張【しゅちょう】とは著【いちじる】しく異【こと】なっていた。",
+    "meaning": "My experience differed significantly from his claim."
+  },
+  {
+    "sentence": "星明【ほしあ】かりが静寂【せいじゃく】な夜空【よぞら】を飾【かざ】り、優【やさ】しく大地【だいち】を照【て】らしていた。",
+    "sentence_furigana": "星明【ほしあ】かりが静寂【せいじゃく】な夜空【よぞら】を飾【かざ】り、優【やさ】しく大地【だいち】を照【て】らしていた。",
+    "meaning": "Starlight adorned the quiet night sky, gently illuminating the earth."
+  },
+  {
+    "sentence": "彼は突然【とつぜん】の注【ちゅう】目に少々【しょうしょう】戸惑【とまど】い、顔【かお】が赤【あか】くなった。",
+    "sentence_furigana": "彼【かれ】は突然【とつぜん】の注【ちゅう】目に少々【しょうしょう】戸惑【とまど】い、顔【かお】が赤【あか】くなった。",
+    "meaning": "He was a bit bewildered by the sudden attention and his face turned red."
+  },
+  {
+    "sentence": "これらの証拠【しょうこ】は、事件【じけん】の全貌【ぜんぼう】を明【あ】らかにする。",
+    "sentence_furigana": "これら【これら】の証拠【しょうこ】は、事件【じけん】の全貌【ぜんぼう】を明【あ】らかにする。",
+    "meaning": "These pieces of evidence reveal the full picture of the incident."
+  },
+  {
+    "sentence": "その詩【し】は、人生【じんせい】の儚【はかな】さを美【うつく】しく表現【ひょうげん】している。",
+    "sentence_furigana": "その詩【し】は、人生【じんせい】の儚【はかな】さを美【うつく】しく表現【ひょうげん】している。",
+    "meaning": "The poem beautifully expresses the transience of life."
+  },
+  {
+    "sentence": "図書館【としょかん】の明【あ】かりは、静【しず】かに読書【どくしょ】する人【ひと】々を照【て】らしていた。",
+    "sentence_furigana": "図書館【としょかん】の明【あ】かりは、静【しず】かに読書【どくしょ】する人【ひと】々を照【て】らしていた。",
+    "meaning": "The library lights were shining on people reading quietly."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、自分の意見【じぶんのいけん】を率直【そっちょく】に述【の】べることが苦手【にがて】だ。",
+    "sentence_furigana": "彼女【かのじょ】は、自分【じぶん】の意見【いけん】を率直【そっちょく】に述【の】べることが苦手【にがて】だ。",
+    "meaning": "She is not good at frankly stating her own opinion."
+  },
+  {
+    "sentence": "過去【かこ】の出来事【できごと】と現在【げんざい】を比較【ひかく】することで、未来【みらい】への教訓【きょうくん】を得【え】ることができる。",
+    "sentence_furigana": "過去【かこ】の出来事【できごと】と現在【げんざい】を比較【ひかく】することで、未来【みらい】への教訓【きょうくん】を得【え】ることができる。",
+    "meaning": "By comparing the past with the present, we can gain lessons for the future."
+  },
+  {
+    "sentence": "新しい技術【あたらしいぎじゅつ】が、私たちの生活【わたしたちのせいかつ】をより豊【ゆた】かに照【て】らすことを期待【きたい】している。",
+    "sentence_furigana": "新【あら】たな技術【ぎじゅつ】が、私【わたし】たちの生活【せいかつ】をより豊【ゆた】かに照【て】らすことを期待【きたい】している。",
+    "meaning": "We expect new technology to illuminate our lives more richly."
+  },
+  {
+    "sentence": "灯台【とうだい】の光【ひかり】が、暗い海【くらいみ】を照【て】らし、船【ふね】を安全【あんぜん】な港【みなと】へと導【みちび】いた。",
+    "sentence_furigana": "灯台【とうだい】の光【ひかり】が、暗【くら】い海【み】を照【て】らし、船【ふね】を安全【あんぜん】な港【みなと】へと導【みちび】いた。",
+    "meaning": "The lighthouse's light illuminated the dark sea, guiding the ship to a safe harbor."
+  },
+  {
+    "sentence": "彼は新しい計画【あたらしいけいかく】について、他の人【ほかのみんな】と意見交換【いけんこうかん】した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たな計画【けいかく】について、他【ほか】の人【みんな】と意見交換【いけんこうかん】した。",
+    "meaning": "He exchanged opinions with others about the new plan."
+  },
+  {
+    "sentence": "彼女【かのじょ】は発表【はっぴょう】の時【とき】、少々【しょうしょう】緊張【きんちょう】して顔【かお】が赤【あか】くなった。",
+    "sentence_furigana": "彼女【かのじょ】は発表【はっぴょう】の時【とき】、少々【しょうしょう】緊張【きんちょう】して顔【かお】が赤【あか】くなった。",
+    "meaning": "She got a little nervous during the presentation and her face turned red."
+  },
+  {
+    "sentence": "古い日記【ふるいにっき】は、彼女【かのじょ】の若【わか】い頃【ころ】の思【おも】いを鮮明【せんめい】に照【て】らし出【だ】している。",
+    "sentence_furigana": "古【ふる】い日記【にっき】は、彼女【かのじょ】の若【わか】い頃【ころ】の思【おも】いを鮮明【せんめい】に照【て】らし出【だ】している。",
+    "meaning": "The old diary vividly illuminates her thoughts from her youth."
+  },
+  {
+    "sentence": "この科学誌【このかがくし】は、最新【さいしん】の研究成果【けんきゅうせいか】を広【ひろ】く紹介【しょうかい】している。",
+    "sentence_furigana": "この科学誌【かがくし】は、最新【さいしん】の研究成果【けんきゅうせいか】を広【ひろ】く紹介【しょうかい】している。",
+    "meaning": "This science journal widely introduces the latest research results."
+  },
+  {
+    "sentence": "月光【げっこう】が湖面【こめん】を銀色【ぎんいろ】に照【て】らしていた。",
+    "sentence_furigana": "月光【げっこう】が湖面【こめん】を銀色【ぎんいろ】に照【て】らしていた。",
+    "meaning": "The moonlight shone the lake surface silver."
+  },
+  {
+    "sentence": "彼は自分の経験【じぶんのけいけん】を元【もと】に、他の人【ほかのひと】の困難【こんなん】を理解【りかい】しようと努【つと】めた。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の経験【けいけん】を元【もと】に、他【ほか】の人【ひと】の困難【こんなん】を理解【りかい】しようと努【つと】めた。",
+    "meaning": "Based on his own experience, he tried to understand the difficulties of others."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、人前【ひとまえ】で話【はな】すことに少々【しょうしょう】抵抗【ていこう】があった。",
+    "sentence_furigana": "彼女【かのじょ】は、人前【ひとまえ】で話【はな】すことに少々【しょうしょう】抵抗【ていこう】があった。",
+    "meaning": "She had some reservations about speaking in front of people."
+  },
+  {
+    "sentence": "この小説【このしょうせつ】は、現代社会【げんだいしゃかい】が抱【いだ】える問題【もんだい】を鋭【するど】く照【て】らし出【だ】している。",
+    "sentence_furigana": "この小説【しょうせつ】は、現代社会【げんだいしゃかい】が抱【いだ】える問題【もんだい】を鋭【するど】く照【て】らし出【だ】している。",
+    "meaning": "This novel sharply illuminates the problems that modern society faces."
+  },
+  {
+    "sentence": "最新の技術【さいしんのぎじゅつ】は、我々【われわれ】の生活【せいかつ】をより便利【べんり】にしている。",
+    "sentence_furigana": "最新【さいしん】の技術【ぎじゅつ】は、我々【われわれ】の生活【せいかつ】をより便利【べんり】にしている。",
+    "meaning": "The latest technology is making our lives more convenient."
+  },
+  {
+    "sentence": "彼【かれ】は幼少期【ようしょうき】から、その分野【そのぶんや】での才能【さいのう】を輝【かがや】かせていた。",
+    "sentence_furigana": "彼【かれ】は幼少期【ようしょうき】から、その分野【そのぶんや】での才能【さいのう】を輝【かがや】かせていた。",
+    "meaning": "He shone with talent in that field from his childhood."
+  },
+  {
+    "sentence": "その事件【じけん】について、過去【かこ】の類似例【るいじれい】と比較【ひかく】して分析【ぶんせき】した。",
+    "sentence_furigana": "その事件【じけん】について、過去【かこ】の類似例【るいじれい】と比較【ひかく】して分析【ぶんせき】した。",
+    "meaning": "We analyzed the incident by comparing it with past similar cases."
+  },
+  {
+    "sentence": "山頂【さんちょう】からの眺望【ちょうぼう】は、まるで宝石【ほうせき】のように輝【かがや】いていた。",
+    "sentence_furigana": "山頂【さんちょう】からの眺望【ちょうぼう】は、まるで宝石【ほうせき】のように輝【かがや】いていた。",
+    "meaning": "The view from the summit was shining like jewels."
+  },
+  {
+    "sentence": "この書物【このしょもつ】は、当時の社会情勢【とうじのしゃかいじょうせい】を理解【りかい】する上で貴重【きちょう】な資料【しりょう】となるだろう。",
+    "sentence_furigana": "この書物【しょもつ】は、当時【とうじ】の社会情勢【しゃかいじょうせい】を理解【りかい】する上【うえ】で貴重【きちょう】な資料【しりょう】となるだろう。",
+    "meaning": "This book will be valuable material for understanding the social conditions of that time."
+  },
+  {
+    "sentence": "子供達【こどもたち】は、夜空【よぞら】の星【ほし】の輝【かがや】きに見入【みい】っていた。",
+    "sentence_furigana": "子供達【こどもたち】は、夜空【よぞら】の星【ほし】の輝【かがや】きに見入【みい】っていた。",
+    "meaning": "The children were mesmerized by the shine of the stars in the night sky."
+  },
+  {
+    "sentence": "彼は皆【みな】の前【まえ】で話【はな】す時【とき】、少々【しょうしょう】はにかむ癖【くせ】がある。",
+    "sentence_furigana": "彼【かれ】は皆【みな】の前【まえ】で話【はな】す時【とき】、少々【しょうしょう】はにかむ癖【くせ】がある。",
+    "meaning": "He has a habit of being a little shy when speaking in front of everyone."
+  },
+  {
+    "sentence": "この研究【このけんきゅう】は、過去【かこ】の諸説【しょせつ】を比較検討【ひかくけんとう】し、新【あら】たな結論【けつろん】を導【みちび】き出【だ】した。",
+    "sentence_furigana": "この研究【けんきゅう】は、過去【かこ】の諸説【しょせつ】を比較検討【ひかくけんとう】し、新【あら】たな結論【けつろん】を導【みちび】き出【だ】した。",
+    "meaning": "This research compared and examined previous theories, drawing new conclusions."
+  },
+  {
+    "sentence": "太陽光【たいようこう】が反射【はんしゃ】して、水面【すいめん】がきらきらと輝【かがや】いていた。",
+    "sentence_furigana": "太陽光【たいようこう】が反射【はんしゃ】して、水面【すいめん】がきらきらと輝【かがや】いていた。",
+    "meaning": "The sunlight reflected, making the water surface sparkle."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、その質問【しつもん】に対する【たい】自分【じぶん】の返答【へんとう】を、他【た】の誰【だれ】かの返答【へんとう】と比【くら】べた。",
+    "sentence_furigana": "彼女【かのじょ】は、その質問【しつもん】に対する【たい】自分【じぶん】の返答【へんとう】を、他【た】の誰【だれ】かの返答【へんとう】と比【くら】べた。",
+    "meaning": "She compared her answer to the question with someone else's answer."
+  },
+  {
+    "sentence": "この本【このほん】は、その時代【そのじだい】の文化【ぶんか】を鮮明【せんめい】に照【て】らし出【だ】している。",
+    "sentence_furigana": "この本【ほん】は、その時代【じだい】の文化【ぶんか】を鮮明【せんめい】に照【て】らし出【だ】している。",
+    "meaning": "This book vividly illuminates the culture of that era."
+  },
+  {
+    "sentence": "新【あら】たな発見【はっけん】が、科学【かがく】の進歩【しんぽ】を照【て】らす灯台【とうだい】となることを願【ねが】う。",
+    "sentence_furigana": "新【あら】たな発見【はっけん】が、科学【かがく】の進歩【しんぽ】を照【て】らす灯台【とうだい】となることを願【ねが】う。",
+    "meaning": "We hope new discoveries will serve as beacons illuminating scientific progress."
+  },
+  {
+    "sentence": "彼は恥ずかしがり屋【はにかみや】で、大勢【おおぜい】の前【まえ】では声【こえ】が小さくなりがちだ。",
+    "sentence_furigana": "彼【かれ】は恥ずかしがり屋【はにかみや】で、大勢【おおぜい】の前【まえ】では声【こえ】が小さくなりがちだ。",
+    "meaning": "He is shy and tends to lower his voice in front of large crowds."
+  },
+  {
+    "sentence": "街灯【がいとう】が夜道【よみち】を優【やさ】しく照【て】らし、安心感【あんしんかん】を与【あた】えてくれた。",
+    "sentence_furigana": "街灯【がいとう】が夜道【よみち】を優【やさ】しく照【て】らし、安心感【あんしんかん】を与【あた】えてくれた。",
+    "meaning": "The streetlights gently illuminated the night road, giving a sense of security."
+  },
+  {
+    "sentence": "過去【かこ】の成功例【せいこうれい】と失敗例【しっぱいれい】を比較【ひかく】し、今後【こんご】の方針【ほうしん】を決定【けってい】した。",
+    "sentence_furigana": "過去【かこ】の成功例【せいこうれい】と失敗例【しっぱいれい】を比較【ひかく】し、今後【こんご】の方針【ほうしん】を決定【けってい】した。",
+    "meaning": "We compared past successes and failures to decide on future policies."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、新しい仕事【あたらしいしごと】に挑戦【ちょうせん】し、その才能【そのさいのう】を輝【かがや】かせている。",
+    "sentence_furigana": "彼女【かのじょ】は、新【あら】たな仕事【しごと】に挑戦【ちょうせん】し、その才能【さいのう】を輝【かがや】かせている。",
+    "meaning": "She is challenging herself with a new job and shining with her talent."
+  },
+  {
+    "sentence": "この歴史的資料【このれきしてきしりょう】は、当時【とうじ】の社会状況【しゃかいじょうきょう】を理解【りかい】するための鍵【かぎ】となるだろう。",
+    "sentence_furigana": "この歴史的資料【れきしてきしりょう】は、当時【とうじ】の社会状況【しゃかいじょうきょう】を理解【りかい】するための鍵【かぎ】となるだろう。",
+    "meaning": "These historical documents will be key to understanding the social conditions of the time."
+  },
+  {
+    "sentence": "懐中電灯【かいちゅうでんとう】の光【ひかり】が、暗い洞窟【くらいどうくつ】の奥深【おくぶか】くを照【て】らしていた。",
+    "sentence_furigana": "懐中電灯【かいちゅうでんとう】の光【ひかり】が、暗【くら】い洞窟【どうくつ】の奥深【おくぶか】くを照【て】らしていた。",
+    "meaning": "The flashlight illuminated the depths of the dark cave."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、自分の作品【じぶんのさくひん】を批評家【ひひょうか】の意見【いけん】と比較【ひかく】して、改善点【かいぜんてん】を探【さが】した。",
+    "sentence_furigana": "彼女【かのじょ】は、自分【じぶん】の作品【さくひん】を批評家【ひひょうか】の意見【いけん】と比較【ひかく】して、改善点【かいぜんてん】を探【さが】した。",
+    "meaning": "She compared her work with the critic's opinions to find areas for improvement."
+  },
+  {
+    "sentence": "星空【ほしぞら】は、無数【むすう】の星【ほし】の光【ひかり】で満天【まんてん】に輝【かがや】いていた。",
+    "sentence_furigana": "星空【ほしぞら】は、無数【むすう】の星【ほし】の光【ひかり】で満天【まんてん】に輝【かがや】いていた。",
+    "meaning": "The starry sky was filled with the light of countless stars, shining brilliantly."
+  },
+  {
+    "sentence": "この物語【このものがたり】は、人【ひと】の弱【よわ】さや脆【もろ】さを静【しず】かに照【て】らし出【だ】している。",
+    "sentence_furigana": "この物語【ものがたり】は、人【ひと】の弱【よわ】さや脆【もろ】さを静【しず】かに照【て】らし出【だ】している。",
+    "meaning": "This story quietly illuminates human weakness and fragility."
+  },
+  {
+    "sentence": "彼は新しいアイデアについて、仲間【なかま】と活発【かっぱつ】に意見交換【いけんこうかん】した。",
+    "sentence_furigana": "彼【かれ】は新【あら】たなアイデアについて、仲間【なかま】と活発【かっぱつ】に意見交換【いけんこうかん】した。",
+    "meaning": "He actively exchanged ideas with his colleagues about the new concept."
+  },
+  {
+    "sentence": "雪明【ゆきあ】かりが夜【よる】の静寂【せいじゃく】を照【て】らし、幻想的【げんそうてき】な雰囲気【ふんいき】を作り出【つく】していた。",
+    "sentence_furigana": "雪明【ゆきあ】かりが夜【よる】の静寂【せいじゃく】を照【て】らし、幻想的【げんそうてき】な雰囲気【ふんいき】を作り出【つく】していた。",
+    "meaning": "The snow light illuminated the night's silence, creating an enchanting atmosphere."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、人前【ひとまえ】で話【はな】すことに少し【すこし】ためらいがあった。",
+    "sentence_furigana": "彼女【かのじょ】は、人前【ひとまえ】で話【はな】すことに少【すこ】し đó",
+    "meaning": "She hesitated a little to speak in front of people."
+  },
+  {
+    "sentence": "この歴史書【このれきししょ】は、過去【かこ】の出来事【できごと】を多角的に照【たかくにて】らし出【だ】している。",
+    "sentence_furigana": "この歴史書【れきししょ】は、過去【かこ】の出来事【できごと】を多角的【たかくてき】に照【て】らし出【だ】している。",
+    "meaning": "This history book illuminates past events from multiple perspectives."
+  },
+  {
+    "sentence": "彼の才能【かれさいのう】は、若い頃【わかいころ】からすでに光【ひか】っていた。",
+    "sentence_furigana": "彼【かれ】の才能【さいのう】は、若【わか】い頃【ころ】からすでに光【ひか】っていた。",
+    "meaning": "His talent was already shining from a young age."
+  },
+  {
+    "sentence": "そのデータは、我々【われわれ】の仮説【かせつ】を裏付【うらづ】けるものである。",
+    "sentence_furigana": "そのデータは、我々【われわれ】の仮説【かせつ】を裏付【うらづ】けるものである。",
+    "meaning": "That data supports our hypothesis."
+  },
+  {
+    "sentence": "新しい発見【あたらしいはっけん】が、科学【かがく】の扉【とびら】をさらに開【ひら】いていく。",
+    "sentence_furigana": "新【あら】たな発見【はっけん】が、科学【かがく】の扉【とびら】をさらに開【ひら】いていく。",
+    "meaning": "New discoveries will further open the doors of science."
+  },
+  {
+    "sentence": "彼女【かのじょ】は皆【みんな】の前【まえ】ではあまり積極的【せいかつてき】ではないが、一人【ひとり】では活発【かっぱつ】だ。",
+    "sentence_furigana": "彼女【かのじょ】は皆【みんな】の前【まえ】ではあまり積極的【せいかつてき】ではないが、一人【ひとり】では活発【かっぱつ】だ。",
+    "meaning": "She is not very assertive in front of everyone, but is active when alone."
+  },
+  {
+    "sentence": "このドキュメンタリーは、社会問題【しゃかいもんだい】を深く掘【ふかくほ】り下【さ】げ、視聴者【しちょうしゃ】に考【かんが】えさせる。",
+    "sentence_furigana": "このドキュメンタリーは、社会問題【しゃかいもんだい】を深【ふか】く掘【ほ】り下【さ】げ、視聴者【しちょうしゃ】に考【かんが】えさせる。",
+    "meaning": "This documentary delves deeply into social issues, making viewers think."
+  },
+  {
+    "sentence": "夜空【よぞら】の星【ほし】が、暗闇【くらいやみ】を優【やさ】しく照【て】らしていた。",
+    "sentence_furigana": "夜空【よぞら】の星【ほし】が、暗闇【くらいやみ】を優【やさ】しく照【て】らしていた。",
+    "meaning": "The stars in the night sky gently illuminated the darkness."
+  },
+  {
+    "sentence": "彼は自分の失敗【じぶんのしっぱい】を他の誰【ほかのだれ】かの成功【せいこう】と比較【ひかく】して落【お】ち込【こ】んだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の失敗【しっぱい】を他【ほか】の誰【だれ】かの成功【せいこう】と比較【ひかく】して落【お】ち込【こ】んだ。",
+    "meaning": "He felt dejected comparing his failure with someone else's success."
+  },
+  {
+    "sentence": "彼女【かのじょ】はインタビューで、少々【しょうしょう】言葉【ことば】に詰【つ】まる場面【ばめん】があった。",
+    "sentence_furigana": "彼女【かのじょ】はインタビューで、少々【しょうしょう】言葉【ことば】に詰【つ】まる場面【ばめん】があった。",
+    "meaning": "There were moments during the interview where she was a little at a loss for words."
+  },
+  {
+    "sentence": "この書物【このしょもつ】は、当時の世相【とうじのせそう】を映【うつ】し、現代【げんだい】に示唆【しさ】を与【あた】える。",
+    "sentence_furigana": "この書物【しょもつ】は、当時【とうじ】の世相【せそう】を映【うつ】し、現代【げんだい】に示唆【しさ】を与【あた】える。",
+    "meaning": "This book reflects the social climate of the time and offers suggestions for the present."
+  },
+  {
+    "sentence": "新しい技術【あたらしいぎじゅつ】が、私たちの将来【わたしたちのしょうらい】を照【て】らす光【ひかり】となることを信【しん】じている。",
+    "sentence_furigana": "新【あら】たな技術【ぎじゅつ】が、私【わたし】たちの将来【しょうらい】を照【て】らす光【ひかり】となることを信【しん】じている。",
+    "meaning": "We believe new technology will be a light illuminating our future."
+  },
+  {
+    "sentence": "街灯【がいとう】の明【あ】かりが夜道【よみち】を安全【あんぜん】に照【て】らしていた。",
+    "sentence_furigana": "街灯【がいとう】の明【あ】かりが夜道【よみち】を安全【あんぜん】に照【て】らしていた。",
+    "meaning": "The streetlight illuminated the night road safely."
+  },
+  {
+    "sentence": "彼は、他の候補者【ほかのこうほしゃ】の政策【せいさく】と自分【じぶん】の政策【せいさく】を比較【ひかく】することにした。",
+    "sentence_furigana": "彼【かれ】は、他【ほか】の候補者【こうほしゃ】の政策【せいさく】と自分【じぶん】の政策【せいさく】を比較【ひかく】することにした。",
+    "meaning": "He decided to compare his policies with those of other candidates."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、発表会【はっぴょうかい】で少し【すこし】照【て】れてしまった。",
+    "sentence_furigana": "彼女【かのじょ】は、発表会【はっぴょうかい】で少【すこ】し đó",
+    "meaning": "She felt a little shy at the recital."
+  },
+  {
+    "sentence": "この学術論文【このがくじゅつろんぶん】は、その現象【そのげんしょう】を様々【さまざ】な角度【かくど】から照【て】らし出【だ】している。",
+    "sentence_furigana": "この学術論文【がくじゅつろんぶん】は、その現象【げんしょう】を様々【さまざ】な角度【かくど】から照【て】らし出【だ】している。",
+    "meaning": "This academic paper illuminates the phenomenon from various angles."
+  },
+  {
+    "sentence": "太陽【たいよう】の光【ひかり】が、森【もり】の葉末【はずえ】をきらきらと輝【かがや】かせていた。",
+    "sentence_furigana": "太陽【たいよう】の光【ひかり】が、森【もり】の葉末【はずえ】をきらきらと輝【かがや】かせていた。",
+    "meaning": "The sunlight made the tips of the forest leaves sparkle."
+  },
+  {
+    "sentence": "彼は、過去【かこ】の経験【けいけん】を現在【げんざい】の状況【じょうきょう】と比較【ひかく】して、最善【さいぜん】の策【さく】を見出【みいだ】そうとした。",
+    "sentence_furigana": "彼【かれ】は、過去【かこ】の経験【けいけん】を現在【げんざい】の状況【じょうきょう】と比較【ひかく】して、最善【さいぜん】の策【さく】を見出【みいだ】そうとした。",
+    "meaning": "He tried to find the best course of action by comparing past experiences with the current situation."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、人前【ひとまえ】でスポットライトを浴【あ】びると、少々【しょうしょう】恥ずかしそうにしていた。",
+    "sentence_furigana": "彼女【かのじょ】は、人前【ひとまえ】でスポットライトを浴【あ】びると、少々【しょうしょう】 đó",
+    "meaning": "She looked a little bashful when bathed in the spotlight in front of people."
+  },
+  {
+    "sentence": "この映画【このえいが】は、現代社会【げんだいしゃかい】の偽善【ぎぜん】を浮【う】き彫【ぼ】りにしている。",
+    "sentence_furigana": "この映画【えいが】は、現代社会【げんだいしゃかい】の偽善【ぎぜん】を浮【う】き彫【ぼ】りにしている。",
+    "meaning": "This movie highlights the hypocrisy of modern society."
+  },
+  {
+    "sentence": "懐中電灯【かいちゅうでんとう】が、暗闇【くらいやみ】を照【て】らし、私【わたし】たちの進路【しんろ】を示【しめ】してくれた。",
+    "sentence_furigana": "懐中電灯【かいちゅうでんとう】が、暗闇【くらいやみ】を照【て】らし、私【わたし】たちの進路【しんろ】を示【しめ】してくれた。",
+    "meaning": "The flashlight illuminated the darkness, showing us our way."
+  },
+  {
+    "sentence": "彼の発言【かれのはつげん】は、当時の状況【とうじのじょうきょう】を正確【せいかく】に反映【はんえい】している。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は、当時【とうじ】の状況【じょうきょう】を正確【せいかく】に反映【はんえい】している。",
+    "meaning": "His statement accurately reflects the situation at that time."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、自分が舞台【じぶんがぶたい】に立つことに、まだ少々【すこし】ためらいがあるようだ。",
+    "sentence_furigana": "彼女【かのじょ】は、自分【じぶん】が舞台【ぶたい】に立つことに、まだ少々【しょうしょう】ためらいがあるようだ。",
+    "meaning": "She still seems to have some hesitation about standing on stage."
+  },
+  {
+    "sentence": "新しい学説【あたらしいがくせつ】が、従来【じゅうらい】の定説【ていせつ】を覆【くつが】えす可能性【かのうせい】を示唆【しさ】している。",
+    "sentence_furigana": "新【あら】たな学説【がくせつ】が、従来【じゅうらい】の定説【ていせつ】を覆【くつが】えす可能性【かのうせい】を示唆【しさ】している。",
+    "meaning": "The new theory suggests the possibility of overturning the conventional established theory."
+  },
+  {
+    "sentence": "月光【げっこう】が静寂【せいじゃく】な夜【よる】の森【もり】を優【やさ】しく照【て】らしていた。",
+    "sentence_furigana": "月光【げっこう】が静寂【せいじゃく】な夜【よる】の森【もり】を優【やさ】しく照【て】らしていた。",
+    "meaning": "The moonlight gently illuminated the quiet night forest."
+  },
+  {
+    "sentence": "彼は自分のアイデアを他の参加者【ほかのさんかしゃ】のアイデアと比較【ひかく】し、最良【さいりょう】のものを採用【さいよう】した。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のアイデアを他【ほか】の参加者【さんかしゃ】のアイデアと比較【ひかく】し、最良【さいりょう】のもの【もの】を採用【さいよう】した。",
+    "meaning": "He compared his ideas with those of other participants and adopted the best ones."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、新しいスキルを習得【しゅうとく】し、自己成長【じこせいちょう】を遂【と】げている。",
+    "sentence_furigana": "彼女【かのじょ】は、新【あら】たなスキルを習得【しゅうとく】し、自己成長【じこせいちょう】を遂【と】げている。",
+    "meaning": "She is acquiring new skills and achieving personal growth."
+  },
+  {
+    "sentence": "その研究結果【そのけんきゅうけっか】は、我々【われわれ】が長年【ながねん】抱【いだ】いていた疑問【ぎもん】に明快【めいかい】な答【こた】えを与【あた】えてくれるものだ。",
+    "sentence_furigana": "その研究結果【けんきゅうけっか】は、我々【われわれ】が長年【ながねん】抱【いだ】いていた疑問【ぎもん】に明快【めいかい】な答【こた】えを与【あた】えてくれるものだ。",
+    "meaning": "The research results provide a clear answer to the questions we have held for many years."
+  },
+  {
+    "sentence": "古い灯台【ふるいとうだい】は、海【うみ】を行【ゆ】き来【き】する船【ふね】を照【て】らし続【つづ】けている。",
+    "sentence_furigana": "古【ふる】い灯台【とうだい】は、海【うみ】を行【ゆ】き来【き】する船【ふね】を照【て】らし続【つづ】けている。",
+    "meaning": "The old lighthouse continues to illuminate ships going to and from the sea."
+  },
+  {
+    "sentence": "彼は少々【しょうしょう】控えめ【ひかえめ】な性格【せいかく】だが、仕事【しごと】においては非常に熱心【ひじょうにねっしん】だ。",
+    "sentence_furigana": "彼【かれ】は少々【しょうしょう】控えめ【ひかえめ】な性格【せいかく】だが、仕事【しごと】においては非常【ひじょう】に熱心【ねっしん】だ。",
+    "meaning": "He has a somewhat reserved personality, but is very passionate about his work."
+  },
+  {
+    "sentence": "この物語【このものがたり】は、人間【にんげん】の複雑【ふくざつ】な心理【しんり】を巧【たく】みに照【て】らし出【だ】している。",
+    "sentence_furigana": "この物語【ものがたり】は、人間【にんげん】の複雑【ふくざつ】な心理【しんり】を巧【たく】みに照【て】らし出【だ】している。",
+    "meaning": "This story skillfully illuminates the complex psychology of human beings."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、新しい挑戦【あたらしいちょうせん】に臆することなく、その可能性【そのかのうせい】を最大限【さいだいげん】に活【い】かしている。",
+    "sentence_furigana": "彼女【かのじょ】は、新【あら】たな挑戦【ちょうせん】に臆【おく】することなく、その可能性【かのうせい】を最大限【さいだいげん】に活【い】かしている。",
+    "meaning": "She bravely takes on new challenges and maximizes their potential."
+  },
+  {
+    "sentence": "新しい科学技術【あたらしいかがくぎじゅつ】は、未来社会【みらいしゃかい】を明るく照【あかるくて】らす希望【きぼう】である。",
+    "sentence_furigana": "新【あら】たな科学技術【かがくぎじゅつ】は、未来社会【みらいしゃかい】を明るく照【て】らす希望【きぼう】である。",
+    "meaning": "New scientific technology is a hope that illuminates future society brightly."
+  },
+  {
+    "sentence": "この文献【このぶんけん】は、当時の社会構造【とうじのしゃかいこうぞう】を分析【ぶんせき】する上で参考【さんこう】になる。",
+    "sentence_furigana": "この文献【ぶんけん】は、当時【とうじ】の社会構造【しゃかいこうぞう】を分析【ぶんせき】する上【うえ】で参考【さんこう】になる。",
+    "meaning": "This document is useful for analyzing the social structure of that time."
+  },
+  {
+    "sentence": "彼【かれ】は、過去【かこ】の偉大【いだい】な発明家【はつめいか】たちと自分【じぶん】を比較【ひかく】し、謙虚【けんきょ】な気持【きも】ちになった。",
+    "sentence_furigana": "彼【かれ】は、過去【かこ】の偉大【いだい】な発明家【はつめいか】たちと自分【じぶん】を比較【ひかく】し、謙虚【けんきょ】な気持【きも】ちになった。",
+    "meaning": "He compared himself to great inventors of the past and felt humble."
+  },
+  {
+    "sentence": "街灯【がいとう】の明【あ】かりが、雨【あめ】に濡【ぬ】れたアスファルトを鈍く照【にぶくて】らしていた。",
+    "sentence_furigana": "街灯【がいとう】の明【あ】かりが、雨【あめ】に濡【ぬ】れたアスファルトを鈍【にぶ】く照【て】らしていた。",
+    "meaning": "The streetlight dimly illuminated the rain-soaked asphalt."
+  },
+  {
+    "sentence": "彼女【かのじょ】は少し【すこし】内気【うちき】なところがあるが、本当【ほんとう】に優しい【やさ】しい人【ひと】だ。",
+    "sentence_furigana": "彼女【かのじょ】は少【すこ】し内気【うちき】なところがあるが、本当【ほんとう】に優【やさ】しい人【ひと】だ。",
+    "meaning": "She is a little shy, but she is a truly kind person."
+  },
+  {
+    "sentence": "この書物【このしょもつ】は、当時の文学【とうじのぶんがく】の潮流【ちょうりゅう】を明快【めいかい】に示【しめ】している。",
+    "sentence_furigana": "この書物【しょもつ】は、当時【とうじ】の文学【ぶんがく】の潮流【ちょうりゅう】を明快【めいかい】に示【しめ】している。",
+    "meaning": "This book clearly shows the literary trends of the time."
+  },
+  {
+    "sentence": "新しい視点【あたらしいしてん】が、長年【ながねん】未解決【みかいけつ】だった問題【もんだい】を照【て】らす。",
+    "sentence_furigana": "新【あら】たな視点【してん】が、長年【ながねん】未解決【みかいけつ】だった問題【もんだい】を照【て】らす。",
+    "meaning": "A new perspective sheds light on a long-unsolved problem."
+  },
+  {
+    "sentence": "夜空【よぞら】に輝【かがや】く星々【ほしぼし】は、まるで無限【むげん】の可能性【かのうせい】を示唆【しさ】しているかのようだ。",
+    "sentence_furigana": "夜空【よぞら】に輝【かがや】く星々【ほしぼし】は、まるで無限【むげん】の可能性【かのうせい】を示唆【しさ】しているかのようだ。",
+    "meaning": "The stars shining in the night sky seem to suggest infinite possibilities."
+  },
+  {
+    "sentence": "彼女【かのじょ】は、皆【みんな】の前【まえ】で話【はな】す時【とき】、緊張【きんちょう】してしまい顔【かお】を赤【あか】らめることがよくある。",
+    "sentence_furigana": "彼女【かのじょ】は、皆【みんな】の前【まえ】で話【はな】す時【とき】、緊張【きんちょう】してしまい顔【かお】を赤【あか】らめることがよくある。",
+    "meaning": "She often blushes when speaking in front of everyone because she gets nervous."
+  },
+  {
+    "sentence": "この統計データは、過去【かこ】の経済動向【けいざいどうこう】と比較【ひかく】することで、将来【しょうらい】の予測【よそく】に役立【やくた】つ。",
+    "sentence_furigana": "この統計データは、過去【かこ】の経済動向【けいざいどうこう】と比較【ひかく】することで、将来【しょうらい】の予測【よそく】に役立【やくた】つ。",
+    "meaning": "By comparing this statistical data with past economic trends, it is useful for future predictions."
+  }
+]

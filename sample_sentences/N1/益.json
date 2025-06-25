@@ -1,0 +1,487 @@
+[
+  {
+    "sentence": "この薬は体に益がある。",
+    "sentence_furigana": "この薬【くすり】は体【からだ】に益【えき】がある。",
+    "meaning": "This medicine is beneficial to the body."
+  },
+  {
+    "sentence": "経験を積むことは、将来に益をもたらすだろう。",
+    "sentence_furigana": "経験【けいけん】を積【つ】むことは、将来【しょうらい】に益【えき】をもたらすだろう。",
+    "meaning": "Gaining experience will likely bring future benefits."
+  },
+  {
+    "sentence": "彼の助言は我々に大きな益となった。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は我々【われわれ】に大【おお】きな益【えき】となった。",
+    "meaning": "His advice was of great advantage to us."
+  },
+  {
+    "sentence": "健康的な食事は健康増進に益する。",
+    "sentence_furigana": "健康的【けんこうてき】な食事【しょくじ】は健康増進【けんこうぞうしん】に益【えき】する。",
+    "meaning": "A healthy diet benefits health promotion."
+  },
+  {
+    "sentence": "その投資は予想以上の益を上げた。",
+    "sentence_furigana": "その投資【とうし】は予想以上【よそういじょう】の益【えき】を上【あ】げた。",
+    "meaning": "That investment yielded more profit than expected."
+  },
+  {
+    "sentence": "ボランティア活動は社会に益を与える。",
+    "sentence_furigana": "ボランティア活動【かつどう】は社会【しゃかい】に益【えき】を与【あた】える。",
+    "meaning": "Volunteer activities benefit society."
+  },
+  {
+    "sentence": "彼の努力はチーム全体に益となった。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】はチーム全体【ぜんたい】に益【えき】となった。",
+    "meaning": "His efforts were advantageous to the entire team."
+  },
+  {
+    "sentence": "運動は心身の健康に益がある。",
+    "sentence_furigana": "運動【うんどう】は心身【しんしん】の健康【けんこう】に益【えき】がある。",
+    "meaning": "Exercise is beneficial for physical and mental health."
+  },
+  {
+    "sentence": "この情報は我々のビジネスに益するだろう。",
+    "sentence_furigana": "この情報【じょうほう】は我々【われわれ】のビジネスに益【えき】するだろう。",
+    "meaning": "This information will be beneficial to our business."
+  },
+  {
+    "sentence": "利益の配分について益を均等にする。",
+    "sentence_furigana": "利益【りえき】の配分【はいぶん】について益【えき】を均等【きんとう】にする。",
+    "meaning": "To distribute the profits equally in terms of benefits."
+  },
+  {
+    "sentence": "新しい技術は生産性向上に益をもたらした。",
+    "sentence_furigana": "新【あたら】しい技術【ぎじゅつ】は生産性向上【せいさんせいこうじょう】に益【えき】をもたらした。",
+    "meaning": "The new technology brought benefits in improving productivity."
+  },
+  {
+    "sentence": "その政策は国民生活に益を与える。",
+    "sentence_furigana": "その政策【せいさく】は国民生活【こくみんせいかつ】に益【えき】を与【あた】える。",
+    "meaning": "That policy benefits the lives of the citizens."
+  },
+  {
+    "sentence": "学術的な探求は人類の知識の益となる。",
+    "sentence_furigana": "学術的【がくじゅつてき】な探求【たんきゅう】は人類【じんるい】の知識【ちしき】の益【えき】となる。",
+    "meaning": "Academic pursuit benefits humanity's knowledge."
+  },
+  {
+    "sentence": "彼の貢献は会社にとって計り知れない益があった。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は会社【かいしゃ】にとって計【はか】り知【し】れない益【えき】があった。",
+    "meaning": "His contribution was an immeasurable benefit to the company."
+  },
+  {
+    "sentence": "節約することは家計の益になる。",
+    "sentence_furigana": "節約【せつやく】すること は 家計【かけい】の益【えき】になる。",
+    "meaning": "Saving money benefits the household budget."
+  },
+  {
+    "sentence": "この改革は社会全体の益を目的としている。",
+    "sentence_furigana": "この改革【かいかく】は社会全体【しゃかぜんたい】の益【えき】を目的【もくてき】としている。",
+    "meaning": "This reform aims for the benefit of society as a whole."
+  },
+  {
+    "sentence": "彼の経験は若い世代に益となるだろう。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は若【わか】い世代【せだい】に益【えき】となるだろう。",
+    "meaning": "His experience will be beneficial to the younger generation."
+  },
+  {
+    "sentence": "自然との触れ合いは心の益になる。",
+    "sentence_furigana": "自然【しぜん】との触【ふ】れ合【あ】いは心【こころ】の益【えき】になる。",
+    "meaning": "Interacting with nature is good for the soul."
+  },
+  {
+    "sentence": "その製品は消費者の益になるように設計された。",
+    "sentence_furigana": "その製品【せいひん】は消費者【しょうひしゃ】の益【えき】になるように設計【せっけい】された。",
+    "meaning": "That product was designed for the benefit of consumers."
+  },
+  {
+    "sentence": "協調性はチームワークの益となる。",
+    "sentence_furigana": "協調性【きょうちょうせい】はチームワークの益【えき】となる。",
+    "meaning": "Cooperation is beneficial to teamwork."
+  },
+  {
+    "sentence": "この知識は実生活に益をもたらす。",
+    "sentence_furigana": "この知識【ちしき】は実生活【じつせいかつ】に益【えき】をもたらす。",
+    "meaning": "This knowledge brings benefits to real life."
+  },
+  {
+    "sentence": "彼の的確な指示はプロジェクトの益となった。",
+    "sentence_furigana": "彼【かれ】の的確【てきかく】な指示【しじ】はプロジェクトの益【えき】となった。",
+    "meaning": "His precise instructions benefited the project."
+  },
+  {
+    "sentence": "継続的な学習はキャリアの益となる。",
+    "sentence_furigana": "継続的【けいぞくてき】な学習【がくしゅう】はキャリアの益【えき】となる。",
+    "meaning": "Continuous learning benefits one's career."
+  },
+  {
+    "sentence": "公共の福祉に益する事業を推進する。",
+    "sentence_furigana": "公共【こうきょう】の福祉【ふくし】に益【えき】する事業【じぎょう】を推進【すいしん】する。",
+    "meaning": "To promote businesses that benefit public welfare."
+  },
+  {
+    "sentence": "その発見は科学界に多大な益をもたらした。",
+    "sentence_furigana": "その発見【はっけん】は科学界【かがくかい】に多大【ただい】な益【えき】をもたらした。",
+    "meaning": "That discovery brought immense benefits to the scientific community."
+  },
+  {
+    "sentence": "彼は自分の利益のために行動する。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の利益【りえき】のため に 行動【こうどう】する。",
+    "meaning": "He acts for his own profit."
+  },
+  {
+    "sentence": "地域社会への貢献は、相互に益がある。",
+    "sentence_furigana": "地域社会【ちいきしゃかい】への貢献【こうけん】は、相互【そうご】に益【えき】がある。",
+    "meaning": "Contributing to the local community is mutually beneficial."
+  },
+  {
+    "sentence": "このソフトウェアは作業効率の益となる。",
+    "sentence_furigana": "このソフトウェアは作業効率【さぎょうこうりつ】の益【えき】となる。",
+    "meaning": "This software is beneficial for work efficiency."
+  },
+  {
+    "sentence": "彼の経験談は参加者全員に益となった。",
+    "sentence_furigana": "彼【かれ】の経験談【けいけんたん】は参加者全員【さんかしゃぜんいん】に益【えき】となった。",
+    "meaning": "His experience sharing was beneficial to all participants."
+  },
+  {
+    "sentence": "その法案は国民の益になるように検討されている。",
+    "sentence_furigana": "その法案【ほうあん】は国民【こくみん】の益【えき】になるように検討【けんとう】されている。",
+    "meaning": "The bill is being considered for the benefit of the citizens."
+  },
+  {
+    "sentence": "このトレーニングはスキルアップに益する。",
+    "sentence_furigana": "このトレーニングはスキルアップに益【えき】する。",
+    "meaning": "This training benefits skill improvement."
+  },
+  {
+    "sentence": "彼の親切な行為は、多くの人に益を与えた。",
+    "sentence_furigana": "彼【かれ】の親切【しんせつ】な行為【こうい】は、多【おお】くの人【ひと】に益【えき】を与【あた】えた。",
+    "meaning": "His kind act benefited many people."
+  },
+  {
+    "sentence": "この研究は医学の発展に益をもたらすだろう。",
+    "sentence_furigana": "この研究【けんきゅう】は医学【いがく】の発展【はってん】に益【えき】をもたらすだろう。",
+    "meaning": "This research will likely bring benefits to medical advancement."
+  },
+  {
+    "sentence": "彼女の進言は、会社の戦略に益となった。",
+    "sentence_furigana": "彼女【かのじょ】の進言【しんげん】は、会社【かいしゃ】の戦略【せんりゃく】に益【えき】となった。",
+    "meaning": "Her advice was beneficial to the company's strategy."
+  },
+  {
+    "sentence": "健康的な生活習慣は長寿の益となる。",
+    "sentence_furigana": "健康的【けんこうてき】な生活習慣【せいかつしゅうかん】は長寿【ちょうじゅ】の益【えき】となる。",
+    "meaning": "Healthy lifestyle habits are beneficial for longevity."
+  },
+  {
+    "sentence": "彼は商売で大きな益を得た。",
+    "sentence_furigana": "彼【かれ】は商売【しょうばい】で大【おお】きな益【えき】を得【え】た。",
+    "meaning": "He gained considerable profit from his business."
+  },
+  {
+    "sentence": "この情報は非常に益がある。",
+    "sentence_furigana": "この情報【じょうほう】は非常【ひじょう】に益【えき】がある。",
+    "meaning": "This information is very beneficial."
+  },
+  {
+    "sentence": "彼の提案はプロジェクトの成功に益した。",
+    "sentence_furigana": "彼【かれ】の提案【ていあん】はプロジェクトの成功【せいこう】に益【えき】した。",
+    "meaning": "His proposal benefited the project's success."
+  },
+  {
+    "sentence": "その運動は地域経済に益をもたらす。",
+    "sentence_furigana": "その運動【うんどう】は地域経済【ちいけいけいざい】に益【えき】をもたらす。",
+    "meaning": "That movement brings benefits to the local economy."
+  },
+  {
+    "sentence": "彼の教えは多くの学生に益を与えた。",
+    "sentence_furigana": "彼【かれ】の教【おし】えは多【おお】くの学生【がくせい】に益【えき】を与【あた】えた。",
+    "meaning": "His teachings benefited many students."
+  },
+  {
+    "sentence": "この政策変更は企業活動に益する。",
+    "sentence_furigana": "この政策変更【せいさくへんこう】は企業活動【きぎょうかつどう】に益【えき】する。",
+    "meaning": "This policy change benefits corporate activities."
+  },
+  {
+    "sentence": "彼の功績は会社に多大な益をもたらした。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は会社【かいしゃ】に多大【ただい】な益【えき】をもたらした。",
+    "meaning": "His achievements brought significant benefits to the company."
+  },
+  {
+    "sentence": "環境保護活動は地球全体の益となる。",
+    "sentence_furigana": "環境保護活動【かんきょうほごかつどう】は地球全体【ちきゅうぜんたい】の益【えき】となる。",
+    "meaning": "Environmental protection activities benefit the entire Earth."
+  },
+  {
+    "sentence": "彼の献身的な努力はチームに益をもたらした。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な努力【どりょく】はチームに益【えき】をもたらした。",
+    "meaning": "His dedicated efforts benefited the team."
+  },
+  {
+    "sentence": "この新技術は産業の発展に益する。",
+    "sentence_furigana": "この新技術【しんぎじゅつ】は産業【さんぎょう】の発展【はってん】に益【えき】する。",
+    "meaning": "This new technology benefits industrial development."
+  },
+  {
+    "sentence": "彼の経験は貴重な益となった。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は貴重【きちょう】な益【えき】となった。",
+    "meaning": "His experience was a valuable benefit."
+  },
+  {
+    "sentence": "この情報は今後の計画に益がある。",
+    "sentence_furigana": "この情報【じょうほう】は今後【こんご】の計画【けいかく】に益【えき】がある。",
+    "meaning": "This information is beneficial for future planning."
+  },
+  {
+    "sentence": "彼の成功は多くの人々に益を与えた。",
+    "sentence_furigana": "彼【かれ】の成功【せいこう】は多【おお】くの人々【ひとびと】に益【えき】を与【あた】えた。",
+    "meaning": "His success benefited many people."
+  },
+  {
+    "sentence": "この協力は双方に益をもたらすだろう。",
+    "sentence_furigana": "この協力【きょうりょく】は双方【そうほう】に益【えき】をもたらすだろう。",
+    "meaning": "This cooperation will likely bring benefits to both parties."
+  },
+  {
+    "sentence": "彼の勇気ある行動は多くの人に益となった。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】ある行動【こうどう】は多【おお】くの人【ひと】に益【えき】となった。",
+    "meaning": "His courageous action benefited many people."
+  },
+  {
+    "sentence": "この投資は大きな利益を生むだろう。",
+    "sentence_furigana": "この投資【とうし】は大【おお】きな利益【りえき】を生【う】むだろう。",
+    "meaning": "This investment will generate significant profit."
+  },
+  {
+    "sentence": "彼の助言は事業の発展に益しました。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は事業【じぎょう】の発展【はってん】に益【えき】しました。",
+    "meaning": "His advice benefited the development of the business."
+  },
+  {
+    "sentence": "その改革は国民生活の向上に益を与える。",
+    "sentence_furigana": "その改革【かいかく】は国民生活【こくみんせいかつ】の向上【こうじょう】に益【えき】を与【あた】える。",
+    "meaning": "That reform benefits the improvement of citizens' lives."
+  },
+  {
+    "sentence": "彼の経験は後輩にとって益となる。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は後輩【こうはい】にとって益【えき】となる。",
+    "meaning": "His experience is beneficial to his juniors."
+  },
+  {
+    "sentence": "このプログラムは教育の普及に益する。",
+    "sentence_furigana": "このプログラムは教育【きょういく】の普及【ふきゅう】に益【えき】する。",
+    "meaning": "This program benefits the spread of education."
+  },
+  {
+    "sentence": "彼の知恵は我々の問題解決に益となった。",
+    "sentence_furigana": "彼【かれ】の知恵【ちえ】は我々【われわれ】の 問題解決【もんだいかいけつ】に益【えき】となった。",
+    "meaning": "His wisdom benefited our problem-solving."
+  },
+  {
+    "sentence": "この慈善活動は社会全体の益を目的とする。",
+    "sentence_furigana": "この慈善活動【じぜんかつどう】は社会全体【しゃかぜんたい】の益【えき】を目的【もくてき】とする。",
+    "meaning": "This charitable activity aims for the benefit of society as a whole."
+  },
+  {
+    "sentence": "彼の冷静な判断は事態の収拾に益した。",
+    "sentence_furigana": "彼【かれ】の冷静【れいせい】な判断【はんだん】は事態【じたい】の収拾【しゅうしゅう】に益【えき】した。",
+    "meaning": "His calm judgment benefited the resolution of the situation."
+  },
+  {
+    "sentence": "その投資は会社に大きな益をもたらした。",
+    "sentence_furigana": "その投資【とうし】は会社【かいしゃ】に大【おお】きな益【えき】をもたらした。",
+    "meaning": "That investment brought great profit to the company."
+  },
+  {
+    "sentence": "彼の献身はチームに多大な益を与えた。",
+    "sentence_furigana": "彼【かれ】の献身【けんしん】はチームに多大【ただい】な益【えき】を与【あた】えた。",
+    "meaning": "His dedication benefited the team greatly."
+  },
+  {
+    "sentence": "この技術革新は経済成長に益する。",
+    "sentence_furigana": "この技術革新【ぎじゅつかくしん】は経済成長【けいざいせいちょう】に益【えき】する。",
+    "meaning": "This technological innovation benefits economic growth."
+  },
+  {
+    "sentence": "彼の経験は新しい事業の立ち上げに益となった。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は新【あたら】しい事業【じぎょう】の立【た】ち上【あ】げ に 益【えき】となった。",
+    "meaning": "His experience benefited the launch of the new business."
+  },
+  {
+    "sentence": "この知識は実社会で大いに益がある。",
+    "sentence_furigana": "この知識【ちしき】は実社会【じっしゃかい】で大【おお】いに益【えき】がある。",
+    "meaning": "This knowledge is highly beneficial in the real world."
+  },
+  {
+    "sentence": "彼の助言はプロジェクトの成功に益するだろう。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】はプロジェクトの成功【せいこう】に益【えき】するだろう。",
+    "meaning": "His advice will likely benefit the project's success."
+  },
+  {
+    "sentence": "その努力はチーム全体の益となった。",
+    "sentence_furigana": "その努力【どりょく】はチーム全体【ぜんたい】の益【えき】となった。",
+    "meaning": "That effort benefited the entire team."
+  },
+  {
+    "sentence": "彼の経験は若い起業家に益を与える。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は若【わか】い起業家【きぎょうか】に益【えき】を与【あた】える。",
+    "meaning": "His experience benefits young entrepreneurs."
+  },
+  {
+    "sentence": "この新しい方法は作業効率の益になる。",
+    "sentence_furigana": "この新【あたら】しい方法【ほうほう】は作業効率【さぎょうこうりつ】の益【えき】になる。",
+    "meaning": "This new method benefits work efficiency."
+  },
+  {
+    "sentence": "彼のリーダーシップはチームに益をもたらした。",
+    "sentence_furigana": "彼【かれ】のリーダーシップはチームに益【えき】をもたらした。",
+    "meaning": "His leadership brought benefits to the team."
+  },
+  {
+    "sentence": "この情報は今後のビジネスに益する。",
+    "sentence_furigana": "この情報【じょうほう】は今後【こんご】のビジネスに益【えき】する。",
+    "meaning": "This information is beneficial to future business."
+  },
+  {
+    "sentence": "彼の貢献は会社の成長に益となった。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は会社【かいしゃ】の成長【せいちょう】に益【えき】となった。",
+    "meaning": "His contribution benefited the company's growth."
+  },
+  {
+    "sentence": "その政策は国民の生活向上に益を与える。",
+    "sentence_furigana": "その政策【せいさく】は国民【こくみん】の生活向上【せいかつこうじょう】に益【えき】を与【あた】える。",
+    "meaning": "That policy benefits the improvement of citizens' lives."
+  },
+  {
+    "sentence": "彼の経験は貴重な財産となるだろう。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は貴重【きちょう】な財産【ざいさん】となるだろう。",
+    "meaning": "His experience will be a valuable asset."
+  },
+  {
+    "sentence": "この情報交換は双方に益をもたらす。",
+    "sentence_furigana": "この情報交換【じょうほうこうかん】は双方【そうほう】に益【えき】をもたらす。",
+    "meaning": "This information exchange brings benefits to both parties."
+  },
+  {
+    "sentence": "彼の研究は科学の進歩に益した。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は科学【かがく】の進歩【しんぽ】に益【えき】した。",
+    "meaning": "His research benefited the advancement of science."
+  },
+  {
+    "sentence": "その提案は会社の利益向上に貢献した。",
+    "sentence_furigana": "その提案【ていあん】は会社【かいしゃ】の利益向上【りえきこうじょう】に貢献【こうけん】した。",
+    "meaning": "That proposal contributed to the company's profit increase."
+  },
+  {
+    "sentence": "彼の的確なアドバイスは問題解決に益となった。",
+    "sentence_furigana": "彼【かれ】の的確【てきかく】なアドバイスは問題解決【もんだいかいけつ】に益【えき】となった。",
+    "meaning": "His precise advice benefited problem-solving."
+  },
+  {
+    "sentence": "この経験は将来に大きな益をもたらす。",
+    "sentence_furigana": "この経験【けいけん】は将来【しょうらい】に大【おお】きな益【えき】をもたらす。",
+    "meaning": "This experience will bring great benefits in the future."
+  },
+  {
+    "sentence": "彼の協力はプロジェクトに益しました。",
+    "sentence_furigana": "彼【かれ】の協力【きょうりょく】はプロジェクトに益【えき】しました。",
+    "meaning": "His cooperation benefited the project."
+  },
+  {
+    "sentence": "その改革は国民の益となる。",
+    "sentence_furigana": "その改革【かいかく】は国民【こくみん】の益【えき】となる。",
+    "meaning": "That reform benefits the citizens."
+  },
+  {
+    "sentence": "彼の経験は新人にとって益となるだろう。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は新人【しんじん】にとって益【えき】となるだろう。",
+    "meaning": "His experience will likely benefit new employees."
+  },
+  {
+    "sentence": "この情報は今後の意思決定に益がある。",
+    "sentence_furigana": "この情報【じょうほう】は今後【こんご】の意思決定【いしけってい】に益【えき】がある。",
+    "meaning": "This information is beneficial for future decision-making."
+  },
+  {
+    "sentence": "彼の努力はチームに大きな益をもたらした。",
+    "sentence_furigana": "彼【かれ】の努力【どりょく】はチームに大【おお】きな益【えき】をもたらした。",
+    "meaning": "His efforts brought great benefits to the team."
+  },
+  {
+    "sentence": "その発見は科学界に益を与える。",
+    "sentence_furigana": "その発見【はっけん】は科学界【かがくかい】に益【えき】を与【あた】える。",
+    "meaning": "That discovery benefits the scientific community."
+  },
+  {
+    "sentence": "彼の献身的な活動は地域社会に益となった。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な活動【かつどう】は地域社会【ちいきしゃかい】に益【えき】となった。",
+    "meaning": "His dedicated activities benefited the local community."
+  },
+  {
+    "sentence": "この新しい戦略は会社の利益を増やすだろう。",
+    "sentence_furigana": "この新【あたら】しい戦略【せんりゃく】は会社【かいしゃ】の利益【りえき】を増【ふ】やすだろう。",
+    "meaning": "This new strategy will likely increase the company's profit."
+  },
+  {
+    "sentence": "彼の助言はプロジェクトの進行に益しました。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】はプロジェクトの進行【しんこう】に益【えき】しました。",
+    "meaning": "His advice benefited the project's progress."
+  },
+  {
+    "sentence": "その情報交換は相互に益をもたらす。",
+    "sentence_furigana": "その情報交換【じょうほうこうかん】は相互【そうご】に益【えき】をもたらす。",
+    "meaning": "That information exchange brings mutual benefits."
+  },
+  {
+    "sentence": "彼の経験は後進の育成に益となる。",
+    "sentence_furigana": "彼【かれ】の経験【けいけん】は後進【こうしん】の育成【いくせい】に益【えき】となる。",
+    "meaning": "His experience benefits the development of successors."
+  },
+  {
+    "sentence": "この新しい技術は産業に益する。",
+    "sentence_furigana": "この新【あたら】しい技術【ぎじゅつ】は産業【さんぎょう】に益【えき】する。",
+    "meaning": "This new technology benefits industry."
+  },
+  {
+    "sentence": "彼の貢献は、プロジェクトの成功に益となった。",
+    "sentence_furigana": "彼【かれ】の貢献【こうけん】は、プロジェクトの成功【せいこう】に益【えき】となった。",
+    "meaning": "His contribution benefited the project's success."
+  },
+  {
+    "sentence": "その情報は、今後の計画に大いに益がある。",
+    "sentence_furigana": "その情報【じょうほう】は、今後【こんご】の計画【けいかく】に大【おお】いに益【えき】がある。",
+    "meaning": "That information is highly beneficial for future planning."
+  },
+  {
+    "sentence": "彼の経験談は参加者に益を与えた。",
+    "sentence_furigana": "彼【かれ】の経験談【けいけんたん】は参加者【さんかしゃ】に益【えき】を与【あた】えた。",
+    "meaning": "His experience sharing benefited the participants."
+  },
+  {
+    "sentence": "この協定は両国に益をもたらすだろう。",
+    "sentence_furigana": "この協定【きょうてい】は両国【りょうこく】に益【えき】をもたらすだろう。",
+    "meaning": "This agreement will likely bring benefits to both countries."
+  },
+  {
+    "sentence": "彼の勇気ある行動は多くの人々の益となった。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】ある行動【こうどう】は多【おお】くの人々【ひとびと】の益【えき】となった。",
+    "meaning": "His courageous action benefited many people."
+  },
+  {
+    "sentence": "その投資は会社に計り知れない益をもたらした。",
+    "sentence_furigana": "その投資【とうし】は会社【かいしゃ】に計【はか】り知【し】れない益【えき】をもたらした。",
+    "meaning": "That investment brought immeasurable benefits to the company."
+  },
+  {
+    "sentence": "彼の献身はチームに多大な益を与えた。",
+    "sentence_furigana": "彼【かれ】の献身【けんしん】はチームに多大【ただい】な益【えき】を与【あた】えた。",
+    "meaning": "His dedication benefited the team greatly."
+  },
+  {
+    "sentence": "この技術革新は経済成長に益する。",
+    "sentence_furigana": "この技術革新【ぎじゅつかくしん】は経済成長【けいざいせいちょう】に益【えき】する。",
+    "meaning": "This technological innovation benefits economic growth."
+  }
+]

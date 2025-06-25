@@ -1,0 +1,522 @@
+[
+  {
+    "sentence": "彼は両方の肢を怪我しました。",
+    "sentence_furigana": "彼【かれ】は両方【りょうほう】の肢【し】を怪我【けが】しました。",
+    "meaning": "He injured both of his limbs."
+  },
+  {
+    "sentence": "象の肢は太くて力強いです。",
+    "sentence_furigana": "象【ぞう】の肢【し】は太【ふと】くて力強【ちからづよ】いです。",
+    "meaning": "An elephant's limbs are thick and strong."
+  },
+  {
+    "sentence": "この動物は four本の肢を持っています。",
+    "sentence_furigana": "この動物【どうぶつ】は four本【ほん】の肢【し】を持【も】っています。",
+    "meaning": "This animal has four limbs."
+  },
+  {
+    "sentence": "彼女は芸術的な肢を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は芸術的【げいじゅつてき】な肢【し】を持【も】っています。",
+    "meaning": "She has artistic limbs."
+  },
+  {
+    "sentence": "木には多くの枝があります。",
+    "sentence_furigana": "木【き】には多【おお】くの枝【えだ】があります。",
+    "meaning": "The tree has many branches."
+  },
+  {
+    "sentence": "鳥は飛ぶための翼を持っていますが、二本の肢もあります。",
+    "sentence_furigana": "鳥【とり】は飛【と】ぶための翼【つばさ】を持【も】っていますが、二本【ほん】の肢【し】もあります。",
+    "meaning": "Birds have wings for flying, but they also have two limbs."
+  },
+  {
+    "sentence": "水泳選手は優れた肢を持っています。",
+    "sentence_furigana": "水泳選手【すいえいせんしゅ】は優【すぐ】れた肢【し】を持【も】っています。",
+    "meaning": "The swimmer has excellent limbs."
+  },
+  {
+    "sentence": "この彫刻は人間の肢を模倣しています。",
+    "sentence_furigana": "この彫刻【ちょうこく】は人間【にんげん】の肢【し】を模倣【もほう】しています。",
+    "meaning": "This sculpture imitates human limbs."
+  },
+  {
+    "sentence": "ロボットの肢は滑らかに動きます。",
+    "sentence_furigana": "ロボットの肢【し】は滑【なめ】らかに動【うご】きます。",
+    "meaning": "The robot's limbs move smoothly."
+  },
+  {
+    "sentence": "その怪物は複数の肢を持っていました。",
+    "sentence_furigana": "その怪物【かいぶつ】は複数【ふくすう】の肢【し】を持【も】っていました。",
+    "meaning": "The monster had multiple limbs."
+  },
+  {
+    "sentence": "彼女のダンスは優雅な肢の動きを示しています。",
+    "sentence_furigana": "彼女【かのじょ】のダンスは優雅【ゆうが】な肢【し】の動【うご】きを示【しめ】しています。",
+    "meaning": "Her dance shows elegant limb movements."
+  },
+  {
+    "sentence": "馬の肢は速く走るのに適しています。",
+    "sentence_furigana": "馬【うま】の肢【し】は速【はや】く走【はし】るのに適【てき】しています。",
+    "meaning": "A horse's limbs are suited for running fast."
+  },
+  {
+    "sentence": "義足は失われた肢の代わりとなります。",
+    "sentence_furigana": "義足【ぎそく】は失【うしな】われた肢【し】の代【か】わりとなります。",
+    "meaning": "An artificial leg serves as a replacement for a lost limb."
+  },
+  {
+    "sentence": "動物の肢の構造は様々です。",
+    "sentence_furigana": "動物【どうぶつ】の肢【し】の構造【こうぞう】は様々【さまざま】です。",
+    "meaning": "The structure of animal limbs varies."
+  },
+  {
+    "sentence": "彼はリハビリテーションで肢の機能を回復させました。",
+    "sentence_furigana": "彼【かれ】はリハビリテーションで肢【し】の機能【きのう】を回復【かいふく】させました。",
+    "meaning": "He recovered the function of his limbs through rehabilitation."
+  },
+  {
+    "sentence": "この昆虫は六本の肢を持っています。",
+    "sentence_furigana": "この昆虫【こんちゅう】は六本【ろっぽん】の肢【し】を持【も】っています。",
+    "meaning": "This insect has six limbs."
+  },
+  {
+    "sentence": "モデルはスレンダーな肢を披露しました。",
+    "sentence_furigana": "モデルはスレンダーな肢【し】を披露【ひろう】しました。",
+    "meaning": "The model showcased slender limbs."
+  },
+  {
+    "sentence": "人間の肢は物をつかんだり、移動したりするために使われます。",
+    "sentence_furigana": "人間【にんげん】の肢【し】は物【もの】をつかんだり、移動【いどう】したりするために使【つか】われます。",
+    "meaning": "Human limbs are used for grasping things and moving."
+  },
+  {
+    "sentence": "彼は事故で片方の肢を失った。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】で片方【かたほう】の肢【し】を失【うしな】った。",
+    "meaning": "He lost a limb in an accident."
+  },
+  {
+    "sentence": "爬虫類の肢は地面に近い位置にあります。",
+    "sentence_furigana": "爬虫類【はちゅうるい】の肢【し】は地面【じめん】に近い【ちかい】位置【いち】にあります。",
+    "meaning": "Reptilian limbs are positioned close to the ground."
+  },
+  {
+    "sentence": "彼女はバレエのレッスンで肢を美しく使う。",
+    "sentence_furigana": "彼女【かのじょ】はバレエのレッスンで肢【し】を美【うつく】しく使【つか】う。",
+    "meaning": "She uses her limbs beautifully in ballet lessons."
+  },
+  {
+    "sentence": "子供は成長とともに肢が大きくなる。",
+    "sentence_furigana": "子供【こども】は成長【せいちょう】とともに肢【し】が大【おお】きくなる。",
+    "meaning": "Children's limbs grow larger as they develop."
+  },
+  {
+    "sentence": "この椅子は人間工学に基づいて設計されており、快適な肢の置き場を提供します。",
+    "sentence_furigana": "この椅子【いす】は人間工学【にんげんこうがく】に基づいて【もとづいて】設計【せっけい】されており、快適【かいてき】な肢【し】の置【お】き場【ば】を提供【ていきょう】します。",
+    "meaning": "This chair is ergonomically designed to provide a comfortable place for limbs."
+  },
+  {
+    "sentence": "その魚は小さな肢のようなものを持っていた。",
+    "sentence_furigana": "その魚【さかな】は小【ちい】さな肢【し】のようなものを持【も】っていた。",
+    "meaning": "The fish had something like small limbs."
+  },
+  {
+    "sentence": "ロボットアームは人間のかのような肢の動きを再現する。",
+    "sentence_furigana": "ロボットアームは人間【にんげん】のかのような肢【し】の動【うご】きを再現【さいげん】する。",
+    "meaning": "Robot arms replicate human-like limb movements."
+  },
+  {
+    "sentence": "彼は激しい運動で肢に負担をかけた。",
+    "sentence_furigana": "彼【かれ】は激【はげ】しい運動【うんどう】で肢【し】に負担【ふたん】をかけた。",
+    "meaning": "He strained his limbs with intense exercise."
+  },
+  {
+    "sentence": "彫刻家は金属で人間の肢を巧みに表現した。",
+    "sentence_furigana": "彫刻家【ちょうこくか】は金属【きんぞく】で人間【にんげん】の肢【し】を巧【たく】みに表現【ひょうげん】した。",
+    "meaning": "The sculptor skillfully rendered human limbs in metal."
+  },
+  {
+    "sentence": "この機械はアーム状の肢を備えている。",
+    "sentence_furigana": "この機械【きかい】はアーム状【じょう】の肢【し】を備【そな】えている。",
+    "meaning": "This machine is equipped with arm-like limbs."
+  },
+  {
+    "sentence": "リハビリを通じて、彼女は失った肢の感覚を取り戻した。",
+    "sentence_furigana": "リハビリを通【つう】じて、彼女【かのじょ】は失【うしな】った肢【し】の感覚【かんかく】を取り戻【とりもど】した。",
+    "meaning": "Through rehabilitation, she regained sensation in her lost limbs."
+  },
+  {
+    "sentence": "この絵画は、人物の肢の正確な描写で知られています。",
+    "sentence_furigana": "この絵画【かいが】は、人物【じんぶつ】の肢【し】の正確【せいかく】な描写【びょうしゃ】で知【し】られています。",
+    "meaning": "This painting is known for its accurate depiction of human limbs."
+  },
+  {
+    "sentence": "犬の四肢は歩行や走行に不可欠である。",
+    "sentence_furigana": "犬【いぬ】の四肢【しし】は歩行【ほこう】や走行【そうこう】に不可欠【ふかけつ】である。",
+    "meaning": "A dog's four limbs are essential for walking and running."
+  },
+  {
+    "sentence": "彼は片方の肢が不自由なため、車椅子を使用しています。",
+    "sentence_furigana": "彼【かれ】は片方【かたほう】の肢【し】が不自由【ふじゆう】なため、車椅子【くるまいす】を使用【しよう】しています。",
+    "meaning": "He uses a wheelchair because one of his limbs is impaired."
+  },
+  {
+    "sentence": "この衣装は動きやすいように、肢の部分がゆったりしている。",
+    "sentence_furigana": "この衣装【いしょう】は動【うご】きやすいように、肢【し】の部分【ぶぶん】がゆったりしている。",
+    "meaning": "This costume is loose in the limb areas for ease of movement."
+  },
+  {
+    "sentence": "鳥の翼は、進化した肢の形です。",
+    "sentence_furigana": "鳥【とり】の翼【つばさ】は、進化【しんか】した肢【し】の形【かたち】です。",
+    "meaning": "Bird wings are evolved limbs."
+  },
+  {
+    "sentence": "彼は新しい義肢に慣れるのに時間がかかった。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい義肢【ぎし】に慣【な】れるのに時間【じかん】がかかった。",
+    "meaning": "It took him time to get used to his new prosthetic limb."
+  },
+  {
+    "sentence": "この芸術作品は、肢の繊細な表現が特徴です。",
+    "sentence_furigana": "この芸術作品【げいじゅつさくひん】は、肢【し】の繊細【せんさい】な表現【ひょうげん】が特徴【とくちょう】です。",
+    "meaning": "This artwork is characterized by its delicate representation of limbs."
+  },
+  {
+    "sentence": "彼女は事故で壊れた肢を治療した。",
+    "sentence_furigana": "彼女【かのじょ】は事故【じこ】で壊【こわ】れた肢【し】を治療【ちりょう】した。",
+    "meaning": "She treated her limb that was broken in the accident."
+  },
+  {
+    "sentence": "猫はしなやかな肢で高いところから飛び降りることができる。",
+    "sentence_furigana": "猫【ねこ】はしなやかな肢【し】で高【たか】いところから飛【と】び降【お】りることができる。",
+    "meaning": "Cats can jump from high places with their supple limbs."
+  },
+  {
+    "sentence": "この新しい技術は、義肢の操作性を大幅に向上させました。",
+    "sentence_furigana": "この新【あたら】しい技術【ぎじゅつ】は、義肢【ぎし】の操作性【そうさせい】を大幅【おおはば】に向上【こうじょう】させました。",
+    "meaning": "This new technology has greatly improved the usability of prosthetic limbs."
+  },
+  {
+    "sentence": "このポーズをとるには、柔軟な肢が必要です。",
+    "sentence_furigana": "このポーズをとるには、柔軟【じゅうなん】な肢【し】が必要【ひつよう】です。",
+    "meaning": "This pose requires flexible limbs."
+  },
+  {
+    "sentence": "彼の肢は太く、筋肉質に見えた。",
+    "sentence_furigana": "彼【かれ】の肢【し】は太【ふと】く、筋肉質【きんにくしつ】に見【み】えた。",
+    "meaning": "His limbs looked thick and muscular."
+  },
+  {
+    "sentence": "手術の後、彼は新しい肢のリハビリテーションを開始した。",
+    "sentence_furigana": "手術【しゅじゅつ】の後【あと】、彼【かれ】は新【あたら】しい肢【し】のリハビリテーションを開始【かいし】した。",
+    "meaning": "After the surgery, he started rehabilitation for his new limb."
+  },
+  {
+    "sentence": "このクリーチャーは、人型ではない奇妙な肢の構造を持っています。",
+    "sentence_furigana": "このクリーチャーは、人型【ひとがた】ではない奇妙【きみょう】な肢【し】の構造【こうぞう】を持【も】っています。",
+    "meaning": "This creature has a strange limb structure that is not humanoid."
+  },
+  {
+    "sentence": "彼女は長い肢を活かして、モデルの仕事で成功を収めた。",
+    "sentence_furigana": "彼女【かのじょ】は長【なが】い肢【し】を活【い】かして、モデルの仕事【しごと】で成功【せいこう】を収【おさ】めた。",
+    "meaning": "She leveraged her long limbs to achieve success in modeling."
+  },
+  {
+    "sentence": "義足の装着は、日常生活の質を大きく向上させる。",
+    "sentence_furigana": "義足【ぎそく】の装着【そうちゃく】は、日常生活【にちじょうせいかつ】の質【しつ】を大【おお】きく向上【こうじょう】させる。",
+    "meaning": "Wearing a prosthesis greatly improves the quality of daily life."
+  },
+  {
+    "sentence": "馬は四本の肢すべてを使って走る。",
+    "sentence_furigana": "馬【うま】は四本【しほん】の肢【し】すべてを使【つか】って走る。",
+    "meaning": "A horse runs using all four of its limbs."
+  },
+  {
+    "sentence": "このロボットは人間のように動くための関節のある肢を持っている。",
+    "sentence_furigana": "このロボットは人間【にんげん】のように動【うご】くための関節【かんせつ】のある肢【し】を持【も】っている。",
+    "meaning": "This robot has articulated limbs to move like a human."
+  },
+  {
+    "sentence": "彼は身体能力が高く、特に肢の使い方が上手い。",
+    "sentence_furigana": "彼【かれ】は身体能力【しんたいのうりょく】が高【たか】く、特【とく】に肢【し】の使【つか】い方【かた】が上手【じょうず】い。",
+    "meaning": "He has high physical abilities, especially skillful use of his limbs."
+  },
+  {
+    "sentence": "昆虫学者は、昆虫の肢の構造を研究している。",
+    "sentence_furigana": "昆虫学者【こんちゅうがくしゃ】は、昆虫【こんちゅう】の肢【し】の構造【こうぞう】を研究【けんきゅう】している。",
+    "meaning": "Entomologists study the structure of insect limbs."
+  },
+  {
+    "sentence": "リハビリの目標は、失った肢の機能を可能な限り回復させることです。",
+    "sentence_furigana": "リハビリの目標【もくひょう】は、失【うしな】った肢【し】の機能【きのう】を可能【かのう】な限【かぎ】り回復【かいふく】させることです。",
+    "meaning": "The goal of rehabilitation is to restore the function of the lost limb as much as possible."
+  },
+  {
+    "sentence": "この彫像は、人物の肢の正確な解剖学的構造を示している。",
+    "sentence_furigana": "この彫像【ちょうぞう】は、人物【じんぶつ】の肢【し】の正確【せいかく】な解剖学的構造【かいぼうがくてきこうぞう】を示【しめ】している。",
+    "meaning": "This statue shows the accurate anatomical structure of human limbs."
+  },
+  {
+    "sentence": "彼は怪我で歩くのが困難になり、肢の治療が必要だった。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】で歩【ある】くのが困難【こんなん】になり、肢【し】の治療【ちりょう】が必要【ひつよう】だった。",
+    "meaning": "He had difficulty walking due to an injury and needed treatment for his limb."
+  },
+  {
+    "sentence": "この衣装のデザインは、肢のシルエットを強調している。",
+    "sentence_furigana": "この衣装【いしょう】のデザインは、肢【し】のシルエットを強調【きょうちょう】している。",
+    "meaning": "The design of this costume emphasizes the silhouette of the limbs."
+  },
+  {
+    "sentence": "その動物は、獲物を捕らえるために鋭い爪を持つ肢を持っていた。",
+    "sentence_furigana": "その動物【どうぶつ】は、獲物【えもの】を捕【と】らえるために鋭【するど】い爪【つめ】を持【も】つ肢【し】を持【も】っていた。",
+    "meaning": "The animal had limbs with sharp claws to catch prey."
+  },
+  {
+    "sentence": "義足の技術は日進月歩で、より自然な動きが可能になっている。",
+    "sentence_furigana": "義足【ぎそく】の技術【ぎじゅつ】は日進月歩【にっしんげっぽ】で、より自然【しぜん】な動【うご】きが可能【かのう】になっている。",
+    "meaning": "Prosthetic limb technology is advancing rapidly, enabling more natural movements."
+  },
+  {
+    "sentence": "彼は新しい義肢に慣れるために、毎日リハビリをしている。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい義肢【ぎし】に慣【な】れるために、毎日【まいにち】リハビリをしている。",
+    "meaning": "He is doing rehabilitation every day to get used to his new prosthetic limb."
+  },
+  {
+    "sentence": "この人形は、関節が自由に動く肢を持っている。",
+    "sentence_furigana": "この人形【にんぎょう】は、関節【かんせつ】が自由【じゆう】に動【うご】く肢【し】を持【も】っている。",
+    "meaning": "This doll has limbs with movable joints."
+  },
+  {
+    "sentence": "彼女はバレエダンサーとして、素晴らしい肢のコントロールを示した。",
+    "sentence_furigana": "彼女【かのじょ】はバレエダンサーとして、素晴【すば】らしい肢【し】のコントロールを示【しめ】した。",
+    "meaning": "As a ballet dancer, she demonstrated excellent control of her limbs."
+  },
+  {
+    "sentence": "この機械の腕は、人間の肢のように器用に動く。",
+    "sentence_furigana": "この機械【きかい】の腕【うで】は、人間【にんげん】の肢【し】のように器用【きよう】に動【うご】く。",
+    "meaning": "The arms of this machine move skillfully like human limbs."
+  },
+  {
+    "sentence": "彼は怪我をした肢の治療のために専門医を受診した。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】をした肢【し】の治療【ちりょう】のために専門医【せんもんい】を受診【じゅしん】した。",
+    "meaning": "He visited a specialist for the treatment of his injured limb."
+  },
+  {
+    "sentence": "その爬虫類は、原始的な肢の構造を保持している。",
+    "sentence_furigana": "その爬虫類【はちゅうるい】は、原始的【げんしてき】な肢【し】の構造【こうぞう】を保持【ほじ】している。",
+    "meaning": "That reptile retains a primitive limb structure."
+  },
+  {
+    "sentence": "彼は義肢の装着が初めてで、少し戸惑っていた。",
+    "sentence_furigana": "彼【かれ】は義肢【ぎし】の装着【そうちゃく】が初【はじ】めてで、少【すこ】し戸惑【とまど】っていた。",
+    "meaning": "It was his first time wearing a prosthetic limb, and he was a bit bewildered."
+  },
+  {
+    "sentence": "この動物は地面を掘るのに適した太い肢を持っています。",
+    "sentence_furigana": "この動物【どうぶつ】は地面【じめん】を掘【ほ】るのに適【てき】した太【ふと】い肢【し】を持【も】っています。",
+    "meaning": "This animal has thick limbs suited for digging the ground."
+  },
+  {
+    "sentence": "彼女はバレエの練習で、肢の柔軟性を高めることに集中している。",
+    "sentence_furigana": "彼女【かのじょ】はバレエの練習【れんしゅう】で、肢【し】の柔軟性【じゅうなんせい】を高【たか】めることに集中【しゅうちゅう】している。",
+    "meaning": "She is focusing on improving the flexibility of her limbs in ballet practice."
+  },
+  {
+    "sentence": "彼は事故で負った重傷から回復し、再び自分の肢を使えるようになった。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】で負【お】った重傷【じゅうしょう】から回復【かいふく】し、再【ふたた】び自分【じぶん】の肢【し】を使【つか】えるようになった。",
+    "meaning": "He recovered from the severe injury sustained in the accident and was able to use his limbs again."
+  },
+  {
+    "sentence": "この機械的な肢は、非常に複雑な動きをすることができます。",
+    "sentence_furigana": "この機械的【きかいてき】な肢【し】は、非常【ひじょう】に複雑【ふくざつ】な動【うご】きをすることができます。",
+    "meaning": "These mechanical limbs can perform very complex movements."
+  },
+  {
+    "sentence": "その詩は、肢の美しさと強さを称賛している。",
+    "sentence_furigana": "その詩【し】は、肢【し】の美【うつく】しさと強【つよ】さを称賛【しょうさん】している。",
+    "meaning": "The poem praises the beauty and strength of limbs."
+  },
+  {
+    "sentence": "彼は手術で失った肢を補うために、最新式の義肢を選んだ。",
+    "sentence_furigana": "彼【かれ】は手術【しゅじゅつ】で失【うしな】った肢【し】を補【おぎな】うために、最新式【さいしんしき】の義肢【ぎし】を選【えら】んだ。",
+    "meaning": "He chose the latest prosthetic limb to compensate for the limb lost during surgery."
+  },
+  {
+    "sentence": "この衣装は体にフィットするようにデザインされており、肢のラインを綺麗に見せます。",
+    "sentence_furigana": "この衣装【いしょう】は体【からだ】にフィットするようにデザインされており、肢【し】のラインを綺麗【きれい】に見【み】せます。",
+    "meaning": "This outfit is designed to fit the body and show off the lines of the limbs beautifully."
+  },
+  {
+    "sentence": "彼女は驚異的なバランス感覚を持っており、それは彼女の肢の巧みな使い方によるものです。",
+    "sentence_furigana": "彼女【かのじょ】は驚異的【きょういてき】なバランス感覚【かんかく】を持【も】っており、それは彼女【かのじょ】の肢【し】の巧【たく】みな使【つか】い方【かた】によるものです。",
+    "meaning": "She has an incredible sense of balance, which is due to her skillful use of her limbs."
+  },
+  {
+    "sentence": "この彫刻は、人間の肢の繊細な曲線と筋肉の緊張を捉えています。",
+    "sentence_furigana": "この彫刻【ちょうこく】は、人間【にんげん】の肢【し】の繊細【せんさい】な曲線【きょくせん】と筋肉【きんにく】の緊張【きんちょう】を捉【とら】えています。",
+    "meaning": "This sculpture captures the delicate curves and muscular tension of human limbs."
+  },
+  {
+    "sentence": "彼は転んで肢を強く打ち、痛みに顔をしかめた。",
+    "sentence_furigana": "彼【かれ】は転【こ】んで肢【し】を強【つよ】く打【う】ち、痛【いた】みに顔【かお】をしかめた。",
+    "meaning": "He fell and hit his limb hard, wincing in pain."
+  },
+  {
+    "sentence": "義足の技術の進歩は、多くの人々の生活の質を向上させている。",
+    "sentence_furigana": "義足【ぎそく】の技術【ぎじゅつ】の進歩【しんぽ】は、多【おお】くの人々【ひとびと】の生活【せいかつ】の質【しつ】を向上【こうじょう】させている。",
+    "meaning": "Advances in prosthetic limb technology are improving the quality of life for many people."
+  },
+  {
+    "sentence": "その人形は、様々なポーズをとらせるために、可動式の肢を持っている。",
+    "sentence_furigana": "その人形【にんぎょう】は、様々【さまざま】なポーズをとらせるために、可動式【かどうしき】の肢【し】を持【も】っている。",
+    "meaning": "The doll has articulated limbs to allow for various poses."
+  },
+  {
+    "sentence": "彼女はリハビリに励み、失った肢の感覚と機能を徐々に取り戻した。",
+    "sentence_furigana": "彼女【かのじょ】はリハビリに励【はげ】み、失【うしな】った肢【し】の感覚【かんかく】と機能【きのう】を徐々【じょじょ】に取り戻【とりもど】した。",
+    "meaning": "She worked hard at rehabilitation and gradually regained sensation and function in her lost limb."
+  },
+  {
+    "sentence": "この機械は、複数の関節を持つアーム状の肢を備えており、複雑な作業を実行できる。",
+    "sentence_furigana": "この機械【きかい】は、複数【ふくすう】の関節【かんせつ】を持【も】つアーム状【じょう】の肢【し】を備【そな】えており、複雑【ふくざつ】な作業【さぎょう】を実行【じっこう】できる。",
+    "meaning": "This machine is equipped with multi-jointed arm-like limbs that can perform complex tasks."
+  },
+  {
+    "sentence": "彼は怪我をした肢をかばうように歩いていた。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】をした肢【し】をかばうように歩【ある】いていた。",
+    "meaning": "He walked as if protecting his injured limb."
+  },
+  {
+    "sentence": "この植物は、土壌を掴むための根のような肢を持っています。",
+    "sentence_furigana": "この植物【しょくぶつ】は、土壌【どじょう】を掴【つか】むための根【ね】のような肢【し】を持【も】っています。",
+    "meaning": "This plant has root-like appendages for gripping the soil."
+  },
+  {
+    "sentence": "彼女は長年の努力の末、義肢の装着に完全に慣れた。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の努力【どりょく】の末【すえ】、義肢【ぎし】の装着【そうちゃく】に完全【かんぜん】に慣【な】れた。",
+    "meaning": "After many years of effort, she became fully accustomed to wearing her prosthetic limb."
+  },
+  {
+    "sentence": "このロボットは、人間の肢の動きを模倣する高度なアクチュエータを備えています。",
+    "sentence_furigana": "このロボットは、人間【にんげん】の肢【し】の動【うご】きを模倣【もほう】する高度【こうど】なアクチュエータを備【そな】えています。",
+    "meaning": "This robot features advanced actuators that mimic the movements of human limbs."
+  },
+  {
+    "sentence": "彼は運動会で肢を痛め、残念ながらリレーを棄権することになった。",
+    "sentence_furigana": "彼【かれ】は運動会【うんどうかい】で肢【し】を痛【いた】め、残念【ざんねん】ながらリレーを棄権【きけん】することになった。",
+    "meaning": "He injured his limb at the sports day and unfortunately had to withdraw from the relay race."
+  },
+  {
+    "sentence": "その古い絵画には、古典的な美しさを持つ人物の肢が描かれている。",
+    "sentence_furigana": "その古【ふる】い絵画【かいが】には、古典的【こてんてき】な美【うつく】しさを持【も】つ人物【じんぶつ】の肢【し】が描【か】かれている。",
+    "meaning": "The old painting depicts human limbs with classical beauty."
+  },
+  {
+    "sentence": "彼女はバレエの練習で脚の強化に励んでおり、それは彼女の肢の表現力を高める。",
+    "sentence_furigana": "彼女【かのじょ】はバレエの練習【れんしゅう】で脚【あし】の強化【きょうか】に励【はげ】んでおり、それは彼女【かのじょ】の肢【し】の表現力【ひょうげんりょく】を高【たか】める。",
+    "meaning": "She is working on strengthening her legs in ballet practice, which enhances the expressiveness of her limbs."
+  },
+  {
+    "sentence": "このロボットの肢は、非常に細かい作業を行うことができる。",
+    "sentence_furigana": "このロボットの肢【し】は、非常【ひじょう】に細【こま】かい作業【さぎょう】を行【おこな】うことができる。",
+    "meaning": "The limbs of this robot can perform very delicate tasks."
+  },
+  {
+    "sentence": "彼は事故で失った肢の感覚を取り戻すため、集中的なリハビリテーションを受けている。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】で失【うしな】った肢【し】の感覚【かんかく】を取り戻【とりもど】すため、集中的【しゅうちゅうてき】なリハビリテーションを受【う】けている。",
+    "meaning": "He is undergoing intensive rehabilitation to regain sensation in his lost limb."
+  },
+  {
+    "sentence": "その彫刻家は、人間の肢の官能的なフォルムを巧みに表現した。",
+    "sentence_furigana": "その彫刻家【ちょうこくか】は、人間【にんげん】の肢【し】の官能的【かんのうてき】なフォルムを巧【たく】みに表現【ひょうげん】した。",
+    "meaning": "The sculptor skillfully rendered the sensual forms of human limbs."
+  },
+  {
+    "sentence": "彼は運動中に腕の筋肉を痛め、しばらくの間、肢の動きに制限があった。",
+    "sentence_furigana": "彼【かれ】は運動中【うんどうちゅう】に腕【うで】の筋肉【きんにく】を痛【いた】め、しばらくの間【あいだ】、肢【し】の動【うご】きに制限【せいげん】があった。",
+    "meaning": "He injured the muscles in his arm during exercise, and for a while, he had limitations in his limb movements."
+  },
+  {
+    "sentence": "この人形の肢は、人間の肢のように自然に動くように設計されています。",
+    "sentence_furigana": "この人形【にんぎょう】の肢【し】は、人間【にんげん】の肢【し】のように自然【しぜん】に動【うご】くように設計【せっけい】されています。",
+    "meaning": "The limbs of this doll are designed to move naturally like human limbs."
+  },
+  {
+    "sentence": "彼女は生まれつき肢の機能に障害があったが、懸命な努力でそれを克服した。",
+    "sentence_furigana": "彼女【かのじょ】は生【う】まれつき肢【し】の機能【きのう】に障害【しょうがい】があったが、懸命【けんめい】な努力【どりょく】でそれを克服【こくふく】した。",
+    "meaning": "She had a congenital impairment in her limb function but overcame it through hard work."
+  },
+  {
+    "sentence": "この新しい義足は、まるで自分の肢のように自然に動きます。",
+    "sentence_furigana": "この新【あたら】しい義足【ぎそく】は、まるで自分【じぶん】の肢【し】のように自然【しぜん】に動【うご】きます。",
+    "meaning": "This new prosthetic limb moves as naturally as my own limb."
+  },
+  {
+    "sentence": "彼は巧みな肢の操作で、複雑な機械を組み立てた。",
+    "sentence_furigana": "彼【かれ】は巧【たく】みな肢【し】の操作【そうさ】で、複雑【ふくざつ】な機械【きかい】を組【く】み立【た】てた。",
+    "meaning": "He assembled the complex machinery with skillful manipulation of his limbs."
+  },
+  {
+    "sentence": "この昆虫の肢には、小さな毛が生えている。",
+    "sentence_furigana": "この昆虫【こんちゅう】の肢【し】には、小【ちい】さな毛【け】が生【は】えている。",
+    "meaning": "The limbs of this insect have small hairs."
+  },
+  {
+    "sentence": "彼女は事故で負った傷が原因で、肢の痛みに悩まされていた。",
+    "sentence_furigana": "彼女【かのじょ】は事故【じこ】で負【お】った傷【きず】が原因【げんいん】で、肢【し】の痛【いた】みに悩【なや】まされていた。",
+    "meaning": "She suffered from limb pain due to an injury sustained in an accident."
+  },
+  {
+    "sentence": "この最新の義足は、ユーザーの意図を正確に読み取り、自然な歩行を可能にする。",
+    "sentence_furigana": "この最新【さいしん】の義足【ぎそく】は、ユーザーの意図【いと】を正確【せいかく】に読【よ】み取【と】り、自然【しぜん】な歩行【ほこう】を可能【かのう】にする。",
+    "meaning": "This latest prosthetic limb accurately reads the user's intentions and allows for natural walking."
+  },
+  {
+    "sentence": "彼は長年のリハビリを経て、失った肢の機能をほとんど回復させた。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】のリハビリを経て【へて】、失【うしな】った肢【し】の機能【きのう】をほとんど回復【かいふく】させた。",
+    "meaning": "After many years of rehabilitation, he has regained most of the function in his lost limb."
+  },
+  {
+    "sentence": "このロボットの肢は、人間のように繊細な操作が可能です。",
+    "sentence_furigana": "このロボットの肢【し】は、人間【にんげん】のように繊細【せんさい】な操作【そうさ】が可能【かのう】です。",
+    "meaning": "The limbs of this robot are capable of delicate operations like human limbs."
+  },
+  {
+    "sentence": "彼女はバレエの衣装として、肢を美しく見せるデザインを選んだ。",
+    "sentence_furigana": "彼女【かのじょ】はバレエの衣装【いしょう】として、肢【し】を美【うつく】しく見【み】せるデザインを選【えら】んだ。",
+    "meaning": "She chose a design for her ballet costume that would showcase her limbs beautifully."
+  },
+  {
+    "sentence": "この装置は、失われた肢の代わりに、高度な機能を提供します。",
+    "sentence_furigana": "この装置【そうち】は、失【うしな】われた肢【し】の代【か】わりに、高度【こうど】な機能【きのう】を提供【ていきょう】します。",
+    "meaning": "This device provides advanced functionality in place of the lost limb."
+  },
+  {
+    "sentence": "彼は巧みな肢の動きで、観客を魅了した。",
+    "sentence_furigana": "彼【かれ】は巧【たく】みな肢【し】の動【うご】きで、観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "He captivated the audience with his skillful limb movements."
+  },
+  {
+    "sentence": "この動物の肢は、水中での推進力を得るのに役立っています。",
+    "sentence_furigana": "この動物【どうぶつ】の肢【し】は、水中【すいちゅう】での推進力【すいしんりょく】を得【え】るのに役立【やくだ】っています。",
+    "meaning": "The limbs of this animal help in generating propulsion in water."
+  },
+  {
+    "sentence": "彼女は事故で片方の肢を失ったが、前向きにリハビリに取り組んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は事故【じこ】で片方【かたほう】の肢【し】を失【うしな】ったが、前向【まえむ】きにリハビリに取り組【とりく】んでいる。",
+    "meaning": "She lost a limb in an accident, but she is positively engaged in rehabilitation."
+  },
+  {
+    "sentence": "このロボットの肢は、まるで生きているかのように滑らかに動く。",
+    "sentence_furigana": "このロボットの肢【し】は、まるで生【い】きているかのように滑【なめ】らかに動【うご】く。",
+    "meaning": "The limbs of this robot move as smoothly as if they were alive."
+  },
+  {
+    "sentence": "彼は怪我をした肢の回復のために、専門的な治療を受けている。",
+    "sentence_furigana": "彼【かれ】は怪我【けが】をした肢【し】の回復【かいふく】のために、専門的【せんもんてき】な治療【ちりょう】を受【う】けている。",
+    "meaning": "He is receiving specialized treatment for the recovery of his injured limb."
+  },
+  {
+    "sentence": "この彫刻は、人物の肢の躍動感を見事に表現している。",
+    "sentence_furigana": "この彫刻【ちょうこく】は、人物【じんぶつ】の肢【し】の躍動感【やくどうかん】を見事【みごと】に表現【ひょうげん】している。",
+    "meaning": "This sculpture wonderfully expresses the dynamism of human limbs."
+  }
+]

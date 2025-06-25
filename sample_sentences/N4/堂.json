@@ -1,0 +1,557 @@
+[
+  {
+    "sentence": "講堂で卒業式が行われた。",
+    "sentence_furigana": "講堂【こうどう】で卒業式【そつぎょうしき】が行【おこな】われた。",
+    "meaning": "The graduation ceremony was held in the auditorium."
+  },
+  {
+    "sentence": "彼は立派な堂々とした態度で演説した。",
+    "sentence_furigana": "彼【かれ】は立派【りっぱ】な堂々【どうどう】とした態度【たいど】で演説【えんぜつ】した。",
+    "meaning": "He gave a speech with a magnificent and dignified attitude."
+  },
+  {
+    "sentence": "新しい公会堂の建設が進んでいる。",
+    "sentence_furigana": "新【あたら】しい公会堂【こうかいどう】の建設【けんせつ】が進【すす】んでいる。",
+    "meaning": "The construction of the new public hall is progressing."
+  },
+  {
+    "sentence": "古い寺の仏像が安置されている堂。",
+    "sentence_furigana": "古【ふる】い寺【てら】の仏像【ぶつぞう】が安置【あんち】されている堂【どう】。",
+    "meaning": "The hall where the Buddhist statue of the old temple is enshrined."
+  },
+  {
+    "sentence": "体育館は大規模なイベントにも使用できる。",
+    "sentence_furigana": "体育館【たいいくかん】は大規模【だい きぼ】なイベントにも使用【しよう】できる。",
+    "meaning": "The gymnasium can also be used for large-scale events."
+  },
+  {
+    "sentence": "彼女は会議堂で重要な発表を行った。",
+    "sentence_furigana": "彼女【かのじょ】は会議堂【かいぎどう】で重要【じゅうよう】な発表【はっぴょう】を行【おこな】った。",
+    "meaning": "She made an important announcement at the conference hall."
+  },
+  {
+    "sentence": "この建物は歴史的建造物として保存されている。",
+    "sentence_furigana": "この建物【たてもの】は歴史的建造物【れきしてき けんぞうぶつ】として保存【ほぞん】されている。",
+    "meaning": "This building is preserved as a historical structure."
+  },
+  {
+    "sentence": "警察署の中央ホールは広々としていた。",
+    "sentence_furigana": "警察署【けいさつしょ】の中央ホールは広々【ひろびろ】としていた。",
+    "meaning": "The central hall of the police station was spacious."
+  },
+  {
+    "sentence": "彼らは堂々と真実を語った。",
+    "sentence_furigana": "彼【かれ】らは堂々【どうどう】と真実【しんじつ】を語【かた】った。",
+    "meaning": "They spoke the truth boldly."
+  },
+  {
+    "sentence": "その映画館は古いながらも趣がある。",
+    "sentence_furigana": "その映画館【えいがかん】は古【ふる】いながらも趣【おもむき】がある。",
+    "meaning": "That movie theater has a certain charm despite its age."
+  },
+  {
+    "sentence": "市庁舎の議場は厳粛な雰囲気だった。",
+    "sentence_furigana": "市庁舎【しちょうしゃ】の議場【ぎじょう】は厳粛【げんしゅく】な雰囲気【ふんいき】だった。",
+    "meaning": "The council chamber of the city hall had a solemn atmosphere."
+  },
+  {
+    "sentence": "彼は堂々たる体格の持ち主だ。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる体格【たいかく】の持主【もちぬし】だ。",
+    "meaning": "He has a magnificent physique."
+  },
+  {
+    "sentence": "図書館の閲覧室は静かだった。",
+    "sentence_furigana": "図書館【としょかん】の閲覧室【えつらんしつ】は静【しず】かだった。",
+    "meaning": "The reading room of the library was quiet."
+  },
+  {
+    "sentence": "彼は法廷で堂々と弁論した。",
+    "sentence_furigana": "彼【かれ】は法廷【ほうてい】で堂々【どうどう】と弁論【べんろん】した。",
+    "meaning": "He argued eloquently in court."
+  },
+  {
+    "sentence": "これは重要な公務員試験の会場だ。",
+    "sentence_furigana": "これ【これ】は重要【じゅうよう】な公務員試験【こうむいんしけん】の会場【かいじょう】だ。",
+    "meaning": "This is the venue for an important civil service examination."
+  },
+  {
+    "sentence": "彼女は演劇堂で熱演した。",
+    "sentence_furigana": "彼女【かのじょ】は演劇堂【えんげきどう】で熱演【ねつえん】した。",
+    "meaning": "She gave a passionate performance at the theater."
+  },
+  {
+    "sentence": "公会堂は地域の文化交流の拠点となっている。",
+    "sentence_furigana": "公会堂【こうかいどう】は地域【ちいき】の文化交流【ぶんかこうりゅう】の拠点【きょてん】となっている。",
+    "meaning": "The public hall serves as a hub for regional cultural exchange."
+  },
+  {
+    "sentence": "彼は堂々と自分の意見を述べた。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と自分【じぶん】の意見【いけん】を述【の】べた。",
+    "meaning": "He boldly stated his opinion."
+  },
+  {
+    "sentence": "この建物は古い寺院の一部です。",
+    "sentence_furigana": "この建物【たてもの】は古【ふる】い寺院【じいん】の一部【いちぶ】です。",
+    "meaning": "This building is part of an old temple."
+  },
+  {
+    "sentence": "展示堂には多くの美術品が展示されていた。",
+    "sentence_furigana": "展示堂【てんじどう】には多【おお】くの美術品【びじゅつひん】が展示【てんじ】されていた。",
+    "meaning": "Many works of art were exhibited in the exhibition hall."
+  },
+  {
+    "sentence": "彼は堂々と会議を進行させた。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と会議【かいぎ】を進行【しんこう】させた。",
+    "meaning": "He confidently proceeded with the meeting."
+  },
+  {
+    "sentence": "記念堂は多くの人が訪れる場所だ。",
+    "sentence_furigana": "記念堂【きねんどう】は多【おお】くの人【ひと】が訪【おとず】れる場所【ばしょ】だ。",
+    "meaning": "The memorial hall is a place visited by many people."
+  },
+  {
+    "sentence": "彼は堂々たる騎士として描かれている。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる騎士【きし】として描【えが】かれている。",
+    "meaning": "He is depicted as a gallant knight."
+  },
+  {
+    "sentence": "その公会堂は町の人々の集いの場となっている。",
+    "sentence_furigana": "その公会堂【こうかいどう】は町【まち】の人々【ひとびと】の集【つど】いの場【ば】となっている。",
+    "meaning": "The public hall is a gathering place for the townspeople."
+  },
+  {
+    "sentence": "彼はどのような状況でも堂々としている。",
+    "sentence_furigana": "彼【かれ】はどのような状況【じょうきょう】でも堂々【どうどう】としている。",
+    "meaning": "He remains composed in any situation."
+  },
+  {
+    "sentence": "ここはかつて神聖な儀式が行われた神殿だ。",
+    "sentence_furigana": "ここ【ここ】はかつて神聖【しんせい】な儀式【ぎしき】が行【おこな】われた神殿【しんでん】だ。",
+    "meaning": "This is a shrine where sacred rituals were once performed."
+  },
+  {
+    "sentence": "講堂には数百人が収容できる。",
+    "sentence_furigana": "講堂【こうどう】には数百人【すうひゃくにん】が収容【しゅうよう】できる。",
+    "meaning": "The auditorium can accommodate hundreds of people."
+  },
+  {
+    "sentence": "彼は堂々とした身のこなしで観客を魅了した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】とした身のこなしで観客【かんきゃく】を魅了【みりょう】した。",
+    "meaning": "He captivated the audience with his stately demeanor."
+  },
+  {
+    "sentence": "彼らはその新しい展示堂の完成を祝った。",
+    "sentence_furigana": "彼【かれ】らはその新【あたら】しい展示堂【てんじどう】の完成【かんせい】を祝【いわ】った。",
+    "meaning": "They celebrated the completion of the new exhibition hall."
+  },
+  {
+    "sentence": "ここは静かで落ち着いた雰囲気の公会堂だ。",
+    "sentence_furigana": "ここ【ここ】は静【しず】かで落【お】ち着【つ】いた雰囲気【ふんいき】の公会堂【こうかいどう】だ。",
+    "meaning": "This is a public hall with a quiet and calm atmosphere."
+  },
+  {
+    "sentence": "彼はプレッシャーの中でも堂々としていた。",
+    "sentence_furigana": "彼【かれ】はプレッシャーの中【なか】でも堂々【どうどう】としていた。",
+    "meaning": "He remained composed even under pressure."
+  },
+  {
+    "sentence": "この広場は市民が集まる公の場所だ。",
+    "sentence_furigana": "この広場【ひろば】は市民【しみん】が集【あつ】まる公【おおやけ】の場所【ばしょ】だ。",
+    "meaning": "This plaza is a public place where citizens gather."
+  },
+  {
+    "sentence": "彼女は堂々と自分の考えを主張した。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と自分【じぶん】の考【かんが】えを主張【しゅちょう】した。",
+    "meaning": "She boldly asserted her own thoughts."
+  },
+  {
+    "sentence": "その歴史的建造物は修復される予定だ。",
+    "sentence_furigana": "その歴史的建造物【れきしてき けんぞうぶつ】は修復【しゅうふく】される予定【よてい】だ。",
+    "meaning": "The historic building is scheduled for restoration."
+  },
+  {
+    "sentence": "私たちは会議堂で重要な会議を開いた。",
+    "sentence_furigana": "私【わたし】たち【たち】は会議堂【かいぎどう】で重要【じゅうよう】な会議【かいぎ】を開【ひら】いた。",
+    "meaning": "We held an important meeting in the conference hall."
+  },
+  {
+    "sentence": "講堂は美しい装飾で飾られていた。",
+    "sentence_furigana": "講堂【こうどう】は美【うつく】しい装飾【そうしょく】で飾【かざ】られていた。",
+    "meaning": "The auditorium was decorated with beautiful ornaments."
+  },
+  {
+    "sentence": "彼は堂々と犯罪の証拠を提示した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と犯罪【はんざい】の証拠【しょうこ】を提示【ていじ】した。",
+    "meaning": "He boldly presented the evidence of the crime."
+  },
+  {
+    "sentence": "このホールはコンサートにも利用できる。",
+    "sentence_furigana": "このホールはコンサートにも利用【りよう】できる。",
+    "meaning": "This hall can also be used for concerts."
+  },
+  {
+    "sentence": "彼女は演説堂で力強いスピーチを行った。",
+    "sentence_furigana": "彼女【かのじょ】は演説堂【えんぜつどう】で力強【ちからづよ】いスピーチを行【おこな】った。",
+    "meaning": "She gave a powerful speech at the lecture hall."
+  },
+  {
+    "sentence": "その寺院の拝堂は国宝に指定されている。",
+    "sentence_furigana": "その寺院【じいん】の拝堂【はいどう】は国宝【こくほう】に指定【してい】されている。",
+    "meaning": "The worship hall of that temple is designated as a national treasure."
+  },
+  {
+    "sentence": "彼は堂々と正義のために戦った。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と正義【せいぎ】のために戦【たたか】った。",
+    "meaning": "He fought bravely for justice."
+  },
+  {
+    "sentence": "この公会堂は地域の文化イベントの中心地だ。",
+    "sentence_furigana": "この公会堂【こうかいどう】は地域【ちいき】の文化イベントの中心地【ちゅうしんち】だ。",
+    "meaning": "This public hall is the center for the region's cultural events."
+  },
+  {
+    "sentence": "彼女は堂々とした立ち振る舞いで人々を惹きつけた。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】とした立【た】ち振【ふ】る舞【ま】いで人々【ひとびと】を惹【ひ】きつけた。",
+    "meaning": "She attracted people with her dignified bearing."
+  },
+  {
+    "sentence": "この建物は歴史的価値が高く、保存が義務付けられている。",
+    "sentence_furigana": "この建物【たてもの】は歴史的価値【れきしてき かち】が高【たか】く、保存【ほぞん】が義務付【ぎむづ】けられている。",
+    "meaning": "This building has high historical value and is obliged to be preserved."
+  },
+  {
+    "sentence": "公務員として、彼は堂々と職務を遂行した。",
+    "sentence_furigana": "公務員【こうむいん】として、彼【かれ】は堂々【どうどう】と職務【しょくむ】を遂行【すいこう】した。",
+    "meaning": "As a public servant, he performed his duties with dignity."
+  },
+  {
+    "sentence": "演劇堂の雰囲気はとても素晴らしかった。",
+    "sentence_furigana": "演劇堂【えんげきどう】の雰囲気【ふんいき】はとても素晴【すば】らしかった。",
+    "meaning": "The atmosphere of the theater was very wonderful."
+  },
+  {
+    "sentence": "彼は堂々とその功績を称えられた。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】ととその功績【こうせき】を称【たた】えられた。",
+    "meaning": "He was duly honored for his achievements."
+  },
+  {
+    "sentence": "この講堂は地域の行事にも利用されている。",
+    "sentence_furigana": "この講堂【こうどう】は地域【ちいき】の行事【ぎょうじ】にも利用【りよう】されている。",
+    "meaning": "This auditorium is also used for local events."
+  },
+  {
+    "sentence": "彼女は堂々と観客の前に姿を現した。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と観客【かんきゃく】の前【まえ】に姿【すがた】を現【あらわ】した。",
+    "meaning": "She appeared before the audience with confidence."
+  },
+  {
+    "sentence": "ここは有名な寺院の本堂です。",
+    "sentence_furigana": "ここ【ここ】は有名【ゆうめい】な寺院【じいん】の本堂【ほんどう】です。",
+    "meaning": "This is the main hall of a famous temple."
+  },
+  {
+    "sentence": "彼は堂々とした態度で事件の真相を語った。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】とした態度【たいど】で事件【じけん】の真相【しんそう】を語【かた】った。",
+    "meaning": "He boldly told the truth of the incident with a dignified attitude."
+  },
+  {
+    "sentence": "市庁舎の公会堂は市民の憩いの場となっている。",
+    "sentence_furigana": "市庁舎【しちょうしゃ】の公会堂【こうかいどう】は市民【しみん】の憩【いこ】いの場【ば】となっている。",
+    "meaning": "The public hall of the city hall is a place of relaxation for citizens."
+  },
+  {
+    "sentence": "彼は会議で堂々と意見を述べた。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】で堂々【どうどう】と意見【いけん】を述【の】べた。",
+    "meaning": "He boldly stated his opinion at the meeting."
+  },
+  {
+    "sentence": "彼女は公の場で堂々と歌声を披露した。",
+    "sentence_furigana": "彼女【かのじょ】は公【おおやけ】の場【ば】で堂々【どうどう】と歌声【うたごえ】を披露【ひろう】した。",
+    "meaning": "She boldly showcased her singing voice in a public place."
+  },
+  {
+    "sentence": "この堂々は古代の建築様式を伝えている。",
+    "sentence_furigana": "この堂々【どうどう】は古代【こだい】の建築様式【けんちくようしき】を伝【つた】えている。",
+    "meaning": "This grandeur conveys the ancient architectural style."
+  },
+  {
+    "sentence": "法廷で彼が堂々と証言する姿は印象的だった。",
+    "sentence_furigana": "法廷【ほうてい】で彼【かれ】が堂々【どうどう】と証言【しょうげん】する姿【すがた】は印象的【いんしょうてき】だった。",
+    "meaning": "His confident testimony in court was impressive."
+  },
+  {
+    "sentence": "その展示堂では様々な国の文化を紹介している。",
+    "sentence_furigana": "その展示堂【てんじどう】では様々【さまざま】な国【くに】の文化【ぶんか】を紹介【しょうかい】している。",
+    "meaning": "Various countries' cultures are introduced in that exhibition hall."
+  },
+  {
+    "sentence": "彼はどのような試練にも堂々と立ち向かった。",
+    "sentence_furigana": "彼【かれ】はどのような試練【しれん】にも堂々【どうどう】と立【た】ち向【む】かった。",
+    "meaning": "He bravely faced any ordeal."
+  },
+  {
+    "sentence": "講堂は地域の音楽祭の会場として使われた。",
+    "sentence_furigana": "講堂【こうどう】は地域【ちいき】の音楽祭【おんがくさい】の会場【かいじょう】として使【つか】われた。",
+    "meaning": "The auditorium was used as the venue for the local music festival."
+  },
+  {
+    "sentence": "彼女は堂々と自分の意見を発表した。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と自分【じぶん】の意見【いけん】を発表【はっぴょう】した。",
+    "meaning": "She boldly presented her opinion."
+  },
+  {
+    "sentence": "その公会堂は結婚式にも利用できる。",
+    "sentence_furigana": "その公会堂【こうかいどう】は結婚式【けっこんしき】にも利用【りよう】できる。",
+    "meaning": "That public hall can also be used for weddings."
+  },
+  {
+    "sentence": "彼は堂々たる体格で周囲を圧倒した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる体格【たいかく】で周囲【しゅうい】を圧倒【あっとう】した。",
+    "meaning": "He overwhelmed his surroundings with his imposing physique."
+  },
+  {
+    "sentence": "この建物はかつての武家屋敷を改装したものです。",
+    "sentence_furigana": "この建物【たてもの】はかつての武家屋敷【ぶけやしき】を改装【かいそう】したものです。",
+    "meaning": "This building is a renovated former samurai residence."
+  },
+  {
+    "sentence": "彼女は堂々と観客の質問に答えた。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と観客【かんきゃく】の質問【しつもん】に答【こた】えた。",
+    "meaning": "She confidently answered the audience's questions."
+  },
+  {
+    "sentence": "裁判所内のロビーは広く、公の場所としての機能も果たしている。",
+    "sentence_furigana": "裁判所【さいばんしょ】内【ない】のロビーは広【ひろ】く、公【おおやけ】の場所【ばしょ】としての機能【きのう】も果た【はた】している。",
+    "meaning": "The lobby within the courthouse is spacious and also functions as a public space."
+  },
+  {
+    "sentence": "彼は堂々たる態度で最後までやり遂げた。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる態度【たいど】で最後【さいご】までやり遂【と】げた。",
+    "meaning": "He saw it through to the end with a dignified attitude."
+  },
+  {
+    "sentence": "この演劇堂は新進気鋭の劇団が多く公演を行っている。",
+    "sentence_furigana": "この演劇堂【えんげきどう】は新進気鋭【しんしんきえい】の劇団【げきだん】が多く公演【こうえん】を行【おこな】っている。",
+    "meaning": "Many emerging theater companies perform at this theater."
+  },
+  {
+    "sentence": "彼は堂々と不正を訴えた。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と不正【ふせい】を訴【うった】えた。",
+    "meaning": "He boldly denounced the injustice."
+  },
+  {
+    "sentence": "この公会堂は地域住民の文化活動の拠点となっている。",
+    "sentence_furigana": "この公会堂【こうかいどう】は地域住民【ちいきじゅうみん】の文化活動【ぶんかかつどう】の拠点【きょてん】となっている。",
+    "meaning": "This public hall serves as a base for the cultural activities of local residents."
+  },
+  {
+    "sentence": "彼女は堂々と自分の罪を認めた。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と自分【じぶん】の罪【つみ】を認【みと】めた。",
+    "meaning": "She confessed her guilt boldly."
+  },
+  {
+    "sentence": "体育館は卒業式だけでなく、様々なイベントに使用される。",
+    "sentence_furigana": "体育館【たいいくかん】は卒業式【そつぎょうしき】だけでなく、様々【さまざま】なイベントに使用【しよう】される。",
+    "meaning": "The gymnasium is used not only for graduation ceremonies but also for various events."
+  },
+  {
+    "sentence": "彼は堂々とその難題に挑戦した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と難題【なんだい】に挑戦【ちょうせん】した。",
+    "meaning": "He boldly challenged that difficult problem."
+  },
+  {
+    "sentence": "その寺院の創建当時の様子を伝える堂。",
+    "sentence_furigana": "その寺院【じいん】の創建当時【そうけんとうじ】の様子【ようす】を伝【つた】える堂【どう】。",
+    "meaning": "The hall conveying the state of the temple at the time of its founding."
+  },
+  {
+    "sentence": "彼は堂々とした態度で逮捕された。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】とした態度【たいど】で逮捕【たいほ】された。",
+    "meaning": "He was arrested with a dignified attitude."
+  },
+  {
+    "sentence": "この講堂は有名な講演会が開かれる場所だ。",
+    "sentence_furigana": "この講堂【こうどう】は有名【ゆうめい】な講演会【こうえんかい】が開【ひら】かれる場所【ばしょ】だ。",
+    "meaning": "This auditorium is where famous lectures are held."
+  },
+  {
+    "sentence": "彼女は公の場で堂々と歌った。",
+    "sentence_furigana": "彼女【かのじょ】は公【おおやけ】の場で堂々【どうどう】と歌【うた】った。",
+    "meaning": "She sang boldly in public."
+  },
+  {
+    "sentence": "市役所の公会堂は地域住民の交流の場となっている。",
+    "sentence_furigana": "市役所【しやくしょ】の公会堂【こうかいどう】は地域住民【ちいきじゅうみん】の交流【こうりゅう】の場【ば】となっている。",
+    "meaning": "The public hall of the city hall is a place for interaction among local residents."
+  },
+  {
+    "sentence": "彼は堂々と勝利を宣言した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と勝利【しょうり】を宣言【せんげん】した。",
+    "meaning": "He confidently declared victory."
+  },
+  {
+    "sentence": "この建物は歴史的価値を持つ公共施設です。",
+    "sentence_furigana": "この建物【たてもの】は歴史的価値【れきしてき かち】を持【も】つ公共施設【こうきょうしせつ】です。",
+    "meaning": "This building is a public facility with historical value."
+  },
+  {
+    "sentence": "彼女は堂々と自分を弁護した。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と自分【じぶん】を弁護【べんご】した。",
+    "meaning": "She defended herself boldly."
+  },
+  {
+    "sentence": "演説堂の壇上で彼は堂々とした姿を見せた。",
+    "sentence_furigana": "演説堂【えんぜつどう】の壇上【だんじょう】で彼【かれ】は堂々【どうどう】とした姿【すがた】を見【み】せた。",
+    "meaning": "He showed a dignified presence on the stage of the lecture hall."
+  },
+  {
+    "sentence": "彼は堂々たる男だ。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる男【おとこ】だ。",
+    "meaning": "He is a dignified man."
+  },
+  {
+    "sentence": "この公会堂は様々な地域のイベントに使用される。",
+    "sentence_furigana": "この公会堂【こうかいどう】は様々【さまざま】な地域【ちいき】のイベントに使用【しよう】される。",
+    "meaning": "This public hall is used for various local events."
+  },
+  {
+    "sentence": "彼は堂々と真実を追求した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と真実【しんじつ】を追求【ついきゅう】した。",
+    "meaning": "He pursued the truth boldly."
+  },
+  {
+    "sentence": "この講堂は静かな環境で学習するのに適している。",
+    "sentence_furigana": "この講堂【こうどう】は静【しず】かな環境【かんきょう】で学習【がくしゅう】するのに適【てき】している。",
+    "meaning": "This auditorium is suitable for studying in a quiet environment."
+  },
+  {
+    "sentence": "彼女は堂々とその役割を果たした。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】とそそそその役割【やくわり】を果【は】たした。",
+    "meaning": "She fulfilled her role with distinction."
+  },
+  {
+    "sentence": "その建物はかつての官庁街にあった公的な施設だ。",
+    "sentence_furigana": "その建物【たてもの】はかつての官庁街【かんちょうがい】にあった公的【こうてき】な施設【しせつ】だ。",
+    "meaning": "That building is a public facility that was located in the former government district."
+  },
+  {
+    "sentence": "彼は堂々たる王として描写されている。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる王【おう】として描写【びょうしゃ】されている。",
+    "meaning": "He is depicted as a majestic king."
+  },
+  {
+    "sentence": "この公会堂では様々な文化講座が開かれている。",
+    "sentence_furigana": "この公会堂【こうかいどう】では様々【さまざま】な文化講座【ぶんかこうざ】が開【ひら】かれている。",
+    "meaning": "Various cultural courses are held at this public hall."
+  },
+  {
+    "sentence": "彼は堂々と会議の議長を務めた。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と会議【かいぎ】の議長【ぎちょう】を務【つと】めた。",
+    "meaning": "He presided over the meeting with dignity."
+  },
+  {
+    "sentence": "その寺院の仏殿は国の重要な文化財だ。",
+    "sentence_furigana": "その寺院【じいん】の仏殿【ぶつでん】は国【くに】の重要【じゅうよう】な文化財【ぶんかざい】だ。",
+    "meaning": "The Buddha hall of that temple is an important national cultural property."
+  },
+  {
+    "sentence": "彼女は堂々と自分の意志を貫いた。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と自分【じぶん】の意志【いし】を貫【つらぬ】いた。",
+    "meaning": "She resolutely pursued her own will."
+  },
+  {
+    "sentence": "彼は堂々たる武士として物語に登場する。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる武士【ぶし】として物語【ものがたり】に登場【とうじょう】する。",
+    "meaning": "He appears in the story as a gallant samurai."
+  },
+  {
+    "sentence": "この建物は公共の集会所として利用できる。",
+    "sentence_furigana": "この建物【たてもの】は公共【こうきょう】の集会所【しゅうかいじょ】として利用【りよう】できる。",
+    "meaning": "This building can be used as a public meeting place."
+  },
+  {
+    "sentence": "彼は堂々と最後まで諦めなかった。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と最後【さいご】まで諦【あき】めなかった。",
+    "meaning": "He never gave up until the very end."
+  },
+  {
+    "sentence": "講堂では定期的に音楽コンサートが開催されている。",
+    "sentence_furigana": "講堂【こうどう】では定期的【ていきてき】に音楽コンサートが開催【かいさい】されている。",
+    "meaning": "Music concerts are regularly held in the auditorium."
+  },
+  {
+    "sentence": "彼女は堂々と不正を告発した。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と不正【ふせい】を告発【こくはつ】した。",
+    "meaning": "She boldly denounced the corruption."
+  },
+  {
+    "sentence": "その公会堂は地域の祭りにも使われる。",
+    "sentence_furigana": "その公会堂【こうかいどう】は地域【ちいき】の祭【まつ】りにも使【つか】われる。",
+    "meaning": "That public hall is also used for local festivals."
+  },
+  {
+    "sentence": "彼は堂々たる演説で聴衆を魅了した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる演説【えんぜつ】で聴衆【ちょうしゅう】を魅了【みりょう】した。",
+    "meaning": "He captivated the audience with his impressive speech."
+  },
+  {
+    "sentence": "この建物は古い役所を改築したものです。",
+    "sentence_furigana": "この建物【たてもの】は古【ふる】い役所【やくしょ】を改築【かいちく】したものです。",
+    "meaning": "This building is a renovated old government office."
+  },
+  {
+    "sentence": "彼女は堂々と真実を語った。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と真実【しんじつ】を語【かた】った。",
+    "meaning": "She boldly spoke the truth."
+  },
+  {
+    "sentence": "市庁舎のホールは市民に開放されている。",
+    "sentence_furigana": "市庁舎【しちょうしゃ】のホールは市民【しみん】に開放【かいほう】されている。",
+    "meaning": "The hall of the city hall is open to citizens."
+  },
+  {
+    "sentence": "彼は堂々たる体格の持ち主で、威厳があった。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】たる体格【たいかく】の持主【もちぬし】で、威厳【いげん】があった。",
+    "meaning": "He had an imposing physique and an aura of dignity."
+  },
+  {
+    "sentence": "この講堂は大学の重要な行事に使用される。",
+    "sentence_furigana": "この講堂【こうどう】は大学【だいがく】の重要【じゅうよう】な行事【ぎょうじ】に使用【しよう】される。",
+    "meaning": "This auditorium is used for important university events."
+  },
+  {
+    "sentence": "彼女は堂々と自分の意見を主張した。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】と自分【じぶん】の意見【いけん】を主張【しゅちょう】した。",
+    "meaning": "She boldly asserted her opinion."
+  },
+  {
+    "sentence": "その演劇堂は地域の文化振興に貢献している。",
+    "sentence_furigana": "その演劇堂【えんげきどう】は地域【ちいき】の文化振興【ぶんかしんこう】に貢献【こうけん】している。",
+    "meaning": "That theater contributes to the region's cultural development."
+  },
+  {
+    "sentence": "彼は堂々と正義の味方となった。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と正義【せいぎ】の味方【みかた】となった。",
+    "meaning": "He valiantly became an ally of justice."
+  },
+  {
+    "sentence": "この公会堂は地域の交流イベントの場として機能している。",
+    "sentence_furigana": "この公会堂【こうかいどう】は地域【ちいき】の交流イベントの場【ば】として機能【きのう】している。",
+    "meaning": "This public hall functions as a venue for local exchange events."
+  },
+  {
+    "sentence": "彼女は堂々たる態度で仕事に取り組んだ。",
+    "sentence_furigana": "彼女【かのじょ】は堂々【どうどう】たる態度【たいど】で仕事【しごと】に取り組【と】んだ。",
+    "meaning": "She tackled her work with a dignified attitude."
+  },
+  {
+    "sentence": "その建物は公的な機関が入居するオフィスビルだ。",
+    "sentence_furigana": "その建物【たてもの】は公的【こうてき】な機関【きかん】が入居【にゅうきょ】するオフィスビルだ。",
+    "meaning": "That building is an office building where public institutions are located."
+  },
+  {
+    "sentence": "彼は堂々と自分の潔白を証明した。",
+    "sentence_furigana": "彼【かれ】は堂々【どうどう】と自分【じぶん】の潔白【けっぱく】を証明【しょうめい】した。",
+    "meaning": "He boldly proved his innocence."
+  }
+]

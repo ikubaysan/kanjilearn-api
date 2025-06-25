@@ -1,0 +1,542 @@
+[
+  {
+    "sentence": "月給はいくらですか。",
+    "sentence_furigana": "月給【げっきゅう】はいくらですか。",
+    "meaning": "What is the monthly salary?"
+  },
+  {
+    "sentence": "給料日前なので、金欠だ。",
+    "sentence_furigana": "給料日【きゅうりょうび】前【まえ】なので、金欠【きんけつ】だ。",
+    "meaning": "It's before payday, so I'm broke."
+  },
+  {
+    "sentence": "彼はアルバイトで給料を得ている。",
+    "sentence_furigana": "彼【かれ】はアルバイトで給料【きゅうりょう】を得【え】ている。",
+    "meaning": "He earns his wages from a part-time job."
+  },
+  {
+    "sentence": "会社の業績が悪く、賞与の支給が見送られた。",
+    "sentence_furigana": "会社【かいしゃ】の業績【ぎょうせき】が悪【わる】く、賞与【しょうよ】の支給【しきゅう】が見送【みおく】られた。",
+    "meaning": "The company's performance was poor, and the payment of bonuses was postponed."
+  },
+  {
+    "sentence": "恩給を受け取る資格がある。",
+    "sentence_furigana": "恩給【おんきゅう】を受【う】け取【と】る資格【しかく】がある。",
+    "meaning": "I am eligible to receive a pension."
+  },
+  {
+    "sentence": "給水装置の点検を行った。",
+    "sentence_furigana": "給水装置【きゅうすいそうち】の点検【てんけん】を行【おこな】った。",
+    "meaning": "We inspected the water supply system."
+  },
+  {
+    "sentence": "給食費を滞納している。",
+    "sentence_furigana": "給食費【きゅうしょくひ】を滞納【たいのう】している。",
+    "meaning": "I am delinquent in paying the school lunch fees."
+  },
+  {
+    "sentence": "給油は済ませたか。",
+    "sentence_furigana": "給油【きゅうゆ】は済【す】ませたか。",
+    "meaning": "Have you finished refueling?"
+  },
+  {
+    "sentence": "彼は慈善活動に多額の寄付をした。",
+    "sentence_furigana": "彼【かれ】は慈善活動【じぜんかつどう】に多額【たがく】の寄付【きふ】をした。",
+    "meaning": "He made a large donation to charity."
+  },
+  {
+    "sentence": "お祝いの品を贈った。",
+    "sentence_furigana": "お祝【いわ】いの品【しな】を贈【おく】った。",
+    "meaning": "I sent a gift for the celebration."
+  },
+  {
+    "sentence": "両親からの仕送りで大学に通っている。",
+    "sentence_furigana": "両親【りょうしん】からの仕送【しお】くりで大学【だいがく】に通【かよ】っている。",
+    "meaning": "I am attending university with financial support from my parents."
+  },
+  {
+    "sentence": "給料が上がる見込みです。",
+    "sentence_furigana": "給料【きゅうりょう】が上【あ】がる見込【みこ】みです。",
+    "meaning": "There is a prospect of a salary increase."
+  },
+  {
+    "sentence": "給食のメニューは栄養バランスが考えられている。",
+    "sentence_furigana": "給食【きゅうしょく】のメニューは栄養【えいよう】バランスが考【かんが】えられている。",
+    "meaning": "The school lunch menu is designed with nutritional balance in mind."
+  },
+  {
+    "sentence": "給水塔の建設が始まった。",
+    "sentence_furigana": "給水塔【きゅうすいとう】の建設【けんせつ】が始【はじ】まった。",
+    "meaning": "The construction of the water tower has begun."
+  },
+  {
+    "sentence": "給与明細を確認した。",
+    "sentence_furigana": "給与明細【きゅうよめいさい】を確認【かくにん】した。",
+    "meaning": "I checked my payslip."
+  },
+  {
+    "sentence": "この手当は非課税です。",
+    "sentence_furigana": "この手当【てあて】は非課税【ひかぜい】です。",
+    "meaning": "This allowance is tax-exempt."
+  },
+  {
+    "sentence": "給付金を受け取った。",
+    "sentence_furigana": "給付金【きゅうふきん】を受【う】け取【と】った。",
+    "meaning": "I received the benefit payment."
+  },
+  {
+    "sentence": "彼に現金を与えた。",
+    "sentence_furigana": "彼【かれ】に現金【げんきん】を与【あた】えた。",
+    "meaning": "I gave him cash."
+  },
+  {
+    "sentence": "給水管の修理が必要だ。",
+    "sentence_furigana": "給水管【きゅうすいかん】の修理【しゅうり】が必要【ひつよう】だ。",
+    "meaning": "The water supply pipe needs to be repaired."
+  },
+  {
+    "sentence": "昇給の交渉をしている。",
+    "sentence_furigana": "昇給【しょうきゅう】の交渉【こうしょう】をしている。",
+    "meaning": "I am negotiating for a raise."
+  },
+  {
+    "sentence": "この大学は奨学金を給付している。",
+    "sentence_furigana": "この大学【だいがく】は奨学金【しょうがくきん】を給付【きゅうふ】している。",
+    "meaning": "This university provides scholarships."
+  },
+  {
+    "sentence": "給油スタンドはあちらです。",
+    "sentence_furigana": "給油【きゅうゆ】スタンドはあちらです。",
+    "meaning": "The gas station is over there."
+  },
+  {
+    "sentence": "彼は給仕として働いている。",
+    "sentence_furigana": "彼【かれ】は給仕【きゅうじ】として働【はたら】いている。",
+    "meaning": "He works as a waiter."
+  },
+  {
+    "sentence": "給食費を払った。",
+    "sentence_furigana": "給食費【きゅうしょくひ】を払【はら】った。",
+    "meaning": "I paid the school lunch fee."
+  },
+  {
+    "sentence": "給料日に銀行から引き落とされた。",
+    "sentence_furigana": "給料日【きゅうりょうび】に銀行【ぎんこう】から引【ひ】き落【お】とされた。",
+    "meaning": "It was debited from my bank account on payday."
+  },
+  {
+    "sentence": "給水制限が実施される。",
+    "sentence_furigana": "給水制限【きゅうすいせいげん】が実施【じっし】される。",
+    "meaning": "Water supply restrictions will be implemented."
+  },
+  {
+    "sentence": "彼は給料の一部を寄付した。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】の一部【いちぶ】を寄付【きふ】した。",
+    "meaning": "He donated part of his salary."
+  },
+  {
+    "sentence": "給与体系を見直す必要がある。",
+    "sentence_furigana": "給与体系【きゅうよたいけい】を見直【みなお】す必要【ひつよう】がある。",
+    "meaning": "We need to review the salary system."
+  },
+  {
+    "sentence": "給湯器の調子が悪い。",
+    "sentence_furigana": "給湯器【きゅうとうき】の調子【ちょうし】が悪【わる】い。",
+    "meaning": "The water heater is not working well."
+  },
+  {
+    "sentence": "給水装置の定期点検は欠かせない。",
+    "sentence_furigana": "給水装置【きゅうすいそうち】の定期点検【ていきてんけん】は欠【か】かせない。",
+    "meaning": "Regular inspection of the water supply system is essential."
+  },
+  {
+    "sentence": "昇給の交渉はうまくいかなかった。",
+    "sentence_furigana": "昇給【しょうきゅう】の交渉【こうしょう】はうまくいかなかった。",
+    "meaning": "The negotiations for a salary increase were not successful."
+  },
+  {
+    "sentence": "給付金の申請方法を教えてください。",
+    "sentence_furigana": "給付金【きゅうふきん】の申請方法【しんせいほうほう】を教【おし】えてください。",
+    "meaning": "Please tell me how to apply for the benefit payment."
+  },
+  {
+    "sentence": "彼は恩師に感謝の印として贈り物をした。",
+    "sentence_furigana": "彼【かれ】は恩師【おんし】に感謝【かんしゃ】の印【しるし】として贈物【おくもの】をした。",
+    "meaning": "He gave a gift to his former teacher as a token of his gratitude."
+  },
+  {
+    "sentence": "給油はセルフサービスですか。",
+    "sentence_furigana": "給油【きゅうゆ】はセルフサービスですか。",
+    "meaning": "Is refueling self-service?"
+  },
+  {
+    "sentence": "給水塔の清掃が行われた。",
+    "sentence_furigana": "給水塔【きゅうすいとう】の清掃【せいそう】が行【おこな】われた。",
+    "meaning": "The water tower was cleaned."
+  },
+  {
+    "sentence": "給料は月末に支払われる。",
+    "sentence_furigana": "給料【きゅうりょう】は月末【げつまつ】に支払【しはら】われる。",
+    "meaning": "Salary is paid at the end of the month."
+  },
+  {
+    "sentence": "この地域では給水制限が実施されている。",
+    "sentence_furigana": "この地域【ちいき】では給水制限【きゅうすいせいげん】が実施【じっし】されている。",
+    "meaning": "Water supply restrictions are in effect in this area."
+  },
+  {
+    "sentence": "給与所得控除について説明します。",
+    "sentence_furigana": "給与所得控除【きゅうよしょとくこうじょ】について説明【せつめい】します。",
+    "meaning": "I will explain the salary income deduction."
+  },
+  {
+    "sentence": "給湯の温度を調整してください。",
+    "sentence_furigana": "給湯【きゅうとう】の温度【おんど】を調整【ちょうせい】してください。",
+    "meaning": "Please adjust the hot water temperature."
+  },
+  {
+    "sentence": "給食費の徴収漏れがないか確認する。",
+    "sentence_furigana": "給食費【きゅうしょくひ】の徴収漏【ちょうしゅうも】れがないか確認【かくにん】する。",
+    "meaning": "Check for any omissions in the collection of school lunch fees."
+  },
+  {
+    "sentence": "彼は大学から学費の給付を受けた。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】から学費【がくひ】の給付【きゅうふ】を受【う】けた。",
+    "meaning": "He received tuition support from the university."
+  },
+  {
+    "sentence": "給油前にエンジンを停止してください。",
+    "sentence_furigana": "給油【きゅうゆ】前【まえ】にエンジンを停止【ていし】してください。",
+    "meaning": "Please turn off the engine before refueling."
+  },
+  {
+    "sentence": "この補助金は研究費として支給されます。",
+    "sentence_furigana": "この補助金【ほじょきん】は研究費【けんきゅうひ】として支給【しきゅう】されます。",
+    "meaning": "This subsidy will be paid as research expenses."
+  },
+  {
+    "sentence": "彼は給料日になると必ず給料前借りを要求する。",
+    "sentence_furigana": "彼【かれ】は給料日【きゅうりょうび】になると必【かなら】ず給料前借【きゅうりょうまえが】りを要求【ようきゅう】する。",
+    "meaning": "He always demands an advance on his salary when payday comes."
+  },
+  {
+    "sentence": "給水管の凍結に注意が必要です。",
+    "sentence_furigana": "給水管【きゅうすいかん】の凍結【とうけつ】に注意【ちゅうい】が必要【ひつよう】だ。",
+    "meaning": "Care must be taken to prevent the water supply pipes from freezing."
+  },
+  {
+    "sentence": "給湯器の交換を検討しています。",
+    "sentence_furigana": "給湯器【きゅうとうき】の交換【こうかん】を検討【けんとう】しています。",
+    "meaning": "We are considering replacing the water heater."
+  },
+  {
+    "sentence": "給食の時間は午前11時からです。",
+    "sentence_furigana": "給食【きゅうしょく】の時間【じかん】は午前【ごぜん】11時【じ】からです。",
+    "meaning": "Lunch break is from 11 AM."
+  },
+  {
+    "sentence": "給与明細は電子化される予定です。",
+    "sentence_furigana": "給与明細【きゅうよめいさい】は電子化【でんしか】される予定【よてい】です。",
+    "meaning": "Payslips are scheduled to be digitized."
+  },
+  {
+    "sentence": "給料から源泉徴収される税金がある。",
+    "sentence_furigana": "給料【きゅうりょう】から源泉徴収【げんせんちょうしゅう】される税金【ぜいきん】がある。",
+    "meaning": "There are taxes withheld from salary."
+  },
+  {
+    "sentence": "給付金の支給時期が発表された。",
+    "sentence_furigana": "給付金【きゅうふきん】の支給時期【しきゅうじき】が発表【はっぴょう】された。",
+    "meaning": "The payment period for the benefit was announced."
+  },
+  {
+    "sentence": "彼は給料の大部分を貯金に回している。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】の大半【たいはん】を貯金【ちょきん】に回【まわ】している。",
+    "meaning": "He puts most of his salary into savings."
+  },
+  {
+    "sentence": "給湯設備が老朽化している。",
+    "sentence_furigana": "給湯設備【きゅうとうせつび】が老朽化【ろうきゅうか】している。",
+    "meaning": "The hot water supply facilities are aging."
+  },
+  {
+    "sentence": "給水装置の清掃を業者に依頼した。",
+    "sentence_furigana": "給水装置【きゅうすいそうち】の清掃【せいそう】を業者【ぎょうしゃ】に依頼【いらい】した。",
+    "meaning": "I requested a cleaning of the water supply system from a contractor."
+  },
+  {
+    "sentence": "給料の遅配が問題になっている。",
+    "sentence_furigana": "給料【きゅうりょう】の遅配【ちはい】が問題【もんだい】になっている。",
+    "meaning": "Delayed salary payments are becoming a problem."
+  },
+  {
+    "sentence": "給与所得者は確定申告が必要な場合がある。",
+    "sentence_furigana": "給与所得者【きゅうよしょとくしゃ】は確定申告【かくていしんこく】が必要【ひつよう】な場合【ばあい】がある。",
+    "meaning": "Salaried workers may need to file a final tax return."
+  },
+  {
+    "sentence": "給湯の配管工事を行います。",
+    "sentence_furigana": "給湯【きゅうとう】の配管工事【はいかんこうじ】を行【おこな】います。",
+    "meaning": "We will carry out plumbing work for the hot water supply."
+  },
+  {
+    "sentence": "彼は給料の一部を家族に送金している。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】の一部【いちぶ】を家族【かぞく】に送金【そうきん】している。",
+    "meaning": "He sends part of his salary to his family."
+  },
+  {
+    "sentence": "給食費の納入期限が近づいています。",
+    "sentence_furigana": "給食費【きゅうしょくひ】の納入期限【のうにゅうきげん】が近【ちか】づいています。",
+    "meaning": "The deadline for paying school lunch fees is approaching."
+  },
+  {
+    "sentence": "給水塔の建設には多くの費用がかかった。",
+    "sentence_furigana": "給水塔【きゅうすいとう】の建設【けんせつ】には多【おお】くの費用【ひよう】がかかった。",
+    "meaning": "The construction of the water tower incurred a lot of costs."
+  },
+  {
+    "sentence": "昇給の通知を受け取った。",
+    "sentence_furigana": "昇給【しょうきゅう】の通知【つうち】を受【う】け取【と】った。",
+    "meaning": "I received a notice of my salary increase."
+  },
+  {
+    "sentence": "給付金の対象となる条件を教えてください。",
+    "sentence_furigana": "給付金【きゅうふきん】の対象【たいしょう】となる条件【じょうけん】を教【おし】えてください。",
+    "meaning": "Please tell me the conditions for receiving the benefit."
+  },
+  {
+    "sentence": "彼は恩師に卒業記念品を贈った。",
+    "sentence_furigana": "彼【かれ】は恩師【おんし】に卒業記念品【そつぎょうきねんひん】を贈【おく】った。",
+    "meaning": "He gave a graduation gift to his former teacher."
+  },
+  {
+    "sentence": "給油は、この先のスタンドでできます。",
+    "sentence_furigana": "給油【きゅうゆ】は、この先【さき】のスタンドでできます。",
+    "meaning": "You can refuel at the station further ahead."
+  },
+  {
+    "sentence": "給水制限の原因は、水源の枯渇です。",
+    "sentence_furigana": "給水制限【きゅうすいせいげん】の原因【げんいん】は、水源【すいげん】の枯渇【こかつ】です。",
+    "meaning": "The cause of the water supply restrictions is the depletion of the water source."
+  },
+  {
+    "sentence": "給料日に手当が加算されていた。",
+    "sentence_furigana": "給料日【きゅうりょうび】に手当【てあて】が加算【かさん】されていた。",
+    "meaning": "The allowance had been added to the salary on payday."
+  },
+  {
+    "sentence": "給与所得以外の収入もある。",
+    "sentence_furigana": "給与所得以外【きゅうよしょとくいがい】の収入【しゅうにゅう】もある。",
+    "meaning": "There is also income other than salary income."
+  },
+  {
+    "sentence": "給湯器の定期点検を怠らないように。",
+    "sentence_furigana": "給湯器【きゅうとうき】の定期点検【ていきてんけん】を怠【おこた】らないように。",
+    "meaning": "Don't neglect the regular inspection of the water heater."
+  },
+  {
+    "sentence": "給食費の未納者リストを作成する。",
+    "sentence_furigana": "給食費【きゅうしょくひ】の未納者【みのうしゃ】リストを作成【さくせい】する。",
+    "meaning": "Create a list of those who have not paid their school lunch fees."
+  },
+  {
+    "sentence": "彼は給料から税金を天引きされている。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】から税金【ぜいきん】を天引【てんび】きされている。",
+    "meaning": "Taxes are deducted from his salary."
+  },
+  {
+    "sentence": "給付金の支給に関するお知らせ。",
+    "sentence_furigana": "給付金【きゅうふきん】の支給【しきゅう】に関【かん】するお知らせ。",
+    "meaning": "Information regarding the payment of benefits."
+  },
+  {
+    "sentence": "給料の前借りをすることは禁止されている。",
+    "sentence_furigana": "給料【きゅうりょう】の前借【まえが】りをすること禁止【きんし】されている。",
+    "meaning": "It is forbidden to borrow against future salary."
+  },
+  {
+    "sentence": "給水塔の解体工事が完了した。",
+    "sentence_furigana": "給水塔【きゅうすいとう】の解体工事【かいたいこうじ】が完了【かんりょう】した。",
+    "meaning": "The demolition work on the water tower has been completed."
+  },
+  {
+    "sentence": "昇給の見込みは低い。",
+    "sentence_furigana": "昇給【しょうきゅう】の見込【みこ】みは低【ひく】い。",
+    "meaning": "The prospect of a salary increase is low."
+  },
+  {
+    "sentence": "給付金受給資格審査が行われた。",
+    "sentence_furigana": "給付金受給資格審査【きゅうふきんじゅきゅうしかくしんさ】が行【おこな】われた。",
+    "meaning": "An eligibility review for benefit recipients was conducted."
+  },
+  {
+    "sentence": "彼は両親から給付を受けている。",
+    "sentence_furigana": "彼【かれ】は両親【りょうしん】から給付【きゅうふ】を受【う】けている。",
+    "meaning": "He receives support from his parents."
+  },
+  {
+    "sentence": "給油口は車の右側にあります。",
+    "sentence_furigana": "給油口【きゅうゆうこう】は車【くるま】の右側【みぎがわ】にあります。",
+    "meaning": "The fuel filler port is on the right side of the car."
+  },
+  {
+    "sentence": "給水制限のため、断水が行われる場合があります。",
+    "sentence_furigana": "給水制限【きゅうすいせいげん】のため、断水【だんすい】が行【おこな】われる場合【ばあい】があります。",
+    "meaning": "Due to water supply restrictions, there may be temporary water outages."
+  },
+  {
+    "sentence": "給料日前に急な出費があった。",
+    "sentence_furigana": "給料日【きゅうりょうび】前【まえ】に急【きゅう】な出費【しゅっぴ】があった。",
+    "meaning": "There was an unexpected expense before payday."
+  },
+  {
+    "sentence": "給与所得以外の所得も確定申告で申告する必要がある。",
+    "sentence_furigana": "給与所得以外【きゅうよしょとくいがい】の所得【しょとく】も確定申告【かくていしんこく】で申告【しんこく】する必要【ひつよう】がある。",
+    "meaning": "Income other than salary income must also be declared in the final tax return."
+  },
+  {
+    "sentence": "給湯器の点検時期です。",
+    "sentence_furigana": "給湯器【きゅうとうき】の点検時期【てんけんじき】です。",
+    "meaning": "It is time for the water heater inspection."
+  },
+  {
+    "sentence": "給食費の納入が遅れている生徒がいます。",
+    "sentence_furigana": "給食費【きゅうしょくひ】の納入【のうにゅう】が遅【おく】れている生徒【せいと】がいます。",
+    "meaning": "There are students who are late in paying their school lunch fees."
+  },
+  {
+    "sentence": "彼は給料の一部を学費に充てている。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】の一部【いちぶ】を学費【がくひ】に充【あ】てている。",
+    "meaning": "He uses part of his salary for tuition."
+  },
+  {
+    "sentence": "給付金を受け取るための手続きを進める。",
+    "sentence_furigana": "給付金【きゅうふきん】を受【う】け取【と】るための手続【てつづ】きを進【すす】める。",
+    "meaning": "Proceed with the procedures to receive the benefit."
+  },
+  {
+    "sentence": "給油時の火気の使用は厳禁です。",
+    "sentence_furigana": "給油時【きゅうゆじ】の火気【ひき】の使用【しよう】は厳禁【げんきん】です。",
+    "meaning": "The use of fire is strictly prohibited while refueling."
+  },
+  {
+    "sentence": "給水管の漏水が確認された。",
+    "sentence_furigana": "給水管【きゅうすいかん】の漏水【ろうすい】が確認【かくにん】された。",
+    "meaning": "A water leak in the supply pipe was confirmed."
+  },
+  {
+    "sentence": "給湯設備の更新工事が行われる予定です。",
+    "sentence_furigana": "給湯設備【きゅうとうせつび】の更新工事【こうしんこうじ】が行【おこな】われる予定【よてい】です。",
+    "meaning": "Renewal work on the hot water supply facilities is scheduled."
+  },
+  {
+    "sentence": "給食の準備が整いました。",
+    "sentence_furigana": "給食【きゅうしょく】の準備【じゅんび】が整【ととの】いました。",
+    "meaning": "Lunch is ready."
+  },
+  {
+    "sentence": "給与明細の記載内容に誤りはないか。",
+    "sentence_furigana": "給与明細【きゅうよめいさい】の記載内容【きさいないよう】に誤【あやま】りはないか。",
+    "meaning": "Is there any error in the contents of the payslip?"
+  },
+  {
+    "sentence": "給料から差し引かれるものに何があるか。",
+    "sentence_furigana": "給料【きゅうりょう】から差引【さしひ】かれるものに何【なに】があるか。",
+    "meaning": "What is deducted from salary?"
+  },
+  {
+    "sentence": "給付金の支給に関する案内が届いた。",
+    "sentence_furigana": "給付金【きゅうふきん】の支給【しきゅう】に関【かん】する案内【あんない】が届【とど】いた。",
+    "meaning": "I received information about the payment of benefits."
+  },
+  {
+    "sentence": "彼は給料の大部分を家族の生活費に充てている。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】の大半【たいはん】を家族【かぞく】の生活費【せいかつひ】に充【あ】てている。",
+    "meaning": "He uses most of his salary for his family's living expenses."
+  },
+  {
+    "sentence": "給水塔の耐震補強工事が必要だ。",
+    "sentence_furigana": "給水塔【きゅうすいとう】の耐震補強工事【たいしんほきょうこうじ】が必要【ひつよう】だ。",
+    "meaning": "Earthquake-resistant reinforcement work on the water tower is necessary."
+  },
+  {
+    "sentence": "昇給の時期について確認する。",
+    "sentence_furigana": "昇給【しょうきゅう】の時期【じき】について確認【かくにん】する。",
+    "meaning": "Check about the timing of the salary increase."
+  },
+  {
+    "sentence": "給付金の申請期間が延長された。",
+    "sentence_furigana": "給付金【きゅうふきん】の申請期間【しんせいきかん】が延長【えんちょう】された。",
+    "meaning": "The application period for the benefit has been extended."
+  },
+  {
+    "sentence": "彼は恩師に感謝の気持ちを伝えるために贈り物を用意した。",
+    "sentence_furigana": "彼【かれ】は恩師【おんし】に感謝【かんしゃ】の気持【きも】ちを伝【つた】えるために贈物【おくもの】を用意【ようい】した。",
+    "meaning": "He prepared a gift to express his gratitude to his former teacher."
+  },
+  {
+    "sentence": "給油はセルフサービススタンドをご利用ください。",
+    "sentence_furigana": "給油【きゅうゆ】はセルフサービススタンドをご利用【りよう】ください。",
+    "meaning": "Please use the self-service gas station for refueling."
+  },
+  {
+    "sentence": "給水制限は、夏の需要増加に対応するためです。",
+    "sentence_furigana": "給水制限【きゅうすいせいげん】は、夏【なつ】の需要増加【じゅようぞうか】に対応【たいおう】するためです。",
+    "meaning": "Water supply restrictions are to cope with the increased demand in summer."
+  },
+  {
+    "sentence": "給料日にボーナスが支給される。",
+    "sentence_furigana": "給料日【きゅうりょうび】にボーナスが支給【しきゅう】される。",
+    "meaning": "A bonus will be paid on payday."
+  },
+  {
+    "sentence": "給与所得に対する税金は、源泉徴収される。",
+    "sentence_furigana": "給与所得【きゅうよしょとく】に対【たい】する税金【ぜいきん】は、源泉徴収【げんせんちょうしゅう】される。",
+    "meaning": "Taxes on salary income are withheld at source."
+  },
+  {
+    "sentence": "給湯器の交換時期を検討している。",
+    "sentence_furigana": "給湯器【きゅうとうき】の交換時期【こうかんじき】を検討【けんとう】している。",
+    "meaning": "We are considering the replacement time for the water heater."
+  },
+  {
+    "sentence": "給食費の納入状況を確認する。",
+    "sentence_furigana": "給食費【きゅうしょくひ】の納入状況【のうにゅうじょうきょう】を確認【かくにん】する。",
+    "meaning": "Check the status of school lunch fee payments."
+  },
+  {
+    "sentence": "給料から控除される項目を明記してください。",
+    "sentence_furigana": "給料【きゅうりょう】から控除【こうじょ】される項目【こうもく】を明記【めいき】してください。",
+    "meaning": "Please specify the items deducted from salary."
+  },
+  {
+    "sentence": "給付金受給資格の確認を求める。",
+    "sentence_furigana": "給付金受給資格【きゅうふきんじゅきゅうしかく】の確認【かくにん】を求【もと】める。",
+    "meaning": "Request confirmation of eligibility for benefit payments."
+  },
+  {
+    "sentence": "彼は給料の大部分を家族の養育費に充てている。",
+    "sentence_furigana": "彼【かれ】は給料【きゅうりょう】の大半【たいはん】を家族【かぞく】の養育費【よういくひ】に充【あ】てている。",
+    "meaning": "He uses most of his salary for his family's child-rearing expenses."
+  },
+  {
+    "sentence": "給水塔の老朽化に伴う改修工事が行われた。",
+    "sentence_furigana": "給水塔【きゅうすいとう】の老朽化【ろうきゅうか】に伴【ともな】う改修工事【かいしゅうこうじ】が行【おこな】われた。",
+    "meaning": "Renovation work was carried out due to the aging of the water tower."
+  },
+  {
+    "sentence": "昇給の基準について説明を求めた。",
+    "sentence_furigana": "昇給【しょうきゅう】の基準【きじゅん】について説明【せつめい】を求【もと】めた。",
+    "meaning": "I asked for an explanation of the criteria for salary increases."
+  },
+  {
+    "sentence": "給付金に関する問い合わせが増加している。",
+    "sentence_furigana": "給付金【きゅうふきん】に関【かん】する問合【といあ】わせが増加【ぞうか】している。",
+    "meaning": "Inquiries regarding benefit payments are increasing."
+  },
+  {
+    "sentence": "彼は恩師に感謝の手紙を gift した。",
+    "sentence_furigana": "彼【かれ】は恩師【おんし】に感謝【かんしゃ】の手紙【てがみ】を gift した。",
+    "meaning": "He gave a letter of thanks to his former teacher."
+  }
+]

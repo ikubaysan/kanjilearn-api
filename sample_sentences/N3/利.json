@@ -1,0 +1,537 @@
+[
+  {
+    "sentence": "この薬は効果が高いです。",
+    "sentence_furigana": "この薬【くすり】は効果【こうか】が高【たか】いです。",
+    "meaning": "This medicine is highly effective."
+  },
+  {
+    "sentence": "この仕事は利益が大きい。",
+    "sentence_furigana": "この仕事【しごと】は利益【りえき】が大【おお】きい。",
+    "meaning": "This job offers large profits."
+  },
+  {
+    "sentence": "彼はいつも自分の利益を優先する。",
+    "sentence_furigana": "彼【かれ】はいつも自分【じぶん】の利益【りえき】を優先【ゆうせん】する。",
+    "meaning": "He always prioritizes his own benefit."
+  },
+  {
+    "sentence": "その取引は双方に利益をもたらした。",
+    "sentence_furigana": "その取引【とりひき】は双方【そうほう】に利益【りえき】をもたらした。",
+    "meaning": "The transaction brought benefits to both parties."
+  },
+  {
+    "sentence": "この制度は国民に利益を与える。",
+    "sentence_furigana": "この制度【せいど】は国民【こくみん】に利益【りえき】を与【あた】える。",
+    "meaning": "This system provides benefits to the public."
+  },
+  {
+    "sentence": "彼はその提案から多くの利益を得た。",
+    "sentence_furigana": "彼【かれ】はその提案【ていあん】から多【おお】くの利益【りえき】を得【え】た。",
+    "meaning": "He gained a lot of profit from that proposal."
+  },
+  {
+    "sentence": "この会員特典は会員にとって有利だ。",
+    "sentence_furigana": "この会員特典【か/**/い/**/ん/**/と/**/く/**/て/**/ん】は会員【かい/**/ん】にとって有利【ゆう/**/り】だ。",
+    "meaning": "This membership benefit is advantageous for members."
+  },
+  {
+    "sentence": "その法律は企業の利益を保護する。",
+    "sentence_furigana": "その法律【ほうりつ】は企業【きぎょう】の利益【りえき】を保護【ほご】する。",
+    "meaning": "The law protects corporate profits."
+  },
+  {
+    "sentence": "長期的な視点で利益を考える。",
+    "sentence_furigana": "長期的【ちょうきてき】な視点【してん】で利益【りえき】を考【かんが】える。",
+    "meaning": "Consider profits from a long-term perspective."
+  },
+  {
+    "sentence": "この投資は大きな利益を生むだろう。",
+    "sentence_furigana": "この投資【とうし】はこの利益【りえき】を生【う】むだろう。",
+    "meaning": "This investment will likely yield large profits."
+  },
+  {
+    "sentence": "彼は常に効率を意識している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に効率【こうりつ】を意識【いしき】している。",
+    "meaning": "He is always conscious of efficiency."
+  },
+  {
+    "sentence": "その会議は実り多いものだった。",
+    "sentence_furigana": "その会議【かいぎ】は実【みの】り多【おお】いものだった。",
+    "meaning": "That meeting was fruitful."
+  },
+  {
+    "sentence": "利子が高い銀行にお金を預けることにした。",
+    "sentence_furigana": "利子【りし】が高【たか】い銀行【ぎんこう】にお金【かね】を預【あず】けることにした。",
+    "meaning": "I decided to deposit money in a bank with high interest."
+  },
+  {
+    "sentence": "この新技術は多くの利益をもたらす。",
+    "sentence_furigana": "この新技術【しんぎじゅつ】はこの多【おお】くの利益【りえき】をもたらす。",
+    "meaning": "This new technology brings many benefits."
+  },
+  {
+    "sentence": "有利な条件で契約を結んだ。",
+    "sentence_furigana": "有利【ゆうり】な条件【じょうけん】で契約【けいやく】を結【むす】んだ。",
+    "meaning": "We concluded the contract under favorable terms."
+  },
+  {
+    "sentence": "利益相反が生じないように注意してください。",
+    "sentence_furigana": "利益相反【りえきそうはん】が生【しょう】じないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful to avoid conflicts of interest."
+  },
+  {
+    "sentence": "このキャンペーンは顧客に大きな利益を提供する。",
+    "sentence_furigana": "このキャンペーンは顧客【こきゃく】に大【おお】きな利益【りえき】を提供【ていきょう】する。",
+    "meaning": "This campaign offers significant benefits to customers."
+  },
+  {
+    "sentence": "彼は損得を計算して行動する。",
+    "sentence_furigana": "彼【かれ】は損得【そんとく】を計算【けいさん】して行動【こうどう】する。",
+    "meaning": "He acts after calculating profit and loss."
+  },
+  {
+    "sentence": "この製品は使いやすさが利点だ。",
+    "sentence_furigana": "この製品【せいひん】は使【つか】いやすさが利点【りてん】だ。",
+    "meaning": "The advantage of this product is its ease of use."
+  },
+  {
+    "sentence": "彼の発言は場を有利に進めた。",
+    "sentence_furigana": "彼【かれ】の発言【はつげん】は場【ば】を有利【ゆうり】に進【すす】めた。",
+    "meaning": "His remarks advanced the situation favorably."
+  },
+  {
+    "sentence": "利益を最大化するための戦略を練る。",
+    "sentence_furigana": "利益【りえき】を最大化【さいだいか】するための戦略【せんりゃく】を練【ね】る。",
+    "meaning": "Develop a strategy to maximize profits."
+  },
+  {
+    "sentence": "このサービスは利用者にとって非常に便利だ。",
+    "sentence_furigana": "このサービスは利用者【りようしゃ】にとって非常【ひじょう】に便利【べんり】だ。",
+    "meaning": "This service is very convenient for users."
+  },
+  {
+    "sentence": "彼は常に自己利益を追求している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己利益【じこりえき】を追求【ついきゅう】している。",
+    "meaning": "He is always pursuing self-interest."
+  },
+  {
+    "sentence": "この地域は豊かな自然の恵みを受けている。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな自然【しぜん】の恵【めぐ】みを受【う】けている。",
+    "meaning": "This region receives the benefits of abundant nature."
+  },
+  {
+    "sentence": "株取引で利益を上げた。",
+    "sentence_furigana": "株取引【かぶとりひき】で利益【りえき】を上【あ】げた。",
+    "meaning": "I made a profit from stock trading."
+  },
+  {
+    "sentence": "この法律は経済活動に有利に働く。",
+    "sentence_furigana": "この法律【ほうりつ】は経済活動【けいざいかつどう】に有利【ゆうり】に働【はたら】く。",
+    "meaning": "This law works favorably for economic activities."
+  },
+  {
+    "sentence": "その協定は両国に利益をもたらすだろう。",
+    "sentence_furigana": "その協定【きょうてい】は両国【りょうこく】に利益【りえき】をもたらすだろう。",
+    "meaning": "The agreement will bring benefits to both countries."
+  },
+  {
+    "sentence": "彼は皆のために尽力した。",
+    "sentence_furigana": "彼【かれ】は皆【みな】のために尽力【じんりょく】した。",
+    "meaning": "He worked hard for everyone's benefit."
+  },
+  {
+    "sentence": "この計画は多くの利点がある。",
+    "sentence_furigana": "この計画【けいかく】はこの多【おお】くの利点【りてん】がある。",
+    "meaning": "This plan has many advantages."
+  },
+  {
+    "sentence": "有利な立場を確保する。",
+    "sentence_furigana": "有利【ゆうり】な立場【たちば】を確保【かくほ】する。",
+    "meaning": "Secure an advantageous position."
+  },
+  {
+    "sentence": "彼の助言は私にとって非常に役立った。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は私【わたし】にとって非常【ひじょう】に役立【やくた】った。",
+    "meaning": "His advice was very beneficial to me."
+  },
+  {
+    "sentence": "この商品は価格に対して性能が良い。",
+    "sentence_furigana": "この商品【しょうひん】は価格【かかく】に対して性能【せいので】が良い【よい】。",
+    "meaning": "This product offers good performance for its price."
+  },
+  {
+    "sentence": "利己的な行動は友情を壊す。",
+    "sentence_furigana": "利己的【りこてき】な行動【こうどう】は友情【ゆうじょう】を壊【こわ】す。",
+    "meaning": "Selfish actions destroy friendships."
+  },
+  {
+    "sentence": "新しい市場を開拓して利益を伸ばす。",
+    "sentence_furigana": "新【あら】しい市場【しじょう】を開拓【かいたく】して利益【りえき】を伸【の】ばす。",
+    "meaning": "Expand into new markets to increase profits."
+  },
+  {
+    "sentence": "この技術は産業界に利益をもたらすでしょう。",
+    "sentence_furigana": "この技術【ぎじゅつ】はこの産業界【さんぎょうかい】に利益【りえき】をもたらすでしょう。",
+    "meaning": "This technology will likely bring benefits to the industry."
+  },
+  {
+    "sentence": "彼は常に公正な取引を心がけている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公正【こうせい】な取引【とりひき】を心【こころ】がけている。",
+    "meaning": "He always strives for fair trade."
+  },
+  {
+    "sentence": "この地域の開発は住民に利益を与える。",
+    "sentence_furigana": "この地域【ちいき】の開発【かいはつ】はこの住民【じゅうみん】に利益【りえき】を与【あた】える。",
+    "meaning": "The development of this region will benefit the residents."
+  },
+  {
+    "sentence": "有利な状況を利用する。",
+    "sentence_furigana": "有利【ゆうり】な状況【じょうきょう】を利用【りよう】する。",
+    "meaning": "Take advantage of favorable circumstances."
+  },
+  {
+    "sentence": "この件に関して、何か良い情報はありませんか？",
+    "sentence_furigana": "この件【けん】に関【かん】して、何【なに】か良【よ】い情報【じょうほう】はありませんか？",
+    "meaning": "Is there any good information regarding this matter?"
+  },
+  {
+    "sentence": "利益分配の計画を立てる。",
+    "sentence_furigana": "利益分配【りえきぶんぱい】の計画【けいかく】を立【た】てる。",
+    "meaning": "Make a plan for profit distribution."
+  },
+  {
+    "sentence": "この法律は中小企業に有利に働く。",
+    "sentence_furigana": "この法律【ほうりつ】は中小企業【ちゅうしょうきぎょう】に有利【ゆうり】に働【はたら】く。",
+    "meaning": "This law benefits small and medium-sized enterprises."
+  },
+  {
+    "sentence": "彼は利益団体からの献金を受け取った。",
+    "sentence_furigana": "彼【かれ】は利益団体【りえきだんたい】からの献金【けんきん】を受【う】け取【と】った。",
+    "meaning": "He received donations from a lobby group."
+  },
+  {
+    "sentence": "このプロジェクトは多くのメリットがある。",
+    "sentence_furigana": "このプロジェクトは多【おお】くのメリットがある。",
+    "meaning": "This project has many merits."
+  },
+  {
+    "sentence": "彼はいつも自分の都合の良いように物事を進める。",
+    "sentence_furigana": "彼【かれ】はいつも自分【じぶん】の都合【つごう】の良い【よい】ように物事【ものごと】を進【すす】める。",
+    "meaning": "He always proceeds with things in a way that is convenient for him."
+  },
+  {
+    "sentence": "その情報は彼に有利に働いた。",
+    "sentence_furigana": "その情報【じょうほう】は彼【かれ】に有利【ゆうり】に働【はたら】いた。",
+    "meaning": "That information worked in his favor."
+  },
+  {
+    "sentence": "利益の追求は企業の当然の権利である。",
+    "sentence_furigana": "利益【りえき】の追求【ついきゅう】は企業【きぎょう】の当然【とうぜん】の権利【けんり】である。",
+    "meaning": "The pursuit of profit is a natural right of businesses."
+  },
+  {
+    "sentence": "このシステムは業務効率を向上させる。",
+    "sentence_furigana": "このシステムは業務効率【ぎょうむこうりつ】を向上【こうじょう】させる。",
+    "meaning": "This system improves operational efficiency."
+  },
+  {
+    "sentence": "彼は常に相手の立場になって考える。",
+    "sentence_furigana": "彼【かれ】は常【つね】に相手【あいて】の立場【たちば】になって考【かんが】える。",
+    "meaning": "He always considers things from the other person's perspective."
+  },
+  {
+    "sentence": "この政策は国民の利益に反する。",
+    "sentence_furigana": "この政策【せいさく】は国民【こくみん】の利益【りえき】に反【はん】する。",
+    "meaning": "This policy goes against the public interest."
+  },
+  {
+    "sentence": "その助言は会議を有利に進めるのに役立った。",
+    "sentence_furigana": "その助言【じょげん】は会議【かいぎ】を有利【ゆうり】に進【すす】めるのに役立【やくた】った。",
+    "meaning": "The advice helped to advance the meeting favorably."
+  },
+  {
+    "sentence": "彼は自分のために多くの利益を得た。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】のために多【おお】くの利益【りえき】を得【え】た。",
+    "meaning": "He gained substantial profits for himself."
+  },
+  {
+    "sentence": "この商品は多くの利便性を提供する。",
+    "sentence_furigana": "この商品【しょうひん】は多【おお】くの利便性【りべんせい】を提供【ていきょう】する。",
+    "meaning": "This product offers a lot of convenience."
+  },
+  {
+    "sentence": "彼は損得勘定で仕事をする人間だ。",
+    "sentence_furigana": "彼【かれ】は損得勘定【そんとくかんじょう】で仕事【しごと】をする人間【にんげん】だ。",
+    "meaning": "He is a person who works based on profit and loss calculations."
+  },
+  {
+    "sentence": "利益相反を避けるための規則を設ける。",
+    "sentence_furigana": "利益相反【りえきそうはん】を避【さ】けるための規則【きそく】を設【もう】ける。",
+    "meaning": "Establish rules to avoid conflicts of interest."
+  },
+  {
+    "sentence": "その割引は私に有利だった。",
+    "sentence_furigana": "その割引【わりびき】は私【わたし】に有利【ゆうり】だった。",
+    "meaning": "That discount was advantageous for me."
+  },
+  {
+    "sentence": "この投資は早期に利益を生むだろう。",
+    "sentence_furigana": "この投資【とうし】はこの早期【そうき】に利益【りえき】を生【う】むだろう。",
+    "meaning": "This investment will likely yield profits early on."
+  },
+  {
+    "sentence": "彼は常に効率的な方法を探している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に効率的【こうりつてき】な方法【ほうほう】を探【さが】している。",
+    "meaning": "He is always looking for efficient methods."
+  },
+  {
+    "sentence": "利益を共有することは、チームワークを強化する。",
+    "sentence_furigana": "利益【りえき】を共有【きょうゆう】することは、チームワークを強化【きょうか】する。",
+    "meaning": "Sharing profits strengthens teamwork."
+  },
+  {
+    "sentence": "この製品は環境に優しい。",
+    "sentence_furigana": "この製品【せいひん】は環境【かんきょう】に優【やさ】しい。",
+    "meaning": "This product is environmentally friendly."
+  },
+  {
+    "sentence": "彼は常に大きな利益を目指している。",
+    "sentence_furigana": "彼【かれ】は常【つね】に大【おお】きな利益【りえき】を目指【めざ】している。",
+    "meaning": "He is always aiming for large profits."
+  },
+  {
+    "sentence": "その提案は我々に有利な展開をもたらした。",
+    "sentence_furigana": "その提案【ていあん】は我々【われわれ】に有利【ゆうり】な展開【てんかい】をもたらした。",
+    "meaning": "That proposal led to a favorable development for us."
+  },
+  {
+    "sentence": "この件で利益を得られる可能性はある。",
+    "sentence_furigana": "この件【けん】で利益【りえき】を得【え】られる可能性【かのうせい】はある。",
+    "meaning": "There is a possibility of gaining profit from this matter."
+  },
+  {
+    "sentence": "彼は法律の抜け穴を利用して利益を得た。",
+    "sentence_furigana": "彼【かれ】は法律【ほうりつ】の抜【ぬ】け穴【あな】を利用【りよう】して利益【りえき】を得【え】た。",
+    "meaning": "He profited by exploiting legal loopholes."
+  },
+  {
+    "sentence": "この割引は非常に有利だ。",
+    "sentence_furigana": "この割引【わりびき】は非常【ひじょう】に有利【ゆうり】だ。",
+    "meaning": "This discount is very advantageous."
+  },
+  {
+    "sentence": "利益を再投資して事業を拡大する。",
+    "sentence_furigana": "利益【りえき】を再投資【さいとうし】して事業【じぎょう】を拡大【かくだい】する。",
+    "meaning": "Reinvest profits to expand the business."
+  },
+  {
+    "sentence": "彼の協力は非常に有益だった。",
+    "sentence_furigana": "彼【かれ】の協力【きょうりょく】は非常【ひじょう】に有益【ゆうえき】だった。",
+    "meaning": "His cooperation was very beneficial."
+  },
+  {
+    "sentence": "この新しいシステムは効率が良い。",
+    "sentence_furigana": "この新【あら】しいシステムは効率【こうりつ】が良い【よい】。",
+    "meaning": "This new system is efficient."
+  },
+  {
+    "sentence": "彼は利益を出すために努力している。",
+    "sentence_furigana": "彼【かれ】は利益【りえき】を出【だ】すために努力【どりょく】している。",
+    "meaning": "He is working hard to generate profit."
+  },
+  {
+    "sentence": "有利な取引を見つけることが重要だ。",
+    "sentence_furigana": "有利【ゆうり】な取引【とりひき】を見【み】つけることが重要【じゅうよう】だ。",
+    "meaning": "It is important to find favorable transactions."
+  },
+  {
+    "sentence": "この会議は実り多いものになった。",
+    "sentence_furigana": "この会議【かいぎ】は実【みの】り多【おお】いものになった。",
+    "meaning": "This meeting turned out to be fruitful."
+  },
+  {
+    "sentence": "彼は常に自身の利益を最優先する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自身【じしん】の利益【りえき】を最優先【さいゆうせん】する。",
+    "meaning": "He always prioritizes his own interests."
+  },
+  {
+    "sentence": "この情報は私にとって非常に有利です。",
+    "sentence_furigana": "この情報【じょうほう】は私【わたし】にとって非常【ひじょう】に有利【ゆうり】です。",
+    "meaning": "This information is very advantageous for me."
+  },
+  {
+    "sentence": "利害関係者との良好な関係を維持する。",
+    "sentence_furigana": "利害関係者【りがいかんけいしゃ】との良好【りょうこう】な関係【かんけい】を維持【いじ】する。",
+    "meaning": "Maintain good relationships with stakeholders."
+  },
+  {
+    "sentence": "彼は会社の利益のために尽力した。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の利益【りえき】のために尽力【じんりょく】した。",
+    "meaning": "He worked hard for the company's profit."
+  },
+  {
+    "sentence": "この法律は国民にメリットをもたらす。",
+    "sentence_furigana": "この法律【ほうりつ】は国民【こくみん】にメリットをもたらす。",
+    "meaning": "This law brings benefits to the public."
+  },
+  {
+    "sentence": "彼は常に利己的な考えを持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に利己的【りこてき】な考【かんが】えを持【も】っている。",
+    "meaning": "He always has selfish thoughts."
+  },
+  {
+    "sentence": "この新製品は多くの顧客に利益を与えるだろう。",
+    "sentence_furigana": "この新製品【しんせいひん】は多【おお】くの顧客【こきゃく】に利益【りえき】を与【あた】えるだろう。",
+    "meaning": "This new product will likely benefit many customers."
+  },
+  {
+    "sentence": "有利な条件で取引を進める。",
+    "sentence_furigana": "有利【ゆうり】な条件【じょうけん】で取引【とりひき】を進【すす】める。",
+    "meaning": "Proceed with the transaction under favorable terms."
+  },
+  {
+    "sentence": "彼は常に損得を考えて行動する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に損得【そんとく】を考【かんが】えて行動【こうどう】する。",
+    "meaning": "He always acts with profit and loss in mind."
+  },
+  {
+    "sentence": "その契約は双方に利益をもたらした。",
+    "sentence_furigana": "その契約【けいやく】は双方【そうほう】に利益【りえき】をもたらした。",
+    "meaning": "The contract brought benefits to both parties."
+  },
+  {
+    "sentence": "このサービスは顧客にとって有利だ。",
+    "sentence_furigana": "このサービスは顧客【こきゃく】にとって有利【ゆうり】だ。",
+    "meaning": "This service is advantageous for customers."
+  },
+  {
+    "sentence": "彼は利益を最大化する方法を学んだ。",
+    "sentence_furigana": "彼【かれ】は利益【りえき】を最大化【さいだいか】する方法【ほうほう】を学【まな】んだ。",
+    "meaning": "He learned how to maximize profits."
+  },
+  {
+    "sentence": "この法律は社会に利益をもたらす。",
+    "sentence_furigana": "この法律【ほうりつ】は社会【しゃかい】に利益【りえき】をもたらす。",
+    "meaning": "This law benefits society."
+  },
+  {
+    "sentence": "彼は常に利便性を追求する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に利便性【りべんせい】を追求【ついきゅう】する。",
+    "meaning": "He always pursues convenience."
+  },
+  {
+    "sentence": "この投資は有利な結果を生むだろう。",
+    "sentence_furigana": "この投資【とうし】は有利【ゆうり】な結果【けっか】を生【う】むだろう。",
+    "meaning": "This investment will likely yield favorable results."
+  },
+  {
+    "sentence": "彼の行動は会社に利益をもたらした。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は会社【かいしゃ】に利益【りえき】をもたらした。",
+    "meaning": "His actions brought profit to the company."
+  },
+  {
+    "sentence": "利益相反が生じないよう注意を払ってください。",
+    "sentence_furigana": "利益相反【りえきそうはん】が生【しょう】じないよう注意【ちゅうい】を払【はら】ってください。",
+    "meaning": "Please pay attention to avoid conflicts of interest."
+  },
+  {
+    "sentence": "この取引は私たちに有利に進みました。",
+    "sentence_furigana": "この取引【とりひき】は私達【わたしたち】に有利【ゆうり】に進【すす】みました。",
+    "meaning": "This transaction proceeded favorably for us."
+  },
+  {
+    "sentence": "彼は常に効率を重視する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に効率【こうりつ】を重視【じゅうし】する。",
+    "meaning": "He always prioritizes efficiency."
+  },
+  {
+    "sentence": "この新製品は多くの利点がある。",
+    "sentence_furigana": "この新製品【しんせいひん】は多【おお】くの利点【りてん】がある。",
+    "meaning": "This new product has many advantages."
+  },
+  {
+    "sentence": "彼は常に自己の利益を優先する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自己【じこ】の利益【りえき】を優先【ゆうせん】する。",
+    "meaning": "He always prioritizes his own benefit."
+  },
+  {
+    "sentence": "この法律は国民生活に有利に働く。",
+    "sentence_furigana": "この法律【ほうりつ】は国民生活【こくみんせいかつ】に有利【ゆうり】に働【はたら】く。",
+    "meaning": "This law works favorably for public life."
+  },
+  {
+    "sentence": "その情報は彼の立場を有利にした。",
+    "sentence_furigana": "その情報【じょうほう】は彼【かれ】の立場【たちば】を有利【ゆうり】にした。",
+    "meaning": "That information improved his position."
+  },
+  {
+    "sentence": "利益を最大化する戦略を立てよう。",
+    "sentence_furigana": "利益【りえき】を最大化【さいだいか】する戦略【せんりゃく】を立【た】てよう。",
+    "meaning": "Let's create a strategy to maximize profits."
+  },
+  {
+    "sentence": "この製品は非常に便利です。",
+    "sentence_furigana": "この製品【せいひん】は非常【ひじょう】に便利【べんり】です。",
+    "meaning": "This product is very convenient."
+  },
+  {
+    "sentence": "彼は常に公正な判断を心がける。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公正【こうせい】な判断【はんだん】を心【こころ】がける。",
+    "meaning": "He always strives for fair judgment."
+  },
+  {
+    "sentence": "この件で利益を得られると確信している。",
+    "sentence_furigana": "この件【けん】で利益【りえき】を得【え】られると確信【かくしん】している。",
+    "meaning": "I am confident that we can gain profit from this matter."
+  },
+  {
+    "sentence": "有利な条件での取引を探している。",
+    "sentence_furigana": "有利【ゆうり】な条件【じょうけん】での取引【とりひき】を探【さが】している。",
+    "meaning": "We are looking for transactions under favorable terms."
+  },
+  {
+    "sentence": "彼は会社の利益を第一に考えている。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の利益【りえき】を第一【だいいち】に考【かんが】えている。",
+    "meaning": "He prioritizes the company's profit."
+  },
+  {
+    "sentence": "この新技術は多くの利益をもたらすだろう。",
+    "sentence_furigana": "この新技術【しんぎじゅつ】は多【おお】くの利益【りえき】をもたらすだろう。",
+    "meaning": "This new technology will likely bring many benefits."
+  },
+  {
+    "sentence": "彼は常に利己的な行動をとる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に利己的【りこてき】な行動【こうどう】をとる。",
+    "meaning": "He always acts selfishly."
+  },
+  {
+    "sentence": "この政策は国民の利益になる。",
+    "sentence_furigana": "この政策【せいさく】は国民【こくみん】の利益【りえき】になる。",
+    "meaning": "This policy benefits the public."
+  },
+  {
+    "sentence": "有利な立場を利用して成功を収めた。",
+    "sentence_furigana": "有利【ゆうり】な立場【たちば】を利用【りよう】して成功【せいこう】を収【おさ】めた。",
+    "meaning": "He achieved success by taking advantage of his favorable position."
+  },
+  {
+    "sentence": "彼の助言は非常に有益でした。",
+    "sentence_furigana": "彼【かれ】の助言【じょげん】は非常【ひじょう】に有益【ゆうえき】でした。",
+    "meaning": "His advice was very beneficial."
+  },
+  {
+    "sentence": "このシステムは非常に効率的です。",
+    "sentence_furigana": "このシステムは非常【ひじょう】に効率的【こうりつてき】です。",
+    "meaning": "This system is very efficient."
+  },
+  {
+    "sentence": "利益を追求することは当然のことだ。",
+    "sentence_furigana": "利益【りえき】を追求【ついきゅう】することは当然【とうぜん】のことだ。",
+    "meaning": "Pursuing profit is natural."
+  },
+  {
+    "sentence": "この法律は企業活動に有利に働く。",
+    "sentence_furigana": "この法律【ほうりつ】は企業活動【きぎょうかつどう】に有利【ゆうり】に働【はたら】く。",
+    "meaning": "This law benefits corporate activities."
+  }
+]

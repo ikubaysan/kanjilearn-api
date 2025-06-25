@@ -1,0 +1,502 @@
+[
+  {
+    "sentence": "我々は未来のために努力する。",
+    "sentence_furigana": "我々【われわれ】は未来【みらい】のために努力【どりょく】する。",
+    "meaning": "We strive for the future."
+  },
+  {
+    "sentence": "自分のことしか考えていない。",
+    "sentence_furigana": "自分【じぶん】のことしか考【かんが】えていない。",
+    "meaning": "I am only thinking about myself."
+  },
+  {
+    "sentence": "我、日本の誇りである。",
+    "sentence_furigana": "我【われ】、日本【にほん】の誇【ほこ】りである。",
+    "meaning": "I am the pride of Japan."
+  },
+  {
+    "sentence": "彼は我を通すタイプだ。",
+    "sentence_furigana": "彼【かれ】は我【が】を通【とお】すタイプだ。",
+    "meaning": "He is the type to push his own way."
+  },
+  {
+    "sentence": "我が家にようこそ。",
+    "sentence_furigana": "我が家【わがや】にようこそ。",
+    "meaning": "Welcome to my home."
+  },
+  {
+    "sentence": "我が子の成長を喜ぶ。",
+    "sentence_furigana": "我が子【わがこ】の成長【せいちょう】を喜【よろこ】ぶ。",
+    "meaning": "I rejoice in my child's growth."
+  },
+  {
+    "sentence": "自我が強い人は協調性に欠ける。",
+    "sentence_furigana": "自我【じが】が強【つよ】い人【ひと】は協調性【きょうちょうせい】に欠【か】ける。",
+    "meaning": "People with strong egos lack cooperativeness."
+  },
+  {
+    "sentence": "我が輩は猫である。",
+    "sentence_furigana": "我が輩【わがはい】は猫【ねこ】である。",
+    "meaning": "I am a cat."
+  },
+  {
+    "sentence": "私我慢できない。",
+    "sentence_furigana": "私【わたし】我慢【がまん】できない。",
+    "meaning": "I cannot stand it."
+  },
+  {
+    "sentence": "我慢強さが大切だ。",
+    "sentence_furigana": "我慢強【がまんづよ】さが大切【たいせつ】だ。",
+    "meaning": "Patience is important."
+  },
+  {
+    "sentence": "我々のチームは強い。",
+    "sentence_furigana": "我々【われわれ】のチームは強【つよ】い。",
+    "meaning": "Our team is strong."
+  },
+  {
+    "sentence": "我が国の将来を憂う。",
+    "sentence_furigana": "我が国【わがくに】の将来【しょうらい】を憂【うれ】う。",
+    "meaning": "I worry about our country's future."
+  },
+  {
+    "sentence": "自己中心的にならないように注意する。",
+    "sentence_furigana": "自己中心的【じこちゅうしんてき】にならないように注意【ちゅうい】する。",
+    "meaning": "Be careful not to become self-centered."
+  },
+  {
+    "sentence": "我知らず知らずのうちに傷つけていた。",
+    "sentence_furigana": "我【われ】知【し】らず知【し】らずのうちに傷【きず】つけていた。",
+    "meaning": "I had unintentionally hurt them."
+  },
+  {
+    "sentence": "彼我の差は大きい。",
+    "sentence_furigana": "彼我【へいが】の差【さ】は大【おお】きい。",
+    "meaning": "The difference between us and them is great."
+  },
+  {
+    "sentence": "我思う、故に我あり。",
+    "sentence_furigana": "我【われ】思【おも】う、故【ゆえ】に我【われ】あり。",
+    "meaning": "I think, therefore I am."
+  },
+  {
+    "sentence": "我が青春時代を懐かしく思う。",
+    "sentence_furigana": "我が青春時代【わがせいしゅんじだい】を懐【なつ】かしく思【おも】う。",
+    "meaning": "I fondly remember my youth."
+  },
+  {
+    "sentence": "我が強い人は孤立しやすい。",
+    "sentence_furigana": "我が強【わがづよ】い人【ひと】は孤立【こりつ】しやすい。",
+    "meaning": "People with strong wills tend to become isolated."
+  },
+  {
+    "sentence": "我々人類は進歩してきた。",
+    "sentence_furigana": "我々人類【われわれじんるい】は進歩【しんぽ】してきた。",
+    "meaning": "We humans have progressed."
+  },
+  {
+    "sentence": "我ながらよくやったと思う。",
+    "sentence_furigana": "我【われ】ながらよくやったと思【おも】う。",
+    "meaning": "I think I did well myself."
+  },
+  {
+    "sentence": "自我を抑えることが大切だ。",
+    "sentence_furigana": "自我【じが】を抑【おさ】えることが大切【大切】だ。",
+    "meaning": "It is important to suppress one's ego."
+  },
+  {
+    "sentence": "我が家はこの地域で一番古い家です。",
+    "sentence_furigana": "我が家【わがや】はこの地域【ちいき】で一番古【いちばんふる】い家【いえ】です。",
+    "meaning": "Our house is the oldest in this area."
+  },
+  {
+    "sentence": "我々はずっと一緒にいる。",
+    "sentence_furigana": "我々【われわれ】はずっと一緒【いっしょ】にいる。",
+    "meaning": "We are together all the time."
+  },
+  {
+    "sentence": "我、この戦いに勝利する。",
+    "sentence_furigana": "我【われ】、この戦【たたか】いに勝利【しょうり】する。",
+    "meaning": "I will win this battle."
+  },
+  {
+    "sentence": "我が国の文化を守りたい。",
+    "sentence_furigana": "我が国【わがくに】の文化【ぶんか】を守【まも】りたい。",
+    "meaning": "I want to protect our country's culture."
+  },
+  {
+    "sentence": "彼は自分勝手だ。",
+    "sentence_furigana": "彼【かれ】は自分勝手【じぶんがって】だ。",
+    "meaning": "He is selfish."
+  },
+  {
+    "sentence": "我々は団結しなければならない。",
+    "sentence_furigana": "我々【われわれ】は団結【だんけつ】しなければならない。",
+    "meaning": "We must unite."
+  },
+  {
+    "sentence": "我が人生の目標はこれだ。",
+    "sentence_furigana": "我が人生【わがじんせい】の目標【もくひょう】はこれだ。",
+    "meaning": "This is my life's goal."
+  },
+  {
+    "sentence": "我輩は新しい発見をした。",
+    "sentence_furigana": "我輩【わがはい】は新【あら】しい発見【はっけん】をした。",
+    "meaning": "I made a new discovery."
+  },
+  {
+    "sentence": "自己顕示欲が強い。",
+    "sentence_furigana": "自己顕示欲【じこけんじよく】が強【つよ】い。",
+    "meaning": "He has a strong desire to show off."
+  },
+  {
+    "sentence": "我々は共通の目的を持っている。",
+    "sentence_furigana": "我々【われわれ】は共通【きょうつう】の目的【もくてき】を持【も】っている。",
+    "meaning": "We have a common goal."
+  },
+  {
+    "sentence": "我が家にはたくさんの思い出がある。",
+    "sentence_furigana": "我が家【わがや】にはたくさんのおも出【で】がある。",
+    "meaning": "There are many memories in our home."
+  },
+  {
+    "sentence": "彼は我の強い男だ。",
+    "sentence_furigana": "彼【かれ】は我【が】の強【つよ】い男【おとこ】だ。",
+    "meaning": "He is a man with a strong will."
+  },
+  {
+    "sentence": "我々は共に歩む。",
+    "sentence_furigana": "我々【われわれ】は共【とも】に歩【あゆ】む。",
+    "meaning": "We walk together."
+  },
+  {
+    "sentence": "我が息子は将来有望だ。",
+    "sentence_furigana": "我が息子【わがむすこ】は将来有望【しょうらいゆうぼう】だ。",
+    "meaning": "My son has a bright future."
+  },
+  {
+    "sentence": "彼は我が国の代表だ。",
+    "sentence_furigana": "彼【かれ】は我が国【わがくに】の代表【だいひょう】だ。",
+    "meaning": "He is the representative of our country."
+  },
+  {
+    "sentence": "我が愛する妻。",
+    "sentence_furigana": "我が愛【わがい】する妻【つま】。",
+    "meaning": "My beloved wife."
+  },
+  {
+    "sentence": "我々は平和を望む。",
+    "sentence_furigana": "我々【われわれ】は平和【へいわ】を望【のぞ】む。",
+    "meaning": "We desire peace."
+  },
+  {
+    "sentence": "我輩はかつて若者だった。",
+    "sentence_furigana": "我輩【わがはい】はかつて若者【わかもの】だった。",
+    "meaning": "I was once a young man."
+  },
+  {
+    "sentence": "自己中心的発言はやめなさい。",
+    "sentence_furigana": "自己中心的【じこちゅうしんてき】発言【はつげん】はやめなさい。",
+    "meaning": "Stop making self-centered remarks."
+  },
+  {
+    "sentence": "我々は互いを尊重する。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いを尊重【そんちょう】する。",
+    "meaning": "We respect each other."
+  },
+  {
+    "sentence": "我が人生最高の瞬間だった。",
+    "sentence_furigana": "我が人生【わがじんせい】最高【さいこう】の瞬間【しゅんかん】だった。",
+    "meaning": "It was the best moment of my life."
+  },
+  {
+    "sentence": "彼は我を忘れて喜んだ。",
+    "sentence_furigana": "彼【かれ】は我【が】を忘【わす】れて喜【よろこ】んだ。",
+    "meaning": "He rejoiced, forgetting himself."
+  },
+  {
+    "sentence": "我々は新しい時代を迎える。",
+    "sentence_furigana": "我々【われわれ】は新【あら】たな時代【じだい】を迎【むか】える。",
+    "meaning": "We welcome a new era."
+  },
+  {
+    "sentence": "我が故郷への想い。",
+    "sentence_furigana": "我が故郷【わがこきょう】への想【おも】い。",
+    "meaning": "Thoughts of my hometown."
+  },
+  {
+    "sentence": "我輩は満足している。",
+    "sentence_furigana": "我輩【わがはい】は満足【まんぞく】している。",
+    "meaning": "I am satisfied."
+  },
+  {
+    "sentence": "彼は我儘を言った。",
+    "sentence_furigana": "彼【かれ】は我儘【わがまま】を言【い】った。",
+    "meaning": "He made selfish demands."
+  },
+  {
+    "sentence": "我々は協力して問題を解決する。",
+    "sentence_furigana": "我々【われわれ】は協力【きょうりょく】して問題【もんだい】を解決【かいけつ】する。",
+    "meaning": "We will solve the problem by cooperating."
+  },
+  {
+    "sentence": "我が子供たちは皆優秀だ。",
+    "sentence_furigana": "我が子供【わがこども】たちは皆【みな】優秀【ゆうしゅう】だ。",
+    "meaning": "All my children are excellent."
+  },
+  {
+    "sentence": "我思う、故に我あり。",
+    "sentence_furigana": "我【われ】思【おも】う、故【ゆえ】に我【われ】あり。",
+    "meaning": "I think, therefore I am."
+  },
+  {
+    "sentence": "彼は我を通す人だ。",
+    "sentence_furigana": "彼【かれ】は我【が】を通【とお】す人【ひと】だ。",
+    "meaning": "He is a person who insists on his own way."
+  },
+  {
+    "sentence": "我が家のルール。",
+    "sentence_furigana": "我が家【わがや】のルール。",
+    "meaning": "Our house rules."
+  },
+  {
+    "sentence": "我々はこの目標を達成する。",
+    "sentence_furigana": "我々【われわれ】はこの目標【もくひょう】を達成【たっせい】する。",
+    "meaning": "We will achieve this goal."
+  },
+  {
+    "sentence": "我が子はすくすくと育っている。",
+    "sentence_furigana": "我が子【わがこ】はすくすくと育【そだ】っている。",
+    "meaning": "My child is growing up healthy and strong."
+  },
+  {
+    "sentence": "自我をコントロールする。",
+    "sentence_furigana": "自我【じが】をコントロールする。",
+    "meaning": "To control one's ego."
+  },
+  {
+    "sentence": "我々は未来を創造する。",
+    "sentence_furigana": "我々【われわれ】は未来【みらい】を創造【そうぞう】する。",
+    "meaning": "We create the future."
+  },
+  {
+    "sentence": "我が心は安らぎを求める。",
+    "sentence_furigana": "我が心【わがこころ】は安楽【やすらぎ】を求【もと】める。",
+    "meaning": "My heart seeks peace."
+  },
+  {
+    "sentence": "我輩の偉大さを理解せよ。",
+    "sentence_furigana": "我輩【わがはい】の偉大【いだい】さを理解【りかい】せよ。",
+    "meaning": "Understand my greatness."
+  },
+  {
+    "sentence": "彼は我儘に振る舞った。",
+    "sentence_furigana": "彼【かれ】は我儘【わがまま】に振舞【ふるま】った。",
+    "meaning": "He behaved selfishly."
+  },
+  {
+    "sentence": "我々は一つになる。",
+    "sentence_furigana": "我々【われわれ】は一つになる。",
+    "meaning": "We become one."
+  },
+  {
+    "sentence": "我が国は平和を愛する。",
+    "sentence_furigana": "我が国【わがくに】は平和【へいわ】を愛【あい】する。",
+    "meaning": "Our country loves peace."
+  },
+  {
+    "sentence": "我思う、故に我あり。",
+    "sentence_furigana": "我【われ】思【おも】う、故【ゆえ】に我【われ】あり。",
+    "meaning": "I think, therefore I am."
+  },
+  {
+    "sentence": "我が家は暖かく居心地が良い。",
+    "sentence_furigana": "我が家【わがや】は暖【あたた】かく居心地【いごこち】が良い【よい】。",
+    "meaning": "Our home is warm and cozy."
+  },
+  {
+    "sentence": "彼は我が道を往く。",
+    "sentence_furigana": "彼【かれ】は我が道【わがみち】を行【ゆ】く。",
+    "meaning": "He goes his own way."
+  },
+  {
+    "sentence": "我々は歴史を作る。",
+    "sentence_furigana": "我々【われわれ】は歴史【れきし】を作【つく】る。",
+    "meaning": "We make history."
+  },
+  {
+    "sentence": "我が子への愛は尽きない。",
+    "sentence_furigana": "我が子【わがこ】への愛【あい】は尽【つ】きない。",
+    "meaning": "My love for my child is endless."
+  },
+  {
+    "sentence": "自我が芽生える。",
+    "sentence_furigana": "自我【じが】が芽生【めば】える。",
+    "meaning": "The self begins to emerge."
+  },
+  {
+    "sentence": "我輩は猫である。",
+    "sentence_furigana": "我輩【わがはい】は猫【ねこ】である。",
+    "meaning": "I am a cat."
+  },
+  {
+    "sentence": "彼は我々のリーダーだ。",
+    "sentence_furigana": "彼【かれ】は我々【われわれ】のリーダーだ。",
+    "meaning": "He is our leader."
+  },
+  {
+    "sentence": "我が人生に悔いはない。",
+    "sentence_furigana": "我が人生【わがじんせい】に悔【く】いはない。",
+    "meaning": "I have no regrets in my life."
+  },
+  {
+    "sentence": "我々は協力して目標を達成する。",
+    "sentence_furigana": "我々【われわれ】は協力【きょうりょく】して目標【もくひょう】を達成【たっせい】する。",
+    "meaning": "We will achieve our goal through cooperation."
+  },
+  {
+    "sentence": "我が母校に錦を飾る。",
+    "sentence_furigana": "我が母校【わがぼこう】に錦【にしき】を飾【かざ】る。",
+    "meaning": "To bring honor to my alma mater."
+  },
+  {
+    "sentence": "我輩は犬も食わない。",
+    "sentence_furigana": "我輩【わがはい】は犬【いぬ】も食【く】わない。",
+    "meaning": "I am not even worth feeding to dogs."
+  },
+  {
+    "sentence": "自我に目覚める。",
+    "sentence_furigana": "自我【じが】に目覚【めざ】める。",
+    "meaning": "To awaken to one's self."
+  },
+  {
+    "sentence": "我々は未来への希望を抱く。",
+    "sentence_furigana": "我々【われわれ】は未来【みらい】への希望【きぼう】を抱【いだ】く。",
+    "meaning": "We hold hope for the future."
+  },
+  {
+    "sentence": "我が心の友。",
+    "sentence_furigana": "我が心【わがこころ】の友【とも】。",
+    "meaning": "My close friend."
+  },
+  {
+    "sentence": "彼は我が国のために戦った。",
+    "sentence_furigana": "彼【かれ】は我が国【わがくに】のために戦【たたか】った。",
+    "meaning": "He fought for our country."
+  },
+  {
+    "sentence": "我々は共に成長する。",
+    "sentence_furigana": "我々【われわれ】は共【とも】に成長【せいちょう】する。",
+    "meaning": "We grow together."
+  },
+  {
+    "sentence": "我が家に平和が訪れる。",
+    "sentence_furigana": "我が家【わがや】に平和【へいわ】が訪【おとず】れる。",
+    "meaning": "Peace visits our home."
+  },
+  {
+    "sentence": "彼は我が国の宝だ。",
+    "sentence_furigana": "彼【かれ】は我が国【わがくに】の宝【たから】だ。",
+    "meaning": "He is a treasure of our country."
+  },
+  {
+    "sentence": "我々は団結して困難を乗り越える。",
+    "sentence_furigana": "我々【われわれ】は団結【だんけつ】して困難【こんなん】を乗【の】り越【こ】える。",
+    "meaning": "We will overcome difficulties by uniting."
+  },
+  {
+    "sentence": "我が子供は私に似ている。",
+    "sentence_furigana": "我が子【わがこ】は私【わたし】に似【に】ている。",
+    "meaning": "My child resembles me."
+  },
+  {
+    "sentence": "我々はこの問題を深く理解している。",
+    "sentence_furigana": "我々【われわれ】はこの問題【もんだい】を深【ふか】く理解【りかい】している。",
+    "meaning": "We understand this problem deeply."
+  },
+  {
+    "sentence": "我が母は偉大な女性だ。",
+    "sentence_furigana": "我が母【わがはは】は偉大【いだい】な女性【じょせい】だ。",
+    "meaning": "My mother is a great woman."
+  },
+  {
+    "sentence": "我思う、故に我あり。",
+    "sentence_furigana": "我【われ】思【おも】う、故【ゆえ】に我【われ】あり。",
+    "meaning": "I think, therefore I am."
+  },
+  {
+    "sentence": "我が街の未来のために。",
+    "sentence_furigana": "我が街【わがまち】の未来【みらい】のために。",
+    "meaning": "For the future of our town."
+  },
+  {
+    "sentence": "我々は進化し続ける。",
+    "sentence_furigana": "我々【われわれ】は進化【しんか】し続【つづ】ける。",
+    "meaning": "We continue to evolve."
+  },
+  {
+    "sentence": "我が国の平和は皆の願いだ。",
+    "sentence_furigana": "我が国【わがくに】の平和【へいわ】は皆【みな】の願【ねが】いだ。",
+    "meaning": "Peace in our country is everyone's wish."
+  },
+  {
+    "sentence": "我輩は静かに過ごす。",
+    "sentence_furigana": "我輩【わがはい】は静【しず】かに過【す】ごす。",
+    "meaning": "I spend my time quietly."
+  },
+  {
+    "sentence": "自我を乗り越える。",
+    "sentence_furigana": "自我【じが】を乗【の】り越【こ】える。",
+    "meaning": "To overcome one's ego."
+  },
+  {
+    "sentence": "我々は新しい目標に向かって進む。",
+    "sentence_furigana": "我々【われわれ】は新【あら】たな目標【もくひょう】に向【む】かって進【すす】む。",
+    "meaning": "We move towards new goals."
+  },
+  {
+    "sentence": "我が人生の最愛の人。",
+    "sentence_furigana": "我が人生【わがじんせい】の最愛【さいあい】の人【ひと】。",
+    "meaning": "The most beloved person in my life."
+  },
+  {
+    "sentence": "彼は我が家の長男だ。",
+    "sentence_furigana": "彼【かれ】は我が家【わがや】の長男【ちょうなん】だ。",
+    "meaning": "He is the eldest son in our family."
+  },
+  {
+    "sentence": "我々は互いの違いを認める。",
+    "sentence_furigana": "我々【われわれ】は互【たが】いの違【ちが】いを認【みと】める。",
+    "meaning": "We recognize our differences."
+  },
+  {
+    "sentence": "我が国は多くの自然に恵まれている。",
+    "sentence_furigana": "我が国【わがくに】は多【おお】くの自然【しぜん】に恵【めぐ】まれている。",
+    "meaning": "Our country is blessed with abundant nature."
+  },
+  {
+    "sentence": "我思う、故に我あり。",
+    "sentence_furigana": "我【われ】思【おも】う、故【ゆえ】に我【われ】あり。",
+    "meaning": "I think, therefore I am."
+  },
+  {
+    "sentence": "我輩はこれで満足だ。",
+    "sentence_furigana": "我輩【わがはい】はこれで満足【まんぞく】だ。",
+    "meaning": "I am satisfied with this."
+  },
+  {
+    "sentence": "我が家は平和で幸せだ。",
+    "sentence_furigana": "我が家【わがや】は平和【へいわ】で幸【しあわ】せだ。",
+    "meaning": "Our home is peaceful and happy."
+  },
+  {
+    "sentence": "彼は我々の希望の星だ。",
+    "sentence_furigana": "彼【かれ】は我々【われわれ】の希望【きぼう】の星【ほし】だ。",
+    "meaning": "He is the star of hope for us."
+  },
+  {
+    "sentence": "我々は未来を信じている。",
+    "sentence_furigana": "我々【われわれ】は未来【みらい】を信【しん】じている。",
+    "meaning": "We believe in the future."
+  }
+]

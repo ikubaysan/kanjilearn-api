@@ -1,0 +1,527 @@
+[
+  {
+    "sentence": "彼はその賞を見事に獲得した。",
+    "sentence_furigana": "彼【かれ】はその賞【しょう】を見事【みごと】に獲得【かくとく】した。",
+    "meaning": "He splendidly won the prize."
+  },
+  {
+    "sentence": "彼女は長年の努力を賞された。",
+    "sentence_furigana": "彼女【かのじょ】は長年【ながねん】の努力【どりょく】を賞【しょう】された。",
+    "meaning": "She was praised for her many years of effort."
+  },
+  {
+    "sentence": "優秀な成績を収めた生徒に賞が授与された。",
+    "sentence_furigana": "優秀【ゆうしゅう】な成績【せいせき】を収【おさ】めた生徒【せいと】に賞【しょう】が授与【じゅよ】された。",
+    "meaning": "A prize was awarded to the student who achieved excellent results."
+  },
+  {
+    "sentence": "その貢献に対して感謝の賞を送ります。",
+    "sentence_furigana": "その貢献【こうけん】に対して【たい】して感謝【かんしゃ】の賞【しょう】を送【おく】ります。",
+    "meaning": "We send a reward in gratitude for that contribution."
+  },
+  {
+    "sentence": "彼の勇気を賞賛する声が多かった。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】を賞賛【しょうさん】する声【こえ】が多【おお】かった。",
+    "meaning": "There were many voices praising his courage."
+  },
+  {
+    "sentence": "この賞は最高の栄誉である。",
+    "sentence_furigana": "この賞【しょう】は最高【さいこう】の栄誉【えいよ】である。",
+    "meaning": "This award is the highest honor."
+  },
+  {
+    "sentence": "子供たちは賞品を手に満面の笑みを浮かべた。",
+    "sentence_furigana": "子供【こども】たちは賞品【しょうひん】を手に満面【まんめん】の笑【え】みを浮【う】かべた。",
+    "meaning": "The children had beaming smiles with the prize in their hands."
+  },
+  {
+    "sentence": "彼は毎年この賞レースに参加している。",
+    "sentence_furigana": "彼【かれ】は毎年【まいとし】この賞【しょう】レースに参加【さんか】している。",
+    "meaning": "He participates in this award race every year."
+  },
+  {
+    "sentence": "その発明は賞に値する。",
+    "sentence_furigana": "その発明【はつめい】は賞【しょう】に値【あたい】する。",
+    "meaning": "That invention is worthy of a prize."
+  },
+  {
+    "sentence": "賞金の一部を慈善団体に寄付した。",
+    "sentence_furigana": "賞金【しょうきん】の一部【いちぶ】を慈善団体【じぜんだんたい】に寄付【きふ】した。",
+    "meaning": "He donated a part of the prize money to a charity."
+  },
+  {
+    "sentence": "彼の功績を称え、特別賞が贈られた。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】を称【たた】え、特別賞【とくべつしょう】が贈【おく】られた。",
+    "meaning": "A special award was given to honor his achievements."
+  },
+  {
+    "sentence": "優れた作品には賞が与えられる。",
+    "sentence_furigana": "優【すぐ】れた作品【さくひん】には賞【しょう】が与【あた】えられる。",
+    "meaning": "Prizes are given for excellent works."
+  },
+  {
+    "sentence": "彼は努力が認められ、賞を授与された。",
+    "sentence_furigana": "彼【かれ】は努力【どりょく】が認【みと】められ、賞【しょう】を授与【じゅよ】された。",
+    "meaning": "He was awarded a prize in recognition of his efforts."
+  },
+  {
+    "sentence": "その賞を獲得するために全力を尽くした。",
+    "sentence_furigana": "その賞【しょう】を獲得【かくとく】するために全力【ぜんりょく】を尽【つ】くした。",
+    "meaning": "I did my best to win that award."
+  },
+  {
+    "sentence": "彼女の絵は賞の候補になった。",
+    "sentence_furigana": "彼女【かのじょ】の絵【え】は賞【しょう】の候補【こうほ】になった。",
+    "meaning": "Her painting became a candidate for the prize."
+  },
+  {
+    "sentence": "賞の申し込みは締め切られました。",
+    "sentence_furigana": "賞【しょう】の申込【もうしこ】みは締切【しめき】られました。",
+    "meaning": "Applications for the award have closed."
+  },
+  {
+    "sentence": "彼はベストドレッサー賞を受賞した。",
+    "sentence_furigana": "彼【かれ】はベストドレッサー賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "He received the Best Dressed award."
+  },
+  {
+    "sentence": "この賞は科学の進歩に貢献した人に贈られます。",
+    "sentence_furigana": "この賞【しょう】は科学【かがく】の進歩【しんぽ】に貢献【こうけん】した人【ひと】に贈【おく】られます。",
+    "meaning": "This award is given to those who have contributed to scientific progress."
+  },
+  {
+    "sentence": "彼の研究成果は賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の研究成果【けんきゅうせいか】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His research results are worthy of praise."
+  },
+  {
+    "sentence": "優勝賞としてトロフィーが授けられた。",
+    "sentence_furigana": "優勝賞【ゆうしょうしょう】としてトロフィーが授【さず】けられた。",
+    "meaning": "A trophy was awarded as the first prize."
+  },
+  {
+    "sentence": "彼女は努力を賞して、先生が褒めた。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】を賞【しょう】して、先生【せんせい】が褒【ほ】めた。",
+    "meaning": "The teacher praised her for her efforts."
+  },
+  {
+    "sentence": "賞状を受け取り、彼は深く感謝した。",
+    "sentence_furigana": "賞状【しょうじょう】を受【う】け取【と】り、彼【かれ】は深【ふか】く感謝【かんしゃ】した。",
+    "meaning": "Receiving the certificate of merit, he was deeply grateful."
+  },
+  {
+    "sentence": "そのパフォーマンスは観客から賞賛を浴びた。",
+    "sentence_furigana": "そのパフォーマンスは観客【かんきゃく】から賞賛【しょうさん】を浴【あ】びた。",
+    "meaning": "The performance was met with praise from the audience."
+  },
+  {
+    "sentence": "彼は善行を賞して表彰された。",
+    "sentence_furigana": "彼【かれ】は善行【ぜんこう】を賞【しょう】して表彰【ひょうしょう】された。",
+    "meaning": "He was honored for his good deeds."
+  },
+  {
+    "sentence": "新しい賞が設立される予定だ。",
+    "sentence_furigana": "新【あたら】しい賞【しょう】が設立【せつりつ】される予定【よてい】だ。",
+    "meaning": "A new award is scheduled to be established."
+  },
+  {
+    "sentence": "この賞は非常に権威がある。",
+    "sentence_furigana": "この賞【しょう】は非常【ひじょう】に権威【けんい】がある。",
+    "meaning": "This award is very prestigious."
+  },
+  {
+    "sentence": "彼はその功績に対して表彰状と賞品を受け取った。",
+    "sentence_furigana": "彼【かれ】はその功績【こうせき】に対して【たい】して表彰状【ひょうしょうじょう】と賞品【しょうひん】を受【う】け取【と】った。",
+    "meaning": "He received a certificate of merit and a prize for his achievements."
+  },
+  {
+    "sentence": "彼女は定期的に賞を受け取っている。",
+    "sentence_furigana": "彼女【かのじょ】は定期的【ていきてき】に賞【しょう】を受【う】け取【と】っている。",
+    "meaning": "She regularly receives awards."
+  },
+  {
+    "sentence": "努力を褒めることは、子供の成長に良い影響を与える。",
+    "sentence_furigana": "努力【どりょく】を褒【ほ】めることは、子供【こども】の成長【せいちょう】に良【よ】い影響【えいきょう】を与【あた】える。",
+    "meaning": "Praising effort has a good effect on a child's growth."
+  },
+  {
+    "sentence": "最優秀賞に選ばれたことを光栄に思います。",
+    "sentence_furigana": "最優秀賞【さいゆうしゅうしょう】に選【え】ばれたことを光栄【こうえい】に思【おも】います。",
+    "meaning": "I am honored to have been chosen for the Grand Prize."
+  },
+  {
+    "sentence": "彼はその献身的な働きを賞された。",
+    "sentence_furigana": "彼【かれ】はその献身的【けんしんてき】な働【はたら】きを賞【しょう】された。",
+    "meaning": "He was praised for his dedicated work."
+  },
+  {
+    "sentence": "彼女の作品が最高賞を受賞した。",
+    "sentence_furigana": "彼女【かのじょ】の作品【さくひん】が最高賞【さいこうしょう】を受賞【じゅしょう】した。",
+    "meaning": "Her work won the top prize."
+  },
+  {
+    "sentence": "賞金はいくらですか？",
+    "sentence_furigana": "賞金【しょうきん】はいくらですか？",
+    "meaning": "How much is the prize money?"
+  },
+  {
+    "sentence": "その賞は世界的に有名だ。",
+    "sentence_furigana": "その賞【しょう】は世界的【せかいてき】に有名【ゆうめい】だ。",
+    "meaning": "That award is world-renowned."
+  },
+  {
+    "sentence": "彼の行動を賞賛するコメントが多く寄せられた。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】を賞賛【しょうさん】するコメントが多【おお】く寄【よ】せられた。",
+    "meaning": "Many comments praising his actions were received."
+  },
+  {
+    "sentence": "この賞は長年の研究に対するものです。",
+    "sentence_furigana": "この賞【しょう】は長年【ながねん】の研究【けんきゅう】に対する【たい】するものです。",
+    "meaning": "This award is for many years of research."
+  },
+  {
+    "sentence": "賞の選考は厳正に行われた。",
+    "sentence_furigana": "賞【しょう】の選考【せんこう】は厳正【げんせい】に行【おこな】われた。",
+    "meaning": "The selection for the award was conducted strictly."
+  },
+  {
+    "sentence": "彼女は賞に値する人物だ。",
+    "sentence_furigana": "彼女【かのじょ】は賞【しょう】に値【あたい】する人物【じんぶつ】だ。",
+    "meaning": "She is a person worthy of an award."
+  },
+  {
+    "sentence": "その賞は新しい才能を奨励するために設けられた。",
+    "sentence_furigana": "その賞【しょう】は新【あたら】しい才能【さいのう】を奨励【しょうれい】するために設【もう】けられた。",
+    "meaning": "The award was established to encourage new talent."
+  },
+  {
+    "sentence": "彼はチームの努力を賞して皆を労った。",
+    "sentence_furigana": "彼【かれ】はチームの努力【どりょく】を賞【しょう】して皆【みな】を労【ねぎら】った。",
+    "meaning": "He praised the team's efforts and commended everyone."
+  },
+  {
+    "sentence": "この賞は彼にとって大きな励みとなった。",
+    "sentence_furigana": "この賞【しょう】は彼【かれ】にとって大【おお】きな励【はげ】みとなった。",
+    "meaning": "This award became a great encouragement for him."
+  },
+  {
+    "sentence": "彼の芸術作品は賞賛を集めた。",
+    "sentence_furigana": "彼【かれ】の芸術作品【げいじゅつさくひん】は賞賛【しょうさん】を集【あつ】めた。",
+    "meaning": "His artwork garnered praise."
+  },
+  {
+    "sentence": "彼女はその功績を称えられ、賞を受けた。",
+    "sentence_furigana": "彼女【かのじょ】はその功績【こうせき】を称【たた】えられ、賞【しょう】を受【う】けた。",
+    "meaning": "She received an award in recognition of her achievements."
+  },
+  {
+    "sentence": "賞の発表を楽しみにしている。",
+    "sentence_furigana": "賞【しょう】の発表【はっぴょう】を楽【たの】しみにしている。",
+    "meaning": "I am looking forward to the award announcement."
+  },
+  {
+    "sentence": "彼はその素晴らしいアイデアを賞賛した。",
+    "sentence_furigana": "彼【かれ】はその素晴【すば】らしいアイデアを賞賛【しょうさん】した。",
+    "meaning": "He praised that wonderful idea."
+  },
+  {
+    "sentence": "賞金はすべて寄付しました。",
+    "sentence_furigana": "賞金【しょうきん】はすべて寄付【きふ】しました。",
+    "meaning": "I donated all the prize money."
+  },
+  {
+    "sentence": "この賞は多くの人々に知られている。",
+    "sentence_furigana": "この賞【しょう】は多【おお】くの人々【ひとびと】に知【し】られている。",
+    "meaning": "This award is known to many people."
+  },
+  {
+    "sentence": "彼はその貢献を賞され、表彰された。",
+    "sentence_furigana": "彼【かれ】はその貢献【こうけん】を賞【しょう】され、表彰【ひょうしょう】された。",
+    "meaning": "He was honored for his contribution."
+  },
+  {
+    "sentence": "彼女は努力家として賞賛されています。",
+    "sentence_furigana": "彼女【かのじょ】は努力家【どりょくか】として賞賛【しょうさん】されています。",
+    "meaning": "She is praised as a hard worker."
+  },
+  {
+    "sentence": "この賞は革新的な技術に贈られます。",
+    "sentence_furigana": "この賞【しょう】は革新的【かくしんてき】な技術【ぎじゅつ】に贈【おく】られます。",
+    "meaning": "This award is given for innovative technology."
+  },
+  {
+    "sentence": "賞の授与式は来月行われる。",
+    "sentence_furigana": "賞【しょう】の授与式【じゅよしき】は来月【らいげつ】行【おこな】われる。",
+    "meaning": "The award ceremony will be held next month."
+  },
+  {
+    "sentence": "彼の優れた業績は賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の優【すぐ】れた業績【ぎょうせき】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His outstanding achievements are worthy of praise."
+  },
+  {
+    "sentence": "彼女は努力を認められ、賞賛された。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】を認【みと】められ、賞賛【しょうさん】された。",
+    "meaning": "She was praised for her efforts."
+  },
+  {
+    "sentence": "賞を取るために一生懸命勉強した。",
+    "sentence_furigana": "賞【しょう】を取【と】るために一生懸命【いっしょうけんめい】勉強【べんきょう】した。",
+    "meaning": "I studied hard to win the prize."
+  },
+  {
+    "sentence": "彼はその勇敢な行動を賞賛された。",
+    "sentence_furigana": "彼【かれ】はその勇敢【ゆうかん】な行動【こうどう】を賞賛【しょうさん】された。",
+    "meaning": "He was praised for his brave actions."
+  },
+  {
+    "sentence": "この賞は初めての受賞です。",
+    "sentence_furigana": "この賞【しょう】は初【はじ】めての受賞【じゅしょう】です。",
+    "meaning": "This is my first award."
+  },
+  {
+    "sentence": "彼女は素晴らしい才能を持っており、賞賛に値する。",
+    "sentence_furigana": "彼女【かのじょ】は素晴【すば】らしい才能【さいのう】を持【も】っており、賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "She has a wonderful talent and is worthy of praise."
+  },
+  {
+    "sentence": "賞状を大切に保管している。",
+    "sentence_furigana": "賞状【しょうじょう】を大切【たいせつ】に保管【ほかん】している。",
+    "meaning": "I am carefully keeping the certificate of merit."
+  },
+  {
+    "sentence": "彼は多くの賞を受けている。",
+    "sentence_furigana": "彼【かれ】は多【おお】くの賞【しょう】を受【う】けている。",
+    "meaning": "He has received many awards."
+  },
+  {
+    "sentence": "その映画は多くの賞を受賞した。",
+    "sentence_furigana": "その映画【えいが】は多【おお】くの賞【しょう】を受賞【じゅしょう】した。",
+    "meaning": "That movie won many awards."
+  },
+  {
+    "sentence": "彼女の貢献は皆から賞賛された。",
+    "sentence_furigana": "彼女【かのじょ】の貢献【こうけん】は皆【みな】から賞賛【しょうさん】された。",
+    "meaning": "Her contributions were praised by everyone."
+  },
+  {
+    "sentence": "この賞は学術界で高く評価されている。",
+    "sentence_furigana": "この賞【しょう】は学術界【がくじゅつかい】で高【たか】く評価【ひょうか】されている。",
+    "meaning": "This award is highly regarded in the academic world."
+  },
+  {
+    "sentence": "彼はその努力を賞して、先輩から褒められた。",
+    "sentence_furigana": "彼【かれ】はその努力【どりょく】を賞【しょう】して、先輩【せんぱい】から褒【ほ】められた。",
+    "meaning": "He was praised by his senior for his efforts."
+  },
+  {
+    "sentence": "この賞は新しい発見をした研究者に与えられます。",
+    "sentence_furigana": "この賞【しょう】は新【あたら】しい発見【はっけん】をした研究者【けんきゅうしゃ】に与【あた】えられます。",
+    "meaning": "This award is given to researchers who have made new discoveries."
+  },
+  {
+    "sentence": "賞の授与が滞りなく進んだ。",
+    "sentence_furigana": "賞【しょう】の授与【じゅよ】が滞【とどこお】りなく進【すす】んだ。",
+    "meaning": "The award presentation proceeded smoothly."
+  },
+  {
+    "sentence": "彼女は優秀な成績で賞を獲得した。",
+    "sentence_furigana": "彼女【かのじょ】は優秀【ゆうしゅう】な成績【せいせき】で賞【しょう】を獲得【かくとく】した。",
+    "meaning": "She won the award with excellent grades."
+  },
+  {
+    "sentence": "彼の勇気ある行動を賞賛します。",
+    "sentence_furigana": "彼【かれ】の勇気【ゆうき】ある行動【こうどう】を賞賛【しょうさん】します。",
+    "meaning": "I praise his courageous actions."
+  },
+  {
+    "sentence": "この賞は彼女の長年の貢献を称えるものです。",
+    "sentence_furigana": "この賞【しょう】は彼女【かのじょ】の長年【ながねん】の貢献【こうけん】を称【たた】えるものです。",
+    "meaning": "This award honors her many years of contribution."
+  },
+  {
+    "sentence": "賞金の一部は新しい研究に使われるだろう。",
+    "sentence_furigana": "賞金【しょうきん】の一部【いちぶ】は新【あたら】しい研究【けんきゅう】に使【つか】われるだろう。",
+    "meaning": "Part of the prize money will likely be used for new research."
+  },
+  {
+    "sentence": "彼はその功績を賞されて、学会で発表した。",
+    "sentence_furigana": "彼【かれ】はその功績【こうせき】を賞【しょう】されて、学会【がっかい】で発表【はっぴょう】した。",
+    "meaning": "He was praised for his achievements and presented at the academic conference."
+  },
+  {
+    "sentence": "その賞は非常に競争が激しい。",
+    "sentence_furigana": "その賞【しょう】は非常【ひじょう】に競争【きょうそう】が激【はげ】しい。",
+    "meaning": "The competition for that award is very fierce."
+  },
+  {
+    "sentence": "彼女は勤勉な学生として賞賛されている。",
+    "sentence_furigana": "彼女【かのじょ】は勤勉【きんべん】な学生【がくせい】として賞賛【しょうさん】されている。",
+    "meaning": "She is praised as a diligent student."
+  },
+  {
+    "sentence": "この賞は特に優れた業績に贈られます。",
+    "sentence_furigana": "この賞【しょう】は特【とく】に優【すぐ】れた業績【ぎょうせき】に贈【おく】られます。",
+    "meaning": "This award is given for particularly outstanding achievements."
+  },
+  {
+    "sentence": "彼は努力が認められ、賞賛の言葉を受けた。",
+    "sentence_furigana": "彼【かれ】は努力【どりょく】が認【みと】められ、賞賛【しょうさん】の言葉【ことば】を受【う】けた。",
+    "meaning": "He received words of praise for his recognized efforts."
+  },
+  {
+    "sentence": "賞を受賞したことを大変光栄に思います。",
+    "sentence_furigana": "賞【しょう】を受賞【じゅしょう】したことを大変光栄【たいへんこうえい】に思【おも】います。",
+    "meaning": "I am very honored to have received the award."
+  },
+  {
+    "sentence": "彼女は並外れた才能で賞を獲得した。",
+    "sentence_furigana": "彼女【かのじょ】は並外【なみは】ずれた才能【さいのう】で賞【しょう】を獲得【かくとく】した。",
+    "meaning": "She won the award with her extraordinary talent."
+  },
+  {
+    "sentence": "彼の研究は多くの賞賛を得た。",
+    "sentence_furigana": "彼【かれ】の研究【けんきゅう】は多【おお】くの賞賛【しょうさん】を得【え】た。",
+    "meaning": "His research received much praise."
+  },
+  {
+    "sentence": "この賞は社会貢献をした人に与えられる。",
+    "sentence_furigana": "この賞【しょう】は社会貢献【しゃかいこうけん】をした人【ひと】に与【あた】えられる。",
+    "meaning": "This award is given to people who have contributed to society."
+  },
+  {
+    "sentence": "彼はその功績を称え、賞を受け取った。",
+    "sentence_furigana": "彼【かれ】はその功績【こうせき】を称【たた】え、賞【しょう】を受【う】け取【と】った。",
+    "meaning": "He received an award in recognition of his achievements."
+  },
+  {
+    "sentence": "彼女の芸術作品は批評家から賞賛された。",
+    "sentence_furigana": "彼女【かのじょ】の芸術作品【げいじゅつさくひん】は批評家【ひひょうか】から賞賛【しょうさん】された。",
+    "meaning": "Her artwork was praised by critics."
+  },
+  {
+    "sentence": "この賞は未来を担う若者を支援するために設けられました。",
+    "sentence_furigana": "この賞【しょう】は未来【みらい】を担【にな】う若者【わかもの】を支援【しえん】するために設【もう】けられました。",
+    "meaning": "This award was established to support young people who will lead the future."
+  },
+  {
+    "sentence": "賞の申し込み期間はあと一週間です。",
+    "sentence_furigana": "賞【しょう】の申込【もうしこ】み期間【きかん】はあと一週【いっしゅう】間【かん】です。",
+    "meaning": "The application period for the award is one more week."
+  },
+  {
+    "sentence": "彼はその革新的なアイデアを賞賛されました。",
+    "sentence_furigana": "彼【かれ】はその革新的【かくしんてき】なアイデアを賞賛【しょうさん】されました。",
+    "meaning": "He was praised for his innovative idea."
+  },
+  {
+    "sentence": "この賞は長年の研究に対する功績を称えるものです。",
+    "sentence_furigana": "この賞【しょう】は長年【ながねん】の研究【けんきゅう】に対する【たい】する功績【こうせき】を称【たた】えるものです。",
+    "meaning": "This award honors achievements for many years of research."
+  },
+  {
+    "sentence": "彼女は努力が実り、賞を獲得した。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】が実【みの】り、賞【しょう】を獲得【かくとく】した。",
+    "meaning": "Her efforts paid off, and she won the award."
+  },
+  {
+    "sentence": "賞の選考委員は著名な専門家です。",
+    "sentence_furigana": "賞【しょう】の選考委員【せんこういいん】は著名【ちょめい】な専門家【せんもんか】です。",
+    "meaning": "The award selection committee members are renowned experts."
+  },
+  {
+    "sentence": "彼の献身的な働きは賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の献身的【けんしんてき】な働【はたら】きは賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His dedicated work is worthy of praise."
+  },
+  {
+    "sentence": "この賞は新しい才能を発掘するために設けられた。",
+    "sentence_furigana": "この賞【しょう】は新【あたら】しい才能【さいのう】を発掘【はっくつ】するために設【もう】けられた。",
+    "meaning": "This award was established to discover new talent."
+  },
+  {
+    "sentence": "彼女は努力を惜しまず、常に最善を尽くす姿勢を賞賛されています。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】を惜【お】しまず、常【つね】に最善【さいぜん】を尽【つ】くす姿勢【しせい】を賞賛【しょうさん】されています。",
+    "meaning": "She is praised for her attitude of always doing her best without sparing effort."
+  },
+  {
+    "sentence": "賞金は研究費に充てられる予定です。",
+    "sentence_furigana": "賞金【しょうきん】は研究費【けんきゅうひ】に充【あ】てられる予定【よてい】です。",
+    "meaning": "The prize money is intended to be used for research expenses."
+  },
+  {
+    "sentence": "彼はその功績を称えられ、特別賞が授与された。",
+    "sentence_furigana": "彼【かれ】はその功績【こうせき】を称【たた】えられ、特別賞【とくべつしょう】が授与【じゅよ】された。",
+    "meaning": "He was awarded a special prize in recognition of his achievements."
+  },
+  {
+    "sentence": "この賞は芸術分野での貢献を評価するものです。",
+    "sentence_furigana": "この賞【しょう】は芸術分野【げいじゅつぶんや】での貢献【こうけん】を評価【ひょうか】するものです。",
+    "meaning": "This award recognizes contributions in the field of art."
+  },
+  {
+    "sentence": "彼女は努力の結果、賞を獲得することができた。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】の結果【けっか】、賞【しょう】を獲得【かくとく】することができた。",
+    "meaning": "As a result of her efforts, she was able to win the award."
+  },
+  {
+    "sentence": "賞の選考結果は来週発表されます。",
+    "sentence_furigana": "賞【しょう】の選考結果【せんこうけっか】は来週【らいしゅう】発表【はっぴょう】されます。",
+    "meaning": "The selection results for the award will be announced next week."
+  },
+  {
+    "sentence": "彼の功績は賞賛に値するほど大きい。",
+    "sentence_furigana": "彼【かれ】の功績【こうせき】は賞賛【しょうさん】に値【あたい】するほど大【おお】きい。",
+    "meaning": "His achievements are so great they are worthy of praise."
+  },
+  {
+    "sentence": "この賞は彼女の長年の努力に対する評価である。",
+    "sentence_furigana": "この賞【しょう】は彼女【かのじょ】の長年【ながねん】の努力【どりょく】に対する【たい】する評価【ひょうか】である。",
+    "meaning": "This award is an evaluation of her many years of effort."
+  },
+  {
+    "sentence": "彼女は努力が認められ、皆から賞賛された。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】が認【みと】められ、皆【みな】から賞賛【しょうさん】された。",
+    "meaning": "Her efforts were recognized, and she was praised by everyone."
+  },
+  {
+    "sentence": "賞の授与に際し、スピーチが行われた。",
+    "sentence_furigana": "賞【しょう】の授与【じゅよ】に際【さい】し、スピーチが行【おこな】われた。",
+    "meaning": "A speech was given at the time of the award presentation."
+  },
+  {
+    "sentence": "彼の優れた業績は賞賛に値すると多くの人が思った。",
+    "sentence_furigana": "彼【かれ】の優【すぐ】れた業績【ぎょうせき】は賞賛【しょうさん】に値【あたい】すると多【おお】くの人々【ひとびと】が思【おも】った。",
+    "meaning": "Many people thought his outstanding achievements were worthy of praise."
+  },
+  {
+    "sentence": "この賞は特に顕著な功績を称えるものです。",
+    "sentence_furigana": "この賞【しょう】は特【とく】に顕著【けんちょ】な功績【こうせき】を称【たた】えるものです。",
+    "meaning": "This award honors particularly remarkable achievements."
+  },
+  {
+    "sentence": "彼女は努力を認められ、賞賛の拍手が送られた。",
+    "sentence_furigana": "彼女【かのじょ】は努力【どりょく】を認【みと】められ、賞賛【しょうさん】の拍手【はくしゅ】が送【おく】られた。",
+    "meaning": "Her efforts were recognized, and she was met with applause."
+  },
+  {
+    "sentence": "賞の応募資格を確認してください。",
+    "sentence_furigana": "賞【しょう】の応募資格【おうぼしかく】を確認【かくにん】してください。",
+    "meaning": "Please check the eligibility for the award."
+  },
+  {
+    "sentence": "彼の行動は賞賛に値する。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は賞賛【しょうさん】に値【あたい】する。",
+    "meaning": "His actions are worthy of praise."
+  },
+  {
+    "sentence": "彼女の努力は賞賛されるべきだ。",
+    "sentence_furigana": "彼女【かのじょ】の努力【どりょく】は賞賛【しょうさん】されるべきだ。",
+    "meaning": "Her efforts should be praised."
+  },
+  {
+    "sentence": "この賞は彼の多年にわたる研究活動を評価するものです。",
+    "sentence_furigana": "この賞【しょう】は彼【かれ】の多年【たねん】にわたる研究活動【けんきゅうかつどう】を評価【ひょうか】するものです。",
+    "meaning": "This award recognizes his many years of research activities."
+  }
+]

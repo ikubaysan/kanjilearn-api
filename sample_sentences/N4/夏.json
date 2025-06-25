@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "夏は暑いですね。",
+    "sentence_furigana": "夏【なつ】は暑【あつ】いですね。",
+    "meaning": "Summer is hot, isn't it?"
+  },
+  {
+    "sentence": "夏休みはいつからですか。",
+    "sentence_furigana": "夏【なつ】休【やす】みはいつからですか。",
+    "meaning": "When does summer vacation start?"
+  },
+  {
+    "sentence": "夏といえば、ひまわりです。",
+    "sentence_furigana": "夏【なつ】といえば、ひまわりです。",
+    "meaning": "Speaking of summer, sunflowers come to mind."
+  },
+  {
+    "sentence": "今年の夏はとても暑かった。",
+    "sentence_furigana": "今年【ことし】の夏【なつ】はとても暑【あつ】かった。",
+    "meaning": "This summer was very hot."
+  },
+  {
+    "sentence": "夏服を買いに行こう。",
+    "sentence_furigana": "夏【なつ】服【ふく】を買い【かい】に行【い】こう。",
+    "meaning": "Let's go buy summer clothes."
+  },
+  {
+    "sentence": "夏祭りは賑やかだった。",
+    "sentence_furigana": "夏【なつ】祭【まつ】りは賑【にぎ】やかだった。",
+    "meaning": "The summer festival was lively."
+  },
+  {
+    "sentence": "夏の花火を見に行きました。",
+    "sentence_furigana": "夏【なつ】の花火【はなび】を見【み】に行【い】きました。",
+    "meaning": "I went to see the summer fireworks."
+  },
+  {
+    "sentence": "夏野菜がおいしい季節です。",
+    "sentence_furigana": "夏【なつ】野【や】菜【さい】がおいしい季節【きせつ】です。",
+    "meaning": "It's the season for delicious summer vegetables."
+  },
+  {
+    "sentence": "彼は夏でも長袖を着ている。",
+    "sentence_furigana": "彼【かれ】は夏【なつ】でも長袖【ながそで】を着【き】ている。",
+    "meaning": "He wears long sleeves even in summer."
+  },
+  {
+    "sentence": "夏は海に行きたいです。",
+    "sentence_furigana": "夏【なつ】は海【うみ】に行【い】きたいです。",
+    "meaning": "I want to go to the sea in summer."
+  },
+  {
+    "sentence": "夏の太陽は力強い。",
+    "sentence_furigana": "夏【なつ】の太陽【たいよう】は力強【ちからづよ】い。",
+    "meaning": "The summer sun is powerful."
+  },
+  {
+    "sentence": "夏らしい服装をしました。",
+    "sentence_furigana": "夏【なつ】らしい服装【ふくそう】をしました。",
+    "meaning": "I wore summer-like clothing."
+  },
+  {
+    "sentence": "夏合宿で頑張りました。",
+    "sentence_furigana": "夏【なつ】合宿【がっしゅく】で頑張【がんば】りました。",
+    "meaning": "I worked hard at the summer training camp."
+  },
+  {
+    "sentence": "夏のアイスは格別だ。",
+    "sentence_furigana": "夏【なつ】のアイスは格別【かくべつ】だ。",
+    "meaning": "Summer ice cream is exceptional."
+  },
+  {
+    "sentence": "夏風邪をひかないように気をつけます。",
+    "sentence_furigana": "夏【なつ】風邪【かぜ】をひかないように気【き】をつけます。",
+    "meaning": "I will be careful not to catch a summer cold."
+  },
+  {
+    "sentence": "夏は蝉の声が響く。",
+    "sentence_furigana": "夏【なつ】は蝉【せみ】の声【こえ】が響【ひび】く。",
+    "meaning": "The sound of cicadas echoes in the summer."
+  },
+  {
+    "sentence": "夏休みには旅行を計画しています。",
+    "sentence_furigana": "夏【なつ】休【やす】みには旅行【りょこう】を計画【けいかく】しています。",
+    "meaning": "I am planning a trip during summer vacation."
+  },
+  {
+    "sentence": "夏用の帽子を買いました。",
+    "sentence_furigana": "夏【なつ】用【よう】の帽子【ぼうし】を買【か】いました。",
+    "meaning": "I bought a hat for summer."
+  },
+  {
+    "sentence": "夏も終わり、秋が近づいてきました。",
+    "sentence_furigana": "夏【なつ】も終【お】わり、秋【あき】が近【ちか】づいてきました。",
+    "meaning": "Summer is ending, and autumn is approaching."
+  },
+  {
+    "sentence": "今年の夏も猛暑になりそうだ。",
+    "sentence_furigana": "今年【ことし】の夏【なつ】も猛暑【もうしょ】になりそうだ。",
+    "meaning": "This summer is also expected to be extremely hot."
+  },
+  {
+    "sentence": "夏は冷たい飲み物が美味しい。",
+    "sentence_furigana": "夏【なつ】は冷【つめ】たい飲【の】み物【もの】がおいしい。",
+    "meaning": "Cold drinks are delicious in summer."
+  },
+  {
+    "sentence": "夏の夜空には星が輝いていた。",
+    "sentence_furigana": "夏【なつ】の夜空【よぞら】には星【ほし】が輝【かがや】いていた。",
+    "meaning": "Stars were shining in the summer night sky."
+  },
+  {
+    "sentence": "夏休みの宿題は終わりましたか。",
+    "sentence_furigana": "夏【なつ】休【やす】みの宿題【しゅくだい】は終【お】わりましたか。",
+    "meaning": "Have you finished your summer homework?"
+  },
+  {
+    "sentence": "夏山登山は危険を伴う。",
+    "sentence_furigana": "夏山【なつやま】登山【とざん】は危険【きけん】を伴【ともな】う。",
+    "meaning": "Summer mountain climbing involves danger."
+  },
+  {
+    "sentence": "夏は蚊が多いので注意が必要です。",
+    "sentence_furigana": "夏【なつ】は蚊【か】が多【おお】いので注意【ちゅうい】が必要【ひつよう】です。",
+    "meaning": "There are many mosquitoes in summer, so caution is necessary."
+  },
+  {
+    "sentence": "夏はクーラーなしでは過ごせない。",
+    "sentence_furigana": "夏【なつ】はクーラーなしでは過【す】ごせない。",
+    "meaning": "You can't get through summer without air conditioning."
+  },
+  {
+    "sentence": "夏祭りで浴衣を着ました。",
+    "sentence_furigana": "夏【なつ】祭【まつ】りで浴衣【ゆかた】を着【き】ました。",
+    "meaning": "I wore a yukata at the summer festival."
+  },
+  {
+    "sentence": "夏の思い出は宝物です。",
+    "sentence_furigana": "夏【なつ】の思【おも】い出【で】は宝物【たからもの】です。",
+    "meaning": "Summer memories are treasures."
+  },
+  {
+    "sentence": "夏が終わると、少し寂しくなる。",
+    "sentence_furigana": "夏【なつ】が終【お】わると、少【すこ】し寂【さび】しくなる。",
+    "meaning": "When summer ends, I feel a little lonely."
+  },
+  {
+    "sentence": "夏休みに家族でキャンプに行きました。",
+    "sentence_furigana": "夏【なつ】休【やす】みに家族【かぞく】でキャンプに行【い】きました。",
+    "meaning": "I went camping with my family during summer vacation."
+  },
+  {
+    "sentence": "夏は食欲が落ちやすい。",
+    "sentence_furigana": "夏【なつ】は食欲【しょくよく】が落【お】ちやすい。",
+    "meaning": "Appetite tends to decrease in summer."
+  },
+  {
+    "sentence": "夏が来ると気分も明るくなる。",
+    "sentence_furigana": "夏【なつ】が来【く】ると気分【きぶん】も明【あか】るくなる。",
+    "meaning": "When summer comes, my mood also brightens."
+  },
+  {
+    "sentence": "今年の夏は雨が多いですね。",
+    "sentence_furigana": "今年【ことし】の夏【なつ】は雨【あめ】が多【おお】いですね。",
+    "meaning": "There is a lot of rain this summer, isn't there?"
+  },
+  {
+    "sentence": "夏のアウトドアは楽しい。",
+    "sentence_furigana": "夏【なつ】のアウトドアは楽【たの】しい。",
+    "meaning": "Outdoor activities in summer are fun."
+  },
+  {
+    "sentence": "夏は冷たい麺類が人気です。",
+    "sentence_furigana": "夏【なつ】は冷【つめ】たい麺類【めんるい】が人気【にんき】です。",
+    "meaning": "Cold noodles are popular in summer."
+  },
+  {
+    "sentence": "夏休みに帰省しました。",
+    "sentence_furigana": "夏【なつ】休【やす】みに帰省【きせい】しました。",
+    "meaning": "I returned to my hometown during summer vacation."
+  },
+  {
+    "sentence": "夏が近づき、だんだん暑くなってきた。",
+    "sentence_furigana": "夏【なつ】が近【ちか】づき、だんだん暑【あつ】くなってきた。",
+    "meaning": "Summer is approaching, and it's gradually getting hotter."
+  },
+  {
+    "sentence": "夏用の寝具を準備しました。",
+    "sentence_furigana": "夏【なつ】用【よう】の寝具【しんぐ】を準備【じゅんび】しました。",
+    "meaning": "I prepared bedding for summer."
+  },
+  {
+    "sentence": "夏の日差しは強い。",
+    "sentence_furigana": "夏【なつ】の日差【ひざ】しは強【つよ】い。",
+    "meaning": "The summer sunlight is strong."
+  },
+  {
+    "sentence": "夏休みの自由研究は何にする？",
+    "sentence_furigana": "夏【なつ】休【やす】みの自由研究【じゆうけんきゅう】は何【なに】にする？",
+    "meaning": "What will you do for your summer vacation's independent study project?"
+  },
+  {
+    "sentence": "夏は水分補給を忘れずに。",
+    "sentence_furigana": "夏【なつ】は水分補給【すいぶんほきゅう】を忘【わす】れずに。",
+    "meaning": "Don't forget to stay hydrated in summer."
+  },
+  {
+    "sentence": "夏の夜は涼しくて過ごしやすい。",
+    "sentence_furigana": "夏【なつ】の夜【よる】は涼【すず】しくて過【す】ごしやすい。",
+    "meaning": "Summer nights are cool and pleasant."
+  },
+  {
+    "sentence": "夏野菜を使った料理を作った。",
+    "sentence_furigana": "夏【なつ】野【や】菜【さい】を使【つか】った料理【りょうり】を作【つく】った。",
+    "meaning": "I cooked a dish using summer vegetables."
+  },
+  {
+    "sentence": "夏はクーラー病に注意しましょう。",
+    "sentence_furigana": "夏【なつ】はクーラー病【びょう】に注意【ちゅうい】しましょう。",
+    "meaning": "Let's be careful of air conditioner sickness in summer."
+  },
+  {
+    "sentence": "夏の思い出を語り合う。",
+    "sentence_furigana": "夏【なつ】の思【おも】い出【で】を語【かた】り合【あ】う。",
+    "meaning": "We talk about our summer memories."
+  },
+  {
+    "sentence": "夏祭りでの楽しみは屋台巡りです。",
+    "sentence_furigana": "夏【なつ】祭【まつ】りでの楽【たの】しみは屋台【やたい】巡【めぐ】りです。",
+    "meaning": "The fun part of the summer festival is going around the food stalls."
+  },
+  {
+    "sentence": "夏休みの計画は順調に進んでいます。",
+    "sentence_furigana": "夏【なつ】休【やす】みの計画【けいかく】は順調【じゅんちょう】に進【すす】んでいます。",
+    "meaning": "The summer vacation plan is progressing smoothly."
+  },
+  {
+    "sentence": "夏は早起きして散歩するのが好きだ。",
+    "sentence_furigana": "夏【なつ】は早起【はやお】きして散歩【さんぽ】するのが好【す】きだ。",
+    "meaning": "I like waking up early and taking a walk in the summer."
+  },
+  {
+    "sentence": "夏の始まりを感じさせる。",
+    "sentence_furigana": "夏【なつ】の始【はじ】まりを感じ【かん】じさせる。",
+    "meaning": "It makes one feel the beginning of summer."
+  },
+  {
+    "sentence": "夏バテしないように、しっかり食べよう。",
+    "sentence_furigana": "夏【なつ】バテしないように、しっかり食【た】べよう。",
+    "meaning": "Let's eat well so we don't get summer fatigue."
+  },
+  {
+    "sentence": "夏空が青く澄み渡っている。",
+    "sentence_furigana": "夏空【なつぞら】が青【あお】く澄【す】み渡【わた】っている。",
+    "meaning": "The summer sky is clear and blue."
+  },
+  {
+    "sentence": "夏休みを利用して資格を取る。",
+    "sentence_furigana": "夏【なつ】休【やす】みを利用【りよう】して資格【しかく】を取【と】る。",
+    "meaning": "I will obtain a qualification by utilizing summer vacation."
+  },
+  {
+    "sentence": "夏は蚊取り線香が欠かせない。",
+    "sentence_furigana": "夏【なつ】は蚊取【か】り線香【せんこう】が欠【か】かせない。",
+    "meaning": "Mosquito coils are indispensable in summer."
+  },
+  {
+    "sentence": "夏の集中豪雨に注意してください。",
+    "sentence_furigana": "夏【なつ】の集中豪雨【しゅうちゅうごうう】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of heavy summer rains."
+  },
+  {
+    "sentence": "夏は日が長くて良い。",
+    "sentence_furigana": "夏【なつ】は日【ひ】が長【なが】くて良【よ】い。",
+    "meaning": "It's good that the days are long in summer."
+  },
+  {
+    "sentence": "夏休みの間に読書をたくさんした。",
+    "sentence_furigana": "夏【なつ】休【やす】みの間【あいだ】に読書【どくしょ】をたくさんした。",
+    "meaning": "I read a lot during summer vacation."
+  },
+  {
+    "sentence": "夏らしい気候になってきた。",
+    "sentence_furigana": "夏【なつ】らしい気候【きこう】になってきた。",
+    "meaning": "The weather has become summer-like."
+  },
+  {
+    "sentence": "夏は冷房が効きすぎることがある。",
+    "sentence_furigana": "夏【なつ】は冷房【れいぼう】が効【き】きすぎることがある。",
+    "meaning": "Air conditioning can be too strong in summer."
+  },
+  {
+    "sentence": "夏にはスイカが食べたくなる。",
+    "sentence_furigana": "夏【なつ】にはスイカが食【た】べたくなる。",
+    "meaning": "I feel like eating watermelon in summer."
+  },
+  {
+    "sentence": "夏の疲れが出やすい時期です。",
+    "sentence_furigana": "夏【なつ】の疲【つか】れが出【で】やすい時期【じき】です。",
+    "meaning": "This is the season when summer fatigue is likely to appear."
+  },
+  {
+    "sentence": "夏の間はあまり外出しない。",
+    "sentence_furigana": "夏【なつ】の間【あいだ】はあまり外出【がいしゅつ】しない。",
+    "meaning": "I don't go out much during the summer."
+  },
+  {
+    "sentence": "夏休みには必ず帰省するようにしている。",
+    "sentence_furigana": "夏【なつ】休【やす】みには必【かな】らず帰省【きせい】するようにしている。",
+    "meaning": "I always make sure to return to my hometown during summer vacation."
+  },
+  {
+    "sentence": "夏の夕立は突然来る。",
+    "sentence_furigana": "夏【なつ】の夕立【ゆうだち】は突然【とつぜん】来【く】る。",
+    "meaning": "Summer evening showers come suddenly."
+  },
+  {
+    "sentence": "夏はアウトドア活動が盛んになる。",
+    "sentence_furigana": "夏【なつ】はアウトドア活動【かつどう】が盛【さか】んになる。",
+    "meaning": "Outdoor activities become popular in summer."
+  },
+  {
+    "sentence": "夏に向けてダイエットを頑張る。",
+    "sentence_furigana": "夏【なつ】向【む】けてダイエットを頑張【がんば】る。",
+    "meaning": "I'm working hard on my diet for summer."
+  },
+  {
+    "sentence": "夏の終わりの風が心地よい。",
+    "sentence_furigana": "夏【なつ】の終【お】わりの風【かぜ】が心地【ここち】よい。",
+    "meaning": "The breeze at the end of summer is pleasant."
+  },
+  {
+    "sentence": "夏はアイスクリームがよく売れる。",
+    "sentence_furigana": "夏【なつ】はアイスクリームがよく売【う】れる。",
+    "meaning": "Ice cream sells well in summer."
+  },
+  {
+    "sentence": "夏は子供たちが元気に遊んでいる。",
+    "sentence_furigana": "夏【なつ】は子供【こども】たちが元気【げんき】に遊【あそ】んでいる。",
+    "meaning": "Children are playing energetically in the summer."
+  },
+  {
+    "sentence": "夏のキャンプは準備が大変だ。",
+    "sentence_furigana": "夏【なつ】のキャンプは準備【じゅんび】が大変【たいへん】だ。",
+    "meaning": "Summer camping requires a lot of preparation."
+  },
+  {
+    "sentence": "夏休みの間に海外旅行に行った。",
+    "sentence_furigana": "夏【なつ】休【やす】みの間【あいだ】に海外旅行【かいがいりょこう】に行【い】った。",
+    "meaning": "I went on an overseas trip during summer vacation."
+  },
+  {
+    "sentence": "夏は熱中症に注意してください。",
+    "sentence_furigana": "夏【なつ】は熱中症【ねっちゅうしょう】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful of heatstroke in summer."
+  },
+  {
+    "sentence": "夏の夜は花火大会が各地で開かれる。",
+    "sentence_furigana": "夏【なつ】の夜【よる】は花火大会【はなびたいかい】が各地【かくち】で開【ひら】かれる。",
+    "meaning": "Fireworks festivals are held in various places on summer nights."
+  },
+  {
+    "sentence": "夏は緑が一番美しい季節だ。",
+    "sentence_furigana": "夏【なつ】は緑【みどり】が一番【いちばん】美【うつく】しい季節【きせつ】だ。",
+    "meaning": "Summer is the season when greenery is most beautiful."
+  },
+  {
+    "sentence": "夏休みは計画的に過ごしたい。",
+    "sentence_furigana": "夏【なつ】休【やす】みは計画的【けいかくてき】に過【す】ごしたい。",
+    "meaning": "I want to spend summer vacation systematically."
+  },
+  {
+    "sentence": "夏の高原は涼しくて快適だ。",
+    "sentence_furigana": "夏【なつ】の高原【こうげん】は涼【すず】しくて快適【かいてき】だ。",
+    "meaning": "Summer highlands are cool and comfortable."
+  },
+  {
+    "sentence": "夏は冷たいシャワーが気持ちいい。",
+    "sentence_furigana": "夏【なつ】は冷【つめ】たいシャワーが気持【きも】ちいい。",
+    "meaning": "Cold showers feel good in summer."
+  },
+  {
+    "sentence": "夏休みはあっという間に過ぎていく。",
+    "sentence_furigana": "夏【なつ】休【やす】みはあっという間【ま】に過【す】ぎていく。",
+    "meaning": "Summer vacation passes by in the blink of an eye."
+  },
+  {
+    "sentence": "夏が旬の食材を使いたい。",
+    "sentence_furigana": "夏【なつ】が旬【しゅん】の食材【しょくざい】を使【つか】いたい。",
+    "meaning": "I want to use ingredients that are in season in summer."
+  },
+  {
+    "sentence": "夏の終わりには寂しさを感じる。",
+    "sentence_furigana": "夏【なつ】の終【お】わりには寂【さび】しさを感【かん】じる。",
+    "meaning": "I feel a sense of loneliness at the end of summer."
+  },
+  {
+    "sentence": "夏は蚊に刺されやすいので虫除けスプレーを使う。",
+    "sentence_furigana": "夏【なつ】は蚊【か】に刺【さ】されやすいので虫除【むしよ】けスプレーを使【つか】う。",
+    "meaning": "I use insect repellent spray because mosquitoes are likely to bite in summer."
+  },
+  {
+    "sentence": "夏休みの宿題は早めに片付けよう。",
+    "sentence_furigana": "夏【なつ】休【やす】みの宿題【しゅくだい】は早【はや】めに片付【かた】けよう。",
+    "meaning": "Let's get summer homework done early."
+  },
+  {
+    "sentence": "夏はスイカ割りをして遊んだ。",
+    "sentence_furigana": "夏【なつ】はスイカ割【わ】りをして遊【あそ】んだ。",
+    "meaning": "We played watermelon smashing in the summer."
+  },
+  {
+    "sentence": "夏の夜空に打ち上がる花火は美しい。",
+    "sentence_furigana": "夏【なつ】の夜空【よぞら】に打【う】ち上【あ】がる花火【はなび】は美【うつく】しい。",
+    "meaning": "Fireworks launched into the summer night sky are beautiful."
+  },
+  {
+    "sentence": "夏服への衣替えをしました。",
+    "sentence_furigana": "夏【なつ】服【ふく】への衣替【ころもが】えをしました。",
+    "meaning": "I changed my clothes to summer wear."
+  },
+  {
+    "sentence": "夏は冷たいお茶が美味しい。",
+    "sentence_furigana": "夏【なつ】は冷【つめ】たいお茶【ちゃ】がおいしい。",
+    "meaning": "Cold tea is delicious in summer."
+  },
+  {
+    "sentence": "夏にピッタリなサンダルを探しています。",
+    "sentence_furigana": "夏【なつ】にピッタリなサンダルを探【さが】しています。",
+    "meaning": "I'm looking for sandals that are perfect for summer."
+  },
+  {
+    "sentence": "夏風邪をひかないように体調管理に気をつけます。",
+    "sentence_furigana": "夏【なつ】風邪【かぜ】をひかないように体調管理【たいちょうかんり】に気【き】をつけます。",
+    "meaning": "I will pay attention to managing my health so as not to catch a summer cold."
+  },
+  {
+    "sentence": "夏休みの思い出作りに出かけよう。",
+    "sentence_furigana": "夏【なつ】休【やす】みの思【おも】い出【で】作【づく】りに出【で】かけよう。",
+    "meaning": "Let's go out to make summer vacation memories."
+  },
+  {
+    "sentence": "夏の太陽は肌に厳しい。",
+    "sentence_furigana": "夏【なつ】の太陽【たいよう】は肌【はだ】に厳【きび】しい。",
+    "meaning": "The summer sun is harsh on the skin."
+  },
+  {
+    "sentence": "夏はアイスキャンディーに限る。",
+    "sentence_furigana": "夏【なつ】はアイスキャンディーに限【かぎ】る。",
+    "meaning": "In summer, ice pops are the best."
+  },
+  {
+    "sentence": "夏の終わりを感じさせる空模様だ。",
+    "sentence_furigana": "夏【なつ】の終【お】わりを感じ【かん】じさせる空模様【そらもよう】だ。",
+    "meaning": "The sky suggests the end of summer."
+  },
+  {
+    "sentence": "夏休みの計画を立て直す。",
+    "sentence_furigana": "夏【なつ】休【やす】みの計画【けいかく】を立【た】て直【なお】す。",
+    "meaning": "I will re-plan my summer vacation."
+  },
+  {
+    "sentence": "夏は蚊取り線香の香りがする。",
+    "sentence_furigana": "夏【なつ】は蚊取【か】り線香【せんこう】の香【かお】りがする。",
+    "meaning": "The scent of mosquito coils fills the summer air."
+  },
+  {
+    "sentence": "夏の暑さに負けないように頑張ります。",
+    "sentence_furigana": "夏【なつ】の暑【あつ】さに負【ま】けないように頑張【がんば】ります。",
+    "meaning": "I will do my best not to be defeated by the summer heat."
+  },
+  {
+    "sentence": "夏は冷たいビールが最高だ。",
+    "sentence_furigana": "夏【なつ】は冷【つめ】たいビールが最高【さいこう】だ。",
+    "meaning": "Cold beer is the best in summer."
+  },
+  {
+    "sentence": "夏の思い出に花火を見た。",
+    "sentence_furigana": "夏【なつ】の思【おも】い出【で】に花火【はなび】を見【み】た。",
+    "meaning": "I watched fireworks as a summer memory."
+  },
+  {
+    "sentence": "夏休みの宿題が終わらず困っている。",
+    "sentence_furigana": "夏【なつ】休【やす】みの宿題【しゅくだい】が終【お】わらず困【こま】っている。",
+    "meaning": "I'm having trouble because my summer homework isn't finished."
+  },
+  {
+    "sentence": "夏は早く日が暮れる。",
+    "sentence_furigana": "夏【なつ】は早【はや】く日【ひ】が暮【く】れる。",
+    "meaning": "The sun sets early in summer."
+  },
+  {
+    "sentence": "夏祭りで金魚すくいをした。",
+    "sentence_furigana": "夏【なつ】祭【まつ】りで金魚【きんぎょ】すくいをした。",
+    "meaning": "I played goldfish scooping at the summer festival."
+  },
+  {
+    "sentence": "夏は蚊が多いので嫌いだ。",
+    "sentence_furigana": "夏【なつ】は蚊【か】が多【おお】いので嫌【きら】いだ。",
+    "meaning": "I dislike summer because there are many mosquitoes."
+  },
+  {
+    "sentence": "夏の終わりの風物詩は秋の気配。",
+    "sentence_furigana": "夏【なつ】の終【お】わりの風物詩【ふうぶつし】は秋【あき】の気配【けはい】。",
+    "meaning": "The symbol of the end of summer is the sign of autumn."
+  },
+  {
+    "sentence": "夏に向けて体力をつけたい。",
+    "sentence_furigana": "夏【なつ】に向【む】けて体力【たいりょく】をつけたい。",
+    "meaning": "I want to build up my stamina for summer."
+  },
+  {
+    "sentence": "夏に食べるスイカは格別においしい。",
+    "sentence_furigana": "夏【なつ】に食【た】べるスイカは格別【かくべつ】においしい。",
+    "meaning": "Watermelon eaten in summer is exceptionally delicious."
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "sentence": "学生は毎日学校で学びます。",
+    "sentence_furigana": "学生【がくせい】は毎日【まいにち】学校【がっこう】で学【まな】びます。",
+    "meaning": "Students study every day at school."
+  },
+  {
+    "sentence": "大学で経済学を勉強しています。",
+    "sentence_furigana": "大学【だいがく】で経済学【けいざいがく】を勉強【べんきょう】しています。",
+    "meaning": "I am studying economics at university."
+  },
+  {
+    "sentence": "この本は歴史学について書かれています。",
+    "sentence_furigana": "この本【ほん】は歴史学【れきしがく】について書【か】かれています。",
+    "meaning": "This book is about the study of history."
+  },
+  {
+    "sentence": "科学技術の進歩は目覚ましい。",
+    "sentence_furigana": "科学技術【かがくぎじゅつ】の進歩【しんぽ】は目覚【めざ】ましい。",
+    "meaning": "The progress of science and technology is remarkable."
+  },
+  {
+    "sentence": "彼は哲学を学んでいます。",
+    "sentence_furigana": "彼【かれ】は哲学【てつがく】を学【まな】んでいます。",
+    "meaning": "He is learning philosophy."
+  },
+  {
+    "sentence": "学校の先生が生徒に教えます。",
+    "sentence_furigana": "学校【がっこう】の先生【せんせい】が生徒【せいと】に教【おし】えます。",
+    "meaning": "The school teacher teaches the students."
+  },
+  {
+    "sentence": "文学部は多くの学生がいます。",
+    "sentence_furigana": "文学部【ぶんがくぶ】は多【おお】くの学生【がくせい】がいます。",
+    "meaning": "The literature department has many students."
+  },
+  {
+    "sentence": "医学部で医者をめざしています。",
+    "sentence_furigana": "医学部【いがくぶ】で医者【いしゃ】をめざしています。",
+    "meaning": "I am aiming to become a doctor in the medical faculty."
+  },
+  {
+    "sentence": "法学は社会のルールを学びます。",
+    "sentence_furigana": "法学【ほうがく】は社会【しゃかい】のルールを学【まな】びます。",
+    "meaning": "Law studies the rules of society."
+  },
+  {
+    "sentence": "生物学は生命の不思議を研究する学問です。",
+    "sentence_furigana": "生物学【せいぶつがく】は生命【せいめい】の不思議【ふしぎ】を研究【けんきゅう】する学問【がくもん】です。",
+    "meaning": "Biology is the study that researches the wonders of life."
+  },
+  {
+    "sentence": "化学の実験で新しい発見がありました。",
+    "sentence_furigana": "化学【かがく】の実験【じっけん】で新【あたら】しい発見【はっけん】がありました。",
+    "meaning": "There was a new discovery in the chemistry experiment."
+  },
+  {
+    "sentence": "この学校は教育に力を入れています。",
+    "sentence_furigana": "この学校【がっこう】は教育【きょういく】に力【ちから】を入【い】れています。",
+    "meaning": "This school focuses on education."
+  },
+  {
+    "sentence": "外国語を学ぶのは楽しいです。",
+    "sentence_furigana": "外国語【がいこくご】を学【まな】ぶのは楽【たの】しいです。",
+    "meaning": "Learning a foreign language is fun."
+  },
+  {
+    "sentence": "彼は優れた学者です。",
+    "sentence_furigana": "彼【かれ】は優【すぐ】れた学者【がくしゃ】です。",
+    "meaning": "He is an excellent scholar."
+  },
+  {
+    "sentence": "新しい知識を学ぶことは大切です。",
+    "sentence_furigana": "新【あたら】しい知識【ちしき】を学【まな】ぶことは大切【たいせつ】です。",
+    "meaning": "It is important to learn new knowledge."
+  },
+  {
+    "sentence": "学校生活は楽しい思い出がたくさんあります。",
+    "sentence_furigana": "学校生活【がっこうせいかつ】は楽【たの】しい思【おも】い出【で】がたくさんあります。",
+    "meaning": "School life has many fun memories."
+  },
+  {
+    "sentence": "図書館で学習します。",
+    "sentence_furigana": "図書館【としょかん】で学習【がくしゅう】します。",
+    "meaning": "I study at the library."
+  },
+  {
+    "sentence": "数学は論理的な思考を養います。",
+    "sentence_furigana": "数学【すうがく】は論理的【ろんりてき】な思考【しこう】を養【やしな】います。",
+    "meaning": "Mathematics cultivates logical thinking."
+  },
+  {
+    "sentence": "美術を学ぶことで感性が豊かになります。",
+    "sentence_furigana": "美術【びじゅつ】を学【まな】ぶことで感性【かんせい】が豊【ゆた】かになります。",
+    "meaning": "By studying art, one's sensibility becomes richer."
+  },
+  {
+    "sentence": "この大学は教育学の研究で有名です。",
+    "sentence_furigana": "この大学【だいがく】は教育学【きょういくがく】の研究【けんきゅう】で有名【ゆうめい】です。",
+    "meaning": "This university is famous for its research in education."
+  },
+  {
+    "sentence": "彼はコンピューター科学を専攻しています。",
+    "sentence_furigana": "彼【かれ】はコンピューター科学【かがく】を専攻【せんこう】しています。",
+    "meaning": "He is majoring in computer science."
+  },
+  {
+    "sentence": "考古学者は古い遺跡を調査します。",
+    "sentence_furigana": "考古学【こうこがく】者【しゃ】は古【ふる】い遺跡【いせき】を調査【ちょうさ】します。",
+    "meaning": "Archaeologists investigate old ruins."
+  },
+  {
+    "sentence": "彼は新しい言語を学ぶのが得意だ。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい言語【げんご】を学【まな】ぶのが得意【とくい】だ。",
+    "meaning": "He is good at learning new languages."
+  },
+  {
+    "sentence": "彼女は外国の文化を学びたいと思っている。",
+    "sentence_furigana": "彼女【かのじょ】は外国【がいこく】の文化【ぶんか】を学【まな】びたいと思【おも】っている。",
+    "meaning": "She wants to learn about foreign cultures."
+  },
+  {
+    "sentence": "学校でさまざまなことを学びました。",
+    "sentence_furigana": "学校【がっこう】でさまざま【】なことを学【まな】びました。",
+    "meaning": "I learned various things at school."
+  },
+  {
+    "sentence": "多くの学生が留学を希望しています。",
+    "sentence_furigana": "多【おお】くの学生【がくせい】が留学【りゅうがく】を希望【きぼう】しています。",
+    "meaning": "Many students wish to study abroad."
+  },
+  {
+    "sentence": "彼は歴史学の権威です。",
+    "sentence_furigana": "彼【かれ】は歴史学【れきしがく】の権威【けんい】です。",
+    "meaning": "He is an authority on history."
+  },
+  {
+    "sentence": "音楽を学ぶことは心を豊かにします。",
+    "sentence_furigana": "音楽【おんがく】を学【まな】ぶことは心【こころ】を豊【ゆた】かにします。",
+    "meaning": "Learning music enriches the soul."
+  },
+  {
+    "sentence": "この大学の工学部は有名です。",
+    "sentence_furigana": "この大学【だいがく】の工学部【こうがくぶ】は有名【ゆうめい】です。",
+    "meaning": "This university's engineering faculty is famous."
+  },
+  {
+    "sentence": "彼女は社会学を学びました。",
+    "sentence_furigana": "彼女【かのじょ】は社会学【しゃかいがく】を学【まな】びました。",
+    "meaning": "She studied sociology."
+  },
+  {
+    "sentence": "科学の進歩は私たちの生活を便利にしました。",
+    "sentence_furigana": "科学【かがく】の進歩【しんぽ】は私【わたし】たちの生活【せいかつ】を便利【べんり】にしました。",
+    "meaning": "The progress of science has made our lives convenient."
+  },
+  {
+    "sentence": "学校で友達と楽しく学びました。",
+    "sentence_furigana": "学校【がっこう】で友達【ともだち】と楽【たの】しく学【まな】びました。",
+    "meaning": "I enjoyed learning with friends at school."
+  },
+  {
+    "sentence": "彼は経済学の知識が豊富です。",
+    "sentence_furigana": "彼【かれ】は経済学【けいざいがく】の知識【ちしき】が豊富【ほうふ】です。",
+    "meaning": "He has abundant knowledge of economics."
+  },
+  {
+    "sentence": "この研究所では最新の科学技術を研究しています。",
+    "sentence_furigana": "この研究所【けんきゅうじょ】では最新【さいしん】の科学技術【かがくぎじゅつ】を研究【けんきゅう】しています。",
+    "meaning": "This research institute studies the latest science and technology."
+  },
+  {
+    "sentence": "彼は心理学を学び、人の心を理解しようとしている。",
+    "sentence_furigana": "彼【かれ】は心理学【しんりがく】を学【まな】び、人【ひと】の心【こころ】を理解【りかい】しようとしている。",
+    "meaning": "He is studying psychology and trying to understand the human mind."
+  },
+  {
+    "sentence": "学生たちは活発に議論に参加しました。",
+    "sentence_furigana": "学生【がくせい】たち【】は活発【かっぱつ】に議論【ぎろん】に参加【さんか】しました。",
+    "meaning": "The students actively participated in the discussion."
+  },
+  {
+    "sentence": "学校で友情を育むことができます。",
+    "sentence_furigana": "学校【がっこう】で友情【ゆうじょう】を育【はぐく】むことができます。",
+    "meaning": "You can foster friendships at school."
+  },
+  {
+    "sentence": "彼は新しい学説を発表しました。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい学説【がくせつ】を発表【はっぴょう】しました。",
+    "meaning": "He announced a new theory."
+  },
+  {
+    "sentence": "外国の大学で学ぶことを夢見ています。",
+    "sentence_furigana": "外国【がいこく】の大学【だいがく】で学【まな】ぶことを夢見【ゆめみ】ています。",
+    "meaning": "I dream of studying at a foreign university."
+  },
+  {
+    "sentence": "彼女は大学で文学を教えています。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で文学【ぶんがく】を教【おし】えています。",
+    "meaning": "She teaches literature at university."
+  },
+  {
+    "sentence": "この問題は科学的に証明されていません。",
+    "sentence_furigana": "この問題【もんだい】は科学的【かがくてき】に証明【しょうめい】されていません。",
+    "meaning": "This problem has not been scientifically proven."
+  },
+  {
+    "sentence": "彼は大学院で法学を研究しています。",
+    "sentence_furigana": "彼【かれ】は大学院【だいがくいん】で法学【ほうがく】を研究【けんきゅう】しています。",
+    "meaning": "He is studying law at graduate school."
+  },
+  {
+    "sentence": "学生一人ひとりが個性を持っています。",
+    "sentence_furigana": "学生【がくせい】一人ひとり【】が個性【こせい】を持【も】っています。",
+    "meaning": "Each student has their own individuality."
+  },
+  {
+    "sentence": "学校は知識を学ぶ場所です。",
+    "sentence_furigana": "学校【がっこう】は知識【ちしき】を学【まな】ぶ場所【ばしょ】です。",
+    "meaning": "School is a place to learn knowledge."
+  },
+  {
+    "sentence": "彼は政治学を学ぶことに興味があります。",
+    "sentence_furigana": "彼【かれ】は政治学【せいじがく】を学【まな】ぶことに興味【きょうみ】があります。",
+    "meaning": "He is interested in studying political science."
+  },
+  {
+    "sentence": "多くの学生がスポーツに打ち込んでいます。",
+    "sentence_furigana": "多【おお】くの学生【がくせい】がスポーツに打【う】ち込【こ】んでいます。",
+    "meaning": "Many students are devoted to sports."
+  },
+  {
+    "sentence": "彼女は新しい文化を学ぶことを楽しんでいます。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい文化【ぶんか】を学【まな】ぶことを楽【たの】しんでいます。",
+    "meaning": "She enjoys learning about new cultures."
+  },
+  {
+    "sentence": "この大学は教育学部が有名です。",
+    "sentence_furigana": "この大学【だいがく】は教育学部【きょういくがくぶ】が有名【ゆうめい】です。",
+    "meaning": "This university is famous for its faculty of education."
+  },
+  {
+    "sentence": "彼は地理学を学び、世界を旅したいと言っています。",
+    "sentence_furigana": "彼【かれ】は地理学【ちりがく】を学【まな】び、世界【せかい】を旅【たび】したいと言【い】っています。",
+    "meaning": "He is studying geography and wants to travel the world."
+  },
+  {
+    "sentence": "学校の図書館は広く、多くの本があります。",
+    "sentence_furigana": "学校【がっこう】の図書館【としょかん】は広【ひろ】く、多【おお】くの本【ほん】があります。",
+    "meaning": "The school library is large and has many books."
+  },
+  {
+    "sentence": "彼は化学の才能があるようです。",
+    "sentence_furigana": "彼【かれ】は化学【かがく】の才能【さいのう】があるようです。",
+    "meaning": "He seems to have a talent for chemistry."
+  },
+  {
+    "sentence": "学ぶことは人生を豊かにします。",
+    "sentence_furigana": "学【まな】ぶことは人生【じんせい】を豊【ゆた】かにします。",
+    "meaning": "Learning enriches life."
+  },
+  {
+    "sentence": "彼女は大学で工学を専攻しました。",
+    "sentence_furigana": "彼女【かのじょ】は大学【だいがく】で工学【こうがく】を専攻【せんこう】しました。",
+    "meaning": "She majored in engineering at university."
+  },
+  {
+    "sentence": "この学校は国際交流を盛んに行っています。",
+    "sentence_furigana": "この学校【がっこう】は国際交流【こくさいこうりゅう】を盛【さか】んに行【おこな】っています。",
+    "meaning": "This school actively promotes international exchange."
+  },
+  {
+    "sentence": "彼は文学作品から多くを学んだ。",
+    "sentence_furigana": "彼【かれ】は文学作品【ぶんがくさくひん】から多【おお】くを学【まな】んだ。",
+    "meaning": "He learned a lot from literary works."
+  },
+  {
+    "sentence": "学校は生徒の成長を支援する場所です。",
+    "sentence_furigana": "学校【がっこう】は生徒【せ ತೊ】の成長【せいちょう】を支援【しえん】する場所【ばしょ】です。",
+    "meaning": "School is a place that supports student growth."
+  },
+  {
+    "sentence": "彼は経済学の理論を研究しています。",
+    "sentence_furigana": "彼【かれ】は経済学【けいざいがく】の理論【りろん】を研究【けんきゅう】しています。",
+    "meaning": "He is researching economic theories."
+  },
+  {
+    "sentence": "彼女は新しい言語を学ぶことに熱心です。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい言語【げんご】を学【まな】ぶことに熱心【ねっしん】です。",
+    "meaning": "She is enthusiastic about learning new languages."
+  },
+  {
+    "sentence": "科学は自然の法則を探求する学問です。",
+    "sentence_furigana": "科学【かがく】は自然【しぜん】の法則【ほうそく】を探求【たんきゅう】する学問【がくもん】です。",
+    "meaning": "Science is the study that explores the laws of nature."
+  },
+  {
+    "sentence": "学生たちは将来のために学んでいます。",
+    "sentence_furigana": "学生【がくせい】たちは将来【しょうらい】のために学【まな】んでいます。",
+    "meaning": "Students are learning for their future."
+  },
+  {
+    "sentence": "彼は医学の分野で貢献したいと考えている。",
+    "sentence_furigana": "彼【かれ】は医学【いがく】の分野【ぶんや】で貢献【こうけん】したいと思【おも】っている。",
+    "meaning": "He wants to contribute to the field of medicine."
+  },
+  {
+    "sentence": "学校での学びは人生の糧となります。",
+    "sentence_furigana": "学校【がっこう】での学【まな】びは人生【じんせい】の糧【かて】となります。",
+    "meaning": "Learning at school becomes sustenance for life."
+  },
+  {
+    "sentence": "彼女は美術史を学ぶことに情熱を注いでいる。",
+    "sentence_furigana": "彼女【かのじょ】は美術史【びじゅつし】を学【まな】ぶことに情熱【じょうねつ】を注【そそ】いでいる。",
+    "meaning": "She is passionate about studying art history."
+  },
+  {
+    "sentence": "この学者は多くの賞を受賞しました。",
+    "sentence_furigana": "この学者【がくしゃ】は多【おお】くの賞【しょう】を受賞【じゅしょう】しました。",
+    "meaning": "This scholar has received many awards."
+  },
+  {
+    "sentence": "学生の自主性を尊重する教育が行われています。",
+    "sentence_furigana": "学生【がくせい】の自主性【じしゅせい】を尊重【そんちょう】する教育【きょういく】が行【おこな】われています。",
+    "meaning": "Education that respects student autonomy is being provided."
+  },
+  {
+    "sentence": "彼は物理学の理論を理解するのが難しいと言っています。",
+    "sentence_furigana": "彼【かれ】は物理学【ぶつりがく】の理論【りろん】を理解【りかい】するのが難【むずか】しいと言【い】っています。",
+    "meaning": "He says it's difficult to understand the theories of physics."
+  },
+  {
+    "sentence": "学校は社会の基盤を築く重要な場所です。",
+    "sentence_furigana": "学校【がっこう】は社会【しゃかい】の基盤【きばん】を築【きず】く重要【じゅうよう】な場所【ばしょ】です。",
+    "meaning": "School is an important place that builds the foundation of society."
+  },
+  {
+    "sentence": "彼女は外国の大学で日本語学を研究しています。",
+    "sentence_furigana": "彼女【かのじょ】は外国【がいこく】の大学【だいがく】で日本語学【にほんごがく】を研究【けんきゅう】しています。",
+    "meaning": "She is studying Japanese linguistics at a foreign university."
+  },
+  {
+    "sentence": "彼は新しい知識を学ぶことに貪欲です。",
+    "sentence_furigana": "彼【かれ】は新【あたら】しい知識【ちしき】を学【まな】ぶことに貪欲【どんよく】です。",
+    "meaning": "He is greedy for learning new knowledge."
+  },
+  {
+    "sentence": "多くの学生が未来のために努力しています。",
+    "sentence_furigana": "多【おお】くの学生【がくせい】が未来【みらい】のために努力【どりょく】しています。",
+    "meaning": "Many students are working hard for their future."
+  },
+  {
+    "sentence": "学校は子供たちの学びの場を提供します。",
+    "sentence_furigana": "学校【がっこう】は子供【こども】たちの学【まな】びの場【ば】を提供【ていきょう】します。",
+    "meaning": "Schools provide a place for children to learn."
+  },
+  {
+    "sentence": "彼は歴史学の教授として活躍しています。",
+    "sentence_furigana": "彼【かれ】は歴史学【れきしがく】の教授【きょうじゅ】として活躍【かつやく】しています。",
+    "meaning": "He is active as a professor of history."
+  },
+  {
+    "sentence": "彼女は科学技術の発展に貢献したいと言っています。",
+    "sentence_furigana": "彼女【かのじょ】は科学技術【かがくぎじゅつ】の発展【はってん】に貢献【こうけん】したいと言【い】っています。",
+    "meaning": "She wants to contribute to the development of science and technology."
+  },
+  {
+    "sentence": "大学で学ぶことは将来の可能性を広げます。",
+    "sentence_furigana": "大学【だいがく】で学【まな】ぶことは将来【しょうらい】の可能性【かのうせい】を広【ひろ】げます。",
+    "meaning": "Studying at university broadens future possibilities."
+  },
+  {
+    "sentence": "彼は心理学の本を読んでいます。",
+    "sentence_furigana": "彼【かれ】は心理学【しんりがく】の本【ほん】を読【よ】んでいます。",
+    "meaning": "He is reading a book on psychology."
+  },
+  {
+    "sentence": "学校は社会を構成する人材を育成します。",
+    "sentence_furigana": "学校【がっこう】は社会【しゃかい】を構成【こうせい】する人材【じんざい】を育成【いくせい】します。",
+    "meaning": "Schools nurture personnel who constitute society."
+  },
+  {
+    "sentence": "彼女は新しい知識を学ぶことを楽しんでいます。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい知識【ちしき】を学【まな】ぶことを楽【たの】しんでいます。",
+    "meaning": "She enjoys learning new knowledge."
+  },
+  {
+    "sentence": "彼は医学の進歩に貢献しました。",
+    "sentence_furigana": "彼【かれ】は医学【いがく】の進歩【しんぽ】に貢献【こうけん】しました。",
+    "meaning": "He contributed to the advancement of medicine."
+  },
+  {
+    "sentence": "学校での経験は貴重な財産となります。",
+    "sentence_furigana": "学校【がっこう】での経験【けいけん】は貴重【きちょう】な財産【ざいさん】となります。",
+    "meaning": "Experiences at school become valuable assets."
+  },
+  {
+    "sentence": "彼女は文学の道を志しています。",
+    "sentence_furigana": "彼女【かのじょ】は文学【ぶんがく】の道【みち】を志【こころざ】しています。",
+    "meaning": "She aspires to a career in literature."
+  },
+  {
+    "sentence": "この学者は多くの研究を発表しています。",
+    "sentence_furigana": "この学者【がくしゃ】は多【おお】くの研究【けんきゅう】を発表【はっぴょう】しています。",
+    "meaning": "This scholar is publishing a lot of research."
+  },
+  {
+    "sentence": "学生たちは未来の社会を担う存在です。",
+    "sentence_furigana": "学生【がくせい】たちは未来【みらい】の社会【しゃかい】を担【にな】う存在【そんざい】です。",
+    "meaning": "Students are beings who will bear the future society."
+  },
+  {
+    "sentence": "彼は言語学に興味があり、多くの言語を学びたいと考えている。",
+    "sentence_furigana": "彼【かれ】は言語学【げんごがく】に興味【きょうみ】があり、多【おお】くの言語【げんご】を学【まな】びたいと思【おも】っている。",
+    "meaning": "He is interested in linguistics and wants to learn many languages."
+  },
+  {
+    "sentence": "学校は教育を通じて社会に貢献します。",
+    "sentence_furigana": "学校【がっこう】は教育【きょういく】を通【つう】じて社会【しゃかい】に貢献【こうけん】します。",
+    "meaning": "Schools contribute to society through education."
+  },
+  {
+    "sentence": "彼女は経済学の最新の研究動向を追っています。",
+    "sentence_furigana": "彼女【かのじょ】は経済学【けいざいがく】の最新【さいしん】の研究動向【けんきゅうどうこう】を追【お】っています。",
+    "meaning": "She is following the latest research trends in economics."
+  },
+  {
+    "sentence": "科学の発展は人類の進歩に不可欠です。",
+    "sentence_furigana": "科学【かがく】の発展【はってん】は人類【じんるい】の進歩【しんぽ】に不可欠【ふかけつ】です。",
+    "meaning": "The development of science is indispensable for human progress."
+  },
+  {
+    "sentence": "学生たちは新しい知識を積極的に学びます。",
+    "sentence_furigana": "学生【がくせい】たちは新【あたら】しい知識【ちしき】を積極的【せっきょくてき】に学【まな】びます。",
+    "meaning": "Students actively learn new knowledge."
+  },
+  {
+    "sentence": "彼は法学の分野でキャリアを築きたいと考えている。",
+    "sentence_furigana": "彼【かれ】は法学【ほうがく】の分野【ぶんや】でキャリアを築【きず】きたいと思【おも】っている。",
+    "meaning": "He wants to build a career in the field of law."
+  },
+  {
+    "sentence": "学校での学びは一生の宝です。",
+    "sentence_furigana": "学校【がっこう】での学【まな】びは一生【いっしょう】の宝【たから】です。",
+    "meaning": "Learning at school is a lifelong treasure."
+  },
+  {
+    "sentence": "彼女は音楽学の博士号を取得しました。",
+    "sentence_furigana": "彼女【かのじょ】は音楽学【おんがくがく】の博士号【はくしごう】を取得【しゅとく】しました。",
+    "meaning": "She obtained a doctorate in musicology."
+  },
+  {
+    "sentence": "この学者は多くの国際会議で発表しています。",
+    "sentence_furigana": "この学者【がくしゃ】は多【おお】くの国際会議【こくさいかいぎ】で発表【はっぴょう】しています。",
+    "meaning": "This scholar is presenting at many international conferences."
+  },
+  {
+    "sentence": "学生たちは社会の一員として責任を学びます。",
+    "sentence_furigana": "学生【がくせい】たちは社会【しゃかい】の一員【いちいん】として責任【せきにん】を学【まな】びます。",
+    "meaning": "Students learn responsibility as members of society."
+  },
+  {
+    "sentence": "彼は哲学を学ぶことで人生の意味を深く考えている。",
+    "sentence_furigana": "彼【かれ】は哲学【てつがく】を学【まな】ぶことで人生【じんせい】の意味【いみ】を深【ふか】く考【かんが】えています。",
+    "meaning": "By studying philosophy, he is deeply contemplating the meaning of life."
+  },
+  {
+    "sentence": "学校は子供たちの学びをサポートする重要な機関です。",
+    "sentence_furigana": "学校【がっこう】は子供【こども】たちの学【まな】びをサポートする重要【じゅうよう】な機関【きかん】です。",
+    "meaning": "Schools are important institutions that support children's learning."
+  },
+  {
+    "sentence": "彼女は外国の文化を学ぶことに熱意を持っています。",
+    "sentence_furigana": "彼女【かのじょ】は外国【がいこく】の文化【ぶんか】を学【まな】ぶことに熱意【ねつい】を持【も】っています。",
+    "meaning": "She has enthusiasm for learning foreign cultures."
+  },
+  {
+    "sentence": "彼は化学の知識を活かして新しい製品を開発しました。",
+    "sentence_furigana": "彼【かれ】は化学【かがく】の知識【ちしき】を活【い】かして新【あたら】しい製品【せいひん】を開発【かいはつ】しました。",
+    "meaning": "He utilized his knowledge of chemistry to develop new products."
+  },
+  {
+    "sentence": "学校は社会を形成する上で不可欠な存在です。",
+    "sentence_furigana": "学校【がっこう】は社会【しゃかい】を形成【けいせい】する上【うえ】で不可欠【ふかけつ】な存在【そんざい】です。",
+    "meaning": "Schools are indispensable in shaping society."
+  },
+  {
+    "sentence": "彼女は文学作品の魅力を多くの人に伝えたいと思っています。",
+    "sentence_furigana": "彼女【かのじょ】は文学作品【ぶんがくさくひん】の魅力【みりょく】を多【おお】くの人【ひと】に伝【つた】えたいと思【おも】っています。",
+    "meaning": "She wants to convey the charm of literary works to many people."
+  },
+  {
+    "sentence": "彼は大学で政治学を学び、国際関係について研究しています。",
+    "sentence_furigana": "彼【かれ】は大学【だいがく】で政治学【せいじがく】を学【まな】び、国際関係【こくさいかんけい】について研究【けんきゅう】しています。",
+    "meaning": "He studies political science at university and researches international relations."
+  },
+  {
+    "sentence": "学校教育は、社会の持続可能な発展に貢献します。",
+    "sentence_furigana": "学校教育【がっこうきょういく】は、社会【しゃかい】の持続可能【じぞくかのう】な発展【はってん】に貢献【こうけん】します。",
+    "meaning": "School education contributes to the sustainable development of society."
+  },
+  {
+    "sentence": "彼女は科学の不思議に魅了され、研究者を目指しています。",
+    "sentence_furigana": "彼女【かのじょ】は科学【かがく】の不思議【ふしぎ】に魅了【みりょう】され、研究者【けんきゅうしゃ】を目指【めざ】しています。",
+    "meaning": "She is fascinated by the wonders of science and aims to be a researcher."
+  },
+  {
+    "sentence": "彼は数学の難問を解くことに情熱を燃やしています。",
+    "sentence_furigana": "彼【かれ】は数学【すうがく】の難問【なんもん】を解【と】くことに情熱【じょうねつ】を燃【も】やしています。",
+    "meaning": "He is passionate about solving difficult math problems."
+  },
+  {
+    "sentence": "学校は学生たちが社会で活躍するための基盤を築く場所です。",
+    "sentence_furigana": "学校【がっこう】は学生【がくせい】たちが社会【しゃかい】で活躍【かつやく】するための基盤【きばん】を築【きず】く場所【ばしょ】です。",
+    "meaning": "School is a place that builds the foundation for students to succeed in society."
+  }
+]

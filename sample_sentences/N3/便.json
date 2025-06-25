@@ -1,0 +1,462 @@
+[
+  {
+    "sentence": "このトイレはとても便利です。",
+    "sentence_furigana": "このトイレはとても便利【べんり】です。",
+    "meaning": "This toilet is very convenient."
+  },
+  {
+    "sentence": "急いでいるので、タクシーで移動します。",
+    "sentence_furigana": "急【いそ】いでいるので、タクシーで移動【いどう】します。",
+    "meaning": "I'm in a hurry, so I'll travel by taxi."
+  },
+  {
+    "sentence": "この薬は服用に便利です。",
+    "sentence_furigana": "この薬【くすり】は服用【ふくよう】に便利【べんり】です。",
+    "meaning": "This medicine is convenient to take."
+  },
+  {
+    "sentence": "彼は会議に遅れるため、特別便を利用した。",
+    "sentence_furigana": "彼【かれ】は会議【かいぎ】に遅【おく】れるため、特別便【とくべつびん】を利用【りよう】した。",
+    "meaning": "He used a special flight to avoid being late for the meeting."
+  },
+  {
+    "sentence": "このサービスは生活を便利にする。",
+    "sentence_furigana": "このサービスは生活【せいかつ】を便利【べんり】にする。",
+    "meaning": "This service makes life convenient."
+  },
+  {
+    "sentence": "郵便局は便利な場所にあります。",
+    "sentence_furigana": "郵便局【ゆうびんきょく】は便利【べんり】な場所【ばしょ】にあります。",
+    "meaning": "The post office is in a convenient location."
+  },
+  {
+    "sentence": "この駅は交通の便が良い。",
+    "sentence_furigana": "この駅【えき】は交通【こうつう】の便【べん】が良い【よい】。",
+    "meaning": "This station has good transportation convenience."
+  },
+  {
+    "sentence": "朝食は簡単に済ませたい。",
+    "sentence_furigana": "朝食【ちょうしょく】は簡単【かんたん】に済【す】ませたい。",
+    "meaning": "I want to have a simple breakfast."
+  },
+  {
+    "sentence": "健康のために食物繊維を摂るように心がけている。",
+    "sentence_furigana": "健康【けんこう】のため【ため】に食物繊維【しょくもつせんい】を摂【と】るように心【こころ】がけている。",
+    "meaning": "I try to consume dietary fiber for my health."
+  },
+  {
+    "sentence": "この商品の利便性を高めたい。",
+    "sentence_furigana": "この商品【しょうひん】の利便性【りべんせい】を高【たか】めたい。",
+    "meaning": "I want to increase the convenience of this product."
+  },
+  {
+    "sentence": "出張の際には、できるだけ都合の良い便を選ぶ。",
+    "sentence_furigana": "出張【しゅっちょう】の際【さい】には、できるだけ都合【つごう】の良い【よい】便【びん】を選【えら】ぶ。",
+    "meaning": "When on a business trip, I choose the most convenient flight if possible."
+  },
+  {
+    "sentence": "彼は健康な便を出すために野菜をたくさん食べている。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】な便【べん】を出【だ】すために野菜【やさい】をたくさん食【た】べている。",
+    "meaning": "He eats a lot of vegetables to have healthy bowel movements."
+  },
+  {
+    "sentence": "この店は夜遅くまで開いていて便利だ。",
+    "sentence_furigana": "この店【みせ】は夜遅【よるおそ】くまで開【あ】いていて便利【べんり】だ。",
+    "meaning": "This shop is open late at night and is convenient."
+  },
+  {
+    "sentence": "長距離移動の便が改善された。",
+    "sentence_furigana": "長距離移動【ちょうきょりいどう】の便【べん】が改善【かいぜん】された。",
+    "meaning": "Long-distance travel convenience has been improved."
+  },
+  {
+    "sentence": "彼女は仕事が忙しいので、簡単な料理を作る。",
+    "sentence_furigana": "彼女【かのじょ】は仕事【しごと】が忙【いそが】しいので、簡単【かんたん】な料理【りょうり】を作【つく】る。",
+    "meaning": "Since she is busy with work, she makes simple dishes."
+  },
+  {
+    "sentence": "公共交通機関の便が悪い地域がある。",
+    "sentence_furigana": "公共交通機関【こうきょうこうつうきかん】の便【べん】が悪【わる】い地域【ちいき】がある。",
+    "meaning": "There are areas where public transportation is not convenient."
+  },
+  {
+    "sentence": "このバッグはたくさん入るので便利だ。",
+    "sentence_furigana": "このバッグはたくさん入【はい】るので便利【べんり】だ。",
+    "meaning": "This bag is convenient because it holds a lot."
+  },
+  {
+    "sentence": "彼は排便の習慣について医師に相談した。",
+    "sentence_furigana": "彼【かれ】は排便【はいべん】の習慣【しゅうかん】について医師【いし】に相談【そうだん】した。",
+    "meaning": "He consulted a doctor about his bowel habits."
+  },
+  {
+    "sentence": "この地域の便益を最大化する計画がある。",
+    "sentence_furigana": "この地域【ちいき】の便益【べんえき】を最大化【さいだいか】する計画【けいかく】がある。",
+    "meaning": "There is a plan to maximize the benefits of this region."
+  },
+  {
+    "sentence": "最新の乗り換え案内アプリは非常に便利だ。",
+    "sentence_furigana": "最新【さいしん】の乗換案内【のりかえあんない】アプリは非常【ひじょう】に便利【べんり】だ。",
+    "meaning": "The latest transfer guide app is very convenient."
+  },
+  {
+    "sentence": "彼女は手紙を書いて、友人の近況を尋ねた。",
+    "sentence_furigana": "彼女【かのじょ】は手紙【てがみ】を書【か】いて、友人【ゆうじん】の近況【きんきょう】を尋【たず】ねた。",
+    "meaning": "She wrote a letter to ask about her friend's recent situation."
+  },
+  {
+    "sentence": "この商品は組み立てが簡単で、設置も便利です。",
+    "sentence_furigana": "この商品【しょうひん】は組立【くみた】てが簡単【かんたん】で、設置【せっち】も便利【べんり】です。",
+    "meaning": "This product is easy to assemble and convenient to install."
+  },
+  {
+    "sentence": "今日の便は少し硬かった。",
+    "sentence_furigana": "今日【きょう】の便【べん】は少【すこ】し硬【かた】かった。",
+    "meaning": "My stool today was a bit hard."
+  },
+  {
+    "sentence": "この駅はバスターミナルに隣接しており、乗り換えに便利だ。",
+    "sentence_furigana": "この駅【えき】はバスターミナルに隣接【りんせつ】しており、乗換【のりか】えに便利【べんり】だ。",
+    "meaning": "This station is adjacent to the bus terminal, making transfers convenient."
+  },
+  {
+    "sentence": "彼は毎日の排便リズムを整えるよう心がけている。",
+    "sentence_furigana": "彼【かれ】は毎日【まいにち】の排便【はいべん】リズムを整【ととの】えるよう心【こころ】がけている。",
+    "meaning": "He tries to regulate his daily bowel movement rhythm."
+  },
+  {
+    "sentence": "この地域では、航空便の利用が不可欠だ。",
+    "sentence_furigana": "この地域【ちいき】では、航空便【こうくうびん】の利用【りよう】が不可欠【ふかけつ】だ。",
+    "meaning": "In this region, using airmail is essential."
+  },
+  {
+    "sentence": "最新のオフィス機器は非常に便利だ。",
+    "sentence_furigana": "最新【さいしん】のオフィス機器【きき】は非常【ひじょう】に便利【べんり】だ。",
+    "meaning": "The latest office equipment is very convenient."
+  },
+  {
+    "sentence": "彼は健康診断で便潜血検査を受けた。",
+    "sentence_furigana": "彼【かれ】は健康診断【けんこうしんだん】で便潜血検査【べんせんけつけんさ】を受【う】けた。",
+    "meaning": "He underwent a fecal occult blood test during his health check-up."
+  },
+  {
+    "sentence": "この図書館は駅から近く、利用に便利だ。",
+    "sentence_furigana": "この図書館【としょかん】は駅【えき】から近【ちか】く、利用【りよう】に便利【べんり】だ。",
+    "meaning": "This library is close to the station and convenient to use."
+  },
+  {
+    "sentence": "彼は出張先から手紙を送ってきた。",
+    "sentence_furigana": "彼【かれ】は出張先【しゅっちょうさき】から手紙【てがみ】を送【おく】ってきた。",
+    "meaning": "He sent a letter from his business trip destination."
+  },
+  {
+    "sentence": "この自動販売機は設置場所が便利だ。",
+    "sentence_furigana": "この自動販売機【じどうはんばいき】は設置場所【せっちばしょ】が便利【べんり】だ。",
+    "meaning": "The location of this vending machine is convenient."
+  },
+  {
+    "sentence": "健康的な食事は規則正しい排便を促します。",
+    "sentence_furigana": "健康的【けんこうてき】な食事【しょくじ】は規則正【きそくただ】しい排便【はいべん】を促【うなが】します。",
+    "meaning": "A healthy diet promotes regular bowel movements."
+  },
+  {
+    "sentence": "このスマートホームシステムは生活をより便利にする。",
+    "sentence_furigana": "このスマートホームシステムは生活【せいかつ】をより便利【べんり】にする。",
+    "meaning": "This smart home system makes life more convenient."
+  },
+  {
+    "sentence": "会議の時間を変更できるか、都合の良い便を教えてください。",
+    "sentence_furigana": "会議【かいぎ】の時間【じかん】を変更【へんこう】できるか、都合【つごう】の良い【よい】便【びん】を教【おし】えてください。",
+    "meaning": "Can we change the meeting time? Please let me know a convenient flight."
+  },
+  {
+    "sentence": "彼女はいつも親切な手紙をくれる。",
+    "sentence_furigana": "彼女【かのじょ】はいつも親切【しんせつ】な手紙【てがみ】をくれる。",
+    "meaning": "She always gives me kind letters."
+  },
+  {
+    "sentence": "この地域は交通の便が良く、住みやすい。",
+    "sentence_furigana": "この地域【ちいき】は交通【こうつう】の便【べん】が良【よ】く、住【す】みやすい。",
+    "meaning": "This area has good transportation convenience and is easy to live in."
+  },
+  {
+    "sentence": "この薬は携帯に便利だ。",
+    "sentence_furigana": "この薬【くすり】は携帯【けいたい】に便利【べんり】だ。",
+    "meaning": "This medicine is convenient to carry."
+  },
+  {
+    "sentence": "彼は健康維持のため、毎日ヨーグルトを食べている。",
+    "sentence_furigana": "彼【かれ】は健康維持【けんこういじ】のため【ため】に毎日【まいにち】ヨーグルトを食【た】べている。",
+    "meaning": "He eats yogurt every day to maintain his health."
+  },
+  {
+    "sentence": "この新しいショッピングモールはとても便利だ。",
+    "sentence_furigana": "この新【あたら】しいショッピングモールはとても便利【べんり】だ。",
+    "meaning": "This new shopping mall is very convenient."
+  },
+  {
+    "sentence": "彼女は毎月、母親に手紙を書く。",
+    "sentence_furigana": "彼女【かのじょ】は毎月【まいげつ】、母親【ははおや】に手紙【てがみ】を書【か】く。",
+    "meaning": "She writes a letter to her mother every month."
+  },
+  {
+    "sentence": "この地区は公共交通機関が発達していて便利だ。",
+    "sentence_furigana": "この地区【ちく】は公共交通機関【こうきょうこうつうきかん】が発達【はったつ】していて便利【べんり】だ。",
+    "meaning": "Public transportation is developed and convenient in this district."
+  },
+  {
+    "sentence": "早朝便を利用して、できるだけ早く現地に到着したい。",
+    "sentence_furigana": "早朝便【そうちょうびん】を利用【りよう】して、できるだけ早【はや】く現地【げんち】に到着【とうちゃく】したい。",
+    "meaning": "I want to use the early morning flight to arrive at the location as soon as possible."
+  },
+  {
+    "sentence": "このリフォームで、キッチンの使い勝手が良くなった。",
+    "sentence_furigana": "このリフォームで、キッチンの使【つか】い勝手【がって】が良【よ】くなった。",
+    "meaning": "This renovation improved the kitchen's usability."
+  },
+  {
+    "sentence": "この駅は新幹線が止まるので、遠方への移動に便利だ。",
+    "sentence_furigana": "この駅【えき】は新幹線【しんかんせん】が止【と】まるので、遠方【えんぽう】への移動【いどう】に便利【べんり】だ。",
+    "meaning": "This station stops Shinkansen, so it is convenient for traveling to distant places."
+  },
+  {
+    "sentence": "彼は体調を崩し、便通が悪くなった。",
+    "sentence_furigana": "彼【かれ】は体調【たいちょう】を崩【くず】し、便通【べんつう】が悪【わる】くなった。",
+    "meaning": "He fell ill and his bowel movements worsened."
+  },
+  {
+    "sentence": "このアプリは様々な情報を提供してくれるので便利だ。",
+    "sentence_furigana": "このアプリは様々【さまざま】な情報【じょうほう】を提供【ていきょう】してくれるので便利【べんり】だ。",
+    "meaning": "This app is convenient because it provides various information."
+  },
+  {
+    "sentence": "彼女は毎朝、健康のためにスムージーを飲んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は毎朝【まいあさ】、健康【けんこう】のため【ため】にスムージーを飲【の】んでいる。",
+    "meaning": "She drinks a smoothie every morning for her health."
+  },
+  {
+    "sentence": "この度は、お便りいただきありがとうございます。",
+    "sentence_furigana": "この度【このたび】は、お便【たよ】りいただきありがとうございます。",
+    "meaning": "Thank you for your letter this time."
+  },
+  {
+    "sentence": "新しい洗濯機は乾燥機能もついていて便利だ。",
+    "sentence_furigana": "新【あたら】しい洗濯機【せんたくき】は乾燥機能【かんそうきのう】もついていて便利【べんり】だ。",
+    "meaning": "The new washing machine is also equipped with a drying function, making it convenient."
+  },
+  {
+    "sentence": "彼の行動は常に市民の便宜を図るものであった。",
+    "sentence_furigana": "彼【かれ】の行動【こうどう】は常【つね】に市民【しみん】の便宜【べんぎ】を図【はか】るものであった。",
+    "meaning": "His actions were always aimed at the convenience of the citizens."
+  },
+  {
+    "sentence": "この薬は便秘に効くらしい。",
+    "sentence_furigana": "この薬【くすり】は便秘【べんぴ】に効【き】くらしい。",
+    "meaning": "This medicine seems to be effective for constipation."
+  },
+  {
+    "sentence": "空港へのアクセスが便利なので、このホテルを選んだ。",
+    "sentence_furigana": "空港【くうこう】へのアクセスが便利【べんり】なので、このホテルを選【えら】んだ。",
+    "meaning": "I chose this hotel because the access to the airport is convenient."
+  },
+  {
+    "sentence": "この折りたたみ自転車は持ち運びに便利だ。",
+    "sentence_furigana": "この折畳【おりたた】み自転車【じてんしゃ】は持【も】ち運【はこ】びに便利【べんり】だ。",
+    "meaning": "This folding bicycle is convenient to carry."
+  },
+  {
+    "sentence": "彼は健康のために毎日新鮮な野菜を食べる。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】のため【ため】に毎日【まいにち】新鮮【しんせん】な野菜【やさい】を食【た】べる。",
+    "meaning": "He eats fresh vegetables every day for his health."
+  },
+  {
+    "sentence": "この電子レンジは操作が簡単で便利だ。",
+    "sentence_furigana": "この電子レンジ【でんしれんじ】は操作【そうさ】が簡単【かんたん】で便利【べんり】だ。",
+    "meaning": "This microwave oven is easy to operate and convenient."
+  },
+  {
+    "sentence": "彼女は毎晩、明日の準備を簡単にするために服を選んでおく。",
+    "sentence_furigana": "彼女【かのじょ】は毎晩【まいばん】、明日【あす】の準備【じゅんび】を簡単【かんたん】にするために服【ふく】を選【えら】んでおく。",
+    "meaning": "Every night, she chooses her clothes to simplify tomorrow's preparation."
+  },
+  {
+    "sentence": "このカードは様々な支払いに利用できて便利だ。",
+    "sentence_furigana": "このカードは様々【さまざま】な支払【しはら】いに利用【りよう】できて便利【べんり】だ。",
+    "meaning": "This card is convenient because it can be used for various payments."
+  },
+  {
+    "sentence": "彼は会社の便益を損なうような行為はしない。",
+    "sentence_furigana": "彼【かれ】は会社【かいしゃ】の便益【べんえき】を損【そこな】うような行為【こうい】はしない。",
+    "meaning": "He does not engage in acts that harm the company's benefits."
+  },
+  {
+    "sentence": "この交通機関は時間が正確で便利だ。",
+    "sentence_furigana": "この交通機関【こうつうきかん】は時間【じかん】が正確【せいかく】で便利【べんり】だ。",
+    "meaning": "This transportation is punctual and convenient."
+  },
+  {
+    "sentence": "この地域は観光の便が良いので、多くの人が訪れる。",
+    "sentence_furigana": "この地域【ちいき】は観光【かんこう】の便【べん】が良い【よい】ので、多【おお】くの人【ひと】が訪【おとず】れる。",
+    "meaning": "This area has good tourist convenience, so many people visit."
+  },
+  {
+    "sentence": "彼女は時々、便秘に悩まされることがある。",
+    "sentence_furigana": "彼女【かのじょ】は時々【ときどき】、便秘【べんぴ】に悩【なや】まされることがある。",
+    "meaning": "She sometimes suffers from constipation."
+  },
+  {
+    "sentence": "このメールは、お客様へのご案内です。",
+    "sentence_furigana": "このメールは、お客様【おきゃくさま】へのご案内【あんない】です。",
+    "meaning": "This email is a guide for our customers."
+  },
+  {
+    "sentence": "彼は健康のために、毎朝１時間のウォーキングをしている。",
+    "sentence_furigana": "彼【かれ】は健康【けんこう】のため【ため】に、毎朝【まいあさ】１時間【じかん】のウォーキングをしている。",
+    "meaning": "He walks for an hour every morning for his health."
+  },
+  {
+    "sentence": "このアプリを使えば、予約が簡単になる。",
+    "sentence_furigana": "このアプリを使【つか】えば、予約【よやく】が簡単【かんたん】になる。",
+    "meaning": "Using this app makes reservations easy."
+  },
+  {
+    "sentence": "この駅は複数の路線が乗り入れていて便利だ。",
+    "sentence_furigana": "この駅【えき】は複数【ふくすう】の路線【ろせん】が乗【の】り入【い】れていて便利【べんり】だ。",
+    "meaning": "This station is served by multiple lines, making it convenient."
+  },
+  {
+    "sentence": "彼女は健康的な食生活を心がけている。",
+    "sentence_furigana": "彼女【かのじょ】は健康的【けんこうてき】な食生活【しょくせいかつ】を心【こころ】がけている。",
+    "meaning": "She strives for a healthy diet."
+  },
+  {
+    "sentence": "このサービスは、あらゆる場合に便宜を図ってくれる。",
+    "sentence_furigana": "このサービスは、あらゆる場合【ばあい】に便宜【べんぎ】を図【はか】ってくれる。",
+    "meaning": "This service provides convenience in all situations."
+  },
+  {
+    "sentence": "彼は出張の便を調べている。",
+    "sentence_furigana": "彼【かれ】は出張【しゅっちょう】の便【びん】を調【しら】べている。",
+    "meaning": "He is looking into flights for his business trip."
+  },
+  {
+    "sentence": "この新しいシステムは業務を効率化し、便利になった。",
+    "sentence_furigana": "この新【あたら】しいシステムは業務【ぎょうむ】を効率化【こうりつか】し、便利【べんり】になった。",
+    "meaning": "This new system has made operations more efficient and convenient."
+  },
+  {
+    "sentence": "この薬は便秘気味の時に服用します。",
+    "sentence_furigana": "この薬【くすり】は便秘気味【べんぴぎみ】の時【とき】に服用【ふくよう】します。",
+    "meaning": "I take this medicine when I feel slightly constipated."
+  },
+  {
+    "sentence": "このオンラインストアは品揃えが豊富で便利だ。",
+    "sentence_furigana": "このオンラインストアは品揃【しなぞろ】えが豊富【ほうふ】で便利【べんり】だ。",
+    "meaning": "This online store has a wide selection and is convenient."
+  },
+  {
+    "sentence": "彼女は手紙でのやり取りを好む。",
+    "sentence_furigana": "彼女【かのじょ】は手紙【てがみ】でのやり取【と】りを好【この】む。",
+    "meaning": "She prefers to communicate through letters."
+  },
+  {
+    "sentence": "この公共施設は夜間も利用できて便利だ。",
+    "sentence_furigana": "この公共施設【こうきょうしせつ】は夜間【やかん】も利用【りよう】できて便利【べんり】だ。",
+    "meaning": "This public facility is convenient as it can be used at night as well."
+  },
+  {
+    "sentence": "彼は健康状態を改善するために、食生活を見直した。",
+    "sentence_furigana": "彼【かれ】は健康状態【けんこうじょうたい】を改善【かいぜん】するために、食生活【しょくせいかつ】を見直【みなお】した。",
+    "meaning": "He reviewed his diet to improve his health condition."
+  },
+  {
+    "sentence": "この駅は空港への直通バスが運行していて便利だ。",
+    "sentence_furigana": "この駅【えき】は空港【くうこう】への直通バス【ちょくつうバス】が運行【うんこう】していて便利【べんり】だ。",
+    "meaning": "This station is convenient because there are direct buses to the airport."
+  },
+  {
+    "sentence": "彼は、健康のために毎日十分な水分を摂るようにしている。",
+    "sentence_furigana": "彼【かれ】は、健康【けんこう】のため【ため】に毎日【まいにち】十分【じゅうぶん】な水分【すいぶん】を摂【と】るようにしている。",
+    "meaning": "He makes sure to drink enough water every day for his health."
+  },
+  {
+    "sentence": "この度は、ご便益にかなうサービスを提供できず申し訳ありません。",
+    "sentence_furigana": "この度【このたび】は、ご便益【ごべんえき】にかなうサービスを提供【ていきょう】できず申【もう】し訳【わけ】ありません。",
+    "meaning": "We apologize that we could not provide a service that meets your convenience this time."
+  },
+  {
+    "sentence": "彼女は、自分の健康を保つために、定期的に運動している。",
+    "sentence_furigana": "彼女【かのじょ】は、自分【じぶん】の健康【けんこう】を保【たも】つために、定期的【ていきてき】に運動【うんどう】している。",
+    "meaning": "She exercises regularly to maintain her health."
+  },
+  {
+    "sentence": "この地域の新しい交通網は、住民の利便性を向上させた。",
+    "sentence_furigana": "この地域【ちいき】の新【あたら】しい交通網【こうつうもう】は、住民【じゅうみん】の利便性【りべんせい】を向上【こうじょう】させた。",
+    "meaning": "The new transportation network in this area has improved the convenience for residents."
+  },
+  {
+    "sentence": "彼は定期的に健康診断を受け、便の検査も行っている。",
+    "sentence_furigana": "彼【かれ】は定期的【ていきてき】に健康診断【けんこうしんだん】を受【う】け、便【べん】の検査【けんさ】も行【おこな】っている。",
+    "meaning": "He undergoes regular health check-ups and also has stool tests."
+  },
+  {
+    "sentence": "このサービスは、時間を節約できて便利だ。",
+    "sentence_furigana": "このサービスは、時間【じかん】を節約【せつやく】できて便利【べんり】だ。",
+    "meaning": "This service is convenient because it saves time."
+  },
+  {
+    "sentence": "彼女は健康のために、食物繊維を多く含む食品を選んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は健康【けんこう】のため【ため】に、食物繊維【しょくもつせんい】を多【おお】く含【ふく】む食品【しょくひん】を選【えら】んでいる。",
+    "meaning": "She chooses foods rich in dietary fiber for her health."
+  },
+  {
+    "sentence": "この新しい自転車道は、サイクリストにとって非常に便利だ。",
+    "sentence_furigana": "この新【あたら】しい自転車道【じてんしゃどう】は、サイクリストにとって非常【ひじょう】に便利【べんり】だ。",
+    "meaning": "This new bike path is very convenient for cyclists."
+  },
+  {
+    "sentence": "彼は出張帰りのため、空港便を利用した。",
+    "sentence_furigana": "彼【かれ】は出張帰【しゅっちょうがえ】り のため【ため】に、空港便【くうこうびん】を利用【りよう】した。",
+    "meaning": "He used the airport limousine bus because he was returning from a business trip."
+  },
+  {
+    "sentence": "この度は、貴重な便りをお寄せいただき、誠にありがとうございました。",
+    "sentence_furigana": "この度【このたび】は、貴重【きちょう】な便【たよ】りをお寄【よ】せいただき、誠【まこと】にありがとうございました。",
+    "meaning": "Thank you very much for sending us your valuable feedback this time."
+  },
+  {
+    "sentence": "このアプリを使えば、乗り換え案内が簡単に調べられる。",
+    "sentence_furigana": "このアプリを使【つか】えば、乗換案内【のりかえあんない】が簡単【かんたん】に調【しら】べられる。",
+    "meaning": "Using this app makes it easy to look up transfer information."
+  },
+  {
+    "sentence": "彼女は、健康を維持するために、毎日バランスの取れた食事を心がけている。",
+    "sentence_furigana": "彼女【かのじょ】は、健康【けんこう】を維持【いじ】するために、毎日【まいにち】バランスの取【と】れた食事【しょくじ】を心【こころ】がけている。",
+    "meaning": "She strives for a balanced diet every day to maintain her health."
+  },
+  {
+    "sentence": "この地域のインフラ整備は、住民の便宜を図るものだ。",
+    "sentence_furigana": "この地域【ちいき】のインフラ整備【インフラせいび】は、住民【じゅうみん】の便宜【べんぎ】を図【はか】るものだ。",
+    "meaning": "The infrastructure development in this region is intended to provide convenience to the residents."
+  },
+  {
+    "sentence": "彼は、健康のために可能な限り自然な食品を選ぶ。",
+    "sentence_furigana": "彼【かれ】は、健康【けんこう】のため【ため】に可能【かのう】な限【かぎ】り自然【しぜん】な食品【しょくひん】を選【えら】ぶ。",
+    "meaning": "He chooses natural foods as much as possible for his health."
+  },
+  {
+    "sentence": "この新しい交通カードは、運賃の支払いを簡単にしてくれる。",
+    "sentence_furigana": "この新【あたら】しい交通カードは、運賃【うんちん】の支払【しはら】いを簡単【かんたん】にしてくれる。",
+    "meaning": "This new transportation card makes fare payment easy."
+  },
+  {
+    "sentence": "この度は、ご便りいただきありがとうございます。",
+    "sentence_furigana": "この度【このたび】は、ご便【たよ】りいただきありがとうございます。",
+    "meaning": "Thank you for your letter this time."
+  },
+  {
+    "sentence": "彼は、健康のために定期的に便の検査を受けている。",
+    "sentence_furigana": "彼【かれ】は、健康【けんこう】のため【ため】に定期的【ていきてき】に便【べん】の検査【けんさ】を受【う】けている。",
+    "meaning": "He undergoes regular stool tests for his health."
+  }
+]

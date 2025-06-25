@@ -1,0 +1,552 @@
+[
+  {
+    "sentence": "その城は陥落した。",
+    "sentence_furigana": "その城【しろ】は陥【かん】落【らく】した。",
+    "meaning": "That castle fell."
+  },
+  {
+    "sentence": "彼は罠に陥った。",
+    "sentence_furigana": "彼【かれ】は罠【わな】に陥【おちい】った。",
+    "meaning": "He fell into the trap."
+  },
+  {
+    "sentence": "地面が陥没した。",
+    "sentence_furigana": "地面【じめん】が陥【かん】没【ぼつ】した。",
+    "meaning": "The ground collapsed."
+  },
+  {
+    "sentence": "敵は陥りやすい場所を選んだ。",
+    "sentence_furigana": "敵【てき】は陥【おちい】りやすい場所【ばしょ】を選【えら】んだ。",
+    "meaning": "The enemy chose a place that was easy to fall into."
+  },
+  {
+    "sentence": "彼は悪い道に陥ってしまった。",
+    "sentence_furigana": "彼【かれ】は悪【わる】い道【みち】に陥【おちい】ってしまった。",
+    "meaning": "He fell into a bad path."
+  },
+  {
+    "sentence": "トンネルが陥没して通行止めになった。",
+    "sentence_furigana": "トンネルが陥【かん】没【ぼつ】して通行止【つうこうど】めになった。",
+    "meaning": "The tunnel collapsed and was closed to traffic."
+  },
+  {
+    "sentence": "彼女は絶望の淵に陥った。",
+    "sentence_furigana": "彼女【かのじょ】は絶望【ぜつぼう】の淵【ふち】に陥【おちい】った。",
+    "meaning": "She fell into the abyss of despair."
+  },
+  {
+    "sentence": "その建物は老朽化で陥壊した。",
+    "sentence_furigana": "その建物【たてもの】は老朽化【ろうきゅうか】で陥【かん】壊【かい】した。",
+    "meaning": "The building collapsed due to deterioration."
+  },
+  {
+    "sentence": "彼は深い悩みの中に陥っていた。",
+    "sentence_furigana": "彼【かれ】は深【ふか】い悩【なや】みの中【なか】に陥【おちい】っていた。",
+    "meaning": "He was caught in deep worries."
+  },
+  {
+    "sentence": "その城壁は敵の攻撃で陥落した。",
+    "sentence_furigana": "その城壁【じょうへき】は敵【てき】の攻撃【こうげき】で陥【かん】落【らく】した。",
+    "meaning": "The castle walls fell due to the enemy's attack."
+  },
+  {
+    "sentence": "雨で道路が陥没した。",
+    "sentence_furigana": "雨【あめ】で道路【どうろ】が陥【かん】没【ぼつ】した。",
+    "meaning": "The road collapsed due to rain."
+  },
+  {
+    "sentence": "彼は詐欺に陥れられた。",
+    "sentence_furigana": "彼【かれ】は詐欺【さぎ】に陥【おとしい】れられた。",
+    "meaning": "He was tricked into fraud."
+  },
+  {
+    "sentence": "計画は失敗に陥った。",
+    "sentence_furigana": "計画【けいかく】は失敗【しっぱい】に陥【おちい】った。",
+    "meaning": "The plan fell into failure."
+  },
+  {
+    "sentence": "子供がおもちゃの車に陥没した。",
+    "sentence_furigana": "子供【こども】がおもちゃの車【くるま】に陥【かん】没【ぼつ】した。",
+    "meaning": "The child caved into the toy car."
+  },
+  {
+    "sentence": "彼女は秘密に陥っていた。",
+    "sentence_furigana": "彼女【かのじょ】は秘密【ひみつ】に陥【おちい】っていた。",
+    "meaning": "She was caught in a secret."
+  },
+  {
+    "sentence": "崖が崩れて陥没した。",
+    "sentence_furigana": "崖【がけ】が崩【くず】れて陥【かん】没【ぼつ】した。",
+    "meaning": "The cliff crumbled and collapsed."
+  },
+  {
+    "sentence": "彼は嘘の渦に陥った。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】の渦【うず】に陥【おちい】った。",
+    "meaning": "He fell into a vortex of lies."
+  },
+  {
+    "sentence": "その政治家はスキャンダルに陥った。",
+    "sentence_furigana": "その政治家【せいじか】はスキャンダルに陥【おちい】った。",
+    "meaning": "That politician fell into scandal."
+  },
+  {
+    "sentence": "坑道が陥没した。",
+    "sentence_furigana": "坑道【こうどう】が陥【かん】没【ぼつ】した。",
+    "meaning": "The tunnel collapsed."
+  },
+  {
+    "sentence": "彼女は罪悪感に陥っていた。",
+    "sentence_furigana": "彼女【かのじょ】は罪悪感【ざいあくかん】に陥【おちい】っていた。",
+    "meaning": "She was caught in guilt."
+  },
+  {
+    "sentence": "道路に大きな陥没ができた。",
+    "sentence_furigana": "道路【どうろ】に大【おお】きな陥【かん】没【ぼつ】ができた。",
+    "meaning": "A large sinkhole formed in the road."
+  },
+  {
+    "sentence": "彼は貧困の連鎖に陥った。",
+    "sentence_furigana": "彼【かれ】は貧困【ひんこん】の連鎖【れんさ】に陥【おちい】った。",
+    "meaning": "He fell into a cycle of poverty."
+  },
+  {
+    "sentence": "この地域は陥没しやすい地盤だ。",
+    "sentence_furigana": "この地域【ちいき】は陥【かん】没【ぼつ】しやすい地盤【じばん】だ。",
+    "meaning": "This area has ground prone to collapsing."
+  },
+  {
+    "sentence": "彼は古い習慣に陥っていた。",
+    "sentence_furigana": "彼【かれ】は古【ふる】い習慣【しゅうかん】に陥【おちい】っていた。",
+    "meaning": "He was stuck in old habits."
+  },
+  {
+    "sentence": "陥没した地面は危険だ。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した地面【じめん】は危険【きけん】だ。",
+    "meaning": "The collapsed ground is dangerous."
+  },
+  {
+    "sentence": "彼は過ちを犯し、窮地に陥った。",
+    "sentence_furigana": "彼【かれ】は過【あやま】ちを犯【おか】し、窮地【きゅうち】に陥【おちい】った。",
+    "meaning": "He made a mistake and fell into a predicament."
+  },
+  {
+    "sentence": "その古い家は壁が陥没していた。",
+    "sentence_furigana": "その古【ふる】い家【いえ】は壁【かべ】が陥【かん】没【ぼつ】していた。",
+    "meaning": "The walls of that old house had caved in."
+  },
+  {
+    "sentence": "彼は慢心に陥って敗北した。",
+    "sentence_furigana": "彼【かれ】は慢心【まんしん】に陥【おちい】って敗北【はいぼく】した。",
+    "meaning": "He became overconfident and was defeated."
+  },
+  {
+    "sentence": "地面に大きな穴が陥没した。",
+    "sentence_furigana": "地面【じめん】に大【おお】きな穴【あな】が陥【かん】没【ぼつ】した。",
+    "meaning": "A large hole collapsed in the ground."
+  },
+  {
+    "sentence": "彼は詐欺師に陥れられた。",
+    "sentence_furigana": "彼【かれ】は詐欺師【さぎし】に陥【おとしい】れられた。",
+    "meaning": "He was ensnared by a fraudster."
+  },
+  {
+    "sentence": "城は激しい戦いの末に陥落した。",
+    "sentence_furigana": "城【しろ】は激【はげ】しい戦【たたか】いの末【すえ】に陥【かん】落【らく】した。",
+    "meaning": "The castle fell after fierce fighting."
+  },
+  {
+    "sentence": "彼は困難な状況に陥った。",
+    "sentence_furigana": "彼【かれ】は困難【こんなん】な状況【じょうきょう】に陥【おちい】った。",
+    "meaning": "He fell into a difficult situation."
+  },
+  {
+    "sentence": "掘削作業中に陥没が起きた。",
+    "sentence_furigana": "掘削作業【くっさくさぎょう】中【ちゅう】に陥【かん】没【ぼつ】が起【お】きた。",
+    "meaning": "A collapse occurred during excavation work."
+  },
+  {
+    "sentence": "彼女は誘惑に陥った。",
+    "sentence_furigana": "彼女【かのじょ】は誘惑【ゆうわく】に陥【おちい】った。",
+    "meaning": "She fell into temptation."
+  },
+  {
+    "sentence": "彼は悪循環に陥っていた。",
+    "sentence_furigana": "彼【かれ】は悪循環【あくじゅんかん】に陥【おちい】っていた。",
+    "meaning": "He was caught in a vicious cycle."
+  },
+  {
+    "sentence": "道路が陥没して通行できなくなった。",
+    "sentence_furigana": "道路【どうろ】が陥【かん】没【ぼつ】して通行【つうこう】できなくなった。",
+    "meaning": "The road collapsed and became impassable."
+  },
+  {
+    "sentence": "その村は孤立し、窮状に陥った。",
+    "sentence_furigana": "その村【むら】は孤立【こりつ】し、窮状【きゅうじょう】に陥【おちい】った。",
+    "meaning": "The village became isolated and fell into distress."
+  },
+  {
+    "sentence": "彼は不注意で穴に陥った。",
+    "sentence_furigana": "彼【かれ】は不注意【ふちゅうい】で穴【あな】に陥【おちい】った。",
+    "meaning": "He carelessly fell into a hole."
+  },
+  {
+    "sentence": "陥没した箇所を修復する。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した箇所【かしょ】を修復【しゅうふく】する。",
+    "meaning": "Repair the collapsed section."
+  },
+  {
+    "sentence": "彼は誤解に陥っていた。",
+    "sentence_furigana": "彼【かれ】は誤解【ごかい】に陥【おちい】っていた。",
+    "meaning": "He was caught in a misunderstanding."
+  },
+  {
+    "sentence": "陥落した城跡を見て歴史を感じた。",
+    "sentence_furigana": "陥【かん】落【らく】した城跡【しろあと】を見【み】て歴史【れきし】を感【かん】じた。",
+    "meaning": "I felt history looking at the ruins of the fallen castle."
+  },
+  {
+    "sentence": "その都市は経済的な危機に陥った。",
+    "sentence_furigana": "その都市【とし】は経済的【けいざいてき】な危機【きき】に陥【おちい】った。",
+    "meaning": "That city fell into an economic crisis."
+  },
+  {
+    "sentence": "彼は嘘をついて苦境に陥った。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】をついて苦境【くきょう】に陥【おちい】った。",
+    "meaning": "He lied and fell into hardship."
+  },
+  {
+    "sentence": "トンネルの一部が陥没した。",
+    "sentence_furigana": "トンネルの部品【ぶひん】が陥【かん】没【ぼつ】した。",
+    "meaning": "A part of the tunnel collapsed."
+  },
+  {
+    "sentence": "彼女は秘密裏に陥れられた。",
+    "sentence_furigana": "彼女【かのじょ】は秘密裏【ひみつり】に陥【おとしい】れられた。",
+    "meaning": "She was secretly framed."
+  },
+  {
+    "sentence": "陥った穴は深かった。",
+    "sentence_furigana": "陥【おちい】った穴【あな】は深【ふか】かった。",
+    "meaning": "The hole he fell into was deep."
+  },
+  {
+    "sentence": "彼は無気力な状態に陥った。",
+    "sentence_furigana": "彼【かれ】は無気力【むきりょく】な状態【じょうたい】に陥【おちい】った。",
+    "meaning": "He fell into a state of apathy."
+  },
+  {
+    "sentence": "この崖は崩落しやすく陥没しやすい。",
+    "sentence_furigana": "この崖【がけ】は崩落【ほうらく】しやすく陥【かん】没【ぼつ】しやすい。",
+    "meaning": "This cliff is prone to collapse and sinking."
+  },
+  {
+    "sentence": "彼は不確実な状況に陥っていた。",
+    "sentence_furigana": "彼【かれ】は不確実【ふかくじつ】な状況【じょうきょう】に陥【おちい】っていた。",
+    "meaning": "He was caught in an uncertain situation."
+  },
+  {
+    "sentence": "その町は寂れて陥ってしまった。",
+    "sentence_furigana": "その町【まち】は寂【さび】れて陥【おちい】ってしまった。",
+    "meaning": "That town became desolate and declined."
+  },
+  {
+    "sentence": "彼は偽情報に陥れられた。",
+    "sentence_furigana": "彼【かれ】は偽情報【ぎじょうほう】に陥【おとしい】れられた。",
+    "meaning": "He was deceived by misinformation."
+  },
+  {
+    "sentence": "穴に落ちないように注意して歩いたが、足が陥った。",
+    "sentence_furigana": "穴【あな】に落【お】ちないように注意【ちゅうい】して歩【ある】いたが、足【あし】が陥【おちい】った。",
+    "meaning": "I walked carefully so as not to fall into the hole, but my foot got stuck."
+  },
+  {
+    "sentence": "彼は病気の治療中に合併症に陥った。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】の治療中【ちりょうちゅう】に合併症【がっぺいしょう】に陥【おちい】った。",
+    "meaning": "He developed complications during his illness treatment."
+  },
+  {
+    "sentence": "陥没した道路は修復中です。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した道路【どうろ】は修復中【しゅうふくちゅう】です。",
+    "meaning": "The collapsed road is under repair."
+  },
+  {
+    "sentence": "彼は精神的な苦痛に陥っていた。",
+    "sentence_furigana": "彼【かれ】は精神的【せいしんてき】な苦痛【くつう】に陥【おちい】っていた。",
+    "meaning": "He was suffering from mental anguish."
+  },
+  {
+    "sentence": "橋が陥没し、通行止めとなった。",
+    "sentence_furigana": "橋【はし】が陥【かん】没【ぼつ】し、通行止【つうこうど】めとなった。",
+    "meaning": "The bridge collapsed, and passage was blocked."
+  },
+  {
+    "sentence": "彼は過ちを隠そうとして、さらなる問題に陥った。",
+    "sentence_furigana": "彼【かれ】は過【あやま】ちを隠【かく】そうとして、さらなる問題【もんだい】に陥【おちい】った。",
+    "meaning": "He tried to hide his mistake and fell into further trouble."
+  },
+  {
+    "sentence": "陥没した地面は非常に不安定だ。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した地面【じめん】は非常【ひじょう】に不安定【ふあんてい】だ。",
+    "meaning": "The collapsed ground is very unstable."
+  },
+  {
+    "sentence": "彼は誘惑に負けて過ちを犯した。",
+    "sentence_furigana": "彼【かれ】は誘惑【ゆうわく】に負【ま】けて過【あやま】ちを犯【おか】した。",
+    "meaning": "He gave in to temptation and made a mistake."
+  },
+  {
+    "sentence": "その計画は実行不可能という結論に陥った。",
+    "sentence_furigana": "その計画【けいかく】は実行不可能【じっこうふかのう】という結論【けつろん】に陥【おちい】った。",
+    "meaning": "The plan fell into the conclusion that it was impossible to execute."
+  },
+  {
+    "sentence": "彼女は絶望の淵から這い上がった。",
+    "sentence_furigana": "彼女【かのじょ】は絶望【ぜつぼう】の淵【ふち】から這【は】い上【あ】がった。",
+    "meaning": "She climbed out of the abyss of despair."
+  },
+  {
+    "sentence": "彼は長年の努力の末、目標を達成した。",
+    "sentence_furigana": "彼【かれ】は長年【ながねん】の努力【どりょく】の末【すえ】、目標【もくひょう】を達成【たっせい】した。",
+    "meaning": "He achieved his goal after many years of effort."
+  },
+  {
+    "sentence": "彼は巧妙な罠に陥れられた。",
+    "sentence_furigana": "彼【かれ】は巧妙【こうみょう】な罠【わな】に陥【おとしい】れられた。",
+    "meaning": "He was trapped by a clever snare."
+  },
+  {
+    "sentence": "地面が沈み込み、陥没した。",
+    "sentence_furigana": "地面【じめん】が沈【しず】み込【こ】み、陥【かん】没【ぼつ】した。",
+    "meaning": "The ground subsided and collapsed."
+  },
+  {
+    "sentence": "彼は罪の意識に苛まれていた。",
+    "sentence_furigana": "彼【かれ】は罪【つみ】の意識【いしき】に苛【さいな】まれていた。",
+    "meaning": "He was tormented by his guilt."
+  },
+  {
+    "sentence": "その城は激しい攻防の末に陥落した。",
+    "sentence_furigana": "その城【しろ】は激【はげ】しい攻防【こうぼう】の末【すえ】に陥【かん】落【らく】した。",
+    "meaning": "The castle fell after intense offense and defense."
+  },
+  {
+    "sentence": "彼は無一文になり、困窮に陥った。",
+    "sentence_furigana": "彼【かれ】は無一文【むいちもん】になり、困窮【こんきゅう】に陥【おちい】った。",
+    "meaning": "He became penniless and fell into destitution."
+  },
+  {
+    "sentence": "陥没したトンネルは封鎖された。",
+    "sentence_furigana": "陥【かん】没【ぼつ】したトンネルは封鎖【ふうさ】された。",
+    "meaning": "The collapsed tunnel was sealed off."
+  },
+  {
+    "sentence": "彼は嘘の証言に陥れられた。",
+    "sentence_furigana": "彼【かれ】は嘘【うそ】の証言【しょうげん】に陥【おとしい】れられた。",
+    "meaning": "He was framed with false testimony."
+  },
+  {
+    "sentence": "彼女は悲観的な考えに陥っていた。",
+    "sentence_furigana": "彼女【かのじょ】は悲観的【ひかんてき】な考【かんが】えに陥【おちい】っていた。",
+    "meaning": "She was caught in pessimistic thoughts."
+  },
+  {
+    "sentence": "陥没の恐れがあるため、その地域は立ち入り禁止だ。",
+    "sentence_furigana": "陥【かん】没【ぼつ】の恐【おそ】れがあるため、その地域【ちいき】は立【た】ち入【い】り禁止【きんし】だ。",
+    "meaning": "Due to the risk of collapse, entry into that area is prohibited."
+  },
+  {
+    "sentence": "彼は誤った情報に陥っていた。",
+    "sentence_furigana": "彼【かれ】は誤【あやま】った情報【じょうほう】に陥【おちい】っていた。",
+    "meaning": "He was misled by wrong information."
+  },
+  {
+    "sentence": "陥没した部分は安全対策が施されている。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した部分【ぶぶん】は安全対策【あんぜんたいさく】が施【ほどこ】されている。",
+    "meaning": "Safety measures are being implemented in the collapsed part."
+  },
+  {
+    "sentence": "彼は詐欺的な手口に陥れた。",
+    "sentence_furigana": "彼【かれ】は詐欺的【さぎてき】な手口【てぐち】に陥【おとしい】れた。",
+    "meaning": "He was lured into fraudulent schemes."
+  },
+  {
+    "sentence": "その国の政治は混乱に陥った。",
+    "sentence_furigana": "その国【くに】の政治【せいじ】は混乱【こんらん】に陥【おちい】った。",
+    "meaning": "The country's politics fell into chaos."
+  },
+  {
+    "sentence": "陥没した道路を迂回して進む。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した道路【どうろ】を迂回【うかい】して進【すす】む。",
+    "meaning": "We will proceed by detouring around the collapsed road."
+  },
+  {
+    "sentence": "彼は不注意から事故に陥った。",
+    "sentence_furigana": "彼【かれ】は不注意【ふちゅうい】から事故【じこ】に陥【おちい】った。",
+    "meaning": "He fell into an accident due to carelessness."
+  },
+  {
+    "sentence": "壁の一部が陥没していた。",
+    "sentence_furigana": "壁【かべ】の部品【ぶぶん】が陥【かん】没【ぼつ】していた。",
+    "meaning": "A part of the wall had caved in."
+  },
+  {
+    "sentence": "彼は過度な心配に陥っていた。",
+    "sentence_furigana": "彼【かれ】は過度【かど】な心配【しんぱい】に陥【おちい】っていた。",
+    "meaning": "He was caught in excessive worry."
+  },
+  {
+    "sentence": "陥没した箇所にはロープが張られている。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した箇所【かしょ】にはロープが張【は】られている。",
+    "meaning": "Ropes are stretched around the collapsed area."
+  },
+  {
+    "sentence": "彼は慢心して油断し、陥った。",
+    "sentence_furigana": "彼【かれ】は慢心【まんしん】して油断【ゆだん】し、陥【おちい】った。",
+    "meaning": "He became complacent, let his guard down, and fell into trouble."
+  },
+  {
+    "sentence": "その城は攻略され陥落した。",
+    "sentence_furigana": "その城【しろ】は攻略【こうりゃく】され陥【かん】落【らく】した。",
+    "meaning": "The castle was captured and fell."
+  },
+  {
+    "sentence": "彼は貧困の淵に沈んだ。",
+    "sentence_furigana": "彼【かれ】は貧困【ひんこん】の淵【ふち】に沈【しず】んだ。",
+    "meaning": "He sank into the depths of poverty."
+  },
+  {
+    "sentence": "地面が陥没し、家が傾いた。",
+    "sentence_furigana": "地面【じめん】が陥【かん】没【ぼつ】し、家【いえ】が傾【かたむ】いた。",
+    "meaning": "The ground collapsed, and the house tilted."
+  },
+  {
+    "sentence": "彼は悪い仲間との付き合いに陥った。",
+    "sentence_furigana": "彼【かれ】は悪【わる】い仲間【なかま】との付【つ】き合【あ】いに陥【おちい】った。",
+    "meaning": "He got involved with bad company."
+  },
+  {
+    "sentence": "陥没した地域は立ち入りが禁止されています。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した地域【ちいき】は立【た】ち入【い】りが禁止【きんし】されています。",
+    "meaning": "The collapsed area is prohibited from entry."
+  },
+  {
+    "sentence": "彼は過ちを認め、反省に陥った。",
+    "sentence_furigana": "彼【かれ】は過【あやま】ちを認【みと】め、反省【はんせい】に陥【おちい】った。",
+    "meaning": "He admitted his mistake and fell into reflection."
+  },
+  {
+    "sentence": "陥没の危険があるため、工事現場周辺は立ち入り禁止だ。",
+    "sentence_furigana": "陥【かん】没【ぼつ】の危険【きけん】があるため、工事現場【こうじげんば】周辺【しゅうへん】は立【た】ち入【い】り禁止【きんし】だ。",
+    "meaning": "Due to the danger of collapse, the area around the construction site is off-limits."
+  },
+  {
+    "sentence": "彼はうつ病に陥った。",
+    "sentence_furigana": "彼【かれ】はうつ病【びょう】に陥【おちい】った。",
+    "meaning": "He fell into depression."
+  },
+  {
+    "sentence": "地面が陥没して、車が落ちた。",
+    "sentence_furigana": "地面【じめん】が陥【かん】没【ぼつ】して、車【くるま】が落【お】ちた。",
+    "meaning": "The ground collapsed, and a car fell in."
+  },
+  {
+    "sentence": "彼は悪い誘惑に陥れた。",
+    "sentence_furigana": "彼【かれ】は悪【わる】い誘惑【ゆうわく】に陥【おとしい】れた。",
+    "meaning": "He was tempted into bad things."
+  },
+  {
+    "sentence": "陥没箇所に近づかないでください。",
+    "sentence_furigana": "陥【かん】没【ぼつ】箇所【かしょ】に近【ちか】づかないでください。",
+    "meaning": "Please do not approach the collapsed section."
+  },
+  {
+    "sentence": "彼は絶望的な状況に陥っていた。",
+    "sentence_furigana": "彼【かれ】は絶望的【ぜつぼうてき】な状況【じょうきょう】に陥【おちい】っていた。",
+    "meaning": "He was in a desperate situation."
+  },
+  {
+    "sentence": "陥没の原因を調査している。",
+    "sentence_furigana": "陥【かん】没【ぼつ】の原因【げんいん】を調査【ちょうさ】している。",
+    "meaning": "We are investigating the cause of the collapse."
+  },
+  {
+    "sentence": "彼は自らの過ちで窮地に陥った。",
+    "sentence_furigana": "彼【かれ】は自【みずか】らの過【あやま】ちで窮地【きゅうち】に陥【おちい】った。",
+    "meaning": "He fell into a predicament due to his own mistakes."
+  },
+  {
+    "sentence": "陥没した穴には水が溜まっている。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した穴【あな】には水【みず】が溜【た】まっている。",
+    "meaning": "Water has accumulated in the collapsed hole."
+  },
+  {
+    "sentence": "彼は偽りの言葉に陥れられた。",
+    "sentence_furigana": "彼【かれ】は偽【いつわ】りの言葉【ことば】に陥【おとしい】れられた。",
+    "meaning": "He was deceived by false words."
+  },
+  {
+    "sentence": "陥没事故が多発している地域がある。",
+    "sentence_furigana": "陥【かん】没【ぼつ】事故【じこ】が多発【たはつ】している地域【ちいき】がある。",
+    "meaning": "There are areas where collapse accidents are frequent."
+  },
+  {
+    "sentence": "彼は無知ゆえに悪事に陥った。",
+    "sentence_furigana": "彼【かれ】は無知【むち】ゆえに悪事【あくじ】に陥【おちい】った。",
+    "meaning": "He fell into wicked deeds due to his ignorance."
+  },
+  {
+    "sentence": "城が陥落し、兵士たちは撤退した。",
+    "sentence_furigana": "城【しろ】が陥【かん】落【らく】し、兵士【へいし】たち は撤退【てったい】した。",
+    "meaning": "The castle fell, and the soldiers retreated."
+  },
+  {
+    "sentence": "彼は依存症に陥っていた。",
+    "sentence_furigana": "彼【かれ】は依存症【いぞんしょう】に陥【おちい】っていた。",
+    "meaning": "He was suffering from addiction."
+  },
+  {
+    "sentence": "陥没した道路の迂回路が設定された。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した道路【どうろ】の迂回路【うかいろ】が設定【せってい】された。",
+    "meaning": "A detour route was set up for the collapsed road."
+  },
+  {
+    "sentence": "彼は悲惨な状況に陥った。",
+    "sentence_furigana": "彼【かれ】は悲惨【ひさん】な状況【じょうきょう】に陥【おちい】った。",
+    "meaning": "He fell into a tragic situation."
+  },
+  {
+    "sentence": "陥没した橋は通行止めになっている。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した橋【はし】は通行止【つうこうど】めになっている。",
+    "meaning": "The collapsed bridge is closed to traffic."
+  },
+  {
+    "sentence": "彼は過労で体調を崩した。",
+    "sentence_furigana": "彼【かれ】は過労【かろう】で体調【たいちょう】を崩【くず】した。",
+    "meaning": "He fell ill due to overwork."
+  },
+  {
+    "sentence": "地面が陥没し、大きな穴が開いた。",
+    "sentence_furigana": "地面【じめん】が陥【かん】没【ぼつ】し、大【おお】きな穴【あな】が開【あ】いた。",
+    "meaning": "The ground collapsed, and a large hole opened up."
+  },
+  {
+    "sentence": "彼は後悔の念に苛まれていた。",
+    "sentence_furigana": "彼【かれ】は後悔【こうかい】の念【ねん】に苛【さいな】まれていた。",
+    "meaning": "He was tormented by regret."
+  },
+  {
+    "sentence": "陥没した地下道は封鎖された。",
+    "sentence_furigana": "陥【かん】没【ぼつ】した地下道【ちかみち】は封鎖【ふうさ】された。",
+    "meaning": "The collapsed underpass was sealed off."
+  },
+  {
+    "sentence": "彼は病気で臥薪嘗胆の日々を送った。",
+    "sentence_furigana": "彼【かれ】は病気【びょうき】で臥薪嘗胆【がしんしょうたん】の日々【ひび】を送【おく】った。",
+    "meaning": "He went through hardship and suffering due to illness."
+  },
+  {
+    "sentence": "陥没を防ぐための対策が講じられた。",
+    "sentence_furigana": "陥【かん】没【ぼつ】を防【ふせ】ぐための対策【たいさく】が講【こう】じられた。",
+    "meaning": "Measures were taken to prevent collapse."
+  }
+]

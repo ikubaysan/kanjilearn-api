@@ -1,0 +1,507 @@
+[
+  {
+    "sentence": "彼は店から商品を盗んだ。",
+    "sentence_furigana": "彼【かれ】は店【みせ】から商品【しょうひん】を盗【ぬす】んだ。",
+    "meaning": "He stole goods from the store."
+  },
+  {
+    "sentence": "銀行強盗が発生した。",
+    "sentence_furigana": "銀行強盗【ぎんこうごうとう】が発生【はっせい】した。",
+    "meaning": "A bank robbery occurred."
+  },
+  {
+    "sentence": "彼の自転車が盗まれた。",
+    "sentence_furigana": "彼【かれ】の自転車【じてんしゃ】が盗【ぬす】まれた。",
+    "meaning": "His bicycle was stolen."
+  },
+  {
+    "sentence": "貴重品は盗まれないように注意してください。",
+    "sentence_furigana": "貴重品【きちょうひん】は盗【ぬす】まれないように注意【ちゅうい】してください。",
+    "meaning": "Please be careful not to have your valuables stolen."
+  },
+  {
+    "sentence": "彼女は友人の財布を盗んだ。",
+    "sentence_furigana": "彼女【かのじょ】は友人【ゆうじん】の財布【さいふ】を盗【ぬす】んだ。",
+    "meaning": "She stole her friend's wallet."
+  },
+  {
+    "sentence": "空き巣が頻繁に発生している。",
+    "sentence_furigana": "空き巣【あきす】が頻繁【ひんぱん】に発生【はっせい】している。",
+    "meaning": "Burglaries are occurring frequently."
+  },
+  {
+    "sentence": "この地域では盗難が多い。",
+    "sentence_furigana": "この地域【ちいき】では盗難【とうなん】が多【おお】い。",
+    "meaning": "There are many thefts in this area."
+  },
+  {
+    "sentence": "彼は小心翼翼としていた。",
+    "sentence_furigana": "彼【かれ】は小心翼翼【しょうしんよくよく】としていた。",
+    "meaning": "He was very timid."
+  },
+  {
+    "sentence": "私のノートパソコンが盗まれた。",
+    "sentence_furigana": "私【わたし】のノートパソコンが盗【ぬす】まれた。",
+    "meaning": "My laptop was stolen."
+  },
+  {
+    "sentence": "警察は盗犯を逮捕した。",
+    "sentence_furigana": "警察【けいさつ】は盗犯【とうはん】を逮捕【たいほ】した。",
+    "meaning": "The police arrested the thief."
+  },
+  {
+    "sentence": "彼は小心者なので、大きな声が出せない。",
+    "sentence_furigana": "彼【かれ】は小心者【しょうしんもの】なので、大【おお】きな声【こえ】が出【だ】せない。",
+    "meaning": "He is timid, so he can't speak loudly."
+  },
+  {
+    "sentence": "宝物を盗むのは犯罪です。",
+    "sentence_furigana": "宝物【たからもの】を盗【ぬす】むのは犯罪【はんざい】です。",
+    "meaning": "Stealing treasure is a crime."
+  },
+  {
+    "sentence": "彼の悪事は盗みから始まった。",
+    "sentence_furigana": "彼【かれ】の悪事【あくじ】は盗【ぬす】みから始【はじ】まった。",
+    "meaning": "His misdeeds started with theft."
+  },
+  {
+    "sentence": "犯人はまだ捕まっていない。",
+    "sentence_furigana": "犯人【はんにん】はまだ捕【つか】まっていない。",
+    "meaning": "The culprit has not yet been caught."
+  },
+  {
+    "sentence": "その宝石は盗まれた可能性が高い。",
+    "sentence_furigana": "その宝石【ほうせき】は盗【ぬす】まれた可能性【かのうせい】が高【たか】い。",
+    "meaning": "It is highly likely that the jewel was stolen."
+  },
+  {
+    "sentence": "彼は盗撮をしていた。",
+    "sentence_furigana": "彼【かれ】は盗撮【とうさつ】をしていた。",
+    "meaning": "He was taking surreptitious photos."
+  },
+  {
+    "sentence": "この町は安全だと聞いていたが、甘かった。",
+    "sentence_furigana": "この町【まち】は安全【あんぜん】だと聞【き】いていたが、甘【あま】かった。",
+    "meaning": "I heard this town was safe, but I was mistaken."
+  },
+  {
+    "sentence": "彼の計画はすべて盗みだった。",
+    "sentence_furigana": "彼【かれ】の計画【けいかく】はすべて盗【ぬす】みだった。",
+    "meaning": "All his plans were based on theft."
+  },
+  {
+    "sentence": "盗まれた品物は見つからなかった。",
+    "sentence_furigana": "盗【ぬす】まれた品物【しなもの】は見【み】つからなかった。",
+    "meaning": "The stolen items were not found."
+  },
+  {
+    "sentence": "万引きは犯罪です。",
+    "sentence_furigana": "万引き【まんびき】は犯罪【はんざい】です。",
+    "meaning": "Shoplifting is a crime."
+  },
+  {
+    "sentence": "彼は盗聴器を仕掛けた疑いがある。",
+    "sentence_furigana": "彼【かれ】は盗聴器【とうちょうき】を仕掛【しか】けた疑【うたが】いがある。",
+    "meaning": "He is suspected of planting a listening device."
+  },
+  {
+    "sentence": "貴重品は肌身離さず持ち歩きましょう。",
+    "sentence_furigana": "貴重品【きちょうひん】は肌身離【はだみはな】さず持【も】ち歩【ある】きましょう。",
+    "meaning": "Let's carry valuables with us at all times."
+  },
+  {
+    "sentence": "彼女は少し小物を盗む癖があった。",
+    "sentence_furigana": "彼女【かのじょ】は少【すこ】し小物【こもの】を盗【ぬす】む癖【くせ】があった。",
+    "meaning": "She had a habit of stealing small items."
+  },
+  {
+    "sentence": "泥棒が家に侵入した形跡はない。",
+    "sentence_furigana": "泥棒【どろぼう】が家【いえ】に侵入【しんにゅう】した形跡【けいせき】はない。",
+    "meaning": "There is no sign of a burglar breaking into the house."
+  },
+  {
+    "sentence": "彼は盗作で非難された。",
+    "sentence_furigana": "彼【かれ】は盗作【とうさく】で非難【ひなん】された。",
+    "meaning": "He was criticized for plagiarism."
+  },
+  {
+    "sentence": "その絵画は盗まれたものだった。",
+    "sentence_furigana": "その絵画【かいが】は盗【ぬす】まれたものだった。",
+    "meaning": "That painting was stolen."
+  },
+  {
+    "sentence": "彼は小心翼翼と歩いていた。",
+    "sentence_furigana": "彼【かれ】は小心翼翼【しょうしんよくよく】と歩【ある】いていた。",
+    "meaning": "He was walking very timidly."
+  },
+  {
+    "sentence": "自転車の盗難に注意してください。",
+    "sentence_furigana": "自転車【じてんしゃ】の盗難【とうなん】に注意【ちゅうい】してください。",
+    "meaning": "Please be careful about bicycle theft."
+  },
+  {
+    "sentence": "彼女はこっそりとお菓子を盗んだ。",
+    "sentence_furigana": "彼女【かのじょ】はこっそりとお菓子【かし】を盗【ぬす】んだ。",
+    "meaning": "She stealthily stole some snacks."
+  },
+  {
+    "sentence": "窃盗罪で起訴された。",
+    "sentence_furigana": "窃盗罪【せっとうざい】で起訴【きそ】された。",
+    "meaning": "He was indicted for theft."
+  },
+  {
+    "sentence": "その男は盗賊のようだった。",
+    "sentence_furigana": "その男【おとこ】は盗賊【とうぞく】のようだった。",
+    "meaning": "That man looked like a bandit."
+  },
+  {
+    "sentence": "彼の小心な性格が問題だった。",
+    "sentence_furigana": "彼【かれ】の小心【しょうしん】な性格【せいかく】が問題【もんだい】だった。",
+    "meaning": "His timid personality was the problem."
+  },
+  {
+    "sentence": "貴重品は кабин 안에 보관하세요。",
+    "sentence_furigana": "貴重品【きちょうひん】は кабин 【かびん】の中に【なか】に保管【ほかん】してください。",
+    "meaning": "Please store valuables in the cabin."
+  },
+  {
+    "sentence": "彼は盗聴されたくない。",
+    "sentence_furigana": "彼【かれ】は盗聴【とうちょう】されたくない。",
+    "meaning": "He doesn't want to be eavesdropped on."
+  },
+  {
+    "sentence": "私は盗みを働いたことはない。",
+    "sentence_furigana": "私【わたし】は盗【ぬす】みを働【はたら】いたことはない。",
+    "meaning": "I have never stolen anything."
+  },
+  {
+    "sentence": "泥棒に入られたらしい。",
+    "sentence_furigana": "泥棒【どろぼう】に入【はい】られたらしい。",
+    "meaning": "It seems like a burglary occurred."
+  },
+  {
+    "sentence": "彼は他人アイデアを盗んだ。",
+    "sentence_furigana": "彼【かれ】は他人【たにん】のアイデアを盗【ぬす】んだ。",
+    "meaning": "He stole someone else's ideas."
+  },
+  {
+    "sentence": "この品物は盗品です。",
+    "sentence_furigana": "この品物【しなもの】は盗品【とうひん】です。",
+    "meaning": "This item is stolen goods."
+  },
+  {
+    "sentence": "彼女は人目を盗んで逃げ出した。",
+    "sentence_furigana": "彼女【かのじょ】は人目【ひとめ】を盗【ぬす】んで逃【に】げ出【だ】した。",
+    "meaning": "She stole away unnoticed and ran off."
+  },
+  {
+    "sentence": "盗まれた猫が戻ってきた。",
+    "sentence_furigana": "盗【ぬす】まれた猫【ねこ】が戻【もど】ってきた。",
+    "meaning": "The stolen cat has returned."
+  },
+  {
+    "sentence": "彼はそのアイデアを盗もうとした。",
+    "sentence_furigana": "彼【かれ】はそのアイデアを盗【ぬす】もうとした。",
+    "meaning": "He tried to steal that idea."
+  },
+  {
+    "sentence": "盗聴は違法行為です。",
+    "sentence_furigana": "盗聴【とうちょう】は違法行為【いほうこうい】です。",
+    "meaning": "Eavesdropping is illegal."
+  },
+  {
+    "sentence": "彼は小心翼翼と部屋に入った。",
+    "sentence_furigana": "彼【かれ】は小心翼翼【しょうしんよくよく】と部屋【へや】に入【はい】った。",
+    "meaning": "He entered the room very timidly."
+  },
+  {
+    "sentence": "自転車を盗むことは許されません。",
+    "sentence_furigana": "自転車【じてんしゃ】を盗【ぬす】むことは許【ゆる】されません。",
+    "meaning": "Stealing bicycles is not allowed."
+  },
+  {
+    "sentence": "彼女はこっそりとお金を盗んだ。",
+    "sentence_furigana": "彼女【かのじょ】はこっそりとお金【かね】を盗【ぬす】んだ。",
+    "meaning": "She stealthily stole money."
+  },
+  {
+    "sentence": "盗まれたダイヤモンドが見つかった。",
+    "sentence_furigana": "盗【ぬす】まれたダイヤモンドが見【み】つかった。",
+    "meaning": "The stolen diamond was found."
+  },
+  {
+    "sentence": "彼は盗掘された遺物を売っていた。",
+    "sentence_furigana": "彼【かれ】は盗掘【とうくつ】された遺物【いぶつ】を売【う】っていた。",
+    "meaning": "He was selling excavated artifacts."
+  },
+  {
+    "sentence": "泥棒が家に忍び込んだ。",
+    "sentence_furigana": "泥棒【どろぼう】が家【いえ】に忍【しの】び込【こ】んだ。",
+    "meaning": "A burglar sneaked into the house."
+  },
+  {
+    "sentence": "彼の作品は盗作ではないと主張した。",
+    "sentence_furigana": "彼【かれ】の作品【さくひん】は盗作【とうさく】ではないと主張【しゅちょう】した。",
+    "meaning": "He claimed his work was not plagiarized."
+  },
+  {
+    "sentence": "その店では万引きが多発している。",
+    "sentence_furigana": "その店【みせ】では万引き【まんびき】が多発【たはつ】している。",
+    "meaning": "Shoplifting is frequent at that store."
+  },
+  {
+    "sentence": "彼は人目を盗んで贈り物を受け取った。",
+    "sentence_furigana": "彼【かれ】は人目【ひとめ】を盗【ぬす】んで贈物【おく】り物【もの】を受【う】け取【と】った。",
+    "meaning": "He received a gift stealthily."
+  },
+  {
+    "sentence": "盗難防止の対策を強化する必要がある。",
+    "sentence_furigana": "盗難防止【とうなんぼうし】の対策【たいさく】を強化【きょうか】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to strengthen anti-theft measures."
+  },
+  {
+    "sentence": "彼は小心から、何も言えなかった。",
+    "sentence_furigana": "彼【かれ】は小心【しょうしん】から、何も言【い】えなかった。",
+    "meaning": "He couldn't say anything due to his timidity."
+  },
+  {
+    "sentence": "盗まれた自転車が見つかった。",
+    "sentence_furigana": "盗【ぬす】まれた自転車【じてんしゃ】が見【み】つかった。",
+    "meaning": "The stolen bicycle was found."
+  },
+  {
+    "sentence": "彼女はこっそりとお金を盗んだようだ。",
+    "sentence_furigana": "彼女【かのじょ】はこっそりとお金【かね】を盗【ぬす】んだようだ。",
+    "meaning": "It seems she stole money stealthily."
+  },
+  {
+    "sentence": "盗難事件の捜査が進められている。",
+    "sentence_furigana": "盗難事件【とうなんじけん】の捜査【そうさ】が進【すす】められている。",
+    "meaning": "The investigation into the theft is progressing."
+  },
+  {
+    "sentence": "彼は人のものを盗むことに抵抗がない。",
+    "sentence_furigana": "彼【かれ】は人【ひと】のものを盗【ぬす】むことに抵抗【ていこう】がない。",
+    "meaning": "He has no qualms about stealing from others."
+  },
+  {
+    "sentence": "盗まれた絵画がオークションに出品された。",
+    "sentence_furigana": "盗【ぬす】まれた絵画【かいが】がオークションに出品【しゅっぴん】された。",
+    "meaning": "The stolen painting was put up for auction."
+  },
+  {
+    "sentence": "彼女は人目を盗んでその場を離れた。",
+    "sentence_furigana": "彼女【かのじょ】は人目【ひとめ】を盗【ぬす】んでその場【ば】を離【はな】れた。",
+    "meaning": "She stole away from the scene unnoticed."
+  },
+  {
+    "sentence": "盗聴器が仕掛けられている疑いがある。",
+    "sentence_furigana": "盗聴器【とうちょうき】が仕掛【しか】けられている疑【うたが】いがある。",
+    "meaning": "There is suspicion that a listening device has been planted."
+  },
+  {
+    "sentence": "小心な彼は、人に意見を言えない。",
+    "sentence_furigana": "小心【しょうしん】な彼【かれ】は、人【ひと】に意見【いけん】を言【い】えない。",
+    "meaning": "Being timid, he cannot voice his opinion to others."
+  },
+  {
+    "sentence": "盗まれた宝石が無事に戻ってきた。",
+    "sentence_furigana": "盗【ぬす】まれた宝石【ほうせき】が無事【ぶじ】に戻【もど】ってきた。",
+    "meaning": "The stolen jewels have safely returned."
+  },
+  {
+    "sentence": "彼は盗聴を試みた。",
+    "sentence_furigana": "彼【かれ】は盗聴【とうちょう】を試【こころ】みた。",
+    "meaning": "He attempted eavesdropping."
+  },
+  {
+    "sentence": "彼女は万引きで捕まった。",
+    "sentence_furigana": "彼女【かのじょ】は万引き【まんびき】で捕【つか】まった。",
+    "meaning": "She was caught shoplifting."
+  },
+  {
+    "sentence": "盗難品を所持していた罪で逮捕された。",
+    "sentence_furigana": "盗難品【とうなんひん】を所持【しょじ】していた罪【つみ】で逮捕【たいほ】された。",
+    "meaning": "He was arrested for possessing stolen goods."
+  },
+  {
+    "sentence": "彼は盗作疑惑が持たれている。",
+    "sentence_furigana": "彼【かれ】は盗作疑惑【とうさくぎわく】を持【も】たれている。",
+    "meaning": "He is suspected of plagiarism."
+  },
+  {
+    "sentence": "泥棒が窓から侵入しようとした。",
+    "sentence_furigana": "泥棒【どろぼう】が窓【まど】から侵入【しんにゅう】しようとした。",
+    "meaning": "A burglar tried to break in through the window."
+  },
+  {
+    "sentence": "彼の盗作行為は明らかだった。",
+    "sentence_furigana": "彼【かれ】の盗作行為【とうさくこうい】は明【あき】らかだった。",
+    "meaning": "His act of plagiarism was evident."
+  },
+  {
+    "sentence": "盗まれたバッグが見つかった。",
+    "sentence_furigana": "盗【ぬす】まれたバッグが見【み】つかった。",
+    "meaning": "The stolen bag was found."
+  },
+  {
+    "sentence": "彼女は人目を盗んで彼に近づいた。",
+    "sentence_furigana": "彼女【かのじょ】は人目【ひとめ】を盗【ぬす】んで彼【かれ】に近【ちか】づいた。",
+    "meaning": "She stealthily approached him."
+  },
+  {
+    "sentence": "盗難防止のために、鍵を二重にかけた。",
+    "sentence_furigana": "盗難防止【とうなんぼうし】のために、鍵【かぎ】を二重【にじゅう】にかかった。",
+    "meaning": "For theft prevention, I locked it twice."
+  },
+  {
+    "sentence": "彼は小心から、自分の意見を曲げた。",
+    "sentence_furigana": "彼【かれ】は小心【しょうしん】から、自分【じぶん】の意見【いけん】を曲【ま】げた。",
+    "meaning": "Out of timidity, he yielded his opinion."
+  },
+  {
+    "sentence": "盗まれた自転車が犯人とともに発見された。",
+    "sentence_furigana": "盗【ぬす】まれた自転車【じてんしゃ】が犯人【はんにん】とともに発見【はっけん】された。",
+    "meaning": "The stolen bicycle was found along with the culprit."
+  },
+  {
+    "sentence": "彼女はこっそりとお金を盗んでいた。",
+    "sentence_furigana": "彼女【かのじょ】はこっそりとお金【かね】を盗【ぬす】んでいた。",
+    "meaning": "She had been stealing money stealthily."
+  },
+  {
+    "sentence": "盗まれた貴金属が市場に出回っていた。",
+    "sentence_furigana": "盗【ぬす】まれた貴金属【ききんぞく】が市場【しじょう】に出回【でまわ】っていた。",
+    "meaning": "The stolen precious metals were circulating in the market."
+  },
+  {
+    "sentence": "彼は盗作で訴えられた。",
+    "sentence_furigana": "彼【かれ】は盗作【とうさく】で訴【うった】えられた。",
+    "meaning": "He was sued for plagiarism."
+  },
+  {
+    "sentence": "泥棒が監視カメラに映っていた。",
+    "sentence_furigana": "泥棒【どろぼう】が監視カメラ【かんしかしめら】に映【うつ】っていた。",
+    "meaning": "The burglar appeared on the security camera."
+  },
+  {
+    "sentence": "そのアイデアは彼によって盗まれた。",
+    "sentence_furigana": "そのアイデアは彼【かれ】によって盗【ぬす】まれた。",
+    "meaning": "That idea was stolen by him."
+  },
+  {
+    "sentence": "万引きは絶対にしてはいけない。",
+    "sentence_furigana": "万引き【まんびき】は絶対【ぜったい】にしてはいけない。",
+    "meaning": "You must never shoplift."
+  },
+  {
+    "sentence": "彼女は人目を盗んで写真を撮った。",
+    "sentence_furigana": "彼女【かのじょ】は人目【ひとめ】を盗【ぬす】んで写真【しゃしん】を撮【と】った。",
+    "meaning": "She took a photo stealthily."
+  },
+  {
+    "sentence": "盗難車の捜索が行われている。",
+    "sentence_furigana": "盗難車【とうなんしゃ】の捜索【そうさく】が行【おこな】われている。",
+    "meaning": "A search for the stolen car is underway."
+  },
+  {
+    "sentence": "彼は小心から自分の過ちを認めなかった。",
+    "sentence_furigana": "彼【かれ】は小心【しょうしん】から、自分【じぶん】の過誤【あやま】ちを認【みと】めなかった。",
+    "meaning": "Out of timidity, he did not admit his mistake."
+  },
+  {
+    "sentence": "盗まれた現金は発見されなかった。",
+    "sentence_furigana": "盗【ぬす】まれた現金【げんきん】は発見【はっけん】されなかった。",
+    "meaning": "The stolen cash was not found."
+  },
+  {
+    "sentence": "彼女はこっそりとおもちゃを盗んだ。",
+    "sentence_furigana": "彼女【かのじょ】はこっそりとおもちゃを盗【ぬす】んだ。",
+    "meaning": "She stealthily stole a toy."
+  },
+  {
+    "sentence": "盗まれた自転車が戻ってきた。",
+    "sentence_furigana": "盗【ぬす】まれた自転車【じてんしゃ】が戻【もど】ってきた。",
+    "meaning": "The stolen bicycle returned."
+  },
+  {
+    "sentence": "彼は盗作だと非難された。",
+    "sentence_furigana": "彼【かれ】は盗作【とうさく】だと非難【ひなん】された。",
+    "meaning": "He was accused of plagiarism."
+  },
+  {
+    "sentence": "泥棒が侵入した形跡があった。",
+    "sentence_furigana": "泥棒【どろぼう】が侵入【しんにゅう】した形跡【けいせき】があった。",
+    "meaning": "There was evidence of a burglary."
+  },
+  {
+    "sentence": "その考えは彼によって盗まれた。",
+    "sentence_furigana": "その考【かんが】えは彼【かれ】によって盗【ぬす】まれた。",
+    "meaning": "That idea was stolen by him."
+  },
+  {
+    "sentence": "万引きは軽犯罪ではない。",
+    "sentence_furigana": "万引き【まんびき】は軽犯罪【けいはんざい】ではない。",
+    "meaning": "Shoplifting is not a minor offense."
+  },
+  {
+    "sentence": "彼女は人目を盗んで秘密の計画を立てた。",
+    "sentence_furigana": "彼女【かのじょ】は人目【ひとめ】を盗【ぬす】んで秘密【ひみつ】の計画【けいかく】を立【た】てた。",
+    "meaning": "She secretly made a plan."
+  },
+  {
+    "sentence": "盗難の疑いで逮捕された。",
+    "sentence_furigana": "盗難【とうなん】の疑【うたが】いで逮捕【たいほ】された。",
+    "meaning": "He was arrested on suspicion of theft."
+  },
+  {
+    "sentence": "彼は小心から、新しいことに挑戦できなかった。",
+    "sentence_furigana": "彼【かれ】は小心【しょうしん】から、新【あたら】しいことに挑戦【ちょうせん】できなかった。",
+    "meaning": "Being timid, he couldn't try new things."
+  },
+  {
+    "sentence": "盗まれた車が見つかった。",
+    "sentence_furigana": "盗【ぬす】まれた車【くるま】が見【み】つかった。",
+    "meaning": "The stolen car was found."
+  },
+  {
+    "sentence": "彼女はこっそりとお金を盗んでいった。",
+    "sentence_furigana": "彼女【かのじょ】はこっそりとお金【かね】を盗【ぬす】んでいった。",
+    "meaning": "She stole money and went away stealthily."
+  },
+  {
+    "sentence": "盗まれた宝石が戻ってきた。",
+    "sentence_furigana": "盗【ぬす】まれた宝石【ほうせき】が戻【もど】ってきた。",
+    "meaning": "The stolen jewel returned."
+  },
+  {
+    "sentence": "彼は盗作行為を否定した。",
+    "sentence_furigana": "彼【かれ】は盗作行為【とうさくこうい】を否定【ひてい】した。",
+    "meaning": "He denied the act of plagiarism."
+  },
+  {
+    "sentence": "泥棒が入らないように戸締りをしっかりした。",
+    "sentence_furigana": "泥棒【どろぼう】が入【はい】らないように戸締【とじ】りをしっかりした。",
+    "meaning": "I locked up tightly to prevent burglars from entering."
+  },
+  {
+    "sentence": "その話は盗まれた話だ。",
+    "sentence_furigana": "その話【はなし】は盗【ぬす】まれた話【はなし】だ。",
+    "meaning": "That story was stolen."
+  },
+  {
+    "sentence": "万引きを見つかった。",
+    "sentence_furigana": "万引き【まんびき】を見【み】つかった。",
+    "meaning": "Shoplifting was discovered."
+  },
+  {
+    "sentence": "彼女は人目を盗んで秘密のメッセージを送った。",
+    "sentence_furigana": "彼女【かのじょ】は人目【ひとめ】を盗【ぬす】んで秘密【ひみつ】のメッセージを送【おく】った。",
+    "meaning": "She stealthily sent a secret message."
+  },
+  {
+    "sentence": "盗難に関する情報提供を求む。",
+    "sentence_furigana": "盗難【とうなん】に関する情報提供【じょうほうていきょう】を求【もと】む。",
+    "meaning": "We request information regarding the theft."
+  }
+]

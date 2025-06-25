@@ -1,0 +1,562 @@
+[
+  {
+    "sentence": "この土地は肥沃な壌土で覆われている。",
+    "sentence_furigana": "この土地【とち】は肥沃【ひよく】な壌土【じょうど】で覆【おお】われている。",
+    "meaning": "This land is covered with fertile soil."
+  },
+  {
+    "sentence": "彼らは荒れ果てた土地を開墾した。",
+    "sentence_furigana": "彼ら【かれら】は荒【あ】れ果【は】てた土地【とち】を開墾【かいこん】した。",
+    "meaning": "They reclaimed the devastated land."
+  },
+  {
+    "sentence": "豊かな壌土は作物の成長に不可欠だ。",
+    "sentence_furigana": "豊【ゆた】かな壌土【じょうど】は作物【さくもつ】の成長【せいちょう】に不可欠【ふかけつ】だ。",
+    "meaning": "Rich soil is essential for crop growth."
+  },
+  {
+    "sentence": "この地域は土壌汚染の問題を抱えている。",
+    "sentence_furigana": "この地域【ちいき】は土壌汚染【どじょうおせん】の問題【もんだい】を抱【かか】えている。",
+    "meaning": "This region faces soil contamination issues."
+  },
+  {
+    "sentence": "古い城跡の周りは草木が生い茂っていた。",
+    "sentence_furigana": "古【ふる】い城跡【しろあと】の周【まわ】りは草木【くさき】が生【は】い茂【しげ】っていた。",
+    "meaning": "Vegetation grew lushly around the old castle ruins."
+  },
+  {
+    "sentence": "その耕地は非常に良質な土壌を持っている。",
+    "sentence_furigana": "その耕地【こうち】は非常【ひじょう】に良質【りょうしつ】な土壌【どじょう】を持【も】っている。",
+    "meaning": "That farmland has very high-quality soil."
+  },
+  {
+    "sentence": "砂漠の土地を緑化する計画が進められている。",
+    "sentence_furigana": "砂漠【さばく】の土地【とち】を緑化【りょくか】する計画【けいかく】が進【すす】められている。",
+    "meaning": "Plans are underway to green the desert land."
+  },
+  {
+    "sentence": "豊かな恵みをもたらす土壌を大切にしなければならない。",
+    "sentence_furigana": "豊【ゆた】かな恵【めぐ】みをもたらす土壌【どじょう】を大切【たいせつ】にしなければならない。",
+    "meaning": "We must cherish the soil that brings abundant blessings."
+  },
+  {
+    "sentence": "農家は作物を育てるために土壌改良を行った。",
+    "sentence_furigana": "農家【のうか】は作物【さくもつ】を育【そだ】てるために土壌改良【どじょうかいりょう】を行【おこな】った。",
+    "meaning": "The farmer improved the soil to grow crops."
+  },
+  {
+    "sentence": "この辺りの土地は粘土質で水はけが悪い。",
+    "sentence_furigana": "この辺【あ】たりの土地【とち】は粘土質【ねんどしつ】で水捌【みずは】けが悪【わる】い。",
+    "meaning": "The soil in this area is clayey and poorly drained."
+  },
+  {
+    "sentence": "大地は生命の源である。",
+    "sentence_furigana": "大地【だいち】は生命【せいめい】の源【みなもと】である。",
+    "meaning": "The earth is the source of life."
+  },
+  {
+    "sentence": "彼らはその土地の大部分を所有している。",
+    "sentence_furigana": "彼ら【かれら】はその土地【とち】の大部分【だいぶぶん】を所有【しょゆう】している。",
+    "meaning": "They own most of that land."
+  },
+  {
+    "sentence": "改良された土壌は作物の収穫量を増やした。",
+    "sentence_furigana": "改良【かいりょう】された土壌【どじょう】は作物【さくもつ】の収穫量【しゅうかくりょう】を増【ふ】やした。",
+    "meaning": "The improved soil increased crop yields."
+  },
+  {
+    "sentence": "この地域は広大な土地が広がっている。",
+    "sentence_furigana": "この地域【ちいき】は広大【こうだい】な土地【とち】が広【ひろ】がっている。",
+    "meaning": "Vast lands stretch across this region."
+  },
+  {
+    "sentence": "土壌侵食を防ぐための対策が必要だ。",
+    "sentence_furigana": "土壌侵食【どじょうしんしょく】を防【ふせ】ぐための対策【たいさく】が必要【ひつよう】だ。",
+    "meaning": "Measures are needed to prevent soil erosion."
+  },
+  {
+    "sentence": "彼女は古い家が建つ土地を購入した。",
+    "sentence_furigana": "彼女【かのじょ】は古【ふる】い家【いえ】が建【た】つ土地【とち】を購入【こうにゅう】した。",
+    "meaning": "She bought land where an old house stood."
+  },
+  {
+    "sentence": "その湿地帯の土壌は有機物に富んでいる。",
+    "sentence_furigana": "その湿地帯【しっちたい】の土壌【どじょう】は有機物【ゆうきぶつ】に富【と】んでいる。",
+    "meaning": "The soil in that wetland is rich in organic matter."
+  },
+  {
+    "sentence": "土地の所有権に関する紛争が起きている。",
+    "sentence_furigana": "土地【とち】の所有権【しょゆうけん】に関【かん】する紛争【ふんそう】が起【お】きている。",
+    "meaning": "A dispute over land ownership has arisen."
+  },
+  {
+    "sentence": "この土壌はミネラルが豊富で農業に適している。",
+    "sentence_furigana": "この土壌【どじょう】はミネラルが豊富【ほうふ】で農業【のうぎょう】に適【てき】している。",
+    "meaning": "This soil is rich in minerals and suitable for agriculture."
+  },
+  {
+    "sentence": "彼らは開拓されていない土地を開墾しようとしている。",
+    "sentence_furigana": "彼ら【かれら】は開拓【かいたく】されていない土地【とち】を開墾【かいこん】しようとしている。",
+    "meaning": "They are trying to cultivate undeveloped land."
+  },
+  {
+    "sentence": "この果樹園の土壌は酸性度が少し高い。",
+    "sentence_furigana": "この果樹園【かじゅえん】の土壌【どじょう】は酸性度【さんせいど】が少【すこ】し高【たか】い。",
+    "meaning": "The soil in this orchard is slightly acidic."
+  },
+  {
+    "sentence": "土地の区画整理が進められている。",
+    "sentence_furigana": "土地【とち】の区画整理【くがくせいり】が進【すす】められている。",
+    "meaning": "Land readjustment is being carried out."
+  },
+  {
+    "sentence": "その土壌は植物の根をしっかりと支える。",
+    "sentence_furigana": "その土壌【どじょう】は植物【しょくぶつ】の根【ね】をしっかり支【ささ】える。",
+    "meaning": "The soil firmly supports the plant roots."
+  },
+  {
+    "sentence": "彼は広大な土地を相続した。",
+    "sentence_furigana": "彼【かれ】は広大【こうだい】な土地【とち】を相続【そうぞく】した。",
+    "meaning": "He inherited a vast tract of land."
+  },
+  {
+    "sentence": "この地域は豊かな土壌のおかげで農業が盛んだ。",
+    "sentence_furigana": "この地域【ちいき】は豊【ゆた】かな土壌【どじょう】のおかげで農業【のうぎょう】が盛【さか】んだ。",
+    "meaning": "Agriculture thrives in this region thanks to its rich soil."
+  },
+  {
+    "sentence": "土地の有効活用が求められている。",
+    "sentence_furigana": "土地【とち】の有効活用【ゆうこうかつよう】が求【もと】められている。",
+    "meaning": "Effective utilization of land is required."
+  },
+  {
+    "sentence": "この土壌は保水力に優れている。",
+    "sentence_furigana": "この土壌【どじょう】は保水力【ほすいりょく】に優【すぐ】れている。",
+    "meaning": "This soil has excellent water retention."
+  },
+  {
+    "sentence": "彼らは新しい土地を購入する予定だ。",
+    "sentence_furigana": "彼ら【かれら】は新【あら】たな土地【とち】を購入【こうにゅう】する予定【よてい】だ。",
+    "meaning": "They plan to purchase new land."
+  },
+  {
+    "sentence": "その土壌は微生物活動が活発だ。",
+    "sentence_furigana": "その土壌【どじょう】は微生物活動【びせいぶつかつどう】が活発【かっぱつ】だ。",
+    "meaning": "The soil has active microbial life."
+  },
+  {
+    "sentence": "土地の売買に関する規制が緩和された。",
+    "sentence_furigana": "土地【とち】の売買【ばいばい】に関【かん】する規制【きせい】が緩和【かんわ】された。",
+    "meaning": "Regulations regarding land sales have been eased."
+  },
+  {
+    "sentence": "この土壌は栄養分が不足している。",
+    "sentence_furigana": "この土壌【どじょう】は栄養分【えいようぶん】が不足【ふそく】している。",
+    "meaning": "This soil is deficient in nutrients."
+  },
+  {
+    "sentence": "彼らは祖先の土地を守り続けている。",
+    "sentence_furigana": "彼ら【かれら】は祖先【そせん】の土地【とち】を守【まも】り続【つづ】けている。",
+    "meaning": "They continue to protect their ancestral land."
+  },
+  {
+    "sentence": "その農場は肥沃な土壌で知られている。",
+    "sentence_furigana": "その農場【のうじょう】は肥沃【ひよく】な土壌【どじょう】で知【し】られている。",
+    "meaning": "That farm is known for its fertile soil."
+  },
+  {
+    "sentence": "土地の境界線が不明確になっている。",
+    "sentence_furigana": "土地【とち】の境界線【きょうかいせん】が不明確【ふめいかく】になっている。",
+    "meaning": "The land boundaries have become unclear."
+  },
+  {
+    "sentence": "この土壌は砂が多く、水はけが良い。",
+    "sentence_furigana": "この土壌【どじょう】は砂【すな】が多く【おお】く、水捌【みずは】けが良い【よい】。",
+    "meaning": "This soil contains a lot of sand and drains well."
+  },
+  {
+    "sentence": "彼らは新しい住居のために土地を探している。",
+    "sentence_furigana": "彼ら【かれら】は新【あら】たな住居【じゅうきょ】のために土地【とち】を探【さが】している。",
+    "meaning": "They are looking for land for a new residence."
+  },
+  {
+    "sentence": "その土壌は石が多く含まれている。",
+    "sentence_furigana": "その土壌【どじょう】は石【いし】が多く【おお】く含【ふく】まれている。",
+    "meaning": "The soil contains many stones."
+  },
+  {
+    "sentence": "土地の利用方法について話し合いが行われた。",
+    "sentence_furigana": "土地【とち】の利用方法【りようほうほう】について話【はな】し合【あ】いが行【おこな】われた。",
+    "meaning": "A discussion was held about land use."
+  },
+  {
+    "sentence": "この土壌は腐植土が豊富で栄養たっぷりだ。",
+    "sentence_furigana": "この土壌【どじょう】は腐植土【ふしょくど】が豊富【ほうふ】で栄養【えいよう】たっぷりだ。",
+    "meaning": "This soil is rich in humus and full of nutrients."
+  },
+  {
+    "sentence": "彼らは古くからの領地を守り抜いた。",
+    "sentence_furigana": "彼ら【かれら】は古【ふる】くからの領地【りょうち】を守【まも】り抜【ぬ】いた。",
+    "meaning": "They successfully defended their ancient territory."
+  },
+  {
+    "sentence": "その土壌は粘土分が少なく、軽い。",
+    "sentence_furigana": "その土壌【どじょう】は粘土分【ねんどぶん】が少【すく】なく、軽【かる】い。",
+    "meaning": "The soil has little clay and is light."
+  },
+  {
+    "sentence": "土地の価値が近年上昇している。",
+    "sentence_furigana": "土地【とち】の価値【かち】が近年【きんねん】上昇【じょうしょう】している。",
+    "meaning": "Land values have been increasing in recent years."
+  },
+  {
+    "sentence": "この土壌は塩分濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】は塩分濃度【えんぶんのうど】が高【たか】い。",
+    "meaning": "This soil has a high salt concentration."
+  },
+  {
+    "sentence": "彼らは荒れ地を開墾して農場を作った。",
+    "sentence_furigana": "彼ら【かれら】は荒【あ】れ地【ち】を開墾【かいこん】して農場【のうじょう】を作【つく】った。",
+    "meaning": "They reclaimed wasteland to create a farm."
+  },
+  {
+    "sentence": "その土壌は透水性が良い。",
+    "sentence_furigana": "その土壌【どじょう】は透水性【とうすいせい】が良い【よい】。",
+    "meaning": "The soil has good permeability."
+  },
+  {
+    "sentence": "土地の買い占めが問題になっている。",
+    "sentence_furigana": "土地【とち】の買占【か占】めが問題【もんだい】になっている。",
+    "meaning": "Land hoarding is becoming a problem."
+  },
+  {
+    "sentence": "この土壌はアルカリ性が強い。",
+    "sentence_furigana": "この土壌【どじょう】はアルカリ性【せい】が強【つよ】い。",
+    "meaning": "This soil is highly alkaline."
+  },
+  {
+    "sentence": "彼らは豊かな土壌の土地に移住した。",
+    "sentence_furigana": "彼ら【かれら】は豊【ゆた】かな土壌【どじょう】の土地【とち】に移住【いじゅう】した。",
+    "meaning": "They emigrated to land with fertile soil."
+  },
+  {
+    "sentence": "その土壌は有機炭素の含有量が多い。",
+    "sentence_furigana": "その土壌【どじょう】は有機炭素【ゆうきたんそ】の含有量【がんゆうりょう】が多い【おお】い。",
+    "meaning": "The soil has a high organic carbon content."
+  },
+  {
+    "sentence": "土地の測量が行われた。",
+    "sentence_furigana": "土地【とち】の測量【そくりょう】が行【おこな】われた。",
+    "meaning": "Land surveying was conducted."
+  },
+  {
+    "sentence": "この土壌は窒素分が不足している。",
+    "sentence_furigana": "この土壌【どじょう】は窒素分【ちっそぶん】が不足【ふそく】している。",
+    "meaning": "This soil is lacking in nitrogen."
+  },
+  {
+    "sentence": "彼らは祖国の土壌を守るために戦った。",
+    "sentence_furigana": "彼ら【かれら】は祖国【そこく】の土壌【どじょう】を守【まも】るために戦【たたか】った。",
+    "meaning": "They fought to protect the soil of their homeland."
+  },
+  {
+    "sentence": "その土地は古くからの信仰の対象だった。",
+    "sentence_furigana": "その土地【とち】は古【ふる】くからの信仰【しんこう】の対象【たいしょう】だった。",
+    "meaning": "That land was an object of ancient faith."
+  },
+  {
+    "sentence": "この土壌は微生物の多様性が豊かだ。",
+    "sentence_furigana": "この土壌【どじょう】は微生物【びせいぶつ】の多様性【たようせい】が豊【ゆた】かだ。",
+    "meaning": "This soil is rich in microbial diversity."
+  },
+  {
+    "sentence": "彼らは土地を開発して新しい街を作った。",
+    "sentence_furigana": "彼ら【かれら】は土地【とち】を開【かい】発【はつ】して新【あら】たな街【まち】を作【つく】った。",
+    "meaning": "They developed the land and created a new town."
+  },
+  {
+    "sentence": "その土壌はリン酸の含有量が高い。",
+    "sentence_furigana": "その土壌【どじょう】はリン酸【さん】の含有量【がんゆうりょう】が高【たか】い。",
+    "meaning": "The soil has a high phosphorus content."
+  },
+  {
+    "sentence": "土地の所有者を特定する必要がある。",
+    "sentence_furigana": "土地【とち】の所有者【しょゆうしゃ】を特定【とくてい】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to identify the landowner."
+  },
+  {
+    "sentence": "この土壌はカリウムが不足している。",
+    "sentence_furigana": "この土壌【どじょう】はカリウムが不足【ふそく】している。",
+    "meaning": "This soil is deficient in potassium."
+  },
+  {
+    "sentence": "彼らは母なる大地に感謝している。",
+    "sentence_furigana": "彼ら【かれら】は母【はは】なる大地【だいち】に感謝【かんしゃ】している。",
+    "meaning": "They are grateful to mother earth."
+  },
+  {
+    "sentence": "その土地は貴重な鉱物資源を含んでいる。",
+    "sentence_furigana": "その土地【とち】は貴重【きちょう】な鉱物資源【こうぶつしげん】を含【ふく】んでいる。",
+    "meaning": "That land contains valuable mineral resources."
+  },
+  {
+    "sentence": "この土壌はホウ素の含有量が高い。",
+    "sentence_furigana": "この土壌【どじょう】はホウ素【そ】の含有量【がんゆうりょう】が高【たか】い。",
+    "meaning": "This soil has a high boron content."
+  },
+  {
+    "sentence": "彼らは祖国の大地を愛している。",
+    "sentence_furigana": "彼ら【かれら】は祖国【そこく】の大地【だいち】を愛【あい】している。",
+    "meaning": "They love the land of their homeland."
+  },
+  {
+    "sentence": "その土壌はカルシウム分が不足している。",
+    "sentence_furigana": "その土壌【どじょう】はカルシウム分【ぶん】が不足【ふそく】している。",
+    "meaning": "The soil is deficient in calcium."
+  },
+  {
+    "sentence": "土地の利用権が問題になっている。",
+    "sentence_furigana": "土地【とち】の利用権【りようけん】が問題【もんだい】になっている。",
+    "meaning": "Land use rights are becoming an issue."
+  },
+  {
+    "sentence": "この土壌はマグネシウムの含有量が高い。",
+    "sentence_furigana": "この土壌【どじょう】はマグネシウムの含有量【がんゆうりょう】が高【たか】い。",
+    "meaning": "This soil has a high magnesium content."
+  },
+  {
+    "sentence": "彼らは先祖伝来の土地を守ることを誓った。",
+    "sentence_furigana": "彼ら【かれら】は先祖伝来【せんぞでんらい】の土地【とち】を守【まも】ることを誓【ちか】った。",
+    "meaning": "They vowed to protect their ancestral land."
+  },
+  {
+    "sentence": "その土壌は亜鉛の含有量が高い。",
+    "sentence_furigana": "その土壌【どじょう】は亜鉛【あえん】の含有量【がんゆうりょう】が高【たか】い。",
+    "meaning": "The soil has a high zinc content."
+  },
+  {
+    "sentence": "土地の価値評価が行われた。",
+    "sentence_furigana": "土地【とち】の価値評価【かちひょうか】が行【おこな】われた。",
+    "meaning": "A land valuation was carried out."
+  },
+  {
+    "sentence": "この土壌はマンガンを多く含んでいる。",
+    "sentence_furigana": "この土壌【どじょう】はマンガンを多【おお】く含【ふく】んでいる。",
+    "meaning": "This soil contains a lot of manganese."
+  },
+  {
+    "sentence": "彼らは新しい土地に家を建てた。",
+    "sentence_furigana": "彼ら【かれら】は新【あら】たな土地【とち】に家【いえ】を建【た】てた。",
+    "meaning": "They built a house on new land."
+  },
+  {
+    "sentence": "その土壌は鉄分を多く含んでいる。",
+    "sentence_furigana": "その土壌【どじょう】は鉄分【てつぶん】を多【おお】く含【ふく】んでいる。",
+    "meaning": "The soil contains a lot of iron."
+  },
+  {
+    "sentence": "土地の再開発が進んでいる。",
+    "sentence_furigana": "土地【とち】の再開発【さいかいはつ】が進【すす】んでいる。",
+    "meaning": "Land redevelopment is progressing."
+  },
+  {
+    "sentence": "この土壌は銅を多く含んでいる。",
+    "sentence_furigana": "この土壌【どじょう】は銅【どう】を多【おお】く含【ふく】んでいる。",
+    "meaning": "This soil contains a lot of copper."
+  },
+  {
+    "sentence": "彼らは故郷の土地を懐かしく思っている。",
+    "sentence_furigana": "彼ら【かれら】は故郷【こきょう】の土地【とち】を懐【なつ】かしく思【おも】っている。",
+    "meaning": "They miss their hometown land."
+  },
+  {
+    "sentence": "その土壌はモリブデンを多く含んでいる。",
+    "sentence_furigana": "その土壌【どじょう】はモリブデンを多【おお】く含【ふく】んでいる。",
+    "meaning": "The soil contains a lot of molybdenum."
+  },
+  {
+    "sentence": "土地の権利関係が複雑になっている。",
+    "sentence_furigana": "土地【とち】の権利関係【けんりかんけい】が複雑【ふくざつ】になっている。",
+    "meaning": "Land ownership rights are becoming complicated."
+  },
+  {
+    "sentence": "この土壌は塩素を多く含んでいる。",
+    "sentence_furigana": "この土壌【どじょう】は塩素【えんそ】を多【おお】く含【ふく】んでいる。",
+    "meaning": "This soil contains a lot of chlorine."
+  },
+  {
+    "sentence": "彼らは荒野を開拓し、住み始めた。",
+    "sentence_furigana": "彼ら【かれら】は荒野【こうや】を開拓【かいたく】し、住【す】み始【はじ】めた。",
+    "meaning": "They reclaimed the wilderness and began to live there."
+  },
+  {
+    "sentence": "その土壌はニッケルを多く含んでいる。",
+    "sentence_furigana": "その土壌【どじょう】はニッケルを多【おお】く含【ふく】んでいる。",
+    "meaning": "The soil contains a lot of nickel."
+  },
+  {
+    "sentence": "土地の利用状況を調査している。",
+    "sentence_furigana": "土地【とち】の利用状況【りようじょうきょう】を調査【ちょうさ】している。",
+    "meaning": "We are investigating the land utilization status."
+  },
+  {
+    "sentence": "この土壌はコバルトを多く含んでいる。",
+    "sentence_furigana": "この土壌【どじょう】はコバルトを多【おお】く含【ふく】んでいる。",
+    "meaning": "This soil contains a lot of cobalt."
+  },
+  {
+    "sentence": "彼らは土壌のサンプルを採取した。",
+    "sentence_furigana": "彼ら【かれら】は土壌【どじょう】のサンプルを採取【さいしゅ】した。",
+    "meaning": "They collected soil samples."
+  },
+  {
+    "sentence": "その土壌はセレンを多く含んでいる。",
+    "sentence_furigana": "その土壌【どじょう】はセレンを多【おお】く含【ふく】んでいる。",
+    "meaning": "The soil contains a lot of selenium."
+  },
+  {
+    "sentence": "土地の有効活用が重要課題となっている。",
+    "sentence_furigana": "土地【とち】の有効活用【ゆうこうかつよう】が重要課題【じゅうようかだい】となっている。",
+    "meaning": "Effective land utilization is an important issue."
+  },
+  {
+    "sentence": "この土壌はヨウ素を多く含んでいる。",
+    "sentence_furigana": "この土壌【どじょう】はヨウ素【そ】を多【おお】く含【ふく】んでいる。",
+    "meaning": "This soil contains a lot of iodine."
+  },
+  {
+    "sentence": "彼らは土地を売却して資金を調達した。",
+    "sentence_furigana": "彼ら【かれら】は土地【とち】を売却【ばいきゃく】して資金【しきん】を調達【ちょうたつ】した。",
+    "meaning": "They raised funds by selling land."
+  },
+  {
+    "sentence": "その土壌は臭素を多く含んでいる。",
+    "sentence_furigana": "その土壌【どじょう】は臭素【しゅうそ】を多【おお】く含【ふく】んでいる。",
+    "meaning": "The soil contains a lot of bromine."
+  },
+  {
+    "sentence": "土地の購入者は慎重に選ばれるべきだ。",
+    "sentence_furigana": "土地【とち】の購入者【こうにゅうしゃ】は慎重【しんちょう】に選【え】ばれるべきだ。",
+    "meaning": "Land buyers should be carefully selected."
+  },
+  {
+    "sentence": "この土壌は塩素イオン濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】は塩素イオン【えんそ】濃度【のうど】が高【たか】い。",
+    "meaning": "This soil has a high chloride ion concentration."
+  },
+  {
+    "sentence": "彼らは先祖の土地を耕し続けている。",
+    "sentence_furigana": "彼ら【かれら】は先祖【せんぞ】の土地【とち】を耕【たがや】し続【つづ】けている。",
+    "meaning": "They continue to farm their ancestral land."
+  },
+  {
+    "sentence": "その土壌は硝酸イオン濃度が高い。",
+    "sentence_furigana": "その土壌【どじょう】は硝酸イオン【しょうさん】濃度【のうど】が高【たか】い。",
+    "meaning": "The soil has a high nitrate ion concentration."
+  },
+  {
+    "sentence": "土地の価格が急騰している。",
+    "sentence_furigana": "土地【とち】の価格【かかく】が急騰【きゅうとう】している。",
+    "meaning": "Land prices are soaring."
+  },
+  {
+    "sentence": "この土壌はアンモニウムイオン濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】はアンモニウムイオン濃度【のうど】が高【たか】い。",
+    "meaning": "This soil has a high ammonium ion concentration."
+  },
+  {
+    "sentence": "彼らは祖先の土地に敬意を払っている。",
+    "sentence_furigana": "彼ら【かれら】は先祖【せんぞ】の土地【とち】に敬意【けいい】を払【はら】っている。",
+    "meaning": "They pay respect to their ancestral land."
+  },
+  {
+    "sentence": "その土壌はリン酸イオン濃度が高い。",
+    "sentence_furigana": "その土壌【どじょう】はリン酸イオン【さん】濃度【のうど】が高【たか】い。",
+    "meaning": "The soil has a high phosphate ion concentration."
+  },
+  {
+    "sentence": "土地の権利関係を明確にする必要がある。",
+    "sentence_furigana": "土地【とち】の権利関係【けんりかんけい】を明確【めいかく】にする必要【ひつよう】がある。",
+    "meaning": "It is necessary to clarify land ownership rights."
+  },
+  {
+    "sentence": "この土壌はカリウムイオン濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】はカリウムイオン濃度【のうど】が高【たか】い。",
+    "meaning": "This soil has a high potassium ion concentration."
+  },
+  {
+    "sentence": "彼らは新しい土地を開拓し、未来を築いた。",
+    "sentence_furigana": "彼ら【かれら】は新【あら】たな土地【とち】を開拓【かいたく】し、未来【みらい】を築【きず】いた。",
+    "meaning": "They pioneered new land and built a future."
+  },
+  {
+    "sentence": "その土壌はカルシウムイオン濃度が高い。",
+    "sentence_furigana": "その土壌【どじょう】はカルシウムイオン濃度【のうど】が高【たか】い。",
+    "meaning": "The soil has a high calcium ion concentration."
+  },
+  {
+    "sentence": "土地の管理が適切に行われているか確認する必要がある。",
+    "sentence_furigana": "土地【とち】の管理【かんり】が適切【てきせつ】に行【おこな】われているか確認【かくにん】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to confirm whether the land is being managed properly."
+  },
+  {
+    "sentence": "この土壌はマグネシウムイオン濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】はマグネシウムイオン濃度【のうど】が高【たか】い。",
+    "meaning": "This soil has a high magnesium ion concentration."
+  },
+  {
+    "sentence": "彼らは母なる大地に感謝の祈りを捧げた。",
+    "sentence_furigana": "彼ら【かれら】は母【はは】なる大地【だいち】に感謝【かんしゃ】の祈【いの】りを捧【ささ】げた。",
+    "meaning": "They offered prayers of gratitude to mother earth."
+  },
+  {
+    "sentence": "その土壌は鉄イオン濃度が高い。",
+    "sentence_furigana": "その土壌【どじょう】は鉄イオン【てつ】濃度【のうど】が高【たか】い。",
+    "meaning": "The soil has a high iron ion concentration."
+  },
+  {
+    "sentence": "土地の利用計画が策定された。",
+    "sentence_furigana": "土地【とち】の利用計画【りようけいかく】が策定【さくてい】された。",
+    "meaning": "A land use plan has been formulated."
+  },
+  {
+    "sentence": "この土壌はマンガンイオン濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】はマンガンイオン濃度【のうど】が高【たか】い。",
+    "meaning": "This soil has a high manganese ion concentration."
+  },
+  {
+    "sentence": "彼らは祖先の土地を大切に守っている。",
+    "sentence_furigana": "彼ら【かれら】は先祖【せんぞ】の土地【とち】を大切【たいせつ】に守【まも】っている。",
+    "meaning": "They carefully protect their ancestral land."
+  },
+  {
+    "sentence": "その土壌は銅イオン濃度が高い。",
+    "sentence_furigana": "その土壌【どじょう】は銅イオン【どう】濃度【のうど】が高【たか】い。",
+    "meaning": "The soil has a high copper ion concentration."
+  },
+  {
+    "sentence": "土地の境界線を明確にするための測量が行われた。",
+    "sentence_furigana": "土地【とち】の境界線【きょうかいせん】を明確【めいかく】にするための測量【そくりょう】が行【おこな】われた。",
+    "meaning": "A survey was conducted to clarify the land boundaries."
+  },
+  {
+    "sentence": "この土壌は亜鉛イオン濃度が高い。",
+    "sentence_furigana": "この土壌【どじょう】は亜鉛イオン【あえん】濃度【のうど】が高【たか】い。",
+    "meaning": "This soil has a high zinc ion concentration."
+  },
+  {
+    "sentence": "彼らは広大な大地を開墾し、豊かな暮らしを実現した。",
+    "sentence_furigana": "彼ら【かれら】は広大【こうだい】な大地【だいち】を開墾【かいこん】し、豊【ゆた】かな暮【く】らしを実現【じつげん】した。",
+    "meaning": "They reclaimed vast lands and achieved a prosperous life."
+  },
+  {
+    "sentence": "その土壌はホウ素イオン濃度が高い。",
+    "sentence_furigana": "その土壌【どじょう】はホウ素イオン【そ】濃度【のうど】が高【たか】い。",
+    "meaning": "The soil has a high boron ion concentration."
+  },
+  {
+    "sentence": "土地の売買に関する新たな規制が導入された。",
+    "sentence_furigana": "土地【とち】の売買【ばいばい】に関【かん】する新【あら】たな規制【きせい】が導入【どうにゅう】された。",
+    "meaning": "New regulations regarding land sales have been introduced."
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "sentence": "この病気は早期に治療すれば完治する可能性がある。",
+    "sentence_furigana": "この病気【びょうき】は早期【そうき】に治療【ちりょう】すれば完治【かんち】する可能性【かのうせい】がある。",
+    "meaning": "There is a possibility of complete recovery if this disease is treated early."
+  },
+  {
+    "sentence": "彼は専門医による治療を受けている。",
+    "sentence_furigana": "彼【かれ】は専門医【せんもんい】による治療【ちりょう】を受【う】けている。",
+    "meaning": "He is receiving treatment from a specialist."
+  },
+  {
+    "sentence": "その療養所は静かな環境で知られている。",
+    "sentence_furigana": "その療養所【りょうようじょ】は静【しず】かな環境【かんきょう】で知【し】られている。",
+    "meaning": "The sanatorium is known for its quiet environment."
+  },
+  {
+    "sentence": "最新の医療技術が多くの患者を救っている。",
+    "sentence_furigana": "最新【さいしん】の医療技術【いりょうぎじゅつ】が多【おお】くの患者【かんじゃ】を救【すく】っている。",
+    "meaning": "The latest medical technology is saving many patients."
+  },
+  {
+    "sentence": "彼女はリハビリテーションによる治療法を試した。",
+    "sentence_furigana": "彼女【かのじょ】はリハビリテーションによる治療法【ちりょうほう】を試【こころ】みた。",
+    "meaning": "She tried a treatment method through rehabilitation."
+  },
+  {
+    "sentence": "この地域の医療センターは非常に評判が良い。",
+    "sentence_furigana": "この地域【ちいき】の医療センターは非常【ひじょう】に評判【ひょうばん】が良い【よい】。",
+    "meaning": "The medical center in this region has an excellent reputation."
+  },
+  {
+    "sentence": "彼は自然療法で症状を改善させた。",
+    "sentence_furigana": "彼【かれ】は自然療法【しぜんりょうほう】で症状【しょうじょう】を改善【かいぜん】させた。",
+    "meaning": "He improved his symptoms with natural therapy."
+  },
+  {
+    "sentence": "医療費の負担を軽減する方法を探している。",
+    "sentence_furigana": "医療費【いりょうひ】の負担【ふたん】を軽減【けいげん】する方法【ほうほう】を探【さが】している。",
+    "meaning": "I am looking for ways to reduce the burden of medical expenses."
+  },
+  {
+    "sentence": "この薬は症状を緩和する効果がある。",
+    "sentence_furigana": "この薬【くすり】は症状【しょうじょう】を緩和【かんわ】する効果【こうか】がある。",
+    "meaning": "This medicine has the effect of alleviating symptoms."
+  },
+  {
+    "sentence": "彼は長期の療養が必要だと診断された。",
+    "sentence_furigana": "彼【かれ】は長期【ちょうき】の療養【りょうよう】が必要【ひつよう】だと診断【しんだん】された。",
+    "meaning": "He was diagnosed as needing long-term convalescence."
+  },
+  {
+    "sentence": "その病院は高度な医療を提供している。",
+    "sentence_furigana": "その病院【びょういん】は高度【こうど】な医療【いりょう】を提供【ていきょう】している。",
+    "meaning": "That hospital provides advanced medical care."
+  },
+  {
+    "sentence": "彼は心療内科でカウンセリングを受けている。",
+    "sentence_furigana": "彼【かれ】は心療内科【しんりょうないか】でカウンセリングを受【う】けている。",
+    "meaning": "He is receiving counseling at a psychosomatic medicine department."
+  },
+  {
+    "sentence": "私たちは治療の選択肢について話し合った。",
+    "sentence_furigana": "我々【われわれ】は治療【ちりょう】の選択肢【せんたくし】について話【はな】し合【あ】った。",
+    "meaning": "We discussed the treatment options."
+  },
+  {
+    "sentence": "彼女は温泉療養で健康を取り戻した。",
+    "sentence_furigana": "彼女【かのじょ】は温泉療養【おんせんりょうよう】で健康【けんこう】を取り戻【とりもど】した。",
+    "meaning": "She regained her health through hot spring therapy."
+  },
+  {
+    "sentence": "その治療法はまだ研究段階にある。",
+    "sentence_furigana": "その治療法【ちりょうほう】はまだ研究段階【けんきゅうだんかい】にある。",
+    "meaning": "That treatment method is still in the research stage."
+  },
+  {
+    "sentence": "彼は難病の治療に専念している。",
+    "sentence_furigana": "彼【かれ】は難病【なんびょう】の治療【ちりょう】に専念【せんねん】している。",
+    "meaning": "He is dedicated to treating intractable diseases."
+  },
+  {
+    "sentence": "この薬局では様々な治療薬を取り扱っている。",
+    "sentence_furigana": "この薬局【やっきょく】では様々【さまざま】な治療薬【ちりょうやく】を取り扱【とりあつか】っている。",
+    "meaning": "This pharmacy handles various therapeutic drugs."
+  },
+  {
+    "sentence": "彼は緩和ケアによる治療を望んでいる。",
+    "sentence_furigana": "彼【かれ】は緩和ケアによる治療【ちりょう】を望【のぞ】んでいる。",
+    "meaning": "He desires treatment through palliative care."
+  },
+  {
+    "sentence": "この療法の効果はまだ不明瞭だ。",
+    "sentence_furigana": "この療法【りょうほう】の効果【こうか】はまだ不明瞭【ふめいりょう】だ。",
+    "meaning": "The effectiveness of this therapy is still unclear."
+  },
+  {
+    "sentence": "彼は最新の医療機器を導入した。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の医療機器【いりょうきき】を導入【どうにゅう】した。",
+    "meaning": "He introduced the latest medical equipment."
+  },
+  {
+    "sentence": "このクリニックは総合的な治療を提供します。",
+    "sentence_furigana": "このクリニックは総合的【そうごうてき】な治療【ちりょう】を提供【ていきょう】します。",
+    "meaning": "This clinic offers comprehensive treatment."
+  },
+  {
+    "sentence": "彼は伝統的な治療法に頼っている。",
+    "sentence_furigana": "彼【かれ】は伝統的【でんとうてき】な治療法【ちりょうほう】に頼【たよ】っている。",
+    "meaning": "He relies on traditional treatment methods."
+  },
+  {
+    "sentence": "その治療は副作用が少ないと言われている。",
+    "sentence_furigana": "その治療【ちりょう】は副作用【ふくさよう】が少【すく】ないと言【い】われている。",
+    "meaning": "That treatment is said to have few side effects."
+  },
+  {
+    "sentence": "彼女は代替医療の可能性を探っている。",
+    "sentence_furigana": "彼女【かのじょ】は代替医療【だいいりょう】の可能性【かのうせい】を探【さが】っている。",
+    "meaning": "She is exploring the possibilities of alternative medicine."
+  },
+  {
+    "sentence": "彼は休養と治療のために実家に帰った。",
+    "sentence_furigana": "彼【かれ】は休養【きゅうよう】と治療【ちりょう】のため実家【じっか】に帰【かえ】った。",
+    "meaning": "He returned to his parents' home for rest and treatment."
+  },
+  {
+    "sentence": "この治療は保険が適用されるだろうか。",
+    "sentence_furigana": "この治療【ちりょう】は保険【ほけん】が適用【てきよう】されるだろうか。",
+    "meaning": "Will this treatment be covered by insurance?"
+  },
+  {
+    "sentence": "彼は効果的な治療法を見つけようとしている。",
+    "sentence_furigana": "彼【かれ】は効果的【こうかてき】な治療法【ちりょうほう】を見【み】つけようとしている。",
+    "meaning": "He is trying to find an effective treatment method."
+  },
+  {
+    "sentence": "その療養施設は設備が充実している。",
+    "sentence_furigana": "その療養施設【りょうようしせつ】は設備【せつび】が充実【じゅうじつ】している。",
+    "meaning": "The convalescent facility is well-equipped."
+  },
+  {
+    "sentence": "彼は最新の治療法について情報を集めている。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の治療法【ちりょうほう】について情報【じょうほう】を集【あつ】めている。",
+    "meaning": "He is gathering information about the latest treatment methods."
+  },
+  {
+    "sentence": "この療法は痛みを和らげる効果がある。",
+    "sentence_furigana": "この療法【りょうほう】は痛【いた】みを和【やわ】らげる効果【こうか】がある。",
+    "meaning": "This therapy has the effect of relieving pain."
+  },
+  {
+    "sentence": "彼は専門的な治療を受けるために遠方から来た。",
+    "sentence_furigana": "彼【かれ】は専門的【せんもんてき】な治療【ちりょう】を受【う】けるために遠方【えんぽう】から来【き】た。",
+    "meaning": "He came from afar to receive specialized treatment."
+  },
+  {
+    "sentence": "その療養費は高額だった。",
+    "sentence_furigana": "その療養費【りょうようひ】は高額【こうがく】だった。",
+    "meaning": "The medical expenses for convalescence were high."
+  },
+  {
+    "sentence": "彼女は集中的な治療を受けている。",
+    "sentence_furigana": "彼女【かのじょ】は集中的【しゅうちゅうてき】な治療【ちりょう】を受【う】けている。",
+    "meaning": "She is receiving intensive treatment."
+  },
+  {
+    "sentence": "この治療法は多くの人に効果があった。",
+    "sentence_furigana": "この治療法【ちりょうほう】は多【おお】くの人【ひと】に効果【こうか】があった。",
+    "meaning": "This treatment method was effective for many people."
+  },
+  {
+    "sentence": "彼は治療のために仕事を休んでいる。",
+    "sentence_furigana": "彼【かれ】は治療【ちりょう】のため仕事【しごと】を休【やす】んでいる。",
+    "meaning": "He is taking time off work for treatment."
+  },
+  {
+    "sentence": "その医療情報は信頼できる。",
+    "sentence_furigana": "その医療情報【いりょうじょうほう】は信頼【しんらい】できる。",
+    "meaning": "That medical information is reliable."
+  },
+  {
+    "sentence": "彼女は新しい治療法を試している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい治療法【ちりょうほう】を試【こころ】している。",
+    "meaning": "She is trying a new treatment method."
+  },
+  {
+    "sentence": "この治療は完全に痛みをなくすものではない。",
+    "sentence_furigana": "この治療【ちりょう】は完全【かんぜん】に痛【いた】みをなくすものではない。",
+    "meaning": "This treatment does not completely eliminate pain."
+  },
+  {
+    "sentence": "彼は治療法について医者と相談した。",
+    "sentence_furigana": "彼【かれ】は治療法【ちりょうほう】について医者【いしゃ】と相談【そうだん】した。",
+    "meaning": "He consulted with the doctor about the treatment method."
+  },
+  {
+    "sentence": "その療養所は自然に囲まれている。",
+    "sentence_furigana": "その療養所【りょうようじょ】は自然【しぜん】に囲【かこ】まれている。",
+    "meaning": "The sanatorium is surrounded by nature."
+  },
+  {
+    "sentence": "彼女は緩和的な治療を求めている。",
+    "sentence_furigana": "彼女【かのじょ】は緩和的【かんわてき】な治療【ちりょう】を求【もと】めている。",
+    "meaning": "She is seeking palliative treatment."
+  },
+  {
+    "sentence": "この治療計画は患者の状態に合わせて調整される。",
+    "sentence_furigana": "この治療計画【ちりょうけいかく】は患者【かんじゃ】の状態【じょうたい】に合わせて調整【ちょうせい】される。",
+    "meaning": "This treatment plan is adjusted according to the patient's condition."
+  },
+  {
+    "sentence": "彼は経験豊富な医師による治療を受けた。",
+    "sentence_furigana": "彼【かれ】は経験豊富【けいけんほうふ】な医師【いし】による治療【ちりょう】を受【う】けた。",
+    "meaning": "He received treatment from an experienced doctor."
+  },
+  {
+    "sentence": "その治療は長期にわたる必要がある。",
+    "sentence_furigana": "その治療【ちりょう】は長期【ちょうき】にわたる必要【ひつよう】がある。",
+    "meaning": "That treatment needs to be long-term."
+  },
+  {
+    "sentence": "彼女は伝統的な療法の効果を信じている。",
+    "sentence_furigana": "彼女【かのじょ】は伝統的【でんとうてき】な療法【りょうほう】の効果【こうか】を信【しん】じている。",
+    "meaning": "She believes in the effectiveness of traditional therapies."
+  },
+  {
+    "sentence": "この治療法は副作用のリスクが低い。",
+    "sentence_furigana": "この治療法【ちりょうほう】は副作用【ふくさよう】のリスクが低【ひく】い。",
+    "meaning": "This treatment method has a low risk of side effects."
+  },
+  {
+    "sentence": "彼は治療のために集中的な運動を行っている。",
+    "sentence_furigana": "彼【かれ】は治療【ちりょう】のため集中的【しゅうちゅうてき】な運動【うんどう】を行【おこな】っている。",
+    "meaning": "He is doing intensive exercise for treatment."
+  },
+  {
+    "sentence": "その療養費は健康保険でカバーされる。",
+    "sentence_furigana": "その療養費【りょうようひ】は健康保険【けんこうほけん】でカバーされる。",
+    "meaning": "Those convalescence expenses are covered by health insurance."
+  },
+  {
+    "sentence": "彼女は新しい治療薬の効果を期待している。",
+    "sentence_furigana": "彼女【かのじょ】は新【あたら】しい治療薬【ちりょうやく】の効果【こうか】を期待【きたい】している。",
+    "meaning": "She is expecting the effect of the new therapeutic drug."
+  },
+  {
+    "sentence": "この治療は根本的な解決を目指している。",
+    "sentence_furigana": "この治療【ちりょう】は根本的【こんぽんてき】な解決【かいけつ】を目指【めざ】している。",
+    "meaning": "This treatment aims for a fundamental solution."
+  },
+  {
+    "sentence": "彼は集学的治療を受けている。",
+    "sentence_furigana": "彼【かれ】は集学的治療【しゅうがくてきちりょう】を受【う】けている。",
+    "meaning": "He is receiving multidisciplinary treatment."
+  },
+  {
+    "sentence": "その療養施設はリハビリに特化している。",
+    "sentence_furigana": "その療養施設【りょうようしせつ】はリハビリに特化【とっか】している。",
+    "meaning": "The convalescent facility specializes in rehabilitation."
+  },
+  {
+    "sentence": "彼女は治療法についてさらに詳しく知りたい。",
+    "sentence_furigana": "彼女【かのじょ】は治療法【ちりょうほう】についてさらに詳【くわ】しく知【し】りたい。",
+    "meaning": "She wants to know more about the treatment method."
+  },
+  {
+    "sentence": "この治療は患者の負担を最小限に抑える。",
+    "sentence_furigana": "この治療【ちりょう】は患者【かんじゃ】の負担【ふたん】を最小限【さいしょうげん】に抑【おさ】える。",
+    "meaning": "This treatment minimizes the patient's burden."
+  },
+  {
+    "sentence": "彼は最新の医療技術を駆使した治療を行った。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の医療技術【いりょうぎじゅつ】を駆使【くし】した治療【ちりょう】を行【おこな】った。",
+    "meaning": "He performed treatment utilizing the latest medical technology."
+  },
+  {
+    "sentence": "その療養費は所得に応じて減額される。",
+    "sentence_furigana": "その療養費【りょうようひ】は所得【しょとく】に応【おう】じて減額【げんがく】される。",
+    "meaning": "The medical expenses for convalescence are reduced according to income."
+  },
+  {
+    "sentence": "彼女は精神的な治療を受けている。",
+    "sentence_furigana": "彼女【かのじょ】は精神的【せいしんてき】な治療【ちりょう】を受【う】けている。",
+    "meaning": "She is receiving psychological treatment."
+  },
+  {
+    "sentence": "この治療は効果が見られない場合は変更される。",
+    "sentence_furigana": "この治療【ちりょう】は効果【こうか】が見【み】られない場合【ばあい】は変更【へんこう】される。",
+    "meaning": "This treatment will be changed if no effect is seen."
+  },
+  {
+    "sentence": "彼は複数の医療機関を受診した。",
+    "sentence_furigana": "彼【かれ】は複数【ふくすう】の医療機関【いりょうきかん】を受診【じゅしん】した。",
+    "meaning": "He visited multiple medical institutions."
+  },
+  {
+    "sentence": "その療養所は静養に適した場所だ。",
+    "sentence_furigana": "その療養所【りょうようじょ】は静養【せいよう】に適【てき】した場所【ばしょ】だ。",
+    "meaning": "The sanatorium is a suitable place for rest and recuperation."
+  },
+  {
+    "sentence": "彼女は代替療法について調べている。",
+    "sentence_furigana": "彼女【かのじょ】は代替療法【だいたいりょうほう】について調【しら】べている。",
+    "meaning": "She is researching alternative therapies."
+  },
+  {
+    "sentence": "この治療法は患者のQOL向上に貢献する。",
+    "sentence_furigana": "この治療法【ちりょうほう】は患者【かんじゃ】のQOL向上【きゅうおーえるこうじょう】に貢献【こうけん】する。",
+    "meaning": "This treatment method contributes to the improvement of patients' QOL."
+  },
+  {
+    "sentence": "彼は最新の医療情報にアクセスできる。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の医療情報【いりょうじょうほう】にアクセスできる。",
+    "meaning": "He can access the latest medical information."
+  },
+  {
+    "sentence": "その治療は進行を遅らせる効果がある。",
+    "sentence_furigana": "その治療【ちりょう】は進行【しんこう】を遅【おく】らせる効果【こうか】がある。",
+    "meaning": "That treatment has the effect of slowing down progression."
+  },
+  {
+    "sentence": "彼女は集中的なリハビリテーション治療を受けている。",
+    "sentence_furigana": "彼女【かのじょ】は集中的【しゅうちゅうてき】なリハビリテーション治療【ちりょう】を受【う】けている。",
+    "meaning": "She is receiving intensive rehabilitation treatment."
+  },
+  {
+    "sentence": "この療養費は医療費控除の対象になる。",
+    "sentence_furigana": "この療養費【りょうようひ】は医療費控除【いりょうひこうじょ】の対象【たいしょう】になる。",
+    "meaning": "These convalescence expenses are eligible for medical expense deductions."
+  },
+  {
+    "sentence": "彼は精神療法の効果を実感している。",
+    "sentence_furigana": "彼【かれ】は精神療法【せいしんりょうほう】の効果【こうか】を実感【じっかん】している。",
+    "meaning": "He is realizing the effect of psychotherapy."
+  },
+  {
+    "sentence": "その治療は症状の緩和に役立つ。",
+    "sentence_furigana": "その治療【ちりょう】は症状【しょうじょう】の緩和【かんわ】に役立【やくた】つ。",
+    "meaning": "That treatment helps to alleviate symptoms."
+  },
+  {
+    "sentence": "彼女は集学的治療のメリットについて学んだ。",
+    "sentence_furigana": "彼女【かのじょ】は集学的治療【しゅうがくてきちりょう】のメリットについて学【まな】んだ。",
+    "meaning": "She learned about the benefits of multidisciplinary treatment."
+  },
+  {
+    "sentence": "この治療法はまだ普及していない。",
+    "sentence_furigana": "この治療法【ちりょうほう】はまだ普及【ふきゅう】していない。",
+    "meaning": "This treatment method is not yet widespread."
+  },
+  {
+    "sentence": "彼は最新の医療動向を常にチェックしている。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の医療動向【いりょうどうこう】を常【つね】にチェックしている。",
+    "meaning": "He is always checking the latest medical trends."
+  },
+  {
+    "sentence": "その療養所では様々な治療プログラムが提供されている。",
+    "sentence_furigana": "その療養所【りょうようじょ】では様々【さまざま】な治療プログラムが提供【ていきょう】されている。",
+    "meaning": "Various treatment programs are offered at that sanatorium."
+  },
+  {
+    "sentence": "彼女は集中的な医療ケアを受けている。",
+    "sentence_furigana": "彼女【かのじょ】は集中的【しゅうちゅうてき】な医療ケアを受【う】けている。",
+    "meaning": "She is receiving intensive medical care."
+  },
+  {
+    "sentence": "この治療は根本的な原因に対処する。",
+    "sentence_furigana": "この治療【ちりょう】は根本的【こんぽんてき】な原因【げんいん】に対処【たいしょ】する。",
+    "meaning": "This treatment addresses the root cause."
+  },
+  {
+    "sentence": "彼は長期療養のため、故郷に戻った。",
+    "sentence_furigana": "彼【かれ】は長期療養【ちょうきりょうよう】のため、故郷【こきょう】に戻【もど】った。",
+    "meaning": "He returned to his hometown for long-term convalescence."
+  },
+  {
+    "sentence": "その治療法は画期的な進歩と言える。",
+    "sentence_furigana": "その治療法【ちりょうほう】は画期的【かっきてき】な進歩【しんぽ】と言【い】える。",
+    "meaning": "That treatment method can be called a groundbreaking advancement."
+  },
+  {
+    "sentence": "彼女は代替医療に関する専門知識を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は代替医療【だいいりょう】に関【かん】する専門知識【せんもんちしき】を持【も】っている。",
+    "meaning": "She has expertise in alternative medicine."
+  },
+  {
+    "sentence": "この治療は忍耐強く続ける必要がある。",
+    "sentence_furigana": "この治療【ちりょう】は忍耐強【にんたいづよ】く続【つづ】ける必要【ひつよう】がある。",
+    "meaning": "This treatment needs to be continued patiently."
+  },
+  {
+    "sentence": "彼は治療中に多くのことを学んだ。",
+    "sentence_furigana": "彼【かれ】は治療中【ちりょうちゅう】に多【おお】くのこと【こと】を学【まな】んだ。",
+    "meaning": "He learned a lot during his treatment."
+  },
+  {
+    "sentence": "その療養費は国の補助金で一部賄われる。",
+    "sentence_furigana": "その療養費【りょうようひ】は国【くに】の補助金【ほじょきん】で一部賄【まかな】われる。",
+    "meaning": "The medical expenses for convalescence are partially covered by government subsidies."
+  },
+  {
+    "sentence": "彼女は自身の健康管理のために代替療法を検討している。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】の健康管理【けんこうかんり】のため代替療法【だいたいりょうほう】を検討【けんとう】している。",
+    "meaning": "She is considering alternative therapies for her own health management."
+  },
+  {
+    "sentence": "この治療法は多くの患者に希望を与えた。",
+    "sentence_furigana": "この治療法【ちりょうほう】は多【おお】くの患者【かんじゃ】に希望【きぼう】を与【あた】えた。",
+    "meaning": "This treatment method gave hope to many patients."
+  },
+  {
+    "sentence": "彼は最新の医療機器で検査を受けた。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の医療機器【いりょうきき】で検査【けんさ】を受【う】けた。",
+    "meaning": "He underwent examination with the latest medical equipment."
+  },
+  {
+    "sentence": "その療養施設は自然豊かな環境にある。",
+    "sentence_furigana": "その療養施設【りょうようしせつ】は自然豊【しぜんとよ】かな環境【かんきょう】にある。",
+    "meaning": "The convalescent facility is located in a nature-rich environment."
+  },
+  {
+    "sentence": "彼女は治療の経過について定期的に報告を受けている。",
+    "sentence_furigana": "彼女【かのじょ】は治療【ちりょう】の経過【けいか】について定期的【ていきてき】に報告【ほうこく】を受【う】けている。",
+    "meaning": "She receives regular reports on the progress of her treatment."
+  },
+  {
+    "sentence": "この治療は症状の再発を防ぐことを目的としている。",
+    "sentence_furigana": "この治療【ちりょう】は症状【しょうじょう】の再発【さいはつ】を防【ふせ】ぐことを目的【もくてき】としている。",
+    "meaning": "This treatment aims to prevent recurrence of symptoms."
+  },
+  {
+    "sentence": "彼は専門的な医療知識を深めたいと考えている。",
+    "sentence_furigana": "彼【かれ】は専門的【せんもんてき】な医療知識【いりょうちしき】を深【ふか】めたいと思【おも】っている。",
+    "meaning": "He wants to deepen his specialized medical knowledge."
+  },
+  {
+    "sentence": "その療養費は全額自己負担となった。",
+    "sentence_furigana": "その療養費【りょうようひ】は全額自己負担【ぜんがくじこふたん】となった。",
+    "meaning": "The medical expenses for convalescence became entirely self-funded."
+  },
+  {
+    "sentence": "彼女は集中的な治療と休養を組み合わせたプランを実行している。",
+    "sentence_furigana": "彼女【かのじょ】は集中的【しゅうちゅうてき】な治療【ちりょう】と休養【きゅうよう】を組【く】み合【あ】わせたプランを実行【じっこう】している。",
+    "meaning": "She is implementing a plan that combines intensive treatment and rest."
+  },
+  {
+    "sentence": "この治療法は副作用が少ないため、多くの人に選ばれている。",
+    "sentence_furigana": "この治療法【ちりょうほう】は副作用【ふくさよう】が少【すく】ないため、多【おお】くの人【ひと】に選【えら】ばれている。",
+    "meaning": "This treatment method has few side effects, so it is chosen by many people."
+  },
+  {
+    "sentence": "彼は最新の医療情報に基づいて治療法を選択した。",
+    "sentence_furigana": "彼【かれ】は最新【さいしん】の医療情報【いりょうじょうほう】に基づ【もと】いて治療法【ちりょうほう】を選択【せんたく】した。",
+    "meaning": "He chose the treatment method based on the latest medical information."
+  },
+  {
+    "sentence": "その療養所は長期的な健康回復を支援する。",
+    "sentence_furigana": "その療養所【りょうようじょ】は長期的な健康回復【ちょうきてきなけんこうかいふく】を支援【しえん】する。",
+    "meaning": "The sanatorium supports long-term health recovery."
+  },
+  {
+    "sentence": "彼女は自身の病状に対する最適な治療法を探求している。",
+    "sentence_furigana": "彼女【かのじょ】は自身【じしん】の病状【びょうじょう】に対【たい】する最適【さいてき】な治療法【ちりょうほう】を探求【たんきゅう】している。",
+    "meaning": "She is seeking the optimal treatment method for her medical condition."
+  },
+  {
+    "sentence": "この治療は患者の全身状態を考慮して行われる。",
+    "sentence_furigana": "この治療【ちりょう】は患者【かんじゃ】の全身状態【ぜんしんじょうたい】を考慮【こうりょ】して行【おこな】われる。",
+    "meaning": "This treatment is performed considering the patient's overall physical condition."
+  }
+]

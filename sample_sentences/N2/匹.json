@@ -1,0 +1,482 @@
+[
+  {
+    "sentence": "子猫が毛布の上で丸まって寝ている。",
+    "sentence_furigana": "子猫【こねこ】が毛布【もうふ】の上【うえ】で丸【まる】まって寝【ね】ている。",
+    "meaning": "The kitten is curled up asleep on the blanket."
+  },
+  {
+    "sentence": "この馬はとても大きくて力強い。",
+    "sentence_furigana": "この馬【うま】はとても大【おお】きくて力強【ちからづよ】い。",
+    "meaning": "This horse is very big and strong."
+  },
+  {
+    "sentence": "一匹の犬が公園を走り回っていた。",
+    "sentence_furigana": "一匹【いっぴき】の犬【いぬ】が公園【こうえん】を走【はし】り回【まわ】っていた。",
+    "meaning": "One dog was running around the park."
+  },
+  {
+    "sentence": "彼女は手作りのマフラーを編んでいる。",
+    "sentence_furigana": "彼女【かのじょ】は手作【てづく】りのマフラーを編【あ】んでいる。",
+    "meaning": "She is knitting a handmade scarf."
+  },
+  {
+    "sentence": "古い絨毯は部屋の隅に置かれていた。",
+    "sentence_furigana": "古【ふる】い絨毯【じゅうたん】は部屋【へや】の隅【すみ】に置【お】かれていた。",
+    "meaning": "The old carpet was placed in the corner of the room."
+  },
+  {
+    "sentence": "その小説は三巻で完結した。",
+    "sentence_furigana": "その小説【しょうせつ】は三巻【さんかん】で完結【かんけつ】した。",
+    "meaning": "The novel concluded in three volumes."
+  },
+  {
+    "sentence": "会議では同じ意見を持つ人が多かった。",
+    "sentence_furigana": "会議【かいぎ】では同【おな】じ意見【いけん】を持【も】つ人【ひと】が多【おお】かった。",
+    "meaning": "Many people in the meeting shared the same opinion."
+  },
+  {
+    "sentence": "この生地はシャツを作るのに適している。",
+    "sentence_furigana": "この生地【きじ】はシャツを作【つく】るのに適【てき】している。",
+    "meaning": "This fabric is suitable for making shirts."
+  },
+  {
+    "sentence": "小さな虫が一匹、窓ガラスに止まっていた。",
+    "sentence_furigana": "小【ちい】さな虫【むし】が一匹【いっぴき】、窓【まど】ガラスに止【と】まっていた。",
+    "meaning": "A small insect was perched on the window pane."
+  },
+  {
+    "sentence": "二匹の猫が日向でじゃれ合っていた。",
+    "sentence_furigana": "二匹【ひき】の猫【ねこ】が日向【ひなた】でじゃれ合【あ】っていた。",
+    "meaning": "Two cats were playing together in the sun."
+  },
+  {
+    "sentence": "この着物は一反で作られています。",
+    "sentence_furigana": "この着物【きもの】は一反【いったん】で製造【せいぞう】されています。",
+    "meaning": "This kimono is made from one bolt of fabric."
+  },
+  {
+    "sentence": "彼は常に自分の意見を主張する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分【じぶん】の意見【いけん】を主張【しゅちょう】する。",
+    "meaning": "He always asserts his own opinion."
+  },
+  {
+    "sentence": "図書館には多くの本が並べられている。",
+    "sentence_furigana": "図書館【としょかん】には多【おお】くの本【ほん】が並【なら】べられている。",
+    "meaning": "Many books are lined up in the library."
+  },
+  {
+    "sentence": "一匹の魚が水槽の中を優雅に泳いでいた。",
+    "sentence_furigana": "一匹【いっぴき】の魚【さかな】が水槽【すいそう】の中【なか】を優雅【ゆうが】に泳【およ】いでいた。",
+    "meaning": "A fish was swimming gracefully in the aquarium."
+  },
+  {
+    "sentence": "彼女は一反の布を裁断した。",
+    "sentence_furigana": "彼女【かのじょ】は一反【いったん】の布【ぬの】を裁断【さいだん】した。",
+    "meaning": "She cut out one bolt of cloth."
+  },
+  {
+    "sentence": "その会議は予定通りに進んだ。",
+    "sentence_furigana": "その会議【かいぎ】は予定通【よていどお】り進【すす】んだ。",
+    "meaning": "The meeting proceeded as scheduled."
+  },
+  {
+    "sentence": "彼は常に公平な判断を下す。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公平【こうへい】な判断【はんだん】を下【くだ】す。",
+    "meaning": "He always makes fair judgments."
+  },
+  {
+    "sentence": "一匹の狐が森を横切った。",
+    "sentence_furigana": "一匹【いっぴき】の狐【きつね】が森【もり】を横切【よこぎ】った。",
+    "meaning": "A fox crossed the forest."
+  },
+  {
+    "sentence": "この着物は一反の絹で作られている。",
+    "sentence_furigana": "この着物【きもの】は一反【いったん】の絹【きぬ】で作【つく】られている。",
+    "meaning": "This kimono is made from one bolt of silk."
+  },
+  {
+    "sentence": "その結果は我々の予想と一致した。",
+    "sentence_furigana": "その結果【けっか】は我々【われわれ】の予想【よそう】と一致【いっち】した。",
+    "meaning": "The result matched our expectations."
+  },
+  {
+    "sentence": "二匹の犬が仲良く遊んでいる。",
+    "sentence_furigana": "二匹【ひき】の犬【いぬ】が仲良【なかよ】く遊【あそ】んでいる。",
+    "meaning": "Two dogs are playing well together."
+  },
+  {
+    "sentence": "彼は一反の木綿を仕立て屋に持ち込んだ。",
+    "sentence_furigana": "彼【かれ】は一反【いったん】の木綿【もめん】を仕立屋【したてや】に持【も】ち込【こ】んだ。",
+    "meaning": "He took a bolt of cotton to the tailor."
+  },
+  {
+    "sentence": "この商品は値段が手頃だ。",
+    "sentence_furigana": "この商品【しょうひん】は値段【ねだん】が手頃【てごろ】だ。",
+    "meaning": "This product is reasonably priced."
+  },
+  {
+    "sentence": "一匹の鳥が木の上で歌っていた。",
+    "sentence_furigana": "一匹【いっぴき】の鳥【とり】が木【き】の上【うえ】で歌【うた】っていた。",
+    "meaning": "A bird was singing on the tree."
+  },
+  {
+    "sentence": "彼女はいつも同じ意見を持っている。",
+    "sentence_furigana": "彼女【かのじょ】はいつも同【おな】じ意見【いけん】を持【も】っている。",
+    "meaning": "She always holds the same opinion."
+  },
+  {
+    "sentence": "この織物は高級感がある。",
+    "sentence_furigana": "この織物【おりもの】は高級感【こうきゅうかん】がある。",
+    "meaning": "This fabric has a luxurious feel."
+  },
+  {
+    "sentence": "会議では活発な意見交換が行われた。",
+    "sentence_furigana": "会議【かいぎ】では活発【かっぱつ】な意見交換【いけんこうかん】が行【おこな】われた。",
+    "meaning": "Active discussion took place at the meeting."
+  },
+  {
+    "sentence": "一匹の猿が木の上で休んでいた。",
+    "sentence_furigana": "一匹【いっぴき】の猿【さる】が木【き】の上【うえ】で休【やす】んでいた。",
+    "meaning": "A monkey was resting on the tree."
+  },
+  {
+    "sentence": "この生地は丈夫で長持ちする。",
+    "sentence_furigana": "この生地【きじ】は丈夫【じょうぶ】で長持【ながも】ちする。",
+    "meaning": "This fabric is durable and long-lasting."
+  },
+  {
+    "sentence": "彼は常に正しいことをしようと努める。",
+    "sentence_furigana": "彼【かれ】は常【つね】に正【ただ】しいことをしようと努【つと】める。",
+    "meaning": "He always strives to do what is right."
+  },
+  {
+    "sentence": "一匹の猫が窓辺で日向ぼっこをしていた。",
+    "sentence_furigana": "一匹【いっぴき】の猫【ねこ】が窓辺【まどべ】で日向【ひなた】ぼっこをしていた。",
+    "meaning": "A cat was basking in the sun by the window."
+  },
+  {
+    "sentence": "彼女は uniform を着ていた。",
+    "sentence_furigana": "彼女【かのじょ】は uniform を着【き】ていた。",
+    "meaning": "She was wearing a uniform."
+  },
+  {
+    "sentence": "この巻物は古い歴史書だ。",
+    "sentence_furigana": "この巻物【まきもの】は古【ふる】い歴史書【れきししょ】だ。",
+    "meaning": "This scroll is an old history book."
+  },
+  {
+    "sentence": "彼は二つの意見のどちらにも賛成できない。",
+    "sentence_furigana": "彼【かれ】は二つ【ふたつ】の意見【いけん】のどちらにも賛成【さんせい】できない。",
+    "meaning": "He cannot agree with either of the two opinions."
+  },
+  {
+    "sentence": "一匹の馬が草原を駆け巡っていた。",
+    "sentence_furigana": "一匹【いっぴき】の馬【うま】が草原【そうげん】を駆【か】け巡【めぐ】っていた。",
+    "meaning": "A horse was galloping across the meadow."
+  },
+  {
+    "sentence": "この反物は品質が良い。",
+    "sentence_furigana": "この反物【たんもの】は品質【ひんしつ】が良い【よい】。",
+    "meaning": "This bolt of cloth is of good quality."
+  },
+  {
+    "sentence": "会議は午後一時から開始される。",
+    "sentence_furigana": "会議【かいぎ】は午後一時【ごごいちじ】から開始【かいし】される。",
+    "meaning": "The meeting will start at 1 PM."
+  },
+  {
+    "sentence": "彼女は一匹の犬を飼っている。",
+    "sentence_furigana": "彼女【かのじょ】は一匹【いっぴき】の犬【いぬ】を飼【か】っている。",
+    "meaning": "She owns a dog."
+  },
+  {
+    "sentence": "この毛織物は非常に暖かい。",
+    "sentence_furigana": "この毛織物【けおりもの】は非常【ひじょう】に暖【あたた】かい。",
+    "meaning": "This wool fabric is very warm."
+  },
+  {
+    "sentence": "彼は自分の言葉に責任を持つべきだ。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の言葉【ことば】に責任【せきにん】を持【も】つべきだ。",
+    "meaning": "He should take responsibility for his words."
+  },
+  {
+    "sentence": "一匹の蝶が花壇の花を飛び回っていた。",
+    "sentence_furigana": "一匹【いっぴき】の蝶【ちょう】が花壇【かだん】の花【はな】を飛【と】び回【まわ】っていた。",
+    "meaning": "A butterfly was flitting among the flowers in the flower bed."
+  },
+  {
+    "sentence": "その生地はカーテンを作るのに適している。",
+    "sentence_furigana": "その生地【きじ】はカーテンを作【つく】るのに適【てき】している。",
+    "meaning": "That fabric is suitable for making curtains."
+  },
+  {
+    "sentence": "彼らは常に協力し合っている。",
+    "sentence_furigana": "彼【かれ】らは常【つね】に協力【きょうりょく】し合【あ】っている。",
+    "meaning": "They always cooperate with each other."
+  },
+  {
+    "sentence": "この着物は一反の木綿で作られていて、着心地が良い。",
+    "sentence_furigana": "この着物【きもの】は一反【いったん】の木綿【もめん】で作【つく】られていて、着心地【きごこち】が良い【よい】。",
+    "meaning": "This kimono is made from one bolt of cotton and is comfortable to wear."
+  },
+  {
+    "sentence": "一匹のウサギが野原を跳ね回っていた。",
+    "sentence_furigana": "一匹【いっぴき】のウサギが野原【のはら】を跳【は】ね回【まわ】っていた。",
+    "meaning": "A rabbit was hopping around the field."
+  },
+  {
+    "sentence": "その意見は私の考えと一致しない。",
+    "sentence_furigana": "その意見【いけん】は私【わたし】の考【かんが】えと一致【いっち】しない。",
+    "meaning": "That opinion does not match my thoughts."
+  },
+  {
+    "sentence": "彼女は一反の古い布を持っている。",
+    "sentence_furigana": "彼女【かのじょ】は一反【いったん】の古【ふる】い布【ぬの】を持【も】っている。",
+    "meaning": "She has a bolt of old cloth."
+  },
+  {
+    "sentence": "一匹の狼が遠吠えをしていた。",
+    "sentence_furigana": "一匹【いっぴき】の狼【おおかみ】が遠吠【とおぼ】えをしていた。",
+    "meaning": "A wolf was howling in the distance."
+  },
+  {
+    "sentence": "この生地は洋服を作るのに最適だ。",
+    "sentence_furigana": "この生地【きじ】は洋服【ようふく】を作【つく】るのに最適【さいてき】だ。",
+    "meaning": "This fabric is perfect for making clothes."
+  },
+  {
+    "sentence": "彼らは常に互いを尊重している。",
+    "sentence_furigana": "彼【かれ】らは常【つね】に互【たが】いを尊重【そんちょう】している。",
+    "meaning": "They always respect each other."
+  },
+  {
+    "sentence": "一匹の馬が丘の上で草を食べていた。",
+    "sentence_furigana": "一匹【いっぴき】の馬【うま】が丘【おか】の上【うえ】で草【くさ】を食【た】べていた。",
+    "meaning": "A horse was eating grass on the hill."
+  },
+  {
+    "sentence": "この反物は手触りが良い。",
+    "sentence_furigana": "この反物【たんもの】は手触【てざ】わりが良い【よい】。",
+    "meaning": "This bolt of cloth feels good to the touch."
+  },
+  {
+    "sentence": "彼女は一匹の猫を保護した。",
+    "sentence_furigana": "彼女【かのじょ】は一匹【いっぴき】の猫【ねこ】を保護【ほご】した。",
+    "meaning": "She rescued a cat."
+  },
+  {
+    "sentence": "この毛糸はセーターを編むのに十分だ。",
+    "sentence_furigana": "この毛糸【けいと】はセーターを編【あ】むのに十分【じゅうぶん】だ。",
+    "meaning": "This yarn is enough to knit a sweater."
+  },
+  {
+    "sentence": "彼は常に calm でいる。",
+    "sentence_furigana": "彼【かれ】は常【つね】に calm でいる。",
+    "meaning": "He is always calm."
+  },
+  {
+    "sentence": "一匹のネズミが部屋の中を走っていた。",
+    "sentence_furigana": "一匹【いっぴき】のネズミが部屋【へや】の中【なか】を走【はし】っていた。",
+    "meaning": "A mouse was running around the room."
+  },
+  {
+    "sentence": "この生地はカーテンに最適だ。",
+    "sentence_furigana": "この生地【きじ】はカーテンに最適【さいてき】だ。",
+    "meaning": "This fabric is ideal for curtains."
+  },
+  {
+    "sentence": "二匹の猫が箱の中で眠っていた。",
+    "sentence_furigana": "二匹【ひき】の猫【ねこ】が箱【はこ】の中【なか】で眠【ねむ】っていた。",
+    "meaning": "Two cats were sleeping in a box."
+  },
+  {
+    "sentence": "彼は常に公平であろうと努める。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公平【こうへい】であろうと努【つと】める。",
+    "meaning": "He always strives to be fair."
+  },
+  {
+    "sentence": "一匹の馬が厩舎で息を整えていた。",
+    "sentence_furigana": "一匹【いっぴき】の馬【うま】が厩舎【きゅうしゃ】で息【いき】を整【ととの】えていた。",
+    "meaning": "A horse was calming down in the stable."
+  },
+  {
+    "sentence": "彼女はこの反物の色が好きだ。",
+    "sentence_furigana": "彼女【かのじょ】はこの反物【たんもの】の色【いろ】が好【す】きだ。",
+    "meaning": "She likes the color of this bolt of cloth."
+  },
+  {
+    "sentence": "その報告書は５ページで構成されている。",
+    "sentence_furigana": "その報告書【ほうこくしょ】は５ページで構成【こうせい】されている。",
+    "meaning": "That report consists of 5 pages."
+  },
+  {
+    "sentence": "一匹の狐が遠くの方を歩いていた。",
+    "sentence_furigana": "一匹【いっぴき】の狐【きつね】が遠【とお】くの方【ほう】を歩【ある】いていた。",
+    "meaning": "A fox was walking in the distance."
+  },
+  {
+    "sentence": "この毛織物は柔らかい。",
+    "sentence_furigana": "この毛織物【けおりもの】は柔【やわ】らかい。",
+    "meaning": "This wool fabric is soft."
+  },
+  {
+    "sentence": "彼は常に自分の意見を持っている。",
+    "sentence_furigana": "彼【かれ】は常【つね】に自分【じぶん】の意見【いけん】を持【も】っている。",
+    "meaning": "He always has his own opinion."
+  },
+  {
+    "sentence": "一匹の小鳥が窓の外でさえずっていた。",
+    "sentence_furigana": "一匹【いっぴき】の小鳥【ことり】が窓【まど】の外【そと】でさえずっていた。",
+    "meaning": "A small bird was chirping outside the window."
+  },
+  {
+    "sentence": "この生地は丈夫で、様々な用途に使える。",
+    "sentence_furigana": "この生地【きじ】は丈夫【じょうぶ】で、様々【さまざま】な用途【ようと】に使える【つかえる】。",
+    "meaning": "This fabric is strong and can be used for various purposes."
+  },
+  {
+    "sentence": "会議は円滑に進んだ。",
+    "sentence_furigana": "会議【かいぎ】は円滑【えんかつ】に進【すす】んだ。",
+    "meaning": "The meeting proceeded smoothly."
+  },
+  {
+    "sentence": "彼女は常に calm でいようと努める。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に calm でいようと努【つと】める。",
+    "meaning": "She always tries to remain calm."
+  },
+  {
+    "sentence": "一匹の犬が公園でボールを追いかけていた。",
+    "sentence_furigana": "一匹【いっぴき】の犬【いぬ】が公園【こうえん】でボールを追【お】いかけていた。",
+    "meaning": "A dog was chasing a ball in the park."
+  },
+  {
+    "sentence": "この反物は着物に仕立てられるだろう。",
+    "sentence_furigana": "この反物【たんもの】は着物【きもの】に仕立【した】てられるだろう。",
+    "meaning": "This bolt of cloth will likely be made into a kimono."
+  },
+  {
+    "sentence": "彼は常に正確な情報を伝える。",
+    "sentence_furigana": "彼【かれ】は常【つね】に正確【せいかく】な情報【じょうほう】を伝【つた】える。",
+    "meaning": "He always conveys accurate information."
+  },
+  {
+    "sentence": "一匹の猫が屋根の上で昼寝をしていた。",
+    "sentence_furigana": "一匹【いっぴき】の猫【ねこ】が屋根【やね】の上【うえ】で昼寝【ひるね】をしていた。",
+    "meaning": "A cat was napping on the roof."
+  },
+  {
+    "sentence": "この生地はとても肌触りが良い。",
+    "sentence_furigana": "この生地【きじ】はとても肌触【はだざ】わりが良い【よい】。",
+    "meaning": "This fabric feels very good against the skin."
+  },
+  {
+    "sentence": "彼らは常に協力的な態度をとる。",
+    "sentence_furigana": "彼【かれ】らは常【つね】に協力的【きょうりょくてき】な態度【たいど】をとる。",
+    "meaning": "They always take a cooperative attitude."
+  },
+  {
+    "sentence": "一匹の魚が川を遡っていた。",
+    "sentence_furigana": "一匹【いっぴき】の魚【さかな】が川【かわ】を遡【さかのぼ】っていた。",
+    "meaning": "A fish was swimming upstream in the river."
+  },
+  {
+    "sentence": "彼女はこの反物を自分で縫うつもりだ。",
+    "sentence_furigana": "彼女【かのじょ】はこの反物【たんもの】を自分【じぶん】で縫【ぬ】うつもりだ。",
+    "meaning": "She intends to sew this bolt of cloth herself."
+  },
+  {
+    "sentence": "会議は予定より早く終わった。",
+    "sentence_furigana": "会議【かいぎ】は予定【よてい】より早【はや】く終【お】わった。",
+    "meaning": "The meeting ended earlier than scheduled."
+  },
+  {
+    "sentence": "彼らは常に互いにrespectしている。",
+    "sentence_furigana": "彼【かれ】らは常【つね】に互【たが】いにrespectしている。",
+    "meaning": "They always respect each other."
+  },
+  {
+    "sentence": "一匹の馬が牧草地で自由に駆け回っていた。",
+    "sentence_furigana": "一匹【いっぴき】の馬【うま】が牧草地【ぼくそうち】で自由【じゆう】に駆【か】け回【まわ】っていた。",
+    "meaning": "A horse was running freely in the pasture."
+  },
+  {
+    "sentence": "この毛織物は保温性が高い。",
+    "sentence_furigana": "この毛織物【けおりもの】は保温性【ほおんせい】が高【たか】い。",
+    "meaning": "This wool fabric has high heat retention."
+  },
+  {
+    "sentence": "彼女は常に真実を話す。",
+    "sentence_furigana": "彼女【かのじょ】は常【つね】に真実【しんじつ】を話【はな】す。",
+    "meaning": "She always tells the truth."
+  },
+  {
+    "sentence": "一匹のネズミが食べ物を探していた。",
+    "sentence_furigana": "一匹【いっぴき】のネズミが食【た】べものを探【さが】していた。",
+    "meaning": "A mouse was looking for food."
+  },
+  {
+    "sentence": "この生地は丈夫で、水にも強い。",
+    "sentence_furigana": "この生地【きじ】は丈夫【じょうぶ】で、水【みず】にも強【つよ】い。",
+    "meaning": "This fabric is strong and resistant to water."
+  },
+  {
+    "sentence": "会議は多くの参加者で賑わった。",
+    "sentence_furigana": "会議【かいぎ】は多【おお】くの参加者【さんかしゃ】で賑【にぎ】わった。",
+    "meaning": "The meeting was crowded with many participants."
+  },
+  {
+    "sentence": "彼は常に誠実に対応する。",
+    "sentence_furigana": "彼【かれ】は常【つね】に誠実【せいじつ】に対応【たいおう】する。",
+    "meaning": "He always responds sincerely."
+  },
+  {
+    "sentence": "一匹の鳥が空を自由に飛んでいた。",
+    "sentence_furigana": "一匹【いっぴき】の鳥【とり】が空【そら】を自由【じゆう】に飛【と】んでいた。",
+    "meaning": "A bird was flying freely in the sky."
+  },
+  {
+    "sentence": "この反物は柔らかく、扱いやすい。",
+    "sentence_furigana": "この反物【たんもの】は柔【やわ】らかく、扱【あつか】いやすい。",
+    "meaning": "This bolt of cloth is soft and easy to handle."
+  },
+  {
+    "sentence": "彼女は一匹の小さな犬を散歩させている。",
+    "sentence_furigana": "彼女【かのじょ】は一匹【いっぴき】の小【ちい】さな犬【いぬ】を散歩【さんぽ】させている。",
+    "meaning": "She is walking a small dog."
+  },
+  {
+    "sentence": "この毛糸は肌触りが良い。",
+    "sentence_furigana": "この毛糸【けいと】は肌触【はだざ】わりが良い【よい】。",
+    "meaning": "This yarn feels good against the skin."
+  },
+  {
+    "sentence": "彼は常に calm でいることを心がける。",
+    "sentence_furigana": "彼【かれ】は常【つね】に calm でいることを心【こころ】がける。",
+    "meaning": "He always tries to stay calm."
+  },
+  {
+    "sentence": "一匹の狐が森の奥へと消えていった。",
+    "sentence_furigana": "一匹【いっぴき】の狐【きつね】が森【もり】の奥【おく】へと消【き】えていった。",
+    "meaning": "A fox disappeared into the depths of the forest."
+  },
+  {
+    "sentence": "この生地は丈夫で、洗濯にも強い。",
+    "sentence_furigana": "この生地【きじ】は丈夫【じょうぶ】で、洗濯【せんたく】にも強【つよ】い。",
+    "meaning": "This fabric is strong and resistant to washing."
+  },
+  {
+    "sentence": "会議は予定通りに進行した。",
+    "sentence_furigana": "会議【かいぎ】は予定通【よていどお】り進行【しんこう】した。",
+    "meaning": "The meeting progressed as scheduled."
+  },
+  {
+    "sentence": "彼は常に公平な意見を持つ。",
+    "sentence_furigana": "彼【かれ】は常【つね】に公平【こうへい】な意見【いけん】を持【も】つ。",
+    "meaning": "He always holds a fair opinion."
+  },
+  {
+    "sentence": "一匹の馬が遠くの景色を眺めていた。",
+    "sentence_furigana": "一匹【いっぴき】の馬【うま】が遠【とお】くの景色【けしき】を眺【なが】めていた。",
+    "meaning": "A horse was gazing at the distant scenery."
+  }
+]

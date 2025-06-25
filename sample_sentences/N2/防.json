@@ -1,0 +1,492 @@
+[
+  {
+    "sentence": "この薬は風邪を防ぐのに効果的です。",
+    "sentence_furigana": "この薬【くすり】は風邪【かぜ】を防【ふせ】ぐのに効果的【こうかてき】です。",
+    "meaning": "This medicine is effective in preventing colds."
+  },
+  {
+    "sentence": "政府は感染症の拡大を防ぐための対策を講じました。",
+    "sentence_furigana": "政府【せいふ】は感染症【かんせんしょう】の拡大【かくだい】を防【ふせ】ぐための対策【たいさく】を講【こう】じました。",
+    "meaning": "The government took measures to prevent the spread of infectious diseases."
+  },
+  {
+    "sentence": "火災を防ぐために、消火器を準備しておきましょう。",
+    "sentence_furigana": "火災【かさい】を防【ふせ】ぐために、消火器【しょうかき】を準備【じゅんび】しておきましょう。",
+    "meaning": "Let's prepare fire extinguishers to prevent fires."
+  },
+  {
+    "sentence": "彼は悪漢から町を守りました。",
+    "sentence_furigana": "彼【かれ】は悪漢【あっかん】から町【まち】を守【まも】りました。",
+    "meaning": "He defended the town from villains."
+  },
+  {
+    "sentence": "この壁は防音効果があります。",
+    "sentence_furigana": "この壁【かべ】は防音【ぼうおん】効果【こうか】があります。",
+    "meaning": "This wall has soundproofing effects."
+  },
+  {
+    "sentence": "防衛省は国の安全を守るために活動しています。",
+    "sentence_furigana": "防衛省【ぼうえいしょう】は国【くに】の安全【あんぜん】を守【まも】るために活動【かつどう】しています。",
+    "meaning": "The Ministry of Defense works to protect the country's security."
+  },
+  {
+    "sentence": "防犯カメラが設置されているので安心です。",
+    "sentence_furigana": "防犯カメラ【ぼうはんカメラ】が設置【せっち】されているので安心【あんしん】です。",
+    "meaning": "I feel safe because security cameras are installed."
+  },
+  {
+    "sentence": "防水加工されたこのバッグは雨の日でも安心です。",
+    "sentence_furigana": "防水加工【ぼうすいかこう】されたこのバッグは雨の日【あめのひ】でも安心【あんしん】です。",
+    "meaning": "This waterproof bag is safe even on rainy days."
+  },
+  {
+    "sentence": "彼は不正行為を防ぐために注意喚起しました。",
+    "sentence_furigana": "彼【かれ】は不正行為【ふせいこうい】を防【ふせ】ぐために注意喚起【ちゅういかんき】しました。",
+    "meaning": "He issued a warning to prevent fraudulent activities."
+  },
+  {
+    "sentence": "この地域は洪水に対する防御が強化されています。",
+    "sentence_furigana": "この地域【ちいき】は洪水【こうずい】に対する防御【ぼうぎょ】が強化【きょうか】されています。",
+    "meaning": "Defenses against floods have been strengthened in this area."
+  },
+  {
+    "sentence": "病気の蔓延を防ぐためには、手洗いが重要です。",
+    "sentence_furigana": "病気【びょうき】の蔓延【まんえん】を防【ふせ】ぐためには、手洗【てあら】いが重要【じゅうよう】です。",
+    "meaning": "Washing hands is important to prevent the spread of diseases."
+  },
+  {
+    "sentence": "防鳥ネットを張って、作物を鳥から守ります。",
+    "sentence_furigana": "防鳥ネット【ぼうちょうネット】を張【は】って、作物【さくもつ】を鳥から守【まも】ります。",
+    "meaning": "We hang bird-proof nets to protect crops from birds."
+  },
+  {
+    "sentence": "彼は事故を防ぐために安全運転を心がけている。",
+    "sentence_furigana": "彼【かれ】は事故【じこ】を防【ふせ】ぐために安全運転【あんぜんうんてん】を心【こころ】がけている。",
+    "meaning": "He is committed to safe driving to prevent accidents."
+  },
+  {
+    "sentence": "この建物は耐震性を高めるための防震構造になっています。",
+    "sentence_furigana": "この建物【たてもの】は耐震性【たいしんせい】を高【たか】めるための防震構造【ぼうしんこうぞう】になっています。",
+    "meaning": "This building has an earthquake-resistant structure to enhance seismic performance."
+  },
+  {
+    "sentence": "防衛ラインを突破されました。",
+    "sentence_furigana": "防衛ライン【ぼうえいライン】を突破【とっぱ】されました。",
+    "meaning": "The defense line was breached."
+  },
+  {
+    "sentence": "これは防犯上の理由から公開できません。",
+    "sentence_furigana": "これ は 防犯上【ぼうはんじょう】の理由【りゆう】から公開【こうかい】できません。",
+    "meaning": "This cannot be disclosed for security reasons."
+  },
+  {
+    "sentence": "防じんマスクを着用してください。",
+    "sentence_furigana": "防じんマスク【ぼうじんマスク】を着用【ちゃくよう】してください。",
+    "meaning": "Please wear a dust mask."
+  },
+  {
+    "sentence": "彼は常にリスクを回避し、危険から身を守る。",
+    "sentence_furigana": "彼【かれ】は常【つね】にリスクを回避【かいひ】し、危険【きけん】から身【み】を守【まも】る。",
+    "meaning": "He always avoids risks and protects himself from danger."
+  },
+  {
+    "sentence": "防火扉は緊急時に自動的に閉まります。",
+    "sentence_furigana": "防火扉【ぼうかど】は緊急時【きんきゅうじ】に自動的【じどうてき】に閉【と】まります。",
+    "meaning": "The fire door closes automatically in emergencies."
+  },
+  {
+    "sentence": "防衛費の増加について議論が行われています。",
+    "sentence_furigana": "防衛費【ぼうえいひ】の増加【ぞうか】について議論【ぎろん】が行【おこな】われています。",
+    "meaning": "There is a discussion about the increase in defense spending."
+  },
+  {
+    "sentence": "この素材は防腐加工が施されています。",
+    "sentence_furigana": "この素材【そざい】は防腐加工【ぼうふかこう】が施【ほどこ】されています。",
+    "meaning": "This material has been treated for preservation."
+  },
+  {
+    "sentence": "子供が被害に遭わないように、防犯対策を強化する必要がある。",
+    "sentence_furigana": "子供【こども】が被害【ひがい】に遭【あ】わないように、防犯対策【ぼうはんたいさく】を強化【きょうか】する必要【ひつよう】がある。",
+    "meaning": "It is necessary to strengthen crime prevention measures to protect children from becoming victims."
+  },
+  {
+    "sentence": "彼はどんな攻撃からも自分を守る術を知っている。",
+    "sentence_furigana": "彼【かれ】はどんな攻撃【こうげき】からも自分【じぶん】を守【まも】る術【すべ】を知【し】っている。",
+    "meaning": "He knows how to defend himself from any attack."
+  },
+  {
+    "sentence": "防雷装置が設置されている建物は安全です。",
+    "sentence_furigana": "防雷装置【ぼうらいそうち】が設置【せっち】されている建物【たてもの】は安全【あんぜん】です。",
+    "meaning": "Buildings equipped with lightning protection devices are safe."
+  },
+  {
+    "sentence": "防衛大学校で将来の国防を担う人材を育成しています。",
+    "sentence_furigana": "防衛大学校【ぼうえいだいがっこう】で将来【しょうらい】の国防【こくぼう】を担【にな】う人材【じんざい】を育成【いくせい】しています。",
+    "meaning": "The National Defense Academy is training personnel who will be responsible for future national defense."
+  },
+  {
+    "sentence": "この地域では防犯パトロールが定期的に行われています。",
+    "sentence_furigana": "この地域【ちいき】では防犯パトロール【ぼうはんパトロール】が定期的【ていきてき】に行【おこな】われています。",
+    "meaning": "Crime prevention patrols are regularly conducted in this area."
+  },
+  {
+    "sentence": "彼は悪口から自分を守るために、すべてを無視することにした。",
+    "sentence_furigana": "彼【かれ】は悪口【わるぐち】から自分【じぶん】を守【まも】るために、すべてを無視【むし】することにした。",
+    "meaning": "He decided to ignore everything to protect himself from malicious gossip."
+  },
+  {
+    "sentence": "防水性能の高い腕時計を探しています。",
+    "sentence_furigana": "防水性能【ぼうすいせいのう】の高【たか】い腕時計【うでどけい】を探【さが】しています。",
+    "meaning": "I am looking for a wristwatch with high waterproof performance."
+  },
+  {
+    "sentence": "この製品は、化学物質の侵入を防ぐように設計されています。",
+    "sentence_furigana": "この製品【せいひん】は、化学物質【かがくぶっしつ】の侵入【しんにゅう】を防【ふせ】ぐように設計【せっけい】されています。",
+    "meaning": "This product is designed to prevent the ingress of chemicals."
+  },
+  {
+    "sentence": "防衛産業は国の経済に貢献しています。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】は国【くに】の経済【けいざい】に貢献【こうけん】しています。",
+    "meaning": "The defense industry contributes to the national economy."
+  },
+  {
+    "sentence": "彼は自分の意見を強く主張し、反対意見から身を守った。",
+    "sentence_furigana": "彼【かれ】は自分【じぶん】の意見【いけん】を強【つよ】く主張【しゅちょう】し、反対意見【はんたいけん】から身【み】を守【まも】った。",
+    "meaning": "He strongly asserted his opinion and defended himself from opposing views."
+  },
+  {
+    "sentence": "防犯灯が設置されているので、夜道も安心です。",
+    "sentence_furigana": "防犯灯【ぼうはんとう】が設置【せっち】されているので、夜道【よみち】も安心【あんしん】です。",
+    "meaning": "Since security lights are installed, the night road is safe."
+  },
+  {
+    "sentence": "この薬はアレルギー反応を防ぐのに役立ちます。",
+    "sentence_furigana": "この薬【くすり】はアレルギー反応【はんのう】を防【ふせ】ぐのに役立【やくた】ちます。",
+    "meaning": "This medicine helps to prevent allergic reactions."
+  },
+  {
+    "sentence": "防衛力の強化は国家安全保障の重要な課題です。",
+    "sentence_furigana": "防衛力【ぼうえいりょく】の強化【きょうか】は国家安全保障【こっかあんぜんほしょう】の重要【じゅうよう】な課題【かだい】です。",
+    "meaning": "Strengthening defense capabilities is an important issue for national security."
+  },
+  {
+    "sentence": "彼は批判から自分を守るために、公の場での発言を控えた。",
+    "sentence_furigana": "彼【かれ】は批判【ひはん】から自分【じぶん】を守【まも】るために、公【こう】の場【ば】での発言【はつげん】を控【ひか】えた。",
+    "meaning": "He refrained from speaking in public to protect himself from criticism."
+  },
+  {
+    "sentence": "防水スプレーをスニーカーにかけました。",
+    "sentence_furigana": "防水スプレー【ぼうすいスプレー】をスニーカーにかけました。",
+    "meaning": "I sprayed a waterproofing spray on my sneakers."
+  },
+  {
+    "sentence": "防衛産業は高度な技術を必要とします。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】は高度【こうど】な技術【ぎじゅつ】を必要【ひつよう】とします。",
+    "meaning": "The defense industry requires advanced technology."
+  },
+  {
+    "sentence": "彼は否定的な意見から精神を守るために努力している。",
+    "sentence_furigana": "彼【かれ】は否定적【ひていてき】な意見【いけん】から精神【せいしん】を守【まも】るために努力【どりょく】している。",
+    "meaning": "He is working hard to protect his mind from negative opinions."
+  },
+  {
+    "sentence": "防虫剤を入れて、衣類を虫から守ります。",
+    "sentence_furigana": "防虫剤【ぼうちゅうざい】を入【い】れて、衣類【いるい】を虫から守【まも】ります。",
+    "meaning": "We put moth repellent in to protect clothes from insects."
+  },
+  {
+    "sentence": "防衛体制の強化が急務となっている。",
+    "sentence_furigana": "防衛体制【ぼうえいたいせい】の強化【きょうか】が急務【きゅうむ】となっている。",
+    "meaning": "Strengthening the defense system has become an urgent task."
+  },
+  {
+    "sentence": "彼は失敗の恐れから挑戦を避けていた。",
+    "sentence_furigana": "彼【かれ】は失敗【しっぱい】の恐【おそ】れから挑戦【ちょうせん】を避【さ】けていた。",
+    "meaning": "He avoided challenges due to fear of failure."
+  },
+  {
+    "sentence": "防犯カメラの映像は証拠として利用されました。",
+    "sentence_furigana": "防犯カメラ【ぼうはんカメラ】の映像【えいぞう】は証拠【しょうこ】として利用【りよう】されました。",
+    "meaning": "The footage from the security cameras was used as evidence."
+  },
+  {
+    "sentence": "この地域は台風による被害を防ぐための対策を進めています。",
+    "sentence_furigana": "この地域【ちいき】は台風【たいふう】による被害【ひがい】を防【ふせ】ぐための対策【たいさく】を進【すす】めています。",
+    "meaning": "This area is advancing measures to prevent damage from typhoons."
+  },
+  {
+    "sentence": "防衛産業は国の安全保障に不可欠です。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】は国【くに】の安全保障【あんぜんほしょう】に不可欠【ふかけつ】です。",
+    "meaning": "The defense industry is indispensable for national security."
+  },
+  {
+    "sentence": "彼は誤解から自分を守るために、誤解を解く努力をした。",
+    "sentence_furigana": "彼【かれ】は誤解【ごかい】から自分【じぶん】を守【まも】るために、誤解【ごかい】を解【と】く努力【どりょく】をした。",
+    "meaning": "He made an effort to clear up misunderstandings to protect himself from them."
+  },
+  {
+    "sentence": "防滑素材を使用したこの靴は安全です。",
+    "sentence_furigana": "防滑素材【ぼうかつそざい】を使用【しよう】したこの靴【くつ】は安全【あんぜん】です。",
+    "meaning": "These shoes made with anti-slip material are safe."
+  },
+  {
+    "sentence": "病気を防ぐためには、規則正しい生活が大切です。",
+    "sentence_furigana": "病気【びょうき】を防【ふせ】ぐためには、規則正【きそくただ】しい生活【せいかつ】が大切【たいせつ】です。",
+    "meaning": "A regular lifestyle is important for preventing illness."
+  },
+  {
+    "sentence": "防衛大学校の卒業生は、国の防衛に貢献しています。",
+    "sentence_furigana": "防衛大学校【ぼうえいだいがっこう】の卒業生【そつぎょうせい】は、国【くに】の防衛【ぼうえい】に貢献【こうけん】しています。",
+    "meaning": "Graduates of the National Defense Academy contribute to the country's defense."
+  },
+  {
+    "sentence": "彼は否定から自分を守るために、事実のみを語った。",
+    "sentence_furigana": "彼【かれ】は否定【ひてい】から自分【じぶん】を守【まも】るために、事実【じじつ】のみを語【かた】った。",
+    "meaning": "He spoke only the facts to protect himself from denial."
+  },
+  {
+    "sentence": "防犯ブザーは緊急時に助けを呼ぶために使用されます。",
+    "sentence_furigana": "防犯ブザー【ぼうはんブザー】は緊急時【きんきゅうじ】に助【たす】けを呼【よ】ぶために使用【しよう】されます。",
+    "meaning": "A crime prevention buzzer is used to call for help in emergencies."
+  },
+  {
+    "sentence": "この地域は自然災害から住民を守るための対策を講じています。",
+    "sentence_furigana": "この地域【ちいき】は自然災害【しぜんさいがい】から住民【じゅうみん】を守【まも】るための対策【たいさく】を講【こう】じています。",
+    "meaning": "This area is taking measures to protect residents from natural disasters."
+  },
+  {
+    "sentence": "防衛産業の育成は、国の安全保障体制を強化する上で重要です。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】の育成【いくせい】は、国【くに】の安全保障体制【あんぜんほしょうたいせい】を強化【きょうか】する上【うえ】で重要【じゅうよう】です。",
+    "meaning": "Fostering the defense industry is important for strengthening the country's security system."
+  },
+  {
+    "sentence": "彼は不正から自分を守るために、記録をしっかり取っている。",
+    "sentence_furigana": "彼【かれ】は不正【ふせい】から自分【じぶん】を守【まも】るために、記録【きろく】をしっかり取【と】っている。",
+    "meaning": "He keeps thorough records to protect himself from fraud."
+  },
+  {
+    "sentence": "防湿シートはカビの発生を防ぐのに役立ちます。",
+    "sentence_furigana": "防湿シート【ぼうしつシート】はカビの発生【はっせい】を防【ふせ】ぐのに役立【やくた】ちます。",
+    "meaning": "Moisture-proof sheets help prevent mold growth."
+  },
+  {
+    "sentence": "防衛関連の技術開発が進んでいます。",
+    "sentence_furigana": "防衛関連【ぼうえいかんれん】の技術開発【ぎじゅつかいはつ】が進【すす】んでいます。",
+    "meaning": "Defense-related technological development is progressing."
+  },
+  {
+    "sentence": "彼は悪意のある攻撃から自分を守るために、専門家の助けを求めた。",
+    "sentence_furigana": "彼【かれ】は悪意【あくい】のある攻撃【こうげき】から自分【じぶん】を守【まも】るために、専門家【せんもんか】の助【たす】けを求【もと】めた。",
+    "meaning": "He sought help from experts to protect himself from malicious attacks."
+  },
+  {
+    "sentence": "防衛省は、最新鋭の装備を導入しました。",
+    "sentence_furigana": "防衛省【ぼうえいしょう】は、最新鋭【さいしんえい】の装備【そうび】を導入【どうにゅう】しました。",
+    "meaning": "The Ministry of Defense has introduced the latest equipment."
+  },
+  {
+    "sentence": "この防水加工された生地は、水を通しません。",
+    "sentence_furigana": "この防水加工【ぼうすいかこう】された生地【きじ】は、水【みず】を通【とお】しません。",
+    "meaning": "This waterproof fabric does not let water through."
+  },
+  {
+    "sentence": "彼は不運から自分を守るために、常に最善を尽くす。",
+    "sentence_furigana": "彼【かれ】は不運【ふうん】から自分【じぶん】を守【まも】るために、常【つね】に最善【さいぜん】を尽【つ】くす。",
+    "meaning": "He always does his best to protect himself from misfortune."
+  },
+  {
+    "sentence": "防衛線が突破され、都市は危機に瀕した。",
+    "sentence_furigana": "防衛線【ぼうえいせん】が突破【とっぱ】され、都市【とし】は危機【きき】に瀕【ひん】した。",
+    "meaning": "The defense line was breached, and the city was in crisis."
+  },
+  {
+    "sentence": "防犯意識を高めるための啓発活動が行われています。",
+    "sentence_furigana": "防犯意識【ぼうはんいしき】を高【たか】めるための啓発活動【けいはつかつどう】が行【おこな】われています。",
+    "meaning": "Awareness-raising activities are being conducted to increase crime prevention awareness."
+  },
+  {
+    "sentence": "このフィルムは紫外線から目を守ります。",
+    "sentence_furigana": "このフィルムは紫外線【しがいせん】から目【め】を守【まも】ります。",
+    "meaning": "This film protects your eyes from ultraviolet rays."
+  },
+  {
+    "sentence": "防衛関連の国際協力が進んでいます。",
+    "sentence_furigana": "防衛関連【ぼうえいかんれん】の国際協力【こくさいきょうりょく】が進【すす】んでいます。",
+    "meaning": "International cooperation in defense is progressing."
+  },
+  {
+    "sentence": "彼は否定的な感情から自分を守るために、瞑想を始めた。",
+    "sentence_furigana": "彼【かれ】は否定적【ひていてき】な感情【かんじょう】から自分【じぶん】を守【まも】るために、瞑想【めいそう】を始【はじ】めた。",
+    "meaning": "He started meditation to protect himself from negative emotions."
+  },
+  {
+    "sentence": "防衛省は新たな防衛計画を発表しました。",
+    "sentence_furigana": "防衛省【ぼうえいしょう】は新【あら】たな防衛計画【ぼうえいけいかく】を発表【はっぴょう】しました。",
+    "meaning": "The Ministry of Defense announced a new defense plan."
+  },
+  {
+    "sentence": "防犯のために、自宅に警報システムを設置しました。",
+    "sentence_furigana": "防犯【ぼうはん】のために、自宅【じたく】に警報システム【けいほうシステム】を設置【せっち】しました。",
+    "meaning": "For crime prevention, I installed an alarm system at home."
+  },
+  {
+    "sentence": "彼は誤情報を防ぐために、正確な情報を提供する。",
+    "sentence_furigana": "彼【かれ】は誤情報【ごじょうほう】を防【ふせ】ぐために、正確【せいかく】な情報【じょうほう】を提供【ていきょう】する。",
+    "meaning": "He provides accurate information to prevent misinformation."
+  },
+  {
+    "sentence": "防衛産業は、高度な技術開発を促進します。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】は、高度【こうど】な技術開発【ぎじゅつかいはつ】を促進【そくしん】します。",
+    "meaning": "The defense industry promotes advanced technological development."
+  },
+  {
+    "sentence": "彼は差別から自分を守るために、毅然とした態度をとった。",
+    "sentence_furigana": "彼【かれ】は差別【さべつ】から自分【じぶん】を守【まも】るために、毅然【きぜん】とした態度【たいど】をとった。",
+    "meaning": "He took a firm stance to protect himself from discrimination."
+  },
+  {
+    "sentence": "防護服を着用して作業を行ってください。",
+    "sentence_furigana": "防護服【ぼうごふく】を着用【ちゃくよう】して作業【さぎょう】を行【おこな】ってください。",
+    "meaning": "Please wear protective clothing while working."
+  },
+  {
+    "sentence": "防衛大学校は、国の安全保障の担い手を育成する重要な機関です。",
+    "sentence_furigana": "防衛大学校【ぼうえいだいがっこう】は、国【くに】の安全保障【あんぜんほしょう】の担【にな】い手【て】を育成【いくせい】する重要【じゅうよう】な機関【きかん】です。",
+    "meaning": "The National Defense Academy is an important institution for training those who will bear responsibility for national security."
+  },
+  {
+    "sentence": "彼は不利な状況から自分を守るために、交渉のスキルを磨いた。",
+    "sentence_furigana": "彼【かれ】は不利【ふり】な状況【じょうきょう】から自分【じぶん】を守【まも】るために、交渉【こうしょう】のスキルを磨【みが】いた。",
+    "meaning": "He honed his negotiation skills to protect himself from disadvantageous situations."
+  },
+  {
+    "sentence": "防音壁は騒音を軽減するのに役立ちます。",
+    "sentence_furigana": "防音壁【ぼうおんへき】は騒音【そうおん】を軽減【けいげん】するのに役立【やくた】ちます。",
+    "meaning": "Soundproof walls help reduce noise."
+  },
+  {
+    "sentence": "彼は不当な扱いから自分を守るために、法律の専門家に相談した。",
+    "sentence_furigana": "彼【かれ】は不当【ふとう】な扱【あつか】いから自分【じぶん】を守【まも】るために、法律【ほうりつ】の専門家【せんもんか】に相談【そうだん】した。",
+    "meaning": "He consulted a legal expert to protect himself from unfair treatment."
+  },
+  {
+    "sentence": "防衛省は、最新の技術を駆使して防衛力を強化しています。",
+    "sentence_furigana": "防衛省【ぼうえいしょう】は、最新【さいしん】の技術【ぎじゅつ】を駆使【くし】して防衛力【ぼうえいりょく】を強化【きょうか】しています。",
+    "meaning": "The Ministry of Defense is strengthening its defense capabilities by utilizing the latest technology."
+  },
+  {
+    "sentence": "防犯上の理由から、このエリアは監視下にあります。",
+    "sentence_furigana": "防犯上【ぼうはんじょう】の理由【りゆう】から、このエリアは監視下【かんしか】にあります。",
+    "meaning": "For security reasons, this area is under surveillance."
+  },
+  {
+    "sentence": "彼は不況から自分を守るために、貯蓄を増やした。",
+    "sentence_furigana": "彼【かれ】は不況【ふきょう】から自分【じぶん】を守【まも】るために、貯蓄【ちょちく】を増【ふ】やした。",
+    "meaning": "He increased his savings to protect himself from the recession."
+  },
+  {
+    "sentence": "防衛大臣は、国の安全を守るための決意を表明しました。",
+    "sentence_furigana": "防衛大臣【ぼうえいだいじん】は、国【くに】の安全【あんぜん】を守【まも】るための決意【けつい】を表明【ひょうめい】しました。",
+    "meaning": "The Minister of Defense expressed determination to protect the country's security."
+  },
+  {
+    "sentence": "この防炎カーテンは火の延焼を防ぎます。",
+    "sentence_furigana": "この防炎カーテン【ぼうえんカーテン】は火【ひ】の延焼【えんしょう】を防【ふせ】ぎます。",
+    "meaning": "This flame-retardant curtain prevents the spread of fire."
+  },
+  {
+    "sentence": "彼は不当な告発から自分を守るために、弁護士を雇った。",
+    "sentence_furigana": "彼【かれ】は不当【ふとう】な告発【こくはつ】から自分【じぶん】を守【まも】るために、弁護士【べんごし】を雇【やと】った。",
+    "meaning": "He hired a lawyer to protect himself from wrongful accusations."
+  },
+  {
+    "sentence": "防衛産業は、先端技術の研究開発に貢献しています。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】は、先端技術【せんたんぎじゅつ】の研究開発【けんきゅうかいはつ】に貢献【こうけん】しています。",
+    "meaning": "The defense industry contributes to research and development of cutting-edge technologies."
+  },
+  {
+    "sentence": "彼は不安から自分を守るために、友人に話を聞いてもらった。",
+    "sentence_furigana": "彼【かれ】は不安【ふあん】から自分【じぶん】を守【まも】るために、友人【ゆうじん】に話【はな】を聞【き】いてもらった。",
+    "meaning": "He talked to his friend to protect himself from anxiety."
+  },
+  {
+    "sentence": "防衛大学校では、厳しい訓練が行われます。",
+    "sentence_furigana": "防衛大学校【ぼうえいだいがっこう】では、厳【きび】しい訓練【くんれん】が行【おこな】われます。",
+    "meaning": "Rigorous training is conducted at the National Defense Academy."
+  },
+  {
+    "sentence": "この防音材は、外部からの騒音を効果的に遮断します。",
+    "sentence_furigana": "この防音材【ぼうおんざい】は、外部【がいぶ】からの騒音【そうおん】を効果的【こうかてき】に遮断【しゃだん】します。",
+    "meaning": "This soundproofing material effectively blocks external noise."
+  },
+  {
+    "sentence": "彼は不公平な扱いから自分を守るために、証拠を集めた。",
+    "sentence_furigana": "彼【かれ】は不公平【ふこうへい】な扱【あつか】いから自分【じぶん】を守【まも】るために、証拠【しょうこ】を集【あつ】めた。",
+    "meaning": "He gathered evidence to protect himself from unfair treatment."
+  },
+  {
+    "sentence": "防犯システムは、侵入者を検知して警報を発します。",
+    "sentence_furigana": "防犯システム【ぼうはんシステム】は、侵入者【しんにゅうしゃ】を検知【けんち】して警報【けいほう】を発【はっ】します。",
+    "meaning": "The security system detects intruders and triggers an alarm."
+  },
+  {
+    "sentence": "彼は不確実な未来から自分を守るために、計画を立てた。",
+    "sentence_furigana": "彼【かれ】は不確実【ふかくじつ】な未来【みらい】から自分【じぶん】を守【まも】るために、計画【けいかく】を立【た】てた。",
+    "meaning": "He made a plan to protect himself from an uncertain future."
+  },
+  {
+    "sentence": "防衛大学校の卒業生は、国防の分野で活躍しています。",
+    "sentence_furigana": "防衛大学校【ぼうえいだいがっこう】の卒業生【そつぎょうせい】は、国防【こくぼう】の分野【ぶんや】で活躍【かつやく】しています。",
+    "meaning": "Graduates of the National Defense Academy are active in the field of national defense."
+  },
+  {
+    "sentence": "彼は不衛生な環境から自分を守るために、マスクを着用した。",
+    "sentence_furigana": "彼【かれ】は不衛生【ふえいせい】な環境【かんきょう】から自分【じぶん】を守【まも】るために、マスクを着用【ちゃくよう】した。",
+    "meaning": "He wore a mask to protect himself from unsanitary conditions."
+  },
+  {
+    "sentence": "防衛大臣は、国民の安全を守ることを最優先すると述べた。",
+    "sentence_furigana": "防衛大臣【ぼうえいだいじん】は、国民【こくみん】の安全【あんぜん】を守【まも】ることを最優先【さいゆうせん】すると述【の】べた。",
+    "meaning": "The Minister of Defense stated that protecting the safety of the people is the top priority."
+  },
+  {
+    "sentence": "この防音室は、周囲への音漏れを防ぎます。",
+    "sentence_furigana": "この防音室【ぼうおんしつ】は、周囲【しゅうい】への音漏【おとL】れを防【ふせ】ぎます。",
+    "meaning": "This soundproof room prevents sound leakage to the surroundings."
+  },
+  {
+    "sentence": "彼は不法行為から自分を守るために、信頼できる情報源を確認した。",
+    "sentence_furigana": "彼【かれ】は不法行為【ふほうこうい】から自分【じぶん】を守【まも】るために、信頼【しんらい】できる情報源【じょうほうげん】を確認【かくにん】した。",
+    "meaning": "He checked reliable sources to protect himself from illegal activities."
+  },
+  {
+    "sentence": "防衛産業は、国の経済発展にも寄与しています。",
+    "sentence_furigana": "防衛産業【ぼうえいさんぎょう】は、国【くに】の経済発展【けいざいはってん】にも寄与【きよ】しています。",
+    "meaning": "The defense industry also contributes to the country's economic development."
+  },
+  {
+    "sentence": "彼は不注意から自分を守るために、常に周囲に注意を払っている。",
+    "sentence_furigana": "彼【かれ】は不注意【ふちゅうい】から自分【じぶん】を守【まも】るために、常【つね】に周囲【しゅうい】に注意【ちゅうい】を払【はら】っている。",
+    "meaning": "He always pays attention to his surroundings to protect himself from carelessness."
+  },
+  {
+    "sentence": "防衛大学校の学生は、厳しい学業と訓練に励んでいます。",
+    "sentence_furigana": "防衛大学校【ぼうえいだいがっこう】の学生【がくせい】は、厳【きび】しい学業【がくぎょう】と訓練【くんれん】に励【はげ】んでいます。",
+    "meaning": "Students at the National Defense Academy are engaged in rigorous studies and training."
+  },
+  {
+    "sentence": "防衛省は、国際社会との協力を強化しています。",
+    "sentence_furigana": "防衛省【ぼうえいしょう】は、国際社会【こくさいしゃかい】との協力【きょうりょく】を強化【きょうか】しています。",
+    "meaning": "The Ministry of Defense is strengthening cooperation with the international community."
+  },
+  {
+    "sentence": "彼は不当な評価から自分を守るために、成果を記録した。",
+    "sentence_furigana": "彼【かれ】は不当【ふとう】な評価【ひょうか】から自分【じぶん】を守【まも】るために、成果【せいか】を記録【きろく】した。",
+    "meaning": "He recorded his achievements to protect himself from unfair evaluations."
+  },
+  {
+    "sentence": "防犯ブザーは、緊急時に自身の安全を確保するための有効な手段です。",
+    "sentence_furigana": "防犯ブザー【ぼうはんブザー】は、緊急時【きんきゅうじ】に自身【じしん】の安全【あんぜん】を確保【かくほ】するための有効【ゆうこう】な手段【しゅだん】です。",
+    "meaning": "A crime prevention buzzer is an effective means of ensuring one's safety in emergencies."
+  }
+]
