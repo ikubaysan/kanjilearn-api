@@ -1,5 +1,3 @@
-
-
 # KanjiLearn - Kanji Learning REST API for Resonite
 
 ## Server Setup:
@@ -12,7 +10,7 @@
    - On Linux: Run `source venv/bin/activate`
 4. Install the requirements with `pip install -r requirements.txt`
 5. Make a copy of `config_example.ini` and rename it to `config.ini`
-6. Open `config.ini` in a text editor and enter your OpenAI API key to the api_key section. 
+6. Optional: Open `config.ini` in a text editor and enter your OpenAI API key to the api_key section. 
 Change any other options as you see fit. Set `host` to `localhost` if testing locally.
 If you want the server to be accessible to the internet, and assuming you've forwarded the port you want to use, set `host` to `0.0.0.0`
 7. Run `python main.py` to start the server. The server will be hosted on the host and port you specified in `config.ini`
@@ -26,9 +24,9 @@ http://localhost:5733/random_kanji/
 Copy this URI and paste it into Resonite, and the public folder will spawn. 
 The client item is in the folder, named `KanjiLearnClient`. 
 2. Spawn the item and navigate to the root of it with your Inspector tool.
-3. You will see 2 `DynamicValueVariable<string>` components with VariableNames `Settings/URL` and `and Settings/ClientUserID`. Modify those components' values to match your server's URL and your Neos UserID.
-
-Now your client has been configured. It will only work when you are in a session, and connect to your server, using your OpenAI API key. When other users send prompts, the requests will be sent to your server on your behalf. There is no need for other users to connect to your server.
+3. You will see 2 `DynamicValueVariable<string>` components with VariableNames `Settings/URL` and `Settings/TryConnectionAsUsername`. 
+   * `Settings/URL` - Your server's URL
+   * `Settings/TryConnectionAsUsername` Not required to be set, but allows you to designate a user who will send requests to the server. You can set this as yourself so others do not have to make API requests. If this field is not set, or is set to a username of a user who is not in the session, API requests will be sent by whoever interacts with the item.
 
 ## Credits
 The `kanji.json` file is from:
