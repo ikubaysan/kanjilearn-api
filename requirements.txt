@@ -4,3 +4,6 @@ pytest
 google-generativeai
 gtts
 pydub
+google-cloud-texttospeech
+coqui-tts
+coqui-tts[ja]
