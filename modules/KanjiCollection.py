@@ -27,7 +27,7 @@ class KanjiCollection:
 
         # Try to load sample sentences if directory is given
         level_str = f"N{jlpt_new}"
-        sentence_file = os.path.join(self.categories_dir, level_str, kanji.character, f"{kanji.character}.json")
+        sentence_file = os.path.abspath(os.path.join(self.categories_dir, level_str, kanji.character, f"{kanji.character}.json"))
         if os.path.exists(sentence_file):
             try:
                 with open(sentence_file, "r", encoding="utf-8") as f:
