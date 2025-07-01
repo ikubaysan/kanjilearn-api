@@ -21,8 +21,8 @@ if __name__ == "__main__":
         kanji_data = json.load(file)
 
     # Create a KanjiCollection instance
-    sample_sentences_dir = os.path.join(base_dir, 'sample_sentences')
-    collection = KanjiCollection(sample_sentences_dir=sample_sentences_dir)
+    categories_dir = os.path.join(base_dir, './kanji_data/categories')
+    collection = KanjiCollection(categories_dir=categories_dir)
 
     # Populate the collection
     for character, data in kanji_data.items():

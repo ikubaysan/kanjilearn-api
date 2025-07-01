@@ -32,7 +32,7 @@ class SentenceGenerator:
             kanji_data = json.load(f)
 
         # Build JLPT-only KanjiCollection
-        collection = KanjiCollection(sample_sentences_dir=self.output_dir)
+        collection = KanjiCollection(categories_dir=self.output_dir)
         for character, data in kanji_data.items():
             kanji = Kanji(character, data)
             collection.add_kanji(kanji, require_sample_sentences=False)

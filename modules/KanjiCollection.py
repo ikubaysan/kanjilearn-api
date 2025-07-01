@@ -8,7 +8,7 @@ from modules.Kanji import Kanji
 logger = logging.getLogger(__name__)
 
 class KanjiCollection:
-    def __init__(self, sample_sentences_dir: str):
+    def __init__(self, categories_dir: str):
         self.n1, self.n2, self.n3, self.n4, self.n5 = [], [], [], [], []
         self.levels = {
             1: self.n1,
@@ -17,7 +17,7 @@ class KanjiCollection:
             4: self.n4,
             5: self.n5
         }
-        self.sample_sentences_dir = sample_sentences_dir
+        self.categories_dir = categories_dir
 
     def add_kanji(self, kanji: Kanji, require_sample_sentences: bool = True):
         jlpt_new = kanji.jlpt_new
@@ -27,7 +27,7 @@ class KanjiCollection:
 
         # Try to load sample sentences if directory is given
         level_str = f"N{jlpt_new}"
-        sentence_file = os.path.join(self.sample_sentences_dir, level_str, f"{kanji.character}.json")
+        sentence_file = os.path.join(self.categories_dir, level_str, kanji.character, f"{kanji.character}.json")
         if os.path.exists(sentence_file):
             try:
                 with open(sentence_file, "r", encoding="utf-8") as f:
