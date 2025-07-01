@@ -63,7 +63,7 @@ class SentenceGenerator:
             jlpt_level_str = f"N{kanji.jlpt_new}"
             jlpt_dir = os.path.join(self.output_dir, jlpt_level_str)
             os.makedirs(jlpt_dir, exist_ok=True)
-            output_path = os.path.join(jlpt_dir, f"{character}.json")
+            output_path = os.path.join(jlpt_dir, character, f"{character}.json")
             logger.info(f"Output path for {character}: {output_path}")
 
             if self.skip_existing and os.path.exists(output_path):
@@ -83,6 +83,10 @@ class SentenceGenerator:
                         continue
 
                     parsed_response = json.loads(response)
+
+                    # Create folder for the character if it doesn't exist
+                    character_dir = os.path.join(jlpt_dir, character)
+                    os.makedirs(character_dir, exist_ok=True)
 
                     with open(output_path, 'w', encoding='utf-8') as out_file:
                         json.dump(parsed_response, out_file, ensure_ascii=False, indent=2)
@@ -118,7 +122,7 @@ if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.abspath(__file__))
     kanji_json = os.path.join(base_dir, '..', 'kanji_data', 'kanji.json')
     config_ini = os.path.join(base_dir, '..', 'config.ini')
-    output_directory = os.path.join(base_dir, '..', 'sample_sentences')
+    output_directory = os.path.join(base_dir, '..', 'kanji_data')
 
     generator = SentenceGenerator(
         kanji_json_path=kanji_json,
