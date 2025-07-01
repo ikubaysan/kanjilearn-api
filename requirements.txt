@@ -2,3 +2,5 @@ flask
 requests
 pytest
 google-generativeai
+gtts
+pydub
