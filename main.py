@@ -17,7 +17,7 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 
 if __name__ == "__main__":
     # Load the JSON data
-    with open('kanji.json', 'r', encoding='utf-8') as file:
+    with open('./kanji_data/kanji.json', 'r', encoding='utf-8') as file:
         kanji_data = json.load(file)
 
     # Create a KanjiCollection instance

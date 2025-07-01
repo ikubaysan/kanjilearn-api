@@ -116,7 +116,7 @@ class SentenceGenerator:
 
 if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.abspath(__file__))
-    kanji_json = os.path.join(base_dir, '..', 'kanji.json')
+    kanji_json = os.path.join(base_dir, '..', 'kanji_data', 'kanji.json')
     config_ini = os.path.join(base_dir, '..', 'config.ini')
     output_directory = os.path.join(base_dir, '..', 'sample_sentences')
 
