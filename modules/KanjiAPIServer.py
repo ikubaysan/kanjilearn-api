@@ -6,6 +6,8 @@ from modules.KanjiCollection import KanjiCollection
 from modules.AudioGenerator import AudioGenerator
 import logging
 from modules.SampleSentence import SampleSentence
+import os
+from flask import send_from_directory
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +24,17 @@ class KanjiAPIServer:
         self.app.add_url_rule('/random_kanji/<levels>', 'get_kanji', self.get_kanji, methods=['GET'])
         self.app.add_url_rule('/quiz/', 'quiz_kanji', self.quiz_kanji, methods=['GET'], defaults={'levels': ''})
         self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.quiz_kanji, methods=['GET'])
+
+        # Audio files will be served at
+        # http://<hostname>:<port>/audio/<JLPT_LEVEL>/<KANJI>/<KANJI>_<IDX>.ogg
+        # Eg http://localhost:5000/audio/N3/選/選_13.ogg
+
+        self.app.add_url_rule(
+            '/audio/<path:filename>',
+            'serve_audio',
+            self.serve_audio,
+            methods=['GET']
+        )
         self.sample_sentence_count = sample_sentence_count
 
         self.audio_generator = AudioGenerator(
@@ -29,6 +42,10 @@ class KanjiAPIServer:
             categories_dir=collection.categories_dir,
             convert_to_ogg=True
         )
+
+    def serve_audio(self, filename):
+        audio_dir = os.path.abspath(self.collection.categories_dir)
+        return send_from_directory(audio_dir, filename, as_attachment=False)
 
     def get_kanji(self, levels: str = '') -> Response:
         if levels:
