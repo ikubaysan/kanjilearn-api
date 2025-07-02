@@ -4,18 +4,10 @@ from flask import Flask, Response
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
 from modules.AudioGenerator import AudioGenerator
-import json
 import logging
+from modules.SampleSentence import SampleSentence
 
 logger = logging.getLogger(__name__)
-
-class SampleSentence:
-    def __init__(self, sentence: str, furigana: str, meaning: str):
-        self.sentence = sentence
-        self.furigana = furigana
-        self.meaning = meaning
-        self.lines_with_meaning = f"{self.sentence}\n{self.furigana}\n{self.meaning}\n"
-        self.lines_without_meaning = f"{self.sentence}\n{self.furigana}\n"
 
 
 class KanjiAPIServer:
@@ -101,15 +93,19 @@ class KanjiAPIServer:
 
     def get_sample_sentences(self, kanji: Kanji) -> List[SampleSentence]:
 
+        count_of_sample_sentences = len(kanji.sample_sentences)
+        # Create a list of <sample_sentence_count> unique randomly-selected indices of kanji.sample_sentences
+        sample_sentence_indices = random.sample(range(count_of_sample_sentences), min(self.sample_sentence_count, count_of_sample_sentences))
         # Ensure audio exists
-        self.audio_generator.generate_audio_for_kanji(kanji)
+        self.audio_generator.generate_audio_for_kanji(kanji, sample_sentence_indices=sample_sentence_indices)
 
         if not kanji.sample_sentences:
             raise ValueError(f"get_sample_sentences() - No sample sentences available for kanji: {kanji.character}")
 
-        unique_samples = list({json.dumps(s, ensure_ascii=False): s for s in kanji.sample_sentences}.values())
-        selected = random.sample(unique_samples, min(self.sample_sentence_count, len(unique_samples)))
-        return [SampleSentence(s["sentence"], s["sentence_furigana"], s["meaning"]) for s in selected]
+        sample_sentences = [kanji.sample_sentences[i] for i in sample_sentence_indices]
+
+        return sample_sentences
+
 
     def format_kanji_info(self, sample_sentences: List[SampleSentence], kanji: Kanji, include_meanings: bool = True) -> str:
         info = [

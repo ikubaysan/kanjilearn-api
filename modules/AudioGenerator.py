@@ -11,6 +11,7 @@ except ImportError:
 
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
+from modules.SampleSentence import SampleSentence
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -25,45 +26,36 @@ class AudioGenerator:
         if self.convert_to_ogg and not PYDUB_AVAILABLE:
             raise ImportError("pydub is required for OGG conversion but is not installed.")
 
-    def generate_audio_for_kanji(self, kanji: Kanji, sentence_indices: list = None):
-        # jlpt_level = f"N{kanji.jlpt_new}"
-        # kanji_dir = os.path.join(self.categories_dir, jlpt_level, kanji.character)
-        # sentence_json = os.path.join(kanji_dir, f"{kanji.character}.json")
-        #
-        # if not os.path.exists(sentence_json):
-        #     logger.warning(f"Sentence file missing for {kanji.character}: {sentence_json}")
-        #     return
-        #
-        # with open(sentence_json, 'r', encoding='utf-8') as f:
-        #     sentences = json.load(f)
-        #
-        # logger.info(f"Generating audio for {kanji.character} ({len(sentences)} sentences)...")
-        #
-        # for idx, entry in enumerate(sentences):
-        #     text = entry.get('sentence')
-        #     if not text:
-        #         continue
-        #
-        #     final_audio = os.path.abspath(os.path.join(kanji_dir, f"{kanji.character}_{idx}.ogg" if self.convert_to_ogg else f"{kanji.character}_{idx}.mp3"))
-        #     if os.path.exists(final_audio):
-        #         logger.info(f"Audio already exists: {final_audio}")
-        #         continue
-        #
-        #     try:
-        #         tts = gTTS(text=text, lang=self.language)
-        #         if self.convert_to_ogg:
-        #             temp_mp3 = os.path.join(kanji_dir, f"{kanji.character}_{idx}.mp3")
-        #             tts.save(temp_mp3)
-        #             audio = AudioSegment.from_mp3(temp_mp3)
-        #             audio.export(final_audio, format="ogg")
-        #             os.remove(temp_mp3)
-        #         else:
-        #             tts.save(final_audio)
-        #         logger.info(f"Saved: {final_audio}")
-        #     except Exception as e:
-        #         logger.error(f"Failed audio gen for {kanji.character} sentence {idx}: {e}")
-        return
+    def generate_audio_for_kanji(self, kanji: Kanji, sample_sentence_indices: list):
+        kanji_dir = os.path.join(self.categories_dir, kanji.jlpt_level, kanji.character)
 
+        if not sample_sentence_indices:
+            logger.warning(f"No sentence indices provided for {kanji.character}. Skipping audio generation.")
+            return
+
+        logger.info(f"Generating audio for {kanji.character} ({len(sample_sentence_indices)} sentences)...")
+
+        for idx in sample_sentence_indices:
+            sample_sentence = kanji.sample_sentences[idx]
+            final_audio = os.path.abspath(os.path.join(kanji_dir,
+                                                       f"{kanji.character}_{idx}.ogg" if self.convert_to_ogg else f"{kanji.character}_{idx}.mp3"))
+            if os.path.exists(final_audio):
+                logger.info(f"Audio already exists: {final_audio}")
+                continue
+
+            try:
+                tts = gTTS(text=sample_sentence.sentence, lang=self.language)
+                if self.convert_to_ogg:
+                    temp_mp3 = os.path.join(kanji_dir, f"{kanji.character}_{idx}.mp3")
+                    tts.save(temp_mp3)
+                    audio = AudioSegment.from_mp3(temp_mp3)
+                    audio.export(final_audio, format="ogg")
+                    os.remove(temp_mp3)
+                else:
+                    tts.save(final_audio)
+                logger.info(f"Saved: {final_audio}")
+            except Exception as e:
+                logger.error(f"Failed audio gen for {kanji.character} sentence index {idx}: {e}")
 
     def generate_audio_for_all(self):
         with open(self.kanji_json_path, 'r', encoding='utf-8') as f:
