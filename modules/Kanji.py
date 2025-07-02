@@ -1,4 +1,6 @@
 from typing import List, Optional
+import json
+import os
 
 class Kanji:
     def __init__(self, character: str, data: dict):
@@ -17,6 +19,14 @@ class Kanji:
         self.wk_readings_kun = data['wk_readings_kun']
         self.wk_radicals = data['wk_radicals']
         self.sample_sentences = []
+
+    def load_sample_sentences_from_json_file(self, file_path: str) -> None:
+        if not os.path.exists(file_path):
+            raise FileNotFoundError(f"Sample sentences file not found: {file_path}")
+
+        with open(file_path, 'r', encoding='utf-8') as f:
+            self.sample_sentences = json.load(f)
+
 
     def get_example_sentences_prompt(self, count: int) -> Optional[str]:
 

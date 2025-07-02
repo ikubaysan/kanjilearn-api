@@ -3,6 +3,7 @@ from typing import List
 from flask import Flask, Response
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
+from modules.AudioGenerator import AudioGenerator
 import json
 import logging
 
@@ -30,6 +31,12 @@ class KanjiAPIServer:
         self.app.add_url_rule('/quiz/', 'quiz_kanji', self.quiz_kanji, methods=['GET'], defaults={'levels': ''})
         self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.quiz_kanji, methods=['GET'])
         self.sample_sentence_count = sample_sentence_count
+
+        self.audio_generator = AudioGenerator(
+            kanji_json_path='',  # Not needed here
+            categories_dir=collection.categories_dir,
+            convert_to_ogg=True
+        )
 
     def get_kanji(self, levels: str = '') -> Response:
         if levels:
@@ -93,6 +100,10 @@ class KanjiAPIServer:
         return Response(response, mimetype='text/plain')
 
     def get_sample_sentences(self, kanji: Kanji) -> List[SampleSentence]:
+
+        # Ensure audio exists
+        self.audio_generator.generate_audio_for_kanji(kanji)
+
         if not kanji.sample_sentences:
             raise ValueError(f"get_sample_sentences() - No sample sentences available for kanji: {kanji.character}")
 

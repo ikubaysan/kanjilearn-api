@@ -23,6 +23,7 @@ class Config:
         self.whitelist_enabled = self.config['server']['whitelist_enabled'].lower() == 'true'
         self.whitelist = [item.strip() for item in self.config['server']['whitelist'].split(',') if self.whitelist_enabled]
 
+        self.sample_sentence_count = int(self.config['server']['sample_sentence_count'])
         self.min_seconds_between_requests_per_user = float(self.config['server']['min_seconds_between_requests_per_user'])
         self.min_seconds_between_requests_per_user = self.min_seconds_between_requests_per_user if self.min_seconds_between_requests_per_user > 0 else 0
 

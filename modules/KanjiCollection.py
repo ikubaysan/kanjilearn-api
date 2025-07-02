@@ -30,8 +30,7 @@ class KanjiCollection:
         sentence_file = os.path.abspath(os.path.join(self.categories_dir, level_str, kanji.character, f"{kanji.character}.json"))
         if os.path.exists(sentence_file):
             try:
-                with open(sentence_file, "r", encoding="utf-8") as f:
-                    kanji.sample_sentences = json.load(f)
+                kanji.load_sample_sentences_from_json_file(file_path=sentence_file)
             except Exception as e:
                 logger.warning(f"Failed to load sample sentences for {kanji.character} from {sentence_file}: {e}")
                 if require_sample_sentences:

@@ -9,9 +9,6 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-
-SAMPLE_SENTENCE_COUNT = 3
-
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -36,5 +33,5 @@ if __name__ == "__main__":
 
     # Initialize and run the API
     kanji_api = KanjiAPIServer(collection=collection,
-                               sample_sentence_count=SAMPLE_SENTENCE_COUNT)
+                               sample_sentence_count=config.sample_sentence_count)
     kanji_api.app.run(host='0.0.0.0', port=config.port)
