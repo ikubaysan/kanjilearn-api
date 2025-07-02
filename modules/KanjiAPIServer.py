@@ -22,8 +22,8 @@ class KanjiAPIServer:
         self.app = Flask(__name__)
         self.app.add_url_rule('/random_kanji/', 'get_kanji', self.get_kanji, methods=['GET'], defaults={'levels': ''})
         self.app.add_url_rule('/random_kanji/<levels>', 'get_kanji', self.get_kanji, methods=['GET'])
-        self.app.add_url_rule('/quiz/', 'quiz_kanji', self.quiz_kanji, methods=['GET'], defaults={'levels': ''})
-        self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.quiz_kanji, methods=['GET'])
+        self.app.add_url_rule('/quiz/', 'quiz_kanji', self.get_quiz_kanji, methods=['GET'], defaults={'levels': ''})
+        self.app.add_url_rule('/quiz/<levels>', 'quiz_kanji', self.get_quiz_kanji, methods=['GET'])
 
         # Audio files will be served at
         # http://<hostname>:<port>/audio/<JLPT_LEVEL>/<KANJI>/<KANJI>_<IDX>.ogg
@@ -67,7 +67,7 @@ class KanjiAPIServer:
         else:
             return Response("No kanji found for the specified JLPT levels.", status=404)
 
-    def quiz_kanji(self, levels: str = '') -> Response:
+    def get_quiz_kanji(self, levels: str = '') -> Response:
         if levels:
             try:
                 jlpt_levels = [int(level) for level in levels.split(',') if level.strip()]
