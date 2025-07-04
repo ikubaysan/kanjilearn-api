@@ -1,6 +1,6 @@
 import random
 from typing import List
-from flask import Flask, Response
+from flask import Flask, Response, Union
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
 from modules.AudioGenerator import AudioGenerator
@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 
 class KanjiAPIServer:
-    def __init__(self, collection: KanjiCollection, public_hostname: str, sample_sentence_count: int = 3):
+    def __init__(self, collection: KanjiCollection, public_hostname: str, port:int, sample_sentence_count: int = 3):
         self.collection = collection
 
         for level in collection.levels:
@@ -37,6 +37,7 @@ class KanjiAPIServer:
         )
         self.sample_sentence_count = sample_sentence_count
         self.public_hostname = public_hostname
+        self.port = port
 
         self.audio_generator = AudioGenerator(
             kanji_json_path='',  # Not needed here
@@ -60,7 +61,7 @@ class KanjiAPIServer:
             jlpt_levels = [1, 2, 3, 4, 5]
 
         kanji = self.collection.get_random_kanji(jlpt_levels)
-        sample_sentences = self.get_sample_sentences(kanji)
+        sample_sentences, audio_urls = self.get_sample_sentences(kanji)
 
         if kanji:
             response = self.format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
@@ -93,7 +94,7 @@ class KanjiAPIServer:
             return Response(str(e), status=404)
 
         kanji = quiz_kanji[0]
-        sample_sentences = self.get_sample_sentences(kanji)
+        sample_sentences, audio_urls = self.get_sample_sentences(kanji)
 
         kanji_info_without_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
                                                              kanji=kanji,
@@ -109,21 +110,66 @@ class KanjiAPIServer:
         response = f"{kanji_info_without_meanings}@{kanji_info_with_meanings}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
         return Response(response, mimetype='text/plain')
 
-    def get_sample_sentences(self, kanji: Kanji) -> List[SampleSentence]:
+    def get_public_audio_url(self, local_file_path: str) -> str:
+        """
+        Converts a local audio file path returned by generate_audio_for_kanji
+        to its corresponding public URL based on self.public_hostname.
 
+        Example:
+        local_file_path:
+            C:/Users/MyUsername/.../kanji_data/categories/N3/選/選_13.ogg
+        returns:
+            http://<public_hostname>/audio/N3/選/選_13.ogg
+        """
+        try:
+            relative_path = os.path.relpath(
+                local_file_path,
+                os.path.abspath(self.collection.categories_dir)
+            )
+            # Ensure URL uses forward slashes even on Windows
+            relative_path_url = relative_path.replace(os.path.sep, '/')
+            public_url = f"{self.public_hostname}:{self.port}/audio/{relative_path_url}"
+
+            # Add http:// to the start of public_url if it's not already there
+            if not public_url.startswith("http://") and not public_url.startswith("https://"):
+                public_url = f"http://{public_url}"
+
+            return public_url
+        except Exception as e:
+            logger.error(f"Error generating public URL for {local_file_path}: {e}")
+            return ""
+
+    def get_sample_sentences(self, kanji: Kanji) -> Union[List[SampleSentence], List[str]]:
         count_of_sample_sentences = len(kanji.sample_sentences)
-        # Create a list of <sample_sentence_count> unique randomly-selected indices of kanji.sample_sentences
-        sample_sentence_indices = random.sample(range(count_of_sample_sentences), min(self.sample_sentence_count, count_of_sample_sentences))
-        # Ensure audio exists
-        self.audio_generator.generate_audio_for_kanji(kanji, sample_sentence_indices=sample_sentence_indices)
 
-        if not kanji.sample_sentences:
+        if count_of_sample_sentences == 0:
             raise ValueError(f"get_sample_sentences() - No sample sentences available for kanji: {kanji.character}")
 
+        # Select <sample_sentence_count> unique random indices
+        sample_sentence_indices = random.sample(
+            range(count_of_sample_sentences),
+            min(self.sample_sentence_count, count_of_sample_sentences)
+        )
+
+        # Generate audio files if missing and get their local paths
+        generated_files = self.audio_generator.generate_audio_for_kanji(
+            kanji,
+            sample_sentence_indices=sample_sentence_indices
+        )
+
+        # Log public URLs for each generated file
+        audio_urls = []
+        for local_file in generated_files:
+            public_url = self.get_public_audio_url(local_file)
+            if public_url:
+                #    logger.info(f"Public URL available: {public_url}")
+                audio_urls.append(public_url)
+            else:
+                audio_urls.append("")
+
+        # Return the selected sample sentences for further formatting
         sample_sentences = [kanji.sample_sentences[i] for i in sample_sentence_indices]
-
-        return sample_sentences
-
+        return sample_sentences, audio_urls
 
     def format_kanji_info(self, sample_sentences: List[SampleSentence], kanji: Kanji, include_meanings: bool = True) -> str:
         info = [

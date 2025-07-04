@@ -30,3 +30,24 @@ class Config:
         self.public_hostname = self.config['server']['public_hostname'] # Eg http://subdomain.example.com
         self.private_hostname = self.config['server']['private_hostname'] # Eg http://localhost
         self.port = int(self.config['server']['port'])
+
+
+    def to_dict(self):
+        return {
+            'openai_api_key': self.openai_api_key,
+            'openai_base_url': self.openai_base_url,
+            'openai_path': self.openai_path,
+            'openai_model': self.openai_model,
+            'openai_max_response_tokens': self.openai_max_response_tokens,
+            'openai_temperature': self.openai_temperature,
+            'openai_max_prompt_chars': self.openai_max_prompt_chars,
+            'google_api_key': self.google_api_key,
+            'google_model': self.google_model,
+            'whitelist_enabled': self.whitelist_enabled,
+            'whitelist': self.whitelist,
+            'sample_sentence_count': self.sample_sentence_count,
+            'min_seconds_between_requests_per_user': self.min_seconds_between_requests_per_user,
+            'public_hostname': self.public_hostname,
+            'private_hostname': self.private_hostname,
+            'port': self.port
+        }
