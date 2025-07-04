@@ -31,6 +31,8 @@ class Config:
         self.private_hostname = self.config['server']['private_hostname'] # Eg http://localhost
         self.port = int(self.config['server']['port'])
 
+        self.max_chars_per_audio_url = int(self.config['server']['max_chars_per_audio_url'])
+
 
     def to_dict(self):
         return {
@@ -49,5 +51,6 @@ class Config:
             'min_seconds_between_requests_per_user': self.min_seconds_between_requests_per_user,
             'public_hostname': self.public_hostname,
             'private_hostname': self.private_hostname,
-            'port': self.port
+            'port': self.port,
+            'max_chars_per_audio_url': self.max_chars_per_audio_url
         }

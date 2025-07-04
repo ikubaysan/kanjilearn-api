@@ -30,14 +30,11 @@ if __name__ == "__main__":
 
     logger.info(f"Starting Kanji API server with configuration: {config.to_dict()}")
 
-    google_ai_api_client = GoogleAIAPIClient(api_key=config.google_api_key,
-                                             model_name=config.google_model,
-                                             json_response=True)
-
     # Initialize and run the API
     kanji_api = KanjiAPIServer(collection=collection,
                                public_hostname=config.public_hostname,
                                port=config.port,
+                               max_chars_per_audio_url=config.max_chars_per_audio_url,
                                sample_sentence_count=config.sample_sentence_count,
                                )
     kanji_api.app.run(host=config.private_hostname, port=config.port)

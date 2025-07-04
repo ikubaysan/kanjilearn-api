@@ -1,6 +1,6 @@
 import random
-from typing import List
-from flask import Flask, Response, Union
+from typing import List, Union
+from flask import Flask, Response
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
 from modules.AudioGenerator import AudioGenerator
@@ -8,12 +8,13 @@ import logging
 from modules.SampleSentence import SampleSentence
 import os
 from flask import send_from_directory
+from modules.Utils import *
 
 logger = logging.getLogger(__name__)
 
 
 class KanjiAPIServer:
-    def __init__(self, collection: KanjiCollection, public_hostname: str, port:int, sample_sentence_count: int = 3):
+    def __init__(self, collection: KanjiCollection, public_hostname: str, port:int, max_chars_per_audio_url: int, sample_sentence_count: int = 3):
         self.collection = collection
 
         for level in collection.levels:
@@ -35,6 +36,8 @@ class KanjiAPIServer:
             self.serve_audio,
             methods=['GET']
         )
+
+        self.max_chars_per_audio_url = max_chars_per_audio_url
         self.sample_sentence_count = sample_sentence_count
         self.public_hostname = public_hostname
         self.port = port
@@ -63,8 +66,11 @@ class KanjiAPIServer:
         kanji = self.collection.get_random_kanji(jlpt_levels)
         sample_sentences, audio_urls = self.get_sample_sentences(kanji)
 
+        logger.info(f"Audio URLs for {kanji.character}: {audio_urls}")
+
         if kanji:
             response = self.format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
+            response = f"{pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)}{response}"
             return Response(response, mimetype='text/plain')
         else:
             return Response("No kanji found for the specified JLPT levels.", status=404)
