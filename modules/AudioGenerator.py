@@ -70,7 +70,7 @@ class AudioGenerator:
         logger.info(f"Found {len(all_kanji)} kanji with sentences.")
 
         for kanji in all_kanji:
-            self.generate_audio_for_kanji(kanji)
+            self.generate_audio_for_kanji(kanji, sample_sentence_indices=list(range(len(kanji.sample_sentences))))
 
 
 if __name__ == "__main__":
