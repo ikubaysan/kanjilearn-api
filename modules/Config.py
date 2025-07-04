@@ -27,6 +27,6 @@ class Config:
         self.min_seconds_between_requests_per_user = float(self.config['server']['min_seconds_between_requests_per_user'])
         self.min_seconds_between_requests_per_user = self.min_seconds_between_requests_per_user if self.min_seconds_between_requests_per_user > 0 else 0
 
-        self.public_hostname = self.config['server']['public_hostname']
-        self.private_hostname = self.config['server']['private_hostname']
+        self.public_hostname = self.config['server']['public_hostname'] # Eg http://subdomain.example.com
+        self.private_hostname = self.config['server']['private_hostname'] # Eg http://localhost
         self.port = int(self.config['server']['port'])

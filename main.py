@@ -33,5 +33,7 @@ if __name__ == "__main__":
 
     # Initialize and run the API
     kanji_api = KanjiAPIServer(collection=collection,
-                               sample_sentence_count=config.sample_sentence_count)
+                               public_hostname=config.public_hostname,
+                               sample_sentence_count=config.sample_sentence_count,
+                               )
     kanji_api.app.run(host=config.private_hostname, port=config.port)

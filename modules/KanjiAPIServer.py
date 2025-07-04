@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 
 class KanjiAPIServer:
-    def __init__(self, collection: KanjiCollection, sample_sentence_count: int = 3):
+    def __init__(self, collection: KanjiCollection, public_hostname: str, sample_sentence_count: int = 3):
         self.collection = collection
 
         for level in collection.levels:
@@ -36,6 +36,7 @@ class KanjiAPIServer:
             methods=['GET']
         )
         self.sample_sentence_count = sample_sentence_count
+        self.public_hostname = public_hostname
 
         self.audio_generator = AudioGenerator(
             kanji_json_path='',  # Not needed here
