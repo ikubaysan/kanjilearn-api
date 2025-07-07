@@ -2,6 +2,7 @@ import os
 import json
 import logging
 import time
+import re
 from modules.Config import Config
 from modules.GoogleAIAPIClient import GoogleAIAPIClient
 from modules.Kanji import Kanji
@@ -27,17 +28,76 @@ class SentenceGenerator:
             os.makedirs(self.categories_dir)
             logger.info(f"Created base directory: {self.categories_dir}")
 
+    def is_valid_sentence_entry(self, entry: dict) -> bool:
+        sentence = entry.get('sentence', '')
+        sentence_furigana = entry.get('sentence_furigana', '')
+
+        if not sentence:
+            logger.error("Invalid: 'sentence' is empty/missing.")
+            return False
+
+        if not sentence_furigana:
+            logger.error("Invalid: 'sentence_furigana' is empty/missing.")
+            return False
+
+        # If "sentence" contains 【 or 】 → invalid
+        if '【' in sentence or '】' in sentence:
+            logger.error(f"Invalid: 'sentence' contains 【 or 】 → {sentence}")
+            return False
+
+        # Calculate Japanese character proportion
+        # Exclude punctuation 【 】 。 ー and spaces
+        cleaned = re.sub(r'[【】。、ー\s]', '', sentence)
+        total_chars = len(cleaned)
+
+        # Count Japanese chars
+        japanese_chars = re.findall(r'[\u3040-\u30FF\u4E00-\u9FFF]', cleaned)
+        japanese_count = len(japanese_chars)
+
+        if total_chars == 0:
+            logger.error(f"Invalid: no valid chars in → {sentence}")
+            return False
+
+        proportion = japanese_count / total_chars
+        if proportion != 1:
+            logger.info(f"Proportion Japanese: {proportion:.2f} for sentence: {sentence}")
+
+        if proportion < 0.75:
+            logger.error(f"Invalid: too low JP proportion for sentence '{sentence}'")
+            return False
+
+            # Basic furigana check for safety
+        if "【" not in sentence_furigana or "】" not in sentence_furigana:
+            logger.warning(f"Missing furigana brackets in sentence_furigana '{sentence_furigana}'")
+            return False
+
+        return True
+
+    def validate_response(self, parsed_response) -> bool:
+        if not isinstance(parsed_response, list):
+            logger.warning("Parsed response is not a list.")
+            return False
+
+        for entry in parsed_response:
+            if not isinstance(entry, dict):
+                logger.warning(f"Entry is not a dictionary: {entry}")
+                return False
+
+            if not self.is_valid_sentence_entry(entry):
+                logger.warning(f"Invalid sentence entry detected: {entry}")
+                return False
+
+        return True
+
     def generate_for_all(self):
         with open(self.kanji_json_path, 'r', encoding='utf-8') as f:
             kanji_data = json.load(f)
 
-        # Build JLPT-only KanjiCollection
         collection = KanjiCollection(categories_dir=self.categories_dir)
         for character, data in kanji_data.items():
             kanji = Kanji(character, data)
             collection.add_kanji(kanji, require_sample_sentences=False)
 
-        # Combine kanji from N5 to N1
         jlpt_kanji = collection.n5 + collection.n4 + collection.n3 + collection.n2 + collection.n1
 
         total_characters = len(jlpt_kanji)
@@ -57,10 +117,9 @@ class SentenceGenerator:
             if not prompt:
                 logger.warning(f"Skipped {character} due to missing prompt.")
                 failed_characters.append(character)
-                time.sleep(3)
+                time.sleep(self.sleep_seconds)
                 continue
 
-            # Subfolder by JLPT level (e.g., N5, N4, ...)
             jlpt_level_str = f"N{kanji.jlpt_new}"
             jlpt_dir = os.path.join(self.categories_dir, jlpt_level_str)
             os.makedirs(jlpt_dir, exist_ok=True)
@@ -80,13 +139,13 @@ class SentenceGenerator:
                 attempt += 1
                 try:
                     response = self.api_client.send_prompt(prompt)
-                    if "【" not in response or "】" not in response:
-                        logger.warning(f"Attempt {attempt}: Missing furigana brackets in response for {character}. Retrying...")
-                        continue
 
                     parsed_response = json.loads(response)
 
-                    # Create folder for the character if it doesn't exist
+                    if not self.validate_response(parsed_response):
+                        logger.warning(f"Attempt {attempt}: Invalid response for {character}. Retrying...")
+                        continue
+
                     character_dir = os.path.join(jlpt_dir, character)
                     os.makedirs(character_dir, exist_ok=True)
 
@@ -101,13 +160,12 @@ class SentenceGenerator:
                     logger.error(f"Attempt {attempt}: Failed to process {character}: {e}")
 
                 finally:
-                    time.sleep(3)
+                    time.sleep(self.sleep_seconds)
 
             if not success:
                 failed_characters.append(character)
                 logger.error(f"Gave up on {character} after 3 attempts.")
 
-        # Final Summary
         logger.info("==== Sentence Generation Summary ====")
         logger.info(f"Total JLPT Kanji: {total_characters}")
         logger.info(f"Already Exists: {already_exists}")
