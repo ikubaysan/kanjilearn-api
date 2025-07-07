@@ -52,6 +52,15 @@ class Kanji:
         For "sentence_furigana", write the sentence again, but right after each kanji write its kana in 【】 - for example, '彼は外国に行くのが好きです。' becomes '彼【かれ】は外国【がいこく】に行【い】くのが好【す】きです。'. Don't skip any kanji.
         For "meaning", translate the sentence to English. 
         Include only the json array in the response, no or other words and no comments; I'll be taking your raw response and parsing it in code.
+        The "sentence" should not have furigana - only "sentence_furigana" should have it.
+        
+        Example response:
+          {
+            "sentence": "明日の会議の予定を確認する。",
+            "sentence_furigana": "明日【あした】の会議【かいぎ】の予定【よてい】を確認【かくにん】する。",
+            "meaning": "I will confirm tomorrow's meeting schedule."
+          }
+        
         """
 
         return prompt

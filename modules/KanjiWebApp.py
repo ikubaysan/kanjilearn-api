@@ -48,36 +48,62 @@ class KanjiWebApp:
         <script>
             let autoRefreshInterval = null;
             let currentAudioUrls = [];
+            let currentAudio = null;
+            let stopAudioPlayback = false;
 
             async function fetchAndRender() {
+                const refreshBtn = document.getElementById('refreshBtn');
+                refreshBtn.disabled = true;
                 try {
                     const levels = Array.from(document.querySelectorAll('.levelCheckbox:checked')).map(cb => cb.value).join(',');
                     const url = levels ? `/get_kanji?levels=${levels}` : '/get_kanji';
                     const response = await fetch(url);
                     const data = await response.json();
                     document.getElementById('kanjiInfo').textContent = data.kanji_info;
-                    currentAudioUrls = data.audio_urls;  // store for later playback
+
+                    // Stop previous audio playback
+                    stopAudioPlayback = true;
+                    if (currentAudio) {
+                        currentAudio.pause();
+                        currentAudio.currentTime = 0;
+                        currentAudio = null;
+                    }
+
+                    currentAudioUrls = data.audio_urls;
+                    stopAudioPlayback = false; // allow playback of new kanji
                     playAudioSequentially(currentAudioUrls);
                 } catch (e) {
                     document.getElementById('kanjiInfo').textContent = 'Error fetching kanji.';
                     console.error(e);
+                } finally {
+                    refreshBtn.disabled = false;
                 }
             }
 
             async function playAudioSequentially(audioUrls) {
                 if (!audioUrls || audioUrls.length === 0) return;
                 const warning = document.getElementById('autoplay-warning');
+
                 for (const url of audioUrls) {
+                    if (stopAudioPlayback) break;
+
                     const audio = new Audio(url);
+                    currentAudio = audio;
+
                     try {
                         await audio.play();
-                        await new Promise(resolve => audio.onended = resolve);
+                        await new Promise((resolve) => {
+                            audio.onended = resolve;
+                            audio.onerror = resolve;
+                        });
                     } catch (error) {
-                        console.warn('Autoplay blocked:', error);
+                        console.warn('Autoplay blocked or error:', error);
                         warning.style.display = 'block';
                         break;
                     }
                 }
+
+                currentAudio = null;
             }
 
             document.getElementById('refreshBtn').addEventListener('click', fetchAndRender);
