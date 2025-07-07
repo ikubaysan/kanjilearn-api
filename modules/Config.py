@@ -20,9 +20,6 @@ class Config:
         self.google_api_key = self.config['google_api_client']['api_key']
         self.google_model = self.config['google_api_client']['model']
 
-        self.whitelist_enabled = self.config['server']['whitelist_enabled'].lower() == 'true'
-        self.whitelist = [item.strip() for item in self.config['server']['whitelist'].split(',') if self.whitelist_enabled]
-
         self.sample_sentence_count = int(self.config['server']['sample_sentence_count'])
         self.min_seconds_between_requests_per_user = float(self.config['server']['min_seconds_between_requests_per_user'])
         self.min_seconds_between_requests_per_user = self.min_seconds_between_requests_per_user if self.min_seconds_between_requests_per_user > 0 else 0
@@ -49,8 +46,6 @@ class Config:
             'openai_max_prompt_chars': self.openai_max_prompt_chars,
             'google_api_key': self.google_api_key,
             'google_model': self.google_model,
-            'whitelist_enabled': self.whitelist_enabled,
-            'whitelist': self.whitelist,
             'sample_sentence_count': self.sample_sentence_count,
             'min_seconds_between_requests_per_user': self.min_seconds_between_requests_per_user,
             'public_hostname': self.public_hostname,
