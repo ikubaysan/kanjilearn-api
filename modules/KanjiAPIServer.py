@@ -195,10 +195,6 @@ class KanjiAPIServer:
             relative_path_url = relative_path.replace(os.path.sep, '/')
             public_url = f"{self.public_hostname}:{self.port}/audio/{relative_path_url}"
 
-            # Add http:// to the start of public_url if it's not already there
-            if not public_url.startswith("http://") and not public_url.startswith("https://"):
-                public_url = f"http://{public_url}"
-
             return public_url
         except Exception as e:
             logger.error(f"Error generating public URL for {local_file_path}: {e}")

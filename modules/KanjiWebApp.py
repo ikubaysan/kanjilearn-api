@@ -39,10 +39,11 @@ class KanjiWebApp:
             <label><input type='checkbox' class='levelCheckbox' value='2' checked>N2</label>
             <label><input type='checkbox' class='levelCheckbox' value='1' checked>N1</label>
         </div>
-        <div>
+        <div style='margin-top: 1em;'>
             <button id='refreshBtn'>Force Refresh</button>
             <label for='intervalInput'>Auto-refresh interval (seconds):</label>
             <input type='number' id='intervalInput' min='1' />
+            <div id='interval-validation' style='color:red; display:none;'></div>
         </div>
         <script>
             let autoRefreshInterval = null;
@@ -80,13 +81,30 @@ class KanjiWebApp:
             }
 
             document.getElementById('refreshBtn').addEventListener('click', fetchAndRender);
-            document.getElementById('intervalInput').addEventListener('change', function() {
+            document.getElementById('intervalInput').addEventListener('input', function() {
+                const validation = document.getElementById('interval-validation');
                 let interval = parseInt(this.value);
-                if (autoRefreshInterval) {
-                    clearInterval(autoRefreshInterval);
-                    autoRefreshInterval = null;
+                if (!this.value) {
+                    validation.style.display = 'none';
+                    if (autoRefreshInterval) {
+                        clearInterval(autoRefreshInterval);
+                        autoRefreshInterval = null;
+                    }
+                    return;
                 }
-                if (!isNaN(interval) && interval > 0) {
+                if (isNaN(interval) || interval < 30) {
+                    validation.textContent = 'Interval must be at least 30 seconds.';
+                    validation.style.display = 'block';
+                    if (autoRefreshInterval) {
+                        clearInterval(autoRefreshInterval);
+                        autoRefreshInterval = null;
+                    }
+                } else {
+                    validation.style.display = 'none';
+                    if (autoRefreshInterval) {
+                        clearInterval(autoRefreshInterval);
+                        autoRefreshInterval = null;
+                    }
                     autoRefreshInterval = setInterval(fetchAndRender, interval * 1000);
                 }
             });
