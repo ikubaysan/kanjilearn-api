@@ -51,8 +51,8 @@ class SentenceGenerator:
         cleaned = re.sub(r'[【】。、ー\s]', '', sentence)
         total_chars = len(cleaned)
 
-        # Count Japanese chars
-        japanese_chars = re.findall(r'[\u3040-\u30FF\u4E00-\u9FFF]', cleaned)
+        # Count Japanese chars and numbers
+        japanese_chars = re.findall(r'[\u3040-\u30FF\u4E00-\u9FFF0-9]', cleaned)
         japanese_count = len(japanese_chars)
 
         if total_chars == 0:
