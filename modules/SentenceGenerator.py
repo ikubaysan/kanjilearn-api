@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 
 class SentenceGenerator:
-    def __init__(self, kanji_json_path: str, categories_dir: str, config_path: str, sleep_seconds: int = 3, sentence_count: int = 3, skip_existing: bool = False):
+    def __init__(self, kanji_json_path: str, categories_dir: str, config_path: str, max_attempts_per_kanji: int = 5, sleep_seconds: int = 3, sentence_count: int = 3, skip_existing: bool = False):
         self.kanji_json_path = kanji_json_path
         self.categories_dir = categories_dir
         self.sentence_count = sentence_count
@@ -23,6 +23,7 @@ class SentenceGenerator:
         self.api_client = GoogleAIAPIClient(api_key=self.config.google_api_key,
                                             model_name=self.config.google_model,
                                             json_response=True)
+        self.max_attempts_per_kanji = max_attempts_per_kanji
 
         if not os.path.exists(self.categories_dir):
             os.makedirs(self.categories_dir)
@@ -62,7 +63,7 @@ class SentenceGenerator:
         if proportion != 1:
             logger.info(f"Proportion Japanese: {proportion:.2f} for sentence: {sentence}")
 
-        if proportion < 0.75:
+        if proportion < 0.9:
             logger.error(f"Invalid: too low JP proportion for sentence '{sentence}'")
             return False
 
@@ -135,7 +136,7 @@ class SentenceGenerator:
             success = False
             attempt = 0
 
-            while not success and attempt < 3:
+            while not success and attempt < self.max_attempts_per_kanji:
                 attempt += 1
                 try:
                     response = self.api_client.send_prompt(prompt)
@@ -164,7 +165,7 @@ class SentenceGenerator:
 
             if not success:
                 failed_characters.append(character)
-                logger.error(f"Gave up on {character} after 3 attempts.")
+                logger.error(f"Gave up on {character} after {self.max_attempts_per_kanji} attempts.")
 
         logger.info("==== Sentence Generation Summary ====")
         logger.info(f"Total JLPT Kanji: {total_characters}")
@@ -189,6 +190,7 @@ if __name__ == "__main__":
         kanji_json_path=kanji_json,
         categories_dir=categories_directory,
         config_path=config_ini,
+        max_attempts_per_kanji=5,
         sleep_seconds=1,
         sentence_count=100,
         skip_existing=True
