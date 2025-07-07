@@ -11,7 +11,6 @@ except ImportError:
 
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
-from modules.SampleSentence import SampleSentence
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
