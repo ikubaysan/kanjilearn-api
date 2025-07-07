@@ -9,6 +9,7 @@ from modules.SampleSentence import SampleSentence
 import os
 from flask import send_from_directory
 from modules.Utils import *
+from flask import jsonify
 
 logger = logging.getLogger(__name__)
 
@@ -64,6 +65,8 @@ class KanjiAPIServer:
 
     def get_kanji(self, levels: str = '') -> Response:
         include_audio = request.args.get('audio', 'false').lower() in ('true', '1', 'yes')
+        return_json = request.args.get('json', 'false').lower() in ('true', '1', 'yes')
+
         if levels:
             try:
                 # Filter out empty strings after splitting
@@ -75,27 +78,32 @@ class KanjiAPIServer:
             jlpt_levels = [1, 2, 3, 4, 5]
 
         kanji = self.collection.get_random_kanji(jlpt_levels)
+        if not kanji:
+            return Response("No kanji found for the specified JLPT levels.", status=404)
+
         sample_sentences, audio_urls = self.get_sample_sentences(kanji, include_audio=include_audio)
 
         logger.info(f"Audio URLs for {kanji.character}: {audio_urls}")
 
-        if not kanji:
-            return Response("No kanji found for the specified JLPT levels.", status=404)
+        kanji_info_text = format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
 
-
-        if include_audio:
-            response = f"{pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)}"
+        if return_json:
+            return jsonify({
+                "audio_urls": audio_urls,
+                "kanji_info": kanji_info_text
+            })
         else:
             response = ""
+            if include_audio:
+                response += pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)
+            response += kanji_info_text
 
-        kanji_info_text = format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
-        response += kanji_info_text
-
-        return Response(response, mimetype='text/plain')
-
+            return Response(response, mimetype='text/plain')
 
     def get_quiz_kanji(self, levels: str = '') -> Response:
         include_audio = request.args.get('audio', 'false').lower() in ('true', '1', 'yes')
+        return_json = request.args.get('json', 'false').lower() in ('true', '1', 'yes')
+
         if levels:
             try:
                 jlpt_levels = [int(level) for level in levels.split(',') if level.strip()]
@@ -109,7 +117,9 @@ class KanjiAPIServer:
             kanji_pool.extend(getattr(self.collection, f'n{level}', []))
 
         if len(kanji_pool) < self.quiz_potential_answers_count:
-            return Response(f"Insufficient kanji data for the quiz. Need at least {self.quiz_potential_answers_count} kanji.", status=404)
+            return Response(
+                f"Insufficient kanji data for the quiz. Need at least {self.quiz_potential_answers_count} kanji.",
+                status=404)
 
         try:
             # Get self.quiz_potential_answers_count unique random kanji
@@ -124,29 +134,46 @@ class KanjiAPIServer:
 
         logger.info(f"Audio URLs for {kanji.character}: {audio_urls}")
 
-        kanji_info_without_meanings = format_kanji_info(sample_sentences=sample_sentences,
-                                                             kanji=kanji,
-                                                             include_meanings=False)
-        kanji_info_with_meanings = format_kanji_info(sample_sentences=sample_sentences,
-                                                          kanji=kanji,
-                                                          include_meanings=True)
+        kanji_info_without_meanings = format_kanji_info(
+            sample_sentences=sample_sentences,
+            kanji=kanji,
+            include_meanings=False
+        )
+        kanji_info_with_meanings = format_kanji_info(
+            sample_sentences=sample_sentences,
+            kanji=kanji,
+            include_meanings=True
+        )
 
         meanings = [kanji.meanings for kanji in quiz_kanji]
         random.shuffle(meanings)
         correct_answer_index = meanings.index(kanji.meanings)
 
-        #response = f"{kanji_info_without_meanings}@{kanji_info_with_meanings}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
-
-        if include_audio:
-            response = f"{pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)}"
+        if return_json:
+            return jsonify({
+                "audio_urls": audio_urls,
+                "meanings": meanings,
+                "kanji_info_with_meanings": kanji_info_with_meanings,
+                "kanji_info_without_meanings": kanji_info_without_meanings,
+                "correct_answer_index": correct_answer_index
+            })
         else:
             response = ""
+            if include_audio:
+                response += pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)
+            response += ''.join(
+                pad_and_join(strings=[', '.join(m) for m in meanings], pad_length=self.max_chars_per_quiz_answer)
+            )
+            response += ''.join(
+                pad_and_join(
+                    strings=[kanji_info_with_meanings, kanji_info_without_meanings],
+                    pad_length=self.max_chars_per_kanji_info_section
+                )
+            )
+            response += str(correct_answer_index)
 
-        response += f"{''.join(pad_and_join(strings=[', '.join(m) for m in meanings], pad_length=self.max_chars_per_quiz_answer))}"
-        response += f"{''.join(pad_and_join(strings=[kanji_info_with_meanings, kanji_info_without_meanings], pad_length=self.max_chars_per_kanji_info_section))}"
-        response += f"{correct_answer_index}"
+            return Response(response, mimetype='text/plain')
 
-        return Response(response, mimetype='text/plain')
 
     def get_public_audio_url(self, local_file_path: str) -> str:
         """
