@@ -14,7 +14,14 @@ logger = logging.getLogger(__name__)
 
 
 class KanjiAPIServer:
-    def __init__(self, collection: KanjiCollection, public_hostname: str, port:int, max_chars_per_audio_url: int, sample_sentence_count: int = 3):
+    def __init__(self, collection: KanjiCollection,
+                 public_hostname: str,
+                 port:int,
+                 max_chars_per_audio_url: int,
+                 max_chars_per_quiz_answer: int,
+                 max_chars_per_kanji_info_section: int,
+                 quiz_potential_answers_count: int = 5,
+                 sample_sentence_count: int = 3):
         self.collection = collection
 
         for level in collection.levels:
@@ -38,7 +45,10 @@ class KanjiAPIServer:
         )
 
         self.max_chars_per_audio_url = max_chars_per_audio_url
+        self.max_chars_per_quiz_answer = max_chars_per_quiz_answer
+        self.max_chars_per_kanji_info_section = max_chars_per_kanji_info_section
         self.sample_sentence_count = sample_sentence_count
+        self.quiz_potential_answers_count = quiz_potential_answers_count
         self.public_hostname = public_hostname
         self.port = port
 
@@ -69,16 +79,23 @@ class KanjiAPIServer:
 
         logger.info(f"Audio URLs for {kanji.character}: {audio_urls}")
 
-        if kanji:
-            response = self.format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
-            if include_audio:
-                # Prepend audio URLs to the response
-                response = f"{pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)}{response}"
-            return Response(response, mimetype='text/plain')
-        else:
+        if not kanji:
             return Response("No kanji found for the specified JLPT levels.", status=404)
 
+
+        if include_audio:
+            response = f"{pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)}"
+        else:
+            response = ""
+
+        kanji_info_text = format_kanji_info(sample_sentences=sample_sentences, kanji=kanji, include_meanings=True)
+        response += kanji_info_text
+
+        return Response(response, mimetype='text/plain')
+
+
     def get_quiz_kanji(self, levels: str = '') -> Response:
+        include_audio = request.args.get('audio', 'false').lower() in ('true', '1', 'yes')
         if levels:
             try:
                 jlpt_levels = [int(level) for level in levels.split(',') if level.strip()]
@@ -91,24 +108,26 @@ class KanjiAPIServer:
         for level in jlpt_levels:
             kanji_pool.extend(getattr(self.collection, f'n{level}', []))
 
-        if len(kanji_pool) < 5:
-            return Response("Insufficient kanji data for the quiz. Need at least 5 kanji.", status=404)
+        if len(kanji_pool) < self.quiz_potential_answers_count:
+            return Response(f"Insufficient kanji data for the quiz. Need at least {self.quiz_potential_answers_count} kanji.", status=404)
 
         try:
-            # Get 5 unique random kanji
-            quiz_kanji = random.sample(kanji_pool, 5)
+            # Get self.quiz_potential_answers_count unique random kanji
+            quiz_kanji = random.sample(kanji_pool, self.quiz_potential_answers_count)
         except ValueError as e:
             # This block may not be necessary since we're already checking the pool size,
             # but it's good practice to handle potential exceptions from random.sample.
             return Response(str(e), status=404)
 
         kanji = quiz_kanji[0]
-        sample_sentences, audio_urls = self.get_sample_sentences(kanji)
+        sample_sentences, audio_urls = self.get_sample_sentences(kanji, include_audio=include_audio)
 
-        kanji_info_without_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
+        logger.info(f"Audio URLs for {kanji.character}: {audio_urls}")
+
+        kanji_info_without_meanings = format_kanji_info(sample_sentences=sample_sentences,
                                                              kanji=kanji,
                                                              include_meanings=False)
-        kanji_info_with_meanings = self.format_kanji_info(sample_sentences=sample_sentences,
+        kanji_info_with_meanings = format_kanji_info(sample_sentences=sample_sentences,
                                                           kanji=kanji,
                                                           include_meanings=True)
 
@@ -116,7 +135,17 @@ class KanjiAPIServer:
         random.shuffle(meanings)
         correct_answer_index = meanings.index(kanji.meanings)
 
-        response = f"{kanji_info_without_meanings}@{kanji_info_with_meanings}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
+        #response = f"{kanji_info_without_meanings}@{kanji_info_with_meanings}@{'@'.join([', '.join(m) for m in meanings])}@{correct_answer_index}"
+
+        if include_audio:
+            response = f"{pad_and_join(strings=audio_urls, pad_length=self.max_chars_per_audio_url)}"
+        else:
+            response = ""
+
+        response += f"{''.join(pad_and_join(strings=[', '.join(m) for m in meanings], pad_length=self.max_chars_per_quiz_answer))}"
+        response += f"{''.join(pad_and_join(strings=[kanji_info_with_meanings, kanji_info_without_meanings], pad_length=self.max_chars_per_kanji_info_section))}"
+        response += f"{correct_answer_index}"
+
         return Response(response, mimetype='text/plain')
 
     def get_public_audio_url(self, local_file_path: str) -> str:
@@ -179,26 +208,4 @@ class KanjiAPIServer:
         # Return the selected sample sentences for further formatting
         sample_sentences = [kanji.sample_sentences[i] for i in sample_sentence_indices]
         return sample_sentences, audio_urls
-
-    def format_kanji_info(self, sample_sentences: List[SampleSentence], kanji: Kanji, include_meanings: bool = True) -> str:
-        info = [
-            #f"画数: {kanji.strokes}",
-            #f"学年: {kanji.grade}",
-            f"{kanji.character} (N{kanji.jlpt_new})",
-            f"音読み: {', '.join(kanji.readings_on)}",
-            f"訓読み: {', '.join(kanji.readings_kun)}",
-        ]
-        if include_meanings:
-            info.append(f"意味: {', '.join(kanji.meanings)}")
-
-        if len(sample_sentences) > 0:
-            if include_meanings:
-                sentences = [sample_sentence.lines_with_meaning for sample_sentence in sample_sentences]
-            else:
-                sentences = [sample_sentence.lines_without_meaning for sample_sentence in sample_sentences]
-
-            sentence_str = '\n'.join(sentences)
-            info.append(f"\n{sentence_str}")
-
-        return '\n'.join(info)
 

@@ -33,6 +33,10 @@ class Config:
 
         self.max_chars_per_audio_url = int(self.config['server']['max_chars_per_audio_url'])
 
+        self.quiz_max_chars_per_answer = int(self.config['quiz']['max_chars_per_answer'])
+        self.quiz_potential_answers_count = int(self.config['quiz']['potential_answers_count'])
+        self.quiz_max_chars_per_kanji_info_section = int(self.config['quiz']['max_chars_per_kanji_info_section'])
+
 
     def to_dict(self):
         return {

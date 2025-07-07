@@ -35,6 +35,9 @@ if __name__ == "__main__":
                                public_hostname=config.public_hostname,
                                port=config.port,
                                max_chars_per_audio_url=config.max_chars_per_audio_url,
+                               max_chars_per_quiz_answer=config.quiz_max_chars_per_answer,
+                               max_chars_per_kanji_info_section=config.quiz_max_chars_per_kanji_info_section,
+                               quiz_potential_answers_count=config.quiz_potential_answers_count,
                                sample_sentence_count=config.sample_sentence_count,
                                )
     kanji_api.app.run(host=config.private_hostname, port=config.port)
