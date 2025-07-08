@@ -7,6 +7,7 @@ from modules.Config import Config
 from modules.GoogleAIAPIClient import GoogleAIAPIClient
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
+import random
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -20,12 +21,14 @@ class SentenceGenerator:
                  max_attempts_per_kanji: int = 5,
                  sleep_seconds: int = 3,
                  sentence_count: int = 3,
-                 skip_existing: bool = False):
+                 skip_existing: bool = False,
+                 randomize_order: bool = False):
         self.kanji_json_path = kanji_json_path
         self.categories_dir = categories_dir
         self.sentence_count = sentence_count
         self.config = Config(config_path)
         self.skip_existing = skip_existing
+        self.randomize_order = randomize_order
         self.sleep_seconds = sleep_seconds
         self.api_client = GoogleAIAPIClient(api_key=self.config.google_api_key,
                                             model_name=self.config.google_model,
@@ -117,6 +120,10 @@ class SentenceGenerator:
             collection.add_kanji(kanji, require_sample_sentences=False)
 
         jlpt_kanji = collection.n5 + collection.n4 + collection.n3 + collection.n2 + collection.n1
+
+        if self.randomize_order:
+            random.shuffle(jlpt_kanji)
+            logger.info("Randomized the order of JLPT kanji.")
 
         total_characters = len(jlpt_kanji)
         attempted = 0
