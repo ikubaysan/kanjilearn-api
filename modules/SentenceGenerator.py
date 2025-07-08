@@ -13,6 +13,7 @@ logger = logging.getLogger(__name__)
 
 
 class SentenceGenerator:
+    INVALID_CHARS = {'\\'}
     def __init__(self, kanji_json_path: str, categories_dir: str, config_path: str, max_attempts_per_kanji: int = 5, sleep_seconds: int = 3, sentence_count: int = 3, skip_existing: bool = False):
         self.kanji_json_path = kanji_json_path
         self.categories_dir = categories_dir
@@ -28,6 +29,8 @@ class SentenceGenerator:
         if not os.path.exists(self.categories_dir):
             os.makedirs(self.categories_dir)
             logger.info(f"Created base directory: {self.categories_dir}")
+
+        logger.info(f"Invalid characters set: {self.INVALID_CHARS}")
 
     def is_valid_sentence_entry(self, entry: dict) -> bool:
         sentence = entry.get('sentence', '')
@@ -63,13 +66,21 @@ class SentenceGenerator:
         if proportion != 1:
             logger.info(f"Proportion Japanese: {proportion:.2f} for sentence: {sentence}")
 
-        if proportion < 0.9:
+        if proportion < 0.85:
             logger.error(f"Invalid: too low JP proportion for sentence '{sentence}'")
             return False
 
             # Basic furigana check for safety
         if "【" not in sentence_furigana or "】" not in sentence_furigana:
             logger.warning(f"Missing furigana brackets in sentence_furigana '{sentence_furigana}'")
+            return False
+
+        if any(char in sentence for char in self.INVALID_CHARS):
+            logger.error(f"Invalid: 'sentence' contains invalid character(s): {sentence}")
+            return False
+
+        if any(char in sentence_furigana for char in self.INVALID_CHARS):
+            logger.error(f"Invalid: 'sentence_furigana' contains invalid character(s): {sentence_furigana}")
             return False
 
         return True
