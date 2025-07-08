@@ -5,16 +5,15 @@ import argparse
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    # Optional CLI args; if not provided, will remain None
-    parser.add_argument("--max_attempts_per_kanji", type=int, help="Max attempts per kanji")
-    parser.add_argument("--sleep_seconds", type=int, help="Seconds to sleep between requests")
-    parser.add_argument("--sentence_count", type=int, help="Number of sentences per kanji")
-    parser.add_argument("--skip_existing", action="store_true", help="Skip existing kanji")
-    parser.add_argument("--randomize-order", action="store_true", help="Randomize order of handling kanji")
-
+    # Optional CLI args with kebab-case but map to snake_case internally
+    parser.add_argument("--max-attempts-per-kanji", dest="max_attempts_per_kanji", type=int, help="Max attempts per kanji")
+    parser.add_argument("--sleep-seconds", dest="sleep_seconds", type=int, help="Seconds to sleep between requests")
+    parser.add_argument("--sentence-count", dest="sentence_count", type=int, help="Number of sentences per kanji")
+    parser.add_argument("--skip-existing", dest="skip_existing", action="store_true", help="Skip existing kanji")
+    parser.add_argument("--randomize-order", dest="randomize_order", action="store_true", help="Randomize order of handling kanji")
 
     # Example usage:
-    # python sentence_generator.py --max_attempts_per_kanji 3 --sleep_seconds 2 --sentence_count 50 --skip_existing --randomize-order
+    # python sentence_generator.py --max-attempts-per-kanji 3 --sleep-seconds 2 --sentence-count 50 --skip-existing --randomize-order
 
     args = parser.parse_args()
 
