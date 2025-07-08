@@ -2,7 +2,6 @@ import json
 from modules.Kanji import Kanji
 from modules.KanjiCollection import KanjiCollection
 from modules.KanjiAPIServer import KanjiAPIServer
-from modules.GoogleAIAPIClient import GoogleAIAPIClient
 import os
 from modules.Config import Config
 import logging
