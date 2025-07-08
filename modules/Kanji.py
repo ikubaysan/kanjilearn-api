@@ -41,7 +41,7 @@ class Kanji:
     def get_example_sentences_prompt(self, count: int) -> Optional[str]:
 
         if count <= 0:
-            return None
+            raise ValueError("Count must be a positive integer.")
 
         prompt = f"漢字: {self.character}; 意味: {self.meanings}; 音読み: {self.readings_on}; 訓読み: {self.readings_kun};"
 

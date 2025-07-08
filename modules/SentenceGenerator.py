@@ -139,11 +139,6 @@ class SentenceGenerator:
             attempted += 1
 
             prompt = kanji.get_example_sentences_prompt(self.sentence_count)
-            if not prompt:
-                logger.warning(f"Skipped {character} due to missing prompt.")
-                failed_characters.append(character)
-                time.sleep(self.sleep_seconds)
-                continue
 
             jlpt_level_str = f"N{kanji.jlpt_new}"
             jlpt_dir = os.path.join(self.categories_dir, jlpt_level_str)
