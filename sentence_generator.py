@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 
     # Example usage:
-    # python your_script.py --max_attempts_per_kanji 3 --sleep_seconds 2 --sentence_count 50 --skip_existing
+    # python sentence_generator.py --max_attempts_per_kanji 3 --sleep_seconds 2 --sentence_count 50 --skip_existing --randomize-order
 
     args = parser.parse_args()
 
