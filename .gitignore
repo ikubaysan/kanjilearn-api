@@ -5,5 +5,7 @@ config.ini
 venv/
 __pycache__/
 
+kanji_data/categories/
+
 *.ogg
 *.mp3

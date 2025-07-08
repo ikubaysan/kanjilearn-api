@@ -14,7 +14,13 @@ logger = logging.getLogger(__name__)
 
 class SentenceGenerator:
     INVALID_CHARS = {'\\'}
-    def __init__(self, kanji_json_path: str, categories_dir: str, config_path: str, max_attempts_per_kanji: int = 5, sleep_seconds: int = 3, sentence_count: int = 3, skip_existing: bool = False):
+    def __init__(self, kanji_json_path: str,
+                 categories_dir: str,
+                 config_path: str,
+                 max_attempts_per_kanji: int = 5,
+                 sleep_seconds: int = 3,
+                 sentence_count: int = 3,
+                 skip_existing: bool = False):
         self.kanji_json_path = kanji_json_path
         self.categories_dir = categories_dir
         self.sentence_count = sentence_count
