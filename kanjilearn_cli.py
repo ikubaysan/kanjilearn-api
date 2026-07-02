@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 """
 kanji_quiz_cli.py
-
 A self-contained, offline command-line kanji quiz.
-
 It reads the same data files used by the kanjilearn-api webapp/API
 (kanji_data/kanji.json and kanji_data/categories/N{level}/{kanji}/{kanji}.json)
 directly off disk. It does NOT talk to the Flask API, does NOT do any
 audio generation/playback, and has no dependency on Flask/requests/etc.
-
 This file is fully standalone - it does not import anything from the
 `modules` package, so it can be dropped anywhere and run with nothing
 but the Python standard library, as long as it can find `kanji_data`.
@@ -19,10 +16,19 @@ Usage:
     python kanji_quiz_cli.py --data-dir /path/to/kanji_data
 
 During the quiz:
-    - Enter a number (1-5) to answer.
-    - Enter 's' to skip the current kanji (no answer recorded).
-    - Enter 'q' to quit.
+    - Press a number key (no Enter needed) to answer.
+    - Press 's' to skip the current kanji (no answer recorded).
+    - Press 'q' to quit.
     - After answering, press Enter to move to the next kanji.
+
+Stats:
+    - Overall accuracy (integer %) plus correct/incorrect/total counts
+      are tracked across ALL sessions, saved to quiz_stats.json next to
+      this script.
+    - A separate "unique kanji" accuracy is also tracked: for each kanji
+      character, only your MOST RECENT result counts. So if you missed
+      a kanji before but get it right this time, it now counts as
+      correct in this metric (and vice versa).
 """
 
 import argparse
@@ -57,6 +63,49 @@ class QuizKanji:
     @property
     def meaning_str(self) -> str:
         return ", ".join(self.meanings)
+
+
+# --------------------------------------------------------------------------
+# Single-keypress input (no Enter required)
+# --------------------------------------------------------------------------
+
+def get_keypress() -> str:
+    """
+    Reads a single keypress from the terminal without requiring Enter,
+    and without echoing it (we echo manually where needed). Works on
+    Windows (msvcrt) and POSIX (termios/tty).
+    """
+    try:
+        import msvcrt  # Windows
+        ch = msvcrt.getch()
+        # Special keys (arrows, F-keys) come through as a two-byte
+        # sequence starting with b'\x00' or b'\xe0'. Swallow the
+        # follow-up byte so it doesn't get misread as a real answer.
+        if ch in (b"\x00", b"\xe0"):
+            msvcrt.getch()
+            return ""
+        try:
+            return ch.decode("utf-8", errors="ignore").lower()
+        except Exception:
+            return ""
+    except ImportError:
+        import termios
+        import tty
+        fd = sys.stdin.fileno()
+        old_settings = termios.tcgetattr(fd)
+        try:
+            tty.setraw(fd)
+            ch = sys.stdin.read(1)
+        finally:
+            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+        return ch.lower()
+
+
+# --------------------------------------------------------------------------
+# Stats persistence
+# --------------------------------------------------------------------------
+
+STATS_FILENAME = "quiz_stats.json"
 
 
 # --------------------------------------------------------------------------
@@ -135,10 +184,12 @@ def load_kanji_pool(data_dir: str) -> Dict[int, List[QuizKanji]]:
 
 class KanjiQuiz:
     def __init__(self, pool: Dict[int, List[QuizKanji]], levels: List[int],
-                 sentence_count: int = 3, choice_count: int = 5):
+                 base_dir: str, sentence_count: int = 3, choice_count: int = 4):
         self.levels = sorted(levels)
         self.sentence_count = sentence_count
         self.choice_count = choice_count
+        self.base_dir = base_dir
+        self.stats = {"total_correct": 0, "total_incorrect": 0, "kanji_results": {}}
 
         self.kanji_list: List[QuizKanji] = []
         for level in self.levels:
@@ -163,10 +214,8 @@ class KanjiQuiz:
     def build_choices(self, correct_kanji: QuizKanji) -> List[str]:
         correct = correct_kanji.meaning_str
         distractor_pool = [m for m in self.all_meaning_strings if m != correct]
-
         n_distractors = min(self.choice_count - 1, len(distractor_pool))
         distractors = random.sample(distractor_pool, n_distractors)
-
         choices = distractors + [correct]
         random.shuffle(choices)
         return choices
@@ -175,7 +224,9 @@ class KanjiQuiz:
         print("\n=== Kanji Quiz ===")
         print(f"Levels in play: {', '.join('N' + str(l) for l in self.levels)}")
         print(f"Kanji available: {len(self.kanji_list)}")
-        print("Commands: enter a number to answer, 's' to skip, 'q' to quit.\n")
+        print("Commands: press a number key to answer, 's' to skip, 'q' to quit.")
+        self.print_stats()
+        print()
 
         while True:
             kanji = self.pick_random_kanji()
@@ -193,28 +244,59 @@ class KanjiQuiz:
         self.print_choices(choices)
 
         answer_index = self.prompt_for_answer(len(choices))
+
         if answer_index == "quit":
             return "quit"
+
         if answer_index == "skip":
             print(f"\nSkipped. ({kanji.character} means: {correct})\n")
             print("-" * 60)
             return "continue"
 
         chosen = choices[answer_index]
-        if chosen == correct:
+        is_correct = (chosen == correct)
+
+        if is_correct:
             print("\n✅ Correct!")
         else:
             print(f"\n❌ Incorrect. You chose: {chosen}")
             print(f"   The correct meaning was: {correct}")
 
-        self.print_sentence_meanings(sentences)
+        self.record_result(kanji.character, is_correct)
+        self.print_stats()
 
+        self.print_sentence_meanings(sentences)
         self.prompt_for_next()
         print("-" * 60)
         return "continue"
 
-    # ---- display helpers ----
+    # ---- stats helpers ----
+    def record_result(self, character: str, is_correct: bool) -> None:
+        if is_correct:
+            self.stats["total_correct"] += 1
+        else:
+            self.stats["total_incorrect"] += 1
+        # Only the most recent result for a given kanji counts toward
+        # the "unique kanji" accuracy metric.
+        self.stats["kanji_results"][character] = is_correct
 
+    def print_stats(self) -> None:
+        total_correct = self.stats["total_correct"]
+        total_incorrect = self.stats["total_incorrect"]
+        total = total_correct + total_incorrect
+        overall_acc = round(100 * total_correct / total) if total else 0
+
+        kanji_results = self.stats["kanji_results"]
+        unique_total = len(kanji_results)
+        unique_correct = sum(1 for v in kanji_results.values() if v)
+        unique_acc = round(100 * unique_correct / unique_total) if unique_total else 0
+
+        print(f"📊 Overall accuracy: {overall_acc}% "
+              f"({total_correct} correct, {total_incorrect} incorrect, {total} total)")
+        print(f"📊 Unique kanji accuracy: {unique_acc}% "
+              f"({unique_correct}/{unique_total} unique kanji, latest result only)")
+
+    # ---- display helpers ----
     def print_kanji_block(self, kanji: QuizKanji, sentences: List[SampleSentence]):
         print(f"\n{kanji.character} (N{kanji.jlpt_level})")
         print(f"onyomi: {', '.join(kanji.readings_on) if kanji.readings_on else '-'}")
@@ -237,16 +319,21 @@ class KanjiQuiz:
             print(f"    -> {s.meaning}")
 
     def prompt_for_answer(self, num_choices: int):
+        print(f"\nYour answer (1-{num_choices}, 's' to skip, 'q' to quit): ",
+              end="", flush=True)
         while True:
-            raw = input(f"\nYour answer (1-{num_choices}, 's' to skip, "
-                        f"'q' to quit): ").strip().lower()
-            if raw == "q":
+            ch = get_keypress()
+            if ch == "q":
+                print("q")
                 return "quit"
-            if raw == "s":
+            if ch == "s":
+                print("s")
                 return "skip"
-            if raw.isdigit() and 1 <= int(raw) <= num_choices:
-                return int(raw) - 1
-            print(f"Please enter a number 1-{num_choices}, 's', or 'q'.")
+            if ch.isdigit() and 1 <= int(ch) <= num_choices:
+                print(ch)
+                return int(ch) - 1
+            # Ignore any other keypress (no Enter needed, no echo, just
+            # keep waiting for a valid key).
 
     def prompt_for_next(self):
         while True:
@@ -267,7 +354,6 @@ class KanjiQuiz:
 def parse_levels_arg(levels_arg: Optional[List[str]]) -> List[int]:
     if not levels_arg:
         return [5, 4, 3, 2, 1]
-
     parsed = []
     for raw in levels_arg:
         cleaned = raw.strip().upper().replace("N", "")
@@ -275,7 +361,6 @@ def parse_levels_arg(levels_arg: Optional[List[str]]) -> List[int]:
             parsed.append(int(cleaned))
         else:
             print(f"WARNING: Ignoring unrecognized level '{raw}'.")
-
     return sorted(set(parsed)) if parsed else [5, 4, 3, 2, 1]
 
 
@@ -284,10 +369,8 @@ def prompt_for_levels_interactively() -> List[int]:
     print("Enter one or more of 5 4 3 2 1 separated by spaces or commas.")
     print("Press Enter with no input to include all levels (N5-N1).")
     raw = input("Levels: ").strip()
-
     if not raw:
         return [5, 4, 3, 2, 1]
-
     tokens = raw.replace(",", " ").split()
     return parse_levels_arg(tokens)
 
@@ -314,8 +397,8 @@ def main():
         help="Number of sample sentences to show per kanji (default: 3)."
     )
     parser.add_argument(
-        "--choice-count", type=int, default=5,
-        help="Number of multiple-choice meaning options (default: 5)."
+        "--choice-count", type=int, default=4,
+        help="Number of multiple-choice meaning options (default: 4)."
     )
     args = parser.parse_args()
 
@@ -335,6 +418,7 @@ def main():
     quiz = KanjiQuiz(
         pool=pool,
         levels=levels,
+        base_dir=base_dir,
         sentence_count=args.sentence_count,
         choice_count=args.choice_count,
     )
