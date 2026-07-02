@@ -28,6 +28,12 @@ The client item is in the folder, named `KanjiLearnClient`.
    * `Settings/URL` - Your server's URL
    * `Settings/TryConnectionAsUsername` Not required to be set, but allows you to designate a user who will send requests to the server. You can set this as yourself so others do not have to make API requests. If this field is not set, or is set to a username of a user who is not in the session, API requests will be sent by whoever interacts with the item.
 
+
+## Webapp:
+1. Start the server as described above.
+2. run `python start_web_app.py`, which is a frontent that calls the API
+
+
 ## Credits
 The `kanji.json` file is from:
 https://github.com/davidluzgouveia/kanji-data

@@ -164,7 +164,8 @@ class KanjiWebApp:
             logger.error(f"Error fetching kanji: {e}")
             return jsonify({'error': str(e)}), 500
 
-    def run(self, host='0.0.0.0', port=8080, debug=True):
+    def run(self, host='0.0.0.0', debug=True):
+        port = self.config.webapp_port
         self.app.run(host=host, port=port, debug=debug)
 
 

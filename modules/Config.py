@@ -39,6 +39,10 @@ class Config:
         self.quiz_potential_answers_count = int(self.config['quiz']['potential_answers_count'])
         self.quiz_max_chars_per_kanji_info_section = int(self.config['quiz']['max_chars_per_kanji_info_section'])
 
+        self.webapp_port = int(self.config['webapp']['port'])
+
+
+
 
     def to_dict(self):
         return {
