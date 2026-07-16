@@ -23,8 +23,9 @@ During the quiz:
       kanji is recorded for stats purposes - you must then keep
       choosing until you pick the correct meaning before moving on
       (unless you skip to force a new kanji).
-    - After answering correctly (or skipping), press Enter to move to
-      the next kanji.
+    - After answering correctly (or skipping), press Enter or any
+      number key (no need to press Enter afterward) to move to the
+      next kanji.
 Stats:
     - Overall accuracy (integer %) plus correct/incorrect/total counts
       are tracked for the current session only.
@@ -64,6 +65,27 @@ class QuizKanji:
 # --------------------------------------------------------------------------
 # Single-keypress input (no Enter required)
 # --------------------------------------------------------------------------
+def flush_input_buffer() -> None:
+    """
+    Discards any keypresses that are queued up but not yet read. This
+    matters because holding a key down (e.g. to answer a question)
+    generates OS-level key-repeat, which can leave extra copies of
+    that key sitting in the input buffer. Without flushing, those
+    leftover presses get silently consumed by the *next* prompt
+    (e.g. immediately "answering" the next kanji with a stale
+    keystroke instead of waiting for a fresh one).
+    """
+    try:
+        import msvcrt  # Windows
+        while msvcrt.kbhit():
+            msvcrt.getch()
+    except ImportError:
+        import termios
+        try:
+            fd = sys.stdin.fileno()
+            termios.tcflush(fd, termios.TCIFLUSH)
+        except Exception:
+            pass
 def get_keypress() -> str:
     """
     Reads a single keypress from the terminal without requiring Enter,
@@ -228,6 +250,7 @@ class KanjiQuiz:
             print(f"   The correct meaning was: {correct}")
             print("Try again - pick the correct meaning to continue "
                   "(or 's' to skip to a new kanji).\n")
+            flush_input_buffer()
             self.print_choices(choices)
         if not skipped:
             self.print_stats()
@@ -277,6 +300,7 @@ class KanjiQuiz:
             print(f"  {s.sentence}")
             print(f"    -> {s.meaning}")
     def prompt_for_answer(self, num_choices: int):
+        flush_input_buffer()
         print(f"\nYour answer (1-{num_choices}, 's' to skip, 'q' to quit): ",
               end="", flush=True)
         while True:
@@ -293,15 +317,22 @@ class KanjiQuiz:
             # Ignore any other keypress (no Enter needed, no echo, just
             # keep waiting for a valid key).
     def prompt_for_next(self):
+        flush_input_buffer()
+        print("\nPress Enter, or any number key, for next kanji ('q' to quit): ",
+              end="", flush=True)
         while True:
-            raw = input("\nPress Enter for next kanji ('q' to quit): ").strip().lower()
-            if raw in ("", "n", "next"):
+            ch = get_keypress()
+            if ch in ("\r", "\n"):
+                print()
                 return
-            if raw == "q":
+            if ch == "q":
+                print("q")
                 print("\nThanks for studying! さようなら 👋")
                 sys.exit(0)
-            # Any other input just falls through to next kanji too.
-            return
+            if ch.isdigit():
+                print(ch)
+                return
+            # Ignore any other keypress and keep waiting for a valid one.
 # --------------------------------------------------------------------------
 # Level selection
 # --------------------------------------------------------------------------
