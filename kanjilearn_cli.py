@@ -12,8 +12,20 @@ but the Python standard library, as long as it can find `kanji_data`.
 Usage:
     python kanji_quiz_cli.py
     python kanji_quiz_cli.py --levels 5 4
+    python kanji_quiz_cli.py --mode match
     python kanji_quiz_cli.py --data-dir /path/to/kanji_data
-During the quiz:
+Modes:
+    choice  - The original mode. You're shown a kanji + sample
+              sentences and pick the correct meaning from a list of
+              multiple-choice options.
+    match   - New mode. You're shown N randomly selected sample
+              sentences (in Japanese, with furigana) and a shuffled
+              list of their English meanings. You match each sentence
+              to its correct meaning.
+    If not passed via --mode, you'll be prompted to choose
+    interactively (or "choice" is used by default in non-interactive
+    contexts).
+During the "choice" mode quiz:
     - Press a number key (no Enter needed) to answer.
     - Press 's' to skip the current kanji (no answer recorded, and this
       forces a move to a new kanji even if you haven't answered
@@ -26,23 +38,32 @@ During the quiz:
     - After answering correctly (or skipping), press Enter or any
       number key (no need to press Enter afterward) to move to the
       next kanji.
+During the "match" mode quiz:
+    - Each round shows a set of Japanese sample sentences, numbered,
+      and a shuffled list of lettered English meanings.
+    - For each numbered sentence, press the letter key of the meaning
+      you think matches it (no Enter needed).
+    - Press 'q' at any point to quit.
+    - After all sentences in the round are matched, you'll see which
+      ones were correct/incorrect and the right pairings, then press
+      Enter (or any key) to move to the next round.
 Stats:
     - Overall accuracy (integer %) plus correct/incorrect/total counts
-      are tracked for the current session only.
-    - A separate "unique kanji" accuracy is also tracked: for each
-      kanji character, only your MOST RECENT first-attempt result
-      counts. So if you missed a kanji before but get it right on your
-      first attempt this time, it now counts as correct in this metric
-      (and vice versa). Nothing is saved to disk - stats reset every
-      time you run the script.
+      are tracked for the current session only, separately per mode.
+    - In "choice" mode, a separate "unique kanji" accuracy is also
+      tracked: for each kanji character, only your MOST RECENT
+      first-attempt result counts.
+    - Nothing is saved to disk - stats reset every time you run the
+      script.
 """
 import argparse
 import json
 import os
 import random
+import string
 import sys
 from dataclasses import dataclass, field
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 # --------------------------------------------------------------------------
 # Data classes
 # --------------------------------------------------------------------------
@@ -173,16 +194,11 @@ def load_kanji_pool(data_dir: str) -> Dict[int, List[QuizKanji]]:
         pool[jlpt_new].append(kanji)
     return pool
 # --------------------------------------------------------------------------
-# Quiz logic
+# Shared base: level filtering + kanji list building
 # --------------------------------------------------------------------------
-class KanjiQuiz:
-    def __init__(self, pool: Dict[int, List[QuizKanji]], levels: List[int],
-                 base_dir: str, sentence_count: int = 3, choice_count: int = 4):
+class BaseQuiz:
+    def __init__(self, pool: Dict[int, List[QuizKanji]], levels: List[int]):
         self.levels = sorted(levels)
-        self.sentence_count = sentence_count
-        self.choice_count = choice_count
-        self.base_dir = base_dir
-        self.stats = {"total_correct": 0, "total_incorrect": 0, "kanji_results": {}}
         self.kanji_list: List[QuizKanji] = []
         for level in self.levels:
             self.kanji_list.extend(pool.get(level, []))
@@ -190,6 +206,23 @@ class KanjiQuiz:
             print("ERROR: No kanji with sample sentences found for the "
                   "selected level(s).")
             sys.exit(1)
+    def print_intro(self, title: str, extra_lines: List[str]):
+        print(f"\n=== {title} ===")
+        print(f"Levels in play: {', '.join('N' + str(l) for l in self.levels)}")
+        print(f"Kanji available: {len(self.kanji_list)}")
+        for line in extra_lines:
+            print(line)
+        print()
+# --------------------------------------------------------------------------
+# Mode 1: Multiple-choice quiz (kanji -> meaning)
+# --------------------------------------------------------------------------
+class KanjiChoiceQuiz(BaseQuiz):
+    def __init__(self, pool: Dict[int, List[QuizKanji]], levels: List[int],
+                 sentence_count: int = 3, choice_count: int = 4):
+        super().__init__(pool, levels)
+        self.sentence_count = sentence_count
+        self.choice_count = choice_count
+        self.stats = {"total_correct": 0, "total_incorrect": 0, "kanji_results": {}}
         # All distinct meaning strings available in the selected pool,
         # used to build multiple-choice distractors.
         self.all_meaning_strings = list({k.meaning_str for k in self.kanji_list})
@@ -207,13 +240,15 @@ class KanjiQuiz:
         random.shuffle(choices)
         return choices
     def run(self):
-        print("\n=== Kanji Quiz ===")
-        print(f"Levels in play: {', '.join('N' + str(l) for l in self.levels)}")
-        print(f"Kanji available: {len(self.kanji_list)}")
-        print("Commands: press a number key to answer, 's' to skip "
-              "(forces a new kanji), 'q' to quit.")
-        print("If you answer wrong, you'll need to pick the correct "
-              "meaning before moving on - unless you skip.")
+        self.print_intro(
+            "Kanji Quiz - Multiple Choice",
+            [
+                "Commands: press a number key to answer, 's' to skip "
+                "(forces a new kanji), 'q' to quit.",
+                "If you answer wrong, you'll need to pick the correct "
+                "meaning before moving on - unless you skip.",
+            ],
+        )
         self.print_stats()
         print()
         while True:
@@ -334,7 +369,139 @@ class KanjiQuiz:
                 return
             # Ignore any other keypress and keep waiting for a valid one.
 # --------------------------------------------------------------------------
-# Level selection
+# Mode 2: Sentence matching quiz (Japanese sentence -> English meaning)
+# --------------------------------------------------------------------------
+class SentenceMatchQuiz(BaseQuiz):
+    def __init__(self, pool: Dict[int, List[QuizKanji]], levels: List[int],
+                 match_count: int = 5):
+        super().__init__(pool, levels)
+        self.match_count = match_count
+        # Flatten every (kanji, sentence) pair across the selected
+        # levels so a round can draw sentences from different kanji.
+        self.all_sentences: List[Tuple[QuizKanji, SampleSentence]] = []
+        for k in self.kanji_list:
+            for s in k.sample_sentences:
+                self.all_sentences.append((k, s))
+        if len(self.all_sentences) < 2:
+            print("ERROR: Not enough sample sentences found for the "
+                  "selected level(s) to run matching mode.")
+            sys.exit(1)
+        # Round size can't exceed however many sentences we actually have.
+        self.round_size = min(self.match_count, len(self.all_sentences))
+        self.stats = {"total_correct": 0, "total_incorrect": 0, "rounds": 0}
+    def run(self):
+        self.print_intro(
+            "Kanji Quiz - Sentence Matching",
+            [
+                f"Each round: match {self.round_size} Japanese sentences to "
+                "their English meanings.",
+                "Commands: press the letter key of your match for each "
+                "sentence, 'q' to quit.",
+            ],
+        )
+        self.print_stats()
+        print()
+        while True:
+            result = self.run_single_round()
+            if result == "quit":
+                print("\nThanks for studying! さようなら 👋")
+                return
+    def run_single_round(self) -> str:
+        picks = random.sample(self.all_sentences, self.round_size)
+        sentences = [s for _, s in picks]
+        letters = list(string.ascii_uppercase[: self.round_size])
+        # Shuffle the order the meanings are displayed in (as numbered
+        # options 1..N), independent of sentence order (lettered
+        # A..N), so the numbers don't just line up 1:1 with letters.
+        shuffled_indices = list(range(self.round_size))
+        random.shuffle(shuffled_indices)
+        # number (1-based) -> index into `sentences` whose meaning is
+        # shown at that number.
+        number_to_sentence_index = {
+            pos + 1: shuffled_indices[pos] for pos in range(self.round_size)
+        }
+        self.print_sentences(sentences, letters)
+        self.print_meaning_options(sentences, shuffled_indices)
+        user_matches: Dict[int, int] = {}  # sentence index -> chosen number
+        for i in range(self.round_size):
+            flush_input_buffer()
+            print(f"\nSentence {letters[i]}: match to which meaning? "
+                  f"(1-{self.round_size}, 'q' to quit): ", end="", flush=True)
+            choice = self.prompt_for_number(self.round_size)
+            if choice == "quit":
+                return "quit"
+            print(choice)
+            user_matches[i] = choice
+        self.score_round(sentences, letters, user_matches, number_to_sentence_index)
+        self.print_stats()
+        self.prompt_for_next()
+        print("-" * 60)
+        return "continue"
+    def score_round(self, sentences: List[SampleSentence], letters: List[str],
+                     user_matches: Dict[int, int],
+                     number_to_sentence_index: Dict[int, int]) -> None:
+        print("\nResults:")
+        round_correct = 0
+        for i, sentence in enumerate(sentences):
+            chosen_number = user_matches[i]
+            chosen_sentence_index = number_to_sentence_index[chosen_number]
+            is_correct = (chosen_sentence_index == i)
+            self.stats["total_correct" if is_correct else "total_incorrect"] += 1
+            if is_correct:
+                round_correct += 1
+                print(f"  ✅ Sentence {letters[i]}: {chosen_number} - {sentence.meaning}")
+            else:
+                print(f"  ❌ Sentence {letters[i]}: you picked {chosen_number} "
+                      f"({sentences[chosen_sentence_index].meaning})")
+                print(f"      correct meaning: {sentence.meaning}")
+        self.stats["rounds"] += 1
+        print(f"\nRound score: {round_correct}/{self.round_size}")
+    # ---- stats helpers ----
+    def print_stats(self) -> None:
+        total_correct = self.stats["total_correct"]
+        total_incorrect = self.stats["total_incorrect"]
+        total = total_correct + total_incorrect
+        overall_acc = round(100 * total_correct / total) if total else 0
+        print(f"📊 Match accuracy: {overall_acc}% "
+              f"({total_correct} correct, {total_incorrect} incorrect, "
+              f"{total} matches across {self.stats['rounds']} rounds)")
+    # ---- display helpers ----
+    def print_sentences(self, sentences: List[SampleSentence], letters: List[str]):
+        print("\nJapanese sentences:")
+        for letter, s in zip(letters, sentences):
+            print(f"\n  {letter}. {s.sentence}")
+            print(f"     {s.sentence_furigana}")
+    def print_meaning_options(self, sentences: List[SampleSentence],
+                               shuffled_indices: List[int]):
+        print("\nEnglish meanings:")
+        for pos, sentence_index in enumerate(shuffled_indices):
+            print(f"  {pos + 1}. {sentences[sentence_index].meaning}")
+    def prompt_for_number(self, num_choices: int):
+        while True:
+            ch = get_keypress()
+            if ch == "q":
+                return "quit"
+            if ch.isdigit() and 1 <= int(ch) <= num_choices:
+                return int(ch)
+            # Ignore any other keypress and keep waiting for a valid one.
+    def prompt_for_next(self):
+        flush_input_buffer()
+        print("\nPress Enter, or any key, for next round ('q' to quit): ",
+              end="", flush=True)
+        while True:
+            ch = get_keypress()
+            if ch in ("\r", "\n"):
+                print()
+                return
+            if ch == "q":
+                print("q")
+                print("\nThanks for studying! さようなら 👋")
+                sys.exit(0)
+            if ch:
+                print(ch)
+                return
+# --------------------------------------------------------------------------
+# Level / mode selection
 # --------------------------------------------------------------------------
 def parse_levels_arg(levels_arg: Optional[List[str]]) -> List[int]:
     if not levels_arg:
@@ -356,11 +523,44 @@ def prompt_for_levels_interactively() -> List[int]:
         return [5, 4, 3, 2, 1]
     tokens = raw.replace(",", " ").split()
     return parse_levels_arg(tokens)
+MODE_CHOICE = "choice"
+MODE_MATCH = "match"
+VALID_MODES = (MODE_CHOICE, MODE_MATCH)
+def parse_mode_arg(mode_arg: Optional[str]) -> str:
+    if not mode_arg:
+        return MODE_CHOICE
+    cleaned = mode_arg.strip().lower()
+    if cleaned in VALID_MODES:
+        return cleaned
+    # A couple of friendly aliases.
+    if cleaned in ("mc", "multiple-choice", "multiplechoice"):
+        return MODE_CHOICE
+    if cleaned in ("matching", "sentence-match", "sentencematch"):
+        return MODE_MATCH
+    print(f"WARNING: Unrecognized mode '{mode_arg}', defaulting to 'choice'.")
+    return MODE_CHOICE
+def prompt_for_mode_interactively() -> str:
+    print("Select a quiz mode.")
+    print("  1. choice - kanji + sample sentences, pick the meaning "
+          "(multiple choice)")
+    print("  2. match  - match several sample sentences to their "
+          "English meanings")
+    raw = input("Mode [1/2, Enter for choice]: ").strip().lower()
+    if raw in ("2", "match", "matching", "m"):
+        return MODE_MATCH
+    return MODE_CHOICE
 # --------------------------------------------------------------------------
 # Entry point
 # --------------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser(description="Offline CLI Kanji Quiz")
+    parser.add_argument(
+        "--mode", choices=list(VALID_MODES), default=None,
+        help="Quiz mode: 'choice' (kanji -> meaning, multiple choice) or "
+             "'match' (match sample sentences to their English meanings). "
+             "If omitted, you'll be prompted (or 'choice' is used in "
+             "non-interactive contexts)."
+    )
     parser.add_argument(
         "--levels", nargs="+", default=None,
         help="JLPT levels to quiz on, e.g. --levels 5 4 3. "
@@ -374,15 +574,34 @@ def main():
     )
     parser.add_argument(
         "--sentence-count", type=int, default=3,
-        help="Number of sample sentences to show per kanji (default: 3)."
+        help="[choice mode] Number of sample sentences to show per kanji "
+             "(default: 3)."
     )
     parser.add_argument(
         "--choice-count", type=int, default=4,
-        help="Number of multiple-choice meaning options (default: 4)."
+        help="[choice mode] Number of multiple-choice meaning options "
+             "(default: 4)."
+    )
+    parser.add_argument(
+        "--match-count", type=int, default=5,
+        help="[match mode] Number of sentences to match per round "
+             "(default: 5)."
     )
     args = parser.parse_args()
     base_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = args.data_dir or os.path.join(base_dir, "kanji_data")
+    interactive_stdin = True
+    try:
+        sys.stdin.fileno()
+    except Exception:
+        interactive_stdin = False
+    if args.mode is not None:
+        mode = parse_mode_arg(args.mode)
+    else:
+        try:
+            mode = prompt_for_mode_interactively()
+        except EOFError:
+            mode = MODE_CHOICE
     if args.levels is not None:
         levels = parse_levels_arg(args.levels)
     else:
@@ -392,13 +611,19 @@ def main():
             # No interactive stdin available - default to all levels.
             levels = [5, 4, 3, 2, 1]
     pool = load_kanji_pool(data_dir)
-    quiz = KanjiQuiz(
-        pool=pool,
-        levels=levels,
-        base_dir=base_dir,
-        sentence_count=args.sentence_count,
-        choice_count=args.choice_count,
-    )
+    if mode == MODE_MATCH:
+        quiz = SentenceMatchQuiz(
+            pool=pool,
+            levels=levels,
+            match_count=args.match_count,
+        )
+    else:
+        quiz = KanjiChoiceQuiz(
+            pool=pool,
+            levels=levels,
+            sentence_count=args.sentence_count,
+            choice_count=args.choice_count,
+        )
     try:
         quiz.run()
     except KeyboardInterrupt:
